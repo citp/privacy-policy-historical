@@ -1,21 +1,41 @@
-<!--The following is the downloaded HTML source of the temptalia.com privacy policy that was archived on 2011-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614160631id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the temptalia.com privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007000239id_/http%3A//www.temptalia.com/temptaliacom-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html dir="ltr" lang="en-US"><head>
-<script type="text/javascript" src="http://www2a.glam.com/mobile/detect.act?affiliateId=318973508"></script>
-<meta charset="utf-8">
+<!DOCTYPE html><html dir="ltr" lang="en-US"><!--<![endif]--><head>
+<meta charset="UTF-8">
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
 <title>Temptalia.com Privacy Policy</title>
-<link rel="alternate" type="application/rss+xml" title="Temptalia - Beauty Blog Feed" href="http://feedproxy.google.com/Temptalia">
-<link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.temptalia.com/wp-content/themes/temptalia2011/style.css">
-<!--[if lte IE 6]><link rel="stylesheet" type="text/css" media="all" href="http://www.temptalia.com/wp-content/themes/temptalia2011/css/ie6.css" /><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" type="text/css" media="all" href="http://www.temptalia.com/wp-content/themes/temptalia2011/css/ie7.css" /><![endif]-->
-<link rel="stylesheet" type="text/css" href="http://www.temptalia.com/wp-content/themes/temptalia2011/css/sexyslider.css">
-<link rel="pingback" href="http://www.temptalia.com/xmlrpc.php">
-<script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2011/_js/jquery.min.js"></script>
-<script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2011/_js/jquery.sexyslider.min.js"></script>
-<script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2011/_js/jquery.tabs.js"></script>
+	
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+    <link rel="apple-touch-icon" href="http://www.temptalia.com/wp-content/themes/temptalia2012/images/iphone-btn.png"> 
+	<link rel="shortcut icon" href="http://www.temptalia.com/favicon.ico"> 
+    <link rel="stylesheet" href="http://www.temptalia.com/wp-content/themes/temptalia2012/style.css?1315845335" type="text/css" media="screen, projection">
+    <!--[if IE ]>
+    	<link rel="stylesheet" type="text/css" href="http://www.temptalia.com/wp-content/themes/temptalia2012/css/ie.css" />
+    <![endif]-->
+    <!--[if IE 7 ]>
+    	<link rel="stylesheet" type="text/css" href="http://www.temptalia.com/wp-content/themes/temptalia2012/css/ie7.css" />
+    <![endif]-->
+    <!--[if IE 6 ]>
+    	<link rel="stylesheet" type="text/css" href="http://www.temptalia.com/wp-content/themes/temptalia2012/css/ie6.css" />
+    <![endif]-->
+
+		<link rel="pingback" href="http://www.temptalia.com/xmlrpc.php">
+    
+    <script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2012/js/jquery.min.js"></script>
+    <script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2012/js/jquery.ui.core.js"></script>
+    <script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2012/js/jquery.ui.widget.js"></script>
+    <script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2012/js/jquery.tabs.js"></script>
+	<script type="text/javascript" src="http://www.temptalia.com/wp-content/themes/temptalia2012/js/temptalia-script.js"></script>
+    <!--[if lt IE 7 ]>
+        <script src="http://www.temptalia.com/wp-content/themes/temptalia2012/js/dd_belatedPNG.js"></script>
+        <script>
+          /* EXAMPLE */
+          DD_belatedPNG.fix('img, #mid, #wrapper, #footer, .comment a, ul li, .search-button');
+        </script>
+	<![endif]-->
+
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript">
 GS_googleAddAdSenseService("ca-pub-6243401524776192");
@@ -37,37 +57,60 @@ GA_googleAddSlot("ca-pub-6243401524776192", "728x90-PREM");
 GA_googleFetchAds();
 </script>
 <script type="text/javascript">
-  $(document).ready(function(){
-    $('#slider').SexySlider({
-      width  : 580,
-      height : 210,
-      strips : 20,
-      delay  : 3000,
-	  navigation : '#nav',
-      effect : 'random',
-      direction: 'random',
-	  auto: true,
-    });
-	$("#tabs").tabs();
-	$("#tabs-2").tabs();
-});
-</script> 
+$(document).ready(function() {
 
-<!-- This site is optimized with the Yoast WordPress SEO plugin v0.4.2 - http://yoast.com/wordpress/seo/ -->
+	//When page loads...
+	$(".tab_content").hide(); //Hide all content
+	$(".tab_content2").hide(); //Hide all content
+	$("ul.tabs li:first").addClass("active").show(); // Activate first tab
+	$("ul.tabs2 li:first").addClass("active").show(); // Activate first tab
+	$(".tab_content:first").show(); //Show first tab content
+	$(".tab_content2:first").show(); //Show first tab content
+
+	//On Click Event
+	$("ul.tabs li").click(function() {
+
+		$("ul.tabs li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+	
+	//On Click Event
+	$("ul.tabs2 li").click(function() {
+
+		$("ul.tabs2 li").removeClass("active"); //Remove any "active" class
+		$(this).addClass("active"); //Add "active" class to selected tab
+		$(".tab_content2").hide(); //Hide all tab content
+
+		var activeTab = $(this).find("a").attr("href"); //Find the href attribute value to identify the active tab + content
+		$(activeTab).fadeIn(); //Fade in the active ID content
+		return false;
+	});
+	
+});
+</script>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.0.2.2 - http://yoast.com/wordpress/seo/ -->
 <meta name="description" content="Privacy Policy (4) PRIVACY.&nbsp; The privacy of our visitors to Temptalia.com is important to us.&nbsp; At Temptalia.com, we recognize that privacy of your p">
 <link rel="canonical" href="http://www.temptalia.com/temptaliacom-privacy-policy">
 <!-- / Yoast WordPress SEO plugin. -->
 
+<link rel="alternate" type="application/rss+xml" title="Temptalia Beauty Blog: Makeup Reviews, Beauty Tips » Feed" href="http://www.temptalia.com/feed">
+<link rel="alternate" type="application/rss+xml" title="Temptalia Beauty Blog: Makeup Reviews, Beauty Tips » Comments Feed" href="http://www.temptalia.com/comments/feed">
 <link rel="alternate" type="application/rss+xml" title="Temptalia Beauty Blog: Makeup Reviews, Beauty Tips » Temptalia.com Privacy Policy Comments Feed" href="http://www.temptalia.com/temptaliacom-privacy-policy/feed">
 <link rel="stylesheet" id="wp-polls-css" href="http://www.temptalia.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
 <link rel="stylesheet" id="wp-pagenavi-css" href="http://www.temptalia.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
 <script type="text/javascript" src="http://www.temptalia.com/wp-includes/js/l10n.js?ver=20101110"></script>
-<script type="text/javascript" src="http://www.temptalia.com/wp-content/plugins/i-like-this/js/i-like-this.js?ver=3.1.2"></script>
+<script type="text/javascript" src="http://www.temptalia.com/wp-content/plugins/i-like-this/js/i-like-this.js?ver=3.2"></script>
 <script type="text/javascript" src="http://www.temptalia.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://www.temptalia.com/wp-includes/js/jquery/jquery.js?ver=1.4.4"></script>
-<meta name="generator" content="WordPress">
+<script type="text/javascript" src="http://www.temptalia.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<meta name="generator" content="WordPress 3.2">
 
-<!-- Bad Behavior 2.0.42 run time: 2.990 ms -->
+<!-- Bad Behavior 2.1.14 run time: 1.828 ms -->
 <script type="text/javascript">
 <!--
 function bb2_addLoadEvent(func) {
@@ -88,7 +131,7 @@ bb2_addLoadEvent(function() {
 			var myElement = document.createElement('input');
 			myElement.setAttribute('type', 'hidden');
 			myElement.name = 'bb2_screener_';
-			myElement.value = '1308067591 174.129.228.67';
+			myElement.value = '1317945761 207.241.237.226';
 			document.forms[i].appendChild(myElement);
 		}
 	}
@@ -106,84 +149,444 @@ bb2_addLoadEvent(function() {
 	border: 1px solid #ffffff;
 }
 </style>
-</head>
+<script type="text/javascript">
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-293830-7']);
+  _gaq.push(['_trackPageview'],['_trackPageLoadTime']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</head>
 <body class="single single-post postid-1954 single-format-standard">
-<div id="wrapper">
-            <div id="banner-ad">
-            	<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318973508&amp;adSize=970x66"></script>
-				<!-- 728x90-PREM -->
-				<script type="text/javascript">
-                GA_googleFillSlot("728x90-PREM");
-                </script>
-            </div>
-        <div id="header"></div>
-        <div id="banner">
-        	<div id="logo"><a href="http://www.temptalia.com/" title="Temptalia Beauty Blog: Makeup Reviews, Beauty Tips"><span>&nbsp;</span></a></div>
-        	<div id="socialBox">
-            	<div id="socialBtns">
-                    <a href="http://www.facebook.com/temptalia" target="_blank"><img src="http://www.temptalia.com/wp-content/themes/temptalia2011/images/btn-facebook.jpg"></a>
-                    <a href="http://www.twitter.com/temptalia" target="_blank"><img src="http://www.temptalia.com/wp-content/themes/temptalia2011/images/btn-twitter.jpg"></a>
-                    <a href="http://www.youtube.com/temptalia" target="_blank"><img src="http://www.temptalia.com/wp-content/themes/temptalia2011/images/btn-youtube.jpg"></a>
-                    <a href="http://feedproxy.google.com/Temptalia" target="_blank"><img src="http://www.temptalia.com/wp-content/themes/temptalia2011/images/btn-rss.jpg"></a>
-                </div>
-                <div id="searchField">
-                <form action="http://www.temptalia.com/search" id="cse-search-box">
-                  <div>
-                    <input type="hidden" name="cx" value="partner-pub-6243401524776192:4yeytyvxcr8">
-                    <input type="hidden" name="cof" value="FORID:11">
-                    <input type="hidden" name="ie" value="ISO-8859-1">
-                    <input type="text" name="q" size="31">
-                    <input type="submit" name="sa" value="Search">
-                  </div>
-                </form>
-                <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-            	</div>
-            </div>
+<div id="page">
+    <div id="banner">
+        <div id="headerAd">
+			<script type="text/javascript" language="javascript" src="http://www2.glam.com/app/site/affiliate/viewChannelModule.act?mName=viewAdJs&amp;affiliateId=318973508&amp;adSize=970x66"></script>
+			<!-- 728x90-PREM -->
+			<script type="text/javascript">
+            GA_googleFillSlot("728x90-PREM");
+            </script>
+		</div><!-- #headerAd -->
+        <!-- Logo -->
+        <div id="logo">
+			<a href="http://www.temptalia.com"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/logo.png"></a>
         </div>
-        <div id="section-head">
-            <div id="navigation">
-              <ul>
-                <li><a href="http://www.temptalia.com/">Home</a></li>
-                <li><a href="http://www.temptalia.com/category/features">Features</a></li>
-                <li><a href="http://www.temptalia.com/category/looks">Looks</a></li>
-                <li><a href="http://www.temptalia.com/category/tutorials">Tutorials</a></li>
-                <li><a href="http://www.temptalia.com/category/reviews">Reviews</a></li>
-                <li><a href="http://www.temptalia.com/category/latest-collections">Launches</a></li>
-                <li><a href="http://www.temptalia.com/category/brands">Brands</a></li>
-                <li><a href="http://www.temptalia.com/about-us">About Us</a></li>
-              </ul>
+        <!-- Logo -->
+        <div id="nav">
+        	<div id="drop-down">
+                <!-- UL NAVIGATION -->
+                
+<ul id="topnav">
+<li class="first"><a href="http://www.temptalia.com" class="main">Home</a></li>
+                        <li><a href="http://www.temptalia.com/category/features" class="main">Features</a>
+	                    <!--Subnav Starts Here-->
+                                                <span>
+                                                	<a href="http://www.temptalia.com/category/features/beauty-tips">Beauty Tips</a> - <a href="http://www.temptalia.com/category/features/budget-beauty-products">Budget Beauty</a> - <a href="http://www.temptalia.com/category/features/bargains-sales">Bargains</a> - <a href="http://www.temptalia.com/category/features/contests">Contests</a> - <a href="http://www.temptalia.com/category/features/five-ways">Five Ways</a> - <a href="http://www.temptalia.com/category/features/beauty-tips">View More &gt;&gt;</a>
+                        </span>
+                        <!--Subnav Ends Here-->
+                        </li>
+                        <li><a href="http://www.temptalia.com/category/looks" class="main">Looks</a>
+                        <!--Subnav Starts Here-->
+                                                <span>
+                                                	<a href="http://www.temptalia.com/category/looks/green">Green</a> - <a href="http://www.temptalia.com/category/looks/lips">Lips</a> - <a href="http://www.temptalia.com/category/looks/neutral">Neutral</a> - <a href="http://www.temptalia.com/category/looks/purple">Purple</a> - <a href="http://www.temptalia.com/category/looks/smokey">Smokey Eyes</a> - <a href="http://www.temptalia.com/category/looks">View More &gt;&gt;</a>
+                        </span>
+                        <!--Subnav Ends Here-->
+                        </li>
+                        <li><a href="http://www.temptalia.com/category/tutorials" class="main">Tutorials</a>
+                                                <span>
+                                                	<a href="http://www.temptalia.com/category/tutorials/tutorials-eyes">Eyes</a> - <a href="http://www.temptalia.com/category/tutorials/tutorials-face">Face</a> - <a href="http://www.temptalia.com/category/tutorials/tutorials-lips">Lips</a> - <a href="http://www.temptalia.com/category/tutorials/makeup-tips-tutorials">Makeup Tips</a> - <a href="http://www.temptalia.com/category/tutorials/video">Video</a> - <a href="http://www.temptalia.com/category/tutorials">View More &gt;&gt;</a>
+                        </span>
+                        </li>
+                        <li><a href="http://www.temptalia.com/category/reviews" class="main">Reviews</a>
+                                                <span>
+                                                	<a href="http://www.temptalia.com/category/reviews/cheek-product-reviews">Cheek Products</a> - <a href="http://www.temptalia.com/category/reviews/eye-product-reviews">Eye Products</a> - <a href="http://www.temptalia.com/category/reviews/face-product-reviews">Face Products</a> - <a href="http://www.temptalia.com/category/reviews/lip-product-reviews">Lip Products</a> - <a href="http://www.temptalia.com/category/reviews/hands-nails-product-reviews/nail-polishes-and-treatments">Nail Polishes</a> - <a href="http://www.temptalia.com/category/reviews/skincare-reviews">Skincare</a> - <a href="http://www.temptalia.com/category/reviews">View More &gt;&gt;</a>
+                        </span>
+                        </li>
+                        <li><a href="http://www.temptalia.com/category/latest-collections" class="main">Launches</a>
+                                                <span>
+                                                	<a href="http://www.temptalia.com/category/latest-collections/summer-2011">Summer 2011</a> - <a href="http://www.temptalia.com/category/latest-collections/fall-2011">Fall 2011</a> - <a href="http://www.temptalia.com/category/latest-collections/holiday-2011">Holiday 2011</a> - <a href="http://www.temptalia.com/category/latest-collections/mac-cosmetics-launches">MAC Cosmetics Launches</a> - <a href="http://www.temptalia.com/category/latest-collections">View More &gt;&gt;</a>
+                        </span></li>
+                        <li><a href="http://www.temptalia.com/category/brands" class="main">Brands</a>
+                                                <span>
+                                                	<a href="http://www.temptalia.com/category/brands/bobbi-brown-collections">Bobbi Brown</a> - <a href="http://www.temptalia.com/category/brands/chanel-collections">Chanel</a> - <a href="http://www.temptalia.com/category/brands/guerlain-collections">Guerlain</a> - <a href="http://www.temptalia.com/category/brands/illamasqua">Illamasqua</a> - <a href="http://www.temptalia.com/category/brands/mac-cosmetics-collections">MAC</a> - <a href="http://www.temptalia.com/category/brands/make-up-for-ever-collections">MUFE</a> - <a href="http://www.temptalia.com/category/brands/nars-collections">NARS</a> - <a href="http://www.temptalia.com/category/brands/urban-decay">Urban Decay</a> - <a href="http://www.temptalia.com/category/brands/wet-n-wild">Wet 'n' Wild</a> - <a href="http://www.temptalia.com/category/brands">View More &gt;&gt;</a>
+                        </span>
+                        </li>
+</ul>                <!-- /UL NAVIGATION -->
+                <div id="drop-area"></div>
             </div>
-            <div id="featured">
-                <div id="slideshow">
-                    <div id="slider">
-																					                                    <img src="http://www.temptalia.com/wp-content/uploads/2011/06/deborahLippmannLady.jpg" width="580" height="210" alt="<a href=&quot;http://www.temptalia.com/deborah-lippmann-lady-sings-the-blues-nail-lacquer-review-photos-swatches&quot;>Deborah Lippmann Lady Sings the Blues Nail Lacquer Review, Photos, Swatches</a>" style="display:none;">
-                                                                    <img src="http://www.temptalia.com/wp-content/uploads/2011/06/macSemiPrecious.jpg" width="580" height="210" alt="<a href=&quot;http://www.temptalia.com/mac-semi-precious-collection-for-summer-2011&quot;>MAC Semi-Precious Collection for Summer 2011</a>" style="display:none;">
-                                                                    <img src="http://www.temptalia.com/wp-content/uploads/2011/06/chinaGlazeMetalCrackle.jpg" width="580" height="210" alt="<a href=&quot;http://www.temptalia.com/china-glaze-metal-crackle-glazes-swatches-photos-review&quot;>China Glaze Metal Crackle Glazes Swatches, Photos, Review</a>" style="display:none;">
-                                                                    <img src="http://www.temptalia.com/wp-content/uploads/2011/06/revlonStrawberry.jpg" width="580" height="210" alt="<a href=&quot;http://www.temptalia.com/revlon-strawberry-colorburst-lipgloss-review-photos-swatches&quot;>Revlon Strawberry ColorBurst Lipgloss Review, Photos, Swatches</a>" style="display:none;">
-                                                                    <img src="http://www.temptalia.com/wp-content/uploads/2011/05/swatchGallery.jpg" width="580" height="210" alt="<a href=&quot;http://www.temptalia.com/temptalia-swatch-gallery-beta-release&quot;>Temptalia Swatch Gallery – Beta Release</a>" style="display:none;">
-                                							                    </div>
-                    <div id="nav"></div>
-                </div>
-                <div id="ani-box">
-                                                                		<a href="http://www.temptalia.com/foundation-matrix"><img src="http://www.temptalia.com/wp-content/themes/temptalia2011/images/btn-foundationMatrix.jpg" alt="Foundation Matrix"></a>
-                                        </div>
+            <div id="search-area">
+            <span>Search: </span>
+                <div class="search-bar">
+                    <form role="search" method="get" id="searchform" action="http://www.temptalia.com/">
+                        <div>
+                            <input type="text" class="search-field input" name="s" id="search-field" maxlength="200" alt="Search Temptalia">
+                            <input type="submit" class="search-button" value="">
+                        </div>
+                </form></div>
+                    <div id="sort-box">
+                    	<span>Sort: </span><select name="cat" id="cat" class="postform">
+	<option value="0" selected="selected">Categories</option>
+	<option class="level-0" value="7963">Featured Post</option>
+	<option class="level-0" value="65">Features</option>
+	<option class="level-1" value="200">&nbsp;&nbsp;&nbsp;Backstage Beauty</option>
+	<option class="level-1" value="47">&nbsp;&nbsp;&nbsp;Bargains &amp; Sales</option>
+	<option class="level-1" value="187">&nbsp;&nbsp;&nbsp;Beauty Tips</option>
+	<option class="level-1" value="8978">&nbsp;&nbsp;&nbsp;Brand &amp; Product Round-ups</option>
+	<option class="level-2" value="3852">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;MAC Makeup Product Guides</option>
+	<option class="level-1" value="3854">&nbsp;&nbsp;&nbsp;Budget Beauty Products</option>
+	<option class="level-1" value="34">&nbsp;&nbsp;&nbsp;Contests</option>
+	<option class="level-1" value="6988">&nbsp;&nbsp;&nbsp;Fashion Week</option>
+	<option class="level-1" value="243">&nbsp;&nbsp;&nbsp;Features</option>
+	<option class="level-1" value="240">&nbsp;&nbsp;&nbsp;Five Ways</option>
+	<option class="level-1" value="331">&nbsp;&nbsp;&nbsp;Guest Looks &amp; Reviews</option>
+	<option class="level-2" value="237">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Challenges</option>
+	<option class="level-1" value="74">&nbsp;&nbsp;&nbsp;Series</option>
+	<option class="level-2" value="3857">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;30 Days of Make Up For Ever</option>
+	<option class="level-2" value="3858">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bridal &amp; Wedding Makeup</option>
+	<option class="level-2" value="3853">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Scarlet Season (Red Lips)</option>
+	<option class="level-2" value="4340">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Spring Season</option>
+	<option class="level-2" value="6578">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Sultry Season</option>
+	<option class="level-2" value="5323">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Summer Season</option>
+	<option class="level-1" value="66">&nbsp;&nbsp;&nbsp;Temptalia’s Collection</option>
+	<option class="level-1" value="328">&nbsp;&nbsp;&nbsp;Weekly Features</option>
+	<option class="level-0" value="167">Latest Collections</option>
+	<option class="level-1" value="168">&nbsp;&nbsp;&nbsp;By MAC Cosmetics</option>
+	<option class="level-2" value="2696">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Archives: MAC Collections</option>
+	<option class="level-1" value="8577">&nbsp;&nbsp;&nbsp;Fall 2011</option>
+	<option class="level-1" value="9230">&nbsp;&nbsp;&nbsp;Holiday 2011</option>
+	<option class="level-1" value="7219">&nbsp;&nbsp;&nbsp;Spring 2011</option>
+	<option class="level-1" value="8082">&nbsp;&nbsp;&nbsp;Summer 2011</option>
+	<option class="level-1" value="244">&nbsp;&nbsp;&nbsp;Year:  2007 Launches</option>
+	<option class="level-2" value="162">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2007</option>
+	<option class="level-2" value="99">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holiday 2007</option>
+	<option class="level-2" value="163">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winter 2007</option>
+	<option class="level-1" value="319">&nbsp;&nbsp;&nbsp;Year: 2008 Launches</option>
+	<option class="level-2" value="228">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2008</option>
+	<option class="level-2" value="272">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holiday 2008</option>
+	<option class="level-2" value="179">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2008</option>
+	<option class="level-2" value="201">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2008</option>
+	<option class="level-2" value="285">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winter 2008</option>
+	<option class="level-1" value="5181">&nbsp;&nbsp;&nbsp;Year: 2009 Launches</option>
+	<option class="level-2" value="1743">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2009</option>
+	<option class="level-2" value="3024">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holiday 2009</option>
+	<option class="level-2" value="300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2009</option>
+	<option class="level-2" value="325">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2009</option>
+	<option class="level-2" value="3158">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Winter 2009</option>
+	<option class="level-1" value="6585">&nbsp;&nbsp;&nbsp;Year: 2010 Launches</option>
+	<option class="level-2" value="5311">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fall 2010</option>
+	<option class="level-2" value="5909">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holiday 2010</option>
+	<option class="level-2" value="3902">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spring 2010</option>
+	<option class="level-2" value="4757">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Summer 2010</option>
+	<option class="level-0" value="3">Looks</option>
+	<option class="level-1" value="22">&nbsp;&nbsp;&nbsp;Black</option>
+	<option class="level-1" value="14">&nbsp;&nbsp;&nbsp;Blue</option>
+	<option class="level-1" value="25">&nbsp;&nbsp;&nbsp;Brown</option>
+	<option class="level-1" value="17">&nbsp;&nbsp;&nbsp;Gold</option>
+	<option class="level-1" value="23">&nbsp;&nbsp;&nbsp;Gray</option>
+	<option class="level-1" value="15">&nbsp;&nbsp;&nbsp;Green</option>
+	<option class="level-1" value="13">&nbsp;&nbsp;&nbsp;Guest Looks</option>
+	<option class="level-1" value="27">&nbsp;&nbsp;&nbsp;Lips</option>
+	<option class="level-1" value="24">&nbsp;&nbsp;&nbsp;Neutral</option>
+	<option class="level-1" value="26">&nbsp;&nbsp;&nbsp;Orange</option>
+	<option class="level-1" value="19">&nbsp;&nbsp;&nbsp;Pink</option>
+	<option class="level-1" value="18">&nbsp;&nbsp;&nbsp;Purple</option>
+	<option class="level-1" value="28">&nbsp;&nbsp;&nbsp;Red</option>
+	<option class="level-1" value="21">&nbsp;&nbsp;&nbsp;Smokey</option>
+	<option class="level-1" value="20">&nbsp;&nbsp;&nbsp;Teal</option>
+	<option class="level-1" value="16">&nbsp;&nbsp;&nbsp;Yellow</option>
+	<option class="level-0" value="98">Reviews</option>
+	<option class="level-1" value="149">&nbsp;&nbsp;&nbsp;Body Products</option>
+	<option class="level-2" value="213">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bath</option>
+	<option class="level-2" value="255">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exfoliators &amp; Scrubs</option>
+	<option class="level-2" value="253">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hair Removal</option>
+	<option class="level-2" value="257">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moisturizers</option>
+	<option class="level-2" value="205">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Self-Tanners</option>
+	<option class="level-1" value="160">&nbsp;&nbsp;&nbsp;Cheek Products</option>
+	<option class="level-2" value="215">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blushes</option>
+	<option class="level-2" value="220">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bronzers</option>
+	<option class="level-2" value="216">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highlighters</option>
+	<option class="level-1" value="152">&nbsp;&nbsp;&nbsp;Eye Products</option>
+	<option class="level-2" value="199">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eye Brows</option>
+	<option class="level-2" value="274">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eye Liners</option>
+	<option class="level-2" value="312">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eyeshadow Bases</option>
+	<option class="level-2" value="219">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eyeshadows</option>
+	<option class="level-2" value="174">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Makeup Palettes</option>
+	<option class="level-2" value="133">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mascara</option>
+	<option class="level-1" value="151">&nbsp;&nbsp;&nbsp;Face Products</option>
+	<option class="level-2" value="211">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Concealers</option>
+	<option class="level-2" value="157">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foundations</option>
+	<option class="level-2" value="169">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Makeup Removers</option>
+	<option class="level-2" value="3655">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Powder</option>
+	<option class="level-2" value="5441">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Primers</option>
+	<option class="level-2" value="4580">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tinted Moisturizer</option>
+	<option class="level-1" value="150">&nbsp;&nbsp;&nbsp;Fragrances &amp; Perfume</option>
+	<option class="level-1" value="153">&nbsp;&nbsp;&nbsp;Hair Care</option>
+	<option class="level-2" value="262">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shampoo/Conditioner</option>
+	<option class="level-2" value="264">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Styling Products</option>
+	<option class="level-2" value="265">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tools</option>
+	<option class="level-2" value="263">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Treatments</option>
+	<option class="level-1" value="3328">&nbsp;&nbsp;&nbsp;Hands &amp; Nails Products</option>
+	<option class="level-2" value="173">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hand Creams</option>
+	<option class="level-2" value="159">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nail Polishes and Treatments</option>
+	<option class="level-1" value="135">&nbsp;&nbsp;&nbsp;Lip Products</option>
+	<option class="level-2" value="261">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lip Balm</option>
+	<option class="level-2" value="3748">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lip Liner</option>
+	<option class="level-2" value="259">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lip Plumpers</option>
+	<option class="level-2" value="8292">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lip Stain</option>
+	<option class="level-2" value="260">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lip Treatments</option>
+	<option class="level-2" value="155">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lipgloss</option>
+	<option class="level-2" value="156">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lipstick</option>
+	<option class="level-1" value="12">&nbsp;&nbsp;&nbsp;MAC Launch Reviews</option>
+	<option class="level-1" value="203">&nbsp;&nbsp;&nbsp;Mineral Makeup</option>
+	<option class="level-1" value="9393">&nbsp;&nbsp;&nbsp;Multi-Purpose</option>
+	<option class="level-1" value="134">&nbsp;&nbsp;&nbsp;Skincare</option>
+	<option class="level-2" value="269">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Acne Treatments</option>
+	<option class="level-2" value="268">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Anti-aging</option>
+	<option class="level-2" value="161">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cleansers</option>
+	<option class="level-2" value="256">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exfoliators &amp; Scrubs</option>
+	<option class="level-2" value="158">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moisturizers</option>
+	<option class="level-2" value="8700">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Serums</option>
+	<option class="level-2" value="49">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sunscreen</option>
+	<option class="level-2" value="258">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Toners</option>
+	<option class="level-1" value="270">&nbsp;&nbsp;&nbsp;Tools</option>
+	<option class="level-2" value="4115">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brushes</option>
+	<option class="level-2" value="6674">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eyelash Curlers</option>
+	<option class="level-2" value="9252">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glitter</option>
+	<option class="level-0" value="8">Site News</option>
+	<option class="level-1" value="193">&nbsp;&nbsp;&nbsp;About</option>
+	<option class="level-1" value="235">&nbsp;&nbsp;&nbsp;Chit Chat</option>
+	<option class="level-1" value="3497">&nbsp;&nbsp;&nbsp;Disclosures &amp; Policies</option>
+	<option class="level-1" value="190">&nbsp;&nbsp;&nbsp;Press</option>
+	<option class="level-1" value="310">&nbsp;&nbsp;&nbsp;Privacy Policy</option>
+	<option class="level-1" value="8865">&nbsp;&nbsp;&nbsp;Sponsored</option>
+	<option class="level-1" value="128">&nbsp;&nbsp;&nbsp;Submit to Temptalia</option>
+	<option class="level-1" value="236">&nbsp;&nbsp;&nbsp;Support Temptalia</option>
+	<option class="level-0" value="4">Tutorials</option>
+	<option class="level-1" value="77">&nbsp;&nbsp;&nbsp;Bridal Makeup</option>
+	<option class="level-1" value="81">&nbsp;&nbsp;&nbsp;Eyes</option>
+	<option class="level-1" value="82">&nbsp;&nbsp;&nbsp;Face</option>
+	<option class="level-1" value="83">&nbsp;&nbsp;&nbsp;Lips</option>
+	<option class="level-1" value="87">&nbsp;&nbsp;&nbsp;Makeup Tips</option>
+	<option class="level-1" value="84">&nbsp;&nbsp;&nbsp;Other</option>
+	<option class="level-1" value="194">&nbsp;&nbsp;&nbsp;Video</option>
+	<option class="level-0" value="1">Via Brands</option>
+	<option class="level-1" value="298">&nbsp;&nbsp;&nbsp;AG Hair Cosmetics</option>
+	<option class="level-1" value="5876">&nbsp;&nbsp;&nbsp;Alford &amp; Hoff</option>
+	<option class="level-1" value="316">&nbsp;&nbsp;&nbsp;Anastasia</option>
+	<option class="level-1" value="3468">&nbsp;&nbsp;&nbsp;AVEDA</option>
+	<option class="level-1" value="4036">&nbsp;&nbsp;&nbsp;Aveeno</option>
+	<option class="level-1" value="229">&nbsp;&nbsp;&nbsp;Avon</option>
+	<option class="level-1" value="7203">&nbsp;&nbsp;&nbsp;Bare Escentuals</option>
+	<option class="level-1" value="333">&nbsp;&nbsp;&nbsp;Barielle</option>
+	<option class="level-1" value="334">&nbsp;&nbsp;&nbsp;Bath &amp; Body Works</option>
+	<option class="level-1" value="6180">&nbsp;&nbsp;&nbsp;Becca Cosmetics</option>
+	<option class="level-1" value="246">&nbsp;&nbsp;&nbsp;Belli</option>
+	<option class="level-1" value="124">&nbsp;&nbsp;&nbsp;Benefit</option>
+	<option class="level-1" value="9249">&nbsp;&nbsp;&nbsp;Bite Beauty</option>
+	<option class="level-1" value="254">&nbsp;&nbsp;&nbsp;Bliss</option>
+	<option class="level-1" value="6110">&nbsp;&nbsp;&nbsp;Bloom</option>
+	<option class="level-1" value="105">&nbsp;&nbsp;&nbsp;Bobbi Brown</option>
+	<option class="level-1" value="207">&nbsp;&nbsp;&nbsp;Bond No. 9</option>
+	<option class="level-1" value="3458">&nbsp;&nbsp;&nbsp;Borghese</option>
+	<option class="level-1" value="247">&nbsp;&nbsp;&nbsp;Burberry</option>
+	<option class="level-1" value="279">&nbsp;&nbsp;&nbsp;Burt’s Bees</option>
+	<option class="level-1" value="315">&nbsp;&nbsp;&nbsp;Butter London</option>
+	<option class="level-1" value="7579">&nbsp;&nbsp;&nbsp;Buxom</option>
+	<option class="level-1" value="306">&nbsp;&nbsp;&nbsp;By Terry</option>
+	<option class="level-1" value="3969">&nbsp;&nbsp;&nbsp;C.O. Bigelow</option>
+	<option class="level-1" value="311">&nbsp;&nbsp;&nbsp;Calvin Klein CK</option>
+	<option class="level-1" value="114">&nbsp;&nbsp;&nbsp;Cargo</option>
+	<option class="level-1" value="318">&nbsp;&nbsp;&nbsp;Carol’s Daughter</option>
+	<option class="level-1" value="252">&nbsp;&nbsp;&nbsp;CeraVe</option>
+	<option class="level-1" value="101">&nbsp;&nbsp;&nbsp;Chanel</option>
+	<option class="level-1" value="326">&nbsp;&nbsp;&nbsp;Chantecaille</option>
+	<option class="level-1" value="294">&nbsp;&nbsp;&nbsp;China Glaze</option>
+	<option class="level-1" value="317">&nbsp;&nbsp;&nbsp;Clarins</option>
+	<option class="level-1" value="3343">&nbsp;&nbsp;&nbsp;Clarisonic</option>
+	<option class="level-1" value="327">&nbsp;&nbsp;&nbsp;Cle de Peau</option>
+	<option class="level-1" value="245">&nbsp;&nbsp;&nbsp;Clean</option>
+	<option class="level-1" value="282">&nbsp;&nbsp;&nbsp;Clean &amp; Clear</option>
+	<option class="level-1" value="123">&nbsp;&nbsp;&nbsp;Clinique</option>
+	<option class="level-1" value="9170">&nbsp;&nbsp;&nbsp;CND</option>
+	<option class="level-1" value="324">&nbsp;&nbsp;&nbsp;Coastal Scents</option>
+	<option class="level-1" value="8843">&nbsp;&nbsp;&nbsp;Color Club</option>
+	<option class="level-1" value="3365">&nbsp;&nbsp;&nbsp;Cosmedicine</option>
+	<option class="level-1" value="6986">&nbsp;&nbsp;&nbsp;Cover FX</option>
+	<option class="level-1" value="3883">&nbsp;&nbsp;&nbsp;CoverGirl</option>
+	<option class="level-1" value="8655">&nbsp;&nbsp;&nbsp;Cult Nails</option>
+	<option class="level-1" value="209">&nbsp;&nbsp;&nbsp;Darphin</option>
+	<option class="level-1" value="3364">&nbsp;&nbsp;&nbsp;DDF</option>
+	<option class="level-1" value="3281">&nbsp;&nbsp;&nbsp;Deborah Lippmann</option>
+	<option class="level-1" value="197">&nbsp;&nbsp;&nbsp;DHC Care</option>
+	<option class="level-1" value="116">&nbsp;&nbsp;&nbsp;Dior</option>
+	<option class="level-1" value="3053">&nbsp;&nbsp;&nbsp;Dolce &amp; Gabbana</option>
+	<option class="level-1" value="182">&nbsp;&nbsp;&nbsp;Dr. Brandt</option>
+	<option class="level-1" value="5726">&nbsp;&nbsp;&nbsp;Duri</option>
+	<option class="level-1" value="170">&nbsp;&nbsp;&nbsp;DuWop</option>
+	<option class="level-1" value="7617">&nbsp;&nbsp;&nbsp;E.L.F.</option>
+	<option class="level-1" value="5219">&nbsp;&nbsp;&nbsp;EcoTools</option>
+	<option class="level-1" value="102">&nbsp;&nbsp;&nbsp;Elizabeth Arden</option>
+	<option class="level-1" value="172">&nbsp;&nbsp;&nbsp;Escada</option>
+	<option class="level-1" value="192">&nbsp;&nbsp;&nbsp;Essie</option>
+	<option class="level-1" value="104">&nbsp;&nbsp;&nbsp;Estee Lauder</option>
+	<option class="level-1" value="332">&nbsp;&nbsp;&nbsp;Eve Pearl</option>
+	<option class="level-1" value="7222">&nbsp;&nbsp;&nbsp;Face Atelier</option>
+	<option class="level-1" value="276">&nbsp;&nbsp;&nbsp;FHI Heat</option>
+	<option class="level-1" value="287">&nbsp;&nbsp;&nbsp;Frederic Fekkai</option>
+	<option class="level-1" value="283">&nbsp;&nbsp;&nbsp;Freeze 24/7</option>
+	<option class="level-1" value="5624">&nbsp;&nbsp;&nbsp;Fresh</option>
+	<option class="level-1" value="3395">&nbsp;&nbsp;&nbsp;Fusion Beauty</option>
+	<option class="level-1" value="277">&nbsp;&nbsp;&nbsp;ghd</option>
+	<option class="level-1" value="184">&nbsp;&nbsp;&nbsp;Giorgio Armani</option>
+	<option class="level-1" value="115">&nbsp;&nbsp;&nbsp;Givenchy</option>
+	<option class="level-1" value="7230">&nbsp;&nbsp;&nbsp;GO SMiLE</option>
+	<option class="level-1" value="314">&nbsp;&nbsp;&nbsp;Green by Nature</option>
+	<option class="level-1" value="117">&nbsp;&nbsp;&nbsp;Guerlain</option>
+	<option class="level-1" value="3578">&nbsp;&nbsp;&nbsp;Hard Candy</option>
+	<option class="level-1" value="5656">&nbsp;&nbsp;&nbsp;Hourglass</option>
+	<option class="level-1" value="171">&nbsp;&nbsp;&nbsp;Hugo Boss</option>
+	<option class="level-1" value="2554">&nbsp;&nbsp;&nbsp;Illamasqua</option>
+	<option class="level-1" value="5789">&nbsp;&nbsp;&nbsp;Inglot</option>
+	<option class="level-1" value="303">&nbsp;&nbsp;&nbsp;IsaDora</option>
+	<option class="level-1" value="7597">&nbsp;&nbsp;&nbsp;Jack Black</option>
+	<option class="level-1" value="3643">&nbsp;&nbsp;&nbsp;Jo Malone</option>
+	<option class="level-1" value="337">&nbsp;&nbsp;&nbsp;Josie Maran</option>
+	<option class="level-1" value="308">&nbsp;&nbsp;&nbsp;Jouer Cosmetics</option>
+	<option class="level-1" value="4193">&nbsp;&nbsp;&nbsp;Julie Hewett</option>
+	<option class="level-1" value="9109">&nbsp;&nbsp;&nbsp;Jurlique</option>
+	<option class="level-1" value="217">&nbsp;&nbsp;&nbsp;Kanebo</option>
+	<option class="level-1" value="6290">&nbsp;&nbsp;&nbsp;Kat Von D</option>
+	<option class="level-1" value="280">&nbsp;&nbsp;&nbsp;Kate Somerville</option>
+	<option class="level-1" value="5860">&nbsp;&nbsp;&nbsp;Kenzo</option>
+	<option class="level-1" value="3107">&nbsp;&nbsp;&nbsp;Kevyn Aucoin</option>
+	<option class="level-1" value="238">&nbsp;&nbsp;&nbsp;Kiehl’s</option>
+	<option class="level-1" value="302">&nbsp;&nbsp;&nbsp;Kings &amp; Queens</option>
+	<option class="level-1" value="1778">&nbsp;&nbsp;&nbsp;Korres</option>
+	<option class="level-1" value="196">&nbsp;&nbsp;&nbsp;Kryolan</option>
+	<option class="level-1" value="9559">&nbsp;&nbsp;&nbsp;L’Occitane</option>
+	<option class="level-1" value="3334">&nbsp;&nbsp;&nbsp;L’Oreal</option>
+	<option class="level-1" value="232">&nbsp;&nbsp;&nbsp;La Mer</option>
+	<option class="level-1" value="2688">&nbsp;&nbsp;&nbsp;La Prairie</option>
+	<option class="level-1" value="3474">&nbsp;&nbsp;&nbsp;Lacoste</option>
+	<option class="level-1" value="76">&nbsp;&nbsp;&nbsp;Lancome</option>
+	<option class="level-1" value="1783">&nbsp;&nbsp;&nbsp;Laura Geller</option>
+	<option class="level-1" value="106">&nbsp;&nbsp;&nbsp;Laura Mercier</option>
+	<option class="level-1" value="299">&nbsp;&nbsp;&nbsp;Lavanila</option>
+	<option class="level-1" value="330">&nbsp;&nbsp;&nbsp;Le Metier de Beaute</option>
+	<option class="level-1" value="180">&nbsp;&nbsp;&nbsp;Lierac</option>
+	<option class="level-1" value="4080">&nbsp;&nbsp;&nbsp;Lipstick Queen</option>
+	<option class="level-1" value="322">&nbsp;&nbsp;&nbsp;Liz Earle</option>
+	<option class="level-1" value="3541">&nbsp;&nbsp;&nbsp;LORAC</option>
+	<option class="level-1" value="118">&nbsp;&nbsp;&nbsp;Lush</option>
+	<option class="level-1" value="289">&nbsp;&nbsp;&nbsp;M LAB</option>
+	<option class="level-1" value="11">&nbsp;&nbsp;&nbsp;MAC Cosmetics</option>
+	<option class="level-1" value="131">&nbsp;&nbsp;&nbsp;Make Up For Ever</option>
+	<option class="level-1" value="329">&nbsp;&nbsp;&nbsp;Mario Badescu</option>
+	<option class="level-1" value="3569">&nbsp;&nbsp;&nbsp;Maybelline</option>
+	<option class="level-1" value="4796">&nbsp;&nbsp;&nbsp;Milani</option>
+	<option class="level-1" value="8474">&nbsp;&nbsp;&nbsp;N.Y.C.</option>
+	<option class="level-1" value="9266">&nbsp;&nbsp;&nbsp;Nails Inc.</option>
+	<option class="level-1" value="307">&nbsp;&nbsp;&nbsp;Napoleon Perdis</option>
+	<option class="level-1" value="130">&nbsp;&nbsp;&nbsp;NARS Cosmetics</option>
+	<option class="level-1" value="288">&nbsp;&nbsp;&nbsp;Neutrogena</option>
+	<option class="level-1" value="5832">&nbsp;&nbsp;&nbsp;Nubar</option>
+	<option class="level-1" value="3749">&nbsp;&nbsp;&nbsp;NYX</option>
+	<option class="level-1" value="6587">&nbsp;&nbsp;&nbsp;OCC Makeup</option>
+	<option class="level-1" value="248">&nbsp;&nbsp;&nbsp;Ojon</option>
+	<option class="level-1" value="100">&nbsp;&nbsp;&nbsp;Origins</option>
+	<option class="level-1" value="183">&nbsp;&nbsp;&nbsp;Orly</option>
+	<option class="level-1" value="1897">&nbsp;&nbsp;&nbsp;Pacifica</option>
+	<option class="level-1" value="249">&nbsp;&nbsp;&nbsp;Parissa</option>
+	<option class="level-1" value="5403">&nbsp;&nbsp;&nbsp;Paul &amp; Joe Beaute</option>
+	<option class="level-1" value="208">&nbsp;&nbsp;&nbsp;Paul Mitchell</option>
+	<option class="level-1" value="284">&nbsp;&nbsp;&nbsp;Philosophy</option>
+	<option class="level-1" value="4734">&nbsp;&nbsp;&nbsp;Physicians Formula</option>
+	<option class="level-1" value="321">&nbsp;&nbsp;&nbsp;POP Beauty</option>
+	<option class="level-1" value="103">&nbsp;&nbsp;&nbsp;Prescriptives</option>
+	<option class="level-1" value="4114">&nbsp;&nbsp;&nbsp;Purple Lab NYC</option>
+	<option class="level-1" value="7225">&nbsp;&nbsp;&nbsp;Qtica</option>
+	<option class="level-1" value="2580">&nbsp;&nbsp;&nbsp;REN Skincare</option>
+	<option class="level-1" value="188">&nbsp;&nbsp;&nbsp;Renee Rouleau</option>
+	<option class="level-1" value="6151">&nbsp;&nbsp;&nbsp;Rescue Beauty Lounge</option>
+	<option class="level-1" value="8322">&nbsp;&nbsp;&nbsp;Revlon</option>
+	<option class="level-1" value="4267">&nbsp;&nbsp;&nbsp;Rimmel London</option>
+	<option class="level-1" value="275">&nbsp;&nbsp;&nbsp;Rock &amp; Republic</option>
+	<option class="level-1" value="4218">&nbsp;&nbsp;&nbsp;Sally Hansen</option>
+	<option class="level-1" value="223">&nbsp;&nbsp;&nbsp;Sephora</option>
+	<option class="level-1" value="3238">&nbsp;&nbsp;&nbsp;shiseido</option>
+	<option class="level-1" value="107">&nbsp;&nbsp;&nbsp;Shu Uemura</option>
+	<option class="level-1" value="4427">&nbsp;&nbsp;&nbsp;Sigma Makeup</option>
+	<option class="level-1" value="9354">&nbsp;&nbsp;&nbsp;Sinful Colors</option>
+	<option class="level-1" value="9431">&nbsp;&nbsp;&nbsp;Slice</option>
+	<option class="level-1" value="129">&nbsp;&nbsp;&nbsp;Smashbox</option>
+	<option class="level-1" value="250">&nbsp;&nbsp;&nbsp;Soap &amp; Glory</option>
+	<option class="level-1" value="271">&nbsp;&nbsp;&nbsp;Sonia Kashuk</option>
+	<option class="level-1" value="4583">&nbsp;&nbsp;&nbsp;SpaRitual</option>
+	<option class="level-1" value="3287">&nbsp;&nbsp;&nbsp;St. Tropez</option>
+	<option class="level-1" value="186">&nbsp;&nbsp;&nbsp;Stila</option>
+	<option class="level-1" value="304">&nbsp;&nbsp;&nbsp;Sue Devitt</option>
+	<option class="level-1" value="4857">&nbsp;&nbsp;&nbsp;Sugarpill Cosmetics</option>
+	<option class="level-1" value="5467">&nbsp;&nbsp;&nbsp;Tarina Tarantino</option>
+	<option class="level-1" value="278">&nbsp;&nbsp;&nbsp;tarte</option>
+	<option class="level-1" value="5698">&nbsp;&nbsp;&nbsp;Temptu</option>
+	<option class="level-1" value="210">&nbsp;&nbsp;&nbsp;theBalm</option>
+	<option class="level-1" value="5826">&nbsp;&nbsp;&nbsp;Thierry Mugler</option>
+	<option class="level-1" value="295">&nbsp;&nbsp;&nbsp;Three Custom Color</option>
+	<option class="level-1" value="5305">&nbsp;&nbsp;&nbsp;tokidoki</option>
+	<option class="level-1" value="5631">&nbsp;&nbsp;&nbsp;Tom Ford</option>
+	<option class="level-1" value="175">&nbsp;&nbsp;&nbsp;Too Faced</option>
+	<option class="level-1" value="5692">&nbsp;&nbsp;&nbsp;Topshop</option>
+	<option class="level-1" value="2918">&nbsp;&nbsp;&nbsp;Trish McEvoy</option>
+	<option class="level-1" value="221">&nbsp;&nbsp;&nbsp;Urban Decay</option>
+	<option class="level-1" value="4741">&nbsp;&nbsp;&nbsp;Victoria’s Secret Beauty</option>
+	<option class="level-1" value="7433">&nbsp;&nbsp;&nbsp;Vincent Longo</option>
+	<option class="level-1" value="251">&nbsp;&nbsp;&nbsp;Wei East</option>
+	<option class="level-1" value="7689">&nbsp;&nbsp;&nbsp;Wet ‘n’ Wild</option>
+	<option class="level-1" value="222">&nbsp;&nbsp;&nbsp;Xen Tan</option>
+	<option class="level-1" value="320">&nbsp;&nbsp;&nbsp;Yes To Carrots</option>
+	<option class="level-1" value="178">&nbsp;&nbsp;&nbsp;Yves Saint Laurent</option>
+	<option class="level-1" value="189">&nbsp;&nbsp;&nbsp;Zoya</option>
+</select>
+                    </div>
+                    
+			</div><!-- End #search-area -->
+        </div><!-- End #nav -->
+	</div><!-- End #banner -->
+	
+	<div id="mid">
+		<a href="http://www.temptalia.com/swatch-gallery"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/mid-001.png"></a>
+        <a href="http://www.temptalia.com/foundation-matrix"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/mid-002.png"></a>
+        <a href="http://www.temptalia.com/makeup-dupe-list"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/mid-003.png"></a>
+	</div>
+    
+	<div id="wrapper">
+		<div id="primary">
+			<div id="content">
+
+			
+				<div id="post-1954" class="post-1954 post type-post status-publish format-standard hentry category-privacy-policy">
+		<div class="entry-header">
+			<h1 class="entry-title"><a href="http://www.temptalia.com/temptaliacom-privacy-policy" title="Permalink to Temptalia.com Privacy Policy" rel="bookmark">Temptalia.com Privacy Policy</a></h1>
+            <div class="comment"><a href="http://www.temptalia.com/temptaliacom-privacy-policy#comments">0</a></div>
+
+			<div class="entry-meta">
+				<span class="facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.temptalia.com/temptaliacom-privacy-policy&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:24px;" allowtransparency="true"></iframe></span>
+                <span class="twitter"><g:plusone size="medium" href="http://www.temptalia.com/temptaliacom-privacy-policy"></g:plusone><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.temptalia.com/temptaliacom-privacy-policy" data-text="Temptalia.com Privacy Policy" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
+			</div><!-- .entry-meta -->
+            <div class="cats-author">
+            	<span class="date"><strong>Date:</strong> Sunday, June 1st, 2008</span>
+                <span class="author"><strong>Author:</strong>  <a href="http://www.temptalia.com/about-us" rel="author">Christine</a></span>
             </div>
-        </div><div id="section">
-<div id="mid">
-	<div id="content">
-			<p id="breadcrumbs"><a href="http://www.temptalia.com">Home</a> - <a href="http://www.temptalia.com/category/site-news">Site News</a> - <a href="http://www.temptalia.com/category/site-news/privacy-policy">Privacy Policy</a> - <strong>Temptalia.com Privacy Policy</strong></p>			<h1 class="postHead"><a href="http://www.temptalia.com/temptaliacom-privacy-policy" title="Permalink to Temptalia.com Privacy Policy" rel="bookmark">Temptalia.com Privacy Policy</a></h1>
-			<div class="postHeader">
-            	<a href="http://www.temptalia.com/temptaliacom-privacy-policy#respond" rel="nofollow" title="Comment on Temptalia.com Privacy Policy">No Comments</a>            	<span class="facebook">
-                	<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.temptalia.com/temptaliacom-privacy-policy&amp;layout=standard&amp;show_faces=false&amp;width=350&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="no" frameborder="0" style="border: none; overflow: hidden; height: 23px; width: 350px;" allowtransparency="true"></iframe>
-				</span>
-            </div>
-            <div class="postHeaderSecondary">
-            	<span class="twitter"><a href="http://twitter.com/share" class="twitter-share-button" data-url="http://www.temptalia.com/temptaliacom-privacy-policy" data-text="Temptalia.com Privacy Policy" data-count="horizontal">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></span>
-            	<span class="date"><span class="meta-prep meta-prep-author">Date:</span> <span class="entry-date">June 1, 2008</span> </span>
-            </div>
-	<div class="post">
-		<h2><strong>Privacy Policy<br>
+		</div><!-- .entry-header -->
+
+					<div class="entry-content">
+						<h2><strong>Privacy Policy<br>
 </strong></h2>
 <p>(4) <strong>PRIVACY</strong>.&nbsp; The privacy of our visitors to Temptalia.com is important to us.&nbsp; At Temptalia.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Temptalia.com, and how we safeguard your information. We never sell your personal information to third parties.</p>
 <p>(a) <span style="text-decoration: underline;">Collection of Information</span>.&nbsp; We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors.&nbsp; For example, mailing information is required to award giveaway prizes to winners, but this information is never used or sold for any additional purpose beyond fulfilling the prize.&nbsp; Personally identifiable information is used solely to address your specific request and is not sold to third parties or market researchers.&nbsp; We also collect non-personally identifiable information through such devices like analytics, cookies, and log files, which may include, but is not limited to, your IP (internet protocol) address, your ISP (internet service provider), the Web browser you used to visit the Site, the time you visited the Site, which Web pages you visited on the Site, and other anonymous Site usage data.</p>
@@ -194,152 +597,148 @@ bb2_addLoadEvent(function() {
 <p><strong>Effective Date</strong>:&nbsp; August 15th, 2009</p>
 <p><strong>Privacy Contact Information</strong></p>
 <p>If you have any questions, concerns, or comments about our privacy policy you may contact us by e-mailing <a href="mailto:christine@temptalia.com">christine@temptalia.com</a>.</p>
-		    <div class="ads-horiz">
+                                                <div class="ads-horiz">
                 <!-- 468x60-INSIDE -->
                 <script type="text/javascript">
                 GA_googleFillSlot("468x60-INSIDE");
                 </script>
             </div>
-	</div> <!-- End Post -->
-                					                                    <div class="post-comments">
-                	<span class="facebook">
-                    	<iframe src="http://www.facebook.com/plugins/like.php?href=http://www.temptalia.com/temptaliacom-privacy-policy&amp;layout=standard&amp;show_faces=false&amp;width=350&amp;action=like&amp;colorscheme=light&amp;height=23" scrolling="no" frameborder="0" style="border: none; overflow: hidden; height: 23px; width: 350px;" allowtransparency="true"></iframe>
-					</span>
-				<a href="http://www.temptalia.com/temptaliacom-privacy-policy#respond" rel="nofollow" title="Comment on Temptalia.com Privacy Policy">No Comments</a>                - <a href="http://www.temptalia.com/temptaliacom-privacy-policy#respond">Post a Comment</a>
-                </div>
-                					<div class="post-category">
-                							<span class="postedIn">Posted in:</span> <a href="http://www.temptalia.com/category/site-news/privacy-policy" title="View all posts in Privacy Policy" rel="category tag">Privacy Policy</a>					                </div>
-                <div class="post-footer"></div>
-		<div id="comments">
-	
+        					</div><!-- .entry-content -->
 
-
-<div id="respond">
-<h2 id="comments-title">Leave a Reply</h2>
-
-
-<div class="cancel-comment-reply">
-	<small><a rel="nofollow" id="cancel-comment-reply-link" href="/temptaliacom-privacy-policy#respond" style="display:none;">Click here to cancel reply.</a></small>
-</div>
-
-
-<form action="http://www.temptalia.com/wp-comments-post.php" method="post" id="commentform">
-
-
-<p><input type="text" name="author" id="author" value="" tabindex="1" aria-required="true">
-<label for="author">Name (required)</label></p>
-
-<p><input type="text" name="email" id="email" value="" tabindex="2" aria-required="true">
-<label for="email">Mail (will not be published) (required)</label></p>
-
-<p><input type="text" name="url" id="url" value="" tabindex="3">
-<label for="url">Website</label></p>
-
-
-<p><textarea name="comment" tabindex="4" id="comment-box"></textarea></p>
-
-<p><input name="submit" type="submit" id="submit" tabindex="5" value="Submit Comment">
-<input type="hidden" name="comment_post_ID" value="1954" id="comment_post_ID">
+										                    
+    <div class="entry-footer">
+			<p class="cat-links"><span class="entry-utility-prep entry-utility-prep-cat-links">Posted in </span><a href="http://www.temptalia.com/category/site-news/privacy-policy" title="View all posts in Privacy Policy" rel="category tag">Privacy Policy</a>			<span class="meta-sep"> | </span>
+			<span class="comments-link"><a href="http://www.temptalia.com/temptaliacom-privacy-policy#respond" rel="nofollow" title="Comment on Temptalia.com Privacy Policy">Leave a comment</a></span>
+			            </p>
+            	</div><!-- #entry-footer -->
+	</div><!-- #post-1954 -->
+							<div id="comments">
+	    
+    								<div id="respond">
+				<h3 id="reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/temptaliacom-privacy-policy#respond" style="display:none;">Cancel reply</a></small></h3>
+									<form action="http://www.temptalia.com/wp-comments-post.php" method="post" id="commentform">
+																			<p class="comment-notes">Your email address will not be published. Required fields are marked <span class="required">*</span></p>							<p class="comment-form-author"><label for="author">Name</label> <span class="required">*</span><input id="author" name="author" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-email"><label for="email">Email</label> <span class="required">*</span><input id="email" name="email" type="text" value="" size="30" aria-required="true"></p>
+<p class="comment-form-url"><label for="url">Website</label><input id="url" name="url" type="text" value="" size="30"></p>
+												<p class="comment-form-comment"><label for="comment">Comment</label><textarea id="comment" name="comment-b3ad0d7eeb" cols="45" rows="8" aria-required="true"></textarea><textarea name="comment" rows="1" cols="1" style="display:none"></textarea></p><input type="hidden" name="comment-replaced" value="true">						<p class="form-allowed-tags">You may use these <abbr title="HyperText Markup Language">HTML</abbr> tags and attributes:  <code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt; </code></p>						<p class="form-submit">
+							<input name="submit" type="submit" id="submit" value="Post Comment">
+							<input type="hidden" name="comment_post_ID" value="1954" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
-</p>
-<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="9efbf8b207"></p>
-    <p style="clear: both;" class="subscribe-to-comments">
-    <input type="checkbox" name="subscribe" id="subscribe" value="subscribe" style="width: auto;">
-    <label for="subscribe">Notify me of followup comments via e-mail</label>
-    </p>
+						</p>
+						<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="d4380e8ec1"></p><p style="display:none;"><input type="text" name="abd9dfc9652c092a06" value=""><input type="text" name="c9a3c95cb93b0be1374797" value="df2bf24cf24ce7b2b80d1e72fb3"></p>					<input type="hidden" name="bb2_screener_" value="1317945761 207.241.237.226"></form>
+							</div><!-- #respond -->
+						
+	
+	
+</div><!-- #comments -->
 
-<p><input type="text" name="abd9dfc9652c092a06" value="" style="display:none;"><input type="text" name="c9a3c95cb93b0be1374797" value="df2bf24cf24ce7b2b80d1e72fb3" style="display:none;"></p>
-<input type="hidden" name="bb2_screener_" value="1308067591 174.129.228.67"></form>
+			
+			</div><!-- #content -->
+		</div><!-- #primary -->
 
-</div>
+<div id="sidebar">
 
-
-
-</div>
-</div> <!-- End Content -->
-    	<div id="sidebar">
-<div id="emailBox">
-    <h3>Sign up for E-Mail Updates:</h3>
-    <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=Temptalia', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><input type="text" class="emailBox" name="email" value="Your E-Mail Address" onblur="if (this.value == this.defaultValue || this.value == '') {this.value = this.defaultValue;this.style.color='#999';}" onfocus="if (this.value == this.defaultValue) {this.value = '';this.style.color='#000';}"><p></p><input type="hidden" value="Temptalia" name="uri"><input type="hidden" name="loc" value="en_US"><input class="submitBox" type="submit" value="Submit"><input type="hidden" name="bb2_screener_" value="1308067591 174.129.228.67"></form>
-
-	<div id="facebook">
-		<div class="facebookBtn">
-        <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ftemptalia&amp;layout=button_count&amp;show_faces=true&amp;width=80&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px;" allowtransparency="true"></iframe>
-		</div>
-	</div>
+	<div id="social">
+    <h2>Get Updates by E-Mail</h2>
+    <form action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=Temptalia', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true">
+    <input type="text" class="emailBox" name="email" value="Your E-Mail Address" onblur="if (this.value == this.defaultValue || this.value == '') {this.value = this.defaultValue;this.style.color='#999';}" onfocus="if (this.value == this.defaultValue) {this.value = '';this.style.color='#000';}">
+    <input type="hidden" value="Temptalia" name="uri"><input type="hidden" name="loc" value="en_US">
+    <input class="submitBox" type="submit" value="Submit">
+    <input type="hidden" name="bb2_screener_" value="1317945761 207.241.237.226"></form>
+    <h2 class="follow">Follow Temptalia</h2>
+    <p class="social">
+    <span class="facebook"><iframe src="http://www.facebook.com/plugins/like.php?href=http://www.facebook.com/temptalia&amp;send=false&amp;layout=button_count&amp;width=150&amp;show_faces=true&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:75px; height:21px;" allowtransparency="true"></iframe></span>
+    <span class="twitter">
+   <iframe allowtransparency="true" frameborder="0" scrolling="no" src="http://platform.twitter.com/widgets/follow_button.html?screen_name=temptalia&amp;link_color=bc2b55" style="width:250px; height:20px;"></iframe>
+   </span>
+   </p>
+   <p class="social-btns">
+   		<span>On the Web:</span>
+   		<a href="http://www.facebook.com/temptalia" target="_blank" rel="me"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/btn-facebook.png"></a>
+        <a href="http://www.twitter.com/temptalia" target="_blank" rel="me"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/btn-twitter.png"></a>
+        <a href="https://plus.google.com/101921123913004791764/posts" rel="me"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/btn-google.png"></a>
+        <a href="http://www.youtube.com/temptalia" target="_blank" rel="me"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/btn-youtube.png"></a>
+        <a href="http://feedproxy.google.com/Temptalia" rel="me"><img src="http://www.temptalia.com/wp-content/themes/temptalia2012/images/btn-rss.png"></a>
+   </p>
+    </div>
     
+		<div id="secondary">
+					</div><!-- #secondary .widget-area -->
+
+    <div id="box-ad">
+    	<!-- 300x250-PREM -->
+		<script type="text/javascript">
+        GA_googleFillSlot("300x250-PREM");
+        </script>
+    </div>
+        
+	<div id="skyscraper-ad">
+    	<!-- 160x600-PREM -->
+		<script type="text/javascript">
+        GA_googleFillSlot("160x600-PREM");
+        </script>
+    </div>
+	<div id="skyscraper-ad2">
+    	<!-- 160x600-BTF -->
+		<script type="text/javascript">
+        GA_googleFillSlot("160x600-BTF");
+        </script>
+    </div>
+<div id="tabbed">
+<ul class="tabs">
+    <li><a href="#tab1">Launches</a></li>
+    <li><a href="#tab2">MAC Launches</a></li>
+    <li><a href="#tab3">Drugstore Reviews</a></li>
+</ul>
+<div class="tab_container">
+    <div id="tab1" class="tab_content">
+    	<ul id="launches">
+			                <li><a href="http://www.temptalia.com/benefit-holiday-2011-collection">Benefit Holiday 2011 Collection</a></li>
+                            <li><a href="http://www.temptalia.com/chanel-holiday-2011-collection-les-scintillances-de-chanel">Chanel Holiday 2011 Collection: Les Scintillances de Chanel</a></li>
+                            <li><a href="http://www.temptalia.com/laura-mercier-holiday-2011-collection">Laura Mercier Holiday 2011 Collection</a></li>
+                            <li><a href="http://www.temptalia.com/bare-escentuals-holiday-2011-launches">Bare Escentuals Holiday 2011 Launches</a></li>
+                            <li><a href="http://www.temptalia.com/illamasqua-freak-eau-de-parfum-to-launch-in-october-2011">Illamasqua Freak Eau de Parfum to Launch in October 2011</a></li>
+                            <li><a href="http://www.temptalia.com/color-club-backstage-pass-collection-for-holiday-2011">Color Club Backstage Pass Collection for Holiday 2011</a></li>
+                            <li><a href="http://www.temptalia.com/mac-giftable-viva-glam-kids-helping-kids-collections-for-holiday-2011">MAC Giftable, Viva Glam, Kids Helping Kids Collections for Holiday 2011</a></li>
+                            <li><a href="http://www.temptalia.com/mac-dazzlespheres-collection-for-holiday-2011">MAC Dazzlespheres Collection for Holiday 2011</a></li>
+                	</ul>
+    </div>
+    <div id="tab2" class="tab_content">
+       <ul id="mac">
+						<li><a href="http://www.temptalia.com/mac-giftable-viva-glam-kids-helping-kids-collections-for-holiday-2011">MAC Giftable, Viva Glam, Kids Helping Kids Collections for Holiday 2011</a></li>
+					<li><a href="http://www.temptalia.com/mac-dazzlespheres-collection-for-holiday-2011">MAC Dazzlespheres Collection for Holiday 2011</a></li>
+					<li><a href="http://www.temptalia.com/mac-ice-parade-collection-for-holiday-2011">MAC Ice Parade Collection for Holiday 2011</a></li>
+					<li><a href="http://www.temptalia.com/mac-glitter-ice-collection-for-holiday-2011">MAC Glitter &amp; Ice Collection for Holiday 2011</a></li>
+					<li><a href="http://www.temptalia.com/mac-false-lashes-extreme-black-mascara">MAC False Lashes Extreme Black Mascara</a></li>
+					<li><a href="http://www.temptalia.com/mac-for-fall-colour-collection-for-fall-2011">MAC Fall Colour Collection for Fall 2011 – Official Information &amp; Photos</a></li>
+					<li><a href="http://www.temptalia.com/mac-for-mariza-collection">MAC for Mariza Collection</a></li>
+					<li><a href="http://www.temptalia.com/mac-posh-paradise-collection-for-fall-2011-official-information">MAC Posh Paradise Collection for Fall 2011 – Official Information &amp; Photos</a></li>
+		    	</ul>
+    </div>
+    <div id="tab3" class="tab_content">
+       <ul id="drugstore">
+						<li><a href="http://www.temptalia.com/wet-n-wild-enter-a-new-realm-color-icon-eyeshadow-trio-review-photos-swatches">Wet ‘n’ Wild Enter a New Realm Color Icon Eyeshadow Trio Review, Photos, Swatches</a></li>
+					<li><a href="http://www.temptalia.com/wet-n-wild-dancing-in-the-clouds-color-icon-eyeshadow-trio-swatches-photos-reviews">Wet ‘n’ Wild Dancing in the Clouds Color Icon Eyeshadow Trio Swatches, Photos, Reviews</a></li>
+					<li><a href="http://www.temptalia.com/wet-n-wild-fly-me-to-the-moon-color-icon-eyeshadow-trio-review-photos-swatches">Wet ‘n’ Wild Fly Me to the Moon Color Icon Eyeshadow Trio Review, Photos, Swatches</a></li>
+					<li><a href="http://www.temptalia.com/wet-n-wild-bright-idea-color-icon-eyeshadow-trio-review-photos-swatches">Wet ‘n’ Wild Bright Idea Color Icon Eyeshadow Trio Review, Photos, Swatches</a></li>
+					<li><a href="http://www.temptalia.com/wet-n-wild-earth-looks-small-from-down-here-eyeshadow-trio-review-photos-swatches">Wet ‘n’ Wild Earth Looks Small From Down Here Eyeshadow Trio Review, Photos, Swatches</a></li>
+					<li><a href="http://www.temptalia.com/sinful-colors-hd-nails-926-nail-lacquer-review-photos-swatches">Sinful Colors HD Nails (926) Nail Lacquer Review, Photos, Swatches</a></li>
+					<li><a href="http://www.temptalia.com/covergirl-lip-perfection-rapture-temptation-burn-rich-flame-hot-review-photos-swatches">CoverGirl Lip Perfection: Rapture, Temptation, Burn, Rich, Flame, Hot Review, Photos, Swatches</a></li>
+					<li><a href="http://www.temptalia.com/covergirl-lip-perfection-delish-heavenly-romance-rush-kiss-review-photos-swatches">CoverGirl Lip Perfection: Delish, Heavenly, Romance, Rush, Kiss Review, Photos, Swatches</a></li>
+		    	</ul>
+    </div>
 </div>
-<div id="sidebar-box">
-	<!-- 300x250-PREM -->
-	<script type="text/javascript">
-    GA_googleFillSlot("300x250-PREM");
-    </script>
-</div>
-<div class="sidebar-skyscraper">
-	<!-- 160x600-PREM -->
-	<script type="text/javascript">
-    GA_googleFillSlot("160x600-PREM");
-    </script>
-</div>
-<div class="sidebar-skyscraper2">
-    <!-- 160x600-BTF -->
-    <script type="text/javascript">
-    GA_googleFillSlot("160x600-BTF");
-    </script>
 </div>
 
-<div id="tabs-2">
-    <ul>
-        <li><a href="#fragment-1"><span>Launches</span></a></li>
-        <li><a href="#fragment-2"><span>MAC Launches</span></a></li>
-        <li><a href="#fragment-3"><span>Drugstore Reviews</span></a></li>
-    </ul>
-    <div id="fragment-1">
-      <ul id="youtube">
-					<li><a href="http://www.temptalia.com/covergirl-summer-2011-launches">CoverGirl Summer 2011 Launches</a></li>
-					<li><a href="http://www.temptalia.com/tom-ford-beauty-color-skincare-collection-to-launch-in-september">Tom Ford Beauty Color &amp; Skincare Collection to Launch in September</a></li>
-					<li><a href="http://www.temptalia.com/mac-semi-precious-collection-for-summer-2011">MAC Semi-Precious Collection for Summer 2011</a></li>
-					<li><a href="http://www.temptalia.com/inglot-extends-matte-eyeshadow-collection">Inglot Extends Matte Eyeshadow Collection</a></li>
-					<li><a href="http://www.temptalia.com/benefit-theyre-real-mascara-for-july-2011">Benefit They’re Real! Mascara for July 2011</a></li>
-					<li><a href="http://www.temptalia.com/shu-uemura-ethnocolor-scope-tokyo-lash-bar-for-2011">shu uemura Ethnocolor Scope Tokyo Lash Bar for 2011</a></li>
-					<li><a href="http://www.temptalia.com/mac-gareth-pugh-collection-for-fall-2011">MAC &amp; Gareth Pugh Collection for Fall 2011</a></li>
-					<li><a href="http://www.temptalia.com/shu-uemura-color-atelier-collection-for-summer-2011">shu uemura Color Atelier Collection for Summer 2011</a></li>
-		      </ul>
-    </div>
-    <div id="fragment-2">
-      <ul id="youtube">
-					<li><a href="http://www.temptalia.com/mac-semi-precious-collection-for-summer-2011">MAC Semi-Precious Collection for Summer 2011</a></li>
-					<li><a href="http://www.temptalia.com/mac-gareth-pugh-collection-for-fall-2011">MAC &amp; Gareth Pugh Collection for Fall 2011</a></li>
-					<li><a href="http://www.temptalia.com/mac-bloggers-obsession-creation-of-jealousy-wakes-eyeshadow">MAC Bloggers’ Obsession: Creation of Jealousy Wakes Eyeshadow</a></li>
-					<li><a href="http://www.temptalia.com/mac-bloggers-obsessions-collection">MAC Bloggers’ Obsessions Collection</a></li>
-					<li><a href="http://www.temptalia.com/mac-fashion-flower-collection-for-summer-2011-official">MAC Fashion Flower Collection for Summer 2011</a></li>
-					<li><a href="http://www.temptalia.com/mac-flighty-collection-for-summer-2011">MAC Flighty Collection for Summer 2011 Official Info &amp; Photos</a></li>
-					<li><a href="http://www.temptalia.com/mac-surf-baby-collection-for-summer-2011-official">MAC Surf Baby Collection for Summer 2011 Info &amp; Photos</a></li>
-					<li><a href="http://www.temptalia.com/mac-magically-cool-liquid-powder-for-summer-2011">MAC Magically Cool Liquid Powder for Summer 2011 Official Info &amp; Photos</a></li>
-		      </ul>
-    </div>
-    <div id="fragment-3">
-      <ul id="youtube">
-					<li><a href="http://www.temptalia.com/inglot-pearl-eyeshadows-in-inglot-422-409-402-421-406-browns">Inglot Pearl Eyeshadows in Inglot #422, 409, 402, 421, 406 (Browns)</a></li>
-					<li><a href="http://www.temptalia.com/inglot-pearl-eyeshadows-in-inglot-446-445-440-420-439-441-purples">Inglot Pearl Eyeshadows in Inglot #446, 445, 440, 420, 439, 441 (Purples)</a></li>
-					<li><a href="http://www.temptalia.com/inglot-pearl-eyeshadows-in-413-428-426-415-429-blues">Inglot Pearl Eyeshadows in #413, 428, 426, 415, 429 (Blues)</a></li>
-					<li><a href="http://www.temptalia.com/inglot-pearl-eyeshadows-in-430-403-414-418-412-goldsgreens">Inglot Pearl Eyeshadows in #430, 403, 414, 418, 412 (Golds/Greens)</a></li>
-					<li><a href="http://www.temptalia.com/inglot-pearl-eyeshadows-in-397-407-393-395-orangespeaches">Inglot Pearl Eyeshadows in #397, 407, 393, 395 (Oranges/Peaches)</a></li>
-					<li><a href="http://www.temptalia.com/revlon-rich-temptation-customeyes-shadow-liner-duo-review-photos-swatches">Revlon Rich Temptations CustomEyes Shadow &amp; Liner Duo Review, Photos, Swatches</a></li>
-					<li><a href="http://www.temptalia.com/milani-intermix-baked-metallic-eyeshadow-review-photos-swatches">Milani Intermix Baked Metallic Eyeshadow Review, Photos, Swatches</a></li>
-					<li><a href="http://www.temptalia.com/revlon-strawberry-colorburst-lipgloss-review-photos-swatches">Revlon Strawberry ColorBurst Lipgloss Review, Photos, Swatches</a></li>
-		      </ul>
-    </div>
-</div>
-
-<div id="tabs">
-    <ul>
-        <li><a href="#fragment-1"><span>Features</span></a></li>
-        <li><a href="#fragment-2"><span>Reviews by Rating</span></a></li>
-        <li><a href="#fragment-3"><span>Affiliates</span></a></li>
-    </ul>
-    <div id="fragment-1">
-      <ul id="community">
+<div id="tabbed2">
+<ul class="tabs2">
+    <li><a href="#tab4">Features</a></li>
+    <li><a href="#tab5">Reviews by Rating</a></li>
+    <li><a href="#tab6">Affiliates</a></li>
+</ul>
+<div class="tab_container2">
+    <div id="tab4" class="tab_content2">
+    	<ul id="features-tab">
       		<li><a href="http://www.temptalia.com/foundation-matrix" target="_blank">Foundation Matrix</a></li>
             <li><a href="http://www.temptalia.com/makeup-dupe-list" target="_blank">The Dupe List</a></li>
             <li><a href="http://www.temptalia.com/makeup-recommendations" target="_blank">Makeup Recommendations</a></li>
@@ -349,27 +748,26 @@ bb2_addLoadEvent(function() {
             <li><a href="http://www.temptalia.com/temptalia-faq-recommendations">FAQ &amp; Temptalia Recommendations</a></li>
             <li><a href="http://www.temptalia.com/2011-editors-choice-awards">2011 Editor's Choice Awards</a></li>
       </ul>
-
     </div>
-    <div id="fragment-2">
-    <ul id="community">
-    	<li><a href="http://www.temptalia.com/tag/rating-a-plus">A+</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-a">A</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-a-minus">A-</a></li>
-    	<li><a href="http://www.temptalia.com/tag/rating-b-plus">B+</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-b">B</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-b-minus">B-</a></li>
-    	<li><a href="http://www.temptalia.com/tag/rating-c-plus">C+</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-c">C</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-c-minus">C-</a></li>
-    	<li><a href="http://www.temptalia.com/tag/rating-d-plus">D+</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-d">D</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-d-minus">D-</a></li>
-        <li><a href="http://www.temptalia.com/tag/rating-f">F</a></li>
+    <div id="tab5" class="tab_content2">
+        <ul id="rating">
+            <li><a href="http://www.temptalia.com/tag/rating-a-plus">A+</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-a">A</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-a-minus">A-</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-b-plus">B+</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-b">B</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-b-minus">B-</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-c-plus">C+</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-c">C</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-c-minus">C-</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-d-plus">D+</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-d">D</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-d-minus">D-</a></li>
+            <li><a href="http://www.temptalia.com/tag/rating-f">F</a></li>
         </ul>
     </div>
-    <div id="fragment-3">
-      <ul id="affiliates">
+    <div id="tab6" class="tab_content2">
+       <ul id="affiliates">
       	<li><a target="new" href="http://click.linksynergy.com/fs-bin/click?id=Tv0QdA6A1/4&amp;offerid=57302.10000004&amp;type=3&amp;subid=0" rel="nofollow">Beauty.com</a></li>
         <li><a target="new" href="http://click.linksynergy.com/fs-bin/click?id=Tv0QdA6A1/4&amp;offerid=141122.10000006&amp;type=3&amp;subid=0" rel="nofollow">Benefit</a></li>
         <li><a target="new" href="http://click.linksynergy.com/fs-bin/click?id=Tv0QdA6A1/4&amp;offerid=141101.10000260&amp;type=3&amp;subid=0" rel="nofollow">Bliss Spa</a></li>
@@ -399,7 +797,7 @@ bb2_addLoadEvent(function() {
 
         <li><a href="http://www.tkqlhce.com/click-2489716-10548048" rel="nofollow" target="_blank">ULTA Beauty</a></li>
 	</ul>
-        <p class="networks"><a href="http://www.totalbeauty.com" rel="nofollow"><img width="160" height="70" src="http://www.temptalia.com/wp-content/themes/temptalia2010/images/totalbeauty.jpg" alt="total beauty"></a><br>
+        <p class="networks">
 <!-- Site Meter -->
 	<a href="http://s22.sitemeter.com/stats.asp?site=s22temptalia" target="_top" rel="nofollow">
 	<img src="http://s22.sitemeter.com/meter.asp?site=s22temptalia" alt="Site Meter"></a>
@@ -407,12 +805,13 @@ bb2_addLoadEvent(function() {
 </p>
     </div>
 </div>
-<div id="sidebar-box-bottom">
-	<!-- 300x250-BTF -->
-	<script type="text/javascript">
-    GA_googleFillSlot("300x250-BTF");
-    </script>
 </div>
+    <div id="box-ad2">
+    	<!-- 300x250-BTF -->
+		<script type="text/javascript">
+        GA_googleFillSlot("300x250-BTF");
+        </script>
+    </div>
 <div class="ns_content_container">
 <div class="ns_content_title">&nbsp;Local Guides</div>
 <div class="ns_content_body">
@@ -470,30 +869,37 @@ bb2_addLoadEvent(function() {
 &nbsp;<a href="http://localmarket.temptalia.com/Wyoming-nWyoming.html" title="Wyoming" class="ns_content_link">Wyoming</a><br>
 </div>
 </div>
-</div></div> <!-- End Mid -->
-    </div> <!-- End Section -->
-        <div id="footer">
-        	<div class="horiz-ad">
-        		<!-- 728x90-BTF -->
+</div>	</div><!-- #main  -->
+
+	<div id="footer">
+    		<div id="footer-ad">
+            	<!-- 728x90-BTF -->
 				<script type="text/javascript">
                 GA_googleFillSlot("728x90-BTF");
                 </script>
             </div>
-            <div class="logo"><a href="http://www.temptalia.com/" title="Temptalia Beauty Blog: Makeup Reviews, Beauty Tips"><span>&nbsp;</span></a></div>
-            <div class="separator"></div>
-            <p class="glamstyle"><script type="text/javascript" language="JavaScript">
+			<div id="site-generator">
+				<p class="glamstyle"><script type="text/javascript" language="JavaScript">
 			glam_affiliate_id = '318973508';
 			glam_logo_type = 'GStyle';
 			glam_logo_size = '160x24';
 			glam_logo_color = 'wht';
 			</script>
 			<script src="http://www8.glam.com/js/widgets/glam_logo.js"></script></p>
-            <p class="footerNav"><a href="http://www.temptalia.com/about-us" rel="nofollow">About Us</a> - <a href="http://www.temptalia.com/contact-us" rel="nofollow">Contact Us</a> - <a href="http://www.temptalia.com/temptalia-com-disclosures-and-policies" rel="nofollow">Disclosures and Policies</a> - <a href="http://www.temptalia.com/temptalia-faq-recommendations" rel="nofollow">FAQ</a> - <a href="http://www.temptalia.com/press" rel="nofollow">Press</a> - <a href="http://www.temptalia.com/temptaliacom-privacy-policy" rel="nofollow">Privacy Policy</a> - <a href="http://www.temptalia.com/submit-to-temptalia-for-november-2009" rel="nofollow">Submit</a></p>
-            <p class="copyright">Copyright © 2006 - 2011 </p>
-        </div>
-    <div id="footerBtm"></div>
-    <div id="content-footer"></div>
-    <!-- Start Quantcast tag -->
+            <p class="footerNav"><a href="http://www.temptalia.com/about-us" rel="nofollow">About Us</a> - <a href="http://www.temptalia.com/contact-us" rel="nofollow">Contact Us</a> - <a href="http://www.temptalia.com/temptalia-com-disclosures-and-policies" rel="nofollow">Disclosures and Policies</a> - <a href="http://www.temptalia.com/temptalia-faq-recommendations" rel="nofollow">FAQ</a> - <a href="http://www.temptalia.com/press" rel="nofollow">Press</a> - <a href="http://www.temptalia.com/temptaliacom-privacy-policy" rel="nofollow">Privacy Policy</a></p>
+            <p class="copyright">Copyright © 2006 - 2011 Temptalia LLC </p>
+			</div>
+	</div><!-- #footer -->
+</div><!-- #page -->
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+<!-- Start Quantcast tag -->
     <script type="text/javascript">
     _qoptions={
     qacct:"p-b8I1KBmNwlRRg"
@@ -504,16 +910,7 @@ bb2_addLoadEvent(function() {
     <img src="http://pixel.quantserve.com/pixel/p-b8I1KBmNwlRRg.gif" style="display: none;" height="1" width="1" alt="Quantcast"/>
     </noscript>
     <!-- End Quantcast tag -->
-    <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    try {
-    var pageTracker = _gat._getTracker("UA-293830-7");
-    pageTracker._trackPageview();
-    } catch(err) {}</script>
-    <script type="text/javascript">
+<script type="text/javascript">
 /* <![CDATA[ */
 var pollsL10n = {
 	ajax_url: "http://www.temptalia.com/wp-content/plugins/wp-polls/wp-polls.php",
@@ -526,22 +923,6 @@ var pollsL10n = {
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.temptalia.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
-    <script> 
- 
-// perform JavaScript after the document is scriptable.
-$(function() {
-	// setup ul.tabs to work as tabs for each div directly under div.panes
-	$("ul.tabs").tabs("div.panes > div");
-});
-</script> 
-</div>
 
 
-<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
-
-Minified using disk
-Page Caching using disk (enhanced) (request URI doesn't have a trailing slash)
-Database Caching 9/18 queries in 0.007 seconds using disk
-Object Caching 954/967 objects using disk
-
-Served from: www.temptalia.com @ 2011-06-14 09:06:31 --></body></html>
+</body></html>
