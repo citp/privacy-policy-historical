@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashuparticles.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516131631id_/http%3A//smashuparticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashuparticles.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006062507id_/http%3A//smashuparticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
