@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the splendia.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603191323id_/http%3A//www.splendia.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splendia.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006224744id_/http%3A//www.splendia.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Splendia - Privacy Policy
 
