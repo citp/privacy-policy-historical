@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everydaynodaysoff.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423030736id_/http%3A//www.everydaynodaysoff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everydaynodaysoff.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006235802id_/http%3A//www.everydaynodaysoff.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -14,4 +14,4 @@ Non-personal information and data may be automatically collected through the sta
 
 ATTENTION KIDS: No information should be submitted to ENDO Tactical by children under 18 years of age without their parent’s or guardian’s consent. ENDO Tactical does not monitor the age of its user audience.
 
-ENDO Tactical reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+ENDO Tactical reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
