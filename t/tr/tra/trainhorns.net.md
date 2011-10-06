@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trainhorns.net privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201004337id_/http%3A//trainhorns.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trainhorns.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006070622id_/http%3A//trainhorns.net/privacy.html) for the most accurate reproduction.*
 
 # TrainHorns About
 
-**TrainHorns.com has created this privacy statement in order to demonstrate the firm commitment to the privacy of visitors and customers. The following discloses the information gathering and dissemination practices for the website: TrainHorns.com**
+**TrainHorns.net has created this privacy statement in order to demonstrate the firm commitment to the privacy of visitors and customers. The following discloses the information gathering and dissemination practices for the website: TrainHorns.net**
 
 **IP Addresses**  
 **Cookies**  
@@ -21,11 +21,11 @@ IP addresses are used to help diagnose problems related to server operations. IP
 Cookies are used to keep track of shopping cart activity and to deliver information customized to respective customer interests. A cookie is stored only on the customer's respective computer and does not contain any credit card, address or other personal information. The cookies are not shared with any other company.
 
 **Information Use**  
-Individual contact, registration, order, contest, survey and other information collected online from users (including name, address, email, telephone, demographic, vehicle) will not be sold, rented or provided to third parties for any type of use. TrainHorns, Inc. reserves the right to use this information to send its users company related information or promotional material. Users are afforded a clear opportunity to opt-out of any email list as outlined in the TrainHorns.com email privacy policy:  
+Individual contact, registration, order, contest, survey and other information collected online from users (including name, address, email, telephone, demographic, vehicle) will not be sold, rented or provided to third parties for any type of use. TrainHorns, Inc. reserves the right to use this information to send its users [train horns](https://web.archive.org/) company related information or promotional material. Users are afforded a clear opportunity to opt-out of any email list as outlined in the TrainHorns.net email privacy policy:  
 
 
 > **Email Privacy Policy**  
->  This email privacy policy has been created to demonstrate TrainHorns.com firm commitment to your privacy and the protection of your information.
+>  This email privacy policy has been created to demonstrate TrainHorns.net firm commitment to your privacy and the protection of your information.
 > 
 > **Why did you receive an email from us?**  
 >  If you received a mailing from us, (a) your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future ("opt-in"), or (b) you have registered or purchased or otherwise have an existing relationship with us. We respect your time and attention by controlling the frequency of our mailings.
@@ -40,4 +40,4 @@ Individual contact, registration, order, contest, survey and other information c
 >  Each email sent contains an easy, automated way for you to cease receiving email from us, or to change your expressed interests. If you wish to do this, simply follow the instructions at the end of any email.
 
 **User Agreement**  
-A customer's use of this site and/or placement of an order indicates acceptance of TrainHorns [**terms and conditions**](https://web.archive.org/web/20101201004337id_/http%3A//trainhorns.net/terms_conditions.html). TrainHorns.com reserves the right to make changes to the website and its terms and conditions at any time without notice. 
+A customer's use of this site and/or placement of an order indicates acceptance of TrainHorns [**terms and conditions**](https://web.archive.org/web/20111006070622id_/http%3A//trainhorns.net/terms_conditions.html). TrainHorns.net reserves the right to make changes to the website and its terms and conditions at any time without notice. 
