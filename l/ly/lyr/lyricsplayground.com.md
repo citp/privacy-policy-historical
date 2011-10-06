@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsplayground.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406112958id_/http%3A//www.lyricsplayground.com/notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsplayground.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006113957id_/http%3A//lyricsplayground.com/notice.html) for the most accurate reproduction.*
 
 # NOTICES, INFORMATION and AGREEMENTS
 
