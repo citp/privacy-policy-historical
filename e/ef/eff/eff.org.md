@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629183612id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eff.org privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006112547id_/http%3A//www.eff.org/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Electronic Frontier Foundation
 
@@ -18,7 +18,7 @@ We do not use persistent cookies on this site unless you log into the Action Cen
 
 In addition, EFF collects and retains information you submit to us. It is up to you whether to submit information to us, and how much information to provide. If you choose to become an EFF member or register for the EFF Action Center, we ask for your name, title, email address, city, state, postal code, country of residence, and phone number, and we may invite you to select a password. For online donors and shoppers, we also ask for your credit card number. We also maintain records of our members' use of the Action Center, and you may wish to indicate your particular interests in your Action Center profile. If you use the EFF Shop, you are asked to provide personal information, such as a shipping address, necessary to complete your transaction. 
 
-If you enable the Decentralized Observatory feature of HTTPS Everywhere, we will collect copies of the certificates of SSL/TLS servers that you connect to.
+If you enable the Decentralized Observatory feature of HTTPS Everywhere, we will collect copies of the certificates of SSL/TLS servers that you connect to. In order to help locate man-in-the-middle attacks, the Decentralized Observatory may also log [which ISP](https://secure.wikimedia.org/wikipedia/en/wiki/Autonomous_system_\(Internet\)) you observed the certificate through, although you can disable this behavior in the Observatory settings window.
 
 We may ask for additional personal information when you provide feedback or comments, or otherwise communicate with us. We are pleased to receive anonymous donations, but please note that your personal information is required if you choose to donate using our online form.
 
@@ -62,7 +62,7 @@ If we are required by law to disclose the information that you have submitted, w
 
 In addition, we will independently object to requests for access to information about users of our site that we believe to be improper.
 
-If you enable the Decentralized Observatory feature of HTTPS Everywhere, we publish the copies of the certificates of SSL/TLS servers that you connect to. These certificates generally do not identify you, and we will take reasonable steps to try to avoid collecting certificates that may be used to identify you.
+If you enable the Decentralized Observatory feature of HTTPS Everywhere, we publish the copies of the certificates of SSL/TLS servers that you connect to. These certificates generally do not identify you, and we will take reasonable steps to try to avoid collecting certificates that may be used to identify you. In some instances, we may also publish information about which ISPs' networks these certificates were observed on.
 
 ## Updating or Removing Your Information
 
