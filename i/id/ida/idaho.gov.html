@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the idaho.gov privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521005730id_/http%3A//idaho.gov/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the idaho.gov privacy policy that was archived on 2011-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006115404id_/http%3A//www.idaho.gov/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -30,17 +30,11 @@
   <meta name="PortalDecoratorMapper.forceDecorator" content="idahogov"> 
 
 <link type="text/css" href="/appskins/idahogov200902/css/global.css" rel="stylesheet">
-
-
 <!--[if IE 6]><link type="text/css" href="/appskins/idahogov200902/css/ie_6.css" rel="stylesheet" /><![endif]-->
-<!--[if IE]><link type="text/css" href="/appskins/idahogov200902/css/ie.css" rel="stylesheet" /><![endif]-->
 <!--[if IE 7]><link type="text/css" href="/appskins/idahogov200902/css/ie_7.css" rel="stylesheet" /><![endif]-->
+<!--[if IE]><link type="text/css" href="/appskins/idahogov200902/css/ie.css" rel="stylesheet" /></script><![endif]-->
 <link rel="icon" href="/favicon.ico.png" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico.png" type="image/x-icon">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<!--[if lt IE 8]>
-<script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
-<![endif]-->
-
 </head>
 <body>
 <div id="container">
@@ -101,7 +95,6 @@
 
       function setSearchForm( form ) {
 	form.setAttribute( 'action', '' );
-	form.setAttribute( 'onsubmit', 'return submitQuery()' );
       }
       
      
@@ -113,6 +106,14 @@
 	  this.loadGoogleSearch();
 	}
       }
+
+      function checkKey()
+    {
+        if (window.event.keyCode == 13)
+        {
+            submitQuery();
+        }
+    }
      
       function submitQuery() {
         window.location = '/search.html?q='
@@ -124,10 +125,12 @@
       google.setOnLoadCallback(init);
     </script>
  
-    <form action="http://www.google.com/search" id="searchForm">
+    <form action="http://www.google.com/search" id="searchForm" onsubmit="return submitQuery()">
+    <p>
       <input name="q" id="hidden-query-input" type="hidden" value="site:idaho.gov">
-      <input name="q" id="query-input" onblur="inputBlur()" onclick="clickclear(this, 'Search')" autocomplete="off">
-      <input value="Search" id="go" src="/appskins/idahogov200902/images/go2.gif" name="btnG" type="image">
+      <input name="q" id="query-input" onblur="inputBlur()" onclick="clickclear(this, 'Search')" autocomplete="off" onkeypress="checkKey();">
+      <input value="Search" id="go" src="/appskins/idahogov200902/images/go2.gif" name="btnG" type="image" onclick="return submitQuery()">
+    </p>
     </form>
   </div> 
 
@@ -247,7 +250,7 @@ var leftNav = new Spry.Widget.MenuBar("leftNav", {imgRight:"/appskins/idahogov20
 
 <!--MAIN CONTENT-->
 
-<div id="innerCenterCol" style="height: 3094px;"><span id="textResizeControl" style="position: absolute; left: -9999px;">&nbsp;</span>
+<div id="innerCenterCol" style="height: 3064px;"><span id="textResizeControl" style="position: absolute; left: -9999px;">&nbsp;</span>
 <div id="innerCenterColContent">
 <div id="innerCenterLeft">
   <div id="bookmark">
@@ -377,11 +380,10 @@ var leftNav = new Spry.Widget.MenuBar("leftNav", {imgRight:"/appskins/idahogov20
 
   </div>
 <div class="innerCenterRight">
-[an error occurred while processing this directive]
 </div></div></div>
 <!--END MAIN CONTENT-->
 <!--SIDE BAR-->
-<div id="innerRightCol" style="height: 3084px;">
+<div id="innerRightCol" style="height: 3054px;">
 <div id="promote"></div>
 <div id="rightColMain">
 </div>
