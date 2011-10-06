@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventim.co.uk privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527102627id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventim.co.uk privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006221729id_/http%3A//www.eventim.co.uk/tickets.html%3Faffiliate%3DEUK%26doc%3Dinfo/dataProtection) for the most accurate reproduction.*
 
 # Tickets & Concert tickets - Concerts Musicals Events - Eventim.co.uk
 
