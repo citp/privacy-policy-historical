@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygenofficepro.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326065713id_/http%3A//www.oxygenofficepro.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygenofficepro.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006044853id_/http%3A//www.oxygenofficepro.com/privacy.htm) for the most accurate reproduction.*
 
 # OxygenOfficePro.Com > > > 100% Free MS Compatable Office Suite
 
