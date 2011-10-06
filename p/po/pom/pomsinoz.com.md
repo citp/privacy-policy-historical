@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216011809id_/http%3A//www.pomsinoz.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pomsinoz.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006115250id_/http%3A//www.pomsinoz.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # PomsInOz Australia Migration & British Expats Forum - Privacy Statement
 
