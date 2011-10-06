@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pinkcakebox.com privacy policy that was archived on 2010-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100315153848id_/http%3A//www.pinkcakebox.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkcakebox.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006235446id_/http%3A//www.pinkcakebox.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  | 
+| 
 
 This is the web site of **Pink Cake Box, LLC**.
 
