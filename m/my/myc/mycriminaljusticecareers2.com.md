@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycriminaljusticecareers2.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107095827id_/http%3A//mycriminaljusticecareers2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycriminaljusticecareers2.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006231719id_/http%3A//mycriminaljusticecareers2.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ As with any other business, it is possible that Renevati Inc. in the future coul
 You must be at least 18 years old to use this web site. We do not knowingly collect, use, or disclose personal information about visitors under 18 years of age. If you are under 18 years of age, you can use the services offered on our web site only in conjunction with your parents or guardians. Please see our Terms of service for more information.
 
 **Cookies and IP Addresses**  
-To serve you more efficiently and effectively, we use "cookies" technology. A cookie is a piece of data stored on the user?s hard drive that contains information about the user. Usage of a cookie is in no way linked to any personal information while on our site. Once the user closes their browser, a cookie simply terminates. Cookies enable a web site to "personalize" itself for each user and reduce the time it takes for pages to load on your computer. In order to optimize your experience, cookies also help with the collection of customer tracking data. We may also capture customer tracking data on some of our partner's web sites, realted to activity involved with the completion of offers listed on our web site. This information is used to monitor the performance of our partners. We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
+To serve you more efficiently and effectively, we use "cookies" technology. A cookie is a piece of data stored on the user's hard drive that contains information about the user. Usage of a cookie is in no way linked to any personal information while on our site. Once the user closes their browser, a cookie simply terminates. Cookies enable a web site to "personalize" itself for each user and reduce the time it takes for pages to load on your computer. In order to optimize your experience, cookies also help with the collection of customer tracking data. We may also capture customer tracking data on some of our partner's web sites, realted to activity involved with the completion of offers listed on our web site. This information is used to monitor the performance of our partners. We also keep track of Internet Protocol (IP) addresses. An IP Address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
 **Clear Gifs**  
 We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movement of Web users. Clear gifs are not tied to users' personal information. We also use clear gifs in our HTML-based emails to let us know which emails the recipients have opened. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section within any email you receive from us or unsubscribe from our homepage by clicking here.
@@ -49,13 +49,13 @@ This Privacy Policy applies to all information that you provide to Renevati Inc.
 If Renevati Inc. receives personal information from a third party that is not in conjunction with a service offered on our site, the use and disclosure of such information is governed by the agreement (if any) between Renevati Inc. and such third party.
 
 **Updating Your Information**  
-If you want to access or update the personal information you submitted to Mycriminaljusticecareers2 please e-mail us at service@Mycriminaljusticecareers2 or write us at the following address.
+If you want to access or update the personal information you submitted to Mycriminaljusticecareers2 please e-mail us at service@mycriminaljusticecareers2.com or write us at the following address.
 
 5255 North Edgewood Dr.  
 Suite 225  
 Provo, Utah 84604
 
-**Questions and Suggestions** If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to service@Mycriminaljusticecareers2.
+**Questions and Suggestions** If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending an email to service@mycriminaljusticecareers2.com.
 
 **Changes to this Privacy Policy**  
 Renevati Inc. may update or modify this Privacy Policy. If there are material changes to this Privacy Policy or in how Renevati Inc. will use your personal information, we will post such changes here. You will be notified if any of the material changes affect the use of your personal information and asked to opt-in to the new use of your personal information. If you do not agree with the changes to how your information will be used, please do not continue to use this web site.
@@ -64,10 +64,10 @@ By using this site, you signify your assent to Renevati Inc. Privacy Policy. If 
 
 **Your California Privacy Rights**  
 The following applies only to California residents.  
-Renevati Inc., may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a California resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to service@Mycriminaljusticecareers2.
+Renevati Inc., may, from time to time, share your personally identifiable information with unaffiliated third parties for their direct marketing purposes. As a California resident, you have a legal right to request and receive in writing or by email the names and addresses of all such third parties who received your personally identifiable information during the previous calendar year and a list of the types of personally identifiable information disclosed to such third parties. To request such information, send an email to service@mycriminaljusticecareers2.com.
 
 We will not honor such request more than once per calendar year.  
-For more information on how your personally identifiable information is collected and used, please contact us by sending an email to service@Mycriminaljusticecareers2.
+For more information on how your personally identifiable information is collected and used, please contact us by sending an email to service@mycriminaljusticecareers2.com.
 
 PLEASE PRINT AND RETAIN A COPY OF THIS AGREEMENT FOR YOUR RECORDS.
 
