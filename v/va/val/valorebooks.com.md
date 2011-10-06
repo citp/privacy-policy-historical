@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valorebooks.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624092405id_/http%3A//www.valorebooks.com/CustomerService.Center.Subcategory.do%3FCategoryId%3D46) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valorebooks.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006103104id_/http%3A//www.valorebooks.com/CustomerService.Center.Subcategory.do%3FCategoryId%3D46) for the most accurate reproduction.*
 
 # Privacy Policy
 
