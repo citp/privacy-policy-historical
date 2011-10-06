@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevermarketer.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522205316id_/http%3A//clevermarketer.com/%3Fpage_id%3D3460) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevermarketer.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006155700id_/http%3A//clevermarketer.com/%3Fpage_id%3D3460) for the most accurate reproduction.*
 
 # Privacy Policy
 
