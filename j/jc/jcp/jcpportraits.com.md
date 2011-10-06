@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213045612id_/http%3A//jcpportraits.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006114902id_/http%3A//jcpportraits.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # JCPenney Portrait Studios. Baby Portrait Coupons, Family Photos, Custom Photo Cards
 
