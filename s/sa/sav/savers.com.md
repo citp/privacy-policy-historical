@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220133643id_/http%3A//savers.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savers.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006175816id_/http%3A//www.savers.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Savers - Good deeds. Great deals.
 
