@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the japantoday.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605012939id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japantoday.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006060614id_/http%3A//www.japantoday.com/privacy) for the most accurate reproduction.*
 
-# Japan Today: Japan News and Discussion
+# Privacy policy ‹ Japan Today: Japan News and Discussion
 
 This document serves as a guide to Japan Today users regarding their privacy when using the service.  
 Effective March 24, 2008
