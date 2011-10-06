@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietrecipesblog.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519020640id_/http%3A//dietrecipesblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietrecipesblog.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006074201id_/http%3A//dietrecipesblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Diet Recipes under 200 calories
 
@@ -26,7 +26,5 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 Incoming search terms for this recipe:
 
   * [dietrecipesblog](http://dietrecipesblog.com/privacy/ "dietrecipesblog")
-  * [no prescription viagra](http://dietrecipesblog.com/privacy/ "no prescription viagra")
-  * [no prescription vicodin](http://dietrecipesblog.com/privacy/ "no prescription vicodin")
 
 
