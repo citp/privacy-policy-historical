@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105122945id_/http%3A//www.buzzillions.com/public/legal/privacy_policy_en_US.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzillions.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007014621id_/http%3A//www.buzzillions.com/public/legal/privacy_policy_en_US.html) for the most accurate reproduction.*
 
 # Buzzillions Privacy Policy
 
@@ -73,8 +73,8 @@ Choice and Access
 We provide our users with the ability to "opt-in" to receiving certain communications from us or having their information disclosed to third parties by indicating their preferences at the time of registration. If such user later wishes to change these preferences or access, change or delete their personal information we provide the following options: 
 
   * To "opt-out" of receiving promotional e-mail from us, you can; (a) send an email to privacy_request@powerreviews.com with your request; or (b) click on the "unsubscribe" link in the email you receive from us. 
-  * To "opt-out" of receiving promotional mailings from us, you can: (a) send an email to privacy_request@powerreviews.com with your request; or (b) write to us at PowerReviews Inc., 665 Third Street, Suite 117, San Francisco, CA 94107. 
-  * To "opt-out" of disclosure to third parties for their direct marketing purposes, you can: (a) send an email to privacy_request@powerreviews.com with your request; or (b) write to us at PowerReviews Inc., 665 Third Street, Suite 117, San Francisco, CA 94107. 
+  * To "opt-out" of receiving promotional mailings from us, you can: (a) send an email to privacy_request@powerreviews.com with your request; or (b) write to us at PowerReviews Inc., 22 Fourth Street, Suite 600, San Francisco, CA 94103. 
+  * To "opt-out" of disclosure to third parties for their direct marketing purposes, you can: (a) send an email to privacy_request@powerreviews.com with your request; or (b) write to us at PowerReviews Inc., 22 Fourth Street, Suite 600, San Francisco, CA 94103. 
 
 Please note that opting out of receiving communications from us will not prevent you from receiving administrative communications, such as those concerning the operation of the Site or Review Service or about a review you have submitted. 
 
@@ -95,7 +95,7 @@ Questions / Additional Information
 If you have any questions about this Policy, or the practices of or your dealings with the Site or Review Service, please contact us at the following address or email us at privacy_info@powerreviews.com: 
 
 PowerReviews, Inc.  
-665 Third Street, Suite 117  
-San Francisco, CA 94107 
+22 Fourth Street, Suite 600  
+San Francisco, CA 94103 
 
 back to top
