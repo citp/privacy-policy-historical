@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filepan.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518131857id_/http%3A//www.filepan.com/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filepan.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007005402id_/http%3A//www.filepan.com/terms.php) for the most accurate reproduction.*
 
 # Terms & Privacy: FilePan.com: Free Search and Download Video, Audio, Games, Software and More!
 
