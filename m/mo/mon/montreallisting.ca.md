@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the montreallisting.ca privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626112107id_/http%3A//www.montreallisting.ca/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the montreallisting.ca privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007000135id_/http%3A//www.montreallisting.ca/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
