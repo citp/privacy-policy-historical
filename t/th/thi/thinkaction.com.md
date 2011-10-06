@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkaction.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414221111id_/http%3A//www.thinkaction.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkaction.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006194740id_/http%3A//www.thinkaction.com/privacy.htm) for the most accurate reproduction.*
 
 # ThinkAction - Privacy Policy
 
