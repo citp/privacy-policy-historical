@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indigoclothing.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101230439id_/http%3A//www.indigoclothing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigoclothing.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006092452id_/http%3A//www.indigoclothing.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Indigo Clothing | T-shirt Printing - Promotional Clothing - Embroidery
+# Privacy Policy | Indigo Clothing, Custom T-Shirt Printers
 
 At Indigo Clothing Ltd. we are committed to protecting your privacy. Please read on for more details about our privacy policy.
 
