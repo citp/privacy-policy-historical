@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623043408id_/http%3A//www.livescience.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescience.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007010122id_/http%3A//www.livescience.com/privacy_policy.html) for the most accurate reproduction.*
 
 # LiveScience | Science, Technology, Health & Environmental News
 
