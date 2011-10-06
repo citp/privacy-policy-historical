@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readprint.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225152335id_/http%3A//www.readprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readprint.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006124334id_/http%3A//www.readprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Online Books, Poems, Short Stories - Read Print Library
 
