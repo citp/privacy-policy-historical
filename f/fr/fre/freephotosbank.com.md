@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freephotosbank.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504023012id_/http%3A//www.freephotosbank.com/index.php%3Faction%3Dshow%26cat%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freephotosbank.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006075709id_/http%3A//www.freephotosbank.com/index.php%3Faction%3Dshow%26cat%3Dprivacy) for the most accurate reproduction.*
 
-# Free Photos, Free Stock Photos, Images
+# Free Stock Photos, Free Images
 
 FreePhotosBank.com does not collect or hold data about you. However, data voluntarily provided by you at various points including when sending us a comment or suggestion will be used for that occasion only. You are under no obligation to provide us with this information and can access all aspects of the site without providing us any personal information. 
 
