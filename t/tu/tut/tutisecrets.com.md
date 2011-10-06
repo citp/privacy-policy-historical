@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutisecrets.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130124819id_/http%3A//tutisecrets.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutisecrets.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006063010id_/http%3A//tutisecrets.com/privacy.html) for the most accurate reproduction.*
 
 # TutiSecrets.com - Privacy Policy
 
