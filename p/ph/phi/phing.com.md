@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411023757id_/http%3A//www.phing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phing.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006033638id_/http%3A//www.phing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy (pHing Classifieds)
 
