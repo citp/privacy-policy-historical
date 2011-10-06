@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayugg.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819175011id_/http%3A//www.bayugg.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayugg.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006214915id_/http%3A//www.bayugg.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Ugg Boots,Cheap Ugg Boots,Ugg Boots sale,Ugg Boots Uk, BayUgg.com
 
