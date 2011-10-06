@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourchinalove.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514165417id_/http%3A//yourchinalove.com/go/page/privacy.html%3Fdcb%3Dyourchinalove%26od%3Dyourchinalove) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourchinalove.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006032048id_/http%3A//yourchinalove.com/go/page/privacy.html%3F%26who%3Dr%2CPS2m57RdsuuR6wbo70x_lViMTF3q6gYkqEGC3c03FNTYlOwHSkhgv2TIwYnV2lHLqTJyEb933qRpAd_8fhZMb7/k_SW9njBg/2TFqIVINz2VNt1Op/1iFzqqYIBBW7aFtsL7aqWW8QAyBthm8KBaUvMOJGx6vybBrcV94NE/WSw-%26dcb%3Dyourchinalove%26od%3Dyourchinalove) for the most accurate reproduction.*
 
 # Your China Love PRIVACY POLICY
 
@@ -90,10 +90,7 @@ You have the following choices to modify or delete your PII from our database:
 * Send an email to [privacy@ffn.com](mailto:privacy@ffn.com)  
 * Log in with your password and modify/delete your profile  
 * Send a snail mail to Friendfinder Networks Inc. at 220 Humboldt Ct, Sunnyvale, CA 94089, United States, Attn: Privacy  
-* Call us at (610) 757-1920 
-
-By using the above contact information, you may also receive emails from third party advertisers.
-
+* Call us at (408)702-1040
 * **13\. Revisions to this Privacy Policy**
 
 FFN reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the FFN Websites.
