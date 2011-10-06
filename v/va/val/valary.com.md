@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valary.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613172442id_/https%3A//valary.com/p_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valary.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006080049id_/https%3A//valary.com/p_policy) for the most accurate reproduction.*
 
 # 
 
