@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flowtown.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230215145id_/http%3A//www.flowtown.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flowtown.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006090142id_/http%3A//www.flowtown.com/privacy.html) for the most accurate reproduction.*
 
 # Flowtown Privacy Policy
 
@@ -77,6 +77,5 @@ If you have any questions or concerns regarding privacy on our Website, please s
 Effective Date: January 1, 2010
 
 Flowtown Inc.  
-795 Folsom St., 1st Floor  
-San Francisco, CA 94107  
-1-800-733-2414
+2601 Mission St. Suite 602  
+San Francisco, CA 94110
