@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the songlyrics.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613091733id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songlyrics.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006115916id_/http%3A//www.songlyrics.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy | Collection of Song Lyrics at Song Lyrics.com
+# Privacy | Collection of Song Lyrics at SongLyrics.com
 
 SongLyrics.com is committed to respecting and protecting your privacy. Should you choose to provide your Email address or any other personal information on any of the forms found on our site, you can be assured that it will only be used to support your relationship with SongLyrics.com. This privacy policy is intended for all users of SongLyrics.com.
 
