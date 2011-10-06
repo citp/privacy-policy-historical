@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgbrandsampler.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230203124id_/http%3A//www.pg.com/privacy/english/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgbrandsampler.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006185855id_/http%3A//www.pg.com/privacy/english/privacy_notice.html%3Futm_source%3Deds%26utm_medium%3Dcrm%26utm_campaign%3Doctober11Newsletter) for the most accurate reproduction.*
 
 # Procter & Gamble Privacy Notice
 
