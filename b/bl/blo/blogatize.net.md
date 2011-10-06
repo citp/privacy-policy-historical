@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogatize.net privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523184356id_/http%3A//blogatize.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogatize.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006112018id_/http%3A//blogatize.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Blogatize
+# 
 
 LAST UPDATED: 1/21/2011
 
