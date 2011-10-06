@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whozzat.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529095313id_/http%3A//whozzat.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whozzat.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006223624id_/http%3A//whozzat.com/privacy.php) for the most accurate reproduction.*
 
 # Free SMS Sites, Support Forum, Live Chat Help, Customer Support Chat
 
