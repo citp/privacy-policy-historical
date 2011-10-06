@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catsdogsandpets.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625022931id_/http%3A//www.catsdogsandpets.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catsdogsandpets.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006045907id_/http%3A//catsdogsandpets.com/Privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
