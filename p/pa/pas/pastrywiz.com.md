@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127171928id_/http%3A//pastrywiz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastrywiz.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006150859id_/http%3A//pastrywiz.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -29,8 +29,8 @@ This site makes chat rooms and message boards available to its users. Please rem
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Disclosure  
-**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20101127171928id_/http%3A//pastrywiz.com/mail/stmail.htm).
+**PastryWiz.com openly volunteers its practices of collecting information and it's practices of this site. If you have any questions pertaining to this privacy policy and its contents, [please write to us](https://web.archive.org/web/20111006150859id_/http%3A//pastrywiz.com/mail/stmail.htm).
 
-[Survey](https://web.archive.org/web/20101127171928id_/http%3A//pastrywiz.com/survey.htm)
+[Survey](https://web.archive.org/web/20111006150859id_/http%3A//pastrywiz.com/survey.htm)
 
 Copyright Š PastryWiz TM
