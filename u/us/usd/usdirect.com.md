@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the usdirect.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421071240id_/http%3A//www.usdirect.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirect.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006134650id_/http%3A//www.usdirect.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-DIRECTONE is dedicated to protecting consumer privacy. This Privacy Policy explains how DIRECTONE collects, uses, and discloses information about you when you subscribe to DIRECTV's digital satellite television programming services and when you visit our Web site(s). Your use or receipt of DIRECTONE� products or services (including our Web site(s)) constitutes acceptance of this Privacy Policy. 
+USDIRECT is dedicated to protecting consumer privacy. This Privacy Policy explains how USDIRECT collects, uses, and discloses information about you when you subscribe to DIRECTV's digital satellite television programming services and when you visit our Web site(s). Your use or receipt of USDIRECT� products or services (including our Web site(s)) constitutes acceptance of this Privacy Policy. 
 
 This Privacy Policy provides information about our practices in the following areas: 
 
@@ -27,15 +27,15 @@ A. The following are specific types of Customer Information that we collect from
 
 "Commerce Information" means personally identifiable information that enables a commerce partner to fulfill your request to participate in a promotion or transaction. From time to time, we may present special offers or enable you to purchase goods and services from us or third party advertisers or promoters. You would be informed of such offers on screen. Should you decide to take advantage of such an offer or engage in a transaction, we will collect and communicate information such as your name and address and your interest in a specific offer or transaction to the commerce partner sponsoring the promotion or transaction. This information is collected and disclosed by us only after you elect to participate in an offer. In addition to fulfilling your request, that commerce partner may also use your Commerce Information to send you other information in which you might be interested consistent with its own privacy policies. 
 
-"Web Site Information" means information that is collected and stored in our secure computing environment when you become a registered user of, or visit, our Web site(s). Information about visitors to our Web site(s) and the e-mail address of people who write to us are stored in our secure computing environment, which includes industry-standard authentication technologies. If you are a visitor to our Web site(s), we may collect information that you provide us (including your e-mail address) and use it in accordance with this Privacy Policy. Whether or not you are a DIRECTONE customer, we may collect information about visitors to our Web site(s) as follows: 
+"Web Site Information" means information that is collected and stored in our secure computing environment when you become a registered user of, or visit, our Web site(s). Information about visitors to our Web site(s) and the e-mail address of people who write to us are stored in our secure computing environment, which includes industry-standard authentication technologies. If you are a visitor to our Web site(s), we may collect information that you provide us (including your e-mail address) and use it in accordance with this Privacy Policy. Whether or not you are a USDIRECT customer, we may collect information about visitors to our Web site(s) as follows: 
 
 Cookies: We use cookies to our Web site(s) for returning visitors. These cookies remain on your computer and are automatically retrieved when you visit our Web site(s) at a later time. These cookies contain only information concerning the type of customer and frequently visited pages. No other Customer Information is stored on cookies. 
 
-If you are uncomfortable with the use of cookies, you may disable them on your computer. Please be advised that disabling cookies may affect user functionality but the design of the DIRECTONE Web site(s) generally allow access to most offerings for users who have disabled cookies. 
+If you are uncomfortable with the use of cookies, you may disable them on your computer. Please be advised that disabling cookies may affect user functionality but the design of the USDIRECT Web site(s) generally allow access to most offerings for users who have disabled cookies. 
 
 Aggregate information about Web site visitors: We create aggregate reports of visitors to our Web site(s) in order to measure the performance of our Web site(s). These reports do not contain any Customer Information about visitors to our Web site(s). 
 
-Links to other Web sites: When you visit our Web site(s), you may find opportunities to link to Web sites of third parties. When you click through to these sites, DIRECTONE's Privacy Policy no longer applies. We recommend that you read the privacy policy for any third party Web sites. 
+Links to other Web sites: When you visit our Web site(s), you may find opportunities to link to Web sites of third parties. When you click through to these sites, USDIRECT's Privacy Policy no longer applies. We recommend that you read the privacy policy for any third party Web sites. 
 
 **II. Use of Customer Information**
 
@@ -45,7 +45,7 @@ We use Customer Information to deliver our service to our customers and to under
 
 Third party services: We share Customer Information with third parties in order to coordinate delivery or billing of the services provided by such third parties to your DIRECTV Receiver. We take reasonable steps to require these third parties to maintain the confidentiality of the Customer Information and require them to adhere to this Privacy Policy. 
 
-Affiliated companies: We may share Customer Information with affiliated companies of DIRECTONE. If we choose to share data in this fashion, we will require our affiliates to honor this Privacy Policy. 
+Affiliated companies: We may share Customer Information with affiliated companies of USDIRECT. If we choose to share data in this fashion, we will require our affiliates to honor this Privacy Policy. 
 
 Marketing: We may share Customer Information, including programming purchases, with selected media, entertainment, and other similar service providers. These service providers may use this Customer Information to market products or services to you. We may disclose aggregated Anonymous Viewing Information and any reports or analyses derived therefrom, to third parties including suppliers, advertisers, broadcasters, consumer and market research companies and other organizations. 
 
@@ -63,7 +63,7 @@ We take reasonable steps to protect Customer Information by using industry-stand
 
 **VIII. Online credit card transactions**
 
-We protect the security of credit card transactions on the Internet by using a secure, encrypted Web server. We maintain credit card information collected during transactions in a secure database at DIRECTONE for fraud prevention and accounting and billing purposes. Your credit card information is not available to unauthorized parties while in these databases. Stored information from credit card transactions is not released to third parties except in response to a subpoena or court order. 
+We protect the security of credit card transactions on the Internet by using a secure, encrypted Web server. We maintain credit card information collected during transactions in a secure database at USDIRECT for fraud prevention and accounting and billing purposes. Your credit card information is not available to unauthorized parties while in these databases. Stored information from credit card transactions is not released to third parties except in response to a subpoena or court order. 
 
 **X. Changes to this Privacy Policy**
 
