@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markmonitor.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417045229id_/http%3A//markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markmonitor.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006034521id_/https%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
 
 # MarkMonitor - Privacy Policy
 
