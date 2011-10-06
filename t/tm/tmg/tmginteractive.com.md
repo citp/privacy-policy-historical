@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmginteractive.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923000340id_/http%3A//tmginteractive.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmginteractive.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006220642id_/http%3A//tmginteractive.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # TMG
 
