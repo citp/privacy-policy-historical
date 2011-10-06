@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wooservers.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130102234id_/http%3A//wooservers.com/faq/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wooservers.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006032427id_/http%3A//wooservers.com/faq/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WooServers
 
@@ -28,7 +28,7 @@ We implement a variety of security measures to maintain the safety of your perso
 
 We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+**After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers nor shared with any third parties.**
 
 **Do we use cookies?**
 
