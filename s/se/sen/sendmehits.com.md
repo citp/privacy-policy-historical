@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendmehits.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621095443id_/http%3A//www.sendmehits.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendmehits.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007000447id_/http%3A//sendmehits.com/privacy.aspx) for the most accurate reproduction.*
 
 # SendMeHits.com - Free Traffic Exchange
 
