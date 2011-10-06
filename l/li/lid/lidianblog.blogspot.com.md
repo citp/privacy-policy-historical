@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lidianblog.blogspot.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228042402id_/http%3A//lidianblog.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lidianblog.blogspot.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006053110id_/http%3A//lidianblog.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # The Doubletake: Privacy Policy
 
