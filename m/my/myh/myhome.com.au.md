@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhome.com.au privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605235307id_/http%3A//www.myhome.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhome.com.au privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006030432id_/http%3A//www.myhome.com.au/privacy-policy) for the most accurate reproduction.*
 
 # myhome.com.au privacy policy - myhome.com.au Australian real estate search
 
