@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the besthometreadmill.co.za privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414074010id_/http%3A//besthometreadmill.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthometreadmill.co.za privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006190742id_/http%3A//besthometreadmill.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Home Treadmill
 
