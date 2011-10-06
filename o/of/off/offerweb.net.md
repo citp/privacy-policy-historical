@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerweb.net privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612090303id_/http%3A//offerweb.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerweb.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006120342id_/http%3A//www.offerweb.net/privacypolicy.php) for the most accurate reproduction.*
 
 # OFFERweb. Your Performance Network.
 
@@ -117,4 +117,4 @@ For more information about protecting your privacy, you may wish to visit: www.f
 California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210 ; or by email to dca@dca.ca.gov.  
 
 
-[home](https://web.archive.org/web/20110612090303id_/http%3A//offerweb.com/index.php)
+[home](https://web.archive.org/web/20111006120342id_/http%3A//www.offerweb.net/index.php)
