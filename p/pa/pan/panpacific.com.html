@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2011-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609223831id_/http%3A//www.panpacific.com/en/privacy.html%3Foverride_form%3D21) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2011-10-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111006124042id_/http%3A//www.panpacific.com/en/privacy.html%3Foverride_form%3D21) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<title>Pan Pacific Hotels - Privacy Policy</title>
@@ -10,10 +10,10 @@ In addition to this Privacy Policy Statement, there may also be specific and add
 
     <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
-<link href="/jasmine3.0/css/FormValidation.css" rel="stylesheet" type="text/css">
-<link href="/jasmine3.0/css/datepicker.css" rel="stylesheet" type="text/css">
 <link href="/jasmine3.0/css/common.css" rel="stylesheet" type="text/css">
 <link href="/jasmine3.0/css/page_css.css" rel="stylesheet" type="text/css">
+<link href="/jasmine3.0/css/FormValidation.css" rel="stylesheet" type="text/css">
+<link href="/jasmine3.0/css/datepicker.css" rel="stylesheet" type="text/css">
 
 
 <link href="/jasmine3.0/css/blueprint/screen.css" media="screen" rel="stylesheet" type="text/css">
@@ -22,12 +22,12 @@ In addition to this Privacy Policy Statement, there may also be specific and add
 <link href="/jasmine3.0/css/blueprint/print.css" media="print" rel="stylesheet" type="text/css" />
 <![endif]-->
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/jasmine3.0/scripts/jquery/jquery.js"></script>
+<script type="text/javascript" src="/jasmine3.0/scripts/jsonrpc.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/ui.core.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/jquery.cookie.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/blockUI/v2/jquery.blockUI.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jQuerySupportingFunctions.js"></script>
 <script type="text/javascript" src="/jasmine3.0/scripts/jquery/plugins/ui.datepicker.js"></script>
-<script type="text/javascript" src="/jasmine3.0/scripts/jsonrpc.js"></script>
 
 
 
@@ -63,7 +63,10 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                 }
             return(translation);
             }
-			
+
+
+		
+
 
         try {
             jsonrpc = new JSONRpcClient("/JSON-RPC");
@@ -80,7 +83,7 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
     </script>
     
     
-<!--START COMPONENT:1128 (0ms) -->
+<!--START COMPONENT:1128 (1ms) -->
 <meta name="verify-v1" content="f3LqLd/+wnVwFhaMzQ4MmL73oSmL2/Hc2KDDlpyHN/I=">
 <meta name="google-site-verification" content="IHnP1qKVRg8ddmQG_5d2RX6nqTp1BZfNQMBX_ajSEvA">
 <link href="/application/css/luxus/style.css" media="screen" rel="stylesheet" type="text/css">
@@ -92,6 +95,12 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 .list-2col, .list-4col {
     margin: 0 !important;
     padding: 0 !important;
+}
+h3.quick-finder {
+display:none;
+}
+#main_image0, #main_image1, #main_image2, #main_image3 {
+    text-indent: -9999px;
 }
 </style>
 
@@ -111,6 +120,9 @@ $(document).ready(function(){
 <!--[if IE 7]>
 <link href="/application/css/luxus/style-ie7.css" media="screen" rel="stylesheet" type="text/css" />
 <![endif]-->
+
+<script type="text/javascript" src="/application/js/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
+<script type="text/javascript" src="/application/js/swfobject/swfobject.js"></script>
 <!--END COMPONENT:1128-->
 
     
@@ -161,7 +173,8 @@ if(addressURL.indexOf('?') != -1) {
 </script>
 <!--END COMPONENT:265-->
 
-<!--START COMPONENT:155 (14ms) -->
+<!--START COMPONENT:155 (13ms) -->
+
 
 
 
@@ -222,14 +235,14 @@ if(addressURL.indexOf('?') != -1) {
 		});
  }
  
- function displayCodeType(passedId,passedValue)
+ function displayCodeType(passedId,passedValue,passedLink)
  {
    passedObj = document.getElementById(passedId);
    passedObj.checked='checked';
    document.getElementById("selectedPromoCodeTypeMode").value = passedObj.value;
-   window.open("/TestOwsRequest.jsp","Window1","menubar=no,width=430,height=360,toolbar=no");
+   window.open(passedLink,"Window1","menubar=no,width=430,height=360,toolbar=no");
  }
- 
+
  function checkBooking(passedValue)
  {
    setCountryLocalDate(passedValue);
@@ -338,7 +351,9 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
              <legend class="hidden">Select a Hotel</legend>   
 		      <ol>
 		        <li class="hotel-search">
-		        	<label class="label_hotelCode_CheckAvailabilityForm  mandatoryField" title="Mandatory field" for="hotelCode_CheckAvailabilityForm">Hotel Search </label>
+		        	<label class="label_hotelCode_CheckAvailabilityForm  mandatoryField">
+		        	Hotel Search
+		        	</label>
                   <select name="hotelCode_CheckAvailabilityForm" id="hotelCode_CheckAvailabilityForm" class="required" onchange="checkBooking(value)">
 <option value="" selected="selected">- Choose a Hotel -</option>
 <optgroup label="Australia">
@@ -397,13 +412,17 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
               <legend class="hidden">Date of your stay</legend>
                 <ol>
                   <li class="arrival-date">
-						<label class="label_dp_CheckInDate_CheckAvailabilityForm  mandatoryField" title="Mandatory field" for="dp_CheckInDate">Arrive </label>
-                         <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckInDate_day">Day:</label><select id="dp_CheckInDate_day" name="dp_CheckInDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10" selected="selected">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckInDate_month">Month:</label><select id="dp_CheckInDate_month" name="dp_CheckInDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06" selected="selected">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckInDate_year">Year:</label><select id="dp_CheckInDate_year" name="dp_CheckInDate_year" class="select year"><option value="2011" selected="selected">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckInDate_CheckAvailabilityForm" type="text" id="dp_CheckInDate" class="required CheckOutDate" readonly="readonly" onchange="dateChange(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="10 Jun 2011"></div>
+						<label class="label_dp_CheckInDate_CheckAvailabilityForm  mandatoryField">
+		        			Arrive
+		        		</label>
+                         <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckInDate_day">Day:</label><select id="dp_CheckInDate_day" name="dp_CheckInDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06" selected="selected">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckInDate_month">Month:</label><select id="dp_CheckInDate_month" name="dp_CheckInDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10" selected="selected">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckInDate_year">Year:</label><select id="dp_CheckInDate_year" name="dp_CheckInDate_year" class="select year"><option value="2011" selected="selected">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckInDate_CheckAvailabilityForm" type="text" id="dp_CheckInDate" class="required CheckOutDate" readonly="readonly" onchange="dateChange(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="06 Oct 2011"></div>
                   </li>       
                        
                    <li class="departure-date">
-						<label class="label_dp_CheckOutDate_CheckAvailabilityForm  mandatoryField" title="Mandatory field" for="dp_CheckOutDate">Departure Date </label>
-                        <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckOutDate_day">Day:</label><select id="dp_CheckOutDate_day" name="dp_CheckOutDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11" selected="selected">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckOutDate_month">Month:</label><select id="dp_CheckOutDate_month" name="dp_CheckOutDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06" selected="selected">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckOutDate_year">Year:</label><select id="dp_CheckOutDate_year" name="dp_CheckOutDate_year" class="select year"><option value="2011" selected="selected">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckOutDate_CheckAvailabilityForm" type="text" id="dp_CheckOutDate" class="required CheckOutDate" readonly="readonly" onchange="dateChangeOut(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="11 Jun 2011"></div>
+						<label class="label_dp_CheckOutDate_CheckAvailabilityForm  mandatoryField">
+		        			Departure Date
+		        		</label>
+                        <div class="noScript CheckOutDate"><label style="display:none" for="dp_CheckOutDate_day">Day:</label><select id="dp_CheckOutDate_day" name="dp_CheckOutDate_day" class="select date"><option value="01">01</option><option value="02">02</option><option value="03">03</option><option value="04">04</option><option value="05">05</option><option value="06">06</option><option value="07" selected="selected">07</option><option value="08">08</option><option value="09">09</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option><option value="31">31</option></select><label style="display:none" for="dp_CheckOutDate_month">Month:</label><select id="dp_CheckOutDate_month" name="dp_CheckOutDate_month" class="select month"><option value="01">January</option><option value="02">February</option><option value="03">March</option><option value="04">April</option><option value="05">May</option><option value="06">June</option><option value="07">July</option><option value="08">August</option><option value="09">September</option><option value="10" selected="selected">October</option><option value="11">November</option><option value="12">December</option></select><label style="display:none" for="dp_CheckOutDate_year">Year:</label><select id="dp_CheckOutDate_year" name="dp_CheckOutDate_year" class="select year"><option value="2011" selected="selected">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020">2020</option><option value="2021">2021</option></select></div><div class="withScript" style="display:none"><input name="dp_CheckOutDate_CheckAvailabilityForm" type="text" id="dp_CheckOutDate" class="required CheckOutDate" readonly="readonly" onchange="dateChangeOut(this)" onclick="$(this).datepicker();" onkeypress="$(this).datepicker();" onfocus="$(this).datepicker()" value="07 Oct 2011"></div>
 				   </li>                         
 				</ol>
 			</fieldset>
@@ -412,7 +431,9 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 			 <legend class="hidden">Room Requirements</legend>
       		  <ol>
         		<li class="no-of-rooms">
-                   <label class="label_noOfRooms_CheckAvailabilityForm  mandatoryField" title="Mandatory field" for="noOfRooms_CheckAvailabilityForm">Room(s) </label>
+        			<label class="label_noOfRooms_CheckAvailabilityForm  mandatoryField">
+		        		Room(s)
+		        	</label>
                    <select name="noOfRooms_CheckAvailabilityForm" id="noOfRooms_CheckAvailabilityForm" class="required">
 <option value="1" selected="selected">1</option>
 <option value="2">2</option>
@@ -426,7 +447,9 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 </select>
                 </li>
                 <li class="no-of-adults">   
-                   <label class="label_noOfAdults_CheckAvailabilityForm " for="noOfAdults_CheckAvailabilityForm">Adult(s) / Room </label>
+        			<label class="label_noOfAdults_CheckAvailabilityForm ">
+		        		Adult(s)/Room
+		        	</label>
                    <select name="noOfAdults_CheckAvailabilityForm" id="noOfAdults_CheckAvailabilityForm">
 <option value="1" selected="selected">1</option>
 <option value="2">2</option>
@@ -440,7 +463,9 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 </select>
                 </li>   
                 <li class="no-of-children">
-                     <label class="label_noOfChildren_CheckAvailabilityForm " for="noOfChildren_CheckAvailabilityForm">Children / Room </label>
+        			<label class="label_noOfChildren_CheckAvailabilityForm ">
+		        		Children/Room
+		        	</label>
                      <select name="noOfChildren_CheckAvailabilityForm" id="noOfChildren_CheckAvailabilityForm">
 <option value="0" selected="selected">0</option>
 <option value="1">1</option>
@@ -477,7 +502,9 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
                   <li class="promo-code-type-wrap">
                     <ol>
                         <li class="promo-code-type">
-                             <label class="label_promoCodeType_CheckAvailabilityForm " for="promoCodeType_CheckAvailabilityForm">Code Type </label>
+		                        <label class="label_promoCodeType_CheckAvailabilityForm ">
+				        		Code Type
+				        		</label>
                               <select name="promoCodeType_CheckAvailabilityForm" id="promoCodeType_CheckAvailabilityForm">
 <option value="" selected="selected">- SelectCodeType -</option>
 <option value="CORPORATE">Corporate</option>
@@ -487,7 +514,9 @@ $(document).ready(function(){ $("#CheckAvailabilityForm").attr('action','/jasmin
 </select>
 						</li>
             			<li class="promo-code">
-                              <label class="label_promoCode_CheckAvailabilityForm " for="promoCode_CheckAvailabilityForm">Rate Code </label>
+			        			<label class="label_promoCode_CheckAvailabilityForm ">
+					        		Rate Code
+					        	</label>
                               <input name="promoCode_CheckAvailabilityForm" type="text" id="promoCode_CheckAvailabilityForm" style="width:110px" size="5" value="">
 					    </li>
                     </ol>
@@ -525,7 +554,7 @@ $(function(){ $(".noScript").hide(); $(".withScript").show(); $(".javaScriptStat
 
 <!--END COMPONENT:155-->
 
-<!--START COMPONENT:129 (1ms) -->
+<!--START COMPONENT:129 (0ms) -->
 
 
 
@@ -541,7 +570,7 @@ $(function(){ $(".noScript").hide(); $(".withScript").show(); $(".javaScriptStat
 <script type="text/javascript" src="/jasmine3.0/scripts/components/en/component_1540.js"></script>
 <!--END Component:1540-->
 
-<!--START COMPONENT:40 (306ms) -->
+<!--START COMPONENT:40 (282ms) -->
 <script type="text/javascript">
 /* <![CDATA[ */
 
@@ -713,13 +742,13 @@ jsActions.add('2951', "/en/Orchard/restaurants_bars/index.html", "Dining Overvie
 jsHotels.add('2951', "Pan Pacific Orchard", '1278', "Singapore");
 jsActions.add('2951', "/en/Orchard/meetings_events/index.html", "Meeting & Events Overview");
 jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
-jsActions.add('3012', "/en/pan_pacific_service_suites_singapore/amenities.html", "Accommodation Overview");
+jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/amenities.html", "Accommodation Overview");
 jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
-jsActions.add('3012', "/en/pan_pacific_service_suites_singapore/destination.html", "Hotel Destination");
+jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/destination.html", "Hotel Destination");
 jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
-jsActions.add('3012', "/en/pan_pacific_service_suites_singapore/index.html", "Hotel Overview");
+jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/index.html", "Hotel Overview");
 jsHotels.add('3012', "Pan Pacific Serviced Suites Singapore", '1278', "Singapore");
-jsActions.add('3012', "/en/pan_pacific_service_suites_singapore/individual_suites.html", "Accommodation Overview");
+jsActions.add('3012', "/en/pan_pacific_serviced_suites_singapore/individual_suites.html", "Accommodation Overview");
 jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
 jsActions.add('1924', "/en/singapore/weddings.html", "Wedding Overview");
 jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
@@ -732,22 +761,22 @@ jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
 jsActions.add('1924', "/en/singapore/restaurants_bars/index.html", "Dining Overview");
 jsHotels.add('1924', "Pan Pacific Singapore", '1278', "Singapore");
 jsActions.add('1924', "/en/singapore/meetings_events/index.html", "Meeting & Events Overview");
-jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok - Book Now for Extended Stays", '1286', "Thailand");
-jsActions.add('3155', "/en/pan_pacific_service_suites_bangkok/index.html", "Hotel Overview");
-jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok - Book Now for Extended Stays", '1286', "Thailand");
+jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok", '1286', "Thailand");
+jsActions.add('3155', "/en/pan_pacific_serviced_suites_bangkok/index.html", "Hotel Overview");
+jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok", '1286', "Thailand");
 jsActions.add('3155', "/en/pan_pacific_serviced_suites_bangkok/suite_amenities.html", "Accommodation Overview");
-jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok - Book Now for Extended Stays", '1286', "Thailand");
+jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok", '1286', "Thailand");
 jsActions.add('3155', "/en/pan_pacific_serviced_suites_bangkok/desitnation_info.html", "Hotel Destination");
-jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok - Book Now for Extended Stays", '1286', "Thailand");
+jsHotels.add('3155', "Pan Pacific Serviced Suites Bangkok", '1286', "Thailand");
 jsActions.add('3155', "/en/pan_pacific_serviced_suites_bangkok/individual_suites.html", "Accommodation Overview");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
 jsActions.add('1260', "/en/Seattle/Overview.html", "Hotel Overview");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
 jsActions.add('1260', "/en/Seattle/Meetings/Weddings/Overview.html", "Wedding Overview");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
-jsActions.add('1260', "/en/Seattle/Destination.html", "Hotel Destination");
+jsActions.add('1260', "/en/seattle/thingstodo1.html", "Hotel Destination");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
-jsActions.add('1260', "/en/seattle/thingstodo.html", "Hotel Destination");
+jsActions.add('1260', "/en/Seattle/Destination.html", "Hotel Destination");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
 jsActions.add('1260', "/en/Seattle/Rooms/Overview.html", "Accommodation Overview");
 jsHotels.add('1260', "Pan Pacific Seattle", '1258', "United States");
@@ -765,7 +794,7 @@ jsActions.add('1260', "/en/Seattle/Meetings/Overview.html", "Meeting & Events Ov
             </div>
             <div id="layoutCenter" style="" class="centerColumn">
                 <div id="contentCenter">
-<!--START COMPONENT:1157 (11ms) -->
+<!--START COMPONENT:1157 (10ms) -->
 <div class="corporate-body span-5 no-right-margin">
 <h2>Privacy </h2>
 <div class="content-body">
@@ -794,13 +823,13 @@ jsActions.add('1260', "/en/Seattle/Meetings/Overview.html", "Meeting & Events Ov
             </div>
             <div id="layoutRight" style="" class="rightColumn">
                 <div id="contentRight">
-<!--START COMPONENT:1142 (120ms) -->
+<!--START COMPONENT:1142 (132ms) -->
 <style type="text/css">
 #events-container {
 	padding:20px 0;
 }
 #events-offers-container {
-	height:380px;/*height:477px;*/
+	height:418px;/*height:477px;*/
 }
 </style><div id="events-container">
 <h3 class="hidden"> Events</h3>
@@ -840,13 +869,6 @@ $(function() {
 </script><div id="hotel-marketing-panel">
 <h2 class="head"><a href="/en/specialoffers.html" title="Hotel Offers">Hotel Offers</a></h2>
 <ul class="has-accord"><li>
-<h3 class="head"><a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific">Weekend Preferences By Pan Pacific</a></h3>
-<div>
-<a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific"><img src="/media/Images/Corporate/Group_Promotions/weekend_preferences-210x80.jpg" border="0" alt="Weekend Preferences By Pan Pacific"></a>
-<a href="/en/weekend_preferences.html" title="Love your weekends even more with an additional choice of Preferences." class="offers-summary">Love your weekends even more with an additional choice of Preferences.</a>
-</div>
-</li>
-<li>
 <h3 class="head"><a href="/en/preferences_pan_pacific.html" title="Preferences By Pan Pacific">Preferences By Pan Pacific</a></h3>
 <div>
 <a href="/en/preferences_pan_pacific.html" title="Preferences By Pan Pacific"><img src="/media/images/corporate/group_promotions/rooms_preferences_210x80.jpg" border="0" alt="Preferences By Pan Pacific"></a>
@@ -861,6 +883,13 @@ $(function() {
         
         
         </a>
+</div>
+</li>
+<li>
+<h3 class="head"><a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific">Weekend Preferences By Pan Pacific</a></h3>
+<div>
+<a href="/en/weekend_preferences.html" title="Weekend Preferences By Pan Pacific"><img src="/media/Images/Corporate/Group_Promotions/weekend_preferences-210x80.jpg" border="0" alt="Weekend Preferences By Pan Pacific"></a>
+<a href="/en/weekend_preferences.html" title="Love your weekends even more with an additional choice of Preferences." class="offers-summary">Love your weekends even more with an additional choice of Preferences.</a>
 </div>
 </li>
 <li>
@@ -884,11 +913,11 @@ $(function() {
 
 <!--END COMPONENT:1142-->
 
-<!--START COMPONENT:293 (0ms) -->
+<!--START COMPONENT:293 (1ms) -->
 <a id="exclusive-link" href="/en/mypanpac/newslettermember.html" title="Sign Up For Latest News">Sign Up For Latest News</a>
 <!--END COMPONENT:293-->
 
-<!--START COMPONENT:35 (1ms) -->
+<!--START COMPONENT:35 (0ms) -->
 <div id="right-search">
   <h3 class="hidden">Search</h3>
  <form name="searchForm" action="/search.html" method="get">
@@ -919,7 +948,7 @@ $(function() {
 </ul>
 <!--END COMPONENT:1143-->
 
-<!--START COMPONENT:21 (1ms) -->
+<!--START COMPONENT:21 (0ms) -->
 <div id="footer-policy">
   <h3 class="hidden">Legal</h3>
   <ul>
@@ -930,7 +959,7 @@ $(function() {
 </div>
 <!--END COMPONENT:21-->
 
-<!--START COMPONENT:215 (0ms) -->
+<!--START COMPONENT:215 (1ms) -->
 <div id="footer-copyright">
   <h3 class="hidden">Copyright</h3>
   <p>© 2011 Pan Pacific Hotels and Resorts</p>
@@ -948,7 +977,7 @@ $(function() {
 
 <!--END COMPONENT:22-->
 
-<!--START COMPONENT:1513 (1ms) -->
+<!--START COMPONENT:1513 (0ms) -->
 <script type="text/javascript">
 /*<![CDATA[*/
 var hasWhitebg = true;
@@ -977,63 +1006,68 @@ function addHotelLocalDate(jvarCodeName, jvarDate)
 }
 
 
-<!-- Moved to Main JS -->addHotelLocalDate('PPBKK', '10 Jun 2011');
+<!-- Moved to Main JS -->addHotelLocalDate('PPBKK', '06 Oct 2011');
 
-addHotelLocalDate('PPCER', '10 Jun 2011');
+addHotelLocalDate('PPCER', '06 Oct 2011');
 
-addHotelLocalDate('PPCGK', '10 Jun 2011');
+addHotelLocalDate('PPCGK', '06 Oct 2011');
 
-addHotelLocalDate('PPDAC', '10 Jun 2011');
+addHotelLocalDate('PPDAC', '06 Oct 2011');
 
-addHotelLocalDate('PPDPS', '10 Jun 2011');
+addHotelLocalDate('PPDPS', '06 Oct 2011');
 
-addHotelLocalDate('PPHND', '10 Jun 2011');
+addHotelLocalDate('PPHND', '06 Oct 2011');
 
-addHotelLocalDate('PPKLA', '10 Jun 2011');
+addHotelLocalDate('PPKLA', '06 Oct 2011');
 
-addHotelLocalDate('PPMLB', '09 Jun 2011');
+addHotelLocalDate('PPMLB', '06 Oct 2011');
 
-addHotelLocalDate('PPMNL', '10 Jun 2011');
+addHotelLocalDate('PPMNL', '06 Oct 2011');
 
-addHotelLocalDate('PPNGO', '10 Jun 2011');
+addHotelLocalDate('PPNBO', '06 Oct 2011');
 
-addHotelLocalDate('PPNRT', '10 Jun 2011');
+addHotelLocalDate('PPNGO', '06 Oct 2011');
 
-addHotelLocalDate('PPPAL', '10 Jun 2011');
+addHotelLocalDate('PPNRT', '06 Oct 2011');
 
-addHotelLocalDate('PPPER', '10 Jun 2011');
+addHotelLocalDate('PPPAL', '06 Oct 2011');
 
-addHotelLocalDate('PPSEA', '09 Jun 2011');
+addHotelLocalDate('PPPER', '06 Oct 2011');
 
-addHotelLocalDate('PPSGO', '10 Jun 2011');
+addHotelLocalDate('PPSEA', '06 Oct 2011');
 
-addHotelLocalDate('PPSHA', '10 Jun 2011');
+addHotelLocalDate('PPSGO', '06 Oct 2011');
 
-addHotelLocalDate('PPSIN', '10 Jun 2011');
+addHotelLocalDate('PPSHA', '06 Oct 2011');
 
-addHotelLocalDate('PPSSIN', '10 Jun 2011');
+addHotelLocalDate('PPSIN', '06 Oct 2011');
 
-addHotelLocalDate('PPSZV', '10 Jun 2011');
+addHotelLocalDate('PPSSIN', '06 Oct 2011');
 
-addHotelLocalDate('PPUKY', '10 Jun 2011');
+addHotelLocalDate('PPSZV', '06 Oct 2011');
 
-addHotelLocalDate('PPWHI', '09 Jun 2011');
+addHotelLocalDate('PPUKY', '06 Oct 2011');
 
-addHotelLocalDate('PPWHV', '09 Jun 2011');
+addHotelLocalDate('PPWHI', '06 Oct 2011');
 
-addHotelLocalDate('PPXMN', '10 Jun 2011');
+addHotelLocalDate('PPWHV', '06 Oct 2011');
 
-addHotelLocalDate('PPYKO', '10 Jun 2011');
+addHotelLocalDate('PPXMN', '06 Oct 2011');
 
-addHotelLocalDate('PPYVR', '09 Jun 2011');
+addHotelLocalDate('PPYKO', '06 Oct 2011');
+
+addHotelLocalDate('PPYVR', '06 Oct 2011');
 
 </script>
 <!--END COMPONENT:252-->
 
 <!--START COMPONENT:1542 (43ms) -->
+<!-- SEO text. commented out accoding to the client request
 <div id="corporate-seo-left">Pan Pacific’s luxury hotels and resorts combine the cultures and ancient traditions of the Pacific Rim to provide an urban sanctuary with a sense of modern vibrancy and warmth. This culture is brought to life in the engaging and thoughtful service of all our associates, who are dedicated to enhancing every moment of your stay with us. We look forward to welcoming you to our 5-star hotels. </div>
 <div id="corporate-seo-right">Leading Luxury Hotels | 5 star beach Resorts | Luxury Family Hotels
 Luxury Hotels – Luxury Resorts – 5 Star Hotels – Hotel Offers</div>
+-->  
+
 <!--END COMPONENT:1542-->
 </div>
         </div>
@@ -1049,8 +1083,7 @@ Luxury Hotels – Luxury Resorts – 5 Star Hotels – Hotel Offers</div>
 
 
 
-<!--1442 MiliSecs -->
-
+<!--1447 MiliSecs AB Testing Path = B-->
 
 
 </body></html>
