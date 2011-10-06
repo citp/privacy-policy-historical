@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113234752id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bbsradio.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006184131id_/http%3A//www.bbsradio.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BBS Radio Privacy Policy
 
@@ -13,32 +13,15 @@
   * We do not give out the information to third parties! We do not share, sell, rent or barter any identifiable personal information to any third party without your permission, and rarely then as well. It's how we roll!
 
 
-  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [contact@bbsradio.com](mailto:contact@bbsradio.com), or contacting the us by mail at the following address. BBS Radio, 5167 Toyon Lane, Paradise, CA 95969. Tele 530-876-3222 or 530-876-9026. We immediately honor all requests. People may also remove themselves from the Newsletter automatically by clicking on the link located on the bottom of the newsletter.
+  * Any individual or company may request to opt out of our electronic newsletters by sending an email directly to [newsletter@bbsradio.com](mailto:newsletter@bbsradio.com), or contacting the us by mail at the following address. BBS Network, Inc. (dba: BBS Radio), 5167 Toyon Lane, Paradise, CA 95969. Tele 530-876-9916. We are easy to reach, and we make ourselves readily available! People may also remove themselves from the Newsletter just by clicking on the link located on the bottom of the email.
 
-**Surveys & Contests:**  
-
-
-  * From time to time, BBS Radio may offer surveys or promotions, such as sweepstakes and contests. Participation in these contests or promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. When you enter a contest or other promotional feature, we may ask for your name, address, demographic information, phone number and e-mail address. Contest information will be used to conduct drawings, notify the winners and award prizes. Survey information will be used to monitor or improve the site.
-
-**Email:**  
+**Newsletters:**  
 
 
-  * When you submit feedback or questions via e-mail, or contact us for information about our website, we will request your name and e-mail address. We use this information solely to respond to your inquiries.
+  * BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters _only to those specific individuals that signed up for them_. If you receive an email and want to be removed from the newsletter, we provide instructions on how to unsubscribe, so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at [newsletter@bbsradio.com](mailto:newsletter@bbsradio.com), asking to be removed, and it will be done within 24 hours. Our telephone numbers are provided all throughout the website. Please contact [management](http://www.bbsradio.com/management.php) whenever you have a concern, and we'll be most happy to speak with you personally.
 
+**Disclosure to Authorities:**  
 
-  * BBS Radio Newsletters are intended to keep users informed of new features that are available on our website. They are also used to send out information that we feel our users would appreciate. Our policy is to send our email announcements or newsletters only to those who request this by communicating with us and/or joining the newsletters. If you receive an email and want to be removed from the email list, we provide instructions on how to unsubscribe so that you will not receive any other messages from BBS Radio in the future. If instructions are not provided within the email, please send us an email at [contact@bbsradio.com](mailto:contact@bbsradio.com), asking to be removed, and it will be done within 24 hours. Our telephone numbers are provided all throughout the website. Please contact management whenever you have a concern, and we'll be most happy to speak with you personally.
-
-
-
-**"Tell-A-Friend" or "Send This Page to a Friend" Features:**
-
-BBS Radio does not utilize any information processed through the Tell-A-Friend or Send This Page to a Friend options. The information gathered and processed by the scripts are purely used as intended and will never be used in any way other than to facilitate the intended purpose, of allowing an individual to send a message to a recipient. The recipient's information is never verified nor utilized. 
-
-**Testimonials:**
-
-BBS Radio will only posts testimonials to the website that are granted and allowed by the author(s). We do not submit testimonials by individuals without their express permission (or those submitted to us by a radio host). All submissions are verified and then posted to the testimonials area manually.
-
-**Disclosure to Authorities:**
 
 BBS Radio cannot guarantee that all private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. We reserve the right, and may be forced to disclose any and all information to government bodies or government officials or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Accordingly, you authorize BBS Radio to disclose any and all information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
 
@@ -54,7 +37,7 @@ A cookie does not contain any personally identifying information but does allow 
 
 Most Web browsers automatically accept cookies, but usually, you can change the configuration of your browser to prevent this from occurring. Even without a cookie, you can still take advantage of most of the features of BBS Radio's site. 
 
-For more information about cookies, including how to opt-out or overwrite your unique cookie identifier, please visit <http://www.privacychoices.org/>.
+For more information about cookies, including how to opt-out or overwrite your unique cookie identifier, please visit [www.privacychoices.org](http://www.privacychoices.org/).
 
 **Your Consent:**
 
@@ -66,4 +49,4 @@ This privacy notice explains the information and security practices of BBS Netwo
 
 **Changes in the Privacy Policy:**
 
-If we decide to change our privacy policy, we will post the changes on this page so that you are always informed of our policies. Regardless of later changes, we will never use your information in a way not stated in this current notice without first providing you a meaningful opportunithy to opt-out or otherwise prevent those new uses.
+If we decide to change our privacy policy, we will post the changes on this page so that you are always informed of our policies. Regardless of later changes, we will never use your information in a way not stated in this current notice without first providing you a meaningful opportunithy to opt-out or otherwise prevent those new uses. We always do things with love and we'll always be working with your best intentions at heart. Again, it's just how we roll!
