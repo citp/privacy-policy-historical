@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naijaecash.com privacy policy that was archived on 2010-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100930013646id_/http%3A//naijaecash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naijaecash.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006110203id_/http%3A//naijaecash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Nigerian Entrepreneur
 
@@ -35,5 +35,3 @@ We use outside ad companies to display ads on this blog. These ads may contain c
  _ **Contact Information**_
 
 If you have any questions or concerns please contact **_NajaEcash(at)gmail.com_** This privacy policy updated April 2009
-
-Hi, nice of you to visit again. I do hope you got some useful information. If you have not done so yet, I encourage you to subscribe to my [RSS feed](http://naijaecash.com/feed/). That way you will not miss any update. Kindly share your feelings in the comment section. Cheers!
