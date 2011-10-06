@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yearoftheaffiliate.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614042100id_/http%3A//yearoftheaffiliate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yearoftheaffiliate.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006023023id_/http%3A//yearoftheaffiliate.com/privacy.php) for the most accurate reproduction.*
 
 # Internet marketing Program Of The Year
 
-[[home](https://web.archive.org/web/20110614042100id_/http%3A//yearoftheaffiliate.com/ "Back to Internet Marketing Of The Year")]
+[[home](https://web.archive.org/web/20111006023023id_/http%3A//yearoftheaffiliate.com/ "Back to Internet Marketing Of The Year")]
 
 ## Privacy Policy
 
