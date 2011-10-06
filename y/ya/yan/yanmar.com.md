@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yanmar.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605042818id_/http%3A//www.yanmar.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yanmar.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006131406id_/http%3A//www.yanmar.com/legal) for the most accurate reproduction.*
 
 # YANMAR | Privacy Policy
 
