@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hctx.net privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123190845id_/http%3A//www.hctx.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hctx.net privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006210135id_/http%3A//www.hctx.net/privacy.asp) for the most accurate reproduction.*
 
 # The Official Harris County, Texas Website
 
