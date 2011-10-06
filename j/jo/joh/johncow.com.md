@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the johncow.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425035018id_/http%3A//www.johncow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johncow.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006205048id_/http%3A//www.johncow.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Johncow.com
+# John Cow dot Com — Privacy Policy - John Cow dot Com
+
+## Privacy Policy 
 
 Posted by Jason Katzenback
 
