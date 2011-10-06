@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ypintelligence.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224082616id_/http%3A//ypintelligence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ypintelligence.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006062213id_/http%3A//ypintelligence.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
