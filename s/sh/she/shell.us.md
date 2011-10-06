@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129062839id_/http%3A//www.shell.us/home/content/usa/footer/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.us privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006103053id_/http%3A//www.shell.us/home/content/usa/footer/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - United States
 
@@ -49,7 +49,7 @@ Please note that your User Name will be available to the Internet's general publ
 
 This privacy policy does not apply to any information you may disclose publicly in such services. You are responsible for maintaining and updating the registration information in your User Account with current and complete information.
 
-  * [You can send an e-mail to request deactivation of your User Account.](https://forms.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html)
+  * [You can send an e-mail to request deactivation of your User Account.](https://secure.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html)
 
 
 
@@ -106,7 +106,7 @@ From time to time, Shell US may use and share with third parties aggregate, non-
 Shell US uses information about you to deliver the services that you request, to keep you informed about changes affecting our services or your account, to inform you of other services or promotions in which you might be interested, and to improve and enhance our site and services.
 
   
-If you opt in to receive e-mail from us, you can always opt out of future marketing messages by following the directions in each message to "unsubscribe" or by [sending an email to the Shell US site](https://forms.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html "sending an email to the Shell US site"), or by sending postal mail to this address: [Shell Oil Company, 910 Louisiana, Ste. 4442B, Houston, TX 77002].
+If you opt in to receive e-mail from us, you can always opt out of future marketing messages by following the directions in each message to "unsubscribe" or by [sending an email to the Shell US site](https://secure.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html "sending an email to the Shell US site"), or by sending postal mail to this address: [Shell Oil Company, 910 Louisiana, Ste. 4442B, Houston, TX 77002].
 
 However, if you choose to opt out of marketing messages, we reserve the right to contact you regarding your account status, technical support, product information, changes to account terms, and any other matter that might affect our service to you and/or any products you purchased from us or registered with us, as applicable.
 
@@ -130,7 +130,7 @@ Except as set out in this privacy policy, Shell US will not disclose any persona
 
 We aim to keep our information about you as accurate as possible.
 
-  * [If you would like to review or change the details you have supplied us with, please send an email.](https://forms.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html)
+  * [If you would like to review or change the details you have supplied us with, please send an email.](https://secure.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html)
 
 
 
@@ -163,6 +163,6 @@ If there are material changes to this policy or in how we will use your personal
 
 ###  How you can contact us 
 
-  * [If you would like to contact Shell.com about our privacy policy, you can do so by emailing the US Webmaster.](https://forms.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html)
+  * [If you would like to contact Shell.com about our privacy policy, you can do so by emailing the US Webmaster.](https://secure.shell.com/home/forms/usa/aboutshell/contact_feedback/form_us_feedback.html)
 
 
