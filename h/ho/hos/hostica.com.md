@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the hostica.com privacy policy that was archived on 2010-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100128115614id_/http%3A//www.hostica.com/Contracts/Privacy_Policy/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostica.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006192120id_/https%3A//www.hostica.com/support/Knowledgebase/Article/View/274/62/privacy-policy) for the most accurate reproduction.*
 
-# Hostica - Privacy Policy
+# Privacy Policy
+
+#### Privacy Statement
 
 **What information do we collect?**
 
@@ -83,7 +85,7 @@ www.hostica.com
 21143 Hawthorne Blvd. #442  
 Torrance, CA 90503  
 US  
-gregor@hostica.com  
+[gregor@hostica.com](mailto:gregor@hostica.com)  
 3102120190
 
  **Privacy Policy Customer Pledge**
@@ -101,5 +103,3 @@ Respectfully,
 
 Jay Jeszenka   
 Hostica.com 
-
-_Tags:_
