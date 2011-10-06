@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicradar.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519195015id_/http%3A//www.musicradar.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicradar.com privacy policy that was archived on 2011-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111006193957id_/http%3A//www.musicradar.com/static/privacy) for the most accurate reproduction.*
 
 # Futurenet | Privacy Policy « Future PLC
 
