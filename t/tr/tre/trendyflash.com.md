@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the trendyflash.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427013909id_/http%3A//www.trendyflash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendyflash.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007215655id_/http%3A//www.trendyflash.com/privacy.html) for the most accurate reproduction.*
 
-# Trendy Site Builder: Flash Web Design Software, Flash Templates & Websites
-
-### Privacy Policy
-
-  
-
+# Flash Website Builder: Flash Web Design Software & Flash Templates
 
 **TrendyFlash** has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
