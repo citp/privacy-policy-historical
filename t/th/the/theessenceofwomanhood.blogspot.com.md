@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theessenceofwomanhood.blogspot.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231072609id_/http%3A//theessenceofwomanhood.blogspot.com/2006/04/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theessenceofwomanhood.blogspot.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007104015id_/http%3A//theessenceofwomanhood.blogspot.com/2006/04/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Are you hungry?
 
@@ -24,5 +24,3 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.   
 [](http://www.mylivesignature.com/)
-
-[](http://www.facebook.com/sharer.php?u=http://theessenceofwomanhood.blogspot.com/2006/04/privacy.html&title=Privacy "Add To Facebook") [](http://www.stumbleupon.com/refer.php?url=http://theessenceofwomanhood.blogspot.com/2006/04/privacy.html&title=Privacy "Stumble This")[](http://www.technorati.com/faves?add=http://theessenceofwomanhood.blogspot.com/2006/04/privacy.html "Fav This With Technorati")[](http://del.icio.us/post?url=http://theessenceofwomanhood.blogspot.com/2006/04/privacy.html&title=Privacy "Add To Del.icio.us")[](http://digg.com/submit?phase=2&url=http://theessenceofwomanhood.blogspot.com/2006/04/privacy.html&title=Privacy "Digg This")[](http://reddit.com/submit?url=http://theessenceofwomanhood.blogspot.com/2006/04/privacy.html&title=Privacy "Add To Reddit")[](http://myweb2.search.yahoo.com/myresults/bookmarklet?t=http://theessenceofwomanhood.blogspot.com/2006/04/privacy.html&title=Privacy "Add To Yahoo")
