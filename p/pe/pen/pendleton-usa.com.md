@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515023248id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pendleton-usa.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007113035id_/http%3A//www.pendleton-usa.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.*
 
 # Pendleton Woolen Mills: Privacy & Security
 
