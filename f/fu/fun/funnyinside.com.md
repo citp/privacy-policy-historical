@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305231922id_/http%3A//www.funnyinside.com/policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyinside.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007085046id_/http%3A//www.funnyinside.com/policy.shtml) for the most accurate reproduction.*
 
 # Policy
 
