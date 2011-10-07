@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireclickmedia.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625115309id_/http%3A//fireclickmedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireclickmedia.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007191718id_/http%3A//fireclickmedia.com/privacy.html) for the most accurate reproduction.*
 
 # FireClick Media - Privacy Policy
 
