@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229092339id_/http%3A//reiclub.com/info.php%3Fsec%3DPrivacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reiclub.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007060712id_/http%3A//reiclub.com/info.php%3Fsec%3DPrivacy-Policy) for the most accurate reproduction.*
 
 # 
 
