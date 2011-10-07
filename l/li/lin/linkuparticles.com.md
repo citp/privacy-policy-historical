@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkuparticles.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124230012id_/http%3A//linkuparticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkuparticles.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007104220id_/http%3A//www.linkuparticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
