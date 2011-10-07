@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drivers-free-download.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127203449id_/http%3A//drivers-free-download.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drivers-free-download.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007083241id_/http%3A//drivers-free-download.com/privacy.html) for the most accurate reproduction.*
 
 # Drivers Free Download - Download free Drivers
 
