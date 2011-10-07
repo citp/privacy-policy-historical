@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anthillonline.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119104336id_/http%3A//anthillonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anthillonline.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007201606id_/http%3A//anthillonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Anthill Magazine
+# Privacy Policy - Anthill Magazine
 
 ## Table of Contents
 
