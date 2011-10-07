@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mytoday.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221070321id_/http%3A//www.mytoday.com/store/privacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytoday.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007220918id_/http%3A//mytoday.com/store/privacy.action) for the most accurate reproduction.*
 
-# Privacy Policy | mytoday SMS Super Store
+# Privacy Policy | mytoday - SMS subscriptions and SMS alerts on World Cup, IPL and 250+ exciting topics including News, Cricket, Bollywood, Astrology, Love and more.
 
 Netcore Solutions Pvt. Ltd. owns http://mytoday.com (“ **Site** “) and Netcore Solutions Pvt. Ltd. including its subsidiaries and affiliates respect your privacy. This Privacy Policy provides succinctly the manner in which your data is collected and used by http://mytoday.com. 
 
@@ -120,7 +120,6 @@ Although we will endeavor to safeguard the confidentiality of your personally id
 To correct or update any information you have provided, our Site allows you to do it online. In the event of loss of access details you can use any of the following options:
 
   * Send an e-mail to help@mytoday.com
-  * Call the following telephone number: +91 22 4366 4047
 
 **POLICY UPDATES**
 
