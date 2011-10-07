@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612011319id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetrip.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008005800id_/http%3A//www.housetrip.com/en/about/privacy_policy) for the most accurate reproduction.*
 
 # HouseTrip.com – Privacy Policy
 
