@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickerchina.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101062939id_/http%3A//www.wickerchina.com/aboutus.php%3Ftype%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickerchina.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007120352id_/http%3A//www.wickerchina.com/aboutus.php%3Ftype%3D7) for the most accurate reproduction.*
 
 # Site Link,Wickerchina.com
 
