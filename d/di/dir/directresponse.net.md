@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directresponse.net privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516140838id_/http%3A//directresponse.net/wp-content/themes/DirectResponseTheme/legal/Privacy%2520Policy.Direct%2520Response.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directresponse.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007050106id_/http%3A//directresponse.net/wp-content/themes/DirectResponseTheme/legal/Privacy%2520Policy.Direct%2520Response.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
