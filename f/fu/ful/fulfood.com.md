@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulfood.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926152846id_/http%3A//www.fulfood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulfood.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007081751id_/http%3A//fulfood.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
