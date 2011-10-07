@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627135608id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio.gov privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007055019id_/http%3A//ohio.gov/policies) for the most accurate reproduction.*
 
 # Ohio.gov | Policies
 
