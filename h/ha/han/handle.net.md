@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handle.net privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202120121id_/http%3A//handle.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handle.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007060250id_/http%3A//handle.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
