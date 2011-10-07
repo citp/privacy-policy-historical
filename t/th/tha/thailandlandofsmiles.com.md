@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thailandlandofsmiles.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224223525id_/http%3A//thailandlandofsmiles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thailandlandofsmiles.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007072003id_/http%3A//thailandlandofsmiles.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Thailand Land of Smiles
 
