@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlespromoter.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427043125id_/http%3A//www.articlespromoter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlespromoter.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007125021id_/http%3A//www.articlespromoter.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Promoter Article Directory | Privacy Statement
 
