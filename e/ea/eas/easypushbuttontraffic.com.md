@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypushbuttontraffic.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118141244id_/http%3A//www.easypushbuttontraffic.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypushbuttontraffic.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007153119id_/http%3A//www.easypushbuttontraffic.com/legal/privacy.html) for the most accurate reproduction.*
 
 # None
 
