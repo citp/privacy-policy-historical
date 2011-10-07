@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sunilnehra.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419211007id_/http%3A//sunilnehra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunilnehra.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007234747id_/http%3A//sunilnehra.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : SunilNehra.Com
+# Privacy Policy | SunilNehra.Com
 
 Privacy Policy for www.sunilnehra.com 
 
