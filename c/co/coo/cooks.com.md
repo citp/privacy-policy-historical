@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooks.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104034030id_/http%3A//www.cooks.com/rec/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooks.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007151210id_/http%3A//www.cooks.com/rec/privacy.html) for the most accurate reproduction.*
 
 # Cooks.com - Privacy Statement
 
