@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422191146id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestarticles.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007034307id_/http%3A//www.allbestarticles.com/Privacy) for the most accurate reproduction.*
 
 # None
 
@@ -9,7 +9,7 @@ This Privacy Policy covers the our treatment of personal information that is rec
 
 ## Information Collection
 
-**AllBestArticles.com** collects minimal personal information when you request or submit an article. However, other non-personally identifying information may be collected when you enter or leave our site(s).
+**Article Marketing** collects minimal personal information when you request or submit an article. However, other non-personally identifying information may be collected when you enter or leave our site(s).
 
 \- **Cookies:** A cookie is a small text file that is stored on a user's computer for record-keeping purposes. Usage of a cookie is in no way linked to any personally identifiable information.  
 We only use cookies to record session information so we can remember you when you come back to our website without requiring you to log-in every time.  
@@ -21,11 +21,11 @@ You can set your web browser software to disable cookies. To do so, please refer
 
 ## Information Disclosure
 
-During the registration process, we collect your email address. **AllBestArticles.com** will send you an email to verify that you are the owner of this address. You will also choose a UserNme that we will use to identify you in our system. We will never sell, barter, or rent your email address to any third party unless we are legally required to do so, such as but not limited to, the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site(s) and applicable laws or to protect against misuse or unauthorized use of our Web site(s).  
+During the registration process, we collect your email address. **Article Marketing** will send you an email to verify that you are the owner of this address. You will also choose a UserNme that we will use to identify you in our system. We will never sell, barter, or rent your email address to any third party unless we are legally required to do so, such as but not limited to, the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Web site(s) and applicable laws or to protect against misuse or unauthorized use of our Web site(s).  
 You must be 13 years of age or older to register and use our website. Therefore, we do not knowingly collect personally identifiable information about children. If you believe that we have information from or about anyone under 13 years of age, please notify us thorugh the contact page.  
-We reserve the right to deliver notices to authors and publishers regarding changes or updates to the **AllBestArticles.com** website and service.   
+We reserve the right to deliver notices to authors and publishers regarding changes or updates to the **Article Marketing** website and service.   
 From time to time you can receive email alerts and newsletters for specific web guides. These communications are enhancements to our service and are entirely optional. We will ask for your consent before sending you promotional communications.  
-Any email notices or update announcements from **AllBestArticles.com** will include detailed unsubscribe information, giving you the option to remove yourself from future mailings at any time.  
+Any email notices or update announcements from **Article Marketing** will include detailed unsubscribe information, giving you the option to remove yourself from future mailings at any time.  
 
 
 ## Contact Us
@@ -38,22 +38,22 @@ We can be reached via our Contact Us form, from which you can make any query, in
 
 ## Privacy Policy Exceptions
 
-This privacy statement applies solely to information collected by this website. Our policy does not apply to the practices of other companies advertised, linked to or otherwise listed, on the **AllBestArticles.com** website, nor does it extend to people that **AllBestArticles.com** does not employ or manage.
+This privacy statement applies solely to information collected by this website. Our policy does not apply to the practices of other companies advertised, linked to or otherwise listed, on the **Article Marketing** website, nor does it extend to people that **Article Marketing** does not employ or manage.
 
 This web site contains links to other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of every web site they visit that collects personally identifiable information.
 
 ## Privacy Policy Changes
 
-**AllBestArticles.com** may amend this policy from time to time. If changes are made in the way your personal information is used, we will post a prominent announcement on our Homepage notifying you of the change.
+**Article Marketing** may amend this policy from time to time. If changes are made in the way your personal information is used, we will post a prominent announcement on our Homepage notifying you of the change.
 
   
 
 
 ## Disclaimer
 
-**AllBestArticles.com** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are onbly provided for information and redistribution as outlined in our [TOS](https://web.archive.org/tos).   
+**Article Marketing** is a repository of free articles written by others that have no association with this site; the articles are not meant to be used for legal, medical or other types of advice; they are onbly provided for information and redistribution as outlined in our [TOS](https://web.archive.org/tos).   
 Use of this web site is provided "AS IS" with no warranty whatsoever.
 
-**AllBestArticles.com** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **AllBestArticles.com** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
+**Article Marketing** does not endorse any statements or claims made in any article on this site and does not accept any responsibility or liability for the use or misuse of the article content on this site or reliance by any person on the site's contents. By using this web site, you agree not to hold **Article Marketing** , its owner, it's partner sites and/or any other affiliated sites or persons, liable for any damages that may occur from use of this web site.
 
 **All terms and conditions are subject to change without prior notice.**
