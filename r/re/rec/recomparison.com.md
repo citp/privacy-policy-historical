@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recomparison.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230100648id_/http%3A//recomparison.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recomparison.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007230249id_/http%3A//recomparison.com/privacy) for the most accurate reproduction.*
 
 # reComparison | Privacy Policy
 
