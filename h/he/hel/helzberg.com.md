@@ -1,16 +1,21 @@
-> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011122805id_/http%3A//www.helzberg.com/hdsim/jsp/nav.do%3Ftemplate%3D/commerce/learning/editorialContent%26edName%3DED_PRIVACY_SECURITY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007072252id_/http%3A//www.helzberg.com/category/customer%2Bservice/privacy%2Bpolicy.do) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Customer Service - Helzberg Diamonds
 
-We know that buying jewelry is one of the most important purchases you will ever make, and we want to make the experience as worry-free as possible. Helzberg Diamonds has taken measures to guarantee that your online shopping experience is secure and safe. We have established these policies to protect our customers:
+|  | 
 
-**Privacy**
+## Privacy
 
-At Helzberg Diamonds, we value your privacy. To ensure your privacy, it is our policy not to rent our mailing list to anyone or any company - without exception!
+When making a personal and meaningful purchase, you shouldn't have to worry about your privacy. That's why Helzberg Diamonds guarantees the privacy of all your information - from your credit card information to your address to your purchase history. It is our policy not to rent our mailing list to anyone or any company - without exception!
 
-We may use customer information for our own marketing and promotional purposes from time to time. If at any time you would like us to delete your registration information, feel free to contact us at [customerservice@helzberg.com](mailto:customerservice@helzberg.com). Please be sure to include your e-mail address, password, full name and address.[ ](http://www.the-dma.org/dmalogotext.html)
+We may use customer information for our own marketing and promotional purposes from time to time. If at any time you would like us to delete your registration information, feel free to contact us at [customerservice@helzberg.com](mailto:customerservice@helzberg.com). Please be sure to include your email address, password, full name and address.
 
-Helzberg Diamonds is a member of the Direct Marketing Association and has committed to the association's Privacy Promise, which includes the following principles:
+## Information We Collect and How It's Used
+
+At Helzberg Diamonds, we collect customer information to make your online shopping experience stress-free and enjoyable. We respect your privacy, and we assure you that we will maintain and use this information responsibly. 
+
+Helzberg Diamonds is a member of the Direct Marketing Association and has committed to the association's Privacy Promise, which includes the following principles:  
+
 
   * Provide customers with notice of their ability to opt out of information rental, sale or exchange with other marketers.
   * Honor your request as a customer not to share your information with other marketers.
@@ -19,35 +24,32 @@ Helzberg Diamonds is a member of the Direct Marketing Association and has commit
 
 
 
-**Security and safety**
+## Jeweler's Vigilance Committee
 
-Protecting your order information is a top priority so you do not have to worry about credit card safety. Helzberg Diamonds' Online makes every effort to protect your online order information by using the latest security technology.
+Helzberg Diamond Shops, Inc. is a registered member of The Jewelers Vigilance Committee. JVC was founded in 1912 as an industry funded, self-regulatory organization to foster ethics and integrity in the jewelry industry. JVC has since grown into the legal arm of jewelry industry and continues to advance legal compliance and ethical practices in the trade.
 
-**Safe Technology:**
+## Domain Names
 
-Our secure server software (SSL 3.0) is the industry standard and among the best software available today for secure commerce transactions. It encrypts all of your personal information, including credit card number, name, and address, so that it cannot be read as the information travels over the Internet.
+When a visitor comes to our web site, our web server recognizes only the visitor's domain name, but not the email address. This means that we can track visits to our site, while visitors remain anonymous.
 
-**Our on-line guarantee.**
+## General Browsing
 
-We guarantee that every transaction you make through Helzberg Diamonds' Online Store will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at Helzberg Diamonds' Online Store.
+Helzberg Diamonds gathers navigational information about where you go on our web site so we can determine which areas of our site are most visited. This helps us to improve the quality of your online shopping experience by recognizing and delivering more of the features, services and products you prefer. Additional non-personally identifiable information (domain type, browser version, service provider, IP address) may be collected which will provide information regarding your use of our web site.
 
-**Guarantee Details:**
+## Cookies
 
-  1. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, Helzberg Diamonds will cover the entire liability for you, up to the full $50.00. Helzberg Diamonds will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at Helzberg.com while using the secure server.
+Helzberg Diamonds uses a browser feature known as a cookie which assigns a unique identification to your computer. We use cookies to help us make our site more responsive to your needs, while delivering a more personalized online experience. In addition, cookies help us track the items you place in your shopping bag and to keep track of where you are on the site during your visit. We do not use cookies to gather any personal information. A cookie may also be used to keep track of the Helzberg Diamonds stores nearest you if you provide us with your zip code.
 
-  2. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. Verisign - The Sign of Trust on the Net Helzberg Diamonds is registered with Verisign, the leading provider of digital authentication services and products for electronic commerce and other forms of secure communications. All information sent to us through our web site is automatically encrypted for safe storage. The VeriSign Secure Site Program allows you to learn more about web sites you visit before you submit any confidential information. Our customers may submit credit card and other sensitive data to Helzberg Diamonds' Online Store with the assurance that your information is safe.
+## Other Information We Collect
 
+When you purchase a product on our site, we ask you for the following information: name, address, phone number, e-mail address and credit card information. This information is used to process your order. If necessary, we might use this information to contact you for help when we are processing an order. All information we collect from you is stored in a secure database. We do not rent or share this information with anyone.
 
+## Email Updates
 
+Helzberg Diamonds collects email addresses which are voluntarily provided to us in order to receive special announcements and offers. Helzberg Diamonds does not sell, rent or trade your email address with third parties. If at any time you would like to stop receiving these email updates, just reply to a message with "unsubscribe" included in the subject line. Asking to be removed from our email list will not prevent you from receiving a confirmation via email for any order you may place with our Online Store. Our goal is to provide a safe and secure shopping experience for all of our customers. It is our policy to never send private information, such as your credit card number, via email.
 
-**Information We Collect and How It's Used**
+## Links
 
-Helzberg Diamonds collects customer information to make your online shopping experience stress free and enjoyable. We respect your privacy, and we assure you that we will maintain and use this information responsibly. Please click here for more information on the information we collect and our usage of cookies.
+For your convenience, our web site may contain links to other sites. We are not responsible for the privacy practices or the content of other web sites.
 
-[ ](https://digitalid.verisign.com/as2/7f1d8e63d60ea10ac5108c9e8330e046)  This site has a VeriSign Secure Server ID.
-
-VeriSign has verified the organizational name and that Helzberg Diamond Shops, Inc. has the proof of right to use it. This site legitimately runs under the auspices of Helzberg Diamond Shops, Inc. All information sent to this site, if in an SSL session, is encrypted, protecting against disclosure to third parties.
-
-**Jeweler's Vigilance Committee**
-
-[ ](http://www.jvclegal.org/) Helzberg Diamond Shops, Inc. is a registered member of The Jewelers Vigilance Committee. JVC was founded in 1912 as an industry funded, self-regulatory organization to foster ethics and integrity in the jewelry industry. JVC has since grown into the legal arm of jewelry industry and continues to advance legal compliance and ethical practices in the trade.
+| 
