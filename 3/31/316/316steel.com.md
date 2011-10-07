@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 316steel.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201201309id_/http%3A//www.316steel.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 316steel.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007095754id_/http%3A//www.316steel.com/privacy.php) for the most accurate reproduction.*
 
 # Wholesale Stainless Steel Jewelry - Bracelets, Rings, Earrings, and More - 316Steel.com
 
