@@ -1,35 +1,63 @@
-> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2003-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031202150141id_/http%3A//www.cdicollege.ca/web.nsf/content/legal_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdicollege.ca privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008003225id_/http%3A//www.cdicollege.ca/privacy-policy) for the most accurate reproduction.*
 
-# CDI College | Privacy Policy
+# CDI College Privacy Policy
 
-|   
----  
-  
-|  |   
-  
+## Privacy Policy 
 
+Your privacy is important to us. To better protect your privacy, we've developed this notice explaining our online information practices and the choices you can make about the way your information is collected and used within our sites and services. Please read on for more details about our privacy policy.
 
-CDI Education Corporation (CDI) is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings. 
+### When Personal Information Is Collected and How CDI College Uses Your Personal Information
 
-**What personally identifiable information does CDI collect from me?**
+CDI COLLEGE collects personal information to make our site(s) and service(s) more relevant and rewarding for you to use.
 
-CDI collects information in several ways from different parts of our Web sites. Some personal information is gathered if you register with us. During registration, CDI may ask for personal information such as your name, email address, gender, zip/postal code, occupation, industry and personal interests. In addition to registration, we may ask you for personal information at other times, including (but not limited to) when you download a file (such as a .PDF file) from us; when you ask us to contact you; when you join our mailing list; and when you report a problem with one of our sites or services. If you contact CDI we may keep a record of that correspondence. CDI may also occasionally asks users to complete surveys that we use for research. Wherever CDI collects personal information we make an effort to include a link to this Privacy Policy on that page. 
+For each visitor to our Web pages, our Web server automatically recognizes your domain, service provider, operating system, and internet browser. Our Web server additionally records usage of pages by our visitors. We use this information, in aggregate, for our research reports and performance surveys. We sometimes use this non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience.
 
-**What are cookies and how does CDI use them?**
+Some of CDI COLLEGE’s pages request you to provide personally identifiable information in order to participate in the activities and offerings within. We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about our offerings, and to offer you other products, programs or services that we believe may be of interest to you. We sometimes use this information to communicate with you, such as to notify you when we make changes to our services, to fulfill a request by you, or to contact you about your account with us. Most of our communications provide an "opt-out" feature.
 
-As part of offering and providing customizable and personalized services, CDI may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from our web server and stored on your computer's hard drive. Generally, we may use cookies to: (1) Remind us of who you are and to access your information (stored on our computers) in order to deliver to you a better and more personalized service. For example, a cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services. (2) Automate certains areas of CDI web sites or online forms. (3) Estimate our audience size. Each browser accessing CDI is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior. (4) Measure certain traffic patterns, which areas of CDI web sites you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on CDI a better one. We may use this information to better personalize the content, and promotions that you and other users will see on our sites. CDI also collects IP Addresses, browser information and other computer information to report aggregate information to our marketing department. You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Please refer to your browser's help for further information about your options for controlling or monitoring cookies. 
+We may also use your information to update internal systems. This allows for seamless delivery of services and resources to you across CDI COLLEGE.
 
-**How does CDI use my information?**
+The CDI COLLEGE website(s) and service(s) may contain email services, bulletin board services, chat areas, news groups, forums, communities, personal Web pages, calendars, photo displays and/or other message or communication facilities designed to enable you to communicate with others (collectively, "Communication Services"). The information we collect in connection with these Communication Services is used to provide an interactive experience. We use this information to facilitate participation in these Communication Services. Within many of these Communication Services, CDI COLLEGE provides you multiple privacy options that allow you to restrict the use and viewability of your information to others.
 
-CDI's primary goal in collecting personal information is to provide you, the user, with a customized experience on our Web sites. This includes personalization services, interactive communications, which are completely free to you. CDI does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, or from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis. 
+### Cookies
 
-**With whom does CDI share my information?**
+We use "cookies" on this site. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-CDI will not disclose any of your personally identifiable information except when we have your permission. CDI may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating CDI Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) CDI rights or property, other CDI users, or anyone else that could be harmed by such activities. CDI may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services. CDI does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests. 
+Third party vendors, including Google may use cookies to serve ads based on a user's prior visits to CDI COLLEGE website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page. 
 
-**What else should I know about my privacy?**
+### Collection of Information by Third-Party Sites
 
-Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in instant message or chat areas - that this information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, CDI cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
+Some of our site(s) and service(s) contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy policies as we have no control over information that is submitted to, or collected by, these third parties.
 
-  
-| | 
+### Will CDI College Disclose My Personal Information To Parties Outside CDI College?
+
+CDI COLLEGE does not sell, rent, give away, or loan any identifiable information regarding its members to any third party other than agents and contractors of CDI COLLEGE.
+
+Agents and contractors of CDI COLLEGE who have access to personally identifiable information are required to protect this information in a manner that is consistent with this privacy policy by, for example, not using the information for any purpose other than to carry out the services they are performing for CDI COLLEGE.
+
+CDI COLLEGE may release personal information when we believe, in good faith, that such release is reasonably necessary to (i.) comply with law, (ii.) enforce or apply the terms of any of our user agreements, or (iii.) protect the rights, property, or safety of CDI COLLEGE, our users, or others.
+
+### How CDI College Protects Your Information
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this privacy policy.
+
+Unfortunately, despite all of our efforts, there is always a risk that third parties may unlawfully intercept transmissions. This reality is true of all Internet use. As a result, we cannot ensure the security of any information you transmit, and you transmit all information at your own risk.
+
+### How You Can Access or Correct Your Information
+
+Many of the online site(s) and service(s) we provide allow you to manage your personal information. Should you need further assistance, please contact us using the contact information provided below.
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
+
+###  How Does CDI College Protect The Privacy Of Children Younger Than 13 Years? 
+
+CDI COLLEGE is concerned about the privacy of young children and does not knowingly collect any personal information from children under 13 years. We suggest that you become involved with your child's access to the Internet and to our site to ensure that his or her privacy is well protected.
+
+### Your Consent
+
+By using our website, you consent to the collection and use of your information by CDI COLLEGE. 
+
+If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
+
+### If You Have any Questions About This Privacy Policy
+
+If you have any questions about this privacy policy, or the content or practices of our website, you can contact CDI COLLEGE at: [info@cdicollege.ca](mailto:%22info@cdicollege.ca%22)
