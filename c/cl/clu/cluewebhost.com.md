@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cluewebhost.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220003753id_/http%3A//cluewebhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluewebhost.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007154759id_/http%3A//cluewebhost.com/privacy.html) for the most accurate reproduction.*
 
 # Clue WebHost - Cheap Nigerian Web Hosting, Nigerian Domain Registration, Pay in Naira
 
