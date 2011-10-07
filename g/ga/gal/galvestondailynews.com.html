@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the galvestondailynews.com privacy policy that was archived on 2010-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101215161532id_/http%3A//galvestondailynews.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the galvestondailynews.com privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007081552id_/http%3A//galvestondailynews.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
 <meta name="description" content="">
 <!-- G1-Df14 -->
 <title>The Galveston County Daily News</title> 
@@ -12,7 +13,7 @@
 <link rel="image_src" type="image/jpeg" href="http://galvestondailynews.com">
 <link rel="stylesheet" type="text/css" href="/a-style.css"> 
 <link rel="stylesheet" type="text/css" href="/template-footer-style.css"> 
-
+<!-- style -->
 <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="/javascript/addthis-sharelink.js"></script>
 <script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
@@ -20,12 +21,68 @@
 <script type="text/javascript" src="/javascript/evc.js"></script>
 <script type="text/javascript" src="/javascript/template-header.js"></script>
 
+<script>
 
+//Pop-under window- By JavaScript Kit
+//Credit notice must stay intact for use
+//Visit http://javascriptkit.com for this script
+
+//specify page to pop-under
+var popunder="http://banners1.galvnews.com/www/delivery/afr.php?n=a6ebb74d&zoneid=20&cb=Galveston"
+
+//specify popunder window features
+//set 1 to enable a particular feature, 0 to disable
+var winfeatures="width=720,height=300,scrollbars=0,resizable=0,toolbar=0,location=0,menubar=0,status=0,directories=0"
+
+//Pop-under only once per browser session? (0=no, 1=yes)
+//Specifying 0 will cause popunder to load every time page is loaded
+var once_per_session=1;
+
+///No editing beyond here required/////
+
+function get_cookie(Name) {
+  var search = Name + "="
+  var returnvalue = "";
+  if (document.cookie.length > 0) {
+    offset = document.cookie.indexOf(search)
+    if (offset != -1) { // if cookie exists
+      offset += search.length
+      // set index of beginning of value
+      end = document.cookie.indexOf(";", offset);
+      // set index of end of cookie value
+      if (end == -1)
+         end = document.cookie.length;
+      returnvalue=unescape(document.cookie.substring(offset, end))
+      }
+   }
+  return returnvalue;
+}
+
+function loadornot(){
+if (get_cookie('popunder')==''){
+loadpopunder()
+document.cookie="popunder=yes"
+}
+}
+
+function loadpopunder(){
+win2=window.open(popunder,"",winfeatures)
+win2.blur()
+window.focus()
+}
+
+if (once_per_session==0)
+loadpopunder()
+else
+loadornot()
+
+</script>
+
+<!-- js -->
 
 
 </head>
 <body> 
- 
 
 <div align="center">
         <table width="900" border="0">
@@ -50,7 +107,7 @@
 				</a>
 			</div>
 			<div style="padding:0; margin:0: vertical-align:top; margin:12px 0 0 0;" class="smalltext">
-				Wednesday, December 15 | Texas' Oldest Newspaper: 
+				Friday, October 7 | Texas' Oldest Newspaper: 
 				<a href="/history/" target="_parent">Since 1842</a>
 			</div>
 		</td>
@@ -93,6 +150,7 @@
 #navHybridMenu .navExp { position:absolute; display:none; width:900px; z-index:2147483645; }
 </style>
 <![endif]-->
+
 <div style="width:900px;" align="left">
 	<ul id="navHybridMenu"><!-- BEGIN navigation -->
 		<li id="navHomeTab"><a href="http://galvestondailynews.com">Home</a></li>
@@ -105,6 +163,8 @@
 						<li><a href="/business/">Business</a></li> 
 						<li><a href="/bizbuzz/">Biz Buzz</a></li> 
 						<li><a href="/photographs/">Photographs</a></li>
+						<li><a href="/photoreprints/">Photo Reprints</a></li>
+						<li><a href="/video/">Video</a></li>
 						<li><a href="/obituaries/">Obituaries</a></li>
 						<li><a href="/weather/">Weather</a></li>
 						<li><a href="/specialreports/">Special Reports</a></li>
@@ -121,14 +181,16 @@
 			<div class="navDrop">
 				<div class="nav-drop">
 					<ul>
-						<li><a href="/fishing/">Fishing: Reel Report</a></li>
-						<li><a href="/bleacherbuzz/">Bleacher Buzz</a></li>
 						<li><a href="/blog/sidelines/">From the Sidelines</a></li>
+						<li><a href="/football/">High School Football</a></li>
+						<li><a href="/scoreboard/">Scoreboard</a></li>
+						<li><a href="/fishing/">Fishing Report</a></li>
+						<li><a href="/photographs/sports">Sports Photographs</a></li>
+						<li><a href="/asksports/">Ask Sports</a></li>
+						<li><a href="/ap/sports/">AP Sports</a></li>
 						<li><a href="/picks/">Pigskin Picks</a></li>
 						<li><a href="/propicks/">Pro Football Picks</a></li>
-						<li><a href="/racingpicks/">Auto Racing Picks</a></li>
-						<li><a href="/photographs?view=grid&amp;category=sports">Sports Photographs</a></li>
-						<li><a href="/asksports/">Ask Sports</a></li>
+						<li><a href="/racingpicks/">Auto Racing Challenge</a></li>
 					</ul>
 				</div>
 			</div>
@@ -147,6 +209,7 @@
 				</div>
 			</div>
 		</li>
+		
 		<li id="navBlogsTab"><a href="/blog/">Blogs</a>
 			<div class="navDrop">
 				<div class="nav-drop">
@@ -156,15 +219,17 @@
 						<li><a href="/blog/sidelines/">From the Sidelines</a></li> 
 						<li><a href="/blog/onpatrol/">On Patrol</a></li>
 						<li><a href="/blog/weather/">Weather Watch</a></li>
-						<li><a href="/blog/dolph/">Dolph Tillotson</a></li>
 						<li><a href="/blog/heber/">Heber Taylor</a></li>
-						<li><a href="/blog/justme/">Michael Smith</a></li>
+						<li><a href="/blog/smith/">Michael Smith</a></li>
 						<li><a href="/blog/aulds/">TJ Aulds</a></li>
+						<li><a href="/blog/casanova/">Amanda Casanova</a></li>
+						<li><a href="/blog/gonzalez/">Christopher Smith Gonzalez</a></li>
 						<li><a href="/blog/politics/">Politics</a></li>
 					</ul>
 				</div>
 			</div>
 		</li>
+		
 		<li id="navLifestyleTab"><a href="/lifestyle/">Lifestyle</a>
 			<div class="navDrop">
 				<div class="nav-drop">
@@ -179,52 +244,59 @@
 						<li><a href="/travel/">Travel</a></li>
 						<li><a href="/faith/">Our Faith</a></li>
 						<li><a href="/announcements.lasso">Announcements</a></li>
-						<li><a href="/calendar/">Bulletin Board</a></li>							
+						<li><a href="/calendar/">Bulletin Board</a></li>		
+						<li><a href="/puzzles/">Puzzles</a></li>								
 					</ul>
 				</div>
 			</div>
 		</li>
 		<li id="navCommunitiesTab"><a href="/communities/">Communities</a>
 			<div class="navDrop">
-				<div class="nav-drop">
+				<div class="nav-drop"> 
 					<ul>
-						<li><a href="/community.lasso?wcd=Bacliff">Bacliff</a></li>
-						<li><a href="/community.lasso?wcd=Bayou%20Vista">Bayou Vista</a></li>
-						<li><a href="/community.lasso?wcd=Bolivar">Bolivar</a></li>
-						<li><a href="/community.lasso?wcd=Clear%20Lake%20Shores">Clear Lake Shores</a></li>
-						<li><a href="/community.lasso?wcd=Dickinson">Dickinson</a></li>
-						<li><a href="/community.lasso?wcd=Friendswood">Friendswood</a></li>
-						<li><a href="/community.lasso?wcd=Galveston">Galveston</a></li>
-						<li><a href="/community.lasso?wcd=High%20Island">High Island</a></li>
-						<li><a href="/community.lasso?wcd=Hitchcock">Hitchcock</a></li>
-						<li><a href="/community.lasso?wcd=Jamaica Beach">Jamaica Beach</a></li>
-						<li><a href="/community.lasso?wcd=Kemah">Kemah</a></li>
-						<li><a href="/community.lasso?wcd=La%20Marque">La Marque</a></li>
-						<li><a href="/community.lasso?wcd=League%20City">League City</a></li>
-						<li><a href="/community.lasso?wcd=Santa%20Fe">Santa Fe</a></li>
-						<li><a href="/community.lasso?wcd=Tiki%20Island">Tiki Island</a></li>
-						<li><a href="/community.lasso?wcd=Texas%20City">Texas City</a></li>
+						<li><a href="/community/Bacliff">Bacliff</a></li>
+						<li><a href="/community/Bayou_Vista">Bayou Vista</a></li>
+						<li><a href="/community/Bolivar">Bolivar</a></li>
+						<li><a href="/community/Clear_Lake_Shores">Clear Lake Shores</a></li>
+						<li><a href="/community/Dickinson">Dickinson</a></li>
+						<li><a href="/community/Friendswood">Friendswood</a></li>
+						<li><a href="/community/Galveston">Galveston</a></li>
+						<li><a href="/community/High_Island">High Island</a></li>
+						<li><a href="/community/Hitchcock">Hitchcock</a></li>
+						<li><a href="/community/Jamaica Beach">Jamaica Beach</a></li>
+						<li><a href="/community/Kemah">Kemah</a></li>
+						<li><a href="/community/La_Marque">La Marque</a></li>
+						<li><a href="/community/League_City">League City</a></li>
+						<li><a href="/community/Santa_Fe">Santa Fe</a></li>
+						<li><a href="/community/Tiki_Island">Tiki Island</a></li>
+						<li><a href="/community/Texas_City">Texas City</a></li>
 					</ul>
 				</div>
 			</div>
 		</li>
-		<li id="navAPTab"><a href="/apnews/">AP</a>
+		
+
+		<li id="navAPTab"><a href="/ap/">AP</a>
 			<div class="navDrop">
 				<div class="nav-drop">
-					<ul>
-						<li><a href="/texas/">Texas</a></li>
-						<li><a href="/apnews?report=/dynamic/fronts/US">Nation</a></li>
-						<li><a href="/apnews?report=/dynamic/fronts/POLITICS">Politics</a></li>
-						<li><a href="/apnews?report=/dynamic/fronts/BUSINESS">Business</a></li>
-						<li><a href="/apnews?report=/dynamic/fronts/TECHNOLOGY">Technology</a></li>
-						<li><a href="/apnews?report=/dynamic/fronts/SPORTS">Sports</a></li>
-						<li><a href="/apnews?report=/dynamic/fronts/HEALTH">Health</a></li>
-						<li><a href="/apnews?report=/dynamic/fronts/ENTERTAINMENT">Entertainment</a></li>
-						<li><a href="/apnews?feature=VIDEO">Video</a></li>
+					<ul> 
+						<li><a href="/ap/texas/">Texas</a></li>
+						<li><a href="/ap/">Nation</a></li>
+						<li><a href="/ap/world/">World</a></li>
+						<li><a href="/ap/politics/">Politics</a></li>
+						<li><a href="/ap/business/">Business</a></li>
+						<li><a href="/ap/tech/">Technology</a></li>
+						<li><a href="/ap/science/">Science</a></li>
+						<li><a href="/ap/health/">Health</a></li>
+						<li><a href="/ap/entertainment/">Entertainment</a></li>
+						<li><a href="/ap/sports/">Sports</a></li>
+						<li><a href="/ap/video/">Video</a></li>
 					</ul>
 				</div>
 			</div>
 		</li>
+		
+		
 		<li id="navServicesTab"><a href="/aboutus/">Services</a>
 			<div class="navDrop">
 				<div class="nav-drop">
@@ -269,24 +341,28 @@
 				</div>
 			</div>
 		</li>
+		
+		
 		<li id="navShoppingTab"><a href="http://source.galvnews.com">Shopping</a>
 			<div class="navDrop">
 				<div class="nav-drop">
 					<ul>
 						<li><a href="http://source.galvnews.com">The Source</a></li>
-						<li><a href="/reservations">Hotel Reservations</a></li>
 						<li><a href="http://shopping.galvnews.com">Newspaper Ads</a></li>
 						<li><a href="/sections">Special Sections</a></li>
+						<li><a href="/groceries">Grocery Inserts</a></li>
+						<li><a href="/reservations">Hotel Reservations</a></li>
 						<li><a href="/adv-bayarea.lasso">Bay Area</a></li>
 						<li><a href="/adv-business-review.lasso">Business Review</a></li>
 						<li><a href="/adv-lamarque.lasso">Coastal Communities</a></li> 
 						<li><a href="/dining">Dining Guide</a></li>
 						<li><a href="/adv-galveston-east.lasso">Galveston East</a></li>
 						<li><a href="/adv-galveston-west.lasso">Galveston West</a></li>
+						<li><a href="/adv-gulfwayplaza.lasso">Gulfway Plaza</a></li>
 						<li><a href="/adv-hitchcock-santafe.lasso">Hitchcock/Santa Fe</a></li>
 						<li><a href="/adv-nonprofit.lasso">Non-Profit Organizations</a></li>
 						<li><a href="/adv-professionals.lasso">Professionals</a></li>
-						<li><a href="/profiles-homesguide-sponsors.lasso">Profiles: Builder's Guide</a></li>
+						<li><a href="/buildersguide">Profiles: Builder's Guide</a></li>
 						<li><a href="/adv-texascity.lasso">Texas City</a></li>
 						<li><a href="/service-adinquiry.lasso">How to Advertise</a></li>
 					</ul>
@@ -309,26 +385,38 @@
 <div id="navInfo"></div>
 
   
-<div style="height:35px; background:#d4d4d4 url('/images/minisearch-bkgd.jpg') repeat-x left top; width:900px;">
+<div style="height:35px; background:#d4d4d4 url('/images/minisearch-bkgd.jpg') repeat-x left top; width:900px;"><script type="text/javascript">
+function formA_submit(){
+       
+	var criteria = document.getElementById('criteria').value;     
+        
+   	if (document.getElementById('criteria').value==''){
+   		document.getElementById('criteria').style.background='Yellow';
+   		//document.getElementById('alert1').innerHTML='Please fill in the search criteria.';
+   	}else{ 
+   		document.formA.submit()
+   	}
+}
+
+</script>
 <div style="vertical-align:middle; padding:0 10px 0 10px;">
 	<div style="height:35px; float:left; line-height:35px;">
-		<form action="http://galvestondailynews.com/search-results.lasso" method="get" class="smalltext" style="padding:0; margin:7px 0 0 0;">
-			<input type="text" id="q" name="q" size="20" value="">
-			<input type="hidden" name="ed" value="2010-12-15">
-			<input type="hidden" name="sd" value="2005-01-01">
-			<input type="hidden" name="s" value="rev">
-			<input type="submit" id="mini" name="mini" value="Search" class="minisearch-button">
+
+		<form id="formA" name="formA" action="/search-main.lasso" method="get" class="smalltext" style="padding:0; margin:7px 0 0 0;">
+			<input type="text" id="criteria" name="criteria" size="20" value="">
+			<input type="button" id="mini" name="mini" value="Search" class="minisearch-button" onclick="formA_submit()">
 		</form>
+
 	</div>
 	<div style="height:35px; float:left; line-height:35px;" class="smalltext">
 		&nbsp;<a href="/search" class="smalltext">Advanced</a> | <a href="/archive" class="smalltext">Browse</a> | <a href="/searchhelp" class="smalltext">Help</a>
 	</div>
 	<div style="height:35px; float:right; line-height:35px;" class="smalltext">
 		
-		<a href="http://galvestondailynews.com/login/" class="smalltext">Register</a> | 
+		<a href="/login/" class="smalltext">Register</a> | 
 		<a href="/login/" class="smalltext">Sign In</a> | 
 		<a href="https://galvestondailynews.com/subscribe/" class="smalltext">Subscribe</a> | 
-		<a href="http://galvestondailynews.com/e-edition/" class="smalltext">E-Edition</a>
+		<a href="/e-edition/" class="smalltext">E-Edition</a>
 		
 	</div>
 </div></div>
@@ -371,7 +459,7 @@ if (document.referrer) document.write ("&amp;referer=" + escape(document.referre
 if (document.context) document.write ("&context=" + escape(document.context));
 if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=1&amp;&amp;cb=21129418250&amp;loc=https%3A//web.archive.org/web/20101215161532id_/http%253A//galvestondailynews.com/privacy"></script>
+//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=1&amp;&amp;cb=37773470625&amp;loc=https%3A//web.archive.org/web/20111007081552id_/http%253A//galvestondailynews.com/privacy"></script>
 
 
 
@@ -409,7 +497,7 @@ if (document.referrer) document.write ("&amp;referer=" + escape(document.referre
 if (document.context) document.write ("&context=" + escape(document.context));
 if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=7&amp;&amp;cb=9895711240&amp;loc=https%3A//web.archive.org/web/20101215161532id_/http%253A//galvestondailynews.com/privacy"></script></div>
+//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=7&amp;&amp;cb=22038750964&amp;loc=https%3A//web.archive.org/web/20111007081552id_/http%253A//galvestondailynews.com/privacy"></script></div>
 
 
 
@@ -521,7 +609,7 @@ if (document.referrer) document.write ("&amp;referer=" + escape(document.referre
 if (document.context) document.write ("&context=" + escape(document.context));
 if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=3&amp;&amp;cb=90059972191&amp;loc=https%3A//web.archive.org/web/20101215161532id_/http%253A//galvestondailynews.com/privacy"></script>
+//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=3&amp;&amp;cb=73742032973&amp;loc=https%3A//web.archive.org/web/20111007081552id_/http%253A//galvestondailynews.com/privacy"></script>
 
  
 <p></p>
@@ -544,7 +632,7 @@ if (document.referrer) document.write ("&amp;referer=" + escape(document.referre
 if (document.context) document.write ("&context=" + escape(document.context));
 if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=4&amp;&amp;cb=53622491510&amp;loc=https%3A//web.archive.org/web/20101215161532id_/http%253A//galvestondailynews.com/privacy"></script>
+//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=4&amp;&amp;cb=93567353936&amp;loc=https%3A//web.archive.org/web/20111007081552id_/http%253A//galvestondailynews.com/privacy"></script>
 
 
 
@@ -600,13 +688,13 @@ if (document.referrer) document.write ("&amp;referer=" + escape(document.referre
 if (document.context) document.write ("&context=" + escape(document.context));
 if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=2&amp;&amp;cb=29138200347&amp;loc=https%3A//web.archive.org/web/20101215161532id_/http%253A//galvestondailynews.com/privacy"></script>
+//]]>--></script><script type="text/javascript" src="https://banners1.galvnews.com/www/delivery/ajs.php?zoneid=2&amp;&amp;cb=46599111783&amp;loc=https%3A//web.archive.org/web/20111007081552id_/http%253A//galvestondailynews.com/privacy"></script>
 
 
 
 </div>
   
-   <p class="smalltext">© 2010 The Galveston County Daily News. All rights reserved. </p>   
+   <p class="smalltext">© 2011 The Galveston County Daily News. All rights reserved. </p>   
    <p class="smalltext">A Galveston Newspapers Inc. Publication.</p>
   
 <!-- Copyright Begins -->
