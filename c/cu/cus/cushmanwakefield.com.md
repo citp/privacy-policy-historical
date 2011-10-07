@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2008-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080609233232id_/http%3A//www.cushmanwakefield.com/cwglobal/jsp/privacy.jsp%3FCountry%3DGLOBAL%26Language%3DEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cushmanwakefield.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007172423id_/http%3A//www.cushwake.com/cwglobal/jsp/privacy.jsp%3FCountry%3DGLOBAL%26Language%3DEN) for the most accurate reproduction.*
 
 # Cushman & Wakefield - Global real estate solutions
 
-This website is operated by Cushman & Wakefield, Inc., our group companies, international partnerships and affiliated organisations (including alliance and associate offices) ("C&W"),  
+This website is operated by Cushman & Wakefield, Inc., our group companies, international partnerships and affiliated organisations (including alliance and associate offices) ("C&W").  
 
 
 ### Your privacy
