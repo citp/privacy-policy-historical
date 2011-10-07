@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarktracker.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123194250id_/http%3A//bookmarktracker.com/bt/26179277.71566304/about.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarktracker.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008014236id_/http%3A//bookmarktracker.com/bt/36492587.22404648/about.privacy) for the most accurate reproduction.*
 
 # BookmarkTracker : About : Our Privacy Policy
 
@@ -49,16 +49,16 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send email to [webmaster@BookmarkTracker.com](https://web.archive.org/bt/about.feedback)
+  1. You can send email to [webmaster@BookmarkTracker.com](https://web.archive.org/bt/36544522.87534557/about.feedback)
 
-Should you wish to completely remove your account information from our database, you can cancel your account by sending an email message to [cancel@BookmarkTracker.com](https://web.archive.org/bt/about.feedback). In that event, your user information will be completely removed from our database.
+Should you wish to completely remove your account information from our database, you can cancel your account by sending an email message to [cancel@BookmarkTracker.com](https://web.archive.org/bt/36544522.87534557/about.feedback). In that event, your user information will be completely removed from our database.
 
 Correct/Update
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. email [webmaster@BookmarkTracker.com](https://web.archive.org/bt/about.feedback)
-  2. visit [http://www.BookmarkTracker.com/options/](https://web.archive.org/bt/options)
+  1. email [webmaster@BookmarkTracker.com](https://web.archive.org/bt/36544522.87534557/about.feedback)
+  2. visit [http://www.BookmarkTracker.com/options/](https://web.archive.org/bt/36544522.87534557/options)
 
 Contacting the Web Site
 
