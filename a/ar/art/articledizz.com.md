@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articledizz.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119105627id_/http%3A//articledizz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledizz.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007234145id_/http%3A//articledizz.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | Submit Your Article | Privacy Statement
 
