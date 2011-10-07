@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyandsoul.com.au privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309033819id_/http%3A//www.bodyandsoul.com.au/extra/privacy%2Bpolicy%2C47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyandsoul.com.au privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007040223id_/http%3A//www.bodyandsoul.com.au/extra/privacy%2Bpolicy%2C47) for the most accurate reproduction.*
 
 # Privacy policy - body+soul
 
