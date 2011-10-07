@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sisterreunion.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127153347id_/http%3A//sisterreunion.com/terms_conditions/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sisterreunion.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007144245id_/http%3A//sisterreunion.com/terms_conditions/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
