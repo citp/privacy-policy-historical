@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the lets-kickoff.blogspot.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228041740id_/http%3A//lets-kickoff.blogspot.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lets-kickoff.blogspot.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007201244id_/http%3A//lets-kickoff.blogspot.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This is the web site of **Sumeer Arshad**.  
+**Routine Info Collection:**  
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes, and lets me know what pages and information are useful and helpful to visitors.
 
+The information we collect is used for internal review and is then discarded. Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites.  
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+
+**Google DoubleClick DART cookie**
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+
+**Contact Information**
+
+Concerns or questions about this privacy policy can be directed to Basic_thug@hotmail.com, for more information here for further clarification.
+
+This is the web site of **Sumeer Arshad**.
 
 Our postal address is  
- **P-172, Khayaban Colony3  
+**P-172, Khayaban Colony3  
 Faisalabad, 38000**
 
 We can be reached via e-mail at [basic_thug@hotmail.com](mailto:basic_thug@hotmail.com)  
 or you can reach us by telephone at 923007224957
-
-For each visitor to our Web page, our Web server automatically recognizes information regarding the domain or e-mail address.
-
-We collect the e-mail addresses of those who communicate with us via e-mail, user-specific information on what pages consumers access or visit.
-
-The information we collect is used for internal review and is then discarded.
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-
-
-http://www.google.com/privacypolicy.htm 
 
 [Social Bookmarking](http://www.social-bookmark-script.com/)
 
