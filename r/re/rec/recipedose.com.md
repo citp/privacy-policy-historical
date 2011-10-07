@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipedose.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410151631id_/http%3A//www.recipedose.com/2008/04/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipedose.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007025406id_/http%3A//www.recipedose.com/2008/04/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Recipedose.com
 
@@ -22,16 +22,13 @@ Links: This Web site contains links to other sites. Please be aware that we are 
   
 
 
-Advertisers: We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: [_Google Adsense_](http://www.google.com/privacy_cookies.html), Foodfbuzz etc. Please check their websites for respective privacy policies.  
+Advertisers: We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: [Google Adsense](http://www.google.com/privacy_cookies.html). Please check their websites for respective privacy policies.  
   
 
 
-Contact Information: If users have any questions or suggestions regarding our privacy policy, please [contact us](http://www.recipedose.com/2008/04/contact-us.html "contact us") at: recipedose[at]gmail[dot]com or use our 
+Contact Information: If users have any questions or suggestions regarding our privacy policy, please contact us at: support[at]recipedose[dot]com or use our [Contact Page](http://www.recipedose.com/2008/04/contact.html) to get in touch with us.
 
-_[Contact Page](http://www.recipedose.com/2008/04/contact.html)_
+  
 
-[](http://www.recipedose.com/2008/04/contact.html) to get in touch with us.
-
-[](http://www.addtoany.com/share_save)
 
 Comments are closed.
