@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the salesgenie.com privacy policy that was archived on 2011-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110518131734id_/http%3A//www.salesgenie.com/Static/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the salesgenie.com privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007191722id_/http%3A//www.salesgenie.com/Static/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><title>
 	
@@ -29,11 +29,11 @@
 <meta name="msapplication-starturl" content="./">
 <meta name="application-name" content="Salesgenie.com™">
 <meta name="msapplication-tooltip" content="Salesgenie.com™"> 
-<link href="/cache/2009.1.6.35507/Global/Global.min.css" rel="stylesheet" type="text/css">
-<link href="/cache/2009.1.6.35507/Views/DirectoriesUsaMaster.min.css" rel="stylesheet" type="text/css">
-<link href="/cache/2009.1.6.35507/Component/SmoothForm,Navigation.min.css" rel="stylesheet" type="text/css">
+<link href="/cache/2009.1.6.29482/Global/Global.min.css" rel="stylesheet" type="text/css">
+<link href="/cache/2009.1.6.29482/Views/DirectoriesUsaMaster.min.css" rel="stylesheet" type="text/css">
+<link href="/cache/2009.1.6.29482/Component/SmoothForm,Navigation.min.css" rel="stylesheet" type="text/css">
 
-	<link href="/cache/2009.1.6.35507/Views/StaticContentMaster.min.css" rel="stylesheet" type="text/css">
+	<link href="/cache/2009.1.6.29482/Views/StaticContentMaster.min.css" rel="stylesheet" type="text/css">
 
 	
 
@@ -283,7 +283,7 @@
 	</div>
 </div>
 
- <script src="/cache/2009.1.6.35507/Global/Global.min.js" type="text/javascript"></script>
+ <script src="/cache/2009.1.6.29482/Global/Global.min.js" type="text/javascript"></script>
 
     
 		<script type="text/javascript">
@@ -323,7 +323,7 @@
     
 
 <!--[if lte IE 6]>
-<script src="/cache/2009.1.6.35507/Plugin/jquery.ifixpng.min.js" type="text/javascript"></script>
+<script src="/cache/2009.1.6.29482/Plugin/jquery.ifixpng.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 $(function(){
@@ -331,7 +331,7 @@ $(function(){
 });
 </script>
 <![endif]-->
-<script src="/cache/2009.1.6.35507/Plugin/jquery.querystring.min.js" type="text/javascript"></script>
+<script src="/cache/2009.1.6.29482/Plugin/jquery.querystring.min.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 	var cookie = $.cookie('first_sg_visit');
@@ -397,11 +397,29 @@ ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www')
  	$(function () {
  		//store the referrer on details page, so that we can navigate to right page when back button is button clicked after navigating to salesgenie from sales desk.
  		Origin.onAction('navigateToSalesdesk', function () {
-		var referrer = window.document.referrer;
-			if(window.amplify && (referrer.search(/sd./i) == -1 && referrer.search(/:8009/i) == -1)) //only store when the referrer is not SD
-				amplify.store("detailPageReferrer", window.document.referrer);
+ 			var referrer = window.document.referrer;
+ 			if (window.amplify && (referrer.search(/sd./i) == -1 && referrer.search(/:8009/i) == -1)) //only store when the referrer is not SD
+ 				amplify.store("detailPageReferrer", window.document.referrer);
 
- 			Origin.redirect($(this).attr('href'));
+ 			//On results page the pageindex is maintained by anchor name "page" and this need to be stored. When redirected back from salesdesk, 
+ 			//this value is used to navigate the user back to actual page he was in. PBI 7030
+ 			//Since the value after '#' in the url is not passed to server, we need to capture the anchor value and pass it as querystring
+ 			var anchor = "";
+ 			if (window.document.URL.search(/result/i) > 0) {//if results page, store pageIndex
+ 				var url = window.location.href;
+ 				if (url.lastIndexOf('#') > 0) {
+ 					anchor = url.substring(url.lastIndexOf('#') + 1);
+ 					//rename the query string "page" to something else...since the urlreroute rule checks for this parameter and redirects to classic site
+ 					anchor = anchor.replace(/page/i, "pageIndex"); 
+ 				}
+ 			}
+
+ 			var url = $(this).attr('href');
+
+ 			if (anchor.length > 0)
+ 				url = url + '?' + anchor //pass on the anchor tag value as querystring so that it can be saved on server side
+
+ 			Origin.redirect(url);
  		});
  	});
 	//]]>
