@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617135634id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008004103id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
 
 # ABsoluteAgency Dating Service
 
