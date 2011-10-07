@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sadikhov.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208062719id_/http%3A//www.sadikhov.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sadikhov.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007163446id_/http%3A//www.sadikhov.com/privacypolicy.php) for the most accurate reproduction.*
 
-# MCSE CCNA CCNP Certification, IT Forum, Certification Exams, Preparation for tests
+# IT Certification Forum on Sadikhov.com, Certification Exams, MCITP, MCTS, CCNA, CCNP, CCIE
 
 Sadikhov.com considers the privacy of its Users to be a serious issue. Please read the following to learn more about our Privacy Policy.
 
