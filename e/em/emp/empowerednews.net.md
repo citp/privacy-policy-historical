@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the empowerednews.net privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526155233id_/http%3A//empowerednews.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empowerednews.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007115919id_/http%3A//empowerednews.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Empowered News
+# Privacy Policy
 
 **Privacy Policy**
 
@@ -71,4 +71,4 @@ This policy was last modified on January 25, 2010
 
 **Contacting us**
 
-If there are any questions regarding this privacy policy you may [contact us](http://empowerednews.net/contact-us/ "contact us") using the Contact page
+If there are any questions regarding this privacy policy you may contact us using the Contact page
