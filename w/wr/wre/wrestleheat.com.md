@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wrestleheat.com privacy policy that was archived on 2010-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100816071528id_/http%3A//wrestleheat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrestleheat.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007201804id_/http%3A//wrestleheat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WrestleHeat.com
-
-* * *
 
 ****WrestleHeat.com has developed the following privacy policy to demonstrate our firm commitment to privacy. All information below represents the privacy policies followed by WrestleHeat.com.
 
