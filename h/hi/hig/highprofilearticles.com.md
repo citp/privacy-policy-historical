@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the highprofilearticles.com privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006175421id_/http%3A//highprofilearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highprofilearticles.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007181543id_/http%3A//highprofilearticles.com/privacy.php) for the most accurate reproduction.*
 
 # High Profile Articles | Privacy Statement
 
-High Profile Articles strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
+YOUR SITE NAME HERE strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period. 
 
 **How we gather information from users**
 
@@ -14,7 +14,7 @@ Like other Web publishers, we collect information to enhance your visit and deli
 
 Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually. 
 
-We may use Personally Identifiable Information collected on www.HighProfileArticles.com to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.HighProfileArticles.com and other topics we think you might find of interest. 
+We may use Personally Identifiable Information collected on www.High Profile Articles to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by www.High Profile Articles and other topics we think you might find of interest. 
 
 Personally Identifiable Information collected by High Profile Articles may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases. 
 
@@ -40,7 +40,7 @@ High Profile Articles reserves the right to change this policy at any time. Plea
 
 **Governing law**
 
-This policy and the use of this Site are governed by Texas State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: San Antonio, Texas. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
+This policy and the use of this Site are governed by Texas State law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Seattle. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Seattle, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
 
