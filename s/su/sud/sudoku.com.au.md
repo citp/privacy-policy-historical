@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sudoku.com.au privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218203332id_/http%3A//sudoku.com.au/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sudoku.com.au privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007083318id_/http%3A//sudoku.com.au/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Sudoku Puzzles - Privacy Policy
 
