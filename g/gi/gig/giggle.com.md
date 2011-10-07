@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407143330id_/http%3A//www.giggle.com/eng/customerServiceDetails/privacy-policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giggle.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007195320id_/http%3A//www.giggle.com/eng/customerServiceDetails/privacy-policy.cfm) for the most accurate reproduction.*
 
 # Privacy & Security
 
