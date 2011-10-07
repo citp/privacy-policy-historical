@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520094938id_/http%3A//maniacdev.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maniacdev.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007164844id_/http%3A//maniacdev.com/privacy) for the most accurate reproduction.*
 
-# iPhone, iOS 4, iPad SDK Development Tutorial and Programming Tips: Privacy
+# Privacy | iPhone, iOS 4, iPad SDK Development Tutorial and Programming Tips
 
 **Privacy Policy for www.maniacdev.com**
 
