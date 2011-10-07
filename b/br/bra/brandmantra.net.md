@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandmantra.net privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225010501id_/http%3A//www.brandmantra.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmantra.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007032202id_/http%3A//www.brandmantra.net/privacy_policy) for the most accurate reproduction.*
 
 # Website Design Web Development SEO Services PPC Management Company
 
