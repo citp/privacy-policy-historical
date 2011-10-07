@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the japanican.com privacy policy that was archived on 2010-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101123154343id_/http%3A//japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the japanican.com privacy policy that was archived on 2011-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008014404id_/http%3A//www.japanican.com/misc/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -135,7 +135,7 @@ ME.Confirm.Init(Rendering);
 </div>
 </div>
 <ul class="navi clearFix" id="GLOBAL_NAVI">
-<li class="nv01"><a href="/index.aspx" title="JAPANiCAN.com HOME" class="cur"><span>JAPANiCAN.com HOME</span></a></li>
+<li class="nv01"><a href="/" title="JAPANiCAN.com HOME" class="cur"><span>JAPANiCAN.com HOME</span></a></li>
 <li class="nv02"><a href="/hotels/" title="JAPAN HOTELS"><span>JAPAN HOTELS</span></a></li>
 <li class="nv03"><a href="/ryokan/" title="JAPAN Ryokan"><span>JAPAN Ryokan</span></a></li>
 <li class="nv04"><a href="/tours/" title="JAPAN TOURS &amp; DEALS"><span>JAPAN TOURS &amp; DEALS</span></a></li>
@@ -176,11 +176,11 @@ div#systemMessage dl.maintenancealert
                 <!--[if !IE]> searchTabs START <![endif]-->
                 <script language="javascript">
 				<!--
-				var arrayBestProductTab_hory = new Array("/common/images/horytab_hotels_off.gif","/common/images/horytab_tours_off.gif","/common/images/horytab_japaninfo_off.gif");
-				var arrayBestProductTabOver_hory = new Array("/common/images/horytab_hotels_on.gif","/common/images/horytab_tours_on.gif","/common/images/horytab_japaninfo_on.gif");
+				var arrayBestProductTab_hory = new Array("/common/images/horytab_hotels_off.gif","/common/images/horytab_tours_off.gif","/common/images/horytab_none.gif");
+				var arrayBestProductTabOver_hory = new Array("/common/images/horytab_hotels_on.gif","/common/images/horytab_tours_on.gif","/common/images/horytab_none.gif");
 
 				function showBestProductLayer_hory(no) {
-					for(var i=0; i < 3; i++) {
+					for(var i=0; i < 2; i++) {
 						if(i != no) {
 							document.getElementById('bestProductLayer_hory' + i).style.display = "none";
 							
@@ -198,7 +198,7 @@ div#systemMessage dl.maintenancealert
                     <ul class="horyTab" id="">
                         <li width="77" id="horyhotelTab"><a href="" id="" onclick="showBestProductLayer_hory(0);return false;"><img src="/common/images/horytab_hotels_on.gif" id="bestProductTab_hory0" width="77" height="28" border="0" alt="HOTEL &amp; RYOKAN"></a></li>
                         <li width="77" id="horytourTab"><a href="" id="" onclick="showBestProductLayer_hory(1);return false;"><img src="/common/images/horytab_tours_off.gif" id="bestProductTab_hory1" width="77" height="28" border="0" alt="TOURS &amp; DEALS"></a></li>
-                        <li width="76" id="horyinfoTab"><a href="" id="" onclick="showBestProductLayer_hory(2);return false;"><img src="/common/images/horytab_japaninfo_off.gif" id="bestProductTab_hory2" width="76" height="28" border="0" alt="JAPAN INFO"></a></li>
+                        <li width="76" id="horyinfoTab"><img src="/common/images/horytab_none.gif" id="" width="76" height="28" border="0" alt=""></li>
                     </ul>
 
 
@@ -516,9 +516,9 @@ var calTourTo = new CalendarPopup_en("nav_calendar_tour_to");
 									<option value="57">Niseko</option>
 									<option value="56">Noboribetsu</option>
 									<option value="26">Okayama/Kurashiki</option>
-									<option value="29">Saitama</option>
 									<option value="30">Sapporo</option>
 									<option value="44">Sendai/Matsushima</option>
+									<option value="29">Shikoku/Tokushima</option>
 									<option value="32">Shizuoka</option>
 									<option value="54">Tateyama Kurobe</option>
 									<option value="55">Toya</option>
@@ -726,7 +726,7 @@ var calTourTo = new CalendarPopup_en("nav_calendar_tour_to");
 <span>When</span><br>
 <select id="info_when" name="when" class="form200">
             <option value="">Anytime</option>
-        <option value="202004">Spring (Mar-May)</option><option value="202007">Summer (Jul-Aug)</option><option value="202010">Autumn (Sep-Nov)</option><option value="202101">Winter (Dec-Feb)</option></select></td>
+        <option value="202001">Winter (Dec-Feb)</option><option value="202004">Spring (Mar-May)</option><option value="202007">Summer (Jul-Aug)</option><option value="202010">Autumn (Sep-Nov)</option></select></td>
 </tr>
 <tr>
 <td>
@@ -872,11 +872,9 @@ if(tnLi[0].firstChild){
 <p class="title">Features</p>
 <div id="utilinfofeature_sec">
 	<ul>
-		<li><a href="/select/hotels/"><img src="/images/hotels/bn_select_hotels.jpg" alt="JAPANiCAN SELECT HOTELS" width="160" height="450"></a></li>
+		<li><a href="/kyoto/ryokan/"><img src="/images/hotels/bn_ryokan.jpg" alt="JAPANiCAN Select Ryokan" width="160" height="450"></a></li>
 		
 		<li><a href="http://japan-articles.japanican.com/en/articles/best_selling_tours.html"><img src="/common/images/util/bestsale_sunrise.jpg" alt="Best Selling Sunrise Tours!" width="160" height="80"><br>Best Selling Sunrise Tours!</a></li>
-		
-		<li><a href="/ryokan/nikko_kinugawa/"><img src="/common/images/util/ryokan.jpg" alt="JAPANiCAN's Top Ryokan"><br>JAPANiCAN Select Ryokan</a></li>
 		
 		<li><a href="/ryokan/onsen/"><img src="/common/images/util/bn_theme_onsen.jpg" alt="Japan Onsen Guide - Japanese hot springs / spas"><br>Japan Onsen Ryokan Guide<br>Japanese hot springs / spas</a></li>
 				
@@ -901,31 +899,31 @@ if(tnLi[0].firstChild){
 			<div id="contents_right">
 			<div id="location"><ul><li><a href="../index.html">HOME</a>&nbsp;&gt;&nbsp;</li><li>Privacy Policy</li></ul></div>
 			<h2 id="miscPageTitle">Privacy Policy</h2>
-			  <h3 class="miscParagraphTitle">JTB Global Marketing &amp; Travel Inc. Privacy Policy</h3>
+			<h3 class="miscParagraphTitle">JTB Global Marketing &amp; Travel Inc. Privacy Policy</h3>
 				<div class="miscParagraph">
-				  As a member of the JTB Group, JTB Global Marketing &amp; Travel has a corporate philosophy of contributing to the realization of a peaceful and open-minded society through exchange among people of all countries.<br><br>
-				  Based on this philosophy, our fundamental policy is to use our solution know-how nurtured as a DMC in Japan and Asia to sincerely provide the best products with the best service for MICE business such as corporate events. By continuously working to be No. 1 in terms of customer satisfaction, we strive to be fair and just in our corporate activities, place the greatest import in earning the trust of our customers and corporate partners, and work to improve our corporate value through continuous innovation in our operations.<br><br>
-				  In order to realize this philosophy and fundamental policy, we see the reliable protection of personal information of our customers and others who have business with our company as indispensable, and have enacted the following to this end.<br><br>
+				As a member of the JTB Group, JTB Global Marketing &amp; Travel has developed a corporate philosophy focused on introducing the allure of Japan to the world by creating a multitude of valuable and meaningful experiences. While conducting business, we also strive to support global communication and the realization of a peaceful, eco-friendly society.<br><br>
+				Based on this philosophy, our fundamental policy is to use our solution know-how nurtured as a DMC (Destination Management Company) in Japan and Asia to sincerely provide the best products with the best service for companies and events through our MICE (Meeting, Incentive, Conference and Event) business, SIT (Special Interest Tour) and package tours for overseas visitors. By continuously working to be No. 1 in terms of customer satisfaction, we strive to be fair and just in our corporate activities, place the greatest importance in earning the trust of our customers and corporate partners, and work to improve our corporate value through continuous innovation in our operations.<br><br>
+				We see the reliable protection of personal information of our customers and others who have business with our company as indispensable in the implementation of this philosophy and fundamental policy, prompting us to enact the following:<br><br>
 
 					<div id="privacy">
 					<table border="0" cellspacing="0" cellpadding="0" width="500">
 					<tbody><tr><td width="30" valign="top">1.</td>
-					<td width="530">A personal information management system based on the JIS Q 15001 Standard was created, and strict adherence by management and all employees is ensured. </td></tr>
+					<td width="530">We have developed a personal information management system based on the JIS Q 15001 Standard, and ensured the strict adherence by management and all employees.<br><br></td></tr>
 
 					<tr><td width="30" valign="top">2.</td>
-					<td width="470">The legal and fair collection, use for specific purposes, and supply of personal information is conducted following the personal information management system above and only for work-related purposes.</td></tr>
+					<td width="470">We will conduct the collection, usage, and provision of personal information following the personal information management system above legally and fairly and use personal information for work-related purposes only.<br><br></td></tr>
 
 					<tr><td width="30" valign="top">3.</td>
-					<td width="470">Organizational, technical, and reasonable preventive and corrective measures have been taken to mitigate the risk of illegal access, loss, destruction, or leaking of all personal information handled by the company.</td></tr>
+					<td width="470">We will take organizational, technical, and rational preventive and corrective measures to mitigate the risk of illegal access, loss, destruction, and leak of all personal information handled by our company.<br><br></td></tr>
 
 					<tr><td width="30" valign="top">4.</td>
-					<td width="470">Methods of appropriately and quickly handling any complaints or questions from individuals concerning their own personal information will be considered.</td></tr>
+					<td width="470">We will consider methods of appropriately and quickly handling any complaints or questions from individuals concerning their own personal information.<br><br></td></tr>
 
 					<tr><td width="30" valign="top">5.</td>
-					<td width="470">All laws, guidelines, social norms, and public standards regarding personal information will be strictly followed. </td></tr>
+					<td width="470">We will strictly follow all laws, guidelines, social norms, and public standards regarding personal information will be strictly followed.<br><br></td></tr>
 
 					<tr><td width="30" valign="top">6.</td>
-					<td width="470">The personal information management system will be regularly audited and continuously improved.</td></tr>
+					<td width="470">Our personal information management system is regularly audited and continuously improved.<br><br></td></tr>
 					</tbody></table>
 					</div>
 
@@ -936,25 +934,28 @@ if(tnLi[0].firstChild){
 						</div>
 						
 						<div class="name">
-						February 27, 2007 (Established) <br>
-						April 1, 2009 (Revised) <br>
-						JTB Global Marketing &amp; Travel <br>
+						February 27, 2007 (Established)<br>
+						August 9, 2011 (Revised)<br>
+						JTB Global Marketing &amp; Travel<br>
 						Fukagawa Saburo, President &amp; CEO <br><br>
 
-						Personal Information Section <br>
+						Personal Protection Section<br>
 						Phone Number: 03-5796-5400
 						</div>
 					</div><br clear="all">
-					
-					<div class="qtit">Personal Information Usage Guidelines</div>
-					In accordance with the Personal Information Protection Act and JTB Global Marketing &amp; Travel Personal Information Protection Policy, JTB Global Marketing &amp; Travel (below, JTB GMT) handles and works to protect the personal information of customers as follows.
 
-					<div class="qtit2">1. Customer Personal Information Kept by JTB GMT</div>
-					JTB GMT keeps a portion of personal information provided by customers in travel requests and other transactions as personal data.
+					
+					<div class="qtit">How We Handle Personal Information</div>
+					
+					<!-- <div class="qtit">Personal Information Usage Guidelines</div> -->
+					In accordance with the Personal Information Protection Act and JTB Global Marketing &amp; Travel Personal Information Protection Policy, JTB Global Marketing &amp; Travel (below, JTBGMT) handles and works to protect the personal information of customers as follows.
+
+					<div class="qtit2">1. Customer Personal Information Kept by JTBGMT</div>
+					JTBGMT keeps a portion of personal information provided by customers in travel requests and other transactions as personal data.
 
 					<div class="qtit2">2. Reasons for Use of Customer Personal Information</div>
-					JTB GMT and its designated travel businesses (branches) will use personal information provided in travel purchase forms to contact customers, as well as when necessary in the performance of our travel and other services as requested by the customer, including the arrangement of transportation and accommodations (as listed in the agreement).<br><br>
-* In addition, JTB GMT will use customer personal information...<br clear="all"><br clear="all">
+					JTBGMT and its designated travel businesses (branches) will use personal information provided in travel purchase forms to contact customers, as well as when necessary in the performance of our travel and other services as requested by the customer, including the arrangement of transportation and accommodations (as listed in the agreement).<br><br>
+* In addition, JTBGMT will use customer personal information...<br clear="all"><br clear="all">
 
 					<div id="privacy">
 					<table border="0" cellspacing="0" cellpadding="0" width="500">
@@ -996,18 +997,18 @@ if(tnLi[0].firstChild){
 						The personal information related to credit card data is saved for 13 months after which it is erased.
 
 					<div class="qtit2">4. Sensitive Information</div>
-					JTB GMT does not collect, use or provide information to third parties on political opinions, faith (religion, philosophy, or creed), race or ethnicity, lineage or place of birth, medical treatment or sexual history, or criminal history, except where permitted by law.  Also, when sensitive information is collected, used, or provided to a third party, JTB GMT takes special care in its handling so as not to collect, use, or provide information in a way that is not in accordance with the law.
+					JTBGMT does not collect, use or provide information to third parties on political opinions, faith (religion, philosophy, or creed), race or ethnicity, lineage or place of birth, medical treatment or sexual history, or criminal history, except where permitted by law.  Also, when sensitive information is collected, used, or provided to a third party, JTBGMT takes special care in its handling so as not to collect, use, or provide information in a way that is not in accordance with the law.
 
 					<div class="qtit2">5. Providing Customer Personal Information to Third Parties</div>
-					･ JTB GMT will provide in electronic form a customer’s name, gender, age, address, phone number, e-mail address, passport number, and credit card number to transportation, accommodation, and insurance companies as necessary to arrange and provide purchased travel services, or as necessary to fulfill travel agreements or complete insurance formalities to securitize costs when accidents occur.<br clear="all"><br clear="all">
-					･ JTB GMT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination.  In such cases, the customer’s name, passport number and flight number will be provided electronically.  If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure.
+					･ JTBGMT will provide in electronic form a customer’s name, gender, age, address, phone number, e-mail address, passport number, and credit card number to transportation, accommodation, and insurance companies as necessary to arrange and provide purchased travel services, or as necessary to fulfill travel agreements or complete insurance formalities to securitize costs when accidents occur.<br clear="all"><br clear="all">
+					･ JTBGMT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination.  In such cases, the customer’s name, passport number and flight number will be provided electronically.  If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure.
 
 
 					<div class="qtit2">6. Consignment of Customer Personal Information</div>
-					JTB GMT may consign personal information to complete formalities for traveling abroad as well as perform procedures necessary to provide requested travel and other services. When consigning the information, JTB GMT will choose a consignee using company standards, enter into a contract with the consignee for protecting personal information, and audit their practices to ensure the proper handling of personal information.
+					JTBGMT may consign personal information to complete formalities for traveling abroad as well as perform procedures necessary to provide requested travel and other services. When consigning the information, JTBGMT will choose a consignee using company standards, enter into a contract with the consignee for protecting personal information, and audit their practices to ensure the proper handling of personal information.
 
 					<div class="qtit2">7. Collection and Use of Customer Personal Information</div>
-					JTB GMT handles the collection and use of customer personal information as follows:
+					JTBGMT handles the collection and use of customer personal information as follows:
 					<br clear="all"><br clear="all">
 					<div id="privacy">
 					<table border="0" cellspacing="0" cellpadding="0" width="500">
@@ -1030,13 +1031,13 @@ if(tnLi[0].firstChild){
 					<tr><td width="30" valign="top">(5)</td>
 					<td width="530">Though customers are free to choose whether or not to provide any or all types 
 					of personal information when requesting travel services or information, there are instances 
-					where JTB GMT will not be able to contact the customer or complete procedures necessary to 
+					where JTBGMT will not be able to contact the customer or complete procedures necessary to 
 					provide the requested services when some or all information is not provided, and thus will 
 					not be able to accept the requests for services from the customer.</td></tr>
 
 					<tr><td width="30" valign="top">(6)</td>
 					<td width="530">In order to simplify customer purchases in the future, 
-					JTB GMT and members of the JTB Group listed below may share information, but in these cases, 
+					JTBGMT and members of the JTB Group listed below may share information, but in these cases, 
 					the information will be strictly managed and stored.</td></tr>
 					</tbody></table>
 					</div>
@@ -1071,7 +1072,7 @@ if(tnLi[0].firstChild){
 					<td width="530">JTB Western Japan Corp.</td></tr>
 
 					<tr><td width="30" valign="top">♦</td>
-					<td width="530">JTB Osaka Corp.</td></tr>
+					<td width="530">JTB Kansai Corp.</td></tr>
 
 					<tr><td width="30" valign="top">♦</td>
 					<td width="530">JTB Chugoku Shikoku Corp.</td></tr>
@@ -1080,19 +1081,25 @@ if(tnLi[0].firstChild){
 					<td width="530">JTB Kyushu Corp.</td></tr>
 
 					<tr><td width="30" valign="top">♦</td>
+					<td width="530">JTB Okinawa Corp.</td></tr>
+
+					<tr><td width="30" valign="top">♦</td>
+					<td width="530">JTB Media Retailing Corp.</td></tr>
+
+					<tr><td width="30" valign="top">♦</td>
 					<td width="530">i.JTB Corp.</td></tr>
 
 					<tr><td width="30" valign="top">♦</td>
 					<td width="530">JTB Business Innovators Corp.</td></tr>
 
 					<tr><td width="30" valign="top">♦</td>
-					<td width="530">JTB Traveland Corp.</td></tr>
+					<td width="530">JTB Asia Tourist Corp.</td></tr>
 					</tbody></table>
 					</div>
 
 
 					<div class="qtit2">8. Joint Use of Customer Personal Information</div>
-					Among the customer personal information that it has acquired, JTB GMT will jointly use names, phone numbers, and e-mail addresses with the group companies below at the minimum extent necessary to contact customers.  The group companies will use this information for their own sales activities, simplification of customer orders, sending information on products, and sending purchased products.
+					Among the customer personal information that it has acquired, JTBGMT will jointly use names, phone numbers, and e-mail addresses with the group companies below at the minimum extent necessary to contact customers.  The group companies will use this information for their own sales activities, simplification of customer orders, sending information on products, and sending purchased products.
 					<br clear="all"><br clear="all">
 
 					<div id="Company">
@@ -1120,12 +1127,12 @@ if(tnLi[0].firstChild){
 					<tr><td valign="top" class="Company01_2">
 					JTB Metropolitan Corp.</td>
 					<td class="Company02_2">
-					2-3-11 Higashi Shinagawa Shinagawa-ku, Tokyo</td></tr>
+					4F IK Bldg, 2-24-9 Kamiosaki, Shinagawa-ku, Tokyo</td></tr>
 
 					<tr><td valign="top" class="Company01">
 					JTB Business World Tokyo Corp.</td>
 					<td class="Company02">
-					3-4-1 Shibaura Minato-ku, Tokyo</td></tr>
+					26F Shinjuku Park Tower, 3-7-1 Nishishinjuku, Shinjuku-ku, Tokyo</td></tr>
 
 					<tr><td valign="top" class="Company01_2">
 					JTB Chubu Corp.</td>
@@ -1143,7 +1150,7 @@ if(tnLi[0].firstChild){
 					2-1-25 Kyutaro-machi Chuo-ku, Osaka</td></tr>
 
 					<tr><td valign="top" class="Company01">
-					JTB Osaka Corp.</td>
+					JTB Kansai Corp.</td>
 					<td class="Company02">
 					2-5-10 Sonezaki Kita-ku, Osaka</td></tr>
 
@@ -1157,6 +1164,19 @@ if(tnLi[0].firstChild){
 					<td class="Company02">
 					New KBC Building, 5th F; 1-1-35 Nagahama Chuo-ku, Fukuoka</td></tr>
 
+
+					<tr><td valign="top" class="Company01_2">
+					JTB Okinawa Corp.</td>
+					<td class="Company02_2">
+					Shintoshin DL Bldg. 4-19-30 Omoromachi, Nahas-shi, Okinawa</td></tr>
+
+
+					<tr><td valign="top" class="Company01">
+					JTB Media Retailing Corp.</td>
+					<td class="Company02">
+					3F MF Bldg. 4-6-5 Kohinata, Bunkyo-ku, Tokyo</td></tr>
+
+
 					<tr><td valign="top" class="Company01_2">
 					i.JTB Corp.</td>
 					<td class="Company02_2">
@@ -1167,20 +1187,12 @@ if(tnLi[0].firstChild){
 					<td class="Company02">
 					2-3-11 Higashi Shinagawa Shinagawa-ku, Tokyo</td></tr>
 
-					<tr><td valign="top" class="Company01_2">
-					JTB Traveland Corp.</td>
-					<td class="Company02_2">
-					5-1 Nihombashi Kabuto-cho Chuo-ku, Tokyo</td></tr>
 
-					<tr><td valign="top" class="Company01">
+					<tr><td valign="top" class="Company01_2">
 					JTB Tohoku Corp.</td>
-					<td class="Company02">
+					<td class="Company02_2">
 					Meiji Yasuda Seimei Building, 3rd Fl. 3-7-23 Ichiban-cho Aoba-ku, Sendai</td></tr>
 
-					<tr><td valign="top" class="Company01_2">
-					JTB Business Travel Solutions, Inc.</td>
-					<td class="Company02_2">
-					5-8-40 Kiba Koto-ku, Tokyo</td></tr>
 
 					<tr><td valign="top" class="Company01">
 					JTB GAIAREC, INC.</td>
@@ -1210,7 +1222,7 @@ if(tnLi[0].firstChild){
 					<tr><td valign="top" class="Company01_2">
 					Travel Plaza International Chubu, Inc.</td>
 					<td class="Company02_2">
-					1-1-4 Meieki Nakamura-ku, Nagoya</td></tr>
+					3-13-24 Meieki Nakamura-ku, Nagoya</td></tr>
 
 					<tr><td valign="top" class="Company01">
 					TPI Western Japan, Inc.</td>
@@ -1230,25 +1242,27 @@ if(tnLi[0].firstChild){
 					<tr><td valign="top" class="Company01_2">
 					JTB Trading, Inc.</td>
 					<td class="Company02_2">
-					2-43-20 Minami Ikebukuro Toshima-ku, Tokyo</td></tr>
+					1-44-10 Sekiguchi, Bunkyo-ku, Tokyo</td></tr>
+
 
 					<tr><td valign="top" class="Company01">
-					JBankersPartner, Inc.</td>
+					JTB Global Assistance, Inc.</td>
 					<td class="Company02">
-					Tokyo Ginko Kyokai Building, 16th Fl 1-3-1 Marunouchi Chiyoda-ku, Tokyo</td></tr>
+					2F, COI Nihonbashihoncho Bldg. 4-13-5, Nihonbashihoncho, Chuo-ku,Tokyo</td></tr>
 
 					<tr><td valign="top" class="Company03">
-					JTB Global Assistance, Inc.</td>
+					JTB Asia Tourist Corp.</td>
 					<td class="Company04">
-					2-1-5 Iwamoto-cho Chiyoda-ku, Tokyo</td></tr>
-					</tbody></table>
+					2-3-11, Higashishinagawa, Shinagawa-ku, Tokyo</td></tr>
+
+</tbody></table>
 					</div>
 
 					<div class="qtit2">9. Cookies</div>
-					The JTB GMT website uses “cookies” to provide better service and ensure security. 
+					The JTBGMT website uses "cookies" to provide better service and ensure security. 
 					Cookies are data files that are stored by websites on customer computers and can be 
 					read when the customer visits the site at a later date. Individual cookies can only be 
-					read by the website that created them. JTB GMT uses cookies for many website management 
+					read by the website that created them. JTBGMT uses cookies for many website management 
 					purposes. For instance, to record the types of information requested by customers and to 
 				use that information to automatically fill in fields when the customer visits the site. 
 					Most cookies are used only for a single session or visit to the site. They do not contain any 
@@ -1263,14 +1277,14 @@ If we are unable to comply with all or part of your request, we will provide an 
 Please contact the departments below for any issues concerning personal information.<br clear="all"><br clear="all">
 
 (1)  Questions and complaints about the handling of personal information and requests for disclose, deletion or destruction. 
-Personal Information as defined in 4-(5)<br clear="all"><br clear="all">
+<!-- Personal Information as defined in 4-(5) --><br clear="all"><br clear="all">
 
 JTB Global Marketing &amp; Travel, Inc., Administration Department<br clear="all">
 Address: 2-3-11 Highashi-Shinagawa, Shinagawa-ku, Tokyo<br clear="all">
 Hours:  9:30-18:00 (Weekdays)<br clear="all">
 Phone: 03-5796-5400  (Not open Saturdays, Sundays, holidays, or 12/30-1/3)<br clear="all">
 
-* The paperwork necessary for disclose and deletion of information can also be obtained from the branches of companies listed in “5. Collection and Use of Customer Personal Information”, but requests must be mailed to the department listed above.
+<!-- * The paperwork necessary for disclose and deletion of information can also be obtained from the branches of companies listed in “5. Collection and Use of Customer Personal Information", but requests must be mailed to the department listed above. -->
 <br clear="all"><br clear="all">
 
 (2) Requests for Corrections, Stop of Usage, and Stop Sharing with Third Parties<br clear="all">
@@ -1278,14 +1292,14 @@ Please contact the branch at which you purchased your trip.<br clear="all">
 (Contact information is located on the copy of your application and on the contract.)
 
 					<div class="qtit2">11. In Circumstances When Personal Information is Leaked</div>
-					If for some reason JTB GMT personal information is disclosed, we will contact the customer immediately. If necessary, we will temporarily shout down our system to maintain security, or we may promptly announce facts about the situation publicly on our homepage.<br clear="all"><br clear="all">
+					If for some reason JTBGMT personal information is disclosed, we will contact the customer immediately. If necessary, we will temporarily shout down our system to maintain security, or we may promptly announce facts about the situation publicly on our homepage.<br clear="all"><br clear="all">
 
 					<div style="padding-top:5px;">
 						<div class="mark">
 						</div>
 						
 						<div class="name">
-						May 6, 2010
+						August 9, 2011
 						</div>
 					</div><br clear="all"><br clear="all"><br clear="all">
 
@@ -1302,15 +1316,22 @@ Please contact the branch at which you purchased your trip.<br clear="all">
 <style "type="" css"="">
 /*topTxtLinks
 --------------------------------------------------*/
-.topTxtLinks{
+.notice{
 	width:948px;
-	margin:0 0 30px;
-	padding:15px 0 15px 20px;
+	margin:10px 0 0 0;
+	padding:10px 0 10px 15px;
 	border:1px solid #eae9e6;
 	background:#f7f7f5;
 }
-.topTxtLinks .tTLLead{
+.topTxtLinks{
 	width:948px;
+	margin:0 0 0 0;
+	padding:15px 0 15px 15px;
+	border:1px solid #eae9e6;
+	background:#ffffff;
+}
+.topTxtLinks .tTLLead{
+	width:164px;
 	color:#4a4a4a;
 	font-weight:bold;
 	font-size:12px;
@@ -1367,139 +1388,104 @@ Please contact the branch at which you purchased your trip.<br clear="all">
 
 
 
-<!--topTxtLinks-->
-<div class="topTxtLinks mt20">
-<p class="tTLLead">Popular Japan destinations</p>
-<ul class="tTLBlocks mt2 clearFix">
-<li class="firstElement">
-<ul>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A27&amp;so=c">Tokyo Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A09&amp;so=c">Osaka Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A41&amp;so=c">Kyoto Hotels &amp; Ryokan</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A31&amp;so=c">Hakone Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A32&amp;so=c">Mt. Fuji Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A02&amp;so=c">Nikko Hotels &amp; Ryokan</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A07&amp;so=c">Takayama Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A40&amp;so=c">Koyasan Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=01&amp;so=ar">Hokkaido Hotels &amp; Ryokan</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A10&amp;so=c">Hiroshima Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A12&amp;so=c">Okinawa Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A39&amp;so=c">Nagoya Hotels &amp; Ryokan</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=A14&amp;so=c">Fukuoka Hotels &amp; Ryokan</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=B01&amp;so=c">Narita Airport Hotels</a></li>
-<li><a href="http://www.japanican.com/hotels/List.aspx?ar=B04&amp;so=c">Kansai Airport Hotels</a></li>
-</ul>
-</li>
-</ul>
+<!-- notice -->
+<div class="notice" style="margin-top:40px; ">
+<p>
+<a href="http://japan-articles.japanican.com/en/articles/20110314_earthquake.html" target="_blank">Information regarding the effects of the earthquake/tsunami on hotel and tour bookings</a>
+</p>
+</div>
+<br clear="all">
+<!-- /notice -->
 
 
-<p class="tTLLead mt20">Most Popular Japan Destinations</p>
-<ul class="tTLBlocks02 mt2 clearFix">
-<li class="firstElement">
-<ul>
-<li><a href="/tokyo/">Tokyo Hotels, Activities, and Information</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="/osaka/">Osaka Hotels, Activities, and Information</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="/kyoto/">Kyoto Hotels, Activities, and Information</a></li>
-</ul>
-</li>
-</ul>
 
+<div class="topTxtLinks" style="margin-top:6px; ">
 
-<p class="tTLLead mt20">Guided Tours to Popular Destinations&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Travel Packages to Popular Destinations</p>
-<ul class="tTLBlocks02 mt2 clearFix">
-<li class="firstElement">
-<ul>
-<li><a href="http://www.japanican.com/tours/list.aspx?deptcd=Anywhere&amp;destcd=34&amp;pn=1&amp;cpn=0&amp;ipn=0&amp;cdt=1&amp;so=p">Tokyo Day Tours</a></li>
-<li><a href="http://www.japanican.com/tours/list.aspx?deptcd=Anywhere&amp;destcd=18&amp;pn=1&amp;cpn=0&amp;ipn=0&amp;cdt=1&amp;so=p">Kyoto Day Tours</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="http://www.japanican.com/tours/list.aspx?deptcd=Anywhere&amp;destcd=4&amp;pn=1&amp;cpn=0&amp;ipn=0&amp;so=p">Mt. Fuji/Hakone Tours</a></li>
-<li><a href="http://www.japanican.com/tours/list.aspx?deptcd=Anywhere&amp;destcd=25&amp;pn=1&amp;cpn=0&amp;ipn=0&amp;so=p">Nikko Tours</a></li>
-</ul>
-</li>
-<li>
-<ul>
-<li><a href="/special/shinkansen/">The Shinkansen Special: Train &amp; Hotel Packages</a></li>
-</ul>
-</li>
-</ul>
-</div><!--/topTxtLinks-->
-
+<!-- copy -->
 <div>
-<table border="0" cellspacing="0" cellpadding="0" width="970">
-<tbody><tr><td width="60%" valign="bottom">
-<h3 class="footTagLine">Japan Hotels &amp; Tour Booking Made Easy JAPANiCAN.com</h3></td>
-
-<td width="40%" valign="top">
-<div style="float:right;">Follow JAPANiCAN.com&nbsp;&nbsp;
-<a href="http://twitter.com/jtbjapanican" target="_blank">
-<img src="/common/images/footer/twitter.png" alt="" style="border:0px;"></a>&nbsp;&nbsp;
-<a href="http://www.facebook.com/pages/JAPANiCAN/28576269753" target="_blank">
-<img src="/common/images/footer/facebook.png" alt="" style="border:0px;"></a>&nbsp;&nbsp;
-<a href="http://www.youtube.com/user/JAPANiCAN0801" target="_blank">
-<img src="/common/images/footer/youtube.png" alt="" style="border:0px;"></a></div><br clear="all">
-</td></tr>
-</tbody></table>
+<h3 style="	color:#666666;">Japan Hotels &amp; Tour Booking Made Easy JAPANiCAN.com</h3>
+<br>
 </div>
+<!-- /copy -->
 
-<div id="FOOTER" class="clearFix">
-	<div class="left">
-	<ul class="utility clearFix">
-	<li><a href="/index.aspx">JAPANiCAN.com HOME</a> ｜ </li>
-	<li><a href="/misc/aboutus.aspx">About us</a> ｜ </li>
-	<li><a href="http://www.jtbgmt.com/" target="_blank">Company Profile</a> ｜ </li>
-	<li><a href="/misc/contract.aspx" rel="nofollow">Legal</a> ｜ </li>
-	<li><a href="/misc/privacypolicy.aspx" rel="nofollow">Privacy Policy</a> ｜ </li>
-	<li><a href="/maintenance/" target="_blank">Maintenance Info.</a> ｜ </li>
-	<li><a href="/misc/term.aspx" rel="nofollow">Terms of Use</a> ｜ </li>
-	<li><a href="/misc/link.aspx" rel="nofollow">Useful Links</a> ｜ </li>
-	<li><a href="/support/" rel="nofollow">Customer Support</a></li>
-	</ul>
+<!-- link -->
+<ul class="tTLBlocks mt2 clearFix">
 
-	<!-- copyright -->
-	<p class="copy"><a href="http://www.jtbgmt.com/" target="_blank">
-	<img src="/common/images/footer/copy.gif" alt="© 2010 JTB Global Marketing &amp; Travel Inc. All rights reserved."></a></p>
-	<!-- /copyright -->
-	</div>
+<li class="firstElement">
+<p class="tTLLead">Browse &amp; Book</p>
+<ul>
+<li><a href="http://www.japanican.com/">JAPANiCAN.com HOME</a></li>
+<li><a href="http://www.japanican.com/hotels/">Hotels</a></li>
+<li><a href="http://www.japanican.com/ryokan/">Ryokan (Japanese Style Inns)</a></li>
+<li><a href="http://www.japanican.com/tours/">Tours &amp; Deals</a></li>
+<li><a href="http://www.japanican.com/special/shinkansen/">The Shinkansen Special</a></li>
+</ul>
+</li>
 
+<li>
+<p class="tTLLead">Travel Guide and Info.</p>
+<ul>
+<li><a href="http://www.japanican.com/japaninfo/" rel="nofollow">Japan Info</a></li>
+<li><a href="http://japan-articles.japanican.com/en/" rel="nofollow">Japan Articles</a></li>
+<li><a href="http://www.japanican.com/tokyo/" rel="nofollow">Tokyo Hotels and Activities</a></li>
+<li><a href="http://www.japanican.com/osaka/" rel="nofollow">Osaka Hotels and Activities</a></li>
+<li><a href="http://www.japanican.com/kyoto/" rel="nofollow">Kyoto Hotels and Activities</a></li>
+<li><a href="http://www.japanican.com/misc/link.aspx" rel="nofollow">Useful Links</a></li>
+</ul>
+</li>
+
+<li>
+<p class="tTLLead">Help</p>
+<ul>
+<li><a href="http://www.japanican.com/support/" rel="nofollow">Customer Support</a></li>
+<li><a href="https://www.japanican.com/hotelsreserve/History.aspx" rel="nofollow">My Hotel Bookings</a></li>
+<li><a href="https://www.japanican.com/toursreserve/HistoryTop.aspx" rel="nofollow">My Tour Bookings</a></li>
+<li><a href="http://faq.japanican.com/" rel="nofollow">FAQ</a></li>
+<li><a href="http://www.japanican.com/misc/term.aspx" rel="nofollow">Terms of Use</a></li>
+<li><a href="http://www.japanican.com/maintenance/" target="_blank">Maintenance Info.</a></li>
+</ul>
+</li>
+
+<li>
+<p class="tTLLead">Corporate</p>
+<ul>
+<li><a href="http://www.japanican.com/misc/aboutus.aspx">About us</a></li>
+<li><a href="http://www.jtbgmt.com/" target="_blank">Company Profile</a></li>
+<li><a href="http://www.japanican.com/misc/contract.aspx" rel="nofollow">Legal</a></li>
+<li><a href="http://www.japanican.com/misc/privacypolicy.aspx" rel="nofollow">Privacy Policy</a></li>
+</ul>
+</li>
+
+
+<li>
+<p class="tTLLead">Connect with us!</p>
+<ul>
+<li><a href="http://www.facebook.com/JAPANiCAN" target="_blank"><img src="/common/images/footer/facebook.png" alt="Facebook" vspace="3" hspace="2" style="border:0px;"></a> <a href="http://twitter.com/jtbjapanican" target="_blank"><img src="/common/images/footer/twitter.png" alt="Twitter" vspace="3" hspace="2" style="border:0px;"></a> <a href="http://www.youtube.com/user/JAPANiCAN0801" target="_blank"><img src="/common/images/footer/youtube.png" alt="YouTube" vspace="3" hspace="2" style="border:0px;"></a>
+
+<br><br>
 <!-- 
-<div class="right">
-<a href="/misc/contactus.aspx"><img src="/common/images/footer/logo.gif" alt="JAPANiCAN.com" width="160" height="39" /></a>
-
-<div class="cybertrust">
-<script language="JavaScript" type="text/javascript" src="https://trusted-web-seal.cybertrust.ne.jp/seal/getScript?host_name=www.japanican.com&type=11"></script>
-</div>
-</div>
+<p class="tTLLead">Share this page.</p>
  -->
+<!-- AddThis Button BEGIN 
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=ra-4dd2041f68ad9a06"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"/></a>
+<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-4dd2041f68ad9a06"></script>
+ AddThis Button END -->
+
+</li>
+</ul>
+</li>
+
+</ul>
+<!-- /link -->
 
 </div>
+
+
+<!-- copyright -->
+<p class="copy"><a href="http://www.jtbgmt.com/" target="_blank"><img src="/common/images/footer/copy.gif" vspace="20" alt="© JTB Global Marketing &amp; Travel Inc. All rights reserved."></a></p>
+<!-- /copyright -->
+
 <!--Google Analytics 解析タグ-->
 	
 <script type="text/javascript">
