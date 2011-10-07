@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the triviatoday.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612031438id_/http%3A//triviatoday.com/Privacy.asp%3Fe%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triviatoday.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008000905id_/http%3A//triviatoday.com/Privacy.asp%3Fe%3D%26t%3DR2XWWFDMRP) for the most accurate reproduction.*
 
 # Trivia Today- Trivia
 
