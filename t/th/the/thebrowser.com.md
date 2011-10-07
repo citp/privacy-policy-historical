@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the thebrowser.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218215828id_/http%3A//thebrowser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebrowser.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007164155id_/http%3A//thebrowser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Browser
 
-##  FAQs
+### FAQs
 
-  
 **What information do we collect?**
 
-We collect information from you only when you subscribe to our newsletter. 
+We collect information from you only when you subscribe to our newsletter.
 
 **When ordering or registering on our site**
 
@@ -17,17 +16,17 @@ As appropriate, you may be asked to enter your e-mail address. You may, however,
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-_• To personalise your experience_  (your information helps us to better respond to your individual needs)
+_• To personalise your experience_ (your information helps us to better respond to your individual needs)
 
-_• To improve our website_  (we continually strive to improve our website offerings based on the information and feedback we receive from you)
+_• To improve our website_ (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-_• To send periodic emails_  (the email address you provide will only be used  to send you information and site updates)
+_• To send periodic emails_ (the email address you provide will only be used  to send you information and site updates)
 
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc. Please note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you access your personal information.
 
 **Do we use cookies?**
 
@@ -55,11 +54,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-[thebrowser.com/contact](http://thebrowser.com/contact)
-
-[info@thebrowser.com](mailto:info@thebrowser.com)
-
-  
-
+If you have any questions regarding this privacy policy please email feedback[at]thebrowser[dot]com.
