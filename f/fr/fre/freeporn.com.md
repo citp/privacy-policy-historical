@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeporn.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425131456id_/http%3A//www.freeporn.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeporn.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007172335id_/http%3A//www.freeporn.com%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - FreePorn.com
 
