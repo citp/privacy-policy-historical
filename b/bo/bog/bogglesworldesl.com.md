@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212221055id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bogglesworldesl.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007165721id_/http%3A//bogglesworldesl.com/privacy.htm) for the most accurate reproduction.*
 
 # Presentation: Youngsan
 
@@ -12,14 +12,14 @@ This privacy statement covers the site www.bogglesworldesl.com. Because this Web
 7.      What types of security procedures are in place to protect the loss, misuse or alteration of information under Lanternfish control.   
 8.      How users can correct any inaccuracies in the information.
 
-If users have questions or concerns regarding this statement, they should contact Chris Gunn at [gunnchris@bogglesworldesl.com](mailto:gunnchris@bogglesworldesl.com).
+If users have questions or concerns regarding this statement, they should contact Chris Gunn at [gunnchris@bogglesworldesl.com](mailto:gunnchris@bogglesworldesl.com). 
 
 **Information Collection and Use**
 
 **Information Collection:  
 ** Lanternfish uses third party ad servers:
 
-[Burstmedia.com](http://burstmedia.com/), [Fastclick.com](http://fastclick.com/), Adify, Commission Junction, Allposters.com and [Google Adsense](http://google.com/). 
+[Burstmedia.com](http://burstmedia.com/),  [Fastclick.com](http://fastclick.com/), Adify, Commission Junction, Allposters.com and [Google Adsense](http://google.com/). Google Adsense in turn allows other advertising agencies to advertise through them and so by extension they advertise on our site too. This includes Doubleclick.Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website. Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
 
 These third party ad servers only collect non-personally identifiable information such as I.P. addresses and collect aggregate statistics such as page views. For more details about the information that they collect please view their privacy statements.
 
@@ -54,7 +54,7 @@ Newsletter
 Currently, we do not have a newsletter btu if we do this is the policy we will use: If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address.  Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
 
 Service Announcements  
-On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if our service is temporarily suspended for maintenance we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account.  However, these communications are not promotional in nature.  [Users may opt-out of these communications. Please see our Choice and Opt-out section.]
+On rare occasions it is necessary to send out a strictly service related announcement.  For instance, if our service is temporarily suspended for maintenance we might send users an email.  Generally, users may not opt-out of these communications, though they can deactivate their account.  However, these communications are not promotional in nature.  [Users may opt-out of these communications. Please see our Choice and Opt-out section.] 
 
 Customer Service  
 We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
@@ -71,7 +71,7 @@ We DO NOT Share Personal Information with Third Parties
 
   
 Links  
-This Web site contains links to other sites. Please be aware that we, Boggle’s World, are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+This Web site contains links to other sites. Please be aware that we, Lanternfish ESL, are not responsible for the privacy practices of such other sites.  We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
 
 Security  
 This Web site takes every precaution to protect our users’ information.  When users submit sensitive information via the Web site, their information is protected both online and off-line. Currently, we collect no information such as personnel ID or credit cards.
