@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nonvegjokes.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223055400id_/http%3A//nonvegjokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nonvegjokes.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007070248id_/http%3A//nonvegjokes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Non Veg Jokes
+# Privacy Policy
 
-**Last Updated On – July 23, 2009**
+**Last Updated On – April 24, 2011**
 
-**NonVegJokes.com** knows that you care how information about you is used and shared on internet, and we appreciate your trust that we will do so carefully and sensibly. This page describes our privacy policy. By visiting any of the sites offered by **NonVegJokes.com** , you are accepting the practices described in this **Privacy Notice**. For any question on the Privacy Notice please [_**Contact Us**_](http://nonvegjokes.com/contact-us "Contact Us").
+**NonVegJokes.com** knows that you care how information about you is used and shared on internet, and we appreciate your trust that we will do so carefully and sensibly. This page describes our privacy policy. By visiting any of the sites offered by **NonVegJokes.com** , you are accepting the practices described in this **Privacy Notice**. For any question on the Privacy Notice please Contact Us.
 
 ## **What Personal Information About Me Does NonVegJokes.com Gather?**
 
@@ -18,7 +18,7 @@ We receive and store certain types of information whenever you interact with our
 
 ## Cookies and Information Collected by Third Parties?
 
-Cookies are very small piece of text files placed on your hard disk by a computer server. It serves as your like an identification card and its is uniquely yours. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences and transactional habits and help us to “remember” who you are. Cookies cannot be used to run programs or deliver viruses, trojans to your computer. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies by default, but you can easily modify your browser setting to decline cookies if you want. If you reject a cookie you may still use our Site but your use will be limited in some areas of our Web-Site.
+Cookies are very small piece of text files placed on your hard disk by a computer server. It serves as your like an identification card and its is uniquely yours. Cookies tell us that you returned to a specific Web page on our Site, and help us track your preferences and transactional habits and help us to “remember” who you are. Cookies cannot be used to run programs or deliver viruses, Trojans to your computer. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies by default, but you can easily modify your browser setting to decline cookies if you want. If you reject a cookie you may still use our Site but your use will be limited in some areas of our Web-Site.
 
 Our Site may include third-party advertising and links to other websites. The information in the cookies is specifically handled by external advertising agencies who serve the ads that you see on the website.
 
@@ -32,8 +32,8 @@ Our site contains links to other sites. We are not responsible for the privacy p
 
 ## Send Jokes to the Other:
 
-When you use ‘Email The Joke’ feature to send jokes to your friends, the email address of the sender and receipient is recorded by us. This is done to protect all internet users’ interest in the process of preventing abuse & curbing spam. These email addresses are not used in any mailing lists or in any form of spam.
+When you use ‘Email The Joke’ feature to send jokes to your friends, the email address of the sender and recipient is recorded by us. This is done to protect all internet users’ interest in the process of preventing abuse & curbing spam. These email addresses are not used in any mailing lists or in any form of spam.
 
 ## Contacting the Web Master:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the Webmaster [Here](http://nonvegjokes.com/contact-us "Contact Webmaster").
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the Webmaster Here.
