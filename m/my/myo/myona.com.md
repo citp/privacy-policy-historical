@@ -1,11 +1,26 @@
-> *The following text is extracted and transformed from the myona.com privacy policy that was archived on 2004-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041014213008id_/http%3A//www.myona.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myona.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007175627id_/http%3A//myona.com/privacy-policy) for the most accurate reproduction.*
 
-# theOtaku.com: Privacy Policy
+# Privacy Policy | Myona News
 
-This page is designed to cover how theOtaku.com, myOtaku.com, and OtakuBoards.com ("The Network") handle personal information that is collected. Personal information is defined as information that is personally identifiable like your name, email address, or address, and that is not otherwise publicly available. 
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-"The Network" automatically receives and stores user IP addresses. "The Network" also uses cookies to save login information, deliver advertisements, and moderate user activity. 
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-"The Network" will never sell, rent, or give away your personal information to any other company. 
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-"The Network" uses third-party advertising to serve ads to visitors. Advertising is handled by: Google, Inc., Burst! Media, BUDS INC, and Mamma Media Solutions. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Myona.com has no access or control over these cookies that may be used by third party advertisers. 
+
+**Collection of Personal Information**  
+When visiting Myona.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
+
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
+
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
+
+If you have any questions regarding the privacy policy of Myona.com then you may contact us at xmiccyx@gmail.com 
+
+Last updated Tue, 26 Jul 2011 10:58
