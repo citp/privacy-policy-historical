@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dexigner.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604230908id_/http%3A//www.dexigner.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexigner.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007094510id_/http%3A//www.dexigner.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,4 +32,4 @@ Dexigner does not share your personal information with other companies or indivi
   
 ©2001-2011 Dexigner Network | All rights reserved.
 
-538 online visitors, 344,665,285 page views
+869 online visitors, 352,072,648 page views
