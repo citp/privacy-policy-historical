@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennystockscholar.com privacy policy that was archived on 2010-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101102162237id_/http%3A//www.pennystockscholar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennystockscholar.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007075640id_/http%3A//pennystockscholar.com/privacy.html) for the most accurate reproduction.*
 
 # A Penny Stock investing newsletter designed for the Active Investor.
 
