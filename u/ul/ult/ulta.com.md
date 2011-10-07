@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414150315id_/http%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulta.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007051832id_/http%3A//www.ulta.com/ulta/common/privacyPolicy.jsp) for the most accurate reproduction.*
 
 # Ulta.com - Cosmetics, Fragrance, Salon and Beauty Gifts
 
@@ -27,14 +27,14 @@ ULTA.com websites collect information about website visitors to provide and impr
 
      _Children Under 13 Years of Age_
 
-    ULTA.com websites are directed to adults, and do not knowingly collect personal information online from children under the age of 13. If you are a child under the age of 13, you must have your parent's or guardian's consent, and provide that consent to the ULTA.com website, using the contact information provided below, before you provide any information on an ULTA.com website. If you are the parent or guardian of a child under the age of 13, and you believe your child has provided personal information to an ULTA.com website that you would like us to delete, please [Contact Us](https://web.archive.org/web/20110414150315id_/http%3A//www.ulta.com/ulta/common/contactUs.jsp)
+    ULTA.com websites are directed to adults, and do not knowingly collect personal information online from children under the age of 13. If you are a child under the age of 13, you must have your parent's or guardian's consent, and provide that consent to the ULTA.com website, using the contact information provided below, before you provide any information on an ULTA.com website. If you are the parent or guardian of a child under the age of 13, and you believe your child has provided personal information to an ULTA.com website that you would like us to delete, please [Contact Us](https://web.archive.org/web/20111007051832id_/http%3A//www.ulta.com/ulta/common/contactUs.jsp)
 
     The information we collect on ULTA.com websites may be used to fulfill your requests (such as product orders and responses to email questions) and to communicate with you about or product offers and promotions. When you create an account with us, we offer the opportunity to become a member of ULTA's Loyalty Program, so you may receive future discounts, gifts and ULTA.com e-mail. You can also sign up for e-mail by providing your e-mail address through our site services or our affiliated retail stores.
 
 We may disclose the information we collect about you (including personally identifiable information) to third parties to comply with applicable laws, regulations, and/or governmental requests. We may also disclose such information to verify or enforce compliance with our User Agreement and Privacy Policy, to process and fill your order, reduce credit risk, protect against fraud, protect against misuse or unauthorized use of an ULTA.com website, or when we believe in good faith that the law requires such disclosure. We may also disclose such information to a successor entity in connection with a merger, consolidation, sale of assets or other corporate change affecting the ULTA.com websites.
 
 We may share the information collected at ULTA.com websites with agents or contractors who provide support for our internal operations. Such entities may receive personally identifiable information to allow them to perform their duties, but they may not use that information for any other purpose.  
-In some instances, we may share non-identifying and aggregate information collected on ULTA.com websites with third parties. If you do not want us to share the non-identifying and aggregate information we collect, please [Contact Us](https://web.archive.org/web/20110414150315id_/http%3A//www.ulta.com/ulta/common/contactUs.jsp)
+In some instances, we may share non-identifying and aggregate information collected on ULTA.com websites with third parties. If you do not want us to share the non-identifying and aggregate information we collect, please [Contact Us](https://web.archive.org/web/20111007051832id_/http%3A//www.ulta.com/ulta/common/contactUs.jsp)
 
 ULTA.com websites work to protect your personal information and credit card detail when you shop with us online. We use Secure Sockets Layer (SSL) technology - the industry standard - to encrypt the personal information and credit card detail you provide during the order process.  
 To ensure the security of your personal information, you should always provide that information over a secure connection. You can check the existence of a secure connection in one of two ways:  
@@ -46,7 +46,7 @@ While ULTA.com websites strive to ensure the integrity and security of our netwo
 
 Please remember that any information you may disclose in public areas of our websites or the Internet becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
 
-Please [Contact Us](https://web.archive.org/web/20110414150315id_/http%3A//www.ulta.com/ulta/common/contactUs.jsp) by clicking the link.
+Please [Contact Us](https://web.archive.org/web/20111007051832id_/http%3A//www.ulta.com/ulta/common/contactUs.jsp) by clicking the link.
 
 If you would like to stop receiving promotions, updates and/or special offers at any time, you may e-mail us at [service@ULTA.com](mailto:service@ULTA.com) with a statement requesting that you wish to cancel your Loyalty Club membership or that you would like to OPT-OUT of ULTA.com e-mail promotions, updates and special offers.
 
