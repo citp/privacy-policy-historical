@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vdream.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102003634id_/http%3A//vdream.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdream.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007064952id_/http%3A//vdream.com/static/privacy) for the most accurate reproduction.*
 
 # What's Your vDream?
 
