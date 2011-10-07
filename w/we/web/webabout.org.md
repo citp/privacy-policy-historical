@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webabout.org privacy policy that was archived on 2010-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100213164227id_/http%3A//webabout.org/terms-of-service) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webabout.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007202304id_/http%3A//webabout.org/about/terms-of-service) for the most accurate reproduction.*
 
 # Privacy Policy | Web About.org
 
@@ -8,7 +8,7 @@ Log Files
 Like most standard Web site servers, I use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user’s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 E-mail Subscription  
-If a user wishes to subscribe to my posts via e-mail (powered by Feedburner), I ask for contact information such as name and [Email](http://webabout.org/r/getresponse) address. Out of respect for my users’ privacy, a way to opt-out of these communications is provided.
+If a user wishes to subscribe to my posts via e-mail (powered by Feedburner), I ask for contact information such as name and email address. Out of respect for my users’ privacy, a way to opt-out of these communications is provided.
 
 Cookies  
 A cookie is a piece of data stored on the user’s computer tied to information about the user. My site use cookies for tracking visitors’activity. Some of my business partners use cookies on our site (for example, advertisers). However, I have no access to or control over these cookies, once I have given permission for them to set cookies for advertising. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.
@@ -24,4 +24,4 @@ I do not make any guarantee that past earnings can be duplicated in the future n
 
 If you choose to act upon the information presented here your actions should be based on your own due diligence concerning the products and concepts covered. You agree that I am not liable for any success or failure of your business that is directly or indirectly related to the use of the information, products and services presented here.  
 Contact Information  
-If users have any questions or suggestions regarding my privacy policy, please contact me by [Email](http://webabout.org/r/getresponse): 406769878@qq.com
+If users have any questions or suggestions regarding my privacy policy, please contact me [here](http://webabout.org/about/advertise)/
