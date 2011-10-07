@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the startingpage.com privacy policy that was archived on 2011-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110314160816id_/http%3A//startingpage.com/eng/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the startingpage.com privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007190253id_/http%3A//www.startingpage.com/eng/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -423,6 +423,20 @@ input.button{font-family:Verdana; background: url('/graphics/blue_bg.gif'); font
 .invisible{width:1px; height:1px; border: none; background-color:#FFFFFF;}
 #privacy_seal p a {color:#200c71;}
 #privacy_seal p a:hover {color:#89c3f1;}
+
+div.subTitle {
+min-width: 280px;
+}
+div.content {
+min-width: 593px;
+}
+
+#min-width{
+width:593px;
+*width:653px;
+height:1px;
+} 
+
 	-->
 
 .fixstar
@@ -1165,7 +1179,7 @@ function makeHomePage (obj, page_url) {
 <td class="tdcontent" valign="top" id="td_content" name="td_content">
 <div style="float:right;margin:60px 15px 0 0;">Latest revision: September 2010</div><div style="padding-bottom:5px;background:none;" class="title">PRIVACY</div>
 <div class="separator"><hr></div>
-<div class="subtitle" id="subTitle">Privacy Policy</div>
+<div class="subtitle" id="subTitle">Privacy Policy</div><div id="min-width"></div>
 <div class="content" style="padding-right: 30px;"><!--BODYCONTENT--><p>Startingpage.com ("Startingpage") is strongly committed to protecting the privacy of its user community.<br><br>This privacy policy details the information Startingpage may gather from the individuals who visit us, how that information is used, and our disclosure policy.</p> 
 <h3>IP Addresses</h3>
 <p>The IP address that is associated with your search will NOT be recorded.<br> The only exception is for “abusive” (automated) queriers that rapidly submit many queries to Startingpage in a very short time.</p>
@@ -1570,6 +1584,14 @@ function pos_seal_title(){
     if (document.getElementById('privacy_seal')) {
         document.getElementById('privacy_seal_news_title').style.display = '';
         document.getElementById('privacy_seal').style.display = '';
+		pos_seal();
+        pos_seal_title();
+		pos_seal();
+        pos_seal_title();
+		pos_seal();
+        pos_seal_title();
+		pos_seal();
+        pos_seal_title();
 		pos_seal();
         pos_seal_title();
 	}
