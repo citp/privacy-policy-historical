@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the porned.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116052644id_/http%3A//www.porned.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the porned.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007075719id_/http%3A//porned.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Porned.com - FREE High quality full length Porn!
 
@@ -24,7 +24,7 @@ Site owner takes reasonable precautions to maintain the security of any informat
 Site owner recognizes the importance of protecting your privacy. If you have any questions about this Privacy Statement, the practices of this web site or your dealings with this site, please contact us:
 
 By mail:  
-Love Taco Inc.  
+Porned.com  
 #341 – 280 Nelson Street  
 Vancouver, BC V6B 2E2  
 Canada  
