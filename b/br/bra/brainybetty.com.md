@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616004330id_/http%3A//brainybetty.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainybetty.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007033702id_/http%3A//brainybetty.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for this site
 
@@ -64,6 +64,6 @@
 > 
 > Thank you for your trust in our company. We will work diligently to ensure that we maintain that trust.
 > 
-> Nan Shastry, CEO - [Brainy Betty, Inc.](https://web.archive.org/web/20110616004330id_/http%3A//brainybetty.com/default.htm)  
+> Nan Shastry, CEO - [Brainy Betty, Inc.](https://web.archive.org/web/20111007033702id_/http%3A//brainybetty.com/default.htm)  
   
  
