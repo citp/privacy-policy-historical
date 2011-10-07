@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623164904id_/http%3A//www.ran.org/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ran.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008014646id_/http%3A//ran.org/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rainforest Action Network
 
@@ -37,6 +37,5 @@ Changes to this policy RAN reserves the right, in its sole discretion and withou
 For questions: - regarding this policy statement, - the practices of this site, - if you feel that this site is not following its stated information policy, - or to review or request changes to your contact information, you may contact us at the address below.
 
   
+  
 
-
-[Share](http://www.facebook.com/sharer.php)
