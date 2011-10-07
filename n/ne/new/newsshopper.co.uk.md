@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101230144id_/http%3A//www.newsshopper.co.uk/my/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsshopper.co.uk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007090926id_/http%3A//www.newsshopper.co.uk/my/account/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ In addition to personal information we obtain, including your name, postal and e
 
 #### Cookies
 
-A "cookie" is a piece of software which can stick to a computer's hard drive and recalls details about how your computer operates. We reserve the right to use this information to track your movements through our website. Personal information about you is not collected during this process. You can disable the cookies if your browser allows this. For further information on how to do this, please refer to [www.about-cookies.org](http://www.about-cookies.org/). However, you might not be able to use some of our on-line services if you follow this. We have no control over any cookies sent by third party websites.
+A "cookie" is a piece of software which can stick to a computer's hard drive and recalls details about how your computer operates. We reserve the right to use this information to track your movements through our website. Personal information about you is not collected during this process. You can disable the cookies if your browser allows this. For further information on how to do this, please refer to [www.aboutcookies.org](http://www.aboutcookies.org/). However, you might not be able to use some of our on-line services if you follow this. We have no control over any cookies sent by third party websites.
 
 #### Third party advertising companies
 
@@ -54,7 +54,7 @@ Your personal information, including contact information such as postal and emai
 
 #### Disclosure of personal information to third parties
 
-Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 15 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such material by contacting us [here]().
+Your personal information will be disclosed where we are obliged or permitted to do so by law, or in the circumstances described in paragraph 15 of the Terms. We may disclose non-personally identifiable data to commercial advertisers on our websites or any other of our commercial clients to help them understand and meet potential customer preferences and needs. We may disclose your personal information to selected third parties who may then send information to you about goods and services. You can indicate you do not wish to receive such material by contacting us [here](https://web.archive.org/my/contact-us).
 
 #### Retention of personal information
 
