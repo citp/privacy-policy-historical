@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allclassifiedwebsites.blogspot.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119172638id_/http%3A//allclassifiedwebsites.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allclassifiedwebsites.blogspot.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007085006id_/http%3A//allclassifiedwebsites.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # All Classifieds Sites List: Privacy Policy
 
