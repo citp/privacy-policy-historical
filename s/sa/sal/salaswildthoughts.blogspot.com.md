@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salaswildthoughts.blogspot.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108154812id_/http%3A//salaswildthoughts.blogspot.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaswildthoughts.blogspot.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008014209id_/http%3A//salaswildthoughts.blogspot.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | The Composed Gentleman
 
