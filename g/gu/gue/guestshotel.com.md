@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guestshotel.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524044701id_/http%3A//www.guestshotel.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1424%26Itemid%3D103) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guestshotel.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007215113id_/http%3A//guestshotel.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D1424%26Itemid%3D103) for the most accurate reproduction.*
 
 # Privacy Policy
 
