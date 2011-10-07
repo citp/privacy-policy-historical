@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fenopy.com privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320180552id_/http%3A//fenopy.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fenopy.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007064252id_/http%3A//fenopy.eu/info/privacy.html) for the most accurate reproduction.*
 
-# Fast and easy torrent downloads - Fenopy.com
+# Fast and easy torrent downloads - Fenopy.eu
 
 #### Fenopy Privacy Policy
 
@@ -45,7 +45,7 @@ Any of the information we collect from you may be used in one of the following w
 > 
 > **Terms and Conditions**
 > 
-> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fenopy.com/info/tos.html>
+> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://fenopy.eu/info/tos.html>
 > 
 > **Changes to our Privacy Policy**
 > 
