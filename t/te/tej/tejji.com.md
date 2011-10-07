@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420000503id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tejji.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008005150id_/http%3A//tejji.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Tejji
 
@@ -27,7 +27,7 @@ This information relates to your score history which includes following:
     * Date of recording the scores
   
 
-  * **Cookies** – During your visit to Tejji, we may send you one or more cookies. These cookies are small files that contains string of characters. These cookies are used to store user specific information like user preferences which helps us provide you your preference specific services. By this way we improve the quality of our services. 
+  * **Cookies** – During your visit to Tejji, we or third parties may send you one or more cookies. These cookies are small files that contains string of characters. These cookies are used to store user specific information like user preferences which helps us provide you your preference specific services. By this way we improve the quality of our services. 
   * **Information Stored** – During your visit to Tejji services, our servers automatically stores information that your browser sends. This inforamtion includes things like your ip address, your scores, cookies related information etc. 
   * **Communication Messages** – When you send an email or other forms of communications to Tejji, we may retain a copy of those communication in order to process the request appropriately.
   * **Affiliated Services** – We offer services on other sites. In case if service requires combining personal information then it is been collected from Tejji to provide you available service. On such information privacy polices mentione here applies. Affiliated parties operate under differen privacy setting. We encourage your to go through privacy policies of such sites. 
