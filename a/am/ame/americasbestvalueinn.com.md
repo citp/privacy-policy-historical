@@ -1,0 +1,76 @@
+> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007121408id_/http%3A//americasbestvalueinn.com/pnp.html) for the most accurate reproduction.*
+
+# Americas Best Value Inn Privacy Policy
+
+**Americas Best Value Inn Use Terms**  
+Vantage Hospitality Group, Inc., d/b/a Americas Best Value Inn, welcomes you to its Internet site, AmericasBestValueInn.com. We provide you, our customers, our Site under the following notices, terms and conditions. When you access, browse or use this Site, you acknowledge that you understand and agree to be bound by these use terms.
+
+**Privacy**  
+At various points, when you use this Site, we may collect personal information. In addition to any other information you may choose to provide to us, this personal information may include: your name and contact information; date of birth; preferred communication methods; business name, title and business address; credit card details, including the three-digit code that appears on the back of your credit card; Value Club number, frequent flyer or travel partner program affiliation; date of arrival and departure; room and vacation preferences; travel history; AAA or CAA number; and details on airline and rental car reservations you may book. We may also record details on joint travelers, including their names and other pertinent information.
+
+We use your personal information to provide the services you request from us such as to facilitate reservations. We also may use the personal information to send you newsletters, promotions and featured specials, and to conduct online surveys, sweepstakes, prize drawings, and other contests via email, telephone or postal mail.
+
+  * We may share personal information within the Vantage family of brands that may jointly use the personal information for the purposes described above. 
+  * We may share personal information with our branded hotels in order to provide you with services. 
+  * If you visit us as part of a group event or meeting, information collected for meeting and event planning may be shared with the organizers of those meetings and events, and, where appropriate, guests who organize or participate in the meeting or event. 
+  * From time to time we may partner with other companies to provide co-sponsored or co-branded promotions, products and services and may share your information with our co-sponsor. For example, we may co-sponsor some sweepstakes, prize draws, competitions or contests on our Site with other companies or we may provide prizes for sweepstakes and contests sponsored by other companies. If you enter one of these sweepstakes or contests, we may share your information with our co-sponsor or the third party sponsor. 
+  * We rely on service providers to provide certain products and services, such as credit card billing and reservations services, providing services in connection with our websites, communicating news and delivering promotional and transactional materials via email and direct mail, processing credit card transactions, data hygiene and enhancement services and administering sweepstakes, prize drawings, competitions and customer surveys for which it is necessary to provide personal information. We will disclose personal information to service providers as appropriate. 
+  * At some future time, we might sell, buy, restructure or reorganize businesses or assets. In the event of a merger, consolidation, sale, liquidation or transfer of assets, we may, in our sole and absolute discretion, transfer, sell or assign information collected, including without limitation, non-personal information and personal information, to one or more affiliated or unaffiliated third parties. 
+  * In addition, we may disclose personal information, with or without prior notice to you, in order to: (i) comply with applicable laws; (ii) respond to governmental inquiries or requests from public authorities; (iii) comply with valid legal process; (iv) protect the rights, privacy, safety or property of our company, Site visitors, guests, employees or the public; (v) permit us to pursue available remedies or limit the damages that we may sustain; (vi) enforce our Site usage policy; and (vii) respond to an emergency. 
+
+
+
+When you visit and interact with this Site, we and third parties with whom we have contracted to provide services to us, may collect non-personal information (for example, a catalog of the Site pages you visit).
+
+As with many other sites, our Site may use "cookies" or other technologies to help us deliver content specific to your interests, to process your reservations or requests, and/or to analyze your visiting patterns. Cookies, by themselves, cannot be used to disclose your individual identity. This information identifies your browser, but not you, to our servers when you visit our Site. If you want to remove cookies at any time from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies).
+
+We also may collect data by using "pixel tags," "web beacons," "clear GIFs" or similar means (collectively, "Pixel Tags") that allow us to know when you visit our Site. Through Pixel Tags, we obtain non-personal information or aggregate information (i.e., the domain name, the areas of the Site you visit, your operating system, your browser version, and the URL you came from) which can be used to enhance your online experience and understand traffic patterns.
+
+In addition, we may use third party advertisers to serve advertisements on the Sites. Please note that these third party advertisers also may use cookies, Pixel Tags and other technologies to, among other things, enable such third party advertisers to record which ads your browser has seen and which Site pages you may have been viewing when the ads were delivered. We do not control the use of this technology or the resulting information and are not responsible for any actions or policies of such third parties.
+
+Because non-personal information does not personally identify you, we may use or disclose such information for any purpose. In some instances, we may combine non-personal information with personal information (such as embedding e-mail addresses in cookies). If we do combine any non-personal information with personal information, the combined information will be treated by us as personal information in accordance with this Policy.
+
+Our Site may contain links to third parties' websites. Please note that we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. If you provide information on third party Sites, the privacy policy and terms of service on those Sites are applicable. We encourage you to read the privacy policies of websites that you visit before submitting personal information.
+
+We will take appropriate measures to: (i) protect personal information collected against unauthorized access, disclosure, alteration or destruction, and (ii) keep personal information accurate and up-to-date, consistent with applicable law. We also seek to require our affiliates and service providers to exercise reasonable efforts to maintain the confidentiality of personal information about you. For online transactions, we use technology to protect the personal information that you transmit to us via our Site. Unfortunately, however, no security system or system of transmitting data over the Internet can be guaranteed to be entirely secure.
+
+For your own privacy protection, we encourage you not to include sensitive personal information in any emails you may send to us. Please do not send credit card numbers or any sensitive personal information to us via email.
+
+To the extent required by applicable law, you may be able to request that we inform you about the personal information we maintain about you and, where appropriate, request that we update, correct, and/or suppress personal information about you that we maintain in our active database. We will make all required updates and changes within the time specified by the applicable law and, where permitted by law, may charge an appropriate fee to cover the costs of responding to the request. Such requests must be submitted in writing to the following address: Vantage Hospitality Group, Inc., Information Technology Department, 3300 N. University Drive, Suite 500, Coral Springs, FL 33065. To protect your confidentiality, we can only respond to such requests to the email address that you have registered or otherwise provided to us. Please remember that if you make such a request, we may not be able to provide you with the same quality and variety of services to which you are accustomed.
+
+In addition, in some circumstances based on applicable law, you may request that we cease sharing personal information about you with our business partners or that we cease the use of personal information about you on the grounds that such personal information was acquired by unjust means or used in violation of law by sending your written request to Vantage Hospitality Group, Inc., Information Technology Department, 3300 N. University Drive, Suite 500, Coral Springs, FL 33065. We will seek to honor those requests consistently with applicable law.
+
+We retain personal information about you for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by applicable law. If you have given us your contact information (mail address, fax number, email address or phone number), we may want to inform you about our services or invite you to events by email, telephone or post.
+
+If you prefer not to receive marketing materials from us, you may change your preferences at any time by: (i) sending us an email to privacy@vantagehospitality.com; (ii) writing to us (and include your email address) at Vantage Hospitality Group, Inc., Information Technology Department, 3300 N. University Drive, Suite 500, Coral Springs, FL 33065; or (iii) using the unsubscribe function in the email you receive from us. We will update your preferences as soon as reasonably practical.
+
+Please note, however, that if you "opt out" as described above, we will not be able to remove your personal information from the databases of affiliates, franchisees or business partners with which we have already shared your personal information (i.e., to which we have already provided your personal information as of the date of your opt-out request).
+
+We may modify these policies from time to time. When we make material changes to this policy we will post the revised policy on the homepage of our Site. You can tell when this Policy was last updated by looking at the date at the top of the Policy. Any changes to our Policy will become effective upon posting of the revised Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Policy then in effect.
+
+If you have any questions about this Policy or how we process your personal information, please contact us by email to privacy@vantagehospitality.com by postal mail to Vantage Hospitality Group, Inc., Information Technology Department, 3300 N. University Drive, Suite 500, Coral Springs, FL 33065.
+
+**  
+Copyrights**  
+Our Site content, including text, graphics, logos, button icons, images, and software, and the compilation of them, is our property or the property of our content suppliers and vendors, and is protected by U.S. and international copyright laws. You may use the Site content and software only as a resource for your travel needs, and not for any other use. You may not display, distribute, modify, reproduce, republish or transmit the Site content.
+
+**Site Use**  
+The Site is intended to assist you in determining the availability of and booking hotel rooms. Except for printing information in connection with your travel, you may not reproduce, duplicate, copy, sell, resell or otherwise exploit this Site unless we provide you with prior written permission to do so. We may refuse service, terminate access, and/or cancel transactions at our discretion. Please note that this Policy does not apply to our processing of personal information on behalf of and subject to the instructions of third parties such as airlines, car rental companies and other service providers, companies that organize or offer packaged travel arrangements, marketing partners, or customers. 
+
+You are responsible for the content of your submissions, and you allow us to use that content in ways consistent with our privacy policy below. You may not post or transmit to the Site any unlawful, defamatory, profane or like material that could give rise to civil or criminal liability under law.
+
+The rates listed on the Site are provided by the individual hotels and are represented in their local currency. Currency may be converted at the Site, however, it is provided for informational use only. We base international currency conversion on publicly available sources, so we do not warrant or guarantee that conversion rates will be the same at the time you pay the hotel. Your payments to hotels on the Site are exclusively between you and the hotel, and we do not assume any liability or involvement in disputes you may have with a hotel. Hotels may change price and availability of rooms listed on the Site without notice.
+
+**Disclaimer**  
+WE PROVIDE THIS SITE ON AN "AS IS" BASIS. WE DO NOT REPRESENT OR WARRANT ANYTHING ABOUT SITE OPERATION OR SITE INFORMATION, CONTENT, MATERIALS, OR PRODUCTS. TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, NON-INFRINGEMENT, IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. WE WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM SITE USE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE, AND CONSEQUENTIAL DAMAGES.
+
+**
+
+Our Address  
+AmericasBestValueInn.com  
+Americas Best Value Inn by Vantage  
+3300 N University Drive, Coral Springs, FL 33065  
+Ph: (877) 311-2378 Fax: (954) 575-8274  
+http://www.AmericasBestValueInn.com
+
+**
