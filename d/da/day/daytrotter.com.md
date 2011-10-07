@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629041725id_/http%3A//www.daytrotter.com/sc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daytrotter.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007131741id_/http%3A//www.daytrotter.com/sc/privacy-policy.html) for the most accurate reproduction.*
 
 # Daytrotter: Privacy Policy
 
