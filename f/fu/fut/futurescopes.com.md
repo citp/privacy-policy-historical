@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the futurescopes.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122200349id_/http%3A//futurescopes.com/node/165) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurescopes.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007225938id_/http%3A//futurescopes.com/node/165) for the most accurate reproduction.*
 
 # Privacy policy | Futurescopes.com
 
@@ -20,7 +20,7 @@ Third party advertisements displayed on the VMC Infotech web Sites may also cont
 
     * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to your website.  
     * Google's use of the DART cookie enables it and its partners to serve ads when you visit our site and/or other sites on the Internet.  
-    * You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).) 
+    * You may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). Alternatively, you can opt out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 VMC Infotech may use cookies and similar tools to relate your use of the VMC Infotech Sites to PII obtained from you or a third party. For example, if you've asked us to provide you with information about our products or promotions, cookie and/or click stream data about your activities on the VMC Infotech Sites may allow us to limit the materials we provide you to items we think you will find interesting, based on your prior online activities and preferences.
 
@@ -88,7 +88,7 @@ If you have any other questions, comments or complaints about this Policy, pleas
 
 VMC Infotech   
 Attn: Legal Department/Privacy Administrator  
-661/ Shantivan,  
+222/ Shantivan,  
 New Link Rx. Extn.,  
 Andheri west  
 Mumbai 53  
