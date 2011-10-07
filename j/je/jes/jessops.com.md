@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226230518id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007194311id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jessops
 
@@ -80,11 +80,8 @@ For the purpose of credit/debit card authorisation we will pass your name and ad
 For the purpose of delivering your parcel we will pass your name and address to Parcelforce, or another of our parcel carriers.  
 These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
 
-_Service Providers_  
-We partner with a third party company "Pixology", to provide the "Print@Net" Internet Printing Service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these services. If the customer places an order using the "Print@Net" service then payment will be taken by Pixology. Pixology are not allowed to use personally identifiable information except for the purpose of providing the "Print@Net" service.
-
-_Jessops Jpics_  
-We partner with a third party company “CEWE”, to provide “Jessops Jpics” online printing service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these servies. . If the customer places an order using the "Jessops Jpics" service then payment will be taken by CEWE. CEWE are not allowed to use personally identifiable information except for the purpose of providing the "Jessops Jpics" service. Customer wishing to opt-out of emails and online marketing promotions may do so from the Jessops Jpics website. 
+_Jessops Photo_  
+We partner with a third party company “CEWE”, to provide “Jessops Photo” online printing service. When the user signs up for these particular services, we share names, or other contact information that is necessary for the third party to provide these servies. . If the customer places an order using the "Jessops Photo" service then payment will be taken by CEWE. CEWE are not allowed to use personally identifiable information except for the purpose of providing the "Jessops Photo" service. Customer wishing to opt-out of emails and online marketing promotions may do so from the Jessops Photo website. 
 
 _Business Transitions_  
 In the event Jessops goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users' personal information will, in most instances, be part of the assets transferred. Users will be notified via a prominent notice on our Web site for 30 days prior to a change of ownership or control of their personal information. If as a result of the business transition, the users' personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
@@ -92,9 +89,7 @@ In the event Jessops goes through a business transition, such as a merger, being
 _Choice/Opt-out_  
 Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an 'opt-out' mechanism so users who buy a product from us, but don't want any marketing material, can keep their email address off of our lists. 
 
-Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by by selecting the un-subscribe link included in each email or by sending an email to [customercare@jpics.co.uk](mailto:customercare@jpics.co.uk). 
-
-User of the Jessops Jpics may opt-out of email newsletters via the Jessops Jpics website.
+User of the Jessops Photo may opt-out of email newsletters via the Jessops Photo website.
 
 _Links_  
 This Web site contains links to other sites. Please be aware that we, Jessops, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
