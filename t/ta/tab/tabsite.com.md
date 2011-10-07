@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tabsite.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511083008id_/http%3A//www.tabsite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabsite.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007181941id_/http%3A//www.tabsite.com/privacy) for the most accurate reproduction.*
 
-# TabSite - No more FBML! Customize your Facebook Page
+# TabSite - Fan Page Platform | Easily Customize your Facebook Page
 
 ## Facebook TabSite Privacy Policy
 
@@ -51,4 +51,4 @@ Digital Hill or TabSite may periodically update this policy. We will notify you 
 ### Questions
 
 Any questions about this Privacy Policy should be addressed to info (at)DigitalHill(dot)com or by mail to: Digital Hill, 229 S. Main St. Goshen, IN 46526  
-View our full [Terms here](https://web.archive.org/web/20110511083008id_/http%3A//www.tabsite.com/terms.php). 
+View our full [Terms here](https://web.archive.org/web/20111007181941id_/http%3A//www.tabsite.com/terms.php). 
