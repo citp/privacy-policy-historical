@@ -1,106 +1,55 @@
-> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120021257id_/http%3A//bid4keywords.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007085758id_/http%3A//bid4keywords.com/privacy.php) for the most accurate reproduction.*
 
-# Bid4Keywords - Internet Search Marketing
+# Bid4Keywords
 
-Bid4Keywords.com, a service of MSA, Inc. has created this privacy statement in order to demonstrate our firm commitment to protecting your privacy. The following discloses our information gathering and dissemination practices for the www.Bid4Keywords.com.com site. 
+THE FOLLOWING PRIVACY STATEMENT DETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
 
-The following questions are answered below: 
+Any questions in regards to AdMedia privacy practices should be sent via email to [copyright@AdMedia.com](mailto:copyright@AdMedia.com).
 
-  1. What information does Bid4Keywords.com collect? 
-  2. What organization is collecting the information? 
-  3. What does Bid4Keywords.com do with the data it collects? 
-  4. With whom does Bid4Keywords.com share data? 
-  5. What choices are available regarding collection, use and distribution of the information (Opt Out Policy)? 
-  6. How can I update or correct my information? 
-  7. How can I delete my information? 
-  8. What procedures have been designed to protect the loss, misuse or alteration of information under Bid4Keywords.com's control? 
-  9. What about privacy policies for sites to which Bid4Keywords.com links? 
-  10. What happens to my information if Bid4Keywords.com merges with or is sold to another company? 
+## What type of information does AdMedia collect?
 
+AdMedia utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off, simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
 
+Your IP address helps AdMedia diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize AdMedia.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
 
-If you have any questions about this privacy statement, the practices of this site or your dealings with this site, email copyright@Bid4Keywords.com. 
+## What does AdMedia do with my data?
 
-**What information does Bid4Keywords.com collect?**
+AdMedia only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
 
-At different times, Bid4Keywords.com may collect several types of information about you. Except as otherwise stated in this privacy policy, we do not provide this information to third parties, except in aggregate form. 
+IP addresses help us diagnose server issues and help us administer AdMedia.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
 
-First, we or our partners or advertisers may use a feature of your browser called a cookie to assign identification to your computer. The unique user ID contained within your cookie automatically identifies your computer — but not you — to our servers every time you visit our site. Cookies by themselves cannot be used to find out the identity of any user. You can turn the cookies feature off by using your browser's preference options, but you may not be able to utilize some services properly. 
+Every email sent to AdMedia users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, all for your enjoyment. If at any point these emails become annoying or bothersome, simply click on the link provided to opt out.
 
-Second, we keep track of your IP address to help diagnose problems with our servers and to administer our site. Your IP address is a number that identifies a computer which accesses the Internet. This address is used to gather broad demographic information about you, such as your Internet service provider and the geographic location of your IP address. Bid4Keywords.com may also collect aggregate information on how our users are utilizing the site. This might include information regarding traffic patterns through the site and search queries. 
+Also note that your email address helps AdMedia respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
 
-Third, we log browser types, access times, URLs from which visitors came to our site and URLs viewed by visitors while on our site. Again, Bid4Keywords.com uses this information on an aggregate basis, in this case making sure we can support overall visitor traffic and service performance. 
+## Who else gets to see my personal information?
 
-Fourth, at specific times we may ask you to provide us with personal information in order for you to register for a service or to enter a sweepstakes. Also, you may also provide personal information if you write us feedback email. This information may include but is not limited to your name and email address. You may always choose not to provide us with this information; however, this may limit our ability to provide you with a specific service, offer you personalized content, or respond to your feedback. 
+When you request services from our business partners AdMedia will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an AdMedia business partner, you may contact them directly. AdMedia is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with AdMedia owned businesses.
 
-Fifth, we contract with 24/7 Real Media, a service partner, to provide us with a data collection and reporting service to better understand overall use of our site. 24/7 Real Media may store certain legacy data that we received from visitors to our site prior to our relationship with them, so that we may access this information via their reporting service. 24/7 Real Media may collect information on our behalf about our users' visiting behaviors in several ways, including through the use of cookies or pixel tags. We use 24/7 Real Media to understand what's popular and useful for visitors. 
+Your personal information will be shared with an outside party if we have good reason to believe that the law or legal process require it. It is our obligation to protect any rights or property of AdMedia and others associated with our company and website.
 
-**What organization is collecting the information?**
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information.
 
-Bid4Keywords.com usually collects the requested information. However, Bid4Keywords.com has chosen select partners in order to provide certain services. In order to use certain services on the site, it may be necessary to enter information that then goes to our partner and is not kept by Bid4Keywords.com. The areas of our site in which partners are collecting information may be cobranded with our partners' logos. If you have questions regarding the privacy policy or data collection practices of one of our content partners, please contact that partner directly. 
+## How do I delete my information from AdMedia?
 
-We use third-party advertising companies and advertising networks to collect information and serve ads to you when you visit our site. These companies may use cookies, pixel tags, or otherwise independently collect information (not including your name, address email address or telephone number) from you and use this information about your visits to this and other sites in order to provide advertisements about goods and services of interest to you. We do not control their collection and use of information. Please note that if an advertiser or advertising network asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or advertising network may conclude that you fit the description of the audience they are trying to reach. 
+At this current time it is not possible to completely delete your user information from the AdMedia database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
 
-To learn more about the collection of information by these third party advertising networks, including how to opt out of such collection, see the links below. 
+## Will I be notified of a security breach?
 
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52 
+AdMedia has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
 
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp 
+## Do linked sites honor your policy?
 
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
+Linked sites are not run or controlled by AdMedia.com. The website does contain many linked sites so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. AdMedia won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
 
-**What does Bid4Keywords.com do with the data it collects?**
+## Will your policy always remain intact?
 
-Whenever Bid4Keywords.com collects data, the data is intended to tailor or improve the experience of visitors to our site. From the data collected we can customize content and advertising based on the user's preferences. We may use information from cookies to differentiate between unique users, personalize the site for each unique user, to control the frequency of individual advertisements directed to individual computers, and other purposes. In all cases, personally identifiable information is not shared with our advertisers, except as otherwise stated in this privacy policy. 
+We cannot guarantee that this policy will always be honored. In the event that AdMedia.com is bought, or our assets are acquired by another company, user information may be transferred to new ownership. AdMedia will suggest this policy be adapted, but we cannot guarantee it.
 
-We use IP addresses to help diagnose problems with our server and to administer our site. It's the way we can make sure our service is available 24/7 to you. 
+## AdMedia will notify you of changes
 
-If you register for a service or to enter a sweepstakes, we may use the information we collect to provide the service to you or send communications regarding the sweepstakes. We may also send a newsletter by email to our users who opt to receive such emails. It is our policy to send these emails only to users who give us permission to do so. In every such email, we will also have instructions on how to unsubscribe and avoid receiving any future emails from us. Bid4Keywords.com also may contact you by email to respond to feedback you have submitted. 
+AdMedia is constantly improving and making additions to our site to provide you with better features and services. As a result, our policies must be continuously revised. Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. It is important to us that you are always up to date with AdMedia policies, so check this site often for information on your privacy.
 
-**With whom does Bid4Keywords.com share data?**
+## Contacting AdMedia
 
-Bid4Keywords.com may disclose your personal information to our business partners in order to provide you with the services you have requested, or to companies that offer a cobranded version of our site. If you have questions regarding the privacy policy or data-collection practices of one of our business partners, please contact that partner directly. Bid4Keywords.com does not have control over and is not responsible for the data collection and use practices of our business partners. Bid4Keywords.com may also disclose your personal information to other members of the Bid4Keywords family of businesses. 
-
-We also may disclose your personal information (including without limitation IP addresses) to a third party if we believe in good faith that the law or legal process requires it, to protect the rights or property of Bid4Keywords.com or others, or as otherwise described in this privacy policy. 
-
-We may disclose certain non-personally identifiable information about you to advertisers or other third parties in order to present you with targeted advertisements. We may share aggregate demographic information with our advertisers or information collection companies, but will not reveal any personally identifiable information in these instances. 
-
-**What choices are available regarding collection, use and distribution of the information (Opt Out Policy)?**
-
-As previously noted, you may always choose to not provide us with any of the information we request; however, this may limit our ability to provide you with a specific service or limit our ability to offer personalized content. 
-
-To learn more about the collection of information by third party advertising networks, including how to opt out of such collection, see the links below. 
-
-To opt out of collection by AlmondNet, please visit: http://www.almondnet.com/privacy.aspx?miid=7&artid=52 
-
-To opt out of collection by Revenue Science, Inc., please visit: http://www.networkadvertising.org/optout_nonppii.asp 
-
-To opt out of collection by 24/7 Real Media, please visit: http://www.247realmedia.com/opt-out.html 
-
-**How can I update or correct my information?**
-
-Bid4Keywords.com does not currently have a method for users to change their user information. In the case of personalized services, you will be able to modify your user information through personalization links on those pages. 
-
-**How can I delete my information?**
-
-Bid4Keywords.com currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some Bid4Keywords.com services. 
-
-**What procedures have been designed to protect the loss, misuse or alteration of information under Bid4Keywords.com's control?**
-
-Except as otherwise stated in this privacy policy, Bid4Keywords.com has taken measures to ensure that information that is not publicly available through its site is accessible only to the user who initially entered the information or to authorized personnel at Bid4Keywords.com or its partners, and only after a password has been entered. In the unlikely event of a security breach for which we provide notice under Cal. Civ. Code § 1798.82, Bid4Keywords will send a notification to the email address on file (if any) for each relevant user informing him or her of the security breach. 
-
-**What about privacy policies for sites to which Bid4Keywords.com links?**
-
-Bid4Keywords.com contains many links to Web sites not controlled by Bid4Keywords.com. These sites have their own policies and practices with respect to online privacy, and Bid4Keywords.com cannot be responsible for the privacy practices or the content of these Web sites. In addition, in certain instances a Bid4Keywords.com advertiser may ask you for personal information. Bid4Keywords.com cannot be responsible for the privacy practices of its advertisers. 
-
-**What happens to my information if Bid4Keywords.com merges with or its assets are sold to another company?**
-
-It is possible that Bid4Keywords.com and/or any of our assets may be acquired. In such a transaction, user information may be transferred to the acquiring entity. While we will endeavor to require the successor company to maintain this privacy policy, we cannot guarantee that our policy will remain in effect. 
-
-**Notification of Changes**
-
-This policy may be revised over time as new features are added to the site. We will post our new privacy policy, along with the date of its last revision, prominently so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone. Please check this page for information about revisions to our privacy policy. 
-
-**Contact Information**
-
-If you have any questions about this privacy policy or about Bid4Keywords.com information collection practices, please contact us at copyright@Bid4Keywords.com. 
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at copyright@AdMedia.com.
