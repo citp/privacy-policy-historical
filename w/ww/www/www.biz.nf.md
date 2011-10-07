@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www.biz.nf privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120033804id_/http%3A//biz.nf/terms.html%3Ftype%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.biz.nf privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007082413id_/http%3A//biz.nf/terms.html%3Ftype%3Dprivacy_policy) for the most accurate reproduction.*
 
 # >Terms of Services of Biz.nf FREE web hosting, No Banner Ads
 
