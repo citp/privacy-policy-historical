@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the happili.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520034346id_/http%3A//www.happili.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happili.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007202110id_/http%3A//www.happili.com/inner.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Happili
+# Happili - privacy_policy
 
 We at LJC Media are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites. 
 
