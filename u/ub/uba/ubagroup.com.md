@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubagroup.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427124644id_/http%3A//www.ubagroup.com/page/generic/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubagroup.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008005832id_/http%3A//www.ubagroup.com/page/generic/45) for the most accurate reproduction.*
 
 # UBA Group :: Fraud Alert :: UBA Privacy Policy
 
