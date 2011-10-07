@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the vitapowered.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105025003id_/http%3A//vitapowered.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitapowered.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007211624id_/http%3A//vitapowered.com/privacy.asp) for the most accurate reproduction.*
 
-# pan Powered - privacy policy
+# Privacy Policy - pan Powered
 
 |   
 ---  
 |  |  |   
 ---  
-|  | 
+| 
 
-**_pan_** considers privacy with the utmost of seriousness and is strongly committed to protecting the privacy of visitors and users of our site and services.  
+pan considers privacy with the utmost of seriousness and is strongly committed to protecting the privacy of visitors and users of our site and services.  
   
 **Safe Harbor Data Privacy Notice** **
 
 Performance Assessment Network, Inc.
 
-** (" _ **pan**_ ") adheres to the Safe Harbor Principles published by the U.S. Department of Commerce (the "Safe Harbor Principles") with respect to personal information (as defined below) it receives from the European Union.
+** ("pan") adheres to the Safe Harbor Principles published by the U.S. Department of Commerce (the "Safe Harbor Principles") with respect to personal information (as defined below) it receives from the European Union.
 
 This notice outlines our general policy and practices for implementing the Safe Harbor Principles, including the type of information to which this notice applies, how we use personal information, and the choices individuals have regarding our use of, and their ability to correct, that personal information. If there is any conflict between the policies in this notice and the Safe Harbor Principles, the Safe Harbor Principles will govern. 
 
@@ -46,7 +46,7 @@ We notify individuals about the personal information we collect from them, how w
 
 
 
-We will comply with the Safe Harbor Principles with respect to disclosures of sensitive information, including, when applicable, obtaining the explicit consent of the individual prior to disclosing sensitive information to a third party or using sensitive information for purposes other than those for which it was originally collected or subsequently authorized by the individual. Transfers of information permitted under this notice, either to third parties or within **_pan_** , include the transfer of data from one jurisdiction to another, such as transfers to and from the United States of America.
+We will comply with the Safe Harbor Principles with respect to disclosures of sensitive information, including, when applicable, obtaining the explicit consent of the individual priors to disclosing sensitive information to a third party or using sensitive information for purposes other than those for which it was originally collected or subsequently authorized by the individual. Transfers of information permitted under this notice, either to third parties or within **_pan_** , include the transfer of data from one jurisdiction to another, such as transfers to and from the United States of America.
 
 **Data Security, Integrity, and Access  
 **We employ physical, electronic, and managerial measures, including education and training of our personnel, designed to provide the personal information in our possession with reasonable protection from accidental loss or destruction, improper use, alteration, or disclosure. Personal information collected or displayed through a Web site is protected in transit by industry standard encryption processes. However, we cannot guarantee the security of personal information accessible on or transmitted via the Internet.
@@ -64,6 +64,6 @@ With respect to any dispute relating to this notice that cannot be resolved thro
 We may amend this notice from time to time by posting a revised notice on this Web site, or a similar Web site that replaces this Web site. If we amend the notice, the new notice will apply to personal information previously collected only insofar as the rights of the individual affected are not reduced. So long as we profess to adhere to the Safe Harbor Principles, we will not amend this notice in a manner inconsistent with the Safe Harbor Principles.
 
 **Information Subject to Other Policies  
-**We are committed to following the Safe Harbor Principles for all personal information, as that term is defined herein. Other information we receive may be subject to policies that may differ in some respects from the policies set forth in this notice. Certain of our Web sites have their own privacy policies that apply specifically to those Web sites. Those policies may be accessed through the Web sites in question. Information relating to present or former **_pan_** personnel is subject to our policies concerning personnel data privacy, which are available to present and former **_pan_** personnel upon request. Information obtained from or relating to clients or former clients is further subject to the terms of any privacy commitment made to the client, any agreements with the client, and/or any applicable laws and professional standards. 
+**We are committed to following the Safe Harbor Principles for all personal information, as that term is defined herein. Other information we receive may be subject to policies that may differ in some respects from the policies set forth in this notice. Certain of our Web sites have their own privacy policies that apply specifically to those Web sites. Those policies may be accessed through the Web sites in question. Information relating to present or former pan personnel is subject to our policies concerning personnel data privacy, which are available to present and former pan personnel upon request. Information obtained from or relating to clients or former clients is further subject to the terms of any privacy commitment made to the client, any agreements with the client, and/or any applicable laws and professional standards. 
 
 | 
