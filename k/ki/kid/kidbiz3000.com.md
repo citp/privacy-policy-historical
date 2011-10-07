@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523182823id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidbiz3000.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007091529id_/http%3A//www.achieve3000.com/article/a3k/%3Fc%3D13) for the most accurate reproduction.*
 
 # Achieve3000 | Differentiated Instruction
 
