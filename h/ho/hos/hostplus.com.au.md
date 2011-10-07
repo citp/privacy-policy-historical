@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218132611id_/http%3A//www.hostplus.com.au/system-items/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostplus.com.au privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007192235id_/http%3A//hostplus.com.au/system-items/footer/privacy-policy) for the most accurate reproduction.*
 
 # HOSTPLUS - Privacy Policy
 
@@ -110,8 +110,8 @@ You have a right to ask us to correct any information we hold about you if you b
 
 Privacy Officer  
 HOST **PLUS**   
-Locked Bag 999   
-Carlton South Vic 305 
+Locked Bag 3  
+Carlton South Vic 3053 
 
 If our privacy officer is unable to resolve your complaint, you may lodge a complaint with the Privacy Commissioner. 
 
