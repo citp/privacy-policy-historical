@@ -1,51 +1,234 @@
-<!--The following is the downloaded HTML source of the footballfancast.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231095014id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the footballfancast.com privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007094303id_/http%3A//www.footballfancast.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<!--10 queries-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!--22 queries-->
 
 <title>Privacy Policy | FootballFanCast.com</title>
 
 
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="/wp-content/themes/ffc-theme/style.css">
+<link rel="stylesheet" type="text/css" href="/wp-content/themes/ffc-theme/style.css?v=1.6">
+<link rel="stylesheet" type="text/css" href="http://www.footballfancast.com/wp-content/themes/ffc-theme/css/buddypress.css?v=1">
 
 <link rel="alternate" type="application/rss+xml" title="RSS Feed" href="/feed">
 <link href="/wp-content/themes/ffc-theme/images/favicon.ico" rel="icon" type="image/x-icon">
 
 
-<script type="text/javascript" src="http://cdn.jquerytools.org/1.2.3/jquery.tools.min.js"></script>
-<script type="text/javascript" src="/wp-content/themes/ffc-theme/js/ffc.js"></script>
+
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 
 <script type="text/javascript">
-$(document).ready(function(){$(".prem_widget [title]").tooltip({delay:0,offset:[-5, 0]});$('#team_blurb').hide();$('div.tabbed div.tabcontent').hide();$('div.t1').show();$('div.tabbed ul.tabs li.t1 a').addClass('tab-current');$('div.tabbed ul.tabs li a').click(function(){var thisClass=$(this).attr('id');$('div.t1').hide();$('div.t2').hide();$('div.t3').hide();$('div.'+thisClass).show();$('div.tabbed ul.tabs li a').removeClass('tab-current');$(this).addClass('tab-current');return false;});$('div.tabbed3 div.tabcontent').hide();$('div.t6').show();$('div.tabbed3 ul.tabs li.t6 a').addClass('tab-current');$('div.tabbed3 ul.tabs li a').click(function(){var thisClass=$(this).attr('id');$('div.t6').hide();$('div.t7').hide();$('div.'+thisClass).show();$('div.tabbed3 ul.tabs li a').removeClass('tab-current');$(this).addClass('tab-current');return false;});$(".comments").hide();$('.psc').hide();
-$('#pps_1').show();
-$('.ps').click(function(){
-var psid = $(this).attr('id');
-$('.psc').hide();
-$('#p' + psid).show();
-$('#pane_part').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});
+$(document).ready(function(){
+
+$('#scorecast_nav li.current_league ul').show();
+
+$('.sc_navheader').click(function(){
+if($(this).parent().hasClass('current_league')){
+} else {
+$('#scorecast_nav li').removeClass('current_league');
+var theli = $(this).attr('rel');
+$('#' +theli).addClass('current_league');
+$('ul#scorecast_nav li ul').hide();
+$('#' +theli + ' ul').show();
+}
 return false;
 });
+});
+</script>
+
+
+<script type="text/javascript" src="http://cdn.jquerytools.org/1.2.3/jquery.tools.min.js"></script>  
+
+<script type="text/javascript" lang="javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=2_GbhSX3d2eccJn2PHr-SLUHyu3hIK2Ny9hWLmo27SDs_q_q4dqUzcXF61UZC5pHtl"></script>
+
+<script type="text/javascript">
+
+var conf = {  
+APIKey: '2_GbhSX3d2eccJn2PHr-SLUHyu3hIK2Ny9hWLmo27SDs_q_q4dqUzcXF61UZC5pHtl',
+enabledProviders: "facebook,twitter,yahoo,messenger,google,linkedin,myspace,aol"   
+};
+
+$(document).ready(function(){
+//alert('test');
+
+
+
+
+
+		function onError(event) {
+		    alert('An error has occured' + ': ' + event.errorCode + '; ' + event.errorMessage);
+		}
+
+		function poll_showShareUI(operationMode,question,answer,poll_id) {
+		    var act = new gigya.services.socialize.UserAction();
+		    act.setUserMessage("");
+
+		    act.setTitle(question);
+		    act.setDescription("I answered '"+answer+"' in the opinion poll '"+question+"' on FootballFanCast.com");
+
+		    act.setLinkBack("http://www.footballfancast.com/poll/"+poll_id);
+
+		    // Adding Action Link
+		    act.addActionLink("Have your say!", 
+		        "http://www.footballfancast.com/poll/"+poll_id);
+
+	        var image = {
+                src: 'http://www.footballfancast.com/apple-touch-icon.png',
+                previewImageURL: 'http://www.footballfancast.com/apple-touch-icon.png',
+                type: 'image'
+	        }
+	        act.addMediaItem(image);
+
+			// Parameters for the showShareUI method, including the UserAction object
+			var params = 
+			{
+			    userAction: act,operationMode: operationMode,onError: onError,onSendDone: poll_onSendDone,context: operationMode, showMoreButton: true, showEmailButton: true 
+
+			};
+
+			// Show the "Share" dialog
+			gigya.services.socialize.showShareUI(conf, params);
+
+		}
+				
+
+		function poll_onSendDone(event)
+		{
+		
+		}
+
+
+
+$('#team_blurb').hide();
+
+$('.PSR_no_voting_star').click(function(){
+var rating = $(this).html();
+var img_src = $('.storycontent img:first').attr('src');
+rating_showShareUI('multiSelect',rating,img_src);
+return true;
+});
+
+
+
+$('.wp-polls-form .Buttons').click(function(){
+var poll_ans = $('.wp-polls-form input:radio:checked').next('label').html();
+var poll_q = $('.wp-polls-form .poll_question strong').html();
+var poll_id = $('.poll_question a').attr('rel');
+
+if(poll_ans && poll_q && poll_id){
+poll_showShareUI('multiSelect',poll_q,poll_ans,poll_id);
+}
+return true;
+});
+
+
+
+
+if( $('#comment_share_on').hasClass('comsharon') ){
+var com_id = $('#comment_share_on').attr('rel');
+var img_src = $('.storycontent img:first').attr('src');
+var com_text = $('#comment-'+com_id+' .com_text_gigya').html();
+var commenter = $('#comment-'+com_id+' .commenter_gigya').html();
+comment_showShareUI('multiSelect',com_text,commenter,img_src);
+}
+
+$('.share_comment a').click(function(){
+var com_id = $(this).attr('rel');
+var img_src = $('.storycontent img:first').attr('src');
+var com_text = $('#comment-'+com_id+' .com_text_gigya').html();
+var commenter = $('#comment-'+com_id+' .commenter_gigya').html();
+comment_showShareUI('multiSelect',com_text,commenter,img_src);
+return false;
+});
+
+
+
 $(".team_dd_select").change(function(){
-var slug = $(this).attr('value');
+var slug = $(this).val();
 window.location = "/"+slug;
 });
+
 $(".newspost").click(function(){
 var news_click = $(".newstitle a").attr('href');
 window.location = news_click;
 });
-});
 
-$(function(){
-$('#pane2').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane3').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane4').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane1').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane5').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane_forum').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane_pcasts').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane_twit').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$('#pane_part').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});
+
+
 });
 </script>
 
-<link rel="alternate" type="application/rss+xml" title="FootballFanCast.com » Privacy Policy Comments Feed" href="http://www.footballfancast.com/privacy-policy/feed">
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-4121406740932347");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddAttr("pageURL", "-privacy-policy");
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_FoxPop");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_Gallery_MPU");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_InBlog_MPU");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_ROS_LDB");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_ROS_MPU");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_ROS_SKY");
+GA_googleAddSlot("ca-pub-4121406740932347", "Budwiser_Test_1x1");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_ROS_Promo");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_Overlay");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_MEC-Tracker");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_Article_MPU");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_ROS_SKY_2");
+GA_googleAddSlot("ca-pub-4121406740932347", "FootballFancast_LocalAds");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+		
+			<script language="javascript" type="text/javascript" src="http://www.footballfancast.com/wp-content/plugins/bp-tinymce/tiny_mce/tiny_mce.js"></script>
+			<script language="javascript" type="text/javascript" src="http://www.footballfancast.com/wp-content/plugins/bp-tinymce/tiny_mce/langs/wp-langs-en.js"></script>			
+      
+			<script language="javascript" type="text/javascript">
+			   tinyMCE.init( {
+                        mode : "specific_textareas", 
+                        editor_deselector: "ac-input", 
+                        force_br_newlines : true, 
+                        force_p_newlines : false, 
+                        language : "wp-langs-en", 
+                        theme : "advanced", 
+                        theme_advanced_buttons1 : "bold,italic,bullist,numlist,link,unlink", 
+                        theme_advanced_buttons2 : "", 
+                        theme_advanced_buttons3 : "", 
+                        language : "en",
+                        theme_advanced_toolbar_location : "top", 
+                        theme_advanced_toolbar_align : "left"
+                      });                                                                                 						        
+      </script>
+			<link rel="alternate" type="application/rss+xml" title="FootballFanCast.com » Privacy Policy Comments Feed" href="http://www.footballfancast.com/privacy-policy/feed">
+<link rel="stylesheet" id="bp-css-css" href="http://www.footballfancast.com/wp-content/plugins/bp-template-pack/bp.css?ver=3.2.1" type="text/css" media="all">
 <link rel="stylesheet" id="wp-polls-css" href="http://www.footballfancast.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
-<script type="text/javascript" src="http://www.footballfancast.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
-<script type="text/javascript" src="http://www.footballfancast.com/wp-content/plugins/pods/ui/js/pods.ui.js?ver=3.0.4"></script>
+<link rel="stylesheet" id="subzane_youtube_plugin-css" href="http://www.footballfancast.com/wp-content/plugins/subzane-youtube-recent-videos-widget/style.css?ver=3.2.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.footballfancast.com/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js?ver=3.2.1"></script>
+<script type="text/javascript" src="http://www.footballfancast.com/wp-content/plugins/bp-tinymce/bp-tinymce-js.js?ver=3.2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var BP_DTheme = {
+	my_favs: "My Favorites",
+	accepted: "Accepted",
+	rejected: "Rejected",
+	show_all_comments: "Show all comments for this thread",
+	show_all: "Show all",
+	comments: "comments",
+	close: "Close",
+	mention_explain: "@ is a unique identifier for  that you can type into any message on this site.  will be sent a notification and a link to your message any time you use it."
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.footballfancast.com/wp-content/plugins/buddypress/bp-themes/bp-default/_inc/global.js?ver=3.2.1"></script>
 <link rel="prev" title="FAQ’s" href="http://www.footballfancast.com/faqs">
 <link rel="next" title="Terms and Conditions" href="http://www.footballfancast.com/terms-and-conditions">
 
@@ -53,11 +236,65 @@ $('#pane2').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$(
 <link rel="stylesheet" href="http://www.footballfancast.com/wp-content/plugins/affiliatewindow/affiliatewindow.css" type="text/css" media="screen">
 <!-- End Of AW CSS -->
 
-<!-- All in One SEO Pack 1.6.13 by Michael Torbert of Semper Fi Web Design[197,240] -->
+<!-- All in One SEO Pack 1.6.13.3 by Michael Torbert of Semper Fi Web Design[273,321] -->
 <meta name="description" content="***Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every">
 <link rel="canonical" href="http://www.footballfancast.com/privacy-policy">
 <!-- /all in one seo pack -->
-<!-- BBpress Latest Discussions v1.7.2: http://forums.atsutane.net/forum/bbpress-latest-discussion --><link rel="stylesheet" href="http://www.footballfancast.com/wp-content/plugins/digg-digg/include/../css/diggdigg-style.css?ver=4.5.0.3" type="text/css" media="screen"><!-- Pods CMS 1.9.4 -->
+
+	<script type="text/javascript">var ajaxurl = "http://www.footballfancast.com/wp-load.php";</script>
+
+<link rel="stylesheet" href="http://www.footballfancast.com/wp-content/plugins/digg-digg/include/../css/diggdigg-style.css?ver=4.5.3.3" type="text/css" media="screen">
+<style type="text/css">
+.forminput{
+width:216px;
+border:1px solid #cccccc;
+padding:3px 6px;
+font-size:14px;
+color: #333333;
+}
+#gigya_content form {
+border:0;
+padding:0;
+margin:0;
+}
+#gigya_content{
+width:520px;
+}
+#gigyaframe {
+background: #FFFFFF;
+color: #000;
+    border: 1px solid #CCCCCC;
+    left: 50%;
+    margin-left: -260px;
+    padding: 30px;
+    position: absolute;
+    top: 180px;
+    width: 520px;
+    z-index: 999;
+-webkit-border-radius:20px;
+-moz-border-radius:20px;
+text-align:left;
+}
+#gigyaframe a {
+color: #005000;
+}
+#gigya_mask {
+width: 100%;
+height:100%;
+background: #000000;
+position:absolute;
+z-index:998;
+top:0;
+left:0;
+opacity:0.8;filter:alpha(opacity=80);
+}
+.link_error, .reg_error{
+color: #cc0000;
+}
+.link_error p, .reg_error p{
+margin-bottom:10px;
+}
+</style>
 <style type="text/css">
 .wp-polls .pollbar {
 	margin: 1px;
@@ -69,72 +306,103 @@ $('#pane2').jScrollPane({showArrows:true, scrollbarWidth: 15, arrowSize: 16});$(
 }
 </style>
 
+	<script type="text/javascript"> jQuery(document).ready( function() { jQuery("a.confirm").click( function() { if ( confirm( 'Are you sure?' ) ) return true; else return false; }); });</script>
+
+<!-- wp thread comment 1.4.9.4.002 -->
+<style type="text/css" media="screen">
+.editComment, .editableComment, .textComment{
+	display: inline;
+}
+.comment-childs{
+	border: 1px solid #999;
+	margin: 5px 2px 2px 4px;
+	padding: 4px 2px 2px 4px;
+	background-color: white;
+}
+.chalt{
+	background-color: #E2E2E2;
+}
+#newcomment{
+	border:1px dashed #777;width:90%;
+}
+#newcommentsubmit{
+	color:red;
+}
+.adminreplycomment{
+	border:1px dashed #777;
+	width:99%;
+	margin:4px;
+	padding:4px;
+}
+.mvccls{
+	color: #999;
+}
+			
+</style>
+
+<script type="text/javascript" src="/wp-content/themes/ffc-theme/js/ffc.js"></script>
+<script type="text/javascript" src="/wp-content/themes/ffc-theme/js/captify.tiny.js"></script>
+
+<link rel="stylesheet" href="/wp-content/themes/ffc-theme/js/prettyphoto/css/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
+<script src="/wp-content/themes/ffc-theme/js/prettyphoto/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
+
+<script type="text/javascript" src="/wp-content/themes/ffc-theme/js/ffc_colated_js.js"></script>
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+$('.must_be_logged_in').click(function(){
+//alert('test');
+$('.mbli_message').html('You must be logged in to do that!<br />Please either <a href="http://www.footballfancast.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.footballfancast.com%2Fprivacy-policy" title="Login">Login</a> or <a href="http://www.footballfancast.com/wp-login.php?action=register">Register</a>.');
+$('.mbli_message').show(300);
+return false;
+});
+});
+</script>
+
+
 
 </head>
-<body>
+<body class="page page-id-18160 page-template-default">
+
+
 
 <div id="header_ads">
 <div id="header_ads_inner">
 
-<script language="JavaScript" type="text/javascript">
-var now = new Date();
-var nIndex = now.getTime();
-document.write('<s' + 'cript src="http://www.utarget.co.uk/scriptinject.aspx?h=2065&nocache=' + nIndex + '">');
-document.write('</' + 's' + 'cript>');
-</script><script src="http://www.utarget.co.uk/scriptinject.aspx?h=2065&amp;nocache=1580390764504"></script>
+
 
 <div id="leaderboard">
 
+<script type="text/javascript">
+GA_googleFillSlot("FootballFancast_ROS_LDB");
+</script>
 
-<iframe id="aff6cb90" name="aff6cb90" src="http://fancastmedia.co.uk/openx/www/delivery/afr.php?zoneid=30&amp;cb=3495874358" frameborder="0" scrolling="no" width="728" height="90"><a href='http://fancastmedia.co.uk/openx/www/delivery/ck.php?n=a3f8e6f6&amp;cb=3495874358' target='_blank'><img src='http://fancastmedia.co.uk/openx/www/delivery/avw.php?zoneid=30&amp;cb=3495874358&amp;n=a3f8e6f6' border='0' alt='' /></a></iframe>
+</div>
 
 
+<div style="width:266px; float:right;">
+
+<!-- FootballFancast_ROS_Promo -->
+<script type="text/javascript">
+GA_googleFillSlot("FootballFancast_ROS_Promo");
+</script>
 
 </div>
 
 
-
-<div id="header_270">
-<table width="270"><tbody>
-<tr>
-<td colspan="2" align="center" style="padding-top: 10px; font-size: 10px; font-weight: bold;">
-AS FEATURED ON
-</td>
-</tr><tr>
-<td valign="middle" align="center" style="padding-top: 5px;">
-<a href="http://www.footballfancast.com/sky-news">
-<img src="http://www.footballfancast.com/ads/skylogo.jpg">
-</a>
-</td><td valign="middle" align="center" style="padding-top: 5px;">
-<a href="http://www.footballfancast.com/press">
-<img src="http://www.footballfancast.com/ads/fourfourtwologo.jpg">
-</a>
-</td>
-</tr></tbody></table>
-
-</div>
-
 </div>
 </div>
 
-<div id="green_strip">
-<div id="green_strip_inner">
 
-<div class="header1-left">
-</div>
-
-<div class="header1-right">
-<a href="http://www.footballfancast.com/wp-login.php?action=register">Register</a> | <a href="http://www.footballfancast.com/wp-login.php">Log in</a> | December 31<sup>st</sup>, 2010		
-</div>
-
-</div>
-</div>
 <div class="rap">
 <div class="rap_inner">
 <div id="header">
 
 <div id="header_left">
-<a href="/"><img src="/wp-content/themes/ffc-theme/images/footballFanCast_logo.jpg" alt="Football FanCast - Real Fans, Real Opinions" width="495" height="71"></a>
+<a href="/"><img src="/wp-content/themes/ffc-theme/images/FFC_logo.png" alt="Football FanCast - Real Fans, Real Opinions" width="600" height="64"></a>
 </div>
 
 <div id="header_right">
@@ -156,7 +424,7 @@ AS FEATURED ON
 <form action="" method="POST" class="team_dd_form">
 <select class="team_dd_select">
 <option value="0" selected="selected">Select a team</option>
-<option class="league_dd" value="premiership">Premier League</option><option class="team_dd" value="premiership/arsenal">Arsenal</option><option class="team_dd" value="premiership/aston-villa">Aston Villa</option><option class="team_dd" value="premiership/birmingham-city">Birmingham City</option><option class="team_dd" value="premiership/blackburn-rovers">Blackburn Rovers</option><option class="team_dd" value="premiership/blackpool">Blackpool</option><option class="team_dd" value="premiership/bolton-wanderers">Bolton Wanderers</option><option class="team_dd" value="premiership/chelsea">Chelsea</option><option class="team_dd" value="premiership/everton">Everton</option><option class="team_dd" value="premiership/fulham">Fulham</option><option class="team_dd" value="premiership/liverpool">Liverpool</option><option class="team_dd" value="premiership/manchester-city">Manchester City</option><option class="team_dd" value="premiership/manchester-united">Manchester United</option><option class="team_dd" value="premiership/newcastle-united">Newcastle United</option><option class="team_dd" value="premiership/stoke-city">Stoke City</option><option class="team_dd" value="premiership/sunderland">Sunderland</option><option class="team_dd" value="premiership/tottenham-hotspur">Tottenham Hotspur</option><option class="team_dd" value="premiership/west-bromwich-albion">West Bromwich Albion</option><option class="team_dd" value="premiership/west-ham-united">West Ham United</option><option class="team_dd" value="premiership/wigan-athletic">Wigan Athletic</option><option class="team_dd" value="premiership/wolverhampton-wanderers">Wolverhampton Wanderers</option><option class="league_dd" value="championship">Championship</option><option class="team_dd" value="championship/barnsley">Barnsley</option><option class="team_dd" value="championship/bristol-city">Bristol City</option><option class="team_dd" value="championship/burnley">Burnley</option><option class="team_dd" value="championship/cardiff">Cardiff</option><option class="team_dd" value="championship/coventry">Coventry</option><option class="team_dd" value="championship/crystal-palace">Crystal Palace</option><option class="team_dd" value="championship/derby-county">Derby County</option><option class="team_dd" value="championship/doncaster-rovers">Doncaster Rovers</option><option class="team_dd" value="championship/hull-city">Hull City</option><option class="team_dd" value="championship/ipswich-town">Ipswich Town</option><option class="team_dd" value="championship/leeds-united">Leeds United</option><option class="team_dd" value="championship/leicester-city">Leicester City</option><option class="team_dd" value="championship/middlesbrough">Middlesbrough</option><option class="team_dd" value="championship/millwall">Millwall</option><option class="team_dd" value="championship/norwich">Norwich</option><option class="team_dd" value="championship/nottingham-forest">Nottingham Forest</option><option class="team_dd" value="championship/portsmouth">Portsmouth</option><option class="team_dd" value="championship/preston-north-end">Preston North End</option><option class="team_dd" value="championship/qpr">Queens Park Rangers</option><option class="team_dd" value="championship/reading">Reading</option><option class="team_dd" value="championship/scunthorpe">Scunthorpe</option><option class="team_dd" value="championship/sheffield-united">Sheffield United</option><option class="team_dd" value="championship/swansea">Swansea</option><option class="team_dd" value="championship/watford">Watford</option><option class="league_dd" value="scottish-premier-league">SPL</option><option class="team_dd" value="scottish-premier-league/celtic">Celtic</option><option class="team_dd" value="scottish-premier-league/rangers">Rangers</option><option class="league_dd" value="bundesliga">Bundesliga</option><option class="league_dd" value="la-liga">La Liga</option><option class="team_dd" value="la-liga/almeria">Almeria</option><option class="team_dd" value="la-liga/athletic-bilbao">Athletic Bilbao</option><option class="team_dd" value="la-liga/atletico-madrid">Atletico Madrid</option><option class="team_dd" value="la-liga/barcelona">Barcelona</option><option class="team_dd" value="la-liga/deportivo-la-coruna">Deportivo La Coruna</option><option class="team_dd" value="la-liga/espanyol">Espanyol</option><option class="team_dd" value="la-liga/getafe">Getafe</option><option class="team_dd" value="la-liga/hercules">Hercules</option><option class="team_dd" value="la-liga/levante">Levante</option><option class="team_dd" value="la-liga/malaga">Malaga</option><option class="team_dd" value="la-liga/osasuna">Osasuna</option><option class="team_dd" value="la-liga/racing-santander">Racing Santander</option><option class="team_dd" value="la-liga/real-madrid">Real Madrid</option><option class="team_dd" value="la-liga/real-mallorca">Real Mallorca</option><option class="team_dd" value="la-liga/real-sociedad">Real Sociedad</option><option class="team_dd" value="la-liga/real-zaragoza">Real Zaragoza</option><option class="team_dd" value="la-liga/sevilla">Sevilla</option><option class="team_dd" value="la-liga/sporting-gijon">Sporting Gijon</option><option class="team_dd" value="la-liga/valencia">Valencia</option><option class="team_dd" value="la-liga/villarreal">Villarreal</option><option class="league_dd" value="serie-a">Serie A</option><option class="team_dd" value="serie-a/ac-milan">AC Milan</option><option class="team_dd" value="serie-a/bari">Bari</option><option class="team_dd" value="serie-a/bologna">Bologna</option><option class="team_dd" value="serie-a/brescia">Brescia</option><option class="team_dd" value="serie-a/cagliari">Cagliari</option><option class="team_dd" value="serie-a/catania">Catania</option><option class="team_dd" value="serie-a/cesena">Cesena</option><option class="team_dd" value="serie-a/chievo">Chievo</option><option class="team_dd" value="serie-a/fiorentina">Fiorentina</option><option class="team_dd" value="serie-a/genoa">Genoa</option><option class="team_dd" value="serie-a/inter-milan">Inter Milan</option><option class="team_dd" value="serie-a/juventus">Juventus</option><option class="team_dd" value="serie-a/lazio">Lazio</option><option class="team_dd" value="serie-a/lecce">Lecce</option><option class="team_dd" value="serie-a/napoli">Napoli</option><option class="team_dd" value="serie-a/palermo">Palermo</option><option class="team_dd" value="serie-a/parma">Parma</option><option class="team_dd" value="serie-a/roma">Roma</option><option class="team_dd" value="serie-a/sampdoria">Sampdoria</option><option class="team_dd" value="serie-a/udinese">Udinese</option><option class="league_dd" value="league-1">League 1</option><option class="league_dd" value="league-2">League 2</option><option class="league_dd" value="champions-league">Champions League</option><option class="league_dd" value="europa-league">Europa League</option><option class="league_dd" value="fa-cup">FA Cup</option><option class="league_dd" value="carling-cup">Carling Cup</option></select>
+<option class="league_dd" value="premiership">Premier League</option><option class="team_dd" value="team/arsenal">Arsenal</option><option class="team_dd" value="team/aston-villa">Aston Villa</option><option class="team_dd" value="team/blackburn-rovers">Blackburn Rovers</option><option class="team_dd" value="team/bolton-wanderers">Bolton Wanderers</option><option class="team_dd" value="team/chelsea">Chelsea</option><option class="team_dd" value="team/everton">Everton</option><option class="team_dd" value="team/fulham">Fulham</option><option class="team_dd" value="team/liverpool">Liverpool</option><option class="team_dd" value="team/manchester-city">Manchester City</option><option class="team_dd" value="team/manchester-united">Manchester United</option><option class="team_dd" value="team/newcastle-united">Newcastle United</option><option class="team_dd" value="team/norwich-city">Norwich City</option><option class="team_dd" value="team/qpr">Queens Park Rangers</option><option class="team_dd" value="team/stoke-city">Stoke City</option><option class="team_dd" value="team/sunderland">Sunderland</option><option class="team_dd" value="team/swansea-city">Swansea City</option><option class="team_dd" value="team/tottenham-hotspur">Tottenham Hotspur</option><option class="team_dd" value="team/west-bromwich-albion">West Bromwich Albion</option><option class="team_dd" value="team/wigan-athletic">Wigan Athletic</option><option class="team_dd" value="team/wolverhampton-wanderers">Wolverhampton Wanderers</option><option class="league_dd" value="championship">Championship</option><option class="team_dd" value="team/barnsley">Barnsley</option><option class="team_dd" value="team/birmingham-city">Birmingham City</option><option class="team_dd" value="team/blackpool">Blackpool</option><option class="team_dd" value="team/brighton-hove-albion">Brighton &amp; Hove Albion</option><option class="team_dd" value="team/bristol-city">Bristol City</option><option class="team_dd" value="team/burnley">Burnley</option><option class="team_dd" value="team/cardiff">Cardiff City</option><option class="team_dd" value="team/coventry">Coventry City</option><option class="team_dd" value="team/crystal-palace">Crystal Palace</option><option class="team_dd" value="team/derby-county">Derby County</option><option class="team_dd" value="team/doncaster-rovers">Doncaster Rovers</option><option class="team_dd" value="team/hull-city">Hull City</option><option class="team_dd" value="team/ipswich-town">Ipswich Town</option><option class="team_dd" value="team/leeds-united">Leeds United</option><option class="team_dd" value="team/leicester-city">Leicester City</option><option class="team_dd" value="team/middlesbrough">Middlesbrough</option><option class="team_dd" value="team/millwall">Millwall</option><option class="team_dd" value="team/nottingham-forest">Nottingham Forest</option><option class="team_dd" value="team/peteborough">Peterborough United</option><option class="team_dd" value="team/portsmouth">Portsmouth</option><option class="team_dd" value="team/reading">Reading</option><option class="team_dd" value="team/southampton">Southampton</option><option class="team_dd" value="team/watford">Watford</option><option class="team_dd" value="team/west-ham">West Ham United</option><option class="league_dd" value="scottish-premier-league">SPL</option><option class="team_dd" value="team/aberdeen">Aberdeen</option><option class="team_dd" value="team/celtic">Celtic</option><option class="team_dd" value="team/dundee-united">Dundee United</option><option class="team_dd" value="team/dunfermline-athletic">Dunfermline Athletic</option><option class="team_dd" value="team/heart-of-midlothian">Heart of Midlothian</option><option class="team_dd" value="team/hibernian">Hibernian</option><option class="team_dd" value="team/inverness-caledonian-thistle">Inverness Caledonian Thistle</option><option class="team_dd" value="team/kilmarnock">Kilmarnock</option><option class="team_dd" value="team/motherwell">Motherwell</option><option class="team_dd" value="team/rangers">Rangers</option><option class="team_dd" value="team/st-johnstone">St Johnstone</option><option class="team_dd" value="team/st-mirren">St Mirren</option><option class="league_dd" value="bundesliga">Bundesliga</option><option class="league_dd" value="la-liga">La Liga</option><option class="team_dd" value="team/almeria">Almeria</option><option class="team_dd" value="team/athletic-bilbao">Athletic Bilbao</option><option class="team_dd" value="team/atletico-madrid">Atletico Madrid</option><option class="team_dd" value="team/barcelona">Barcelona</option><option class="team_dd" value="team/deportivo-la-coruna">Deportivo La Coruna</option><option class="team_dd" value="team/espanyol">Espanyol</option><option class="team_dd" value="team/getafe">Getafe</option><option class="team_dd" value="team/hercules">Hercules</option><option class="team_dd" value="team/levante">Levante</option><option class="team_dd" value="team/malaga">Malaga</option><option class="team_dd" value="team/osasuna">Osasuna</option><option class="team_dd" value="team/racing-santander">Racing Santander</option><option class="team_dd" value="team/real-madrid">Real Madrid</option><option class="team_dd" value="team/real-mallorca">Real Mallorca</option><option class="team_dd" value="team/real-sociedad">Real Sociedad</option><option class="team_dd" value="team/real-zaragoza">Real Zaragoza</option><option class="team_dd" value="team/sevilla">Sevilla</option><option class="team_dd" value="team/sporting-gijon">Sporting Gijon</option><option class="team_dd" value="team/valencia">Valencia</option><option class="team_dd" value="team/villarreal">Villarreal</option><option class="league_dd" value="serie-a">Serie A</option><option class="team_dd" value="team/ac-milan">AC Milan</option><option class="team_dd" value="team/bari">Bari</option><option class="team_dd" value="team/bologna">Bologna</option><option class="team_dd" value="team/brescia">Brescia</option><option class="team_dd" value="team/cagliari">Cagliari</option><option class="team_dd" value="team/catania">Catania</option><option class="team_dd" value="team/cesena">Cesena</option><option class="team_dd" value="team/chievo">Chievo</option><option class="team_dd" value="team/fiorentina">Fiorentina</option><option class="team_dd" value="team/genoa">Genoa</option><option class="team_dd" value="team/inter-milan">Inter Milan</option><option class="team_dd" value="team/juventus">Juventus</option><option class="team_dd" value="team/lazio">Lazio</option><option class="team_dd" value="team/lecce">Lecce</option><option class="team_dd" value="team/napoli">Napoli</option><option class="team_dd" value="team/palermo">Palermo</option><option class="team_dd" value="team/parma">Parma</option><option class="team_dd" value="team/roma">Roma</option><option class="team_dd" value="team/sampdoria">Sampdoria</option><option class="team_dd" value="team/udinese">Udinese</option><option class="league_dd" value="league-one">League 1</option><option class="team_dd" value="team/bournemouth">Bournemouth</option><option class="team_dd" value="team/brentford">Brentford</option><option class="team_dd" value="team/bury">Bury</option><option class="team_dd" value="team/carlisle">Carlisle</option><option class="team_dd" value="team/charlton-athletic">Charlton Athletic</option><option class="team_dd" value="team/chesterfield">Chesterfield</option><option class="team_dd" value="team/colchester-united">Colchester United</option><option class="team_dd" value="team/exeter">Exeter</option><option class="team_dd" value="team/hartlepool">Hartlepool</option><option class="team_dd" value="team/huddersfield-town">Huddersfield Town</option><option class="team_dd" value="team/leyton-orient">Leyton Orient</option><option class="team_dd" value="team/milton-keynes-dons">Milton Keynes Dons</option><option class="team_dd" value="team/notts-county">Notts County</option><option class="team_dd" value="team/oldham-athletic">Oldham Athletic</option><option class="team_dd" value="team/preston-north-end">Preston North End</option><option class="team_dd" value="team/rochdale">Rochdale</option><option class="team_dd" value="team/scunthorpe">Scunthorpe United</option><option class="team_dd" value="team/sheffield-united">Sheffield United</option><option class="team_dd" value="team/sheffield-wednesday">Sheffield Wednesday</option><option class="team_dd" value="team/stevenage">Stevenage</option><option class="team_dd" value="team/tranmere-rovers">Tranmere Rovers</option><option class="team_dd" value="team/walsall">Walsall</option><option class="team_dd" value="team/wycombe-wanderers">Wycombe Wanderers</option><option class="team_dd" value="team/yeovil-town">Yeovil Town</option><option class="league_dd" value="league-two">League 2</option><option class="team_dd" value="team/accrington-stanley">Accrington Stanley</option><option class="team_dd" value="team/afc-wimbledon">AFC Wimbledon</option><option class="team_dd" value="team/aldershot-town">Aldershot Town</option><option class="team_dd" value="team/barnet">Barnet</option><option class="team_dd" value="team/bradford-city">Bradford City</option><option class="team_dd" value="team/bristol-rovers">Bristol Rovers</option><option class="team_dd" value="team/burton-albion">Burton Albion</option><option class="team_dd" value="team/cheltenham-town">Cheltenham Town</option><option class="team_dd" value="team/crawley-town">Crawley Town</option><option class="team_dd" value="team/crewe-alexandra">Crewe Alexandra</option><option class="team_dd" value="team/dagenham-and-redbridge">Dagenham and Redbridge</option><option class="team_dd" value="team/gillingham">Gillingham</option><option class="team_dd" value="team/hereford-united">Hereford United</option><option class="team_dd" value="team/macclesfield-town">Macclesfield Town</option><option class="team_dd" value="team/morecambe">Morecambe</option><option class="team_dd" value="team/northampton-town">Northampton Town</option><option class="team_dd" value="team/oxford-united">Oxford United</option><option class="team_dd" value="team/plymouth-argyle">Plymouth Argyle</option><option class="team_dd" value="team/port-vale">Port Vale</option><option class="team_dd" value="team/rotherham-united">Rotherham United</option><option class="team_dd" value="team/shrewsbury-town">Shrewsbury Town</option><option class="team_dd" value="team/southend-united">Southend United</option><option class="team_dd" value="team/swindon-town">Swindon Town</option><option class="team_dd" value="team/torquay-united">Torquay United</option><option class="league_dd" value="champions-league">Champions League</option><option class="league_dd" value="europa-league">Europa League</option><option class="league_dd" value="fa-cup">FA Cup</option><option class="league_dd" value="carling-cup">Carling Cup</option></select>
 </form>
 
 </div>
@@ -173,37 +441,45 @@ AS FEATURED ON
 <ul id="dropnav" class="clearfix"><li><a href="/football-news">News</a><ul><li><a href="/premiership">Premier League</a></li><li><a href="/championship">Championship</a></li><li><a href="/league-one">League 1</a></li><li><a href="/league-two">League 2</a></li><li><a href="/scottish-premier-league">SPL</a></li><li><a href="/champions-league">Champions League</a></li><li><a href="/europa-league">Europa League</a></li><li><a href="/fa-cup">FA Cup</a></li><li><a href="/carling-cup">Carling Cup</a></li><li><a href="/serie-a">Serie A</a></li><li><a href="/la-liga">La Liga</a></li><li><a href="/bundesliga">Bundesliga</a></li><li><a href="/euro-2012">Euro 2012</a></li></ul></li><li><a href="/football-blogs">Blogs</a><ul>
 <li><a href="http://www.footballfancast.com/author/editor/">Editor's Blog</a></li>
 <li><a href="http://www.footballfancast.com/football-business">Football Business</a></li>
-<li><a href="http://www.footballfancast.com/goal-of-the-week">Goal of the week</a></li>
-<li><a href="http://www.footballfancast.com/play-of-the-week">Play of the week</a></li>
+<li><a href="http://www.footballfancast.com/goal-of-the-week">Goal of the Week</a></li>
+<li><a href="http://www.footballfancast.com/play-of-the-week">Play of the Week</a></li>
 <li><a href="http://www.footballfancast.com/caption-competition">Caption Competition</a></li>
 <li><a href="http://www.footballfancast.com/wag-of-the-week">Wag of the Week</a></li>
-<li><a href="http://www.footballfancast.com/the-boy-has-got-skills">The Boy Has Got skills</a></li>
+<li><a href="http://www.footballfancast.com/the-boy-has-got-skills">The Boy Has Got Skills</a></li>
 <li><a href="http://www.footballfancast.com/top-10s">Top Tens</a></li>
-<li><a href="http://www.footballfancast.com/5-things-we-learned">5 things we learned</a></li>
-<li><a href="http://www.footballfancast.com/said-and-done">Said and done</a></li>
-<li><a href="http://www.footballfancast.com/whatever-happened-to">Whatever happened to…</a></li>
+<li><a href="http://www.footballfancast.com/5-things-we-learned">5 Things We Learned</a></li>
+<li><a href="http://www.footballfancast.com/said-and-done">Said and Done</a></li>
+<li><a href="http://www.footballfancast.com/whatever-happened-to">Whatever Happened To…</a></li>
 <li><a href="http://www.footballfancast.com/billy-batts-headline-round-up">Billy Batts' Headline Round Up</a></li>
 <li><a href="http://www.footballfancast.com/great-games">Great Games</a></li>
 <li><a href="http://www.footballfancast.com/best-of-partner-blogs">Best of Partner Blogs</a></li>
-</ul></li><li><a href="http://podcasts.footballfancast.com/">Podcasts</a></li>
+</ul></li><li><a href="/scorecast">ScoreCast</a><ul><li><a href="/scorecast">Live Scores</a></li><li><a href="/league-tables">League Tables</a></li><li><a href="/results">Results</a></li></ul></li><li><a href="http://podcasts.footballfancast.com/">Podcasts</a></li>
 
 <li><a href="/football-videos">Videos</a></li>
 
 <li><a href="/gallery">Gallery</a></li>
 
-<li><a href="/wiki">Stadium Guide</a></li><li><a href="/league-tables">League Tables</a><ul>
-<li><a href="/premiership-league-table">Premier League Table</a></li>
-<li><a href="/championship-league-table">Championship League Table</a></li>
-<li><a href="/bloggers-league-table">Bloggers League Table</a></li>
-</ul></li><li><a href="/forum">Forum</a></li>
+<li><a href="/vip-lounge">VIP Lounge</a>
+<ul>
+<li><a href="/activity">Latest</a></li>
+<li><a href="/groups">Fans Groups</a></li>
+<li><a href="/members">Members</a></li>
+<li><a href="/achievements">Medals &amp; Tropies</a></li>
+<li><a href="http://www.footballfancast.com/wp-login.php" title="Login">Login</a></li><li><a href="http://www.footballfancast.com/wp-login.php?action=register">Register</a></li>
+</ul>
+</li>
+
+<li><a href="/wiki">Stadium Guide</a></li>
 
 <li><a href="http://twitter.footballfancast.com/">Tweets</a></li>
 
+<li><a href="/competitions">Competitions</a><ul><li><a href="http://www.footballfancast.com/competitions">Prize Wall</a></li><li><a href="http://www.footballfancast.com/trivia">Trivia</a></li><li><a href="http://www.footballfancast.com/caption-competition">Caption Competition</a></li></ul></li>
+
 <li><a href="/football-tickets">Tickets</a></li><li><a href="/football-shirts">Shirts</a><ul>
 <li><a href="/football-shirts/retro-football-shirts">Retro Shirts</a></li>
-</ul></li><li><a href="/tv-guide">TV Guide</a></li>
+</ul></li><li><a href="/tv-guide">TV Guide</a><ul><li><a href="/football-live-streaming-diary">Live Streaming Diary</a></li></ul></li>
 
-<li><a href="/fantasy-football">Fantasy</a></li>
+
 
 <li><a href="/live-odds">Betting</a></li>
 
@@ -227,107 +503,46 @@ AS FEATURED ON
 </div><!-- end META -->
 	
 	<div class="storycontent">
-		<p>
-<strong>***Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates. </strong></p><strong>
-</strong><p><strong></strong>
-</p>
-<p>
-SN&amp;CK Media Limited process personal information only in strict compliance with the Data Protection Act 1998 (as amended), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other associated data protection legislation. Any personal information provided or gathered via this web site is controlled primarily by SN&amp;CK Media Limited of  173 Friern Barnet Lane, Whetstone, London,N20 0NN.
-</p>
-<p>
-&nbsp;
-</p>
-<p>
-Your visiting this web site constitutes acceptance of and consent to the practices set out in this Privacy Policy. If you do not agree with any of the terms as set out in this Privacy Policy then you should cease using this web site immediately.
-</p>
-<p>
-&nbsp;
-</p>
-<p>
-SN&amp;CK Media Limited reserves the rights to change this Privacy Policy at any time by posting an updated version on the web site. The date that the web site was last updated is shown at the bottom of this web page. Your continued use of this site after an updated version is posted constitutes your acceptance of and consent to the practices set out in this Privacy Policy as modified. </p>
+		<p><strong>***Please read all of this Privacy Policy as well as the Terms and Conditions very carefully prior to commencing use of this web site and on each and every occasion that you use this web site in the future to check for updates. </strong></p>
+<p><strong> </strong></p>
+<p><strong> </strong></p>
+<p>SN&amp;CK Media Limited process personal information only in strict compliance with the Data Protection Act 1998 (as amended), the Privacy and Electronic Communications (EC Directive) Regulations 2003 and other associated data protection legislation. Any personal information provided or gathered via this web site is controlled primarily by SN&amp;CK Media Limited of  173 Friern Barnet Lane, Whetstone, London,N20 0NN.</p>
+<p>Your visiting this web site constitutes acceptance of and consent to the practices set out in this Privacy Policy. If you do not agree with any of the terms as set out in this Privacy Policy then you should cease using this web site immediately.</p>
+<p>SN&amp;CK Media Limited reserves the rights to change this Privacy Policy at any time by posting an updated version on the web site. The date that the web site was last updated is shown at the bottom of this web page. Your continued use of this site after an updated version is posted constitutes your acceptance of and consent to the practices set out in this Privacy Policy as modified.</p>
 <h3>WHAT INFORMATION DO SN&amp;CK MEDIA LIMITED COLLECT?</h3>
-<p>
-Your personal information is not collected from you automatically, simply as a result of your accessing this web site. It is only collected on a voluntary basis, resulting from your own input of this information. The only information that is collected automatically when you access this web site is the IP address of the computer that you are using. For more information on IP addresses, please see below.
-</p>
-<p>
-&nbsp;
-</p>
-<p>
-If you register your personal details with this web site, it is only known to SN&amp;CK Media Limited and trusted third party suppliers of related services. If you choose to register, SN&amp;CK Media Limited will request information such as your name, email address, address, telephone number or other contact details as required. This information will then be held by SN&amp;CK Media Limited as it is necessary for SN&amp;CK Media Limited to carry out the services for which you registered. SN&amp;CK Media Limited also use this information to improve the function of the web site and to prevent any abuse to the web site. This information will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended).</p>
-<p>
-SN&amp;CK Media Limited will also keep any correspondence you send SN&amp;CK Media Limited whether by email or standard mail. This correspondence will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended). </p>
+<p>Your personal information is not collected from you automatically, simply as a result of your accessing this web site. It is only collected on a voluntary basis, resulting from your own input of this information. The only information that is collected automatically when you access this web site is the IP address of the computer that you are using. For more information on IP addresses, please see below.</p>
+<p>If you register your personal details with this web site, it is only known to SN&amp;CK Media Limited and trusted third party suppliers of related services. If you choose to register, SN&amp;CK Media Limited will request information such as your name, email address, address, telephone number or other contact details as required. This information will then be held by SN&amp;CK Media Limited as it is necessary for SN&amp;CK Media Limited to carry out the services for which you registered. SN&amp;CK Media Limited also use this information to improve the function of the web site and to prevent any abuse to the web site. This information will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended).</p>
+<p>SN&amp;CK Media Limited will also keep any correspondence you send SN&amp;CK Media Limited whether by email or standard mail. This correspondence will not be kept indefinitely, only for the statutory period allowed under the Data Protection Act 1998 (as amended).</p>
 <h3>HOW DO SN&amp;CK MEDIA LIMITED USE THE INFORMATION COLLECTED?</h3>
-<p>
-All the information that SN&amp;CK Media Limited collect via the web site or correspondence is used to help SN&amp;CK Media Limited understand more about who uses the web site and to help improve the web site and the services that it offers. It will also help SN&amp;CK Media Limited to send communications to you that may be of interest.
-</p>
-<p>
-As a general principle, your personal data will NOT be passed or sold to any third party except for as set out in this Privacy Policy or with your express permission. However, your personal data may be passed to a third party in any one of these circumstances:-
-</p>
+<p>All the information that SN&amp;CK Media Limited collect via the web site or correspondence is used to help SN&amp;CK Media Limited understand more about who uses the web site and to help improve the web site and the services that it offers. It will also help SN&amp;CK Media Limited to send communications to you that may be of interest.</p>
+<p>As a general principle, your personal data will NOT be passed or sold to any third party except for as set out in this Privacy Policy or with your express permission. However, your personal data may be passed to a third party in any one of these circumstances:-</p>
 <ul>
 <li>If SN&amp;CK Media Limited have a duty to do so or if the law allows or requires SN&amp;CK Media Limited  to do so;</li>
 <li>If SN&amp;CK Media Limited or its assets are sold to or purchased by another company or person;</li>
 <li>To affiliated businesses or subsidiary or parent companies of SN&amp;CK Media Limited.</li>
 </ul>
-<p>
-If SN&amp;CK Media Limited wishes to or is required to pass on your information to a third party it will not do so other than with your express permission. 
-</p>
-<p>
-SN&amp;CK Media Limited may use the personal information that you have provided to contact you by any of the methods which you input. Communications from SN&amp;CK Media Limited will be limited to administrative messages unless you have “opted in” to receive additional information about new services, features or products which are being offered by SN&amp;CK Media Limited. If you do not want to be contacted in this way then please click where indicated when you are completing any of the online forms where you initially input your personal details, by changing your personal details on the [“personal details”] page when you are logged on to the web site, or by contacting SN&amp;CK Media Limited via the contact page at any time after submitting your personal details. </p>
-<p>
-As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include <a href="http://www.footballtransfertavern.com/" class="kblinker" target="_blank" title="More about Transfer »">transfers</a> outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising SN&amp;CK Media Limited to transfer your personal data in this way.
-</p>
-<p>
-&nbsp;
-</p>
+<p>If SN&amp;CK Media Limited wishes to or is required to pass on your information to a third party it will not do so other than with your express permission.</p>
+<p>SN&amp;CK Media Limited may use the personal information that you have provided to contact you by any of the methods which you input. Communications from SN&amp;CK Media Limited will be limited to administrative messages unless you have “opted in” to receive additional information about new services, features or products which are being offered by SN&amp;CK Media Limited. If you do not want to be contacted in this way then please click where indicated when you are completing any of the online forms where you initially input your personal details, by changing your personal details on the [“personal details”] page when you are logged on to the web site, or by contacting SN&amp;CK Media Limited via the contact page at any time after submitting your personal details.</p>
+<p>As the Internet is a global network, there may be instances when your personal data travels across international borders. This may include <a href="http://www.footballtransfertavern.com/" class="kblinker" target="_blank" title="More about Transfer »">transfers</a> outside the EU and the EEA. If you do voluntarily input any personal information via this web site or send correspondence, then in doing so you are authorising SN&amp;CK Media Limited to transfer your personal data in this way.</p>
 <h3>DOES SN&amp;CK MEDIA LIMITED USE COOKIES OR WEB BEACONS?</h3>
-<p>
-Like many web sites, this web site does use cookies. This enables SN&amp;CK Media Limited to provide you with a more personalised service. 
-</p>
-<p>
-Cookies are small text files that are transferred from a web site by your web browser and stored on your computer. The cookie is then used by that web site to remember who you are from your last visit to that web site. The information that the cookie holds will typically consist of the domain name of where the cookie came from, how long the cookie will remain on your computer before it expires and a unique value assigned to the cookie which is made up of a randomly generated number. A Cookie may also contain your “log in” information that will allow you to log in automatically when visiting the web site. Cookies are not computer programs, they cannot read any information from your hard drive and they do not disseminate viruses.
-</p>
-<p>
-You can set your web browser to reject cookies, though please be aware that the SN&amp;CK Media Limited web site may not function correctly if you do this.
-</p>
-<p>
-For more information about cookies, including how to disable them, please go to www.allaboutcookies.org.
-</p>
-<p>
-&nbsp;
-</p>
-<p>
-Some of the web pages of the web site may contain “clear gifs” or “web beacons”. These are used to count the number of users who access those pages and only collect information relating to the time, date and the page that was visited. They do not carry any personal information and are only used to track how effectively certain aspects of the web site are performing.
-</p>
-<p>
-&nbsp;
-</p>
+<p>Like many web sites, this web site does use cookies. This enables SN&amp;CK Media Limited to provide you with a more personalised service.</p>
+<p>Cookies are small text files that are transferred from a web site by your web browser and stored on your computer. The cookie is then used by that web site to remember who you are from your last visit to that web site. The information that the cookie holds will typically consist of the domain name of where the cookie came from, how long the cookie will remain on your computer before it expires and a unique value assigned to the cookie which is made up of a randomly generated number. A Cookie may also contain your “log in” information that will allow you to log in automatically when visiting the web site. Cookies are not computer programs, they cannot read any information from your hard drive and they do not disseminate viruses.</p>
+<p>You can set your web browser to reject cookies, though please be aware that the SN&amp;CK Media Limited web site may not function correctly if you do this.</p>
+<p>For more information about cookies, including how to disable them, please go to www.allaboutcookies.org.</p>
+<p>Some of the web pages of the web site may contain “clear gifs” or “web beacons”. These are used to count the number of users who access those pages and only collect information relating to the time, date and the page that was visited. They do not carry any personal information and are only used to track how effectively certain aspects of the web site are performing.</p>
 <h3>IP ADDRESSES</h3>
-<p>
-The IP address of the computer you use to access this web site is automatically provided by your browser each time you view the web site. If you provide any personal information via this web site then the IP address of the computer you are using at the time you provide this information will be stored by SN&amp;CK Media Limited. IP addresses may be used by SN&amp;CK Media Limited for various reasons, including but not limited to differentiating between users from different geographical locations or to help with technical problems that may relate to certain groups of IP addresses. </p>
+<p>The IP address of the computer you use to access this web site is automatically provided by your browser each time you view the web site. If you provide any personal information via this web site then the IP address of the computer you are using at the time you provide this information will be stored by SN&amp;CK Media Limited. IP addresses may be used by SN&amp;CK Media Limited for various reasons, including but not limited to differentiating between users from different geographical locations or to help with technical problems that may relate to certain groups of IP addresses.</p>
 <h3>HOW SECURE IS MY PERSONAL INFORMATION?</h3>
-<p>
-The security of your personal information is very important to SN&amp;CK Media Limited and it takes all steps it deems reasonably necessary to ensure such security. However, the transmission of data over Internet cannot be guaranteed to be completely secure and failsafe. As such, SN&amp;CK Media Limited is not able to warrant or guarantee the complete security of any personal information that you provide and it is important that you are aware that providing any such information is done so entirely at your own risk. </p>
+<p>The security of your personal information is very important to SN&amp;CK Media Limited and it takes all steps it deems reasonably necessary to ensure such security. However, the transmission of data over Internet cannot be guaranteed to be completely secure and failsafe. As such, SN&amp;CK Media Limited is not able to warrant or guarantee the complete security of any personal information that you provide and it is important that you are aware that providing any such information is done so entirely at your own risk.</p>
 <h3>FURTHER INFORMATION</h3>
-<p>
-If you would like to update your personal information held by SN&amp;CK Media Limited or you have any dispute regarding the use and storage of your personal information by SN&amp;CK Media Limited or you have any comments or questions on this Privacy Policy please contact SN&amp;CK Media Limited via the contact page.
-</p>
-<p>
-&nbsp;
-</p>
-<p>
-If you would like details of the personal information SN&amp;CK Media Limited store about you please write to:
-</p>
-<p>
-SN&amp;CK Media Ltd<br>
-173 Friern Barnet Lane<br>
-Whetstone<br>
-London
-</p>
-<p>
-N20 0NN.
-</p>
-<p>
-This Privacy Policy was last updated on 12th February 2007.</p>
+<p>If you would like to update your personal information held by SN&amp;CK Media Limited or you have any dispute regarding the use and storage of your personal information by SN&amp;CK Media Limited or you have any comments or questions on this Privacy Policy please contact SN&amp;CK Media Limited via the contact page.</p>
+<p>If you would like details of the personal information SN&amp;CK Media Limited store about you please write to:</p>
+<p>SN&amp;CK Media Ltd</p>
+<p>2nd Floor Asta House,</p>
+<p>65 Whitfield Street,</p>
+<p>London,</p>
+<p>W1T4HE.</p>
+<p>This Privacy Policy was last updated on 12th February 2007.</p>
 	</div><!-- end STORYCONTENT -->
 	
 	<div class="clearer"></div>
@@ -341,105 +556,121 @@ This Privacy Policy was last updated on 12th February 2007.</p>
 
 </div><!--end content-->
 
-<!--15 queries--><!-- SIDEBAR LINKS -->
+<!-- SIDEBAR LINKS -->
 <div id="nav">
 
-<iframe src="http://www.footballfancast.com/mailchimp-form.html" width="300" height="250" frameborder="0" scrolling="no"></iframe>
-<br>
+<script type="text/javascript">
+GA_googleFillSlot("FootballFancast_ROS_MPU");
+</script>
 
+<div style="clear:both; height:10px;"></div>
 
-<iframe id="aa3434d2" name="aa3434d2" src="http://fancastmedia.co.uk/openx/www/delivery/afr.php?zoneid=32&amp;cb=3495874358" frameborder="0" scrolling="no" width="300" height="250"><a href='http://fancastmedia.co.uk/openx/www/delivery/ck.php?n=a51b1321&amp;cb=3495874358' target='_blank'><img src='http://fancastmedia.co.uk/openx/www/delivery/avw.php?zoneid=32&amp;cb=3495874358&amp;n=a51b1321' border='0' alt='' /></a></iframe>
+<div style="width: 119px; float: left;">
 
+<div style="background: #000; text-align:center; padding: 0 0 5px 0;font-size:10px;">
+<a href="http://www.newsnow.co.uk/h/Sport/Football" style="text-decoration:none;color:#fff" target="_blank"><img src="http://www.footballfancast.com/wp-content/themes/ffc-theme/images/newsnow_ab.gif" style="width:119px;height:47px;border:0;display:block;padding-bottom:2px; outline:0;" alt="As featured on NewsNow: Football news" title="Click here for more Football news from NewsNow">Football News 24/7</a>
+</div>
 
-<br><br>
+<a href="http://twitter.com/#!/FootballFanCast" style="text-decoration:none;color:#fff" target="_blank"><img src="http://www.footballfancast.com/wp-content/themes/ffc-theme/images/follow-us-on-twitter.jpg" style="width:117px;height:35px;border:0;display:block;margin-top:5px;" alt="Follow Us On Twitter" title="Follow Us On Twitter"></a>
+
+<div class="clearer" style="height: 2px;"></div>
+
+</div>
+
+<div style="width:178px;float:right;">
+<a href="http://www.footballfancast.com/activity"><img src="http://www.footballfancast.com/wp-content/themes/ffc-theme/images/ffc-vip-banner.png" alt="VIP Lounge" title="Become a VIP member of FootballFanCast.com"></a>
+</div>
+
+<div style="clear:both; height:10px;"></div>
+
 <div class="arrowlistmenu">
 
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FFootballFanCast&amp;width=300&amp;colorscheme=light&amp;connections=10&amp;stream=false&amp;header=true&amp;height=287" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:287px;"></iframe>
 
-<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FFootballFanCast&amp;width=300&amp;colorscheme=light&amp;connections=10&amp;stream=false&amp;header=true&amp;height=287" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:287px;" allowtransparency="true"></iframe>
+<div style="clear:both; height:20px;"></div>
 
 
 
+<!-- FootballFancast_LocalAds -->
+<script type="text/javascript">
+GA_googleFillSlot("FootballFancast_LocalAds");
+</script>
 
-<br><br>
+<div class="clearer" style="width: 40px; height: 20px;"></div>
+
 <div class="blog_banners">
-<a href="/football-news"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/banners_news.jpg" alt="Football News" height="90" width="300"></a><br>
-<a href="/football-blogs"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/banners_blogs.jpg" alt="Football Blogs" height="90" width="300"></a><br>
-<a href="/gallery"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/banners_gallery.jpg" alt="Football Galleries" height="90" width="300"></a><br>
-<a href="http://podcasts.footballfancast.com/"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/banners_podcast.jpg" alt="Football Podcasts" height="90" width="300"></a><br>
-<a href="/football-videos"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/banners_videos.jpg" alt="Football Videos" height="90" width="300"></a>
+<a href="/football-news"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/150px/banners_news.jpg" alt="Football News" height="45" width="150"></a>
+<a href="/football-blogs"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/150px/banners_blogs.jpg" alt="Football Blogs" height="45" width="150"></a>
+<a href="/gallery"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/150px/banners_gallery.jpg" alt="Football Galleries" height="45" width="150"></a>
+<a href="http://podcasts.footballfancast.com/"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/150px/banners_podcast.jpg" alt="Football Podcasts" height="45" width="150"></a>
+<a href="/football-videos"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/150px/banners_videos.jpg" alt="Football Videos" height="45" width="150"></a>
+<a href="/tv-guide"><img src="http://images.footballfancast.com.s3.amazonaws.com/section_banners/150px/banners_tv.jpg" alt="Football On TV" height="45" width="150"></a>
 </div>
 
-<div class="clearer" style="width: 40px; height: 10px;"></div>
-
-<div class="tabbed3">
-<ul class="tabs">
-<li><a href="#" id="t6" rel="nofollow" class="tab tab-current">Forum</a></li>
-<li><a href="#" id="t7" rel="nofollow" class="tab">Comments</a></li>
-</ul>
-<div class="clearer"></div>
-<div class="tabbox">
-<div class="t6 tabcontent">
-<h2>Forum Last 5 Discussions</h2><ul><li><a href="http://www.footballfancast.com/forum/topic/wright-phillips-future-is-surely-elsewhere-but-where#post-998">Wright-Phillips' future is surely elsewhere, but where?</a><small>Last Post By: James Murphy</small></li><li><a href="http://www.footballfancast.com/forum/topic/arsenal-v-chelsea-thread#post-995">Arsenal v Chelsea thread</a><small>Last Post By: Henry Cloke</small></li><li><a href="http://www.footballfancast.com/forum/topic/have-everton-just-kick-started-their-season#post-992">Have Everton just kick started their season?</a><small>Last Post By: Danial Pratt</small></li><li><a href="http://www.footballfancast.com/forum/topic/how-have-sunderland-reached-these-dizzying-heights#post-991">How have Sunderland reached these dizzying heights?</a><small>Last Post By: James Murphy</small></li><li><a href="http://www.footballfancast.com/forum/topic/reasons-for-chelseas-slump#post-990">Reasons for Chelsea's slump???</a><small>Last Post By: James Murphy</small></li></ul></div>
-<div class="t7 tabcontent">
-<h3 class="storytitle5">Recent Comments</h3>
-	<div class="sb_comment"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e383e54982731fd937c3c944c29243c2&amp;size=20&amp;rating=G" alt="" width="20" height="20" class="kjgrcGravatar"> <a href="http://www.footballfancast.com/2010/12/football-blogs/if-i-could-only-sign-one-player-for-arsenal-this-january-make-it-him#comment-49711" title="If I could only sign one player for Arsenal this January, make it him, December 30, 2010">Brad</a>
-<br>Ryan Nelsen! 1 of the best defenders in the epl.</div>
-	<div class="sb_comment"><img src="http://www.gravatar.com/avatar.php?gravatar_id=162895814ac1e9a0cce518f98d43fcbb&amp;size=20&amp;rating=G" alt="" width="20" height="20" class="kjgrcGravatar"> <a href="http://www.footballfancast.com/2010/12/football-blogs/united-starlet-provides-fergie-with-a-transfer-dilemma#comment-49693" title="United starlet provides Fergie with a transfer dilemma, December 22, 2010">mathias msanzu</a>
-<br>sell welbeck at own risk fergie.he has automatically qualified for first team,to replace the likes...</div>
-	<div class="sb_comment"><img src="http://www.gravatar.com/avatar.php?gravatar_id=e771593c6976691c5ef9e1a17d0972c8&amp;size=20&amp;rating=G" alt="" width="20" height="20" class="kjgrcGravatar"> <a href="http://www.footballfancast.com/2010/12/football-blogs/tottenhams-awards-2010-and-the-winner-is#comment-49688" title="Tottenham Awards 2010…and the winner is?, December 30, 2010">Dutchman</a>
-<br>Greavsy, ur absolutely right mate, Crouch is a lovely, hardworking guy, especially for his size..Fact is...</div>
-	<div class="sb_comment"><img src="http://www.gravatar.com/avatar.php?gravatar_id=21b16a3c5c50b418b6d4c4752912093c&amp;size=20&amp;rating=G" alt="" width="20" height="20" class="kjgrcGravatar"> <a href="http://www.footballfancast.com/2010/12/football-blogs/tottenhams-awards-2010-and-the-winner-is#comment-49677" title="Tottenham Awards 2010…and the winner is?, December 30, 2010">I Believe in Mod!</a>
-<br>Greavsy I support what you’re saying about Crouch I can see both points would never sell...</div>
-	<div class="sb_comment"><img src="http://www.gravatar.com/avatar.php?gravatar_id=8f2a564e7aca79a4dd45ad87c010b60c&amp;size=20&amp;rating=G" alt="" width="20" height="20" class="kjgrcGravatar"> <a href="http://www.footballfancast.com/2010/12/football-blogs/if-i-could-only-sign-one-player-for-arsenal-this-january-make-it-him#comment-49675" title="If I could only sign one player for Arsenal this January, make it him, December 30, 2010">ash</a>
-<br>sakho from PSG will be the man for mine..available for champs league and certain to be a star for the...</div>
-</div>
-</div>
-</div>
-
+<div class="clearer" style="width: 40px; height: 20px;"></div>
 
 
 </div><!-- end arrowlistmenu -->
-<div class="clearer" style="width: 40px; height: 10px;"></div>
 
 
-<div style="width: 120px; float: right;">
 
 
-<iframe id="afb5a452" name="afb5a452" src="http://fancastmedia.co.uk/openx/www/delivery/afr.php?zoneid=33&amp;cb=6345219888" frameborder="0" scrolling="no" width="120" height="600"><a href='http://fancastmedia.co.uk/openx/www/delivery/ck.php?n=a15fccd4&amp;cb=6345219888' target='_blank'><img src='http://fancastmedia.co.uk/openx/www/delivery/avw.php?zoneid=33&amp;cb=6345219888&amp;n=a15fccd4' border='0' alt='' /></a></iframe>
+
+<div style="width: 160px; float: right;">
+
+<script type="text/javascript">
+GA_googleFillSlot("FootballFancast_ROS_SKY");
+</script>
+
+<div style="height:10px;"></div>
 
 
 </div>
-<div style="width: 170px; float: left; padding: 0;">
+<div style="width: 130px; float: left; padding: 0;">
 
 <div class="arrowlistmenu">
 
+
+
+
+<h3 class="grey_title" style="margin:0;">Weekly Poll</h3>
 <div class="tabbox2">
-<h3 class="sbar_title">Weekly Poll</h3>
-<div id="polls-179" class="wp-polls">
-	<form id="polls_form_179" class="wp-polls-form" action="/privacy-policy" method="post">
-		<p style="display: none;"><input type="hidden" name="poll_id" value="179"></p>
-		<p><strong>Who plays the most attractive football?</strong></p><div id="polls-179-ans" class="wp-polls-ans">
-		<input type="radio" id="poll-answer-878" name="poll_179" value="878"> <label for="poll-answer-878">Tottenham</label><br>
-		<input type="radio" id="poll-answer-879" name="poll_179" value="879"> <label for="poll-answer-879">Arsenal</label><br>
-		<p><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(179);"></p><p><a href="#ViewPollResults" onclick="poll_result(179); return false;" title="View Results Of This Poll">View Results</a></p></div>
+<div id="polls-259" class="wp-polls">
+	<form id="polls_form_259" class="wp-polls-form" action="/privacy-policy" method="post">
+		<p style="display: none;"><input type="hidden" name="poll_id" value="259"></p>
+		<p class="poll_question"><a href="/poll/259" rel="259"><strong>Who is the next Premier League manager for the chop?</strong></a></p><div id="polls-259-ans" class="wp-polls-ans">
+		<input type="radio" id="poll-answer-1331" name="poll_259" value="1331"> <label for="poll-answer-1331">Warnock</label><br>
+		<input type="radio" id="poll-answer-1332" name="poll_259" value="1332"> <label for="poll-answer-1332">Wenger</label><br>
+		<input type="radio" id="poll-answer-1333" name="poll_259" value="1333"> <label for="poll-answer-1333">Martinez</label><br>
+		<input type="radio" id="poll-answer-1334" name="poll_259" value="1334"> <label for="poll-answer-1334">McCarthy</label><br>
+		<input type="radio" id="poll-answer-1335" name="poll_259" value="1335"> <label for="poll-answer-1335">McLeish</label><br>
+		<input type="radio" id="poll-answer-1336" name="poll_259" value="1336"> <label for="poll-answer-1336">Rodgers</label><br>
+		<input type="radio" id="poll-answer-1337" name="poll_259" value="1337"> <label for="poll-answer-1337">Kean</label><br>
+		<input type="radio" id="poll-answer-1338" name="poll_259" value="1338"> <label for="poll-answer-1338">Coyle</label><br>
+		<input type="radio" id="poll-answer-1339" name="poll_259" value="1339"> <label for="poll-answer-1339">Hodgson</label><br>
+		<input type="radio" id="poll-answer-1340" name="poll_259" value="1340"> <label for="poll-answer-1340">Other</label><br>
+		<p><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(259);"></p><p><a href="#ViewPollResults" onclick="poll_result(259); return false;" title="View Results Of This Poll">View Results</a></p></div>
 	</form>
 </div>
-<div id="polls-179-loading" class="wp-polls-loading"><img src="http://www.footballfancast.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image">&nbsp;Loading ...</div>
 <p><a href="http://www.footballfancast.com/fan-polls">Polls Archive</a></p> 
 </div>
 
 <div class="clearer" style="height: 10px;"></div>
 
+<h3 class="grey_title" style="margin:0;">Popular Searches</h3>
 <div class="tabbox2">
-<h3 class="sbar_title">Popular Searches</h3>
   <ul>
-    <li><a href="http://www.footballfancast.com/2010/12/football-blogs/three-united-players-that-im-happy-to-see-leave-in-january" title="owen hargreaves">owen hargreaves</a></li>
-    <li><a href="http://www.footballfancast.com/2009/11/football-blogs/messi-vs-ronaldo-who-is-la-liga-and-arguably-the-worlds-best-player" title="mesi vs ronaldo">mesi vs ronaldo</a></li>
-    <li><a href="http://www.footballfancast.com/2010/12/football-blogs/itv%e2%80%99s-insincere-support-for-tottenham-is-not-welcome" title="arsenal">arsenal</a></li>
-    <li><a href="http://www.footballfancast.com/2010/04/football-blogs/are-united-missing-a-trick-with-tom-cleverley" title="tom cleverley">tom cleverley</a></li>
-    <li><a href="http://www.footballfancast.com/2010/12/football-blogs/fantasy-football-this-weeks-chosen-xi" title="fantasy football week 16">fantasy football week 16</a></li>
+    <li><a href="http://www.footballfancast.com/2011/10/football-blogs/five-things-arsenal-fans-learned-from-the-north-london-derby" title="arsenal">arsenal</a></li>
+    <li><a href="http://www.footballfancast.com/team/manchester-united" title="man united">man united</a></li>
+    <li><a href="http://www.footballfancast.com/2011/10/football-blogs/tottenham-and-citys-stance-is-admirable-but-it-wont-change-anything" title="tottenham">tottenham</a></li>
+    <li><a href="http://www.footballfancast.com/2011/09/football-blogs/why-andre-villas-boas-must-step-out-of-the-shadows" title="chelsea transfer news">chelsea transfer news</a></li>
+    <li><a href="http://www.footballfancast.com/2011/10/football-blogs/xabi-alonso-becoming-an-untouchable" title="xabi alonso">xabi alonso</a></li>
   </ul>
 </div>
+
+<div class="clearer" style="height: 10px;"></div>
+
+
 
 
 </div></div>
@@ -451,12 +682,13 @@ This Privacy Policy was last updated on 12th February 2007.</p>
 <div class="clearer"></div>
 
 
-<!--54 queries--><div class="clearer">&nbsp;</div>
+<!--44 queries--><div class="clearer">&nbsp;</div>
 </div><!-- end RAP Inner -->
 <!-- end RAP -->
 
 <!-- betting strip -->
-<div style="width: 100%; background: #cccccc; height: 5px 0;">
+<div style="width: 1000px; background: #cccccc; padding: 5px 0; margin: 0 auto;">
+
 </div>
 
 <div id="wide_footer"><div id="inner_wide_footer">
@@ -470,14 +702,164 @@ This Privacy Policy was last updated on 12th February 2007.</p>
     &nbsp;&nbsp;<a href="/faqs">FAQ's</a>&nbsp;&nbsp;|
     &nbsp;&nbsp;<a href="/privacy-policy">Privacy Statement</a>&nbsp;&nbsp;|
     &nbsp;&nbsp;<a href="/terms-and-conditions">Terms &amp; Conditions</a>&nbsp;&nbsp;|
-    &nbsp;&nbsp;<a href="/forum-rules">Forum Rules</a>&nbsp;&nbsp;|
+    &nbsp;&nbsp;<a href="/football-forum-rules">Forum Rules</a>&nbsp;&nbsp;|
         &nbsp;&nbsp;<a href="http://www.footballfancast.com/feed/rss">RSS Feed</a></p>
 
-<p>© 2010 <a href="/">FootballFanCast.com</a> | © 2010 <a href="http://www.snack-media.com" target="_blank">Snack Media Ltd *</a></p>
+<p>© 2011 <a href="/">FootballFanCast.com</a> | © 2011 <a href="http://www.snack-media.com" target="_blank">Snack Media Ltd</a> <span id="star">*</span></p>
 
-<div class="clearer" style="height: 1px;"></div>
+<div class="clearer" style="height: 10px;"></div>
 </div><!-- end FOOTER -->
 </div></div>
+<div id="wp-admin-bar"><div class="padder"><ul class="main-nav"><li class="vip_logo" id="ffc_vip_logo"><a href="/vip-lounge/"><img src="http://www.footballfancast.com/wp-content/themes/ffc-theme/images/FFC-VIP.png"></a></li>  
+<li class="admin-bar-login" id="ffc-admin-bar-login">
+<table cellspacing="0" cellpadding="0" align="right"><tbody><tr>
+<td><a class="login" href="http://www.footballfancast.com/wp-login.php?redirect_to=http%3A%2F%2Fwww.footballfancast.com">Login</a> | <a href="http://www.footballfancast.com/wp-login.php?action=register">Register</a> | Quick login:&nbsp;</td>
+
+<td width="160" valign="middle">
+<script type="text/javascript">
+var login_params=
+{
+showTermsLink: 'false',  
+hideGigyaLink:true,
+height: 20,
+width: 150,
+sessionExpiration: 0,
+pendingRegistration: true,
+containerID: 'componentDiv',
+UIConfig: '<config><body><captions background-color="#1B6D0D"></captions><texts color="#FFFFFF"><links color="#FFFFFF"></links></texts><controls><snbuttons buttonsize="15" color="#EAEAEA"></snbuttons></controls><background background-color="Transparent" frame-color="Transparent"></background></body></config>'
+}
+
+gigya.services.socialize.addEventHandlers(conf, {   
+onLogin: popiFrame
+}); 
+
+function popiFrame(eventObj) {
+
+
+$('#gigyaframe').load('http://www.footballfancast.com/wp-content/plugins/gigya/login-handler.php', {
+signatureTimestamp: escape(eventObj['signatureTimestamp']),
+UID: escape(eventObj['UID']),
+UIDSignature: escape(eventObj['UIDSignature']),
+isSiteUID: escape(eventObj['user']['isSiteUID']),
+provider: escape(eventObj['provider']),
+thumbnailURL: eventObj['user']['thumbnailURL'],
+firstName: escape(eventObj['user']['firstName']),
+email: escape(eventObj['user']['email'])
+}, function(){
+
+if($('#gigya_content').html()=='returning_user'){
+
+$.post('/wp-login.php',{exuid: eventObj['UID'], sid: 'c1257abde5669c0c82cbbbd05697b57b'},function(){
+window.location.href = '/';
+});
+
+
+} else {
+
+$('#gigyaframe').fadeIn(600);
+$('#gigya_mask').fadeIn(600);
+
+$('#gigya_la_button').click(function(){
+
+var gig_user = $('#gigya_link_username').attr('value');
+var gig_pass = $('#gigya_link_password').attr('value');
+
+var error=false;
+
+//handle basic errors by silly users
+if(!gig_user){
+$('.link_error').html('<p>Please enter a username<\/p>');
+error = true;
+}
+if(!gig_pass){
+$('.link_error').html('<p>Please enter a password<\/p>');
+error = true;
+}
+
+if(!gig_user && !gig_pass){
+$('.link_error').html('<p>Please enter a username and password<\/p>');
+error = true;
+}
+
+if(!error){
+
+$.post('/wp-login.php',{uid: eventObj['UID'], log: gig_user, pwd: gig_pass},function(){
+$('#gigya_content').html('<div style="text-align:center"><h2>Logging in</h2></div>');
+window.location.href = '/';
+});
+
+}
+
+});
+
+$('#gigya_reg_button').click(function(){
+
+if($('#gigya_reg_email').attr('value')){
+var uemail = $('#gigya_reg_email').attr('value');
+} else {
+var uemail = eventObj['user']['email'];
+}
+
+//more error handling
+if(!uemail){
+
+$('.reg_error').html('<p>Please enter an email address<\/p>');
+
+} else {
+
+$.post('/',{reguid: eventObj['UID'], sid: 'c1257abde5669c0c82cbbbd05697b57b', u_name: eventObj['user']['nickname'], u_email: uemail},function(data){
+
+if(data=='registration_complete'){
+
+$('#gigya_content').html('<div style="text-align:center"><h2>Logging in</h2></div>');
+
+window.location.href = '/';
+
+
+} else {
+
+$('.reg_error').html('<p>Registration error: '+data+'<\/p>');
+
+}
+
+});
+
+}
+
+});
+
+$('#gigya_mask').click(function(){
+$('#gigyaframe').fadeOut(600);
+$('#gigya_mask').fadeOut(600);
+});
+
+$('#close_frame').click(function(){
+$('#gigyaframe').fadeOut(600);
+$('#gigya_mask').fadeOut(600);
+return false;
+});
+
+
+}
+
+});
+
+
+
+}
+
+
+</script>
+
+<div id="componentDiv"></div>
+<script type="text/javascript">
+   gigya.services.socialize.showLoginUI(conf,login_params);
+</script>
+</td></tr></tbody></table>
+</li>        
+  </ul></div></div><!-- #wp-admin-bar -->
+
+<script type="text/javascript" src="http://w.sharethis.com/button/buttons.js?ver=3.2.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
 var pollsL10n = {
@@ -485,20 +867,38 @@ var pollsL10n = {
 	text_wait: "Your last request is still being processed. Please wait a while ...",
 	text_valid: "Please choose a valid poll answer.",
 	text_multiple: "Maximum number of choices allowed: ",
-	show_loading: "1",
-	show_fading: "1"
+	show_loading: "0",
+	show_fading: "0"
 };
 /* ]]> */
 </script>
 <script type="text/javascript" src="http://www.footballfancast.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
 
-<script src="http://cdn.wibiya.com/Toolbars/dir_0523/Toolbar_523550/Loader_523550.js" type="text/javascript"></script>
+<!-- Generated in 0.781 seconds. -->
 
-<!-- utarget Ad code -->
-<iframe id="ab8b5910" name="ab8b5910" src="http://fancastmedia.co.uk/openx/www/delivery/afr.php?zoneid=37&amp;cb=3247867846456" frameborder="0" scrolling="no" width="1" height="1"><a href='http://fancastmedia.co.uk/openx/www/delivery/ck.php?n=a6e4f151&amp;cb=3247867846456' target='_blank'><img src='http://fancastmedia.co.uk/openx/www/delivery/avw.php?zoneid=37&amp;cb=3247867846456&amp;n=a6e4f151' border='0' alt='' /></a></iframe>
-<!-- utarget Ad code Ends -->
+	<div id="gigyaframe" style="display:none;"></div>
+<div id="gigya_mask" style="display:none;"></div>
 
-<!--54 queries-->
+
+
+
+<!-- FootballFancast_FoxPop -->
+<script type="text/javascript">
+GA_googleFillSlot("FootballFancast_FoxPop");
+</script>
+
+
+
+<!--44 queries-->
+<script type="text/javascript">
+GA_googleFillSlot("Budwiser_Test_1x1");
+</script>
+
+<!-- FootballFancast_Overlay -->
+<script type="text/javascript">
+GA_googleFillSlot("FootballFancast_Overlay");
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
