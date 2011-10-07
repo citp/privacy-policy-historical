@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the universalbusinesslisting.org privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104035526id_/https%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the universalbusinesslisting.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007073428id_/https%3A//www.ubl.org/Privacy.aspx) for the most accurate reproduction.*
 
-# UBL: Homepage
+# 
 
 Privacy Policy
 
@@ -51,17 +51,3 @@ Already an Agency Partner? [Log-in here](https://www.ubl.org/Login.aspx)
 **Advertising Agency and Interactive Search Marketing firms interested in bulk discounted submissions should go to our[Agency page.](http://ublpro.com/agency.html)**  
 **For Affiliate information go to our[Affiliates page.](http://ublpro.com/affiliate.html)**  
 **For Channel Marketing Partnerships, go to our[ Channels page](http://ublpro.com/channel.html)**
-
-______________________________________________________
-
-UBL distributes your batch client listings to all the major Search and Directory outlets - hundreds in total.
-
-  *  These include: Search Engines such as Google, Yahoo, MSN
-  * Online Yellow Pages such as Superpages, Yellowpages.com
-  * Portals and Guides such as AOL, CitySearch
-  * Cell Phones and Mobile devices such as BlackBerry and iPhone
-  * 411 Directory Assistance  
-  *  In-Car GPS Navigation
-  * Telematics such as OnStar  
-
-
