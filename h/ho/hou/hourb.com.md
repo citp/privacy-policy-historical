@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the hourb.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604120613id_/http%3A//www.hourb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hourb.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007172146id_/http%3A//hourb.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy for free hosting service :: HourB.com
+# Free Unlimited cPanel hosting with SSH and Sitebuilder:: Privacy Policy
 
-[](http://www.absolutely-free-hosting.org/)   
-
-
-## Free web hosting - Privacy policy
+## Hourb Free Unlimited web hosting \- Privacy policy
 
 **What information do we collect?**
 
@@ -75,17 +72,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.HourB.com/terms.php](http://www.hourb.com/terms.php)
-
-**Your Consent**
-
-By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.org/).
-
-**Changes to our Privacy Policy**
-
 If we decide to change our privacy policy, we will post those changes on this page. 
-
-**Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
