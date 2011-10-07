@@ -1,0 +1,22 @@
+> *The following text is extracted and transformed from the singerco.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007040622id_/http%3A//www.singerco.com/legal/privacy-policy) for the most accurate reproduction.*
+
+# Singer: Privacy Policy
+
+Singerco.com/Singercanada.com knows that you care how information about you is used and shared. This notice describes our privacy policy. 
+
+Like many Web sites, we use "cookies," and we obtain certain types of information when your Web browser accesses Singerco.com/Singercanada.com. Cookies are alphanumeric identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser. Examples of the information we collect and analyze include the Internet protocol (IP) address used to connect your computer to the Internet so that data (such as the Web pages you request) can be sent to you; login; e-mail address and password (if you provide these to us by submitting a form); computer and connection information (such as browser type and version), operating system; the full Uniform Resource Locators (URL) clickstream to and through our Web site, including date and time; products you viewed or searched for; and to keep track of your shopping cart. We use the information that you provide for such purposes as responding to your requests, improving the online shopping experience, and communicating with you. We never share this information. This information does not identify you as an individual unless you voluntarily submit personally identifiable information through one of the forms on our site. 
+
+Information that you provide through the online Warranty Registration, as well as mail-in warranty registration, is used to analyze product sales and distribution; marketing strategies; and to gather demographic information about customers in a particular area. 
+
+Singer Sewing Company strictly prohibits the harvesting, mining or collection of e-mail addresses or other information from or through our web sites or web services. We also prohibit the harvesting, mining or collection of e-mail addresses from any ISP service for the purpose of sending Spam, and will terminate any user determined to have transmitted Spam that markets any of our web sites or system components or that contains links to or utilizes in any way our e-commerce systems.
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact our Web Administrator at [webmaster@singerco.com](mailto:webmaster@singerco.com) or write to: 
+
+Web Site Administrator  
+Singer Sewing Company  
+P.O. Box 7017  
+LaVergne, TN 37086-7017  
+1-800-4-SINGER   
+(615) 213-0880 Phone  
+(615) 213-0994 Fax  
+
