@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explorelinks.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425225646id_/http%3A//explorelinks.com/page.php%3Fpage%3Dprivacy-policy-for-www-explorelinks-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explorelinks.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007124105id_/http%3A//www.explorelinks.com/page.php%3Fpage%3Dprivacy-policy-for-www-explorelinks-com) for the most accurate reproduction.*
 
 # Privacy Policy for www.explorelinks.com | Explorelinks
 
