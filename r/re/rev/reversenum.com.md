@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversenum.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022124217id_/http%3A//www.reversenum.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversenum.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007220815id_/http%3A//reversenum.com/privacypolicy.php) for the most accurate reproduction.*
 
 # ReverseNum Privacy Policy
 
