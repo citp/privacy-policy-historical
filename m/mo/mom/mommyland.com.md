@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mommyland.com privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601070619id_/http%3A//www.mommyland.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommyland.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007214901id_/http%3A//www.mommyland.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy- Mommyland
 
