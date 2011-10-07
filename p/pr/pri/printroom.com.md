@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printroom.com privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010225401id_/http%3A//printroom.com/info/Privacy_Policy.asp%3Fshopperid%3DQ5HJX1DT7LW18GCSK8TSW5JEAKS7EM41%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printroom.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007122551id_/http%3A//printroom.com/info/Privacy_Policy.asp%3Fshopperid%3D2M55E5BERMBF8LURB51KXQFF8GRGC403%26) for the most accurate reproduction.*
 
 # Printroom: Privacy Policy
 
