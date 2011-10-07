@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the freshwap.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213091021id_/http%3A//freshwap.net/108-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshwap.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007035522id_/http%3A//www.freshwap.com/108-Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy HotFile FileServe & Rapidshare Downloads - Freshwap.Net
-
-  
-
-Author  [admin](http://www.freshwap.net/user/admin/) Categorie  \---. 
+# Privacy Policy Free Download - Freshwap
 
 **Freshwap.Net – Privacy Policy**
 
@@ -29,36 +25,3 @@ Freshwap.Net reserves the right, at any time, to modify, alter or update the Pri
 \------------------------------------------------------------------  
 \-------------------------------------------------------  
 +
-
-  
-
-
-## [**Privacy Policy Fast Download**](http://www.100xdownloads.com/1/?q=Privacy%20Policy)
-
-  
-[**Privacy Policy Downloads**](http://www.freshwap.net/ea9/dl/Privacy%20Policy)   
-
-
-##### Privacy Policy Download via Hotfile Rapidshare Fileserve Megaupload & FileSonic, Privacy Policy free torrent download,
-
-**Related Posts:**
-
-* [Privacy in Context: Technology, Policy, and the Integrity of Social Life](http://www.freshwap.net/ebooks/313140-privacy-in-context-technology-policy-and-the.html)
-* [Privacy Eraser Pro 8.25](http://www.freshwap.net/applications/168646-privacy-eraser-pro-8.25.html)
-* [Privacy Eraser Pro 8.25](http://www.freshwap.net/applications/168420-privacy-eraser-pro-8.25.html)
-* [Privacy Eraser Pro 8.0.2](http://www.freshwap.net/applications/33113-privacy-eraser-pro-8.0.2.html)
-* [Privacy Eraser Pro v8.50](http://www.freshwap.net/applications/417107-privacy-eraser-pro-v8.50.html)
-  
-
-
-Dear visitor, you went to the site as unregistered user. Only registered and authorized users can leave comments. Please log in or **[Register](http://www.freshwap.net/index.php?do=register "Register")** , if not registered.
-
-  
-
-
-#8 **[maan](http://www.freshwap.net/user/maan/)** 2 September 2010 01:57
-
-| Information |   
----|---|---  
-|  | Members of **Guest** cannot leave comments. |   
-|  | 
