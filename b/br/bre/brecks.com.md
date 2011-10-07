@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp%3Fai%3D139) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp%3Fai%3D139) for the most accurate reproduction.*
 
 # <b>Breck's Privacy Policy</b>
 
@@ -17,7 +17,7 @@
 |  Ships in Fall   
 | [ 
 
-  *  _ **Tulips**_
+  *  _ **Tulip Bulbs**_
 
 ](https://web.archive.org/category.asp_Q_c_E_7_A_l_E_1_A_g_E_1)  
 | [ 
@@ -60,6 +60,11 @@
   *  _ **Fall-shipping Collections**_
 
 ](https://web.archive.org/category.asp_Q_c_E_40_A_l_E_1_A_g_E_1)  
+| [ 
+
+  *  _ **Iris**_
+
+](https://web.archive.org/category.asp_Q_c_E_121_A_l_E_1_A_g_E_1)  
 |  Ships in Spring   
 | [ 
 
@@ -104,17 +109,18 @@
   
   
   
-[](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp?ai=136)  
+  
+[](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp?ai=136)  
 ---  
-| [About Breck's](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp?ai=146)  
-  | [Affiliate Program](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp?ai=404)  
-  | [Check Out](https://brecks.com/secure/checkout1.asp?id=196003FYWISN&ky=725258&oc=SITE&eid=)  
-  | [Guarantee](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp?ai=138)  
-  | [Help Center](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp?ai=378)  
-  | [Order Status](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/login.asp?login_type=order_status)  
-  | [Privacy Policy](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp?ai=139)  
-  | [Shipping Info](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/article.asp?ai=142)  
-  | [Shopping Cart](https://web.archive.org/web/20101213060559id_/http%3A//brecks.com/cart.asp)  
+| [About Breck's](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp?ai=146)  
+  | [Affiliate Program](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp?ai=404)  
+  | [Check Out](https://brecks.com/secure/checkout1.asp?id=1CDC6F74U7OX&ky=725258&oc=SITE&eid=)  
+  | [Guarantee](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp?ai=138)  
+  | [Help Center](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp?ai=378)  
+  | [Order Status](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/login.asp?login_type=order_status)  
+  | [Privacy Policy](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp?ai=139)  
+  | [Shipping Info](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/article.asp?ai=142)  
+  | [Shopping Cart](https://web.archive.org/web/20111007085830id_/http%3A//brecks.com/cart.asp)  
   
 * * *
 
