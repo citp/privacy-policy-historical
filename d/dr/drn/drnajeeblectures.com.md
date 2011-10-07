@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drnajeeblectures.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221192100id_/http%3A//drnajeeblectures.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drnajeeblectures.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008004237id_/http%3A//drnajeeblectures.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Dr.Najeeb - Privacy Policy
 
