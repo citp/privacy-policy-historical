@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the duckduckgo.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216150257id_/https%3A//duckduckgo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duckduckgo.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008004536id_/http%3A//duckduckgo.com/privacy.html) for the most accurate reproduction.*
 
 # Duck Duck Go Privacy Policy
 
 _Privacy_
 
-**By default,[DuckDuckGo](https://duckduckgo.com/?q=&t=i) does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care. 
+**[DuckDuckGo](https://duckduckgo.com/?q=&t=i) does not collect or share personal information.** That is our privacy policy in a nutshell. The rest of this page tries to explain why you should care. 
 
   * Why You Should Care - Search Leakage
   * Why You Should Care - Search History
@@ -14,11 +14,15 @@ _Privacy_
 
 
 
-This page was last updated on Nov. 16, 2010. This paragraph was added.   
-Before that it was updated on Sep. 25, 2010. This paragraph was added.   
-Before that it was updated on Sep. 16, 2010. This paragraph was added. 
+Also check out [this illustrated guide](http://donttrack.us/), which links to apps that helps you protect your privacy beyond search. 
+
+Last substantively updated on 11/16/10. This paragraph was added.   
+Before that, on 9/25/10. This paragraph was added.   
+Before that, on 9/16/10. This paragraph was added. 
 
 **Why You Should Care - Search Leakage**   [top]
+
+If you'd prefer to see an illustrated guide, [click here](http://donttrack.us/).
 
 At other search engines, when you do a search and then click on a link, your search terms are sent to that site you clicked on (in the [HTTP referrer header](http://duckduckgo.com/HTTP_referrer)). We call this sharing of personal information "search leakage." 
 
@@ -44,6 +48,8 @@ Because of these drawbacks in HTTPS, POST and proxies we decided to take the red
 
 **Why You Should Care - Search History**   [top]
 
+If you'd prefer to see an illustrated guide, [click here](http://donttrack.us/).
+
 Other search engines save your search history. Usually your searches are saved along with the date and time of the search, some information about your computer (e.g. your [IP address](https://duckduckgo.com/IP_Address), [User agent](http://duckduckgo.com/User_agent) and often a unique identifier stored in a [browser cookie](https://duckduckgo.com/HTTP_cookie)), and if you are logged in, your account information (e.g. name and email address). 
 
 With only the timestamp and computer information, your searches can often be traced directly to you. With the additional account information, they _are_ associated directly with you. 
@@ -62,7 +68,7 @@ This makes sense because they may be legally obligated to do so. However, search
 
 The bottom line is if search engines have your information, it could get out, even if they have the best intentions. And this information (your search history) can be pretty personal. 
 
-For these reasons, DuckDuckGo takes the approach to not collect any personal information by default. The decisions of whether and how to comply with law enforcement requests, whether and how to anonymize data, and how to best protect your information from hackers are out of our hands. Your search history is safe with us because it cannot be tied to you in any way. 
+For these reasons, DuckDuckGo takes the approach to not collect any personal information. The decisions of whether and how to comply with law enforcement requests, whether and how to anonymize data, and how to best protect your information from hackers are out of our hands. Your search history is safe with us because it cannot be tied to you in any way. 
 
 **Information Not Collected**   [top]
 
@@ -90,13 +96,13 @@ Additionally, if you use our [!bang syntax/dropdown](https://web.archive.org/ban
 
 We also save searches, but again, not in a personally identifiable way, as we do not store IP addresses or unique User agent strings. We use aggregate, non-personal search data to improve things like misspellings. 
 
-Similarly, we may add an affiliate code to some eCommerce sites (right now just Amazon) that results in small commissions being paid back to DuckDuckGo when you make purchases at those sites. We do not use any third parties to do the code insertion, and we do not work with any sites that share personally identifiable information (e.g. name, address, etc.) via their affiliate programs. This means that no information is shared from DuckDuckGo to the sites, and the only information that is collected from this process is product information, which is not tied to any particular user and which we do not save or store on our end. It is completely analogous to the search result case from the previous paragraph--we can see anonymous product info such that we cannot tie them to any particular person (or even tie multiple purchases together). This whole affiliate process is an attempt to keep advertising to a minimal level on DuckDuckGo. 
+Similarly, we may add an affiliate code to some eCommerce sites (e.g. Amazon & eBay) that results in small commissions being paid back to DuckDuckGo when you make purchases at those sites. We do not use any third parties to do the code insertion, and we do not work with any sites that share personally identifiable information (e.g. name, address, etc.) via their affiliate programs. This means that no information is shared from DuckDuckGo to the sites, and the only information that is collected from this process is product information, which is not tied to any particular user and which we do not save or store on our end. It is completely analogous to the search result case from the previous paragraph--we can see anonymous product info such that we cannot tie them to any particular person (or even tie multiple purchases together). This whole affiliate process is an attempt to keep advertising to a minimal level on DuckDuckGo. 
 
 Finally, if you [give us feedback](https://web.archive.org/feedback.html), it may be stored in our email. However, you can give anonymous feedback (by not entering your email or other personal info on the feedback form). 
 
 **Information Shared**   [top]
 
-If you turn redirects off in the [settings](https://duckduckgo.com/settings.html) and you don't turn POST on or use our [encrypted site](https://duckduckgo.com/), then your search could leak to sites you click on. Yet as explained above, this does not happen by default. 
+If you turn redirects off in the [settings](https://duckduckgo.com/settings.html) and you don't either turn POST on or use our [encrypted site](https://duckduckgo.com/), then your search could leak to sites you click on. Yet as explained above, this does not happen by default. 
 
 Also, like anyone else, we will comply with court ordered legal requests. However, in our case, we don't expect any because there is nothing useful to give them since we don't collect any personal information. 
 
@@ -113,17 +119,10 @@ Each does things a bit differently in terms of privacy and very differently in t
 
 **Updates**   [top]
 
-If this policy is updated, we will update the text of this page and provide notice to you at [http://duckduckgo.com/about.html](https://web.archive.org/about.html) by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days. This privacy policy was last modified on August 13, 2010. 
+If this policy is substantively updated, we will update the text of this page and provide notice to you at [http://duckduckgo.com/about.html](https://web.archive.org/about.html) by writing '(Updated)' in red next to the link to this page (in the footer) for a period of at least 30 days. 
 
 **Feedback**   [top]
 
 I ([Gabriel Weinberg](https://duckduckgo.com/?q=Gabriel+Weinberg)) am the founder of Duck Duck Go and personally wrote this privacy policy. If you have any questions or concerns, please [submit feedback](https://duckduckgo.com/feedback.html), which gets sent to my personal email. 
 
-**More Resources**   [top]
-
-If you want to know more about search privacy, check out these resources. 
-
-  * [Privacy-Protecting Search Engine Challenges Google](http://www.technologyreview.com/blog/guest/25224/) (MIT TechReview) 
-  * [EFF Search Engines Portal](http://www.eff.org/issues/search-engines)
-
-
+Also check out [this illustrated guide](http://donttrack.us/), which links to apps that helps you protect your privacy beyond search. 
