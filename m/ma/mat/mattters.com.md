@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mattters.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204060424id_/http%3A//mattters.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mattters.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007140813id_/http%3A//mattters.com/-/privacy) for the most accurate reproduction.*
 
 # Mattters - Follow Your Interests
 
-## Privacy
+[ ](http://mattters.com/)
 
 Mattters is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Mattters Web site and governs data collection and usage. By using the Mattters website, you consent to the data practices described in this statement. Unauthorized use of this system is prohibited. Usage may be subject to security testing and monitoring. Misuse is subject to criminal prosecution; and no expectation of privacy except as otherwise provided by applicable privacy laws.
 
@@ -49,6 +49,3 @@ Mattters welcomes your comments regarding this Statement of Privacy. If you beli
 [contact@mattters.com](mailto:contact@mattters.com)
 
 We will use commercially reasonable efforts to promptly determine and remedy the problem. 
-
-Copyright Mattters 2010. All rights reserved.  
-All logos and blog names trademark their respective owners. All content copyright their respective owners. 
