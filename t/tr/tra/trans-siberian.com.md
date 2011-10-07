@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trans-siberian.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629003513id_/http%3A//trans-siberian.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trans-siberian.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007060252id_/http%3A//www.trans-siberian.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Trans-Siberian Orchestra - Official website
 
