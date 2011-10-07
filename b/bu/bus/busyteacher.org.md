@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213165345id_/http%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busyteacher.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007133717id_/http%3A//busyteacher.org/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy for BusyTeacher.org » BusyTeacher.org - Free Printable Worksheets For Busy Teachers
+# Privacy Policy for BusyTeacher.org » BusyTeacher: Free Printable Worksheets For Busy Teachers Like YOU!
 
 | 
 
