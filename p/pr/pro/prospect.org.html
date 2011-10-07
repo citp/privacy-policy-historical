@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the prospect.org privacy policy that was archived on 2011-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110414082415id_/http%3A//prospect.org/cs/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prospect.org privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007140112id_/http%3A//prospect.org/cs/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 <title>Privacy Policy</title>
-
+<link rel="icon" type="image/x-icon" href="http://prospect.org/site/_media/_btns/favicon.ico">
 <!-- Scripts -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4/jquery.min.js"></script>
 <script type="text/javascript" src="/galleries/default-file/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="http://blog.prospect.org/php/current-date.js.php"></script>
 <script type="text/javascript" src="/site/_script/mouse.js"></script>
@@ -32,37 +33,98 @@ GA_googleAddSlot("ca-pub-9637142192954691", "LastBlogAds160x600");
 <script type="text/javascript">
 GA_googleFetchAds();
 </script>
-<script type="text/javascript">
-var addthis_config = {
-          services_compact: 'digg, stumbleupon, reddit, delicious, instapaper, email, print',
-}
-</script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=gabrielarana"></script>
 
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=gabrielarana"></script>
+<script type="text/javascript">
+
+  function toggle(itemID){ 
+		var allPageTags = new Array(); 
+		var allPageTags=document.getElementsByTagName("div");  //Populate the array with all the page div's  
+		for (i=0; i<allPageTags.length; i++) {  //Cycle through the tags using a for loop   
+			if (allPageTags[i].className=="toggle") {  //Pick out the tags with our class name 
+				allPageTags[i].style.display='none';  //set div visibility to none 
+			}  
+		} 
+	
+		// set visibility inline on selected id
+		document.getElementById(itemID).style.display = 'inline'; 
+	}
+
+</script>
+	<script type="text/javascript">
+			 // Ads serving...
+    $('div.banner').each(function()
+    {
+      var id = $(this).attr('id').replace(/_hidden/, '');
+      var pos = $("#" + id).position();
+
+      if (pos)
+      {
+        // Show the banner directly over the placeholder
+        $(this).css(
+        {
+          "left": pos.left +"px",
+          "top":  pos.top  +"px"
+        });
+        $("#" + id).height($(this).height() + 5);
+        $("#" + id).width($(this).width());
+      }
+    });
+
+    // Repositioning the ads divs
+    $(window).scroll(function()
+    {
+      $('div.banner').each(function()
+      {
+        var id = $(this).attr('id').replace(/_hidden/, '');
+        var pos = $("#" + id).position();
+
+        if (pos)
+        {
+          // Show the banner directly over the placeholder
+          $(this).css(
+          {
+            "left": pos.left +"px",
+            "top":  pos.top  +"px"
+          });
+        }
+      });
+    });
+    </script>
 <!-- CSS -->
-<link href="/site/_css/text_common.css" rel="stylesheet" type="text/css" media="all">
-<link href="/site/_css/print.css" rel="stylesheet" type="text/css" media="print">
-<link rel="stylesheet" href="http://prospect.org/site/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
+<link href="/site/_css/combined.css" rel="stylesheet" type="text/css" media="all">
+
 
 <!-- MetaData -->
 <meta property="og:site_name" content="The American Prospect">
 <meta property="fb:admins" content="431364">	
 
-<link rel="alternate" type="application/rss+xml" title="Articles" href="/articles_rss.jsp">
-<link rel="alternate" type="application/rss+xml" title="Issue" href="/issues_rss.jsp">
 
 <!-- CMS -->
 
 
 <!-- PopupAd -->
 
-<!--Iframe Tag  -->
-<!-- begin ZEDO for channel:  TheAmericanProspect - Pops , publisher: TheAmericanProspect , Ad Dimension: Pixel/Popup - 1 x 1 -->
-</head><body onload="preloadImages();" bgcolor="#999999" leftmargin="20" marginheight="0" marginwidth="20" topmargin="0"><iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=305;c=4320/3578/1;s=1045;d=15;w=1;h=1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="1" height="1"></iframe>
-<!-- end ZEDO for channel:  TheAmericanProspect - Pops , publisher: TheAmericanProspect , Ad Dimension: Pixel/Popup - 1 x 1 -->
 
-	
-	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23342420-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+	</head>
+	<body bgcolor="#999999" leftmargin="20" marginheight="0" marginwidth="20" topmargin="0">
+	<!--Iframe Tag  -->
+<!-- begin ZEDO for channel:  TheAmericanProspect - Pops , publisher: TheAmericanProspect , Ad Dimension: Pixel/Popup - 1 x 1 -->
+<iframe src="http://c5.zedo.com/jsc/c5/ff2.html?n=305;c=4320/3578/1;s=1045;d=15;w=1;h=1" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="1" height="1"></iframe>
+<!-- end ZEDO for channel:  TheAmericanProspect - Pops , publisher: TheAmericanProspect , Ad Dimension: Pixel/Popup - 1 x 1 -->
 	<a name="top"></a>
 	
 		<div align="center">
@@ -123,8 +185,10 @@ var addthis_config = {
 			<li><a href="http://prospect.org/">Main page</a></li>
 			<li><a id="current">Blogs ∨</a>
 				<ul>
-					<li><a href="http://prospect.org/cs/blogs/tapped">TAPPED</a></li>
+					<li><a href="http://prospect.org/cs/blogs/robert_kuttner">Robert Kuttner</a></li>
+					<li><a href="http://prospect.org/cs/blogs/harold_meyerson">Harold Meyerson</a></li>
 					<li><a href="http://prospect.org/cs/blogs/adam_serwer">Adam Serwer</a></li>
+										<li><a href="http://prospect.org/cs/blogs/tapped">TAPPED</a></li>
 			   </ul>
 		  </li>
 		  <li><a href="http://prospect.org/cs/archive/articles_by_subject">Topics ∨</a>
@@ -144,7 +208,6 @@ var addthis_config = {
                 <li><a href="http://prospect.org/cs/author?id=2602">Jamelle Bouie</a></li>
                 <li><a href="http://prospect.org/cs/author?id=2489">Monica Potts</a></li>
                 <li><a href="http://prospect.org/cs/author?id=1379">Ben Adler</a></li>
-                <li><a href="http://prospect.org/cs/author?id=2706">Nancy Goldstein</a></li>
                 <li><a href="http://prospect.org/cs/author?id=1328">Scott Lemieux</a></li>
                 <li><a href="http://prospect.org/cs/author?id=1471">Courtney Martin</a></li>
                 <li><a href="http://prospect.org/cs/author?id=911">Paul Waldman</a></li>
@@ -218,70 +281,20 @@ if(!document.getElementsByTagName('link')[1]){
     <tbody>
         <tr height="237">
             <td width="190" valign="top" background="/site/_media/_common/bckgnd_bump.gif" align="left" class="10px">
-            <div style="overflow: hidden;" class="pad_20L20R"> 
-
-
-<br>
-<!-- ******************** ---->
-
-
-<center>
-<a href="/cs/current_issue">
-<img class="dontindex" src="/galleries/img_sidebar/0511_HomepageCover.jpg" alt="Current Issue" title="Current Issue" border="0">
-</a><br>
-
-<a href="/cs/subscribe" class="nav_sub"><font style="font-family:Ariel Black; color:#CC0001; font-weight:bold">SUBSCRIBE</font></a>
-</center>
-
-</div>
-<style>
-.connectbox {
-width: 160px;
-border: 1px solid;
-text-align: center;
-height: 65px;
-}
-
-.connectbox p {
-font-size:12px;
-line-height:18px;
-}
-
-.connecticons {
-padding-left: 26px;
-}
-
-.connecticons img {
-padding-left: 5px;
-padding-right: 5px;
-}
-</style>
-<div style="padding-top:15px;">
-<center>
-<div class="connectbox"><div style="margin-bottom: 10px;"><img src="http://prospect.org/galleries/default-image/connect.jpg"></div>
-<div class="connecticons">
-<a href="http://www.facebook.com/TheAmericanProspect"><img style="float:left;" src="http://prospect.org/galleries/default-image/facebook.png"></a>
-<a href="http://twitter.com/theprospect"><img style="float:left;" src="http://prospect.org/galleries/default-image/twitter.png"></a>
-
-<span style="float:left; border:none; margin-left:-10px;" class="menu">
-		<ul>
-
-			<li style="width:24px; border:none;"><a id="current"><img src="http://prospect.org/galleries/default-image/rss.png"></a>
-				<ul>
-					<li><a href="http://prospect.org/articles_rss.jsp">Articles RSS</a></li>
-					<li><a href="http://blog.prospect.org/blog/weblog/index.xml">TAPPED RSS</a></li>
-<li><a href="http://blog.prospect.org/blog/adam_serwer/rss.xml">Adam Serwer RSS</a></li>
-			   </ul>
-</li></ul></span>
-
-<p></p>
-</div></div></center>
-            </div></td>
+            <div style="overflow: hidden;" class="pad_20L20R">
+            <div style="text-align:center;padding-top:15px;"> <a href="/cs/current_issue"> <img width="140" height="184" border="0" class="dontindex" src="http://prospect.org/galleries/img_sidebar/1011_HomepageCover.jpg" alt="Current Issue" title="Current Issue"> </a><br>
+            <a href="/cs/subscribe" class="nav_sub"><font style="font-family:Ariel Black; color:#CC0001; font-weight:bold">SUBSCRIBE</font></a></div>
+            <div style="padding-top: 11px;width:160px;text-align:center;font-size:10px;font-family:verdana;font-weight:bold;letter-spacing:1;"> Love the <i>Prospect</i>? Show it: </div>
+            <div style="padding-top: 11px;padding-bottom:11px;width:160px;">
+            <div style="padding-bottom:11px;"><!-- Place this tag in your head or just before your close body tag --> <script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script> <g:plusone size="medium" href="http://prospect.org"></g:plusone> </div>
+            <div style="padding-bottom:11px;"> <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script> <a href="http://twitter.com/theprospect" class="twitter-follow-button" data-show-count="false">Follow @theprospect</a> </div>
+            <div style="padding-bottom:11px;">        <iframe scrolling="no" frameborder="0" src="http://www.facebook.com/plugins/like.php?app_id=205982192778110&amp;href=http%3A%2F%2Fwww.facebook.com%2Ftheamericanprospect&amp;send=false&amp;layout=standard&amp;width=160&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=70" style="border:none; overflow:hidden; width:160px; height:70px;" allowtransparency="true"></iframe> </div>
+            </div>
+            </div>
+            </td>
         </tr>
-
     </tbody>
 </table>
-
 	
 
     
@@ -292,27 +305,25 @@ padding-right: 5px;
             <td width="190" valign="top" background="/site/_media/_common/bckgnd_bump.gif" align="left" class="10px">
             <div style="overflow: hidden;" class="pad_20L20R"> 
 
-<!-- begin ad tag-->
-<div class="sidebarad">
+
 <script type="text/javascript">
-  GA_googleFillSlot("AmericanProspect_sidebar_Top_160x600");
-</script></div>
+GA_googleFillSlot("AmericanProspect_sidebar_Top_160x600");
+</script>
+<p>  </p>
 
-<!-- AmericanProspect_Sidebar_Middle_Top -->
-<div class="sidebarad"><script type="text/javascript">
+
+<script type="text/javascript">
 GA_googleFillSlot("AmericanProspect_Sidebar_Middle_Top");
-</script></div>
- <!-- End ad tag -->
+</script>
+<p> </p>
 
-<!-- AmericanProspect_Sidebar_middle_160x600 -->
-<div class="sidebarad"><script type="text/javascript">
+
+<script type="text/javascript">
 GA_googleFillSlot("AmericanProspect_Sidebar_middle_160x600");
-</script></div>
+</script>
 
-<!-- AmericanProspect_sidebar_160x240 -->
-<div class="sidebarad"><script type="text/javascript">
-GA_googleFillSlot("AmericanProspect_sidebar_160x240");
-</script></div>
+
+
 </div>
 
             </td>
@@ -346,39 +357,27 @@ GA_googleFillSlot("AmericanProspect_sidebar_160x240");
             <td width="190" valign="top" background="/site/_media/_common/bckgnd_bump.gif" align="left" class="10px"> 
             <div style="overflow: hidden;" class="pad_20L20R"> 
 <a href="https://www.kable.com/pub/anpt/multigift.asp" target="outlink">			
-      <img class="dontindex" src="/galleries/img_sidebar/Gift-Sidebar-160.jpg" border="0"></a>
+      <img class="dontindex" src="/galleries/img_sidebar/Gift-Sidebar-160.jpg" width="160" height="85" border="0"></a>
+<p>  </p>
 
+
+
+
+<p> </p>
 </div>
             </td>
         </tr>
 <tr height="21">
-            <td valign="top" align="left" width="190" background="/site/_media/_common/bckgnd_bump.gif" height="21"></td>
+            <td valign="top" align="left" width="190" background="/site/_media/_common/bckgnd_bump.gif" height="21">
+
+</td>
         </tr>
     </tbody>
 </table>
 	
 
     
-	<!-- Begin comScore Tag -->
-<script>
-    document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
-</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
-
-<script>
-  COMSCORE.beacon({
-    c1:2,
-    c2:8043604,
-    c3:"",
-    c4:"",
-    c5:"",
-    c6:"",
-    c15:""
-  });
-</script>
-<noscript>
-  <img src="http://b.scorecardresearch.com/p?c1=2&c2=8043604&c3=&c4=&c5=&c6=&c15=&cj=1" />
-</noscript>
-<!-- End comScore Tag -->
+	
 	
 
 
@@ -537,14 +536,8 @@ Washington, DC  20036<br>
 
 
 <table width="752" border="0" cellspacing="0" cellpadding="0" class="noprint">
-	<tbody><tr height="21">
-		<td align="left" valign="top" width="752" height="21"><img src="/site/_media/_common/divider_h_752.gif" alt="" height="21" width="752" border="0"></td>
-	</tr>
-	<tr>
-		<td align="left" valign="top" width="752"><div class="pad_10L"><span><a class="bold_red" href="/cs/donate">Support independent media with a tax-deductible donation.</a></span></div></td>
-	</tr>
-	<tr height="21">
-		<td align="left" valign="top" width="752" height="21"><img src="/site/_media/_common/divider_h_752.gif" alt="" height="21" width="752" border="0"></td>
+	<tbody><tr>
+		<td style="padding-bottom:10px;" align="left" valign="top" width="752"><div class="pad_10L"><span><a class="bold_red" href="/cs/donate">Support independent media with a tax-deductible donation.</a></span></div></td>
 	</tr>
 	<tr>
 		<td width="752">
@@ -745,14 +738,7 @@ Washington, DC  20036<br>
 
 
 
-							<table width="752" border="0" cellspacing="0" cellpadding="0" class="noprint">
-								<tbody><tr height="21">
-									<td align="left" valign="top" width="752" height="21"><hr></td>
-								</tr>
-								<tr>
-									<td align="left" valign="top" width="752">
-										<div>
-											<div class="pad_10L10R">
+							<div class="pad_10"><div class="homepagefootermenu">
 											
 											
 												<a class="nav_sub" href="/cs/advertise">Advertise</a>
@@ -773,52 +759,25 @@ Washington, DC  20036<br>
 												<a class="nav_sub" href="/cs/privacy_policy">Privacy Policy</a>
 												
 											
-											</div>
-										</div>
-									</td>
-								</tr>
-							</tbody></table>
-						</div>
-					</td>
+										
+						</div></div>
+						
+					</div></td>
 				</tr>
 			</tbody></table>
-			<table width="1002" border="0" cellspacing="0" cellpadding="0" class="noprint">
-				<tbody><tr>
-					<td align="left" valign="top" width="1002">
-						<div align="left">
-							<img src="/site/_media/_common/footer_cap_bottom.gif" alt="" height="35" width="812" border="0">
-							<div align="left">
-								<div class="pad_20L">
+			<div style="width: 1002px; text-align: left;"><img src="/site/_media/_common/footer_cap_bottom.gif" alt="" height="35" width="812" border="0">
+			
+			<div class="pad_20L">
 									<p><span class="italic_grey"><span>© 2011 by The American Prospect, Inc.</span></span> &nbsp;|&nbsp; <a href="/cs/privacy_policy" class="black">Privacy Policy</a> &nbsp;|&nbsp; <a href="/cs/about_tap/permissions" class="black">Permissions and Reprints</a></p>
 								</div>
-							</div>
-						</div>
-					</td>
-				</tr>
-			</tbody></table>
-			<br>
+			</div>
+			
+								
+							
 		</div>
 
     
-<script type="text/javascript">
-var _sf_async_config={uid:7801,domain:"prospect.org"};
-(function(){
-  function loadChartbeat() {
-    window._sf_endpt=(new Date()).getTime();
-    var e = document.createElement('script');
-    e.setAttribute('language', 'javascript');
-    e.setAttribute('type', 'text/javascript');
-    e.setAttribute('src',
-       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
-       "js/chartbeat.js");
-    document.body.appendChild(e);
-  }
-  var oldonload = window.onload;
-  window.onload = (typeof window.onload != 'function') ?
-     loadChartbeat : function() { oldonload(); loadChartbeat(); };
-})();
 
-</script>
 <script type="text/javascript">
 
   var _gaq = _gaq || [];
@@ -842,6 +801,108 @@ var _sf_async_config={uid:7801,domain:"prospect.org"};
 
 
 
+<div id="banner_top_hidden" class="banner" style="position: absolute; top: -1000px; left: -1000px;">
+<script type="text/javascript">
+  GA_googleFillSlot("AmericanProspect_sidebar_Top_160x600");
+</script>
+</div>
+
+<div id="banner2" class="banner" style="position: absolute; top: -1000px; left: -1000px; height: 5px; width: 0px;">
+<script type="text/javascript">
+GA_googleFillSlot("AmericanProspect_Sidebar_Middle_Top");
+</script></div>
+
+<div id="banner3" class="banner" style="position: absolute; top: -1000px; left: -1000px; height: 5px; width: 0px;">
+<script type="text/javascript">
+GA_googleFillSlot("AmericanProspect_Sidebar_middle_160x600");
+</script></div>
+
+<div id="banner4" class="banner" style="position: absolute; top: -1000px; left: -1000px; height: 5px; width: 0px;">
+<script type="text/javascript">
+GA_googleFillSlot("AmericanProspect_sidebar_160x240");
+</script></div>
+
+<div id="headerall" class="banner" style="position: absolute; top: -1000px; left: -1000px; height: 5px; width: 0px;">
+<script type="text/javascript">
+  GA_googleFillSlot("AmericanProspect_Header_468x60");
+</script></div>
+
+
+	<script tyle="text/javascript">
+			 // Ads serving...
+    $('div.banner').each(function()
+    {
+      var id = $(this).attr('id').replace(/_hidden/, '');
+      var pos = $("#" + id).position();
+
+      if (pos)
+      {
+        // Show the banner directly over the placeholder
+        $(this).css(
+        {
+          "left": pos.left +"px",
+          "top":  pos.top  +"px"
+        });
+        $("#" + id).height($(this).height() + 5);
+        $("#" + id).width($(this).width());
+      }
+    });
+
+    // Repositioning the ads divs
+    $(window).scroll(function()
+    {
+      $('div.banner').each(function()
+      {
+        var id = $(this).attr('id').replace(/_hidden/, '');
+        var pos = $("#" + id).position();
+
+        if (pos)
+        {
+          // Show the banner directly over the placeholder
+          $(this).css(
+          {
+            "left": pos.left +"px",
+            "top":  pos.top  +"px"
+          });
+        }
+      });
+    });
+    </script>
+    <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+	<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+	<script type="text/javascript">
+		 var _rsCI="us-bpaww";
+		 var _rsCG="0";
+		 var _rsDN="//secure-us.imrworldwide.com/";
+		 var _rsPLfl=0;
+		 var _rsSE=1;
+		 var _rsSM=1.0;
+		 var _rsCL=1;
+	</script>
+	<script type="text/javascript" src="//secure-us.imrworldwide.com/v53.js"></script>
+	<noscript>
+	 <div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-bpaww&amp;cg=0&amp;cc=1" alt=""/></div>
+	</noscript>
+	<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+	<script type="text/javascript">
+var _sf_async_config={uid:7801,domain:"prospect.org"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+
+</script>
 	
 
 <script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
