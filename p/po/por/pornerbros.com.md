@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628213356id_/http%3A//www.pornerbros.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornerbros.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007143745id_/http%3A//www.pornerbros.com/privacy.html) for the most accurate reproduction.*
 
 # Free Sex Videos - Hot Sex Movies - Free Porn Tube
 
@@ -12,6 +12,8 @@ DATA COLLECTED
 
 * Personal Information:  
 o Non-Registered users can watch videos without registering and without any information being collected and processed. However the visitor's IP address will be recorded in the event that there is any misappropriation of information and/or content.
+
+[](http://www.hornymatches.com/dating/visit.php?campaign_id=40986 "Fuck Local Sluts")
 
 o Registered Users: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.  
 * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.  
@@ -31,7 +33,7 @@ USES
 DISCLOSURE OF INFORMATION
 
 * if under duty to do so PornerBros.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of PornerBros.com or our subscribers or others. This includes exchanging information with other companies and organizations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is PornerBros.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party.  
-* Should you deliberately upload any illegal material PormHub.com shall forward all available information to all relevant authorities and this without notice.  
+* Should you deliberately upload any illegal material Pornerbros.com shall forward all available information to all relevant authorities and this without notice.  
 \- We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
 
 SECURITY
