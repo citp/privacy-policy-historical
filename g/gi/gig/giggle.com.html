@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the giggle.com privacy policy that was archived on 2011-04-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110407143330id_/http%3A//www.giggle.com/eng/customerServiceDetails/privacy-policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the giggle.com privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007195320id_/http%3A//www.giggle.com/eng/customerServiceDetails/privacy-policy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- TEMPLATE: content_left_nav_template.cfm -->
@@ -21,7 +21,7 @@
 
 <!-- END metaTags.cfm --> 
 
-	<script type="text/javascript">
+	<script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript">
 		//Modal alert boxes
 		var g_ShowModal = true;
 		var g_cfid = "";
@@ -72,35 +72,8 @@
 	<link href="http://www.giggle.com/css/jquery-ui-1.7.2.smoothness.css" rel="stylesheet" type="text/css">
 	<link href="http://www.giggle.com/css/jquery.cluetip.css" rel="stylesheet" type="text/css">
 	<link href="http://www.giggle.com/css/jquery.tablesorter.css" rel="stylesheet" type="text/css">
+	<link href="http://www.giggle.com/css/styles.css" rel="stylesheet" type="text/css">
 
-	<style type="text/css">
-		@import url("http://www.giggle.com/css/01_generic.css");
-		@import url("http://www.giggle.com/css/02_specific.css");
-		@import url("http://www.giggle.com/css/03_fauxinline.css");
-		@import url("http://www.giggle.com/css/04_forms.css");
-		@import url("http://www.giggle.com/css/05_structure.css");
-		@import url("http://www.giggle.com/css/06_header.css");
-		@import url("http://www.giggle.com/css/07_leftblock.css");
-		@import url("http://www.giggle.com/css/08_footer.css");
-		@import url("http://www.giggle.com/css/09_alertboxes.css");
-		@import url("http://www.giggle.com/css/10_tables.css");
-		@import url("http://www.giggle.com/css/11_myaccount.css");
-		@import url("http://www.giggle.com/css/12_banners.css");
-		@import url("http://www.giggle.com/css/13_content_and_specifics.css");
-		@import url("http://www.giggle.com/css/14_jquery.css");
-		
-			@import url("http://www.giggle.com/css/15_checkout_general.css");
-			@import url("http://www.giggle.com/css/16_checkout_login.css");
-			@import url("http://www.giggle.com/css/17_checkout_billing_shipping.css");
-			@import url("http://www.giggle.com/css/18_checkout_payment_review.css");
-			@import url("http://www.giggle.com/css/19_checkout_confirmation.css");
-
-
-			@import url("http://www.giggle.com/css/20_product_searchresults.css");
-			@import url("http://www.giggle.com/css/21_product_quickview.css");
-			@import url("http://www.giggle.com/css/22_product_details.css");
-		
-	</style>
 	<link rel="shortcut icon" href="http://www.giggle.com/favicon.ico" type="image/ico">
 
 	<script type="text/javascript">
@@ -168,7 +141,7 @@
 
 		<script language="javascript" type="text/javascript">
 			function CloseShoppingCartPopUp() {
-				$('shoppingBagWindow').style.display = 'none';
+				document.getElementById('shoppingBagWindow').style.display = 'none';
 				}
 
 			function ShoppingBagGoToCheckout()	{
@@ -190,6 +163,7 @@
 		</script>
 
 
+		
 	
 
 
@@ -205,7 +179,7 @@
 					<a href="http://www.giggle.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">login</a> / <a href="http://www.giggle.com/eng/storeSection/redirect.cfm?sectionID=b2c/myAccount/userProfile_userLogin.cfm&amp;var=d&amp;ckey=US&amp;ref=login">register</a>
 					
 		</div>
-
+		
 		<div id="topShoppingCart">
 			
 						
@@ -214,53 +188,55 @@
 						<a id="checkout" href="javascript:window.location.href='http://www.giggle.com/eng/checkout/redirect.cfm?sectionID=b2c/shoppingcart/shoppingcartdetails.cfm&amp;var=d&amp;ckey=US'">[Check out!]</a>
 				
 		</div>
-	</div>
-
-
+	</div>	
 	
 
+	
+	
 	<div id="topForm" class="topFormBackgroundeng">
 		<script language="javascript">
 			var useUrlRewrite = "true";
 			
 				var keyword_search_type = "icongo";
 			
-
+	
 			function trim(str, chars) {
 			    return ltrim(rtrim(str, chars), chars);
 			}
-
+	
 			function ltrim(str, chars) {
 			    chars = chars || "\\s";
 			    return str.replace(new RegExp("^[" + chars + "]+", "g"), "");
 			}
-
+	
 			function rtrim(str, chars) {
 			    chars = chars || "\\s";
 			    return str.replace(new RegExp("[" + chars + "]+$", "g"), "");
 			}
-
+	
 			function submitSearchFormOnTop() {
 				try	{
 					//var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 					//var actionVal = 'http://www.giggle.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
-
+	
 					var actionVal = 'http://www.giggle.com';
 					var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 					var keyword = document.getElementById('searchTerm').value;
-
+					
 					if($('searchTerm').value == 'enter keyword or item#' || $('searchTerm').value == '')
 					{
 						alert('Please enter a valid keyword search');
 						return false;
 					}
-
-					while(keyword.indexOf(' ') != -1) {
+					
+					/* GGL-1529 bundle_8 test case 
+						while(keyword.indexOf(' ') != -1) {
 						keyword = keyword.replace(' ','_');
 						}
-
+					*/
+	
 					actionVal = actionVal+'/eng/search/'+selectedValue+'-'+ escape(keyword);
-
+	
 					with(this.document) {
 						if (!document.all) // IE Again!
 						{
@@ -288,22 +264,23 @@
 						//alert('Javascript Error: \n' + e.message);
 					}
 				}
-
+	
 			function submitSearchFormOnTopNourlRewrite() {
 				try	{
 					var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 					var actionVal = 'http://www.giggle.com/eng/storeSection/redirect.cfm?sectionID=b2c/search/productSearchResults.cfm&SearchByKeyword=Y';
-
+	
 					//var actionVal = 'http://www.giggle.com';
 					// selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 					var keyword = document.getElementById('searchTerm').value;
-
-					while(keyword.indexOf(' ') != -1) {
+	
+					/* GGL-1529 bundle_8 test case 
+						while(keyword.indexOf(' ') != -1) {
 						keyword = keyword.replace(' ','_');
 						}
-
+					*/
 					//actionVal = actionVal+'/eng/search/'+selectedValue+'-'+ escape(keyword);
-
+	
 					with(this.document) {
 						if (!document.all) // IE Again!
 						{
@@ -331,24 +308,24 @@
 						//alert('Javascript Error: \n' + e.message);
 					}
 				}
-
+	
 			function submitSearchFormNexTopia() {
-
+	
 					//try	{
 						var selectedValue = document.getElementById('searchSection').options[document.getElementById('searchSection').selectedIndex].value;
 						var actionVal = "http://www.giggle.com/eng/search/advanced/";
-
+	
 						var keyword = trim(document.getElementById('searchTerm').value);
-
+	
 						if(keyword == '' || keyword == 'search for costumes'){
 							showAlert({message:'Please enter a keyword to search',closeBText:'x',cssClass:'alertboxSmall'});
 						} else {
 							keyword = keyword.replace(/\s+/g,'_').replace(/-/g,'~');
-
+	
 							//actionVal = actionVal+'/eng/search/'+selectedValue+'-'+ escape(keyword);
 							actionVal = actionVal +'?keywords='+ escape(keyword);
-
-
+							
+							
 							with(this.document) {
 								if (!document.all) // IE Again!
 								{
@@ -377,22 +354,22 @@
 							//alert('Javascript Error: \n' + e.message);
 					//}
 				}
-
-
-
+			
+			
+	
 			function submitSearchFormById(id) {
 				var t = 'sel-'+id;
 				var index = document.getElementById(t).index
 				document.getElementById('searchSection').options[index].selected=true;
 				submitSearchFormOnTop();
 				}
-
+	
 			function submitenter(myfield,e) {
 				var keycode;
 				if (window.event) keycode = window.event.keyCode;
 				else if (e) keycode = e.which;
 				else return true;
-
+	
 				if (keycode == 13) {
 					// submitSearchFormOnTop();
 					if ( window.keyword_search_type && keyword_search_type == "nextopia" )
@@ -401,30 +378,30 @@
 						setTimeout( "submitSearchFormOnTop();", 500 );
 					else
 						submitSearchFormOnTopNourlRewrite();
-
+	
 					return false;
 				}
 				else
 					return true;
 				}
-
-
+				
+				
 			function refreshShoppingCartVals()
 			{
 				DWREngine._execute(_cfCatLevelsLocation, null,'refreshShoppingCartQuantities',refreshShoppingCartVals_Result);
 			}
-
+			
 			function refreshShoppingCartVals_Result(result)
 			{
 				document.getElementById('ShoppingBagInfoLine').innerHTML = result;
-			}
-
+			}				
+	
 		</script>
-
+		
 		
 
 			
-
+		
 			<form id="form_search" name="form_search" action="" method="post">
 				<input type="text" name="keywords" id="searchTerm" value="enter keyword or item#" onblur="if (value == '') {value = 'enter keyword or item#'}" onfocus="this.value='';" onkeypress="return submitenter(this,event)">
 				<input type="hidden" name="isKeywordSearch" id="isKeywordSearch" value="true">
@@ -441,22 +418,22 @@
 						
 							<option id="17027" value="Health--Safety">Health &amp; Safety</option>
 						
-							<option id="17062" value="Toys--Activities">Toys &amp; Activities</option>
+							<option id="17062" value="Toys-Media">Toys &amp; Media</option>
 						
 							<option id="17099" value="Clothes-Accessories">Clothes &amp; Accessories</option>
-						
-							<option id="17145" value="Books--Media">Books &amp; Media</option>
 						
 							<option id="17171" value="Gifts--Keepsakes">Gifts &amp; Keepsakes</option>
 						
 							<option id="17970" value="giggle-Better-Basics">giggle Better Basics</option>
+						
+							<option id="19206" value="giggle-Deals">giggle Deals</option>
 						
 							<option id="18891" value="New-Arrivals">New Arrivals</option>
 						
 							<option id="18584" value="Sale">Sale</option>
 						
 				</select>
-
+		
 				
 					<input type="button" id="srcGo" name="srcGo" onclick="javascript:submitSearchFormOnTop();">
 				
@@ -466,13 +443,10 @@
 	</div>
 </div>
 
-<div id="header-banner"><span id="bphId_88"><img src="http://www.giggle.com/media/assets/global/images/header_mktg_banner.gif" width="478" height="48" border="0" usemap="#socialmediaMap">
-<map name="socialmediaMap">
-	<area shape="rect" coords="44,16,178,44" href="http://www.giggle.com/eng/storelocator/index.cfm" alt="find a store">
-	<area shape="rect" coords="191,16,282,44" href="http://www.facebook.com/pages/giggle/13628871307" target="_blank" alt="like us on Facebook!">
-	<area shape="rect" coords="293,15,400,44" href="http://twitter.com/#!/giggle" target="_blank" alt="follow us on Twitter!">
-</map>
-</span></div>
+<div id="header-banner"><span id="bphId_88"><p><img border="0" alt="" width="478" height="48" usemap="#socialmediaMap" src="/media/assets/global/images/header_mktg_banner.gif"> <map name="socialmediaMap">
+<area href="/eng/storelocator/index.cfm" shape="rect" alt="find a store" coords="44,16,178,44">
+<area href="http://www.facebook.com/pages/giggle/13628871307" shape="rect" alt="like us on Facebook!" target="_blank" coords="191,16,282,44">
+<area href="http://twitter.com/#!/giggle" shape="rect" alt="follow us on Twitter!" target="_blank" coords="293,15,400,44"></map></p></span></div>
 
 <ul id="icon-nav">
 	<li class="baby-registry">
@@ -555,7 +529,7 @@ Welcome to your giggle account, where you can see your order information, update
 <script language="javascript" type="text/javascript">
 	refreshShoppingCartVals();
 </script>
-
+	
 
 
 
@@ -563,7 +537,7 @@ Welcome to your giggle account, where you can see your order information, update
 		</div>
 
 
-
+	
 		
 			<div id="navigationMenu">
 				<!-- START mainMenu.cfm -->
@@ -764,8 +738,6 @@ Welcome to your giggle account, where you can see your order information, update
 												<li><a href="http://www.giggle.com/eng/categories/on-the-go--gear/electronics/air-purifiers">Air Purifiers</a></li>
 											
 												<li><a href="http://www.giggle.com/eng/categories/on-the-go--gear/electronics/timers">Timers</a></li>
-											
-												<li><a href="http://www.giggle.com/eng/categories/on-the-go--gear/electronics/camcorders-video-music">Camcorders, Video &amp; Music</a></li>
 											
 										</ul>
 									
@@ -1279,135 +1251,156 @@ Welcome to your giggle account, where you can see your order information, update
 							<div class="dept-wrap-bottom"></div>
 						</div>	
 						
-						</li><li id="lev1opt6"><a class="level1" href="http://www.giggle.com/eng/categories/toys--activities">Toys &amp; Activities</a>
+						</li><li id="lev1opt6"><a class="level1" href="http://www.giggle.com/eng/categories/toys-media">Toys &amp; Media</a>
 						
 						
 						
 						<div class="dept-wrap">	
 							<div class="cm-container"><span id="bphId_600"><!--::bannerPlaceholder_600::--></span></div>					
-							<ul id="storeNavSlidetoys--activities" class="level2">
+							<ul id="storeNavSlidetoys-media" class="level2">
 		 							
 								
 									<li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/mobiles">Mobiles </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/mobiles">Mobiles </a>
 									
 									
 									
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/organic-toys">Organic Toys </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/organic-toys">Organic Toys </a>
 									
 									
 									
 									
 										<ul class="level3">
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/organic-toys/teethers">Teethers</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/organic-toys/teethers">Teethers</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/organic-toys/rattles">Rattles</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/organic-toys/rattles">Rattles</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/organic-toys/dolls-puppets">Dolls &amp; Puppets</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/organic-toys/dolls-puppets">Dolls &amp; Puppets</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/organic-toys/activity">Activity</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/organic-toys/activity">Activity</a></li>
 											
 										</ul>
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/infant-toys">Infant Toys </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/infant-toys">Infant Toys </a>
 									
 									
 									
 									
 										<ul class="level3">
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/infant-toys/teethers">Teethers</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/infant-toys/teethers">Teethers</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/infant-toys/rattles">Rattles</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/infant-toys/rattles">Rattles</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/infant-toys/dolls-puppets">Dolls &amp; Puppets</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/infant-toys/dolls-puppets">Dolls &amp; Puppets</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/infant-toys/activity">Activity</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/infant-toys/activity">Activity</a></li>
 											
 										</ul>
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/dolls-plush-toys">Dolls &amp; Plush Toys </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/dolls-plush-toys">Dolls &amp; Plush Toys </a>
 									
 									
 									
 									
 										<ul class="level3">
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/dolls-plush-toys/infant">Infant</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/dolls-plush-toys/infant">Infant</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/dolls-plush-toys/plush">Plush</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/dolls-plush-toys/plush">Plush</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/dolls-plush-toys/baby-dolls">Baby Dolls</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/dolls-plush-toys/baby-dolls">Baby Dolls</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/dolls-plush-toys/activity">Activity</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/dolls-plush-toys/toddler">Toddler</a></li>
+											
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/dolls-plush-toys/activity">Activity</a></li>
 											
 										</ul>
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/bath-toys">Bath Toys </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/bath-toys">Bath Toys </a>
 									
 									
 									
 									
 										<ul class="level3">
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/bath-toys/activity">Activity</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/bath-toys/activity">Activity</a></li>
 											
 										</ul>
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/activity-toys">Activity Toys </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/activity-toys">Activity Toys </a>
 									
 									
 									
 									
 										<ul class="level3">
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/activity-toys/learning-toys">Learning Toys</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/activity-toys/learning-toys">Learning Toys</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/activity-toys/arts-crafts">Arts &amp; Crafts</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/activity-toys/arts-crafts">Arts &amp; Crafts</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/activity-toys/musical">Musical</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/activity-toys/musical">Musical</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/activity-toys/costume-dress-up">Costume &amp; Dress Up</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/activity-toys/costume-dress-up">Costume &amp; Dress Up</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/activity-toys/cars-trucks">Cars &amp; Trucks</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/activity-toys/cars-trucks">Cars &amp; Trucks</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/activity-toys/games-puzzles">Games &amp; Puzzles</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/activity-toys/games-puzzles">Games &amp; Puzzles</a></li>
 											
 										</ul>
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/wood-toys">Wood Toys </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/wood-toys">Wood Toys </a>
 									
 									
 									
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/toys--activities/ride-ons-push-toys">Ride-Ons &amp; Push Toys </a>
+									<a href="http://www.giggle.com/eng/categories/toys-media/ride-ons-push-toys">Ride-Ons &amp; Push Toys </a>
 									
 									
 									
 									
 										<ul class="level3">
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/ride-ons-push-toys/push-toys">Push Toys</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/ride-ons-push-toys/push-toys">Push Toys</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/ride-ons-push-toys/ride-ons">Ride-Ons</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/ride-ons-push-toys/ride-ons">Ride-Ons</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/toys--activities/ride-ons-push-toys/safety-helmets">Safety Helmets</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/ride-ons-push-toys/safety-helmets">Safety Helmets</a></li>
+											
+										</ul>
+									
+								
+									</li><li>
+									<a href="http://www.giggle.com/eng/categories/toys-media/books-media">Books &amp; Media </a>
+									
+									
+									
+									
+										<ul class="level3">
+											
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/books-media/baby-toddler-books">Baby &amp; Toddler Books</a></li>
+											
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/books-media/childrens-dvds">Children's DVDs</a></li>
+											
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/books-media/childrens-music">Children's Music</a></li>
+											
+												<li><a href="http://www.giggle.com/eng/categories/toys-media/books-media/parents-books-journals">Parents' Books &amp; Journals</a></li>
 											
 										</ul>
 									
@@ -1471,6 +1464,8 @@ Welcome to your giggle account, where you can see your order information, update
 											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/toddler/dress">Dress</a></li>
 											
+												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/toddler/sets">Sets</a></li>
+											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/toddler/sweaters">Sweaters</a></li>
 											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/toddler/outerwear">Outerwear</a></li>
@@ -1507,7 +1502,7 @@ Welcome to your giggle account, where you can see your order information, update
 											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/swimwear/sun-hats">Sun Hats</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/swimwear/cover-ups">Cover-Ups</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/swimwear/sandals">Sandals</a></li>
 											
 										</ul>
 									
@@ -1535,6 +1530,8 @@ Welcome to your giggle account, where you can see your order information, update
 									
 										<ul class="level3">
 											
+												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/accessories/bags-backpacks-lunchboxes">Bags, Backpacks &amp; Lunchboxes</a></li>
+											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/accessories/hats">Hats</a></li>
 											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/accessories/mitts">Mitts</a></li>
@@ -1543,7 +1540,7 @@ Welcome to your giggle account, where you can see your order information, update
 											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/accessories/socks">Socks</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/accessories/bags-backpacks-lunchboxes">Bags, Backpacks &amp; Lunchboxes</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/accessories/hair-accessories">Hair Accessories</a></li>
 											
 										</ul>
 									
@@ -1558,105 +1555,16 @@ Welcome to your giggle account, where you can see your order information, update
 											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/gift-sets/infant">Infant</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/gift-sets/maternity">Maternity</a></li>
-											
 												<li><a href="http://www.giggle.com/eng/categories/clothes-accessories/gift-sets/accessories">Accessories</a></li>
 											
 										</ul>
 									
-								
-									</li><li>
-									<a href="http://www.giggle.com/eng/categories/clothes-accessories/maternity">Maternity </a>
-									
-									
-									
-									
 							</li></ul>
 							<div class="cm-container"><span id="bphId_601"><!--::bannerPlaceholder_601::--></span></div>					
 							<div class="dept-wrap-bottom"></div>
 						</div>	
 						
-						</li><li id="lev1opt8"><a class="level1" href="http://www.giggle.com/eng/categories/books--media">Books &amp; Media</a>
-						
-						
-						
-						<div class="dept-wrap">	
-							<div class="cm-container"><span id="bphId_600"><!--::bannerPlaceholder_600::--></span></div>					
-							<ul id="storeNavSlidebooks--media" class="level2">
-		 							
-								
-									<li>
-									<a href="http://www.giggle.com/eng/categories/books--media/parents-books-dvds">Parents' Books &amp; DVDS </a>
-									
-									
-									
-									
-										<ul class="level3">
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/parents-books-dvds/books">Books</a></li>
-											
-										</ul>
-									
-								
-									</li><li>
-									<a href="http://www.giggle.com/eng/categories/books--media/baby-toddler-books">Baby &amp; Toddler Books </a>
-									
-									
-									
-									
-										<ul class="level3">
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/baby-toddler-books/baby-books">Baby Books</a></li>
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/baby-toddler-books/toddler-books">Toddler Books</a></li>
-											
-										</ul>
-									
-								
-									</li><li>
-									<a href="http://www.giggle.com/eng/categories/books--media/childrens-music">Children's Music </a>
-									
-									
-									
-									
-										<ul class="level3">
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/childrens-music/classic">Classic</a></li>
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/childrens-music/kids-rock">Kids' Rock</a></li>
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/childrens-music/lullabies">Lullabies</a></li>
-											
-										</ul>
-									
-								
-									</li><li>
-									<a href="http://www.giggle.com/eng/categories/books--media/childrens-dvds">Children's DVDs </a>
-									
-									
-									
-									
-										<ul class="level3">
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/childrens-dvds/for-baby">For Baby</a></li>
-											
-												<li><a href="http://www.giggle.com/eng/categories/books--media/childrens-dvds/for-toddler">For Toddler</a></li>
-											
-										</ul>
-									
-								
-									</li><li>
-									<a href="http://www.giggle.com/eng/categories/books--media/agendas-calendars">Agendas &amp; Calendars </a>
-									
-									
-									
-									
-							</li></ul>
-							<div class="cm-container"><span id="bphId_601"><!--::bannerPlaceholder_601::--></span></div>					
-							<div class="dept-wrap-bottom"></div>
-						</div>	
-						
-						</li><li id="lev1opt9"><a class="level1" href="http://www.giggle.com/eng/categories/gifts--keepsakes">Gifts &amp; Keepsakes</a>
+						</li><li id="lev1opt8"><a class="level1" href="http://www.giggle.com/eng/categories/gifts--keepsakes">Gifts &amp; Keepsakes</a>
 						
 						
 						
@@ -1779,7 +1687,7 @@ Welcome to your giggle account, where you can see your order information, update
 							<div class="dept-wrap-bottom"></div>
 						</div>	
 						
-						</li><li id="lev1opt10"><a class="level1" href="http://www.giggle.com/eng/categories/giggle-better-basics">giggle Better Basics</a>
+						</li><li id="lev1opt9"><a class="level1" href="http://www.giggle.com/eng/categories/giggle-better-basics">giggle Better Basics</a>
 						
 						
 						
@@ -1832,6 +1740,8 @@ Welcome to your giggle account, where you can see your order information, update
 											
 												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/bath-potty/towels-linens">Towels &amp; Linens</a></li>
 											
+												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/bath-potty/gift-sets">Gift Sets</a></li>
+											
 										</ul>
 									
 								
@@ -1851,18 +1761,20 @@ Welcome to your giggle account, where you can see your order information, update
 									
 								
 									</li><li>
-									<a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-activities">Toys &amp; Activities </a>
+									<a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-media">Toys &amp; Media </a>
 									
 									
 									
 									
 										<ul class="level3">
 											
-												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-activities/organic-toys">Organic Toys</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-media/organic-toys">Organic Toys</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-activities/infant-toys">Infant Toys</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-media/infant-toys">Infant Toys</a></li>
 											
-												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-activities/dolls-plush-toys">Dolls &amp; Plush Toys</a></li>
+												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-media/dolls-plush-toys">Dolls &amp; Plush Toys</a></li>
+											
+												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/toys-media/books-media">Books &amp; Media</a></li>
 											
 										</ul>
 									
@@ -1879,13 +1791,13 @@ Welcome to your giggle account, where you can see your order information, update
 											
 												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/clothes-accessories/infant">Infant</a></li>
 											
+												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/clothes-accessories/toddler">Toddler</a></li>
+											
 												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/clothes-accessories/loungewear">Loungewear</a></li>
 											
 												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/clothes-accessories/swimwear">Swimwear</a></li>
 											
 												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/clothes-accessories/accessories">Accessories</a></li>
-											
-												<li><a href="http://www.giggle.com/eng/categories/giggle-better-basics/clothes-accessories/gift-sets">Gift Sets</a></li>
 											
 										</ul>
 									
@@ -1907,6 +1819,40 @@ Welcome to your giggle account, where you can see your order information, update
 							<div class="dept-wrap-bottom"></div>
 						</div>	
 						
+						</li><li id="lev1opt10"><a class="level1" href="http://www.giggle.com/eng/categories/giggle-deals">giggle Deals</a>
+						
+						
+						
+						<div class="dept-wrap">	
+							<div class="cm-container"><span id="bphId_600"><!--::bannerPlaceholder_600::--></span></div>					
+							<ul id="storeNavSlidegiggle-deals" class="level2">
+		 							
+								
+									<li>
+									<a href="http://www.giggle.com/eng/categories/giggle-deals/gift-worthy-dress-up-box-sets-from-tutu-couture">Gift-Worthy Dress-Up Box Sets from Tutu Couture </a>
+									
+									
+									
+									
+								
+									</li><li>
+									<a href="http://www.giggle.com/eng/categories/giggle-deals/lillebaby-diaper-bags-totes-carriers">lillebaby Diaper Bags, Totes &amp; Carriers </a>
+									
+									
+									
+									
+								
+									</li><li>
+									<a href="http://www.giggle.com/eng/categories/giggle-deals/posh-girls-apparel-from-imoga">Posh Girls’ Apparel from Imoga </a>
+									
+									
+									
+									
+							</li></ul>
+							<div class="cm-container"><span id="bphId_601"><!--::bannerPlaceholder_601::--></span></div>					
+							<div class="dept-wrap-bottom"></div>
+						</div>	
+						
 		</li></ul>
 	
 	
@@ -1914,7 +1860,7 @@ Welcome to your giggle account, where you can see your order information, update
 <!-- END mainMenu.cfm -->
 
 			</div>
-
+			
 			<div id="top-cm-content">
 				 
 
@@ -1925,10 +1871,10 @@ Welcome to your giggle account, where you can see your order information, update
 <!-- END coremetrics.cfm -->
 
 <div style="width: 960px; height: 53px; margin-top: 5px" id="MKTG_BANNER">
-<a href="/eng/specials/shippingessentials.cfm"><img alt="fabulous FREE SHIPPING on orders over $75! (all day, every day)" width="960" height="53" src="/media/assets/global/images/mktg_header_freeship.gif"></a></div> 
-
+<a href="/eng/specials/shippingessentials.cfm"><img alt="fabulous FREE SHIPPING on orders over $75! (all day, every day)" width="960" height="53" src="/media/assets/global/images/mktg_header_freeship.gif"></a></div> 			
+			
 			</div>
-
+			
 		
 
 
@@ -1953,20 +1899,20 @@ Welcome to your giggle account, where you can see your order information, update
 				<div id="ShippingBagLineItems"></div>
 				<div id="bagButtons">
 					
-
+					
 						<span>view</span><a href="#" onclick="ShoppingBagGoToCheckout();return false;">your cart</a>
 						
-
+						
 						<a href="#" class="checkout-mini-cart i-r" onclick="ShoppingBagGoToCheckout();return false;">checkout</a>
 						
-
+						
 					
 				</div>
-
+				
 			</div>
 			<div class="cm-promo-box">
 				<p>
-					<span id="bphId_609"><a href="/eng/specials/shippingessentials.cfm" class="bannerLink" onclick="onBannerClick({a:this,trackingLinkId:0,bannerId:854,track:'Y'})"><img src="/_static/webupload/33/854_1.gif" alt="fabulous free shipping on orders over $75!" title="fabulous free shipping on orders over $75!"></a></span>
+					<span id="bphId_609"><img src="/_static/webupload/33/915_1.gif" ""=""></span>
 				</p>
 			</div>
 		</div>
@@ -1984,8 +1930,7 @@ Welcome to your giggle account, where you can see your order information, update
 			</ul>
 		</div>
 
-	
-	
+		
 <!-- END topNavigation.cfm -->
 
 				</div>
@@ -2197,7 +2142,7 @@ New York, New York 10001<br>
 
 <!-- END coremetrics.cfm -->
 
-<div id="footer" style="width:640px; height:71px;"><div style="position:relative;float:left;"><a href="/eng/gallery-orbitgwp/home"><img width="342" height="71" alt="ali wing on martha stewart's show!" src="/media/assets/global/images/footer_orbit_gwp_342x71.png"></a></div><div style="position:relative;float:left;padding-left:13px;"><a href="/eng/membership/redirect.cfm?sectionID=b2c/membership/displayMembershipItem.cfm"><img width="267" height="71" alt="g-List - sign up" src="/media/assets/global/images/footer_glist_267x71.png"></a></div>
+<div id="footer" style="position:relative; float:left; width:620px; height:70px;"><a href="/eng/storelocator/santamonica.cfm"><img width="620" height="70" alt="shop catalog" src="/media/assets/homepage/20110922/footer_shop_santamonica0922_620x70.png"></a>
 </div> 
 			</div>
 			
@@ -2267,91 +2212,83 @@ New York, New York 10001<br>
 
 <!-- END coremetrics.cfm -->
 
-<p>
-<!--[if IE]>
+<p><!--[if IE]>
 	<style type="text/css">
 	div#footerBlock div.connect img {
 		vertical-align: middle;
 	}
 	</style>
-<![endif]-->
+<![endif]--><style type="text/css">
 
-<style type="text/css">
 	div#footerBlock div.custcare {
 		margin-right:20px;
-	}
-</style>
-
-<!--[if IE 6]>
+	}</style><!--[if IE 6]>
 	<style type="text/css">
 		div#footerBlock div.custcare {
 			margin-right:13px;
 		}
 	</style>
-<![endif]-->
-</p>
-
+<![endif]--></p>
 <div class="footer-links">
-	<div class="content-container">
-		<div class="footerContent-links">
-			<div class="list" style="margin-right: 75px;">
-				<h5>Contact Us</h5>
-				<a href="/eng/storeSection/redirect.cfm?sectionID=contact/contact.cfm"><img src="/media/assets/footer/contact_button_1.gif" width="181px" height="31px" alt="Need assistance? Call 1-800-495-8577"></a><a href="/eng/storelocator/index.cfm"><img src="/media/assets/footer/contact_button_2.gif" width="181px" height="31px" alt="Store Locations" style="margin-top: 18px;"></a>
-			</div>
-			<div class="list" style="margin-right: 20px;">
-				<h5>About giggle</h5>
-				<ul>
-					<li><a href="/eng/aboutus/aboutgiggle.cfm">About Us</a></li>
-					<li><a href="/eng/aboutus/giggle-criteria.cfm">giggle Criteria</a></li>
-					<li><a href="/eng/membership/redirect.cfm?sectionID=b2c/membership/displayMembershipItem.cfm">g-List™ Benefits</a></li>
-					<li><a href="/eng/aboutus/gigglecares.cfm">giggle Cares</a></li>
-					<li><a href="/eng/aboutus/asseenin.cfm">As Seen In</a></li>
-					<li><a href="/eng/aboutus/affiliates.cfm">Affiliates</a></li>
-				</ul>
-			</div>
-			<div class="list" style="margin-right: 35px;">
-				<h5>Shopping Tools</h5>
-				<ul>
-					<li><a href="/eng/resources">Resources</a></li>
-					<li><a href="/eng/registry">Best Baby Registry</a></li>
-					<li><a href="/eng/gearguides/index.cfm">Gear Guides</a></li>
-					<li><a href="/eng/giftFinder">Gift Finder</a></li>
-					<li><a href="/eng/categories/new-arrivals/all-new-arrivals">New Arrivals</a></li>
-					<li><a href="/eng/gallery-Age/home">Shop By Age</a></li>
-				</ul>
-			</div>
-			<div class="list custcare">
-				<h5>Customer Care</h5>
-				<ul>
-					<li><a href="/eng/customerServiceDetails/">Customer Service</a></li>
-					<li><a href="/eng/myAccount">My Account</a></li>
-					<li><a href="/eng/giftCard/redirect.cfm?sectionID=b2c/giftCards/displayGiftCardItem.cfm">Gift Cards</a></li>
-					<li><a href="/store/Order-Status">Order Tracking</a></li>
-					<li><a href="/eng/customerServiceDetails/shipping-info.cfm">Shipping Info</a></li>
-					<li><a href="/eng/customerServiceDetails/returns.cfm">Returns &amp; Exchanges</a></li>
-				</ul>
-			</div>
-			<div class="list connect">
-				<h5>Connect With Us</h5>
-				<ul>
-					<li><a href="/beintheknow"><img src="/media/assets/footer/connect_button_1.gif" alt="Request a Catalog"></a><a href="/beintheknow">Request a Catalog</a></li>
-					<li><a href="http://www.facebook.com/pages/giggle/13628871307" target="_blank"><img src="/media/assets/footer/connect_button_2.gif" alt="Like us on Facebook"></a><a href="http://www.facebook.com/pages/giggle/13628871307" target="_blank">Like us on Facebook</a></li>
-					<li><a href="http://twitter.com/giggle" target="_blank"><img src="/media/assets/footer/connect_button_3.gif" alt="Follow us on Twitter" class="twittertarget"></a><a href="http://twitter.com/giggle" target="_blank">Follow us on Twitter</a></li>
-					<li><a href="/eng/customerServiceDetails/" target="_blank"><img src="/media/assets/footer/connect_button_4.gif" alt="Watch us on YouTube"></a><a href="http://www.youtube.com/user/healthyhappybaby" target="_blank">Watch us on YouTube</a></li>
-					<li><a href="/eng/Resources/ratingsreviews.cfm"><img src="/media/assets/footer/connect_button_5.gif" alt="Write a Product Review"></a><a href="/eng/Resources/ratingsreviews.cfm">Write a Product Review</a></li>
-					<li><a href="http://blogs.giggle.com"><img src="/media/assets/footer/connect_button_6.gif" alt="Read our Blogs"></a><a href="http://blogs.giggle.com">Read our Blogs</a></li>
-				</ul>
-			</div>
-		</div>
-	</div>
+<div class="content-container">
+<div class="footerContent-links">
+<div style="margin-right: 75px" class="list">
+<h5>Contact Us</h5>
+<a href="/eng/storeSection/redirect.cfm?sectionID=contact/contact.cfm"><img alt="Need assistance? Call 1-800-495-8577" width="181" height="31" src="/media/assets/footer/contact_button_1.gif"></a><a href="/eng/storelocator/index.cfm"><img style="margin-top: 18px" alt="Store Locations" width="181" height="31" src="/media/assets/footer/contact_button_2.gif"></a></div>
+<div style="margin-right: 20px" class="list">
+<h5>About giggle</h5>
+<ul>
+    <li><a href="/eng/aboutus/aboutgiggle.cfm">About Us</a></li>
+    <li><a href="/eng/aboutus/giggle-criteria.cfm">giggle Criteria</a></li>
+    <li><a href="/eng/membership/redirect.cfm?sectionID=b2c/membership/displayMembershipItem.cfm">g-List™ Benefits</a></li>
+    <li><a href="/eng/aboutus/gigglecares.cfm">giggle Cares</a></li>
+    <li><a href="/eng/aboutus/asseenin.cfm">As Seen In</a></li>
+    <li><a href="/eng/aboutus/affiliates.cfm">Affiliates</a></li>
+</ul>
+</div>
+<div style="margin-right: 35px" class="list">
+<h5>Shopping Tools</h5>
+<ul>
+    <li><a href="/eng/resources">Resources</a></li>
+    <li><a href="/eng/registry">Best Baby Registry</a></li>
+    <li><a href="/eng/gearguides/index.cfm">Gear Guides</a></li>
+    <li><a href="/eng/giftFinder">Gift Finder</a></li>
+    <li><a href="/eng/categories/new-arrivals/all-new-arrivals">New Arrivals</a></li>
+    <li><a href="/eng/gallery-Age/home">Shop By Age</a></li>
+</ul>
+</div>
+<div class="list custcare">
+<h5>Customer Care</h5>
+<ul>
+    <li><a href="/eng/customerServiceDetails/">Customer Service</a></li>
+    <li><a href="/eng/myAccount">My Account</a></li>
+    <li><a href="/eng/giftCard/redirect.cfm?sectionID=b2c/giftCards/displayGiftCardItem.cfm">Gift Cards</a></li>
+    <li><a href="/eng/customerServiceDetails/order-status.cfm">Order Tracking</a></li>
+    <li><a href="/eng/customerServiceDetails/shipping-info.cfm">Shipping Info</a></li>
+    <li><a href="/eng/customerServiceDetails/returns.cfm">Returns &amp; Exchanges</a></li>
+</ul>
+</div>
+<div class="list connect">
+<h5>Connect With Us</h5>
+<ul>
+    <li><a href="/beintheknow"><img alt="Request a Catalog" src="/media/assets/footer/connect_button_1.gif"></a><a href="http://www.giggle.com/beintheknow">Request a Catalog</a></li>
+    <li><a target="_blank" href="http://www.facebook.com/pages/giggle/13628871307"><img alt="Like us on Facebook" src="/media/assets/footer/connect_button_2.gif"></a><a target="_blank" href="http://www.facebook.com/pages/giggle/13628871307">Like us on Facebook</a></li>
+    <li><a target="_blank" href="http://twitter.com/giggle"><img class="twittertarget" alt="Follow us on Twitter" src="/media/assets/footer/connect_button_3.gif"></a><a target="_blank" href="http://twitter.com/giggle">Follow us on Twitter</a></li>
+    <li><a target="_blank" href="/eng/customerServiceDetails/"><img alt="Watch us on YouTube" src="/media/assets/footer/connect_button_4.gif"></a><a target="_blank" href="http://www.youtube.com/user/healthyhappybaby">Watch us on YouTube</a></li>
+    <li><a href="/eng/Resources/ratingsreviews.cfm"><img alt="Write a Product Review" src="/media/assets/footer/connect_button_5.gif"></a><a href="/eng/Resources/ratingsreviews.cfm">Write a Product Review</a></li>
+    <li><a href="http://blogs.giggle.com"><img alt="Read our Blogs" src="/media/assets/footer/connect_button_6.gif"></a><a href="http://blogs.giggle.com">Read our Blogs</a></li>
+</ul>
+</div>
+</div>
+</div>
 </div>
 <div class="footer-disclaimer">
-	<div class="content-container">
-		<p class="recall-safety"><a href="/eng/Resources/safety.cfm"><img alt="Safety icon" src="/media/assets/footer/safety.gif"> Latest Product Recalls &amp; Safety Information.</a></p>
-		<p>giggle.com offers the best in baby gift registry and baby products. Our collection includes all your must-have baby items, pre-sorted to include only the most healthy, stylish and innovative products available -- from fun, bright bedding and furniture to gear, toys, baby care, cleaning products, and more.</p>
-		<p>© giggle 2004 - 2011. All rights reserved. <a href="/eng/customerServiceDetails/termsconditions.cfm">Terms &amp; Conditions</a> | <a href="/eng/customerServiceDetails/privacy-policy.cfm">Privacy Policy</a> | <a href="/sitemap.cfm ">Site Map</a> <br>
-			The giggle Stripes are a registered trademark of giggle.</p>
-	</div>
+<div class="content-container">
+<p class="recall-safety"><a href="/eng/Resources/safety.cfm"><img alt="Safety icon" src="/media/assets/footer/safety.gif"> Latest Product Recalls &amp; Safety Information.</a></p>
+<p>giggle.com offers the best in baby gift registry and baby products. Our collection includes all your must-have baby items, pre-sorted to include only the most healthy, stylish and innovative products available -- from fun, bright bedding and furniture to gear, toys, baby care, cleaning products, and more.</p>
+<p>© giggle 2004 - 2011. All rights reserved. <a href="/eng/customerServiceDetails/termsconditions.cfm">Terms &amp; Conditions</a> | <a href="/eng/customerServiceDetails/privacy-policy.cfm">Privacy Policy</a> | <a href="/sitemap.cfm ">Site Map</a> <br>
+The giggle Stripes are a registered trademark of giggle.</p>
+</div>
 </div>
 <!--<script src="http://platform.twitter.com/anywhere.js?id=MadIOOiwBrOIbIz8J23dw&v=1"></script>
 
@@ -2366,7 +2303,9 @@ twttr.anywhere(function(T) {
      });
 
 });
-</script>--> 
+</script>-->
+
+<!-- Mixpanel --><script type="text/javascript">var mpq=[];mpq.push(["init","131e08a57dcc67f35ba8157cad8bb94f"]);(function(){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=(document.location.protocol==="https:"?"https:":"http:")+"//api.mixpanel.com/site_media/js/api/mixpanel.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})();</script><!-- End Mixpanel --> 
 <!-- END footer.cfm -->
 
 		</div>
