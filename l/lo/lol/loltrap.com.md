@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the loltrap.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519222952id_/http%3A//loltrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loltrap.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007081832id_/http%3A//loltrap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – LOL Trap
 
 **LOL Trap Privacy Policy**  
-The following privacy statement covers the LOL Trap Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, please [contact us](http://loltrap.com/contact/ "Contact us").
+The following privacy statement covers the LOL Trap Website. Please read this statement regarding our websites. If you have any questions or suggestions regarding our privacy policy, pleaseÂ [contact us](http://loltrap.com/contact/ "Contact us").
 
 **Public Forums**  
 This site makes chat rooms and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
@@ -18,9 +18,9 @@ The foregoing policy is effective as of January 2009, and loltrap.com reserves t
 
 We use various third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please use the Contact form with any questions.
 
-* Also please be aware that Interest-based advertising will allow advertisers to display ads based on a user’s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests.  This policy will go into affect as of April 8, 2009. **Third Party Cookies**
+* Also please be aware that Interest-based advertising will allow advertisers to display ads based on a userâ€™s previous interactions with them, such as visits to advertiser website and also to reach users based on their interests.Â  This policy will go into affect as of April 8, 2009. **Third Party Cookies**
 
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique â€œcookieâ€ on your browser
 
 **Copyright**
 
@@ -36,7 +36,7 @@ following information to us and the infringing material will be removed as soon 
 (c) the exact URL or a description of each place where alleged infringing material is located;  
 (d) a statement by you that you have a good faith belief that the disputed use has not been authorized by you, your agent, or the law;  
 (e) your electronic or physical signature or the electronic or physical signature of the person authorized to act on your behalf; and  
-(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright owner’s behalf
+(f) a statement by you made under penalty of perjury, that the information in your notice is accurate, that you are the copyright owner or authorized to act on the copyright ownerâ€™s behalf
 
 Please also note that under Section 512(f) of the Copyright Act any person who knowingly materially misrepresents that material or activity is infringing may be subject to liability. 
 
