@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the article-write.co.uk privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303064430id_/http%3A//article-write.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-write.co.uk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007090552id_/http%3A//article-write.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Article Write
+# Article Write - Privacy Policy
 
 ## Article-write.co.uk Privacy Policy
 
@@ -14,7 +14,7 @@ We will not give out any information you submit at our site to any third parties
 
 #### Collected Information:
 
-Users are required to give us contact information (e.g., your name and email address) and possibly demographic information (e.g., your post code). Our site also logs all IP addresses, date and time of access, referrer, hostname, the operating system that you are using, the browswer you are using, your country of origin, your screen resolution and the pages and files you access or attempt to access. Certain information, such as your email address, is collected in order to verify your identity and for use in our records, other information is collected to track spammers and potential hacking of this web site. Information collected at this web site is kept in our records (electronic and/or manual) only as long as is necessary to provide requested services to our clients or required by law. 
+Users are required to give us contact information (e.g., your name and email address) and possibly demographic information (e.g., your post code). Our site also logs all IP addresses, date and time of access, referrer, hostname, the operating system that you are using, the browswer you are using, your country of origin, your screen resolution and the pages and files you access or attempt to access. Certain information, such as your email address, is collected in order to verify your identity and for use in our records, other information is collected to track spammers and potential hacking of this web site. Information collected at this web site is kept in our records (electronic and/or manual) only as long as is necessary to provide requested services to our clients or required by law.
 
 #### Google Advertisments:
 
