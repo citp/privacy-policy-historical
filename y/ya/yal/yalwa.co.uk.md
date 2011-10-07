@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yalwa.co.uk privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107113924id_/http%3A//www.yalwa.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yalwa.co.uk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007104454id_/http%3A//www.yalwa.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Yalwa Info pages
 
