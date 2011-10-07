@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iinformyou.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615005642id_/http%3A//iinformyou.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iinformyou.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007130558id_/http%3A//iinformyou.com/privacy.php) for the most accurate reproduction.*
 
 # I Inform You | Privacy Statement
 
