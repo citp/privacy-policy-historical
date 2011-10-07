@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627185500id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007162807id_/http%3A//grownupgeek.com/node/584) for the most accurate reproduction.*
 
 # GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
 
@@ -12,8 +12,8 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 This notice applies to all information collected or submitted on the GrownUpGeek.com website. The types of personal information collected when you sign up are:
 
-(user) Name   
-Email address   
+Name (any name you choose, not validated)   
+Email address (must be valid)   
 Home Page (optional)  
 Random information that you provide (optional) 
 
@@ -36,7 +36,7 @@ In order to maintain civility and to ensure personal responsibility while chatti
 
 **I** **P  Addresses In Posts & Comments:**
 
-In order to ensure personal responsiblity when making posts, all IP address are recorded.  The IP address of posts made anonymously are visible to members.  If you do not wish for your IP address to be visible, please sign-up for a free account or do not post anonymously.
+In order to ensure personal responsibility when making posts, all IP address are recorded.  The IP address of posts made anonymously are visible to some members and moderators.  If you do not wish for your IP address to be visible, please sign-up for a free account or do not post anonymously.
 
 ### Cookies, 'Web Beacons' and Visitor Data Tracking
 
@@ -63,6 +63,8 @@ You should consult the respective privacy policies of these third-party ad serve
 
 Currently, GrownUpGeek.com has relationships with the following third-party ad servers or ad networks:
 
+  * InfoLinks  
+<http://www.infolinks.com/infolinks-privacy-policy>
   * Microsoft AdCenter-Publisher  
 <http://privacy.microsoft.com/en-us/default.mspx>
   * Kontera**  
