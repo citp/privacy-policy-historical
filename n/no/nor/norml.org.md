@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629080248id_/http%3A//norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norml.org privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007191148id_/http%3A//norml.org/index.cfm%3FGroup_ID%3D4487) for the most accurate reproduction.*
 
 # Privacy Statement - NORML
 
-**[ Home](https://web.archive.org/web/20110629080248id_/http%3A//norml.org/index.cfm?Group_ID=3374) > Privacy Statement **
+**[ Home](https://web.archive.org/web/20111007191148id_/http%3A//norml.org/index.cfm?Group_ID=3374) > Privacy Statement **
 
 **Share This Page** [ ](http://digg.com/submit) [](http://www.reddit.com/) [ ](http://del.icio.us/post) [](http://www.stumbleupon.com/submit) [](http://www.facebook.com/submit) [](http://twitter.com/home) [](http://norml.org/index.cfm?Group_ID=5858)
 
@@ -49,12 +49,9 @@ Washington, DC  20006-2832_
 
 
 **Contacting the Web Site**   
-If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20110629080248id_/http%3A//norml.org/index.cfm?Group_ID=3441). 
+If you have any questions regarding this privacy statement, NORML's practices, or your dealings with this web site, please [contact us](https://web.archive.org/web/20111007191148id_/http%3A//norml.org/index.cfm?Group_ID=3441). 
 
 **Site Terms**  
 Please read our [Terms and Conditions](http://norml.org/index.cfm?Group_ID=7949). 
-
-  
-
 
 **Share This Page** [ ](http://digg.com/submit) [](http://www.reddit.com/) [ ](http://del.icio.us/post) [](http://www.stumbleupon.com/submit) [](http://www.facebook.com/submit) [](http://twitter.com/home) [](http://norml.org/index.cfm?Group_ID=5858)
