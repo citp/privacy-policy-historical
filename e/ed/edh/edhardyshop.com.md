@@ -1,76 +1,68 @@
-> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616040825id_/http%3A//edhardyshop.com/policy-stat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007075034id_/http%3A//edhardyshop.com/policy-stat.html) for the most accurate reproduction.*
 
 # Official Ed Hardy Store by Christian Audigier - California Lifestyle Fashion Brand. Free Shipping on Womens Hoodies, Long Sleeve T-Shirts and Print Tee Shirts.
 
-**Privacy Policy**
+**Privacy Policy**  
+Backstage Web, Inc. and its affiliates ("Tattoo" or, collectively, "us," "we" or "our"), operate this website (the "Site"). This Privacy Policy sets forth our information practices and is incorporated therein by reference to the Terms and Conditions of Use of this Site. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy.
 
-**What information do we collect?**
+**I. WHAT TYPE OF INFORMATION IS COLLECTED AND WHY**
 
-  * We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in another site feature. 
-  * When ordering or registering, we may ask you for your name, e-mail address, mailing address, phone number, credit card information or other information. You may, however, visit our site anonymously. 
-  * We also collect information about gift recipients so that we can fulfill the gift purchase. The information we collect about gift recipients is not used for marketing purposes. 
-  * Like many websites, we use "cookies" to enhance your experience and gather information about visitors and visits to our websites. Please refer to the "Do we use 'cookies'?" section below for information about cookies and how we use them. 
+  * Information submitted by you  
+At times, we may ask you to provide information about yourself in order to better serve you. For example, some of the information collected may include name, address, phone number, email address, and gender. We do not require this information to obtain access to any area of our Site, however, you are required to create a new account or login as a registered user prior to ordering any products on our Site. If you wish to correct or remove your account information please follow the procedures set forth below in the section titled "My Account”.
+  * Information collected by Cookies  
+We also make use of website "cookies" to help you use our services more easily and to help us continuously improve our Site and our service to you. A "cookie" is a small data file that a website can send to your browser, which may then be stored on your computer to help our Site "remember" information about you to make it easier and more efficient to use our Site. Our Site employs session cookies. A session cookie does remain on your computer after you close your web browser window in order to save your cart options. Our session cookies save your cart options but cannot be used to track you around the internet. Our session cookies can only be used by this Site and your cookies will be deleted once you log out to end your session. Depending on the settings in your browser, you may have the option to deny the session cookie; however, doing so may negatively impact upon the performance of the Site or restrict us in better serving your needs and interests. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+
+
+
+**II. USE OF MY INFORMATION**
+
+  * User Identification  
+For our sites that offer user registration, we may retain this information on a secure server so that on re-visiting our Site, you will not need to re-enter that information. We may use this information in an aggregated form to measure number of visits, average time spent on the Site, pages viewed, and other relevant statistics. We collect this information to measure the use of our Site and to improve the content of our Site.
+  * Contacting You Concerning Promotions and New Products  
+We may request you to "opt-in" to receive certain communications from the Site. We will not send unsolicited messages to you concerning promotions or new products or other marketing material unless you have opted-in. If, after you have opted-in, you no longer wish to receive such communications from us please follow the procedures set forth below in the section titled “Unsubscribe”. Please note that your request to stop receiving these communications may not prevent us from sending such messages that were generated prior to the time we were able to process your request.
+  * Use of Your Information  
+At times, we may request you to provide personally identifiable information to identify you as a user of the Site and to assist and speed the completion of transactions on the Site. We may also use information collected about your preferences and activities at the Site, such as the particular pages you request at the Site and purchases or other transactions you effect through the Site. We may vary the content you receive in future visits to the Site based on your preferences and activities.
+  * Disclosure of Your Information  
+We will not disclose your personally identifiable information to any persons or entities outside of our company, nor lease, license, sublicense, rent, transfer, disclose, disseminate or otherwise grant access to such information unless: 
+    1. You have been given an opportunity to "opt-in" and have agreed to opt-in to such disclosure of your information;
+    2. We must share your information in order to provide a product or service that you have ordered or requested, in which case we will require that any third person or entity we use to fulfill your order agrees that it does not have the right to use your information other than to fulfill your order or request; or
+    3. We are required to respond to subpoena, court orders or other requirement of law which requires disclosure of your information.
+  * Disclosure of Aggregate Information  
+We may combine your personally identifying information and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities for our internal use. For example, we may track the number of our users who view certain pages or use certain features or compile the total dollar amount of sales conducted through the Site in a particular geographic region or to track purchasing trends. Such information, and other information we derive from individual users' information, allows us to continue to grow and provide you with quality information through more accurate marketing and advertising of the Site. We may share aggregated information concerning our users, without attribution of personal information, to other companies with whom we conduct business.
+  * How Can I "Opt-out" of Receiving E-mail Communications?  
+If you do not wish to receive email messages from us, please choose "unsubscribe" from within the email that you receive.
 
 
 
   
-**How do we use your information?**
+**III. INFORMATION FROM PERSONS UNDER THE AGE OF 13**
 
-We may use the information we collect from you when you register, purchase products, enter a contest or promotion, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
+NOTICE: Visit [www.OnGuardOnline.gov](http://www.onguardonline.gov/) for tips from the Federal Trade Commission on protecting kids’ privacy online. We do not seek to collect personally identifiable information from persons under the age of 13 without prior verifiable parental consent. If we become aware that we have inadvertently received such information online from a child under the age of 13, we will delete it from our records. If you are under the age of 13, please do not submit any personally identifiable information to us. If you are the parent or guardian of a person under the age of 13 who has provided personally identifiable information to us, please inform us by contacting us at [customerservice@donedhardy.com](mailto:customerservice@donedhardy.com) and we will remove such information from our database. If you are concerned about your children's use of the Site, you may use web filtering technology to supervise or limit access to the Site.
 
-  * To personalize your site experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To quickly process your transactions. 
-  * To administer a contest, promotion, survey or other site feature. 
-  * If you have opted-in to receive our e-mail newsletter, we may send you periodic e-mails. If you would no longer like to receive promotional e-mail from us, please refer to the "How can you opt-out, remove or modify information you have provided to us?" section below. If you have not opted-in to receive e-mail newsletters, you will not receive these e-mails. Visitors who register or participate in other site features such as marketing programs and 'members-only' content will be given a choice whether they would like to be on our e-mail list and receive e-mail communications from us. 
+**IV. KEEPING THIS SITE SECURE**
 
-
+  * Security. Any information you enter on our accounts setup page is encrypted before transmission to our server by using 128-bit Secure Sockets Layer encryption software. You can safely enter your credit card and personal registration information and it cannot be read in transit to our server. We also employ many security procedures to protect your information from unauthorized access by users inside and outside the company. Regardless of the precautions taken by us we cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk. Protecting Your Information? 
+    1. Be sure to sign off when finished using a shared computer.
+    2. Do not disclose your passwords to the Site or your account information to any other person.
+    3. Never respond to unsolicited requests for your social security number or financial information.
+    4. Avoid using easy to figure out access and personal ID (PIN) codes.
+    5. Use only secure websites when disclosing your information. Secure pages begin with "https".
+  * Hypertext Links  
+Our Site may contain "links" to other websites, and we cannot and are not responsible for maintaining your privacy once you leave our Site. If you provide any information to parties who operate websites that are linked to or from this Site, different rules may apply to their collection, use or disclosure of your personal information. We encourage you to review other websites' policies before revealing any sensitive or personal information. Under no circumstances shall we have any liability whatsoever for the activities conducted by or at any website accessed from or through the Site.
 
   
-**How do we protect visitor information?**
+**V. YOUR CALIFORNIA PRIVACY RIGHTS**
 
-We implement a variety of security measures to maintain the safety of your personal information. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our databases to be only accessed as stated above.
+A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy Policy) a Privacy Policy of not disclosing customer's personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this Privacy Policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
 
-**Do we use "cookies"?**
+As stated in this Privacy Policy, we do not share information with third parties for their direct marketing purposes unless you affirmatively agree to such disclosure -- typically by opting in to receive information from a third party that is participating in a sweepstakes or other promotion on one of our sites. If you do ask us to share your information with a third party for its marketing purposes, we will only share information in connection with that specific promotion, as we do not share information with any third party on a continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on one of our sites. Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy Policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use information. You should always review the privacy Policy of any party that collects your information to determine how that entity will handle your information. California customers may request further information about our compliance with this law by e-mailing customerservice@donedhardy.com Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address. 
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+  * Limitation of Liability IN NO EVENT SHALL WE BE LIABLE FOR ANY INCIDENTAL, CONSEQUENTIAL, INDIRECT OR SPECIAL DAMAGES, (INCLUDING LOST PROFITS) WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, AND WHETHER OR NOT WE ARE ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. BECAUSE SOME STATES OR JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, THE LIMITATIONS SET FORTH IN THIS PARAGRAPH MAY NOT APPLY TO YOU. IF THE FOREGOING LIMITATIONS ARE HELD INAPPLICABLE OR UNENFORCEABLE FOR ANY REASON, THEN THE MAXIMUM LIABILITY OF US TO YOU FOR ANY TYPE OF DAMAGES SHALL BE LIMITED TO THE GREATER OF THE ACTUAL AMOUNT PAID BY YOU FOR ANY PRODUCTS OFFERED ON THE WEBSITE OR U.S. $100.00.
+  * Miscellaneous  
+The Privacy Policy for the Site established by us constitutes ours and your entire understanding with respect to the use of the Site. We control and/or operate the Site from offices in the United States of America. We do not represent that materials on the Site are appropriate or available for use in other locations. Persons who choose to access this Site from other locations do so on their own initiative and at their own risk, and are responsible for compliance with local laws, if and to the extent local laws are applicable. This Privacy Policy shall be construed in accordance with the laws of the State of California, without regard to its conflict of laws rules. You agree to personal jurisdiction by the federal and state courts located in Los Angeles County, State of California. No waiver by use of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of the Site must be filed within one (1) year after such claim or cause of action arose or be forever barred. If any provision of the Terms and Conditions and Privacy Policy is found to be unenforceable for any reason, than that provision shall be deemed severable and shall not affect the validity and enforceability of any remaining provisions.
 
-We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+  
+**VII. CHANGES TO OUR TERMS AND CONDITIONS AND OUR PRIVACY POLICY**
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Netscape Navigator or Internet Explorer) settings. Each browser is a little different, so look at your browser Help menu to learn the correct way to modify your cookies. If you turn cookies off, you won't have access to many features that make your site experience more efficient and some of our services will not function properly. However, you can still place orders over the telephone by contacting customer service.
-
-**Do we disclose the information we collect to outside parties?**
-
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice, except as described below. The term "outside parties" does not include BackStage Web LLC. It also does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety.
-
-However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
-
-**How can you opt-out, remove or modify information you have provided to us?**
-
-To modify your e-mail subscriptions, please let us know by modifying your preferences in the "My Account" section. Please note that due to email production schedules you may receive any emails already in production.
-
-To delete all of your online account information from our database, sign into the "My Account" section of our site and remove your shipping addresses, billing addresses & payment information. Please note that we may maintain information about an individual sales transaction in order to service that transaction and for record keeping.
-
-**Third Party Links**
-
-In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
-
-**Changes to Our Policy**
-
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
-
-**Questions and Feedback**
-
-We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
-
-**Online Policy Only**
-
-This online privacy policy applies only to information collected through our website and not to information collected offline.
-
-**Terms and Conditions**
-
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
-
-**Your Consent**
-
-By using our site, you consent to our privacy policy.
+We may revise this Privacy Policy at any time by updating this posting without advance notice to you. Such revisions shall be effective immediately upon posting. It is your obligation to review the Privacy Policy from time to time.   
+Last Updated: 06/24/2011
