@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629045211id_/http%3A//christianaudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudio.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007175739id_/http%3A//christianaudio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Audiobooks, MP3, M4B, iPhone Apps, Free Downloads!
 
