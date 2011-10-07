@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630062620id_/http%3A//www.icicilombard.com/app/ilom-en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicilombard.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007095708id_/https%3A//www.icicilombard.com/privacy-policy.html) for the most accurate reproduction.*
 
-# ICICI Lombard India’s No. 1 private general insurance company - Health Insurance, Travel Insurance, Home Insurance, Motor Insurance
+# ICICI Lombard Indias No. 1 private general insurance company - Health Insurance, Travel Insurance, Home Insurance, Motor Insurance
 
-|  | 
-
-| **Home Privacy Policy**  
----  
+   
+ICICI Lombard Privacy Policy  
   
+| 
+
 Log Files  
   
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. 
 
-We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. 
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users movements around the site and to gather demographic information about our user base as a whole. 
 
-IP addresses are tied to personally identifiable information to help us customize your visit to our website so that you like the experience. However, we would like to reiterate that this information is not shared with third parties, for their promotional purposes, except as provided under “ **Disclosure of Information** ” clause.
+IP addresses are tied to personally identifiable information to help us customize your visit to our website so that you like the experience. However, we would like to reiterate that this information is not shared with third parties, for their promotional purposes, except as provided under **Disclosure of Information** clause.
 
   
   
@@ -31,7 +31,7 @@ Some of our business partners such as chat support use cookies on our site. We h
 
 Disclosure of Information  
   
-Subject to the other terms contained herein, we will not disclose your information to any third parties or affiliates for their promotional purposes, unless acting under a good faith belief that such action is necessary to: | Conform to any statutory or legal requirements or comply with legal process or judicial orders  
+Subject to the other terms contained herein, we will not disclose your information to any third parties or affiliates for their promotional purposes, unless acting under a good faith belief that such action is necessary to: | | Conform to any statutory or legal requirements or comply with legal process or judicial orders  
 ---|---  
 | Protect, enforce and defend our rights or property  
 ---|---  
@@ -97,21 +97,6 @@ Email: [insuranceonline@icicilombard.com](mailto:insuranceonline@icicilombard.co
 
   
   
-
-
-|  |  | Buy Online  
----  
-Log in to buy, view, print, and renew your online policies.  
-New User Click here  
-Existing User Login here  
-Health Brochures  
-All India Branches  
-[24x7 Insurance Helpline](https://web.archive.org/app/ilom-en/Insurance-helpline.aspx)  
-[Customer Support](https://web.archive.org/app/ilom-en/selfhelp.aspx)  
-[](https://web.archive.org/app/ilom-en/personalproducts/Travel/Individual_Overseas/Gold_Plan.aspx)  
-[](https://web.archive.org/app/ilom-en/Newsletter/Newsletter-Archive.aspx)  
-[](https://web.archive.org/app/ilom-en/personalproducts/Health/floater.aspx)  
-Learning Center  
-Enabling better understanding and greater interactivity.  
-[Insurance Classroom](https://web.archive.org/app/ilom-en/Learning.aspx)  
-[Rate our site](https://web.archive.org/app/ilom-en/customer_feedback.aspx)
+  
+  
+| 
