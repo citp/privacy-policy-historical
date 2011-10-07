@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the einet.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524081356id_/http%3A//www.einet.net/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the einet.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007120536id_/http%3A//www.einet.net/static/privacy.html) for the most accurate reproduction.*
 
-# eiNET | privacy
+# 
 
-We at the "eiNET" website, owned and operated by LOGIKA Corporation, understand that the Internet presents an opportunity for us to reach you, the public, in new and exciting ways with information about our programming, interactive content, news, and other forms of interaction. Visitors to our Web site can be confident that we are very respectful of their privacy concerns. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as name, address or e-mail address, is automatically collected from visitors to our site. 
+We at the "eiNET" website understand that the Internet presents an opportunity for us to reach you, the public, in new and exciting ways with information about our programming, interactive content, news, and other forms of interaction. Visitors to our Web site can be confident that we are very respectful of their privacy concerns. Specifically, we recognize the importance of protecting the privacy of personally identifiable information collected about our visitors. As a general policy, no personally identifiable information, such as name, address or e-mail address, is automatically collected from visitors to our site. 
 
 The "eiNET" website encourages parents to supervise their children's activities online and to participate with their children whenever possible and to consider installing parental control tools available from online services and software manufacturers that help ensure children's safety online. These tools can prevent children from disclosing personally identifiable information, such as their name, address or e-mail address without parental permission. The "eiNET" website does not knowingly collect personally identifiable information from children under the age of 13. **You must be 18 years or older to post any content on the "eiNET" website.**
 
@@ -27,10 +27,6 @@ In the course of delivering an advertisement to the "eiNET" website visitors, th
 **PERSONALLY IDENTIFIABLE INFORMATION**
 
 Personally identifiable information about our visitors is collected only when knowingly and voluntarily submitted by those visitors. The "eiNET" website uses such information only for the purpose for which it was submitted, unless we disclose other uses at the time of collection. The "eiNET" website does not sell personal information to third parties. The "eiNET" website may share personally identifiable information with other parts of our company, but this will never be used on an individual basis outside of the company. The "eiNET" website maintains appropriate safeguards to ensure the security, integrity, and privacy of personally identifiable information in its possession. The "eiNET" website may use such personally identifiable information in the aggregate (non-identifiable) form to make our Web site better and more responsive to the needs of our visitors. This statistical compilation of non-identifiable information may also be used by or provided to others for marketing, advertising, or research purposes. 
-
-**E-MAIL ENCODER**
-
-In addition, on some of our Web sites, we offer the ability to "encode" your e-mail address. This feature is helpful when you have posted information to one of our forums, classifieds, etc. and you do not wish to have your actual e-mail address accessible to 3rd party harvesters or spammers. For more information on our "encoding process", please [click here](https://web.archive.org/static/encoder.html). 
 
 **LINKS TO OTHER SITES**
 
