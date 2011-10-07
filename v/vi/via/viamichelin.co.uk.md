@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106174903id_/http%3A//www.viamichelin.co.uk/tpl/psg/divers/htm/personaldata.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viamichelin.co.uk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007202133id_/http%3A//www.viamichelin.co.uk/tpl/psg/divers/htm/personaldata.htm) for the most accurate reproduction.*
 
 # Personal data protection charter
 
