@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flylib.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219000202id_/http%3A//flylib.com/privacy/en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flylib.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007225200id_/http%3A//flylib.com/privacy/en) for the most accurate reproduction.*
 
-# Books online: All Dev articles for programming and other.
+# E books online library: Privacy Terms.
 
-## Privacy Policy
+## Flylib.com Privacy Policy
 
 At the site flylib.com, we take the issue of privacy very seriously. We do not sell, distribute, barter, or transfer personally identifiable information obtained from a user to a third party.
 
