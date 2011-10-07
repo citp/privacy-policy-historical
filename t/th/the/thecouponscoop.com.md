@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecouponscoop.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130142144id_/http%3A//thecouponscoop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecouponscoop.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007034412id_/http%3A//thecouponscoop.com/privacy.html) for the most accurate reproduction.*
 
 # TheCouponScoop.com - Privacy Policy
 
