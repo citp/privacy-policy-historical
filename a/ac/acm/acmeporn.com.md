@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the acmeporn.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531110150id_/http%3A//secure1.acmeporn.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmeporn.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007061423id_/http%3A//track.acmeporn.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 **AcmePorn.com**
 
 **PRIVACY POLICY STATEMENT**  
+  
   
 
 
