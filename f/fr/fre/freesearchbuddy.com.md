@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freesearchbuddy.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213025310id_/http%3A//freesearchbuddy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesearchbuddy.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008001610id_/http%3A//freesearchbuddy.com/privacy.php) for the most accurate reproduction.*
 
-# freesearchbuddy
+# freesearchbuddy.com
 
 Privacy Policy
 
@@ -29,4 +29,4 @@ TERMS OF USE:
 Use of the Site and our services are governed by the provisions contained in the Terms of Use located here. Your use, or access, of the Site and our Service constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE OR THE SERVICE. 
 
 CONTACTING US:   
-If you have any questions about this privacy policy, the practices of this Site or Service or your dealings with us, you can contact us [here](https://web.archive.org/web/20110213025310id_/http%3A//freesearchbuddy.com/contact.php) . 
+If you have any questions about this privacy policy, the practices of this Site or Service or your dealings with us, you can contact us [here](https://web.archive.org/web/20111008001610id_/http%3A//freesearchbuddy.com/contact.php) . 
