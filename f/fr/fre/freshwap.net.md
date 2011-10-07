@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freshwap.net privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414133420id_/http%3A//www.freshwap.net/108-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshwap.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007035522id_/http%3A//www.freshwap.com/108-Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Megaupload MediaFire Hotfile & FileSonic Downloads - Freshwap.NET
+# Privacy Policy Free Download - Freshwap
 
 **Freshwap.Net – Privacy Policy**
 
