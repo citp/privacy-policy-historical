@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathbuddyonline.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125092228id_/http%3A//mathbuddyonline.com/common/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathbuddyonline.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007210243id_/http%3A//www.mathbuddyonline.com/common/policy.html) for the most accurate reproduction.*
 
 # Math Buddy Online - Privacy Policy
 
