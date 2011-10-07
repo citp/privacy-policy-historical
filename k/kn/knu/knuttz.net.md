@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knuttz.net privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426104135id_/http%3A//knuttz.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knuttz.net privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008003226id_/http%3A//knuttz.net/privacy-policy) for the most accurate reproduction.*
 
 # It’s Knuttz » Privacy Policy
 
