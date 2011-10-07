@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220075055id_/http%3A//mygf.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygf.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007084345id_/http%3A//mygf.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
 Privacy Policy   
 
 
-Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to the submityourbitch.com sthis Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
+Your privacy is of utmost importance to us. This Privacy Policy (the "Policy") applies to the mygf.com sthis Policy appears and which are owned/controlled by the Company. As noted below, please be aware that we may change our Privacy Policy in the future and it is your obligation to review this Privacy Policy from time to time and the effective date listed with it.   
 
 
 Adults Only Service   
