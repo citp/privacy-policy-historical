@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acaiberrystudies.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228180912id_/http%3A//www.acaiberrystudies.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acaiberrystudies.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007121938id_/http%3A//www.acaiberrystudies.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ Like many other Web sites, AcaiBerryStudies.com makes use of log files. The info
 
 ## Acceptance of the AcaiBerryStudies.com Privacy Policy Terms and Conditions
 
-By using this site, you signify your agreement to the terms and conditions of this AcaiBerryStudies.com Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. Your continued use of the AcaiBerryStudies.com Web Site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20090228180912id_/http%3A//www.acaiberrystudies.com/contact.php) at anytime.
+By using this site, you signify your agreement to the terms and conditions of this AcaiBerryStudies.com Web Site Privacy Policy. If you do not agree to these terms and conditions, please do not use the site. Your continued use of the AcaiBerryStudies.com Web Site following the posting of any changes to these terms shall mean that you have accepted those changes. If you have any questions or concerns, please [contact us](https://web.archive.org/web/20111007121938id_/http%3A//www.acaiberrystudies.com/contact.php) at anytime.
