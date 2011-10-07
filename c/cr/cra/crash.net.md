@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007043853id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Crash.Net
 
-[**ALMS**](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/sportscars) »  [D-Brief](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/alms/blogs/61/1/d-brief.html): [Getting up to GT1 podium class](https://web.archive.org/web/20110524023937id_/http%3A//www.crash.net/alms/blog/169482/1/61/getting_up_to_gt1_podium_class.html)
+[**MOTOGP**](https://web.archive.org/web/20111007043853id_/http%3A//www.crash.net/motogp) »  [Bradley Smith](https://web.archive.org/web/20111007043853id_/http%3A//www.crash.net/motogp/blogs/54/1/bradley_smith.html): [Bad 45 minutes, but inspired by 'Senna'](https://web.archive.org/web/20111007043853id_/http%3A//www.crash.net/motogp/blog/173681/1/54/bad_45_minutes_but_inspired_by_senna.html) [[12]](https://web.archive.org/web/20111007043853id_/http%3A//www.crash.net/motogp/comments/173681/1/a/0/bad_45_minutes_but_inspired_by_senna.html)
 
-Although his Le Mans ambitions may have been put on hold, David Brabham is beginning to enjoy life in the FIA GT1 World Championship. 
+In his latest blog for _Crash.net_ , Tech 3 Moto2 rookie Bradley Smith looks back on the Japanese Grand Prix at Motegi and ahead to the next flyaway rounds at Phillip Island and Sepang. 
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website.
 
