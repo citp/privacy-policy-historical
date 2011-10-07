@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the farsi1hd.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122111039id_/http%3A//farsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farsi1hd.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007072720id_/http%3A//www.farsi1hd.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Farsi1 TV HD Farsi1HD.com - watching Farsi1 in HD High Quality for free
+# Farsi1 - privacy_policy - farsi1hd.com
 
 ### **Download free TV and Farsi1 HD Toolbar == >**
 
@@ -21,4 +21,4 @@ Contact Information
 Concerns or questions about this privacy policy can be directed to info@farsi1hd.com for further clarification.
 
   
-Copyright ©2010 farsi1hd.com | [Privacy Policy / Contact US](https://web.archive.org/web/20101122111039id_/http%3A//farsi1hd.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20101122111039id_/http%3A//farsi1hd.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 farsi1hd.com | [Privacy Policy / Contact US](https://web.archive.org/web/20111007072720id_/http%3A//www.farsi1hd.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20111007072720id_/http%3A//www.farsi1hd.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
