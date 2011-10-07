@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102204322id_/http%3A//www.nadaguides.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nadaguides.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007201959id_/http%3A//www.nadaguides.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NADAguides.com
 
@@ -22,8 +22,6 @@ NADAguides.com uses third-party advertising companies and advertising networks s
 Privacy Policies
 
 NADAguides.com collects various user information depending on what area of our Web site the user is visiting. For example if a user wants to purchase a guidebook we will collect their name, mailing address, credit card information, etc. However, if the user just wants to look up a vehicle price, we collect the user's ZIP code (only for demographic purposes). No personal identifiable information is collected. Additionally, we have a voluntary customer survey which collects demographic information from the user. We have broken down our site into 6 different sections which collect various user information; and created 6 unique privacy policies which explain what information is collected within each section. Each of the 6 policies are listed below. 
-
-©2000-2011 Chrome Systems Corporation.
 
 Please Enter Your ZIP Code
 
