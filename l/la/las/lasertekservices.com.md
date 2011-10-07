@@ -1,106 +1,71 @@
-> *The following text is extracted and transformed from the lasertekservices.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404000815id_/http%3A//lasertekservices.zoovy.com/privacy.cgis) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasertekservices.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007130302id_/http%3A//www.lasertekservices.com/privacy.html) for the most accurate reproduction.*
 
-# Laser Tek Services, Inc. Privacy Policy
+# Privacy Notice : Laser Tek Services, Toner Refill Kits For All Major Brands Toner for Laser Printers Fax Copier Cartridges
+
+Effective **01/01/2006**
+
+ **Privacy Notice Table Of Contents:**   
+
+
+  * [Our Commitment To Privacy](http://www.lasertekservices.com/index.php?main_page=privacy#1)
+  * [The Information We Collect](http://www.lasertekservices.com/index.php?main_page=privacy#2)
+  * [How We Use Information](http://www.lasertekservices.com/index.php?main_page=privacy#3)
+  * [Our Commitment To Data Security](http://www.lasertekservices.com/index.php?main_page=privacy#4)
+  * [Our Commitment To Children's Privacy](http://www.lasertekservices.com/index.php?main_page=privacy#5)
+  * [How To Access Or Correct Your Information](http://www.lasertekservices.com/index.php?main_page=privacy#6)
+  * [How To Contact Us](http://www.lasertekservices.com/index.php?main_page=privacy#7)
+
+**Our Commitment To Privacy**
+
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+
+**The Information We Collect:**
+
+This notice applies to all information collected or submitted on the Laser Tek Services website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: 
 
   
-|  |  | **Cartridge Type**  
-[InkJet](http://lasertekservices.zoovy.com/category/inkjet/)  
-[Laser](http://lasertekservices.zoovy.com/category/laser/)  
-[Thermal ](http://lasertekservices.zoovy.com/category/thermal/)  
-[Toner Refill](http://lasertekservices.zoovy.com/category/tonerrefillkits/)  
-[InkJet Refill](http://lasertekservices.zoovy.com/category/inkjetrefillkits/)
+Address   
+Email address   
+Phone number   
+Credit/Debit Card Information   
+(etc.) 
 
-**Product Type**  
-[Brother](http://lasertekservices.zoovy.com/category/brother/)  
-[Canon](http://lasertekservices.zoovy.com/category/canon/)  
-[Compaq](http://lasertekservices.zoovy.com/category/compaq/)  
-[Empties](http://lasertekservices.zoovy.com/category/empties/)  
-[Epson](http://lasertekservices.zoovy.com/category/epson/)  
-[HP](http://lasertekservices.zoovy.com/category/hp/)  
-[Lexmark](http://lasertekservices.zoovy.com/category/lexmark/)  
-[Minolta-QMS](http://lasertekservices.zoovy.com/category/minoltaqms/)  
-[Mita](http://lasertekservices.zoovy.com/category/mita/)  
-[Okidata](http://lasertekservices.zoovy.com/category/okidata/)  
-[Samsung](http://lasertekservices.zoovy.com/category/samsung/)  
-[Sharp](http://lasertekservices.zoovy.com/category/sharp/)  
-[Xerox](http://lasertekservices.zoovy.com/category/xerox/)
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-|  |   
----|---|---|---|---  
-  
-  
-|  |  Cart Contents:  
-You have nothing in your shopping cart.  
-|  |   
----|---|---|---|---  
-  
-| 
+Name   
+Address   
+Phone Number   
+(etc.) 
 
-[](http://lasertekservices.zoovy.com/category/hp/)
+**The Way We Use Information:**
 
-| 
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-[](http://lasertekservices.zoovy.com/category/canon/)
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
 
-| 
+We offer gift-cards by which you can personalize a product you order for another person. Information you provide to us to create a gift-card is only used for that purpose, and it is only disclosed to the person receiving the gift. 
 
-[](http://lasertekservices.zoovy.com/category/lexmark/)
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-| 
+You can register with our website if you would like to receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
-[](http://lasertekservices.zoovy.com/category/epson/)
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
-| 
+**Our Commitment To Data Security**
 
-[](http://lasertekservices.zoovy.com/category/compaq/)
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-| 
+**How You Can Access Or Correct Your Information**
 
-[](http://lasertekservices.zoovy.com/category/brother/)  
-  
----|---|---|---|---|---  
-  
-**About this Privacy Policy:**  
-    The entire site, or at least specific portions of this site are assisted by Zoovy technology. Zoovy has created this privacy policy as a template for customers who are using Zoovy technology with their websites. Zoovy in no way takes responsibility for the accuracy or enforcement of this policy. For a copy of Zoovy's privacy policy (which does not necessarily apply to the customers of its customers) visit http://www.zoovy.com/legal  
-  
-_Zoovy, Inc. has created this privacy statement for Laser Tek Services Inc. in order to demonstrate our joint commitment to privacy. The following discloses the information gathering and dissemination practices for this website:_
+You can access all your personally identifiable information that we collect online and maintain by simply logging on to your account on our homepage. We use this procedure to better safeguard your information. 
 
-Zoovy.com tracks IP Addresses
+You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
-    Your IP address is used to help diagnose problems with our server, and to administer the Web site, in addition your IP address is used to help identify you and your shopping cart (in conjunction with a cookie.) We also use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.  
-  
-This site may contains links to other sites.   
-    Laser Tek Services Inc. is not responsible for the privacy practices or the content of such Web sites, unless otherwise specified below your information is never shared with other companies, even those who are also using Zoovy technology. In the future Zoovy may provide you the ability to share your information across multiple websites which all utilize Zoovy technology however this will only be done at your explicit request.  
-  
-This site requires Unique Identifiers.  
-    This site uses an order form for customers to request information, products, and services, it also collects visitor's contact information (like their email address), in some circumstances their unique identifiers (like their pets name, or mothers maiden name), and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future informational mailings; see the choice/opt-out section below, users may NOT opt out of receiving order notifications, or other contacts which are deemed essential by Laser Tek Services Inc..  
-  
-This site requires Financial Information.  
-    Financial information that is collected is used to bill the customer for products and services. Unique identifiers (such as pets name, and mothers maiden name) are collected from Web site visitors to verify the user's identity.   
-  
-This site may have Surveys and/or Contests.  
-    Our online surveys ask visitors for contact information (like their email address). We use contact data from our surveys to send the user information about our company. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. This site may also run contests in which case we may ask visitors for contact information (like their email address). Generally this information is used to verify eligibility, however we may also use contact data from our contests to send users information about Laser Tek Services Inc.. The customer's contact information is also used to contact the visitor when necessary (for example winners). Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected from our users is used to check the users' qualifications for registration and bill the user for products and services. 
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-This site may contain Public Forums
+**How To Contact Us**
 
-    This site may include chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-About our System Security
-
-    This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Information is stored behind a firewall, against a password protected database system. Whenever sensitive information is accessed it is transmitted using strong SSL encryption. Laser Tek Services Inc. may keep a copy of your information on its own system using Zoovy's WebAPI system, this system may have its own security measures in place. 
-
-This site provides the choice to Opt In or Out
-
-    Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. Each time an information email is distributed, you have the option to use unique unsubscribe url which is attached to each outgoing email. Customers may unsubscribe at any time by simply logging into their accounts.  
-  
-We provide the ability to Correct/Update YOUR information.  
-    This site gives users the following options for changing and modifying information previously provided. Simply visit the customer login area of this website.  
+Should you have other questions or concerns about these privacy policies, please call us toll free at 1-877-945-2737 or send us an email at support@lasertekservices.com 
 
 
-Contacting the Web Site
 
-    If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-  
-**Amendments made directly by Laser Tek Services Inc.:  
-**   
-No amendments have been made.
