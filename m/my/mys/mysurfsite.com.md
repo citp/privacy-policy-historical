@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysurfsite.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221015740id_/http%3A//mysurfsite.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysurfsite.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007225041id_/http%3A//mysurfsite.com/privacy.php) for the most accurate reproduction.*
 
 # MySurfSite.com - TrafficDX Turnkey Traffic Exchange Systems
 
