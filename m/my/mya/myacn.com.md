@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the myacn.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102152638id_/https%3A//www.myacn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myacn.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007160108id_/https%3A//www.myacn.com/privacy.html) for the most accurate reproduction.*
 
-# ACN Digital Phone Service
+# ACN Privacy Policy
 
-## Privacy Policy (Safe Harbor)
+### Privacy Policy (Safe Harbor) 
 
-**Overview**
+**  
+Overview**
 
 ACN, Inc. is committed to protecting the privacy of our customer information. This document will provide information about ACN's policy relating to the collection, use and disclosure of personal information and of our customer's right to limit such collection, use or disclosure. All personal information relating to our customers is maintained in strict confidence by ACN and is not sold to third parties. For your protection, we utilize a Secure Socket Layer (SSL) on all pages that require you to complete personal information. 
 
@@ -44,22 +45,22 @@ ACN honors requests from customers to review all customer identifiable informati
 
 **Children**
 
-ACN complies with all Federal laws and regulations, including the Children’s Online Privacy Protection Act, which requires the consent of a parent or guardian for the collection of personally identifiable information from children under 13.  
+ACN complies with all Federal laws and regulations, including the Children's Online Privacy Protection Act, which requires the consent of a parent or guardian for the collection of personally identifiable information from children under 13.  
 
-**Safe** **Harbor**
+**Safe Harbor**
 
 The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (FAQs) to enable U.S. companies to satisfy European Union (EU) law requirements for adequate protection of personal information transferred from the EEA to the United States.  ACN adheres to these Safe Harbor Principles, as outlined below.
 
-**Notice and Choice:** When ACN collects personal information from customers in the EU, ACN will inform them about the types of personal information it collects from them, the purposes for which ACN collects and uses it, and the types of third parties to the information may be disclosed.  ACN will inform the customers about the choices and means that ACN uses of limiting the use or disclosure of such information.
+Notice and Choice: When ACN collects personal information from customers in the EU, ACN will inform them about the types of personal information it collects from them, the purposes for which ACN collects and uses it, and the types of third parties to the information may be disclosed.  ACN will inform the customers about the choices and means that ACN uses of limiting the use or disclosure of such information.
 
-**Data Integrity:** ACN seeks to ensure that any personal information held about EU individuals is accurate, complete, current and otherwise reliable in relation to the purposes for which the information was obtained. ACN collects personal information that is adequate, relevant and not excessive for the purposes for which it is to be processed. EU individuals have a responsibility to assist ACN in maintaining accurate, complete and current personal information about them.
+Data Integrity: ACN seeks to ensure that any personal information held about EU individuals is accurate, complete, current and otherwise reliable in relation to the purposes for which the information was obtained. ACN collects personal information that is adequate, relevant and not excessive for the purposes for which it is to be processed. EU individuals have a responsibility to assist ACN in maintaining accurate, complete and current personal information about them.
 
-**Transfers To Third Parties:** ACN will only transfer personal information about EU individuals to third-parties where the third-party (a) has provided satisfactory assurances to ACN that it will protect the information consistently with this Statement; or (b) is located in the EU or a country considered "adequate" for privacy by the EU Commission; or (c) the third-party has also certified to the Safe Harbor, and is accordingly independently responsible for complying with the Safe Harbor requirements.
+Transfers To Third Parties: ACN will only transfer personal information about EU individuals to third-parties where the third-party (a) has provided satisfactory assurances to ACN that it will protect the information consistently with this Statement; or (b) is located in the EU or a country considered "adequate" for privacy by the EU Commission; or (c) the third-party has also certified to the Safe Harbor, and is accordingly independently responsible for complying with the Safe Harbor requirements.
 
-**Access and Correction:** Upon written request to ACN, ACN will provide EU individuals with reasonable access to their personal information.  Except as may be subject to legal limitation, ACN will make reasonable steps to allow EU individuals to review their information for the purposes of correcting their information. 
+Access and Correction: Upon written request to ACN, ACN will provide EU individuals with reasonable access to their personal information.  Except as may be subject to legal limitation, ACN will make reasonable steps to allow EU individuals to review their information for the purposes of correcting their information. 
 
-**Enforcement:** ACN uses the self-assessment approach to maintain compliance with its Privacy Policy.  ACN periodically verifies that its policy is accurate, comprehensive for the information covered, displayed appropriately, implemented and in conformity with Safe Harbor Principles.
+Enforcement: ACN uses the self-assessment approach to maintain compliance with its Privacy Policy.  ACN periodically verifies that its policy is accurate, comprehensive for the information covered, displayed appropriately, implemented and in conformity with Safe Harbor Principles.
 
-**Limitations:** Adherence to this Privacy Policy may be limited to the extent required to meet a legal, governmental, national security or public interest obligation.
+Limitations: Adherence to this Privacy Policy may be limited to the extent required to meet a legal, governmental, national security or public interest obligation.
 
 Should you have any questions with respect to the ACN Privacy Policy (Safe Harbor) or if you do not consent to, or would like to limit, the manner in which information about you is collected, used or disclosed, please contact the ACN Privacy Officer in writing at ACN Inc., 1000 Progress Place, Concord, N.C. 28025-2449. 
