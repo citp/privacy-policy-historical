@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fireurl.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203061313id_/http%3A//fireballonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fireurl.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007204716id_/http%3A//fireballonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Fireball Online
 
