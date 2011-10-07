@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120181347id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtopsites.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007162706id_/http%3A//cbtopsites.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy for CBTopSites.com - CBTopSites.com
+# Privacy Policy for CBTopSites.com
 
 [ ](http://cbtopsites.com/ "CB Top Sites .com Main Page") |  * eBooks & Software Directory     
 * 70000 Instant Downloads     
@@ -46,6 +46,8 @@ We do use cookies to store information, such as your personal preferences when y
 We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. Comments and Questions. 
 
 If you have any questions, comments or concerns about our Privacy Policy, you may email to admin at cbtopsites.com. 
+
+[](http://tellafriend.socialtwist.com/)   [](http://addthis.com/bookmark.php?v=250&pub=downloadsonline.org)
 
 Please Send Your Feedback / Contact us
 
