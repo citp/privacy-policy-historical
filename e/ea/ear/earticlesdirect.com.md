@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earticlesdirect.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426032430id_/http%3A//www.earticlesdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earticlesdirect.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007234708id_/http%3A//www.earticlesdirect.com/privacy.php) for the most accurate reproduction.*
 
 # eArticles Direct - Your Article Directory | Privacy Statement
 
