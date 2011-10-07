@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greplin.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423001840id_/https%3A//www.greplin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greplin.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007082858id_/https%3A//www.greplin.com/privacy) for the most accurate reproduction.*
 
 # Greplin
 
