@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instafinder.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112080343id_/http%3A//www.instafinder.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instafinder.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007145119id_/http%3A//www.instafinder.com/policy.php) for the most accurate reproduction.*
 
 # InstaFinder Search Portal
 
