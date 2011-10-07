@@ -1,98 +1,87 @@
-> *The following text is extracted and transformed from the greedge.com privacy policy that was archived on 2005-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050403152741id_/http%3A//www.essayedge.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greedge.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007222523id_/http%3A//greedge.com/privacy-statement) for the most accurate reproduction.*
 
-# EssayEdge.com: Personal Statement and Admissions Essay Help, Application Essay Editing
+# GREedge.com
 
-[](https://web.archive.org/editingpopup.html)
+GREedge.com has created this privacy statement ("Statement") in order to demonstrate our commitment to customer privacy. Privacy on the GREedge.com web site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement at any time, so please visit GREedge.com regularly to review our privacy statement.
 
-  
+If you have questions or concerns regarding this statement, you should contact GREedge.com by emailing [info@greedge.com](mailto:info@greedge.com) , or by calling +91 98844 53276
+
+**Collected Information**
+
+We require customers who register to use the services offered on our Site (collectively, the "Services") to give us contact information, such as their name, address, phone number, and e-mail address, and billing information, such as billing name and address, credit card number, Examination Dates, Mobile Number and model etc. to use the service. We also receive and may store certain types of information whenever you interact with us. For example, like many Web sites, we use "cookies" and we obtain certain types of information when your Web browser accesses [www.greedge.com](http://www.greedge.com/). More information on our use of "cookies" can be found below.
+
+GREedge.com uses the information that we collect to set up the Services for our customers. We may also use the information to contact customers to further discuss customer interest in our company, the Adaptive Learning Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customer email addresses and any personal customer information will not be distributed or shared with third parties. Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to [info@greedge.com](mailto:info@greedge.com). We may also email information regarding updates to the Adaptive Learning Service or company, and will send a Student Newsletter.
+
+In order to tailor our subsequent communications to you and continuously improve our products and services (including registration), we may also ask you to provide us with information regarding your personal or professional interests, experience with our products and services, and more detailed contact preferences. Customers and visitors always have the option of choosing not to provide us with this information.
+
+Except as we explicitly state at the time we request information, we do not disclose to third parties the information provided. All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Adaptive Learning Service. This billing information is not used by GREedge.com for marketing or promotional purposes. GREedge.com uses a third-party intermediary to manage the credit card processing. This intermediary uses the information for the sole purpose of credit card processing.
+
+GREedge.com may also collect certain information from visitors to and customers of the Site, such as Internet addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Adaptive Learning Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers and provide such information to third parties.
+
+**Special Relationships**
+
+GREedge.com has a number of relationships with business partners with whom we may share your personal information for the purpose of providing a service, fulfilling an order or completing a transaction. For example, we use certain vendors for the purpose of providing credit card transaction and check processing services. These vendors verify your purchase information, such as credit card number or checking account number, and authorize your transaction. In doing so, they have access to data about users, but they are prohibited from using this information for any other purpose. We also strongly urge you to read the privacy policy of our business partner at the business partners site.
+
+**Cookies**
+
+GREedge.com uses software tags called "cookies" to identify customers when they visit our site. Cookies are used to remember user preferences and maximize performance of our services. The information we collect with cookies is not sold, rented, or shared with any outside parties. Users who disable their Web browser's ability to accept cookies will be able to browse our Website but will not be able to successfully use our Adaptive Learning Service.
+
+We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site.
+
+This privacy statement covers the use of cookies by GREedge.com only and does not cover the use of cookies by any advertisers.
+
+*Third Party Cookies:* We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of GREedge.com is used only to provide us with information on site usage and is not shared with any other third parties.
+
+**Web Beacons**
+
+Web pages may contain an electronic file called a web beacon, that allows a web site to count users who have visited that page or to access certain cookies. GREedge.com uses web beacons in the following ways:
+
+**Within the GREedge.com web sites**
+
+  * GREedge.com uses web beacons within the GREedge.com web sites in order to count users and to recognize users by accessing GREedge.com cookies.
+  * Being able to access GREedge.com cookies allows us to personalize your experience when you visit GREedge.com web sites that are located both on and off of the GREedge.com domain.
 
 
-**Privacy Policy**
 
-This privacy statement is designed to help you understand how we use and safeguard the personal information you provide to us. This privacy statement describes the practices of cyberedit.com, essayedge.com, resumeedge.com, termpaperedge.com, and webresume.com, members of the Thomson Learning family of companies.
+**HTML email**
 
-Please note that this website provides direct links to various sponsor and marketing partner sites, where you can apply for products and services (such as student loans) or register for more information. This privacy statement does not describe the practices of our partners. Before disclosing personal information on any other company's web site, you should read the privacy policy associated with that site. 
+GREedge.com's practice is to include web beacons in HTML-formatted email messages (messages that include graphics) that GREedge.com, or its agents, sends in order to determine which email messages were opened and to note whether a message was acted upon.
 
-**Information That We Collect**
+In general, any file served as part of a web page, including an ad banner, can act as a web beacon. GREedge.com may also include web beacons from other companies within pages served by GREedge.com so that GREedge.com's advertisers may receive auditing, and reporting.
 
-When you visit our Web site, you may provide us with information in different ways. For example, you may register with us or sign up for our newsletter. Or, you may complete search forms to get information from us about things like colleges or financial aid. Additionally, we collect information on an aggregate basis as you and others browse our web site. 
+**Log Files**
 
-The types of information we ask for varies with the search you're conducting. In addition to your name and contact information, we will ask for other information related to the topic. For example, in order to personalize your search for a college, we may ask about your high school graduation date, school performance, desired college locations, and career goals. If you request document editing services from us, you will provide a copy of the letter, essay or resume you want us to revise.
+GREedge.com maintains log files of the traffic that visits our site. We do not link any information gathered in these log files to personally identifying information. Log files are used to manage traffic loads and information technology requirements for providing reliable service. Information collected includes IP addresses and browser types.
 
-**How We Use the Information**
+**Tracking of Usage Statistics**
 
-In general, we use the information you provide in order to:
+In order to effectively deliver personalized and adaptive learning experiences, we gather information about your learning and reading patterns including but not limited to your interactions with the toolbar, our other learning software and your own web browsing patterns. You agree that this process is essential for proper functioning of the Toolbar and other software provided by GREedge.com licensors. If, for any reason, you do not wish such data to be collected or stored, please discontinue use of this toolbar or other GREedge.com software with immediate effect.
 
-  * respond to your requests for information
-  * provide the services you request
-  * provide customer service 
-  * provide links between targeted product and service providers and appropriate individuals 
+**Information Security**
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+All information gathered on the site is stored and maintained in secure facilities that limit access to authorized personnel only.
+
+**Retention of Information**
+
+GREedge.com will keep personal information of its users for as long as they are registered subscribers or users of our products and services, and for a reasonable time thereafter
+
+**Legal Disclaimer**
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+  12. RESOLUTION OF DISPUTES.  
+If a dispute arises between you and GREedge.com, our goal is to provide you with a neutral and cost effective means of resolving the dispute quickly. Accordingly, you and GREedge.com agree that we will resolve any claim or controversy at law or equity that arises out of this Toolbar License or our services (a "Claim") in accordance with one of the paragraphs below or as we and you otherwise agree in writing. Before resorting to these alternatives, we strongly encourage you to first contact us directly to seek a resolution by sending email to [info@greedge.com](mailto:info@greedge.com). We will consider reasonable requests to resolve the dispute through alternative dispute resolution procedures, such as mediation or arbitration, as alternatives to litigation.
+  13. Force Majeure  
+The GREedge.com licensor shall not be directly responsible for break or disruption of service or availability on account of Force Majeure circumstances, making it impossible to render the service to the subscriber. However, the subscriber shall continue to pay all and any charges as per the terms of the agreement notwithstanding the force majeure conditions.
+  14. Arbitration  
+Any dispute or claims arising between the parties hereto shall be referred to arbitration by an arbitrator to be appointed by the GREedge.com licensors. The arbitration shall be held at Chennai, India and the same shall be governed by the provisions of the Arbitration and Conciliation act, 1996 and amendments thereto.
+  15. Jurisdiction  
+Any dispute shall be subject to the exclusive jurisdiction of the courts in Chennai, India only.
 
 
 
-For example, if you request information on financial aid, we will send you that information. If you so choose, we can also provide your information to those marketing partners who offer financial aid packages so they may send you information on their products and services. 
+MISCELLANEOUS PROVISIONS. If for any reason a court of competent jurisdiction finds any provision or portion of this Toolbar License to be unenforceable, the remainder of the Toolbar License will continue in full force and effect. Sections 2-7, 10, 12, and 13 of this Toolbar License will survive any termination of this Toolbar License. This Toolbar License constitutes the entire agreement between the parties with respect to the subject matter hereof and supersede and replace all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter. To the extent that there is a conflict between the terms of this Toolbar License and the terms of the GREedge.com Privacy Policy or GREedge.com Terms of Service, this Toolbar License shall have precedence as to the subject matter of this Toolbar License. Except as otherwise provided in Section 9, any modifications of this Toolbar License must be in writing and agreed to by both parties. Any waiver of any provision of these Toolbar License will be effective only if in writing and signed by GREedge.com.
 
-If you request editing or resume writing services, we provide those services and bill you for the services as instructed. We do NOT sell any personal information from essays or resumes to any third parties. For example, unlike some resume services, we do not sell resume information to job posting boards. The full policy regarding use of customer information can be found in the Terms of Service that you must check to complete your order.
-
-If you purchase a product or service on our site, you may provide us with a credit card number. This credit card number will only be used to process your purchase. We will not disclose credit card numbers to third parties for marketing purposes under any circumstances. 
-
-In general, it is our policy to share information with other companies in the Thomson family (such as other Thomson Learning companies) unless you tell us not to by opting out. Unless you agree (by opting in), we will not share personal information about you with unrelated companies except as needed to complete your transaction. However, we may disclose any information when legally compelled to do so or when needed for the protection of our legal rights. For example, we may disclose information about you in response to a subpoena or government investigation. We may also disclose information about you in connection with the transfer of assets of our business.
-
-At registration, you will be given the opportunity to opt-out of internal promotions, offers and marketing messages. You will also be given the opportunity to opt-in to receive offers from partners and third parties.
-
-**Your Choices**
-
-_Opting Out of Offers from Thomson Learning_
-
-We only want to send you information if you want to receive it. You may opt out of receiving additional or future information from us or from having your information shared within the Thomson family at any time by doing any one of the following: clicking the "unsubscribe" link found in every newsletter or email, or by contacting our customer services department by email at [support@essayedge.com](mailto:support@essayedge.com) or phone (1-800-225-0261) and requesting removal from our internal email lists.
-
-_Opting In for Offers from Our Marketing Partners_
-
-If you want to receive information from our marketing partners, you may opt in during the registration process by checking the appropriate boxes on the registration page. If you do opt in, you can always change your mind and inform us that you no longer want to disclose your information to new marketing partners. Simply contact our customer services department by email at [support@essayedge.com](mailto:support@essayedge.com) and request removal from our external email list or call us at 1-888-438-2633.
-
-_Newsletter_
-
-If a user wishes to subscribe to any of our newsletters, we ask them to register by providing their contact information (email address), geographic information (zip code), and segmentation information (high school student, parent, etc.). Newsletter recipients will also receive Company offers from time-to-time and may opt-out of these offers by using the method described above.
-
-_Promotions, Surveys and Contests_
-
-From time-to-time our site requests information from users via promotions, surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), segmentation information (such as high school student, parent, etc.) and demographic information (such as zip code). Contact information will be used to process entries, send promotional material, notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving use of and satisfaction with this Web site.
-
-Please be sure to consult the official rules of any contest or sweepstakes you enter as specific data collection and usage practices may vary by contest or sweepstakes. Unless the official rules or entry instructions provide otherwise, contest or sweepstakes participants may opt-out of receiving future mailings or having their information shared with other companies by the method described above. 
-
-_Email A Friend/Tell A Friend_
-
-If a user elects to participate in our referral program for recruiting friends to become a customer of the site, we ask the user to provide the email address of the friend who will then receive a one-time email message. Friends recruited through this program will register with us and enjoy all of the benefits of being a user.
-
-_Special Offers_
-
-We send all new members a welcoming email. Established members will occasionally receive information on products, services, special deals, or a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see description of our opt-out policy above.
-
-**Cookies and Web Site Information**
-
-Like most other commercial websites, we use standard "cookie" technology and web server logs to collect information about how our web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our websites. Cookies allow you to move from page to page on the website, by remembering the information about the entire session. 
-
-Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual.
-
-**Children's Data**
-
-The Thomson Learning websites are designed for high school students, their parents, and adults seeking information on higher education. Children under 13 years of age may use these websites to get general information about higher education. However, we do not collect personal information from anyone under 13, and children under 13 may not register or conduct personalized searches. 
-
-**How Do We Secure Information Transmissions?**
-
-If you purchase a product from us, we will ask for a credit card number. These transactions are secured using licensed secure server software which encrypts the information you provide. 
-
-Additionally, we periodically review our operations and business practices for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information.
-
-**Contact Us With Any Questions**
-
-If you have any questions about this privacy statement, the practices of our websites, or your dealings with this web site, please contact the proper address below: 
-
-Support Services  
-CyberEdit  
-Third Floor  
-2000 Lenox Drive  
-Lawrenceville, NJ 08648  
-[support@essayedge.com ](mailto:support@essayedge.com)
-
-1-888-438-2633
+**Questions Or Additional Information.** If you have questions regarding this Toolbar License, or wish to obtain additional information, please send an e-mail to [info@greedge.com](mailto:info@greedge.com).
