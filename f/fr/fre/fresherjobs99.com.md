@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fresherjobs99.com privacy policy that was archived on 2011-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110401192242id_/http%3A//fresherjobs99.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fresherjobs99.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007223251id_/http%3A//fresherjobs99.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # FresherJobs99.com
 
