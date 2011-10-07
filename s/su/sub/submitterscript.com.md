@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the submitterscript.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621083042id_/http%3A//submitterscript.com/privacy-policy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D600%26width%3D500) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the submitterscript.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007073123id_/http%3A//submitterscript.com/privacy-policy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D600%26width%3D500) for the most accurate reproduction.*
 
 # None
 
