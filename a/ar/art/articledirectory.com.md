@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articledirectory.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422142451id_/http%3A//articledirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledirectory.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007110007id_/http%3A//articledirectory.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Privacy Statement
 
