@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the thatagency.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607112623id_/http%3A//www.thatagency.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatagency.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007151725id_/http%3A//www.thatagency.com/privacy.php) for the most accurate reproduction.*
 
 # West Palm Beach Website Design| Privacy Policy
+
+[](https://web.archive.org/contact/rfp-business-inquiries.php)  
+        or call 888-873-3281
+
+[](http://www.thatagency.com/design-studio-blog/)
+
+[](http://www.thatseo.com/resources/)
+
+  
+
+
+### Find us on...
+
+[](http://www.facebook.com/thatagency)
+
+[](http://twitter.com/THAT_Agency)
+
+[](http://www.youtube.com/user/THATAgency)
 
 Open Policy on the Issue of Privacy: We at THAT Agency adhere to a strict professional code of ethical conduct in the handling of your personal information. Read below to review how we safeguard your relationship with us.
 
