@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotionalcode.ca privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423192022id_/http%3A//promotionalcode.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotionalcode.ca privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007070325id_/http%3A//promotionalcode.ca/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of PromotionalCode.ca | Promotional Code
 
