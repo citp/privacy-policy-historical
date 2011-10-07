@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaexpress.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123125857id_/http%3A//indiaexpress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaexpress.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007224703id_/http%3A//www.indiaexpress.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : IndiaExpress.Com
 
