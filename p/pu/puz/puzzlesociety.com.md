@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the puzzlesociety.com privacy policy that was archived on 2006-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061126041055id_/https%3A//register.uclick.com/reg/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlesociety.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007062421id_/https%3A//register.uclick.com/reg/privacy_policy.html) for the most accurate reproduction.*
 
 # uclick Network Registration - Account Set-Up
 
-At uclick, LLC ("uclick"), we respect your right to privacy and we understand that visitors to uclick's Web Sites need to control the uses of their personal information. The privacy policy below details the measures taken by uclick to protect your privacy in connection with your use of [www.gocomics.com](http://www.gocomics.com/), [www.uComics.com](http://www.ucomics.com/), [www.uPuzzles.com](http://www.upuzzles.com/), [www.MyComicsPage.com](http://www.mycomicspage.com/), [www.ComicsSherpa.com](http://www.comicssherpa.com/) , [www.InfiniteCrosswords.com](http://www.mycomicspage.com/) and other sites or applications owned and operated by uclick, ("Sites"). uclick does not intend to collect any personal information from children under 13 unless uclick believes such collection to be permitted by law; please read below for uclick's policy with respect to children under 13.
+At uclick, LLC ("uclick"), we respect your right to privacy and we understand that visitors to uclick's Web Sites need to control the uses of their personal information. The privacy policy below details the measures taken by uclick to protect your privacy in connection with your use of [www.gocomics.com](http://www.gocomics.com/), [www.GoComics.com](http://www.gocomics.com/), [www.uPuzzles.com](http://www.upuzzles.com/), [www.MyComicsPage.com](http://www.mycomicspage.com/), [www.ComicsSherpa.com](http://www.comicssherpa.com/) , [www.InfiniteCrosswords.com](http://www.mycomicspage.com/) and other sites or applications owned and operated by uclick, ("Sites"). uclick does not intend to collect any personal information from children under 13 unless uclick believes such collection to be permitted by law; please read below for uclick's policy with respect to children under 13.
 
 **_What does the this Privacy Policy cover?_**
 
@@ -46,24 +46,17 @@ uclick is the sole owner of the information collected from the uclick service. Y
 
 [24/7 Real Media Inc.](http://www.247realmedia.com/privacy.html)   
 [Advertising.com](http://www.advertising.com/privacy_policy.htm)   
-[Avenue A](http://www.avenuea.com/about/aboutPrivacyPolicy.asp)   
-[AdKnowledge](http://www.engage.com/company/privacy.cfm)   
-[Click Yield](http://www.clickyield.com/)   
+[BannerConnect](http://www.bannerconnect.net/about/privacy-policy)   
+[Casale](http://www.casalemedia.com/privacy.html)   
 [DoubleClick](http://www.doubleclick.com/us/corporate/privacy/)   
-[Engage](http://www.engage.com/company/privacy.cfm)   
-[Eyeblaster](http://www.eyeblaster.com/WebSite/Privacy_Policy.htm)   
-[Eyewonder](http://www.eyewonder.com/about/privacy.cfm)   
 [FastClick](http://www.fastclick.com/about/privacy.html)   
-[Her Agency](http://www.heragency.com/)   
-[iBlast](http://www.iblast.com/)   
-[Klipmart](http://www.klipmart.com/)   
-[Lightningcast](http://www.lightningcast.com/company/privacy.html)   
-[MaxWorldWide](http://www.maxworldwide.com/privacy_policy/index.php)   
-[MediaPlex](http://www.mediaplex.com/privacy.shtml)   
+[Fox Audience Network](https://publishers.foxaudiencenetwork.com/pnp/static/privacy-policy)   
+[Google](http://www.google.com/privacy_ads.html)   
+[Intercept Interactive](http://www.interceptinteractive.com/aboutus/privacy.php)   
+[Platform-A](http://www.platform-a.com/privacy-policy)   
+[Sponsor Select](http://www.sponsorselect.com/privacy.html)   
+[Tacoda](http://www.platform-a.com/privacy-policy/tacoda)   
 [Tribal Fusion](http://www.tribalfusion.com/TribalFusion/privacy.html)   
-[Unicast](http://www.unicast.com/company/privacy.asp)   
-[United Virtualities](http://www.unitedvirtualities.com/)   
-[x10 Network](http://www.x10.com/privacy.htm)   
 
 
 **Opting Out of Third-Party Ad Servers**  
@@ -119,7 +112,7 @@ Remember to sign off our Site and close your browser window when you are finishe
 
 **Security.** uclick has security measures in place to protect the loss, misuse and alteration of the information under our control. These include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. We will protect the transmission of credit card information through industry standard, SSL (secure socket layer) encryption. We use [thawte](https://www.thawte.com/home.html) SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. thawte has checked and verified the company registration documents and the site's registered domain name. [Consumer Guidelines: How to know whether a site is secure](https://www.thawte.com/siteseal/index.html)
 
-**Chat Rooms and Other Public Areas.** uclick may offer chat, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by uclick's [Terms of Service](https://web.archive.org/web/20061126041055id_/https%3A//register.uclick.com/reg/termsofuse.html). 
+**Chat Rooms and Other Public Areas.** uclick may offer chat, bulletin board, or other public functions and any posting by you is considered public information available to other users. Any posting is governed by uclick's [Terms of Service](https://web.archive.org/web/20111007062421id_/https%3A//register.uclick.com/reg/termsofuse.html). 
 
 **Refer a Friend.** If a user elects to use our referral service for informing a friend about our site or particular features or content, we ask them for the friend's name and e-mail address. uclick will automatically send the friend a one-time email inviting them to visit an uclick Site. uclick stores this information for the sole purpose of sending this one-time email. The friend may contact uclick to request the removal of this information from their database. 
 
@@ -137,12 +130,11 @@ You can complete our e-mail form at: <https://register.uclick.com/cgi-bin/suppor
 
 uclick, LLC   
 Attn: uclick Privacy   
-4520 Main Street   
-Suite 500   
-Kansas City, MO 64111 USA 
+1130 Walnut St.   
+Kansas City, MO 64106 USA 
 
 **_Acceptance of Privacy Statement._**
 
-Your use of the uclick Sites, including any dispute concerning privacy, is subject to this Privacy Statement and uclick's Terms and Conditions of Use. [By using the uclick Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](https://web.archive.org/web/20061126041055id_/https%3A//register.uclick.com/reg/termsofuse.html). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the uclick Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes. 
+Your use of the uclick Sites, including any dispute concerning privacy, is subject to this Privacy Statement and uclick's Terms and Conditions of Use. [By using the uclick Sites, you are accepting the practices set out in this Privacy Statement and those Terms and Conditions of Use](https://web.archive.org/web/20111007062421id_/https%3A//register.uclick.com/reg/termsofuse.html). We reserve the right to modify this Privacy Statement at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of the uclick Sites following posting of the updated Privacy Statement will constitute your acceptance of the changes. 
 
-Updated as of 01-23-2003
+Updated as of 04-22-2009
