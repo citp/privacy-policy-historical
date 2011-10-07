@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201063655id_/http%3A//tripsmarter.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripsmarter.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007122208id_/http%3A//www.tripsmarter.com/privacy.htm) for the most accurate reproduction.*
 
 # TripSmarter.Com - Privacy Policy
 
