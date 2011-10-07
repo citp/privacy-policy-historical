@@ -1,149 +1,83 @@
-> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218234051id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asicstiger.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007164950id_/http%3A//www.asicsamerica.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy @ ASICSAmerica
 
-#### Find Answers To Your Questions:
+ASICS America Corporation (the "Company") understands the importance of protecting the privacy of its customers, employees and visitors to this website (the "Site"). This Privacy Policy discloses the Company’s practices relating to collection, use and disclosure of information that you may provide to the Company, including through this Site. Before you submit any personal information to the Company through this Site or otherwise, please thoroughly review this Privacy Policy, and contact us if you have any questions.
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+### Intended Audience of this Site
 
-### Privacy Policy
+This Site is primarily intended for business use by (i) representatives of actual and potential customers interested in learning about the Company or purchasing Company products.
 
-**Why A Privacy Policy?**  
+This Site is not intended to attract or be used by children under the age of 13 without verifiable parental consent, and the Company will not knowingly collect personal information from such visitors.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+Your Consent
 
- **This Privacy Policy protects your privacy by:**
+By using this Site, you agree with and accept the terms of this Privacy Policy. Whenever you submit personal information through this Site, you consent to the collection, disclosure, use and retention of that information in accordance with this Privacy Policy.
 
- **Informing you about:**
+Collection of Information About You
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+The Company collects personal information from its customers and prospective customers primarily to assist in meeting their needs for athletic footwear,apparel, and accessories. We collect such information directly from you through this Site, in responses to our specific requests and via e-mail, web input screens and forms, and our newsletter sign-up. The types of personal information we collect includes, but is not limited to, your name, age, gender, street address, and e-mail address. You should carefully limit the personal information you voluntarily provide to strictly that which is necessary for the Company to respond to your inquiry or address your needs for athletic footwear, apparel And accessories.
 
+### Automatic Collection of Information
 
+As you navigate this Site, certain limited information can and may be collected automatically from you without your active involvement, using methods known as cookies and navigational data collection. Some of the information (e.g., type of web browser) does not identify who you are. Other information, such as your Internet Protocol ("IP") address, may identify you indirectly, when supplemented with other commercially available sources of information.
 
-**Empowering you to choose:**
+When you visit this Site, we send to your computer one or more cookies, which are small text files containing a string of characters. These cookies uniquely identify your computer to the Site, but do not facilitate the gathering of personal information. We may use cookies to improve the quality of our service by storing user preferences and tracking user trends. Most web browsers are set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of this Site may not function properly if your cookies are disabled.
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+Furthermore, our computer servers automatically record information that your browser sends whenever you visit a website. These server logs may include information, such as the portions of the Site accessed, the IP address assigned to your computer, the type of browser used by your computer, the date and time of your access to the Site, and one or more cookies that may uniquely identify your computer.
 
+### Collection, Disclosure, Use and Retention of Information Other Than Employee Data
 
+Except as otherwise stated at the point of collection, we may use your information for improving the content of the Site, customizing this Site to your preferences, communicating information to you and subsequently updating such information, internal marketing and research purposes, and as further specified in this Privacy Policy. We may combine such information with other passively or actively collected information unless we specify otherwise at the point of collection.
 
-**Assuring you that Network Solutions:**
+The Company may transfer your information, including personally identifiable information, to third parties, including contractors we use to support our business (e.g., marketing services, product retailers, technical support, and financial institutions), in which case we will require such third parties to agree to treat your information in accordance with this Privacy Policy or as you may otherwise have previously consented. We do not share your personal information with third parties for their direct marketing purposes unless you have affirmatively agreed in advance to such a disclosure.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+The Company also may transfer such information (i) to our related parent corporation (ASICS Corporation (Kobe, Japan) and other ASICS related corporations around the world (ii) in connection with the sale, assignment or other transfer of the business function of the Company to which the information relates, in which case we will require any such buyer, assignee or transferee to agree to treat it in accordance with this Privacy Policy; (iii) to protect the rights, property or safety of the Company, its employees or visitors to this Site; or (iv) in compliance with subpoenas or other valid court orders, in response to inquiries and requests from regulatory authorities, in connection with the prevention or detection of fraud, or as otherwise permitted or required by law. In addition, we will make full use of all information acquired through this Site or otherwise that is not identifiable to you.
 
+### Choices for Disclosure and Use of Personal Information
 
+You may choose to prevent the Company from disclosing or using your personal information under certain circumstances ("opt out"). You may opt out of any disclosure or use of your personal information for purposes that are incompatible with the purpose(s) for which it was originally collected or for which you subsequently gave authorization. Furthermore, even where your personal information is to be disclosed and used in accordance with the stated purposes in this Privacy Policy, you may elect to opt out of such disclosure to and use by a third party that is not acting as an agent of the Company. On the other hand, the Company may disclose your personal information to a third party acting as its agent where this third party subscribes to the Safe Harbor Principles (the "Principles") or agrees in writing to provide at least the same level of privacy protection as is required by the relevant Principles.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+### Access and Correction
 
-  
-**Third Party Advertising and Cookies**
+To access your personal information in the possession of the Company and correct inaccuracies of that information in our records, please contact us in the manner specified in the "How to Contact Us" section below. We ask individuals to identify themselves and the information requested to be accessed and amended before processing such requests, and we may decline to process requests in limited circumstances as permitted by applicable privacy legislation.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+### Security
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+The Company takes reasonable measures to safeguard your personal information against unauthorized access, disclosure, copying, use or modification, whether or not in electronic format. We use industry-standard technological precautions, such as Secure Socket Layer technology in an effort to protect your personal information as you transmit it electronically from your computer to this Site and, furthermore, to protect it from loss, misuse and unauthorized access, disclosure, alteration or destruction. Furthermore, the Company requires that employees and third-party administrators/processors access your personal information only on a "need-to-know" basis.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+You should keep in mind that no combination of security measures can ever provide guaranteed protection all the time. We caution you that e-mail may be particularly vulnerable to unauthorized interception, eavesdropping, modification and spoofing, and, therefore, you should take special care in deciding what information you send to us via e-mail. Moreover, where you use passwords, ID numbers or other special access features on this Site, it is your responsibility to safeguard them.
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+### Enforcement
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Any questions, concerns or complaints regarding this Privacy Policy or the Company’s treatment of personal information may be communicated by contacting us through this Site, sending an e-mail message to us at [privacy@asicsamerica.com](mailto:privacy@asicsamerica.com?subject=Website%20Enquiry) or by writing to us at Privacy Officer, ASICS America Corp., 29 Parker, Suite 100, Irvine California 92618 U.S.A.
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+When we receive a formal written complaint, our Privacy Officer will contact the author within a reasonable period of time regarding his or her concerns and attempt to resolve these concerns directly with this individual. If a complainant believes that the Company has engaged in possible unfair or deceptive practices and legal or regulatory violations in connection with its privacy obligations, he or she may file a complaint with the Federal Trade Commission through its website [http://www.ftc.gov](http://www.ftc.gov/) We will cooperate with the U.S. Federal Trade Commission to resolve any complaint regarding the collection, disclosure, use and retention of personal information that cannot be resolved between the Company and the complainant.
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+The Company has in place procedures for maintaining the confidentiality of personally identifiable information.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+### Links to Other Websites
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+This Site may contain links or references to third-party websites that are not affiliated with the Company. The inclusion of any link does not imply the Company’s endorsement of any other company, its websites, or its products and/or services. Any such linked websites have separate and independent privacy policies which we encourage you to read carefully. Please be aware that the Company has no control over linked third-party websites and, therefore, no responsibility or liability for the manner in which the organizations that operate such websites may collect, disclose, use or otherwise treat your personal information.
 
- **Getting to Know Our Customers**
+### Other Terms
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+Your use of this Site is subject to our [Terms and Conditions of Use](https://web.archive.org/getdoc/1e23c2ff-4e12-40d7-a4ed-ee2fde0ab62d/Terms-and-Conditions).
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+### How to Contact Us
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+To correct or update any personal information previously collected by us, please follow instructions at the original point of collection on this Site, send an e-mail message to us at [privacy@asicsamerica.com](mailto:privacy@asicsamerica.com?subject=Website%20Enquiry) or by writing to us at Privacy Officer, ASICS America Corp., 29 Parker, Suite 100, Irvine California 92618 U.S.A.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+### Changes to This Privacy Policy
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+If this Privacy Policy changes, the revised policy will be posted on this Site. Please check back periodically and especially before you provide any personal information to the Company. This Privacy Policy was last updated on February 4, 2009.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+A California resident who has provided personal information to a business with whom he or she has established a business relationship ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties’ direct marketing purposes. As a general matter, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+However, under the law, a business is not required to provide such lists of information if the business adopts and discloses to the public, in its privacy policy, a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Instead, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+As stated in our Privacy Policy, ASICS America Corporation (the "Company") does not share information with third parties for their direct marketing purposes unless you have affirmatively agreed to such a disclosure. If you do request that the Company share your personal information with a third party for that third party’s marketing purposes, we will only share information in connection with that specific purpose. We do not share such information with any third party on a regular or continual basis. To prevent disclosure of your personal information for use in direct marketing by a third party, do not opt in to such use when you provide personally identifiable information on this website.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party's privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as the Company has no control over how third parties use your information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information.
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
-
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+California customers may request further information about our compliance with this law by e-mailing [californiaprivacy@asicsamerica.com](mailto:californiaprivacy@asicsamerica.com?subject=Website%20Enquiry). Please note that the Company is only required to respond to one request per California customer each year, and we are not required to respond to requests made by means other than through this e-mail address. 
