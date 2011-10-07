@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housetohome.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605174430id_/http%3A//www.housetohome.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housetohome.co.uk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007231730id_/http%3A//www.housetohome.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
 
