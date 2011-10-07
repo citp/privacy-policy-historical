@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620102545id_/http%3A//insuremycar4less.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insuremycar4less.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007022421id_/http%3A//insuremycar4less.com/index.cfm%3Fopenaction%3Dqw%26subaction%3Dprivacy) for the most accurate reproduction.*
 
 # InsureMyCar4Less | The perfect policy, the right price
 
 ## InsureMyCar4Less.com Privacy Policy Statement
 
-_This privacy policy was last updated on March 15th, 2011_
+_This privacy policy was last updated on August 4th, 2011_
 
-InsureMyCar4Less is owned by QuoteWizard.com LLC. InsureMyCar4Less is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
+InsureMyCar4Less is owned by InsuremyCar4Less.com LLC. InsureMyCar4Less is committed to protecting your private information. This Privacy Statement describes the information that we collect when you visit one of our sites. It also describes how we use that information, and how you can update it. We reserve the right to append or otherwise modify this Privacy Statement at any time. Please re-visit this page occasionally to check for updates. 
 
 ## Information We Collect
 
@@ -42,7 +42,7 @@ If you provide a cell phone number with your contact information, InsureMyCar4Le
 
 The information that is automatically collected by our web site allows InsureMyCar4Less to further develop and improve the layout, design, and usability of the site, in order to better serve your Internet needs. Information you provide to us is used for marketing purposes, and may result in follow-up communications. 
 
-InsureMyCar4Less may share personally identifiable information with third-party businesses for the purpose of direct marketing, specifically e-mail marketing. All third parties are bound by the CAN SPAM Act (s.877) of 2003, and are required to be in full compliance of all consumer opt-out rules and regulations. 
+InsureMyCar4Less may share personally identifiable information with insurance agents and insurance carriers for the purposes of providing quotes. 
 
 ## How Our Insurance Partners May Use This Information
 
@@ -88,7 +88,7 @@ A browser session is defined as the period of time a browser is in consecutive u
 
 ## SSL Encryption (Secure Sockets Layer)
 
-The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. InsureMyCar4Less also uses SSL encryption whenever we display your personal information (e.g., name and address, scheduled courses, grades). 
+The leading security protocol on the Internet. When an SSL session is started, the browser sends its public key to the server so that the server can securely send a secret key to the browser. The browser and server exchange data via secret key encryption during that session. InsureMyCar4Less also uses SSL encryption whenever we display your personal information (e.g. name and address). 
 
 ## URL (Uniform Resource Locator)
 
