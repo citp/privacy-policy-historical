@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518173434id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idrivesafely.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007023842id_/http%3A//www.idrivesafely.com/privacy) for the most accurate reproduction.*
 
-# Online Defensive Driving, Traffic School, & More
+# I Drive Safely - Online Privacy Policy Notice
+
+#### Privacy Policy
 
 I DRIVE SAFELY is the sole owner of the information collected on its website. I DRIVE SAFELY collects personally identifiable information from our customers and potential affiliates at several different points on our website. We will deny requests for marketing, scholastic, demographic, or other information requests from entities that could derive commercial or social benefits from such data if you are an original customer of our company. But in the cases where you are being referred to us by a third party (ex. AAA), we may provide the personal identifiable information requested by them. We will not use or sell this information to promote products or services unrelated to this traffic safety course or in ways different from what is disclosed in this statement.
 
@@ -68,3 +70,19 @@ Carlsbad, CA 92008
 760.744.3070
 
 "Privacy Policy last updated August 19, 2009" 
+
+###### Join more than 2 million satisfied customers!   
+[](https://web.archive.org/signup/displayCourseSelection.pl?STATE=FL&COUPON=BEST11&RESIDENTSTATE=)
+
+| 
+
+###### Get Started
+
+Register now and join more than 2 million satisfied customers!
+
+[](https://web.archive.org/signup/displayCourseSelection.pl?STATE=FL&COUPON=CETXSP&RESIDENTSTATE=)
+
+###### Florida Driver's Handbook
+
+  
+
