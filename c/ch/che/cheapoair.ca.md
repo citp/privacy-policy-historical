@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516202624id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapoair.ca privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007170105id_/http%3A//www.cheapoair.ca/privacy) for the most accurate reproduction.*
 
 # CheapOair.ca - Privacy Policy
 
@@ -8,7 +8,7 @@
 ---  
 CheapOair.ca is strongly committed to protecting your privacy.  
   
-This privacy policy (“Privacy Policy”) discloses our information collection and dissemination practices in connection with the CheapOjavascript:__doPostBack('dnn$ctr3605$EditHTML$cmdSave$ctl01','')air.ca website (collectively, the “Site”). By using the Site you signify your acceptance of the terms in this Privacy Policy. If you do not agree to this Privacy Policy, you should not use the Site. 
+This privacy policy (“Privacy Policy”) discloses our information collection and dissemination practices in connection with the CheapOair.ca website (collectively, the “Site”). By using the Site you signify your acceptance of the terms in this Privacy Policy. If you do not agree to this Privacy Policy, you should not use the Site. 
 
 We may amend this Privacy Policy at any time. All amended terms automatically take effect when this Privacy Policy is updated. Your continued use of the Site following the posting of changes to this Privacy Policy will mean that you accept those changes.
 
@@ -93,6 +93,4 @@ PLUS, get C$15 instantly*
   
 ---  
   
-CheapOair.ca is a registered seller of travel and represented by RSH Travel Inc. in Markham, Ontario & Vancouver, BC. CheapOair is not responsible for content on external websites.  
-Ontario: Registration **#50018542** , British Columbia: Registration **#53325**  
-™ 2011 "CheapOair.ca" is a trade name of RSH Travel Inc.. All rights reserved. © 2011 RSH Travel Inc.. All rights reserved. RSH Travel Inc. owns the copyright of all material displayed on this website. Anyone accessing this website may view and print material from this website for information purposes only. Any copyright material of this website is strictly restricted to non-commercial use only and must include this copyright notice. RSH Travel Inc. is the owner of the trade name CheapOair.ca. Other trademarks and service marks displayed on this website are the trademarks and service marks of their rightful owners. 
+[](http://www.bbb.org/kitchener/business-reviews/travel-agencies-and-bureaus/cheapoairca-in-markham-on-1227946#sealclick "Click for the Business Review of CheapOair.ca, a Travel Agencies & Bureaus in Markham ON")
