@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2010-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100202215332id_/http%3A//blog.subzin.com/%3Fpage_id%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subzin.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007170013id_/http%3A//blog.subzin.com/%3Fpage_id%3D26) for the most accurate reproduction.*
 
 # Privacy policy « subzin.com
 
@@ -6,7 +6,7 @@
 
 **Website Privacy Statement**
 
-This document was last updated on 15th January 2009.
+This document was last updated on 23rd September 2010.
 
 **1\. ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS**  
 Subzin is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.subzin.com, you acknowledge and fully understand Subzin’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
@@ -45,11 +45,17 @@ We will not disclose personally identifiable information we collect from you to 
 \- To respond to legal process or comply with law, or  
 \- In connection with a merger, acquisition, or liquidation of the company.
 
-**4\. ACCESSING WEB ACCOUNT INFORMATION**  
+**4\. ACCESSING WEB ACCOUNT INFORMATION**
+
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us [here](mailto:admin@subzin.com "YouTorrent Privacy Contact"). At any time, you can contact us in order to require the permanent blockage of any personal data contained in our systems, causing the lost of any service provided by Subzin. In any case the personal data could be retained if there are legal statements requiring this information to be maintained in Subzin’s database for a certain time.
 
-**5\. CHANGES TO THIS STATEMENT**  
+**5\. PERSONAL INFORMATION RELATED TO SUBZIN’ SEARCH SERVICES**
+
+Even though Subzin’ Search Services are not intended to disclosure personal information, the information uploaded in Subzin’s databases by certain users could contain personal information. The reason is that Subzin’s is user-centric, and the information uploaded by Subzin’s users is not previously reviewed or manipulated by Subzin, therefore personal information could be disclosed through Subzin’ Search Services without the knowledge of Subzin staff. If that were the case, upon receiving a removal query in Subzin’s administrator [mailbox](mailto:admin@subzin.com "YouTorrent Privacy Contact"), such information would be removed after evaluation, as soon as possible and permanently from Subzin’s databases, blocking any further visualization through Subzin’ Search Services. It must be understood that this personal information removal service is restricted to search services accessed directly through [www.subzin.com](http://www.subzin.com/) or [subzin.com](http://subzin.com/). Therefore Subzin is not responsible of third party information manipulation, storing or catching activities over Subzin-rendered services.
+
+**6\. CHANGES TO THIS STATEMENT**
+
 Subzin has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
-**6\. CONTACTING US**  
+**7\. CONTACTING US**  
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](mailto:admin@subzin.com "YouTorrent Privacy Contact"). We will use our best efforts to promptly respond and resolve any problems or questions.
