@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the donttrack.us privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519212557id_/https%3A//duckduckgo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donttrack.us privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008004536id_/https%3A//duckduckgo.com/privacy.html) for the most accurate reproduction.*
 
 # Duck Duck Go Privacy Policy
 
