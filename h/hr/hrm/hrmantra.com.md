@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hrmantra.com privacy policy that was archived on 2011-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110204051128id_/http%3A//hrmantra.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrmantra.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007101655id_/http%3A//hrmantra.com/policy.aspx) for the most accurate reproduction.*
 
 # :: Software India, HR Payroll Software India ::
 
-HRMantra respects the confidentiality of anyone who uses this HRMantra Web site [www.HRMantra.com](https://web.archive.org/web/20110204051128id_/http%3A//hrmantra.com/Default.aspx) and HRMantra online applications. 
+HRMantra respects the confidentiality of anyone who uses this HRMantra Web site [www.HRMantra.com](https://web.archive.org/web/20111007101655id_/http%3A//hrmantra.com/Default.aspx) and HRMantra online applications. 
 
 HRMantra provides its service to you subject to the HRMantra software and services terms of service and this Privacy Policy, which shall be considered a part of the Terms of Service. We reserve the right to change this Privacy Policy anytime. We gather  important information from our customers and visitors. We publish this Privacy Policy to communicate how we gather and use information about our customers & visitors, how we protect it, and how you can participate in its protection. 
 
