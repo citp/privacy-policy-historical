@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129230126id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethsoft.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007104929id_/http%3A//www.zenimax.com/legal_privacy.htm) for the most accurate reproduction.*
 
 # ZeniMax Media Inc.
 
