@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cafecafegames.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610155814id_/http%3A//www.cafecafegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafecafegames.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007101537id_/http%3A//www.cafecafegames.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy CafeCafe Games
+# Privacy Policy CafeCafe Games - Point and Click, Adventure and Escape Games
 
 **Personal Information**  
 CafeCafeGames.com does not attempt to collect any personal information.
