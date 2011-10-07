@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youmix.co.uk privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129212451id_/http%3A//youmix.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmix.co.uk privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007061632id_/http%3A//youmix.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
