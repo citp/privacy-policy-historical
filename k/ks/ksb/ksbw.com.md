@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksbw.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102201521id_/http%3A//www.ksbw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksbw.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007111756id_/http%3A//www.ksbw.com/privacy) for the most accurate reproduction.*
 
 # KSBW.com - Privacy
 
