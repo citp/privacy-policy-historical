@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the polldaddy.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630152724id_/http%3A//polldaddy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polldaddy.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008010053id_/http%3A//polldaddy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Polldaddy.com | Polldaddy.com
+# Privacy Policy | Polldaddy.com
 
 All of us at Polldaddy take your privacy and security very seriously. This privacy statement discloses our information practices and declares our data collection methods, usage and confidentiality policies throughout our site. 
 
@@ -29,7 +29,7 @@ Users are strongly advised not to share their log-on details with others, otherw
 
   * **Collection & Use of Information**
 
-The customer area presents a highly individualized facility for managing reports and raw data. In order to provide this facility we have to record basic user usage of the facility, for example to customize the poll poll list for each user. 
+The customer area presents a highly individualized facility for managing reports and raw data. In order to provide this facility we have to record basic user usage of the facility, for example to customize the poll list for each user. 
 
 To protect the customer resources area from misuse we actively monitor all logins into the system in addition to recording standard web logs. We collect login dates and times as well as recording IP addresses on an individual basis. In addition, we record details on all actions that are taken, also on an individual basis. This allows us to perform individual analysis of patterns of activity for the purposes of detecting prohibited access and misuse of the resources in the system. 
 
@@ -68,7 +68,7 @@ If a customer has had their account put on hold, they may contact customer suppo
 
 ###  Tools We Provide Within Our Services 
 
-All of the following tools operate under the domain http://www.polldaddy.com. All data collected is the property of the customer and is just hosted / facilitated by us. Polldaddy stores this information securely on behalf of the customer who collected it. This information is only accessible by that customer. When the customer has finished using the data it is deleted. 
+All of the following tools operate under the main domain http://polldaddy.com (and other subdomains and mapped domains). All data collected is the property of the customer and is just hosted / facilitated by us. Polldaddy stores this information securely on behalf of the customer who collected it. This information is only accessible by that customer. When the customer has finished using the data it is deleted. 
 
   * **Polls**
 
