@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228055559id_/https%3A//www.surveysavvy.com/ss/ss_index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveysavvy.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007155119id_/https%3A//www.surveysavvy.com/ss/ss_index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # SurveySavvy.com - Your Opinions, Your Marketplace, Your Rewards - Get Paid for Surveys!
 
@@ -32,7 +32,7 @@ The information you provide through the registration process is completely confi
 
 **Opportunity to Correct/Update Information**
 
-You can correct factual errors, review and/or update your profile at any time from the [member's area](https://web.archive.org/web/20101228055559id_/https%3A//www.surveysavvy.com/ss/ss_index.php%3Faction%3Dprivacy?action=home). To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You will receive a follow-up email from ****SurveySavvy.com**** indicating that your member profile has been updated accordingly.
+You can correct factual errors, review and/or update your profile at any time from the [member's area](https://web.archive.org/web/20111007155119id_/https%3A//www.surveysavvy.com/ss/ss_index.php%3Faction%3Dprivacy?action=home). To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You will receive a follow-up email from ****SurveySavvy.com**** indicating that your member profile has been updated accordingly.
 
 **Consent**
 
@@ -40,11 +40,11 @@ If we are going to use your personally identifiable information in a manner diff
 
 **Notification of Changes**
 
-If we make any material changes in our privacy practices, we will post a prominent notice on our Web site notifying members of the change. Any material changes in our Privacy Policy will be posted 30 days prior to the date such changes are implemented. In some cases, we will also email members, who have opted to receive communications from us, notifying them of the changes in our privacy practices. If you do not agree with the changes made to this Privacy Policy, you may [unsubscribe.](https://web.archive.org/web/20101228055559id_/https%3A//www.surveysavvy.com/ss/unsubscribe/u.php)
+If we make any material changes in our privacy practices, we will post a prominent notice on our Web site notifying members of the change. Any material changes in our Privacy Policy will be posted 30 days prior to the date such changes are implemented. In some cases, we will also email members, who have opted to receive communications from us, notifying them of the changes in our privacy practices. If you do not agree with the changes made to this Privacy Policy, you may [unsubscribe.](https://web.archive.org/web/20111007155119id_/https%3A//www.surveysavvy.com/ss/unsubscribe/u.php)
 
 **Security of Personal Information**
 
-The extraordinary data encryption team at Luth Research, LLC has developed one of the only market research sites in the world that utilizes Secure Sockets Layer (SSL) encryption of personal information. SSL "scrambles" all your personal information -- name, address, telephone number, email address and password -- when you click on "Next" to transmit your registration form to us. Your information is not reassembled until it safely reaches our server. Furthermore, you may go to our [member's area](https://web.archive.org/web/20101228055559id_/https%3A//www.surveysavvy.com/ss/ss_index.php%3Faction%3Dprivacy?action=home) at any time to check on your personal information or to view your incentive credit balance -- but you will be required to enter your previously registered email address and password before accessing any individualized data. Any information you send to us -- corrections to your personal information, requests for payment, etc. -- will be encrypted by SSL. ****SurveySavvy.com**** has expended significant resources in acquiring server, database and firewall technology designed to maintain the security and confidentiality of your personal information. The security of our Web site also depends, in part, upon you. You will be responsible for maintaining the confidentiality of your password and are fully responsible for all activities that occur under your email address and password. You agree to immediately notify ****SurveySavvy.com**** of any unauthorized use of your email address and password.
+The extraordinary data encryption team at Luth Research, LLC has developed one of the only market research sites in the world that utilizes Secure Sockets Layer (SSL) encryption of personal information. SSL "scrambles" all your personal information -- name, address, telephone number, email address and password -- when you click on "Next" to transmit your registration form to us. Your information is not reassembled until it safely reaches our server. Furthermore, you may go to our [member's area](https://web.archive.org/web/20111007155119id_/https%3A//www.surveysavvy.com/ss/ss_index.php%3Faction%3Dprivacy?action=home) at any time to check on your personal information or to view your incentive credit balance -- but you will be required to enter your previously registered email address and password before accessing any individualized data. Any information you send to us -- corrections to your personal information, requests for payment, etc. -- will be encrypted by SSL. ****SurveySavvy.com**** has expended significant resources in acquiring server, database and firewall technology designed to maintain the security and confidentiality of your personal information. The security of our Web site also depends, in part, upon you. You will be responsible for maintaining the confidentiality of your password and are fully responsible for all activities that occur under your email address and password. You agree to immediately notify ****SurveySavvy.com**** of any unauthorized use of your email address and password.
 
 **Use of Cookies and Web Server Logs**
 
@@ -56,7 +56,7 @@ Like most Web sites, we collect standard Web server logs for analysis. The loggi
 
 **Unsubscribe**
 
-You don't have to participate in every survey; if you don't respond, we will contact you later about another survey. If at any time you decide that you don't want to participate in our surveys anymore, you can [unsubscribe](https://web.archive.org/web/20101228055559id_/https%3A//www.surveysavvy.com/ss/unsubscribe/u.php) and we will send you an email indicating that we have processed your request to unsubscribe. After we have received and processed your request to unsubscribe, you will no longer receive emails from **SurveySavvy.com** inviting you to participate in surveys.
+You don't have to participate in every survey; if you don't respond, we will contact you later about another survey. If at any time you decide that you don't want to participate in our surveys anymore, you can [unsubscribe](https://web.archive.org/web/20111007155119id_/https%3A//www.surveysavvy.com/ss/unsubscribe/u.php) and we will send you an email indicating that we have processed your request to unsubscribe. After we have received and processed your request to unsubscribe, you will no longer receive emails from **SurveySavvy.com** inviting you to participate in surveys.
 
 **Sweepstakes**
 
@@ -70,7 +70,7 @@ By providing an email address and password for the use of this Web site to any c
 
 **Unsolicited Emails**
 
-Luth Research, LLC and **SurveySavvy.com** never spam or send unsolicited commercial emails. Members who spam in order to generate referrals are ineligible for any compensation from **SurveySavvy.com** and will be permanently disqualified from participation in **SurveySavvy.com**. See our [Frequently Asked Questions](https://web.archive.org/web/20101228055559id_/https%3A//www.surveysavvy.com/support/index.php?p=21&l=1) page for a definition of spam.
+Luth Research, LLC and **SurveySavvy.com** never spam or send unsolicited commercial emails. Members who spam in order to generate referrals are ineligible for any compensation from **SurveySavvy.com** and will be permanently disqualified from participation in **SurveySavvy.com**. See our [Frequently Asked Questions](https://web.archive.org/web/20111007155119id_/https%3A//www.surveysavvy.com/support/index.php?p=21&l=1) page for a definition of spam.
 
 **General**
 
