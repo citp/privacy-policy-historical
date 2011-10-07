@@ -1,23 +1,20 @@
-> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706205957id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007072346id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Burnworld - Privacy Policy
-
-| **Privacy Statement for BurnWorld.COM**
 
   
 BurnWorld has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BurnWorld.com.
 
-**Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Click Here.](https://web.archive.org/web/20100706205957id_/http%3A//www.burnworld.com/register.htm)
+ **Choice/Opt-Out**  
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Click Here.](https://web.archive.org/web/20111007072346id_/http%3A//www.burnworld.com/register.htm)
 
-**Correct/Update**  
+ **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. Just Email [rob @burnworld.com](mailto:rob%20@burnworld.com)
 
-**Contacting Us**  
+ **Contacting Us**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [Rob](mailto:rob%20@burnworld.com)
 
-| This policy will let you know:  
----  
+This policy will let you know:  
    
   
   1. [What information is collected from you](http://www.burnworld.com/privacy.htm#what);
@@ -74,21 +71,4 @@ All our newsletters are double-optin. This means that you first requested to get
 
 In every scheduled email we send, there is an option to opt-out of our regular newsletter.
 
-Some emails are non-scheduled such as site/user news for registered users or direct communications. Registered users can opt-out of any further user communications by deactivating their account. To stop receiving personal/business related direct emails just reply to the sender.  
-  
-| 
-
-* * *
-
-  
-|   
-| 
-
-* * *
-
-* * *
-
-  
-[Privacy Policy](http://www.burnworld.com/privacy.htm)
-
-| 
+Some emails are non-scheduled such as site/user news for registered users or direct communications. Registered users can opt-out of any further user communications by deactivating their account. To stop receiving personal/business related direct emails just reply to the sender.
