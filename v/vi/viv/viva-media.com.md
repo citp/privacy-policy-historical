@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viva-media.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221101942id_/http%3A//viva-media.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viva-media.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007135119id_/http%3A//viva-media.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,8 +9,8 @@ BY SUBMITTING PERSONAL INFORMATION THROUGH THIS ONLINE STORE, YOU ARE CONSENTING
 
 This Privacy Policy is effective as of November 1, 2010.
 
-***Viva Media, LLC. ("VIVA") Operates This Web site  
-This Web site is hosted and operated by VIVA ("VIVA," "we," "us," and "our"), an e-commerce provider and distributor, and its affiliates, including but not limited to Viva Media, LLC, a software publisher. ****not sure if we need this as here they just define that navarre digital services operates the site and within that Encore, a software publisher is its affiliate. I guess we can list any affiliate subcompanies we have.
+Viva Media, LLC. ("VIVA") Operates This Web site  
+This Web site is hosted and operated by VIVA ("VIVA," "we," "us," and "our"), an e-commerce provider and distributor, and its affiliates, including but not limited to Viva Media, LLC, a software publisher.
 
 Scope of This Privacy Policy  
 This Privacy Policy (this "Privacy Policy") describes how VIVA protects your privacy when you use this Web site.  
