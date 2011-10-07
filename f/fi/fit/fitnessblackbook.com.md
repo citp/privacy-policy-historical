@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessblackbook.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122070833id_/http%3A//fitnessblackbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessblackbook.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007132900id_/http%3A//fitnessblackbook.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fitness Black Book
 
@@ -47,4 +47,6 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 FitnessBlackBook.com is controlled, operated and administered entirely within Washington. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-**Tags:** [Main](http://fitnessblackbook.com/category/main/ "Browse for Main")
+Get My Free Video Course for 2011!
+
+Enter your email to get immediate access to "Abs Blueprint 1.0"
