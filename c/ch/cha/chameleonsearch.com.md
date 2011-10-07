@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chameleonsearch.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606210827id_/http%3A//chameleonsearch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chameleonsearch.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007155354id_/http%3A//chameleonsearch.com/privacy.html) for the most accurate reproduction.*
 
-# ChameleonSearch.com
+# 
 
 ## CHAMELEONSEARCH.COM PRIVACY POLICY
 
-ChameleonSearch is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data to any machine owned by ChameleonSearch.
+ChameleonSearch.com is committed to maintaining the privacy of personal information that you provide to us when using any of our online services. This Privacy Policy describes how we treat the information we receive when you transmit data to any machine owned by ChameleonSearch.
 
 ### Web Form Information
 
@@ -45,3 +45,5 @@ We may change this Privacy Policy from time to time. We will post any changes he
 ### Comments and Questions
 
 If you have any questions, comments or concerns about our Privacy Policy, you may contact us through the contact page.
+
+.
