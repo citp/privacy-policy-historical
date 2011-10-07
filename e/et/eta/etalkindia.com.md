@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etalkindia.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308060530id_/http%3A//etalkindia.com/home/privacy-policy-125) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etalkindia.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007215402id_/http%3A//etalkindia.com/home/privacy-policy-125) for the most accurate reproduction.*
 
 # Privacy Policy - eTtalkindia.com - eTI
 
