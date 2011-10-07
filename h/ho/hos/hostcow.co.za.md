@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostcow.co.za privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516040300id_/http%3A//www.hostcow.co.za/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcow.co.za privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007023000id_/http%3A//www.hostcow.co.za/privacy-policy.php) for the most accurate reproduction.*
 
-# HostCow Web Hosting - Privacy Policy? South Africa
+# HostCow - Privacy Policy? South Africa
 
   | 
 
@@ -53,6 +53,6 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
 
 Revised: 
 
-February 2010 
+February 2011 
 
 | 
