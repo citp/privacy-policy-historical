@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextmagazine.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520040222id_/http%3A//nextmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextmagazine.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008014310id_/http%3A//www.nextmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Next Magazine
 
