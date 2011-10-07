@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haven.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417020519id_/http%3A//www.haven.com/support/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haven.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007211649id_/http%3A//www.haven.com/support/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Haven - Privacy Policy
 
@@ -28,7 +28,7 @@ Your phone number is requested and collected to enable us to contact you to answ
 
 Your email address may be used by Haven for marketing purposes if you have checked the box stating that you wish to receive news and information via email from Haven.
 
-You can unsubscribe from our email database by clicking on the remove link at the base of each email or by sending an email to [havendata.protection@haven.com](mailto:havendata.protection@haven.com).
+You can unsubscribe from our email database by clicking on the remove link at the base of each email or by sending an email to [data.protection@haven.com](mailto:data.protection@haven.com).
 
  **What if you think we have incorrect information or you would like a copy of the information we hold about you?**
 
@@ -41,7 +41,7 @@ Bourne Leisure Ltd
 Hemel Hempstead  
 Herts  
 HP2 4YL**  
-[havendata.protection@haven.com](mailto:havendata.protection@haven.com)
+[data.protection@haven.com](mailto:data.protection@haven.com)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write or email us as soon as possible to the above address. We will correct any information, which was found to be incorrect promptly.
 
