@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corinzander.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625045407id_/http%3A//corinzander.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corinzander.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007133422id_/http%3A//corinzander.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
