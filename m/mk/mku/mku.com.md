@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mku.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126182852id_/http%3A//mku.com/privacy-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mku.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007185759id_/http%3A//mku.com/privacy-security.asp) for the most accurate reproduction.*
 
 # MKU :: Manufacturers of Defence, Armed Forces and Paramilitary Solutions
 
@@ -81,10 +81,10 @@ If, however, we are going to use users' personally identifiable information in a
 **Contact Information**  
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
-**MKU**  
-103, Chandralok Complex  
-26/72-D, Birhana Road  
-Kanpur - 208 001, UP, INDIA  
-Tel: (+91-512) 2363491  
-Fax: (+91-512) 2354644  
-[protection@mku.com](mailto:protection@mku.com)
+**MKU Pvt. Ltd.**  
+13, Gandhi Gram,  
+G T Road, Kanpur-208 007  
+Uttar Pradesh  
+INDIA  
+Tel. : +91 512 3026700  
+email : [protection@mku.com](mailto:protection@mku.com)
