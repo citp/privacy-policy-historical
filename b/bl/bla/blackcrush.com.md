@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackcrush.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213072245id_/http%3A//blackcrush.com/%3Fpage%3Dpp%26wm_login%3D%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26ref_url%3Ddefault%26country%3DUnited%2BStates) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackcrush.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007144634id_/http%3A//blackcrush.com/%3Fpage%3Dpp%26wm_login%3D%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26ref_url%3Ddefault%26country%3DUnited%2BStates) for the most accurate reproduction.*
 
 # BlackCrush.Com - Over 7 Million Horny Singles
 
