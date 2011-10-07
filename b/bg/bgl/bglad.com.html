@@ -1,15 +1,7 @@
-<!--The following is the downloaded HTML source of the bglad.com privacy policy that was archived on 2011-01-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110107170836id_/http%3A//www.bglad.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bglad.com privacy policy that was archived on 2011-10-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111007055744id_/http%3A//www.bglad.com/page.php%3Fid%3Dprivacy) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head></head><body id="sp"><br>
-<b>Warning</b>:  strlen() expects parameter 1 to be string, array given in <b>/home/bglad/public_html/lib/misc.lib.php</b> on line <b>869</b><br>
-<br>
-<b>Warning</b>:  session_start() [<a href="function.session-start">function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/bglad/public_html/lib/misc.lib.php:869) in <b>/home/bglad/public_html/filters/filter.start_session.php</b> on line <b>15</b><br>
-<br>
-<b>Warning</b>:  session_start() [<a href="function.session-start">function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/bglad/public_html/lib/misc.lib.php:869) in <b>/home/bglad/public_html/filters/filter.start_session.php</b> on line <b>15</b><br>
-
-
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>BGLAD: Privacy</title>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="keywords" content="Your meta keywords">
@@ -84,9 +76,35 @@
 	
 	<script type="text/javascript" src="http://www.bglad.com/themes/lgbtq/js/custom.js"></script>
 	  
+<script type="text/javascript" src="http://www.bglad.com/themes/lgbtq/jquery.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+  var limit = 450;
+  $('textarea').each(function(intIndex) {
+    TextAreaCounter(intIndex,limit);
+  });
+});
+
+function TextAreaCounter(t_no,limit) {
   
+  var t_area = $('textarea')[t_no];
+  $('</span></div><div style=\'margin-top:0px;padding-top:0px;\'><label>&nbsp;</label><span><input type=\'text\' id=\'counter'+t_no+'\' value=\''+limit+' Left\' style=\'width:60px;\' readonly></span></div>').insertAfter(t_area);
 
+  $(t_area).bind('keyup',function () {
+    var count = $(t_area).val().length;
+    if(count >= limit)
+    {
+      $(t_area).val($(t_area).val().substr(0,limit));
+      count = limit;
+    }
+    $('input#counter'+t_no+'').val(limit-count+' Left');
+  });
+}
+</script>
 
+  
+</head>
+<body id="sp">
 <!-- Begin Container -->
 <div class="container">
 	<!-- Begin Header -->
@@ -116,8 +134,8 @@
 				<li><a href="http://www.bglad.com/page.php?id=news" title="News">News</a></li>
 				<li><a href="http://www.bglad.com/calendar/" title="Calendar">Calendar</a></li>
 				<li><a href="http://www.bglad.com/weather/" title="Weather">Weather</a></li>
-				<li><a href="http://www.bglad.com/new.php" title="Gallery">New Listings</a></li>
-				<li><a href="#" title="Gallery">Webmasters</a>
+				<li><a href="http://www.bglad.com/new.php" title="New Listings">New Listings</a></li>
+				<li><a href="http://www.bglad.com/cp/" title="Webmasters">Webmasters</a>
 	                                 <ul>
 						<li><a href="http://www.bglad.com/cp/" title="Login to account">Login to account</a></li>
 						<li><a href="http://www.bglad.com/register.php" title="Register new account">Register new account</a></li>
