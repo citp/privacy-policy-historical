@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419191522id_/http%3A//www.msfn.org/board/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26folder%3D%26id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msfn.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008012221id_/http%3A//www.msfn.org/board/index.php%3Fapp%3Dccs%26module%3Dpages%26section%3Dpages%26folder%3D%26id%3D6) for the most accurate reproduction.*
 
 # privacy policy for msfn.org
 
@@ -44,9 +44,4 @@ By using this site you agree that you undertake any guides, instructions, advice
 MSFN cannot be held liable for any damage to physical or intellectual property. MSFN is not responsible for posts, comments or views of our members. All posts and comments remain the copyright of the posters. MSFN reserves the right to edit, delete or move posts made on this site. MSFN reserves the right to keep members posts and not delete those from forums. A copy of Forum rules can be viewed [here](http://www.msfn.org/board/index.php?app=forums&module=extras&section=boardrules).
 
   
-
-
-All trademarks mentioned on this page are the property of their respective owners  
-Copyright © 2001 - 2011 msfn.org  
-[Privacy Policy](http://www.msfn.org/board/index.php?app=ccs&module=pages&section=pages&folder=&id=6)   
 
