@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425142805id_/http%3A//dealsea.com/exec/s/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsea.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007111006id_/http%3A//dealsea.com/site/privacy) for the most accurate reproduction.*
 
-# Dealsea.com: Coupon Codes | Deals
+# Privacy - dealsea.com
 
 ### Privacy Policy
 
