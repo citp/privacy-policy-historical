@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nntime.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626114612id_/http%3A//nntime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nntime.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007104632id_/http%3A//nntime.com/privacy) for the most accurate reproduction.*
 
 # NNTime - Privacy Policy
 
