@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the impnerd.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102053528id_/http%3A//impnerd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the impnerd.com privacy policy that was archived on 2011-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111007222143id_/http%3A//impnerd.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
