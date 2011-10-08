@@ -1,31 +1,38 @@
-> *The following text is extracted and transformed from the thepensionsregulator.gov.uk privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526112744id_/http%3A//www.thepensionsregulator.gov.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepensionsregulator.gov.uk privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008153634id_/http%3A//www.thepensionsregulator.gov.uk/privacy-and-cookie-policy.aspx) for the most accurate reproduction.*
 
-# Privacy policy | The Pensions Regulator
+# Privacy & cookie policy | The Pensions Regulator
 
-## Site usage information
+## What is a cookie?
 
-The Pensions Regulator uses a web analytics tool from Nedstat to measure and analyse information about the use of this website.
+Cookies are small pieces of information sent to your computer or other device when you visit a website. We use cookies to store information which we can access when you visit our site in future.
 
-The analytics tool uses cookies and page tagging code to provide statistical information about visits to pages, number of documents downloaded, the route that visitors navigate through the site and other information relating to usage of this website including the IP address of visitors and data about your browser type and computer. The information gathered does not contain any personal information about you.
+We do this to:
 
-This information is gathered on behalf of the regulator by Nedstat, an independent measurement and research company.
+  * improve your experience of some of our online services
+  * improve our understanding of how people use our website
+  * measure the effectiveness of online advertising.
 
-The regulator's web communications team uses the information provided by Nedstat to make informed decisions about future website developments.
 
-Further information about Nedstat, including Nedstat's privacy policy, is available at <http://www.nedstat.com/>
 
-Additionally, we are currently using Google analytics on selected pages of our website. Google's pivacy policy is available at [www.google.com/privacy.html](http://www.google.com/privacy.html)
+We will not use cookies to collect personal information about visitors to The Pensions Regulator website.
 
-## More about cookies
+If you delete cookies or you set your browser not to accept cookies, you will not be able to use some of our services.
 
-A cookie is a small file that contains a unique, anonymous number. It does not contain any personal information. A cookie is stored on your computer when you visit a website and is used to recognise any repeat visits that you make to that site. The cookie cannot be used to identify you on websites of third parties.
+## Why are cookies necessary?
 
-It is possible to configure your web browser to refuse cookies or to be informed if a cookie is set. Please refer to your web browser help files for instructions.
+When we provide services we want to make them easy, useful and reliable. Where services are delivered on the internet, this sometimes involves placing small amounts of information on your device, for example, your computer or mobile phone. These include small files known as cookies. They cannot be used to identify you personally.  
+These pieces of information are used to improve services for you through, for example:
 
-## Log files
+  * enabling a service to recognise your device so you don't have to give the same information several times during one task
+  * recognizing that you may already have given a username and password so you don't need to do it for every web page requested
+  * measuring how many people are using services, so they can be made easier to use and there's enough capacity to ensure they are fast.
 
-The regulator's web communications team periodically analyses the log files for this website. Log files contain data about visitor's use of this website, including IP addresses. Log files do not contain any personal information about you.
 
-### Email alerts
 
-If you subscribe to our news-by-email service your email address will be recorded and stored. We will treat this as proprietary and confidential. You can unsubscribe from this service at any time at which time your email address will be deleted from our news-by-email database.
+You can manage these small files yourself and learn more about them through  
+'[Internet browser cookies - what they are and how to manage them](http://www.direct.gov.uk/managingcookies "Internet browser cookies - what they are an how to manage them on the DirectGov website")‘
+
+More information about Digital Analytix, including their privacy policy,  
+is available at <http://www.nedstat.com/>
+
+Additionally, we are currently using Google analytics on selected pages of our website. Google's privacy policy is available at [www.google.com/privacy.html](http://www.google.com/privacy.html "Google website")
