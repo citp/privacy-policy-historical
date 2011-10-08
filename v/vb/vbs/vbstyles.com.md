@@ -1,25 +1,55 @@
-> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2007-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070520194112id_/http%3A//www.vbstyles.com/forum/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbstyles.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008135004id_/http%3A//www.vbstyles.com/privacy.html) for the most accurate reproduction.*
 
-# vBulletin Skins
+# Privacy Policy - VBStyles
 
-This page is designed to detail what information we collect from you, and how we handle that information.
+By using http://www.vbstyles.com/, you agree to the collection and use of your personal information as described in this policy. If we change our privacy policy, we will post those changes on our web site so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we are going to use users' information in a manner different from that stated at the time of collection we will notify users via email or by placing a prominent notice on our site. 
 
-The amount of information we collect depends on what you are doing. For those just browsing our website, our webserver automatically records the following information:  
-\- Browser and operating system  
-\- IP address  
-\- Screen resolution  
-\- Referrer  
-This information is used in aggregate to determine where users are coming to our site from, what country users are located in, and what type of browser and operating system they are using. (IP addresses are resolved to determine what country they are located in, and then discarded.) This information helps us improve the site for everyone.
+We care seriously about protecting your privacy. Please send us any questions and/or comments you may have.
 
-If you are a customer of vBStyles.com, the following information is collected:  
-\- Name and email address  
-\- Billing address  
-\- IP address (at the time of purchase, and at the time of each download of the software)  
-This information is held in the strictest confidence, and is only shared with the payment processor you select. (Currently the options are 2Checkout.com and PayPal.) The payment processor uses the information to process your payment. Your credit card number, expiration date, CCV2 number, and/or bank account details are collected by the payment processor and are _not_ shared with vBStyles.com.  
-This information is used for the purposes of processing and fulfilling your order; for tracking how many downloads a customer makes, and where he makes them from; and for sending you notices when new versions of the product are released and when your access to downloads is about to expire.
+**Summary**
 
-Cookies are largely misunderstood by the general internet browsing population, because of years of scaremongering by various companies more interested in selling their product than telling the truth. Cookies are small text files that sit on your computer with bits of information in them. They cannot provide any information to us that you do not provide knowingly, and they cannot read any files on your hard drive or other information. We use cookies for two purposes:  
-\- If you come from certain websites, we may set a referrer cookie. If you purchase vBStyles.com vBulletin Skin/s, this information is then stored to help us determine where sales are coming from, and to pay affiliate sellers.  
-\- If you use the forums, support system, bug tracker, and/or Members Area, several cookies will be set that keep you logged into these areas without having to retype your username and password to login to different areas. You can logout, and thereby have these cookies destroyed, by clicking the Member Logout button that appears in the header of every page after logging in.
+  * We will never spam you or give your personal information to anyone.
+  * You can always request to remove your information from our servers and databases.
 
-We take your privacy very seriously and do not share your information with anyone, except as described above. If you have any questions regarding this policy, please contact us at [info@vbstyles.com](mailto:info@vbstyles.com). 
+
+
+  
+**What information do we collect?**
+
+**Personal: Name, email addresses, phone number, and password**  
+All passwords are stored on our server in encrypted form - even we can not tell what they are! If you lose your password, you request us to send a secret URL to your email address, using which you can reset your password.
+
+**Usage: Number of logins, last login, activity and error logs**  
+This data helps us monitor VBStyles's health, interest and diagnose errors and slowness issues when they crop up. We use your phone number for payment verification only and no other purpose.
+
+  
+**How we treat your information?**
+
+**We will never spam you.**  
+**We will never disclose your personal information without your permission.**  
+We will never sell, rent or share your personal information with a 3rd party, especially your email addresses and phone numbers, without your express permission, unless required by law. Never ever! 
+
+**We will only access your personal information when:**
+
+  * You specifically request us to do so (e.g. you are having technical difficulties).
+  * It is required by law.
+  * It is necessary to maintain our system. 
+
+
+
+**Public Forums**  
+Please keep in mind that whenever you voluntarily disclose personal information online for example on forums, on profile, through e-mail, or in chat areas - that information can be collected and used by others. In short, by posting personal information online that is publicly accessible, you may receive unsolicited messages from other parties in return. 
+
+**Cookies and log files**
+
+A cookie is a piece of data stored on the user's computer tied to information about the user. Users must enable cookies to use our site. dealscorner.com sends a "cookie" to your computer that contains an identification number that is unique to you and the computer you are using. We use this cookie to provide you with a continuous experience, and for us to record how our service is being used. 
+
+As is done with most web sites, we log each visit to each web page. A log entry can contain information typically found in the "header" of your web browser's request such as the browser type you used, your Internet Protocol address, and the date and time of day. We may also log your cookie's identification number and the URL of the last site you visited. This log information is important for security, audit, quality improvement, as well as for monitoring the health of our service. 
+
+**Links**   
+From time to time this web site may contain links to other sites. Please be aware that we, VBStyles, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the terms of use and privacy statements of each and every web site they visit. This privacy statement applies solely to information collected by this Web site. 
+
+**Contacting the Web Site Admin**   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please use [contact us](http://www.vbstyles.com/contact) form to contact us.
+
+Last Updated on June 1, 2011.
