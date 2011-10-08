@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629055720id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bebo.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008055222id_/http%3A//www.bebo.com/Privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
