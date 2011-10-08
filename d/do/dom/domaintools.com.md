@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domaintools.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629145036id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domaintools.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008054234id_/http%3A//www.domaintools.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DomainTools, LLC
 
