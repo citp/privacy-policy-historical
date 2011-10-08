@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231141719id_/http%3A//www.mobileshop.com/customerservice/terms_view.php/12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileshop.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008230510id_/http%3A//www.mobileshop.com/customerservice/terms_view.php/12) for the most accurate reproduction.*
 
 # Mobile Phones - Buy 3, 3G, o2, Orange, Vodafone, Virgin and T-Mobile and Accessories. MobileShop Cheap mobile phones deals
 
-MobileShop.com is a Trading name of MoCom Group Limited.
+## MobileShop.com Privacy Policy
 
-The MoCom Group are committed in complying with the Data Protection Act 1998 so have published this Privacy Policy to help you understand what information we collect, how we use it and what your rights are.
+MobileShop.com is a Trading name of E Shop Midlands Ltd, part of the A1 Comms group of companies.
 
-We may pass information to associated companies within the MoCom Group. (A full list of the companies within the MoCom Group are available upon request) Please send your request to:
+The A1 Comms Group are committed in complying with the Data Protection Act 1998 so have published this Privacy Policy to help you understand what information we collect, how we use it and what your rights are.
+
+We may pass information to associated companies within the A1 Comms Group. (A full list of the companies within the A1 Comms Group are available upon request) Please send your request to:
 
 **Privacy & Data Controller**  
-MoCom Group Ltd  
-Millennium House  
-Foxcovert Lane  
-Misterton  
-Doncaster  
-South Yorkshire  
-DN10 4ER
+Mobileshop.com  
+Contract House  
+Turnpike Business Park  
+Alfreton  
+Derbyshire DE55 7AD
 
 **What information is collected, and where is it obtained?**
 
@@ -25,7 +25,7 @@ Such information requested at time of purchase, enquiries or entries into a priz
 
 We also automatically collect information via electronic means, such as via Cookies (see below). We also obtain the IP (Internet Provider) address of users placing orders via our website(s) for security and fraud prevention reasons.
 
-Any information collected within the MoCom Group is collected lawfully and in accordance with Data Protection Act 1998.
+Any information collected within the A1 Comms Group is collected lawfully and in accordance with Data Protection Act 1998.
 
 **What do we do with your information?**
 
@@ -43,9 +43,9 @@ Any information collected within the MoCom Group is collected lawfully and in ac
 
 \- Notify you about enhancements to our services such as; changes to the website(s), new services and special offers, or competitions we think may be of interest to you. 
 
-\- MoCom Group Ltd will use your information for their own marketing purposes and may also pass your personal information to other companies within the MoCom Group to use for their marketing. 
+\- A1 Comms Group Ltd will use your information for their own marketing purposes and may also pass your personal information to other companies within the A1 Comms Group to use for their marketing. 
 
-\- Members of the Mocom Group may contact you by mail, telephone, email, text message, or any other reasonable method.
+\- Members of the A1 Comms Group may contact you by mail, telephone, email, text message, or any other reasonable method.
 
 \- You may receive contact from carefully selected third party companies, if you have stated that you are happy to receive such contact. You can select to receive or not receive such contact from third party companies during the ordering processes.
 
@@ -59,33 +59,33 @@ Information which you provide will be used to search your record at the credit r
 
 Even if your application goes no further, the credit reference agencies and the *service providers will add details of this search and your application to your record.
 
-In assessing your credit record, we may also use any information which the MoCom Group already holds about you.
+In assessing your credit record, we may also use any information which the A1 Comms Group already holds about you.
 
 If your credit application is successful and we fulfil your order, you will be entered into a credit agreement with the Network Service Provider who will add details of your agreement as well as ongoing details of your account and how you manage it to credit reference agency records. 
 
-If you do not repay on time, the Network Service Provider will inform the credit reference agencies who will record details of the debt. MoCom Group will also be informed, who will at this point issue an invoice to you for the retail cost of the items purchased.
+If you do not repay on time, the Network Service Provider will inform the credit reference agencies who will record details of the debt. A1 Comms Group will also be informed, who will at this point issue an invoice to you for the retail cost of the items purchased.
 
 All this information will be seen by other organisations carrying out later checks. The information may be used to assess you for credit or to verify your identity. 
 
 For details of the Credit Reference Agencies that we receive information from and share information with; please write to our Data Controller (contact details above).
 
-*Service Provider is the Mobile Phone Network in which you attempt to enter an agreement with, such as Vodafone, T-Mobile, Orange, Hutchinson 3G, BT Mobile and O2.
+*Service Provider is the Mobile Phone Network in which you attempt to enter an agreement with, such as Vodafone, T-Mobile, Orange, Three and O2.
 
 **Fraud Prevention**
 
-In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, to other companies within the MoCom Group, and to other 3rd party organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way; where there is sufficient evidence to suggest that fraud is being perpetrated.
+In order to protect our customers and us from fraud and theft, we may pass on information that we obtain from making identity checks and other information in our customer records, to other companies within the A1 Comms Group, and to other 3rd party organisations (including law enforcement agencies) involved in fraud prevention and detection, to use in the same way; where there is sufficient evidence to suggest that fraud is being perpetrated.
 
 We may use automated decision making systems when assessing you for credit and for fraud prevention as well as reputable 3rd party sources and may at times request proof of address and or identity before an application can be passed through our Order Verification Department.
 
 **Consent**
 
-By using our website, placing an order, or entering into a prize draw, you are consenting to the collection, processing and use of this information by us and other companies within the MoCom Group.
+By using our website, placing an order, or entering into a prize draw, you are consenting to the collection, processing and use of this information by us and other companies within the A1 Comms Group.
 
 When you provide us with your information you will be given the opportunity to express your marketing preferences. 
 
 We will always give you the opportunity to say whether you want to receive marketing emails from us by providing you with an 'opt out' or 'unsubscribe' option in any electronic marketing correspondence to enable you to stop any further mailings if you so wish.
 
-We may also pass your information to other companies within the Mocom Group and to third parties for debtor tracing and debt recovery purposes. 
+We may also pass your information to other companies within the A1 Comms Group and to third parties for debtor tracing and debt recovery purposes. 
 
 **Protection of Information**
 
@@ -101,9 +101,9 @@ In some cases we may administer your account and provide other administrative fu
 
 **Accuracy of Information**
 
-With your assistance, we will try our utmost to keep any information held about you up to date and accurate. If any of the information that we hold about you changes, such as your home addresses, names and e-mail addresses, then please contact us either by e-mail [privacy@mocomgroup.com](mailto:privacy@mocomgroup.com), or write to us at the address above.
+With your assistance, we will try our utmost to keep any information held about you up to date and accurate. If any of the information that we hold about you changes, such as your home addresses, names and e-mail addresses, then please contact us either by e-mail [privacy@mobileshop.com](mailto:privacy@mobileshop.com), or write to us at the address above.
 
-You also have the right to request a copy of all the personal information we hold about you. To do this, write to our Data Controller (contact details above), enclosing a payment of £9.95 payable to MobileShop.com Ltd, to cover our administrative costs in dealing with your request. Include a valid proof of identity (e.g. copy of driving licence, passport etc) - contact us for a complete list. We need this proof to verify your identity before we can disclose any information to you.
+You also have the right to request a copy of all the personal information we hold about you. To do this, write to our Data Controller (contact details above), enclosing a payment of �9.95 payable to MobileShop.com Ltd, to cover our administrative costs in dealing with your request. Include a valid proof of identity (e.g. copy of driving licence, passport etc) - contact us for a complete list. We need this proof to verify your identity before we can disclose any information to you.
 
 We aim to respond to requests for information within 28 days or receiving the request, payment and suitable proof of identity. 
 
@@ -115,4 +115,4 @@ We also use Cookies to track and report the source of sales and user activity wi
 
 **Comments**
 
-If you have any comments or concern about privacy, please e-mail full details to [privacy@mocomgroup.com](mailto:privacy@mocomgroup.com) or write to the address above.
+If you have any comments or concern about privacy, please e-mail full details to [privacy@mobileshop.com](mailto:privacy@mobileshop.com) or write to the address above.
