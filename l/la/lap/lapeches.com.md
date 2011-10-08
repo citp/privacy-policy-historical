@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404013258id_/http%3A//www.lapeches.com/privacy.php%3FosCsid%3Dun6c50sltg8ov2cim0tjvnf4q1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lapeches.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008043214id_/http%3A//www.lapeches.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ lapeches.com
 
-|  |  | Privacy Policy |   
----|---  
-  
 The personal information we collect from you and about you is used to provide you with discount products. This information varies depending upon whether you are a client or a prospective client. Examples of personal information we may collect from you or about you include: your name, address, telephone number, and credit card information. | It is our top priority to protect your privacy. We do collect personal information about you in order to process your orders and we pledge to maintain the confidentiality of that information. We do not sell, rent or give away the information you have Entrusted us with. This notice describes our current privacy policy and practices.  
 ---  
 **Privacy And Security**  
