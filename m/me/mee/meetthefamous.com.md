@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetthefamous.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218030003id_/http%3A//meetthefamous.com/footer_links.php%3Fsub%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetthefamous.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008144115id_/http%3A//meetthefamous.com/footer_links.php%3Fsub%3Dprivacy) for the most accurate reproduction.*
 
 # MeetTheFamous.com - Where YOU Are the Paparazzi! Your official site for all things Celebrity
 
