@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215001936id_/https%3A//epoch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epoch.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009012211id_/https%3A//www.epoch.com/privacy.html) for the most accurate reproduction.*
 
 # Epoch - Credit Card Processing and Customer Billing Support - Privacy Policy
 
