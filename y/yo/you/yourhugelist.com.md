@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yourhugelist.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213000953id_/http%3A//yourhugelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourhugelist.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008105332id_/http%3A//yourhugelist.com/privacy.php) for the most accurate reproduction.*
 
-# YourHUGEList.com
+# YourHUGEList.com - Your Choice For HUGE Traffic!
 
-[](http://yourhugelist.com/bannerclick.php?id=784)  
+[](http://yourhugelist.com/bannerclick.php?id=852)  
 
 
 YourHugeList Privacy Policy
