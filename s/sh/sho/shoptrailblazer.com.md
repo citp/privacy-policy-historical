@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoptrailblazer.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107024858id_/http%3A//www.shoptrailblazer.com/private_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoptrailblazer.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008144153id_/http%3A//www.shoptrailblazer.com/private_policy.aspx) for the most accurate reproduction.*
 
 # private_policy
 
