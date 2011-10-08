@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the excelfunctions.net privacy policy that was archived on 2010-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100707220747id_/http%3A//www.excelfunctions.net/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excelfunctions.net privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008082600id_/http%3A//www.excelfunctions.net/Privacy-Policy.html) for the most accurate reproduction.*
 
 # ExcelFunctions.net Privacy Policy
 
-[Home](http://www.excelfunctions.net/) » [Privacy-Policy](http://www.excelfunctions.net/Privacy-Policy.html)
+[Home](http://www.excelfunctions.net/) » Privacy Policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use ExcelFunctions.net, as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us. 
 
@@ -51,3 +51,6 @@ ExcelFunctions.net reserves the right to make changes in this policy. If there i
 If you do not agree to ExcelFunctions.net's Privacy Policy as posted here on this website, please do not use this site or any services offered by this site. 
 
 Your use of this site indicates acceptance of this privacy policy. 
+
+  
+
