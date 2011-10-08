@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2008-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080803215847id_/http%3A//planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetpdf.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008091652id_/http%3A//www.planetpdf.com/planetpdf.asp%3FcontentID%3D6477) for the most accurate reproduction.*
 
 # Planet PDF - Privacy Policy - Planet PDF & PDF Store
 
-This policy covers the following two [Nitro PDF Software](http://www.nitropdf.com/) Web sites:
+This policy covers the following two [Debenu](http://www.debenu.com/) Web sites:
 
   * Planet PDF - [http://www.planetpdf.com](http://www.planetpdf.com/)
-  * PDF Store - [http://www.pdfstore.com](http://www.pdfstore.com/)
+  * Former site - PDF Store - [http://www.pdfstore.com](http://www.pdfstore.com/)
 
 
 
