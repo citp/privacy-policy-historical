@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615092634id_/http%3A//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibaba.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008022037id_/http%3A//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html) for the most accurate reproduction.*
 
-# Alibaba.com - Import Export Trade Leads
+# Safety & Security Center - Learn How to Enhance the Safety of Your Online Transactions
+
+## Privacy Policy
 
 **(Updated on  March 5, 2011)**
 
