@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letmeget.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206051905id_/http%3A//letmeget.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letmeget.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008043624id_/http%3A//letmeget.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | letmeget.com
 
@@ -18,7 +18,7 @@ It is widely used on internet and generally doesn't make any harm to user’s in
 **DoubleClick DART Cookie**   
 .:: Google, as a third party vendor, uses cookies to serve ads on this site.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to this site and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -[ http://www.google.com/privacy_ads.html ](http://www.google.com/privacy_ads.html)
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL -[ http://www.google.com/privacy/ads/ ](http://www.google.com/privacy/ads/)
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and Chitika.
 
