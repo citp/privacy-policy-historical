@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dancingastronaut.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429212414id_/https%3A//sites.google.com/a/mogmusicnetwork.com/www/mmn-publisher-private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dancingastronaut.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008031510id_/https%3A//sites.google.com/a/mogmusicnetwork.com/www/mmn-publisher-private-policy) for the most accurate reproduction.*
 
 # MMN Publisher Privacy Policy - MOG Music Network
 
