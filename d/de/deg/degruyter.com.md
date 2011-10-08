@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degruyter.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424230422id_/http%3A//www.degruyter.com/cont/serv/datenschutzEn.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degruyter.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008065718id_/http%3A//www.degruyter.com/cont/serv/datenschutzEn.cfm) for the most accurate reproduction.*
 
 # DE GRUYTER - Datenschutz
 
