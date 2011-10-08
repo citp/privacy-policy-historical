@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcferries.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509093743id_/http%3A//www.bcferries.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcferries.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008035037id_/http%3A//www.bcferries.com/about/privacy_statement.html) for the most accurate reproduction.*
 
-# BC Ferries: British Columbia Ferry Services Inc.
+# British Columbia Ferry Services Inc. | BC Ferries - British Columbia Ferry Services Inc.
 
 ## Customer Personal Information Protection Policy
 
@@ -44,14 +44,14 @@ Please contact us if you have questions about the personal information in our cu
 Privacy Compliance Coordinator  
 BC Ferries
 
-1112 Fort Street, Victoria, V8V 4V2   
+Suite 500, 1321 Blanshard Street, Victoria, V8W 0B7   
 (250) 978-1364
 
 [
 
 * * *
 
-](http://www.maestrocms.net/bcferries1/sm/name)
+](https://na3.marqui.com/bcferries1/sm/name)
 
 ## About Privacy on the Web
 
