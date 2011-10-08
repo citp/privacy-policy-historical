@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latinaabuse.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512201209id_/http%3A//support.adultdoorway.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinaabuse.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008085722id_/http%3A//support.adultdoorway.com/privacy.php) for the most accurate reproduction.*
 
 # Customer Support Center - Privacy Statement
 
@@ -30,6 +30,6 @@ D&E Media ltd. collects account registration information on its web site. This i
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-Have a question? [Contact Support](https://web.archive.org/web/20110512201209id_/http%3A//support.adultdoorway.com/contact-support.php?id=)!
+Have a question? [Contact Support](https://web.archive.org/web/20111008085722id_/http%3A//support.adultdoorway.com/contact-support.php?id=)!
 
-Have something to say? Then please leave some [feedback](https://web.archive.org/web/20110512201209id_/http%3A//support.adultdoorway.com/feedback.php?id=)!
+Have something to say? Then please leave some [feedback](https://web.archive.org/web/20111008085722id_/http%3A//support.adultdoorway.com/feedback.php?id=)!
