@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428223052id_/http%3A//www.up.com/uprr/aboutup/info/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the up.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008201455id_/http%3A//www.up.com/uprr/aboutup/info/privacy.shtml) for the most accurate reproduction.*
 
 # UP: Website Privacy Policy
 
@@ -18,19 +18,19 @@ We collect two types of information about visitors:
 
 In general, you can visit our website without telling us who you are, or revealing personal information about yourself. However, Customers can, if they choose, participate in additional secured applications. For access to these applications, you are required to complete a registration form. This form includes information such as name, address, phone number and e-mail address, as well as company related information. We use this information to enhance our services, to better meet the needs and preferences of our customers, and to enhance the security of the UP site. We may also from time to time, send information to registered Customers about system changes or new applications that we think may be of interest.
 
-Social Security Numbers and/or Credit Card Numbers submitted to us as part of an employment application or Photo Gallery Order are transmitted in an encrypted format. This information is not used outside of UP for any purpose other than that for which it was originally intended.
+Social Security Numbers submitted to us as part of an employment application  are transmitted in an encrypted format. This information is not used outside of UP for any purpose other than that for which it was originally intended.
 
 ^Top
 
 Registered User Access
 
-Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Website Security Policy](https://web.archive.org/web/20110427021953id_/http://www.uprr.com/aboutup/info/security.shtml).
+Customers who have registered to access secured information and applications agree to abide by the confidentiality guidelines and policies of UP's [Website Security Policy](https://web.archive.org/web/20111026065837id_/http://www.uprr.com/aboutup/info/security.shtml).
 
 ^Top
 
 Links to Other Sites
 
-UP provides links to its parent company, the Union Pacific Corporation, as well as its [subsidiaries](https://web.archive.org/web/20110427021953id_/http://www.uprr.com/aboutup/info/up-sites.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its website, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UP.com (the "refer address").
+UP provides links to its parent company, the Union Pacific Corporation, as well as its [subsidiaries](https://web.archive.org/web/20111026065837id_/http://www.uprr.com/aboutup/info/up-sites.shtml). We also link to a number of third-party external sites. The inclusion of any link does not imply UP endorsement of the external site company, its website, or the products and services it promotes or sells. When you leave the UP site to visit one of these linked sites, the only information transferred to the third party is the fact that you came from UP.com (the "refer address").
 
 UP is not responsible or liable for the independent privacy policies of these third party sites. You should consult the privacy policies at these sites to determine how your information may be used.
 
@@ -62,7 +62,7 @@ Applicants who wish to amend information submitted with a job application, or Su
 
 Children's Privacy 
 
-While we do not direct any of the information on our site specifically to children, we are very proud of our Facts, Figures and History pages and the information they provide for students and railfans alike. We believe that protecting the privacy of the very young is especially important, and for that reason it is our intention to never collect or maintain information from children on our website.
+While we do not direct any of the information on our site specifically to children, we are very proud of our History pages and the information they provide for students and railfans alike. We believe that protecting the privacy of the very young is especially important, and for that reason it is our intention to never collect or maintain information from children on our website.
 
 ^Top
 
