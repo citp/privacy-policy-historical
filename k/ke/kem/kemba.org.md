@@ -1,9 +1,17 @@
-> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611124037id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kemba.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008035443id_/http%3A//www.kemba.org/privacy-notice.htm) for the most accurate reproduction.*
 
 # KEMBA: Privacy Notice
 
-[ ](https://www.everythingcu.com/switchkit/index.cfm?OrgID=720)   
-[](https://cuonline.kemba.org/rates/Rates.html) [](https://web.archive.org/loanapp_start.html) [](https://kemba.mtgloanapp.com/) [](https://web.archive.org/become-a-member.htm) | 
+[](https://cuonline.kemba.org/rates/Rates.html) [](https://web.archive.org/loanapp_start.html) [](https://kemba.mtgloanapp.com/) [](https://web.archive.org/become-a-member.htm)
+
+[](https://web.archive.org/platinumrewards.htm)
+
+Quick Fact
+
+********Financial institutions have federal, state and local guidelines they must follow regarding the use of electronic funds transfers and are required to give you a copy of this information when an account is opened. Once they have complied, it then becomes _your responsibility_ to review and understand your rights and the privileges of carrying an ATM, DEBIT or CREDIT CARD.  
+********
+
+| 
 
 Our Privacy Notice is an important part of our commitment to provide you with the best financial and client service possible. We believe it is essential to clarify how KEMBA uses collected information, the benefits of such use and the way information is protected against unauthorized access and use. Your concern about the security of information relating to you and your accounts is understandable and we want to assure you that we are continuously taking steps to safeguard your personal information. It is also essential that you know that we do not sell customer lists or individual customer information to any third parties.
 
