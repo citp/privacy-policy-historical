@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foursquare.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625125711id_/http%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foursquare.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008220048id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.*
 
 # foursquare
 
@@ -27,9 +27,9 @@ This Privacy Policy covers foursquare's treatment of personally identifiable inf
 
 Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. foursquare may share your Personal Information only as described below. The default user settings for all data about you that is visible to others are available in our [Privacy Grid](https://web.archive.org/privacy/grid), together with information on how to change the default user settings, where applicable.
 
-  * **Friends:** Your "friends" can see the location and time of each of your check-ins, first name and last initial, email, phone number, photo, hometown, mayorships and badges, links to your Twitter and Facebook accounts (if you have connected those accounts to your foursquare account), a list of your friends, tips you write, and items on your To-Do list. See [Privacy Grid.](https://web.archive.org/privacy/grid) Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think carefully about including any specific information you may deem private in Shouts or To Dos or other content (location or otherwise) that you create in the Service.
+  * **Friends:** Your "friends" can see the location and time of each of your check-ins, first name and last initial, email, phone number, photo, hometown, mayorships and badges, links to your Twitter and Facebook accounts (if you have connected those accounts to your foursquare account), a list of your friends, Tips you write, and items on your To-Do list. See [Privacy Grid.](https://web.archive.org/privacy/grid) Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think carefully about including any specific information you may deem private in Shouts or To Dos or other content (location or otherwise) that you create in the Service.
   * **Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us, and they provide a comparable level of protection for your Personal Information.
-  * **Information Shared with Everyone:** One of the primary reasons people use foursquare is to share content with others. Information such as your name and photo, your hometown, your mayorships and badges, a list of your friends, and the tips you write is shared by default with the foursquare community. Information on how to change these default settings, if applicable, is available on the [Privacy Grid](https://web.archive.org/privacy/grid).
+  * **Information Shared with Everyone:** One of the primary reasons people use foursquare is to share content with others. Information such as your name and photo, your hometown, your mayorships and badges, a list of your friends, and the Tips you write is shared by default with the foursquare community. Information on how to change these default settings, if applicable, is available on the [Privacy Grid](https://web.archive.org/privacy/grid).
 
 
 
@@ -43,7 +43,7 @@ The foursquare service also has the following features that may allow you to sha
   * [Connecting to your Twitter or Facebook accounts](https://web.archive.org/privacy/grid#linkedaccounts)
   * [Searching for friends](https://web.archive.org/privacy/grid#contactinfo)
   * [Inviting others to join foursquare](https://web.archive.org/privacy/grid#contactinfo)
-  * [Writing tips](https://web.archive.org/privacy/grid#otherareas)
+  * [Writing Tips](https://web.archive.org/privacy/grid#otherareas)
   * [Writing shouts](https://web.archive.org/privacy/grid#otherareas)
   * [Posting Photos](https://web.archive.org/privacy/grid#photos)
   * [Posting Comments](https://web.archive.org/privacy/grid#otherareas)
