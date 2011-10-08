@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the italianfriendfinder.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607031935id_/http%3A//italianfriendfinder.com/go/page/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italianfriendfinder.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008052857id_/http%3A//italianfriendfinder.com/go/page/privacy.html%3Fwho%3Dr%2CYjiyFki4jT48HXMpnL_xWzTXLRy/azusPAD5qXiqc/tBjo9iTPyR4ujsyKLcO1PYRRCqKj/uaqhLrdMuLtOFy44AvsgOAm7AO6TssLd5gSm11AniXw68SLp6gUpJl09j) for the most accurate reproduction.*
 
 # Italian FriendFinder PRIVACY POLICY
 
@@ -90,7 +90,7 @@ You have the following choices to modify or delete your PII from our database:
 * Send an email to [privacy@ffn.com](mailto:privacy@ffn.com)  
 * Log in with your password and modify/delete your profile  
 * Send a snail mail to Friendfinder Networks Inc. at 220 Humboldt Ct, Sunnyvale, CA 94089, United States, Attn: Privacy  
-* Call us at (610) 757-1920
+* Call us at (408)702-1040
 * **13\. Revisions to this Privacy Policy**
 
 FFN reserves its right, in their sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner to the fullest extent permitted by law. Changes to this Policy will be effective by posting revisions on the FFN Websites.
