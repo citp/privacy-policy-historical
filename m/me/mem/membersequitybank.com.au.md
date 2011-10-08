@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404232656id_/http%3A//www.membersequitybank.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membersequitybank.com.au privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008032906id_/http%3A//www.membersequitybank.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ME Bank
 
