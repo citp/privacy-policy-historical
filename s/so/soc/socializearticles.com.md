@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socializearticles.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128045924id_/http%3A//socializearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socializearticles.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008021050id_/http%3A//socializearticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
