@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homepage.ph privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603202944id_/http%3A//homepage.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homepage.ph privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008120543id_/http%3A//homepage.ph/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Homepage.ph | Homepage.ph
 
