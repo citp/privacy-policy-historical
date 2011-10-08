@@ -1,22 +1,8 @@
-> *The following text is extracted and transformed from the diabetes-health.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121021436id_/http%3A//www.diabeteshealth.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetes-health.net privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009014441id_/http%3A//www.diabeteshealth.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Diabetes Health - Privacy Policy
 
-Each week the Diabetes Health E-Newsletter delivers links to the very latest in news, reviews, blogs and videos from Diabetes Health direct to your inbox. 
-
-[](https://web.archive.org/newsletter/SNews.html)
-
-As a subscriber you'll get access to the amazing Diabetes Health Digital Advantage™ so you can read the current issue of Diabetes Health magazine online wherever you are! 
-
-How To Change Your Newsletter Email…
-
-You can cancel your newsletter subscription at anytime by clicking "Unsubscribe" on the bottom of any newsletter you receive
-
-Then enter your new email address in the above form and click "Subscribe"
-
-ADVERTISEMENT
-
-Protecting your privacy is a top priority at Diabetes Health. We've taken precautions to secure your information and our physical premises. Questions regarding this statement should be directed to the [Webmaster](https://web.archive.org/company/contact-us.html?address=webmaster). 
+Protecting your privacy is a top priority at Diabetes Health. We've taken precautions to secure your information and our physical premises. Questions regarding this statement should be directed to the [Webmaster](mailto:webmaster@diabeteshealth.com). 
 
 Diabetes Health uses your IP address to help diagnose problems with our server and to administer our site. Your IP address may also be used to gather broad demographic information.
 
