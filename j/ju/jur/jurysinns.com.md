@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106030128id_/http%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008105926id_/http%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
@@ -29,7 +29,7 @@ We will take all reasonable care to keep the details of your order and credit ca
 
 ## Storing of personal data by the human resources department
 
-Please be aware that all personal data and CVs or resumés submitted via jurysinns.com are stored on a secure, dedicated server for a fixed period of six months only. After this, all data is deleted. This data will only be used for the purpose intended. Access to this data is strictly limited to authorised personnel from the Jurys Doyle human resources department.
+Please be aware that all personal data and CVs or resumés submitted via jurysinns.com are stored on a secure, dedicated server for a fixed period of six months only. After this, all data is deleted. This data will only be used for the purpose intended. Access to this data is strictly limited to authorised personnel from the Jurys Inn human resources department.
 
 ## Cookie usage and storage
 
