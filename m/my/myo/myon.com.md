@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508000135id_/http%3A//www.myon.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myon.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008163531id_/http%3A//www.myon.com/pages/privacy) for the most accurate reproduction.*
 
-# myOn™ v1.0
+# myOn™ v1.1
 
   1. ### NOTICE/AWARENESS
 
