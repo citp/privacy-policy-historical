@@ -1,14 +1,14 @@
-<!--The following is the downloaded HTML source of the aflac.com privacy policy that was archived on 2011-01-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110102092314id_/http%3A//www.aflac.com/aboutaflac/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aflac.com privacy policy that was archived on 2011-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008140206id_/http%3A//www.aflac.com/aboutaflac/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="js"><head><title>
 	Privacy Policy
 </title><meta http-equiv="X-UA-Compatible" content="IE=8"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="robots" content="NOODP">
     <script src="/handlers/ResourceLoader.aspx?key=javascript&amp;version=5" type="text/javascript"></script>
-    <link href="/handlers/ResourceLoader.aspx?key=css&amp;version=5" rel="stylesheet" type="text/css" media="screen"><link href="/css/Print.css" rel="stylesheet" type="text/css" media="print">
+    <link href="/handlers/ResourceLoader.aspx?key=css&amp;version=6" rel="stylesheet" type="text/css" media="screen"><link href="/css/Print.css" rel="stylesheet" type="text/css" media="print">
     <script src="/js/jquery/jquery.pngFix.js" type="text/javascript"></script>    
     <script src="/js/jquery/jquery.stylish-select.min.js" type="text/javascript"></script>
-    <script src="/js/wt_capi.js" type="text/javascript"></script>
+    <script src="/js/optimize/wt_capi.js" type="text/javascript"></script><script type="text/javascript" async="true" defer="true" src="https://web.archive.org/web/20121110031847/http://www.aflac.com/js/optimize/webtrendsoptimizeconfig.js"></script>
     <script src="/js/foresee/foresee-trigger.js" type="text/javascript"></script>
     <!--[if IE 6]>
     <link href="/handlers/ResourceLoader.aspx?key=ie6css" rel="stylesheet" type="text/css" />
@@ -38,24 +38,70 @@
 				theme: 'light_rounded', /* light_rounded / dark_rounded / light_square / dark_square */
 				callback: function(){}
 			});
-			$(document).pngFix(); 
-		});
+			$(document).pngFix();
+			if ($.cookie('WT_Campaign_ID') == null) {
+                var CampaignID = $.getQueryString({ ID: "WT.mc_id",  DefaultValue: "No Webtrends Campaign Id" });
+                WTOptimize.addEventHandler('render', onRender);
+                $.cookie('WT_Campaign_ID', CampaignID, {path: '/'});
+            }
+});
+
+var eventObj;
+var testAlias;
+var experimentId;
+
+function onRender(wtEvent) {
+    eventObj = wtEvent.target.getParams();
+    testAlias = eventObj.testAlias;
+    experimentId = eventObj.r_experimentID;
+}
+
+if ($.cookie('Test_ID') == null && experimentId != null) {
+    $.cookie('Test_ID', experimentId, { path: '/' });
+}
+else {
+    $.cookie('Test_ID', 'No Test Id', { path: '/' });
+}  
 	</script>
     
 <meta name="description" content="">
 <meta name="keywords" content="">
 
-<script type="text/javascript" src="https://ots.optimize.webtrends.com/ots/lib/3.1/wt_lib.js" defer="defer"></script><style type="text/css" media="screen">#myContent {visibility:hidden}#headerSwf {visibility:hidden}#headerSwf {outline:none}#headerSwf1153044980 {visibility:hidden}#headerSwf1153044980 {outline:none}#headerSwf2009107255 {visibility:hidden}#headerSwf2009107255 {outline:none}#headerSwf490765396 {visibility:hidden}#headerSwf490765396 {outline:none}#headerSwf2069259789 {visibility:hidden}#headerSwf2069259789 {outline:none}#headerSwf774038304 {visibility:hidden}#headerSwf774038304 {outline:none}#headerSwf1987993462 {visibility:hidden}#headerSwf1987993462 {outline:none}#headerSwf305750738 {visibility:hidden}#headerSwf305750738 {outline:none}#headerSwf304301405 {visibility:hidden}#headerSwf304301405 {outline:none}#headerSwf677997013 {visibility:hidden}#headerSwf677997013 {outline:none}#headerSwf797496030 {visibility:hidden}#headerSwf797496030 {outline:none}#headerSwf1034529850 {visibility:hidden}#headerSwf1034529850 {outline:none}#flashcontentB_click {visibility:hidden}#flashcontentB_click {outline:none}</style></head>
-<body style="visibility: hidden;">
+<style type="text/css" id="wt_overlayStyle">#wt_overlay{position:absolute;width:100%;height:100%;top:0px;right:0px;bottom:0px;left:0px;background-color:#ffffff;z-index:2147483646}</style><style type="text/css" media="screen">#myContent {visibility:hidden}#headerSwf {visibility:hidden}#headerSwf {outline:none}#headerSwf180464721 {visibility:hidden}#headerSwf180464721 {outline:none}#headerSwf2084183412 {visibility:hidden}#headerSwf2084183412 {outline:none}#headerSwf1010539409 {visibility:hidden}#headerSwf1010539409 {outline:none}#headerSwf650159350 {visibility:hidden}#headerSwf650159350 {outline:none}#headerSwf966352523 {visibility:hidden}#headerSwf966352523 {outline:none}#headerSwf1572605696 {visibility:hidden}#headerSwf1572605696 {outline:none}#headerSwf2130068211 {visibility:hidden}#headerSwf2130068211 {outline:none}#headerSwf1022140381 {visibility:hidden}#headerSwf1022140381 {outline:none}#headerSwf206510351 {visibility:hidden}#headerSwf206510351 {outline:none}#headerSwf658860447 {visibility:hidden}#headerSwf658860447 {outline:none}#headerSwf1751512305 {visibility:hidden}#headerSwf1751512305 {outline:none}#flashcontentB_click {visibility:hidden}#flashcontentB_click {outline:none}</style><script src="/js/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script><script src="/js/foresee/foresee-dhtml-popup.js" type="text/javascript" id="foresee-dhtml-popup"></script><link rel="stylesheet" media="screen" type="text/css" href="/css/foresee/foresee-dhtml.css"></head>
+<body style="visibility: visible;">
 <script type="text/javascript">
-    WTOptimize.setup();
+    WTOptimize.setup({ s_maxUrl: 1500 });
+</script><iframe frameborder="0" id="wt_overlay" style="display: none;"></iframe>
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDY5Nzk0MTAPZBYCZg9kFgICAw9kFgYCAw9kFgYCAQ9kFgJmDxYCHgRUZXh0BeccPGRpdiBjbGFzcz0iTmF2V3JhcHBlciI+PHVsIGlkPSJNYWluTmF2IiBjbGFzcz0iaG9yaXpvbnRhbCI+PGxpIGNsYXNzPSJvZmYgTWFpbk5hdkxpIiBpZD0iaW5kaXZpZHVhbHMiPjxhIGNsYXNzPSJNYWluTmF2QSIgaHJlZj0iL2luZGl2aWR1YWxzL2RlZmF1bHQuYXNweCI+SW5kaXZpZHVhbHM8L2E+PHVsIGNsYXNzPSJTZWNOYXYgaG9yaXpvbnRhbCI+PGxpIGNsYXNzPSJpbmRpdmlkdWFsc1doeUFmbGFjIj48YSBocmVmPSIvaW5kaXZpZHVhbHMvd2h5YWZsYWMuYXNweD9za2lwTGFuZGluZz10cnVlIj5XaHkgQWZsYWM8L2E+PC9saT48bGkgY2xhc3M9ImluZGl2aWR1YWxzUG9saWNpZXMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2luZGl2aWR1YWxzL3BvbGljaWVzLmFzcHgiPlBvbGljaWVzPC9hPjwvbGk+PGxpIGNsYXNzPSJJbmRpdmlkdWFsc0RlZmF1bHQiPjxhIGhyZWY9Ii9pbmRpdmlkdWFscy9yZWFsc3Rvcmllcy5hc3B4Ij5SZWFsIEFmbGFjIFN0b3JpZXM8L2E+PC9saT48bGkgY2xhc3M9ImluZGl2aWR1YWxzRmlsZWFDbGFpbSI+PGEgaHJlZj0iaHR0cHM6Ly9teS5hZmxhYy5jb20vcG9ydGFsL3NlcnZlci5wdD9vcGVuPTUxMiZhbXA7b2JqSUQ9NjM5JmFtcDttb2RlPTIiPkZpbGUgYSBDbGFpbTwvYT48L2xpPjxsaSBjbGFzcz0iSW5kaXZpZHVhbHNDVEEiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2FwcHMvSGF2ZUFmbGFjQ29udGFjdFlvdTIuYXNweD9pZnJhbWU9dHJ1ZSZhbXA7d2lkdGg9MTA4MXB4JmFtcDtoZWlnaHQ9NTY4cHgmYW1wO3NvdXJjZT1BZmxhYyI+R2V0IGEgUXVvdGU8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSJvZmYgTWFpbk5hdkxpIiBpZD0iYnVzaW5lc3MiPjxhIGNsYXNzPSJNYWluTmF2QSIgaHJlZj0iL2J1c2luZXNzL2RlZmF1bHQuYXNweCI+QnVzaW5lc3NlczwvYT48dWwgY2xhc3M9IlNlY05hdiBob3Jpem9udGFsIj48bGkgY2xhc3M9ImJ1c2luZXNzV2h5QWZsYWMiPjxhIGhyZWY9Ii9idXNpbmVzcy93aHlhZmxhYy5hc3B4P3NraXBMYW5kaW5nPXRydWUiPldoeSBBZmxhYzwvYT48L2xpPjxsaSBjbGFzcz0iYnVzaW5lc3NQb2xpY2llcyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYnVzaW5lc3MvcG9saWNpZXMuYXNweCI+UG9saWNpZXM8L2E+PC9saT48bGkgY2xhc3M9ImJ1c2luZXNzT3VyU2VydmljZXMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2J1c2luZXNzL3dpbmdzcGFuL2RlZmF1bHQuYXNweCI+T3VyIFNlcnZpY2VzPC9hPjwvbGk+PGxpIGNsYXNzPSJCdXNpbmVzc1doaXRlcGFwZXIiPjxhIGhyZWY9Ii9hZmxhY193b3JrZm9yY2VzX3JlcG9ydC9kZWZhdWx0LmFzcHgiPkluc2lnaHRzPC9hPjwvbGk+PGxpIGNsYXNzPSJCdXNpbmVzc1JlYWxTdG9yaWVzIj48YSBocmVmPSIvYnVzaW5lc3MvcmVhbHN0b3JpZXMuYXNweCI+QWZsYWMgUmVhbCBTdG9yaWVzPC9hPjwvbGk+PGxpIGNsYXNzPSJidXNpbmVzc01hbmFnZUFjY291bnQiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2J1c2luZXNzL21hbmFnZV9hY2NvdW50cy9kZWZhdWx0LmFzcHgiPk15IEFmbGFjIEFjY291bnQ8L2E+PC9saT48bGkgY2xhc3M9IkJ1c2luZXNzQ1RBIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9hcHBzL0hhdmVBZmxhY0NvbnRhY3RZb3UuYXNweD9pZnJhbWU9dHJ1ZSZhbXA7d2lkdGg9MzgwcHgmYW1wO2hlaWdodD00ODBweCZhbXA7c291cmNlPUFmbGFjIj5PZmZlciBBZmxhYzwvYT48L2xpPjwvdWw+PC9saT48bGkgY2xhc3M9Im9mZiBNYWluTmF2TGkiIGlkPSJicm9rZXJzIj48YSBjbGFzcz0iTWFpbk5hdkEiIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2Jyb2tlcnMvZGVmYXVsdC5hc3B4Ij5Ccm9rZXJzPC9hPjx1bCBjbGFzcz0iU2VjTmF2IGhvcml6b250YWwiPjxsaSBjbGFzcz0iYnJva2Vyc1doeUFmbGFjIj48YSBocmVmPSIvYnJva2Vycy93aHlhZmxhYy5hc3B4P3NraXBMYW5kaW5nPXRydWUiPldoeSBBZmxhYzwvYT48L2xpPjxsaSBjbGFzcz0iYnJva2Vyc091clBvbGljaWVzIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9icm9rZXJzL3BvbGljaWVzLmFzcHgiPk91ciBQcm9kdWN0czwvYT48L2xpPjxsaSBjbGFzcz0iQnJva2Vyc1doaXRlcGFwZXIiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2Jyb2tlcnMvaW5zaWdodHMvYWZsYWNfd29ya2ZvcmNlc19yZXBvcnQvZGVmYXVsdC5hc3B4Ij5JbnNpZ2h0czwvYT48L2xpPjxsaSBjbGFzcz0iYnJva2Vyc2VydmljZXMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2Jyb2tlcnMvYnJva2VyX3NlcnZpY2VzL2RlZmF1bHQuYXNweCI+QnJva2VyIFNlcnZpY2VzPC9hPjwvbGk+PGxpIGNsYXNzPSJicm9rZXJDbGllbnRTZXJ2aWNlcyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYnJva2Vycy93aW5nc3Bhbi9kZWZhdWx0LmFzcHgiPkNsaWVudCBTZXJ2aWNlczwvYT48L2xpPjxsaSBjbGFzcz0iQnJva2Vyc1dyaXRlVXMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2FwcHMvV3JpdGVVc0Zvcm0uYXNweD9pZnJhbWU9dHJ1ZSZhbXA7d2lkdGg9MzMwcHgmYW1wO2hlaWdodD00MDBweCZhbXA7c291cmNlPVdyaXRlJTIwVXMiPldyaXRlIFVzPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0ib2ZmIE1haW5OYXZMaSIgaWQ9ImFnZW50cyI+PGEgY2xhc3M9Ik1haW5OYXZBIiBocmVmPSIvYWdlbnRzL2RlZmF1bHQuYXNweCI+QmVjb21lIEFuIEFnZW50PC9hPjx1bCBjbGFzcz0iU2VjTmF2IGhvcml6b250YWwiPjxsaSBjbGFzcz0iYWdlbnRzV2h5QWZsYWMiPjxhIGhyZWY9Ii9hZ2VudHMvd2h5YWZsYWMuYXNweD9za2lwTGFuZGluZz10cnVlIj5XaHkgQWZsYWM8L2E+PC9saT48bGkgY2xhc3M9ImFnZW50c091clN0b3JpZXMiPjxhIGhyZWY9Ii9hZ2VudHMvYWdlbnRzdG9yaWVzLmFzcHgiPk91ciBTdG9yaWVzPC9hPjwvbGk+PGxpIGNsYXNzPSJhZ2VudHNGaW5hbmNpYWxTdHJlbmd0aCI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYWdlbnRzL2ZpbmFuY2lhbF9zdHJlbmd0aC9kZWZhdWx0LmFzcHgiPkZpbmFuY2lhbCBTdHJlbmd0aDwvYT48L2xpPjxsaSBjbGFzcz0iYWdlbnRzVHJhaW5pbmdhbmRUb29scyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYWdlbnRzL3RyYWluaW5nX2FuZF90b29scy9kZWZhdWx0LmFzcHgiPlRyYWluaW5nIGFuZCBUb29sczwvYT48L2xpPjxsaSBjbGFzcz0iYWdlbnRzVW5saW1pdGVkUG90ZW50aWFsIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9hZ2VudHMvdW5saW1pdGVkX3BvdGVudGlhbC9kZWZhdWx0LmFzcHgiPlVubGltaXRlZCBQb3RlbnRpYWw8L2E+PC9saT48bGkgY2xhc3M9ImFnZW50c0ZsZXhpYmlsaXR5Ij48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9hZ2VudHMvZmxleGliaWxpdHkvZGVmYXVsdC5hc3B4Ij5GbGV4aWJpbGl0eTwvYT48L2xpPjxsaSBjbGFzcz0iYWdlbnRzQ1RBIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9hcHBzL1NlbmRSZXN1bWUuYXNweD9pZnJhbWU9dHJ1ZSZhbXA7d2lkdGg9MzIwcHgmYW1wO2hlaWdodD01MTVweCZhbXA7c291cmNlPUFwcGx5JTIwZm9yJTIwYSUyMGNhcmVlciI+QXBwbHkgTm93PC9hPjwvbGk+PC91bD48L2xpPjwvdWw+PC9kaXY+ZAIDD2QWAmYPFgIfAAXOAjxsaSBjbGFzcz0idG9wTmF2U2VsZWN0YWJsZSIgaWQ9ImFib3V0YWZsYWMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2Fib3V0YWZsYWMvZGVmYXVsdC5hc3B4Ij5BYm91dCBBZmxhYzwvYT48L2xpPjxsaSBjbGFzcz0idG9wTmF2U2VsZWN0YWJsZSIgaWQ9ImludmVzdG9ycyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vaW52ZXN0b3JzL2RlZmF1bHQuYXNweCI+SW52ZXN0b3JzPC9hPjwvbGk+PGxpIGNsYXNzPSJ0b3BOYXZTZWxlY3RhYmxlIiBpZD0iZXNwYW5vbCI+PGEgaHJlZj0iaHR0cDovL2VzcGFub2wuYWZsYWMuY29tIj5FbiBFc3Bhw7FvbCA8L2E+PC9saT5kAgcPZBYEZg8PZBYCHgpvbktleVByZXNzBWJqYXZhc2NyaXB0OmlmIChldmVudC5rZXlDb2RlID09IDEzKSB7X19kb1Bvc3RCYWNrKCdjdGwwMCRHbG9iYWxOYXYxJFNlYXJjaEJhcjEnLCdTZWFyY2hEaXZDbGljaycpfWQCAQ8WAh4Hb25jbGljawU8X19kb1Bvc3RCYWNrKCdjdGwwMCRHbG9iYWxOYXYxJFNlYXJjaEJhcjEnLCdTZWFyY2hEaXZDbGljaycpZAIHD2QWAgIBD2QWAmYPFgIfAAUGPHVsIC8+ZAIPD2QWAgIBD2QWAmYPFgIfAAXQCDx1bCBjbGFzcz0iaG9yaXpvbnRhbCBmb290ZXJuYXYiPjxsaSBjbGFzcz0iZmluZEFnZW50Rm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSIvYXBwcy9hZ2VudF9sb2NhdG9yLmFzcHgiPkZpbmQgQW4gQWdlbnQ8L2E+PC9saT48bGkgY2xhc3M9ImNhcmVlcnNGb290ZXImI3hBOyAgICAgICAgICAiPjxhIGhyZWY9Ii9jYXJlZXJzL2RlZmF1bHQuYXNweCI+Q2FyZWVyczwvYT48L2xpPjxsaSBjbGFzcz0iaW52ZXN0b3JzRm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSIvaW52ZXN0b3JzL2RlZmF1bHQuYXNweCI+SW52ZXN0b3JzPC9hPjwvbGk+PGxpIGNsYXNzPSJwcm92aWRlcnNGb290ZXImI3hBOyAgICAgICAgICAiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2J1c2luZXNzL21hbmFnZV9hY2NvdW50cy9wcm92aWRlcnMuYXNweCI+UHJvdmlkZXJzPC9hPjwvbGk+PGxpIGNsYXNzPSJkdWNrc3RvcmVGb290ZXImI3hBOyAgICAgICAgICAiPjxhIGhyZWY9Imh0dHA6Ly93d3cuZHVja2dlYXIuY29tLyIgdGFyZ2V0PSJfYmxhbmsiPkR1Y2tzdG9yZTwvYT48L2xpPjxsaSBjbGFzcz0icHJpdmFjeV9ub3RpZmljYXRpb25Gb290ZXImI3hBOyAgICAgICAgICAiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL3ByaXZhY3lfbm90aWZpY2F0aW9ucy9kZWZhdWx0LmFzcHgiPlByaXZhY3kgTm90aWZpY2F0aW9uczwvYT48L2xpPjxsaSBjbGFzcz0iY29udGFjdEZvb3RlciYjeEE7ICAgICAgICAgICI+PGEgaHJlZj0iL2FwcHMvY29udGFjdF91cy5hc3B4Ij5Db250YWN0IFVzPC9hPjwvbGk+PGxpIGNsYXNzPSJzaXRlbWFwRm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSIvYXBwcy9zaXRlbWFwLmFzcHgiPlNpdGUgTWFwPC9hPjwvbGk+PGxpIGNsYXNzPSJwcml2YWN5Rm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSIvYWJvdXRhZmxhYy9wcml2YWN5cG9saWN5LmFzcHgiPlByaXZhY3k8L2E+PC9saT48bGkgY2xhc3M9InRlcm1zRm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSIvYWJvdXRhZmxhYy90ZXJtc2NvbmRpdGlvbnMuYXNweCI+VGVybXMgYW5kIENvbmRpdGlvbnM8L2E+PC9saT48L3VsPmRkRIPsMzyI+0JVX76QcUZ+RU6GNJ0=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
 </script>
-    <form name="aspnetForm" method="post" action="/aboutaflac/privacypolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE2NDY5Nzk0MTAPZBYCZg9kFgICAw9kFgYCAw9kFgYCAQ9kFgJmDxYCHgRUZXh0BagbPGRpdiBjbGFzcz0iTmF2V3JhcHBlciI+PHVsIGlkPSJNYWluTmF2IiBjbGFzcz0iaG9yaXpvbnRhbCI+PGxpIGNsYXNzPSJvZmYgTWFpbk5hdkxpIiBpZD0iaW5kaXZpZHVhbHMiPjxhIGNsYXNzPSJNYWluTmF2QSIgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vaW5kaXZpZHVhbHMvZGVmYXVsdC5hc3B4Ij5JbmRpdmlkdWFsczwvYT48dWwgY2xhc3M9IlNlY05hdiBob3Jpem9udGFsIj48bGkgY2xhc3M9ImluZGl2aWR1YWxzV2h5QWZsYWMiPjxhIGhyZWY9Ii9pbmRpdmlkdWFscy93aHlhZmxhYy5hc3B4P3NraXBMYW5kaW5nPXRydWUiPldoeSBBZmxhYzwvYT48L2xpPjxsaSBjbGFzcz0iaW5kaXZpZHVhbHNQb2xpY2llcyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vaW5kaXZpZHVhbHMvcG9saWNpZXMuYXNweCI+UG9saWNpZXM8L2E+PC9saT48bGkgY2xhc3M9IkluZGl2aWR1YWxzRGVmYXVsdCI+PGEgaHJlZj0iL2luZGl2aWR1YWxzL3JlYWxzdG9yaWVzLmFzcHgiPlJlYWwgQWZsYWMgU3RvcmllczwvYT48L2xpPjxsaSBjbGFzcz0iaW5kaXZpZHVhbHNGaWxlYUNsYWltIj48YSBocmVmPSJodHRwczovL215LmFmbGFjLmNvbS9wb3J0YWwvc2VydmVyLnB0P29wZW49NTEyJmFtcDtvYmpJRD02MzkmYW1wO21vZGU9MiI+RmlsZSBhIENsYWltPC9hPjwvbGk+PGxpIGNsYXNzPSJJbmRpdmlkdWFsc0NUQSI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYXBwcy9IYXZlQWZsYWNDb250YWN0WW91LmFzcHg/aWZyYW1lPXRydWUmYW1wO3dpZHRoPTM4MHB4JmFtcDtoZWlnaHQ9NDgwcHgmYW1wO3NvdXJjZT1BZmxhYyI+R2V0IGEgUXVvdGU8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSJvZmYgTWFpbk5hdkxpIiBpZD0iYnVzaW5lc3MiPjxhIGNsYXNzPSJNYWluTmF2QSIgaHJlZj0iL2J1c2luZXNzL2RlZmF1bHQuYXNweCI+QnVzaW5lc3NlczwvYT48dWwgY2xhc3M9IlNlY05hdiBob3Jpem9udGFsIj48bGkgY2xhc3M9ImJ1c2luZXNzV2h5QWZsYWMiPjxhIGhyZWY9Ii9idXNpbmVzcy93aHlhZmxhYy5hc3B4P3NraXBMYW5kaW5nPXRydWUiPldoeSBBZmxhYzwvYT48L2xpPjxsaSBjbGFzcz0iYnVzaW5lc3NQb2xpY2llcyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYnVzaW5lc3MvcG9saWNpZXMuYXNweCI+UG9saWNpZXM8L2E+PC9saT48bGkgY2xhc3M9IkJ1c2luZXNzUmVhbFN0b3JpZXMiPjxhIGhyZWY9Ii9idXNpbmVzcy9yZWFsc3Rvcmllcy5hc3B4Ij5BZmxhYyBSZWFsIFN0b3JpZXM8L2E+PC9saT48bGkgY2xhc3M9ImJ1c2luZXNzT3VyU2VydmljZXMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2J1c2luZXNzL3dpbmdzcGFuL2RlZmF1bHQuYXNweCI+T3VyIFNlcnZpY2VzPC9hPjwvbGk+PGxpIGNsYXNzPSJidXNpbmVzc01hbmFnZUFjY291bnQiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2J1c2luZXNzL21hbmFnZV9hY2NvdW50cy9kZWZhdWx0LmFzcHgiPk1hbmFnZSBBY2NvdW50czwvYT48L2xpPjxsaSBjbGFzcz0iQnVzaW5lc3NDVEEiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2FwcHMvSGF2ZUFmbGFjQ29udGFjdFlvdS5hc3B4P2lmcmFtZT10cnVlJmFtcDt3aWR0aD0zODBweCZhbXA7aGVpZ2h0PTQ4MHB4JmFtcDtzb3VyY2U9QWZsYWMiPk9mZmVyIEFmbGFjPC9hPjwvbGk+PC91bD48L2xpPjxsaSBjbGFzcz0ib2ZmIE1haW5OYXZMaSIgaWQ9ImJyb2tlcnMiPjxhIGNsYXNzPSJNYWluTmF2QSIgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYnJva2Vycy9kZWZhdWx0LmFzcHgiPkJyb2tlcnM8L2E+PHVsIGNsYXNzPSJTZWNOYXYgaG9yaXpvbnRhbCI+PGxpIGNsYXNzPSJicm9rZXJzV2h5QWZsYWMiPjxhIGhyZWY9Ii9icm9rZXJzL3doeWFmbGFjLmFzcHg/c2tpcExhbmRpbmc9dHJ1ZSI+V2h5IEFmbGFjPC9hPjwvbGk+PGxpIGNsYXNzPSJicm9rZXJzT3VyUG9saWNpZXMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2Jyb2tlcnMvcG9saWNpZXMuYXNweCI+T3VyIFByb2R1Y3RzPC9hPjwvbGk+PGxpIGNsYXNzPSJicm9rZXJzZXJ2aWNlcyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYnJva2Vycy9icm9rZXJfc2VydmljZXMvZGVmYXVsdC5hc3B4Ij5Ccm9rZXIgU2VydmljZXM8L2E+PC9saT48bGkgY2xhc3M9ImJyb2tlckNsaWVudFNlcnZpY2VzIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9icm9rZXJzL3dpbmdzcGFuL2RlZmF1bHQuYXNweCI+Q2xpZW50IFNlcnZpY2VzPC9hPjwvbGk+PGxpIGNsYXNzPSJCcm9rZXJzV3JpdGVVcyI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYXBwcy9Xcml0ZVVzRm9ybS5hc3B4P2lmcmFtZT10cnVlJmFtcDt3aWR0aD0zMzBweCZhbXA7aGVpZ2h0PTQwMHB4JmFtcDtzb3VyY2U9V3JpdGUlMjBVcyI+V3JpdGUgVXM8L2E+PC9saT48L3VsPjwvbGk+PGxpIGNsYXNzPSJvZmYgTWFpbk5hdkxpIiBpZD0iYWdlbnRzIj48YSBjbGFzcz0iTWFpbk5hdkEiIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2FnZW50cy9kZWZhdWx0LmFzcHgiPkJlY29tZSBBbiBBZ2VudDwvYT48dWwgY2xhc3M9IlNlY05hdiBob3Jpem9udGFsIj48bGkgY2xhc3M9ImFnZW50c1doeUFmbGFjIj48YSBocmVmPSIvYWdlbnRzL3doeWFmbGFjLmFzcHg/c2tpcExhbmRpbmc9dHJ1ZSI+V2h5IEFmbGFjPC9hPjwvbGk+PGxpIGNsYXNzPSJhZ2VudHNPdXJTdG9yaWVzIj48YSBocmVmPSIvYWdlbnRzL2FnZW50c3Rvcmllcy5hc3B4Ij5PdXIgU3RvcmllczwvYT48L2xpPjxsaSBjbGFzcz0iYWdlbnRzRmluYW5jaWFsU3RyZW5ndGgiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2FnZW50cy9maW5hbmNpYWxfc3RyZW5ndGgvZGVmYXVsdC5hc3B4Ij5GaW5hbmNpYWwgU3RyZW5ndGg8L2E+PC9saT48bGkgY2xhc3M9ImFnZW50c1RyYWluaW5nYW5kVG9vbHMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2FnZW50cy90cmFpbmluZ19hbmRfdG9vbHMvZGVmYXVsdC5hc3B4Ij5UcmFpbmluZyBhbmQgVG9vbHM8L2E+PC9saT48bGkgY2xhc3M9ImFnZW50c1VubGltaXRlZFBvdGVudGlhbCI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYWdlbnRzL3VubGltaXRlZF9wb3RlbnRpYWwvZGVmYXVsdC5hc3B4Ij5VbmxpbWl0ZWQgUG90ZW50aWFsPC9hPjwvbGk+PGxpIGNsYXNzPSJhZ2VudHNGbGV4aWJpbGl0eSI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYWdlbnRzL2ZsZXhpYmlsaXR5L2RlZmF1bHQuYXNweCI+RmxleGliaWxpdHk8L2E+PC9saT48bGkgY2xhc3M9ImFnZW50c0NUQSI+PGEgaHJlZj0iaHR0cDovL3d3dy5hZmxhYy5jb20vYXBwcy9TZW5kUmVzdW1lLmFzcHg/aWZyYW1lPXRydWUmYW1wO3dpZHRoPTMyMHB4JmFtcDtoZWlnaHQ9NTE1cHgmYW1wO3NvdXJjZT1BcHBseSUyMGZvciUyMGElMjBjYXJlZXIiPkFwcGx5IE5vdzwvYT48L2xpPjwvdWw+PC9saT48L3VsPjwvZGl2PmQCAw9kFgJmDxYCHwAFzgI8bGkgY2xhc3M9InRvcE5hdlNlbGVjdGFibGUiIGlkPSJhYm91dGFmbGFjIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9hYm91dGFmbGFjL2RlZmF1bHQuYXNweCI+QWJvdXQgQWZsYWM8L2E+PC9saT48bGkgY2xhc3M9InRvcE5hdlNlbGVjdGFibGUiIGlkPSJpbnZlc3RvcnMiPjxhIGhyZWY9Imh0dHA6Ly93d3cuYWZsYWMuY29tL2ludmVzdG9ycy9kZWZhdWx0LmFzcHgiPkludmVzdG9yczwvYT48L2xpPjxsaSBjbGFzcz0idG9wTmF2U2VsZWN0YWJsZSIgaWQ9ImVzcGFub2wiPjxhIGhyZWY9Imh0dHA6Ly9lc3Bhbm9sLmFmbGFjLmNvbSI+RW4gRXNwYcOxb2wgPC9hPjwvbGk+ZAIHD2QWBGYPD2QWAh4Kb25LZXlQcmVzcwViamF2YXNjcmlwdDppZiAoZXZlbnQua2V5Q29kZSA9PSAxMykge19fZG9Qb3N0QmFjaygnY3RsMDAkR2xvYmFsTmF2MSRTZWFyY2hCYXIxJywnU2VhcmNoRGl2Q2xpY2snKX1kAgEPFgIeB29uY2xpY2sFPF9fZG9Qb3N0QmFjaygnY3RsMDAkR2xvYmFsTmF2MSRTZWFyY2hCYXIxJywnU2VhcmNoRGl2Q2xpY2snKWQCBw9kFgICAQ9kFgJmDxYCHwAFBjx1bCAvPmQCDw9kFgICAQ9kFgJmDxYCHwAF0Ag8dWwgY2xhc3M9Imhvcml6b250YWwgZm9vdGVybmF2Ij48bGkgY2xhc3M9ImZpbmRBZ2VudEZvb3RlciYjeEE7ICAgICAgICAgICI+PGEgaHJlZj0iL2FwcHMvYWdlbnRfbG9jYXRvci5hc3B4Ij5GaW5kIEFuIEFnZW50PC9hPjwvbGk+PGxpIGNsYXNzPSJjYXJlZXJzRm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSIvY2FyZWVycy9kZWZhdWx0LmFzcHgiPkNhcmVlcnM8L2E+PC9saT48bGkgY2xhc3M9ImludmVzdG9yc0Zvb3RlciYjeEE7ICAgICAgICAgICI+PGEgaHJlZj0iL2ludmVzdG9ycy9kZWZhdWx0LmFzcHgiPkludmVzdG9yczwvYT48L2xpPjxsaSBjbGFzcz0icHJvdmlkZXJzRm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9idXNpbmVzcy9tYW5hZ2VfYWNjb3VudHMvcHJvdmlkZXJzLmFzcHgiPlByb3ZpZGVyczwvYT48L2xpPjxsaSBjbGFzcz0iZHVja3N0b3JlRm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSJodHRwOi8vd3d3LmR1Y2tnZWFyLmNvbS8iIHRhcmdldD0iX2JsYW5rIj5EdWNrc3RvcmU8L2E+PC9saT48bGkgY2xhc3M9InByaXZhY3lfbm90aWZpY2F0aW9uRm9vdGVyJiN4QTsgICAgICAgICAgIj48YSBocmVmPSJodHRwOi8vd3d3LmFmbGFjLmNvbS9wcml2YWN5X25vdGlmaWNhdGlvbnMvZGVmYXVsdC5hc3B4Ij5Qcml2YWN5IE5vdGlmaWNhdGlvbnM8L2E+PC9saT48bGkgY2xhc3M9ImNvbnRhY3RGb290ZXImI3hBOyAgICAgICAgICAiPjxhIGhyZWY9Ii9hcHBzL2NvbnRhY3RfdXMuYXNweCI+Q29udGFjdCBVczwvYT48L2xpPjxsaSBjbGFzcz0ic2l0ZW1hcEZvb3RlciYjeEE7ICAgICAgICAgICI+PGEgaHJlZj0iL2FwcHMvc2l0ZW1hcC5hc3B4Ij5TaXRlIE1hcDwvYT48L2xpPjxsaSBjbGFzcz0icHJpdmFjeUZvb3RlciYjeEE7ICAgICAgICAgICI+PGEgaHJlZj0iL2Fib3V0YWZsYWMvcHJpdmFjeXBvbGljeS5hc3B4Ij5Qcml2YWN5PC9hPjwvbGk+PGxpIGNsYXNzPSJ0ZXJtc0Zvb3RlciYjeEE7ICAgICAgICAgICI+PGEgaHJlZj0iL2Fib3V0YWZsYWMvdGVybXNjb25kaXRpb25zLmFzcHgiPlRlcm1zIGFuZCBDb25kaXRpb25zPC9hPjwvbGk+PC91bD5kZOsNTrGY1RTBdUKtX8A2OSD9FD/c">
 
 
-<script src="/ScriptResource.axd?d=q3zR_k4xXkWSXOYwwPfkSWKaZmIkYyuRhxKDuuyJpYB7mSkKa69WYDQd2BswGe5hZK6Aht53bxCWMtOazPL2WBJHSGXoi8CR28QDyjDLxNKgMPJe1tyWJgqcxPyHgN1SvhaYD9tELAJnbkvSIcTEYma5umk1&amp;t=30e152d1" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLa8eHoCgLx2vFuslwhuS3f/j7RigmCm1zU8viq0WE=">
+
+<script src="/ScriptResource.axd?d=q3zR_k4xXkWSXOYwwPfkSWKaZmIkYyuRhxKDuuyJpYB7mSkKa69WYDQd2BswGe5hZK6Aht53bxCWMtOazPL2WBJHSGXoi8CR28QDyjDLxNKgMPJe1tyWJgqcxPyHgN1SvhaYD9tELAJnbkvSIcTEYma5umk1&amp;t=ffffffffc86aeb30" type="text/javascript"></script>
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKHjpXQDQLx2vFuWVTlcrpeA2d15igsf2qM0/mdC/k=">
+</div>
     
     
 
@@ -74,7 +120,7 @@
  	<![endif]-->
 	
 	    
-	<div class="NavWrapper"><ul id="MainNav" class="horizontal"><li class="off MainNavLi" id="individuals"><a class="MainNavA" href="http://www.aflac.com/individuals/default.aspx">Individuals</a><ul class="SecNav horizontal" style="display: none;"><li class="individualsWhyAflac"><a href="/individuals/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="individualsPolicies"><a href="http://www.aflac.com/individuals/policies.aspx">Policies</a></li><li class="IndividualsDefault"><a href="/individuals/realstories.aspx">Real Aflac Stories</a></li><li class="individualsFileaClaim"><a href="https://my.aflac.com/portal/server.pt?open=512&amp;objID=639&amp;mode=2">File a Claim</a></li><li class="IndividualsCTA cta"><a href="http://www.aflac.com/apps/HaveAflacContactYou.aspx?iframe=true&amp;width=380px&amp;height=480px&amp;source=Aflac">Get a Quote</a></li></ul></li><li class="off MainNavLi" id="business"><a class="MainNavA" href="/business/default.aspx">Businesses</a><ul class="SecNav horizontal" style="display: none;"><li class="businessWhyAflac"><a href="/business/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="businessPolicies"><a href="http://www.aflac.com/business/policies.aspx">Policies</a></li><li class="BusinessRealStories"><a href="/business/realstories.aspx">Aflac Real Stories</a></li><li class="businessOurServices"><a href="http://www.aflac.com/business/wingspan/default.aspx">Our Services</a></li><li class="businessManageAccount"><a href="http://www.aflac.com/business/manage_accounts/default.aspx">Manage Accounts</a></li><li class="BusinessCTA cta"><a href="http://www.aflac.com/apps/HaveAflacContactYou.aspx?iframe=true&amp;width=380px&amp;height=480px&amp;source=Aflac">Offer Aflac</a></li></ul></li><li class="off MainNavLi" id="brokers"><a class="MainNavA" href="http://www.aflac.com/brokers/default.aspx">Brokers</a><ul class="SecNav horizontal" style="display: none;"><li class="brokersWhyAflac"><a href="/brokers/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="brokersOurPolicies"><a href="http://www.aflac.com/brokers/policies.aspx">Our Products</a></li><li class="brokerservices"><a href="http://www.aflac.com/brokers/broker_services/default.aspx">Broker Services</a></li><li class="brokerClientServices"><a href="http://www.aflac.com/brokers/wingspan/default.aspx">Client Services</a></li><li class="BrokersWriteUs cta"><a href="http://www.aflac.com/apps/WriteUsForm.aspx?iframe=true&amp;width=330px&amp;height=400px&amp;source=Write%20Us">Write Us</a></li></ul></li><li class="off MainNavLi" id="agents"><a class="MainNavA" href="http://www.aflac.com/agents/default.aspx">Become An Agent</a><ul class="SecNav horizontal" style="display: none;"><li class="agentsWhyAflac"><a href="/agents/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="agentsOurStories"><a href="/agents/agentstories.aspx">Our Stories</a></li><li class="agentsFinancialStrength"><a href="http://www.aflac.com/agents/financial_strength/default.aspx">Financial Strength</a></li><li class="agentsTrainingandTools"><a href="http://www.aflac.com/agents/training_and_tools/default.aspx">Training and Tools</a></li><li class="agentsUnlimitedPotential"><a href="http://www.aflac.com/agents/unlimited_potential/default.aspx">Unlimited Potential</a></li><li class="agentsFlexibility"><a href="http://www.aflac.com/agents/flexibility/default.aspx">Flexibility</a></li><li class="agentsCTA cta"><a href="http://www.aflac.com/apps/SendResume.aspx?iframe=true&amp;width=320px&amp;height=515px&amp;source=Apply%20for%20a%20career">Apply Now</a></li></ul></li></ul></div>
+	<div class="NavWrapper"><ul id="MainNav" class="horizontal"><li class="off MainNavLi" id="individuals"><a class="MainNavA" href="/individuals/default.aspx">Individuals</a><ul class="SecNav horizontal" style="display: none;"><li class="individualsWhyAflac"><a href="/individuals/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="individualsPolicies"><a href="http://www.aflac.com/individuals/policies.aspx">Policies</a></li><li class="IndividualsDefault"><a href="/individuals/realstories.aspx">Real Aflac Stories</a></li><li class="individualsFileaClaim"><a href="https://my.aflac.com/portal/server.pt?open=512&amp;objID=639&amp;mode=2">File a Claim</a></li><li class="IndividualsCTA cta"><a href="http://www.aflac.com/apps/HaveAflacContactYou2.aspx?iframe=true&amp;width=1081px&amp;height=568px&amp;source=Aflac">Get a Quote</a></li></ul></li><li class="off MainNavLi" id="business"><a class="MainNavA" href="/business/default.aspx">Businesses</a><ul class="SecNav horizontal" style="display: none;"><li class="businessWhyAflac"><a href="/business/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="businessPolicies"><a href="http://www.aflac.com/business/policies.aspx">Policies</a></li><li class="businessOurServices"><a href="http://www.aflac.com/business/wingspan/default.aspx">Our Services</a></li><li class="BusinessWhitepaper"><a href="/aflac_workforces_report/default.aspx">Insights</a></li><li class="BusinessRealStories"><a href="/business/realstories.aspx">Aflac Real Stories</a></li><li class="businessManageAccount"><a href="http://www.aflac.com/business/manage_accounts/default.aspx">My Aflac Account</a></li><li class="BusinessCTA cta"><a href="http://www.aflac.com/apps/HaveAflacContactYou.aspx?iframe=true&amp;width=380px&amp;height=480px&amp;source=Aflac">Offer Aflac</a></li></ul></li><li class="off MainNavLi" id="brokers"><a class="MainNavA" href="http://www.aflac.com/brokers/default.aspx">Brokers</a><ul class="SecNav horizontal" style="display: none;"><li class="brokersWhyAflac"><a href="/brokers/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="brokersOurPolicies"><a href="http://www.aflac.com/brokers/policies.aspx">Our Products</a></li><li class="BrokersWhitepaper"><a href="http://www.aflac.com/brokers/insights/aflac_workforces_report/default.aspx">Insights</a></li><li class="brokerservices"><a href="http://www.aflac.com/brokers/broker_services/default.aspx">Broker Services</a></li><li class="brokerClientServices"><a href="http://www.aflac.com/brokers/wingspan/default.aspx">Client Services</a></li><li class="BrokersWriteUs cta"><a href="http://www.aflac.com/apps/WriteUsForm.aspx?iframe=true&amp;width=330px&amp;height=400px&amp;source=Write%20Us">Write Us</a></li></ul></li><li class="off MainNavLi" id="agents"><a class="MainNavA" href="/agents/default.aspx">Become An Agent</a><ul class="SecNav horizontal" style="display: none;"><li class="agentsWhyAflac"><a href="/agents/whyaflac.aspx?skipLanding=true">Why Aflac</a></li><li class="agentsOurStories"><a href="/agents/agentstories.aspx">Our Stories</a></li><li class="agentsFinancialStrength"><a href="http://www.aflac.com/agents/financial_strength/default.aspx">Financial Strength</a></li><li class="agentsTrainingandTools"><a href="http://www.aflac.com/agents/training_and_tools/default.aspx">Training and Tools</a></li><li class="agentsUnlimitedPotential"><a href="http://www.aflac.com/agents/unlimited_potential/default.aspx">Unlimited Potential</a></li><li class="agentsFlexibility"><a href="http://www.aflac.com/agents/flexibility/default.aspx">Flexibility</a></li><li class="agentsCTA cta"><a href="http://www.aflac.com/apps/SendResume.aspx?iframe=true&amp;width=320px&amp;height=515px&amp;source=Apply%20for%20a%20career">Apply Now</a></li></ul></li></ul></div>
 <div class="errorMessage">
     
 </div>
@@ -121,8 +167,8 @@
 <!--[if lte IE 7]>
 <select id="LoginsIE6" onchange="LoginRedirect()">
   <option selected="selected" value="default">Login</option>
-  <option value='https://my.aflac.com/portal/server.pt?open=512&objID=639&mode=2'>Policy Holders</option>
-  <option value='https://my.aflac.com/'>Employers</option>
+  <option value='https://my.aflac.com/portal/server.pt?open=512&objID=639&mode=2'>Individual</option>
+  <option value='https://my.aflac.com/'>Business</option>
   <option value='https://my.aflac.com/'>Brokers</option>
   <option value='https://my.aflac.com/'>Agents</option>
 </select>
@@ -132,16 +178,16 @@
 <div id="Logins">
     <ul>
         <li class="Loginpolicyholders">
-            <a href="https://my.aflac.com/portal/server.pt?open=512&amp;objID=639&amp;mode=2" target="_blank">Policy Holders</a>
+            <a href="https://my.aflac.com/portal/server.pt?open=512&amp;objID=639&amp;mode=2" target="_blank" onclick="javascript:dcsMultiTrack('DCS.dcsuri','/top+b2c+login', 'WT.dl', 35);">Individual</a>
         </li>
         <li class="LoginEmployers">
-            <a href="https://my.aflac.com/" target="_blank">Employers</a>
+            <a href="https://my.aflac.com/" target="_blank" onclick="javascript:dcsMultiTrack('DCS.dcsuri','/top+b2b+login', 'WT.dl', 35);">Business</a>
         </li>
         <li class="LoginBrokers">
-            <a href="https://my.aflac.com/" target="_blank">Brokers</a>
+            <a href="https://my.aflac.com/" target="_blank" onclick="javascript:dcsMultiTrack('DCS.dcsuri','/top+brokers+login', 'WT.dl', 35);">Brokers</a>
         </li>
         <li class="LoginAgents">
-            <a href="https://my.aflac.com/" target="_blank">Agents</a>
+            <a href="https://my.aflac.com/" target="_blank" onclick="javascript:dcsMultiTrack('DCS.dcsuri','/top+agents+login', 'WT.dl', 35);">Agents</a>
         </li>
     </ul>
 </div>
@@ -237,11 +283,14 @@
 			var selectedNode;
 			if($.getQueryString({ID:"slide", DefaultValue:""}).length == 0)
             {
-				var slideName = $(".slide").eq(0).attr("id");
-				if((window.location.toString().indexOf("default.aspx") > -1))
-					selectedNode = "javascript:openPolicyNavLink('"+window.location.pathname+"?slide="+slideName+"');";
-				else
-					selectedNode = "javascript:openPolicyNavLink('"+window.location.pathname+"default.aspx?slide="+slideName+"');";
+                var slideName = $(".slide")[0].id;
+                if ((window.location.toString().indexOf("default.aspx") > -1)) {
+                    selectedNode = "javascript:openPolicyNavLink('" + window.location.pathname + "?slide=" + slideName + "');";
+                } else if (window.location.toString().indexOf(".aspx") > -1) {
+                    selectedNode = "javascript:openPolicyNavLink('" + window.location.pathname + "?slide=" + slideName + "');";
+                } else if (window.location.toString().indexOf(".aspx") == -1) {
+                    selectedNode = "javascript:openPolicyNavLink('" + window.location.pathname + "default.aspx?slide=" + slideName + "');";
+                }
                	if(window.location.pathname.indexOf("business") > -1)
 				{
 					flashvars = { content: '/xml/BusinessPolicies.xml',selectedAction: selectedNode, selectedFocused: 'true' };
@@ -281,7 +330,12 @@
             }
 			else
 			{
-				selectedNode = "javascript:openPolicyNavLink('"+window.location.pathname+"?slide="+$.getQueryString({ID:"slide", DefaultValue:""})+"');";
+			    if ($.getQueryString({ ID: "slide", DefaultValue: "" }).length == 0) {
+			        var slideName = $(".slide")[0].id;
+			    } else {
+			        var slideName = $.getQueryString({ ID: "slide", DefaultValue: "" });
+			    }
+                selectedNode = "javascript:openPolicyNavLink('"+window.location.pathname+"?slide="+$.getQueryString({ID:"slide", DefaultValue:""})+"');";
 					if(window.location.pathname.indexOf("business") > -1)
 				{
 					flashvars = { content: '/xml/BusinessPolicies.xml',selectedAction: selectedNode, selectedFocused: 'true' };
@@ -661,7 +715,7 @@ $(function()
 </script>
 
 <div class="NarrowAccordion" id="NarrowAccordion"> 
-    <div id="accordionContainer" class="NarrowAccordionContainerClass ui-accordion ui-widget ui-helper-reset" role="tablist" style="z-index: 990;">		
+    <div id="accordionContainer" class="NarrowAccordionContainerClass ui-accordion" style="z-index: 990;">		
 	    <div id="accordionHeader" class="narrowAccordionHeaderBg">
 	        
     <div style="padding-top:13px;padding-left:2px;">
@@ -700,18 +754,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf1153044980", "80", "40", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf1153044980", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf180464721", "80", "40", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf180464721", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf1153044980 *
+    #headerSwf180464721 *
     {
     	outline:none;
     }
     
-    #headerSwf1153044980 
+    #headerSwf180464721 
     {
         font-size:30px; color:#ffffff;
     }
@@ -719,7 +773,7 @@ $(function()
 
   
   
-    <span id="headerSwf1153044980" style="visibility: visible;">
+    <span id="headerSwf180464721" style="visibility: visible;">
       offer
     </span>
   
@@ -758,18 +812,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf2009107255", "90", "40", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf2009107255", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf2084183412", "90", "40", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf2084183412", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf2009107255 *
+    #headerSwf2084183412 *
     {
     	outline:none;
     }
     
-    #headerSwf2009107255 
+    #headerSwf2084183412 
     {
         font-size:30px; color:#ffae00;
     }
@@ -777,7 +831,7 @@ $(function()
 
   
   
-    <span id="headerSwf2009107255" style="visibility: visible;">
+    <span id="headerSwf2084183412" style="visibility: visible;">
       Aflac
     </span>
   
@@ -789,7 +843,7 @@ $(function()
                
 
 
-<h3 id="Pane1" class="narrowPaneHeader ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="0"><span class="ui-icon ui-icon-triangle-1-e"></span>
+<h3 id="Pane1" class="narrowPaneHeader">
             
                 
 
@@ -826,18 +880,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf490765396", "45", "18", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf490765396", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf1010539409", "45", "18", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf1010539409", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf490765396 *
+    #headerSwf1010539409 *
     {
     	outline:none;
     }
     
-    #headerSwf490765396 
+    #headerSwf1010539409 
     {
         font-size:12px; color:#b3dce9;
     }
@@ -845,7 +899,7 @@ $(function()
 
   
   
-    <span id="headerSwf490765396" style="visibility: visible;">
+    <span id="headerSwf1010539409" style="visibility: visible;">
       Call us
     </span>
   
@@ -884,18 +938,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf2069259789", "100", "18", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf2069259789", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf650159350", "100", "18", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf650159350", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf2069259789 *
+    #headerSwf650159350 *
     {
     	outline:none;
     }
     
-    #headerSwf2069259789 
+    #headerSwf650159350 
     {
         font-size:12px; color:#edf7fa;
     }
@@ -903,14 +957,14 @@ $(function()
 
   
   
-    <span id="headerSwf2069259789" style="visibility: visible;">
+    <span id="headerSwf650159350" style="visibility: visible;">
       1.888.861.0251
     </span>
   </span>
                
         
 </h3>
-<div class="NarrowContainter ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 276px; display: none;">
+<div class="NarrowContainter" style="display: none;">
 	<div class="NarrowContainerBg">				
 		
             
@@ -948,18 +1002,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf774038304", "120", "22", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf774038304", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf966352523", "120", "22", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf966352523", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf774038304 *
+    #headerSwf966352523 *
     {
     	outline:none;
     }
     
-    #headerSwf774038304 
+    #headerSwf966352523 
     {
         font-size:12px; color:0X808080;
     }
@@ -967,7 +1021,7 @@ $(function()
 
   
   
-    <span id="headerSwf774038304" style="visibility: visible;">
+    <span id="headerSwf966352523" style="visibility: visible;">
       8:00AM ~ 8:00PM
     </span>
   
@@ -1006,18 +1060,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf1987993462", "35", "22", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf1987993462", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf1572605696", "35", "22", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf1572605696", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf1987993462 *
+    #headerSwf1572605696 *
     {
     	outline:none;
     }
     
-    #headerSwf1987993462 
+    #headerSwf1572605696 
     {
         font-size:11px; color:0X808080;
     }
@@ -1025,7 +1079,7 @@ $(function()
 
   
   
-    <span id="headerSwf1987993462" style="visibility: visible;">
+    <span id="headerSwf1572605696" style="visibility: visible;">
       (ET)
     </span>
   
@@ -1064,18 +1118,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf305750738", "120", "22", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf305750738", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf2130068211", "120", "22", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf2130068211", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf305750738 *
+    #headerSwf2130068211 *
     {
     	outline:none;
     }
     
-    #headerSwf305750738 
+    #headerSwf2130068211 
     {
         font-size:12px; color:0X808080;
     }
@@ -1083,7 +1137,7 @@ $(function()
 
   
   
-    <span id="headerSwf305750738" style="visibility: visible;">
+    <span id="headerSwf2130068211" style="visibility: visible;">
       Monday ~ Friday
     </span>
   
@@ -1092,7 +1146,7 @@ $(function()
 </div>
 
 
-<h3 id="Pane2" class="narrowPaneHeader ui-accordion-header ui-helper-reset ui-state-default ui-corner-all" role="tab" aria-expanded="false" tabindex="-1"><span class="ui-icon ui-icon-triangle-1-e"></span>
+<h3 id="Pane2" class="narrowPaneHeader">
             
                 
 
@@ -1129,18 +1183,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf304301405", "50", "18", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf304301405", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf1022140381", "50", "18", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf1022140381", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf304301405 *
+    #headerSwf1022140381 *
     {
     	outline:none;
     }
     
-    #headerSwf304301405 
+    #headerSwf1022140381 
     {
         font-size:12px; color:#b3dce9;
     }
@@ -1148,7 +1202,7 @@ $(function()
 
   
   
-    <span id="headerSwf304301405" style="visibility: visible;">
+    <span id="headerSwf1022140381" style="visibility: visible;">
       Privacy
     </span>
   
@@ -1187,18 +1241,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf677997013", "100", "18", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf677997013", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf206510351", "100", "18", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf206510351", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf677997013 *
+    #headerSwf206510351 *
     {
     	outline:none;
     }
     
-    #headerSwf677997013 
+    #headerSwf206510351 
     {
         font-size:12px; color:#edf7fa;
     }
@@ -1206,14 +1260,14 @@ $(function()
 
   
   
-    <span id="headerSwf677997013" style="visibility: visible;">
+    <span id="headerSwf206510351" style="visibility: visible;">
       Notices
     </span>
   </span>
                
         
 </h3>
-<div class="NarrowContainter ui-accordion-content ui-helper-reset ui-widget-content ui-corner-bottom" role="tabpanel" style="height: 276px; display: none;">
+<div class="NarrowContainter" style="display: none;">
 	<div class="NarrowContainerBg">				
 		
             <div id="PrivacyContainer" style="margin-left:15px;">
@@ -1274,18 +1328,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf797496030", "70", "18", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf797496030", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf658860447", "70", "18", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf658860447", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf797496030 *
+    #headerSwf658860447 *
     {
     	outline:none;
     }
     
-    #headerSwf797496030 
+    #headerSwf658860447 
     {
         font-size:12px; color:#edf7fa;
     }
@@ -1293,7 +1347,7 @@ $(function()
 
   
   
-    <span id="headerSwf797496030" style="visibility: visible;">
+    <span id="headerSwf658860447" style="visibility: visible;">
       Write Us
     </span>
                       
@@ -1332,18 +1386,18 @@ $(function()
         var attributes = { wmode: "transparent" };
 
 
-        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf1034529850", "100", "18", "9.0.0", flashvars, params, attributes);
-        swfobject.createCSS("#headerSwf1034529850", "outline:none"); 
+        swfobject.embedSWF("/flash/Tertiary.swf", "headerSwf1751512305", "100", "18", "9.0.0", flashvars, params, attributes);
+        swfobject.createCSS("#headerSwf1751512305", "outline:none"); 
     </script>
 <style type="text/css">
 
     
-    #headerSwf1034529850 *
+    #headerSwf1751512305 *
     {
     	outline:none;
     }
     
-    #headerSwf1034529850 
+    #headerSwf1751512305 
     {
         font-size:12px; color:#edf7fa;
     }
@@ -1351,7 +1405,7 @@ $(function()
 
   
   
-    <span id="headerSwf1034529850" style="visibility: visible;">
+    <span id="headerSwf1751512305" style="visibility: visible;">
       
     </span>
   </span>                                      
@@ -1406,12 +1460,74 @@ $(function()
     
 </div>
 <div id="FooterText">
-    <div>Individual coverage available from American Family Life Assurance Company of Columbus. </div>
-<div>In New York, individual coverage available from American Family Life Assurance Company of New York. </div>
-<div>Group coverage available from Continental American Insurance Company. </div>
-<div>Coverage and benefits may not be available in all states. </div>
-<div>© 2010 Aflac Incorporated </div>
+    <div>Individual coverage available from American Family Life Assurance Company of Columbus. In New York, individual coverage available from American Family Life Assurance Company of New York. Group coverage available from Continental American Insurance Company. Coverage and benefits may not be available in all states.</div>
+<div>© 2011 Aflac Incorporated</div>
+<div>FORTUNE is a registered trademark of Time Inc. and is used under license. From FORTUNE Magazine, February 7, 2011 © 2011 Time Inc. <br>FORTUNE and Time Inc. are not affiliated with, and do not endorse products or services of, Licensee.</div>
 </div>
+
+	<script type="text/javascript">
+$(document).ready(function () {
+var navstate = $.cookie('MainNavItem');
+var nore= $.getQueryString({ ID: "fbr",  DefaultValue: "0" });
+var path = location.pathname;
+var hoststate = location.hostname;
+if(nore==0){
+if(navstate == "individuals" || path.indexOf("investors")>-1){
+if(hoststate.indexOf("www")==-1){
+window.location = "http://www.aflac.com"+window.location.pathname+window.location.search;
+}
+}
+}
+var pv = $.cookie("pv");
+if(pv==null){
+pv=1;
+}else{
+pv = parseInt(pv)+1;
+}
+$.cookie('pv', pv, {path: '/'});
+var cC = $.cookie('WT_Campaign_ID');
+var cCID = $.cookie('WT_Campaign_ID_src');
+var cID = $.getQueryString({ ID: "WT.mc_id",  DefaultValue: "NoWebtrendsCampaignId" });
+
+if(cID != "NoWebtrendsCampaignId"){
+ $.cookie('WT_Campaign_ID_src', cID, {path: '/'});
+}else if($.cookie('WT_Campaign_ID_src', cID, {path: '/'})==null){
+ $.cookie('WT_Campaign_ID_src', "NoWebtrendsCampaignId", {path: '/'});
+}
+var CampaignID2 = window.location.pathname +"@"+$.cookie("pv")
++"@"+ $.cookie('WT_Campaign_ID_src');
+
+ if (cC!=CampaignID2){
+                                 $.cookie('WT_Campaign_ID', CampaignID2, {path: '/'});
+}
+
+ });
+
+</script>
+<script type="text/javascript">
+ $(document).ready(function () {
+if($.cookie('MainNavItem')=="individuals"){
+$('#optIndFam2').attr("checked", "checked");
+$('#optIndFam').attr("checked", "checked");
+ $('#BusinessInfo2').slideUp(1, function() { });
+            $('#ContactMessage2').slideDown(1, function() { });
+ $('#BusinessInfo').slideUp(1, function() { });
+            $('#ContactMessage').slideDown(1, function() { });
+
+
+}
+if($.cookie('MainNavItem')=="business"){
+$('#optBusiness2').attr("checked", "checked");
+$('#optBusiness').attr("checked", "checked");
+$('#BusinessInfo2').slideDown(1, function () { });
+            $('#ContactMessage2').slideUp(1, function () { });
+$('#BusinessInfo').slideDown(1, function () { });
+            $('#ContactMessage').slideUp(1, function () { });
+}
+
+
+});</script>
+
 
         </div>
     </div>
