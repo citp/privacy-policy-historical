@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the cbscollegesports.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627072746id_/http%3A//www.cbscollegesports.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbscollegesports.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008044520id_/http%3A//www.cbscollegesports.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# CBS Sports Network
+# PRIVACY POLICY | CBS Sports Network
 
-CBS Sports Network Privacy Policy - Last updated: April 4, 2011  
-
+CBS Sports Network Privacy Policy - Last updated: April 4, 2011
 
 This Privacy Policy applies only to the web sites owned (however accessed and/or used, whether via personal computers, mobile devices, or otherwise), controlled or operated by CSTV Networks, Inc., d/b/a CBS Sports Network and its parent, subsidiaries and affiliates (collectively, "Company," "we," "our" or "us") or other interactive features that are accessible or downloadable through the web sites owned or controlled by Company and that post a link to this Privacy Policy (collectively, the "Web Sites"). This Privacy Policy only covers information collected at the Web Sites, and does not cover any information collected at any other web site or offline by Company (unless specifically stated). The purpose of this Privacy Policy is to disclose to you what information we may collect on the Web Sites, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you may have regarding our collection, use and disclosure of such information. 
 
@@ -11,7 +10,8 @@ This Privacy Policy applies only to the web sites owned (however accessed and/or
 
 Table of Contents
 
-1\. Types Of Information That May Be Collected  
+1\. Types Of Information That May Be Collected
+
 a. Web Site Usage Information & Device Identifiers  
 b. Information You Provide Us  
 c. Information From Other Sources   
@@ -39,9 +39,7 @@ g. Legal Protection & Law Enforcement
 11\. A Special Note For Parents Concerning Privacy   
 12\. Notification of Changes & Your Acceptance of The Privacy Policy
 
->  
-
-1\. TYPES OF INFORMATION THAT MAY BE COLLECTED
+> 1\. TYPES OF INFORMATION THAT MAY BE COLLECTED
 
 The following are the types of information we may collect: 
 
