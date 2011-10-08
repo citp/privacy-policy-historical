@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishpage.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123140430id_/http%3A//www.englishpage.com/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishpage.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008221317id_/http%3A//www.englishpage.com/policy.htm) for the most accurate reproduction.*
 
 # ENGLISH PAGE - Privacy Policy
 
