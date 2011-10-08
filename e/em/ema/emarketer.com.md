@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507232122id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emarketer.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008063258id_/http%3A//www.emarketer.com/AboutUs.aspx%3Fpage%3DPrivacy) for the most accurate reproduction.*
 
 # About Us - eMarketer
 
@@ -14,5 +14,5 @@ eMarketer sells information products online. At the time of purchase, we require
 
 Only our order processing/customer service staff has access to your information. We do not store or access credit card information from our Web server after your order is processed. eMarketer allows product purchasers to control the storage of their general contact information. If you would like to access, correct or delete any of your contact information that we have on file, please send an email to [sales@emarketer.com](https://web.archive.org/Contact.aspx?referring_page=/AboutUs.aspx&send_to=sales@emarketer.com).
 
-**3\. White Papers:**  
-When a visitor downloads a white paper from the eMarketer Web site, eMarketer collects personal and business information, such as email address, shipping address and telephone number. This information is not shared with any third party unless explicitly mentioned.
+**3\. Webinars, White Papers and Other Free Offers:**  
+When a visitor registers for a white paper, webinar or other free offering from the eMarketer website, eMarketer collects personal and business information, such as email address, shipping address and telephone number. This information is not shared with any third party unless explicitly mentioned.
