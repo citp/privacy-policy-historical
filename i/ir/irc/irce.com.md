@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irce.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426062504id_/http%3A//irce.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irce.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008131734id_/http%3A//irce.internetretailer.com/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Vertical Web Media Privacy Policy
 
