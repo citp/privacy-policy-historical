@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelspike.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420125710id_/http%3A//travelspike.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelspike.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008071728id_/http%3A//travelspike.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Travel Industry, Online Marketing, Internet Destination Marketing, Tourism Advertising, Interactive Travel Experts - Travel Spike: Interactive Travel Experts
 
@@ -63,6 +63,6 @@ This privacy policy is subject to change at any time.  We will notify you on ou
 
  _3rd Party Website’s Policies_
 
-TS has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites, Partners or advertisers within in the Travel Spike Ad Network or linked to from TravelSpike.com, or the cookies these sites might deposit on your hard drive. 
+TS has no control over, nor does it bear any of the responsibility for the privacy policies and/or content of any sites, Partners or advertisers within the Travel Ad Network® or linked to from TravelSpike.com, or the cookies these sites might deposit on your hard drive. 
 
 TS is in compliance of the Network Advertising Initiative ("NAI"). 
