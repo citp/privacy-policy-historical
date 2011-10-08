@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foursquare.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625125711id_/http%3A//foursquare.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foursquare.com privacy policy that was archived on 2011-10-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111008220048id_/https%3A//foursquare.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:lift="http://liftweb.net" xmlns="http://www.w3.org/1999/xhtml"><head>
     <meta content="text/html; charset=UTF-8" http-equiv="content-type">
@@ -17,12 +17,20 @@
   <meta content="name=Stats;action-uri=/stats;icon-uri=/favicon.ico" name="msapplication-task">
 
 
-    <title>foursquare</title>
-    <link href="https://4sqstatic.s3.amazonaws.com/favicon-4d92ad72c5f32a63f2a0ec9cd2c7c88d.ico" type="image/x-icon" rel="icon">
-    <link href="https://4sqstatic.s3.amazonaws.com/favicon-4d92ad72c5f32a63f2a0ec9cd2c7c88d.ico" type="image/x-icon" rel="shortcut icon">
+    <title>foursquare
+    
+  </title>
+    <link href="https://d3t9wmuxo47dud.cloudfront.net/favicon-4d92ad72c5f32a63f2a0ec9cd2c7c88d.ico" type="image/x-icon" rel="icon">
+    <link href="https://d3t9wmuxo47dud.cloudfront.net/favicon-4d92ad72c5f32a63f2a0ec9cd2c7c88d.ico" type="image/x-icon" rel="shortcut icon">
 
-    <link href="https://4sqstatic.s3.amazonaws.com/styles/foursquare-35c78e6ffd2df74e1f7bda706c60e794.css" type="text/css" rel="stylesheet">
-    <link href="https://4sqstatic.s3.amazonaws.com/facebox/facebox-827abc92ab3c3cdfe43fd1971738c5c6.css" type="text/css" rel="stylesheet">
+    <link href="https://d3t9wmuxo47dud.cloudfront.net/styles/reset-ba1d59b0e53d380b12b3e97a428b3314.css" type="text/css" rel="stylesheet">
+    <link href="https://d3t9wmuxo47dud.cloudfront.net/facebox/facebox-2e544c9fb7add3d5f93cfdda0a4bdfb0.css" type="text/css" rel="stylesheet">
+    
+  
+  
+    <link href="https://d3t9wmuxo47dud.cloudfront.net/styles/master-0eae5026fdbc746275c1a643c30b4a0e.css" type="text/css" rel="stylesheet">
+  
+
 
     
   
@@ -31,22 +39,20 @@
   
 
     
-  
-    <script src="https://ajax.microsoft.com/ajax/jquery.templates/beta1/jquery.tmpl.min.js" type="text/javascript"></script>
-  
+  <script src="https://d3t9wmuxo47dud.cloudfront.net/scripts/third_party/jquery.tmpl.min-2b26540d6761fa6eb1e66d97ec176364.js" type="text/javascript"></script>
+
+
+
+    <script src="https://d3t9wmuxo47dud.cloudfront.net/scripts/build/chrome-prod-d35f99a955a5068794b62702426108d1.js" type="text/javascript"></script>
+    
+    <script src="https://d3t9wmuxo47dud.cloudfront.net/scripts/build/foursquare/root-d537adf6f60ef530b7b8e2863a937e3d.js" type="text/javascript"></script>
+
+    
+    
   
 
     
-      <script src="https://4sqstatic.s3.amazonaws.com/scripts/yepnope-min-d865d05ec483df36997a092889ad2956.js" type="text/javascript"></script>
-      <script src="https://4sqstatic.s3.amazonaws.com/scripts/jquery-ui.custom.min-aaa935d70eb005078aeae8866f55fc5a.js" type="text/javascript"></script>
-      <script src="https://4sqstatic.s3.amazonaws.com/scripts/jquery.cookie-545bb6d4c898294c40c9a176a59e3423.js" type="text/javascript"></script>
-      <script src="https://4sqstatic.s3.amazonaws.com/scripts/foursquare-63c7b1125ee4f38b8df24a1c9fabc19f.js" type="text/javascript"></script>
-      <script src="https://4sqstatic.s3.amazonaws.com/scripts/debug-dc5041cd87586a85e282fb8a0f1dd4d8.js" type="text/javascript"></script>
-      <script src="https://4sqstatic.s3.amazonaws.com/facebox/facebox-91a3b459ec25f6055726f1871b982b05.js" type="text/javascript"></script>
-      <script src="https://4sqstatic.s3.amazonaws.com/scripts/json-0078019fdca0ed4b1b76945f6ce830c9.js" type="text/javascript" id="json"></script>
-    
-
-    
+  
 
     
   
@@ -65,112 +71,59 @@
 </script>
 
     
-    
   <script type="text/javascript">
-    var fourSq = fourSq || {};
-    fourSq.api = fourSq.api || {};
-
-    /*
-     * Setup API domain and token
-     */
-    fourSq.api.config = {
-      API_BASE : 'https://api.foursquare.com/',
-      API_TOKEN : '',
-      API_IFRAME : 'https://api.foursquare.com/xdreceiver.html'
-    };
-
-    /*
-     * Creates a table of contents for all of our JS
-     * dependencies. Needed so we can get the proper
-     * paths including hashes to these files
-     */
-    fourSq.js = {
-      underscore: 'https://4sqstatic.s3.amazonaws.com/scripts/underscore-min-556699174e304d9ef20413600badfb68.js',
-      backbone: 'https://4sqstatic.s3.amazonaws.com/scripts/backbone-min-5c8053a6fab598f46af8d7e59bfc0ce1.js',
-      api: 'https://4sqstatic.s3.amazonaws.com/scripts/api-abe0893142b74296ed67fa295bb1826c.js',
-
-      
-
-      
-
-
-      // The modules listed here must match those defined in foursquare-plovr.js
-      modules: {
-        'foursquare': {
-          
-          
-          'root': 'https://4sqstatic.s3.amazonaws.com/scripts/build/foursquare/root-6f9e506446339b06925f41fa30423aa9.js',
-          'api': 'https://4sqstatic.s3.amazonaws.com/scripts/build/foursquare/api-c5179e887168eed5cf884fd22c6f7d08.js'
-        }
-      },
+    (function() {
+      var fourSq = window.fourSq || {};
+      fourSq.api = fourSq.api || {};
+      fourSq.js = fourSq.js || {};
+      fourSq.user = fourSq.user || {};
+      fourSq.debugLevel = function() { return fourSq.debug.Level.OFF; };
 
       /**
-       * Async load the scripts listed in data and call callback once they're all loaded
-       *
-       * Wrapping call to yepnope in a simple memoizer to prevent loading the same
-       * file multiple times.
+       * Setup API domain and token
        */
-      load: (function() {
-        var map = {}
-        var filter = function(data) {
-          if (typeof data == 'string') {
-            return map[data] ? [data] : []
-          } else {
-            var filtered = []
+      fourSq.api.config = {
+        API_BASE: 'https://api.foursquare.com/',
+        API_TOKEN: 'QEJ4AQPTMMNB413HGNZ5YDMJSHTOHZHMLZCAQCCLXIX41OMP',
+        API_IFRAME: 'https://api.foursquare.com/xdreceiver.html',
+        CLIENT_VERSION: '20110915'
+      };
 
-            for (var key in data) {
-              var d = data[key]
-              if (!map[d]) filtered.push(d)
-              map[d] = true
-            }
+      /**
+       * Useful values for current user.
+       */
+      fourSq.user.config = {
+        USER_PROFILE: undefined,
+        USER_LAT: 0,
+        USER_LNG: 0
+      };
 
-            return filtered
-          }
+      /**
+       * Creates a table of contents for all of our JS
+       * dependencies. Needed so we can get the proper
+       * paths including hashes to these files
+       */
+      fourSq.js.modules = {
+        'foursquare': {
+          
+          'notifications': 'https://d3t9wmuxo47dud.cloudfront.net/scripts/build/foursquare/notifications-6aba22d0af2266ca7e99166d324a9383.js',
+          'list-page-common': 'https://d3t9wmuxo47dud.cloudfront.net/scripts/build/foursquare/list-page-common-09efc66f01e5154c9a2d4e3bf95d170c.js',
+          'list-page': {
+            'src': 'https://d3t9wmuxo47dud.cloudfront.net/scripts/build/foursquare/list-page-6008d7b751ffe9af9063ce000eb92c9b.js',
+            'deps': ['list-page-common']
+          },
+          'list-editor-page': {
+            'src': 'https://d3t9wmuxo47dud.cloudfront.net/scripts/build/foursquare/list-editor-page-8f34c30aa53cfab3b8f11a6e85cae9d4.js',
+            'deps': ['list-page-common']
+          },
+          'root': 'https://d3t9wmuxo47dud.cloudfront.net/scripts/build/foursquare/root-d537adf6f60ef530b7b8e2863a937e3d.js',
+          'api': '/scripts/build/foursquare/api.js'
         }
-        return function(data, callback) {
-          yepnope({
-            load: filter(data),
-            complete: callback
-          })
-        }
-      })(),
+      };
 
-      loadApi: function(scripts_or_callback, callback) {
-        // TODO: msingleton - clean this up and allow for scripts to be an array or an individual string
-        if(typeof(scripts_or_callback) == 'function') {
-          this.load(fourSq.js.bundle.api, scripts_or_callback)
-        } else {
-          this.load(fourSq.js.bundle.api.concat(scripts_or_callback), callback)
-        }
-      },
-
-      // Experimental js loading with plovr
-      loadPlovrOrApi: function(bundleId, moduleId, callback) {
-        
-        
-          this.loadApi(fourSq.js.bundle.bundlesByPlovrModuleId[moduleId], callback);
-        
-      }
-    }
-
-    /*
-     * Create common bundles of JS files
-     */
-    fourSq.js.bundle = {
-      
-      
-      api: [fourSq.js.underscore, fourSq.js.backbone, fourSq.js.api]
-    },
-
-    // for backwards compatibility to load things the 'current' way.
-    fourSq.js.bundle.bundlesByPlovrModuleId = {
-      
-      
-    }
-
-    document.domain = 'foursquare.com';
+      document.domain = 'foursquare.com';
+    })();
   </script>
-   
 
 
 
@@ -186,6 +139,7 @@
 </head>
 <body>
     
+
     <div id="header">
       <div class="outsideContainer">
         
@@ -199,29 +153,24 @@
       
     </ul>
   
-        <a href="/" id="logo"><img src="https://4sqstatic.s3.amazonaws.com/img/headerLogo-eec404c67d4fb69d37259a2b76243730.png"></a>
+        <a href="/" id="logo"><img src="https://d3t9wmuxo47dud.cloudfront.net/img/headerLogo-eec404c67d4fb69d37259a2b76243730.png"></a>
       </div>
     </div>
     <div id="nav">
       <div class="outsideContainer translate">
-        <ul id="mainNav">
-          
-        </ul>
-
+        
         <div id="searchbox">
           <form method="get" action="/search">
-            <input value="Search places, people and tips" onfocus="this.value=''" size="25" name="q" type="text" id="searchEntry">
+            <input value="Search places, people and tips" onfocus="this.value=''" size="25" name="q" type="text" class="translate" id="searchEntry">
             <button>Search</button>
           </form>
         </div>
       </div>
     </div>
     <div id="container">
-       <div id="body">
-        
-        <div id="lift__noticesContainer__"></div>
-        <div style="align:center" id="content">
-          
+      
+      <div id="lift__noticesContainer__"></div>
+      
     
   <div class="translate" id="legalTouch">
 
@@ -250,10 +199,10 @@
   <p>Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. foursquare may share your Personal Information only as described below. The default user settings for all data about you that is visible to others are available in our <a href="/privacy/grid">Privacy Grid</a>, together with information on how to change the default user settings, where applicable.</p>
 
   <ul>
-    <li><strong>Friends:</strong> Your "friends" can see the location and time of each of your check-ins, first name and last initial, email, phone number, photo, hometown, mayorships and badges, links to your Twitter and Facebook accounts (if you have connected those accounts to your foursquare account), a list of your friends, tips you write, and items on your To-Do list. See <a href="/privacy/grid">Privacy Grid.</a> Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think carefully about including any
+    <li><strong>Friends:</strong> Your "friends" can see the location and time of each of your check-ins, first name and last initial, email, phone number, photo, hometown, mayorships and badges, links to your Twitter and Facebook accounts (if you have connected those accounts to your foursquare account), a list of your friends, Tips you write, and items on your To-Do list. See <a href="/privacy/grid">Privacy Grid.</a> Individuals reading this information may use it or disclose it to other individuals or entities without our control and without your knowledge. We therefore urge you to think carefully about including any
     specific information you may deem private in Shouts or To Dos or other content (location or otherwise) that you create in the Service.</li>
     <li><strong>Agents:</strong> We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Our agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us, and they provide a comparable level of protection for your Personal Information.</li>
-    <li><strong>Information Shared with Everyone:</strong> One of the primary reasons people use foursquare is to share content with others. Information such as your name and photo, your hometown, your mayorships and badges, a list of your friends, and the tips you write is shared by default with the foursquare community. Information on how to change these default settings, if applicable, is available on the <a href="/privacy/grid">Privacy Grid</a>.</li>
+    <li><strong>Information Shared with Everyone:</strong> One of the primary reasons people use foursquare is to share content with others. Information such as your name and photo, your hometown, your mayorships and badges, a list of your friends, and the Tips you write is shared by default with the foursquare community. Information on how to change these default settings, if applicable, is available on the <a href="/privacy/grid">Privacy Grid</a>.</li>
   </ul>
 
   <h3>Foursquare Features</h3>
@@ -267,7 +216,7 @@
     <li><a href="/privacy/grid#linkedaccounts">Connecting to your Twitter or Facebook accounts</a></li>
     <li><a href="/privacy/grid#contactinfo">Searching for friends</a></li>
     <li><a href="/privacy/grid#contactinfo">Inviting others to join foursquare</a></li>
-    <li><a href="/privacy/grid#otherareas">Writing tips</a></li>
+    <li><a href="/privacy/grid#otherareas">Writing Tips</a></li>
     <li><a href="/privacy/grid#otherareas">Writing shouts</a></li>
     <li><a href="/privacy/grid#photos">Posting Photos</a></li>
     <li><a href="/privacy/grid#otherareas">Posting Comments</a></li>
@@ -326,55 +275,60 @@
   </div>
 
   
-        </div>
-        <div style="clear: left"></div>
-      </div>
     </div>
     
     
+    
+  
     <div style="clear:both" id="footer">
   <div class="links translate">
     <div class="outsideContainer">
       <ul>
   <li><a href="https://foursquare.com/about">about</a></li>
+  <li><a href="https://foursquare.com/apps">apps</a></li>
   <li><a href="http://blog.foursquare.com">blog</a></li>
-  <li><a href="https://foursquare.com/contact">contact</a></li>
+  <li><a href="http://developers.foursquare.com">developers</a></li>
   <li><a href="http://foursquare.com/help">help</a></li>
   <li><a href="https://foursquare.com/jobs/">jobs</a></li>
-  <li><a href="https://foursquare.com/privacy/">privacy 101</a></li>
-  <li><a href="https://foursquare.com/legal/privacy">privacy policy</a></li>
+  <li><a href="https://foursquare.com/privacy/">privacy</a></li>
   <li><a href="https://foursquare.com/legal/terms">terms</a> (New)</li>
   <li><a href="http://store.foursquare.com">store</a></li>
 </ul>
       <div id="copyLang">
         © 2011 foursquare
+  
+
   <script type="text/javascript">
     //<![CDATA[
-    
     // IMPORTANT: This is what does the redirect to the correct domain
     fourSq.i18n.redirect();
-    
+
     $(function() {
       $('#currentLanguage a').text(fourSq.i18n.currentLang());
     });
     // ]]>
   </script>
-  
+
   <span id="currentLanguage">
     · <a rel="facebox" href="#languagesContainer"></a>
   </span>
-  
+
   <div style="display:none" class="translate" id="languagesContainer">
     Do none of the words on this site make sense to you? Select your
     favorite language below for greater clarity:
     <ul class="languages notranslate">
-      <li><a href="#" onclick="fourSq.i18n.setLang('en'); return false;">English</a></li><li><a href="#" onclick="fourSq.i18n.setLang('it'); return false;">Italiano</a></li><li><a href="#" onclick="fourSq.i18n.setLang('de'); return false;">Deutsch</a></li><li><a href="#" onclick="fourSq.i18n.setLang('es'); return false;">Español</a></li><li><a href="#" onclick="fourSq.i18n.setLang('fr'); return false;">Français</a></li><li><a href="#" onclick="fourSq.i18n.setLang('ja'); return false;">日本語</a></li>
+      <li><a href="#" onclick="fourSq.i18n.setLang('en'); return false;">English</a></li><li><a href="#" onclick="fourSq.i18n.setLang('it'); return false;">Italiano</a></li><li><a href="#" onclick="fourSq.i18n.setLang('de'); return false;">Deutsch</a></li><li><a href="#" onclick="fourSq.i18n.setLang('es'); return false;">Español</a></li><li><a href="#" onclick="fourSq.i18n.setLang('fr'); return false;">Français</a></li><li><a href="#" onclick="fourSq.i18n.setLang('ja'); return false;">日本語</a></li><li><a href="#" onclick="fourSq.i18n.setLang('th'); return false;">ภาษาไทย</a></li><li><a href="#" onclick="fourSq.i18n.setLang('ko'); return false;">한국어</a></li><li><a href="#" onclick="fourSq.i18n.setLang('ru'); return false;">Русский</a></li><li><a href="#" onclick="fourSq.i18n.setLang('pt'); return false;">Português</a></li><li><a href="#" onclick="fourSq.i18n.setLang('id'); return false;">Bahasa Indonesia</a></li>
     </ul>
   </div>
 
       </div>
     </div>
   </div>
+  
+
+
+
+
   
 
 </div>
@@ -425,7 +379,7 @@ if (window.chartbeat_path) {
 <script type="text/javascript">
 // <![CDATA[
 
-var lift_page = "F702055173068F3A";
+var lift_page = "F945908671837YIN0NV";
 // ]]>
 </script>
   
