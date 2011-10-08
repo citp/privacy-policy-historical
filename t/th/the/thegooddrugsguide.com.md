@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegooddrugsguide.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504121247id_/http%3A//www.thegooddrugsguide.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegooddrugsguide.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008061824id_/http%3A//www.thegooddrugsguide.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -51,7 +51,7 @@ Top
 
 ## Email Privacy Disclaimer
 
-TheGoodDrugsGuide.com will use reasonable means to protect the privacy of your information sent by e-mail. However, because of the risks outlined below, TheGoodDrugsGuide.com cannot guarantee that email communications will be confidential. Additionally, TheGoodDrugsGuide.com will not be liable in the event that you or anyone else inappropriately uses your e-mail. TheGoodDrugsGuide.com will not be liable for improper disclosure of your information that is not caused by TheGoodDrugsGuide.com’s intentional misconduct. 
+TheGoodDrugsGuide.com will use reasonable means to protect the privacy of your information sent by e-mail. However, because of the risks outlined below, TheGoodDrugsGuide.com cannot guarantee that email communications will be confidential. Additionally, TheGoodDrugsGuide.com will not be liable in the event that you or anyone else inappropriately uses your e-mail. TheGoodDrugsGuide.com will not be liable for improper disclosure of your information that is not caused by TheGoodDrugsGuide.com's intentional misconduct. 
 
 Top
 
