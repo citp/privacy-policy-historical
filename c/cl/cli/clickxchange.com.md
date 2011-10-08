@@ -1,92 +1,58 @@
-> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2006-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061017234550id_/http%3A//clickxchange.com/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickxchange.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008065729id_/https%3A//servedoc.com/new/privacy/privacy-standard-cxc.htm) for the most accurate reproduction.*
 
-# Create or join an affiliate program with clickXchange.com
+# Privacy Policy
 
-|  |  | clickXchange.com is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://clickXchange.com. TRUSTe is an independent, non-profit organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. |   
-[](http://www.truste.org/ivalidate.php?url=www.clickXchange.com&sealid=101)  
----|---  
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
-
-By displaying the TRUSTe trustmark, this web site has agreed to notify you of:   
-  
-  1. What personally identifiable information of yours or third party personally identification is collected from you through the web site 
-  2. The organization collecting the information 
-  3. How the information is used 
-  4. With whom the information may be shared 
-  5. What choices are available to you regarding collection, use and distribution of the information 
-  6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under CA Web Designs control 
-  7. How you can correct any inaccuracies in the information. 
+**Disclosure of Information to Non-affiliated Trusted Third Parties**  
+clickXchange Media and Affiliates ("Companies") will disclose nonpublic personal information about you to other market participants that provide goods and services. The Companies may also disclose aggregate, anonymous data to investors and potential partners based on information collected from Users. You authorize us, or a marketing partner, to contact you with exciting new offers and information, via email, automated telephone messages or SMS/Text messages to your mobile phone, even if you are listed on a Do Not Call Registry.  Users may opt out of the Companies disclosure to nonaffiliated trusted third parties (the “Parties”) by following the instructions in the opt out section of this privacy policy. We may also disclose nonpublic personal information about you as permitted by law.   
 
 
+**Privacy**  
+Users' privacy is very important to us. Companies are committed to safeguarding the information Users entrust to Companies. This Web site is not directed at individuals under 18 years of age. 
 
-If you have questions or concerns regarding this statement, you should first contact our staff by calling 949.673.7451. 
+**Consent to Receive Privacy Notice and Opt Out Notice Via this Web Site**  
+By acknowledging receipt of this privacy notice, you the customer also consent to receive your annual notice of the privacy policy, as required by FTC regulation, via this web site. By acknowledging receipt of this privacy notice, you the customer also consent to receive your opt out notice and opportunity to opt out, as required by FTC regulation, via this web site.
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.   
-  
-  
-Privacy Statement for clickXchange.com
+**The Information We Collect**  
+This Privacy Policy applies to consumers that have signed up on this website and all affiliated website links and products. We may sell the personal information that you supply to us and we may work with other third party businesses to bring selected retail opportunities to our members via direct mail, email, telemarketing and SMS, together with ancillary offers, programs and services from those companies. These businesses may include providers of direct marketing services and applications, including lookup and reference, data enhancement, suppression and validation and email marketing.
 
-CA Web Designs has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: clickXchange.com. 
+Companies may collect nonpublic personal information from User in a variety of ways, including online forms for ordering products and services, and other instances where Users are invited to volunteer such information. The type of information we collect from consumers includes, but is not limited to: Name, Last Name, Address1, Address2, City, State, Zip Code, Phone Number, Email Address, IP Address, TimeDate Stamp and any information required to process an application to receive the product being offered within the site.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your shopping cart. 
+Companies may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We may use "cookies" to track how Users use our Web site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the Users should they visit the Web site again. While not all of the information that we collect from Users is nonpublic personal information, it may be associated with nonpublic personal information that Users provide us through our Web site.
 
-Our site uses cookies. Cookies are used to help screen fraudulent click thrus, keep track of shopping carts and member log in sessions. Our policy is you must accept cookies to become a member. No personally identifiable information is linked with our use of cookies. 
+This website, websites linking to this website, and websites linked from this website (collectively "We") may make available a service either directly or through the Parties by which you can receive messages on your wireless device via short message service ("SMS Service"). Your provider's standard data and messaging rates apply to all SMS correspondence. All charges are billed by and payable to your mobile service provider. You represent that you are 18 years of age and the owner or authorized user of the wireless device on which messages will be received, and that you are authorized to approve the applicable charges. Data obtained from you in connection with this SMS Service may include your name, address, cell phone number, your provider's name, and the date, time, and content of your messages. The use of this information will be in accordance with this Mobile Policy. If fees are charged to your wireless account invoice, we may provide your carrier with your applicable information in connection therewith. Your wireless carrier and other service providers may also collect data about your wireless device usage, and their practices are governed by their own policies. You acknowledge and agree that the SMS Service is provided via wireless systems which use radios (and other means) to transmit communications over complex networks. We will not be liable for any delays in the receipt of any SMS messages, as delivery is subject to effective transmission from your network operator. SMS message services are provided on an AS IS basis. We do not guarantee that your use of the SMS Service will be private or secure, and we are not liable to you for any lack of privacy or security you may experience. You are fully responsible for taking precautions and providing security measures best suited for your situation and intended use of the SMS Service. You may opt out of the SMS Service at any time by replying "STOP", "END", or "QUIT" to the SMS text message you have received. This process impacts only the future delivery of the particular SMS message offering, so you must send that message for each offering.
 
-Our site's registration forms require users to give us contact information such as their name and email address. Below is a breakdown of registration form's and information collected. 
+By accepting of the privacy policy and terms and conditions of this website (and any associated offers, contests, giveaways or other programs), and providing your telephone number, you are subscribing to a service that transmits information concerning various special product offers to subscribers using pre-recorded voice messages.
 
-AFFILIATE ONLY- Contact Name, Address, Email, Website Information, Social Security Number or EIN. (Social Security or EIN numbers for US affiliates are collected at time of withdrawal of commissions earned.) 
+By subscribing, you are expressly consenting to receive prerecorded telephone messages from Platinum Online Group, Firebrand Group, S.A., LLC, doing business as Worldwide Commerce Associates (“WCA”), and Education and Degree Partners, and the Parties that provide information concerning the availability of various goods and services. The calls you are agreeing to receive are solely descriptive in nature, and any goods or services described in the call are not sold by or through WCA. You are subscribing to receive calls only from WCA, and only at the specific number(s) you have provided to us. Your consent will be effective if the number you have provided is a home, business, or cell phone line, or if the number is registered on any state or federal Do-Not-Call (DNC) list as of the date of this consent. This consent shall remain in effect until you revoke your consent and cancel your subscription.
 
-ADVERTISER ONLY- Contact Name, Address, Email, Website Information and Credit Card Information. 
+**How We Use Information**  
+Companies collect nonpublic personal information from its Users in order to match Users with lenders and brokers. By submitting the application, Users consent to the disclosure of their nonpublic personal information to these lenders and brokers. The lenders and brokers may contact you directly after they receive your nonpublic personal information. Companies may also use information collected through our web site for research regarding the effectiveness of the web site and Company’s marketing and advertising efforts.
 
-ADVERTISER and AFFILIATE- Contact Name, Address, Email, Website Information ,Credit Card Information, Social Security Number or EIN. (Social Security or EIN numbers for US affiliates are collected at time of withdrawal of commissions earned.) 
+**Maintenance of Information & Security**  
+Information about Users that is maintained on our systems is protected using industry standard security measures that includes but is not limited to security measures in place to protect the loss, misuse and alteration of the information under our control. All data is protected using the most advanced methods available. We do not store financial information, credit card numbers or personal information like social security numbers on this Web site. However, due to the nature of the Internet, computer networks, systems and other factors, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure.
 
-The customer's contact information is used to contact the clickXchange member when necessary. Financial information that is collected is used to bill the user for services. Unique identifiers (such as social security numbers) are collected to verify the user's identity for tax purposes. All credit card information and Affiliate Social Security or EIN numbers are collected online via a secure and encrypted browser. Paypal is utilized to process deposits and withdraws. Email address and contact name is collected and shared for this purpose, yet the company does not retain share, store or use the information for any secondary purposes. 
+**Use of IP Addresses**  
+An IP (Internet Protocol) address is a number that is assigned to your computer when you use the Internet. Your IP address does not contain any nonpublic personal information about you. Companies collect IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to ensure the validity of customer requests.
 
-This site contains links to other sites. clickXchange.com is not responsible for the privacy practices or the content of such Web sites.   
-  
-  
-Security
+**Web Site Links**  
+This Web site may contain links to other Internet web sites. We are not responsible for the privacy practices or the content of such Internet web sites.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Though we make every effort to preserve your privacy we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. All critical customer information is password protected and only accessible by select members of the clickXchange.com staff. ClickXchange.com employee's are required to read and sign a legal agreement regarding security policies and practices. All sensitive information such as credit card numbers and Social Security/EIN numbers are collected via a secure and encrypted browser. We currently use Stronghold for browser security and Thawte for encryption. We check our security daily.   
-  
-  
-Choice/Opt-Out
+**Opt Out Notice and Opportunity to Opt-Out**  
+Companies may disclose nonpublic personal information about you the customer to nonaffiliated Parties, as previously described in this privacy policy. You have the right to opt out of this disclosure at any time before or after you submit nonpublic personal information. If you wish to opt out, please 
 
-Due to the monetary nature of our site, clickXchange.com reserves the right to contact users as needed. Any contact from clickXchange.com to it's members is strictly business related as we do not solicit our members. 
+1\. Click this link to electronically opt-out.
 
-This site gives users the following options for removing their information from our database to no longer receive our service. 
+OR 
 
-  1. You can send email to [admin@clickXchange.com](mailto:admin@clickxchange.com)
+2\. Please print a copy of the ad that you received and send it along with a letter indicating your desire to opt-out, to: 
 
-  
-  
-Correcting/Updating
+clickXchange Media   
+PO Box 515381 #36370  
+Los Angeles, CA 90051-6681  
+Remove my e-mail address from this advertisement.
 
-This site gives users the following options for changing and modifying information previously provided. 
+OR 
 
-  1. Visit [http://clickXchange.com/clickentryform.phtml?submit=ENTER](http://clickxchange.com/clickentryform.phtml?submit=ENTER)
+3\. By calling 800-269-0281 or 877-351-1154
 
-
-
-The above link brings the member to the member log in form. Each member is required to use their clickXchange.com account email and password to access their account information. Members have total control of updating and editing their account information from the clickXchange.com member area. It is the members responsibility to keep their account information current (i.e. email, address, any information that can change).   
-  
-  
-Notification of Changes
-
-If we decide to make a material change to our privacy policy, we will post a notice on our home page so that you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it.   
-  
-  
-Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: 
-
-_Bill Mansfield  
-clickXchange.com  
-3419 Via Lido #461  
-Newport Beach, CA 92663  
-admin@clickXchange.com  
-___  
-  
-Effective Date: 11.08.04  
-  
-
+4\. Send “STOP”, “END”, or “QUIT” to the SMS text message you have received and we will remove your personal information within 10 days of receiving such request. By completing or submitting a registration form or partial registration form you are consenting to receive SMS, wireless or other mobile offering to your cell phone. You understand that your wireless carrier's standard charges and rates apply to these messages. 
