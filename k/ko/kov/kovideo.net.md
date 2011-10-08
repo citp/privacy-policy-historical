@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520132725id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kovideo.net privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008040906id_/http%3A//www.kovideo.net/text-privacy-policy.html) for the most accurate reproduction.*
 
 # 
 
