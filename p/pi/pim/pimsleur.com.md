@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623225403id_/http%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pimsleur.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009010424id_/http%3A//www.simonandschuster.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Simon & Schuster
 
