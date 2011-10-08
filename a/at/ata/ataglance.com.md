@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508050406id_/http%3A//www.ataglance.com/ataglancestore/common/static.jsp%3FpageId%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ataglance.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008064305id_/http%3A//www.ataglance.com/ataglancestore/common/static.jsp%3FpageId%3DPrivacy) for the most accurate reproduction.*
 
 # Ataglance.com - Privacy & Security Notice
 
