@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the aliexpress.com privacy policy that was archived on 2010-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101112131203id_/http%3A//news.alibaba.com/article/detail/help/100103729-1-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliexpress.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008022037id_/http%3A//news.alibaba.com/article/detail/help/100453303-1-privacy-policy.html) for the most accurate reproduction.*
 
-# Alibaba Help
+# Safety & Security Center - Learn How to Enhance the Safety of Your Online Transactions
 
-**(Updated on  September 6, 2010)** ****
+## Privacy Policy
 
-This is the Privacy Policy governing your use of the Alibaba.com and Aliexpress.com sites (each a " **Site** ") and the collection, use, transfer and processing of your Collected Information by Alibaba.com Hong Kong Limited and those affiliates which provide the relevant Premium Services (collectively referred to as "Alibaba.com", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Use Agreement](http://news.alibaba.com/article/detail/help/100103727-1-terms-use.html) between you and Alibaba.com Hong Kong Limited which by use of this Site you agree to accept. 
+**(Updated on  March 5, 2011)**
+
+This is the Privacy Policy governing your use of the Alibaba.com and Aliexpress.com sites (each a " **Site** ") and the collection, use, transfer and processing of your Collected Information by Alibaba.com Hong Kong Limited and our affiliates (collectively referred to as "Alibaba.com", "we" or "us"). By using this Site, you consent to our Privacy Policy set out below. All terms not defined in this document have the meanings ascribed to them in the [Terms of Use Agreement](http://news.alibaba.com/article/detail/help/100103727-1-terms-use.html) between you and Alibaba.com which by use of this Site you agree to accept. 
 
 **The Information We Collect**
 
@@ -12,11 +14,11 @@ Registration Information: At the time you register to become a Registered User o
 
 Publishing Information: If you submit any information to Alibaba.com to be published on the Site through the publishing tools, including but not limited to Company Profile, Product Catalog, Trade Leads, TrustPass Profile and any discussion forum, then you are deemed to have given consent to the publication of such information (" **Publishing Information** "). 
 
-Payment Information: If you establish a credit account with us or our providers or if you purchase a product or service from Alibaba.com or other Registered Users of the Site or other vendors available through Alibaba.com, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders (" **Payment Information** "). 
+Payment Information: If you establish a credit account with us or our providers or if you purchase a product or service from Alibaba.com or other Registered Users of the Site or other vendors available through the Sites, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders (" **Payment Information** "). 
 
 Account Activities Information: We record and retain the records of your Account activities when you use the Alibaba.com services.  If you make sale and purchase transactions online through Alibaba.com’s web-based transaction platform including AliExpress services, we also collect information related to such transactions including the types and specifications of the goods, pricing and delivery information, any trade dispute records (“ **Account Activities Information** ”). 
 
-Statistical Information: In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions, unique visitors and so forth. (" **Statistical Information** "). 
+Statistical Information: In addition, we gather statistical information about our Site and Users, such as IP addresses, browser software, operating system, software and hardware attributes, pages viewed, number of sessions, unique visitors and so forth. (" **Statistical Information** "). 
 
 Registration Information: Publishing Information, Payment Information, Account Activities Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below), or from our affiliates or from other parties or through any other means, shall collectively be referred to as " **Collected Information** ".
 
@@ -24,7 +26,7 @@ Registration Information: Publishing Information, Payment Information, Account A
 
 General: We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you. We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us. We do not sell, rent, trade or exchange any personally-identifying information of our Users. We may provide your Collected Information to our affiliates and service providers under contract (such as customer care) to support the operation of the Site and our services. If you register or use services or products provided by our affiliates including Alipay, Taobao, China Yahoo!, we will share with each other your Collected Information including the information about your use of such affiliates’ services and products. We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message. Your Collected Information may be transferred, stored, used and processed outside your home jurisdiction. In case of a merger with or transfer of business to another business entity, we will transfer your Collected Information to the entity which acquires the business (Should such a combination occur, we will require that the new combined entity follow this Privacy Policy with respect to your Collected Information). 
 
-Registration Information: We may use your Registration Information to provide services that you request or to contact you regarding additional services about which Alibaba.com determines that you might be interested. Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions. 
+Registration Information: We may use your Registration Information to provide services that you request or to contact you regarding additional services about which Alibaba.com determines that you might be interested. Specifically, we may use your email address, mailing address, phone number, mobile number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site. We may generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions. 
 
 Publishing Information: All of your Publishing Information will be publicly available on the Site and therefore accessible by any internet user. Any Publishing Information that you disclose to Alibaba.com becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information. You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us. 
 
@@ -40,7 +42,7 @@ We may publish records of complaints and any penalties, actions or proceedings a
 
 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.
 
-If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to Alibaba or others.
+If we have reason to believe that a User is in breach of the Terms of Use or any other agreement with us, then we reserve the right to make public or otherwise disclose such User's Collected Information in order to pursue our claim or prevent further injury to Alibaba or others.
 
 **Co-Branded Relationships**
 
@@ -66,7 +68,7 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 **Changes to Privacy Policy**
 
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Alibaba.com in writing (at the address set out in the Notice provision of the [Terms of Use Agreement](http://news.alibaba.com/article/detail/help/100103727-1-terms-use.html)) and specifically request that Alibaba.com return and/or destroy all copies of all or part of your Collected Information in Alibaba.com's possession. 
+Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Alibaba.com in writing (at the address set out in the "Your Feedback" section below) and specifically request that Alibaba.com return and/or destroy all copies of all or part of your Collected Information in Alibaba.com's possession. 
 
 **Accessing and Correcting Your Information**
 
