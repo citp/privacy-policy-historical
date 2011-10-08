@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429004654id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008202019id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -10,9 +10,11 @@ Resort Finder
 Accessibility Guides  
 Inventory Specials  
 WorldMark Travel  
+TravelShare Offers  
 RCI Exchange  
 Vacation Forum  
 Online Learning Center  
+Online Reference Library  
 Publications & Newsletters  
 Owner to Owner Communication  
 Become an Owner  
