@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219032649id_/http%3A//www.virtualsports.com.au%3Fp%3Dhelp%26m%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualsports.com.au privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008061442id_/http%3A//www.virtualsports.com.au/content/help/maintablemiddle/privacy) for the most accurate reproduction.*
 
-# VirtualSPORTS 2010 | Play Dream Team Fantasy Sports FREE | The Leaders in Australasian Fantasy Sports
+# None
 
 The VirtualSPORTS Dream Team™ is committed to responsible management of your information and abides by all rules, both ethical and legal, with respect to the use of consumer information. We strictly adhere to all industry guidelines, and are continuously monitoring and enhancing how we manage the use and security of consumer information to uphold your rights. 
 
