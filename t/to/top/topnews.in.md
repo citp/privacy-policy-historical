@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623075516id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnews.in privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008203025id_/http%3A//www.topnews.in/privacy-policy-213209) for the most accurate reproduction.*
 
 # Privacy Policy | TopNews
 
@@ -21,6 +21,3 @@ In case, you need any information regarding any news item or article posted on o
 _Policy Updates_
 
 22, December, 2007: Added information regarding support ticket system. 
-
-  
-
