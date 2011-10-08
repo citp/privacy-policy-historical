@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsontianjin.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225104826id_/http%3A//www.whatsontianjin.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsontianjin.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008194738id_/http%3A//www.whatsontianjin.com/policy.php) for the most accurate reproduction.*
 
 # Policy - What's On Tianjin
 
