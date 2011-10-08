@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229124214id_/http%3A//otel.com/securityprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otel.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008040622id_/http%3A//www.otel.com/securityprivacy.php) for the most accurate reproduction.*
 
 # Site Security & Privacy - Otel.com
 
 ### Website Security
 
-Otel.com has the highest security measures as well as being a member of Verisign Security System and Authenticated Payment Program which has been developed by Visa-3D Secure Otel.com is proud to have applied a system complying with the PCI DSS standards as established by Visa and MasterCard. The PCI DSS lays out a set of comprehensive requirements for enhancing data security of the payment account which Otel.com has implemented.
+[](https://privacy-policy.truste.com/click-to-verify/www.otel.com "Privacy Policy by TRUSTe")
+
+* * *
+
+Otel.com has the highest security measures as well as being a member of Verisign Security System and Authenticated Payment Program which has been developed by Visa-3D Secure otel.com is proud to have applied a system complying with the PCI DSS standards as established by Visa and MasterCard. The PCI DSS lays out a set of comprehensive requirements for enhancing data security of the payment account which otel.com has implemented.
 
 Otel.com guarantees that the privacy and security of all personal and financial information shared by you, will be protected in compliance with the highest e-commerce security standards when exchanged over the internet.
 
@@ -38,15 +42,15 @@ Upon your initial visit to our site, otel.com will automatically set a cookie -a
 
 #### Links to Third Party Sites
 
-This website contains links to third-party websites. Otel.com's Privacy Policy does not apply to these sites, and otel.com makes no guarantees as to the privacy policy of any third party sites to which it contains links.
+This website contains links to third-party websites. otel.com's Privacy Policy does not apply to these sites, and otel.com makes no guarantees as to the privacy policy of any third party sites to which it contains links.
 
 #### Changes in Privacy Policy
 
 Otel.com may change its Privacy Policy at any time without notice. You agree that any information shared by you in relation to a booking is subject to the terms of the Privacy Policy in effect at the time of your most recent booking. If you have any questions or concerns regarding any provision of this policy, you are urged to contact us.
 
-Call Center
-
-  * Toll free : 1-888-210-2543
-  * International : +1-877-412-9427
+  * Toll free : +1 866 775 1466
+  * International : +1 866 775 1466
 
 
+
+[more](http://www.otel.com/callus.php)>>
