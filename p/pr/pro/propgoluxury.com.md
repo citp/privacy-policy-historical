@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propgoluxury.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513205710id_/http%3A//www.propgo.com/PrivatePolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propgoluxury.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008195223id_/http%3A//www.propgo.com/PrivatePolicy.aspx) for the most accurate reproduction.*
 
 # PropGO Privacy Policy
 
