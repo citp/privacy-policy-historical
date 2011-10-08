@@ -1,52 +1,33 @@
-> *The following text is extracted and transformed from the facebd.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009003111id_/http%3A//www.facebd.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebd.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008120118id_/http%3A//www.facebd.com/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Facebd
+# Privacy Policy « Facebd
 
-## Privacy Statement
+## FACEBD PRIVACY POLICY
 
-**Statement of Privacy and Information Usage Notice**
+Facebd is committed to providing an entertaining, fun and educational service. Facebd.com is a property of Face bd  “Facebd”. Facebd respects the privacy concerns of visitors to Facebd.com. Facebd does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
 
-Last Update - 2010 September 26, 11:29 PM (GMT +6:30)
+### Information we collect
 
-Our Privacy Policy is Designed to help you Understand how We Collect and Use Information. This Statement of Privacy ("Statement") is subject to change without any Notice or Announcement by our Team. Check this Privacy Statement Time to Time. For More Information or If You have any Problem Related this Statement Please Contact Us.
+We may log IP addresses and/or drop cookies and/or flash cookies to prevent abuse of our website and or to provide and or to enhance services. Email addresses of persons under 13 are not stored. They are encrypted into an unrecoverable format using a one way hash. Of those users who choose to register we collect date of birth, username, password and email address of users 13 years and older. For registered users non personal information may be collected related to use of the website and website services and activities such as high scores, game rankings, league rankings, game challenges, avatars, etc.
 
-  1.  **Information Collecting**
+### Information that is reasonably necessary
 
-We Do Not collect or store Any Information of Guests (Unregistered Users). We only Collecting Information and Storing from of Members (Registered Users). The information We Collect is Used to Improve the Content of Our Web Page, Used to Customize the Content and/or Layout of Our Page for Each Individual Visitor, Used to Notify Consumers about Updates to Our Web Site. We only Collect Following Information (Only If You Provided)
+Facebd does not require persons under 13 years of age to disclose any more information than is reasonably necessary to participate in the activity as a condition of participation.
 
-    1. Your Full Name (Frist Name and Last Name. Required)
-    2. Your Birthday (We autometically Calculating your Age. Required)
-    3. Internet Protocol Address (Autometically Recording to Avoid from Spam)
-    4. Your Gender (Male or Female. Required)
-    5. Interested In Infomation (Boys or Girls. Required)
-    6. Looking For Information (Friendship, Dating or Relationship. Required)
-    7. Your Relationship Status (Single, In a Relationship, Engaged, Married, Complicated, Open Relationship or Widowed. Not Required)
-    8. And Some More Contact and Personal Information
-  
+### How we use the information
 
-  2.  **Browser Cookies Usage**
+We do not retain any personal information beyond the time it is needed. We may use information to ensure that users are in compliance with our terms. Persons over 13 years of age authorize us to send them email notifications related to Facebd products and services including the Facebd Newsletter. Facebd may disclose information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with Facebd’s property, visitors, or anyone else that could be harmed by such activities.
 
-With Respect to Cookies, We use Cookies to Store Visitors Preferences, Record Session Information, Customize Web Page Content based on Visitor's Browser Type or other Information that the Visitor Sends. Here is Some of Cookie Information We Using.
+We may sometimes use non-personally identifiable information that we collect to improve the design and content of our website, to personalize our visitors’ experience or to offer products, programs and services. We may also use this information in the aggregate to analyze website usage, as well as to offer products, programs, or services.
 
-    1. Session Information (Live Support and FaceBD Chat)
-    2. User Last Update Time (Sessions and Accounts)
-    3. User Configurations (Chat, Session and Accounts)
-    4. Last Logged Email Address (To Easy the Login Program)
-    5. And Some of Other Informations Only
-  
+### Collection of Information and Third-Parties and Sponsors
 
-  3.  **Information Security**
+We do not disclose personally identifiable information of users under 13 years of age to third parties. We use DoubleClick and other third-party advertising companies to serve ads when you visit our website. These companies and Facebd may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this website and other websites about goods and services that may be of interest to you. Third parties and or Facebd may be placing and reading standard and or flash cookies on your browser and machine, or using web beacons to collect information on the website and in the course of ads being served. We may also share the anonymous information that we collect from you with our business partners or clients so that they may improve their services. Third parties such as advertisers, games companies and or developers may ask for information from you which would be governed by the privacy policy of those other companies in which case they should provide adequate disclosure of their privacy policies to you. We may use anonymous information that we collect from you to improve our services and or to help serve advertising to you. [You may manage or opt out of your flash cookies here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager06.html). You may manage or opt out of your standard cookies via your web browser and if you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp)
 
-With Respect to Security, We have Appropriate Security Measures in Place in Our Physical Facilities to Protect against the Loss, Misuse or Alteration of Information that We have Collected from You at Our Site. However, We dont have Any SSL Certificate yet to Encrypt Transferring Data. But, Transferred Data is Fully Encrypted to the Databases. Here is Your Job to Secure Your Information. If You have Any Problem Related this, Please Contact Us
+### Security
 
-    1. Don't write down your Information in an Unencrypted File, Memorize It or Writedown it in Encrypted File
-    2. Don't let Anyone watch you Enter your Private Information. Keep your Secrats Alone
-    3. Don't Enter your Information on a Computer you don't Trust. Use your Personal Computer
-    4. Use the Password for a Limited Time and Change It Periodically. Memorize It
+We have implemented appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-Please Contact Us If you have Any Further Questions or You think Your Account in FaceBD is Not Fully Protected (It seems other one Using It). We care Always. You can Reach us via Live Support. If Live Support Team is Offline, Leave a Message. After, We will Contact You Soon. Please Note, This Privacy Statement (Privacy Policy) is subject to Change without Any Notice or Announcement. Thank You for Reading our Privacy Statement.
+### Changes to this Privacy Policy
 
-
-
-
-Copyrights © 2010 FaceBD Social Community. All Rights Reserved
+This Privacy Policy is part of Facebd’s main Terms and Conditions which you agree to by accessing the Facebd.com website and/or services. You agree that Facebd may change this Privacy Policy and the main Facebd Terms and Conditions at any time. Our current Privacy Policy will be posted here: <http://www.facebd.com/privacy-policy/> which is part of our Terms and Conditions posted here: <http://www.facebd.com/terms-and-conditions/>. Our contact email for questions is [support@facebd.com](https://web.archive.org/web/20111008120118id_/http://www.facebd.com/privacy-policy/support@facebd.com).
