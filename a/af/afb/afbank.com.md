@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422120226id_/http%3A//afbank.com/security/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afbank.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008054725id_/https%3A//www.afbank.com/security/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy Statement || Armed Forces Bank, N.A.
 
