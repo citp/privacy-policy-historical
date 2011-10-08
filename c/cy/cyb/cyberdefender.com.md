@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513193431id_/http%3A//www.cyberdefender.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberdefender.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008105635id_/http%3A//www.cyberdefender.com/privacy_policy.html) for the most accurate reproduction.*
 
 # CyberDefender.com - Internet Security Software, PC Utilities, and Live PC Support Services
 
@@ -39,7 +39,7 @@ This information is sent only to CyberDefender with your approval, and it is sto
 
 We do not sell or otherwise provide any of this information to third parties and use it only to improve our products and offer better service to our customers. 
 
-For a complete list of the information we may collect, click [here](https://web.archive.org/web/20110513193431id_/http%3A//www.cyberdefender.com/012111_Client_Information_List.pdf).
+For a complete list of the information we may collect, click [here](https://web.archive.org/web/20111008105635id_/http%3A//www.cyberdefender.com/012111_Client_Information_List.pdf).
 
 In order to personalize our communications with you and to improve our products and services, we also may ask you to provide consumer satisfaction information and other information regarding your personal and professional interests, your experience with our products and services, and additional contact information. You have the option of choosing not to provide the information.
 
