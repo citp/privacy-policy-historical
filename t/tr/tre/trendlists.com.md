@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendlists.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201090057id_/http%3A//trendlists.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendlists.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008122908id_/http%3A//trendlists.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TrendLists.com - Editorially Reviewed Top Lists
 
