@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605061455id_/http%3A//www.dixons.co.uk/gbuk/Privacy-1069-theme.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dixons.co.uk privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008105703id_/http%3A//www.dixons.co.uk/gbuk/Privacy-1069-theme.html) for the most accurate reproduction.*
 
 # Privacy | Dixons |
 
