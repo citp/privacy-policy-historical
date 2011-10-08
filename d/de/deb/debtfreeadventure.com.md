@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the debtfreeadventure.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523055417id_/http%3A//www.debtfreeadventure.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtfreeadventure.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008131520id_/http%3A//www.debtfreeadventure.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
-## Privacy Policy for DebtFreeAdventure.com
+### For the Average Joe
 
-### For the Average Joe…
+The privacy of our visitors to DebtFreeAdventure.com is very important to us.  You would not enjoy your personal information being compromised and neither would we.  Therefore, if you subscribe to this website in any form, we will not spam you or sell your email address to anyone else. You can also unsubscribe at any time without any trouble or hassle.
 
-The privacy of our visitors to DFA is very important to us.  You would not enjoy your personal information being compromised and neither would we.  Therefore, if you subscribe to this website in any form, we will not spam you or sell your email address to anyone else. You can also unsubscribe at any time without any trouble or hassle.
+### For the Legal Beagle
 
-### For the Legal Beagle…
-
-The privacy of our visitors to DFA is of the utmost importance to us.  We also recognize that privacy of your personal information is important to you as well. Here is information on what types of personal information we receive and collect when you use and visit this website, and how we safeguard your information.  We never sell, give away, rent, or lease your personal information to third parties.  The following outlines our privacy policy. Please read this policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
+The privacy of our visitors to DebtFreeAdventure.com is of the utmost importance to us.  We also recognize that privacy of your personal information is important to you as well. Here is information on what types of personal information we receive and collect when you use and visit this website, and how we safeguard your information.  We never sell, give away, rent, or lease your personal information to third parties.  The following outlines our privacy policy. Please read this policy before using the site or submitting any personal information. By using the site, you accept the practices described here.
 
   * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
   * We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
@@ -32,7 +30,7 @@ We do use cookies to store information, such as your personal preferences when y
 
 ### Advertisers
 
-We also use third party advertisements on this website to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing Chicago real estate ads to someone in Chicago, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on this website to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing Chicago real estate ads to someone in Chicago, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites.)
 
 You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by using Internet security programs.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts.
 
@@ -50,7 +48,7 @@ This web site contains links to other external websites not owned by the owner o
 
 ### Contact Information
 
-If you have any questions or concerns please do not hesitate to contact us.
+If you have any questions or concerns please do not hesitate to [contact us](http://www.debtfreeadventure.com/contact/ "Contact").
 
 This privacy policy was updated in March of 2009.
 
