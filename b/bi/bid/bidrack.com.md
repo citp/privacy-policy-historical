@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidrack.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531075346id_/http%3A//www.bidrack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidrack.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008184522id_/http%3A//www.bidrack.com/privacy.html) for the most accurate reproduction.*
 
 # bidrack.com - The Fun Way To Save !
 
