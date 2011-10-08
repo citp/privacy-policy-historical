@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426001420id_/http%3A//www.dotwnews.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008191324id_/http%3A//www.dotwnews.com/Privacy.aspx) for the most accurate reproduction.*
 
 # DOTWNews.com - Home
 
