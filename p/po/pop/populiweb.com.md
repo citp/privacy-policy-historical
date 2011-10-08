@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902141110id_/http%3A//www.populiweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the populiweb.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008201517id_/http%3A//populiweb.com/privacy) for the most accurate reproduction.*
 
 # Populi - Privacy Notice
 
@@ -8,7 +8,7 @@ Populi has a comprehensive security and Privacy Policy (“Privacy Policy”) th
 
 ##### Information You Provide on the Site
 
-The only information You provide on the Site is on Our signup page, where You inform us if You wish to schedule a demo or receive Our newsletter. We store this information securely and use it solely for the purposes of replying to Your request for information from us. 
+The only information You provide on the Site is via A) Our “Sign Up” page, where You inform us if You wish to schedule a demo or receive Our newsletter and B) Our Data Migration Survey. We store this information securely and use it solely for the purposes of handling Your request for information from us. 
 
 We collect anonymous information on what Site pages You access or visit. This information is used to improve the Site’s content and usefulness. We do not share, sell, or otherwise distribute this information to other organizations for any reason, except under the following circumstances: 
 
@@ -58,4 +58,4 @@ In the event of acquisition of or merger with Populi, We may assign or transfer 
 
 #####  Terms of Service 
 
-This Privacy Policy is meant to be complementary to the **[www.populiweb.com/terms](https://web.archive.org/terms)**. 
+This Privacy Policy is meant to be complementary to the **[Terms of Service](https://web.archive.org/terms)**. 
