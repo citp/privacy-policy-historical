@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertymanthan.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615044219id_/http%3A//www.propertymanthan.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertymanthan.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008064231id_/http%3A//www.propertymanthan.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Property Manthan - Privacy Policy
 
@@ -72,14 +72,18 @@ You may instruct us to provide you with any personal information we hold about y
 
 You may instruct us not to process your personal data for marketing purposes by using your account communications preferences at any time. 
 
-**(9) Third party websites**
+**(9) Communication**
+
+If the Builder, Agent/Broker or any individual has provided their contact information for everyone to see then users can contact them at their request. 
+
+**(10) Third party websites**
 
 The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites. 
 
-**(10) Updating information**
+**(11) Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated. 
 
-**(11) Contact**
+**(12) Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the feedback form. 
