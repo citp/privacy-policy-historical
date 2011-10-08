@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chainreactioncycles.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504041401id_/http%3A//www.chainreactioncycles.com/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chainreactioncycles.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008055959id_/http%3A//www.chainreactioncycles.com/Information.aspx%3FTranslationLargeID%3D22) for the most accurate reproduction.*
 
 # Terms and Conditions
 
