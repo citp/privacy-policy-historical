@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513021643id_/http%3A//www.download3000.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download3000.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008155610id_/http%3A//www.download3000.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy statement - download3000.com
 
