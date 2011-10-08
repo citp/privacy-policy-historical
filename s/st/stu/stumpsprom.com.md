@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2010-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101208082019id_/http%3A//www.stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURE) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumpsprom.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008061912id_/http%3A//stumpsparty.com/servicepage.cfm%3Fpgp%3DSPSECURE) for the most accurate reproduction.*
 
 # Stumps Site Security
 
