@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the bengalspider.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212210255id_/http%3A//bengalspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bengalspider.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008071145id_/http%3A//bengalspider.com/general/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # BengalSpider.com privacy policy
-
-  
-  
-  
-  
-**Awards & Gifts**
-
-  
-  
-  
-| 
 
 * * *
 
@@ -55,41 +44,3 @@ If you would like to contact us about any information or privacy policy you can 
 Kochi. India**
 
 We would request you please provide us as much information as possible to resolve the issue. 
-
-|  [_Bidhan Sabha Election_](https://web.archive.org/forum/282-Bidhan-Sabha-Election-Contest-Bengal.aspx)  
-• [CPI(M) Leaders](https://web.archive.org/articles/CPIM+Leader.aspx)  
-• [TMC Leaders](https://web.archive.org/articles/TMC+Leader.aspx)  
-• [Congress Leaders](https://web.archive.org/articles/Congress+Leader.aspx)  
-• [BJP Leaders](https://web.archive.org/articles/BJP+Leader.aspx)  
-• [RSP Leaders](https://web.archive.org/articles/rsp+Leader.aspx)
-
-• [How to Earn Online?](https://web.archive.org/forum/83-How-earn-from-bengalspider-com.aspx)  
-Tips on Online Earning from this website www.BengalSpider.com
-
-• [Member Birthday List](https://web.archive.org/greetings/)  
-Send Gift, message to members on Bithday...
-
-• [Bangla MP3 Music](https://web.archive.org/articles/Bengali+Songs.aspx)  
-Rabindra Sangeet, Nazrul Geeti, Films & more... 
-
-• [Bangla Cinema](https://web.archive.org/articles/Bengali+Movies.aspx)  
-Watch Bengali Films Online & more... 
-
-• [Bengali Software](https://web.archive.org/articles/Bangla+Software.aspx)  
-Bangla Fonts, Dictionary, Keyboard, Translator & more... 
-
-• [Poems (Kabita)](https://web.archive.org/articles/Bengali+Poem.aspx)  
-Bangla Love Poems, Romantic Kabita & more... 
-
-• [Calendar 1417](https://web.archive.org/articles/Bangla+Calendar+1417.aspx)  
-Purnima, Amabasya, Ekadashi, Marriage, Festival dates... 
-
-• [Study Materials](https://web.archive.org/articles/Study+Material.aspx)  
-School, College, University Syllabus-wise Study Tips & Suggestions... 
-
-• [Question Papers](https://web.archive.org/resources/2876-Online-Question-Papers-School-College.aspx)  
-Try Sample & Model Question Papers or Download Solved Exam Papers of Bengal Institutions.
-
-  
-  
-
