@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321081354id_/http%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wormly.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008052116id_/https%3A//www.wormly.com/help/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Wormly
 
@@ -43,7 +43,7 @@ The information described in this Privacy Policy is stored on a number of secure
 
 We apply the same security policy to our entire server infrastructure, which is to make our best effort to maintain the integrity and security of these systems. We do this by following industry best practice with regard to systems architecture, software updates, server hardening and encryption.
 
-All communications within this distributed server infrastructure are secured using industry-standard 256-bit SSL encryption.
+All communications within this distributed server infrastructure are secured using industry-standard 128-bit or 256-bit SSL encryption.
 
 ## See Also
 
@@ -53,23 +53,3 @@ All communications within this distributed server infrastructure are secured usi
   * [Terms of Service](https://web.archive.org/help/about/terms-of-service)
 
 
-
-## Solution Spotlight
-
-[](https://web.archive.org/help/case-studies/case-study-sitepoint)
-
-Mark Harbottle from SitePoint said:
-
-“ _We chose Wormly because website uptime is crucial to our business … A slow or unreachable website translates directly into revenue lost._ ” 
-
-[See More Reviews »](https://web.archive.org/website_monitoring_reviews)
-
-## About Wormly
-
-**Wormly** monitors your website infrastructure to keep you online and performing fast.
-
-**Be Alert**. Stay in the loop with SMS, ICQ, MSN and email failure alerts.
-
-**Be Proactive**. Performance monitoring reveals problems before they cause downtime.
-
-**Exceptional Value**. With feature packed plans from [just $19 a month](https://web.archive.org/plans) you can afford the peace of mind that a professional uptime monitoring solution delivers.
