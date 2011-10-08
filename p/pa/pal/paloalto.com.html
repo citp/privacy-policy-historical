@@ -1,930 +1,831 @@
-<!--The following is the downloaded HTML source of the paloalto.com privacy policy that was archived on 2008-05-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080512004635id_/http%3A//www.paloalto.com/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paloalto.com privacy policy that was archived on 2011-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111009014527id_/http%3A//www.paloalto.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-
-
-
-
-<script language="JavaScript" type="text/javascript">
-<!--
-// -----------------------------------------------------------------------------
-// Globals
-// Major version of Flash required
-var requiredMajorVersion = 8;
-// Minor version of Flash required
-var requiredMinorVersion = 0;
-// Minor version of Flash required
-var requiredRevision = 0;
-// the version of javascript supported
-var jsVersion = 1.0;
-// -----------------------------------------------------------------------------
-// -->
-</script>
-<script language="VBScript" type="text/vbscript">
-<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
-Function VBGetSwfVer(i)
-  on error resume next
-  Dim swControl, swVersion
-  swVersion = 0
-  
-  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
-  if (IsObject(swControl)) then
-    swVersion = swControl.GetVariable("$version")
-  end if
-  VBGetSwfVer = swVersion
-End Function
-// -->
-</script>
-<script language="JavaScript1.1" type="text/javascript">
-<!-- // Detect Client Browser type
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
-var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
-jsVersion = 1.1;
-// JavaScript helper required to detect Flash Player PlugIn version information
-function JSGetSwfVer(i){
-	// NS/Opera version >= 3 check for Flash plugin in plugin array
-	if (navigator.plugins != null && navigator.plugins.length > 0) {
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-      		var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
-			descArray = flashDescription.split(" ");
-			tempArrayMajor = descArray[2].split(".");
-			versionMajor = tempArrayMajor[0];
-			versionMinor = tempArrayMajor[1];
-			if ( descArray[3] != "" ) {
-				tempArrayMinor = descArray[3].split("r");
-			} else {
-				tempArrayMinor = descArray[4].split("r");
-			}
-      		versionRevision = tempArrayMinor[1] > 0 ? tempArrayMinor[1] : 0;
-            flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
-      	} else {
-			flashVer = -1;
-		}
-	}
-	// MSN/WebTV 2.6 supports Flash 4
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
-	// WebTV 2.5 supports Flash 3
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
-	// older WebTV supports Flash 2
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
-	// Can't detect in all other cases
-	else {
+<!DOCTYPE html><html><head>
+		<meta charset="utf-8"> 
 		
-		flashVer = -1;
-	}
-	return flashVer;
-} 
-// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
-function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision) 
-{
- 	reqVer = parseFloat(reqMajorVer + "." + reqRevision);
-   	// loop backwards through the versions until we find the newest version	
-	for (i=25;i>0;i--) {	
-		if (isIE && isWin && !isOpera) {
-			versionStr = VBGetSwfVer(i);
-		} else {
-			versionStr = JSGetSwfVer(i);		
-		}
-		if (versionStr == -1 ) { 
-			return false;
-		} else if (versionStr != 0) {
-			if(isIE && isWin && !isOpera) {
-				tempArray         = versionStr.split(" ");
-				tempString        = tempArray[1];
-				versionArray      = tempString .split(",");				
-			} else {
-				versionArray      = versionStr.split(".");
-			}
-			versionMajor      = versionArray[0];
-			versionMinor      = versionArray[1];
-			versionRevision   = versionArray[2];
+		<meta name="description" content="">
+					<title>Privacy Policy - Palo Alto Software</title> 
+		
+		
+		<meta name="author" content="Palo Alto Software"> 
+		<link rel="shortcut icon" href="http://pas-paloalto-assets.s3.amazonaws.com/img/page/favicon.ico">
+		
+				
+				
+		<link rel="stylesheet" href="/minicache/1318008561b9e28a594566698339f1fb238b1c9cb6.css">
+
+				
+		<link rel="canonical" href="http://www.paloalto.com/privacy">
+
+					<script>
+				var GAM = GAM || [];
+				GAM.customVariables = GAM.customVariables || [];
+				GAM.customVariables.push([3,'coupon','paspr40ab', 2]);
+			</script>
+				
+		
+		
+		<script src="http://www.secureplan.com/ga/gaManager.js"></script>
+	</head> 
+	
+	<body class="privacy guest">
+
+		<div id="body" class="pngBg">
+		
 			
-			versionString     = versionMajor + "." + versionRevision;   // 7.0r24 == 7.24
-			versionNum        = parseFloat(versionString);
-        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
-			if ( (versionMajor > reqMajorVer) && (versionNum >= reqVer) ) {
-				return true;
-			} else {
-				return ((versionNum >= reqVer && versionMinor >= reqMinorVer) ? true : false );	
-			}
-		}
-	}	
+
+
+	
+
+	
+	<header id="site-header">
+		<style>
+#site-header {padding-top:10px;}
+#site-logo {
+background-position: 0px -255px;
+width: 194px;
+height: 34px;
+margin-bottom:0;
 }
-// -->
+#site-header aside{width:auto;height:40px;}
+#site-header #site-header-products aside {
+width: 170px;
+padding: 20px 0 20px 20px;
+float: right;
+background: #EBF0F5;
+height: 236px;
+}
+#site-header aside article{
+width:auto;
+height:26px;
+border-right:1px solid #EEEEEE;
+padding:0 10px;
+float:right;
+}
+#site-header-cart a {font-size:14px;}
+#site-header aside article#site-header-secure{margin-top:-5px;}
+</style>
+			<a id="site-logo" class="ir pngBg" href="/">Palo Alto Software</a>
+			<aside class="clearfix">
+				<article id="site-header-secure">
+				 	<a class="secure new-window" href="https://www.mcafeesecure.com/RatingVerify?ref=store.paloalto.com"><img width="65" height="37" src="http://images.scanalert.com/meter/store.paloalto.com/55.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+				</article>
+				<article id="site-header-shipping">
+					<div id="site-header-cart-free-shipping" class="ir">free shipping</div>
+				</article>
+				<article id="site-header-cart">
+					<a href="http://store.paloalto.com/checkout/cart/">
+						<div id="site-header-cart-logo"></div>
+						Shopping Cart
+					</a>
+				</article>
+			</aside>
+
+
+<script>
+	var _gaq= _gaq || []; _gaq.push(['_trackEvent', 'tests', 'paloalto_header', 'header_c' , 1]);
 </script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-	
-	
 		
-			<title>Privacy Statement - Palo Alto Software, Inc.</title>
+		<nav class="pngBg">
+			<ul id="site-header-nav-main-ul">
+				<li id="site-nav-home" class="site-header-nav-main-li"><a href="/" class="ir site-header-nav-main-a">Home</a></li>
+				<li id="site-nav-products" class="site-header-nav-main-li ">
+					<a class="ir site-header-nav-main-a" href="/products">Products</a>
+					<div id="site-header-products" style="display:none;">
+						<div id="site-header-products-header">
+							<a href="/products">
+								<h3>Select a product...</h3>
+								<h4>View All Products »</h4>
+							</a>
+						</div>
+						<aside>
+							<h4>Solutions for</h4>
+							
+<ul class="none">
+<li><a href="/products/solutions/government/">Government</a></li>
+<li><a href="/products/solutions/education/">Students &amp; Faculty</a></li>
+<li><a href="/products/solutions/nonprofit/">Nonprofit</a></li>
+<li class="last"><a href="/products/solutions/enterprise/">Enterprise</a></li>
+</ul>
+
+							<h4>Product Categories</h4>
+							<ul id="products-main-nav-cats" class="nav_categories">
+	<li><a href="/products/category/business_planning">
+								Business Planning
+							</a></li>
+	<li><a href="/products/category/business_plan_software">
+								Business Plan Software
+							</a></li>
+	<li><a href="/products/category/marketing">
+								Marketing
+							</a></li>
+	<li><a href="/products/category/start_a_business">
+								Start a Business
+							</a></li>
+	<li><a href="/products/category/legal_and_taxes">
+								Legal and Taxes
+							</a></li>
+</ul>
+
+							<ul style="margin-top:-0.9em;">
+								<li>
+									<a href="/products/online_business_plan_software">
+										Online Business Planning
+									</a>
+								</li>
+								<li>
+									<a href="/support/i_want_to/upgrade">
+										Upgrade Software
+									</a>
+								</li>
+							</ul>
+						</aside>
+						<article class="upper">
+							<a href="/business_plan_software/">
+								
+									<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-boxshots-original-bpp12_premier_left-70x112.png" alt="business plan pro premier" width="70" height="112">
+										
+								
+									<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-icons-most_popular-50x50.png" alt="most popular" style="margin: 65px -50px 0px -80px;" width="50" height="50">
+												
+							</a>
+							<h4>
+								<a href="/business_plan_software/">
+									Business Plan Pro Premier
+								</a>
+							</h4>
+							<p>Everything to write your business plan, plus additional tools for managing your business.</p>
+							<ul>
+								<li><a href="/business_plan_software/compare/">Compare</a></li>
+								<li><a href="https://store.paloalto.com/cart/cart.cfm?i=BPPRUS~~&amp;t=paspr40ab">Buy Now</a></li>
+								<li class="last"><a href="/business_plan_software/features/premier/">Premier Features</a></li>
+							</ul>							
+						</article>
+						<article class="upper">
+							<a href="/business_plan_software/">
+								
+									<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-boxshots-original-bpp12_complete_left-70x112.png" alt="business plan pro" width="70" height="111">
+													
+							</a>
+							<h4><a href="/business_plan_software/">Business Plan Pro</a></h4>
+							<p>Easy business plan software to help you get your business plan done.</p>
+							<ul>
+								<li><a href="/business_plan_software/compare">Compare</a></li>
+								<li><a href="https://store.paloalto.com/cart/cart.cfm?i=BPSTUS~~&amp;t=paspr40ab">Buy Now</a></li>
+								<li class="last"><a href="/business_plan_software/reviews">Reviews</a></li>
+							</ul>
+						</article>
+						<article>
+							<a href="/sales_and_marketing_plan_software/">
+								
+									<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-boxshots-original-smp_left-70x111.png" alt="sales and marketing pro" width="70" height="110">
+													
+							</a>
+							<h4><a href="/sales_and_marketing_plan_software/">Sales and Marketing Pro</a></h4>
+							<p>Simple software to create a marketing plan, increase sales, and grow your business.</p>
+							<ul>
+								<li><a href="/sales_and_marketing_plan_software/">Learn More</a></li>
+								<li><a href="https://store.paloalto.com/cart/cart.cfm?i=SMPRUS~~&amp;t=paspr40ab">Buy Now</a></li>
+								<li class="last"><a href="/sales_and_marketing_plan_software/features/expert_guidance">Features</a></li>
+							</ul>							
+						</article>
+						<article>
+							<a href="/products/email_center_pro">
+								
+									<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-boxshots-ecp-reflected-70x98.png" alt="email center pro" width="70" height="97">
+											
+							</a>
+							<h4><a href="/products/email_center_pro">Email Center Pro</a></h4>
+							<p>Email management for customer service teams.</p>		
+							<ul>
+								<li><a href="/products/email_center_pro">Learn More</a></li>
+								<li class="last"><a href="http://www.emailcenterpro.com/pricing.php">Free 14-day trial</a></li>
+							</ul>
+						</article>
+					</div>
+				</li>
+				<li id="site-nav-support" class="site-header-nav-main-li "><a href="/support" class="ir site-header-nav-main-a">Support</a>
+					<div id="site-header-support" style="display:none;">
+						<ul id="site-header-support-want">
+							<li class="first"><h4>I want to...</h4></li>
+							<li><a href="/support/i_want_to/locate_my_serial">Locate my serial</a></li>
+							<li><a href="/support/i_want_to/register_my_software">Register my software</a></li>
+							<li><a href="/support/i_want_to/download">Download</a></li>
+							<li><a href="/support/i_want_to/upgrade">Upgrade my software</a></li>
+						</ul>
+						<ul id="site-header-support-other">
+							<li><a href="/support/hardware_requirements">Hardware Requirements</a></li>
+							<li><a href="/support/specialist_line">Specialist Line</a></li>
+							<li><a href="/support/training">Training Videos</a></li>
+							<li><a href="/support/knowledge_base">Knowledge Base</a></li>
+						</ul>
+					</div>
+				</li>
+				<li id="site-nav-about-us" class="site-header-nav-main-li "><a href="/about_us" class="ir site-header-nav-main-a">About Us</a>
+					<ul class="sub_nav" style="display:none;">
+						<li class="sub_level_0"><a href="/about_us/leadership/">Leadership</a></li>
+						<li class="sub_level_0"><a href="/about_us/careers/">Career Opportunities</a></li>
+						<li class="sub_level_0"><a href="/about_us/press_releases/">Press Releases</a></li>
+						<li class="sub_level_0"><a href="/about_us/media_relations/">Media Relations</a></li>
+						<li class="sub_level_0 last"><a href="/about_us/blog/">Blog</a></li>
+					</ul>
+				</li>
+				<li id="site-nav-contact-us" class="site-header-nav-main-li "><a href="/contact_us" class="ir site-header-nav-main-a">Contact Us</a>
+					<ul class="sub_nav" style="display:none;">
+						<li class="sub_level_0"><a href="/contact_us/customer_service/">Customer Service</a></li>
+						<li class="sub_level_0"><a href="/contact_us/technical_support/">Technical Support</a></li>
+						<li class="sub_level_0"><a href="/contact_us/marketing/">Marketing</a></li>
+						<li class="sub_level_0"><a href="/contact_us/sales/">Sales</a></li>
+						<li class="sub_level_0 last"><a href="/contact_us/general_inquiries/">General Inquiries</a></li>
+					</ul>
+				</li>
+			</ul>
 			
-		
-		
-			<meta name="description" content="Award winning business plan software and marketing plan software. Includes sample business plans to help you create a winning business plan.">	
 			
-		
-		
-			<meta name="keywords" content="business plan, business plans, marketing plan, marketing plans, sample plans, business plan software, planning software, web strategy, Palo Alto Software, business plan pro, how to write a business plan">
+			
+			<a id="live-chat-link" href="http://livechat.boldchat.com/aid/2143073125810068162/bc.chat?cwdid=20828178386213743&amp;wdid=3849046626977769449&amp;rdid=1222442513972420363&amp;url=http://www.paloalto.com/" onclick="window.open('http://livechat.boldchat.com/aid/2143073125810068162/bc.chat?cwdid=20828178386213743&amp;wdid=3849046626977769449&amp;rdid=1222442513972420363&amp;url=' + escape(document.location.href), 'Chat4064557795450206543', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');return false;">Live Chat</a>
+
+		<form id="site-search" action="/search/index" method="get" name="sitesearch" class="pngBg">
+			<input type="text" name="q" placeholder="Search site" value="" class="pngBg" id="site-search-input" autocomplete="off">
+			<a class="ir pngBg" href="javascript:document.sitesearch.submit();"></a>
+		</form>
+
+	</nav>
+</header>
+
+<div id="page" class="clearfix pngBg">
+	
+	
+	
+
+	<menu id="breadcrumbs">
+	<ul>
+		<span class="last"><li>Privacy</li></span>
+	</ul>
+</menu>
+
+	<section id="page-content">
+				<h1>
+							Privacy
+					</h1>
+					<div class="details"><p>
+	Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for paloalto.com, which is owned and operated by Palo Alto Software, Inc.</p>
+</div>
+									<p>
+	<a class="new_window" href="http://www.truste.org/ivalidate.php?url=www.paloalto.com&amp;sealid=101"> <img align="right" alt="TRUSTe: Click to Verify" border="0" src="http://cache.paswebteam.com/paloalto.com/graphical/images/icons/clickseal.gif"> </a></p>
+<p>
+	<a class="new_window" href="http://www.bbbonline.org/cks.asp?id=1296000303"> <img align="right" border="0" src="http://pas-paloalto-assets.s3.amazonaws.com/img/external_org/bbb.png" style="padding:10px"> </a></p>
+<p>
+	TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
+<p>
+	By displaying the TRUSTe trustmark, this website has agreed to notify you of:</p>
+<ul>
+	<li>
+		What personally identifiable information of yours or a third party is collected through the website.</li>
+	<li>
+		The organization collecting the information.</li>
+	<li>
+		How the information is used.</li>
+	<li>
+		With whom the information may be shared.</li>
+	<li>
+		What choices are available to you regarding collection, use and distribution of the information.</li>
+	<li>
+		The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Palo Alto Software control.</li>
+	<li>
+		How you can correct any inaccuracies in the information.</li>
+</ul>
+<p>
+	If you have questions or concerns regarding this statement, you should first contact the site coordinator by sending an email to <a href="mailto:customerservice@paloalto.com">customerservice@paloalto.com</a>. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="http://www.truste.com/?page=complaint">TRUSTe</a>. TRUSTe will then serve as a liaison with the website to resolve your concerns.</p>
+<p>
+	Palo Alto Software, Inc. collects personal information about our users only during the secure order process, the registration process for our business planning newsletter, the registration process for our affiliate program, or if you request other information sent to you. We collect name, email address, shipping address, credit card company, credit card number, expiration date, and credit card billing address. For the affiliate program, we additionally collect US tax ID, banking information for funds transfer, company name, and information about your web site. This is all kept strictly confidential. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else.</p>
+<p>
+	We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate such as usage and volume statistics in order to customize our interface for improved usability. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests. In the case that you choose not to accept cookies or if your browser automatically does not accept cookies, the only part of our site that will not work for you is the membership registration process. Without cookies enabled, it is not possible to register for our planning tools.</p>
+<p>
+	Palo Alto Software, Inc. respects your right to privacy. We have a strict policy of not selling our customers' email addresses and are completely anti-spam. Our online store is completely secure and VeriSign has authenticated us as a secure site.</p>
+<p>
+	Palo Alto Software, Inc. works with a number of third-party websites through affiliate agreements and website co-brands. If you access our site through a co-branded site that features both the Palo Alto Software logo and third-party website you are on a co-branded page. Palo Alto Software hosts these co-branded sites, and at that time you are subject to our privacy policy. No personally identifiable customer information is ever shared with these third party sites that you came from to access our co-branded sites. What you've done on their sites prior to accessing the co-branded site falls under their privacy policy, which we encourage you to review. Once you reach the co-branded site that includes our logo, you are now within our privacy guidelines.</p>
+<p>
+	Palo Alto Software uses clear gif images on our site. These images are small clear images that can't actually be seen on the site, thus making them invisible.</p>
+<p>
+	These images are used for three purposes:</p>
+<ul>
+	<li>
+		We use the images for spacing and page layout on the page. This helps the page be more readable and attractive.</li>
+	<li>
+		We use the images to help with our stats provider to track users movements throughout the site. This tracking is not personally identifiable, so each user's data is anonymous. We use this information to improve our site for our visitors by changing navigation and site structure to let users more easily find what they're looking for.</li>
+	<li>
+		We use the image in HTML e-mails to alert us that a user has opened the e-mail. This is used as a tracking method only, and again, it is not personally identifiable so users remain anonymous. If you are subscribed to our e-mails and wish to opt-out, send an e-mail to <a href="mailto:customerservice@paloalto.com">customerservice@paloalto.com</a> with the word REMOVE in the message or subject.</li>
+</ul>
+<p>
+	Palo Alto Software will not disclose to any third party any information or data submitted by Users of this web site, without the User's prior permission, unless Palo Alto Software has a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; or (b) protect and defend the rights or property of Palo Alto Software.</p>
+<p>
+	Palo Alto Software, Inc. has a Live Operator option available on our websites which allow you to talk one-on-one with a Palo Alto Software customer service representative. In order to initiate a chat, you must provide your name and email address which will be available to our representative for the duration of the live chat. Once the chat has been completed, we no longer have access to your name or email address.</p>
+<p>
+	Downloaded Software: The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site.</p>
+<p>
+	You will be notified of any significant privacy statement updates or if we change the way we collect or use personally identifiable information through email, then wait for your consent. We have measures in place to protect your personally identifiable information. Our employees are made aware of these measures when they start working at Palo Alto Software, Inc. Any time there is a change in security measures, all employees are notified of the change. We are using SSL (Secure Socket Layer) encryption for your credit card transactions, and we are authorized by VeriSign. We do share your credit card information with a third party only for verification purposes. All customer information available to internal employees is only accessible on our internal company network.</p>
+<p>
+	The data we collect is used in the aggregate to give us demographic information about the entire Palo Alto Software, Inc. audience in order to improve our products and services. The information you provide -- name, address, etc. -- allows us to keep you informed about upgrades, products and services of Palo Alto Software, Inc., its affiliates and other third parties that we believe may be of interest to you. If you are a registered user of one of our products, we will only send information regarding your product or any assistance you require. We do not send our business planning newsletter automatically: you will only receive it if you specifically register for it. We only share aggregate information (i.e. number of users, referral URLs, etc.) -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising.</p>
+<p>
+	The data we collect from users who sign up for our affiliate program is used to correspond regarding the affiliate program, to send checks for affiliate payments, to initiate bank transfers for affiliate payments, to send email updates regarding the affiliate program, and to send evaluation products to affiliate program members. We communicate with our users only if you buy a product, sign up for our planning newsletter, or sign up for our free membership to use one of our planning tools. In each case, you will receive our bi-weekly planning newsletter. If you buy a product, you will receive a confirmation email, and have the choice if you'd like to receive further product offer emails. If you sign up for our free membership, you will receive a login information email, and future product offer emails.</p>
+<p>
+	Users have the opportunity to opt-out from receiving these emails by directly replying to the email stating that they wish to opt-out, or by emailing <a href="mailto:customerservice@paloalto.com">customerservice@paloalto.com</a> or calling 1-800-229-7526 and letting us know that you wish to opt-out of our emails.</p>
+<p>
+	Palo Alto Software, Inc. also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users, however, we do encourage you to review their privacy policies. We do not provide these sites with your information.</p>
+<p>
+	Palo Alto Software, Inc. uses reasonable precautions to keep the personal information disclosed to us secure. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. In the event of unauthorized use of your credit card, Palo Alto Software will cover your liability up to $50 provided that the unauthorized use of your credit card resulted through no fault of your own from purchases made at Palo Alto Software while using the secure server. Please note: This guarantee only applies to purchases made using our secure server. You must notify your credit card provider of any unauthorized use. Most banks either cover all the charges that result from the unauthorized use or may limit your liability to just $50.</p>
+<p>
+	If you would like to modify, update or delete information that is collected through ordering, or registration please contact <a href="mailto:customerservice@paloalto.com">customerservice@paloalto.com</a> or call 1-800-229-7526.</p>
+<p>
+	Legal Disclaimer: We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.</p>
+<p>
+	If you have questions, we can be reached by email at <a href="mailto:customerservice@paloalto.com">customerservice@paloalto.com</a> or direct them to the Palo Alto Software, Inc. site coordinator at <a href="mailto:noah@paloalto.com">noah@paloalto.com</a></p>
+<p>
+	Effective Date: 02/01/08</p>
+<p>
+	<strong>Palo Alto Software</strong><br>
+	488 East 11th Avenue, Ste 220<br>
+	Eugene, OR 97401<br>
+	541-683-6162</p>
+
+				<hr>
+
+
+
+
+
+
+	<figure id="page-content-banner" class="pngBg banner-560x113">
+					<a id="page-content-banner-a" href="/products/all_products">
+							
+				<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-s3-amazonaws-com--1292542509-package-93x93.png" alt="" width="93" height="93">
+			
+							<h2>Free shipping!</h2>
+									<p>
+	On all physical products plus FREE extended downloads on all software!</p>
+
+							</a>
+			</figure>
+
+
+
+
+	</section>
+	<aside id="page-content-aside" class="contact">
+
+
+
+	
+		<h2>Policy Contact</h2>
+					<p>
+	<strong>Noah Parsons</strong></p>
+<p>
+	noah@paloalto.com</p>
+<p>
+	541-683-6162</p>
+
+			
+	
+
+
+
+	</aside>
+
+	
+	
+		</div>
+		<div id="page-bottom" class="pngBg"></div>
+		<footer id="site-footer-page" class="clearfix">
+
+	<figure class="social-media-horizontal social-media-blue" style="width:500px;margin-bottom:20px">
+		<div class="addthis_toolbox addthis_default_style">
+			<a class="addthis_button_facebook_like" fb:like:layout="button_count" fb:like:href="http://www.facebook.com/bplans"></a>
+			<a class="addthis_button_google_plusone" g:plusone:size="medium"></a>
+			<a href="http://twitter.com/bplans" class="twitter-follow-button" style="float:right" data-width="200px">Follow @bplans</a>
+			<script type="IN/Share" data-counter="right"></script>
+		</div><!-- END .addthis_toolbox -->
+	</figure><!-- END .social-media-vertical -->
+
+	<aside id="site-footer-shopping">
+		<p>We make shopping</p>
+		<h6 class="af">Safe, Secure, Easy</h6>
+		<a id="site-footer-shopping-verisign" href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=store.paloalto.com&amp;lang=en" class="new-window ir">
+			verisign security
+		</a>
+		<p>
+			<span id="site-footer-shopping-person"></span> 
+			<a href="http://livechat.boldchat.com/aid/2143073125810068162/bc.chat?cwdid=20828178386213743&amp;wdid=3849046626977769449&amp;rdid=1222442513972420363&amp;url=http://www.paloalto.com/" class="new-window">
+				Click for Live Chat
+			</a>
+		</p>
+		<p>
+			<span id="site-footer-shopping-phone"></span> 
+							Call 1-800-229-7526
+					</p>
+	</aside>
+	<nav>
+		<ul>
+			<li>
+				<a href="/products/">
+					Products
+				</a>
+				<ul>
+					<li class="sub_level_0">
+						<a href="/products/">
+							All Products
+						</a>
+					</li>
+					<li class="sub_level_0">
+						<a href="/business_plan_software/">
+							Business Plan Pro
+						</a>
+					</li>
+					<li class="sub_level_0">
+						<a class="new-window" href="http://www.liveplan.com">
+							Business Planning Online
+						</a>
+					</li>
+					<li class="sub_level_0">
+						<a href="/sales_and_marketing_plan_software/">
+							Sales and Marketing Pro
+						</a>
+					</li>
+					<li class="sub_level_0">
+						<a href="/products/email_center_pro/">
+							Email Center Pro
+						</a>
+					</li>
+					<li class="sub_level_0">
+						<a href="/products/solutions/">
+							Solutions
+						</a>
+					</li>
+					<li class="sub_level_0">
+						<a href="/sample_business_plans/">
+							Free Sample Plans
+						</a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<a href="/support/">Support</a>
+				
+<ul>
+<li class="sub_level_0"><a href="/support/i_want_to/">I want to...</a></li>
+<li class="sub_level_0"><a href="/support/hardware_requirements/">Hardware Requirements</a></li>
+<li class="sub_level_0"><a href="/support/specialist_line/">Specialist Line</a></li>
+<li class="sub_level_0"><a href="/support/training/">Training Videos</a></li>
+<li class="sub_level_0"><a href="/support/knowledge_base/">Knowledge Base</a></li>
+</ul>
+
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<a href="/about_us/">About Us</a>
+				
+<ul>
+<li class="sub_level_0"><a href="/about_us/leadership/">Leadership</a></li>
+<li class="sub_level_0"><a href="/about_us/careers/">Career Opportunities</a></li>
+<li class="sub_level_0"><a href="/about_us/press_releases/">Press Releases</a></li>
+<li class="sub_level_0"><a href="/about_us/media_relations/">Media Relations</a></li>
+<li class="last sub_level_0"><a href="/about_us/blog/">Blog</a></li>
+</ul>
+
+			</li>
+		</ul>
+		<ul>
+			<li>
+				<a href="/contact_us/">Contact Us</a>
+				
+<ul>
+<li class="sub_level_0"><a href="/contact_us/customer_service/">Customer Service</a></li>
+<li class="sub_level_0"><a href="/contact_us/technical_support/">Technical Support</a></li>
+<li class="sub_level_0"><a href="/contact_us/marketing/">Marketing</a></li>
+<li class="sub_level_0"><a href="/contact_us/sales/">Sales</a></li>
+<li class="last sub_level_0"><a href="/contact_us/general_inquiries/">General Inquiries</a></li>
+</ul>
+
+			</li>
+		</ul>
+	</nav>
+</footer>
+		<div id="body-push"></div>
+	</div>
+	
+	<footer id="site-footer-full" class="clearfix">
+	<div id="site-footer-full-inside">
+		<section id="site-footer-full-internal">
+			<figure id="country-selector">
+				<a href="#" id="country-selector-trigger">
+					
+						<img src="http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_usa-0x20.png" alt="US" id="country-selected-img" width="20" height="20">
+					
+					Choose your country
+				</a>
+				<ul style="display: none;">
+					
 						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="AU:AUD">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_australia-0x20.png) center center no-repeat;" alt="Australia" width="20" height="20">
+									
+									Australia
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="BR:BRL">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_brazil-0x20.png) center center no-repeat;" alt="Brazil" width="20" height="20">
+									
+									Brazil
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="CA:CAD">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_canada-0x20.png) center center no-repeat;" alt="Canada" width="20" height="20">
+									
+									Canada
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="CN:CNY">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_china-0x20.png) center center no-repeat;" alt="China" width="20" height="20">
+									
+									China
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="HK:HKD">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_hong_kong-0x20.png) center center no-repeat;" alt="Hong Kong" width="20" height="20">
+									
+									Hong Kong
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="IN:INR">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_india-0x20.png) center center no-repeat;" alt="India" width="20" height="20">
+									
+									India
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="MY:MYR">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_malaysia-0x20.png) center center no-repeat;" alt="Malaysia" width="20" height="20">
+									
+									Malaysia
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="MX:MXN">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_mexico-0x20.png) center center no-repeat;" alt="Mexico" width="20" height="20">
+									
+									Mexico
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="NZ:NZD">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_new_zealand-0x20.png) center center no-repeat;" alt="New Zealand" width="20" height="20">
+									
+									New Zealand
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="NG:NGN">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_nigeria-0x20.png) center center no-repeat;" alt="Nigeria" width="20" height="20">
+									
+									Nigeria
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="PR:USD">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_puerto_rico-0x20.png) center center no-repeat;" alt="Puerto Rico" width="20" height="20">
+									
+									Puerto Rico
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="SA:SAR">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_saudi_arabia-0x20.png) center center no-repeat;" alt="Saudi Arabia" width="20" height="20">
+									
+									Saudi Arabia
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="SG:SGD">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_singapore-0x20.png) center center no-repeat;" alt="Singapore" width="20" height="20">
+									
+									Singapore
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="ZA:ZAR">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_south_africa-0x20.png) center center no-repeat;" alt="South Africa" width="20" height="20">
+									
+									South Africa
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="AE:AED">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_united_arab_emirates-0x20.png) center center no-repeat;" alt="United Arab Emirates" width="20" height="20">
+									
+									United Arab Emirates
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="GB:GBP">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_united_kingdom-0x20.png) center center no-repeat;" alt="United Kingdom" width="20" height="20">
+									
+									United Kingdom
+								</a>
+							</li>
+						
+							<li>
+								<a class="new-window" href="#" data-iso-codes="US:USD">
+									
+										<img src="http://pas-paloalto-assets.s3.amazonaws.com/img/blank.gif" style="background:url(http://pas-paloalto.s3.amazonaws.com/sized/images/sized/remote/pas-paloalto-assets-s3-amazonaws-com-img-international-flags-flag_usa-0x20.png) center center no-repeat;" alt="United States" width="20" height="20">
+									
+									United States
+								</a>
+							</li>
+						
+					
+				</ul>
+			</figure>
+			<ul id="site-footer-full-programs">
+				<li><a href="/affiliates">Affiliates</a></li>
+				<li><a href="/partners">Partners</a></li>
+				<li><a href="/resellers">Resellers</a></li>
+			</ul>
+			<p id="site-footer-full-copyright">
+				Copyright ©2011 Palo Alto Software. 
+				All rights reserved. 
+				<a href="/privacy">Privacy Policy</a>
+			</p>
+		</section>
+		<section id="site-footer-full-external">
+			<figure id="site-footer-full-third-party">
+				 	<a class="secure new-window" href="https://www.mcafeesecure.com/RatingVerify?ref=store.paloalto.com"><img width="65" height="37" src="http://images.scanalert.com/meter/store.paloalto.com/55.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+				
+				
+				<div style="float:left;margin:23px 6px;">
+					<a target="_blank" id="bbblink" class="ruhzbus" href="http://www.bbb.org/oregon/business-reviews/computer-software-publishers-and-developers/palo-alto-software-in-eugene-or-55000831#bbblogo" title="Palo Alto Software, Inc, Computer Software Publishers &amp; Developers, Eugene, OR" style="display: block;position: relative;overflow: hidden; width: 100px; height: 45px; margin: 0px; padding: 0px; float:left;">
+						<img style="padding: 0px; border: none;" id="bbblinkimg" src="http://seal-alaskaoregonwesternwashington.bbb.org/logo/ruhzbus/palo-alto-software-55000831.png" width="200" height="45" alt="Palo Alto Software, Inc, Computer Software Publishers &amp; Developers, Eugene, OR">
+					</a>
+					<script type="text/javascript">
+						var bbbprotocol = ( ("https:" == document.location.protocol) ? "https://" : "http://" ); 
+						document.write(unescape("%3Cscript src='" + bbbprotocol + 'seal-alaskaoregonwesternwashington.bbb.org' + unescape('%2Flogo%2Fpalo-alto-software-55000831.js') + "' type='text/javascript'%3E%3C/script%3E"));
+					</script><script src="https://seal-alaskaoregonwesternwashington.bbb.org/logo/palo-alto-software-55000831.js" type="text/javascript"></script>
+				</div>
+
+
+				<a id="site-footer-full-third-party-truste" href="http://www.truste.org/ivalidate.php?url=www.paloalto.com&amp;sealid=101" class="new-window ir">
+					truste certified privacy
+				</a>
+			</figure>
+			<figure id="site-footer-full-paloalto">
+				Visit other PaloAlto sites
+				<ul style="display:none">
+					
+						
+							<li><a class="new-window" href="http://www.paloalto.com/uk/">PaloAlto UK</a></li>
+						
+							<li><a class="new-window" href="http://www.bplans.com">Bplans</a></li>
+						
+							<li><a class="new-window" href="http://www.bplans.co.uk">Bplans UK</a></li>
+						
+							<li><a class="new-window" href="http://www.liveplan.com">LivePlan</a></li>
+						
+							<li><a class="new-window" href="http://upandrunning.bplans.com">Up and Running</a></li>
+						
+							<li><a class="new-window" href="http://www.emailcenterpro.com">Email Center Pro</a></li>
+						
+							<li><a class="new-window" href="http://www.secureplan.com">Secure Plan</a></li>
+						
+					
+				</ul>
+			</figure>
+		</section>
+	</div>
+</footer>
+
 	
-	<meta name="robots" content="index, follow">
-	<meta name="revisit-after" content="15 days">
-	<meta name="verify-v1" content="+5vxp4y5f+8oGMODL5Ahem1rCffsRwZ3cJkqcqzzErY=">
 	
-	<style type="text/css">
-		@import "/u/styles.css";
-		@import "/u/cart.css";
-		@import "/u/navigation_styles.css";
-	</style>
+		
+
+
+
+		
 	
 	
-	<meta http-equiv="P3P" content="policyref=&quot;/w3c/p3p.xml&quot;">
-	<link rel="P3Pv1" href="/w3c/p3p.xml" type="text/xml">
+	
+		<div id="javascript" style="display:none;">
+	
+	<script src="http://www.google.com/jsapi"></script>
+	<script>
+		window.google.load("jquery", "1.6");
+	</script>
+	
+	<script src="/minicache/13180085619f29ca0ac31ef59c5d2296fad73d3e1b.js"></script>
+
+	
+	
+	
+	
+	<script> 
+		var addthis_config = {"data_track_clickback":true};
+		
+		//post affiliate pro
+		document.write(unescape("%3Cscript id='pap_x2s6df8d' src='" + (("https:" == document.location.protocol) ? "https://" : "http://") + 
+		"affiliates.paloalto.com/scripts/trackjs.js' type='text/javascript'%3E%3C/script%3E"));
+		
+		$(document).ready(function() {$.getScript('http://s7.addthis.com/js/250/addthis_widget.js#pubid=pasoftware');});
+		
+		$(window).load(function() {
+			//post affiliate pro
+			try {PostAffTracker.track();} catch (err) { } 
+			
+			//tynt
+			$.getScript('http://tcr.tynt.com/javascripts/Tracer.js?user=cIep3qtnGr34IeadbiUzgI&amp;s=131');
+			
+			//twitter
+			$.getScript('http://platform.twitter.com/widgets.js');
+			
+			//linkedin
+			$.getScript("http://platform.linkedin.com/in.js");
+			
+			//crazyegg
+			$.getScript("http://dnn506yrbagrg.cloudfront.net/pages/scripts/0010/4461.js");
+		});
+	</script><script id="pap_x2s6df8d" src="https://affiliates.paloalto.com/scripts/trackjs.js" type="text/javascript"></script>
+	
+	
+	<script>
+		var google_conversion_id = 1072740800;
+		var google_conversion_language = "en";
+		var google_conversion_format = "3";
+		var google_conversion_color = "C9E1F1";
+		var google_conversion_label = "8IN9CLy2nQIQwPPC_wM";
+		var google_conversion_value = 0;
+	</script>
+	<script src="http://www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript>
+		<div style="display:inline;">
+			<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1072740800/?label=8IN9CLy2nQIQwPPC_wM&amp;guid=ON&amp;script=0" />
+		</div>
+	</noscript>
+	
+	
 	
 
-	<script language="JavaScript"> 
-
-<!--  
-
-function operator_sidebar_DoFSCommand(command, args)
-
-{ 
-
-if ( command == "im" )
-
-{ 
-
-im();
-
-}
-
-}
-
-//-->
-
-</script>
-
-<script language="javascript">
-
-function im() 
-
-{
-
-var browserName = navigator.appName;
-
-browserVer = parseInt ( navigator.appVersion );
-
-
-
-if (browserName == "Netscape" && browserVer < 5) 
-
-{
-
-window.open("/common/share/im/paloaltosoftware_form.html","Getting_Started","width=410,height=420,resizable=yes");
-
-} 
-
-else 
-
-{
-
-window.open("/common/share/im/paloaltosoftware_form.html?"+document.URL,"Getting_Started","width=410,height=420,resizable=yes");
-
-}
-
-}
-
-</script>
+	<script type="text/javascript" src="//www.hellobar.com/hellobar.js"></script>
+	<script type="text/javascript">
+	    new HelloBar(26517,33568);
+	</script>
+	
+	<!--[if IE 6]>
+	<script src="http://pas-paloalto-assets.s3.amazonaws.com/js/DD_belatedPNG_0.0.8a.js"></script>
+	<script>DD_belatedPNG.fix('img, .pngBg, #breadcrumbs ul li');</script>
+	<![endif]--> 
+	
+</div>
+	
+	
+<!-- paloalto.com tracker -->
 
  
-
-
-
-	<meta name="MSSmartTagsPreventParsing" content="TRUE"> 
-	
-	<!-- BEGIN Invitation Positioning  -->
-	<script language="javascript1.2" type="text/javascript">
-	var lpPosY = 10;
-	var lpPosX = 10;
-	</script>
-	<!-- END Invitation Positioning  -->
-
-
-
-
-<script src="/u/MenuScript.js"></script> 
-<script src="/common/libraries/javascript/master.js"></script>
-
-<!-- 8512c365277a442d72faa65ec1e0fa83b3423cd4 --> 
-</head>
-
-
-
-<body>
-
-	<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td width="50%">
-			</td>
-			<td align="center">	
-				<table width="720" border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td><a href="http://www.paloalto.com"><img src="/common/gifs/PAS_sitelogo.gif" border="0" alt="Palo Alto Software" width="250" height="44"></a>
-						</td>
-						<td align="right">
-							<a href="https://secure.paloalto.com/cart/cart.cfm" onmouseover="if (document.images) document.cart.src= '/common/gifs/cart2.gif';" onmouseout="if (document.images) document.cart.src= '/common/gifs/cart3.gif';">
-							<img src="/common/gifs/cart3.gif" border="0" name="cart" align="absbottom" width="59" height="24"></a>
-							<img src="/common/gifs/dotseperator.gif" border="0" alt="seperator" width="5" height="30">
-						</td>
-						
-						<!-- Boldchat Live Chat Button HTML v1.10 (Type=Web,ChatButton=US Chat,ChatWindow=US Chat,Website=Palo Alto US,Department=US Operators) -->
-						<td align="center"><a href="http://livechat.boldchat.com/aid/2143073125810068162/bc.chat?cwdid=20828178386213743&amp;wdid=3849046626977769449&amp;rdid=1222442513972420363" target="_blank" onclick="this.newWindow = window.open('http://livechat.boldchat.com/aid/2143073125810068162/bc.chat?cwdid=20828178386213743&amp;wdid=3849046626977769449&amp;rdid=1222442513972420363&amp;url=' + escape(document.location.href), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=655,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;"><img alt="Live chat by Boldchat" src="http://cbi.boldchat.com/aid/2143073125810068162/bc.cbi?cbdid=846494368389328988&amp;wdid=3849046626977769449&amp;rdid=1222442513972420363" width="167" height="39" border="0"></a></td>
-						<!-- /Boldchat Live Chat Button HTML v1.10 -->
-						
-					</tr>
-				</tbody></table>
-			</td>
-			<td width="50%">
-			</td>
-		</tr>
-		<tr>
-			<td background="/common/gifs/navbg.gif">
-			</td>
-			<td>	
-			
-				
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-						<td width="720" background="/common/gifs/navbg.gif" height="31" align="left" valign="middle">
-							<table border="0" cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td>
-										<table cellpadding="0" cellspacing="0" border="0" height="0">
-											<tbody><tr>
-											
-												
-												<td class="MenuTD" height="24" valign="middle" id="menuheader_1" onmouseover="fndrop(1)" onmouseout="fnhide(1)">
-													<a href="/ps/" class="TopNavTextLarge" id="Text_menuheader_1">&nbsp;&nbsp;Products&nbsp;&nbsp;</a>
-													<div id="menuitem_1" class="GroupMenuDIVWrapper" nowrap="">
-														<div class="ProdMenuItemTop" id="link_bp" onmouseover="fnhighlight(this);" onmouseout="fnhighlightout(this)">
-															<a href="/ps/bp/index.cfm" id="Text_link_bp" class="MenuText">Business Plan Pro</a>
-														</div>
-														<div class="ProdMenuItem" id="link_mp" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/mp/index.cfm" id="Text_link_mp" class="MenuText">Marketing Plan Pro</a>
-														</div>
-														<div class="ProdMenuItem" id="link_ecp" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="http://www.emailcenterpro.com" id="Text_link_ecp" class="MenuText">Email Center Pro</a>
-														</div>														
-														<div class="ProdMenuItem" id="link_hr1" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>														
-														<div class="ProdMenuItem" id="link_bplanning" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/businessplanning.cfm" id="Text_link_bplanning" class="MenuText">Business Planning </a>
-														</div>
-														<div class="ProdMenuItem" id="link_mplanning" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/marketingplanning.cfm" id="Text_link_mplanning" class="MenuText">Marketing Planning </a>
-														</div>
-														
-														<div class="ProdMenuItem" id="link_lplanning" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/legalplanning.cfm" id="Text_link_lplanning" class="MenuText">Legal Planning</a>
-														</div>
-														<div class="ProdMenuItem" id="link_splanning" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/startupplanning.cfm" id="Text_link_splanning" class="MenuText">Startup Planning</a>
-														</div>
-																										
-														<div class="ProdMenuItem" id="link_hr2" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>															
-														<div class="ProdMenuItem" id="link_ps" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/" id="Text_link_ps" class="MenuText">All Products</a>
-														</div>		
-														<div class="ProdMenuItemBottom" id="bottom1" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)"><img src="/images/spacer.gif" height="1" width="1"></div>																											
-													</div>
-												</td>
-												
-												
-												
-												<td class="MenuTD" height="24" valign="middle" id="menuheader_2" onmouseover="fndrop(2)" onmouseout="fnhide(2)">
-													<a href="/ps/" class="TopNavTextLarge" id="Text_menuheader_2">&nbsp;&nbsp;Shop Online&nbsp;&nbsp;</a>
-													<div id="menuitem_2" class="GroupMenuDIVWrapper" nowrap="">
-														<div class="ShopMenuItemTop" id="link_onlinestore" onmouseover="fnhighlight(this);" onmouseout="fnhighlightout(this)">
-															<a href="/ps/" id="Text_link_store" class="MenuText">Online Store</a>
-														</div>
-														<div class="ShopMenuItem" id="link_orderstatus" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/store/orders.cfm" id="Text_link_29" class="MenuText">Order Status</a>
-														</div>															
-														<div class="ShopMenuItem" id="link_upgrades" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/store/upgrades/upgrades.cfm" id="Text_link_upgrades" class="MenuText">Upgrades</a>
-														</div>													
-														<div class="ShopMenuItem" id="link_hr3" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>														
-														<div class="ShopMenuItem" id="link_specialoffers" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/rc/offers.cfm" id="Text_link_11" class="MenuText">Special Offers</a>
-														</div>
-														<div class="ShopMenuItem" id="link_hr4" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>															
-														<div class="ShopMenuItem" id="link_academicpricing" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/academic/index.cfm" id="Text_link_12" class="MenuText">Academic Pricing</a>
-														</div>
-														<div class="ShopMenuItem" id="link_nonprofitpricing" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="https://secure.paloalto.com/non_profit/index.cfm" id="Text_link_13" class="MenuText">Nonprofit Pricing</a>
-														</div>
-														<div class="ShopMenuItem" id="link_sbdcpricing" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="https://secure.paloalto.com/sbdc/index.cfm" id="Text_link_sbdc" class="MenuText">SBDC/SCORE Pricing</a>
-														</div>
-														<div class="ShopMenuItemBottom" id="bottom2" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)"><img src="/images/spacer.gif" height="1" width="1"></div>																																									
-													</div>
-												</td>
-												
-												
-												
-												
-												
-												
-												
-												<td class="MenuTD" height="24" valign="middle" id="menuheader_4" onmouseover="fndrop(4)" onmouseout="fnhide(4)">
-													<a href="/su/" class="TopNavTextLarge" id="Text_menuheader_4">&nbsp;&nbsp;Support&nbsp;&nbsp;</a>
-													<div id="menuitem_4" class="GroupMenuDIVWrapper" nowrap="">
-														<div class="SupportItemTop" id="link_productsupport" onmouseover="fnhighlight(this);" onmouseout="fnhighlightout(this)">
-															<a href="/su/" id="Text_link_18" class="MenuText">Product Support</a>
-														</div>
-														<div class="SupportMenuItem" id="link_tutorialstraining" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/training/tutorials/" id="Text_link_20" class="MenuText">Tutorials and Training</a>
-														</div>
-														<div class="SupportMenuItem" id="link_locateserialnumber" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/su/bp/shs.cfm?id=344" id="Text_link_22" class="MenuText">Locate Your Serial Number</a>
-														</div>
-														<div class="SupportMenuItem" id="link_downloadsoftware" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/sw/" id="Text_link_20" class="MenuText">Download Software</a>
-														</div>
-														<div class="SupportMenuItem" id="link_hr6" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>
-														<div class="SupportMenuItem" id="link_diagnosticservices" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/su/diag_fax.cfm" id="Text_link_28" class="MenuText">Diagnostic Services</a>
-														</div>
-														<div class="SupportMenuItem" id="link_downloadhelp" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/su/shs.cfm?id=340" id="Text_link_28" class="MenuText">Help with Downloads</a>
-														</div>
-														<div class="SupportMenuItem" id="link_hr7" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>															
-														<div class="SupportMenuItem" id="link_contactechsupport" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/su/index.cfm?s=contact" id="Text_link_25" class="MenuText">Contact Technical Support</a>
-														</div>
-														<div class="SupportMenuItem" id="link_register" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/r/" id="Text_link_26" class="MenuText">Register Software</a>
-														</div>														
-														<div class="SupportMenuItemBottom" id="bottom4" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)"><img src="/images/spacer.gif" height="1" width="1"></div>																																																																					
-													</div>
-												</td>
-												
-												
-												
-												<td class="MenuTD" height="24" valign="middle" id="menuheader_5" onmouseover="fndrop(5)" onmouseout="fnhide(5)">
-													<a href="/training/" class="TopNavTextLarge" id="Text_menuheader_5">&nbsp;&nbsp;Training&nbsp;&nbsp;</a>
-													<div id="menuitem_5" class="GroupMenuDIVWrapper" nowrap="">
-														<div class="TrainingItemTop" id="link_onlineseminars" onmouseover="fnhighlight(this);" onmouseout="fnhighlightout(this)">
-															<a href="http://paloalto.webex.com/training" id="Text_link_30" class="MenuText">Online Seminars</a>
-														</div>													
-														<div class="TrainingMenuItem" id="link_tutorials" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/training/tutorials/" id="Text_link_tutorials" class="MenuText">Self-Paced Tutorials</a>
-														</div>
-														<div class="TrainingMenuItem" id="link_whitepapers" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/whitepapers.cfm" id="Text_link_consulting" class="MenuText">White Papers</a>
-														</div>
-														<div class="TrainingMenuItem" id="link_oneononeconsulting" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/training/pc.cfm" id="Text_link_consulting" class="MenuText">One-on-One Consulting</a>
-														</div>
-														<div class="TrainingMenuItem" id="link_hr8" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>															
-														<div class="TrainingMenuItem" id="link_samplebizplan" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/bp/samples.cfm" id="Text_link_31" class="MenuText">Sample Business Plans</a>
-														</div>
-														<div class="TrainingMenuItem" id="link_samplemarkplans" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/ps/mp/samples.cfm" id="Text_link_32" class="MenuText">Sample Marketing Plans</a>
-														</div>
-													
-														<div class="TrainingMenuItemBottom" id="bottom5" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)"><img src="/images/spacer.gif" height="1" width="1"></div>																																																																																			
-													</div>
-												</td>
-												
-												
-												
-												<td class="MenuTD" height="24" valign="middle" id="menuheader_6" onmouseover="fndrop(6)" onmouseout="fnhide(6)">
-													<a href="/pr/about_us.cfm" class="TopNavTextLarge" id="Text_menuheader_6">&nbsp;&nbsp;About Us&nbsp;&nbsp;</a>
-													<div id="menuitem_6" class="GroupMenuDIVWrapper" nowrap="">
-														<div class="AboutUsItemTop" id="link_companybackground" onmouseover="fnhighlight(this);" onmouseout="fnhighlightout(this)">
-															<a href="/pr/company_background.cfm" id="Text_link_35" class="MenuText">Company Background</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_founderstory" onmouseover="fnhighlight(this);" onmouseout="fnhighlightout(this)">
-															<a href="/pr/index.cfm?s=bio" id="Text_link_35" class="MenuText">Founder's Story</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_pressinformation" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/paloaltointhepress.cfm" id="Text_link_36" class="MenuText">Press Information</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_newsletterarchives" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/newsletter.cfm" id="Text_link_40" class="MenuText">Newsletter Archives</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_hr9" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>														
-														<div class="AboutUsMenuItem" id="link_successstories" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/success_stories.cfm" id="Text_link_38" class="MenuText">Success Stories</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_reviews" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/reviews.cfm" id="Text_link_39" class="MenuText">Reviews</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_testimonials" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/testimonials.cfm" id="Text_link_41" class="MenuText">Testimonials</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_hr10" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="" id="textlink_hr"><hr class="MenuLine"></a>
-														</div>														
-														<div class="AboutUsMenuItem" id="link_whitepapers" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/whitepapers.cfm" id="Text_link_42" class="MenuText">White Papers</a>
-														</div>
-														<div class="AboutUsMenuItem" id="link_evaluatesoftware" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/pr/evaluate_software.cfm" id="Text_link_44" class="MenuText">Evaluate Software</a>
-														</div>
-														<div class="AboutUsMenuItemBottom" id="bottom5" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)"><img src="/images/spacer.gif" height="1" width="1"></div>																																																																																																	
-													</div>
-												</td>
-												
-												
-												
-												<td class="MenuTDLast" height="24" valign="middle" id="menuheader_7" onmouseover="fndrop(7)" onmouseout="fnhide(7)">
-													<a href="/contact_us/index.cfm" class="TopNavTextLarge" id="Text_menuheader_7">&nbsp;&nbsp;Contact Us&nbsp;&nbsp;</a>
-													<div id="menuitem_7" class="GroupMenuDIVWrapper" nowrap="">
-														<div class="ContactUsItemTop" id="link_technicalsupport" onmouseover="fnhighlight(this);" onmouseout="fnhighlightout(this)">
-															<a href="/su/index.cfm" id="Text_link_46" class="MenuText">Technical Support</a>
-														</div>
-														<div class="ContactUsMenuItem" id="link_salesandsupport" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/contact_us/sales_customer_service.cfm" id="Text_link_52" class="MenuText">Sales and Customer Service</a>
-														</div>
-														<div class="ContactUsMenuItem" id="link_othercontacts" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)">
-															<a href="/contact_us/index.cfm" id="Text_link_52" class="MenuText">All Other Departments</a>
-														</div>
-														<div class="ContactUsMenuItemBottom" id="bottom5" onmouseover="fnhighlight(this)" onmouseout="fnhighlightout(this)"><img src="/images/spacer.gif" height="1" width="1"></div>																																																																																																															
-													</div>
-												</td>
-												
-												
-											</tr>
-										</tbody></table>
-									</td>
-									<td>
-										<div align="right">
-										<table border="0" cellpadding="0" cellspacing="0" width="270" align="right">
-											<tbody><tr>
-												<td align="right">	&nbsp;&nbsp;
-													<span style="display:none">
-													<form action="/se3/" method="get" name="searchform">										
-													<input type="text" name="q" style="font-size: xx-small;" onfocus="if(this.value=='Search Entire Site')this.value='';" value="Search Entire Site">
-													<input type="hidden" name="rollover" value="1">												
-													<input type="Image" src="/common/gifs/pasgo.gif" align="top">
-													<span style="display:none"></span></form>							
-													
-												</span></td>
-											</tr>
-										</tbody></table>
-										</div>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-			<td background="/common/gifs/navbg.gif">
-			</td>
-		</tr>
-		<tr>
-			<td>
-			</td>
-			<td>
-			
-			
-<br style="line-height:80%;">
-<span class="navstatus">
-
-		<a href="http://www.paloalto.com/" class="navstatus">/ Home</a>
-
-
-	<a href="/privacy.cfm" class="navstatus">/ Privacy Statement</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</span>
-<br>
-<br style="line-height:80%;">
-
-
-
-			
-			</td>
-			<td>
-			</td>
-		</tr>
-		<tr>
-			<td>
-			</td>
-			<td>	
-			
-
-	
-
-
-
-
-
-<font face="Arial, Helvetica, sans-serif" class="LargeHead" size="+1" color="#336699">Palo Alto Software Privacy Statement:</font><br>
-<p>
-<table align="right">
-	<tbody><tr>
-		<td align="center">
-			
-				<a href="http://www.truste.org/ivalidate.php?url=www.paloalto.com&amp;sealid=101">
-					<img src="/common/gifs/clickseal.gif" height="73" width="91" border="0" alt="TRUSTe: Click to Verify">
-				</a>
-			
-		</td>
-	</tr>
-	<tr>
-		<td align="center">
-			<a href="http://www.bbbonline.org">
-				<img src="/Common/gifs/bigbbb.gif" width="50" height="77" border="0">
-			</a>
-		</td>
-	</tr>
-</tbody></table>
-</p><p>Palo Alto Software is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for paloalto.com, which is owned and operated by Palo Alto Software, Inc.</p>
-<p>TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.</p>
-<p>By displaying the TRUSTe trustmark, this website has agreed to notify you of:<br>
-</p><ul>1. What personally identifiable information of yours or a third party is collected through the website.<br>
-2. The organization collecting the information. <br>
-3. How the information is used. <br>
-4. With whom the information may be shared. <br>
-5. What choices are available to you regarding collection, use and distribution of the information. <br>
-6. The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Palo Alto Software control. <br>
-7. How you can correct any inaccuracies in the information. </ul>
-
-<p>
-If you have questions or concerns regarding this statement, you should first contact the site coordinator by sending an email to webteam@paloalto.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact <a href="https://www.truste.org/pvr.php?page=complaint">TRUSTe</a>. TRUSTe will then serve as a liaison with the website to resolve your concerns. 
-</p><p>
-
-Palo Alto Software, Inc. collects personal information about our users only during the secure order process, the registration process for our business planning newsletter, the registration process for our affiliate program, or if you request other information sent to you. We collect name, email address, shipping address, credit card company, credit card number, expiration date, and credit card billing address. For the affiliate program, we additionally collect US tax ID, banking information for funds transfer, company name, and information about your web site. This is all kept strictly confidential. For membership access areas, we require that you accept a cookie. This is only for functionality reasons, and your personal information is never shared with anyone else.</p>
-<p>
-
-We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate such as usage and volume statistics in order to customize our interface for improved usability. These cookies help keep track of your login information to speed up the login process, and in certain cases we store your preferences to help tailor our site content to your interests. In the case that you choose not to accept cookies or if your browser automatically does not accept cookies, the only part of our site that will not work for you is the membership registration process. Without cookies enabled, it is not possible to register for our planning tools. </p>
-
-<p>
-Palo Alto Software, Inc. respects your right to privacy. We have a strict policy of not selling our customers' email addresses and are completely anti-spam. Our online store is completely secure and VeriSign has authenticated us as a secure site. </p>
-<p>
-Palo Alto Software, Inc. works with a number of third-party websites through affiliate agreements and website co-brands. If you access our site through a co-branded site that features both the Palo Alto Software logo and third-party website you are on a co-branded page. Palo Alto Software hosts these co-branded sites, and at that time you are subject to our privacy policy. No personally identifiable customer information is ever shared with these third party sites that you came from to access our co-branded sites. What you've done on their sites prior to accessing the co-branded site falls under their privacy policy, which we encourage you to review. Once you reach the co-branded site that includes our logo, you are now within our privacy guidelines. </p>
-<p>
-Palo Alto Software uses clear gif images on our site.  These images are small clear images that can't actually be seen on the site, thus making them invisible.  These images are used for three purposes:<br>
-1. We use the images for spacing and page layout on the page.  This helps the page be more readable and attractive.<br>
-2. We use the images to help with our stats provider to track users movements throughout the site.  This tracking is not personally identifiable, so each user's data is anonymous.  We use this information to improve our site for our visitors by changing navigation and site structure to let users more easily find what they're looking for.<br>
-3. We use the image in HTML e-mails to alert us that a user has opened the e-mail. This is used as a tracking method only, and again, it is not personally identifiable so users remain anonymous. If you are subscribed to our e-mails and wish to opt-out, send an e-mail to 
-
-
-
-<script language="JavaScript">
- var a,b,c,d,
- a='<a href=\"mai';
- b='webteam';
- c='\?subject=Help">';
- a+='lto:';
- b+='@';
- d='</a>';
- b+='paloalto.com';
-
-document.write(a+b+c+b+d);
-</script><a href="mailto:webteam@paloalto.com?subject=Help">webteam@paloalto.com</a>
-<noscript><a href="/common/contact_us/?toemail=webteam&subject=Help">webteam</a></noscript>
-
- with the word REMOVE in the message or subject.
-</p>
-<p>
-Palo Alto Software will not disclose to any third party any information or data submitted by Users of this web site, without the User's prior permission, unless Palo Alto Software has a good faith belief that such action is necessary to: (a) conform to legal requirements or comply with legal process; or (b) protect and defend the rights or property of Palo Alto Software. </p>
-<p>
-Palo Alto Software, Inc. has a Live Operator option available on our websites which allow you to talk one-on-one with a Palo Alto Software customer service representative. In order to initiate a chat, you must provide your name and email address which will be available to our representative for the duration of the live chat. Once the chat has been completed, we no longer have access to your name or email address. </p>
-<p> Downloaded Software: The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. </p>
-<p>
-You will be notified of any significant privacy statement updates or if we change the way we collect or use personally identifiable information through email, then wait for your consent. We have measures in place to protect your personally identifiable information. Our employees are made aware of these measures when they start working at Palo Alto Software, Inc. Any time there is a change in security measures, all employees are notified of the change. We are using SSL (Secure Socket Layer) encryption for your credit card transactions, and we are authorized by VeriSign. We do share your credit card information with a third party only for verification purposes. All customer information available to internal employees is only accessible on our internal company network. </p>
-<p>
-
-The data we collect is used in the aggregate to give us demographic information about the entire Palo Alto Software, Inc. audience in order to improve our products and services. The information you provide -- name, address, etc. -- allows us to keep you informed about upgrades, products and services of Palo Alto Software, Inc., its affiliates and other third parties that we believe may be of interest to you. If you are a registered user of one of our products, we will only send information regarding your product or any assistance you require. We do not send our business planning newsletter automatically: you will only receive it if you specifically register for it. We only share aggregate information (i.e. number of users, referral URLs, etc.) -- not individual data -- with our advertisers to help them better understand our services and to monitor the reach of their advertising. </p>
-<p>
-
-The data we collect from users who sign up for our affiliate program is used to correspond regarding the affiliate program, to send checks for affiliate payments, to initiate bank transfers for affiliate payments, to send email updates regarding the affiliate program, and to send evaluation products to affiliate program members. We communicate with our users only if you buy a product, sign up for our planning newsletter, or sign up for our free membership to use one of our planning tools. In each case, you will receive our bi-weekly planning newsletter. If you buy a product, you will receive a confirmation email, and have the choice if you'd like to receive further product offer emails. If you sign up for our free membership, you will receive a login information email, and future product offer emails.</p>
-
-
-<p>
-Users have the opportunity to opt-out from receiving these emails by directly replying to the email stating that they wish to opt-out, or by emailing 
-
-
-
-
-<script language="JavaScript">
- var a,b,c,d,
- a='<a href=\"mai';
- b='customerservice';
- c='\?subject=Help">';
- a+='lto:';
- b+='@';
- d='</a>';
- b+='paloalto.com';
-
-document.write(a+b+c+b+d);
-</script><a href="mailto:customerservice@paloalto.com?subject=Help">customerservice@paloalto.com</a>
-<noscript><a href="/common/contact_us/?toemail=customerservice&subject=Help">customerservice</a></noscript>
-
- or calling 1-800-229-7526 and letting us know that 
-you wish to opt-out of our emails.</p>
-<p>
-Palo Alto Software, Inc. also links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users, however, we do encourage you to review their privacy policies. We do not provide these sites with your information. </p>
-<p>
-Palo Alto Software, Inc. uses reasonable precautions to keep the personal information disclosed to us secure. However, we are not responsible for any breach of security or for any actions of any third parties which receive the information. In the event of unauthorized use of your credit card, Palo Alto Software will cover your liability up to $50 provided that the unauthorized use of your credit card resulted through no fault of your own from purchases made at Palo Alto Software while using the secure server. Please note: This guarantee only applies to purchases made using our secure server. You must notify your credit card provider of any unauthorized use. Most banks either cover all the charges that result from the unauthorized use or may limit your liability to just $50. </p>
-<p>
-If you would like to modify, update or delete information that is collected through ordering, or registration please contact 
-
-
-
-
-<script language="JavaScript">
- var a,b,c,d,
- a='<a href=\"mai';
- b='customerservice';
- c='\?subject=Help">';
- a+='lto:';
- b+='@';
- d='</a>';
- b+='paloalto.com';
-
-document.write(a+b+c+b+d);
-</script><a href="mailto:customerservice@paloalto.com?subject=Help">customerservice@paloalto.com</a>
-<noscript><a href="/common/contact_us/?toemail=customerservice&subject=Help">customerservice</a></noscript>
-
- or call 1-800-229-7526.
-</p><p>
-Legal Disclaimer: We may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our website.
-</p><p>
-If you have questions, we can be reached by email at 
-
-
-
-
-<script language="JavaScript">
- var a,b,c,d,
- a='<a href=\"mai';
- b='customerservice';
- c='\?subject=Help">';
- a+='lto:';
- b+='@';
- d='</a>';
- b+='paloalto.com';
-
-document.write(a+b+c+b+d);
-</script><a href="mailto:customerservice@paloalto.com?subject=Help">customerservice@paloalto.com</a>
-<noscript><a href="/common/contact_us/?toemail=customerservice&subject=Help">customerservice</a></noscript>
-
- or direct them to the Palo Alto Software, Inc. site coordinator at 
-
-
-
-
-<script language="JavaScript">
- var a,b,c,d,
- a='<a href=\"mai';
- b='noah';
- c='\?subject=Help">';
- a+='lto:';
- b+='@';
- d='</a>';
- b+='paloalto.com';
-
-document.write(a+b+c+b+d);
-</script><a href="mailto:noah@paloalto.com?subject=Help">noah@paloalto.com</a>
-<noscript><a href="/common/contact_us/?toemail=noah&subject=Help">noah</a></noscript>
-
-. 
-</p><p>Effective Date: 02/01/08
-</p><p>Palo Alto Software<br>
-  488 East 11th Avenue, Ste 220 <br>
-  Eugene, OR 97401<br>
-  541-683-6162</p>
-<p>
-
-<!--  tracker testing -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-	
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-90231-14";
-_udn="paloalto.com";
-urchinTracker();
-</script>
-
-
-
-
-
-
-
-
-
-		
-	
-						
-			</p></td>
-			<td>
-			</td>
-		</tr>
-		
-		<tr>
-			<td background="/common/gifs/grayfooterbar.gif" height="7"></td>
-			<td background="/common/gifs/grayfooterbar.gif"></td>
-			<td background="/common/gifs/grayfooterbar.gif"></td>
-		</tr>
-		<tr>
-			<td>
-			</td>
-			<td>
-			<table border="0" cellpadding="0" cellspacing="0" width="720">
-			<tbody><tr><td height="10"></td></tr>
-			<tr>
-			<td align="center">
-			<span class="bodytext"><font color="808080" size="1">
-			<a href="http://www.paloalto.com/ps/" style="color:gray;">PRODUCTS</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="http://www.paloalto.com/ps/" style="color:gray;">SHOP ONLINE</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-		
-			<a href="http://www.paloalto.com/su/" style="color:gray;">SUPPORT</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="http://www.paloalto.com/rc/" style="color:gray;">RESOURCES</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="http://www.paloalto.com/pr/" style="color:gray;">ABOUT US</a>&nbsp;&nbsp;|&nbsp;&nbsp;
-			<a href="http://www.paloalto.com/common/contact_us/?affiliate=pas" style="color:gray;">CONTACT US</a>
-			<br>
-			<a href="http://www.paloalto.com/af/" style="color:gray;">AFFILIATES</a>&nbsp;|&nbsp;
-			<a href="http://www.paloalto.com/pr/" style="color:gray;">PRESS</a>&nbsp;|&nbsp;
-			<a href="http://www.paloalto.com/privacy.cfm" style="color:gray;">PRIVACY</a>&nbsp;|&nbsp;
-			<a href="http://www.paloalto.com/partners.cfm" style="color:gray;">PARTNERS</a>&nbsp;|&nbsp;
-			<a href="http://www.paloalto.com/reseller/" style="color:gray;">RESELLERS</a>
-			</font></span>
-			<br>
-			
-			<div style="padding: 5px 5px 5px 5px;">
-			<a href="http://www.paloalto.co.uk/software/business_plan_pro/index.cfm"><img src="/common/gifs/unionjack.gif" align="absmiddle" border="0"></a>
-			<a href="http://www.paloalto.co.uk/software/business_plan_pro/index.cfm">Business Plan Pro UK Edition</a>					
-			</div>
-			
-			<span class="smalltext">Copyright&nbsp;© 2008 Palo Alto Software, Inc. All rights reserved.<br>&nbsp;</span>
-
-			</td>
-			</tr>
-			<tr>
-				<td align="center">
-								<a href="http://www.bbbonline.org/cks.asp?id=1296000303" target="new"><img src="/Common/gifs/bbb_logo.gif" alt="BBBOnLine Reliability Seal" style="margin-right:5px;" border="0"></a>
-								<a href="http://www.paloalto.com/privacy.cfm"><img src="/common/gifs/truste_seal_web.gif" style="margin-left:10px;" alt="Trustee Seal" border="0"></a>	
-				
-				
-							
-				</td>
-			</tr>
-			</tbody></table>
-			</td>
-			<td></td>
-		</tr>
-	</tbody></table>
-
-<!-- Client Visitor Monitor HTML v1.30 (Website=Palo Alto US,ChatWindow=- None -,ChatInvitation=- None -) -->
-<script language="JavaScript"><!--
-document.write('<scr' + 'ipt language="JavaScript" src="http://vms.boldchat.com/aid/2143073125810068162/bc.vms/vms.js?vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;wdid=3849046626977769449&amp;url=' + escape(document.location.href) + '"></scr' + 'ipt>');
-//-->
-</script><script language="JavaScript" src="http://vms.boldchat.com/aid/2143073125810068162/bc.vms/vms.js?vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;wdid=3849046626977769449&amp;url=https%3A//web.archive.org/web/20080512004635id_/http%253A//www.paloalto.com/privacy.cfm"></script>
-<noscript>
-<a href="http://www.boldchat.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="http://vms.boldchat.com/aid/2143073125810068162/bc.vmi?wdid=3849046626977769449&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=" border="0" width="1" height="1"></a>
-</noscript>
-<!-- /Client Visitor Monitor HTML v1.30 -->
-
-
-
-
-
-
-
-<p>&nbsp;</p>
 </body></html>
