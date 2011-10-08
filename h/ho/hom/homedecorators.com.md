@@ -1,17 +1,6 @@
-> *The following text is extracted and transformed from the homedecorators.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101015832id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homedecorators.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008043143id_/http%3A//www.homedecorators.com/Privacy) for the most accurate reproduction.*
 
 # HomeDecorators.com
-
-[Customer Service](http://www.homedecorators.com/page.php?file=faq&faqGroup=Customer+Service)
-[Returns, Exchanges & Cancels](http://www.homedecorators.com/page.php?file=faq&faqGroup=Returns%2C+Exchanges+%26+Cancels)
-[Checkout Questions](http://www.homedecorators.com/page.php?file=faq&faqGroup=Checkout+Questions)
-[Product Information](http://www.homedecorators.com/page.php?file=faq&faqGroup=Product+Information)
-[Email](http://www.homedecorators.com/page.php?file=faq&faqGroup=Email)
-[About Us](http://www.homedecorators.com/page.php?file=faq&faqGroup=About+Us)
-[Store Locations](http://www.homedecorators.com/page.php?file=faq&faqGroup=Store+Locations)
-[](http://www.homedecorators.com/page.php?file=faq&faqGroup=)
-[Shipping & Delivery](http://www.homedecorators.com/page.php?file=faq&faqGroup=Shipping+%26+Delivery)
-| 
 
 Last updated: November 28, 2008
 
