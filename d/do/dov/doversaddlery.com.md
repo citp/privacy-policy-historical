@@ -1,7 +1,22 @@
-> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618143343id_/https%3A//www.doversaddlery.com/privacy-policy/a/75) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doversaddlery.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008023513id_/http%3A//www.doversaddlery.com/article.asp%3Fai%3D75) for the most accurate reproduction.*
 
 # Privacy Policy - Dover Saddlery.
 
+|  [Closeouts](http://equestrian.doversaddlery.com/closeouts/)  
+  
+[Shop by Brand](http://www.doversaddlery.com/article.asp?ai=255)  
+[WishList](http://gre.wishlist.com/gre/user/frm_wl_login.htm?rid=595&loginid=&type=sescs&login_next_url=wishlist_home.htm)
+
+[](http://www.horsepharm.com/Default.aspx)  
+Equine Pharmaceuticals  
+Flat Rate ground shipping just $6.95
+
+Dover HorsePharm can currently ship to addresses in the following states:  
+AL, CO, CT, FL, GA, IA, IL, KS, KY, MA, MD, MI, MN, MO, MS, ND, NH, NM, NY, OH, OK, PA, RI, SC, SD, TX, UT, WA, WI, WV and WY
+
+[Shop HorsePharm.com](http://www.horsepharm.com/Default.aspx)
+
+  
 |  | 
 
 **Privacy Policy**
@@ -26,29 +41,29 @@ Littleton, MA 01460
 ### Contents
 
 **_
-* [Information We Collect](https://www.doversaddlery.com/#Information%20We%20Collect)  
+* [Information We Collect](http://www.doversaddlery.com/article.asp?ai=75#Information%20We%20Collect)  
 
-* [How We Use the Information We Collect](https://www.doversaddlery.com/#How%20We%20Use%20the%20Information%20We%20Collect)  
+* [How We Use the Information We Collect](http://www.doversaddlery.com/article.asp?ai=75#How%20We%20Use%20the%20Information%20We%20Collect)  
 
-* [Information We Share with Others](https://www.doversaddlery.com/#Information%20We%20Share%20with%20Others)  
+* [Information We Share with Others](http://www.doversaddlery.com/article.asp?ai=75#Information%20We%20Share%20with%20Others)  
 
-* [Your Choices](https://www.doversaddlery.com/#Your%20Choices)  
+* [Your Choices](http://www.doversaddlery.com/article.asp?ai=75#Your%20Choices)  
 
-* [Cookies and Pixel Tags](https://www.doversaddlery.com/#Cookies%20and%20Pixel%20Tags)  
+* [Cookies and Pixel Tags](http://www.doversaddlery.com/article.asp?ai=75#Cookies%20and%20Pixel%20Tags)  
 
-* [How We Use E-mail](https://www.doversaddlery.com/#How%20We%20Use%20E-mail)   
+* [How We Use E-mail](http://www.doversaddlery.com/article.asp?ai=75#How%20We%20Use%20E-mail)   
 
-* [Links to Other Sites](https://www.doversaddlery.com/#Links%20to%20Other%20Sites)  
+* [Links to Other Sites](http://www.doversaddlery.com/article.asp?ai=75#Links%20to%20Other%20Sites)  
 
-* [Updating or Reviewing Your Information](https://www.doversaddlery.com/#Updating%20or%20Reviewing%20Your%20Information)  
+* [Updating or Reviewing Your Information](http://www.doversaddlery.com/article.asp?ai=75#Updating%20or%20Reviewing%20Your%20Information)  
 
-* [Security](https://www.doversaddlery.com/#Security)  
+* [Security](http://www.doversaddlery.com/article.asp?ai=75#Security)  
 
-* [Privacy of Children on Our Web Site](https://www.doversaddlery.com/#Privacy%20of%20Children%20on%20Our%20Web%20Site)  
+* [Privacy of Children on Our Web Site](http://www.doversaddlery.com/article.asp?ai=75#Privacy%20of%20Children%20on%20Our%20Web%20Site)  
 
-* [Policy Changes](https://www.doversaddlery.com/#Policy%20Changes)  
+* [Policy Changes](http://www.doversaddlery.com/article.asp?ai=75#Policy%20Changes)  
 
-* [Questions or Comments?](https://www.doversaddlery.com/#Questions%20or%20Comments?)  
+* [Questions or Comments?](http://www.doversaddlery.com/article.asp?ai=75#Questions%20or%20Comments?)  
 _**
 
 ### Information We Collect
@@ -176,30 +191,5 @@ _**
 ### Questions or Comments?
 
 **_ For questions, comments or assistance, we invite you to contact us. We hope to answer any questions to your satisfaction, but should you ever want to contact a third party regarding our privacy practices, you can e-mail the Direct Marketing Association's Committee on Ethical Business Practices at privacypromise@the-dma.org. The DMA is the oldest and largest association for consumers and companies with interest in direct marketing. 
-|  | 
-
-  
-
-
-   
-
-
-  
-
-
-Sign up for email sales, specials and events.
-
-   
-
-
-  
-[](https://www.doversaddlery.com/article.asp?ai=72)[](http://equestrian.doversaddlery.com/closeouts/)[](https://www.doversaddlery.com/gift-certificates/c/2219/c2c/ln/)[ ](https://www.doversaddlery.com/gift-certificates/c/2219/c2c/ln/)
-
-[  
-  
-](https://www.doversaddlery.com/gift-certificates/c/2219/c2c/ln/)
-
-   
-
-
-[[RichRelevancePlacementSide]]  [](http://www.doversaddlery.com/dminsite/a/256/)
+|  |   
+---|---|---|---|---
