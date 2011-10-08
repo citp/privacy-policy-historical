@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boxden.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617050558id_/http%3A//slumz.boxden.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxden.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008053408id_/http%3A//slumz.boxden.com/faq.php%3Ffaq%3Dprivacy_statement%23faq_privacy) for the most accurate reproduction.*
 
-# Boxden Slum - FAQ: Privacy
+# Boxden.Com - Stay First. Follow BX. - FAQ: Privacy
 
 Boxden.com values your privacy. Your registration information and any other details you place on our sites are subject to our Privacy Policy. Any and all personal information you provide us will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned to anyone outside Boxden.com. 
 
