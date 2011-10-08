@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520153828id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfrog.com.au privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008150329id_/http%3A//www.hotfrog.com.au/Privacy.aspx) for the most accurate reproduction.*
 
-# HotFrog Australian Business Directory - Terms & Conditions
+# Hotfrog - terms & conditions
 
   
 
