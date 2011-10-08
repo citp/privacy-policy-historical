@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524040058id_/http%3A//www.sce.com/PrivacyPolicy/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sce.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008023739id_/http%3A//www.sce.com/PrivacyPolicy/privacypolicy.htm) for the most accurate reproduction.*
 
 # SCE - Privacy Policy
 
