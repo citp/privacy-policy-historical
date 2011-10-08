@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesswebbasics.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413080050id_/http%3A//www.businesswebbasics.com/bwbprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesswebbasics.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008031756id_/http%3A//www.businesswebbasics.com/bwbprivacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Business Web Basics
 
