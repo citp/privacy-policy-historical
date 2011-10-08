@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlog.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623200554id_/http%3A//en.netlog.com/go/about/legal/view%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlog.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008161151id_/http%3A//en.netlog.com/go/about/legal/view%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -9,9 +9,9 @@
 
 
 
-Netlog processes your personal data in conformity with this privacy policy and with the strict rules of Belgian and European data protection legislation.
+Massive Media NV processes your personal data in conformity with this privacy policy and with the strict rules of Belgian and European data protection legislation.
 
-This privacy policy is a part of our [Terms & Conditions](https://web.archive.org/go/about/legal/view=general) and should be read carefully, as it specifies which rights you have and how you can exercise your rights. Any use of the website implies the entire acceptance of this privacy policy. 
+This privacy policy is a part of our [Terms & Conditions](https://web.archive.org/go/about/legal/view=general) and should be read carefully, as it specifies which rights you have and how you can exercise your rights. Any use of the Netlog website, hereinafter referred to as 'Netlog' or the 'Website', implies the entire acceptance of this privacy policy. 
 
 ## Types of personal data we collect
 
@@ -25,7 +25,7 @@ This privacy policy is a part of our [Terms & Conditions](https://web.archive.or
   * **History and logs**
     * time, date and URL of all Netlog pages visited by you
     * the URL of the referring websites
-    * the searches your perform on the website
+    * the searches you perform on Netlog
     * technical information regarding your internet browser and computer 
 
 
@@ -35,22 +35,22 @@ This privacy policy is a part of our [Terms & Conditions](https://web.archive.or
 We use your personal data to:
 
   * publish the information intended to be made public by you, under the conditions specified in your [privacy settings](https://web.archive.org/go/settings/privacy)
-  * allow you to correctly use the website in accordance with your settings
+  * allow you to correctly use the Website in accordance with your settings
   * perform general customer administration 
-  * send you communications about the website, as well as our other products and services 
+  * send you communications about the Website, as well as our other products and services 
   * provide you with advertisements tailored to your profile 
   * investigate fraud and infringements of our [Code of Conduct](https://web.archive.org/go/about/legal/view=code)
-  * generate anonymous statistics about the (users of the) website, to improve the website or convey statistical information to third parties
+  * generate anonymous statistics about the (users of the) Website, to improve the Website or convey statistical information to third parties
 
 
 
 ## Storage term and location
 
-Netlog applies the following storage terms:
+Massive Media NV applies the following storage terms:
 
   * **Information uploaded by you:** stored during a period of 6 months after you delete this information, or delete your account. (Note: you can delete your account at any time. If you do not log in on your account during a period of two years, your account will be deleted automatically.)
   * **History and logs:** stored during a period of 6 months after the history item or log event was created
-  * **Cookies:** cookies used on the website have a maximum lifetime of 100 days. 
+  * **Cookies:** cookies used on the Website have a maximum lifetime of 100 days. 
 
 
 
@@ -68,9 +68,9 @@ Your personal data may be stored in a country outside the EU.
 
 ## Cookies and web-bugs
 
-  * The website uses cookies to identify you as a user of the website, to remember your preferred language and to facilitate navigation on the website. 
-  * You can disable cookies in your internet browser, although some parts of the website will then no longer function correctly. 
-  * The website also uses a cookie and an AdPath pixel ("web-bug") to allow third parties to tailor advertisements to your profile. 
+  * The Website uses cookies to identify you as a user of the Website, to remember your preferred language and to facilitate navigation on the Website. 
+  * You can disable cookies in your internet browser, although some parts of the Website will then no longer function correctly. 
+  * The Website also uses a cookie and an AdPath pixel ("web-bug") to allow third parties to tailor advertisements to your profile. 
 
 
 
