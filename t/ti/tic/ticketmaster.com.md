@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426105524id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketmaster.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008153602id_/http%3A//www.ticketmaster.com/h/privacy.html%3Ftm_link%3Dtm_homeA_i_pp) for the most accurate reproduction.*
 
 # Ticketmaster Privacy Policy. Official Ticketmaster Site.
 
-Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of www.ticketmaster.com or our services, and to any information provided to us.
+Welcome to Ticketmaster! We want you to know that protecting your personal information is very important to us, and we respect your privacy. This Privacy Policy is meant to explain how we use and protect the personal information you share with us. This Policy applies to all users of [www.ticketmaster.com](http://www.ticketmaster.com/) or our services, including the venue box office, charge by phone, and to any information provided to us.
 
 By using our website, you are accepting the practices we describe here.
 
