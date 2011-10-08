@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mountwashington.org privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121132409id_/http%3A//www.mountwashington.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mountwashington.org privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008023144id_/http%3A//www.mountwashington.org/privacy) for the most accurate reproduction.*
 
-# Mount Washington Observatory – Privacy Policy
+# Mount Washington Observatory (MWOBS) – Privacy Policy
 
 Mount Washington Observatory has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the following URLs: [www.MountWashington.org](http://www.mountwashington.org/), [www.SeekThePeak.org](http://www.seekthepeak.org/) and [www.WashburnGallery.org](http://www.washburngallery.org/).
 
