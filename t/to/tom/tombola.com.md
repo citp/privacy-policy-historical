@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226120040id_/http%3A//www.tombola.co.uk/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tombola.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008235215id_/http%3A//www.tombola.co.uk/privacy_policy.asp) for the most accurate reproduction.*
 
 # tombola – Privacy Policy
 
@@ -25,7 +25,7 @@ We guarantee that access to your personal account information is restricted to y
 
 **Consent to the Privacy Policy** When registering with the site you are agreeing to the Privacy Policy. The Privacy Policy should read in conjunction with the Terms and Conditions and any additional applicable terms posted on the site. We may make changes to this policy and we will notify you by way of posting the modified Privacy Policy on the site and we advise you to revisit the Privacy Policy on a regular basis
 
-**DATA PROTECTION ACT REGISTRATION** tombola (Alderney) Ltd is registered in Alderney under company number 1537. We comply with the Data Protection (Bailiwick Of Guernsey) Law 2001 registration number: 011311, we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at [support@tombola.co.uk](mailto:support@tombola.co.uk) Further information can also be found here: [http://www.dataprotection.gov.gg](http://www.dataprotection.gov.gg/) / [http://www.dpr.gov.uk](http://www.dpr.gov.uk/)
+**DATA PROTECTION ACT REGISTRATION** tombola (Gibraltar) Ltd is registered in Gibraltar. We comply with the Gibraltar Data Protection Act 2004 we also comply with the UK data protection act 1998 registration number: PZ9208661. For a copy of our registrations under the Acts, please contact us via email at [support@tombola.co.uk](mailto:support@tombola.co.uk) Further information can also be found here: [Gibraltar](http://www.gra.gi/index.php?site=dataprotection) / [UK](http://www.dpr.gov.uk/)
 
   
 
