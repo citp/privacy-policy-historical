@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411074703id_/http%3A//www.crucial.com.au/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com.au privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/privacy-policy.php) for the most accurate reproduction.*
 
 # Crucial Paradigm Web Solutions
 
@@ -98,7 +98,7 @@ On occasion, we hire or contract with other companies to provide limited service
 
 
 
-[](https://manage.crucial.com.au/cart.php)
+[](https://control.crucial.com.au/orders)
 
 ###  Why **Choose Crucial?**
 
@@ -109,13 +109,13 @@ On occasion, we hire or contract with other companies to provide limited service
 
 
 
-[Read More](https://web.archive.org/web/20110411074703id_/http%3A//www.crucial.com.au/company-why-crucial.php)
+[Read More](https://web.archive.org/company-why-crucial.php)
 
 ###  Which **Solution** is right for me?
 
 Not sure which plan is right for you or after a solution that suits your needs. Then tell us what you would like and let us help you find the best solution.
 
-[Help Now](https://web.archive.org/web/20110411074703id_/http%3A//www.crucial.com.au/services-what-solution.php)
+[Help Now](https://web.archive.org/services-what-solution.php)
 
 ###  Contact **Crucial** Today
 
@@ -150,25 +150,20 @@ Nathan Reeves
 
 www.mypubs.com.au
 
-[(more...)](https://web.archive.org/web/20110411074703id_/http%3A//www.crucial.com.au/blog/category/featuredclients/)
+[(more...)](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/blog/category/featuredclients/)
 
 ###  Crucial **Updates**
 
-High Availability Cloud Hosting – What’s In Store for Next Year 16th December 2010
+Crucial and World IPv6 Day 6th June 2011
 
-We have been hard at work this year to bring our customers a new level of high availability. Our order has placed with HP for a SAN and Blade setup, and should arrive in days.
+World IPv6 day is a “test flight” for IPv6 across the internet, with large networks such as Google, Facebook, Yahoo!, Akamai, and many others taking part to test IPv6 connectivity across a period of 24 hours.  This is to help raise awareness and push network operators, OS vendors, software vendors, content providers, and other organisations which provide software or hardware that rely on the IP protocol to start supporting IPv6. [(more…)](http://www.crucial.com.au/blog/2011/06/06/crucial-and-world-ipv6-day/#more-962)
 
-**  
-What does this mean?**
+[More News](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/blog/category/crucialupdates/)
 
-This means we will be able to provide a higher level of uptime on our entire product range. The new setup is designed with no single point of failure in mind across all aspects of the setup. This means if server goes offline or fails it will be automatically started on a new node with minimal downtime (seconds/minutes).  Unlike traditional SANs, the SAN we have selected (HP P4000 G2) allows for a single or multiple shelf failure without the SAN or volumes going down – this adds unprecedented reliability to the SAN.
+5 ways to deliver better value to your Customers 18th May 2011
 
-**[(more…)](https://www.crucial.com.au/blog/2010/12/16/high-availability-cloud-hosting-whats-in-store-for-next-year/#more-670)**
+_Very often you can get caught up in long complicated marketing or sales strategies but you should never forget the 101′s. Value is still one of the best ways to not only attract customers but it’s also a great way of building long term relationships. Here are a couple quick tips on what you can do to help deliver better value to   your customers. _
 
-[More News](https://web.archive.org/web/20110411074703id_/http%3A//www.crucial.com.au/blog/category/crucialupdates/)
+_[(more…)](http://www.crucial.com.au/blog/2011/05/18/delivervaluetoyourcustomers/#more-896)_
 
-Seagate AS & ES2 Drives get the “Axe” 15th April 2010
-
-Want to see what a Hard Drive manufacturer looks like when it gets the “Axe”? [(more…)](https://www.crucial.com.au/blog/2010/04/15/seagate-as-es2-drives-get-the-axe/#more-473)
-
-[View Blog](https://web.archive.org/web/20110411074703id_/http%3A//www.crucial.com.au/blog/)
+[View Blog](https://web.archive.org/web/20111009002205id_/http%3A//www.crucial.com.au/blog/)
