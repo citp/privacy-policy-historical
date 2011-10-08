@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentboss.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518232001id_/http%3A//www.contentboss.com/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentboss.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008030559id_/http%3A//contentboss.com/members/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
