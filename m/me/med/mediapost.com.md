@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430221248id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008060425id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
 
 # MediaPost - news and directories for media, marketing and online advertising professionals
 
@@ -16,7 +16,7 @@ MediaPost Communications may also automatically collect information such as your
 
 #### Updating or Opting Out
 
-If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, choose the 'End your MediaPost Membership' option at the bottom of your profile page and click 'Save'. You will be automatically deleted from our database. If you wish to remain a MediaPost member but still want to opt-out of all email communications from us, choose the 'No Newsletters or Email Notices' option instead. If you have any questions regarding our opt-out policies, send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2010. 
+If you want to change or update your registration information please visit [www.mediapost.com](http://www.mediapost.com/) and select 'my profile' from the menu, and update your information. If you would like to opt-out as a member of MediaPost Communications, choose the 'End your MediaPost Membership' option at the bottom of your profile page and click 'Save'. You will be automatically deleted from our database. If you wish to remain a MediaPost member but still want to opt-out of all email communications from us, choose the 'No Newsletters or Email Notices' option instead. If you have any questions regarding our opt-out policies, send an email to [remove@mediapost.com](mailto:remove@mediapost.com) or call us at 212-204-2000. 
 
   
 
@@ -64,7 +64,9 @@ Domestic (USA only) shipping charges for the monthly print magazines are include
 |  **MediaPost Communications**  
 15 East 32nd Street  
 7th floor  
-New York, NY 10016
+New York, NY 10016  
+Phone: (212) 204-2000  
+Fax: (212) 204-2038
 
 **Kenneth Fadner**  
 Chairman, Publisher  
@@ -72,37 +74,42 @@ Chairman, Publisher
 
 **Jeff Loechner**  
 President  
-(203) 293-6422  
+(212) 204-2001  
 [jeff@mediapost.com](mailto:jeff@mediapost.com)
 
 **Joe Mandese**  
 Editor-in-Chief  
+(212) 204-2009  
 [joe@mediapost.com](mailto:joe@mediapost.com)
 
 **Seth Oilman**  
 Director, Online Media Sales  
+(212) 204-2012  
 [seth@mediapost.com](mailto:seth@mediapost.com)
 
 **Jon Whitfield**  
-Vice President, Events Sales  
-(303) 263-7412  
+Vice President, Event Sales  
+(212) 204-2025  
 [jon@mediapost.com](mailto:jon@mediapost.com)
 
 **Elaine Wong**  
 Director, Conferences & Events  
+(212) 204-2035  
 [elaine@mediapost.com](mailto:elaine@mediapost.com)
 
 **Jonathan McEwan**  
 Creative Director  
+(212) 204-2015  
 [jonnymack@mediapost.com](mailto:jonnymack@mediapost.com)
 
 **Mark Kecko**  
 Technology Director  
-[mark@mediapost.com](mailto:mark@mediapost.com)
+(212) 204-2002  
+[tech2011@mediapost.com](mailto:tech2011@mediapost.com)
 
 **Robert McEvily**  
 Director of Marketing  
-(917) 301-9097  
+(212) 204-2019  
 [rob@mediapost.com](mailto:rob@mediapost.com)  
   
 ---|---
