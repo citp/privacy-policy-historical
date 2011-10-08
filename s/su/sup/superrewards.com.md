@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superrewards.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516023212id_/http%3A//www.superrewards.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superrewards.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008223401id_/http%3A//www.superrewards.com/privacy) for the most accurate reproduction.*
 
 # SuperRewards.com
 
