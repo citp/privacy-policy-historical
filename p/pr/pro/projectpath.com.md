@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectpath.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522124138id_/http%3A//www.projectpath.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectpath.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008052558id_/http%3A//www.projectpath.com/privacy) for the most accurate reproduction.*
 
 # 37signals Privacy Policy
 
