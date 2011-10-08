@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928063856id_/http%3A//mapsof.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapsof.net privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008105051id_/http%3A//mapsof.net/privacy) for the most accurate reproduction.*
 
-# Site Privacy Policy
+# Site Privacy Policy - Mapsof.net
 
 www.mapsof.net ("Site")
 
@@ -52,4 +52,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 www.mapsof.net
 
-May 21, 2009
+May 29, 2011
