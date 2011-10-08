@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bd-natok.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214104653id_/http%3A//bd-natok.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bd-natok.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008071756id_/http%3A//bd-natok.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Bdbangla.org Privacy Policy
 
