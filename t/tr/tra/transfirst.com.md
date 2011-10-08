@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the transfirst.com privacy policy that was archived on 2010-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100103193126id_/http%3A//www.transfirst.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfirst.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008142434id_/https%3A//transfirst.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # TransFirst - About Us
 
