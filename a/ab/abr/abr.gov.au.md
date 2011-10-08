@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abr.gov.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422194508id_/http%3A//help.abr.gov.au/content/27617.htm%26usertype%3DBC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abr.gov.au privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008051142id_/http%3A//help.abr.gov.au/content.asp%3Fdoc%3D/content/27617.htm%26usertype%3DBC) for the most accurate reproduction.*
 
 # Privacy statement (long version)
 
@@ -9,7 +9,7 @@ Your privacy is important to us. Please read this privacy statement before using
 
 The _Privacy Act 1988_ regulates our use of your personal information. Our staff and contractors cannot disclose your information unless permitted under a law or in the course of employment. Other disclosures attract severe penalties. 
 
-For more information on the operation of the _Privacy Act 1988_ , and privacy in general, visit the Privacy Commissioner’s website at [**_www.privacy.gov.au_**](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au/)
+For more information on the operation of the _Privacy Act 1988_ , and privacy in general, visit the Privacy Commissioner’s website at _[www.privacy.gov.au](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au/)_
 
 ## Overview
 
@@ -17,17 +17,17 @@ _[Administration of the ABR](https://web.archive.org/content.asp?doc=/content/27
 
 _[Information we collect from you](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P30_1924)_
 
-_[Information available to the public](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P52_3460)_
+_[Information available to the public](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P52_3502)_
 
-_[Information available to other government agencies](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P54_3688)_
+_[Information available to other government agencies](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P54_3730)_
 
-_[Information available to your business](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P57_4255)_
+_[Information available to your business](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P57_4297)_
 
-_[Information we collect about you when you visit our websites](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P64_4727)_
+_[Information we collect about you when you visit our websites](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P64_4758)_
 
-_[What we put on your computer when you use our websites](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P75_5330)_
+_[What we put on your computer when you use our websites](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P75_5361)_
 
-_[Privacy concerns](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P80_6300)_
+_[Privacy concerns](https://web.archive.org/content.asp?doc=/content/27617.htm&page=1#P79_6199)_
 
 ### Administration of the ABR
 
@@ -51,7 +51,7 @@ We will request information from you when you:
 
   * register for an Australian business number (ABN)
   * register for a non-individual tax file number (TFN)
-  * apply for various tax roles, or
+  * apply for various tax roles, for example goods and services tax (GST), or
   * apply to register a representative on the ABR to obtain an AUSkey. 
 
 
@@ -82,7 +82,7 @@ If we request information from you by email, we will record your email address a
 
 ### Information available to the public
 
-Unless you apply to have your _[ABN suppressed](https://web.archive.org/content/17604.htm)_, some of your _[ABN details](https://web.archive.org/content/17859.htm)_ are available for anyone to search, free of charge, through ABN Lookup (a search facility hosted by **_[www.business.gov.au](https://web.archive.org/externalsite.asp?url=http://www.business.gov.au/)_**). 
+Unless you apply to have your _[ABN suppressed](https://web.archive.org/content/17604.htm)_, some of your _[ABN details](https://web.archive.org/content/17859.htm)_ are available for anyone to search, free of charge, through ABN Lookup (a search facility hosted by _[www.business.gov.au](https://web.archive.org/externalsite.asp?url=http://www.business.gov.au/)_). 
 
 ### Information available to other government agencies
 
@@ -92,9 +92,9 @@ Information relating to entities that have been refused an ABN is not made avail
 
 ### Information available to your business
 
-People with an Administrator AUSkey or an ATO primary digital certificate for your business can access and update details at **[_www.abr.gov.au_](https://web.archive.org/externalsite.asp?url=http://www.abr.gov.au/)**
+People with an Administrator AUSkey or an ATO primary digital certificate for your business can access and update details at _[www.abr.gov.au](https://web.archive.org/externalsite.asp?url=http://www.abr.gov.au/)_
 
-AUSkey holders with administrator privileges can view and update the details of all other AUSkey holders registered to the same ABN at **_[www.abr.gov.au/auskey](https://web.archive.org/externalsite.asp?url=http://www.abr.gov.au/auskey)_** including:
+AUSkey holders with administrator privileges can view and update the details of all other AUSkey holders registered to the same ABN at _[www.abr.gov.au/auskey](https://web.archive.org/externalsite.asp?url=http://www.abr.gov.au/auskey)_ including:
 
   * name
   * email
@@ -102,7 +102,7 @@ AUSkey holders with administrator privileges can view and update the details of 
 
 
 
-You can request a written, _[certified copy](https://web.archive.org/content/00240694.htm)_ of your own ABN details free of charge.
+You can request a written _[copy](https://web.archive.org/content/00240694.htm)_ of your own ABN details free of charge.
 
 ### Information we collect about you when you visit our websites
 
@@ -129,11 +129,9 @@ If you prefer not to receive cookies, you can generally adjust your internet bro
 
 If you install an AUSkey to your computer or a USB stick, we will also add a small amount of software in the same location. This software is designed to make your AUSkey appear automatically and function correctly when you need to use it. We cannot access other information on your computer or USB stick through the AUSkey software.
 
-Similarly, if you install an ATO digital certificate to your computer we will also add a small amount of software to your computer. 
-
 ### Privacy concerns
 
-If you have privacy concerns you can obtain further information from the Privacy Commissioner’s website at **_[www.privacy.gov.au](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au/)._**
+If you have privacy concerns you can obtain further information from the Privacy Commissioner’s website at _[www.privacy.gov.au](https://web.archive.org/externalsite.asp?url=http://www.privacy.gov.au/)_.
 
 The electronic version of this document is the only authorised version.  
-Last updated: 18/02/11
+Last updated: 29/08/2011
