@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olivearticles.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220030708id_/http%3A//olivearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olivearticles.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008215457id_/http%3A//olivearticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
