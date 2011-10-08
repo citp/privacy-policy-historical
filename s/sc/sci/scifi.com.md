@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514041206id_/http%3A//www.syfy.com/privacy/index.php%3F_source%3DSyfy_Global_Footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scifi.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008213531id_/http%3A//www.syfy.com/privacy/index.php%3F_source%3DSyfy_Global_Footer) for the most accurate reproduction.*
 
 # Privacy Policy | Syfy
 
