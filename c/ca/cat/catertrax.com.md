@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615001745id_/http%3A//www.catertrax.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catertrax.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008044903id_/http%3A//www.catertrax.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Web Based Catering Software for Caterers - Online Catering Ordering Management Solutions
 
@@ -24,7 +24,7 @@ Catertrax reserves the right to change, modify, add, or remove portions of this 
 
 ## Contact Us
 
-If you have any questions about this privacy policy please contact us at (585) 427-8190 or visit our [contact page](https://web.archive.org/web/20110615001745id_/http%3A//www.catertrax.com/contact.html) to email a question immediately. Alternatively, you may contact us at the mailing address below:
+If you have any questions about this privacy policy please contact us at (585) 427-8190 or visit our [contact page](https://web.archive.org/web/20111008044903id_/http%3A//www.catertrax.com/contact.html) to email a question immediately. Alternatively, you may contact us at the mailing address below:
 
 **Hospitality 101 Inc.**  
 150 Lucius Gordon Drive, Suite 204  
