@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425004623id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battleon.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008063140id_/http%3A//www.aq.com/aw-privacy.asp) for the most accurate reproduction.*
 
 # Artix Entertainment Privacy Policy
 
