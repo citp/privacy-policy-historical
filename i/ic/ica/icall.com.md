@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icall.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625230714id_/http%3A//www.icall.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icall.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008050043id_/http%3A//www.icall.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # iCall - Privacy Policy
 
