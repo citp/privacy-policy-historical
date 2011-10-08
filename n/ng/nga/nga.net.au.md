@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nga.net.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112043624id_/http%3A//nga.net.au/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nga.net.au privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008210522id_/http%3A//nga.net/privacy-statement.aspx) for the most accurate reproduction.*
 
 # NGA
 
