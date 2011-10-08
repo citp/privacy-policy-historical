@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317052948id_/http%3A//www.clevver.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevver.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008125623id_/http%3A//www.clevver.com/privacy.php) for the most accurate reproduction.*
 
 # Clevver Media :: LLC
 
