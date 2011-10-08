@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311153108id_/http%3A//www.quinstreet.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quinstreet.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008224200id_/http%3A//quinstreet.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy | QuinStreet
+# Privacy Policy | QuinStreet.com
 
 ## Introduction
 
-We at QuinStreet, Inc. and our affiliated companies worldwide ("Quinstreet") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
+We at QuinStreet, Inc. and our affiliated companies worldwide ("QuinStreet") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
 QuinStreet has established this Online PRIVACY POLICY so that you can understand the care with which we intend to treat your Personal Information.
 
@@ -12,7 +12,7 @@ Personal Information means any information that may be used to identify an indiv
 
 If you choose to provide us with your Personal Information on the Web, we may transfer that Information within QuinStreet or to QuinStreet's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.
 
-Quinstreet strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, QuinStreet intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
+QuinStreet strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, QuinStreet intends to adhere to the principles set forth in this Online PRIVACY POLICY even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.
 
 ## Cookies and Other Tracking Technologies
 
@@ -20,21 +20,21 @@ Some of our Web pages utilize "cookies" and other tracking technologies. A "cook
 
 You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the website.
 
-If you want your browser not to store this cookie information there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you can manually delete your cookies by following the instructions contained in the "help" section of your browser. Or, go to our home page at [www.quinstreet.com](http://www.quinstreet.com/) and simply click into the "OPT OUT NOW" button provided. 
+If you prefer that your browser does not store this cookie information, there is a simple procedure that allows you to deny or accept this feature. In order to "opt out" of the benefits of cookies, you can manually delete your cookies by following the instructions contained in the "Help" section of your browser. Alternatively, simply click the "OPT OUT NOW" link provided, below. QuinStreet uses a limited number of third party providers to manage cookies, and when you click the link below, you will be opted out of their tracking systems. Note that separate browser windows will be opened, and you need to allow pop-ups for this to happen.
 
-[ ](http://o1.qnsr.com/w3c/optoutnow.html)
+[Opt Out Now](http://assets.invitemedia.com/opt-out.html)
 
 Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our website and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.
 
 To protect your privacy, we have adopted the following principles:
 
-Notice
+[Notice](http://www.quinstreet.com/privacy_policy#notice)
 
-Choice
+[Choice](http://www.quinstreet.com/privacy_policy#choice)
 
-Security
+[Security](http://www.quinstreet.com/privacy_policy#security)
 
-Access/Accuracy
+[Access/Accuracy](http://www.quinstreet.com/privacy_policy#access)
 
 ## Notice
 
@@ -74,12 +74,8 @@ By using this website, you consent to the terms of our Online PRIVACY POLICY and
 
 For more information, or if you have questions or concerns regarding QuinStreet's Privacy Policy, you may email us at [privacy@QuinStreet.com](mailto:privacy@QuinStreet.com) or you can send correspondence to the following address:
 
-Privacy
-
-QuinStreet, Inc.
-
-1051 E. Hillsdale Blvd
-
-Foster City, CA 94404
-
+Privacy  
+QuinStreet, Inc.  
+950 Tower Lane, 6th Floor  
+Foster City, CA 94404  
 (650) 578-7700
