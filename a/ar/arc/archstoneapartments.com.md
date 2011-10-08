@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513001632id_/http%3A//www.archstoneapartments.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archstoneapartments.com privacy policy that was archived on 2011-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111008174425id_/http%3A//www.archstoneapartments.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy
+# Archstone Privacy Policy | Archstone Apartments
 
 **How Our Privacy Policy Applies  
 ** This Privacy Policy explains how we collect, use, and disclose the Personal Information You may provide to us through this Site and all sites of Archstone (collectively, the “Site”), and other Personal Information that you provide to us offline or indirectly through third party advertiser sites. This statement may be revised from time to time, so please revisit this page to remain fully informed of our commitment (see “Consent” Section below).
@@ -39,7 +39,7 @@ We intend to implement this Privacy Policy in a manner consistent with applicabl
   * To complete any purchases or other transactions you may perform at the Site; 
   * To notify visitors about updates to the Sites or services; 
   * To notify You about promotions, special offers, etc., regarding products and services provided by us or our affiliates or partners; 
-  * To be provided to third party service providers on behalf of Archstone; 
+  * To be provided to third parties who provide services on behalf of Archstone; 
   * As required by law or regulation, or as requested by government authorities; 
   * In connection with an acquisition, merger, sale or other transfer of all or any portion of our business; and 
   * For our internal business purposes.
