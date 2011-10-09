@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs.ac.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227232846id_/http%3A//www.jobs.ac.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs.ac.uk privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009061256id_/http%3A//www.jobs.ac.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal - jobs.ac.uk
 
