@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605101723id_/http%3A//www.magna.com/magna/en/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magna.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009212738id_/http%3A//www.magna.com/magna/en/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Website Privacy Policy - Magna International Inc.
 
