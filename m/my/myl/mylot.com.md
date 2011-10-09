@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514215247id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylot.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009035540id_/http%3A//www.mylot.com/o/privacy.aspx) for the most accurate reproduction.*
 
 # myLot - Privacy Policy
 
