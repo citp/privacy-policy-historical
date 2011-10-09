@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nxp.com privacy policy that was archived on 2010-06-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100620060859id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nxp.com privacy policy that was archived on 2011-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111009145923id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,21 +17,23 @@
 		function getTime() { var theTime = new Date(); return theTime; }
 		var startTime = getTime();
 	</script>
-	
 	<link rel="stylesheet" type="text/css" href="/css/main.css">
 	<link rel="stylesheet" type="text/css" href="/css/components.css">
 	<link rel="stylesheet" type="text/css" href="/css/components-additional.css">
 	<link rel="stylesheet" type="text/css" href="/crsc/additional/additional.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="/locale/css/locale.css">
+	<link rel="stylesheet" type="text/css" href="/javascript/libraries/shadowbox/shadowbox.css" media="screen">
 	<script type="text/javascript" src="/javascript/general.js"></script>
 	<script type="text/javascript" src="/locale/includes/texts.js"></script>
-	<script type="text/javascript" src="/bbjavascript/bookmarkBar.js"></script>	
+	<script type="text/javascript" src="/bbjavascript/bookmarkBar.js"></script>
+        
 	<style type="text/css">
 		html,body{height:100%;margin:0px;padding:0px;}
 	</style>
 	<!--[if lte IE 6]>
 		<link rel="stylesheet" type="text/css" href="/css/ie6.css" />
 	<![endif]-->
+	
 </head>
 
 	<body>
@@ -57,7 +59,7 @@
 		<div class="TM-seperator"><span></span></div>
 		<div class="TM-item"><a href="/jobs/">Careers</a></div>
 		<div class="TM-seperator"><span></span></div>
-		<div class="TM-item"><a href="/investor/">Investors</a></div>
+		<div class="TM-item"><a href="http://investors.nxp.com">Investors</a></div>
 		<div class="TM-seperator"><span></span></div>
 		<div class="TM-item"><a href="/orderportal/" onclick="if(typeof bb != 'undefined') { internal_link('/page/content=[f=/dynamic/orderportal/all/data.xml]'); return false; }">Order/buy</a></div>
 		<div class="TM-seperator"><span></span></div>		
@@ -80,7 +82,7 @@
 			<dl class="select-option-selected" id="LP_selected"><dt class="site_www" lang="www">English</dt></dl>
 			<div class="select-trigger"><span></span></div>
 			<div class="select-optionlist" id="LP_list" style="display: none;">
-				<dl><dt class="select-option-divider">Global site</dt><dt class="site_www" lang="www">English</dt><dt class="site_jp" lang="jp">日本語</dt><dt class="site_cn" lang="cn">简体中文</dt><dt class="site_tw" lang="tw">繁體中文</dt><dt class="site_ru" lang="ru">Русский</dt><dt class="site_kr" lang="kr">한국어</dt><dt class="select-option-divider"></dt><dt class="select-option-divider" i18n_text_="languagePanel.countrySite">Country site</dt><dt class="country_at" country="austria">Austria</dt><dt class="country_fr" country="france">France</dt><dt class="country_de" country="germany">Germany</dt><dt class="country_nl" country="netherlands">Netherlands</dt></dl>
+				<dl><dt class="select-option-divider">Global site</dt><dt class="site_www" lang="www">English</dt><dt class="site_jp" lang="jp">日本語</dt><dt class="site_cn" lang="cn">简体中文</dt><dt class="site_tw" lang="tw">繁體中文</dt><dt class="site_ru" lang="ru">Русский</dt><dt class="site_kr" lang="kr">한국어</dt><dt class="select-option-divider"></dt><dt class="select-option-divider" i18n_text_="languagePanel.countrySite">Country site</dt><dt class="country_at" country="austria">Austria</dt><dt class="country_fr" country="france">France</dt><dt class="country_de" country="germany">Germany</dt><!--<dt class="country_nl" country="netherlands">Netherlands</dt>--></dl>
 			</div>
 		</div>
 	</div>
@@ -94,7 +96,7 @@ var sLocation=document.location.hostname;var sSubDomain='';var sTopDomain='';var
 if(aLocationParts[1]=='www'&&LP.languages[aLocationParts[2]]){LP.subDomain=aLocationParts[2];LP.topDomain='.'+aLocationParts[3];}else{LP.subDomain=aLocationParts[1];LP.topDomain='.'+aLocationParts[2]+'.'+aLocationParts[3];}
 if(!LP.languages[LP.subDomain]){LP.subDomain='www';}
 LP.selectedValue.removeChild(LP.selectedValue.getElementsByTagName('dt')[0]);LP.selectedValue.appendChild(LP.languages[LP.subDomain].cloneNode(true));}
-LP.select=function(selectedOption){var sPath=document.location.pathname;var sHash=document.location.hash;if(selectedOption.getAttribute('lang')){if(selectedOption.getAttribute('lang')!=LP.subDomain){var sNewLocation='http://'+(selectedOption.getAttribute('lang')=='www'?selectedOption.getAttribute('lang'):'www.'+selectedOption.getAttribute('lang'))+LP.topDomain+(sPath?sPath:'')+(sHash?sHash:'');document.location=sNewLocation;}}else{var sNewLocation='http://'+document.location.hostname+'/country/'+selectedOption.getAttribute('country');document.location=sNewLocation;}}
+LP.select=function(selectedOption){var sPath=document.location.pathname;var sHash=document.location.hash;sHash=sHash.replace('/standardproducts','/homepage');if(selectedOption.getAttribute('lang')){if(selectedOption.getAttribute('lang')!=LP.subDomain){var sNewLocation='http://'+(selectedOption.getAttribute('lang')=='www'?selectedOption.getAttribute('lang'):'www.'+selectedOption.getAttribute('lang'))+LP.topDomain+(sPath?sPath:'')+(sHash?sHash:'');document.location=sNewLocation;}}else{var sNewLocation='http://'+document.location.hostname+'/country/'+selectedOption.getAttribute('country');document.location=sNewLocation;}}
 LP.initialize();
 	</script>
 </div>
@@ -199,6 +201,9 @@ SP.initialize();
 
 <li class="InpageNavigationItem">
 <a href="#address">Our Address</a></li>
+
+<li class="InpageNavigationItemClear">
+<a href="#germany">German privacy law</a></li>
 
 </ul>
 <br><br>
@@ -337,7 +342,18 @@ SP.initialize();
 	You can find our address by pressing the ‘NXP’ button at the bottom of this Web Site.<br>
 	If you have a concern about our use of your personally identifiable information, please let us know and we will make all 
 	reasonable efforts to address it.
-</p><!--end content_index-->
+</p>
+
+<a name="germany" id="germany"><h2>German privacy law</h2></a>
+<p>
+	In accordance with Germany privacy law the data privacy officer hereby informs you on data privacy 
+	procedures of NXP legal entities located in Germany. You can download the public record of procedures here:
+</p>
+<br>
+<ul>
+	<li><a href="/files/privacypolicy/verfahrensverzeichnis_germany_GmbH.doc" target="_blank">For NXP Semiconductors Germany GmbH</a> (German/Deutsch)</li>
+	<li><a href="/files/privacypolicy/verfahrensverzeichnis_germany_GA_GmbH.doc" target="_blank">For NXP Semiconductors GA GmbH</a> (German/Deutsch)</li>
+</ul><!--end content_index-->
 <!-- END MAIN CONTENT HERE -->
 										</div>
 									</div>
@@ -354,10 +370,11 @@ SP.initialize();
 		<a href="/siteowner/index.html">NXP</a> |
 		<a href="/privacypolicy/index.html" rel="nofollow">Privacy policy</a> |
 		<a href="/terms/index.html" rel="nofollow">Terms of use</a> |
-		<a href="/sitemap/">Sitemap</a>
+		<a href="/sitemap/">Sitemap</a> |
+		<a href="/mobile_app">Mobile app</a>
 	</div>
 	<div class="copyright">
-		©2006-2010 NXP Semiconductors. All rights reserved.
+		©2006-2011 NXP Semiconductors. All rights reserved. <span><span>沪ICP备1020807</span></span>
 	</div>
 </div>
 		</div>
@@ -371,46 +388,90 @@ SP.initialize();
 <script type="text/javascript" src="/javascript/en/scenarios.js"></script>
 <script type="text/javascript" src="/javascript/taxonomy.js"></script>
 
-				<script type="text/javascript" src="http://scripts.nxp.com/javascript/elqNow/elqCfg.js"></script>
+<script type="text/javascript" src="/javascript/libraries/shadowbox/shadowbox.js"></script>
+<script type="text/javascript" src="/javascript/shadowbox-scripts.js"></script>
+
+				<script type="text/javascript" src="/javascript/betaswap/betaswapper.js"></script>
+		<script type="text/javascript" src="http://scripts.nxp.com/javascript/elqNow/elqCfg.js"></script>
 		<script type="text/javascript" src="http://scripts.nxp.com/javascript/elqNow/elqImg.js"></script>
 		<script type="text/javascript" src="http://scripts.nxp.com/javascript/urchin.js"></script>
-    <script type="text/javascript" src="http://nxp.taggingserver.netmining.com/"><!-- --></script>
+		<script type="text/javascript" src="http://nxp.taggingserver.netmining.com/"></script>
 		<script type="text/javascript">
 			_uacct="UA-352656-6";_udn = "none"; _uOsr[20]="Inquiro"; _uOsr[21]="search.live.com"; _uOkw[20]="query"; _uOkw[21]="q"; _uOsr[7]="Baidu"; _uOkw[7]="wd"; _utimeout="600";_ulink=1; urchinTracker();addLinkerEvents();
 		</script>
 		<script type="text/javascript" src="/javascript/s_code.js"></script>
 		<script type="text/javascript">
 			var tempPage = location.href.replace("http://","");
-			tempPage = tempPage.substring(tempPage.indexOf("/"));
-			s.pageName = tempPage;
-			if(typeof bcData == 'object') {
-				if (bcData[0][1]!=''){
-					s.channel = bcData[0][1];
-				} else {
-					s.channel = "MPI page";
-				}
-			}else{
-				s.channel = "MPI page";
-			}
-			
-			if (typeof sOmniturePageType != 'undefined' && sOmniturePageType == '404') {
-				s.pageType = 'errorPage';
-			}
+					tempPage = tempPage.substring(tempPage.indexOf("/"));
+					s.pageName = tempPage;
+					
+					var currentPath = location.pathname.substring( 1 );
+					var firstPath = currentPath.substring( 0, currentPath.indexOf("/") );
+					
+					var mpiPages = new Array("news", 
+											 "models", 
+											 "profile", 
+											 "country",
+											 "my",
+											 "jobs",
+											 "products",
+											 "sitemap",
+											 "packings",
+											 "package",
+											 "applications");
+					
+					for( var iMpi = 0; iMpi < mpiPages.length; iMpi++ ){
+						if( firstPath == mpiPages[iMpi] ){
+							if (typeof oOmnitureProperties !='object'){
+								var oOmnitureProperties = {};
+								oOmnitureProperties.products = "";
+								var sOmnitureEvents = "prodView";
+							}
+						}
+					}
+					
+					if( typeof oOmnitureProperties == 'object' ) {
+						if( !oOmnitureProperties.channel ) {
+							if(typeof bcData == 'object') {
+								if (bcData[0][1]!=''){
+									s.channel = bcData[0][1];
+								} else {
+									s.channel = "MPI page";
+								}
+							} else {
+								s.channel = "MPI page";
+							}
+						}
+							
+						if (typeof sOmnitureEvents != "undefined" && sOmnitureEvents != "" ) {
+							s.linkTrackEvents = sOmnitureEvents;
+							s.events = sOmnitureEvents;
+							sOmnitureEvents = "";
+						}
+						if (typeof oOmnitureProperties !='object') {
+							var oOmnitureProperties = {};
+						}
+							
+						for (var sVal in oOmnitureProperties) {
+							s[sVal] = oOmnitureProperties[sVal];
+						}
+						oOmnitureProperties = null;
+					
+					} else {
+						if(typeof _page != "undefined" && (_page.dpiDocId != "" || _page.pageId != "")){
+							if (typeof _page.dpiDocId != 'undefined') {
+								s.products = ';' + _page.dpiDocId;
+							} else {
+								s.products = ';' + _page.pageId;
+							}
+							s.linkTrackEvents = "event1,prodView";
+							s.events = "event1,prodView";
+						}
+						s.channel = "classic";
+					}
+						
+					var s_code=s.t();if(s_code)document.write(s_code);
 
-			if (typeof sOmnitureEvents != "undefined" && sOmnitureEvents != "" ) {
-				s.linkTrackEvents = sOmnitureEvents;
-				s.events = sOmnitureEvents;
-				sOmnitureEvents = "";
-			}
-			if (typeof oOmnitureProperties !='object') {
-				var oOmnitureProperties = {};
-			}
-				
-			for (var sVal in oOmnitureProperties) {
-				s[sVal] = oOmnitureProperties[sVal];
-			}
-			oOmnitureProperties = null;
-			var s_code=s.t();if(s_code)document.write(s_code);
 		</script>
 
 	
