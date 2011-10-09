@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the jetbrains.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228031106id_/http%3A//www.jetbrains.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jetbrains.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009161941id_/http%3A//www.jetbrains.com/company/privacy.html) for the most accurate reproduction.*
 
 # JetBrains :: Technology-leading software development firm specializing in the creation of intelligent development tools.
-
-## JetBrains Privacy Policy
 
 JetBrains strongly believes that the protection of individuals’ privacy is a critical issue when doing business via the Internet. We have created this policy to inform our site visitors and customers of the measures we employ to keep private and confidential the information they may choose to share with us.
 
