@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2011-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110601194518id_/http%3A//www.edutopia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009194559id_/http%3A//www.edutopia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edutopia
 
-The George Lucas Educational Foundation (GLEF) is firmly committed to respecting the privacy rights of all visitors to our website. This privacy policy will advise you about how we protect your personal information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Web site. All changes will be posted here.
+The George Lucas Educational Foundation (GLEF) is firmly committed to respecting the privacy rights of all visitors to our website. This privacy policy will advise you about how we protect your personal information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our website. All changes will be posted here.
 
 ## What Information Do We Collect?
 
