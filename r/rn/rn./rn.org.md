@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820020252id_/http%3A//www.rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rn.org privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009052235id_/http%3A//www.rn.org/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Online Nursing Continuing Education Provider with a Free Online CE Course
 
 | 
 
-[Nursing Resources](http://www.rn.org/NursingOrganizations.php)[](https://web.archive.org/web/20080820020252id_/http%3A//www.rn.org/index.php)
+[Nursing Resources](http://www.rn.org/NursingOrganizations.php)[](https://web.archive.org/web/20111009052235id_/http%3A//www.rn.org/index.php)
 
 |    
 ---|---  
@@ -13,7 +13,7 @@
 
 |    
   
-[About RN.org](http://www.rn.org/AboutRNORG.php)
+[About RN.org®](http://www.rn.org/AboutRNORG.php)
 
 |    
   
@@ -21,7 +21,7 @@
 
 |    
   
-[Español](http://www.rn-espanol.com/index.php)
+[Español](http://www.enfermeriasite.com/index.php)
 
 |    
   
@@ -55,7 +55,7 @@ _"Your Bioterrorism for ER course is outstanding and covers what we need to know
 
 _"$20 Unlimited Nurses CE caught my attention however FEMA, Disaster and Nursing Online Education and CEU's with Instant Certificates was the Frosting on the Cake!!, Donald J., RN, CEN, ANRP, Washington, DC._
 
-_"I was searching for Nursing Spectrum and MyfreeCE and came across your site, amazing for Nursing CEU's free, RN.ORG is excellent! Free CEUs was my first thought and I ended up signing up before I even took the Free CEU course!". Robert B., RN, US Army_
+_"I was searching for Spectrum and MyfreeCE and came across your site, amazing for Nursing CEU's free, RN.ORG is excellent! Free CEUs was my first thought and I ended up signing up before I even took the Free CEU course!". Robert B., RN, US Army_
 
 _"Finding a Online Disaster Nursing Education website with CEU's for nurses that is so easy to use is incredible!! FEMA, Disaster, Bioterrorism and Nursing CEUs all on one site that are Accredited for Medics/Nurses by the state board of Nursing allows me more time to run my ER and less time dealing with education", JA P., RN, Los Angeles, CA_
 
@@ -83,9 +83,7 @@ At RN.org, we are committed to protecting your privacy.  This Privacy Policy wi
 
 We collect information on the site in order to make it possible for you to purchase items on our website and to enhance your overall experience.  We also monitor traffic patterns and site usage to help us develop and improve design and layout.  **RN.org will not collect personal information about you without your knowledge and consent.**
 
-We will also use your contact data to send you information about promotions and offers from our advertisers, and we may also send third party offers from sources trusted by RN.org to our visitors and members who have indicated that they would like to receive these types of communications. **  **You may always opt out of receiving future mailings - see the “Opt Out” section below.
-
-We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20080820020252id_/http%3A//www.rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
+We may employ outside agents, meaning other companies or individuals to perform functions on our behalf, such as sending postal mail and email, promotional activities, processing credit card payments, and providing customer service.  These RN.org agents have access to personal information needed to perform their functions, but may not use it for other purposes.  Other than our outside agents, we keep all of your personal information private and will not share it with any third party, unless you have authorized us to or we are legally required to do so.  RN.org may also release account information when we believe, in good faith, that such release is reasonably necessary to enforce or apply the provisions of our _[Terms of Service](https://web.archive.org/web/20111009052235id_/http%3A//www.rn.org/TermsofService.php)_ or to protect the rights, property or safety of RN.org, our users, or others.
 
 RN.ORG may provide information in the aggregate to third parties without disclosure of personally identifying information.
 
@@ -111,39 +109,19 @@ If the personal information we have gathered from you changes, we will gladly co
 
 **Security of your information**
 
-When you make a purchase on our website, we need to obtain your credit card number, expiration date and billing address information.  This information is encrypted and transmitted safely over the Internet where it is stored in our secure Internet server – where it is use for billing purposes only.
-
-Our site has security measures in place intended to protect against the loss, misuse and alteration of the information under our control.  We use SSL encryption to help ensure that all the personal information you provide is encrypted and remains private (unless sent by an unsecured means, such as email).  This helps to maintain the confidentiality of your information.
+When you make a purchase on our website, the bank needs to obtain your credit card number, expiration date and billing address information.  This information is encrypted and transmitted safely over the internet to our bank where it is stored in their secure servers – where it is used for billing purposes only. RN.org does not have access to this information as all credit card processing is handled by our bank and is not stored on the RN.org servers.   Our bank uses SSL encryption to help ensure that all the personal information you provide is encrypted and remains private (unless sent by an unsecured means, such as email).  This helps to maintain the confidentiality of your information.
 
 We strive to protect your personal information, however we cannot ensure or warrant the security of any information you transmit to us.
-
-**Opt Out**
-
-Currently, we send information about new offers and special values to members who indicated in their registration with our website that they wished to receive such information and so users with e-mail accounts.  You may choose to opt out of receiving such mailings at any time, by entering that choice on your “account info” page after logging in as a user or by sending us a email message to webmaster@rn.org..
 
 **Your Acceptance of These Terms**
 
 By visiting the RN.org site, you consent to the terms of this Privacy Policy and to the collection and use of this information by RN.org.  We will always fully disclose our privacy policies, and we will promptly post any changes to our policy on this page.
 
-**If you have registered with RN.org, notice of changes to our Privacy Policy will be delivered to you via email.** You will have the time set forth in such notice to inform RN.org if you do not agree with the changes. If you do not agree to the changes, you must inform RN.org and discontinue use of the RN.org Website.
+You will have the time set forth in such notice to inform RN.org if you do not agree with the changes. If you do not agree to the changes, you must inform RN.org and discontinue use of the RN.org website. 
 
-You agree that RN.org may retain and use your personal information until you inform us that you do not agree with this Privacy Policy and agree that you will not use the RN.org Website for a reasonable period of time thereafter, in accordance with RN.org 's data retention policies and/or practices.  By using this site after we post any changes to this Privacy Policy, you agree to accept those changes.
+You agree that RN.org may retain and use your personal information until you inform us that you do not agree with this Privacy Policy and agree that you will not use the RN.org website for a reasonable period of time thereafter, in accordance with RN.org 's data retention policies and/or practices.  By using this site after we post any changes to this Privacy Policy, you agree to accept those changes.
 
 If you choose to visit RN.org, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Service.
-
-**Contacting the Website**
-
-**Primary / Principal Office** **  
-** RN.ORG, SA   
-Calle 30, No 41-68   
-Itagüí, Colombia, Sur America   
-
-
-**Remote Office** **  
-** RN.ORG, SA   
-PO Box 670608   
-Coral Springs, Florida, 33067 USA   
-
 
 As a continuing education nursing provider, RN.org is interested in your professional articles which could be used as nursing continuing education online material. We provide all the credentialing and certifications using our provider numbers, you supply the content in a easy to read format with between 1800 and 2000 words in ideally, APA format. [Contact us](http://www.rn.org/AboutRNORG.php) for more information. [www.rn.org](http://www.rn.org/) is a continuing education provider nursing. 
 
