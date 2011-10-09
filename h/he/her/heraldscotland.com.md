@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heraldscotland.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520194216id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heraldscotland.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009200447id_/http%3A//www.heraldscotland.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Herald Scotland | Misc | Privacy Policy
 
@@ -53,8 +53,8 @@ Send us an email: at support@heraldandtimes.co.uk. Be sure to include your name 
 It is our policy to only disclose information to third parties under the following circumstances:
 
   * As required by law
-  * When explicitly requested by a visitor
-  * When required to deliver products or services requested by a visitor
+  * When explicitly requested by a user
+  * When required to deliver products or services requested by a user and with their express permission
 
 
 
