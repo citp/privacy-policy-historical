@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gurumaa.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409082041id_/http%3A//www.gurumaa.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurumaa.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009030115id_/http%3A//www.gurumaa.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Terms of Service
+
+## Privacy Policy
 
 #### We recognize your right to confidentiality and are committed to protecting your privacy. We pride ourselves on our commitment to our customers and we feel it is important that we publicize our privacy policy. This page summarizes our privacy policy/practices for gurumaa.com. Personal information is only collected, used and disclosed in accordance with this policy.
 
