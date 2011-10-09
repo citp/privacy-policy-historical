@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215203400id_/http%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lessonplanet.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009072826id_/http%3A//www.lessonplanet.com/us/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
