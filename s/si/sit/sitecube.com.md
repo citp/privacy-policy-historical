@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430142925id_/http%3A//www.sitecube.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitecube.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009065932id_/http%3A//www.sitecube.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy For Sitecube.com Website Building Clients
+# Build a Website Easily!
 
 **Site** **Cube** has created this Privacy Policy in order to demonstrate our commitment to the privacy and protection of your information. As part of the normal operation of services, we collect and, in some instances, disclose information about you. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
