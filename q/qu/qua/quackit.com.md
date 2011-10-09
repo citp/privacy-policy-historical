@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520100007id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quackit.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009024642id_/http%3A//www.quackit.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy for Quackit.com
-
-[](https://web.archive.org/web/20110520100007id_/http%3A//www.quackit.com/privacy_policy.cfm?pageView=Print)
 
 As a visitor to Quackit.com, your privacy is important to us.
 
@@ -30,16 +28,16 @@ We also may use DART cookies for ad serving through Google’s DoubleClick, whic
 
 Some of the products and services provided on Quackit.com are made in conjunction with third party websites. You may be required to provide personal information to these third party websites in order to use their service or purchase a product. In these cases, we encourage you to read the privacy policy of the third party website.
 
-## Enjoy this website?
+## Enjoy this page?
 
-  * [Share](http://www.facebook.com/sharer.php)
-  * Add this page to your Favorites
-  * Link to this page (copy/paste into your own website or blog): 
-  * Link to Quackit using one of these [banner ads](https://web.archive.org/link_to_quackit.cfm).
-  * Help support Quackit by making a [donation](https://web.archive.org/donate/)
+  1.   2. Add this page to your Favorites
+  3. Link to this page (copy/paste into your own website or blog): 
+  4. Link to Quackit using one of these [banner ads](https://web.archive.org/link_to_quackit.cfm).
 
 
 
-Oh, and thank you for supporting Quackit!
+Thanks for supporting Quackit!
 
 | 
+
+[](https://web.archive.org/web/20111009024642id_/http%3A//www.quackit.com/privacy_policy.cfm?pageView=Print)
