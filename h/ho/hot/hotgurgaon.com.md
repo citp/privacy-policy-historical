@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgurgaon.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531081520id_/http%3A//www.hotgurgaon.com/includes/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgurgaon.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009025958id_/http%3A//www.hotgurgaon.com/includes/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Hot Gurgaon
 
