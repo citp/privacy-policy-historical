@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napacabs.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204104420id_/http%3A//www.napacabs.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napacabs.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009031821id_/http%3A//www.napacabs.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,10 +95,6 @@ Send mail to Support with questions or comments about this web site.**
 Napacabs  
 14702 Central Ave. Unit A  
 Chino, California 91710
-
-(909) 548-2888  
-(909) 657-9950  
-(866) 601-4904 (Toll Free)
 
 [Get Map](http://maps.yahoo.com/maps_result?addr=14702%20Central%20ave&csz=Chino,%2BCa%2B91710&country=us&name=&qty=&cat=trav&trf=0) [Get Directions](http://maps.yahoo.com/dd;_ylt=AiYjMAHjptE1grhxy3hHfl8a3kcC?addr=&csz=&country=us&taddr=14702+Central+Ave&tcsz=Chino%2C+CA+91710&tcountry=us&oerr=-3001)
 
