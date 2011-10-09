@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2008-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080510144221id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineersedge.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009111003id_/http%3A//www.engineersedge.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Engineers Edge
 
-  [Partnerships & Affiliations](http://www.engineersedge.com/partnership.htm)  
-
 **Engineers Edge Privacy Policy**
 
-All information collected by Engineers Edge is confidential and will not be shared with any third-party without your permission.
+**All personal, business and/or tracking information collected by Engineers Edge is confidential and WILL NOT be shared with any third-party without your permission.**
 
 Requested Information
 
-Engineers Edge registration form asks users for name, email address, and a unique user name and password to identify their account. This information is required in order to provide you with requested services.  Our website logs IP addresses and browser types but we do not link IP addresses to anything personally identifiable.
+Engineers Edge registration form asks users for name, email address, and a unique user name and password to identify their account. This information is required in order to provide you with requested services.  Our web site logs IP addresses and browser types but we do not link IP addresses to anything personally identifiable.
 
 Use of Information
 
@@ -20,8 +18,19 @@ This site contains links to other sites. We are not responsible for the privacy 
 
 Cookies
 
-Engineers Edge does use cookies to enhance our visitors sessions within our forums, resume and job database. Engineers Edge does not use cookies in any way which would violate our visitors privacy. Engineers Edge does track users by their unique i.p. address for collection of overall website statistics such as number page views. Additionally, some of Engineers Edge partners and advertisers use cookies. If you are uncomfortable with cookie technology, you have the option of setting your browser to reject cookies.
+Engineers Edge does use cookies to enhance our visitors sessions throughout Engineersedge.com web site. Engineers Edge does not use cookies in any way which would violate our visitors privacy. Engineers Edge does track users by their unique ip address for collection of overall web site statistics such as number page views. 
+
+Please note, Engineers Edge use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you are uncomfortable with cookie technology, you have the option of setting your browser to reject cookies.
+
+Advertising Networks
+
+Engineers Edge utilizes third party advertising organizations to serve contextual and other targeted advertisements on Engineers Edge. These adverting organizations may use details about your visit to Engineers Edge networks to deliver targeted advertisements about goods and services of interest to you.
+
+Goggle is utilized to deliver targeted advertisements on Engineers Edge. Google does use their own cookies to serve ads. The Goggle organization uses cookies by DART to serve ads to you while you visit Engineers Edge and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the [Goggle ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
+
 
 Contact Us
 
-If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link:   [webmaster](https://web.archive.org/web/20080510144221id_/http%3A//www.engineersedge.com/webmaster.htm)
+If you have any questions about this privacy statement or the practices of the Engineers Edge web site, please contact us by following the following link:   [webmaster](https://web.archive.org/web/20111009111003id_/http%3A//www.engineersedge.com/webmaster.htm)
+
+© Copyright by Engineers Edge, All rights reserved 
