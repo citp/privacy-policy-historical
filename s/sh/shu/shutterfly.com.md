@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207063222id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterfly.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009120606id_/http%3A//www.shutterfly.com/help/privacy.jsp) for the most accurate reproduction.*
 
 # Shutterfly | Privacy Policy
 
   
 | 
+
+  
+
 
 **Dedicated to your privacy**
 
@@ -138,7 +141,7 @@ Shutterfly will make an effort to keep all your Personal Information up to date 
 
 ##### 6\. Opt-Out
 
-You may unsubscribe to our notification services through your account profile on the Shutterfly Web site. Simply go to the My Shutterfly page and click on 'Personal info/settings,' then on 'Email preferences' or contact our Customer Service team. From time to time Shutterfly may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with affiliates and/or third parties for such affiliates' and/or third parties' direct marketing purposes, you may submit an opt-out request by going to the My Shutterfly page and selecting the 'Personal info/settings' link and then clicking on 'Email preferences.' We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
+You may unsubscribe to our notification services through your account profile on the Shutterfly Web site. Simply go to the My Shutterfly page and click on 'Personal info/settings,' then on 'Preferences' or contact our Customer Service team. From time to time Shutterfly may share Personal Information with affiliates or third parties to allow them to contact you regarding products, programs, services and promotions that we believe may be of interest to you. If you would prefer that we do not share your Personal Information with affiliates and/or third parties for such affiliates' and/or third parties' direct marketing purposes, you may submit an opt-out request by going to the My Shutterfly page and selecting the 'Personal info/settings' link and then clicking on 'Preferences.' We will comply with your request as soon as reasonably practicable. Please note that we will not be able to remove your Personal Information from the databases of affiliates or third parties with which we have already shared your Personal Information as of the date that we implement your opt-out request. If you wish to cease receiving marketing-related e-mails from any such affiliates or third parties, please contact the affiliate or third party directly or use any opt-out mechanisms provided in its marketing-related e-mails or privacy policy.
 
 ##### 7\. Security
 
