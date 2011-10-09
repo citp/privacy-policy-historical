@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425025915id_/http%3A//www.jr.com/information/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jandr.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009031552id_/http%3A//www.jr.com/information/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy and Security at JR.com
+# JR.com: Privacy and Security
 
   * • Privacy Policy
   * • Cookies
   * • Clear Gifs (Web Beacons)
+  * • Advertising
   * • Loyalty Programs
   * • Legal Disclaimers
   * • Secure Shopping
@@ -31,6 +32,10 @@ We currently contract with several online partners to help manage and optimize o
 
 We use a third-party service provider to serve ads on our behalf across the Internet. They may collect anonymous information about your visits to our Web site, and your interaction with our products and services. They may also use information about your visits to this and other Web sites to target advertisements for goods and services. This anonymous information is collected through the use of a clear gif. If you would like more information about this practice and to know your choices about not having this anonymous information used by our third-party service provider, please click here: <http://www.networkadvertising.org/managing/opt_out.asp>   
 (Please note- some of the cookies that may show as "active" if you click on this link may be from other websites you have visited, not from J&R alone.) 
+
+## Advertising
+
+The ads appearing on this Web site are delivered to users by a reputable, third-party advertising partner(s). We share Web site usage information about users with such third-party advertising partners for the purpose of targeting our advertisements on this site. Such advertising partners may use cookies and clear GIFs on this site to enable them and their partners to recognize a user's cookie when a user visits this site and to serve ads to you based on your visit to this site or other sites on the Internet. The information that such advertising partners collect and share through this technology is not personally identifiable. For more information about these third-party advertising partners, or to learn more about the choices available to you regarding this anonymous information, please click here: <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ## Loyalty Programs
 
