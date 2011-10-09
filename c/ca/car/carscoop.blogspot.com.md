@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carscoop.blogspot.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124101915id_/http%3A//carscoop.blogspot.com/2009/01/carscoop-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carscoop.blogspot.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009061259id_/http%3A//carscoop.blogspot.com/2009/01/carscoop-privacy-policy.html) for the most accurate reproduction.*
 
 # Carscoop Privacy Policy - Carscoop
 
