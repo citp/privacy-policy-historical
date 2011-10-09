@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mansioncasino.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630052313id_/http%3A//www.mansioncasino.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansioncasino.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009132859id_/http%3A//www.mansioncasino.com/security-and-privacy) for the most accurate reproduction.*
 
 # Join Mansion Casino | Secure and Discreet Casino | MansionCasino.com
 
