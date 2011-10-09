@@ -1,23 +1,28 @@
-> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228163921id_/http%3A//www.pcreview.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcreview.co.uk privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009060404id_/http%3A//www.pcreview.co.uk/forums/faq.php%3Ffaq%3Dprivacypolicy) for the most accurate reproduction.*
 
-# PC Review - Privacy Policy
+# PC Review - FAQ: Privacy Policy
 
-[PC Review](http://www.pcreview.co.uk/) Privacy Policy 
+At www.pcreview.co.uk, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.pcreview.co.uk and how it is used. 
 
-**PC Review respects your privacy.**
+**Log Files**  
+Like many other Web sites, www.pcreview.co.uk makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-Any personal information you provide to us including and similar to your name and e-mail address will not be released, sold, or rented to any entities or individuals outside of PC Review.
+**Cookies and Web Beacons**  
+www.pcreview.co.uk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**External Sites.**
+**DoubleClick DART Cookie**  
+.:: Google, as a third party vendor, uses cookies to serve ads on your site.  
+.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
-PC Review is not responsible for the content of external internet sites. You are advised to read the privacy policy of external sites before disclosing any personal information.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.pcreview.co.uk send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-**Cookies**
+www.pcreview.co.uk has no access to or control over these cookies that are used by third-party advertisers. 
 
-A "cookie" is a small data text file that is placed in your browser and allows PC Review to recognize you each time you visit this site (customisation etc). Cookies themselves do not contain any personal information, and PC Review does not use cookies to collect personal information. Cookies may also be used by 3rd party content providers such as advertisers.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.pcreview.co.uk's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site (for example, Doubleclick DART), and you can opt out of these by changing your cookie settings from your Internet Options page. We use third-party advertising companies to serve ads when you visit our website. These companies may use information about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.   
 
-**Remember The Risks Whenever You Use The Internet**
 
-While we do our best to protect your personal information, we cannot guarantee the security of any information that you transmit to PC Review and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition other Internet sites or services that may be accessible through PC Review have separate data and privacy practices independent of us, and therefore we disclaim any responsibility or liability for their policies or actions. 
+**ValueClick Media**  
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org .
