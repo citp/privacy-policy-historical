@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215070734id_/http%3A//creativelive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativelive.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009093534id_/http%3A//www.creativelive.com/privacy) for the most accurate reproduction.*
 
 # privacy policy | creativeLIVE
 
