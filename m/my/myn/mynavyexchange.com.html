@@ -1,0 +1,704 @@
+<!--The following is the downloaded HTML source of the mynavyexchange.com privacy policy that was archived on 2011-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111009054059id_/https%3A//www.mynavyexchange.com/command/privacy_policy/p_privacy_policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="/SpryAssets/SpryCollapsiblePanel.css" rel="stylesheet" type="text/css">
+<link href="/SpryAssets/SpryTabbedPanels.css" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript" language="JavaScript" src="/auth/javascript/FormValidationEcom.js"></script>
+	<script type="text/javascript" language="JavaScript" src="/auth/javascript/aes-lib.js"></script>
+
+
+<link href="/css/nex_main.css" rel="stylesheet" type="text/css"><link href="/nex.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+//<![CDATA[
+
+
+var pagename = "/";
+var z='abcdefghijuklmno0123456789012345';
+var zz='uniformsijuklmno0123456789012345';
+var id='';
+
+
+
+function getCookie(c_name)
+{
+if (document.cookie.length>0)
+  {
+  c_start=document.cookie.indexOf(c_name + "=");
+  if (c_start!=-1)
+    {
+    c_start=c_start + c_name.length+1;
+    c_end=document.cookie.indexOf(";",c_start);
+    if (c_end==-1) c_end=document.cookie.length;
+    return unescape(document.cookie.substring(c_start,c_end));
+    }
+  }
+return "";
+}
+
+
+<!-- Original:  Ronnie T. Moore, Editor -->
+
+<!-- This script and many more are available free online at -->
+<!-- The JavaScript Source!! http://javascript.internet.com -->
+
+<!-- Begin
+// Take user here after session timed out
+timedouturl = "/auth/logout.php";
+
+function Minutes(data) {
+for (var i = 0; i < data.length; i++)
+if (data.substring(i, i + 1) == ":")
+break;
+return (data.substring(0, i));
+}
+function Seconds(data) {
+for (var i = 0; i < data.length; i++)
+if (data.substring(i, i + 1) == ":")
+break;
+return (data.substring(i + 1, data.length));
+}
+function Display(min, sec) {
+var disp;
+if (min <= 9) disp = " 0";
+else disp = " ";
+disp += min + ":";
+if (sec <= 9) disp += "0" + sec;
+else disp += sec;
+return (disp);
+}
+function Down() {
+sec--;
+if (sec == -1) { sec = 59; min--; }
+document.timerform.clock.value = Display(min, sec);
+window.status = "Session will time out in: " + Display(min, sec);
+if (min == 0 && sec == 0) {
+var answer = confirm("Your session has timed out.")
+if (!answer)
+    {window.location.href='/auth/logout.php';}
+window.location.href='/auth/logout.php';
+
+}
+else down = setTimeout("Down()", 1000);
+}
+function timeIt() {
+min = 1 * Minutes(document.timerform.clock.value);
+sec = 0 + Seconds(document.timerform.clock.value);
+Down();
+}
+//  End -->
+
+
+
+function remove_cookie(name) {
+document.cookie = name +
+'=; expires=Thu, 01-Jan-70 00:00:01 GMT;';
+}
+
+String.prototype.capitalize = function(){  return this.toLowerCase().replace( /(^|\s)([a-z])/g , function(m,p1,p2){ return p1+p2.toUpperCase(); } ); }
+
+function checkCookie()
+{
+
+		/*$("#shopOnlineA").hide();
+		$("#uniformsA").hide();
+		$("#cust-servA").hide();
+		$("#in-storeA").hide(); */
+		$("#shopOnline").hover(showShopOnline);
+		$("#uniforms").hover(showUniforms);
+		$("#in-store").hover(showInStore);
+		$("#cust-serv").hover(showCustServ);
+
+
+var eUsername=getCookie('nexcom');
+var dUsername = AesCtr.decrypt(eUsername, z, 256);
+ if ( (eUsername!=null  && id!="" ) )
+
+ {
+ //alert(eUsername);
+	if (dUsername=="AuthenticatedNexCustomer" ) 		//Regular access
+  	{
+
+	var eUsr=getCookie('nexencryptusr');
+	var dUsr = AesCtr.decrypt(eUsr, z, 256);
+	var dLastName = dUsr.substring(0,dUsr.length -14);
+	//"+dLastName.capitalize()+"
+		if (dLastName)
+		{
+		$("#login_form").html("<span>Welcome <br/><a href=\"https://mynavyexchange.nexweb.org/\" ><img align=\"center\" width=\"130px\" src=\"/images/shopnow.PNG\"> </a><br/></span>");
+		timeIt();
+		}
+	}
+ }
+ else
+ {
+	remove_cookie('nexcom');
+ }
+}
+
+	function auth() {
+		var lname = $("#lname").val();
+		var lssn = $("#lssn").val();
+		var ldob = $("#ldob").val();
+		var action = $("#action").val();
+		var module = $("#module").val();
+		var pagename = $("#pagename").val();
+
+		$.post("/auth/do-login.php",{"lname":lname,"lssn":lssn,"ldob":ldob,"action":action,"module":module,"pagename":pagename},processResult);
+
+	}
+
+	function signUp() {
+			var p_e_mail = $("#p_e_mail").val();
+			var p_e_mail2 = $("#p_e_mail2").val();
+			var p_facility = $("#p_facility").val();
+
+			if (eUsr=getCookie('nexencryptusr')) {
+				var dUsr = AesCtr.decrypt(eUsr, z, 256);
+				var lname = dUsr.substring(0,dUsr.length -14);
+				var lssn = dUsr.substring(dUsr.length -13,dUsr.length -9);
+				var ldob = dUsr.substring(dUsr.length -8,dUsr.length );
+				$.post("/auth/do-signup.php",{"lname":lname,"lssn":lssn,"ldob":ldob,"p_e_mail":p_e_mail,"p_e_mail2":p_e_mail2,"p_facility":p_facility},signResult);
+			}
+			else { alert("Please SIGN-IN TO SHOP prior to sign up."); }
+
+	}
+
+	function signResult(data,textStatus){
+			$("#signup_response").html(data);
+			$("#signupForm").html("");
+	}
+
+	function processResult(data,textStatus){
+		if ( data == "OK" ){
+				var corpUrl = 'https://www.mynavyexchange.com/auth/private.php';
+				window.location = corpUrl+'?redir='+pagename.toString(); // Members Area
+		}
+		else {
+			$("#login_response").html(data);
+			//alert(data);
+		}
+	}
+
+	function showShopOnline() {
+		$("#welcome").hide();     //hide all elements I dont want to see
+		$("#uniformsA").hide();
+		$("#cust-servA").hide();
+		$("#in-storeA").hide();
+		$("#shopOnlineA").show(); // show the element
+	}
+
+	function showUniforms() {
+		$("#welcome").hide();
+		$("#shopOnlineA").hide();
+		$("#cust-servA").hide();
+		$("#in-storeA").hide();
+		$("#uniformsA").show();
+	}
+	function showInStore() {
+			$("#welcome").hide();
+			$("#uniformsA").hide();
+			$("#shopOnlineA").hide();
+			$("#cust-servA").hide();
+			$("#in-storeA").show();
+	}
+
+	function showCustServ() {
+			$("#welcome").hide();
+			$("#shopOnlineA").hide();
+			$("#uniformsA").hide();
+			$("#in-storeA").hide();
+			$("#cust-servA").show();
+	}
+
+	function feedback_error () {
+				name = document.getElementById("txtName").value;
+				email = document.getElementById("txtEmail").value;
+				comment = document.getElementById("comment").value;
+					errors = "";
+			        nameRE = /^.+ .{2,20}$/;
+			        //check name - It simply needs to exist
+			        if (name == ""){
+			          errors += "Name cannot be blank \n";
+			        } else if(name.match(nameRE)){
+			          //console.log("Name is okay");
+			          //do nothing.
+			        } else{
+			          errors += "Please input first and last name \n";
+			        }// end if name
+
+
+					//check email
+					emailRE = /^.+@.+\..{2,4}$/;
+					if (email.match(emailRE)){
+					    //console.log("email match");
+					    //do nothing.
+					} else {
+					    //console.log("email not a match");
+					    errors += "Please check email address, not a valid email address \n";
+					} // end if
+
+					//check for errors
+					        if (errors == ""){
+							    //alert ("Data Transmitted");
+							    //process the form
+					        } else {
+							   alert(errors);
+							   return false;
+	    			} // end if
+	}
+	function processFeedback(data,textStatus){
+				$("#feedback_response").html(data);
+				$("#feedback_form").html("");
+	}
+
+	function feedback() {
+			name = document.getElementById("txtName").value;
+			email = document.getElementById("txtEmail").value;
+			comment = document.getElementById("comment").value;
+			feedback = "My Navy Exchange Website";
+			receiver = "customer.service@nexweb.org";
+	        //create an empty error message
+
+
+			$.get("/command/customer_service/mail.php",{"comment":comment,"txtReceiver":receiver, "txtName":name, "txtEmail":email, "txtFeedback":feedback},processFeedback);
+
+	}
+
+
+$(checkCookie); //runs the cookie check & other initializations needed
+
+
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//]]>
+</script>
+
+<script src="/translucentslideshow.js" type="text/javascript">
+
+/***********************************************
+* Translucent slideshow- (c) Dynamic Drive (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit http://www.dynamicdrive.com/ for this script and 100s more.
+***********************************************/
+
+</script>
+
+<script type="text/javascript">
+//<![CDATA[
+
+$(function(){
+	//Get our elements for faster access and set overlay width
+	var div = $('div.sc_menu'),
+		ul = $('ul.sc_menu'),
+		ulPadding = 15;
+	//Get menu width
+	var divWidth = div.width();
+	//Remove scrollbars
+	div.css({overflow: 'hidden'});
+	//Find last image container
+	var lastLi = ul.find('li:last-child');
+	//When user move mouse over menu
+	div.mousemove(function(e){
+		//As images are loaded ul width increases,
+		//so we recalculate it each time
+		var ulWidth = lastLi[0].offsetLeft + lastLi.outerWidth() + ulPadding;
+		var left = (e.pageX - div.offset().left) * (ulWidth-divWidth) / divWidth;
+		div.scrollLeft(left);
+	});
+});
+
+
+function MM_jumpMenu(targ,selObj,restore){ //v3.0
+  eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+  if (restore) selObj.selectedIndex=0;
+}
+//]]>
+</script>
+
+<!-- nivo-slider -->
+
+<script type="text/javascript" src="javascript/jquery-1.6.1.min.js"></script>
+
+
+<script type="text/javascript" src="javascript/jquery.nivo.slider.pack.js"></script>
+
+<script type="text/javascript">
+    $(window).load(function() {
+        $('#slider').nivoSlider();
+            		//following section enables me to load facebook panel last
+					document.getElementById("jq_iframe").innerHTML = "<iframe src=\"https://www.facebook.com/plugins/likebox.php?href=https%3A%2F%2Fwww.facebook.com%2Fnavyexchange&amp;width=140&amp;colorscheme=light&amp;show_faces=true&amp;stream=false&amp;header=false&amp;height=250\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:140px; height:250px;\" allowTransparency=\"true\"> </iframe> ";
+
+    });
+
+</script>
+
+<!-- <link href="css/style.css" rel="stylesheet" type="text/css" /> -->
+<link href="css/nivo-slider.css" rel="stylesheet" type="text/css">
+<link href="css/default2/default.css" rel="stylesheet" type="text/css">
+<!--<link href="css/pascal/pascal.css" rel="stylesheet" type="text/css" />-->
+<!--<link href="css/orman/orman.css" rel="stylesheet" type="text/css" />-->
+
+<style type="text/css">
+
+#apDiv1 {
+	position:relative;
+	width:300px;
+	height:311px;
+	z-index:30;
+	left:5px;
+	top: 1px;
+}
+
+</style>
+
+<!-- End of nivo-slider -->
+
+<!-- customer service -->
+
+
+
+
+<script src="SpryAssets/SpryTooltip.js" type="text/javascript"></script>
+<link href="SpryAssets/SpryTooltip.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><script type="text/javascript" src="/jquery/jquery-1.4.2.min.js"></script>
+			<script type="text/javascript" src="/storefinder/js/animatedcollapse.js"></script>
+
+<script type="text/javascript" src="/work4us/js/switchcontent.js">
+
+/***********************************************
+* Switch Content script- (c) Dynamic Drive (www.dynamicdrive.com)
+* This notice must stay intact for legal use.
+* Visit http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+</script>
+
+<style type="text/css">
+
+/*Style sheet used for demo. Remove if desired*/
+.handcursor{
+cursor:hand;
+cursor:pointer;
+}
+
+</style>
+
+<!-- end work4us -->
+
+
+
+<title>Navy Exchange Service Command - Official US Navy Web Site</title>
+</head>
+<body>
+
+<div class="container">
+  <div class="header">
+    <!-- end .header -->
+    <div class="topHead" style="margin-bottom:-3px;"><span class="topHead" style="margin-bottom:0px"><img src="/images/header_01.jpg" width="940" height="76" border="0" usemap="#Map" href="/nexflyer/index.html"></span>
+      <map name="Map" id="Map">
+        <area shape="rect" coords="754,2,816,16" href="https://mynavyexchange.nexweb.org/">
+        <area shape="rect" coords="818,1,871,17" href="/nexflyer/index.html">
+        <area shape="rect" coords="872,0,934,18" href="/storefinder/index.html">
+        <area shape="rect" coords="9,24,98,77" href="/">
+      </map>
+    </div>
+    <div id="bottomHead">
+
+	<!--<img src="/images/bottomHead_03.jpg" border="0" useMap="#Map2">-->
+
+
+   <span id="mainNav">
+      <ul class="nav">
+        <li id="shopOnline"><a href="https://mynavyexchange.nexweb.org/"><span class="slash">/</span> SHOP ONLINE</a></li>
+        <li id="uniforms"><a href="/uniform/wg_select_speed.html"><span class="slash">/</span> UNIFORMS</a></li>
+        <li id="in-store"><a href="/storefinder/"><span class="slash">/</span> STORE FINDER</a></li>
+        <li id="cust-serv"><a href="/command/customer_service/customer_service.html"><span class="slash">/</span> CUSTOMER SERVICE</a></li>
+      </ul>
+    </span>
+
+
+
+
+    </div>
+  </div>
+
+<div style="position:absolute;top:70px;right:180px;">
+<form name="timerform">
+<input type="hidden" name="clock" size="7" value="20:00" readonly="readonly">
+</form>
+</div>
+
+
+<div id="container-internal" class="clearing">
+
+
+
+  <div class="sidebar1">
+
+   <div id="columnTitle" style="margin-bottom:-1;">
+   <br>
+   <span id="spanTitle">NEXCOM</span>
+	</div>
+
+	    <div id="menuSidebar">
+	    <div class="Sidebar-links">
+
+	     
+
+          <a href="/command/about_us/p-annualreport.html">Annual Report</a> <br>
+	  <a href="/command/disaster-communication.html">Disaster Communications</a><br>
+	  <a href="https://www.navsup.navy.mil/navsup/ourteam/nexcom">Navy Exchange Service Command</a><br>
+          <a href="/exchange/m-exchanges.html">Navy Exchange Stores</a> <br>
+	  <a href="https://www.navy-lodge.com/index.html">Navy Lodge</a><br>
+          <a href="https://www.navsup.navy.mil/navsup/ourteam/nexcom/prod_serv/nctrf">NCTRF</a><br>
+	  <a href="https://www.navsup.navy.mil/navsup/ourteam/nexcom/news/press_releases">Press Releases</a><br>
+	  <a href="https://www.navsup.navy.mil/navsup/ourteam/nexcom/prod_serv/ship_stores" class="MenuBarItemSubmenu">Ship Stores</a><br>
+             <div style="padding-left:20px;">
+              -<a href="/ship_stores/ss-vendor-guide.html">Vendor Guide</a><br>
+              -<a href="/ship_stores/ss-fleet-assist.html">Fleet Assist</a><br>
+              -<a href="/ship_stores_CD/sscd-index.html">Resources</a><br>
+              -<a href="/ship_stores/ss-contact-us.html">Contact Us</a><br>
+             </div>
+
+          <a href="https://www.navsup.navy.mil/navsup/ourteam/nexcom/prod_serv/telecommunications">Telecommunications</a><br>
+          <a href="https://www.navsup.navy.mil/navsup/ourteam/nexcom/prod_serv/upmo">Uniform Program Management Office</a>
+          <a href="/command/about_us/upmo.html"> NEX Uniform Program Management Office</a>
+
+		</div>
+		</div>
+
+
+
+
+    <!-- end .sidebar1 --></div>
+<div class="content2">
+
+
+<table width="487" border="0" align="center" cellpadding="5" cellspacing="0">
+         <tbody><tr>
+           <td width="477" bgcolor="#CC9933"><div align="center"><span class="style6">Notice: 
+             This is a U.S. Government Web Site</span></div></td>
+         </tr>
+       </tbody></table>
+       <blockquote>
+         <p><strong class="header">CUSTOMERS</strong><br>
+               <br>
+           This is a World Wide Web site for official information about Navy Exchange 
+           Service Command. It is provided as a public service by Navy Exchange 
+           Service Command. The purpose is to provide information and news about 
+           the Navy Exchange Service Command to the general public. All information 
+           on this site is public domain and may be distributed or copied unless 
+           otherwise specified. Use of appropriate byline/photo/image credits is 
+           requested. Unauthorized attempts to upload information or change information 
+           on this Web site are strictly prohibited and may be punishable under 
+           the Computer Fraud and Abuse Act of 1986 and the National Information 
+           Infrastructure Protection Act. For site security purposes and to ensure 
+           that this service remains available to all users, this government computer 
+           system employs software programs to monitor network traffic to identify 
+           unauthorized attempts to upload or change information, or otherwise 
+         cause damage.</p>
+         <p>Except for authorized 
+           law enforcement investigation and to maintain required correspondence 
+           files, no other attempts are made to identify individual users or their 
+           usage habits. Raw data logs* are used to simply determine how many users 
+           are accessing the site, which pages are the most popular, and, from 
+           time to time, from which top level domain users are coming. This data 
+           is scheduled for regular destruction in accordance with National Archives 
+           and Records Administration guidelines.</p>
+         <p>By sending us an 
+           electronic mail message (for example, an e-mail message addressed to 
+           the webmaster), you may be sending us personally-identifying information. 
+           In these cases, we may retain the information as long as necessary to 
+           respond to your request or otherwise resolve the subject matter of your 
+           e-mail. Please be aware that e-mail is not necessarily secure from interception 
+           or misdirection. For your own protection you may wish to communicate 
+           sensitive information using a method other than e-mail. </p>
+         <p>We do not rent, 
+           sell, or exchange your name with other organizations. We protect our 
+           databases with various physical, technical and procedural measures and 
+           we restrict access to your information by unauthorized persons. Our 
+           information systems are maintained behind a software firewall to isolate 
+           them from access by other networks connected to the internet. </p>
+         <p>All information 
+           transmitted through our website is stored on our secure server. We use 
+           Secure Sockets Layer (SSL) technology, which is the electronic commerce 
+           standard for securing information over the internet. SSL technology 
+           encrypts your information, preventing an unauthorized party from viewing 
+           and downloading your information. Your web browser should display a 
+           web address with an “https” prefix, indicating that the 
+           SSL technology is operating when using our website.</p>
+         <p>You may access online 
+           sale flyers or sign up to receive promotional correspondence from the 
+           Navy Exchange. You can also choose at any time to discontinue receiving 
+           such correspondence. You can tell us to stop sending correspondence 
+           by clicking on the Sale Flyer section. Further, each promotional email 
+           we send contains a link that allows you to discontinue future emails 
+           from us. If you have questions or comments, you may contact us by email 
+           by clicking on the Contact Us section. You may also call or write us 
+           at the address &amp; phone number below.</p>
+         <p>Navy Exchange Service 
+           Command<br>
+           Customer Service<br>
+           3280 Virginia Beach Blvd.<br>
+           Virginia Beach, VA 23452</p>
+         <p>Toll free: 1-800-628-3924 
+           (9:00AM-4:00PM, Monday-Friday, except Federal holidays) <br>
+              <br>
+              <strong class="header">VENDORS</strong><br>
+              <br>
+           There have been recent incidents of personal data loss involving both 
+           government and commercial entities. Accordingly, the Department of Defense 
+           (DoD) and the Department of the Navy (DoN) have taken action to mitigate 
+           these losses, such as training all DoD and DoN personnel on basic DoD 
+           Privacy Act compliance requirements. Recently, DoD and DoN have added 
+           the requirement that all who do business with DoD and DoN (including 
+           all contractors and vendors) understand that: </p>
+         <ul>
+           <li>The collection 
+             of personal data is limited under the Privacy Act (5 U.S.C. 552A) 
+             to information relevant and necessary to accomplish a DoD/DoN purpose 
+             set forth in Law or regulation, and that dissemination of personal 
+             data except with consent of individual involved is prohibited; <br>
+           </li>
+           <li> The willful 
+             disclosure of personal information, unless authorized by applicable 
+             law or regulation, is subject to criminal prosecution; and; <br>
+           </li>
+           <li>Contractors/vendors 
+             and their employees are stewards of personal information in their 
+             possession and that they have an affirmative responsibility to ensure 
+             personal information is collected, maintained, used, and disseminated 
+             only as allowed by applicable law or regulation, and for continually 
+             safeguarding such information (i.e., treating and protecting as if 
+             their own). </li>
+         </ul>
+         <p> A business partner 
+           (contractor, vendor, and all employees, representatives, subcontractors, 
+           etc.), that conducts official business in any capacity with NEXCOM involving 
+           receiving or obtaining information subject to safeguarding requirements 
+           of the Privacy Act, shall ensure full compliance with the Privacy Act 
+           at all times. For additional guidance, see the DoN Privacy Act Office 
+           website &lt;<a href="http://privacy.navy.mil/">http://privacy.navy.mil/</a>&gt;.</p>
+       </blockquote>
+       
+             <div class="contentBottom"><img src="/images/bottom.jpg"></div>
+</div> <!-- end content -->
+  <div class="sidebar2">
+
+
+
+
+    <img src="/images/NS-right-panel2.jpg" width="140px">
+
+
+
+
+  </div>
+
+</div>
+<div id="bottomPage">
+
+
+  <div class="footer">
+    <table width="100%" border="0" cellpadding="1" align="center">
+    <tbody><tr>
+    		<td>
+    		</td>
+    		<td class="footer" valign="top" width="86%">
+    		<div class="bottomLinks">
+	      		<p><a href="/site_map/site-map.html">Site Map</a> | <a href="/military_star/military_star.html">Miltary Star Card</a> | <a href="/work4us/index.html">Work For Us </a>| <a href="/command/customer_service/gift_card.html">Gift Cards </a>
+	      		| <a href="https://www.navy-lodge.com/"> Navy Lodge </a><br>
+	  			<a href="/misc/redir/exchange-catalog.html">All Services Exchange Catalog </a>| <a href="/command/contractor_vendor/cv-index.html">Vendors/Partners </a>|<a href="/command/p-index.html"> Command Information  </a>
+	  			| <a href="/command/community/community.html">Community </a>| <a href="/command/customer_service/customer_service.html">Contact Us </a><br>
+	  			 <a href="https://www.marines.mil/">Marines </a> | <a href="/misc/redir/FOIA.html">FOIA </a>| <a href="/command/privacy_policy/p_privacy_policy.html">Privacy </a>| <a href="/webmaster.html">Webmaster </a>| <a href="/weather.html">HQ Weather Status </a>
+	  			 | <a href="/command/about_us/trademarks.html">Trademarks </a>
+	        	</p>
+			</div>
+    		</td>
+    </tr>
+	<tr>
+	        <td></td>
+	         <td align="left">
+	         <table cellpadding="3"><tbody><tr>
+	         <td>
+	         © <script type="text/javascript">
+<!-- Begin
+copyright=new Date();
+update=copyright.getFullYear();
+document.write( update + " Navy Exchange Service Command All rights reserved.");
+//  End -->
+</script>2020 Navy Exchange Service Command All rights reserved.
+ Navy Exchange Service Command, 3280 Virginia Beach Blvd,
+			 	  	              VA 23452-5724. This is an Official U.S. Navy Web Site. NEXCOM claims
+			 	  	              ownership in its trademarks regardless of the format in which they
+	  	              appear on this website and related pages or links.
+	         </td>
+	         	<td>
+				<a href="/misc/redir/NAVSUP.html"><img src="/images/NEX-SPLASH-0819-CSS_43.jpg" alt="NAVSUP" width="133" border="0" align="right"></a>
+	            </td>
+	            <td>
+	            <a href="https://www.navy.mil/"><img src="/images/AmNavy_Tag_BLUE.jpg" border="0" alt="Navy" height="60"></a>
+				</td>
+				<td>
+		  		<script language="JavaScript" type="text/javascript"> SiteSeal("https://seal.networksolutions.com/images/evrecgreen.gif", "NETSB", "none");</script>
+	          	</td>
+	          	<td>
+	          	<a href="https://www.suicidepreventionlifeline.org/Veterans/Default.aspx"><img src="/images/NEX-SPLASH-0819-CSS_45.jpg" height="40" border="0" alt="Life is Worth Living" width="106"></a>
+	         	</td>
+	         </tr>
+	         </tbody></table>
+	         </td>
+	 </tr>
+    </tbody></table>
+
+    <!-- end .footer --></div>
+
+</div>
+  <!-- end .container --></div>
+
+<script type="text/javascript">
+//<![CDATA[
+var CollapsiblePanel1 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel1");
+var CollapsiblePanel2 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel2");
+var CollapsiblePanel3 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel3");							//facebook
+var CollapsiblePanel4 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel4");
+var CollapsiblePanel5 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel5", {contentIsOpen:false});  //email signup
+var CollapsiblePanel6 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel6")						   //feedback
+var CollapsiblePanel7 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel7");  //survey
+var CollapsiblePanel8 = new Spry.Widget.CollapsiblePanel("CollapsiblePanel8", {contentIsOpen:false});	//workforus
+//var TabbedPanels1 = new Spry.Widget.TabbedPanels("TabbedPanels1");
+//]]>
+</script>
+
+
+
+</body></html>
