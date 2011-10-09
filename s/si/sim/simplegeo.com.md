@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplegeo.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306091729id_/https%3A//simplegeo.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplegeo.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009175751id_/https%3A//simplegeo.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # SimpleGeo · Privacy Policy
 
@@ -63,7 +63,7 @@ Your SimpleGeo account Personal Information is protected by a password for your 
 
 SimpleGeo endeavors to protect user information to ensure that user account information is kept private, however, SimpleGeo cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
-The Website contains links to other sites. SimpleGeo is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website. SimpleGeo uses third party payment processors (e.g., Authorize.net) to process all credit card transactions on the Website, and does not receive or store any credit card information.
+The Website contains links to other sites. SimpleGeo is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. 
 
 ## WHAT PERSONAL INFORMATION CAN I ACCESS?
 
