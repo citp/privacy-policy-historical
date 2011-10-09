@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forbiddenplanet.co.uk privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515001019id_/http%3A//www.forbiddenplanet.co.uk/index.php%3Fmain_page%3Dpage%26id%3D37%26chapter%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forbiddenplanet.co.uk privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009144743id_/http%3A//www.forbiddenplanet.co.uk/index.php%3Fmain_page%3Dpage%26id%3D37%26chapter%3D0) for the most accurate reproduction.*
 
 # Privacy Notice : Forbidden Planet International, Your Online Entertainment Superstore for Star Wars, Doctor Who, Star Trek and more
 
