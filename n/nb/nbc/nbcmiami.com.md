@@ -1,28 +1,20 @@
-> *The following text is extracted and transformed from the nbcmiami.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630162908id_/http%3A//www.nbcmiami.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbcmiami.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009142716id_/http%3A//www.nbcmiami.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NBC Miami
 
-## Privacy Policy
-
-_This Privacy Policy was last updated on September 20, 2008._
+_This Privacy Policy was last updated on July 8, 2011._
 
  **Introduction:**
 
-The web sites which are located at the domain NBCMiami.com (the "Site") are operated by [NBC](https://web.archive.org/topics?topic=NBC+Universal+Inc. "NBC Universal Inc.") Local Media. Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the [United States of America](https://web.archive.org/topics?topic=United+States "United States"). If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [newsletters@nbcmiami.com](mailto:newsletters@nbcmiami.com) or at the address at the end of this policy.
+The web sites which are located at the domain NBCMiami.com (the "Site") are operated by [NBC](https://web.archive.org/topics?topic=NBC+Universal+Inc. "NBC Universal Inc.") Owned Television Stations. Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the [United States of America](https://web.archive.org/topics?topic=United+States "United States"). If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [newsletters@nbcmiami.com](mailto:newsletters@nbcmiami.com) or at the address at the end of this policy.
 
 PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.
 
 1\. Types of Information Collected
 
-  
+• Personal Data
 
-
-> • Personal Data
-> 
-> • Aggregate and [Anonymous Data](https://web.archive.org/topics?topic=Anonymous+Data+Corp. "Anonymous Data Corp.")
-> 
->   
-> 
+• Aggregate and [Anonymous Data](https://web.archive.org/topics?topic=Anonymous+Data+Corp. "Anonymous Data Corp.")
 
 2\. Use of Cookies and Other Technologies
 
@@ -30,17 +22,11 @@ PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULL
 
 4\. Disclosure of Personal Data to Third Parties
 
-  
+• Disclosure to Affiliates
 
+• Disclosure to Third Parties
 
-> • Disclosure to Affiliates
-> 
-> • Disclosure to Third Parties
-> 
-> • Disclosure to Others
-> 
->   
-> 
+• Disclosure to Others
 
 5\. Third Party Advertising and Links to Other Sites
 
@@ -62,7 +48,7 @@ PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULL
 
 14\. Changes to this Privacy Policy
 
-15\. Contacting NBC Local Media Regarding Your Privacy
+15\. Contacting NBC Owned Television Stations Regarding Your Privacy
 
  **1\. Types of Information Collected:**
 
@@ -90,7 +76,7 @@ Cookies and similar tools may be used to relate your use of the Site and AA Data
 
  **AA Data:**
 
-We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, NBC Local Media often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. NBC Local Media may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
+We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, NBC Owned Television Stations often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. NBC Owned Television Stations may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.
 
 We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.
 
@@ -102,13 +88,13 @@ We reserve the right to share Personal Data with our affiliates. If you do not w
 
  **Disclosure to Third Parties:**
 
-NBC Local Media, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see “Your Choices” below). In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request.
+NBC Owned Television Stations, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see “Your Choices” below). In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request.
 
  **Disclosure to Others:**
 
-In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of NBC Local Media, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process.
+In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of NBC Owned Television Stations, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process.
 
-If NBC Local Media sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.
+If NBC Owned Television Stations sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.
 
  **5\. Third-Party Advertising and Links to Other Sites:**
 
@@ -134,11 +120,11 @@ Please remember that information posted to message boards, chat rooms, blogs and
 
  **10\. Data Security Disclaimer:**
 
-NBC Local Media takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of NBC Local Media to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [feedback@nbcmiami.com](mailto:feedback@nbcmiami.com).
+NBC Owned Television Stations takes reasonable security precautions to secure the Personal Data that you choose to provide against the loss, misuse, alteration or unauthorized access of such information. Unfortunately, no transmission of data over the Internet is guaranteed to be completely secure. It may be possible for third parties not under the control of NBC Owned Television Stations to intercept or access transmissions or private communications unlawfully. While we strive to protect your Personal Data, we cannot ensure or warrant the security of any Personal Data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please notify us of the problem by contacting us at [feedback@nbcmiami.com](mailto:feedback@nbcmiami.com).
 
  **11\. Exclusions:**
 
-This Privacy Policy shall not apply to any unsolicited information you provide to NBC Local Media on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and NBC Local Media shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
+This Privacy Policy shall not apply to any unsolicited information you provide to NBC Owned Television Stations on or through this Site or Other Services. Please see our Terms of Service for our policies regarding such Unsolicited Information. All such Unsolicited Information shall be deemed to be non-confidential, and NBC Owned Television Stations shall be free to reproduce, use, disclose and distribute such Unsolicited Information to others without limitation or attribution.
 
  **12\. Other Terms and Conditions:**
 
@@ -152,14 +138,18 @@ We control and operate this Site from the United States. The Site is not intende
 
 From time to time, we may revise this Privacy Policy to reflect industry initiatives, changes in the law or technology, or changes in our practices regarding information collection and use. If we make revisions to the way we collect or use Personal Data, we may provide notice of those changes by either: (1) announcing the change on the home page of the Site or (2) taking such other action as we deem appropriate under the circumstances, including without limitation, posting the revised draft of this Privacy Policy on the Site. You can determine when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to this policy will become effective upon posting of the revised Privacy Policy on the Internet, accessible through the Site. By continuing to use the Site following such changes, you will be deemed to have agreed to such changes. If you do not agree with the terms of this Privacy Policy, as it may be amended from time to time, in whole or in part, please do not continue using this Site.
 
- **15\. Contacting NBC Local Media Regarding Your Privacy:**
+ **15\. Contacting NBC Owned Television Stations Regarding Your Privacy:**
 
 If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at [newsletters@nbcmiami.com](mailto:newsletters@nbcmiami.com) or at the address at the end of this policy.
 
 Privacy Policy
 
-NBC Local Media
+NBC Owned Television Stations
 
 30 Rockefeller Plaza
 
 [New York, NY](https://web.archive.org/topics?topic=New+York+City "New York City") 10112
+
+  
+  
+
