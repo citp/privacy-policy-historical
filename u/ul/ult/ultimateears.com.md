@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521073040id_/http%3A//ultimateears.com/en-us/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateears.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009110047id_/http%3A//ultimateears.com/en-us/legal/privacy) for the most accurate reproduction.*
 
 # Ultimate Ears | Privacy and Security
 
@@ -86,7 +86,7 @@ Personal information collected on this site may be stored and processed in the U
 
 ### Protection of Information
 
-Logitech is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store personal information you provide on computer systems with limited access. These systems are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the 
+Logitech is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store personal information you provide on computer systems with limited access. These systems are located in controlled facilities. When we transmit highly confidential information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
 If you have questions or complaints regarding this Statement, you should first contact us at [privacy@logitech.com](mailto:privacy@logitech.com) with any questions or concerns. All customer complaints will be formally reviewed by Logitech.
 
