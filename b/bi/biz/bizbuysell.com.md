@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430182040id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizbuysell.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010003328id_/http%3A//www.bizbuysell.com/privacy.htm) for the most accurate reproduction.*
 
 # BizBuySell - The Internet's Largest Business for Sale Marketplace
 
-BizBuySell is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site <http://www.bizbuysell.com/>. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
+BizBuySell has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. When you visit a web site displaying the TRUSTe trustmark, you can expect to be notified of the following information: 
 
   * The personally identifiable information collected and which organization is collecting the information 
   * How the information is used and with whom the information may be shared 
@@ -14,7 +14,7 @@ BizBuySell is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an in
 
 Questions regarding this statement can be submitted via this [contact form](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Form"). Alternatively, please contact us by mail at BizBuySell Administration -- Privacy Statement, 185 Berry Street, Suite 4000, San Francisco, CA 94107, or by telephone at 888-777-9892. 
 
-If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. For more information on TRUSTe, please go to [http://www.truste.org](http://www.truste.org/ "TRUSTe"). 
+If the web site has not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "Contact TRUSTe"). For more information on TRUSTe, please go to [http://www.truste.org](http://www.truste.org/ "TRUSTe"). 
 
 ##  BizBuySell's Privacy Statement 
 
@@ -72,7 +72,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 ##  Testimonials: 
 
-We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial. 
+We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent to post their name along with their testimonial prior to any posting of such testimonial. To request removal of your personal information from these testimonials, contact us [here](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Form"). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
 ##  Opting-out, editing, updating or deleting personal information: 
 
@@ -81,6 +81,8 @@ BizBuySell utilizes email as a vital and primary communication channel with regi
 Users who do not wish to receive marketing emails including the BizBuySell Bulletins, BizBuySell Promotional Emails, or Sponsor Emails are requested to contact [BizBuySell Client Services](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "BizBuySell Client Services"), or select the opt-out option that is available on all email correspondence. Additionally, users may also opt out of Listings by Email by returning to the Listings by Email section and clicking on the "Cancel Notification" link. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. BizBuySell occasionally communicates with its users via email and phone to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features. 
 
 You may correct or update your personally identifiable information by going to the area of the site where you submitted the information, and following the instructions to view, change or delete the information. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Form"). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 Credit card information submitted to BizBuySell is typically used for a one-time charge to your account, and subsequent orders for renewals require users to resubmit the credit information. (An exception: BrokerWorks Membership accounts and Franchise Directory advertising are automatically renewed each month, using the original credit information submitted.) Therefore, for added security, any credit card information submitted to BizBuySell is not accessible for review or modification by signing on to your ad. If you have questions regarding the credit card information used in ordering your products or services, please [contact us](http://www.bizbuysell.com/cgi-bin/contactus?tc=t5 "Contact Us") or at 888-777-9892. 
 
