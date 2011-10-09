@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424104840id_/http%3A//www.shoprite.com/cnt/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoprite.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009204828id_/http%3A//www.shoprite.com/cnt/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # ShopRite
 
