@@ -1,0 +1,9 @@
+> *The following text is extracted and transformed from the bloglog.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009063854id_/http%3A//www.bloglog.com/privacy.php) for the most accurate reproduction.*
+
+# Privacy Policy - Bloglog
+
+When you create an account on the site, some information about your account and your account activity will be provided to other Users of the site. This may include your name, your age, your country and your interests. You may also choose to add personal information that will be visible to other Users on your profile page. This may include a profile picture, you name, gender, or other details.
+
+Bloglog gathers certain information about you and your blog[s] in order to provide services such as listing your blog[s] in the directory and returning your blog[s] and posts in search returns on Bloglog.com. We may also use your information to send you updates and information [via email or via your profile at Bloglog.com] about Bloglog.com that will or may affect your membership to the site. We will never rent or sell your information to any other party, under any circumstances. Bloglog.com requires the use of cookies to interact with the site. If you prefer not to accept our use of cookies we regret that not all site features will function for you. We also do use third-party advertising companies to serve ads when you visit our website. These companies may use information [NOT including your name or email address] about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. Google, as a third party vendor, uses cookies to serve ads on Bloglog.com.
+
+[For more information please contact our staff.](https://web.archive.org/contact.php)
