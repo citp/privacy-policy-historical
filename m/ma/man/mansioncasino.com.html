@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mansioncasino.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630052313id_/http%3A//www.mansioncasino.com/security-and-privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mansioncasino.com privacy policy that was archived on 2011-10-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111009132859id_/http%3A//www.mansioncasino.com/security-and-privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 					<title>Join Mansion Casino | Secure and Discreet Casino | MansionCasino.com
@@ -30,6 +30,9 @@
 		
 			
 		
+<script type="text/javascript" src="http://cache.mansioncasino.com/core/js/jquery-1.6.2.min.js"></script>
+<script>    jQuery.noConflict();</script>
+
 			<script type="text/javascript" src="http://cache.mansioncasino.com/core/js/general.js"></script>
 
 			<script type="text/javascript">
@@ -46,18 +49,22 @@
 		var f = document.getElementsByTagName('script')[0]; f.parentNode.insertBefore(s, f);
 	}
 	_ejs('/core/js/mts.js');
+
+if(typeof(_vis_opt_GA_track) == "function") { _vis_opt_GA_track(); }
+if(typeof(_vis_opt_MTS_track) == "function") { _vis_opt_MTS_track(); }
+
 </script>
 
 
 
 		</head>
-		<body onload="initxsell();" onclick="handleLinks(event);" onunload="//on_unload(event);"> 
+		<body onload="initxsell();" onclick="handleLinks(event);"> 
 
-			<div style="position:absolute; top:-100px; left:100px;">
-		<iframe style="position:absolute;" id="emerpec" name="emerpec" frameborder="0" width="1" height="1" src="/core/EMERPECp/EMERPEventCollector.php?p=0&amp;EventName=&amp;OnSuccess=EMERPCallback"></iframe>
-		<iframe id="download_iframe" width="1" height="1" frameborder="0" src="about:blank"></iframe>
+			<div style="position:absolute; top:-9000em;">
+        <iframe id="emerpec" name="emerpec" frameborder="0" height="0" marginheight="0" marginwidth="0" scrolling="no" width="0" style="position: absolute;" src="/core/EMERPECp/EMERPEventCollector.php?p=0&amp;EventName=&amp;OnSuccess=EMERPCallback"></iframe>
+        <iframe frameborder="0" height="0" marginheight="0" marginwidth="0" scrolling="no" width="0" id="download_iframe"></iframe>
 	</div>
-	
+
 
 
    
@@ -496,7 +503,79 @@ Only players <a href="http://www.mansioncasino.com/responsible-gaming/index.html
 
 	
 
-		
+
+<div id="lightbox" style="display: none;">&nbsp;</div>
+<div id="lightbox-content" class="lightbox-close" style="display: none;">&nbsp;</div>
+<div id="lightbox-content-game" class="lightbox-close" style="display: none;">&nbsp;</div>
+
+<script language="javascript">
+    jQuery(document).ready(function () {
+        /********************************************************************************/
+        /* NLP parameter - only HOMEPAGE */
+        /********************************************************************************/
+        var popupParam = getParamFromUrl("nlp");
+        var popupFLParam = getParamFromUrl("fl");
+
+        if (popupParam == "") {
+            closePopupHp();
+        } else {
+            /* Open lightbox */
+
+            /* Adding new div for nlp parameter */
+            jQuery('#lightbox-content-game').load('/nlp/' + popupParam + '.html #nlp-wrapper', function (response, status, xhr) {
+                if (status === 'success') {
+                    jQuery('#lightbox-content-game').show();
+                    jQuery('#nlp-wrapper').addClass('nlpParam');
+                    resizeWindow();
+                };
+            });
+
+            /* Adding the flash file */
+            if (popupFLParam != "") {
+                swfobject.embedSWF("http://cacheimg.casino.com/images/www/pop-landing/" + popupParam + "/pic-fl.swf", "nlp-flash", "750", "662", "9.0.0", false, false, { wmode: "transparent" });
+            };
+
+            showLightbox();
+        };
+        /********************************************************************************/
+    });
+
+    function showLightbox() {
+        jQuery('#lightbox').css({
+            height: (jQuery(document).height()),
+            width: (jQuery(window).width())
+        });
+        jQuery('#lightbox').show();
+    };
+
+    function closePopupHp() {
+        hideLightbox();
+        jQuery('#lightbox-content-game').empty();
+    };
+
+    function hideLightbox() {
+        jQuery('#lightbox').hide();
+        jQuery('.lightbox-close').removeClass('popup-active').hide();
+        return false;
+    };
+
+    function resizeWindow() { // Need to CENTER (Vertical and Horizontal) Download content - DO NOT DELETE !!!
+        if (jQuery('.download_window')) {
+            jQuery('.download_window').css('top', (jQuery(window).height() - jQuery('.download_window').height()) / 2);
+            jQuery('.download_window').css('left', (jQuery(window).width() - jQuery('.download_window').width()) / 2);
+            jQuery('#lightbox').css('height', jQuery(document).height());
+            jQuery('#lightbox').css('width', jQuery(window).width());
+        };
+
+        if (jQuery('.nlpParam')) {
+            jQuery('#nlp-wrapper').css({
+                top: ((jQuery(window).height() - jQuery('.nlpParam').height()) / 2),
+                left: ((jQuery(window).width() - jQuery('.nlpParam').width()) / 2)
+            });
+        };
+    };
+</script>
+	
 
 
 
