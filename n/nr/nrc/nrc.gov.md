@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605121137id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrc.gov privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009030947id_/http%3A//www.nrc.gov/site-help/privacy.html) for the most accurate reproduction.*
 
 # NRC: Privacy Policy and Security Notice
 
@@ -74,9 +74,20 @@ NRC's use of third party social media services enables the NRC to conduct its Op
 Site | WordPress.com (via GSA)  
 ---|---  
 Purpose | Blogging Tool  
-  | Used to publish content that is publically available on topics of interest for the purpose of informing the public and generating conversation/dialog with the public.  
+Used to publish content that is publically available on topics of interest for the purpose of informing the public and generating conversation/dialog with the public.  
 Site Privacy Policy | <http://automattic.com/privacy/>  
-Privacy Impact Assessment | [Official Presence Use of Social Media Platforms](http://pbadupws.nrc.gov/docs/ML1034/ML103410478.pdf) (ADAMS ML103410478)  
+   
+Site | YouTube.com (via GSA)  
+Purpose | Video Channel  
+Used to publish videos that are publically available on topics for the purpose of informing and educating the public as well as generating conversation/dialog with the public.  
+Site Privacy Policy | <http://www.youtube.com/t/privacy>  
+   
+Site | Twitter.com  
+Purpose | Micro-blogging Tool  
+Used to publish snippets of content for the purpose of generating conversation/dialog with the public or providing information to the public.  
+Site Privacy Policy | <http://twitter.com/privacy/>  
+   
+Privacy Impact Assessment | [Official Presence Use of Social Media Platforms](http://pbadupws.nrc.gov/docs/ML1115/ML11159A004.pdf) (ADAMS ML11159A004)  
   
 ## Linking to Other Web Sites
 
@@ -112,4 +123,4 @@ In response to the Office of Management and Budget (OMB) May 22, 2007, memorandu
 
 In accordance with established policy, the U.S. Nuclear Regulatory Commission (NRC) actively protects personally identifiable information from access by, or disclosure to, unauthorized individuals. The purpose of this document is to reiterate policy and establish standardized response and notification procedures for breaches of that policy. In the event of a breach in PII security requirements, agency personnel are to comply with the following procedures for response and notice to affected individuals, other Federal agencies, and the media, as appropriate. These policies and procedures govern breaches by agency personnel that may result in unauthorized access, either internal or external to the NRC, whether involving electronic systems or paper documents. For more details, please see [ML083650337](http://pbadupws.nrc.gov/docs/ML0836/ML083650337.pdf). 
 
-_Page Last Reviewed/Updated Monday, April 18, 2011_
+_Page Last Reviewed/Updated Tuesday, August 02, 2011_
