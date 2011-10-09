@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227234333id_/http%3A//www.latincapitalmarket.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latinstockinvesting.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010000012id_/http%3A//www.latincapitalmarket.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Latin Capital Market
 
 ## Who's online
 
-There are currently _0 users_ and _20 guests_ online.
+There are currently _0 users_ and _0 guests_ online.
 
 Latin Capital Market  
 15430 Endeavor Drive  
