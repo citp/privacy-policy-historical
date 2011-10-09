@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expo-studyabroad.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610160635id_/http%3A//expo-studyabroad.com/en/Privacidade.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expo-studyabroad.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009235103id_/http%3A//www.expo-studyabroad.com/en/Privacidade.asp) for the most accurate reproduction.*
 
 # Study Abroad Guide - language course, university course, post graduate, high school, MBA, accommodation, scholarships
 
