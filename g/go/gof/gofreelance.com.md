@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gofreelance.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226125001id_/http%3A//www.gofreelance.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofreelance.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009045136id_/http%3A//www.gofreelance.com/privacy.html) for the most accurate reproduction.*
 
 # Go Freelance: Privacy Statement
 
