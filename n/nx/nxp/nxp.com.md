@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620060859id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nxp.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009145923id_/http%3A//www.nxp.com/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -72,3 +72,15 @@ You may contact us through this contact form if you would like to:
 
 You can find our address by pressing the ‘NXP’ button at the bottom of this Web Site.  
 If you have a concern about our use of your personally identifiable information, please let us know and we will make all reasonable efforts to address it. 
+
+## German privacy law
+
+In accordance with Germany privacy law the data privacy officer hereby informs you on data privacy procedures of NXP legal entities located in Germany. You can download the public record of procedures here: 
+
+  
+
+
+  * [For NXP Semiconductors Germany GmbH](https://web.archive.org/files/privacypolicy/verfahrensverzeichnis_germany_GmbH.doc) (German/Deutsch)
+  * [For NXP Semiconductors GA GmbH](https://web.archive.org/files/privacypolicy/verfahrensverzeichnis_germany_GA_GmbH.doc) (German/Deutsch)
+
+
