@@ -1,26 +1,8 @@
-> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401224513id_/http%3A//www.iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantanewgirlfriend.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009125030id_/http%3A//www.iwantanewgirlfriend.com/privacy.asp) for the most accurate reproduction.*
 
 # :: I Want a New Girlfriend
 
-**Visit These Great Sites**  
----  
-  
-| **Site of the Moment:   [ **SF Bay Videos**](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=26226 "SF Bay Videos")  **  
----  
-#1| [Free Ones](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7344 "Free Ones")| #8| [Fat Rac](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10408 "Fat Rac")| #15| [Porngasm](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3813 "Porngasm")  
-#2| [Hot Porn Reviews](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3 "Hot Porn Reviews")| #9| [Milf Porn Sites](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=9177 "Milf Porn Sites")| #16| [Butt Naked Media](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5241 "Butt Naked Media")  
-#3| [Girls Kissing Girls](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=2643 "Girls Kissing Girls")| #10| [Fucking Mother Fucker](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=3115 "Fucking Mother Fucker")| #17| [Little Midgets](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=8970 "Little Midgets")  
-#4| [Peachy Forum](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=17739 "Peachy Forum")| #11| [Gay Sex and Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5001 "Gay Sex and Porn")| #18| [Rich Snob](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=9032 "Rich Snob")  
-#5| [Non Nude Porn](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5720 "Non Nude Porn")| #12| [Celebrity Factor](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=6273 "Celebrity Factor")| #19| [All Sexy Chix](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=4932 "All Sexy Chix")  
-#6| [Porn Snake](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=7072 "Porn Snake")| #13| [Gay Dating](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10409 "Gay Dating")| #20| [Euro Babe Index](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=17761 "Euro Babe Index")  
-#7| [Porn FU](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5199 "Porn FU")| #14| [Sexual Reality](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=10275 "Sexual Reality")| #21| [101 Babes](http://www.iwantanewgirlfriend.com/traffic-out.asp?site_id=5721 "101 Babes")  
-  
-* * *
-
-[View Top 100 Sites](http://www.iwantanewgirlfriend.com/traffic-all-websites.asp)   
-Updates Every Ten Minutes - [Webmasters - Trade Traffic](http://www.iwantanewgirlfriend.com/traffic-webmasters.asp)  
-  
-This is the Privacy and Security Statement for I Want a New Girlfriend ([http://www.iwantanewgirlfriend.com](http://www.iwantanewgirlfriend.com/)).
+This is the Privacy and Security Statement for I Want a New Girlfriend (<http://www.iwantanewgirlfriend.com/>).
 
 This Privacy and Security Statement ("Privacy Statement") applies to information collected by I Want a New Girlfriend.  I Want a New Girlfriend is committed to protecting the privacy of its users ("Users") including visitors and members of the I Want a New Girlfriend web site.  We have created the following Privacy Statement to give you an overview of the type of information we collect, how the information is used, and how the information is safeguarded.
 
@@ -109,7 +91,7 @@ We verify the identity of the persons accessing the data by using a login name a
   If you have any questions about this Privacy Statement, including the practices or your dealings with I Want a New Girlfriend Web site, please contact us:
 
   I Want a New Girlfriend  
-E-mail: [site@iwantanewgirlfriend.com](mailto:site@iwantanewgirlfriend.com).
+E-mail: [privacy@iwantanewgirlfriend.com](mailto:privacy@iwantanewgirlfriend.com).
 
 
 
