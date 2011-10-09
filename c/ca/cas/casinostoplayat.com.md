@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinostoplayat.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630083016id_/http%3A//www.casinostoplayat.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinostoplayat.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009235853id_/http%3A//www.casinostoplayat.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy – Your Private Information is Secured With Us
 
