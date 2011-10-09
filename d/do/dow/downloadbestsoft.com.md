@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318084441id_/http%3A//www.downloadbestsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009071320id_/http%3A//www.downloadbestsoft.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for - www.DownloadBestSoft.com
 
