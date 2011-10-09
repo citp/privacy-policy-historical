@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allslotscasino.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423211610id_/http%3A//www.allslotscasino.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allslotscasino.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009144811id_/http%3A//www.allslotscasino.com/privacy.html) for the most accurate reproduction.*
 
-# All Slots Online Casino | Privacy Policy
+# All Slots Online Casino | Privacy Policy | English
 
 Privacy Policy
 
