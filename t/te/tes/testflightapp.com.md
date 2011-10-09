@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214065936id_/http%3A//www.testflightapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testflightapp.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009103654id_/https%3A//testflightapp.com/privacy) for the most accurate reproduction.*
 
 # TestFlight » Privacy Policy
 
