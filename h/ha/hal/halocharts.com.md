@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the halocharts.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218181453id_/http%3A//halocharts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halocharts.com privacy policy that was archived on 2011-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111009083200id_/http%3A//halocharts.com/privacy.php) for the most accurate reproduction.*
 
 # HaloCharts.com - - Privacy Policy
 
@@ -17,6 +17,6 @@ We do not share any information that is provided with any 3rd parties, except wh
 The little personally identifiable information we collect is kept secure. Emails are not visible on the website. Passwords are not stored in clear-text and cannot be recovered. They can only be reset. 
 
 **Privacy Contact Information**  
-If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/web/20101218181453id_/http%3A//halocharts.com/contact.php). 
+If you have any questions, concerns, or comments about our privacy policy you may [contact us](https://web.archive.org/web/20111009083200id_/http%3A//halocharts.com/contact.php). 
 
 We reserve the right to make changes to this policy. 
