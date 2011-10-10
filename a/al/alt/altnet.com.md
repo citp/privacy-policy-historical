@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altnet.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512224033id_/http%3A//www.altnet.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altnet.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010065815id_/http%3A//www.altnet.com/privacy.aspx) for the most accurate reproduction.*
 
 # Music Downloads Altnet Music Store: Privacy
 
