@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makewords.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219052230id_/http%3A//www.namestation.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makewords.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010184029id_/http%3A//www.namestation.com/popups/content/PrivacyPopup.aspx%23TB_iframe%3Fwidth%3D690%26height%3D600%26autoscale%3D1) for the most accurate reproduction.*
 
-# Domain Name Generator
+# Privacy Policy
 
 We at NameStation.com ("NameStation") will never sell, rent, exchange, share or otherwise provide your personal information to other people, companies or entities. This applies to all information that you provide through any method of communication with NameStation. As such, your individual information is confidential. Any data that we gather are used by NameStation solely for the purpose of helping us serve you better. NameStation takes your privacy very seriously. We pledge to be as or even more stringent than any laws related to the collection of data while following our own strict policies and standards. 
 
