@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516022233id_/http%3A//www.stlouisfed.org/privacy/index.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stlouisfed.org privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010053145id_/http%3A//www.stlouisfed.org/privacy/index.cfm) for the most accurate reproduction.*
 
 # St. Louis Fed | Web Site Privacy Policy
 
@@ -25,8 +25,7 @@ If you provide us with your postal or e-mail address or telephone number, this i
 
 
 
-We may also file your comments to improve the site, or review and discard the information.   
-When you fill out our online forms, they are returned to us via electronic mail. Your responses are not encrypted. We cannot guarantee the security of information sent via electronic mail. 
+We may also file your comments to improve the site, or review and discard the information. When you fill out our online forms, your responses are not encrypted.
 
 ## Cookies
 
@@ -40,7 +39,7 @@ A cookie is a text file that a web site can send to your browser and which may t
 
 This analysis does not involve personally identifiable information. It is used only for the purpose of helping us understand and better meet our audiences' needs. Some aggregate web site analysis is performed for us by Google Analytics (<http://www.google.com/analytics/>), and may involve the use of cookies set by Google. For Google's Privacy policy, see <http://www.google.com/privacy.html>.
 
-  2. If you register for a Research user account, a transient, memory-resident "cookie" will be invoked when you log in to your user account and will disappear when your browser is closed. If you check the 'Stay logged in' option, the cookie will persist for a maximum of 2 weeks before another login is required. You are not required to register for a user account to use this site.
+  2. If you register for a user account, a transient, memory-resident "cookie" will be invoked when you log in to your user account and will disappear when your browser is closed. If you check the 'Stay logged in' option for your Research user account, the cookie will persist for a maximum of 2 weeks before another login is required. You are not required to register for a user account to use this site.
   3. Sometimes a third-party contractor will use cookies on one of the sites it creates and manages for us—for example, our Careers site.
   4. For YouTube videos that are visible on our site, a persistent cookie is set by third party provider, YouTube, when you click to play the video. YouTube's privacy policy regarding these persistent cookies can be read here: [http://www.youtube-nocookie.com/t/privacync](http://www.youtube.com/t/privacy_at_youtube). If you would like to view a video without the use of persistent cookies, a link to download the video file is provided just below the video, if it is available.
   5. You can set your browser to notify you before you receive a cookie, giving you the opportunity to decide whether to accept it or not. You can also set your browser to not accept cookies at all. If you do so, however, some areas of some sites (including ours) may not operate properly. 
@@ -79,9 +78,9 @@ Our site is not directed toward children under 13. Nonetheless, we are committed
 
 We have implemented security measures consistent with our internal information security practices to help us keep your information secure. These measures include technical and procedural steps to protect your data from misuse, access or disclosure, loss, alteration or destruction. 
 
-If you have voluntarily submitted personal information to us and wish to review, update, correct or delete it, please e-mail your request to [webmaster@stlouisfed.org](mailto:webmaster@stlouisfed.org).
+If you have voluntarily submitted personal information to us in connection with setting up a user account and wish to review, update or correct it, please login to your account. If you forgot your login information or wish to delete your record, please e-mail your request to [webmaster@stlouisfed.org](mailto:webmaster@stlouisfed.org). If you have a Research account, please email [webmaster@research.stlouisfed.org](mailto:webmaster@research.stlouisfed.org). 
 
-If you have voluntarily submitted personal information to us in connection with setting up a Research user account and wish to review, update, correct or delete it, please e-mail your request to [webmaster@research.stlouisfed.org](mailto:webmaster@research.stlouisfed.org). 
+If you have voluntarily submitted other personal information to us and wish to review, update, correct or delete it, please e-mail your request to [webmaster@stlouisfed.org](mailto:webmaster@stlouisfed.org).
 
 ## Links
 
