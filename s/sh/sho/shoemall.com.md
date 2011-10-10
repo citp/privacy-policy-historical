@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoemall.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618070147id_/http%3A//www.shoemall.com/custserv/custserv.jsp%3FpageName%3DSecurity-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoemall.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010053629id_/http%3A//www.shoemall.com/custserv/custserv.jsp%3FpageName%3DSecurity-Privacy) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -69,7 +69,7 @@ Finally, we never use or share the personally identifiable information provided 
 
   
   
-Shoemall.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PR") ([http://www.buzzillions.com](http://www.buzzillions.com/)) to facilitate customer reviews of products sold by Shoemall.com. When you submit a review to PR, you will be subject to PR’s terms of use and privacy policies. The reviews you submit may be posted on both PR’s site (<http://www.buzzillions.com/cz_4294966871_shoes_reviews>) and our site.   
+ShoeMall.com has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PR") ([http://www.buzzillions.com](http://www.buzzillions.com/)) to facilitate customer reviews of products sold by ShoeMall.com. When you submit a review to PR, you will be subject to PR’s terms of use and privacy policies. The reviews you submit may be posted on both PR’s site (<http://www.buzzillions.com/cz_4294966871_shoes_reviews>) and our site.   
   
 
 
@@ -85,7 +85,7 @@ We may contract with third-party companies who use cookies to measure the perfor
 
   
   
-Shoemall.com uses cookies (small text files placed on your device) to help enhance your shopping experience on our website. Cookies allow us to personalize and streamline your shopping experience. We realize that some shoppers choose to not allow cookies, so we have created our site to not be dependent on them. If you choose to not allow cookies, you will be able to select a product and complete a purchase on our site, but you will not be able to take advantage of some of our advanced functionality. Please be aware that your privacy and security are our top concerns - we do not store any personally identifiable or sensitive information in the cookie.   
+ShoeMall.com uses cookies (small text files placed on your device) to help enhance your shopping experience on our website. Cookies allow us to personalize and streamline your shopping experience. We realize that some shoppers choose to not allow cookies, so we have created our site to not be dependent on them. If you choose to not allow cookies, you will be able to select a product and complete a purchase on our site, but you will not be able to take advantage of some of our advanced functionality. Please be aware that your privacy and security are our top concerns - we do not store any personally identifiable or sensitive information in the cookie.   
 If you would like more information about cookies and how to manage them, please see the following websites: <http://www.microsoft.com/info/cookies.mspx>, <http://computer.howstuffworks.com/cookie.htm>  
   
 
@@ -96,7 +96,7 @@ If you would like more information about cookies and how to manage them, please 
   
 ShoeMall uses VeriSign, which offers state-of-the-art, completely dependable security infrastructure and is the most trusted, recognized, security brand on the web. Secure Site by VeriSign provides the ultimate in credibility for online transactions. You can be confident each purchase is backed by the most reliable, secure operations infrastructure, comprehensive security, trust, and authentication practices.  
 VeriSign authentication procedures have withstood the most rigorous scrutiny from independent third-party auditors. In fact, VeriSign is the only Certificate Authority in the world to have passed an extensive independent Type #SAS 70 audit by KPMG, the global accounting and consulting firm. (The Statement of Auditing Standard 70, Type #SAS 70, was established by the American Institute of Certified Public Accountants to certify trusted practices.) For more information visit [VeriSign](http://www.verisign.com/).   
-ShoeMall has taken several steps to ensure Your Credit Card Transactions are Secure GUARANTEED. Our servers use Secure Socket Layer (SSL) advanced encryption. ShoeMall uses state-of-the-art technology to protect your personal information and privacy. All credit card transactions are secured by 128-bit encryption. As an added measure, in the unlikely event of a credit card fraud, there is still no risk to you. The Fair Credit Act states that your credit card company can hold you liable for a maximum of $50.00 in fraudulent charges. Shoemall.com will reimburse for any charges up to the $50.00 maximum your credit card company can charge you if those charges result from an order you placed on our secure server. You can enjoy shopping worry free at [http://www.shoemall.com](https://web.archive.org/home.jsp).   
+ShoeMall has taken several steps to ensure Your Credit Card Transactions are Secure GUARANTEED. Our servers use Secure Socket Layer (SSL) advanced encryption. ShoeMall uses state-of-the-art technology to protect your personal information and privacy. All credit card transactions are secured by 128-bit encryption. As an added measure, in the unlikely event of fraudulent charges on your credit card, there is still no risk to you. The Fair Credit Act states that your credit card company can hold you liable for a maximum of $50.00 in fraudulent charges. ShoeMall will reimburse you for any charges up to the $50.00 maximum your credit card company can charge if those charges result from an order you placed on our secure server. You can enjoy shopping worry free at [http://www.shoemall.com](https://web.archive.org/home.jsp).   
   
 
 
@@ -104,7 +104,7 @@ ShoeMall has taken several steps to ensure Your Credit Card Transactions are Sec
 
   
   
-When you provide us your email address, we will email you as necessary to process your order, respond to a request, or to provide customer service. After you place an order at Shoemall.com, you will receive an email confirmation. If you receive one of our ShoeMall gift cards you will also receive an email notifying you of the gift and instructions on how to use the card.   
+When you provide us your email address, we will email you as necessary to process your order, respond to a request, or to provide customer service. After you place an order at ShoeMall.com, you will receive an email confirmation. If you receive one of our ShoeMall gift cards you will also receive an email notifying you of the gift and instructions on how to use the card.   
 ShoeMall may also send promotional emails about products, offers, or services that we think you may be interested in. ShoeMall will only send promotional emails to people who wish to receive them. Instructions on how to unsubscribe can be found in each of our email mailings.  
   
 
