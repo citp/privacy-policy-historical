@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitetemplatereviews.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222041859id_/http%3A//www.websitetemplatereviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetemplatereviews.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010172604id_/http%3A//www.websitetemplatereviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy — B2Web
 
 **What do we use your information for?**
 
@@ -29,3 +29,5 @@ Occasionally, at our discretion, we may include or offer third party products or
 **Changes to our Privacy Policy**
 
 If we decide to change our privacy policy, we will post those changes on this page.
+
+[](https://m171.infusionsoft.com/go/default/jgdhold)
