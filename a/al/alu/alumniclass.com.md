@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223070847id_/http%3A//www.alumniclass.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alumniclass.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010024954id_/http%3A//www.alumniclass.com/privacy_policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -28,6 +28,6 @@ Information you submit to message boards and group photo albums may be displayed
 
 **SECURITY OF YOUR INFORMATION**
 
-We have installed physical, electronic, and procedural safeguards to store and maintain your profile and member information in a secure environment. You will be required to use a password to access certain areas of the Site where certain types of your information can be changed or deleted. It is of the utmost importance, then, that you take precautions to protect yourself against unauthorized access to your password. It is your responsibility to maintain the confidentiality of your password. It is each member�s due caution to be aware of any information they place on their profile that they deem private. We cannot guarantee that the safeguards we employ will perfectly maintain the privacy of profile information from the threats of others and factors beyond our control.
+We have installed physical, electronic, and procedural safeguards to store and maintain your profile and member information in a secure environment. You will be required to use a password to access certain areas of the Site where certain types of your information can be changed or deleted. It is of the utmost importance, then, that you take precautions to protect yourself against unauthorized access to your password. It is your responsibility to maintain the confidentiality of your password. It is each member’s due caution to be aware of any information they place on their profile that they deem private. We cannot guarantee that the safeguards we employ will perfectly maintain the privacy of profile information from the threats of others and factors beyond our control.
 
 **Back**
