@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeout.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211103710id_/http%3A//www.lifeout.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeout.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010154157id_/http%3A//www.lifeout.com/privacypolicy.php) for the most accurate reproduction.*
 
 # LifeOUT.com // Privacy Policy
 
