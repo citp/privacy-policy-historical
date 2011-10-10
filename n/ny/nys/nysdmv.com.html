@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the nysdmv.com privacy policy that was archived on 2010-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125185137id_/http%3A//nysdmv.com/securitylocal.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nysdmv.com privacy policy that was archived on 2011-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111010124339id_/http%3A//www.nysdmv.com/securitylocal.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="Content-Style-Type" content="text/css">
-<link href="business.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<link href="business-wide.css" rel="stylesheet" type="text/css">
 <link href="print.css" media="print" rel="stylesheet" type="text/css">
 
 <title>NYS DMV - Privacy and Security Statement</title>
@@ -17,18 +18,38 @@
 </head>
 
 <body>
-
-<div id="banner">
-<!-- this page begins with a "skip to main content" link -->
-<table cellpadding="0" cellspacing="0">
-  <tbody><tr>
-  <td class="b"><a href="#main" class="skipnav" title="Skip Navigation">&nbsp;</a></td>
-	<td class="l"><a href="http://www.ny.gov"><img src="images/small-left.gif" width="192" height="40" alt="New York State"></a></td>
-	<td class="c"><a href="http://www.ny.gov"><img src="images/small-slice.gif" width="100%" height="40" alt="New York State"></a></td>
-	<td class="r"><a href="http://www.ny.gov"><img src="images/small-right.gif" width="15" height="40" alt="New York State"></a></td>
-  </tr>
-</tbody></table>
+<div id="back">
+<!-- NEW BANNER-->
+<div id="newbanner">
+<a href="#main" class="sea" title="Skip Navigation" style="float: left;">&nbsp;</a>
+   <a href="http://www.ny.gov/"><img src="banner2011/banner_img1.png" alt="NY.gov Portal"></a>
+   <a href="http://www.nysegov.com/citGuide.cfm?superCat=102&amp;cat=449&amp;content=main"><img src="banner2011/banner_img2.png" alt="State Agency Listing"></a>
+   <!-- search graphic-->
+   <a href="#"><img onclick="document.getElementById('sw_searchbox').style.visibility= 'visible'; document.getElementById('searchgraphic').style.visibility= 'hidden';document.getElementById('searchbox').focus();" src="banner2011/banner_img3.png" id="searchgraphic" style="float: right; border: none; visibility: visible;" title="Search all of NY.gov" alt="Search all of NY.gov"></a>
+    <!--state wide search box-->
+      <form id="sw_searchbox" style="float: right; position: relative; top: 2px; left: 155px; visibility: hidden;" method="get" action="http://www.search.state.ny.us/search">
+         <input value="date:D:L:d1" name="sort" type="hidden">
+          <input value="xml_no_dtd" name="output" type="hidden">
+          <input value="UTF-8" name="ie" type="hidden">
+          <input value="UTF-8" name="oe" type="hidden">
+          <input value="default_frontend" name="client" type="hidden">
+          <input value="default_frontend" name="proxystylesheet" type="hidden">
+          <input value="default_collection" name="site" type="hidden">
+             
+                    <label for="searchbox"><span class="sea">Search Box</span><input style="cursor: pointer;" type="text" size="15" name="q" maxlength="256" id="searchbox" title="Search"></label>
+                   <label for="searchbutton"><span class="sea">Search Button</span><input type="submit" style="width: 110px;" id="searchbutton" value="Search NY.GOV"></label>
+      </form>
+   <!--end wide search box-->
+       <script type="text/javascript">
+              // If JavaScript is on, manipulate search control objects.  
+              // Otherwise this will be ignored and search controls will be shown by default
+              document.getElementById('sw_searchbox').style.visibility = 'hidden';
+              document.getElementById('searchgraphic').style.visibility= 'visible';         
+       </script>   
 </div>
+
+<!-- END NEW BANNER-->   
+
 
 	
 	<div id="gallery">
@@ -40,7 +61,7 @@
 	</div>
 	</div>
 
-	<div id="menu"><span class="floatLeft"><a href="index.htm">home</a><a href="transact.htm">on-line transactions</a><a href="dmvfaqs.htm">FAQs</a><a href="sitemap.htm">site map</a><a href="forms.htm">forms</a><a href="spanishhome.htm">español</a><a href="callorvisit.htm">contact or visit</a><a href="rnwsplash.htm">find answers</a></span>  <span class="floatRight"><img src="images/tri-10.gif" alt=" " width="10" height="10">&nbsp;<strong><em><a href="search.htm">Search DMV</a></em></strong></span></div>
+	<div id="menu"><span class="floatLeft"><a href="index.htm">Home</a><a href="transact.htm">Online Services</a><a href="https://my.dmv.ny.gov/crm/">MyDMV Sign-in</a><a href="forms.htm">Forms</a><a href="spanishhome.htm">Español</a><a href="callorvisit.htm">Contact or Visit</a><a href="rnwsplash.htm">Find DMV Answers</a><a href="dmvfaqs.htm">FAQs</a></span>  <span class="floatRight"><img src="images/tri-10.gif" alt=" " width="10" height="10">&nbsp;<em><a href="search.htm">Search DMV</a></em></span></div>
 	
 <div id="container">
 <a name="main"></a>
@@ -61,7 +82,7 @@ www.dmv.state.ny.us</strong></p>
 
 <p>Consistent with the provisions of the Internet Security and Privacy Act, the Freedom of Information Law, and the Personal Privacy Protection Law, this policy describes the New York State Department of Motor Vehicles' privacy practices regarding information collected from users of this website. This policy describes what information is collected and how that information is used. Because this privacy policy only applies to this website, you should examine the privacy policy of any website, including other state agency websites, that you access using this website.</p>
 
-<p>For purposes of this policy, "personal information" means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person. The New York State Department of Motor Vehicles does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey or completing an on-line transaction.</p>
+<p>For purposes of this policy, "personal information" means any information concerning a natural person which, because of name, number, symbol, mark, or other identifier, can be used to identify that natural person. The New York State Department of Motor Vehicles does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey or completing an online transaction.</p>
 
 <h4>Information Collected Automatically When You Visit this Website</h4>
 
@@ -105,11 +126,11 @@ www.dmv.state.ny.us</strong></p>
 
 <p>During your visit to this website you may complete a transaction such as, a renewal of your registration, ordering a custom plate, and ordering a duplicate title, license or registration. The information, including personal information, volunteered by you in completing the transaction is used by the New York State Department of Motor Vehicles to operate New York State Department of Motor Vehicles programs, which include the provision of goods, services, and information. The information collected by the New York State Department of Motor Vehicles may be disclosed by the New York State Department of Motor Vehicles for those purposes that may be reasonably ascertained from the nature and terms of the transaction in which the information was submitted.</p>
 
-<p>The New York State Department of Motor Vehicles does not knowingly collect personal information from children or create profiles of children through this website. Users are cautioned, however, that the collection of personal information submitted in an e-mail will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or State law, be subject to public access. The Agency strongly encourages parents and teachers to be involved in children's Internet activities and to provide guidance whenever children are asked to provide personal information on-line.</p>
+<p>The New York State Department of Motor Vehicles does not knowingly collect personal information from children or create profiles of children through this website. Users are cautioned, however, that the collection of personal information submitted in an e-mail will be treated as though it was submitted by an adult, and may, unless exempted from access by federal or State law, be subject to public access. The Agency strongly encourages parents and teachers to be involved in children's Internet activities and to provide guidance whenever children are asked to provide personal information online.</p>
 
 <h4>Information and Choice</h4>
 
-<p>As noted above, the New York State Department of Motor Vehicles does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey, or completing an on-line form. You may choose not to send us an e-mail, respond to a survey, or complete an on-line form. While your choice not to participate in these activities may limit your ability to receive specific services or products through this website, it will not normally have an impact on your ability to take advantage of other features of the website, including browsing or downloading information, or limit your ability to use other available means to conduct your business, such as by regular mail, by telephone/IVR or through an office visit.</p>
+<p>As noted above, the New York State Department of Motor Vehicles does not collect any personal information about you unless you provide that information voluntarily by sending an e-mail, responding to a survey, or completing an online form. You may choose not to send us an e-mail, respond to a survey, or complete an online form. While your choice not to participate in these activities may limit your ability to receive specific services or products through this website, it will not normally have an impact on your ability to take advantage of other features of the website, including browsing or downloading information, or limit your ability to use other available means to conduct your business, such as by regular mail, by telephone/IVR or through an office visit.</p>
 
 <h4>Disclosure of Information Collected Through This Website</h4>
 
@@ -123,7 +144,7 @@ www.dmv.state.ny.us</strong></p>
 
 <h4>Retention of Information Collected Through this Website</h4>
 
-<p>The information collected through this website is retained by the New York State Department of Motor Vehicles in accordance with the records retention and disposition requirements of <a href="http://www.archives.nysed.gov/a/nysaservices/ns_mgr_laws_acal5705.shtml">the New York State Arts and Cultural Affairs Law</a>. In general, the Internet services logs of the New York State Department of Motor Vehicles, comprising electronic files or automated logs created to monitor access and use of Agency services provided through this website, are retained for up to seven years and then destroyed. Information, including personal information, that you submit in an e-mail or when you complete a survey, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information.</p>
+<p>The information collected through this website is retained by the New York State Department of Motor Vehicles in accordance with the records retention and disposition requirements of <a href="http://www.archives.nysed.gov/a/nysaservices/ns_mgr_laws_acal5705.shtml">the New York State Arts and Cultural Affairs Law</a> <a href="aboutdmv.htm#external"><img src="DMVexternal-link.gif" width="14" height="14" alt="external link" title="external link"></a>. In general, the Internet services logs of the New York State Department of Motor Vehicles, comprising electronic files or automated logs created to monitor access and use of Agency services provided through this website, are retained for up to seven years and then destroyed. Information, including personal information, that you submit in an e-mail or when you complete a survey, registration form, or order form is retained in accordance with the records retention and disposition schedule established for the records of the program unit to which you submitted the information.</p>
 
 <p>Information concerning these records retention and disposition schedules may be obtained through the Internet privacy policy contact listed in this policy.</p>
 
@@ -179,15 +200,15 @@ Albany, New York 12228</address>
 | <a href="forms.htm">DMV Forms</a> | <a href="brochure.htm">DMV Publications</a> | <a href="cplates.htm">Custom Plates</a> | <a href="abstract.htm">DMV Records</a> | <a href="http://www.safeny.ny.gov/index.htm">Traffic Safety</a> | <a href="press.htm">News</a> |<br>
 <strong>| <em><a href="search.htm">Search DMV</a></em> | <em><a href="rnwsplash.htm">Find DMV Answers</a></em> | <a href="transact.htm">DMV Services</a> | <a href="securitylocal.htm">Privacy and Security</a> | <a href="brochure.htm">Driver's Manual</a> |</strong></p>
 
-<p>Copyright © 2010, the New York State Department of Motor Vehicles. All rights are reserved.</p>
+<p>Copyright © 2011, the New York State Department of Motor Vehicles. All rights are reserved.</p>
 <script type="text/javascript"> addLinkerEvents(); </script>
 </div>
 
 
-<!--webbot bot="Include" endspan i-checksum="2020" -->
+<!--webbot bot="Include" endspan i-checksum="2084" -->
 
 
-
+</div>
 
 
 
