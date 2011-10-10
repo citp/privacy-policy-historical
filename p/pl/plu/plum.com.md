@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611025952id_/http%3A//www.plum.com/privacy/p) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plum.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010155052id_/http%3A//www.plum.com/privacy/p) for the most accurate reproduction.*
 
 # Plum Groups
 
@@ -26,7 +26,7 @@ The Basics:
 
   * First and foremost, we want you to know that you own all personal information you provide to Plum. While this information is "deposited" with us, it is and will always remain your property.
   * We will never sell this information, nor will we share it in any form that can identify you individually with third parties who aren't our agents. 
-  * If you no longer want to be a member of the Plum community, you can deactivate your Plum account at any time by contacting us by [clicking here.](https://web.archive.org/feedback/p/)
+  * If you no longer want to be a member of the Plum community, you can deactivate your Plum account at any time by contacting us by [clicking here.](https://web.archive.org/web/20111010155052id_/http://www.plum.com/privacy/p/oyster.menuitem.contact.url)
   * If you've deleted your account, some of the "passive" information we've collected may still exist in log files. However, there's no way to link this information to you individually once your account has been deactivated.
   * Plum needs to comply with the law, ensure our service is used legally and for its intended purpose, and make certain that people's lives and well-being aren't threatened because of anything related to Plum. This means that there may be times when we are required to disclose your private information to comply with a valid legal order (for example, a warrant or subpoena), to investigate fraud or egregious misuse of the Plum service, or in situations involving physical harm to any person. 
 
@@ -63,7 +63,7 @@ Information you collect:
 
 
 
-* To request the removal of something, or to report a copyright violation, [click here](https://web.archive.org/feedback/p/).
+* To request the removal of something, or to report a copyright violation, [click here](https://web.archive.org/web/20111010155052id_/http://www.plum.com/privacy/p/oyster.menuitem.contact.url).
 
 Comments and ratings:
 
@@ -75,7 +75,7 @@ Comments and ratings:
 Account information and passively collected information
 
   * When you register to use Plum, we collect some basic information from you, including your name, email address, and location. This information is only used for the Plum service to identify you and for aggregate analysis.
-  * Plum's service can notify you when things are added to your collections or your friend's collections. If you don't want to receive these emails, you need to deactivate your account. To do so, [contact us.](https://web.archive.org/feedback/p/)
+  * Plum's service can notify you when things are added to your collections or your friend's collections. If you don't want to receive these emails, you need to deactivate your account. To do so, [contact us.](https://web.archive.org/web/20111010155052id_/http://www.plum.com/privacy/p/oyster.menuitem.contact.url)
   * When you use the Plum system, we collect some information "passively." This refers to information that is automatically collected by our servers as you are using Plum.
   * This "passively" collected information includes your IP address and several cookies that help our servers identify your web browser and your account (so that other people can't pretend to be you). We use this information for diagnostic purposes and aggregate analysis.
   * In certain places on the Plum site, we may make use of third party advertising servers or web analysis tools. These agents may set other cookies or use "web beacons." However, in no case can the data collected by these agents identify you personally.
@@ -90,4 +90,4 @@ There may come a time when we need to change this statement of your rights, for 
 
 What to do if you have a concern or want to report a problem
 
-If you have a question, comment or concern, please [contact us](https://web.archive.org/feedback/p/) and we'll be happy to help you out. 
+If you have a question, comment or concern, please [contact us](https://web.archive.org/web/20111010155052id_/http://www.plum.com/privacy/p/oyster.menuitem.contact.url) and we'll be happy to help you out. 
