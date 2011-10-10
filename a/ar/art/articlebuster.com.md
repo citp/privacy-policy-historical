@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlebuster.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523065653id_/http%3A//www.articlebuster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebuster.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011011911id_/http%3A//www.articlebuster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Article Buster
 
