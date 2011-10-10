@@ -1,23 +1,101 @@
-> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422025136id_/http%3A//www.soft32.com/at/65-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft32.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010124317id_/http%3A//www.soft32.com/legal/privacy%3Frel%3Dlegal) for the most accurate reproduction.*
 
-# Soft32.com - Freeware and Shareware Downloads
+# Software Free Download
 
-**Privacy Policy**
+1\. **Information rights and express consent**  
+According to what is set forth in current Privacy Policy, I.T.N.T., S.R.L., as owner of the Website, informs the User that files containing personal data from users and customers have been created by Soft32, which accepts responsibility for the files, duly filed with the corresponding public entity.
 
-When a visitor requests pages from Soft32.com site, our Web servers automatically recognize the browser's domain name, and IP address. We collect the domain names and IP addresses in order to aggregate information on the pages users access or visit. This information is collected solely for statistical purposes and is not used to identify individuals. From time to time, we may ask users to provide an e-mail address or mailing address for the purpose of conducting a survey or to provide additional services (for example, subscriptions to e-mail newsletters). Whenever the identity of a visitor is recorded, we will clearly indicate the purpose of the request before the information is requested. 
+Soft32 does not sell or rent its users' personal data to third parties with commercial purposes without the user' prior consent. However, Soft32 is enabled to disclose personal data in order to (i) fulfill a legal requirement, (ii) demand the fulfillment of our policies, (iii) answer claims regarding the breach or protection of any third party's rights or its property or security, in the event they are affected by advertisements or contents. Soft32 is enabled, as well, to share or transfer your personal information to:
 
-**Cookies**   
-A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. 
+Contract services from suppliers that help us with our internal operations in order to provide joint content and services (such as registration, transactions, or customer service), to make the prevention and detection of potentially illegal acts or breaches of our policies easier, or to make decisions regarding products, services and communications. To that end, the User expressly permits Soft32 to transfer its personal data for the sole purposes specified in the Privacy Policy.
 
-Some of our partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies. Please refer to the privacy policies of the network for details. 
+2\. **Purpose**  
+Soft32 collects information concerning users who register via the Soft32 website for the following reasons:
 
-[Burst Media](http://www.burstmedia.com/), [Vibrant Media](http://www.vibrantmedia.com/), [Google Adsense](http://www.google.com/adsense/)
+\- Creation of a community of users interested in software applications  
+\- To provide users' opinions about computer programs through forums or any other electronic means.  
+\- To inform the Users about anything related to the software.  
+\- To study and analyze information provided by the Users in order to evaluate new trends or services.  
+\- To share and send contents and opinions.  
+\- To send e-communications with promotional and informative purposes regarding the software sector or any others that could be interesting, as the ones indicated on clause 7 below.
 
-**Security**  
-This website takes every precaution to protect our users' information. When users submit sensitive information via the website, your information is protected both online and off-line. When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just 'surfing'. To learn more about SSL, follow this link [http://www.ssl.com](http://www.ssl.com/). 
+3\. **Mandatory or optional nature of the information provided by the User and reliability of the information**  
+The User must complete the fields specified with an asterisk (*) in the registration form, as they are strictly necessary to respond to its request. The filling of the other fields is voluntary.
 
-**Email-Newsletter List Privacy Policy**   
-Soft32.com maintains a strict "no-spam" policy. If you sign up for our free newsletter, your e-mail address will "not" be sold or given to any third party. If you have any questions or concerns, please contact us via email at: webmaster@Soft32.com
+The User guarantees that the personal information provided is true and agrees to inform Soft32 of any changes to the same.
 
-**Links**  
-This web site contains links to other sites. Please be aware that we Soft32.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site. 
+The User guarantees that the personal information provided is exact and up to date and reflects the User's current status. The User is responsible for keeping his or her information up to date at all times. The User is responsible for any mistake or error in the data provided, and shall be liable for any damage deriving from said errors, as regards Soft32 or third parties, by virtue of using Soft32 services.
+
+4\. **Privacy Control**  
+Public Profile: All personal information related to the User is public. In the event the User has a personal picture or an avatar that represents them, such image shall also be visible for all Users. 
+
+5\. **User Consent**  
+By filling of the form and sending his or her personal data, the User declares to have read and expressly accepted the legal terms, and grants his or her consent to the automated handling of his or her details, according with the purposes being informed and services provided by Soft32.
+
+Moreover, the User expressly consents that his or her opinions and the contents provided by him or her are handled by Soft32 for the indicated purposes. 
+
+6\. **Information provided by minors**  
+Users older than fourteen years old are able to register into Soft32.com without their parents' or tutors' prior consent.
+
+In the event the User is a minor under fourteen, their parents' or tutors' prior consent is required for the handling of the minor's personal data. The minor will be never asked about other members of his/her family's professional or economic situation or their privacy.
+
+If you are a minor under fourteen and you have accessed this Website without letting your parents know, please do not register as a User. 
+
+7\. **Electronic communications**  
+By completing and submitting an electronic form to Soft32, Users expressly consent to receive bulletins concerning the most relevant news, innovation, and information regarding the website, as well as electronic communications relating to the sector and the following sectors:
+
+\- IT, software and technology  
+\- Internet  
+\- Digital TV / Satellite / Cable  
+\- Fixed telephony  
+\- Mobile telephony  
+\- Purchase and sale of companies  
+\- Entertainment  
+\- Cinema and Shows  
+\- Games  
+\- Videogames and multimedia  
+\- Music / Books  
+\- Training/ Employment
+
+Soft32 offers its Users, via previous subscription through his or her personal account, the following services:
+
+\- Soft32 Newsletter (weekly subscription): The User will receive at his or her e-mail account all the information required to choose the best software: programs' comparisons, analysis and others.  
+\- Notices and alerts through e-mail related to downloading programs.  
+\- Special offers from Soft32 and its partners.
+
+Soft32 has established a mechanisms by which users can reject said services, simply and at zero cost. Users can deactivate this service by clicking on the unsubscribe option at the bottom of the e-mails received.
+
+8\. **Security**  
+Soft32 informs Users that it has adopted the technical and organizational measures laid down by law to protect their personal data and to prevent it from being altered, lost, handled or accessed without authorization, bearing in mind the status of the technology, nature of the data saved and the risks to which they are exposed, in accordance with all the regulations in force.
+
+9\. **Cookies and IPs**  
+The User agrees to cookies and IP tracking. Our software and the site's traffic analyzer use cookies and IP trackers that collect data for statistical purposes, including: date of first visit, number of visits, date of last visit, URL and domain, browser and screen resolution. The User is also free to de-activate and/or eliminate cookies by following the instructions given by their Internet browser.
+
+Advertising on this site includes Google AdSense, a system that uses cookies to display advertising that relates to the pages viewed by the User. When a user accesses a site that uses Google AdSense, a cookie that allows Google to collect the information about the user's activity is activated in order to manage and publish advertisements through Google Adsense.  
+The user can deactivate Google cookies by deactivating cookies in their browser.
+
+Soft32 does not spam and only handles data provided by the Users via the Website or email messages.
+
+10\. **Right to Access, Correct and Cancel Data**  
+The User is entitled to access this information, correct it if there are mistakes and cancel their Soft32 account.
+
+Users can exercise these rights via the configuration menu in their personal profile, which they can access using their email address and password. If users experience problems while exercising their online rights or if they have doubts or questions related to our Personal Data Protection Policy they can contact us directly at:
+
+I.T.N.T., S.R.L.   
+\- Address: Costache Negri, nr. 9B, 550402, Sibiu, Romania  
+\- Tel. + 40 723 875 777  
+\- Fax. +40 369 108 797  
+\- legal@soft32.com
+
+Personal data processing, as well as commercial electronic communications, are in accordance with the regulations currently in force.
+
+11\. **Modification of the Data Protection Policy**  
+Soft32 reserves the right to modify this policy to adapt it to future legislative or case law developments.
+
+12\. **Applicable Law**  
+Unless a specific local regulation sets forth the contrary, the Data Protection Policy and the rest of the Legal Conditions concerning the website are governed by Romanian law.
+
+13\. **Questions regarding this Policy**  
+Any doubts or question related to this Personal Data Protection Policy can be sent by email legal@soft32.com 
+
+**Date: 15 February 2011**
