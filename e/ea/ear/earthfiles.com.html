@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the earthfiles.com privacy policy that was archived on 2010-12-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101223022305id_/http%3A//www.earthfiles.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earthfiles.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011002438id_/http%3A//www.earthfiles.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><title>Earthfiles.com About Us</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -70,6 +70,43 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
+
+//Disable right mouse click Script
+//By Maximus (maximus@nsimail.com) w/ mods by DynamicDrive
+//For full source code, visit http://www.dynamicdrive.com
+
+var message="Function Disabled!";
+
+///////////////////////////////////
+function clickIE4(){
+if (event.button==2){
+alert(message);
+return false;
+}
+}
+
+function clickNS4(e){
+if (document.layers||document.getElementById&&!document.all){
+if (e.which==2||e.which==3){
+alert(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS4;
+}
+else if (document.all&&!document.getElementById){
+document.onmousedown=clickIE4;
+}
+
+document.oncontextmenu=new Function("alert(message);return false")
+// end diable right click
+
+window.ondragstart = function() { return false; } 
+
 // -->
 </script></head>
 <body bgcolor="#6789aa" text="#000066">
@@ -94,9 +131,9 @@ function MM_swapImage() { //v3.0
 	<input type="hidden" name="sYear" value="1998">
 	<input type="hidden" name="sMonth" value="01">
 	<input type="hidden" name="sDay" value="01">
-	<input type="hidden" name="eYear" value="2010">
-	<input type="hidden" name="eMonth" value="12">
-	<input type="hidden" name="eDay" value="22">
+	<input type="hidden" name="eYear" value="2011">
+	<input type="hidden" name="eMonth" value="10">
+	<input type="hidden" name="eDay" value="10">
   </td>
   <td align="left" width="40" height="27"><img src="/images/transpix.gif" width="3" height="1" border="0">
     <input type="image" name="Submit" src="/images/go_up.gif"></td>
@@ -144,7 +181,8 @@ function MM_swapImage() { //v3.0
     <td><a href="search.php" onmouseover="MM_swapImage('search','','/images/search-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="search" src="/images/search.gif" width="150" height="20" border="0"></a></td>
   </tr>
   <tr>
-    <td><a href="subscription.php" onmouseover="MM_swapImage('membership','','/images/membership-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="membership" src="/images/membership.gif" width="150" height="20" border="0"></a></td>
+    <td><a href="subscription.php" onmouseover="MM_swapImage('membership','','/images/membership-over.gif',1)" onmouseout="MM_swapImgRestore()"><img name="membership" src="/images/membership.gif" width="150" height="20" border="0"></a>
+	<br><img src="images/menu-40dollars.gif" alt="$40 U.S. per year." width="150" height="20"></td>
   </tr>
   <tr>
     <td><img src="/images/menubar_11.gif" width="150" height="25"></td>
@@ -265,7 +303,7 @@ function MM_swapImage() { //v3.0
 		  	<br><br>
 			<!-- ---------- CONTENT : CREDITS ---------- -->
 		  	<b><font size="3">Credits &nbsp; </font></b><br>
-            <div align="center"> <b>Copyright © 1999 - 2010 by Linda Moulton Howe</b><br>
+            <div align="center"> <b>Copyright © 1999 - 2011 by Linda Moulton Howe</b><br>
                 <b>All Rights Reserved.</b><br>
                 <a href="http://www.earthfiles.com/">www.earthfiles.com</a><br>
                 <a href="mailto:earthfiles@earthfiles.com">earthfiles@earthfiles.com</a> <br>
@@ -299,7 +337,7 @@ function MM_swapImage() { //v3.0
 <!-- BEGIN COPYRIGHT -->
 <center>
 	<font color="#ffffff" face="verdana, arial" size="-2"><b>
-Copyright © 1999 - 2010, <a href="http://www.earthfiles.com/" class="COPYRIGHT">Earthfiles.com</a> / <a href="http://www.digitaleyecandy.ca/" class="COPYRIGHT">Digital Eye Candy</a><br>
+Copyright © 1999 - 2011, <a href="http://www.earthfiles.com/" class="COPYRIGHT">Earthfiles.com</a> / <a href="http://www.digitaleyecandy.ca/" class="COPYRIGHT">Digital Eye Candy</a><br>
 All rights reserved.
 	</b></font>
 </center><br>
