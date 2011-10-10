@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621004802id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wayn.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010032739id_/http%3A//www.wayn.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WAYN.COM
+# WAYN.COM
 
-|   | 
-
-**This Privacy Policy was last updated on the following date: 12th September 2008**
+**This Privacy Policy was last updated on the following date: 19th May 2011**
 
 This Privacy Policy relates to the following domains owned and operated by Where Are You Now? Ltd: 
 
@@ -32,19 +30,11 @@ If you have any queries in relation to this Privacy Policy, you can email us at:
 
 **Information gathered on registration.** When you register for the WAYN Service, you provide your name, your email address, your gender, your date of birth, nationality, your location details and some optional details about yourself. They are available to you, and capable of being corrected or updated, through your WAYN profile page 
 
-**Cookies.** We use small files known as "cookies" to enhance users' experience of the Where Are You Now? Service as follows: 
+**Cookies.** We use small files known as "cookies" to enhance users' experience of the Where Are You Now? Service
 
-  * To hold Members' login information, so that your location details and contact information are displayed when you visit the WAYN Service. This option can be disabled by clicking the "logoff" icon which appears at the top right hand corner of every page. 
-  * To facilitate optimal use of the WAYN Service by Members, by means of a temporary "session" cookie. These cookies disappear when the Member's browser session ends, or if the Member clicks the "logoff" icon which appears on the WAYN Service. 
-  * In the course of running advertisements or sponsored areas on this site, a third-party advertiser or sponsor may place on your browser (and subsequently recognize) a unique cookie or pixel. 
-  * Google, as a third-party advertiser, uses cookies to serve ads on this site. Its use of the DART cookie enables Google to serve ads to you based on your use of the WAYN Service and other sites on the Internet. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [www.google.co.uk/privacy_ads.html](http://www.google.co.uk/privacy_ads.html)
-  * We use third-party advertising companies to serve ads when you visit the WAYN Service. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites (non-personal information) in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to not having this information used by these companies, click here [www.google.co.uk/privacy_ads.html](http://www.google.co.uk/privacy_ads.html).
-  * The cookies on the WAYN Service do not access or use information by which people can be personally identified. If you wish, you can prevent these files from using non-personal information about you by either deleting the cookie folder in your browser or by putting your browser's Privacy setting higher, but doing so will mean that you will not be able to use the WAYN Service in the way that we intend it to be used, will not be presented with advertising that reflects the way that you use our, and other, websites and may well adversely affect your experience of websites that use cookies to enhance or personalize that experience. 
-  * You can find out how to make these changes to your browser at this site:[ http://www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/)
+**Detailed information regarding the Cookies we use is available in our[Cookie Policy](http://www.wayn.com/cookie_policy.html)**
 
-
-
-**2\. Access to Personally Identifiable Information**
+ **2\. Access to Personally Identifiable Information**
 
 The information we collect may be used: 
 
@@ -58,7 +48,7 @@ The information we collect may be used:
 
 
 
-If your personally identifiable information or email address changes, or if you no longer wish to be a Member of the WAYN Service, you may correct, update, delete or deactivate your Membership through the Member's account settings menu option found at the top of most pages when logged on to the WAYN Service. Alternatively, you can email WAYN Customer Support at the following email: [support@wayn.com](mailto:support@wayn.com) or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom, or by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: + 44 (0) 20 7336 8027. We will endeavour to respond to all email enquires within 2 working days. 
+If your personally identifiable information or email address changes, or if you no longer wish to be a Member of the WAYN Service, you may correct, update, delete or deactivate your Membership through the Member's account settings menu option found at the top of most pages when logged on to the WAYN Service. Alternatively, you can email WAYN Customer Support at the following email: [support@wayn.com](mailto:support@wayn.com) or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom, or by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: +44 (0) 845 475 4390. We will endeavour to respond to all email enquires within 2 working days. 
 
 **3\. Emails you receive from WAYN**
 
@@ -70,7 +60,7 @@ We provide you the opportunity to 'opt-out' of having your personally identifiab
 
 You may opt out of any or all of the newsletters and emails we send you (see paragraph 3 above) by changing your Interaction Options at any time. Your "Interaction Options" can be accessed from the Member's account settings menu option found at the top of most web pages when logged on to the WAYN Service. 
 
-You may also opt-out of receiving them by following the instructions included in each newsletter or email we send you or by emailing us at: [support@wayn.com](mailto:support@wayn.com) with your request. Alternatively, you may contact us by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: \+ 44 (0) 20 7336 8027, or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom. 
+You may also opt-out of receiving them by following the instructions included in each newsletter or email we send you or by emailing us at: [support@wayn.com](mailto:support@wayn.com) with your request. Alternatively, you may contact us by telephone during normal office hours of 9am to 5pm GMT Monday to Friday on: +44 (0) 845 475 4390, or by mail to: Where Are You Now Ltd, 123 Aldersgate Street, London, EC1A 4JQ, United Kingdom. 
 
 **5\. Sharing and use of information**
 
@@ -164,3 +154,6 @@ You can obtain further information about data protection laws by visiting the In
 **15\. Changes to this Privacy Policy**
 
 If we decide to change our Privacy Policy or email practices, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+
+|    
+---|---
