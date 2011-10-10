@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523175026id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horoscopes-love.eu privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010050052id_/http%3A//www.horoscopes-love.eu/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Horoscopes-Love.eu
-
-|
 
 Privacy Policy: 
 
@@ -66,7 +64,8 @@ If there are any questions regarding this privacy policy you may contact us usin
 www.horoscopes-love.eu   
 info@horoscopes-love.eu 
 
-  
+Video call world's most renowned Psychics only for 0,99 credits/min [Click Here!](http://www.oranum.com/randomchat.php?s=1&p=6&w=100393&t=36&c=)
+
   
 
 
@@ -77,3 +76,5 @@ Click "like" and you will be informed about latest news, articles from Astrology
   
   
 
+
+[](http://www.oranum.com/?s=1&p=7&w=100393&t=0&c=0&cs=0)
