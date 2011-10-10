@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailypuppy.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222163948id_/http%3A//www.dailypuppy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailypuppy.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010135702id_/http%3A//www.dailypuppy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Puppy
 
