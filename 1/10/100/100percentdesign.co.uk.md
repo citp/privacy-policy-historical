@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221170529id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D3/t%3Dm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 100percentdesign.co.uk privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010150810id_/http%3A//www.100percentdesign.co.uk/page.cfm/Link%3D653/t%3Dm) for the most accurate reproduction.*
 
-# 100% Design 2008 - Privacy Pledge
+# 100% Design - Privacy Pledge
 
 **How Your Information Is Used** Since 1995, Reed Exhibitions has been working to develop useful Internet services and web sites that are safe, easy, and respectful of our customers. This web site is maintained by Reed Exhibitions Limited (RX). Our corporate offices are located at Gateway House, 28 The Quadrant, Richmond, Surrey TW9 1DN, United Kingdom. You can also reach us by telephone on +44 (0) 208 910 7910.
 
@@ -19,6 +19,8 @@ RX defines its customers as follows
   * Press 
   * Other individuals with whom RX maintains business relationships or communications 
 
+
+
 **Types of Information Gathered**
 
 There are two primary types of information provided by RX customers. The definitions and treatments of these types are as follows:
@@ -36,6 +38,8 @@ RX will accept opt-out requests via the contact details below as follows:
   * By Sender: RX or third party 
   * By Show: i.e. World Travel Market 
   * By Medium: Mail, Phone, Fax, Email (or All) 
+
+
 
 **Any queries/questions/opt out**
 
