@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the therapservices.net privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620091155id_/http%3A//www.therapservices.net/about/%3Fpage_id%3D426) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therapservices.net privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011000143id_/http%3A//www.therapservices.net/about/%3Fpage_id%3D426) for the most accurate reproduction.*
 
-# Therap Services, LLC. :: About Us » Therap Services, LLC – Website Privacy Policy
+# Therap: Solutions for Developmental Disability Providers :: About Us » Therap Services, LLC – Website Privacy Policy
 
 ## [Therap Services, LLC – Website Privacy Policy](http://www.therapservices.net/about/?page_id=426 "Permanent Link to Therap Services, LLC – Website Privacy Policy")
 
