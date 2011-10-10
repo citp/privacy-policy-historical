@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hunkdujour.com privacy policy that was archived on 2011-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110420043831id_/http%3A//www.hunkdujour.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hunkdujour.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010232450id_/http%3A//www.hunkdujour.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : Hunk du Jour
 
