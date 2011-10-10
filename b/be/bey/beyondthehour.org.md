@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondthehour.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623224546id_/http%3A//www.earthhour.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondthehour.org privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010174749id_/http%3A//www.earthhour.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Earth Hour – Privacy
 
