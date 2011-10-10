@@ -1,231 +1,2392 @@
-<!--The following is the downloaded HTML source of the amtrakguestrewards.com privacy policy that was archived on 2009-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090905072624id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amtrakguestrewards.com privacy policy that was archived on 2011-10-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111010021706id_/http%3A//www.amtrak.com/privacypolicy.html) for the most accurate reproduction.-->
 
-<html><head>
-<title>Amtrak - Help - Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="Keywords" content="">
-<meta http-equiv="imagetoolbar" content="no">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+			
 
 
+<meta content="no" http-equiv="imagetoolbar">
+<!-- IE8 renders as IE7 to spare ourselves another column in the compatability matrix -->
+<meta content="IE=EmulateIE7" http-equiv="X-UA-Compatible">
 
-<noscript><meta http-equiv="REFRESH" content="0; url=/servlet/ContentServer?pagename=Amtrak/NoScript"></noscript>
-
-
-<script language="javascript" type="text/javascript">
-<!--
-
-// LOGIN
-function buildLoginFrame(){
-var boolCompliant=isCompliantBrowser();
-var obj=document.getElementById("loginFrame");
-var login_href='/servlet/ContentServer?pagename=Amtrak/Login/LoginForm';
-var logout_href='servlet/ContentServer?pagename=Amtrak/Login/LogoutForm';
-var framehtml='<html>';
-framehtml+='<body>';
-framehtml+='<form id="frameResLogin" method="post" action="https://tickets.amtrak.com/itd/amtrak/CMSLogon">';
-framehtml+='<input type="text" name="_name">';
-framehtml+='<input type="password" name="_password">';
-framehtml+='</form>';framehtml+='</body></html>';
-	if (isSafari == false) {
-		var doc=null;
-		if(obj!=null){
-			obj.contentDocument;
-			if(doc==undefined||doc==null){doc=obj.contentWindow.document;}
-			doc.open();doc.write(framehtml);doc.close();
- 		}
-	}
-}; // end of buildLoginFrame
-
-function execLogon(frm){
+<!--AssetID:1241267362239-->
+<!--AssetType:Page-->
+<!--If Page asset get data from corresponding content assset --><!--PageID:1241267362239-->
+	<!--Loop for multiple assets--><!--PageContentID:1237608325792-->
+		<!--metaDescriptionItem:-->
+		
+		<!--metaDescription:-->
 	
-	if (isCompliantBrowser()==true) {
-		var loginFrameParent=document.getElementById("loginFrameParent");
-		var loginFrame=document.getElementById("loginFrame");
-		try {
-			if (frm) {
-				var objStat=document.getElementById("objStat");
-				if (objStat!=null) { 
-					loginFrameParent.removeChild(objStat);
-				}
-			}
-			var frameDoc=loginFrame.contentDocument;
-			if (frameDoc==undefined||frameDoc==null) {
-				frameDoc=loginFrame.contentWindow.document;
-			}
-			var frameFrm=frameDoc.forms[0];
-			if (frm) {
-				frameFrm._name.value=frm._name.value;
-				frameFrm._password.value=frm._password.value;
-			}
-			frameFrm.submit();
-			loginFramePostProcess();
-		} catch(err) {
-			frm.submit();
-		}
-	} else { 
-		frm.submit();
-	}
-};
+	<!--Station Meta Tags diff as am2station is a basic asset --><!--c:Page-->
 
-function showLoggedIn(){
-	var output='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';
-	output+='<tr><td COLSPAN="2" VALIGN="bottom">';
-	output+='<img SRC="/images/header-loggedin-home.gif" WIDTH="138" HEIGHT="18" ALT="Amtrak.com Options"/>';
-	output+='</td></tr><tr><td CLASS="NavBarWhite" COLSPAN="2" ALIGN="center"><B>';
-	output+=getUserName();
-	output+='</B></td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';
-	output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Profile" CLASS="small">My User Profile</a>';
-	output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small">';
-	output+='<a HREF="https://tickets.amtrak.com/itd/amtrak/Reservations" CLASS="small">My Reservations</a>';
-	output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Itineraries" CLASS="small">My Saved Plans</a>';
-	output+='</td></tr><tr VALIGN="bottom"><td COLSPAN="2" CLASS="small"><a HREF="https://tickets.amtrak.com/itd/amtrak/Tripfolio" CLASS="small">My Tripfolio</a>';
-	output+='</td></tr><tr VALIGN="bottom"><td CLASS="small">';
-	output+='<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>';
-	output+='</td><td CLASS="small" ALIGN="right">';
-	output+='<a HREF="http://tickets.amtrak.com/itd/amtrak/CMSLogOff" CLASS="small">Log Out</a>';
-	output+='</td></tr></table><br>';
-	return output;
-};
+		<link href="/css/base.css" rel="stylesheet" type="text/css" media="all">
+		<link href="/css/base_screen.css" rel="stylesheet" type="text/css" media="screen">
+		<link href="/css/basic_booking.css" rel="stylesheet" type="text/css" media="all">
+		<link href="/css/basic_booking_print.css" rel="stylesheet" type="text/css" media="print">
+		<link href="/css/basic_booking_screen.css" rel="stylesheet" type="text/css" media="screen">
+		<link href="/css/content.css" rel="stylesheet" type="text/css" media="all">
+		
+		<link href="/css/content_screen.css" rel="stylesheet" type="text/css" media="screen">
+		<link href="/css/base_print.css" rel="stylesheet" type="text/css" media="print">
+		<link href="/css/content_print.css" rel="stylesheet" type="text/css" media="print">		
+						
 
-function showLoggedOut(argv,pagetype){
-	var output;
-	switch(argv) {
-		case "header":
-			output='<form NAME="reslogin" ACTION="https://tickets.amtrak.com/itd/amtrak/CMSLogon" id="reslogin" METHOD="post" onSubmit="return false">';
-			break;
 
-		case "body":
-			if (pagetype!=null) {
-				img = "header-login-home.gif";
-				imgW = "138";
-				imgH = "18";
-			} else {
-				img = "header-login.gif";
-				imgW = "156";
-				imgH = "19l";
-			}
-			output ='<table BORDER="0" CELLPADDING="1" CELLSPACING="1" WIDTH="160">';
-			output+='<tr>';
-			output+=   '<td COLSPAN="2" VALIGN="bottom"><img SRC="/images/' + img + '" WIDTH="' + imgW + '" HEIGHT="' + imgH + '" ALT="Amtrak.com Login"/>';
-			output+=   '</td>';
-			output+='</tr>';
-			output+='<tr>';
-			output+=   '<td CLASS="small" ALIGN="right"><label for="userid">User ID</label></td>';
-			output+=   '<td><input TYPE="text" SIZE="10" NAME="_name" MAXLENGTH="64" ID="userid" /></td>';
-			output+='</tr>';
-			output+='<tr>';
-			output+=   '<td CLASS="small" ALIGN="right"><label for="password">Password</label></td>';
-			output+=   '<td><input TYPE="password" SIZE="10" NAME="_password" MAXLENGTH="20" ID="password" /></td>';
-			output+='</tr>';
-			output+='<tr>';
-			output+=   '<td CLASS="small" NOWRAP COLSPAN="2" VALIGN="middle">';
-			output+=      '<table BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="160">';
-			output+=      '<tr><td STYLE="height: 4px;" colspan="3"></td></tr>';
-			output+=      '<tr>';
-			output+=         '<td CLASS="small" VALIGN="middle" align="right">';
-			output+=            '<input type="checkbox" name="_remember" ID="remember">';
-			output+=         '</td>';
-			output+=         '<td CLASS="small" VALIGN="middle" align="left">';
-			output+=            '<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&ibsref=remembered\', 530, 450);" CLASS="small"><label for="remember">Remember Me</label></a>';
-			output+=         '</td>';
-			output+=         '<td CLASS="small" align="right">';
-			output+=            '<input TYPE="image" SRC="/images/button-go2.gif" BORDER="0" ALT="Go" TITLE="Go" onClick="if(checkLoginForm()) execLogon(document.reslogin)"/>';
-			output+=        '</td>';
-			output+=      '</tr>';
-			output+=      '</table>';
-			output+=   '</td>';
-			output+='</tr>';
-			output+='<tr><td COLSPAN="2" HEIGHT="5"></td></tr>';
-			break;
-		case "footer":
-			output ='<tr VALIGN="bottom">';
-			output+=  '<td COLSPAN="2" CLASS="small" ALIGN="left" NOWRAP>';
-			output+=    '<a id="Aregister" HREF="https://tickets.amtrak.com/itd/amtrak/Register" CLASS="small" TITLE="Click here to register.">Register</a>';
-			output+=  '</td>';
-			output+='</tr>';
-			output+='<tr>';
-			output+=  '<td COLSPAN="2" CLASS="small" ALIGN="left" NOWRAP>';
-			output+=    '<a HREF="javascript:openWin(\'http://tickets.amtrak.com/itd/amtrak/ForgottenPassword\', 420, 550);" CLASS="small" TITLE="Click here to request your password.">Forgot Password?</a>';
-			output+=  '</td>';
-			output+='<tr>';
-			output+=  '<td COLSPAN="2" CLASS="small" ALIGN="left" NOWRAP>';
-			output+=    '<a HREF="javascript:openWin(\'/servlet/ContentServer?pagename=am2/am2Popup&help=login\', 530, 450);" CLASS="small" TITLE="Help">Help</a>';
-			output+=  '</td>';
-			output+='</tr>';
-			output+='</table></form>';
-			
-			
-	}
-	return output;
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.amtrak.com/css/library/prototype-1.6.0.3.js" type="text/javascript"></script>
+<script src="http://www.amtrak.com/css/base.js" type="text/javascript"></script>
+<script src="http://www.amtrak.com/css/basic_booking.js" type="text/javascript"></script>
+<script src="http://www.amtrak.com/css/ib_front_page.js" type="text/javascript"></script>
+<script src="http://www.amtrak.com/css/mptoggle.js" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+<!--
+function language_select_2(dropdown)
+{
+    var myindex  = dropdown.selectedIndex;
+    var SelValue = dropdown.options[myindex].value;
+    var baseURL  = SelValue;
+    switchLanguage(SelValue);
+    
+    return true;
 }
- 	
+
+function getCheckedValue(radioObj,q) {
+	if(!radioObj)
+		return "";
+	var radioLength = radioObj.length;
+	if(radioLength == undefined)
+		if(radioObj.checked)
+			return radioObj.value;
+		else
+			return "";
+	for(var i = 0; i < radioLength; i++) {
+		if(radioObj[i].checked) {
+			var temp = radioObj[i].value;
+			var cururl = "ContentServer?c=Page&pagename=am/Layout&p=1237748590271&cid=1237748590271&q="+q;
+			if(temp == 'results_new_search')
+				document.location.href= "ContentServer?c=Page&pagename=am/Layout&p=1237748590271&cid=1237748590271&q=null" ;
+			if(temp == 'results_sub_search')
+				window.location= cururl ;				
+			return radioObj[i].value;
+		}
+	}
+	return "";
+}
+
+function leapTo (link)
+   {
+   var new_url=link;
+   if (  (new_url != "")  &&  (new_url != null)  )
+      window.location=new_url;
+   else
+      alert("\nYou must make a selection.");
+   }
+   
+			
+function doZoom(size) {
+	document.getElementById('content_body').style.fontSize=size+'%';
+}
+
+
+   
+//-->
+</script>
+
+
+
+
+<title>Amtrak - Plan - Policies - Privacy Policy</title>
+
+
+
+	<script>
+	
+	function openPopupList() {
+		var loc = "/servlet/ContentServer?pagename=am/AM_Snippet_C/IBLegacy&help=loginerror";
+		popups = window.open(loc,'1','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');
+		if (window.focus) {
+			stations.focus();
+		}
+	}
+	function openPopupLearnMore() {
+		var loc = "/servlet/ContentServer?pagename=am/AM_Snippet_C/IBLegacy&ibsref=SSO";
+		popups = window.open(loc,'1','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');
+		
+	}
+
+			function buildLoginFrame(){
+		
+					var boolCompliant=isCompliantBrowser();
+					var obj=document.getElementById("loginFrame");
+					
+					framehtml ='<form id="frameResLogin" method="post" action="https://tickets.amtrak.com/itd/amtrak/CMSLogon">';
+					framehtml+='<div class="form_item"><input name="_name" class="text" type="text" id="_name" /></div>';
+					framehtml+='<div class="form_item"><input name="_password" class="text password" type="password" id="_password" /></div>';
+					framehtml+='</form>';
+						if (isSafari == false) {
+							var doc=null;
+							if(obj!=null){
+								obj.contentDocument;
+								if(doc==undefined||doc==null){doc=obj.contentWindow.document;}
+								doc.open();doc.write(framehtml);doc.close();
+					 		}
+						}
+					}; // end of buildLoginFrame
+
+					function execLogon(frm){
+						if (isCompliantBrowser()==true) {
+							var loginFrameParent=document.getElementById("loginFrameParent");
+							var loginFrame=document.getElementById("loginFrame");
+							try {
+								if (frm) {
+									var objStat=document.getElementById("objStat");
+									if (objStat!=null) {
+										loginFrameParent.removeChild(objStat);
+									}
+								}
+								var frameDoc=loginFrame.contentDocument;
+
+								if (frameDoc==undefined||frameDoc==null) {
+									frameDoc=loginFrame.contentWindow.document;
+								}
+
+								var frameFrm=frameDoc.forms[0];
+
+								if (frm) {
+									frameFrm._name.value=frm._name.value;
+									frameFrm._password.value=frm._password.value;
+								}
+
+								frameFrm.submit();
+								loginFramePostProcess();
+								ssoBuildBox();
+							} catch(err) {
+								frm.submit();
+							}
+
+						} else {
+							frm.submit();
+						}
+					};
+
+					function showLoggedIn(){
+						var username= getUName();		
+        				$('top_navigation_body').insert('<div id="login_greeting"> Hello ' + username + '! </div>');
+						var output ='<ul id="pi_actions_list_logged_in">';
+						output+='<li><a href="https://tickets.amtrak.com/itd/amtrak/Reservations">My Account</a></li>';
+						output+='<li><a href="http://tickets.amtrak.com/itd/amtrak/CMSLogOff">Log Out</a></li>';
+						output+='</ul>';
+									 				
+						return output;
+					};
+					 
+
+					function showLoggedOut(argv,pagetype){
+									
+						var output;
+						var eoutput = null;
+						switch(argv) {
+
+							case "header":
+								output='<form NAME="reslogin" class="std_form" ACTION="https://tickets.amtrak.com/itd/amtrak/CMSLogon" id="reslogin" METHOD="post" onSubmit="return false">';
+								break;
+
+							case "body":
+
+								//if (pagetype!=null) {
+								//	img = "header-login-home.gif";
+								//	imgW = "138";
+								//	imgH = "18";
+								//} else {
+								//	img = "header-login.gif";
+								//	imgW = "156";
+								//	imgH = "19l";
+								//}
+								
+								if(getCookie("ErrorCookie") != null) {
+								
+											
+								eoutput ="<div class='error'>";
+								eoutput+="Problem with your Amtrak.com Login: We're sorry, your login information is not valid. For assistance, <a href='javascript:openPopupList();'>click here</a>.";
+								eoutput+="</div>";
+														
+								}	
+
+								var output='<ul id="pi_actions_list">';
+								output+='<li><a href="javascript:LoginPopout.show()">Login</a></li>';
+								output+='<li><a href="https://tickets.amtrak.com/itd/amtrak/Register">Register</a></li>';
+								output+='</ul>';
+								output+='<div class="popout " id="login_popout">';
+								output+='<div class="popout_inner" id="login_popout_inner">';
+								output+='<a href="javascript:LoginPopout.hide()" class="close_btn button"><img src="/css/images/btn_closeXorange.gif" alt="Close Window" /></a>';
+								output+='<div id="login_form_header"><h3>Log In to Amtrak.com</h3></div>';
+								if (eoutput != null) { output+=eoutput; }
+														
+								output+='<div class="form_holder" id="login_form_holder">';
+								output+='<div class="form_line">';
+								output+='<div class="form_label"><label for="login_email_address">E-Mail Address</label></div>';
+								output+='<div class="form_item"><input name="_name" class="text" type="text" id="login_email_address" /></div>';
+								output+='</div>';
+								output+='<div class="form_line">';
+								output+='<div class="form_label"><label for="login_password">Password</label></div>';
+								output+='<div class="form_item"><input name="_password" class="text password" type="password" id="login_password" /></div>';
+								output+='</div>';
+								output+='<div class="form_line">';
+								output+='<div class="submit_item">';
+								output+='<input name="login" class="image" type="image" src="/css/images/btn_login.gif" alt="login" onClick="if(checkLoginForm()) execLogon(document.reslogin)"/>';
+								output+='<a href="javascript:openWin(\'https://tickets.amtrak.com/itd/amtrak/ForgottenPassword\', 420, 550);" class="forgot_pass">Forgot password?</a>';
+								output+='</div></div>';
+								output+='<br class="clear_both" />';
+								output+='</div></div><hr>';
+								output+='<div class="popout_inner"><div><img alt="amtrak-agr-logo" src="/css/images/linkaccounts_Popup.gif"></div>';
+								output+='<h4>Link your Amtrak.com and Amtrak Guest Rewards accounts</h4>';
+								output+='<p>Make your booking experience even easier by linking your accounts - you\'ll be able to navigate between both sites without having to log in twice.</p></div>'; 
+								output+='</div></form>';
+								break;
+							}
+
+						return output;
+
+}
+
+
+
+	</script>
+	
+	
+	
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23218774-1']);
+  _gaq.push(['_setDomainName', '.amtrak.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+				
+
+		<script language="JavaScript" src="/css/lib.js" type="text/javascript"></script>
+		
+	<script type="text/javascript" src="https://svr1.unicaondemand.com/ods/js/imodTag.js"></script></head>
+	<body>
+	<!-- Begin HTML for Interior Template --><!-- Begin Header HTML for Interior Template --><!-- Begin HTML for Top Navigation --><!-- mp_trans_disable_start -->
+<script type="text/javascript">
+
+function switchLanguage(lang) {
+ 
+    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+	return false;
+}
+
+
+</script>
+<!-- mp_trans_disable_end -->
+
+	<div id="top_nav_wrapper" class="hp_top_wrapper">
+		<div id="top_nav_left_cover">&nbsp;</div>
+		<div id="top_navigation_body">
+			<div id="amtrak_logo">
+				
+					<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/HomePage">
+						<img src="http://www.amtrak.com/css/images/logo_amtrak.gif" alt="Amtrak">
+					</a>
+                 				
+			</div>
+			
+			
+			<div id="language_select_wrapper">
+				<img src="/css/images/world_map.gif" alt="" class="language_img">
+				<form id="language_select_wrapper">
+					<select name="language_select" option="language_select" id="language_select" onchange="language_select_2(this.form.language_select)">
+						<option value="#">English</option>
+						<option value="es">Español</option>
+						<option value="de">Deutsch</option>
+						<option value="fr">Français</option>
+					</select>
+
+				</form>
+			</div>
+		 
+	<div id="nav_link_wrapper">
+			
+						<a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1237608364155">Contact Us</a> <span class="topnav_pipe">|</span> 	
+						<a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1237748590249">Help</a>
+				
+						<form name="top_nav_search" id="top_nav_search" action="/servlet/ContentServer/Page/1237748590271/1237748590271">
+							<input type="hidden" name="pagename" value="am/Layout"><input type="hidden" name="c" value="Page"><input type="hidden" name="cid" value="1237748590271"><input name="q" class="text ie6-text" type="text" id="top_nav_search_term" value="Search" onfocus="this.value='';">
+							<input type="image" src="http://www.amtrak.com/css/images/btn_go_top.gif" id="top_nav_search_go_button" alt="Go!">
+						</form>
+											
+					
+		</div>		
+	
+			<div class="clear_both">&nbsp;</div>
+			
+				<div id="button_wrapper">
+										
+					<ul id="buttons">	            
+		                <!--unique url for home page -->
+						<li>
+							
+			                	<a href="/servlet/ContentServer?pagename=Amtrak/HomePage"><img src="http://www.amtrak.com/css/images/btn_home-off.gif" alt="Home"></a>     
+			                 
+		                </li>
+		                
+		                <li>
+		                    
+			                	<a href="/servlet/ContentServer/Page/1237405732505/1237405732505"><img src="http://www.amtrak.com/css/images/btn_timetable-off.gif" alt="Timetables"></a>
+			                											
+						</li>
+						
+		                <li>
+		                    
+			                	<a href="/servlet/ContentServer/Page/1237405732508/1237405732508"><img src="http://www.amtrak.com/css/images/btn_station-off.gif" alt="Stations"></a>
+			                <div class="dynlist"><ul><li class="ie6_first_child"><a href="/servlet/ContentServer/Page/1237405732508/1237405732508">Find a Station</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732508&amp;cid=1237608345105">California</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732508&amp;cid=1237608346786">Midwest</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732508&amp;cid=1237608346789">Northeast</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732508&amp;cid=1237608346792">Northwest</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732508&amp;cid=1237608346795">South</a></li><li class="ie6_last_child"><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732508&amp;cid=1237608346798">West</a></li></ul></div>
+				            											
+						</li>
+						
+		                <li>
+		                    
+			                	<a href="/servlet/ContentServer/Page/1237405732511/1237405732511"><img src="http://www.amtrak.com/css/images/btn_routes-off.gif" alt="Routes"></a>
+			                <div class="dynlist"><ul><li class="ie6_first_child"><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1237608331430">California</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1237437856440">Midwest</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1237608331901">Northeast</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1237608331895">Northwest</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1237608339235">South</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1237608344114">West</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1241267355261">Interactive Route Atlas</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1241337978894">Downloadable Route Guides</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732511&amp;cid=1237608335166">Historical On-Time Performance</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1237608335997">Service Alerts</a></li></ul></div>
+				            											
+						</li>
+						
+		                <li>
+		                    
+			                	<a href="/servlet/ContentServer/Page/1237405732514/1237405732514"><img src="http://www.amtrak.com/css/images/btn_deals-off.gif" alt="Deals"></a>
+			                <div class="dynlist"><ul><li class="ie6_first_child"><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732514&amp;cid=1237412457649">Latest Promotions</a></li><li><a href="http://www.amtrak.com/servlet/ContentServer?c=AM_Content_C&amp;pagename=am/Layout&amp;p=1237405732514&amp;cid=1241267347506">Weekly Specials</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732514&amp;cid=1241213285737">Passenger Discounts</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732514&amp;cid=1241213285740">Rail Passes</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732514&amp;cid=1241213285743">Multi-Ride Tickets</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732514&amp;cid=1241213285746">Regional Tour Packages</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732514&amp;cid=1241213285750">Amtrak Vacations</a></li></ul></div>
+				            											
+						</li>
+						
+		                <li>
+		                    
+			                	<a href="/servlet/ContentServer/Page/1237405732517/1237405732517"><img src="http://www.amtrak.com/css/images/btn_plan-on.gif" alt="Plan"></a>
+			                	<div class="dynlist"><ul><li class="ie6_first_child"><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1237437856307">Planning &amp; Booking</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579558">At the Station</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579555">Onboard</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579564">Special Needs &amp; Accessibility</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579569">Policies</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267382687">Tickets, ID, Safety &amp; Security</a></li><li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1246042626782">Travel Green with Amtrak</a></li><li class="ie6_last_child"><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1248540214523">Amtrak Vacations</a></li></ul></div>
+				            											
+						</li>
+						
+		                <li>
+		                    
+			                	<a href="/servlet/ContentServer/Page/1237405732520/1237405732520"><img src="http://www.amtrak.com/css/images/btn_rewards-off.gif" alt="Earn Rewards"></a>
+			                <div class="dynlist"><ul><li class="ie6_first_child"><a target="_blank" href="https://www.amtrakguestrewards.com/index.cfm?category=info&amp;loc=AmtrakGuestRewardsProgramInfo.html">Join Amtrak Guest Rewards</a></li><li><a href="http://tickets.amtrak.com/itd/amtrak/redeem">Redeem Points for Amtrak Travel</a></li><li><a target="_blank" href="http://tickets.amtrak.com/itd/amtrak/SendSAMLResponse?targetPage=https://www.amtrakguestrewards.com/">Go to Amtrak Guest Rewards Web Site</a></li><li class="ie6_last_child"><a target="_blank" href="http://tickets.amtrak.com/itd/amtrak/SendSAMLResponse?targetPage=https://www.amtrakguestrewards.com/retro">Missing Points Request Form</a></li></ul></div>
+				            											
+						</li>
+						
+					</ul>
+				</div>	                
+            
+		</div>
+	</div>
+<!-- End HTML for Top Navigation -->
+		<div id="outer_wrapper">
+			<div id="top_level_wrapper">
+				<div id="lower_wrapper">
+					<div id="shoulder">&nbsp;</div>
+					<div id="top_bar">&nbsp;</div>
+					<div id="left_column_wrapper">
+
+						
+
+<div id="persistent_info_wrapper">
+
+			<!-- Begin HTML for Fare Finder --><!-- LOGIN -->
+<div id="LoginBox"><form name="reslogin" class="std_form" action="https://tickets.amtrak.com/itd/amtrak/CMSLogon" id="reslogin" method="post" onsubmit="return false"><ul id="pi_actions_list"><li><a href="javascript:LoginPopout.show()">Login</a></li><li><a href="https://tickets.amtrak.com/itd/amtrak/Register">Register</a></li></ul><div class="popout " id="login_popout"><div class="popout_inner" id="login_popout_inner"><a href="javascript:LoginPopout.hide()" class="close_btn button"><img src="/css/images/btn_closeXorange.gif" alt="Close Window"></a><div id="login_form_header"><h3>Log In to Amtrak.com</h3></div><div class="form_holder" id="login_form_holder"><div class="form_line"><div class="form_label"><label for="login_email_address">E-Mail Address</label></div><div class="form_item"><input name="_name" class="text" type="text" id="login_email_address"></div></div><div class="form_line"><div class="form_label"><label for="login_password">Password</label></div><div class="form_item"><input name="_password" class="text password" type="password" id="login_password"></div></div><div class="form_line"><div class="submit_item"><input name="login" class="image" type="image" src="/css/images/btn_login.gif" alt="login" onclick="if(checkLoginForm()) execLogon(document.reslogin)"><a href="javascript:openWin('https://tickets.amtrak.com/itd/amtrak/ForgottenPassword', 420, 550);" class="forgot_pass">Forgot password?</a></div></div><br class="clear_both"></div></div><hr><div class="popout_inner"><div><img alt="amtrak-agr-logo" src="/css/images/linkaccounts_Popup.gif"></div><h4>Link your Amtrak.com and Amtrak Guest Rewards accounts</h4><p>Make your booking experience even easier by linking your accounts - you'll be able to navigate between both sites without having to log in twice.</p></div></div></form></div>
+<div id="loginFrameParent">
+<div id="objStat"></div>
+<iframe width="0" height="0" style="position:absolute; visibility:hidden;" id="loginFrame" onload="loginFramePostProcess();"></iframe>
+</div>
+<script language="JavaScript" src="/css/cookies.js" type="text/javascript">ONLOAD='setFFFields();'</script>
+<script language="JavaScript1.2">
+<!--
+    var boolCompliant = false;
+    try{boolCompliant = isCompliantBrowser();}catch(e){};    
+    if( (getCookie("LoginCookie") != null || getCookie("RememberCookie") != null) && (isSafari == true || isOpera == true || isGecko == true)){
+        // alert("this should only show for safari and opera");
+        if( getCookie("ErrorCookie") == null){
+            loginFramePostProcess();             
+        }
+    };
+    if( getCookie("ErrorCookie") != null ){
+         // alert("Error cookie for  safari, firefox and opera");
+        loginFramePostProcess();
+                     
+    };
+    if( getCookie("LoginCookie") == null && getCookie("RememberCookie") == null ){
+        if( getCookie("ErrorCookie") == null){
+            //  alert("no error cookie, showLoginBox next");
+            showLoginBox();              
+        }
+        // alert ("buildLoginFrame next");
+        buildLoginFrame();
+    }
+    if( getCookie("ErrorCookie") != null ) WM_killCookie("ErrorCookie", "/", ".amtrak.com");
+    
+    
 -->
 </script>
 
+<script type="text/javascript">
+		//<![CDATA[
+		   Element.observe(window, 'load', function(){
+			   ssoBuildBox();
+
+           }); 
+       //]]>
+     </script>
 
 
 
-<script type="text/javascript" src="/convert/js/setup.js"></script>
+		
+
+
+<style type="text/css">
+div.autocomplete {
+  position:absolute;
+  width:auto !important;
+  background-color:#F4F4F4;
+  border:1px solid #888;
+  margin:0px;
+  padding:0px; 
+  z-index:200 !important; 
+}
+div.autocomplete ul {   
+  list-style-type:none;
+  margin:0px;
+  padding:0px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: small;
+  font-style: normal;
+  color: #0000ff;
+  font-weight: bold;
+  overflow: auto;
+  white-space: nowrap;
+}
+div.autocomplete ul li.selected { background-color: #ffb;}
+div.autocomplete ul li {  
+  list-style-type:none;
+  display:block;
+  margin:0;
+  padding:1px;
+  height:12px;
+  cursor:pointer;
+  background-image: none;
+}
+</style>
+
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/popups.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/formutils.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/scriptaculous.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/effects.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/controls.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/basic_booking_left.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/external/yui/2.7.0/calendar.css?nocache=v3_50_000" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/external/yui/2.7.0/container.css?nocache=v3_50_000" media="screen">
+<link rel="stylesheet" type="text/css" href="/css/amtrak-calendar.css" media="screen">
+       
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/calendar_farefinder.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/farefinderrequest.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/itd/project/scripts/en/external/yui/2.7.0/yahoo-dom-event.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/itd/project/scripts/en/external/yui/2.7.0/calendar-min.js"></script>
+<script language="JavaScript1.2" type="text/javascript" src="/itd/project/scripts/en/amtrak/yuicalendar.js"></script>
+<script language="JavaScript" type="text/javascript" src="/itd/project/scripts/en/amtrak/profile_rewrite.js"></script>
+<script type="text/javascript">
+  <!-- 
+     var pageName='amtrak/cmsnavigationtab.jsp';
+  //-->
+</script>
 
 
 
 
-<script language="JavaScript" src="/lib.js?v=2.2" type="text/javascript"></script>
-<link rel="STYLESHEET" href="/style0.css" type="text/css">
-</head>
-<body class="background" topmargin="0" leftmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF" alink="#A981D4" vlink="#336699" link="#336699">
 
 
-	
-	
+<!--[if IE]>
+<script type="text/javascript">
+function isCalendarEvent(e) {
+var element = Event.element(e);
+var names = element.classNames();
+if (names.include('selector')) {
+return true;
+}
+if (names.include('calnavright')) {
+return true;
+}
+if (names.include('calnavleft')) {
+return true;
+}
+if (names.include('link-close')) {
+return true;
+}
+return false;
+}
+function addFormSubmitEvent(form) {
+form.onkeydown = function(e) {
+e = e || window.event;
+if (e.keyCode == 13) {
+// If this is a Calendar return key entry then do not
+// call form.submit()
+if (isCalendarEvent(e)) {
+return;
+}
+if (form.name == 'ff_status_form') {
+if(CheckMandatoryTrainStatusFields(form)) {
+form.submit();
+return true;
+}
+return false;
+}
+if (form.name == 'mytrip_acct') {
+if (CheckMandatoryLoginFields(form)) {
+form.submit();
+return false;
+}
+return true;
+}
+if (form.name == 'mytrip_res') {
+if (CheckMandatoryMyTripFields(form)) {
+form.submit();
+return false;
+}
+return true;
+}
+if (form.name == 'ff_schedules_form') {
+if (CheckMandatoryScheduleFields(form)) {
+form.submit();
+return false;
+}
+return true;
+}
+}
+};
+}
+document.observe('dom:loaded', function() {
+var forms = document.getElementsByTagName('form');
+for (var i=0;i < forms.length;i++) {
+if (forms[i].name == 'mytrip_res' || forms[i].name == 'mytrip_acct' || forms[i].name == 'ff_schedules_form' || forms[i].name == 'ff_status_form') {
+addFormSubmitEvent(forms[i]);
+}
+}
+});
+</script>
+<![endif]-->
+<!-- Begin HTML for Fare Finder -->
+<div id="farefinder">
+<div id="ff_tabbar">
+<div class="active" id="ff_tabbar_tickets">Tickets<span onclick="compare_dates('wdfdate1');show_ff_tab('tickets');"></span></div>
+<div id="ff_tabbar_status">Status<span onclick="set_status_date('wdfdate10');show_ff_tab('status');"></span></div>
+<div id="ff_tabbar_schedules">Schedules<span onclick="compare_dates('wdfdate5');show_ff_tab('schedules');"></span></div>
+<div id="ff_tabbar_mytrip">My Trip<span onclick="show_ff_tab('mytrip');"></span></div>
+</div>
+<div id="farefinder_tabbody_tickets" class="farefinder_tabbody ff_active">
+<form action="http://tickets.amtrak.com/itd/amtrak" name="form" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.rail.AmtrakRailFareFinderPageHandler">
+<h2>Tickets</h2>
+
+<div id="ff_tickets_tt_cities_subdiv" class="subdiv level6">
+<div id="tickets_trip_type"><p>
+<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input value="OneWay" type="radio" onclick="javascript:blankReturnDate(false)" id="oneway" checked="checked" name="wdf_TripType">&nbsp;<label for="oneway">One-Way</label>
+<input type="hidden" name="xwdf_TripType" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/tripType"><input value="Return" type="radio" onclick="javascript:setReturnDate(false)" id="return" name="wdf_TripType">&nbsp;<label for="return">Round-Trip</label>
+<a href="/itd/amtrak/ComplexRail">Multi-City</a> &gt;</p>
+</div>
+<div id="tickets_dep_city" class="ff_city_wrapper">
+<label for="departs">From</label>
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input autocomplete="off" maxlength="150" type="text" id="departs" name="wdf_origin">
+<p><span class="find_a_station"><a href="javascript:fieldName='departs'; openStationList();" title="Click for a list of stations.">Find a Station</a></span></p>
+</div>
+<div id="tickets_arr_city" class="ff_city_wrapper level3">
+<label for="arrives">To</label>
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input autocomplete="off" maxlength="150" type="text" id="arrives" name="wdf_destination">
+<p><span class="find_a_station"><a href="javascript:fieldName='arrives'; openStationList();" title="Click for a list of stations.">Find a Station</a></span></p>
+</div>
+<div id="autocomplete_availability_from" class="autocomplete level5" style="display:none"></div>
+<div id="autocomplete_availability_to" class="autocomplete level5" style="display:none"></div>
+</div>
+<div id="ff_tickets_dep_ret_date_subdiv" class="subdiv level3" style="position:static;">
+<div id="tickets_dep_date_time" class="level5">
+<div class="ff_date_wrapper">
+<label for="tickets_dep_date">Departs</label>
+<input value="Mon, Oct 03, 2011" maxlength="22" type="text" class="wdfDate" id="wdfdate1" readonly="readonly" size="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date"></div><div class="ff_time_wrapper"><label for="wdftime1"><b>Time</b></label><select onchange="timeChanged(1);setTripTypeIfReturnDateSelected(false)" id="wdftime1" onfocus="updateTimeState()" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+</div>
+</div>
 
 
+<div id="tickets_ret_date_time" class="hide_section level4">
+<div class="ff_date_wrapper">
+
+<label for="tickets_ret_date">Returns</label>
+<input maxlength="22" type="text" class="wdfDate" id="wdfdate2" readonly="readonly" size="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departDate.date"></div><div class="ff_time_wrapper"><label for="wdftime2"><b>Time</b></label><select onchange="timeChanged(2);setTripTypeIfReturnDateSelected(false)" id="wdftime2" onfocus="updateTimeState()" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[2]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+</div>
+</div>
+
+</div>
+<div id="ff_tickets_passengers_subdiv" class="subdiv level1">
+<div id="tickets_passengers">
+<div id="ff_adults_wrapper">
+<label style="line-height:1.1;" for="ff_adults"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Adult','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Adults</a><br> (16+)</label>
+<select id="adults" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Adult']"><option value="1" selected="selected">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option></select>
+</div>
+<div id="ff_kids_wrapper">
+<label style="line-height:1.1;" for="ff_kids"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Child','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Children</a><br> (2-15)</label>
+<select id="children" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Child']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option></select>
+</div>
+<div id="ff_infants_wrapper">
+<label style="line-height:1.1;" for="ff_infants"><a href="javascript:var child=window.open('http://www.amtrak.com/servlet/Satellite?SnippetName=IBLegacy&amp;pagename=am/AM_Snippet_C/SnippetWrapper&amp;pass=Infant','pass','directories=0,dependent=1,menubar=0,top=20,left=20,width=680,height=600,scrollbars=1');child.focus();" class="smallblue">Infants</a><br> (under 2)</label>
+<select id="infants" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/allJourneyRequirements/numberOfTravellers[@key='Infant']"><option value="0" selected="selected">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
+</div>
+<div id="ff_submit_button">
 
 
+<input type="image" onclick="javascript:return preFareFinderSubmitActions('The following information is needed to process your request:', 'Problem Pricing the Itinerary: Atlantic City Express Service offers adult fares only for all passengers.  Please modify your selection to continue. \n[Error ID: 1121S]')" src="/images/en/btn_ff_go.gif" alt="Click to Find Tickets" border="0" name="_handler=amtrak.presentation.handler.request.rail.AmtrakRailSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']">
+
+</div>
+</div>
+</div>
+
+</form>
+</div>
+<div id="farefinder_tabbody_status" class="farefinder_tabbody">
+
+<form action="http://tickets.amtrak.com/itd/amtrak" onsubmit="javascript:return CheckMandatoryTrainStatusFields(this)" name="ff_status_form" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<h2>Status</h2>
+<div id="ff_status_step_1" class="subdiv1">
+<h3>Check Status of a Train</h3>
+<div class="form_line_wrapper first">
+<label for="status_date">
+Date:
+</label>
+<span class="form_entry">
+<input value="Mon, Oct 03, 2011" maxlength="22" type="text" class="wdfDate" id="wdfdate10" readonly="readonly" size="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date">
+</span>
+</div>
+<div class="form_line_wrapper">
+<label for="status_train_num">
+Train No.
+</label>
+<span class="form_entry">
+<input type="hidden" name="xwdf_trainNumber" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/segmentRequirements[1]/serviceCode"><input value="optional" maxlength="8" type="text" id="status_train_num" onfocus="if (this.value=='optional') { this.value=''; updateMaxLength(); };" size="4" name="wdf_trainNumber">
+</span>
+</div>
+<br class="clear_both">
+</div>
+<div id="ff_status_step_2" class="subdiv">
+<div id="ff_status_footnote_submit_wrapper">
+<p>One city is required if train number is used.</p>
+</div>
+<div id="status_dep_city" class="ff_city_wrapper">
+<label for="status_from">
+From
+</label>
+<!-- itd:locationinput id="status_dep" wdfxpath="travelSelection/journeySelection[1]/departLocation" wdfhtmlname="wdf_origin" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="25" / -->
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input autocomplete="off" maxlength="150" type="text" id="status_from" name="wdf_origin">
+<p><span class="find_a_station">
+<a href="javascript:fieldName='status_from'; openStationList();" title="Click for a list of stations.">Find a Station</a>
+</span></p>
+</div>
+<div id="status_arr_city" class="ff_city_wrapper">
+<label for="status_to">
+To
+</label>
+<!-- itd:locationinput id="status_to" wdfxpath="travelSelection/journeySelection[1]/arriveLocation" wdfhtmlname="wdf_destination" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="25" / -->
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input autocomplete="off" maxlength="150" type="text" id="status_to" name="wdf_destination">
+<p><span class="find_a_station">
+<a href="javascript:fieldName='status_to'; openStationList();" title="Click for a list of stations.">Find a Station</a>
+</span></p>
+</div>
+</div>
+<div id="ff_status_step_3" class="subdiv">
+<div id="status_from_auto" class="autocomplete" style="display:none"></div>
+<div id="status_to_auto" class="autocomplete" style="display:none"></div>
+<div id="status_arr_or_dep_wrapper">
 
 
+<input type="hidden" name="xwdf_SortBy" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate/@radioSelect"><input value="arrivalTime" type="radio" id="status_arr" checked="checked" name="wdf_SortBy">
+<label for="status_arr">
+Scheduled Arrive
+</label>
+&nbsp;&nbsp;
+<input type="hidden" name="xwdf_SortBy" value="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate/@radioSelect"><input value="departTime" type="radio" id="status_dep" name="wdf_SortBy">
+<label for="status_dep">
+Scheduled Depart
+</label>
 
-	
+</div>
+<div class="form_line_wrapper">
+<label for="status_time">
+Time
+</label>
+<span class="form_entry">
+<select onchange="timeChanged(10);setTripTypeIfReturnDateSelected(false)" id="wdftime10" onfocus="updateTimeState()" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+</span>
+</div>
+</div>
+<div id="ff_status_submit_wrapper" class="subdiv">
+<input type="hidden" name="_handler=amtrak.presentation.handler.request.rail.AmtrakRailTrainStatusSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']">
+<input type="image" src="/images/en/btn_checkStatus.gif" alt="Check Status" border="0" name="_handler=amtrak.presentation.handler.request.rail.AmtrakRailTrainStatusSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']">
+</div>
+</form>
+
+</div>
+<div id="farefinder_tabbody_schedules" class="farefinder_tabbody">
+
+<form action="http://tickets.amtrak.com/itd/amtrak" onsubmit="javascript:return CheckMandatoryScheduleFields(this);" name="ff_schedules_form" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<h2>Schedules</h2>
+<div id="ff_schedules_tt_cities_subdiv" class="subdiv">
+<div id="schedules_dep_city" class="ff_city_wrapper">
+<label for="schedules_from">From</label>
+<input type="hidden" name="xwdf_origin" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/departLocation/search"><input autocomplete="off" maxlength="150" type="text" id="schedules_from" name="wdf_origin">
+<p><span class="find_a_station"><a href="javascript:fieldName='schedules_from'; openStationList();" title="Click for a list of stations.">Find a Station</a></span></p>
+<!-- itd:locationinput id="schedules_from" wdfxpath="travelSelection/journeySelection[1]/departLocation" wdfhtmlname="wdf_origin" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="40" / -->
+
+</div>
+<div id="schedules_arr_city" class="ff_city_wrapper">
+<label for="schedules_to">To</label>
+<!-- itd:locationinput id="schedules_to" wdfxpath="travelSelection/journeySelection[1]/arriveLocation" wdfhtmlname="wdf_destination" wdflimitedlocations="resource:TRAVEL_USE_LIMITED_LOCATIONS" size="40" / -->
+<input type="hidden" name="xwdf_destination" value="/sessionWorkflow/productWorkflow[@product='Rail']/travelSelection/journeySelection[1]/arriveLocation/search"><input autocomplete="off" maxlength="150" type="text" id="schedules_to" name="wdf_destination">
+<p><span class="find_a_station"><a href="javascript:fieldName='schedules_to'; openStationList();" title="Click for a list of stations.">Find a Station</a></span></p>
+
+</div>
+</div>
+<div id="ff_schedules_dep_ret_date_subdiv" class="subdiv">
+<div id="schedule_from_auto" class="autocomplete" style="display:none"></div>
+<div id="schedule_to_auto" class="autocomplete" style="display:none"></div>
+<div id="schedules_dep_date_time">
+<div class="ff_date_wrapper">
+<label for="schedules_dep_date">Depart</label>
+<input value="Mon, Oct 03, 2011" maxlength="22" type="text" class="wdfDate" id="wdfdate5" readonly="readonly" size="22" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departDate.date"></div><div class="ff_time_wrapper"><label for="wdftimenull"><b>Time</b></label><select onchange="timeChanged(5);setTripTypeIfReturnDateSelected(false)" id="wdftime5" onfocus="updateTimeState()" name="/sessionWorkflow/productWorkflow[@product='Rail']/tripRequirements/journeyRequirements[1]/departTime.hourmin"><option value="">Anytime</option><option value="07:00">Morning</option><option value="14:00">Afternoon</option><option value="19:00">Evening</option><option value="23:59">Midnight</option><option value="01:00">1 AM</option><option value="02:00">2 AM</option><option value="03:00">3 AM</option><option value="04:00">4 AM</option><option value="05:00">5 AM</option><option value="06:00">6 AM</option><option value="07:00">7 AM</option><option value="08:00">8 AM</option><option value="09:00">9 AM</option><option value="10:00">10 AM</option><option value="11:00">11 AM</option><option value="12:00">Noon</option><option value="13:00">1 PM</option><option value="14:00">2 PM</option><option value="15:00">3 PM</option><option value="16:00">4 PM</option><option value="17:00">5 PM</option><option value="18:00">6 PM</option><option value="19:00">7 PM</option><option value="20:00">8 PM</option><option value="21:00">9 PM</option><option value="22:00">10 PM</option><option value="23:00">11 PM</option></select>
+</div>
+</div>
+</div>
+<div id="ff_schedules_timetables_submit_wrapper" class="subdiv">
+<input type="hidden" name="_handler=amtrak.presentation.handler.request.rail.AmtrakCMSRailSchedulesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']">
+<input type="image" src="/images/en/btn_findSchedules.gif" alt="Find Schedules" border="0" name="_handler=amtrak.presentation.handler.request.rail.AmtrakCMSRailSchedulesSearchRequestHandler/_xpath=/sessionWorkflow/productWorkflow[@product='Rail']">
+</div>
+<div id="ff_schedules_timetables_footer_wrapper">
+<p><a href="http://www.amtrak.com/servlet/Satellite/Page/1237405732505/1237405732505">Download printable timetables</a></p>
+</div>
+</form>
+
+</div>
+<div id="farefinder_tabbody_mytrip" class="farefinder_tabbody">
+<h2>My Trip</h2>
+<div id="ff_mytrip_step_1" class="subdiv">
+<form action="http://tickets.amtrak.com/itd/amtrak" onsubmit="javascript:return CheckMandatoryMyTripFields(this)" name="mytrip_res" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<h3>Find a Reservation</h3>
+<div class="form_line_wrapper first">
+<label for="mytrip_res_num">Reservation Number</label><span class="form_entry">
+<input value="" type="text" id="mytrip_res_num" name="/sessionWorkflow/itineraryWorkflow/basket/booking/reference">
+</span>
+</div>
+<div class="form_line_wrapper">
+<strong>and</strong>
+</div>
+<div class="form_line_wrapper">
+<label for="mytrip_res_email">E-mail Address</label><span class="form_entry">
+<input value="" type="text" id="mytrip_res_email" name="/sessionWorkflow/itineraryWorkflow/basket/booking/bookingOptions/bookingFulfilment/contact/contactEmailAddress/emailAddress">
+</span>
+</div>
+<div class="form_line_wrapper">
+<div class="separator">-or-</div>
+</div>
+<div class="form_line_wrapper">
+<label for="mytrip_res_zip">Telephone Number</label><span class="form_entry">
+<input value="" type="text" id="mytrip_res_zip" name="/sessionWorkflow/itineraryWorkflow/basket/booking/bookingOptions/bookingFulfilment/contact/contactTelephone/number">
+</span>
+</div>
+<div id="ff_mytrip_res_submit">
+<input type="hidden" name="_handler=com.sita.ats.amtrak.presentation.handler.request.itinerary.AmtrakLoggedOutTripDetailsRequestHandler">
+<input type="image" class="image" src="/images/en/btn_find.gif" alt="Find Reservation" name="_handler=com.sita.ats.amtrak.presentation.handler.request.itinerary.AmtrakLoggedOutTripDetailsRequestHandler">
+</div>
+</form>
+</div>
+
+<div id="ff_mytrip_step_2" class="subdiv">
+<div id="mytrip_or"><span>Or</span></div>
+
+<form action="https://tickets.amtrak.com/itd/amtrak" onsubmit="javascript:return CheckMandatoryLoginFields(this)" name="mytrip_acct" method="post"><input type="hidden" name="requestor" value="amtrak.presentation.handler.page.AmtrakCMSNavigationTabPageHandler">
+<input value="mytrip" type="hidden" name="/sessionWorkflow/userWorkflow/profileAccountRequirements/@logontype">
+<h3>Log in to your Amtrak.com Account</h3>
+<div class="form_line_wrapper">
+<label for="mytrip_acct_email">E-mail Address</label><span class="form_entry">
+<input type="hidden" name="xwdf_username" value="/sessionWorkflow/userWorkflow/profileAccountRequirements/userName"><input autocomplete="off" maxlength="64" type="text" id="mytrip_acct_email" name="wdf_username">
+</span>
+</div>
+<div class="form_line_wrapper">
+<label for="mytrip_acct_pwd">Password</label><span class="form_entry">
+<input type="hidden" name="xwdf_password" value="/sessionWorkflow/userWorkflow/profileAccountRequirements/password"><input maxlength="20" type="password" id="mytrip_acct_pwd" name="wdf_password">
+</span>
+</div>
+<div id="ff_mytrip_acct_submit">
+<a href="javascript:fieldName='wdf_RequestUserID'; openRequestUserID();" title="Click here to request your Password" class="forgot_pass">Forgot password?</a>
+<input type="hidden" name="_handler=com.sita.ats.amtrak.presentation.handler.request.profile.AmtrakProfileLogonRequestHandler/_xpath=/sessionWorkflow/userWorkflow/profileAccountRequirements">
+<input type="image" onclick="" src="/images/en/btn_login.gif" alt="Log In" name="_handler=com.sita.ats.amtrak.presentation.handler.request.profile.AmtrakProfileLogonRequestHandler/_xpath=/sessionWorkflow/userWorkflow/profileAccountRequirements">
+</div>
+</form>
+
+</div>
+
+</div>
+</div>
+
+<script>
+var stationslist = [
+'Abbotsford-Colby - Bus Stop, WI (ABB)',
+'Aberdeen, MD (ABE)',
+'Absecon - NJ Transit Station, NJ (ABN)',
+'Adelanto, CA (ADE)',
+'Albany, OR (ALY)',
+'Albany-Rensselaer, NY (ALB)',
+'Albion, MI (ALI)',
+'Albuquerque, NM (ABQ)',
+'Aldershot, ON (AST)',
+'Alderson, WV (ALD)',
+'Alexandria, VA (ALX)',
+'Alliance, OH (ALC)',
+'Alpine, TX (ALP)',
+'Alton, IL (ALN)',
+'Altoona, PA (ALT)',
+'Amherst, MA (AMM)',
+'Amsterdam, NY (AMS)',
+'Anaheim, CA (ANA)',
+'Ann Arbor, MI (ARB)',
+'Anniston, AL (ATN)',
+'Antioch-Pittsburg, CA (ACA)',
+'Appleton, WI (APP)',
+'Arcata, CA (ARC)',
+'Ardmore, OK (ADM)',
+'Ardmore, PA (ARD)',
+'Arkadelphia, AR (ARK)',
+'Ashland, KY (AKY)',
+'Ashland, OR (AHL)',
+'Ashland, VA (ASD)',
+'Astoria - Mini Mart Bus Stop, OR (ARI)',
+'Astoria - Transit Center Bus Stop, OR (ART)',
+'Atascadero - Bus Stop, CA (ATA)',
+'Atco - NJ Transit Station, NJ (ATO)',
+'Athol - Bus Stop, ID (ATI)',
+'Atlanta, GA (ATL)',
+'Atlantic City - Atlantic City Express Service, NJ (ACE)',
+'Atlantic City - NJ Transit Service, NJ (ACY)',
+'Auburn, CA (ARN)',
+'Augusta - Bus Stop, ME (AGM)',
+'Austin, TX (AUS)',
+'Baker City, OR (BAK)',
+'Bakersfield, CA (BFD)',
+'Baltimore - Penn Station, MD (BAL)',
+'Baltimore - BWI Thurgood Marshall Airport, MD (BWI)',
+'Bangor, ME (BAN)',
+'Bangor, MI (BAM)',
+'Barstow, CA (BAR)',
+'Barstow - Bus Station, CA (BBS)',
+'Bath, ME (BAT)',
+'Baton Rouge, LA (BTR)',
+'Battle Creek, MI (BTL)',
+'Bay City - Bus Stop, MI (BCY)',
+'Beaumont, TX (BMT)',
+'Beaver Dam - Bus Stop, WI (BVD)',
+'Belen, NM (BLE)',
+'Belfast, ME (BFT)',
+'Bellingham, WA (BEL)',
+'Bellows Falls, VT (BLF)',
+'Bend - Riverhouse, OR (BDR)',
+'Bend, OR (BED)',
+'Bend - Bus Stop, OR (BND)',
+'Benson, AZ (BEN)',
+'Berkeley, CA (BKY)',
+'Berlin, CT (BER)',
+'Berlin - Ocean Pines, MD (OCP)',
+'Berlin, NH (BIN)',
+'Big Rapids, MI (BGP)',
+'Bingen-White Salmon, WA (BNG)',
+'Birmingham, AL (BHM)',
+'Birmingham, MI (BMM)',
+'Bloomington-Normal, IL (BNL)',
+'Boise, ID (BOI)',
+'Boston - Back Bay, MA (BBY)',
+'Boston - North Station Maine Service, MA (BON)',
+'Boston - South Station, MA (BOS)',
+'Boston - Route 128, MA (RTE)',
+'Boyne Falls, MI (BYF)',
+'Bradenton, FL (BDT)',
+'Brattleboro, VT (BRA)',
+'Brewster, WA (BWW)',
+'Bridgeport, CT (BRP)',
+'Brookhaven, MS (BRH)',
+'Brookings - Bus Stop, OR (BKO)',
+'Browning, MT (BRO)',
+'Brunswick, ME (BRK)',
+'Brunswick - Bowdoin College, ME (BWC)',
+'Bryan, OH (BYN)',
+'Buellton, CA (BUL)',
+'Buffalo - Exchange St., NY (BFX)',
+'Buffalo - Depew, NY (BUF)',
+'Burbank - Airport, CA (BUR)',
+'Burke - Burke Centre, VA (BCV)',
+'Burlington, IA (BRL)',
+'Burlington, NC (BNC)',
+'Burlington, VT (ESX)',
+'Burns, OR (BNS)',
+'Cabazon - Bus Stop, CA (CBZ)',
+'Cadillac, MI (CLC)',
+'Camarillo, CA (CML)',
+'Cambridge, MD (CDE)',
+'Camden, SC (CAM)',
+'Camden-Rockport, ME (CDN)',
+'Camp Verde, AZ (CVD)',
+'Cannon Beach, OR (CBO)',
+'Carbondale, IL (CDL)',
+'Carlinville, IL (CRV)',
+'Carmel, CA (CRM)',
+'Carpinteria, CA (CPN)',
+'Cary, NC (CYN)',
+'Cashmere, WA (CSW)',
+'Castleton, VT (CNV)',
+'Cave Junction - Bus Stop, OR (CVJ)',
+'Centralia, IL (CEN)',
+'Centralia, WA (CTL)',
+'Champaign-Urbana, IL (CHM)',
+'Charleston, SC (CHS)',
+'Charleston, WV (CHW)',
+'Charlotte, NC (CLT)',
+'Charlottesville, VA (CVS)',
+'Chatsworth, CA (CWT)',
+'Chemult, OR (CMO)',
+'Cherry Hill - NJ Transit Station, NJ (CRH)',
+'Chewelah - Bus Stop, WA (CWL)',
+'Chicago - Union Station, IL (CHI)',
+'Chico, CA (CIC)',
+'Chippewa Falls - Bus Stop, WI (CHP)',
+'Cincinnati, OH (CIN)',
+'Claremont, CA (CLM)',
+'Claremont, NH (CLA)',
+'Cleburne, TX (CBR)',
+'Clemson, SC (CSN)',
+'Cleveland, OH (CLE)',
+'Clifton Forge, VA (CLF)',
+'Cloverdale, CA (CLV)',
+'Coatesville, PA (COT)',
+'Coeur DAlene - Bus Stop, ID (CER)',
+'Colfax, CA (COX)',
+'Colfax, WA (CFX)',
+'Colorado Springs, CO (COS)',
+'Columbia, SC (CLB)',
+'Columbus, WI (CBS)',
+'Colville - Bus Stop, WA (CVL)',
+'Concord, NH (CNH)',
+'Connellsville, PA (COV)',
+'Connersville, IN (COI)',
+'Conway, NH (CAY)',
+'Coos Bay, OR (CBY)',
+'Corcoran, CA (COC)',
+'Cornwells Heights, PA (CWH)',
+'Corvallis, OR (CVI)',
+'Crater Lake - Bus Station, OR (CLK)',
+'Crawfordsville - Bus, IN (CRB)',
+'Crawfordsville, IN (CRF)',
+'Crescent City - Bus Stop, CA (CRC)',
+'Creston, IA (CRN)',
+'Croton-Harmon, NY (CRT)',
+'Culpeper, VA (CLP)',
+'Cumberland - Allegany College Bus Stop, MD (CUA)',
+'Cumberland, MD (CUM)',
+'Cut Bank, MT (CUT)',
+'Dade City, FL (DDE)',
+'Dallas, TX (DAL)',
+'Damariscotta, ME (DAM)',
+'Danville, IL (DVI)',
+'Danville, VA (DAN)',
+'Davenport, IA (DVP)',
+'Davis, CA (DAV)',
+'Daytona Beach, FL (DYA)',
+'Dearborn, MI (DER)',
+'Deer Park - Bus Stop, WA (DPK)',
+'Deerfield Beach, FL (DFB)',
+'Del Rio, TX (DRT)',
+'Deland, FL (DLD)',
+'Delray Beach, FL (DLB)',
+'Deming, NM (DEM)',
+'Denmark, SC (DNK)',
+'Denver - Bus Station, CO (DEB)',
+'Denver, CO (DEN)',
+'Detroit, MI (DET)',
+'Detroit Lakes, MN (DLK)',
+'Devils Lake, ND (DVL)',
+'Dillon, SC (DIL)',
+'Dodge City, KS (DDG)',
+'Dover, DE (DVR)',
+'Dover, NH (DOV)',
+'Dowagiac, MI (DOA)',
+'Downingtown, PA (DOW)',
+'Du Quoin, IL (DQN)',
+'Dublin-Pleasanton, CA (DBP)',
+'Duluth - Greyhound Bus Station, MN (DUL)',
+'Duluth - U of Minn Bus Stop, MN (DUU)',
+'Dunkirk, NY (DUK)',
+'Dunsmuir, CA (DUN)',
+'Durand, MI (DRD)',
+'Durham, NC (DNC)',
+'Durham, NH (DHM)',
+'Dwight, IL (DWT)',
+'Dyer, IN (DYE)',
+'East Glacier Park, MT (GPK)',
+'East Lansing, MI (LNS)',
+'Easton - Airport, MD (ESN)',
+'Eau Claire - Bus Stop, WI (EUC)',
+'Edmonds, WA (EDM)',
+'Effingham, IL (EFG)',
+'Egg Harbor City - NJ Transit Station, NJ (EGH)',
+'El Paso, TX (ELP)',
+'El Portal, CA (EPL)',
+'El Segundo - Bus Stop, CA (ESG)',
+'Elizabethtown, PA (ELT)',
+'Elk Grove - Bus Stop, CA (EKG)',
+'Elkhart, IN (EKH)',
+'Elko, NV (ELK)',
+'Elsie, OR (ELS)',
+'Elyria, OH (ELY)',
+'Emeryville, CA (EMY)',
+'Ephrata, WA (EPH)',
+'Erie, PA (ERI)',
+'Escanaba - Bus Stop, MI (EMI)',
+'Essex, MT (ESM)',
+'Eugene, OR (EUG)',
+'Eugene - University of Oregon Bus Stop, OR (EUO)',
+'Eureka, CA (EKA)',
+'Everett, WA (EVR)',
+'Exeter, NH (EXR)',
+'Exton, PA (EXT)',
+'Fargo, ND (FAR)',
+'Fayetteville, NC (FAY)',
+'Fillmore, CA (FIL)',
+'Flagstaff - Greyhound Station, AZ (FGG)',
+'Flagstaff, AZ (FLG)',
+'Flint, MI (FLN)',
+'Florence, OR (FRO)',
+'Florence, SC (FLO)',
+'Fond Du Lac, WI (FDL)',
+'Fort Edward-Glens Falls, NY (FED)',
+'Fort Hood, TX (FHD)',
+'Fort Lauderdale, FL (FTL)',
+'Fort Madison, IA (FMD)',
+'Fort Morgan, CO (FMG)',
+'Fort Myers, FL (FTM)',
+'Fort Worth, TX (FTW)',
+'Fortuna, CA (FTA)',
+'Foxwoods Casino, CT (FOX)',
+'Framingham, MA (FRA)',
+'Fraser, CO (WIP)',
+'Frederick, MD (FRC)',
+'Frederick - Airport Bus Stop, MD (FRR)',
+'Fredericksburg, VA (FBG)',
+'Fredonia, NY (FDN)',
+'Fremont, CA (FMT)',
+'Fremont - Bus Station, CA (FRT)',
+'Fresno, CA (FNO)',
+'Frisco, CO (FSC)',
+'Frostburg - Frostburg St. Univ. Bus Stop, MD (FSB)',
+'Fullerton, CA (FUL)',
+'Fulton, KY (FTN)',
+'Gainesville - Bus Stop, FL (GNF)',
+'Gainesville, GA (GNS)',
+'Gainesville, TX (GLE)',
+'Galesburg, IL (GBB)',
+'Gallup, NM (GLP)',
+'Galveston, TX (GLS)',
+'Galveston - Bus Station, TX (GLV)',
+'Garberville, CA (GBV)',
+'Garden City, KS (GCK)',
+'Garibaldi Highlands, BC (GBC)',
+'Gastonia, NC (GAS)',
+'Gearhart, OR (GHT)',
+'Gilman, IL (GLM)',
+'Gilroy, CA (GLY)',
+'Glasgow, MT (GGW)',
+'Glendale, CA (GDL)',
+'Glenview, IL (GLN)',
+'Glenwood Springs, CO (GSC)',
+'Gold Hill - Bus Stop, OR (GHL)',
+'Goleta, CA (GTA)',
+'Goshen Junction, CA (GSN)',
+'Granby, CO (GRA)',
+'Grand Canyon Natl Park - Bus Stop, AZ (GCB)',
+'Grand Canyon Natl Park, AZ (GCN)',
+'Grand Forks, ND (GFK)',
+'Grand Junction, CO (GJT)',
+'Grand Rapids, MI (GRR)',
+'Grangeville, ID (GVI)',
+'Grants Pass - Bus Stop, OR (GTP)',
+'Grantsville - Bus Stop, MD (GTV)',
+'Green Bay - Bus Stop, WI (GBY)',
+'Green River, UT (GRI)',
+'Greenfield Village, MI (GFV)',
+'Greensboro, NC (GRO)',
+'Greensburg, PA (GNB)',
+'Greenville, SC (GRV)',
+'Greenwood, MS (GWD)',
+'Grimsby, ON (GMS)',
+'Grover Beach, CA (GVB)',
+'Guadalupe-Santa Maria, CA (GUA)',
+'Hagerstown - Bus Stop, MD (HAG)',
+'Hamlet, NC (HAM)',
+'Hammond, LA (HMD)',
+'Hammond-Whiting, IN (HMI)',
+'Hammonton - NJ Transit Station, NJ (HTN)',
+'Hancock - Bus Stop, MD (HNK)',
+'Hancock - Bus Stop, MI (HKM)',
+'Hanford, CA (HNF)',
+'Harpers Ferry, WV (HFY)',
+'Harrisburg, PA (HAR)',
+'Hartford, CT (HFD)',
+'Hastings, NE (HAS)',
+'Hatch, NM (HCH)',
+'Hattiesburg, MS (HBG)',
+'Haverhill, MA (HHL)',
+'Havre, MT (HAV)',
+'Hayward, CA (HAY)',
+'Hazlehurst, MS (HAZ)',
+'Healdsburg, CA (HEA)',
+'Helper, UT (HER)',
+'Hemet - West side-Cocos, CA (HET)',
+'Hemet, CA (HMT)',
+'Hermann, MO (HEM)',
+'High Point, NC (HPT)',
+'Hinckley - Bus Stop, MN (HKL)',
+'Hinton, WV (HIN)',
+'Holdrege, NE (HLD)',
+'Holland, MI (HOM)',
+'Hollywood, FL (HOL)',
+'Homewood, IL (HMW)',
+'Hood River, OR (HOO)',
+'Houghton - Bus Stop, MI (HGH)',
+'Houston, TX (HOS)',
+'Howard City, MI (HWC)',
+'Hudson, NY (HUD)',
+'Hudson - Bus Stop, WI (HDS)',
+'Huntingdon, PA (HGD)',
+'Huntington, WV (HUN)',
+'Hutchinson, KS (HUT)',
+'Independence, MO (IDP)',
+'Indianapolis, IN (IND)',
+'Indio, CA (IDO)',
+'Irvine, CA (IRV)',
+'Isleton - Bus Stop, CA (ISE)',
+'Jackson, MI (JXN)',
+'Jackson, MS (JAN)',
+'Jacksonville, FL (JAX)',
+'Jamestown, NY (JMN)',
+'Janesville - Bus Service, WI (JVL)',
+'Jefferson City, MO (JEF)',
+'Jesup, GA (JSP)',
+'Johnstown, PA (JST)',
+'Joliet, IL (JOL)',
+'June Lake, CA (JNL)',
+'Kalamazoo, MI (KAL)',
+'Kalkaska, MI (KLK)',
+'Kankakee, IL (KKI)',
+'Kannapolis, NC (KAN)',
+'Kansas City, MO (KCY)',
+'Kelso-Longview, WA (KEL)',
+'Kent Island - Grasonville, MD (KNT)',
+'Kettle Falls - Bus Stop, WA (KTF)',
+'Kettleman City, CA (KTC)',
+'Kewanee, IL (KEE)',
+'Killeen, TX (KIL)',
+'King City, CA (KGC)',
+'Kingman - Greyhound Bus, AZ (KGG)',
+'Kingman, AZ (KNG)',
+'Kingsley - Bus Station, MI (KGS)',
+'Kingston, RI (KIN)',
+'Kingstree, SC (KTR)',
+'Kirkwood, MO (KWD)',
+'Kissimmee, FL (KIS)',
+'Klamath Falls, OR (KFS)',
+'Klamath Falls - Running Y Ranch Bus Stop, OR (RNY)',
+'LAnse - Bus Stop, MI (LAN)',
+'La Crescenta, CA (LCA)',
+'La Crosse, WI (LSE)',
+'La Grande, OR (LAE)',
+'La Grange Road, IL (LAG)',
+'La Junta, CO (LAJ)',
+'La Marque, TX (LMQ)',
+'La Pine, OR (LPN)',
+'La Plata, MO (LAP)',
+'La Quinta - Bus Stop, CA (LQT)',
+'Lafayette, IN (LAF)',
+'Lafayette, LA (LFT)',
+'Laguna Niguel, CA (LNL)',
+'Lake Charles, LA (LCH)',
+'Lake Placid, NY (LPD)',
+'Lakeland - Departure 92 North Arrival 91 South, FL (LAK)',
+'Lakeland - Departure 91 North Arrival 92 South, FL (LKL)',
+'Lamar, CO (LMR)',
+'Lamy, NM (LMY)',
+'Lancaster, CA (LCS)',
+'Lancaster, PA (LNC)',
+'Lapeer, MI (LPE)',
+'Las Vegas, NM (LSV)',
+'Las Vegas - Airport Bus, NV (LAS)',
+'Las Vegas - Bus Service, NV (LVS)',
+'Lathrop-Manteca - ACE Station, CA (LTM)',
+'Latrobe, PA (LAB)',
+'Laughlin, NV (LNV)',
+'Laurel, MS (LAU)',
+'Lawrence, KS (LRC)',
+'Laytonville, CA (LTV)',
+'Leavenworth - Bus Stop, WA (LEV)',
+'Leavenworth, WA (LWA)',
+'Lee Vining, CA (LVN)',
+'Lees Summit, MO (LEE)',
+'Leggett, CA (LEG)',
+'Lemoore, CA (LMC)',
+'Lemoore - Bus Stop, CA (LMN)',
+'Lewiston, ID (LWN)',
+'Lewistown, PA (LEW)',
+'Lexington - Barbecue Festival, NC (LEX)',
+'Libby, MT (LIB)',
+'Lincoln, IL (LCN)',
+'Lincoln, NE (LNK)',
+'Lincoln, NH (LNN)',
+'Lincolnville, ME (LCV)',
+'Lindenwold - NJ Transit Station, NJ (LDW)',
+'Little Rock, AR (LRK)',
+'Littlerock, CA (LTR)',
+'Littleton, NH (LTL)',
+'Livermore - Transit Center ACE Station, CA (LIV)',
+'Livermore - Vasco Rd ACE Station, CA (VAS)',
+'Lodi, CA (LOD)',
+'Lompoc, CA (LOM)',
+'Long Beach, CA (LBC)',
+'Long Beach - Queen Mary, CA (LBQ)',
+'Longview, TX (LVW)',
+'Loon Lake - Bus Stop, WA (LLK)',
+'Lordsburg, NM (LDB)',
+'Lorton - Auto Train Only, VA (LOR)',
+'Los Angeles - Union Station, CA (LAX)',
+'Los Angeles - Westwood (UCLA) - Bus Stop, CA (WES)',
+'Louisville - Greyhound Bus, KY (LVL)',
+'Lynchburg, VA (LYH)',
+'Mackinaw City, MI (MAK)',
+'Macomb, IL (MAC)',
+'Madera, CA (MDR)',
+'Madison - Deforest Bus Stop, WI (MSD)',
+'Madison - UW Memorial Union, WI (MSN)',
+'Madison - Madison - South, WI (SMD)',
+'Malta, MT (MAL)',
+'Malvern, AR (MVN)',
+'Mammoth Lakes, CA (MMK)',
+'Manassas, VA (MSS)',
+'Mancelona, MI (MLN)',
+'Manchester, NH (MHT)',
+'Manitowoc - Bus Stop, WI (MTC)',
+'Manning, OR (MNI)',
+'Manton - Bus Station, MI (MTO)',
+'Maricopa, AZ (MRC)',
+'Marinette - Bus Stop, WI (MWI)',
+'Mariposa - Midtown Bus Stop, CA (MRM)',
+'Mariposa, CA (MRP)',
+'Marquette - Bus Stop, MI (MQT)',
+'Marshall, TX (MHL)',
+'Martinez, CA (MTZ)',
+'Martinsburg, WV (MRB)',
+'Marysville, CA (MRV)',
+'Mattoon, IL (MAT)',
+'Maysville, KY (MAY)',
+'McCall, ID (MCA)',
+'McComb, MS (MCB)',
+'McCook, NE (MCK)',
+'McGregor, TX (MCG)',
+'McKinleyville, CA (MKV)',
+'Medford - RVTD Transit Ctr, OR (MFR)',
+'Memphis, TN (MEM)',
+'Mendota, IL (MDT)',
+'Menomonie - Bus Stop, WI (MNM)',
+'Merced, CA (MCD)',
+'Meriden, CT (MDN)',
+'Meridian, MS (MEI)',
+'Metropark-Iselin, NJ (MET)',
+'Miami, FL (MIA)',
+'Michigan City, IN (MCI)',
+'Middletown, PA (MID)',
+'Midpines, CA (MDP)',
+'Milwaukee - Airport, WI (MKA)',
+'Milwaukee, WI (MKE)',
+'Mineola, TX (MIN)',
+'Minot, ND (MOT)',
+'Modesto, CA (MOD)',
+'Mojave, CA (MOJ)',
+'Moline, IL (MLI)',
+'Monroe - Bus Stop (Eastbound), WA (MEE)',
+'Monroe - Bus Stop (Westbound), WA (MEW)',
+'Monterey, CA (MRY)',
+'Monterey - Hyatt, CA (MYH)',
+'Monterey - Marriot, CA (MYM)',
+'Monterey - Travelodge, CA (MYT)',
+'Monterey Bay - Monterey Bay Aquarium, CA (MYA)',
+'Montgomery, WV (MNG)',
+'Montpelier-Barre, VT (MPR)',
+'Montreal, QC (MTR)',
+'Moorpark, CA (MPK)',
+'Moreno Valley, CA (MOV)',
+'Morgan Hill, CA (MHC)',
+'Moscow, ID (MOC)',
+'Moses Lake, WA (MLK)',
+'Mosinee - Bus Stop, WI (MSI)',
+'Mount Joy, PA (MJY)',
+'Mount Pleasant, IA (MTP)',
+'Mount Vernon, WA (MVW)',
+'Mystic, CT (MYS)',
+'Nacogdoches, TX (NCG)',
+'Nampa, ID (NAM)',
+'Nanaimo, BC (NNI)',
+'Napa - Vine Transit Bus Stop, CA (NAP)',
+'Napa - Wine Train Bus Stop, CA (NPW)',
+'Naperville, IL (NPV)',
+'Nashua - Bus Stop, NH (NSH)',
+'Necanicum Jct., OR (NCM)',
+'Needles, CA (NDL)',
+'New Brunswick, NJ (NBK)',
+'New Buffalo, MI (NBU)',
+'New Carrollton, MD (NCR)',
+'New Hampton, NH (NHN)',
+'New Haven, CT (NHV)',
+'New Iberia, LA (NIB)',
+'New London, CT (NLC)',
+'New Orleans, LA (NOL)',
+'New Rochelle, NY (NRO)',
+'New York - Penn Station, NY (NYP)',
+'Newark, DE (NRK)',
+'Newark - International Airport, NJ (EWR)',
+'Newark, NJ (NWK)',
+'Newbern, TN (NBN)',
+'Newburyport - Bus Stop, MA (NBT)',
+'Newport, OR (NPO)',
+'Newport News, VA (NPN)',
+'Newton, KS (NEW)',
+'Niagara Falls, NY (NFL)',
+'Niagara Falls, ON (NFS)',
+'Niles, MI (NLS)',
+'Norfolk, VA (NFK)',
+'Norman, OK (NOR)',
+'North Philadelphia, PA (PHN)',
+'Oakland - Coliseum Airport, CA (OAC)',
+'Oakland - Jack London Sq, CA (OKJ)',
+'Oakville, ON (OKL)',
+'Ocala, FL (OCA)',
+'Ocean City, MD (OCM)',
+'Oceanside, CA (OSD)',
+'Oconto - Bus Stop, WI (OCO)',
+'Ogden, UT (OGD)',
+'Okanagan, WA (OGW)',
+'Okeechobee, FL (OKE)',
+'Oklahoma City, OK (OKC)',
+'Old Orchard Beach, ME (ORB)',
+'Old Saybrook, CT (OSB)',
+'Olympia-Lacey, WA (OLW)',
+'Omaha, NE (OMA)',
+'Omak, WA (OMW)',
+'Ontario, CA (ONA)',
+'Ontario, OR (ONT)',
+'Orange, CA (OGE)',
+'Oregon City, OR (ORC)',
+'Orlando, FL (ORL)',
+'Orono, ME (ORO)',
+'Oroville, CA (ORV)',
+'Osceola, IA (OSC)',
+'Oshkosh, WI (OSH)',
+'Oshkosh - Univ. of WI Bus Stop, WI (OSU)',
+'Ottumwa, IA (OTM)',
+'Owosso - Bus Stop, MI (OWO)',
+'Oxnard, CA (OXN)',
+'Palatka, FL (PAK)',
+'Palm Desert - Bus Stop, CA (PDC)',
+'Palm Springs, CA (PSN)',
+'Palm Springs - Bus Stop, CA (PSP)',
+'Palmdale, CA (PMD)',
+'Paoli, PA (PAO)',
+'Parkesburg, PA (PAR)',
+'Pasadena, CA (PAS)',
+'Pasco, WA (PSC)',
+'Paso Robles, CA (PRB)',
+'Pateros, WA (PTE)',
+'Pauls Valley, OK (PVL)',
+'Pellston, MI (PST)',
+'Pemberton, BC (PBT)',
+'Pendleton, OR (PEN)',
+'Peoria - Bus Stop, IL (PIA)',
+'Perris, CA (PRI)',
+'Petaluma, CA (PTC)',
+'Petersburg, VA (PTB)',
+'Petoskey, MI (PSK)',
+'Philadelphia - 30th Street Station, PA (PHL)',
+'Phoenix - Sky Harbor Airport, AZ (PHA)',
+'Phoenix - Greyhound Station, AZ (PHG)',
+'Phoenix - Metro Center, AZ (PXN)',
+'Picayune, MS (PIC)',
+'Pittsburgh, PA (PGH)',
+'Pittsfield, MA (PIT)',
+'Placerville, CA (PCV)',
+'Plano, IL (PLO)',
+'Plattsburgh, NY (PLB)',
+'Pleasanton - ACE Station, CA (PLS)',
+'Plummer - Bus Stop, ID (PLU)',
+'Plymouth, NH (PMO)',
+'Pomona, CA (POS)',
+'Pontiac, IL (PON)',
+'Pontiac, MI (PNT)',
+'Poplar Bluff, MO (PBF)',
+'Port Charlotte, FL (PCH)',
+'Port Henry, NY (POH)',
+'Port Huron, MI (PTH)',
+'Port Kent, NY (PRK)',
+'Portage, WI (POG)',
+'Portland, ME (POR)',
+'Portland - Greyhound Bus Station, OR (PDG)',
+'Portland, OR (PDX)',
+'Portsmouth - Bus Stop, NH (PTS)',
+'Post Falls - Bus Stop, ID (PFS)',
+'Potlatch - Bus Stop, ID (PTL)',
+'Poughkeepsie, NY (POU)',
+'Primm, NV (PMM)',
+'Prince, WV (PRC)',
+'Princeton, IL (PCT)',
+'Princeton Junction, NJ (PJC)',
+'Providence, RI (PVD)',
+'Provo, UT (PRO)',
+'Prunedale, CA (PDL)',
+'Pueblo, CO (PUB)',
+'Pullman, WA (PUL)',
+'Purcell, OK (PUR)',
+'Quantico, VA (QAN)',
+'Quincy, IL (QCY)',
+'Quincy, WA (QUC)',
+'Raleigh - NC State Fair, NC (NSF)',
+'Raleigh, NC (RGH)',
+'Randolph, VT (RPH)',
+'Rantoul, IL (RTL)',
+'Raton, NM (RAT)',
+'Red Bluff, CA (RBF)',
+'Red Wing, MN (RDW)',
+'Redding, CA (RDD)',
+'Redding - RABA Bus Station, CA (RDR)',
+'Redmond - Airport, OR (RDM)',
+'Reed City, MI (REE)',
+'Reedsport, OR (RPT)',
+'Reno, NV (RNO)',
+'Rensselaer, IN (REN)',
+'Rhinecliff, NY (RHI)',
+'Richmond, BC (RBC)',
+'Richmond, CA (RIC)',
+'Richmond - Main Street Station, VA (RVM)',
+'Richmond - Staples Mill Rd, VA (RVR)',
+'Rio Dell-Scotia, CA (RDS)',
+'Rio Vista - Bus  Stop, CA (RVT)',
+'Ritzville, WA (RTZ)',
+'Riverside, CA (RIV)',
+'Rochester, NY (ROC)',
+'Rock Island - Bus Stop, IL (RKI)',
+'Rockford, IL (RCK)',
+'Rockford, MI (RKF)',
+'Rockland, ME (ROD)',
+'Rocklin, CA (RLN)',
+'Rockville, MD (RKV)',
+'Rocky Mount, NC (RMT)',
+'Rohnert Park, CA (RPC)',
+'Rome, NY (ROM)',
+'Roseville, CA (RSV)',
+'Rouses Point, NY (RSP)',
+'Royal Oak, MI (ROY)',
+'Rugby, ND (RUG)',
+'Rutland, VT (RUD)',
+'Saco, ME (SAO)',
+'Sacramento, CA (SAC)',
+'Sacramento - State Capitol, CA (SCS)',
+'Saginaw - Bus Stop, MI (SGW)',
+'Sagle - Bus Stop, ID (SGL)',
+'Salem - Greyhound Station, OR (SLG)',
+'Salem, OR (SLM)',
+'Salinas, CA (SNS)',
+'Salisbury - BayRunner Shuttle, MD (SLS)',
+'Salisbury - Greyhound Bus, MD (SLY)',
+'Salisbury, NC (SAL)',
+'Salt Lake City - Greyhound Station, UT (SLB)',
+'Salt Lake City, UT (SLC)',
+'San Antonio, TX (SAS)',
+'San Bernardino, CA (SNB)',
+'San Clemente, CA (SNP)',
+'San Diego - Old Town, CA (OLT)',
+'San Diego, CA (SAN)',
+'San Diego - Balboa Park Bus Stop, CA (SDB)',
+'San Diego - Sea World Bus Stop, CA (SDS)',
+'San Diego - Zoo Bus Stop, CA (SDZ)',
+'San Francisco - Ferry Building, CA (SFC)',
+'San Francisco - Financial District, CA (SFF)',
+'San Francisco - Moscone Center, CA (SFM)',
+'San Francisco - Caltrain Station, CA (SFP)',
+'San Francisco - Shopping Center, CA (SFS)',
+'San Francisco - Civic Center, CA (SFV)',
+'San Francisco - Fishermans Wharf, CA (SFW)',
+'San Jose, CA (SJC)',
+'San Juan Capistrano, CA (SNC)',
+'San Luis Obispo, CA (SLO)',
+'San Luis Obispo - Cal Poly, CA (SLP)',
+'San Marcos, TX (SMC)',
+'San Pedro, CA (SPD)',
+'San Pedro - Bus Stop, CA (SPO)',
+'Sanderson, TX (SND)',
+'Sandpoint - Bus Stop, ID (SID)',
+'Sandpoint, ID (SPT)',
+'Sandusky, OH (SKY)',
+'Sanford - Auto Train Only, FL (SFA)',
+'Santa Ana, CA (SNA)',
+'Santa Barbara, CA (SBA)',
+'Santa Clara - Great America, CA (GAC)',
+'Santa Clarita - Newhall, CA (NHL)',
+'Santa Cruz, CA (SCZ)',
+'Santa Fe, NM (SAF)',
+'Santa Maria, CA (SAT)',
+'Santa Paula, CA (SAP)',
+'Santa Rosa, CA (SRC)',
+'Sarasota, FL (SRA)',
+'Saratoga Springs, NY (SAR)',
+'Sault Sainte Marie - Bus Stop, MI (SMI)',
+'Savannah, GA (SAV)',
+'Schenectady, NY (SDY)',
+'Schriever, LA (SCH)',
+'Scotts Valley, CA (SVY)',
+'Searsport, ME (SRT)',
+'Seaside, CA (SES)',
+'Seaside, OR (SSD)',
+'Seattle, WA (SEA)',
+'Seattle - Ferry Pier 69, WA (SVF)',
+'Sebring, FL (SBG)',
+'Sedalia, MO (SED)',
+'Sedona - Sedona Ctr Uptown Bus Stop, AZ (SDC)',
+'Selma-Smithfield, NC (SSM)',
+'Shawano - Bus Stop, WI (SHW)',
+'Sheboygan - Bus Stop, WI (SHB)',
+'Shelby, MT (SBY)',
+'Shreveport, LA (SHR)',
+'Simi Valley, CA (SIM)',
+'Skykomish - Bus Stop (Eastbound), WA (SKE)',
+'Skykomish - Bus Stop (Westbound), WA (SKW)',
+'Slidell, LA (SDL)',
+'Smith River - Bus Stop, CA (SMR)',
+'Solana Beach, CA (SOL)',
+'Solvang, CA (SLV)',
+'South Beloit, IL (BET)',
+'South Bend, IN (SOB)',
+'South Lake Tahoe, CA (SLT)',
+'South Portsmouth, KY (SPM)',
+'Southern Pines, NC (SOP)',
+'Sparks - Bus Station, NV (SPX)',
+'Spartanburg, SC (SPB)',
+'Spokane, WA (SPK)',
+'Springfield, IL (SPI)',
+'Springfield, MA (SPG)',
+'Squamish, BC (SQA)',
+'St. Albans, VT (SAB)',
+'St. Catharines, ON (SCA)',
+'St. Cloud, MN (SCD)',
+'St. George, UT (STG)',
+'St. Ignace, MI (STI)',
+'St. Joseph, MI (SJM)',
+'St. Lambert, QC (SLQ)',
+'St. Louis, MO (STL)',
+'St. Paul / Minneapolis, MN (MSP)',
+'St. Petersburg - Clearwater, FL (STP)',
+'Stamford, CT (STM)',
+'Stanley, ND (STN)',
+'Stanley - Bus Stop, WI (SNY)',
+'Stanwood, WA (STW)',
+'Staples, MN (SPL)',
+'Stateline - Transit Center, CA (SLH)',
+'Stateline - Kingsbury Bus Stop, NV (SLN)',
+'Staunton, VA (STA)',
+'Stevens Pass, WA (SSW)',
+'Stevens Point - Bus Stop, WI (SVP)',
+'Stevens Point - Univ. of WI Bus Stop, WI (SVU)',
+'Stockton, CA (SKN)',
+'Stockton - ACE Station, CA (SKT)',
+'Sturtevant, WI (SVT)',
+'Suisun City - Bus Stop, CA (WRM)',
+'Suisun-Fairfield, CA (SUI)',
+'Summit, IL (SMT)',
+'Sun City - Bus Stop, CA (SUT)',
+'Sunriver, OR (SUN)',
+'Surf, CA (LPS)',
+'Surrey, BC (SUY)',
+'Syracuse, NY (SYR)',
+'Tacoma, WA (TAC)',
+'Tampa, FL (TPA)',
+'Taylor, TX (TAY)',
+'Tehachapi, CA (TEH)',
+'Temple, TX (TPL)',
+'Texarkana, AR (TXA)',
+'The Dalles, OR (THD)',
+'Thurmond, WV (THN)',
+'Ticonderoga, NY (FTC)',
+'Tilton, NH (TLT)',
+'Toccoa, GA (TCA)',
+'Toledo, OH (TOL)',
+'Toledo, OR (TDO)',
+'Tomah, WI (TOH)',
+'Topeka, KS (TOP)',
+'Toronto, ON (TWO)',
+'Torrance - Bus Stop, CA (TOA)',
+'Tracy - Bus Stop, CA (TRA)',
+'Tracy - ACE Station, CA (TRC)',
+'Traverse City, MI (TRV)',
+'Trenton, NJ (TRE)',
+'Trinidad, CO (TRI)',
+'Truckee, CA (TRU)',
+'Tucson, AZ (TUS)',
+'Tukwila, WA (TUK)',
+'Turlock-Denair, CA (TRK)',
+'Tusayan, AZ (TSY)',
+'Tuscaloosa, AL (TCL)',
+'Twin Falls, ID (TFI)',
+'Tyrone, PA (TYR)',
+'Ukiah, CA (UKH)',
+'Utica, NY (UCA)',
+'Vail, CO (VAI)',
+'Vale, OR (VAE)',
+'Vallejo - City Stop, CA (VAL)',
+'Vallejo - Marine World Bus Stop, CA (VMW)',
+'Van Nuys, CA (VNC)',
+'Vancouver, BC (VAC)',
+'Vancouver, WA (VAN)',
+'Ventura, CA (VEC)',
+'Victoria, BC (VBC)',
+'Victoria - Harbour Ferry Pier, BC (VIF)',
+'Victorville - Bus Stop, CA (VRB)',
+'Victorville, CA (VRV)',
+'Virginia Beach, VA (VAB)',
+'Visalia, CA (VIS)',
+'Waldo, FL (WDO)',
+'Waldoboro, ME (WDR)',
+'Walla Walla - Bus Stop, WA (WWA)',
+'Wallingford, CT (WFD)',
+'Walloon Lake, MI (WNK)',
+'Walnut Ridge, AR (WNR)',
+'Warrensburg, MO (WAR)',
+'Warrenton, OR (WNT)',
+'Wasco, CA (WAC)',
+'Washington - Union Station, DC (WAS)',
+'Washington, MO (WAH)',
+'Waterbury-Stowe, VT (WAB)',
+'Waterloo, IN (WTI)',
+'Waupaca - Bus Stop, WI (WAU)',
+'Waupun - Bus Stop, WI (WPN)',
+'Wausau - Transit Center, WI (WSJ)',
+'Wausau - Bus Stop, WI (WSU)',
+'Wells, ME (WEM)',
+'Wenatchee, WA (WEN)',
+'West Glacier, MT (WGL)',
+'West Palm Beach, FL (WPB)',
+'Westchester - Bus Stop, CA (WCH)',
+'Westerly, RI (WLY)',
+'Westfield - Bus Stop, WI (WSF)',
+'Westport, NY (WSP)',
+'Whistler, BC (WSL)',
+'White City, OR (WCT)',
+'White River Junction, VT (WRJ)',
+'White Sulphur Springs, WV (WSS)',
+'Whitefish, MT (WFH)',
+'Whitehall, NY (WHL)',
+'Wildwood, FL (WWD)',
+'Williams, AZ (WMA)',
+'Williams Junction, AZ (WMJ)',
+'Williamsburg, VA (WBG)',
+'Williston, ND (WTN)',
+'Willits, CA (WTS)',
+'Wilmington, DE (WIL)',
+'Wilson, NC (WLN)',
+'Windsor, CT (WND)',
+'Windsor, VT (WNM)',
+'Windsor Locks, CT (WNL)',
+'Winnemucca, NV (WNN)',
+'Winona, MN (WIN)',
+'Winslow, AZ (WLO)',
+'Winston-Salem - State University, NC (UWS)',
+'Winston-Salem - City Transfer Ctr., NC (WNS)',
+'Winter Haven, FL (WTH)',
+'Winter Park, FL (WPK)',
+'Wiscasset, ME (WST)',
+'Wisconsin Dells, WI (WDL)',
+'Wishram, WA (WIH)',
+'Wittenberg - Bus Stop, WI (WIT)',
+'Woburn, MA (WOB)',
+'Wolf Point, MT (WPT)',
+'Woodbridge, VA (WDB)',
+'Worcester, MA (WOR)',
+'Yazoo City, MS (YAZ)',
+'Yemassee, SC (YEM)',
+'Yonkers, NY (YNY)',
+'Yosemite - Ahwahnee Hotel, CA (YOA)',
+'Yosemite - Curry Village, CA (YOC)',
+'Yosemite - Crane Flat, CA (YOF)',
+'Yosemite - Yosemite Lodge, CA (YOS)',
+'Yosemite - Tuolumne Meadow, CA (YOT)',
+'Yosemite - Visitor Center, CA (YOV)',
+'Yosemite - White Wolf, CA (YOW)',
+'Yuma, AZ (YUM)'
+];</script>
+<script type="text/javascript" language="javascript" charset="utf-8">
+// <![CDATA[
+new AmtrakAutocompleter.Local('departs','autocomplete_availability_from', stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('arrives','autocomplete_availability_to',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('schedules_from','schedule_from_auto',stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('schedules_to','schedule_to_auto',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('status_from','status_from_auto',stationslist, {
+choices: 100,
+paramName: "_origin",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+new AmtrakAutocompleter.Local('status_to','status_to_auto',stationslist, {
+choices: 100,
+paramName: "_destination",
+minChars: 2,
+frequency: 0.5,
+partialSearch: false,
+fullSearch: false
+}
+);
+// ]]>
+</script>
 
 
+<!-- End HTML for Fare Finder -->
+<script language="JavaScript" type="text/javascript">
+<!--
+function CheckMandatoryTrainStatusFields(statusForm) {
+var errorMsg ="";
+var fieldList = "";
+var origin = statusForm.wdf_origin.value;
+var destination = statusForm.wdf_destination.value;
+var trainNumber = statusForm.wdf_trainNumber.value;
+if(eval("statusForm.wdf_trainNumber.value") == "optional") {
+trainNumber = "";
+}
+if (trainNumber == "" && origin == "" && destination == "")
+fieldList = "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (trainNumber == "" && origin != "" && destination == "")
+fieldList = fieldList + "Problem with Arrival Station/City or Train Number: Please provide a valid arrival station/city or train number and resubmit. \n[Error ID: 574S]" + "\n";
+if (trainNumber == "" && origin == "" && destination != "")
+fieldList = fieldList + "Problem with Departure Station/City or Train Number: Please provide a valid departure station/city or train number and resubmit. \n[Error ID: 575S]" + "\n";
+if (trainNumber != "" && origin == "" && destination == "")
+fieldList = fieldList + "Problem with Departure or Arrival Station/City: Please provide a valid departure or arrival station or city name and resubmit. \n[Error ID: 576S]" + "\n";
+if ((trainNumber != "") && (!IsNumber(trainNumber)))
+fieldList = fieldList + "Problem with Train Number: Sorry, we cannot find the train number you provided. Please check for accuracy and re-enter. Or, delete the train number and provide a departure and arrival station/city. To find a specific station, please click on the \'Find a Station\' link and select a station from the list provided. \n[Error ID: 577S]" + "\n";
+if (fieldList != "") {
+errorMsg = "The following information is needed to process your request:" + "\n\n" + fieldList;
+}
+if (errorMsg != "") {
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryScheduleFields(statusForm) {
+var errorMsg ="";
+var fieldList = "";
+var origin = statusForm.wdf_origin.value;
+var destination = statusForm.wdf_destination.value;
+if (origin == "" && destination == "")
+fieldList = "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (origin != "" && destination == "")
+fieldList = fieldList + "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (origin == "" && destination != "")
+fieldList = fieldList + "Problem with Departure and Arrival Station/City: Please provide a valid departure and arrival station or city name and resubmit. \n[Error ID: 573S]" + "\n";
+if (fieldList != "") {
+errorMsg = "The following information is needed to process your request:" + "\n\n" + fieldList;
+}
+if (errorMsg != "") {
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryMyTripFields(theForm) {
+var errorMsg ="";
+var fieldList = "";
+if ($('mytrip_res_num').value.empty()) {
+fieldList += " -- reservation number\n";
+}
+if ($('mytrip_res_email').value.empty() && $('mytrip_res_zip').value.empty()) {
+fieldList += " -- email address or telephone number\n";
+}
+if (fieldList != "") {
+errorMsg="The following information is needed to process your request:" + "\n" + fieldList+ "\n\n";
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryMyTripFields(theForm) {
+var errorMsg ="";
+var fieldList = "";
+if ($('mytrip_res_num').value.empty()) {
+fieldList += " -- reservation number\n";
+}
+if ($('mytrip_res_email').value.empty() && $('mytrip_res_zip').value.empty()) {
+fieldList += " -- email address or telephone number\n";
+}
+if (fieldList != "") {
+errorMsg="The following information is needed to process your request:" + "\n" + fieldList+ "\n\n";
+alert(errorMsg);
+return false;
+}
+return true;
+}
+function CheckMandatoryLoginFields(theForm) {
+var errorMsg ="";
+var fieldList = "";
+if(eval("theForm.wdf_username.value") == "") {
+fieldList += " -- username\n";
+}
+if(eval("theForm.wdf_password.value") == "") {
+fieldList += " -- password\n";
+}
+if (fieldList != "") {
+errorMsg="The following information is needed to process your request:" + "\n" + fieldList+ "\n\n";
+alert(errorMsg);
+return false;
+}
+return true;
+}
+//Aibe-2026,Mac safari issue.
+function updateMaxLength()
+{
+trainNum = document.getElementById('status_train_num');
+trainNum.setAttribute("maxLength", 4);
+}
+//-->
+</script>
 
-
+ 
 			
-
-					
-
-					
-
-					
-
+		<!-- End HTML for Fare Finder -->
+</div>	
+	
+<!----><!--Type1:Page-->
+<!--ID1:1241267362239-->
+<!-- -->
+		<div id="subnav_menu">
 		
 		
+											<img src="http://www.amtrak.com/css/images/cms/sub_browseTopic.gif" alt="Browse by Topic">
+										
+						<ul>
+					<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1237437856307">Planning &amp; Booking</a>
 
-<!-- START OF SmartSource Data Collector TAG -->
-<!-- Copyright 2002 NetIQ Corporation -->
-<!-- V6.0a -->
-<script language="Javascript">
-<!--
-gVersion="1.0";
-//-->
-</script>
-<script language="Javascript1.1">
-<!--
-gVersion="1.1";
-//-->
-</script>
-<script language="Javascript1.2">
-<!--
-gVersion="1.2";
-//-->
-</script>
-<script language="Javascript">
-<!--
+				</li>
+			<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579558">At the Station</a>
 
-	var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Help;Online+Privacy+&amp;+Security;Traveling+With+Amtrak";
-	var iSiteWiseCName = "";
-	var iSiteWiseEDt = "&WT.mc_r=121";
+				</li>
+			<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579555">Onboard</a>
+
+				</li>
+			<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579564">Special Needs &amp; Accessibility</a>
+
+				</li>
+			<!--Have Children:1241210579569-->
+							<!--CurrentP1241267362239-->
+							<li class="highlighted highlightedparent">
+								<a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579569">Policies</a>
+							<ul>
+						
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267362251">Baggage Policy</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267362242">Refund/Exchange Policy</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267362236">Terms of Transportation</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1248543529563">Service Animals and Pet Policy</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267362248">Photography &amp; Video Recording</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267382715">Smoking Policy</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267362254">Unaccompanied Minors</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1248542758975">Firearms in Checked Baggage</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267362245">First Amendment Policy</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							<li class="highlighted">Privacy Policy</li>
+
+							<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1248544067993">Non-Discrimination Policy</a>
+
+							<ul>
+							
+							</ul>
+							</li>
+							
+						</ul>
+					
+
+				</li>
+			<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241267382687">Tickets, ID, Safety &amp; Security</a>
+
+				</li>
+			<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1246042626782">Travel Green with Amtrak</a>
+
+				</li>
+			<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1248540214523">Amtrak Vacations</a>
+
+				</li>
+			
+				</ul>	
+			
+		
+		</div>
+	
+
+<div id="CMS_leftNav"></div>
+
+					</div>
+					<div id="mb_column_1">
+						
+
+<script language="JavaScript">
+
+	function ShareShowOverlay(menuId) {
+					//alert("menuId.display:"+$(menuId).style.display);
+					if ($(menuId)) {
+					// If the menu is already open, close it
+					if ($(menuId).style.display == "block") {
+						$(menuId).style.display = "none";
+					}
+					else {
+						$(menuId).style.display = "block";
+						//ShareOverlayOpenId = menuId;
+					}
+				}
+				
+				}
+
+				function ShareHideOverlay(menuId) {
+					if ($(menuId)) {
+						$(menuId).style.display = "none";
+					}
+				}
+
+</script>
+
+
+			<div id="page_tools_by_breadcrumbs" class="page_tools">
+		<!--Email URL --><!--ThisBlobURL-->
+		
+		
+		<!--Overlay PopUp should be out of span to position the same in IE and Fierfox-->
+		<div id="ShareArticle" class="ShareArticleOverlayMenu">
+					<div class="ShareArticleContent">
+						<div class="ShareArticleTitle">
+							<p class="title">
+								 <a href="javascript:ShareHideOverlay('ShareArticle')">
+								 	<img src="/ws/images/close_gray.gif" alt="" border="0" valign="top" align="right" width="9" height="9" class="closeButton">
+								 </a>
+								 Share this page via: 
+								
+							</p>	
+							
+						</div>
+						<!--/css/images/email_icon.gif -->
+						<div class="ShareArticleItem">
+							<div class="row1">
+								<a href="javascript:openWin('/servlet/ContentServer?pagename=am/EmailPopup&amp;atype=Page&amp;aid=1241267362239&amp;articlepage=am/Layout',680,600)">Email<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249221190604&amp;blobheader=image%2Fgif" alt="Email" style="margin-left:5px"></a>
+							</div>
+							<div class="lineItem row2">
+								<a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.amtrak.com%2Fservlet%2FContentServer%3Fpagename%3Dam%2FLayout%26c%3DPage%26cid%3D1241267362239" target="_blank">Facebook<img src="/ws/images/facebook_icon.gif" alt="" class="imageItem"></a>
+							</div>
+							<div class="lineItem">
+								<a href="http://twitter.com/home?status=Currently%20reading http%3A%2F%2Fwww.amtrak.com%2Fservlet%2FContentServer%3Fpagename%3Dam%2FLayout%26c%3DPage%26cid%3D1241267362239" target="_blank">Twitter<img src="/ws/images/twitter_icon.gif" alt="" class="imageItem"></a>
+							</div>
+						</div>
+					</div>
+		</div>
+		
+		<span><!--<div style="padding:2px 20px 10px 2px; border-style:solid;border-width:1px; border-color:#D4D4D4; align:left;">-->
+		
+			<img src="http://www.amtrak.com/css/images/tool_textSize.gif"><a href="javascript:doZoom('100')"><img src="http://www.amtrak.com/css/images/tool_textSize_small.gif"></a><a href="javascript:doZoom('120')"><img src="http://www.amtrak.com/css/images/tool_textSize_medium.gif"></a><a href="javascript:doZoom('135')"><img src="http://www.amtrak.com/css/images/tool_textSize_large.gif"></a>
+		
+			
+			<a href="javascript:ShareShowOverlay('ShareArticle');"><img src="/ws/images/tool_share.gif" alt=""></a>
+			
+			<!--Overlay PopUp --><!--Overlay PopUp End-->
+			<a href="javascript:window.print()"><img src="http://www.amtrak.com/css/images/icon_print.gif" alt="Print"></a>
+		
+		
+		</span><!--</div>-->
+		</div>
+	
+					<div class="breadcrumbs">
+					<a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1237405732517">Plan</a>
+								<span class="gt">&gt;</span>
+							<a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237405732517&amp;cid=1241210579569">Policies</a>
+	
+	
+					</div>
+				
+						<div id="content_body">
+						
+		
+		<h2>Privacy Policy</h2>
+	
+	<p>Updated: June 28, 2010</p>
+<h5>Section 1 — Introduction</h5>
+<p>At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using the Amtrak.com web site. This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using the Amtrak.com web site (referred to here as "Amtrak.com" or the "site", and accessible on the Web at www.amtrak.com), you acknowledge that you understand and expressly agree to this Policy.</p>
+<p>When you use Amtrak.com, we may collect information about your visit to the site and information that you provide. This Policy describes:</p>
+<ul>
+    <li>What personal and other information we collect (Section 2).</li>
+    <li>How your personal information is used (Section 3).</li>
+    <li>With whom your personal information may be shared and Your California Privacy Rights (Section 4).</li>
+    <li>What security precautions we implement to protect the loss, misuse or alteration of your personal information, including your credit card information (Section 5).</li>
+    <li>How you can access, update, correct, or delete the personal information we collect from you (Section 6).</li>
+    <li>What choices you have regarding the collection, use, and distribution of your personal information, including your ability to choose to receive promotional information by e-mail (Section 7).</li>
+    <li>How you can contact us regarding this Policy and our privacy practices (Section 8).</li>
+    <li>What special privacy practices and rules are in place regarding the Amtrak Guest Rewards program web site (Section 9).</li>
+</ul>
+<p>Please note that this Policy only addresses Amtrak privacy practices concerning information we collect from the Amtrak.com web site (www.amtrak.com) and the Amtrak Guest Rewards web site (www.amtrakguestrewards.com), and not other sites or other sources. This policy does not apply to information that we may collect from any other source or from other Amtrak activities or programs.</p>
+<p>Please carefully read this Policy before completing a User Profile on Amtrak.com and before enrolling in the Amtrak Guest Rewards Program. If you also plan to enroll as a Member in the Amtrak Guest Rewards Program through the Amtrak Guest Rewards web site, please also carefully read Section 9 of this Policy, which contains special supplemental privacy practices and rules that apply to the personal information that you provide to us to become a Member in the Amtrak Guest Rewards Program.</p>
+<h6>A Note About Changes to This Policy</h6>
+<p>Please note that this Policy may change without special notice to you. Please check back to review this Policy whenever you visit the site as you will be deemed to have read, understood, received notice of, and agreed to any changes. This Policy supercedes all previous statements or policies concerning Amtrak's collection of personal information from the Amtrak.com web site.</p>
+<p>The date of the last update to this Policy is always indicated near the top of the page and any change in the date of this Policy since the last time you had visited the site shall constitute notice to you that the Policy has changed since the last time you visited the site. You may also see periodic statements displayed on the site notifying you that our Policy has changed, especially in places where we collect personal information from you. The last update to this Policy shall also be its effective date.</p>
+<h5>Section 2 — The Personal Information We Collect from You on Amtrak.com and How We Collect It</h5>
+<p>We collect personal information in several ways from several different parts of the site. The information we collect includes two basic kinds: (1) information that can identify you as a specific individual, such as your name, telephone number, or e-mail address, and (2) information that we use only as data in the aggregate. We do not knowingly collect personal information from individuals under the age of 13.<br>
+<br>
+We ask for and collect personal information in the following circumstances:</p>
+<h6>1. When you register on Amtrak.com and create a User Profile</h6>
+<p>When you register on Amtrak.com and create a User Profile, we ask for the following personal information:</p>
+<ul>
+    <li>Name</li>
+    <li>Addresses (home, billing)</li>
+    <li>Telephone number</li>
+    <li>E-mail address</li>
+    <li>Favorite departure and arrival points (optional)</li>
+    <li>Password</li>
+    <li>Preferred passenger discount type</li>
+    <li>AAA, NARP, Student Advantage, ISIC, Veterans Advantage membership numbers (optional)</li>
+    <li>Amtrak Guest Rewards number (optional)</li>
+    <li>Whether you want to receive e-mail updates</li>
+</ul>
+<p>We store this information in your User Profile which allows us to provide you with better service when you make reservations online. We are able to pre-populate information for you during the reservations booking process, so you will not have to re-enter it each time you book a reservation.</p>
+<h6>2. When you purchase tickets and make a reservation online</h6>
+<p>We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you make reservations and purchase tickets online, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest). We use this information to fulfill your booking requests. This information includes:</p>
+<ul>
+    <li>Your name</li>
+    <li>E-mail address</li>
+    <li>Mailing address (if necessary)</li>
+    <li>Billing address</li>
+    <li>Telephone number</li>
+    <li>Credit card type, number, expiration date, and security ID</li>
+    <li>Travel and reservation information (departure and arrival points, dates of travel, train number, accommodations, names and number of travelers in your party, fares)</li>
+    <li>Passenger discount types (if any)</li>
+    <li>Ticket pick-up/delivery options</li>
+    <li>Promotional codes used (if any)</li>
+</ul>
+<p>If you use the site to purchase tickets for more than one person, we also ask for the name of each person traveling so that we may issue a ticket in each passenger's correct name. We do not use these names of other passengers for any other purpose. We may also ask for your telephone number so that we can contact you in the event that there is a major scheduling change or cancellation of your train.</p>
+<p>In addition, when you purchase tickets while logged in to the Amtrak.com site with a User Profile, we also save information about your canceled reservations, if any. Also, if you choose, we can save trip information regarding trips that you have researched, but have not yet booked. You also have the option to view a list of confirmed reservations you made online, as well as any canceled trips.</p>
+<h6>3. When you make purchases of Amtrak merchandise online</h6>
+<p>We collect some personal information from you when you make purchases through our online store for the purpose of fulfilling your order. This information includes:</p>
+<ul>
+    <li>Name</li>
+    <li>Address</li>
+    <li>E-mail address</li>
+    <li>Credit card type, number, expiration date</li>
+    <li>Dollar amount purchased</li>
+</ul>
+<h6>4. When you enroll in the Amtrak Guest Rewards Program</h6>
+<p>When you become a member of the Amtrak Guest Rewards Program, we collect the following information about you:</p>
+<ul>
+    <li>Name</li>
+    <li>Primary Address</li>
+    <li>Home station location</li>
+</ul>
+<p>We also request other information, which you may optionally provide, including your:</p>
+<ul>
+    <li>E-mail address</li>
+    <li>Company name</li>
+    <li>Telephone number</li>
+    <li>Income range</li>
+    <li>Purpose of most travel</li>
+    <li>Home station location</li>
+    <li>Date of birth</li>
+    <li>Gender</li>
+    <li>Location of email address</li>
+    <li>Secondary address and location</li>
+</ul>
+<h6>5. When you request travel and promotional information</h6>
+<p>When you request information online, such as brochures, timetables and gift catalogs, we collect information from you that is necessary to fulfill our service obligations to you. This information may include your name, address and telephone number.</p>
+<h6>6. When you contact us through the site</h6>
+<p>If you contact Amtrak.com through our 'Contact Us' page, we may keep a record of that correspondence which includes your e-mail address and any other information you provide to us in your correspondence.</p>
+<h6>7. When you browse and otherwise use the web site (Cookies)</h6>
+<p>Each time you visit Amtrak.com, we collect some information automatically about your computer by means of a "cookie". A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. You can always choose not to receive cookies by setting your web browser's options to refuse to accept cookies.</p>
+<p>Generally, we use cookies to:</p>
+<ul>
+    <li>Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your login ID and password.</li>
+    <li>Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.</li>
+    <li>Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on the site.</li>
+</ul>
+<p>In addition, we collect certain technical information from your computer each time you request a page during a visit to the site. This information is collected from your computer's Web browser and may include your IP address, operating system and Web browser software (e.g., Internet Explorer or Netscape).</p>
+<h5>Section 3 — How We Use Your Personal Information</h5>
+<p>We use the information that you provide or that we otherwise collect while you're using the site in the following ways:</p>
+<ul>
+    <li>To process your ticket purchases.</li>
+    <li>To keep track of your reservations, saved plans, canceled reservations, and travel preferences.</li>
+    <li>To make your experience on the site more enjoyable and to provide you with offers and products that meet your particular interests.</li>
+    <li>To help us refine site design and layout, improve site content, and compile demographic information about site visitors.</li>
+    <li>To help us understand how customers use our site.</li>
+    <li>To communicate with you in order to fulfill our service commitments.</li>
+    <li>To notify you about special offers, promotions and site enhancements by e-mail, when you choose to receive them.</li>
+    <li>When you shop online on our site: If you make an online purchase from the site, we use the information obtained during your visit, such as your credit card number and contact information, to process the order. To learn more about how we keep your credit card information secure, please refer to Section 5 of this Policy.</li>
+</ul>
+<h5>Section 4 — With Whom We Share Your Personal Information</h5>
+<h6>In General</h6>
+<p>We work with certain reputable independent contractors who perform certain tasks for us on a contract basis. These tasks and categories of contractors include storing and managing customer information, and providing advice about and support for our products and services. By using these contractors, we can better offer you a variety of products and services. A partial list of the services we contract for includes the following:</p>
+<ul>
+    <li>Amtrak Guest Rewards Program management</li>
+    <li>Amtrak e-mail services</li>
+    <li>Customer data storage and processing</li>
+    <li>Order fulfillment</li>
+    <li>Amtrak Vacations</li>
+    <li>Hotel Reservations</li>
+    <li>Car rental reservations</li>
+</ul>
+<p>In addition to our contractors, we also have relationships with certain trustworthy business partners of another category who would like you to be provided with information about their various products and services that we believe would be of interest to you. We share your personal information with these business partners.</p>
+<p>If you make a request for information about, subscribe to, or make an online purchase of, goods or services offered by one of our business partners on the Amtrak.com site, you are giving us your express permission to share your personal information with that business partner so that your request, subscription, or purchase can be fulfilled under that partner's own online privacy policies and practices. If you enter an Amtrak sweepstakes or contest online, your personal information may be shared with the Amtrak business partners who are co-sponsors of the sweepstakes or contest and who are likely to have different privacy policies and practices than Amtrak.</p>
+<h6>Your California Privacy Rights</h6>
+<p>If you are a California consumer, upon your request (see Section 8 of this Policy entitled “Contacting Us Regarding This Policy”), we will disclose to you what personal information of yours was shared with what third party business partners within the immediately preceding calendar&nbsp;year (including disclosing to you our partners' names and addresses) if such information was used by our partners for their marketing purposes.</p>
+<h6>Data in the Aggregate</h6>
+<p>We may disclose aggregated user statistics (for example, a statistic indicating that 45% of our users are female) to describe our services to prospective partners, advertisers, and other selected third parties, and for other lawful purposes.</p>
+<h6>Reservation of Rights</h6>
+<p>We reserve the right to disclose personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this Policy or who may be causing injury to or interference with (either intentionally or unintentionally) Amtrak's rights or property, other Amtrak users, or anyone else who could be harmed by such activities. We may disclose or access account information for administrative or other purposes that we deem necessary to maintain or improve our products, services or the operation of this site, for law enforcement purposes, or when we believe in good faith that the law requires it.</p>
+<h6>Other Sites May Collect Information</h6>
+<p>Please also be aware that when you click on an advertisement on another site that is linked to Amtrak.com, or when you otherwise use web sites that link to the Amtrak.com site, your personal information may be collected by those sites. This Policy does not cover the privacy practices of any such other web sites, and we cannot accept responsibility or liability for the privacy practices of those other sites. Please refer to those sites' privacy policies for information about their practices.</p>
+<h6>Special Note for Amtrak Guest Rewards Program Members</h6>
+<p>When you join the Amtrak Guest Rewards Program, you agree to allow Amtrak to share with participating business partners of the Amtrak Guest Rewards program your personal information for the purpose of providing you with information and promotions. Please refer to Section 9 of this Policy to learn about how the Amtrak Guest Rewards Program uses your personal information.</p>
+<h6>Special Note for Customers of Other Carriers and Travel-Related Service Providers Using Amtrak.com for Reservation and Ticketing Services</h6>
+<p>Amtrak provides reservation and ticketing services for other carriers and travel-related service providers. By using Amtrak.com for reservation and/or ticketing for the products or services of another carrier or travel-related service provider, you expressly give permission to share your personal information with that carrier or service provider, who shall treat your personal information in accordance with its own privacy policies and practices. For information about the privacy policies and practices of another carrier or service provider, please contact that carrier or service provider directly.</p>
+<h5>Section 5 — What Security Precautions We Have in Place to Protect the Loss, Misuse, or Alteration of Your Personal Information</h5>
+<p>When you make reservations, place orders, or access account information from the site, we use SSL ("Secure Sockets Layer") encryption technology to safeguard the confidentiality of your personal information and protect your credit card information as it travels over the Internet. Once we receive your credit card information, it is stored offline in our secure data center. We protect against unauthorized access all of the customer data we collect by means of firewalls and other security<br>
+measures.</p>
+<p>Your User Profile Information and Amtrak Guest Rewards Membership Account Information (should you enroll in the Amtrak Guest Rewards Program) are password-protected. We recommend that you do not divulge your password to anyone. Also remember to sign out of your Amtrak account and close your browser window when you have finished. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet "cafe."</p>
+<p>When you give Amtrak personal information online, that information may be sent electronically to servers outside and separate from Amtrak and outside of the state where you originally entered the information. In addition, that information may be used, stored and processed outside of Amtrak and outside of the state where you entered that information. Whenever we handle personal information as described above, regardless of where this occurs, we take steps to ensure that your personal information is treated securely.</p>
+<p>Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to Amtrak.com, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. However, we cannot accept liability for disclosure of any personal information due to errors in transmission or unauthorized ads or errors and omissions of third parties.</p>
+<h5>Section 6 — Our Policy on Allowing You to Access, Update, Correct, or Delete Your Personal Information Collected from Amtrak.com</h5>
+<p>When you register on Amtrak.com and create a User Profile, you can choose not to receive information and offers by e-mail.</p>
+<p>You may change your preferences regarding whether you want to receive mail or e-mail at any time by accessing and updating your User Profile. You may access your User Profile by clicking on the 'My User Profile' link in the left navigation bar on most pages of the Amtrak.com web site.</p>
+<p>You may make changes to your Amtrak Guest Rewards Program information by contacting the Amtrak Guest Rewards Service Center at 1-800-307-5000 or by accessing your Amtrak Guest Rewards account information online at www.amtrakguestrewards.com.</p>
+<p>If you have processed a request to delete, correct, or update any part of your User Profile or Amtrak Guest Rewards Membership Account, we will make every reasonable effort to see that your instructions to delete and/or make revisions are also communicated to and/or accessed by our contract service providers who may have received your personal information and that they too have either deleted and/or revised the information in accordance with your latest instructions. Changes made in either your User Profile or Amtrak Guest Rewards Membership Account will not be reflected in the other account until you make such changes.</p>
+<p>Please note that our contract service providers require a reasonable amount of time to update, correct, or delete the information in accordance with your instructions.</p>
+<h5>Section 7 — Your Choices Regarding Collection, Use, and Distribution of Your Personal Information, Including Your Ability to Choose Not to Receive Promotional Information by E-mail</h5>
+<p>We may, from time to time, send e-mail correspondence regarding Amtrak products and services to customers who have a User Profile and who have opted into the e-mail program.</p>
+<p>We also may, from time to time, offer you the choice to receive promotional information about our trustworthy business partners by e-mail. If you do not want to receive such e-mail messages, you will have the opportunity to indicate your choice when such services are offered. You also may change your e-mail preferences at any time by accessing your User Profile or Amtrak Guest Rewards Program account information.</p>
+<h5>Section 8 — Contacting Us Regarding This Policy and Regarding Your California Privacy Rights</h5>
+<p>California Civil Code § 1798.83 entitles residents of California to request information concerning with which third parties Amtrak has shared personal information in the immediately preceding calendar year for those third parties’ direct marketing purposes. California residents may submit one request per calendar year in the form of a report that details: (a) what types of information Amtrak shared, (b) with whom Amtrak shared such information and (c) the nature of the third parties’ businesses.</p>
+<p>If you have questions or concerns regarding this Policy, you may use the form on the 'Contact Us' page at the top of most pages on the Amtrak.com web site. Select California Privacy Rights from the drop-down menu on the page. Be certain to provide your complete mailing address on the form. You may access the 'Contact Us' page by clicking the link at the top of most pages on this site.</p>
+<p>California residents may also submit their request for this report by mail to:</p>
+<p>Amtrak Office of Customer Relations<br>
+60 Massachusetts Avenue, NE<br>
+Washington, DC 20002<br>
+Attention: California Privacy Rights Request</p>
+<h5>Section 9 — Special Privacy Practices and Rules for the Amtrak Guest Rewards Program</h5>
+<h6>Introduction</h6>
+<p>If you enroll as a member of the Amtrak Guest Rewards Program, there are special supplemental privacy practices and rules that apply to the personal information that you provide. These special rules and privacy practices, which you understand and expressly agree to when you join the Amtrak Guest Rewards Program, are presented below. Please note that these special rules and practices pertain only to the Amtrak Guest Rewards Program. They do not apply to the personal information that you provide to us on other portions of Amtrak.com.</p>
+<p>In the event of any inconsistency between any portion of Section 9 and any other portion of this Policy, that portion of Section 9 that is inconsistent with any other portion of this Policy supercedes and governs over the inconsistent Policy term(s) with respect to the privacy rules and practices of the information collected under the Program.</p>
+<h6>Information Collection</h6>
+<p>When you become an Amtrak Guest Rewards Member, we collect your name, address, country and home station. We may request other information which you may provide at your option. This optional information includes your e-mail address, company name and address, income range, work telephone number, purpose of most travel, home station location, and date of birth.</p>
+<p>The Amtrak Guest Rewards Program may also receive personal information about you from participating business partners of the Program.</p>
+<h6>Choices are available to you regarding the use and sharing of your personal information</h6>
+<p>By joining the Amtrak Guest Rewards Program, you expressly give us your permission that the personal information that you have provided to us by joining the Amtrak Guest Rewards Program may be accessed by or shared with our program's trustworthy business partners through our reputable contract service providers under that partner's own policies and practices.</p>
+<p>In addition, you agree that we may update and/or revise database information that we currently have about you. You also agree that we may send you by mail information about the Program, and other information, including information provided by our Program's participating business partners. These practices are necessary to administer the Program and its services. We will also inform you about special offers and promotions regarding products and services that may be of interest to you.</p>
+<p>When you enroll in the Program, you may elect not to receive special information and offers by e-mail. You may also at any time change your preferences regarding whether you want to receive mail or e- mail by contacting the Amtrak Guest Rewards Program Service Center at 1-800-307-5000. Your desire to receive e-mail may also be changed online by accessing your Membership Account. You will find a convenient link to your account information on the Amtrak Guest Rewards Home Page at www.amtrakguestrewards.com.</p>
+						<br>
+						
+						
+						</div>
+					</div>	
+					
+					
+					
+					<br class="clear_both"></div>
+						
+<div class="footer">
+	
+	
+	
+		
+		<ul class="links">
+			
+						<li class="first"><a href="http://arra.procurement.amtrak.com/ ">ARRA</a></li>
+						
+								<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1237608345018&amp;cid=1237608345018">Inside Amtrak</a></li>				
+							
+								<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;cid=1237608337144">News &amp; Media </a></li>				
+							
+								<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1241245669136&amp;cid=1241245669136">Careers</a></li>				
+							
+								<li><a href="http://www.amtrakoig.gov">OIG</a></li>				
+							
+								<li><a href="/servlet/ContentServer?c=Page&amp;pagename=am%2FLayout&amp;p=1241267362261&amp;cid=1241267362261">FOIA</a></li>				
+							
+								<li><a href="/servlet/ContentServer?c=AM_Content_C&amp;pagename=am%2FLayout&amp;cid=1237608325761">Terms of Transportation</a></li>				
+							
+								<li><a href="/servlet/ContentServer?c=AM_Content_C&amp;pagename=am%2FLayout&amp;cid=1237608325822">Terms of Use</a></li>				
+							
+								<li><a href="/servlet/ContentServer?c=AM_Content_C&amp;pagename=am%2FLayout&amp;cid=1237608325792">Privacy</a></li>				
+							
+								<li><a href="http://www.amtrakvacations.com/">Amtrak Vacations</a></li>				
+							
+								<li><a href="http://store.amtrak.com/">Amtrak Store</a></li>				
+								
+
+		</ul>		
+		
+	        <!-- 
+	     <div   >	
+	     	&copy;2011 National Railroad Passenger Corporation 
+	     	<a class='button' href="http://www.facebook.com/amtrak" target="facebookwindow" style ="margin:0px 5px 0px 10px;" ><img  style ="vertical-align:middle;" src='/ws/images/facebook_icon.gif' alt="Facebook"/></a>
+	     	<a class='button' href="http://www.twitter.com/amtrak" target="twiterwindow"><img src='/ws/images/twitter_icon.gif' style ="vertical-align:middle;" alt="Twitter"/></a>
+	     </div>
+	   -->
+	    
+	        
+	<div class="printlinks">
+		
+		<!--Have Media Links --><!---->
+					<!--<div id="footertext">&copy;2011 National Railroad Passenger Corporation&nbsp;&nbsp;<a class="button" target="_blank" href="http://www.facebook.com/amtrak"><span id="_CSEMBEDTYPE_=inclusion&amp;_PAGENAME_=am%2FAM_Image_C%2FIncludeImage&amp;_cid_=1248543504128&amp;_c_=AM_Image_C"><i>[Asset Included(Id:1248543504128;Type:AM_Image_C)]</i></span></a>&nbsp;<a class="button" target="_blank" href="http://www.twitter.com/amtrak"><span id="_CSEMBEDTYPE_=inclusion&amp;_PAGENAME_=am%2FAM_Image_C%2FIncludeImage&amp;_cid_=1248543504172&amp;_c_=AM_Image_C"><i>[Asset Included(Id:1248543504172;Type:AM_Image_C)]</i></span></a>&nbsp;<a class="button" target="_blank" href="http://www.youtube.com/amtrak"><span id="_CSEMBEDTYPE_=inclusion&amp;_PAGENAME_=am%2FAM_Image_C%2FIncludeImage&amp;_cid_=1248543504216&amp;_c_=AM_Image_C"><i>[Asset Included(Id:1248543504216;Type:AM_Image_C)]</i></span></a></div>-->
+					<div id="footertext">©2011 National Railroad Passenger Corporation&nbsp;&nbsp;<a class="button" target="_blank" href="http://www.facebook.com/amtrak"> 
+
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249227559732&amp;blobheader=image%2Fgif" alt="Amtrak on Facebook">
+
+</a>&nbsp;<a class="button" target="_blank" href="http://www.twitter.com/amtrak"> 
+
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249227559677&amp;blobheader=image%2Fgif" alt="Follow Amtrak on Twitter ">
+
+</a>&nbsp;<a class="button" target="_blank" href="http://www.youtube.com/amtrak"> 
+
+<img src="/servlet/BlobServer?blobcol=urldata&amp;blobtable=MungoBlobs&amp;blobkey=id&amp;blobwhere=1249227559659&amp;blobheader=image%2Fgif" alt="Watch Amtrak on YouTube">
+
+</a></div><!--end of media links -->
+  
+       </div>
+
+   </div>	
+	
+	
+				</div>
+			</div>
+		
+		
+		
+		
+		
+		<!-- End HTML for Interior Template --><!-- START WEB TRENDS --><!--**BEGIN CSELEMENT AM/Common/WebTrends--><!-- START OF SmartSource Data Collector TAG -->
+<script language="JavaScript" src="http://www.amtrak.com/css/webtrends_session.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends();
+var defSiteWiseParams = "&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Plan;Policies;Privacy+Policy";
+	var iSiteWiseCName = "Amtrak";
+	var iSiteWiseEDt = "2011/10/02 21:58:39";
 
 	if(defSiteWiseParams.indexOf("WT.cg_s")==-1){
 		defSiteWiseParams+="&WT.cg_s=Root";
@@ -239,842 +2400,75 @@ gVersion="1.2";
 			}
 		}
 	}
-	var CMS_dcsqry = window.location.search + defSiteWiseParams;
-	var CMS_dcsuri = window.location.pathname;
-//-->
+var CMS_dcsqry = window.location.search + defSiteWiseParams;
+//]]>
 </script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
 
-
-<script src="http://a4.g.akamai.net/f/4/6035/2h/amtrak.download.akamai.com/6035/content/amtrak2/sitewise_cms.js"></script>
-
-
+}
+_tag.dcsCollect();
+//]]>
+</script>
 <noscript>
-<IMG BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://statse.webtrendslive.com/dcsn42u4k11e5hyzziz7zntl5_1j8l/njs.gif?dcsuri=/nojavascript&WT.js=No&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Help;Online+Privacy+&amp;+Security;Traveling+With+Amtrak">
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" SRC="http://statse.webtrendslive.com/dcsn42u4k11e5hyzziz7zntl5_1j8l/njs.gif?dcsuri=/nojavascript&WT.js=No&DCS.dcscfg=1&WT.tv=9.3.0&WT.dcssip=www.amtrak.com&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Plan;Policies;Privacy+Policy"/></div>
 </noscript>
+<!--**END CSELEMENT am2/common/am2SiteWiseElem--><!-- Start Unica Tagging -->
+<script type="text/javascript">
+var unica_imod_accountId =103;
+var unica_ni_script="https://www.unicaondemand.com/ods/js/ntpagetag.js"
+var NTPT_IDCOOKIE_DOMAIN='.amtrak.com';
+var NTPT_GLBLEXTRA='site=amtrak.com';
+var NTPT_PGEXTRA="&PROFILE=amtrak&WT.cg_n=content&WT.cg_s=Plan;Policies;Privacy+Policy";
+var NTPT_IMGSRC = 'http://pt200213.unica.com/ntpagetag.gif';
+var NTPT_HTTPSIMGSRC = 'https://pt200213.unica.com/ntpagetag.gif';
+if(NTPT_PGEXTRA.indexOf("WT.cg_s")==-1){
+		NTPT_PGEXTRA+="&WT.cg_s=Root";
+	}
 
-
-
-	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-
-	
-
-			
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="775">
-
-<form name="siteSearch" action="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Search/SiteSearch" method="POST"></form>
-<input type="hidden" name="from" value="site">
-<tbody><tr valign="top">
-	<td background="http://www.amtrak.com/images/travelscape.jpg" height="70" width="200" colspan="2"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/HomePage"><img src="http://www.amtrak.com/images/logo_amtrak.gif" vspace="15" hspace="5" border="0" title="Amtrak" alt="Amtrak"></a></td>
-	<td align="right" bgcolor="#4A7DB0">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td nowrap=""><b><a mporgnav="" href="http://espanol.amtrak.com/amtrak/enes/24/_www_amtrak_com/" onclick="return convertspanish()" class="NavBarWhite">Español</a></b></td>
-			<td><img src="http://www.amtrak.com/images/spacer-blue.gif" width="9" height="49" alt="spacer-blue"></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td align="center" bgcolor="#4A7DB0"><img src="http://www.amtrak.com/images/topnav/divider.gif" width="1" height="25" border="0" alt="spacer"></td>
-	<td colspan="2" bgcolor="#4A7DB0">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr>
-			<td><img src="http://www.amtrak.com/images/spacer-blue.gif" width="9" height="49" alt="spacer-blue"></td>
-			<td nowrap=""><b><a mporgnav="" href="http://deutsch.amtrak.com/amtrak/ende/24/_www_amtrak_com/" onclick="return convertdeutsch()" class="NavBarWhite">Deutsch</a></b></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td background="http://www.amtrak.com/images/travelscape2.jpg" colspan="9" align="right">
-
-		<table border="0" cellpadding="5" cellspacing="0">
-		<tbody><tr>
-			<td><img src="http://www.amtrak.com/images/spacer-blue.gif" width="1" height="38" alt="spacer-blue"></td>
-			<td nowrap="">&nbsp;<b><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/HomePage" class="NavBarWhite">Home</a></b></td>
-			<td nowrap="">&nbsp;<b><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Help" class="NavBarWhite">Help</a></b></td>
-			<td nowrap="">&nbsp;<b><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/ContactUs" class="NavBarWhite">Contact Us</a></b></td>
-			<td nowrap="">&nbsp;<b><span class="NavBarWhite" id="search"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Search/AdvancedSearch" class="NavBarWhite"><label for="serach">Search</label></a></span></b></td>
-			<td nowrap=""><input type="text" name="keywords" size="8" maxlength="128">&nbsp;<input type="image" src="http://www.amtrak.com/images/button-go.gif" border="0" title="Go" onclick="javascript:return checkSearchForm('siteSearch','keywords')"></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-
-
-<tr>
-
-	<td bgcolor="#4A7DB0"><img src="http://www.amtrak.com/images/spacer-blue.gif" width="180" height="1" alt="spacer"></td>
-	<td bgcolor="#FFB770"><img src="http://www.amtrak.com/images/topnav-angle.gif" width="17" height="25" border="0" alt="Nav Angle"></td>
-
-	
-		
-	
-				
-					
-				
-
-							<td align="center"><a href="http://tickets.amtrak.com" title="Reservations"><img src="http://www.amtrak.com/images/topnav/1.gif" width="85" height="25" border="0" alt="Reservations"></a></td>
-							<td align="center"><img src="http://www.amtrak.com/images/topnav/divider.gif" width="1" height="25" border="0" alt="spacer"></td>
-	
-				
-					
-				
-
-					
-						
-						
-						
-						
-						
-					
-	
-							<td align="center"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Schedules_Index_Page&amp;c=Page&amp;cid=1080072922206&amp;ssid=3" title="Schedules"><img src="http://www.amtrak.com/images/topnav/2.gif" width="71" height="25" border="0" alt="Schedules"></a></td>
-							<td align="center"><img src="http://www.amtrak.com/images/topnav/divider.gif" width="1" height="25" border="0" alt="spacer"></td>
-	
-				
-					
-				
-
-					
-						
-						
-						
-						
-						
-					
-	
-							<td align="center"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Routes_Index_Page&amp;c=Page&amp;cid=1080072922209&amp;ssid=4" title="Routes"><img src="http://www.amtrak.com/images/topnav/3.gif" width="52" height="25" border="0" alt="Routes"></a></td>
-							<td align="center"><img src="http://www.amtrak.com/images/topnav/divider.gif" width="1" height="25" border="0" alt="spacer"></td>
-	
-				
-					
-				
-
-					
-						
-						
-						
-						
-						
-					
-	
-							<td><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Stations_Index_Page&amp;c=Page&amp;cid=1080072922212&amp;ssid=5" title="Stations"><img src="http://www.amtrak.com/images/topnav/4.gif" width="61" height="25" border="0" alt="Stations"></a></td>
-							<td align="center"><img src="http://www.amtrak.com/images/topnav/divider.gif" width="1" height="25" border="0" alt="spacer"></td>
-	
-				
-					
-				
-
-					
-						
-						
-						
-						
-						
-					
-	
-							<td align="center"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Hot_Deals_Index_Page&amp;c=Page&amp;cid=1080072922226&amp;ssid=8" title="Hot Deals"><img src="http://www.amtrak.com/images/topnav/5.gif" width="69" height="25" border="0" alt="Hot Deals"></a></td>
-							<td align="center"><img src="http://www.amtrak.com/images/topnav/divider.gif" width="1" height="25" border="0" alt="spacer"></td>
-	
-				
-					
-				
-
-					
-						
-						
-						
-						
-						
-					
-	
-							<td align="center"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Traveling_With_Amtrak_Index_Page&amp;c=Page&amp;cid=1080072922215&amp;ssid=6" title="Traveling With Amtrak"><img src="http://www.amtrak.com/images/topnav/6.gif" width="143" height="25" border="0" alt="Traveling With Amtrak"></a></td>
-							<td align="center"><img src="http://www.amtrak.com/images/topnav/divider.gif" width="1" height="25" border="0" alt="spacer"></td>
-	
-				
-					
-				
-
-							<td align="center"><a href="http://www.amtrakguestrewards.com" title="Earn Rewards" target="_blank"><img src="http://www.amtrak.com/images/topnav/7.gif" width="91" height="25" border="0" alt="Earn Rewards"></a></td>
-	
-				
-					
-				
-
-					
-						
-						
-						
-						
-						
-					
-	
-
-</tr>
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<table border="0" cellpadding="0" cellspacing="0" width="775">
-<tbody><tr height="400">
-	<td bgcolor="#4A7DB0" align="center" valign="top">
-		
-		
-
-<!-- LOGIN -->
-<div id="LoginBox"></div>
-<div id="loginFrameParent">
-<div id="objStat"></div>
-<iframe width="0" height="0" style="position:absolute; visibility:hidden;" id="loginFrame" onload="loginFramePostProcess();"></iframe>
-</div>
-<script language="JavaScript" src="/cookies.js" type="text/javascript"></script>
-<script language="JavaScript1.2">
-<!--
-    var boolCompliant = false;
-    try{boolCompliant = isCompliantBrowser();}catch(e){};    
-    if( (getCookie("LoginCookie") != null || getCookie("RememberCookie") != null) && (isSafari == true || isOpera == true || isGecko == true)){
-        // alert("this should only show for safari and opera");
-        if( getCookie("ErrorCookie") == null){
-            loginFramePostProcess();             
-        }
-    };
-    if( getCookie("ErrorCookie") != null && (isSafari == true || isOpera == true || isGecko == true)){
-        //   alert("Error cookie for  safari, firefox and opera");
-        loginFramePostProcess();             
-    };
-    if( getCookie("LoginCookie") == null && getCookie("RememberCookie") == null ){
-        if( getCookie("ErrorCookie") == null){
-            //  alert("no error cookie, showLoginBox next");
-            showLoginBox();              
-        }
-        // alert ("buildLoginFrame next");
-        buildLoginFrame();
-    }
-    if( getCookie("ErrorCookie") != null ) WM_killCookie("ErrorCookie", "/", ".amtrak.com");
--->
 </script>
 
-<div id="CMS_leftNav_top" style="position:absolute;"></div>
+<script>
+function loadScript(url, callback){
 
+    var script = document.createElement("script")
+    script.type = "text/javascript";
 
+    if (script.readyState){  //IE
+        script.onreadystatechange = function(){
+            if (script.readyState == "loaded" ||
+                    script.readyState == "complete"){
+                script.onreadystatechange = null;
+                callback();
+            }
+        };
+    } else {  //Others
+        script.onload = function(){
+            callback();
+        };
+    }
 
-		
-		
-			
-			
-			
-			
-			
-			
-			
-			
-		
-
-
+    script.src = url;
+    document.getElementsByTagName("head")[0].appendChild(script);
+}
+</script>
+<script type="text/javascript">
+loadScript("https://svr1.unicaondemand.com/ods/js/imodTag.js", function(){});
+</script>
+<!--**END Unica Tagging--><!-- SSO Javascript Start -->
+	<script type="text/javascript">
+	        var agrHost = (("https:"== document.location.protocol) ? "https://agr.amtrak.com/m/js":"http://agr.amtrak.com/m/js"); 
+          	        document.write(
+                      unescape("%3Cscript src='" + agrHost + "/shoebox-simple.js' type='text/javascript'%3E%3C/script%3E")
+                    );
+                                                       
+	 </script><script src="https://agr.amtrak.com/m/js/shoebox-simple.js" type="text/javascript"></script>
+<!-- SSO Javascript End --><!--**Start MotionPoint Tagging-->
+<script type="text/javascript" id="mpelid" src="//espanol.amtrak.com/mpel/mpel.js"></script>
+<!--**END MotionPoint Tagging--><!-- END WEB TRENDS --><!--END WEB TRENDS -->
 	
-
-
-
-
-			<table border="0" cellpadding="2" cellspacing="1" width="160">
-		<tbody><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1178294095327&amp;ssid=10912" class="smallwhite">Amtrak.com User Profile Login Changes</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Navigation_Page&amp;c=Page&amp;cid=1081954181602&amp;ssid=262" class="smallwhite">Using the Amtrak Web Site</a></td></tr><tr><td colspan="3" class="smallwhite"><span class="small">Privacy Policy</span>&nbsp;<img src="http://www.amtrak.com/images/arrows.gif" border="0"></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Collection_Page&amp;c=Page&amp;cid=1080080555448&amp;ssid=5801" class="smallwhite">Terms of Transportation</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081373672784&amp;ssid=5931" class="smallwhite">Site Terms of Use</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/Page/Contact_Us_Page&amp;c=Page&amp;cid=1080772074464&amp;ssid=6061" class="smallwhite">Contact Us</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081794201487&amp;ssid=284" class="smallwhite">Browser Requirements</a></td></tr><tr><td colspan="3" class="smallwhite" width="160"><a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/am2Copy/Simple_Copy_Page&amp;c=am2Copy&amp;cid=1081256322108&amp;ssid=6191" class="smallwhite">Search Help</a></td></tr>
-			</tbody></table><br>
-		
-<div id="CMS_leftNav_bottom" style="position:absolute;"></div>
-
-		
-		
-	
-		<br>
-		<img src="/images/spacer-blue.gif" width="180" height="1" alt="spacer">
-	</td>
-	<td valign="top" width="595">
-
-		<!-- vertical spacer to lengthen shorter pages -->
-		<!-- <img src="/images/spacer.gif" width="1" height="315" align="right" border="0"> -->
-
-		<table border="0" cellpadding="0" cellspacing="10" width="100%">
-		<tbody><tr>
-			<td valign="top" width="595">
-
-				<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td valign="center" align="left" width="100%">
-						<span class="headline">Privacy Policy</span><br><br>
-					</td>
-				
-						<td valign="top" align="right" width="50%">
-							<img src="/images/pressroom/PR_privacy.jpg" height="150" width="300" alt="Privacy" border="0">
-						</td>
-				
-				</tr>
-				</tbody></table>
-			
-			</td>
-		</tr>
-		<tr>
-			<td valign="top" class="smallgray">
-			
-				<!-- body text -->
-				<font class="bodytext">
-				
-				<p class="subheadblue">Section 1 — Introduction</p>
-
-<p>At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using the Amtrak.com web site. This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using the Amtrak.com web site (referred to here as "Amtrak.com" or the "site", and accessible on the Web at www.amtrak.com), you acknowledge that you understand and expressly agree to this Policy.</p>
-
-<p>When you use Amtrak.com, we may collect information about your visit to the site and information that you provide. This Policy describes:</p>
-
-<ul>
-<li>What personal and other information we collect (Section 2).</li>
-
-<li>How your personal information is used (Section 3).</li>
-
-<li>With whom your personal information may be shared and Your California Privacy Rights (Section 4).</li>
-
-<li>What security precautions we implement to protect the loss, misuse or alteration of your personal information, including your credit card information (Section 5).</li>
-
-<li>How you can access, update, correct, or delete the personal information we collect from you (Section 6).</li>
-
-<li>What choices you have regarding the collection, use, and distribution of your personal information, including your ability to choose to receive promotional information by e-mail (Section 7).</li>
-
-<li>How you can contact us regarding this Policy and our privacy practices (Section 8).</li>
-
-<li>What special privacy practices and rules are in place regarding the Amtrak Guest Rewards program web site (Section 9).</li>
-</ul>
-
-<p>Please note that this Policy only addresses Amtrak privacy practices concerning information we collect from the Amtrak.com web site (www.amtrak.com) and the Amtrak Guest Rewards web site (www.amtrakguestrewards.com), and not other sites or other sources. This policy does not apply to information that we may collect from any other source or from other Amtrak activities or programs.</p>
-
-<p>Please carefully read this Policy before completing a User Profile on Amtrak.com and before enrolling in the Amtrak Guest Rewards Program. If you also plan to enroll as a Member in the Amtrak Guest Rewards Program through the Amtrak Guest Rewards web site, please also carefully read Section 9 of this Policy, which contains special supplemental privacy practices and rules that apply to the personal information that you provide to us to become a Member in the Amtrak Guest Rewards Program.</p>
-
-<p><span class="bluebold"><span class="subheadorange"><span class="subheadorange">A Note About Changes to This Policy</span></span><br>
-</span>Please note that this Policy may change without special notice to you. Please check back to review this Policy whenever you visit the site as you will be deemed to have read, understood, received notice of, and agreed to any changes. This Policy supercedes all previous statements or policies concerning Amtrak's collection of personal information from the Amtrak.com web site.</p>
-
-<p>The date of the last update to this Policy is always indicated near the top of the page and any change in the date of this Policy since the last time you had visited the site shall constitute notice to you that the Policy has changed since the last time you visited the site. You may also see periodic statements displayed on the site notifying you that our Policy has changed, especially in places where we collect personal information from you. The last update to this Policy shall also be its effective date.</p>
-
-<p class="subheadblue">Section 2 — The Personal Information We Collect from You on Amtrak.com and How We Collect It</p>
-
-<p>We collect personal information in several ways from several different parts of the site. The information we collect includes two basic kinds: (1) information that can identify you as a specific individual, such as your name, telephone number, or e-mail address, and (2) information that we use only as data in the aggregate. We do not knowingly collect personal information from individuals under the age of 13.<br>
-<br>
-We ask for and collect personal information in the following circumstances:</p>
-
-<p><span class="subheadorange">1. When you register on Amtrak.com and create a User Profile</span><br>
-When you register on Amtrak.com and create a User Profile, we ask for the following personal information:</p>
-
-<ul>
-<li>Name</li>
-
-<li>Addresses (home, billing)</li>
-
-<li>Telephone number</li>
-
-<li>E-mail address</li>
-
-<li>Favorite departure and arrival points (optional)</li>
-
-<li>Password</li>
-
-<li>Preferred passenger discount type</li>
-
-<li>AAA, NARP, Student Advantage, ISIC, Veterans Advantage membership numbers (optional)</li>
-
-<li>Amtrak Guest Rewards number (optional)</li>
-
-<li>Whether you want to receive e-mail updates</li>
-</ul>
-
-<p>We store this information in your User Profile which allows us to provide you with better service when you make reservations online. We are able to pre-populate information for you during the reservations booking process, so you will not have to re-enter it each time you book a reservation.</p>
-
-<p><span class="subheadorange">2. When you purchase tickets and make a reservation online</span><br>
-We collect a certain amount of personal information about you (and, if necessary, your traveling companions) when you make reservations and purchase tickets online, whether you purchase tickets while logged in with a User Profile, or while not logged in (i.e., as a guest). We use this information to fulfill your booking requests. This information includes:</p>
-
-<ul>
-<li>Your name</li>
-
-<li>E-mail address</li>
-
-<li>Mailing address (if necessary)</li>
-
-<li>Billing address</li>
-
-<li>Telephone number</li>
-
-<li>Credit card type, number, expiration date, and security ID</li>
-
-<li>Travel and reservation information (departure and arrival points, dates of travel, train number, accommodations, names and number of travelers in your party, fares)</li>
-
-<li>Passenger discount types (if any)</li>
-
-<li>Ticket pick-up/delivery options</li>
-
-<li>Promotional codes used (if any)</li>
-</ul>
-
-<p>If you use the site to purchase tickets for more than one person, we also ask for the name of each person traveling so that we may issue a ticket in each passenger's correct name. We do not use these names of other passengers for any other purpose. We may also ask for your telephone number so that we can contact you in the event that there is a major scheduling change or cancellation of your train.</p>
-
-<p>In addition, when you purchase tickets while logged in to the Amtrak.com site with a User Profile, we also save information about your canceled reservations, if any. Also, if you choose, we can save trip information regarding trips that you have researched, but have not yet booked. You also have the option to view a list of confirmed reservations you made online, as well as any canceled trips.</p>
-
-<p><span class="subheadorange">3. When you make purchases of Amtrak merchandise online<br>
-</span>We collect some personal information from you when you make purchases through our online store for the purpose of fulfilling your order. This information includes:</p>
-
-<ul>
-<li>Name</li>
-
-<li>Address</li>
-
-<li>E-mail address</li>
-
-<li>Credit card type, number, expiration date</li>
-
-<li>Dollar amount purchased</li>
-</ul>
-
-<p><span class="subheadorange">4. When you enroll in the Amtrak Guest Rewards Program</span><br>
-When you become a member of the Amtrak Guest Rewards Program, we collect the following information about you:</p>
-
-<ul>
-<li>Name</li>
-
-<li>Primary Address</li>
-
-<li>Home station location</li>
-</ul>
-
-<p>We also request other information, which you may optionally provide, including your:</p>
-
-<ul>
-<li>E-mail address</li>
-
-<li>Company name</li>
-
-<li>Telephone number</li>
-
-<li>Income range</li>
-
-<li>Purpose of most travel</li>
-
-<li>Home station location</li>
-
-<li>Date of birth</li>
-
-<li>Gender</li>
-
-<li>Location of email address</li>
-
-<li>Secondary address and location</li>
-</ul>
-
-<p><span class="subheadorange">5. When you request travel and promotional information</span><br>
-When you request information online, such as brochures, timetables and gift catalogs, we collect information from you that is necessary to fulfill our service obligations to you. This information may include your name, address and telephone number.</p>
-
-<p><span class="subheadorange">6. When you contact us through the site<br>
-</span>If you contact Amtrak.com through our 'Contact Us' page, we may keep a record of that correspondence which includes your e-mail address and any other information you provide to us in your correspondence.</p>
-
-<p><span class="subheadorange">7. When you browse and otherwise use the web site (Cookies)<br>
-</span>Each time you visit Amtrak.com, we collect some information automatically about your computer by means of a "cookie". A cookie is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. You can always choose not to receive cookies by setting your web browser's options to refuse to accept cookies.</p>
-
-<p>Generally, we use cookies to:</p>
-
-<ul>
-<li>Remind us of who you are and to access your account information (stored on our secure servers) to deliver to you a better and more personalized service. This cookie is set when you begin the booking process or enter your login ID and password.</li>
-
-<li>Estimate our audience size. Each browser accessing the site is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on your interests and behavior.</li>
-
-<li>Measure and track certain traffic patterns, including information like the areas of the site you have visited, and your visiting patterns in the aggregate. We may use this information to better personalize the content, banners, and promotions that you and other users will see on the site.</li>
-</ul>
-
-<p>In addition, we collect certain technical information from your computer each time you request a page during a visit to the site. This information is collected from your computer's Web browser and may include your IP address, operating system and Web browser software (e.g., Internet Explorer or Netscape).</p>
-
-<p class="subheadblue">Section 3 — How We Use Your Personal Information</p>
-
-<p>We use the information that you provide or that we otherwise collect while you're using the site in the following ways:</p>
-
-<ul>
-<li>To process your ticket purchases.</li>
-
-<li>To keep track of your reservations, saved plans, canceled reservations, and travel preferences.</li>
-
-<li>To make your experience on the site more enjoyable and to provide you with offers and products that meet your particular interests.</li>
-
-<li>To help us refine site design and layout, improve site content, and compile demographic information about site visitors.</li>
-
-<li>To help us understand how customers use our site.</li>
-
-<li>To communicate with you in order to fulfill our service commitments.</li>
-
-<li>To notify you about special offers, promotions and site enhancements by e-mail, when you choose to receive them.</li>
-
-<li>When you shop online on our site: If you make an online purchase from the site, we use the information obtained during your visit, such as your credit card number and contact information, to process the order. To learn more about how we keep your credit card information secure, please refer to Section 5 of this Policy.</li>
-</ul>
-
-<p class="subheadblue">Section 4 — With Whom We Share Your Personal Information</p>
-
-<p><span class="subheadorange">In General<br>
-</span>We work with certain reputable independent contractors who perform certain tasks for us on a contract basis. These tasks and categories of contractors include storing and managing customer information, and providing advice about and support for our products and services. By using these contractors, we can better offer you a variety of products and services. A partial list of the services we contract for includes the following:</p>
-
-<ul>
-<li>Amtrak Guest Rewards Program management</li>
-
-<li>Amtrak e-mail services</li>
-
-<li>Customer data storage and processing</li>
-
-<li>Order fulfillment</li>
-
-<li>Amtrak Vacations</li>
-
-<li>Hotel Reservations</li>
-
-<li>Car rental reservations</li>
-</ul>
-
-<p>In addition to our contractors, we also have relationships with certain trustworthy business partners of another category who would like you to be provided with information about their various products and services that we believe would be of interest to you. We share your personal information with these business partners.</p>
-
-<p>If you make a request for information about, subscribe to, or make an online purchase of, goods or services offered by one of our business partners on the Amtrak.com site, you are giving us your express permission to share your personal information with that business partner so that your request, subscription, or purchase can be fulfilled under that partner's own online privacy policies and practices. If you enter an Amtrak sweepstakes or contest online, your personal information may be shared with the Amtrak business partners who are co-sponsors of the sweepstakes or contest and who are likely to have different privacy policies and practices than Amtrak.</p>
-
-<p><span class="subheadorange">Your California Privacy Rights</span><br>
-If you are a California consumer, upon your request (see Section 8 of this Policy entitled “Contacting Us Regarding This Policy”), we will disclose to you what personal information of yours was shared with what third party business partner within the last year (including disclosing to you our partner’s name and address) if such information was used by our partner for their marketing purposes.</p>
-
-<p><span class="subheadorange">Data in the Aggregate<br>
-</span>We may disclose aggregated user statistics (for example, a statistic indicating that 45% of our users are female) to describe our services to prospective partners, advertisers, and other selected third parties, and for other lawful purposes.</p>
-
-<p><span class="subheadorange">Reservation of Rights</span><br>
-We reserve the right to disclose personal information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating this Policy or who may be causing injury to or interference with (either intentionally or unintentionally) Amtrak's rights or property, other Amtrak users, or anyone else who could be harmed by such activities. We may disclose or access account information for administrative or other purposes that we deem necessary to maintain or improve our products, services or the operation of this site, for law enforcement purposes, or when we believe in good faith that the law requires it.</p>
-
-<p><span class="subheadorange">Other Sites May Collect Information</span><br>
-Please also be aware that when you click on an advertisement on another site that is linked to Amtrak.com, or when you otherwise use web sites that link to the Amtrak.com site, your personal information may be collected by those sites. This Policy does not cover the privacy practices of any such other web sites, and we cannot accept responsibility or liability for the privacy practices of those other sites. Please refer to those sites' privacy policies for information about their practices.</p>
-
-<p><span class="subheadorange">Special Note for Amtrak Guest Rewards Program Members<br>
-</span>When you join the Amtrak Guest Rewards Program, you agree to allow Amtrak to share with participating business partners of the Amtrak Guest Rewards program your personal information for the purpose of providing you with information and promotions. Please refer to Section 9 of this Policy to learn about how the Amtrak Guest Rewards Program uses your personal information.</p>
-
-<p class="subheadblue">Section 5 — What Security Precautions We Have in Place to Protect the Loss, Misuse, or Alteration of Your Personal Information</p>
-
-<p>When you make reservations, place orders, or access account information from the site, we use SSL ("Secure Sockets Layer") encryption technology to safeguard the confidentiality of your personal information and protect your credit card information as it travels over the Internet. Once we receive your credit card information, it is stored offline in our secure data center. We protect against unauthorized access all of the customer data we collect by means of firewalls and other security<br>
-measures.</p>
-
-<p>Your User Profile Information and Amtrak Guest Rewards Membership Account Information (should you enroll in the Amtrak Guest Rewards Program) are password-protected. We recommend that you do not divulge your password to anyone. Also remember to sign out of your Amtrak account and close your browser window when you have finished. This is to ensure that others cannot access your personal information and correspondence if you share a computer with someone else or are using a computer in a public place like a library or Internet "cafe."</p>
-
-<p>When you give Amtrak personal information online, that information may be sent electronically to servers outside and separate from Amtrak and outside of the state where you originally entered the information. In addition, that information may be used, stored and processed outside of Amtrak and outside of the state where you entered that information. Whenever we handle personal information as described above, regardless of where this occurs, we take steps to ensure that your personal information is treated securely.<br>
-</p>
-
-<p>Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, we cannot ensure or warrant the security of any information you transmit to Amtrak.com, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems. However, we cannot accept liability for disclosure of any personal information due to errors in transmission or unauthorized ads or errors and omissions of third parties.</p>
-
-<p class="subheadblue">Section 6 — Our Policy on Allowing You to Access, Update, Correct, or Delete Your Personal Information Collected from Amtrak.com</p>
-
-<p>When you register on Amtrak.com and create a User Profile, you can choose not to receive information and offers by e-mail.</p>
-
-<p>You may change your preferences regarding whether you want to receive mail or e-mail at any time by accessing and updating your User Profile. You may access your User Profile by clicking on the 'My User Profile' link in the left navigation bar on most pages of the Amtrak.com web site.</p>
-
-<p>You may make changes to your Amtrak Guest Rewards Program information by contacting the Amtrak Guest Rewards Service Center at 1-800-307-5000 or by accessing your Amtrak Guest Rewards account information online at www.amtrakguestrewards.com.</p>
-
-<p>If you have processed a request to delete, correct, or update any part of your User Profile or Amtrak Guest Rewards Membership Account, we will make every reasonable effort to see that your instructions to delete and/or make revisions are also communicated to and/or accessed by our contract service providers who may have received your personal information and that they too have either deleted and/or revised the information in accordance with your latest instructions. Changes made in either your User Profile or Amtrak Guest Rewards Membership Account will not be reflected in the other account until you make such changes.</p>
-
-<p>Please note that our contract service providers require a reasonable amount of time to update, correct, or delete the information in accordance with your instructions.</p>
-
-<p class="subheadblue">Section 7 — Your Choices Regarding Collection, Use, and Distribution of Your Personal Information, Including Your Ability to Choose Not to Receive Promotional Information by E-mail</p>
-
-<p>We may, from time to time, send e-mail correspondence regarding Amtrak products and services to customers who have a User Profile and who have opted into the e-mail program.</p>
-
-<p>We also may, from time to time, offer you the choice to receive promotional information about our trustworthy business partners by e-mail. If you do not want to receive such e-mail messages, you will have the opportunity to indicate your choice when such services are offered. You also may change your e-mail preferences at any time by accessing your User Profile or Amtrak Guest Rewards Program account information.</p>
-
-<p class="subheadblue">Section 8 — Contacting Us Regarding This Policy and Regarding Your California Privacy Rights</p>
-
-<p>If you have questions or concerns regarding this Policy, you may use the form on the 'Contact Us' page at the top of most pages on the Amtrak.com web site. You may access the 'Contact Us' page by clicking the link at the top of most pages on this site.</p>
-
-<p>California Civil Code § 1798.83 entitles residents of California to request information concerning with which third parties Amtrak has shared personal information in the immediately preceding calendar year for those third parties’ direct marketing purposes. California residents may submit <strong>one</strong> request per calendar year in the form of a report that details: (a) what types of information Amtrak shared, (b) with whom Amtrak shared such information and (c) the nature of the third parties’ businesses.</p>
-
-<p>California residents may submit their request for this report to:</p>
-
-<p>Amtrak California Privacy Rights<br>
-10 G Street N.E.<br>
-Suite 3E-565<br>
-Washington, DC 20002</p>
-
-<p class="subheadblue">Section 9 — Special Privacy Practices and Rules for the Amtrak Guest Rewards Program</p>
-
-<p><span class="subheadorange">Introduction</span><br>
-If you enroll as a member of the Amtrak Guest Rewards Program, there are special supplemental privacy practices and rules that apply to the personal information that you provide. These special rules and privacy practices, which you understand and expressly agree to when you join the Amtrak Guest Rewards Program, are presented below. Please note that these special rules and practices pertain only to the Amtrak Guest Rewards Program. They do not apply to the personal information that you provide to us on other portions of Amtrak.com.</p>
-
-<p>In the event of any inconsistency between any portion of Section 9 and any other portion of this Policy, that portion of Section 9 that is inconsistent with any other portion of this Policy supercedes and governs over the inconsistent Policy term(s) with respect to the privacy rules and practices of the information collected under the Program.</p>
-
-<p><span class="subheadorange">Information Collection<br>
-</span>When you become an Amtrak Guest Rewards Member, we collect your name, address, country and home station. We may request other information which you may provide at your option. This optional information includes your e-mail address, company name and address, income range, work telephone number, purpose of most travel, home station location, and date of birth.</p>
-
-<p>The Amtrak Guest Rewards Program may also receive personal information about you from participating business partners of the Program.</p>
-
-<p><span class="subheadorange">Choices are available to you regarding the use and sharing of your personal information</span><br>
-By joining the Amtrak Guest Rewards Program, you expressly give us your permission that the personal information that you have provided to us by joining the Amtrak Guest Rewards Program may be accessed by or shared with our program's trustworthy business partners through our reputable contract service providers under that partner's own policies and practices.</p>
-
-<p>In addition, you agree that we may update and/or revise database information that we currently have about you. You also agree that we may send you by mail information about the Program, and other information, including information provided by our Program's participating business partners. These practices are necessary to administer the Program and its services. We will also inform you about special offers and promotions regarding products and services that may be of interest to you.</p>
-
-<p>When you enroll in the Program, you may elect not to receive special information and offers by e-mail. You may also at any time change your preferences regarding whether you want to receive mail or e- mail by contacting the Amtrak Guest Rewards Program Service Center at 1-800-307-5000. Your desire to receive e-mail may also be changed online by accessing your Membership Account. You will find a convenient link to your account information on the Amtrak Guest Rewards Home Page at www.amtrakguestrewards.com.</p>
-
-<p>Updated: December 1, 2006</p>
-
-				</font>
-
-			</td>
-
-			
-		</tr>
-
-	
-			<!-- horizontal spacing row to align things right -->
-			<tr>
-				<td><img src="/images/spacer.gif" width="585" height="1"></td>
-			</tr>
-	
-		</tbody></table>
-	</td>
-</tr>
-
-<!-- footer -->
-<tr>
-	<td bgcolor="#4a7db0">&nbsp;</td>
-	<td>
-		<table width="100%" cellspacing="0" cellpadding="5" border="0">
-		<tbody><tr>
-			<td>
-
-				
-
-
-
-
-
-
-	
-
-
-
-	<table width="388" border="0" cellpadding="1" cellspacing="0" align="center">
-	<tbody><tr>
-		<td class="small"><img src="http://www.amtrak.com/images/spacer-orange.gif" width="388" height="1" vspace="2" border="0" alt="spacer"></td>
-	</tr>
-	<tr>
-		<td class="FooterBlue" align="CENTER" width="100%">
-			<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/InsideAmtrak" class="FooterBlue">Inside Amtrak</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak/PressRoom" class="FooterBlue">News &amp; Media</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2Fam2Copy%2FTitle_Image_Copy_Page&amp;c=am2Copy&amp;cid=1093554048998" class="FooterBlue">Route Atlas</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=WhistleStop%2FWSHomePage%2FWhistleStop_Homepage&amp;c=WSHomePage&amp;cid=1158158275015" class="FooterBlue">Whistle Stop</a>
-		</td>
-	</tr>
-	<tr>
-		<td><img src="http://www.amtrak.com/images/spacer.gif" width="388" height="1" border="0" alt="spacer"></td>
-	</tr>
-		<tr><td class="FooterBlue" align="CENTER" width="100%">
-			<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2FPage%2FCollection_Page&amp;c=Page&amp;cid=1080080555448" class="FooterBlue">Terms of Transportation</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2Fam2Copy%2FTitle_Image_Copy_Page&amp;c=am2Copy&amp;cid=1080772074485" class="FooterBlue">Privacy</a>&nbsp;|&nbsp;<a href="http://www.amtrak.com/servlet/ContentServer?pagename=Amtrak%2Fam2Copy%2FTitle_Image_Copy_Page&amp;c=am2Copy&amp;cid=1081373672784" class="FooterBlue">Terms of Use</a>
-		</td>
-	</tr>
-	<tr>
-		<td class="small"><img src="http://www.amtrak.com/images/spacer-orange.gif" width="388" height="1" vspace="2" border="0" alt="spacer"></td>
-	</tr>
-	<tr>
-		<td><img src="http://www.amtrak.com/images/spacer.gif" width="392" height="1" border="0" alt="spacer"></td>
-	</tr>
-	<tr>
-		<td colspan="2" class="smallgray" align="CENTER" width="100%">
-			© 2009 National Railroad Passenger Corporation
-		</td>
-	</tr>
-	</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-				
-			</td>
-			
-			
-			
-		</tr>
-		</tbody></table>
-				
-	</td>
-</tr>
-<!-- footer -->
-
-<tr>
-	<td colspan="2">
-		<img src="/images/spacer.gif" width="585" height="1">
-	</td>
-</tr>
-
-</tbody></table>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </body></html>
