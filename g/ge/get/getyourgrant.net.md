@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getyourgrant.net privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106161119id_/http%3A//www.getyourgrant.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getyourgrant.net privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010102203id_/http%3A//www.getyourgrant.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GetYourGrant.net
 
@@ -23,5 +23,3 @@ By using cookies and action tags together, we are able to gain valuable informat
 WHO DO I CONTACT IF I HAVE ANY PRIVACY QUESTIONS??If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us at contact@getyourgrant.net.
 
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES. Last modified as of Aug 6th, 2008
-
-#### Related posts
