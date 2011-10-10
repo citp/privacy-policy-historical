@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khon2.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516083501id_/http%3A//www.khon2.com/content/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khon2.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010133712id_/http%3A//www.khon2.com/content/about/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | KHON2 Hawaii's News Leader
 
