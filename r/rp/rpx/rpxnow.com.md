@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rpxnow.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127141415id_/https%3A//rpxnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpxnow.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011015819id_/https%3A//rpxnow.com/privacy) for the most accurate reproduction.*
 
 # Janrain: User management platform for the social web
+
+## Janrain Privacy Policy
 
 Welcome to Janrain Engage, the simple, consistent, secure authentication and data portability service. We take your privacy seriously; therefore, below we provide you with our privacy policy, where we intend to be transparent about any information we collect, how we intend to use it to your benefit, and what choices you have when you register with us and use Janrain Engage. 
 
