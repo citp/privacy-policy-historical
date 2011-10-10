@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the hairstylescut.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124053303id_/http%3A//www.hairstylescut.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairstylescut.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011012126id_/http%3A//www.hairstylescut.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Home
+
+  
+
 
 Internet User Information & Privacy Policy
 
@@ -11,6 +14,3 @@ For each user visit to our website, our Web server automatically recognizes some
 There are cases where you may voluntarily provided us your personal information like the email address in response to a particular ad, or by corresponding with the webmaster of Hairstylescut.com . In such cases, we will not sell or share any of your personal information with any organization or any third party.
 
 You can contact us at info [AT] hairstylescut.com, for any inquires regarding this privacy policy.
-
-  
-
