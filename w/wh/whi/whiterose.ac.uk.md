@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whiterose.ac.uk privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429035733id_/http%3A//www.whiterose.ac.uk/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whiterose.ac.uk privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010074958id_/http%3A//www.whiterose.ac.uk/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement | www.whiterose.ac.uk
 
