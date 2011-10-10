@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cyfe.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219182546id_/http%3A//www.cyfe.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyfe.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010163704id_/http%3A//www.cyfe.com/policy.php) for the most accurate reproduction.*
 
-# Cyfe - Privacy Policy
+# Privacy Policy | Cyfe
 
-This document was last updated on November 10th, 2007.
+This document was last updated on August 25th, 2009.
 
 **Acknowledgement and acceptance of terms**  
 
@@ -47,7 +47,7 @@ Some of these Web beacons may be placed by third party service providers to help
 **Accessing Web Account Information**  
 
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting our support staff [here](https://web.archive.org/web/20081219182546id_/http%3A//www.cyfe.com/contact.php).
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting our support staff [here](https://web.archive.org/web/20111010163704id_/http%3A//www.cyfe.com/contact.php).
 
 **Changes to this Statement**  
 
@@ -57,4 +57,4 @@ Cyfe has the discretion to occasionally update this privacy statement. When we d
 **Contacting Us  
 **
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](https://web.archive.org/web/20081219182546id_/http%3A//www.cyfe.com/contact.php). Cyfe will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us [here](https://web.archive.org/web/20111010163704id_/http%3A//www.cyfe.com/contact.php). Cyfe will use commercially reasonable efforts to promptly respond and resolve any problem or question.
