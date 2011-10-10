@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codecharge.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514084246id_/http%3A//www.yessoftware.com/content.php%3Fcontent_id%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codecharge.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010045255id_/http%3A//www.yessoftware.com/content.php%3Fcontent_id%3Dprivacy) for the most accurate reproduction.*
 
 # YesSoftware Privacy Policy
 
