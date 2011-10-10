@@ -1,19 +1,12 @@
-> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610091103id_/http%3A//www.fuckmymommyandme.com/cimages/legal/privacy.html%3Fsite%3Dfuckmymommyandme) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckmymommyandme.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010060714id_/http%3A//www.fuckmymommyandme.com/cimages/legal/privacy.html%3Fsite%3Dfuckmymommyandme) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 ### Privacy Policy Statement
 
-This website (the "Site") is operated by Protranstech BV and SRO 3 Inc.
+This website (the "Site") is operated by FST 8 Inc.
 
-Protranstech BV  
-Postbus 218  
-Ijmudien  
-Netherlands  
-1970AE  
-
-
-SRO 3 Inc.  
+FST 8 Inc.  
 30150 Telegraph Rd  
 Suite 444  
 Bingham Farms  
@@ -65,6 +58,6 @@ There may be occasions when a subscriber will be presented with special offers e
 
 ## Terms and Conditions of Membership:
 
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](http://www.customerhelponline.com/l/terms.html?site=fuckmymommyandme) may also affect the right of this Site to use information that it has gathered from subscribers. 
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/web/20111010060714id_/http%3A//www.fuckmymommyandme.com/cimages/legal/terms.html?site=fuckmymommyandme) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
