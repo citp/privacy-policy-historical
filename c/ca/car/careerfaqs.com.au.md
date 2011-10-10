@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310013910id_/http%3A//www.careerfaqs.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerfaqs.com.au privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010123119id_/http%3A//www.careerfaqs.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy conditions and policies – Career FAQs
 
