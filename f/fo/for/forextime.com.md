@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the forextime.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611124153id_/http%3A//forextime.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextime.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010213455id_/http%3A//forextime.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy & Refund Policy
 
-[ ](https://web.archive.org/ "Main Page")
+[ ](https://web.archive.org/en/ "Main Page")
 
   * [ Just  
 Beginning? ](https://web.archive.org/beginner/)
@@ -11,15 +11,15 @@ a client ](https://web.archive.org/become_a_client/)
   * [ Our trading  
 terms ](https://web.archive.org/trading_terms/)
   * [ Trading  
-platform ](https://web.archive.org/trading_platforms/)
+platforms ](https://web.archive.org/trading_platforms/)
   * [ Managed  
 accounts ](https://web.archive.org/invest/)
   * [ Become  
 a partner ](https://web.archive.org/become_a_partner/)
   * [ Deposits &  
 withdrawals ](https://web.archive.org/deposit_withdrawal/)
-  * [ Economic  
-calendar ](https://web.archive.org/forex_research/)
+  * [ Forex  
+Analytics ](https://web.archive.org/forex_research/)
   * [ About  
 ForexTime ](https://web.archive.org/about_company/)
 
@@ -89,13 +89,12 @@ In exceptional cases, ForexTime may refund payments made by credit or debit card
 
 Should you have any questions about this Policy do not hesitate to contact us: [info@forextime.com](mailto:info@forextime.com).
 
-18 Stanley Street, Parnell, Auckland, 1010, New Zealand
+Risk Disclaimer: Trading with leverage is a high-risk activity. Your losses may potentially exceed your initial deposit. Before you start trading,  
+you should completely understand the risks involved with the currency market and be aware of your level of experience in trading.
 
-ForexTime NZ Limited
+Registration number: [3274608](http://www.business.govt.nz/companies/app/ui/pages/companies/3274608?backurl=%2Fcompanies%2Fapp%2Fui%2Fpages%2Fcompanies%2Fsearch%3Fmode%3Dstandard%26type%3Dentities%26q%3Dforex%2520time) Registration number for financial services provider: [FSP111064](http://www.business.govt.nz/fsp/app/ui/fsp/version/searchSummaryCompanyFSP/FSP111064/1.do)
 
-Registration number: [3274608](http://www.business.govt.nz/companies/app/ui/pages/companies/3274608?backurl=%2Fcompanies%2Fapp%2Fui%2Fpages%2Fcompanies%2Fsearch%3Fmode%3Dstandard%26type%3Dentities%26q%3Dforex%2520time)
-
-Registration number for financial services provider: [FSP111064](http://www.business.govt.nz/fsp/app/ui/fsp/version/searchSummaryCompanyFSP/FSP111064/1.do)
+18 Stanley Street, Parnell, Auckland, 1010, New Zealand ForexTime NZ Limited
 
 © 2011 ForexTime
 
