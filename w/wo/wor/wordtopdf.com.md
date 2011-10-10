@@ -1,93 +1,140 @@
-> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2004-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041209055350id_/http%3A//www.datafabrication.com/main_content.asp%3Fpageid%3D180) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordtopdf.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010161516id_/http%3A//wordtopdf.com/privacy.htm) for the most accurate reproduction.*
 
-# Data Fabrication: Internet fax products, ecommerce products and services, and custom application and web development. data fabrication,internet fax,fax,fax from word,fax products,web design,web development,web designer,ecommerce,e-commerce,web programming,web marketing,internet development,web design company,website marketing,chicago web design,e-commerce development,web design illinois,ecommerce development,e-commerce developer,ecommerce developer
+# PDF to Word - 100% Free! - The all-new Word-to-PDF Converter
 
-Our Privacy Policy
+At Nitro PDF Software we are committed to ensuring the privacy of your personal information. We understand that privacy of your personal information is important. Our Privacy Policy tells you how we collect, use, distribute and protect personal information. 
 
-  
-By visiting this site, and any other affiliated Data Fabrication sites, and/or using the products and/or services of Data Fabrication and any affiliated companies or subsidiaries, you agree to the following: 
+Nitro PDF Pty. Ltd. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](mailto:privacy@nitropdf.com). If you are not satisfied with our response you can contact[ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). This Privacy Policy governs all sites that link to this policy. 
 
-Personal information 
+Nitro PDF Pty. Ltd. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. NitroPDF has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view NitroPDF’s certification, please visit [www.export.gov/safeharbor/](http://www.export.gov/safeharbor/)
 
-In general, you can visit Data Fabrication on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you. 
+##  Information we collect 
 
-You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail address, to correspond with you, to process an order, or to provide you with a subscription. You may give us your credit card details to buy something from us. We intend to let you know how we will use such information before we collect it from you. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so, and can use such information under the guidelines of this document. 
+The types of information we collect and handle normally comprises:
 
-Using and Sharing Personal Information The following paragraphs describe in more detail how Data Fabrication may use your personal information and with whom we may share it. Depending on the type of Data Fabrication Web site you are visiting, one or more of the paragraphs may apply. For example, if you order a product from a Data Fabrication Web site, your information will be handled as described in such paragraphs as Fulfilling Your Transaction Request and Marketing Use. 
+  * Identity and contact details such as name, email address, phone number, credit card information, and mailing address
+  * Product and service preferences 
 
-Fulfilling your transaction request 
 
-If you request something from a Data Fabrication Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information, with others, for instance, other parts of Data Fabrication, Data Fabrication's Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes. 
 
-Marketing Use 
+Normally, we collect your personal information from you but on occasions we may obtain information about you from others. We may collect additional information about your company to provide better service for volume orders. 
 
-The information you provide to Data Fabrication on certain Data Fabrication Web sites may also be used by Data Fabrication and selected third parties for marketing purposes. 
+We only collect information which is necessary for the purposes of your dealings with us. We do not collect information about anyone's political or religious beliefs, ethnic background, criminal history or sexual preferences.
 
-Information for Business Partners If you represent a Data Fabrication Business Partner, you may visit a Data Fabrication Web site intended specifically for Data Fabrication Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and Data Fabrication Business Partners generally. For instance, this may involve using your information to send you details of Data Fabrication Business Partner programs. It may also include sharing certain information with other Business Partners or Data Fabrication customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes. 
+##  Purpose of collection & use of personal information 
 
-Data Fabrication Supplier Administration 
+The purpose for which we collect this information is to assist us in providing you with the products and services you have requested. We will not use your personal information for any purpose which is not related to the products or services you have requested or for any purpose which you would not reasonably expect us to use the information. We typically use your information for the following purposes:
 
-If you represent a Data Fabrication supplier, you may visit a Data Fabrication Web site intended specifically for use by Data Fabrication suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of Data Fabrication, Data Fabrication's Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other Data Fabrication suppliers generally. 
+###  Registration 
 
-Other Data Fabrication Web Site Notices 
+We request certain personally identifiable information from you on the registration form and to enable you to create a user name and password when applicable. We use this information to contact you about the services on our site in which you have expressed interest. 
 
-In some cases, specific Data Fabrication Web sites may contain other notices about their use and the information practices applicable to those sites. In these cases, such notices supercede this document. 
+###  Orders 
 
-Information Security and Quality 
+If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you.
 
-We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality. However, we shall not be held liable for any breech of such information. 
+###  Bulletin boards/chat rooms/blogs/forums 
 
-Supplementing Information 
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](mailto:privacy@nitropdf.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
-From time to time we may supplement information you give us via a Data Fabrication Web site with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service. 
+###  Customer testimonials/comments/reviews 
 
-Mergers and Acquisitions 
+We post customer testimonials/comments/reviews on our web site which may contain personally identifiable information. We do obtain the customer's consent via email prior to posting the testimonial to post their name along with their testimonial. If you would like to have us remove any of your comments, please [contact us](mailto:privacy@nitropdf.com).
 
-Circumstances may arise where, whether for strategic or other business reasons, Data Fabrication decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. 
+##  Communications from the site
 
-Cookies, Web Beacons and Other Technologies 
+###  Special offers and updates 
 
-We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on Data Fabrication Web sites. This information is sometimes known as "clickstream data." Data Fabrication or others on Data Fabrication's behalf may use this data to analyze trends and statistics and to help us provide better customer service. 
+We will occasionally send you information on products, services, special offers, and promotions. You can sign up for these emails from various pages on our sites. Out of respect for your privacy, we present the option not to receive these types of communications. Please see the “Choice and Opt-out.” 
 
-Also, when we collect personal data from you in a transaction, we may extract some information about that transaction and combine it with other information such as clickstream data. This information is used and analyzed to help us understand trends and patterns, and may be reviewed at an individual level. 
+###  Newsletters 
 
-We collect the information we mentioned in the previous paragraphs through the use of various technologies, including one called "cookies". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as tag that identifies your computer. Some Data Fabrication pages use cookies, sent by Data Fabrication or its third party vendors, or other technologies to better serve you when you return to the Web site. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some Web sites may not work properly. 
+If you wish to subscribe to our newsletter(s), we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
-Some Data Fabrication Web sites also use Web beacon or other technologies to better tailor those sites to provide better customer service. These technologies may be in use on a number of pages across Data Fabrication's Web sites. When a visitor accesses these pages, a non-identifiable notice of that visit is generated which may be processed by us or by our suppliers. These Web beacons usually work in conjunction with cookies. If you don't want your cookie information to be associated with your visits to these pages, you can set your browser to turn off cookies. 
+###  Product/service-related announcements 
 
-Service Quality Monitoring 
+We will send you strictly product/service-related announcements on rare occasions when it is necessary to do so. For instance, to assist you with product usage or notification of product and service maintenance, we might send you an email. 
 
-Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is Data Fabrication's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes. 
+Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you can [contact us](mailto:privacy@nitropdf.com). 
 
-Online Advertising 
+###  Customer Service 
 
-Certain companies help us deliver interactive on-line advertising such as banner ads. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. 
+Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify information you provided. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes.
 
-Personalized URL Link 
+###  Choice/Opt-out 
 
-On occasion, we may personalize and customize Web sites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with Data Fabrication and information you have provided to us. While you are visiting these Web sites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these Web sites is usually presented as a personalized URL in an e-mail, a notice on a Web site registration page, or as a response to you logging on to a certain Web site. 
+We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
-If you choose to visit one of these Web sites, you are agreeing to let Data Fabrication collect information about your visits and also to its association with other information about you and your relationship with Data Fabrication. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [ unsubscribe@nitropdf.com](mailto:unsubscribe@nitropdf.com). 
 
-Disclosures Required By Law 
+###  Sharing and disclosure 
 
-Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
+We will share or sell your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties except as described in this privacy policy (see "Business Transitions") 
 
-Links to non-Data Fabrication Web sites 
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. We will not disclose information about you to anyone else unless the disclosure:
 
-Data Fabrication Web sites may contain links to other Web sites. Data Fabrication is not responsible for the privacy practices or the content of those other Web sites. 
+  * is required by law; or 
+  * is authorized by law (for example to protect our interest or where we have a duty to the public to disclose that information); or 
+  * has been consented to by you. 
 
-Notification of Changes 
 
-This privacy statement was last updated on November 22, 2002. Please visit this page for updates to this policy. It is your responsibility to review our privacy policy at any time you may visit this site, or affiliated Data Fabrication sites. Please be aware that by visiting Data Fabrication site you are agreeing to this document. 
 
-Privacy Questions and Access 
+###  Business Transitions 
 
-If you have a question about this statement, you can send an email to the Data Fabrication Web site coordinator. The address for this is info@datafabrication.com. You can also contact us at this address if you have a question about Data Fabrication's handling of your information. 
+In the event Nitro PDF goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email or prominent notice on our Web site for 30 day of any such change in ownership or control of your personal information. 
 
-This Web site is maintained by Data Fabrication or one of its subsidiaries. 
+##  Access
 
-  
-Copyright © 1997-2004, Data Fabrication, Inc.. All Rights Reserved.  
-[Data Fabrication](http://www.datafabrication.com/)  |  [Site Map](http://www.datafabrication.com/main_sitemap.asp?pageid=213)  |  [Privacy](http://www.datafabrication.com/main_content.asp?pageid=180)  |  [Legal](http://www.datafabrication.com/main_content.asp?pageid=181)  |  [Contact Us](http://www.datafabrication.com/main_contact.asp?pageid=5)   
+You may request that we provide you with access to the personal information we hold about you at any time. We will respond to your request for access within 30 days. If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete/remove or deactivate it by making the change in your account or by [emailing us ](mailto:privacy@nitropdf.com) or by contacting us by postal mail at the contact information listed below. Generally we will be able to provide you with such access. However, where: 
 
+  * the access impacts on the privacy of others; 
+  * the request for access is frivolous or vexatious; 
+  * there are existing or anticipated legal proceedings 
+  * such access can be denied under law or by law enforcement agency; or 
+  * where the information is evaluative. 
+
+
+
+We may not be able to provide you with access to such information. If we deny your request for access, we will let you know why. We may also charge a fee to cover our reasonable costs associated with your request.
+
+##  Personal information security and data retention 
+
+We will take all reasonable precautions to protect your personal information from loss, misuse or alteration. This includes both physical and technological security measures. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services [contact us](mailto:privacy@nitropdf.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+##  Website 
+
+We only collect personal information from our website if you submit details to us via email or forms on our website. The information collected is limited to your email address and the contents of any message you may send to us. Personal information collected from our website will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent. Our website uses various types of cookies and other tracking technologies:
+
+  * Per-session cookies: Used to assess and improve the performance of the web site for our users. These cookies are anonymous and in no way no way identify users. 
+  * Persistent cookies: Used to make areas of the site that require a person to be logged in easier to use. For example, managing Expert Support enquiries.
+  * Third Party Cookies: The use of cookies by third parties such as our tracking utility company and service providers are not covered by our privacy statement. We do not have access or control over these cookies. 
+
+
+
+As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole. We do not link this automatically-collected data to personally identifiable information
+
+###  Clear Gifs (Web Beacons/Web Bugs) 
+
+We and our third party advertising partner employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information.
+
+We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking here: [ http://preferences.truste.com/](http://preferences.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
+
+###  Links to other sites 
+
+This Web site contains links to other sites that are not owned or controlled by Nitro PDF Pty. Ltd. Please be aware that we, Nitro PDF, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site.
+
+##  Changes to our Privacy Policy 
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+This Privacy Policy was last amended March 18, 2011.
+
+###  Contact us 
+
+If you require more detailed information about our information handling practices or if you have any concerns about our handling of your personal information, please let us know by [emailing us ](mailto:privacy@nitropdf.com) or by contacting us by postal mail at the contact information listed below.
+
+Nitro PDF Software  
+717 Market Street, Suite 600  
+San Francisco, CA 94103
