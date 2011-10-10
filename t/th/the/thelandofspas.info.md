@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelandofspas.info privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610200851id_/http%3A//thelandofspas.info/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelandofspas.info privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010030335id_/http%3A//thelandofspas.info/content/privacy-policy.html) for the most accurate reproduction.*
 
 # Very Cheap Hosting - Privacy Policy
 
