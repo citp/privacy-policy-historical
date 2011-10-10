@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sameshow.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108161447id_/http%3A//www.sameshow.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sameshow.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010162744id_/http%3A//www.sameshow.com/company/privacy.html) for the most accurate reproduction.*
 
 # Wondershare Privacy Policy
 
