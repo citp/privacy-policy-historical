@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227180827id_/http%3A//www.anime-sub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-sub.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011002310id_/http%3A//www.anime-sub.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Privacy Policy Episodes Sub Online
-
-## Privacy Policy
-
-May 4th, 2009 
 
 Game advertisements by [Game Advertising Online](http://www.game-advertising-online.com) require iframes.
 
@@ -32,5 +28,3 @@ We use outside ad companies to display ads on our site. These ads may contain co
 Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please contact me through my contact form or send me an email to: animesub@yahoo.com
-
-**Every your review comment will help our site and others very much.Thanks for your contribution.Every report comment will get deleted after i fixed episode.You can report dead link on forum,it will better**
