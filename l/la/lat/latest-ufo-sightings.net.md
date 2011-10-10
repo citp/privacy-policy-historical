@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latest-ufo-sightings.net privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526153023id_/http%3A//www.latest-ufo-sightings.net/2009/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latest-ufo-sightings.net privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010063427id_/http%3A//www.latest-ufo-sightings.net/2009/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Latest-UFO-Sightings: Privacy Policy
 
