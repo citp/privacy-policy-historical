@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the state.ms.us privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515091235id_/http%3A//www.ms.gov/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.ms.us privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010235948id_/http%3A//www.ms.gov/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | The Official State Web Site of Mississippi
 
@@ -59,10 +59,9 @@ To access your Personally Identifiable Information we collect, if any, or to req
 
 | By mail at | MS Dept. of Information Technology Services  
 ATTN: Portal  
-301 North Lamar, Suite 508  
-Jackson, MS 39201-1495  
+3771 Eastwood Dr.  
+Jackson, MS 39211  
 ---|---  
 By telephone at | TOLL FREE: (866) MS1-EGOV (866) 671-3468  
-LOCAL (601) 359-EGOV (601) 359-3468  
-By e-mail at | [Contact Us](https://web.archive.org/web/20110515091235id_/http%3A//www.ms.gov/contact_us.jsp)  
-By fax at | (601) 576-EGOV (601) 576-3468
+LOCAL (601) 432-8168  
+By e-mail at | [Contact Us](https://web.archive.org/web/20111010235948id_/http%3A//www.ms.gov/contact_us.jsp)
