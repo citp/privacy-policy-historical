@@ -1,31 +1,30 @@
-> *The following text is extracted and transformed from the mangareader.net privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811103157id_/http%3A//www.mangareader.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangareader.net privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010053857id_/http%3A//www.mangareader.net/privacy) for the most accurate reproduction.*
 
-# Read Manga Online for Free. Online Manga Reader
+# Privacy Policy
 
-The following webpage outlines MangaReader's collection and use of personal information from it's users. MangaReader.com values the privacy of our members and users, we will never share any personal information of anybody who logs on to MangaReader with anyone. This includes your e-mail address, name, and location. Upon logging on to MangaReader such things as your IP address and hostname are logged for statistical and security reasons.
+### **Privacy Policy**
 
-**Cookies**
+For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
-A cookie is a very small text file placed on your system upon logging on to MangaReader (and most other websites). This file serves as your identification card and is uniquely yours, and can only be read by the server that gave it to you. Cookies tell us that you have returned to a specific web page on MangaReader and help us track your preferences and transactional habits. The basic function of cookies is to help our server remember who you are.
+We collect the IP address and domain name and e-mail address (where possible)  
+of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail.
 
-**Children's Privacy**
+The information we collect is used to improve the content of our Web page, used to notify consumers about updates to our Web site.
 
-MangaReader does not knowingly collect personal data from children under the age of 13. We make reasonable efforts to prevent someone who is underage from joining as a member of MangaReader, and will not collect information from them. If MangaReader learns that a child under the age of 13 has become a member, we will close that child's account and delete any information collected about the child.
+With respect to cookies: We use cookies to record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site and Third Party cookies e.g. "Google".
 
-Not withstanding the foregoing, MangaReader may choose to retain some personal information such as the child's e-mail address as a means to prevent the child from re-registering at our website. The Children's Online Privacy Protection Act (COPPA) went into effect in April 2000, and as a result websites all over the world wide web had to change their standards to not collect any information from a child.
+**Google cookies**
 
-**Disclosing Information**
+\- When you visit mangareader.net,
 
-MangaReader may store and disclose personal information allowed or required by applicable law or when deemed advisable by us. This means that we may make disclosures that are necessary to conform to legal and regulatory requirements or processes and to protect the rights, safety, and property of MangaReader, users of the MangaReader website, and the public.
+**Google** send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser.
 
-**Security**
+**Google** use cookies to improve the quality of their service by storing user preferences and tracking user trends, such as how people search. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Google features and services may not function properly if your cookies are disabled.
 
-At MangaReader we make reasonable efforts to protect personal information such as passwords and use technology such as encryption, access control procedures, firewalls, and physical security. We urge you to use a unique password with both letters and numbers to protect your account on MangaReader and it's affiliated websites. If others, including family, friends or other household members access and use the message board through your login credentials, you are responsible for the actions of that individual. Only in extreme cases will your account be fully terminated.
+If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-**Third Parties**
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 
-Third Party websites may collect information from users of MangaReader, this information will include your IP address, hostname, and information about your system to help us serve you better. These are purely used for statistical reasons, and will not be used in any way other then that. Some programs that may collect this information include: eXTReMe Tracking, Google, Nedstat, and Webalizer.
+Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
 
-**Website Policy Changes**
-
-MangaReader reserves the right to change this, and any other policy located on our website at anytime without notifying our users. If you have any comments, questions, or concerns regarding this policy, or any other policy you may send them to us at policy at MangaReader.NET
+With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.If you feel that this site is not following its stated information policy, you may contact us.
