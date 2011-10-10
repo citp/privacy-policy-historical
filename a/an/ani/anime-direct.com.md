@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anime-direct.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119094521id_/http%3A//anime-direct.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-direct.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010215101id_/http%3A//www.anime-direct.com/privacy.php) for the most accurate reproduction.*
 
 # Anime-Direct.com Privacy Policy
 
@@ -21,3 +21,18 @@ Personally Identifiable Information Through the use of Anime-Direct.com you may 
 
 This information is collected when you signup for an account or join our mailing list. This information is needed for identification and billing. Personally Identifiable Information will not be shared with third parties, except when required by law.    
 
+
+| 
+
+[ ](https://www.paypal.com/us/verified/pal=anime-direct%40charter.net)
+
+[](http://validator.w3.org/check?uri=referer)   
+[](http://jigsaw.w3.org/css-validator/)
+
+[](http://www.anime-direct.com/rss.xml)
+
+4/3/2011  
+Minor site update. Major changes coming soon!
+
+Help Japan -   
+[Donate Today](http://www.google.com/intl/en/crisisresponse/japanquake2011.html). 
