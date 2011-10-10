@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easilyhired.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630063729id_/http%3A//easilyhired.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easilyhired.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010131315id_/http%3A//easilyhired.com/privacy_policy) for the most accurate reproduction.*
 
 # EasilyHired.com - Find Jobs the Simplest Way!
 
