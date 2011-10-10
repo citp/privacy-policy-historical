@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomakeeasymoney.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221052909id_/http%3A//www.tomakeeasymoney.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomakeeasymoney.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010080340id_/http%3A//tomakeeasymoney.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy To Make Easy Money
 
