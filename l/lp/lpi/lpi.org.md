@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610163801id_/http%3A//www.lpi.org/eng/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpi.org privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010201430id_/http%3A//www.lpi.org/eng/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy / Home - LPI -
 
