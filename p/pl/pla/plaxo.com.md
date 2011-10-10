@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plaxo.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613044353id_/http%3A//www.plaxo.com/about/privacy_policy%3Fsrc%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaxo.com privacy policy that was archived on 2011-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111010024954id_/http%3A//www.plaxo.com/about/privacy_policy%3Fsrc%3Dfooter) for the most accurate reproduction.*
 
 # Plaxo - Privacy Policy
 
@@ -157,8 +157,6 @@ Collectively, your Registration Data, Profile Data, Activity Data, and any other
 
 Most Comcast Sites have their own pages where you can manage certain portions of your Registration Data and Profile Data relevant to that specific Comcast Site. For your reference, those pages can be found here:
 
-[https://preferences.comcast.net](https://preferences.comcast.net/)
-
 <http://xfinitytv.comcast.net/mytv/home>
 
 <http://www.plaxo.com/settings/account>
@@ -215,8 +213,6 @@ Comcast encourages you to be aware of the privacy policies of these companies be
 Comcast may use your Registration Data to send you a confirmation e-mail verifying the ownership of the e-mail addresses provided in your Registration Data and to send you service-related communications about the Comcast Web Services. In addition, Comcast may send you promotional or commercial e-mail relating to each Comcast Site for which you have activated your account as permitted by applicable law. You can opt-out from receiving such promotional or commercial e-mail by following the instructions contained in the e-mails or by going to: 
 
 [http://xfinity.comcast.net/subscribe](http://xfinity.comcast.net/subscribe/)
-
-[https://preferences.comcast.net](https://preferences.comcast.net/)
 
 <http://www.plaxo.com/settings/email>
 
