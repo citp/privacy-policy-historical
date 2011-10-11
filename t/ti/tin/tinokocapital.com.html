@@ -1,0 +1,379 @@
+<!--The following is the downloaded HTML source of the tinokocapital.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011054720id_/http%3A//www.tinokocapital.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1000">
+<title>TINOKO capital - Privacy policy</title>
+<link rel="stylesheet" href="/css/reset.css">
+<link rel="stylesheet" href="/css/template.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+<script src="/jsc/roundabout.js"></script>
+<script src="/jsc/jquery.tools.min.js"></script>
+<script src="/jsc/tooltip.js"></script>
+<script>
+$(document).ready(function()
+{
+     // Slider
+     $('ul#slideit').roundabout({
+          minOpacity:0.5,
+          duration:200,
+		clickToFocus:true
+     });
+     $('ul#slideit li:first .slider-item-content').show();
+     $('#slidernav li:first').addClass('active');
+
+     $('ul#slideit > li').focus(function()
+     {
+          $(this).find(".slider-item-content").fadeIn(150);
+          var current_item = $(this).index();
+          $('#slidernav li').removeClass('active');
+          $('#slidernav li').eq(current_item).addClass('active');
+	}).blur(function()
+     {
+          $(this).find(".slider-item-content").fadeOut(150);
+	});
+     $('#slidernav a').click(function(){
+		$('ul#slideit').roundabout_animateToChild($('#slidernav a').index(this));
+		$('#slidernav li').removeClass('active');
+		$(this).parents('li').addClass('active');
+		return false;
+	});
+
+     // Tabs
+     $("ul.tabs").tabs("div.panes > div");
+
+     // Tooltips
+     $("img.preview").tooltip({position:'top right', offset:[-20, -49] });
+
+     // Banner Chooser
+     $("div.banner-link:eq(0)").addClass("active"); // Active Banner Equal 0 = First
+     $("input.banner-chooser").change(function()
+     {
+          var banner = $(this).attr("rel");
+          $("div.banner-link").hide().eq(banner).show();
+     });
+     // faq sliders
+     $("h5.slideme").click(function(){
+          $(this).toggleClass('active').next("div.slideme").slideToggle();
+     });
+});
+</script>
+<!--[if lt IE 9]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<![endif]-->
+<!--[if IE 9]>
+<link rel="stylesheet" href="/css/ie9.css" />
+<![endif]-->
+</head>
+<body>
+
+<div id="wrapper">
+
+	<div id="header">
+		<a class="logo" href="/" title=""><img src="/img/logo.png" alt=""></a>
+		<div class="language">
+			&nbsp;<a class="lang gbritan" href="/privacy_policy/?lang=en" title="English"></a><a class="lang france" href="/privacy_policy/?lang=fr" title="France"></a><a class="lang russian" href="/privacy_policy/?lang=ru" title="Russian"></a>		</div>
+		<ul class="top-menu left">
+			<li><a href="/" title="">Home</a></li><li><a href="/about_company/" title="">About us</a></li><li><a href="/business/" title="">Business</a></li><li><a href="/investment_offer/" title="">Investment offer</a></li>		</ul>
+		<ul class="top-menu right">
+			<li><a href="/affiliate_program/" title="">Affiliate program</a></li><li><a href="/agreement/" title="">Agreement</a></li><li><a href="/faq/" title="">FAQ</a></li><li><a href="/contacts/" title="">Contact us</a></li>		</ul>
+	</div>
+
+	<div id="slider">
+	  <ul id="slideit">
+		<li>
+				<div class="slider-item-holder">
+					 <div class="slider-item-content">
+						  <h1>INVESTMENT PLAN</h1>
+						  <span class="tar-name" style="background:#3174CD;"># STABILITY</span>
+						  <table>
+							   <tbody><tr>
+									<td style="width:150px;">Deposit amount</td>
+									<td><span>$1 - $500</span></td>
+							   </tr>
+							   <tr>
+									<td>Interest</td>
+									<td><span>0.7%</span> daily</td>
+							   </tr>
+							   <tr>
+									<td>Minimal placement term</td>
+									<td><span>3</span> days</td>
+							   </tr>
+							   <tr>
+									<td>Placement term</td>
+									<td><span>unlimited</span></td>
+							   </tr>
+						  </tbody></table>
+
+						  <a class="get-srart" href="/registration/" title="GET STARTED NOW">GET STARTED NOW</a>
+					 </div>
+					 <img src="/img/sliderbg.png" alt="" class="slider-item-bg">
+				</div>
+		   </li>
+		<li>
+				<div class="slider-item-holder">
+					 <div class="slider-item-content">
+						  <h1>INVESTMENT PLAN</h1>
+						  <span class="tar-name" style="background:#60D437;"># BALANCE</span>
+						  <table>
+							   <tbody><tr>
+									<td style="width:150px;">Deposit amount</td>
+									<td><span>$501 - $2000</span></td>
+							   </tr>
+							   <tr>
+									<td>Interest</td>
+									<td><span>1.0%</span> daily</td>
+							   </tr>
+							   <tr>
+									<td>Minimal placement term</td>
+									<td><span>3</span> days</td>
+							   </tr>
+							   <tr>
+									<td>Placement term</td>
+									<td><span>unlimited</span></td>
+							   </tr>
+						  </tbody></table>
+
+						  <a class="get-srart" href="/registration/" title="GET STARTED NOW">GET STARTED NOW</a>
+					 </div>
+					 <img src="/img/sliderbg.png" alt="" class="slider-item-bg">
+				</div>
+		   </li>
+		<li>
+				<div class="slider-item-holder">
+					 <div class="slider-item-content">
+						  <h1>INVESTMENT PLAN</h1>
+						  <span class="tar-name" style="background:#F72525;"># INNOVATION</span>
+						  <table>
+							   <tbody><tr>
+									<td style="width:150px;">Deposit amount</td>
+									<td><span>$2001 and more</span></td>
+							   </tr>
+							   <tr>
+									<td>Interest</td>
+									<td><span>1.5%</span> daily</td>
+							   </tr>
+							   <tr>
+									<td>Minimal placement term</td>
+									<td><span>3</span> days</td>
+							   </tr>
+							   <tr>
+									<td>Placement term</td>
+									<td><span>unlimited</span></td>
+							   </tr>
+						  </tbody></table>
+
+						  <a class="get-srart" href="/registration/" title="GET STARTED NOW">GET STARTED NOW</a>
+					 </div>
+					 <img src="/img/sliderbg.png" alt="" class="slider-item-bg">
+				</div>
+		   </li>
+	</ul>
+
+	  <div class="slidernav">
+		   <b>Investment plan:</b>
+		   <ul id="slidernav">
+				<li><a>Stability</a></li>
+				<li><a>Balance</a></li>
+				<li><a>Innovation</a></li>
+		   </ul>
+	  </div>
+
+ </div>
+     <div id="data">
+
+          <!-- Calc (start) -->
+          <div id="calc">
+               <script language="JavaScript">
+	function calculate_profit() {		
+		principal = document.calculator.principal.value;
+		principal = principal.replace(',','.');
+		principal = parseFloat(principal, 10);
+
+		period = document.calculator.period.value;
+		period = parseInt(period);
+
+		compounding = parseFloat(document.calculator.compounding.value, 10);
+		if (compounding < 0 || !compounding) compounding = 0;
+		else if (compounding > 100) compounding = 100;
+
+		interest=0;
+									if (principal >= 1 && principal <= 500.99) interest=0.7;
+							if (principal >= 501 && principal <= 2000.99) interest=1.0;
+							if (principal >= 2001 && principal <= 1000000) interest=1.5;
+				
+		
+		profit = total_ptofit = direct = total_direct = 0;
+		for (i=0; i < period; i++) {
+			profit =  Math.round((principal*1 + total_ptofit*1) * interest)/100;
+			direct =  Math.round(profit*(1-compounding*0.01)*100)/100;
+			profit -= direct;
+			total_ptofit += profit*1;
+			total_direct += direct*1;
+		}
+		
+		calculated_profit = Math.round((total_ptofit*1 + total_direct*1)*100)/100;
+		calculated_profit = !calculated_profit?0:calculated_profit;
+
+		document.getElementById('calculated_percent').innerHTML = Math.round(calculated_profit/principal*10000)/100;
+		document.getElementById('calculated_profit').innerHTML = calculated_profit;
+		document.calculator.principal.value = principal;
+		document.calculator.period.value = period;
+		document.calculator.compounding.value = compounding;
+	}
+</script>
+
+<div id="calc">
+	<h2><i class="left">CALCULATOR</i> <span>COUNT PROFIT</span></h2>
+	<div class="wrapper">
+	<form name="calculator">
+		<table>
+			<tbody><tr>
+				<td class="t1">Deposit amount:</td>
+				<td class="t2">in&nbsp;$&nbsp;|&nbsp;<input type="text" name="principal" value="100" onchange="calculate_profit();"></td>
+				<td class="t3" rowspan="3">&nbsp;</td>
+				<td class="t4">Profit during the period:</td>
+				<td class="t5">in&nbsp;%</td>
+				<td class="t6"><i>|</i> <span id="calculated_percent">14</span></td>
+			</tr>
+			<tr>
+				<td class="t1">Investment period:</td>
+				<td class="t2">days&nbsp;|&nbsp;<input type="text" name="period" value="20" onchange="calculate_profit();"></td>
+				<td class="t4">Total profit:</td>
+				<td class="t5">in&nbsp;$</td>
+				<td class="t6"><i>|</i> <span id="calculated_profit">14</span></td>
+			</tr>
+			<tr>
+				<td class="t1">Compounding:</td>
+				<td class="t2">in&nbsp;%&nbsp;|&nbsp;<input type="text" name="compounding" value="0" onchange="calculate_profit();"></td>
+
+				<td class="t4">&nbsp;</td>
+				<td class="t5">&nbsp;</td>
+				<td class="t6">&nbsp;</td>
+			</tr>
+		</tbody></table>
+	</form>
+	</div>
+</div>
+
+<script language="JavaScript">calculate_profit();</script>          </div>
+          <!-- Calc (end) -->
+
+          <div id="column">
+               <div class="tabbed">
+                    <ul class="tabs">
+                         <li>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LOGIN&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</li>
+                         <li>Last news</li>
+                    </ul>
+                    <div class="panes">
+                         <!-- Auth Tabs (start) -->
+                         <div>
+                              <div class="auth">
+                                   	 
+	
+	<h2>Secure account success</h2>
+
+			
+		<div id="div_login_form" class="auth">
+			
+			<form method="post" action="/">				
+				<input name="module" value="login" type="hidden">
+				<input name="action" value="login" type="hidden">				
+				<label><span>Login:</span><input type="text" name="cp_login" class="i_auth" value=""></label>				
+				<label><span>Password:</span><input type="password" name="cp_password" class="i_auth"></label>
+				<label><a href="javascript:void(0);" title="Forgot password?" style="color:#000;" onclick="$(&quot;#div_login_form&quot;).hide(); $(&quot;#div_recovery_password_form&quot;).show();">Forgot password?</a></label>
+
+				<input type="submit" name="authsbm" class="authbtn" value="Login">
+               </form>
+				<input type="submit" name="authsbm" class="authbtn" value="Registration" onclick="location.href='/registration/';" style="background:#E00A00 !important;">
+			
+		</div>
+		
+		
+		<div id="div_recovery_password_form" class="auth" style="display: none;">
+			
+			<form method="post" action="/">
+			
+				<input name="module" value="login" type="hidden">
+				<input name="action" value="recovery_request" type="hidden">
+				<label><span>Your username or E-mail:</span><input type="text" name="id_or_email" class="i_auth" value=""></label>	
+				<label><a href="javascript:void(0);" title="Back to login form" style="color:#000;" onclick="$(&quot;#div_recovery_password_form&quot;).hide(); $(&quot;#div_login_form&quot;).show();">Back to login form</a></label>
+				<input type="submit" name="authsbm" class="authbtn" value="Remind">
+			</form>
+			
+		</div>
+		
+		
+	<!-- Login (end) -->
+
+	<script type="text/javascript">
+			</script>
+								                                 </div>
+
+                              <div id="ci8Lg1" style="z-index: 100; position: absolute;"></div>
+<div id="sc8Lg1" style="display: inline;"></div>
+<div id="sd8Lg1" style="display: none;"><script type="text/javascript" src="https://image.providesupport.com/js/andresstorro44/safe-standard.js?ps_h=8Lg1&amp;ps_t=1580515586523"></script></div>
+<script type="text/javascript">var se8Lg1=document.createElement("script");se8Lg1.type="text/javascript";var se8Lg1s=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/andresstorro44/safe-standard.js?ps_h=8Lg1&ps_t="+new Date().getTime();setTimeout("se8Lg1.src=se8Lg1s;document.getElementById('sd8Lg1').appendChild(se8Lg1)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=andresstorro44">Online Chat</a></div></noscript></div>
+                         <!-- Auth Tabs (end) -->
+                         <!-- News Tabs (start) -->
+                         <div class="news"><div>
+	<span class="date">03.10.2011</span>
+	<a class="title" href="/news/" title="Russian Localization">Russian Localization</a>
+		<p>Dear valuable investors!
+As per your multiple requests today we have added Russian version of our website. This language was the most demanded according the results of our recent survey.</p>
+	</div>
+<div>
+	<span class="date">21.09.2011</span>
+	<a class="title" href="/news/" title="French Localization">French Localization</a>
+		<p>Dear clients! From now on our French localization of our website is available for you. The decision to add it was taken due to numerous requests of our French audience. If you find any errors or mistakes in translation we will appreciate if you conta&nbsp;...</p>
+	</div>
+» <a href="/news/" title="Read all news">Read all news</a></div>
+                         <!-- News Tabs (end) -->
+                    </div>
+               </div>
+          <div class="module 234">
+          <div>
+<h3>&nbsp;</h3>
+</div>          </div>
+
+          </div>
+          <div id="content-wrapper">
+          <header>PRIVACY POLICY</header>
+               <div id="content">
+                                   <div class="section"><p>TINOKO Capital values the privacy of it visitors and customers, and takes responsability on the protection in safe manner, from an unauthorized access, all the information provided by customers or visitors.
+We understand and taking the highest measures in order to keep the information regarding our clients and visitors in secure. We consider relationship with our clients and visitors as the highest value, and we do respect privacy of anyone who has worked with us, so we keep the information in secure manner.</p>
+
+<p>We will keep in secure any kind of information provided by you. 
+According to our rules, policies, and activities, we have rights to open access to the data provided by you, for the employees whom it may be needed, in order to succeed in providing services and making you satisfied with our work. 
+As you visit our site, there is no need to disclose any private details, but if you would like to open an account with us, you have to submit some personal data.</p>
+
+<p>You can easily visit our website without disclosing any private information. However, if you are going to open an account in our company you are to submit certain personal information. We collect information with the commercial aim that allows us to briefly understand your needs and helps us to process in fast and secure manner your request and operations, as well as other topics that help us to succeed in services.</p>
+
+<p>The information we collect usually includes:</p>
+
+<ul class="style_02">
+	<li>Information that you provide us by written requests, filling up applications, that is: your first and last name, your country of residence.</li>
+	<li>Information that includes data of your transactions history with us - payment system name, account numbers, etc.</li>
+	<li>Identity information: passport or driver license scan.</li>
+</ul>
+
+<p>Our company always uses an encryption, up to date firewalls, and other reliable hardware and software that works to keep in secure manner and prevent from unauthorized access personal and confidential information that belongs to our clients. We keep in secure manner information about our existed clients or ex-clients and we would never ever share any non-public private information with anyone.</p>
+</div>
+               </div>
+               <ul id="content-menu">
+                    <li>» <a href="/about_company/" title="ABOUT COMPANY">ABOUT COMPANY</a></li><li>» <a href="/investment_offer/" title="Our offer for business">Our offer for business</a></li><li>» <a href="/affiliate_program/" title="Affiliate program">Affiliate program</a></li><li>» <a href="/investment_offer/" title="Investment plans">Investment plans</a></li>               </ul>
+          </div>
+     </div>
+
+     <div id="footer">
+          <a class="logo" href="/" title=""><img src="/img/logo.png" alt=""></a>
+          <ul class="footer-menu">
+               <li><a href="/" title="">Home</a></li><li><a href="/about_company/" title="">About us</a></li><li><a href="/business/" title="">Business</a></li><li><a href="/investment_offer/" title="">Investment offer</a></li>			   <li><a href="/affiliate_program/" title="">Affiliate program</a></li><li><a href="/agreement/" title="">Agreement</a></li><li><a href="/faq/" title="">FAQ</a></li><li><a href="/contacts/" title="">Contact us</a></li>          </ul>
+          <div class="footer-links">
+               <a class="" href="/agreement/" title="Agreement">Agreement</a><a class="" href="/privacy_policy/" title="Privacy policy">Privacy policy</a><a class="" href="/antispam_policy/" title="Antispam policy">Antispam policy</a>          </div>
+          <div class="copyright">© 2011. All rights reserved.</div>
+     </div>
+</div>
+
+</body></html>
