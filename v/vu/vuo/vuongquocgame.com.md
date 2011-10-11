@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vuongquocgame.com privacy policy that was archived on 2010-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100126024247id_/http%3A//www.vuongquocgame.com/quocte/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vuongquocgame.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011224009id_/http%3A//www.vuongquocgame.com/page/1.html) for the most accurate reproduction.*
 
 # Vương quốc game - Privacy Policy
 
