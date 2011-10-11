@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421215713id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesfactory.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011111906id_/http%3A//www.articlesfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,3 +41,7 @@ Your Internet Protocol ("IP") address is usually associated with the place from 
 Articles Factory is not intended for use by children, especially those under age 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardians(s) before making purchases, including subscriptions, on this site.
 
 If your children disclose information about themselves in our public discussion areas, they may get unsolicited messages from other parties. Accordingly, you should tell them not to do so.
+
+**Online behavioral advertising policy**
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
