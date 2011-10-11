@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618071300id_/https%3A//about.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the about.me privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011103717id_/https%3A//about.me/privacy) for the most accurate reproduction.*
 
 # About.me / Privacy Policy
 
+We are revising the About.me Terms of Service and Privacy Policy, effective October 11, 2011. You can review the updated [Privacy Policy](http://privacy.aol.com/) and [Terms of Service](http://legal.aol.com/TOS/), and learn more about the revisions by reading our [Frequently Asked Questions](http://privacy.aol.com/faq/).
+
+* * *
+
 This Privacy Policy describes about.me's policies and procedures on the collection, use and disclosure of your information. about.me receives your information through our various web sites, SMS, APIs, services and third-parties ("Services"). When using any of our Services you consent to the collection, transfer, manipulation, storage, disclosure and other uses of your information as described in this Privacy Policy. Irrespective of which country that you reside in or create information from, your information may be used by about.me in the United States or any other country where about.me operates.
 
-If you have any questions or comments about this Privacy Policy, please contact us at [privacy@about.me](mailto:privacy@about.me).
+If you have any questions or comments about this Privacy Policy, please contact us at [privacyquestions@aol.com](mailto:privacyquestions@aol.com).
 
 ### Information Collection and Use
 
@@ -44,7 +48,7 @@ If you are a registered user of our Services, we provide you with tools to acces
 
 ### Our Policy Towards Children
 
-Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at privacy@about.me. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
+Our Services are not directed to people under 13. If you become aware that your child has provided us with personal information without your consent, please contact us at [privacyquestions@aol.com](mailto:privacyquestions@aol.com). We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we take steps to remove such information and terminate the child's account.
 
 ### Changes to this Policy
 
