@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628221524id_/http%3A//www.wtrf.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtrf.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011133555id_/http%3A//wtrf.com/page.cfm%3Fpageid%3D316) for the most accurate reproduction.*
 
 # WTRF-TV – News for Wheeling, West Virginia and the Ohio Valley - WTRF.com
 
-[Home](https://web.archive.org/web/20110628221524id_/http%3A//www.wtrf.com/index.cfm) > Privacy Policy
+[Home](https://web.archive.org/web/20111011133555id_/http%3A//wtrf.com/index.cfm) > Privacy Policy
 
 Privacy Policy
 
