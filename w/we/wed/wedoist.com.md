@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wedoist.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226112726id_/http%3A//wedoist.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wedoist.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011131802id_/https%3A//wedoist.com/privacyPolicy) for the most accurate reproduction.*
 
 # Wedoist Privacy Policy
 
