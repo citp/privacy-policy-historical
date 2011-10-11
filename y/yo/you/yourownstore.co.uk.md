@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourownstore.co.uk privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513233832id_/http%3A//www.yourownstore.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourownstore.co.uk privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011104218id_/http%3A//www.yourownstore.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
