@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the thestatecolumn.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130041746id_/http%3A//thestatecolumn.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestatecolumn.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011184638id_/http%3A//www.thestatecolumn.com/privacy) for the most accurate reproduction.*
 
-# The State Column
+# Privacy - The State Column
 
-Last Updated: February 1, 2010
+Last Updated: February 1, 2010 
 
-At thestatecolumn.com, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information from users of the Thestatecolumn.com Web site. We also encourage you to review our [Terms of Service ](https://web.archive.org/terms/index.php)for information regarding rights, usage, trademarks, licenses, liability, trademark, and content ownership. 
+At The State Column, we understand that privacy is important, and we've created this policy to give you information about how we collect and use personal information from users of the Thestatecolumn.com Web site. We also encourage you to review our [Terms of Service ](http://www.thestatecolumn.com/terms/index.php)for information regarding rights, usage, trademarks, licenses, liability, trademark, and content ownership. 
 
-Thestatecolumn.com is a subsidiary of the The State Column, LLC.  We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at:
-
- [info@thestatecolumn.com](mailto:info@thestatecolumn.com)
+Thestatecolumn.com is a subsidiary of the The State Column, LLC.  We reevaluate this policy on an ongoing basis, and we value your feedback. If you have questions or concerns regarding our privacy policy, we ask that you contact us at: [info@thestatecolumn.com](mailto:info@thestatecolumn.com)
 
 Please note that this privacy policy may change from time to time. We will post the new policy on this page, and, if the changes allow us to use personally identifying information in ways that are different from the ways specified at the time the information was originally collected, our Web site will contain a special notice about the changes. Each version of this privacy policy will be identified by its effective date, which you can find at the bottom of the page.1. The Thestatecolumn.com Online Privacy Policy
 
 Thestatecolumn.com collects data, including personally identifying information, from people who use the politicsnj.com Web site. This section of our privacy policy explains how we collect and use this data.
 
-#### Information we collect and how we use it
+#### **Information we collect and how we use it**
 
 When you visit the Thestatecolumn.com Web site, Thestatecolumn.com collects several forms of usage data, including:
 
@@ -54,14 +52,14 @@ The personal information we collect may be used in a number of ways, including t
 
 
 
-#### Information sharing
+#### **Information sharing**
 
 The The State Column, LLC may share aggregated, nonpersonal information, such as Web site traffic figures, with third parties. This aggregated information does not identify you individually. We may share personal information with your consent or in order to provide products or services you have requested. In addition, by using the site you agree that we may also share personal information in any of the following circumstances:
 
   * We may use or disclose personal information if we have a good-faith belief that the disclosure is reasonably necessary (a) to satisfy applicable law, regulation, legal process, or enforceable governmental request, (b) to enforce agreements we have with you, (c) to address fraud or security issues, or (d) to protect against harm to the rights, property, or safety of the The State Column, LLC or our employees or customers.
   * We may share personal information with trusted affiliates or third parties, such as credit card processors or fulfillment providers, who process information or perform services on our behalf.
   * If you submit personal information on a portion of our site that is operated by a third party, we may share the information you submit with the third party, and the information may be used by that party as permitted under that party's privacy policy. The The State Column, LLC and its parent and affiliate companies are not responsible for the third party's actions or policies. Portions of the site operated by third parties normally include a "Powered by" or â€œSponsored byâ€? logo naming the third party, and/or have forms that include links to the third party's privacy policy.
-  * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. We may share information with third parties for promotional purposes, as described below.
+  * We may transfer personal information from your user record to your subscriber record, if one exists, provided that we also transfer any preferences you have set for how that personal information is used. We may share information with third parties for promotional purposes, as described below. 
 
 
 
