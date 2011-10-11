@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp4point.com privacy policy that was archived on 2010-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100227043305id_/http%3A//www.mp4point.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp4point.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011161035id_/http%3A//www.mp4point.com/privacy-policy) for the most accurate reproduction.*
 
-# Download FREE MP4 Video Movie for PSP, iPod, Mobile and more!
+# MP4Point.com Privacy Policy
 
 ##  [MP4Point.com Privacy Policy](http://www.mp4point.com/privacy-policy/ "Permanent Link to MP4Point.com Privacy Policy")
 
