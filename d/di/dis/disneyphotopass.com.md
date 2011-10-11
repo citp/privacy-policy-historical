@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disneyphotopass.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229172625id_/http%3A//www.disneyphotopass.com/skins/100147/forms/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disneyphotopass.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011021100id_/http%3A//www.disneyphotopass.com/skins/100147/forms/privacypolicy.htm) for the most accurate reproduction.*
 
 # Disney’s PhotoPass | Privacy Policy
 
