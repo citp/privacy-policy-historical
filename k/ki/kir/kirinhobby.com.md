@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kirinhobby.com privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921000105id_/http%3A//www.kirinhobby.com/shop/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kirinhobby.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011142835id_/http%3A//www.kirinhobby.com/shop/privacy_policy.php%3FKHsid%3D06047617d151ad9093fe1769a708cf12) for the most accurate reproduction.*
 
 # Kirin Hobby - Toys, Action Figures, and Collectibles
 
