@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501084312id_/http%3A//www.shop.com/about-privacy-a.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shop.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011192225id_/http%3A//www.shop.com/about-privacy-a.xhtml) for the most accurate reproduction.*
 
 # SHOP.COM - Privacy Policy
 
@@ -13,11 +13,9 @@ customer service
   
 Privacy Policy
 
-  
-  
+[](http://www.the-dma.org/)
 
-
-SHOP MA, Inc. (A Market America Company) and its family of sites, www.shop.com, uk.shop.com, theshoppingvine.com, www.shopcompanion.com, www.cataloguecity.co.uk, amwayglobal.shop.com, Everyclick.shop.com, dwellvine.com, gadgettevine.com, glammevine.com, solevine.com and Sears.shop.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information. 
+SHOP MA, Inc. and its family of sites, www.shop.com, uk.shop.com, ca.shop.com, www.shop-com.jp, shopespanol.com, theshoppingvine.com, www.shopcompanion.com, www.cataloguecity.co.uk, Everyclick.shop.com, dwellvine.com, gadgettevine.com, glammevine.com, solevine.com and Sears.shop.com (individually and collectively the "Site") is dedicated to protecting the privacy of our valued online customers (and has been since 1997). We created this Privacy Policy to demonstrate its firm commitment to the safety of your personal information. 
 
 Our mission is to provide the most compelling shopping experience for our customers. We we want you to feel safe while visiting the Site. 
 
