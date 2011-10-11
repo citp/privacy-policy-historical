@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anypdftools.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531215618id_/http%3A//www.anypdftools.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypdftools.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011061625id_/http%3A//www.anypdftools.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # AnyBizSoft PDF Software Privacy Policy
 
-AnyBizSoft is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to AnyBizSoft's commitment to protecting your privacy. AnyBizSoft will not sell your personal information in any manner whatsoever. 
+Wondershare Software is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to Wondershare's commitment to protecting your privacy. Wondershare Software will not sell your personal information in any manner whatsoever. 
 
 **What information do we collect? What do we use it for?**
 
@@ -10,11 +10,11 @@ When you place an order on our website, your full name, email address, mailing a
 
 **How do the 3rd party credit card processors protect customer's information?**
 
-AnyBizSoft uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information before it is sent to us, including name, address, credit card number, credit card expiration date, etc. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
+Wondershare software uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information before it is sent to us, including name, address, credit card number, credit card expiration date, etc. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
 
 **SWREG**
 
-SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. AnyBizSoft uses SWREG to provide you with very secure and fast online purchase. 
+SWREG is an advanced secure online payment service for software registration that has been in operation since 1987. Wondershare Software uses SWREG to provide you with very secure and fast online purchase. 
 
 **About cookies**
 
