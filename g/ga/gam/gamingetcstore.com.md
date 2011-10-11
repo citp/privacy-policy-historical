@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the gamingetcstore.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228205851id_/http%3A//www.gamingetcstore.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingetcstore.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011160354id_/http%3A//www.gamingetcstore.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
+
+[](https://web.archive.org/web/20111011160354id_/http%3A//www.gamingetcstore.com/index.html)  
+| 
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
@@ -15,3 +18,5 @@ SCS Collectibles has been in business for more than 10 years and has more than 5
 Our office is open M-F 9:00 am to 5:00 pm EST to answer any of your concerns or questions.
 
 We thank you for your support.
+
+| 
