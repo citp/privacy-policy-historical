@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2008-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081016020146id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyricsdepot.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011055806id_/http%3A//www.lyricsdepot.com/privacy.html) for the most accurate reproduction.*
 
 # Lyrics Depot - Privacy
 
@@ -30,5 +30,7 @@ The information will be received by Lyrics Depot and not shared with anyone.
 **How long will custom information be kept?**
 
 The information will be stored for a 24 hour period.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org. 
 
 If for some reason we have violated our privacy policy, we will correct the error as soon as you notify us. 
