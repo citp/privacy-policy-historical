@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923103650id_/http%3A//www.medbroadcast.com/channel_section_details.asp%3Fchannel_id%3D1031%26relation_id%3D6743%26text_id%3D2229) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medbroadcast.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011155955id_/http%3A//www.medbroadcast.com/channel_section_details.asp%3Fchannel_id%3D1031%26relation_id%3D6743%26text_id%3D2229) for the most accurate reproduction.*
 
-# MediResource Privacy Policy - Medbroadcast
+# MediResource Privacy Policy - MedBroadcast
 
 **Welcome**
 
@@ -52,16 +52,20 @@ We take reasonable steps to protect your personally identifiable information as 
 
 This site may contain links or references to other Websites. Please be aware that we do not control other Websites and that, in any case, this Privacy Policy does not apply to those Websites. We encourage you to read the privacy policy of every Website you visit.
 
+**Social Media**
+
+This site has a number of social media tools (Reddit, Digg, Facebook "like" button, etc). By clicking on these tools, you are sharing information on those sites. Those sites may have different privacy policies than this one. You should be aware of these policies before you use these tools.
+
 **Other Terms**
 
-Your use of this site is subject to our [Terms and Conditions](https://web.archive.org/web/20100923103650id_/http%3A//www.medbroadcast.com/channel_section_details.asp?text_id=2230&channel_id=1031&relation_id=6743&rot=5). 
+Your use of this site is subject to our [Terms and Conditions](https://web.archive.org/web/20111011155955id_/http%3A//www.medbroadcast.com/channel_section_details.asp?text_id=2230&channel_id=1031&relation_id=6743&rot=5). 
 
 **How to Contact Us**
 
 If you have any questions, comments, or concerns about this Privacy Policy or the information practices of this site, please contact us as follows: 
 
 [privacyofficer@mediresource.com](mailto:%20privacyofficer@mediresource.com?subject=Contact%20Privacy%20Officer%20at%20MediResource.com) or  
-[webmaster@mediresource.com](https://web.archive.org/web/20100923103650id_/http%3A//www.medbroadcast.com/contact_us.asp)
+[webmaster@mediresource.com](https://web.archive.org/web/20111011155955id_/http%3A//www.medbroadcast.com/contact_us.asp)
 
 MediResource Inc.  
 789 Don Mills Road, Suite 400  
@@ -71,4 +75,4 @@ M3C 1T5
 
 **Changes to This Privacy Policy**
 
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on January 1, 2010. 
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on December 17, 2010. 
