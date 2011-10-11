@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couple.net privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121021857id_/http%3A//couple.net/corporate/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couple.net privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011221046id_/http%3A//couple.net/corporate/policy.asp) for the most accurate reproduction.*
 
 # Couple.net Privacy Policy
 
@@ -22,19 +22,21 @@ and interests of its members. The Company’s policy of managing personal inform
 12\. The obligation of notice
 
 **1\. The items of personal information collected and method of collecting  
-A. The items of personal information collected**  
-First, the Company collects the following personal information upon the initial acceptance of the subscription of a member in order to provide effective client consultation and various services. 
+A. The items of personal information collected**
 
-○ Full name, personal identification number (registration number for Korean citizens or passport number for foreigners), username, password, security question and answer, email address, email subscription acceptance, phone number, address, personal background information, education, occupation, family background, marriage history, etc. Second, the following information may be automatically created and collected through service and business management.
+First, the Company collects the following personal information upon the initial acceptance of the subscription of a member in order to provide effective client consultation and various services.   
+○ Full name, personal identification number (registration number for Korean citizens or passport number for foreigners), username, password, security question and answer, email address, email subscription acceptance, phone number, address, personal background information, education, occupation, family background, marriage history, etc. 
 
-○ IP address, cookie, date and time of visit, record of service use, record of questionable behavior Third, the following information may be collected only for users of value-added customized service 
+Second, the following information may be automatically created and collected through service and business management.  
+○ IP address, cookie, date and time of visit, record of service use, record of questionable behavior 
 
-○ Address, contact point, mobile communication company, account number Fourth, the following information for settlement may be collected through using charged service. 
+Third, the following information may be collected only for users of value-added customized service   
+○ Address, contact point, mobile communication company, account number 
 
-○ Payment by credit card: name of credit card company, credit card number 
-
-○ Payment by mobile phone: mobile phone number, telecommunication company, approval number of settlement ○ Wire transfer: name of bank, bank account number 
-
+Fourth, the following information for settlement may be collected through using charged service.   
+○ Payment by credit card: name of credit card company, credit card number   
+○ Payment by mobile phone: mobile phone number, telecommunication company, approval number of settlement   
+○ Wire transfer: name of bank, bank account number   
 ○ Using Gift Certificate: Certificate ID # 
 
 **B. The method of collecting personal information  
@@ -81,34 +83,56 @@ The Company is entrusted with personal information and will do the following to 
 ○ Member will be notified for consent if the Company hires another company to manage personal information.   
 ○ In case the Company hires another company to manage personal information, the Company will keep records of agreements with the hired company, Privacy Policy of the service provider, Confidentiality Terms, and Liability Terms in both print and digital format.
 
-**5\. Storage of personal information and retention period**  
-Personal information of a member will be destroyed by the Company or a third party connected to the Company, if the purpose of keeping the personal information ceases to exist, such as a member requesting the withdrawal of personal information via email or other written form or cancellation of the membership by the Company. Otherwise, information will be preserved for the period stated for the various reasons: 
+**5\. Retention of Personal Information & Duration of Use**  
+The company’s policy is to destroy all submitted personal information immediately after the original purpose and use of the personal information has been fulfilled except in the following cases and for the designated time periods:
 
-○ The record in relation to agreement or cancellation of subscription, providing membership services The period of retention: 5 years
+**A. Information stored according to Couple.net corporate policy**  
+○ Item Stored: Member Profile  
+○ Reason for Maintaining: To avoid potential discrepancies and to assist with investigation of policy violation claims  
+○ Duration of Storage: One (1) year
 
-○ The record in relation to payment and supply of services The period of retention: 5 years 
+○ Item Stored: Report of offense/violation record  
+○ Reason Stored: Prevention of policy violations; Prevention of re-registration by members who have misused the service  
+○ Duration of Storage: Five (5) years
 
-○ The record in relation to consumer’s complaint or dispute settlement The period of retention: 3 years 
+○ Item Stored: Documents submitted as proof of marital status, education, and employment  
+○ Reason Stored: To resolve customer disputes that may arise  
+○ Duration of Storage: Five (5) years
 
-○ The record in relation to identification of a member The period of retention: 6 months 
+**B. Cases for Information Retention and Related Laws**  
+In accordance with consumer protection regulations for electronic transactions and other related laws, in certain situations the company is required to store some personal information for designated periods.In such cases the company retains such information solely for the purposes and periods outlined below.
 
-○ The record in relation to a visit The period of retention: 3 months 
+\- Login Records  
+○ Reason Stored: Communications Secrecy Act  
+○ Duration of Storage: Three (3) months
 
-**6\. The process and method of destroying personal information**  
-Personal information of a user shall be destroyed immediately after the original purpose of collection and use of the personal information is accomplished or expired. The personal information shall be destroyed as follows: 
+\- Records related to identity confirmation  
+○ Reason Stored: Regulations regarding the Promotion of internet use and information protection  
+○ Duration of Storage: Six (6) months
 
-**A. The process of destruction**  
-○ The information provided by a user for admission is preserved for a certain period, by being transferred to a separate DB (in the case of a document, separate document cabinet) after accomplishing its purpose and will be destroyed thereafter in accordance with the internal policy of keeping information stated in relevant law and regulations (refer to preservation and using period) 
+\- Records regarding consumer complaints and disputes  
+○ Reason Stored: Regulations regarding electronic transaction-related security  
+○ Duration of Storage: Three (3) years
 
-○ Such personal information shall not used for any other purposes except as required to be used for other purposes by the law or Stipulation of Membership Agreement. 
+\- Records regarding cancellation of contract or membership  
+○ Reason Stored: Regulations regarding electronic transaction-related security  
+○ Duration of Storage: Five (5) years
 
-**B. The method of destruction**  
-○ Personal information preserved in paper form is destroyed by shredding or burning. 
+\- Records regarding provision of billing, sales and monetary transaction records  
+○ Reason Stored: Regulations regarding electronic transaction-related security  
+○ Duration of Storage: Five (5) years 
 
-○ Personal information preserved in an electronic form is permanently deleted by technological methods which would make it impossible to reproduce. 
+**6\. Methods & Procedure for Destruction of Personal Information**  
+As a general rule the company destroys all personal information automatically once determined to have served its purpose and no longer be necessary or when the designated period of retention/use has expired.
 
-**7\. The rights of a user and attorney and the method of executing rights**
+**A. Disposal procedure**  
+Only in order to comply with related laws or in accordance with company policy, information that members enter at the time of registration is destroyed when it has reached the end of its necessity or after the preset period of storage has ended (see information storage and usage policy).  
+**The aforementioned Personal Information will not be used for purposes other than those stipulated here.**
 
+**B. Disposal method**  
+Printed personal information is destroyed either by shredding or incineration, and personal information stored in digital/electronic/online form is permanently deleted. 
+
+**7\. The rights of a user and attorney and the method of executing rights**  
 ○ A user and an attorney may make reference to registered personal information of a user or a child whose age is less than 14 years or modify it at any time and may request cancellation of a membership. 
 
 ○ In the case of reference and modification of personal information of a user or a child whose age is less than 14 years, a member may request a “modification of personal information (or modification of information of a member)“ and in the case of cancellation of a membership (retraction of approval), a member may request a “withdrawal of a member“ through email or other written form, and the withdrawal is permitted after the process of identification of a member. 
@@ -119,7 +143,7 @@ Personal information of a user shall be destroyed immediately after the original
 
 ○ The Company handles personal information cancellation or removal by the request of a user or the authorized party in accordance with the provisions stated clearly in Section 5 (Storage of personal information and usage period) and does not use or share the information for any other purposes. 
 
-**8\. The matters in relation to installation/ operation and rejection of the tool for automatic collection of personal information**  
+**8\. The matters in relation to installation/operation and disabling of cookies for automatic collection of personal information**  
 The Company utilizes “cookies” which records information of users from time to time for providing customized service to users. A cookie is information which a server (HTTP) for operating websites sends to the computer browser of a user and which is also stored in the hard drive of a computer. 
 
 **A. The purpose of using cookies**  
@@ -136,10 +160,10 @@ Cookies is used to provide optimal tracking information to users by monitoring u
 ○ However, if a user does not set up cookies, it may be difficult to use some services on our website (couple.net). 
 
 **9\. The measure of technical/managerial protection of personal information**  
-The Company considers technical/ managerial measures as follows for ensuring safety in managing personal information of users for the purpose of preventing identity theft, disclosure, forgery, fraud, or damage of personal information. 
+The Company considers technical/managerial measures as follows for ensuring safety in managing personal information of users for the purpose of preventing identity theft, disclosure, forgery, fraud, or damage of personal information. 
 
 **A. Encryption of Password**  
-The password of a member of Sunoo (ID) is saved and managed so that only that individual member knows the password and no one else can verify or modify personal information except for that member.
+A member's password is saved and managed so that only that individual member knows the password and no one else can verify or modify personal information except for that member.
 
 **B. The measure for preventing hacking**  
 The Company makes every effort to prevent the disclosure of personal information of a member via hacking or computer virus. The company makes back-up files of data periodically to prevent damage of personal information and to prevent personal information and data of users from being disclosed or damaged by utilizing up-to-date anti-virus programs, allowing personal information to be transmitted safely in the network through encoded encryption. It also controls unauthorized access from outside with a blocking system against invasion and tries to use every technical tool for guaranteeing system security.
@@ -153,20 +177,20 @@ The Company tries to immediately correct problems discovered by investigation of
 **10\. The contact point of a manager and person in charge of managing personal information**  
 You may address all inquiries/complaints/issues in relation to personal information arising from using services of the Company to the person in charge or the department in charge. The Company will respond to users as promptly and as adequately as possible. 
 
-Person in charge of personal information:  
-Name: Chul Woo Hyun   
-Phone: 82-2-2022-2102 (Korea)  
-Email: privacy@sunoo.com 
+Person in charge of personal information:   
+Name: James Lee  
+Phone: 82-2-2022-2000 (Korea)  
+Email: [privacy@sunoo.com](mailto:privacy@sunoo.com)
 
 Department in charge of personal information:   
 Dept.: IT Team  
 Phone: 82-2-2022-2124 (Korea)  
 Email: webmaster@sunoo.com 
 
-**11.Others**  
+**11\. Others**  
 Please be advised that this “Policy of Managing Personal Information” does not apply to the collection of personal information through the website linked to Sunoo, Inc. 
 
 **12\. Obligation of notice**  
 Any additions, deletions, or amendments to the contents of this policy of managing personal information shall be announced on the Company Website and also sent to users via email before the changes take effect.
 
-(Last updated as of May. 1, 2010)
+( Last updated as of January 20, 2011)
