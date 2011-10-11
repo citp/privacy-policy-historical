@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004844id_/http%3A//www.classicfm.co.uk/about-classic-fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicfm.co.uk privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011091300id_/http%3A//www.classicfm.co.uk/about-classic-fm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Classic FM
 
 ### Global Radio Privacy Policy
 
-Any information you provide about yourself to Global Radio UK Limited ("Global Radio") or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties.
+Any information you provide about yourself to Global [Radio](http://www.classicfm.co.uk/) UK Limited ("Global Radio") or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties.
 
 We collect information from you for a number of reasons, for example:  
 •    To provide personalised services for our individual users.  
