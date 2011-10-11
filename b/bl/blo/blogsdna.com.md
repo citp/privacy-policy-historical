@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogsdna.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524000814id_/http%3A//www.blogsdna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsdna.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011210857id_/http%3A//www.blogsdna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
