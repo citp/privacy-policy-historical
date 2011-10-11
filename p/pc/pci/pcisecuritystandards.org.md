@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2008-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080828094430id_/https%3A//www.pcisecuritystandards.org/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcisecuritystandards.org privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011082304id_/https%3A//www.pcisecuritystandards.org/privacy/index.php) for the most accurate reproduction.*
 
-# Privacy Policy - PCI Security Standards Council
-
-## PRIVACY POLICY
+# Privacy Policy
 
 ### Payment Card Industry Security Standards Council, Inc. Online Privacy Statement
 
@@ -30,7 +28,7 @@ Non-personal information is data about usage and service operation that is not d
 
 ##### Aggregate Information
 
-The PCI Security Standards Council may gather aggregate information, which refers to information your computer automatically provides to us and which cannot be tied back to you as a specific individual. Examples include referral data (the Web sites you visited just before and just after our site), the pages viewed, time spent at our Web site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from one of our sites, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration. 
+The PCI Security Standards Council may gather aggregate information, which refers to information your computer automatically provides to us and which cannot be tied back to you as a specific individual. Examples include referral data (the Web sites you visited just before and just after our site), the pages viewed, time spent at our Web site, and Internet Protocol (IP) addresses. An IP address is a number that is automatically assigned to your computer whenever you access the Internet. For example, when you request a page from one of our sites, our servers log your IP address to create aggregate reports on user demographics and traffic patterns and for purposes of system administration. 
 
 ##### Log Files
 
@@ -48,7 +46,7 @@ The PCI Security Standards Council's Web site also may use Web beacons to collec
 
 #### Personal Information
 
-Personal information is information that is associated with your name or personal identity. The PCI Security Standards Council uses personal information to better understand your needs and interests and to provide you with better service. On some PCI Security Standards Council Web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, email address, user IDs, passwords, billing information, or other information. 
+Personal information is information that is associated with your name or personal identity. The PCI Security Standards Council uses personal information to better understand your needs and interests and to provide you with better service. On some PCI Security Standards Council Web pages, you may be able to request information, subscribe to mailing lists, participate in online discussions, collaborate on documents, provide feedback, submit information into registries, register for events, apply for membership, or join technical committees or working groups. The types of personal information you provide to us on these pages may include name, address, phone number, email address, user IDs, passwords, billing information, or other information. 
 
 #### **Members-Only Web Site**
 
@@ -66,7 +64,7 @@ The PCI Security Standards Council may use personal information to provide servi
 
 #### **Information Sharing**
 
-The PCI Security Standards Council does not sell, rent, or lease any individual's personal information or lists of email addresses to anyone for marketing purposes, and we take commercially reasonable steps to maintain the security of this information. However, the PCI Security Standards Council reserves the right to supply any such information to any organization into which the PCI Security Standards Council may merge in the future or to which it may make any transfer in order to enable a third party to continue part or all of the Council's mission. We also reserve the right to release personal information to protect our systems or business, when we reasonably believe you to be in violation of our Terms of Use or if we reasonably believe you to have initiated or participated in any illegal activity. In addition, please be aware that in certain circumstances, the PCI Security Standards Council may be obligated to release your personal information pursuant to judicial or other government subpoenas, warrants, or other orders. 
+The PCI Security Standards Council does not sell, rent, or lease any individual's personal information or lists of email addresses to anyone for marketing purposes, and we take commercially reasonable steps to maintain the security of this information. However, the PCI Security Standards Council reserves the right to supply any such information to any organization into which the PCI Security Standards Council may merge in the future or to which it may make any transfer in order to enable a third party to continue part or all of the Council's mission. We also reserve the right to release personal information to protect our systems or business, when we reasonably believe you to be in violation of our Terms of Use or if we reasonably believe you to have initiated or participated in any illegal activity. In addition, please be aware that in certain circumstances, the PCI Security Standards Council may be obligated to release your personal information pursuant to judicial or other government subpoenas, warrants, or other orders. 
 
 In keeping with our open process, the PCI Security Standards Council may maintain publicly accessible archives for the vast majority of our activities. For example, posting an email message to any PCI Security Standards Council-hosted mail list or discussion forum, subscribing to any PCI Security Standards Council newsletter or registering for one of our public meetings may result in your email address becoming part of the publicly accessible archives. 
 
@@ -84,7 +82,7 @@ The PCI Security Standards Council is committed to keeping the personal informat
 
 #### **Security**
 
-The PCI Security Standards Council makes every effort to protect personal information by users of the Web site, including using firewalls and other security measures on its servers. No server, however, is 100% secure, and you should take this into account when submitting personal or confidential information about yourself on any Web site, including this one. Much of the personal information is used in conjunction with participation-level services such as collaboration and discussion, so some types of personal information such as your name, company affiliation, and email address will be visible to other the PCI Security Standards Council participators and to the public. The PCI Security Standards Council assumes no liability for the interception, alteration, or misuse of the information you provide. You alone are responsible for maintaining the secrecy of your personal information. Please use care when you access this Web site and provide personal information.
+The PCI Security Standards Council makes every effort to protect personal information by users of the Web site, including using firewalls and other security measures on its servers. No server, however, is 100% secure, and you should take this into account when submitting personal or confidential information about yourself on any Web site, including this one. Much of the personal information is used in conjunction with participation-level services such as collaboration and discussion, so some types of personal information such as your name, company affiliation, and email address will be visible to other the PCI Security Standards Council participators and to the public. The PCI Security Standards Council assumes no liability for the interception, alteration, or misuse of the information you provide. You alone are responsible for maintaining the secrecy of your personal information. Please use care when you access this Web site and provide personal information.
 
 #### **Opting Out**
 
