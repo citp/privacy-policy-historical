@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homelife.com.au privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415010818id_/http%3A//www.homelife.com.au/extra/privacy%2Bpolicy%2C11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homelife.com.au privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012004751id_/http%3A//www.homelife.com.au/extra/privacy%2Bpolicy%2C11) for the most accurate reproduction.*
 
 # Privacy Policy - Homelife
 
