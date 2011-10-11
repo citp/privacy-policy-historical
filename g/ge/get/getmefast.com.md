@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmefast.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524122312id_/http%3A//www.getmefast.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmefast.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011064552id_/http%3A//www.getmefast.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - GetMeFast
 
