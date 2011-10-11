@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230033130id_/http%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savills.co.uk privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012002214id_/http%3A//www.savills.co.uk/footer/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Savills UK | Privacy policy
 
@@ -41,3 +41,39 @@ Because the Internet infrastructure is global the information you provide may be
 ## 6\. How to contact Savills
 
 We welcome your views about our web site and our Privacy Policy. If you would like to contact us with any queries or comments please send an e-mail to [webservices@savills.com](mailto:webservices@savills.com)
+
+## 7\. The use of cookies by Savills
+
+What is a cookie?  
+A cookie is a small text file that is downloaded onto your computer when you visit certain websites and allows a website to recognise a user's computer. Cookies are used to help users navigate websites more efficiently and to perform certain functions, as well as to provide information to the owners of the website.
+
+  
+What cookies do Savills use?  
+The table below lists the cookies used by this website and provides a description of how each cookie works. To find out more about a cookie, please follow the link provided in "More Information".
+
+  **Cookie** | **Name  ** | **Purpose**   | **More information**    
+---|---|---|---  
+ASP.NET SessionID | ASP.NET_SessionID   | A default cookie that allows the site to know it is the same computer that has viewed the previous page. | Only lasts for the current browsing session.  
+Subscribe to Research | research_form | Records whether a user has already subscribed to the website to view research and if they have not, will request them to enter minimal details to do so.  |    
+Google Analytics |  _utm _x_ | The Savills Website uses Google Analytics, a web analytics service provided by Google, Inc. Google Analytics sets a cookie in order to evaluate your use of our website and compile reports for us on activity of our website.. | 
+
+How to reject or delete this cookie
+
+<http://www.google.com/intl/en/privacypolicy.html>  
+Accordian Bar | home_accordian | Records how the user last viewed the home page so this view is replicated the next time they visit.  | Only lasts for the current browsing session.  
+Alerts | savills_alert_cookie | Records that the user has subscribed for alerts so that they can change their preference in the future. | Lasts for 100 days  
+Recent Properties | savills_recent_properties  | Records the recent properties the user has viewed.  | Lasts for 2 weeks   
+Recent searches | savillsresidentialsearchcookie  | Records the recent searches the user has undertaken | Lasts for 3 months   
+Saved Properties | savills_saved_properties | Records the properties a used has clicked "Save" next to.  | Lasts for 3 months   
+Machine Tracker | resisearch_tracker_global | Records when the user returns to our site from the same computer.  | Lasts for 1 year   
+Session Tracker | resisearch_tracker_session | Records what repeated searches users undertake  | Lasts for 1 day   
+Saved Properties | SavillsCommercialPortfolio | Records a users saved properties on our Commercial Search  | Lasts for 3 months   
+New Homes Search Session Cookies | Ecm, ns_session, ns_cookietest | Session cookies that help the browsing experience on the site  | Only lasts for the current browsing session.   
+Alerts | InternationalInformation  | Records that the user has subscribed for alerts so that they can change their preference in the future on our international search.  | Lasts for 10 years   
+  
+How do I restrict or delete cookies?
+
+13 of the cookies we use are essential for parts of the website to operate and have already been set. You may delete and block all cookies from this website, but please be aware that restricting or deleting cookies may impact on the functionality of the website.    
+Your web browser may allow you to restrict or delete cookies set by this website. The Help function within your browser should tell you how. Alternatively, you can visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which provides general information about cookies and how you can manage cookies on your computer.
+
+To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
