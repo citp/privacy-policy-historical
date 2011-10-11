@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2010-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101008193529id_/https%3A//spideroak.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spideroak.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011141442id_/https%3A//spideroak.com/privacy_policy) for the most accurate reproduction.*
 
 # Automatic Mac Backup - Privacy Policy - SpiderOak.com
 
@@ -12,7 +12,7 @@ Due to the Internet's rapidly evolving nature, SpiderOak may need to update this
 
 **Information Collection and Use**
 
-You can generally visit our Site without revealing any Personally-Identifiable Data about yourself. In order to use the Services, however, we will collect personally identifiable information, such as your name, address, email address, phone number, username, password, credit card number, and other information (“Personally-Identifiable Data”). Additionally, we may invite you to participate in surveys, questionnaires or contests, contact us with questions or comments or provide us with feedback, which due to the nature of some of these activities, may include the collection of “Personally-Identifiable Data”. Additionally, by accessing the Site or using the Services, we might collect additional data as set forth below in the “Aggregate Information” paragraph.
+You can generally visit our Site without revealing any Personally-Identifiable Data about yourself. In order to use the Services, however, we will collect personally identifiable information, such as your name, address, email address, phone number, username, credit card number, and other information (“Personally-Identifiable Data”). Additionally, we may invite you to participate in surveys, questionnaires or contests, contact us with questions or comments or provide us with feedback, which due to the nature of some of these activities, may include the collection of “Personally-Identifiable Data”. Additionally, by accessing the Site or using the Services, we might collect additional data as set forth below in the “Aggregate Information” paragraph.
 
 We may use your Personally-Identifiable Data to register you to use our Services, confirm your identify, contact you to deliver certain services, news or information related to the Services, verify your authority to use our Services, and improve the content and general administration of the Site and our Services. If you are unwilling to allow your Personally-Identifiable Data to be used as described in this Section, you should not sign up for or use the Services.
 
