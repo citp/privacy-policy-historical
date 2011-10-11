@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505032328id_/http%3A//my.monster.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monster.ca privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011145636id_/http%3A//my.monster.ca/privacy) for the most accurate reproduction.*
 
 # Find Jobs: Search millions of jobs now | Monster.ca
 
@@ -10,7 +10,7 @@ We collect the [personal](https://web.archive.org/privacy/fullstatement.aspx#2) 
 
 Information you post in public areas of the site or placed in the searchable Resume database will be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to Monster.
 
-We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services may include the display of personalized content and advertising. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
+We use the information we collect about you to deliver the products and services we offer, and to operate and improve our sites. Our services include the display of personalized content and advertising on our site or other sites with which we have a business relationship. We may use your information to contact you about Monster site updates, conduct surveys, or informational and service-related communications, including important security updates.
 
 ## Disclosure of Information to Others
 
@@ -50,7 +50,7 @@ You may [contact us](http://my.monster.ca/privacy/EmailForm.aspx) for questions 
 
 Privacy Office  
 Monster Worldwide Canada, Inc.  
-277 Saint-Jacques Street West, 10th floor  
-Montreal, Quebec, Canada H2Y 1N3
+2020 University Avenue, Suite 2000  
+Montreal, Quebec, Canada H3A 2A5
 
 If your question is not properly addressed, you may contact [TRUSTe for assistance in resolving your issue](https://web.archive.org/privacy/fullstatement.aspx#9).
