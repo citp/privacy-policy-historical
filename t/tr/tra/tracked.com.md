@@ -1,57 +1,85 @@
-> *The following text is extracted and transformed from the tracked.com privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025115007id_/http%3A//www.tracked.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracked.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011103719id_/http%3A//hashable.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tracked.com
+# Privacy Policy - Hashable.com
 
-Last Updated: October 19, 2009
+Last Updated: June 1, 2010 
 
-Your privacy, and the privacy of all registered users of Tracked.com ("Tracked.com"), is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site.
+Your privacy, and the privacy of all registered users of Hashable.com ("Hashable.com" or the "Website"), is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice and choice in the collection and use of information regarding our users and their activities at our site. 
 
-This policy tells you, among other things, what information we gather from you, how we may use or disclose that information and our efforts to protect it. Please read this policy carefully, and feel free to contact us at privacy-at-Tracked-dot-com if you have any questions regarding its contents.
+This policy tells you what information we gather from you, how we may use or disclose that information and our efforts to protect it. Please read this policy carefully, and feel free to contact us at [privacy@hashable.com ](mailto:%20privacy@hashable.com) or at the mailing address set forth below if you have any questions regarding its content. 
 
-Types of Information Collected
+In connection with your use of the Website and the services provided in connection with the Website (such services and Website, collectively, the "Service"), we ask for and may collect a variety of information from and about you in the following ways. 
 
-In connection with your use of our site, we ask for and may collect a variety of information from and about you in different ways. For example, if you register to use our site, we ask for and store information such as your email, first name, last name, username, industry, job title, company, year of birth, gender, country, postal code, photo and a brief description of yourself. Only email, first name, last name, username, industry, postal code and country are required entries.
+## Log Data
 
-When you use Tracked.com, you may set up your personal profile, form relationships, send messages, perform searches and queries, form groups, set up events, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your contact list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+Our servers may automatically record non-personally identifiable information ("Log Data") from anyone who uses our service or comes to our Website. This Log Data may include your IP address, browser type, referring domain, pages visited, visit duration and submitted search terms. This data is used to monitor and assist in improvements to the Service. We may vary the content you receive in future visits to the Website based on your preferences and activities as determined based upon such Log Data. 
 
-You post content on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of content you post may remain viewable in cached and archived pages or if other Users have copied or stored content you post.
+## Registration and Account Data
 
-Any improper collection or misuse of information provided on Tracked.com is a violation of the Tracked.com Terms of Use and should be reported to the contact identified on the Tracked.com website. 
+If you register to use the Website, we ask for and store information you provide such as your email, first name, last name, username, industry, job title, company, gender, country, postal code, photo and a brief description of yourself. Only email, first name, last name, username, postal code and country are required entries. Your email address will only be displayed if you elect to do so through your Account Settings page. 
 
-If you choose to use our invitation service to tell a contact about our site, we will ask you for information needed to send the invitation, such as your contact's email address. We will send your contact an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Tracked.com stores this information to send invitations and reminders, to register a contact connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us through the Tracked.com website to request that we remove this information from our database. 
+After you register to use the Website, may set up your personal profile, form relationships, and transmit information through various channels ("Account Data"). We collect this information so that we can provide you the Service and offer personalized features, including varying the content you receive in future visits to the Website based on your preferences and activities. We may retain such Account Data so that, for instance, you can return to view prior interactions you've had or easily see your contact list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time. 
 
-Use of Cookies
+## Combination of Log Data and Registration Data
 
-Use of certain features on Tracked.com requires that you accept the use of cookies, which are small data files that our Web site sends to your browser for storage on your computer"s hard drive. We use cookies to protect confidential data, track activity at our site and better serve your needs and interests.
+Log Data may be combined with a user's username and Account Data once a user has registered or subsequently logged into the Website. The combined data is used to monitor and assist in improvements to the Service, and will not be shared with third parties except in the case of third party service providers and legal processes, as noted below. 
 
-Third party ads displayed on Tracked.com may also contain cookies set by the advertiser or their agent. Tracked.com does not control these cookies. Users of Tracked.com should consult the privacy policies of the advertiser or their agent to learn how they use cookies. 
+## Cookies
 
-Use of Information
+Use of certain features on Hashable.com requires that you accept the use of cookies, which are small data files that our Website sends to your browser for storage on your computer's hard drive. We use cookies to protect confidential data, track activity at our Website and better serve your needs and interests as noted above. 
 
-We use your personally identifying information to identify and register you as a user of the site and to customize the various features of the website, such as news headline updates. When you register with Tracked.com, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people in the networks specified in your privacy settings to enable you to connect with people on Tracked.com. We may use your email address to contact you directly regarding services or products that we believe may be of interest to you, only if you opt for such use during the registration process. You can opt out at any time using the settings section of the website. We may also associate your personally identifying information with information we collect about your preferences and activities at the site, such as the particular pages you request at the site. We may vary the content you receive in future visits to the site based on your preferences and activities.
+Third party ads displayed on Hashable.com may also contain cookies set by the advertiser, ad network or their agent. Hashable.com does not control these cookies. Users of Hashable.com should consult the privacy policies of the advertiser, ad network or their agent to learn how they use cookies. 
 
-We may combine your personally identifying information, and information about your preferences and activities, with those of all or a particular group of our users to prepare collective profiles of our users and their activities. For example, we may track the number of our users who view certain pages or use certain features. Such information, and other information we derive from individual users' information, allows us to continue to grow and improve our Web site.
+## Submitted Content
 
-Profile information is used by Tracked.com primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings. In some cases where your privacy settings permit it (e.g., posting insights), other Tracked.com users may be able to supplement your profile.
+You post content on Website at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that content you post on the Website will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. You understand and acknowledge that, even after removal, copies of content you post may remain viewable in cached and archived pages on the Internet or if other Users have copied or stored content you post. 
 
-Profile information you submit to Tracked.com will be available to users of Tracked.com who belong to at least one of the networks you allow to access the information through your privacy settings (e.g., coworkers, friends, contacts, etc.). Your name, company, and profile picture thumbnail will be available in search results Tracked.com and those limited pieces of information may be made available to third party search engines. This is primarily so your friends can find you and send a friend request. People who see your name in searches, however, will not be able to access your profile information unless they have a relationship to you (contact, coworker, etc.) that allows such access based on your privacy settings.
+Any improper collection or misuse of information provided on Hashable.com is a violation of the Hashable.com Terms of Service and should be reported via [ feedback@hashable.com](mailto:feedback@hashable.com). 
 
-Tracked.com may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message, you may receive an email alerting you to that fact.
+## Inviting Others
 
-Tracked.com reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.
+When you use our service via email to capture a meeting, introduction, referral, or other activity, you will be sending us the email addresses or Twitter handles of the meeting participants, or introduced/referred parties (aka " s"). If the Recipients are not already registered, we will send them an email confirming their passive participation in Hashable and inviting them to visit the Website, where they will have the opportunity to create an account and delete or adjust site-wide privacy settings regarding any information directly related to themselves. Hashable.com stores the Recipient email address information to track interactions, send invitations and reminders, and to track the success of our referral program. The Recipient may [ contact us](mailto:feedback@hashable.com) through the Website to request that we remove this information from our database in the event that they do not want to create an account and actively control their site-wide privacy settings. Hashable does not publicly display or provide to third parties the complete email address of non-registered users. 
 
-We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, and other users of Tracked.com, to supplement your profile.
+Without any contact from the person whose email or Twitter handle you provided, we will display any information involving them (as provided by you) as dictated by the privacy settings you have applied to your own account. All users are advised to use discretion in the type of information they provide publicly about other people and all users provide such information solely at their own risk. 
 
-Disclosure of Information
+## Profile Information
 
-We may provide your personally identifying information, and information about your activities and preferences, to other companies wishing to contact you about products or services, but only to those that we believe impose reasonable safeguards on the privacy of your information. We may also provide third parties with collective profiles of our user groups and their activities and preferences. Such collective profiles may also be disclosed in describing our site and services to prospective partners, advertisers and other third parties, and for other lawful purposes.
+When you register with Hashable.com, you create your own profile and privacy settings regarding your activity stream. If you are logged in, you can go to the profile settings page to adjust your privacy settings. We use your personally identifying information to identify and register you as a user of the Website and to customize the various features of the Website according to your interests, activities and preferences. 
 
-Finally, we may disclose information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent harm.
+Profile information is used by Hashable.com primarily to be presented back to and edited by you when you access the service and to be presented to others, based on your privacy settings. In some cases where your privacy settings permit it (e.g., another user has included you in a meeting, introduction or referral, and you have not prevented the display or supplementation of such information via your privacy settings), other Hashable.com users may be able to supplement your profile. 
 
-Security
+Your name, company, profile picture, and geographic location will be available in Hashable search results. These limited pieces of information may be made available to third party search engines. This is primarily so your friends and community can find you. 
 
-Tracked.com uses reasonable administrative, technical, personnel and physical measures to safeguard personally identifying information in its possession against loss, theft and unauthorized use, disclosure or modification. In addition, Tracked.com uses reasonable methods to make sure that personally identifying information is accurate, up-to-date and appropriately complete. Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk.
+If you elect to make such information private and not searchable via your account settings, such information may persist in our backup copies, and/or on the Internet via search engines' cached search results until such time as such search engines update their search results. 
 
-Changes to Privacy Policy
+## Legal Compliance
 
-It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this web site. This policy was posted on October 19, 2009. Data will be handled in accordance with the policy in effect at the time the data is used, subject to the user's right to opt out of revisions to this policy implemented since the data was first collected.
+We may disclose information to fulfill legal or regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent harm. 
+
+## Third Party Service Providers
+
+We retain certain third party service providers to perform functions and services to us. We may share your personal information with these third party service providers, but only to the extent necessary to perform these functions and services, and only pursuant to obligations that are no less restrictive than those contained in this privacy policy. 
+
+## Security
+
+Hashable uses reasonable administrative, technical, personnel and physical measures to safeguard personally identifying information in its possession against loss, theft and unauthorized use, disclosure or modification. Regardless of the precautions taken by you or by us, "perfect security" does not exist on the Internet. We cannot ensure or warrant the security of any information you transmit to us, and you transmit such information at your own risk. 
+
+## Minimum Age
+
+Users of Hashable must be at least 13 years of age. We do not knowingly accept registrations from users that are under 13. We will delete accounts of any users that we find to be under-age. If you are aware that a child under the age of 13 has become a registered user, please inform us at privacy@hashable.com, so that we can confirm and take the appropriate steps to remove the account and any related information. 
+
+## Communication
+
+Hashable.com may send you account activity-related announcements from time to time. For instance, if a friend sends you a new message through your account, you may receive an email alerting you to that fact. You have the option of opting out of notifications regarding the actions of other users (for example, user meeting notifications and user message notifications) through your account settings.Hashable.com reserves the right to send you Hashable.com service and legal notices about your account. 
+
+## Changes to Privacy Policy
+
+It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this Website. This policy was posted on June 1, 2010. Data will be handled in accordance with the policy in effect at the time the data is used. 
+
+Our mailing address is: 
+
+Hashable, Inc.   
+989 Ave. of the Americas   
+16th Floor   
+New York, NY 10018   
+United States 
