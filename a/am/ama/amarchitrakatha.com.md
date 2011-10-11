@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607034939id_/http%3A//www.amarchitrakatha.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amarchitrakatha.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011074207id_/http%3A//www.amarchitrakatha.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amar Chitra Katha: Indian Stories for Children - Books, Comics, DVDs and more
 
