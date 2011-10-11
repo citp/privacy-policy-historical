@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the axxess.co.za privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619034946id_/http%3A//www.axxess.co.za/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axxess.co.za privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011190953id_/http%3A//www.axxess.co.za/privacy.php) for the most accurate reproduction.*
 
-# Axxess DSL - Uncapped ADSL from R99.00 per month.
+# Axxess DSL - Privacy Policy
 
 We at Axxess have designed our business practices to safeguard your privacy. 
 
-You can visit [www.axxess.co.za](http://www.axxess.co.za/) or [www.adsl.co.za](http://www.adsl.co.za/) without revealing who you are or providing any personal information about yourself. 
+You can visit www.axxess.co.za or www.adsl.co.za without revealing who you are or providing any personal information about yourself. 
 
 There will be times, such as when you submit an questionnaire, request a service, purchase a product, etc., when we will need to obtain personally identifiable information from you or about you. Such personally identifiable information may include your name, home address, e-mail address, telephone number, identity/passport number, income, credit references, etc. The information we receive about you or from you may be used by us or shared by us with our corporate affiliates, agents, vendors and others to help process or complete a transaction; to comply with any law, regulation, audit or court order; to help improve our website or the products or services we offer; for research; to better understand our customers' needs; to develop new offerings; and to alert you to new products and services in which you may be interested. We may also combine information you provide us with information about you that is available to us internally or from other sources. We believe that knowing more about you can enable us to serve you better. 
 
@@ -14,4 +14,4 @@ We safeguard your information using known encryption, security standards and pro
 
 Please be aware that we may change our Statement of Privacy from time to time. If we do, we will update this Statement of Privacy at our website, so be sure to check back here frequently. 
 
-If you have any questions about our Statement of Privacy or privacy policies, please feel free to e-mail your questions to us at [support@axxess.co.za](mailto:support@axxess.co.za)
+If you have any questions about our Statement of Privacy or privacy policies, please feel free to e-mail your questions to us at [support@adsl.co.za](mailto:support@adsl.co.za)
