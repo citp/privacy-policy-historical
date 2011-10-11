@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the delivery.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171951id_/http%3A//www.delivery.com/about_us.php%3Fcq%3DLbSdQfgNsdwq1KV8UZNEGUuy3msOXNr7nepeFuGfmbEkCDaug3xz3A..%26cq_key%3Df80b4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delivery.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011044148id_/https%3A//www.delivery.com/about_us.php%3Fcq%3DLbSdQfgNsdwq1KV8UZNEGUuy3msOXNr7nepeFuGfmbEkCDaug3xz3A..%26cq_key%3Df80b4) for the most accurate reproduction.*
 
 # Privacy Policy
-
-**PRIVACY POLICY**
 
 Delivery.com has created this privacy policy to demonstrate our commitment to protecting our individual users' personally identifiable information that we collect when such users use our website, delivery.com, or that we receive from the Delivery.com participating merchants.
 
