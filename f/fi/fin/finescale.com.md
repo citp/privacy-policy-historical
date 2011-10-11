@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425224802id_/http%3A//corporate.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finescale.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011032936id_/http%3A//corporate.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Privacy Policy
 
@@ -41,8 +41,8 @@ Kalmbach Publishing Co. is the publisher of the following magazines and Web site
 [BeadShopFinder.com](http://www.beadshopfinder.com/)  
 [HobbyRetailer.com](http://www.hobbyretailer.com/)  
 [KalmbachStore.com](http://www.kalmbachstore.com/)   
-[Model Train Magazine Index ](http://index.mrmag.com/)  
-[Trade Sales & Service - B2B ](http://retailers.kalmbach.com/tss/default.aspx)
+[Trains.com Magazine Index](http://trc.trains.com/magazineindex/)  
+[Trade Sales & Service - B2B ](http://www.retailers.kalmbach.com/)
 
   
 Personally identifiable information is collected by Kalmbach when you decide to place an order (personally or as gifts for others), register on our Web sites or for our newsletters, enter a contest, participate in a survey, or make a general inquiry. The information collected when you order from us or enter a contest includes some or all of the following: name, address, phone / fax number, e-mail address and credit card information. With regard to credit card information, we employ the Internet's strongest encryption tools and technology, allowing your transaction to be instantaneous, while as secure as possible from unauthorized access or misuse.  
