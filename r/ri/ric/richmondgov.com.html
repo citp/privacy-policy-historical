@@ -1,0 +1,1003 @@
+<!--The following is the downloaded HTML source of the richmondgov.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011085425id_/http%3A//www.richmondgov.com/common/Privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
+
+<meta name="robots" content="index, follow, noodp">
+<meta name="viewport" content="height=device-height; width=device-width; maximum-scale=4; initial-scale=1.0; user-scalable=yes">
+<meta name="format-detection" content="telephone=yes">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<script type="text/javascript" src="/behavior/frameWorks/jQuery/jQuery-132/jquery-1.3.2.js"></script>
+<link rel="stylesheet" href="/design/css/resetRichmondEdit.css" type="text/css" media="all">
+<link rel="stylesheet" href="/design/css/sitewide.css" type="text/css" media="all">
+<link rel="stylesheet" type="text/css" media="print" href="/design/css/print.css">
+<!--[if IE ]>
+<link rel="stylesheet" href="/design/css/InternetExplorerWorkAround/sitewide.css" type="text/css" />
+<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="/design/css/InternetExplorerWorkAround/height1000ie6.css" type="text/css" />
+<![endif]-->
+
+<!-- Javascript Written by the Webbi Team on 09-20-2011, to properly position Awards and footere. -->
+<script type="text/javascript">
+     function resizeContent() {
+         if (!(window.top.location.toString().indexOf('mobile') > -1) && !(window.top.location.toString().toLowerCase().indexOf('m.richmondgov.com') > -1)) {
+             var supportSize = parent.document.getElementById("supportingText").clientHeight;
+             var divisionSize = parent.document.getElementById("divisionalInformation").clientHeight;
+             if (supportSize < divisionSize)
+                 parent.document.getElementById("supportingText").style.height = divisionSize + "px";
+         }
+     }
+ </script>
+
+<!-- Javascript Written by the Webbi Team on 04-08-2011, it is meant to detect user agent and os and assign a stylesheet for that device. -->
+<script type="text/javascript">
+	if ((window.top.location.toString().indexOf('mobile') > -1) || (window.top.location.toString().toLowerCase().indexOf('m.richmondgov.com') > -1)) {
+		var BrowserDetect = {
+        init: function() {
+            this.browser = this.searchString(this.dataBrowser) || "Anunknownbrowser";
+            this.version = this.searchVersion(navigator.userAgent)
+                  || this.searchVersion(navigator.appVersion)
+                  || "anunknownversion";
+            this.OS = this.searchString(this.dataOS) || "anunknownOS";
+			this.hagensjBrowser = this.browser + this.OS;
+        },
+        searchString: function(data) {
+            for (var i = 0; i < data.length; i++) {
+                var dataString = data[i].string;
+                var dataProp = data[i].prop;
+                this.versionSearchString = data[i].versionSearch || data[i].identity;
+                if (dataString) {
+                    if (dataString.indexOf(data[i].subString) != -1)
+                        return data[i].identity;
+                }
+                else if (dataProp)
+                    return data[i].identity;
+            }
+        },
+        searchVersion: function(dataString) {
+            var index = dataString.indexOf(this.versionSearchString);
+            if (index == -1) return;
+            return parseFloat(dataString.substring(index + this.versionSearchString.length + 1));
+        },
+        dataBrowser: [
+            {
+                string: navigator.userAgent,
+                subString: "Chrome",
+                identity: "Chrome"
+            },
+            { string: navigator.userAgent,
+                subString: "OmniWeb",
+                versionSearch: "OmniWeb/",
+                identity: "OmniWeb"
+            },
+            {
+                string: navigator.vendor,
+                subString: "Apple",
+                identity: "Safari",
+                versionSearch: "Version"
+            },
+            {
+                prop: window.opera,
+                identity: "Opera"
+            },
+            {
+                string: navigator.vendor,
+                subString: "iCab",
+                identity: "iCab"
+            },
+            {
+                string: navigator.vendor,
+                subString: "KDE",
+                identity: "Konqueror"
+            },
+            {
+                string: navigator.userAgent,
+                subString: "Firefox",
+                identity: "Firefox"
+            },
+            {
+                string: navigator.vendor,
+                subString: "Camino",
+                identity: "Camino"
+            },
+            {           // for newer Netscapes (6+)
+                string: navigator.userAgent,
+                subString: "Netscape",
+                identity: "Netscape"
+            },
+            {
+                string: navigator.userAgent,
+                subString: "MSIE",
+                identity: "Explorer",
+                versionSearch: "MSIE"
+            },
+            {
+                string: navigator.userAgent,
+                subString: "Gecko",
+                identity: "Mozilla",
+                versionSearch: "rv"
+            },
+            {           // for older Netscapes (4-)
+                string: navigator.userAgent,
+                subString: "Mozilla",
+                identity: "Netscape",
+                versionSearch: "Mozilla"
+            }
+      ],
+        dataOS: [
+            {
+                string: navigator.platform,
+                subString: "Win",
+                identity: "Windows"
+            },
+            {
+                string: navigator.platform,
+                subString: "Mac",
+                identity: "Mac"
+            },
+            {
+                string: navigator.userAgent,
+                subString: "iPhone",
+                identity: "iPhone/iPod"
+            },
+            {
+                string: navigator.platform,
+                subString: "Linux",
+                identity: "Linux"
+            }
+      ]
+
+    };
+    BrowserDetect.init();
+	/* For testing */
+
+	/* alert("os = " + BrowserDetect.OS); */  
+	/* alert("User Agent" + navigator.userAgent); */
+	/* alert("browser = " + BrowserDetect.browser); */
+	/* alert("version = " + BrowserDetect.version); */
+	/* alert("testing -- the needed varible is = " + BrowserDetect.hagensjBrowser); */
+
+/********* CHANGE THE CSS FILE NAME AND THE OS HERE****************/
+    var cssFile;
+    switch (BrowserDetect.hagensjBrowser.toString()) {
+		case "SafarianunknownOS":
+            cssFile = "/design/css/maxWidth480px/sitewideSafariiPhoneiPod.css";
+			media = "screen";
+            break;
+		case "SafariiPhone/iPod":
+            cssFile = "/design/css/maxWidth480px/sitewideSafariiPhoneiPod.css";
+			media = "handheld, only screen and (max-width: 480px)";
+            break;
+        case "MozillaLinux":
+            cssFile = "/design/css/maxWidth480px/sitewideMozillaLinux.css";
+			media = "handheld, only screen and (max-width: 480px)";
+            break;
+		case "MozillaanunknownOS":
+            cssFile = "/design/css/maxWidth480px/sitewideMozillaanunknownOS.css";
+			media = "handheld, only screen and (max-width: 480px)";
+            break;
+		case "AnunknownbrowseranunknownOS":
+            cssFile = "/design/css/maxWidth480px/sitewideMozillaanunknownOS.css";
+			media = "handheld, only screen and (max-width: 480px)";
+            break;
+		case "FirefoxWindows":
+            cssFile = "/design/css/maxWidth480px/sitewideSafariiPhoneiPod.css";
+			media = "screen";
+            break;
+		case "ExplorerWindows":
+            cssFile = "/design/css/maxWidth480px/sitewideExplorer.css";
+			media = "screen";
+            break;
+        default:
+			cssFile = "/design/css/maxWidth480px/sitewide.css";
+			media = "handheld, only screen and (max-width: 480px)";
+            break;
+    }
+    /**************************************************************/
+	
+	
+	
+    var fileref = document.createElement("link")
+    fileref.setAttribute("rel", "stylesheet")
+    fileref.setAttribute("type", "text/css")
+    fileref.setAttribute("href", cssFile)
+	fileref.setAttribute("media", media)
+
+    if (typeof fileref != "undefined")
+        document.getElementsByTagName("head")[0].appendChild(fileref)
+		}
+		else {
+		/* alert('non-mobile'); */
+	}
+
+</script>
+
+
+	<link rel="stylesheet" href="/design/css/BusinessUnitStyleVarables.css" type="text/css" media="all">
+	<!--[if IE ]>
+	<link rel="stylesheet" href="/design/css/InternetExplorerWorkAround/cityCouncil.css" type="text/css" />
+	<![endif]-->
+	<title>Richmond VA &gt; Richmond City Council</title>
+</head>
+<body class="mainbody" id="CityCouncil">
+    <div id="container">
+		<div id="content">
+		<form name="aspnetForm" method="post" action="/common/Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTMwMjA1NTk1OWRkVvnL2n/eDJJTCUQP3IZLrmCWDT0=">
+
+        	
+    
+    <link type="text/css" href="/content/ThisIsHowItWorks/contentAccordion/css/overcast/jquery-ui-1.7.2.custom.css" rel="stylesheet">
+    <script type="text/javascript" src="/behavior/contentAccordian/jquery-1.3.2.min.js"></script>
+		
+            <div id="ctl00_ContentPlaceHolder1_intro"><!-- Not to be removed per hagensj (NTR) -->
+            <div id="pageHeader"><!-- NTR -->
+            	<h1 id="RichmondVa">Richmond, VA</h1>
+     	        <h1><span><!-- Citywide Common Items -->Privacy Statement</span></h1>
+			    <h2><span id="ctl00_ContentPlaceHolder1_SPAN1"></span></h2>
+            </div>
+		    <div id="quickSummary"><!-- NTR -->
+		        <p>Last Updated: <span class="LastUpdated">2009-12-11</span></p>
+		        <!--DateExpired: 2010-12-11 -->
+		    </div>
+
+			<div id="preamble"><!-- NTR -->
+			</div>
+		</div>
+         
+		
+        <div id="supportingText"><!-- NTR -->
+          <div id="area01"><!-- NTR -->
+             <p class="p1"><span>The Privacy Policy outlines the types of information the City of Richmond gathers on visitors to our website, as well as some of the steps we take to safeguard that information.</span></p>
+             <h4>Information Collection</h4>
+             <ul>
+             	<li>The city does not collect personal information about visitors to the website unless the visitor chooses to provide that information. </li>
+                <li>The city collects limited non-personally identifying information browsers make available automatically whenever someone visits a website. This information includes the Internet Address of the computer or network, the date, time, and page visited, the browser and operating system, and the referring page (the last webpage visited before clicking on a link to the city's website). </li>
+                <li>The city uses the aggregated information from all visitors to measure server performance; analyze user traffic patterns; and improve the content of the city's website. </li>
+                <li>The city tracks the keywords that are entered into the search engine to measure interest in specific topics, but that information is not linked to a specific visitor.</li>
+                <li>Some on-line services require visitors to register for an account, which requires entry of some personal information in order to create the account (typically the visitor's name, email address, and a password for account access).  For certain services, such as online tax payment services, it may be necessary to provide credit card or other payment information which may be stored temporarily in encrypted form on secure servers but not with the city.  All online credit card transactions are handled by third party Software as a Service (SaaS) providers.</li>
+             </ul>
+             <h4>Cookies</h4>
+			 <p class="p1"><span>The city may use "cookies" when providing online services. This information is used to improve quality of services and not to track any personal information.   The use of cookies is a standard practice among Internet websites and most Internet web browsers may be customized to reject cookies, to only accept or reject cookies by user intervention, or to delete cookies. However, some features may not function properly without cookies.
+</span></p>
+			<h4>SAAS Providers the city uses</h4>
+             <p class="p1"><span>The following is a list of some of the SaaS that the city uses.</span></p>
+             <ul>
+             	<li><a href="http://www.google.com/analytics" target="_blank" class="offSite">Google Analytics</a></li>
+                <li><a href="http://www.google.com/webmastertools" target="_blank" class="offSite">Google webmaster tools </a> </li>
+                <li><a href="http://www.google.com/translate" target="_blank" class="offSite">Google Translate</a> </li>
+                <li><a href="http://www.google.com/calendar" target="_blank" class="offSite">Google Calendar</a></li>
+                <li><a href="http://www.google.com/maps" target="_blank" class="offSite">Google Maps</a> </li>
+                <li><a href="https://www.remit-online.com " target="_blank" class="offSite">Remit Online</a> </li>
+                <li><a href="https://www.officialpayments.com" target="_blank" class="offSite">Official Payment</a></li>
+                <li><a href="https://mycheckfree.com" target="_blank" class="offSite">My CheckFree</a></li>
+                <li><a href="http://www.westernunion.com" target="_blank" class="offSite">Western Union</a> </li>
+                <li><a href="http://www.bing.com/maps" target="_blank" class="offSite">Bing Maps </a></li>
+                <li><a href="http://www.neogov.com/" target="_blank" class="offSite">Neo Gov</a> </li>
+                <li><a href="http://www.lexisnexis.com/" target="_blank" class="offSite">Lexis/Nexus</a> </li>
+                <li><a href="https://web.volunteer2.com" target="_blank" class="offSite">My VolunteerPage</a> </li>
+                <li><a href="http://www.courts.state.va.us/caseinfo/home.html" target="_blank" class="offSite">State of Virginia Court Case Information</a></li>
+                <li><a href="http://www.petfinder.com" target="_blank" class="offSite">Pet finders </a> </li>
+                <li><a href="http://www.seniornavigator.com" target="_blank" class="offSite">Senior Navigator</a> </li>
+                <li><a href="http://www.facebook.com" target="_blank" class="offSite">Facebook</a> </li>
+                <li><a href="http://twitter.com/" target="_blank" class="offSite">Twitter</a> </li>
+             </ul>
+           	<h4>Site Security</h4>
+            <p class="p1"><span>The city does not publicly disclose it's procedures for the security of web assests.  The city is within industry best practices in monitors network traffic to identify unauthorized attempts access information or to otherwise cause damage to the website.  The city will takes all appropriate security measures to protect unauthorized access, alteration, or destruction of data. Including prosection to the full extent of the law of persons found breaking the law as it relates to computer security.
+</span></p>
+          </div>            
+        </div>
+
+    <!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+    <!-- Add a background image to each and use width and height to control sizing, place with absolute positioning -->
+    <div id="extraDiv1"><span></span></div><div id="extraDiv2"><span></span></div><div id="extraDiv3"><span></span></div><!-- NTR -->
+    <div id="extraDiv4"><span></span></div><div id="extraDiv5"><span></span></div><div id="extraDiv6"><span></span></div><!-- NTR -->
+
+
+			
+    	</form>
+	<div id="divisionalInformation">
+		<div id="divisionalInformation2">
+			<div id="menuDept">
+				<h3 class="select"><span>Divisional Space:</span></h3>
+				<!-- list of links begins here. There will be no more than 8 links per page -->
+				    <ul id="accordion">
+					    <li><a href="/Common/index.aspx" accesskey="1">Home</a></li>
+					    <li><a href="/Common/calendar.aspx" accesskey="1">Calendar</a></li>
+					    <li><a href="/Common/contact.aspx" accesskey="1">Contact Us</a></li>
+					    <li><a href="/Common/Government.aspx" accesskey="1">Government</a></li>
+					    <li><a href="/Common/forms.aspx" accesskey="1">Forms</a></li>
+					    <li><a href="/Common/faq.aspx" accesskey="1">FAQ</a></li>
+				    </ul>
+			</div>
+			<div id="lcontact">
+				    <h3 class="archives"><span>Contact Information:</span></h3>
+				    <span id="OrgURL"><a class="fn org url" href="http://www.richmondgov.com">City of Richmond</a></span>
+                    <div class="adr">
+						<div class="street-address">900 E. Broad St.</div>
+						<span class="locality">Richmond</span>,   
+						<span class="region">VA</span><br>   
+						<span class="postal-code">23219</span>
+						<span class="country-name">USA</span><br>
+						<span class="Address"><a href="http://gis.richmondgov.com/MapIt/Default.aspx?i=GHUH5n5XnNWg5+r12h70PvZr2D46bXeWlR5gLW1mzyHS7/oDJMfvfQTuiRkCcK5nMvuAMzTangERBZgZ8DR2IqSC4u9m7w9byfQCbJD68fwL7SMmwJq+4C8Yqas469i3GXtRwWOwllg1ZaAHtCv5OL9w/gUJeg9tye5AC2OKsdY=" target="_blank">Map It</a></span>
+					</div>
+					
+                    <div id="Phone"><span class="phone">Phone: </span><span class="phoneResult">3-1-1</span></div>
+                    <!--<div id="Phone2"><span class="phone2">Fax: </span><span class="phone2Result"></span></div>-->
+			    </div>
+		    <div id="lresources">
+				
+			   <div id="google_translate_element"></div><script>
+	function googleTranslateElementInit() {
+	  new google.translate.TranslateElement({
+		pageLanguage: 'en'
+	  }, 'google_translate_element');
+	}
+	</script><script src="http://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+   
+		    </div>
+		</div><!-- this is the end of divisionalInformation2 div -->
+	</div><!--this is the end of divisionalInformation div -->
+	
+	<!--this is end of container div -->
+    	<script type="text/javascript" language="javascript">resizeContent()</script>
+	<div id="awards">
+	    <span id="awardBOW">
+            <a class="offSite" href="http://www.centerdigitalgov.com/survey/88" target="_blank">
+                <img alt="Best of the Web 2011 Finalist logo" src="/design/images/logoBOW11.gif">
+            </a>
+        </span>
+        <span id="awardDGAA">
+	        <a href="http://www.centerdigitalgov.com/survey/88/2011" class="offSite" target="_blank">
+            <img src="/design/images/logoDGAAWinner2011.gif" alt="DGAA 2011 Winner logo">
+            </a>
+        </span>
+        
+    </div>
+<div id="linkList">
+    <!-- last edited by hornecc 2011-05-12 -->
+    <!--extra div for flexibility - this list will probably be the trickiest spot you'll deal with -->
+    <div id="linkList2">
+        <!-- If you're wondering about the extra &nbsp; at the end of the link, it's a hack to meet WCAG 1 Accessibility. -->
+        <!-- I don't like having to do it, but this is a visual exercise. It's a compromise. -->
+        <div id="menuSite">
+            <h3 class="select">
+                <span>Site Wide Menu:</span></h3>
+            <!-- list of links begins here. There will be no more than 8 links per page -->
+<ul id="navigationSitewide" class="dropdown">
+<li id="navigationSitewideItem01" class="MajorMenuItems"><a href="/index.aspx" title="AccessKey: a" accesskey="a" class="navigationSitewideItem"><span>Home</span></a>
+<ul>
+<li>
+
+
+
+
+
+
+
+
+<table id="menuTable11" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="4">
+                Home, General or Common Pages
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr><td><a href="/common/Accessibility.aspx" class="menuInnerItem">Accessibility </a></td></tr>
+        <tr><td><a href="/common/awards.aspx" class="menuInnerItem">Awards to the City</a></td></tr>
+        <tr><td><a href="/common/contact.aspx" class="menuInnerItem">Contact Us</a></td></tr>
+        <tr><td><a href="/common/calendar.aspx" class="menuInnerItem">City Wide Calendar</a></td></tr>
+        <tr><td><a href="http://eservices.ci.richmond.va.us/applications/phone/phone.asp" class="menuInnerItem">Employee Directory</a></td></tr>                
+        <tr><td><a href="/common/faq.aspx" class="menuInnerItem">FAQ</a></td></tr>
+        <tr><td><a href="/common/forms.aspx" class="menuInnerItem">Forms</a></td></tr>        
+        <tr><td><a href="/common/Privacy.aspx" class="menuInnerItem">Privacy Policy</a></td></tr>
+        <tr><td><a href="/ServicesIndex/servicesA.aspx" class="menuInnerItem">Services A to Z</a></td></tr> 
+
+    </tbody>
+</table>
+</li>
+</ul>
+</li>
+<li id="navigationSitewideItem02" class="MajorMenuItems"><a href="/common/government.aspx" title="AccessKey: b" accesskey="b" class="navigationSitewideItem"><span>Government</span></a>
+<ul>
+<li>
+
+<table id="menuTable12" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="4">Leadership</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/Mayor/index.aspx" class="menuInnerItem">Mayor</a></td>
+            <td><a href="/CityCouncil/index.aspx" class="menuInnerItem">Richmond City Council</a></td>
+            <td><a href="http://newweb.richmond.k12.va.us/" class="menuInnerItem">School Board</a></td>
+        </tr>
+
+    </tbody>
+</table>
+<table id="menuTable03" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="3">Agencies</th>
+        </tr>
+    </thead>
+    
+    
+    <tbody>
+        <tr>
+            <td><a href="/AnimalControl/index.aspx" class="menuInnerItem">Animal Care and Control</a></td>
+            <td><a href="/HispanicLiaison/index.aspx" class="menuInnerItem">Hispanic Liaison Office</a></td>
+            <td><a href="/Procurement/index.aspx" class="menuInnerItem">Procurement Services</a></td> 
+        </tr>
+        <tr>
+            <td><a href="/Assessor/index.aspx" class="menuInnerItem">Assessor of Real Estate</a></td>
+            <td><a href="/HumanResources/index.aspx" class="menuInnerItem">Human Resources</a></td>
+            <td><a href="/PublicUtilities/index.aspx" class="menuInnerItem">Public Utilities</a></td>
+             
+        </tr>
+        <tr>
+            <td><a href="/CityAttorney/index.aspx" class="menuInnerItem">City Attorney</a></td>
+            <td><a href="/InformationTechnology/index.aspx" class="menuInnerItem">Information Technology</a></td>
+            <td><a href="/PublicWorks/index.aspx" class="menuInnerItem">Public Works</a></td>
+         
+        </tr>
+        <tr>
+            <td><a href="/Auditor/index.aspx" class="menuInnerItem">Auditor's Office</a></td>
+            <td><a href="/JusticeServices/index.aspx" class="menuInnerItem">Justice Services</a></td>
+            <td><a href="http://www.rrha.org/" class="menuInnerItem">Redevelopment and Housing</a></td>
+          
+        </tr>
+        <tr>
+            <td><a href="/Budget/index.aspx" class="menuInnerItem">Budget and Strategic Planning</a></td>
+            <td><a href="http://www.landmarktheater.net/" class="menuInnerItem">Landmark Theater</a></td>
+            <td><a href="/Retirement/index.aspx" class="menuInnerItem">Retirement System</a></td>
+        </tr>
+        <tr>
+        	<td><a href="/CityClerk/index.aspx" class="menuInnerItem">City Clerk</a></td>
+            <td><a href="http://www.richmondpubliclibrary.org/" class="menuInnerItem">Libraries - Public</a></td>        
+            <td><a href="http://www.richmond.k12.va.us/" class="menuInnerItem">Schools</a></td> 
+        </tr>
+        <tr>
+        	<td><a href="https://sharepoint.richmondgov.com/circuitcourt/default.aspx" class="menuInnerItem">Circuit Court Clerk</a></td>
+            <td><a href="/MinorityBusinessDevelopment/index.aspx" class="menuInnerItem">Minority Business Dev</a></td>
+            <td><a href="/Sheriff/index.aspx" class="menuInnerItem">Sheriff</a></td>
+        </tr>
+        <tr>
+        	<td><a href="/EconomicCommunityDevelopment/index.aspx" class="menuInnerItem">Economic &amp; Community Development</a></td>
+            <td><a href="/Parks/index.aspx" class="menuInnerItem">Parks and Recreation</a></td>
+            <td><a href="/SocialServices/index.aspx" class="menuInnerItem">Social Services</a></td>
+        </tr>
+        <tr>
+        	<td><a href="/fire/EmergencyManagement.aspx" class="menuInnerItem">Emergency Management</a></td>
+            <td><a href="/planninganddevelopmentreview/index.aspx" class="menuInnerItem">Planning and Development Review</a></td>
+            <td><a href="/sustainability/index.aspx" class="menuInnerItem">Sustainability</a></td>
+
+        </tr>
+        <tr>
+        	<td><a href="/Finance/index.aspx" class="menuInnerItem">Finance</a></td>
+            <td><a href="/Police/index.aspx" class="menuInnerItem">Police</a></td>
+            <td><a href="/Registrar/index.aspx" class="menuInnerItem">Voter Registrar</a></td>
+            
+        </tr>
+        <tr>
+        	<td><a href="/Fire/index.aspx" class="menuInnerItem">Fire and Emergency Services</a></td>
+            <td><a href="/PortOfRichmond/index.aspx" class="menuInnerItem">Port of Richmond</a></td>                  
+            <td><a href="/ServicesIndex/servicesA.aspx" class="menuInnerItem">Services A to Z</a></td>
+        </tr>
+        <tr>
+        	<td><a href="http://www.vdh.virginia.gov/lhd/richmondcity/" class="menuInnerItem">Health District, Richmond</a></td>
+            <td><a href="/PressSecretaryMayor/index.aspx" class="menuInnerItem">Press Secretary to the Mayor</a></td>       
+            <td><a href="/common/government.aspx" class="menuInnerItem">More Information..</a></td>
+        </tr>
+    </tbody>
+</table>
+</li>
+</ul>
+</li>
+<li id="navigationSitewideItem03" class="MajorMenuItems"><a href="/common/HighlightedInformation.aspx" title="AccessKey: c" accesskey="c" class="navigationSitewideItem"><span>Highlighted Information</span></a>
+<ul>
+<li>
+<table id="menuTable04" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="3"></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="/FarmersMarket/Index.aspx" class="menuInnerItem">17th Street Farmers</a></td>
+            <td><a href="http://www.richmondgov.com/CommunityGarden/index.aspx" class="menuInnerItem">Community Gardens</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/parksearch/index.asp" class="menuInnerItem">Park Search</a></td>
+            <td><a href="/SpecialEvents/index.aspx" class="menuInnerItem">Special Event Info</a></td>             
+            <td><a href="/sustainabilityplan/RVAGreen.aspx" class="menuInnerItem">Sustainability Plan</a></td>
+        </tr>
+        <tr>
+            <td><a href="/HumanResources/Jobs.aspx" class="menuInnerItem">Apply for a Job</a></td>
+            <td><a href="/Mayor/AskTheMayor.aspx" class="menuInnerItem">Contact Mayor</a></td>
+            <td><a href="/Parking/ParkingInformation.aspx" class="menuInnerItem">Parking Tickets</a></td>
+            <td><a href="/CommissionSlaveTrail/index.aspx" class="menuInnerItem">Slave Trail Commission</a></td>             
+            <td><a href="/common/HighlightedInformation.aspx" class="menuInnerItem">More Information...</a></td>
+        </tr>
+        <tr>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/citizensrequest/frmNewEntryType.asp" class="menuInnerItem">Citizens' Request System</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/phone/phone.asp" class="menuInnerItem">Employee Directory</a></td>
+            <td><a href="http://payments.officialpayments.com/transaction.asp?iClientID=432&amp;iProductID=15" class="menuInnerItem">Pay Taxes</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/publicsafety/traffic/trafficpage.aspx" class="menuInnerItem">Traffic Info</a></td>             
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>  
+       <tr>
+            <td><a href="http://library.municode.com/index.aspx?clientId=16118&amp;stateId=46&amp;stateName=Virginia" class="menuInnerItem">City Code</a></td>
+            <td><a href="/HispanicLiaison/index.aspx" class="menuInnerItem">Hispanic Liaison</a></td>
+            <td><a href="/Redistricting/index.aspx" class="menuInnerItem">Redistricting</a></td>
+            <td><a href="/Parking/ParkingInformation.aspx" class="menuInnerItem">Traffic Tickets</a></td>             
+            <td><a href="/" class="menuInnerItem"></a></td>
+        </tr>
+       <tr>
+            <td><a href="/PlanningAndDevelopmentReview/civicassociationgroupinformation.aspx" class="menuInnerItem">Civic Association Information</a></td>
+            <td><a href="/MayorsParticipationActionCommunicationTeam/index.aspx" class="menuInnerItem">MPACT</a></td>
+            <td><a href="https://www.voterinfo.sbe.virginia.gov/PublicSite/Public/FT2/PublicLookup.aspx?Link=Registration" class="menuInnerItem">Register to Vote</a></td>
+            <td><a href="/EconomicCommunityDevelopment/TransportationPlanning.aspx" class="menuInnerItem">Transportation Planning</a></td>             
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+        <tr>
+            <td><a href="/CityCouncil/contacts.aspx" class="menuInnerItem">Contact City Council</a></td>
+            <td><a href="/Parking/index.aspx" class="menuInnerItem">Parking Info</a></td>
+            <td><a href="/CommissionSisterCities/index.aspx" class="menuInnerItem">Sister Cities Commission</a></td>
+            <td><a href="/ServicesIndex/servicesA.aspx" class="menuInnerItem">Services A to Z</a></td>             
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+        
+    </tbody>
+</table>
+</li>
+</ul>
+</li>
+<li id="navigationSitewideItem04" class="MajorMenuItems"><a href="/common/business.aspx" title="AccessKey: d" accesskey="d" class="navigationSitewideItem"><span>Business</span></a>
+<ul>
+<li>
+<table id="menuTable05" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="3">Business</th>
+        </tr>
+    </thead>
+    <tbody>
+
+    
+        <tr>
+            <td><a href="/AnimalControl/index.aspx" class="menuInnerItem">Animal Care and Control</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/citizensrequest/frmNewEntryType.asp" class="menuInnerItem">Citizens' Request System</a></td>
+            <td><a href="/Finance/index.aspx" class="menuInnerItem">Finance Dept</a></td>
+            <td><a href="/EconomicCommunityDevelopment/checklist.aspx" class="menuInnerItem">Start a Business</a></td>
+        </tr>
+        <tr>
+            <td><a href="/Budget/reports.aspx" class="menuInnerItem">Annual Report</a></td>
+            <td><a href="/CityClerk/index.aspx" class="menuInnerItem">City Clerks</a></td>
+            <td><a href="/HispanicLiaison/index.aspx" class="menuInnerItem">Hispanic Liaison</a></td>
+            <td><a href="http://payments.officialpayments.com/transaction.asp?iClientID=432&amp;iProductID=15" class="menuInnerItem">Taxes Online Payment</a></td>
+        </tr>
+        <tr>
+            <td><a href="/Assessor/index.aspx" class="menuInnerItem">Assessor</a></td>
+            <td><a href="/CityCouncil/index.aspx" class="menuInnerItem">City Council</a></td>
+            <td><a href="/Mayor/index.aspx" class="menuInnerItem">Mayor's Office</a></td>
+            <td><a href="/ServicesIndex/servicesA.aspx" class="menuInnerItem">Services A to Z</a></td>
+        </tr>
+        <tr>
+            <td><a href="/Auditor/index.aspx" class="menuInnerItem">Auditor</a></td>
+            <td><a href="/common/calendar.aspx" class="menuInnerItem">City Wide Calendar</a></td>
+            <td><a href="/MinorityBusinessDevelopment/index.aspx" class="menuInnerItem">Minority Business Dev</a></td>
+            <td><a href="/common/business.aspx" class="menuInnerItem">More Information...</a></td>
+        </tr>
+        <tr>
+            <td><a href="/Procurement/BidsProposals.aspx" class="menuInnerItem">Bids and Proposals</a></td>
+            <td><a href="/EconomicCommunityDevelopment/index.aspx" class="menuInnerItem">Economic &amp; Community Development</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/permits/" class="menuInnerItem">Permits Web Inquiry</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+        <tr>
+            <td><a href="/BoardZoningAppeals/index.aspx" class="menuInnerItem">Board of Zoning Appeals</a></td>
+            <td><a href="/fire/EmergencyManagement.aspx" class="menuInnerItem">Emergency Management</a></td>
+            <td><a href="/PortOfRichmond/index.aspx" class="menuInnerItem">Port of Richmond</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+        <tr>
+            <td><a href="/Budget/index.aspx" class="menuInnerItem">Budget</a></td>
+            <td><a href="/HumanResources/Jobs.aspx" class="menuInnerItem">Employment</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/propertysearch/" class="menuInnerItem">Property Search</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+        <tr>
+            <td><a href="/CommunityAssistedPublicSafety/index.aspx" class="menuInnerItem">CAPS</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/phone/phone.asp" class="menuInnerItem">Employee Directory</a></td>
+            <td><a href="/SpecialEvents/index.aspx" class="menuInnerItem">Set Up a Special Event</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+    </tbody>
+</table>
+</li>
+</ul>
+</li>
+<li id="navigationSitewideItem05" class="MajorMenuItems"><a href="/common/Visitors.aspx" title="AccessKey: e" accesskey="e" class="navigationSitewideItem"><span>Visitors</span></a>
+<ul>
+<li>
+<table id="menuTable06" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="3">
+                Visitors
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    
+        <tr>
+            <td><a href="/FarmersMarket/Index.aspx" class="menuInnerItem">17th Street Farmers' Market</a></td>
+            <td><a href="/CityCouncil/index.aspx" class="menuInnerItem">City Council</a></td>
+	        <td><a href="/GIS/index.aspx" class="menuInnerItem">Maps</a></td>
+            <td><a href="/Visitors/Tours.aspx" class="menuInnerItem">Tours</a></td>
+        </tr>
+        <tr>
+            <td><a href="/Visitors/AboutRichmond.aspx" class="menuInnerItem">About Richmond</a></td>
+            <td><a href="/PressSecretaryMayor/index.aspx" class="menuInnerItem">City Publication</a></td>
+	        <td><a href="/MainStreetStation/index.aspx" class="menuInnerItem">Main Street Station</a></td>
+            <td><a href=" http://www.visitrichmondva.com/Plan/Visitor-Center" class="menuInnerItem">Visitors Center</a></td>
+        </tr>
+        <tr>
+            <td><a href="/common/calendar.aspx" class="menuInnerItem">City Wide Calendar</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/crimeinfo/index.asp" class="menuInnerItem">Crime Incidents</a></td>
+	        <td><a href="/Mayor/index.aspx" class="menuInnerItem">Mayor's Office</a></td>
+            <td><a href="/ServicesIndex/servicesA.aspx" class="menuInnerItem">Services A to Z</a></td>
+        </tr>
+        <tr>
+            <td><a href="/HumanResources/Jobs.aspx" class="menuInnerItem">Careers</a></td>
+            <td><a href="/Visitors/CulturalVenues.aspx" class="menuInnerItem">Cultural Venues</a></td>
+	        <td><a href="http://www.richmondcoliseum.net/" class="menuInnerItem">Richmond Coliseum</a></td>
+            <td><a href="/common/Visitors.aspx" class="menuInnerItem">More Information..</a></td>
+        </tr>
+        <tr>
+            <td><a href="/CensusData/index.aspx" class="menuInnerItem">Census Data</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/phone/phone.asp" class="menuInnerItem">Employee Directory</a></td>
+	        <td><a href="http://eservices.ci.richmond.va.us/applications/parksearch/index.asp" class="menuInnerItem">Park Search</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.richmondcenterstage.com" class="menuInnerItem">Center Stage</a></td>
+            <td><a href="http://www.landmarktheater.net/" class="menuInnerItem">Landmark Theatre</a></td>
+	        <td><a href="http://www.visitrichmondva.com/Plan/Visitor-Center" class="menuInnerItem">Travel and Tourism</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>
+        </tr>
+    </tbody>
+</table>
+</li>
+</ul>
+</li>
+<li id="navigationSitewideItem07" class="MajorMenuItems"><a href="/common/Residents.aspx" title="AccessKey: e" accesskey="e" class="navigationSitewideItem"><span>Residents</span></a>
+<ul>
+<li>
+<table id="menuTable06" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="3">
+                Residents
+            </th>
+        </tr>
+    </thead>
+<!--
+
+-->
+    <tbody>
+     	<tr>
+	        <td><a href="/FarmersMarket/Index.aspx" class="menuInnerItem">17th Street Farmers' Market</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/phone/phone.asp" class="menuInnerItem">Employee Directory</a></td>
+            <td><a href="/MayorsParticipationActionCommunicationTeam/index.aspx" class="menuInnerItem">MPACT</a></td>
+            <td><a href="http://www.richmond.k12.va.us/" class="menuInnerItem">Schools</a></td>          
+        </tr>
+        <tr>
+	        <td><a href="/AnimalControl/index.aspx" class="menuInnerItem">Animal Care and Control</a></td>
+            <td><a href="/fire/index.aspx" class="menuInnerItem">Fire and Emergency</a></td>
+            <td><a href="/parks/index.aspx" class="menuInnerItem">Parks Information</a></td>
+            <td><a href="/Sheriff/index.aspx" class="menuInnerItem">Sheriff Office</a></td>          
+        </tr>
+		<tr>
+	        <td><a href="/CommunityAssistedPublicSafety/index.aspx" class="menuInnerItem">CAPS</a></td>
+            <td><a href="/common/forms.aspx" class="menuInnerItem">Forms for the City</a></td>
+            <td><a href="/Police/index.aspx" class="menuInnerItem">Police</a></td>
+            <td><a href="/SocialServices/index.aspx" class="menuInnerItem">Social Services</a></td>          
+        </tr>
+		<tr>
+	        <td><a href="http://www.richmondcenterstage.com" class="menuInnerItem">Center Stage</a></td>
+            <td><a href="/GIS/index.aspx" class="menuInnerItem">GIS Maps and Data</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/propertysearch/" class="menuInnerItem">Property Search</a></td>
+            <td><a href="/Visitors/Tours.aspx" class="menuInnerItem">Tours</a></td>          
+        </tr>
+		<tr>
+	        <td><a href="http://eservices.ci.richmond.va.us/applications/citizensrequest/frmNewEntryType.asp" class="menuInnerItem">Citizens' Request System</a></td>
+            <td><a href="/sustainability/index.aspx" class="menuInnerItem">Green City</a></td>
+            <td><a href="http://www.vdh.virginia.gov/lhd/richmondcity/" class="menuInnerItem">Public Health</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/publicsafety/traffic/trafficpage.aspx" class="menuInnerItem">Traffic Conditions</a></td>          
+        </tr>
+     	<tr>
+	        <td><a href="/CityCouncil/index.aspx" class="menuInnerItem">City Council</a></td>
+            <td><a href="/HispanicLiaison/index.aspx" class="menuInnerItem">Hispanic Liaison</a></td>
+            <td><a href="http://www.richmondpubliclibrary.org/" class="menuInnerItem">Public Library</a></td>
+            <td><a href="/Registrar/index.aspx" class="menuInnerItem">Voters Registration</a></td>          
+        </tr>
+        <tr>
+	        <td><a href="/common/calendar.asp" class="menuInnerItem">City Wide Calendar</a></td>
+            <td><a href="/JusticeServices/index.aspx" class="menuInnerItem">Justice Services</a></td>
+            <td><a href="/PublicUtilities/index.aspx" class="menuInnerItem">Public Utilities</a></td>
+            <td><a href="/ServicesIndex/servicesA.aspx" class="menuInnerItem">Services A to Z</a></td>          
+        </tr>
+		<tr>
+	        <td><a href="/PlanningAndDevelopmentReview/civicassociationgroupinformation.aspx" class="menuInnerItem">Civic Association Information</a></td>
+            <td><a href="http://www.landmarktheater.net/" class="menuInnerItem">Landmark Theater</a></td>
+            <td><a href="http://www.ridegrtc.com" class="menuInnerItem">Local Bus System</a></td>
+            <td><a href="/common/Residents.aspx" class="menuInnerItem">More Information...</a></td>          
+        </tr>
+		<tr>
+	        <td><a href="http://www.richmondgov.com/CommunityGarden/index.aspx" class="menuInnerItem">Community Gardens</a></td>
+            <td><a href="/PublicWorks/Leafcollection.aspx" class="menuInnerItem">Leaf Collection</a></td>
+            <td><a href="/Redistricting/index.aspx" class="menuInnerItem">Redistricting</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>          
+        </tr>
+		<tr>
+	        <td><a href="http://eservices.ci.richmond.va.us/applications/crimeinfo/index.asp" class="menuInnerItem">Crime Report</a></td>
+            <td><a href="/MainStreetStation/index.aspx" class="menuInnerItem">Main Street Station</a></td>
+            <td><a href="PublicWorks/RefuseCollection.aspx" class="menuInnerItem">Refuse Collection</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>          
+        </tr>
+        <tr>
+	        <td><a href="/common/government.aspx" class="menuInnerItem">Departments</a></td>
+            <td><a href="/Mayor/index.aspx" class="menuInnerItem">Mayor's office</a></td>
+            <td><a href="/PublicWorks/StreetMaintenance.aspx" class="menuInnerItem">Road Repairs</a></td>
+            <td><a href="" class="menuInnerItem"></a></td>          
+        </tr>
+    </tbody>
+</table>
+</li>
+</ul>
+</li>
+<li id="navigationSitewideItem06" class="MajorMenuItems"><a href="/common/OnlineServices.aspx" title="AccessKey: f" accesskey="f" class="navigationSitewideItem"><span>Online Services</span></a>
+<ul>
+<li>
+<table id="menuTable08" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="4">Online Payments</th>
+        </tr>
+    </thead>
+    
+    
+    <tbody>
+        <tr>
+            <td><a href="/PublicUtilities/PaymentPlan.aspx" target="_blank" class="menuInnerItem">Gas and Water</a></td>
+            <td><a href="http://www.remit-online.com/804001/" target="_blank" class="menuInnerItem">Pay parking violations</a></td>
+            <td><a href="https://www.officialpayments.com/pc_entry_standard.jsp?productId=472423604102984348097010696008235192" target="_blank" class="menuInnerItem">Personal Property Taxes</a></td>
+            <td><a href="https://www.officialpayments.com/pc_entry_standard.jsp?productId=168752496115160062528572450308618424" target="_blank" class="menuInnerItem">Real Estate Taxes</a> </td>
+        </tr>
+    </tbody>
+</table>
+<table id="menuTable09" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="4">Interactive Maps</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="http://map.richmondgov.com/LandUseProject" target="_blank" class="menuInnerItem">Land Use Projects</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/publicsafety/traffic/trafficpage.aspx" target="_blank" class="menuInnerItem">Map of Traffic Hazards</a></td>
+            <td><a href="http://gis.richmondgov.com/MapIt/Default.aspx?i=GHUH5n5XnNWg5+r12h70PvZr2D46bXeWlR5gLW1mzyHS7/oDJMfvfQTuiRkCcK5nMvuAMzTangERBZgZ8DR2IqSC4u9m7w9byfQCbJD68fwL7SMmwJq+4C8Yqas469i3GXtRwWOwllg1ZaAHtCv5OL9w/gUJeg9tye5AC2OKsdY=" target="_blank" class="menuInnerItem">Map to City Hall</a></td>
+            <td><a href="http://map.richmondgov.com/zoning" target="_blank" class="menuInnerItem">Zoning</a> </td>
+        </tr>
+    </tbody>
+</table>
+<table id="menuTable10" class="menuTable">
+    <thead>
+        <tr>
+            <th colspan="4">
+                Other Services
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+    	<tr>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/ClerksAudio/audioDisplay.aspx" target="_blank" class="menuInnerItem">Audio Archive</a></td>
+            <td><a href="http://www.richmondgov.com/CommunityGarden/index.aspx" target="_blank" class="menuInnerItem">Community Gardens</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/parksearch/index.asp" target="_blank" class="menuInnerItem">Parks Search</a></td>
+            <td><a href="/Mayor/MayorsVideos.aspx" target="_blank" class="menuInnerItem">Video Archive</a> </td>
+        </tr>
+    	<tr>
+            <td><a href="/procurement/BidsProposals.aspx" target="_blank" class="menuInnerItem">Bids and Proposals</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/phone/phone.asp" target="_blank" class="menuInnerItem">Employee Directory</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/permits/" target="_blank" class="menuInnerItem">Permits Web Inquiry</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/NewBusinessArchive/" target="_blank" class="menuInnerItem">View Business Licenses</a> </td>
+        </tr>
+    	<tr>
+            <td><a href="http://wasdmz2.courts.state.va.us/CJISWeb/circuit.jsp" target="_blank" class="menuInnerItem">Circuit Court Case Information</a></td>
+            <td><a href="/FraudSquad/index.aspx" target="_blank" class="menuInnerItem">Fraud and Waste Reporting</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/PropertyTransferSearch" target="_blank" class="menuInnerItem">Property Transfer Search</a></td>
+            <td><a href="/applications/weather/weather.asp" target="_blank" class="menuInnerItem">Weather</a> </td>
+        </tr>
+    	<tr>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/citizensrequest/frmNewEntryType.asp" target="_blank" class="menuInnerItem">Citizens' Request System</a></td>
+            <td><a href="http://agency.governmentjobs.com/richmond/default.cfm?action=agencyspecs" target="_blank" class="menuInnerItem">Job Descriptions</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/PropertySearch/" target="_blank" class="menuInnerItem">Property Search</a></td>
+            <td><a href="/ServicesIndex/servicesA.aspx" target="_blank" class="menuInnerItem">Services A to Z</a> </td>
+        </tr>
+    	<tr>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/boardscommissions/index.aspx" target="_blank" class="menuInnerItem">Committees Information</a></td>
+            <td><a href="http://agency.governmentjobs.com/richmond/default.cfm" target="_blank" class="menuInnerItem">Job Search</a></td>
+            <td><a href="https://rapidsweb.ci.richmond.va.us" target="_blank" class="menuInnerItem">RAPIDS Employee Self Service</a></td>
+            <td><a href="/common/OnlineServices.aspx" target="_blank" class="menuInnerItem">More Information...</a> </td>
+        </tr>
+    	<tr>
+            <td><a href="http://epwsgdp1.courts.state.va.us/gdcourts/caseSearch.do?index=index" target="_blank" class="menuInnerItem">Court Case Information</a></td>
+            <td><a href="http://www.richmondpubliclibrary.org/content.asp?contentID=43" target="_blank" class="menuInnerItem">Library Online Services</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/publicsafety/traffic/trafficpage.aspx" target="_blank" class="menuInnerItem">Real-time Traffic</a></td>
+            <td><a href="" target="_blank" class="menuInnerItem"></a> </td>
+        </tr>
+    	<tr>
+            <td><a href="/Police/CrimeIncidentInfo.aspx" target="_blank" class="menuInnerItem">Crime Incident Information</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/mbebusinessdirectory/index.aspx" target="_blank" class="menuInnerItem">MBD Business Directory</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/clerkstracking/index.asp" target="_blank" class="menuInnerItem">Resolutions Search</a></td>
+            <td><a href="" target="_blank" class="menuInnerItem"></a> </td>
+        </tr>
+    	<tr>
+            <td><a href="/common/calendar.aspx" target="_blank" class="menuInnerItem">City Events Calendar</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/clerkstracking/index.asp" target="_blank" class="menuInnerItem">Ordinances Search</a></td>
+            <td><a href="http://eservices.ci.richmond.va.us/applications/retirementcalculator/ " target="_blank" class="menuInnerItem">Retirement Benefits Calc</a></td>
+            <td><a href="" target="_blank" class="menuInnerItem"></a> </td>
+        </tr>
+    </tbody>
+</table>
+                        </li>
+                    </ul>
+                </li>
+            </ul>
+        </div><!-- ending for menuSite -->
+    </div><!-- ending for linkList2 -->
+</div><!-- ending for linkList2 -->
+<div id="MobileLinkList">
+	<div id="MobileLinkList2">
+        <div id="banner2MenuOff">
+        
+        </div>
+        <div>
+            <ul id="MobileAccordion">
+            	<li><div><span class="forArrow">Home</span></div>
+                <ul>
+                   <li><span><a href="/index.aspx">Home of Mobile Site </a></span></li>
+                   <li><span><a href="http://www.richmondgov.com/index.aspx">Complete RichmondGov.com Site</a></span></li>
+                </ul>
+                </li>
+                <li><div><span class="forArrow buttonCityNews"><a href="/indexMobile.aspx" id="">City News</a></span></div></li>
+                <li><div><span class="forArrow">Government</span></div>
+                <ul>
+                    <li><span><a href="/Mayor/index.aspx">Mayor</a></span></li>
+                    <li><span><a href="/CityCouncil/index.aspx">City Council</a></span></li>
+                    <li><span><a href="/HumanResources/index.aspx">Human Resources</a></span></li>
+                    <li><span><a href="/Finance/index.aspx">Finance</a></span></li>
+                    <li><span><a href="/Assessor/index.aspx">Assessor</a></span></li>
+                </ul>
+                </li>
+                <li><div><span class="forArrow">Information</span></div>
+                <ul>
+                    <li><span><a href="/Finance/BusinessLicenseRenewal.aspx">Business License</a></span></li>
+                    <li><span><a href="/Finance/TangiblePersonalPropertyTaxes.aspx">Personal Property Tax</a></span></li>
+                    <li><span><a href="/Finance/RealEstateTaxes.aspx">Real Estate Taxes</a></span></li>
+                    <li><span><a href="/Procurement/BidsProposals.aspx">Bids and Proposals </a></span></li>
+                </ul>
+                </li>
+                <li><div><span class="forArrow">Public Safety</span></div>
+                <ul>
+                    <li><span><a href="/Police/index.aspx">Police</a></span></li>
+                    <li><span><a href="/Fire/index.aspx">Fire</a></span></li>
+                    <li><span><a href="/AnimalControl/index.aspx">Animal Control</a></span></li>
+                </ul>
+                </li>
+                <li><div><span class="forArrow">Visitors</span></div>
+                <ul>
+                    <li><span><a href="/Visitors/AboutRichmond.aspx">About Richmond</a></span></li>
+                    <li><span><a href="/common/calendar.aspx">City Events Calendar</a></span></li>
+                    <li><span><a href="/Visitors/Tours.aspx">Tours</a></span></li>
+                    <li><span><a href="/Visitors/FamilyFun.aspx">Family Fun</a></span></li>
+                    <li><span><a href="/Visitors/Landmarks.aspx">Landmarks</a></span></li>
+                    <li><span><a href="/Visitors/CulturalVenues.aspx">Cultural Venues</a></span></li>
+                    <li><span><a href="/Visitors/Museums.aspx">Museums</a></span></li>
+                </ul>
+                </li>
+                <li><div><span class="forArrow">Services</span></div>
+                <ul>
+                	<li><span><a href="http://eservices.ci.richmond.va.us/applications/publicsafety/traffic/trafficpage.aspx?mobile">Traffic Conditions</a></span></li>
+                    <li><span><a href="http://eservices.ci.richmond.va.us/applications/mobilePropertySearch/">Property Search</a></span></li>
+                    <li><span><a href="/PublicUtilities/PaymentPlan.aspx">Utility payment plan</a></span></li>
+                    <li><span><a href="/PublicWorks/services.aspx">Public Works services</a></span></li>
+                    <li><span id="menuItemMayorsParticipationActionCommunicationTeam"><a href="/MayorsParticipationActionCommunicationTeam/index.aspx">Mayor's Participation Action and Communication Team</a></span></li>
+                </ul>
+                </li>
+             </ul>
+         </div>
+     </div>
+</div>
+<div class="clear"></div>
+<div id="footer">
+    <div id="boilerplate">
+        <p>
+            <span id="footerLinks"><a href="/common/Accessibility.aspx">Accessibility</a> | <a href="/common/Privacy.aspx">Privacy Policy</a>
+            | <a href="/common/contact.aspx">Contact Us</a><br></span>
+            <span id="footerAddress">900 E. Broad St. | Richmond, VA 23219  <a href="http://gis.richmondgov.com/MapIt/Default.aspx?i=GHUH5n5XnNWg5+r12h70PvZr2D46bXeWlR5gLW1mzyHS7/oDJMfvfQTuiRkCcK5nMvuAMzTangERBZgZ8DR2IqSC4u9m7w9byfQCbJD68fwL7SMmwJq+4C8Yqas469i3GXtRwWOwllg1ZaAHtCv5OL9w/gUJeg9tye5AC2OKsdY=" target="_blank" id="footerMapIt">| Map it |</a>  (804)646-7000<br></span>
+            <span id="footerHours">Hours: Monday - Friday, 8 a.m. - 5 p.m.<br></span>
+            <span id="footerMayorLine" class="mayor">Mayor Dwight C. Jones | 2011 City of Richmond</span></p>
+    </div>
+    <div id="logos">
+        <img src="/design/images/sealPrototypeWhite2.jpg" id="logo01" alt="City Seal graphic">
+        <img src="/design/images/LogoPrototype.jpg" id="logo02" alt="City Logo graphic">
+        
+    </div>
+    <div id="EmergencyMessage" style="display: none;">
+        <h2></h2>
+    </div>
+    
+    
+</div>
+        
+
+<script type="text/javascript" src="/behavior/frameWorks/jQuery/plugins/jMenu.js"></script> 
+<div id="PrintInfo">
+   	<h1 id="PrintInfoH1">This is a print version of the webpage.  The navigation of the site has been removed through the print css.  If you require a printout of the page as it looks in your browser, please use screen capture.</h1>
+    </div>
+<script type="text/javascript">
+if ((window.top.location.toString().indexOf('mobile') > -1) || (window.top.location.toString().toLowerCase().indexOf('m.richmondgov.com') > -1)){
+	googleAnalyticsVar = "UA-5881176-4";
+}else {
+	googleAnalyticsVar="UA-5881176-1";
+}
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker(googleAnalyticsVar);
+pageTracker._trackPageview();
+</script>
+<script>
+$("#MobileAccordion > li > div").click(function(){
+	if(false == $(this).next().is(':visible')) {
+		$('#MobileAccordion ul').slideUp(300);
+	}
+	$(this).next().slideToggle(300);
+});
+// $('#MobileAccordion ul:eq(0)').show(); //
+</script>
+
+
+	<div id="search">
+    	<div id="searchForm">
+		<form action="/common/search.aspx" id="cse-search-box">
+          <div>
+            <input type="hidden" name="cx" value="012120868105058482803:2v0ktmb78p0">
+            <input type="hidden" name="cof" value="FORID:10">
+            <input type="hidden" name="ie" value="UTF-8">
+            <input type="text" name="q" size="25" id="searchInputBox">
+            <input type="submit" name="sa" value="Search" id="searchSubmitButton">
+          </div>
+		</form>
+</div> 
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en&amp;sitesearch=true"></script>
+	</div><!-- this is end of content div -->
+ 
+	<script type="text/javascript" src="/behavior/accordion/jquery-scrollTo.js"></script> 
+	<script type="text/javascript" src="/behavior/accordion/accordion.js"></script>
+	<!--[if IE ]>
+	<script type="text/javascript" src="/behavior/frameWorks/jQuery/jqueryHelper.js"></script>
+	<![endif]--> 
+
+
+</div></div></body></html>
