@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thaivisa.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424045005id_/http%3A//www.thaivisa.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thaivisa.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011132834id_/http%3A//www.thaivisa.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Thaivisa.com - Privacy Policy
 
