@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2010-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101004003951id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011101238id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Megaleecher.Net
 
@@ -13,7 +13,10 @@ If you do not want to receive e-mail from us in the future, please let us know b
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. For further information, consult the privacy policies of our advertisers:
 
 Google Adsense - <http://www.google.com/privacypolicy.html>  
-TribalFusion - <http://www.exponential.com/who-we-are/privacy-policy.jsp>
+TribalFusion - <http://www.exponential.com/who-we-are/privacy-policy.jsp>  
+Kontera - <http://www.kontera.com/em-privacy-policy>
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here (](http://www.networkadvertising.org/managing/opt_out.asp)<http://www.networkadvertising.org/managing/opt_out.asp>) (link to the NAI universal user opt-out).
 
 We use Mollom anti-spam technology to scan content posted by users, please review there privacy policy from the link below :
 
@@ -21,4 +24,4 @@ Mollom's Web service privacy policy - <http://mollom.com/web-service-privacy-pol
 
 For any questions or concern regarding privacy and data usage policy of this website, Pls. email us at the above email address.
 
-**Updated : 25-02-2010**
+**Updated : 03-02-2011**
