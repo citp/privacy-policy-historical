@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roc-taiwan.org privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222200503id_/http%3A//roc-taiwan.org/content.asp%3Fmp%3D1%26CuItem%3D215) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roc-taiwan.org privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011211827id_/http%3A//roc-taiwan.org/content.asp%3Fmp%3D1%26CuItem%3D215) for the most accurate reproduction.*
 
 # Privacy Policy - Document - Overseas Office Republic Of China ( Taiwan ) 中華民國（台灣）駐外單位聯合網站
 
