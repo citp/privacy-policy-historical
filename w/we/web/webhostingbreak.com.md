@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411131745id_/http%3A//privacy-policy.truste.com/verified-policy/www.webhostingbreak.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webhostingbreak.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011220947id_/http%3A//privacy-policy.truste.com/verified-policy/www.webhostingbreak.com) for the most accurate reproduction.*
 
 # Privacy Policy for www.webhostingbreak.com
 
-Effective on August 3, 2010
+Effective on August 3, 2010 
 
-This privacy statement describes how WebHostingBreak collects and uses the personal information you provide on our Web site: [www.webhostingbreak.com](https://www.webhostingbreak.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how WebHostingBreak collects and uses the personal information you provide on our Web site: [www.webhostingbreak.com ](https://www.webhostingbreak.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 **TRUSTe**
 
 WebHostingBreak is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-If you have questions or concerns regarding this policy, you should first contact us at [support@webhostingbreak.com](mailto:support@webhostingbreak.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+If you have questions or concerns regarding this policy, you should first contact us at [support@webhostingbreak.com ](mailto:support@webhostingbreak.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Collection and Use of Personal Information
 
@@ -46,7 +46,7 @@ We use this information to
 
 **Choice/Opt-Out**
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@webhostingbreak.com](mailto:support@webhostingbreak.com).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [support@webhostingbreak.com ](mailto:support@webhostingbreak.com).
 
 We enable you to create a profile, and share information such as messages, photos, and videos with others. Please note that we cannot control the actions of others with whom you may choose to share your pages and information.
 
@@ -61,13 +61,13 @@ We will share your personal information with third parties only in the ways that
 We may also disclose your personal information
 
   * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request,
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
   * if WebHostingBreak is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so. 
+  * to any other third party with your prior consent to do so.
 
 
 
-We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [support@webhostingbreak.com](mailto:support@webhostingbreak.com). 
+We share your personal information with other companies so that they can market their products or services to you. If you do not want us to share your personal information with these companies, contact us at [support@webhostingbreak.com ](mailto:support@webhostingbreak.com). 
 
 ## Cookies and Other Tracking Technologies
 
@@ -91,7 +91,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us at [support@webhostingbreak.com](mailto:support@webhostingbreak.com)
+If you have any questions about security on our Web site, you can contact us at [support@webhostingbreak.com ](mailto:support@webhostingbreak.com)
 
 ## Additional Policy Information
 
@@ -103,7 +103,7 @@ Our Web site offers publicly accessible blogs or community forums. You should be
 
 **Correcting and Updating Your Personal Information**
 
-To review and update your personal information to ensure it is accurate, contact us at [support@webhostingbreak.com](mailto:support@webhostingbreak.com).
+To review and update your personal information to ensure it is accurate, contact us at [support@webhostingbreak.com ](mailto:support@webhostingbreak.com).
 
 **Notification of Privacy Statement Changes**
 
@@ -111,9 +111,9 @@ We may update this privacy statement to reflect changes to our information pract
 
 You can contact us about this privacy statement by writing or email us at the address below:
 
-WebHostingBreak
+WebHostingBreak 
 
-115 Penn Warren Drive Suite 300-106
+115 Penn Warren Drive Suite 300-106 
 
 Nashville, TN, United States 37027
 
