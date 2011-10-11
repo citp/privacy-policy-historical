@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vid2c.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501133351id_/http%3A//www.vid2c.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vid2c.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011033720id_/http%3A//www.vid2c.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Vid2C
+# Privacy Policy - Vid2C new
 
 vid2c.com recognizes that its customers, visitors, users, and others who use vid2c value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the vid2c web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
