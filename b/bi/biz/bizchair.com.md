@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the bizchair.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430235405id_/http%3A//www.bizchair.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizchair.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011084044id_/http%3A//www.bizchair.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BizChair.com
 
-[](https://web.archive.org/web/20110430235405id_/http%3A//www.bizchair.com/landing-cybermonday-category.html)
-
-[](https://web.archive.org/web/20110430235405id_/http%3A//www.bizchair.com/info.html#purchase_orders)|   
----|---  
-  
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
 
 _**1\. Disclosure to Third Parties:** We will not disclose any personal information to any third party source at any time. All personal information is kept secure and never shared or sold to any third party.  
