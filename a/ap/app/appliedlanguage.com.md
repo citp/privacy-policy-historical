@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616045211id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliedlanguage.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011043306id_/http%3A//www.appliedlanguage.com/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
