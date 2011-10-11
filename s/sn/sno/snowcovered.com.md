@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snowcovered.com privacy policy that was archived on 2007-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071215085752id_/http%3A//www.snowcovered.com/snowcovered2/Default.aspx%3Ftabid%3D1%26def%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowcovered.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011134127id_/http%3A//www.snowcovered.com/Snowcovered2/Default.aspx%3Ftabid%3D27%26def%3DPrivacy) for the most accurate reproduction.*
 
-# Snowcovered.com: Online market for DotNetNuke modules, skins & more!
+# Snowcovered.com : Policies & Procedures
 
 Snowcovered.com is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Snowcovered.com Web site and governs data collection and usage. By using the Snowcovered.com website, you consent to the data practices described in this statement.
 
@@ -18,7 +18,7 @@ Use of your Personal Information
 
 Snowcovered.com collects and uses your personal information to operate the Snowcovered.com Web site and deliver the services you have requested. Snowcovered.com also uses your personally identifiable information to inform you of other products or services available from Snowcovered.com and its affiliates. Snowcovered.com may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Snowcovered.com does not sell, rent or lease its customer lists to third parties. Snowcovered.com may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Snowcovered.com may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Snowcovered.com, and they are required to maintain the confidentiality of your information.
+Snowcovered.com does not sell, rent or lease its customer lists to third parties. Snowcovered.com may, from time to time, contact you on behalf of other users. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Snowcovered.com may share your contact data with other users whom you have initiated communications with using the web site services; from commercial or non-commercial activity.
 
 Snowcovered.com does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
 
