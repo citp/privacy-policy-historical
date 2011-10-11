@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625090601id_/http%3A//www.dannylipford.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todayshomeowner.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011210749id_/http%3A//www.dannylipford.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Danny Lipford
 
-[](http://twitter.com/home/?status=Privacy+Policy+http%3A%2F%2Fbit.ly%2Fe6Zp6R "Post to Twitter") [](http://www.facebook.com/share.php?u=http://www.dannylipford.com/privacy-policy/&t=Privacy+Policy "Post to Facebook")
+[](http://twitter.com/intent/tweet?text=Privacy+Policy+http%3A%2F%2Fdannylipford.com%2F%3Fp%3D14052 "Post to Twitter") [](http://www.facebook.com/share.php?u=http://www.dannylipford.com/privacy-policy/&t=Privacy+Policy "Post to Facebook") 
 
 ### www.dannylipford.com
 
