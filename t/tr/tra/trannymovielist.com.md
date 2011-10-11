@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the trannymovielist.com privacy policy that was archived on 2010-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100811161216id_/http%3A//www.trannymovielist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannymovielist.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011143141id_/http%3A//www.trannymovielist.com/privacy.php) for the most accurate reproduction.*
 
-# Shemale Tube, Free Tranny Porn XXX Movies and T-girl Cumshot Videos
-
-[](https://web.archive.org/)
-
-  
-
+# Privacy at Tranny Movie List
 
 AE Media Group recognizes that its customers, visitors, users, and others who use Tranny Movie List value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the Tranny Movie List site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site. 
 
@@ -16,10 +11,6 @@ The Information AE Media Group Collects
 **User-provided information:** You provide certain personally identifiable information (such as your name and email address) to Tranny Movie List when choosing to participate in various activities on the sites such as uploading videos or posting messages.   
 **Cookies Information:** When you visit the Tranny Movie List site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Tranny Movie List uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Tranny Movie List site may not function properly if the ability to accept cookies is disabled.   
 **Log File Information:** When you use the Tranny Movie List site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser
-
-The Way Tranny Movie List Retains Information 
-
-To preserve the integrity of website databases, Tranny Movie List's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to Tranny Movie List, you are consenting to store that information indefinitely. 
 
 The Way AE Media Group Uses Information 
 
