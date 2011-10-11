@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630133033id_/http%3A//www.mediamind.com/Content.aspx%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeblaster.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011093045id_/http%3A//www.mediamind.com/Content.aspx%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # privacy policy - Mediamind – Cross Channel Campaign Management, Ad Serving and Rich Media for advertisers and agencies
 
