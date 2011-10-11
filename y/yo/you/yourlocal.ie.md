@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlocal.ie privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123095349id_/http%3A//www.yourlocal.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlocal.ie privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011201747id_/http%3A//www.yourlocal.ie/privacy-policy) for the most accurate reproduction.*
 
 # Local Business Listings and Coupons in Ireland | Directory Search with YourLocal.ie
 
