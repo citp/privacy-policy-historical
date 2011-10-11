@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the backlinks4u.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221192307id_/http%3A//backlinks4u.com/%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinks4u.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011172552id_/http%3A//www.backlinks4u.com%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# BackLinks For You: Buy Text Links, Sell Text Links
+# Text Link Ads - Buy Links - Sell Links - Backlinks
 
-**BackLinks4U.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+## Privacy Policy
+
+**Backlinks4u.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
 ## Routine Information Collection
 
@@ -10,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 ## Cookies and Web Beacons
 
-Where necessary, Tech Stories, Tech Videos, Tech Tweets, Tech Pictures, Tech News uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+Where necessary, Backlinks4u.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
@@ -20,4 +22,4 @@ Note that you can change your browser settings to disable cookies if you have pr
 
 ## Contact Information
 
-Concerns or questions about this privacy policy can be directed to support@backlinks4u.com for further clarification.
+Concerns or questions about this privacy policy can be directed to support@Backlinks4u.com for further clarification.
