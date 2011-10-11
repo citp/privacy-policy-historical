@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the bcassessment.ca privacy policy that was archived on 2006-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061009212757id_/http%3A//www.bcassessment.ca/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcassessment.ca privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011162807id_/http%3A//bcassessment.ca/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
-## Introduction
+### Introduction
 
 Through responsible information management practices, BC Assessment is committed to protecting the privacy of people whose personal information is held by it. Any personal information provided to BC Assessment is collected, used and disclosed in accordance with the _Assessment Act_ , the _Assessment Authority Act_ and the _Freedom of Information and Protection of Privacy Act_.
 
-## What is Personal Information?
+### What is Personal Information?
 
 Personal information is recorded information about an identifiable individual. Personal information includes such things as an individual's name, address, birth date, e-mail address and phone number. When BC Assessment collects personal information it must identify:
 
-  * the purpose for collecting the personal information;
-  * the legal authority for collecting it;
-  * the title, business address and business telephone number of an employee of BC Assessment who can answer your questions about the collection of that information.
+  * the purpose for collecting the personal information; 
+  * the legal authority for collecting it; 
+  * the title, business address and business telephone number of an employee of BC Assessment who can answer your questions about the collection of that information. 
 
 
 
-## What kind of information may be collected?
+### What kind of information may be collected?
 
 ### Information Automatically Collected
 
 If you visit BC Assessment's web site to browse, read pages, or download information, we will gather and store certain information about the visit. The following information is automatically collected and stored:
 
-  * The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. This address can be translated to determine the domain name of your service provider (e.g. gov.bc.ca, xcompany.com or yourschool.edu);
-  * The type of browser and operating system;
-  * The date and time of the visit.
+  * The Internet Protocol Address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. This address can be translated to determine the domain name of your service provider (e.g. gov.bc.ca, xcompany.com or yourschool.edu); 
+  * The type of browser and operating system; 
+  * The date and time of the visit. 
 
 
 
@@ -57,6 +57,6 @@ Any questions regarding this privacy policy can be directed to:
 Information and Privacy Officer  
 BC Assessment  
 Head Office  
-1537 Hillside Avenue  
-Victoria, BC  
+400 – 3450 Uptown Blvd.   
+Victoria BC V8Z 0B9  
 V8T 4Y2
