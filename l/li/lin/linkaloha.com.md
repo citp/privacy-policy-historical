@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkaloha.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520230053id_/http%3A//www.linkaloha.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkaloha.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011064020id_/http%3A//www.linkaloha.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - LinkAloha
 
