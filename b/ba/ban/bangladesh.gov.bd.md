@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangladesh.gov.bd privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430203325id_/http%3A//www.bangladesh.gov.bd/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D75%26Itemid%3D148) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangladesh.gov.bd privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011195634id_/http%3A//www.bangladesh.gov.bd/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D75%26Itemid%3D148) for the most accurate reproduction.*
 
 # National Web Portal Of Bangladesh - Privacy Policy
 
@@ -29,7 +29,7 @@ This website includes links to websites operated by other government agencies, n
 **Policy Revision and Notification of Changes**  
 The Prime Minister's Office of Bangladesh may at any time revise or update this policy without notice. We may inform our users about policy changes through notices on this page containing a version number and date. Any information collected under the current policy will remain subject to these terms. Information collected after any changes take effect will be subject to the revised privacy policy.      
   
-**Prime Minister's Office,**  
+****Prime Minister's Office** , **  
 Old Sangsad Bhaban,Tejgaon, Dhaka-1215,   
 Bangladesh.  
 e-mail: [info@pmo.gov.bd](mailto:info@pmo.gov.bd)  
