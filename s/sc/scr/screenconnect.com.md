@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922062221id_/http%3A//www.screenconnect.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the screenconnect.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011194333id_/http%3A//www.screenconnect.com/Privacy) for the most accurate reproduction.*
 
-# ScreenConnect
+# Privacy Policy for ScreenConnect Website
 
 Thank you for your interest in Elsinore Technologies, Inc. ("Elsinore", "we", or "us"). This Privacy Policy describes Elsinore’s privacy policy with regard to our Internet website located at http://www.elsitech.com or any successor Internet website thereto (the "Site"). By visiting the Site, you are accepting the practices described in this Privacy Policy. THIS PRIVACY POLICY MAY CHANGE FROM TIME TO TIME, SO PLEASE CHECK BACK PERIODICALLY.
 
