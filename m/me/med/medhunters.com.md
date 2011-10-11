@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2010-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101004114932id_/http%3A//www.medhunters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medhunters.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011202142id_/http%3A//www.healthecareers.com/privacy-policy) for the most accurate reproduction.*
 
-# MedHunters
+# HEALTHeCAREERS Network
 
 **1.0 Overview.**  
 This Privacy Policy covers how OnTargetJobs, Inc. and its subsidiaries and affiliated companies (collectively "OTJ") treat personal information that OTJ collects and receives. OTJ is committed to providing you with a safe, secure environment from which you can confidently register, apply for jobs and utilize other career and recruitment related services. Personal information is information about you that is personally identifiable like your name, address, email address or phone number, and that is not otherwise publicly available. This Privacy Policy sets forth the online data collection and usage policies and practices that apply to the OTJ Web Sites and does not apply to information we collect in any other fashion. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in the Privacy Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive e-mails, as described below in this Privacy Policy.
@@ -36,7 +36,7 @@ Some job postings on the OTJ Web Sites link directly to the employer's Web site 
 
 We may also use your contact information to send you emails about updates to the OTJ Web Site or new features or services offered by OTJ or our business partners or to contact you about your opinion of current products and services or potential future products and services. You have the option to decline to receive such information from OTJ online. 
 
-We reserve the right to send you certain communications relating to OTJ, such as service announcements, administrative messages, information about specific job opportunities, and the OTJ weekly newsletter that are considered part of your OTJ account. Should you choose to submit feedback to OTJ, such feedback becomes our property and we can use such feedback (such as job seeker testimonials) for marketing purposes or to contact you for further information.
+We reserve the right to send you certain communications relating to OTJ, such as service announcements, administrative messages, information about specific job opportunities and your interests (such as relevant job alerts, services, educational or career development opportunities), and the OTJ newsletter(s) that are considered part of your OTJ account. Should you choose to submit feedback to OTJ, such feedback becomes our property and we can use such feedback (such as job seeker testimonials) for marketing purposes or to contact you for further information.
 
 You can access, update or edit your account at any time by logging on with you login/username and password. This includes changes to your registration information, resume(s), preferences, job alerts and newsletters. If you have forgotten your password, you can use the "Forgot Password" functionality on the Web sites. If you require assistance, you can contact our service team by using the "Contact Us" link on the Web sites.
 
@@ -85,7 +85,7 @@ You can adjust the settings on your Web browser to decline all cookies, if you p
 > For more information about your personal privacy rights under Canada's Personal Information Protection and Electronic Documents Act or to file a complaint with the Privacy Commissioner of Canada, please contact the Privacy Commissioner of Canada at www.privcom.gc.ca or by calling 1-800-282-1376.
 
 **Contact Information**  
-OnTargetJobs, Inc. is a Delaware corporation with its principal place of business at 9100 E. Panorama Drive, Suite 200, Englewood, CO 80112. OnTargetJobs, Inc.'s subsidiaries and affiliated companies have principal places of business in the United States and Canada.
+OnTargetJobs, Inc. is a Delaware corporation with its principal place of business at 6465 South Greenwood Plaza Boulevard, Suite 400, Centennial, CO 80111. OnTargetJobs, Inc.'s subsidiaries and affiliated companies have principal places of business in the United States and Canada.
 
 Thank you for using OTJ.
 
