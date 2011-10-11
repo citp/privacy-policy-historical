@@ -1,67 +1,137 @@
-> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102004235id_/http%3A//www.specificmedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the specificmedia.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011040105id_/http%3A//specificmedia.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Specific Media
+# Specific Media is a digital media company driving viewership for content owners, engagement for brands and relevance for consumers | Specific Media
 
-### Our commitment to protecting people’s privacy online is as serious as our dedication to providing the most relevant advertising.
+Specific Media takes the issue of user privacy on the internet very seriously and the following is intended to be a plain English explanation of the approach we currently employ. We always welcome comments on our privacy policy and constantly strive to maintain a privacy policy which improves the service we provide to advertisers, publishers and web users in general.
 
-The following describes the overall company practices of Specific Media, Inc. including all subsidiaries, affiliates and network (referred to as "Specific Media", "we", "us", or "our"). This Privacy Policy was created to let you know what information we collect when you visit our web sites and when we serve advertisements on our network of websites, why we collect it and how it is used.
+## What We Do
 
-#### What Information Is Collected?
+Specific Media is an online advertising network. We work with hundreds of websites in the US, UK, France, Germany, Denmark, Sweden, Norway, and the Netherlands buying display (image) advertising space and re-selling it in carefully targeted packages to advertisers and agencies. The targeting options we offer range from simple geographic locations, to more complicated targeting involving user’s interests. As we target, we identify the sites and groups of users that are most likely to create a response to an advertiser's campaign.
 
-##### Non-Personally Identifiable Consumer Data
+## What Data We Collect
 
-Specific Media may collect anonymous data while you are visiting a Specific Media Web site or the Web site of one of Specific Media business customers, including advertisers and Web publishers (collectively "Business Customers"). This anonymous data includes information such as a web surfer's IP address, web pages which have been viewed by a web surfer, date and time, domain type, and responses by a web surfer to an advertisement delivered by us or a third party advertising technology vendor. We, and/or a third party advertising technology vendor, may use different types of technologies to collect this type of information, including cookies and pixels. In addition, as a part of the registration process, users may provide us with additional non-personally identifiable information. Examples of the non-personally identifiable data that may be provided with the users consent would include age, gender, and interests. None of the foregoing information (collectively referred to as "non-personally identifiable data"), by itself, or together, can by its nature be tracked to a specific individual's personally identifiable information. Web surfers may elect not to allow us to use anonymous data by following the Opt-Out procedures set forth below.
+##### Cookie and Pixel Information
 
-##### Personally Identifiable Consumer Data (PII)
+Cookies and pixels provide us with the ability to create an ID in order for us to match collected data to an anonymous machine including: 
 
-To date, on our wholly owned properties we do not ask for personally identifiable information other than outlined below for business purposes. At some of the Specific Media, Inc. partner properties, they may ask people to register and provide personally identifiable data. Specific Media, Inc. is committed to making sure that our partners provide notice and choice to all consumers.
+  * The URLs (or website address) of web pages which have been viewed
 
-##### Other Information that is Collected
+  * The date and time of visit to a web page
 
-At some Specific Media properties, including this one, Specific Media collects personal information on individuals and companies who want to enter into business relationships with Specific Media ("business information"). An example of this would include web publishers who want to become a part of Specific Media's web network. We maintain business information for purposes of administering the program, such as maintaining account information, sending payments, etc. We may share business information with third parties who provide administrative services (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials as we deem necessary or appropriate.
+  * Whether the user has clicked on an ad of one of our Advertisers, visited their website, or undertaken a transaction with them
 
-#### How Is Such Information Used?
 
-Specific Media will use your non-personal information in order to better target advertisements and offers across the Specific Media Network, to provide aggregate reporting to advertisers and clients, and to improve our advertising systems and products. In addition, that data may be combined with information collected from other sources so that we may better serve consumer preferences with offers that may be of interest to them. We may also share non-personally identifiable information with our subsidiaries and third party partners for similar use.
 
-If a consumer elects to provide Specific Media with personally identifiable data, we may utilize such data for marketing purposes. In addition, that data may be combined with information collected from other sources to better serve consumers with offers that may be of interest to them. For example, you may register for a newsletter and provide us with your email, If a consumer elects to provide us with personally identifiable data, he or she has the right to tell us not to make some of the uses of such data described herein or may have such data deleted in its entirety at any time. Simply contact us and provide the name of the service for which you provided information and let us know what level of opt-out you would like to exercise. These include: (1) Do not share information about me with business partners, (2) Do not solicit me with special offers other than those related to the service I signed up for, or (3) Remove my data from your database for such service completely. Once we receive this instruction, we will promptly take corrective action. Please note that we will need you to provide your email address or other previously provided personal identifier in order to identify you in the [Data Opt-Out](mailto:privacy@specificmedia.com) process. Also, please remember that if you choose to delete your information completely you will no longer receive the service in question.
 
-We collect PII from customers who are individuals or companies that wish to enter into business relationships with Specific Media, including websites and online marketers. This customer information is used only for purposes of administering these relationships, including maintaining account information, managing payments and communicating with the client. Specific Media may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: (1) conform to the edicts of the law or comply with legal process served on Specific Media; (2) protect and defend the rights or property of Specific Media; or (3) act in urgent circumstances to protect the personal safety of users of Specific Media, its websites or the public; 4) To provide updates and services that may be of interest to the customer.
+##### Session Information
 
-#### Security
+This information relates to user, campaign and interest-based history and is used for frequency capping and interest targeting. This information is gathered from websites visited and clicks registered by the user’s machine.
 
-Specific Media uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Specific Media and you do so at your own risk. Once we receive your transmission of information, Specific Media makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+##### Request-based Information
 
-#### Additional Notices and Disclosures
+This information is passed to us by the user’s computer browser with every request and is stored entirely anonymously for statistical purposes only: 
 
-##### Opt-Out
+  * IP (Internet Protocol) addresses - Every device connected to the Internet has an IP address. This cannot be traced to an individual user but can be used for geographic targeting and statistical measurements
 
-Specific Media is a member of the [Network Advertising Initiative](http://www.networkadvertising.org/), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies. To learn more about behavioral advertising in general, and to exercise your right to [opt-out of this practice, click here](http://www.networkadvertising.org/managing/opt_out.asp).
+  * Browser type - e.g. Are you using Microsoft Explorer or Apple’s Safari
 
-##### Third Party Information Gathering
+  * Computer Operating System - e.g. Are you using Windows Vista or Apple OS
 
-Our website may contain content and advertisements from third parties that may perform user activity tracking other than that described herein. These other sites may place their own cookies on your computer, collect data or solicit personal information. For more information about each third party content provider, cookies, and how to "opt-out", please refer to such third party advertiser's privacy policy. Our website may contain links to other websites on the Web. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by Specific Media.
 
-##### Correspondence
 
-If you contact us, we may keep a record of that correspondence and we may collect your email address.
 
-##### Children's Privacy
+We may purchase anonymous data from third-party sources. This data is anonymous and is used to update existing user profiles. We do not share, rent or sell any of the data acquired from third party sources.
 
-Specific Media is very sensitive to the issue of children's privacy. Specific Media's websites, products, and services are neither developed for, nor directed at, children. If you believe your child has provided Specific Media with personally identifiable data, or registered at one of Specific Media's websites, and you would like to have the data removed, please [contact us](mailto:privacy@specificmedia.com).
+## Personally Identifiable Information (PII)
 
-##### Sale of Assets
+We do not collect any personally identifiable information. The IAB (Internet Advertising Bureau), which is a trade association for the internet marketing industry, defines personally identifiable information as 'information that can be traced back to a specific user and provide personal information such as name, address, phone number, etc.' In other words, it's information about you that can identify you as a person rather than an anonymous profile.
 
-In the event that another company acquires all or substantially all of the assets related to the business, we reserve the right to include any or all stored personal information among the assets transferred to the acquiring company.
+All of our profiles are anonymous, and relate to a computer rather than a user. For us, they are nothing more than a number with which we associate interests and/or an estimated or inferred demographic profile.
 
-##### Changes to Privacy Policy
+## Cookies and Pixels
 
-This privacy policy is subject to change without notice. We may change our policy at any time by posting a new version of it on our website.
+Cookies are small text files that are stored within a folder on your computer and are used only by your Internet browser. They are not programs or applications – they are merely a marker of our previous contact with you. They take up a tiny amount of space on your computer (less than a regular webpage without images does) and can be used to uniquely, but anonymously, identify your computer.
 
-##### Effective Date
+Most websites use cookies to identify users and improve the user experience.
 
-The privacy policy was last revised on May 1, 2008.
+The Specific Media cookie does not harm your computer in any way or provide us with any information about your identity. The Specific Media cookie is not spyware or adware.
 
-##### Questions and Comments
+The general definition of spyware/adware is that of a software package installed on your computer for purposes of monitoring all your internet or general computer activity. We do not install software of any kind on your computer and have no ability to monitor or track your general computer or overall internet usage. Cookies can be easily avoided by opting out from them, or adjusting your browser settings.
 
-Questions and comments about your privacy policy should be directed to [privacy@specificmedia.com](mailto:privacy@specificmedia.com) or mailed to Privacy Officer, Specific Media, Inc, 4 Park Plaza, Suite 1500, Irvine CA 92614.
+Pixels are small text files used to track website visitation and actions taken by users on these websites. The information collected from the pixel is stored in the cookie.
+
+## How We Use This Data
+
+Specific Media uses the information collected to target advertising campaigns more effectively. The aim is for you to see ads which you are more likely to be interested in, rather than ads that you aren't. We do this by comparing the information relating to the machine’s anonymous profile, against our selection of ad campaigns and choosing the most suitable advertisement. It's important to understand that Specific Media can only create these profiles and display ads to you when you visit a website that we have a relationship with.
+
+Most websites you visit will not charge you, but are funded by the ads that you view. The more effective the advertising on a site, the more money it can generate from fewer ads – reducing the clutter and invasiveness of the advertising on their websites. Identifying anonymous profiles allows Specific Media to offer an improved online experience for you, increased performance to our advertisers and enhanced revenues for our websites.
+
+We do not sell, rent or share any of the anonymous data to third-parties.
+
+## Data Retention
+
+Specific Media maintains all server log data (see ‘What data we collect’) and data stored in the cookie for a period of 12 months to comply with audits, court order or law enforcement inquiries. After 12 months all of the stored data is destroyed. Summarized data is kept indefinitely. Summarized data is aggregated statistical data (impressions and clicks) used for financial reporting purposes.
+
+## Action Attribution
+
+To gain a greater understanding of a site's performance, or a user's general interests, we use a variety of technologies to determine which websites in our network the user visited previously and/or where the user clicked on an advertisement. Using this information, we can calculate which websites and/or which broad interest characteristic of a user is likely to best respond to a particular campaign. This takes two forms:
+
+  * ## Performance Attribution
+
+We monitor the sales, signups or visits to certain predetermined pages on our advertisers' websites. We reconcile these page 'hits' back to the ads that were shown to allow us to manage advertising campaign delivery, and report on this to our advertisers and publishers. We use cookies to limit the number of ads any individual computer is exposed to.
+
+  * ## User Interest Profiling
+
+To create a user interest profile, we observe which websites within our network users have interacted, and we determine what topics those websites are about. This information is combined to generate an anonymous interest profile for specific computers.
+
+Depending on the content of the sites users visit, we build an anonymous profile which contains information on potential interests and a statistical estimate of their likely demographic. For example, if a user visits a sports site within our network then we may classify them as broadly interested in that sport. All data that we use is stored anonymously.
+
+
+
+
+## Opting Out
+
+Specific Media is a member of NAI, the [Network Advertising Initiative](http://www.networkadvertising.org/), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies.
+
+If you prefer not to have online advertising tailored to a user interest profile, you may opt out at any time by one of the following methods:
+
+  * Opt out of targeting from all NAI member networks by visiting the Network Advertising Initiative at [networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp). This uses a cookie that blocks the use of any kind of targeting methodology. Once the opt out cookie is placed in the user profile all tracking and targeting methodologies are rendered inoperative. We absolutely do not utilize cookies, pixels or any other method of tracking or targeting when the opt out cookie is present in a user profile. Please note that as with any cookie, if you delete your cookies, change browsers, or use a different computer, you will need to opt out again.
+
+  * Opt out of Specific Media’s user interest targeting cookie by clicking the button below. Please note that if you delete your cookies, change browsers, or use a different computer, you will need to opt out again.
+
+  * Disable cookies in your browser (typically under Tools-Options-Privacy, but this varies between browser types and versions). Please note that cookies are used for a variety of reasons, not just targeting advertising, so this may adversely impact your online experience.
+
+
+
+
+It should also be noted that opting out does not mean you will not see advertisements online, but these advertisements will not be targeted based on your online user interest profile from us as an individual vendor.
+
+## Security
+
+If you provide us with your contact or business information in order to conduct business with us as an advertiser or publisher, Specific Media uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your information. We cannot, however, ensure or warrant the security of any information you transmit to Specific Media and you do so at your own risk.
+
+Specific Media takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store data.
+
+## Correspondence
+
+If you contact us, we may keep a record of that correspondence and we may collect your email address. This relates to this correspondence only – and is not part of our core online business.
+
+## Children's Privacy
+
+Specific Media is very sensitive to the importance of children's privacy and employs a zero-tolerance approach to advertising to children. Specific Media's websites, products, and services are neither developed for, nor directed at, children. Specific Media does not employ or offer targeting towards children under the age of 18. If you believe your child has provided Specific Media with personal information, or registered at one of Specific Media's websites, and you would like to have the data removed, please [contact us](mailto:privacy@specificmedia.com).
+
+## Changes to Privacy Policy
+
+This privacy policy is subject to change without notice. If you visit our website or use our services, the terms and conditions of this privacy policy as displayed at that time apply.
+
+## Effective Date
+
+The privacy policy was last revised on January 5th, 2011.
+
+## Questions and Comments
+
+Questions and comments about our privacy policy should be directed to [privacy@specificmedia.com](mailto:privacy@specificmedia.com) or mailed to:  
+Privacy Officer  
+Specific Media LLC  
+4 Park Plaza, Suite 1500  
+Irvine, CA 92614 
