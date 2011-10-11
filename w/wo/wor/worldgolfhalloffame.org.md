@@ -1,0 +1,73 @@
+> *The following text is extracted and transformed from the worldgolfhalloffame.org privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011120440id_/http%3A//www.worldgolfhalloffame.org/privacy-policy.php) for the most accurate reproduction.*
+
+# World Golf Hall of Fame
+
+  |   | 
+
+**PRIVACY POLICY**
+
+This is the Privacy Policy of World Golf Hall of Fame, a division of World Golf Foundation, Inc., governing the collection and use of information gathered by World Golf Hall of Fame and/or World Golf Foundation, Inc. ("we" or "us" or "our") or provided by you through this site. Please review this Privacy Policy carefully for it contains information important to you. If you do not want us to be able to gather and use information about you as set forth herein, please do not use this site. Use of the site constitutes your acceptance of and agreement to this Privacy Policy. The purpose of this Privacy Policy is to identify for you the nature of information that may be collected about or from you and the way in which such information may be used and disclosed. 
+
+
+
+
+**Types Of Information Collected.**
+
+We may collect from you information by which you may be identified, such as your name, address, zip code, telephone number, email address, credit card information, and other information by which you may be identified. This information may be collected from you if you provide it, if you register at our site, if you request information, products or services from us through the site, if you request information about promotions through the site, or if you enter a sweepstakes on the site sponsored by us, complete a survey on the site, communicate with us via email through the site, and from our use of "cookies" and other technology as you use the site. 
+
+Note that if you link from our site for purposes of securing spa services, resort or hotel accommodations, golf reservations or real estate information or services, for example by selecting the links/buttons entitled "Accommodations," "Golf," "Spa," or "Real Estate," you will be traveling to other sites operated by other entities with different privacy policies, and the information you provide on those sites is not governed by this Privacy Policy. Please see the paragraph below entitled "Use Caution When Visiting Other Sites" for more information. 
+
+
+
+
+**Use Of Information Provided.**
+
+(a) Marketing Uses. We may use this information, such as your name, address, telephone number, and/or email address, to contact you and send you information about us, our affiliates, and third party goods, services, and promotions in which we believe you may be interested. We may disclose your information to our agents and service providers who help us contact you for these purposes. In addition, we may disclose your information to our affiliates and third parties for their use in contacting you about products, services and promotions in which we believe you might be interested. All of the foregoing uses are referred to below as Marketing Purposes. You have the opportunity to opt out of allowing us to use or disclose your information for these Marketing Purposes as explained below in the paragraph entitled "Opt Out". 
+(b) To comply with your requests and orders. We may also use and disclose to others (such as our billing service providers, our fulfillment houses and shipping companies) your information, to the extent reasonably necessary, to provide you with the information, opportunities, goods or services you request, such as if you request information about a promotion, choose to enter a sweepstakes, order goods or services, or request information from us. For example, if you choose to receive information regarding a promotion offered by a third party, we may share your information, such as your name and e-mail address with such third party offering the promotion. For another example, if you request information, or buy products or services through the site, we may use and disclose this information to others so as to comply with your request (for example, to disclose your information, including your credit card information, to secure payment, by using your email or street address to send you the requested information, product or service, to disclose your email or street address to our mailing, fulfillment and shipping companies so that the requested information, product or service may be sent to you). 
+(c) We may aggregate your information with the information of others so that you cannot reasonably be identified and we may use and disclose such statistical information for any purpose. 
+(d) We may use your information to help improve the operation of our site, such as to diagnose problems with our server, to administer our site, and to communicate with you with respect to your use of the site, including, without limitation, to respond to e-mails from you. We may also share your information with and transfer it and our rights in it to another entity acquiring all or substantially all of our assets, or the assets of the division to which this site relates, which entity would have the right to use and disclose your information as we did. 
+(e) In addition, we may use and disclose information that we have gathered from you or that you have provided to us if: (i) we believe that any law or regulation requires us to do so, (ii) to respond to a subpoena or governmental request; (iii) we deem it advisable or necessary to protect our safety, rights or property, or that of our employees, agents, affiliates, customers, other users of this site, or others; (iv) to respond to a possible violation of this Privacy Policy, our Terms of Use, any law or regulation; and/or (v) to enforce this Privacy Policy and/or our Terms of Use. 
+
+
+**Securing Your Information.**
+
+We will use reasonable precautions to keep the information about you that we have gathered protected from unauthorized use or access. However, we are not responsible for any breach of security or for any actions of any third parties that may receive the information. 
+
+
+
+
+**Use Caution When Visiting Other Sites.**
+
+Our site may from time to time include links to other sites operated by other entities. For example, our site currently includes links to access spa services, to make hotel and resort accommodations, to make reservations for golf services, and for real estate information and services. (These services are accessible when you click the "Spa," "Accommodations," "Golf", and "Real Estate" buttons on our site's homepage.) Each of those links takes you to a site operated by another entity. Those sites may have different privacy policies. When traveling to other sites, please take the time to check the applicable privacy policy of that site before you submit any personal information. Such policies are usually posted on the site or available through clearly posted links. We are not responsible for the privacy policies of or activities on such other sites. 
+
+
+
+
+**Cookies.**
+
+"Cookies" is a technology that stores useful information about you and your computer that enables our site to remember you when you return. We can only read cookies from our site. If you choose to disable cookies in your browser, you can still access most of our site. 
+
+
+
+
+**This Site Is Not For Children Under 13 Years Old.**
+
+This site is not directed to children under the age of 13 and children under the age of 13 should not provide their information through this site. We comply with the Children's Online Privacy Protection Act and will not knowingly collect or use personally identifiable information from anyone under 13. Children 13 year old or older should not provide their information to us through this site except under the supervision and with the permission of their parent or guardian. 
+
+
+
+
+**Access To And Correction Of Personal Information Maintained About You/Ability To Opt Out Of Further Contacts.**
+
+(a) _Access._ In the event you wish to determine the nature of the information we have collected from or about you, please contact us by sending an email to: [info@wghof.org](mailto:info@wghof.org) . Please include your full name, your address, email address, telephone number, and explain the nature of your request. Your request can be as simple as "Please provide me with a summary of the information you have collected from or about me." 
+(b) _Updates and Corrections._ In addition, if you have corrections or updates to the information we are maintaining about you (your address for example), please help us keep your information accurate by contacting us via email at [info@wghof.org](mailto:info@wghof.org) and provide us with the corrected information. Please include the information that you are updating or correcting (both old and new) so that we can more easily locate your record and update or correct it properly. Also include a telephone number and email address where we can reach you if we have further questions. 
+(c) _Opt Out._ In the event that you do not wish us to use and/or disclose your information for Marketing Purposes (as described above), please send us an email at [info@wghof.org](mailto:info@wghof.org) and notify us of your request. You can state "Please do not use my information for Marketing Purposes." Please include in your request your name, address, telephone number and the email address or addresses to which you want your Opt Out request to apply. We will use reasonable efforts to promptly comply with your request. However, our inadvertent failure to comply with this request shall not be a violation of this Privacy Policy. Please note that we may have gathered information about you through other sites, sources, methods and means (including through our affiliates) and this opt out may not necessarily be applied to the information held about you in those databases developed as a result of those sources. In addition, if you opt out to receive certain information, you may not be able to utilize certain portions of the site. 
+(d) _Questions._ If you have questions about the operation of this site or other matters, please direct them to our info at [info@wghof.org](mailto:info@wghof.org). 
+
+
+**Updates to Our Privacy Policy**. 
+
+We reserve the right to change this Privacy Policy at any time in our discretion. Changes will apply to information about you that we have already gathered from you under this Privacy Policy and to information we thereafter gather from you. With respect to changes in our Privacy Policy which affect information we have already gathered from you, we will never materially change our Privacy Policy to make it less protective of your information collected in the past, without sending you a notice to your last known email address (or if we do not have an email address, by sending you a notice to your last known mailing address) notifying you of the changes and providing you with the opportunity to opt out of such changes within thirty (30) days from issuance of the notice. We will post here any material changes, including any changes that give us broader rights to use or disclose your information for marketing purposes, that we make in the Privacy Policy and the date of such change. This Privacy Policy was last updated on August 12, 2009. 
+
+
+|  
