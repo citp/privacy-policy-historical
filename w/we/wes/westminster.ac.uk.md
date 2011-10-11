@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westminster.ac.uk privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201031140id_/http%3A//westminster.ac.uk/home/terms-and-privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westminster.ac.uk privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011054458id_/http%3A//www.westminster.ac.uk/home/terms-and-privacy/privacy) for the most accurate reproduction.*
 
 # Privacy - University of Westminster
 
@@ -68,6 +68,6 @@ You may view the website without the use of cookies by disabling cookies in your
 
 ## Access to and updating your information
 
-You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact the Information Compliance department by email at: [M.Maruma@westminster.ac.uk](mailto:M.Maruma@westminster.ac.uk) or in writing to University of Westminster, Room UG01, 309 Regent Street, London, W1B 2UW.
+You are entitled to see the information held about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact the Information Compliance department by email at: [dpa@westminster.ac.uk](mailto:dpa@westminster.ac.uk) or in writing to University of Westminster, Room UG01, 309 Regent Street, London, W1B 2UW.
 
 We are entitled to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you.
