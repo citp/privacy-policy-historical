@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602020354id_/http%3A//www.nd.gov/content.htm%3Fid%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the state.nd.us privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012000436id_/http%3A//www.nd.gov/content.htm%3Fid%3DPrivacy) for the most accurate reproduction.*
 
 # nd.gov: Official Portal for North Dakota State Government
 
   * [Home](https://web.archive.org/)
-  * Privacy 
+  * Privacy
 
 
 
@@ -31,6 +31,4 @@ The information collected on this site is retained in accordance with the Record
 
 ## Contact Information:
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20100602020354id_/http%3A//www.nd.gov/contactus.htm).
-
-Copyright © 2010 All Rights Reserved. The State of North Dakota.
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20111012000436id_/http%3A//www.nd.gov/contactus.htm).
