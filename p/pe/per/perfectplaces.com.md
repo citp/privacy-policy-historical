@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the perfectplaces.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513215109id_/http%3A//www.perfectplaces.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectplaces.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011132843id_/http%3A//www.perfectplaces.com/privacy.cfm) for the most accurate reproduction.*
 
 # Perfect Places Privacy Notice | PerfectPlaces.com
-
-  
-
 
 **Our Commitment To Privacy**
 
