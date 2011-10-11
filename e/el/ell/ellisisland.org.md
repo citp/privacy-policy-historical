@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425112440id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellisisland.org privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011133243id_/http%3A//www.ellisisland.org/EIinfo/privacy.asp) for the most accurate reproduction.*
 
 # Ellis Island - FREE Port of New York Passenger Records Search
 
