@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reply.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230033413id_/http%3A//www.reply.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reply.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011171113id_/http%3A//www.reply.com/Privacy) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Reply.com Marketplace | Clicks &amp; Leads</title>
@@ -88,7 +88,11 @@
 
 					</tr>
 
-					<tr><td colspan="5" style="padding-top:3px;padding-right:3px;" align="right">
+					<tr>
+
+					<td style="padding-left:1px;"><a href="http://clicks.reply.com/signin.aspx" id="fgtpwd" class="ftr">Forgot password?</a></td>
+					
+					<td colspan="4" style="padding-top:3px;padding-right:3px;" align="right">
 
 						<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td style="padding-right:5px;"><input type="checkbox" name="remme" value="y" style="font-size:11px;"></td><td style="font-size:11px;color:#727272;">Remember me on this computer</td></tr></tbody></table>
 					
@@ -179,13 +183,22 @@
 	<td height="40" bgcolor="#ffffff" class="ftr" align="center" width="954">
 	
 		<table height="40" style="border-top: 1px #DEDDDA solid;" border="0" width="90%" align="center" cellpadding="0" cellspacing="0"><tbody><tr>
-		<td style="padding-left: 20px;font-size:11px;">
+		<td style="padding-left: 5px;font-size:11px;">
 		
-		<a class="ftr" target="blog" href="http://blog.reply.com/">Blog</a>&nbsp;&nbsp;  |  &nbsp;&nbsp;<a class="ftr" href="/About/">About Us</a>&nbsp;&nbsp;  |  &nbsp;&nbsp;<a class="ftr" href="/Contact/">Contact Us</a>&nbsp;&nbsp;  |  &nbsp;&nbsp;<a class="ftr" href="/Terms/">Terms Of Use</a>&nbsp;&nbsp;  |  &nbsp;&nbsp;<a class="ftr" href="/Privacy/">Privacy Policy</a>&nbsp;&nbsp;  |  &nbsp;&nbsp;<a class="ftr" href="/About/Media.aspx">Press</a>&nbsp;&nbsp;  |  &nbsp;&nbsp;<a class="ftr" href="http://local.reply.com/">Local</a>
+
+		<a class="ftr" href="http://www.reply.com/affiliates/">Affiliates</a>&nbsp;&nbsp;  |  
+		&nbsp;&nbsp;<a class="ftr" target="blog" href="http://blog.reply.com/">Blog</a>&nbsp;&nbsp;  |  
+		&nbsp;&nbsp;<a class="ftr" href="/About/Media.aspx">Press</a>&nbsp;&nbsp;  |  
+		&nbsp;&nbsp;<a class="ftr" href="/About/">About Us</a>&nbsp;&nbsp;  |  
+		&nbsp;&nbsp;<a class="ftr" href="/Contact/">Contact Us</a>&nbsp;&nbsp;  |  
+		&nbsp;&nbsp;<a class="ftr" href="/Terms/">Terms Of Use</a>&nbsp;&nbsp;  |  
+		&nbsp;&nbsp;<a class="ftr" href="/Privacy/">Privacy Policy</a>&nbsp;&nbsp;  |  
+		&nbsp;&nbsp;<a class="ftr" href="http://local.reply.com/">Local</a>
+
 
 		</td>
 		<td align="center"><img src="/new/images/patents-pending.gif" width="120" height="30" border="0" alt="Patents Pending"></td>
-		<td style="padding-right: 20px;" align="right" class="ftr">©2009 Reply!, Inc. All Rights Reserved.</td>
+		<td style="padding-right: 5px;" align="right" class="ftr">©2011 Reply!, Inc. All Rights Reserved.</td>
 		</tr></tbody></table>
 	
 	</td>
@@ -288,9 +301,9 @@ function __cLF(o) {
 	}
 	
 	if (o.remme.checked)
-		document.cookie = "rplyur=" + escape(o.username.value) + ";expires=Thu, 11-Nov-2010 00:00:01 GMT";
+		document.cookie = "rplyur=" + escape(o.username.value) + ";expires=Thu, 11-Nov-2050 00:00:01 GMT";
 	else
-		document.cookie = "rplyur=;expires=Thu, 11-Nov-2010 00:00:01 GMT";
+		document.cookie = "rplyur=;expires=Thu, 11-Nov-2050 00:00:01 GMT";
 
 	return true;
 }
@@ -332,12 +345,15 @@ function __slfPO(s) {
 	if (s=="Leads")
 		lfoo = "Clicks";
 
-	if (s=="Clicks")
+	if (s=="Clicks") {
 		document.lf.action = "http://clicks.reply.com/do_signin.aspx";
-	else
+		document.getElementById("fgtpwd").href = "http://clicks.reply.com/signin.aspx";
+	} else {
 		document.lf.action = "http://marketplace.reply.com/do_signin.aspx";
+		document.getElementById("fgtpwd").href = "http://marketplace.reply.com/EmailPasswordReminder.aspx";
+	}
 
-	document.cookie = "rplylt=" + s + ";expires=Thu, 11-Nov-2010 00:00:01 GMT";
+	document.cookie = "rplylt=" + s + ";expires=Thu, 11-Nov-2050 00:00:01 GMT";
 
 	document.getElementById('pcs').innerHTML = s;
 	document.getElementById('lfoo').innerHTML = lfoo;
@@ -404,4 +420,5 @@ pageTracker._initData();
 pageTracker._trackPageview();
 </script>
 <!-- / google -->
+
 </body></html>
