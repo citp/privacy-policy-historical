@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the commerzbank.com privacy policy that was archived on 2008-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081121131550id_/https%3A//www.commerzbank.com/en/metanavigation/datenschutz/datenschutz.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commerzbank.com privacy policy that was archived on 2011-10-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111012005925id_/https%3A//www.commerzbank.com/en/metanavigation/datenschutz/datenschutz.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus Target//EN" "/media/templatedesign_media/xml/coba.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Privacy</title>
@@ -10,159 +10,333 @@
 <meta name="keywords" content="N/A">
 <meta name="subject" content="N/A">
 <meta name="description" content="N/A">
-<meta name="date" content="2008-08-21">
+<meta name="date" content="2011-02-23">
 <meta name="DC.subject" content="N/A">
 <meta name="DC.description" content="N/A">
-<meta name="DC.date" content="2008-08-21">
-<link rel="shortcut icon" href="/media/templatedesign_media/img/favicons/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/media/templatedesign_media/css/links.css" type="text/css">
-<link rel="stylesheet" href="/media/templatedesign_media/css/main.css" type="text/css">
-<link rel="stylesheet" href="/media/templatedesign_media/css/teaser.css" type="text/css">
-<link rel="stylesheet" href="/media/templatedesign_media/css/subnavi_style.css" type="text/css">
+<meta name="DC.date" content="2011-02-23">
+<link rel="shortcut icon" href="/media/templatedesign_media_new/img/favicon_new.ico" type="image/x-icon">
+<link rel="stylesheet" href="/media/templatedesign_media_new/css/reset.css" type="text/css">
+<link rel="stylesheet" href="/media/templatedesign_media_new/css/screen.css" type="text/css">
+<link rel="stylesheet" href="/media/templatedesign_media_new/css/teaser_new.css" type="text/css">
+<link rel="stylesheet" href="/media/templatedesign_media_new/css/subnavi_style_new.css" type="text/css">
+<!-- Microsoft Internet Explorer Fixes -->
+<!--[if IE]>
+<meta name="MSSmartTagsPreventParsing" content="true" />
+<![endif]-->
+<!--[if lte IE 6]>
+<meta http-equiv="imagetoolbar" content="no" />
+<link rel="stylesheet" type="text/css" href="/media/templatedesign_media_new/css/ie6_fix.css" media="screen" />
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" href="/media/templatedesign_media_new/css/ie7_fix.css" media="all" />
+<![endif]-->
 
-<script type="text/javascript" src="/media/templatedesign_media/js/js_main.js"></script>
-<script type="text/javascript" src="/media/templatedesign_media/js/FORMeditor_JavaScript_Check.js"></script>
+<script type="text/javascript" src="/media/templatedesign_media_new/js/default.js"></script>
+<script type="text/javascript" src="/media/templatedesign_media_new/js/mootools-12-core.js"></script>
+<script type="text/javascript" src="/media/templatedesign_media_new/js/mootools-12-more.js"></script>
+<script type="text/javascript" src="/media/templatedesign_media_new/js/CustomSelect.js"></script>
+<script type="text/javascript" src="/media/templatedesign_media_new/js/script.js"></script>
 <script type="text/javascript"><!--<![CDATA[
-//function zum Oeffnen der Druckversion
-function printVer() {
-pageref = window.location.href;
-if (pageref.indexOf("?") == -1) {
-pageref += "?";
-} else {
-pageref += "&";
-}
-pageref += "print=true&Coba4AppParam=";
-var printwin = window.open(pageref,'newwin','width=700,height=400,left=100,top=0,menubar=no,scrollbars=yes,resizable=yes');
-printwin.focus();
-}
-//function fuer Popups in der Bilddatenbank
-function popup_thumbnail (url, breite, hoehe) {
-if (typeof popup != "undefined") {
-if (popup != 0 && !popup.closed) {
-popup.close();
-}
-}
-breite_popup=breite+20;
-hoehe_popup=hoehe+20;
-param = "dependent=no,left=" + 0+ ",top=" + 0 + ",Width=" + breite_popup + ",Height=" + hoehe_popup + ",scrollbars=no" + ",resizable=yes";
-popup = open(url, "thumbnailWindow", param);
-}
-//function fuer die Suche
-function popup_suche () {
-var text1 = 'https://www2.commerzbank.de/suche/jsp/CB/CB_suche.jsp?sprache=0&adv=0&ResultStart=1&ResultCount=10&SortSpec=Score+desc&resType=v&refine=new&sites=a&Coll=Commerzbank.com&QueryText=';
-var text2 = document.forms.globalSearch.QueryText.value;
-var search_string = text1 + text2;
-var breite_popup=940;
-var hoehe_popup=600;
-param = "dependent=no,left=" + 0+ ",top=" + 0 + ",Width=" + breite_popup + ",Height=" + hoehe_popup + ",scrollbars=yes" + ",resizable=yes";
-popup = open(search_string, "thumbnailWindow", param);
-}
-// function um ein neues PopUp zu oeffnen
-function oeffneFenster(url,name,eigenschaften) {
-fenster = open(url,name,eigenschaften);
-fenster.focus();
-}
-// function um links aus dem Selectfeld fuer die Konzerngesellschaften aufzurufen
-function goKonzerngesellschaften(obj) {
-var adresse = obj.options[obj.options.selectedIndex].value;
-if(adresse=="") {
-obj.form.reset();
-return;
-} else {
-if(adresse.substring(0,9) == "tracking_") {
-adresse = adresse.substring(9);
-trackclick(adresse, 'Linkdokumentation');
-}
-openwin = window.open(adresse,"new_win","status=yes,resizable=yes,toolbar=yes,location=yes,menubar=yes,scrollbars=yes");
-}
-}
+window.addEvent('domready', function() {
+var mySelect = new CustomSelect('selectContainer');
+});
 //]]>-->
 </script>
+ 
 </head>
 <body onload="showLastNavPosition('73c1347525f4ea05497eece9d61571a35d9ab1');">
-<div id="body">
-<div id="border">
-<!-- Scriptaufruf -->
 <!-- Render Script einfuegen BASIS -->
-<!-- HEADER -->
-<div id="header">
-<div id="metanavigation">
+<div id="wrapper">
+<!-- Head mit Logos -->
+<div id="head" class="clearfix">
+<div id="meta">
 <a href="/de/metanavigation/datenschutz/datenschutz.html">Deutsch</a> | <a href="/en/metanavigation/agb/AGB.html">Terms</a> | <a href="/en/metanavigation/kontakt/kontakt.html">Contact</a> | <a href="/en/metanavigation/datenschutz/datenschutz.html">Privacy</a> | <a href="/en/metanavigation/impressum/impressum.html">Imprint</a> | <a href="http://www.commerzbanking.de/P-Portal/XML/IFILPortal/pgf.html?&amp;Tab=994151&amp;Doc=/en/GB/sitesubs/sicherheitshinweise/bereichsgabelseite_sicherheitshinweise.htm">Security</a>
 </div>
-<div id="logo">
-<a href="/en/hauptnavigation/home/home.html" title="Home">
-<img src="/media/templatedesign_media/img/logos/logo.gif" width="180" height="18" alt="Logo">
-</a>
+<a href="/en/hauptnavigation/home/home.html" title="Zur Commerzbank Webseite"><img src="/media/templatedesign_media_new/img/commerzbank.gif" width="234" height="25" alt="Commerzbank" class="right"></a>
 </div>
-<div class="f_clear"></div>
-<!-- div for main navigation -->
-<div id="navigation">
+<!-- Metanavigation (gelber Hintergrund) -->
+<!-- Hauptnavigatin -->
+<div id="navigation" class="eleven clearfix">
 
 
 
-	<a href="/en/hauptnavigation/home/home.html">Home</a><a href="/en/hauptnavigation/konzern/ueber_uns.html">About us</a><a href="/en/hauptnavigation/privatk/privatkunden.html">Retail Banking</a><a href="/en/hauptnavigation/firmenk/firmenkunden.html">Corporate Banking</a><a href="/en/hauptnavigation/immobilienkunden/Immobilienkunden_1.html">Real Estate</a><a href="/en/hauptnavigation/institutions/institutions.html">Institutions</a><a href="/en/hauptnavigation/presse/presse.html">Press</a><a href="/en/hauptnavigation/aktionaere/investor_relations.html">Investor Relations</a><a href="/en/hauptnavigation/karriere/karriere.html">A career</a><a href="https://cbcm.commerzbank.com/en/site/research/index.jsp">Research</a><a href="/en/hauptnavigation/kurse/kurs_marktdaten.html">Prices</a>
+	<div class="navigation_link"><a href="/en/hauptnavigation/home/home.html" title="Home">Home</a></div><div class="navigation_link"><a href="/en/hauptnavigation/konzern/ueber_uns.html" title="About us">About us</a></div><div class="navigation_link"><a href="/en/hauptnavigation/privatk/privatkunden.html" title="Retail Banking">Retail Banking</a></div><div class="navigation_link"><a href="/en/hauptnavigation/firmenk/firmenkunden.html" title="Corporate Banking">Corporate Banking</a></div><div class="navigation_link"><a href="/en/hauptnavigation/immobilienkunden/Asset_Based_Finance.html" title="Asset Based Finance">Asset Based Finance</a></div><div class="navigation_link"><a href="/en/hauptnavigation/institutions/institutions.html" title="Institutions">Institutions</a></div><div class="navigation_link"><a href="/en/hauptnavigation/presse/presse.html" title="Press">Press</a></div><div class="navigation_link"><a href="/en/hauptnavigation/aktionaere/investor_relations.html" title="Investor Relations">Investor Relations</a></div><div class="navigation_link"><a href="/en/hauptnavigation/karriere/jobboard_/externe_seite_jobboard.html" title="Careers">Careers</a></div><div class="navigation_link"><a href="/en/hauptnavigation/kurse/index.html" title="Research">Research</a></div>
+
+
+<!--<div class="last"></div>-->
+</div>
+<div id="printnav">
+<a href="#" onclick="window.print(); return false;" title="Print" class="left">Print</a>
+<a href="#" onclick="window.close(); return false;" title="Close window" class="right">Close window</a>
+<div class="clear">&nbsp;</div>
+</div>
+<!-- Erste Reihe -->
+<div class="row">
+<div id="left-column">
+<div id="leftnav_container">
+<div id="subnavigation">
+
+
 
 
 </div>
 </div>
-<!-- HEADER END -->
-<!-- DIV FOR LEFT CONTENT -->
-<div id="left">
-<div id="leftnav_container"><img src="/media/templatedesign_media/img/towers/p_d_tower4.gif" alt="towerpic"></div>
 </div>
-<!-- DIV FOR LEFT CONTENT END -->
-<!-- DIV FOR CONTENT HEADER -->
-<div id="contentheader">
-<div id="search_box_container">
-<div id="search_box">
-<form action="" method="post" id="search" name="globalSearch" onsubmit="javascript:popup_suche();">
-<div>
-<input name="QueryText" type="text" size="8" style="width:120px;">
-<a href="javascript:popup_suche();">Search</a>
+<div id="middle-column">
+<div id="breadcrumb"><a href="/en/hauptnavigation/home/home.html">Home</a> &gt; Privacy<!--<a href="#" title="Home">Home</a> &gt; <a href="#" title="?ber uns">?ber uns</a> &gt; <a href="#" title="Nachhaltigkeit und Verantwortung">Nachhaltigkeit und Verantwortung</a> &gt; <a href="#" title="?kologie">?kologie</a> &gt; <a href="#" title="Klimaschutz" id="breadcrumb-active">Klimaschutz</a>--></div>
+<div class="rubric">
+<div class="rubric-image-title">
+<img src="/fontimages/9A8B4833.png" alt="Privacy">
 </div>
-</form>
-</div>
-</div>
-<div class="printlinktop"><a href="javascript:printVer();"><img src="/media/templatedesign_media/img/buttons/printversion.gif" width="14" height="12" alt="Print version"></a></div>
-<div class="breadcrumb"><a href="/en/hauptnavigation/home/home.html">Home</a>&nbsp;&nbsp;<span class="nowrap"><img src="/media/templatedesign_media/img/buttons/breadcrumb.gif" width="5" height="8" alt=">">&nbsp;&nbsp;Privacy&nbsp;&nbsp;</span></div>
-<div id="search_box_clear">&nbsp;</div>
-</div>
-<!-- DIV FOR PRINT HEADER (only visible with included print.css) -->
-<div id="printheader">
-<div class="printheader_left"><a href="javascript:window.print();">Print</a></div>
-<div class="printheader_right"><a href="javascript:window.close();">Close window</a></div>
-</div>
-<!-- DIV FOR CONTENT HEADER END -->
-<!-- MAIN CONTENT -->
-<div id="content">
-<h1><img src="/fontimages/6E65515A.png" alt="/"><img src="/fontimages/04624D04.png" alt="privacy"><img src="/fontimages/6E65515A.png" alt="/"></h1>
 <a name="Standardabsatz__default_section_"></a><a name="81561"></a>
-<p>Commerzbank AG takes the protection of your personal data very seriously and strictly observes data protection rules. Personal data are collected on this website only to the extent that is technically necessary. Under no circumstances will we pass the data collected on to third parties without the consent of those concerned. The following declaration provides an overview of how Commerzbank AG ensures this protection, what type of data are collected, and for what purpose.</p><ul class="box"><li><b>Data processing on this internet site</b></li></ul>
-<p>Commerzbank AG collects and automatically saves in its server log files some of the information normally transmitted by the browser, provided that your browser makes such information available. Such data cannot be assigned by Commerzbank AG to specific individuals. The data are not pooled with other data sources.</p><ul class="box"><li><b>Cookies</b></li></ul>
-<p>Occasionally, visits to our internet site will lead to cookies being copied onto your computer, i.e. small text files which are stored by your browser. They help to make the service we provide more user-friendly, effective and safe. Passwords are not copied into cookies. Most of the cookies we use are so-called session cookies and are automatically reset when you go offline. If you end the session by closing your browser, the cookie will be preserved for a while and will then either be overwritten or deleted by the client. Our cookies will not do any damage to your computer and contain no viruses.</p><ul class="box"><b><li>Collecting, processing and use of your personal data</li></b></ul>
-<p>We will ask you to provide your name, address and e-mail address in an order form, so that we can send you the publications or newsletters offered on our website, or which you have ordered, These data will be stored and used exclusively for mailing purposes. They will not be passed on to third parties. By entering your data (name, address, e-mail details) into the template, you will give us your consent to store the data and use them so that we can provide the information requested. The personal data which you supply to subscribe to the newsletter will be stored until you cancel your subscription.</p><ul class="box"><b><li>Right to obtain information</li></b></ul>
-<p>You have the right to be informed on the personal data stored, on the receiver of such data, and the purpose of processing your data at any time. The data protection controller of Commerzbank AG will provide you with information on the data stored.</p><ul class="box"><b><li>Further information</li></b></ul>
+<div class="text">
+<p>Commerzbank AG takes the protection of your personal data very seriously and strictly observes data protection rules. Personal data are collected on this website only to the extent that is technically necessary. Under no circumstances will we pass the data collected on to third parties without the consent of those concerned. The following declaration provides an overview of how Commerzbank AG ensures this protection, what type of data are collected, and for what purpose.</p>
+<ul class="enumeration"><li>
+<b>Data processing on this internet site</b></li>
+</ul>
+<p>Commerzbank AG collects and automatically saves in its server log files some of the information normally transmitted by the browser, provided that your browser makes such information available. Such data cannot be assigned by Commerzbank AG to specific individuals. The data are not pooled with other data sources.</p>
+<ul class="enumeration"><li>
+<b>Cookies</b></li>
+</ul>
+<p>Occasionally, visits to our internet site will lead to cookies being copied onto your computer, i.e. small text files which are stored by your browser. They help to make the service we provide more user-friendly, effective and safe. Passwords are not copied into cookies. Most of the cookies we use are so-called session cookies and are automatically reset when you go offline. If you end the session by closing your browser, the cookie will be preserved for a while and will then either be overwritten or deleted by the client. Our cookies will not do any damage to your computer and contain no viruses.</p>
+<ul class="enumeration"><li>
+<b>Webtracking</b></li>
+</ul>
+<p>On this website data are collected and stored through web-controlling technologies in an anonymous form and solely for the purpose of optimization measures. User profiles are created under a pseudonym from this data. Cookies may also be used for this purpose which collect and store data solely in a pseudonym form. The data are not utilised to personally identify the visitor of this website and will not be collated with data via the bearer of the pseudonym. No personal data are stored. Further to the law this also includes the so called IP-address of the user. The IP-address will be made unrecognizeable and will not enable any inferences to be made about the visitor of the web site. This procedure was approved by the data protection officer of Hamburg further to §38 section 1 of the Federal Data Protection Law.<br></p>
+<ul class="enumeration"><b>
+<li>
+Collecting, processing and use of your personal data</li>
+</b></ul>
+<p>We will ask you to provide your name, address and e-mail address in an order form, so that we can send you the publications or newsletters offered on our website, or which you have ordered, These data will be stored and used exclusively for mailing purposes. They will not be passed on to third parties. By entering your data (name, address, e-mail details) into the template, you will give us your consent to store the data and use them so that we can provide the information requested. The personal data which you supply to subscribe to the newsletter will be stored until you cancel your subscription.</p>
+<ul class="enumeration"><b>
+<li>
+Right to obtain information</li>
+</b></ul>
+<p>You have the right to be informed on the personal data stored, on the receiver of such data, and the purpose of processing your data at any time. The data protection controller of Commerzbank AG will provide you with information on the data stored.</p>
+<ul class="enumeration"><b>
+<li>
+Further information</li>
+</b></ul>
 <p>We greatly appreciate your confidence in us. Therefore we wish to be available at all times to answer questions on the processing and use of your personal data. If you wish to receive information not offered by this declaration, or if you wish to receive more detailed information on a subject, please get in touch with Commerzbank AG’s data protection controller at any time. </p>
 </div>
-<!-- CONTENT END -->
-<!-- RIGHT -->
-<div id="right">
+<div style="clear:both;"></div>
+</div>
+</div>
+<div id="right-column">
+<div class="searchbar">
+<form action="" method="post" id="search" name="globalSearch" onsubmit="javascript:popup_suche('https://www.commerzbank.com/suche/default.html?lng=en&amp;adv=0&amp;ResultStart=1&amp;ResultCount=10&amp;SortSpec=Score+desc&amp;resType=v&amp;refine=new&amp;sites=a&amp;Coll=Commerzbank.com&amp;Coll=Companyworld.com&amp;QueryText=');">
+<p><input name="QueryText" type="text" value="" class="search-field"></p>
+<p><input type="submit" value="search" class="search-button"></p>
+</form>
+<div class="clear">&nbsp;</div>
+</div>
 <a name="Hotline"></a><a name="81563"></a>
-<div class="teaser_arrow yellow">
-<a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com"><img class="f_right" src="/media/gifs/kontakt.gif" width="50" height="50" alt="datenschutzbeauftragter@commerzbank.com"></a>
-<div class="headlineRightBox"><a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">Contact</a></div><br>
-<p><a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">datenschutz</a><br><a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">beauftragter@</a><br><a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">commerzbank.com</a> </p>
-<div class="f_clear"></div>
+<div class="box">
+<div class="box-headline">
+<a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">Contact</a></div>
+<a title="" href="mailto:datenschutzbeauftragter@commerzbank.com"><img class="left" src="/media/gifs/kontakt_teaserRightSmall_new.png" width="48" height="48" alt=""></a>
+<p>
+<a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">datenschutz</a><br>
+<a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">beauftragter@</a><br>
+<a title="datenschutzbeauftragter@commerzbank.com" href="mailto:datenschutzbeauftragter@commerzbank.com">commerzbank.com</a> </p>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<div id="foot-function-bar">
+<div id="printversion"><a href="#" onclick="showPrint('/en/metanavigation/datenschutz/datenschutz.html'); return false;" title="Print version">Print version</a></div>
+<div id="toplink"><a href="#wrapper" title="Seitenanfang"><img src="/media/templatedesign_media_new/img/top.gif" alt="Seitenanfang"></a></div>
 </div>
 </div>
-<!-- RIGHT END -->
-<!-- FOOTER -->
-<div id="footer_en">
-<div id="printlink"><a href="javascript:printVer();">Print version</a></div>
-<div id="pagetoplink"><a href="#">Top</a></div>
-</div>
-<!-- FOOTER ENDE -->
+<div class="clear">&nbsp;</div>
+<!-- Foot -->
+<div id="foot">
 </div>
 </div>
+<div id="glossary-index-shadow">
+<div id="glossary-index-border">
+<div id="glossary-index-closeicon">
+<a onclick="javascript:hideGlossar();" href="#"><img src="/media/templatedesign_media_new/img/dot_yellow_close.gif" alt="schließen"></a>
+</div>
+<div id="glossary-list-head">
+<h2>Finanzlexikon</h2>
+</div>
+<div class="searchbar" style="visibility: hidden;">
+<form action="" method="post" id="glossary-search" onsubmit="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_a.html?suchbegriff=' + glossary-search.search-field-glossary.value, 'glossar_index_link_a'); return false;">
+<p><input type="text" value="" id="search-field-glossary" class="search-field" name="suchbegriff"></p>
+<p><input type="submit" value="suchen" class="search-button"></p>
+</form>
+<div class="clear">&nbsp;</div>
+</div>
+<div class="index">
+<a id="glossar_index_link_a" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_a.html', 'glossar_index_link_a')" class="sel">A</a>
+<a id="glossar_index_link_b" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_b.html', 'glossar_index_link_b')">B</a>
+<a id="glossar_index_link_c" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_c.html', 'glossar_index_link_c')">C</a>
+<a id="glossar_index_link_d" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_d.html', 'glossar_index_link_d')">D</a>
+<a id="glossar_index_link_e" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_e.html', 'glossar_index_link_e')">E</a>
+<a id="glossar_index_link_f" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_f.html', 'glossar_index_link_f')">F</a>
+<a id="glossar_index_link_g" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_g.html', 'glossar_index_link_g')">G</a>
+<a id="glossar_index_link_h" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_h.html', 'glossar_index_link_h')">H</a>
+<a id="glossar_index_link_i" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_i.html', 'glossar_index_link_i')">I</a>
+<a id="glossar_index_link_j" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_j.html', 'glossar_index_link_j')">J</a>
+<a id="glossar_index_link_k" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_k.html', 'glossar_index_link_k')">K</a>
+<a id="glossar_index_link_l" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_l.html', 'glossar_index_link_l')">L</a>
+<a id="glossar_index_link_m" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_m.html', 'glossar_index_link_m')">M</a>
+<a id="glossar_index_link_n" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_n.html', 'glossar_index_link_n')">N</a>
+<a id="glossar_index_link_o" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_o.html', 'glossar_index_link_o')">O</a>
+<a id="glossar_index_link_p" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_p.html', 'glossar_index_link_p')">P</a>
+<a id="glossar_index_link_q" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_q.html', 'glossar_index_link_q')">Q</a>
+<a id="glossar_index_link_r" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_r.html', 'glossar_index_link_r')">R</a>
+<a id="glossar_index_link_s" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_s.html', 'glossar_index_link_s')">S</a>
+<a id="glossar_index_link_t" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_t.html', 'glossar_index_link_t')">T</a>
+<a id="glossar_index_link_u" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_u.html', 'glossar_index_link_u')">U</a>
+<a id="glossar_index_link_v" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_v.html', 'glossar_index_link_v')">V</a>
+<a id="glossar_index_link_w" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_w.html', 'glossar_index_link_w')">W</a>
+<a id="glossar_index_link_x" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_x.html', 'glossar_index_link_x')">X</a>
+<a id="glossar_index_link_y" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_y.html', 'glossar_index_link_y')">Y</a>
+<a id="glossar_index_link_z" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht_z.html', 'glossar_index_link_z')">Z</a>
+<a id="glossar_index_link_all" href="javascript:showGlossarPage('/en/metanavigation/glossar/uebersichtsseiten/uebersicht.html', 'glossar_index_link_all')">...</a>
+<span>&nbsp;</span>
+</div>
+<div class="clear">&nbsp;</div>
+<script type="text/javascript"><!--
+var glossarPage = '/en/metanavigation/glossar/uebersichtsseiten/uebersicht_a.html';
+--></script>
+<iframe src="/en/metanavigation/glossar/uebersichtsseiten/uebersicht_a.html" width="624" height="442" name="glossar_iframe" id="glossar_iframe" scrolling="no" frameborder="0" hspace="0" vspace="0">
+<p>Ihr Browser kann leider keine eingebetteten Frames anzeigen</p>
+</iframe>
+<div id="glossary-closebutton"><a class="yellow-dot" onclick="javascript:hideGlossar();" href="#">Fenster schließen</a></div>
+</div>
+</div>
+<!-- $Id: etrackerVarSetting_html.xml 1344 2009-05-08 14:20:00Z schepanek $ -->
+<script type="text/javascript">
+var et_pagename = "datenschutz";
+var url = document.URL ;
+var et_areas = substringUrl(url);
+function substringUrl(tempUrl){
+var newUrl = tempUrl.replace(/\/[^\/]*?$/,"").replace(/^([^\/]*\/){3}/,"/");
+return newUrl;
+}
+</script>
+<noscript>
+<p><img style='border:0px;' alt='' src='https://www.commerzbank.com/companion/cnt.php?
+et=B3gkP3&amp;v=2.6&amp;java=n&amp;et_easy=0
+&amp;et_pagename=datenschutz&amp;et_areas=&amp;et_ilevel=0&amp;et_target=,,0,0
+&amp;et_lpage=0&amp;et_trig=0&amp;et_se=0&amp;et_cust=0
+&amp;et_basket=&amp;et_url=&amp;et_tag=' /></p>
+</noscript>
+<script type="text/javascript">
+var et_easy     = 0;
+var et_ssl      = 1;
+var et_ilevel   = 0;
+var et_url      = "";
+var et_tag      = "";
+
+if(url.charAt(1)==":" || url.substring(0, 4)=="file") {
+	et_areas = "lokale Datei";
+} else {
+	if(et_areas == "https://www.commerzbank.de") {
+		et_areas = "/de/hauptnavigation/home";
+	}
+	if(et_areas == "https://www.commerzbank.com") {
+		et_areas = "/en/hauptnavigation/home";
+	}
+}
+
+if(et_areas.indexOf("?") > -1) {
+	et_areas = et_areas.substring(0, et_areas.lastIndexOf("?"));
+}
+
+if(et_areas.substring(et_areas.length - 5)==".html") {
+	et_areas = et_areas.substring(0, et_areas.lastIndexOf("/"));
+}
+
+</script>
+
+<script type="text/javascript"><!--
+var et_up=''; function et_pQ( param ) {var et_ll,et_fl, et_pV,
+et_rS; var et_qS=document.location.search; et_pV=""; if(et_qS.
+length>1){ et_qS = et_qS.substr(1);et_fl=et_qS.indexOf(param);
+if(et_fl!=-1){et_fl+=param.length + 1;et_ll=et_qS.indexOf('&',
+et_fl ); if( et_ll== - 1 ) et_ll = et_qS.length;et_pV = et_qS.
+substring(et_fl,et_ll);et_rS=new RegExp(" ",'g'); et_pV=et_pV.
+replace( et_rS,'+' );et_fl=et_pV.indexOf('=',0); et_pV =et_pV.
+substring ( et_fl+1 ); } } return et_pV;  }  var et_tc, et_tv,
+et_to,  et_ts,  et_tl,  et_tt,  et_tmp,  et_target; if((et_tc=
+et_pQ( "et_cid" ))&&(et_tl=et_pQ("et_lid"))) et_up+="&amp;et"+
+"_cid=" + et_tc +  "&amp;et_lid="  + et_tl;if(typeof(et_sub)!=
+"undefined" && typeof( et_sub )!="unknown")et_up += "&amp;et"+
+"_sub="+et_sub;else if( et_tmp=et_pQ( "et_sub" ))et_up += "&"+
+"amp;et_sub="+et_tmp; if(typeof(et_pse) != 'undefined'&&typeof
+(et_pse) != 'unknown')et_up+='&amp;et'+'_pse='+et_pse;else if(
+et_tmp = et_pQ('et_pse')) et_up += '&' + 'amp;et_pse='+et_tmp;
+if(typeof(et_target)!="undefined"&&typeof(et_target)!="unknown"
+) if(et_tt = et_pQ("et_target") || et_target!="" ){et_tv=et_pQ
+("et_tval");et_to=et_pQ("et_tonr");et_ts=et_pQ("et_tsale");}
+//--></script>
+
+<script type="text/javascript"><!--
+var et_server = "https://www.commerzbank.com/companion";
+var et_sslserver = "https://www.commerzbank.com/companion";
+var et_referer = et_server + '/app?et=', cex = '';
+var et_la = '', et_js = 1, et_pl, et_co, et_iw,  et_sh, et_sw;
+var et_sc = 'na',   et_gp = '',   lt = '<',   et_ih ,  et_up ;
+if(typeof( et_tt ) == "undefined" || typeof(et_tt)=="unknown")
+{var et_tt='';}var et_tv, et_to, et_ts,et_tmp; function et_eC(
+param){et_gp='';var et_a='',et_t='',et_p='', et_b='', et_s='',
+et;var et_ref=escape(document.referrer);if (et_js>=1.3) { if (
+typeof(top.document)=='object')eval('try{et_ref=escape( top.'+
+'document.referrer);}catch(e){et_ref="";}'); } if (et_ref!='')
+et_gp+='&amp;ref='+et_ref.substr(0,254);et_gp+='&amp;swidth='+
+et_sw+'&amp;sheight='+et_sh+'&amp;siwidth=' + et_iw + '&amp;'+
+'siheight='+et_ih+'&amp;scookie='+et_co+'&amp;scolor=' +et_sc;
+if( et_easy )et_gp+='&amp;et_easy=1'; if( et_pl!='' ) et_gp +=
+'&amp;p='+escape(et_pl);if(et_areas!='')et_gp +='&amp;et_are'+
+'as=' + escape(et_areas);if(typeof(et_target) == "undefined"||
+typeof(et_target)=="unknown") { et_target = ""; et_tval = "0";
+et_tonr = "0"; et_tsale = 0; } et_gp += "&amp;"+"et_target=" +
+escape( et_tt.length?et_tt:et_target ) +"," + ( et_tv ? et_tv:
+et_tval ) + "," + ( et_to?et_to : et_tonr )+ ","+(et_ts?et_ts:
+et_tsale )+","+( typeof( et_cust ) == "number"?et_cust:0 );if(
+typeof( et_lpage )=='undefined' ||typeof(et_lpage)=='unknown')
+et_lpage=''; else et_gp += '&amp;et_lpage='+et_lpage;if(typeof
+(et_se) == 'undefined' || typeof(et_se)=='unknown')et_se='';if
+(et_se!='')et_gp +='&amp;et_se='+et_se;if(typeof( et_trig ) ==
+'undefined'||typeof(et_trig)=='unknown')et_trig='';if( et_trig
+!='' )et_gp+='&amp;et_trig='+et_trig;if(et_pagename!='') et_gp
++='&amp;et_pagename='+escape(et_pagename);if(typeof(et_basket)
+=='string')et_gp += '&amp;et_basket=' + escape(et_basket); if(
+typeof(et_up) == 'undefined' || typeof(et_up)=='unknown')et_up
+= ''; if( et_url ) { et_gp += '&amp;et_url=' + et_url } else {
+et=document.location.href.split('?'); et_gp += '&amp;et_url='+
+escape( et[0] );}et_gp+='&amp;slang='+et_la; et_tc=new Date();
+if ( et_tag != '' )et_gp += '&amp;et_tag=' + et_tag; et_image=
+new  Object();  et_image.src =  ( et_ssl == 1 ? et_sslserver :
+et_server)+"/cnt.php?v=2.6&amp;java=y&amp;tc="+et_tc.getTime()
++"&amp;et="+param+"&amp;et_ilevel=" + et_ilevel + et_gp+et_up;
+et_anchor  =  document.createElement('a');   et_anchor.href  =
+et_referer + param; et_anchor.target  =  '_blank';  et_anchor.
+innerHTML ='<img border="0" src="'+et_image.src+'">';document.
+getElementById('et_count').parentNode.appendChild(et_anchor);}
+//--></script>
+<script type="text/javascript">document.write(lt+'script lan'+
+'guage="JavaScript1.3"> var et_js = 1.3;' + lt + '/script>' );
+</script><script language="JavaScript1.3"> var et_js = 1.3;</script><script type="text/javascript"><!-- /////////////////
+et_sw = screen.width;et_sh = screen.height;et_co =( navigator.
+cookieEnabled == true ? 1:(navigator.cookieEnabled==false?2: 0
+ ));if ( navigator.language ) et_la = navigator.language; else
+ if ( navigator.userLanguage ) et_la = navigator.userLanguage;
+et_sc  =  (   (   screen.pixelDepth  )   ?   screen.pixelDepth
+: screen.colorDepth ); if ( et_js >= 1.3 ){ eval('try{et_iw='+
+'top.innerWidth;et_ih=top.innerHeight;}catch(e){et_iw=window'+
+'.innerWidth;et_ih=window.innerHeight;}');}if(typeof(et_iw) ==
+'undefined'){eval('if(document.documentElement&&document.doc'+
+'umentElement.clientHeight){et_iw=document.documentElement.c'+
+'lientWidth;et_ih=document.documentElement.clientHeight;}els'+
+'e if(document.body){et_iw = document.body.clientWidth; et_i'+
+'h = document.body.clientHeight; }' ) ; } //--></script>
+<p style="display:none;" id="et_count"></p>
+<script type="text/javascript">et_eC('B3gkP3');</script><a href="https://www.commerzbank.com/companion/app?et=B3gkP3" target="_blank"><img border="0" src="https://www.commerzbank.com/companion/cnt.php?v=2.6&amp;java=y&amp;tc=1580374466206&amp;et=B3gkP3&amp;et_ilevel=0&amp;swidth=800&amp;sheight=600&amp;siwidth=1366&amp;siheight=768&amp;scookie=1&amp;scolor=24&amp;p=undefined&amp;et_areas=/web/20111012005925id_/https%253A//www.commerzbank.com/en/metanavigation/datenschutz&amp;et_target=,0,0,0,0&amp;et_pagename=datenschutz&amp;et_url=https%3A//web.archive.org/web/20111012005925id_/https%253A//www.commerzbank.com/en/metanavigation/datenschutz/datenschutz.html&amp;slang=en-US"></a>
+
 
 </body></html>
