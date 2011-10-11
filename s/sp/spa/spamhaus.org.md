@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the spamhaus.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613213821id_/http%3A//www.spamhaus.org/organization/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spamhaus.org privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011075432id_/http%3A//www.spamhaus.org/organization/privacy.html) for the most accurate reproduction.*
 
 # The Spamhaus Project - Privacy
 
   
-[Legal](https://web.archive.org/web/20110613213821id_/http%3A//www.spamhaus.org/organization/notices.html)  
-[Copyright](https://web.archive.org/web/20110613213821id_/http%3A//www.spamhaus.org/organization/notices.html)  
-[Trademarks](https://web.archive.org/web/20110613213821id_/http%3A//www.spamhaus.org/organization/notices.html)  
-[Document Storage Policy](https://web.archive.org/web/20110613213821id_/http%3A//www.spamhaus.org/organization/notices.html)  
+[Legal](https://web.archive.org/web/20111011075432id_/http%3A//www.spamhaus.org/organization/notices.html)  
+[Copyright](https://web.archive.org/web/20111011075432id_/http%3A//www.spamhaus.org/organization/notices.html)  
+[Trademarks](https://web.archive.org/web/20111011075432id_/http%3A//www.spamhaus.org/organization/notices.html)  
+[Document Storage Policy](https://web.archive.org/web/20111011075432id_/http%3A//www.spamhaus.org/organization/notices.html)  
 | We at Spamhaus are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
 Spamhaus has established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.
