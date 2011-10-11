@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optoutprescreen.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427175402id_/https%3A//www.optoutprescreen.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optoutprescreen.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011032222id_/https%3A//www.optoutprescreen.com/privacy.htm) for the most accurate reproduction.*
 
 # OptOutPrescreen.com - Frequently Asked Questions
 
@@ -68,7 +68,7 @@ Opt Out Services recognizes the importance of secure online transactions, and we
 
 **Children's Privacy**
 
-The Opt Out Services website, where personally identifiable information in conjunction with requests to Opt-In or Opt-Out is collected, is intended for use only by adults. Opt Out Services complies with the Children's Online Privacy Protection Act and does not knowingly solicit or collect information from children. For legal and security reasons additional information will be collected to authenticate the validity of requests to Opt-Out for children under 13 years of age. For this reason such requests must be made through the mail. Please refer to the FAQ [How do I complete an Opt-Out request by mail for a child under 13 years of age?](https://web.archive.org/web/20110427175402id_/https%3A//www.optoutprescreen.com/faq.htm#22)
+The Opt Out Services website, where personally identifiable information in conjunction with requests to Opt-In or Opt-Out is collected, is intended for use only by adults. Opt Out Services complies with the Children's Online Privacy Protection Act and does not knowingly solicit or collect information from children. For legal and security reasons additional information will be collected to authenticate the validity of requests to Opt-Out for children under 13 years of age. For this reason such requests must be made through the mail. Please refer to the FAQ [How do I complete an Opt-Out request by mail for a child under 13 years of age?](https://web.archive.org/web/20111011032222id_/https%3A//www.optoutprescreen.com/faq.htm#22)
 
 **Keeping Up-to-Date on our Privacy Policy Changes**
 
@@ -77,8 +77,9 @@ Opt Out Services wants you to be fully informed about how it will protect your p
 **How to Contact Us with Questions or Comments**
 
 If you have questions or comments about the Opt Out Services online privacy policy, please write to Opt Out Services at:  
-PO Box 600344  
-Jacksonville, FL 32260 
+Opt-Out Department  
+PO Box 2033-A  
+Rock Island, IL 61204-2033
 
 We cannot process Opt-Out requests received at the above address. All Opt-Out requests must be submitted through this website or through our toll-free telephone number, 888-567-8688. 
 
