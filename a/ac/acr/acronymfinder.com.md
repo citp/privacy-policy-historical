@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628202015id_/http%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acronymfinder.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011135838id_/http%3A//www.acronymfinder.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,8 +18,6 @@ Acronym Finder has created this privacy statement in order to demonstrate our fi
 
 > We use outside companies to manage and display advertisements on our site. These ads may use cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by these ad companies, and we do not have access to this information. Here are their privacy statements.
 >
->> [Amazon.com Privacy Statement](http://www.amazon.com/exec/obidos/tg/browse/-/468496/104-1684370-8203909)
->> 
 >> [Google Privacy Policy Highlights](http://www.google.com/privacy.html)
 
 **External Links**
