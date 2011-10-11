@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603101342id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moomettesmagnificents.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011062019id_/http%3A//moomettesmagnificents.com/blog/disclosure-policy/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Moomettes Magnificents | Connecticut Mom Blogger | Grandparents and Grandchildren
+# Privacy Statement – Moomettes Magnificents
 
 Effective Date:  December 15, 2007
 
@@ -10,7 +10,7 @@ Your privacy is important to Moomette’s Magnificents.  This privacy statement
 
 **Comment Policy:**
 
-**Rule No. 1. It’s my blog.** As sole author of this blog, I reserve the right to edit comments that I consider are spam, offensive in nature or not family-friendly.
+**Rule No. 1. It’s my blog.** As sole author of this blog, I reserve the right to edit comments that I consider are [spam](http://moomettesmagnificents.com/blog/goto/CommentLuv/), offensive in nature or not family-friendly.
 
 **Personal information collection**
 
@@ -107,6 +107,5 @@ If you have any questions about this privacy policy or Moomette’s Magnificents
 
 ###### _This privacy statement is based on a precedent created by[employmentlawcontracts.co.uk](http://www.employmentlawcontracts.co.uk/) and published by [freenetlaw.com](http://www.freenetlaw.com/)[.](http://www.freenetlaw.com/)_
 
-  
-  
+[](http://www.tastefullysimple.com/web/cmatthews1)  
 
