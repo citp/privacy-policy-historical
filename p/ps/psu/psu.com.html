@@ -1,18 +1,15 @@
-<!--The following is the downloaded HTML source of the psu.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204115438id_/http%3A//www.psu.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the psu.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011063733id_/http%3A//www.psu.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="verify-v1" content="zzL5yTOwrYLG3UCpvGtLA0tKF1rOrUWSb8RIxsogJmI=">
 <link rel="icon" type="image/png" href="http://www.psu.com/favicon.png">
-<link rel="alternate" type="application/rss+xml" title="PSU Recent news" href="http://feeds2.feedburner.com/PlayStation-Universe">
-<meta http-equiv="Description" content="PS3 - PlayStation Universe (PSU.com) is the web's largest independent PlayStation site. Featuring forums, games, themes and news for the PS3, PS2 and PSP platforms.">
+<link rel="alternate" type="application/rss+xml" title="PSU Recent news" href="http://feeds.feedburner.com/PlayStationUniverse">
+<meta http-equiv="Description" content="PSU - PlayStation Universe (PSU.com) is the web's largest independent PlayStation site. Featuring forums, games, themes and news for the PS3, PS2 and PSP platforms.">
 <meta http-equiv="Keywords" content="PS3, PlayStation 3, PS3 games, PS3 cheats, PS3 themes, PS3 trophies, PS3 console, PS3 reviews">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>PlayStation Universe </title>
 	<link rel="stylesheet" type="text/css" href="/css/general.css" media="all">
-	
-	
-	
 	<link rel="stylesheet" type="text/css" href="/css/additional.css" media="all">
 	<link rel="stylesheet" type="text/css" href="/css/sidemod.css" media="all">
 	<link rel="stylesheet" type="text/css" href="/css/ticker.css" media="all">
@@ -27,35 +24,163 @@
 	<!--[if IE 7]>
         <link rel="stylesheet" type="text/css" href="/css/navigation-ie7.css" media="all" />
 	<![endif]-->
-
  
-
-<!-- BEGIN TRIGGER SCRIPT -->
-<script language="JavaScript" type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
-<script language="JavaScript" type="text/javascript">getTrigger('1689');</script>
-<!-- END TRIGGER SCRIPT -->
-<script src="/js/jquery-1.3.2.min.js" type="text/javascript"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js" type="text/javascript"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.13/jquery-ui.min.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="/css/redmond/jquery-ui-1.8.13.custom.css" media="all">
 <script src="/js/jquery.popups.js" type="text/javascript"></script>
 <script src="/js/navigation.js" type="text/javascript"></script>
 <script src="/js/ticker.js" type="text/javascript"></script>
 <script src="/js/jquery.easing.1.3.js" type="text/javascript"></script>
+
+
 <script language="JavaScript" type="text/javascript"> var DR_id = "1534";</script>
 <script language="JavaScript" type="text/javascript" src="http://http.cdnlayer.com/drivingrevenue/DR_v4.js"></script>
+
+<script type="text/javascript">
+	var ticker = {}
+	
+	$(document).ready(function() {
+		$.getJSON("/ticker.ajax.php", init);
+	});
+	
+	function init(json) {
+		ticker.delay = 7000;
+		ticker.max = 2;
+		ticker.itemSize = 325;
+		ticker.marginSize = 300;
+		
+		ticker.current = 1;
+		ticker.ul = $('#ticker ul');
+		
+		$.each(json.items, function(i, item) {
+			ticker.ul.append('<li><a href="'+item.href+'"><img src="'+item.thumb+'" width="27" height="27" /></a><div class="inner"><a href="'+item.href+'">'+item.name+'</a><span class="separator">|</span>'+item.pub_time+' - '+item.num_comms+' comments</div></li>');
+			//$('#log').append('<div>'+item.href+'</div>');
+		});
+		
+		ticker.items = ticker.ul.find('li').clone();
+		
+		ticker.items.each(function() {
+			$(this).show();
+		});
+		
+		setTimeout("rotate_ticker()", ticker.delay);
+		checkSize();
+	}
+	
+	// Anto
+	$(window).resize(checkSize);
+	
+	function rotate_ticker() {
+		checkSize();
+		
+		ticker.current++;
+		if (ticker.current >= ticker.items.length) {
+		ticker.current = 0;
+		}
+		
+		ticker.ul.find('li').eq(0).animate({
+			marginLeft: '-325px'
+		}, 750, "easeInQuart", function(){
+			$(this).remove();
+		});
+		
+		ticker.ul.append(ticker.items.eq(ticker.current).clone());
+		
+		setTimeout("rotate_ticker()", ticker.delay);
+	}
+	
+	// Anto
+	function checkSize()
+	{
+		ticker.max = parseInt(($(window).width() - ticker.marginSize) / ticker.itemSize);
+		ticker.curItemCount = ticker.ul.find('li').size();
+		
+		if(ticker.curItemCount == ticker.max)
+		{
+			return;
+		}
+		else if(ticker.curItemCount < ticker.max)
+		{
+			ticker.current++;
+			if (ticker.current >= ticker.items.length)
+			{
+				ticker.current = 0;
+			}
+			ticker.ul.append(ticker.items.eq(ticker.current).clone());
+			//$('#log').append('<div>Added another element</div>');
+		}
+		else if (ticker.curItemCount > ticker.max)
+		{
+			ticker.current--;
+			ticker.ul.find('li:last').remove();
+			//$('#log').append('<div>Removed an element</div>');
+		}
+		checkSize();
+	}
+</script>
+
+<!-- Google Ads Setup -->
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-0946565886405969");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-0946565886405969", "300x100_Sponsor_Button");
+GA_googleAddSlot("ca-pub-0946565886405969", "1000X1000_ROS");
+GA_googleAddSlot("ca-pub-0946565886405969", "300x250-Homepage");
+GA_googleAddSlot("ca-pub-0946565886405969", "300x250-ROS");
+GA_googleAddSlot("ca-pub-0946565886405969", "468x60_Articles_Bottom");
+GA_googleAddSlot("ca-pub-0946565886405969", "728x90-Homepage");
+GA_googleAddSlot("ca-pub-0946565886405969", "728x90-ROS");
+GA_googleAddSlot("ca-pub-0946565886405969", "1x1_Skin_Home");
+GA_googleAddSlot("ca-pub-0946565886405969", "1x1_Skin_ROS");
+GA_googleAddSlot("ca-pub-0946565886405969", "1000X1000_Home");
+GA_googleAddSlot("ca-pub-0946565886405969", "300X100_ROS");
+GA_googleAddSlot("ca-pub-0946565886405969", "47X47_Home");
+GA_googleAddSlot("ca-pub-0946565886405969", "47X47_ROS");
+GA_googleAddSlot("ca-pub-0946565886405969", "160X600_HOME");
+GA_googleAddSlot("ca-pub-0946565886405969", "160X600_ROS");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+<!-- END Google Ads Setup -->
+
+<!-- BEGIN SITE ANALYTICS //-->
+<script type="text/javascript">
+if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+siteanalytics.website_id = 1689;
+siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+</script>
+<script type="text/javascript" src="http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js"></script>
+<!-- END SITE ANALYTICS //-->
+
+<!-- BEGIN TRIGGER TAG INITIALIZATION -->
+<script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
+<script type="text/javascript">getTrigger('1689');</script>
+<!-- END TRIGGER TAG INITIALIZATION -->
+
+<meta name="google-site-verification" content="DLrEHE4Vx1VIv7ps3RizfyOjTYod5rydC7IdhRAlk5U">
+
 </head>
 <body>
+
+	<!-- 47X47_ROS -->
+	<script type="text/javascript">
+	GA_googleFillSlot("47X47_ROS");
+	</script>
+	<!-- 1000X1000_ROS -->
+	<script type="text/javascript">
+	GA_googleFillSlot("1000X1000_ROS");
+	</script>
+
 <div id="wrapper">
-<!--
-		<div id="adContainer">
-<script language="JavaScript">
-var now = new Date();
-var timestamp = now.getTime();
-document.write('<img src="">');
-</script>
-               <a id="adLink" href=""></a>
-       </div>
--->
 	<div id="container">
-		<div id="header">
+		<div id="header" style="height:128px;" class="noskimwords">
 
 	<div id="top_bar">
 	  <a id="primary_home_link" href="/">PSU - Playstation Universe</a>
@@ -70,6 +195,17 @@ document.write('<img src="">');
 			<span class="r"></span>
 		  </a>
 		</li>
+		
+		<!-- nav: news -->
+		<li id="nav_news">
+			<a href="/news">
+				<span class="l"></span>
+				<span class="label">
+					News
+				</span>
+				<span class="r"></span>
+			</a>
+		</li>
 
 		<!-- nav: browse -->
 		<li id="nav_browse">
@@ -83,27 +219,42 @@ document.write('<img src="">');
 		  </a>
 		   <div class="navsubmenu">
 			<ul>
-			  <li><a href="/news"><span class="label">News</span></a></li>
 			  <li><a href="/reviews"><span class="label">Reviews</span></a></li>
 			  <li><a href="/previews"><span class="label">Previews</span></a></li>
 			  <li><a href="/ps3-trophies"><span class="label">Trophies</span></a></li>
-			  <li>
-				<a href="/themes"><span class="label">Themes</span></a>
-				 <div class="extra_link"><a href="/themes/upload">Upload</a></div>
-			  </li>
-			  <li>
-				<a href="/wallpapers"><span class="label">Wallpapers</span></a>
-				 <div class="extra_link"><a href="/wallpapers/upload">Upload</a></div>
-			  </li>
-			  <li><a href="/images"><span class="label">Images</span></a></li>
-			  <li><a href="/videos"><span class="label">Videos</span></a></li>
 			  <li><a href="/games"><span class="label">Games</span></a></li>
+			  <li><a href="/features"><span class="label">Features</span></a></li>
 			</ul>
 		  </div>
 		</li>
-
-	
-
+		
+		
+		<!-- nav: media -->
+		<li id="nav_media">
+			<a href="#">
+				<span class="l"></span>
+				<span class="label">
+					Media
+				<span class="expand">&nbsp;</span>
+				</span>
+				<span class="r"></span>
+			</a>
+			<div class="navsubmenu">
+				<ul>
+					<li><a href="/videos"><span class="label">Videos</span></a></li>
+					<li><a href="/images"><span class="label">Images</span></a></li>
+					<li>
+						<a href="/themes"><span class="label">Themes</span></a>
+						<div class="extra_link"><a href="/themes/upload">Upload</a></div>
+					</li>
+					<li>
+						<a href="/wallpapers"><span class="label">Wallpapers</span></a>
+						<div class="extra_link"><a href="/wallpapers/upload">Upload</a></div>
+					</li>
+				</ul>
+			</div>
+		</li>
+		
 		<!-- nav: discuss -->
 		<li id="nav_discuss">
 		  <a href="/forums">
@@ -123,97 +274,93 @@ document.write('<img src="">');
 			</ul>
 		  </div>
 		</li>
-
+		
+		
 	
 	  </ul>
-
-			<!-- logged out tools -->
-		<div id="nav_tools">
-			<span class="visitors_online" style="max-width: 115px; text-align: right; overflow: hidden; height: 28px">
-				354 visitors online now
-			</span>
-			<span class="separator">|</span>
-			<a id="nav_tools_login" href="#">Log in</a>
-			<div id="search_box">
-				<form action="/search.php" method="get">
-					<input id="txt_search" class="txt" type="text" name="search_for" value="Search psu.com..." onclick="this.value='';">
-					<button type="submit">
-						<span>Search</span>
+	
+	<div id="navbar-login-box">
+					<!-- logged out tools -->
+			<div id="nav_tools">
+				<div id="search_box">
+					<form action="/search.php" method="get">
+						<input id="txt_search" class="txt" type="text" name="search_for" value="Search psu.com..." onclick="this.value='';">
+						<button type="submit">
+							<span>Search</span>
+						</button>
+					</form>
+				</div>
+				<a id="nav_tools_login" href="#">Log in</a>
+				<span class="visitors_online" style="max-width: 115px; text-align: right; overflow: hidden; height: 28px">
+					425 visitors online now
+				</span>
+				<a id="nav_tools_register" href="/forums/register.php">Register</a>
+			</div>
+			
+			<div id="nav_tools_loginbox" style="display: none;">
+				<script type="text/javascript" src="/forums/clientscript/vbulletin_md5.js?v=406"></script>
+				<form action="/forums/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
+					<input type="hidden" name="logingo" value="1"><input type="hidden" name="pagename" value="/">
+					<input id="txt_username" type="text" class="txt" name="vb_login_username" accesskey="u" tabindex="101" value="User Name">
+					<input type="password" class="txt" tabindex="102" name="vb_login_password" id="txt_password" size="10">
+					<br>
+					<input type="checkbox" name="cookieuser" value="1" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" style="margin-top:10px;margin-right:4px;">
+					<a class="forgot_pass">Save</a>
+					<a class="cancel" href="#">Cancel</a>
+					<button type="submit" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s">
+						<span>Login</span>
 					</button>
+					<input type="hidden" name="s" value="">
+					<input type="hidden" name="securitytoken" value="guest">
+					<input type="hidden" name="do" value="login">
+					<input type="hidden" name="vb_login_md5password">
+					<input type="hidden" name="vb_login_md5password_utf">
 				</form>
 			</div>
-		</div>
-		
-		<div id="nav_tools_loginbox" style="display: none;">
-			<script type="text/javascript" src="/forums/clientscript/vbulletin_md5.js?v=406"></script>
-			<form action="/forums/login.php?do=login" method="post" onsubmit="md5hash(vb_login_password, vb_login_md5password, vb_login_md5password_utf, 0)">
-				<input type="hidden" name="logingo" value="1"><input type="hidden" name="pagename" value="/">
-				<label for="cb_cookieuser_navbar"><input type="checkbox" name="cookieuser" value="1" class="cb_cookieuser_navbar" accesskey="c" tabindex="103" style="margin-top:10px;margin-right:4px;"></label>
-				<a class="forgot_pass">Remember Me?</a>
-				<span class="separator">|</span>
-				<a class="cancel" href="#">Cancel</a>
-				<input id="txt_username" type="text" class="txt" name="vb_login_username" accesskey="u" tabindex="101" value="User Name">
-				<input type="password" class="txt" tabindex="102" name="vb_login_password" id="txt_password" size="10">
-				<button type="submit" tabindex="104" value="Log in" title="Enter your username and password in the boxes provided to login, or click the 'register' button to create a profile for yourself." accesskey="s">
-					<span>Login</span>
-				</button>
-				<input type="hidden" name="s" value="">
-				<input type="hidden" name="securitytoken" value="guest">
-				<input type="hidden" name="do" value="login">
-				<input type="hidden" name="vb_login_md5password">
-				<input type="hidden" name="vb_login_md5password_utf">
-			</form>
-		</div>
-
-		</div>
-
-
+	
+			</div>
+	
+	<div id="navbar-social-box"> <a href="http://www.facebook.com/Playstation.Universe" target="_blank"><img src="img/socialmedia/facebook.png" border="0"></a><br>
+	<a href="http://twitter.com/psudotcom" target="_blank"><img src="img/socialmedia/twitter.png" border="0"></a><br>
+	<a href="http://www.youtube.com/psuniversedotcom" target="_blank"><img src="img/socialmedia/youtube.png" border="0"></a>
+	</div>
+	
+</div>
 
 <!-- ticker -->
-	<div id="ticker">
-	  <h3>Latest PSU headlines:</h3>
-	  <ul>
-	    
-
-	    
-
-	    
-
-	    
-
-	    
-
-	    
-
-  </ul>
-</div>
+	<div id="ticker_wrapper">
+		<div id="ticker">
+			<h3>Latest PSU headlines:</h3>
+			<div id="galaxy_logo">&nbsp;</div>
+			<ul id="tickerList">
+				
+			</ul>
 		</div>
+	</div>
+<!-- END Ticker -->
+
+</div>
+
+<div id="inner_container">
 
 <!-- hot discussions  -->
-<div id="hot_discussions">
+<div id="hot_discussions" class="noskimwords">
   <h3>Hot discussions</h3>
   <ul>
 
-    <li style="font-weight: bold;"><a href="/forums/showthread.php?goto=newpost&amp;t=176385" title="Birds and the Bees -Official Relationship Thread-">Birds and the Bees -Off...</a></li>
-    <li><a href="/forums/showthread.php?goto=newpost&amp;t=245997" title="GT5 Prologue vs GT5 Comparison">GT5 Prologue vs GT5 Com...</a></li>
-    <li><a href="/forums/showthread.php?goto=newpost&amp;t=98295" title="NHL Thread">NHL Thread</a></li>
-    <li><a href="/forums/showthread.php?goto=newpost&amp;t=235076" title="*Official Kinect Discussion Thread*">*Official Kinect Discus...</a></li>  </ul>
+    <li style="font-weight: bold;"><a href="/forums/showthread.php?goto=newpost&amp;t=22407" title="Official &quot;I Won't Be Around For A While&quot; Topic">Official "I Won't ...</a></li>
+    <li><a href="/forums/showthread.php?goto=newpost&amp;t=284840" title="US military weapons, &quot;full of fake Chinese parts&quot;">US military weapons, &amp;q...</a></li>
+    <li><a href="/forums/showthread.php?goto=newpost&amp;t=284828" title="Why you shouldn't [jokingly] try to take candy from 10 year olds.">Why you shouldn't [joki...</a></li>
+    <li><a href="/forums/showthread.php?goto=newpost&amp;t=284840" title="US military weapons, &quot;full of fake Chinese parts&quot;">US military weapons, &amp;q...</a></li>  </ul>
 </div>
 
 		<div id="advertisement">
 			<p class="nM">
-		<!--JavaScript Tag with group ID // Tag for network 748: Yukay Media // Website: PSU // Page: ROS // Placement: ROS-Top-728 x 90 (2186721) // created at: Sep 25, 2009 1:20:44 PM-->
-	<script language="javascript">
-	<!--
-	if (window.adgroupid == undefined) {
-		window.adgroupid = Math.round(Math.random() * 1000);
-	}
-	document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/748/2186721/0/225/ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-	//-->
-	</script><script language="javascript1.1" src="http://adserver.adtech.de/addyn/3.0/748/2186721/0/225/ADTECH;loc=100;target=_blank;grp=302;misc=1580409122482"></script><noscript><a href="http://adserver.adtech.de/adlink/3.0/748/2186721/0/225/ADTECH;loc=300" target="_blank"><img src="http://adserver.adtech.de/adserv/3.0/748/2186721/0/225/ADTECH;loc=300" border="0" width="728" height="90"></a></noscript>
-	<!-- End of JavaScript Tag -->
-	
-				<em>Advertisement</em></p>
+							<!-- 728x90-ROS -->
+				<script type="text/javascript">
+					GA_googleFillSlot("728x90-ROS");
+				</script>
+						<em>Advertisement</em></p>
 		</div>
 		<p id="breadcrumbs" class="sticked">
 			<em>You are here:</em> <a class="home" href="/index.php">Home</a> <em>»</em> <span>Privacy policy</span>
@@ -276,12 +423,14 @@ phone number.</p>
 				</div>
 			</div>
 		</div>
+</div> <!-- END INNER CONTAINER -->
+
 		<div id="footer">
 			<h1>PSU</h1>
 			<div id="psu">
 				<h2>Playstation Universe</h2>
-				<p class="copyright">Copyright 2006-2010 GameBurst Media Ltd. All Right Reserved.</p>
-				<p class="usage">Reproduction in whole or in part in any form or medium without express written permission of GameBurst Media Ltd. is prohibited. <br>Use of this site is governed by our Terms of Use and Privacy Policy.</p>
+				<p class="copyright">Copyright 2006-2011 Abstract Holdings International Ltd. All Right Reserved.</p>
+				<p class="usage">Reproduction in whole or in part in any form or medium without express written permission of Abstract Holdings International Ltd. prohibited.<br>Use of this site is governed by our Terms of Use and Privacy Policy.</p>
 			</div>
 			<div id="onPsu">
 				<h2>PSU.com</h2>
@@ -298,7 +447,7 @@ phone number.</p>
 					<li><a rel="nofollow" href="/uploadtheme.php">Upload a PS3 Theme</a></li>
 				</ul>
 				<ul>
-					<li><a rel="nofollow" href="http://feeds.feedburner.com/LatestNews-Psucom">RSS Feed</a></li>
+					<li><a rel="nofollow" href="http://feeds.feedburner.com/PlayStationUniverse">RSS Feed</a></li>
 					<li><a rel="nofollow" href="/features.php?type=Podcast">PodCasts</a></li>
 					<li><a rel="nofollow" href="/events.php">Events</a></li>
 					<li><a rel="nofollow" href="/game_ranks.php">Game rankings</a></li>
@@ -317,6 +466,8 @@ phone number.</p>
 					<li><a href="http://www.actiontrip.com" target="_blank" title="Comprehensive Xbox 360, PS3, PSP, PC  cheats!">Game Cheats</a></li>
 					<li><a href="http://www.gamediscovery.com" target="_blank">Game Design</a></li>
 					<li><a href="http://www.gamerzines.com/" target="_blank">GamerZines</a></li>
+					<li><a href="http://www.gamingchair.com" target="_blank">Gaming Chair</a></li>
+					<li><a href="http://www.gamingchair.com/gaming-chairs" target="_blank">Gaming Chairs</a></li>
 					<li><a href="http://www.laps3.com/" target="_blank">La PS3</a></li>
 					<li><a href="http://www.maxps3.com/" target="_blank">Max PS3</a></li>
 					<li><a href="http://www.ps3attitude.com" target="_blank">PS3 Attitude</a></li>
@@ -334,6 +485,15 @@ phone number.</p>
 	</div>
 </div>
 
+<!-- BEGIN SITE ANALYTICS //-->
+<script type="text/javascript">
+if (typeof siteanalytics == 'undefined') { siteanalytics = {}; };
+siteanalytics.gn_tracking_defaults = {google: '',comscore: {},quantcast:''};
+siteanalytics.website_id = 1689;
+siteanalytics.cdn_hostname = 'cdn.siteanalytics.evolvemediametrics.com';
+</script>
+<script type="text/javascript" src="http://cdn.siteanalytics.evolvemediametrics.com/js/siteanalytics.js"></script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -345,18 +505,8 @@ pageTracker._trackPageview();
 } catch(err) {}
 </script>
 
-<!-- utarget Ad code -->
-<script language="JavaScript">
-var now = new Date();
-var nIndex = now.getTime();
-document.write('<s' + 'cript src="http://www.utarget.co.uk/scriptinject.aspx?h=2061&nocache=' + nIndex + '">');
-document.write('</' + 's' + 'cript>');
-</script><script src="http://www.utarget.co.uk/scriptinject.aspx?h=2061&amp;nocache=1580409122574"></script>
-<!-- utarget Ad code Ends -->
-<script type="text/javascript">
-_uacct = "UA-2139799-1";
-urchinTracker();
-</script>
+<!-- END SITE ANALYTICS //-->
+
 <!-- Start eXTReMe Non Public Tracker Code V3/5 -->
 <script type="text/javascript"><!--
 EXref="";top.document.referrer?EXref=top.document.referrer:EXref=document.referrer;//-->
@@ -371,7 +521,7 @@ EXd.write("<img "+EXsrc+"="+EXprot+"://nht-2.extreme-dm.com",
 "/n3.g?login=psucom&amp;url="+escape(document.URL)+"&amp;pv=&amp;",
 "jv="+EXjv+"&amp;j=y&amp;srw="+EXw+"&amp;srb="+EXb+"&amp;",
 "l="+escape(EXref)+" height=1 width=1>");//-->
-</script><img src="https://nht-2.extreme-dm.com/n3.g?login=psucom&amp;url=https%3A//web.archive.org/web/20101204061605id_/http%3A//www.psu.com/privacy&amp;pv=&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="nneXTReMe"><img height="1" width="1" alt="" src="http://nht-2.extreme-dm.com/n3.g?login=psucom&amp;url=nojs&amp;j=n&amp;jv=n&amp;pv=" />
+</script><img src="https://nht-2.extreme-dm.com/n3.g?login=psucom&amp;url=https%3A//web.archive.org/web/20111110003522id_/http%3A//www.psu.com/privacy&amp;pv=&amp;jv=n&amp;j=y&amp;srw=800&amp;srb=24&amp;l=" height="1" width="1"><noscript><div id="nneXTReMe"><img height="1" width="1" alt="" src="http://nht-2.extreme-dm.com/n3.g?login=psucom&amp;url=nojs&amp;j=n&amp;jv=n&amp;pv=" />
 </div></noscript>
 <!-- End eXTReMe Non Public Tracker Code -->
 <div style="visibility:hidden; display:none;">
@@ -393,6 +543,8 @@ EXd.write("<img src=http://e1.extreme-dm.com",
 <div id="neXTReMe"><img height="1" width="1" alt="" src="http://e1.extreme-dm.com/s10.g?login=psuni&amp;j=n&amp;jv=n" />
 </div>
 </noscript>
+</div>
+</div>
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
@@ -405,6 +557,13 @@ qacct:"p-84tSGIp-BMJiM"
 </noscript>
 <!-- End Quantcast tag -->
 
+	<!-- 1x1_Skin_ROS -->
+	<script type="text/javascript">
+	GA_googleFillSlot("1x1_Skin_ROS");
+	</script>
+
+<script type="text/javascript" src="http://s.skimresources.com/js/8480X673500.skimlinks.js"></script>
 
 
-</div></div></body></html>
+
+</body></html>
