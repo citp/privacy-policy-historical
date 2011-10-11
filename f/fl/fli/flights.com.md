@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423043240id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flights.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011073407id_/http%3A//www.flights.com/privacy.htm) for the most accurate reproduction.*
 
 # Flights.com Privacy Policy
 
@@ -8,7 +8,11 @@ When booking your journey in Flights.com you are using a secure socket layer (SS
 
 Flights.com has created this privacy statement in order to demonstrate our firm commitment to privacy, and in particular our pledge to ensure the safety of our users. 
 
-### Disclosure
+### Private Information
+
+We only collect the necessary information needed to complete your travel arrangements. We do not sell, collect, or permanently store your private information. 
+
+### 3rd Party Disclosure
 
 We do not disclose personal information such as your name, address, email address or telephone numbers to any outside company. However, as mentioned above, we may share with our web site partners the necessary information required for the efficient completion of your travel arrangements. 
 
@@ -20,13 +24,13 @@ Flights.com uses internet based advertising on some of our pages. This allows us
 
 We use session data, collected through cookies and scripts, to better understand how Flights.com is used. This referes to how many visitors arrive at specific pages, the length and frequency of stays at our site, the variety of searches of our site's database, the types of browsers and operating systems used by our visitors and the Internet Protocol (IP) addresses from which our visitors connect from. Why do we do this? We use this information to improve our site content and ease of use. This also allows us to personalize and improve your individual viewing experiences (such as storing your most recent flight search), and to provide you with the information your looking for at the quickest rate. 
 
-### Flights Email News
+### Email Usage
 
-If at any point, you do not wish to be a member of our email news list, you can select the link at the bottom of every email to unsubscribe or receive less or more information about our products. 
+Flights.com does not spam, sell, or use your e-mail address to send any unwanted e-mails. Your e-mail address will be used to confirm and communicate with you regarding your travel arrangements. We do however offer an e-mail newsletter. If at any point, you do not wish to be a member of our email news list, you can select the link at the bottom of every email to unsubscribe or receive less or more information about our products. 
 
 ### Security
 
-This site has enhanced security measures in place to protect the loss, misuse, and alteration of the information under our control. Users should be aware, that as with any website, security measures are not fail-safe. 
+This site has enhanced security measures (SSL) in place to protect the loss, misuse, and alteration of the information under our control. Users should be aware, that as with any website, security measures are not fail-safe. 
 
 ### Flights.com Privacy Policy Changes
 
