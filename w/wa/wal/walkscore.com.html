@@ -1,30 +1,37 @@
-<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2011-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110421071515id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the walkscore.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011215412id_/http%3A//www.walkscore.com/privacy-policy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="description" content="Walk Score helps people find walkable places to live.  Walk Score calculates the walkability of any address.">
 
 <meta name="keywords" content="walk, walking, walkable, walkable neighborhoods, compact neighborhood, pedestrian friendly design, pedestrian-friendly design, pedestrian centric design, pedestrian-centric design, walking map, urban planning, urban planning walking, urban design, sidewalk design, street design, grid, walking grid">
 <title>Walk Score - Helping homebuyers, renters, and real estate agents find houses and apartments in great neighborhoods.</title>
-<link rel="stylesheet" type="text/css" href="http://cdn.walkscore.com/css/main_v46337.css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+
+<link rel="stylesheet" type="text/css" href="http://cdn.walkscore.com/css/main_v90256.css">
+<link rel="stylesheet" type="text/css" href="http://cdn.walkscore.com/css/jquery-ui-1.8.13.custom_v90256.css">
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<!-- Disabled for now.
 <script type="text/javascript" src="http://cdn.simplegeo.com/js/1.2/simplegeo.places.jq.min.js"></script>
 <script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/oauth.js"></script>
 <script type="text/javascript" src="http://oauth.googlecode.com/svn/code/javascript/sha1.js"></script>
-<script type="text/javascript" src="http://cdn.walkscore.com/js/underscore_v46337.js"></script>
-<script type="text/javascript" src="http://cdn.walkscore.com/js/util_v46337.js"></script>
+-->
+<script type="text/javascript" src="http://cdn.walkscore.com/js/OpenLayers_v90256.js"></script>
+<script type="text/javascript" src="http://cdn.walkscore.com/js/modernizr_v90256.js"></script>
+<script type="text/javascript" src="http://cdn.walkscore.com/js/underscore_v90256.js"></script>
+<script type="text/javascript" src="http://cdn.walkscore.com/js/util_v90256.js"></script>
+<script type="text/javascript" src="http://cdn.walkscore.com/js/jquery-ui-1.8.13.custom.min_v90256.js"></script>
 <script type="text/javascript" charset="utf-8">
 	$.ajaxSetup({
 		timeout: 9000 //9 second global timeout -- can be overridden for particular calls
 	});
-	
+
 	var ACTIVE_COMPONENT = "untracked page";
 </script>
 
 <!--[if IE]>
 	<style type="text/css">
-  	#h-t-form input[type="text"] { 
-    	padding-top: 2px; 
+  	#h-t-form input[type="text"] {
+    	padding-top: 2px;
 			height: 18px;
     }
   	.styled-input input[type="text"] {
@@ -42,18 +49,20 @@
 <div class="root-container">
   <div id="branding">
 	<a href="http://www.walkscore.com/"><span>Walk Score</span></a>
-	<h2>Find a Walkable Place to Live.</h2>
 </div>
-  <!-- style tag removed to pass W3C markup validation. See main.css FRIENDS AND FOLLOWERS -->
+  <div id="brand-flip-link"><a href="/professional/">Walk Score Professional</a></div>
+<!-- style tag removed to pass W3C markup validation. See main.css FRIENDS AND FOLLOWERS -->
 
 <div id="social-media-buttons">
-	<label>Follow us:</label>
+	<label for="social-media">Follow us:</label>
   <div onclick="trackNavigationNewWindow(&quot;http://twitter.com/walkscore&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;twitter&quot;)" class="friend-twitter">
   </div>
   <div onclick="trackNavigationNewWindow(&quot;http://www.facebook.com/walkscore&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;facebook&quot;)" class="friend-facebook">
   </div>
+  <div onclick="trackNavigation(&quot;/join-list.shtml&quot;, &quot;untracked page&quot;, &quot;follow us&quot;, &quot;email list&quot;)" class="friend-email-list">
+  </div>
 </div>
-<div id="navigation"><a href="/rankings/">Cities &amp; Neighborhoods</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/walkable-neighborhoods.shtml">Why It Matters</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/how-it-works.shtml">How It Works</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/professional/">Walk Score Professional</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://blog.walkscore.com/">Blog</a></div>
+<div id="navigation"><a href="/rankings/">Cities &amp; Neighborhoods</a>|<a href="/walkable-neighborhoods.shtml">Why It Matters</a>|<a href="/how-it-works.shtml">How It Works</a>|<a href="/professional/">Walk Score on Your Site</a>|<a href="/apartments/">Apartment Search</a>|<a href="http://blog.walkscore.com/">Blog</a></div>
 
   
 <div id="address-bar" class="styled-input">
@@ -85,6 +94,7 @@
       <p> This website is not directed to children, and FSM does not knowingly solicit information from any child under the age of 13. </p>
       <h2><strong> 8. Terms and Modifications to this Privacy Statement </strong></h2>
       <p> By using the website, you signify your agreement to the terms of our Privacy Policy. If you do not agree with these terms, you should not use the site. FSM may modify this Privacy Policy at any time. You are responsible for reviewing this Privacy Policy periodically to ensure that you are aware of any changes to it. Your continued use of the site indicates your assent to any changes to this Privacy Policy. </p>
+      <p>Walk Score uses the Google Maps API which has the following <a href="http://www.google.com/privacy.html" target="_blank">privacy policy</a>. </p>
       <h2><strong> 9. Contacting Walk Score </strong></h2>
       <p> If you have any questions about this Privacy Policy, the privacy practices of this website, or if you want to exercise any of the rights that you are given under this Privacy Policy, you can <a href="contact-us.php">contact us</a>.</p>
       <p><em>Last modified 12/16/2010</em><br clear="all">
@@ -95,7 +105,7 @@
   
 <div id="footer">
   <div id="footer-links">
-    <p><a href="/about.shtml">About Walk Score</a> - <a href="/join-list.shtml" rel="nofollow">Mailing List</a> - <a href="/iphone">iPhone</a> - <a href="/transit-map.php">Transit Maps</a> - <a href="/privacy-policy.shtml" rel="nofollow">Privacy</a> - <a href="/terms-of-use.shtml" rel="nofollow">Terms</a> - <a href="/jobs/">Jobs</a></p>
+    <p><a href="/about.shtml">About Walk Score</a> - <a href="/join-list.shtml" rel="nofollow">Mailing List</a> - <a href="/iphone">iPhone</a> - <a href="/commute-cost-calculator.php">Commute Cost</a> - <a href="/privacy-policy.shtml" rel="nofollow">Privacy</a> - <a href="/terms-of-use.shtml" rel="nofollow">Terms</a> - <a href="/jobs/">Jobs</a> - <a href="/press/">Press</a></p>
   </div>
   <div id="footer-branding">
     <p>© 2011 <a href="http://www.frontseat.org/" target="_blank">Front Seat</a></p>
