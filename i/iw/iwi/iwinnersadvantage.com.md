@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the iwinnersadvantage.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620035309id_/http%3A//iwinnersadvantage.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwinnersadvantage.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011121704id_/https%3A//iwinnersadvantage.com/%3Fp%3Dprivacy) for the most accurate reproduction.*
 
-# IWA Privacy Policy
+# Privacy Policy - I Winners Advantage (IWA)
 
 IWINNERSADVANTAGE.COM
 
 Policy Last Revised: November 29, 2008.
 
-The following sets forth the policies for the collection and use of personally identifiable information (“Information”) by Compass Direct Marketing LLC (“Compass Direct”) in connection with its operation of its Web site located at http://www.iwinnersadvantage.com (the “Site”), and supersedes any previous statement of such policies. Compass Direct takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
+The following sets forth the policies for the collection and use of personally identifiable information (�Information�) by Compass Direct Marketing LLC (�Compass Direct�) in connection with its operation of its Web site located at http://www.iwinnersadvantage.com (the �Site�), and supersedes any previous statement of such policies. Compass Direct takes its obligations regarding privacy very seriously, and it wants to ensure users are fully informed about the Information they are providing to it.
 
 Collection of Information.
 
@@ -19,7 +19,7 @@ In connection with the Site, Compass Direct may collect Information in the follo
 
 
 
-Compass Direct may also connect non-personally identifiable information from users via “cookies” (small text files placed by Compass Direct on user computers), single-pixel GIF image files (also called “Web beacons”), Web server log analysis and other similar technological means. Such information may be used to track site trends and enhance the user experience, and may be shared with third parties.
+Compass Direct may also connect non-personally identifiable information from users via �cookies� (small text files placed by Compass Direct on user computers), single-pixel GIF image files (also called �Web beacons�), Web server log analysis and other similar technological means. Such information may be used to track site trends and enhance the user experience, and may be shared with third parties.
 
 To the extent third parties may place advertising on the Site, such third parties may utilize cookies or other technological means within the advertising to collect and utilize non-personally identifiable information. Compass Direct is not responsible for information collected by third parties in this manner, nor for the collection or use of Information by other sites to which the Site is linked.
 
@@ -39,7 +39,7 @@ The following types of Information about a user are among those that may be coll
   * Credit card and other billing information
   * IP Address
   * Referring site
-  * Other technical information collected by the Site’s servers.
+  * Other technical information collected by the Site�s servers.
 
 
 
@@ -65,7 +65,7 @@ Compass Direct may also disclose Information to affiliated entities, when it det
 
 _Opting Out from Offers from Compass Direct._
 
-At any time, a user may opt out from receiving future offers from Compass Direct through the user’s profile on the Site, by following the instructions contained within each marketing communication. Such opting out will not apply to any communications from third parties to whom Compass Direct may have provided Information regarding the user. Third parties’ use of the Information is subject to such parties’ own privacy policies, for which Compass Direct shall not be responsible.
+At any time, a user may [opt out](https://www.iwinnersadvantage.com/?p=unsubscribe) from receiving future offers from Compass Direct through the user�s profile on the Site, by following the instructions contained within each marketing communication. Such opting out will not apply to any communications from third parties to whom Compass Direct may have provided Information regarding the user. Third parties� use of the Information is subject to such parties� own privacy policies, for which Compass Direct shall not be responsible.
 
 _Access to Information._
 
@@ -73,7 +73,7 @@ All users who provide their Information to Compass Direct may modify and correct
 
 _Your California Privacy Rights._
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Compass Direct who are California residents to request certain information regarding Compass Direct’s disclosure of personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please write to 570 South Research Drive, Central Islip, NY 17722, USA.
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of Compass Direct who are California residents to request certain information regarding Compass Direct�s disclosure of personal information to third parties for such third parties� direct marketing purposes. To make such a request, please write to 570 South Research Drive, Central Islip, NY 17722, USA.
 
 _Changes to this Privacy Policy._
 
