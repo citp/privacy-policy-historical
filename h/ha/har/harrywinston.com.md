@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204073227id_/http%3A//harrywinston.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrywinston.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011164853id_/http%3A//www.harrywinston.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# 
 
 ###  LEGALS & PRIVACY HARRY WINSTON, INC  
 **  
@@ -9,7 +9,7 @@ PRIVACY POLICY**
 
 We understand that your privacy is important. This privacy policy ("Privacy Policy") describes how HarryWinston.com collects information about you over the internet, how we use it, how we disclose it, and any choices you may have. By using this web site (the "Site"), you agree to our use of your information as described in this Privacy Policy. 
 
-We may revise this Privacy Policy from time to time. If we change our Privacy Policy, we will post the new Privacy Policy to the Site. We recommend you periodically review the Site to ensure that you are familiar with the most current version of our Privacy Policy. For your convenience, the date of the last update to this privacy policy appears at the bottom of the Site. Please see our [Terms and Conditions](https://web.archive.org/web/20101204073227id_/http%3A//harrywinston.com/Terms.aspx) for other terms and conditions governing your use of the Site. 
+We may revise this Privacy Policy from time to time. If we change our Privacy Policy, we will post the new Privacy Policy to the Site. We recommend you periodically review the Site to ensure that you are familiar with the most current version of our Privacy Policy. For your convenience, the date of the last update to this privacy policy appears at the bottom of the Site. Please see our [Terms and Conditions](https://web.archive.org/terms) for other terms and conditions governing your use of the Site. 
 
 **How We Collect and Use Information**
 
