@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718060920id_/http%3A//www.studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentuniverse.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011104308id_/http%3A//www.studentuniverse.com/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy for StudentUniverse.com
 
@@ -20,15 +20,19 @@ Cookies
 
 "Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. We use cookies, but we do not store your personal data in those cookies. Rather, we use cookies to collect and store non-personal data, such as the name of the domain and host from which you access the Internet (for example, yahoo.com or princeton.edu); the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site.
 
-Some of our business partners use cookies and action tags (also known as single pixel gifs or web beacons) on our site to measure advertising effectiveness, but we have no access to or control over these cookies and action tags. Any information that these third parties collect via cookies and action tags is completely anonymous. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+Some of our business partners, including Google, use cookies and action tags (also known as single pixel gifs or web beacons) on our site to measure advertising effectiveness, show our adds on other sites, and serve ads based on your prior visits to our website, but we have no access to or control over these cookies and action tags. Any information that these third parties collect via cookies and action tags is completely anonymous. Most web browsers automatically accept cookies, but if you prefer, you can edit your browser options to block them in the future. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
 
 Sharing Information
 
-No personally identifiable information will be shared with our partners except as part of an explicit transaction- for example, providing your customer data to the airline on which you've purchased a ticket or a partner for verification of your faculty/student enrollment status. Some of your information may be shared on an aggregate basis only, but that information will not be sufficient to permit the recipient to identify you.
+No personally identifiable information will be shared with our partners except as part of an explicit transaction- for example, providing your customer data to the airline on which you've purchased a ticket or a partner for verification of your student/faculty enrollment or youth status. Some of your information may be shared on an aggregate basis only, but that information will not be sufficient to permit the recipient to identify you.
 
 As we continue to develop our business, we might sell or buy companies or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that StudentUniverse.com or substantially all of its assets are acquired, customer information could be one of the transferred assets.
 
-Except as set forth in the [Terms of Use](https://web.archive.org/termsOfUse.html) and this Privacy Policy, we will not willfully disclose personal data about you to any third party without first receiving your permission.
+Except as set forth in the [Terms of Use](https://web.archive.org/termsOfUse.html) and this Privacy Policy, we will not willfully disclose personal data about you to any third party without first receiving your permission. Failure to abide by the terms of use can forfeit your rights as described in our privacy policy.
+
+We do not disclose, give, sell, or transfer any personal information about our visitors, unless required for law enforcement or statute.
+
+We may share information with governmental agencies or other companies assisting us in fraud prevention or investigation. We may do so when: (1) permitted or required by law; or, (2) trying to protect against or prevent actual or potential fraud or unauthorized transactions; or, (3) investigating fraud which has already taken place. The information is not provided to these companies for marketing purposes.
 
 Spam
 
