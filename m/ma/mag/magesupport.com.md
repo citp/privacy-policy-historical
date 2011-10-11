@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magesupport.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231101913id_/http%3A//www.magesupport.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magesupport.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011141214id_/http%3A//www.magesupport.com/privacy-policy) for the most accurate reproduction.*
 
-# MageSupport | Privacy Policy | Your Magento Partner
+# Privacy Policy
 
 We never Collect your Credit Card Information and we never store your credit card information to our database. Our Trusted Payment Partners PAYPAL and MONEYBOOKERS are directly process your credit card information with Secure Layer (RapidSSL).
 
