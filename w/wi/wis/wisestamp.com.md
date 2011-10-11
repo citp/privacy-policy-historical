@@ -1,56 +1,134 @@
-> *The following text is extracted and transformed from the wisestamp.com privacy policy that was archived on 2008-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080813202801id_/http%3A//www.wisestamp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisestamp.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011142629id_/http%3A//www.wisestamp.com/privacy-policy) for the most accurate reproduction.*
 
-# WiseStamp Privacy Policy | @ WiseStamp
+# WiseStamp Privacy Policy
 
-Your privacy and the privacy of all WiseStamp users is very important to us and we are strongly committed to protecting it.
+WiseStamp Privacy Policy
 
-Our privacy policy is clear - we do not sell or rent your personal information without your explicit permission.
+Last Revised: **June 05, 2011**
 
-This policy tells you, among other things, what information we gather from you, how we may use or disclose that information and our efforts to protect it.
+WiseStamp Ltd. ( “Company” or “we”) respects the privacy of the visitors of its Site and the users of its Platform (as such terms are defined in the Site’s Terms of Use, available at [<http://www.wisestamp.com/terms>] and is committed to protect the information of its users (“User” or “you”).
 
-Please read this policy carefully, and feel free to contact us at contact+privacy@WiseStamp.com if you have any questions regarding its contents.  
-`  
-`
+We believe that you have a right to know our practices regarding the information we may collect, use and disclose when you use our Platform and/or visit the Site. We made many efforts to provide you with a transparent, detailed and clear privacy policy. Our Privacy Policy will tell you, among other things, what type of information we gather, how we may use or disclose that information and our efforts to protect it. The guidelines contained herein apply to your visit or use of the Site and/or any use of the Platform.
 
-### Personal information
+We encourage you to read our policy carefully, and feel free to [contact us ](http://www.wisestamp.com/contact)if you have any questions regarding its contents. WiseStamp may update this Privacy Policy from time to time – we encourage you to review it periodically.
 
-WiseStamp does not collect personal information about you when you visit our Web site, use our Web services or our client applications, unless you choose to provide that information to us.
+## Acceptance of the Policy
 
-If you choose to share any personal information (such as your email address) with us, we will not share this information with third parties or other WiseStamp users without your explicit permission, except when required by law, subpoena or court order.  
-`  
-`
+**Please read carefully** : _By accessing or using the site or the platform, you agree to the terms and conditions set forth in this privacy policy, including to the collection and processing of your personal information (as defined below). If you disagree to any term provided herein, you may not use the site and the platform._
 
-### Cookies
+## Which information we may collect on our Users?
 
-A cookie is a small piece of text that is sent to a visitor’s browser by a Web site. The browser provides this piece of text to the originating Web site when this visitor returns.
+We collect two types of data and information:
 
-Use of our site may require that you accept the use of cookies, which are small data files that our Web site sends to your browser for storage on your computer’s hard drive. We use cookies to protect confidential data, track activity at our site and better serve your needs and interests, you are free to delete any existing cookies at any time.  
-`  
-`
+A. **Non-personal Information** – The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”). To put it simply, we have no idea what is the identity of the User from which we have collected the Non-personal Information. Like most websites on the Internet the Non-personal Information which is being gathered consists of technical information and behavioral information, as detailed below:
 
-### Web Site Visits & Statistical information
+> **Technical information:**
+> 
+> • Type of operation system (e.g. Windows, Linux, etc.)
+> 
+> • Type of Browser (e.g. Explorer, Firefox, Chrome, Safari, etc.)
+> 
+> • Your current WiseStamp Software version (as such term is defined in the Terms of Use).
+> 
+> • Type of Email Platform used by the User during a certain session (e.g Gmail, Yahoo, Outlook etc.)
+> 
+> • Browser and keyboard language (e.g. English)
+> 
+> • IP Address.
+> 
+> • Any Similar technical information
+> 
+> **Behavioral information:**
+> 
+> • User activity such as log-ins, signature generation date, and time of access.
+> 
+> • The clicks, mouse movements and similar information with regard to the User’s session (e.g. the fact that User has chosen to click on a certain link or access a certain webpage).
+> 
+> • Overall, impersonal statistical information regarding total amount of e-mails (bearing signature generated by the Platform) that were opened and/or hyperlinks clicked by the recipient(s).
+> 
+> **Please note** that in order to collect the **Non-Personal** Information we may use common third party analytics services such as:[Google Analytics ](http://www.google.com/intl/en/analytics/privacyoverview.html), [Facebook Insights ](http://www.facebook.com/policy.php), [Clicktale ](http://www.clicktale.com/privacy_service.aspx)etc.
 
-Like most Web sites on the Internet, the WiseStamp server records certain information it automatically receives from the browser, such as the Web request, Internet Protocol (IP) addresses, browser type, language preference, referring site, pages viewed and the order of those pages. This information is used to help diagnose problems with our servers, to make the site more useful and to customize the site and personalize its content for you.
+B. **Personal Information** – The other type of information is individually identifiable information (“ **Personal Information** “). To put it simply, this information may identify an individual or is of a private and/or sensitive nature. Personal Information which is being gathered consists of any personal details provided voluntarily by the User (e.g. User’s name, email address, user’s signature format etc.) mainly by registration to the Platform and/or sync services of such Personal Information on our Platform. . We also respect and treat any email you may send to us as Personal Information.
 
-By analyzing the Web site usage as explained above, we may compile certain statistical information, such as most visited WiseStamp pages. This aggregated statistical data cannot be not linked to any personal information. We may share such non-personal statistical information with our partners.  
-`  
-`
+**To avoid confusion** , rest assured that **any Non-personal Information combined with Personal Information shall be regarded as Personal information**.
 
-### Third Party Web Sites
+When you connect to third-party services provider (“Third-Party Services Provider”) via the Platform, for the first time, you will be asked to permit such Third-Party Services Provider to share with us information about you, such as: Basic Information (your first and last name, your profile picture and/or its URL & gender); Your latest Profile Status update; Pages you admin, your living location and hometown as specified in your profile; information regarding and/or relating to posts and/or posts in your news feed; Your user ID number, which is linked to publically available information such as name and profile photo.
 
-We may display links to 3rd party sites and some of our site pages might display information from 3rd parties (such as YouTube or Flickr). We cannot be held responsible for any 3rd party Web sites and accessing their content will be subject to their own privacy policies, which we advise you to check.  
-`  
-`
+**We will not collect any Personal Information from you without your approval.  
+**  
+Among other things, **WE WILL NOT** :
 
-### Changes
+> **• READ, SCAN OR COLLECT YOUR E-MAIL MESSAGES.**
+> 
+> • Collect any Personal Information from your e-mails, without your explicit approval.
+> 
+> • Collect any chat or other correspondence between a User and any third-party.
 
-WiseStamp may update this Privacy Policy from time to time - we encourage you to review it periodically.  
-`  
-`
+## How do we collect information on our Users?
 
-### Comments and Questions
+> Following are our main methods of collecting information on our Users
 
-If you have any comments or questions about our privacy policy please contact us.  
-`  
-`  
-Last updated: **July 16 2008**
+> A. **We collect information while you install, access, browse, view or otherwise use the Platform**. In other words, when you use or otherwise access the Platform we are aware of your usage of the Platform, and may gather, collect and record the information relating to such usage. For example, when you connect to the Platform, your computer tells us your IP address.
+> 
+> B. **We collect information which you provide us voluntarily**. For example, when you wish to register to the Platform, we may ask you to provide certain Personal Information which shall be kept on our servers. Each time you will be interested in providing information voluntarily we may ask you to consent to the collection and public display of such information.
+> 
+> C. **We will store, on our Platform, your customized signatures** , including and not limited to, your uploaded images and any other information you included in your signatures, with our online backup & sync services. 
+> 
+> D. **We may track **overall,** Non-personal, email usage and hyperlink engagement**. We will do so using standard email tracking methods, such as measuring hyperlink clicks and/or embedding a tiny tracking image. We do so to measure and improve the performance and quality of our services.
+
+## What are the purposes of collecting the information?
+
+Non-personal Information is collected in order to:
+
+> • Enhance the User’s experience on the Platform (e.g. by determining the best location for buttons and links etc.).
+> 
+> • Learn about the preferences of Users and general trends on our Platform (e.g. understand which email application is more popular than others).
+> 
+> • Better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
+> 
+> • Administer the Platform, help diagnose problems with our server, to gather broad demographic information.
+
+Personal Information is collected in order to:
+
+> • Register you as a user of the Platform and to control access to your personal account.
+> 
+> • Personalize your experience on the Platform.
+> 
+> • Provide you with certain Features, services and information you have asked us to provide.
+> 
+> • Allow us to update you with news and tailored information regarding new features, offers, etc.
+> 
+> • Identify you when conducting customer service operations.
+
+## Sharing Personal Information with third parties
+
+We will share Personal Information only in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce these Privacy Policy or the Terms of Use, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to claims that any content published on the Site violates any right of a third-party; (e) to respond to claims that unauthorized information (e.g. e-mail address, name, etc.) of a third-party has been posted on the Site by us without your consent; (f) to protect the rights, property, or personal safety of the Company, its Users or the general public; (g) when Company is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of the assets of Company; (h) pursuant to your approval, in order to supply certain services you have requested from Company; or (i) to let our partners and affiliates serve you with commercials and services.
+
+## Deletion of Personal Information
+
+If for any reason you wish to delete your Personal Information, you should send an email to the address [support <at> wisestamp.com], and we will make reasonable efforts to delete any such information pursuant to any applicable privacy laws.
+
+## Cookies
+
+When you visit the Site, we may use industry-wide technologies such as “Cookies” (or similar technologies), which stores certain information on your computer, and which will allow us to enable automatic sign-in to the Site, and make your browsing much more convenient and effortless. For example, a Cookie can “autofill” information on forms on the Site. Most browsers will allow you block acceptance of Cookies, or receive a warning before a Cookie is stored.
+
+We also use certain third-party Cookies. These are a different kind of Cookies, which are stored on your computer by a third party site, rather than by the Company. This kind of cookie is updated each time you visit our Site or use our Platform, and also when you visit other websites that use similar Cookies, e.g. Facebook connect cookies, which handle login sessions of Users registered via Facebook connect.
+
+## Security
+
+We take a great care in maintaining the security of the Platform and your information therein, and in preventing unauthorized access to the Platform through use of standard industry technologies and internal procedures. However, we do not guarantee that unauthorized usage or access will never occur. We cannot assure that no unpermitted use of your locally personalized information is made by any third-party with access to your computer You are solely responsible for protecting your computer and your locally stored personal information in any way from unpermitted access and use.  
+Users using the Platform agree to keep their password in strict confidence and not disclose such password to any third party. 
+
+## Third Party Sites
+
+While using the platform and/or the Site you may encounter links to third party websites. Please be advised that such third party websites are independent sites, and we assume no responsibility or liability whatsoever with regard to privacy matters or any other legal matter with respect to such sites. We encourage you to carefully read the privacy policies and the terms of use or service of such websites.
+
+## Changes to the Privacy Policy
+
+The terms of this Privacy Policy will govern the use of the Site and the Platform and any information collected therein. Company reserves the right to change this policy at any time, so please re-visit this page frequently. In case of any material change, we will post a clear notice on the Site.
+
+Changes to this Privacy Policy are effective as of the stated “Last Update” and your continued use of the Site on or after the Last Update date will constitute acceptance of, and agreement to be bound by, those changes.
+
+## Got any Questions?
+
+If you have any questions (or comments) concerning this Privacy Policy, you are most welcomed to [contact us](http://www.wisestamp.com/contact) or send us an email to the address [support <At> wisestamp.com](mailto:support@wisestamp.com), and we will make an effort to reply within a reasonable timeframe.
