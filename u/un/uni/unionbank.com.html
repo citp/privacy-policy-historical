@@ -1,1286 +1,1010 @@
-<!--The following is the downloaded HTML source of the unionbank.com privacy policy that was archived on 2004-10-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20041011191847id_/http%3A//www.uboc.com/about/main/0%2C3250%2C2485_2873%2C00.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the unionbank.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011205125id_/https%3A//www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta name="description" content="<searchexcerpt>Union Bank of California has a privacy policy,web security document and identity theft information available online.</searchexcerpt>">
-<meta name="keywords" content="privacy, privacy policy, customer information, personal information, confidential, children's privacy, security, web security, encryption, firewall, cryptography, cookies, cookie, browser, browser requirements, fraud, identity, identity theft, ID theft, fraud prevention,">
-<meta http-equiv="Content-Style-Type" content="text/css">  
-<title>Union Bank of California - Privacy &amp; Security</title>  
-<link href="/styles/Master.css" rel="stylesheet" type="text/css">
-<link href="/styles/MasterEwepAbout.css" rel="stylesheet" type="text/css">
- 
-<script>
-var RateDisclaimerDisplay = "No"
-function populateDateField(stringdate) {
-	RateDisclaimerDisplay = stringdate;
-}
-
-function getRateDisclaimerDisplay(StringCreateTable) {
-	if (RateDisclaimerDisplay != "No") {
-		if (StringCreateTable == "No") {
-			// the table is not created via BBC
-			// So create the table
-			document.write('<TABLE cellpadding="0" cellspacing="0" border="0" width="100%" class="bbcmargintop27">');
-		}
-
-		// create the table row.
-		document.write('<tr><TD colspan="2" class="bodytop2padding"><font class="copytext">*Annual Percentage Yield (APY) is accurate as of ');
-		document.write(RateDisclaimerDisplay);
-		document.write('. Interest rates may change as often as daily without prior notice. Fees could affect account earnings. </font></td></tr>');
-		if (StringCreateTable == "No") {
-			// the table is not created via BBC
-			// So close the table
-			document.write('</TABLE>');
-		}	
-	}
-}
-
-function search_submit() {
-		if(document.SearchFrm.fpQuery.value == "") {
-			alert("Please enter the search text");
-		} else {
-			if (document.SearchFrm.searchCategory.options[document.SearchFrm.searchCategory.selectedIndex].value == "Entire Site") {
-				//document.SearchFrm.searchCategory.options[document.SearchFrm.searchCategory.selectedIndex].value = "Personal~Wealth Management~Small Business~Commercial~About Union Bank";
-				document.SearchFrm.whichserachpage.value="advance";
-			} 
-			document.SearchFrm.submit();
-		}
-}
-
-function ImgPreload()
-{
-  var appVer=parseInt(navigator.appVersion);
-  var isNC=(document.layers && (appVer >= 4));
-  var isIE=(document.all    && (appVer >= 4));
-  if (isNC || isIE)
-  {
-    if (document.images)
-    {
-      var imgName = ImgPreload.arguments[0];
-      var cnt;
-      swImg[imgName] = new Array;
-      for (cnt = 1; cnt < ImgPreload.arguments.length; cnt++)
-      {
-        swImg[imgName][ImgPreload.arguments[cnt]] = new Image();
-        swImg[imgName][ImgPreload.arguments[cnt]].src = ImgPreload.arguments[cnt];
-      }
-    }
-  }
-}
-// ImgFind:
-//
-function ImgFind(doc, imgName)
-{
-  for (var i=0; i < doc.layers.length; i++)
-  {
-    var img = doc.layers[i].document.images[imgName];
-    if (!img) img = ImgFind(doc.layers[i], imgName);
-    if (img) return img;
-  }
-  return null;
-}
-
-function ImgSwap(imgName, imgSrc)
-{
-  var appVer=parseInt(navigator.appVersion);
-  var isNC=(document.layers && (appVer >= 4));
-  var NS6 = (document.getElementById&&!document.all);
-  var isIE=(document.all    && (appVer >= 4));
-  if (isNC || isIE || NS6)
-  {
-    if (document.images)
-    {
-      var img = document.images[imgName];
-      if (!img) img = ImgFind(document, imgName);
-      if (img) img.src = imgSrc;
-    }
-  }
-}
-var swImg; swImg=new Array;
-
-
-// load the images
-
-ImgPreload('back', '/images/back_off.gif', '/images/back_on.gif');
-ImgPreload('print', '/images/print_off.gif', '/images/print_on.gif');
-ImgPreload('back1', '/images/back_off.gif', '/images/back_on.gif');
-ImgPreload('print1', '/images/print_off.gif', '/images/print_on.gif');
-
-
-ImgPreload('about', "/images/common/about_ub_off.gif", "/images/common/about_ub_on.gif"	);
-ImgPreload('contact', "/images/common/contact_us_off.gif", "/images/common/contact_us_on.gif"	);
-ImgPreload('locate', "/images/common/locate_us_off.gif", "/images/common/locate_us_on.gif"	);
-ImgPreload('privacy', "/images/common/privacy_security_off.gif", "/images/common/privacy_security_on.gif"	);
-ImgPreload('acces',	"/images/common/accessibility_off.gif", "/images/common/accessibility_on.gif"	);
-ImgPreload('sitemap', "/images/common/site_map_off.gif", "/images/common/site_map_on.gif"	);
-
-ImgPreload('signon1', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
-ImgPreload('signon2', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
-ImgPreload('signon3', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
-ImgPreload('signon4', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
-ImgPreload('signon5', "/images/account_access/sign_on_off.gif", "/images/account_access/sign_on_on.gif"	);
-ImgPreload('signon6', "/images/account_access/onlbnk_signon_off.gif", "/images/account_access/onlbnk_signon_on.gif"	);
-ImgPreload('signon7', "/images/account_access/onlinv_signon_off.gif", "/images/account_access/onlinv_signon_on.gif"	);
-ImgPreload('signon8', "/images/account_access/selben_signon_off.gif", "/images/account_access/selben_signon_on.gif"	);
-ImgPreload('signon9', "/images/account_access/ddw_signon_off.gif", "/images/account_access/ddw_signon_on.gif"	);
-ImgPreload('signon10', "/images/account_access/online_bank&invest_off.gif", "/images/account_access/online_bank&invest_on.gif"	);
-ImgPreload('signon11', "/images/account_access/obc_signon_off.gif", "/images/account_access/obc_signon_on.gif"	);
-ImgPreload('signon12', "/images/account_access/instx_signon_off.gif", "/images/account_access/instx_signon_on.gif"	);
-ImgPreload('signon13', "/images/account_access/lockbx_signon_off.gif", "/images/account_access/lockbx_signon_on.gif"	);
-ImgPreload('signon14', "/images/account_access/order_signon_off.gif", "/images/account_access/order_signon_on.gif"	);
-ImgPreload('signon15', "/images/account_access/selben_signon_off.gif", "/images/account_access/selben_signon_on.gif"	);
-ImgPreload('signon16', "/images/account_access/401k_signon_off.gif", "/images/account_access/401k_signon_on.gif"	);
-ImgPreload('signon17', "/images/account_access/ddw_signon_off.gif", "/images/account_access/ddw_signon_on.gif"	);
-
-ImgPreload('learnmore1', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
-ImgPreload('learnmore2', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
-ImgPreload('learnmore3', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
-ImgPreload('learnmore4', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
-ImgPreload('learnmore5', "/images/account_access/learn_more_off.gif", "/images/account_access/learn_more_on.gif");
-ImgPreload('learnmore6', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore7', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore8', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore9', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore10', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore11', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore12', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore13', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore14', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-ImgPreload('learnmore15', "/images/account_access/lrnmore_off.gif", "/images/account_access/lrnmore_on.gif");
-
-ImgPreload('personal', "/images/common/personal_off.gif", "/images/common/personal_on.gif"	);
-ImgPreload('wealth', "/images/common/wealth_management_off.gif", "/images/common/wealth_management_on.gif"	);
-ImgPreload('business', "/images/common/small_business_off.gif", "/images/common/small_business_on.gif"	);
-ImgPreload('commercial', "/images/common/commercial_off.gif", "/images/common/commercial_on.gif");
-ImgPreload('calculate', "/images/calculate.gif", "/images/calculate_on.gif");
-
-ImgPreload('recalc', "/images/recalc.gif", "/images/recalc_on.gif");
-ImgPreload('report', "/images/view_report.gif", "/images/view_report_on.gif");
-
-ImgPreload('genPersonal', "/images/search/gen_personal_off.gif", "/images/search/gen_personal_on.gif");
-ImgPreload('genWealth', "/images/search/gen_wealth_managemnt_off.gif", "/images/search/gen_wealth_managemnt_on.gif");
-ImgPreload('genBusiness', "/images/search/gen_small_business_off.gif", "/images/search/gen_small_business_on.gif");
-ImgPreload('genCommercial', "/images/search/gen_commercial_off.gif", "/images/search/gen_commercial_on.gif");
-ImgPreload('genCommercial', "/images/home/home_search_go_on.gif", "/images/home/home_search_go_on.gif");
-
-ImgPreload('search1', "/images/home/home_search_go_off.gif", "/images/home/home_search_go_on.gif"	);
-ImgPreload('search2', "/images/home/home_search_go_off.gif", "/images/home/home_search_go_on.gif"	);
-ImgPreload('search3', "/images/home/home_search_go_off.gif", "/images/home/home_search_go_on.gif"	);
-
-ImgPreload('backtoindex1', "/images/common/backto_index_off.gif", "/images/common/backto_index_on.gif"	);
-ImgPreload('email1', "/images/common/mailto_colleague_off.gif", "/images/common/mailto_colleague_on.gif"	);
-ImgPreload('printable1', "/images/common/printable_version_off.gif", "/images/common/printable_version_off.gif" );
-ImgPreload('backtoindex2', "/images/common/backto_index_off.gif", "/images/common/backto_index_on.gif"	);
-ImgPreload('email2', "/images/common/mailto_colleague_off.gif", "/images/common/mailto_colleague_on.gif"	);
-ImgPreload('printable2', "/images/common/printable_version_off.gif", "/images/common/printable_version_off.gif" );
-
-ImgPreload('submit', "/images/submit_off.gif", "/images/submit_on.gif" );
-ImgPreload('submit1', "/images/submit_off.gif", "/images/submit_on.gif" );
-
-//-- Check for valid number by filtering out none number or decimal
-function valid_number(string) {
-var sTmp = "";
-var sValid = "0123456789.";
-
-for (var i=0; i< string.length; i++) {
- if (sValid.indexOf(string.charAt(i)) != -1 )  
- 	sTmp += string.charAt(i);
-	}
-return(sTmp)
-}
-//-- Check for neg number, if it's a neg number, do not remove - from number
-function check_neg(string){
-	var neg_number;
-	if (string.charAt(0)=="-") 
-	{
-		var tNum = valid_number(string);
-		neg_number = "-" + tNum;
-		return neg_number;
-	}
-	else return valid_number(string);
-}
-
-function currency(pNum) {
-  //-- Returns passed number as string in $xxx,xxx.xx format.
-	var tRtnValue = "";
-	if (pNum != "") {
-		var n = pNum.toString().replace(/\$|\,/g,'');
-		if (isNaN(n)) {n = "0";}
-		var tSign = (n == (n = Math.abs(n)));
-		n = Math.floor(n * 100 + 0.50000000001);
-		var tCents = n % 100;
-		if (tCents < 10) {tCents = "0" + tCents;}
-		n = Math.floor(n / 100).toString();
-		for (var i = 0; i < Math.floor((n.length - (1 + i)) / 3); i++) {
-			n = n.substring(0, n.length - (4 * i + 3)) + ',' + n.substring(n.length - (4 * i + 3));
-		}
-		tRtnValue = (((tSign)?'':'-') + '$' + n + '.' + tCents);
-	}
-	return tRtnValue;
-}
-
-function round_digits(amount, digits) {
-	//rounding the decimal to the nearest digits passed.
-	//digits passed needs to be in the tenth,etc. eg.  10,100,1000...
-    if(!Number(amount))
-    {
-	amount= 0;
-    }
-	amount*=digits;  //rounding to the nearest which ever digits that was pass.
-	amount=Math.round(amount);
-	amount/=digits;
-	return amount;
-}
-
-	// Date Validation method
-	function validateDate(dateStr) {
-		// Checks for the date formats: DD/MM/YYYY
-		// alert("Inside date validation");
-		var year = "";
-		msg = new String("valid");
-
-		// regexp to verify there are no letters in the field
-		var datePat = /\[a-z\]+/i;  
-		// string day, month, year;
-		if (dateStr != "") {
-			if (datePat.test(dateStr)) {
-				msg = "Date cannot contain any letters.";
-				return msg;
-			}
-	
-			slash = 0;
-			tempStr = dateStr;
-			if (tempStr.indexOf("/") != -1) {
-	  			slash ++;
-		  		day = tempStr.substring(0,tempStr.indexOf("/"));
-		  		tempStr = tempStr.substring(tempStr.indexOf("/")+1);
-			}
-	
-			if (tempStr.indexOf("/") != -1) {
-		  		slash ++;
-	  			month = tempStr.substring(0,tempStr.indexOf("/"));
-	  			year = tempStr.substring(tempStr.indexOf("/")+1);
-		  		tempStr = tempStr.substring(tempStr.indexOf("/")+1);
-			}
-	
-			if (tempStr.indexOf("/") != -1) {
-	  			slash ++;
-			}
-	
-			if (slash != 2 ) {
-	  			msg = "Date is not in a valid format.";
-	  			return msg;
-			}
-	
-			if (month < 1 || month > 12) { // check month range
-		  		msg = "Month must be between 1 and 12.";
-	  			return msg;
-			}
-		
-			if (day < 1 || day > 31) {
-		  		msg = "Day must be between 1 and 31.";
-	  			return msg;
-			}
-	
-			if ((month==4 || month==6 || month==9 || month==11) && day==31) {
-	  			msg = "Month "+month+"does not have 31 days";
-	  			return msg;
-			}
-	
-			if (month == 2) { // check for february 29th
-	  			var isleap = (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0));
-	  			if (day>29 || (day==29 && !isleap)) {
-		    		msg = "February " + year + " does not have  " + day + " days";
-		    		return msg;
-	  			}
-			}
-	
-			if (year.length != 4) {
-				msg = "Year must be 4 characters ";
-				return msg;
-			} 
-		}	
-	
-		return msg;  // date is valid
-	}
-	
-	function adv_search_submit() {
-		var errorFlag = "no";
-		var categoryList = "";
-		var categoryCount = 0;
-		if(document.AdvSearchFrm.fpQuery.value == "") {
-			alert("Please enter the search text");
-			errorFlag = "yes" ;
-		}	
-			
-			if(document.AdvSearchFrm.segment1.checked) {
-				categoryList = categoryList + "Personal";
-				categoryCount = categoryCount + 1;
-			}
-				
-			if(document.AdvSearchFrm.segment2.checked) {
-				if (categoryCount >= 1) {
-					categoryList = categoryList + "~";
-				}
-				categoryList = categoryList + "Wealth Management";
-				categoryCount = categoryCount + 1;
-			}
-
-			if(document.AdvSearchFrm.segment3.checked) {
-				if (categoryCount >= 1) {
-					categoryList = categoryList + "~";
-				}
-				categoryList = categoryList + "Small Business";
-				categoryCount = categoryCount + 1;
-			}
-
-
-			if(document.AdvSearchFrm.segment4.checked) {
-				if (categoryCount >= 1) {
-					categoryList = categoryList + "~";
-				}
-				categoryList = categoryList + "Commercial";
-				categoryCount = categoryCount + 1;
-			}
-
-			if(document.AdvSearchFrm.segment5.checked) {
-				if (categoryCount >= 1) {
-					categoryList = categoryList + "~";
-				}
-				categoryList = categoryList + "About Union Bank";
-				categoryCount = categoryCount + 1;
-			}
-
-		if (errorFlag == "no") {
-			if (categoryCount > 4) {
-				document.AdvSearchFrm.searchCategory.value="Site";
-			}
-			else {
-				document.AdvSearchFrm.searchCategory.value=categoryList;
-			}
-			return true;
-		}
-	}
-</script>	
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="personal" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:tridion="http://www.tridion.com/ContentManager/5.0" style="background-image: url(&quot;/ubimages/ub-personal-bg-1.jpg&quot;);"><head>
+    <title>Privacy Policy | Personal Banking | Union Bank</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Language" content="en-us">
+    <meta name="title" content="Privacy Policy | Personal Banking | Union Bank">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <noscript> 
+       <meta http-equiv="Refresh" content="0; URL=/global/javascript-error.jsp" /> 
+    </noscript>
+    <link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/layout.css">
+    <link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/non-lob-pages.css">
+    <link rel="stylesheet" type="text/css" media="print" href="/ubincludes/css/layout-print.css">
+    
+    <link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/personal.css">
+    
+    <!--[if lt IE 7]>
+    <link rel="stylesheet" type="text/css" media="all" href="/ubincludes/css/layout-ie6.css" />
+    <![endif]-->
+    <script type="text/javascript" src="/ubincludes/js/jquery-libs.js"></script>
+    <script type="text/javascript" src="/ubincludes/js/ub.pages.js"></script>
+    <script type="text/javascript">
+        var tridionPageId = "tcm:9-43495-64";
+        ub.pages.Factory.create( "ProductDetails" );
+    </script>
 </head>
-<body style="margin-top:0; margin-left:0">
-<a name="top">
-<form action="/search/search_clear/0,3433,2485_2873,00.html" method="post" name="SearchFrm">
-<table cellpadding="0" cellspacing="0" border="0" width="780">
-	<tbody>
-		<tr>
-			<td valign="top" rowspan="2" width="61" height="61" class="borderrightbottom"><a href="http://www.uboc.com/uboc/home/0,,2485,00.html"><img height="61" width="61" src="/images/common/uboc_logo.gif" border="0" alt="Union Bank of California"></a></td>
-	        <td valign="top" colspan="5" width="532" height="30" class="borderrightbottom" bgcolor="#5D81B3">
-				
-<table cellpadding="0" cellspacing="0" border="0" width="100%" height="100%">
-	<tbody><tr><td valign="top" align="right" class="secondnavrightborder">
-		
-				<a class="secondnavon" href="http://www.uboc.com/about/main/0,,2485_2647,00.html">About Union Bank</a>
-		
-		&nbsp;<font class="secondnavbar">|</font>&nbsp;
-		<font class="secondnavwhite"><a class="secondaryglobalnav" href="https://www.uboc.com/about/main/0,,2485_10619,00.html?fpSourcePageId=2873">Contact Us</a></font>
-		&nbsp;<font class="secondnavbar">|</font>&nbsp;
-		
-			<font class="secondnavwhite"><a class="secondaryglobalnav" href="http://www.uboc.com/about/main/0,,2485_2865,00.html">Locate Us</a></font>
-		
-		&nbsp;<font class="secondnavbar">|</font>&nbsp;
-		
-			<font class="topnavon">Privacy &amp; Security</font>
-		
-		&nbsp;<font class="secondnavbar">|</font>&nbsp;
-		
-		<font class="secondnavwhite"><a class="secondaryglobalnav" href="http://www.uboc.com/about/main/0,,2485_2877,00.html">Accessibility</a></font>
-		
-		&nbsp;<font class="secondnavbar">|</font>&nbsp;
-		
-			<font class="secondnavwhite"><a class="secondaryglobalnav" href="http://www.uboc.com/sitemap/main/0,,2485,00.html">Sitemap</a></font></td></tr>
-		
+<body>
+    <!-- header -->
+    
 
-</tbody></table>			
-			</td>
-			<td valign="top" rowspan="2" width="185"><table border="0" height="61" bgcolor="#3F597B" cellpadding="0" cellspacing="0" width="185">
-<tbody><tr>
-      <td rowspan="2" valign="top"><img src="/images/common/search.gif" border="0" alt="Search"></td>
-      <td valign="top" colspan="2" class="searchBoxToppadding"><select class="searchBoxSELECT" name="searchCategory" size="1"><option value="Site">Entire Site</option><option value="Personal"> Personal </option><option value="Wealth Management"> Wealth Management </option><option value="Small Business"> Small Business </option><option value="Commercial"> Commercial </option><option value="About Union Bank"> About Union Bank </option></select></td>
-      <td valign="top" rowspan="2" width="5"></td>
-    </tr>
-    <tr>
-      <td valign="top" class="searchBoxTopBottompadding"><input type="hidden" name="fpNumber" value="3"><input type="hidden" name="whichserachpage" value=""><input type="hidden" name="fpType" value="exact"><input class="searchBoxINPUT" type="text" name="fpQuery" size="9"></td>
-	  <td valign="top" class="searchBoxTopBottomImagepadding"><a href="javascript:search_submit();" onmouseover="ImgSwap('search1','/images/home/home_search_go_on.gif')" onmouseout="ImgSwap('search1','/images/home/home_search_go_off.gif')"><img src="/images/home/home_search_go_off.gif" name="search1" border="0" alt="Search"></a></td>
-    </tr>
-</tbody></table></td>
-		</tr>
-		<tr>
-	      <td valign="top" rowspan="2" width="117" class="borderrightbottom" height="84"><img valign="top" src="/images/about/about_photo_02.jpg" alt="Photo"></td>
-			<td height="30" width="72" valign="top" class="borderrightwhite"><a href="http://www.uboc.com/personal/main/0,,2485_2547,00.html" onmouseover="ImgSwap('personal','/images/common/personal_on.gif')" onmouseout="ImgSwap('personal','/images/common/personal_off.gif')"><img src="/images/common/personal_off.gif" name="personal" border="0" alt="Personal"></a></td><td height="30" width="140" valign="top" class="borderrightwhite"><a href="http://www.uboc.com/wealth/main/0,,2485_2701,00.html" onmouseover="ImgSwap('wealth','/images/common/wealth_management_on.gif')" onmouseout="ImgSwap('wealth','/images/common/wealth_management_off.gif')"><img src="/images/common/wealth_management_off.gif" name="wealth" border="0" alt="Wealth Management"></a></td><td height="30" width="109" valign="top" class="borderrightwhite"><a href="http://www.uboc.com/business/main/0,,2485_3012,00.html" onmouseover="ImgSwap('business','/images/common/small_business_on.gif')" onmouseout="ImgSwap('business','/images/common/small_business_off.gif')"><img src="/images/common/small_business_off.gif" name="business" border="0" alt="Small Business"></a></td><td height="30" width="90" valign="top" class="borderrightwhite"><a href="http://www.uboc.com/commercial/main/0,,2485_4082,00.html" onmouseover="ImgSwap('commercial','/images/common/commercial_on.gif')" onmouseout="ImgSwap('commercial','/images/common/commercial_off.gif')"><img src="/images/common/commercial_off.gif" name="commercial" border="0" alt="Commercial"></a></td>
-        </tr>
-		<!-- get the title-->
-		<tr>
-		   <td valign="top" class="borderrightbottom"><script> if (navigator.appName == "Netscape") {document.write("<img src='/images/about/about_photo_01.jpg' alt='Photo' width='61' height='54'>");} else {document.write('<img src="/images/about/about_photo_01.jpg" alt="Photo" width="61" height="53">');}</script><img src="/images/about/about_photo_01.jpg" alt="Photo" width="61" height="54"></td>
-		
-			<td colspan="4" valign="bottom" height="54" class="leftpaddingrightgrey">
-				<table cellpadding="0" cellspacing="0" border="0" width="384">
-				<tbody><tr>
-				  
-					  <td valign="bottom" class="bodytop4padding"><font class="bodytitle" color="#54542A">Privacy &amp; Security</font></td>
-				  
-				</tr>
-		     </tbody></table>
- 			</td>
-		
-			<!--begin the right Nav 1-->
-				
-						<td>
-						
-							<a href="http://www.uboc.com/about/main/0,,2485_2847,00.html"><img src="/images/about/investor_news.gif" border="0" alt="Investor News"></a></td>
-				
-					 
-    	 </tr>
-				
-				
-		<tr>
-      		<!--begin the left Nav-->
-			
-			<td colspan="2" valign="top" bgcolor="#F0F0D6" class="borderrightbottom"> 
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><script language="JavaScript">
-ImgPreload('smallArrow0','/images/common/nav_arrow_sm.gif','/images/common/nav_red_arrow_sm.gif');ImgPreload('bigArrow1','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow27','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow50','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow63','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');ImgPreload('bigArrow64','/images/common/nav_arrow.gif','/images/common/nav_red_arrow.gif');
+<!-- Start Header -->
+<div class="header-wrapper"><div class="header-bg">
+<div class="header-container">
+    
+    <a href="https://web.archive.org/personal-banking/index.jsp" class="logo"><span class="hidden">Union Bank</span></a>
+        
+    
+                <div class="sign-on">
+            <a href="#Single-Sign-On" class="sign-on-toggle"><span class="hidden">SIGN ON</span></a>
+            <form class="sign-on-form" id="sign-on-form" action="https://sso.unionbank.com/unp/SSOLoginServlet" method="post">
+                <div class="clearfix">
+                    <input type="text" name="userId" class="sign-on-user-id default-text default-text-active" title="User Id" autocomplete="off">
+                    <button type="submit" class="sign-on-submit">Sign On</button>
+                </div>
+                <a href="/global/help/user-id-password-help.jsp" class="sign-on-help">User ID / Password Help &gt;</a>
+                <a href="https://www.mystreetscape.com/my/ubis" class="sign-on-investing">Sign on to Online Investing &gt;</a>
+            </form>
+        </div>
+        <script language="javascript" type="text/javascript" src="/ubincludes/js/ub.itg.js"></script>
+        <script language="javascript" type="text/javascript">
+            dom.query(function($) {
+                ub.itg.goSSO.init("form.sign-on-form", "https://sso.unionbank.com/unp/SSOLoginServlet");                
+            });
+        </script>    
+    
+    <ul class="top-nav">
+            <li id="nav-personal" class="top-nav-item first current"><a href="/personal-banking/index.jsp" class="top-nav-item-face">Personal</a></li>
+            <li id="nav-small-business" class="top-nav-item">      <a href="/small-business/index.jsp" class="top-nav-item-face">Small Business</a></li>
+            <li id="nav-commercial-institutional" class="top-nav-item">      <a href="/commercial-bank/index.jsp" class="top-nav-item-face">Commercial &amp; Institutional</a></li>
+            <li id="nav-the-private-bank" class="top-nav-item last"> <a href="/private-bank/index.jsp" class="top-nav-item-face">The Private Bank</a></li>
+    </ul>
+    <script type="text/javascript">ub.utils.initTopNavCurrent()</script>
+
+    
+            <form class="top-search" action="?" method="get">
+        <input type="hidden" name="output" value="xml_no_dtd">
+        <input type="hidden" name="ie" value="UTF-8">
+        <input type="hidden" name="oe" value="UTF-8">
+        <input type="hidden" name="client" value="ub2_frontend">
+        <input type="hidden" name="proxystylesheet" value="ub2_frontend">
+        <input type="hidden" name="site" value="ub2_collection">
+        <input type="hidden" name="ubtopmenu" value="personal">
+        <input type="hidden" name="ubbkimage" value="url(&quot;/ubimages/ub-personal-bg-1.jpg&quot;)">
+        <div class="clearfix">
+            <input type="text" name="q" class="top-search-text default-text default-text-active" title="Search">
+            <button type="submit" class="top-search-submit"></button>
+        </div>
+    </form>
+    <script language="javascript">
+        dom.query(function($) {
+            $("input[name=ubtopmenu]").val($("html").attr("id"));
+            $("input[name=ubbkimage]").val($("html").css("background-image"));
+            $("form.top-search").submit(function() {
+                var url = "http://search.unionbank.com/search",
+                    parms = $(this).serialize();
+                window.location.href = url + "?" + parms;
+                return false;
+            });
+        });
+    </script>    
+
+
+    <div class="navigation-wrapper">
+        <ul id="sub-personal" class="sub-nav">
+<li class="sub-nav-item first">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Checking &amp; Savings</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/personal-banking/checking-savings/checking/index.jsp"> Checking</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/checking-savings/savings/index.jsp"> Savings</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/checking-savings/debit-cards/index.jsp"> Debit Cards</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Loans &amp; Lines of Credit</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/personal-banking/loans-lines-credit/home-loans/index.jsp"> Home Loans</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/loans-lines-credit/home-equity/index.jsp"> Home Equity</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/loans-lines-credit/personal-line-of-credit/index.jsp"> Personal Line of Credit</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/loans-lines-credit/credit-cards/index.jsp"> Credit Cards</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Investments &amp; Retirement</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/personal-banking/investments-retirement/brokerage-investments/index.jsp"> Brokerage &amp; Investments</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/investments-retirement/retirement/index.jsp"> Retirement</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/investments-retirement/insurance/index.jsp"> Insurance</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Online Banking</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/personal-banking/online-banking/olb/index.jsp"> Online Banking</a></li>
+<li class="sub-nav-flyout-link"><a href="/personal-banking/online-banking/mobile-banking/index.jsp"> Mobile Banking</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+</ul>
+<ul id="sub-small-business" class="sub-nav">
+<li class="sub-nav-item first">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Checking &amp; Savings</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/small-business/checking-savings/checking/index.jsp"> Checking</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/checking-savings/savings/index.jsp"> Savings</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/checking-savings/debit-atm-cards/index.jsp"> Debit and ATM Cards</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/checking-savings/bank-securely/index.jsp"> Bank Securely</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Loans &amp; Lines of Credit</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/loans-lines-credit/index.jsp"> Loans &amp; Lines of Credit</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/credit-cards/index.jsp"> Credit Cards</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/equipment-leasing/index.jsp"> Equipment Leasing</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/loans-lines-credit/diversity-lending/index.jsp"> Diversity Lending</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Business Services</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/small-business/business-services/deposit-solutions/index.jsp"> Deposit Solutions</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/business-services/payment-solutions/index.jsp"> Payment Solutions</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/business-services/merchant-services/index.jsp"> Merchant Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/business-services/international/index.jsp"> International</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/business-services/employee-benefits/index.jsp"> Employee Benefits</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Online Banking</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/small-business/online-banking/online-banking/index.jsp"> Online Banking</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/online-banking/mobile-banking/index.jsp"> Mobile Banking</a></li>
+<li class="sub-nav-flyout-link"><a href="/small-business/online-banking/payment-solutions/index.jsp"> Online Payment Solutions</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+</ul>
+<ul id="sub-commercial-institutional" class="sub-nav">
+<li class="sub-nav-item first">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Global Treasury Management</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/treasury-management/account-information-management/index.jsp"> Account Information &amp; Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/treasury-management/depository-services/index.jsp"> Depository Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/treasury-management/global-treasury-services/index.jsp"> Global Treasury Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/treasury-management/payables-services/index.jsp"> Payables Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/treasury-management/receivables-services/index.jsp"> Receivables Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/treasury-management/fraud-prevention-services/index.jsp"> Fraud Prevention Services</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Credit</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/loans-lines-credit/index.jsp"> Loans and Lines of Credit</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/global-financing/index.jsp"> Global Financing</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/asset-based-financing/index.jsp"> Asset-based Financing</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/equipment-leasing-finance/index.jsp"> Equipment Leasing and Finance</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/specialized-financing/index.jsp"> Specialized Financing</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/trade-finance/index.jsp"> Trade Finance</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/real-estate-financing/index.jsp"> Real Estate Financing</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/credit/capital-markets-products/index.jsp"> Capital Markets Products</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Trust &amp; Custody</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/trust-custody/corporate-trust-escrow-services/index.jsp"> Corporate Trust &amp; Escrow Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/trust-custody/institutional-trust-custody-services/index.jsp"> Institutional Trust &amp; Custody Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/trust-custody/labor-management-trust/index.jsp"> Labor Management Trust</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/trust-custody/retirement-plan-services/index.jsp"> Retirement Plan Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/trust-custody/online-trust-custody/index.jsp"> Online Trust &amp; Custody</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Investment Management</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/investment-management/highmark-capital-management/index.jsp"> HighMark Capital Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/investment-management/highmark-funds/index.jsp"> HighMark Funds</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/investment-management/institutional-brokerage-services/index.jsp"> Institutional Brokerage Services</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Capital Markets</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/capital-markets/capital-markets-products/index.jsp"> Capital Markets Products</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/capital-markets/foreign-exchange/index.jsp"> Foreign Exchange</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/capital-markets/market-risk-management/index.jsp"> Market Risk Management</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Global Solutions</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/global-solutions/strong-global-partner/index.jsp"> Strong Global Partner</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/global-solutions/global-advisory-capital-markets-services/index.jsp"> Global Advisory and Capital Markets Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/global-solutions/global-financing/index.jsp"> Global Financing</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/global-solutions/foreign-exchange/index.jsp"> Foreign Exchange</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/global-solutions/global-trade-services-finance/index.jsp"> Global Trade Services and Finance</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/global-solutions/global-treasury-services/index.jsp"> Global Treasury Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/commercial-bank/global-solutions/liquidity-management/index.jsp"> Liquidity Management</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+</ul>
+<ul id="sub-the-private-bank" class="sub-nav">
+<li class="sub-nav-item first">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> The Private Bank</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/welcome/index.jsp"> Welcome to The Private Bank</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/individuals-families/index.jsp"> Individuals &amp; Families</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/business-owners/index.jsp"> Business Owners</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/corporate-executives/index.jsp"> Corporate Executives</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/law-firms/index.jsp"> Law Firms</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/medical-practices/index.jsp"> Medical Practices</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/cpa-firms/index.jsp"> CPA Firms</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/private-bank/non-profit-organizations/index.jsp"> Non-Profit Organizations</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Wealth Planning</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/private-bank/wealth-planning/overview/index.jsp"> Wealth Planning -- Overview</a></li>
+</ul>
+
+
+
+
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Loans &amp; Deposits</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/overview/index.jsp"> Loans &amp; Deposits -- Overview</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/lending-services/index.jsp"> Lending Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/jumbo-mortgages/index.jsp"> Jumbo Mortgages</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/deposit-liquidity-management/index.jsp"> Deposit &amp; Liquidity Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/treasury-management/index.jsp"> Treasury Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/loans-deposits/foreign-exchange/index.jsp"> Foreign Exchange</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Trust &amp; Estate Services</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/overview/index.jsp"> Trust &amp; Estate Services -- Overview</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/trust-administration/index.jsp"> Trust Administration</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/estate-settlement/index.jsp"> Estate Settlement</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/philanthropic-services/index.jsp"> Philanthropic Services</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/real-estate-management/index.jsp"> Real Estate Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/oil-gas-mineral/index.jsp"> Oil, Gas, and Mineral Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/closely-held-businesses/index.jsp"> Closely Held Businesses</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/trust-estate/loan-management/index.jsp"> Loan Management</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Risk Management</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/private-bank/risk-management/overview/index.jsp"> Risk Management -- Overview</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/risk-management/insurance/index.jsp"> Insurance</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/risk-management/market-linked-cds/index.jsp"> Market-Linked CDs</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/risk-management/interest-rate/index.jsp"> Interest Rate Risk Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/risk-management/foreign-exchange/index.jsp"> Foreign Exchange Risk Management</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+<li class="sub-nav-item">
+<div class="sub-nav-item-face shadow-box">
+<a href="#"> Investments</a>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<div class="sub-nav-flyout">
+<div class="sub-nav-flyout-panel shadow-box">
+<ul class="sub-nav-flyout-links">
+<li class="sub-nav-flyout-link"><a href="/private-bank/investments/overview/index.jsp"> Investments -- Overview</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/investments/investment-management/index.jsp"> Investment Management</a></li>
+<li class="sub-nav-flyout-link"><a href="/private-bank/investments/brokerage-insurance/index.jsp"> Brokerage &amp; Insurance</a></li>
+</ul>
+<div class="clear"></div>
+<div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+</div>
+</li>
+</ul>
+
+        <ul class="global-navigation sub-nav">
+	<li class="sub-nav-item first">
+		<div class="sub-nav-item-face shadow-box"><a href="/global/about/index.jsp">A<span class="ultra-hack-letters-browser" style="padding-left: 1px;"></span>bout Union Bank</a><div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+	</li>
+	<li class="sub-nav-item">
+		<div class="sub-nav-item-face shadow-box"><a href="/global/contactus/index.jsp">Contact Us</a><div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+	</li>
+	<li class="sub-nav-item">
+		<div class="sub-nav-item-face shadow-box"><a href="#Branch-Locator">Find Locations</a><div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+		<form class="home-find-location sub-nav-flyout" name="find-a-branch-flyout" action="javascript:ub.itg.goBLW('form[name=find-a-branch-flyout]', 'http://blw.unionbank.com');" method="get">
+			<input type="text" name="find-a-branch" id="home-find-location-text" class="home-find-location-text default-text default-text-active" title="Zip or City, State"> 
+			<button type="submit" class="home-find-location-go">Go</button>
+			<div class="find-flyout">
+				<a href="#" class="find-flyout-trigger">More Options &gt;</a>
+				<div class="find-flyout-panel">                                
+					<ul>
+						<li><label><input type="checkbox" value="sl-branch" checked="checked">Branches</label></li>
+						<li><label><input type="checkbox" value="sl-allatm">ATMs</label></li>
+						<li><label><input type="checkbox" value="sl-pribnk">Priority Banking Offices</label></li>
+						<li><label><input type="checkbox" value="sl-cshsve">Cash &amp; Save</label></li>
+						<li><label><input type="checkbox" value="sl-prvbnk">The Private Bank</label></li>
+						<li><label><input type="checkbox" value="sl-invctr">Investment Centers</label></li>
+						<li><label><input type="checkbox" value="sl-fcxchg">Foreign Currency Exchange</label></li>
+					</ul>
+				</div>
+			</div>
+		</form>
+		<div class="clear"></div>
+	</li>
+	<li class="sub-nav-item last">
+		<div class="sub-nav-item-face shadow-box"><a href="/global/help/index.jsp">Help</a><div class="shadow-element shadow-box-n "></div><div class="shadow-element shadow-box-ne"></div><div class="shadow-element shadow-box-nw"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+	</li>
+</ul>
+<script type="text/javascript">ub.utils.initGlobalNavigation();</script>         <div class="clear"></div>
+    </div>
+        
+    
+
+</div>
+</div></div>
+<!-- End Header -->
+    <!-- /header -->
+    <div class="content">
+        <div class="top-actions-container content-panel">
+            <p class="left breadcrumb">
+                <a href="/personal-banking/index.jsp" class="breadcrumb-item">Personal</a>&nbsp;<span class="path-separator">&gt;</span>&nbsp;<a href="/personal-banking/privacy-security/index.jsp" class="breadcrumb-item">Privacy and Security</a>&nbsp;<span class="path-separator">&gt;</span>&nbsp;<a href="/personal-banking/privacy-security/privacy-policy.jsp" class="breadcrumb-item">Privacy Policy</a>&nbsp;
+            </p>
+            <p class="right">
+                <a href="#" class="action-item" id="action-print-page">Print</a> | <a href="mailto:?subject=Privacy%20Policy%20%7C%20Personal%20Banking%20%7C%20Union%20Bank&amp;body=https%3A//web.archive.org/web/20111011205125id_/https%253A//www.unionbank.com/personal-banking/privacy-security/privacy-policy.jsp" class="action-item" id="action-email-page">Email</a>
+            </p>
+            <div class="clear"></div>
+        </div>
+        
+        <div class="product-details-container content-panel without-sub-nav">
+            <div class="tabbed-content-general left" style="display: block;"><ul class="clearfix tabs"><li class="tab current" style="width: 430px;"><div class="tab-top" style="width: 420px; height: 12px;"><b style="height: 12px;"></b><i style="height: 12px;"></i></div><a href="#products-tab-item-0" class="tab-face" style="height: 12px;">Privacy Policy<em style="position:absolute; left: -9999px"> current</em></a></li><li class="tab last" style="width: 430px;"><div class="tab-top" style="width: 420px; height: 12px;"><b style="height: 12px;"></b><i style="height: 12px;"></i></div><a href="#products-tab-item-1" class="tab-face" style="height: 12px;">Online Privacy Practices</a></li></ul> 
+                <script type="text/javascript">ub.BeginComponent('.tabbed-content-general')</script>
+                
+                
+                <div id="products-tab-item-0" class="tab-panel" style="display: block; height: 1%;">
+                         <span class="disclaimer-group-ref">tcm:9-42128</span>
+                         
+                           
+                         
+                         
+                               
+
+
+
+     <div class="text">
+          <h2 class="body-header-large">Privacy Policy</h2>
+Effective January 1, 2011&nbsp;
+<br>
+&nbsp;
+<br>
+At Union Bank, N.A., and our affiliates and subsidiaries, our number one priority is our relationship with you. We value the faith you have shown in entrusting us with your financial affairs, and we are committed to protecting any personal information we maintain about you. Establishing an effective Privacy Policy, designed to protect your information and provide you with choices on how you would like your information managed, is an important part of our relationship with you.
+<br><br>
+Our <a href="/Images/privacy_policy-federal_insert_a_web_120810.pdf" title="privacy_policy-federal_insert_a_web_120810.pdf" xmlns:tridion="http://www.tridion.com/ContentManager/5.0" onclick="cmCreatePageElementTag('/privacy_policy-federal_insert_a_:'+tridionPageId,'PDF', null);">Privacy Policy</a> explains the type of information we may collect from our customers, the situations in which we may share information about them, and what they can do to limit the sharing of information. <a href="/Images/privacy_policy-federal_insert_a_web_120810.pdf" title="privacy_policy-federal_insert_a_web_120810.pdf" xmlns:tridion="http://www.tridion.com/ContentManager/5.0">Learn more</a>.
+<br><h4><br>
+Special Notice for California Residents</h4>
+Please <a href="/Images/privacy_choice_for_consumers_2011.pdf" title="privacy_choice_for_consumers_2011.pdf" xmlns:tridion="http://www.tridion.com/ContentManager/5.0" onclick="cmCreatePageElementTag('/privacy_choice_for_consumers_201:'+tridionPageId,'PDF', null);">click here to see the California Privacy Notice.</a>
+     </div>
+
+<script language="javascript1.2" type="text/javascript">
+//<![CDATA[
+try{
+dom.query(document).ready(function() {
+cmCreatePageElementTag("2_0 P_Privacy Policy - Tab 1 - Pr:" + tridionPageId, "Components", null);
+});
+}catch(e){}
+//]]>
 </script>
-<tr><td height="17" class="leftnavsectionborder" bgcolor="#A0A02D" align="right" width="5"><font class="newsDeatilSection">&nbsp;</font></td><td height="17" class="leftnavsectionborder" colspan="6" width="174" bgcolor="#A0A02D" align="left"><font class="leftnavhdrtext">Company Information</font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnavAboutborder" align="right"><img name="bigArrow1" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnavAboutborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow1','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow1','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www.uboc.com/about/main/0,,2485_3464,00.html">Career Opportunities</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow27" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow27','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow27','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www.uboc.com/about/main/0,,2485_3453,00.html">Community Reinvestment</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow50" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow50','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow50','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www.uboc.com/about/main/0,,2485_2779,00.html">Company Profile</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow63" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow63','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow63','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www.uboc.com/about/main/0,,2485_2847,00.html">Investor Relations</a></font></td></tr><tr><td valign="top" colspan="2" width="13" class="lefnav1stopenborder" align="right"><img name="bigArrow64" src="/images/common/nav_arrow.gif" border="0"></td><td valign="top" colspan="5" width="166" align="left" class="lefnav1stopenborder"><font color="#54542A" class="leftnavfirsttext"><a onmouseover="ImgSwap('bigArrow64','/images/common/nav_red_arrow.gif')" onmouseout="ImgSwap('bigArrow64','/images/common/nav_arrow.gif') " class="leftnavAbout" href="http://www.uboc.com/about/main/0,,2485_2815,00.html">Newsroom</a></font></td></tr>
-<tr class="newsDeatilSection"><td class="lefnav1stopenborder" height="0" width="5">&nbsp;</td>
-      <td class="lefnav1stopenborder" height="0" width="8">&nbsp;</td>
-      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
-      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
-      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
-      <td class="lefnav1stopenborder" height="0" width="7">&nbsp;</td>
-      <td class="lefnav1stopenborder" height="0" width="138">&nbsp;</td>
-</tr></tbody></table><!-- closed the Search Form-->
-				</td>
-				
-			<!-- begin the Body Content-->
-			<td colspan="4" valign="top" class="leftpaddingrightbodygrey">
-			
-				 
-
-	
-
-
-   
-
-
-
-
-
-
-
-
-
- 
-<!--view.jsp took 0.015-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-   
-
-<a name="top"></a>
-<table cellpadding="0" class="bodyright10padding" cellspacing="0" border="0" width="100%">
-	<tbody>
-		<tr>
-		<td width="384" valign="top" class="bodytop7padding"><font class="bodytext"></font></td>
-			<td width="15"></td>
-		</tr>
-		<tr><td width="384" valign="top" class="bodytop6padding" colspan="2">
-			<table width="100%" cellspacing="0" cellpadding="0">
-				
-			
-			<tbody><tr>
-				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
-				<td valign="top"><a href="#1. FAQ Topic" class="linktext">UnionBanCal Corporation Online Privacy Policy for Consumers</a></td>
-			</tr>
-				
-			
-			<tr>
-				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
-				<td valign="top"><a href="#2. FAQ Topic" class="linktext">Union Bank of California Web Security</a></td>
-			</tr>
-				
-			
-			<tr>
-				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
-				<td valign="top"><a href="#3. FAQ Topic" class="linktext">What you should know about Identity Theft</a></td>
-			</tr>
-				
-			
-			<tr>
-				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
-				<td valign="top"><a href="#4. FAQ Topic" class="linktext">What you should know about fraudulent emails (</a></td>
-			</tr>
-				
-			
-			<tr>
-				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
-				<td valign="top"><a href="#5. FAQ Topic" class="linktext">Fraud prevention tip: The Nigerian Advance Fee Scheme</a></td>
-			</tr>
-				
-			
-			<tr>
-				<td valign="top" width="12"><img src="/images/common/gold_arrow_dn.gif" border="0" alt="down arrow"></td>
-				<td valign="top"><a href="#6. FAQ Topic" class="linktext">Fraud prevention tip: The Canadian Lottery Scam</a></td>
-			</tr>
-			
-			  </tbody></table>		
-			</td>
-		</tr>
-		<tr>
-			<td colspan="2" class="bodytop15padding"></td>
-		</tr>
-		
-				<tr><td td="" colspan="2" class="bodytop20padding">
-					<a name="1. FAQ Topic"><div><span class="Subhead">UnionBanCal Corporation Online Privacy Policy for Consumers</span></div></a>
-					</td>
-				</tr>
-				<tr><td colspan="2" class="bodytop7padding">
-					<font class="bodytext"><p>Effective September, 2004</p>
-
-<p>Protecting consumer customer information on the Internet in the same way we protect it in all other ways we interact with you - at banking offices, via ATMs, and by telephone - is of the highest importance to us.</p>
-
-<p>The UnionBanCal Corporation family of companies is made up of a number of different companies that provide a wide range of products and services such as loans, deposits, investments and insurance.&nbsp; These companies, which share common ownership, include Union Bank of California, N. A., UBOC Investment Services, Inc., and HighMark Capital Management, Inc., among others ("we", "our", "us" or "affiliates").&nbsp; We have a long-standing policy of protecting customer information.</p>
-
-<p>Our privacy policy applies to private financial information ("non-public personal information") that has been provided to us by, or that we learned from other sources about, our customers, former customers and individuals who contact us about becoming customers ("you" or "your").&nbsp; This policy applies not only to transactions you conduct online, but also to information you provide us through written files, by telephone, and/or when you send us E-mail.&nbsp; We are providing this statement of our privacy policy to you as required by law.</p>
-
-<p>You can visit our Web site(s) without providing us with any personal information about yourself to find out about our products and services, to learn about our history and about career opportunities we have available.</p>
-
-<p>You can also visit our web security (further down this page), which outlines the details of our use of encryption technology and answers questions about our Web banking security.</p>
-
-<p><span class="Subhead">Collection and Retention of Non-Public Personal Information</span><br>
-We collect and retain information about you to identify and communicate with you, to provide you with products and services you have requested, to help us respond to your questions, and to inform you about other financial services that may be of interest to you.</p>
-
-<p class="BodyCopy">We collect the following types of non-public personal information about you from the following sources:</p>
-
-<div class="BodyCopy">
-<ul>
-<li>Information we receive about your identity, such as your name, address, social security number, and driver's license number;</li>
-
-<li>Information about your transactions with us, our affiliates, and others, such as your account balance, loan payment history, and ATM, debit and credit card usage;</li>
-
-<li>Information that we receive from you on applications and other forms, such as information about your income and assets;</li>
-
-<li>Information we receive from consumer reporting agencies, such as your credit history and creditworthiness; and</li>
-
-<li>Information we receive from marketing analysis companies for marketing purposes, such as economic and demographic data.</li>
-</ul>
-</div>
-
-<p><span class="Subhead">Disclosure of Non-Public Personal Information to Non-Affiliated Third Parties</span><br>
-We may share all of the information we collect about you, as described in the Collection and Retention of Non-Public Personal Information section above, with companies that are not our affiliates in the following circumstances:</p>
-
-<ul>
-<li>
-<div class="BodyCopy">When those companies are performing marketing services or support services on our behalf necessary to effect, administer, or enforce transactions you have requested or authorized;</div>
-</li>
-
-<li>
-<div class="BodyCopy">When we have joint marketing agreements with other financial institutions to offer financial products and services to you; and</div>
-</li>
-
-<li>
-<div class="BodyCopy">When required or permitted by applicable law.</div>
-</li>
-</ul>
-
-<p><span class="Subhead">Disclosure of Non-Public Personal Information in Other Circumstances</span><br>
-<span class="BodyCopy">We may also disclose non-public personal information about you as necessary to effect, administer, or enforce transactions that you have requested or authorized, or in connection with servicing or processing a financial product or service you have requested or authorized, or to maintain or service your accounts with us, or as otherwise described below.&nbsp; We normally disclose information:</span></p>
-
-<ul>
-<li>
-<div class="BodyCopy">When it is necessary or helpful in completing a transaction;</div>
-</li>
-
-<li>
-<div class="BodyCopy">To verify the existence and condition of your account for a third party, such as a merchant, another financial institution or a credit reporting agency;</div>
-</li>
-
-<li>
-<div class="BodyCopy">To an account verification service, in addition to a credit reporting agency, if we close your account due to unsatisfactory handling, fraud, attempted fraud or criminal activity;</div>
-</li>
-
-<li>
-<div class="BodyCopy">To comply with a law, regulation, legal process or court order which applies to us or to an affiliate;<br>
-In response to an inquiry about sufficient funds to cover a check you have written;</div>
-</li>
-
-<li>
-<div class="BodyCopy">When you authorize us to;</div>
-</li>
-
-<li>
-<div class="BodyCopy">To other companies, financial institutions and networks which may be involved in processing your transactions;</div>
-</li>
-
-<li>
-<div class="BodyCopy">To local, state or federal authorities, if we believe a crime may have been committed;</div>
-</li>
-
-<li>
-<div class="BodyCopy">To paying agencies after the death or incapacity of a recipient or beneficiary of recurring direct deposit payments;</div>
-</li>
-
-<li>
-<div class="BodyCopy">To our agents and affiliates and to third parties who perform services or functions on our behalf to facilitate the delivery of information related to your accounts or to other financial services that may be of interest to you;</div>
-</li>
-
-<li>
-<div class="BodyCopy">In response to requests by our regulatory agencies or requests by agents of UnionBanCal Corporation or its affiliated companies, such as independent auditors, consultants or attorneys.</div>
-</li>
-</ul>
-
-<p><span class="Subhead">Disclosure of Certain Information Within the UnionBanCal Corporation Family of Companies</span><br>
-The UnionBanCal Corporation family of companies work together to help you achieve your financial goals.&nbsp; We may share certain information about you among our subsidiaries and affiliated companies in order to process and service your transactions, as well as to offer you additional financial products and services that may be of interest or value to you.</p>
-
-<div class="BodyCopy">
-<p>In order to evaluate your needs and to introduce you to additional financial services, we may share among our family of companies identification information about you, such as your name, address and telephone number, as well as information about your transactions, account history or other experience with us.&nbsp; This "experience information" sharing can save you time and money and make it easier for you to do business with us.&nbsp; For example, if you have an account with one of our companies and would like to open an account with another of our companies, we may share information about your transactions and accounts.&nbsp; This may prevent you from having to furnish the same information multiple times.</p>
-
-<p>In addition, we may also share among our family of companies "non-experience information" about you.&nbsp; Non-experience information is information that is not related to our transactions or other experience with you.&nbsp; We may receive non-experience information about you from applications and other forms or from outside sources such as credit reporting agencies.</p>
-</div>
-
-<p><span class="Subhead">Limiting Certain Information Disclosed Within the UnionBanCal Corporation Family of Companies</span><br>
-Under the federal Fair Credit Reporting Act, you may advise us that you do not want us to share non-experience information, as described in the Disclosure of Certain Information Within the UnionBanCal Corporation Family of Companies section above, among our family of companies. The process of advising us that you do not want us to share non-experience information about you is called "opt-out".</p>
-
-<div class="BodyCopy">
-<p><strong>If you wish to opt-out of disclosure of non-experience information among our family of companies, please tell us either by writing to Union Bank of California, Attn: Opt-out, P. O. Box 512380, Los Angeles, CA&nbsp; 90051-2380, or calling 800-238-4486 and selecting option "0" and then option "3", or sending an E-mail through Contact Us at</strong> <a href="http://www.uboc.com/"><strong>www.uboc.com</strong></a><strong>.&nbsp; Please provide your full name and street address; account type(s), such as checking, savings, and/or home equity loan; account number(s); and telephone number on your request.&nbsp; In the event of joint account relationships, one party may opt-out on behalf of all joint accountholders.&nbsp; Please note that your request will apply only to non-experience information, and may take up to 30 days to process.&nbsp; Once your request has been processed, it will remain in effect for the life of the account(s) unless you revoke it.</strong></p>
-
-<p>Whether or not you choose to opt-out, in the normal course of conducting business, including servicing your accounts and meeting your financial needs, we will continue to share identifying information and information about your transactions and our experience with you, as well as other general information among the UnionBanCal Corporation family of companies while continuing to maintain your confidentiality.</p>
-
-<p>Even if you choose to opt-out, you will continue to receive statements, statement inserts and other account information, but you may not receive special offers from our subsidiaries and affiliated companies that could be of value to you.&nbsp; In addition, this choice does not apply to our efforts to market other financial products and services to you -- we may continue to disclose non-public personal information to non-affiliated third parties outside of our family of companies, as described in the Disclosure of Non-Public Personal Information to Non-Affiliated Third Parties section above.</p>
-
-<p><strong>Additional Rights</strong><br>
-You may have additional privacy protections under some state laws. For example, certain state laws may restrict the types of information we may disclose about you, limit the parties with whom we may share such information, or require us to provide you with additional notices or opt-out rights.&nbsp; Our policy is to comply with applicable state laws before disclosing non-public personal information about you.</p>
-</div>
-
-<p><span class="Subhead">Our Employees' Access to and Use of Customer Information</span><br>
-<span class="BodyCopy">Each of our employees has responsibility for maintaining the confidentiality of customer information.&nbsp; We require all of our employees to agree in writing to protect the confidentiality of customer information and to use it only for our business purposes.&nbsp; Our policy is to prohibit employees from accessing your personal information unless there is a business reason to do so.&nbsp; Internal access and sharing of information about you within our various service units occurs to evaluate, structure and facilitate the services you have requested or to inform you of other financial services that may be of interest to you.&nbsp; We train our employees to recognize the importance of customer confidentiality.&nbsp; Employees who violate these standards are subject to disciplinary measures.</span></p>
-
-<p><span class="Subhead">Our Security Procedures</span><br>
-<span class="BodyCopy">We also take other steps to safeguard customer information by maintaining physical, electronic, and procedural safeguards that comply with federal standards to guard your non-public personal information.&nbsp; For more information on our Web banking security, read about our web security below.</span></p>
-
-<p><span class="BodyCopy"><strong>Maintaining the Accuracy of Customer Information</strong><br>
-We have procedures in place to help us to maintain the accuracy of the personally identifiable information that we collect. Please contact us at 800-238-4486 if you believe that our information about you is incomplete, out-of-date, or incorrect.&nbsp; If you are an on-line banking customer, log on to the on-the-Web service and select the secure “Contact Us” from the Customer Service page to change your address.&nbsp; In your e-mail message, include your new address. To change your e-mail address, log on to the on-the-Web service, select “Customize”, and follow the instructions.</span></p>
-
-<p><span class="BodyCopy"><strong>Maintaining Confidentiality in Our Business Relationships with Other Companies<br>
-</strong>From time to time we contract with other businesses to perform specific services in support of our products.&nbsp; When it is necessary to provide confidential customer information to a third party, we require each business that we select to safeguard non-public personal information regarding our customers in accordance with this Privacy Policy.<br>
-</span><br>
-<span class="Subhead">Cookies</span><br>
-<span class="BodyCopy">Solely for the purpose of providing improved service, we will occasionally use a "cookie".&nbsp; A cookie is a small bit of information given to your browser by a web site, which can later be retrieved.&nbsp; A cookie is a way for a web site to recognize whether or not you have visited the site before.&nbsp; The cookie cannot be read by a web site other than the one that "set" the cookie.&nbsp; We use cookies for administrative purposes, such as online banking session management, or where you are able to customize the information you see.&nbsp; Recording cookies at such points makes your online experience easier and more personal. Most cookies last only through a single session, or visit.&nbsp; They do not read your hard drive or contain any information that you have not already explicitly revealed.&nbsp; None will contain information that will enable anyone to contact you via telephone or E-mail.&nbsp; Your web browser can be set to inform you when cookies are set or to prevent them from being set.&nbsp; However, if you elect to prevent cookies from being set, some web banking functions may not work properly.</span></p>
-
-<p><span class="Subhead">Children's Privacy</span><br>
-Our web site is directed to a general audience. We do not knowingly solicit or collect personal information from children on our site.</p>
-
-<div class="BodyCopy">
-<p>This policy applies to consumers.&nbsp; We reserve the right to make changes to this policy at any time, and will notify you if we do so.</p>
-</div></font></td>
-				</tr>
-				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
-					<a href="#top">back to top</a></font>
-					</td>
-				</tr>
-				
-					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
-				
-				<tr><td td="" colspan="2" class="bodytop20padding">
-					<a name="2. FAQ Topic"><div><span class="Subhead">Union Bank of California Web Security</span></div></a>
-					</td>
-				</tr>
-				<tr><td colspan="2" class="bodytop7padding">
-					<font class="bodytext"><p class="BodyCopy">At Union Bank of California, our team of technical security specialists work toward ensuring that all financial transactions, data transmissions and communications are completed in a secure online environment. To safeguard all financial and personal information, Union Bank:</p>
-
-<div class="BodyCopy">
-<ul>
-<li>Requires both a user ID and a password, and ensures that only the user knows his or her password<br>
-Uses encrypted pages for password log-ins</li>
-
-<li>Retains all account data in secure Bank systems</li>
-
-<li>Protects all e-mail sent to the Bank and ensures that email received by the Bank is seen only by a Union Bank employee</li>
-
-<li>Maintains high standards for employee training, instilling in each Bank professional a respect for client confidentiality</li>
-
-<li>Our systems of record protect all financial and personal information, and are anchored by state-of-the-art security features</li>
-</ul>
-</div>
-
-<p><span class="Subhead">Browser Requirements</span><br>
-To support our secure 128-bit encryption, Union Bank operates only with 4.0 or higher versions of both Netscape and Microsoft web browser software. These browsers also prevent any encrypted information from being written onto the user's hard drive, which makes it impossible for an unauthorized user to access Union Bank customer account data. The links below will enable you to download either Netscape or Microsoft's 128-bit browser:</p>
-
-<ul>
-<li><a href="http://channels.netscape.com/ns/browsers/default.jsp" extlinkid="1304896">Netscape Communicator High Security Browser Download</a>&nbsp;</li>
-
-<li><a href="http://microsoft.com/windows/ie/downloads/recommended/128bit/default.asp" extlinkid="1304912">Microsoft Explorer High Security Browser Download</a>&nbsp;</li>
-</ul>
-
-<p>Note: Netscape and Microsoft use the following terms to identify the 128-bit browser: "strong", "domestic grade", "high-security".</p>
-
-<p><span class="Subhead">Cookies</span><br>
-Union Bank does not store encrypted personal information in the form of cookies. We use cookies only to access stored passwords or to enable users to customize information. We also use cookies to scan connecting PCs for information, which helps us determine if an online session is genuine.</p>
-
-<p>At Union Bank, we are committed to maintaining the highest possible levels of data security. This dedication drives our efforts to apply the latest technology to constantly improve security; and to conduct frequent tests and updates of our systems and practices. If you have questions about our Security Policy, please contact us.</p>
-
-<p><span class="Subhead">Cryptography</span><br>
-We utilize public-key cryptography (rather than same-key cryptography) to encrypt account information sent to and from Union Bank over the Web.</p>
-
-<p><span class="Subhead">Encryption</span><br>
-We use 128-bit encryption, which is the most powerful encryption protection available for Web transactions. Strictly guarded and very difficult to export, 128-bit encryption ensures that information exchanged online can only be read by our special decoding software.</p>
-
-<p><span class="Subhead">Firewalls</span><br>
-Firewalls have been placed between users and bank servers, as well as between Bank servers and Bank systems where account data is housed. We are ICSA certified, (for details on certification criteria, see <a href="http://www.icsa.net/">www.icsa.net</a> and we employ an expert, third-party service to scan our Network regularly for potential vulnerabilities.</p></font></td>
-				</tr>
-				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
-					<a href="#top">back to top</a></font>
-					</td>
-				</tr>
-				
-					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
-				
-				<tr><td td="" colspan="2" class="bodytop20padding">
-					<a name="3. FAQ Topic"><div><span class="Subhead">What you should know about Identity Theft</span></div></a>
-					</td>
-				</tr>
-				<tr><td colspan="2" class="bodytop7padding">
-					<font class="bodytext"><p>Identity theft is when someone pretends that they are you when committing a crime. Crimes involving identity theft or impersonation are on the rise and are now the types of crimes that are most frequently reported to the Federal Trade Commission. The crime could be in person, over the telephone or Internet, or through the mail. This increasing trend is mainly attributable to technology. As technology continues to evolve, criminals are developing new ways to exploit or defraud organizations and consumers alike, including attempts to access bank accounts, brokerage accounts, and/or steal credit information or identities.<br>
-&nbsp;<br>
-Both state and federal governments continue to enact legislation to help protect consumers and Union Bank of California is diligent in its efforts to protect customers' information. In our continuing effort to safeguard your privacy, we've implemented a number of enhanced security and identification measures. These efforts include:</p>
-
-<ul>
-<li>
-<div>Requiring more identification for over-the-counter cash transactions</div>
-</li>
-
-<li>
-<div>Discontinuation of check verifications</div>
-</li>
-
-<li>
-<div>Installation of ultraviolet verification equipment in our offices to detect counterfeit id's, checks and currency</div>
-</li>
-
-<li>
-<div>Posting strategic warnings on our online banking and web sites to alert and inform our customers of recent incident's involving e-mail and online fraud schemes</div>
-</li>
-</ul>
-
-<p><span class="Subhead">How you can help prevent identity theft:</span></p>
-
-<ul>
-<li>
-<div>Report any lost or stolen cards immediately.</div>
-</li>
-
-<li>
-<div>Pay attention to billing cycles and call if you do not receive an expected bill in a timely manner. It may mean that an identity thief has diverted the bill.</div>
-</li>
-
-<li>
-<div>Place outgoing mail in post office collection boxes only. Even better, consider using&nbsp;<a href="/personal/main/0,,2485_3074,00.html" intlinkid="3074">online banking with bill payment</a>&nbsp;to send your payments. Making payments online can help prevent mail fraud while saving you time and postage.</div>
-</li>
-
-<li>
-<div>Shred all of your receipts and bank and credit card statements before disposing of them.</div>
-</li>
-
-<li>
-<div>Review your credit report from all three major credit bureaus to make sure that new credit card or other accounts have not been opened in your name. Credit bureau contact information is listed below.</div>
-</li>
-
-<li>
-<div>Make sure personal and financial information stored on your personal computers are protected with a password.</div>
-</li>
-
-<li>
-<div>&nbsp;Avoid using automatic login features that save your user name and password; and always log off when you're finished.</div>
-</li>
-
-<li>
-<div>Install and use a firewall on your personal computers, especially those connected to the Internet through high-speed DSL or cable modems. A firewall helps prevent hackers from accessing your computer.</div>
-</li>
-
-<li>
-<div>Install virus protection software on your computer and make sure it is updated on a regular basis.</div>
-</li>
-
-<li>
-<div>Don't give anyone your financial information unless you initiate the contact or are sure with whom you are dealing.</div>
-</li>
-
-<li>
-<div>Never disclose your PIN or password to anyone and always safeguard it.</div>
-</li>
-
-<li>
-<div>Don't print your Social Security number or driver's license number on your checks.</div>
-</li>
-
-<li>
-<div>Don't download files or click on hyperlinks in emails from un-trusted sources.</div>
-</li>
-</ul>
-
-<p>Watch out for "phishing" or "spoofing" e-mails that may look like they are legitimate messages, but they are not. The sender attempts to get you to reveal confidential personal information that can be used for identity theft. Union Bank will not contact you via email to ask for or to validate any of your personal information.</p>
-
-<p><span class="Subhead">What to do if you are a victim of identity theft:</span></p>
-
-<ul>
-<li>
-<div>Notify Union Bank at the phone number listed on your statement along with any other financial service providers.</div>
-</li>
-
-<li>
-<div>File a report of identity theft with your local police.</div>
-</li>
-
-<li>
-<div>Contact one of the three major credit bureaus to report the incident and ask to have a fraud alert placed on your file. Once the credit bureau confirms your fraud alert, the other two credit bureaus will be automatically notified to place fraud alerts, and all three credit reports will be sent to you free of charge. Review your credit reports and notify the bureaus about anything that looks suspicious.</div>
-</li>
-</ul>
-
-<p><br>
-<span class="Subhead">CREDIT BUREAUS<br>
-</span>Equifax -&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://www.equifax.com" extlinkid="500958523">www.equifax.com</a><br>
-To order a report, call: 800-685-1111<br>
-To report fraud, call: 800-525-6285/<br>
-TDD 800-255-0056 and write:<br>
-P.O. Box 740241, Atlanta, GA 30374-0241</p>
-
-<p>Experian -&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://experian.com" extlinkid="500958531">www.experian.com</a>&nbsp;<br>
-To order a report, call: 888-EXPERIAN (397-3742)<br>
-To report fraud, call: 888-EXPERIAN (397-3742)/<br>
-TDD 800-972-0322 and write:<br>
-P.O. Box 9532, Allen TX 75013<br>
+                </div>
+                
+                <div id="products-tab-item-1" class="tab-panel" style="display: none; height: 1%;">
+                         <span class="disclaimer-group-ref">tcm:9-42872</span>
+                         
+                         
+                           
+                         
+                               
+
+
+
+     <div class="text">
+          <h2 class="body-header-large">Online Privacy Practices</h2>
+Effective January 1, 2011&nbsp;
 <br>
-TransUnion -&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://www.transunion.com" extlinkid="500958539">www.transunion.com</a>&nbsp;<br>
-To order a report, call: 800-888-4213<br>
-To report fraud, call: 800-680-7289/<br>
-TDD 877-553-7803; fax: 714-447-6034;&nbsp;or write: Fraud Victim Assistance Department, P.O. Box 6790, Fullerton, CA 92634-6790<br>
+&nbsp;
 <br>
-For additional valuable information about identity theft we recommend you visit&nbsp;<a href="/uboc/common/uboc_exit_page/0,3679,2485_0,00.html?externalLink=http://www.consumer.gov/idtheft/index.html" extlinkid="500958555">http://www.consumer.gov/idtheft/index.html</a>&nbsp;or call 1-877-ID THEFT, the FTC's toll-free ID Theft Hotline.<br>
-</p></font></td>
-				</tr>
-				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
-					<a href="#top">back to top</a></font>
-					</td>
-				</tr>
-				
-					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
-				
-				<tr><td td="" colspan="2" class="bodytop20padding">
-					<a name="4. FAQ Topic"><div><span class="Subhead">What you should know about fraudulent emails (</span></div></a>
-					</td>
-				</tr>
-				<tr><td colspan="2" class="bodytop7padding">
-					<font class="bodytext"><ul>
-<li>"Phishing" or "Spoofing" is when unsolicited emails appear to be coming from a bank, insurance company, retailers or a regulatory agency, but they are not.</li>
-
-<li>The fraudulent emails require that the recipient "verify" certain information to prevent account suspension, cancellation, interest withholding or some other urgent matter.</li>
-
-<li>These messages look professional and authentic, and may even contain links or pop-up windows that have the appearance of legitimacy.</li>
-
-<li>These sophisticated scams will ask for ATM or Banking Card Numbers, PINs or log-on IDs and personal information such as Social Security Number, Date of Birth, or Mothers Maiden Name; all of which can be used by the criminals to perform an account takeover or even worse, commit identity theft.</li>
-</ul>
-
-<p><strong>Please be aware that Union Bank of California WILL NEVER solicit confidential information regarding you or your account(s) via email.</strong></p>
-
-<p><span class="Subhead">Other tips&nbsp;to&nbsp;avoid becoming a victim:</span></p>
-
-<ul>
-<li>Delete emails from unknown parties. Don't even open them.</li>
-
-<li>Do not provide personal information, account numbers, banking or credit card numbers, PINs or log-on IDs through email links or pop-up windows. Either call the institution, or go directly to their web site at the URL you know to be correct.</li>
-
-<li>Invest in spam filtering protection.</li>
-
-<li>NEVER give out any information unless you initiated the contact, and are sure you know with whom you are dealing.</li>
-</ul></font></td>
-				</tr>
-				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
-					<a href="#top">back to top</a></font>
-					</td>
-				</tr>
-				
-					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
-				
-				<tr><td td="" colspan="2" class="bodytop20padding">
-					<a name="5. FAQ Topic"><div><span class="Subhead">Fraud prevention tip: The Nigerian Advance Fee Scheme</span></div></a>
-					</td>
-				</tr>
-				<tr><td colspan="2" class="bodytop7padding">
-					<font class="bodytext"><p>The Nigerian Advance Fee Scam has been around for years. Despite repeat warnings, it continues to draw in many victims. Don’t be one of them.&nbsp;</p>
-
-<ul>
-<li>The scam involves the receipt of an unsolicited letter or email claiming to come from someone who works for the Nigerian Central Bank or from the Nigerian government.</li>
-
-<li>In the letter, the recipient is informed that they are seeking a reputable foreign company or individual into whose account they can deposit funds to facilitate a large transaction, and be paid a percentage of the deal for their participation. Other variations require a "deposit or bond" for a foreign individual to participate in a large construction or other financial transaction.</li>
-
-<li>The scam artist's goal is to lure the victim into thinking that he or she has been singled out to participate in a very lucrative arrangement. The intended victim is reassured of the authenticity of the arrangement by forged or false documents (appearing on Nigerian government letterhead, seals, letters of credit, and bank drafts), or even by arranging a meeting between the victim and "government officials" in real or fake government offices.</li>
-
-<li>Once the victim becomes confident of the potential success of the deal, something goes wrong and the victim is then pressured or threatened to provide one or more large sums of money to save the venture. For example, the "official" will demand an upfront bribe or unforeseen tax/fee to the Nigerian government to be paid before the money can be transferred. If the party isn’t able to send the money, they find "investors" for them. Checks are sent and deposited, instructions are provided to immediately wire the funds out, and by the time the deposited items are returned as counterfeit, stolen or altered, the "contact" disappears. If the victim has the money to send without needing the "investors," the contact stops when the advance fees have been paid.</li>
-</ul></font></td>
-				</tr>
-				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
-					<a href="#top">back to top</a></font>
-					</td>
-				</tr>
-				
-					<tr><td valign="top" width="384" class="copyborderbottom"><br></td></tr>
-				
-				<tr><td td="" colspan="2" class="bodytop20padding">
-					<a name="6. FAQ Topic"><div><span class="Subhead">Fraud prevention tip: The Canadian Lottery Scam</span></div></a>
-					</td>
-				</tr>
-				<tr><td colspan="2" class="bodytop7padding">
-					<font class="bodytext"><p>Criminals are always finding new ways to scam victims out of their savings. In this version of a lottery scam, people are being asked to respond to an unsolicited mailing or phone call telling them they are being entered into a prize drawing.</p>
-
-<ul>
-<li>Victims receive an unsolicited phone call from Canada congratulating them on winning the "big prize" in a National Lottery.</li>
-
-<li>They are told that before they can claim the prize, they must send money to pay for taxes and processing fees.</li>
-
-<li>Victims of lottery scams have lost thousands of dollars as they continue to respond to phone calls demanding payments to cover costs in order to receive their prize.</li>
-
-<li>The fact is, the prize does not exist and victims never receive any winnings in return for their cash.</li>
-
-<li>There are also many types of lottery scams that involve innocent people sending in money up front, waiting to receive the "big payoff."</li>
-</ul>
-
-<p>If you receive a telephone call from a direct marketer who promises instant lottery prizes, hang up! No lotteries in the U.S. operate this way. People who approach you with stories like this are criminals. They simply want your money and credit card numbers. They will lie to you and sound convincing. Don´t fall victim to lottery scams. Protect yourself and your money.</p></font></td>
-				</tr>
-				<tr><td colspan="2" class="faqtopbottompadding"><font class="backtotop">
-					<a href="#top">back to top</a></font>
-					</td>
-				</tr>
-				
-	</tbody>
-</table>	
-
-
-<vgneap:contentcache cachename="Content:1302847">	
-				
-				<!-- body took 0.466 Seconds-->
-				 
-
-
-
-
-
-
-
-
-
-
- 
-<!--view.jsp took 0.012-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-	
-
-
-
-<script>
-	getRateDisclaimerDisplay("No"); 
+Union Bank, N.A., and our affiliates and subsidiaries value your trust and respect your expectation of privacy. As such, we are committed to maintaining the confidentiality of your personal financial information. (<strong>To review our Privacy Policy, please click on the Privacy Policy tab.</strong>)
+<br>
+&nbsp;
+<br>
+This document outlines our privacy practices for visitors to our website, regardless of the application used to establish the link, as well as for consumers who apply for or obtain services from us, such as loans, deposits, investments, insurance, or a safe deposit box. These practices apply to our family of companies, including Union Bank, N.A., UnionBanc Investment Services LLC, and HighMark Capital Management, Inc., among others.
+<br>
+&nbsp;
+<br><strong>Visitors to Our Website.</strong> As a visitor to our website, you remain anonymous, unless you register for a service or otherwise choose to disclose your identity to us. Although we do not collect personal information that identifies people who simply visit our site, we may collect certain limited information about our visitors, such as their IP address (a numeric address assigned automatically to computers and mobile devices when they access the Internet).
+<br>
+&nbsp;
+<br><strong>Cookies.</strong> We may place "cookies" on a computer or other device type to track a visitor's use of our site. A cookie is a piece of data that is stored on your hard drive. It takes up very little room on your system and helps us to customize our site and make its navigation easier for you. You can set your web browser to inform you when cookies are placed on your computer or to prevent them from being placed. However, if you choose to prevent cookies from being placed, some of our web banking functions may not work properly on your computer or mobile device. Unless you register with us for a service (such as our online banking service), the cookies do not provide us with any personally identifying information about you, such as your name or address.
+<br>
+&nbsp;
+<br><strong>Flash Shared Objects</strong> (also known as "flash cookies"). In 2010, as part of our ongoing efforts to enhance our online security and protect your information, Union Bank began to place flash shared objects on our online banking customers' PCs. This action will assist you in conducting your online banking transactions. Please be aware that you can remove these flash shared objects. However, doing so may increase the likelihood that you will be prompted for additional forms of authentication during your online sessions.
+<br>
+&nbsp;
+<br>
+We also partner with a third-party vendor, Coremetrics, to understand more about visitors to our website. You can review the vendor's privacy policy at <a href="javascript:void(ub.pages.ShowDialog('/global/exit_page.jsp?urlParm=http%3a%2f%2fwww.coremetrics.com%2fcompany%2fprivacy.php',600,440,null))">http://www.coremetrics.com/company/privacy.php</a>.
+<br>
+&nbsp;
+<br><strong>Links to Other Websites.</strong> Our website may feature links to third-party sites that offer goods, services, or information. Some of these sites may appear as "windows within windows" at our site. When you click on one of these links, you will leave our site and will no longer be subject to Union Bank's Privacy Policy and privacy practices. We are not responsible for the information-collection practices of the other sites that you visit, and we urge you to review their privacy policies before you provide them with any personally identifiable information. Third-party sites may collect and use information about you in a way that is different from that of Union Bank.
+<br>
+&nbsp;
+<br><strong>Services and Advertisements by Third Parties.</strong> Third parties may offer services from time to time at our website. If you provide these third parties with information, their use of that information will be subject to their privacy policies, if any, and will not be subject to Union Bank's policy. If you accept third-party goods or services advertised at our site, a third party may be able to determine that you have a relationship with us (for example, if the offer was made only through our site).
+<br>
+&nbsp;
+<br><strong>Protecting Children.</strong> We feel strongly about protecting the privacy of children. As such, we do not knowingly collect personally identifiable information from children under the age of 13 through our site.
+<br>
+&nbsp;
+<br><strong>Changes to This Information.</strong> We may amend (add to or change) this information from time to time by posting a notice of the change at this&nbsp;site. When required by law, we will send you a notice of the change. Your continued use of our&nbsp;site or any online service following notification will constitute your agreement to any changes.
+     </div>
+
+<script language="javascript1.2" type="text/javascript">
+//<![CDATA[
+try{
+dom.query(document).ready(function() {
+cmCreatePageElementTag("2_0 P_Privacy Policy - Tab 2 - On:" + tridionPageId, "Components", null);
+});
+}catch(e){}
+//]]>
+</script>
+                </div>
+                
+                  
+                <script type="text/javascript">ub.EndComponent()</script>
+            </div>    
+            
+            <div class="main-content-right-rail" style="display: block;">
+                <script type="text/javascript">ub.BeginComponent('.main-content-right-rail')</script>
+
+                
+                
+                    
+
+<div class="get-started component shadow shadow-box">
+<span class="disclaimer-group-ref">tcm:9-41459</span>
+  <div class="get-started-panel">
+     <div class="get-started-title">Get Started Now</div>
+     
+          <div class="get-started-row">
+               <div class="left">
+                    
+                         <img src="/Images/get-started-icon-account.png" alt="Account" title="Account" width="50" height="40">
+                     
+               </div>
+               <div class="right">
+                    
+                         <p>Set Up an Account</p>
+                    
+
+                     
+
+                    
+                         
+                              <a href="https://oao.unionbank.com" class="cta-button ">
+                                   <span class="text">Open Online</span>
+                              </a>
+                          
+                          
+                          
+                    
+               </div>
+               <div class="clear"></div>
+          </div>
+     
+          <div class="get-started-row">
+               <div class="left">
+                    
+                         <img src="/Images/get-started-icon-account.png" alt="Account" title="Account" width="50" height="40">
+                     
+               </div>
+               <div class="right">
+                    
+                         <p>Set Up Online Banking</p>
+                    
+
+                     
+
+                    
+                         
+                              <a href="https://www.unionbank.com/signuponline" class="cta-button ">
+                                   <span class="text">Sign Up</span>
+                              </a>
+                          
+                          
+                          
+                    
+               </div>
+               <div class="clear"></div>
+          </div>
+     
+          <div class="get-started-row">
+               <div class="left">
+                    
+                         <img src="/Images/get-started-icon-phone.png" alt="Phone" title="Phone" width="50" height="40">
+                     
+               </div>
+               <div class="right">
+                    
+                         <p>Call Us
+<br><strong>1-800-238-4486</strong></p>
+                    
+
+                     
+
+                    
+               </div>
+               <div class="clear"></div>
+          </div>
+     
+          <div class="get-started-row">
+               <div class="left">
+                    
+                         <img src="/Images/get-started-icon-location.png" alt="Location" title="Location" width="50" height="40">
+                     
+               </div>
+               <div class="right">
+                    
+
+                    
+                         <form class="home-find-location" name="find-locations-cta" action="javascript:ub.itg.goBLW('form[name=find-locations-cta]', 'http://blw.unionbank.com');">
+	<input type="hidden" name="sl-branch" value="1">
+	<label for="find-a-branch">Find Locations</label>
+	<input type="text" title="Zip Code" class="text default-text default-text-active" name="find-a-branch" id="find-a-branch" gtbfieldid="9">
+	<button class="go" type="submit">Go</button>
+</form>
+                     
+
+                    
+               </div>
+               <div class="clear"></div>
+          </div>
+     
+     </div>
+<div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+<script language="javascript1.2" type="text/javascript">
+//<![CDATA[
+try{
+dom.query(document).ready(function() {
+cmCreatePageElementTag(":" + tridionPageId, "Components", null);
+});
+}catch(e){}
+//]]>
 </script>
 
-
-<table cellpadding="0" cellspacing="0" border="0" width="384" class="disclaimermargintop30">
-
-	<tbody><tr><td width="100%" class="copyborder"><font class="copytext">© 2004 Union Bank of California, N.A.  All rights reserved.  Member FDIC.<br>Equal Housing Lender&nbsp;<img src="/images/common/eq_housng_bug.gif" alt="House Icon"></font></td></tr>
-
-</tbody></table>
-	         </vgneap:contentcache></td> 
-			 <!-- begin the Right Nav2-->
-			 <td width="185" valign="top">
-					 
- 
-
-
-
-
-
-
-
-
-
-
- 
-<!--view.jsp took 0.013-->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+                
+                   
+       
+                <script type="text/javascript">ub.EndComponent()</script>
+            </div>
+            
+            <div class="clear"></div>
+        </div>
+    </div>
+    
+    <!-- footer -->
+    
+        
+
+<div class="footer footer-4-cols">
+    
+        
+            <div>
+                
+
+<span class="disclaimer-group-ref">tcm:9-42792</span>
+<dl class="footer-links">
+<dt style="height: 15px;">About Us</dt>
+<dd>
+<ul class="footer-links-list">
 	
-	
-<!-- bottom RNC took 0.084-->
-<!--About-->
-<!--No--> 
-			 </td>
-		</tr>
 		
-					
-	</tbody>
-</table>  
+			<li><a href="https://www.unionbankcareers.com">
+				Careers
+			</a></li>
+		 
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/about/newsroom/index.jsp">Newsroom</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/about/company-profile/index.jsp">Company Profile</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/about/communities/community-outreach/index.jsp">Community Outreach</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/about/diversity-inclusion/index.jsp">Diversity and Culture</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/about/corporate-social-responsibility/index.jsp">Corporate Social Responsibility</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/about/company-profile/our-parent-mufg.jsp">Our Parent - MUFG</a>
+</li>
+		 
+		 
+	
+</ul>
+</dd>
+</dl>            </div>
+        
+            <div>
+                
 
+<span class="disclaimer-group-ref">tcm:9-42793</span>
+<dl class="footer-links">
+<dt style="height: 15px;">Privacy &amp; Security</dt>
+<dd>
+<ul class="footer-links-list">
+	
+		 
+		
+			<li><a href="/personal-banking/privacy-security/index.jsp">Privacy &amp; Security Center</a>
+</li>
+		 
+		 
+	
+		
+			<li><a href="/personal-banking/privacy-security/online-security/index.jsp">
+				Online Security
+			</a></li>
+		 
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/privacy-security/identity-theft/index.jsp">Identity Theft</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/privacy-security/fraud-education/index.jsp">Fraud Education</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/privacy-security/privacy-policy.jsp">Privacy Policy</a>
+</li>
+		 
+		 
+	
+</ul>
+</dd>
+</dl>            </div>
+        
+            <div>
+                
 
-<!--Time taken to Load the page :  3.149-->
-<!--Left Nav took :  1.146-->
-<!--Top Nav took :  0.183-->
-<!--Current Version Content Id : 502581170-->
-<!--Original Content Id : 1302847-->
-<!--Composte Type: Page Composite - FAQ-->
-<!--pageCompPath = /uboc/cda/views/page_composites/page_composite_body_faq.jsp   -->
-<!--pageCompType = 1	-->
-<!--contactUsPageType = 	-->
-<!--phonePageChannelId = 10621	-->
-<!--sectionName1 = About Union Bank	-->
-<!--contactUsSegmentName = About Union Bank	-->
-<!--lclDisplayTopRightNav = Yes -->
-<!--isCalculatorPage = no -->
-<!--CIT TIME TAKEN =0.0080-->
+<span class="disclaimer-group-ref">tcm:9-43507</span>
+<dl class="footer-links">
+<dt style="height: 15px;">Resources</dt>
+<dd>
+<ul class="footer-links-list">
+	
+		 
+		
+			<li><a href="/global/contactus/index.jsp">How to Contact Us</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/fdic-insurance.jsp">FDIC Insurance – Important Changes</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/help/personal-banking/index.jsp">FAQs</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/about/accessibility.jsp">Hearing-impaired &amp; Visually Impaired Services</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/payment-challenges/index.jsp">Mortgage Payment Challenges</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/privacy-security/terms-of-use-policy.jsp">Terms of Use</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/global/sitemap.jsp">Site Map</a>
+</li>
+		 
+		 
+	
+</ul>
+</dd>
+</dl>            </div>
+        
+            <div>
+                
 
-</form></a></body></html>
+<span class="disclaimer-group-ref">tcm:9-42798</span>
+<dl class="footer-links">
+<dt style="height: 15px;">Popular Links</dt>
+<dd>
+<ul class="footer-links-list">
+	
+		 
+		
+			<li><a href="/personal-banking/checking-savings/checking/find-routing-number.jsp">Find Routing Number</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/checking-savings/checking/reorder-checks.jsp">Order Checks</a>
+</li>
+		 
+		 
+	
+		
+			<li><a href="https://oao.unionbank.com/oao/consumer/enrollOnline.seam?cid=17559">
+				Open an Account Online
+			</a></li>
+		 
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/japanese/eng/index.jsp">Japanese Services</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/japanese/jpn/index.jsp">日本語ページ</a>
+</li>
+		 
+		 
+	
+		 
+		
+			<li><a href="/personal-banking/vod/index.jsp">Verification of Deposit Requests</a>
+</li>
+		 
+		 
+	
+</ul>
+</dd>
+</dl>            </div>
+        
+    
+    <div class="clear"></div>
+</div>
+
+   
+           <script type="text/javascript">
+     ub.backgrounds = ['/ubimages/ub-personal-bg-1.jpg','/ubimages/ub-personal-bg-4.jpg'];
+</script>
+   
+
+    
+    <!-- /footer -->
+
+    <!-- disclaimer footer -->
+    
+    <!-- /disclaimer footer -->
+
+    <!-- copyright footer -->
+    
+        
+<div class="copyright-footer shadow-box">
+    
+        <p class="copyright-text clearfix">
+        <span class="year current-year">©2020</span>
+        <script type="text/javascript">try{dom.query('.current-year').html('&copy;' + (new Date()).getFullYear());} catch(e) {}</script>
+        <span class="copyright">Union Bank, N.A. All rights reserved. Member FDIC.</span><span class="trade">Equal Housing Lender</span>
+    </p>    
+<div class="shadow-element shadow-box-s "></div><div class="shadow-element shadow-box-sw"></div><div class="shadow-element shadow-box-se"></div><div class="shadow-element shadow-box-e "></div><div class="shadow-element shadow-box-w "></div></div>
+    
+    <!-- /copyright footer -->
+
+	<!-- Begin Coremetrics Support -->
+		<script language="javascript1.1" src="/ubincludes/js/eluminate.js" type="text/javascript"></script>
+		<script language="javascript1.1" src="/ubincludes/js/cmdatatagutils.js" type="text/javascript"></script>
+	<!-- Taging code -->
+<script language="javascript1.1" type="text/javascript">
+if (window.location.host =='trd-mp.uboc.com' || 
+ window.location.host =='trd-ch.uboc.com' || 
+ window.location.host =='www.uboc.com' || 
+window.location.host =='www.unionbank.com'
+|| window.location.host =='unionbank.com' )
+{
+cmSetProduction();
+}
+			cmCreatePageviewTag("2_0 Privacy Policy", "2_0 100 Personal", null, null);
+		</script>
+	<!-- End Coremetrics -->
+
+</body></html>
