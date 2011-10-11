@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514181532id_/http%3A//cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellularfactory.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011103602id_/http%3A//www.cellularfactory.com/help/privacy_policy.jsp) for the most accurate reproduction.*
 
 # Customer Service Center- Cellularfactory.com
 
 ## CELLULARFACTORY PRIVACY POLICY
 
+  
 We DO NOT Share Personal Information with Third Parties.   
-**Last Updated on 02/01/2010**
+**Last Updated on 09/01/2011**
 
 This privacy statement covers the site www.cellularfactory.com. Because this Web site wants to demonstrate its commitment to our users' privacy, it has agreed to disclose its information practices.   
 1\. What personally identifiable information CellularFactory collects.   
