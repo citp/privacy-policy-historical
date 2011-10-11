@@ -1,18 +1,82 @@
-<!--The following is the downloaded HTML source of the harrywinston.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204073227id_/http%3A//harrywinston.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harrywinston.com privacy policy that was archived on 2011-10-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111011164853id_/http%3A//www.harrywinston.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
-	Privacy Policy
-</title><link href="App_Themes/HW/StyleSheet.css" rel="stylesheet" type="text/css"><link rel="icon" type="image/vnd.microsoft.icon" href="images/web_icon.ico">
+<!DOCTYPE html><html lang="en"><head id="ctl00_Head1"><script id="swo" src="https://web.archive.org/web/20120104022637/http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js" type="text/javascript"></script><script id="gjsapi" src="https://www.google.com/jsapi" type="text/javascript"></script><script id="jquery" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" type="text/javascript"></script>
     <script type="text/javascript" src="http://www.google.com/jsapi"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-    <!--    
-    for harrywinston.com
-        8c0446324%3CaGFycnl3aW5zdG9uLmNvbQ%3D%3D75da4666b12a949a367c5d701            
-    -->
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.0/jquery.min.js"></script>
     
+    <script src="http://static.d.4csx.com/system/html5/html5.js" type="text/javascript"></script><link href="http://static.harrywinston.com/shared/css/site.css" rel="stylesheet" type="text/css"><script src="http://static.harrywinston.com/shared/js/jquery.selectbox-0.5.js" type="text/javascript"></script>
+    <script src="/Scripts/MicrosoftAjax.debug.js" type="text/javascript"></script>
+    <script src="/Scripts/MicrosoftMvcAjax.debug.js" type="text/javascript"></script>
+    <script src="/Scripts/MicrosoftMvcValidation.debug.js" type="text/javascript"></script>
+   
+    
+ 
     <script type="text/javascript">
-<!--
+
+ function checkEnter(e) {
+            var val = $('.headerSearchField').val()
+           
+            if (!e) e = window.event;
+            if (e.keyCode == 13 && $('.headerSearchField').val().length > 0) {
+                window.location = "/Search/" + val
+                // window.location = 'search?q=' + $('.headerSearchField').val();
+            }
+        }
+
+        function searchOnBlur(e) {
+            if (!e) e = window.event;
+            var el;
+            var t;
+            if (e.currentTarget) {
+                el = e.currentTarget;
+                t = el.value;
+            }
+            else {
+                el = e.srcElement;
+                t = el.value
+            }
+            while (t.charAt(0) == " ") {
+                t = t.substring(1);
+            }
+            while (t.charAt(t.length - 1) == " ") {
+                t = t.substring(0, t.length - 1);
+            }
+            if (t.length == 0) {
+
+                el.value = "Search";
+                el.style.color = "#aaaaaa";
+                searchFlag = false;
+            }
+            else {
+                el.value = t;
+                el.style.color = "#000";
+                searchFlag = true
+            }
+
+        }
+
+        var searchFlag = false;
+        function searchOnFocus(e) {
+            if (!e) e = window.event;
+            var el;
+            var t;
+            if (e.currentTarget) {
+                el = e.currentTarget;
+                t = el.value;
+            }
+            else {
+                el = e.srcElement;
+                t = el.value
+            }
+            if (!searchFlag) {
+                el.value = "";
+                el.style.color = "#000";
+            }
+
+        }
+
+
         function MM_swapImgRestore() { //v3.0
             var i, x, a = document.MM_sr; for (i = 0; a && i < a.length && (x = a[i]) && x.oSrc; i++) x.src = x.oSrc;
         }
@@ -20,7 +84,7 @@
             var d = document; if (d.images) {
                 if (!d.MM_p) d.MM_p = new Array();
                 var i, j = d.MM_p.length, a = MM_preloadImages.arguments; for (i = 0; i < a.length; i++)
-                    if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; } 
+                    if (a[i].indexOf("#") != 0) { d.MM_p[j] = new Image; d.MM_p[j++].src = a[i]; }
             }
         }
 
@@ -59,46 +123,61 @@
 //-->
     </script>
     <style type="text/css">
-       .usa-only{display:none;}
-       .non-usa{display:none;}
+        .usa-only
+        {
+           /* display: none;*/
+        }
+        .non-usa
+        {
+            display: none;
+        }
     </style>
     
-    <link href="css/Privacy.css" rel="stylesheet" type="text/css">
-<link href="App_Themes/HW/StyleSheet.css" type="text/css" rel="stylesheet"></head>
-<body>
+ 
+ <link href="http://static.harrywinston.com/pages/privacy/css/Privacy.css" rel="stylesheet" type="text/css">
+<title>
 
-    <script type="text/javascript" src="http://smart-ip.net/_res/js/webservice/api.js?key=8c0446324%3CaGFycnl3aW5zdG9uLmNvbQ%3D%3D75da4666b12a949a367c5d701"></script>
-    <form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFEWN0bDAwJFNob3BwaW5nQmFnBRJjdGwwMCRTZWFyY2hCdXR0b273vVkg+qO2HcVkWLR9MTzGI9pxSg==">
+</title></head>
+<body><script id="ga_track" src="https://web.archive.org/web/20120104022637/https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script src="/api/connect.js" type="text/javascript"></script><script id="mlc" src="https://web.archive.org/web/20111005084342/https://dev4csx.blob.core.windows.net/system/mlc.js" type="text/javascript"></script>
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAKh/IGKCgLokNmGDAK07NioCwLAl4DaCRWvJsxPkLsfIJVFJkHJu3LMNEQx">
-    <div id="blackStripe">
-    </div>
-    <div class="container">
-        <div class="header">
-            <div id="logo">
-                <a href="Default.aspx">
-                    <img src="images/welcome_02.jpg" width="320" height="50" alt="Harry Winston"></a></div>
-            <div id="topnav">
-                <div id="ctl00_TopNavPanel">
-	
-                    <a href="CustomerService.aspx">
-                        <img src="images/welcome_05.jpg" width="110" height="25" alt="Customer Service"></a><a href="#"><img onclick="newPopup('how-to-choose-a-ring.html',  1010, 560)" src="images/welcome_06.jpg" width="95" height="25" alt="Expert Advice"></a><input type="image" name="ctl00$ShoppingBag" id="ctl00_ShoppingBag" class="usa-only" src="images/welcome_07.jpg" alt="Shopping Bag" border="0"><input type="image" name="ctl00$SearchButton" id="ctl00_SearchButton" src="images/welcome_08.jpg" alt="Search" border="0"><input name="ctl00$SearchField" type="text" id="ctl00_SearchField" class="headerSearchField">
-                
+<div class="container">
+<header>
+<div id="logo">
+<a href="/"><img alt="Harry Winston" src="http://static.harrywinston.com/shared/images/welcome_02.jpg"></a>
 </div>
-            </div>
-            
-            <div id="navbar">
-                <a href="Engage.aspx?section=engagement" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image6','','images/menu-engagement-over.jpg',1)">
-                    <img src="images/menu-engagement.jpg" name="Image6" width="125" height="50" border="0" id="Image6" alt="Engagement"></a><a href="Rings.aspx?section=rings" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image7','','images/menu-rings-over.jpg',1)"><img src="images/menu-rings.jpg" name="Image7" width="91" height="50" border="0" id="Image7" alt="Rings"></a><a href="Jewels.aspx?section=jewels" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image8','','images/menu-jewels-over.jpg',1)"><img src="images/menu-jewels.jpg" name="Image8" width="104" height="50" border="0" id="Image8" alt="Jewels"></a><a href="incredable.aspx?section=incredibles" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image9','','images/menu-incredibles-over.jpg',1)"><img src="images/menu-incredibles.jpg" name="Image9" width="179" height="50" border="0" id="Image9" alt="The Incredibles"></a><a href="Time.aspx?section=timepieces" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image10','','images/menu-timepieces-over.jpg',1)"><img src="images/menu-timepieces.jpg" name="Image10" width="131" height="50" border="0" id="Image10" alt="Timepieces"></a><a href="Gifts.aspx?section=gifts" class="usa-only" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image11','','images/menu-gifts-over.jpg',1)"><img src="images/menu-gifts.jpg" name="Image11" width="80" height="50" border="0" id="Image11" alt="Gifts"></a><a href="OurStory.aspx?section=our-story" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image12','','images/menu-our-story-over.jpg',1)"><img src="images/menu-our-story.jpg" name="Image12" width="120" height="50" border="0" id="Image12" alt="Our Story"></a><a href="VisitUs.aspx?section=visit-us" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image13','','images/menu-visit-us-over.jpg',1)">
-                                                                            <img src="images/menu-visit-us.jpg" name="Image13" width="95" height="50" border="0" id="Image13" alt="Visit Us"></a>
-            </div>
-            
-        </div>
-        <div class="content">
-            
-    <div id="title">
-        <img src="images/Privacy.jpg" width="304" height="150" alt="Privacy Policy"></div>
+
+<div id="topnav">
+<ul>
+<li><a href="/customer-service">Customer Service</a></li>
+<li><a href="/email-signup">email sign up</a></li>
+<li class="usa-only"><a href="https://shop.harrywinston.com/cart.aspx">shopping bag</a></li>
+<li>SEARCH
+<input id="Text1" onkeypress="checkEnter(event)" class="headerSearchField" type="text">
+</li>
+</ul>
+</div>
+
+<div id="navbar">
+<ul>
+<li class="navEngagement"><a href="/landing/engagement" class="imgreplace">Engagement</a></li>
+<li class="navJewels"><a href="/landing/jewels" class="imgreplace">Jewels</a></li>
+<li class="navIncredibles"><a href="/incredibles" class="imgreplace">The Incredibles</a></li>
+<li class="navTimepieces"><a href="/landing/timepieces" class="imgreplace">Timepieces</a></li>
+<li class="navShop usa-only"><a href="/landing/Shop-Online" class="imgreplace">Shop Online</a></li>
+<li class="navStory"><a href="/our-story" class="imgreplace">Our Story</a></li>
+<li class="navVisit"><a href="/visit-us" class="imgreplace">Visit Us</a></li>
+</ul>
+</div>
+
+</header>
+
+
+
+<div class="content">
+
+     <div id="title">
+        <img src="http://static.harrywinston.com/pages/privacy/images/Privacy.jpg" width="304" height="150" alt="Privacy Policy"></div>
     <div id="text">
         <h3>
             LEGALS &amp; PRIVACY HARRY WINSTON, INC<br>
@@ -121,7 +200,7 @@
             we will post the new Privacy Policy to the Site. We recommend you periodically review
             the Site to ensure that you are familiar with the most current version of our Privacy
             Policy. For your convenience, the date of the last update to this privacy policy
-            appears at the bottom of the Site. Please see our <a href="Terms.aspx" style="color: #000">Terms and Conditions</a> for other terms and conditions
+            appears at the bottom of the Site. Please see our <a href="/terms" style="color: #000">Terms and Conditions</a> for other terms and conditions
             governing your use of the Site.
             <br>
             <br>
@@ -282,33 +361,29 @@
     <div class="h21px">
     </div>
 
-        </div>
-    <div class="footer">
-        <div class="Facebook"><a href="http://www.facebook.com/HarryWinston?ref=ts" target="_blank"><img src="images/fb_logo.gif"></a></div>
-            <div id="footerBar">
-            
-                    <a class="fnav" href="http://www.facebook.com/HarryWinston?ref=ts" target="_blank">Facebook</a>
-                    <a class="fnav" href="ContactUs.aspx">Contact Us</a> 
-                    <a class="fnav" href="http://investor.harrywinston.com/" target="_blank">Investor Relations</a>
-                    <a class="fnav" href="Privacy.aspx">Privacy Policy</a>
-                    <a class="fnav" href="Terms.aspx">Terms and Conditions</a>
-                    <a class="fnav" href="Catalogs.aspx">Catalogs</a>
-                     <a class="fnav usa-only" href="Product.aspx?alias=hw-giftcard">Gift Cards</a>
-                    <a class="fnav" href="SignUpForEmail.aspx">Sign up for email</a>
-                    
-                    <a class="fnavJapan" href="http://www.harrywinston.jp/" target="_blank">日本語</a>
-                    <a class="fnavJapan" href="http://www.harrywinston.cn/v2/tw/main.php?lang=zh-tw" target="_blank">繁體中文</a>
-                    <a class="fnavJapan" href="http://www.harrywinston.cn/v2/cn/main.php?lang=zh-cn" target="_blank">简体中文</a>
-               		
-                    <div class="fnavFltrt">SSL Secure Site</div>
-                
-                <!-- -->
-                <div class="clearfloat">
-            </div>
+</div>
+       
+<div class="footer">
+
+        <ul>
+
+        <li class="facebook"><a href="http://www.facebook.com/HarryWinston?ref=ts" target="_blank" class="imgreplace">Facebook</a></li>
+        <li class="youtube"><a href="http://www.youtube.com/user/harrywinston" target="_blank" class="imgreplace">YouTube</a></li>
+        <li><a href="/Contact">Contact Us</a></li>
+        <li><a href="http://investor.harrywinston.com/" target="_blank">Investor Relations</a></li>
+        <li><a href="/privacy">Privacy Policy</a></li>
+        <li><a href="/terms">Terms and Conditions</a></li>
+        <li><a href="/catalogs">Catalogs</a></li>
+        <li class="Japan"><a href="http://www.harrywinston.jp/" target="_blank">日本語</a></li>
+        <li class="Japan"><a href="http://www.harrywinston.cn/v2/tw/main.php?lang=zh-tw">繁體中文</a></li>
+        <li class="ssl"><a href="http://www.harrywinston.cn/v2/cn/main.php?lang=zh-cn">简体中文</a></li>
+
+        </ul>
+
         </div>
         <div id="footerBottom">
             <p>
-                © 2010 Harry Winston, Inc. Use of this Web site constitutes acceptance of our Terms
+                © 2011 Harry Winston, Inc. Use of this Web site constitutes acceptance of our Terms
                 and Conditions and Privacy Policy.</p>
             <p>
                 Purchases from this site may only be made within the continental United States for
@@ -316,23 +391,86 @@
         </div>
     </div>
     
-
     <script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
         document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
     <script type="text/javascript">
         try {
             var pageTracker = _gat._getTracker("UA-7939941-5");
             pageTracker._trackPageview();
         } catch (err) { }
     </script>
+
     <script type="text/javascript">
-        $(function() {
-        //also put back usa-only stylesheet
-            if (true) {
-                if (google && google.loader && google.loader.ClientLocation) {
+        var detected_country_code = "NONE";
+
+        var hasDetected;
+        var loc = get_cookie("loc");
+        if (loc) {
+            var l = loc.split("=");
+            detected_country_code = (l.length > 1) ? l[1] : "NONE";
+            hasDetected = true;
+        }
+        if (hasDetected) {
+            if (detected_country_code == "US") {
+                usaOnlyShow();
+            }
+            else {
+                usaOnlyHide();
+            }
+        }
+
+
+        function set_cookie(c_name, value, alive) {
+            var exdate;
+            if (alive) {
+                exdate = new Date();
+                var st = exdate.getTime();
+                exdate.setTime(st + alive);
+            }
+            document.cookie = c_name + "=" + escape(value) + (exdate ? (";expires=" + exdate.toGMTString()) : "") + "; path=/";
+        }
+
+        function get_cookie(c_name) {
+            if (document.cookie.length > 0) {
+                c_start = document.cookie.indexOf(c_name + "=");
+                if (c_start != -1) {
+                    c_start = c_start + c_name.length + 1;
+                    c_end = document.cookie.indexOf(";", c_start);
+                    if (c_end == -1) c_end = document.cookie.length;
+                    return unescape(document.cookie.substring(c_start, c_end));
+                }
+            }
+            return null;
+        }
+
+
+        function set_geo_cookie(o) {
+            if (!o || !o.countryCode || (o.countryCode == "US" || o.countryCode == "-")) {
+                //display US
+                detected_country_code = ((o && o.countryCode) ? o.countryCode : "-");
+                set_cookie("loc", "a=US");
+                usaOnlyShow();
+                hasDetected = true;
+            }
+            else {
+                //display Non-US
+                set_cookie("loc", ((o && o.countryCode) ? o.countryCode : "-"));
+                usaOnlyHide();
+                hasDetected = true;
+            }
+            
+        };
+
+        $(function () {
+            //
+            
+
+            //
+            if (!hasDetected) {
+
+                if (false && google && google.loader && google.loader.ClientLocation) {
                     var cl = google.loader.ClientLocation;
                     if (cl.address && cl.address.country_code) {
                         detected_country_code = cl.address.country_code;
@@ -345,44 +483,48 @@
                         }
                     }
                     else {
-                        try {
-                            var MyIP = new SmartIP();
-                            MyIP.load();
-                            MyIP.onload = function() {
-                                //alert(MyIP.getCountryName()); // in this case instead of MyIP
-                            // you can use "this" operator
-                            detected_country_code = MyIP.getCountryCode();
-                                if (MyIP.getCountryCode() != "US") {
-                                    usaOnlyHide();
-                                } else {
-                                    usaOnlyShow();
-                                }
-                            }
-                        } catch (err) { usaOnlyShow(); };
+                        $.getScript("http://api.ipinfodb.com/v3/ip-country/?key=59b8ae7c1eb9337017fc72df5c70fce359fd8c6a139159a01755a52bbd26b193&format=json&callback=set_geo_cookie");
+
+//                        try {
+//                            var MyIP = new SmartIP();
+//                            MyIP.load();
+//                            MyIP.onload = function () {
+//                                //alert(MyIP.getCountryName()); // in this case instead of MyIP
+//                                // you can use "this" operator
+//                                detected_country_code = MyIP.getCountryCode();
+//                                if (MyIP.getCountryCode() != "unknown" && MyIP.getCountryCode() != "US") {
+//                                    usaOnlyHide();
+//                                } else {
+//                                    usaOnlyShow();
+//                                }
+//                            }
+//                        } catch (err) { usaOnlyShow(); };
                     }
                 }
                 else {
-                    try {
-                        var MyIP = new SmartIP();
-                        MyIP.load();
-                        MyIP.onload = function() {
-                            //alert(MyIP.getCountryName()); // in this case instead of MyIP
-                        // you can use "this" operator
-                        detected_country_code = MyIP.getCountryCode();
-                            if (MyIP.getCountryCode() != "US") {
-                                usaOnlyHide();
-                            }
-                            else {
-                                usaOnlyShow();
-                            }
-                        }
-                    } catch (err) { usaOnlyShow(); };
+                    $.getScript("http://api.ipinfodb.com/v3/ip-country/?key=59b8ae7c1eb9337017fc72df5c70fce359fd8c6a139159a01755a52bbd26b193&format=json&callback=set_geo_cookie");
+                    
+//                    try {
+//                        var MyIP = new SmartIP();
+//                        MyIP.load();
+//                        MyIP.onload = function () {
+//                            //alert(MyIP.getCountryName()); // in this case instead of MyIP
+//                            // you can use "this" operator
+//                            detected_country_code = MyIP.getCountryCode();
+//                            if (MyIP.getCountryCode() != "unknown" && MyIP.getCountryCode() != "US") {
+//                                usaOnlyHide();
+//                            }
+//                            else {
+//                                usaOnlyShow();
+//                            }
+//                        }
+//                    } catch (err) { usaOnlyShow(); };
                 }
             }
         });
 
         function usaOnlyHide() {
-            $(".left-menu table").each(function(i) {
+            $(".left-menu table").each(function (i) {
                 $that = $(this);
                 if ($("a", $that).attr("href").indexOf("online") > -1) {
                     $that.addClass("usa-only")
@@ -394,7 +536,7 @@
             $(".country-detection").html("Detected Country: " + detected_country_code);
         }
         function usaOnlyShow() {
-            $(".left-menu table").each(function(i) {
+            $(".left-menu table").each(function (i) {
                 $that = $(this);
                 if ($("a", $that).attr("href").indexOf("online") > -1) {
                     $that.addClass("usa-only")
@@ -407,6 +549,11 @@
         }
         
     </script>
+    
 
 
-</div></form></body></html>
+<div id="dvdate" style="display:none">10/11/2011 4:41:32 PM</div>
+
+
+
+</body></html>
