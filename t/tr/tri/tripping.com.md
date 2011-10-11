@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the tripping.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417190055id_/https%3A//www.tripping.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripping.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011091406id_/https%3A//www.tripping.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Tripping Privacy Policy
+
+Last Updated: 16 August 2011
 
 At Tripping, we believe that you have the right to control all of the information and content that you share, post and submit on the site.
 
@@ -9,6 +11,8 @@ You are able to control who can see your profile (and all of the content posted 
 Tripping is a community built on trust, so we encourage you to use your real name on the site. Only your first name will be visible on your profile, though your full name will be made available to your Hosts, Trippers who stay with you and Trippers to whom you send Friend Requests. In turn, you will be given the full name of your Hosts, Trippers who stay with you and Trippers who send Friend Requests to you.
 
 While we believe strongly in protecting your information and not sharing it with any third parties, we do reserve the right to transfer such information without consent to prevent an emergency, to help you if you are in a dangerous situation, to protect or enforce our rights, to protect or enforce the rights of a third party or in response to a court order or subpoena as otherwise required or permitted by law. Additionally, we may provide this personal information to third party service providers who help us maintain the Site and deliver data and services to you and other members.
+
+Third party vendors may use cookies to serve ads based on prior visits to this website. No personally identifiable information is collected by these cookies. We believe that these ads will improve your browsing experience around the web. You can opt out of third party vendor's cookies at any time by visiting this page: [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp "Networkadvertising.org")
 
 In the event that you delete your Tripping account and have not shared your content with other members who still have it in their accounts, we will likewise delete all of your information and content.
 
