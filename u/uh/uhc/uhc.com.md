@@ -1,140 +1,95 @@
-> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2006-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060501034324id_/http%3A//uhc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhc.com privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011163008id_/http%3A//www.uhc.com/privacy.htm) for the most accurate reproduction.*
 
-# Internet Privacy Policy
+# UnitedHealthcare Privacy Policy
 
-UnitedHealthcare Internet Privacy Policy  
-Golden Rule Insurance Company Notice of Information Practices
+Privacy
 
-Respecting your right to privacy
+**HIPAA Notice of Privacy Practice:** To read more about our privacy practices regarding health and medical information under the Health Insurance Portability and Accountability Act ("HIPAA"), please [click here](http://www.uhc.com/privacy/notice_of_privacy_practices.htm), which links to our HIPAA Notice of Privacy Practices. 
 
-**UnitedHealthcare Internet Privacy Policy**
+**Social Security Number Protection Policy:** Protecting personal information is important to UnitedHealthcare. It is the policy of UnitedHealthcare and its current and future affliates to protect the confidentiality of Social Security numbers ("SSNs") that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
 
-We're very sensitive to privacy issues and respect your right to privacy. It's important for you to know how we handle the information we receive from you via the Internet. 
+### Website Privacy Policy
 
-**Respecting your right to privacy**
+**Introduction**  
+We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages. 
 
-All of our business practices are in full compliance with the privacy requirements under the Health Insurance Portability and Accountability Act (HIPAA). 
+This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as "we" or "our" and "Company" refer to UnitedHealthcare and its current and future affiliate entities. 
 
-**Protecting your confidential information**
+This site is intended for a United States audience. If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.
 
-We have taken precautionary measures to make all information received from our online visitors as secure as possible against unauthorized access and use.We do not sell or share information to companies outside of our UnitedHealth Group organization. 
+**Cookies and non-personal information**  
+"Non-personal information" means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. The Company uses "cookie" technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website. 
 
-However, it may be necessary for us to provide information to contracted external partners in order to respond to your inquiries and to provide you with services on our behalf. They may only use the information provided for the specified use and project. 
+You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include: 
 
-Your online preferences 
-
-We use "cookie" technology to obtain usage information from our online visitors.You may disable your cookie information by adjusting your browser preferences on your personal computer at any time. Keep in mind that cookies do not identify a specific user and are not used to collect any personal information. 
-
-In order to provide you with the best possible service and relevant information to you, we use cookies to: 
-
-  * Track resources and data accessed on the site per visitor
-  * Record general site statistics and activity
-  * Assist users experiencing Web site problems
+  * Tracking resources and data accessed on the site. 
+  * Recording general site statistics and activity. 
+  * Assisting users experiencing website problems. 
+  * Enabling certain functions and tools on this website. 
+  * Tracking paths of visitors to this site and within this site. 
 
 
 
-**Your data is safe**
+We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information. 
 
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+**With whom is non-personal information shared?**  
+Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government. 
 
-**Our Online Communication Practices**
+**Personal information provided by you**  
+"Personal information" means information that specifically identifies you as an individual, such as your full name, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include any information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals. 
 
-You should know that unless otherwise noted, the email functionality on our site does not provide a completely secure and confidential means of communication. It is possible that your email communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use email. 
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
 
-We may send email communications to you related to general health benefits, Web site updates, health conditions and other general health topics. 
+We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
 
-We may also send electronic newsletters on a periodic basis to various individuals and organizations. To opt-out of the newsletter you're receiving, click on the opt-out button associated with the specific communication. 
+We may use personal information for a number of purposes such as:
 
-Back to top
-
- **Golden Rule Insurance Company Notice of Information Practices**
-
- **THIS NOTICE DESCRIBES HOW MEDICAL AND OTHER PERSONAL INFORMATION ABOUT YOU MAY BE USED AND DISCLOSED. IT ALSO DESCRIBES HOW YOU CAN GET ACCESS TO THIS INFORMATION. PLEASE REVIEW THE NOTICE CAREFULLY.**  
-You entrust us with individually identifiable health and financial information (referred to as "personal information" in the rest of this notice). You are our best and most important source of information about you and others listed on your application. We may also collect personal information about you from others. For example, we may collect it from health care providers, employers, or insurance companies. 
-
-**EXAMPLES OF INFORMATION WE MAY COLLECT AND MAINTAIN**  
-Your name, address, telephone number, social security number, date of birth, gender, marital status, assets, income, E-mail address, policy or account number, account balance, policy coverage, premium payment, claims history, premium contribution amounts, medical information, motor vehicle reports, details about your transactions with other insurance companies, and details from consumer-reporting agencies. 
-
-**INFORMATION WE ARE PERMITTED TO USE AND DISCLOSE WITHOUT AN AUTHORIZATION**  
-We may use and share the personal information described above. We will use and share it only as permitted or required by law. Examples include, but are not limited to, the following situations: 
-
-  * To a company affiliated with us.
-  * To those who act on our behalf. They are required to keep the information confidential. They are required to use the information only to provide the services we have asked them to provide. They may include payment processing companies, mailing houses, data processing companies, business consultants, system support vendors, Internet vendors, and those that provide access to provider discounts for our insureds.
-  * To financial institutions with which we jointly offer, endorse, or sponsor a financial product or service.
-  * To the individual who is the subject of the information.
-  * To an insurance regulatory authority.
-  * For payment, such as using details received from an insurance company to coordinate benefits.
-  * For payment, such as to a health care provider to identify insurance coverage or benefits.
-  * For treatment, such as to your health care providers to help them provide medical care.
-  * For health care operations, such as exchanging information with another insurance company to detect or prevent criminal activity, fraud, and material misrepresentation.
-  * To provide appointment reminders or information about treatment alternatives or other health-related benefits and services that may be of interest to you.
-  * To a group health plan sponsor.
-  * For public health activities such as to prevent or control disease, injury, or disability.
-  * To persons involved with your care, such as a family member, when you are incapacitated or in an emergency.
-  * To health oversight agencies for compliance purposes.
-  * In response to a court or administrative order.
-  * In response to a subpoena, discovery request, or other lawful process by another person involved in a dispute.
-  * For law enforcement purposes.
-  * To coroners, medical examiners, or funeral directors.
-  * To avert a serious threat to health or safety to you, another person, or the public.
-  * To federal officials for intelligence, counter-intelligence, and other national security activities.
-  * To worker's compensation or other programs that provide benefits for work-related injuries or illness.
+  * To respond to an e-mail or particular request from you. 
+  * To personalize the website for you.
+  * To process an application as requested by you.
+  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.
+  * To comply with applicable laws, regulations, and legal process.
+  * To protect someone's health, safety, or welfare.
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.
+  * To keep a record of our transactions and communications.
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law. 
 
 
 
-**ALL OTHER USES AND DISCLOSURES OF PERSONAL INFORMATION**  
-All other uses and sharing of personal information, not permitted or required by law, will be made only with your written authorization. You may revoke the authorization in writing. If you do, we will no longer use or share the information for the reasons covered by the authorization -- unless we have taken action based on the authorization. We are unable to withdraw any disclosures we have already made with your authorization. 
+You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number.
 
-**YOUR RIGHTS REGARDING YOUR PERSONAL HEALTH INFORMATION**  
-With respect to your personal health information, you have the following rights: 
+**With whom is personal information shared?** We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.
 
-  * To inspect and obtain a copy of it.
-  * To request that we amend it.
-  * To receive details about our sharing of it.
-  * To request that we communicate with you about it by alternative means or at an alternative location if our sharing of all or part of it could endanger you.
-  * To request that we restrict the use and sharing of it. (We do not have to agree.)
-  * To receive a paper copy of this notice at any time.
+We share and give access to personal information to our employees and agents in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other affiliates or business units within the Company.
 
-Additional rights may be available under state law. There are some exceptions to these rights. Please send a written request to the address below. 
+We may share and give access to personal information with other companies that we hire to perform services on our behalf or collaborate with. For example, we may hire an outside company to help us send and manage e-mail, and in that case we might provide the outside company with your e-mail address and certain other information in order for them to send you an e-mail message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers and software applications.
 
-**FORMER CUSTOMERS**  
-If your customer relationship with Golden Rule ends, we will still treat your information as described in this notice. 
+However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse. We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction. We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal. 
 
-**SECURITY OF PERSONAL INFORMATION**  
-We maintain physical, administrative, and technical safeguards to guard your information. We limit employee access to information based on job duties. 
+If you submit information or a posting to a chat room, bulletin board, or similar "chat" related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
 
-**FAIR CREDIT REPORTING ACT NOTICE**  
-In some cases, we may ask a consumer-reporting agency to compile an investigative consumer report about you. If we request such a report, we will notify you promptly with the name and address of the agency that will furnish the report. You may request in writing to be interviewed as part of the investigation. The agency may retain a copy of the report. The agency may disclose it to other persons as allowed by the federal Fair Credit Reporting Act. 
+**Reviewing my information**  
+This website may permit you to view your visitor profile and related personal information. If this function is available, we will include a link on this website with a heading such as "My Profile" or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
 
-**MEDICAL INFORMATION BUREAU**  
-We or our reinsurers may make a report of personal information in conjunction with our membership in the Medical Information Bureau (MIB). This is a nonprofit organization of life insurance companies, which operates an information exchange on behalf of its members. 
+**Website and information security**  
+We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural security methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and on-line communications, however, we can not guarantee that any information transmitted on-line will remain absolutely confidential, and we are not liable for the illegal acts of third parties such as criminal hackers.
 
-If an application or claim for benefits is submitted to another Bureau member company for life or health insurance coverage, the Bureau, upon request, will supply such company with information in its file. 
+**Our online communication practices**
 
-If you question the accuracy of information in the Bureau's file, you may seek a correction in accordance with the procedures set forth in the federal Fair Credit Reporting Act. Contact the Bureau at: 
+**General e-mail communications**  
+Most e-mail, including any e-mail functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you regarding topics such as general health benefits, website updates, health conditions, and general health topics.
 
-MIB, Inc.  
-P.O. Box 105  
-Essex Station  
-Boston, MA 02112  
-617-426-3660  
-[www.mib.com](http://www.mib.com/)
+**Other online communications**  
+The Company sends electronic newsletters, notification of account status, and other communications such as information marketing other products or services offered by us, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication. 
 
- **OUR DUTIES**  
-We are required to keep your personal information private. We are providing this notice of our legal duties and privacy practices. We will abide by the terms of this notice as currently in effect. 
+**Contact us.**  
+To contact us regarding this Website Privacy Policy and our related privacy practices, please contact us at:   
+Customer Service - Privacy Unit  
+PO Box 740815  
+Atlanta, GA 30374-0815.
 
-If you believe your privacy rights have been violated, you may send a written complaint to Golden Rule at the address below. You may also write to the Secretary of the Department of Health and Human Services. We will not take action against you for filing the complaint. 
+**Effective date**  
+The Effective Date of this Privacy Policy is August 30, 2011. 
 
-You will receive this notice each year. We reserve the right to change the terms of our notice. We reserve the right to make the new notice apply to all personal information that we maintain. We will send a new notice within 60 days of any material change. We will mail it to your last known address or by E-mail if you have agreed to electronic notice. For more information or to obtain a copy, please contact: 
-
-Golden Rule Insurance Company  
-Attn: Privacy Official  
-712 Eleventh Street  
-Lawrenceville, IL 62439  
-618-943-5064
-
-This notice, effective January 2004, is being provided on behalf of Golden Rule Insurance Company and the following affiliated companies: _Ad-Ventures, Inc.; All Savers Insurance Company; Executive Systems; Golden Rule Financial Corporation; and Rooney Life Insurance Company_. 
-
-Interested in obtaining a new health plan? Contact one of our advisors at **866-669-7434**. 
-
-Back to top
+**Changes to this Website Privacy Policy**  
+We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy. 
