@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428202150id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2011-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111011214546id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
 
 # Privacy - ASB Bank New Zealand
 
