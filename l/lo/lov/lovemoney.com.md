@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529042602id_/http%3A//www.lovemoney.com/inside/customer-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovemoney.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012032444id_/http%3A//www.lovemoney.com/inside/customer-services/privacy.aspx) for the most accurate reproduction.*
 
 # lovemoney.com – Inside – Customer services – Privacy policy
 
@@ -8,7 +8,7 @@
 
 lovemoney.com ltd takes the issue of privacy very seriously and we are committed to protecting and respecting our users' privacy. This privacy and cookie statement sets out our current data processing practices. If you have any queries or concerns regarding these practices, you should contact us.
 
-For the purposes of the United Kingdom’s Data Protection Act 1998, lovemoney.com ltd, a company registered in England and Wales under company registration number: 06824947 and having its registered office at 2nd Floor Golden House, 30 Great Pulteney Street, London, W1F 9LT, is the data controller in relation to the personal data you disclose at .lovemoney.com.
+For the purposes of the United Kingdom’s Data Protection Act 1998, lovemoney.com ltd, a company registered in England and Wales under company registration number: 06824947 and having its registered office at 24 Greville Street, London, EC1N 8SS, is the data controller in relation to the personal data you disclose at .lovemoney.com.
 
 ### The information we collect
 
@@ -99,11 +99,11 @@ The Act gives you the right to access information held about you. Your right of 
 
 lovemoney.com ltd may amend this privacy statement from time to time. If we make any substantive changes to this policy, we'll announce it on our site.
 
-## Part 2: Online Banking
+## Part 2: Tracker
 
-The following additional statements apply to information provided as part of our online banking service.
+The following additional statements apply to information provided as part of our Tracker service.
 
-### Security of our online banking service: what you need to know
+### Security of our Tracker service: what you need to know
 
 lovemoney.com ltd employs leading-edge technologies, standards, and business practices to protect your personal data. Key components of our security include:
 
@@ -119,7 +119,7 @@ In addition, we are partnered with Yodlee who store and manage account access de
 
 ### Browser communications encryption
 
-lovemoney.com online banking employs Secure Site Pro certificates with Extended Validation from Thawte. This is currently the most secure certificate available. With this certificate more modern browsers are able to use 256-bit encryption and for older browsers it ensures that 128-bit encryption is possible. Click on the lock icon in your browser's status bar to learn more.
+lovemoney.com Tracker employs Secure Site Pro certificates with Extended Validation from Thawte. This is currently the most secure certificate available. With this certificate more modern browsers are able to use 256-bit encryption and for older browsers it ensures that 128-bit encryption is possible. Click on the lock icon in your browser's status bar to learn more.
 
 ### Extensive firewalls
 
