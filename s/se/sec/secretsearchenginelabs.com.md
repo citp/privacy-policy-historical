@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secretsearchenginelabs.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524020128id_/http%3A//www.secretsearchenginelabs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretsearchenginelabs.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012051445id_/http%3A//www.secretsearchenginelabs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Terms and Conditions - Secret Search Engine Labs
 
