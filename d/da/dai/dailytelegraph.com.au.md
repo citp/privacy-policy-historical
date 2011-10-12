@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221213749id_/http%3A//www.dailytelegraph.com.au/help/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailytelegraph.com.au privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013015538id_/http%3A//www.dailytelegraph.com.au/help/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | How the Daily Telegraph is keeping your details private and secure | The Daily Telegraph
+# Privacy Policy | How the Daily Telegraph is keeping your details private and secure | thetelegraph.com.au
 
 ### STATEMENT REGARDING PRIVACY POLICY
 
@@ -71,8 +71,8 @@ Please contact our Privacy Officer to ask for access to your information or if y
 
 **Ph:** 02 9288 3212
 
-**Fax:** 02 9288 3397
+**Fax:** 02 9288 3139
 
-[privacy@matp.newsltd.com.au](mailto:privacy@matp.newsltd.com.au)
+[privacynwn@newsltd.com.au](mailto:privacynwn@newsltd.com.au)
 
 2 Holt St, Surry Hills, NSW, 2010
