@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225085134id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitaluk.co.uk privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012221151id_/http%3A//www.digitaluk.co.uk/privacy_policy) for the most accurate reproduction.*
 
 # Digital UK - Privacy Policy
 
@@ -38,11 +38,20 @@ If you access Our Site by way of a hardware firewall, a proxy server or any othe
 
 #### Email
 
-During the course of your use of the Site you may be requested to enter your email address to use a service We provide. This email address will only be used in accordance with the terms of this Privacy Policy. Additionally, any email correspondence entered into is considered to be confidential between you and Us. Under no circumstances will We pass your email address on to third parties unless We have previously informed you that We will do so.
+During the course of your use of the Site you may be requested to enter your email address to use a service We provide. This email address will only be used in accordance with the terms of this Privacy Policy. Additionally, any email correspondence entered into is considered to be confidential between you and Us. Under no circumstances will We pass your email address on to third parties unless We have previously informed you that We will do so.  
+
+
+  
+
 
 ### C. Cookies
 
-We do not currently use cookies on Our Site.
+There are a variety of cookies used on the Digital UK website, mostly to improve the user experience and help us tailor content to user need. We use some for web analytics and accessibility. In general, these cookies expire when a browsing session finishes.
+
+A ruling in May 2011 by the Information Commissioner's Office requires that in most cases, website wanting to use cookies should request consent from users. 
+
+We are currently working on a way to comply with this rule without interrupting the user experience.    
+
 
 ### D. Registration
 
