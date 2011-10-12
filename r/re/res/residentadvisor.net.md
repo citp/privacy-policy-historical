@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522062035id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012233949id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
 
 # RA: Privacy policy
 
 1\. Introduction
 
-This policy covers Resident Advisor Limited's (“RA”) use of personal information that is collected when you use [www.residentadvisor.net](http://www.residentadvisor.net/). 
+This policy covers Resident Advisor Limited's ("RA") use of personal information that is collected when you use [www.residentadvisor.net](http://www.residentadvisor.net/). 
 
 From time to time, you will be asked to submit personal information about yourself (e.g. name and email) in order to receive or use services on our website. Such services include newsletters, competitions, forums, and RA membership.
 
