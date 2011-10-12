@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605140311id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012153706id_/http%3A//www.homefinder.com/company/privacy) for the most accurate reproduction.*
 
 # HomeFinder.com :: Company :: Privacy Policy
 
@@ -20,7 +20,7 @@ The Site automatically collects passive information and may also customize your 
 
 **Web Beacons** : Web beacons (also known as pixel tags, Internet tags, clear GIFs, or single-pixel GIFs) are electronic images embedded into a web page.
 
-**IP Address Logs** : HomeFinder.com also logs Internet Protocol (IP) addresses — the location of your computer on the Internet.
+**IP Address Logs** : HomeFinder.com also logs Internet Protocol (IP) addresses �the location of your computer on the Internet.
 
 Cookies allow HomeFinder.com to recognize you when you visit the Site, to personalize your experience and generally to serve you better. For example, if you enter your name, address or ZIP code on one of the Site's forms, it may be stored in a cookie so you do not have to enter it again on other forms on the Site. Cookies and web beacons can tell us what advertising you have seen on the Site, which allows HomeFinder.com to offer you a more diverse selection of advertising information and may also be used together to measure the effectiveness of HomeFinder.com advertising campaigns. Cookies, web beacons and IP addresses are also used to compile data regarding Site usage (what web site you came from, what pages of the Site you visit, how long you were on the Site, what type of browser you are using, what web site did you go to, etc.). Web beacons may also be included in emails sent by HomeFinder.com to determine when and if such emails are opened or forwarded. You may disable cookies or otherwise manage them through tools provided with your browser software and with third-party software packages. If you turn off cookies, many of the Site's features will not work as well or at all. Anonymous information regarding usage of the Site and services that is collected and/or aggregated by or on behalf of HomeFinder.com through the use of such technical means or otherwise is referred to in this Policy as " **Usage Data**."
 
@@ -68,7 +68,7 @@ If you would like more information about the information collection practices of
 
 Sell a Home Ads
 
-When purchasing a Sell a Home online classified listing (also referred to as a ' **Single Listing Package** ,' or ' **SLP** ,' or a ' **Sell Your Home Ad** '), it is important to note that any information you choose to include in a SLP may be made publicly available via the Site and other media in which HomeFinder.com listings are published, including third party web sites and print publications. For example, you may include a phone number and/or an email address to allow users to contact you regarding your SLP. As such, you may receive unsolicited phone calls and emails from third parties, even after your SLP is no longer on the Site. Except for required information, you should not include any contact or other information in a SLP that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your SLP account, you can use the interface available at [http://www.HomeFinder.com/realestate/sell](http://www.homefinder.com/realestate/sell). 
+When purchasing a Sell a Home online classified listing (also referred to as a� **Single Listing Package** or **SLP** , or a� **Sell Your Home Ad** �), it is important to note that any information you choose to include in a SLP may be made publicly available via the Site and other media in which HomeFinder.com listings are published, including third party web sites and print publications. For example, you may include a phone number and/or an email address to allow users to contact you regarding your SLP. As such, you may receive unsolicited phone calls and emails from third parties, even after your SLP is no longer on the Site. Except for required information, you should not include any contact or other information in a SLP that you do not want other parties to see or use. If you wish to access, verify the accuracy of, or change the personally identifiable information in your SLP account, you can use the interface available at [http://www.HomeFinder.com/realestate/sell](http://www.homefinder.com/realestate/sell). 
 
 Forums
 
@@ -117,6 +117,6 @@ If you have any questions about this Privacy Policy, please [contact us](http://
 
 Last updated on November 9, 2009
 
-[^ Back to Top](https://www.homefinder.com/company/privacy#top)  
+[^ Back to Top](http://www.homefinder.com/company/privacy#top)  
   
 ---|---
