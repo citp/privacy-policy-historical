@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warnerclassics.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213033628id_/http%3A//warnerclassics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warnerclassics.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012225145id_/http%3A//warnerclassics.com/privacy.php) for the most accurate reproduction.*
 
 # Warner Classics & Jazz > Privacy Policy
 
