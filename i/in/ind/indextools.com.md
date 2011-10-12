@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513122746id_/http%3A//info.yahoo.com/privacy/us/yahoo/webanalytics) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indextools.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012034757id_/http%3A//info.yahoo.com/privacy/us/yahoo/webanalytics) for the most accurate reproduction.*
 
 # Yahoo! Web Analytics
 
