@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626053838id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertymutual.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012083929id_/http%3A//www.libertymutualgroup.com/omapps/ContentServer%3Fpagename%3DLMGroup/Views/lmgDisclosure%26cid%3D1138362980102) for the most accurate reproduction.*
 
 # Liberty Mutual
 
