@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megapath.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218040700id_/http%3A//www.megapath.com/pdfs/privacy_policy_statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megapath.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012121953id_/http%3A//www.megapath.com/megapath/assets/File/PDF/Legal/privacy_policy_statement.pdf) for the most accurate reproduction.*
 
 # 
 
