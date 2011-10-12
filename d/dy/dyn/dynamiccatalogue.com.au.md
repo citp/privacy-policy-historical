@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dynamiccatalogue.com.au privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626114909id_/http%3A//dynamiccatalogue.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dynamiccatalogue.com.au privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012223309id_/http%3A//dynamiccatalogue.com.au/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -48,9 +48,9 @@ We restrict access to personal information to Lasoo employees, contractors and a
 
 Cookies are data that the Website transfers to your hard drive for record-keeping purposes. Cookies can facilitate your ongoing access to and use of the Website. They allow us to customise the Website to your needs, such as welcoming you back to the Website and remembering your preferences. If you do not want information collected through the use of Cookies, you can set your browser to disable acceptance of cookies. However, doing so will reduce the ability of Lasoo to provide its full range of services. It is recommended that you set your computer to allow our Cookies. Cookies do not provide Lasoo with any personally identifiable information.
 
-In some instances, u.lasoo.com.au uses third-party advertising companies to serve ads when you visit u.lasoo.com.au. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
+In some instances, Lasoo uses third-party advertising companies to serve ads when you visit Lasoo. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
 
-u.lasoo.com.au allows users to enable Google, as a third party vendor. As such, Google uses cookies to serve ads on u.lasoo.com.au. Google's use of the DART cookie enables it to serve ads to u.lasoo.com.au users based on their visit to u.lasoo.com.au sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Lasoo allows users to enable Google, as a third party vendor. As such, Google uses cookies to serve ads on Lasoo. Google's use of the DART cookie enables it to serve ads to Lasoo users based on their visit to Lasoo sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ## 7\. Access to information
 
