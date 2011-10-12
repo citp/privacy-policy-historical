@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ouramazingplanet.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214103514id_/http%3A//www.ouramazingplanet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ouramazingplanet.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012101000id_/http%3A//www.ouramazingplanet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OurAmazingPlanet
 
