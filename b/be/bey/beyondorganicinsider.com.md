@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyondorganicinsider.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603140116id_/http%3A//www.beyondorganicinsider.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyondorganicinsider.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012082218id_/http%3A//www.beyondorganicinsider.com/privacy.aspx) for the most accurate reproduction.*
 
 # Beyond Organic Insider - Products, Insider, Events
 
