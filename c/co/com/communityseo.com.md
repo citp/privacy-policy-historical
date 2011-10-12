@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the communityseo.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623024738id_/http%3A//www.thoughtmechanics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the communityseo.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012064639id_/http%3A//www.thoughtmechanics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,4 +43,5 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.  
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please call us at 317-340-0116 or send us an email at mike@thoughtmechanics.com.
+Should you have other questions or concerns about these privacy policies, please call us at 317-340-0116 or send us an email at mike@thoughtmechanics.com.  
+
