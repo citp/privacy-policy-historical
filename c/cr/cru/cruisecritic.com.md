@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612110623id_/http%3A//www.cruisecritic.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisecritic.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012204830id_/http%3A//www.cruisecritic.com/aboutus/%3FID%3D11) for the most accurate reproduction.*
 
 # CruiseCritic.com - About Us
 
