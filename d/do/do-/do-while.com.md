@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the do-while.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120185820id_/http%3A//do-while.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the do-while.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012164837id_/http%3A//do-while.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Do While
 
