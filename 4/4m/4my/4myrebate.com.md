@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4myrebate.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518155608id_/https%3A//4myrebate.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4myrebate.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012130735id_/https%3A//4myrebate.com/Home/Privacy) for the most accurate reproduction.*
 
 # Rebate Privacy Statement
 
@@ -14,13 +14,13 @@ Rebate Center
 PO Box 1339   
 Deerfield Beach, FL 33442 
 
-You can e-mail us at woot@help.4myrebate.com or reach us by phone at 800-286-9146. 
+You can e-mail us at customerservice@help.4myrebate.com or reach us by phone at 1-800-286-9146. 
 
 Rebate Center has developed relationships with our customers based on respect and integrity. We're aware of the of the trust and confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online. We promise that we will treat your information with the same honesty and sensitivity that we have displayed throughout our company's history. 
 
 We will never share your email address , phone number, personal or company information with any unrelated 3rd party except as necessary to fulfill transactions that you initiate. 
 
-If you have any questions or concerns about our Privacy Notice, please call us toll-free at 800-286-9146 or e-mail us at woot@help.4myrebate.com or send a letter to the above address. 
+If you have any questions or concerns about our Privacy Notice, please call us toll-free at 1-800-286-9146 or e-mail us at customerservice@help.4myrebate.com or send a letter to the above address. 
 
 ### Rebate Center Privacy Notice
 
