@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519073212id_/http%3A//www.gfusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012021150id_/http%3A//gfusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameen Foundation
 
