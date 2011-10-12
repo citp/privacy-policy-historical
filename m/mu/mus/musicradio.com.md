@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicradio.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430192625id_/http%3A//www.thisisglobal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicradio.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012044358id_/http%3A//www.thisisglobal.com/privacy-policy) for the most accurate reproduction.*
 
 # thisisglobal.com - Global Corporate | Radio, Publishing & Talent
 
