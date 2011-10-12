@@ -1,53 +1,45 @@
-> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527084952id_/http%3A//westcoastuniversity.edu/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D264) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westcoastuniversity.edu privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012133232id_/http%3A//www.westcoastuniversity.edu/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# West Coast University : Privacy Policy
+# Privacy Policy - West Coast University
 
-**   
-01\. Our Commitment to Privacy**
+West Coast University is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our many offerings.
 
-This and certain other linked web pages on servers owned by Acton Educational Services (otherwise noted as the “Sites”) are owned and operated by Acton Educational Services and West Coast University. Your privacy is very important to us. This privacy policy ("Privacy Policy") is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using the www.westcoastuniversity.edu site (the "Site"). For purposes of this Privacy Policy, the terms "www.westcoastuniversity.edu ", "we," "us," and "our" refer to Acton Educational Services and West Coast University, and all of its affiliates, and "you" refers to you, as a user of this Site.  
+### What personally identifiable information does West Coast University collect from me?
 
+West Coast University collects information in several ways from different parts of our websites. Some personal information is gathered if you register with us. During registration, West Coast University may ask for personal information such as your name, email address, gender, zip/postal code, occupation, industry and personal interests.
 
-**02\. Your Consent**
+In addition to registration, we may ask you for personal information at other times, including, (but not limited to), when you download a file (such as a .PDF file) from us, when you ask us to contact you, when you join our mailing list; and when you report a problem with one of our sites or services. If you contact West Coast University, we may keep a record of that correspondence. West Coast University may also occasionally ask users to complete surveys that we use for research. Wherever West Coast University collects personal information we make an effort to include a link to this Privacy Policy on that page.
 
-By using the Site, you consent to our collection and use of your personal information as described in this Privacy Policy. The Site's Privacy Policy applies to individuals who use the Site and we reserve the right to change this Privacy Policy, along with related procedures, at any time.
+### What are cookies and how does West Coast University use them? 
 
-**03\. Collection of User Information**
+As part of offering and providing customizable and personalized services, West Coast University may use cookies to store and sometimes track information about you. A cookie is a small amount of data that is sent to your browser from our web server and stored on your computer's hard drive.
 
-When you visit the Site you may provide us with two types of information: 1) personal information you knowingly choose to disclose that is collected on an individual basis; and 2) website use information collected as you browse our Site.
+Generally, we may use cookies to:  
+(1) Remind us of who you are and to access your information (stored on our computers) in order to deliver to you a better and more personalized service. For example, a cookie is set when you register or "Sign In" and is modified when you "Sign Out" of our services.  
+(2) Automate certain areas of the West Coast University websites or online forms.  
+(3) Estimate our audience size. Each browser accessing the West Coast University website is given a unique cookie which is then used to determine the extent of repeat usage, usage by a registered user versus by an unregistered user, and to help target advertisements based on user interests and behavior.  
+(4) Measure certain traffic patterns, which areas of the West Coast University website you have visited, and your visiting patterns in the aggregate. We use this research to understand how our users' habits are similar or different from one another so that we can make each new experience on the West Coast University website a better one. We may use this information to better personalize the content, and promotions that you and other users will see on our sites.
 
-  
+West Coast University also collects IP Addresses, browser information and other computer information to report aggregate information to our marketing department.
 
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Please refer to your browser's help page for further information about your options for controlling or monitoring cookies.
 
-> **(a) Personal Information.**
-> 
-> We may use your personal information for purposes of administering our business activities and providing you with information, updates, and service and product offers. The lists used to send you service and product offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our users' personal information. If you desire not to receive these commercial electronic communications from us you may click the link provided at the bottom of the emails or contact our privacy officer listed below. "Nonpublic Personal Information" is the information about you that is obtained by us in connection with providing you a financial service and/or product such as financing for the purchase of your mobile home. Nonpublic Personal Information may be collected by us from: (i) applications and/or other forms you provide to us and/or our affiliates to obtain financial services and/or products; (ii) information we collect resulting from your transactions with us or our affiliates; and (iii) consumer reporting agencies. Information we may collect includes, but is not limited to, your name, address, telephone number, social security number, employer, income, information about your transaction(s) with us or our affiliates, information we receive from consumer reporting agencies, public records and data collection agencies.
-> 
->   
->  **(b) Website Use Information**
-> 
-> Similar to other commercial websites, the Site may utilize a standard technology called "Cookies" and web server logs to collect information about how the Site is used. "Cookies" are small pieces of data that are stored by a user's web browser on the user's hard drive. Information gathered through Cookies and web server logs may include information such as the date and time of visits, the pages viewed, time spent at the Site, and the websites visited just before and just after the Site. This information assists us to design and arrange our web pages in the most user-friendly manner and to continually improve the Site to better meet the needs of our customers and prospective customers.
+### How does West Coast University use my information? 
 
-**04\. Disclosure of Information.**
+West Coast University's primary goal in collecting personal information is to provide you, the user, with a customized experience on our websites. This includes personalization services and interactive communications, which are completely free to you.
 
-Any communication or material you transmit to the Site, other than Nonpublic Personal Information, by electronic mail or otherwise, including any data, questions, comments or suggestions or the like is, and will be treated as, non-confidential and non-proprietary. Anything you transmit or post, other than Nonpublic Personal Information, becomes the property of wholesalemanufacturedhomes.com and may be used for any purpose, including, but not limited to, reproduction, disclosure, transmission, publication, broadcasting and posting. Nonpublic Personal Information we collect from you may be disclosed to provide and deliver services and/or products to you or to provide customer service and may be disclosed to the following parties: (i) affiliated companies, for example, wholesale, retail, finance, insurance, and other divisions of wholesalemanufacturedhomes.com; (ii) parties assisting in processing and servicing loan transactions, protecting against fraud and maintaining our software; (iii) nonaffiliated third parties permitted by law, for example, law enforcement, State insurance or other government officials; and/or (iv) parties with whom we have agreements to market financial products.
+West Coast University does research on our users' demographics, interests, and behavior based on the information provided to us upon registration, or from our server log files. We do this to better understand and serve our users. This research is compiled and analyzed on an aggregated basis.
 
-> **(a) Legally Compelled Disclosure of Information.** We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights.  
-> 
+### With whom does West Coast University share my information? 
 
-> **(b) Sharing Information with Marketing Partners.** We may disclose information to companies that perform marketing services on our behalf or to financial institutions with which we have joint marketing agreements.
+West Coast University will not disclose any of your personally identifiable information except when we have your permission. West Coast University may disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating West Coast University's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) West Coast University's rights or property, other West Coast University users, or anyone else that could be harmed by such activities. West Coast University may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain, service, and improve our products and services.
 
-**05\. Other Websites Linked to Our Site.**  
+West Coast University does not sell or rent user information to anyone. We will notify you at the time of data collection or transfer if your data will be shared with a third party and you will always have the option of not permitting the transfer. If you do not wish to allow your data to be shared, you can choose not to use a particular service or not to participate in certain promotions or contests.
 
-We are not responsible for the practices employed by websites linked to or from the Site nor the information or content contained therein. This remains true even when the linked site appears within the parameters or window or frame of the Site. Often links to other websites are provided solely as pointers to information on topics that may be useful to the users of the Site. When you use a link to go from the Site to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including websites which have a link to the Site, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding. We cannot and do not make any representations about the practices and policies of these other companies, and are not responsible in any way for how these companies use Cookies or any other information you provide to them.
+### What else should I know about my privacy? 
 
-**06\. Security.**
+Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in instant message or chat areas - that this information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
 
-We require users of the Site to enter a unique username and password each time a user accesses the Site. Users of the Site are responsible for maintaining the confidentiality and security of their login information. The Site takes reasonable precautions to protect your information. When our order forms and software tools prompt you to enter sensitive information (such as a credit card number), transmission of your information is encrypted through Secure Socket Layer (SSL) technology for server authentication and data encryption.
+Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, West Coast University cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
 
-**07\. Message Boards.** The message boards provided on the Site are free forums for the exchange of ideas and information within the Site community and are not intended to be used as a vehicle for advertising or mass e-mailing by the Site community. Users of the message boards are subject to the terms and conditions of all wholesalemanufacturedhomes.com terms of use agreements. Please use discretion whenever disclosing personal information on the message boards. While every reasonable effort will be made to monitor the content within the message board system, wholesalemanufacturedhomes.com reserves the right to edit, delete and modify postings in its sole discretion, it cannot and shall not be responsible for monitoring such message content. Wholesalemanufacturedhomes.com expressly disclaims all liability for information posted on such message boards. Wholesalemanufacturedhomes.com shall not be responsible for information posted by its Site users.
-
-**08\. Children's Privacy.** The Site is intended for adults only over the age of 18. The Site is not intended for the use of children. We do not knowingly market to, or solicit data from, children. In compliance with the Children’s Online Privacy Protection Act, 15 U.S.C., §§ 6501-06 and 16 C.F.R., §§ 312.1-312.12, our Sites do not permit children under 13 years of age to become users, and we do not collect information from children. By using our Sites, you represent that you are not under 13 years of age.
-
-**09\. Questions/Concerns.** If you would like to review, edit or delete any of the information we have collected from you, or if you have questions or concerns about this privacy policy, please send questions/concerns to: Email: or U.S. Mail: West Coast University, 4021 Rosewood Ave., Los Angeles, CA 90004.  
-
+Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online.
