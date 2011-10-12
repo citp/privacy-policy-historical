@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homesdatabase.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230202212id_/http%3A//www.homesdatabase.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesdatabase.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012085555id_/http%3A//www.homesdatabase.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# HomesDatabase - Home for Sale and Rent in DC, Maryland, Virginia, West Virginia, and Pennsylvania
+# Privacy Policy | HomesDatabase.com
 
 ## HomesDatabase.com
 
@@ -53,7 +53,7 @@ If you have any questions about our privacy practices or procedures, please feel
 or
 
 Metropolitan Regional Information Systems, Inc.
-    9707 Key West Ave., Suite 200
-    Rockville, MD 20850
+9707 Key West Ave., Suite 200
+Rockville, MD 20850
 
 We will promptly address your inquiry.
