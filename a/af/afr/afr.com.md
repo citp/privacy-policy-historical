@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afr.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219231017id_/http%3A//www.afr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afr.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012225832id_/http%3A//afr.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
