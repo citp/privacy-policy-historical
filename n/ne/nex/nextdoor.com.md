@@ -1,148 +1,61 @@
-> *The following text is extracted and transformed from the nextdoor.com privacy policy that was archived on 2001-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20010405185912id_/http%3A//www.nextdoor.com/aboutus/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextdoor.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013024959id_/https%3A//nextdoor.com/privacy_policy) for the most accurate reproduction.*
 
-# Nextdoor - Privacy Policy
+# Nextdoor Privacy Policy
 
-[](https://www.truste.org/validate/5761) Nextdoor Networks, Inc. ("Nextdoor") has created this Privacy Policy in order to demonstrate its firm commitment to privacy. The following policy is applicable to the Nextdoor's information collecting, use and disclosure practices for the Nextdoor website and co-branded versions of such website which Nextdoor has created with third parties. Please note that Nextdoor's website and co-branded sites contain links to other websites. Nextdoor is not responsible for the privacy practices or the content of such other websites.
+Welcome to Nextdoor.com. We understand how important privacy and security are to you and your neighbors. We invite you to read our policy and contact us if you have any questions or concerns. The effective date of this policy is July 8, 2011.
 
-Nextdoor is dedicated to providing visitors to the Nextoor website and co-branded versions of the Nextdoor website with a highly interactive and personalized experience, while at the same time protecting users from any unexpected use of personally identifiable information (your name, email address, regular mail address and telephone number). Like other companies, we collect information from users in order to deliver more individualized content and we sometimes call to your attention products, special offers and unique content we believe might be of interest to you. In each case, we do so only within the guidelines in this policy. Your use of this site tells us you have read and accept the practices outlined in this policy. 
+This policy is a part of the [Nextdoor member agreement](https://web.archive.org/member_agreement/), but it controls over any conflicts with that agreement. This statement only addresses our practices associated with the Nextdoor.com website. Other websites we operate may be subject to other policies and practices.
 
-Truste Licensee  
-Information collected and used by Nextdoor  
-How does Nextdoor use the information it collects?  
-Requests for Limousine Services and Housecleaning Services  
-Refer a Friend  
-Choice/Opt Out  
-Corrections/Updates  
-What about security?  
-Your Consent and Changes to the Privacy Policy  
-Contacting Us
+**Information You Provide to Us.**
 
-**TRUSTe Licensee**
+_Verification Process._ You can verify your residency by: (1) having a neighbor (who already has an account in the neighborhood) invite you to the neighborhood and then confirming your address, (2) providing us your name and street address (and email address, if we don’t already have it) and then providing us or a third party vendor with additional authenticating information that we request, or (3) other methods we may develop over time. If you do not confirm your email address, we may choose to restrict or terminate your account. We may choose to retain all verification-related information indefinitely to assist with future verifications, even if you do not complete the verification. If you decide not to verify the account and would like us to delete your non-public verification information, contact us at support@nextdoor.com.
 
-Nextdoor is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for Nextdoor.
+If we haven't built your neighborhood's website yet, you can ask us to notify you when we create a neighborhood where you live. We retain your request information indefinitely and use it to provide the requested notification and assist with your verification. If you change your mind about wanting to be notified, contact us at support@nextdoor.com.
 
-TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because Nextdoor wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of: What personally identifiable information of yours or third party personally identification is collected from you through the website; The organization collecting the information; How the information is used; With whom the information may be shared; What choices are available to you regarding collection, use and distribution of the information; The kind of security procedures that are in place to protect the loss, misuse or alteration of information under Nextdoor's control; and How you can correct any inaccuracies in the information.
+_Profile Information._ We allow you to create a personal profile and submit information such as your phone number, photo, occupation, family members, biography and personal interests. We may give you ways to hide some of this profile information, but your name and address may be visible to your neighbors so long as you maintain your account.
 
-If you have questions or concerns regarding this policy, you should first contact Nextdoor at info@Nextdoor.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe <http://www.truste.org/users/users_watchdog.html>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
+_Communications with Other Members._ We give you a variety of ways to communicate with your neighbors and share Content (as defined in the [member agreement](https://web.archive.org/member_agreement/)). Some of these communications are visible to the entire neighborhood, although we may give your neighbors ways to block your communications. Other communications (such as messages between you and another individual member) may be visible only to a subset of your neighbors. In some cases, we may limit your ability to edit or remove Content from Nextdoor.com.
 
-back to top
+_Third Party Offers._ We know that you do not want marketing from third parties just because you join a neighborhood website, so we do not turn over your personally identifiable information to third party marketers without your express consent.
 
-**Information collected and used by Nextdoor**
+In the future, we may create a section of the site to present offers for goods and services we think you'd like. If you decide to participate with an offer, you may be presented with an opportunity to share information with the merchant. If you accept the offer, then we'll send the information you requested to share with the merchant. We won't transmit information to the merchant until you explicitly ask us to so. At that point, the data we deliver to the merchant will be governed by the merchant's privacy policy, not ours.
 
-Nextdoor collects and uses information in the following ways:
+_Data Modification/Deletion._ You can delete your account by contacting us at support@nextdoor.com from the email address you used to create your account. Alternatively, you can delete most types of individual Content items. Deleting your account will delete all Content you provided, except that we may choose to retain Content incorporated into the neighborhood's conversations; and we may attribute that Content to your name even after you depart. If we allow you to change neighborhoods on our site, we may retain your conversation contributions in your old neighborhood (and keep the attribution to your name) but allow you to move your profile to your new neighborhood. If you are the subject of an unauthorized profile, please contact support@nextdoor.com.
 
-_Registration and Request for Service_
+**Information We Collect Automatically.**
 
-Registration is required in order to request or sell a service using the Nextdoor website or a co-branded version of the Nextdoor website. Service providers and persons who request services (collectively, "Users") must provide contact information when registering. At a minimum, service providers must provide their name, phone number, address, email address, a user name, a password, type of legal entity (e.g., company, individual, partnership, etc.), service area, method by which the service provider wants to receive leads, category of service provided and, as described below under Payment, credit card information. Persons requesting services must provide their name, email address, user name, password and service requirements (such as the type of service requested and the place of performance of the service). 
+_Server Logs._ We automatically collect information about your visits to our website and your interaction with our email, including the browser you are using, the URLs you came from and go to, your computer's operating system, your IP address, and usage and browsing habits. We use this information to diagnose and resolve server problems, analyze trends, help target offers and other ads, track user movement in the aggregate, and gather broad demographic information.
 
-As part of the registration process, service providers may create a service provider profile. The service provider profile will be pre-populated with the information provided during the registration process. In addition, the service provider may also, if it wishes, provide additional information in the profile, such as biographical information about the seller, accomplishments of the service provider, certifications of the service provider, awards received by the service provider and references. A person requesting services may view the service provider profiles of service providers who respond to any service request submitted by such requestor. Users also have the ability to view the service provider profile of any registered service provider by looking up the service provider's name. 
+_Cookies._ Like most websites, our website uses "cookies," small data files stored on your computer which include a unique identifier. Most web browsers automatically accept cookies. You can configure your browser to reject cookies, but doing so will prevent you from logging into our website.
 
-In general, the above-described information is used by Nextdoor to match service providers and persons requesting services and to provide a more personalized experience to Users. A User's contact information may also be used to contact the User under certain limited circumstances such as unusual account activity or for customer service purposes.
+_Web Beacons._ Our website and emails may contain "web beacons" that help us measure and track member activity. Some of these web beacons come from us; others come from our service providers.
 
-More particularly, when a person requesting a service submits a service request, the requestor's user name and information concerning the service request are forwarded to service providers who match the request (by category of service and zip code). The service provider can then respond to the request and if it does so, the service provider's response information, name and email address are forwarded to the requestor (the requestor will also be able to review the service provider's profile). If the requestor chooses to accept a response, he/she can contact the service provider in the manner he/she sees fit. Registration and service request information is stored on servers under our control and used to pre-populate service request forms on future visits to the Nextdoor website.
+**Information We Get About You From Third Parties.** To start the neighborhood, we obtain public information about your home such as street addresses and property lot maps. Your neighbors may provide us with, and share with your other neighbors, information about you (even if you are not a member), such as your name, email address, street address, phone numbers and other information typically found in neighborhood directories. If you aren't a member but would like us to delete non-public information about you, contact support@nextdoor.com.
 
-_Payment_
+**Respecting Your Neighbors' Privacy.** One of Nextdoor's central tenets is that neighbors should be able to communicate only amongst themselves. For this reason, we restrict who can access your neighborhood website and take efforts to exclude non-neighbors from the conversation. For example, we don't let public Web search engines (such as Google) index member-submitted Content.
 
-Service providers who register online must also provide their credit card information and billing address so that Nextdoor can charge them subscription fees for the Nextdoor service (the amount of the subscription fees are detailed on the Nextdoor website). Nextdoor or a third party billing entity with whom Nextdoor contracts will use such information to charge the selected subscription fee (annual or monthly) to the service provider.
+Given this norm, taking information shared by one neighbor to another and sharing it with someone who isn't in that neighborhood violates your neighbors' expectations and is a serious breach of trust. Therefore, you may not share your neighbors' information or any communications sent through Nextdoor with anyone outside the neighborhood without the author's permission. Also, you may not gather information from the website, either manually or on an automated basis (such as through scripts, robots, crawlers or spiders). Without limiting the foregoing, it is not OK to provide your neighbors' information from the website to third party marketers.
 
-_Member Review of Registered Service Providers and Persons Requesting Services_
+Violating this provision may lead to a loss of account privileges, potentially including a permanent ban from the neighborhood website.
 
-Nextdoor encourages Users to submit reviews rating their experience with registered service providers and persons requesting services. Users are asked to rate their experience with the registered service provider or service requestor, as well as enter a comment on their experience.
+**Email Subscriptions.** We will alert you of various activities within your neighborhood via email. You can manage your email preferences on your settings page. Certain member-related administrative emails cannot be turned off; the only way to end those is to terminate your account.
 
-Review information is freely available to all Users as follows: Responses are aggregated and reviewers' specific comments are also available for viewing (the user name of the person providing the comment is disclosed). The User who is the subject of the review is also given the opportunity to respond to the comment and any such response is also disclosed as part of the rating information.
+**Contractors/Service Providers.** Third party contractors may have access to our databases. These contractors sign a standard confidentiality agreement.
 
-All uses of the Nextdoor website (including the member review portion of the website) is subject to Nextdoor's Terms of Use.
+Some of our site's functionality may be operated by third party service providers, and in the course of providing this functionality, these service providers may obtain some of your personal data from you directly or transferred from us to facilitate your usage of this service. Usually we require these providers to use and disclose your personal data only as necessary to perform their services.
 
-_Feedback_
+If we choose to display ads, third party ad servers may place or recognize a cookie and, using the cookie or otherwise, collect and use data from your visits to this and other websites to serve ads to you.
 
-Users may provide feedback (e.g., input and suggestions) to Nextdoor regarding the Nextdoor website. Users providing feedback must provide their name and email address. Any contact information entered when providing feedback will only be used to acknowledge or respond to that feedback and will also be retained by Nextdoor for record keeping purposes.
+**Our "Corporate Family."** We may share your data with any parent company, subsidiaries, other entities under a common control or third party acquirers. We expect these other entities will honor this statement. Also, we may allow a potential acquirer or merger partner to review our database, although we would restrict their use and disclosure of this data during the diligence phase.
 
-If a User sends us personal correspondence, such as emails or letters, we will collect such information into a file for recordkeeping purposes.
+**Government Relations and Lawsuits.** We may disclose data about you to the government if we are required to do so or as we think is prudent for safety or security reasons; and you authorize us to make these disclosures. We may also disclose data about you in connection with actual or potential legal proceedings (a) in response to judicial or other government subpoenas, warrants or orders, (b) if we are required to do so in other ways, (c) if such disclosures might mitigate our liability, or (d) to enforce our rights.
 
-_Usage Tracking_
+**Limits on Our Abilities.** While we work hard to respect your privacy, like any other complex web service, we might inadvertently use or disclose your data in ways inconsistent with this statement. For example, a temporary software glitch could lead to public display of your personal data despite your contrary preferences. We might also make ad hoc uses of your data in ways not mentioned here. In these anomalous situations, we will try to rectify the anomaly as soon as we can.
 
-Nextdoor automatically tracks certain information from its Users. This information includes the URL that the User just came from, what browser the User is using, and the User's IP address. Many websites automatically collect this information.
+**Data Retention.** Subject to any mandatory obligations to delete data, we may choose to retain information in our server logs, our databases and our records indefinitely.
 
-We gather and use Users' IP addresses to help diagnose problems with our server, to administer our service and to help enhance your visit to this website.
+**Security.** To enhance the security of your interactions with the site, Nextdoor.com uses https on its web pages to prevent unauthorized interception of your communications during your site visits and takes measures to protect passwords from unauthorized access. We also use a variety of security measures to protect your information in our databases. However, perfect security does not exist on the Internet.
 
-_Cookies_
+**Amendment.** This privacy policy is part of the [Nextdoor member agreement](https://web.archive.org/member_agreement/) and can be modified in accordance with the amendment procedures described in that document.
 
-Nextdoor uses cookies on certain pages of its service (cookies are small files that your web browser places on your computer's hard drive). Cookies can help us personalize our website and provide information which is targeted to the individual user's interests. The User is always free to decline our cookies if his or her browser permits, although in that case our service would be largely unusable. Among other things, the User would be unable to submit service requests, to rate registered service providers and service requestors and to create a service provider profile.
-
-back to top
-
-**How does Nextdoor use the information it collects?**
-
-_Delivery of Content_
-
-Subject to the "Choice/Opt-out" section below, Nextdoor (and if you registered on a co-branded site, Nextdoor's co-brand associate) may use your registration and usage information to deliver content to you that Nextdoor (or its co-brand associate) thinks might interest you. This content will most often be delivered to you via email by Nextdoor (or its co-brand associate) or by one of Nextdoor's (or its co-brand associate's) authorized agents.
-
-Subject to the "choice/opt-out" section below, Nextdoor (and if you registered on a co-branded site, Nextdoor's co-brand associate) may also use your registration and usage information to communicate with you from time to time about changes and improvements to the Nextdoor or co-branded website or the Nextdoor or co-branded service, about sweepstakes or promotions conducted by Nextdoor or its co-branded associate, and about Nextdoor's [Terms of Use](https://web.archive.org/web/20010405185912id_/http%3A//www.nextdoor.com/aboutus/terms_use.jsp) and this Privacy Policy.
-
-Subject to the "choice/opt-out" section below, Nextdoor (and if you registered on a co-branded site, Nextdoor's co-brand associate) may permit its advertising and promotional associates to call to your attention products, special offers and unique content Nextdoor (or its co-brand associate) believes might be of interest to you. Nextdoor (and its co-brand associate) may also use this information to communicate with you or allow third parties to communicate with you about services and products offered by Nextdoor's (or its co-brand associate's) affiliates, advertisers and partners, and about other matters.
-
-Nextdoor (and if you registered on a co-branded site, Nextdoor's co-brand associate) may also provide aggregate statistics about its Users, sales, traffic patterns, and related information to selected third parties.
-
-_Co-Branded Sites and our Co-Branded Associates' Use of Information collected from such Sites_
-
-Nextdoor has entered into co-branding relationships with third parties and has developed co-branded versions of the Nextdoor site with third parties. If you have entered the Nextdoor network through such a co-branded site, the information that we collect will be subject to the terms of this privacy policy when used by Nextdoor, and the privacy policy of our co-branded associate when used by our associate.
-
-Pursuant to our agreements with our co-brand associates, we have agreed to provide substantially all information collected from users of the co-branded site to the relevant co-branded associate. Our co-branded associate's use of such information will be governed by the terms of its own privacy policy. Therefore, if you entered the Nextdoor network through a co-branded site, you should review the privacy policy of our co-branded associate in addition to this Privacy Policy to determine how information that you disclose will be used.
-
-_Disclaimers_
-
-Unfortunately, for reasons beyond our control, we cannot ensure that all of a User's private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Further, we can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. Therefore, although we believe we use industry standard practices to protect our Users' privacy, we do not promise that their personally identifiable information or private communications will never be disclosed.
-
-Our policy only addresses the use and disclosure of information we collect from Users. To the extent that Users disclose information to other parties, whether they are buyers or service providers on our system or other sites throughout the Internet, different rules may apply to the use or disclosure of such information. You should be aware that if you voluntarily disclose personally identifiable information (e.g., user name, e-mail address or other messages) on comment screens, in message boards or chat areas, or in any other manner that is intended for display on the Nextdoor website or access by other buyers and service providers, that information is available to other Users reading such postings, and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond Nextdoor's control.
-
-Finally, through the Nextdoor website, you may be introduced to, or be able to access, information or websites offered by other parties. Nextdoor expects its associates and affiliates to respect the privacy of Nextdoor's Users. However, such third parties may adhere to their own privacy customs and policies, and disregard ours. Since Nextdoor does not control the privacy policies of third parties, Users may be subject to the privacy customs and policies of those third parties. We encourage Users to ask questions before disclosing their personal information to others.
-
-back to top
-
-**Requests for Limousine Services and Housecleaning Services**
-
-Limousine Services
-
-Users who are interested in submitting requests for limousine services are directed to Limos.com (the Limos.com website is owned and operated by Xenefox Media Corporation, a wholly-owned subsidiary of Nextdoor). All information that is submitted on the Limos.com website is collected by Limos.com and the use of such information is governed by the privacy policy on that site.
-
-Housecleaning Services
-
-Users who are interested in submitting requests for housecleaning servcies are directed to perfectmaid.com (the perfectmaid.com website is owned and operated by Nextdoor). All information that is submitted on the perfectmaid.com website is collected by Nextdoor and the use of such information is governed by the privacy policy on that site.
-
-back to top
-
-**Refer a Friend**
-
-Each User has the option to refer friends to Nextdoor by accessing such User's "my account" page on the website and clicking on the "Refer a Friend" link. Users who want to refer their friends to Nextdoor simply forward the email addresses of their friends to Nextdoor. Such friends will then receive an email from Nextdoor telling them about the benefits of joining Nextdoor. Although Nextdoor stores such email addresses, unless the friend registers on Nextdoor as a user, the only use that is made by Nextdoor of such email addresses is to send the particular friends the above-described email message.
-
-back to top
-
-**Choice/Opt Out**
-
-The Nextdoor site (and co-branded versions of the Nextdoor site) provides Users with the opportunity to opt-out of receiving future e-mails regarding announcements, new feature notifications and special offers from Nextdoor Networks at time of registration. Subsequently, Users can at any time opt out of receiving such future emails by accessing the Feedback section of the website and sending an email to Nextdoor indicating this preference. In addition, emails that we send to our Users will provide such Users with the ability to opt-out of receiving future emails from Nextdoor. If a User elects the opt-out feature, Nextdoor will not use the information you provide to us to contact you regarding announcements, new feature notifications and special offers.
-
-back to top
-
-**Corrections/Updates**
-
-Each User has the option to correct or change its contact information or service provider profile by accessing such User's my Account page on the website and clicking on the "account info" or "service provider profile" link, as applicable.
-
-back to top
-
-**What about security?**
-
-Nextdoor is very much aware of Internet users' concerns about the privacy of their information. Nextdoor takes several security precautions to protect User information. User information is stored on servers protected by firewall, system-level and database-level security.
-
-There are concerns about giving out credit card information online and we take the security of user transactions very seriously. We use the latest Secure Socket Layer (SSL) technology to protect your credit card information. The SSL technology is the industry standard for transferring sensitive information over the internet. Only those employees of Nextdoor who require access to data concerning Users are granted access to the data (e.g., marketing product managers, system administrators, customer service representatives and engineering personnel). Access to User data by employees is further limited by being only available through a dedicated administrative interface and through use of a restricted userID and password and, in the case of credit card information, is encrypted in Nextdoor's database using a leading encryption technology. In addition, every employee of Nextdoor is required to sign Nextdoor's standard Nondisclosure and Developments Agreement that requires employees to keep User data confidential. The Company's internal web security policies are reviewed and revised on a regular basis.
-
-**Your Consent and Changes to the Privacy Policy**
-
-Users consent to the collection and use of their information as described herein. 
-
-If Nextdoor changes this Privacy Policy to alter the way in which it can use your personally identifiable information Nextdoor will notify you via email. You will have a choice as to whether or not we use your information in this different manner. In addition, if Nextdoor makes any material changes to this Privacy Policy that do not affect user information already stored in our database, we will post a prominent notice on our web site for a 30 business day period notifying users of the change. In some cases where Nextdoor posts the notice it may also email users, who have opted to receive communications from Nextdoor, notifying them of the changes in Nextdoor's privacy practices.
-
-**Contacting Us**
-
-If you have further questions regarding this policy, please send an e-mail to [info@Nextdoor.com](mailto:info@nextdoor.com). Alternatively, send Postal Mail to: Nextdoor Networks, Inc., 123 10th Street, San Francisco, CA 94103. 
-
-back to top
+**Contact Us.** Nextdoor.com, Inc., 110 Sutter Street, Suite 700, San Francisco, CA 94104. Phone: 415-236-0000. Fax: 415-344-0303. Email: privacy@nextdoor.com. 
