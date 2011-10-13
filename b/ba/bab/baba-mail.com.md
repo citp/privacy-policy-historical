@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baba-mail.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619034004id_/http%3A//baba-mail.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baba-mail.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013120903id_/http%3A//baba-mail.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
