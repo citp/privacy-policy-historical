@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windsorstore.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525032304id_/http%3A//www.windsorstore.com/help_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windsorstore.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013091902id_/http%3A//www.windsorstore.com/help_privacy.aspx) for the most accurate reproduction.*
 
 # Windsor: Customer Service: Privacy Policy
 
