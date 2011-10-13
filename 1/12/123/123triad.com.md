@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 123triad.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224104948id_/http%3A//www.123triad.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123triad.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013030622id_/http%3A//www.123triad.com/privacy_policy.php) for the most accurate reproduction.*
 
 # WEB DESIGN | WEBSITE DESIGN | WEBSITE COMPANY | WEBSITE HOSTING | WEB FIRM | WEBSITE DEVELOPMENT | BILINGUAL WEB DESIGN | WEBSITE COMPANY | GRAPHIC DESIGN FIRM | RALEIGH WEB DESIGN | WEBSITE BUSINESS | GRAPHIC DESIGN | WEB DESIGN FIRM
 
@@ -69,4 +69,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at **[support@123triad.com](mailto:support@123triad.com) ** or at **Privacy Matters c/o Triad Web Design., 3100 Spring Forest Rd, Suite 120, Raleigh NC 27616.**
+Should you have other questions or concerns about these privacy policies, please send us an email at **[support@123triad.com](mailto:support@123triad.com) ** or at **Privacy Matters c/o Triad Web Design., 3100 Spring Forest Rd, Suite 120, Raleigh NC 27616.
+
+[ ](http://www.truste.org/ivalidate.php?url=www.123triad.com&sealid=101)
+
+**
