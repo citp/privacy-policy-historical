@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acgov.org privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505074318id_/http%3A//www.acgov.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acgov.org privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013163724id_/http%3A//www.acgov.org/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - ACGOV.org - Alameda County's Official Website
 
