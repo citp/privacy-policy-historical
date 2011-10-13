@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608144815id_/http%3A//www.sophiasstyle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014013753id_/http%3A//www.sophiasstyle.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Sophias Style
 
@@ -59,3 +59,9 @@ We provide you with a number of choices regarding our handling of your personal 
 To opt-out of email, you can click on the unsubscribe link and hit send at the bottom of any SophiasStyle.com email communication. 
 
 **Note:** Once you have submitted your request you should assume that it has been successfully received and your request is being processed. Please allow us 10 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request. 
+
+**Contact Us**
+
+Sophias Style Boutique  
+14808 Shepard Street #100  
+Omaha, NE 68138 
