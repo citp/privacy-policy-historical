@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wowtcg.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531053927id_/http%3A//www.wowtcg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowtcg.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013233653id_/http%3A//www.wowtcg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Warcraft Trading Card Game
 
