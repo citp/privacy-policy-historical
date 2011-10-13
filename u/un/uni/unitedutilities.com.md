@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310195813id_/http%3A//www.unitedutilities.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedutilities.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013160806id_/http%3A//www.unitedutilities.com/Privacy.aspx) for the most accurate reproduction.*
 
 # United Utilities: Privacy
 
@@ -14,7 +14,7 @@ United Utilities is a group of companies which includes United Utilities Group P
   2. Information (including information on the services we provide you such as electricity, water usage and telecommunications, and about any monies you owe us) that you provide or that is obtained by United Utilities or kept in its customer records, will be shared within United Utilities to help us understand your relationship across the whole of United Utilities, and to effectively administer your overall relationship with us. We will also use this information for assessment and analysis (e.g. market, customer and product analysis) to enable us to review, develop and improve the services which we offer and to understand and select products and services which we think, from the information we have about you, will interest you. 
   3. We may also give information about you as follows: 
     * to employees and agents of the group to administer any accounts, products and services provided to your by the group now or in the future; 
-    * to collection agencies, lawyers, and local authorities to help us trace and collect debts on your accounts; 
+    * [to collection agencies, lawyers, and local authorities to help us trace and collect debts on your accounts](http://www.unitedutilities.com/personaldetails "How we manage your personal details"); 
     * to anyone to whom we transfer or may transfer our rights and duties under our agreement with you; 
     * if we have a duty to do so or if the law allows us to do so; 
     * to the police and other law enforcement agencies investigating criminal offences if we are satisfied of the circumstances surrounding the request.
