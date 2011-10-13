@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kibin.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630123528id_/http%3A//www.kibin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kibin.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013123207id_/https%3A//kibin.com/privacy.php) for the most accurate reproduction.*
 
-# kibin
+# Kibin - Your editing community
 
 Kibin (the "Company") wants you to understand how we collect, protect, and use your personally identifiable information ("your information") and the choices you have about how your information is used. This policy covers the information handling practices of the Company; however, certain departments and/or products within the Company may have more restrictive information handling practices.
 
