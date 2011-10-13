@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencenewsarticles.org privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212214613id_/http%3A//sciencenewsarticles.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencenewsarticles.org privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013231916id_/http%3A//sciencenewsarticles.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Science News Articles
 
