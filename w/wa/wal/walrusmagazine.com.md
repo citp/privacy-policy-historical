@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walrusmagazine.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527072034id_/http%3A//walrusmagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walrusmagazine.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014014512id_/http%3A//walrusmagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Walrus
 
