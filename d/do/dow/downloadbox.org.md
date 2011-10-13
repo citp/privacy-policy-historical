@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423215254id_/http%3A//downloadbox.org/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbox.org privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013152316id_/http%3A//downloadbox.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Download files, downloadbox.org
-
-**Privacy Policy**
+# Privacy Policy »
 
 _**Privacy Policy**_
 
