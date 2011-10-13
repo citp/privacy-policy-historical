@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dignaruto.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513050521id_/http%3A//www.dignaruto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dignaruto.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014001934id_/http%3A//www.dignaruto.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch Naruto Episodes Online
 
