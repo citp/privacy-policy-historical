@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2010-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101001101638id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fansedge.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013075732id_/http%3A//www.fansedge.com/Info/Privacy.aspx) for the most accurate reproduction.*
 
 # Security and Privacy
 
-Effective 12/01/2006  
+Effective 2/24/2011  
 Privacy Notice Table Of Contents:
 
   * Our Commitment To Privacy 
@@ -93,13 +93,15 @@ Finally, we never use or share the personally identifiable information provided 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site , customize Web page content based on visitors' browser type or other information that the visitor sends. All cookies in use are highly secure, and do not store highly sensitive information, such as your credit card number.
+We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, alert visitors to new areas that we think might be of interest to them when they return to our site, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. All cookies in use are highly secure, and do not store highly sensitive information, such as your credit card number.
+
+In addition, third party companies may be placing and reading cookies, or using web beacons to collect information, in the course of advertising or promoting their products on our website.
 
 **Our Commitment To Children's Privacy:**
 
 Protecting the privacy of the very young is especially important. For that reason, and to comply with the FTC, we never collect or maintain information at our website from those we actually know are at or under 13, and no part of our website is structured to attract anyone under 13. All our contests and promotions are only available to people 18 and over. 
 
-If you believe that an underage member of your family, or an underage person you are responsible for, has registered or made a purchase at our website, please contact our customer service immediately at 877-965-3955. 
+If you believe that an underage member of your family, or an underage person you are responsible for, has registered or made a purchase at our website, please contact our customer service immediately at  877-965-3955 . 
 
 We reserve the right to suspend or cancel any order we know or suspect was placed by an underage person. We reserve the right to require identification to prove that an order is from a person over 18.
 
@@ -109,13 +111,13 @@ You can access all your personally identifiable information that we collect onli
 
 You can change your FansEdge account information any time you like by going to [Access your account](https://web.archive.org/AccountMenu.aspx). From here you can click [ Log into account](https://web.archive.org/Login.aspx) and enter your email address and password. You can then access the Update My Account page and make changes to your information.
 
-If you do not have an account- for example, if you do not have an email address- you can correct factual errors in your personally identifiable information by calling us at 877-965-3955 or sending us a request to [ Service@CS.FansEdge.com](mailto:Service@CS.FansEdge.com) that credibly shows the error. 
+If you do not have an account — for example, if you do not have an email address — you can correct factual errors in your personally identifiable information by calling us at 877-965-3955 or sending us a request to [ Service@CS.FansEdge.com ](mailto:Service@CS.FansEdge.com) that credibly shows the error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
 **How To Contact Us**
 
-Should you have other questions or concerns about our privacy policy, please call us at _877-965-3955_ or send us an email at [ Service@CS.FansEdge.com](mailto:Service@CS.FansEdge.com) .
+Should you have other questions or concerns about our privacy policy, please call us at _877-965-3955_ or send us an email at [ Service@CS.FansEdge.com ](mailto:Service@CS.FansEdge.com) .
 
 For direct mail opt-out requests, please send a request by mail to:
 
