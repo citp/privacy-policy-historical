@@ -1,20 +1,18 @@
-> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyarticles.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013033050id_/http%3A//www.easyarticles.com/policy) for the most accurate reproduction.*
 
-# Free Articles for reprint - Website Content and Newsletter article directory
-
-## Privacy Policy
+# Privacy Policy - Easyarticles.com Privacy Policy - EasyArticles.com
 
 **EasyArticles.com Customer Internet Privacy Statement**
 
 Protecting your privacy is important to us. We hope the following statement will help you understand how EasyArticles.com collects, uses and safeguards the personal information you provide to us on our site.
 
-This policy applies only to the EasyArticles.com website and not to other websites to which EasyArticles.com is linked.
+This policy applies only to the EasyArticles.com website and not to other websites to which EasyArticles.com is linked. 
 
 **Collection of information**
 
 Users of the EasyArticles.com website may be asked for information when attempting to join to submit articles or when requesting an article be sent to them via email. It is necessary to retain registration information for all users who submit articles to the EasyArticles.com website, so that every author using our service may have their own account.
 
-We do not retain the email addresses of users requesting an article be sent to them via email.
+We do not retain the email addresses of users requesting an article be sent to them via email. 
 
 **Sharing and Use of information**
 
@@ -24,20 +22,20 @@ Information that we request for the purposes of registration is not used for adv
 
 Under no circumstances will EasyArticles.com sell or receive payment for licensing or disclosing your personal information.
 
-Any information contained within a submitted article will be publicly visible to anyone. If you intend to keep your personal information to yourself, please do not include information about yourself in any submitted article.
+Any information contained within a submitted article will be publicly visible to anyone. If you intend to keep your personal information to yourself, please do not include information about yourself in any submitted article. 
 
 **Use of Cookies**
 
-The EasyArticles.com website does not use or set cookies on a users computer. This statement may not reflect the practices of advertising partners EasyArticles.com chooses to partner with. 
+The EasyArticles.com website does not use or set cookies on a users computer. This statement may not reflect the practices of advertising partners EasyArticles.com chooses to partner with.
 
 **Security**
 
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 **Changes to this policy**
 
 We reserve the right to modify this Privacy Policy in the future. Any changes to our Privacy Policy will be published on this page, which is located at the following URL:
 
-<http://www.easyarticles.com/privacy.php>
+<http://www.easyarticles.com/policy/>
 
-Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/terms.php) and [Privacy Policy](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/privacy.php). Users who find our [Terms & Conditions](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/terms.php) and/or [Privacy Policy](https://web.archive.org/web/20110301011435id_/http%3A//www.easyarticles.com/privacy.php) disagreeable are not allowed to use the EasyArticles.com website.
+Registration and use of this website is accepted as an acknowledgement and agreement of our posted [Terms & Conditions](http://www.easyarticles.com/terms/) and [Privacy Policy](http://www.easyarticles.com/policy/). Users who find our [Terms & Conditions](http://www.easyarticles.com/terms/) and/or [Privacy Policy](http://www.easyarticles.com/policy/) disagreeable are not allowed to use the EasyArticles.com website.
