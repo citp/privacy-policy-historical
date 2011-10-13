@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125195356id_/http%3A//www.oag.state.tx.us/site_policy.shtml%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasattorneygeneral.gov privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013153232id_/https%3A//www.oag.state.tx.us/site_policy.shtml%23privacy) for the most accurate reproduction.*
 
 # Texas Attorney General
 
 ## Site Policies
 
-On this page you can find our office's Web site privacy and accessibility policies. You can also find ways to contact us if you have concerns about these policies or believe we have violated any of their terms. In addition we provide links from this page to our Open Records policy, our link policy and our Compact with Texans.
+On this page you can find our office's website privacy and accessibility policies. You can also find ways to contact us if you have concerns about these policies or believe we have violated any of their terms. In addition we provide links from this page to our Open Records policy, our link policy and our Compact with Texans.
 
 ### Privacy Policy
 
-Your privacy and security are important to us. We have tried to balance the interest of consumer privacy with the requirements of open government. We will continue to review our Web site to ensure that we are protecting your privacy as best we can under the law and will update our privacy policy whenever necessary to reflect any relevant changes to our site or our practices.
+Your privacy and security are important to us. We have tried to balance the interest of consumer privacy with the requirements of open government. We will continue to review our website to ensure that we are protecting your privacy as best we can under the law and will update our privacy policy whenever necessary to reflect any relevant changes to our site or our practices.
 
 **Notice**
 
-**Collection and use of personally identifiable information:** We do not collect any personally identifiable information, such as names, addresses, phone numbers or e-mail addresses, unless you choose to provide such information, for instance, in the form of an online complaint, as part of our child support interactive service, or to subscribe to our E-Presslist or our E-Opinions list. The information you submit to us in the form of an online complaint will be used by the Attorney General's staff to respond to your complaint and to fulfill our official duties. We do not use "cookies," which are pieces of data stored on the user's hard drive that can be used to track information about browsing habits during multiple visits to the site. If you access our child support interactive services or our website, we do, however, use "server log software" which allows us to collect the following limited navigational information to assist us in managing and improving our Web site: 
+**Collection and use of personally identifiable information:** We do not collect any personally identifiable information, such as names, addresses, phone numbers or email addresses, unless you choose to provide such information, for instance, in the form of an online complaint, as part of our child support interactive service, or to subscribe to our E-Presslist or our E-Opinions list. The information you submit to us in the form of an online complaint will be used by the Attorney General's staff to respond to your complaint and to fulfill our official duties. We do not use "cookies," which are pieces of data stored on the user's hard drive that can be used to track information about browsing habits during multiple visits to the site. If you access our child support interactive services or our website, we do, however, use "server log software" which allows us to collect the following limited navigational information to assist us in managing and improving our website: 
 
-  * Your Internet Service Provider. For instance, if you connect to our site using AOL, our system will know that someone using AOL connected to the site. However, your actual identity will not be known. We will not know any personally identifiable information about you, including your name and e-mail address.
-  * The date and time that our Web site was visited.
-  * The Web site from which you accessed our site. For instance, we will know if someone accessed our site through the National Association of Attorneys General Web site. Your personal identity, however, will not be known.
+  * Your Internet Service Provider. For instance, if you connect to our site using AOL, our system will know that someone using AOL connected to the site. However, your actual identity will not be known. We will not know any personally identifiable information about you, including your name and email address.
+  * The date and time that our website was visited.
+  * The website from which you accessed our site. For instance, we will know if someone accessed our site through the National Association of Attorneys General website. Your personal identity, however, will not be known.
 
 
 
-This information is used internally to help our staff count the number of people visiting our Web site and the various Web pages within our site. This information helps us to maintain and improve our Web site for our visitors.
+This information is used internally to help our staff count the number of people visiting our website and the various Web pages within our site. This information helps us to maintain and improve our website for our visitors.
 
 **Disclosure of information:** If you file an on-line complaint form or submit information though the child support interactive service, the information submitted will be disclosed to the Attorney General and his staff to assist us in fulfilling our official duties, as stated above. The information may also be sent to the person or company that is the subject of your complaint or to other governmental agencies involved in the administration or enforcement of the matter. The information will not be disclosed to third parties, unless we receive an open records request _and_ we are required to disclose the information under [the Public Information Act](https://web.archive.org/open/pia/piasign_oag.pdf). The rules regarding public disclosure of information we receive from online complaints are the same rules that apply to disclosure of information we receive when you file a paper complaint with our office. Any information you submit to us online will not be sold, rented or leased to third parties.
 
@@ -32,19 +32,23 @@ The only personal information we collect from you is information you choose to p
 
 **Access**
 
-If you have a question, concern or change regarding information you submitted online, please contact us at [public.information@oag.state.tx.us](mailto:consumerprotection@oag.state.tx.us). If you have a question, concern or change regarding information contained in or submitted via our child support interactive service, please contact us at [child.support@cs.oag.state.tx.us](mailto:child.support@cs.oag.state.tx.us.).
+If you have a question, concern or change regarding information in a consumer complaint form that was submitted online, please contact us at [consumerprotection@oag.state.tx.us](mailto:consumerprotection@oag.state.tx.us). If you have a question, concern or change regarding information contained in or submitted via our child support interactive service, please contact us at [child.support@cs.oag.state.tx.us](mailto:child.support@cs.oag.state.tx.us.).
 
 **Security**
 
-We use a secure socket layer (SSL) and a security certificate to enhance the security of any information you choose to submit to us through our Web site. In other areas of our Web site, we provide only the security necessary to maintain our Web site and information we provide to you as part of our child support interactive services.
+We use a secure socket layer (SSL) and a security certificate to enhance the security of any information you choose to submit to us through our website. In other areas of our website, we provide only the security necessary to maintain our website and information we provide to you as part of our child support interactive services.
+
+### Website Link Policy
+
+The Office of the Attorney General's website complies with the [Texas Department of Information Resources State Website Link Policy](http://www.dir.state.tx.us/standards/link_policy.htm), which contains guidelines and information on linking to State agency websites. Our website also includes links to a variety of other public and private websites. These external sites have been selected based on the relevance of their content to assist visitors in locating additional resources and information on government, law, and other matters within the scope of the agency's duties or of general public concern. Some links to external sites are required by law to be included on our site. The Office of the Attorney General does not assume responsibility for the content of linked sites and does not endorse the content, products, services or viewpoints expressed or provided by linked sites.
 
 ### Accessibility Policy
 
-The Office of the Attorney General is committed to making its Web site accessible to all users. We welcome comments and suggestions to improve the accessibility of our Web site. Please visit the [Electronic and Information Resources Accessibility Policy and Procedures Manual](https://web.archive.org/notice/accessibility_policy.pdf).
+The Office of the Attorney General is committed to making its website accessible to all users. We welcome comments and suggestions to improve the accessibility of our website. Please visit the [Electronic and Information Resources Accessibility Policy and Procedures Manual](https://web.archive.org/notice/accessibility_policy.pdf).
 
-If you use assistive technology and the format of any material on our Web site interferes with your ability to access the information, please contact our Webmaster by e-mail at [**webmaster@oag.state.tx.us**](mailto:webmaster@oag.state.tx.us?subject=Regarding%20Accessibility "Webmaster").
+If you use assistive technology and the format of any material on our website interferes with your ability to access the information, please contact our Webmaster by email at [**webmaster@oag.state.tx.us**](mailto:webmaster@oag.state.tx.us?subject=Regarding%20Accessibility "Webmaster").
 
-To enable us to respond in the most helpful way, please indicate the nature of the accessibility problem, the preferred format in which to receive the material, the Web address of the requested material, and your contact information. Every attempt will be made to resolve the problem; however, due to technological resource limitations we may be unable to address all issues. You may contact our Accessibility Coordinator by sending an e-mail with "Regarding Accessibility" in the subject line to [**public.information@oag.state.tx.us**](mailto:public.information@oag.state.tx.us?subject=Regarding%20Accessibility "Accessibility Coordinator"), or by calling 512-463-2009.
+To enable us to respond in the most helpful way, please indicate the nature of the accessibility problem, the preferred format in which to receive the material, the Web address of the requested material, and your contact information. Every attempt will be made to resolve the problem; however, due to technological resource limitations we may be unable to address all issues. You may contact our Accessibility Coordinator by sending an email with "Regarding Accessibility" in the subject line to [**public.information@oag.state.tx.us**](mailto:public.information@oag.state.tx.us?subject=Regarding%20Accessibility "Accessibility Coordinator"), or by calling 512-475-4413.
 
 Additional information on accessibility programs in Texas is available from the Governor's Committee on People with Disabilities at [**www.governor.state.tx.us/disabilities/**](http://www.governor.state.tx.us/disabilities/).
 
