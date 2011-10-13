@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyefi.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615043443id_/http%3A//support.eye.fi/what-is-the-eye-fi-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyefi.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013041159id_/http%3A//support.eye.fi/what-is-the-eye-fi-privacy-policy) for the most accurate reproduction.*
 
 # What is the Eye-Fi Privacy Policy ? | Support
 
@@ -6,7 +6,7 @@
   
 Print
 
-Last Revised April 1, 2011 
+Last Revised August 15, 2011 
 
 ## Introduction
 
@@ -31,6 +31,8 @@ It is a violation of our terms of service for anyone under 13 to use the Eye-Fi 
 ## How Your Personal Information is Used and Shared
 
 Some Eye-Fi services are executed through third party business partners and service providers, and in these cases your personal information is shared with the third party business partner or service provider in order to fulfill the requested service. 
+
+From time to time, Eye-Fi may enter into relationships with strategic business partners to produce product offerings that are “co-branded” with the brands of both Eye-Fi and such strategic business partner. In those cases, if you purchase a co-branded product offering, Eye-Fi may share your personal information with the applicable third-party business partner in order to facilitate that business partner’s provision of support services, warranty services, or other elements of the co-branded product offering or related aftermarket services to you. For example, if Eye-Fi’s business partner is responsible for providing end-user support for the co-branded product in a given geographic territory, Eye-Fi may share your account information, support entitlement status, and other relevant personal information with such business partner to allow the business partner’s support personnel to provide support services to you.
 
 When you use Eye-Fi to share your content with a third party website or to email your content to your friends, Eye-Fi will use your personal information to fulfill the requested services.  
 Eye-Fi also uses your personal information to provide you with personalized content, to respond to your inquiries, to maintain and improve the Eye-Fi services, to alert you to new features or promotions, and to enforce the End User License Agreement and Terms of Service (called the “Terms of Service”).
