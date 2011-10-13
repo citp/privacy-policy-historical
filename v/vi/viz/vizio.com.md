@@ -1,43 +1,55 @@
-> *The following text is extracted and transformed from the vizio.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513163838id_/http%3A//www.vizio.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizio.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013092120id_/http%3A//www.vizio.com/privacy) for the most accurate reproduction.*
 
-# Vizio Inc. - Privacy Policy
+# Privacy Policy | VIZIO
 
-VIZIO.com is the Web site of VIZIO, Inc., a high definition digital television solutions company. We hope you enjoy your visit. In order to better serve your needs and enhance your overall shopping experience at VIZIO.com, we collect certain information about you when you visit us.
+**Privacy Policy of VIZIO, Inc.**
 
-## How We Protect Your Information
+### Introduction:
 
-We employ the latest encryption and security technology and fraud detection techniques in all areas where you provide us with personal or account information. This is done to protect you from unauthorized use of the information you are sending to our server. To make sure you have the latest security features on your browser, download and install the latest version of your favorite browser, Microsoft Internet Explorer or Netscape Communicator. For privacy purposes, once you give us any information relating to you, it is stored on a highly secure server that is not accessible via the Internet. 
+VIZIO, Inc. ("VIZIO") respects your privacy. This Privacy Policy applies to all of our web sites, our products, services as well as that portion of the VIZIO Internet Apps® ("V.I.A.") Services controlled by VIZIO (collectively "VIZIO Products and Services"). This Privacy Policy statement explains what information we collect, how we collect the information, how we protect the information and how we use or disclose that information. Information is collected whenever you interact with VIZIO, such as when you visit our website, when you purchase or register VIZIO products and services, or when you contact our sales or technical/customer support representatives or obtain warranty service. Your privacy is a priority at VIZIO, and we take responsible measures to protect it.
 
-## What Information Do We Collect and How Do We Use It?
+VIZIO's web sites may contain links to other web sites. V.I.A. Services allow you to access third party data servers from certain VIZIO HDTVs, Blu-ray players or from other similarly enabled products. This Privacy Statement does not apply to the practices of any company or individual that VIZIO does not control or any web sites or V.I.A. Services that you access from the VIZIO products. You should use caution and review the privacy policies of any web sites, services or third party providers of V.I.A. Services that you visit from VIZIO's web site or VIZIO products to learn more about their information practices, which may be significantly different from VIZIO's.
 
-When you visit our Web site, our server automatically recognizes your Internet Protocol address (IP address) or domain name. In order to enhance our Web site, we may track the way our visitors and customers are using the site. Personal information, such as your name and e-mail address, is not included in this analysis. Unless you provide it, we do not collect or know your name or e-mail address. We do not follow your browsing path outside of the VIZIO.com network. 
+Please take the time to read this Privacy Policy. By accessing VIZIO Products and Services, you agree to accept the terms and conditions of this Privacy Policy and are aware that this policy may change over time.
 
-In addition, like most other e-commerce Web sites, our site uses "cookies" (small files placed temporarily in your Internet browser) to keep track of your stay at our Web site. The text in a cookie, by itself, only tells us that you have visited our site before. When you place an order, request a catalog, or participate in a promotion or contest, we ask you to provide information including your name, postal address, e-mail address and, in the case of product orders, credit card number. Except to verify credit card information to complete your order, we do not use or release any credit card or financial information for any purpose. 
+### What information we collect:
 
-If you provide us with your postal address, e-mail address or telephone number, you may receive our catalog or other promotional mailings, e-mails or telephone calls. If you receive an e-mail from us that you would rather not receive, simply follow the unsubscribe instructions set forth at the bottom of each e-mail. If you do not wish to receive our catalog, or other promotional materials, please write to us at the following address: 
+When you interact with VIZIO, we may collect personal information relevant to the situation, such as your name, mailing address, phone number, email address, and contact preferences; your credit card information and information about the VIZIO products you own, such as their serial numbers and date of purchase; and information relating to a support or service issue - the "Personally Identifiable Information". For example, we collect Personally Identifiable Information when you register a VIZIO product, access certain V.I.A. Services, contact us for warranty service or customer or technical support, enter a sweepstakes or participate in promotions and giveaways. From time to time in the future, we may offer additional products, features, services and promotional opportunities that would require you to submit Personally Identifiable Information to VIZIO in order to participate.
 
-VIZIO, Inc.  
-Attention: Do Not Mail  
-39 Tesla  
-Irvine, CA 92618  
+We also collect "Anonymous Information" such as your IP address on certain VIZIO products, your ZIP code, the hardware and firmware version of your V.I.A. Services capable HDTV, the V.I.A. Services you visit, the identity of your broadcast television provider, program, time and channel data, the data, services or products you request or purchase, the advertisements that you click and the number and frequency of users of VIZIO products and V.I.A. Services. We also collect information regarding customer activities on our websites, V.I.A. Services, and the VIZIO's Internet Store. Anonymous Information will not be associated with Personally Identifiable Information.
 
+VIZIO also uses "cookies" to collect information when you visit VIZIO's web site. A cookie is a small data file that VIZIO transfers to your computer and is stored on your hard drive. Cookies are used by thousands of web sites in order to enhance the web site experience. When you visit VIZIO's web sites, the cookie identifies your computer to us so that you do not have to re-register each time you visit. We also use cookies to measure the traffic to our site and its different services and features, as well as other uses.
 
-We will be happy to respect your request not to participate in our direct marketing programs. To further ensure that your request is handled accurately, please include a copy of any catalog labels you may have received with your request. Make sure to contact us for each address you have left with us. You may also use the above address for any of the following catalog mailing services: 
+VIZIO recognizes that parents, guardians, or other adults often purchase our products for family use, including use by minors. We will not knowingly collect personal information from children under 13 for any purposes nor will we knowingly accept registration from them, but because some information is collected electronically, it can appear to be the personal information of the VIZIO purchaser of the product, and will be treated as such by this privacy policy. If a child under 13 submits personal information to VIZIO and we learn that that personal information is the information of a child under 13, we will attempt to delete the information as soon as possible or take any other measures required under applicable law.
 
-  * To eliminate duplicate catalogs 
-  * To take your name off our catalog mailing list 
-  * To update your name and address we will use when we mail you catalogs (If you're moving, please indicate when the new address will be in effect.) 
+### How we use the information we collect:
 
+We use Personally Identifiable Information that you provide us for such purposes as responding to your requests for information, products or services, customizing the advertising and content you see, and communicating with you about VIZIO Products and Services or our other offerings. For example, if you sign up for our email newsletter, we will send the newsletter to the email address you provided. We will also use Personally Identifiable Information to send you information about products and services that may be of interest to you. However, we may also initiate communications for other reasons including the abovementioned purposes using the Personally Identifiable Information in VIZIO's possession. You will always have the opportunity to "opt out" by unsubscribing or otherwise decline to receive further communications. Later on in this Privacy Statement, we provide you with more information on how to view, modify or remove your Personally Identifiable Information.
 
+We use Anonymous Information to determine how people use the VIZIO Products and Services. For example, this data tells us information including how often users click on our advertisements, which files are downloaded most frequently, and which V.I.A. Services are the most popular. Analyzing this data allows us to improve the offerings on and performance of VIZIO Products and Services.
 
-## Links
+### How we share information:
 
-Our site sometimes contains links to other sites not within the VIZIO.com network. VIZIO.com and VIZIO, Inc. are not responsible for the privacy practices or the content of such Web sites.
+We work with third parties in connection with V.I.A. Services and with some aspects of the VIZIO Products and Services, such as delivering content, processing payments and providing warranty or marketing assistance. These companies may help us process information, extend credit, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services, or conduct customer research or satisfaction surveys. Without such information being made available, it would be difficult for you to purchase products, have products delivered to you, receive customer service, provide us feedback to improve our products and services, or access certain services, offers, and content on the VIZIO website. When we supply Personally Identifiable Information to these third parties, we require them to use it only for the function or purpose for which they are working with VIZIO.
 
-## Consent
+We aggregate the Anonymous Information that we collect and exchange it with advertisers and other partners who are interested in the use and performance of the VIZIO Products and Services. We share this Anonymous Information so that our partners also may provide you with an optimal user experience and better understand how users access the VIZIO Products and Services.
 
-By using our Web site, you consent to the collection and use of this information by VIZIO, Inc. as described in this Policy. If we change our privacy policy we will post any change on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
+We will disclose Personally Identifiable Information as required by law, or if in our judgment it is necessary to protect VIZIO or our employees or users from harm, loss or liability. If we merge with or are acquired by another company or we sell substantially all of our assets, the acquirer or resulting company will receive and may continue to use the information you have provided as described in this Privacy Policy.
 
-## Notice to Parents
+### How we protect information:
 
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their personal Information while using the Internet. 
+VIZIO will maintain the confidentiality of the Personally Identifiable Information that it collects. VIZIO maintains internal practices that help protect the security and confidentiality of Personally Identifiable Information by, among other things, limiting employee access to and use of this information. When you provide VIZIO with information such as credit card numbers over the Internet, we encrypt your transmissions using SSL ("Secure Sockets Layer"), and other security technology. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and employ other security measures designed to prevent intrusion or unauthorized access.
+
+How you can access or remove your Personally Identifiable Information:
+
+If you desire access to view, correct or remove your own Personally Identifiable Information, please contact us using the contact information provided on www.vizio.com. If you request removal of Personally Identifiable Information, you acknowledge that residual Personally Identifiable Information may continue to reside in VIZIO's records and archives, but VIZIO will not use that Personally Identifiable Information for commercial purposes. VIZIO reserves the right to maintain your Personally Identifiable Information if VIZIO has suspended, limited, or terminated your access to the VIZIO web site or V.I.A. Services for violating any applicable Terms of Use or the VIZIO Internet Apps Software License Agreement.
+
+### Postings:
+
+Where applicable, if you post user comments or engage in similar activity, please remember that anything you post may be publicly available. In other words, publicly displayed information is public. Portions of your user profile may also be available to other users of or visitors to our websites. Any such submissions to VIZIO will be public and will not be considered private information and not Personally Identifiable Information or Anonymous Information. We do not control, and are not responsible for, the actions of other users of the VIZIO web site with respect to any information you post. In addition, information that you post may be collected and used by others to send you unsolicited messages and for other purposes.
+
+Changes to this Privacy Statement:
+
+As VIZIO's business changes and grows, so will this Privacy Policy. Please check back periodically for additions and changes. VIZIO may make changes to this Privacy Policy from time to time, for any reason and without notification. Use of information in VIZIO's possession is subject to the Privacy Statement in effect at the time such information is used. The latest version of VIZIO's Privacy Policy will be available at [http://www.vizio.com/privacy](https://web.archive.org/privacy). You will be bound by any changes to the Privacy Policy when you use VIZIO Products and Services following the posted change in the Privacy Policy.
+
+**Effective Date** : The Effective Date of this Privacy Statement is May, 2011.
