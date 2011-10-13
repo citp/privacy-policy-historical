@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hrvinet.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313111857id_/http%3A//www.hrvinet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hrvinet.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013135158id_/http%3A//www.hrvinet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Management knowledge
 
