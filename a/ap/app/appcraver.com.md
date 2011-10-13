@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222170439id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appcraver.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014010502id_/http%3A//www.appcraver.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - iPhone Applications AppCraver
+# Privacy Statement - iPhone Applications
 
 For the purposes of this privacy statement, the terms “we”, “us”, “our” and “Appcraver.com” refer to the iPhone Application site AppCraver.com. The terms “You” and “End-User” refer to You as a user of this Site.
 
