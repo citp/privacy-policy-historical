@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageuppeople.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612055006id_/http%3A//www.pageuppeople.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageuppeople.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013203212id_/http%3A//pageuppeople.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy - PageUp People
 
@@ -66,4 +66,4 @@ Personal Information stored on behalf of clients is treated in the same manner a
 
 ## Contact us 
 
-[Click here to go to the contacts page.](https://web.archive.org/web/20110612055006id_/http%3A//www.pageuppeople.com/contact.htm)
+[Click here to go to the contacts page.](https://web.archive.org/web/20111013203212id_/http%3A//pageuppeople.com/contact.htm)
