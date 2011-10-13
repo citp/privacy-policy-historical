@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611222358id_/http%3A//www.totalrl.com/info/content.php%3Ffeatcat_id%3D54) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013034505id_/http%3A//www.totalrl.com/info/content.php%3Ffeatcat_id%3D54) for the most accurate reproduction.*
 
 # TotalRL.com - Privacy Policy
 
