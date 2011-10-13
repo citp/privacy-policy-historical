@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rightsignature.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128101917id_/https%3A//rightsignature.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightsignature.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013111107id_/https%3A//rightsignature.com/privacy) for the most accurate reproduction.*
 
 # RightSignature | Privacy
 
@@ -14,23 +14,3 @@ RightSignature analyzes its website logs to continually re-evaluate the site con
 
 **Use of Cookies**  
 RightSignature uses cookies to simplify user login and account management. These cookies will not be sold, rented, loaned, or otherwise disclosed.
-
-**RS | Santa Barbara**
-
-1921 State St.  
-Santa Barbara  
-California  
-USA
-
-+1.800.921.4250
-
-[support@rightsignature.com](mailto:support@rightsignature.com)
-
-**RS | London**
-
-Albany House #404  
-324/326 Regent Street  
-London W1B 3HH  
-United Kingdom
-
-[uk@rightsignature.com](mailto:support@rightsignature.com)
