@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003133425id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartridgesave.co.uk privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013052130id_/http%3A//www.cartridgesave.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Cartridge Save
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -24,8 +24,8 @@ We may use technology to track the patterns of behaviour of visitors to our site
 
 We will not send any unsolicited commercial email (also known as spam) to personal email addresses and all marketing emails will include details of how to opt-out / unsubscribe.
 
-  1. Cartridge SAVE
-  2. Roland Road
-  3. Stockport, SK5 6TJ, UK
+  * Cartridge Save
+  * Roland Road
+  * Stockport, SK5 6TJ, UK
 
 
