@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogswag.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613201250id_/http%3A//www.blogswag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogswag.com privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013101449id_/http%3A//www.blogswag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
