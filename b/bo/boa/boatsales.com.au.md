@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422172010id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boatsales.com.au privacy policy that was archived on 2011-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111013051350id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Boatsales Privacy Policy - boatsales.com.au
 
