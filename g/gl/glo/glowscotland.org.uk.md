@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glowscotland.org.uk privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402092616id_/http%3A//www.ltscotland.org.uk/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glowscotland.org.uk privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015012015id_/http%3A//www.ltscotland.org.uk/privacystatement) for the most accurate reproduction.*
 
 # Privacy statement - Learning and Teaching Scotland
 
