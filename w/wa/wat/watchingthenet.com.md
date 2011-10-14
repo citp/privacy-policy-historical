@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchingthenet.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820061821id_/http%3A//www.watchingthenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchingthenet.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014124526id_/http%3A//www.watchingthenet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,5 +18,5 @@ We cannot ensure that your private communications and other personal information
 You can direct any questions concerning these terms to:
 
 _Mike Boyd  
-Founder - Watching The Net_  
+Founder – Watching The Net_  
 _wtn (( **at** )) watchingthenet (( **dot** )) com_
