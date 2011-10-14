@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the creationwatches.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218203715id_/http%3A//www.creationwatches.com/products/index.php%3Fmain_page%3Dinfopages%26pages_id%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationwatches.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014164320id_/http%3A//www.creationwatches.com/products/index.php%3Fmain_page%3Dinfopages%26pages_id%3D16) for the most accurate reproduction.*
 
-# Privacy Policy : Buy Watch Online, Citizen Casio Seiko Mens Womens watches online at low prices at CreationWatches.Com
+# Privacy Policy :
 
 **Your personal data & privacy**
 
@@ -21,7 +21,7 @@ We comply with standard principles of data protection, that is to say the data m
 
 **Registration**
 
-Registration on CreationWatches.Com is optional. A user can shop without going through the registration process by clicking on the 'Buy Now' Express checkout button. If the user choses to checkout by using the shopping cart steps, an account will be automatically  created for the user using which the user can avail of some of the features (e.g. view order history).   
+Registration on CreationWatches.Com is optional. A user can shop without going through the registration process by clicking on the 'Buy Now' Express checkout button. If the user choses to checkout by using the shopping cart steps, an account will be automatically created for the user using which the user can avail of some of the features (e.g. view order history).   
 
 
 **Order**
@@ -44,7 +44,7 @@ We partner with another party to provide specific services. When the user signs 
 
  **Links**
 
-This web site contains links to other sites. Please be aware that?CreationWatches.Com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. 
+This web site contains links to other sites. Please be aware that CreationWatches.Com is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. 
 
 **Newsletter**
 
