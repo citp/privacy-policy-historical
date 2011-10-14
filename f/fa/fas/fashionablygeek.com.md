@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionablygeek.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519063644id_/http%3A//fashionablygeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionablygeek.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014084435id_/http%3A//fashionablygeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,7 +36,7 @@ If you wish to disable cookies, you can do so through your browser options menu.
 
 **Traffic Reports** :
 
-Like all websites, we utilize log files and third-party providers like [Google Analytics](http://www.google.com/analytics/), [Quantcast](http://www.quantcast.com/) and [Sitemeter](http://www.sitemeter.com/) to collect and analyze traffic statistics using information like IP addresses, browsers,  ISPs, date of access, time spent on the site, pages accessed and links clicked. This information is not shared with anyone and does not contain any data that personally identifies the visitor.
+Like all websites, we utilize log files and third-party providers like [Google Analytics](http://www.google.com/analytics/), [Quantcast](http://www.quantcast.com/) and [Sitemeter](http://www.sitemeter.com/) to collect and analyze traffic statistics using information like IP addresses, browsers,Â  ISPs, date of access, time spent on the site, pages accessed and links clicked. This information is not shared with anyone and does not contain any data that personally identifies the visitor.
 
 **Comments:**
 
