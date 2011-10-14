@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2008-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080720133832id_/http%3A//www.localwineevents.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localwineevents.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014165639id_/http%3A//www.localwineevents.com/about/privacy) for the most accurate reproduction.*
 
-# LocalWineEvents.com Privacy Policy
+# Our Privacy Policy: LocalWineEvents.com : Wine, Food, Beer, Or Spirits
 
-**Privacy Policy for LocalWineEvents.com**
+## Our Privacy Policy
 
-**Effetive Date:** 2/9/2007 
+### Effetive Date: 2/9/2007
 
 Our Policy. 
 
-LocalWineEvents.com respects and understands its website users’ concerns about confidentiality and privacy, and we take reasonable steps to ensure that any information you give us is handled in a safe and responsible manner. Because of our respect and understanding, we have developed this Privacy Policy which discloses the privacy practices of LocalWineEvents.com and describes the information we collect about you during your use of our site and what use we may make of that information. 
+LocalWineEvents.com respects and understands its website users' concerns about confidentiality and privacy, and we take reasonable steps to ensure that any information you give us is handled in a safe and responsible manner. Because of our respect and understanding, we have developed this Privacy Policy which discloses the privacy practices of LocalWineEvents.com and describes the information we collect about you during your use of our site and what use we may make of that information. 
 
-It is important to remember that by using our site, you agree to the terms of this Privacy Policy. We suggest that you refer to this Privacy Policy on a regular basis as it may change, at any time at LocalWineEvents.com’s sole discretion, in order to allow us to take advantage of any technological advances or for business purposes or legal reasons. 
+It is important to remember that by using our site, you agree to the terms of this Privacy Policy. We suggest that you refer to this Privacy Policy on a regular basis as it may change, at any time at LocalWineEvents.com's sole discretion, in order to allow us to take advantage of any technological advances or for business purposes or legal reasons. 
 
 Information That We May Collect. 
 
@@ -20,7 +20,7 @@ In the course of using our site, we may also automatically track certain informa
 
 Our Use of Your Information. 
 
-We internally use personally identifiable information to improve our goods and services, to statistically analyze site usage, to improve our content, to customize our site’s content and layout and for other customer service purposes. We believe these uses allow us to improve our site and better tailor it to meet our users’ needs. We may also disclose or use personally identifiable information to investigate and respond to any violations of our website Terms of Use. 
+We internally use personally identifiable information to improve our goods and services, to statistically analyze site usage, to improve our content, to customize our site's content and layout and for other customer service purposes. We believe these uses allow us to improve our site and better tailor it to meet our users' needs. We may also disclose or use personally identifiable information to investigate and respond to any violations of our website Terms of Use. 
 
 We do not sell, lend or rent any personally identifiable information about you to any third parties outside of LocalWineEvents.com, its parent, affiliates, subsidiaries, authorized agents and service providers, operating companies and other related entities. We only disclose information to third parties when it is reasonably necessary in order to allow us to provide information, goods or services that have been requested by users. 
 
