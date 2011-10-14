@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628195904id_/http%3A//www.nascar.com/guides/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nascar.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014223452id_/http%3A//www.nascar.com/guides/privacy/index.html) for the most accurate reproduction.*
 
 # NASCAR.COM
 
