@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107121933id_/https%3A//www.thesslstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesslstore.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014061013id_/https%3A//www.thesslstore.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy: TheSSL Store.com Read our Privacy Policy
 
