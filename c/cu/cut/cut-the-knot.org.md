@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513031048id_/http%3A//www.cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cut-the-knot.org privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014081310id_/http%3A//www.cut-the-knot.org/Privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
