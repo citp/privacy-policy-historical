@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livenationent.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226113207id_/http%3A//www.houseofblues.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livenationent.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014220950id_/http%3A//www.houseofblues.com/support/privacy) for the most accurate reproduction.*
 
 # House of Blues | Privacy Policy
 
