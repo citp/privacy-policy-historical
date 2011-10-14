@@ -1,35 +1,35 @@
-> *The following text is extracted and transformed from the nationalguard.com privacy policy that was archived on 2002-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021013121809id_/http%3A//your.com/privstmt.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalguard.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014182540id_/http%3A//www.nationalguard.com/privacy) for the most accurate reproduction.*
 
-# Your.com - Your license to find anything on the web
+# Privacy Policy | NATIONAL GUARD
 
-DigiMedia.com, L.P. has created this privacy policy in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site, Your.com (the "Web Site"). DigiMedia.com, L.P. and Your.com are collectively referred to in this Privacy Policy as "DigiMedia". 
+The Army National Guard Recruiting Web site is provided as a public service by the Army National Guard, Strength Maintenance Division.
 
-**Use of IP Information**
+Information presented on the Army National Guard Recruiting Web site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. Certain photos and/or artwork (where credited) remain the property of the copyright owner and may not be reproduced, except by permission.
 
-DigiMedia uses your IP address to analyze trends, track user movement, help diagnose problems with our server, and to administer the Web Site. Your IP address is also used to help identify you and to gather broad demographic information for aggregate use. 
+Unauthorized attempts to upload or change information on this Web site are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act. This government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-We use cookies to deliver content specific to your interests and for other purposes. A cookie is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+For site management, information is collected for statistical purposes. This computer system uses software programs to create summary statistics, which are used for such purposes as assessing what information is of the most and least interest, determining technical design specifications, detecting broken links and identifying system performance or problem areas.
 
-**Links to Other Sites; Outside/Third Party Advertisers**  
-The Web Site contains links to other sites neither owned nor operated by DigiMedia. As such, DigiMedia is not responsible for the privacy practices or the content of such web sites. DigiMedia encourages our users to be aware when they leave our site and to read the privacy policies of each and every web site that collects personally identifiable information. This privacy policy applies solely to information collected by this Web site.   
-In addition to its own advertisements, DigiMedia uses partners and other third parties to display advertisements on the Web Site. These partner or third party ads may contain cookies. While we use cookies in other parts of the Web Site, cookies received with banner ads or hyperlink advertisements are collected by those partners and third party advertisers, and we do not have access to this information. 
+Our privacy policy explains how we intend to use any information you provide to us. You can access our public Web site home page and browse our site without disclosing your personal data. Providing information on this site is voluntary and will only be used for the benefit of users who want more information about the Army National Guard.
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. DigiMedia utilizes a variety of security measures to maintain the safety of the information collected at the web site. All information is contained behind a "firewall" and only accessible by a limited number of employees who have special access rights to production systems. If you have any questions about security, please contact security@Your.com.
+The information requested on this Web site is collected in accordance with Section 503 of Title 10, United States Code, and may be only used to identify, contact and process individuals interested in applying for enlistment or commissions in the Army National Guard. Disclosure is voluntary. Declining to provide the information may result in not being contacted by a recruiter, although you may receive recruiting materials in the future. Declining to provide the information may make certain other optional features unavailable, such as "Email this page to a friend" and "GuardCard." Any information provided is protected from unauthorized disclosure by the Privacy Act of 1974.
 
-**Personally Identifiable Information**  
-As of April 25, 2001, we do not collect any personally identifiable information from any user. 
+This site is not intended for pre-teenagers and we do not encourage its use by young children. We realize children may not understand all the provisions of our policy. We urge all parents to teach their children about protecting their personal information while online.
 
-**Notification of Changes**  
-If we decide to change our privacy policy, we will post those changes on the Web Site's Homepage so users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
+You may ask that any information collected about you be removed from our files by writing us at [webmaster@nationalguard.com](mailto:webmaster@nationalguard.com). You must supply your email address to help us locate that information to purge.
 
-**Contacting the Web Site**  
-If you have any questions about this privacy policy, the practices of this site, or your dealings with the Web Site, you can contact DigiMedia at the following address. 
+For site navigation purposes only, cookies are used in a limited manner. Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard, and many major Web sites use them to provide useful features for their customers. We only use cookies that are not kept after you exit your Web browser. Most browsers are initially set up to accept cookies. If you disable this feature, you might not be able to navigate around this Web site.
 
-DigiMedia.com, L.P.  
-Attn: Your.com  
-P.O. Box 750237  
-Duncan, OK 73575   
-help@Your.com 
+This site makes chat rooms, forums, message boards and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal identifiable information.
 
-[PLEASE REVIEW OUR USER AGREEMENT.](https://web.archive.org/web/20021013121809id_/http%3A//your.com/useragmt.html)
+### Link Disclaimer
+
+The appearance of hyperlinks does not constitute endorsement by the Army National Guard of this Web site or the information, products or services contained therein. Such links are provided consistent with the stated purpose of this DoD Web site.
+
+### Section 508 Compliance Statement
+
+Section 508 of the Rehabilitation Act Amendments, as amended by the Workforce Investment Act of 1998, requires that when Federal agencies develop, procure, maintain or use electronic and information technology, they shall ensure that the electronic and information technology allows Federal employees with disabilities to have access to and use of information and data that is comparable to the access to, and use of, information and data by Federal employees who are not individuals with disabilities, unless an undue burden would be imposed on the agency. Section 508 also requires that individuals with disabilities, who are members of the public seeking information or services from a Federal agency, have access to and use of information and data that is comparable to that provided to the public who are not individuals with disabilities.
+
+### Problems, Comments or Questions
+
+If you experience any problems with this Web site or if you have any comments or suggestions, please email: [webmaster@nationalguard.com.](mailto:webmaster@nationalguard.com) 
