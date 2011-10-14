@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504034740id_/http%3A//www.jaspersoft.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaspersoft.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014143112id_/http%3A//www.jaspersoft.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
