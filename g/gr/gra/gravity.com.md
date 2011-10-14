@@ -1,89 +1,99 @@
-> *The following text is extracted and transformed from the gravity.com privacy policy that was archived on 2010-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100221142242id_/http%3A//www.gravity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gravity.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014222301id_/http%3A//www.gravity.com/privacy) for the most accurate reproduction.*
 
-# Gravity | Privacy Policy
+# Gravity.com
 
-Effective as of December 15, 2009.
+Last update on April 19, 2011. 
 
-We built Gravity to make it easy for you to share your thoughts and ideas with the world. Gravity gives you a voice on the web by making it easy for you to express yourself and your opinions by participating in conversations that you care about. We invite you to share your thoughts and ideas and urge you to always be respectful of others when expressing your point of view.
+Gravity's mission is to build the internet's Interest Graph and enable amazing, personalized experiences anywhere on the web without compromising each person's right to privacy. 
 
-Gravity's Privacy Policy is designed to help you understand how Project Rover, Inc. ( **we** or **us** ) collects and uses the personal and other information you decide to share, and to help you make informed decisions when using the current and future products and services offered by us through gravity.com and any of our Partner Sites ( **Gravity** or the **Service** ). Our business is based upon the collection of user contributed content, user information, and user activity information via the Service in order to allow us and our partners to deliver customized content, relevant metrics, and advertising. As we add new Services, we will notify users of supplementary privacy notices applicable to such services. 
+Our business is based upon the collection and use of anonymous Interest Data (as defined below) via partner websites in order to allow publishers, advertisers, and other content providers to deliver content, media and advertising that is relevant and meaningful to their users. Your interests may be used anonymously to influence which types of content or advertisements are displayed to you across partner sites that we work with. You may choose not to participate by opting out of our service. 
 
-We process all of your information under this Privacy Policy. The controller of each **Gravity Site** (as defined in Section 1) may also process such information in accordance with their own privacy policy, which we encourage you to read. Where a Partner Site (as defined in Section 1) uses our Services, we require them to accurately describe the practices and purposes of their information collection, use, and sharing.
+This privacy policy is intended to inform you about our collection, use, and disclosure of information that is processed by the Gravity's Interest Graph services and applications. 
 
-**Opting Out.** If you decide at any time that you no longer wish us to use or share your information as described in this policy, you may adjust your account settings to prevent some such use or sharing and you always have the right to cancel your account with us. 
-
-## Information Collection & Use
-
-When you visit and interact with gravity.com or a third-party website that offers our Services and includes a link to this privacy policy (each, a **Partner Site** ) (gravity.com and Partner Sites, each a **Gravity Site** ), you provide us with three types of information: Content (as defined in the [Gravity Terms of Service](https://web.archive.org/terms)); personal information including your IP address and other personal information that you purposely disclose or that you authorize to be disclosed on your behalf ( **Personal Information** ); and Measured Data (as defined in this Section 1).
-
-**User Contributed Content.** We will receive any Content you contribute to a Gravity Site, including but not limited to text, messages, posts, html, URLs, images, video and other rich media content, that you knowingly submit. The Content you contribute provides the basis for the Service we provide; we present this information back to you when you access the Service and to other users of Gravity. We collect and retain this Content so that we can provide you the Service and offer personalized features. 
-
-**Personal Information.**
-
-  * **Registration Information.** In order to access certain functionality of the Service, you will be required to become a registered user. When you register with us at a Gravity Site, we collect your name, email address, user name, location, IP address, age, and gender, as well as any other personal or preference information that you choose to provide. If you submit your credentials (e.g., username and password) for a third-party website (e.g., Facebook or Twitter) during your registration for the Gravity Service, Gravity will receive such information, as well as any other information that is made available by such third-party website. We may occasionally use your name and email address to send you notifications regarding new services offered by Gravity that we think you may find valuable. We may send you service-related announcements from time to time through the general operation of the Service. For instance, if a user invites you to a conversation or sends you a new message, you may receive an email alerting you to that fact. Generally, you may opt out of such emails from the Notifications page on gravity.com, though we reserve the right to send you important notices about your account even if you opt out of all voluntary email notifications. 
-  * **Profile Information.** Once you are a registered user, you may add additional information to your profile. Providing additional profile information beyond what is required at registration is entirely optional, but enables you to be discovered and understood by other users in the Gravity universe. Profile Information you can add includes but is not limited to your telephone number, your address, a personal web site, your bio, schools you attended as well as any personal or preference information that you choose to provide. We present this information back to you when you access the Service and to other users of Gravity. You can adjust what information is presented back to you and other Gravity users by adding and removing content from your profile or by adjusting the settings in your Gravity profile. 
-  * **Invite a Friend.** If you choose to use our invitation service to invite a friend to a conversation or to tell a friend about Gravity, we will ask you for information needed to send the invitation, such as your friend's email address. We will use such information to send your friend(s) an email and reminder e-mails in your name inviting him or her to visit gravity.com, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may unsubscribe through the link provided with such correspondence, which will prevent your friend from receiving further correspondence, but we may retain your friend's information in our database. 
-  * **Contacting us through a Gravity Site.** If you contact us by email through the site, we may keep a record of your contact information and correspondence and will use your email and correspondence if we decide to respond to you.
+  
 
 
+##  Overview of Our Services 
 
-**Measured Data.** When you visit a Gravity Site, we collect measured data, which includes but is not limited to clickstream data such as your IP address, browser type, domain from which you are visiting, web pages that you have viewed, groups that you form, join, or view, groups and other web pages to which you post, events you set up or join, time of access, searches made on the applicable website, advertisements on which you click, and other statistics ( **Measured Data** ). 
+We collect non-personally identifiable information regarding the behavior and usage patterns of users on web sites that use our services. In this policy, we refer to this non-personally identifiable information, together with other non-personally identifiable information that we obtain from third parties, as "Interest Data." Interest Data is anonymous and does not include personally identifiable information such as your name, email address or phone number. We process Interest Data to create Interest Graphs (an online representation of your interests) for users based upon their behaviors and preferences. We give our customers a limited right to use users' Interest Graphs in order to understand their users better and/or deliver personalized experiences (e.g., content, advertising) to their users based on their interests. 
 
-We use your user contributed Content, Personal Information, and Measured Dataóand the combination thereofóto provide, maintain, and improve our Services, to better understand how you interact with Gravity, to provide personalized features of the Service, to monitor your use and aggregate users' use of Gravity, to administer your inquiries, and to enforce our (or our partners' or users') rights. As one example, as you use a Gravity Site, your profile may be automatically updated to reflect your use of such site including which conversations you participate in, which worlds, topics and users you orbit, your expertise, and other actions you take.
+If you create an account directly with Gravity we may collect volunteered personally identifiable information such as your name, email, password, or social identity (e.g., Facebook). Unless you explicitly consent to do so, we will not associate your Interest Graph with any such personally identifiable information. We will not share any personally identifiable information without first obtaining consent unless required by law. 
 
-We also use your user contributed Content, Measured Data, and the aggregated Personal Information of the members of Gravity or a specific group, demographic, or world within Gravity ñ and any combination of such information ñ to deliver custom content and advertising that may be of interest to you. For example, if you orbit a world focused on video games, we might serve you customized content or an advertisement highlighting a new game release, but we don't tell the gaming company who you are. We may also use Personal Information and Measured Data to search on you to collect additional information about you from third-party sources, such as newspapers, blogs, instant messaging services, social networks, and other websites.
-
-## 2\. Use of Cookies and Analytics Services
-
-We use various technologies to collect your information including persistent and session cookies, web beacons, our analytics technology, and third-party analytics services. A session cookie enables certain features of the Service and is deleted from your computer when you browse to another website. A persistent cookie remains after you close your browser and may be used by your browser during subsequent uses of the Service. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. We also use our own analytics technology, Google Analytics, and other third-party analytics packages to collect, monitor and analyze the information described in Section 1 in order to increase Gravity's functionality and user-friendliness, to better tailor it to our visitors' needs, and to understand and analyze how you are using Gravity.
-
-## 3\. Information Sharing
-
-Content you provide through Gravity (which includes Partner Sites) and Personal Information on your profile is accessible by other Gravity users. You understand that any such Content and Personal Information you contribute will be accessible by any visitors to Gravity, and you post such Content and information at your own risk. We only share information with other companies or individuals outside of Gravity as follows:
-
-  * **Partner Sites.** We share Measured Data with Partner Sites through which we collected such information for their own use as described in Section 1, above, and with other business partners so that they may deliver advertising and other content that may be of interest to you
-  * **Service Providers.** We may provide information to our subsidiaries, affiliated companies, and service providers to perform functions and provide services to us, including, without limitation, hosting and maintenance, database storage and management, and payment processing. We will share your Content, Personal Information, and Measured Data with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your information. We also share your information with Google as necessary to receive the Google Analytics service. Google has its own [privacy policy](http://www.google.com/privacy.html) addressing the information that is collected to provide the Google Analytics service and how Google uses such information.
-  * **Aggregated Information.** We may also aggregate or anonymize your user contributed Content, Personal Information, and Measured Data, or a combination of such information, and then share it with third parties and business partners in efforts to deliver customized content and advertising that may be of interest to you. This includes aggregating information with respect to all users or activity on Gravity (which includes Partner Sites), as well aggregating information of users or activity that make up a particular group, world, or other portion of Gravity. Examples include the number of users who searched for a particular term, how many users clicked on a particular advertisement, or the number of users of a certain gender that make up a specific group. Such information does not identify you individually.
-  * **User Contributed Content, Personal Information, & Measured Data.** We also share your user contributed Content, Personal Information, and Measured Data with other users to help the Gravity community understand how you are using Gravity and your knowledge level or expertise with respect to a world or subject. For example, we may share with other Gravity users your postings and our conclusions and characterizations of you based on such postings, as well as the worlds, conversations, and individuals you are orbiting.
-  * **Compliance with Law.** We have a good faith belief that access, use, preservation, or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process, or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations or breaches thereof, (c) detect, prevent, or otherwise address fraud, security, or technical issues, or (d) protect against harm to our rights, property or safety, or such harm to the users of Gravity or the public as required or permitted by law.
-  * **Business Transfers.** We may sell, transfer or otherwise share some or all of our assets, including your user contributed Content, Personal Information, and Measured Data in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
+  
 
 
+##  Collection of Interest Data 
 
-## 4\. International Transfer
+We use non-personally identifiable means, including "cookies" and "pixel tags," to collect and store Interest Data. 
 
-Your information may be transferred to ó and maintained on ó computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States, your use of a Gravity Site serves as your consent to transfer your information to the United States for processing.
+Cookies are small text files that contain a string of characters and uniquely identify a browser. They are sent to a computer by web site operators or third parties. Most browsers are initially set up to accept cookies. You may, however, be able to change your browser settings to cause your browser to refuse third-party cookies or to indicate when a third-party cookie is being sent. Check your browser's "Help" files to learn more about handling cookies on your browser. 
 
-## 5\. Changing or Removing Information
+Pixel tags are small strings of code that provide a method for delivering a graphic image on a web page or other document. Pixel tags allow the operator of the web page or other document, or a third party who serves the pixel tag, to set, read, and modify cookies on, and to transfer other data to, the browser used to view the web page or other document. Pixel tags may also be used to obtain information about the computer being used to view that web page or other document. The entity that sends the tag can view the IP address of the computer that the tag is sent to, the time it was sent, the user's operating system and browser type, and similar information. 
 
-When you use our Services, we make good faith efforts to provide you with access to your Personal Information. You may access your account settings online, through which you may correct your Personal Information if it is inaccurate or delete such information if it is not otherwise required to be retained by law or for legitimate business purposes. When you update, change, or delete your information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.
+We use information collected at various times and by pixel tags and cookies placed on web sites in order to collect Interest Data. We may also obtain Interest Data from third-party sources, and may combine it with other Interest Data that we have collected. The Interest Data that we collect from users includes the contents of pages of the web sites that a user visits and other click-stream data, none of which includes personal information about the user. In addition, we may collect information about the users' web browser or operating system. 
 
-If you want to delete your account, please contact us [here](mailto:support@gravity.com?subject=Account%20Deactivation). We may retain an archived copy of your records for legitimate legal or business purposes.
+  
 
-## 6\. Links
 
-Gravity may contain links to other websites. We are of course not responsible for the privacy practices of other websites (including but not limited to Partner Sites or websites linked on Partner Sites or gravity.com). We encourage our users to be aware when they are not on gravity.com to read the privacy statements of each and every website that collects personally identifiable information. This Privacy Policy applies solely to the use of the information we collect.
+##  Use of Interest Data 
 
-## 7\. Security
+We analyze Interest Data collected from various sources and at different times in order to build user Interest Graphs. All Interest Data has a limited lifetime, and naturally decays over time. 
 
-We employ a variety of measures designed to protect your information from unauthorized access but they may not be reasonable or applicable under the circumstances and, in any case, no security measures can be guaranteed to protect your data. When you enter a credit card number or sign on with your password, we encrypt that information using secure socket layer technology (SSL). Internally, we restrict access to Personal Information to Gravity employees, contractors and agents for whom knowing that information would be helpful in order to operate, develop, or improve our services and who agree to keep it confidential.
+We are aware of the sensitivity of certain types of Interest Data. We do not intentionally collect or retain Interest Data that we consider sensitive. We presently treat Interest Data as sensitive if it includes data reflecting a user having any medical or health condition; certain aspects of a user's personal life or financial situation; or use of, or interest in, gambling, alcoholic beverages, or "adult" products or services. We may update from time to time the types of Interest Data that we consider sensitive. 
 
-## 8\. Changes to our Privacy Policy
+  
 
-The issue of privacy is an evolving one and we often offer new products and services. We are committed to the regular monitoring and examination of our privacy practices, and may, from time to time, institute changes to our Privacy Policy. In the event that any material changes are made to our privacy practices, we will promptly revise this Privacy Policy to disclose the changes. We encourage you to refer to this policy on an ongoing basis so that you understand our current Privacy Policy.
 
-## 9\. Children's Privacy
+##  Disclosure of Interest Data 
 
-We are very sensitive to the issue of children's privacy.
+We disclose Interest Data, and information derived from Interest Data, to our customers in the ordinary course of our business. We provide our customers with access to Interest Data through our applications and API. 
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register to use our Services. If you are under 13, please do not attempt to register for our Services or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any Personal information to Gravity. We do not intentionally partner with sites directed to children under 13. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
+For example, we may determine that a user is interested in baseball because the user frequently reads baseball articles on web pages that are operated or controlled by a customer. Our customer may use this information to recommend baseball content to the user or target them with appropriate advertisements. We do not authorize our customers to resell or sublicense Interest Data to third parties. Please note that our customers have their own data retention policies. 
 
-We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.
+We may share Interest Data with third-party service providers (e.g., data storage and processing facilities) in order for those service providers to perform business functions for us or on our behalf. We may also disclose Interest Data if we believe that we have a legal obligation to do so. In addition, information in our possession or control, including Interest Data, may be disclosed in connection with any merger, acquisition, debt financing, sale of company assets, or other business transaction in which data could be transferred to third parties as one of our business assets. 
 
-## 10\. Phishing
+  
 
-Identity theft and the practice currently known as phishing are of great concern to us. We do not and will not, at any time, request your credit card information, your account ID, login password, or national identification numbers in a non-secure or unsolicited e-mail or telephone communication. For more information about phishing, visit the Federal Trade Commission's website.
 
-## 11\. Contacting Gravity
+##  Opting Out of the Services 
 
-For more information, or if you have questions or concerns regarding our Privacy Policy, please contact us [here](mailto:privacy@gravity.com), or by mail at Privacy, Project Rover, Inc., PO Box 1438, Venice, CA 90294.
+We provide multiple ways for you to opt out of our services. 
+
+We make available a Gravity "opt-out" cookie that you may download to your browser. This cookie, when installed on your browser, will prevent us from collecting Interest Data on that browser. You can learn more about our opt-out cookie [here](https://web.archive.org/optout). 
+
+Additionally, you may prevent us from collecting Interest Data on a browser by blocking third-party cookies in that browser and deleting any existing Gravity cookies. If you block third-party cookies from being set on your browser, you may not be able to enjoy some features or functionality of, and you may see the same content and advertisements repeatedly on, some Web sites. 
+
+  
+
+
+##  Reporting 
+
+We may provide reports to our customers that contain Interest Data. Our customers may use these reports to determine information about their users and for other purposes. These reports are prepared by aggregating Interest Data on the web sites on which it is collected. To prepare our reports, we maintain log files. Our reports and log files do not include any personally identifiable information about users. 
+
+  
+
+
+##  Children 
+
+We do not intentionally collect Interest Data from children under 13 years of age. 
+
+  
+
+
+##  Data Security 
+
+We employ a variety of security measures designed to protect Interest Data from unauthorized access, use or sharing, but no security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any Interest Data or other information. 
+
+  
+
+
+##  Updates to This Policy 
+
+We may update this policy from time to time. When we do, we will also revise the "last updated" date at the beginning of the policy. We encourage you to review this policy periodically to stay informed about how we collect, use, and disclose Interest Data. 
+
+  
+
+
+##  Contacting Us 
+
+You can contact us regarding privacy issues by emailing [privacy@gravity.com](mailto:privacy@gravity.com) or by mail at Gravity Privacy, P.O. Box 1804, Santa Monica, CA 90406. 
