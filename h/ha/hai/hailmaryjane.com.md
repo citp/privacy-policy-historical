@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523052757id_/http%3A//hailmaryjane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hailmaryjane.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014084541id_/http%3A//hailmaryjane.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Hail Mary Jane
 
@@ -11,7 +11,7 @@ Montclair, NJ 07042
 We can be reached via e-mail at [sportfiends@gmail.com](mailto:sportfiends@gmail.com "mailto:sportfiends@gmail.com")  
 or you can reach us by telephone at 281-630-7865
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes the consumer’s domain name and e-mail address (where possible).
 
 We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board.
 
@@ -47,4 +47,4 @@ Upon request we offer visitors no ability to have factual inaccuracies corrected
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
