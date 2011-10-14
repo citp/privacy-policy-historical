@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the icravefreebies.com privacy policy that was archived on 2011-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110203063351id_/http%3A//www.icravefreebies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icravefreebies.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015011056id_/http%3A//www.icravefreebies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « I Crave Freebies
+
+November 8, 2009 · [Leave a Comment](http://www.icravefreebies.com/privacy-policy/#respond "Comment on Privacy Policy")  
+
 
 This privacy policy applies to the use of ICraveFreebies.com.
 
