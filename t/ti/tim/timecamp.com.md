@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timecamp.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615145158id_/http%3A//www.timecamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timecamp.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014045227id_/http%3A//www.timecamp.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TimeCamp
 
