@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatabeautifullife.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629204959id_/http%3A//www.whatabeautifullife.com/index.php%3Froute%3Dinformation/information%26information_id%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatabeautifullife.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014172904id_/http%3A//www.whatabeautifullife.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
