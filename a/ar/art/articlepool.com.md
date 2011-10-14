@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlepool.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520071035id_/http%3A//www.articlepool.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlepool.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014142052id_/http%3A//articlepool.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Article Pool - Privacy Policy
 
