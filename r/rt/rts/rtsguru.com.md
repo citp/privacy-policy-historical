@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020135id_/http%3A//www.rtsguru.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtsguru.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014232930id_/http%3A//www.rtsguru.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policies at RTSguru.com
 
