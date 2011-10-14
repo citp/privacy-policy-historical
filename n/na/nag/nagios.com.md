@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nagios.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510052526id_/http%3A//www.nagios.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nagios.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014033717id_/http%3A//www.nagios.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Nagios - Privacy Policy
 
