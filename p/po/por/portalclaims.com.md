@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portalclaims.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521003758id_/http%3A//www.portalclaims.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portalclaims.com privacy policy that was archived on 2011-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111014042625id_/http%3A//www.portalclaims.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Portal Claims
 
@@ -26,7 +26,11 @@ Our Web site may include links to third party Web service providers. Portal Clai
 
 We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals.
 
-Our website makes use of cookies. We do not link non-personal information stored in cookies with other personal data about specific individuals.
+## Use of Cookies
+
+Our website makes use of cookies in order for the contact forms (such as the claim form) to work. These cookies are used are for the sole purpose of carrying out the transmission of a communication over an electronic communications network and, as such, subscriber consent is not required prior to their use. We do not link non-personal information stored in cookies with other personal data about specific individuals. You may delete and block all cookies from this site, but the contact forms will no longer work.
+
+In addition, both Google Analytics and Google Adwords are linked to this site, and both of these services use cookies. To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>. To opt out of being tracked by Google Adwords across all websites visit <http://www.google.com/privacy/ads/>. 
 
 ## Data Collection And Purpose Specification
 
