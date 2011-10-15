@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the templatetuning.com privacy policy that was archived on 2011-01-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110106001256id_/http%3A//www.templatetuning.com/privacy-and-security) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the templatetuning.com privacy policy that was archived on 2011-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111015061004id_/http%3A//www.templatetuning.com/privacy-and-security) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Template Tuning Privacy Policy</title>
@@ -13,7 +13,7 @@
 	<link rel="stylesheet" type="text/css" href="http://static.templatetuning.com/css/rms/styles.css">
 	<!--[if IE]><link rel="stylesheet" type="text/css" href="http://static.templatetuning.com/css/rms/ie.css" /><![endif]-->
 	<script type="text/javascript" src="/themes/tt/js/jquery.js"></script>
-		  	<script type="text/javascript" src="/themes/tt/js/servicefunctions.js"></script>
+		  <script type="text/javascript" src="/themes/tt/js/servicefunctions.js"></script>
 <!--[if lt IE 7]>
 <![if gte IE 5.5]>
 <script type="text/javascript" src="/themes/tt/js/fixpng.js"></script>
@@ -27,38 +27,39 @@
 
 
 	
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
+<script src="http://account.templatetuning.com/login.php?action=status&amp;_=1580350935640"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head>
 <body id="support-style" class="linux webkit chrome chrome-linux">
 	<div id="page">
 		<div id="header">
 	<div id="header-logo">
 		<div id="logo">
 			<a href="http://www.templatetuning.com/" class="graphical-link">
-			<img src="http://static.templatetuning.com/images/company_logo_ny.png" id="project_logo" alt="Template Tuning Logo"><img src="http://static.templatetuning.com/images/company_name_ny.png" id="project_name" alt="Template Tuning 7 years of professional web design">
+			<img src="http://static.templatetuning.com/images/company_logo.png" id="project_logo" alt="Template Tuning Logo"><img src="http://static.templatetuning.com/images/company_name.png" id="project_name" alt="Template Tuning 8 years of professional web design">
 			</a>
 		</div>
-		<div id="login">
+		<script type="text/javascript" src="/themes/tt/js/base64.js"></script>
+<div id="login">
 	<div class="not_authorized_content">
-		<form method="post" action="http://account.templatetuning.com/login.php">
-      <span class="field-marker username">Username:</span>
-      <span class="field-marker password">Password:</span>
-			<input type="hidden" name="sid" value="b4c26c79bf96f89573b1a0e20af40742">
+		<form method="post" action="https://secure.templatetuning.com/login.php">
+			<span class="field-marker username">Username:</span>
+			<span class="field-marker password">Password:</span>
+			<input type="hidden" name="action" value="login">
 			<img src="http://static.templatetuning.com/images/key.png" alt="">
 			<input type="text" name="login" value="">
 			<input type="password" name="passwd" value="">
 			<button type="submit" name=""><span class="bg-1"><span class="bg-2">Login</span></span></button>
-			<div id="pass-forgot"><a href="#" onclick="window.open('http://account.templatetuning.com/mail_forgot.php', 'forgot', 'width=410,height=200,scrollbars=no,resizable=yes,status=no'); return false;">Forgot password?</a></div>
+			<div id="pass-forgot"><a href="https://secure.templatetuning.com/mail_forgot.php">Forgot password?</a></div>
 		</form>
 	</div>
 	<div style="display:none;" class="authorized_content">
-		<form method="post" action="http://account.templatetuning.com/login.php">
+		<form method="post" action="https://secure.templatetuning.com/login.php" name="logout">
 			<input type="hidden" name="action" value="out">
+			<input type="hidden" name="goto" value="/privacy-and-security/">
 			<img src="http://static.templatetuning.com/images/key.png" alt="">
 			<span id="nameWrapper"><span class="user_name">Welcome,<br><strong class="user_name_box"></strong></span></span>
 			<button type="submit" name=""><span class="bg-1"><span class="bg-2">Logout</span></span></button>
-			<div id="go-to-account"><a href="http://account.templatetuning.com/member.php">Edit Profile</a>&nbsp;|&nbsp;<a href="http://account.templatetuning.com/projects.php">My Projects</a></div>
+			<div id="go-to-account"><a href="https://secure.templatetuning.com/member.php">Edit Profile</a>&nbsp;|&nbsp;<a href="http://account.templatetuning.com/projects.php">My Projects</a></div>
 		</form>
-
 	</div>
 	<div>
 		<div class="corner-1 iePNG"></div>
@@ -66,34 +67,50 @@
 		<div class="corner-2 iePNG"></div>
 	</div>
 </div>
-<script type="text/javascript" src="http://account.templatetuning.com/login.php?action=status"></script>
 <script type="text/javascript">
-
-	$(document).ready(function(){
-			});
-
-	$('#login').initLoginBox();
-	
-</script>
-		<div class="clear"></div>
+	$.ajax({
+		url: "http://account.templatetuning.com/login.php?action=status",
+		dataType: "script",
+		success: function(){
+			if((typeof getAuth != 'undefined' && $.isFunction(getAuth))){
+				var auth = getAuth();
+				$('#login').initLoginBox(auth);
+				var auth_url = '/login.html?action=update_status';
+				if(auth && auth.id) auth_url += '&id='+auth.id;
+				$.get(auth_url);
+			}
+		}
+	});
+	$('#pass-forgot').click(function(){
+		window.open('https://secure.templatetuning.com/mail_forgot.php', 'forgot', 'width=410,height=200,scrollbars=no,resizable=yes,status=no');
+		return false;
+	});
+	$(document.forms.logout).submit(function(){
+		$.ajax({
+			url: '/ttchat/disconnect.jsp',
+			cache: false,
+			async: false
+		});
+	});
+</script>		<div class="clear"></div>
 	</div>
 	<div id="header-menu">
 		<div id="main_menu">
   <ul>
-    <li id="choose-templ"><a href="/search"><span class="iePNG first"></span><span class="cont">Choose Template</span><span class="iePNG last"></span></a></li>
-    <li id="custom-design"><a href="/custom-design"><span class="iePNG first"></span><span class="cont">Custom Design</span><span class="iePNG last"></span></a></li>
-    <li id="tab-support"><a href="/support"><span class="iePNG first"></span><span class="cont">Support</span><span class="iePNG last"></span></a></li>
+    <li id="choose-templ"><a href="/search/"><span class="iePNG first"></span><span class="cont">Choose Template</span><span class="iePNG last"></span></a></li>
+    <li id="custom-design"><a href="/custom-design/"><span class="iePNG first"></span><span class="cont">Custom Design</span><span class="iePNG last"></span></a></li>
+    <li id="tab-support"><a href="/support/"><span class="iePNG first"></span><span class="cont">Support</span><span class="iePNG last"></span></a></li>
   </ul>
 </div>		<div id="additional_menu">
   <ul>
-    <li><a href="/prices">Prices</a></li>
-    <li><a href="/samples">View samples</a></li>
-    <li><a href="/blog">Blog</a></li>
-    <li><a href="/partners">Partners</a></li>
+    <li><a href="/prices/">Prices</a></li>
+    <li><a href="/samples/">View samples</a></li>
+    <li><a href="/blog/">Blog</a></li>
+    <li><a href="/partners/">Partners</a></li>
   </ul>
 </div>		<div class="clear"></div>
 	</div>
-	</div>		<div id="content">
+</div>		<div id="content">
 			<script type="text/javascript">
 $('body').attr('id','support-style');
 </script>
@@ -159,25 +176,32 @@ $('body').attr('id','support-style');
 </div>
 <div id="cust-serv-list">
        <ul>
-         <li><a href="/how-to-order">How to Order</a></li>
-         <li><a href="/terms-of-usage">Terms of Usage</a></li>
-         <li class="current"><a href="/privacy-and-security">Privacy &amp; Security</a></li>
-         <li><a href="/refund-policy">Refund Policy</a></li>
+         <li><a href="/how-to-order/">How to Order</a></li>
+         <li><a href="/terms-of-usage/">Terms of Usage</a></li>
+         <li class="current"><a href="/privacy-and-security/">Privacy &amp; Security</a></li>
+         <li><a href="/refund-policy/">Refund Policy</a></li>
        </ul>
 </div>
-<a href="/support" class="go-back">&lt;&lt; Go Back</a>
+<a href="/support/" class="go-back">&lt;&lt; Go Back</a>
 <div class="clear"></div>							                        </div>
                     </div>
                     <div class="clear"></div>
                 </div>		</div>
 		<div id="footer">
   <div id="copyright">
-    Copyright © 2002-2011, Templatetuning.com. All Rights Reserved.  </div>
+    Copyright © 2002-2011, Templatetuning.com. All Rights Reserved.
+<br> 
+<br>
+<a href="http://www.webpromoexpert.com/">SEO Company </a>
+  </div>
   <div id="footer-menu">
-       <ul>
-  <li><a href="http://www.templatetuning.com/terms-of-usage">Terms of Use</a></li><li><a href="http://www.templatetuning.com/privacy-and-security">Privacy Policy</a></li><li><a href="http://www.templatetuning.com/faq">FAQ</a></li><li><a href="http://www.templatetuning.com/contact-us">Contact Us</a></li>   </ul>
-   
-   </div>
+    	<ul>
+			<li><a href="/contact-us/">Contact Us</a></li>
+			<li><a href="/faq/">FAQ</a></li>
+			<li><a href="/privacy-and-security/">Privacy Policy</a></li>
+			<li><a href="/terms-of-usage/">Terms of Use</a></li>
+		</ul>
+  </div>
 
   <div class="clear"></div>
 </div>	</div>
