@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the sourcinggate.com privacy policy that was archived on 2009-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090329091827id_/http%3A//www.sourcinggate.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcinggate.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015174738id_/http%3A//www.sourcinggate.com/index.php%3Fmain_page%3Dhelp%26type%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : , wholesale from china
+# Wholesale - China wholesale - Professional Chinese wholesaler - Dropship from China
 
+  
 Collection of information 
 
 When you visit SourcingGate.com, we do not collect personally identifiable information about you, except when you specifically and knowingly provide it. For instance, we do require registration for the newsletter. If you decide to register for the newsletter, or if you request information from us, you will be asked to provide certain information and details, including your name, country and e-mail address. SourcingGate.com respects your privacy 
