@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516135116id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuitivesurgical.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015070655id_/http%3A//www.intuitivesurgical.com/company/legal/privacy.html) for the most accurate reproduction.*
 
 # Intuitive Surgical - Privacy
 
