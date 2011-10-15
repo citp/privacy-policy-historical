@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordfly.com privacy policy that was archived on 2009-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090305062749id_/http%3A//wordfly.com/about/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordfly.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015163531id_/http%3A//www.wordfly.com/about/privacy-policy.aspx) for the most accurate reproduction.*
 
 # WordFly : Tessitura Messaging System
 
