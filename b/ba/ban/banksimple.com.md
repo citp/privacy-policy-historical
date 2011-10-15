@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the banksimple.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619040247id_/https%3A//banksimple.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the banksimple.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015092113id_/https%3A//banksimple.com/privacy) for the most accurate reproduction.*
 
 # BankSimple | Privacy Policy
 
@@ -55,5 +55,4 @@ If you have questions about this Privacy Policy, please e-mail us at [support@ba
 
 > **Simple Finance Technology Corp.**  
 >  Attention: Privacy Officer  
-> 18 Bridge St, #4F  
-> Brooklyn, New York 11201
+> 720 NW Davis St. Suite 400 Portland, OR 97209
