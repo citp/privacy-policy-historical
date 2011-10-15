@@ -1,78 +1,81 @@
-<!--The following is the downloaded HTML source of the cashx.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228004915id_/https%3A//www.cashx.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashx.com privacy policy that was archived on 2011-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111015230309id_/https%3A//www.cashx.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html style="height: 100%;"><head>
 <title>Privacy Policy</title>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var member_url = '/interface';
+var image_url = '/interface/images';
+var browser = '';
+</script>
 <link rel="stylesheet" href="/css/external_css.php" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/interface/js/external_js.php?o=b3B0W109dG9vbGJhciZvcHRbXT1zY3JvbGw="></script>
+<script type="text/javascript" src="/interface/js/external_js.php?o=b3B0W109dG9vbGJhciZvcHRbXT1zY3JvbGw="></script>
+<link type="text/css" rel="stylesheet" href="/css/ui_styles/redmond/jquery-ui-1.8.7.custom.css">
+<!-- Googles +1 -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>	
+
+<script type="text/javascript">
+//jQuery.noConflict();
+</script>
+
+<style>
+html { overflow-y: scroll; }
+</style>
 
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
-<meta name="keywords" content="">
-<meta name="description" content="">
-
 <meta name="title" content="CashX.com - Payments Made Easy!">
+<meta name="keywords" content="cashx payments made easy processing ewallet deposit withdrawal credit card merchant echeck ach eft prepaid cards affiliate payouts accept credit cards">
 <meta name="description" content="Send and receive funds from anywhere in the world with a FREE CashX.com account! Accept payments and subscriptions in multiple currencies on your web site with just a few clicks!  Get a CashX Prepaid Card and load funds to it right from your CashX.com account!  Use it at the ATM to get quick cash, online for purchases, or anywhere that MasterCard is accepted.">
 <link rel="image_src" href="http://www.cashx.com/images/125_banner.gif">
 
+<script>
+function dialog_promtSetupComplete()
+{
+	var d_id = '#dialog-modal';
+	var url = member_url + '/setup_complete.php?isDialog=1';
 
-<script type="text/javascript">
-	jQuery.noConflict();
+	jQuery(d_id).dialog('close');
+	jQuery("iframe#modal_frame").attr('src',url);
 
- 	jQuery(document).ready(function() {
-		jQuery("#sample-bar").jixedbar({
-		    showOnTop: false,
-		    transparent: false,
-		    opacity: 0.75,
-		    slideSpeed: "slow",
-		    roundedCorners: true,
-		    roundedButtons: true,
-		    menuFadeSpeed: "fast",
-		    tooltipFadeSpeed: "fast",
-		    tooltipFadeOpacity: .90,
-		    		});
-    });
-    
- 	jQuery(document).ready(function() {
-		// Create the help tips
-		// Requires class helptip, and rel="id_tag"
-		jQuery('.helptip').each(function() {
-		
-			var h_id = jQuery(this).attr('rel');
-		
-			jQuery(this).qtip({
-				content: {
-					url: '/interface/help_tags.php',
-					data: {id: h_id},
-					method: 'get'
-				},
-				style: {
-					name: 'dark',
-					color: 'white',
-					width: 400,
-				      border: {
-				         width: 1,
-				         radius: 2
-				    },
-				    tip: 'bottomLeft'
-				},
-				position: {
-					corner: {
-						target: 'topLeft',
-						tooltip: 'bottomLeft'
-					},
-					adjust: {
-						x: 15
-					}
-				}
-			});
-		});
+	// Remove the close sign, and close on escape, the are forced
+	jQuery(d_id).bind("dialogbeforeclose", function(e,ui){
+		return false;
 	});
+	
+	jQuery(d_id).dialog("option", "closeOnEscape", false );
+	jQuery(d_id).dialog("option", "width", "800");
+	jQuery(d_id).dialog("option", "height", "500");
+	jQuery(d_id).dialog("option", "position", "center");
+	jQuery(d_id).dialog('open');
+}
+
+jQuery(document).ready(function(){
+});
 </script>
 
 <script>
 // Menu Mouse over JS
 function ui_site_menuMouseOver(id,obj)	{ obj.src = '/images/m_' + id + '_on.png'; }
 function ui_site_menuMouseOut(id,obj)	{ obj.src = '/images/m_' + id + '_off.png'; }
+
+jQuery(document).ready(function(){
+	var cb = '0px';
+	if(browser == 'safari')
+		cb = '20px';
+
+	jQuery("#sample-bar").jixedbar({
+	    showOnTop: false,
+	    transparent: false,
+	    opacity: 0.75,
+	    slideSpeed: "slow",
+	    roundedCorners: true,
+	    roundedButtons: true,
+	    menuFadeSpeed: "fast",
+	    tooltipFadeSpeed: "fast",
+	    tooltipFadeOpacity: .90,
+	    constBottom: cb
+	});
+});
 </script>
 
 </head>
@@ -93,11 +96,27 @@ function ui_site_menuMouseOut(id,obj)	{ obj.src = '/images/m_' + id + '_off.png'
 
 
 
+<!--
 <div id="boxes">
 	<div id="dialog" class="window">
 	<iframe id="iframe_modal" width="100%" height="100%" frameborder="0" scrolling="no" src="about: blank"></iframe>
 	</div>
 	<div id="mask"></div>
+</div>
+-->
+
+<style>
+.ui-widget-overlay {
+	background-color: #000000;
+	background-image: none;
+	opacity: 0.75;	
+}
+</style>
+
+<div id="ui_modal_dialog">
+<div id="dialog-modal" title="CashX.com - Payments Made Easy" style="margin: 0px;padding: 0px;overflow: hidden;display: none;">
+	<iframe src="about:blank" style="width: 100%;height: 100%" frameborder="0" id="modal_frame" name="modal_frame"></iframe>
+</div>
 </div>
 
 
@@ -111,37 +130,12 @@ function ui_site_menuMouseOut(id,obj)	{ obj.src = '/images/m_' + id + '_off.png'
 <div style="width: 950px;padding-top: 10px;padding-bottom: 10px;" align="left">
 
 <table cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr>
-<td valign="top" width="220">
+<td valign="top" width="220" style="padding-bottom: 0px;">
 	<a href="/"><img src="/images/logo.png" border="0" width="200" height="60" alt="CashX.com - Payments Made Easy!" title="CashX.com - Payments Made Easy!"></a>
 </td>
 <td valign="bottom" width="120">
 
-	<b>Connect with us:</b>
-	<div style="padding-top: 5px;">
-	
-		<div style="float: left;margin-right: 5px;">
-		<a href="http://www.facebook.com/pages/CashX/223600960346" target="_blank">
-		<div class="ui_icon facebook-icon" title="Find us on Facebook"></div>
-		</a>
-		</div>
-		<div style="float: left;margin-right: 5px;">
-		<a href="http://twitter.com/CashX_" target="_blank">
-		<div class="ui_icon twitter" title="Find us on Twitter"></div>
-		</a>
-		</div>
-		<div style="float: left;margin-right: 5px;">
-		<a href="http://cashx-blog.blogspot.com/" target="_blank">
-		<div class="ui_icon blogspot_icon" title="View us on Blogger"></div>
-		</a>
-		</div>
-		<div style="float: left;margin-right: 5px;">
-		<a href="/feed.xml" target="_blank">
-		<div class="ui_icon feed" title="CashX RSS Feed"></div>
-		</a>
-		</div>
-
-	</div>
-</td>
+	</td>
 <td align="right" valign="bottom" style="padding-right: 50px;">
 
 		<script>
@@ -175,27 +169,27 @@ function ui_site_menuMouseOut(id,obj)	{ obj.src = '/images/m_' + id + '_off.png'
 		<form name="frm_siteLang" action="/privacy.php">
 		<input type="hidden" name="do" value="ui_set_site_lang">
 		<select name="site_lang" onchange="ui_ChangeSiteLang(this);">
-		<option value="en">English</option>
-				</select>
+		<option value="en" selected="selected">English</option>
+		</select>
 		</form>
 		</div>
 		
 		<span style="color: silver;">
 		<b>Server Time:</b>
-		<span id="ui_live_time">Dec 27th, 2010 7:40:35 pm EST</span>
+		<span id="ui_live_time">Oct 15th, 2011 7:03:11 pm EDT</span>
 		</span>
 		<script>
 		jQuery(document).ready(function (){
 			jQuery('#ui_live_time').initUIClock({
-				'startDate': 'December 27, 2010 19:40:33',
-				'timezone': 'EST',
+				'startDate': 'October 15, 2011 19:03:09',
+				'timezone': 'EDT',
 			});
 		});
 		</script>
 
 		<br>
 	
-				You are currently not logged in,  please <a href="/login"><b>Login</b></a> or <a href="/signup"><b>Signup Now</b></a>!
+				You are currently not logged in, please <a href="/login"><b>Login</b></a> or <a href="/signup"><b>Signup Now</b></a>!
 		
 </td>
 </tr></tbody></table>
@@ -211,103 +205,80 @@ function ui_site_menuMouseOut(id,obj)	{ obj.src = '/images/m_' + id + '_off.png'
 <tbody><tr>
 <td style="background-image: url('/images/topbar_bg.png');border-top: 0px solid black;" height="65" align="center" valign="top">
 
-<style>
-.ui_top_bar a {
-	color: white;
-	display: block;
-	height: 40px;
-	float: left;
-	padding: 0px 15px 0px;
-	background-image: url('/images/topbar_bg.png');	
+<script>
+// Master top nav bar
+jQuery(document).ready(function(){
+	jQuery(".main").hover(function(){
 
-	color: white;
-	height: 40px;
-	line-height: 37px;
-	font-size: 14px;
-	font-weight: bold;
-	font-family: arial;
+		// Hightligted button back fdrop
+		jQuery(this).css({'background':'transparent url(/images/topbar_bg_green.png) repeat-x scroll 0 0'});
 
-}
+		// If we are a menu system add the arrow icon
+		if(jQuery(this).is('.drop'))
+		{
+			//jQuery("a:first",this).css({'background':'transparent url(/images/topbar_menu_off.png) no-repeat scroll center bottom'});
+		}
 
-.ui_top_bar a:hover {
-	background-image: url('/images/topbar_bg_green.png');
-}
-</style>
+	},function(){
 
+		// Remove the back drop
+		jQuery(this).css('background-image','none');
 
-
+		// if we are a meny system, remove the arrow icon
+		if(jQuery(this).is('.drop'))
+		{
+			jQuery("a:first",this).css('background-image','none');
+			jQuery(this).css({'background':'transparent url(/images/topbar_menu_off.png) no-repeat scroll center bottom'});
+		}
+	});
+});
+</script>
 
 <div style="width: 1000px;">
 
 <table cellspacing="0" cellpadding="0" border="0"><tbody><tr><td>
-<div class="ui_top_bar">
+<div class="ui_top_bar" id="nav">
 
-<a href="/">Home</a>
-<a href="/sendInfo">Send Money</a>
-<a href="/requestInfo">Request Money</a>
-<a href="/depositInfo">Deposit</a>
-<a href="/withdrawalInfo">Withdrawal</a>
-<a href="/prepaidCards">CashX Prepaid Cards</a>
-<a href="/merchants">Merchants</a>
-<a href="/developers">Developers</a>
-
+	<ul>
+	<li class="main"><a href="/">Home</a></li>
+	<li class="main"><a href="/howitworks.php">How CashX Works</a></li>
+	<li class="main"><a href="/personal">Personal</a></li>
+	<li class="main"><a href="/business">Business</a></li>
+		<li class="main"><a href="/paycode">CashX PayCode™</a></li>
+		<li class="main"><a href="/prepaidCards">Prepaid Cards</a></li>
+	<li class="main"><a href="/help.php">Help Center</a></li>
+	<li class="main"><a href="/signup">Signup Now</a></li>
+	</ul>
+	
+	<!--
+	<li class="main"><a href="/sendInfo">Send Money</a></li>
+	<li class="main"><a href="/requestInfo">Request Money</a></li>
+	<li class="main"><a href="/depositInfo">Deposit</a></li>
+	<li class="main"><a href="/withdrawalInfo">Withdrawal</a></li>
+	<li class="main"><a href="/merchants">Merchants</a></li>
+	<li class="main"><a href="/prepaidCards">Prepaid Cards</a></li>
+	<li class="main"><a href="/developers">Developers</a></li>
+	-->
 </div>
 </td></tr></tbody></table>
 
 </div>
 
 
+<div style="width: 960px;display: block;">
 
+	
+	</div>
 
-<div style="width: 960px;">
-
-
-			
-	<div class="subMenu" id="nav" style="padding-top: 0px;float: left;padding-left: 15px;padding-right: 20px;padding-bottom: 2px;overflow: display;" align="right">
-	<!--
-<table cellspacing="0" cellpadding="0" border="0"><tr>
-<td><div style="margin-right: 1px;border-right: 1px solid silver;border-top: 1px solid black;border-bottom: 0px solid silver;float: left;width:20px;height: 24px;background-image: url('/images/sub_menu_l.png');"></div></td>
-<td>
-
-<ul>
-<li class="main"><a href="/about"><img src="/interface/images/information.png" width="16" height="16" border="0"> About Us</a>
-	<ul>
-		<li><a href="/accounts.php">Account Types</a></li>
-		<li><a href="/interface/news.php">News & Updates</a></li>
-		<li><a href="/faqs">F.A.Q.'s</a></li>
-		<li><a href="/fees">Service Fees</a></li>
-		<li style="border-top: 1px solid silver;"><a href="/contact">Contact Us</a></li>
-	</ul>
-</li>
-
-<li class="main"><a href="/prepaidCards"><img src="/interface/images/vcard.png" width="16" height="16" border="0"> CashX Prepaid Cards</a>
-	<ul>
-		<li><a href="#null" onclick="OpenPrepaidManager();">Manage My Card</a></li>
-	</ul>
-</li>
-
-
-<li class="main"><a href="/webapp"><img src="/interface/images/phone.png" width="16" height="16" border="0"> iPhone / Mobile App</a></li>
-<li class="main"><a href="/affiliate"><img src="/interface/images/group_add.png" width="16" height="16" border="0"> Affiliate Program</a></li>
-<li class="main"><a href="/signup"><img src="/interface/images/user_add.png" width="16" height="16" border="0"> Signup Now</a></li>
-
-</ul>
-
-</td>
-<td><div style="border-left: 1px solid silver;border-top: 1px solid black;border-bottom: 0px solid silver;float: left;width:20px;height: 24px;background-image: url('/images/sub_menu_r.png');"></div></td>
-</tr>
-</table>
--->	</div>
-</div>
 
 </td></tr>
 </tbody></table>
 </div>
 
 
-<div class="softwareContent" id="ui_contTbl" style="margin-top: 0px;border: 0px solid red;width:890px;padding-top: 0px;margin-top: 0px;">
+<div class="softwareContent" id="ui_contTbl" style="margin-top: 0px;border: 0px solid red;width:890px;padding-top: 0px;">
 
-<h1>Privacy Policy <span>Information</span></h1>
+<h1>Privacy Policy</h1>
 
 This policy describes the ways we collect, store, use and protect your personal information. You accepted this policy and consented to such collection, storage and use when you signed up for our Service. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days prior notice by posting notice of the change on the "Policy Updates" page of our website. After this 30 days notice, you will be considered as having expressly consented to all amendments to this policy.
 <br><br>
@@ -464,7 +435,7 @@ We last modified this policy on July 31, 2009.
 			</nobr>
 
 			<br><br>
-			Copyright © 2010 CashX.com. All rights reserved			
+			Copyright © 2011 CashX.com. All rights reserved			
 			<!--
 			<br><br>
 			<img src="/developers/cart_magento.png" width="75">
@@ -509,8 +480,7 @@ We last modified this policy on July 31, 2009.
 
 				
 		<div style="line-height: 16px;">
-		Welcome <b>Guest</b> from United States!
-		<img src="/interface/images/flags/us.gif" width="16" height="11" style="margin-bottom: 1px; margin-left: 5px; margin-right: 5px; vertical-align: bottom; border: 0px solid rgb(255, 255, 255);">
+		Welcome <b>Guest</b> from United States!		<img src="/interface/images/flags/us.gif" width="16" height="11" style="margin-bottom: 1px; margin-left: 5px; margin-right: 5px; vertical-align: bottom; border: 0px solid rgb(255, 255, 255);">
 		</div>
 		<span class="jx-separator-left"></span>
 
@@ -525,8 +495,14 @@ We last modified this policy on July 31, 2009.
 
 	
 	
-	<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FCashX%2F223600960346&amp;layout=standard&amp;show_faces=false&amp;width=400&amp;action=like&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:35px;" allowtransparency="true"></iframe>
+	<nobr><iframe id="fb_frame" name="fb_frame" src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FCashX%2F223600960346&amp;layout=standard&amp;show_faces=false&amp;width=400&amp;action=like&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowtransparency="true"></iframe></nobr>
+
+	<span class="jx-separator-left"></span>
 	
+	<ul>
+	<li style="border: 0px solid red;padding-top: 2px;"><a href="#"><g:plusone size="small" href="https://www.cashx.com/"></g:plusone></a></li>
+	</ul>
+
 
 	<!--   
 	<ul class="jx-bar-button-right">
