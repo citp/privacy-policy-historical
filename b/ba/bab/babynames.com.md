@@ -1,33 +1,31 @@
-> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918104102id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynames.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015053009id_/http%3A//www.babynames.com/user/privacy.php) for the most accurate reproduction.*
 
-# About BabyNames.com
+# BabyNames.com Privacy Policy
 
-or browse baby names by letter:  
----  
-[a](https://web.archive.org/m/Names/name-index.php?starts=A) | [b](https://web.archive.org/m/Names/name-index.php?starts=B) | [c](https://web.archive.org/m/Names/name-index.php?starts=C) | [d](https://web.archive.org/m/Names/name-index.php?starts=D) | [e](https://web.archive.org/m/Names/name-index.php?starts=E) | [f](https://web.archive.org/m/Names/name-index.php?starts=F) | [g](https://web.archive.org/m/Names/name-index.php?starts=G) | [h](https://web.archive.org/m/Names/name-index.php?starts=H) | [i](https://web.archive.org/m/Names/name-index.php?starts=I) | [j](https://web.archive.org/m/Names/name-index.php?starts=J) | [k](https://web.archive.org/m/Names/name-index.php?starts=K) | [l](https://web.archive.org/m/Names/name-index.php?starts=L) | [m](https://web.archive.org/m/Names/name-index.php?starts=M)  
-[n](https://web.archive.org/m/Names/name-index.php?starts=N) | [o](https://web.archive.org/m/Names/name-index.php?starts=O) | [p](https://web.archive.org/m/Names/name-index.php?starts=P) | [q](https://web.archive.org/m/Names/name-index.php?starts=Q) | [r](https://web.archive.org/m/Names/name-index.php?starts=R) | [s](https://web.archive.org/m/Names/name-index.php?starts=S) | [t](https://web.archive.org/m/Names/name-index.php?starts=T) | [u](https://web.archive.org/m/Names/name-index.php?starts=U) | [v](https://web.archive.org/m/Names/name-index.php?starts=V) | [w](https://web.archive.org/m/Names/name-index.php?starts=W) | [x](https://web.archive.org/m/Names/name-index.php?starts=X) | [y](https://web.archive.org/m/Names/name-index.php?starts=Y) | [z](https://web.archive.org/m/Names/name-index.php?starts=Z)  
-  
-[advanced search](https://web.archive.org/m/Names/search.php)
+rev. May 2010
 
-## your privacy
-
-This site is owned and operated by BabyNames.com LLC, a California Limited Liability Company. 
-
-revised March 2009
-
-**BabyNames.com** has created this statement in order to demonstrate our firm commitment to protecting the privacy of our visitors. The following summarizes our information-gathering and dissemination practices for our website.
-
-## Opt-In Mailing List
-
-You have the option to add or remove yourself from the monthly newsletter and mailings for special discounts and offers from our partners. To change your subscription, login and go to MY PROFILE.
-
-We take great care in making sure our users are not bombarded with email, and we will **_never sell_** or share your personal information with any other company. When you receive a special offer from one of our advertisers, it will come from our server, as we send them out on the advertiser's behalf. We also ensure that every email you receive from BabyNames.com contains a link to remove yourself from the mailing list, just in case you change your mind.
-
-To add or remove yourself from the mailing list, go to your [MY PROFILE](https://web.archive.org/m/user/myprofile.php).
+ **BabyNames.com** has created this statement in order to demonstrate our firm commitment to protecting the privacy of our visitors. The following summarizes our information-gathering and dissemination practices for our website.
 
 ## Your Personal Information
 
 Demographic and profile data collected at our site is used for the demographic purposes and order processing. The **BabyNames.com** feedback form, order forms, personal name list and message boards require users to enter first name, last name and a valid email address. All personal and demographic information gathered through any type of product ordering process remains the property of BabyNames.com LLC and may be used to send you site newsletters and special offers from our business partner companies. 
+
+## User Profiles
+
+Upon registration, BabyNames.com creates a public user profile page for you. Each part of your profile can be hidden from public view by logging in and going to MY PROFILE and then PRIVACY SETTINGS. The following fields are set to public by default, but can be changed at any time: 
+
+  * Your Profile Picture
+  * First Name
+  * Gender
+  * Parent Type/Family Type
+  * Interests
+  * Online Status
+  * Community Title & Badges
+  * # Message Board Posts
+  * Last Message Board Activity
+  * VIP Expire Date
+
+
 
 ## Your IP Address
 
@@ -40,6 +38,14 @@ This site contains advertising and links to other sites, however we assume no li
 ## Security
 
 **BabyNames.com** has security measures in place to protect the loss, misuse and alteration of the information by third parties. We use SSL encryption, firewall intervention, software and hardware redundancy and a comprehensive data backup schedule. Nonetheless, we cannot guarantee the protection of such information against loss, misuse or alteration.
+
+## Opt-In Mailing List
+
+You have the option to add or remove yourself from the monthly newsletter and mailings for special discounts and offers from our partners. To change your subscription, login and go to MY PROFILE.
+
+We take great care in making sure our users are not bombarded with email, and we will **_never sell_** or share your personal information with any other company. When you receive a special offer from one of our advertisers, it will come from our server, as we send them out on the advertiser's behalf. We also ensure that every email you receive from BabyNames.com contains a link to remove yourself from the mailing list, just in case you change your mind.
+
+To add or remove yourself from the mailing list, go to your [MY PROFILE](http://www.babynames.com/user/myprofile.php).
 
 ## Children's Guidelines
 
@@ -55,7 +61,7 @@ BabyNames.com uses third-party advertising companies to serve ads when you visit
 
 ## Removal of Personal Information
 
-Users can have all their personal information, message board posts and images removed by closing their account on BabyNames.com. To easily close your account and remove all your information, [click here](https://web.archive.org/m/user/removeme.php). Once an account is closed by a user, their data is immediately deleted from the BabyNames.com servers and cannot be recovered.
+Users can have all their personal information, message board posts and images removed by closing their account on BabyNames.com. To easily close your account and remove all your information, [click here](https://web.archive.org/user/removeme.php). Once an account is closed by a user, their data is immediately deleted from the BabyNames.com servers and cannot be recovered.
 
 ## How to Contact BabyNames.com
 
@@ -67,9 +73,5 @@ Questions regarding this statement should be directed to BabyNames.com User Supp
 User Support Services  
 2355 Westwood Blvd. #133  
 Los Angeles, CA 90064  
-(877) 211-BABY (2229)  
+(510) 51-NAMES (510-516-2637)  
 [support@babynames.com](mailto:support@babynames.com)
-
-* * *
-
-You are using BabyNames.com new mobile site. [Click Here](https://web.archive.org/m/usefullsite.php "Use Regular BabyNames.com site") to use the regular BabyNames.com website.
