@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templatetuning.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106001256id_/http%3A//www.templatetuning.com/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templatetuning.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015061004id_/http%3A//www.templatetuning.com/privacy-and-security) for the most accurate reproduction.*
 
 # Template Tuning Privacy Policy
 
