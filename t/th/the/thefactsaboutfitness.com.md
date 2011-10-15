@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thefactsaboutfitness.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509084726id_/http%3A//www.thefactsaboutfitness.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefactsaboutfitness.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015020806id_/http%3A//thefactsaboutfitness.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Christian Finn's Facts About Fitness
 
-[Home](https://web.archive.org/web/20080509084726id_/http%3A//www.thefactsaboutfitness.com/index.htm) **::** Privacy Policy
+[Home](https://web.archive.org/web/20111015020806id_/http%3A//thefactsaboutfitness.com/index.htm) **::** Privacy Policy
 
 The following statement explains our policy regarding the personal information we collect about you, and is effective from November 9th 2004.
 
@@ -29,12 +29,12 @@ We will hold your information on our systems for as long as you use the service 
 If you wish to update your personal information, please send your request to support@thefactsaboutfitness.com
 
 You can also write to us at:  
-The Facts About Fitness  
-Unit 1 Scholars Row  
+The Facts About Fitness Ltd.   
+14 Hares Run   
 Mawsley   
 Northamptonshire  
 United Kingdom  
-NN14 1GZ
+NN14 1TG
 
-**5\. Changes**  
-Subscribers to the site will be notified of any changes to this privacy policy via e-mail.
+**5\. Advertising**  
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please go to http://www.google.com/privacy_ads.html. 
