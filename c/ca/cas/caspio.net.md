@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caspio.net privacy policy that was archived on 2010-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101111112031id_/https%3A//caspio.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspio.net privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015155110id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
-# Caspio Privacy Statement | Caspio Online Database Platform
+# Caspio Privacy Statement
 
 [](http://www.truste.org/ivalidate.php?url=caspio.com&sealid=102)
 
@@ -10,25 +10,25 @@ Last modified April 26, 2010.
 
 ### OVERVIEW
 
-Caspio, Inc. is committed to respecting your privacy and the privacy of the information in your account. That is why we have established this Privacy Statement. Our intention is to treat your information with utmost care and consideration. If you have questions or concerns regarding this statement, you should contact Caspio as outlined below. 
+Caspio, Inc. is committed to respecting your privacy and the privacy of the information in your account. That is why we have established this Privacy Statement. Our intention is to treat your information with utmost care and consideration. If you have questions or concerns regarding this statement, you should contact Caspio as outlined below.
 
-We want you to know that we are not in the business of selling or renting individuals' personal data to other companies for any purpose. 
+We want you to know that we are not in the business of selling or renting individuals' personal data to other companies for any purpose.
 
-This Privacy Statement contains Caspio's handling of personally identifiable information that is gathered when you are on Caspio's site, and when you use Caspio's services. This Privacy Statement applies exclusively to the sites [www.caspio.com](http://www.caspio.com/) and [caspio.net](http://caspio.net/). This policy does not cover or apply to the practices of organizations that use our services on their websites, that Caspio does not own or control, information collected offline, or to non-Caspio employees. 
+This Privacy Statement contains Caspio's handling of personally identifiable information that is gathered when you are on Caspio's site, and when you use Caspio's services. This Privacy Statement applies exclusively to the sites [www.caspio.com](https://web.archive.org/) and [caspio.net](https://web.archive.org/). This policy does not cover or apply to the practices of organizations that use our services on their websites, that Caspio does not own or control, information collected offline, or to non-Caspio employees.
 
-Caspio, Inc is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust in the internet by promoting the use of fair information practices. We have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe as a testament of our commitment to your privacy. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](http://www.caspio.com/company/contact.asp). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php.). TRUSTe shall then serve as a liaison with us to resolve your concerns.
+Caspio, Inc is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust in the internet by promoting the use of fair information practices. We have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe as a testament of our commitment to your privacy. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
 
 Caspio, Inc has certified its participation and compliance with the Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the transfer of personal information from European Union member countries to the United States. The principles of Safe Harbor compliance are notice, choice, onward transfer, security, data integrity, access, and enforcement. Additional information about the Safe Harbor principles and certification process can be found at <http://www.export.gov/safeharbor/>.
 
 ### COLLECTION AND USE OF YOUR INFORMATION
 
-Caspio collects personally identifiable information when you register for a Caspio service account, when you sign up to become a Caspio affiliate, when you sign up to become a Caspio reseller, when you fill out any form requesting information, support, or product and service information, and when you subscribe to our news. Caspio may also receive personally identifiable information from its business partners. 
+Caspio collects personally identifiable information when you register for a Caspio service account, when you sign up to become a Caspio affiliate, when you sign up to become a Caspio reseller, when you fill out any form requesting information, support, or product and service information, and when you subscribe to our news. Caspio may also receive personally identifiable information from its business partners.
 
-Caspio collects the following personally identifiable information: your name, title, phone number, email address, mailing address, website URL, employer or company. You also have the option of supplying us with your occupation, and type of business or industry. Additionally, when you sign up for a Caspio paid service, we collect your billing information, including your credit card number, expiration date, and billing address. 
+Caspio collects the following personally identifiable information: your name, title, phone number, email address, mailing address, website URL, employer or company. You also have the option of supplying us with your occupation, and type of business or industry. Additionally, when you sign up for a Caspio paid service, we collect your billing information, including your credit card number, expiration date, and billing address.
 
-Caspio also asks its affiliates and resellers to provide either their Tax ID or Social Security Number so we can comply with IRS regulations in regards to commissions and payments. 
+Caspio also asks its affiliates and resellers to provide either their Tax ID or Social Security Number so we can comply with IRS regulations in regards to commissions and payments.
 
-Caspio also automatically receives and records information on our server logs from your browser including your IP address, browser type, referrer page, domain name, access time, entry page, exit page, operating system type, and search engine keywords used. 
+Caspio also automatically receives and records information on our server logs from your browser including your IP address, browser type, referrer page, domain name, access time, entry page, exit page, operating system type, and search engine keywords used.
 
 We mainly use the information we collect to measure our business success, to identify the most effective ways to reach you, the customer, to more effectively meet your needs and requests for certain new product features and services, and to contact you about product upgrades. Additionally, if you have chosen to receive email communications, you will receive our infrequent news and announcements.
 
@@ -73,7 +73,7 @@ Our website contains links to information on other websites. We do not have any 
 
 ### CHANGING OR DELETING YOUR PERSONAL INFORMATION
 
-At any time, Caspio allows you to change or delete inaccuracies in the personally identifiable information you provided when signing up for Caspio service. In order to change or delete inaccuracies in your information, log into your account and select the Account Information option. If the options provided do not fully meet your needs, please [contact us](https://web.archive.org/company/contact.asp). We will respond to your request to access within 30 days.
+At any time, Caspio allows you to change or delete inaccuracies in the personally identifiable information you provided when signing up for Caspio service. In order to change or delete inaccuracies in your information, log into your account and select the Account Information option. If the options provided do not fully meet your needs, please [contact us](https://web.archive.org/company/contact.aspx). We will respond to your request to access within 30 days.
 
 ### SECURITY
 
@@ -91,7 +91,7 @@ By using our website and services, you consent to the collection and use of the 
 
 ### OPTING-OUT
 
-At any time you can unsubscribe from our news and announcement list by accessing our [http://www.caspio.com/unsubscribe.asp](https://web.archive.org/unsubscribe.asp). If you have a Caspio account, you will continue to receive administrative type emails from us in regards to your account when necessary.
+At any time you can unsubscribe from our news and announcement list by accessing our [http://www.caspio.com/unsubscribe.aspx](https://web.archive.org/unsubscribe.aspx). If you have a Caspio account, you will continue to receive administrative type emails from us in regards to your account when necessary.
 
 ### SURVEYS
 
@@ -134,10 +134,10 @@ In providing services to our customers, it is Caspio's policy to use cookies onl
 
 ### COMMENTS AND SUGGESTIONS
 
-To contact us regarding this Privacy Statement, [contact us](https://web.archive.org/company/contact.asp) on the Caspio.com website or write to Caspio at:
+To contact us regarding this Privacy Statement, [contact us](https://web.archive.org/company/contact.aspx) on the Caspio.com website or write to Caspio at:
 
 **Address:**  
-Caspio, Inc.   
-Privacy   
-485 N. Whisman Road, Suite 200   
+Caspio, Inc.  
+Privacy  
+485 N. Whisman Road, Suite 200  
 Mountain View, CA 94043, USA
