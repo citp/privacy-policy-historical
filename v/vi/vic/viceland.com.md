@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viceland.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623114531id_/http%3A//www.viceland.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viceland.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016002009id_/http%3A//www.viceland.com/privacy_statement.html) for the most accurate reproduction.*
 
 # VICE PRIVACY STATEMENT
 
