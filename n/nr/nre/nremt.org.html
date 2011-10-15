@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nremt.org privacy policy that was archived on 2010-07-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100731051312id_/https%3A//www.nremt.org/nremt/about/policy_privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nremt.org privacy policy that was archived on 2011-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111015210542id_/https%3A//www.nremt.org/nremt/about/policy_privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" href="../stylesheet/style.css" type="text/css">
 
@@ -84,19 +84,19 @@ function returnSubmitsForm(e)
         						    <div class="left-col">
         						        <div class="left-col-top">
 				 
-					<form method="post" name="frmLogin" id="frmLogin" action="https://www.nremt.org/nremt/security/login_action_toaspx.asp">
+					<form method="post" name="frmLogin" id="frmLogin" action="https://www.nremt.org/nremt/security/login_action.asp">
                     <div class="clearer"></div>
                     <div class="login-form">
 						<div class="login-text">Returning users:</div>
 						
 						<div>
                         	<label for="uid">User name</label>
-                        	<input id="uid" type="text" name="uid" onkeypress="return returnSubmitsForm(event);">
+                        	<input id="uid" type="text" name="uid" autocomplete="off" onkeypress="return returnSubmitsForm(event);">
                         </div>
 
                         <div>
                         	<label for="pwd">Password</label>
-                        	<input id="pwd" type="password" name="pwd" maxlength="20" onkeypress="return returnSubmitsForm(event);">
+                        	<input id="pwd" type="password" autocomplete="off" name="pwd" maxlength="20" onkeypress="return returnSubmitsForm(event);">
                         </div>
                         
                         <div class="button">
@@ -113,7 +113,7 @@ function returnSubmitsForm(e)
 	                
 					<div style="padding: 0pt; position: relative; left: 17px; margin-bottom: 8px; font-weight: bold;">
 						<a href="https://www.nremt.org/nremt/account/account.asp?mode=add">Create New Account</a> <br>
-						<a href="https://www.nremt.org/nremt/security/forgot_pwd.asp">Forgot Your Password?</a>
+						<a href="https://www.nremt.org/nremt/account/request_password_recovery.asp">Forgot Your Password?</a>
 					</div>
 					
                     <!-- MENU BEGINS HERE -->
@@ -130,7 +130,6 @@ function returnSubmitsForm(e)
                     <ul class="subnavigation">
                     	<li><a href="https://www.nremt.org/nremt/about/home.asp">Home</a></li>
 <li><a href="https://www.nremt.org/nremt/about/nremt_news.asp">NREMT News</a></li>
-<li><a href="https://www.nremt.org/nremt/about/createNewAccount.asp">Apply to be Nationally Certified</a></li>
 <li><a href="javascript:newexpandit('About the NREMT');" class="multiitemnone">About the NREMT</a><div id="subnavigation_menu_About the NREMT" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/annual_reports.asp">Annual Reports</a></li>
 <li><a href="https://www.nremt.org/nremt/about/nremt_board.asp">Board of Directors</a></li>
 <li><a href="https://www.nremt.org/nremt/about/Legal_Opinion.asp">Certification<br>v. Licensure</a></li>
@@ -143,28 +142,62 @@ function returnSubmitsForm(e)
 <li><a href="https://www.nremt.org/nremt/about/stateReciprocityMap.asp">State Reciprocity Map</a></li>
 <li><a href="https://www.nremt.org/nremt/about/strat_plan_2009.asp">Strategic Plan</a></li>
 <li><a href="https://www.nremt.org/nremt/about/What_is_EMS.asp">What is EMS?</a></li>
-</ul></div></li><li><a href="javascript:newexpandit('National EMS Certification Levels');" class="multiitemnone">National EMS Certification Levels</a><div id="subnavigation_menu_National EMS Certification Levels" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/reg_1st_history.asp">First Responder</a></li>
-<li><a href="https://www.nremt.org/nremt/about/reg_basic_history.asp">EMT-Basic</a></li>
-<li><a href="https://www.nremt.org/nremt/about/reg_int85_history.asp">Intermediate/85</a></li>
-<li><a href="https://www.nremt.org/nremt/about/reg_int99_history.asp">Intermediate/99</a></li>
-<li><a href="https://www.nremt.org/nremt/about/reg_para_history.asp">Paramedic</a></li>
-</ul></div></li><li><a href="javascript:newexpandit('National EMS System');" class="multiitemnone">National EMS System</a><div id="subnavigation_menu_National EMS System" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/emt_cand_state_offices.asp">State EMS Agency Information</a></li>
+</ul></div></li><li><a href="javascript:newexpandit('National EMS Certification Examinations');" class="multiitemnone">National EMS Certification Examinations</a><div id="subnavigation_menu_National EMS Certification Examinations" style="display: none;"><ul class="sub-subnav"><li><a href="javascript:newexpandit('Apply for National Certification ');" class="multiitemnone">Apply for National Certification </a><div id="subnavigation_menu_Apply for National Certification " style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/reg_1st_history.asp">First Responder / EMR</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_basic_history.asp">EMT-Basic / EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int85_history.asp">EMT-Intermediate/85</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_aemt_history.asp">Advanced EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int99_history.asp">EMT-Intermediate/99</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_para_history.asp">EMT-Paramedic / Paramedic</a></li>
+</ul></div></li><li><a href="https://www.nremt.org/nremt/about/apply_for_assess_exam.asp">Apply for Assessment Examination</a></li>
+<li><a href="javascript:newexpandit('Cognitive Examination Information');" class="multiitemnone">Cognitive Examination Information</a><div id="subnavigation_menu_Cognitive Examination Information" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/reg_1st_history.asp#Cognitive_Examination">First Responder / EMR</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_basic_history.asp#Cognitive_Examination">EMT-Basic / EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int85_history.asp#Cognitive_Examination">EMT-Intermediate/85</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_aemt_history.asp#Cognitive_Examination">Advanced EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int99_history.asp#Cognitive_Examination">EMT-Intermediate/99</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_para_history.asp#Cognitive_Examination">EMT-Paramedic / Paramedic</a></li>
+</ul></div></li><li><a href="https://www.nremt.org/nremt/about/CBT_Home.asp">Computer Based Testing Information</a></li>
+<li><a href="javascript:newexpandit('Entry Requirements');" class="multiitemnone">Entry Requirements</a><div id="subnavigation_menu_Entry Requirements" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/reg_1st_history.asp#Entry_Requirements">First Responder / EMR</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_basic_history.asp#Entry_Requirements">EMT-Basic / EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int85_history.asp#Entry_Requirements">EMT-Intermediate/85</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_aemt_history.asp#Entry_Requirements">Advanced EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int99_history.asp#Entry_Requirements">EMT-Intermediate/99</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_para_history.asp#Entry_Requirements">EMT-Paramedic / Paramedic</a></li>
+</ul></div></li><li><a href="https://www.nremt.org/nremt/about/exam_development.asp">Examination Development</a></li>
+<li><a href="javascript:newexpandit('Lapsed Certification');" class="multiitemnone">Lapsed Certification</a><div id="subnavigation_menu_Lapsed Certification" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/reg_1st_history.asp#Lapsed_Certification">First Responder / EMR</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_basic_history.asp#Lapsed_Certification">EMT-Basic / EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int85_history.asp#Lapsed_Certification">EMT-Intermediate/85</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_aemt_history.asp#Lapsed_Certification">Advanced EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_int99_history.asp#Lapsed_Certification">EMT-Intermediate/99</a></li>
+<li><a href="https://www.nremt.org/nremt/about/reg_para_history.asp#Lapsed_Certification">EMT-Paramedic / Paramedic</a></li>
+</ul></div></li><li><a href="https://www.nremt.org/nremt/about/practice_analysis.asp">Practice Analysis</a></li>
+<li><a href="javascript:newexpandit('Preparing for Success');" class="multiitemnone">Preparing for Success</a><div id="subnavigation_menu_Preparing for Success" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/downloads/NREMT%20Candidate%20web%206.2.09.pdf">Color PDF</a></li>
+<li><a href="https://www.nremt.org/nremt/downloads/NREMT%20Candidate%20B&amp;W%20web%206.2.09.pdf">Black/White PDF</a></li>
+</ul></div></li><li><a href="javascript:newexpandit('Psychomotor Exam');" class="multiitemnone">Psychomotor Exam</a><div id="subnavigation_menu_Psychomotor Exam" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/psychomotor_exam_emr.asp">First Responder / EMR</a></li>
+<li><a href="https://www.nremt.org/nremt/about/psychomotor_exam_emt.asp">EMT-Basic / EMT</a></li>
+<li><a href="https://www.nremt.org/nremt/about/psychomotor_exam_advanced.asp">Advanced Levels (AEMT; I85; I99; EMT-Paramedic / Paramedic)</a></li>
+</ul></div></li><li><a href="https://www.nremt.org/nremt/CbtEmtServices/candidate_locate_exam.asp?secID=5">Locate a Psychomotor Examination</a></li>
+<li><a href="https://www.nremt.org/nremt/about/results_reporting.asp">Results Reporting</a></li>
+<li><a href="javascript:newexpandit('Retest Policies');" class="multiitemnone">Retest Policies</a><div id="subnavigation_menu_Retest Policies" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/policyCognitiveExamRetest.asp">Cognitive</a></li>
+<li><a href="https://www.nremt.org/nremt/about/policyPracticalExamRetest.asp">Psychomotor</a></li>
+</ul></div></li></ul></div></li><li><a href="javascript:newexpandit('National EMS System');" class="multiitemnone">National EMS System</a><div id="subnavigation_menu_National EMS System" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/emt_cand_state_offices.asp">State EMS Agency Information</a></li>
 <li><a href="https://www.nremt.org/nremt/about/emsAgendaFuture.asp">EMS Agenda for the Future</a></li>
 <li><a href="https://www.nremt.org/nremt/about/emsAgendaEducation.asp">EMS Education Agenda</a></li>
 <li><a href="https://www.nremt.org/nremt/about/scopeOfPractice.asp">National Scope of Practice Model</a></li>
 <li><a href="https://www.nremt.org/nremt/about/instituteOfMedicineReport.asp">Institute of Medicine Report</a></li>
 <li><a href="https://www.nremt.org/nremt/about/integrationOfNremtAndEms.asp">Integration of NREMT and EMS</a></li>
-</ul></div></li><li class="selected"><a href="javascript:newexpandit('General Policies');" class="multiitem">General Policies</a><div id="subnavigation_menu_General Policies" style="display: ;"><ul class="sub-subnav"><li><a href="javascript:newexpandit('Brochures ');" class="multiitemnone">Brochures </a><div id="subnavigation_menu_Brochures " style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/brochuresADA.asp?from=policies">ADA</a></li>
+</ul></div></li><li class="selected"><a href="javascript:newexpandit('General Policies');" class="multiitem">General Policies</a><div id="subnavigation_menu_General Policies" style="display: ;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/policy_accommodations.asp">Accommodations Disability Policy</a></li>
+<li><a href="https://www.nremt.org/nremt/about/policyPracticalExamRetest.asp">Advanced Level Practical Examination Retest Policy</a></li>
+<li><a href="javascript:newexpandit('Brochures ');" class="multiitemnone">Brochures </a><div id="subnavigation_menu_Brochures " style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/brochuresADA.asp?from=policies">ADA</a></li>
 <li><a href="https://www.nremt.org/nremt/about/brochuresCertification.asp?from=policies">Certification</a></li>
 <li><a href="https://www.nremt.org/nremt/about/brochuresRecertification.asp?from=policies">Recertification</a></li>
-</ul></div></li><li><a href="https://www.nremt.org/nremt/about/policy_accommodations.asp">Accommodations Disability Policy</a></li>
-<li><a href="https://www.nremt.org/nremt/about/policyPracticalExamRetest.asp">Advanced Level Practical Examination Retest Policy</a></li>
-<li><a href="https://www.nremt.org/nremt/about/policyCognitiveExamRetest.asp">Cognitive Examination Retest Policy</a></li>
-<li><a href="https://www.nremt.org/nremt/about/policy_disciplinary.asp">Eligibility,<br>Disciplinary and<br>Appeal Policies</a></li>
+</ul></div></li><li><a href="https://www.nremt.org/nremt/about/policyCognitiveExamRetest.asp">Cognitive Examination Retest Policy</a></li>
+<li><a href="https://www.nremt.org/nremt/about/policy_disciplinary.pdf">Eligibility,<br>Disciplinary and<br>Appeal Policies</a></li>
 <li><a href="https://www.nremt.org/nremt/about/policy_exam_review.asp">Exam Review Policy</a></li>
 <li><a href="https://www.nremt.org/nremt/about/policy_felony.asp">Felony Policy</a></li>
+<li><a href="https://www.nremt.org/nremt/about/para_accred_implementation_policy.asp">Paramedic Accreditation Policy</a></li>
 <li class="selected"><a href="https://www.nremt.org/nremt/about/policy_privacy.asp">Privacy Policy</a></li>
 <li><a href="https://www.nremt.org/nremt/about/policy_Terms of Use.asp">Terms Of Use Policy</a></li>
+<li><a href="https://www.nremt.org/nremt/about/transition_policy.asp">Transition Policy</a></li>
 </ul></div></li><li><a href="https://www.nremt.org/nremt/about/checkEmtStatus.asp">Check Status of Nationally Certified EMS Professional</a></li>
 <li><a href="javascript:newexpandit('Make a Purchase');" class="multiitemnone">Make a Purchase</a><div id="subnavigation_menu_Make a Purchase" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/purVoucher.asp">Vouchers</a></li>
 <li><a href="https://www.nremt.org/nremt/about/shop.asp?shopFunction=selPurchType">NREMT Items</a></li>
@@ -181,12 +214,14 @@ function returnSubmitsForm(e)
 <li><a href="https://www.nremt.org/nremt/about/mediaCenterNews.asp">News Archives</a></li>
 <li><a href="https://www.nremt.org/nremt/about/What_is_EMS.asp?from=media">What is EMS?</a></li>
 <li><a href="https://www.nremt.org/nremt/about/EMS_Fast_Facts.asp">EMS Fast Facts</a></li>
+<li><a href="https://www.nremt.org/nremt/about/40th Anniversary Home.asp">40th Anniversary</a></li>
 </ul></div></li><li><a href="javascript:newexpandit('Resources');" class="multiitemnone">Resources</a><div id="subnavigation_menu_Resources" style="display: none;"><ul class="sub-subnav"><li><a href="javascript:newexpandit('Brochures');" class="multiitemnone">Brochures</a><div id="subnavigation_menu_Brochures" style="display: none;"><ul class="sub-subnav"><li><a href="https://www.nremt.org/nremt/about/brochuresADA.asp">ADA</a></li>
 <li><a href="https://www.nremt.org/nremt/about/brochuresCertification.asp">Certification</a></li>
 <li><a href="https://www.nremt.org/nremt/about/brochuresRecertification.asp">Recertification</a></li>
 </ul></div></li><li><a href="https://www.nremt.org/nremt/about/CBT_Home.asp">Computer Based Testing</a></li>
 <li><a href="https://www.nremt.org/nremt/about/exam_coord_man.asp">Practical Exam Information</a></li>
 <li><a href="https://www.nremt.org/nremt/about/resourcePublications.asp">Instructor Resources</a></li>
+<li><a href="https://www.nremt.org/nremt/about/2010_aha_guidelines.asp">NREMT Essay: 2010 AHA Guidelines</a></li>
 <li><a href="https://www.nremt.org/nremt/about/related_links.asp">Related Links</a></li>
 <li><a href="https://www.nremt.org/nremt/about/resourcesVideo.asp">Video</a></li>
 <li><a href="https://www.nremt.org/nremt/about/resourcesWebinars.asp">Webinars</a></li>
@@ -537,7 +572,7 @@ Policy, please contact us at 1 (614) 888-4484.
                 News<br />
                 -->
                 <div class="copyright">
-                    © Copyright 2001-2008, National Registry of Emergency Medical Technicians<br>
+                    © Copyright 2001-2011, National Registry of Emergency Medical Technicians<br>
 
                     Rocco V. Morando Building. 6610 Busch Blvd., P.O. Box 29233, Columbus, Ohio 43229<br>
                     Phone: (614) 888-4484 Fax: (614) 888-8920 E-mail: <a href="mailto:webmaster@nremt.org">webmaster@nremt.org</a>
