@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605171446id_/http%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowestpricetrafficschool.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015112155id_/http%3A//www.lowestpricetrafficschool.com/privacy.html) for the most accurate reproduction.*
 
 # Lowest Price Traffic School - Privacy Policy
 
@@ -29,7 +29,7 @@ Per-session cookies serve technical purposes like providing seamless navigation 
 
 ## If You Send Us Personal Information
 
-If you choose to provide us with personal information -- such as completeing a Contact Us form with personal information and submitting it to us through the website -- we may use that information to respond to your message and help provide you the information you have requested. We only share the information you give us with other parties if your inquiry relates to that party, or as otherwise required by law. LowestPriceTrafficSchool.com never collects information for sale to third parties for marketing purposes.
+If you choose to provide us with personal information -- such as completing a Contact Us form with personal information and submitting it to us through the website -- we may use that information to respond to your message and help provide you the information you have requested. We only share the information you give us with other parties if your inquiry relates to that party, or as otherwise required by law. LowestPriceTrafficSchool.com never collects information for sale to third parties for marketing purposes.
 
 ## Site Security
 
