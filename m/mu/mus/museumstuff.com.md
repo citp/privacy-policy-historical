@@ -1,25 +1,55 @@
-> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2010-09-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100902151842id_/http%3A//www.museumstuff.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015132159id_/http%3A//www.museumstuff.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Information : MuseumStuff.com
+# Privacy
 
-_MuseumStuff.com and its parent company Discovery Media are committed to safeguard and respect our visitors rights to honest and secure privacy. This current policy was updated and strengthened on September 24, 2007._
+PLEASE READ TERMS BEFORE USING THIS SERVICE. BY CONTINUING TO USE MuseumStuff.com, YOU AGREE TO ABIDE BY THE CONDITIONS OF THIS AGREEMENT. 
 
-**What personal information does MuseumStuff.com collect?** .. If you take part in advanced features of our network, such as signing up for a newsletter or participating in contests, we may collect personal information such as your name, location, email address, and general age information. If this advanced activity has taken place on behalf of one of our member organizations (i.e. participating museums) then there is the potential for your information to be shared with appropriate member organizations. - For general site visits the information we collect is restricted anonymous statistics such as what site or search engine you used to enter our network, which browser and platform you are using, and in some cases the search terms you employed that brought you to our virtual doorstep. - This general and we stress, ANONYMOUS information may at time be shared with strategic partners as described below. 
+Thank you for visiting the MuseumStuff.com site. We are committed to the privacy of our visitors. We collect no personal information about you when you visit our Web site unless you choose to provide that information to us. 
 
-**How does MuseumStuff.com collect and use statistical information?** .. The general information we collect concerning referrals, browser, platforms, etc, are strictly for internal statistical analysis as an aid in evaluating our promotional effectiveness, and we may at times share this information in general form with our sponsor and strategic partners. We do not share identifying or contact information concerning our visitors with unaffiliated parties, however we may at times provide such information with organizations and partners that play a central role in the operation and fulfilment of our service. - For example, if you take part in a contest or other special promotion through our network, the sponsors for that activity may require contact information to provide related services. 
+Here is how we handle information about your visit to our Web site. 
 
-**Do you sell my personal Information?** .. MuseumStuff.com and its parent company Discovery Media DOES NOT SELL, RENT OR RELEASE PERSONAL INFORMATION GATHERED ON OUR SITES TO OTHER COMPANIES, INDIVIDUALS OR GROUPS! Any information gathered is only used by our network for purposes stated above. 
+## Information collected and stored automatically:
 
-**Affiliated sites, linked sites and advertisements** .. MuseumStuff.com expects its partners, advertisers and third-party affiliates to respect the privacy of our users. However, third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a MuseumStuff.com page, certain content that is actually created or hosted by a third party. Also, through MuseumStuff.com you may be introduced to, or be able to access, information, Web sites, advertisements, features, contests or sweepstakes offered by other parties. MuseumStuff.com is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. 
+"Cookies" are small bits of text that are either used for the duration of a session ("session cookies") or saved on a user's hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site ("persistent cookies"). This Web site does not use persistent cookies or any other persistent tracking technology. 
 
-**Privacy issues related to children under 13** .. Although our visitors arrive from around the world, our network and parent organization is based in the United States. Thus, we adhere to strict privacy policies set forth by the [COPA Commission](http://www.copacommission.org/) a congressionally appointed panel, mandated by the [Child Online Protection Act](http://www.copacommission.org/commission/original.shtml) which was approved by Congress in October 1998. An excerpt from the final ruling adopted in April, 2000 is below: 
+If you do nothing during your visit but browse through the Web site, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not identify you personally. We automatically collect and store information like the following concerning your visit: 
 
-_The rule sets forth several exceptions to the requirement of prior parental consent that permit operators to collect a child's e-mail address for certain purposes. For example, no consent is required to respond to a one-time request by a child for "homework help" or other information. In addition, an operator can enter a child into a contest or send a child an online newsletter as long as the parent is given notice of these practices and an opportunity to prevent further use of the child's information._
+  * The Internet domain (for example, "xcompany.com"; 
+  * Your IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Web site; 
+  * The type of browser and operating system used to access our site; 
+  * The date and time you access our site; 
+  * The pages you visit; and If you linked to our Web site from another Web site, the address of that Web site. 
 
-In aligning our network with this ruling, in situations where we collect personal and/or contact information, we now require the individual to indicate if they are under 13 years of age, and if so, parental permission may be required before further correspondance or activity may occur. Furthermore, personal and contact information for those under 13 will not be shared with our member organizations or strategic partners without verifiable parental consent, within reasonable limits as described by the "Safe Harbor" ruling as detailed below: 
 
-_The statute includes a "safe harbor" program for industry groups or others who wish to create self-regulatory programs to govern participants' compliance. Commission-approved safe harbors will provide Web site operators with the opportunity to tailor compliance obligations to their business models with the assurance that if they follow the safe harbor they will be in compliance with the rule._
 
-**Security issues that are beyond our control** .. Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas, that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online 
+We use this information to help us make our site more useful to visitors, to learn about the number of visitors to our site, and the types of technology our visitors use. We do not track or record information about individuals and their visits. 
+
+## Information protection:
+
+For site security purposes and to ensure that this service remains available to all users, this hosting computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. If such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act or other law. 
+
+## Information that you voluntarily provide:
+
+We do not collect personally identifiable information unless you choose to provide it to us. If you provide us with personally identifiable information, for example, by sending an e-mail or by filling out a form and submitting it through our Web site, we use that information to respond to your message and to help us provide you with the information and services that you request. All uses of that information are described on the Web page containing the form. 
+
+Submitting voluntary information constitutes your consent to the use of the information for the stated purpose. When you click the "Submit" button on any of the Web forms found on our sites, you are indicating your voluntary consent to use of the information you submit for the purpose stated. 
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
+
+## How information is used:
+
+The information we collect is used for a variety of purposes (e.g., to register you for a conference, to respond to requests for information, and to fill orders). We make every effort to disclose clearly how information is used at the point where it is collected so you can determine whether you wish to provide the information. 
+
+## Retention of Information:
+
+We destroy the information we collect when the purpose for which it was provided has been fulfilled unless we are required to keep it longer by statute or official policy. Electronically submitted information is maintained and destroyed according to the principles of the Federal Records Act and the regulations and records schedules approved by the National Archives and Records Administration, and in some cases information submitted to us may become an agency record and therefore might be subject to a Freedom of Information Act request. 
+
+Also, MuseumStuff.com is not responsible for the privacy practices employed by other sites that may link to the MuseumStuff.com web site. 
+
+## Interaction with children:
+
+This Web site offers some educational content to children under 13. No personally identifiable information is collected from these visitors unless voluntarily submitted as a request for information or services. The information supplied is used to respond to the user's inquiries or to provide services requested by the user. 
+
+## Links to other sites:
+
+Our Web site contains links to various other federal agencies and private organizations. Once you link to another site, you are then subject to the privacy policies of the new site. It is always a good idea to read the Privacy Policy of any site you visit. 
