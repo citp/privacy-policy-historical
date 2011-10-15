@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cashx.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228004915id_/https%3A//www.cashx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashx.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015230309id_/https%3A//www.cashx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  [](https://web.archive.org/) |  **Connect with us:** |  **Server Time:** Dec 27th, 2010 7:40:35 pm EST   
+|  [](https://web.archive.org/) |  |  **Server Time:** Oct 15th, 2011 7:03:11 pm EDT   
 You are currently not logged in, please [**Login**](https://web.archive.org/login) or [**Signup Now**](https://web.archive.org/signup)!   
 ---|---|---  
   
