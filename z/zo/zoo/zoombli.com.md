@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoombli.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127171226id_/http%3A//zoombli.com//Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombli.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016014422id_/http%3A//www.zoombli.com//Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
