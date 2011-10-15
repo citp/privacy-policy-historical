@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2010-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100105035847id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullcompass.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015121108id_/http%3A//www.fullcompass.com/news/88.html) for the most accurate reproduction.*
 
 # Privacy Statement | Full Compass
 
@@ -6,7 +6,7 @@
 
   * **Information That You Provide Us** We accept and store any information that you submit on Fullcompass.com or by any other means. For example, you may provide personal information when you place an order, enter a giveaway, request a publication, or contact us. This information may include name, address, phone numbers, email address, credit card and payment information, and other personal information.
   * **Web Site Use Information** We collect and analyze technical information about how customers interact with Fullcompass.com including, but not limited to, IP addresses, browser types, operating systems, pages viewed, links, dates and times, and other information.
-  * **Cookies** Like many websites, we utilize a standard technology called "cookies" to differentiate you from other shoppers and to store and retrieve information about your interaction with the website, like the items in your shopping cart or wish list for example.
+  * **Cookies** Like many websites, we utilize a standard technology called "cookies" to differentiate you from other shoppers and to store and retrieve information about your interaction with the website, like the items in your shopping cart or wish list for example. As part of this activity, Fullcompass.com participates in the Google Site Stats program. [Click here to learn more](http://www.google.com/intl/en/privacy/ads/privacy-policy.html).
   * **Email Information and Contact Forms** We may collect, store, and use any information that you submit via email or any of the forms on our website. We may also collect information about email communications such as confirming that an email was opened or which links were clicked.
 
 
