@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openthemagazine.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225193539id_/http%3A//www.openthemagazine.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openthemagazine.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015072134id_/http%3A//www.openthemagazine.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OPEN Magazine
 
