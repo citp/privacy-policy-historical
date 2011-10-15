@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409132547id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amenclinics.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016012119id_/http%3A//www.amenclinics.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Amen Clinics
-
-Privacy Policy
+# The Amen Clinics
 
 Amen Clinics, Inc. values the privacy of all of our readers. We take very seriously the need to respect and protect your privacy and the security of any information you may share with us. We’ve built a site that allows you to control how much information you give us and how that information is used. This privacy policy (“Policy”) describes the data collection, use, and disclosure practices of Amen Clinics, Inc. in connection with the Web Site, www.AmenClinics.com (the “Web Site” or “Site”).
 
@@ -132,7 +130,3 @@ Amen Clinics, Inc.
 Newport Beach, CA 92660 USA  
 (888) 564-2700  
 [privacy@amenclinic.com](mailto:privacy@amenclinic.com)
-
-## Share this Article
-
-Found this article useful or interesting? Share it with others!
