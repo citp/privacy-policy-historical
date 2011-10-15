@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201083922id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typekit.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015083750id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Typekit
 
@@ -30,4 +30,4 @@ Typekit may periodically update this policy. We will notify you about significan
 
 ## Questions
 
-Any questions about this Privacy Policy should be addressed to support at Small Batch Inc, 766 Valencia Street, San Francisco, CA 94110 
+Any questions about this Privacy Policy should be addressed to support at Typekit, Inc., 2601 Mission Street, 9th Floor, San Francisco, CA 94110. 
