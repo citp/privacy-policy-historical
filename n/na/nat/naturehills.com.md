@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2008-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080515091810id_/http%3A//www.naturehills.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturehills.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015155130id_/http%3A//www.naturehills.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Policy - Nature Hills Nursery, Inc.
 
@@ -6,7 +6,7 @@ Nature Hills Nursery respects the privacy of visitors to our website and the pri
 
 **Currently, we would collect personal information for the following reasons:**
 
-  * Product Purchase: We will use your information ONLY to process and ship your order.
+  * Product Purchase: We will use your information ONLY to process your order, ship your order, answer questions about products, and advise you of other product realted information.
   * Newsletter Registration: We will use your information ONLY to email you our newsletter. To assist us in making emails more useful, we often receive a confirmation when you open an email from us.
   * Promotional Material/Specials: We will use your information ONLY to email you promotions/specials that we may be offering from time to time.
 
@@ -14,7 +14,7 @@ Nature Hills Nursery respects the privacy of visitors to our website and the pri
 
 **We would/will collect the following kinds of information:**
 
-Your name, address, email address, phone number(s), credit card number and/or billing information. This information is used ONLY to process your order, debit your credit card for payment and ship your order.
+Your name, address, email address, phone number(s), credit card number and/or billing information. This information is used ONLY to process your order, charge your debit/credit card for payment and ship your order.
 
 We will not make personal information available to outside organizations, except for organizations that work with us on Nature Hills Nursery promotions. In such case, such personal information is used only for purposes related to the administration of the promotions.
 
