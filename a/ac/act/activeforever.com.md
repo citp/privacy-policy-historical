@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2008-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081007072545id_/http%3A//www.activeforever.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activeforever.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015025216id_/http%3A//www.activeforever.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # ActiveForever.com Privacy Policy
+
+### ActiveForever Privacy Policy
 
 #### Our Commitment to Privacy
 
@@ -90,3 +92,9 @@ We are not responsible for the practices employed by Web sites linked to or from
 ##### Secure Transfer of Information
 
 All information gather and transferred on ActiveForever.com is secure, so you can shop online in confidence. ActiveForever.com uses a 128-bit SSL (Secure Socket Layer) encryption on all pages colleting private information (i.e. credit card data, email addresses, etc).
+
+##### What is ActiveForever's policy on advertising and advertising-related content?
+
+Advertising and Advertising Content Policy. To further our mission of making reliable health information available to the public, we accept advertising and sponsorship under strict guidelines. We will refuse any advertisement that we believe is incompatible with our mission. The presence of an ad on our site or in our Discovery Digest, our weekly newsletter, does not imply endorsement of the advertised company or product. Advertisers and sponsors must not make unsubstantiated health claims or suggest that Activeforever has endorsed a product or service. Advertising is not targeted to individual users but may be placed on the site adjacent to content related to the advertiser or sponsor interest.
+
+ActiveForever.com maintains a distinct separation between advertising content and editorial content. All advertising content on ActiveForever.com or in the Discovery Digest, our weekly newsletter, is clearly labeled as an advertisement. Sponsored areas of the site are labeled as such, and the sponsoring organizations are identified. destruction.
