@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the erepublik.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430111812id_/http%3A//www.erepublik.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erepublik.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015193411id_/http%3A//www.erepublik.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Erepublik
+# eRepublik
 
 (1) Here at eRepublik we care about your privacy and we respect your privacy rights. 
 
