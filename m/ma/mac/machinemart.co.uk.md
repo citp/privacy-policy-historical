@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2008-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080915021020id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the machinemart.co.uk privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015134115id_/http%3A//www.machinemart.co.uk/pages/privacy-policy) for the most accurate reproduction.*
 
 # Machine Mart: No1 for Tools & Equipment
 
@@ -24,6 +24,8 @@ Whenever you place an order we collect your name, postal address, email address 
  We may also store and use information for the purposes of website and system administration, and fulfilment of customer service.  For example, we keep details of your purchase in order to maintain records relating to product warranties etc.
 
  We may analyse information collected for research, and for the development of our website and our services to benefit our website visitors and customers.  This may include building records of individual visitors, which are combined together for analysis of trends and patterns in the usage of our website. 
+
+Under the Privacy and Electronic Communications Act we do not send random marketing emails to personal email addresses (spam).
 
    **Unsubscribing:**  
 If you later decide that you do not wish to receive such information from Machine Mart, you can "Unsubscribe" from our updates at any time.  Each e-mail you receive will contain details of how to unsubscribe.
