@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the htbridge.ch privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526145955id_/http%3A//www.htbridge.ch/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the htbridge.ch privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015174422id_/https%3A//www.htbridge.ch/pages/privacy.html) for the most accurate reproduction.*
 
 # High-Tech Bridge SA - Privacy Policy
 
@@ -9,7 +9,7 @@ Thank you for visiting our web site. This privacy policy tells you how we use pe
   
 
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfil your specific request. This information is only used to fulfil your specific request, unless you give us written permission to use it in another manner, for example to add you to one of our mailing lists. 
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfil your specific request. This information is only used to fulfil your specific request, unless you give us written permission to use it in another manner. 
 
 ## 2\. Cookie/Tracking Technology
 
@@ -30,7 +30,7 @@ We may share information with governmental agencies assisting them in fraud prev
   
 
 
-Your personally identifiable information is kept secure. Only authorized employees, agents (who have signed Non Discloser Agreement) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
+Your personally identifiable information is kept secure. Only authorized employees, agents (who have signed strict Non Discloser Agreement) have access to this information. All emails and newsletters from this site allow you to opt out of further mailings. 
 
 ## 5\. Privacy Contact Information
 
