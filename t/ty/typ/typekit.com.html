@@ -1,109 +1,140 @@
-<!--The following is the downloaded HTML source of the typekit.com privacy policy that was archived on 2010-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101201083922id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the typekit.com privacy policy that was archived on 2011-10-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111015083750id_/http%3A//typekit.com/policies/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <title>Privacy Policy | Typekit</title>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="/5MJY4OtvDSW6lkL2RNb2nDI4zi6R2DnUyvF2XcIPIM=">
+    <meta name="keywords" content="font, fonts, free fonts, typekit, type kit, font kit, web fonts, webfonts, font type, online fonts, free online font, internet fonts, free internet fonts, script font, text font, bold font, best fonts, cool font, free cool fonts, beautiful font, free beautiful fonts, sans fonts, serif fonts, free text font, real fonts, font library, fonts for free, font-face">
+
+    <link href="/stylesheets/bundle-typekit.css?28a10966" media="screen" rel="stylesheet" type="text/css">
+    <script src="/javascripts/bundle-typekit.js?28a10966" type="text/javascript"></script>
     
-    <link charset="utf-8" rel="Stylesheet" type="text/css" href="/stylesheets/bundle-typekit.4b170.css" media="all">
-    <script type="text/javascript" src="/javascripts/bundle-typekit.2e7c9.js"></script>
     
-    
-  </head>
-  <body>
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+  <body class="static-pages static-pages-show">
+    <ul class="persistent-notifications">
+  <li id="adobe-announcement" class="persistent-notification-item dismissable" style="display: none">
+    <span class="content">Big news! Typekit has been acquired by Adobe. <a href="http://blog.typekit.com/2011/10/03/adobe-acquires-typekit">Read more</a>.</span>
+  </li>
+</ul>
+<script type="text/javascript">
+//<![CDATA[
+  (function() {
+    if (!$.cookie('tk_adobe_announcement_dismissed')) {
+      var $announcement = $('#adobe-announcement').show();
+
+      var $dismiss = $('<a>').attr('href', '#dismiss').addClass('dismiss-link').html('&times;');
+      $announcement.find('.content').append($dismiss);
+
+      $dismiss.click(function(e) {
+        e.preventDefault();
+        $announcement.slideUp();
+        $.cookie('tk_adobe_announcement_dismissed', 'true', { expires: 60 });
+      });
+    }
+  })();
+//]]>
+</script>
+
+
     
 
     <div id="header-wrapper">
-      <div id="header" class="clearfix">
-        <div class="logo">
-          <a href="/" title="Typekit home">Typekit</a>
-        </div>
-        <ul id="global-navigation">
-              <li>
-                <a href="/plans" class="button muted muted-1">Register</a>
-              </li>
-              <li>
-                <div id="auth-navigation-login">
-                  <a href="/login" class="button deemphasized demphasized-1 navigation-login-button">Sign in</a>
-                  <div class="navigation-login-form">
-                    
-<form action="https://typekit.com/login" method="POST" accept-charset="utf-8" class="basic-form prevent-double-submit-form clearfix">
-  <input type="hidden" name="_method" value="PUT">
-  <table>
-    <tbody><tr class="text-field">
-      <th>
-        <label for="email">Email</label>
-      </th>
-      <td>
-        <input type="text" name="email" value="" id="email">
-      </td>
-    </tr>
-    <tr class="text-field">
-      <th>
-        <label for="password">Password</label>
-      </th>
-      <td>
-        <input type="password" name="password" value="" id="password">
-      </td>
-    </tr>
-    <tr class="submit-field">
-      <th></th>
-      <td class="clearfix">
-        <a href="/passwords" class="cancel-link">Forgot your password?</a>
-        <input type="submit" name="Submit" value="Sign in" id="Submit" class="button">
-      </td>
-  </tr></tbody></table>
-</form>
-
-                  </div>
-                </div>
-              </li>
-        </ul>
-      </div>
+  <div id="header">
+    <div class="logo">
+        <a href="https://typekit.com/" title="Typekit home">Typekit</a>
     </div>
+    <ul id="global-navigation">
+          <li>
+            <a href="/plans" class="header-register-button">Register</a>
+          </li>
+          <li>
+              <div id="login-dropdown" data-apply-bindings="{&quot;open&quot;:false}" data-bind="css: { opened: open }, outsideClick: function() { open(false) }">
+  <div class="login-dropdown-button-wrapper">
+    <a href="/login" class="login-dropdown-button" data-bind="click: function() { open(!open()) }">Sign in</a>
+  </div>
+  <div class="login-dropdown-form">
+    <form action="https://typekit.com/login" method="POST" accept-charset="utf-8" class="prevent-double-submit-form"><input type="hidden" name="_method" value="PUT"><input type="hidden" name="authenticity_token" value="/5MJY4OtvDSW6lkL2RNb2nDI4zi6R2DnUyvF2XcIPIM=">
+      <div class="email">
+        <label for="email">Email address</label>
+        <input type="text" name="email" value="" id="email" data-bind="focusWhen: open">
+      </div>
+      <div class="password">
+        <label for="password">Password</label>
+        <input type="password" name="password" value="" id="password">
+      </div>
+      <div class="actions">
+        <input type="submit" name="Submit" value="Sign in" id="Submit">
+      </div>
+      <div class="forgot-password">
+        <a href="/password_resets/new">Forgot your password?</a>
+      </div>
+    </form>
+  </div>
+</div>
+
+          </li>
+    </ul>
+  </div>
+</div>
+
 
       <div id="navigation" class="clearfix">
-        <ul>
-            <li>
-              <a href="/tour" class="navigation-button">Feature Tour</a>
-            </li>
-            <li>
-              <a href="/plans" class="navigation-button">Pricing</a>
-            </li>
-          <li>
-            <a href="/libraries/full" class="navigation-button">Browse Fonts</a>
-          </li>
-          <li>
-            <a href="/foundries" class="navigation-button">Foundries</a>
-          </li>
-          <li>
-            <a href="/gallery" class="navigation-button">Gallery</a>
-          </li>
-          <li>
-            <a href="/about" class="navigation-button">About</a>
-          </li>
-          <li>
-            <a href="http://blog.typekit.com/" class="navigation-button" target="_blank">Blog</a>
-          </li>
-          <li>
-            <a href="/help" class="navigation-button">Help</a>
-          </li>
-        </ul>
-        <form method="get" class="search-form" action="/search">
-  <p>
-    <input type="text" value="" class="text-field autocomplete-input text" title="Find fonts" name="q" id="q">
-    <input type="submit" value="Go" class="submit-field button deemphasized deemphasized-6" name="submit" id="submit">
-  </p>
+    <ul class="navigation-options">
+        <li>
+          <a href="/tour" class="navigation-button">Feature Tour</a>
+        </li>
+        <li>
+          <a href="/plans" class="navigation-button">Pricing</a>
+        </li>
+      <li>
+        <a href="/libraries/full" class="navigation-button">Browse Fonts</a>
+      </li>
+      <li>
+        <a href="/foundries" class="navigation-button">Foundries</a>
+      </li>
+      <li>
+        <a href="/gallery" class="navigation-button">Gallery</a>
+      </li>
+      <li>
+        <a href="/about" class="navigation-button">About</a>
+      </li>
+      <li>
+        <a href="http://blog.typekit.com/" class="navigation-button" target="_blank">Blog</a>
+      </li>
+      <li>
+        <a href="/help" class="navigation-button">Help</a>
+      </li>
+    </ul>
+      <script id="search-form-result-row-template" type="text/html"><li data-bind="css: { selected: viewModel.selectedResult() && viewModel.selectedResult().id == id },
+               attr: { title: name },
+               event: { mouseover: function() { viewModel.selectRowBy('id', id) } },
+               click: function() { viewModel.chooseSelectedRow() },
+               text: name"></li>
+</script>
+  <form accept-charset="UTF-8" action="/search" class="search-form" data-apply-bindings="search-form" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <p>
+  <input type="text" name="q" class="search-form-field" placeholder="Find fonts" autocomplete="off" data-bind="value: query, valueUpdate: 'afterkeydown',
+               css: { loading: isLoading },
+               event: { focus: show, blur: function() { setTimeout(hide.bind(this), 100) } },
+               keyboard: { up: previousRow, down: nextRow, 'tab,enter': chooseSelectedRow }">
+  <input type="submit" value="Go" class="search-form-submit">
+</p>
+<ul class="search-form-results" style="display: none" data-bind="visible: isVisible, template: { name: 'search-form-result-row-template', foreach: results }"></ul>
+
 </form>
-      </div>
+  </div>
+
 
     <div id="content">
         <div class="sections sections-770-170 clearfix">
           <div class="section first">
-            <div id="main-content">
+      <div id="main-content">
 
 
-              <h1 class="heading heading-1">Privacy Policy</h1>
+        <h1 class="heading heading-1">Privacy Policy</h1>
 
 <p>
   We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or under the following circumstances:
@@ -145,37 +176,43 @@
 
 <h2 class="heading heading-4">Questions</h2>
 <p>
-  Any questions about this Privacy Policy should be addressed to support at Small Batch Inc, 766 Valencia Street, San Francisco, CA 94110
+  Any questions about this Privacy Policy should be addressed to support at Typekit, Inc., 2601 Mission Street, 9th Floor, San Francisco, CA 94110.
 </p>
-            </div>
+      </div>
 
-            <div id="footer">
-              <ul class="clearfix">
-                <li>
-                  © Copyright 2010 <a href="http://www.smallbatchinc.com/">Small Batch, Inc.</a>
-                </li>
-                  <li>
-                    <a href="/policies">Terms</a>
-                  </li>
-                  <li>
-                    <a href="/policies/privacy">Privacy Policy</a>
-                  </li>
-                  <li>
-                    <a href="/developers">Developers</a>
-                  </li>
-                  <li>
-                    <a href="/jobs">Jobs</a>
-                  </li>
-                  <li id="typekit-on-twitter">
-                    <a href="http://twitter.com/typekit/">Typekit on Twitter</a>
-                  </li>
-                  <li>
-                    <a href="mailto:support@typekit.com">
-                      Contact Us
-                    </a>
-                  </li>
-              </ul>
-            </div>
+        <div id="footer">
+    <p class="footer-announcement">
+      <a href="http://www.adobe.com" class="footer-announcement-logo"><img src="/images/adobe-footer-logo.png" alt="Adobe" width="32" height="40"></a>
+      Typekit has been acquired by Adobe.<br>
+      <a href="http://www.adobe.com/aboutadobe/pressroom/pressreleases/201110/AdobeAcquiresTypekit.html">Read the press release</a> or our <a href="http://blog.typekit.com/2011/10/03/adobe-acquires-typekit">blog post</a>.
+    </p>
+    <div class="footer-copyright-and-links">
+      <p class="footer-copyright">
+        Copyright © 2011 Adobe Systems Incorporated. All rights reserved.
+      </p>
+      <ul class="footer-links">
+          <li>
+            <a href="/policies">Terms</a>
+          </li>
+          <li>
+            <a href="/policies/privacy">Privacy</a>
+          </li>
+          <li>
+            <a href="/developers">Developers</a>
+          </li>
+          <li id="typekit-on-twitter">
+            <a href="http://twitter.com/typekit/">@Typekit</a>
+          </li>
+          <li>
+            <a href="mailto:support@typekit.com">Contact</a>
+          </li>
+          <li>
+            <a href="http://status.typekit.com">Status Blog</a>
+          </li>
+      </ul>
+    </div>
+  </div>
+
 
           </div>
           <div class="section">
@@ -191,11 +228,31 @@
   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
   document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
   </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
   <script type="text/javascript">
   try {
-  var pageTracker = _gat._getTracker("UA-8850781-2");
-  pageTracker._trackPageview();
-  } catch(err) {}</script>
+  var pageTracker = _gat._getTracker("UA-8850781-2"); pageTracker._trackPageview();
+  } catch(err) {}
+  </script>
+
+  <script type="text/javascript">
+  adroll_adv_id = "H54FSYXF5JEFLINFYVNKH2";
+  adroll_pix_id = "Y4NPBTXXRBEARKGBJOZWEV";
+  (function () {
+  var oldonload = window.onload;
+  window.onload = function(){
+     __adroll_loaded=true;
+     var scr = document.createElement("script");
+     var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+     scr.setAttribute('async', 'true');
+     scr.type = "text/javascript";
+     scr.src = host + "/j/roundtrip.js";
+     ((document.getElementsByTagName('head') || [null])[0] ||
+      document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+     if(oldonload){oldonload()}};
+  }());
+  </script>
 
   
+
 </body></html>
