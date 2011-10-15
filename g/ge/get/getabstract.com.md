@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getabstract.com privacy policy that was archived on 2011-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110211214852id_/http%3A//www.getabstract.com/pages/0/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getabstract.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015032848id_/http%3A//www.getabstract.com/pages/0/jsp/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # getAbstract
 
@@ -15,7 +15,7 @@ At getAbstract we understand that your personal information is yours. We support
   * We do not store any credit card numbers on our system.
   * We will respond to questions you have about your privacy rights. To ask questions send us an email to the following address: [privacy@getAbstract.com](mailto:privacy@getAbstract.com). 
   * In accordance with our commitment to protect personal privacy, getAbstract adheres to the principles of the Safe Harbor Framework as developed by the U.S. Department of Commerce in consultation with the European Commission. The seven principles and fifteen Frequently Asked Questions (FAQs) referred to in this policy constitute Safe Harbor privacy framework. These principles and FAQs may be found at: http://www.export.gov/safeharbor 
-  * Governing Law and Jurisdiction: All matters concerning the validity and interpretation of and performance of our services shall be governed by the material laws of Switzerland. A subscriber consents to the exclusive jurisdiction of the courts of Lucerne/Switzerland
+  * Governing Law, Jurisdiction and Dispute Resolution: All matters concerning the validity and interpretation of and performance of our services shall be governed by the material laws of Switzerland. A subscriber consents to the exclusive jurisdiction of the courts of Lucerne/Switzerland
   * In case of merger or bankruptcy, your data will be permanently deleted from our database.
   * Contact: getAbstract, Inc. | One Aventura | 20900 NE 30th Ave. #315 | Aventura, FL 33180 | USA
   * This policy is effective August 1, 2009. Any changes to the policy are communicated on this web-site.
