@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagesforme.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614135213id_/http%3A//easilysharing.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagesforme.com privacy policy that was archived on 2011-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111015025301id_/http%3A//www.easilysharing.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # EasilySharing.Com » More Information » Privacy Policy
 
