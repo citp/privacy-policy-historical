@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinejobsopen.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614200133id_/http%3A//onlinejobsopen.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejobsopen.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016145324id_/http%3A//www.onlinejobsopen.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
