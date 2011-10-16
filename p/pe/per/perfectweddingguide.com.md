@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102105850id_/http%3A//www.perfectweddingguide.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perfectweddingguide.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016162307id_/http%3A//www.perfectweddingguide.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Perfect Wedding Guide
 
@@ -33,6 +33,8 @@ To allow you to use some of our features (including online bridal registry), inf
 Any information we collect may be shared from time to time with a third party to act on our behalf for projects such as market research surveys and contest entry processing, and we will provide information to these third parties specifically for use in connection with these projects. Contest participation is entirely optional and the information we provide to such third parties will be protected by a confidentiality agreement that will obligate the third party to only use such information to complete the assigned project. 
 
 In addition to the circumstances outlined above, we may disclose your information if required by law, court order, as requested by other government or law enforcement authorities, or in the good faith belief that disclosure is necessary or advisable, including (without limitation) when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
 ## THE CHOICES YOU HAVE ABOUT THE COLLECTION AND USE OF YOUR INFORMATION
 
