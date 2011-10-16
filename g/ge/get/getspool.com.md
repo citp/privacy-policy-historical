@@ -1,100 +1,89 @@
-> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getspool.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016074231id_/https%3A//getspool.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Spool - Privacy Policy
 
-**Go Daddy Respects Your Privacy**
+## [Request an Invite ›](https://web.archive.org/signup)
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Blueprint Labs, Inc. (“Spool”) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the [www.getspool.com](http://www.getspool.com/) website and domain name, and any other linked pages, features, content, or application services offered from time to time by Spool in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+This Privacy Policy covers Spool’s treatment of personally identifiable information ("Personal Information") that Spool gathers when you access the Website and when you use Spool’s services. This policy does not apply to the practices of companies that Spool does not own or control, or to individuals that Spool does not employ or manage.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers:
 
-**Information Collection and Use**
+## Personal Information You Provide to Us:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We receive and store any information you enter on our Website or provide to us in any other way. The types of Personal Information collected include your full name, email address, mobile device identification number, credit card and/or other payment information (if required for a premium service), IP address, browser information, username, password and any other information necessary for us to provide our services. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Spool’s products and services, including specials and new features. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## Personal Information Collected Automatically:
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * We receive and store certain types of information whenever you interact with our Website or use our services. Spool automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested. 
+  * Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components, similar to TV ratings that indicate how many people watched a particular show. Spool only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the Website or services so that we can make the Website appealing to as many customers as possible, and improve those services. As part of this use of information, we may provide aggregate information to our partners about how our customers, collectively, use our Website or services. We share this type of statistical data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. Again, Spool never discloses aggregate information to a partner in a manner that would identify you personally.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+## E-mail Communications:
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We often receive a confirmation when you open an email from Spool if your computer supports this type of program. Spool uses this confirmation to help us make emails more interesting and helpful. We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers. When you receive e-mail from Spool, you can opt out of receiving further e-mails by following the included instructions to unsubscribe.
 
-**Security**
+## What About Cookies?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality. 
+  * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features.
+  * Ads appearing on the Website may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Spool and does not cover the use of cookies by any advertisers.
 
-**Updating Your Information**
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Personal Information about our customers is an integral part of our business. We neither rent nor sell your Personal Information to anyone. We share your Personal Information only as described below.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+_Affiliated Businesses We Do Not Control_ : We anticipate that we may become affiliated with a variety of businesses and work closely with them. In certain situations, these businesses may sell items to you through the Website. In other situations, Spool may provide services, or sell products jointly with affiliated businesses. You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business. 
 
-      iii.      You may call us at: (480) 505-8800
+_Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Unless we tell you differently, Spool’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes.
 
-       iv.      You may fax us at: (480) 505-8844
+_User profiles:_ User profile information including users’ name, email address, and other information you enter (“User Submissions”) may be displayed to other users to facilitate user interaction within the Website. Email addresses are used to add new User Submissions to user profiles and to communicate through User Submissions. Users’ email addresses will not be directly revealed to other users by Spool, except, when the user is "connected" to another user via a shared group membership, or an invitation, or if the user has chosen to include their email address in their User Profile. 
 
-**Sending Emails**
+_Communication in response to User Submissions:_ As part of the Website and services, you will receive from Spool email and other communication relating to your User Submissions. You acknowledge and agree that by posting such User Submissions, Spool may send you email and other communication that it determines in its sole discretion relate to your User Submissions. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+_Business Transfers_ : In some cases, we may choose to buy or sell assets. In these types of transactions, customer information is typically one of the business assets that are transferred. Moreover, if Spool, or substantially all of its assets were acquired, or in the unlikely event that Spool goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Spool may continue to use your Personal Information as set forth in this policy.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+_Protection of Spool and Others_ : We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Spool, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-**Compliance with Laws and Law Enforcement**
+_With Your Consent_ : Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+Your Spool account Personal Information is protected by a password for your privacy and security. You need to ensure that there is no unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer and browser by signing off after you have finished accessing your account.
 
-**Third Party Service Providers**
+Spool endeavors to protect user information to ensure that user account information is kept private, however, Spool cannot guarantee the security of user account information. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+The Website contains links to other sites. Spool is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Website. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Spool allows you to access the following information about you for the purpose of viewing, and in certain situations, updating that information. This list will change as the Website changes.   
 
-**Supplementation of Information**
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  * Real name
+  * Account and user profile information
+  * Credit card and/or other payment information
+  * User e-mail address
+  * User mobile phone number
+  * Username and password
+  * User preferences
 
-**Contests/Surveys**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+  * As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services.
+  * You are able to add or update certain information on pages, such as those listed in the “What Personal Information Can I Access” section above. When you update information, however, we often maintain a copy of the unrevised information in our records.
+  * You may request deletion of your Spool account by sending an e-mail to [delete (at) getspool.com](https://web.archive.org/email/delete+getspool+com). Please note that some information may remain in our records after deletion of your account. 
+  * To download the application, you must provide us with your e-mail address. If you do not wish to receive e-mails from us, you may terminate your account by following the steps listed above. Please note that if you do not read e-mails from us that contain information such as legal notices and this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices or the documents on the Website for changes.
 
-**Tell-A-Friend**
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-**What Happens to my Personal Information if I Opt Out?**
+Spool may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at [privacy (at) getspool.com](https://web.archive.org/email/privacy+getspool+com). We will make every effort to resolve your concerns.
 
-**Transfer of Data Abroad**
+Effective Date: March 1, 2011
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+**  
+855 El Camino Real, Suite 13A-118, Palo Alto, CA 94301   
+(650) 275-2271   
+[dmca (at) getspool.com](https://web.archive.org/email/dmca+getspool+com)**
 
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+ ****
