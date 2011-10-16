@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619195730id_/http%3A//www.audionetwork.com/content/uk/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audionetwork.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016171050id_/http%3A//www.audionetwork.com/content/uk/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,7 +27,7 @@ As all online payments are processed by WorldPay on our behalf your credit card 
 
 ### About Cookies
 
-This website uses Google Analytics and other measurement tools to help analyse how users use the site. These tools use 'cookies', which are text files placed on your computer to collect standard internet log information and visitor behaviour information. This data is entirely anonymous. Cookies cannot be used to get data from your hard drive, get your e-mail address or personally identifiable information about you. 
+This website uses Google Analytics and other measurement tools to help analyse how users use the site. These tools use 'cookies', which are text files placed on your computer to collect standard internet log information and visitor behaviour information. This data is entirely anonymous. Cookies cannot be used to get data from your hard drive, get your e-mail address or personally identifiable information about you.
 
 ### What Happens to   
 my Personal Data?
