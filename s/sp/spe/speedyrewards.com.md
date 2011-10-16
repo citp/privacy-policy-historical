@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2008-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080820031801id_/http%3A//speedway.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedyrewards.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016092737id_/http%3A//www.speedway.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Speedway SuperAmerica: Privacy Statement
+# Speedway: Privacy Statement
 
 ## PRIVACY STATEMENT  
   
 ---  
    
-Speedway SuperAmerica LLC, its affiliates and subsidiaries (“Company”) recognizes and respects the privacy of its customers and visitors to this Web site (the “Web Site”). It is our goal to help our customers retain their privacy when they visit our Web Site.   
+Speedway, its affiliates and subsidiaries (“Company”) recognizes and respects the privacy of its customers and visitors to this Web site (the “Web Site”). It is our goal to help our customers retain their privacy when they visit our Web Site.   
    
 (1) **Collection of Personal Data from Site Visitors**. As you navigate within our Web Site, Company may automatically collect and/or track (1) the home server domain names, e-mail addresses, type of client computer, and type of Web browser of visitors to the Web Site, (2) the e-mail addresses of visitors that communicate with Company via e-mail (3) information knowingly provided by the visitor in online forms, registration forms, and/or surveys and contest entries, and (4) aggregate information on what pages visitors access.   
    
@@ -18,7 +18,7 @@ When a visitor performs a search on Company's search engine, Company may record 
    
 (3) **Disclosure of Personal Data to Third Parties**. Company will notify visitors before posting collected personal data on the Web Site, or sharing, renting, selling, or otherwise disclosing personal data to third parties. Any third party to which Company shares, rents, sells, or otherwise discloses personal data will be carefully pre-screened by Company, determined by Company to be reputable, and will use the personal data for marketing products and services which Company determines, in its sole judgment, that visitors might find of interest. Company will disclose to third parties only information knowingly and voluntarily disclosed by visitors and only information in aggregate form. Through the use of third party cookies, advertiser may be electronically notified when visitors view or click on its advertisements.   
    
-(4) **Opt-Out Right**. Visitors may opt out of having their personal data retained by Company, used by Company for secondary purposes, disclosed to third parties, or used by Company or third parties to send promotional correspondences to the visitor by contacting Company via postal mail or telephone. Company may be contacted at Speedway SuperAmerica LLC, 500 Speedway Drive, Enon, Ohio 45323; 937-864-3000.   
+(4) **Opt-Out Right**. Visitors may opt out of having their personal data retained by Company, used by Company for secondary purposes, disclosed to third parties, or used by Company or third parties to send promotional correspondences to the visitor by contacting Company via postal mail or telephone. Company may be contacted at Speedway, 500 Speedway Drive, Enon, Ohio 45323; 937-864-3000.   
    
 (5) **Access to and Ability to Correct Personal Data**. Upon request via postal mail, e-mail, or phone, Company will provide to visitors a summary of any personal information retained by the Company regarding the visitor. Visitors may modify, correct, change, or update their personal record or cause their personal records to be removed from Company’s database. Company will only send personal records to the e-mail address on file for the visitor name associated with it.   
    
@@ -32,16 +32,20 @@ When a visitor performs a search on Company's search engine, Company may record 
    
 (10) **Other Sites**. This privacy statement applies only to this Web Site. While this Web Site may contain links to other third party sites, Company is not responsible for the practices or contents of such third party sites.   
    
-(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [Contact Us Section](https://web.archive.org/web/20080820031801id_/http%3A//speedway.com/ContactUs/) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Statement are in the Subject line.   
+(11) **Enforcement**. If for some reason you believe we have not adhered to these principles, please notify us through the [Contact Us Section](https://web.archive.org/web/20111016092737id_/http%3A//www.speedway.com/ContactUs/) and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Statement are in the Subject line.   
   
 * * *
 
-5¢ Off Every Gallon  Plus Earn Points        With Every Purchase!
+Earn an extra 40 points per dollar!
 
 [](https://web.archive.org/CreditAndPrepaid/)
 
 Introducing...        Gourmet Roast Coffee
 
 [](https://web.archive.org/FoodAndDrink/Default.aspx)
+
+Speedy Rewards Mall
+
+[](http://mall.speedway.com/)
 
 * * *
