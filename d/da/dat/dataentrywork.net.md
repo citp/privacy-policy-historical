@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dataentrywork.net privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320111403id_/http%3A//dataentrywork.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dataentrywork.net privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016145324id_/http%3A//www.onlinejobsopen.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We take our user's privacy very seriously. If you have any questions regarding our Privacy Policy, please [contact us](http://www.dataentrywork.net/contact_other.php).
+We take our user's privacy very seriously. If you have any questions regarding our Privacy Policy, please [contact us](http://www.onlinejobsopen.com/contact_other.php).
 
-www.DataEntryWork.net, hereafter "DataEntryWork," is wholly owned and operated by Data Tech Inc .
+www.onlinejobsopen.com, hereafter "DataEntryWork," is wholly owned and operated by Data Tech Inc .
 
-By using DataEntryWork content, you accept our [ Terms and Conditions](http://www.dataentrywork.net/terms.php) which includes this Privacy Policy. If you do not want to be bound by DataEntryWork’s Privacy Policy, or Terms and Conditions, your only remedy is to stop using DataEntryWork’s content.
+By using DataEntryWork content, you accept our [ Terms and Conditions](http://www.onlinejobsopen.com/terms.php) which includes this Privacy Policy. If you do not want to be bound by DataEntryWork’s Privacy Policy, or Terms and Conditions, your only remedy is to stop using DataEntryWork’s content.
 
 ## Information Sharing
 
@@ -42,11 +42,11 @@ As a third party advertising vendor, Google will place a DART cookie on your com
 
 ## Policy Changes
 
-Please note that we may change our Privacy Policy from time to time. Users can view our latest Privacy Policy at any time by visiting: http://www.DataEntryWork.net/privacy.php
+Please note that we may change our Privacy Policy from time to time. Users can view our latest Privacy Policy at any time by visiting: http://www.onlinejobsopen.com/privacy.php
 
 ## Contact Us
 
-If you have any questions about our Privacy Policy, feel free to [contact us](http://www.dataentrywork.net/contact_other.php) by email, or in writing to the following address:
+If you have any questions about our Privacy Policy, feel free to [contact us](http://www.onlinejobsopen.com/contact_other.php) by email, or in writing to the following address:
 
 Data Tech Inc.  
 Re: DataEntryWork Privacy  
