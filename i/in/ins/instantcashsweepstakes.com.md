@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625205700id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantcashsweepstakes.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016114707id_/http%3A//instantcashsweepstakes.com/pages/privacy) for the most accurate reproduction.*
 
 # Instant Cash Sweepstakes Terms
 
