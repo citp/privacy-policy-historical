@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the graziadaily.co.uk privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215062303id_/http%3A//www.graziadaily.co.uk/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graziadaily.co.uk privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016140248id_/http%3A//www.graziadaily.co.uk/legal/privacy) for the most accurate reproduction.*
 
-# Grazia Daily: Grazia Daily Home
+# Grazia Daily Home | Fashion, Beauty Tips & Women's Style
 
 **1.              ****Privacy Policy: Our Commitment To Your Privacy**
 
