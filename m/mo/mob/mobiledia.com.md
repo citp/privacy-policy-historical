@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobiledia.com privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513083016id_/http%3A//www.mobiledia.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiledia.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016181331id_/http%3A//www.mobiledia.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Mobiledia
 
@@ -32,9 +32,7 @@ Mobiledia.com allows our ad service company to set cookies as well. These cookie
 
 We use a third party tracking service who sets cookies on our site to track visits, page views and click stream behavior. The third party tracking service reports this data to us in aggregate so we can better understand our users and to improve our site. This information is not tied to any individual user.
 
-If you prefer not to accept cookies, most browsers will explain how to disable cookies under the help portion of the toolbar or notify you when you receive a new cookie. However, if you choose to disallow cookies on your hard drive, our Web site will not be able to provide personalization services.
-
-4\. Changes or Revisions to This Policy
+We also use third-party advertising companies to serve ads and collect information when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on our websites, other websites and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out [ http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
 If we are going to use your personally identifying information in a manner different from that stated in our privacy policy at the time of collection, we will notify you via email. You will have a choice as to whether or not to allow us to use your information in this different manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will revise this policy and update the date displayed at the top of this policy to reflect that the policy has been changed. In some cases we will also e-mail users who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
