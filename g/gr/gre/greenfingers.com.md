@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216102047id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenfingers.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016124657id_/http%3A//www.greenfingers.com/articledisplay.asp%3Fid%3D1287) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,6 +85,10 @@ Please read on for more details about our privacy policy.
 ---  
 | To be notified of exclusive offers  
  **Follow Us On:** | [](http://www.facebook.com/greenfingerscom) |  | [](http://twitter.com/greenfingerscom) |   
+  
+The UK's favourite   
+online garden store  
+---  
   
   
 
