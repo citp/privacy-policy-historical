@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpaperpimper.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202012302id_/http%3A//wallpaperpimper.com/info/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpaperpimper.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017005702id_/http%3A//www.wallpaperpimper.com/info/privacy.htm) for the most accurate reproduction.*
 
 # Desktop Wallpapers - Wallpaper Pimper.com
 
