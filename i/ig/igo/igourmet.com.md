@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igourmet.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106092307id_/http%3A//www.igourmet.com/ST/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igourmet.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016155251id_/http%3A//www.igourmet.com/ST/privacy.asp) for the most accurate reproduction.*
 
 # igourmet - Privacy Policy
 
@@ -31,3 +31,5 @@ Security of Sensitive Information
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only a fragment of your credit card number when confirming an order. Information stored in our customer database is protected using state-of-the-art security methods. 
 
 Our business changes constantly, and our Privacy Statement may change periodically. Please check our web site frequently to see if any changes take place. However, we will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
+
+For questions, please contact us by phone at 1-877-446-8763 or by mail at 508 Delaware Avenue, West Pittston PA, 18643. 
