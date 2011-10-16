@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthmad.com privacy policy that was archived on 2010-12-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101218042058id_/http%3A//healthmad.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthmad.com privacy policy that was archived on 2011-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://gmpg.org/xfn/11">
 
@@ -23,8 +23,51 @@
 <meta property="og:site_name" content="Healthmad">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://healthmad.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
-<script type="text/javascript" src="http://healthmad.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+ 
+	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+	<script type="text/javascript" src="http://healthmad.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
 //<![CDATA[
 function doILikeIt( website_channel_article_id,blog_id,post_id )
@@ -32,7 +75,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://healthmad.com/wp-content/themes/healthmad/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://healthmad.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -41,6 +84,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -102,7 +192,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://healthmad.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -134,11 +224,6 @@ $(document).ready(function() {
 </script>
 
 <meta name="google-site-verification" content="MKhifRn9Br5wPWCz_Wf3wHOLG5BscxSE2W9otVkaLjA">
-<!--
-	generated because: No batcache item found
-	4fa528880304a91751025498f23f0475 generated in 1.129 seconds
-	39009 bytes batcached for 300 seconds
--->
 </head>
 
 <body>
@@ -154,23 +239,30 @@ $(document).ready(function() {
 
 		<div id="ad728">
 			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=607");
-   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=607&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=93659889738&amp;loc=https%3A//web.archive.org/web/20101218042058id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4b860c&amp;cb=26441efac2ba3677ea7f1a8e4a340699' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=607&amp;cb=26441efac2ba3677ea7f1a8e4a340699&amp;n=4b860c' border='0' alt='' /></a></noscript>		</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=607");
+					   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=607&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=76365865868&amp;loc=https%3A//web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4378a2&amp;cb=232bb5c273d8284bbae02275e39ec684' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=607&amp;cb=232bb5c273d8284bbae02275e39ec684&amp;n=4378a2' border='0' alt='' /></a></noscript>		</div>
 	</div>
 
 </div>
@@ -272,7 +364,49 @@ $(document).ready(function() {
 <p>Healthmad is committed to handling your personal information with the highest standards of security information. Healthmad shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Healthmad, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@healthmad.com .</p>
-
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>
 					</div>
 
 				</div>
@@ -293,23 +427,30 @@ $(document).ready(function() {
 
 				<div id="ad300">
 					
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=612");
-   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=612&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=9623577713&amp;loc=https%3A//web.archive.org/web/20101218042058id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=dbc495&amp;cb=72bbdb4d0cabe180452723d94ac244a3' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=612&amp;cb=72bbdb4d0cabe180452723d94ac244a3&amp;n=dbc495' border='0' alt='' /></a></noscript>				</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=612");
+					   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=612&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=47948264032&amp;loc=https%3A//web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=0eaf93&amp;cb=40510ebac9650cf52ac58c7b23b3bc79' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=612&amp;cb=40510ebac9650cf52ac58c7b23b3bc79&amp;n=0eaf93' border='0' alt='' /></a></noscript>				</div>
 
 				<div id="content_1" class="cat_content">
 				
@@ -329,56 +470,69 @@ $(document).ready(function() {
 					</div>
 					<div class="sidebox">
 						<div class="h3">Popular Articles</div>
-						<li><a href="http://healthmad.com/conditions-and-diseases/detection-and-treatment-of-arterial-disease/" title="Detection and Treatment of Arterial Disease"> Detection and Treatment of Arterial Disease</a></li><li><a href="http://healthmad.com/health/sarcopenia-an-age-related-condition/" title="Sarcopenia : an Age Related Condition?"> Sarcopenia : an Age Related Condition?</a></li><li><a href="http://healthmad.com/conditions-and-diseases/brain-tumor-survival-how-to-starve-a-brain-tumor/" title="Brain Tumor Survival: How to Starve a Brain Tumor"> Brain Tumor Survival: How to Starve a Brain Tumor</a></li><li><a href="http://healthmad.com/conditions-and-diseases/drug-addiction-7/" title="Drug Addiction"> Drug Addiction</a></li><li><a href="http://healthmad.com/health/treating-injuries-the-rice-way/" title="Treating Injuries The Rice Way"> Treating Injuries The Rice Way</a></li><li><a href="http://healthmad.com/conditions-and-diseases/how-to-calculate-your-own-bmi/" title="How to Calculate Your Own BMI"> How to Calculate Your Own BMI</a></li><li><a href="http://healthmad.com/health/the-bibles-seven-wonder-foods/" title="The Bible's Seven Wonder Foods!"> The Bible's Seven Wonder Foods!</a></li><li><a href="http://healthmad.com/health/how-to-get-pregnant-3/" title="How to Get Pregnant"> How to Get Pregnant</a></li><li><a href="http://healthmad.com/weight-loss/get-your-family-in-shape/" title="Get Your Family in Shape"> Get Your Family in Shape</a></li><li><a href="http://healthmad.com/medicine/how-to-deal-with-delayed-onset-muscle-soreness-d-o-m-s/" title="How to Deal with Delayed Onset Muscle Soreness (D.O.M.S)"> How to Deal with Delayed Onset Muscle Soreness (D.O.M.S)</a></li>					</div>
+						<li><a href="http://healthmad.com/children/important-things-you-should-know-about-child-care-after-birth/" title="Important Things You Should Know About Child Care After Birth"> Important Things You Should Know About Child Care After Birth</a></li><li><a href="http://healthmad.com/mental-health/what-are-the-symptoms-of-autism/" title="What are The Symptoms of Autism?"> What are The Symptoms of Autism?</a></li><li><a href="http://healthmad.com/beauty/pruelpo-shares-love-gives-life-to-a-hopeless-heart/" title="Pruelpo Shares Love Gives Life to a Hopeless Heart"> Pruelpo Shares Love Gives Life to a Hopeless Heart</a></li><li><a href="http://healthmad.com/conditions-and-diseases/alcohol-red-flush/" title="Alcohol Red Flush"> Alcohol Red Flush</a></li><li><a href="http://healthmad.com/aging/ankle-arthritis/" title="Ankle Arthritis"> Ankle Arthritis</a></li><li><a href="http://healthmad.com/alternative/fight-pain-with-correct-foods/" title="Fight Pain with Correct Foods"> Fight Pain with Correct Foods</a></li><li><a href="http://healthmad.com/weight-loss/food-exchanges-for-weight-loss/" title="Food Exchanges for Weight Loss"> Food Exchanges for Weight Loss</a></li><li><a href="http://healthmad.com/nutrition/how-to-obtain-calcium-naturally/" title="How to Obtain Calcium Naturally"> How to Obtain Calcium Naturally</a></li><li><a href="http://healthmad.com/conditions-and-diseases/effective-home-remedies-for-asthma/" title="Effective Home Remedies for Asthma"> Effective Home Remedies for Asthma</a></li><li><a href="http://healthmad.com/conditions-and-diseases/worst-cities-of-allergies/" title="Worst Cities of Allergies"> Worst Cities of Allergies</a></li>					</div>
 				</div>
 				<div id="ad160Wrapper">
 					<div id="ad160-1">
 						
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=801");
-   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=801&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=34528922355&amp;loc=https%3A//web.archive.org/web/20101218042058id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=1cae1f&amp;cb=db824d9ed051d576407a8dfe6563f3da' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=801&amp;cb=db824d9ed051d576407a8dfe6563f3da&amp;n=1cae1f' border='0' alt='' /></a></noscript>					</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=801");
+					   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=801&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=61814106731&amp;loc=https%3A//web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=4344ea&amp;cb=35cb6bcfd66ef358d3b06bf05e1dc6c4' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=801&amp;cb=35cb6bcfd66ef358d3b06bf05e1dc6c4&amp;n=4344ea' border='0' alt='' /></a></noscript>					</div>
 					<div id="ad160-2">
 						
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=477");
-   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=477&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=14646365112&amp;loc=https%3A//web.archive.org/web/20101218042058id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=80fd1c&amp;cb=e800e2f1fbe428c2d1ec00fa89abf8e7' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=477&amp;cb=e800e2f1fbe428c2d1ec00fa89abf8e7&amp;n=80fd1c' border='0' alt='' /></a></noscript>					</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=477");
+					   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=477&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=97307621291&amp;loc=https%3A//web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=e89a51&amp;cb=4e8e3f0f46a1e46e1ad55f4114520b5c' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=477&amp;cb=4e8e3f0f46a1e46e1ad55f4114520b5c&amp;n=e89a51' border='0' alt='' /></a></noscript>					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 				
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -388,25 +542,34 @@ $(document).ready(function() {
 	}
 	</script>
 	
-	<div class="sidebox">				
-		<div class="h3">Video of the Day</div>
-		<div id="SmartPlayer2"></div>
-		<script type="text/javascript">
-		var playerSeed = new PlayerSeed('SmartPlayer2');
-		playerSeed.sid = 332;
-		playerSeed.width = '300';
-		playerSeed.height = '250';
-		playerSeed.videoControlDisplayColor = '#F1D1D1';
-		playerSeed.featured = true;
-		playerSeed.categories = '8,5';
-		playerSeed.overlay= true;
-		playerSeed.autoStart= false;
-		playerSeed.companionPos= 'bottom';
-		playerSeed.hasCompanion=true;
-		playerSeed.Load();
-		</script>
-	</div>
-							
+				<div style="margin-top:10px;margin-bottom:10px;">
+					
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1433");
+					   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1433&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=97027532554&amp;loc=https%3A//web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=565ff9&amp;cb=546d601d77fe899bd51366ddaa11ce0a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1433&amp;cb=546d601d77fe899bd51366ddaa11ce0a&amp;n=565ff9' border='0' alt='' /></a></noscript>				</div>
+
+				
 				<div id="content_2" class="cat_content">
 					<div class="sidebox">
 						<!--  <div class="h3">Recent Comments</div> -->
@@ -415,57 +578,9 @@ $(document).ready(function() {
 				</div>
 				
                     
-				<div id="content_3" class="cat_content">
-					<div class="sidebox">
-						<div class="h3">Popular Tags</div>
-						<a href="http://healthmad.com/tag/addiction/" class="tag-link-2201" title="573 topics" rel="tag" style="font-size: 8.1095926761311pt;">Addiction</a>
-<a href="http://healthmad.com/tag/anxiety/" class="tag-link-8165" title="614 topics" rel="tag" style="font-size: 8.1476714873292pt;">Anxiety</a>
-<a href="http://healthmad.com/tag/beauty/" class="tag-link-893" title="696 topics" rel="tag" style="font-size: 8.2238291097254pt;">Beauty</a>
-<a href="http://healthmad.com/tag/body/" class="tag-link-10037" title="662 topics" rel="tag" style="font-size: 8.1922515589757pt;">body</a>
-<a href="http://healthmad.com/tag/cancer/" class="tag-link-35217" title="1,732 topics" rel="tag" style="font-size: 9.1860156560966pt;">cancer</a>
-<a href="http://healthmad.com/tag/children/" class="tag-link-1639" title="593 topics" rel="tag" style="font-size: 8.1281677059838pt;">Children</a>
-<a href="http://healthmad.com/tag/conditions-and-diseases/" class="tag-link-181411" title="1,273 topics" rel="tag" style="font-size: 8.7597187209765pt;">Conditions and Diseases</a>
-<a href="http://healthmad.com/tag/depression/" class="tag-link-6323" title="1,091 topics" rel="tag" style="font-size: 8.5906859493167pt;">depression</a>
-<a href="http://healthmad.com/tag/diabetes/" class="tag-link-42241" title="791 topics" rel="tag" style="font-size: 8.3120605015258pt;">Diabetes</a>
-<a href="http://healthmad.com/tag/diet/" class="tag-link-6445" title="2,638 topics" rel="tag" style="font-size: 10.027464508425pt;">diet</a>
-<a href="http://healthmad.com/tag/disease/" class="tag-link-6461" title="881 topics" rel="tag" style="font-size: 8.3956481358631pt;">disease</a>
-<a href="http://healthmad.com/tag/exercise/" class="tag-link-2901" title="2,223 topics" rel="tag" style="font-size: 9.642032638981pt;">exercise</a>
-<a href="http://healthmad.com/tag/fat/" class="tag-link-32667" title="796 topics" rel="tag" style="font-size: 8.316704258989pt;">fat</a>
-<a href="http://healthmad.com/tag/fitness/" class="tag-link-26113" title="1,454 topics" rel="tag" style="font-size: 8.9278227411437pt;">Fitness</a>
-<a href="http://healthmad.com/tag/food/" class="tag-link-1377" title="1,695 topics" rel="tag" style="font-size: 9.151651850869pt;">food</a>
-<a href="http://healthmad.com/tag/health/" class="tag-link-5597" title="15,529 topics" rel="tag" style="font-size: 22pt;">Health</a>
-<a href="http://healthmad.com/tag/healthy/" class="tag-link-32665" title="996 topics" rel="tag" style="font-size: 8.5024545575163pt;">healthy</a>
-<a href="http://healthmad.com/tag/heart/" class="tag-link-2391" title="555 topics" rel="tag" style="font-size: 8.0928751492636pt;">heart</a>
-<a href="http://healthmad.com/tag/heart-disease/" class="tag-link-103437" title="869 topics" rel="tag" style="font-size: 8.3845031179514pt;">heart disease</a>
-<a href="http://healthmad.com/tag/life/" class="tag-link-1267" title="938 topics" rel="tag" style="font-size: 8.4485869709433pt;">life</a>
-<a href="http://healthmad.com/tag/lose-weight/" class="tag-link-143453" title="732 topics" rel="tag" style="font-size: 8.2572641634603pt;">Lose Weight</a>
-<a href="http://healthmad.com/tag/medicine/" class="tag-link-6709" title="1,102 topics" rel="tag" style="font-size: 8.6009022157357pt;">Medicine</a>
-<a href="http://healthmad.com/tag/mental-health/" class="tag-link-28573" title="1,121 topics" rel="tag" style="font-size: 8.6185484940958pt;">Mental Health</a>
-<a href="http://healthmad.com/tag/muscle/" class="tag-link-85005" title="637 topics" rel="tag" style="font-size: 8.1690327716598pt;">Muscle</a>
-<a href="http://healthmad.com/tag/nutrition/" class="tag-link-24677" title="1,647 topics" rel="tag" style="font-size: 9.1070717792225pt;">Nutrition</a>
-<a href="http://healthmad.com/tag/obesity/" class="tag-link-2457" title="1,025 topics" rel="tag" style="font-size: 8.5293883508027pt;">Obesity</a>
-<a href="http://healthmad.com/tag/pain/" class="tag-link-7825" title="762 topics" rel="tag" style="font-size: 8.2851267082394pt;">Pain</a>
-<a href="http://healthmad.com/tag/physical-exercise/" class="tag-link-188235" title="1,344 topics" rel="tag" style="font-size: 8.8256600769537pt;">physical exercise</a>
-<a href="http://healthmad.com/tag/pregnancy/" class="tag-link-1593" title="835 topics" rel="tag" style="font-size: 8.3529255672018pt;">pregnancy</a>
-<a href="http://healthmad.com/tag/shopping/" class="tag-link-2465" title="864 topics" rel="tag" style="font-size: 8.3798593604883pt;">shopping</a>
-<a href="http://healthmad.com/tag/skin/" class="tag-link-45585" title="805 topics" rel="tag" style="font-size: 8.3250630224227pt;">skin</a>
-<a href="http://healthmad.com/tag/sleep/" class="tag-link-74067" title="743 topics" rel="tag" style="font-size: 8.2674804298793pt;">sleep</a>
-<a href="http://healthmad.com/tag/smoking/" class="tag-link-26009" title="653 topics" rel="tag" style="font-size: 8.183892795542pt;">smoking</a>
-<a href="http://healthmad.com/tag/stress/" class="tag-link-4721" title="1,201 topics" rel="tag" style="font-size: 8.6928486135067pt;">stress</a>
-<a href="http://healthmad.com/tag/surgery/" class="tag-link-77141" title="455 topics" rel="tag" style="font-size: 8pt;">surgery</a>
-<a href="http://healthmad.com/tag/tips/" class="tag-link-7481" title="460 topics" rel="tag" style="font-size: 8.0046437574632pt;">tips</a>
-<a href="http://healthmad.com/tag/treatment/" class="tag-link-227" title="616 topics" rel="tag" style="font-size: 8.1495289903144pt;">treatment</a>
-<a href="http://healthmad.com/tag/united-states/" class="tag-link-25517" title="696 topics" rel="tag" style="font-size: 8.2238291097254pt;">united states</a>
-<a href="http://healthmad.com/tag/vitamins/" class="tag-link-41489" title="498 topics" rel="tag" style="font-size: 8.0399363141834pt;">vitamins</a>
-<a href="http://healthmad.com/tag/water/" class="tag-link-3745" title="640 topics" rel="tag" style="font-size: 8.1718190261377pt;">water</a>
-<a href="http://healthmad.com/tag/weight/" class="tag-link-15299" title="887 topics" rel="tag" style="font-size: 8.4012206448189pt;">weight</a>
-<a href="http://healthmad.com/tag/weight-loss/" class="tag-link-13537" title="3,960 topics" rel="tag" style="font-size: 11.25527398169pt;">Weight Loss</a>
-<a href="http://healthmad.com/tag/weight-loss-tips/" class="tag-link-245749" title="505 topics" rel="tag" style="font-size: 8.0464375746318pt;">weight loss tips</a>
-<a href="http://healthmad.com/tag/women/" class="tag-link-4019" title="565 topics" rel="tag" style="font-size: 8.10216266419pt;">Women</a>
-<a href="http://healthmad.com/tag/yoga/" class="tag-link-50589" title="496 topics" rel="tag" style="font-size: 8.0380788111981pt;">yoga</a>					</div>
-				</div>
+				
 			
-							</div>
+			</div>
 
 
 		</div>
@@ -500,11 +615,9 @@ $(document).ready(function() {
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=372&amp;rnd=2585014836"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=372&amp;rnd=2042849524"><script type="text/javascript">
 					var _gaq = _gaq || [];
-					_gaq.push(['t4._setAccount', 'UA-1488967-4']);
-							_gaq.push(['t4._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);
-							_gaq.push(['t29._trackPageview']);
+					_gaq.push(['t4._setAccount', 'UA-1488967-4']);_gaq.push(['t4._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
 					  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 					  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -534,45 +647,60 @@ var _sf_async_config={uid:6902};
  
 	<div id="ad-to">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1366");
-   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1366&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=50303692481&amp;loc=https%3A//web.archive.org/web/20101218042058id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=77f931&amp;cb=96c037e5a87be06ba73b55b201e8a4f5' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1366&amp;cb=96c037e5a87be06ba73b55b201e8a4f5&amp;n=77f931' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1366");
+					   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1366&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=20657513408&amp;loc=https%3A//web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=96c3eb&amp;cb=3c1f9632f942b6f51a6ba98ef664e811' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1366&amp;cb=3c1f9632f942b6f51a6ba98ef664e811&amp;n=96c3eb' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1080");
+					   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1080&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=nontriond&amp;cb=3477750064&amp;loc=https%3A//web.archive.org/web/20111017010659id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=496ba3&amp;cb=ba83c336d10eb10e3fd5d0c0ca462629' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1080&amp;cb=ba83c336d10eb10e3fd5d0c0ca462629&amp;n=496ba3' border='0' alt='' /></a></noscript>	</div>
+		<!-- start eXelate tag - Triond - Default Site -->
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1080");
-   document.write ("&clr_link=CC3333&clr_title=CC3333&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=333333&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1080&amp;clr_link=CC3333&amp;clr_title=CC3333&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=333333&amp;source=acf=&amp;cb=72646947266&amp;loc=https%3A//web.archive.org/web/20101218042058id_/http%3A//healthmad.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=2c2a52&amp;cb=9fdefab4bc370b4ac6966b5462397cd7' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1080&amp;cb=9fdefab4bc370b4ac6966b5462397cd7&amp;n=2c2a52' border='0' alt='' /></a></noscript>	</div>
-		<!-- start eXelate tag - Triond - Default Site
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=009&amp;c=185984&amp;ctg=health&amp;subctg=uncategorized"></script>
+<!--  end eXelate tag -->
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dmxUAksVer34zQadbiUzgI&amp;s=131"></script>
 
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
