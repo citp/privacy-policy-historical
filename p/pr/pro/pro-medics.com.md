@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pro-medics.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208214711id_/http%3A//www.pro-medics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pro-medics.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016081740id_/http%3A//www.primarypills.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -31,7 +31,7 @@ When you place an order online, your personal information and credit card or deb
 
 Your privacy is very important to us and you can rest assured that we do not sell or distribute our customer list to any third parties. However, please be aware that unscrupulous marketers can sometimes "harvest" your email address directly from your computer or another person's address book, perhaps using programs that automatically scan web pages and email traffic in order to obtain email addresses.
 
-If you receive an unsolicited email that you believe is connected with us in any way, please forward it (as an attachment) to service@pro-medics.com and we will investigate promptly.  
+If you receive an unsolicited email that you believe is connected with us in any way, please forward it (as an attachment) to service@PrimaryPills and we will investigate promptly.  
 Children
 
 We do not allow underage purchases. If you are under 18, you may use our website only with the involvement of a parent or guardian.
