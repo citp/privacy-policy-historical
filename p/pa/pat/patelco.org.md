@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616210430id_/https%3A//www.patelco.org/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016184203id_/https%3A//www.patelco.org/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Patelco
 
