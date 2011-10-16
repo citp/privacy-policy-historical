@@ -1,12 +1,16 @@
-<!--The following is the downloaded HTML source of the tinypass.com privacy policy that was archived on 2011-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110517120526id_/http%3A//tinypass.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tinypass.com privacy policy that was archived on 2011-10-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111016224607id_/http%3A//tinypass.com/home/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html style="height:100%;overflow-y:scroll;" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>TinyPass.com</title>
 
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js"></script><script type="text/javascript" src="/js/global.js"></script>
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.js"></script><script type="text/javascript" src="/js/jquery-1.6.2.min.js"></script>
+    <script type="text/javascript" src="/js/mother.js"></script>
+    <script type="text/javascript" src="/js/jquery-upload-1.5.js"></script>
+    <script type="text/javascript" src="/js/jquery-ui-1.8.16.custom.min.js"></script>
 
     <link rel="stylesheet" type="text/css" href="/style.css">
+    <link rel="stylesheet" type="text/css" href="/css/jquery-ui-1.8.16.custom.css">
 
 <link type="text/css" rel="stylesheet" href="//asset0.zendesk.com/external/zenbox/v2.1/zenbox.css"></head>
 <body style="margin:0;padding:0;width:100%;height:100%">
@@ -22,53 +26,30 @@
 </form>
 </div>
 
-<div id="popup1" style="position:fixed;top:0;left:0;width:100%;height:100%;background-color:#585858;filter:alpha(opacity=90);opacity:.90;z-index:100;display:none">
+<div id="popup1">
 </div>
-<div id="popup2" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:100;display:none;">
-
-<table width="100%" height="100%" cellpadding="0" cellspacing="0">
-    <tbody><tr>
-        <td valign="middle" align="center">
-
-            <table cellpadding="0" cellspacing="0">
-                <tbody><tr style="font-size:1px">
-                    <td width="10"><img src="/images/wbox_top_left2.png"></td>
-                    <td width="10" style="background-color:#0c6797"><img src="/images/spacer.gif" width="420" height="1"></td>
-                    <td width="10"><img src="/images/wbox_top_right2.png"></td>
-                </tr>
-                <tr>
-                    <td width="10" style="background-color:#0c6797">
-                        <img src="/images/spacer.gif" width="10" height="1">
-                    </td>
-                    <td id="popup_content" style="background:white;padding:15px 20px;text-align:left;">
-
-                    </td>
-                    <td width="10" style="background-color:#0c6797">
-                        <img src="/images/spacer.gif" width="10" height="1">
-                    </td>
-                </tr>
-                <tr style="font-size:1px">
-                    <td width="10"><img src="/images/wbox_bottom_left2.png"></td>
-                    <td width="10" style="background-color:#0c6797"><img src="/images/spacer.gif" width="420" height="1"></td>
-                    <td width="10"><img src="/images/wbox_bottom_right2.png"></td>
-                </tr>
-            </tbody></table>
-        </td>
-    </tr>
-</tbody></table>
+<div id="popup2">
+    <div>
+        <div id="popup_content"></div>
+    </div>
+    <div style="clear: both"></div>
 </div>
 
 <script type="text/javascript">
     function showPopup(content) {
-        document.getElementById('popup1').style.display='';
-        document.getElementById('popup2').style.display='';
-        if(content) document.getElementById('popup_content').innerHTML=content;
+        $('#popup1').show();
+        $('#popup2').show();
+        $('#popup2').css('margin-top', "-" + ($('#popup2').outerHeight()/2) + "px");
+        if(content) $('#popup_content').html(content);
     }
     function closePopup() {
-        document.getElementById('popup1').style.display='none';
-        document.getElementById('popup2').style.display='none';
-        document.getElementById('popup_content').innerHTML='';
+        $('#popup1').hide();
+        $('#popup2').hide();
+        $('#popup_content').html('');
     }
+    $(window).keydown(function(event) {
+        if(event.keyCode==27) closePopup();
+    })
 </script>
 
 <table width="100%" cellpadding="0" cellspacing="0">
@@ -84,7 +65,7 @@
             <table width="951" cellpadding="0" cellspacing="0">
                 <tbody><tr class="header">
                     <td id="header" valign="top" colspan="2"><div class="header">
-    <div style="position:absolute;left:50%;top:14px;margin-left:100px">
+    <div style="position:absolute;left:50%;top:14px;margin-left:20px;width: 50px; overflow: hidden">
         <iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Ftinypass&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:80px; height:21px; " allowtransparency="true"></iframe>
     </div>
     <table width="100%" height="100%" cellpadding="0" cellspacing="0">
@@ -92,11 +73,11 @@
             <td valign="middle">
                 &nbsp;
             </td>
-            <td align="right" valign="bottom" width="400">
+            <td align="right" valign="bottom" width="550">
                 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                 
                 &nbsp;
-                <a href="https://tinypass.com/publishers/register" class="clickable " style="">Create account</a><span style="color:#666666">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="https://tinypass.com/login" class="clickable " style="">Login</a><span style="color:#666666">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a onclick="Zenbox.render(); return false;" href="#" class="clickable " style="">Contact us</a><span style="color:#666666">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a target="_blank" href="http://developer.tinypass.com/" class="clickable " style="">Developers</a>
+                <a href="https://tinypass.com/home/register" class="clickable " style="">Create account</a><span style="color:#666666">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a href="https://tinypass.com/home/login" class="clickable " style="">Login</a><span style="color:#666666">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a onclick="Zenbox.render(); return false;" href="#" class="clickable " style="">Contact us</a><span style="color:#666666">&nbsp;&nbsp;|&nbsp;&nbsp;</span><a target="_blank" href="http://developer.tinypass.com/" class="clickable " style="">Developers</a>
             </td>
         </tr>
     </tbody></table>
@@ -133,33 +114,33 @@
                 </tr>
                 <tr>
                     <td valign="top">
-                        <form id="main_form" name="main_form">
-                            <div id="main_body"><table width="100%" cellpadding="0" cellspacing="0" style="">
+                        <div id="main_body"><table width="100%" cellpadding="0" cellspacing="0" style="">
 <tbody><tr>
     <td class="tab-panel" align="right" style="border:0px">
 
         <div style="float:left;">
-            <a href="/home"><img src="/images/tinypass-logo-beta.png" alt="TinyPass Logo" border="0"></a>
+            <a href="http://tinypass.com/"><img src="/images/tinypass-logo-beta.png" alt="TinyPass Logo" border="0"></a>
         </div>
 
         <div style="padding-top:5px;width:832px;">
 
             <div style="border:1px solid #d3d3d3;border-left:none;border-right:none;text-align:right;">
 
-                <table height="55px" cellpadding="0" cellspacing="0">
-
-                    <tbody><tr>
-                        <td width="90%">&nbsp;</td>
-                        <td valign="middle" align="center" class="tab tab-inactive"><a href="http://tinypass.com/publishers" class="top-link clickable " style="">Publishers</a></td><td valign="middle" align="center" class="tab tab-inactive"><a href="http://tinypass.com/demo" class="top-link clickable " style="">Demo</a></td>
-                    </tr>
-                </tbody></table>
+                <div style="height:55px">
+                    <table height="55px" cellpadding="0" cellspacing="0" style="float:right">
+                        <tbody><tr>
+                            <td valign="middle" align="center" class="tab tab-inactive"><a href="http://tinypass.com/home/publishers" class="top-link clickable " style="">Publishers</a></td><td valign="middle" align="center" class="tab tab-inactive"><a href="http://tinypass.com/home/demo" class="top-link clickable " style="">Demo</a></td>
+                        </tr>
+                    </tbody></table>
+                </div>
 
             </div>
         </div>
     </td>
 </tr>
 <tr>
-    <td style="padding:20px 0 20px 0">
+    <td style="padding:0px 0 20px 0">
+        <div id="flash-message"></div>
         <h2>TinyPass Privacy Policy</h2>
 <h3>Effective as of March 13, 2011</h3>
 <h4>INTRODUCTION</h4>
@@ -243,9 +224,8 @@
     terms selected by the Publisher of such content) we will also create a temporary account in our system that
     will allow you to access the content in accordance with its terms. Once the temporary account is no longer
     useful, we will schedule this temporary account and all information associated with the temporary account
-    for deletion.] [INTERNAL DISCUSSION POINT: Is this applicable to the TinyPass Service? Why would this be the
-    case if TinyPass is only providing a form of payment, not delivering content? Suggest deleting italicized
-    text.]</p>
+    for deletion.
+</p>
 
 <p>Editing / Deleting Publisher Account Information. Any user who establishes a TinyPass user account can view
     the personally identifiable information we have collected from that user. That information is available at
@@ -400,8 +380,8 @@ unsubscribe from these communications through your account management options or
 
     </td>
 </tr>
-</tbody></table></div>
-                        </form>
+</tbody></table>
+</div>
                     </td>
                     <td>
                         <img id="fix-height" width="1" height="1" border="0" src="/images/spacer.gif">
@@ -433,7 +413,7 @@ unsubscribe from these communications through your account management options or
             © 2011 TinyPass LLC
             </td>
             <td align="right" valign="top" style="padding-top:5px">
-                <a href="http://tinypass.com/terms" class="footer-link clickable " style="">Terms Of Use</a><span style="color:#666666">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://tinypass.com/privacy" class="footer-link clickable " style="">Privacy Policy</a>
+                <a href="http://tinypass.com/home/terms" class="footer-link clickable " style="">Terms Of Use</a><span style="color:#666666">&nbsp;&nbsp;&nbsp;&nbsp;</span><a href="http://tinypass.com/home/privacy" class="footer-link clickable " style="">Privacy Policy</a>
             </td>
         </tr>
     </tbody></table>
@@ -454,9 +434,7 @@ unsubscribe from these communications through your account management options or
     $("#fix-height").height($(window).height()-70);
 </script>
 
-<div id="waitPanel" style="position:fixed;top:0;right:0;padding:4px 10px;background-color:#55af00;color:white;display:none;">
-    loading...
-</div>
+<div id="waitPanel">loading...</div>
 
 <script type="text/javascript">
 
