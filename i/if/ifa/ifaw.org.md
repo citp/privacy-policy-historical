@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617231509id_/http%3A//www.ifaw.org/ifaw_united_states/general/shortcut_of_privacy_statement.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifaw.org privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016190828id_/http%3A//www.ifaw.org/ifaw_united_states/general/shortcut_of_privacy_statement.php) for the most accurate reproduction.*
 
 # Privacy Statement | IFAW Web Site
 
