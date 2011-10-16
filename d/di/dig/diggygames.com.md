@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diggygames.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513204856id_/http%3A//www.diggygames.com/page-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diggygames.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016023727id_/http%3A//www.diggygames.com/page-privacy) for the most accurate reproduction.*
 
 # Diggy Games
 
