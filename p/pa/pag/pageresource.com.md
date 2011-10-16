@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410110810id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageresource.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016142853id_/http%3A//www.pageresource.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for PageResource.Com
 
@@ -6,7 +6,7 @@
 
 The Web Design Resource has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: PageResource.Com. 
 
-Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20110410110810id_/http%3A//www.pageresource.com/privacych.html)**
+Be sure to view our **[Children's Privacy Policy](https://web.archive.org/web/20111016142853id_/http%3A//www.pageresource.com/privacych.html)**
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to gather broad demographic information. 
 
@@ -22,14 +22,8 @@ We use third-party advertising companies to serve ads when you visit our Website
 
 You can view the privacy policies of the advertising companies we use through the links below: 
 
-The Web Design Resource works with a third party that serves ads to this site. To find out more about how Tribal Fusion manages the privacy information in conjunction with serving ads on this site, please go to:   
-<http://www.tribalfusion.com/www/about/privacy.html>
-
 The Web Design Resource works with a third party that serves ads to this site. To find out more about how ValueClick Media manages the privacy information in conjunction with serving ads on this site, please go to:   
 <http://www.valueclickmedia.com/privacy.shtml>
-
-The Web Design Resource works with a third party that serves ads to this site. To find out more about how Burst! Media manages the privacy information in conjunction with serving ads on this site, please go to:   
-<http://www.burstmedia.com/release/privacy.asp>
 
 The Web Design Resource works with a third party that serves ads to this site. To find out more about how Vibrant Media manages the privacy information in conjunction with serving ads on this site, please go to:   
 <http://www.vibrantmedia.com/privacy.asp>
@@ -44,7 +38,7 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-  1. You can send a message via our [contact form](https://web.archive.org/web/20110410110810id_/http%3A//www.pageresource.com/contact.htm)
+  1. You can send a message via our [contact form](https://web.archive.org/web/20111016142853id_/http%3A//www.pageresource.com/contact.htm)
 
 
 
@@ -52,10 +46,10 @@ This site gives users the following options for removing their information from 
 
 This site gives users the following options for changing and modifying information previously provided. 
 
-  1. You can send a message via our [contact form](https://web.archive.org/web/20110410110810id_/http%3A//www.pageresource.com/contact.htm)
+  1. You can send a message via our [contact form](https://web.archive.org/web/20111016142853id_/http%3A//www.pageresource.com/contact.htm)
 
 
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20110410110810id_/http%3A//www.pageresource.com/contact.htm). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please [contact us](https://web.archive.org/web/20111016142853id_/http%3A//www.pageresource.com/contact.htm). 
