@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218193459id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbayaq.org privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016194956id_/http%3A//www.montereybayaquarium.org/sg/sg_policies.aspx) for the most accurate reproduction.*
 
-# About Us - Web Site Info - Privacy Policy | Monterey Bay Aquarium
-
-  
-  
-  
-  
-| 
+# Web Site Privacy Policy for the Monterey Bay Aquarium
 
 #### 1\. INTRODUCTION
 
@@ -16,13 +10,14 @@ The Monterey Bay Aquarium Foundation (the "Aquarium") is committed to respecting
 
 #### 1.2 NOTICE CONCERNING CHILDREN.
 
-At the Aquarium, we are especially concerned with protecting the privacy of children who visit the Site. We fully support and are in compliance with the Children's Online Privacy Protection Act, though nonprofit organizations such as ours are not subject to its provisions. Please note the following:  
-
+At the Aquarium, we are especially concerned with protecting the privacy of children who visit the Site. We fully support and are in compliance with the Children's Online Privacy Protection Act, though nonprofit organizations such as ours are not subject to its provisions. Please note the following:
 
   * If we collect Personal Information from children only to be able to furnish information regarding participation in programs such as the Student Oceanography Club.
   * We do not ask children for other information, and we never share the information we collect with anyone outside of the Aquarium.
   * If you or your child is under age 13, the consent of the child's parent or legal guardian is required before we collect or use any Personal Information.
   * At any time, a child's parent may review the child's Personal Information, ask us to delete it and refuse to allow any further collection or use of information from the child.
+
+
 
 You may consent to our collection of Personal Information from your child by sending us an e-mail identifying yourself and your child and authorizing us to collect personal information from your child. You can also reach us via e-mail at equarist@mbayaq.org.
 
@@ -118,5 +113,6 @@ If you have any questions about this Policy or our practices related to the Site
 
 #### 6.2 UPDATES AND CHANGES.
 
-We reserve the right, at any time, to revise this Policy simply by posting a revised Policy and without any notice to you. Any such revision will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.  
-| 
+We reserve the right, at any time, to revise this Policy simply by posting a revised Policy and without any notice to you. Any such revision will be effective immediately upon posting on the Site. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms.
+
+Back to top
