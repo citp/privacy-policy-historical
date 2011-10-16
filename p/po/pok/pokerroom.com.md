@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokerroom.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204064736id_/http%3A//www.pokerroom.com/help/about-pokerroom/terms-of-service/privacy-policy.html%3Fframework%3Dinline-popup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokerroom.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016211514id_/http%3A//www.pokerroom.com/help/about-pokerroom/terms-of-service/privacy-policy.html%3Fframework%3Dinline-popup) for the most accurate reproduction.*
 
 # 
 
@@ -58,7 +58,7 @@ Request the deletion or rectification of personal information which is inaccurat
 
 To object to any unsolicited information sent by SITE regarding new products and services. This can be done at any time on the SITE: [www.pokerroom.com](http://www.pokerroom.com/)
 
-If you wish to contact SITE regarding your personal information held by SITE or have any other questions about SITE's privacy procedures, please use SITE’s contact form at [Contact](http://www.pokerroom.com/help/contact/).
+If you wish to contact SITE regarding your personal information held by SITE or have any other questions about SITE's privacy procedures, please use SITE’s contact form at [](https://web.archive.org/offline.php?page=contact).
 
 ### Storage of personal information
 
