@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugma.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525125425id_/https%3A//www.yugma.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugma.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016114633id_/https%3A//www.yugma.com/privacy.php) for the most accurate reproduction.*
 
 # Yugma: Free Web Collaboration Forever — anytime, anywhere.
 
