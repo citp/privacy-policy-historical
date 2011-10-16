@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesolve.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227093927id_/http%3A//www.articlesolve.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesolve.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017015615id_/http%3A//www.articlesolve.com/privacy.php) for the most accurate reproduction.*
 
 # ArticleSolve | Privacy Statement
 
