@@ -1,60 +1,56 @@
-> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2008-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081208024643id_/http%3A//es.homesandproperty.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesandproperty.co.uk privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016083204id_/http%3A//www.homesandproperty.co.uk/es/privacypolicy.html) for the most accurate reproduction.*
 
-# Homes and Property - Privacy policy
+# Privacy Policy | Homes & Property
 
-## Privacy policy
+## Privacy Policy
 
 This privacy policy applies only to this website (the “Site”). If you do not accept this privacy policy, you must not use this Site.
 
 #### Collection Of Personal Information
 
-Associated Newspapers Limited collects personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it.
+We collect personal information from you (such as name, address, telephone number, email address etc) when you complete registration or enquiry forms or send emails to us. Please do not submit your personal information to us if you do not wish us to collect it. 
 
 #### Collection Of Other Information
 
-In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor visitors to the Site. A cookie is small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies. 
+In addition to personal information, we may collect information about you automatically when you visit the Site. The collection of information may involve the use of cookies and web beacons. A web beacon is a small graphic image placed on a web page that is designed to allow us to monitor traffic on the Site. A cookie is a small text file that is placed on your computer's hard drive by your web browser when you first visit the Site. The cookie allows us to identify your computer and find out details about your last visit. 
 
-The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and your geographical location. 
+Most internet browsers accept cookies automatically, but usually you can alter the settings of your browser to erase cookies or prevent automatic acceptance if you prefer. If you choose not to receive our cookies, we cannot guarantee that your experience with the Site will be as quick or responsive as if you do receive cookies.
+
+The information collected by cookies and web beacons is not personally identifiable, it includes general information about your computer settings, your connection to the internet e.g. operating system and platform, IP address, your browsing patterns and timings of browsing on the Site and geographical location. 
 
 #### Use Of Your Information
 
-By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and for our own business purposes. These include (without limitation):   
+By using this Site, you agree that we may collect, hold, process and use your information (including personal information) for the purpose of providing you with the Site services and developing our business which shall include (without limitation):
+
 • Personalising your visits to the Site and developing the design and style of the Site to improve the services provided to you   
 • Informing you about the latest changes to the Site, or products, services or promotional offers that you might find interesting   
 • Communicating (and personalising such communication) with you   
-• Informing you if you have been successful in any of our competitions or promotions   
+• Informing you if you have been successful in any Site competitions or promotions   
 • Compiling customer reviews   
-• For market research purposes   
-• To enable third parties to carry out statistical analyses', technical, logistical or other functions on our behalf including determining behavioural preferences to manage online advertising   
-• For strategic development   
-• For any purpose required by law or regulation   
-• For accounting purposes 
+• Conducting market research   
+• Carrying out statistical, technical and logistical analysis
 
-#### Sharing Your Information
+#### Sharing Your Personal Information
 
-By using the Site, you agree that:  
-• we may disclose your personal information to any company within the Daily Mail and General Trust plc group of companies by means of a centralised database to which all such companies have access or by means of a direct transfer of data from one office to another  
-• with your consent, we may supply personal information about you to third parties
+Subject to obtaining your consent, we may supply personal information about you to third parties.
 
-We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’s lawful requests for information. 
+We reserve the right to disclose your personal information to comply with applicable laws and government or regulatory bodies’ lawful requests for information.
 
 We may transfer, sell or assign any of the information described in this policy to third parties as a result of a sale, merger, consolidation, change of control, transfer of assets or reorganisation of our business. 
 
-Furthermore, by using the Site, you consent to the transfer of your personal information outside of the European Economic Area (which may not provide the same protection for such information as the United Kingdom provides) in the event that the processing of your information involves such a transfer.
-
 #### Safeguards And Security
 
-No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see [www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/)
+No data transmission over the internet can be entirely secure, so we do not guarantee the security of your personal information and/or use of the Site. However, we use reasonable endeavours to protect the security of your personal information from unauthorised access or use by using encryption technology. 
 
-#### Accessing Your Information
+In addition to these safeguards, your personal information is protected in the UK by the Data Protection Act 1998. This provides that the information which we hold about you should be processed fairly and lawfully, should be accurate, relevant and not excessive, not be retained for longer than is necessary and, if applicable, be kept up to date. For more information on the Data Protection Act 1998 and your related rights please see www.ico.gov.uk 
+
+#### Accessing Your Personal Information
 
 If you wish to review or receive copies of the personal information we hold about you, or have any other queries please write to us (including full details of your request) at:
 
-Associated Newspapers Limited  
+Evening Standard Ltd  
 Northcliffe House  
 2 Derry Street  
 London W8 5TT
 
 We may charge a small administration fee in relation to fulfilling a request for access to personal information.
-
-Published: 20 May 2007
