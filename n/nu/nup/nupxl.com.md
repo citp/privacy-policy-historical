@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nupxl.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423033225id_/http%3A//www.nupxl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nupxl.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016215619id_/http%3A//www.nupxl.com/privacy-policy) for the most accurate reproduction.*
 
-# Cool Stuff- Oddities - Funny Gift and Gadget Reviews - Cool, Funny and Sexy Pictures | Privacy Policy
+# Privacy Policy Cool Stuff , oddities, reviews Cool Stuff- Oddities - Funny Gift and Gadget Reviews - Cool, Funny and Sexy Pictures
 
 **Privacy Policy for www.nupxl.com**
 
