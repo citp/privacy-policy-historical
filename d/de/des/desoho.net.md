@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desoho.net privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404004040id_/http%3A//desoho.net/orders/desohoprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desoho.net privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016034920id_/http%3A//www.desoho.net/orders/desohoprivacy) for the most accurate reproduction.*
 
 # 
 
