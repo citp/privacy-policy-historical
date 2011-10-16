@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askbazar.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527084453id_/http%3A//www.askbazar.com/index.php%3Foption%3Dcom_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askbazar.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016044017id_/http%3A//www.askbazar.com/index.php%3Foption%3Dcom_privacy_policy) for the most accurate reproduction.*
 
 # -askbazar.com
 
