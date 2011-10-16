@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the tolunaquick.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410014824id_/http%3A//www.tolunaquick.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolunaquick.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016161759id_/http%3A//www.tolunaquick.com/privacy) for the most accurate reproduction.*
 
-# TolunaQuick - Privacy Policy
-
-##  Privacy Statement
+# Privacy Policy | TolunaQuick
 
 #####  Last updated: November 2, 2010
 
   
-Toluna SAS has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and underlying practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com). If you are not satisfied with our response you can contact [ TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Toluna SAS has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and underlying practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organisations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacyna@toluna.com](mailto:privacyna@toluna.com). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ###  Overall privacy
 
 Commitment
 
-Toluna SAS is an online data collection company focused on providing high quality data to the full-service marketing research industry, advertising agencies and consultancies. We build and maintain large online consumer Panels. You can be assured your privacy and the confidentiality of your information is our number one priority. All of the data that Toluna SAS collects in our research studies report as aggregate information, that is, information about groups - not individuals. Individual information is never reviewed or published without your consent, as it is irrelevant to the research conducted by our clients. All individual information provided is held confidential in accordance with the terms of this Privacy Policy.
+Toluna SAS is an online data collection company focused on providing high quality data to the full-service marketing research industry, advertising agencies and consultancies. We build and maintain large online consumer Panels. You can be assured your privacy and the confidentiality of your information is our number one priority. All of the data that Toluna SAS collects in our research studies report as aggregate information, that is, information about groups - not individuals. Individual information is never reviewed or published without your consent, as it is irrelevant to the research conducted by our clients. All individual information provided is held confidential in accordance with the terms of this Privacy Policy. 
 
 The Information We Gather
 
@@ -72,7 +70,7 @@ We provide you with a Members Area on our site; here you may correct or update y
 
 Opt-Out Policy
 
-By becoming a Toluna SAS panel member, you agree to receive emails inviting you to participate in surveys that we feel may match your experiences and background. You also agree to the automatic establishment of your personal prize account. From time to time, we will also email newsletters to you to make you aware of new features or contests running on our site. You may update your registration information at any time. Please see Correct/Update Policy below.
+By becoming a Toluna SAS panel member, you agree to receive emails inviting you to participate in surveys that we feel may match your experiences and background. You also agree to the automatic establishment of your personal prize account. From time to time, we will also email newsletters to you to make you aware of new features or contests running on our site. You may update your registration information at any time. Please see Correct/Update Policy below. 
 
 Correct/Update Policy
 
@@ -88,7 +86,7 @@ Panel members and others who take our surveys are randomly selected to win prize
 
 Notification of Changes
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
