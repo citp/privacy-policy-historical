@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promediacorp.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129161258id_/http%3A//www.promediacorp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promediacorp.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016072005id_/http%3A//www.promediacorp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Promediacorp
 
