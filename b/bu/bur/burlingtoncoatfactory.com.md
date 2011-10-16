@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513001702id_/https%3A//www.burlingtoncoatfactory.com/content/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burlingtoncoatfactory.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016065633id_/https%3A//www.burlingtoncoatfactory.com/content/policy/privacy) for the most accurate reproduction.*
 
 # BurlingtonCoatFactory.com
 
@@ -33,7 +33,7 @@ If you choose to join our mailing list when you place an order, we may periodica
 
 Children Under 13 Years of Age
 
-It is not our intent to collect personal information about children under the age of 13. A child who is 13 but not yet 18 years of age may use this website only if a parent or legal guardian agrees to be bound by the website's [Terms of Use](https://web.archive.org/web/20110513001702id_/https%3A//www.burlingtoncoatfactory.com/conent/privacy/terms) on the child's behalf. Children under 13 years of age may not use this website.
+It is not our intent to collect personal information about children under the age of 13. A child who is 13 but not yet 18 years of age may use this website only if a parent or legal guardian agrees to be bound by the website's [Terms of Use](https://web.archive.org/web/20111016065633id_/https%3A//www.burlingtoncoatfactory.com/conent/privacy/terms) on the child's behalf. Children under 13 years of age may not use this website.
 
 Cookies and other Computer Information
 
@@ -49,6 +49,6 @@ We will never send your credit card information via email.
 
 Notices and Changes
 
-Because our business changes all the time, so does our Privacy Policy and our Security Notice. Please check our website for changes. If you have questions or concerns with respect to our Privacy Policy or our Security Notice, please feel free to [contact us](https://web.archive.org/web/20110513001702id_/https%3A//www.burlingtoncoatfactory.com/content/contact-us).
+Because our business changes all the time, so does our Privacy Policy and our Security Notice. Please check our website for changes. If you have questions or concerns with respect to our Privacy Policy or our Security Notice, please feel free to [contact us](https://web.archive.org/web/20111016065633id_/https%3A//www.burlingtoncoatfactory.com/content/contact-us).
 
 Last Updated: December 1, 2007
