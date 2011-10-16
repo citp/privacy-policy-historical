@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the ifood.tv privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504022657id_/http%3A//www.ifood.tv/privacy_0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifood.tv privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016051827id_/http%3A//www.ifood.tv/privacy_0) for the most accurate reproduction.*
 
 # Privacy | ifood.tv
 
 **ifood.tv Privacy Notice**  
-ifood.tv recognizes that its customers, visitors, users, and others who use www.ifood.tv or other web sites owned or operated by Future Today Inc (the "ifood.tv Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the ifood.tv or other Future Today inc Sites. ifood.tv provides this Privacy Notice to help you make an informed decision about whether to use or continue using the ifood.tv Sites.  
+ifood.tv recognizes that its customers, visitors, users, and others (collectively or individually "Users") who use www.ifood.tv or other web sites owned or operated by Future Today Inc (the "ifood.tv Sites") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the ifood.tv or other Future Today inc Sites. ifood.tv provides this Privacy Notice to help you make an informed decision about whether to use or continue using the ifood.tv Sites.
+
 This Privacy Notice is incorporated into and is subject to the ifood.tv Terms Of Use. Your use of the ifood.tv Sites and any personal information you provide on the ifood.tv Sites remains subject to the terms of this Privacy Notice and our Terms of Use.  
 Please note that any video, image, or other content posted at the direction of Users onto the ifood.tv Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
