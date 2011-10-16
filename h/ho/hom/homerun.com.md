@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homerun.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626085022id_/http%3A//homerun.com/legal/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homerun.com privacy policy that was archived on 2011-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111016080810id_/http%3A//homerun.com/legal/privacy.pdf) for the most accurate reproduction.*
 
 # HOMERUN PRIVACY POLICY
 
