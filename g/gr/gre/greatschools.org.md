@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510153343id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DCA) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatschools.org privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017092456id_/http%3A//www.greatschools.org/privacy/%3Fstate%3DCA) for the most accurate reproduction.*
 
 # GreatSchools.org Privacy Statement
 
