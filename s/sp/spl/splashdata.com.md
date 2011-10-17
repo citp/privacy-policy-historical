@@ -1,63 +1,119 @@
-> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2010-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100119051822id_/http%3A//www.splashdata.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the splashdata.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017045536id_/http%3A//privacy-policy.truste.com/verified-policy/www.splashdata.com) for the most accurate reproduction.*
 
-# SplashData - Privacy Statement
+# Privacy Policy for www.splashdata.com
 
-SplashData never rents or exchanges our electronic mailing lists with any third parties. SplashData will not disclose any of your electronic contact information except when we have your explicit permission.
+Effective on April 13, 2010 
 
-We may occasionally send you e-mail about product updates or special offers and services that we feel might be of interest to you. Only SplashData will send you these e-mailings and only if you indicated that you do not object to these offers.
+This privacy statement describes how SplashData, Inc. collects and uses the personal information you provide on our Web site: [www.splashdata.com ](https://www.splashdata.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-If you do not want to receive such mailings, at any time you can choose to unsubscribe from our mailing list by visiting our [unsubscribe page](http://links.mkt556.com/ui/modules/display/optOut.jsp?f=68635). Once you are unsubscribed, you will no longer receive such offers or mailings.
+**TRUSTe**
 
-At SplashData we recognize the critical importance of privacy. After all, security and privacy are central to who we are as a company.
+SplashData, Inc. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-This document outlines the types of personal information we receive and collect when you use SplashData’s online services and web sites (referred to collectively as the “Services” in this document).
+If you have questions or concerns regarding this policy, you should first contact us at [sales@splashdata.com ](mailto:sales@splashdata.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
-By using the Services, you consent to the information practices described in this policy. Keep in mind that your use of the Services is also subject to, and controlled by, the SplashData Terms and Conditions.
+The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
-SplashData collects personal information when you register for an account for any Service or otherwise voluntarily provide such information. 
+## Collection and Use of Personal Information
 
-Trial Account - When you sign up for an account, we ask you to select a user name and a password as well as a SiteKey security icon. 
+We collect the following personal information from you
 
-Registered Account – Upon payment of applicable fees for some Services (such as SplashID Live), you can upgrade to a Registered Account and we will request some other information, including your name, credit card details and a billing address. Your name, address and payment information will be used for administrative purposes only. Note that any Private Records you encrypt using a secure service like SplashID Live will remain private – such records cannot be unencrypted by SplashData using your user name. 
-
-Log Information - When you use SplashData services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, IP address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
-
-User communications - When you send email or other communication to SplashData, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
-
-Links - SplashData may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of the service.
-
-Uses of collected information - We use personal information such as your name and email address solely to provide the services you’ve requested. We may also use personal information for internal auditing, research and analysis to operate and improve SplashData technologies and services. We may share aggregated non-personal information with third parties outside of SplashData. When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures.
-
-Minimum level of collected information - We ask only for personal information that is strictly necessary to provide the Services and perform administrative tasks.
-
-Information sharing - SplashData shares personal information with other companies or individuals outside of SplashData only when we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to: 
-
-  1. satisfy any applicable law, regulation, legal process or enforceable governmental request; 
-  2. enforce applicable Terms of Service, including investigation of potential violations thereof; or
-  3. detect, prevent, or otherwise address fraud, security or technical issues. 
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, and billing address
+  * Unique Identifiers such as user name, account number, password
+  * Preferences Information such as product wish lists, order history, marketing preferences
 
 
 
-SplashData may share with third parties certain pieces of aggregated, non-personal information. Such information does not identify you individually.
+As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
 
-If SplashData becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+We use this information to
 
-Accessing and updating personal information - When you use SplashData services, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. 
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine suitable products
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Respond to your questions and concerns
+  * Improve our Web site and marketing efforts
+  * Conduct research and analysis
 
-We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required.
 
-Security - We employ commercially reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. Your personal data will be stored within a database that is located behind a firewall for added security. The server housing the database is physically protected at a secure data center.
 
-Any transmission to the SplashData web site or Services of sensitive and credit card information uses encryption.
+**Choice/Opt-Out**
 
-Enforcement - SplashData regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or SplashData’s treatment of personal information by [contacting us here](https://web.archive.org/support/supportreq.htm). 
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [sales@splashdata.com ](mailto:sales@splashdata.com).
 
-When we receive formal written complaints at this address, it is SplashData’s policy to contact the complaining user regarding his or her concerns. 
+**Information Obtained from Third Parties**
 
-Changes to this policy - Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Regardless, we will post any Policy changes on this page: www.splashdata.com/privacy
+If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
 
-More information - If you have additional questions, please [contact us any time](https://web.archive.org/support/supportreq.htm).  Or write to us at:
+## Information Sharing
 
-SplashData, Inc.  
-201 Los Gatos-Saratoga Rd., #210  
-Los Gatos, CA 95030
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+
+We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
+
+We may also disclose your personal information
+
+  * as required by law such as to comply with a subpoena, or similar legal process
+  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * if SplashData, Inc. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
+  * to any other third party with your prior consent to do so.
+
+
+
+_GoogleCheckout_
+
+If you choose to use GoogleCheckout to finalize and pay for your order, you will provide your credit card number directly to GoogleCheckout. Google's privacy policy will apply to the information you provide on the GoogleCheckout Web site. 
+
+_PayPal_
+
+If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
+
+## Cookies and Other Tracking Technologies
+
+We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
+
+We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
+
+_Web beacons_
+
+Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
+
+Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
+
+We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
+
+_Links to Other Web Sites_
+
+Our Site includes links to other Web sites whose privacy practices may differ from those of SplashData, Inc.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+
+## Security
+
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [sales@splashdata.com ](mailto:sales@splashdata.com)
+
+We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
+
+## Additional Policy Information
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [sales@splashdata.com ](mailto:sales@splashdata.com).
+
+**Notification of Privacy Statement Changes**
+
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+You can contact us about this privacy statement by writing or email us at the address below:
+
+SplashData, Inc. 
+
+201 Los Gatos-Saratoga Road 
+
+Los Gatos, CA, United States 95030
