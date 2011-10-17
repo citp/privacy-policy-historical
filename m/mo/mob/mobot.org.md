@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobot.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629014432id_/http%3A//www.mobot.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobot.org privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017151132id_/http%3A//mobot.org/privacy.asp) for the most accurate reproduction.*
 
 # Missouri Botanical Garden: Privacy Policy
 
