@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the test-inside.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505025103id_/http%3A//www.test-inside.com/testinside/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the test-inside.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017113556id_/http%3A//www.test-inside.com/testinside/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Notice - TestInside
 
