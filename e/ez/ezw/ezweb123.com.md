@@ -1,78 +1,31 @@
-> *The following text is extracted and transformed from the ezweb123.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206091708id_/http%3A//ezweb123.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezweb123.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017112645id_/http%3A//ezweb123.com/privacy_policy.html) for the most accurate reproduction.*
 
-# EasyWeb123 - quick and affordable website solutions
+# About ezweb123, The Award Winning Website Builder
 
-**We Value Your Right to Privacy:**   
-We value your right to privacy. To better protect your privacy we offer this explanation of our online information practices and how your information is collected and utilized. We make this information easily available on our homepage and on every part of our website(s). 
+Ezweb123.com has all data managed by SiteMaker Software Ltd who are our data controllers. The team at SiteMaker Software Ltd regards your privacy as very important. As required by the UK Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of all information that you give us.
 
-**The Information We Collect:**   
-This privacy statement applies to all information collected or submitted on the Easyweb123 site. On our pages, you can register for information access, request materials, or other methods of follow-up contact. The types of personal information collected at these pages may include: 
+This statement describes the privacy policies of SiteMaker Software Ltd. We will not sell, share, rent or otherwise disclose your information to others in ways different to how they are disclosed in this statement.
 
-  * Name
-  * Company
-  * Position
-  * Email address
-  * Address
-  * Phone Number
-  * Fax Number
-  * Industry
-  * Current Website URL
-  * Project Timeline and/or Budget
-  * Optional Demographics (i.e. occupation, gender, etc.)
-  * Interest Areas
-  * Or other general, non-personally identifiable information
+**Email Address**
 
+When you first register with us, we ask for your email address. Your email address is used to communicate important information about your account, such as payments due or to reset your password. In addition, if you have chosen to remain part of our mailing list, we send you our newsletter, and/or offers and promotions from ourselves or our carefully selected partners about products or services that are relevant to you. At the end of our newsletters or offers, we always provide you with the opportunity to remove yourself from our mailing list. Additionally, you may opt in or out of either of these types of mailing from any site by clicking My Details from the control bar of any site to which you are logged in, and select Edit my Details. Where your email address has been shared with one of our partners, they are also bound by the terms of this privacy policy and any communications from them will include instructions on how to be removed from their list.
 
+If you choose to become a member of one our customers' sites, you are agreeing to disclose your email address to that site leader. Through SiteMaker, a site leader can choose to mail individual members, groups of members or the entire membership of the site. When you join, you can choose to not be part of the mailing list, and in addition you can always choose to remove yourself from the mailing list of a site by using the unsubscribe function at the end of every email sent from the SiteMaker system.
 
-_Note: we make every possible effort to limit the information we obtain for direct marketing of our product to you, and/or servicing your website needs._
+If you are logged in to any site, and choose to post information, your posting will by default also include your email address. You are able to remove or edit this address before you submit your posting. In addition, you may choose to be notified by our system of replies or updates in which case your email address will again be used.
 
-**The Way We Use Information:**   
-EasyWeb123 is the only owner of the information gathered on this site. We **DO NOT** market this information in any manner to third parties. We do not sell, trade, or otherwise share your information with any outside party. Easyweb123, or its parent company, Internet Strategies, has no intention or desire to engage in such practices. 
+If you build a site with us, you provide a site email address that is published on your site as a way of contacting the site owner. This defaults to your email address, but can be updated through Manage your site.
 
-**Registration**   
-You can register on our website if you would like access to various levels of information and website functionality. During registration, a user is required to give their contact information (such as name and email address). This information will be used to properly set up your account, and is not shared with outside parties. We may also use the contact information to send supplementary product information to you in the future. All such product information will be communicated directly by us, and not any third party. 
+If you choose to subscribe to SiteMaker, we ask you some additional personal questions such as your age, gender, occupation, postal/ZIP code and country. We also collect data about your browser, login times and IP addresses when you visit any SiteMaker sites.
 
-**Surveys**   
-From time-to-time our site requests information from users via surveys. Participation in these surveys is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include demographic information (such as zip code, age, sex, or industry). Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site and/or Easyweb123 products and services. 
+This information is only used in aggregated form – no user is individually identifiable from the data we disclose. It is used by us to understand our customers better and to ensure we focus our development on satisfying the needs of our users. We may also use this information in working with our partners in describing our customer base to ensure the products and services that we or our partners may offer are relevant.
 
-**Send-To-A-Colleague**   
-If a user elects to send information from our site directly to a colleague, we ask them for the colleague's name and email address. Easyweb123 will allow you the ability to view and/or edit the information that will be sent before it is delivered. Once approved, the website will instantaneously and automatically send the colleague this one-time email with the requested material (e.g. article, offer, form, etc.) from the site. Easyweb123 does not store this information for future use. 
+In creating your site with SiteMaker, you may include personal identifiable information in your site. This is entirely at your own responsibility and SiteMaker Software Ltd are in no way liable for the disclosure of this information. SiteMaker Software Ltd reserves the right to promote from time to time sites built with SiteMaker. However, in these cases we will make reasonable efforts to obtain the consent from the site leader in advance.
 
-**Marketing Information**   
-If applicable, the marketing and demographic information (such as gender and industry) we collect during information request or registration is optional, but encouraged so that we may gain a better understanding of our users, and so that we may serve them in a more personalized manner. This information is solely for internal use, and will not be shared with outside parties. 
+We have partnered with Worldpay Plc for the handling of all credit card payments. When you pay by credit or debit card, you are asked for your card details and billing address. This information is held exclusively by Worldpay, and you agree to their privacy policy ([available here](http://www.worldpay.com/about_us/index.php?page=privacy "Worldpay privacy policy")) in completing the payment steps. SiteMaker Software Ltd have no access to your card details, but they do have access your billing address and payment history in order to assist with customer service enquiries. Under no circumstances are these details disclosed to any third parties.
 
-We use non-identifying and aggregate information to better design our website and to share with strategic partners. For example, we may tell a partner that "X number of individuals visited a certain area on our website", or that "Y percent of our customers are in the manufacturing business", but we would not disclose anything that could be used to personally identify those individuals or their organizations. 
+Any of the information collected by us may be disclosed to the authorities as part of any investigations into any illegal activities that may take place on the SiteMaker service, as governed by UK law.
 
-**Our Commitment to Data Security**   
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+Cookies are small pieces of information that are stored by your browser on your computer. Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie. Allowing a Web site to create a cookie does not give that or any other site access to the rest of your computer, and only the site that created the cookie can read it. Our cookies do not contain any personally identifying information, but they do allow us to remember your login details and therefore offer you a personalized service without you having to log in on every visit. If you prefer not to use cookies, you can choose not to have your login details remembered on logging in or you can disable the feature in your browser.
 
-Where appropriate, all sensitive information is provided in an encrypted environment. This information is protected with the best encryption techniques in the industry, including SSL (Secure Socket Layer). 
-
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our customer service representative) are granted access to customer information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, all critical personally identifiable information (such as credit card information) is kept in a secure **offline** environment. 
-
-**Use of Cookies**   
-We may use cookies to enable us to track and target the interests of our users to enhance the experience on our site. A cookie is a piece of data stored on the user's hard drive containing information about the user. 
-
-Usage of a cookie is in no way linked to any personally identifiable information. Once the user closes his or her browser, the cookie simply terminates. If a user rejects the cookie, he or she may still use our site at the risk that all functionality may not properly operate as intended. 
-
-The following are example of how we use cookies in order to simplify data entry: 
-
-  1. E-mail when logging in. 
-  2. Name, e-mail, and account access upon subsequent visits to the website(s). 
-
-
-
-**Log Files**   
-We use IP addresses to analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. Easyweb123, its parent, Internet Strategies, nor any other online service can obtain personally identifiable information from an IP Address. 
-
-**Links**   
-This web site may contain links to and from other sites. Please be aware that Easyweb123 is not responsible for the privacy practices of such other sites that are not owned by us or our parent company. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
-
-**How You Can Access or Correct Your Information**   
-If you are a registered user, you can access most of your personally identifiable information (name, e-mail, and interest areas) that we collect online through the registration update form. Due to the sensitivity of credit card information, we do not make it available to view online, but it can be viewed by sending e-mail to [questions@easyweb123.com](mailto:questions@easyweb123.com). We will then contact you to determine the best way of confirming this information with you. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. We use this procedure to better safeguard your information. 
-
-**Opt-Out**   
-If at any time you would like your information to be modified or removed from our database, you may contact us directly via e-mail. If you would like to discontinue receiving supplementary information, you may also contact us with your instructions. 
-
-**Notification of Changes**   
-In the event that we decide to change our privacy policy, we will post those changes on our homepage so our users can easily access the latest version. Users will have a choice as to whether or not we use their information in a different manner than originally disclosed. 
+By registering with SiteMaker and using our services, you consent to the collection and use of this information by us in the ways detailed above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. If you have any specific questions about our privacy policy, please [contact us](http://www.ezweb123.com/contact.html "Contact us").
