@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livedrive.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605160644id_/http%3A//www.livedrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livedrive.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017070226id_/http%3A//www.livedrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Livedrive Privacy Policy | Livedrive
 
@@ -40,7 +40,7 @@ We use this information to make each visit more rewarding, and to provide us wit
 
 The personal information we collect and maintain will be subject to the version of the Privacy Policy in effect at the time of collection. We reserve the right to change the Privacy Policy from time to time and will provide notice of these changes on the Privacy Policy pages of our web site. You should make sure you periodically review the Privacy Policy to make sure it meets your needs.
 
-##  Information Disclosure Policy
+## Information Disclosure Policy
 
 **Personal and account information** Livedrive will not otherwise disclose its customers' personal and account information unless Livedrive has reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Livedrive, Livedrive' customers, or others, or where Livedrive has a good faith belief that the law requires such disclosure.
 
