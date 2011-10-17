@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the exitgames.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423195351id_/http%3A//www.exitgames.com/Home/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exitgames.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017073917id_/http%3A//www.exitgames.com/Home/PrivacyStatement) for the most accurate reproduction.*
 
-# Privacy Statement | Exit Games
+# Privacy Statement | Exit Games: Network Engines
 
 At Exit Games, we respect and protect the privacy of our customers and those who use our Web sites. Our Privacy Statement provides details of our approach to privacy and how information is collected and used regarding Exit Games business contacts, Exit Games corporate web page and Exit Games Arena. 
 
@@ -35,13 +35,13 @@ At Exit Games, we do what we say and say what we do. If you have privacy related
 
 ## We tell you about Web technologies.
 
-We may use a variety of technologies on our Web site. Among these are cookies; a piece of information that our Web sites provide to your browser when you visit our sites. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to make your visit to our Web site easier by recognizing you when you return and helping to provide you with a customized experience. You can freely choose to decline cookies while at our Web site and it will not limit your ability to access the Web site. Most browsers accept and maintain cookies by default. Check the "Help" menu of your browser to learn how to change your cookie preference. 
+We may use a variety of technologies on our Web site. Among these are cookies; a piece of information that our Web sites provide to your browser when you visit our sites. Cookies allow us to track overall site usage and determine areas users prefer. Cookies also allow us to make your visit to our Web site easier by recognizing you when you return and helping to provide you with a customized experience. You can freely choose to decline cookies while at our Web site and it will not limit your ability to access the Web site. Most browsers accept and maintain cookies by default. Check the"Help" menu of your browser to learn how to change your cookie preference. 
 
 We also keep track of activity on our Web site. We collect information such as IP address, browser type and version, and pages you view. We also keep track of how you got to our site and any links you click on to leave our site. Once you leave our site, we do not track you. We use your Web site activity to assist us in offering you a personalized Web experience, assist you with technical support and to tailor our offerings to you. 
 
 We may access and set cookies using web beacons, also known as single-pixel GIFs which are invisible graphical images. These web beacons provide us useful information regarding our site such as which pages user’s access. When we send you emails, we may include a single-pixel GIF to allow us to determine the number of people who open our emails. When you click on a link in an email, we record this individual response to allow us to customize our offerings to you. 
 
-To provide you with a seamless experience, we may occasionally use framing. Though your browser may indicate you are at Exitgames.net, you may be on a partner's site. To determine which site you are on, right-click on the site and then select "properties." 
+To provide you with a seamless experience, we may occasionally use framing. Though your browser may indicate you are at Exitgames.net, you may be on a partner's site. To determine which site you are on, right-click on the site and then select"properties." 
 
 ## Other things we want you to know.
 
