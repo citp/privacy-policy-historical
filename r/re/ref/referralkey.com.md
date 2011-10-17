@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the referralkey.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428110718id_/http%3A//www.referralkey.com/privacypolicypop.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the referralkey.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017104056id_/https%3A//www.referralkey.com/privacypolicypop.php) for the most accurate reproduction.*
 
-# Privacy Policy
-
-Privacy Policy
+# None
 
 Your privacy is extremely important to us. Referral Key operates by these principles to protect your privacy.
 
@@ -10,7 +8,7 @@ Your privacy is extremely important to us. Referral Key operates by these princi
 
   2. Your contact information and personal information will never be shared with another member or user without your consent.  
 
-  3. We will only share your personal information with third parties to provide specific services. For example, we utilize credit card processing companies to bill Gold Key members for monthly membership fees. These third party users do not store or retain any personally identifiable information except to provide these services and must adhere to strict confidentiality and privacy agreements which limit the use of such personal information.  
+  3. We will only share your personal information with third parties to provide specific services. These third party users do not store or retain any personally identifiable information except to provide these services and must adhere to strict confidentiality and privacy agreements which limit the use of such personal information.  
 
   4. We will not select other companies to send you information about their services and products.  
 
@@ -28,13 +26,11 @@ Your privacy is extremely important to us. Referral Key operates by these princi
 
   11. Like many websites, Referral Key uses cookies and similar software to collect data about users to track their movements around the website and in order to help users to automatically and seamlessly sign in on subsequent visits to the site.  
 
-  12. You have the option to manually enter, upload or import information about your contacts into the private “My Contacts” section of our website. Data entered in the My Contacts section will only be viewable by you and will not be seen by others in the Referral Key network without your permission. The My Contacts section data is covered by all the terms of this privacy policy.  
+  12. You MUST be 18 years to join Referral Key.  
 
-  13. You MUST be 18 years to join Referral Key.  
+  13. There is a possibility that we may need to disclose your personal information when required by law. We shall only disclose such information when we have a good-faith belief that it is necessary to comply with a court order or other legal proceeding.  
 
-  14. There is a possibility that we may need to disclose your personal information when required by law. We shall only disclose such information when we have a good-faith belief that it is necessary to comply with a court order or other legal proceeding.  
-
-  15. If at any time you have any questions or comments about this privacy policy, please notify us via email at [info@referralkey.com](mailto:info@referralkey.com) or contact us at: 
+  14. If at any time you have any questions or comments about this privacy policy, please notify us via email at [info@referralkey.com](mailto:info@referralkey.com) or contact us at: 
 
 > Referral Key, Inc.  
 >  20 Park Plaza, #448  
@@ -42,5 +38,3 @@ Your privacy is extremely important to us. Referral Key operates by these princi
 
 
 
-
-Close
