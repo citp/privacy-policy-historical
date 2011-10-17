@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630022509id_/http%3A//www.amway.com/en/privacy-policy-info) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixtar.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017190654id_/http%3A//www.amway.com/en/privacy-policy-info) for the most accurate reproduction.*
 
 # Security & Privacy Statement
 
