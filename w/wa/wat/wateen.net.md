@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wateen.net privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513072544id_/http%3A//www.wateen.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wateen.net privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017064738id_/http%3A//www.wateen.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
