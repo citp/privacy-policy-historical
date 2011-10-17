@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the carnegieendowment.org privacy policy that was archived on 2011-06-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110607150737id_/http%3A//www.carnegieendowment.org/about/index.cfm%3Ffa%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carnegieendowment.org privacy policy that was archived on 2011-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111017073640id_/http%3A//www.carnegieendowment.org/about/index.cfm%3Ffa%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#" style="" class=" iejs ieflexbox ieflexboxlegacy iecanvas iecanvastext iepostmessage iewebsqldatabase ieindexeddb iehashchange iehistory iedraganddrop iewebsockets iergba iehsla iemultiplebgs iebackgroundsize ieborderimage ieborderradius ieboxshadow ietextshadow ieopacity iecssanimations iecsscolumns iecssgradients iecssreflections iecsstransforms iecsstransforms3d iecsstransitions iefontface iegeneratedcontent ievideo ieaudio ielocalstorage iesessionstorage iewebworkers ieapplicationcache iebgpositionshorthand"><head>
 <meta name="verify-v1" content="renjJZQhS7lEtAP9RpIVimmmUsqLeUZlwOxcVVQj5GU=">
 <meta name="ROBOTS" content="NOARCHIVE">
 
 
 <meta name="publisher" content="Carnegie Endowment for International Peace">
-<meta name="copyright" content="2010">
+<meta name="copyright" content="2011">
 
 <meta http-equiv="Reply-to" content="info@carnegieendowment.org">
 <meta http-equiv="Pragma" content="no-cache">
@@ -49,6 +49,7 @@ if (typeof jQuery == 'undefined')
 
 
 <script type="text/javascript" src="/js/jquery.tools.min.js"></script>
+<script type="text/javascript" src="/js/jquery.validate.min.js"></script>
 <script type="text/javascript" src="/js/printpreview.js"></script>
 
 
@@ -113,6 +114,12 @@ if (typeof jQuery == 'undefined')
 <script type="text/javascript" src="http://dl.nmmstream.net/media/carnegie/flash/jw/popupwide.js"></script>
 <script type="text/javascript" src="/js/highlightSolrSearch.js"></script>
 
+<!-- For Google +1 -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+
+<!-- For Analytics for social share -->
+<script src="ga_social_tracking.js"></script>
+
 <link rel="alternate" type="application/rss+xml" title="Publications and Events" href="http://feeds.feedburner.com/CarnegieEndowmentForInternationalPeaceGeneralPublicationsAndEvents">
 <link rel="alternate" type="application/rss+xml" title="Publications" href="http://feeds.feedburner.com/CarnegieEndowmentForInternationalPeacePublications">
 <link rel="alternate" type="application/rss+xml" title="Asia" href="http://feeds.feedburner.com/carnegie/asiaprogram">
@@ -125,8 +132,7 @@ if (typeof jQuery == 'undefined')
 <link rel="alternate" type="application/rss+xml" title="Energy &amp; Climate" href="http://feeds.feedburner.com/carnegie/energy_and_climate">
 <link rel="alternate" type="application/rss+xml" title="Press Releases" href="http://feeds.feedburner.com/CarnegieEndowmentForInternationalPeacePressReleases">
 
-          <script type="text/javascript">
-
+<script type="text/javascript">
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-31877-1']);
 	_gaq.push(['_trackPageLoadTime']);
@@ -140,138 +146,78 @@ if (typeof jQuery == 'undefined')
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+</script>
 
+
+<script type="text/javascript" src="/js/modernizr.min.js"></script>
+
+<script type="text/javascript">
+(function ($) {
+  jQuery.fn.slidebox = function() {
+    var slidebox = this;
+    var originalPosition = slidebox.css('right');
+    var open = false;
+
+    /* GA tracking */
+    var track = function(label) {
+      return _gaq.push(['_trackEvent', 'Slidebox', label]);
+    }
+    var boxAnimations;
+
+    if (Modernizr.cssanimations) {
+      boxAnimations = {
+        open:  function() { slidebox.addClass('open'); },
+        close: function() { slidebox.removeClass('open'); },
+      }
+    } else {
+      boxAnimations = {
+        open: function() {
+          slidebox.animate({
+            'right': '0px'
+          }, 300);
+        },
+        close: function() {
+          slidebox.stop(true).animate({
+            'right': originalPosition
+          }, 100);
+        }
+      }
+    }
+
+    $(window).scroll(function() {
+      var distanceTop = $('#last').offset().top - $(window).height();
+
+      if ($(window).scrollTop() > distanceTop) {
+        if (!open) {
+          open = true;
+          boxAnimations.open();
+          track("Open");
+        }
+      } else {
+        open = false;
+        boxAnimations.close();
+      }
+    });
+
+    slidebox.find('.close').click(function() {
+      $(this).parent().remove();
+      track("Close");
+    });
+    slidebox.find('.related a').click(function() {
+      track("Read More");
+    });
+  }
+
+  $(function() {
+    $('#slidebox').slidebox();
+  });
+})(jQuery);
+
+var _gaq = _gaq || [];
 </script>
 </head>
 <body id="ceip" class="english ">
 <a name="top"></a>
-<div id="quoteBox">
-  <a style="display: none;" class="navlink backward">prev</a>
-  <div class="containerQuotes">
-    <strong><a href="/about/index.cfm?fa=quotes"><span class="hide">Quotes on Carnegie - Praise for the Global Think Tank</span></a></strong>
-    <div>
-      <span class="quote annan">
-        “The Carnegie Endowment has been a training ground for many of the all-stars in the State Department….”
-      </span>
-      <span class="attribution">
-        – Madeleine Albright, Former Secretary of State 
-      </span>
-    </div>
-    <div>
-      <span class="quote annan">
-        “I appreciate its work in the area of peace.”
-      </span>
-      <span class="attribution">
-        – Kofi Annan, Former Secretary-General of the United Nations 
-      </span>
-    </div>
-    <div>
-      <span class="quote schmidt">
-        “I cannot think of a better alignment of communication, information, and getting people together.”
-      </span>
-      <span class="attribution">
-        – Eric Schmidt, Executive Chairman of Google
-      </span>
-    </div>
-    <div>
-      <span class="quote burns">
-        “[T]his great vision of becoming a global think tank [is] badly needed in an interconnected world.”
-      </span>
-      <span class="attribution">
-        – Nicholas Burns, Undersecretary of State for Political Affairs 
-      </span>
-    </div>
-     <div>
-      <span class="quote economist">
-        “One of the most globally trusted talking-shops.”
-      </span>
-      <span class="attribution">
-        – <em>The Economist</em>
-      </span>
-    </div>
-    <div>
-      <span class="quote kerry">
-        “It is truly a global think tank…completely and appropriately reflective of the nature of the challenges that we face today.”
-      </span>
-      <span class="attribution">
-        – John Kerry, U.S. Senator
-      </span>
-    </div>
-     <div>
-      <span class="quote brennan">
-        “A force for global peace and security for 100 years.”
-      </span>
-      <span class="attribution">
-        – John Brennan, Deputy National Security Advisor
-      </span>
-    </div>
-     <div>
-      <span class="quote alfaisal">
-        “An excellent institution that does important work to help establish stronger international laws and organizations.”
-      </span>
-      <span class="attribution">
-        – His Royal Highness Prince Turki Al-Faisal 
-      </span>
-    </div>
-    <!--<div>
-      <span class="quote huntsman">
-        &#8220;Going all the way back to that great gift of $10 million Andrew Carnegie made&#8230;realizing full well that for him&#8230;achieving international peace was only done through enhancing international law and building international institutions that would support that goal, which was a lofty one.&#8221;
-      </span>
-      <span class="attribution">
-        &ndash; Jon Huntsman, Former U.S. Ambassador to China 
-      </span>
-    </div>-->
-    <div>
-      <span class="quote gates">
-        “The Carnegie Endowment…has for a century been dedicated to understanding and preventing war and its myriad causes.”
-      </span>
-      <span class="attribution">
-        – Robert Gates, U.S. Secretary of Defense 
-      </span>
-    </div>
-    
-    
-   
-    
-   
-   
-    <!--<div>
-      <span class="quote giordano">
-        &#8220;The world has changed.&#8230;Being on the ground&#8230;is a way of having much more influence&#8230;.&#8221;
-      </span>
-      <span class="attribution">
-        &ndash; Richard Giordano, Chairman of the Board, Retired, BG Group Plc
-      </span>
-    </div>-->
-  </div>
-  <a style="display: none;" class="navlink forward">next</a>
-  <div style="display: none;" class="slidetabs">
-    <a href="#"></a>
-    <!--<a href="#"></a>-->
-    <a href="#"></a>
-    <a href="#"></a>
-    <a href="#"></a>
-    <a href="#"></a>
-    <a href="#"></a>
-    <a href="#"></a>
-    <a href="#"></a>
-    <a href="#"></a>
-  </div>
-  <div style="display: none;">
-    <button onclick="$(&quot;.slidetabs&quot;).data(&quot;slideshow&quot;).play();">Play</button>
-    <button onclick="$(&quot;.slidetabs&quot;).data(&quot;slideshow&quot;).stop();">Stop</button>
-  </div>
-</div>
-<script language="JavaScript">
-$(function() {
-  $(".slidetabs").tabs(".containerQuotes > div", {
-	  effect: 'fade',
-	  fadeOutSpeed: "slow",
-	  rotate: true,
-	  clickable: true
-  }).slideshow({autoplay: true, interval: 11000});
-});
-</script> 
 <div id="zoneHeader">
   <div id="headWrapper">
     <div id="headerUtil"> <strong><a href="/about/" title="The Global Think Tank - Click here to learn more..."><span class="hide">The Global Think Tank - Click here to learn more...</span></a></strong>
@@ -282,6 +228,7 @@ $(function() {
         <li id="aboutUs" class="list"><a class="menu-trigger" href="/about/">About Us</a>
           <ul class="menu">
             <span class="box">
+            <li><a href="/about/index.cfm?fa=centennial" title="Centennial">Centennial</a></li>
             <li><a href="/about/index.cfm?fa=jrFellows" title="Junior Fellows Program">Junior Fellows Program</a></li>
             <li><a href="/about/index.cfm?fa=employment" title="Employment Opportunities">Employment Opportunities</a></li>
             <li><a href="/about/staff/" title="Staff">Staff</a></li>
@@ -315,9 +262,8 @@ $(function() { $("div#headerUtil a.menu-trigger-followus").tooltip( { relative: 
         <li id="stay" class="list last"><a class="menu-trigger" href="##">Spotlight</a>
           <ul class="menu">
             <span class="box">
-              <li><a href="http://sudan.carnegieendowment.org/" title="Egypt's Elections">The Future of Sudan</a></li>
-              <li><a href="http://egyptelections.carnegieendowment.org/" title="Egypt's Elections">Egypt's Elections</a></li>
-              <li><a href="http://kyrgyzstan.carnegieendowment.org/" title="Kyrgyzstan: Country in Transition">Kyrgyzstan: Country in Transition</a></li>
+              <li><a href="http://egyptelections.carnegieendowment.org/" title="Egypt's Transitions">Egypt's Transitions</a></li>
+              <li><a href="/publications/special/misc/transportation/" title="Leadership Initiative on Transportation Solvency">Leadership Initiative on Transportation Solvency</a></li>
               <li><a href="/arb/" title="Arab Reform Bulletin">Arab Reform Bulletin</a></li>
               <li><a href="/ieb/" title="International Economic Bulletin">International Economic Bulletin</a></li>
               <li><a href="http://mpettis.com" title="China Financial Markets">China Financial Markets</a></li>
@@ -374,7 +320,7 @@ $(function() { $("div#headerUtil a.menu-trigger-arabic").tooltip( { relative: tr
     </div><!-- end headerUtil -->
     <div id="zoneBranding" class="header">
       <h1><a href="/" title="Carnegie Endowment for International Peace"><img src="http://carnegieendowment.org/img/logo_ceip.gif" alt="Carnegie Endowment for International Peace"></a></h1>
-      <div id="zoneCampaign" class="centennial"><a href="/about/timeline100/index.html" target="_blank" title="Carnegie at 100 - A Century of Impact"><span class="hide">Carnegie at 100 - A Century of Impact</span></a></div>
+      <div id="zoneCampaign" class="centennial"><a href="/about/index.cfm?fa=centennial" title="Carnegie at 100 - A Century of Impact"><span class="hide">Carnegie at 100 - A Century of Impact</span></a></div>
       <ul class="centersNav">
         <li id="washington"><a href="/about/" title="Washington DC"><span class="hide">Washington DC</span></a></li>
         <li id="moscow"><a href="http://carnegie.ru/?lang=en" title="Moscow"><span class="hide">Moscow</span></a></li>
@@ -513,6 +459,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	<li id="about"><strong><span>About Carnegie</span></strong>		
 		<ul>
 			<li><a href="/about/">About Us</a></li>
+            <li><a href="/about/index.cfm?fa=centennial">Centennial</a></li>
 			<li><a href="/about/staff/">Staff</a></li>
 			<li><a href="/about/index.cfm?fa=trustees">Board of Trustees</a></li>
 			<li><a href="/about/index.cfm?fa=funding">Contributors &amp; Funders</a></li>
@@ -702,6 +649,146 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 			<h2><span>Carnegie Resources</span></h2>
 			<div class="containerCols">
 				<div class="column first">
+                    <div id="quoteBox">
+  <a style="display: none;" class="navlink backward">prev</a>
+  <div class="containerQuotes">
+    <strong><a href="/about/index.cfm?fa=quotes"><span class="hide">Quotes on Carnegie - Praise for the Global Think Tank</span></a></strong>
+    <div>
+      <span class="quote albright">
+        “The Carnegie Endowment has been a training ground for many of the all-stars in the State Department….”
+      </span>
+      <span class="attribution">
+        – Madeleine Albright, Former Secretary of State 
+      </span>
+    </div>
+    <div>
+      <span class="quote annan">
+        “I appreciate its work in the area of peace.”
+      </span>
+      <span class="attribution">
+        – Kofi Annan, Former Secretary-General of the United Nations 
+      </span>
+    </div>
+    <div>
+      <span class="quote schmidt">
+        “I cannot think of a better alignment of communication, information, and getting people together.”
+      </span>
+      <span class="attribution">
+        – Eric Schmidt, Executive Chairman of Google
+      </span>
+    </div>
+    <div>
+      <span class="quote burns">
+        “[T]his great vision of becoming a global think tank [is] badly needed in an interconnected world.”
+      </span>
+      <span class="attribution">
+        – Nicholas Burns, Undersecretary of State for Political Affairs 
+      </span>
+    </div>
+     <div>
+      <span class="quote economist">
+        “One of the most globally trusted talking-shops.”
+      </span>
+      <span class="attribution">
+        – <em>The Economist</em>
+      </span>
+    </div>
+    <div>
+      <span class="quote kerry">
+        “It is truly a global think tank…completely and appropriately reflective of the nature of the challenges that we face today.”
+      </span>
+      <span class="attribution">
+        – John Kerry, U.S. Senator
+      </span>
+    </div>
+     <div>
+      <span class="quote brennan">
+        “A force for global peace and security for 100 years.”
+      </span>
+      <span class="attribution">
+        – John Brennan, Homeland Security Advisor
+      </span>
+    </div>
+     <div>
+      <span class="quote alfaisal">
+        “An excellent institution that does important work to help establish stronger international laws and organizations.”
+      </span>
+      <span class="attribution">
+        – His Royal Highness Prince Turki Al-Faisal 
+      </span>
+    </div>
+    <!--<div>
+      <span class="quote huntsman">
+        &#8220;Going all the way back to that great gift of $10 million Andrew Carnegie made&#8230;realizing full well that for him&#8230;achieving international peace was only done through enhancing international law and building international institutions that would support that goal, which was a lofty one.&#8221;
+      </span>
+      <span class="attribution">
+        &ndash; Jon Huntsman, Former U.S. Ambassador to China 
+      </span>
+    </div>-->
+    <div>
+      <span class="quote gates">
+        “The Carnegie Endowment…has for a century been dedicated to understanding and preventing war and its myriad causes.”
+      </span>
+      <span class="attribution">
+        – Robert Gates, U.S. Secretary of Defense 
+      </span>
+    </div>
+    <!--<div>
+      <span class="quote giordano">
+        &#8220;The world has changed.&#8230;Being on the ground&#8230;is a way of having much more influence&#8230;.&#8221;
+      </span>
+      <span class="attribution">
+        &ndash; Richard Giordano, Chairman of the Board, Retired, BG Group Plc
+      </span>
+    </div>-->
+    <div>
+      <span class="quote turner">
+        “The Carnegie Endowment is known on both sides of the aisle with great deal of respect for your active international engagement….”
+      </span>
+      <span class="attribution">
+        – Michael Turner, U.S. Congressman 
+      </span>
+    </div>
+    <div>
+      <span class="quote panetta">
+        “[This event is]… a testament to the success that you’ve had in transforming Carnegie… into a truly global think tank.”
+      </span>
+      <span class="attribution">
+        – Leon Panetta, U.S. Secretary of Defense
+      </span>
+    </div>
+  </div>
+  <a style="display: none;" class="navlink forward">next</a>
+  <div style="display: none;" class="slidetabs">
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+    <a href="#"></a>
+  </div>
+  <div style="display: none;">
+    <button onclick="$(&quot;.slidetabs&quot;).data(&quot;slideshow&quot;).play();">Play</button>
+    <button onclick="$(&quot;.slidetabs&quot;).data(&quot;slideshow&quot;).stop();">Stop</button>
+  </div>
+</div>
+<script language="JavaScript">
+$(function() {
+  $(".slidetabs").tabs(".containerQuotes > div", {
+	  effect: 'fade',
+	  fadeOutSpeed: "slow",
+	  rotate: true,
+	  clickable: true
+  }).slideshow({autoplay: true, interval: 11000});
+});
+</script> 
+					
+					<!-- end moreResources -->
 					<div id="globalNetwork">
 						<h3>From Carnegie's Global Network</h3>
 						<ul class="tabNav">
@@ -729,7 +816,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 
 
-		<h4><a href="http://carnegie-mec.org//publications?fa=44370&amp;lang=en">Egypt: Foreign Debt Constrains Economic Choices</a></h4>
+		<h4><a href="http://carnegie-mec.org//publications?fa=45702&amp;lang=en">Europe and the Arab Spring: Crisis and Opportunity</a></h4>
 		<span class="metaD">
 			
 			
@@ -753,15 +840,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
 				
-					<a href="http://carnegie-mec.org//experts/?fa=450">Lahcen Achy</a>
+					<a href="http://carnegie-mec.org//experts/?fa=309">Paul Salem</a>
 				
+			
 			
 		
 	
@@ -771,7 +862,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 				</span>
 			
 			
-			<span class="date"><br>Sunday, June 5, 2011</span>
+			<span class="date"><br>Thursday, October 13, 2011</span>
 		</span>
 
 		<p>
@@ -824,12 +915,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 			
 				<span class="contentImg">
-					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/article_images/Lahcen_Achy311.JPG" alt="Lahcen Achy" height="60"></span>
+					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/article_images/83508738_150x150.jpg" alt="" height="60"></span>
 				</span>
 			
 
 			
-			The first six months of this year have not been easy for the Egyptian economy, and the situation is likely to worsen amid a drop in tourism revenues, low levels of domestic and foreign investments, and scarce employment opportunities in the formal private sector.
+			Europe has key political, security, and economic roles to play in helping to consolidate the positive aspirations of its southern neighbors in the Middle East and North Africa. 
 
 			
 		</p>
@@ -840,7 +931,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 		<ul class="listDisplay">
 		
 			<li>
-				<h5><a href="http://carnegie-mec.org//publications?fa=44361&amp;lang=en">Morocco: What a GCC Membership Would Mean for the Economy</a></h5>
+				<h5><a href="http://carnegie-mec.org//publications?fa=45705&amp;lang=en">Tunisia's Economic Reforms Offer a Blueprint for Stability</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -864,9 +955,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
+			
 			
 			
 				
@@ -874,6 +968,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					<a href="http://carnegie-mec.org//experts/?fa=450">Lahcen Achy</a>
 				
 			
+			
 		
 	
 
@@ -883,12 +978,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Friday, June 3, 2011</span>
+					<span class="date">/ Monday, October 10, 2011</span>
 				</span>
 			</li>
 			
 			<li>
-				<h5><a href="http://carnegie-mec.org//publications?fa=44245&amp;lang=en">New Reasons for the GCC to Consider an Expanded Bloc</a></h5>
+				<h5><a href="http://carnegie-mec.org//publications?fa=45605&amp;lang=en">Mid-East Peace Needs Fresh US Approach</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -912,15 +1007,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
 				
-					<a href="http://carnegie-mec.org//experts/?fa=401">Ibrahim Saif</a>
+					<a href="http://carnegie-mec.org//experts/?fa=412">Yezid Sayigh</a>
 				
+			
 			
 		
 	
@@ -931,12 +1030,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Sunday, May 29, 2011</span>
+					<span class="date">/ Thursday, September 22, 2011</span>
 				</span>
 			</li>
 			
 			<li>
-				<h5><a href="http://carnegie-mec.org//publications?fa=43972&amp;lang=en">The Crisis in Syria Shakes the Levant</a></h5>
+				<h5><a href="http://carnegie-mec.org//publications?fa=45541&amp;lang=en">Libya: Seven Keys to Post-Revolution Resurgence</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -960,15 +1059,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
 				
-					<a href="http://carnegie-mec.org//experts/?fa=309">Paul Salem</a>
+					<a href="http://carnegie-mec.org//experts/?fa=450">Lahcen Achy</a>
 				
+			
 			
 		
 	
@@ -979,7 +1082,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Friday, May 13, 2011</span>
+					<span class="date">/ Tuesday, September 13, 2011</span>
 				</span>
 			</li>
 			
@@ -1009,7 +1112,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 
 
-		<h4><a href="/events/?fa=eventDetail&amp;id=3282&amp;lang=en">China's Energy Sector after Fukushima Daiichi</a></h4>
+		<h4><a href="/events/?fa=eventDetail&amp;id=3377&amp;lang=en">Transition and Beyond: U.S.-Afghanistan-Pakistan</a></h4>
 		<span class="metaD">
 			
 			
@@ -1032,43 +1135,154 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
 				
-					<a href="/experts/?fa=588">Kevin Jianjun Tu</a>,
+					<a href="/experts/?fa=491">Lora Saalman</a>,
 				
+			
 			
 		
 			
 			
+			
 				
-					Deborah Seligsohn,
+					Vikram Singh,
 				
+			
 			
 		
 			
 			
+			
 				
-					Sun Xia,
+					Barnett Rubin,
 				
+			
 			
 		
 			
 			
+			
 				
-					Liu Qiang,
+					Cheng Ruisheng,
 				
+			
 			
 		
 			
 			
+			
 				
-					Yang Fuqiang
+					Ma Jiali,
 				
+			
+			
+		
+			
+			
+			
+				
+					Ren Jingjing,
+				
+			
+			
+		
+			
+			
+			
+				
+					Mao Jikang,
+				
+			
+			
+		
+			
+			
+			
+				
+					Yang Qianru,
+				
+			
+			
+		
+			
+			
+			
+				
+					Yang Danzhi,
+				
+			
+			
+		
+			
+			
+			
+				
+					Liu Xuecheng,
+				
+			
+			
+		
+			
+			
+			
+				
+					Li Li,
+				
+			
+			
+		
+			
+			
+			
+				
+					Chen Zonghai,
+				
+			
+			
+		
+			
+			
+			
+				
+					Song Haixiao,
+				
+			
+			
+		
+			
+			
+			
+				
+					Yang Xiaoping,
+				
+			
+			
+		
+			
+			
+			
+				
+					Chen Jing,
+				
+			
+			
+		
+			
+			
+			
+				
+					Lin Yunzhi
+				
+			
 			
 		
 	
@@ -1077,7 +1291,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 				</span>
 			
 			
-			<span class="date"><br>Thursday, May 19, 2011</span>
+			<span class="date"><br>Friday, August 12, 2011</span>
 		</span>
 
 		<p>
@@ -1130,12 +1344,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 			
 				<span class="contentImg">
-					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/event_images/FukushimaEvent200x1502.JPG" alt="" height="60"></span>
+					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/event_images/singh-event.jpg" alt="Photo of Event" height="60"></span>
 				</span>
 			
 
 			
-			The recent Fukushima Daiichi crisis has prompted the State Council of China to temporarily halt approval of new nuclear plants pending a comprehensive safety review. The outcome will have major implications for China’s nuclear industry and for its entire energy future.
+			In June, President Obama described a planned “transition period” for Afghanistan in 2014, involving an Afghan-led effort aimed at maintaining domestic stability with international support. 
 
 			
 		</p>
@@ -1146,7 +1360,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 		<ul class="listDisplay">
 		
 			<li>
-				<h5><a href="/events/?fa=eventDetail&amp;id=3236&amp;lang=en">India’s Space Program: Looking Ahead</a></h5>
+				<h5><a href="/events/?fa=eventDetail&amp;id=3331&amp;lang=en">Understanding Sino-Indian Nuclear Dynamics</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1168,22 +1382,39 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
-					Bharath Gopalaswamy,
 				
+					<a href="/experts/?fa=491">Lora Saalman</a>,
+				
+			
 			
 		
 			
 			
+			
 				
 				
-					<a href="/experts/?fa=491">Lora Saalman</a>
+					<a href="/experts/?fa=578">Toby  Dalton</a>,
 				
+			
+			
+		
+			
+			
+			
+				
+				
+					<a href="/experts/?fa=198">Ashley J. Tellis</a>
+				
+			
 			
 		
 	
@@ -1193,12 +1424,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Wednesday, March 23, 2011</span>
+					<span class="date">/ Thursday, July 28, 2011</span>
 				</span>
 			</li>
 			
 			<li>
-				<h5><a href="/events/?fa=eventDetail&amp;id=3237&amp;lang=en">Shaping India’s Foreign Policy: Domestic Drivers in Policy and Practice</a></h5>
+				<h5><a href="/events/?fa=eventDetail&amp;id=3378&amp;lang=en">The Nuclear Chain: U.S.-China, China-India, India-Pakistan, and Strategic Stability</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1220,29 +1451,64 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
-					Samir Saran,
 				
+					<a href="/experts/?fa=491">Lora Saalman</a>,
+				
+			
 			
 		
 			
 			
+			
 				
-					 Viswanathan,
+					Li Deshun,
 				
+			
 			
 		
 			
 			
+			
 				
+					Zhang Xinying,
 				
-					<a href="/experts/?fa=491">Lora Saalman</a>
+			
+			
+		
+			
+			
+			
 				
+					Lin Yunzhi,
+				
+			
+			
+		
+			
+			
+			
+				
+					Li Hui,
+				
+			
+			
+		
+			
+			
+			
+				
+					Ma Jie
+				
+			
 			
 		
 	
@@ -1252,12 +1518,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Wednesday, March 23, 2011</span>
+					<span class="date">/ Sunday, July 10, 2011</span>
 				</span>
 			</li>
 			
 			<li>
-				<h5><a href="/events/?fa=eventDetail&amp;id=3274&amp;lang=en">Factoring the U.S. and Central Asia into Sino-Indian Relations</a></h5>
+				<h5><a href="/events/?fa=eventDetail&amp;id=3352&amp;lang=en">Bridging the Gap: Chinese and Indian Media</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1279,22 +1545,127 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
-					Robert Blake,
 				
+					<a href="/experts/?fa=491">Lora Saalman</a>,
+				
+			
 			
 		
 			
 			
+			
 				
+					Tang Lu,
 				
-					<a href="/experts/?fa=491">Lora Saalman</a>
+			
+			
+		
+			
+			
+			
 				
+					B.R. Deepak,
+				
+			
+			
+		
+			
+			
+			
+				
+					K.J.M. Varma,
+				
+			
+			
+		
+			
+			
+			
+				
+					Wu Mengqi,
+				
+			
+			
+		
+			
+			
+			
+				
+					Yang Shaoping,
+				
+			
+			
+		
+			
+			
+			
+				
+					Ananth Krishnan,
+				
+			
+			
+		
+			
+			
+			
+				
+					Li Ying,
+				
+			
+			
+		
+			
+			
+			
+				
+					Long Xingchun,
+				
+			
+			
+		
+			
+			
+			
+				
+					Filip Noubel,
+				
+			
+			
+		
+			
+			
+			
+				
+					Li Xiabing,
+				
+			
+			
+		
+			
+			
+			
+				
+					Binod Singh,
+				
+			
+			
+		
+			
+			
+			
+				
+					Qiao Mu
+				
+			
 			
 		
 	
@@ -1304,7 +1675,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Thursday, March 17, 2011</span>
+					<span class="date">/ Friday, July 1, 2011</span>
 				</span>
 			</li>
 			
@@ -1338,7 +1709,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 
 
-		<h4><a href="http://carnegieeurope.eu//publications?fa=44205&amp;lang=en">How Turkey Wants to Reshape NATO</a></h4>
+		<h4><a href="http://carnegieeurope.eu//publications?fa=45696&amp;lang=en">The Dirty Secret of U.S.-European Relations</a></h4>
 		<span class="metaD">
 			
 			
@@ -1362,15 +1733,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
 				
-					<a href="http://carnegieeurope.eu//experts/?fa=547">Sinan Ülgen</a>
+					<a href="http://carnegieeurope.eu//experts/?fa=582">Jan  Techau</a>
 				
+			
 			
 		
 	
@@ -1380,7 +1755,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 				</span>
 			
 			
-			<span class="date"><br>Friday, May 27, 2011</span>
+			<span class="date"><br>Thursday, October 6, 2011</span>
 		</span>
 
 		<p>
@@ -1433,12 +1808,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 			
 				<span class="contentImg">
-					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/article_images/ulgen_color_medium1.jpg" alt="" height="60"></span>
+					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/article_images/techau_color_medium4.jpg" alt="Transatlantic relations" height="60"></span>
 				</span>
 			
 
 			
-			Ankara’s aim is to assert its position in NATO and shape the transatlantic alliance so that it becomes an organisation that more closely mirrors its own objectives.
+			As the global center of gravity shifts toward the Pacific, the nature of relations between the United States and Europe is likely to shift.
 
 			
 		</p>
@@ -1449,7 +1824,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 		<ul class="listDisplay">
 		
 			<li>
-				<h5><a href="http://carnegieeurope.eu//publications?fa=44182&amp;lang=en">Doing Geopolitics in Eastern Europe</a></h5>
+				<h5><a href="http://carnegieeurope.eu//publications?fa=45639&amp;lang=en">What Not to Expect from the Eastern Partnership Summit</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1473,15 +1848,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
 				
-					<a href="http://carnegieeurope.eu//experts/?fa=582">Jan  Techau</a>
+					<a href="http://carnegieeurope.eu//experts/?fa=576">Olga Shumylo-Tapiola</a>
 				
+			
 			
 		
 	
@@ -1492,12 +1871,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Wednesday, May 25, 2011</span>
+					<span class="date">/ Thursday, September 29, 2011</span>
 				</span>
 			</li>
 			
 			<li>
-				<h5><a href="http://carnegieeurope.eu//publications?fa=43886&amp;lang=en">Gone is Bin Laden, the Enemy of the Republic</a></h5>
+				<h5><a href="http://carnegieeurope.eu//publications?fa=45644&amp;lang=en">Shows of Strength in the Mediterranean</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1521,9 +1900,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
+			
 			
 			
 				
@@ -1531,6 +1913,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					<a href="http://carnegieeurope.eu//experts/?fa=547">Sinan Ülgen</a>
 				
 			
+			
 		
 	
 
@@ -1540,12 +1923,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Monday, May 9, 2011</span>
+					<span class="date">/ Thursday, September 29, 2011</span>
 				</span>
 			</li>
 			
 			<li>
-				<h5><a href="http://carnegieeurope.eu//publications?fa=43663&amp;lang=en">The High Price of Strategic Rivalry</a></h5>
+				<h5><a href="http://carnegieeurope.eu//publications?fa=45608&amp;lang=en">Can Lisbon’s Potential be Realized?</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1569,27 +1952,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
-				
-					
-						
-							<a href="http://www.soros.org/initiatives/brussels/about/bios/grabbe" target="_blank">
-						
-						Heather Grabbe</a>,
-					
-				
-			
-		
-			
 			
 				
 				
-					<a href="http://carnegieeurope.eu//experts/?fa=547">Sinan Ülgen</a>
+					<a href="http://carnegieeurope.eu//experts/?fa=634">Stefan Lehne</a>
 				
+			
 			
 		
 	
@@ -1600,7 +1975,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Wednesday, April 20, 2011</span>
+					<span class="date">/ Tuesday, September 27, 2011</span>
 				</span>
 			</li>
 			
@@ -1630,7 +2005,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 
 
-		<h4><a href="http://carnegie.ru//publications?fa=44333&amp;lang=en">Ambassador 'Mike' McFaul Could Help Reset</a></h4>
+		<h4><a href="http://carnegie.ru//publications?fa=45730&amp;lang=en">Putin Is Calling Us to Never-Never Land</a></h4>
 		<span class="metaD">
 			
 			
@@ -1654,15 +2029,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
+			
 				
 				
-					<a href="http://carnegie.ru//experts/?fa=287">Dmitri Trenin</a>
+					<a href="http://carnegie.ru//experts/?fa=370">Nikolay Petrov</a>
 				
+			
 			
 		
 	
@@ -1672,7 +2051,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 				</span>
 			
 			
-			<span class="date"><br>Thursday, June 2, 2011</span>
+			<span class="date"><br>Wednesday, October 12, 2011</span>
 		</span>
 
 		<p>
@@ -1725,12 +2104,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 
 			
 				<span class="contentImg">
-					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/article_images/Trenin3.jpg" alt="Dmitri Trenin" height="60"></span>
+					<span class="contentImg"><img border="0" src="http://www.carnegieendowment.org/images/article_images/Petrov_color_medium207.jpg" alt="Nikolay Petrov" height="60"></span>
 				</span>
 			
 
 			
-			If Michael McFaul is confirmed as the next U.S. ambassador to Russia, one of his chief tasks will be changing the nature of the strategic relations between the United States and Russia from an adversarial one and toward a cooperative one where neither party regards the other as a potential adversary.
+			Russian authorities are preparing for a possible new economic crisis and social unrest by expanding the powers of the state security instead of enacting political reforms.
 
 			
 		</p>
@@ -1741,7 +2120,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 		<ul class="listDisplay">
 		
 			<li>
-				<h5><a href="http://carnegie.ru//publications?fa=44264&amp;lang=en">A New Wave of Protest in Egypt</a></h5>
+				<h5><a href="http://carnegie.ru//publications?fa=45729&amp;lang=en">The Tymoshenko Verdict: A New Turning Point</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1765,22 +2144,19 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
 			
-				
-					Yana Alekseyenko,
-				
-			
-		
-			
 			
 				
 				
-					<a href="http://carnegie.ru//experts/?fa=495">Peter Topychkanov</a>
+					<a href="http://carnegie.ru//experts/?fa=372">Andrei Ryabov</a>
 				
+			
 			
 		
 	
@@ -1791,12 +2167,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Thursday, May 26, 2011</span>
+					<span class="date">/ Tuesday, October 11, 2011</span>
 				</span>
 			</li>
 			
 			<li>
-				<h5><a href="http://carnegie.ru//publications?fa=44175&amp;lang=en">No Place Left for Medvedev</a></h5>
+				<h5><a href="http://carnegie.ru//publications?fa=45675&amp;lang=en">The Temporary Return of Putin Co.</a></h5>
 				<span class="metaD">
 					
 						<span class="author">
@@ -1820,57 +2196,12 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 	
 	
 	
+	
+
 
 	
 		
 			
-			
-				
-				
-					<a href="http://carnegie.ru//experts/?fa=370">Nikolay Petrov</a>
-				
-			
-		
-	
-
-								
-							
-						</span>
-					
-
-					
-					<span class="date">/ Tuesday, May 24, 2011</span>
-				</span>
-			</li>
-			
-			<li>
-				<h5><a href="http://carnegie.ru//publications?fa=44144&amp;lang=en">Putin’s Best Trick Yet</a></h5>
-				<span class="metaD">
-					
-						<span class="author">
-							
-
-								
-		
-		
-		
-								
-										
-
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-
-	
-		
 			
 			
 				
@@ -1878,6 +2209,7 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					<a href="http://carnegie.ru//experts/?fa=5">Lilia Shevtsova</a>
 				
 			
+			
 		
 	
 
@@ -1887,7 +2219,59 @@ $('a.triggerSegments').click(function() { $(this).next().show(); });
 					
 
 					
-					<span class="date">/ Saturday, May 21, 2011</span>
+					<span class="date">/ Monday, October 3, 2011</span>
+				</span>
+			</li>
+			
+			<li>
+				<h5><a href="http://carnegie.ru//publications?fa=45633&amp;lang=en">Medvedev Will Be Fall Guy as Prime Minister</a></h5>
+				<span class="metaD">
+					
+						<span class="author">
+							
+
+								
+		
+		
+		
+								
+										
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+
+	
+		
+			
+			
+			
+				
+				
+					<a href="http://carnegie.ru//experts/?fa=370">Nikolay Petrov</a>
+				
+			
+			
+		
+	
+
+								
+							
+						</span>
+					
+
+					
+					<span class="date">/ Tuesday, September 27, 2011</span>
 				</span>
 			</li>
 			
@@ -1906,21 +2290,6 @@ $(function() { $("ul.tabNav").tabs("div.containerTabs > div"); });
 </script>
 					</div>
 					<!-- end globalNetwork -->
-					<div id="moreResources">
-						<h3>More Resources</h3>
-						<ul>
-							<li><a href="/media/" title="For Media">For Media</a></li>
-							<li><a href="/resources/gov/" title="For Government">For Government</a></li>
-							<li><a href="/publications/index.cfm?fa=academics" title="For Academics">For Academics</a></li>
-             	 			<li><a href="/about/" title="About Us">About Us</a></li>
-							<li><a href="/about/index.cfm?fa=jrFellows" title="Junior Fellows Program">Junior Fellows Program</a></li>
-							<li><a href="/about/index.cfm?fa=employment" title="Employment Opportunities">Employment Opportunities</a></li>
-							<li><a href="/about/index.cfm?fa=conference" title="Conference Center">Conference Center</a></li>
-							<li><a href="/about/library/" title="Library">Library</a></li>
-							<li><a href="/experts/" title="Global Expert Guide">Global Expert Guide</a></li>
-						</ul>
-					</div>
-					<!-- end moreResources -->
 				</div>
 				<div class="column last">
 					<div id="connect">
@@ -1936,214 +2305,103 @@ $(function() { $("ul.tabNav").tabs("div.containerTabs > div"); });
 					</div>
 					<!-- end connect -->
 					<div id="stayInTheKnow">
-						<h3>Stay in the Know</h3>
-            			<p>Sign up for Carnegie announcements and publications – including <em>Carnegie This Week</em> – by filling out the form below.
-						Note - fields marked with an asterisk (<span class="required">*</span>) are required.</p>
-						<form action="https://spreadsheets.google.com/a/ceip.org/spreadsheet/formResponse?hl=en&amp;formkey=dGhwcG9lUFBCZXJrNWZoX2gxREw2SVE6MQ&amp;ifq" method="POST" id="ss-form">
-                        
-							<fieldset>
-								<legend class="hide">Personal Information</legend>
-              						<label class="txtFld" for="entry_2"> <span>First Name <em class="required">*</em></span>
-									<input type="text" name="entry.2.single" value="" class="txtFld" id="entry_2">
-								</label>
-              						<label class="txtFld" for="entry_3"> <span>Last Name <em class="required">*</em></span>
-									<input type="text" name="entry.3.single" value="" class="txtFld" id="entry_3">
-								</label>
-              						<label class="txtFld" for="entry_6"> <span>Affiliation <em class="required">*</em></span>
-									<input type="text" name="entry.6.single" value="" class="txtFld" id="entry_6">
-								</label>
-              						<label class="txtFld" for="entry_7"> <span>E-mail Address <em class="required">*</em></span>
-									<input type="text" name="entry.7.single" value="" class="txtFld" id="entry_7">
-								</label>
-							</fieldset>
-							<div id="segments">
-								<a class="triggerSegments" href="#">Select topics &amp; preferences</a>
+                      <h3>Stay in the Know</h3>
+                      <p>
+                        Sign up for Carnegie announcements and publications – including <em>Carnegie This Week</em> – by filling out the form below.
+                        Note - fields marked with an asterisk (<span class="required">*</span>) are required.
+                      </p>
+                      <form action="http://carnegieendowment.org/resources/index.cfm?fa=register" method="POST" id="ss-form" onsubmit="_gaq.push(['_trackEvent', 'Stay in the Know', 'Submission', '
 
-								<ul class="segments containerCols">
-									<span class="box">
-										<div class="column thirds first">
-											<fieldset class="first">
-												<legend>Language Preference</legend>
-						                        <label class="group" for="entry_19"><strong>Select preferred languages</strong> (check all that apply)</label>
-												<ul class="multicol">
-													<li>
-														<label class="checkbox" for="group_19_3">
-															<input type="checkbox" name="entry.19.group" value="Arabic" class="checkbox" id="group_30_1">
-								                            <span>Arabic</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_19_5">
-															<input type="checkbox" name="entry.19.group" value="Chinese" class="checkbox" id="group_30_2">
-                        								    <span>Chinese</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_19_1">
-															<input type="checkbox" name="entry.19.group" value="English" class="checkbox" id="group_30_3">
-								                            <span>English</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_19_2">
-															<input type="checkbox" name="entry.19.group" value="French" class="checkbox" id="group_30_4">
-								                            <span>French</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_19_4">
-															<input type="checkbox" name="entry.19.group" value="Russian" class="checkbox" id="group_30_5">
-								                            <span>Russian</span></label>
-													</li>
-												</ul>
-
-											</fieldset>
-										</div>
-										<div class="column thirds">
-											<fieldset>
-												<legend>Regional Interests</legend>
-                        <label class="group" for="entry_17"><strong>Select regions that interest you</strong> (check all that apply)</label>
-												<ul class="multicol">
-													<li>
-														<label class="checkbox" for="group_17_1">
-															<input type="checkbox" name="entry.17.group" value="Afghanistan" class="checkbox" id="group_30_6">
-                            <span>Afghanistan</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_2">
-															<input type="checkbox" name="entry.17.group" value="Asia" class="checkbox" id="group_30_7">
-                            <span>Asia</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_3">
-															<input type="checkbox" name="entry.17.group" value="Central Asia" class="checkbox" id="group_30_8">
-                            <span>Central Asia</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_4">
-															<input type="checkbox" name="entry.17.group" value="South Asia" class="checkbox" id="group_30_9">
-                            <span>South Asia</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_5">
-															<input type="checkbox" name="entry.17.group" value="China" class="checkbox" id="group_30_10">
-                            <span>China</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_6">
-															<input type="checkbox" name="entry.17.group" value="Europe" class="checkbox" id="group_30_11">
-                            <span>Europe</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_7">
-															<input type="checkbox" name="entry.17.group" value="Iran" class="checkbox" id="group_30_12">
-                            <span>Iran</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_8">
-															<input type="checkbox" name="entry.17.group" value="Iraq" class="checkbox" id="group_30_13">
-                            <span>Iraq</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_9">
-															<input type="checkbox" name="entry.17.group" value="Latin America" class="checkbox" id="group_30_14">
-                            <span>Latin America</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_10">
-															<input type="checkbox" name="entry.17.group" value="Middle East &amp; North Africa" class="checkbox" id="group_30_15">
-                            <span>Middle East &amp; North Africa</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_11">
-															<input type="checkbox" name="entry.17.group" value="Russia &amp; Eurasia" class="checkbox" id="group_30_16">
-                            <span>Russia &amp; Eurasia</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_12">
-															<input type="checkbox" name="entry.17.group" value="Sub-Saharan Africa" class="checkbox" id="group_30_17">
-                            <span>Sub-Saharan Africa</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_17_13">
-															<input type="checkbox" name="entry.17.group" value="United States" class="checkbox" id="group_30_18">
-                            <span>United States</span></label>
-													</li>
-												</ul>
-											</fieldset>
-										</div>
-										<div class="column thirds last">
-											<fieldset>
-												<legend>Policy Interests</legend>
-                       							 <label class="group" for="entry_18"><strong>Select policy topics that interest you</strong> (check all that apply)</label>
-												<ul class="multicol">
-													<li>
-														<label class="checkbox" for="group_18_1">
-															<input type="checkbox" name="entry.18.group" value="Democracy, Rule of Law, Civil Society &amp; Political Reform" class="checkbox" id="group_30_19">
-								                            <span>Democracy, Rule of Law, &amp; Political Reform</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_2">
-															<input type="checkbox" name="entry.18.group" value="Economics" class="checkbox" id="group_30_20">
-									                        <span>Economics</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_3">
-															<input type="checkbox" name="entry.18.group" value="Elections" class="checkbox" id="group_30_21">
-								                            <span>Elections</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_4">
-															<input type="checkbox" name="entry.18.group" value="Energy" class="checkbox" id="group_30_22">
-                           									<span>Energy</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_5">
-															<input type="checkbox" name="entry.18.group" value="Environment &amp; Climate" class="checkbox" id="group_30_23">
-                            								<span>Environment &amp; Climate</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_6">
-															<input type="checkbox" name="entry.18.group" value="Human Rights" class="checkbox" id="group_30_24">
-                            								<span>Human Rights</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_7">
-															<input type="checkbox" name="entry.18.group" value="International Security" class="checkbox" id="group_30_25">
-                            								<span>International Security</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_8">
-															<input type="checkbox" name="entry.18.group" value="Nonproliferation" class="checkbox" id="group_30_26">
-                           	 								<span>Nonproliferation</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_9">
-															<input type="checkbox" name="entry.18.group" value="Trade &amp; Development" class="checkbox" id="group_30_27">
-                            								<span>Trade &amp; Development</span></label>
-													</li>
-													<li>
-														<label class="checkbox" for="group_18_10">
-															<input type="checkbox" name="entry.18.group" value="US Foreign Policy" class="checkbox" id="group_30_28">
-                            								<span>US Foreign Policy</span></label>
-													</li>
-												</ul>
-											</fieldset>
-										</div>
-									</span>
-								</ul>
-
-							</div>
-							
-							<div class="actionBtns">
-								<input type="hidden" name="pageNumber" value="0">
-								<input type="hidden" name="backupCache" value="">
-								<button class="btnSubmit" name="submit" type="submit" value="Submit">Sign Up</button>
-							</div>
-						</form>
-					</div>
-					<!-- end stayInTheKnow -->
+			
+			
+			/about/index.cfm']);">
+                        <fieldset>
+                          <legend class="hide">Personal Information</legend>
+                              <label class="txtFld required" for="FirstName"> <span>First Name <em class="required">*</em></span>
+                              <input type="text" name="FirstName" class="txtFld" id="FirstName" maxlength="50">
+                          </label>
+                              <label class="txtFld required" for="LastName"> <span>Last Name <em class="required">*</em></span>
+                              <input type="text" name="LastName" class="txtFld" id="LastName" maxlength="50">
+                          </label>
+                              <label class="txtFld" for="companyname"> <span>Company </span>
+                              <input type="text" name="companyname" class="txtFld" id="companyname" maxlength="75">
+                          </label>
+                              <label class="txtFld required" for="Email2"> <span>E-mail Address <em class="required">*</em></span>
+                              <input type="text" name="Email2" class="txtFld" id="Email2" maxlength="100">
+                          </label>
+                        </fieldset>
+                        <div class="actionBtns">
+                          <button class="btnSubmit" name="submit" type="submit" value="Submit">Continue</button>
+                        </div>
+                      </form>
+                      <div class="clearFix">&nbsp;</div>
 <script type="text/javascript">
-$(function() { $("div#stayInTheKnow a.triggerSegments").tooltip( { relative: true, position: "bottom right", offset: [-1, -605] } ); });
+$("#ss-form").validate({
+rules: {
+	Email2: {
+		required: true,
+		email: true,
+		minlength: 9
+		},
+	FirstName: {
+		required:true,
+		minlength: 2
+	},
+	LastName: {
+		required: true,
+		minlength: 2
+	}
+		},
+		messages: {
+			Email2: {
+			required: "Please enter your email address",
+			email: "Please enter a valid email address",
+			minlength: "Your email address must be at least 9 characters long"
+			},
+			
+			FirstName: {
+			required: "Please enter your first name",
+			minlength: "Your first name must be at least 2 characters long"
+			},
+			
+			LastName: {
+			required: "Please enter your last name",
+			minlength: "Your last name must be at least 2 characters long"
+			}
+		}
+});
+</script>
+                        <div id="segments">
+                          <div class="exitLink">
+                            <a class="triggerSegments">Already subscribed? Manage Profile</a>
+                            <ul class="segments containerCols">
+                              <span class="box">
+                                <p>Enter your email address in the form below to receive an email with a link to your profile.</p>
+                                <form action="https://www.msgapp.com/RESTForm.aspx" method="GET" id="register">
+                                  <input type="hidden" name="Customer" value="ch000095819eArad">
+                                  <input type="hidden" name="cke" value="1">
+                                  <input type="hidden" name="ownerid" value="1">
+                                  <input type="hidden" name="rurl" value="http://carnegieendowment.org/resources/index.cfm?fa=reply">
+                                  <label class="txtFld required" for="Email">
+                                    <span>E-mail Address <em class="required">*</em></span>
+                                    <input type="text" name="Email" class="txtFld" id="Email">
+                                  </label>
+                                  <div class="actionBtns">
+                                    <button class="btnSubmit" name="submit" type="submit" value="Submit">Submit</button>
+                                  </div>
+                                </form>
+                              </span>
+                            </ul>
+                        </div>
+						
+					</div>
+<script type="text/javascript">
+$(function() { $("div#stayInTheKnow a.triggerSegments").tooltip( { relative: true, position: "bottom right", offset: [-1, -286] } ); });
 </script>
 
 				</div>
+					<!-- end stayInTheKnow -->
+
 				<!-- end column -->
 			</div>
 			<!-- end containerCols -->
@@ -2192,7 +2450,21 @@ $(function() { $("div#stayInTheKnow a.triggerSegments").tooltip( { relative: tru
 <script type="text/javascript" src="/js/tracker.js"></script>
 
 
-<script type="text/javascript">matrixgroup.highlightSolrSearch.init(); matrixgroup.highlightSolrSearch.highlight();</script>
+<script type="text/javascript" language="JavaScript" src="https://www.msgapp.com/js/frs-app.js"></script> 
+<script type="text/javascript">frt(95819);</script>
+
+  <span id="slidebox">
+    <a class="close"></a>
+    <h1><a target="_blank" href="http://connect.carnegieendowment.org/af2?LinkID=CH00095819eR00000011AD"><span class="hide">How do you engage with The Global Think Tank?</span></a></h1>
+    <div class="related">
+      <p class="desc">
+        Please take a few minutes to complete our short survey and help us understand how you'd prefer to stay up-to-date on the policy developments that matter most to you.
+        <a target="_blank" href="http://connect.carnegieendowment.org/af2?LinkID=CH00095819eR00000011AD" class="more">Begin »</a> 
+      </p>
+    </div>
+  </span>
+
+
 
 	
-</body></html>
+</div></body></html>
