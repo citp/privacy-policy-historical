@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109230431id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beezid.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017050348id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.*
 
-# Beezid:Privacy
+# Privacy
 
 » **Scope**
 
-Beezid.com (hereinafter referred to as “Beezid”) is a service provided by 6990096 Canada Inc. (hereinafter referred to as “Beezid” or “We”). We recognize and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you are visiting the Beezid website, how We handle your personal information for our services and all further permissible uses of such information.  
+Beezid.com (hereinafter referred to as “Beezid”) is a service provided by Beezid Inc. (hereinafter referred to as “Beezid” or “We”). We recognize and respect your personal privacy. This Privacy Policy describes all aspects relating to gathering information while you are visiting the Beezid website, how We handle your personal information for our services and all further permissible uses of such information.  
 By accepting the Privacy Policy and the Terms and Conditions in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective 10 days after being posted on the website.
 
 » **Data Collection**
