@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesfather.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608121536id_/http%3A//www.gamesfather.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesfather.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017073441id_/http%3A//www.gamesfather.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.gamesfather.com
 
