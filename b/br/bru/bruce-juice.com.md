@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruce-juice.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531181428id_/http%3A//www.bruce-juice.com/%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruce-juice.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018012201id_/http%3A//www.bruce-juice.com/%3Fprivacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
