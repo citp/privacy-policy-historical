@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613182440id_/http%3A//www.philamuseum.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philamuseum.org privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017201511id_/http%3A//www.philamuseum.org/privacy.html) for the most accurate reproduction.*
 
 # Philadelphia Museum of Art - Web Policy : Privacy & Security
 
