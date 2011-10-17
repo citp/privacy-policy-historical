@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2010-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100326141323id_/http%3A//www.modcloth.com/storefront/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modcloth.com privacy policy that was archived on 2011-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111017143353id_/http%3A//www.modcloth.com/storefront/main/privacy) for the most accurate reproduction.*
 
-# Mod Retro Indie Clothing & Vintage Clothes
+# Help & Support | Mod Retro Vintage Clothing & Indie Clothes | ModCloth.com
 
 Thank you for shopping with ModCloth.com. We are committed to protecting your privacy and have established this privacy statement to keep you informed of our information practices involving the collection and use of your personal information.
 
@@ -12,19 +12,19 @@ We send newsletters to users who select to receive them. Should you at any point
 
 To access, update, or change your personal information, [log into your ModCloth.com account](https://www.modcloth.com/login) and modify your preferences at your discretion.
 
-When you select to email a friend your wish list or tell a friend about ModCloth.com, we request their email address from you to send them a one-time email. We do not use this third party email information for any other purposes unless that third party becomes a registered user on ModCloth.com. 
+When you select to email a friend your wishlist or tell a friend about ModCloth.com, we request their email address from you to send them a one-time email. We do not use this third party email information for any other purposes unless that third party becomes a registered user on ModCloth.com. 
 
 ### Information Sharing
 
 ModCloth.com does not share the personal information of its users with any third parties for their promotional purposes.
 
-We reserve the right to to disclose personal information to our service providers, the government, law enforcement agencies, or other third parties under certain circumstances where a formal request has been made (such as in responding to a court order, subpoena, or judicial proceeding) as ModCloth.com, in our sole and absolute discretion, deems necessary and appropriate. Moreover, in the event of a sale, merger or transfer of some or all of ModCloth.comís assets, your personal information would likely be a part of the transferred assets. We shall notify you by a notice on the home page of any change in the information practices governing your personal information as a result of the change in ownership, and your choices in how your information is used.
+We reserve the right to to disclose personal information to our service providers, the government, law enforcement agencies, or other third parties under certain circumstances where a formal request has been made (such as in responding to a court order, subpoena, or judicial proceeding) as ModCloth.com, in our sole and absolute discretion, deems necessary and appropriate. Moreover, in the event of a sale, merger or transfer of some or all of ModCloth.com's assets, your personal information would likely be a part of the transferred assets. We shall notify you by a notice on the home page of any change in the information practices governing your personal information as a result of the change in ownership, and your choices in how your information is used.
 
-This Site contains links to other web sites. ModCloth.com takes no responsibility for the privacy practices or the content of these other web sites. We encourage you to read the privacy policies of each web site you visit prior to disclosing your personal information.
+This Site contains links to other websites. ModCloth.com takes no responsibility for the privacy practices or the content of these other websites. We encourage you to read the privacy policies of each website you visit prior to disclosing your personal information.
 
 We use a third party payment processor and a third party shipping agent to ensure the payment, and delivery of your purchased products. These third parties have no authority to use your personal information for any promotional purposes.
 
-We partner with [FetchBack](http://www.fetchback.com/) to serve ads and/or collect certain information when you visit our website. Fetchback may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occured during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
+We partner with [FetchBack](http://www.fetchback.com/) to serve ads and/or collect certain information when you visit our website. FetchBack may use cookies or web beacons to collect non-personally identifiable information such as IP Address, pages viewed, and if a conversion occurred during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this "behavioral advertising" practice or to opt-out of this use of your anonymous information, you can visit [www.networkadvertising.org](http://www.networkadvertising.org/). 
 
 ### Blog Disclosure
 
@@ -32,13 +32,13 @@ If you use a blog or chat room on ModCloth.com you should be aware that any pers
 
 ### Security
 
-We employ industry-accepted standards in protecting your personal information during its transmission on ModCloth.com We utilize SSL [Secure Socket Layer] technology to protect your sensitive information on ModCloth.com during its transmission. We host ModCloth.com in a secure server to help protect the information from interference. While we take every possible precaution to protect your information, please be aware that no form of security is 100% secure, and we make no guarantees.
+ModCloth.com utilizes some of the most advanced technology available today for Internet security purposes. When you access our site using industry standard Secure Socket Layer (SSL) technology, your information is protected with both server authentication and data encryption, ensuring that your data is safe, secure, and available only to ModCloth.
 
-ModCloth.com is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build usersí trust in the internet, by promoting the use of fair information practices. ModCloth.com has elected to disclose its information practices, and have its privacy practices reviewed for compliance by TRUSTe as a show of its commitment to our usersí privacy.
+Our site is verified by VeriSign and uses TrustCommerce for all of our secure credit card transactions. We are a BBB accredited business.
 
-Please direct your questions and concerns pertaining to ModCloth.com or this privacy statement by contacting us. In the event that your inquiry is not addressed within a reasonable time frame or has not been addressed to your satisfaction, please [contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe shall then work as a liaison with us to resolve your concerns.
+In addition, ModCloth.com is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or outside access to keep us all safe!
 
-#### Contact Information
+##### Contact Information
 
 By Mail: 3011 Smallman St., Pittsburgh PA, 15201  
 Phone: 888-495-9699.  
