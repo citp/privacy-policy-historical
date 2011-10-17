@@ -1,60 +1,38 @@
-<!--The following is the downloaded HTML source of the tylerpaper.com privacy policy that was archived on 2009-10-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091022134805id_/http%3A//www.tylerpaper.com/section/PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tylerpaper.com privacy policy that was archived on 2011-10-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111017114743id_/http%3A//www.tylerpaper.com/section/PRIVACY) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<title>Tyler Paper - Tyler Morning Telegraph</title>
-<meta http-equiv="content-type" content="text/html;charset=utf-8">
-<link rel="stylesheet" type="text/css" href="/includes/tyler_saxo10.css">
-<link rel="stylesheet" type="text/css" href="/includes/phpforumstyle.css">
-<link rel="Stylesheet" rev="Stylesheet" href="/includes/portable.css" type="text/css" media="Screen">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+  <title>TylerPaper.com | Tyler Morning Telegraph</title>
+
 <link rel="shortcut icon" href="http://www.tylerpaper.com/favicon.ico">
 
-<script language="JavaScript1.2" type="text/javascript" src="/includes/functions.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.6.0.2/prototype.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/scriptaculous/1.8.1/scriptaculous.js?load=builder,effects"></script>
-<script type="text/javascript" src="http://www.tylerpaper.com/scripts/IndyScripts.js"></script>
-<script type="text/javascript" src="/js/swfobject.js"></script>
+<link rel="stylesheet" type="text/css" media="screen" href="/includes/superfish.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/includes/superfish-navbar.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/includes/tyler_frontpage.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/includes/tabs.css">
 
-<script language="JavaScript" type="text/javascript">
-function getQueryString(variable) {
-var query = window.location.search.substring(1);
-  var vars = query.split("&");
-  for (var i=0;i<vars.length;i++) {
-    var pair = vars[i].split("=");
-    if (pair[0] == variable) {
-      return pair[1];
-    }
-    else
-    	return "";
-  }
-}
-</script>
+<script type="text/javascript" src="/js/jquery-1.2.6.min.js"></script>
+<script type="text/javascript" src="/js/hoverIntent.js"></script>
+<script type="text/javascript" src="/js/superfish.js"></script>
+<script type="text/javascript" src="/includes/activatables.js"></script>
 
-<!--[if lte IE 7]> <link href="http://www.tylerpaper.com/includes/ie_global.css" rel="stylesheet" type="text/css"> <![endif]-->
-<!--[if lte IE 6]> <link href="http://www.tylerpaper.com/includes/ie6_global.css" rel="stylesheet" type="text/css"> <![endif]-->
+<script type="text/javascript">
+    $(document).ready(function(){
+        $("ul.sf-menu") .superfish({
+            delay:        1500,
+            autoArrows:    false,
+            pathClass:  'current',
+			speed:       'slow',
+			dropShadows: false
+        });
 
-</head>
-<body onload="checkCookie()">
-	<!--Begin Header Bar-->
-		<div id="headerBar">
-			<div id="topNavLinks">
-				<center><table width="450"><tbody><tr>
-							<td><a href="http://shopping.tylerpaper.com/CLASS/PClass.aspx" target="_blank">Classifieds</a></td>
-							<td><a href="http://shopping.tylerpaper.com/portal/portal.aspx" target="_blank">Shopping</a></td>
-							<td><a href="http://www.tylerjobs.com" target="_blank">Jobs</a></td>
-							<td><a href="http://autos.tylerpaper.com" target="_blank">Autos</a></td>
-							<td><a href="http://shopping.tylerpaper.com/class/ClassifiedAds.aspx?scid=900" target="_blank">Homes</a></td>
-				</tr></tbody></table></center>
-			</div>
-			<br clear="all">
-				
-				<div id="headerBarExtras">
-					<div id="searchbar">
-					<table><tbody><tr>
-						<script language="javascript">
+    });
+    </script>
+
+<script type="text/javascript">
 function doSearch(FormName){
  doit = 0
- var Form = document.forms[FormName]; 
+ var Form = document.forms[FormName];
  var FormsearchType = Form.elements["searchType"];
  for (i=0;i<FormsearchType.length;i++){
  if (FormsearchType[i].checked){
@@ -73,315 +51,522 @@ if (doit==1){
 	return true
 	}
 	else{
-	return false	
+	return false
 	}
 return true
 }
 </script>
-<td id="searchbar">
+
+<style type="text/css">
+
+body {
+background-color: #FFF;
+}
+
+#headerBar {
+margin: 0px 0px 0px 0px;
+width:975px;
+clear: both;
+z-index: 5;
+}
+
+#horizontalNavigation	{
+	width:973px;
+	max-width:973px;
+    height: 32px;
+	max-height:32px;
+	padding-left: 2px;
+	border: 3px solid #808080;
+	background-color: #1e4262;
+	z-index: 9999;
+}
+
+#horizontalNavigation a:link {
+    color: #FFF200;
+ }
+
+a.info{
+    position:relative; /*this is the key*/
+    z-index:99;
+    color:#000;
+	font-size: 12px;
+	font-weight: bold;
+    text-decoration:none}
+
+a.info:hover{z-index:25; background-color:#ff0}
+
+a.info span{display: none}
+
+a.info:hover span{ /*the span will display just on :hover state*/
+	font-family: Arial, Helvetica, sans-serif;
+	display:block;
+    position:absolute;
+    top:6em; left:-8em; width:450px;
+    border:5px solid #808080;
+    background-color:#1E4262; color:#fff200;
+    text-align: left;
+	padding: 5px 10px 15px 10px;
+	text-decoration: none;
+	}
+
+#extratopnav a:link {
+	color: #000000;
+}
+
+.divclass{
+	background-color:#1E4262;
+	z-index: 9999;
+}
+
+.tdclass{
+	color: #FFF200;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-style: none;
+	border-right-style: solid;
+	border-bottom-style: none;
+	border-left-style: solid;
+	border-top-color: #FFF200;
+	border-right-color: #FFF200;
+	border-bottom-color: #FFF200;
+	border-left-color: #FFF200;
+	width: 250px;
+	border-spacing: 4px;
+	padding: 0px;
+	margin: 0px;
+	z-index: 99999;
+}
+
+ .sf-with-ul li a:link {
+	color: #FFF200;
+	text-decoration:none;
+}
+
+a:visited {
+  text-decoration:  none;
+  color:#000000;
+}
+
+#categoryName {
+   margin-left: 10px;
+ }
+
+h1  {
+ 	 background-color: #1E4262;
+  }
+
+ #sitemapLinks a:link {
+     color:#FFFFFF;
+	 text-decoration:none;
+ 	 font-size:11px;
+  }
+
+  #sitemapLinks a:visited {
+     color: #FFFFFF;
+	 text-decoration: none;
+ 	 font-size: 11px;
+  }
+
+</style>
+
+</head>
+<body>
+
+<!--Begin Header Bar-->
+<div id="headerBar" style="margin-left: 10px;">
+
+<div id="topheaderarea" style="float:left; width:975px; border: solid gray 3px; background-color:  #1E4262;">
+
+    <div id="tplogo" style="float:left; width:215px; padding: 10px 0px 0px 5px; ">
+		<a href="http://www.tylerpaper.com/"><img src="http://www.tylerpaper.com/graphics/TP_Logo.gif" width="210" height="39" border="0"></a><br>
+	 	    <div id="currentDate" style="font-family:verdana; font-size:11px;  font-weight:bold; color:#ffffff; margin-left:-5px; height:20px; text-align:center;">
+				 <script type="text/javascript">
+                    <!--
+
+                    // Array of day names
+                    var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday",
+                    				"Thursday","Friday","Saturday");
+
+                    // Array of month Names
+                    var monthNames = new Array(
+                    "January","February","March","April","May","June","July",
+                    "August","September","October","November","December");
+
+                    var now = new Date();
+                    document.write(dayNames[now.getDay()] + ", " +
+                    monthNames[now.getMonth()] + " " +
+                    now.getDate() + ", " + now.getFullYear());
+
+                    // -->
+                    </script>Thursday, January 30, 2020
+			</div>
+	</div>
+
+	<div id="topheaderad" style="float:right; width:730px; height: 90px;  padding: 15px 10px 12px 0px;">
+		
+<script type="text/javascript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 100000000000000000;
+document.write('<s'+'cr'+'ip'+'t type'+'="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/BANNER12/PRIVACY/20012446294414660/-1/-/;idn=' + idn + ';Type=1?"><\/script>');
+//-->
+</script><script type="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/BANNER12/PRIVACY/20012446294414660/-1/-/;idn=70185517742995304;Type=1?"></script>
+
+	</div>
+
+	<div id="weatherBug" style="float:left; width: 180px; height: 60px; padding: 5px 0px 0px 27px;">
+     <embed src="http://www.tylerpaper.info/web_sticker.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="175" height="50" name="web_sticker" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
+	</div>
+
+</div><!--end top header area-->
+
+<div id="bottomHeaderArea" style="float:left; width: 975px; background-color: #F9B104; border: solid gray 3px; margin: 0px; padding: 0px;">
+
+		<div id="extratopnav" style="float: left; width: 450px; display: inline; font: bold 12px Arial; color: #000000; text-decoration: none; margin: 10px 0px 0px 10px; padding: 0px 0px 0px 0px; ">
+		 <a href="http://shopping.tylerpaper.com/portal/portal.aspx">Ads</a>&nbsp;|&nbsp;
+		  <a href="http://www.tylerjobs.com">Jobs</a>&nbsp;|&nbsp;
+		  <a href="http://autos.tylerpaper.com">Autos</a>&nbsp;|&nbsp;
+		  <a href="http://shopping.tylerpaper.com/class/ClassifiedAds.aspx?scid=900">Real Estate</a>&nbsp;|&nbsp;
+		  <a href="http://66.76.81.91/webads/">Place An Ad</a>&nbsp;|&nbsp;
+		 <a href="http://m.tylerpaper.com">Mobile</a>&nbsp;|&nbsp;
+
+			<a class="info" href="#">Search Help<span><p><strong><big>For best search results:</big></strong></p>
+<p>Do not search by date -- full issues of the paper are not available on the site;</p>
+<p>If you are looking for a specific article, type in one or two words only from the headline or the name of someone in the story;</p>
+<p>Articles provided by wire services are not included in this search;</p>
+<p>Local articles older than two weeks are not available in this search; call 903-596-6397 for information on how to access articles older than two weeks.</p>
+</span></a>
+
+		</div>
+
+		<div id="searchcontent" style="float:right; width: 500px; height: 30px; font-size:.8em; margin: 0px; padding-top: 5px; font-family:Tahoma, Geneva, sans-serif;">
 <form name="searchForm" id="searchForm" onsubmit="return doSearch('searchForm')" method="post" action="/apps/pbcs.dll/search?Category=SEARCH">
 <input type="hidden" name="daterange">
-<b>Search</b>&nbsp;<input type="radio" name="searchType" value="20091008,20091022" checked="">Recent News&nbsp;&nbsp;<input type="radio" name="searchType" value="19820606,20091007>Archives&nbsp;&nbsp;<input type=radio name=" searchtype"="">Web&nbsp;&nbsp;<b>for</b><br><input type="text" name="crit" id="searchCrit" size="35"> <input type="submit" value="Go">
+<b>Search</b>&nbsp;<input type="radio" name="searchType" value="20111003,20111017" checked="">
+Recent News&nbsp;<input type="radio" name="searchType" value="19840531,20111002">
+<input type="radio" name="searchType">Web&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" name="crit" id="searchCrit" size="30">
+<input type="submit" value="Go">
 </form>
-</td>
-					</tr></tbody></table>
-					</div>
-				</div>
-				<div id="weatherBug" style="position:absolute; top: 40px; left: 665px; width: 175px; height: 50px;">															
-					<embed src="/web_sticker_2/web_sticker.swf" quality="high" wmode="transparent" bgcolor="#ffffff" width="175" height="50" name="web_sticker" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">					
-				</div>
-					
-			<br clear="all">
-			<div id="horizontalNavContainer" style="margin-left: -20px;">
-			    <div id="horizontalNavLevel1Div">
-				<ul>
-					<li id="mainnav0" class="nav_on"><a href="http://www.tylerpaper.com/" onmouseover="switchnav('0');">HOME</a></li>		
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav1"><a href="/section/NEWS" onmouseover="switchnav('1');" onmouseout="cancelnav('1');">NEWS</a></li>
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav2"><a href="/section/SPORTS" onmouseover="switchnav('2');" onmouseout="cancelnav('2');">SPORTS</a></li>
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav3"><a href="/section/BUSINESS" onmouseover="switchnav('3');" onmouseout="cancelnav('3');">BUSINESS</a></li>
-					<li class="navlevel1bullet">•</li>		
-					<li id="mainnav4"><a href="/section/OPINION" onmouseover="switchnav('4');" onmouseout="cancelnav('4');">OPINION</a></li>
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav5"><a href="/section/FEATURES" onmouseover="switchnav('5');" onmouseout="cancelnav('5');">EAST TX LIFE</a></li>
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav6"><a href="http://obituaries.tylerpaper.com/" onmouseover="switchnav('6');" onmouseout="cancelnav('6');">OBITUARIES</a></li>
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav7"><a href="/section/FEATURES07" onmouseover="switchnav('7');" onmouseout="cancelnav('7');">ENTERTAINMENT</a></li>		
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav8"><a href="/section/RELIGION" onmouseover="switchnav('8');" onmouseout="cancelnav('8');">RELIGION</a></li>
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav9"><a href="" onmouseover="switchnav('9');" onmouseout="cancelnav('9');">EXTRAS</a></li>
-					<li class="navlevel1bullet">•</li>
-					<li id="mainnav10"><a href="" onmouseover="switchnav('10');" onmouseout="cancelnav('10');">SERVICES</a></li>
-				</ul>		
-			</div>
-			
-		<!--[if lte IE 7]> <link href="http://www.tylerpaper.com/includes/ie_frontpage.css" rel="stylesheet" type="text/css" /> <![endif]-->
-		<!--[if lte IE 6]> <link href="http://www.tylerpaper.com/includes/ie6_frontpage.css" rel="stylesheet" type="text/css" /> <![endif]-->
-			<!--<div id="horizontalNavLevel2Div">-->		
-				<div id="NML2Div">
-							<div id="submenu0" class="sub_on">
-								<ul id="sites">
-									<li class="nav2more">MORE:</li>
-									<li><a href="http://spotted.tylerpaper.com" target="_blank">SPOTTED</a></li>
-									<li><a href="http://www.tylertube.com" target="_blank">TYLERTUBE</a></li>
-									<li><a href="http://www.tylerpaper.com/weather/">WEATHER</a></li>		
-									<li><a href="http://tyler.zebramm.com/" target="_blank">MOBILE</a></li>
-									<li><a href="/section/RSS">RSS</a></li>
-									<li><a href="/section/TWITTER">TWITTER</a></li>
-									<li><a href="/section/ENEWSLETTER">E-NEWSLETTER</a></li>								
-								</ul>
-								<ul class="service_links">
-									<li><a href="/section/CIRCULATION">SUBSCRIBE NOW</a></li>
-									<li><a href="http://66.76.81.91/webads/">PLACE AN AD</a></li>
-									<li><a href="/section/FAQ">QUESTIONS?</a></li>
-		
-								</ul>
-							</div>																		
-											
-						<div id="submenu1" class="sub_off">
-								<ul>
-									<li><a href="/section/NEWS08">TYLER</a></li>																						
-									<li><a href="/section/NEWS01">EAST TEXAS</a></li>													
-									<li><a href="/section/NEWS09">HEALTH</a></li>
-									<li><a href="/section/KFCCASE">KFC TRIAL</a></li>
-									<li><a href="/section/FEATURES08">CLUBS &amp; ORGANIZATIONS</a></li>																											
-									<li><a href="http://hosted.ap.org/dynamic/fronts/US?site=TXTYL&amp;section=US" target="_blank">NATIONAL</a></li>																																				
-									<li><a href="/section/NEWS13">PUBLIC AFFAIRS</a></li>
-									<li><a href="http://hosted.ap.org/dynamic/fronts/TEXASHEADS?site=TXTYL&amp;section=TEXASHEADS" target="_blank">STATE</a></li>
-									<li><a href="http://hosted.ap.org/dynamic/fronts/WORLD?site=TXTYL&amp;section=WORLD" target="_blank">WORLD</a></li>
-								</ul>
-						</div>
-						
-						<div id="submenu2" class="sub_off">
-								<ul>
-									<li><a href="/section/SPORTS01">LOCAL SPORTS</a></li>																						
-									<li><a href="/section/SPORTS05">HIGH SCHOOL SPORTS</a>
-											<div id="tmenu11" class="submenu">
-												<ul>
-													<li><a href="/section/SPORTS0580">HIGH SCHOOL SPORTS SCOREBOARD</a></li>
-													<li><a href="/section/SPORTS0533">JOHN TYLER</a></li>
-													<li><a href="/section/SPORTS0559">ROBERT E. LEE</a></li>
-													<li><a href="/section/SPORTS0514">CHAPEL HILL</a></li>
-													<li><a href="/section/SPORTS0572">WHITEHOUSE</a></li>
-													<li><a href="/section/SPORTS0526">GRACE COMMUNITY</a></li>
-													<li><a href="/section/SPORTS0564">T. K. GORMAN</a></li>
-													<li><a href="/section/SPORTS0502">ALL SAINTS</a></li>													
-													<li><a href="/section/SPORTS0504">ARP</a></li>
-													<li><a href="/section/SPORTS0507">BROWNSBORO</a></li>
-													<li><a href="/section/SPORTS0508">BULLARD</a></li>
-													<li><a href="/section/SPORTS0509">BULLARD BROOK HILL</a></li>
-													<li><a href="/section/SPORTS0519">EAST TEXAS CHRISTIAN ACADEMY</a></li>
-													<li><a href="/section/SPORTS0522">FRANKSTON</a></li>
-													<li><a href="/section/SPORTS0524">GLADEWATER</a></li>
-													<li><a href="/section/SPORTS0525">GILMER</a></li>
-													<li><a href="/section/SPORTS0530">HAWKINS</a></li>
-													<li><a href="/section/SPORTS0531">HENDERSON</a></li>													
-													<li><a href="/section/SPORTS0532">JACKSONVILLE</a></li>													
-													<li><a href="/section/SPORTS0534">KILGORE</a></li>
-													<li><a href="/section/SPORTS0538">LINDALE</a></li>
-													<li><a href="/section/SPORTS0545">MINEOLA</a></li>
-													<li><a href="/section/SPORTS0551">OVERTON</a></li>
-													<li><a href="/section/SPORTS0557">QUITMAN</a></li>
-													<li><a href="/section/SPORTS056">TROUP</a></li>
-													<li><a href="/section/SPORTS0569">VAN</a></li>
-													<li><a href="/section/SPORTS0574">WINONA</a></li>
-													<li><a href="/section/SPORTS0575">WINNSBORO</a></li>
-												</ul>
-											</div>									
-									</li>
-							
-									<li><a href="/section/SPORTS06">COLLEGE SPORTS</a></li>
-									<li><a href="/section/SPORTS02">OUTDOORS</a></li>																											
-									<li><a href="/section/SPORTS07">GOLF</a></li>																											
-									<li><a href="/section/SPORTS03">COLUMNS</a>													
-											<div id="tmenu9" class="submenu">
-												<ul>
-													<li><a href="/section/SPORTS0307">JOE BUIE</a></li>													
-													<li><a href="/section/SPORTS0301">PHIL HICKS</a></li>
-													<li><a href="/section/SPORTS0202">STEVE KNIGHT</a></li>
-													<li><a href="/section/SPORTS0308">CHRIS PARRY</a></li>
-													<li><a href="/section/SPORTS0303">HAROLD WILSON</a></li>
-												</ul>
-											</div>																																																			
-									</li>																																																											
-								</ul>
-						</div>											
-										
-						<div id="submenu3" class="sub_off">
-								<ul>
-									<li><a href="/section/BUSINESS05">COLUMNS</a>
-											<div id="tmenu10" class="submenu">
-												<ul>
-													<li><a href="/section/BUSINESS0502">BRIAN TRIPLETT</a></li>
-													<li><a href="/section/BUSINESS0503">KAY ROBINSON</a></li>
-												</ul>
-											</div>
-									</li>
-									<li><a href="/section/BUSINESS01">EAST TEXAS BUSINESS</a></li>													
-									<li><a href="/section/BUSINESS03">EAST TEXAS DRILLING REPORTS</a></li>
-									<li><a href="/section/FINANCE">CHECK YOUR STOCKS</a></li>																											
-									<li><a href="/section/BUSINESS04">BUILDING PERMITS</a></li>																																																																		
-								</ul>
-						</div>											
-						
-						<div id="submenu4" class="sub_off">
-								<ul>
-									<li><a href="/section/OPINION03">COLUMNS</a>
-											<div id="tmenu10" class="submenu">
-												<ul>
-													<li><a href="/section/OPINION0305">KENNETH DEAN</a></li>													
-													<li><a href="/section/OPINION0306">CASEY KNAUPP</a></li>
-													<li><a href="/section/OPINION0309">SHELIA LEWIS</a></li>
-													<li><a href="/section/OPINION0317">MICHELLE MALKIN</a></li>
-													<li><a href="/section/OPINION0307">CINDY MALLETTE</a></li>
-													<li><a href="/section/OPINION0301">ROY MAYNARD</a></li>
-													<li><a href="/section/OPINION0314">MEGAN MIDDLETON</a></li>
-													<li><a href="/section/OPINION0304">HUGH NEELD</a></li>
-													<li><a href="/section/OPINION0310">LEO ROSSLER</a></li>
-													<li><a href="/section/OPINION0316">ADAM RUSSELL</a></li>
-													<li><a href="/section/OPINION0318">BEN SHAPIRO</a></li>
-													<li><a href="/section/OPINION0303">CAL THOMAS</a></li>
-												</ul>
-											</div>
-									</li>
-									<li><a href="/apps/pbcs.dll/news_themes?Category=PHPForums&amp;ShowGroups=1">TYLER TALK</a></li>
-									<li><a href="/section/OPINION04">RAVES, RANTS &amp; ROSES</a></li>
-									<li><a href="/section/OPINION02">READER RESPONSES</a></li>																											
-									<li><a href="/section/OPINION01">TYLER PAPER EDITORIALS</a></li>
-									<li><a href="/section/TPBLOGS">STAFF BLOGS</a></li>																											
-									<li><a href="/section/BLOGSPERTS">BLOGSPERTS</a></li>									
-								</ul>
-						</div>											
-						
-						<div id="submenu5" class="sub_off">
-								<ul>
-									<li><a href="http://celebrations.tylerpaper.com/TylerPaper/Celebrations.asp" target="_blank">WEDDINGS &amp; CELEBRATIONS</a></li>
-									<li><a href="/section/FEATURES02">ROSE FESTIVAL</a></li>
-									<li><a href="/section/FEATURES06">FOOD</a></li>
-									<li><a href="/section/FEATURES05">ACHIEVERS</a></li>																						
-									<li><a href="/section/FEATURES01">DISCOVER</a></li>													
-									<li><a href="/section/FEATURES03">GARDENING</a></li>
-									<li><a href="/section/FEATURES0301">KEITH HANSEN</a></li>																											
-									<li><a href="/section/FEATURES0302">MARY CLAIRE ROWE</a></li>																																																										
-									<li><a href="/section/FEATURES09">KOMEN RACE</a></li>	
-								</ul>
-						</div>
-						
-						<div id="submenu6" class="sub_off">
-								<ul>
-									<li><a href="/section/OBITUARY01">DEATH NOTICES</a></li>
-									<li><a href="http://obituaries.tylerpaper.com/" target="_blank">FULL OBITUARIES</a></li>																																																																										
-								</ul>
-						</div>											
-						
-						<div id="submenu7" class="sub_off">
-								<ul>
-									<li><a href="/section/FEATURES0701">EAST TEXAS ENTERTAINMENT</a></li>																																																
-									<li><a href="http://hosted.ap.org/dynamic/fronts/ENTERTAINMENT?site=TXTYL&amp;section=ENTERTAINMENT" target="_blank">AP ENTERTAINMENT</a></li>																											
-								</ul>
-						</div>
-						
-						<div id="submenu8" class="sub_off">
-								<ul>
-									<li><a href="/section/BIBLETHOUGHTS">BIBLE THOUGHT</a></li>																						
-									<li><a href="/section/RELIGION01">PATRICK BUTLER</a></li>													
-								</ul>
-						</div>
-						
-						<div id="submenu9" class="sub_off">
-								<ul>
-									<li><a href="http://shopping.tylerpaper.com/portal/portal.aspx" target="_blank">NEWSPAPER ADS</a></li>																																												
-									<li><a href="/section/RSS">RSS FEEDS</a></li>
-									<li><a href="http://www.tylerpaper.com/weather/">EAST TEXAS WEATHER</a></li>																											
-									<li><a href="/section/NEWS0202">BOB PETERS FORECAST</a></li>																																				
-									<li><a href="/section/ENEWSLETTER">ENEWSLETTER</a></li>																																			
-								</ul>
-						</div>
-						
-						<div id="submenu10" class="sub_off">
-								<ul>																				
-									<li><a href="/section/CONTACT">CONTACT US</a></li>
-									<li><a href="/section/SERVICES02">WHO WE ARE</a></li>																											
-									<li><a href="/section/HISTORY">ABOUT US</a></li>																											
-									<li><a href="/section/CAREERS">TYLER PAPER JOBS</a></li>																										
-									<li><a href="/section/SERVICES08">COMMUNITY LINKS</a></li>
-									<li><a href="/section/COPYRIGHT">COPYRIGHT POLICY</a></li>
-								</ul>
-						</div>
-					</div>	
-				
-			
-				<script type="text/javascript">
-					subnav_init();
-				</script>				
 		</div>
-	</div><!--End Header Bar-->
-	<div style="clear: both;"></div>
-	
-		  <div id="leftCenterContent">
-		  
-			<div id="categoryName"><h1>Privacy Policy</h1></div>
+
+	</div><!--end bottomheadercontent-->
+<div style="clear:both;"></div>
+	<!--begin new top horizontal nav-->
+<div id="horizontalNavigation" style="position:absolute; top:180px; left: 10px; z-index: 99999; border: 3px solid #808080;">
+				<ul id="navigationLists" class="sf-menu sf-navbar sf-js-enabled">
+					<li>
+						<a class="sf-with-ul" href="http://www.tylerpaper.com">Home</a>
+					</li>
+                    <li class=""><!--begin News section-->
+						<a class="sf-with-ul" href="/section/NEWS">News</a>
+						<ul style="display: none; visibility: hidden;">
+							<li><a href="/section/NEWS08">Tyler</a></li>
+                                                        <li><a href="/section/NEWS01">East Texas</a></li>
+                                                         <li><a href="/section/NEWS1203">The Investigators</a></li>
+                                                       <li><a href="/section/ELECTIONS">Elections</a></li>
+							<li><a href="http://hosted.ap.org/dynamic/fronts/US?site=TXTYL&amp;section=US" target="_blank">National</a></li>
+							<li><a href="http://hosted.ap.org/dynamic/fronts/TEXASHEADS?site=TXTYL&amp;section=TEXASHEADS">State</a></li>
+                                                         <li><a href="http://hosted.ap.org/dynamic/fronts/WORLD?site=TXTYL&amp;section=WORLD" target="_blank">World</a></li>
+							<li><a href="/section/NEWS09">Health</a></li>
+                            <li class="">
+                                <a class="sf-with-ul" href="/section/BUSINESS">Business&nbsp;&nbsp;<span class="sf-sub-indicator">»</span></a>
+                        		<ul style="display: none; visibility: hidden;">
+                                    <div class="divclass">
+                                  		<table border="0"><tbody><tr><td class="tdclass">
+                              			 <li><a href="/section/BUSINESS0504">Brian Pearson: Business Briefcase</a></li>
+                                         <li><a href="/section/BUSINESS0502">Brian Triplett: Ag Biz</a></li>
+                                         <li><a href="/section/BUSINESS0509">Mechele Agbayani: BBB</a></li>
+										 <li><a href="/section/OPINION0310">Leo Rossler: Your Social Security</a></li>
+										 </td>
+                                  		  <td class="tdclass" valign="top">
+                                         <li><a href="/section/BUSINESS01">East Texas Business</a></li>
+                                         <li><a href="/section/BUSINESS03">East Texas Drilling Reports</a></li>
+                                         <li><a href="/section/FINANCE">Check Your Stocks</a></li>
+										 <li><a href="/section/BUSINESS04">Building Permits</a></li>
+										</td></tr></tbody></table>
+                                  	</div>
+                         		</ul>
+                     		</li>
+                            <li class="">
+								<a class="sf-with-ul" href="/section/RELIGION">Religion&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+								<ul style="display: none; visibility: hidden;">
+                                	<div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="/section/BIBLETHOUGHTS">Bible Thoughts</a></li>
+                                                                        <li><a href="/section/RELIGION10">Rebecca Hoeffner</a></li>
+                                    </td></tr></tbody></table>
+                                </div>
+								</ul>
+							</li>
+                            <li class="">
+                                <a class="sf-with-ul" href="/section/NEWS12">Special Reports&nbsp;&nbsp;<span class="sf-sub-indicator">»</span></a>
+                        		<ul style="display: none; visibility: hidden;">
+                                    <div class="divclass">
+                                  		<table border="0"><tbody><tr><td class="tdclass">
+                              		   <li><a href="/section/NEWS0802">Wings Over Tyler</a></li>
+                              		 <li><a href="/section/FEATURES09">Komen Race</a></li>
+                                         <li><a href="/section/FEATURES02">Rose Festival</a></li>
+                                         <li><a href="/section/SWINEFLU">H1N1 (Swine Flu)</a></li>
+                                         </td>
+                                  		  <td class="tdclass" valign="top">
+                                         <li><a href="/section/NEWS0101">Aging Population</a></li>
+                                         <li><a href="/section/NEWS1201">Church Fires</a></li>
+                                         <li><a href="/section/NEWS1202">Song Of Faith Contest.</a></li>
+                                         <li><a href="/section/VIDEO">Multimedia Articles</a></li>
+                                    	</td></tr></tbody></table>
+                                  	</div>
+                         		</ul>
+                     		</li>
+							<li><a href="http://www.tylerpaper.info/policemap/index.html">Police Map</a></li>
+							<li><a href="/section/ENEWSLETTER">E-Newsletter</a></li>
+						</ul>
+					</li><!--end News section-->
+					<li class=""><!--begin Sports section-->
+						<a class="sf-with-ul" href="http://www.etfinalscore.com/">Sports</a>
+						<ul style="display: none; visibility: hidden;">
+                        			<li></li>
+							  <li class="">
+							<ul style="display: none; visibility: hidden;">
+                                </ul>
+                            </li>                            
+                            		<li><a href="#">AP Sports</a></li>
+							<li><a href="/section/SPORTS02">Outdoors</a></li>
+							<li><a href="http://www.etfinalscore.com/">ETFinalScore.com</a></li>  
+						  </ul>
+					</li><!--end Sports section-->
+                      <li class=""><!--begin Opinion section-->
+                          <a class="sf-with-ul" href="/section/OPINION">Opinion</a>
+                          <ul style="display: none; visibility: hidden;">
+                          	 <li><a href="/section/OPINION01">Tyler Paper Editorials</a></li>
+							 <li class=""><a class="sf-with-ul" href="/section/OPINION0330">Nelson Clyde - Is It Just Me&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+							 	<ul style="display: none; visibility: hidden;">
+                                <div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="section/OPINION033001">Is It Just Me Responses</a></li>
+                                    </td></tr></tbody></table>
+                                </div>
+								</ul>
+							 </li>
+							 <li><a href="/section/OPINION10">Ask Bubba</a></li>
+							 <li><a href="http://www.tylerpaper.com/">Tyler Talk</a></li>
+							 <li><a href="/section/OPINION04">Raves, Rants &amp; Roses</a></li>
+							 <li><a href="/section/OPINION02">Reader Responses</a></li>
+							 <li><a href="http://www.tylerpaper.com/article/20100504/OPINION06/100509976">Polls</a></li>
+							<li class="">
+                            <a href="/section/OPINION0350">
+								</a><a class="sf-with-ul" href="#">Columns&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+								<ul style="display: none; visibility: hidden;">
+                                	<div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="/section/OPINION0317">Michelle Malkin</a></li>										
+									<li><a href="/section/OPINION0303">Cal Thomas</a></li>
+									<li><a href="/section/OPINION0301">Roy Maynard: Early Returns</a></li>
+									</td></tr></tbody></table>
+                                    </div>
+                                </ul>
+							</li>
+                           </ul>
+                       </li><!--end Opinion section-->
+					  <li class=""><!--begin Community section-->
+						<a class="sf-with-ul" href="/section/FEATURES">Community</a>
+						<ul style="display: none; visibility: hidden;">
+							<li><a href="http://celebrations.tylerpaper.com/TylerPaper/Celebrations.asp">Weddings &amp; Celebrations</a></li>
+                            <li><a href="/section/FEATURES01">Discover</a></li>
+                            <li class="">
+								<a class="sf-with-ul" href="/section/FEATURES03">Gardening&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+								<ul style="display: none; visibility: hidden;">
+                                	<div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="/section/FEATURES0301">Keith Hansen</a></li>
+									<li><a href="/section/FEATURES0302">Mary Claire Rowe</a></li>
+                                    </td></tr></tbody></table>
+                                </div>
+								</ul>
+							</li>
+							 <li><a href="http://www.tylerpaper.com/cluborg/cluborg_listing.html">Clubs &amp; Organizations</a></li>
+							<li class="">
+								<a class="sf-with-ul" href="/section/FEATURES12">Columns&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+								<ul style="display: none; visibility: hidden;">
+                                <div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="/section/FEATURES1201">Gillian Sheridan: Children Are A Gift</a></li>
+									<li><a href="/section/FEATURES1202">Danny Mogle: Good Neighbors</a></li>
+                                    </td>
+                                    <td class="tdclass" valign="top">
+                                    <li><a href="/section/FEATURES1203">Joyce Turner: Making It Happen</a></li>
+									</td></tr></tbody></table>
+                                </div>
+                                </ul>
+							</li>
+							<li><a href="/section/FEATURES05">Achievers</a></li>
+							<li><a href="/section/FEATURES04">Travel</a></li>
+							<li><a href="/section/FEATURES13">Youthful Living</a></li>
+						</ul>
+					</li><!--end Community section-->
+					<li class=""><!--begin Food section-->
+                    	<a class="sf-with-ul" href="/section/FEATURES06">Food</a>
+                        <ul style="display: none; visibility: hidden;">
+							   <li><a href="/section/FEATURES0608">As Seen On CBS 19</a></li>
+							   <li><a href="/section/FEATURES0605">Foodie Corner</a></li>
+							   <li><a href="/section/DASH1">Recipes for Right Now</a></li>
+							   <li><a href="/section/DASH2">Seasonal/Themed Recipes</a></li>
+                         </ul>
+                     </li><!--end Food section-->
+                    <li class=""><!--begin Obituaries section-->
+						<a class="sf-with-ul" href="http://obituaries.tylerpaper.com">Obituaries</a>
+						<ul style="display: none; visibility: hidden;">
+							<li><a href="/section/OBITUARY01">Death Notices</a></li>
+							<li><a href="http://obituaries.tylerpaper.com">Full Obituaries</a></li>
+						</ul>
+					</li><!--end Obituaries section-->
+					<li class=""><!--begin Entertainment section-->
+						<a class="sf-with-ul" href="/section/FEATURES07">Entertainment</a>
+						<ul style="display: none; visibility: hidden;">
+							<li><a href="/section/FEATURES0701">East Texas Entertainment</a></li>
+                            <li><a href="http://hosted.ap.org/dynamic/fronts/ENTERTAINMENT?site=TXTYL&amp;section=ENTERTAINMENT">AP Entertainment</a></li>
+                            <li><a href="/section/FEATURES070101">Movie Reviews</a></li>
+							<li class="">
+								<a class="sf-with-ul" href="http://www.tylerpaper.com/section/FEATURES0702">Columns&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+								<ul style="display: none; visibility: hidden;">
+                                	<div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="/section/FEATURES070201">Stewart Smith: Catching Up On</a></li>
+                                    </td></tr></tbody></table>
+                                </div>
+								</ul>
+							</li>
+						</ul>
+					</li><!--end Entertainment section-->
+                    <li><!--GoGuide section-->
+                          <a class="sf-with-ul" href="http://www.tylerpaper.info/GoGuide/day.php">GoGuide Events</a>
+                    </li><!--end GoGuide section-->
+					<li><!--begin Spotted section-->
+						<a class="sf-with-ul" href="http://spotted.tylerpaper.com/">Spotted</a>
+					</li><!--end Spotted section-->
+                    <li class=""><!--begin Extras section-->
+						<a class="sf-with-ul" href="#">Extras</a>
+						<ul style="display: none; visibility: hidden;">
+							<li class="">
+								<a class="sf-with-ul" href="http://www.tylerpaper.com/">Mobile&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+								<ul style="display: none; visibility: hidden;">
+                                	<div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="http://www.tylerpaper.com/iphoneweather">iPhone Tylerpaper.com Weather</a></li>
+									<li><a href="http://www.tylerpaper.info/nwsweather/tylernwsweatheriphone.html">iPhone NWS Weather</a></li>
+									<li><a href="http://www.tylerpaper.com/goguideiphone">iPhone GoGuide</a></li>
+                                    </td>
+                                    <td class="tdclass" valign="top">
+                                    <li><a href="http://www.tylerpaper.info/mobile/mobilegoguide.wml">cellphone GoGuide</a></li>
+									<li><a href="http://www.tylerpaper.com/">cellphone News</a></li>
+									</td></tr></tbody></table>
+                                	</div>
+								</ul>
+							</li>
+                            <li class="">
+								<a class="sf-with-ul" href="#">Social Media&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+								<ul style="display: none; visibility: hidden;">
+                                	<div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+									<li><a href="/section/RSS">RSS Feeds</a></li>
+									<li><a href="http://www.facebook.com/pages/Tyler-TX/TylerPaper/247534773677" target="_blank">Facebook</a></li>
+									<li><a href="/section/Twitter">Twitter</a></li>
+									</td></tr></tbody></table>
+                                	</div>
+								</ul>
+							</li>
+                            <li><a href="http://www.tylerpaper.com/weather">East Texas Weather</a></li>
+                            <li><a href="/section/NEWS0203">CBS 19 Forecast</a></li>
+							<li><a href="/section/FEATURES0703">Puzzles</a></li>
+							<li><a href="http://www.txlottery.org/export/sites/default/index.html" target="_blank">Lottery</a></li>
+							<li><a href="/section/CIRCULATION">Subscribe Now</a></li>
+							<li><a href="http://66.76.81.91/webads/">Place An Ad</a></li>
+							<li><a href="http://www.inmagtexas.com" target="_blank">IN Magazine</a></li>
+							<li><a href="http://www.fitcitytyler.com/" target="_blank">Fit City Challenge</a></li>
+						</ul>
+					</li><!--end Extras section-->
+                    <li class=""><!--begin Contact Us section-->
+						<a class="sf-with-ul" href="#">Contact Us</a>
+						<ul style="display: none; visibility: hidden;">
+							<li><a href="/section/CONTACT">Contact Info</a></li>
+                            <li><a href="/section/SERVICES02">Who We Are</a></li>
+                            <li><a href="/section/HISTORY">Company History</a></li>
+                            <li><a href="/section/FAQ">Questions</a></li>
+                            <li class=""><a class="sf-with-ul" href="#">Community Links&nbsp;&nbsp;<span class="sf-sub-indicator"> »</span></a>
+                            	<ul style="display: none; visibility: hidden;">
+                                <div class="divclass">
+                                    <table border="0"><tbody><tr><td class="tdclass">
+                                    <li><a href="http://www.tylerpaper.com/Assets/DevotionalPages/SmithCoDevotionalPgs.pdf">Places of Worship</a></li>
+                            		<li><a href="http://www.tylerpaper.com/ClubOrg/cluborg_listing.html">Clubs &amp; Organizations</a></li>
+                                    </td>
+                                    <td class="tdclass" valign="top">
+                            		<li><a href="http://www.tylerpaper.info/GoGuide/day.php">Events</a></li>
+                                    </td></tr></tbody></table>
+                                </div>
+                            	</ul>
+                            </li>
+                            <li><a href="/section/PRIVACY">Privacy Policy</a></li>
+							<li><a href="/section/COPYRIGHT">Copyright Policy</a></li>
+							<li><a href="/section/USE">Use Agreement</a></li>
+							<li><a href="/section/CONDITIONS">Terms Of Use</a></li>
+						</ul>
+					</li><!--end Contact Us section-->
+		</ul><!-- End Main Nav Lists-->
+
+	</div><!-- End HorizNav Container-->
+
+</div><!--End Header Bar-->
+<div id="mainContent" style="float:left; width: 975px; margin-top:45px; margin-left:10px;">
+<div id="categoryName"><h1>Privacy Policy</h1></div>
 			
-			<div id="topHeadlines" style="float:left; width: 390px; padding-left: 10px;">
+<div id="topLeftContent" style="float:left; width: 640px; padding-left: 0px;">
 						
-				 <center>
-
-<center><table width="400"><tbody><tr><td>
-
-<p>PRIVACY POLICY
-</p><p>When you visit this website, T.B. Butler Publishing Company dba tylerpaper.com ("Tyler Paper") and third parties may collect personal identifying information about you. This information may be collected in a variety of ways including, without limitation, through the use of cookies. Cookies are pieces of information that are stored by your browser on your computer.
-
-</p><p>Tyler Paper may use, share and disclose such information for any lawful purpose and in any lawful manner including, without limitation, for systems administration and troubleshooting; for compiling user statistics; to solicit advertisers, partners and other third parties; and to process orders and provide a personalized experience for the user. On-line payment transactions are processed by third parties who are solely responsible for protecting the privacy of credit card and other financial information of users.
-
-</p><p>Tyler Paper does not control, and is not responsible for, use or disclosure of information collected or otherwise obtained by third parties. When you access other websites through links to this website or by other means, you should read the privacy policies posted by such third parties.
-
-</p><p>Tyler Paper does not knowingly request or compile personal identifying information for children under the age of 13 without the consent of the child's parent or guardian.
-
-</p><p>Tyler Paper reserves the right to amend this Privacy Policy from time to time without notice. All persons who access this website agree to abide by the foregoing Privacy Policy, as may be amended from time to time without notice. 
-
-
-
-</p></td></tr></tbody></table>
-
-
+    <!--begin PRIVACY content-->
+    <div id="privacyContent" style="float:left; width:400px; font-size: .8em; margin-top: 25px; margin-left:10px;">
 		 
-		</center></center></div>
-			    <!--end top stories-->
+<table width="400"><tbody><tr><td>
 
-			    		    
-			 </div><!--End Top Headlines-->
-			 
-		
-		<!--End Left Content-->
+<p><span style="font-size: 1.5em; font-weight:bold;">Privacy Policy</span></p>
+
+<p>When you visit this website, T.B. Butler Publishing Company dba tylerpaper.com ("Tyler Paper") and third parties may collect personal identifying information about you. This information may be collected in a variety of ways including, without limitation, through the use of cookies. Cookies are pieces of information that are stored by your browser on your computer.</p>
+
+<p>Tyler Paper may use, share and disclose such information for any lawful purpose and in any lawful manner including, without limitation, for systems administration and troubleshooting; for compiling user statistics; to solicit advertisers, partners and other third parties; and to process orders and provide a personalized experience for the user. On-line payment transactions are processed by third parties who are solely responsible for protecting the privacy of credit card and other financial information of users.</p>
+
+<p>Tyler Paper does not control, and is not responsible for, use or disclosure of information collected or otherwise obtained by third parties. When you access other websites through links to this website or by other means, you should read the privacy policies posted by such third parties.</p>
+
+<p>Tyler Paper does not knowingly request or compile personal identifying information for children under the age of 13 without the consent of the child's parent or guardian.</p>
+
+<p>Tyler Paper reserves the right to amend this Privacy Policy from time to time without notice. All persons who access this website agree to abide by the foregoing Privacy Policy, as may be amended from time to time without notice. </p>
+
+</td></tr></tbody></table>
+
+	</div><!--end PRIVACY content-->
 		
 		<!--Begin Middle Content-->
-		<div id="middleCenterContent" style="position:absolute; left: 440px; top: 190px; width:200px;">			
+		<div id="middleCenterContent" style="float:right; width:195px;">			
 			<!--Begin Center Rail-->
-				<div id="centerRail" style="width: 185; margin-right: 10px; padding-top: 0px; margin-top: 10px;">
+				<div id="centerRail" style="width: 185;">
 
-					<div id="listingTitle" style="width: 175px; font-family: georgia, serif; font-size: 1em; text-align: left; font-weight:bold; margin-top: 0px; margin-bottom: 5px; margin-left: 15px;">
+  					<div id="listingTitle" style="width: 175px; font-family: georgia, serif; font-size: 1em; text-align: left; font-weight:bold; margin-top: 0px; margin-bottom: 5px; margin-left: 15px;">
 						<a href="/section/OPINION03">COLUMNS</a>	
 					</div>
 					<div id="categoryBKG" style="background: url('http://www.tylerpaper.com/graphics/centerSM_blue.gif') top left no-repeat; width: 180px;">	
-					<div id="categoryColumns" style="width: 180px;  height: 115px;  border-bottom: 5px solid darkblue;">							
+					<div id="categoryColumns" style="width: 180px; border-bottom: 5px solid #808080;">							
 
 							<div id="columnsTitle">
-								<div id="level2Display" style="margin-left: 10px; margin-bottom: 15px;">
+								<div id="level2Display" style="margin-left: 10px; margin-bottom: 5px;">
 
 	<div id="leftPhoto" style="float: left; padding-right: 10px; padding-top:20px;">
 	
-	<a href="/article/20091020/OPINION0317/910209987/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20091020&amp;Kategori=OPINION0317&amp;Lopenr=910209987&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
-	</div>
-	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em; padding-top: 25;">
-	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20091020/OPINION0317/910209987/-1/PRIVACY">Tax-And-Spend Radical In GOP Clothing</a></span>
+	<a href="/article/20111016/OPINION0310/310169985/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Site=TP&amp;Date=20111016&amp;Category=OPINION0310&amp;ArtNo=310169985&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
+	</div><br><br><br><br><br><br>
+	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em;">
+	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20111016/OPINION0310/310169985/-1/PRIVACY">Prescription Drug Plans Can Be Daunting</a></span>
 	</div>
 
 </div>
-<br>
 
 
 
@@ -400,7 +585,7 @@ return true
 								<a href="http://www.tylerpaper.com/Contest/contest.html">CONTESTS</a>									
 							</div>
 							<div id="categoryBKG" style="background: url('http://www.tylerpaper.com/graphics/centerSM_blue.gif') top left no-repeat; width: 180px;">					
-							<div id="rightContests" style="width: 175px; height:230px; margin-bottom; 20px; border-bottom: 5px solid darkblue; ">								
+							<div id="rightContests" style="width: 175px; height:230px; margin-bottom; 20px; border-bottom: 5px solid #808080; ">								
 								<div id="contestList" style="margin-top:15px; margin-left:5px; padding-top: 10px; width:170px; height:230; background-color: transparent;">
 								<iframe src="http://www.tylerpaper.com/Contest/contestList.html" width="170" height="200" scrolling="yes" frameborder="0" name="contestList"></iframe>
 								</div>
@@ -413,15 +598,12 @@ return true
 							</div>
 
 							<div id="categoryBKG" style="background: url('http://www.tylerpaper.com/graphics/centerSM_blue.gif') top left no-repeat; width: 180px;">
-								<div id="categoryTopJobs" style="width: 175px; height: 115px; padding-top: 5px; border-bottom: 5px solid darkblue; text-align:left;">						
+								<div id="categoryTopJobs" style="width: 175px; height: 115px; padding-top: 5px; border-bottom: 5px solid #808080; text-align:left;">						
 								<div id="centerRailList">
-								<ul><li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=4100696" target="_blank">Communication Cable Installer</a></li>                          <li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=4104174" target="_blank">Bookkeeper</a></li>                          <li><a href="http://www.thejobnetwork.com/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=4106002" target="_blank">Shipping/Receiving Supervisor</a></li>                          </ul>
+								<ul><li><a href="http://legacy.thejobnetwork.com/candidate/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=8039552" target="_blank">Now Hiring Maintenance Full Time Apply</a></li>                          <li><a href="http://legacy.thejobnetwork.com/candidate/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=8043753" target="_blank">Welder/Fitter Fabricator Needed By Local Mfg</a></li>                          <li><a href="http://legacy.thejobnetwork.com/candidate/default.asp?NoFrameApplay=1&amp;URlType=external&amp;AffiliateID=1495&amp;compPosId=8043756" target="_blank">Greenbrier Nursing of Tyler Is In Need</a></li>                          </ul>
 								</div>							
 								</div>
 							</div>			
-
-
-
 
 						<div id="listingTitle" style="width: 175px; font-family: georgia, serif; font-size: 1em; text-align: left; font-weight:bold; margin-top: 10px; margin-bottom: 0px; margin-left: 10px;">
 								<div id="apLogo" style="float:left; padding-bottom: 5px;">
@@ -431,10 +613,10 @@ return true
 						</div>
 							
 						<div id="categoryBKG" style="background: url('http://www.tylerpaper.com/graphics/centerSM_blue.gif') top left no-repeat; width: 180px;">
-							<div id="categoryTexNews" style="width: 180px; border-bottom: 5px solid darkblue; text-align:left;">
+							<div id="categoryTexNews" style="width: 180px; border-bottom: 5px solid #808080; text-align:left;">
 			
 								<div id="centerRailList" style="margin-top: 10px;">
-								<ul><li><a href="http://hosted.ap.org/dynamic/stories/T/TX_MEXICAN_OFFICIAL_DETAINED_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Mexican official who didn't want asylum released</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_EARNS_ATT_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">AT&amp;T profit dips but wireless results strong</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_FARM_SCENE_HISPANIC_FARMERS_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Hispanic farmers fight to sue USDA over lost land</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/U/US_EARNS_KIMBERLY_CLARK_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Kimberly-Clark 3Q profit rises 41 percent</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/F/FL_CITRUS_SHIPPING_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">USDA ends ban on Florida citrus shipments</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/O/OK_GIRL_KILLED_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">11-year-old found dead was likely strangled</a></li>                          </ul>
+								<ul><li><a href="http://hosted.ap.org/dynamic/stories/U/US_MICHAEL_JACKSON_DOCTOR_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Jackson doctor's defense looms in trial's 4th week</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/T/TX_OCCUPY_FORT_WORTH_ARRESTS_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Occupy Fort Worth protestors arrested</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/T/TX_COLLIN_COUNTY_HISTORY_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Collin County trying to preserve historical record</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/T/TX_HOUSE_FIRE_WOMAN_DIES_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Woman rescued from Seguin house fire dies</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/T/TX_CONSTRUCTION_WORKER_KILLED_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Police say I-45 construction worker killed</a></li>                          <li><a href="http://hosted.ap.org/dynamic/stories/T/TX_WILSON_COUNTY_COURTHOUSE_TXOL-?SITE=TXTYL&amp;SECTION=HOME&amp;TEMPLATE=DEFAULT" target="_blank">Wilson County Courthouse needs extensive repairs</a></li>                          </ul>
 								</div>									
 							</div>
 						</div>
@@ -442,15 +624,15 @@ return true
 					<br>					
 
 					<center>
-					<div id="skyscraperAd" style="background-color: #bfbfbf; width: 175px; height: 620px; padding-top: 10px; border-bottom: 5px solid darkblue;">
+					<div id="skyscraperAd" style="background-color: #bfbfbf; width: 175px; height: 620px; padding-top: 10px; border-bottom: 5px solid #808080;">
 					
-<script language="javascript" type="text/javascript">
+<script type="text/javascript">
 <!--
 var rnd = Math.random() + "";
 var idn = rnd * 100000000000000000;
-document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/50023168422640107/-1/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+document.write('<s'+'cr'+'ip'+'t type'+'="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/20012446294414660/-1/-/;idn=' + idn + ';Type=1?"><\/script>');
 //-->
-</script><script language="JavaScript1.1" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/50023168422640107/-1/-/;idn=99894440014558610;Type=1?"></script>
+</script><script type="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/SKYSCRAPER01/PRIVACY/20012446294414660/-1/-/;idn=26781906616974460;Type=1?"></script>
 		
 					</div>
 					</center>
@@ -458,43 +640,41 @@ document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.s
 					<div id="listingTitle" style="width: 175px; font-family: georgia, serif; font-size: 1em; text-align: left; font-weight:bold; margin-top:10px; margin-bottom: 5px; margin-left: 15px; padding-top: 10px;">
 						<a href="/section/OPINION03"> MORE COLUMNS</a>		
 					</div>
-					<div id="categoryBKG" style="background: url('http://www.tylerpaper.com/graphics/centerSM_blue.gif') top left no-repeat; height: 100%; width: 180px;">
-					<div id="categoryColumns" style="width: 180px;  height: 100%; border-bottom: 5px solid darkblue; text-align: center;">							
+					<div id="categoryBKG" style="background: url('http://www.tylerpaper.com/graphics/centerSM_blue.gif') top left no-repeat; width: 180px;">
+					<div id="categoryColumns" style="width: 180px; border-bottom: 5px solid #808080; text-align: center;">							
 
-							<div id="columnsTitle" style="margin-left: 5px; height: 100%;">		
-							<div id="level2Display" style="margin-left: 10px; margin-bottom: 15px;">
-
-	<div id="leftPhoto" style="float: left; padding-right: 10px; padding-top:20px;">
-	
-	<a href="/article/20091019/OPINION0303/910199985/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20091019&amp;Kategori=OPINION0303&amp;Lopenr=910199985&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
-	</div>
-	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em; padding-top: 25;">
-	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20091019/OPINION0303/910199985/-1/PRIVACY">'Don't Ask' Decision Starts With Citizens</a></span>
-	</div>
-
-</div>
-<br>
-
-
-
-
-
-
-
-
-
-<div id="level2Display" style="margin-left: 10px; margin-bottom: 15px;">
+							<div id="columnsTitle" style="margin-left: 5px; padding-bottom: 15px;">		
+							<div id="level2Display" style="margin-left: 10px; margin-bottom: 5px;">
 
 	<div id="leftPhoto" style="float: left; padding-right: 10px; padding-top:20px;">
 	
-	<a href="/article/20091018/OPINION0330/910170380/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Avis=TP&amp;Dato=20091018&amp;Kategori=OPINION0330&amp;Lopenr=910170380&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
-	</div>
-	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em; padding-top: 25;">
-	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20091018/OPINION0330/910170380/-1/PRIVACY">The Audacity Of Change, Necessity Of Hope</a></span>
+	<a href="/article/20111009/OPINION0330/111009816/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Site=TP&amp;Date=20111009&amp;Category=OPINION0330&amp;ArtNo=111009816&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
+	</div><br><br><br><br><br><br>
+	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em;">
+	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20111009/OPINION0330/111009816/-1/PRIVACY">Recess Not Ritalin</a></span>
 	</div>
 
 </div>
-<br>
+
+
+
+
+
+
+
+
+
+<div id="level2Display" style="margin-left: 10px; margin-bottom: 5px;">
+
+	<div id="leftPhoto" style="float: left; padding-right: 10px; padding-top:20px;">
+	
+	<a href="/article/20111009/OPINION0310/111009827/-1/PRIVACY"><img src="/apps/pbcsi.dll/bilde?Site=TP&amp;Date=20111009&amp;Category=OPINION0310&amp;ArtNo=111009827&amp;Ref=AR&amp;MaxH=80" border="0" alt=""></a>
+	</div><br><br><br><br><br><br>
+	<div id="level2Title" style="text-decoration: none; color: #000000; font-size: .8em;">
+	<span id="title" style="text-decoration: none; color: #000000;"><a href="/article/20111009/OPINION0310/111009827/-1/PRIVACY">Nothing To Fear On Social Security’s Website</a></span>
+	</div>
+
+</div>
 
 
 
@@ -508,696 +688,362 @@ document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.s
 							</div> 
 						</div>
 					</div>
-					
-			</div>
-			<!-- End Center Rail Content -->			 
-		</div>
-		<!--End Middle Content-->
-				
-		<!--Begin Right Rail Content-->
-		<div id="rightCenterContent" style="position:absolute; left:645; top: 145px; width: 330px;">			
-		<div id="rightRail">
-	<div id="housePromos" style="margin-top; 40px; max-width: 320px; height: 130; padding-left: 15px; padding-right: 10px;  border-top: solid darkblue 5px; background-color: #e5e9fb;">		
-				
-				<div id="storiesLevel2" style="padding-top: 15px; text-align: left;">						
-								    		
-				 </div>
-				
-	</div>
-<br>
-	<div id="rectangleAd" style="background-color: #e3deb3; width: 330px; height: 275px; text-align: center; padding-top: 10px; border-bottom: solid darkblue 5px;">
+				</div>
+			</div><!-- End Center Rail Content -->
+			
+			
 		
-<script language="javascript" type="text/javascript">
+		
+						    				    
+</div><!--End Top Left Content-->
+
+		<!--Begin Right Rail Content-->
+		<div id="rightCenterContent" style="float:right; width: 330px; margin-top: -45px; padding-top: 0px;">			
+		<div id="rightRail" style="background-color: #D0D0D0;">
+	<div id="housePromos" style="max-width: 330px; height: 130px; padding-left: 15px; padding-right: 10px; border-top:1px solid #808080; border-right: 1px solid #808080 ; border-bottom: 5px solid #808080; border-left: 1px solid #808080; background-color: #e3deb3;">		
+				
+			<div id="storiesLevel2" style="padding-top: 15px; text-align: left;">						
+				
+<script type="text/javascript">
 <!--
 var rnd = Math.random() + "";
 var idn = rnd * 100000000000000000;
-document.write('<S'+'CR'+'IP'+'T LANGU'+'AGE="JavaScript1.1" SRC="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/50023168422640107/-1/-/;idn=' + idn + ';Type=1?"><\/SCRIPT>');
+document.write('<s'+'cr'+'ip'+'t type'+'="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/BANNER01/PRIVACY/20012446294414660/-1/-/;idn=' + idn + ';Type=1?"><\/script>');
 //-->
-</script><script language="JavaScript1.1" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/50023168422640107/-1/-/;idn=10409819846945446;Type=1?"></script>
+</script><script type="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/BANNER01/PRIVACY/20012446294414660/-1/-/;idn=29803964670913108;Type=1?"></script>
+
+			</div>
+				
+	</div>
+<br>
+	<div id="rectangleAd" style="background-color: #e3deb3; width: 330px; height: 275px; text-align: center; padding-top: 10px; border-top:1px solid #808080; border-right: 1px solid #808080 ; border-bottom: 5px solid #808080; border-left: 1px solid #808080;">
+		
+<script type="text/javascript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 100000000000000000;
+document.write('<s'+'cr'+'ip'+'t type'+'="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/20012446294414660/-1/-/;idn=' + idn + ';Type=1?"><\/script>');
+//-->
+</script><script type="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE01/PRIVACY/20012446294414660/-1/-/;idn=62669561174917400;Type=1?"></script>
 
 	</div>
-<br>	
-<div id="rightFeatures" style="width: 330; height: 300px; background-color: #e3deb3; border-bottom: solid darkblue 5px;">
-	<div id="weather_container" style="width: 330px; background-color: #e3deb3;">
-	<div id="weather_tabs" style="width: 330px; padding-top: 5px;">
-				<ul>					
-					<li id="weathertab" class="tabs_selected"><a href="javascript:void(0);" onclick="switchTabs('weather', ['traffic','webcam','closings']);">PHOTOS</a></li>
-					<li id="traffictab"><a href="javascript:void(0);" onclick="switchTabs('traffic', ['weather','webcam','closings']);">WEATHER</a></li>
-					<li id="webcamtab"><a href="javascript:void(0);" onclick="switchTabs('webcam', ['weather','traffic','closings']);">EVENTS</a></li>
-					<li id="closingstab"><a href="javascript:void(0);" onclick="switchTabs('closings', ['weather','traffic','webcam']);">SUBSCRIBE</a></li>
-				</ul>
-			</div>
-			<div id="weather" class="tab_body">
+<br>
+	
+<div id="rightFeatures" style="width: 330px; background-color: #e3deb3;">
+<div id="weather_container" style="width: 330px; background-color: #e3deb3; padding: 10px 0px 15px 0px; border-top:1px solid #808080; border-right: 1px solid #808080 ; border-bottom: 5px solid #808080; border-left: 1px solid #808080;">
+	
+		<ol id="toc2">
+			    <li><a href="#page-11" class=" active"><span>Photos</span></a></li>
+			    <li><a href="#page-12" class=" inactive"><span>Weather</span></a></li>
+			    <li><a href="#page-13" class=" inactive"><span>GoGuide</span></a></li>
+				<li><a href="#page-14" class=" inactive"><span>Subscribe</span></a></li>
+			</ol>
+	
+<div class="content active" id="page-11">
 			<!--Begin Spotted-->
-			<center><div id="spottedPhotos" style="margin-top: 0px; margin-left: 5px; background-color: #e3deb3;">			
-			<div id="topThumbnails" style="float:left; width: 300px; margin-left: 7px; margin-top: 10px; font-size: .7em;">
-				<div id="thumbGal1" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328953"><img src="/graphics/spotted1.gif" width="85" height="85"><br>Mineola vs. Van 7th-8th Grade Football</a></center></div>				
-				<div id="thumbGal2" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328508"><img src="/graphics/spotted2.gif" width="85" height="85"><br>2009 Rose Festival Parade</a></center></div>								
-				<div id="thumbGal3" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328903"><img src="/graphics/spotted3.gif" width="85" height="85"><br>Mineola at Van Football</a></center></div>				
+			
+		<div id="spottedPhotos" style="background-color: #e3deb3;">			
+			<div id="topThumbnails" style="float:left; width: 300px; margin-top: 10px;  margin-left: 30px;  font-size: .7em;">
+				<div id="thumbGal1" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=349063"><img src="/graphics/spotted1.gif" width="85" height="85"><br>Brook Hill School Founders Day</a></center></div>
+				<div id="thumbGal2" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=349348"><img src="/graphics/spotted2.gif" width="85" height="85"><br>Whitehouse Chamber of Commerce Awards &amp; Debate</a></center></div>
+				<div id="thumbGal3" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=349168"><img src="/graphics/spotted3.gif" width="85" height="85"><br>Hispanic Business Achievers Awards</a></center></div>
 			</div>
 			<div class="clear:both"></div>
-			<div id="topThumbnails" style="float:left; width: 300px; margin-left: 7px; margin-top: 5px; font-size: .7em;">
-				<div id="thumbGal4" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=328893"><img src="/graphics/spotted4.gif" width="85" height="85"><br>Light The Night Walk</a></center></div>
-				<div id="thumbGal5" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=329108"><img src="/graphics/spotted5.gif" width="85" height="85"><br>Gold Rush Monster Bash 2009</a></center></div>
-				<div id="thumbGal6" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=329208"><img src="/graphics/spotted6.gif" width="85" height="85"><br>Whitehouse Chamber Awards Banquet</a></center></div>
+			<div id="topThumbnails" style="float:left; width: 300px; margin-top: 10px; margin-left: 30px; font-size: .7em;">
+				<div id="thumbGal4" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=349223"><img src="/graphics/spotted4.gif" width="85" height="85"><br>Whitehouse vs. Nacogdoches 9th Grade Football</a></center></div>
+				<div id="thumbGal5" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=349213"><img src="/graphics/spotted5.gif" width="85" height="85"><br>Rose Festival Ribbon Cutting</a></center></div>
+				<div id="thumbGal6" style="float:left; width: 90px;"><center><a href="http://spotted.tylerpaper.com/galleries/index.php?id=349228"><img src="/graphics/spotted6.gif" width="85" height="85"><br>TCCA Presents Billy Dean</a></center></div>
 			</div>
-			</div></center>
-			<!-- End Spotted -->
-			</div>
-			
-			<!--Begin Weather-->
-			<div id="traffic" class="tab_body" style="text-align: center;">
-				<!--Begin Weather-->
-				<div id="weatherForecast" style="width: 330px;  background-color: #e3deb3;">
-					<div id="forecastContainer" style="width: 300px; padding-top: 10px; margin-left: 15px;">
+		</div>
+			<!-- End Spotted Photos-->
+	</div><!--end page 1-->
+	
+	<!--Begin CBS19 Weather Video-->
+<div class="content inactive" id="page-12">		
+			<div id="weatherForecast" style="width: 330px;  background-color: #e3deb3;">
+				<div id="forecastContainer" style="width: 300px; margin-left: 15px;">
 					<div id="threedayForecast" style="width: 300px;">					
-						<embed src="http://tpstage.sx.atl.publicus.com/3Day_Forecast/3_day_forecast.swf" quality="high" bgcolor="#ffffff" width="300" height="250" name="3_day_forecast" align="middle" allowscriptaccess="sameDomain" allowfullscreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
-						<div id="weatherLink" style="width: 300px; font-size: .7em; font-style: bold; text-align: center; text-decoration: none;">						
-						<a href="http://www.tylerpaper.com/weather/">Complete Weather &gt;&gt;</a>
+						
+<script type="text/javascript">
+<!--
+var rnd = Math.random() + "";
+var idn = rnd * 100000000000000000;
+document.write('<s'+'cr'+'ip'+'t type'+'="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE04/PRIVACY/20012446294414660/-1/-/;idn=' + idn + ';Type=1?"><\/script>');
+//-->
+</script><script type="text/javascript" src="http://TPads.sx.atl.publicus.com/apps/OAMS.dll/src/TP001/RECTANGLE04/PRIVACY/20012446294414660/-1/-/;idn=27822981005756508;Type=1?"></script>
+
+						<div id="weatherLink" style="width: 300px; font-size: .7em; font-weight: bold; text-align: center; text-decoration: none;">
+						<a href="http://www.tylerpaper.com/weather/">TylerPaper.com Complete Weather &gt;&gt;</a>
 						</div>
 					</div>
-					</div>
 				</div>
-				<!-- End Weather -->						
-			</div>
-			
-			<!--Begin Event Calendar-->
-			<div id="webcam" class="tab_body">
-				<table width="330"><tbody><tr><td style="font-size: .8em; tex-align: center; width: 285px; margin-left: 10px; padding-left: 15px; margin-top: -5px;">
-				Looking for local event? Click on dates below to see listings of current events or&nbsp;<a href="/section/EVENTS/">click here &gt;&gt;&gt;&nbsp;</a>to add your events to the calendar.
-				</td></tr>
-				<tr><td>
-				<center>
-				<div class="Calendar">
-					
-<script>
-  function calChange(cmonth) {
-    a = window.location.search.substr(1).split("&");
-    var found = false;
-    for (var i=0; i<a.length; i++) {
-      if (a[i].substr(0,8).toLowerCase() == "caldate=") {
-        a[i] = "CalDate=" + cmonth;
-        found = true;
-      }
-    }
-    if (!found) {
-      a.length++;
-      a[a.length-1] = "CalDate=" + cmonth;
-    }
-    window.location.search = "?" + a.join("&");
-  }
-</script>
-<table cellspacing="0" cellpadding="2" border="0" class="box" style="width: 230px;">
-<tbody><tr class="dkredhed">
-<td colspan="7" align="center" bgcolor="darkblue"><b>Browse Event Calendar</b></td>
-</tr>
-<tr>
-<td colspan="7" align="center" bgcolor="#e4e4e4"><b><font size=".8em" color="#000699">October - 2009</font></b></td>
-</tr>
-<tr class="calendarhed">
-<td align="left" colspan="3" class="calendarhed">
-
-« <a class="calendarhed" href="javascript:calChange('200909')">
-September
-</a>
-
-</td>
-<td class="calendarhed">&nbsp;</td>
-<td align="right" colspan="3" class="calendarhed">
-
-<a class="calendarhed" href="javascript:calChange('200911')">
-November »
-</a>
-
-</td>
-</tr>
-<tr class="box2">
-<td>Sun</td>
-<td>Mon</td>
-<td>Tue</td>
-<td>Wed</td>
-<td>Thu</td>
-<td>Fri</td>
-<td>Sat</td>
-</tr>
-<tr bgcolor="#EEEEEE">
-	  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091001&amp;CalDate=20091001">
-        1
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091002&amp;CalDate=20091002">
-        2
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091003&amp;CalDate=20091003">
-        3
-        </a>
-        
-               
-      </td>
-</tr><tr bgcolor="#EEEEEE">
-	  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091004&amp;CalDate=20091004">
-        4
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091005&amp;CalDate=20091005">
-        5
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091006&amp;CalDate=20091006">
-        6
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091007&amp;CalDate=20091007">
-        7
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091008&amp;CalDate=20091008">
-        8
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091009&amp;CalDate=20091009">
-        9
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091010&amp;CalDate=20091010">
-        10
-        </a>
-        
-               
-      </td>
-</tr><tr bgcolor="#EEEEEE">
-	  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091011&amp;CalDate=20091011">
-        11
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091012&amp;CalDate=20091012">
-        12
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091013&amp;CalDate=20091013">
-        13
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091014&amp;CalDate=20091014">
-        14
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091015&amp;CalDate=20091015">
-        15
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091016&amp;CalDate=20091016">
-        16
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091017&amp;CalDate=20091017">
-        17
-        </a>
-        
-               
-      </td>
-</tr><tr bgcolor="#cccccc">
-	  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091018&amp;CalDate=20091018">
-        18
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091019&amp;CalDate=20091019">
-        19
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091020&amp;CalDate=20091020">
-        20
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091021&amp;CalDate=20091021">
-        21
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091022&amp;CalDate=20091022">
-        22
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091023&amp;CalDate=20091023">
-        23
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091024&amp;CalDate=20091024">
-        24
-        </a>
-        
-               
-      </td>
-</tr><tr bgcolor="#EEEEEE">
-	  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091025&amp;CalDate=20091025">
-        25
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091026&amp;CalDate=20091026">
-        26
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091027&amp;CalDate=20091027">
-        27
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091028&amp;CalDate=20091028">
-        28
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091029&amp;CalDate=20091029">
-        29
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091030&amp;CalDate=20091030">
-        30
-        </a>
-        
-               
-      </td>  
-	  <td width="20" class="small" align="center" bgcolor="#EEEEEE">
-	  	
-        
-        <a href="/apps/pbcs.dll/events?Category=EVENTS&amp;Date=20091031&amp;CalDate=20091031">
-        31
-        </a>
-        
-               
-      </td>
-</tr>
-</tbody></table>
-
-
-				</div></center>
-				</td></tr>
-				</tbody></table>	
-			</div>
-			
-			<!--Begin Subscribe-->
-				<div id="closings" class="tab_body">
-					<center><div id="servicesContent" style="font-size: .8em; width: 290px; text-align: center; margin-left: 15px; margin-top: 20px;">
-					<table><tbody><tr><td style="text-align: center;">
-					<a href="http://www.tylerpaper.com/section/Circulation"><center><img src="http://www.tylerpaper.com/graphics/subscribe2.jpg" width="216" height="70"></center></a>
-					</td></tr>
-					<tr><td style="text-align: center;">
-					<a href="http://www.tylerpaper.com/section/Circulation"><small>Questions or Problems With Delivery?</small></a>
-					</td></tr>					
-					</tbody></table>
-					</div></center>
-				</div>
-</div>
-</div>
-			<div id="rightRailTitle" style="width:330px; background-color:#FFFFFF; color: #215e94; margin-top: 20px; text-align: left; font-family: georgia, serif; font-weight:bold; padding-left: 20px;">
-			MORE NEWS
-			</div>
-		<div id="rightInTheNews" style="width: 330; height: 625; text-align: left; margin-top: 5px; border-bottom: solid darkblue 5px; background-color: #e3deb3;">				
-			<div id="latestTylerTalk" style="width: 290px; float: left; font-weight: normal; margin-left: 10px; margin-top: 15px;">
-				<div class="leftCenterTitle" style="width: 290; font-size: .8em;"><a href="/apps/pbcs.dll/news_themes?Category=PHPForums&amp;ShowGroups=1">Latest Tyler Talk</a></div>
-					<div id="commentsList" style="padding: 10px 10px 10px 0px; width: 290px; font-size: .8em;">
-						<table><tbody><tr><td style="font-size:.8em; font-weight:normal;">October 21: Health Bill Says Something About All Of Us<br>
-<a href="/forum_message/2559t805860g570125i/PRIVACY">satisfactory, sufficient, enough or excellent, distinguished, unrivaled, first-rate, matchless?</a> - <b><small>10/21/09 08:54:00 PM</small></b></td></tr>
-
-<tr><td style="font-size:.8em; font-weight:normal;">October 20: Demonic Activity<br>
-<a href="/forum_message/2561t802059g570048i/PRIVACY">re: Demons and such....</a> - <b><small>10/21/09 07:26:00 PM</small></b></td></tr>
-
-<tr><td style="font-size:.8em; font-weight:normal;">October 20: Insurance Nightmare<br>
-<a href="/forum_message/2561t801585g569884i/PRIVACY">You're Kidding</a> - <b><small>10/21/09 05:15:00 PM</small></b></td></tr>
-
-<tr><td style="font-size:.8em; font-weight:normal;">October 20: Demonic Activity<br>
-<a href="/forum_message/2561t802059g569850i/PRIVACY">One Experience</a> - <b><small>10/21/09 04:51:00 PM</small></b></td></tr>
-
-<tr><td style="font-size:.8em; font-weight:normal;">October 20: Demonic Activity<br>
-<a href="/forum_message/2561t802059g569340i/PRIVACY">Don't answer that door</a> - <b><small>10/21/09 10:43:00 AM</small></b></td></tr>
-
-<tr><td style="font-size:.8em; font-weight:normal;">Man Shot By Homeowner While Trying To Break In House<br>
-<a href="/forum_message/2354t804272g569336i/PRIVACY">Swift justice</a> - <b><small>10/21/09 10:39:00 AM</small></b></td></tr>
-
-</tbody></table>
-					</div>			
-			</div>
-			<div class="leftCenterTitle" style="margin-left: 15px; font-style: normal; width: 300; text-align: left;"><a href="/section/NEWS">Top 5 Most Read Articles</a></div>
-				<div id="topReadStories" style="font-size: .8em; font-weight: normal; font-style: normal; margin-top: 0px; margin-left: 0px; float: left; text-align: left; width: 315px;">						
-					<div id="topReadStoryList" style="list-style: none; position: outside;">
-<ul><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091021/NEWS08/910219992/0/PRIVACY">Capital Murder Trial Resumes After Threat Made Outside Courtroom</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/21/09</span></li>
-</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS08/910220324/0/PRIVACY">Testimony Continues In Day Three Of Capital Murder Trial</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
-</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS01/910220310/0/PRIVACY">Bullard Red, White And Blue Festival Approaching</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
-</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS08/910220348/0/PRIVACY">Patients Hit Web To Seek Top Care, Travel To Tyler To Get It</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
-</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
-<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20091022/NEWS01/910220322/0/PRIVACY">Upshur County Man Gets 15 Months For DWI</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/22/09</span></li>
-</div></ul>
-</div>
-				</div>							
-		</div>	
+			</div>	
+	</div>
+	<!-- End Weather -->	
 	
-	
-		<div id="rightRailTitle" style="width:330px; background-color:#FFFFFF; color: #215e94; margin-top: 10px; text-align: left; font-style: normal; font-family: georgia, serif; font-weight:bold; padding-left: 20px;">
-		MULTIMEDIA
-		</div>
-		<div id="rightMulti" style="width: 330; height: 440; margin-top: 5px; border-bottom: solid darkblue 5px; background-color: #e3deb3;">		
-						
-								<!--Begin Media Badge-->
-								<style type="text/css">
-								#cj-portal-link{display:block; text-align:center; font: 10px Arial, Helvetica, Sans serif; font-weight: bold; color:#000;}
-								#cj-media-badge-container a:hover,
-								#cj-media-badge-container a:link,
-								#cj-media-badge-container a:active,
-								#cj-media-badge-container a:visited {text-decoration:none !important; background:inherit !important; color:#000; }
-								#cj-media-badge{background-color: #fff; border: solid 1px #000;}
-								.cj-media-badge-thumbnail img{border: solid 1px #000;}
-								#cj-media-badge-source{padding:0; font: 11px Arial, Helvetica, Sans serif; color:#000;}
-								#cj-media-badge-source-link {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#999;}
-								 </style>
-							<center><div id="videoThumbs" style="margin-top: 5px; padding-bottom: 5px; padding-left: 10px;">		 
-					      			<table id="cj-media-badge-container" cellpadding="0" cellspacing="2" border="0" width="290" style="margin-top:1px;">
-								<tbody><tr><td width="100" text-align="center" valign="bottom" style="padding-top: 0px; vertical-align:bottom;"><a href:"http:="" www.tylertube.com=""><img src="/graphics/TylerTube.gif"></a></td>
-					        		<td valign="bottom" text-align="center">
-					
-					            		<a id="cj-portal-link" href="http://www.tylertube.com"><br>See More Video &gt;&gt;</a>
-									</td>
-									</tr>
-									<tr>
-									<td colspan="2">
-					                		<table id="cj-media-badge" cellpadding="0" border="0" cellspacing="9">
-					                    	<tbody><tr>
-					             		<script type="text/javascript" src="http://www.tylertube.com/Syndication/MediaBadgeGenerator.aspx?type=recently-added&amp;layout=h&amp;max-items=3"></script>
-					
-					                      	<td id="cj-media-badge-source" valign="center" align="center">
-									</td>                            
-					                  		</tr>
-							    		</tbody></table>
-									</td>
-									</tr>
-									</tbody></table>				 
-							</div></center>
-							
-							<div id="featuredPlayer" style="margin-top: 0px; padding-top: 5px;">
-							<embed src="http://www.tylertube.com/Media/FlashPlayers/mediaplayer.swf" width="315" height="240" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" flashvars="file=http://www.tylertube.com/MixedMediaPlaylist.aspx?m=5&amp;shuffle=false&amp;shownavigation=true&amp;height=212&amp;width=256&amp;lightcolor=0x990066&amp;autostart=false&amp;repeat=list&amp;rotatetime=6&amp;linkfromdisplay=true&amp;transition=fade&amp;volume=0">
-							</div>
-					 
-		</div>
-		<!-- End Media Badge -->	
-		<div id="rightRailTitle" style="width:330px; background-color:#FFFFFF; color: #215e94; margin-top: 5px; text-align: left; font-style: normal; font-family: georgia, serif; font-weight:bold; padding-left: 20px;">
-			POLLS &amp; QUIZZES
-		</div>
-				<div id="rightPolls" style="width: 330px; height: 260px; background-color: #e3deb3; margin-top: 10px; border-bottom: solid darkblue 5px;">
-					<div id="miniPoll" style="margin-top: 10px; padding-top: 5px;">
-					<strong><small>What's Your Opinion?</small></strong>
-					<hr width="275" color="darkred">
-					<style type="text/css">
-	div.ovrRightBoxContent			{ font-size:.8em;font-weight:normal;font-family: Helvetica, Verdana, sans-serif;width:250}
-	div.ovrRightBoxContent li			{ font-weight:normal;color:darkred;list-style-type:none; }
-	div.more 									{ color:darkred; font-size:.9em; padding-top:20px;}
-</style>
-		<div class="ovrRightBoxContent">
-		Should America Rise Up To Go Forward In Space?<br>
-		<img src="/apps/chart.dll/tinystat?Labels=%22Yes%22%20%22No%22&amp;Values=168,59&amp;Values=168,59&amp;Width=200&amp;Height=150&amp;3D=0" border="0" alt="">		
-
-
-					</div>	
-				</div>
+	<!--Begin Events-->
+<div class="content inactive" id="page-13">
+		<div id="goGuide" style="font-size: .8em; text-align: center; width:320px; padding: 0px 0px 10px 5px;">
+				<a href="http://www.tylerpaper.net/WebCalendar/day.php"><img src="/graphics/goGuideSM.gif" border="0"></a>
 		
+			<div id="goguideCalendar" style="width: 320px; padding-bottom: 10px;">
+				<iframe name="goguideCalendar" width="300" height="170" scrolling="no" src="http://www.tylerpaper.info/GoGuide/minical.php"></iframe>
+	    	</div>
+				To view events or add an event click on the date in the calendar above.
+		</div>		
+	</div>	
+
+	<!--Begin Subscribe-->
+	<div class="content inactive" id="page-14">
+			
+		<div id="servicesContent" style="font-size: .8em; width: 290px;  margin-left: 40px; margin-top: 20px;">
+			<table><tbody><tr><td>
+			<center><a href="http://www.tylerpaper.com/section/Circulation"><img src="http://www.tylerpaper.com/graphics/subscribe2.jpg" width="216" height="70"></a></center>
+			</td></tr>
+			<tr><td style="text-align: center;">
+			<a href="http://www.tylerpaper.com/section/Circulation"><small>Questions or Problems With Delivery?</small></a>
+			</td></tr>
+			</tbody></table>
+		</div><!--end Services content-->
 		
-			<br>
+	</div><!--end page 14 content-->
 	
 	</div>
+</div>
 
-<!--end page content-->
+	   <script type="text/javascript" src="/includes/activatables.js"></script>
+      <script type="text/javascript">
+      activatables('page', ['page-11', 'page-12', 'page-13', 'page-14']);
+      </script>
+
+	<br clear="all">
+	<div id="facebookWidget" style="width: 330px; margin-top: 25px; text-align: center; background-color: #e3deb3; border-top:1px solid #808080; border-right: 1px solid #808080 ; border-bottom: 5px solid #808080; border-left: 1px solid #808080; padding: 10px 0px 15px 0px;">
+		<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("a9d92ba216c544f61a752bf756df9a10");</script><fb:fan profile_id="247534773677" stream="0" connections="0" logobar="1" width="300"></fb:fan><div style="font-size:10px;"><a href="http://www.facebook.com/pages/Tyler-TX/TylerPaper/247534773677">TylerPaper on Facebook</a> </div>
+	
+	</div>
+			
+			<div id="rightRailTitle" style="width:330px; line-height: 14px; background-image: url('/graphics/title_328_blue.jpg'); background-repeat: no-repeat; text-align: left; font-weight:bold; margin: 10px 0px 0px 0px; padding: 5px 0px 10px 15px;">
+			<span style="color: #fff;">More News</span>
+			</div>
+		
+<div id="rightInTheNews" style="width: 330px; text-align: left; padding-top: 15px; margin-top: 5px; border-top:1px solid #808080; border-right: 1px solid #808080 ; border-bottom: 5px solid #808080; border-left: 1px solid #808080; background-color: #e3deb3;">				
+    				
+                    <div class="leftCenterTitle" style="margin-left: 15px; font-style: normal; width: 250px; text-align: left;">
+    					 <a href="http://www.tylerpaper.com">Latest Tyler Talk</a>
+    				</div>
+					<div id="listComments" style="padding: 10px 10px 10px 15px; width: 290px; font-size: .8em;">
+						<table width="320">
+								
+</table><table><tbody><tr>
+<td style="font-size:.8empx; font-weight:normal; margin-bottom: 10px;">
+<div id="commentsList" style="width:300px; text-align:top; padding-bottom: 7px;">
+Taxpayer Sees Problems In ESD Dealings, Oct. 12<br>
+<a href="/forum_message/2559t1157999g1078402i/PRIVACY">Mr. Robert Dear's Letter to the Editor</a> - <b><small>10/14/11 09:03:00 AM</small></b>
+</div>
+</td></tr>
+</tbody></table>
+							<table><tbody><tr>
+<td style="font-size:.8empx; font-weight:normal; margin-bottom: 10px;">
+<div id="commentsList" style="width:300px; text-align:top; padding-bottom: 7px;">
+Girl, Allegedly Raped Repeatedly, Testifies An Angel Gave Her Courage To Tell<br>
+<a href="/forum_message/2351t1158111g1078250i/PRIVACY">(No heading)</a> - <b><small>10/13/11 07:02:00 AM</small></b>
+</div>
+</td></tr>
+</tbody></table>
+							<table><tbody><tr>
+<td style="font-size:.8empx; font-weight:normal; margin-bottom: 10px;">
+<div id="commentsList" style="width:300px; text-align:top; padding-bottom: 7px;">
+Taxpayer Sees Problems In ESD Dealings, Oct. 12<br>
+<a href="/forum_message/2559t1157999g1078212i/PRIVACY">Sir, you are mistaken</a> - <b><small>10/12/11 04:15:00 PM</small></b>
+</div>
+</td></tr>
+</tbody></table>
+							<table><tbody><tr>
+<td style="font-size:.8empx; font-weight:normal; margin-bottom: 10px;">
+<div id="commentsList" style="width:300px; text-align:top; padding-bottom: 7px;">
+Recess Not Ritalin<br>
+<a href="/forum_message/3661t1158029g1078188i/PRIVACY">Recess not Ritalin</a> - <b><small>10/12/11 01:35:00 PM</small></b>
+</div>
+</td></tr>
+</tbody></table>
+							<table><tbody><tr>
+<td style="font-size:.8empx; font-weight:normal; margin-bottom: 10px;">
+<div id="commentsList" style="width:300px; text-align:top; padding-bottom: 7px;">
+Man Pleads Guilty To Defrauding Investors of $465,000<br>
+<a href="/forum_message/2351t1157928g1078109i/PRIVACY">(No heading)</a> - <b><small>10/11/11 03:40:00 PM</small></b>
+</div>
+</td></tr>
+</tbody></table>
+							<table><tbody><tr>
+<td style="font-size:.8empx; font-weight:normal; margin-bottom: 10px;">
+<div id="commentsList" style="width:300px; text-align:top; padding-bottom: 7px;">
+Protest Goals, Oct. 9<br>
+<a href="/forum_message/2559t1157815g1078015i/PRIVACY">Misplaced Anger</a> - <b><small>10/10/11 05:00:00 PM</small></b>
+</div>
+</td></tr>
+</tbody></table>
+							<table><tbody><tr>
+<td style="font-size:.8empx; font-weight:normal; margin-bottom: 10px;">
+<div id="commentsList" style="width:300px; text-align:top; padding-bottom: 7px;">
+Taking Fancy To Gridlock May Be Right Thing To Do<br>
+<a href="/forum_message/2891t1157814g1078007i/PRIVACY">Gridlock Can't Go On Indefinitely</a> - <b><small>10/10/11 04:01:00 PM</small></b>
+</div>
+</td></tr>
+</tbody></table>
+							
+<br>
+
+									
+					</div>			
+					<div class="leftCenterTitle" style="margin-left: 15px; font-style: normal; width: 250px; text-align: left;">
+            			 <a href="/section/NEWS">Top 5 Most Read Articles</a>
+            		</div>
+					<div id="topReadStories" style="font-size: .8em; margin-top: 10px; margin-left: 0px; text-align: left; width: 315px;">						
+						 	<div id="topReadStoryList" style="list-style: none; position: outside;">
+<ul><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20111014/NEWS01/111019890/0/PRIVACY">Wounded Warrior Project Hosting Inspirational Storyteller Tuesday</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/14/11</span></li>
+</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20111016/NEWS08/111019852/0/PRIVACY">Man Dies After Camper Trailer Fire</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/16/11</span></li>
+</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20111012/NEWS08/111019943/0/PRIVACY">Murder Suspect Makes First Court Appearance; Judge Appoints Lawyer</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/12/11</span></li>
+</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20111016/NEWS08/310169989/0/PRIVACY">‘Occupy Tyler' Event Sees Protesters Downtown</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/16/11</span></li>
+</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20111016/NEWS01/111019829/0/PRIVACY">Upshur GOP Precinct Leaders  Vote To Investigate Chairman</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/16/11</span></li>
+</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20111015/NEWS01/111019860/0/PRIVACY">Longtime Lindale High School Band Director Dies At Age 69</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/15/11</span></li>
+</div><div id="mostReadAtricles" style="list-style: none; position: outside; margin-left: -25px; padding-top: 5px; padding-bottom: 5px;">
+<li><span class="mostTitle" style="font-weight: normal; font-style: normal;"><a href="/article/20111015/NEWS01/111019862/0/PRIVACY">Investigation Ongoing  In Longview Fatal Shooting</a></span><span class="date" style="font-size: .7em; color: #eoeoeo;">&nbsp;&nbsp;&nbsp;10/15/11</span></li>
+</div></ul>
+</div>
+					</div>  				
+</div>							
+
+                <!-- Begin Upcoming Events -->
+		<div id="rightRailTitle" style="width:330px; line-height: 14px; background-image: url('/graphics/title_328_blue.jpg'); background-repeat: no-repeat; text-align: left; font-weight:bold; margin: 10px 0px 0px 0px; padding: 5px 0px 10px 15px;">
+			<span style="color: #fff;">Upcoming Events</span>
+			</div>
+				<div id="upcomingEventsList" style="width: 330px; background-color:#e3deb3; border-top:1px solid #808080; border-right: 1px solid #808080 ; border-bottom: 5px solid #808080; border-left: 1px solid #808080; margin-top: 5px; padding: 10px 0px 15px 0px;">
+		<iframe src="http://www.tylerpaper.info/GoGuide/upcoming.php?showTitle=true&amp;upcoming_title=GoGuide+Upcoming+Events&amp;showMore=false&amp;showTime=true&amp;UPCOMING_DISPLAY_POPUPS=N&amp;showPopups=false&amp;maxEvents=50" width="300px" height="250px" align="center" marginwidth="0" frameborder="0" scrolling="auto"></iframe>
+		</div>
+		<!-- End Upcoming Events-->
+
+</div><!--end page content-->
  		</div>
  		<!--End Right Rail Content-->
-			
- 		<br clear="all">
- 	
-			 	
- 	
- 	<!--</div>--><!--end center cont-->	
+
+</div><!--end main content-->
+ 		
  	<br clear="all">
  	<!--Begin Bottom Footer-->
-			<div id="footerBottomLinks">
-				<div id="footerBottom" style="text-align: center; padding: 10px 0 0 0;  width: 965px;">
-	<center><div id="linkListings">
-		<div id="linkListingsTitle" style="width: 930px; font-size: .9em; text-align: center; color: #ffffff;">Site Map</div>		
+			<div id="bottomFooter" style="float:left; width: 965px; margin: 15px 0px 0px 10px;  border: solid #808080 5px;">
+				<div id="footerSitemap" style="padding: 10px 0px 5px 0px; width: 965px; font-size: .9em; color:#FFFFFF; background-color: #1e4262;">
+	<div id="linkListingsTitle" style="width: 965px; text-align: center; font-size: 1em; font-weight:bold; color: #ffffff;">Site Map</div>
+	
+	<div id="sitemapLinks" style="width: 965px; text-align:left; font-size: .8em; margin-left:20px;">
 		<table>
 					<tbody><tr>
-					<td width="90" valign="top">
-										<a href="http://autos.tylerpaper.com/" target="_blank">Autos</a><br>
-										<a href="http://www.tylerjobs.com/" target="_blank">Tyler Jobs</a><br>
-										<a href="http://shopping.tylerpaper.com/class/ClassifiedAds.aspx?scid=900" target="_blank">Real Estate</a><br>
-										<a href="http://shopping.tylerpaper.com/CLASS/PClass.aspx" target="_blank">Classifieds</a><br>
-										<a href="http://shopping.tylerpaper.com/portal/portal.aspx" target="_blank">Local Shopping</a><br>
-										<a href="http://shopping.tylerpaper.com/ROP/Subcat.aspx?cat=3328&amp;subcat=3352" target="_blank">Coupons</a><br>
-									</td>
-									<td width="85" valign="top">
-										<a href="http://obituaries.tylerpaper.com/TylerPaper/Obituaries.asp" target="_blank">Obituaries</a><br>
-										<a href="/section/OBITUARY01/">Death Notices</a><br>
-										<a href="/section/NEWS">News</a><br>
-										<a href="/section/OPINION">Opinion</a><br>
-										<a href="/section/BUSINESS">Business</a><br>
-										<a href="/section/RELIGION">Religion</a><br>
-									</td>
-									<td width="90" valign="top">
-										<a href="/section/FINANCE">Financial News</a><br>
-										<a href="/section/SPORTS">Sports</a><br>
-										<a href="/section/SPORTS05">HS Sports</a><br>
-										<a href="/section/SPORTS06">College Sports</a><br>
-										<a href="/section/SPORTS07">Golf</a><br>
-										<a href="/section/SPORTS02">Outdoors</a><br>
-									</td>
-									<td width="120" valign="top">
-										<a href="/section/FEATURES07">Arts/Entertainment</a><br>
-										<a href="http://celebrations.tylerpaper.com/TylerPaper/Celebrations.asp" target="_blank">Celebrations</a><br>
-										<a href="/section/FEATURES">East Texas Life</a><br>
-										<a href="/section/FEATURES06">Food</a><br>
-										<a href="/section/FEATURES02">Rose Festival</a><br>
-										<a href="/section/FEATURES09">Komen Race</a><br>
-									</td>
-									<td width="120" valign="top">
-										<a href="/section/FEATURES08">Clubs/Organizations</a><br>
-										<a href="/section/SERVICES08">Community Resources</a><br>
-										<a href="/section/EVENTS">Event Calendar</a><br>
-										<a href="http://spotted.tylerpaper.com" target="_blank">Photo Galleries</a><br>
-										<a href="http://www.tylertube.com" target="_blank">TylerTube</a><br>
-										<a href="/section/ENEWSLETTER">Email Newsletter</a><br>
-									</td>
-									<td width="120" valign="top">
-										<a href="http://www.tylerpaper.com/weather/">ET Weather</a><br>
-										<a href="/section/NEWS0202">Bob Peters Forecast</a><br>
-										<a href="http://tyler.zebramm.com" target="_blank">Mobile Edition</a><br>
-										<a href="/section/RSS">RSS Feeds</a><br>
-										<a href="/section/CONTACT">Contact Us</a><br>
-										<a href="/section/CAREERS">TylerPaper Jobs</a><br>
-									</td>
-									<td width="90" valign="top">
-										<a href="/section/TWITTER">Twitter</a><br>
-										<a href="/section/FAQ">FAQ</a><br>
-										<a href="/section/HISTORY">About Us</a><br>
-										<a href="/section/SERVICES02">Who We Are</a><br>
-										<a href="/section/CIRCULATION">Subscribe</a><br>
-										<a href="http://66.76.81.91/webads/" target="_blank">Place An Ad</a><br>
-									</td>
-									<td width="110" valign="top">
-										<a href="/section/COPYRIGHT">Copyright Policy</a><br>
-										<a href="/section/PRIVACY">Privacy Policy</a><br>
-										<a href="/section/USE">Authorized Use Agreement</a><br>
-										<a href="/section/CONDITIONS">Terms/Conditions of Use</a><br>
-									</td>
-								</tr>
-						<tr><td colspan="8">
-						<div id="copyrightText" style="text-align: center; color: #ffffff; font-size: .7em; font-weight: normal; padding-top:5px; padding-bottom: 10px;">
-							<p> ©2009 TylerPaper.com/Tyler Morning Telegraph<br>410 W. Erwin St., Tyler, Texas 75702  All Rights Reserved</p>
-						</div>
-						</td></tr><tr>
-			</tr></tbody></table>
-	</div></center>		
+					<td width="120" valign="top">
+	<a href="http://autos.tylerpaper.com">Autos</a><br>
+    <a href="http://www.tylerjobs.com">Employment</a><br>
+    <a href="http://shopping.tylerpaper.com/class/ClassifiedAds.aspx?scid=900">Real Estate</a><br>
+    <a href="http://shopping.tylerpaper.com/CLASS/PClass.aspx">Classifieds</a><br>
+    <a href="http://66.76.81.91/webads/">Place An Ad</a><br>
+    <a href="http://www.tylerpaper.com/section/CIRCULATION">Subscribe Now</a><br>
+    <a href="http://www.tylerpaper.com/weather">Weather</a><br>
+    <a href="http://www.tylerpaper.com/section/NEWS0203">CBS 19 Forecast</a><br>
+</td>
+<td width="120" valign="top">
+	<a href="http://www.tylerpaper.com/section/NEWS">News</a><br>
+    <a href="http://www.tylerpaper.com/section/NEWS08">Tyler News</a><br>
+    <a href="http://www.tylerpaper.com/section/NEWS01">East TX News</a><br>
+    <a href="http://www.tylerpaper.com/section/NEWS09">Health</a><br>
+    <a href="http://www.tylerpaper.com/section/BUSINESS">Business</a><br>
+    <a href="http://obituaries.tylerpaper.com">Obituaries</a><br>
+    <a href="http://www.tylerpaper.com/section/OBITUARY01">Death Notices</a><br>
+    <a href="http://www.tylerpaper.com/section/RELIGION">Religion</a><br>
+</td>
+<td width="120" valign="top">
+	<a href="http://www.etfinalscore.com/">Sports</a><br>
+    <a href="http://www.etfinalscore.com/">Local Sports</a><br>
+    <a href="http://www.etfinalscore.com/">High School Sports</a><br>
+    <a href="http://www.etfinalscore.com/">College Sports</a><br>
+    <a href="http://www.tylerpaper.com/section/SPORTS02">Outdoors</a><br>
+    <a href="http://www.etfinalscore.com/&quot;">Sports Columns</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES04">Travel</a><br>
+</td>
+<td width="120" valign="top">
+	<a href="http://www.tylerpaper.com/section/OPINION">Opinion</a><br>
+    <a href="http://www.tylerpaper.com/section/OPINION01">TylerPaper Editorials</a><br>
+    <a href="http://www.tylerpaper.com/section/OPINION0330">Nelson Clyde Column</a><br>
+    <a href="http://www.tylerpaper.com/section/OPINION04">Raves,Rants,Roses</a><br>
+    <a href="http://www.tylerpaper.com/section/OPINION02">Reader Responses</a><br>
+    <a href="http://www.fitcitytyler.com">Fit City Challenge</a><br>
+    <a href="http://www.tylerpaper.com/apps/pbcs.dll/news_themes?Category=PHPForums&amp;ShowGroups=1">Tyler Talk</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES13">Youthful Living</a><br>
+</td>
+<td width="120" valign="top">
+	<a href="http://www.tylerpaper.com/section/FEATURES">Community</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES01">Discover</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES03">Gardening</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES12">Community Columns</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES06">Food</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES0603">Local Flavor</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES0608">As Seen On CBS 19</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES0605">Tastemakers</a><br>
+</td>
+<td width="120" valign="top">
+	<a href="http://www.tylerpaper.com/section/FEATURES07">Entertainment</a><br>
+   <a href="http://www.tylerpaper.com/section/FEATURES0701">ETx Entertainment</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES070101">Movie Reviews</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES0702">Ent. Columns</a><br>
+    <a href="http://www.tylerpaper.info/GoGuide/day.php">GoGuide Events</a><br>
+    <a href="http://www.tylerpaper.com/ClubOrg/cluborg_listing.html">Clubs/Organizations</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES05">Achievers</a><br>
+    <a href="http://www.facebook.com/pages/Tyler-TX/TylerPaper/247534773677" target="_blank">Social Media</a><br>
+</td>
+<td width="120" valign="top">
+	<a href="http://spotted.tylerpaper.com/">Spotted Photos</a><br>
+    <a href="http://m.tylerpaper.com/">Mobile</a><br>
+    <a href="http://www.tylerpaper.com/section/NEWS12">Special Reports</a><br>
+    <a href="http://www.tylerpaper.info/policemap/index.html">Police Map</a><br>
+    <a href="http://www.inmagtexas.com" target="_blank">IN Magazine</a><br>
+    <a href="http://www.tylerpaper.com/section/CONTACT">Contact Info</a><br>
+    <a href="http://www.tylerpaper.com/section/ENEWSLETTER">Email Newsletter</a><br>
+</td>
+<td width="120" valign="top">
+	<a href="http://www.tylerpaper.com/section/SERVICES02">Who We Are</a><br>
+    <a href="http://www.tylerpaper.com/section/HISTORY">Company History</a><br>
+    <a href="http://www.tylerpaper.com/section/FEATURES">Community Links</a><br>
+    <a href="http://www.tylerpaper.com/section/PRIVACY">Privacy Policy</a><br>
+    <a href="http://www.tylerpaper.com/section/COPYRIGHT">Copyright Policy</a><br>
+    <a href="http://www.tylerpaper.com/section/USE">User Agreement</a><br>
+    <a href="http://www.tylerpaper.com/section/CONDITIONS">Terms of Use</a><br>
+	<a href="http://www.tylerpaper.com/section/FAQ">Questions?</a><br>
+</td>
+	</tr>
+		<tr><td colspan="8">
+		<div id="copyrightText" style="text-align: center; color: #ffffff; font-size: .8em; font-weight: normal; padding-top:5px;">
+			<p> ©2011 TylerPaper.com/Tyler Morning Telegraph<br>410 W. Erwin St., Tyler, Texas 75702  All Rights Reserved</p>
+		</div>
+		</td></tr><tr>
+	</tr></tbody></table>
+  </div>
+		
 	
 </div>
 			</div>
 	<!--End Bottom Footer-->	
 	
-</div><!--End Page Wrapper-->
-
-<!-- Start Quantcast tag -->
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
-<script type="text/javascript">_qacct="p-67ayR7ZVI1uBE";quantserve();</script>
-<noscript>
-<a href="http://www.quantcast.com/p-67ayR7ZVI1uBE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-67ayR7ZVI1uBE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript>
-<!-- End Quantcast tag -->	
 
 
-<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script><script language="JavaScript" type="text/javascript">
+
+<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
+<script language="JavaScript" type="text/javascript">
 s.Account="saxotechtylerpaper"
 s.cookieDomainPeriods="2"
 s.pageName="Section: Privacy Policy,Section Overview"
-s.server="S260608AT1VW731"
+s.server="S260608AT1VW730"
 s.channel="Privacy"
 /* Traffic Variables */
 s.prop1="Section"
@@ -1209,8 +1055,7 @@ var s_code=s.t();
 if(s_code)document.write(s_code)
 </script>
 <noscript>
-<img src="http://grndsinchant.112.2O7.net/b/ss/grndsinchant/1/H.2--NS/0"
-height="1" width="1" border="0" alt="" /></noscript>
+<img src="http://grndsinchant.112.2O7.net/b/ss/grndsinchant/1/H.2--NS/0"height="1" width="1" border="0" alt="" /></noscript>
 
 
- 	</body></html>
+ 	<!--Updated: 2011/10/17 05:13:08--></body></html>
