@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favouritearticles.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122080158id_/http%3A//favouritearticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favouritearticles.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018033008id_/http%3A//favouritearticles.com/privacy.php) for the most accurate reproduction.*
 
 # Articles Directory | Free Articles | New Articles Daily | Privacy Statement
 
