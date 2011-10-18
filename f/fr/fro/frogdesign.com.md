@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frogdesign.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625100524id_/http%3A//www.frogdesign.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frogdesign.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018093603id_/http%3A//www.frogdesign.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | frog
 
