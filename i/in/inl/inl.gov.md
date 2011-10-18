@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2007-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071028085325id_/http%3A//www.inl.gov/securityprivacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inl.gov privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018081956id_/https%3A//inlportal.inl.gov/portal/server.pt%3Fopen%3D514%26objID%3D3313%26mode%3D2) for the most accurate reproduction.*
 
-# The Idaho National Laboratory - Security/Privacy Statement
+# Home
 
-Thank you for visiting Idaho National Laboratory’s (INL) web site. We respect the need to protect your privacy. We collect no personal information about you when you visit our site unless you choose to provide that information to us under specific instances, such as in an e-mail. 
-
-What you should know about visiting our web site: 
+## INL Security/Privacy Notice
 
 ### Information we collect and store automatically
 
-The INL collects and stores the following information automatically: 
+The INL uses [Google Analytics](https://www.google.com/analytics/) to collect and store information about your visit to our site. Some of the information collected includes:
 
   * Internet Protocol (IP) address of the domain from which you access the Internet (e.g., 123.456.789.012), whether yours individually or provided as a proxy by your Internet Service Provider (ISP).
   * Date and time you accessed our site.
@@ -18,20 +16,19 @@ The INL collects and stores the following information automatically:
 
 
 
+For more details on the information collected by [Google Analytics](https://www.google.com/analytics/) please visit their site. 
+
 We use summary statistics to help us make our site more useful, such as assessing what information is of most and least interest to visitors, and for other purposes such as determining the site's technical design specifications and identifying system performance or problem areas. 
 
-Parts of our site use cookies to improve your experience. A cookie contains information that is either stored in your computer’s memory, or in a file on your computer’s hard disk. Cookies that are stored in your computer’s memory are automatically removed when you quit your browser. Cookies that are stored in a file on your computer’s hard disk will have an expiration date after which time they will no longer be valid. It is our policy to notify you and obtain your approval before a cookie is stored on your computer, to explain what the cookie collects, and how the information is used. If you encounter a cookie that does not terminate upon ending a session at an inel.gov web site — without your approving of it’s use and there is no explanation or the explanation is not clear or reasonable — please [let us know](https://web.archive.org/cgi-bin/www/email/print_form.pl?id=4&name=^Feedback&template=inl). 
+### Cookies
 
-For additional information about cookie usage on Federal web sites, please visit the following: 
+Internet cookies contain information that is either stored in your computer’s memory, or in a file on your computer’s hard disk. Cookies that are stored in your computer’s memory are automatically removed when you close your browser. Cookies that are stored in a file on your computer’s hard disk will have an expiration date after which time they will no longer be valid. 
 
-  * [Department of Energy's computer Incident Advisory Capability (CIAC) Bulletin I-034: Internet Cookies](http://www.ciac.org/ciac/bulletins/i-034.shtml)
-  * [OMB Memorandum 99-18 "Privacy Policies on Federal Web Sites dated June 2, 1999](http://www.whitehouse.gov/omb/memoranda/m99-18attach.html)
-
-
+The INL web site uses Portal technology and as a result cookies are stored on your computer. These cookies are part of the Portal system and are there to improve your experience. 
 
 ### Sending us personal or confidential information
 
-If you choose to provide us with personal information - by sending us an e-mail or by filling out an online form with your personal information and submitting it to us through our web site - please be aware that we may use that information to 
+If you choose to provide us with personal information - by sending us an e-mail or by filling out an online form with your personal information and submitting it to us through our web site - please be aware that we may use that information to: 
 
   * Respond to your message
   * Help gather the requested information.
@@ -42,17 +39,19 @@ We do not create individual profiles with the information you provide. We do not
 
   * We may enter the information you send into our electronic database.
   * Share it with our attorneys and/or INL staff.
-  * We may also share it with other government agencies and parties who have an interest in the activities and mission of the INL.
+  * We may also share it with the United States Department of Energy or other government agencies, and parties who have an interest in the activities and mission of the INL.
 
 
 
-Online forms submitted from the https://secure.inl.gov/ domain utilize Secure Socket Layer (SSL) technology for encryption of transmitted data. E-mail and online forms which are not part of the https://secure.inl.gov/ domain are not secure against interception and senders cannot expect privacy. While we believe the secure method is the preferred method to send business sensitive material or personal information electronically, we cannot guarantee the security of any electronic data transmissions. If your communication will be through a non-secured method and will include business sensitive material or personal information like your bank account, charge card, or social security number, please send it by postal mail instead to the following address: 
+Online forms submitted from the https://secure.inl.gov/ domain utilize Secure Socket Layer (SSL) technology for encryption of transmitted data. E-mail and online forms which are not part of the https://secure.inl.gov/ domain are not secure against interception and senders cannot expect privacy. While we believe the secure method is the preferred method to send business sensitive material or personal information electronically, we cannot guarantee the security of any electronic data transmissions. 
+
+If your communication will be through a non-secured method and will include business sensitive material or personal information like your bank account, charge card, or social security number, please send it by postal mail instead to the following address: 
 
 INL  
 P.O. Box 1625  
 Idaho Falls, ID 83415 
 
-To send proprietary information to the INL that must be treated confidentially, please contact the Technology Transfer and Commercialization Office at (208) 526-4299. 
+**To send proprietary information to the INL that must be treated confidentially, please contact the Technology Deployment Office at (208) 526-5976.**
 
 ### Security notice
 
@@ -66,10 +65,4 @@ WITH RESPECT TO INFORMATION FROM THIS SERVER, NEITHER THE UNITED STATES GOVERNME
 
 ### Links to other sites
 
-This web site has links to many other Federal agencies. In a few cases we link to private organizations. Once you link to another site, you are subject to the privacy policy of the new site. 
-
-### Feedback
-
-We welcome your [feedback](https://web.archive.org/cgi-bin/www/email/print_form.pl?id=4&name=^Feedback&template=inl) at any time. 
-  *[INL]: Idaho National Laboratory
-  *[BEA]: Battelle Energy Alliance
+This web site has links to other Federal agencies and private organizations. Once you access those sites you are subject to the privacy policy of the new site. 
