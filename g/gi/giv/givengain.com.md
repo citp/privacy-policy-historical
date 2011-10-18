@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230232636id_/http%3A//www.givengain.com/cgi-bin/giga.cgi%3Fcmd%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018061314id_/https%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
 
 # Privacy - If you have something to give, you have a lot to gain!
 
-"We are immune to advertising. Just forget it."  \- The Cluetrain Manifesto
-
 ## Privacy Policy
 
-We ("[GivenGain](https://web.archive.org/web/20101230232636id_/http%3A//www.givengain.com/cgi-bin/giga.cgi?cmd=about)") operate several websites including givengain.com and givengain.org. It is GivenGain's policy to respect your privacy regarding any information we may collect while operating our websites.
+We ("[GivenGain](https://web.archive.org/about/)") operate several websites including givengain.com and givengain.org. It is GivenGain's policy to respect your privacy regarding any information we may collect while operating our websites.
 
 ### Website Visitors
 
@@ -17,6 +15,8 @@ GivenGain also collects potentially personally-identifying information like Inte
 ### Gathering of Personally-Identifying Information
 
 Certain visitors to GivenGain's websites choose to interact with GivenGain in ways that require GivenGain to gather personally-identifying information. The amount and type of information that GivenGain gathers depends on the nature of the interaction. For example, we ask visitors who sign up for our services to provide a username and email address. Those who engage in transactions with GivenGain are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, GivenGain collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with GivenGain. GivenGain does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+When you make a donation to a cause on GivenGain, whether directly on the cause page or on a fundraising page, GivenGain collects a variety of personal information about you in order to properly process your donation. This personal information may include your name, address, phone, email address, the message you have written to the cause or fundraiser, and the donation amount. GivenGain shares this information with the cause(s) to whom you have designated your donation. This way the cause can enter you into their database of supporters. We encourage these causes not to share your personal information without your knowledge or permission; however, this information is subject to their policies and practices and is not controlled by GivenGain. We encourage you to review the privacy policy of a particular organization before making a donation.
 
 ### Aggregated Statistics
 
