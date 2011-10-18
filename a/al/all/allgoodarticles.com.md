@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allgoodarticles.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217180006id_/http%3A//www.allgoodarticles.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allgoodarticles.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018182753id_/http%3A//www.allgoodarticles.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy AllGoodArticles - Submit Free Articles For Massive Exposure,Publishers,Aurthors,writers
 
@@ -37,3 +37,5 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 AllGoodArticles.com does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe AllGoodArticles.com has any information from or about anyone under 13,
 
 AllGoodArticles.com reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+
+We will not include any kind of website link on articles.
