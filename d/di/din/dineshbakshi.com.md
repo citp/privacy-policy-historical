@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2010-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101113211448id_/http%3A//www.dineshbakshi.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dineshbakshi.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018215109id_/http%3A//www.dineshbakshi.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | dineshbakshi.com | IGCSE, A Level, IB Economics, Business studies, Accounting and ICT
 
 The following statement explains our policy regarding the personal information we collect about you.
 
@@ -49,3 +49,6 @@ This is a list of the main cookies that dineshbakshi.com sets, and what each is 
 www.dineshbakshi.com cookie
 
 Allows you to auto-login when you have registered to use the Forum.
+
+  
+
