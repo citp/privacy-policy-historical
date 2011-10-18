@@ -1,32 +1,32 @@
-> *The following text is extracted and transformed from the zumbox.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619092010id_/http%3A//static002.zumbox.com/zumbox_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumbox.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018222300id_/https%3A//www.zumbox.com/html/zumbox_privacy.html) for the most accurate reproduction.*
 
-# Zumbox - Privacy Policy
+# 
 
 **Privacy Policy/Your California Privacy Rights**
 
 **For the Zumbox Website**
 
-**Last Updated: June10 th, 2009**
+**Last Updated: December 3 rd, 2010**
 
 1.               **Our Commitment to Privacy**
 
-1.1 Your privacy is of the utmost importance to us. Because we collect certain types of information about the users of this Web site at [zumbox.com](http://www.zumbox.com/) (" **Site** ") and its services, we feel you should fully understand the conditions of our collection and use of such information. This privacy policy (" **Privacy Policy** ") discloses what information we collect, how we use it, and how to correct or change it. By using this Site, you consent to our collection and use of your personal information as described in this Privacy Policy. 
+1.1 Your privacy is of the utmost importance to us. Because we collect certain types of information about the users of this Web site at [zumbox.com](https://www.zumbox.com/) (" **Site** ") and its services, we feel you should fully understand the conditions of our collection and use of such information. This privacy policy (" **Privacy Policy** ") discloses what information we collect, how we use it, and how to correct or change it. By using this Site, you consent to our collection and use of your personal information as described in this Privacy Policy. 
 
 1.2 This Privacy Policy answers the following questions:
 
-� What information do we collect? What are the purposes for which we collect this information, and how is it used? How do we disclose information collected? 
+● What information do we collect? What are the purposes for which we collect this information, and how is it used? How do we disclose information collected? 
 
-� What security measures do we have in place to protect information we collect? 
+● What security measures do we have in place to protect information we collect? 
 
-� How do you correct and/or update the information we collect? 
+● How do you correct and/or update the information we collect? 
 
-� How do you "opt out" from allowing your information to be used by us for certain purposes? 
+● How do you "opt out" from allowing your information to be used by us for certain purposes? 
 
-� What are cookies, and how do we use them? 
+● What are cookies, and how do we use them? 
 
-� What are my rights as a California resident?
+● What are my rights as a California resident?
 
-� How are you able to contact us?
+● How are you able to contact us?
 
 1.3 If you have any questions regarding this Privacy Policy, the practices of this Site, or your dealings with us, please contact us by email to [support@zumbox.com](mailto:support@zumbox.com) using the subject title of "Privacy Policy", by phone at 818-707-7400 (and mention that you have a Privacy Policy issue related to the Site) or by mail (either traditional or Zumbox) to 31364 Via Colinas, Suite 103, Westlake Village, CA 91362. Our Lead Customer Support Representative is our designated Privacy Policy consultant and monitors compliance with all international and domestic privacy regulations. 
 
@@ -44,9 +44,9 @@ Visitors to this Site may create an account with us by completing and submitting
 
 4.               **Information We Automatically Collect; IP Addresses**
 
-When you connect to the Internet, your computer has a unique identification code called a "MAC ADDRESS". You also have an "IP address". Depending on the way you access the Internet, you may also have a different IP address each time you connect, or your IP address may be the same each time, or it may not be a unique IP address \- you may share the IP address with others using your router. We log the IP addresses of users who visit this Site. We use your IP address for system administration purposes, such as to help diagnose problems with our server. 
+When you connect to the Internet, your computer has a unique identification code called a "MAC ADDRESS". You also have an "IP address". Depending on the way you access the Internet, you may also have a different IP address each time you connect, or your IP address may be the same each time, or it may not be a unique IP address - you may share the IP address with others using your router. We log the IP addresses of users who visit this Site. We use your IP address for system administration purposes, such as to help diagnose problems with our server. 
 
-In connection with compliance with certain legal and regulatory requirements, we may use your IP address to help identify you.� We may also use your IP address as a means to identify your location in order to better provide the Services, however we do not share specific information regarding an individual�s IP address with third parties
+In connection with compliance with certain legal and regulatory requirements, we may use your IP address to help identify you. We may also use your IP address as a means to identify your location in order to better provide the Services, however we do not share specific information regarding an individual's IP address with third parties
 
 5.               **Disclosure and Use of Collected Information**
 
@@ -60,13 +60,13 @@ We may use other third parties such as, as applicable, credit card processing co
 
 From time to time Zumbox may use third party data collection providers, like Wufoo, to gather data or survey information. The data is transmitted securely to Zumbox and as such, the third party does not retain the data. The collected data is used for the pre-qualification of subscribers' service levels.
 
-Although you may not "opt out" of the registration process if you wish to become a Zumbox member, you may choose to "opt out" or �block senders� of� promotional materials from sending you mail through Zumbox and/or its affiliates, advertisers or other business partners If you do not "opt out" or �block senders� of such promotional materials, Zumbox reserves the right to release any general demographic� information regarding you to third parties who provide goods or services that we believe may be of interest to you, including, without limitation, to Subscribers. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, including, without limitation, from Subscribers, please contact those third parties directly, or contact Zumbox at [support@zumbox.com](mailto:support@zumbox.com). 
+Although you may not "opt out" of the registration process if you wish to become a Zumbox member, you may choose to "opt out" or block senders of promotional materials from sending you mail through Zumbox and/or its affiliates, advertisers or other business partners If you do not "opt out" or block senders of such promotional materials, Zumbox reserves the right to release any general demographic information regarding you to third parties who provide goods or services that we believe may be of interest to you, including, without limitation, to Subscribers. We will not release your credit card information to third parties unless necessary to complete a transaction between you and such a third party. If you decide that you would like to discontinue receiving promotional information from such third parties, including, without limitation, from Subscribers, please contact those third parties directly, or contact Zumbox at [support@zumbox.com](mailto:support@zumbox.com). 
 
 Zumbox limits its own e-mail solicitations to those customers who have not "opted out" of receiving such communications. The solicitations are limited in that they, among other things, will clearly indicate the originator of the e-mail and provide the customer with a method of "opting out" of receiving future communications of a similar nature.
 
-Finally, Zumbox may use individual members' data to "pre-populate" forms which are displayed for the purpose of collecting individual data by Zumbox and/or its Subscribers. In no case does pre-populating a form automatically transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place � for example, if/when a member clicks a "submit form" button. ** __**
+Finally, Zumbox may use individual members' data to "pre-populate" forms which are displayed for the purpose of collecting individual data by Zumbox and/or its Subscribers. In no case does pre-populating a form automatically transfer any data to any advertiser or third party. Only if the member voluntarily requests that such data be transferred will any transfer take place for example, if/when a member clicks a "submit form" button. ** __**
 
-Keep in mind that, while Zumbox encourages all third parties involved � including, but not limited to, its affiliates and Subscribers � **** to adhere to our policies regarding the privacy of our visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from Zumbox or independently. Nevertheless, in the event that you encounter any third party associated with, or who claims association with, Zumbox who you feel is improperly collecting or using information about you, please contact [support@zumbox.com](mailto:support@zumbox.com); we will be happy to forward your message to the third party.
+Keep in mind that, while Zumbox encourages all third parties involved including, but not limited to, its affiliates and Subscribers **** to adhere to our policies regarding the privacy of our visitors and members and to otherwise handle personal information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from Zumbox or independently. Nevertheless, in the event that you encounter any third party associated with, or who claims association with, Zumbox who you feel is improperly collecting or using information about you, please contact [support@zumbox.com](mailto:support@zumbox.com); we will be happy to forward your message to the third party.
 
 Except as noted above, Zumbox does not share, rent, or trade your personally identifiable information with third parties for their respective promotional purposes.
 
@@ -80,7 +80,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 8.              **Import Contacts**
 
-Zumbox provides an address book feature that facilitates sending mail through Zumbox if you choose to use it by importing your contacts' information via a CSV file (comma delimited); furthermore, each time you enter a new address as you send mail, these new addresses � along with the entered addressee information - are automatically added to your address book. If you wish not to permanently retain an address, Zumbox provides the means to remove it as part of the address book functionality.
+Zumbox provides an address book feature that facilitates sending mail through Zumbox if you choose to use it by importing your contacts' information via a CSV file (comma delimited); furthermore, each time you enter a new address as you send mail, these new addresses along with the entered addressee information - are automatically added to your address book. If you wish not to permanently retain an address, Zumbox provides the means to remove it as part of the address book functionality.
 
 The Send Letter and the Send Postcard features collect additional information about 3rd parties such as name and address. We use this information to facilitate sending mail, and not for any other purpose.
 
@@ -96,15 +96,15 @@ You have the ability to correct or change any information and/or the address or 
 
 11.            **How To Opt Out**
 
-You have the opportunity to opt out of receiving further communications through our service from Zumbox or any Subscriber at any time after you have registered an account on this Site. You may do this in several ways. To opt out of receiving future emails or Zumbox mail from Zumbox, you may indicate your desire in the "My Settings" area of the Site. To opt out of receiving Zumbox mail from a specific Subscriber, you may "block" future mailings by selecting the "block" button in the "Mail" area of the Site. Alternatively, you may accomplish any of the above by sending an email to [info@zumbox.com](mailto:info@zumbox.com) or by calling us at 818-707-7400 (and mention that you have an opt-out request related to the Site) and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Zumbox's database, access logs and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, Zumbox reserves the right, from time to time, to recontact former customers or users of Zumbox's services.  
+You have the opportunity to opt out of receiving further communications through our service from Zumbox or any Subscriber at any time after you have registered an account on this Site. You may do this in several ways. To opt out of receiving future emails or Zumbox mail from Zumbox, you may indicate your desire in the "My Settings" area of the Site. To opt out of receiving Zumbox mail from a specific Subscriber, you may "block" future mailings by selecting the "block" button in the "Mail" area of the Site. Alternatively, you may accomplish any of the above by sending an email to [support@zumbox.com](mailto:support@zumbox.com) or by calling us at 818-707-7400 (and mention that you have an opt-out request related to the Site) and we will use reasonable efforts to comply with your request. Keep in mind, however, that there will be residual information that will remain within Zumbox's database, access logs and other records, which may or may not contain such personally identifiable information. The residual information will not be used for commercial purposes; however, Zumbox reserves the right, from time to time, to recontact former customers or users of Zumbox's services.  
 
 12.            **What Are Cookies and How Do We Use Cookies?**
 
 12.1 " **Cookies** " are a feature of web browser software that allow web servers to recognize the computer used to access a Site. They are small pieces of data that are stored by a user's web browser on the user's hard drive. Information gathered through cookies and web server logs may include information such as the date and time of visits, the pages viewed, time spent at this Site, and the websites visited just before and just after this Site. Cookies can remember what information a user accesses on one web page to simplify subsequent interactions with that Site by the same user or to use the information to streamline the user's transactions on related web pages. This makes it easier for a user to move from web page to web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized. Cookies are only read by the server that placed them, and are unable to execute any code or virus. 
 
-12.2 We use Site browser software tools such as cookies and web server logs to gather information about this Site's users' browsing activities in order to improve this Site and better serve users of this Site. This information helps us to design and arrange our web pages in the most user-friendly manner and to continually improve this Site to better meet the needs of our users and prospective users.� We do not link cookies to personal information.� Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser. 
+12.2 We use Site browser software tools such as cookies and web server logs to gather information about this Site's users' browsing activities in order to improve this Site and better serve users of this Site. This information helps us to design and arrange our web pages in the most user-friendly manner and to continually improve this Site to better meet the needs of our users and prospective users. We do not link cookies to personal information. Nevertheless, you should be able to control how and whether cookies will be accepted by your web browser. For more information on how to do so, please refer to the documentation accompanying your browser. 
 
-�12.3 If you have turned off all cookies, many features of this Site will not be available to you. 
+12.3 If you have turned off all cookies, many features of this Site will not be available to you. 
 
 13.            **Linked Websites and Advertisers**
 
@@ -124,7 +124,7 @@ Our corporate values, ethical standards, policies and practices are committed to
 
 16.            **Merger, Sale or Change in Control**
 
-In the event that Zumbox is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from you as part of such merger, acquisition, sale, or other change of control.� We will notify you by email of a transfer of your personal information within 30 days from the time the transfer takes effect. 
+In the event that Zumbox is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from you as part of such merger, acquisition, sale, or other change of control. We will notify you by email of a transfer of your personal information within 30 days from the time the transfer takes effect. 
 
 17.            **Changes**
 
@@ -132,8 +132,9 @@ In the future, we may make changes to this Privacy Policy, without prior notice.
 
 18.            **TRUSTe Licensee**
 
-Zumbox is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Site www.zumbox.com. Because the Site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Zumbox has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. 
 
-If you have questions or concerns regarding this TRUSTe statement, you should first contact our Lead Customer Support Representative at [support@zumbox.com](mailto:support@zumbox.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.com/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@zumbox.com](mailto:support@zumbox.com).    
+If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
-Copyright � 2009 Zumbox, Inc. All rights are reserved. 
+Copyright © 2011 Zumbox, Inc. All rights are reserved. 
