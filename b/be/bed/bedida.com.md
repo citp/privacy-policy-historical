@@ -1,100 +1,64 @@
-> *The following text is extracted and transformed from the bedida.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedida.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018144452id_/http%3A//www.bedida.com/privacy.php) for the most accurate reproduction.*
 
-# Legal Agreement
+# The Place to Sell Buy Bid Handmade Products
 
-**Go Daddy Respects Your Privacy**
+Privacy 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+**Privacy**
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Bedida.com is committed to protecting the confidentiality of your personal information. When you register for Bedida.com, we ask only for the information required to meet your needs. By using Bedida.com services, you are voluntarily providing this information to us.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+**Your Personal Information**
 
-**Information Collection and Use**
+When you register for Bedida.com, you are voluntarily providing us with personal information such as your name, email address, and some other information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+Bedida.com will not sell your personal information to other companies or organizations. In order to safeguard your personal information, we will use and disclose your personal information only as follows:
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * We may use your information for our internal operations and for any other purpose permitted or required by applicable law. Your personal information will only be accessible by employees and agents who require such information to perform a necessary internal business function for Bedida com.
+  * We may use your information to send you communications that are relevant to the services we provide. Unless required, we will not include any of your personal information in the communications other than your email address.
+  * We reserve the right to use your personal information to generate aggregate data (summarized data that does not identify you) to perform statistical analyses of the traffic patterns, site usage and behaviors associated with our website.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In certain circumstances, Bedida.com may be legally compelled to release your personal information in response to a court order, subpoena, search warrant, law or regulation. Under these circumstances, we will notify you unless doing so would violate the law or court order.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+If you become aware of any unauthorized disclosure of your information, please contact us immediately.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Your Non-Personal Information**
+
+When you visit our website, we may collect non-personal information from you, such as the internet browser or computer operating system you are using. We use this information only to provide you with better service and improve our website. We will not sell or disclose non-personal information to other companies or organizations.
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+Bedida.com is committed to safeguarding data, computer files and documents containing your personal information from misuse by third parties. 
 
-**Updating Your Information**
+Bedida.com shall destroy, erase or make unreadable data, computer files and documents containing your personal information prior to disposal.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+Sale or Transfer of Information in the Event of Merger, Sale or Bankruptcy
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+In the event Bedida.com is acquired, merges with another entity, reorganizes, becomes insolvent and/or declares bankruptcy, the website and any information obtained through it may be transferred or sold to another entity, in accordance with applicable law.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Email Privacy**
 
-      iii.      You may call us at: (480) 505-8800
+You can choose to receive email from Bedida.com on service related topics and promotions. You may also use our website to send an email inquiry to Bedida.com which may result in a reply being sent to an email address that you provide. Responses sent from Bedida.com to your email provider may not be secure or may be intercepted by third parties. By using the email service, you accept the risk of transmitting information from us to your personal email address in an insecure environment.
 
-       iv.      You may fax us at: (480) 505-8844
+If you are receiving email correspondence at an employer's email address, please note that, under law, the employer may be permitted to view the contents of any email messages received at this address.
 
-**Sending Emails**
+**Usage by Children**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Bedida.com is not intended nor designed to attract users who are minor children. We have no intention of collecting personal information from minor children. Minor children under the age of 18 may only use this website with the prior express consent of a parent or legal guardian and then only under their direct supervision.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+**Cookies**
 
-**Compliance with Laws and Law Enforcement**
+When you visit our website, we may store information on your computer. This information will be in the form of a "cookie" or similar file and will be used to determine ways to improve our website and services. With most internet browsers, you can erase cookies from your hard drive, block all cookies or receive a warning before a cookie is stored. You should refer to your internet browser’s instructions to learn more about these functions. Bedida.com does not use cookies to create profiles that track the viewing preferences of our users.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+**Links to Other Sites**
 
-**Third Party Service Providers**
+Bedida.com may include links to other sites that are not related to, or are not the property of, Bedida Inc. We are not responsible for the dependability or security of these other sites.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+**Changes in Our Privacy Policy**
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+Bedida.com reserves the right at its discretion to change, modify, add or remove portions of this policy or any of its supplemental policies at any time. We will communicate any updates to our policy on the website for any website visitors.
 
-**Supplementation of Information**
+  
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
