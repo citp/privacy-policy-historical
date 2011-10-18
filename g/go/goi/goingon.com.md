@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the goingon.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518110007id_/http%3A//goingon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goingon.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018222036id_/http%3A//goingon.com/privacy) for the most accurate reproduction.*
 
-# GoingOn.com | Privacy
-
-## Privacy
+# Privacy Policy | goingon.com
 
 ### Privacy Statement 
 
@@ -24,7 +22,7 @@ We use IP addresses to analyze trends, administer the Service, track users' move
 
 ### Security
 
-We use security measures, such as firewalls and Security Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information. Information we collect about our users is stored on secured servers. However, "perfect security" does not exist. If you have any questions about the security of the Service, please send an e-mail to privacy@GoingOn.com.
+We use security measures, such as firewalls and Security Socket Layers ("SSL"), to safeguard the confidentiality of our users' personally identifiable information. Information we collect about our users is stored on secured servers. However, "perfect security" does not exist. If you have any questions about the security of the Service, please send an e-mail to [privacy@GoingOn.com](mailto:privacy@GoingOn.com).
 
 ### Minors
 
@@ -36,7 +34,7 @@ We cooperate with law enforcement agencies in identifying those who use the Serv
 
 ### Correction/Updating Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire GoingOn's services, we will endeavor to provide a way to correct, update or remove the data you provided to us. This can usually be done at the member information page or by sending an email to privacy@GoingOn.com.
+If your personally identifiable information changes, or if you no longer desire GoingOn's services, we will endeavor to provide a way to correct, update or remove the data you provided to us. This can usually be done at the member information page or by sending an email to [privacy@GoingOn.com](mailto:privacy@GoingOn.com).
 
 ### Your Consent; Notification of Changes
 
