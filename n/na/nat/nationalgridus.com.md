@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430004812id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalgridus.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018093511id_/http%3A//www.nationalgridus.com/0-1_privacypolicy.asp) for the most accurate reproduction.*
 
 # National Grid - Privacy Policy
 
@@ -15,6 +15,25 @@ The form of security that we use is SSL (or Secure Sockets Layer). This is a met
 Most browsers will warn you that you are entering or leaving a secure area by presenting a dialog box. However, most browsers give you the option of turning off the dialog box display.
 
 When on a secure page, you will see the lock icon on the bottom of your Internet Explorer or Netscape web browser. Still other browsers have different ways of displaying this information.
+
+Unsolicited and Scam Emails   
+You may be aware that numerous scams are in operation that are designed to get you to provide personal details, including details of your bank account or credit card, for fraud or ‘identity theft’ purposes. 
+
+Some of these scams may try to use the brand of a reputable business, such as National Grid, in order to appear legitimate. We treat these scams very seriously. If you are concerned about an unsolicited or unexpected email that appears to come from National Grid please let us know immediately by sending an email to [cyberresponse@ngrid.com.](mailto:cyberresponse@ngrid.com)
+
+When and how we may contact you by email
+
+In the course of our business we may contact you by email to advise about the services we offer or activities we need to undertake in your area. We are committed to respecting your privacy and to complying with applicable data protection and privacy laws.
+
+We will never: 
+
+  * ask you to email us any personal information, such as payment/financial details or your address
+  * ask you to tell us your password
+  * send you programs to install on your computer.
+
+
+
+Before disclosing any personal information online, make sure you know who you are dealing with and be suspicious of anyone who asks for your bank account or credit card details or asks for your password and do not click on any links or email attachments unless you are sure you can trust the sender.
 
 Online Forms   
 We use order forms which allow customers to request information and apply for services. When applicable, we collect personal contact and identification information (such as your email address and home address). This information is used to answer your questions, solve your problems, and provide interactivity. We do not provide this information to any other parties.
