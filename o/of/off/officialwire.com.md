@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622001913id_/http%3A//www.officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialwire.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018040732id_/http%3A//www.officialwire.com/static.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# OfficialWire: Independent, Dependable And Up-To-The-Minute [Breaking News, Op-Ed, Humour & Press Release Distribution]
+# OfficialWire: Privacy Policy
 
 ## Table Of Contents
 
