@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maui.net privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230182418id_/http%3A//www.maui.net/site-info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maui.net privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018215846id_/http%3A//www.maui.net/site-info/privacy_policy.php) for the most accurate reproduction.*
 
 # Maui Net: Visitor Information For Your Maui Vacation | Maui.Net - All Things Maui
 
@@ -62,6 +62,12 @@ The Web Site contains links to other Internet web sites, including affiliated we
 
 _Promotions and Contests_  
 If and when we sponsor promotions or contests, or third parties sponsor promotions or contests in conjunction with us, either we or the third party will post relevant privacy information in the official rules and/or registration area for the promotion or contests. That privacy information will govern that particular promotion or contest. 
+
+**Special Note About Google Advertising**
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to opt out of Google's cookie usage. As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+
+About Google advertising: What is the DoubleClick DART cookie? The DoubleClick DART cookie is used by Google in the ads served on publisher websites displaying AdSense for content ads. When users visit an AdSense publisher’s website and either view or click on an ad, a cookie may be dropped on that end user’s browser. The data gathered from these cookies will be used to help AdSense publishers better serve and manage the ads on their site(s) and across the web. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy [Google Privacy](http://www.google.com/privacy/ads/privacy-policy.html)
 
 _Other Permitted Release of Information_  
 Notwithstanding anything in this Privacy Policy to the contrary, we reserve the right to release information contained within our access logs concerning any visitor or customer when that visitor or customer is in violation of our Terms of Service or other published guidelines, or engages (or is reasonably suspected of engaging) in any illegal activity, even without a subpoena, warrant or other court order, and to release such information in response to court and governmental orders, civil subpoenas, discovery requests and as otherwise required by law. We cooperate with law enforcement agencies in identifying those who may be using our servers or services for illegal activities. We also reserve the right to report any suspected illegal activity to law enforcement individuals or entities for investigation or prosecution. Please note that if we receive a formal request to disclose your personally identifiable information in connection with legal action, we will attempt to tell you about it before we respond to such request, if permitted by law, via the email address you provided to us. 
