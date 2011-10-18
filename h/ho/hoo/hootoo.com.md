@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hootoo.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511093406id_/http%3A//www.hootoo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootoo.com privacy policy that was archived on 2011-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111018142717id_/http%3A//www.hootoo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice | HooToo.com
 
