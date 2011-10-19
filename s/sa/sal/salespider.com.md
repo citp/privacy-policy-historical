@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413192523id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1%26ref%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salespider.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019134758id_/http%3A//www.salespider.com/index.php%3Fprivacy%3D1%26ref%3Dfooter) for the most accurate reproduction.*
 
-# The Entrepreneur Network for Small Business, Home Business & Business Opportunity
+# The Social Network for Small Businesses | Entrepreneurs | Professionals
 
 Your privacy is important to us, so Sales Spider Inc has created this Privacy Policy ( “Privacy Policy”) to explain how the information you provide through your use of the Sales Spider Inc website (“Salespider.com”) is protected, collected and used.  This Privacy Policy applies to your use of Salespider.com and other resources located at the domain [www.salespider.com](http://www.salespider.com/) , which is hosted by Sales Spider, Inc.  (“Sales Spider”).  By accessing the Salespider.com you agree to comply with and be bound by the Privacy Policy. 
 
