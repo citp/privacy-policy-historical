@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619192357id_/http%3A//shop.rugby.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dbottomnav_r_PrivacyPolicy%23policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rugby.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019134626id_/http%3A//shop.rugby.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Drestrictions%26ab%3Dbottomnav_r_PrivacyPolicy%23policies) for the most accurate reproduction.*
 
 # Ralph Lauren Rugby - Rugby.com Customer Assistance
 
@@ -25,9 +25,11 @@ Click on one of the links below to jump to the listed section:
       * Customer Registry
       * Customer Satisfaction Surveys
       * Polo Ralph Lauren Credit Card
-    * Customer Assistance
-    * Other Ways We Obtain and Use Information
-    * Department Stores
+    * Other Ways We Collect Personal Information
+      * QR Codes
+      * Customer Assistance
+      * Other Ways We Obtain and Use Information
+      * Department Stores
   * Information We Share
   * Links to Other Sites
   * How We Protect Personal Information
@@ -42,7 +44,7 @@ Click on one of the links below to jump to the listed section:
 
 Information We Collect and How We Use It 
 
-Individuals may choose to provide personal information (such as name, contact details and payment information) through this website, in our Stores and through our customer service line. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. 
+Individuals may choose to provide personal information (such as name, contact details and payment information) through this website, in our Stores and through the other channels described below. Here are the ways you may provide the information and the types of information you may submit. We also tell you how we may use the information. 
 
    
 
