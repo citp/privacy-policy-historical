@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the obermatt.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608181300id_/http%3A//www.obermatt.com/company/various/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obermatt.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019070347id_/http%3A//www.obermatt.com/company/various/privacy) for the most accurate reproduction.*
 
 # Obermatt: Privacy
+
+[](http://www.wiwo-shop.de/ceo)
+
+[](http://www.fuw.ch/ranking)
 
 **Introduction**
 
@@ -14,7 +18,7 @@ As a visitor, you do not have to submit any personal information in order to use
 
 **Cookies and Web Beacons**
 
-To ensure that our Web site is well managed and to facilitate improved navigation within the site, we or our service provider(s) may use cookies (small text files stored in a user’s browser) or Web beacons (electronic images that allow the Web site to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. We may use such devices to track information on our systems and identify categories of visitors by items such as IP address, domain, browser type and pages visited. 
+To ensure that our Web site is well managed and to facilitate improved navigation within the site, we or our service provider(s) may use cookies (small text files stored in a users browser) or Web beacons (electronic images that allow the Web site to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. We may use such devices to track information on our systems and identify categories of visitors by items such as IP address, domain, browser type and pages visited. 
 
 This information is used to analyze the number of visitors to different areas of the site and to make sure that our Web site continues to serve as a useful, effective information source. 
 
@@ -28,7 +32,7 @@ You may at any time request that we discontinue sending you such materials.  
 
 **Disclosure of Information to Third Parties**
 
-Although we may provide visitors’ information to service providers that handle information on our behalf, we will usually not share the information with third parties. 
+Although we may provide visitors information to service providers that handle information on our behalf, we will usually not share the information with third parties. 
 
 **Data Security**
 
