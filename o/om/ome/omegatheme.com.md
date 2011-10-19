@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omegatheme.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501214153id_/http%3A//omegatheme.com/about-omegatheme/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omegatheme.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019083521id_/http%3A//omegatheme.com/about-omegatheme/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
