@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429060711id_/http%3A//www.quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019191637id_/http%3A//quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -41,3 +41,18 @@ quotesea secures your personal information from unauthorized access, use or disc
 ## Changes to this Statement
 
 quotesea will occasionally update this Statement of Privacy to reflect company and customer feedback. quotesea encourages you to periodically review this Statement to be informed of how quotesea is protecting your information.
+
+### Random quotes
+
+  
+  
+
+
+"[When I had my first studio, there were bugs and rats, and addicts on the street, but it had good light. It had some of the best light I've ever had in a studio. I did lots of really good work in that studio.](https://web.archive.org/quote/whenihadmyfirststudiotherewerebugsand)"
+
+~ [Erik Blome](https://web.archive.org/quotes/by/erik-blome "Erik Blome quotes")
+
+Quotes with: [best](https://web.archive.org/quotes/with/best "best quotes"), [ever](https://web.archive.org/quotes/with/ever "ever quotes"), [first](https://web.archive.org/quotes/with/first "first quotes"), [good](https://web.archive.org/quotes/with/good "good quotes"), [in that](https://web.archive.org/quotes/with/in-that "in that quotes"), [light](https://web.archive.org/quotes/with/light "light quotes"), [lots](https://web.archive.org/quotes/with/lots "lots quotes"), [really](https://web.archive.org/quotes/with/really "really quotes"), [the Street](https://web.archive.org/quotes/with/the-street "the Street quotes"), [work in](https://web.archive.org/quotes/with/work-in "work in quotes")
+
+  
+
