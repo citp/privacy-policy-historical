@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313121423id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizwaremagic.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019140515id_/http%3A//www.bizwaremagic.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -77,7 +77,6 @@
     contact (at) bizwaremagic.com
     
     
-    [](https://www.sitecompliant.com/siteseal/learnmore.php?a_aid=webmaster@bizwaremagic.com)
     
     
     [www.bizwaremagic.com](http://www.bizwaremagic.com/)
