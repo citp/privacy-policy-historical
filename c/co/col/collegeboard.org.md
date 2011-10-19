@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegeboard.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624020701id_/http%3A//www.collegeboard.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeboard.org privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019043654id_/http%3A//www.collegeboard.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
