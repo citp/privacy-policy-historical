@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeatom.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427034855id_/http%3A//www.animeatom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeatom.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019123607id_/http%3A//www.animeatom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch English Dubbed Subbed Anime Episodes Online For Free - ~..::J.G.J.M.K::..~
 
@@ -21,8 +21,3 @@ We never collect or maintain information from those who we actually know are und
 **How to Contact Us**
 
 Should you have any questions or concerns regarding our privacy policies, please use the contact form provided on the website to bring to our attention your concern.
-
-## Share at your favorite sites!
-
-[](http://del.icio.us/post?url=http://www.animeatom.com/privacy-policy/) |  [](http://www.facebook.com/share.php?u=http://www.animeatom.com/privacy-policy/) |  [](http://reddit.com/submit?url=http://www.animeatom.com/privacy-policy/) |  [](http://www.stumbleupon.com/submit?url=http://www.animeatom.com/privacy-policy/) |  [](http://twitter.com/home?source=ichc&status=http://www.animeatom.com/privacy-policy/)  
----|---|---|---|---
