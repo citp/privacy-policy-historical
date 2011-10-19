@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429235319id_/http%3A//www.whitepages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepages.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019165938id_/http%3A//www.whitepages.com/privacy) for the most accurate reproduction.*
 
 # Free People Search | WhitePages
 
@@ -14,7 +14,7 @@ Our Privacy Policy does not apply to information published on our websites. If y
 
 ## WhitePages Privacy Policy
 
-**This policy is effective as of October 21, 2010.**
+**This policy is effective as of June 16, 2011.**
 
 Our privacy policy will help you understand the different types of information we collect when you use our services (the "Services"). By using our Services, you agree to our privacy policy and [Terms of Service](https://web.archive.org/help/terms). We may change or update this policy from time to time. Any updated policy shall be effective immediately after it is posted.
 
@@ -46,8 +46,7 @@ This is unique information that you provide through the use of our Hiya address 
 
 **How we use it:**
 
-  * We use Imported Contacts for the purpose provided, such as to populate and maintain your Hiya address book.
-  * We do not publish or share your Imported Contacts. Also, we will not contact your Imported Contacts unless you ask us to.
+  * We only use your Imported Contacts per your permission. 
 
 
 
@@ -91,15 +90,13 @@ We use cookies, web beacons and GPS information (for mobile devices) to collect 
 
 **How we use it:**
 
-We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests. We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device.
+We use General Information to facilitate your use of our Services and to help us understand how people like you use our Services. For example, we may use cookies to keep you logged in to your account, track your use of our Services, pre-populate certain fields (like your default location), and to deliver advertising that matches your interests. We may use GPS information to pre-populate certain search fields on your GPS-enabled mobile device. Exceptions to the foregoing are noted under "When We Share Information with Third Parties."
 
-## How Third Parties Collect & Use Your Information
+## How Third Parties Collect & Use Your Information & How to Opt-Out
 
-WhitePages works with Audience Science and other third party companies to deliver advertisements on our websites. These third parties may collect and use General Information to deliver more relevant advertising to you and for their own business purposes.
+WhitePages works with Audience Science and other third party companies to deliver advertisements on our websites. These third parties may collect and use General Information to deliver more relevant advertising to you and for their own business purposes. To stop information collection and targeted advertising from Audience Science and other third party companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
-### Opt-Out Option:
-
-To stop information collection and targeted advertising from Audience Science and other third-party companies, [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+Certain third parties may collect and use the more specific General Information, such as which web pages you viewed, in order to deliver interest-based advertising. WhitePages follows the Self-Regulatory Principles for Online Behavioral Advertising (about the collection and use of such data) and requires such third parties to comply with the disclosure and notification program specified by principles. This means that third parties collecting and using this data will provide a standard icon/link in or near their advertisements that will provide you with additional data about their privacy and advertising practices, as well as with the opportunity to directly opt-out of having your information collected for behavioral advertising purposes. To stop information collection regarding your past online activity and targeted interest-based advertising from third party companies, [click here](http://www.aboutads.info/)
 
 ### Advertising Forms, Surveys and Third Party Links
 
@@ -111,11 +108,7 @@ Websites that contain a "Powered by WhitePages" logo may not be controlled by Wh
 
 ### Analysis of Your Data
 
-We may use third parties to help measure the effectiveness of our advertising and to analyze usage of the Services. Third parties help us analyze General Information we obtain from you (we generally place restrictions on those third parties' use of such information). Third parties may also use the General Information for their business purposes, such as to report aggregate, non-personally identifiable information about the use of their services and technologies in connection with the Services.
-
-### Opt-Out Option:
-
-To stop certain companies from analyzing your data, [click here](http://www.omniture.com/privacy/policy#optout).
+We may use third parties to help measure the effectiveness of our advertising and to analyze usage of the Services. Third parties help us analyze General Information we obtain from you (we generally place restrictions on those third parties' use of such information). Third parties may also use the General Information for their business purposes, such as to report aggregate, non-personally identifiable information about the use of their services and technologies in connection with the Services. To stop certain companies from analyzing your data, [click here](http://www.omniture.com/en/privacy/policy#optout)
 
 ## When We Share Information with Third Parties
 
