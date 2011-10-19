@@ -1,56 +1,71 @@
-> *The following text is extracted and transformed from the georgiasown.org privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230110403id_/https%3A//www.georgiasown.org/terms07.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georgiasown.org privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019134823id_/https%3A//www.georgiasown.org/forms/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
-# Join a Credit Union | Become a Member | Privacy Policy
+# FACTS
 
-Georgia’s Own Credit Union, your member-owned financial institution, is committed to providing you with competitive products and services to meet your financial needs and help you reach your goals. We are equally committed to protecting the privacy of our members. Under federal law, we are required to give you this privacy notice. It describes our credit union’s privacy policy and practices concerning the personal information we collect and disclose about our members. It also includes information about the parties who receive personal and sometimes non-public information from us as we conduct the business of the Credit Union. If after reading this notice you have questions, please contact us at:
+                                                                                                                        Rev. 12/10
+                        WHAT DOES GEORGIA’S OWN CREDIT UNION DO
+FACTS                   WITH YOUR PERSONAL INFORMATION?
+Why?                    Financial companies choose how they share your personal information. Federal law gives
+                        consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we
+                        collect, share, and protect your personal information. Please read this notice carefully to understand
+                        what we do.
+What?                   The types of personal information we collect and share depend on the product or service you have
+                        with us. This information can include:
+                        - Social Security number and account transactions
+                        - credit card or other debt and overdraft history
+                        - payment history and transaction history
+                        When you are no longer our member, we continue to share your information as described in this
+                        notice.
+How?                    All financial companies need to share members’ personal information to run their everyday
+                        business. In the section below, we list the reasons financial companies can share their members’
+                        personal information; the reasons Georgia’s Own Credit Union chooses to share; and whether you
+                        can limit this sharing.
+Reasons we can share your personal information                    Does Georgia’s Own              Can you limit this sharing?
+                                                                  Credit Union share?
+For our everyday business purposes –                                           Yes                                No
+such as to process your transactions, maintain your
+account(s), respond to court orders and legal
+investigations, or to report to credit bureaus
+For our marketing purposes –                                                   Yes                                No
+to offer our products and services to you
+For joint marketing with other financial companies                             Yes                                No
+For our affiliates’ everyday business purposes –                               No                          We don't share
+information about your transactions and experiences
+For our affiliates’ everyday business purposes –                               No                          We don't share
+information about your creditworthiness
+For nonaffiliates to market to you                                             No                          We don't share
+Questions?              Call toll-free 800-533-2062 or go to www.georgiasown.org
+                                                                                              DGAEK2 (DXPS00 PNDM01)-e
 
-(800) 533-2062   
-(404) 874-1166
 
-or write to:
-
-Privacy Disclosure  
-Georgia's Own Credit Union  
-1155 Peachtree St. NE, Ste. 400  
-Atlanta, GA 30309
-
-**INFORMATION WE COLLECT ABOUT YOU** — We collect non-public personal information about you from the following  
-sources:
-
-• Information we receive from you on applications and other forms  
-• Information about your transactions with us.  
-• Information we receive from a consumer reporting agency  
-• Information obtained when verifying the information you provide on an application or other forms; this may be obtained from your current or past employers, or from other institutions where you conduct financial transactions  
-• Information obtained upon your request.
-
-We may disclose all of the information we collect, as described above, as permitted by law.
-
-**PARTIES WHO RECEIVE INFORMATION FROM US** — We may disclose non-public personal information about you to the following types of third parties:
-
-• Financial service providers, such as insurance companies and mortgage service companies  
-•Non-financial companies, such as consumer reporting agencies, data processors, check/share statement publishers/printers, plastic card processors, government agencies and mailhouses
-
-**DISCLOSURE OF INFORMATION TO PARTIES THAT PROVIDE SERVICES TO US** —In order for us to conduct the business of the Credit Union, we may disclose all of the information we collect, as described above, to other financial institutions with whom we have joint marketing agreements, to other companies that perform marketing services on our behalf, or to nonaffiliated third parties for the purposes of processing and servicing transactions that you request or authorize, so that we may provide members competitive products and services.
-
-We may also disclose non-public personal information about you under circumstances as permitted or required by law. These disclosures typically include information to process transactions on your behalf, conduct the operations of our credit union, follow your instructions as you authorize, or protect the security of our financial records.
-
-To protect our members’ privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell the information we provide to other third parties.
-
-**DISCLOSURE OF INFORMATION ABOUT FORMER MEMBERS** —If you terminate your membership with Georgia’s Own  
-Credit Union, we will not share information we have collected about you, except as may be permitted or required by law.
-
-**HOW WE PROTECT YOUR INFORMATION** —We restrict access to non-public personal information about you to those  
-employees who need to know that information to provide products or services to you. We maintain physical, electronic, or procedural safeguards that comply with federal regulations to guard your non-public personal information.
-
-**WHAT MEMBERS CAN DO TO HELP** —Georgia’s Own Credit Union is committed to protecting the privacy of its members. Members can help by following these simple guidelines:
-
-• Protect your account numbers, plastic card numbers, personal identification numbers (PINs) or passwords. Never keep  
-your PIN with your card. The PIN can provide free access to your accounts if your card is lost or stolen.  
-• Use caution when disclosing your account numbers, social security numbers, etc. to other persons. If someone calls  
-you explaining the call is on behalf of the Credit Union and asks for your account number, you should beware. Official  
-credit union staff will have access to your information and will not need to ask for it.  
-• Keep your information with us current. If your address or phone number changes, please let us know. It is important  
-that we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use  
-of an account, we will attempt to contact you immediately.
-
-Let us know if you have questions. Please do not hesitate to call us — we are here to serve you! 
+Page 2
+What we do
+How does Georgia’s Own Credit  To protect your personal information from unauthorized access and use, we use
+Union protect my personal      security measures that comply with federal law. These measures include computer
+information?                   safeguards and secured files and buildings.
+How does Georgia’s Own Credit  We collect your personal information, for example, when you
+Union collect my personal      - open an account or pay your bills
+information?                   - apply for a loan or give us your employment information
+                               - give us your contact information
+                               We also collect your personal information from others, such as credit bureaus,
+                               affiliates, or other companies.
+Why can’t I limit all sharing? Federal law gives you the right to limit only
+                               - sharing for affiliates’ everyday business purposes – information about your
+                                  creditworthiness
+                               - affiliates from using your information to market to you
+                               - sharing for nonaffiliates to market to you
+                               State law and individual companies may give you additional rights to limit sharing.
+Definitions
+Affiliates                     Companies related by common ownership or control. They can be financial and
+                               nonfinancial companies.
+                               - Georgia’s Own Credit Union has no affiliates
+Nonaffiliates                  Companies not related by common ownership or control. They can be financial and
+                               nonfinancial companies.
+                               - Nonaffiliates we share with can include insurance companies, government
+                                  agencies, plastic card processors (credit/debit/ATM), financial statement
+                                  publishers or printers, mailhouse, mortgage service companies, consumer
+                                  reporting agencies, data processors, and check/share draft printers
+Joint Marketing                A formal agreement between nonaffiliated financial companies that together market
+                               financial products or services to you.
+                               - Our joint marketing partners include CUNA Mutual Group's MEMBERCONNECT
+Other important information
