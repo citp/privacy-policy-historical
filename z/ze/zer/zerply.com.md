@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zerply.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522024049id_/http%3A//www.zerply.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zerply.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019032306id_/http%3A//www.zerply.com/about/privacy) for the most accurate reproduction.*
 
 # Zerply | Privacy Policy
+
+## Privacy Policy
 
 ### ZERPLY, INC.
 
