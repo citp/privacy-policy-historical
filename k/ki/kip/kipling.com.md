@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kipling.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620064451id_/http%3A//www.kipling-usa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kipling.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019131108id_/http%3A//www.kipling-usa.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Kipling : Customer Service
 
