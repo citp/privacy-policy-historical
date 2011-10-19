@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymyki.com.au privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217152805id_/https%3A//www.mymyki.com.au/NTSWebPortal/Common/cms/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymyki.com.au privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019043517id_/https%3A//www.mymyki.com.au/NTSWebPortal/Common/cms/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -8,7 +8,7 @@ As a State-Owned Enterprise subject to the Information Privacy Act 2000, TTA has
 
 This privacy statement describes how TTA manages information it may collect from visitors to this website, as well as providing an overview of how your privacy will be protected when myki is introduced to Victoria.
 
-[TTA Privacy Policy](http://www.transport.vic.gov.au/DOI/DOIElect.nsf/$UNIDS+for+Web+Display/940579CD44757FC4CA25767D007BA447/$FILE/\(TTAs\)%20Privacy%20Policy%20-%20Revision%203%20-%2027%20%20Nov%202009%20--%20TTA-09-52880.pdf).
+[TTA Privacy Policy](http://www.transport.vic.gov.au/__data/assets/pdf_file/0020/30971/Transport-Ticketing-Authority-Privacy-policy-revision-3-November-2009.pdf).
 
  **What information is currently collected through this website?**
 
@@ -64,7 +64,7 @@ A customer's personal information may also be required in order to respond to qu
 
 Use of the myki will generate a transaction record, which will include the location, time and date of the transaction. If a cardholder has provided personal details, TTA will have the ability to link these with their transactions. However, TTA or its agents will not normally need to do so in connection with the operation of the payment system.
 
-Personal information will be used and disclosed by Public Transport Authorities for the purpose for which it was collected, which will be explained at the time of collection. Personal information may be disclosed to third parties for other purposes in limited circumstances which are explained in the full [TTA Privacy Policy](http://www.transport.vic.gov.au/DOI/DOIElect.nsf/$UNIDS+for+Web+Display/940579CD44757FC4CA25767D007BA447/$FILE/\(TTAs\)%20Privacy%20Policy%20-%20Revision%203%20-%2027%20%20Nov%202009%20--%20TTA-09-52880.pdf)
+Personal information will be used and disclosed by Public Transport Authorities for the purpose for which it was collected, which will be explained at the time of collection. Personal information may be disclosed to third parties for other purposes in limited circumstances which are explained in the full [TTA Privacy Policy](http://www.transport.vic.gov.au/__data/assets/pdf_file/0020/30971/Transport-Ticketing-Authority-Privacy-policy-revision-3-November-2009.pdf)
 
  **Security**
 
@@ -80,4 +80,4 @@ If you have a complaint about the way TTA has handled your personal information,
 
  **More information**
 
-If you would like further information about the TTA's Information Privacy practices see the full [TTA Privacy Policy](http://www.transport.vic.gov.au/DOI/DOIElect.nsf/$UNIDS+for+Web+Display/940579CD44757FC4CA25767D007BA447/$FILE/\(TTAs\)%20Privacy%20Policy%20-%20Revision%203%20-%2027%20%20Nov%202009%20--%20TTA-09-52880.pdf) or contact us via the [Feedback form](https://www.mymyki.com.au/NTSWebPortal/common/Auxillary/Contactus.aspx?menu=Feedback "Feedback Form"), or call 13 6954 (13 myki).
+If you would like further information about the TTA's Information Privacy practices see the full [TTA Privacy Policy](http://www.transport.vic.gov.au/__data/assets/pdf_file/0020/30971/Transport-Ticketing-Authority-Privacy-policy-revision-3-November-2009.pdf) or contact us via the [Feedback form](https://www.mymyki.com.au/NTSWebPortal/common/Auxillary/Contactus.aspx?menu=Feedback "Feedback Form"), or call 13 6954 (13 myki).
