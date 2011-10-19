@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weathertech.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104141946id_/http%3A//www.weathertech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weathertech.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019192835id_/http%3A//www.weathertech.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
