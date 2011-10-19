@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfline.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107103016id_/http%3A//www.surfline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfline.com privacy policy that was archived on 2011-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111019145856id_/http%3A//www.surfline.com/privacy.html) for the most accurate reproduction.*
 
 # Surfline Privacy Policy and Promise | SURFLINE.COM
 
