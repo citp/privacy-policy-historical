@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608053314id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020050548id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
 # The Fashion Model Directory (FMD) - FashionModelDirectory.com
 
-This Policy describes the information that the Fashion Model Directory and its operated Websites (collectively, the “websites” or “we”) collect about you, how this information is used and the choices you can make about the uses of your personal information.   
+This Policy describes the information that the Fashion Model Directory and its operated Websites (collectively, the "websites" or "we") collect about you, how this information is used and the choices you can make about the uses of your personal information.   
 This Privacy Policy applies to Fashionmodeldirectory.com and all subordinated domains and projects.
 
 ## I. Type of Information we collect
 
 We generally collect information from you, with your specific knowledge and consent. For instance, when you register on our site, subscribe to our newsletter, respond to a survey, enter a sweepstakes or contest or fill out a form.   
 When registering for any portion of our services, you may be asked to enter your name, e-mail address, mailing address or phone number. Optional information, such as your age or gender, may also be requested.  
-When you visit our Websites, we may automatically collect information about the type of web browser you use, the operating system you are running, the website that referred you, and your Internet Protocol (“IP”) address, which is usually associated with your geographic location and place from which you enter the Internet. You may, however, visit our site anonymously.
+When you visit our Websites, we may automatically collect information about the type of web browser you use, the operating system you are running, the website that referred you, and your Internet Protocol ("IP") address, which is usually associated with your geographic location and place from which you enter the Internet. You may, however, visit our site anonymously.
 
 ## II. Use of Information provided by you
 
@@ -39,8 +39,8 @@ We may obtain geographic information such as zip code clustering from other sour
 
 The major part of the online advertising on the website is being delivered by third-party advertising companies, which may use cookies so that they are able, among other things, to determine whether you have already seen a certain advertisement and avoid showing duplicate advertisements.  
 These cookies may also enable the advertising companies to serve you tailored ads. Online advertising companies generally conduct this activity in an anonymous format, with online information not combined with information that would allow for your identification, such as a name, address or email address.   
-If you need more information about the collection, use and disclosure practices of our third party advertising companies and to know your choices about not having this information used by these companies, visit our [ advertising page ](http://www.fashionmodeldirectory.com/templates/v4/%E2%80%9D/info/advertising/%E2%80%9D) and follow the links to the company websites.  
-You may “opt-out” of certain third party programs by following the instructions located [at NAI here](http://www.fashionmodeldirectory.com/templates/v4/%E2%80%9Dhttp://www.networkadvertising.org/managing/opt_out.asp%E2%80%9D). 
+If you need more information about the collection, use and disclosure practices of our third party advertising companies and to know your choices about not having this information used by these companies, visit our [ advertising page ](http://www.fashionmodeldirectory.com/www.fashionmodeldirectory.com/info/advertising/) and follow the links to the company websites.  
+You may "opt-out" of certain third party programs by following the instructions located [at NAI here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 ## V. Special Information Sharing
 
