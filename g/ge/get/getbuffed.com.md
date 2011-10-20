@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getbuffed.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527050115id_/http%3A//getbuffed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getbuffed.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020221114id_/http%3A//www.getbuffed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Warcraft, Runes of Magic databases and MMO news, articles – getbuffed.com
 
