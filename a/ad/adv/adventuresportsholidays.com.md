@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adventuresportsholidays.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224115937id_/http%3A//www.adventuresportsholidays.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresportsholidays.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020104755id_/http%3A//www.adventuresportsholidays.com/about/privacy-policy.php) for the most accurate reproduction.*
 
-# Adventure Sports Holidays - Privacy Policy
+# Adventure Holidays - Privacy Policy
 
 Adventure Sports Holidays (www.adventuresportsholidays.com) is the trading name of Element Internet Ltd which is incorporated in England, our company registration number is 5548350. We are committed to protecting any data that we collect concerning you. By using our services you agree to the use of the data that we collect in accordance with this Privacy Policy. 
 
