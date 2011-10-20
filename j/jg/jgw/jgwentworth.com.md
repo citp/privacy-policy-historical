@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424010035id_/http%3A//www.jgwentworth.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jgwentworth.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020032757id_/http%3A//www.jgwentworth.com/legal/privacypolicy.aspx) for the most accurate reproduction.*
 
 # JG Wentworth | Privacy Policy
 
-[Home](https://web.archive.org/web/20110424010035id_/http%3A//www.jgwentworth.com/ "Home") > Privacy Policy 
+[Home](https://web.archive.org/web/20111020032757id_/http%3A//www.jgwentworth.com/ "Home") > Privacy Policy 
 
 **YOUR PRIVACY IS OUR CONCERN**
 
@@ -75,9 +75,9 @@ J.G. WENTWORTH HOME EQUITY SERVICES, LLC, d/b/a J.G. WENTWORTH MORTGAGE COMPANY 
 If you have questions about the information in this notice, please write us at:  
 Customer Service—Privacy Coordinator  
 J.G. WENTWORTH  
-40 Morris Ave.  
-Bryn Mawr PA 19010  
-
+201 King of Prussia Road  
+Radnor, PA  
+19087 
 
 This policy is effective March 2011
 
