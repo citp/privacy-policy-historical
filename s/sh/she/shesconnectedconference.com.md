@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shesconnectedconference.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621020602id_/http%3A//shesconnectedconference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shesconnectedconference.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020050702id_/http%3A//shesconnectedconference.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ShesConnected Conference
+# ShesConnected Conference 2011 | Privacy Policy
 
 ### What This Privacy Policy Covers
 
@@ -131,5 +131,3 @@ If you have questions or suggestions about our Privacy Policy, please contact us
 ShesConnected  
 971 Concord Avenue  
 [email] [feedback@shesconnected.com](mailto:feedback@shesconnected.com)
-
-[](http://www.facebook.com/sharer.php?u=http://shesconnectedconference.com/privacy-policy/&t=Privacy%20Policy)
