@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427143121id_/http%3A//infinitemonkeys.mobi/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infinitemonkeys.mobi privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020194845id_/http%3A//infinitemonkeys.mobi/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
