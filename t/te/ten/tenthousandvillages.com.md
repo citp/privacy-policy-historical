@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tenthousandvillages.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628210102id_/http%3A//www.tenthousandvillages.com/php/customer.service/privacy.policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tenthousandvillages.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020165312id_/http%3A//tenthousandvillages.com/php/customer.service/privacy.policy.php) for the most accurate reproduction.*
 
 # Answers to privacy & security questions || Ten Thousand Villages
 
