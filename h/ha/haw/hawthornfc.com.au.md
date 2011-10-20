@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223154751id_/http%3A//www.hawthornfc.com.au/privacy%2520policy/tabid/15542/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawthornfc.com.au privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020233552id_/http%3A//www.hawthornfc.com.au/privacy%2520policy/tabid/15542/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Official AFL Website of the Hawthorn Football Club
 
 ### The Club > Privacy Policy
 
- **  
+**  
 **
 
-###  **Hawthorn Football Club Limited - Privacy Policy**
+### **Hawthorn Football Club Limited - Privacy Policy**
 
   
- **Protecting your privacy**  
+**Protecting your privacy**  
 The Hawthorn Football Club is committed to providing you with the highest levels of customer service. This includes protecting your privacy. 
 
 Set out below is information that we are required to communicate to our members and customers. We recommend that you keep this information for future reference.   
