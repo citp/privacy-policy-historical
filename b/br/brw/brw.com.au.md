@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220180648id_/http%3A//www.brw.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brw.com.au privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020111403id_/http%3A//www.brw.com.au/privacy) for the most accurate reproduction.*
 
 # Fairfax Privacy Policy
 
