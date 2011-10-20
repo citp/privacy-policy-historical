@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bizcommunity.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604192848id_/http%3A//bizcommunity.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizcommunity.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020215900id_/http%3A//www.bizcommunity.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Bizcommunity - Privacy Policy
-
-Last updated on 17 August 2001. 
 
 **All personal information supplied to Bizcommunity is kept strictly confidential and will not be sold to any third parties. All information viewed in Secure Services is protected through 128 bit encryption.**
 
