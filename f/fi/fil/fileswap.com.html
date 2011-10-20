@@ -1,135 +1,168 @@
-<!--The following is the downloaded HTML source of the fileswap.com privacy policy that was archived on 2010-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101227134112id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fileswap.com privacy policy that was archived on 2011-10-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111020135154id_/http%3A//www.fileswap.com/legal/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-		<link type="text/css" rel="stylesheet" href="/_css/global.css?v=6">
-	<script type="text/javascript" src="/_js/jquery.js"></script>
+		<link type="text/css" rel="stylesheet" href="/_css/global.css?v=20">
+		<script type="text/javascript" src="/_js/jquery.js"></script>
+		<script type="text/javascript" src="/_js/jquery-ui.js"></script>
+		<script type="text/javascript" src="/_js/jquery.ui.multidraggable-1.8.8.js"></script>
+		<script type="text/javascript" src="/_js/supersleight.plugin.js"></script>
 		<script type="text/javascript" src="/_js/base64.js"></script>
-		<script type="text/javascript" src="/_js/global.js?v=6"></script>
-		<title>Privacy Policy - FileSwap.com</title>
+		<script type="text/javascript" src="/_js/global.js?v=10"></script>
+<script type="text/javascript">
+ $(document).ready(function(){
+$('.trans').supersleight();
+ });
+</script>
+		<title>FileSwap.com : Privacy Policy</title>
 		
 	</head>
 	<body onclick="bodyClick();">
-    	<script>
-		function bodyClick()
-		{
-			if (globalMouseX>0 && globalMouseX<34 && globalMouseY>212 && globalMouseY<534 && $(window).width()> 974)
-				document.location="/feedback/";
-		}
-		function renameFile(id)
-		{
-			$.ajax({
-   type: "POST",
-   url: "control.php",
-   data: "id="+id+"&newname="+document.getElementById("txtrename").value,
-   success: function(msg){
-     onclickPopupHide();
-     document.location.reload();
-   }
- });
+		<ul id="myMenu" class="contextMenu">
+			<li class=""><a href="#open">Open</a></li>
+			<li class="edit separator"><a href="#edit">View Information</a></li>
+			<li class="delete"><a href="#delete">Delete</a></li>
+		</ul>
 
-		}
-		function renameFolder(id)
-		{
-			$.ajax({
-   type: "POST",
-   url: "control.php",
-   data: "id="+id+"&newname="+document.getElementById("txtrename").value+"&type=folder",
-   success: function(msg){
-     onclickPopupHide();
-     document.location.reload();
-   }
- });
+<div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+	<script type="text/javascript">
+		window.fbAsyncInit = function() {
+		FB.init({
+		appId : '129527953724571',
+		session : null, // don't refetch the session when PHP already has it
+		status : true, // check login status
+		cookie : true, // enable cookies to allow the server to access the session
+		xfbml : true // parse XFBML
+	});
 
-		}
-		function passFile(id)
-                {
-                        $.ajax({
-   type: "POST",
-   url: "control.php",
-   data: "id="+id+"&newpass="+document.getElementById("txtpassword").value+"&type=filepass",
-   success: function(msg){
-     onclickPopupHide();
-     document.location.reload();
-   }
- });
-
-                }
-		function passFolder(id)
-                {
-if (confirm("Attention: Setting a password on this folder will also apply the same password to any contained files and subfolders. Do you still wish to continue?")){
-$.ajax({
-   type: "POST",
-   url: "control.php",
-   data: "id="+id+"&newpass="+document.getElementById("txtpassword").value+"&type=folderpass",
-   success: function(msg){
-     onclickPopupHide();
-     document.location.reload();
-   }
- });
- }
-                }
-
-
+	// whenever the user logs in, we refresh the page
+	FB.Event.subscribe('edge.create', function(targetUrl) {
+	  _gaq.push(['_trackSocial', 'facebook', 'like', targetUrl]);
+	});
+	FB.Event.subscribe('auth.login', function() {
+		document.location='/legal/privacy_policy.php?';
+	});
+	};
+	(function() {
+	var e = document.createElement('script');
+	e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+	e.async = true;
+	document.getElementById('fb-root').appendChild(e);
+	}());
 	</script>
-	<div style="position:absolute; left:0; top:212px; z-index:-1;" onclick="javascript:document.location='/feedback/';"><a href="/feedback/"><img src="/_images/feedback2.gif" border="0" style="z-index:-1;"></a></div>
-	<div align="center" style="width: 974px; margin: 0px auto;">
-		<div style="position:relative; text-align:left">
+
+
+<div style="z-index:9005; position:absolute;top:120px;	width:500px; left:390px;font-size:12px; text-align:center;display:none;" id="uploadDLG" class="popup">
+ <div class="popupToolbar" style="text-align:left;"><b>Upload to FileSwap</b><img style="float:right;" src="/_images/icon/icon_close.gif" onclick="$('#uploadDLG').hide(); $('#uploadModal').hide();" alt=""></div><br>
+ <br><div style="color:#555555;margin-bottom:20px;text-align:center;">Tip: Select multiple files by holding the Ctrl key when clicking them.</div>
+
+<div id="buttonPlaceholder">Loading...</div>
+
+<div style="text-align:left; color:#555;margin-top:40px; border:1px solid #e0e0e0; background:white; padding:10px;">
+Having trouble? Choose another upload option:
+<ol>
+<li><a href="/client/">FileSwap Client</a>: Automatically sync from your desktop PC!</li>
+<li><a href="/account/ftp.php">FTP Upload</a>: Upload with an FTP client</li>
+<li><a href="#remoteurl" onclick="onclickPopupShow(this, '%0D%0A%3Cdiv%20style%3D%22display%3Ainline%3B%20%22%3E%0D%0A%09%09%3Cdiv%20class%3D%22popupToolbar%22%3E%3Cb%3EUpload%20From%20Remote%20URLs%3C%2Fb%3E%3Cimg%20style%3D%22float%3Aright%3B%22%20src%3D%22%2F_images%2Ficon%2Ficon_close.gif%22%20onclick%3D%22onclickPopupHide%28%29%3B%20%24%28%27%23uploadModal%27%29.hide%28%29%3B%22%3E%3C%2Fdiv%3E%0D%0A%09%09%3Cbr%2F%3E%0D%0A%0D%0A%3Cbr%2F%3E%0D%0A%3Cdiv%20class%3D%22popuplabel%22%20style%3D%22width%3A400px%3B%22%3EEnter%20multiple%20URL%27s%20separated%20by%20new%20lines%20and%20FileSwap.com%20will%20fetch%20any%20files%20from%20these%20URLs%20to%20your%20account%21%0D%0A%3Cbr%2F%3E%3Cbr%2F%3EExample%3A%20%3Cbr%2F%3E%0D%0Ahttp%3A%2F%2Fwww.fileswap.com%2Ffile1%3Cbr%2F%3E%0D%0Ahttp%3A%2F%2Fwww.fileswap.com%2Ffile2%0D%0A%3C%2Fdiv%3E%0D%0A%3Cbr%2F%3E%0D%0A%3Cb%3EURL%28s%29%3A%20%3C%2Fb%3E%20%3Cbr%2F%3E%3Ctextarea%20id%3D%22txtURL%22%3E%3C%2Ftextarea%3E%3Cbr%2F%3E%0D%0A%3Cbutton%20type%3D%22submit%22%20name%3D%22submit%22%20onclick%3D%22onclickPopupHide%28%29%3B%20%24%28%27%23uploadModal%27%29.hide%28%29%3B%22%3ECancel%3C%2Fbutton%3E%20%3Cbutton%20style%3D%22margin-left%3A5px%3B%22%20onclick%3D%22uploadURL%28%29%3B%22%29%3B%20%22%3EStart%20remote%20upload%3C%2Fbutton%3E', 'bottom', 'right'); $('#uploadDLG').hide();">Remote URL</a>: Upload directly from another website</li>
+</ol>
+
+</div>
+<br><br>
+<button onclick="$('#uploadDLG').hide(); $('#uploadModal').hide();" class="btn_00" value="" name="submit" type="submit">
+			<span>Cancel</span>
+		</button>
+</div>
+<div id="uploadModal" style="display: none; z-index: 5000; background-color: rgb(204, 204, 204); width: 1366px; height: 768px; position: absolute; top: 0px; left: 0px; opacity: 0.6;"></div>
+				<script type="text/javascript">
+				$("#uploadModal").css({"width": $(document).width(), "height":$(document).height()});
+				</script>
 
 
 
-			<div class="page_header">
-				<div class="top_left">
-				</div>
-				<div class="top_right">
-				</div>
-				<table width="950">
-					<tbody><tr>
-						<td>
-							<a href="/">Upload</a>
-							&nbsp; 
-							<a href="/account/ftp.php">Upload (FTP)</a>
-							&nbsp;
-							<a href="/client/">Upload (PC)</a>
-							&nbsp; 
-							<a href="/premium/">Premium</a>
-                                                        &nbsp;
-                                                        <a href="/affiliate/">Make $$$</a>
-							&nbsp;
-							<a href="/overview/">About</a>
-						</td>
-						<td align="right" nowrap="nowrap">
-							<a href="/account/signup.php"><img src="/_images/buttons/btn_create_account.png" onmouseout="this.src='/_images/buttons/btn_create_account.png';" onmouseover="this.src='/_images/buttons/btn_create_account_over.png';" alt="Create an account"></a>
-							<a href="/account/login.php"><img src="/_images/buttons/btn_login.png" onmouseout="this.src='/_images/buttons/btn_login.png';" onmouseover="this.src='/_images/buttons/btn_login_over.png';" alt="Login"></a>
-						</td>
-					</tr>
-				</tbody></table>
-				<div class="bot_left">
-				</div>
-				<div class="bot_right">
-				</div>
-			</div>
+		<div style="position:absolute; left:0; top:212px; z-index:-1;" onclick="javascript:document.location='/feedback/';">
+			<a href="/feedback/">
+				<img src="/_images/feedback2.gif" border="0" style="z-index:-1;" alt="">
+			</a>
 		</div>
-		<div class="header_footer">
-			<div class="header_footer_left">
-			<div class="header_footer_right">
-				&nbsp;
-			</div>
-		</div>
-	</div>
-
-		<div style="padding-top:10px; padding-bottom:15px;">
-				<a href="/"><img src="/_images/logo/fileswap_large.png" alt="File Swap - Sharing Made Simple"></a>
-		</div>
+		<div><div style="background-color:#AA0000;color:white;font-size:20px;padding:10px;position:absolute;text-align:center;z-index:200; width:100%; display:none;" id="delWarning">File will be deleted for good!</div></div>
+		<div align="center" style="width: 974px; margin: 0px auto; position:relative;">
+			
+			<table style="width:974px;" cellspacing="0" cellpadding="0">
+				<tbody><tr>
+					<td width="38%" valign="top" align="left">
+						<div style="padding-top:15px; padding-left:15px; ">
+							<a href="/"><img class="trans" src="/_images/logo/fileswap_large.png" alt="File Swap - Sharing Made Simple"></a>
+						</div>
+					</td>
+					<td width="62%" align="right" valign="top">
+						<table cellspacing="0" cellpadding="0">
+							<tbody><tr>
+								<td valign="top" align="right" height="50">
+									<div style="width:180px; padding-left:10px; padding-right:10px; position:relative;" class="page_header">
+										<div style="position: absolute; left: -1px; width: 180px; top:28px;text-align:left;display:none; z-index:99999" id="loginBox" class="page_header">					
+											<form name="loginForm" action="/account/login.php">
+												<span style="font-size:12px;">Email:</span>
+												<br>
+												<input type="text" id="username" name="username" style="width:160px;">
+												<br>
+												<span style="font-size:12px;">Password:</span>
+												<br>
+												<input type="password" name="password" style="width:160px;" onkeydown="if(event.keyCode==13) document.loginForm.submit();">
+												<br><input type="checkbox" name="rememberme" value="1" checked="checked"> <span style="font-size:11px;">Remember me </span>
+											<br>
+												<a href="#" onclick="document.loginForm.submit();">Log in</a> | <a href="/account/forgot_pass.php">Forgot Password?</a>
+											<br><br>
+											<fb:login-button perms="email" onclick="">Login with Facebook</fb:login-button>	
+											</form>								
+										</div>			
+										<span style="border-right:1px dotted;padding-right:12px;"><a href="#" onclick="$('#loginBox').slideToggle(); $('#username').focus(); ">Login</a></span>
+										<span style="padding-left:10px;"><a href="/account/signup.php">Create FREE Account</a></span>
+									</div>
+								</td>
+							</tr>
+							<tr>
+								<td valign="bottom" style="white-space:nowrap;" width="518" height="60" align="right">
+									<div style="width:86px;" class="tabmenu_item tabmenu_rightitem">
+										<div style="float:left; width:85px; text-align:center;">
+											<a href="/overview/">Overview</a>
+										</div>
+									</div>
+									<div style="width:86px;" class="tabmenu_item">
+										<div style="float:left; width:85px; margin-right:1px; border-right:1px dotted #749ad7;	text-align:center;">
+											<a href="/affiliate/">Make $$$</a>
+										</div>
+									</div>
+									<div style="width:80px;" class="tabmenu_item">
+										<div style="float:left; width:79px; margin-right:1px; border-right:1px dotted #749ad7;	text-align:center;">
+											<a href="/premium/">Premium</a>
+										</div>
+									</div>
+									<div style="width:85px;" class="tabmenu_item ">
+										<div style="float:left; width:84px; margin-right:1px; border-right:1px dotted #749ad7; text-align:center;">
+											<a href="/client/">PC Client</a>
+										</div>
+									</div>
+									<div style="width:171px;" class="tabmenu_item tabmenu_leftitem">
+										<div style="float:left; width:170px; margin-right:1px; border-right:1px dotted #749ad7; text-align:center;">
+											<a href="/">Upload / Manage Files</a>
+										</div>
+									</div>
+								</td>
+							</tr>
+						</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
 			
 		<div class="rounded_block centered_block">
-		<div class="top_left"></div><div class="top_right"></div>
+		<div class="top_left"></div>
+		<div class="top_right"></div>
+		<div class="bot_left"></div>
+		<div class="bot_right"></div>
 		<div class="rounded_block_header">
-		<div class="top_left"></div><div class="top_right"></div>
-
 			FILESWAP.COM'S PRIVACY POLICY
-		<div class="bot_left"></div><div class="bot_right"></div></div>
+		</div>
 		<div class="rounded_block_cnt">
 			This Privacy Policy applies to the following website:  (1) <b>www.FileSwap.com.</b>
 			('Site').
@@ -240,52 +273,70 @@ $.ajax({
 			<br>
 			If you have any questions about this Privacy Policy, or if you otherwise need to contact us regarding your personally identifiable information, please use the feedback form <a href="/feedback/">here</a>.
 		</div>
-		<div class="bot_left"></div><div class="bot_right"></div>
 	</div>
-		<div class="item_float_left">
+			<div class="item_float_left">
+				
+			</div>
+			<div class="item_float_right">
+				
+			</div>
+			<div class="item_float_clear">
+			</div>
 			
+			<div class="page_footer" style="text-align:left;">
+				<div style="float:left; ">
+					<b>© <a href="/">FileSwap.com</a></b><br>
+					<a href="/premium/">Premium</a><br>
+					<a href="/affiliate/">Referral Program</a><br>
+					<a href="/overview/">Overview</a><br>
+					<a href="/affiliate/banners.php">Link to Us</a><br>
+				</div>
+				<div style="float:left;padding-left:50px;">
+					<b>Upload</b><br>
+					<a href="/">Browser Upload</a><br>
+					<a href="/account/ftp.php">Upload with FTP</a><br>
+					<a href="/client/">Upload on PC</a><br>
+				</div>	
+				<div style="float:left; padding-left:50px;">
+					<b>Policies</b><br>
+					<a href="/legal/tos.php">Terms of Service</a><br>
+					<a href="/legal/privacy_policy.php">Privacy Policy</a><br>
+					<a href="/legal/use_policy.php">Acceptable Use</a><br>
+				</div>
+				<div style="float:left;padding-left:40px;">
+					<b>Contact Us</b><br>
+					<a href="/feedback/">Send Feedback</a><br>
+					<a href="http://twitter.com/fileswap/" target="_blank">Follow on Twitter</a>
+					
+				</div>
+				<div style="float:left;padding-left:60px;">
+				
+				<div style="float:left;">
+				<a href="http://www.twitter.com/fileswap/" target="_blank"><img src="/_images/icon/ico_footer_twitter.png" alt="" border="0"></a>
+				</div>
+				<div style="float:left; padding-left:10px; max-width:300px;">
+				<a href="http://www.twitter.com/fileswap/" target="_blank">
+					<span style="font-size:15px; color:#4091d5">@FileSwap News</span>
+				</a>
+				&nbsp;
+				&nbsp;
+				( Oct 09 )
+				<br>
+				<span style="font-size:12px;"><a href="http://www.twitter.com/fileswap/" target="_blank">Questions regarding FileSwap.com or your account? Contact us directly via our feedback form: http://t.co/e9uhP0la</a></span>
+				</div>
+				<div class="item_float_clear"></div>
+				</div>
+				<div class="item_float_clear"></div>
+			</div><script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-1366737-9");
+			pageTracker._trackPageview();
+			} catch(err) {}
+			</script>
 		</div>
-		<div class="item_float_right">
-			
-		</div>
-		<div class="item_float_clear">
-		</div>
-		
-		<div class="page_footer">
-
-			<a href="/">Upload a File!</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/overview/">Overview</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/premium/">Premium</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/client/">Fileswap Client</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="http://www.twitter.com/fileswap/">Follw on Twitter</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/legal/tos.php">TOS</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/legal/privacy_policy.php">Privacy</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/legal/use_policy.php">Acceptable Use</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/banners/">Link to FileSwap.com</a>
-			&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-			<a href="/feedback/">Feedback</a>
-
-		</div>
-	</div>
-
-
-	<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-1366737-9");
-		pageTracker._trackPageview();
-		} catch(err) {}
-		</script>
 	
 	</body></html>
