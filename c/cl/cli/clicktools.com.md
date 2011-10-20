@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clicktools.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610124607id_/http%3A//www.clicktools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktools.com privacy policy that was archived on 2011-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111020175825id_/http%3A//clicktools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Clicktools - Terms of Use
 
-A hard copy of this document is available [here](https://web.archive.org/web/20110610124607id_/http%3A//www.clicktools.com/documents/clicktools_security_and_privacy_policy.pdf).
+A hard copy of this document is available [here](https://web.archive.org/web/20111020175825id_/http%3A//clicktools.com/documents/clicktools_security_and_privacy_policy.pdf).
 
 **PRIVACY STATEMENT**   
 Clicktools Limited, its subsidiaries and affilliates ("Clicktools") is committed to maintaining and protecting your privacy. This commitment is based on the following principles: 
