@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kabam.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628035924id_/http%3A//www.kabam.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kabam.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021110153id_/http%3A//www.kabam.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Kabam
+# Privacy Policy
 
 #### Our Commitment To Privacy
 
@@ -13,7 +13,7 @@ We operate under high standards for keeping your privacy safe. We operate under 
 
 
 
-To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following URL: <http://www.kabam.com/privacypolicy>. By using the Site, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. This notice may be updated from time to time to reflect our continuing efforts to protect our users’ privacy. You will always be able to find the latest version posted on our website.
+To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following URL: <https://www.kabam.com/privacypolicy>. By using the Site, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. This notice may be updated from time to time to reflect our continuing efforts to protect our users’ privacy. You will always be able to find the latest version posted on our website.
 
 #### The Information We Collect
 
