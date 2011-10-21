@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colleague.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615201202id_/http%3A//www.colleague.com/cms/privacy/view) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colleague.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021050927id_/http%3A//www.colleague.com/cms/privacy/view) for the most accurate reproduction.*
 
 # Colleague.com
 
