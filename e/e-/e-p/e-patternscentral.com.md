@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-patternscentral.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503232258id_/http%3A//www.e-patternscentral.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-patternscentral.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021070914id_/http%3A//www.e-patternscentral.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy - e-PatternsCentral.com
+# Privacy Policy
 
 **_DRG  
 Online Privacy Pledge and Security information_**
