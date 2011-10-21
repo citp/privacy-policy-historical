@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumergiftcards.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610101928id_/http%3A//consumergiftcards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2828name%26catalog_id%3D15024%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumergiftcards.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021044324id_/http%3A//consumergiftcards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2828name%26catalog_id%3D15024%26gift%3D71) for the most accurate reproduction.*
 
 # Consumergiftcards
 
