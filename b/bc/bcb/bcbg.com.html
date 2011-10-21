@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2009-04-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090427131218id_/http%3A//bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bcbg.com privacy policy that was archived on 2011-10-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111021051034id_/http%3A//www.bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; CHICset=iso-8859-1">
@@ -7,7 +7,7 @@
 <link href="http://bcbg.imageg.net/css/DF_BCBG_header.css" rel="stylesheet" type="text/css">
 <link href="http://bcbg.imageg.net/css/PG_BCBG_helpDesk.css" rel="stylesheet" type="text/css">
 
-<title>BCBGMAXAZRIA : Customer Serivce</title>
+<title>BCBGMAXAZRIA : Customer Service</title>
 
 
 <script type="text/javascript">
@@ -40,15 +40,14 @@
 		}
 	}	
 </script>
-<script type="text/javascript" src="/include/prototype.js"></script>
-<script type="text/javascript" src="/js/LIB_eventObserve.js"></script>
+<script type="text/javascript" src="http://bcbg.imageg.net/include/prototype.js"></script>
+<script type="text/javascript" src="http://bcbg.imageg.net/js/LIB_eventObserve.js"></script>
 </head>
 
 <body>
 <!-- /templates file -->
 <div id="wrapper">
-
-
+<!-- R -->
 
 
 
@@ -64,51 +63,55 @@
 			document.getElementById("catalogRequestMainDiv").style.display='none';
 		
 	}
-	
 	function submitCatalogRequest(){
 		document.catalogRequestForm.targetPage.value = document.location + '&catalogRequest=success';		
 		if (checkCatalogRequest()){
 			document.catalogRequestForm.submit();
+			submitTwice2(document.catalogRequestForm);
 		}
+	}
+	function submitTwice2(f){
+		f.action = 'http://bcbgmaxazriagroup.com/scripts/php/email_capture.php';
+		f.target = 'ifr1';
+		f.submit();
 	}
 	function checkCatalogRequest(){
 		var goodToGo = true;
-		if (document.catalogRequestForm.firstName.value == ""){			
+		if (document.catalogRequestForm.firstName.value == ""){
 			alert("You must enter your first name.");
 			goodToGo = false;
-			return false;			
+			return false;
 		}
-		if (document.catalogRequestForm.lastName.value == ""){			
+		if (document.catalogRequestForm.lastName.value == ""){
 			alert("You must enter your last name.");
 			goodToGo = false;
-			return false;			
+			return false;
 		}
-		if (document.catalogRequestForm.address1.value == ""){			
+		if (document.catalogRequestForm.address1.value == ""){
 			alert("You must enter your address.");
 			goodToGo = false;
-			return false;			
+			return false;
 		}
-		if (document.catalogRequestForm.city.value == ""){			
+		if (document.catalogRequestForm.city.value == ""){
 			alert("You must enter your city.");
 			goodToGo = false;
-			return false;			
+			return false;
 		}
-		if (document.catalogRequestForm.state.value == ""){			
+		if (document.catalogRequestForm.state.value == ""){
 			alert("You must enter your state.");
 			goodToGo = false;
-			return false;			
+			return false;
 		}
-		if (document.catalogRequestForm.zip.value == ""){			
+		if (document.catalogRequestForm.zip.value == ""){
 			alert("You must enter your postal code.");
 			goodToGo = false;
-			return false;			
+			return false;
 		}
-		if (document.catalogRequestForm.country.value == ""){			
+		if (document.catalogRequestForm.country.value == ""){
 			alert("You must enter your country.");
 			goodToGo = false;
-			return false;			
+			return false;
 		}
-		
 		if (document.catalogRequestForm.emailAddress.value.toLowerCase() != document.catalogRequestForm.confirmEmail.value.toLowerCase()){
 			alert("Your email address and confirmed address do not match.");
 			goodToGo = false;
@@ -116,12 +119,11 @@
 		}
 		return true;
 	}
-
 	function showEmailSignup(){
-			document.getElementById("emailSignupDiv").style.display='block';
+		document.getElementById("emailSignupDiv").style.display='block';
 	}
 	function hideEmailSignup(){
-			document.getElementById("emailSignupDiv").style.display='none';
+		document.getElementById("emailSignupDiv").style.display='none';
 	}
 /*
 	function submitEmailSignup(){
@@ -132,20 +134,19 @@
 		} else {
 			if (emailCheck(document.emailSignupForm.emailAddress) && emailCheck(document.emailSignupForm.confirmEmail)) {
 				document.emailSignupForm.submit();
-			}			
+			}
 		}
 	}
 */	
 	function submitSearchForm() {
 		document.search.submit();
 	}
-	
 	function emailCheck(field) {
-		var Temp     = field;
-		var AtSym    = Temp.value.indexOf('@');
-		var Period   = Temp.value.lastIndexOf('.');
-		var Space    = Temp.value.indexOf(' ');
-		var Length   = Temp.value.length - 1;
+		var Temp = field;
+		var AtSym = Temp.value.indexOf('@');
+		var Period = Temp.value.lastIndexOf('.');
+		var Space = Temp.value.indexOf(' ');
+		var Length = Temp.value.length - 1;
 		if ((AtSym < 1) || (Period <= AtSym+1) || (Period == Length ) || (Space  != -1)) {
 			alert('Please enter a valid e-mail address.');
 			return false;
@@ -158,7 +159,7 @@
 		var isInvalidZip = false;
 		for (var c = 0; c < zip.value.length; c++) {
         	var singleChar = zip.charAt(c);
-        	if (!(singleChar == "0" || singleChar == "1" ||singleChar == "2" ||singleChar == "3" ||singleChar == "4" ||singleChar == "5" ||singleChar == "6" ||singleChar == "7" ||singleChar == "8" ||singleChar == "9" )) {
+        	if (!(singleChar == "0" || singleChar == "1" || singleChar == "2" || singleChar == "3" || singleChar == "4" || singleChar == "5" || singleChar == "6" || singleChar == "7" || singleChar == "8" || singleChar == "9")) {
             	isInvalidZip = true;
             	break;
         	}
@@ -169,38 +170,36 @@
 		} else {
 			return true;
 		}
-	}	
-isMozillaProduct = false;
+	}
 
-	
+	isMozillaProduct = false;
+
 </script>
-<link rel="stylesheet" type="text/css" href="/css/DF_BCBG_header.css">
+<link rel="stylesheet" type="text/css" href="http://bcbg.imageg.net/css/DF_BCBG_header.css">
 <div id="page_container">
-
 	<!-- EMAIL SIGNUP FORM -->
 	<div id="emailSignupDiv">
-		<iframe src="../include/entry.html" width="435" height="180" scrolling="no" frameborder="0">&nbsp;</iframe>
-
-
+		<iframe src="../include/emailSignUp.jsp?pageType=home" width="435" height="225" scrolling="no" frameborder="0">&nbsp;</iframe>
 	</div>
 	<!-- END EMAIL SIGNUP FORM -->
-	
-	<!-- CATALOG REQUEST FORM -->
+		<!-- CATALOG REQUEST FORM -->
 	<div id="catalogRequestPositionDiv" style="">
 		<div id="catalogRequestSuccessDiv" style="">	
-			<iframe src="../include/blank.html" style="width:435px;height:180px;z-index:10;margin-left:-15px;margin-top:-20px" frameborder="0"></iframe>
+			<iframe src="http://bcbg.imageg.net/include/blank.html" style="width:435px;height:180px;z-index:10;margin-left:-15px;margin-top:-20px" frameborder="0"></iframe>
 			<span id="title">Catalog Request</span>
 			<span id="signupCopy">Thank you for signing up for our catalog.</span>
 			<span id="btnClose"><a href="javascript:hideCatalogRequest();">&nbsp;</a></span>
 		</div>
-		<div id="catalogRequestMainDiv">	
+		<div id="catalogRequestMainDiv">
 		<form name="catalogRequestForm" id="catalogRequestForm" action="/emailHandler/index.jsp" method="post">
-				
-			<input type="hidden" name="contest" value="BCBG_catalogRequest"> 
+			
+			<input type="hidden" name="contest" value="BCBG_catalogRequest">
+			<input type="hidden" name="form_name" value="catalog_request">
+			<input type="hidden" name="source" value="bcbg.com">
 			<input type="hidden" name="emailPref" value="Y">
-			<input type="hidden" id="targetPage" name="targetPage" value="display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt"> 
-			<input type="hidden" name="datetime" value="April 27, 2009 9:12:18 AM EDT">
-			<!-- <iframe style="width:435px;height:500px;z-index:10;margin-left:-15px;margin-top:-20px;" frameborder="0"></iframe> -->
+			<input type="hidden" id="targetPage" name="targetPage" value="display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt">
+			<input type="hidden" name="datetime" value="October 21, 2011 1:10:34 AM EDT">
+			
 			<div id="title">Catalog Request</div>
 			<div id="btnClose"><a href="javascript:hideCatalogRequest();">&nbsp;</a></div>
 			<div id="signupCopy">Request a catalog now and receive BCBG's printed catalog via mail.  Include your email address to receive email updates too. <div class="req">*Required Field</div></div>
@@ -234,248 +233,248 @@ isMozillaProduct = false;
 					<div id="txtZipCode">Postal Code*</div>
 				</div>
 				<div class="section">
-					<div id="frmCountry"><select style="border:1px solid #CCCCCC; width:204px;" id="country" name="country">
-						<option value="" selected="selected">Select Country</option> 
-						<option value="United States">United States</option> 
-						<option value="United Kingdom">United Kingdom</option> 
-						<option value="Afghanistan">Afghanistan</option> 
-						<option value="Albania">Albania</option> 
-						<option value="Algeria">Algeria</option> 
-						<option value="American Samoa">American Samoa</option> 
-						<option value="Andorra">Andorra</option> 
-						<option value="Angola">Angola</option> 
-						<option value="Anguilla">Anguilla</option> 
-						<option value="Antarctica">Antarctica</option> 
-						<option value="Antigua and Barbuda">Antigua and Barbuda</option> 
-						<option value="Argentina">Argentina</option> 
-						<option value="Armenia">Armenia</option> 
-						<option value="Aruba">Aruba</option> 
-						<option value="Australia">Australia</option> 
-						<option value="Austria">Austria</option> 
-						<option value="Azerbaijan">Azerbaijan</option> 
-						<option value="Bahamas">Bahamas</option> 
-						<option value="Bahrain">Bahrain</option> 
-						<option value="Bangladesh">Bangladesh</option> 
-						<option value="Barbados">Barbados</option> 
-						<option value="Belarus">Belarus</option> 
-						<option value="Belgium">Belgium</option> 
-						<option value="Belize">Belize</option> 
-						<option value="Benin">Benin</option> 
-						<option value="Bermuda">Bermuda</option> 
-						<option value="Bhutan">Bhutan</option> 
-						<option value="Bolivia">Bolivia</option> 
-						<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option> 
-						<option value="Botswana">Botswana</option> 
-						<option value="Bouvet Island">Bouvet Island</option> 
-						<option value="Brazil">Brazil</option> 
-						<option value="British Indian Ocean Territory">British Indian Ocean Territory</option> 
-						<option value="Brunei Darussalam">Brunei Darussalam</option> 
-						<option value="Bulgaria">Bulgaria</option> 
-						<option value="Burkina Faso">Burkina Faso</option> 
-						<option value="Burundi">Burundi</option> 
-						<option value="Cambodia">Cambodia</option> 
-						<option value="Cameroon">Cameroon</option> 
-						<option value="Canada">Canada</option> 
-						<option value="Cape Verde">Cape Verde</option> 
-						<option value="Cayman Islands">Cayman Islands</option> 
-						<option value="Central African Republic">Central African Republic</option> 
-						<option value="Chad">Chad</option> 
-						<option value="Chile">Chile</option> 
-						<option value="China">China</option> 
-						<option value="Christmas Island">Christmas Island</option> 
-						<option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option> 
-						<option value="Colombia">Colombia</option> 
-						<option value="Comoros">Comoros</option> 
-						<option value="Congo">Congo</option> 
-						<option value="Congo, The Democratic Republic of The">Congo, The Democratic Republic of The</option> 
-						<option value="Cook Islands">Cook Islands</option> 
-						<option value="Costa Rica">Costa Rica</option> 
-						<option value="Cote D'ivoire">Cote D'ivoire</option> 
-						<option value="Croatia">Croatia</option> 
-						<option value="Cuba">Cuba</option> 
-						<option value="Cyprus">Cyprus</option> 
-						<option value="Czech Republic">Czech Republic</option> 
-						<option value="Denmark">Denmark</option> 
-						<option value="Djibouti">Djibouti</option> 
-						<option value="Dominica">Dominica</option> 
-						<option value="Dominican Republic">Dominican Republic</option> 
-						<option value="Ecuador">Ecuador</option> 
-						<option value="Egypt">Egypt</option> 
-						<option value="El Salvador">El Salvador</option> 
-						<option value="Equatorial Guinea">Equatorial Guinea</option> 
-						<option value="Eritrea">Eritrea</option> 
-						<option value="Estonia">Estonia</option> 
-						<option value="Ethiopia">Ethiopia</option> 
-						<option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option> 
-						<option value="Faroe Islands">Faroe Islands</option> 
-						<option value="Fiji">Fiji</option> 
-						<option value="Finland">Finland</option> 
-						<option value="France">France</option> 
-						<option value="French Guiana">French Guiana</option> 
-						<option value="French Polynesia">French Polynesia</option> 
-						<option value="French Southern Territories">French Southern Territories</option> 
-						<option value="Gabon">Gabon</option> 
-						<option value="Gambia">Gambia</option> 
-						<option value="Georgia">Georgia</option> 
-						<option value="Germany">Germany</option> 
-						<option value="Ghana">Ghana</option> 
-						<option value="Gibraltar">Gibraltar</option> 
-						<option value="Greece">Greece</option> 
-						<option value="Greenland">Greenland</option> 
-						<option value="Grenada">Grenada</option> 
-						<option value="Guadeloupe">Guadeloupe</option> 
-						<option value="Guam">Guam</option> 
-						<option value="Guatemala">Guatemala</option> 
-						<option value="Guinea">Guinea</option> 
-						<option value="Guinea-bissau">Guinea-bissau</option> 
-						<option value="Guyana">Guyana</option> 
-						<option value="Haiti">Haiti</option> 
-						<option value="Heard Island and Mcdonald Islands">Heard Island and Mcdonald Islands</option> 
-						<option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option> 
-						<option value="Honduras">Honduras</option> 
-						<option value="Hong Kong">Hong Kong</option> 
-						<option value="Hungary">Hungary</option> 
-						<option value="Iceland">Iceland</option> 
-						<option value="India">India</option> 
-						<option value="Indonesia">Indonesia</option> 
-						<option value="Iran, Islamic Republic of">Iran, Islamic Republic of</option> 
-						<option value="Iraq">Iraq</option> 
-						<option value="Ireland">Ireland</option> 
-						<option value="Israel">Israel</option> 
-						<option value="Italy">Italy</option> 
-						<option value="Jamaica">Jamaica</option> 
-						<option value="Japan">Japan</option> 
-						<option value="Jordan">Jordan</option> 
-						<option value="Kazakhstan">Kazakhstan</option> 
-						<option value="Kenya">Kenya</option> 
-						<option value="Kiribati">Kiribati</option> 
-						<option value="Korea, Democratic People's Republic of">Korea, Democratic People's Republic of</option> 
-						<option value="Korea, Republic of">Korea, Republic of</option> 
-						<option value="Kuwait">Kuwait</option> 
-						<option value="Kyrgyzstan">Kyrgyzstan</option> 
-						<option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option> 
-						<option value="Latvia">Latvia</option> 
-						<option value="Lebanon">Lebanon</option> 
-						<option value="Lesotho">Lesotho</option> 
-						<option value="Liberia">Liberia</option> 
-						<option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option> 
-						<option value="Liechtenstein">Liechtenstein</option> 
-						<option value="Lithuania">Lithuania</option> 
-						<option value="Luxembourg">Luxembourg</option> 
-						<option value="Macao">Macao</option> 
-						<option value="Macedonia, The Former Yugoslav Republic of">Macedonia, The Former Yugoslav Republic of</option> 
-						<option value="Madagascar">Madagascar</option> 
-						<option value="Malawi">Malawi</option> 
-						<option value="Malaysia">Malaysia</option> 
-						<option value="Maldives">Maldives</option> 
-						<option value="Mali">Mali</option> 
-						<option value="Malta">Malta</option> 
-						<option value="Marshall Islands">Marshall Islands</option> 
-						<option value="Martinique">Martinique</option> 
-						<option value="Mauritania">Mauritania</option> 
-						<option value="Mauritius">Mauritius</option> 
-						<option value="Mayotte">Mayotte</option> 
-						<option value="Mexico">Mexico</option> 
-						<option value="Micronesia, Federated States of">Micronesia, Federated States of</option> 
-						<option value="Moldova, Republic of">Moldova, Republic of</option> 
-						<option value="Monaco">Monaco</option> 
-						<option value="Mongolia">Mongolia</option> 
-						<option value="Montserrat">Montserrat</option> 
-						<option value="Morocco">Morocco</option> 
-						<option value="Mozambique">Mozambique</option> 
-						<option value="Myanmar">Myanmar</option> 
-						<option value="Namibia">Namibia</option> 
-						<option value="Nauru">Nauru</option> 
-						<option value="Nepal">Nepal</option> 
-						<option value="Netherlands">Netherlands</option> 
-						<option value="Netherlands Antilles">Netherlands Antilles</option> 
-						<option value="New Caledonia">New Caledonia</option> 
-						<option value="New Zealand">New Zealand</option> 
-						<option value="Nicaragua">Nicaragua</option> 
-						<option value="Niger">Niger</option> 
-						<option value="Nigeria">Nigeria</option> 
-						<option value="Niue">Niue</option> 
-						<option value="Norfolk Island">Norfolk Island</option> 
-						<option value="Northern Mariana Islands">Northern Mariana Islands</option> 
-						<option value="Norway">Norway</option> 
-						<option value="Oman">Oman</option> 
-						<option value="Pakistan">Pakistan</option> 
-						<option value="Palau">Palau</option> 
-						<option value="Palestinian Territory, Occupied">Palestinian Territory, Occupied</option> 
-						<option value="Panama">Panama</option> 
-						<option value="Papua New Guinea">Papua New Guinea</option> 
-						<option value="Paraguay">Paraguay</option> 
-						<option value="Peru">Peru</option> 
-						<option value="Philippines">Philippines</option> 
-						<option value="Pitcairn">Pitcairn</option> 
-						<option value="Poland">Poland</option> 
-						<option value="Portugal">Portugal</option> 
-						<option value="Puerto Rico">Puerto Rico</option> 
-						<option value="Qatar">Qatar</option> 
-						<option value="Reunion">Reunion</option> 
-						<option value="Romania">Romania</option> 
-						<option value="Russian Federation">Russian Federation</option> 
-						<option value="Rwanda">Rwanda</option> 
-						<option value="Saint Helena">Saint Helena</option> 
-						<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option> 
-						<option value="Saint Lucia">Saint Lucia</option> 
-						<option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option> 
-						<option value="Saint Vincent and The Grenadines">Saint Vincent and The Grenadines</option> 
-						<option value="Samoa">Samoa</option> 
-						<option value="San Marino">San Marino</option> 
-						<option value="Sao Tome and Principe">Sao Tome and Principe</option> 
-						<option value="Saudi Arabia">Saudi Arabia</option> 
-						<option value="Senegal">Senegal</option> 
-						<option value="Serbia and Montenegro">Serbia and Montenegro</option> 
-						<option value="Seychelles">Seychelles</option> 
-						<option value="Sierra Leone">Sierra Leone</option> 
-						<option value="Singapore">Singapore</option> 
-						<option value="Slovakia">Slovakia</option> 
-						<option value="Slovenia">Slovenia</option> 
-						<option value="Solomon Islands">Solomon Islands</option> 
-						<option value="Somalia">Somalia</option> 
-						<option value="South Africa">South Africa</option> 
-						<option value="South Georgia and The South Sandwich Islands">South Georgia and The South Sandwich Islands</option> 
-						<option value="Spain">Spain</option> 
-						<option value="Sri Lanka">Sri Lanka</option> 
-						<option value="Sudan">Sudan</option> 
-						<option value="Suriname">Suriname</option> 
-						<option value="Svalbard and Jan Mayen">Svalbard and Jan Mayen</option> 
-						<option value="Swaziland">Swaziland</option> 
-						<option value="Sweden">Sweden</option> 
-						<option value="Switzerland">Switzerland</option> 
-						<option value="Syrian Arab Republic">Syrian Arab Republic</option> 
-						<option value="Taiwan, Province of China">Taiwan, Province of China</option> 
-						<option value="Tajikistan">Tajikistan</option> 
-						<option value="Tanzania, United Republic of">Tanzania, United Republic of</option> 
-						<option value="Thailand">Thailand</option> 
-						<option value="Timor-leste">Timor-leste</option> 
-						<option value="Togo">Togo</option> 
-						<option value="Tokelau">Tokelau</option> 
-						<option value="Tonga">Tonga</option> 
-						<option value="Trinidad and Tobago">Trinidad and Tobago</option> 
-						<option value="Tunisia">Tunisia</option> 
-						<option value="Turkey">Turkey</option> 
-						<option value="Turkmenistan">Turkmenistan</option> 
-						<option value="Turks and Caicos Islands">Turks and Caicos Islands</option> 
-						<option value="Tuvalu">Tuvalu</option> 
-						<option value="Uganda">Uganda</option> 
-						<option value="Ukraine">Ukraine</option> 
-						<option value="United Arab Emirates">United Arab Emirates</option> 
-						<option value="United Kingdom">United Kingdom</option> 
-						<option value="United States">United States</option> 
-						<option value="United States Minor Outlying Islands">United States Minor Outlying Islands</option> 
-						<option value="Uruguay">Uruguay</option> 
-						<option value="Uzbekistan">Uzbekistan</option> 
-						<option value="Vanuatu">Vanuatu</option> 
-						<option value="Venezuela">Venezuela</option> 
-						<option value="Viet Nam">Viet Nam</option> 
-						<option value="Virgin Islands, British">Virgin Islands, British</option> 
-						<option value="Virgin Islands, U.S.">Virgin Islands, U.S.</option> 
-						<option value="Wallis and Futuna">Wallis and Futuna</option> 
-						<option value="Western Sahara">Western Sahara</option> 
-						<option value="Yemen">Yemen</option> 
-						<option value="Zambia">Zambia</option> 
+					<div id="frmCountry"><select style="border:1px solid #ccc; width:204px;" id="country" name="country">
+						<option value="" selected="selected">Select Country</option>
+						<option value="United States">United States</option>
+						<option value="United Kingdom">United Kingdom</option>
+						<option value="Afghanistan">Afghanistan</option>
+						<option value="Albania">Albania</option>
+						<option value="Algeria">Algeria</option>
+						<option value="American Samoa">American Samoa</option>
+						<option value="Andorra">Andorra</option>
+						<option value="Angola">Angola</option>
+						<option value="Anguilla">Anguilla</option>
+						<option value="Antarctica">Antarctica</option>
+						<option value="Antigua and Barbuda">Antigua and Barbuda</option>
+						<option value="Argentina">Argentina</option>
+						<option value="Armenia">Armenia</option>
+						<option value="Aruba">Aruba</option>
+						<option value="Australia">Australia</option>
+						<option value="Austria">Austria</option>
+						<option value="Azerbaijan">Azerbaijan</option>
+						<option value="Bahamas">Bahamas</option>
+						<option value="Bahrain">Bahrain</option>
+						<option value="Bangladesh">Bangladesh</option>
+						<option value="Barbados">Barbados</option>
+						<option value="Belarus">Belarus</option>
+						<option value="Belgium">Belgium</option>
+						<option value="Belize">Belize</option>
+						<option value="Benin">Benin</option>
+						<option value="Bermuda">Bermuda</option>
+						<option value="Bhutan">Bhutan</option>
+						<option value="Bolivia">Bolivia</option>
+						<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+						<option value="Botswana">Botswana</option>
+						<option value="Bouvet Island">Bouvet Island</option>
+						<option value="Brazil">Brazil</option>
+						<option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+						<option value="Brunei Darussalam">Brunei Darussalam</option>
+						<option value="Bulgaria">Bulgaria</option>
+						<option value="Burkina Faso">Burkina Faso</option>
+						<option value="Burundi">Burundi</option>
+						<option value="Cambodia">Cambodia</option>
+						<option value="Cameroon">Cameroon</option>
+						<option value="Canada">Canada</option>
+						<option value="Cape Verde">Cape Verde</option>
+						<option value="Cayman Islands">Cayman Islands</option>
+						<option value="Central African Republic">Central African Republic</option>
+						<option value="Chad">Chad</option>
+						<option value="Chile">Chile</option>
+						<option value="China">China</option>
+						<option value="Christmas Island">Christmas Island</option>
+						<option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+						<option value="Colombia">Colombia</option>
+						<option value="Comoros">Comoros</option>
+						<option value="Congo">Congo</option>
+						<option value="Congo, The Democratic Republic of The">Congo, The Democratic Republic of The</option>
+						<option value="Cook Islands">Cook Islands</option>
+						<option value="Costa Rica">Costa Rica</option>
+						<option value="Cote D'ivoire">Cote D'ivoire</option>
+						<option value="Croatia">Croatia</option>
+						<option value="Cuba">Cuba</option>
+						<option value="Cyprus">Cyprus</option>
+						<option value="Czech Republic">Czech Republic</option>
+						<option value="Denmark">Denmark</option>
+						<option value="Djibouti">Djibouti</option>
+						<option value="Dominica">Dominica</option>
+						<option value="Dominican Republic">Dominican Republic</option>
+						<option value="Ecuador">Ecuador</option>
+						<option value="Egypt">Egypt</option>
+						<option value="El Salvador">El Salvador</option>
+						<option value="Equatorial Guinea">Equatorial Guinea</option>
+						<option value="Eritrea">Eritrea</option>
+						<option value="Estonia">Estonia</option>
+						<option value="Ethiopia">Ethiopia</option>
+						<option value="Falkland Islands (Malvinas)">Falkland Islands (Malvinas)</option>
+						<option value="Faroe Islands">Faroe Islands</option>
+						<option value="Fiji">Fiji</option>
+						<option value="Finland">Finland</option>
+						<option value="France">France</option>
+						<option value="French Guiana">French Guiana</option>
+						<option value="French Polynesia">French Polynesia</option>
+						<option value="French Southern Territories">French Southern Territories</option>
+						<option value="Gabon">Gabon</option>
+						<option value="Gambia">Gambia</option>
+						<option value="Georgia">Georgia</option>
+						<option value="Germany">Germany</option>
+						<option value="Ghana">Ghana</option>
+						<option value="Gibraltar">Gibraltar</option>
+						<option value="Greece">Greece</option>
+						<option value="Greenland">Greenland</option>
+						<option value="Grenada">Grenada</option>
+						<option value="Guadeloupe">Guadeloupe</option>
+						<option value="Guam">Guam</option>
+						<option value="Guatemala">Guatemala</option>
+						<option value="Guinea">Guinea</option>
+						<option value="Guinea-bissau">Guinea-bissau</option>
+						<option value="Guyana">Guyana</option>
+						<option value="Haiti">Haiti</option>
+						<option value="Heard Island and Mcdonald Islands">Heard Island and Mcdonald Islands</option>
+						<option value="Holy See (Vatican City State)">Holy See (Vatican City State)</option>
+						<option value="Honduras">Honduras</option>
+						<option value="Hong Kong">Hong Kong</option>
+						<option value="Hungary">Hungary</option>
+						<option value="Iceland">Iceland</option>
+						<option value="India">India</option>
+						<option value="Indonesia">Indonesia</option>
+						<option value="Iran, Islamic Republic of">Iran, Islamic Republic of</option>
+						<option value="Iraq">Iraq</option>
+						<option value="Ireland">Ireland</option>
+						<option value="Israel">Israel</option>
+						<option value="Italy">Italy</option>
+						<option value="Jamaica">Jamaica</option>
+						<option value="Japan">Japan</option>
+						<option value="Jordan">Jordan</option>
+						<option value="Kazakhstan">Kazakhstan</option>
+						<option value="Kenya">Kenya</option>
+						<option value="Kiribati">Kiribati</option>
+						<option value="Korea, Democratic People's Republic of">Korea, Democratic People's Republic of</option>
+						<option value="Korea, Republic of">Korea, Republic of</option>
+						<option value="Kuwait">Kuwait</option>
+						<option value="Kyrgyzstan">Kyrgyzstan</option>
+						<option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option>
+						<option value="Latvia">Latvia</option>
+						<option value="Lebanon">Lebanon</option>
+						<option value="Lesotho">Lesotho</option>
+						<option value="Liberia">Liberia</option>
+						<option value="Libyan Arab Jamahiriya">Libyan Arab Jamahiriya</option>
+						<option value="Liechtenstein">Liechtenstein</option>
+						<option value="Lithuania">Lithuania</option>
+						<option value="Luxembourg">Luxembourg</option>
+						<option value="Macao">Macao</option>
+						<option value="Macedonia, The Former Yugoslav Republic of">Macedonia, The Former Yugoslav Republic of</option>
+						<option value="Madagascar">Madagascar</option>
+						<option value="Malawi">Malawi</option>
+						<option value="Malaysia">Malaysia</option>
+						<option value="Maldives">Maldives</option>
+						<option value="Mali">Mali</option>
+						<option value="Malta">Malta</option>
+						<option value="Marshall Islands">Marshall Islands</option>
+						<option value="Martinique">Martinique</option>
+						<option value="Mauritania">Mauritania</option>
+						<option value="Mauritius">Mauritius</option>
+						<option value="Mayotte">Mayotte</option>
+						<option value="Mexico">Mexico</option>
+						<option value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+						<option value="Moldova, Republic of">Moldova, Republic of</option>
+						<option value="Monaco">Monaco</option>
+						<option value="Mongolia">Mongolia</option>
+						<option value="Montserrat">Montserrat</option>
+						<option value="Morocco">Morocco</option>
+						<option value="Mozambique">Mozambique</option>
+						<option value="Myanmar">Myanmar</option>
+						<option value="Namibia">Namibia</option>
+						<option value="Nauru">Nauru</option>
+						<option value="Nepal">Nepal</option>
+						<option value="Netherlands">Netherlands</option>
+						<option value="Netherlands Antilles">Netherlands Antilles</option>
+						<option value="New Caledonia">New Caledonia</option>
+						<option value="New Zealand">New Zealand</option>
+						<option value="Nicaragua">Nicaragua</option>
+						<option value="Niger">Niger</option>
+						<option value="Nigeria">Nigeria</option>
+						<option value="Niue">Niue</option>
+						<option value="Norfolk Island">Norfolk Island</option>
+						<option value="Northern Mariana Islands">Northern Mariana Islands</option>
+						<option value="Norway">Norway</option>
+						<option value="Oman">Oman</option>
+						<option value="Pakistan">Pakistan</option>
+						<option value="Palau">Palau</option>
+						<option value="Palestinian Territory, Occupied">Palestinian Territory, Occupied</option>
+						<option value="Panama">Panama</option>
+						<option value="Papua New Guinea">Papua New Guinea</option>
+						<option value="Paraguay">Paraguay</option>
+						<option value="Peru">Peru</option>
+						<option value="Philippines">Philippines</option>
+						<option value="Pitcairn">Pitcairn</option>
+						<option value="Poland">Poland</option>
+						<option value="Portugal">Portugal</option>
+						<option value="Puerto Rico">Puerto Rico</option>
+						<option value="Qatar">Qatar</option>
+						<option value="Reunion">Reunion</option>
+						<option value="Romania">Romania</option>
+						<option value="Russian Federation">Russian Federation</option>
+						<option value="Rwanda">Rwanda</option>
+						<option value="Saint Helena">Saint Helena</option>
+						<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+						<option value="Saint Lucia">Saint Lucia</option>
+						<option value="Saint Pierre and Miquelon">Saint Pierre and Miquelon</option>
+						<option value="Saint Vincent and The Grenadines">Saint Vincent and The Grenadines</option>
+						<option value="Samoa">Samoa</option>
+						<option value="San Marino">San Marino</option>
+						<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+						<option value="Saudi Arabia">Saudi Arabia</option>
+						<option value="Senegal">Senegal</option>
+						<option value="Serbia and Montenegro">Serbia and Montenegro</option>
+						<option value="Seychelles">Seychelles</option>
+						<option value="Sierra Leone">Sierra Leone</option>
+						<option value="Singapore">Singapore</option>
+						<option value="Slovakia">Slovakia</option>
+						<option value="Slovenia">Slovenia</option>
+						<option value="Solomon Islands">Solomon Islands</option>
+						<option value="Somalia">Somalia</option>
+						<option value="South Africa">South Africa</option>
+						<option value="South Georgia and The South Sandwich Islands">South Georgia and The South Sandwich Islands</option>
+						<option value="Spain">Spain</option>
+						<option value="Sri Lanka">Sri Lanka</option>
+						<option value="Sudan">Sudan</option>
+						<option value="Suriname">Suriname</option>
+						<option value="Svalbard and Jan Mayen">Svalbard and Jan Mayen</option>
+						<option value="Swaziland">Swaziland</option>
+						<option value="Sweden">Sweden</option>
+						<option value="Switzerland">Switzerland</option>
+						<option value="Syrian Arab Republic">Syrian Arab Republic</option>
+						<option value="Taiwan, Province of China">Taiwan, Province of China</option>
+						<option value="Tajikistan">Tajikistan</option>
+						<option value="Tanzania, United Republic of">Tanzania, United Republic of</option>
+						<option value="Thailand">Thailand</option>
+						<option value="Timor-leste">Timor-leste</option>
+						<option value="Togo">Togo</option>
+						<option value="Tokelau">Tokelau</option>
+						<option value="Tonga">Tonga</option>
+						<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+						<option value="Tunisia">Tunisia</option>
+						<option value="Turkey">Turkey</option>
+						<option value="Turkmenistan">Turkmenistan</option>
+						<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+						<option value="Tuvalu">Tuvalu</option>
+						<option value="Uganda">Uganda</option>
+						<option value="Ukraine">Ukraine</option>
+						<option value="United Arab Emirates">United Arab Emirates</option>
+						<option value="United Kingdom">United Kingdom</option>
+						<option value="United States">United States</option>
+						<option value="United States Minor Outlying Islands">United States Minor Outlying Islands</option>
+						<option value="Uruguay">Uruguay</option>
+						<option value="Uzbekistan">Uzbekistan</option>
+						<option value="Vanuatu">Vanuatu</option>
+						<option value="Venezuela">Venezuela</option>
+						<option value="Viet Nam">Viet Nam</option>
+						<option value="Virgin Islands, British">Virgin Islands, British</option>
+						<option value="Virgin Islands, U.S.">Virgin Islands, U.S.</option>
+						<option value="Wallis and Futuna">Wallis and Futuna</option>
+						<option value="Western Sahara">Western Sahara</option>
+						<option value="Yemen">Yemen</option>
+						<option value="Zambia">Zambia</option>
 						<option value="Zimbabwe">Zimbabwe</option>
 					</select>
 					</div>	
@@ -493,84 +492,103 @@ isMozillaProduct = false;
 				<div id="optIn">Catalogs I want:&nbsp;
 					<input type="checkbox" name="BCBGMAXAZRIA">&nbsp;BCBGMAXAZRIA&nbsp;&nbsp;
 				</div>
-				<div id="btnRequest" style="margin-right: 40px;"><a href="javascript:submitCatalogRequest();"><img src="../images/submit.gif" border="0"></a></div>
+				<div id="btnRequest" style="margin-right: 40px;"><a href="javascript:submitCatalogRequest();"><img src="http://bcbg.imageg.net/images/submit.gif" border="0"></a></div>
 			</form>
-		</div>	
+		</div>
 	</div>
+	<div style="visibility:hidden; height: 0px; width: 0px;"><iframe name="ifr1" width="0" height="0"></iframe></div>
 	<!-- END CATALOG REQUEST FORM -->
 	<div id="header">
 		<div id="headTop">
 			<div id="lChamber">
-			  <div id="logo"><a href="/home/index.jsp" title="HOME"><img src="http://bcbg.imageg.net/images/header/bcbd_logo.gif" border="0" alt="BCBGMAXAZRIA"></a></div>
+			  <div id="logo"><a href="/home/index.jsp" title="HOME"><img src="http://bcbg.imageg.net/images/header/bcbg_logo.gif" border="0" alt="BCBGMAXAZRIA"></a></div>
 			</div>
 			<div id="rChamber">
 				<div id="topNav">
 					<ul id="topNav">
-<li><a title="SHOPPING BAG (0)" href="/cart/index.jsp">SHOPPING BAG (0)</a></li>
-<li><a title="MY ACCOUNT" href="https://www.bcbg.com/coreg/index.jsp?step=register">MY ACCOUNT</a></li>
-<li><a title="EMAIL SIGN UP" href="javascript: showEmailSignup(); void(0);">EMAIL SIGN UP</a></li>
+	<li><a title="SHOPPING BAG (0)" href="/cart/index.jsp">SHOPPING BAG (<span id="cartItemCount">0</span>)</a></li>
+	<li><a title="MY ACCOUNT" href="https://www.bcbg.com/coreg/index.jsp?step=register">MY ACCOUNT</a></li>
+	<li><a title="EMAIL SIGN UP" href="javascript:showEmailSignup(); void(0);">EMAIL SIGN UP</a></li>
+	<li><a title="TWITTER" href="http://twitter.com/BCBGMAXAZRIA" target="_blank"><img src="http://bcbg.imageg.net/images/header/twitter.gif" alt="Twitter" width="17" height="17" border="0" title="TWITTER"></a></li>
+	<li><a title="FACEBOOK" href="http://www.facebook.com/BCBGMAXAZRIA" target="_blank"><img src="http://bcbg.imageg.net/images/header/facebook.gif" alt="FaceBook" width="17" height="17" border="0" title="FACEBOOK"></a></li>
 </ul>
 				</div>
 				<div id="searchBar">
 					<div id="searchForm">
 					<form action="/searchHandler/index.jsp" name="search" style="display:inline;margin:0;">
-			<input type="hidden" name="filter" value="yes">
-								
-			<input type="hidden" name="searchId" value="2768985">				
-								
-								<div id="searchField">
-								<input type="text" id="topNavSearchText" value="SEARCH" onfocus="this.value = '';" name="keywords">
-								</div>
-									<div id="searchbutton">
-									<script language="JavaScript">
-									<!--
-									 function change( imgName, imgLocation )
-										{
-										 document[imgName].src = imgLocation ;
-										}
-									//-->
-									</script>
-								<a href="javascript:submitSearchForm();" onmouseover="change('buttonhome','http://bcbg.imageg.net/images/header/search_arrow2.gif');" onmouseout="change('buttonhome','http://bcbg.imageg.net/images/header/search_arrow.gif');"><img src="http://bcbg.imageg.net/images/header/search_arrow.gif" border="0" height="20" width="20" name="buttonhome"></a>
-								</div>
-								</form>
-								</div>
-								
-					<div id="oasSpotTop1">
-							<a href="http://oas.imageg.net/O/a/s/bcbg.com/helpdesk/index.jsp/290118542/Top1/BCBG_TEST/ticker0416.gif/61633135303730393439663561663330" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/BCBG_TEST/ticker0416.gif" alt="" border="0"></a>
+						<input type="hidden" name="filter" value="yes">
+						
+						<input type="hidden" name="searchId" value="10845754">				
+						
+						<div id="searchField">
+							<input type="text" id="topNavSearchText" value="SEARCH" onfocus="this.value = '';" name="keywords">
+						</div>
+						<div id="searchbutton">
+							<script language="JavaScript">
+							<!--
+								function change(imgName, imgLocation){
+									document[imgName].src = imgLocation ;
+								}
+							//-->
+							</script>
+							<a href="javascript:submitSearchForm();" onmouseover="change('buttonhome','http://bcbg.imageg.net/images/header/search_arrow2.gif');" onmouseout="change('buttonhome','http://bcbg.imageg.net/images/header/search_arrow.gif');"><img src="http://bcbg.imageg.net/images/header/search_arrow.gif" border="0" height="20" width="20" name="buttonhome"></a>
+						</div>
+					</form>
 					</div>
-
+					
+					<div id="oasSpotTop1" style="display:none;">
+							<a href="http://oas.imageg.net/O/a/s/bcbg.com/helpdesk/index.jsp/2009281382/Top1/default/empty.gif/61633134303730393465613130313730" target="_top"><img src="http://oas.imageg.net/O/a/Creatives/default/empty.gif" width="2" height="2" alt="" border="0"></a>
+					</div>
+					
 				</div>
-				
 			</div>
 		</div>
 		<div id="headBttm">
-			
+			<link rel="stylesheet" type="text/css" href="http://bcbg.imageg.net/css/DF_BCBG_nav.css">
+
+
+
+<script type="text/javascript" src="http://bcbg.imageg.net/js/prototype.js"></script>
+
+<script type="text/javascript" src="http://bcbg.imageg.net/js/df/Df.js"></script>
+<script type="text/javascript" src="http://bcbg.imageg.net/js/df/dropdown.js"></script>
+<script type="text/javascript" src="http://bcbg.imageg.net/js/df/Df.Navigation.js"></script>
+
 <!-- Cid = -->
+
 <ul id="mainNav">
-<li><a id="arrivals" href="/family/index.jsp?categoryId=2769198&amp;cp=2584262&amp;clickid=top_nav_na" title="NEW ARRIVALS"></a></li>
+	<li class="topCat"><a id="whats-new" href="/category/index.jsp?categoryId=4213674&amp;clickid=top_nav_na" title="WHAT'S NEW"></a>
+		<ul id="navMenu0" class="df_element_hide"><li><a title="NEW ARRIVALS" href="/family/index.jsp?categoryId=4375050&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW ARRIVALS</a></li><li><a title="TOP SELLERS" href="/family/index.jsp?categoryId=3757838&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOP SELLERS</a></li><li><a title="SHOP TRENDS" href="/category/index.jsp?categoryId=11859629&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP TRENDS</a></li><li><a title="FASHION EXTREMES" href="/family/index.jsp?categoryId=3915683&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FASHION EXTREMES</a></li><li><a title="MAGAZINE ISSUE NO.3" href="/category/index.jsp?categoryId=11859635&amp;cp=4213674&amp;clickid=cat_leftnav_txt" class="leftNavCategory">MAGAZINE ISSUE NO.3</a></li></ul>
+	</li>
+	<li class="topCat"><a id="shop-category" href="/category/index.jsp?categoryId=4213681&amp;clickid=top_nav_dresses" title="SHOP BY CATEGORY"></a>
+		<ul id="navMenu1" class="df_element_hide"><li><a title="DRESSES" href="/category/index.jsp?categoryId=2769162&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/category/index.jsp?categoryId=4364320&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="SWEATERS" href="/family/index.jsp?categoryId=3917269&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWEATERS</a></li><li><a title="JACKETS" href="/category/index.jsp?categoryId=4366384&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JACKETS</a></li><li><a title="COATS" href="/family/index.jsp?categoryId=3896796&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">COATS</a></li><li><a title="BOTTOMS" href="/category/index.jsp?categoryId=4366394&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="HANDBAGS" href="/category/index.jsp?categoryId=4372699&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="FOOTWEAR" href="/category/index.jsp?categoryId=4372846&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="FRAGRANCE" href="/family/index.jsp?categoryId=12090059&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FRAGRANCE</a></li><li><a title="ACCESSORIES" href="/category/index.jsp?categoryId=2769196&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="SHAPEWEAR" href="/family/index.jsp?categoryId=4278591&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHAPEWEAR</a></li><li><a title="GIFTS" href="/category/index.jsp?categoryId=3508817&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">GIFTS</a></li><li><a title="SALE" href="/category/index.jsp?categoryId=2939729&amp;cp=4213681&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SALE</a></li></ul>
+	</li>
+	<li class="topCat"><a id="shop-occasion" href="/category/index.jsp?categoryId=4213690&amp;clickid=top_nav_clothing" title="SHOP BOUTIQUES"></a>
+		<ul id="navMenu2" class="df_element_hide"><li><a title="COOL COQUETTES" href="/family/index.jsp?categoryId=11859650&amp;cp=4213690&amp;clickid=cat_leftnav_txt" class="leftNavCategory">COOL COQUETTES</a></li><li><a title="READY FETE GO" href="/family/index.jsp?categoryId=11859651&amp;cp=4213690&amp;clickid=cat_leftnav_txt" class="leftNavCategory">READY FETE GO</a></li><li><a title="NIGHT REIGN" href="/family/index.jsp?categoryId=11859649&amp;cp=4213690&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NIGHT REIGN</a></li></ul>
+	</li>
+	<li class="topCat"><a id="sale" href="/category/index.jsp?categoryId=3591711&amp;clickid=top_nav_sale" title="Sale"></a>
+		<ul id="navMenu4" class="df_element_hide"><li><a title="NEW MARKDOWNS" href="/family/index.jsp?categoryId=3394846&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW MARKDOWNS</a></li><li><a title="60% OFF" href="/family/index.jsp?categoryId=4364312&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">60% OFF</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3126135&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3127125&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="SWEATERS" href="/family/index.jsp?categoryId=3127128&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SWEATERS</a></li><li><a title="JACKETS &amp; VESTS" href="/family/index.jsp?categoryId=3127129&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JACKETS &amp; VESTS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3127126&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="HANDBAGS" href="/family/index.jsp?categoryId=4289069&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="FOOTWEAR" href="/family/index.jsp?categoryId=3425673&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="JEWELRY" href="/family/index.jsp?categoryId=4289070&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JEWELRY</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3127127&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL SALE" href="/family/index.jsp?categoryId=4015528&amp;cp=2939729&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL SALE</a></li></ul>
+	</li>
+	<li class="topCat" id="Navspacer"><a id="Navspacer"></a></li>
+    	<li class="topCat"><a id="runway" href="/category/index.jsp?categoryId=2901570&amp;cp=2584262&amp;clickid=top_nav_runway" title="RUNWAY COLLECTION"></a>
+		<ul id="navMenu5" class="df_element_hide"><li><a title="FALL 2011" href="/family/index.jsp?categoryId=11443777&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL 2011</a></li><li><a title="PRE-FALL 2011" href="/family/index.jsp?categoryId=11589151&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL 2011</a></li><li><a title="SHOP RUNWAY VIDEO" href="/category/index.jsp?categoryId=3598464&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP RUNWAY VIDEO</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3936812&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3936814&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3936815&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3818412&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3726979&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=4374554&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="PRE-FALL CATALOG" href="/category/index.jsp?categoryId=11818019&amp;cp=2901570&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL CATALOG</a></li></ul>
+	</li>
+	<li class="topCat"><a id="herve" href="/category/index.jsp?categoryId=3370524&amp;cp=2584262&amp;clickid=top_nav_herve" title="HERVE LEGER"></a>
+		<ul id="navMenu7" class="df_element_hide"><li><a title="FALL 2011" href="/family/index.jsp?categoryId=3915673&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL 2011</a></li><li><a title="PRE-FALL 2011" href="/family/index.jsp?categoryId=4430947&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL 2011</a></li><li><a title="SPRING 2011" href="/family/index.jsp?categoryId=3947008&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING 2011</a></li><li><a title="SIGNATURE 2011" href="/family/index.jsp?categoryId=4280890&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SIGNATURE 2011</a></li><li><a title="SHOP RUNWAY VIDEO" href="/category/index.jsp?categoryId=3598463&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP RUNWAY VIDEO</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3376885&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3445949&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3805083&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3793708&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3370525&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=11973618&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="PRE-FALL CATALOG" href="/category/index.jsp?categoryId=11818020&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL CATALOG</a></li><li><a title="SIGNATURE LOOKBOOK" href="/category/index.jsp?categoryId=4370072&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SIGNATURE LOOKBOOK</a></li><li><a title="SPRING AD CAMPAIGN" href="/category/index.jsp?categoryId=3757857&amp;cp=3370524&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING AD CAMPAIGN</a></li></ul>
+	</li>
+	<li class="topCat"><a id="max" href="/category/index.jsp?categoryId=3444435&amp;cp=2584262&amp;clickid=top_nav_max" title="MAX AZRIA "></a>
+		<ul id="navMenu6" class="df_element_hide"><li><a title="FALL 2011" href="/family/index.jsp?categoryId=11032621&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL 2011</a></li><li><a title="PRE-FALL 2011" href="/family/index.jsp?categoryId=11487615&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL 2011</a></li><li><a title="SPRING 2011" href="/family/index.jsp?categoryId=11032625&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING 2011</a></li><li><a title="SHOP RUNWAY VIDEO" href="/category/index.jsp?categoryId=3603032&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SHOP RUNWAY VIDEO</a></li><li><a title="DRESSES" href="/family/index.jsp?categoryId=3725499&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/family/index.jsp?categoryId=3805076&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/family/index.jsp?categoryId=3805077&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="ACCESSORIES" href="/family/index.jsp?categoryId=3793725&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="VIEW ALL" href="/family/index.jsp?categoryId=3444451&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">VIEW ALL</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=10845754&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="PRE-FALL CATALOG" href="/category/index.jsp?categoryId=11690772&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-FALL CATALOG</a></li><li><a title="SPRING AD CAMPAIGN" href="/category/index.jsp?categoryId=3577956&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING AD CAMPAIGN</a></li><li><a title="PRE-SPRING CATALOG" href="/category/index.jsp?categoryId=2769198&amp;cp=3444435&amp;clickid=cat_leftnav_txt" class="leftNavCategory">PRE-SPRING CATALOG</a></li></ul>
+	</li>	
 
-<li><a id="dresses" href="/family/index.jsp?categoryId=2840697&amp;cp=2769162&amp;clickid=top_nav_dresses" title="DRESSES"></a></li>
-
-<li><a id="clothing" href="/category/index.jsp?categoryId=2769127&amp;cp=2584262&amp;clickid=top_nav_clothing" title="CLOTHING"></a></li>
-
-<li><a id="footwear" href="/family/index.jsp?categoryId=2840703&amp;cp=2769195&amp;clickid=top_nav_footwear" title="FOOTWEAR"></a></li>
-
-<li><a id="access" href="/category/index.jsp?categoryId=2769196&amp;cp=2584262&amp;clickid=top_nav_access" title="ACCESSORIES"></a></li>
-
-<li><a id="sale" href="/family/index.jsp?categoryId=3203884&amp;cp=2939729&amp;clickid=top_nav_sale" title="SALE"></a></li>
-
-<li><a id="runway" href="/category/index.jsp?categoryId=2901570&amp;cp=2584262&amp;clickid=top_nav_runway" title="BCBGMAXAZRIA RUNWAY"></a></li>
-
-<li><a id="max" href="/category/index.jsp?categoryId=3444435&amp;cp=2584262&amp;clickid=top_nav_max" title="MAX AZRIA"></a></li>
-
-<li><a id="herve" href="/category/index.jsp?categoryId=3370524&amp;cp=2584262&amp;clickid=top_nav_herve" title="HERVE LEGER"></a></li>
-
+	<li class="topCat"><a id="BCBGeneration" href="/category/index.jsp?categoryId=3571753&amp;clickid=top_nav_generation" title="BCBGENERATION"></a>
+		<ul id="navMenu8" class="df_element_hide"><li><a title="NEW ARRIVALS" href="/family/index.jsp?categoryId=4379494&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">NEW ARRIVALS</a></li><li><a title="JOYCE'S PICKS" href="/family/index.jsp?categoryId=3912208&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JOYCE'S PICKS</a></li><li><a title="FALL COLOR" href="/family/index.jsp?categoryId=12145639&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL COLOR</a></li><li><a title="DENIM SHOP" href="/family/index.jsp?categoryId=12172386&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DENIM SHOP</a></li><li><a title="DRESSES" href="/category/index.jsp?categoryId=4414406&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">DRESSES</a></li><li><a title="TOPS" href="/category/index.jsp?categoryId=4414404&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">TOPS</a></li><li><a title="BOTTOMS" href="/category/index.jsp?categoryId=4414405&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">BOTTOMS</a></li><li><a title="FOOTWEAR" href="/family/index.jsp?categoryId=3982536&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FOOTWEAR</a></li><li><a title="HANDBAGS" href="/family/index.jsp?categoryId=3905243&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">HANDBAGS</a></li><li><a title="JEWELRY" href="/family/index.jsp?categoryId=4129776&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">JEWELRY</a></li><li><a title="ACCESSORIES" href="/category/index.jsp?categoryId=4414407&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">ACCESSORIES</a></li><li><a title="SALE" href="/category/index.jsp?categoryId=4299918&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SALE</a></li><li><a title="FALL CATALOG" href="/category/index.jsp?categoryId=12181298&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">FALL CATALOG</a></li><li><a title="SPRING CATALOG" href="/category/index.jsp?categoryId=3757820&amp;cp=3571753&amp;clickid=cat_leftnav_txt" class="leftNavCategory">SPRING CATALOG</a></li></ul>
+	</li>	
+	<li class="topCat"><a id="finalCut" href="/category/index.jsp?categoryId=3542295&amp;clickid=top_nav_final" title="FINAL CUT OUTLET"></a>
+		<ul id="navMenu9" class="df_element_hide"></ul>
+	</li>
 </ul>
-
 		</div>
 	</div>		
-	
-	
 
 <div style="display:none;">
 	
@@ -681,7 +699,7 @@ if (isMozillaProduct){
 	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=privacy&amp;clickid=footerlink_trackorder_txt" class="footLink">PRIVACY POLICY</a> 
 	| <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=terms" class="footLink">TERMS OF USE</a>
 	<div class="copyright">
-		© 2009 BCBGMAXAZRIAGROUP, INC
+		© 2011 BCBG MAX AZRIA GROUP, INC. ALL RIGHTS RESERVED.
 	</div>
 
 <div align="right">
@@ -700,6 +718,165 @@ if (isMozillaProduct){
 
 
 
+<!--You are running on ashprd1_ws_11_1-->
+
+
+
+
+
+
+
+ 
+
+<script type="text/javascript">
+
+
+
+
+
+
+
+</script>
+<script language="javascript" src="https://dsa.csdata1.com/data/js/10041133/csgather.js"></script>
+
+
+
+<script type="text/javascript">
+var date = new Date();
+date.setTime(date.getTime()+(24*60*60*1000*10000));
+var expires = date.toGMTString();
+var enableWishlist="";
+var userId="";
+var username="BCBG";
+var userValue=""+",";
+var rewardsUserValue=""+",";
+var flagPage="0";
+if(enableWishlist ==1 && flagPage==1){
+	document.cookie = username+'_Wishlist_clearSaleing='+ userValue+userId +'; expires=' + expires + ';path=/';
+}
+
+var rewardsflagPage="0";
+if(rewardsflagPage==1){
+	document.cookie = 'AceRewards_clearSaleing='+ rewardsUserValue+userId +'; expires=' + expires + ';path=/';
+}
+
+</script>	
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_11_1-->
+
+
+
+
+
+<!-- Kenshoo Pixel  --->
+
+		
+<!-- Kenshoo Pixel -->
+
+
+
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_11_1-->
+
+
+
+
+<!-- trackingPageType getRequestURI() /gsi/bcbg/helpdesk/index.jsp  --><!-- trackingPageType finalPage() helpdesk  -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+						<!-- No Tracking Pixel defined via allTrackingPixelFile -->
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_11_1-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+function storeSREDID() {
+    var thirtyDays = (60*60*1000*24)*30;
+    var vals = document.location.search;
+    start = vals.indexOf("SREDID=");
+    if (start != -1) {
+        var end = vals.indexOf("&", start);
+        if (end == -1){ end = vals.length }
+        var date = new Date();date.setTime(date.getTime()+ thirtyDays);
+        document.cookie= vals.substring(start,end) + "; expires=" + date.toGMTString() + "; path=/";
+    }
+}
+function getSREDID(){
+   var n = "SREDID=";
+   var cookies = document.cookie;
+   var start = cookies.indexOf(n);
+   if (start == -1){ return null; }
+   start += n.length ;
+   var end = cookies.indexOf(";", start);
+   if (end == -1){ end = cookies.length }
+   return cookies.substring(start, end);
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	
 
 
@@ -708,27 +885,8 @@ if (isMozillaProduct){
 
 
 
-<!--You are running on secprd1_ws_10_7-->
 
-
-
-
-
-
-
-
-	
-	
-
-
-
-
-
-
-
-
-
-<!--You are running on secprd1_ws_10_7-->
+<!--You are running on ashprd1_ws_11_1-->
 
 
 
@@ -736,27 +894,151 @@ if (isMozillaProduct){
 <!-- // End of code of PMO 52759 -->
 
 
-         
+
          
 
-<script language="JavaScript">
+         <script language="JavaScript">
 var s_account='gsicbcbg';
 var s_server='www.bcbg.com';
-var s_hier1='';
-var s_eVar19='66829318463';
-var s_channel='Home';
-var s_pageName='Customer Assistance - Customer Assitance Landing Page';
+var s_hier1='MAX AZRIA ,FALL CATALOG';
+var s_eVar19='134191346814';
+var s_channel='MAX AZRIA ';
+var s_pageName='Category: FALL CATALOG';
 </script>
 <script language="JavaScript" src="http://bcbg.imageg.net/include/omniture.js"></script>
 <!-- End SiteCatalyst code version: G.9. -->
 
 
-       
+        
 	
 
 
 
 
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+<!--You are running on ashprd1_ws_11_1-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="aol-tracking" style="overflow:hidden;height:0;">
+	
+	 
+			<script type="text/javascript">
+			Event.observe(window, 'load', function() {
+				$('aol-tracking').insert('<img src="https://secure.leadback.advertising.com/adcedge/lb?site=695501&betr=bcbg_cs=[+]1[720],3[2160]" width="1" height="1" border="0">');
+			});
+			</script>
+			<noscript>
+			<img src="https://secure.leadback.advertising.com/adcedge/lb?site=695501&betr=bcbg_cs=[+]1[720],3[2160]" width="1" height="1" border="0">
+			</noscript>
+	
+	
+</div>
+
+
+
+<div id="silver-pop-tracking" style="overflow:hidden;height:0;">
+	
+			<!--
+			Start of DoubleClick Floodlight Tag: Please do not remove
+			Activity name of this tag: BCBG - Retargeting Tag
+			URL of the webpage where the tag is expected to be placed: http://www.bcbg.com/home/index.jsp
+			This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+			Creation Date: 06/17/2010
+			-->
+			
+
+			<noscript>
+			<iframe src="https://fls.doubleclick.net/activityi;src=2693903;type=retar794;cat=bcbg-943;ord=1?" width="1" height="1" frameborder="0"></iframe>
+			</noscript>	
+
+
+			<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+
+
+
+
+</div>
+
+
+
+
+
+
+<div id="trackingPixels" style="visibility:hidden">
+	<script type="text/javascript">
+		var ga_pageName, ga_ch, ga_uid, ga_products, ga_pid, ga_events;
+		if(typeof(s_pageName)!="undefined")
+			ga_pageName = s_pageName;
+		if(typeof(ga_ch)!="undefined")
+			ga_ch = s_ch;
+		if(typeof(s_eVar19)!="undefined")
+			ga_uid = s_eVar19;
+		if(typeof(s_events)!="undefined")
+			ga_events = s_events;
+		if(typeof(s_products)!="undefined")
+			ga_products = s_products;
+		if(typeof(s_pid)!="undefined")
+			ga_pid = s_pid;
+	</script>
+	
+	<script type="text/javascript">
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+       </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+       <script type="text/javascript">
+	       try {
+			var pageTracker = _gat._getTracker("UA-12696396-1");			
+		} catch(err) {}
+	</script>
+
+		       <script type="text/javascript">
+		       try {	
+
+				pageTracker._setCustomVar(1,"PAGE",ga_pageName,1);
+				pageTracker._setCustomVar(2,"CH",ga_ch,1);
+				pageTracker._setCustomVar(3,"","",1); 
+				pageTracker._setCustomVar(4,"","",1);
+				pageTracker._setCustomVar(5,"UID",ga_uid,1);
+			} catch(err) {}
+		</script>
+
+			       <script type="text/javascript">
+	       try {
+			pageTracker._setCustomVar(1,"PAGE",ga_pageName,3);  
+			pageTracker._setCustomVar(2,"CH",ga_ch,3); 
+			pageTracker._setCustomVar(3,"EVENT",ga_events,3);
+			pageTracker._setCustomVar(4,"PID", ga_pid,3);
+			pageTracker._setCustomVar(5,"PRODUCTS",ga_products,3); 	
+			pageTracker._trackPageview(ga_pageName); 
+		} catch(err) {}
+	</script>
+</div>
 
 
 
