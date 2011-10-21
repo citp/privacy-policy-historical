@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the anscamobile.com privacy policy that was archived on 2010-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100917232805id_/http%3A//www.anscamobile.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anscamobile.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021162057id_/http%3A//www.anscamobile.com/privacy) for the most accurate reproduction.*
 
-# Ansca | Unlock your imagination...
-
-## Ansca Customer Privacy Policy
+# Join the Corona app development community
 
 Ansca’s Customer Privacy Policy covers the collection, use, and disclosure of personal information that may be collected by Ansca anytime you interact with Ansca, such as when you visit our website, when you purchase Ansca products and services, or when you call our sales or support associates. Please take a moment to read the following to learn more about our information practices, including what type of information is gathered, how the information is used and for what purposes, to whom we disclose the information, and how we safeguard your personal information. Your privacy is a priority at Ansca, and we go to great lengths to protect it. 
 
@@ -85,9 +83,5 @@ Ansca’s website has links to the sites of other companies. Ansca is not respon
 ### Privacy questions
 
 Ansca may update its privacy policy from time to time. When we change the policy in a material way a notice will be posted on our website along with the updated privacy policy. 
-
-  
-Copyright © 2009-2010 Ansca Inc. All rights reserved.   
-Ansca Inc., 720 University Avenue, Suite #105, Palo Alto, CA, 94301. 
 
 Last updated January 11th, 2010 
