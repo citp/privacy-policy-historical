@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcmelectronics.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602084246id_/http%3A//mcmelectronics.com/content/en-US/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcmelectronics.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021185542id_/http%3A//www.mcmelectronics.com/content/en-US/help/privacy) for the most accurate reproduction.*
 
 # MCM Electronics | Help Center - Privacy Policy
 
