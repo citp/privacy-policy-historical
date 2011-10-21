@@ -1,34 +1,29 @@
-> *The following text is extracted and transformed from the dimensionsguide.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226102122id_/http%3A//www.dimensionsguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dimensionsguide.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021105104id_/http%3A//www.dimensionsguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dimensions Guide
 
 **Privacy Policy**
 
-The privacy of all visitors to Dimensions Guide is very important to us and we don’t take it lightly. 
+The privacy of visitors to our web sites is very important to us.
 
-Here at Dimensions Guide, we appreciate that your personal information is private and it is imperative to protect it. This page will help you understand what data is passed when you use and visit Dimensions Guide, and how in turn we safeguard that information.  You can rest assured that we will never sell any of your personal information a third party for any reason.
-
-This data is used to facilitate and allow you to have greater ease when visiting our site such as being able to comment on a blog or post to one of our forums. Primarily the data collected is as follows:
+At DimensionsGuide, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit DimensionsGuide web properties, and how we safeguard your information. We never sell your personal information to third parties.
 
 **Log Files**
 
-As is the case with many other online sites, we gather and make use of data located in log files.  Some of the information in these log files include your Internet Protocol (IP) address, your Internet Service Provider (ISP), the type of browser you use to the site (for example Firefox or Internet Explorer), the exact time you visited the site and also which web pages you landed on all throughout our site. 
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (Internet Protocol) address, your ISP (Internet Service Provider, such as Comcast or Cox), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
 
-**Web Beacons & Cookies**
+**Cookies and Web Beacons**
 
-Dimensions Guide does use cookies to store information; an example of this is your personal preferences when you go to our site.  Usually this includes such things as only allowing a popup once a visit to the site or the ability to avail of some of the features of the site such as message board and forums.
+We do use browser cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-You may have noticed the use of third party advertisements on Dimensions Guide which helps defray the costs of running our site. And just like Dimensions Guide, many of these advertisers in turn use the same technology mentioned above for the same purposes as we do. This may include cookies and web beacons when the advertisements are displayed on our site. 
+We also use third party advertisements on DimensionsGuide to support our sites financially. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
-This means that the same information and data (your IP address, your ISP, the browser you are using, and in some cases, whether you have certain plug-ins installed like Flash) will also be sent to these advertisers. A perfect example of this is Google through their Google AdSense program. 
+**DoubleClick DART Cookies**
 
-This is not malicious; it is simply to target ads it what is called ‘geotargeting’ or in other words, showing California properties available for rent to someone in California and not visitors from Florida. Another example would be to display targeted ads based on specific web sites previously visited. An example of that would be to display automotive ads to someone who frequents automotive web sites.
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting: _<http://www.doubleclick.com/privacy/dart_adserving.aspx>_.
 
-You can choose to disable cookies completely or selectively turn off the use of cookies in your browser settings, or by using a third party program such as Norton Internet Security to manage your browsing preferences. 
+You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
-Be warned however, this may affect how one is able to interact with not only our site but most of your Internet sites you commonly visit.  An example would be the inability to access services or login to forums and/or accounts.
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-As owners and operators of Dimensions Guide, we of course reserve all rights to make changes to this privacy policy. Therefore it would be beneficial for you to review this policy if concerned each time you visit Dimensions Guide to ensure you understand how any personal data you provide is used.
-
-If you have any questions in regard to this Privacy Policy please use the contact form located [**HERE**](http://www.dimensionsguide.com/contact-us/) and we will get back to you as soon as possible.  
-
+If you have any questions in regard to this Privacy Policy please use the contact form located **[HERE](http://www.dimensionsguide.com/contact-us/)** and we will get back to you as soon as possible.
