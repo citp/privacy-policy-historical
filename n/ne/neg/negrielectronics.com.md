@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the negrielectronics.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525040842id_/http%3A//negrielectronics.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the negrielectronics.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021162347id_/http%3A//negrielectronics.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice
 
