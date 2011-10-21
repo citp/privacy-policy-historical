@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427131218id_/http%3A//bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcbg.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021051034id_/http%3A//www.bcbg.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dfooterlink_trackorder_txt) for the most accurate reproduction.*
 
-# BCBGMAXAZRIA : Customer Serivce
+# BCBGMAXAZRIA : Customer Service
 
  
 
