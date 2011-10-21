@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitreturn.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525063042id_/https%3A//myitreturn.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitreturn.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021171335id_/https%3A//myitreturn.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Skorydov myITreturn | Online Income Tax Return Filing Solution for Individuals | Income Tax India | Income Tax Refunds | Tax Preparation | Efiling of Tax Returns
 
