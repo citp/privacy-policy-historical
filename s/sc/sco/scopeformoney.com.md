@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scopeformoney.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106073625id_/http%3A//www.scopeformoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scopeformoney.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021133334id_/http%3A//www.scopeformoney.com/privacy-policy) for the most accurate reproduction.*
 
 # Scopeformoney: Privacy Policy
 
