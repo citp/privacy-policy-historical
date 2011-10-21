@@ -1,189 +1,173 @@
-> *The following text is extracted and transformed from the wonderhill.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101031824id_/http%3A//www.wonderhill.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wonderhill.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021110153id_/http%3A//www.kabam.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# WonderHill.com - WonderHill Privacy Policy
+# Privacy Policy
 
-## PRIVACY POLICY
+#### Our Commitment To Privacy
 
-This Privacy Policy is effective as of June 10, 2009.
+Welcome to Kabam, an online service operated by Kabam, Inc.(“Kabam”), which includes without limitation websites such as Kabam.com and online games and applications available through social networking sites (individually and collectively, the “Site”). Your privacy is very important to us. All Kabam employees and founders make it our highest priority to keep the information that our users entrust in us safe.
 
-At WonderHill, we believe privacy is very important. This Privacy Policy outlines the types of information we collect as well as steps we take to keep your private information private. Our aim is to help you make an educated decision when choosing to use the site and/or share information with us.
+We operate under high standards for keeping your privacy safe. We operate under the following guiding principles:
 
-#### What This Privacy Policy Covers
+  * Any sensitive information that you provide will be secured with industry standard protocols and technology
+  * Your privacy remains strictly under your control
 
-This privacy policy pertains to the use of the WonderHill web site at [http://www.wonderhill.com](http://wonderhill.com/), and the WonderHill services.
 
-This Privacy Policy applies only to websites and services that are owned and operated by WonderHill. We do not exercise control over the sites displayed as search results or linked to or from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit information from you. We encourage you to read their privacy policies before you enter into an exchange with them.
 
-WonderHill may allow other companies to serve advertisements on its website. These third-party advertisers use technology to send, directly to your browser, the advertisements and links that appear on the website. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content to a certain audience.
+To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and permanently at the following URL: <https://www.kabam.com/privacypolicy>. By using the Site, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. This notice may be updated from time to time to reflect our continuing efforts to protect our users’ privacy. You will always be able to find the latest version posted on our website.
 
-This privacy policy covers how WonderHill treats information that WonderHill collects and receives.
+#### The Information We Collect
 
-Your use of the WonderHill website, the WonderHill services and any information you provide on the website is subject to the terms of this Privacy Policy. 
+_1) Kabam Applications on Partner-Operated Websites_
 
-#### The Information We Collect and How We Use It
+In order to use Kabam applications on partner-operated websites (e.g., Facebook, MySpace, etc.), we may require you to 1) be a registered member of a partner site, and 2) install a Kabam application on your partner site account. If your use of a Kabam application requires installation of such application on a partner-operated website, you generally must agree to such partner site’s terms of service, which often allow application developers like Kabam to store certain information about you. The terms of service for partner-operated websites vary from partner to partner in this regard.
 
-Several WonderHill services do not require you to register for an account or provide any personal information. Such services include viewing user profiles and our forums. 
+When you install a Kabam application on your partner site account, we may assign you a unique identifying number and a default display name, which we may retain. Your display name serves as your publicly visible identity within all websites that serve Kabam applications. By default, we may assign your display name to be your first name only.
 
-For these no-registration-required services WonderHill collects the following information:
+Kabam abides by the terms of service of all partner sites. If you have any questions about your privacy, please contact privacy[at]kabam.com.
 
-  * Cookies: A cookie is a small file containing a unique string of characters that is sent from the WonderHill servers and saved by your browser software. Using the cookie approach provides maximum privacy protection while also allowing WonderHill to provide the desired personalized services. Browsers are typically set to accept cookies, however, you can change the settings on your browser to notify you when a site is sending a cookie to your browser or, alternatively, to refuse cookies altogether. If your cookies are disabled, these no-registration-required WonderHill services may not function properly. If the WonderHill cookie is cleaned from your browser, and you haven’t registered with personally identifiable information, then all your preferences will be lost, and you will need to reset your preferences to continue using WonderHill’s personalized services. 
-  * Log information: When you use WonderHill services, our servers automatically record the data that your browser sends whenever you visit a website. These "server logs" include data such as browser type, Internet Protocol address, your web request, the date and time of your requests, and your WonderHill cookie(s) that uniquely identify your browser. 
-  * Clear Gifs Information: When you use the WonderHill website, we may employ clear gifs (a.k.a. web beacons), which are used to anonymously track the online usage patterns of users without collecting any personally identifiable information about you. 
-  * Clear gifs search query data, log information and cookies are non-personal information because such information is not collected or used in such a way that an individual user can be identified, for example, by name or email address. 
-  * We use non-personal information to: (a) remember information so that you will not have to re-enter it during your current or subsequent visits to the WonderHill website; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems; (f) access your information after you sign in; and (h) market our website to advertisers and other third parties. 
+_2) Kabam Applications on Kabam-Operated Websites_
 
+In order to use Kabam applications on Kabam-operated websites, you may be required to first complete a registration form and create a user name and password. During registration you may be required to give contact information such as your name and email address. We may use this information to contact you when another user interacts with your profile, or to update you with your friends’ activities in our applications.
 
+You may have the option to provide demographic and professional information (such as education, interests, and resume) to us; we encourage you to submit this information so other users can interact with your profile. If you choose to use our referral service to tell a friend about our site, we may ask you for your friend’s name and email address. We may automatically send your friend an email inviting him or her to visit the site. Kabam may store such information for various purposes including without limitation to send emails to referrals and track the success of our referral program.
 
-For WonderHill services where registration is required, we will collect the non-personal information described above, and in addition, we collect the following types of personal information for the following purposes (personal information is information that personally identifies you, such as your name, email address, home address, phone numbers, or other data which can be reasonably linked to such information):
+Your friend may contact us at privacy[at]kabam.com to request that we remove this information from our database.
 
-  * Information you provide: When you sign up for a WonderHill service that requires registration, we ask you for personal information. Examples of that information include your name, email address, account password, etc. For the purpose of providing you with a better experience or improving the quality of our services, we may combine the information you submitted with information from other WonderHill websites or services. For certain services, we may provide you the choice of opting out from combining such information. 
-  * Inviting Friends: When you invite new users to use WonderHill, and when you send messages through WonderHill, we collect and store those messages, including email addresses and content. If you use a third-party address book like Yahoo or Hotmail to send invitations to friends, we do not store your password to those services. 
-  * If you invite another person to join WonderHill, we use the name and email address you provide us to contact that person and, if necessary, remind that person that he or she has been invited to join WonderHill. All invitees are given the option not to receive further invitations from WonderHill.
-  * User communications: If you send email to WonderHill, we may retain those communications in order to reply to your inquiries, fulfill your requests and to improve our services. 
-  * Affiliated sites: Some of WonderHill’s services are provided in cooperation with other online services and websites. Personal information that you provide to those sites may be sent to WonderHill in order to deliver the service to you on the WonderHill site. This Privacy Policy also governs how we process such information. The affiliated sites may have different privacy practices and we suggest you also read their privacy policies. 
-  * Sensitive Information: We will not collect or use sensitive information for reasons other than those described in this Policy and/or in the specific service sections, unless we obtain your prior consent. 
+All information that you enter or upload about your contacts will be covered by the same terms of this Privacy Policy as cover your own personally identifiable information.
 
+#### Service-Related Announcements
 
+We may send you announcements to notify you of service related notifications and product releases and features, and to solicit your feedback and input.
 
-#### When We May Share Your Information
+Generally, you may not opt-out of these communications. If you do not wish to receive such communications, you will have the option to deactivate your account. In certain circumstances, such emails from Kabam may contain links for preference management and where appropriate, unsubscribe links should you decide you do not want to receive further emails.
 
-WonderHill shares collected information (both personal and non-personal information) with our subsidiaries, affiliated companies or other trusted businesses or persons who process such information on our behalf in order for us to provide or improve our services. We require that these parties agree to process such information in compliance with this Privacy Policy, and to take reasonable confidentiality and security measures with respect to such information.
+#### Web Site Usage
 
-We share non-personal information (such as anonymous website use data) with third-parties to assist them in understanding our website, including usage of our website and the services we provide and the success of advertisements and promotions.
+Like most web sites, Kabam uses cookies and web log files to track site usage of the Site. A cookie is a tiny data file which resides on your computer which allows Kabam to recognize you as a user when you return to our Site using the same computer and web browser. Unfortunately, if your browser settings do not allow cookies, you will not be able to use our applications. Like the information you enter at registration or in your profile, cookie and log file data is used to customize your experience on the Site.
 
-We may release collected information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. It may be necessary to share collected information in order to investigate, prevent, or take action regarding suspected or actual illegal activities, including but not limited to, fraud, potential threats to public safety or the physical safety of any person, violations of our Terms of Use, or as otherwise permitted by law.
+Log Files
 
-WonderHill also reserves the right to disclose collected Information that WonderHill believes is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our website, and to exercise or protect the rights, property, or personal safety of WonderHill, our users or others.
+As is true of most web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
-In the event that WonderHill is acquired by or merged with a third party entity, we reserve the right to transfer or assign the information we have collected from you as part of such merger, acquisition, sale, or other change of control. If WonderHill is involved in a change of control we will provide notice before personal information becomes subject to a different privacy policy.
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the Site to improve our service, and to gather demographic information about our user base as a whole.
 
-In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+We do link this automatically-collected data to personally identifiable information. IP addresses are only tied to personally identifiable information in the event we try to identify possible fraudulent activities.
 
-Except as described above, WonderHill will not share your personal information with third parties unless you have elected to "opt in" to such sharing of your information.
+We use third-party tracking services, such as Google Analytics, that use cookies to track non-personally identifiable information about visitors to our site in the aggregate. We use this service to capture usage and volume statistics to help us improve the Kabam service.
 
-Please contact us for any additional questions about the management or use of personal data.
+Cookies
 
-#### Networking
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies in our applications on the Site. We do link the information we store in cookies to personally identifiable information you submit while on our Site.
 
-WonderHill members can view each others' profiles, communicate with old friends and meet new friends on the service, play games together, share comments, and describe their interests. To enrich our members' experience, we request and display some personal information to other members and visitors, which allows our users to identify each other and get to know one another better. WonderHill members can change their profile information at any time and control how other members and the service communicates with them. The following describes our privacy practices that are specific to the WonderHill services.
+We use both session ID cookies and persistent cookies. A session ID cookie expires after you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-As a WonderHill member, you can create a profile that includes personal information, plus other content, such as photos. This information may be accessed and viewed by other WonderHill members and people browsing the WonderHill site.
+We use session cookies to confirm that users are logged in. As a convenience feature, we offer an option that will remember your login information for a period of two weeks. This login information is encrypted and set in a persistent cookie so you don’t have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site. If you reject cookies, you will not be able to sign in to use our site.
 
-When you invite new members into your network or send messages through WonderHill, we collect and store those messages.
+Other third-parties may place advertisements and cookies on web-pages within our applications on the Site. Other companies’ use of their cookies is subject to their own privacy policies, not this one.
 
-WonderHill maintains your personal information in order to provide your WonderHill account and related networking services that let you get to know other people, and let them to get to know you in some way. Your profile information is controlled by you. You can delete it at any time.
+Third Party Advertising
 
-When you send messages through WonderHill, your name and address will be identified in the message. We also use your name and email address to notify you of new members, messages, or other information, such as new profile updates, new photos, etc.
+We use third-party advertising companies to serve ads on our Site, including without limitation on certain Kabam games and Kabam applications on social networking sites. Our system and the third-party advertising technology uses information derived from Activity Information, Kabam’s cookies on your hard drive, your visits to and use of our Site, including without limitation the Kabam games that you view and the Kabam applications on social networking sites that you use, to target advertising within our Site. In addition, our advertisers may use other third-party advertising technology to target advertising on our Site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser’s cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
 
-#### Your Choices
+Except as set forth herein, Kabam does not provide any personally identifiable information to third-party advertising companies. We may however disclose personally identifiable information as required by law, as otherwise set forth below, or if in our judgment it is necessary to protect our company or our users from loss or liability.
 
-When you sign up for a WonderHill service that requires registration, such as networking, we ask you for personal information. If we want to use your personal information for purposes other than those described in this Policy, we will provide you with an effective way to opt into such use.
+Cookie Opt-Out
 
-We will not collect or use personal information for reasons other than those described in this Privacy Policy and/or in the specific service sections, unless we obtain your prior consent.
+We allow each user to opt out of our ad-serving cookies, so that no unique information or number is associated with the end user’s computer browser. Blocking and/or opting out of cookies do not stop advertisements from being served to your computer; rather, it prevents data from being associated with the end user’s browser. Please note that if you choose an opt-out cookie, we will be unable to recognize your browser from one visit to the next, and you may therefore receive the same ad multiple times.
 
-You can decline to submit personal information to any of our services, in which case WonderHill may not be able to provide those services to you.
+[Click here for the ad-serving cookie opt-out](http://www.networkadvertising.org/managing/opt_out.asp)
 
-#### Information security
+All other cookies associated with your browser will remain intact and your opt-out will be effective for the entire life of your browser on your hard drive or until you delete the cookie file from your hard drive. This opt-out process will erase the cookie ID but not the cookie.
 
-We have adopted certain measures to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any personal information and you provide such information at your own risk.
+#### The Way Your Information Is Visible and shared
 
-#### Updating personal information
+The primary purpose of entering data into Kabam is to build your Kabam profile. Your profile is meant to be shared with fellow fans. As a user, you have control over how much information you choose to share with other fans.
 
-For many of our services, we provide secure and easily accessible mechanisms for updating and correcting your personal information and preferences. For more information, please see the FAQ pages.
+We use your personal information to:
 
-#### Our Commitment To Children's Privacy
+  * respond to your requests for information and newsletters,
+  * provide you with access to games and services,
+  * notify you of changes to your tip requests,
+  * provide product support, customer services and other communications related to your transactions on our website or with our products (e.g., reminders about posting you have made, expirations of postings you have made, or updates to software you have licensed),
+  * determine if you are eligible to receive certain products, services or promotions,
+  * provide you with additional information that may be of interest, including marketing materials, and
+  * support other everyday business purposes, such as product development, job applications, and website administration.
 
-Protecting the privacy of young children is especially important. For that reason, WonderHill does not knowingly collect personal information on its website from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the WonderHill website at any time or in any manner. For people between the ages of 13 and 18, we recommend you ask your parents for permission before providing any personal information to anyone over the Internet, including WonderHill.
 
-#### International Users
 
-The WonderHill website is hosted in the United States and is intended for and directed to Users in the United States. If you are accessing the WonderHill website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the WonderHill website, which is governed by U.S. law, this Privacy Policy, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+#### Sharing of Information with Third Parties
 
-#### Changes to this Policy
+Other than as described below with respect to Kabam service providers, we do not generally sell, trade, rent or share your personal information with third parties without your express consent, though we may directly pass onto you information from third parties that we think may be of interest. Only when you expressly opt-in to receive communications, such as through a check-box, from selected third parties whose products or services Kabam thinks might be of interest to you, will we share your e-mail address with those parties.
 
-This Privacy Policy may change from time to time. We will post those changes on this page and, if the changes are significant, we will provide a prominent notice. Please revisit this page to stay aware of any material changes. Your continued use of the WonderHill website or services constitutes your agreement to this Privacy Policy and any future revisions.
+#### Public Display of Information
 
-#### More information
+If you participate in community features such as forums or chat, your username will be visible to the public. You may also display your name, contact info through some of these services. In addition, our chat, tips and forums allow you to communicate with members of the online community. Whenever you give out information in public areas, that information can be collected and used by people you do not know so you should not give out personal information.
 
-WonderHill adheres to the US Safe Harbor privacy principles. For more information about the Safe Harbor framework or our registration, see the Department of Commerce's website.
+#### Service Providers
 
-#### WonderHill Privacy Definitions and FAQ
+We occasionally employ other companies to perform services necessary to our internal operations. For example, we may partner with other companies to fulfill an order for games, deliver promotional emails, or provide customer service. While providing services for us, these companies may access your personal information, and are required to use it solely as directed by us for the purpose of our requested service. These companies are obligated to maintain your personal information in confidence. We may also provide postal addresses to the U.S. Post Office or other couriers for delivery purposes.
 
-#### What is personal information?
+#### Purchase or Sale of Businesses
 
-We consider "personal information" to be information you provide to us that personally identifies you, such as your name, email address, home address, phone numbers, or other data which can be reasonably linked to such information.
+Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, “Affiliates”), this may change in the future. We may share some or all of your personal nformation with these Affiliates, in which case we will request our Affiliates to honor this Privacy Policy. If our company or our assets are acquired by another company, that company will possess the personal information collected by us and it will assume the rights and obligations regarding your personal information as described in this Privacy Policy. The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
 
-#### What is non-personal information?
+#### Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others
 
-We define "non-personal information" as data we collect from many people and aggregate into groups so that it is no longer connected to individually identifiable users.
+Please note that we may disclose any information as permitted or required by law, when we believe in good faith it is necessary for safety purposes, required for legal reporting, or to protect our legal rights or enforce our Terms of Use or any contest rules. We may also disclose information about you to our auditors or legal advisors, or in response to a subpoena.
 
-#### What is collected information?
+#### Aggregate Information
 
-We define "collected information" as both the personal and non-personal information that we collect from our users.
+We may take your personal information and make it non-personally identifiable. We do this either by combining it with information about other individuals (aggregating your information with information about other individuals), and by removing characteristics (e.g., your name) that make the information personally identifiable to you. This process is known as de-personalizing your information. We may use de-personalized information in any way and share it with third parties.
 
-#### What is sensitive information?
+#### Our Commitment To Data Security
 
-We define "sensitive personal information" as personal information related to confidential medical information, racial or ethnic origins, political or religious beliefs or sexuality.
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-#### What is a WonderHill Account?
+Kabam employs protected facilities, data encryption on your stored personally identifiable information, firewalls, intrusion detection, and many other security measures to protect your data. We have invested many capital and human resources into our infrastructure to secure the data of our users and will continue to make additional technology investments.
 
-In order for you to use some WonderHill services, we need to be able to authenticate you and protect your preferences and personal information from unauthorized access. To do that, we ask that you sign up for a unique account, typically secured by your unique email address, a password and your name. Several services on WonderHill may share this personal information in order to customize experiences and improve our services for you. No account information is shared with anyone other than WonderHill except as specified in the Privacy Policy or with your consent.
+If you have any questions about security on our Site, you can send an email us at support[at]kabam.com
 
-You can edit or terminate your account at any time through your WonderHill Account settings.
+#### Use Of Bulletin Boards
 
-#### What is a cookie?
+If you use a bulletin board or blog on our Site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. We do not recommend posting personally identifiable information on such bulletin boards or blogs.
 
-A cookie is a small file containing a unique string of characters that is sent from a website’s servers and saved by your browser software when you first visit the website. On subsequent visits to the same website, the cookie allows the site to recognize your browser. The unique string of characters in a cookie may store user preferences and other information. You can reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, some website features or services may not function properly without cookies.
+#### International Visitors and Customers:
 
-#### How do I delete a cookie?
+This Site is hosted in the United States. If you are visiting from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States which does not have the same data protection laws as the EU and by providing your personal data you consent to:
 
-Deleting cookies is different for each browser. These are instructions for popular browsers used. If you don't use any of these browser, refer to your browser's website for instructions.
+  * the use of your personal data for the purposes identified above in accordance with this Privacy Policy; and
+  * the transfer of your personal data to the United States as indicated above.
 
-Internet Explorer
 
-  * Select 'Internet Options...' from the 'Tools' menu.
-  * Click on "Delete Cookies..." from the 'Temporary Internet files' section.
-  * Click 'Ok' on the confirmation window that appears.
 
+#### Our Commitment To Children’s Privacy
 
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. If you are under 13, please do not attempt to register for the Site or send any information about yourself to Kabam, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to Kabam or on the Site. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that Kabam might have any information from or about a child under 13, please contact us at privacy[at]kabam.com. We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-Firefox (Windows)
+#### How You Can Access Or Correct Your Information
 
-  * Select 'Options' from the 'Tools' menu.
-  * Click on 'Privacy' from the top selections, then click on the 'Cookies' tab.
-  * Click 'Clear Cookies Now'
+_1) Kabam Applications on Partner-Operated Websites_
 
+You can access all your personally identifiable information that we collect online and maintain by clicking on and editing your profile within our applications. If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change online or by removing our application from your partner site account.
 
+_2) Kabam Applications on Kabam-Operated Websites_
 
-Safari
+If your personally identifiable information changes, or if you no longer desire our service, you may update it by making the change online or by contacting us through the methods indicated in the “How To Contact Us” section.
 
-  * Select 'Preferences' from the 'Safari' menu.
-  * Click on 'Security' from the top selections.
-  * Click on the 'Show Cookies' button.
-  * Select the 'WonderHill' cookies and click on the 'Remove' button. Or you can also 'Remove All'
+#### Privacy Policy Updates
 
+If we decide to change our privacy policy, we will post those changes to this privacy statement on the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here by means of a notice on our home page.
 
-#### What are server logs?
+#### Legal Responsibilities Disclosure
 
-Websites are "served" off servers, which are over-sized computers. These servers automatically record, or "log," the page requests made when a user visits a website. These "server logs" include data such as browser type, Internet Protocol address, your web request, the date and time of your requests, and your cookie(s) that uniquely identify your browser.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights or comply with a judicial proceeding, court order, or legal process served on Kabam.
 
-#### What information does WonderHill receive if I click on a link displayed on WonderHill?
+#### How To Contact Us
 
-When you click on a link displayed on WonderHill, we record the fact that someone using your browser, as identified by your unique cookie, clicked on that link. This information is stored for 72 hours in a one-way hashing scheme, which prevents us or anyone from seeing the actual queries performed. After 72 hours, those stored queries are deleted from our database.
+We dedicate resources to helping you contact us if you have questions about your privacy and personally identifiable information. You can contact us by emailing our Customer Support support[at]kabam.com, or by contacting us by postal mail at the contact information listed below.
 
-#### URLs and embedded information
-
-Some of our services, including WonderHill Toolbar, send the uniform resource locators ("URLs") of web pages that you request to WonderHill. WonderHill does not exercise any control over these third-party websites or whether they embed personal information into URLs.
-
-#### What protections do I have against government investigations into my use of WonderHill services?
-
-WonderHill complies with the same laws and processes that all lawful companies abide by, including search warrants, court orders, subpoenas and other processes seeking personal information. The primary protections you have against intrusions by the government are the laws that apply to where you live.
-
-If you have any additional questions or concerns about this policy, please [contact us](https://web.archive.org/contact) at any time, or write to us here: 
-
-WonderHill Privacy  
-c/o WonderHill Inc  
-703 Market Street, Suite 470  
-San Francisco, California 94103  
-
+Kabam, Inc.  
+101 Redwood Shores Parkway, Suite 250  
+Redwood City, CA 94065
