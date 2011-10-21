@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107230743id_/http%3A//www.reedconstructiondata.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reedconstructiondata.com privacy policy that was archived on 2011-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111021191704id_/http%3A//www.reedconstructiondata.com/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Last Revised: April 2009
+#### Last Revised: January 2011
 
 #### Overview
 
@@ -10,30 +10,32 @@ Our site visitors’ privacy and trust are important to us. We provide this noti
 
 This Privacy Policy describes the policies of Reed Construction Data ( ** _“RCD”_** or ** _“we”_** ), a subsidiary of Reed Elsevier Inc., regarding the collection, use, disclosure and protection of the following types of information:
 
-  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of RCD **ReedConstructionData.com, ReedConnect.com, ReedBulletin.com, SmartProjectNews.com, MeansCostworks.com, RSMeans.com, ReedPSP.com, DCNOnl.com, and JOCOnl.com** web site (collectively, this “Site”).
+  * Information obtained when you (“ ** _you_** _”_ **** or “ ** _User_** ”) visit any of the following web sites of RCD **ReedConstructionData.com, ReedConnect.com, SmartProjectNews.com, MeansCostworks.com, RSMeans.com, and ReedPSP.com,** web site (collectively, this “Site”).
   * Information obtained through e-mail communications with you related to the Site.
 
 
 
-This privacy policy does not apply to information we collect by other means (including offline) or from other sources. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy.
+This privacy policy does not apply to information we collect by other means (including offline) or from other sources or other Internet sites. Your use of this Site constitutes your acceptance of this Privacy Policy and your consent to any action we take with respect to your information in compliance with this Privacy Policy. If you sign in to the Site using social networking such as Facebook or Twitter, that social network will request your permission to provide your information to us and we will use it in compliance with this Privacy Policy. If you send us a request to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com), we will delete the data we received from social networking sites, but you will no longer be able to sign into this Site through a social networking site. 
 
-We may change the terms of this Privacy Policy, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
+We may change the terms of this Privacy Policy prospectively, so Users are encouraged to review this page from time to time. Your continued use of this Site following the posting of changes to the Privacy Policy means that you accept the changes.
+
+Children (persons under the age of 18) are not eligible to use the Site.
 
 #### Information We Collect and How We Collect It
 
-We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback and when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards).
+We require you to provide certain information about yourself if you register with this Site or request products and services. We also collect information when you participate in contests and surveys, when you respond to requests for feedback, when you submit postings to public areas of this Site (e.g., blogs, moderated discussions and bulletin boards) and when you log on to this Site through social networks such as Facebook, or Twitter.
 
-The information we collect may include information from which you may be personally identified (“ **Personally Identifiable Information** ”), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. This Site only collects Personally Identifiable Information with your knowledge.
+The information we collect may include information from which you may be personally identified (" **Personally Identifiable Information** "), such as name, postal address, telephone number, fax number and e-mail address, and certain business information such as employer name, occupation, job function, job title and buying information (e.g., preferences or history). We also will collect credit card and related information when you request a product or service (including, if applicable, registering for the Site) for which there is a charge. 
 
-When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the web site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
+When you visit this Site, we may collect the IP address of your computer. We also use automatic data collection technology to record other information that identifies your computer and tracks your behavior on this Site. Methods used to collect this information may include “cookies” and “clear GIFs” (also known as “pixel tags” or “beacons”). A cookie is a small amount of data that is sent to your browser from a server and stored on your computer’s hard drive. Most browsers allow Users to block the receipt of cookies, but doing so may compromise your ability to use certain features of this Site. A clear GIF is a small graphic image, typically used in connection with cookies, that is placed on a web site or in an email message. A clear GIF can monitor certain user behavior, such as your usage of the Site, whether you opened an email message or whether you clicked on a URL in an email message. We do not collect Personally Identifiable Information in this way, but if you provide us with Personally Identifiable Information, we may associate that information with the information that is collected automatically.
 
-Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. You also may view the privacy policy of DoubleClick, a third party that serves ads to this Site, at [www.privacychoices.org](http://www.privacychoices.org/).
+Some of the materials included on this Site, including advertising, may be served by third parties. These third parties, in the course of serving such materials, may collect information regarding your use of this Site and how you respond to e-mail communications, using methods that may include automatic data collection, and may use this information in order to present advertisements or other content that may be of interest to you on both this Site and other web sites. Collection, use, disclosure and security of information collected by third parties are subject to the privacy policies of those third parties. If you would like more information about this practice or to opt out of having this information used by certain third-party ad servers to provide targeted ads, please visit . <http://www.networkadvertising.org/optout_nonppii.asp>. 
 
 #### How We Use Your Information
 
 We use Personally Identifiable Information collected on this Site for the following purposes:
 
-  * To provide you with this Site and other products and services.
+  * To provide you with this Site and other products and services./li>
   * To respond to your inquiries and contact you about changes regarding this Site.
   * To provide you with e-mail, fax and other notices (such as expiration and renewal notices) regarding your account and the products or services that you are receiving, and for billing and collection purposes.
   * For any other purpose disclosed at the time the information is collected or to which you consent.
@@ -41,22 +43,22 @@ We use Personally Identifiable Information collected on this Site for the follow
 
 
 
-We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site.
+We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site and display targeted advertising.
 
 We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site.
 
-We may use the information you provide us to send you e-mail, fax and other communications on behalf of RCD and our affiliates. These communications may include e-mail newsletters, as well as offers for other RCD and Reed Elsevier services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
+We may use the information you provide us to send you e-mail, fax and other communications on behalf of RCD and our affiliates. These communications may include e-mail newsletters, as well as offers for other RCD and Reed Elsevier services. All e-mail newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from the brand whose product/service is being promoted.
 
-We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line **_“opt out — third party.”_**
+We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers from us. You may also opt out of receiving third party offers from this Site at any time by sending an e-mail to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com) with the subject line **_“opt out — third party.”_**
 
 #### Our Disclosure of Your Information
 
 We may disclose aggregated, anonymous statistics about many Users, and individual information that is not Personally Identifiable Information without restriction as long as no individual is identifiable by the information disclosed, and otherwise will not disclose your Personally Identifiable Information except as follows:
 
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
-  * To third parties engaged to provide services under contractual requirement to keep **Personally Identifiable Information** confidential and use it only to perform the services.
+  * To third parties engaged to provide services under contractual requirement to keep Personally Identifiable Information confidential and use it only to perform the services.
   * Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share certain of the User’s registration information with the Premium or Sponsored content’s sponsors and advertisers and/or their service providers. We will always disclose when you are registering or being provided with Premium or Sponsored content.
-  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com) with the subject line: **“ _do not disclose.”_**
+  * To other third parties (and/or to their service providers on their behalf) to market their products or services under contractual requirement to keep Personally Identifiable Information confidential and use it only to market and provide their products or services. You may opt out of such disclosures by sending an e-mail to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com) with the subject line: **“ _do not disclose.”_**
   * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving RCD or this Site.
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
   * When disclosure is necessary to accomplish the purpose for which you provide it.
@@ -68,9 +70,13 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 
 We use reasonable safeguards to protect Personally Identifiable Information we collect on this Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside of our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
 
+#### Forums
+
+All information you submit using forums on the Site will be available to other users of the forums without limitation. We have no control over how others use that information and you should consider this when posting information.
+
 #### Right to Access and Change Information
 
-You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to subsmail@reedbusiness.com. However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
+You may view and update information that you previously submitted to this Site by visiting the newsletter or website registration page for this Site, or which you submitted to request a print publication, by sending an e-mail to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com). However, a request to change information may not be accommodated if the request would conflict with legal requirements or result in incorrect information. Requests to view or change personal information may take a few days to process.
 
 #### Links
 
@@ -81,4 +87,8 @@ This Site contains content, services, advertising and other materials that link 
 Reed Construction Data  
 30 Technology Parkway South  
 Norcross, GA 30092  
-Email: [privacymanager@reedbusiness.com](mailto:privacymanager@reedbusiness.com)
+Email: [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com)
+
+#### Your California Privacy Rights 
+
+We will provide individuals who are California residents a description of the categories of personal customer information Reed Construction Data shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. We will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like this information, please submit a written request to [rcdwebmaster@reedbusiness.com](mailto:rcdwebmaster@reedbusiness.com) or to Reed Construction Data at the mailing address above. In your request, please specify that you want a "California Privacy Rights Notice." Please allow 30 days for a response. 
