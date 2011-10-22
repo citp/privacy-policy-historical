@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikia.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630012741id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikia.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022030945id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wikis from Wikia - Join the best wiki communities
 
@@ -6,9 +6,9 @@ Date of Last Revision: January 1, 2009
 
 This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia (the “Site” or “Service”) and services that are owned and operated by Wikia, Inc ("the Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
 
-##  The Information We Collect, And What We Do With It [](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=1)[Edit](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=1)
+##  The Information We Collect, And What We Do With It [Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=1 "Edit The Information We Collect, And What We Do With It section")
 
-###  In General [](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=2)[Edit](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=2)
+###  In General [Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=2 "Edit In General section")
 
 In order to sign up for a Wikia account, only your username, password, and date of birth are required. An email address is also requested during sign-up. “Optional information” that we request you provide may include your first name, last name, and your gender. We may also request that you provide additional “optional information” such as your interests and hobbies for purposes of enhancing your profile among the Wikia community. Any “optional information” you choose to provide may be made public. We use this information to improve your experience with the Service, including the proper targeting of advertisements. 
 
@@ -24,11 +24,11 @@ You are not required to register for an account or to provide any personal infor
 
 Wikia collects all the information you provide when you modify the content of a page or the Service (such as making edits, uploading images, etc.) An indicator that you provided that information is left on the History tab associated with the edited page or appropriate special/image page; on the Recent Changes link, in the Community box on the left side of the wiki pages, and in your user contributions. 
 
-### Online behavioral advertising[](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=3)[Edit](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=3)
+### Online behavioral advertising[Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=3 "Edit Online behavioral advertising section")
 
 Wikia may use Online behavioral advertising ("OBA") or multi-site advertising on some wikis. We collect data on the number of pages you visit per day, in order to support frequency capped advertising campaigns for certain advertisers or to improve the ad targeting based on the types of wikis you visit on Wikia. Third parties may also leave a cookie with your browser to track your visits to Wikia. We do not transfer data to third parties. Wikia users may opt out of this on the [NetworkAdvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) site. 
 
-###  Sharing Your Information [](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=4)[Edit](http://www.wikia.com/index.php?title=Privacy_Policy&action=edit&section=4)
+###  Sharing Your Information [Edit](https://web.archive.org/index.php?title=Privacy_Policy&action=edit&section=4 "Edit Sharing Your Information section")
 
 Wikia only shares your information with others in the following circumstances: 
 
