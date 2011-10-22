@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myefoods.com privacy policy that was archived on 2011-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110531035845id_/http%3A//www.myefoods.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myefoods.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022125357id_/http%3A//www.myefoods.com/privacypolicy.html) for the most accurate reproduction.*
 
 # eFoods Global - Saving Families One Meal At A Time
 
