@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524145735id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsmith.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023001355id_/http%3A//www.techsmith.com/company/privacy_policy.asp) for the most accurate reproduction.*
 
 # TechSmith Corporation - Privacy Policy
 
