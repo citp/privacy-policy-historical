@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the purseblog.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624025356id_/http%3A//www.purseblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purseblog.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022193654id_/http%3A//www.purseblog.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PurseBlog
+# Privacy Policy - PurseBlog - Designer Handbag News and Reviews
 
 At Purse Blog, we are committed to protecting the privacy of our users and visitors. The following Privacy Policy outlines the information Midley, Inc. may collect and how we may use that information to better serve visitors and members of Purse Blog. 
 
