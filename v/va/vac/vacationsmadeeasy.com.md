@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603095622id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationsmadeeasy.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022064151id_/http%3A//www.vacationsmadeeasy.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Vacations Made Easy Disclaimers
 
@@ -10,10 +10,10 @@ _Traffic Data Collected_. We automatically track and collect the following infor
 _Personal Information Collected_. In order for you to access certain premium services and to purchase products that we offer via the Site, we require you to provide us with information that personally identifies you ("Personal Information"). Personal Information may include: (i) Contact Data (such as your name, mailing and e-mail addresses); (ii) Financial Data (such as your account or credit card number); and (iii) Demographic Data (such as your zip code, age and income). If you communicate with us by e-mail, or complete online forms, surveys or contest entries, any information provided in such communication may be collected as Personal Information. 
 
 **Uses of Personal Information Collected.**  
-We may use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, or to contact you when necessary. We use your Financial Data to verify your qualifications for certain products or services and to bill you for products and services. We use your Demographic Data to customize and tailor your experience on the Site, displaying content that we think you might be interested in and according to your preferences. **Please note, this Site is not designed for nor intended for use by anyone under the age of 18 and we will not knowingly collect nor share Personal Information on Site users under the age of 18.**
+We may use Contact Data to send you information about our company or our products or services, or promotional material from some of our partners, or to contact you when necessary. We may sell or rent your contact data to third parties. We use your Financial Data to verify your qualifications for certain products or services and to bill you for products and services. We use your Demographic Data to customize and tailor your experience on the Site, displaying content that we think you might be interested in and according to your preferences. **Please note, this Site is not designed for nor intended for use by anyone under the age of 18 and we will not knowingly collect nor share Personal Information on Site users under the age of 18.**
 
 **Sharing of Personal Information.**  
-We may share Demographic Data with advertisers and other third parties only on an aggregate basis. 
+We may share Demographic Data with advertisers and other third parties. 
 
 **User Choice Regarding Collection, Use and Distribution of Personal Information.**  
 You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the Site; however you will not be able to access and use those portions of the Site that require your Personal Information. 
