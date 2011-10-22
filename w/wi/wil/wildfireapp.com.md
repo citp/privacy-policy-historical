@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319235352id_/http%3A//wildfireapp.com/buzz/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildfireapp.com privacy policy that was archived on 2011-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111022130833id_/http%3A//www.wildfireapp.com/buzz/privacy_policy) for the most accurate reproduction.*
 
 # Interactive Promotions for Brand Marketing by Wildfire Promotion Builder | Wildfire Interactive, Inc.
 
