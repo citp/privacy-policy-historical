@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airmiles.co.uk privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227191434id_/http%3A//www.airmiles.co.uk/tertiary/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airmiles.co.uk privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024001512id_/http%3A//www.airmiles.co.uk/tertiary/privacy.do) for the most accurate reproduction.*
 
 # AIRMILES Privacy Policy
 
