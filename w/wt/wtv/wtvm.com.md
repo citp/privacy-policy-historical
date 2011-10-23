@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wtvm.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624212342id_/http%3A//www.wtvm.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wtvm.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023105439id_/http%3A//www.wtvm.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - WTVM.com - News Leader 9, Columbus, GA
 
