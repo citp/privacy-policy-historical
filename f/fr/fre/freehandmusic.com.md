@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624130835id_/http%3A//www.freehandmusic.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freehandmusic.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023184802id_/http%3A//www.freehandmusic.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | FreeHandMusic.com
 
