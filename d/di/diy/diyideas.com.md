@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diyideas.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623133936id_/http%3A//www.diyideas.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diyideas.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023025924id_/http%3A//www.diyideas.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - diyideas.com
 
