@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630011755id_/http%3A//www.accuradio.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuradio.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023182251id_/http%3A//www.accuradio.com/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AccuRadio online radio
 
