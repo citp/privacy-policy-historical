@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520204140id_/http%3A//www.gamerightnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerightnow.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023024127id_/http%3A//gamerightnow.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Play Privacy Policy Ben 10 games | Scooby Doo games | Helicopter game | Funny games | Tower Defense Games
+# Play Privacy Policy Ben 10 games - Dress Up Games - Scooby Doo games - Sponge Bob games - Funny games - Naruto Games - Power Rangers Games
 
 GameRightNow is committed to providing an entertaining, fun and educational service. GameRightNow.com is a property of GameRightNow Limited "GameRightNow". GameRightNow respects the privacy concerns of visitors to GameRightNow.com. GameRightNow does not target its website or services to under 13 year olds, but does take measures to help protect those that happen to be under 13. We take measures to help children protect their privacy while online. For example, we do not ask children to disclose more personal information than is necessary for them to participate in a particular activity.
+
+  
+GameRightNow.com is one of  ValueClick Publishers, all ValueClick Publishers were notified via email and pop-up messaging from the user interface login of our recent membership with the Network Advertising Initiative (“NAI”).
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
 Information we collect
 
@@ -38,4 +45,4 @@ This Privacy Policy is part of the GameRightNow main Terms and Conditions which 
 
 Internet Safety
 
-GameRightNow recommends that Parents take time to communicate and educate their children about Internet Safety. 
+GameRightNow recommends that Parents take time to communicate and educate their children about Internet Safety.
