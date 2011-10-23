@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629094908id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023030728id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy : Support Desk
 
-## May 19, 2009
+July 18, 2011
 
 Scribd values the privacy of the users, subscribers, publishers, members, and others who visit and use the Scribd Platform (collectively or individually, “You” or “Users”).
 
 By using the Scribd Platform, you expressly consent to the information handling practices described in this notice.
 
-This Privacy Notice is incorporated into and is subject to the Scribd Platform [Terms of Use](http://support.scribd.com/forums/33939/entries/25459 "Terms of Use"). Your use of the Scribd Platform and any personal information you provide through the Scribd Platform are subject at all time to this Privacy Notice and the [Terms of Use](http://support.scribd.com/forums/33939/entries/25459 "Terms of Use").
-
-### TABLE OF CONTENTS
+This Privacy Notice is incorporated into and is subject to the Scribd Platform Terms of Use. Your use of the Scribd Platform and any personal information you provide through the Scribd Platform are subject at all time to this Privacy Notice and the Terms of Use. Terms for “Scribd” and the “Scribd Platform” apply to any site or mobile application owned and operated by Scribd, Inc, including [Scribd.com](http://scribd.com/), [Float.com](http://float.com/), and the Float mobile application.
 
   1. The Information Scribd Collects
   2. The Way Scribd Uses Information
