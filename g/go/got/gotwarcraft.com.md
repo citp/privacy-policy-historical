@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521220543id_/http%3A//gotwarcraft.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwarcraft.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023194603id_/http%3A//gotwarcraft.com/policies.php) for the most accurate reproduction.*
 
 # Gotwarcraft Privacy Policies
 
