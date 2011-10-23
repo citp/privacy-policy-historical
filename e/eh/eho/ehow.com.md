@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023450id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehow.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023151259id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow.com
 
-**Effective Date: February 01, 2011**
+**Effective Date: September 22, 2011**
 
 eHow.com is owned and operated by Demand Media, Inc. (“eHow” or “We” or “Us”). eHow is strongly committed to protecting your privacy and providing a safe online experience for all our users. This Privacy Policy (the “Policy”) discusses the personally identifying information (“PII”) that we collect about you through eHow's website, which includes all of the eHow.com articles and videos and other services we provide on the website (collectively, the “Site”). Please read the complete Policy below and contact us if you have any questions. This Policy is part of and incorporated into the Terms of Use of the Site.
 
