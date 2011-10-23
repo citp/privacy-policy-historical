@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623132036id_/http%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mallofamerica.com privacy policy that was archived on 2011-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111023052303id_/http%3A//www.mallofamerica.com/privacy) for the most accurate reproduction.*
 
 # Mall of America | Terms & Privacy
 
@@ -34,7 +34,7 @@ We work with Constant Contact as a third party service provider to conduct these
 
 From time to time we may provide you the opportunity to participate in contests or surveys on our websites. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
-### How Information Is Shared
+### How Information is Shared
 
 We share Personally Identifiable Information with third parties only for our internal business purposes. We do not give, sell, or lend personally identifiable information regarding visitors to our websites to third parties for any other reason. We require any third parties with whom we share personally identifiable information to protect this information using the same degree of care that we do. We occasionally send emails announcing special offers or services on behalf of our business partners to users who have given us personally identifiable information, but the participating business partner has no direct access to the personally identifiable user information contained in our databases.
 
@@ -46,7 +46,7 @@ We use an outside company to fulfill orders and a credit card processing company
 
 We reserve the right to disclose your personally identifiable information when we believe that disclosure is necessary to enforce or apply our Terms & Conditions of Use, protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our websites and as required by law.
 
-### Choice/Opt-Out
+### Choice / Opt-Out
 
 We provide you the opportunity to ‘opt-out’ of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing materials from us, you can indicate your preference on our order form.
 
