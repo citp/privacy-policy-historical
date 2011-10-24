@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datemyfamily.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528180957id_/http%3A//www.datemyfamily.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datemyfamily.com privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024222222id_/http%3A//www.datemyfamily.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,8 +38,8 @@ If you have any questions about the security at our website or need more informa
 Our address is:
 
 **DatemyFamily.com**  
-9999 W State Road 84  
-Suite #999  
+15970 W State Road 84  
+Suite #349  
 Weston, FL 33326 USA
 
-Phone: 954-999-9999
+Phone: 754.444.0809
