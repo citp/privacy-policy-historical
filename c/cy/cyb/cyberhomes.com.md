@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626025037id_/http%3A//www.cyberhomes.com/htmlcontent.cfm%3Fname%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberhomes.com privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024203805id_/http%3A//www.cyberhomes.com/htmlcontent.cfm%3Fname%3Dprivacy) for the most accurate reproduction.*
 
 # Cyberhomes.com - About Cyberhomes
 
