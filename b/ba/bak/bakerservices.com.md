@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakerservices.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607134430id_/http%3A//bakerservices.com/policies.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakerservices.com privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024205812id_/http%3A//www.bakerservices.com/policies.htm) for the most accurate reproduction.*
 
 # Privacy Statement for Accommodations in Western Canada
 
@@ -29,4 +29,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 Baker Services
 
-[Return to Main Page.](https://web.archive.org/web/20110607134430id_/http%3A//bakerservices.com/index.html)
+[Return to Main Page.](https://web.archive.org/web/20111024205812id_/http%3A//www.bakerservices.com/index.html)
