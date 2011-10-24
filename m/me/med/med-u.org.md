@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001000950id_/http%3A//www.med-u.org/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the med-u.org privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024070820id_/http%3A//www.med-u.org/about/privacy_policy) for the most accurate reproduction.*
 
 # medU | About Us
 
 ## Please review this privacy policy carefully before using the site.
 
-This site (“Site” or “case Sites” ) is owned and operated by The Institute for Innovative Technology In Medical Education ("iInTIME"), a 501(c)(3) organized under the laws of the State of New Hampshire. The purpose of this Site is to make available iInTIME's virtual patient cases designed to comprehensively teach the core third-year curriculum to individuals involved in health care education and practice.
+This site (“Site” or “case Sites”) is owned and operated by The Institute for Innovative Technology In Medical Education ("iInTIME"), a 501(c)(3) organized under the laws of the State of New Hampshire. The purpose of this Site is to make available iInTIME's virtual patient cases designed to comprehensively teach the core third-year curriculum to individuals involved in health care education and practice.
 
 iInTIME is committed to fair information practices. iInTIME also respects the privacy and security of its users. To demonstrate our commitment to your privacy, we have prepared this statement disclosing our privacy practices. Here, you will learn what personal identifying information of yours is collected, how and when we might use your information, how we protect your information, who has access to your information, and how you can correct any inaccuracies in the information. Except as otherwise described in this Privacy Policy, we will not disclose it to any person or organization outside iInTIME. However, in connection with its educational mission, iInTIME does share information of the usage of those users who are authorized to use the site because of their affiliation with a subscribing institution with such institutions. See below for more details.
 
@@ -54,7 +54,7 @@ The Site may link to sites maintained by companies that are not affiliated with 
 
 ### How to Correct Inaccuracies
 
-If you've registered for iInTIME Virtual Patient, you can access and update your information by contacting [[info@i-intime.org](mailto:info@i-intime.org)](mailto:info@i-intime.org) .
+If you've registered for iInTIME Virtual Patient, you can access and update your information by contacting [[info@i-intime.org](mailto:info@i-intime.org)](mailto:info@i-intime.org).
 
 ## Information of “Individual Subscribers” and “Authorized Users”
 
