@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibraggiotti.com privacy policy that was archived on 2010-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100804045907id_/http%3A//www.ibraggiotti.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibraggiotti.com privacy policy that was archived on 2011-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111024215935id_/http%3A//www.ibraggiotti.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
