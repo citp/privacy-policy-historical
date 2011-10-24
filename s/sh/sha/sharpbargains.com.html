@@ -1,0 +1,361 @@
+<!--The following is the downloaded HTML source of the sharpbargains.com privacy policy that was archived on 2011-10-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111024062631id_/http%3A//sharpbargains.com/policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Custom T-Shirts | Screen Printing | Embroidery| SharpBargains.com</title>
+<link href="include/layout.css" rel="stylesheet" type="text/css">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link href="include/main.css" rel="stylesheet" type="text/css">
+<!-- Beginning of compulsory code below -->
+
+<link href="css/dropdown/dropdown.css" media="all" rel="stylesheet" type="text/css">
+<link href="css/dropdown/themes/default/default.advanced.css" media="all" rel="stylesheet" type="text/css">
+
+<!--[if lt IE 7]>
+<script type="text/javascript" src="js/jquery/jquery.js"></script>
+<script type="text/javascript" src="js/jquery/jquery.dropdown.js"></script>
+<![endif]-->
+
+<!-- / END -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/jquery_latest.js"></script>
+<script type="text/javascript" src="js/jquery.js"></script>
+	<script type="text/javascript" src="javascript/jquery.scrollTo-min.js"></script>
+	<script type="text/javascript" src="javascript/jquery.scrollShow.js"></script>	
+	<script type="text/javascript">
+	jQuery(function( $ ){
+		//borrowed from jQuery easing plugin
+		//http://gsgd.co.uk/sandbox/jquery.easing.php
+		$.easing.backout = function(x, t, b, c, d){
+			var s=1.70158;
+			return c*((t=t/d-1)*t*((s+1)*t + s) + 1) + b;
+		};
+		
+		$('#screen').scrollShow({
+			view:'#view',
+			content:'#images',
+			easing:'backout',
+			wrappers:'link,crop',
+			navigators:'a[id]',
+			navigationMode:'sr',
+			circular:true,
+			start:0
+		});
+	 });
+	</script>
+<script type="text/javascript">
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+
+
+$(document).ready(function() {
+
+	//Set Default State of each portfolio piece
+	$(".paging").show();
+	$(".paging a:first").addClass("active");
+		
+	//Get size of images, how many there are, then determin the size of the image reel.
+	var imageWidth = $(".window").width();
+	var imageSum = $(".image_reel img").size();
+	var imageReelWidth = imageWidth * imageSum;
+	
+	//Adjust the image reel to its new size
+	$(".image_reel").css({'width' : imageReelWidth});
+	
+	//Paging + Slider Function
+	rotate = function(){	
+		var triggerID = $active.attr("rel") - 1; //Get number of times to slide
+		var image_reelPosition = triggerID * imageWidth; //Determines the distance the image reel needs to slide
+
+		$(".paging a").removeClass('active'); //Remove all active class
+		$active.addClass('active'); //Add active class (the $active is declared in the rotateSwitch function)
+		
+		//Slider Animation
+		$(".image_reel").animate({ 
+			left: -image_reelPosition
+		}, 500 );
+		
+	}; 
+	
+	//Rotation + Timing Event
+	rotateSwitch = function(){		
+		play = setInterval(function(){ //Set timer - this will repeat itself every 3 seconds
+			$active = $('.paging a.active').next();
+			if ( $active.length === 0) { //If paging reaches the end...
+				$active = $('.paging a:first'); //go back to first
+			}
+			rotate(); //Trigger the paging and slider function
+		}, 7000); //Timer speed in milliseconds (3 seconds)
+	};
+	
+	rotateSwitch(); //Run function on launch
+	
+	//On Hover
+	$(".image_reel a").hover(function() {
+		clearInterval(play); //Stop the rotation
+	}, function() {
+		rotateSwitch(); //Resume rotation
+	});	
+	
+	//On Click
+	$(".paging a").click(function() {	
+		$active = $(this); //Activate the clicked paging
+		//Reset Timer
+		clearInterval(play); //Stop the rotation
+		rotate(); //Trigger rotation immediately
+		rotateSwitch(); // Resume rotation
+		return false; //Prevent browser jump to link anchor
+	});	
+	
+
+	$("ul.sidenav li").hover(function() {
+		$(this).find("div").stop()
+		.animate({left: "210", opacity:1}, "fast")
+		.css("display","block")
+
+	}, function() {
+		$(this).find("div").stop()
+		.animate({left: "0", opacity: 0}, "fast")
+	});
+
+
+
+});
+
+
+</script>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22997480-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+</head>
+
+<body>
+<div id="wrapper">
+	<div id="header">
+    	<div class="logo"><a href="index.html"><img src="images/logo.png" alt="" width="281" height="104" border="0"></a></div>
+        <div class="call"><img src="images/call.png" width="348" height="36" alt=""></div>
+        <div class="days">Mon-Fri 9AM-5PM CST</div>
+    </div>
+    
+    <!-- Beginning of compulsory code below -->
+
+<ul id="nav" class="dropdown dropdown-horizontal">
+	<li style="margin-left:20px;"><a href="index.html">Home</a></li>
+	<li><a href="aboutus.html">About Us</a>
+		<ul>
+			<li><a href="brands.html">Brands</a></li>
+			<li><a href="testimonials.php">Testimonials</a></li>
+			<li><a href="clients.html">Our Clients</a></li>
+		</ul>
+	</li>
+	<li><a href="services.html">Services</a>
+		<ul>
+			<li style="padding-left:0; margin-left:-4px; margin-right:4px;"><a href="#" style="padding-left:24px; margin-left:11px;">Custom Apparel</a>
+            	<ul>
+                	<li><a href="screen-printing.html">Screen Printing</a></li>
+                    <li><a href="embroidery.html">Embroidery</a></li>
+                    <li><a href="patches.html">Patches</a></li>
+                    <li><a href="applique.html">Appliqué</a></li>
+                     <li><a href="laser-etching.html">Laser Etching</a></li>
+                     <li><a href="direct-garment.html">Direct to Garment</a></li>
+            	</ul>
+            </li>
+			<li><a href="promotional-products.html">Promotional Products</a></li>
+            <li><a href="graphic-design.html">Graphic Design</a></li>
+            <li style="padding-left:0; margin-left:-4px; margin-right:4px;"><a href="http://issuu.com/MoreGreatProducts/docs/1369075-political?mode=embed&amp;layout=http%3A%2F%2Fskin.issuu.com%2Fv%2Fdark%2Flayout.xml&amp;showFlipBtn=true" target="_blank" style="padding-left:24px; margin-left:11px; padding-right:11px; ">Political</a></li>
+<li><a href="http://sharpbargains.MoreGreatProducts.com" target="_blank">Flexographic Printing</a></li>
+            <li style="padding-left:0; margin-left:-4px; margin-right:4px;"><a href="additional-services.html" style="padding-left:24px; margin-left:11px;">Additional Services</a>
+            	<ul>
+                	<li><a href="fulfillment.html">Fulfillment </a></li>
+                     <li><a href="custom-manufac.html">Custom Manufacturing</a></li>
+<li><a href="compressedTees.html">Compressed Tees</a></li>
+                </ul>  
+           </li>       </ul>
+	</li>
+<li><a href="catalogs.html" style="color: #FDD816;">Catalogs</a>
+		<ul>
+			<li><a href="apparel.html">Apparel</a></li>
+<li><a href="athletics.html">Athletics</a></li>
+<li><a href="pProducts.html">Promotional Products</a></li>
+		</ul>
+	</li>
+	<li><a href="portfolio.html">Portfolio</a></li>
+    <li><a href="#">FAQ's</a>
+		<ul>
+			<li><a href="general-faq.html">General FAQ</a></li>
+			<li><a href="sp-faq.html">Screen Printing FAQ</a></li>
+			<li><a href="digitizing-faq.html">Digitizing FAQ</a></li>
+			<li><a href="embroidery-faq.html">Embroidery FAQ</a></li>
+			<li><a href="shipping-faq.html">Shipping FAQ</a></li>
+			<li><a href="artwork-faq.html">Artwork FAQ</a></li>
+		</ul>
+	</li>
+    <li><a href="#">Resources</a>
+		<ul>
+			<li><a href="blog.html">Blog</a></li>
+			<li><a href="careers.php">Careers</a></li>
+			<li><a href="art-requirements.php">Art Requirements</a></li>
+		</ul>
+	</li>
+	<li style="background:none;"><a href="contact.php">Contact Us</a>
+		<ul>
+			<li><a href="request-quote.php">Request a Quote</a></li>
+		</ul>
+	</li>
+</ul>
+
+<!-- / END -->
+    
+  <div id="topBannerInner">
+  <img src="images/privacyHead.png" border="0" alt="">
+  </div>
+  <div><img src="images/innerBgTop2.png" width="940" height="18" alt=""></div>
+  <div id="innerContainer" style="background:url(images/innerBgCenter2.png) left top repeat-y;">
+      <div class="fullinner">
+    	<h1>Privacy  Policy</h1>
+    	<p>Thank you  for accessing the Sharpbargains.com Website (“Site”) operated by Sharp  Bargains, LLC. We respect your privacy and want to protect your personal  information. To learn more, please read this Privacy Policy below.<strong><br>
+    	    </strong><strong><br>
+    	      We are not responsible for the content or privacy practices on any web site not  operated by Sharp Bargains, LLC to which the Site links or that links to the  Site.<br>
+    	      </strong><br>
+    	  Sharp Bargains, LLC is committed to protecting your privacy. Our pledge is to  safeguard any information we collect associated with you and your business  operations.<br>
+    	  <br>
+  <strong>Information Collection.</strong><br>
+    	  We may use third-party advertising companies to  help tailor site content to users or to serve ads on our behalf. These  companies may employ cookies and web beacons to measure advertising  effectiveness (such as which web pages are visited or what products are  purchased and in what amount). Any information that these third parties collect  via cookies and web beacons is not linked to any personal information collected  by us.<br>
+    	  <br>
+  <strong>Information Use and  Disclosure.</strong> <br>
+    	  Internal Use. We  use your personal information to process your order and provide you with  customer service. We may internally use your personal information to improve  the Sites’ content and layout, to improve outreach and for our own marketing  efforts including marketing our services and products to you. In order to  facilitate such use and the other use described we may share your information  with affiliates under Sharp Bargains, LLC’s control. Only authorized Sharp Bargains, LLC  employees will have access to stored information, which we will hold in the  strictest confidence.<br>
+    	  Communications with You:  We will use your personal information to communicate with you about the site,  your orders and deliveries. We may send you a service-related announcement on  the rare occasions when it is necessary (for example, if we must temporarily  suspend our website for maintenance.) Also, you may submit your email address  for reasons such as to&nbsp;receive newsletters. If you submit your email address,  we use it to deliver the information to you. We always permit you to  unsubscribe or opt out of future emails.<br>
+  <br>
+    	  External Use.We want to provide you  with outstanding service and to offer you a great selection. We do not sell,  rent, trade, license or otherwise disclose your specific personal information  or financial information to anyone other than to affiliates under Sharp  Bargains, LLC’s control, except that:<br>
+  <br>
+    	  As do most catalog and  Internet retailers, we sometimes use others to perform specific functions on  our behalf. When we disclose information to these service providers, we  disclose information to help them to perform their service. For example, in  order to deliver products to you, we must share some information. We partner&nbsp;with  third parties (such as the U.S. Postal Service, United Parcel Service) to ship  products, to ensure delivery, and so that we can obtain feedback, improve the  quality of our service, and measure and improve the quality of the service of  the third party. In the example of shippers, we provide them some personally  identifiable information such as your name, shipping address, email, and phone  number.<br>
+  <br>
+    	  Similarly, to help you buy products and provide customer service to you, we  must provide your credit card number to financial-services corporations such as  credit-card processors and issuers. When we submit your credit card number for  authorization, we use state-of-the-art data encryption to protect your  information. <br>
+  <br>
+    	  We may disclose such information in response to requests from law enforcement  officials conducting investigations; subpoenas; a court order; or if we are  otherwise required to disclose such information by law. We also will release  personal information where disclosure is necessary to protect our legal rights,  enforce our Terms of Use or other agreements, or to protect ourselves or  others. For example, we may share information to reduce the risk of fraud or if  someone uses or attempts to use the Site for illegal reasons or to commit  fraud.<br>
+    	  <br>
+    	  We may share non-personal information (such as  the number of daily visitors to a particular web page, or the size of an order  placed on a certain date) with third parties such as advertising partners. This  information does not directly personally identify you or any user.<br>
+    	  We may publicly disclose the name, city, and  state of the contest and sweepstakes winners.<br>
+    	  <br>
+    	  Sharp Bargains, LLC (sharpbargains.com)  knows that you care how information about you is used and shared, and we  appreciate your trust that we will do so carefully and sensibly. This notice  describes our privacy policy. By visiting Allscreen Image Marketing, you are  accepting the practices described in this Privacy Notice.<br>
+    	  <br>
+    	  The information we learn from  Customers helps us personalize and continually improve your shopping experience  at Allscreenonline.com. Here are the types of information we gather.<br>
+    	  <br>
+  <strong>Information You Give Us</strong> <br>
+    	  We receive and store any  information you enter on our Web site or give us in any other way. You can  choose not to provide certain information, but then you might not be able to  take advantage of many of our features. We use the information that you provide  for such purposes as responding to your requests, customizing future shopping  for you, and communicating with you.<br>
+    	  <br>
+    	  We work to protect the  security of your information during transmission between your browser and our  servers. It is important for you to protect against unauthorized access to your  password and to your computer. Be sure to sign off when finished using a shared  computer.<br>
+    	  <br>
+  <strong>Conditions of Use,  Notices, and Revisions</strong> <br>
+    	  Our business changes frequently,  and our Privacy Notice and the Terms of Use will change also. You should check  our Web site frequently to see recent changes; it is your sole responsibility  if it changes without notice. Unless stated otherwise, our current Privacy  Notice applies to all information that we have about you and your account. We  stand behind the promises we make, however, and will never materially change  our policies and practices to make them less protective of Customer information  collected in the past without the consent of affected Customers.<br>
+    	  <br>
+  <strong>Copyright</strong> <br>
+    	  The information and  photography contained in this web site are the property of Sharp Bargains, LLC  and its affiliates are not to be used, distributed, modified, or reposted  without express written authorization from Sharp Bargains, LLC. All contents © 2011  Sharp Bargains, LLC. <br>
+  <br>
+    	  Revised May 6th 2011.</p>
+    	<p></p>
+        <p></p>
+   	  </div>
+    </div>
+</div>
+<div id="footer">
+		<div id="footerContainer"><div class="flogos"><img src="gallery/footerLogos/reel_1.png" width="106" height="40" alt="GILDAN" title="GILDAN"><img src="gallery/footerLogos/reel_2.png" width="52" height="40" alt="Hanes" title="Hanes"><img src="gallery/footerLogos/reel_3.png" width="52" height="40" alt="OGIO" title="OGIO"><img src="gallery/footerLogos/reel_4.png" width="60" height="40" alt="adidas" title="adidas"><img src="gallery/footerLogos/reel_5.png" width="136" height="40" alt="Columbia" title="Columbia"><img src="gallery/footerLogos/reel_6.png" width="74" height="40" alt="NIKE" title="NIKE"><img src="gallery/footerLogos/reel_7.png" width="47" height="40" alt="RUSSELL" title="RUSSELL"><img src="gallery/footerLogos/reel_8.png" width="65" height="40" alt="Under Armor" title="Under Armor"><img src="gallery/footerLogos/reel_9.png" width="86" height="40" alt="UNCOMMON THREADS" title="UNCOMMON THREADS"></div>
+<form action="sendmail.php" method="post" name="sendemail" id="sendemail">
+<div class="contactForm">
+   		  <h1><img src="images/contactus.png" width="118" height="17" alt=""></h1>
+        	<p><input name="name" type="text" value="Your Name" id="name"></p>
+            <p><input name="email" type="text" value="Email Address" id="email"></p>
+            <p><input name="phone" type="text" value="Phone Number" id="phone"></p>
+            
+            <p><input name="company" type="text" value="Company Name" id="company"></p>
+            <p><select name="purpose" id="purpose" style="background:#ffffff; width:235px; height:20px; margin-top:4px; margin-left:5px; border:none;">
+              <option>Contact Purpose</option>
+              <option>Screen Printing</option>
+              <option>Embroidery</option>
+              <option>Laser Appliqué</option>
+              <option>Laser Etching</option>
+              <option>Digital Printing</option>
+              <option>Patches</option>
+              <option>Direct to Garment</option>
+              <option>Other</option>
+          </select></p>
+        <p style=" background:url(images/textfiled.png) left top no-repeat; height:109px;"><textarea name="message" rows="6" id="message" style="background:none; border:none; width:235px; margin-left:5px; margin-top:3px;">Your message goes here.</textarea></p>
+          <span><input name="submit" type="image" value="Submit" style="width:102px; height:32px;" src="images/sendBtn.jpg" alt=""></span>
+        </div>
+        </form>
+        <div class="browse">
+        	<h1><img src="images/browse.png" width="140" height="17" alt=""></h1>
+<ul>
+            	<li><a href="index.html">Home</a></li>
+<li>l</li>
+              <li><a href="aboutus.html">About Us</a></li>
+<li>l</li>
+                <li><a href="services.html">Services</a></li>
+<li>l</li>
+                <li><a href="catalogs.html">Catalogs</a></li>
+<li>l</li>
+                <li><a href="portfolio.html">Portfolio</a></li>
+<li>l</li>
+                <li><a href="blog.html">Blog</a></li>
+<li>l</li>
+                <li><a href="contact.php">Contact Us</a></li>
+                <li>l</li>
+                 <li><a href="policy.html">Privacy Policy</a></li>
+                <li>l</li>
+                <li><a href="terms.html">Terms &amp; Conditions</a></li>
+            </ul>
+            <p style="margin-top:30px;">Copyright 2011 - Sharp Bargains LLC.  l  Powered by: </p>
+            <p style="width:100px; margin-top:22px;"><a href="http://appetizingsolutions.com/"><img src="images/apptizingLogo.png" alt="" width="57" height="26" border="0"></a></p>
+        </div>
+        <div id="browse2">
+        	<div class="follow">
+            	<h1><img src="images/followUp.png" width="94" height="17" alt=""></h1>
+                <img src="images/twitter].png" width="18" height="18" alt="" style="float:left;"><p><a href="http://www.twitter.com/sharpbargains" target="_blank"> Twitter</a></p>
+                <img src="images/fb.png" width="18" height="18" alt="" style="float:left;"><p><a href="http://FaceBook.com/sharpbargains" target="_blank">Facebook</a></p>
+                <img src="images/in.png" width="18" height="18" alt="" style="float:left;"><p><a href="http://www.linkedin.com/company/2070697?trk=tyah" target="_blank">LinkedIn</a></p>
+            </div>
+            <form action="sendnewsletter.php" method="post" name="sendnewsletter" id="sendnewsletter">
+            <div class="newsletter">
+            	<h1><img src="images/signup.png" width="274" height="23" alt=""></h1>
+                <p><input name="email" type="text" value="Email Address" id="email"></p>
+                <span><input name="submit" type="image" value="Submit" style="width:102px; height:32px;" src="images/sendBtn.jpg" alt=""></span>
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+
+</body></html>
