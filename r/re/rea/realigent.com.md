@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realigent.com privacy policy that was archived on 2010-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101005170456id_/http%3A//realigent.com/page.aspx%3FpageID%3D24) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realigent.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025074855id_/http%3A//realigent.com/page.aspx%3FpageID%3D24) for the most accurate reproduction.*
 
 # Privacy Statement
 
