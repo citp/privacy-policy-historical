@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otixo.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524160500id_/http%3A//otixo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otixo.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025091639id_/http%3A//otixo.com/privacy) for the most accurate reproduction.*
 
 # Otixo: Privacy Policy
 
@@ -109,22 +109,22 @@ If you request your registration information be deleted or if you unsubscribe fr
 
 **QUESTIONS AND FEEDBACK**
 
-We welcome your questions, comments, and concerns about privacy. Please contact us by mail or [email](https://web.archive.org/web/20110524160500id_/http%3A//otixo.com/info\(at\)otixo.com) at: 
+We welcome your questions, comments, and concerns about privacy. Please contact us by mail or [email](https://web.archive.org/web/20111025091639id_/http%3A//otixo.com/info\(at\)otixo.com) at: 
 
 **Otixo, Inc.**  
 Attn: Privacy Policy  
 4450 Arapahoe Ave.  
 Suite 100  
 Boulder, CO 80304  
-[info(at)otixo.com](https://web.archive.org/web/20110524160500id_/http%3A//otixo.com/info\(at\)otixo.com)
+[info(at)otixo.com](https://web.archive.org/web/20111025091639id_/http%3A//otixo.com/info\(at\)otixo.com)
 
 **COMPLAINTS**
 
-If you have a data privacy complaint, please contact us by mail or [email](https://web.archive.org/web/20110524160500id_/http%3A//otixo.com/info\(at\)otixo.com) at:
+If you have a data privacy complaint, please contact us by mail or [email](https://web.archive.org/web/20111025091639id_/http%3A//otixo.com/info\(at\)otixo.com) at:
 
 **Otixo, Inc.**  
 Attn: Privacy Policy  
 4450 Arapahoe Ave.  
 Suite 100  
 Boulder, CO 80304  
-[info(at)otixo.com](https://web.archive.org/web/20110524160500id_/http%3A//otixo.com/info\(at\)otixo.com)
+[info(at)otixo.com](https://web.archive.org/web/20111025091639id_/http%3A//otixo.com/info\(at\)otixo.com)
