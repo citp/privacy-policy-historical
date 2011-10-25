@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmx.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224211437id_/http%3A//www.tmx.com/en/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmx.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025112047id_/http%3A//www.tmx.com/en/priv_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TMX Group
 
