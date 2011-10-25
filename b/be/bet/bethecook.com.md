@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bethecook.com privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124201311id_/http%3A//www.bethecook.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bethecook.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025063356id_/http%3A//www.bethecook.com/policy) for the most accurate reproduction.*
 
-# BeTheCook
+# Cooking Recipes - BeTheCook
 
 **Jokeroo.com Privacy Policy**  
 This Site is operated by JMG - Jolt Media Group.   
