@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318062924id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdjunction.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025024913id_/http%3A//www.mdjunction.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,4 +52,6 @@ MDJunction complies with the principles of the HON Code of Conduct established b
 
 **Please feel free to[contact us](http://www.mdjunction.com/contact) with any questions. **
 
-Privacy page was updated on February 2010. 
+Privacy page was updated on February 2010.   
+  
+**Important** : Articles published in MDJunction are written by MDJunction's community members and not by medical professionals (unless stated directly). They are not medical articles/content and are not a replacement for medical diagnosis. If the article does not contain direct reference to the source of the data, please treat it as personal opinion of the writer. 
