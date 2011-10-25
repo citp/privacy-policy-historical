@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520003210id_/http%3A//www.federalnewsradio.com%3Fnid%3D93%26sid%3D1551735) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the federalnewsradio.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025153957id_/http%3A//www.federalnewsradio.com%3Fsid%3D1551735%26nid%3D635) for the most accurate reproduction.*
 
-# Federal News Radio 1500 AM: Privacy Statement
+# Privacy Statement - FederalNewsRadio.com
 
 **Privacy Policy**  
 Updated: April 26, 2011 
