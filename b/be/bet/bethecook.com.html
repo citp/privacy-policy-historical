@@ -1,11 +1,13 @@
-<!--The following is the downloaded HTML source of the bethecook.com privacy policy that was archived on 2011-01-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110124201311id_/http%3A//www.bethecook.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bethecook.com privacy policy that was archived on 2011-10-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111025063356id_/http%3A//www.bethecook.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<title>BeTheCook</title>
-		<meta name="description" content="">
+		<title>Cooking Recipes - BeTheCook</title>
+		<meta name="description" content="BeTheCook specializes in providing cooking recipes in both print and video. If you are looking to cook a meal of the day, or looking for a healthy dietary option, make sure you find your best recipe on bethecook.com. If you have a recipe of your own, be sure to upload it and make some money! ">
 		<meta name="keywords" content="recipes, cooking, food, recipe, be the cook">
+        <meta name="robots" content="index,follow,noodp,noydir">
+        
 
 		<link href="/css/main.css" rel="stylesheet" type="text/css">
 <!--[if IE 6]>
@@ -15,28 +17,6 @@
 		<script type="text/javascript" src="/js/site.js"></script>
 		<script type="text/javascript" src="/js/flowplayer.js"></script>
 		<script type="text/javascript" src="/js/yt.js"></script>
-		<!--<script type="text/javascript" src="/js/galleria.js"></script>-->
-		<!--<script type="text/javascript" src="/js/jquery.lazyLoadAd.min.js"></script>-->
-        <script type="text/javascript">
-            
-            $(document).ready(function() {
-                //$('iframe#leaderBoardAd').attr('src', '/leaderBoardAd.php').show();
-                //$('iframe#skyscraperAd').attr('src', '/skyscraperAd.php').show();
-                //$('iframe#rectangleAd').attr('src', '/rectangleAd.php').show();
-
-                $('div#leaderBoardAd').load('/leaderBoardAd.php');
-                $('div#rectangleAd').load('/rectangleAd.php');
-                $('div#skyscraperAd').load('/skyscraperAd.php');
-
-                $('input.searchButton').click(function() {
-                    var kw = $('input[name="search"]').val();
-                    if(kw == '') {
-                        return false;
-                    }
-                });
-            }) ;
-            
-        </script>
 
 	</head>
 
@@ -51,7 +31,7 @@
 					
 					<div id="menu" class="roundedBottom">
 						<div id="menuLeft">
-							<a href="http://jmg.com/about.html">About</a> | <a href="/help">Help and Support</a>
+							<a href="http://jmg.com/about.html">About</a> | <a href="/helpdesk/index.php">Help and Support</a>
 						</div>
 						
 						<div id="menuRight">
@@ -65,13 +45,37 @@
 							<!--<a href="/">
 								<li>Recipes</li>
 							</a>-->
-							<a href="/categories">
-								<li>Categories</li>
-							</a>
+							<a href="/c">
+								</a><li id="catID"><a href="/c">Categories
+                                    </a><ul><a href="/c">
+                                        </a><li style="padding-bottom:8px;"><a href="/c"></a><a href="http://www.bethecook.com/c/appetizer">Appetizer</a></li>
+                                        <li><a href="http://www.bethecook.com/c/baking">Baking</a></li>
+                                        <li><a href="http://www.bethecook.com/c/breakfast">Breakfast and Brunch</a></li>
+                                        <li><a href="http://www.bethecook.com/c/chinese">Chinese</a></li>
+                                        <li><a href="http://www.bethecook.com/c/christmas">Christmas</a></li>
+                                        <li><a href="http://www.bethecook.com/c/dessert">Dessert</a></li>
+                                        <li><a href="http://www.bethecook.com/c/dinner">Dinner</a></li>
+                                        <li><a href="http://www.bethecook.com/c/drink">Drink</a></li>
+                                        <li><a href="http://www.bethecook.com/c/easter">Easter</a></li>
+                                        <li><a href="http://www.bethecook.com/c/halloween">Halloween</a></li>
+                                        <li><a href="http://www.bethecook.com/c/healthy">Healthy</a></li>
+                                        <li><a href="http://www.bethecook.com/c/italy">Italy</a></li>
+                                        <li><a href="http://www.bethecook.com/c/japanese">Japanese</a></li>
+                                        <li><a href="http://www.bethecook.com/c/meat">Meat</a></li>
+                                        <li><a href="http://www.bethecook.com/c/potato">Potato</a></li>
+                                        <li><a href="http://www.bethecook.com/c/salad">Salad</a></li>
+                                        <li><a href="http://www.bethecook.com/c/sauce">Sauce</a></li>
+                                        <li><a href="http://www.bethecook.com/c/seafood">Seafood</a></li>
+                                        <li><a href="http://www.bethecook.com/c/soup">Soup</a></li>
+                                        <li><a href="http://www.bethecook.com/c/thai">Thai</a></li>
+                                        <li><a href="http://www.bethecook.com/c/thanksgiving">Thanksgiving</a></li>
+                                        <li><a href="http://www.bethecook.com/c/vegetable">Vegetable</a></li>
+                                    </ul>
+                                </li>
+                            
 							<a href="/community/index.php">
 								<li>Community</li>
 							</a>
-                            <!--<a href="#"><li>My Account</li></a>-->
 							<a href="/add">
 								<li id="lastNav">ADD YOUR RECIPE</li>
 							</a>
@@ -79,114 +83,18 @@
 					</div>
 				</div>
 				<div id="search">
-					<!--<form action="/browse" method="POST">-->
 					<form action="/search" method="POST">
 						<div id="searchBasic">
 							<h2>Search Recipe</h2>
 							<span>
 								<input type="text" name="search" style="height:25px; font-size:18px;"> 
 
-                                <!--
-								in
-								<select name="category">
-									<option value="all">All</option>
-								</select>
-								match
-								<select name="match">
-									<option value="any">Any Keywords</option>
-									<option value="all">All Keywords</option>
-								</select>
-                                -->
 								
 								<input class="searchButton" type="submit" name="submit" value="Search" style="height:30px; width:75px; font-size:150%;">
 							</span>
 							
-                            <!--
-							<span>
-								<a href="/browse" id="toggleAdvanced">
-								<a href="/search" id="toggleAdvanced">
-									Advanced Search <img src="/images/spic_plus.gif" />
-								</a>
-							</span>
-                            -->
-
 						</div>
 						
-                        <!--
-						<div id="searchAdvanced">
-							<fieldset class="col1">
-								<legend>Recipe Features</legend>
-								
-								<label>Preparation Time:</label>
-								<select name="prepare">
-									<option value="any">- Any -</option>
-									<option value="5">< 5 Minutes</option>
-								</select>
-								
-								<label>Difficulty:</label>
-								<select name="difficulty">
-									<option value="any">- Any -</option>
-																			<option value="1">Easy</option>
-																			<option value="3">Medium</option>
-																			<option value="5">Hard</option>
-																	</select>
-								
-								<label>Has Video:</label>
-								<select name="video">
-									<option value="any">- Any -</option>
-									<option value="yes">Yes</option>
-									<option value="no">No</option>
-								</select>
-								
-								<label>Has Instructions:</label>
-								<select name="instructions">
-									<option value="any">- Any -</option>
-									<option value="yes">Yes</option>
-									<option value="no">No</option>
-								</select>
-							</fieldset>
-							
-							<fieldset class="col2">
-								<legend>Special Considerations</legend>
-								
-								<ul>
-																	<li>
-										<input type="checkbox" name="diabetic" />
-										<label>Diabetic Friendly</label>
-									</li>
-																	<li>
-										<input type="checkbox" name="low-calorie" />
-										<label>Low-Calorie</label>
-									</li>
-																	<li>
-										<input type="checkbox" name="low-fat" />
-										<label>Low-Fat</label>
-									</li>
-																	<li>
-										<input type="checkbox" name="vegetarian" />
-										<label>Vegetarian</label>
-									</li>
-																	<li>
-										<input type="checkbox" name="gluten-free" />
-										<label>Wheat/Gluten-Free</label>
-									</li>
-																</ul>
-							</fieldset>
-									
-							<fieldset class="col3">
-								<legend>Ingredients/Tags</legend>
-								
-								<label>I want (separate with comma)</label>
-								<textarea name="want"></textarea>
-								
-								<label>I don't want (separate with comma)</label>
-								<textarea name="dont"></textarea>
-							</fieldset>
-							
-							<div class="clear"></div>
-						</div>
-                        -->
-
 					</form>
 				</div>
 				
@@ -213,7 +121,7 @@
 	if (document.context) document.write ("&context=" + escape(document.context));
 	if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
 	document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ad.jmg.com/www/delivery/ajs.php?zoneid=5&amp;cb=69693885244&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20110124201311id_/http%253A//www.bethecook.com/policy"></script><noscript><a href='http://ad.jmg.com/www/delivery/ck.php?n=a24ed6fa&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.jmg.com/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a24ed6fa' border='0' alt='' /></a></noscript>		
+//]]>--></script><script type="text/javascript" src="https://ad.jmg.com/www/delivery/ajs.php?zoneid=5&amp;cb=86128156713&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111025063356id_/http%253A//www.bethecook.com/policy"></script><noscript><a href='http://ad.jmg.com/www/delivery/ck.php?n=a24ed6fa&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ad.jmg.com/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a24ed6fa' border='0' alt='' /></a></noscript>		
 </div>
 
 <div class="policy">
@@ -280,18 +188,20 @@
 			
 			<div id="footer">
 				<div id="footerTop" class="roundedTop">
-					<div id="topLinks">
-						<a href="/home">Home</a> | <a href="/">Recipes</a> | <a href="/categories">Categories</a> | <a href="/community/index.php">Community</a> | <a href="/register">Register</a> | <a href="/login">Login</a> 
-					</div>
-					
-					<div id="bottomLinks">
-						<a href="/help">Helpdesk</a> | <a href="/help">Submit a Ticket</a> | <a href="/advertising">Advertising</a> | <a href="http://jmg.com/about.html">About Us</a> | <a href="http://jmg.com/contact.html">Contact Us</a>
+
+                    <div style="margin-left:15px;">
+                        BeTheCook specializes in providing cooking recipes in both print and video. If you are looking to cook a meal of the day, or looking for a healthy dietary option, make sure you find your best recipe on bethecook.com. If you have a recipe of your own, be sure to upload it and make some money!  
+                    </div>
+
+					<div id="topLinks">						
+						<a href="/home" rel="nofollow">Home</a> | <a href="/" rel="nofollow">Recipes</a> | <a href="/categories" rel="nofollow">Categories</a> | <a href="/community/index.php" rel="nofollow">Community</a> | <a href="/register" rel="nofollow">Register</a> | <a href="/login" rel="nofollow">Login</a> 
+                    				    | <a href="/helpdesk/index.php" rel="nofollow">Help and Support</a> | <a href="http://jmg.com/contact.html" rel="nofollow">Contact Us</a>
 					</div>
 				</div>
 				
 				<div id="footerBottom" class="roundedBottom">
 					<div>
-						<a href="/policy">Privacy Policy</a> | <a href="/terms">Terms &amp; Conditions</a> | <a href="http://jmg.com">Copyright 2009 © JMG</a>
+						<a href="/policy" rel="nofollow">Privacy Policy</a> | <a href="/terms" rel="nofollow">Terms &amp; Conditions</a> | <a href="http://jmg.com" rel="nofollow">Copyright 2009 © JMG</a>
 					</div>
 				</div>
 			</div>
