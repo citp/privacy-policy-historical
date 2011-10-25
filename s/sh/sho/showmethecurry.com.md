@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621175813id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showmethecurry.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025103206id_/http%3A//showmethecurry.com/privacy-policy) for the most accurate reproduction.*
 
 # Indian Recipes, Cooking Videos, Healthy Recipes, Vegetarian Recipes, North and South Indian Recipies - ShowMeTheCurry.com
 
