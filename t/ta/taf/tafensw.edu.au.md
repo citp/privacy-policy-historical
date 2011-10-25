@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2011-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110409124744id_/https%3A//www.tafensw.edu.au/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafensw.edu.au privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025153017id_/https%3A//www.tafensw.edu.au/misc/privacy.htm) for the most accurate reproduction.*
 
-# TAFE NSW - DET / TAFE Web Sites Privacy Statement
+# TAFE NSW - DEC / TAFE Web Sites Privacy Statement
 
 ## Website Privacy Statement
 
-The Department of Education and Training ("the Department"), including TAFE NSW, is subject to the NSW Privacy and Personal Information Protection Act 1998 ("the Act") and the Privacy Act 1988 (Cth). The Department's Privacy Code of Practice produced in accordance with section 31 of the Act indicates how the Department will comply with the Information Protection Principles (IPPs) in the Act and any modifications to the IPPs as they apply to the Department.
+The Department of Education and Communities ("the Department"), including TAFE NSW, is subject to the NSW Privacy and Personal Information Protection Act 1998 ("the Act") and the Privacy Act 1988 (Cth). The Department's Privacy Code of Practice produced in accordance with section 31 of the Act indicates how the Department will comply with the Information Protection Principles (IPPs) in the Act and any modifications to the IPPs as they apply to the Department.
 
-The Department is committed to protecting the privacy of your personal information. This Online Privacy Statement governs the collection, storage, use, access and disposal of data including all personal information obtained on Department websites. 
+The Department is committed to protecting the privacy of your personal information. This Online Privacy Statement governs the collection, storage, use, access and disposal of data including all personal information obtained on Department websites.
 
-This Privacy Statement does not apply to linked websites that are not Department sites. 
+This Privacy Statement does not apply to linked websites that are not Department sites.
 
 The following sets out how the Department will deal with personal information related to the content and use of its web sites. This statement applies to all pages on the Department's or TAFE NSW site, unless otherwise indicated.
 
@@ -21,11 +21,11 @@ The Department may make a record of your visit and log any of the following info
 If you send us a message, the Department may record your e-mail address or other information supplied. The Department will gather more extensive information than stated above in the following circumstances:
 
   * unauthorised attempts to access files which are not published Department pages; 
-  * unauthorised tampering or interference with files published on the Department's sites; 
-  * unauthorised attempts to index the contents of Department sites by other web sites; 
-  * attempts to intercept messages of other Departmental users; 
-  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed; 
-  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Department's websites by other users. 
+  * unauthorised tampering or interference with files published on the Department's sites;
+  * unauthorised attempts to index the contents of Department sites by other web sites;
+  * attempts to intercept messages of other Departmental users;
+  * communications which are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed;
+  * attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Department's websites by other users.
 
 
 
