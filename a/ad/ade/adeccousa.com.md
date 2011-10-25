@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423033934id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adeccousa.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025151936id_/http%3A//www.adeccousa.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Adecco - Temp Jobs | Full-time Jobs| Employment Agency | Temp Agency | Staffing Services
+# Staffing Employment Agency - Recruiting & Temp Employment Services - Adecco USA
 
 #### Privacy policy
 
-Welcome to www.AdeccoUSA.com (the "Site"). This website privacy policy ("Policy") describes how Adecco and its subsidiaries ("We", "we", or "Adecco") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information"). 
+Welcome to www.adeccousa.com (the "Site"). This website privacy policy ("Policy") describes how Adecco and its subsidiaries ("We", "we", or "Adecco") may use and disclose personally identifiable information that we may collect about you through the Site ("Personal Information"). 
 
 **Collections and Uses of Personal Information**
 
@@ -35,6 +35,6 @@ Director Online Marketing & Product Development
 
 Adecco Group 
 
-175 Broad Hollow Rd
+175 Broadhollow Rd
 
 Melville, NY 11747 
