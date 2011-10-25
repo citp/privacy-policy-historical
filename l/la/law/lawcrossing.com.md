@@ -1,6 +1,17 @@
-> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913193052id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawcrossing.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025081222id_/http%3A//www.lawcrossing.com/lcprivacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - Legal Jobs, Law Jobs, Law Firm Job, Paralegal Jobs
+# LawCrossing.com - Privacy Policy, Your Privacy is So Important To Us | LawCrossing.com
+
+  
+
+
+**PRIVACY**
+
+**LawCrossing will NEVER sell or share ANY of your personal information with ANY third party, ever. All information that our customers provide is held in the utmost care and security and will NEVER be shared with ANY third party.**
+
+**SECURITY**
+
+**The LawCrossing servers use Secure Socket Layer (SSL), an advanced encryption technology that works with Internet Explorer, Netscape Navigator (versions 2.0 and higher), Mozilla, Microsoft Internet Explorer (versions 3.0 and higher), and AOL (AOL 3.0 and higher). This encryption provides the best possible protection from unauthorized parties accessing any information you send to us.**
 
   
 **Effective on: (5/25/2007)**
@@ -22,7 +33,7 @@ LawCrossing, Inc., is a licensee of the TRUSTe Privacy Program. TRUSTe is an ind
 ---|---  
 LawCrossing complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
-If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Department by email at [privacy@lawcrossing.com](mailto:privacy@lawcrossing.com), you may also contact us by phone at 800.973.1177, or by regular mail at 175 South Lake Avenue, Suite 200, Pasadena, CA, 91101. 
+If you have questions or concerns regarding this statement, you should first contact our Consumer Privacy Department by email at [privacy@lawcrossing.com](mailto:privacy@lawcrossing.com), you may also contact us by phone at 626-243-1801, or by regular mail at 202 S Lake Ave, Unit 250, Pasadena, CA 91101. 
 
 If you do not receive acknowledgment of your inquiry, or if your inquiry is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process (<http://www.truste.org/consumers/watchdog_complaint.php>). TRUSTe will serve as a liaison with the Web site to resolve your concerns. 
 
@@ -63,8 +74,8 @@ If you have registered to receive our newsletter, job updates and/or any other a
 
 Consumer Privacy Department  
 LawCrossing  
-175 South Lake Avenue  
-Suite 200  
+202 S Lake Ave  
+Unit 250  
 Pasadena, CA 91101 
 
 
@@ -73,9 +84,9 @@ Furthermore, you may opt-out of receiving emails from other Juriscape companies 
 **Correct/Update**  
 If you would like to edit your personal information, password, or other settings, simply log in to your account and click on the "My Account" link towards the top of the page. You can also contact us using any method listed at <http://www.lawcrossing.com/lchelp.php>. 
 
-To change your credit card information, please call one of our customer service representatives at 800.973.1177. If your credit card has been lost or has not been granted approval by Verisign, when you attempt to log-in, you will be prompted to sign-up for an account. Simply enter the prior account information along with your new credit card information. All inquiries will receive responses within 30 days of our receipt of them. 
+To change your credit card information, please call one of our customer service representatives at 626-243-1801. If your credit card has been lost or has not been granted approval by Verisign, when you attempt to log-in, you will be prompted to sign-up for an account. Simply enter the prior account information along with your new credit card information. All inquiries will receive responses within 30 days of our receipt of them. 
 
-If you want to delete your profile, please contact one of our customer service representatives at 800.973.1177. 
+If you want to delete your profile, please contact one of our customer service representatives at 626-243-1801. 
 
 **What anonymous information is collected on this site?**  
 IP addresses are briefly logged but discarded within a short period of time. No anonymous information that may be received from visitors is used in any of our work, promotions, or research. These logged files are not connected to a subscriber's personally identifiable information. 
@@ -100,7 +111,7 @@ We use an outside shipping company to fulfill orders, and a credit card processi
 We use a third party, VeriSign, to provide Credit Card Processing for our Web site. When you sign up for LawCrossing membership, we share your name, username and billing address to process a charge on your credit card. These third parties are prohibited from using your personally identifiable information for any other purpose. 
 
 **Testimonials and Live Help**  
-Live Chat help is provided in real-time format on LawCrossing. The user is not required to provide any identifying information in order to make use of the Live Chat function. Any information, such as a name or Username, that is shown to the Customer Service representative conducting the Live Chat is provided voluntarily by the user and is discarded when the Chat session expires. Any information that is received in the Live Chat sessions is utilized only for the purpose the user intends it to be used for, and is not saved unless the user requests an action of the Customer Service representative that requires it be saved. 
+Live Chat help is provided in real-time format on LawCrossing. The user is not required to provide any identifying information in order to make use of the Live Chat function. Any information, such as a name or Username, that is shown to the Customer Service Representative conducting the Live Chat is provided voluntarily by the user and is discarded when the Chat session expires. Any information that is received in the Live Chat sessions is utilized only for the purpose the user intends it to be used for, and is not saved unless the user requests an action of the Customer Service Representative that requires it be saved. 
 
 Any testimonials that are provided through the site are published only with a customer's first name and last initial. Testimonials can also be published anonymously, or with only the person's legal field or practice area listed. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial 
 
