@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colonialbank.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501110511id_/http%3A//www.bbt.com/bbt/about/privacyandsecurity/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colonialbank.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025143506id_/http%3A//www.bbt.com/bbt/about/privacyandsecurity/default.html) for the most accurate reproduction.*
 
 # BB&T - Privacy and Security
 
