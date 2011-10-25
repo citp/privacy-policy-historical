@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the intute.ac.uk privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627080753id_/http%3A//www.intute.ac.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intute.ac.uk privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025175804id_/http%3A//www.intute.ac.uk/privacy.html) for the most accurate reproduction.*
 
 # Intute - Privacy policy
-
-## About Us
 
 This is a privacy policy for Intute.
 
@@ -151,3 +149,5 @@ The University of Manchester
 Oxford Road  
 Manchester M13 9PL  
 Tel: 0161 275 0620
+
+**Intute closed in July 2011**. Please note that the site has now been archived and we are not adding any further resources to the catalogue or making any changes to existing content.
