@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exclusivegiftcards.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626161524id_/http%3A//exclusivegiftcards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2828name%26catalog_id%3D15020%26gift%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exclusivegiftcards.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025164512id_/http%3A//exclusivegiftcards.com/info.htm%3Ftp%3Dprivacy%26promo_name%3D2828name%26catalog_id%3D15020%26gift%3D71) for the most accurate reproduction.*
 
 # Exclusivegiftcards
 
