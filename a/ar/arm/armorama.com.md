@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224043459id_/http%3A//armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the armorama.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025042959id_/http%3A//armorama.com/modules.php%3Fop%3Dmodload%26name%3DFAQ%26file%3Dindex%26myfaq%3Dyes%26id_cat%3D3%26categories%3DWhat%2Bis%2BYour%2BPrivacy%2BStatement%253F%26parent_id%3D0) for the most accurate reproduction.*
 
-# Armorama :: Military Scale Modeling Community - Armor / AFV model and diorama features, forums, & gallery.
+# Armorama :: The #1 military scale modeling site on the net!
 
-[Scale Modeling](https://web.archive.org/web/20101224043459id_/http%3A//armorama.com/modules.php?op=modload&name=Scale-Modeling-Sponsors&file=index) Sponsors
+[Scale Modeling](https://web.archive.org/web/20111025042959id_/http%3A//armorama.com/modules.php?op=modload&name=Scale-Modeling-Sponsors&file=index) Sponsors
 
 [See Your Ad Here!](http://adserver.kitseller.net/?realm=1)
 
@@ -11,7 +11,7 @@
 [](https://web.archive.org/)
 
   
-What is Your Privacy Statement?Cat: [Main](https://web.archive.org/web/20101224043459id_/http%3A//armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
+What is Your Privacy Statement?Cat: [Main](https://web.archive.org/web/20111025042959id_/http%3A//armorama.com/modules.php?op=modload&name=FAQ&file=index) >> What is Your Privacy Statement?   
 | Answer  
 ---  
  **·**   What about my privacy?
