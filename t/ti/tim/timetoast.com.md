@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429022532id_/http%3A//www.timetoast.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetoast.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025032018id_/http%3A//www.timetoast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Timetoast timelines
 
