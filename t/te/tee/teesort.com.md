@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teesort.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627124457id_/http%3A//www.teesort.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teesort.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025141641id_/http%3A//www.teesort.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
