@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xpertbusinesssupplies.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514220726id_/http%3A//www.tsavo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xpertbusinesssupplies.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025054740id_/http%3A//www.tsavo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Tsavo Privacy Policy
 
@@ -38,7 +38,7 @@ The COMPANY may disclose a Member’s personally identifiable information pursua
 ### 
 * Email and Unsubscribe Policy.
 
-As explained above, the COMPANY uses a Member’s personal information to Promotions by email to individuals and companies including clients of the COMPANY. The COMPANY may maintain separate email lists for different purposes. If you wish to discontinue receiving email messages from the COMPANY.
+As explained above, the COMPANY uses a Member’s personal information to Promotions by email to individuals and companies including clients of the COMPANY. The COMPANY may maintain separate email lists for different purposes. If you wish to discontinue receiving email messages from the COMPANY please contact [info@tsavo.com](http://www.emailsystemsdirect.com/?host=www.tsavo.com&cssfile=/inc/contact.css).
 
 The COMPANY's unsubscribe process impacts only the future delivery of electronic mailings disseminated by the COMPANY on its own behalf. A Member should also note that unsubscribing from the COMPANY’s electronic mailings will not automatically unsubscribe the Member’s information from any third parties businesses. Since third party businesses maintain separate databases from the COMPANY, a Member will need to unsubscribe from each source individually, if desired.
 
