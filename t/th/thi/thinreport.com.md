@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thinreport.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602123022id_/http%3A//www.thinreport.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinreport.com privacy policy that was archived on 2011-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111025121808id_/http%3A//www.thinreport.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](https://web.archive.org/) : Privacy Policy
 
 #### Introduction
 
