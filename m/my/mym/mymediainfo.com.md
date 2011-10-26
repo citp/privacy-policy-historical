@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614205522id_/http%3A//www.mymediainfo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymediainfo.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026161501id_/https%3A//mymediainfo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MyMediaInfo - RedEgg Solutions Inc. Privacy Policy
 
