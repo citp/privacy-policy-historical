@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the release-news.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617041636id_/http%3A//www.release-news.com/index.php/component/content/article/221.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the release-news.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027012205id_/http%3A//www.release-news.com/index.php/component/content/article/221.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
