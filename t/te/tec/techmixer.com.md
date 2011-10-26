@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802202017id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techmixer.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026182826id_/http%3A//www.techmixer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,6 +18,6 @@ TechMixer respect our reader and visitor privacy. However, we do collect and pre
 
 
 
-**NOTE:** ** ** This Policy is subject to change anytime at my sole discretion and any changes made will be effective immediately.
+ **NOTE:** This Policy is subject to change anytime at my sole discretion and any changes made will be effective immediately.
 
-Posted on 24. Jul, 2008 by [km](http://www.techmixer.com/author/admin/ "Posts by km") in [Others](http://www.techmixer.com/category/others/ "View all posts in Others")
+Posted by in [Others](http://www.techmixer.com/category/others/ "View all posts in Others")
