@@ -1,74 +1,94 @@
-> *The following text is extracted and transformed from the foxsoccer.tv privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418234241id_/http%3A//foxsoccer.tv/binn/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxsoccer.tv privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026060649id_/http%3A//www.foxsoccer.tv/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Help | FOX Soccer TV
 
-  
-Vividas USA Inc PRIVACY POLICY 
+_**FoxSoccer.tv Privacy Policy**_
 
-Your privacy is important to Vividas USA, Inc. The privacy policy set forth herein (the Vividas Privacy Policy) explains how Vividas treats Personal Information that Vividas collects and receives, including Personal Information related to your use of the Vividas Service. This Privacy Policy applies to all Personal Information collected or submitted through the Vividas website, e-mail communications between you and Vividas or other means. This Privacy Policy was last updated on August 17, 2007.
+**Effective Date: August, 2 nd 2011**
 
-For purposes of the Terms, including this Privacy Policy, the term ÓPersonal InformationÓ means information about an individual that is personally identifiable and not publicly available, such as one's name, contact details, and credit card information, as well as the products and Service in which one expresses an interest and/or which one purchases. 
+**1.INTRODUCTION**
 
-Collection of Personal Information
+Fox Soccer Channel, LLC ("Fox Soccer" or "we" or "us") operates the FoxSoccer.tv website [http://www.foxsoccer.tv](http://www.foxsoccer.tv/) ("FoxSoccer.tv" or "Site"), which is an online platform that allows Members to purchase and stream live soccer and rugby matches. The services offered by Fox Soccer include online premium subscription services, newsletters, mobile alerts and any other features, content, or applications offered from time to time by Fox Soccer in connection with Fox Soccer's business (collectively, the "FoxSoccer.tv Services"). Fox Soccer is part of the United States based operations of News Corporation.
 
-In order to create an account with Vividas and/or order and access the Service, you are required to provide certain Personal Information requested by the online registration feature, ordering feature and/or other pages or functions within the Service. This information may include your legal name, personal address, personal phone number, personal e-mail address, subscriber name or "screen name" and password used to access the Service. Vividas reserves the right to request any additional information necessary to establish and maintain your account for use of any of the materials, goods or services available in connection with the Service.  Once a user name is created for you, Vividas stores such information in order to enable you to use the Service and to customize your experience. 
+As set forth in our Terms of Use, FoxSoccer.tv is a general audience website, is not targeted to children, and does not knowingly collect personal information from children under 13 years of age. 
 
-If you choose not to provide requested Personal Information, you will not be able to register with Vividas, use or subscribe to the Service, make any purchases or other transactions through the Service, or obtain other services or benefits that require such disclosure.
+This Privacy Policy describes Fox Soccer's collection, use and sharing of personal information about users (e.g., information that identifies a specific person, such as full name, email address and financial information) where that personal information is not otherwise publicly available on the Site.This Privacy Policy also describes generally Fox Soccer's practices for handling non-personally identifiable information (e.g., user interests, demographics, or Site usage) to the extent such non-personally identifiable information is associated with a particular user or user account.This Privacy Policy applies to all "users," including both visitors (users who use some of the Site Services without being registered with Fox Soccer), "Members" (users who have registered with Fox Soccer) and "Subscribers" (Members who have purchased an online premium subscription). 
 
-Vividas receives and stores information on its website.  When the registration and order form asks for sensitive Personal Information, Vividas works to protect your information during transmission with information encryption software, Secure Sockets Layer (SSL). 
+**2.SUBMISSION AND COLLECTION OF INFORMATION ON WEBSITE**
 
-Use of Personal Information
+_User Submitted Information_
 
-Except as set forth herein, Vividas shall not provide any of your Personal Information to other companies or individuals without your permission, unless required by law or for other legal purposes consistent with the Vividas Privacy Policy. VividasÕ third party service providers have access to this information to process credit card payments but may not use it for other purposes. Vividas shall make best efforts to ensure that these third party service providers are obligated to protect Personal Information on VividasÕs behalf. 
+**Account Registration Information** is the required information that a Member must provide to us when they initially register on the Site (by creating a "user account") and includes first name, last name, email address and password. You must create a user account in order to purchase an online subscription or sign up for newsletters or mobile alerts.
 
-Some of the Personal Information provided by you will be shared with Fox Soccer ChannelÑsuch as name, address, email and other information from the registration process, but Vividas will not release full credit card details to further protect consumers.
+**Online Video Subscription Information.** If you elect to purchase any online video subscription through the Site in addition to providing the Account Registration Information mentioned above you will also be required to provide personal financial information, including your credit card number, billing address or other payment information (collectively, "Personal Financial Information") to the third party service provider selected by Fox Soccer to provide payment services for the Site. At the time of purchase you will also be requested to select your video subscription type (e.g. Monthly or Annual). **Your online video subscription will be automatically renewed and the credit card you used to subscribe for such online video subscription will be charged per the billing cycle of your selected online video subscription (e.g. Monthly or Annual), unless you cancel the online video subscription prior to the renewal date of your online video subscription.** If you have any questions about canceling your online video subscription or our refund policy please refer to our Terms of Use.You must be 18 years of age or older to submit Personal Financial Information on the Site, including to place an order on the Site. 
 
-Vividas will not rent, sell, or share your Personal Information to any unrelated third party. Vividas may use your Personal Information for the following purposes: 
+We may also collect user submitted information in an offline or manual format, such as a postcard. In such circumstances, you will be provided with a short notice that describes how to obtain the full text of this Privacy Policy and other relevant information.
 
-· To verify your user status, including, without limitation, by confirming that you are a Vividas subscriber, that you have paid for particular content that requires payment or that you satisfy other conditions concerning particular content (e.g., geographic or time restrictions); 
+_Site Collected Information_
 
-· To process your transactions, including, without limitation, for billing purposes and for delivery of the Service to you; 
+Site Activity Information.When users visit the Site, we may collect certain non-personally identifiable information about those visits.For example, in order to permit your connection to the Site, our servers receive and record information about your computer and browser, including potentially your IP address, browser type, and other software or hardware information.We also may use cookies and other tracking technologies (including browser cookies, pixels, beacons, and Adobe flash technology including cookies), which are small bits of data that often include an anonymous unique identifier.Websites send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that website.We may use these technologies to collect and store information about your usage of the Site, such as pages you have visited and search queries you have run.
 
-· To provide to third party subcontractors only that Personal Information necessary to process payment, deliver goods or services to you or to perform any other service related to your access to or use of the Service.
+Third-parties that support the Site by providing FoxSoccer.tv Services, such as allowing users to purchase and view online video subscriptions or tracking aggregate Site usage statistics, may also use these technologies to collect similar information.Fox Soccer does not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies.
 
-· To confirm your subscription to or cancellation from the Service, or any particular purchases or licenses offered through the Service;
+Most browsers are initially set to accept cookies, but you can change your settings to notify you when a cookie is being set or updated, or to block cookies altogether. Please consult the "Help" section of your browser for more information (e.g., http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies).Users can manage the use of Flash technologies with the Flash management tools available at Adobe's website, see http://www.adobe.com/products/flashplayer/security/privacy_policy/faq.html.Please note that by blocking any or all cookies you may not have access to certain features or personalization available through FoxSoccer.tv Services.
 
-Security and Confidentiality of Personal Information 
+**Third Parties.** To improve the quality of the FoxSoccer.tv Services, we may supplement the information we collect with information that is collected or provided by third parties.
 
-To prevent unauthorized access, maintain data accuracy and ensure the correct use of Personal Information, Vividas has put in place appropriate physical, electronic, and managerial procedures which Vividas regards as appropriate to safeguard and secure the Personal Information Vividas collects online. 
+**3\. NOTICE & CHOICE**
 
-Vividas uses encryption technology to protect the security of the information collected and transmitted through its website and the Service. When Vividas' registration and order forms ask users to enter sensitive Personal Information (such as credit card number and/or social security number), that information is encrypted and transmitted to a secure database server using Secured Socket Layer encryption technology. 
+**Means of Notice and Choice.** This Privacy Policy is the primary means by which Fox Soccer provides you with notice and choice regarding its collection and use of your personal information.Fox Soccer will not use your personal information in a manner different from what is described in this Privacy Policy without your permission. 
 
-In addition, your Vividas Account Information is password-protected for your protection.  After a successful login, you can change your password at your discretion. Vividas recommends that you choose a password that would be difficult to guess, that you change your password periodically and that you keep your password secret (including by not allowing friends or family members to use your account and password). You acknowledge that you are responsible for selecting a password and maintaining its secrecy. UNDER NO CIRCUMSTANCES SHALL VIVIDAS BE LIABLE TO YOU OR ANY THIRD PARTY FOR YOUR FAILURE TO MAINTAIN THE SECRECY OF YOUR PASSWORD. 
+**Privacy Policy Changes.** Fox Soccer may modify this Privacy Policy as necessary.If we make material changes to this Privacy Policy that expand our rights to use your personal information, we will notify you to seek your consent either through an email or a prominent posting on the Site.
 
-Cookies 
+**Linked Websites.** FoxSoccer.tv Services may also be linked to websites operated by Fox Soccer affiliates (i.e., that are part of the News Corporation: "Affiliated Companies") or third parties. FoxSoccer.tv is not responsible for the privacy practices of any such third parties, and once you leave FoxSoccer.tv Services via a link, you should check the applicable privacy policy of the third-party site.Additionally, although all Affiliated Companies adhere to the News Corporation corporate [Privacy Principles](http://www.newscorp.com/privacy.html), users who visit an Affiliated Company website should still refer to the Affiliated Companies' separate privacy policy, which may differ in some respects from this Privacy Policy.This Privacy Policy does not apply to those websites that do not display or link to this Privacy Policy or have their own privacy statements.
 
-Like other websites, Vividas uses cookies to track traffic patterns on our website and to provide users with a customized experience when using our products and services.  A cookie is a text file that Vividas website transfers to your computer's hard drive for record-keeping purposes and to enhance the quality of your visit to VividasÕ website. Cookies cannot be used to run programs or deliver viruses to your computer. 
+**Collection of Personal Financial Information by a Third Party.** At the time of your purchase, Fox Soccer will notify you of the identity of any third party that is collecting, transmitting, storing and/or processing your Personal Financial Information. **You acknowledge and agree that this Privacy Policy will not apply to any Personal Financial Information that you provide to any independent third party company on the Site and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company's privacy policy.You further acknowledge and agree that Fox Soccer will have no liability for or responsibility for such independent third party company's use or protection of your Personal Financial Information.** You should check the privacy policy of the independent third party company's website to determine how it will handle any Personal Financial Information it collects from you and/or processes. You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Personal Financial Information, Fox Soccer shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach.
 
-Most Internet browsers are set up to automatically accept cookies. You can set your browser to refuse cookies, but doing so may limit system performance and may even cause certain features of the website to malfunction or not to work at all. YOU AGREE THAT VIVIDAS SHALL NOT BE LIABLE TO YOU FOR ANY SUCH MALFUNCTION OR LIMITED SYSTEM PERFORMANCE. 
+**4.USE & DISCLOSURE**
 
-Vividas reserves the right to set and access Vividas cookies on your computer and to authorize the advertisers on the Vividas site to set and access their cookies on your computer. Vividas treats any Personal Information that may be contained in cookies with the same confidentiality as other Personal Information you provide to Vividas. 
+_Fox Soccer's Use and Disclosure of Information_
 
-No Liability for Acts of Third Parties 
+We only share your non-public personal information with non-affiliated third parties when we believe the sharing is permitted by you or authorized by this Privacy Policy.In addition, Fox Soccer may share your personal information with Affiliated Companies.
 
-Although Vividas will use reasonable efforts to safeguard the confidentiality of the Personal Information you submit, transmissions made by means of the Internet cannot be made absolutely secure.  VIVIDAS SHALL HAVE NO LIABILITY FOR DISCLOSURE OF INFORMATION AND DATA YOU SUBMIT TO IT DUE TO ERRORS IN TRANSMISSION, UNAUTHORIZED ACTS OF THIRD PARTIES OR THROUGH THE USE OF THIRD PARTY COOKIES, PROGRAMS, ROUTINES, VIRUSES OR OTHER DEVICES ON YOUR COMPUTER.   Once you leave the Vividas Sites, including by clicking on links on such sites, you will be subject to the privacy policies of third party website operators and other companies which may differ significantly from this policy.  Vividas encourages you to be aware of when you leave the Vividas Sites and to read the privacy policies of each website that collects information from or about you. 
+We use the information you provide us for the following purposes:
 
-Children 
+**To provide and manage the FoxSoccer.tv Services.** We use the information we collect from and about users to provide the FoxSoccer.tv Services and features to you, to measure and improve those services and features. 
 
-Vividas does not currently accept any information submitted to or through the Service from children under the age of 13. No information should be submitted to Vividas or through the Service by children under 18 years of age without the consent of their parent or legal guardian. Vividas does not allow children under 13 to open an account or to receive direct marketing communications arising from their use of the Service and, therefore, Vividas does not provide any personally identifiable information from children under 13 to any third party.
+**To allow third party service providers to assist us in providing and managing the FoxSoccer.tv Services. **Fox Soccer may make your non-public personal information available to certain third-party service providers, such as contractors, agents or sponsors, who help us manage or provide FoxSoccer.tv Services by, for example: developing or supporting products and the FoxSoccer.tv Services; fulfilling online video subscription orders; collecting, and processing Personal Financial Information; or processing data or statistics. These third-party service providers are required to protect non-public personal information entrusted to them and not use it for any other purpose than the specific service they are providing to you and Fox Soccer. 
 
-Changes to this Privacy Policy 
+**To contact you.** Fox Soccer may periodically send promotional materials (e.g., newsletters) or correspondence related to the FoxSoccer.tv Services to the email address you provided to us at registration.If you want to stop receiving correspondence from Fox Soccer, you can click on the "Update Personal Details" link under "My Account," or follow the unsubscribe instructions at the bottom of each email. There are certain service notification emails that you may not opt-out of, such as notifications of changes to the FoxSoccer.tv Services or policies.
 
-Vividas may update this policy from time to time.  Any changes or updates will be effective immediately upon posting to Vividas's website, and your use of the website or any of the Service following such posting constitutes your acceptance of the Privacy Policy as so changed or updated.  Vividas reserves the right to notify you about changes in the way it treats Personal Information by sending a notice to one or more of the email addresses specified in your Vividas account or by placing a notice on the Vividas site in a manner and for a period of time that Vividas determines in its sole discretion. However, if Vividas materially changes its practices regarding collection or use of your Personal Information, your Personal Information will continue to be governed by the Policy under which it was collected unless you have been provided notice of and have not objected to the change. 
+**To protect the rights of FoxSoccer.tv and our users.** There may be instances when Fox Soccer may disclose user information without providing notice or choice, including situations where Fox Soccer has a good faith belief that such disclosure is necessary in order to: (i) protect or defend the legal rights or property of Fox Soccer, our Affiliated Companies or their employees, agents and contractors (including enforcement of our agreements); (ii) protect the safety and security of users of the FoxSoccer.tv Services or members of the public including responding to emergencies where there appears to be a danger of death or injury to any person; (iii) protect against fraud or for risk management purposes; or (iv) comply with applicable laws, rules and regulations ("Applicable Laws") or legal process. 
 
-How to Contact Us
+**To complete a merger or sale of assets.** If Fox Soccer sells all or part of its business or makes a sale or transfer of its assets or is otherwise involved in a merger or transfer of all or a material part of its business, Fox Soccer may transfer your user information to the party or parties involved in the transaction as part of that transaction.
 
-You may contact Vividas regarding this Privacy Policy via email at [inquiriesus@Vividas.com](mailto:inquiriesus@Vividas.com).
+**5.SECURITY**
 
-Disclosures Required by Law and Investigations
+Fox Soccer uses commercially reasonable administrative, technical, personnel and physical measures to safeguard user information in its possession against loss, theft and unauthorized use, disclosure or modification.
 
-Vividas reserves the right to disclose your Personal Information in order to comply with any subpoenas, court orders or other legal process, or to establish or exercise Vividas' legal rights or defend against legal claims. Vividas reserves the right to use and disclose your Personal Information in order to investigate, prevent or take action regarding illegal activities, infringement of the intellectual property of Vividas or a third party, suspected fraud, situations involving potential threats to the physical safety of any person or violations of Vividas' Terms, or as otherwise required by law. 
+**6.ACCESS, REMEDIES AND COMPLIANCE**
 
-Opt In
+**User Control and Account Cancellation.** Through the My Account option, you can access and edit your account registration information. If you no longer want to use the FoxSoccer.tv Services, you may deactivate your user account by clicking on the "unsubscribe" link on the My Account function.When you deactivate your account you will no longer have access to the online video subscription service. We may retain backup information related to your account on our servers for some time after deactivation for fraud detection or to comply with Applicable Laws or our internal security policies. 
 
-As a subscriber or registrant to Vividas, you may be sent email correspondence providing you with an opportunity to opt in to future communications. Except as permitted or required by law or in accordance with the Vividas Privacy Policy, Vividas will not send you offers or other communications unless you have opted into receiving them by clicking the appropriate box(es) during the registration or purchase processes or by opting in to correspondence. 
+**7.CONTACT US**
+
+If you have questions about this Privacy Policy, please contact Fox Soccer at:
+
+Email:   
+FoxSoccer.tv.privacy@fox.com 
+
+Mail: 
+
+FoxSoccer.tv Privacy Officer
+
+c/o Fox Cable Networks Services, LLC
+
+Business and Legal Affairs
+
+P.O Box 900
+
+Beverly Hills, California 90213-0900
+
+Telephone:
+
+(310) 369-1350
