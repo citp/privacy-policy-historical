@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telly-tv.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624125759id_/http%3A//www.telly-tv.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telly-tv.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026174908id_/http%3A//www.telly-tv.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
