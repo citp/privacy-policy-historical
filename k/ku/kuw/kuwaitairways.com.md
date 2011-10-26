@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kuwaitairways.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425174810id_/http%3A//www.kuwaitairways.com/Default.aspx%3FpageId%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuwaitairways.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026032618id_/http%3A//www.kuwaitairways.com/Default.aspx%3FpageId%3D19) for the most accurate reproduction.*
 
-# KUWAIT AIRWAYS - Fly to Kuwait, Kuwait flights, Find Cheapest Fares
+# Kuwait Airways - National Flag Carrier Since 1954
 
 Copyright Clause & Online Privacy Statement 
 
