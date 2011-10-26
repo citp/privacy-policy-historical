@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gyminee.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214124240id_/http%3A//dailyburn.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gyminee.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026120943id_/https%3A//dailyburn.com/public/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DailyBurn
 
