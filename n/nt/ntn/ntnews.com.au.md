@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220074309id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ntnews.com.au privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026134958id_/http%3A//www.ntnews.com.au/privacy) for the most accurate reproduction.*
 
 # Statement regarding privacy policy | NT News | Darwin, Northern Territory, Australia | ntnews.com.au
 
