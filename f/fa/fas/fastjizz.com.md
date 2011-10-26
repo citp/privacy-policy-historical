@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fastjizz.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616221526id_/http%3A//www.fastjizz.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastjizz.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026194837id_/http%3A//www.fastjizz.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FastJizz
+# Privacy Policy - Fast Jizz
 
 This document details important information regarding the use and disclosure of User Data collected on Fastjizz.com
 
