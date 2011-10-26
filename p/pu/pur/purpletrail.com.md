@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605140100id_/http%3A//www.purpletrail.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purpletrail.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026041620id_/http%3A//www.purpletrail.com/privacypolicy) for the most accurate reproduction.*
 
 # Online Invitations, Wedding Invitations, Party Invitations by Purple Trail
 
