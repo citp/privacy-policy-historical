@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214124640id_/http%3A//cpooutlets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpooutlets.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026055915id_/http%3A//cpooutlets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CPO Outlets | Buy New and Reconditioned Power Tools and Home Improvement Products
 
