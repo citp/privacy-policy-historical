@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the gyminee.com privacy policy that was archived on 2010-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101214124240id_/http%3A//dailyburn.com/public/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gyminee.com privacy policy that was archived on 2011-10-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111026120943id_/https%3A//dailyburn.com/public/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <meta name="description" content="Burn fat and gain muscle by joining DailyBurn. Track your workouts, find fitness programs, journal your calories, and stay motivated to live a healthy life.">
 <meta name="keywords" content="workout programs,exercise routines,fitness tracking,weight training,iphone fitness,food diary,online fitness tracking,journal,diet tracking,calorie counting,weight loss">
-<meta name="authenticity-token" id="authenticity-token" content="mFpPZZigdL3kYTHNoxaZt4sZPoxUp9Alin94AjRuH8I=">
+<meta name="authenticity-token" id="authenticity-token" content="41agHaLiO8+Z+DiKysBtXzEDc3h82TLYoahodsE/MLU=">
 <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
 
   <title>Privacy Policy - DailyBurn</title>
-  <link href="/stylesheets/tyndale_packaged.css?1292251992" media="screen" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/tyndale_packaged.css?1319573356" media="screen" rel="stylesheet" type="text/css">
   
-  <script src="/javascripts/base_packaged.js?1292251988" type="text/javascript"></script>
+  <script src="/javascripts/base_packaged.js?1319573345" type="text/javascript"></script>
   
-  <script src="/javascripts/swfobject.js?1292251942" type="text/javascript"></script>
+  <script src="/javascripts/swfobject.js?1288750440" type="text/javascript"></script>
   
   <!--[if lt IE 7]>
     <script type="text/javascript" src="/javascripts/ie-hover-pack.js"></script>
@@ -28,9 +28,11 @@
     <div id="header">
       <div class="top_message"><a href="/signup">Click here to sign up for a free account!</a></div>
 			<strong class="logo"><a href="/">daily burn</a></strong>
-			        <a href="http://dailyburn.com/apps/iphone" class="header_promo" title="New DailyBurn 2.0 iPhone App">NEW: Try the DailyBurn 2.0 iPhone App!</a>
-						<ul class="welcome">
-				<li><a href="/users/login">Login</a></li>
+
+      <a href="http://mealsnap.com/" class="header_promo" title="New Meal Snap iPhone App">Meal Snap - Calorie Counting Magic</a>
+
+			<ul class="welcome">
+				<li><a href="/signup">Signup for a Free Account</a> | <a href="/users/login">Login</a></li>
 			</ul>
     </div>
 
@@ -117,17 +119,17 @@
 
     <div id="footer">
   		<ul>
-  			<li><a href="http://support.dailyburn.com">Contact Us</a></li>
-  			<li><a href="http://support.dailyburn.com">Support</a></li>
-  			<li><a href="http://support.dailyburn.com">Advertising</a></li>
-  			<li><a href="http://blog.dailyburn.com">Blog</a></li>
+  			<li><a href="http://help.dailyburn.com">Contact Us</a></li>
+  			<li><a href="http://help.dailyburn.com">Support</a></li>
+  			<li><a href="http://help.dailyburn.com">Advertising</a></li>
+  			<li><a href="http://life.dailyburn.com">Blog</a></li>
         <li><a href="http://dailyburn.theresumator.com/apply/" target="_blank">Jobs</a></li>
   			<li><a href="/public/legal">Legal</a></li>
   			<li><a href="/public/privacy">Privacy</a></li>
   		</ul>
   	</div>
   	<div id="copyright">
-  		© 2007-2010 DailyBurn, Inc. DailyBurn™ is a registered trademark of DailyBurn, Inc.
+  		© 2007-2011 DailyBurn, Inc. DailyBurn™ is a registered trademark of DailyBurn, Inc.
   		<p class="centered">
         <a href="http://mindspark.com"><img src="/images/mindspark_logo.gif" alt="Mindspark"></a>
       </p>
@@ -140,6 +142,8 @@
     <script type="text/javascript">
       try {
       var pageTracker = _gat._getTracker("UA-2293294-1");
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-2293294-1']);
       
       if ("http:" == document.location.protocol) {
         pageTracker._setLocalRemoteServerMode();
@@ -180,8 +184,8 @@
         }
 
         referral_cookie = getCookie("referral_tracking");
+        var params = $H(location.href.toQueryParams());
         if (!referral_cookie) {
-          var params = $H(location.href.toQueryParams());
           if (typeof(campaign_override) != 'undefined') {
             params.set('cid', campaign_override);
           }
@@ -194,7 +198,10 @@
             var b = val.indexOf("|");
             params.set('referrer', val.substring(7,b));
           }
-          document.cookie='referral_tracking=' + encodeURIComponent(params.toJSON()) + ';path=/';
+          document.cookie='referral_tracking=' + encodeURIComponent(Object.toJSON(params)) + ';path=/';
+        }
+        if (typeof(params.get('aid')) != 'undefined'){
+          document.cookie='affiliate_id=' + params.get('aid') + ';path=/';
         }
       </script>
             <!--[if IE 6]>
