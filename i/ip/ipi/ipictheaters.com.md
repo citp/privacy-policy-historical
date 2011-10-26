@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipictheaters.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303214523id_/http%3A//www.ipictheaters.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipictheaters.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026201227id_/http%3A//www.ipictheaters.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - IPic Theaters
 
