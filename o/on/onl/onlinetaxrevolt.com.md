@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinetaxrevolt.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211124250id_/http%3A//www.onlinetaxrevolt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinetaxrevolt.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026030521id_/http%3A//www.onlinetaxrevolt.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Tax Revolt | OnlineTaxRevolt.com
+# Privacy Policy | Online Tax Revolt
 
 _Security_  
 The servers that house OnlineTaxRevolt.com are maintained in a manner that safeguards the information in our databases effectively.
