@@ -1,23 +1,6 @@
-> *The following text is extracted and transformed from the greatbigcanvas.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627142955id_/http%3A//www.greatbigcanvas.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatbigcanvas.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026171831id_/http%3A//www.greatbigcanvas.com/privacy.asp) for the most accurate reproduction.*
 
 # Great Big Canvas
-
-Four Seasons
-
-Panoramas by Landscape
-
-Panoramas by Region
-
-Other Categories
-
-Vintage Art
-
-Inspirational Art
-
-|   
----  
-  
-[](http://www.canvasondemand.com/)
 
 ### Privacy Policy
 
