@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the aquaticcommunity.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227091526id_/http%3A//www.aquaticcommunity.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquaticcommunity.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026215034id_/http%3A//www.aquaticcommunity.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # AquaticCommunity Privacy Policy
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address,   
-email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and   
-services of interest to you. 
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html). 
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, this site has no access or control over these cookies that may be used by third party advertisers. 
 
 AquaticCommunity  
 Privacy Policy  
