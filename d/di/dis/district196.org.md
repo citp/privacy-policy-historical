@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the district196.org privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318060947id_/http%3A//district196.org/District/Includes/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the district196.org privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026021300id_/http%3A//www.district196.org/District/Includes/PrivacyStatement.html) for the most accurate reproduction.*
 
 # Untitled Document
 
