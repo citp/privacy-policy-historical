@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gdiapers.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130102340id_/http%3A//www.gdiapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gdiapers.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026192711id_/http%3A//www.gdiapers.com/privacy-policy) for the most accurate reproduction.*
 
 # gDiapers - privacy policy
 
