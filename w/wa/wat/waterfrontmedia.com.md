@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterfrontmedia.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625170444id_/http%3A//corporate.everydayhealth.com/eh-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterfrontmedia.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026034722id_/http%3A//corporate.everydayhealth.com/eh-privacy.aspx) for the most accurate reproduction.*
 
 # Everyday Health Privacy Policy
 
