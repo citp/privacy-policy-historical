@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the daniusoft.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621030039id_/http%3A//www.daniusoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daniusoft.com privacy policy that was archived on 2011-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111026214941id_/http%3A//www.daniusoft.com/privacy.html) for the most accurate reproduction.*
 
 # Daniusoft Privacy Policy
 
 ## Privacy
 
-Daniusoft Studio is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to Daniusoft's commitment to protecting your privacy. Daniusoft Studio will not sell your personal information in any manner whatsoever.
+Aimersoft Studio is committed to protecting your privacy. We will only collect your personal information for defined purposes. We do not distribute or share your personal information beyond what is strictly necessary to fulfill our obligations to you. We may share your information only with partners who adhere to Aimersoft's commitment to protecting your privacy. Aimersoft Studio will not sell your personal information in any manner whatsoever.
 
 **What information do we collect? What do we use it for?**
 
@@ -12,11 +12,11 @@ When you place an order on our website, your full name, email address, mailing a
 
 **How do 3rd party credit card processors protect customer information?**
 
-Daniusoft Studio uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
+Aimersoft Studio uses secure server hosted by SWREG and other 3rd party credit card processors that encrypt all the customer's personal information including name, address, credit card number credit card expiration date etc. before it is sent to us. Encryption works to prevent any malicious use of your personal information. Your credit card information is only used for online transition.
 
 **SWREG**
 
-Swreg is an advanced secure online payment service for software registration that has been in operation since 1987. Daniusoft Studio uses SWREG to provide you with very secure and fast online purchase.
+Swreg is an advanced secure online payment service for software registration that has been in operation since 1987. Aimersoft Studio uses SWREG to provide you with very secure and fast online purchase.
 
 **About cookies**
 
