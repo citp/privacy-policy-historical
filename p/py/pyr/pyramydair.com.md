@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619195620id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pyramydair.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027230135id_/http%3A//www.pyramydair.com/site/privacy) for the most accurate reproduction.*
 
 # Pyramyd Air Privacy Statement
 
@@ -19,7 +19,7 @@ So, are you looking for a fresh take on airguns? Some new information, perhaps? 
 |  [](http://www.ebillme.com/learn/pyramyd-air/)  
 ---  
 **10% Cash Back with eBillme!**   
-Earn 10% Cash Back when you checkout with eBillme and pay using your bank’s online bill pay. **Offer expires June 30, 2011. **Restrictions apply.** | [Offer details](http://www.pyramydair.com/ebillme/)  
+Earn 10% Cash Back when you checkout with eBillme and pay using your bank’s online bill pay. **Offer expires October 31, 2011. **Restrictions apply.** | [Offer details](http://www.pyramydair.com/ebillme/)  
   
 
 
