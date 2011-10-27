@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623164333id_/http%3A//www.parentteacheronline.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parentteacheronline.com.au privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027162248id_/http%3A//www.parentteacheronline.com.au/privacy) for the most accurate reproduction.*
 
 # » Privacy | Parent Teacher Interviews Online
 
