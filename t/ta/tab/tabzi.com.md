@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabzi.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628215737id_/http%3A//www.tabzi.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabzi.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028002502id_/http%3A//www.tabzi.com/general/privacy.php) for the most accurate reproduction.*
 
 # Free advertising traffic exchange - Tabzi
 
