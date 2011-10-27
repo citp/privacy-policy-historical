@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teambuy.ca privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622024715id_/http%3A//www.teambuy.ca/terms.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teambuy.ca privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027075031id_/http%3A//www.teambuy.ca/terms.php) for the most accurate reproduction.*
 
 # TeamBuy
 
@@ -36,7 +36,7 @@ TeamBuy Inc (“We”, “Us” etc.) believes that your personal information de
 
 **NEWSLETTERS**
 
-You may sign up and subscribe to receive our newsletters. We may use the information that you provide to us, such as your date of birth, sex, or other preferences, to provide customized newsletters that may be of interest to you. You have the option to unsubscribe to newsletters at anytime.
+You may sign up and subscribe to receive our newsletters via e-mail. We may use the information that you provide to us, such as your date of birth, sex, or other preferences, to provide customized newsletters that may be of interest to you. You have the option to unsubscribe to newsletters at anytime. If you no longer wish to receive updates or notifications may opt-out of receiving these communications by following the instructions in the e-mail. 
 
 **POLLS**
 
@@ -80,7 +80,13 @@ We reserve the right to use and disclose personal information to comply with app
 
 **CONTACT INFO:**
 
-For questions or concerns regarding your personal information and our privacy policy, or to update, correct or delete your personal information, please contact [ **info@teambuy.ca**](mailto:info@teambuy.ca).
+For questions or concerns regarding your personal information and our privacy policy, or to update, correct or delete your personal information, please contact [ **info@teambuy.ca**](mailto:info@teambuy.ca) OR Mail us at, 
+
+Buyers Unite Inc.   
+82 Peter Street, Floor 3   
+Toronto, Ontario   
+M5V 2G5, Canada   
+1-855-TEAMBUY (832-6289) 
 
 **RETURNS**
 
@@ -102,3 +108,20 @@ Returns are handled on a case-by-case basis. Within the limits of reason, we'll 
 \- TeamBuy.ca reserves the right to modify the prize draw, cancel the Contest and/or disqualify any individual who tampers with the entry process or does not respect these terms and conditions.  
 \- No product or service needs to be purchased as the sole condition of Contest participation.  
 \- Any litigation respecting the conduct or organization of a publicity contest may be submitted to the Régie des alcools, des courses et des jeux for a ruling. Any litigation respecting the awarding of a prize may be submitted to the board only for the purposes of helping the parties reach a settlement.
+
+*By entering this contest you consent to receiving email communications from Teambuy.ca. 
+
+\- Competition closes 30th Sept 2011 at midnight. Winners will be randomly drawn from all entries and contacted via email by Oct 7, 2011   
+\- One entry valid per person   
+\- The promoter of this campaign is Teambuy.ca   
+\- Competition is open to Canadian residents only.   
+\- Prizes will be forfeited if contact cannot be made by 10th Oct 2011   
+\- No prize draws are open to Teambuy.ca employees, or their families, or participating suppliers/partners.   
+\- All decisions of the Sponsors, or any contest judging organization as designated by them, are final and binding in all matters relating to this Contest.   
+\- By entering this Contest, entrants consent to the collection, use and disclosure of their personal information for the purposes of administering the Contest. By accepting a Prize, winners consent to the collection, use and disclosure to the public of their names, addresses (city, province/territory), voices, statements and photographs or other likenesses for publicity purposes in connection with the Contest in any media or formats including, but not limited to, the Internet, without further notice, permission or compensation. Personal information will not otherwise be used or disclosed without consent.   
+\- Proof of identification will be required prior to prize claims.   
+\- Prizes must be taken as offered and are not transferable to another person or redeemable for cash.   
+\- Prize consists of One (1) iPad 2, 16GB   
+\- Before being declared a winner, a selected entrant may be required to sign a Declaration of Compliance and Release of Liability form, releasing TeamBuy.ca, and each of their respective advertising and promotional agencie, contest judging organization and affiliates of the foregoing and all of their respective directors, officers, owners, partners, employees, agents, representatives, successors and assigns (collectively, the “Releasees”) from any liability in connection with this Contest or the Prize(s).   
+\- Without limiting the release provided in Paragraph 9 above, and for greater certainty, the Releasees will not be liable for: a) any incomplete or inaccurate information, whether caused by Contest Website users or by any equipment or programming associated with or utilized in the Contest, or by any technical or human error which may occur in the processing of entries; b) the theft, destruction or unauthorized access to, or alteration of, entries or the Contest Website; c) any problems with, or technical malfunctions of, telephone networks or lines, computer on-line systems, servers or providers, computer equipment, software, viruses or bugs; d) any failure of any e-mail to be received by or from Sponsors for any reason including but not limited to traffic congestion on the Internet or at any website or combination thereof; or e) damage to a participant’s or other person’s system occasioned by participation or downloading of materials in this Contest.   
+\- Any use of automated devices is prohibited. No correspondence will be entered into except with selected entrants. Contest is subject to all applicable federal, provincial and municipal laws. In the event of a dispute regarding who submitted an online entry, the entry will be deemed submitted by the authorized account holder of the e-mail address submitted at the time of entry. “Authorized account holder” is defined as the natural person who is assigned to an e-mail address by an Internet access provider, online service provider or other organization that is responsible for assigning e-mail addresses for the domain associated with the submitted e-mail address. A selected entrant may be required to provide Sponsors with proof that he/she is the authorized account holder of the e-mail address associated with the selected entry. Sponsors reserve the right at their sole discretion to disqualify, from this Contest and any future Contest or other promotion conducted by Sponsors, any individual that they find or believe to be not in compliance with these Official Contest Rules, to be tampering with the entry process or the operation of the Contest or Contest Website; or to be acting in an unsportsmanlike or disruptive manner, or with intent to annoy, abuse, threaten or harass any other person. ANY ATTEMPT BY AN ENTRANT OR ANY OTHER PERSON TO DELIBERATELY DAMAGE ANY WEBSITE OR UNDERMINE THE LEGITIMATE OPERATION OF THE CONTEST IS A VIOLATION OF CRIMINAL AND CIVIL LAWS AND, SHOULD SUCH AN ATTEMPT BE MADE, SPONSORS RESERVE THE RIGHT TO SEEK DAMAGES FROM ANY SUCH PERSON TO THE FULLEST EXTENT PERMITTED BY LAW. 
