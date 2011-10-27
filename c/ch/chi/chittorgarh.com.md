@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chittorgarh.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628001450id_/http%3A//www.chittorgarh.com/newportal/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chittorgarh.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027162720id_/http%3A//www.chittorgarh.com/newportal/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # Chittorgarh.com | Portal | Privacy Policy
 
