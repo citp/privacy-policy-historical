@@ -1,129 +1,84 @@
-> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612063619id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuku.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027031845id_/http%3A//www.yuku.com/portal/privacy) for the most accurate reproduction.*
 
 # Yuku Privacy Policy | Free forums, social networks, communities, chat rooms
 
 ## Introduction
 
-Your privacy is of the utmost importance to Yuku. Our basic principles are:
+**PLEASE READ THIS PRIVACY CAREFULLY BEFORE USING THIS SITE.**
 
-  * We respect your privacy at Yuku
-  * You control your personal information,
-  * We try to limit our collection of personal information as needed to provide and improve our services to you,
-  * We do not disclose your personal information to third parties unless we need to do so to fulfill your requests, you expressly tell us to, we believe we are reasonably compelled to do so, or we are required to by law.
+This Privacy Policy covers how Crowdgather Inc. (“Company”) will use its users’ personally identifiable information ("Personal Data") as well as general demographic information (“Demographic Data”) that Company gathers when users access and use this Site, when users use our Content or when users post their User Generated Content to the Site. Capitalized terms contained herein shall have the same meanings ascribed to them in the Site’s Terms and Conditions. 
 
+The Company knows that users care about how their personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. 
 
+By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. 
 
-Yuku is a network of collaborative publishing communities, user profiles and images. You the user and we as Yuku have entered a voluntary relationship in which we provide services to you. The data you disclose to us makes it possible to deliver the services you truly want and ask for.
+If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of the Company and the authorized third parties referred to herein located in the United States. 
 
-Yuku's services contain links to other web sites outside Yuku. We are not responsible for the privacy policies and/or practices of other sites. When linking to another site a user should read the privacy policy stated on that site. This privacy policy only governs information collected on Yuku.com.
+## Information Collected Through the Site
 
-## What Information is Gathered
+We collect Personal Data through the Site when you voluntarily chose to provide us with such Personal Data, such as through one or more of the following options: 
 
-We collect information the information you give us when you become a member of Yuku.
+(1) Registration. Our Site's registration system requires users to give us your Personal Data, including contact information such as your name, address and e-mail address, phone number, and demographic information such as mailing address, sex, age, and potentially other personal information we may request. Such contact information is used to contact the user when necessary. 
 
-### Site Visitors
+(2) Forums, Blogs and Group Discussions. Users may participate in forums and group discussions with other users. While we do not actively mine for your Personal Data disseminated in such blogs and forums, we will be storing the content as User Generated Content and therefore collect such information indirectly. We do not share your Personal Data with other users, we do not monitor the exchange of Personal Data that you disclose to such other users in forums, blogs and group discussions. 
 
-In general, you can browse parts of the site without telling us who you are or revealing any personal information about yourself. If you choose to use our services, we may require you to provide contact and identity information, billing information, and other personal information as indicated on forms throughout the site. Where possible, we indicate which fields are required and which fields are optional. You always have the option to not provide information by choosing not to use a particular service or feature. Your failure or unwillingness to provide certain information may mean that a service or feature will not be available to you.
+WE STRONGLY ADVISE AGAINST USING YOUR REAL NAME AS YOUR “USER NAME” ON OUR SITE, PARTICULARLY IF YOU ENGAGE IN FORUMS, GROUP OR BLOG DISCUSSIONS WITH ANYONE YOU DO NOT KNOW. WHILE WE ENCOURAGE THE FORUMS TO BE SELF-POLICING, SUCH POSTINGS WILL BE SEARCHABLE BY MAJOR SEARCH ENGINES AND THUS WE CANNOT BE RESPONSIBLE FOR POTENTIALLY DAMAGING INFORMATION OR POSTINGS ASSOCIATED WITH YOUR TRUE IDENTITY. FURTHER, AS WE DO NOT SCREEN THE BACKGROUNDS OF OUR USERS, WE CANNOT GUARANTEE YOUR PERSONAL SAFETY OR PREDATORY CONDUCT BY OTHER USERS. THEREFORE, WE STRONGLY URGE YOU NOT TO SHARE YOUR PERSONAL DATA WITH ANY OTHER USER UNLESS YOU KNOW THEM PERSONALLY, AND WE EXPRESSLY DISCLAIM ANY RESPONSIBILITY RELATED THERETO. 
 
-### Browser and Other Information We May Collect
+## Advertisers
 
-In addition to the information you choose to provide to us, Yuku also collects and stores certain technical and other information about the online activities of our users-whether or not they are registered-on an aggregated (or collective) basis. This may include your IP address, browser type, and operating system. We track the number of people who view each page, and other site usage data, in order to learn which features are the most popular and thereby improve our service. We also record statistical information collected on our site to better understand our audience. This information is recorded as anonymous group statistical information and is not connected to any personal information that you provide as a member.
+We use third-party advertising companies to serve ads and collect information when users visit our Site. These companies may use information (not including users’ Personal Data) about users visits to this and other websites in order to provide advertisements on our Site, other websites and other forms of media about goods and services of interest to such users. If you would like more information about this practice and to know your choices about not having this information used by these companies, check out <http://www.networkadvertising.org/managing/opt_out.asp>. In some instances, users may request more information from these third parties concerning their respective products and/or services by clicking on such advertisement. Some of our third party advertisers offer to contact our users directly as a way to follow up a user's interest in its products and/or services. In such cases, users will be asked for their Personal Data, and by providing your Personal Data in such a fashion, a user is consenting to being contacted by such third party. 
 
-We, as well as the administrators of each domain, do have the ability to view your IP address if you post content within a domain on the network. We also collect the information that you provide when you make a post on one of our domains so that we can archive and display your posts. Please use caution when posting material on any domain as your posts may become immediately available to the public and may be recorded and stored by anyone.
+## Demographics Information
 
-### Registered Members
+Through the use of certain technologies we are able to track and store certain types of information whenever you interact with our Site. The Company automatically receives and records information on our server logs from your browser including IP addresses, cookie information, and the Site pages requested. The Company only uses this data in aggregate form, for statistical purposes, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users access parts of the Site so that we can improve the Site and the Content. This information may be shared with advertisers and other third parties on an aggregated basis, but it does not indicate the Personal Data of individual users. Our use of cookies and IP Addresses are set forth accordingly: 
 
-When you register as a member, we ask you to provide us with a user name, password, e-mail address, name, address, birth year, and gender. We'll also ask you whether you'd like to participate in our business partners' programs.
+(1) Cookies are small bits of information that are stored on your computer hard drive by your webbrowser. Our cookies do not collect or contain Personal Data, but may reflect de-identified demographic or other data linked to the registration data you have submitted to us, e.g. your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to http://www.aboutads.info/choices. While you may also turn off your computer’s acceptance of cookies through your browser, your full use of the Site may be restricted. 
 
-### Member Emails
+(2) We collect your computer’s IP addresses in order to conduct system administration, report aggregate information to third parties and to conduct Site analysis. While we do not associate IP addresses with records containing Personal Data, we will use IP addresses to identify any user who refuses to comply with these Terms and Conditions or otherwise violates any applicable laws. 
 
-As a registered member, you must choose to receive our system emails. System emails are used to contact you in the event of changes to our services, terms of use or privacy policies. Yuku may use URL tracking in the emails sent to you. When you open such email messages, our system may record the following data: the time you viewed the email and the URLs that you clicked on from that email. Yuku will also record if your email program is capable of receiving HTML-encoded email. URL tracking may use cookies.
+## Our Use of Your Personal Data and Other Information
 
-### International Visitors
+We use the Personal Data you provide in a manner that is consistent with this Privacy Policy. Specifically, we will use your Personal Data to the extent necessary to provide the products and services offered on this Site, to maintain your account, to administer the Site and as may be otherwise permissible under applicable law. We will also use your Personal Data to offer you certain products and services you may find of interest. You may, however, opt out of receiving future solicitations by following the instructions in such email or by communicating your opt out preferences as set forth below. If we intend on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected. 
 
-Like almost every Web site, Yuku may be accessed by an international audience. By visiting our Web site and providing us with data, you acknowledge and agree that your personal information may be processed for the purposes identified in this policy. In addition, such data may be stored on servers located outside your resident jurisdiction, which may have more or less stringent privacy practices than your own. By providing us with your data, you consent to the transfer of such data.
+## Our Disclosure of your Personal Data and Other Information
 
-## How Information is Used
+The Company considers your Personal Data to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below: 
 
-We understand that you value your personally identifiable information. We generally use your personal information to render you services and to improve our services.
+(1) Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets. 
 
-We may use your personal and registration information to: improve our services; troubleshoot problems; measure consumer interest in our products and services; inform you about online and offline offers, products, services, and updates; customize your experience; protect us against error, fraud and other criminal activity; enforce our Terms of Use; and as otherwise described to you at the time of collection and in this policy. At times, we may look across multiple users to identify problems, and in particular we may examine your personal information to identify users using multiple User IDs or aliases.
+(2) Agents, Consultants and Related Third Parties: The Company retains the services of third party vendors to perform certain business-related functions. Examples include mailing information, maintaining databases and processing payments. When we employ third parties to perform such functions, we only provide them with the information that they need to perform their specific function. 
 
-### Email Communications from Yuku
+(3) Advertisers: We may share your Personal Data with our third party advertisers in order to contact you regarding such third party’s products and/or services. You may opt out of receiving these solicitations as provided in such solicitations or as otherwise stipulated under this Privacy Policy. 
 
-Yuku may send you messages through our messaging system to keep you apprised of your membership status, site developments, and to inform you of new offers.
+## Legal Requirements
 
-### Third Party Use and Partner Site Email Communications
+The Company may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of the Company, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability. 
 
-In the interest of bringing the highest quality services to you "under one roof," Yuku has partnerships with other Web-based services. Some of these arrangements include the sharing of some of your personal information with our partners in order to extend these services to you. We only share information when you specifically authorize it.
+## Consent
 
-Yuku, as well as its partner sites, may send you e-mail messages on a regular basis to keep you apprised of your membership status, site developments, and to inform you of new offers. Examples of this include special offers from our business partners. Included in each of these messages are simple instructions on how to remove yourself from these mailings if you do not wish to receive them in the future.
+Except as set forth above, you will be notified when your Personal Data may be shared with third parties, and will be able to prevent the sharing of this information. 
 
-### Third Party Sharing to Render Services to You
+## External Links
 
-We may use third parties to help us perform services, like processing credit card information, transmitting emails in response to your requests, or other service-related functions. If these third parties require access to your personally identifiable information in order to provide their services, they will be obligated to abide by this privacy policy when handling your information. We require third party service providers to limit their use of your personal information to rendering services for us and you consistent with this policy.
+Our Site may provide links to various third party web sites which are provided solely for your convenience. However, even if a third-party affiliation exists between the Site and that destination site, we do not exercise authority over these linked sites, each of which maintains independent privacy and data collection policies and procedures. We do not assume responsibility or liability for these independent methods or actions and are not responsible for the independent policies or procedures of destination sites. Similarly, we cannot take responsibility for the privacy initiatives or the content of such web sites. These links to third party web sites are provided only for your convenience, and as such, you access them at your own risk. However, we wish to ensure the integrity of the Site and its destination links, so any comments pertaining to the Site or any Sites accessed through these links are greatly appreciated. 
 
-## Disclosure of Personal Information
+## Exclusions
 
-Our business is about building a long-term relationship with you. To build that trust, we know that as you spend time on our site, your personal information must remain within your control. Be assured that your personally identifiable information, such as your name, address, and email address is not sold to others.
+This Privacy Policy does not apply to any Personal Data collected by the Company other than Personal Data collected through the Site. This Privacy Policy shall not apply to any Unsolicited Information and User Generated Content you provide to the Company through this Site or through any other means. This includes, but is not limited to, information posted or requested to be posted to any public areas of the Site. Except as otherwise provided in the Terms and Conditions, all Unsolicited Information and User Generated Content shall be deemed to be non-confidential and the Company shall be free to reproduce, use, disclose, and distribute such Unsolicited Information and User Generated Content to others without limitation or attribution. 
 
-There are some situations where we may need to disclose information to organizations or entities not described in our policy here. Yuku may be required to disclose your personal information: (i) if we believe it is reasonably necessary to comply with legal process (such as a court order, subpoena, search warrant, etc.) or other legal requirements of any governmental authority; (ii) would potentially mitigate our liability in an actual or potential lawsuit; (iii) is otherwise necessary to protect our rights or property; or that of others (iv) is necessary to protect the interest of other users of our web site.
+## Security
 
-### Merger or Sale of Yuku
+We employ reasonable security measures in place to protect against the theft, misuse and alteration of the Personal Data under our control. Personal Data is stored in a secured database. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent or uploaded User Generated Content sent to or from this Site may not be secure. Therefore, you should therefore take special care in deciding what information you send to us through an Internet connection. 
 
-We may also transfer the information in our possession in connection with a sale of assets of the company, a sale of the company or a merger.
+## Choice/Opt-Out
 
-### Respecting Others' Privacy
+Our Site gives users the opportunity to opt-out to receive communications from us and our third party advertisers at the point where we request information about the user. This Site also gives users the opportunity to stop receiving these communications at any time by editing their User account preferences. You will find an opt-out option at the bottom of all communications, or you may write to us at the below address to opt out of future communications not directly related to your access to the Site and your account: 
 
-By agreeing to our Terms of Use, you agree that, with respect to other users' personal information that you obtain through the site or through a Yuku-related communication or Yuku-facilitated transaction, Yuku hereby grants to you a license to use such information only for: (a) Yuku-related personal communications that are not unsolicited commercial messages, (b) using services offered through Yuku, and (c) any other purpose that a user expressly agrees to after you tell them the purpose you would like to use it for. In all cases, you must give users an opportunity to remove themselves from your systems and a chance to review what information you have collected about them. In addition, under no circumstances, except as defined in this paragraph, can you disclose personal information about another user to any third party without our consent and the consent of that user. You agree that other users may use your personal information to communicate with you in accordance with this paragraph.
+Crowdgather Inc.  
+20300 Ventura Blvd. Suite 330  
+Woodland Hills, CA 91364  
+Attn: Compliance 
 
-Yuku and our members do not tolerate spam. Therefore, without limiting the foregoing, you are not licensed to add a Yuku member, even one who participates on our domain, to your mailing list (email or physical mail) without their express consent. To report Yuku related spam to, please contact us using our legal form.
+## Changes
 
-## Security of Information
-
-Your information is stored on Yuku's servers located in the United States. We use procedural and technical safeguards to protect your personal information against loss or theft as well as unauthorized access and disclosure to protect your privacy.
-
-That being said, "perfect security" does not exist on the Internet. Unfortunately, no data transmission over the Internet can be guaranteed to be absolutely secure. As a result, while we strive to protect your personal information, Yuku cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure the security of your information on our systems.
-
-Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private.
-
-If Yuku learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Yuku may post a notice on our web site if a security breach occurs. If this happens, you will need a web browser enabling you to view the Yuku.com web site. Yuku may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should [notify us](http://help.yuku.com/).
-
-### Cookies, Web Beacons and Personalization
-
-"Cookies" are small files placed on your hard drive that assist us in providing our services. We offer certain features that are only available through the use of a "cookie". We also use cookies to allow you to enter your password less frequently during a session. Cookies can also help us provide information that is targeted to your interests.
-
-Yuku uses cookies to store visitors' preferences and to record session information for purposes including: ensuring that visitors are not repeatedly offered the same advertisements; to customize advertising and Web page content based on browser type and user profile information; to estimate and report our total audience size and traffic; and to conduct research to improve our content and services. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set-each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences-however, you must enable cookies from Yuku in order to use most functions on the site.
-
-Please note that we permit third party advertisers who present advertisements on some of our pages to set and access their cookies on your computer. Advertisers' use of cookies is subject to their own privacy policies, not the Yuku Privacy Policy. You can choose not to receive tailored online advertising on other websites, based on your travel-related searches on this website, by clicking [here](http://www.networkadvertising.org/). or [ here ](http://www.privacychoice.org/choose)
-
-Yuku uses web beacons to research certain usage and activities on its and our website. The information collected through these web beacons is used to find out more about our users; for more accurate reporting; and to improve the effectiveness of our marketing. No personally identifiable information about you is shared by Yuku as a result of this research.
-
-You agree that we may use your personal information to contact you and deliver information to you that, in some cases, are targeted to your interests, such as targeted banner advertisements, administrative notices, product offerings, and communications relevant to your use of the Site. By accepting the Terms of Use and Privacy Policy, you expressly agree to receive this information.
-
-Not only do you have the opportunity to post content on any of our public Yuku domains, but you also have the opportunity to create your own Profiles and Domain and tailor it to your own special interests. In order to create a community, you need to be registered as a member to do these things. Once you've registered, you can follow our instructions on how to create your Profiles and Domain and customize them to match your preferences. This means you get to decide how to structure your Profiles, Domain, what design you'll use, and more. If you no longer wish to operate your Yuku domain, you can delete your content and turn off the "allow replies" feature.
-
-## Children
-
-We at Yuku believe it essential that parents are involved in their children's online experiences. That is why, in compliance with federal law, we do not knowingly collect personal information of any kind from anyone under the age of 13\. If we become aware of a user under the age of 13 providing information on our site, we will terminate their account and purge our databases of all information provided by that user.
-
-## Access to and Changing Information
-
-Once you become a member of Yuku, your personal information is stored in the site. You may access or change your information at any time.
-
-## Notice of Modifications
-
-In the future, Yuku may update and revise its privacy policy. We will provide conspicuous notice on our website if we decide to change our privacy policy in a way that would be materially less restrictive than this policy. At that time, you will have the opportunity to decide whether or not you would like Yuku to apply the new privacy policy to your personal information or to opt out of the new policy. If you continue to use Yuku, you will be accepting the new policies. If you decide to opt out of the new policy, you will no longer be able to participate as a member. The effective date of this policy is Januaary 4, 2006.
-
-Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online. The few employees who have access to personal data are trained to comply with the above privacy policy and made aware of any updates or modifications.
-
-## Questions?
-
-If you have any questions about this privacy policy still unanswered after reviewing this policy, please do not hesitate to contact us. You can e-mail [Yuku's legal department](http://help.yuku.com/). Or you may mail us at the following address:
-
-Inform Technologies, Inc.  
-44 East 30th Street, 11th Floor,  
-New York, NY 10016  
-
-
-Effective: January 4, 2006.
+The Company may amend this Privacy Policy from time to time, without obligation to provide notice to you. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used/collected. Since we may make changes in the way we use Personal Data, you are advised to review this Privacy Policy for changes each time you visit the Site. If we do provide you with notices to changes to this Privacy Policy, such notice shall not be construed as a continuing obligation to provide notice in any subsequent change to this Privacy Policy. 
