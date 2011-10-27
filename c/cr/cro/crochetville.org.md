@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crochetville.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612233436id_/http%3A//www.crochetville.org/forum/showthread.php%3Ft%3D44783) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crochetville.org privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027062523id_/http%3A//www.crochetville.org/forum/showthread.php%3Ft%3D44783) for the most accurate reproduction.*
 
 # Privacy Policy - Crochetville
 
@@ -31,6 +31,24 @@ Crochetville respects your privacy and will not share your personally identifiab
 **Third Party Ads  
 **Crochetville may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/faqs.asp). 
 
-For a list of vendors that have been certified by Google AdSense for third-party ads, [click here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). You may visit those vendor websites to opt out of cookies (if the vendor or ad network offers this capability). Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative's opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org/managing/opt_out.asp).
+For a list of vendors that have been certified by Google AdSense for third-party ads, [click here](https://www.google.com/adsense/support/bin/answer.py?answer=94149). You may visit those vendor websites to opt out of cookies (if the vendor or ad network offers this capability). Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative's opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org/managing/opt_out.asp).  
+**  
+Amazon**  
+Crochetville is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com. Link: [Amazon.com's Privacy Notice](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).  
+**  
+VigLink**  
+Crochetville uses VigLink to automatically affiliate commercial links. Link: [More information about VigLink and the option to opt-out](http://www.viglink.com/static/policies/ftc).
 
 _We reserve the right to modify this Privacy Policy from time to time without notice. Please review the Privacy Policy from time to time so that you will be apprised of any changes._
+
+__________________  
+**AmyS  
+Online Community Manager & Co-Owner of [Crochetville LLC](http://www.crochetville.org/)
+
+Keep up with Crochetville:  
+[](http://www.facebook.com/crochetville) [](http://www.ravelry.com/people/Crochetville) [](http://www.twitter.com/crochetville) [](http://www.youtube.com/user/CrochetvilleLLC)
+
+**  
+**Support Crochetville: Shop for crochet books, yarn,  
+supplies, & more through our Amazon Associates Link:**  
+
