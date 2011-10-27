@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 6figurejobs.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425041442id_/https%3A//www.6figurejobs.com/6FigureJobs_PrivacyStatement.cfm%3F100k%3D1%26jrl%3D1%26l%3D2448) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6figurejobs.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027214607id_/https%3A//www.6figurejobs.com/6FigureJobs_PrivacyStatement.cfm%3F100k%3D1%26jrl%3D1%26l%3D2448) for the most accurate reproduction.*
 
 # 6FigureJobs Mission Statement.
 
