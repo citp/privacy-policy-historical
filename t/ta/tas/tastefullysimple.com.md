@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105111312id_/http%3A//www.tastefullysimple.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastefullysimple.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027034242id_/http%3A//www.tastefullysimple.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Tastefully Simple - Privacy Policy
 
@@ -44,7 +44,7 @@ We may change or supplement this Privacy Policy from time to time and we will po
 California residents have the right to request the following information from businesses with whom they have an established business relationship: 
 
   * a list of the categories of personal information that a business has disclosed to third parties during the immediately preceding calendar year for the third parties’ direct marketing purposes if any, and 
-  * the names and addresses of all such third parties if any. 
+  * the names and addresses of all such third parties if any. Tastefully Simple and/or your consultant will collect your address and zip code to facilitate shipping any products you choose to order. Collection of such information is necessary to complete your order.
 
 
 
@@ -53,7 +53,6 @@ If you are a Tastefully Simple client and a California resident, please contact 
 **Contact Information**   
 All questions and concerns about your privacy can be sent to [Privacy@tastefullysimple.com](mailto:privacy@tastefullysimple.com) or 1920 Turning Leaf Lane, Attn: Privacy Policy Rights, Alexandria, MN 56308. 
 
-Effective Date: **November 2007**
-
+Effective Date: **February 2011**
 
 | 
