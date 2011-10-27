@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2010-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100205150243id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saverstore.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027124349id_/http%3A//www.saverstore.com/products/information/privacy) for the most accurate reproduction.*
 
 # Cheap Privacy best offers
 
@@ -14,13 +14,13 @@ We will give you the chance to refuse any marketing email that may be sent to yo
 
 The type of information we will collect about you includes: 
 
-  * name
-  * address
-  * telephone numbers
-  * email address
-  * credit/debit card details
-  * miscellaneous marketing information
-  * products purchased
+  * name 
+  * address 
+  * telephone numbers 
+  * email address 
+  * credit/debit card details 
+  * miscellaneous marketing information 
+  * products purchased 
 
 We will never ask for any sensitive information about you without your explicit consent. 
 
