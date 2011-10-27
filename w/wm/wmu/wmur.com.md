@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wmur.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526045323id_/http%3A//www.wmur.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wmur.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027225848id_/http%3A//www.wmur.com/privacy) for the most accurate reproduction.*
 
 # WMUR.com - Privacy
 
