@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaautomobile.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101200503id_/http%3A//www.indiaautomobile.com/index.php%3Foption%3Dsite%26page%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaautomobile.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027193832id_/http%3A//www.indiaautomobile.com/index.php%3Foption%3Dsite%26page%3Dprivacypolicy) for the most accurate reproduction.*
 
 # IndiaAutomobile.com
 
@@ -20,10 +20,10 @@ If you have any questions regarding our privacy policy, please write in to [priv
   
 | 
 
-| [1996,Zen,Petrol,Manual,Gr...](http://cars.indiaautomobile.com/usedcars/IA145152)  
-[2008,Ikon,Diesel,Manual,0...](http://cars.indiaautomobile.com/usedcars/IA145151)  
-[1998,Safari,Diesel,Manual...](http://cars.indiaautomobile.com/usedcars/IA145149)  
-[2000,Santro,Petrol,Manual...](http://cars.indiaautomobile.com/usedcars/IA145150)  
-[2007,Indica V2 Turbo,Dies...](http://cars.indiaautomobile.com/usedcars/IA145146)  
+| [2004,Omni,Petrol,Manual,W...](http://cars.indiaautomobile.com/usedcars/IA145381)  
+[2008,Santro Xing,Petrol,M...](http://cars.indiaautomobile.com/usedcars/IA145380)  
+[2005,Endeavour,Diesel,Sem...](http://cars.indiaautomobile.com/usedcars/IA145379)  
+[2008,Indigo CS,Diesel,Man...](http://cars.indiaautomobile.com/usedcars/IA145378)  
+[2006,Safari,Diesel,Manual...](http://cars.indiaautomobile.com/usedcars/IA145377)  
   
 ---
