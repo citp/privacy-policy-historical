@@ -1,91 +1,89 @@
-> *The following text is extracted and transformed from the calgarysun.com privacy policy that was archived on 2004-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20040602195203id_/http%3A//www.calgarysun.com/htdocs/politiques.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the calgarysun.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027061314id_/http%3A//www.calgarysun.com/privacy) for the most accurate reproduction.*
 
-# The Calgary Sun
+# Privacy policy | Calgary Sun
 
-| Index  
----  
-[Home](http://www.calgarysun.com/)  
-[Careers](http://www.calgarysun.com/generic6.shtml)  
-[Comment](http://www.calgarysun.com/Comment.shtml)  
-[Business](http://canoe.ca/NewsStand/CalgarySun/Business/)  
-Features  
-[American Idol](http://www.calgarysun.com/generic28.shtml)  
-[Summer Camp 2004](http://www.calgarysun.com/generic14.shtml)  
-[Go Flames Go!](http://www.calgarysun.com/generic5.shtml)  
-[Nursing Feature](http://www.calgarysun.com/generic2.shtml)  
-[How-To Guide](http://www.calgarysun.com/generic10.shtml)  
-[Homes](http://www.calgarysun.com/generic.shtml)  
-[Lifestyle](http://www.calgarysun.com/Lifestyles.shtml)  
-[News](http://canoe.ca/NewsStand/CalgarySun/News/)  
-Outdoors  
-[Backswing](http://www.calgarysun.com/generic3.shtml)  
-[Mike Drew](http://www.calgarysun.com/drew.shtml)  
-[RV Living](http://www.calgarysun.com/generic15.shtml)  
-[Photo Galleries](http://www.calgarysun.com/generic16.shtml)  
-Showbiz  
-[Club Crawl](http://www.calgarysun.com/club2.shtml)  
-[CDs & Music](http://www.calgarysun.com/musique.shtml)  
-[Event Guide](http://www.calgarysun.com/arts.shtml)  
-[Movie Guide](http://www.calgarysun.com/films.shtml)  
-[Dine Out](http://www.calgarysun.com/restos.shtml)  
-[Sports](http://canoe.ca/NewsStand/CalgarySun/Sports/)  
-[Flames](http://www.canoe.ca/HockeyCalgary/home.html)  
-[Hitmen/CHL](http://www.canoe.ca/JuniorHockey/home.html)  
-[Stampeders](http://www.canoe.ca/Football/home.html)  
-Favourites  
-[Bret Hart](http://www.canoe.ca/SlamWrestling/hitman_home.html)  
-[Comics](http://www.canoe.ca/PlanetSun/canoecomics.html)  
-[Crossword](http://www.canoe.ca/Crossword/home.html)  
-[Horoscopes](http://www.canoe.ca/Fun/home.html)  
-[Lotteries](http://www.canoe.ca/Jackpot/home.html)  
-[Max Haines](http://www.canoe.ca/MaxHaines/home.html)  
-[TV Listings](http://canoe.clicktv.com/search.asp?CID=097)  
-Services  
-[Advertising](http://www.calgarysun.com/static/calsun/advertising.shtml)  
-[Place a classified](http://classified.calgarysun.com/calgarysun/home.jsp?tab=post)  
-[Subscribe online](http://www.calgarysun.com/static/calsun/circulation.shtml)  
-[Letter to the editor](mailto:callet@calgarysun.com?subject=EDITOR)  
-[Contact the Sun](http://www.calgarysun.com/static/calsun/contact.shtml)  
-[About the Sun](http://www.calgarysun.com/static/calsun/about.shtml)  
-Related Links  
-[Canoe.ca](http://www.canoe.ca/)  
-[Edmonton Sun](http://www.fyiedmonton.com/htdocs/edmsun.shtml)  
-[London Free Press](http://www.fyilondon.com/londonfreepress/)  
-[Ottawa Sun](http://www.fyiottawa.com/ottsun.shtml)  
-[Toronto Sun](http://www.fyitoronto.com/htdocs/torsun.shtml)  
-[Winnipeg Sun](http://www.fyiwinnipeg.com/winsun.shtml)  
-[Bowes Publishers](http://www.bowesnet.com/bowes/default.html)  
-| 
+**Protection and respect of your privacy**
 
-CALGARYSUN.COM PRIVACY STATEMENT
+The Calgary Sun appreciates the concerns you may have with respect to the circulation of personal information on the Internet and, with your collaboration, wishes to address these issues. This is why we feel it is important that you fully understand the type of information we collect from you when visiting our website along with its intended use. 
 
-CALGARYSUN.COM is committed to upholding fundamental principles of honesty and integrity in our relationship with visitors to our website. Our objective is to build an enduring relationship between CANOE and our users based on a foundation of integrity and trust. 
+Please read the following sections carefully. We also strongly suggest that you refer to this section periodically for changes or updates. Please be assured that the Calgary Sun will not collect any personal information without your prior consent or knowledge. 
 
-To that end, CALGARYSUN.COM has adopted rigorous standards of privacy and makes the following promise to every visitor to our web site: 
+**The collection and processing of personal information**
 
-  1. When a visitor to CALGARYSUN.COM is required to submit registration information as a prerequisite for accessing any content area of CALGARYSUN.COM or to use any of its interactive services, contests or newsgroups, e-commerce applications, CALGARYSUN.COM will not share or sell that personal information about our users to any outside agency, advertiser or other third party unless the user was made aware of this possibility prior to submitting their personal information. 
-  2. Although CALGARYSUN.COM will use "cookies" to track user patterns on its web site, CALGARYSUN.COM will not use cookies to learn the identity of its users, nor attempt to track users after they leave the CALGARYSUN.COM site. Further, cookies will not be used by CALGARYSUN.COM to gather specific personal information about individual users. The usage patterns tracked by individual cookies will remain confidential, and CALGARYSUN.COM will not participate in any external site tracking programs. Nor will we share any cookie-generated information about individual users or user patterns with outside agencies or advertisers. A CALGARYSUN.COM advertiser may be given summaries of collective user patterns. For example, an advertiser might be told their ad was viewed by 6,000 users on a particular day and 100 clicked on the ad. But an advertiser will never be given information about individual users or their browsing habits. 
-  3. CALGARYSUN.COM will not send unsolicited email to its users. Nor will the use of cookies by CALGARYSUN.COM result in an CALGARYSUN.COM user receiving unsolicited email from CALGARYSUN.COM or its advertisers. CALGARYSUN.COM will not supply email addresses to any third party without having obtained the consent of a user. 
-  4. When CALGARYSUN.COM asks its users to supply optional, personal information for contests, survey, e-commerce applications, or for any other purpose, that information will remain private and not be shared with any outside agency, advertiser or third party unless the user was made aware of this possibility prior to submitting their personal information. 
-  5. CALGARYSUN.COM will compile site-wide demographic information that it will share with advertisers, but it will not compile profiles of individual users, including the gathering of names, addresses, email addresses and other personal information, to be shared with an advertiser unless the user has consented to the compilation of this material and submitted it freely in a registration form or survey. 
-  6. CALGARYSUN.COM tracks user IP addresses for the purposes of systems administration, demographic profiling and traffic logging, but CALGARYSUN.COM will not use IP addresses to try to identify individual users of CALGARYSUN.COM. 
-  7. CALGARYSUN.COM will abide by all court orders, valid search warrants and subpoenae. 
-  8. Questions about CALGARYSUN.COM's Privacy Statement should be sent to comments@calgarysun.com
+The collection and processing of personal information takes place under very precise conditions and at specific times. For example, when participating in online contests, you are required to enter your name, postal address, e-mail and other personal information by filling out an online form. From time to time, The Calgary Sun also solicits online reader comments on various issues and topics. For the comments to be accepted, the Calgary Sun requires that you submit your full name and city, along with any relevant comments and information, for potential publication online or in the print version of the newspaper. 
 
-|  |    
-  
-  
-  
-[](http://ads.calgarysun.com/phpads/adclick.php?n=aa362b89)  
-  
-[](http://ads.calgarysun.com/phpads/adclick.php?n=a49072b0)  
-  
-[](http://ads.calgarysun.com/phpads/adclick.php?n=a039f82f)  
-  
-[](http://ads.calgarysun.com/phpads/adclick.php?n=a0b83f95)  
-  
-[](https://web.archive.org/htdocs/generic3.shtml)  
-  
-[](http://calgary.sunpub.com/contest/entryportal.php)  
-  
+The Calgary Sun also accepts letters to the editor online. When you send a letter to the editor to the Sun, you are consenting to the letter being published, along with your name and city. Please be advised that after you submit a letter to the editor, the Calgary Sun owns the content of this letter and may republish it at any time. 
 
+At these very specific times, the information that you submit will be processed and be subject to a host of data collection practices including saving, storing, editing, detailing, archiving and destruction. 
+
+The Calgary Sun also provides, within reasonable limits, means to verify the accuracy and to update your personal information. As well, on certain online forms, the Calgary Sun may ask you if you wish to receive information on other services, contests or news about the Calgary Sun and its partners. You are always given the option to decline such offers or to end your subscription to a previously requested service. 
+
+The length of time the Calgary Sun retains your personal information will vary depending upon the rules and requirements of each individual contest, promotion, or activity. 
+
+It is important to note that the Calgary Sun will never disclose your personal information with sponsors, advertisers, partners and other clients without your consent or without providing you with an opportunity to opt out. If we ever request information for another purpose, you will be automatically and explicitly informed at the time such information is requested. 
+
+We will never disclose any personal information to parties outside of the Calgary Sun without giving you an opportunity to opt out or without your explicit prior consent. Furthermore, all personal information collected by the Calgary Sun is stored in server sectors that are inaccessible to the public. 
+
+Despite the above, at any time, you may request that the Calgary Sun end its use or planned use of your personal information. Doing so may disentitle you to participate in contests. 
+
+In addition, the Calgary Sun may disclose your personal information: upon request by a legal authority or in good faith when such action is deemed necessary (a) in order to abide by applicable laws or regulations or to intervene in a lawsuit against the Calgary Sun; (b) in order to protect or defend the legal or property rights of the Calgary Sun or those of its users; and (c) to intervene, under extreme circumstances, in order to protect the personal safety of Calgary Sun users or the safety of the general public. 
+
+**Be careful!**
+
+The Calgary Sun may contain links to third-party Web sites; these are provided solely for your convenience. Clicking on these links will take you outside of the Calgary Sun. Please be advised that the Calgary Sun has no control over these third-party sites and, while the Calgary Sun may feature such links, the Calgary Sun will not, at any time, accept liability for these sites. Consequently, personal information that you provide to a Web site outside of the Calgary Sun is subject to the privacy protection policies of the given third-party site. In the event of abuse by such sites, the Calgary Sun cannot, at any time, be held responsible. Therefore, we strongly urge you to carefully read the privacy protection policies of all third-party sites you choose to enter. 
+
+We also wish to inform you that the risks associated with the supplying of personal information in a chat room, via e-mail or on a Web-based message board are not covered by our privacy protection policy; thus, you must be extremely careful if you choose to supply personal information through these means. You are submitting this information at your own risk. Indeed, this information may be collected and used by third parties without your prior consent. In other words, if you choose to provide personal information online and this information is available to the public, you may, eventually, receive unsolicited e-mail from third parties. The Calgary Sun declines all responsibility in this regard. We urge you to remain cautious and vigilant, at all times, on the Internet. 
+
+**Security**
+
+The Calgary Sun has set up security measures to protect you from the loss or unauthorized use of your supplied personal information. As well, our Calgary Sun servers are equipped with firewall technology. Despite these measures, and given that no technology is foolproof, we must advise you that there will always remain a certain amount of risk and that your personal information may be disclosed, without your consent, unintentionally, and without fault on the part of the Calgary Sun. The Calgary Sun declines any responsibility in the event that such confidential information is disclosed, unless caused by negligence on the part of the Calgary Sun. 
+
+**Protection of children and teens on the Internet**
+
+Children and teenagers are increasingly using the Internet and discovering its many advantages. However, as is the case in many other environments, their greater vulnerability may be targeted for crime and exploitation. This is why we urge you to monitor the Internet use of your children and teenagers and provide them with advice on security and recommendations based on common sense. Such measures will often prevent your children and teenagers from being exposed to offensive content, or from becoming victims of harassment or other criminal acts. 
+
+To reduce these risks, as a parent, you should exercise a reasonable amount of supervision of Internet use by your children and teenagers. They should be told to never give out their personal information, such as their name, address or phone number, on any Internet forum. 
+
+It is also important that children and teenagers be encouraged to share their concerns with you in the event that they receive disturbing or provocative messages. 
+
+These recommendations will help your children and teenagers surf the Internet in an informed fashion and allow you to ensure that they fully benefit from the learning and development possibilities that exist online. 
+
+**"Cookies"**
+
+**What is a cookie?**
+
+"Cookies" are little bits of information that are sent to your computer when you visit a Web site. They are saved, either temporarily or permanently, on your hard drive, leaving a trace of your passage. The information can include such things as the date and time of your last visit, a given answer to an online question, personal information, etc. Cookies can also enhance your Web experience by recording your navigation preferences for a given Web site. 
+
+The use of cookies on the Web has become standard practice. Most Internet browsers will accept them by default. If you so choose, you may, at any time, change your parameters to disallow the use of cookies. However, in doing so, you will be unable to access the full features of certain sites. 
+
+It should be noted that the actual cookie files stored on your hard drive are harmless. They may be read and deleted at any time. Thus, you always have complete control. 
+
+**The use of cookies on CalgarySun.com**
+
+The Calgary Sun uses cookies to monitor traffic, anonymously, on its Web sites. It allows us to estimate the size of our audience. 
+
+Each visitor is assigned a unique cookie, for a temporary period of less than 24 hours` that allows us to determine the total number of repeat visits to the Calgary Sun. 
+
+While the information cannot be used to identify a visitor, cookies provide important data for our marketing department. Indeed, this information enables us to inform our sponsors of the total number of visitors for each of our sites and the length of each visit. In turn, it allows our sponsors to estimate or measure the probable or actual impact of their ads. It also allows us to determine our ad rates. While this information helps our sponsors buy ad space, it does not allow them to identify you individually. 
+
+**In conclusion…**
+
+We hope that this information has provided you with a better understanding of our strict privacy protection policies. Please note that the Calgary Sun reserves the right to modify these policies at any time. Thus, we invite you to periodically consult this section for possible updates and changes. 
+
+The Calgary Sun respects the confidentiality of the personal information of its subscribers, readers, advertisers and those who enter our contests and promotions. As part of our commitment to you, we want to clarify the details of our privacy policy concerning the personal information that we collect. 
+
+If you are a subscriber or advertiser, we collect personal information in order to set up an account, verify creditworthiness, to maintain a satisfactory relationship and to provide you with ongoing service. For example, we collect information that allows us to process your subscription or advertisement, confirm your identity and address so we can accurately deliver your newspaper or print your advertisement and accurately bill and collect. We may collect credit card or bank account information if you prefer the convenience of pre-authorized payment or we require pre-payment. 
+
+If you enter a contest or participate in a promotion, we collect personal information to process your application and administer the contest. The rules of the contest or promotion may allow other uses. On occasion, we undertake contests or promotions with sponsors or we use third parties to assist us in administering a contest or promotion. In these cases we share your personal information with these sponsors or administrators in order that they can assist us in undertaking and administering the contest or promotion. In addition, if you enter a contest or participate in a promotion that involves or relates to specific products or activities we or our sponsors may send you material that relates to such products or activities. 
+
+We or another company acting with our authority may contact you to conduct surveys or determine your preferences in order to better serve you and provide you with the newspaper content or other products or services that you may wish to receive. We may share your personal information with our affiliate businesses or with selected third parties who act on our behalf as our agents, suppliers or service providers. We may also make our subscription list available to specific reputable businesses whose products or services may be of interest to you. In addition, we may disclose personal information to meet legal or regulatory requirements or in connection with any potential corporate reorganization or sale. 
+
+The Calgary Sun also accepts letters to the editor. When you send a letter to the editor to the Sun, you are consenting to the letter being published, along with your name and city. Please be advised that after you submit a letter to the editor, the Calgary Sun owns the content of this letter and may republish it at any time. 
+
+We will honour any request you may make to have access to or review your personal information that we have obtained as referred to above. 
+
+If you have any questions or concerns about our privacy practices or you do not wish to allow us to use your personal information in any manner discussed above you may call 416-947-2304 or contact us in writing at the following address: 
+
+Sun Media Privacy Officer  
+333 King Street East  
+Toronto ON M5A 3X5 
