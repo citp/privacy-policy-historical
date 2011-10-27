@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2011-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110319195648id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassdoor.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027070556id_/http%3A//www.glassdoor.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Glassdoor.com - Privacy Policy
+# Privacy Policy | Glassdoor
 
 This Privacy Policy was last updated in August 2008.
 
@@ -101,10 +101,10 @@ We reserve the right to modify this policy at any time, so please review it freq
 
 If you have any questions or suggestions regarding our Privacy Policy please contact us by sending us an e-mail to [info@glassdoor.com](mailto:info@glassdoor.com). 
 
-Glassdoor.com
+Glassdoor
 
-3 Harbor Drive Suite 211
+1 Harbor Drive Suite 300
 
-Sausalito, CA   94965
+Sausalito, CA   94965-1434
 
 USA
