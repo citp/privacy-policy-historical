@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205105312id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learn2type.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027041314id_/http%3A//www.learn2type.com/Privacy) for the most accurate reproduction.*
 
-# Typing Test - Learn2Type.com - learn to type online FREE typing tutor and typing tests, typing certification
+# Typing Test - learn to type, typing certification, typing speed tests, typing tutor, ten key
 
-| [](http://learn2type.com/) | 
+| [](http://www.learn2type.com/) | 
 
 ##    
-Privacy Statement  
+Privacy Statement   
   
 ---|---  
 Learn2Type.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Learn2Type.com. Your IP address is used to help identify you and tailor your typing lessons and to gather broad demographic information. 
@@ -48,8 +48,21 @@ _Webmaster
 Learn2Type.com, Inc.   
 PO Box 61569   
 Staten Island, NY 10306-7569_   
-718-233-4296   
 privacyX@XLearn2Type.com 
+
+[](http://www.learn2type.com/TypingTest) [
+
+## Certifications
+
+](http://www.learn2type.com/TypingCertificate) [
+
+### Typing Tutor
+
+](http://www.learn2type.com/NewUser) [
+
+## Ten Key
+
+](http://www.learn2type.com/TenKeyTest)
 
 |   
 
@@ -62,5 +75,4 @@ mastering touch typing, no guarantee is made that it will improve your typing.
 Learn2Type.com, Inc. is not liable for any damages, consequential or inconsequential, from   
 the ability or disability of using this website. Use these materials at your own risk. 
 
-Usage of this website constitutes acknowledgment of these disclaimers   
-and terms. View our [Privacy Statement](http://learn2type.com/Privacy). 
+Usage of this website constitutes acknowledgment of these disclaimers and terms. 
