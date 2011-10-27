@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the tubedong.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619131249id_/http%3A//www.tubedong.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubedong.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027101556id_/http%3A//www.tubedong.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tube Dong Free Porn Tube Bitches
+# Free Porn Tube for guys who love big dongs
 
-## Privacy Policy
+[](http://www.tubedong.com/ "Tube Dong Free Porn Tube Bitches")
+
+  * [](https://web.archive.org/)
+  * [Home](https://web.archive.org/)
+  * [Register](https://web.archive.org/members/login)
+  * [Videos]()
+
+
 
 This document details important information regarding the use and disclosure of User Data collected on TubeDong.com   
 The security of your Data is very important to TubeDong.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused.
