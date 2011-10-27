@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the technozeast.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321201532id_/http%3A//www.technozeast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technozeast.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027213919id_/http%3A//www.technozeast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechnoZeast
 
