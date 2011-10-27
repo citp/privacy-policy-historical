@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wow-coupons.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116220603id_/http%3A//www.wow-coupons.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wow-coupons.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027230625id_/http%3A//www.wow-coupons.com/privacy.php) for the most accurate reproduction.*
 
-# wowcoupons #1 source for free discount coupons for retail stores - printable retail coupons
+# Wow-Coupons - #1 Deals source of Free Online, Printable retail, Grocery store and Restaurant Coupon Codes.
 
 Our Commitment to Privacy
 
