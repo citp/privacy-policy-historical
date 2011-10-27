@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the gopher.co.nz privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622073719id_/http%3A//www.gopher.co.nz/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopher.co.nz privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027034230id_/http%3A//www.gopher.co.nz/privacy) for the most accurate reproduction.*
 
-# Gopher NZ: Privacy Policy
+# Gopher Privacy Policy
 
 Gopher.co.nz is owned and operated by Gopher Limited.
 
-In this Privacy Policy, references to “we” or “us” or “our” are references to Gopher Limited and references to “you” or “your” are references to the person accessing the Gopher.co.nz service (“Gopher”).
+In this Privacy Policy, references to “we” or “us” or “our” are references to Gopher Limited and references to “you” or “your” are references to the person accessing the gopher.co.nz service (“Gopher”).
 
 We are committed to protecting your privacy. You can provide us with as much, or as little, personal information as you feel comfortable with. We use the information we collect to make your experience using Gopher a rewarding one.
 
-The following discloses our information gathering and dissemination practices for Gopher at http://www.gopher.co.nz
+The following discloses our information gathering and dissemination practices for Gopher at [www.gopher.co.nz](https://web.archive.org/)
 
 Moreover, however you use Gopher, our data collection and usage policy allows you to control the personal information you give to us and what we can do with it. In this way your privacy is guaranteed.
 
@@ -51,6 +51,12 @@ Our web servers automatically collect information about a site user's IP address
 
 This information is automatically logged by most web sites.
 
+## How do we protect your information?
+
+The internet is not a secure medium. However, in order to prevent unauthorised access, we use strict security procedures in the storage and disclosure of information that you have given to us. We use all reasonable endeavours to ensure the security of personal data stored on our system.
+
+All your personal information is password protected and only certain customers who have purchased certain specific products from us have limited password protected access to their own information.
+
 ## How do we offer links to third party websites?
 
 This site contains links to other sites. We are not responsible for, without limitation, the privacy practices or the accuracy, relevance, copyright compliance, legality, decency of any content or services contained in such websites which are not directly controlled by us. You acknowledge that the search results may contain links to websites and contents that contain offensive or objectionable material. We will not be responsible if the search results reveal such objectionable or offensive content and you release us from all liability in respect of the same. We reserve the right to disable links from third party websites to Gopher.
@@ -67,12 +73,6 @@ The inclusion of a link to a third party’s site does not imply endorsement by 
 
 We do not give any warranties or representations as to the security of any information you might be requested to give to any third party, and you irrevocably waive any claim against us with respect to such sites and third party content.
 
-## How do we protect your information?
-
-The internet is not a secure medium. However, in order to prevent unauthorised access, we use strict security procedures in the storage and disclosure of information that you have given to us. We use all reasonable endeavours to ensure the security of personal data stored on our system.
-
-All your personal information is password protected and only certain customers who have purchased certain specific products from us have limited password protected access to their own information.
-
 ## What choice do we offer in relation to the collection, use and distribution of personal information?
 
 When you register, or when you give us your personal details while using Gopher, you acknowledge and accept that your information may be used for marketing activities, or to receive additional offers and information from us and/or third parties. This is called “permission marketing”.
@@ -80,6 +80,14 @@ When you register, or when you give us your personal details while using Gopher,
 ## Do we share information?
 
 We will not disclose your personally identifiable information to any person or company except where you have given us permission to do so, or if the law requires it, or where in good faith we believe such action is necessary to fulfil the service.
+
+## Privacy Policy – Email
+
+Gopher and its employees respect the privacy needs of their clients and the recipients of any emails sent and received. They do not share with third parties any information about any client or individual and they respect all information contained in their email software and related delivery engines as being confidential.
+
+Gopher will not sell, rent, loan or allow external access to a client's email contact list. Nor will they use their client's email contact lists for any purpose other than those agreed to in writing.
+
+Maintaining the privacy of their client's email contact list information is of paramount importance to Gopher as it fosters confidence, goodwill and good relationships with their clients and their client's customers who receive emails from Gopher.
 
 ## What happens if we sell Gopher?
 
