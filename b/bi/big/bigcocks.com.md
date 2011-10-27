@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigcocks.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221162255id_/http%3A//www.bigcocks.com/cimages/legal/privacy.html%3Fsite%3Dbigcocks) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigcocks.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027100151id_/http%3A//www.bigcocks.com/cimages/legal/privacy.html%3Fsite%3Dbigcocks) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -65,6 +65,6 @@ There may be occasions when a subscriber will be presented with special offers e
 
 ## Terms and Conditions of Membership:
 
-Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](http://www.customerhelponline.com/l/terms.html?site=bigcocks) may also affect the right of this Site to use information that it has gathered from subscribers. 
+Each subscriber should carefully read each of the terms and conditions of Membership of this Site. By accepting membership to this Site you are unconditionally accepting all of those terms and conditions. Some of those [terms and conditions](https://web.archive.org/web/20111027100151id_/http%3A//www.bigcocks.com/cimages/legal/terms.html?site=bigcocks) may also affect the right of this Site to use information that it has gathered from subscribers. 
 
 In the event of any conflicts between the Membership Terms and Conditions and this Privacy Policy Statement, the provisions of this Privacy Policy shall control. 
