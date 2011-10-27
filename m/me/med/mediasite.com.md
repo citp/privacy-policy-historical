@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627232722id_/http%3A//www.sonicfoundry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediasite.com privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027091034id_/http%3A//www.sonicfoundry.com/privacy) for the most accurate reproduction.*
 
 # Sonic Foundry, Inc.
 
@@ -16,7 +16,7 @@ Sonic Foundry only collects personally identifiable information, normally name, 
 
 ###  Your Email Address 
 
-We only collect and hold your email address in order to fulfill your request for information or services, or contact you as specified in [your preferences](http://www.mysofo.com/forms/updatepreferences/). You can unsubscribe at any time for any reason quickly and easily at our [online preferences center](http://www.mysofo.com/forms/updatepreferences/). You can also change email addresses here or update your information. If you ever have a problem with your preferences, please [contact us](https://web.archive.org/web/20110627232722id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx). 
+We only collect and hold your email address in order to fulfill your request for information or services, or contact you as specified in [your preferences](http://www.mysofo.com/forms/updatepreferences/). You can unsubscribe at any time for any reason quickly and easily at our [online preferences center](http://www.mysofo.com/forms/updatepreferences/). You can also change email addresses here or update your information. If you ever have a problem with your preferences, please [contact us](https://web.archive.org/web/20111027091034id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx). 
 
 We never rent email lists. Sonic Foundry will only share your information with other organizations when we have your consent; when we must respond to subpoenas, court orders, legal process; or if we determine that your actions on our website violates our terms of service. 
 
@@ -30,7 +30,7 @@ We may link to other websites from sites within the Sonic Foundry domain. We hav
 
 ###  Unsubscribing 
 
-Click on the “manage preferences” link at the bottom of any email you’ve received from us, or use this link: http://www.mysofo.com/forms/updatepreferences/. If you would like your snail mail address removed from our distribution lists, please contact us with [this form](https://web.archive.org/web/20110627232722id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx). 
+Click on the “manage preferences” link at the bottom of any email you’ve received from us, or use this link: http://www.mysofo.com/forms/updatepreferences/. If you would like your snail mail address removed from our distribution lists, please contact us with [this form](https://web.archive.org/web/20111027091034id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx). 
 
 ###  Updates 
 
@@ -42,7 +42,7 @@ By using our website, you signify your assent to the Sonic Foundry Privacy Polic
 
 ###  Feedback 
 
-Please [contact us](https://web.archive.org/web/20110627232722id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx) for questions or concerns regarding our privacy policy. You can also write or call us at: 
+Please [contact us](https://web.archive.org/web/20111027091034id_/http://www.sonicfoundry.com/company/contact/website-feedback.aspx) for questions or concerns regarding our privacy policy. You can also write or call us at: 
 
 Sonic Foundry, Inc.  
 222 West Washington Avenue  
