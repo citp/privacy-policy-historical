@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2008-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081201072908id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbworld.co.uk privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027152017id_/http%3A//www.plumbworld.co.uk/info-4) for the most accurate reproduction.*
 
 # Privacy Guarantee
 
 If you have any questions or concerns about privacy these should be addressed to [md@plumbworld.co.uk](mailto:md@plumbworld.co.uk)
 
-The www.plumbworld.co.uk Privacy Guarantee. 
+The [www.plumbworld.co.uk](http://www.plumbworld.co.uk/) Privacy Guarantee.
 
-At www.plumbworld.co.uk, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience. 
+At www.plumbworld.co.uk, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience.
 
 _What information do we collect? How do we use it?_
 
@@ -16,18 +16,18 @@ We personalise your shopping experience by using your purchases to shape our rec
 
 We may also use the information we collect to occasionally notify you about important functionality changes to the Web site, new www.plumbworld.co.uk services and special offers we think you'll find valuable.
 
-_How does www.plumbworld.co.uk protect customer information?_
+_How does[www.plumbworld.co.uk](http://www.plumbworld.co.uk/) protect customer information?_
 
 When you place orders, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Acts of 1984 and 1998, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
 
-_Will www.plumbworld..co.uk disclose the information it collects to outside parties?_
+_Will[www.plumbworld.co.uk](http://www.plumbworld.co.uk/) disclose the information it collects to outside parties? _
 
-We will never divulge any of your personal details, by which we mean your name and address or email address, to any third party for them to market un-related products or services to you. We may use your details to advise you of money saving offers, or major changes at www.plumbworld.co.uk. We may subcontract a third party to mail offers to you from ourselves but they will also be bound not to divulge your personal information to third parties. 
+We will never divulge any of your personal details, by which we mean your name and address or email address, to any third party for them to market un-related products or services to you. We may use your details to advise you of money saving offers, or major changes at www.plumbworld.co.uk. We may subcontract a third party to mail offers to you from ourselves but they will also be bound not to divulge your personal information to third parties.
 
 Third party cookies may be used to track behaviour on our site by third parties. These cookies do not contain any personal details.
 
 Customer Feedback
 
-May I thank you for the promptness in dispatching the tap and ancillaries as requested. I cannot fault the product but more than that I cannot fault the follow up service offered by your company. Your concerns regarding suitability and customer satisfaction exceeds anything I have had from anywhere before this. I am slowly but surely modernising parts of my house and I realize that I am only a small customer to you. However, I cannot get over the fact that I have been treated by your company as if I had placed an order worth millions. Small fry I am but as I progress I will be ordering from you as and when the need arises. May I thank you most sincerely for being a caring company. 
+Thank you for such great service. I ordered the suite expecting 2-3 weeks for delivery, imagine my surprise/shock (as I had to find somewhere to store it) when it was delivered within a week. I have so far been greatly impressed by the service provided and would have no hesitation in recommending your company to others. Thank you and your staff once again for the great service provided to date, it is reassuring that there are companies out there who do appreciate there customers.
 
-**\- Michael Mallett, December 2006**
+ **\- Philip Ball, October 2007**
