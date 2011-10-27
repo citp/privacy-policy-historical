@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the untappd.com privacy policy that was archived on 2011-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110626100255id_/http%3A//untappd.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the untappd.com privacy policy that was archived on 2011-10-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111027091143id_/http%3A//untappd.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 
@@ -26,7 +26,6 @@
 	<link rel="apple-touch-icon" href="https://untappd.s3.amazonaws.com/site/assets/images/ut-touch-icon.png">
 	
 	<link rel="stylesheet" href="https://untappd.s3.amazonaws.com/site/assets/css_new/master.css?4272033">
-
 	
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
 	
@@ -47,6 +46,13 @@
 				$('.badge_hint').tipsy({gravity: 's', fade: true});
 				$('.disabled').tipsy({gravity: 'n', fade: true});
 				$(".timezoner").cuteTime({ refresh: 15000 });
+				
+				$(".video").click(function(){
+					$.facybox('<div style="padding: 10px;"><iframe src="http://player.vimeo.com/video/26399336?title=0&amp;byline=0&amp;portrait=0" width="800" height="445" frameborder="0"></iframe></div>');
+					
+					return false;
+				});
+				
 			});
 			
 		</script>
@@ -72,7 +78,7 @@
 		<ul class="main-nav">
 							<li><a href="/">Home</a></li>
 				<li><a href="/thepub">The Pub</a></li>
-				<li><a href="/beer/top_rated">Top Rated</a></li>
+				<!--<li><a href="/beer/top_rated">Top Rated</a></li>-->
 				<li><a href="/business">Businesses</a></li>
 				<li><a href="http://help.untappd.com" target="_blank">Support</a></li>
 				<li><a href="http://blog.untappd.com" target="_blank">Blog</a></li>
@@ -88,36 +94,6 @@
 				<!-- right sidebar -->
 				<div class="right-side">
 	
-	<div class="search-box">
-
-		<form id="sbSearch" method="get" action="/search">
-
-			<span class="search-btn">
-				<a href="#" onclick="$('#sbSearch').submit();">Search</a>
-			</span>				
-
-			<input type="text" name="q">
-
-			<div style="display: none;">
-				<input type="submit" value="go!">
-			</div>
-
-		</form>
-
-	</div>
-	
-	<div class="supported">
-
-		<h3>Supported Devices</h3>
-
-		<ul>
-			<li><a href="http://help.untappd.com/faqs/device-support/supported-devices"><img src="https://untappd.s3.amazonaws.com/site/assets/images/support-iphone.png" alt="iPhone &amp; iPod Touch"></a></li>
-			<li><a href="http://help.untappd.com/faqs/device-support/supported-devices"><img src="https://untappd.s3.amazonaws.com/site/assets/images/support-android.png" alt="Android"></a></li>
-			<li><a href="http://help.untappd.com/faqs/device-support/supported-devices"><img src="https://untappd.s3.amazonaws.com/site/assets/images/support-palm.png" alt="Palm PRE"></a></li>
-			<li><a href="http://help.untappd.com/faqs/device-support/supported-devices"><img src="https://untappd.s3.amazonaws.com/site/assets/images/support-bb.png" alt="BlackBerry"></a></li>
-		</ul>
-
-	</div>
 
 	<div class="help">
 
@@ -189,25 +165,28 @@
 		
 		<div class="bottom"></div>
 
-<div id="footer">
+	<div id="footer">
 
-	<p class="copyright">© 2011 Untappd LLC<br><br></p>
+		<p class="copyright">© 2011 Untappd LLC<br><br></p>
+
+		<ul>
+			<li><a href="/about">About Us</a></li>
+			<li><a href="/api">API</a></li>
+			<li><a href="http://untpd.it/store" target="_blank">Store</a></li>
+			<li><a href="http://help.untappd.com" target="_blank">Support</a></li>
+			<li><a href="http://blog.untappd.com" target="_blank">Blog</a></li>
+			<li><a href="http://twitter.com/untappd" target="_blank">Twitter</a></li>
+			<li><a href="http://facebook.com/untappd" target="_blank">Facebook</a></li>
+			<li><a href="http://meetup.com/untappd" target="_blank">Meetups</a></li>
+			<li><a href="/terms">Terms</a></li>
+			<li><a href="/privacy">Privacy</a></li>
+			<li><a href="mailto:info@untappd.com">Contact</a></li>
+		</ul>
+
+	</div>
+
+	</div>
 	
-	<ul>
-		<li><a href="/api">API</a></li>
-		<li><a href="/about">About Us</a></li>
-		<li><a href="mailto:info@untappd.com">Contact</a></li>
-		<li><a href="http://help.untappd.com" target="_blank">Support</a></li>
-		<li><a href="http://blog.untappd.com" target="_blank">Blog</a></li>
-		<li><a href="http://twitter.com/untappd" target="_blank">Twitter</a></li>
-		<li><a href="http://facebook.com/untappd" target="_blank">Facebook</a></li>
-		<li><a href="/terms">Terms</a></li>
-		<li><a href="/privacy">Privacy</a></li>
-	</ul>
-
-</div>
-
-</div>
 
 		
 	<script type="text/javascript">
