@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428142011id_/http%3A//www.chrisd.ca/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrisd.ca privacy policy that was archived on 2011-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111027175636id_/http%3A//www.chrisd.ca/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ChrisD.ca
 
@@ -10,7 +10,7 @@ The information we collect is used for internal review and is then discarded.
 
 With respect to cookies: We use cookies to store visitors preferences.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 www.chrisd.ca does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
