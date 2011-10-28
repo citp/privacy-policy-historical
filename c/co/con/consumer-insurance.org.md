@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumer-insurance.org privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505090343id_/http%3A//www.consumer-insurance.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumer-insurance.org privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028193447id_/http%3A//consumer-insurance.org/privacy.php) for the most accurate reproduction.*
 
 # Contact Us - Consumer-Insurance.org
 
