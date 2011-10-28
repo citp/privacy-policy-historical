@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xoops.org privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625131701id_/http%3A//www.xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xoops.org privacy policy that was archived on 2011-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111028103506id_/http%3A//xoops.org/modules/wfchannel/index.php%3Fpagenum%3D4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -14,12 +14,17 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Statement :: XOOPS Web Application System</title>
 <link href="http://xoops.org/favicon.ico" rel="SHORTCUT ICON">
+<link rel="stylesheet" type="text/css" media="screen" href="http://xoops.org/themes/wox/css/reset.css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://xoops.org/xoops.css">
 <link rel="stylesheet" type="text/css" media="screen" href="http://xoops.org/themes/wox/css/general.css">
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://xoops.org/themes/wox/css/content.css">
+
 <link rel="image_src" href="http://www.xoops.org/themes/wox/images/FB/xoops_logo.jpg">
 <link rel="alternate" type="application/rss+xml" title="XOOPS Web Application System RSS" href="http://xoops.org/backend.php">
-<link rel="stylesheet" type="text/css" media="screen" href="http://xoops.org/themes/wox/css/content.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://xoops.org/themes/wox/js/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="http://xoops.org/themes/wox/js/jquery-ui-1.7.2.custom.min.js"></script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://xoops.org/browse.php?Frameworks/jquery/jquery.js" type="text/javascript"></script>
+<script src="http://xoops.org/browse.php?Frameworks/jquery/plugins/jquery.ui.js" type="text/javascript"></script>
 <script type="text/javascript" src="http://xoops.org/themes/wox/js/effects.js?ver=1.01"></script>
 <script type="text/javascript" src="http://xoops.org/themes/wox/js/jquery.cookie.js"></script>
 <script type="text/javascript">
@@ -43,85 +48,136 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 <script src="http://xoops.org/include/xoops.js" type="text/javascript"></script>
 <script src="http://xoops.org/themes/wox/language/english/script.js" type="text/javascript"></script>
+<script src="http://xoops.org/modules/cumulus/include/swfobject.js" type="text/javascript"></script>
+<script type="text/javascript" src="http://xoops.org/class/textsanitizer/image/image.js"></script>
 <link rel="stylesheet" href="http://xoops.org/language/english/style.css" type="text/css">
 <link rel="stylesheet" href="http://xoops.org/themes/wox/language/english/style.css" type="text/css">
 
 
+<link rel="stylesheet" type="text/css" href="http://xoops.org/modules/wfchannel/templates/css/module.css">
+<link rel="alternate" type="application/rss+xml" title="All about XOOPS rss" href="http://xoops.org/modules/wfchannel/rss.php">
+<link rel="alternate" type="application/rss+xml" title="All about XOOPS rdf" href="http://xoops.org/modules/wfchannel/rss.php">
+<link rel="alternate" type="application/atom+xml" title="All about XOOPS atom" href="http://xoops.org/modules/wfchannel/rss.php">
 </head>
 <body>
 
 	
 <div id="top-links-container">
-	<div class="login_links" id="wox-login-all">
-            <form id="wox-srh-form" style="margin: 0px; padding: 0;" action="http://www.xoops.org/search.php" method="get">	
-                <div class="wox_search">
-                    <img src="http://xoops.org/themes/wox/images/srh.png" alt="" onclick="$('#wox-srh-form').submit();">
-                    <input type="text" name="query" value="Search here..." id="wox-searchi">
-                    <input name="action" value="results" type="hidden">
-                </div>
-        <div class="the_links">
-                    <a href="http://xoops.org/modules/profile/register.php">Register</a> &nbsp;|&nbsp; <a href="javascript:;" id="wox-login-link">Login</a>
-            	</div>
-  </form>			
-	</div>
-  
-        	<div class="login_links" id="wox-login-login" style="display: none;">
-    
-        <form id="wox-login-form" action="http://xoops.org/user.php" method="post">   
+    <div class="login_links" id="wox-login-all">
+        <form id="wox-srh-form" style="margin: 0px; padding: 0;" action="http://xoops.org/search.php" method="get">
+            <div class="wox_search">
+                <img src="http://xoops.org/themes/wox/images/srh.png" alt="" onclick="$('#wox-srh-form').submit();">
+                <input type="text" name="query" value="Search here..." id="wox-searchi">
+                <input name="action" value="results" type="hidden">
+            </div>
+            <div class="the_links">
+                                <a href="http://xoops.org/modules/profile/register.php" title="Register">Register</a> &nbsp;|&nbsp; <a href="javascript:;" id="wox-login-link" title="Login">Login</a>
+                            </div>
+        </form>
+    </div>
+
+        <div class="login_links" id="wox-login-login" style="display: none;">
+
+        <form id="wox-login-form" action="http://xoops.org/user.php" method="post">
 
             <label for="uname">User:</label>
             <input type="text" name="uname" id="uname">
             <label for="pass">Password:</label>
             <input type="password" name="pass" id="pass">
-            <input name="op" value="login" type="hidden">			
-            <input type="hidden" name="xoops_redirect" value="/modules/wfchannel/index.php?pagenum=4">    
+            <input name="op" value="login" type="hidden">
+            <input type="hidden" name="xoops_redirect" value="/modules/wfchannel/index.php?pagenum=4">
             <input type="hidden" name="xoops_login" value="1">
- 				
-         <!--   <a href="javascript:;" onclick="$('#wox-login-form').submit();">Login</a> -->
-            <input type="submit" value="Login">	
-            <a href="javascript:;" id="wox-cancel-login">Cancel</a>
-        </form>		
-        </div>
-        </div>
+
+            <!--   <a href="javascript:;" onclick="$('#wox-login-form').submit();">Login</a> -->
+            <input type="submit" value="Login">
+            <a href="javascript:;" id="wox-cancel-login" title="Cancel">Cancel</a>
+        </form>
+    </div>
+    </div>
 
 
 <div id="logo-bar">
-	<ul>
-		        <li><a href="/modules/mediawiki/">Documentation</a></li>
+    <ul>
+                <li><a href="/modules/mediawiki/">Documentation</a></li>
         <li><a href="/modules/newbb/">Forum</a></li>
         <li><a href="/modules/repository/">Modules</a></li>
         <li><a href="/modules/wfchannel">About</a></li>
         <li><a href="/">Home</a></li>
-	</ul>
-	<a href="http://xoops.org" title="XOOPS Web Application System" class="logo"><span>XOOPS Web Application System</span></a>
+    </ul>
+    <a href="http://xoops.org" title="XOOPS Web Application System" class="logo"><span>XOOPS Web Application System</span></a>
 </div>
 <div id="wox-buttons-container">
-	<div>
-	<a href="http://www.xoops.org/modules/core/" title="Get XOOPS" class="get"><img src="http://xoops.org/themes/wox/images/nav/get.gif" alt="Get XOOPS"></a>
-       <a href="http://xoops.org/modules/xdonations" title="Make Donation" class="donate"><img src="http://xoops.org/themes/wox/images/nav/buttonXoopsDonate2.gif" alt="Donate to XOOPS"></a>
-	<a id="but-xoops" href="http://xoops.org/modules/wfchannel/" class="selected"><span>XOOPS</span><img src="http://xoops.org/themes/wox/images/nav/overview32.png"></a>
-	<a id="but-faq" href="http://xoops.org/modules/smartfaq/"><span>FAQ</span><img src="http://xoops.org/themes/wox/images/nav/faq.png"></a>
-	<a id="but-forums" href="http://xoops.org/modules/newbb/"><span>Forums</span><img src="http://xoops.org/themes/wox/images/nav/forums32.png"></a>
-	<a id="but-news" href="http://xoops.org/modules/news/"><span>News</span><img src="http://xoops.org/themes/wox/images/nav/news32.png"></a>
-	<a id="but-themes" href="http://xoops.org/modules/extgallery/"><span>Themes</span><img src="http://xoops.org/themes/wox/images/nav/themes32.png"></a>
-	<a id="but-mods" href="http://xoops.org/modules/repository/"><span>Modules</span><img src="http://xoops.org/themes/wox/images/nav/downs32.png"></a>
-	</div>
+    <div>
+        <a href="http://www.xoops.org/modules/core/" title="Get XOOPS" class="get"><img src="http://xoops.org/themes/wox/images/nav/get.gif" alt="Get XOOPS"></a>
+        <a href="http://xoops.org/modules/xdonations" title="Make Donation" class="donate"><img src="http://xoops.org/themes/wox/images/nav/buttonXoopsDonate2.gif" alt="Donate to XOOPS"></a>
+        <a id="but-xoops" href="http://xoops.org/modules/wfchannel/" class="selected" title="XOOPS"><span>XOOPS</span><img src="http://xoops.org/themes/wox/images/nav/overview32.png" alt="XOOPS"></a>
+        <a id="but-faq" href="http://xoops.org/modules/smartfaq/" title="FAQ"><span>FAQ</span><img src="http://xoops.org/themes/wox/images/nav/faq.png" alt="FAQ"></a>
+        <a id="but-forums" href="http://xoops.org/modules/newbb/" title="Forums"><span>Forums</span><img src="http://xoops.org/themes/wox/images/nav/forums32.png" alt="Forums"></a>
+        <a id="but-news" href="http://xoops.org/modules/news/" title="News"><span>News</span><img src="http://xoops.org/themes/wox/images/nav/news32.png" alt="News"></a>
+        <a id="but-themes" href="http://xoops.org/modules/extgallery/" title="Themes"><span>Themes</span><img src="http://xoops.org/themes/wox/images/nav/themes32.png" alt="Themes"></a>
+        <a id="but-mods" href="http://xoops.org/modules/repository/" title="Modules"><span>Modules</span><img src="http://xoops.org/themes/wox/images/nav/downs32.png" alt="Modules"></a>
+    </div>
 </div>
 <div id="wox-submenu-container">
-	<div>
-	        <a href="http://www.xoops.org/modules/wfchannel/index.php?cid=17">About Us</a>
+    <div>
+                <a href="http://www.xoops.org/modules/wfchannel/index.php?cid=17">About Us</a>
 <a href="http://www.xoops.org/modules/wfchannel/index.php?cid=21">Board of Advisors</a>
 <a href="http://www.xoops.org/modules/wfchannel/index.php?cid=26">Hall of Fame</a>
 <a href="http://www.xoops.org/modules/wfchannel/index.php?cid=22">Innovators</a>
 <a href="http://www.xoops.org/modules/wfchannel/index.php?cid=23">XOOPSers of the Month</a>
 <a href="http://www.xoops.org/modules/wfchannel/index.php?cid=6">XOOPSiquette</a>
-		</div>
+            </div>
 </div>
 <div id="wox-contents">
-	
-	<div id="wox-rightblocks">
-								<div class="block_content">
-				<div class="small_banners">
+        <div id="wox-rightblocks">
+                <h3 class="block_title">Search</h3>        <div class="block_content">
+            <div class="txtcenter">
+<form style="margin-top: 0;" action="http://xoops.org/search.php" method="get">
+  <input type="text" name="query" size="14">
+  <input type="hidden" name="action" value="results"><br>
+  <input type="submit" value="Search">
+</form>
+<a href="http://xoops.org/search.php" title="Advanced Search">Advanced Search</a>
+</div>
+        </div>
+                <h3 class="block_title">Donate to XOOPS!</h3>        <div class="block_content">
+            <!-- $Id: donations_donate.html,v 1.8 2004/10/15 17:58:57 blackdeath_csmc Exp $ -->
+<form action="https://www.paypal.com/cgi-bin/webscr" target="paypal" method="post"> Please select an amount to donate<br>
+<select name="amount">
+    <option value="5"> $5</option>
+<option value="15"> $15</option>
+<option value="25" selected=""> $25</option>
+<option value="35"> $35</option>
+<option value="45"> $45</option>
+<option value="55"> $55</option>
+<option value="65"> $65</option>
+<option value="0"> Other </option>
+</select> <br>
+<br>
+<table>
+    <tbody><tr>
+        <td colspan="2">Do you want your username revealed with your donation?</td>
+    </tr>
+    <tr>
+        <td><input type="radio" name="os0" checked="" value="Yes"></td>
+        <td>Yes - List me as a Generous Donor</td>
+    </tr>
+    <tr>
+        <td><input type="radio" name="os0" value="No"></td>
+        <td>No - List my donation as from an Anonymous Donor</td>
+    </tr>
+</tbody></table>
+<input type="hidden" name="cmd" value="_xclick"> <input type="hidden" name="business" value="xoopsfoundation@gmail.com"> <input type="hidden" name="item_name" value="Donation"> <input type="hidden" name="item_number" value="110"> <input type="hidden" name="rm" value="2"> <input type="hidden" name="notify_url" value="http://xoops.org/modules/xdonations/ipnppd.php">
+<input type="hidden" name="on0" value="List your name? "> <input type="hidden" name="no_shipping" value="1">
+<input type="hidden" name="currency_code" value="USD">
+<input type="hidden" name="cn" value="Comments"> <input type="hidden" name="custom" value="0"> <input type="hidden" name="cancel_return" value="http://xoops.org/modules/xdonations/cancel.php">
+<input type="hidden" name="return" value="http://xoops.org/modules/xdonations/success.php">
+<input type="hidden" name="image_url" value=""><br>
+<br>
+<input type="submit" value="Submit Donation" border="0" name="I1"></form>
+        </div>
+                        <div class="block_content">
+            <div class="small_banners">
 <a rel="nofollow" href="http://www.xoops.org/modules/newbb/viewtopic.php?topic_id=64294&amp;forum=30" title="Developers for hire!"><img src="/themes/wox/images/banners/devs.jpg" alt=""></a>
 <a rel="nofollow" href="http://oreilly.com/catalog/0636920021247">
 <img border="0" src="http://www.xoops.org/themes/wox/images/banners/bannerInsraqBook.jpg" width="124" height="34" alt="XOOPS Blue Move"></a>
@@ -130,14 +186,14 @@ pageTracker._trackPageview();
 <a rel="nofollow" href="http://www.xoops.org/modules/news/article.php?storyid=4766">
 <img border="0" src="http://www.xoops.org/themes/wox/images/banners/bluemoveSmall.gif" width="124" height="34" alt="XOOPS Blue Move"></a>
 </div>
-			</div>
-								<div class="block_content">
-				<div align="center"><div class="addthis_toolbox addthis_default_style"><a rel="nofollow" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xoops" class="addthis_button_compact">Share</a> <a class="addthis_button_facebook"></a><a class="addthis_button_myspace"></a><a class="addthis_button_google"></a><a class="addthis_button_twitter"></a><a class="addthis_button_digg"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xoops"></script></div><br><br>
+        </div>
+                        <div class="block_content">
+            <div align="center"><div class="addthis_toolbox addthis_default_style"><a rel="nofollow" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xoops" class="addthis_button_compact">Share</a> <a class="addthis_button_facebook"></a><a class="addthis_button_myspace"></a><a class="addthis_button_google"></a><a class="addthis_button_twitter"></a><a class="addthis_button_digg"></a></div><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=xoops"></script></div><br><br>
 
 <div align="center"><iframe src="http://www.facebook.com/plugins/likebox.php?id=96578889373&amp;width=180&amp;connections=0&amp;stream=false&amp;header=false&amp;height=70" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:180px; height:70px;" allowtransparency="true"></iframe></div>
-			</div>
-					<h3 class="block_title">Local Support</h3>			<div class="block_content">
-				<div class="translation">
+        </div>
+                <h3 class="block_title">Local Support</h3>        <div class="block_content">
+            <div class="translation">
 	<!--FLAG_BAR_BEGIN-->
 	<div id="translation_bar" style="text-align: center;">
 		<map id="XOOPS_SupportFlags" name="XOOPS_SupportFlags">
@@ -185,62 +241,24 @@ pageTracker._trackPageview();
 	<div id="transl_sign">
 	</div>
 	<!--FLAG_BAR_END--></div>
-			</div>
-					<h3 class="block_title">Make a donation</h3>			<div class="block_content">
-				<!-- $Id: donations_donate.html,v 1.8 2004/10/15 17:58:57 blackdeath_csmc Exp $ -->
-<form action="https://www.paypal.com/cgi-bin/webscr" target="paypal" method="post">
-    Please select an amount to donate<br>
-    <select name="amount">
-    	<option value="5"> $5</option>
-<option value="10"> $10</option>
-<option value="15"> $15</option>
-<option value="20"> $20</option>
-<option value="25" selected=""> $25</option>
-<option value="50"> $50</option>
-<option value="100"> $100</option>
-<option value="0"> Other </option>
-    </select>
-   <br><br>
-    <table>
-    	<tbody><tr><td colspan="2">Do you want your username revealed with your donation?</td></tr>
-    	<tr>
-    		<td><input type="radio" name="os0" checked="" value="Yes"></td>
-    		<td>Yes - List me as a Generous Donor</td>
-    	</tr>
-    	<tr>
-    		<td><input type="radio" name="os0" value="No"></td>
-    		<td>No - List my donation as from an Anonymous Donor</td>
-    	</tr>
-    </tbody></table>
-    <input type="hidden" name="cmd" value="_xclick">
-    <input type="hidden" name="business" value="xoopsfoundation@gmail.com">
-    <input type="hidden" name="item_name" value="XOOPS Donation">
-    <input type="hidden" name="item_number" value="110">
-    <input type="hidden" name="rm" value="2">
-    <input type="hidden" name="notify_url" value="http://xoops.org/modules/xdonations/ipnppd.php">
-    <input type="hidden" name="on0" value="List your name? ">
-    <input type="hidden" name="no_shipping" value="1">
-    <input type="hidden" name="currency_code" value="USD">
-    <input type="hidden" name="cn" value="Comments">
-    <input type="hidden" name="custom" value="0">
-    <input type="hidden" name="cancel_return" value="http://www.xoops.org/modules/xdonations/cancel.php">
-    <input type="hidden" name="return" value="http://www.xoops.org/modules/xdonations/success.php">
-    <input type="hidden" name="image_url" value=""><br><br>
-    <input type="submit" value="Submit Donation" border="0" name="I1">
-</form>
-			</div>
-					<h3 class="block_title">Search</h3>			<div class="block_content">
-				<div class="txtcenter">
-<form style="margin-top: 0;" action="http://xoops.org/search.php" method="get">
-  <input type="text" name="query" size="14">
-  <input type="hidden" name="action" value="results"><br>
-  <input type="submit" value="Search">
-</form>
-<a href="http://xoops.org/search.php" title="Advanced Search">Advanced Search</a>
-</div>
-			</div>
-					<h3 class="block_title">Cumulus Tag Cloud</h3>			<div class="block_content">
-				
+        </div>
+                <h3 class="block_title">Advertisement</h3>        <div class="block_content">
+            <script type="text/javascript"><!--
+google_ad_client = "pub-1609809778914969";
+/* 180x90, created 8/16/10 */
+google_ad_slot = "9987685522";
+google_ad_width = 180;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        </div>
+                        <div class="block_content">
+            <div align="center"><div><a rel="nofollow" href="http://sourceforge.net/projects/xoops/"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=41586&amp;type=9" border="0" alt="XOOPS Code hosted on SourceForge" title="XOOPS Code hosted on SourceForge"></a></div></div>
+        </div>
+                <h3 class="block_title">Cumulus Tag Cloud</h3>        <div class="block_content">
+            
 <div id="tags">
 		<a href="http://xoops.org/modules/tag/view.tag.php/29/" title="admin">admin</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/17/" title="Arabic">Arabic</a>
@@ -253,6 +271,7 @@ pageTracker._trackPageview();
 		<a href="http://xoops.org/modules/tag/view.tag.php/5/" title="dhsoft">dhsoft</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/23/" title="e-Commerce">e-Commerce</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/25/" title="E-Learning">E-Learning</a>
+		<a href="http://xoops.org/modules/tag/view.tag.php/40/" title="Git">Git</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/26/" title="Google">Google</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/33/" title="GUI">GUI</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/34/" title="hacks">hacks</a>
@@ -264,6 +283,7 @@ pageTracker._trackPageview();
 		<a href="http://xoops.org/modules/tag/view.tag.php/24/" title="Olédrion">Olédrion</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/30/" title="oxygen">oxygen</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/27/" title="PageRank">PageRank</a>
+		<a href="http://xoops.org/modules/tag/view.tag.php/41/" title="PHP">PHP</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/15/" title="security">security</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/20/" title="SEO">SEO</a>
 		<a href="http://xoops.org/modules/tag/view.tag.php/4/" title="simple-XOOPS">simple-XOOPS</a>
@@ -288,26 +308,23 @@ pageTracker._trackPageview();
     widget_so.addVariable("tspeed", "100");
     widget_so.addVariable("distr", "true");
     widget_so.addVariable("mode", "tags");
-    widget_so.addVariable("tagcloud", "<tags><a href='http://xoops.org/modules/tag/view.tag.php?29' style='12'>admin</a> <a href='http://xoops.org/modules/tag/view.tag.php?17' style='12'>Arabic</a> <a href='http://xoops.org/modules/tag/view.tag.php?35' style='12'>banner</a> <a href='http://xoops.org/modules/tag/view.tag.php?32' style='12'>block</a> <a href='http://xoops.org/modules/tag/view.tag.php?11' style='14'>Christmas</a> <a href='http://xoops.org/modules/tag/view.tag.php?22' style='12'>comments</a> <a href='http://xoops.org/modules/tag/view.tag.php?31' style='12'>cumulus</a> <a href='http://xoops.org/modules/tag/view.tag.php?12' style='12'>DayDawn</a> <a href='http://xoops.org/modules/tag/view.tag.php?5' style='12'>dhsoft</a> <a href='http://xoops.org/modules/tag/view.tag.php?23' style='12'>e-Commerce</a> <a href='http://xoops.org/modules/tag/view.tag.php?25' style='12'>E-Learning</a> <a href='http://xoops.org/modules/tag/view.tag.php?26' style='12'>Google</a> <a href='http://xoops.org/modules/tag/view.tag.php?33' style='12'>GUI</a> <a href='http://xoops.org/modules/tag/view.tag.php?34' style='12'>hacks</a> <a href='http://xoops.org/modules/tag/view.tag.php?3' style='13'>instant-zero</a> <a href='http://xoops.org/modules/tag/view.tag.php?21' style='14'>jQuery</a> <a href='http://xoops.org/modules/tag/view.tag.php?18' style='14'>module</a> <a href='http://xoops.org/modules/tag/view.tag.php?2' style='14'>news</a> <a href='http://xoops.org/modules/tag/view.tag.php?28' style='12'>Nordic</a> <a href='http://xoops.org/modules/tag/view.tag.php?24' style='12'>Olédrion</a> <a href='http://xoops.org/modules/tag/view.tag.php?30' style='13'>oxygen</a> <a href='http://xoops.org/modules/tag/view.tag.php?27' style='12'>PageRank</a> <a href='http://xoops.org/modules/tag/view.tag.php?15' style='13'>security</a> <a href='http://xoops.org/modules/tag/view.tag.php?20' style='12'>SEO</a> <a href='http://xoops.org/modules/tag/view.tag.php?4' style='12'>simple-XOOPS</a> <a href='http://xoops.org/modules/tag/view.tag.php?38' style='14'>Smarty</a> <a href='http://xoops.org/modules/tag/view.tag.php?16' style='12'>sport</a> <a href='http://xoops.org/modules/tag/view.tag.php?1' style='14'>tag</a> <a href='http://xoops.org/modules/tag/view.tag.php?10' style='24'>Theme</a> <a href='http://xoops.org/modules/tag/view.tag.php?39' style='12'>tutorial</a> <a href='http://xoops.org/modules/tag/view.tag.php?19' style='12'>wiki</a> <a href='http://xoops.org/modules/tag/view.tag.php?6' style='17'>xoops</a> <a href='http://xoops.org/modules/tag/view.tag.php?36' style='15'>XoopsEngine</a> <a href='http://xoops.org/modules/tag/view.tag.php?37' style='14'>ZendFramework</a> </tags>");
+    widget_so.addVariable("tagcloud", "<tags><a href='http://xoops.org/modules/tag/view.tag.php?29' style='12'>admin</a> <a href='http://xoops.org/modules/tag/view.tag.php?17' style='12'>Arabic</a> <a href='http://xoops.org/modules/tag/view.tag.php?35' style='12'>banner</a> <a href='http://xoops.org/modules/tag/view.tag.php?32' style='12'>block</a> <a href='http://xoops.org/modules/tag/view.tag.php?11' style='14'>Christmas</a> <a href='http://xoops.org/modules/tag/view.tag.php?22' style='12'>comments</a> <a href='http://xoops.org/modules/tag/view.tag.php?31' style='12'>cumulus</a> <a href='http://xoops.org/modules/tag/view.tag.php?12' style='12'>DayDawn</a> <a href='http://xoops.org/modules/tag/view.tag.php?5' style='12'>dhsoft</a> <a href='http://xoops.org/modules/tag/view.tag.php?23' style='12'>e-Commerce</a> <a href='http://xoops.org/modules/tag/view.tag.php?25' style='12'>E-Learning</a> <a href='http://xoops.org/modules/tag/view.tag.php?40' style='12'>Git</a> <a href='http://xoops.org/modules/tag/view.tag.php?26' style='12'>Google</a> <a href='http://xoops.org/modules/tag/view.tag.php?33' style='12'>GUI</a> <a href='http://xoops.org/modules/tag/view.tag.php?34' style='12'>hacks</a> <a href='http://xoops.org/modules/tag/view.tag.php?3' style='13'>instant-zero</a> <a href='http://xoops.org/modules/tag/view.tag.php?21' style='14'>jQuery</a> <a href='http://xoops.org/modules/tag/view.tag.php?18' style='14'>module</a> <a href='http://xoops.org/modules/tag/view.tag.php?2' style='14'>news</a> <a href='http://xoops.org/modules/tag/view.tag.php?28' style='12'>Nordic</a> <a href='http://xoops.org/modules/tag/view.tag.php?24' style='12'>Olédrion</a> <a href='http://xoops.org/modules/tag/view.tag.php?30' style='13'>oxygen</a> <a href='http://xoops.org/modules/tag/view.tag.php?27' style='12'>PageRank</a> <a href='http://xoops.org/modules/tag/view.tag.php?41' style='12'>PHP</a> <a href='http://xoops.org/modules/tag/view.tag.php?15' style='13'>security</a> <a href='http://xoops.org/modules/tag/view.tag.php?20' style='12'>SEO</a> <a href='http://xoops.org/modules/tag/view.tag.php?4' style='12'>simple-XOOPS</a> <a href='http://xoops.org/modules/tag/view.tag.php?38' style='14'>Smarty</a> <a href='http://xoops.org/modules/tag/view.tag.php?16' style='12'>sport</a> <a href='http://xoops.org/modules/tag/view.tag.php?1' style='14'>tag</a> <a href='http://xoops.org/modules/tag/view.tag.php?10' style='24'>Theme</a> <a href='http://xoops.org/modules/tag/view.tag.php?39' style='12'>tutorial</a> <a href='http://xoops.org/modules/tag/view.tag.php?19' style='12'>wiki</a> <a href='http://xoops.org/modules/tag/view.tag.php?6' style='17'>xoops</a> <a href='http://xoops.org/modules/tag/view.tag.php?36' style='16'>XoopsEngine</a> <a href='http://xoops.org/modules/tag/view.tag.php?37' style='15'>ZendFramework</a> </tags>");
     widget_so.write("tags");
 </script>
 </div>
  <div class="more-link"><a href="http://xoops.org/modules/tag/">more...</a></div>
-			</div>
-					<h3 class="block_title">New Users</h3>			<div class="block_content">
-				<center>Registering user <br><br><font size="4"><b># 130349 </b></font><br>
-<br><a href="/userinfo.php?uid=130349"><em><b>wangfeng</b></em></a><br><br>Welcome to XOOPS!<br>
+        </div>
+                <h3 class="block_title">New Users</h3>        <div class="block_content">
+            <center>Registering user <br><br><font size="4"><b># 132170 </b></font><br>
+<br><a href="/userinfo.php?uid=132170"><em><b>clicke</b></em></a><br><br>Welcome to XOOPS!<br>
 </center>
-			</div>
-								<div class="block_content">
-				<div align="center"><div><a rel="nofollow" href="http://sourceforge.net/projects/xoops/"><img src="http://sflogo.sourceforge.net/sflogo.php?group_id=41586&amp;type=9" border="0" alt="XOOPS Code hosted on SourceForge" title="XOOPS Code hosted on SourceForge"></a></div></div>
-			</div>
-			</div>
-	<div id="xoops-contents">
-		<div class="wrapper">
+        </div>
+            </div>
+    <div id="xoops-contents">
+        <div class="wrapper">
  <div class="page_icons">
 	<a target="_blank" href="http://xoops.org/modules/wfchannel/index.php?act=rss" rel="nofollow" title="RSS Feeds"><img class="page_image" src="http://xoops.org/modules/wfresource/images/icon/content_rss.png" title="RSS Feeds" alt="RSS Feeds"></a>	<a target="_blank" href="http://xoops.org/modules/wfchannel/index.php?cid=4&amp;act=print" rel="nofollow" title="Print Page"><img class="page_image" src="http://xoops.org/modules/wfresource/images/icon/content_print.png" title="Print Page" alt="Print Page"></a>	<a target="_blank" href="http://xoops.org/modules/wfchannel/index.php?cid=4&amp;act=pdf" rel="nofollow" title="Create PDF"><img class="page_image" src="http://xoops.org/modules/wfresource/images/icon/content_pdf.png" title="Create PDF" alt="Create PDF"></a>	<a target="_top" href="mailto:?subject=Interesting Article at XOOPS Web Application System&amp;body=Here is an interesting article I have found at XOOPS Web Application System:  http://xoops.org/modules/wfchannel/index.php?cid=4" title="Email Page" rel="nofollow"><img class="page_image" src="http://xoops.org/modules/wfresource/images/icon/content_email.png" border="0" alt="Email Page"></a>	<a href="#" rel="sidebar" onclick="if(document.all &amp;&amp; !window.opera){ window.external.AddFavorite(location.href, document.title); return false; }else{ this.title = document.title; }" title="bookmark this page"><img class="page_image" src="http://xoops.org/modules/wfresource/images/icon/content_bookmark.png" title="Bookmark this page" alt="Bookmark this page"></a> </div>
- <div class="page_headline"><span class="itemTitle">How XOOPS.org handles your private data</span></div> <div class="itemPoster">Author: Anonymous</div> <div class="itemPostDate">Published: 2004/3/21 9:12:09</div> <div class="itemPostDate">Read 82367 times</div></div>
+ <div class="page_headline"><span class="itemTitle">How XOOPS.org handles your private data</span></div> <div class="itemPoster">Author: Anonymous</div> <div class="itemPostDate">Published: 2004/3/21 9:12:09</div> <div class="itemPostDate">Read 85558 times</div></div>
 
 
  <div class="page_tags"></div>
@@ -395,105 +412,112 @@ disclaims any warranties or representations relating to maintenance or nondisclo
 
 
 
-	</div>	
-	
+    </div>
+    
 </div>
 
 
 <div id="wox-footer">
-	<div class="container">
-		<div class="fcolumns">
-			<h4 class="block_title">About Us</h4>
+    <div class="container">
+        <div class="fcolumns">
+            <h4 class="block_title">About Us</h4>
 
-<div>
-					<a href="http://www.xoops.org/modules/wfchannel/">About XOOPS</a>  <br>
-					<a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=24">Why XOOPS?</a>  <br>					
-					<a href="http://www.xoops.org/modules/wfchannel/index.php?cid=17">XOOPS Teams</a> <br> 
-					<a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=21">Board of Advisors</a> <br> 					
-					<a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=22">XOOPS Innovators </a>  <br>
-					<a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=23">XOOPSers </a> <br> 
-					<a href="http://www.xoops.org/modules/news/article.php?storyid=5180">Annual Reports</a> <br> 					
-					<a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=6">XOOPS Etiquette</a>  					
-					
-				</div>			
-		</div>
-		<div class="fcolumns">
-			<h4 class="block_title">Learn</h4>
-<div>
-					<a href="http://www.xoops.org/modules/news/article.php?storyid=4534">Books</a> <br> 
-					<a href="http://www.xoops.org/modules/mediawiki/">Wiki</a>  <br>
-					<a href="http://www.xoops.org/modules/smartfaq/">FAQ</a>  <br>					
-					<a target="_blank" href="http://opensourcecms.com/index.php?option=com_content&amp;task=view&amp;id=165">Demo</a> <br> 
-					<a target="_blank" href="https://sourceforge.net/projects/xoops/files/XOOPS%20Documentation_%20Core/">Core Guides</a>  <br>								 					
-					<a target="_blank" href="https://sourceforge.net/projects/xoops/files/XOOPS%20Documentation_%20Modules/">Module Guides</a>  <br>										
+            <div>
+                <a href="http://xoops.org/modules/wfchannel/" title="About XOOPS">About XOOPS</a><br>
+                <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=24" title="Why XOOPS?">Why XOOPS?</a><br>
+                <a href="http://xoops.org/modules/wfchannel/index.php?cid=17" title="XOOPS Teams">XOOPS Teams</a><br>
+                <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=21" title="Board of Advisors">Board of Advisors</a><br>
+                <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=22" title="XOOPS Innovators">XOOPS Innovators</a><br>
+                <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=23" title="XOOPSers">XOOPSers</a><br>
+                <a href="http://xoops.org/modules/news/article.php?storyid=5180" title="Annual Reports">Annual Reports</a><br>
+                <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=6" title="XOOPS Etiquette">XOOPS Etiquette</a>
 
-				</div>						
-		</div>
-		
-		<div class="fcolumns">
-			<h4 class="block_title">Use</h4>
-<div>
-					<a href="http://www.xoops.org/modules/wfchannel/">Download XOOPS</a>  <br>
-					<a href="http://www.xoops.org/modules/repository/">Modules</a>  <br>					
-					<a target="_blank" href="http://sourceforge.net/project/showfiles.php?group_id=41586&amp;package_id=161780&amp;release_id=600856">Module Packs</a> <br> 
-					<a href="http://www.xoops.org/modules/extgallery/">Themes</a>  <br> 					
-					<a href="http://www.xoops.org/modules/newbb/">Support Forums</a> <br> 
-					<a href="http://www.xoops.org/modules/xoopspartners/">International Support</a> <br> 					
-				</div>						
-		</div>
-		
-		<div class="fcolumns">
-			<h4 class="block_title">Develop</h4>
-<div>
-					<a target="_blank" href="http://www.xoops.org/modules/mediawiki/index.php/Module_Development_Guide">Modules</a>  <br>
-					<a target="_blank" href="http://www.xoops.org/modules/mediawiki/index.php/Theme_Design_Guide/">Themes</a>  <br> 					 
-					<a href="http://dev.xoops.org/">Modules Dev.</a>  <br>
-					<a target="_blank" href="http://sourceforge.net/projects/xoops/">SourceForge XOOPS</a>  <br>
-					<a target="_blank" href="http://xoops.svn.sourceforge.net/viewvc/xoops/">Code SVN</a> <br> 
-					<a target="_blank" href="http://xoops.svn.sourceforge.net/viewvc/xoops/XoopsCore/trunk.tar.gz?view=tar">SVN Nightly Builds</a>  <br>					
-					<a target="_blank" href="https://docs.google.com/View?docID=dgb3svsv_86dx8xcsfr">Coding Standards</a> <br> 
-			</div>						
-		</div>
-		
-		
-		
-		<div class="fcolumns">
-			<h4 class="block_title">Contribute</h4>
-<div>
-					<a href="http://www.xoops.org/modules/xdonations/"><b>Donations $$$</b></a>  <br>
-					<a href="http://www.xoops.org/modules/wfchannel/index.php?cid=17">Join Teams</a>  <br>
-					<a target="_blank" href="http://sourceforge.net/projects/xoops/">SourceForge</a>  <br>
-					<a target="_blank" href="http://xoops.svn.sourceforge.net/viewvc/xoops/">Code SVN</a> <br> 
-					<a target="_blank" href="http://sourceforge.net/tracker/?func=add&amp;group_id=41586&amp;atid=430840">Report Bug</a> <br> 
-					<a target="_blank" href="http://sourceforge.net/tracker/?func=add&amp;group_id=41586&amp;atid=430843">Request Feature</a> <br> 					
-					<a target="_blank" href="http://sourceforge.net/tracker/?func=add&amp;group_id=41586&amp;atid=430842">Submit Patch</a>  
-				</div>						
-		</div>	
+            </div>
+        </div>
+        <div class="fcolumns">
+            <h4 class="block_title">Learn</h4>
 
-		<div class="fcolumns">
-			<h4 class="block_title">Connect</h4>
-<div>
-					<a target="_blank" href="http://www.xoops.org/modules/news/article.php?storyid=636">IRC Channel</a>  <br>
-					<a target="_blank" href="http://www.facebook.com/group.php?gid=5286365786">Facebook</a>  <br>
-					<a target="_blank" href="http://www.linkedin.com/groups?gid=43552">LinkedIn </a>  <br>					
-					<a target="_blank" href="http://delicious.com/tag/xoops/">Delicious</a> <br> 
-					<a target="_blank" href="http://www.flickr.com/photos/tags/xoops/">Flickr</a>  <br> 					
-					<a target="_blank" href="http://www.youtube.com/xoopscms">YouTube</a>  <br>
-					<a target="_blank" href="http://freshmeat.net/projects/xoops">Freshmeat</a> <br> 
-					<a target="_blank" href="http://www.opensourceuniverse.com/groups/groups/general/xoops.html">OpenSource Universe</a> <br> 					
-					<a target="_blank" href="https://www.ohloh.net/p/xoops">Ohloh</a>  
-				</div>						
-		</div>		
-	</div>
+            <div>
+                <a href="http://xoops.org/modules/news/article.php?storyid=4534" title="Books">Books</a><br>
+                <a href="http://xoops.org/modules/mediawiki/" title="Wiki">Wiki</a><br>
+                <a href="http://xoops.org/modules/smartfaq/" title="FAQ">FAQ</a><br>
+                <a href="http://opensourcecms.com/index.php?option=com_content&amp;task=view&amp;id=165" rel="nofollow external" title="Demo">Demo</a><br>
+                <a href="https://sourceforge.net/projects/xoops/files/XOOPS%20Documentation_%20Core/" rel="nofollow external" title="Core Guides">Core Guides</a><br>
+                <a href="https://sourceforge.net/projects/xoops/files/XOOPS%20Documentation_%20Modules/" rel="nofollow external" title="Module Guides">Module Guides</a><br>
+
+            </div>
+        </div>
+
+        <div class="fcolumns">
+            <h4 class="block_title">Use</h4>
+
+            <div>
+                <a href="http://xoops.org/modules/wfchannel/" rel="nofollow external" title="Download XOOPS">Download XOOPS</a><br>
+                <a href="http://xoops.org/modules/repository/" rel="nofollow external" title="Modules">Modules</a><br>
+                <a href="http://sourceforge.net/project/showfiles.php?group_id=41586&amp;package_id=161780&amp;release_id=600856" rel="nofollow external" title="Module Packs">Module Packs</a><br>
+                <a href="http://xoops.org/modules/extgallery/" rel="nofollow external" title="Themes">Themes</a><br>
+                <a href="http://xoops.org/modules/newbb/" rel="nofollow external" title="Support Forums">Support Forums</a><br>
+                <a href="http://xoops.org/modules/xoopspartners/" rel="nofollow external" title="International Support">International Support</a><br>
+            </div>
+        </div>
+
+        <div class="fcolumns">
+            <h4 class="block_title">Develop</h4>
+
+            <div>
+                <a href="http://xoops.org/modules/mediawiki/index.php/Module_Development_Guide" rel="nofollow external" title="Modules">Modules</a><br>
+                <a href="http://xoops.org/modules/mediawiki/index.php/Theme_Design_Guide/" rel="nofollow external" title="Themes">Themes</a><br>
+                <a href="http://dev.xoops.org/" rel="nofollow external" title="Modules Dev">Modules Dev</a><br>
+                <a href="http://sourceforge.net/projects/xoops/" rel="nofollow external" title="SourceForge XOOPS">SourceForge XOOPS</a><br>
+                <a href="http://xoops.svn.sourceforge.net/viewvc/xoops/" rel="nofollow external" title="Code SVN">Code SVN</a><br>
+                <a href="http://xoops.svn.sourceforge.net/viewvc/xoops/XoopsCore/trunk.tar.gz?view=tar" rel="nofollow external" title="SVN Nightly Builds">SVN Nightly Builds</a><br>
+                <a href="https://docs.google.com/View?docID=dgb3svsv_86dx8xcsfr" rel="nofollow external" title="Coding Standards">Coding Standards</a><br>
+            </div>
+        </div>
+
+
+        <div class="fcolumns">
+            <h4 class="block_title">Contribute</h4>
+
+            <div>
+                <a href="http://xoops.org/modules/xdonations/" title="Donations $$$"><b>Donations $$$</b></a><br>
+                <a href="http://xoops.org/modules/wfchannel/index.php?cid=17" title="Join Teams">Join Teams</a><br>
+                <a href="http://sourceforge.net/projects/xoops/" rel="nofollow external" title="SourceForge">SourceForge</a><br>
+                <a href="http://xoops.svn.sourceforge.net/viewvc/xoops/" rel="nofollow external" title="Code SVN">Code SVN</a><br>
+                <a href="http://sourceforge.net/tracker/?func=add&amp;group_id=41586&amp;atid=430840" rel="nofollow external" title="Report Bug">Report Bug</a><br>
+                <a href="http://sourceforge.net/tracker/?func=add&amp;group_id=41586&amp;atid=430843" rel="nofollow external" title="Request Feature">Request Feature</a><br>
+                <a href="http://sourceforge.net/tracker/?func=add&amp;group_id=41586&amp;atid=430842" rel="nofollow external" title="Submit Patch">Submit Patch</a>
+            </div>
+        </div>
+
+        <div class="fcolumns">
+            <h4 class="block_title">Connect</h4>
+
+            <div>
+                <a href="http://xoops.org/modules/news/article.php?storyid=636" rel="nofollow external" title="IRC Channel">IRC Channel</a><br>
+                <a href="http://www.facebook.com/group.php?gid=5286365786" rel="nofollow external" title="Facebook">Facebook</a><br>
+                <a href="http://www.linkedin.com/groups?gid=43552" rel="nofollow external" title="LinkedIn">LinkedIn</a><br>
+                <a href="http://www.delicious.com/tag/xoops/" rel="nofollow external" title="Delicious">Delicious</a><br>
+                <a href="http://www.flickr.com/photos/tags/xoops/" rel="nofollow external" title="Flickr">Flickr</a><br>
+                <a href="http://www.youtube.com/xoopscms" rel="nofollow external" title="YouTube">YouTube</a><br>
+                <a href="http://www.freshmeat.net/projects/xoops" rel="nofollow external" title="Freshmeat">Freshmeat</a><br>
+                <a href="http://www.opensourceuniverse.com/groups/groups/general/xoops.html" rel="nofollow external" title="OpenSource Universe">OpenSource Universe</a><br>
+                <a href="https://www.ohloh.net/p/xoops" rel="nofollow external" title="Ohloh">Ohloh</a>
+            </div>
+        </div>
+    </div>
 </div>
-  <!-- /Bottom Blocks -->
-    <div align="center" id="xt-footer">
-	<br>
-    	<a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=3">Terms of Use</a> &nbsp; | &nbsp; 
-        <a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=4">Privacy Policy</a> &nbsp; | &nbsp; 
-        Hosted by <a href="http://www.xoops.org/modules/wfchannel/index.php?pagenum=20">Surpass Hosting</a> &nbsp; | &nbsp; 
-        Web Design by <a href="http://redmexico.com.mx">Red Mexico</a>
-		<br>
-    </div>    
+<!-- /Bottom Blocks -->
+<div id="xt-footer">
+    <br>
+    <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=3" title="Terms of Use">Terms of Use</a> &nbsp; | &nbsp;
+    <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=4" title="Privacy Policy">Privacy Policy</a> &nbsp; | &nbsp;
+    Hosted by <a href="http://xoops.org/modules/wfchannel/index.php?pagenum=20" title="Surpass Hosting">Surpass Hosting</a> &nbsp; | &nbsp;
+    Web Design by <a href="http://redmexico.com.mx" rel="nofollow external" title="Red Mexico">Red Mexico</a> &nbsp; | &nbsp;
+    <a href="http://xoops.org/backend.php" title="XOOPS Web Application System RSS"><img src="http://xoops.org/themes/wox/images/feed.png" alt="XOOPS Web Application System RSS"></a>
+    <a href="http://xoops.org/sitemap.xml" title="XOOPS Web Application System Sitemap"><img src="http://xoops.org/themes/wox/images/feedblue.png" alt="XOOPS Web Application System Site Map"></a> &nbsp; | &nbsp;
+    <a href="http://validator.w3.org/check?uri=referer" title="Valid XHTML 1.0 Transitional"><img src="http://xoops.org/themes/wox/images/xhtml_valid.png" alt="Valid XHTML 1.0 Transitional"></a>
+    <br>
+</div>    
 
 </body></html>
