@@ -1,101 +1,103 @@
-> *The following text is extracted and transformed from the homeaway.com.au privacy policy that was archived on 2008-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081121035705id_/http%3A//www.homeaway.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeaway.com.au privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028024822id_/http%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Disclaimer
+# HomeAway AU Vacation Rentals:
 
-## Privacy Statement
+Privacy Policy
 
-**1\. PURPOSE**   
-We are committed to the protection of personal privacy as required under the Privacy Act 1988 (Cth) ("the Privacy Act") and have adopted a set of privacy principles based on the National Privacy Principles contained in Schedule 3 of the Privacy Act. 
+We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to the [www.homeaway.com.au](http://www.homeaway.com.au/),  [www.holiday-rentals.co.uk](http://www.holiday-rentals.co.uk/) and [www.owners-direct.co.uk](http://www.owners-direct.co.uk/) and any other websites of our affiliates where this policy is linked to in the footer of the page (each referred to herein as the “Site”).  Websites of other of our affiliates may be governed by separate privacy policies and those policies will be accessible by links in the footers of such websites.  
 
-**2\. Our Privacy Protection Principles are:  
-**_Principle 1 - Collection_   
-We will only collect personal information that is necessary for one or more of its functions or activities. We will only collect personal information by lawful and fair means and not in an unreasonably intrusive way. At or before the time (or, if that is not practicable, as soon as practicable thereafter), we collect personal information about an individual from the individual, we will take reasonable steps to ensure that the individual is aware of:   
-(a) How to contact us  
-(b) The fact that he or she is able to gain access to the information;  
-(c) The purposes for which the information is collected;  
-(d) The organisation to which we usually discloses information of that kind; and  
-(e) The main consequences (if any) for the individual if all or part of the information is not provided.
+The terms “users” or “you” as used in this Privacy Policy, refer to both travelers, who use the Site to look for properties to rent, and members who subscribe to the Site and list their properties for rent. 
 
-If it is reasonable and practicable to do so, we will collect personal information about an individual only from that individual. If we collect personal information about an individual from someone else, we will take reasonable steps to ensure that the individual is or has been made aware of the matters listed from (a) to (e). 
+We use information collected about you only as permitted in this Privacy Policy. This is our privacy policy, but please be aware that should you follow a link to another website, you are no longer covered by this policy. Unless otherwise defined herein, the words and phrases used in this policy have the same meaning as in the Terms and Conditions of Use - available at [Terms & Conditions.](https://web.archive.org/info/about-us/legal/terms-conditions)
 
-_Principle 2 - Use & Disclosure _  
-We will only use or disclose personal information about an individual for a purpose other than the primary purpose of collection (a secondary purpose) if:
+By providing information to us when subscribing, sending inquiries or otherwise using the Site, you expressly agree to this Privacy Policy.  This Privacy Policy was last updated on 15 October 2010.  We reserve the right to modify or update this policy at any time without providing prior notice.
 
-  * Both of the following apply: 
-    1. The secondary purpose is related to the primary purpose of collection and, if the personal information is sensitive information, directly related to the primary purpose of collection;
-    2. the individual would reasonably expect us to use or disclose the information for the secondary purpose; or
-  * The individual has consented to the use or disclosure; 
+**Who processes your personal data, and where?**   
+Your personal data (also referred to as personal information) - that is, data that identifies you, or from which you are identifiable - will be collected, processed, stored and used by us, and passed to and processed by our subsidiaries and/or affiliated companies and other data processors acting under contract with us. Personal data contributed by or collected from users may be stored and processed in the United States or any other country in may be stored and processed in the United Kingdom, United States or any other country in which we or our affiliates, subsidiaries or agents maintain facilities.  By using our Site, you acknowledge and agree that you may be transferring your personal data outside of the country in which you have contributed it (“your country”), and that you consent to any such transfer of information outside of your country. These countries may not have similar data protection laws to those that apply in your country. However, if we transfer your personal data outside of your country in this way, we will take steps to ensure that your privacy rights continue to be protected in compliance with applicable data protection law and this Privacy Policy.
 
+**The information we gather**   
+At various times you may contribute your personal data to us. For example, in order to process a request or enquiry you may make concerning a property or transaction, we need to know all or some of the following: your full name, address, telephone number, e-mail address, and, in the case of a member's (advertising) listing, a method of payment.  If you do not provide this information, we may not be able to process your inquiry or provide you with the services you requested. You may also contribute personal data to us at other times, such as when registering on the Site.   For further detail on our gathering of personal data, see Surveys and Newsletters below.
 
+**How we use your personal data**   
+Our primary purpose in collecting your personal data is to provide you with the services you requested and those which we believe will optimize your use of the Site.  You agree that we may use for personal data for the following purposes:  
+     For the services or support you request;  
+     To contact you from time to time with critical user or service updates;  
+     To send other messages that are integral to the service we provide on the Site;  
+     To customize, measure and improve our services, content and advertising;  
+     To promote the services related to the Site or those of our subsidiaries and/or affiliates;  
+     To compare information for accuracy, and verify it with third parties;  
+     To prevent activity we determine to be potentially illegal; and  
+     for the enforcement of this Privacy Policy and/or our Terms or any other purpose referenced herein or therein.  
+If you are a member, we will also be able to contact you about your account and your use of our services.
 
-_Principle 3 - Data Quality_   
-We will take reasonable steps to make sure that the personal information it collects, uses or discloses is accurate, complete and up-to-date. 
+**How We May Disclose Your Personal Data**
 
-_Principle 4 - Data Security_  
-We will take reasonable steps to protect the personal information it holds from misuse and loss and from unauthorised access, modification or disclosure.  
-We will take reasonable steps to destroy or permanently de-identify personal information if it is no longer needed for any purpose for which the information may be used or disclosed under our Privacy Protection Principle 2. 
+We may disclose your personal data to enforce our policies, or where we are permitted to do so by applicable law, such as to legal or government officials in response to a verified request relating to a criminal investigation, alleged illegal activity or other governmental request, provided that we will require a court order, subpoena or similar legal procedure except when we reasonably believe that use or disclosure of information is necessary to lessen or prevent a serious and imminent threat to life, health or safety or a serious threat to public health or safety; or where we reasonably believe that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of an enforcement body a) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law, b) the enforcement of laws relating to the confiscation of the proceeds of crime, c) the protection of the public revenue, d) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct, or e) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.
 
-_Principle 5 - Openness_  
-We will set out in a document clearly expressed policies on its management of personal information. We will make the document available to anyone who asks for it. On request by an individual, we will take reasonable steps to let the individual know, generally, what sort of personal information it holds, for what purposes, and how it collects, uses, and discloses that information. 
+We may also share your personal data with:  
+•    One of our partners, but only if  you've requested their services or to be provided with information by them;  
+•    A third party performing services on our behalf which has agreed to keep such information confidential (such as the processing of your credit card payment or the conduct of an online survey, for example);  
+•    our subsidiaries and/or affiliates, but only for the purposes set forth in this Privacy Policy; or  
+•    other companies or business entities, in the event we are merged with or acquired by such company or business entity.
 
-_Principle 6 - Access and Correction_  
-If we hold personal information about an individual, we will provide the individual with access to the information on request by the individual, in a form or manner suitable to the individual's reasonable needs. 
+**Newsletters**   
+As a member of the Site, you will receive our "Owner" newsletter, which is an integral part of the services we provide. Traveler users of the Site will be given the option to receive our "Traveler" newsletter when they registered with us. We and the websites of our affiliates may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time.
 
-_Principle 7 - Identifiers_  
-Except as specifically authorised under the Privacy Act, we will not adopt as its own identifier of an individual an identifier of the individual that has been assigned by: 
+**Surveys**   
+Surveys are another method by which we gather information about our users. From time to time, we request users' input in order to evaluate potential features and services. The decision to answer a survey is completely yours. We use information gathered from surveys to improve our services.
 
-  * An agency; or 
-  * An agent of an agency acting in its capacity as agent; or
-  * A contracted service provider for a Commonwealth contract acting in its capacity as contracted service provider for that contract. 
+**Enquiries**   
+Travellers may send enquiries to members via clickable links on the listings on the Site. If you choose to send an enquiry through these links, your personal information, including your email address and any other information you supply, will be visible to the member in question so that they might reply directly to you. If you call the member, you may be asked to leave a return telephone number. Do not share information in the e-mail or phone call that you are not prepared to allow them to have, including, but not limited to, credit card and bank account information. These inquiries are both sent to the individual member you selected and to our system. The resulting enquiry is available for review only by the member to whom it was initially addressed and to our customer service employees, who may be asked by members for their past enquiry information. While the content of these inquiries is not shared with any other party, we may, from time to time, use third party e-mail servers to send and track receipt of the enquiry emails, and analyze the pattern of enquiry usage reported by these third party tracking systems.
 
+**How Do We Protect Your Personal Information Once We Have It?**   
+We take appropriate technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no system is completely secure, we believe the measures implemented by our site reduce the likelihood of security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains each user's responsibility:  
+•    To protect against unauthorized access to your use of the Site;  
+•    To ensure no-one else uses the Site while the user's machine is "logged on" to the Site service;  
+•    To log off or exit from Site when not using it; and  
+•    Where relevant, to keep his/her password or other access information secret.
 
+All personal information submitted to us is stored on a secure server. We do not store credit card numbers or related identifying information on any Site server. All such information is stored by our credit card processing partner(s), whom we contractually obligate to store such information using secure methods.  We also use third parties to help us optimize our website flow, content and advertising (see below).  All of our partners are under contract with us and they are obligated to keep your information confidential.
 
-We will not use or disclose an identifier assigned to an individual by an agency (or by an agent or contracted service provider mentioned above) unless: 
+Note that, despite the measures taken by us and the third parties we contract with, others may nevertheless unlawfully intercept or access private transmissions or data. 
 
-  * The use of disclosure is necessary for us to fulfill its obligations to the agency;
-  * One or more of paragraphs in Privacy Protection Principle 2 above apply to the use or disclosure; or
-  * The use or disclosure is permitted under the regulations to the Privacy Act.  
-_Note_ \- the terms 'agency' and 'contracted service provider' in Privacy Protection Principle 7 are defined in the Privacy Act, but, in general, relate to Commonwealth Government agencies. 
+  **What are Cookies, Web Beacons and Clear GIFs and Why Do We Use Them?**   
+A "cookie" is a small file placed on your hard drive by certain of our web pages.   We  or third parties under contract with us may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety.   Cookies are commonly used  at most major transactional websites in much the same way we use them here at our Site.
 
+If you wish, you can prevent cookie files from using (non-personal) information about you by either deleting the cookie folder in your browser or by putting your browser's Privacy setting higher, but doing so will mean that (a) your use of the Site will be adversely affected (and quite possibly entirely prevented), (b) your experience of this and other sites that use cookies to enhance or personalize your experience will be adversely affected, and (c) you will not be presented with advertising that reflects the way that you use our, and other, sites. You find out how to make these changes to your browser at this site: [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).  
 
+We gather and share anonymised information concerning the usage of the Site by members and travelers with one or more third-party tracking companies for the purpose of reporting statistics. In this connection, some of the pages you visit on our Site use electronic images placed in the web page code, called pixel tags (also called a "clear GIFs" or "Web Beacons") that can serve many of the same purposes as cookies.
 
-_Principle 8 - Anonymity_   
-Wherever it is lawful and practicable, individuals will have the option of not identifying themselves when entering transactions with us. However, in most cases it will not be practicable for the transactions to proceed to finality or for us to provide pre and post-paid services without requiring their identification. 
+Web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow.Our third-party advertising service providers may also use Web Beacons to recognize you when you visit the Site and to help determine how you found the Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>
 
-_Principle 9 - Sensitive Information_  
-We will not collect Sensitive Information about an individual unless:
+**Phishing or False emails**   
+If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link. 
 
-  * the individual has consented; or
-  * the collection is required by law; or
-  * the collection is necessary to prevent or lessen a serious and imminent threat to the life or health of any individual, where the individual whom the information concerns:
-  * is physically or legally incapable of giving consent to the collection; or
-  * physically cannot communicate consent to the collection; or
-  * the collection is necessary for the establishment, exercise or defence of a legal or equitable claim.
+**How do I access, correct or update my information?**   
+We allow our users the option to access, change or modify information previously provided. This may be done buy sending the request to us at [Customer Support ](http://www.holiday-rentals.co.uk/index.cfm/tgt/support_request?leftnav=none)
 
+We may impose reasonable charges for providing access to personal information.
 
+Once we have received your request, we will acknowledge your request within 14 days and will provide you with access to your personal information, except to the extent that:   
+a) providing access would pose a serious and imminent threat to the life or health of any individual; or b) providing access would have an unreasonable impact upon the privacy of other individuals; or  c) the request for access is frivolous or vexatious; or  d) the information relates to existing or anticipated legal proceedings between us and the individual, and the information would not be accessible by the process of discovery in those proceedings; or e) providing access would reveal our intentions in relation to negotiations with the individual in such a way as to prejudice those negotiations; or  f) providing access would be unlawful; or g) denying access is required or authorised by law; or h) providing access would be likely to prejudice an investigation of possible unlawful activity; or i) providing access would be likely to prejudice:
 
-_Principle 10 - Privacy of Network Communications_  
-When installing, operating, or maintaining our network, we will take whatever measures are practicable, or are required by law, to ensure the privacy of communications passing over our network. 
+  i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or  
+ii) the enforcement of laws relating to the confiscation of the proceeds of crime; or  
+iii) the protection of the public revenue; or  
+iv) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or  
+v) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders by or on behalf of an enforcement body; or  
+i) an enforcement body performing a lawyful security function asks HomeAway not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
 
-_Principle 11 - New Services and Developments and Procedures._  
-we will consider the privacy impact of new business processes and services before they are introduced.
+  **How do I opt-out of receiving marketing communications from you?**   
+You may opt-out of receiving marketing communications from us by the following means:  
+1.    Contact us at [Customer Support](http://www.holiday-rentals.co.uk/index.cfm/tgt/support_request?leftnav=none),   
+2.    Follow the instructions included in each communication or newsletter,   
+3.    Use the [Unsubscribe function](http://www.holiday-rentals.co.uk/newsletter/subscribe), or   
+4.    Mail the request to us at HomeAway UK Ltd., Hythe House, 200 Shepherds Bush Rd., London W6 7NL, United Kingdom. 
 
-Privacy expectations  
-We will provide services with privacy standards that are commensurate with community expectations and which enables individual customers to choose a higher degree of privacy protection where practicable.
+**How long will we keep your personal data?**   
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
 
-Privacy implications of change  
-The privacy impact arising from the introduction of the new services or products will be balanced against their benefit to the general community and will take into consideration the extent, means and cost by which privacy concerns can be mitigated. Where practicable, we will provide customers with the ability to choose between differing degrees of privacy protection. 
+**How do I contact you?**   
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](http://www.holiday-rentals.co.uk/index.cfm/tgt/support_request?leftnav=none)
 
-_Principle 12 - Compliance Audit_  
-We will maintain an independent compliance audit program to ensure its Privacy Protection Principles and policies remain appropriate and that we operate in compliance with those Principles and policies. 
-
-**3 DEFINITIONS**  
-Identifier includes a number assigned by an organisation to an individual to identify uniquely that individual for the purposes of the organisation's operations. However, an individual's name or ABN (as defined in A New Tax System (Australian Business Number) Act 1999) is not an identifier. Individual means a natural person.  
-Monitoring means the listening to, reading or recording of a communication during the course of its passage over a telecommunication system.   
-Participant monitoring means the listening to, reading or recording of, a communication during the course of its passage over a telecommunication system by a party to that communication and by using equipment forming part of the service.  
-Personal Information means information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.  
-Privacy Act means the Privacy Act 1988 (Cth), as amended from time to time.  
-Seriously Improper Conduct includes corruption, a serious abuse of power, a serious dereliction of duty, or any other seriously reprehensible behaviour.  
-Surveillance means the systematic observance of a person's behaviour, communication or personal information.   
-Third Party in relation to personal information, means any organisation or individual other than us holding the information and the individual who is the subject of the information.   
-Unless otherwise specified, words in this document have the meaning set out in the Privacy Act.
+11 February, 2011 
