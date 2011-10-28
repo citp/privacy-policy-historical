@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blnk.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209191820id_/http%3A//www.blnk.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blnk.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029000409id_/http%3A//www.blnk.com/help/privacy) for the most accurate reproduction.*
 
 # Help Privacy at BLNK
 
