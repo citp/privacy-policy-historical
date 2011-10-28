@@ -1,168 +1,123 @@
-> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220152857id_/http%3A//www.geolearning.com/support/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geolearning.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028073753id_/http%3A//www.sumtotalsystems.com/home/privacy.html) for the most accurate reproduction.*
 
-# Privacy Notice | GeoLearning
+# Talent Management, Employee Performance Management Software, Performance Appraisals
 
-**1\. Policy**  
-It is the policy of GeoLearning, Inc. (collectively, "GeoLearning") to comply with all applicable privacy and data protection laws. This policy reflects the importance we place on earning and keeping the trust of our employees, customers, and others who share their personal information with us.
+Effective July 26, 2010
 
-**2\. Scope**  
-This policy applies to all employees of GeoLearning and covers all personal information processed by www.geolearning.com, whether it relates to internal or external data subjects, and no matter where it is processed. 
+SumTotal Systems is committed to protecting your privacy and earning your trust. This policy discloses our privacy practices for personal information you provide to us. This policy explains how we collect, use and safeguard your personal information. It is our intent to give you as much control as reasonably practicable over your privacy and personal information and the use we make of it in our business. We may, in our sole discretion, change this policy from time to time by posting a revised version on our web site ("SumTotal Systems Site") or otherwise publicly disseminating it, so please check back from time to time.
 
-**3\. Effective Date**  
-This policy is effective as of January 6, 2009. 
+### **What kinds of personal information does SumTotal Systems collect?**
 
-**4\. Definitions**  
-_"Data subject"_ generally means a natural person who can be individually identified, directly or indirectly, in particular by reference to an identification number or to one or more factors specific to his or her physical, physiological, mental, economic, cultural or social identity. Note, however, that in certain countries, for example, Switzerland and Italy, the term "data subject" may also refer to legal entities.
+In general, you can visit SumTotal Systems on the Web without telling us who you are or revealing any personal information about yourself. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. We ask for information from you in several ways from different parts of the SumTotal Systems Site and also as part of providing our products and services. 
 
-_"Personal Information"_ means an individual's first name or last name in combination with any one or more of the following data elements: 
+  * We ask for personal information when you become a registered user of the SumTotal Systems Site, purchase our products or services, or register for a conference or event. For example, such information might include your name, address, telephone number, email address, and other information related to you or your business. You are required to register and receive a logon name to be able to access and use certain features of the SumTotal Systems Site. We also request certain other optional information that will enable us to provide you with a more personalized experience when using the SumTotal Systems Site. We will let you know what information is optional, and you can decide whether or not you want to provide that information or to receive newsletters or third party correspondence. 
+  * We ask for personal information from you during the course of discussing or providing our products and services. 
+  * If you choose to receive the ResultsOnDemand service or for us to host our software on your behalf, you may choose to store personal information into the software or service that resides on our servers. We do not control the collection or storage of personal information during this process, but rather provide you the means to store or remove such information on the system as part of these services. 
+  * If you choose to receive our TotalPerformance service, we may collect information relating to your employees as necessary to perform the service for you. Such information might include, without limitation, employee and supervisor names, email addresses, performance ratings, salary and pay information, and other employee demographic information to verify employee identity and authenticity to enable the employee to access the system, generate reports, or provide requested TotalPerformance services. 
+  * In the course of using our site, we automatically track certain information about you. This information includes what type of browser you are using, as well as the URL that you just came from and the next URL you go to, regardless of whether these URLs are on our Web site or not. It also includes your IP address. SumTotal Systems uses this information to, among other things, identify broad demographic trends that may be used to provide information tailored to your interests. 
+  * We ask for personal information when you enter a contest, sweepstakes or other promotion sponsored by SumTotal Systems or its partners. 
+  * We also monitor customer traffic patterns and site usage to help us refine and improve the design and layout of our SumTotal Systems Site and the user experience. 
+  * If you send us personal correspondence, such as e-mails or letters, we may keep a record of that correspondence. We also periodically ask users for feedback that we use to improve our service and products and add new features. If you respond to these requests, we may keep a record of your response. 
+  * We also collect IP addresses for system administration 
 
-  1. social security number, drivers license number, or any other government-issued identification number
-  2. birth date 
-  3. race/national origin 
-  4. sex 
-  5. address 
 
 
+###  **How does SumTotal Systems use my information?**
 
-Personal information does not include information that is lawfully obtained from publically available resources, or from federal, state, or local government records lawfully made available to the general public. 
+We collect personal information to give you a customized experience and to help SumTotal Systems understand its customers and prospective customers better. SumTotal Systems does not currently sell, trade, or rent your personal information to others. 
 
-_"Processing"_ of personal information means doing anything with personal information, whether or not by automatic means, such as collecting, recording, organizing, storing, adapting, altering, retrieving, consulting, using, disclosing, transmitting, disseminating, accessing or providing access to, combining, erasing, or destroying personal information.
+  * We use the personal information as necessary to provide you with our services. 
+  * We do not access or use the personal information you store on our servers through our hosting or ResultsOnDemand services, except to provide such services, to provide support in connection with such services, to test, troubleshoot and improve our products and services, or as otherwise authorized or requested by you. 
+  * We use the personal information you give us to provide you with up-to-date information about SumTotal Systems products and services. 
+  * We may use your personal information to conduct surveys and research to improve our products and services. 
+  * We may use the information we collect to notify you from time to time about important functionality changes to the Web site, new SumTotal Systems services and products, and special offers we think you may find valuable. 
+  * We will deliver targeted advertisements to our customers using the personal information you give us and that we collect. Third parties provide us with advertisements and identify an audience they want to reach. We display these advertisements on our Web site to people who fit the criteria. We do not allow advertisers to have access to individual account information. These advertisements are usually banner ads and promotional e-mails. 
+  * We also research our users' demographics, interests, and behavior based on the information you give us and the information we collect. 
+  * We compile and analyze personal information on an aggregate or anonymous basis to model industry trends, do market analysis, and to publish industry research papers identifying trends in the marketplace. Such industry research papers contain aggregate and anonymous data only, and do not contain any personal information that can be used to identify you. 
+  * We use the IP addresses we collect to report aggregate or anonymous information to our advertisers. 
 
-**6\. Responsibilities of GeoLearning Employees**  
-All GeoLearning businesses and functions must review their data practices in light of this policy and establish and maintain procedures to implement this policy. 
 
-All employees of GeoLearning must comply with all applicable privacy and data protection laws, this policy, and all related GeoLearning polices and procedures. 
 
-**7\. Adherence to U.S. Safe Harbor Principles**  
-GeoLearning adheres to and will comply with the U.S. Safe Harbor Principles, including the relevant guidelines provided in the U.S. Safe Harbor Frequently Asked Questions. 
+You can unsubscribe from receiving any advertisements or newsletters by sending an email with "REMOVE" in the subject line to: privacy@sumtotalsystems.com. 
 
-**8\. Privacy Principles**  
-Although privacy and data protection laws vary from country to country, most are based on the following privacy principles. Accordingly, to assure compliance with all applicable data protection laws and achieve consistency across the organization, GeoLearning will adhere to the following privacy principles at least to the extent required by applicable law: 
+###  **Who collects information?**
 
-_Limitations on the Collection, Use and Disclosure of Personal Information_
+When you supply personal information to SumTotal Systems or on a SumTotal Systems Site, you share that information only with SumTotal Systems unless you are specifically informed otherwise. If a company other than SumTotal Systems is gathering or maintaining your personal data from the SumTotal Systems Site, you will be told before it is collected or transferred. You can always choose not to share the information.
 
-_Notice and Consent_ — We will collect and process information fairly and lawfully, and where appropriate, with the knowledge or consent of the data subject. The type of notice or consent required will depend on the context and the circumstances, the sensitivity of the personal information, the data subject's reasonable expectations, and legal requirements.
+When companies other than SumTotal Systems sponsor promotions, data collected on the SumTotal Systems Site in connection with these promotions may be shared with the sponsor. Once again, if this is the case, you will be notified before the data is collected or transferred, and you can decide not to participate.
 
-  * _Specific Purpose_ — We will collect and process personal information only for specified, limited and legitimate purposes.
-  * _Limitations on Use_ — We will not process personal information in a manner inconsistent with the purposes for which it was originally collected without first obtaining the data subject's consent. The type of consent required will depend on the context and the circumstances, the sensitivity of the personal information, the data subject's reasonable expectations, and legal requirements.
-  * _Data Proportionality_ — The personal information we collect will be relevant, adequate and not excessive for the purposes for which it is collected or to which the data subject subsequently consents. 
-  * _Direct Marketing_ — We will not use personal information for direct marketing purposes without the data subject's consent. The data subject's consent may be express or implied, "opt-out" or "opt-in," depending on the circumstances and legal requirements. 
-  * _Automated Decisions_ — We will not make decisions based solely on automated processing of personal information except as permitted by applicable law. 
-  * _Transfers to Third Parties_
-    * We will disclose personal information to third parties (including our affiliates) only for purposes consistent with those for which the personal information was originally collected or to which the data subject has subsequently consented. We will take appropriate measures, by contract or otherwise, to provide adequate protection for personal information that is disclosed to a third party. 
-    * Before we transfer personal information to a third party to use for its own marketing purposes, we will obtain the data subject's consent. The data subject's consent may be express or implied, "opt-out" or "opt-in," depending on the circumstances and legal requirements. 
-    * There may be exceptions to these general rules, depending on applicable law, if, for example, the disclosure is required by court order, to comply with a law, to prevent a crime, to enforce a legal right. 
-  * _Transfers to Other Countries_ — We will take appropriate measures, by contract or otherwise, to provide adequate protection for personal information that is transferred from one country to another, including transfers among affiliates. If required by law, we will first obtain the data subject's consent to the transfer. In such cases, the type of consent required will depend on the context and the circumstances, the sensitivity of the personal information, the data subject's reasonable expectations, and legal requirements. 
+If you leave the SumTotal Systems Site using links to go to other third party Web sites, those third parties may gather information about you. This privacy policy does not cover the practices of those businesses.
 
+###  **Does SumTotal Systems share my information?**
 
+Other than as stated in this policy, SumTotal Systems does not disclose any of your personal information to third parties without your permission. Read the following sections to learn more.
 
-_Management of Personal Information_
+  * **Business partners, subcontractors and sponsors  
+**SumTotal Systems may disclose your personal information to business partners, subcontractors or sponsors as SumTotal deems necessary to provide products and services to you. Many promotions give you the chance to request additional information from the sponsors. When you ask for more information, you give SumTotal Systems permission to send your personal information to the sponsor so they can fulfill your request. If you do not want any personal information to be shared with our business partners or sponsors, you may opt out by sending an email to privacy@sumtotalsystems.com with "OPT OUT" in the subject line. 
 
-  * _Quality_ — We will take appropriate steps to ensure that personal information is accurate and reliable for its intended use and, where necessary for its intended use, kept up-to-date. 
-  * _Access_ — We will maintain procedures to give data subjects appropriate access to their personal information and, when appropriate, an effective means to have their personal information corrected or deleted.
-  * _Security_ — We will implement reasonable administrative, physical and technological security measures to protect personal information from unauthorized access, unauthorized use, and unauthorized or accidental destruction, modification or disclosure. We will provide a level of security appropriate to the risks and the sensitivity of the personal information. 
-  * _Retention_ — We will not keep personal information in a form that permits identification of data subjects for longer than is necessary for the purposes for which it was collected or to which the data subject has consented, except for legitimate purposes permitted by law, such as regulatory compliance. 
 
+  * **SumTotal International Locations  
+**SumTotal Systems maintains offices in many areas around the world. To better serve you, the information you provide may be accessed by SumTotal employees worldwide. 
 
 
-_Accountability and Enforcement_
+  * **Third-party data and aggregate data  
+**SumTotal Systems discloses aggregated or anonymous statistics (for example, the percentage of users from the western U.S.) to prospective partners and advertisers and for other lawful purposes.
 
-  * _Accountability_ — We will designate data subjects within GeoLearning to be accountable for compliance with privacy and data protection laws, this policy, and related procedures. 
-  * _Enforcement_ — We will provide internal controls for verifying compliance with privacy and data protection laws, this policy, and related procedures.
-  * _Complaint Process_ — We will provide a fair process for investigating and resolving complaints and objections regarding our data practices and will take appropriate steps to communicate our process to the data subjects who entrust their personal information to us. 
 
+  * **Other situations  
+** SumTotal Systems also may disclose your information where disclosure is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interfering with our rights or property rights, the users' rights, or others’ rights. In the same way, SumTotal Systems will disclose information when we reasonably believe disclosure is required by law or to comply with a legal process served on SumTotal Systems. We may also disclose your personal information in the good faith belief that we must act under exigent circumstances to protect the personal safety of users of the SumTotal Systems Site, or the public.
 
 
-**GeoLearning Privacy Statement**  
 
+### **Do I have a choice about how my information is gathered, used and distributed?**
 
-**Effective as of January 6, 2008**
+Yes. When you log in or register with SumTotal Systems, you can choose to receive newsletters, information, and e-mails from SumTotal Systems and third parties. If you change your mind, you can simply update your account information on our Web site so that the information will not be sent. It's your choice.
 
-GeoLearning, Inc. ("Geolearning.com" or the "Company") is committed to protecting the privacy of your information. This Privacy Statement describes GeoLearning's information practices. 
+Some of our promotions may request your e-mail address so that you can receive periodic updates about the status of the promotion. When you participate in these types of promotions, you will automatically receive promotion-related e-mail; however, you can choose the no-e-mail option that some promotions offer. Occasionally these promotion-related e-mail messages may include targeted advertisements.
 
-GeoLearning abides by the EU Safe Harbor Framework as outlined by the U.S. Department of Commerce and the European Union. For more information on the EU Safe Harbor Framework, please visit <http://www.export.gov/safeharbor/>.
+While using our hosting services or ResultsOnDemand service, you may choose to store personal information on our servers through such services. The storage and removal of such information is at your discretion. 
 
-GeoLearning.com will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program.
+### **What security precautions does SumTotal Systems take to protect me?**
 
-**_TRUSTe_ **  
-GeoLearning is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
+We have security measures in place to protect your personal information, including the use of industry-standard encryption technology and internal policies and restrictions regarding the storage of and access to your personal information.
 
-If you have questions or concerns regarding this statement, you should first contact us at [privacy@geolearning.com](mailto:privacy@geolearning.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Your SumTotal Systems account information and profile are password-protected so that you are the only one who has access to your personal information. You can edit your account information and profile by using your logon name and password. We recommend that you follow these guidelines to protect yourself: 
 
-Questions regarding this Privacy Statement or the information practices of the Company's Web sites should be directed to GeoLearning Privacy by e-mailing [privacy@geolearning.com](mailto:privacy@geolearning.com) or mailing GeoLearning Privacy, 4600 Westown Parkway, Suite 301, West Des Moines, IA 50266. 
+  * Do not tell anyone your password. If your password has been compromised for any reason, you should immediately change your password. 
+  * Do not respond to unsolicited e-mail by giving your password, even if the e-mail claims to be from us. SumTotal Systems will never ask you for your password in this way. 
+  * When you are done using the SumTotal Systems site, sign out of your account and close your browser window. 
 
-**1\. Web Sites Covered**  
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement: [www.geolearning.com](http://www.geolearning.com/)
 
-GeoLearning's Web sites may contain links to other Web sites. GeoLearning is not responsible for the information practices or the content of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
-**2\. Personal Information Collected**  
-GeoLearning offers a variety of services that are collectively referred to as the "Service." GeoLearning collects information from individuals who visit the Company's Web sites ("Visitors") and individuals who register to use the Service ("Customers"). 
+No data transmission over the Internet can be guaranteed to be 100% secure. Although we are committed to protecting your personal information, SumTotal Systems cannot ensure or warrant the security of any information you send to us or from our online services. Providing personal information to SumTotal Systems is done at your own risk.
 
-When expressing an interest in obtaining additional information about the Service or registering to use the Service, GeoLearning requires you to provide the Company with contact information, such as: first name, last name, title, organization, address, city, state/province, zip/postal, country, phone, e-mail, total # of employees in your organization ("Required Contact Information").
+###  **What are cookies and how does SumTotal Systems use them?**
 
-As you navigate the Company's Web sites, GeoLearning may also collect information through the use of commonly-used information-gathering tools, such as cookies and log files ("Web Site Navigational Information"). Web Site Navigational Information includes standard information from your Web browser (such as browser type and browser language), your Internet Protocol ("IP") address, and the actions you take on the Company's Web sites (such as the Web pages viewed and the links clicked). For additional information about GeoLearning's collection of Web Site Navigational Information, please see Section 4 of this Privacy Statement.
+Part of our customized service involves using “cookies” so that we can immediately recognize you, determine when you – or someone using the same browser you previously used – revisits SumTotal Systems, and to provide a more personalized experience. A "cookie" is a chunk of data that is sent to your browser from a web server and stored by your browser on the hard drive of your computer. Your browser settings must be set to accept cookies before you can login or customize. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. SumTotal Systems does not use cookies to retrieve personal information about you from your computer. This policy does not cover the use of cookies by any advertisers on the SumTotal Systems Site.
 
-**3\. Use of Information Collected**  
-The Company uses Data about GeoLearning Customers to perform the services requested. For example, if you fill out a "Contact Me" Web form, the Company will use the information provided to contact you about your interest in the Service. 
+SumTotal Systems uses cookies to: 
 
-The Company may also use Data About GeoLearning Customers for marketing purposes. For example, the Company may use information you provide to contact you to further discuss your interest in GeoLearning's products, the Service, and to send you information regarding the Company and its partners, such as information about promotions or events. 
+  * Locate your name and account information when you log in to our Web site so that you can access your account information. When you log in, the cookie is set, and when you sign-out, the cookie is modified. 
+  * Estimate the size of our audience. Each browser that accesses SumTotal Systems is given a unique cookie, which is used to calculate how many people return to our Web site, compare the number of registered and unregistered visitors to our site, and use customer interests and behavior to target our advertisements. 
+  * Help SumTotal Systems partners track visits and complete business transactions. This information is sometimes called "clickstream" or "click trail". 
+  * Track the way you use our promotions, contests, and sales. When a SumTotal Systems-hosted promotion uses cookies, the information written to the cookie tracks the user's progress through the promotion (for example, entries, submissions, and status in prize drawings). 
+  * Measure the traffic to various areas of the SumTotal Systems Site. We measure the areas of the network of Web sites you visit and your visiting patterns in the aggregate. This research helps us understand the ways in which our customers are alike and the ways in which they differ. We may use this information to personalize the information and design in our Web site. 
 
-GeoLearning uses Web Site Navigational Information to operate and improve the Company's Web sites. The Company may also use Web Site Navigational Information in combination with Data About GeoLearning Customers to provide personalized information about the Company. 
 
-In some instances, we share postal addresses of visitors with authorized partner organizations. However, we DO NOT share direct contact information such as e-mail addresses, phone numbers or fax numbers with any third parties. To request that your postal address not be shared with authorized partner organizations, send your request to [privacy@geolearning.com](mailto:privacy@geolearning.com). Information concerning individuals' usage of our site will not be disclosed to third parties except in aggregate form such that your information will not be personally identifiable.
 
-GeoLearning acts as a "data processor" with respect to much of the personal information it receives from the European Economic Area. A "data processor" is an entity that processes personal information on behalf of a data controller. A "data controller" is an entity that determines the purpose and means for processing personal information. 
+You can make decisions about cookies. You can modify your browser preferences to accept all cookies, be notified when a cookie is set, or to reject all cookies. If you decide to reject all cookies, you might not be able to access certain areas of the SumTotal website or participate in SumTotal Systems services that require registration to participate..
 
-When GeoLearning receives personal information from the European Economic Area as a "data processor," GeoLearning protects the personal information in accordance with the terms of the contract between GeoLearning and the "data controller" and the relevant Safe Harbor Principles. 
+###  **What about the privacy of children?**
 
-**European Economic Area**  
+SumTotal Systems is a general audience Web site and does not request the age of its customers. SumTotal Systems does not knowingly collect any personal information from children.
 
+###  **Safe Harbor**
 
-Please note that your personal information will be transferred outside the European Economic Area for the purposes of processing by GeoLearning and its affiliates. By using the GeoLearning Web site and providing your personal information, you consent to this transfer.
+SumTotal Systems adheres to the EU’s Safe Harbor principles.  SumTotal has agreed to participate in the dispute resolution program provided by the European Data Protection Authorities Panel.
 
-For additional information about the Company's use of Web Site Navigational Information, please see section 4 of this Privacy Statement. 
+###  **Contacting Us**
 
-**4\. Web Site Navigational Information**  
-GeoLearning uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company's Web sites ("Web Site Navigational Information") . This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information.
+If you have any questions regarding this Privacy Policy or wish to access or correct your personal information that we collect, please contact us at [privacy@sumtotalsystems.com](mailto:privacy@sumtotalsystems.com) Written inquiries may be sent to: SumTotal Systems, Inc., 2850 NW 43rd Street, Suite #200, Gainesville, FL 32606 USA , and Attention: Privacy Policy.
 
-**Cookies**  
-GeoLearning uses cookies to make interactions with the Company's Web sites easy and meaningful. When you visit one of the Company's Web sites, GeoLearning's servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to GeoLearning, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a "Contact Me" or a "Send me a White Paper" Web form), you remain anonymous to the Company. 
-
-There are two types of cookies: session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer. 
-
-If you have chosen to identify yourself to GeoLearning, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed in your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service. 
-
-GeoLearning does not employ the use of persistent cookies. 
-
-**IP Addresses**   
-When you visit GeoLearning's Web sites, the Company collects your Internet Protocol ("IP") addresses to track and aggregate non-personally identifiable information. For example, GeoLearning uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company's Web sites. 
-
-GeoLearning also collects IP addresses from Customers when they log into the Service as part of the Company's "Identity Confirmation" security features.
-
-**Third Party Cookies**  
-From time-to-time, GeoLearning engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company's Web sites. GeoLearning may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies.
-
-**5\. Public Forums, Refer a Friend, and Customer Testimonials**  
-We post customer testimonials on our web site, which may contain personally identifiable information such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.
-
-If you want to remove your personal information that is being displayed on our website under public pages please send your request to [unsubscribe@geolearning.com](mailto:unsubscribe@geolearning.com)
-
-**6\. Sharing of Information Collected**  
-GeoLearning may share Data About GeoLearning Customers with the Company's agents so that these agents can contact Customers and Visitors who have provided contact information on our behalf. GeoLearning may also share Data About GeoLearning Customers with the Company's agents to ensure the quality of information provided. GeoLearning does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes. 
-
-GeoLearning reserves the right to disclose personally identifiable information of the Company's Customers or Visitors if required by law or if the Company reasonably believes that disclosure is necessary to protect the Company's rights and/or to comply with a judicial proceeding, court order, or legal process.
-
-**7\. Communications Preferences**  
-GeoLearning offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking [unsubscribe@geolearning.com](mailto:unsubscribe@geolearning.com) or by clicking on the "unsubscribe" link located on the bottom of the Company's marketing emails. Additionally, you may send a request specifying your communications preferences to [unsubscribe@geolearning.com](mailto:unsubscribe@geolearning.com). 
-
-**8\. Correcting and Updating Your Information**  
-To discontinue marketing messages and information please contact GeoLearning at [unsubscribe@geolearning.com](mailto:unsubscribe@geolearning.com). To update your information please e-mail [webmaster@geolearning.com](mailto:webmaster@geolearning.com)
-
-**9\. Security**  
-GeoLearning uses robust security measures to protect Customer Data from unauthorized access, maintain data accuracy, and help ensure the appropriate use of Customer Data. GeoLearning implements an advanced security method based on dynamic data and encoded session identifications, and the Company hosts its Web sites in a secure server environment that uses firewalls and other advanced technology to prevent interference or access from outside intruders. 
-
-**10\. Changes to this Privacy Statement**  
-If we decide to change our privacy policy or statement, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+©2004 - 2010 SumTotal Systems, Inc. All rights reserved.  
+Privacy Policy last updated July 26, 2010. 
