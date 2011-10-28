@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109051913id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airportparkingreservations.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028025923id_/http%3A//www.airportparkingreservations.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Airport Parking Reservations.com
 
-Updated 11/19/2008
+Updated 9/16/2011
 
 **The Postal address for AirportParkingReservations.com, Inc. is:**
 
@@ -11,7 +11,7 @@ PO Box 745
 Suffield, CT 06078  
 203-245-8056
 
-Our web site is located at: <http://www.airportparkingreservations.com/>
+Our web site is located at: [http://www.airportparkingreservations.com](http://www.airportparkingreservations.com/)
 
 If you have any questions or suggestions regarding our privacy policy, please contact us by clicking this link: [Contact us](http://www.airportparkingreservations.com/contactus).
 
@@ -45,15 +45,11 @@ AirportParkingReservations.com, Inc. sends the following transaction related ema
 
 From time to time, AirportParkingReservations.com, Inc. may contact you by mail or email to make you aware of special offers, new services and other information we believe to be of interest. And, occasionally we send emails to select customers on behalf of carefully selected businesses.
 
-We always give you the choice to opt-out from receiving non-transaction related emails. If you do not opt-out from receiving these communications, we will send them to you. If you prefer not to receive non-transaction related email from us, please [contact us here](http://www.airportparkingreservations.com/contactus) and we will remove you from our mail-to list.
-
-Please note that these requests may take 5-10 days to process.
-
-We may share your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partner will make the data we provide it anonymous. To choose not to have this information used by our third-party advertising partner, [click here](http://www.airportparkingreservations.com/removefromdotomi).
+We always give you the choice to opt-out from receiving non-transaction related emails. If you do not opt-out from receiving these communications, we will send them to you. If you prefer not to receive non-transaction related email from us, please [unsubscribe here](http://www.airportparkingreservations.com/unsubscribe) and we will remove you from our mail-to list.
 
 ###  How your Information is Stored:
 
-AirportParkingReservations.com, Inc. makes every reasonable effort to keep your personal information safe and secure. We also protect the connection between your computer and our server from eavesdropping through industry-standard encryption technology known as Secure Socket Layer (SSL). Depending on your browser, this SSL will have encryption keys of up to 128 bits.
+AirportParkingReservations.com, Inc. makes every reasonable effort to keep your personal information safe and secure. We also protect the connection between your computer and our server from eavesdropping through industry-standard encryption technology known as Secure Socket Layer (SSL). Depending on your browser, this SSL will have encryption keys of up to 256 bits.
 
 ###  Links to Other Web Sites:
 
