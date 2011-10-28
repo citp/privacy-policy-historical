@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511143344id_/https%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentjobs.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028055438id_/https%3A//www.governmentjobs.com/display.cfm%3FSubCatID%3D16) for the most accurate reproduction.*
 
 # GovernmentJobs.com -
 
@@ -76,6 +76,8 @@ Back to top
 **Children**
 
 We do not specifically collect information about children. We believe that children should get their parents' consent before giving out personal information. If you are concerned about your child's use of GovernmentJobs.com, we encourage you to use Web filtering technology to supervise your child's access to the site. We also encourage you to participate in your child's experience with GovernmentJobs.com. With a little guidance, the site can prove very useful in finding a part time or summer job for your child, as well as providing them with excellent career counseling information. 
+
+Back to top
 
 * * *
 
