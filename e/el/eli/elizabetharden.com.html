@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the elizabetharden.com privacy policy that was archived on 2011-02-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110225103738id_/http%3A//shop.elizabetharden.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the elizabetharden.com privacy policy that was archived on 2011-10-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111028142905id_/http%3A//shop.elizabetharden.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26clickid%3Dbotnav_privacy_txt) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!--Preview TimeZone = 'null' --><!--Preview TimeZone = 'America/New_York' --><!-- Checking storemanPD --><!-- Checking productPreviewAllowed --><head>
 	
@@ -26,14 +26,14 @@
 
 	<title>Elizabeth Arden</title>
 	
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/pm.css?d=Fri Feb 25 05:37:36 EST 2011">
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/lrtb.css?d=Fri Feb 25 05:37:36 EST 2011">
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/fp.css?d=Fri Feb 25 05:37:36 EST 2011">
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/html.css?d=Fri Feb 25 05:37:36 EST 2011">
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/html.css?d=Fri Feb 25 05:37:36 EST 2011">
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/template.css?d=Fri Feb 25 05:37:36 EST 2011">
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/common.css?d=Fri Feb 25 05:37:36 EST 2011">
-<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/include/store.css?d=Fri Feb 25 05:37:36 EST 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/pm.css?d=Fri Oct 28 10:29:05 EDT 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/lrtb.css?d=Fri Oct 28 10:29:05 EDT 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/fp.css?d=Fri Oct 28 10:29:05 EDT 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/lib/html.css?d=Fri Oct 28 10:29:05 EDT 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/html.css?d=Fri Oct 28 10:29:05 EDT 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/template.css?d=Fri Oct 28 10:29:05 EDT 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/css/common.css?d=Fri Oct 28 10:29:05 EDT 2011">
+<link rel="stylesheet" type="text/css" href="http://EA.imageg.net/include/store.css?d=Fri Oct 28 10:29:05 EDT 2011">
 
 
 	
@@ -166,12 +166,12 @@ p {font-size:11px; }
 						
                  </div>
 				<div class="fSSV f11 c5 mB9">
-							
+							<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=vbv&amp;topic=vbv" class="hd_pagelink" style="text-decoration:none;">Verified by Visa</a>
 							
                  </div>
 				<div class="fSSV f11 c5 mB9">
-						<a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard" class="hd_pagelink" style="text-decoration:none;">MasterCard SecureCode</a>
-						
+                            <a href="/helpdesk/index.jsp?display=safety&amp;subdisplay=mastercard&amp;topic=securecode" class="hd_pagelink" style="text-decoration:none;">MasterCard SecureCode</a>
+                            
                  </div>
 
 </div></div>
@@ -382,7 +382,7 @@ p {font-size:11px; }
 
 
 
-<!--You are running on ashprd1_ws_11_7-->
+<!--You are running on secprd1_ws_08_4-->
 
 
 
@@ -435,7 +435,7 @@ p {font-size:11px; }
 
 
 
-<!--You are running on ashprd1_ws_11_7-->
+<!--You are running on secprd1_ws_08_4-->
 
 
 
@@ -463,7 +463,7 @@ p {font-size:11px; }
 
 
 
-<!--You are running on ashprd1_ws_11_7-->
+<!--You are running on secprd1_ws_08_4-->
 
 
 
@@ -481,6 +481,36 @@ p {font-size:11px; }
 
 
 
+
+
+
+
+
+
+
+<script language="JavaScript" type="text/javascript">
+function storeSREDID() {
+    var thirtyDays = (60*60*1000*24)*30;
+    var vals = document.location.search;
+    start = vals.indexOf("SREDID=");
+    if (start != -1) {
+        var end = vals.indexOf("&", start);
+        if (end == -1){ end = vals.length }
+        var date = new Date();date.setTime(date.getTime()+ thirtyDays);
+        document.cookie= vals.substring(start,end) + "; expires=" + date.toGMTString() + "; path=/";
+    }
+}
+function getSREDID(){
+   var n = "SREDID=";
+   var cookies = document.cookie;
+   var start = cookies.indexOf(n);
+   if (start == -1){ return null; }
+   start += n.length ;
+   var end = cookies.indexOf(";", start);
+   if (end == -1){ end = cookies.length }
+   return cookies.substring(start, end);
+}
+</script>
 
 
 
