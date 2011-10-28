@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xyone.co.uk privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202144741id_/http%3A//xyone.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xyone.co.uk privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028195532id_/http%3A//xyone.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
