@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226224015id_/http%3A//www.hiltongrandvacations.com/hilton-grand-vacations-club-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiltongrandvacations.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028020216id_/http%3A//www.hiltongrandvacations.com/hilton-grand-vacations-club-privacy-policy.php) for the most accurate reproduction.*
 
 # Hilton Grand Vacations - Timeshare Vacation Ownership
 
