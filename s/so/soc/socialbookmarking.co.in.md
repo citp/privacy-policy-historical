@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialbookmarking.co.in privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628155504id_/http%3A//www.socialbookmarking.co.in/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialbookmarking.co.in privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028025154id_/http%3A//www.socialbookmarking.co.in/page/privacy) for the most accurate reproduction.*
 
 # Social Bookmarking .co.in |
 
