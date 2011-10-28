@@ -1,125 +1,103 @@
-> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525214330id_/http%3A//www.realholidays.com.au/cgi-bin/rsearch%3Fa%3Dv%26t%3Dhol%26id%3D1335) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028024822id_/http%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
-# Holiday rental properties Australia wide - realholidays.com.au
+# HomeAway AU Vacation Rentals:
 
-**Introduction**
+Privacy Policy
 
-The realholidays.com.au, realestate.com.au, realcommerical.com.au and property.com.au websites (" **our websites** ") are operated by realestate.com.au Pty Ltd (" **REA** "). REA is a subsidiary of REA Group Ltd and operates our websites on behalf of REA Group Ltd and its related companies (" **we** ", " **our** " and " **us** " in this Privacy Policy). Click [here to view our contact details](http://www.realholidays.com.au/cgi-bin/rsearch?a=v&t=hol&id=65 "Contact Us").
+We are serious about protecting the privacy of our users.  This Privacy Policy describes how we use and protect your personal data.  It applies to the [www.homeaway.com.au](http://www.homeaway.com.au/),  [www.holiday-rentals.co.uk](http://www.holiday-rentals.co.uk/) and [www.owners-direct.co.uk](http://www.owners-direct.co.uk/) and any other websites of our affiliates where this policy is linked to in the footer of the page (each referred to herein as the “Site”).  Websites of other of our affiliates may be governed by separate privacy policies and those policies will be accessible by links in the footers of such websites.  
 
-The Privacy Policy set out below outlines the manner in which we manage personal information obtained through or displayed on our websites or otherwise provided by real estate agents or visitors to the website. By using our websites, or entering into an agreement with us in relation to our websites or any of our other websites (eg to list a property or advertise on any of our websites) you are taken to have read, and agreed to the collection, use, disclosure and handling of your personal information in accordance with, this Privacy Policy. This Privacy Policy is in addition to any other terms and conditions applicable to our websites. Specific privacy terms contained in any documents made available by us should be read together with this Privacy Policy.
+The terms “users” or “you” as used in this Privacy Policy, refer to both travelers, who use the Site to look for properties to rent, and members who subscribe to the Site and list their properties for rent. 
 
-We reserve the right, at our discretion, to modify or remove portions of this Privacy Policy at any time. You should review this Privacy Policy periodically so that you are updated on any changes. We welcome your comments and [feedback](http://www.realholidays.com.au/cgi-bin/rsearch?a=feedback&t=hol&to=suggestions).
+We use information collected about you only as permitted in this Privacy Policy. This is our privacy policy, but please be aware that should you follow a link to another website, you are no longer covered by this policy. Unless otherwise defined herein, the words and phrases used in this policy have the same meaning as in the Terms and Conditions of Use - available at [Terms & Conditions.](https://web.archive.org/info/about-us/legal/terms-conditions)
 
-We do not make any representations about third party websites that may be linked to any of our websites.
+By providing information to us when subscribing, sending inquiries or otherwise using the Site, you expressly agree to this Privacy Policy.  This Privacy Policy was last updated on 15 October 2010.  We reserve the right to modify or update this policy at any time without providing prior notice.
 
-**Respecting information privacy** ****
+**Who processes your personal data, and where?**   
+Your personal data (also referred to as personal information) - that is, data that identifies you, or from which you are identifiable - will be collected, processed, stored and used by us, and passed to and processed by our subsidiaries and/or affiliated companies and other data processors acting under contract with us. Personal data contributed by or collected from users may be stored and processed in the United States or any other country in may be stored and processed in the United Kingdom, United States or any other country in which we or our affiliates, subsidiaries or agents maintain facilities.  By using our Site, you acknowledge and agree that you may be transferring your personal data outside of the country in which you have contributed it (“your country”), and that you consent to any such transfer of information outside of your country. These countries may not have similar data protection laws to those that apply in your country. However, if we transfer your personal data outside of your country in this way, we will take steps to ensure that your privacy rights continue to be protected in compliance with applicable data protection law and this Privacy Policy.
 
-We recognise the importance of protecting the privacy of information we collect that is capable of identifying an individual (" **personal information** ").   
-In collecting and handling personal information, we are bound by the Commonwealth _Privacy Act_ 1988, including the National Privacy Principles, and any other applicable privacy laws in Australia. This Privacy Policy governs the manner in which personal information will be dealt with.
+**The information we gather**   
+At various times you may contribute your personal data to us. For example, in order to process a request or enquiry you may make concerning a property or transaction, we need to know all or some of the following: your full name, address, telephone number, e-mail address, and, in the case of a member's (advertising) listing, a method of payment.  If you do not provide this information, we may not be able to process your inquiry or provide you with the services you requested. You may also contribute personal data to us at other times, such as when registering on the Site.   For further detail on our gathering of personal data, see Surveys and Newsletters below.
 
-There may be circumstances in which we need to transfer personal information outside Australia. If we do so, we strive to ensure that any organisation to which the information is transferred will be subject to binding privacy obligations. 
+**How we use your personal data**   
+Our primary purpose in collecting your personal data is to provide you with the services you requested and those which we believe will optimize your use of the Site.  You agree that we may use for personal data for the following purposes:  
+     For the services or support you request;  
+     To contact you from time to time with critical user or service updates;  
+     To send other messages that are integral to the service we provide on the Site;  
+     To customize, measure and improve our services, content and advertising;  
+     To promote the services related to the Site or those of our subsidiaries and/or affiliates;  
+     To compare information for accuracy, and verify it with third parties;  
+     To prevent activity we determine to be potentially illegal; and  
+     for the enforcement of this Privacy Policy and/or our Terms or any other purpose referenced herein or therein.  
+If you are a member, we will also be able to contact you about your account and your use of our services.
 
-**Problems or Questions** ****
+**How We May Disclose Your Personal Data**
 
-If we become aware of any ongoing concerns or problems with our websites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to this Privacy Policy, or you have a problem or complaint, please [contact us](http://www.realholidays.com.au/cgi-bin/rsearch?a=v&t=hol&id=65 "Contact Us").
+We may disclose your personal data to enforce our policies, or where we are permitted to do so by applicable law, such as to legal or government officials in response to a verified request relating to a criminal investigation, alleged illegal activity or other governmental request, provided that we will require a court order, subpoena or similar legal procedure except when we reasonably believe that use or disclosure of information is necessary to lessen or prevent a serious and imminent threat to life, health or safety or a serious threat to public health or safety; or where we reasonably believe that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of an enforcement body a) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law, b) the enforcement of laws relating to the confiscation of the proceeds of crime, c) the protection of the public revenue, d) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct, or e) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.
 
-**Further Data Protection Information** ****
+We may also share your personal data with:  
+•    One of our partners, but only if  you've requested their services or to be provided with information by them;  
+•    A third party performing services on our behalf which has agreed to keep such information confidential (such as the processing of your credit card payment or the conduct of an online survey, for example);  
+•    our subsidiaries and/or affiliates, but only for the purposes set forth in this Privacy Policy; or  
+•    other companies or business entities, in the event we are merged with or acquired by such company or business entity.
 
-For more information about privacy issues in Australia and protecting your privacy, visit the [Australian Federal Privacy Commissioner's](http://www.privacy.gov.au/) website. 
+**Newsletters**   
+As a member of the Site, you will receive our "Owner" newsletter, which is an integral part of the services we provide. Traveler users of the Site will be given the option to receive our "Traveler" newsletter when they registered with us. We and the websites of our affiliates may offer different newsletters from time to time intended to enhance the services we or they offer. Users may cancel their subscription to these newsletters at any time.
 
-**What personal information do we collect and why?** ****
+**Surveys**   
+Surveys are another method by which we gather information about our users. From time to time, we request users' input in order to evaluate potential features and services. The decision to answer a survey is completely yours. We use information gathered from surveys to improve our services.
 
-In order to provide you with services, answer your enquiries, deal with your requests or improve the services we offer you, we may collect and process the following personal information about you:
+**Enquiries**   
+Travellers may send enquiries to members via clickable links on the listings on the Site. If you choose to send an enquiry through these links, your personal information, including your email address and any other information you supply, will be visible to the member in question so that they might reply directly to you. If you call the member, you may be asked to leave a return telephone number. Do not share information in the e-mail or phone call that you are not prepared to allow them to have, including, but not limited to, credit card and bank account information. These inquiries are both sent to the individual member you selected and to our system. The resulting enquiry is available for review only by the member to whom it was initially addressed and to our customer service employees, who may be asked by members for their past enquiry information. While the content of these inquiries is not shared with any other party, we may, from time to time, use third party e-mail servers to send and track receipt of the enquiry emails, and analyze the pattern of enquiry usage reported by these third party tracking systems.
 
-  * Information, such as your name, email and other contact details (including information that you provide by filling in forms on our websites). This includes information provided at the time of registering to use our websites, subscribing to our service, posting material, requesting further services or applying for credit. We may also ask you for personal information if you report a problem with any of our websites. 
-  * If you contact us, we may keep a record of that correspondence. 
-  * We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
-  * Details of transactions you carry out through any of our websites. 
-  * Details of your visits to any of our websites including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access. 
-  * If you are a real estate agent, your contact details and a profile picture. 
+**How Do We Protect Your Personal Information Once We Have It?**   
+We take appropriate technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data. While no system is completely secure, we believe the measures implemented by our site reduce the likelihood of security problems to a level appropriate to the type of data involved. We have security measures in place to protect our user database and access to this database is restricted internally. However, it remains each user's responsibility:  
+•    To protect against unauthorized access to your use of the Site;  
+•    To ensure no-one else uses the Site while the user's machine is "logged on" to the Site service;  
+•    To log off or exit from Site when not using it; and  
+•    Where relevant, to keep his/her password or other access information secret.
 
+All personal information submitted to us is stored on a secure server. We do not store credit card numbers or related identifying information on any Site server. All such information is stored by our credit card processing partner(s), whom we contractually obligate to store such information using secure methods.  We also use third parties to help us optimize our website flow, content and advertising (see below).  All of our partners are under contract with us and they are obligated to keep your information confidential.
 
+Note that, despite the measures taken by us and the third parties we contract with, others may nevertheless unlawfully intercept or access private transmissions or data. 
 
-If we do not collect this personal information from you, we may not be able to provide you with the services or assistance you have requested.
+  **What are Cookies, Web Beacons and Clear GIFs and Why Do We Use Them?**   
+A "cookie" is a small file placed on your hard drive by certain of our web pages.   We  or third parties under contract with us may use cookies to help us analyze our web page flow, customize our services, content and advertising, measure promotional effectiveness and promote trust and safety.   Cookies are commonly used  at most major transactional websites in much the same way we use them here at our Site.
 
-**How do we use your personal information?** ****
+If you wish, you can prevent cookie files from using (non-personal) information about you by either deleting the cookie folder in your browser or by putting your browser's Privacy setting higher, but doing so will mean that (a) your use of the Site will be adversely affected (and quite possibly entirely prevented), (b) your experience of this and other sites that use cookies to enhance or personalize your experience will be adversely affected, and (c) you will not be presented with advertising that reflects the way that you use our, and other, sites. You find out how to make these changes to your browser at this site: [www.allaboutcookies.org/manage-cookies/](http://www.allaboutcookies.org/manage-cookies/).  
 
-We may use personal information in the following ways:
+We gather and share anonymised information concerning the usage of the Site by members and travelers with one or more third-party tracking companies for the purpose of reporting statistics. In this connection, some of the pages you visit on our Site use electronic images placed in the web page code, called pixel tags (also called a "clear GIFs" or "Web Beacons") that can serve many of the same purposes as cookies.
 
-  * To ensure that content from our websites is presented in the most effective manner for you and for your computer. 
-  * To provide a better service to you, for instance by automatically populating forms on our websites by which you make enquiries of selected estate agents. 
-  * To provide you with service information, products or services that you request from us. 
-  * We may (1) use personal information held about you to provide you with information about offers, promotions, goods or services, which we believe may be of interest to you and (2) share your information with our service providers and other third parties so that they can contact you directly about their offers, promotions, goods or services. If we do use your personal information in these ways, we will always give you the opportunity to request that your information not be used for further direct marketing in the future. 
-  * To allow you to participate in interactive features of our service, when you choose to do so. 
-  * To notify you about changes to our service and remind you of your password and username. 
+Web beacons may be used to track the traffic patterns of users from one page to another in order to maximize web traffic flow.Our third-party advertising service providers may also use Web Beacons to recognize you when you visit the Site and to help determine how you found the Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: <http://networkadvertising.org/consumer/opt_out.asp>
 
+**Phishing or False emails**   
+If you receive an unsolicited email that appears to be from us or one of our members that requests personal information (such as your credit card, login, or password), or that asks you to verify or confirm your account or other personal information by clicking on a link, that email was likely to have been sent by someone trying to unlawfully obtain your information, sometimes referred to as a "phisher" or "spoofer." We do not ask for this type of information in an email. Do not provide the information or click on the link. 
 
+**How do I access, correct or update my information?**   
+We allow our users the option to access, change or modify information previously provided. This may be done buy sending the request to us at [Customer Support ](http://www.holiday-rentals.co.uk/index.cfm/tgt/support_request?leftnav=none)
 
-**Estate agents**
+We may impose reasonable charges for providing access to personal information.
 
-You should be aware that submitting an enquiry regarding a property or an estate agent through our websites will result in the information being passed to the estate agent. What they then do with your information will be their responsibility. You will need to see the estate agent's privacy policy to find out how that estate agent handles your personal information. We are not responsible for the way estate agents collect, use, disclose or handle personal information.
+Once we have received your request, we will acknowledge your request within 14 days and will provide you with access to your personal information, except to the extent that:   
+a) providing access would pose a serious and imminent threat to the life or health of any individual; or b) providing access would have an unreasonable impact upon the privacy of other individuals; or  c) the request for access is frivolous or vexatious; or  d) the information relates to existing or anticipated legal proceedings between us and the individual, and the information would not be accessible by the process of discovery in those proceedings; or e) providing access would reveal our intentions in relation to negotiations with the individual in such a way as to prejudice those negotiations; or  f) providing access would be unlawful; or g) denying access is required or authorised by law; or h) providing access would be likely to prejudice an investigation of possible unlawful activity; or i) providing access would be likely to prejudice:
 
-**Who do we disclose your information to?**
+  i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; or  
+ii) the enforcement of laws relating to the confiscation of the proceeds of crime; or  
+iii) the protection of the public revenue; or  
+iv) the prevention, detection, investigation or remedying of seriously improper conduct or prescribed conduct; or  
+v) the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of its orders by or on behalf of an enforcement body; or  
+i) an enforcement body performing a lawyful security function asks HomeAway not to provide access to the information on the basis that providing access would be likely to cause damage to the security of Australia.
 
-We may disclose information held about you to the following types of organisations:
+  **How do I opt-out of receiving marketing communications from you?**   
+You may opt-out of receiving marketing communications from us by the following means:  
+1.    Contact us at [Customer Support](http://www.holiday-rentals.co.uk/index.cfm/tgt/support_request?leftnav=none),   
+2.    Follow the instructions included in each communication or newsletter,   
+3.    Use the [Unsubscribe function](http://www.holiday-rentals.co.uk/newsletter/subscribe), or   
+4.    Mail the request to us at HomeAway UK Ltd., Hythe House, 200 Shepherds Bush Rd., London W6 7NL, United Kingdom. 
 
-  * Estate agents and estate agencies. 
-  * Third party suppliers who we have engaged to provide you with goods or services on our behalf, so that they can meet your request for those goods or services. 
-  * Third party suppliers of goods and services so that they can contact you directly about their offers, promotions, goods or services. If we do disclose your personal information for this purpose, we will always give you the opportunity to request that your information not be disclosed for this purpose in future. 
-  * Relevant public authorities, our legal representatives or other concerned parties, in special situations where, either:
+**How long will we keep your personal data?**   
+We will retain your personal data only as long as is necessary for the purposes to which you consent under the Terms and Conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
 
+**How do I contact you?**   
+If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, we encourage you to contact us at [Customer Support](http://www.holiday-rentals.co.uk/index.cfm/tgt/support_request?leftnav=none)
 
-
->   * we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against anyone damaging, injuring, or interfering (intentionally or unintentionally) with our rights or property, users or anyone else who could be harmed by such activities; or 
->   * we believe, in good faith, that the law requires disclosure. 
-> 
-
-
-We also disclose real estate agent contact details (which may include a profile photo) in association with listings or advertisements on our websites.
-
-**Storage, Security and Processing**
-
-We strive to ensure the security, integrity and privacy of personal information submitted to our websites, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the internet can be guaranteed to be totally secure.
-
-However, we will endeavour to take reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also use reasonable endeavours to ensure its security on our systems.
-
-In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we are not responsible for events arising from unauthorised access to your personal information.
-
-Data (including personal data) submitted by REA’s customers and visitors to our websites may be held on servers located in Australia or in the data centres of REA’s outsourced data processors with data centres in Australia, the United States of America, Europe and Asia. The purposes of transfer of data outside of Australia are the secure storage, back-up and retrieval of data. REA has implemented policies and procedures to safeguard the secure storage and processing of data intra-group, has verified the security arrangements of its outsourced data processors and has implemented contractual arrangements intra-group and with its outsourced data processors in accordance with Privacy Act 1988 . You give consent to the transfer of personal data on these terms and for the purposes described above.
-
-**Correction and access**
-
-We will endeavour to take all reasonable steps to keep accurate and up to date any information which we hold about you. If, at any time, you discover that information held about you is incorrect, you [contact us](http://www.realholidays.com.au/cgi-bin/rsearch?a=v&t=hol&id=65 "Contact Us") to have the information corrected.
-
-You can also gain access to the personal information we hold about you, subject to certain exceptions provided for by law. To request access to your personal information, please [contact us](http://www.realholidays.com.au/cgi-bin/rsearch?a=v&t=hol&id=65 "Contact Us").
-
-**Cookies**
-
-Cookies are data that a website transfers to an individual's hard drive for record-keeping purposes. Cookies, which are industry standard and are used by most websites, including our websites, can facilitate a user's ongoing access to and use of a site. They allow us to customise our websites to your needs. 
-
-All pages on our websites are coded with measurement software which is transparent to the user. The software makes use of an invisible image at the bottom of the web page. This software stores a "cookie" in the browser, which contains a unique string. This enables them to count the number of unique browsers to our websites. This information is collected and aggregated, and in no way does this unique identifier identify a user personally. We do not and will not marry any data collected with any personal information collected on our websites. We use the independent companies, including [Nielsen/NetRatings](http://www.nielsen-online.com/) and [Omniture](http://www.omniture.com/) to measure and analyse the Internet usage across our websites. 
-
-If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature. However, you should note that cookies may be necessary to provide you with some features of our online services.
-
-**Links to Other Sites**
-
-We provide links to websites outside of our websites, as well as to third party websites. These linked sites are not under our control, and we cannot accept responsibility for the conduct of companies linked to our websites. Before disclosing your personal information on any other website, we advise you to examine the terms and conditions of using that website and its privacy statement.
-
-**Credit applications by real estate agents**
-
-If you apply to us for credit, we will ask you to authorise us to obtain personal information about you from credit reporting agencies, other credit providers, existing or previous suppliers of goods or services, your bank and certain other businesses for the purposes of assessing your application. 
-
-We will also require you to authorise us to disclose your personal information to:
-
-  * credit reporting agencies (for the purpose of obtaining a credit report); and 
-  * other credit providers, existing or previous suppliers of goods or services, your bank and certain other businesses (for the purposes of assessing your application). 
-
-
-
-In addition to the ways in which we may use personal information set out above, if you are a customer of REA, we may also use your personal information:
-
-  * to help carry out our obligations arising from any contracts entered into between you and us; 
-  * to assess your application, where you have applied to us for credit; and 
-  * by disclosing the information to debt collection agencies to recover any amounts you owe us. 
-
-
+11 February, 2011 
