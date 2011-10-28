@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voucherhub.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527150423id_/http%3A//www.voucherhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voucherhub.com privacy policy that was archived on 2011-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111028114506id_/http%3A//www.voucherhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VoucherHub.com
 
