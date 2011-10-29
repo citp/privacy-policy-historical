@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2011-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110517215053id_/http%3A//www.bookdirectrooms.com/Privacy-And-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029214533id_/http%3A//www.bookdirectrooms.com/Privacy) for the most accurate reproduction.*
 
 # Privacy And Security - BookDirectRooms.com
 
@@ -95,7 +95,8 @@ If you are dissatisfied with the outcome of your complaint, you may choose to es
 
 ### eviivo Limited
 
-Commercial House, Commercial Street, Sheffield S1 2AT
+Level 4, Horatio House  
+77 Fulham Palace Road Hammersmith, W6 8JA
 
  **E-mail:** info@eviivo.com
 
