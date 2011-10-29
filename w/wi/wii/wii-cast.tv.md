@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wii-cast.tv privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519110130id_/http%3A//www.wii-cast.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wii-cast.tv privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029084955id_/http%3A//video.wii-cast.tv/privacy) for the most accurate reproduction.*
 
-# Live TV Streaming
+# Wii-Cast | Live Broadcast, Upload and Share Videos
 
 WII-CAST.TV provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of [www.wii-cast.tv](http://www.wii-cast.tv/)(collectively and individually, the "Sites"). This Privacy Policy applies only to information that you provide to us through the Sites. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Sites. You are advised to consult this policy regularly for any changes.
 
