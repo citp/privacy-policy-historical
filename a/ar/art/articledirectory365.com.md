@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articledirectory365.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623141203id_/http%3A//articledirectory365.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articledirectory365.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029091135id_/http%3A//articledirectory365.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Article Directory 365
+# Privacy Policy « Article Directory 365
 
 [Article Directory](http://articledirectory365.com/ "More about article directory »") 365 will never sell, barter, or rent your email address to any unauthorized third party.
 
