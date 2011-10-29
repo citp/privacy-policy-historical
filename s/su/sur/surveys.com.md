@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveys.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521035002id_/http%3A//www.surveys.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveys.com privacy policy that was archived on 2011-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111029180135id_/http%3A//www.surveys.com/privacy.aspx) for the most accurate reproduction.*
 
 # Surveys.com: We Respect Your Privacy
 
@@ -12,7 +12,7 @@ This Privacy Statement presents an overview of how we collect, store, use and di
 
 For those who are not Surveys.com Members, please click [here.](http://www.gfkamerica.com/about_us/privacy/nonpanel_privacy_policy/)
 
-To View the Surveys.com Terms & Conditions, please [click here](https://web.archive.org/web/20110521035002id_/http%3A//www.surveys.com/TermsConditions_03_11.htm).
+To View the Surveys.com Terms & Conditions, please [click here](https://web.archive.org/web/20111029180135id_/http%3A//www.surveys.com/TermsConditions_03_11.htm).
 
 **WE PROTECT YOUR PRIVACY**
 
@@ -153,3 +153,74 @@ Harrison, New York 10528
 Attn: Surveys.com Community Manager 
 
 | 
+
+|  |  |  |  |   
+---|---|---  
+  
+**1.**|   
+ **Accurate Information**  
+1.1| You agree to provide true, accurate, current and complete information about Yourself when You use the Services.   
+1.2| If any information provided by You is untrue, inaccurate, obsolete or incomplete, GfK has the right to stop allowing You to use the Services.   
+1.3| You agree that You are solely responsible for evaluating the accuracy and completeness of any content appearing on the Web Site. GfK does not make any representations or warranties in relation to the content appearing on the Web Site.   
+  
+**2.**|   
+ **Service**  
+2.1| You are solely responsible for deciding whether or not You wish to use the Services.   
+2.2| Access to the Web Site may be suspended temporarily or permanently without notice, in GfK's entire discretion.   
+  
+**3.**|   
+ **Copyright**  
+3.1| You acknowledge and agree that the content of the Web Site, including but not limited to text, software, music, sound, photographs, graphics, video, is protected by copyrights, trademarks, service marks, patents, or other proprietary rights and laws.   
+3.2| You acknowledge and agree that You may not store, copy, reproduce, transmit, distribute, modify, publish, broadcast or create derivative works of such content or information except as is necessary for the normal use of the Services.   
+  
+**4.**|   
+ **Your Use of the Services**  
+4.1| The Services are directed at those who access the Web Site from the United States GfK makes no representation that the Services are available or are otherwise suitable for use outside the United States.   
+4.2| You agree not to use the Services for any purpose that is unlawful or prohibited by the Contract.   
+4.3| The Web Site may contain photos and hyperlinks to third party web sites ("Third Party Material"). Access to Third Party Material is subject to the approval of the relevant third party. GfK does not control Third Party Material and is not responsible for its content. GfK's inclusion of Third Party Material does not imply any endorsement of the Third Party Material or any association with its operators.   
+4.4| GfK reserves the right for any reason to remove without notice any Third Party Material or other contents on the Web Site. GfK reserves the right to deny in its sole discretion any user access to this Web Site or any portion thereof without notice.  
+4.5| You agree to not to use the Services to do any of the following:  
+| (a)| Defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others.   
+| (b)| Publish, post, distribute, or disseminate any defamatory, infringing, obscene, indecent, or unlawful material or information.   
+| (c)| Upload files that contain software or other material protected by intellectual property laws (or by rights of privacy of publicity) unless You own or control the rights thereto or have received all necessary consents.   
+| (d)| Upload files that contain viruses, corrupted files, or any other similar software or programs that may damage the operation of another's computer.   
+| (e)| Delete any author attributions, legal notices, or proprietary designations or labels in any file that is uploaded.   
+| (f)| Falsify the origin or source of software or other material contained in a file that is uploaded.   
+| (g)| Advertise or offer to sell any goods or services or conduct or forward surveys, contests, or chain letters.   
+| (h)| Download any file posted by another user of a Forum that You know, or reasonably should know, cannot be legally distributed in such manner.   
+  
+**5.**|   
+ **Dealings with Third Parties**  
+5.1| GfK is not an agent of any third party or any party named or linked to the Services ("Other Party") and does not have authority to act for any Other Parties. You agree that GfK (to the maximum extent permitted by applicable law) shall have no liability to you in relation to any dispute which you may have with an Other Party.   
+5.2| GfK does not control any information provided by Other Parties which is made available through the Services.   
+5.3| Your correspondence, transactions or other dealings with Other Parties available through the Services, including but not limited to payment and delivery of related goods or services, and any other terms, conditions, warranties or representations associated with such dealings, are solely between you and such Other Parties.   
+5.4| Any information you disseminate through the Services, including but not limited to e-mails sent through the Web Site and responses to surveys is done so at your own risk.   
+5.5| GfK do not monitor what Other Parties tell you through the Services.   
+5.6| GfK does not endorse and is not responsible or liable for any content, advertising, products, or other materials on or available from such parties or resources.   
+5.7| You agree not to hold GfK liable for any loss or damage of any sort incurred as a result of: the presence, availability or non-availability of the Other Parties on or through the Services; any dealings with such parties, including but not limited to attendance at events advertised; or purchase or use of goods or services offered on or through the Services.  
+  
+**6.**|   
+ **Termination**  
+6.1| Without prejudice to any remedy that GfK may have against You, GfK may terminate or suspend (without liability to You) with immediate effect and without notice Your access to, and use of the Services if GfK:   
+| (a)| Reasonably believes that You have breached any term of the Contract;   
+| (b)| Is unable to verify or determine the accuracy or validity of any information provided by You;   
+| (c)| Suspects fraudulent, abusive or illegal activity.   
+6.2| Should You object to any of the terms of the Contract, or any subsequent changes to the Contract, or become dissatisfied with the Services in any way, Your only recourse is to immediately discontinue using the Services.   
+  
+**7.**|   
+ **Limitation of Liability**  
+7.1| GfK accepts unlimited liability in respect of its fraud, or death or personal injury caused by its negligence.   
+7.2| Subject to section 7.1 You agree that GfK shall not be liable to You for any unforeseeable losses or loss of profit, revenue or business or contracts however these may arise.   
+7.3| Subject to sections 7.1 and 7.2 above. GfK shall limit its aggregate liability to You under this Agreement to a maximum sum of 1,000 USD   
+  
+**8.**|   
+ **Indemnity**  
+8.1| You will be responsible for any losses, expenses or other costs incurred by GfK which are caused by an untrue statement made deliberately by You.   
+8.2| In the event that GfK is entitled to be indemnified by You pursuant to Clause 8.1 above You agree that it may contact You through the information provided to GfK by You.   
+  
+**9.**|   
+ **General**  
+9.1| GfK reserves the right to amend and alter the Contract, such amendments will be posted on the Web Site and will come into force immediately. You may not alter either the Contract. If You do not agree to any amendments, You must stop using the Services.   
+9.2| If GfK fails to exercise or enforce a right under the Contract, that failure shall not constitute a waiver of such right or provision. If any provision of the Contract is found by a court of competent jurisdiction to be invalid, that provision shall be deemed severed and the validity and enforceability of the remaining provisions of the Contract shall not be affected.   
+9.3| The Contract shall be governed by and construed in accordance with the laws of the United States and the state of New York and both parties submit to the exclusive jurisdiction of the courts of the United States and the state of New York.   
+9.4| Neither party shall be liable for any breach of the Contract due to any cause beyond its reasonable control. 
