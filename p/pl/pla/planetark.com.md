@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetark.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630000703id_/http%3A//www.planetark.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetark.com privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030235952id_/http%3A//www.planetark.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Statement - Planet Ark
 
