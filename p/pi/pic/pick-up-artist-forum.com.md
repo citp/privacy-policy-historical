@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219041454id_/http%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pick-up-artist-forum.com privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030132311id_/http%3A//www.pick-up-artist-forum.com/privacy.php) for the most accurate reproduction.*
 
-# Pick Up Artist :: Pick-up Artist Forum: Videos, Pictures, Thousands of PUA Articles, & FREE Membership!
+# #1 PUA Forum :: Pick Up Artist Mastery
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
