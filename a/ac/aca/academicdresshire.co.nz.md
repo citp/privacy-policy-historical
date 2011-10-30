@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academicdresshire.co.nz privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630045047id_/http%3A//www.academicdresshire.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academicdresshire.co.nz privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030052014id_/http%3A//www.academicdresshire.co.nz/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
@@ -39,6 +39,6 @@ Academic Dress Hire believes that all website, confidentiality and privacy polic
 
 ## Location and parking Information
 
-[](https://web.archive.org/web/20110630045047id_/http%3A//contact)[](https://web.archive.org/parking) For information about where you can find us and your parking options please [visit our parking page.](https://web.archive.org/parking)
+[](https://web.archive.org/web/20111030052014id_/http%3A//contact)[](https://web.archive.org/parking) For information about where you can find us and your parking options please [visit our parking page.](https://web.archive.org/parking)
 
 Our physical address is 35 The Strand, Parnell.  We are between Firestone Tyres and Ace Car Rentals
