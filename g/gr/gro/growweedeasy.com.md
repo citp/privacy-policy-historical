@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the growweedeasy.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630013412id_/http%3A//growweedeasy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the growweedeasy.com privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030050809id_/http%3A//growweedeasy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grow Weed Easy
 
@@ -20,6 +20,6 @@ We also use third party advertisements on GrowWeedEasy.com to support our site
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security.  However, this can affect how you are able to interact with our site as well as other websites.  This could include the inability to login to services or programs, such as logging into forums or accounts. However, in most cases you would still be able to visit all pages of the site and read all the free cannabis growing information provided.
 
-  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fwww.growweedeasy.com%2Fprivacy-policy&linkname=Privacy%20Policy%20%7C%20Grow%20Weed%20Easy)
+  * [](http://www.addtoany.com/share_save?linkurl=http%3A%2F%2Fgrowweedeasy.com%2Fprivacy-policy&linkname=Privacy%20Policy%20%7C%20Grow%20Weed%20Easy)
 
 
