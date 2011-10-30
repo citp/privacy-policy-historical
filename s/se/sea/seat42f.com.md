@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630155210id_/http%3A//www.seat42f.com/seat42f-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seat42f.com privacy policy that was archived on 2011-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111030021517id_/http%3A//www.seat42f.com/seat42f-privacy-policy.html) for the most accurate reproduction.*
 
 # Seat42f Privacy Policy
+
+     Saturday, 15 September 2007 22:00 
+     Seat42f 
 
 This is the web site of **SEAT42F.COM**.  
 
@@ -36,10 +39,4 @@ This Privacy Policy was last modified on September 17, 2010 and is effective imm
   
 Copyright © 2010 Seat42f - All Rights Reserved.
 
-  
-
-
 * * *
-
-[< Prev](https://web.archive.org/amc-orders-the-walking-dead-to-series.html) |    |  [Next >](https://web.archive.org/connect-with-seat42f.html)  
----|---|---
