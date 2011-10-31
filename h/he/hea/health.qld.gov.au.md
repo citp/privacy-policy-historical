@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514233940id_/http%3A//health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the health.qld.gov.au privacy policy that was archived on 2011-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111031183227id_/http%3A//www.health.qld.gov.au/masters/privacy.asp) for the most accurate reproduction.*
 
 # Queensland Health Privacy and Confidentiality Statement
 
@@ -41,7 +41,7 @@ Access to your health information is usually provided simply through our [‘Hea
 
 You also have the right to request access to information about you under the Information Privacy and/or Right to Information Acts.  If there is something in the information that is incorrect, or which you do not agree with, you can request that it be amended.
 
-If you wish to make an access application you should send your application to the delegated decision-maker for the health service district where you have been treated. A list of [ decision-makers](http://www.health.qld.gov.au/foi/docs/foi_contact_officers.pdf) with their contact details is available on our website.
+If you wish to make an access application you should send your application to the delegated decision-maker for the health service district where you have been treated. A list of [ decision-makers](http://www.health.qld.gov.au/foi/docs/rti_ip_contacts.pdf) with their contact details is available on our website.
 
 The Legal Unit for Queensland Health is also available to provide advice to people seeking assistance in making applications. Phone queries should be directed to (07) 3234 1735, or the Unit can be contacted via email at: [ RTI-Privacy@health.qld.gov.au](mailto:FOI@health.qld.gov.au)
 
@@ -49,5 +49,5 @@ The Legal Unit for Queensland Health is also available to provide advice to peop
 
 Further information on our privacy obligations is available on our Right to Information and Information Privacy Website at: <http://www.health.qld.gov.au/foi/rti.asp>
 
-Last Updated: 02 July 2009  
-Last Reviewed: July 2009
+Last Updated: 17 June 2011  
+Last Reviewed: June 2011
