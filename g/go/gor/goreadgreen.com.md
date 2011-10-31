@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goreadgreen.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501180215id_/http%3A//goreadgreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goreadgreen.com privacy policy that was archived on 2011-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111031014853id_/http%3A//goreadgreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Read Green Initiative
 
