@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503042210id_/http%3A//www.betseyjohnson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betseyjohnson.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101000827id_/http%3A//www.betseyjohnson.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
 
 # Betsey Johnson - Customer Service -
 
