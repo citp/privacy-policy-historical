@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imfriends.net privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502095529id_/http%3A//imfriends.net/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imfriends.net privacy policy that was archived on 2011-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111031172034id_/http%3A//imfriends.net/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy » Share Pictures Upload Music Write Blogs Free Music Space Watch Videos Sell Items
+# PRIVACY POLICY » Share Pictures Upload Music Write Blogs Free Music Space Watch Videos Sell Items
 
 Your Privacy 
 
