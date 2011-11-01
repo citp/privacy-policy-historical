@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2011-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110411230549id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redlobster.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162309id_/http%3A//www.redlobster.com/legal/privacy.asp) for the most accurate reproduction.*
 
 # Red Lobster - Privacy Policy
 
@@ -20,8 +20,10 @@ It is our policy not to distribute, sell, rent or in any way make available, you
 
 When you participate in site features such as newsletters, sweepstakes, recipe sharing, fresh to your door, etc., we may use the personally identifiable information you provide through those features in the following ways, unless stated otherwise: 
 
-  * we may store and process that information to better understand your needs and how we can improve our products and services, and 
+  * we may store and process that information to better understand your needs and how we can improve our products and services, and
+
   * we may communicate with you via e-mail or postal mail.
+
 
 
 
@@ -39,4 +41,4 @@ If you have questions or concerns regarding our Privacy Policy or use of your in
 
 1000 Darden Center Drive  
 Orlando, Florida 32837   
-(407) 245-4000 
+(407) 245-4000
