@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2011-04-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110421230144id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formetocoupon.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101142823id_/http%3A//www.formetocoupon.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -184,6 +184,18 @@
 		 	
 		}
 
+		function keywordProducts(mcatid,keyword) {
+		 	
+			var el = document.getElementById(obj);
+			
+			var num = Math.random();
+		 	var urll = "keywordProducts.php?catid=" + escape(mcatid) + "&q=" + escape(keyword) + "&rnd=" + escape(num);
+		 	request.open("GET", urll, true);
+		 	request.onreadystatechange = updatePageBlock;
+		 	request.send(null);
+		 	
+		}
+		
 		function updatePage() {
 			if (request.readyState == 4) {
 				if (request.status == 200) {
@@ -204,7 +216,7 @@
 			}
 		}
 		
-		function addMerchant(mid,thediv,user) {
+		function addMerchant(mid,thediv,user,accountid) {
 			var el = document.getElementById(thediv);
 			if ( el.style.display != 'none' ) {
 				el.style.display = 'none';
@@ -213,7 +225,7 @@
 			}
 			document.getElementById("yourMerchants").innerHTML = "<div align=center><img src=\"http://www.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can add more merchants while loading)</div>";
 			var num = Math.random();
-		 	var urll = "addMerchant.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
+		 	var urll = "addMerchant.php?u=" + escape(user) + "&a=" + escape(accountid) + "&m=" + escape(mid) + "&rnd=" + escape(num);
 		 	request.open("GET", urll, true);
 		 	request.onreadystatechange = updateYourMerchants;
 		 	request.send(null);
@@ -270,7 +282,7 @@
 			}
 		}
 		
-		function removeMerchant(mid,thediv,user) {
+		function removeMerchant(mid,thediv,user,accountid) {
 			var el = document.getElementById(thediv);
 			if ( el.style.display != 'none' ) {
 				el.style.display = 'none';
@@ -279,7 +291,7 @@
 			}
 			document.getElementById("unselectedMerchants").innerHTML = "<div align=center><img src=\"http://www.formetocoupon.com/images/ajax-loader.gif\" border=0 style='padding-top:50px;'><p>(You can remove more merchants while loading)</div>";
 			var num = Math.random();
-		 	var urll = "removeMerchant.php?u=" + escape(user) + "&m=" + escape(mid) + "&rnd=" + escape(num);
+		 	var urll = "removeMerchant.php?u=" + escape(user) + "&a=" + escape(accountid) + "&m=" + escape(mid) + "&rnd=" + escape(num);
 		 	request.open("GET", urll, true);
 		 	request.onreadystatechange = updateUnselectedMerchants;
 		 	request.send(null);
