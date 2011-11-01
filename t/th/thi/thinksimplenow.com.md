@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinksimplenow.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130234456id_/http%3A//thinksimplenow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinksimplenow.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101111641id_/http%3A//thinksimplenow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Think Simple Now
 
@@ -62,6 +62,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 Popular search terms for this article:
 
-  * [to process transactions privacy sample simple](http://thinksimplenow.com/privacy/ "to process transactions privacy sample simple")
-
-
+[sample simple privacy policy](http://thinksimplenow.com/privacy/ "sample simple privacy policy"), [simple privacy policy](http://thinksimplenow.com/privacy/ "simple privacy policy"), [sample simple website privacy](http://thinksimplenow.com/privacy/ "sample simple website privacy"), [simple privacy statement for websites](http://thinksimplenow.com/privacy/ "simple privacy statement for websites"), [to process transactions privacy sample simple](http://thinksimplenow.com/privacy/ "to process transactions privacy sample simple"), [We collect information from you when you place an order subscribe to our newsletter or respond to a survey](http://thinksimplenow.com/privacy/ "We collect information from you when you place an order subscribe to our newsletter or respond to a survey"), [web think simple](http://thinksimplenow.com/privacy/ "web think simple")
