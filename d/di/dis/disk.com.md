@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disk.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211183735id_/http%3A//www.disk.com/pages/privacy_policy/123.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disk.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223413id_/http%3A//www.disk.com/pages/privacy_policy/123.php) for the most accurate reproduction.*
 
 # CD Duplication, CD DVD Replication and DVD Duplication Services
 
