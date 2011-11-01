@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311113447id_/http%3A//www.jinx.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jinx.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143203id_/http%3A//www.jinx.com/privacy.aspx) for the most accurate reproduction.*
 
 # J!NX : Privacy Policy
 
-J!NX is committed to protecting your privacy online. We do everything we can to make this online experience smooth and enjoyable. Gathering data regarding our customers is necessary in order to bill and ship orders with accuracy. Please read the following to understand how this information is used.
+[](https://web.archive.org/home.aspx) Privacy Policy
 
   
 
+
+##  Privacy Policy
+
+J!NX is committed to protecting your privacy online. We do everything we can to make this online experience smooth and enjoyable. Gathering data regarding our customers is necessary in order to bill and ship orders with accuracy. Please read the following to understand how this information is used.
 
   1. What information does J!NX collect?
   2. What information do parties other than J!NX collect?
@@ -16,6 +20,8 @@ J!NX is committed to protecting your privacy online. We do everything we can to 
   7. Changes to our Privacy Policy
 
 
+
+* * *
 
   
 J!NX asks for billing and shipping address information when a customer is ready to checkout. This address information is not, and WILL NOT, be sold to other companies to encourage more junk mail. We keep all customer information private. We also require a valid phone number. This helps us cut down on fraud and protect the online shopper.
@@ -62,3 +68,6 @@ From time to time, we may change our Privacy Policy. We will post those changes 
 Back to Top
 
 This version of the Jinx Privacy Policy is effective June 1, 2008.
+
+  
+
