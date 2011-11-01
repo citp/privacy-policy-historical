@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2010-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101012133435id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donedeal.ie privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123441id_/http%3A//help.donedeal.ie/info/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - 2 Feb 2010 | DoneDeal Help
+# Privacy Policy | DoneDeal Help
 
 ## 1\. Introduction
 
@@ -66,7 +66,7 @@ We use the Other Data gathered from visitors to the DoneDeal Website in an aggre
 
 ### Cookies
 
-This website uses "cookies”. A cookie is a little piece of data stored by the browser on the hard drive of your computer, at the request of our server. Cookies contain information that is transferred to your computer’s hard drive. On revisiting DoneDeal our computer server will recognise the cookie, giving us information about your last visit. We may use cookies (including flash cookies) to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to the DoneDeal Website - our cookies are not available to other websites. Cookies help us to improve DoneDeal and to deliver a better and more personalised service. They enable us:
+This website uses "cookies”. A cookie is a little piece of data stored by the browser on the hard drive of your computer, at the request of our server. Cookies contain information that is transferred to your computer’s hard drive. On revisiting DoneDeal our computer server will recognise the cookie, giving us information about your last visit. We may use cookies (including flash cookies) to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to the DoneDeal Website – our cookies are not available to other websites. Cookies help us to improve DoneDeal and to deliver a better and more personalised service. They enable us:
 
   1. to estimate our audience size and usage pattern;
   2. to store information about your preferences, and so allow us to customise DoneDeal according to your individual interests; and
@@ -78,7 +78,7 @@ You are always free to decline our cookies, if your browser permits, by activati
 
 We also participate in the Google Adsense programme and we allow Google and other third parties that participate in Google Adsense to use a type of cookie called the “DoubleClick DART” cookie also on our Website. Please note that Google is a third party and Clause 4 below applies to Google’s use of cookies via our website. Google uses cookies to serve ads to you on the Website. A persistent cookie gets entered by your web browser into the cookie folder on your computer’s hard drive. A persistentcookie remains in that cookie folder, which is maintained and governed by your web browser, after you close your browser program. The DoubleClick DART cookie is a persistent cookie used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. The DoubleClick DART cookie consists of the name of the domain that set the cookie (“ad.doubleclick.net”), the lifetime of the cookie, and a “value.” DoubleClick’s DART technology used by Google generates a unique series of characters for the “value” portion of the cookie.
 
-When you visit a Google partner's website and either view or click on an ad, a DoubleClick DART cookie may be dropped on your browser. The manner in which the “DoubleClick DART” cookie works enables Google and its partners to display ads to you on the Website and/or other sites on the Internet. You may opt out of the use of the DoubleClick DART used by Google. Instructions on how to opt-out are available from Google and are set out in this Google ad and content network privacy policy: <http://www.google.com/privacy_ads.html> and more information regarding the “DoubleClick DART cookie” please visit: <http://www.doubleclick.com/privacy/faq.aspx>
+When you visit a Google partner’s website and either view or click on an ad, a DoubleClick DART cookie may be dropped on your browser. The manner in which the “DoubleClick DART” cookie works enables Google and its partners to display ads to you on the Website and/or other sites on the Internet. You may opt out of the use of the DoubleClick DART used by Google. Instructions on how to opt-out are available from Google and are set out in this Google ad and content network privacy policy: <http://www.google.com/privacy_ads.html> and more information regarding the “DoubleClick DART cookie” please visit: <http://www.doubleclick.com/privacy/faq.aspx>
 
 ## 4\. Disclosure of Information to Third Parties and Advertising
 
@@ -105,7 +105,7 @@ We will notify you when information about you may be provided to third parties i
 
 We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership, purchase or transfer of all or substantially all of the business or assets related to the DoneDeal Website or all or part of Done Deal Limited provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
-You agree that you have access to other users' personal information when you use the DoneDeal Website, or as a result of any related communication or transaction. You agree that you will only use another user’s personal information to contact the person for the purposes of buying or selling the goods or services to which the users' personal information is connected. If other user subsequently agrees that you may use their personal information for any other purpose then that is a matter for you and the other person to agree. Unless you have the other DoneDeal Website user’s express permission or our express written permission you may not disclose or contact another user for any purpose other than to conduct transactions for goods or services advertised on the DoneDeal Website.
+You agree that you have access to other users’ personal information when you use the DoneDeal Website, or as a result of any related communication or transaction. You agree that you will only use another user’s personal information to contact the person for the purposes of buying or selling the goods or services to which the users’ personal information is connected. If other user subsequently agrees that you may use their personal information for any other purpose then that is a matter for you and the other person to agree. Unless you have the other DoneDeal Website user’s express permission or our express written permission you may not disclose or contact another user for any purpose other than to conduct transactions for goods or services advertised on the DoneDeal Website.
 
 ## 5\. Security, Transfer and Control of personal data
 
@@ -133,7 +133,7 @@ DoneDeal may, from time to time, contain links to and from the websites of our p
 
 ## 9\. Access by children
 
-If you are aged 16 or under you must get one or your parents or a guardian's permission before providing personal data to us by using the DoneDeal Website. If you do not have this permission you should not use the DoneDeal Website. We may ask you at any time to confirm and produce this permission in writing.
+If you are aged 16 or under you must get one or your parents or a guardian’s permission before providing personal data to us by using the DoneDeal Website. If you do not have this permission you should not use the DoneDeal Website. We may ask you at any time to confirm and produce this permission in writing.
 
 ## 10\. Questions or Comments
 
