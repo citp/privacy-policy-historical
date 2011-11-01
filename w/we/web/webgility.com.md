@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004000550id_/http%3A//www.webgility.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgility.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233310id_/http%3A//www.webgility.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy Policy: Webgility
-
-## download 15 day free trial
-
-Please fill out the form below. We will verify your request and reply with download details. Please ensure that all your information is accurate before submitting the form. If you're a designer/developer, visit the [developers page](https://web.archive.org/web/20091004000550id_/http%3A//www.webgility.com/developers.php)
-
-[Home](https://web.archive.org/) **Privacy Policy**
+# Webgility Privacy Policy
 
 At Webgility, we place the highest importance on respecting and protecting the privacy of our customers. Our most important asset is our relationship with you. We want you to feel comfortable and confident when using our Web sites. Therefore, we would like to share with you the following principles that govern our information practices and other privacy aspects of our Web sites. This privacy statement defines privacy aspects specific to www.webgility.com. Throughout this policy, we refer to information that personally identifies you as "personal information".  
 **  
@@ -35,4 +29,4 @@ You can update or correct your contact information relating to your Webgility ac
 If you have privacy-related questions that are not addressed here, please contact us by visiting [www.webgility.com](http://www.webgility.com/).  
 If we make material changes to any of our privacy policies or practices regarding personal information we will update our statement and post a notice on our site 30 days before they take effect.
 
-Last Updated: Feb 1, 2009
+Last Updated: May 1, 2011 
