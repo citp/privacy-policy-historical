@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessmarketingreview.com privacy policy that was archived on 2011-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110302143554id_/http%3A//businessmarketingreview.com/planprofits/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessmarketingreview.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002236id_/http%3A//businessmarketingreview.com/planprofits/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -125,7 +125,4 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 COPYRIGHT AND LICENSE
 
-This “Privacy Policy” is copyrighted by Business Marketing Review and is fully licensed for use by this website. If you wish to lawfully use this Privacy Polecy on your website, contact support at BusinessMarketingReview.com for licensing information. 
-
-  
-
+This “Privacy Policy” is copyrighted by Business Marketing Review and is fully licensed for use by this website. If you wish to lawfully use this Privacy Polecy on your website, contact support at BusinessMarketingReview.com for licensing information.
