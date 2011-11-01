@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gianteagle.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119005120id_/http%3A//www.gianteagle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gianteagle.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000014id_/http%3A//www.gianteagle.com/privacy) for the most accurate reproduction.*
 
 # Giant Eagle - Privacy Policy
 
-[Home](https://web.archive.org/web/20110119005120id_/http%3A//www.gianteagle.com/Default.aspx)  > Privacy Policy
+[Home](https://web.archive.org/web/20111102000014id_/http%3A//www.gianteagle.com/Default.aspx)  > Privacy Policy
 
 ## GIANT EAGLE® PRIVACY POLICY
 
@@ -11,7 +11,7 @@ Your privacy is important to Giant Eagle® and we are committed to protecting yo
 This Web site is controlled by Giant Eagle® in the United States and is subject to its laws.
 
   1. **What Kind of Information is Collected About You?**
-    1. The Giant Eagle Advantage Card®. In order to provide you with the benefits of the Giant Eagle Advantage Card® program (including the accrual and use of fuelperks!® and foodperks™!), Giant Eagle® must obtain certain information including your name and address, your record of purchases, and other information that you may elect to give (“Information”). You voluntarily provided some of this Information when you applied for your Giant Eagle Advantage Card® and the Information is supplemented each time you use the Card. Giant Eagle® collects and retains this Information whether or not you register on or use this Web site. You may elect to register your Card at the Web site which will make this Information accessible to you through the Web site.
+    1. The Giant Eagle Advantage Card®. In order to provide you with the benefits of the Giant Eagle Advantage Card® program (including the accrual and use of fuelperks!® and foodperks!™), Giant Eagle® must obtain certain information including your name and address, your record of purchases, and other information that you may elect to give (“Information”). You voluntarily provided some of this Information when you applied for your Giant Eagle Advantage Card® and the Information is supplemented each time you use the Card. Giant Eagle® collects and retains this Information whether or not you register on or use this Web site. You may elect to register your Card at the Web site which will make this Information accessible to you through the Web site.
 
 Your Giant Eagle Advantage Card® number is not personally identifiable Information unless it is accompanied by your name, address, social security number or password.
 
