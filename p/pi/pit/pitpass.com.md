@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pitpass.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127162657id_/http%3A//www.pitpass.com/src/static/pitpass_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitpass.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114357id_/http%3A//www.pitpass.com/src/static/pitpass_privacy.php) for the most accurate reproduction.*
 
-# pitpass - the latest, hottest F1, GP2, GP2 Asia & GP3 news
+# pitpass - the latest, hottest F1 news
 
 At **pitpass** we take privacy issues relating to users of our web site extremely seriously. We respect your personal information and will hold that information as required by Data Protection legislation.
 
