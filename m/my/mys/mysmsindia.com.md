@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101084126id_/http%3A//mysmsindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmsindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101093028id_/http%3A//mysmsindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Policy | FREE SMS | SEND FREE SMS TO INDIA | WAY2SMS | BULK SMS | SMS INDIA
 
 Privacy Policy
 
-MicroNet Computers and its subsidiaries (www.mysmsindia.com) takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by MySmsIndia.com you agree to the collection and use of your data by MySmsIndia in the manner provided in this Privacy Policy.
+Micronet Infocom & logistics Private limited and its subsidiaries (www.mysmsindia.com) takes your privacy seriously. Please read the following to learn more about our privacy policy.You are advised to please read the Privacy Policy carefully. By accessing the services provided by MySmsIndia.com you agree to the collection and use of your data by MySmsIndia in the manner provided in this Privacy Policy.
 
 What this Privacy Policy Covers
 
@@ -49,7 +49,7 @@ We use your Mobile number to send you:
 * Password reminder and Registration confirmation  
 * Special feature updates  
 * Event based services such as renewal notices, invites, email alerts , reminders etc.,  
-* Promotional SMSes on behalf of our alliance partners
+* Promotional SMSes on behalf of our alliance partners,clients & to promote various other units of Micronet Infocom & logistics Private limited
 
 We use your personal information to:
 
@@ -95,7 +95,7 @@ Security
 We follow generally accepted industry standards to protect the personal information and email address, Mobile Number submitted to us, both during transmission and once we receive it. Youe MySmsIndia Account is password protected.No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information and email address and Mobile Number, we cannot guarantee its absolute security.
 
 if you have any questions about security on our Web site, you can send email us at  
-support@MySmsIndia.com
+info@MySmsIndia.com
 
 Your Preferences to Edit and Delete Your Account Information
 
@@ -108,6 +108,8 @@ Policy Updates
 We reserve the right to change or update this policy at any time by placing a prominent notice on our site. Such changes shall be effective immediately upon posting to this site.
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, or by means of a notice on our homepage.
+
+If you do not agree with any term than please do not register or do not use our services
 
 If you have questions or suggestions email us at info@MySmsIndia.com
 
