@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet-success-system.com privacy policy that was archived on 2010-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101013180811id_/http%3A//www.hunteridge.com/disclosure/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet-success-system.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001348id_/http%3A//www.hunteridge.com/disclosure/privacy.txt) for the most accurate reproduction.*
 
 # 
 
