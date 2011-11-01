@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ensidia.com privacy policy that was archived on 2011-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110131142135id_/http%3A//manaflask.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ensidia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154521id_/http%3A//manaflask.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Manaflask - Help and about
 
