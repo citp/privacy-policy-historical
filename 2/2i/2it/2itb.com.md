@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2itb.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518155334id_/http%3A//2itb.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2itb.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101212115id_/http%3A//www.2itb.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # web hosting provider, domain hosting, create a free web site, free sub domain, free email service
 
