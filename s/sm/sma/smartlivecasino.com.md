@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartlivecasino.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224065159id_/http%3A//www.smartlivecasino.com/security-and-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartlivecasino.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141137id_/http%3A//livecasino.smartlivegaming.com/security-and-privacy.html) for the most accurate reproduction.*
 
 # Smart Live Casino | Security and Privacy
 
@@ -49,8 +49,7 @@ Please note that you are able to make the majority of these changes yourself. Si
 
 If you ever need to write to us, please use:
 
-**Customer Service Manager**  
-Daniel Williams   
+**Head of Customer Service**  
 Smart Gaming Group   
 14-16 Regent Street  
 London   
