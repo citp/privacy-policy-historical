@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629035601id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004512id_/http%3A//site.covestor.com/privacy) for the most accurate reproduction.*
 
 # Privacy on Covestor
 
-### Last updated 17 August 2010
+### Last updated 12 July 2011
 
 Covestor Limited have adopted this policy with recognition that protecting the privacy and security of the personal information we obtain about our members, clients and model managers is an important responsibility. We also know that you expect us to service you in an accurate and efficient manner. To do so, we must collect and maintain certain personal information about you.
 
@@ -29,9 +29,9 @@ This policy outlines the types of information we collect about you and how we us
 
     2. to persons assessing our compliance with industry standards (e.g. professional licensing authorities, etc.);
 
-    3. our attorneys, accountants, and auditors; or (iv) as otherwise provided by law.
+    3. our attorneys, accountants, and auditors; or as otherwise required by government agencies and other third parties by law.
 
-    4. We are permitted by law to disclose the non-public personal information about you to governmental agencies and other third parties in certain circumstances (such as third parties that perform administrative or marketing services on our behalf or for joint marketing programs). These third parties are prohibited to use or share the information for any other purpose.
+    4. to third parties in certain circumstances (such as third parties that perform administrative or marketing services on our behalf or for joint marketing programs). These third parties are prohibited to use or share the information for any other purpose.
 
   2. If you decide at some point to either terminate our services or become an inactive client or publisher, we will continue to adhere to our privacy policy, as may be amended from time to time.
 
