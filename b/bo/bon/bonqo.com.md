@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonqo.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621034402id_/http%3A//www.bonqo.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonqo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122227id_/http%3A//www.bonqo.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Bonqo: privacy_policy
 
