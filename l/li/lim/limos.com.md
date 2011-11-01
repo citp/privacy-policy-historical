@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2010-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100430182454id_/http%3A//www.limos.com/customers/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limos.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145829id_/http%3A//www.limos.com/customers/privacy_policy) for the most accurate reproduction.*
 
 # 
-
-[My Account](https://web.archive.org/my-account)
-
-  * Help from Limos.com
-  * **Online:** [Search Customer Support](https://web.archive.org/customers/faqs) to find answers to your questions.
-
-**Call** Customer Support at 1-866-546-6726 (866-LimosCom) 
-
-**Outside US/Canada**  
-1-404-614-7297  
-(tolls apply)
-
-**Email** us at  
-[customerservice@limos.com](mailto:customerservice@limos.com)  
-(Please allow 24 hours for response. For urgent questions, please call.)
-
-
-
 
 Limos.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. **By visiting Limos.com, you are accepting the practices described in this Privacy Policy.** For clarity, the policies below apply to visitors to the following Limos.com, LLC Web sites: Limos.com, Limousinesonline.com and Limoforsale.com (“Customers”). _Note: If you are a limousine company enrolled in the Limos.com service (an “LC”), the terms governing your use of the site and confidentiality are provided in your Terms of Service agreement with Limos.com._
 
