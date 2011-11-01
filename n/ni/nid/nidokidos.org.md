@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nidokidos.org privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426031257id_/http%3A//www.nidokidos.org/legal/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nidokidos.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132310id_/http%3A//www.nidokidos.org/legal/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
