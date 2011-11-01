@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the euro-pic.eu privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430151304id_/http%3A//www.euro-pic.eu/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euro-pic.eu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122050id_/http%3A//www.euro-pic.eu/content-privacy.html) for the most accurate reproduction.*
 
-# euro-pic.eu -
+# Euro-pic.eu -
 
 'This Site' is committed to protecting the privacy of the personal information of individuals / users and/or companies who use our services.. 
 
