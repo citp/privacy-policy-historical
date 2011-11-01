@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feelunique.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629024608id_/http%3A//www.feelunique.com/content/security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feelunique.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002520id_/http%3A//www.feelunique.com/content/security) for the most accurate reproduction.*
 
 # Website security - feelunique.com
 
@@ -9,9 +9,9 @@ feelunique.com is a Comodo Secure Site. To ensure that this is a legitimate Como
 
 ## Privacy Policy Statement
 
-We promise to meet internationally recognised standards for protecting privacy by fully complying with the requirements of [Jersey's Data Protection](http://www.dataprotection.gov.je/) Laws.This site's web server uses cookies only for collecting general user statistical information for internet system administration and general user statistical information for internet system administration purposes.
+We promise to meet internationally recognised standards for protecting privacy by fully complying with the requirements of [Jersey's Data Protection](http://www.dataprotection.gov.je/) Laws.This site's web server uses cookies only for collecting general user statistical information for internet system administration purposes.
 
-This Privacy Policy Statement is only applicable to the site and does not extend to any other internally or externally linked website which should have it's own Privacy Policy Statement.
+This Privacy Policy Statement is only applicable to the site and does not extend to any other internally or externally linked website which should have it's own Privacy Policy Statement and marketing purposes as described in the section below, Cookies.
 
 ## Cookies
 
@@ -23,7 +23,7 @@ For further information about managing and disabling cookies on your computer se
 
 ## Your Personal Security
 
-Your security is guaranteed because feelunique.com uses the latest security measures to protect your details when you shop with us. We use 128-bit SSL Software to encrypt your payment card information when you place an order on our secure server. For your added security all payment transactions are processed automatically by [Sage Pay](http://www.sagepay.com/), therefore feelunique.com is not party to your personal credit card or bank details.
+Your security is guaranteed because feelunique.com uses the latest security measures to protect your details when you shop with us. We use 128-bit SSL Software to encrypt your payment card information when you place an order on our secure server. For your added security all payment transactions are processed automatically by [Barclaycard SmartPay](http://www.barclaycard.com/smartpay/en/), therefore feelunique.com is not party to your personal credit card or bank details.
 
 All information you give us is kept completely confidential.
 
