@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the incgamers.com privacy policy that was archived on 2011-04-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110402010758id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the incgamers.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102001131id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en"><head>
 		<title>IncGamers</title>
@@ -7,18 +7,37 @@
 		<meta name="keywords" content="videogames, news, xbox,PC,xbox 360, 360,DS, Nintendo DS, Nintendo Wii, Playstation 2, PS3, Playstation 3, reviews, previews, videos, forums">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="author" content="IncGamers">
-		<link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css?01122010">
-		<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="/Feeds/Games/soon.xml">
-		<link rel="alternate" type="text/xml" title="RSS .92" href="/Feeds/Games/soon.xml">
-		<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="/Feeds/Games/soon.xml">
+				<link rel="stylesheet" type="text/css" media="screen" href="/css/screen.css?170820112">
 		<link rel="shortcut icon" type="/image/ico" href="/favicon.ico">
-							<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.thickbox.css?01122010">
-					<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css?01122010">
+							<link rel="stylesheet" type="text/css" media="screen" href="/css/jquery.thickbox.css?170820112">
+					<link rel="stylesheet" type="text/css" media="screen" href="/css/all.css?170820112">
 				
 
-		<script type="text/javascript" src="/js/jquery.js"></script>
+		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript" src="/js/jquery.js"></script>
 		<script type="text/javascript" src="/js/inc.javascript.js"></script>
+		
+			<script type="text/javascript">
+				function activateNavigation() {
+					var $navContainer = $('#nav_links');
+					$('.content_nav', $navContainer).hover(
+						function() {
+							$('.dropDown', this).show();
+						} ,
+						function() {
+							$('.dropDown', this).hide();
+						}
+					);
+				}
+			</script>
+			
+			
+		
+		
+		
 		<script type="text/javascript"></script>
+			
+		
+		
 		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 		
 				<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
@@ -36,25 +55,55 @@
 				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamersTakeover");
 				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamersFooter");
 				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamesToolBar");
+				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamersPrestitial");
+				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamers300x75");
+				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamersTakeoverROS");
+				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamers360-728-Home");
+				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamersPC-728-Home");
+				GA_googleAddSlot("ca-pub-0633797259831697", "IncGamersPS3-728-Home");
 				</script>
 				<script type="text/javascript">
 				GA_googleFetchAds();
 				</script>
-		
+		<!-- IncGamersPrestitial -->
+<script type="text/javascript">
+GA_googleFillSlot("IncGamersPrestitial");
+</script>
 		
 	</head>
 		
-	<body onload="initFB();">
+	<body id="mainPage">
+	
+				
+		<!-- Facebook Comments -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+		<!-- Facebook Comments -->
+			
+
+	
+	
+	
 		<!-- This is the main file that needs to be included into the webpage -->
-		<script src="http://static.new.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+		<!-- <script src="http://static.new.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script> -->
 		<!-- end of facebook -->
+
+
+
+
 		
 		
 	<style type="text/css">
 		/* Header CSS */
 
 		#header_full {
-			background:url("http://static.incgamers.com/incimages/incgamers-header-back.png") no-repeat scroll center 0 #000000;
+			background:url("http://testinc.incgamers.com/images/header_back.png") no-repeat scroll center 0 transparent;
 			border-bottom:0 solid #212220;
 			cursor:auto;
 			height:140px;
@@ -96,7 +145,7 @@
 					clear:both;
 					list-style:none outside none;
 					margin:0;
-					padding:0;
+					padding:0 0 0 20px;
 				}
 					#nav ul li {
 						display:inline;
@@ -104,16 +153,14 @@
 						padding:0;
 					}
 					#nav ul li a {
-						/*background:url("http://static.incgamers.com/incimages/nav_button.png") repeat-x scroll left top transparent;*/
 						float:left;
 						color:#FFFFFF;
 						height:20px;
 						line-height:21px;
-						margin:0 2px 0 0;
+						margin:0 20px 0 0;
 						padding:0;
 						text-align:center;
 						text-decoration:none;
-						width:56px;
 						font-size:11px;
 					}
 						#nav ul li a:hover {
@@ -144,7 +191,7 @@
 					top:9px;
 					width:140px;
 				}
-				#filter a {
+				#filter font {
 					background:none repeat scroll 0 0 #000000;
 					border:1px solid #707070;
 					color:#FFFFFF;
@@ -158,11 +205,11 @@
 					top:9px;
 					font-weight:normal;
 				}
-					#filter a.go {
+					#filter font.go {
 						left:157px;
 						padding:2px 6px 3px;
 					}
-					#filter a.filter {
+					#filter font.filter {
 						background:url("http://static.incgamers.com/incimages/arrow_right.png") no-repeat scroll right center #000000;
 						padding:2px 15px 3px 5px;
 						left:190px;
@@ -235,7 +282,7 @@
 						font-weight:bold;
 						line-height:26px;
 						text-align:right;
-						width:100px;
+						width:150px;
 						padding-right:20px;
 						background: url("http://static.incgamers.com/images/icons/drop_down_arrow.png") no-repeat scroll right center transparent;
 					}
@@ -260,7 +307,7 @@
 			display:none;
 			padding:5px 0 5px 5px;
 			position:absolute;
-			right:245px;
+			right:330px;
 			top:26px;
 		}
 			#styleOptions font {
@@ -281,146 +328,62 @@
 			cursor:pointer;
 			color: #FB8912 !important;
 		}
-			#header_full_nav {
-				background: #ffbb03;
-				/*border-bottom:0 solid #212220;*/
-				height:25px;
-				margin:auto;
-				padding:0;
-				width:996px;
-			    color: #000000;
-				font-size: 11px;
-			}
-			#wrap_header_nav {
-				background:none repeat scroll 0 0 transparent;
-				height:100%;
-				margin:0 auto;
-				padding:0;
-				position:relative;
-				width:996px;
-				z-index:2;
-			}
-			#nav_links {
-				border-bottom:0 solid #000000;
-				display:block;
-				font-family:Arial,Helvetica,sans-serif;
-				margin:0;
-				padding:0;
-				position:absolute;
-				top:4px;
-			}
-				#nav_links ul {
-					clear:both;
-					list-style:none outside none;
-					margin:0;
-					padding:0;
-				}
-				#nav_links ul li {
-					display:inline;
-					margin:0;
-					padding:0;
-					
-				}
-				#nav_links ul li a.content_nav {
-					font-size:11px;
-					color:#000000;
-					float:left;
-					font-weight:bold;
-					height:20px;
-					margin-top:0;
-					margin:0 2px 0 10px;
-					padding:0px;
-					text-align:center;
-					text-decoration:none;
-				}
-					#nav_links ul li a.content_nav:hover {
-						text-decoration:underline;
-					}
+
 		/* end Header Css */
 	</style>
 
 <div id="header_full">
-
-<!--
-	<div id="alert" style="display:none; cursor:default;">
-		<div class="inneralert"></div>
-		<div class="buttonalert"><input type="button" id="alert_ok" value="OK" /></div>
-	</div>
--->
 	<div id="wrap_header">
 				<div id="header_left">
-			<a href="/">
-				<img src="http://static.incgamers.com/images/incgamerslogo.png?01122010" alt="IncGamers" title="IncGamers" border="0">
+			<a href="http://www.incgamers.com">
+				<img src="http://testinc.incgamers.com/images/inclogo.png?170820112" alt="IncGamers" title="IncGamers" border="0">
 			</a>
 		</div>
 		
-
-		
-		<div id="header_right">
-			
-		</div>
-		
-		<div id="nav">
-
-    <div style="float:left;">
+		<div id="nav">	
 	<ul>
-		<li class="on"><a href="http://www.incgamers.com" class="all">Home</a></li>
-		<li class=""><a href="http://pc.incgamers.com" class="pc">PC</a></li>
-		<li class=""><a href="http://xbox.incgamers.com" class="xbox">360</a></li>
-		<li class=""><a href="http://ps3.incgamers.com" class="ps3">PS3</a></li>
-				
-			</ul>
-	</div>
-	
-    <div style="float:right;">
-	
-	<ul>
-		<li class="on"><a href="http://mmo.incgamers.com" class="all">MMO</a></li>
-		<li class="on"><a href="http://sport.incgamers.com" class="all">Sport</a></li>
-		<li class="on"><a href="http://action.incgamers.com" class="all">Action</a></li>
-		<li class="on"><a href="http://RPG.incgamers.com" class="all">RPG</a></li>
-		<li class="on"><a href="http://shooter.incgamers.com" class="all">Shooter</a></li>
-		<li class="on"><a href="http://strategy.incgamers.com" class="all">Strategy</a></li>
-		<li class="on"><a href="http://beta.incgamers.com" class="all">Beta</a></li>
-		<li class="on"><a href="http://industry.incgamers.com" class="all">Industry</a></li>
-	</ul>
-	
-	</div>
-	
-</div>
-		<div id="header_top">
+		<li class="on"><a href="/mmo" class="all">MMO</a></li>
+		<li class="on"><a href="/sport" class="all">Sport</a></li>
+		<li class="on"><a href="/action" class="all">Action</a></li>
+		<li class="on"><a href="/rpg" class="all">RPG</a></li>
+		<li class="on"><a href="/shooter" class="all">Shooter</a></li>
+		<li class="on"><a href="/strategy" class="all">Strategy</a></li>
+		<li class="on"><a href="/beta" class="all">Beta</a></li>
+		<li class="on"><a href="/industry" class="all">Industry</a></li>
+</ul>
+</div>		<div id="header_top">
 			<ul class="menu">
 				<li class="styles">
-					<a target="_blank" href="http://www.twitter.com/incgamers">
+					<a ref="nofollow" target="_blank" href="http://www.twitter.com/incgamers">
 						<img src="http://static.incgamers.com/incimages/twitter.png">
 					</a>
 				</li>
 				<li class="styles">
-					<a target="_blank" href="http://www.incgamers.com/Feeds/news.xml">
+					<a ref="nofollow" target="_blank" href="http://www.incgamers.com/Feeds/news.xml">
 						<img src="http://static.incgamers.com/incimages/rss.png">
 					</a>
 				</li>
 				<li class="styles">
-					<a target="_blank" href="http://www.facebook.com/pages/IncGamers/116509705864?ref=nf">
+					<a ref="nofollow" target="_blank" href="http://www.facebook.com/pages/IncGamers/116509705864?ref=nf">
 						<img src="http://static.incgamers.com/incimages/facebook.png">
 					</a>
 				</li>
 				<li class="styles">
 					<div id="channels_placeholder"></div>
 				</li>
-				<li class="menu"><font class="searchform_show button">Search</font></li>
-				<li class="menu"><font class="loginform_show button">Login</font></li>
-				<li class="menu"><font class="styleOptions_show button">Change View</font></li>
+				<li class="menu"><font class="searchform_show button">Search site</font></li>
+				<li class="menu"><font class="loginform_show button">Login/Register</font></li>
+				<li class="menu"><font class="styleOptions_show button">Blog/Standard</font></li>
 			</ul>
 			<div id="styleOptions">
-				<font class="set_style_default">Default</font>
+				<font class="set_style_default">Standard</font>
 				<font class="set_style_blog">Blog</font>
 			</div>
 			<div id="searchform">
 				<form id="filter" action="/Search/" method="get">
 					<input class="kw textfieldSE" id="kw" name="kw" type="text" value="keyword(s)" onfocus="this.value=''; this.onfocus=null">
-					<a href="javascript:void(0);" onclick="document.getElementById('filter').submit(); return false;" class="go"><font>Go!</font></a>
-					<a href="javascript:void(0);" onclick="$('#search_filter').slideToggle(); return false;" class="filter"><font>Filter</font></a>
+					<font onclick="document.getElementById('filter').submit(); return false;" class="go">Go!</font>
+					<font onclick="$('#search_filter').slideToggle(); return false;" class="filter">Filter</font>
 					<div id="search_filter">
 						<div class="filter_container">
 							<ul>
@@ -433,6 +396,8 @@
 																	<li><input type="checkbox" name="ds" value="6"><label>Nintendo DS</label></li>
 																	<li><input type="checkbox" name="pc" value="7"><label>PC</label></li>
 																	<li><input type="checkbox" name="mmo" value="8"><label>MMO</label></li>
+																	<li><input type="checkbox" name="vita" value="9"><label>Sony PSVita</label></li>
+																	<li><input type="checkbox" name="mob" value="10"><label>Mobile Phone Games</label></li>
 															</ul>
 						</div>
 						<div class="filter_container">
@@ -533,8 +498,7 @@
 		<span class="submit">Login</span>
 		<a href="/register"><span>Register</span></a>
 		<a href="/reminder"><span>Password?</span></a>
-		<div class="facebook"><fb:login-button v="2" autologoutlink="true"><fb:intl>Connect</fb:intl></fb:login-button></div>
-	</fieldset>
+			</fieldset>
 </form>
 
 
@@ -666,26 +630,165 @@
 			<div id="header_full_nav">
 				<div id="wrap_header_nav">
 					<div id="nav_links">
-						<ul>
-							<li><a href="/Search/?filter=1&amp;games=game&amp;release=all" class="content_nav">Games</a></li>
-							<li><a href="/News" class="content_nav">News</a></li>
-															<li><a href="/Reviews" class="content_nav">Reviews</a></li>
-								<li><a href="/Previews" class="content_nav">Previews</a></li>
-								<li><a href="/Features" class="content_nav">Features</a></li>
-								<li><a href="/Columns" class="content_nav">Columns</a></li>
-								<li><a href="/Interviews" class="content_nav">Interviews</a></li>
-								<li><a href="/Screenshots" class="content_nav">Shots</a></li>
-																																				<li><a href="/tv" class="content_nav">Videos</a></li>
-													</ul>
+						<ul class="top">
+				     		<li class="top">
+								<a href="/pc" class="content_nav pc">PC<div class="dropDown pc">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tbody>
+											<tr>
+												<td class="pip"><a href="/News?news=news&amp;pc=7">News</a></td>
+												<td class="pip"><a href="/tv/Search/?platform=pc&amp;pc=7&amp;filter=1">Videos</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Reviews?reviews=review&amp;pc=7">Reviews</a></td>
+												<td class="pip"><a href="/pc/Screenshots/">Screenshots</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Previews?previews=preview&amp;pc=7">Previews</a></td>
+												<td class="pip"><a href="/Search/?pc=7&amp;games=game&amp;filter=1">Games</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Interviews?interviews=interview&amp;pc=7">Interviews</a></td>
+												<td class="pip"><a href="/pc/GamerReviews/">Reader&nbsp;Reviews</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Features?features=feature&amp;pc=7">Features</a></td>
+												<td>&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+								</div></a>
+							</li>
+							<li class="top">
+								<a href="/xbox" class="content_nav xbox">XBOX<div class="dropDown xbox">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tbody>
+											<tr>
+												<td class="pip"><a href="/News?news=news&amp;xbox=4">News</a></td>
+												<td class="pip"><a href="/tv/Search/?platform=xbox&amp;xbox=4&amp;filter=1">Videos</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Reviews?reviews=review&amp;xbox=4">Reviews</a></td>
+												<td class="pip"><a href="/xbox/Screenshots/">Screenshots</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Previews?previews=preview&amp;xbox=4">Previews</a></td>
+												<td class="pip"><a href="/Search/?xbox=4&amp;games=game&amp;filter=1">Games</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Interviews?interviews=interview&amp;xbox=4">Interviews</a></td>
+												<td class="pip"><a href="/xbox/GamerReviews">Reader&nbsp;Reviews</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Features?features=feature&amp;xbox=4">Features</a></td>
+												<td>&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+								</div></a>
+							</li>
+							<li class="top">
+								<a href="/ps3" class="content_nav ps3">PS3<div class="dropDown ps3">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tbody>
+											<tr>
+												<td class="pip"><a href="/News?news=news&amp;ps3=2">News</a></td>
+												<td class="pip"><a href="/tv/Search/?platform=ps3&amp;ps3=2&amp;filter=1">Videos</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Reviews?reviews=review&amp;ps3=2">Reviews</a></td>
+												<td class="pip"><a href="/ps3/Screenshots/">Screenshots</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Previews?previews=preview&amp;ps3=2">Previews</a></td>
+												<td class="pip"><a href="/Search/?ps3=2&amp;games=game&amp;filter=1">Games</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Interviews?interviews=interview&amp;ps3=2">Interviews</a></td>
+												<td class="pip"><a href="/ps3/GamerReviews">Reader&nbsp;Reviews</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Features?features=feature&amp;ps3=2">Features</a></td>
+												<td>&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+								</div></a>
+							</li>
+							<li class="top">
+								<a href="/portables" class="content_nav portables">Portables<div class="dropDown portables">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tbody>
+											<tr>
+												<td class="pip"><a href="/News?news=news&amp;psp=5&amp;ds=6&amp;vita=9&amp;mob=10">News</a></td>
+												<td class="pip"><a href="/tv/Search/?platform=portables&amp;psp=5&amp;ds=6&amp;vita=9&amp;mob=10&amp;filter=1">Videos</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Reviews?reviews=review&amp;psp=5&amp;ds=6&amp;vita=9&amp;mob=10">Reviews</a></td>
+												<td class="pip"><a href="/portables/Screenshots/">Screenshots</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Previews?previews=preview&amp;psp=5&amp;ds=6&amp;vita=9&amp;mob=10">Previews</a></td>
+												<td class="pip"><a href="/Search/?ps3=3&amp;games=game&amp;filter=1">Games</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Interviews?interviews=interview&amp;psp=5&amp;ds=6&amp;vita=9&amp;mob=10">Interviews</a></td>
+												<td class="pip"><a href="/portables/GamerReviews">Reader&nbsp;Reviews</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/Features?features=feature&amp;psp=5&amp;ds=6&amp;vita=9&amp;mob=10">Features</a></td>
+												<td>&nbsp;</td>
+											</tr>
+										</tbody>
+									</table>
+								</div></a>
+							</li>
+							<li class="top"><a href="/" class="content_nav communities">Communities<div class="dropDown communities">
+									<table cellpadding="0" cellspacing="0" border="0">
+										<tbody>
+											<tr>
+												<td class="pip"><a href="/comments">Comments</a></td>
+												<td>&nbsp;</td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="/GamerReviews/">Reader&nbsp;Reviews</a></td>
+												<td>&nbsp;</td>
+											</tr>
+											<tr>
+												<td>&nbsp;</td>
+												<td>&nbsp;</td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="http://diablo.incgamers.com" target="_BLANK">Diablo&nbsp;3</a></td>
+												<td class="pip"><a href="http://wow.incgamers.com" target="_BLANK">World&nbsp;of&nbsp;Warcraft</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="http://rift.incgamers.com" target="_BLANK">Rift</a></td>
+												<td class="pip"><a href="http://war3.incgamers.com" target="_BLANK">Warcraft&nbsp;3</a></td>
+											</tr>
+											<tr>
+												<td class="pip"><a href="http://guildwars.incgamers.com" target="_BLANK">Guild&nbsp;Wars&nbsp;2</a></td>
+												<td class="pip"><a href="http://hellgate.incgamers.com" target="_BLANK">Hellgate</a></td>
+											</tr>
+										</tbody>
+									</table>
+								</div></a>
+							</li>
+							
+							
+							
+							
+							</ul>
 						
 					</div>
+					<script type="text/javascript">activateNavigation();</script>
 				</div>
 			</div>
 			<div class="clr"></div>
 			
-			<!-- IncGamersTakeover -->
+			<!-- IncGamersTakeoverROS -->
 <script type="text/javascript">
-GA_googleFillSlot("IncGamersTakeover");
+GA_googleFillSlot("IncGamersTakeoverROS");
 </script>
 			
 			<div id="banner">
@@ -711,19 +814,39 @@ GA_googleFillSlot("IncGamers728ROS");
 			<div id="wrap_page">
 				
 	<style type="text/css">
-		#page {
+		#pageLayout {
+			background:none repeat scroll 0 0 #FFFFFF;
 			border:0 solid #000000;
-			float:left;
-			margin:0;
+			margin:0 0 0 0;
 			overflow:hidden;
 			padding:0;
 			text-align:left;
-			width:686px;
+			border-top-left-radius: 5px 5px;
+			border-top-right-radius: 5px 10px;
+			border-bottom-left-radius: 5px 5px;
+			border-bottom-right-radius: 5px 5px;
+		}
+		#page {
+			background:none repeat scroll 0 0 #E9E9E9;
+			border-left:1px solid #FFFFFF;
+			 border-top: 1px solid #FFFFFF;
+			float:left;
+			margin:0 0 0 0;
+			overflow:hidden;
+			padding:10px 0px 10px 10px;
+			text-align:left;
+			width: 670px;
+			border-top-left-radius: 5px 5px;
+			border-top-right-radius: 5px 5px;
+			border-bottom-left-radius: 5px 5px;
+			border-bottom-right-radius: 5px 5px;
+			box-shadow:0 -50px 50px -50px #000000, -50px 0 50px -50px #000000;
 		}
 			#page .subpage {
 				border:0 none;
 				margin:0;
-				padding:5px 20px;
+				padding:5px 10px;
+				min-height:500px;
 			}
 			#page .subpage #mainarticle {
 				background:none repeat scroll 0 0 transparent;
@@ -731,13 +854,13 @@ GA_googleFillSlot("IncGamers728ROS");
 	</style>
 
 
-
 <div id="page">
-	
-	<div class="clr"></div>
-	<div class="subpage">
-		<div id="mainarticle">
-			<div class="left">
+	<div id="pageLayout">
+		
+		<div class="clr"></div>
+		<div class="subpage">
+			<div id="mainarticle">
+				<div class="left">
 
 	<div id="page_headings">Privacy Policy</div>
 	<div id="midarticlesbox">
@@ -745,22 +868,30 @@ GA_googleFillSlot("IncGamers728ROS");
 	</div>
 
 </div>
+			</div>
+			<div class="clr"></div>
 		</div>
 		<div class="clr"></div>
 	</div>
-	<div class="clr"></div>
 </div>
 
-<div id="rightcol">
+
+	<div id="advert">
+		<!-- IncGamers300ROS --> <script type="text/javascript"> GA_googleFillSlot("IncGamers300ROS"); </script>
+	</div>
+
+<div id="rightcol_wraper">
 
 		
 	
 <style type="text/css">
 	#rightcol {
-		border:0 none;
-		float:right;
-		padding:0 5px 0 0;
-		width:304px;
+		background: none repeat scroll 0 0 #FFFFFF;
+		border: 0 none;
+		float: left;
+		margin-top: 1px;
+		padding: 0;
+		width: 309px;
 	}
 		#rightcol .sidebar_background {
 			background:none repeat scroll 0 0 #FFFFFF;
@@ -834,59 +965,275 @@ GA_googleFillSlot("IncGamers728ROS");
 		margin-top:5px;
 		padding:0 5px 5px;
 	}
+	#rightcol .gameinfo {
+		background:none repeat scroll 0 0 #E9E9E9;
+		
+	}
+		#rightcol .gameinfo .inner {
+			position:reative;
+			padding:10px;
+			border-top-right-radius: 10px 10px;
+			border-bottom-right-radius: 10px 10px;
+			background:none repeat scroll 0 0 #FFFFFF;
+			margin-right: 5px;
+			
+		}
+	#rightcol .container {
+		background: none repeat scroll 0 0 #E9E9E9;
+		padding-left: 12px;
+		padding-right: 5px;
+		padding-top: 10px;
+		border-top-left-radius: 10px 10px;
+		
+	}
+	#rightcol .rightcoltop {
+		background: none repeat scroll 0 0 #E9E9E9;
+		border-bottom-left-radius: 10px 10px;
+		height:10px;
+		width:309px;
+	}
+	#rightcol #infobar .container {
+		background:transparent;
+		border-top:0px;
+	}
+		#rightcol #infobar .associated_game {
+			width:100%;
+		}
+		#rightcol #infobar .associated_game .associated_first {
+			border-right: 0px;
+		}
 </style>
 
-<div id="rightcol">
-
-	
-
-	<div id="advert">
-		<!-- IncGamers300ROS -->
-<script type="text/javascript">
-GA_googleFillSlot("IncGamers300ROS");
-</script>
-	</div>
 
 
-	
-	<div class="clear"></div>
+<div id="rightcol" style="background-color:transparent;">
 
-	
-			<div class="container">
-			
-			<div class="pictured_box">
-	<span class="all_link"><a href="/Reviews">All Reviews ...</a></span>
-	<img class="box_title" src="http://static.incgamers.com/images/numbered_box_titles/new_reviews.png" title="New Reviews">
-						<p class="top_article">
-				<a class="xplatform" href="http://xbox.incgamers.com/Reviews/1166/bejeweled-blitz-live-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/25244thumb.jpg" alt="Bejeweled Blitz Live Review" title="Bejeweled Blitz Live Review">Bejeweled Blitz Live Review</a><br><font>A gem of a game</font>
-			</p>
-								<p>
-				<font>30 Mar</font> <a class="xplatform" href="http://xbox.incgamers.com/Reviews/1162/dreamcast-collection-review" title="Dreamcast Collection Review">Dreamcast Collection Review</a>			</p>
-								<p>
-				<font>29 Mar</font> <a class="xplatform" href="http://ps3.incgamers.com/Reviews/1167/wwe-all-stars-review" title="WWE All Stars Review">WWE All Stars Review</a>			</p>
-								<p>
-				<font>29 Mar</font> <a class="xplatform" href="http://ps3.incgamers.com/Reviews/1165/swarm-review" title="Swarm Review">Swarm Review</a>			</p>
-			</div>
-			<div class="clear"></div>
-			<div class="pictured_box">
-	<span class="all_link"><a href="/Previews">All Previews ...</a></span>
-	<img class="box_title" src="http://static.incgamers.com/images/numbered_box_titles/new_previews.png" title="New Previews">
-						<p class="top_article">
-				<a class="xplatform" href="http://ps3.incgamers.com/Previews/259/travis-steiner-talks-socom-4"><img class="article_img" src="http://static.incgamers.com/images/screenshots/18984thumb.jpg" alt="Travis Steiner talks SOCOM 4" title="Travis Steiner talks SOCOM 4">Travis Steiner talks SOCOM 4</a><br><font>Everything you need to know about the PS3's squad-based shooter.</font>
-			</p>
-								<p>
-				<font>25 Mar</font> <a class="xplatform" href="http://ps3.incgamers.com/Previews/258/dead-island-preview" title="Dead Island Preview">Dead Island Preview</a>			</p>
-								<p>
-				<font>24 Mar</font> <a class="xplatform" href="http://ps3.incgamers.com/Previews/257/mortal-kombat-hands-on-preview" title="Mortal Kombat Hands-On Preview">Mortal Kombat Hands-On Preview</a>			</p>
-								<p>
-				<font>22 Mar</font> <a class="xplatform" href="http://ps3.incgamers.com/Previews/256/la-noire-hands-on-preview" title="L.A. Noire Hands-On Preview">L.A. Noire Hands-On Preview</a>			</p>
-			</div>
-			<div class="clear"></div>
-
-		</div>
 		
-	</div>
+		
+	
+	
+	
+		<div class="container">
+		
+	<style type="text/css">
+		.latest_stuff {
+			width:100%;
+			font-size:11px;
+		}
+			.latest_stuff .ls_container {
+				background: none repeat scroll 0 0 #EFEFEF;
+				border: 5px solid #FFFFFF;
+				border-radius: 5px 5px 5px 5px;
+				padding:10px;
+			}
+				.latest_stuff .ls_container .ls_scroller {
+					position:relative;
+					overflow:hidden;
+					height:428px;
+				}
+				.latest_stuff .ls_container .ls_movingBit {
+					position:absolute;
+					top:0px;
+					left:0px;
+				}
+					.latest_stuff .ls_container .ls_movingBit .ls_article {
+						border-bottom: 1px dashed #D4D3D3;
+						margin-bottom: 5px;
+						overflow: hidden;
+						padding-bottom: 8px;
+						padding-top: 8px;
+					}
+						.latest_stuff .ls_container .ls_movingBit .ls_article img.article_img {
+							border: 1px solid #000000;
+							float: left;
+							height: 83px;
+							margin-right: 5px;
+							width: 142px;
+						}
+						.latest_stuff .ls_container .ls_movingBit .ls_article a {
+							font-size: 11px;
+							line-height: 16px;
+						}
+						.latest_stuff .ls_container .ls_movingBit .ls_article font {
+							font-size: 11px;
+						}
+			.latest_stuff .ls_container .ls_scroll_down {
+				width:267px;
+				height:30px;
+				cursor:pointer;
+				background-image: url('/incimages/nav_button_down_map.png');
+				background-repeat: no-repeat;
+				background-position: 0 -60px;
+				-moz-user-select: none; // mozilla browsers
+				-khtml-user-select: none; // webkit browsers
+			}
+				.latest_stuff .ls_container .ls_scroll_down.hover {
+					background-position: 0 -30px;
+				}
+				.latest_stuff .ls_container .ls_scroll_down.click {
+					background-position: 0 0px;
+				}
+			.latest_stuff .ls_container .ls_scroll_up {
+				margin-top:10px;
+				width:267px;
+				height:30px;
+				cursor:pointer;
+				background-image: url('/incimages/nav_button_up_map.png');
+				background-repeat: no-repeat;
+				background-position: 0 -60px;
+				-moz-user-select: none; // mozilla browsers
+				-khtml-user-select: none; // webkit browsers
 
+			}
+				.latest_stuff .ls_container .ls_scroll_up.hover {
+					background-position: 0 -30px;
+				}
+				.latest_stuff .ls_container .ls_scroll_up.click {
+					background-position: 0 0px;
+				}
+	</style>
+
+<div class="latest_stuff">
+	<div class="ls_container">
+		<h4>Latest Stuff</h4>
+		<div class="ls_scroll_up">&nbsp;</div>
+		<div class="ls_scroller" style="height: 499px;">
+			<div class="ls_movingBit" lsstart="0" lsview="4" locked="0" ajax="0" style="top: 0px;">
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Previews/357/the-darkness-2-is-strikingly-individual-preview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30646thumb.jpg" alt="The Darkness 2 is strikingly individual [Preview]" title="The Darkness 2 is strikingly individual [Preview]">The Darkness 2 is strikingly individual [Preview]</a><br><font>Demonic arms, demonic midgets and demonic farts.</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1258/home-improvements-citiesxl-2012-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30625thumb.jpg" alt="Home improvements: CitiesXL 2012 [Review]" title="Home improvements: CitiesXL 2012 [Review]">Home improvements: CitiesXL 2012 [Review]</a><br><font>If you build it, they will come.
+</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Interviews/363/the-making-of-uncharted-3---part-1-interview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30387thumb.jpg" alt="The Making of Uncharted 3 - Part 1 [Interview]" title="The Making of Uncharted 3 - Part 1 [Interview]">The Making of Uncharted 3 - Part 1 [Interview]</a><br><font>In-depth and behind the scenes with game director Justin Richmond and community manager Arne Meyer.</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Features/436/the-week-that-was-ending-301011"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30066thumb.jpg" alt="The Week That Was... (ending 30/10/11)" title="The Week That Was... (ending 30/10/11)">The Week That Was... (ending 30/10/11)</a><br><font>Uncharted 3 and Battlefield 3 reviews, as well as the announcement of Grand Theft Auto V.</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Features/435/666-of-the-best-horror-games-for-halloween-2011"><img class="article_img" src="http://static.incgamers.com/images/screenshots/19968thumb.jpg" alt="6(66) of the best horror games for Halloween 2011" title="6(66) of the best horror games for Halloween 2011">6(66) of the best horror games for Halloween 2011</a><br><font>Your guide to gloom, your textbook to terror.</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Previews/356/balls-deep-in-saints-row-the-thirds-whored-mode-preview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30585thumb.jpg" alt="Balls deep in Saints Row: The Third's Whored Mode [Preview]" title="Balls deep in Saints Row: The Third's Whored Mode [Preview]">Balls deep in Saints Row: The Third's Whored Mo...</a><br><font>So many dildos...</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1256/dead-in-60-seconds-the-war-of-the-worlds-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30497thumb.jpg" alt="Dead in 60 Seconds: The War of the Worlds [Review]" title="Dead in 60 Seconds: The War of the Worlds [Review]">Dead in 60 Seconds: The War of the Worlds [Review]</a><br><font>Spiders from Mars.</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Previews/355/were-not-so-sure-about-the-mass-effect-3-multiplayer-preview"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30477thumb.jpg" alt="We're not so sure about the Mass Effect 3 Multiplayer [Preview]" title="We're not so sure about the Mass Effect 3 Multiplayer [Preview]">We're not so sure about the Mass Effect 3 Multi...</a><br><font>A wave worth surfing?</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1255/hero-of-the-galaxy-mdk-2-hd-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/30457thumb.jpg" alt="Hero of the Galaxy: MDK 2 HD [Review]" title="Hero of the Galaxy: MDK 2 HD [Review]">Hero of the Galaxy: MDK 2 HD [Review]</a><br><font>Madonna Dates Kipper?</font>
+					</p>
+									<p class="ls_article">
+						<a class="xplatform" href="http://www.incgamers.com/Reviews/1254/beauty-and-the-beast-battlefield-3-360-review"><img class="article_img" src="http://static.incgamers.com/images/screenshots/29670thumb.jpg" alt="Beauty and the beast: Battlefield 3 [360 Review]" title="Beauty and the beast: Battlefield 3 [360 Review]">Beauty and the beast: Battlefield 3 [360 Review]</a><br><font>The flattery of imitation.</font>
+					</p>
+							</div>
+		</div>
+		<div class="ls_scroll_down">&nbsp;</div>
+	</div>
+</div>
+
+	<script type="text/javascript">
+		function updateLatestStuff($latestStuff) {
+
+			var $viewPort = $('.ls_scroller', $latestStuff);
+			var $scroller = $('.ls_movingBit', $latestStuff);
+			var $boxes = $('.ls_article', $scroller);
+			var start = parseInt($scroller.attr("lsStart"));
+			var view = parseInt($scroller.attr("lsView"));
+			
+			var scrollHeight = 0;
+			if ( start+view > $boxes.length ) {
+				if ( parseInt($scroller.attr("ajax")) == 0 ) {
+					$scroller.attr("ajax", 1);
+					$.ajax({
+						url: '/ajax.php',
+						type: "POST",
+						data: { stuff: '1',  start:$boxes.length, view:view },
+						error: function(e) { 
+							console.log(e);
+						},
+						success: function(data) {
+							if ( data == 'error' ) {
+								$scroller.attr("locked", 1).append('<div class="inc_warning">Something went wrong! Please Refresh and try agai</div>');
+								$viewPort.css("height", ($viewPort.height()+40)+"px");
+							}
+							if ( data == 'end' ) {
+								$scroller.attr("locked", 1).append('<div class="inc_warning">Please use the site search options for more!</div>');
+								$viewPort.css("height", ($viewPort.height()+40)+"px");
+							}
+							else {
+								$scroller.append(data);
+								updateLatestStuff($latestStuff);
+								$scroller.attr("ajax", 0);
+							}
+						}
+					});
+				}
+			}
+			else {
+				for ( var i = 0; i < view; i++ ) {
+					scrollHeight += $($boxes[start+i]).height()+16+1+5;
+				}
+				var scrollerTop = 0;
+				for ( var i = 0; i < start; i++ ) {
+					scrollerTop += $($boxes[i]).height()+16+1+5;
+				}
+			
+				$viewPort.css("height", scrollHeight+"px");
+				$scroller.css("top", (0-scrollerTop)+"px");
+			}
+		}
+		function activateLatestStuffScroller() {
+			var $latestStuffs = $('.latest_stuff');
+			$latestStuffs.each( function() {
+				var $latestStuff = $(this);
+				updateLatestStuff($latestStuff);
+				$('.ls_scroll_down', $latestStuff).hover(
+					function () {
+						$(this).addClass('hover');
+					},
+					function() {
+						$(this).removeClass('hover');
+						$(this).removeClass('click');
+					}
+				).mousedown( function() { $(this).addClass('click'); }).click( function() {
+					$scroller = $('.ls_movingBit', $latestStuff);
+					if ( parseInt($scroller.attr("locked")) == 0 ) {
+						$scroller.attr("lsStart", parseInt($scroller.attr("lsStart"))+1);
+						updateLatestStuff($latestStuff);
+					}
+					$(this).removeClass('click');
+				});
+				$('.ls_scroll_up', $latestStuff).hover(
+					function () {
+						$(this).addClass('hover');
+					},
+					function() {
+						$(this).removeClass('hover');
+						$(this).removeClass('click');
+					}
+				).mousedown( function() { $(this).addClass('click'); }).click( function() {
+					$scroller = $('.ls_movingBit', $latestStuff);
+					if ( parseInt($scroller.attr("locked")) == 0 && parseInt($scroller.attr("lsStart")) > 0 ) {
+						$scroller.attr("lsStart", parseInt($scroller.attr("lsStart"))-1);
+						updateLatestStuff($latestStuff);
+					}
+				});
+			});
+		}
+		activateLatestStuffScroller();
+	</script>
+
+			</div>
+	
+
+	
+</div>
+	<div class="clr"></div>
 </div>
 				
 				<div class="clr"></div>
@@ -916,13 +1263,14 @@ GA_googleFillSlot("IncGamers300ROS");
 
 
 
-<div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
-
+<div style="text-align: center; margin: 10px auto; width: 1000px;">
 
 <!-- IncGamersFooter -->
 <script type="text/javascript">
 GA_googleFillSlot("IncGamersFooter");
 </script>
+<br><br>
+</div>
 
 
 
@@ -953,7 +1301,7 @@ GA_googleFillSlot("IncGamersFooter");
 		<a href="http://www.incgamers.com/ps3">Playstation 3</a> <br>
 		<a href="http://www.incgamers.com/xbox">Xbox 360</a> <br>
 		<a href="http://www.incgamers.com/wii">Wii</a> <br>
-		<a href="http://www.incgamers.com/wii">MMO</a><br>
+		<a href="http://www.incgamers.com/mmo">MMO</a><br>
 		<a href="http://www.incgamers.com/tv">IncGamers TV</a>
 		
 			
@@ -990,6 +1338,8 @@ GA_googleFillSlot("IncGamersFooter");
 
 		<div style="float: left; width: 120px; margin-left: 10px; text-align: left;">
 		<a href="http://www.newsnow.co.uk/nn/IncGamers"><img src="http://www.incgamers.com/incimages/newsnow.gif" border="0"></a><br><br>
+							<a href="http://www.metacritic.com/" target="_BLANK"><img src="/images/logo_metacritic.png" title="metacritic" alt="metacritic" class="metacritic"></a><br><br>
+							<a href="http://www.gamerankings.com" target="_BLANK"><img src="/images/logo_gamerankings.gif" title="gamerankings" alt="gamerankings" class="gamerankings"></a><br><br>						
 		</div>
 
 		
@@ -1014,1030 +1364,17 @@ GA_googleFillSlot("IncGamersFooter");
 		
 						
 		
+					<script type="text/javascript" src="/js/jquery.thickbox.js?170820112"></script>
+					<script type="text/javascript" src="/js/AC_RunActiveContent.js?170820112"></script>
+					<script type="text/javascript" src="/js/jquery.tvstars.js?170820112"></script>
+					<script type="text/javascript" src="/js/inc.game.js?170820112"></script>
+					<script type="text/javascript" src="/js/jquery.bbcode.js?170820112"></script>
+					<script type="text/javascript" src="/js/inc_adfix.js?170820112"></script>
+					<script type="text/javascript" src="/js/takeover.js?170820112"></script>
 				
 		<script type="text/javascript" src="/js/tabber.js"></script>	
-		
-		<script type="text/javascript">/*
- * Thickbox 3.1 - One Box To Rule Them All.
- * By Cody Lindley (http://www.codylindley.com)
- * Copyright (c) 2007 cody lindley
- * Licensed under the MIT License: http://www.opensource.org/licenses/mit-license.php
-*/
-		  
-var tb_pathToImage = "/images/loading.gif";
 
-/*!!!!!!!!!!!!!!!!! edit below this line at your own risk !!!!!!!!!!!!!!!!!!!!!!!*/
-
-//on page load call tb_init
-$(document).ready(function(){   
-	tb_init('a.thickbox, area.thickbox, input.thickbox');//pass where to apply thickbox
-	imgLoader = new Image();// preload image
-	imgLoader.src = tb_pathToImage;
-});
-
-//add thickbox to href & area elements that have a class of .thickbox
-function tb_init(domChunk){
-	$(domChunk).click(function(){
-	var t = this.title || this.name || null;
-	var a = this.href || this.alt;
-	var g = this.rel || false;
-	tb_show(t,a,g);
-	this.blur();
-	return false;
-	});
-}
-
-function tb_show(caption, url, imageGroup) {//function called when the user clicks on a thickbox link
-
-	try {
-		if (typeof document.body.style.maxHeight === "undefined") {//if IE 6
-			$("body","html").css({height: "100%", width: "100%"});
-			$("html").css("overflow","hidden");
-			if (document.getElementById("TB_HideSelect") === null) {//iframe to hide select elements in ie6
-				$("body").append("<iframe id='TB_HideSelect'></iframe><div id='TB_overlay'></div><div id='TB_window'></div>");
-				$("#TB_overlay").click(tb_remove);
-			}
-		}else{//all others
-			if(document.getElementById("TB_overlay") === null){
-				$("body").append("<div id='TB_overlay'></div><div id='TB_window'></div>");
-				$("#TB_overlay").click(tb_remove);
-			}
-		}
-		
-		if(tb_detectMacXFF()){
-			$("#TB_overlay").addClass("TB_overlayMacFFBGHack");//use png overlay so hide flash
-		}else{
-			$("#TB_overlay").addClass("TB_overlayBG");//use background and opacity
-		}
-		
-		if(caption===null){caption="";}
-		$("body").append("<div id='TB_load'><img src='"+imgLoader.src+"' /></div>");//add loader to the page
-		$('#TB_load').show();//show loader
-		
-		var baseURL;
-	   if(url.indexOf("?")!==-1){ //ff there is a query string involved
-			baseURL = url.substr(0, url.indexOf("?"));
-	   }else{ 
-	   		baseURL = url;
-	   }
-	   
-	   var urlString = /\.jpg$|\.jpeg$|\.png$|\.gif$|\.bmp$/;
-	   var urlType = baseURL.toLowerCase().match(urlString);
-
-		if(urlType == '.jpg' || urlType == '.jpeg' || urlType == '.png' || urlType == '.gif' || urlType == '.bmp'){//code to show images
 				
-			TB_PrevCaption = "";
-			TB_PrevURL = "";
-			TB_PrevHTML = "";
-			TB_NextCaption = "";
-			TB_NextURL = "";
-			TB_NextHTML = "";
-			TB_imageCount = "";
-			TB_FoundURL = false;
-			if(imageGroup){
-				TB_TempArray = $("a[@rel="+imageGroup+"]").get();
-				for (TB_Counter = 0; ((TB_Counter < TB_TempArray.length) && (TB_NextHTML === "")); TB_Counter++) {
-					var urlTypeTemp = TB_TempArray[TB_Counter].href.toLowerCase().match(urlString);
-						if (!(TB_TempArray[TB_Counter].href == url)) {						
-							if (TB_FoundURL) {
-								TB_NextCaption = TB_TempArray[TB_Counter].title;
-								TB_NextURL = TB_TempArray[TB_Counter].href;
-								TB_NextHTML = "<span id='TB_next'>&nbsp;&nbsp;<a href='#'>Next &gt;</a></span>";
-							} else {
-								TB_PrevCaption = TB_TempArray[TB_Counter].title;
-								TB_PrevURL = TB_TempArray[TB_Counter].href;
-								TB_PrevHTML = "<span id='TB_prev'>&nbsp;&nbsp;<a href='#'>&lt; Prev</a></span>";
-							}
-						} else {
-							TB_FoundURL = true;
-							TB_imageCount = "Image " + (TB_Counter + 1) +" of "+ (TB_TempArray.length);											
-						}
-				}
-			}
-
-			imgPreloader = new Image();
-			imgPreloader.onload = function(){		
-			imgPreloader.onload = null;
-				
-			// Resizing large images - orginal by Christian Montoya edited by me.
-			var pagesize = tb_getPageSize();
-			var x = pagesize[0] - 150;
-			var y = pagesize[1] - 150;
-			var imageWidth = imgPreloader.width;
-			var imageHeight = imgPreloader.height;
-			if (imageWidth > x) {
-				imageHeight = imageHeight * (x / imageWidth); 
-				imageWidth = x; 
-				if (imageHeight > y) { 
-					imageWidth = imageWidth * (y / imageHeight); 
-					imageHeight = y; 
-				}
-			} else if (imageHeight > y) { 
-				imageWidth = imageWidth * (y / imageHeight); 
-				imageHeight = y; 
-				if (imageWidth > x) { 
-					imageHeight = imageHeight * (x / imageWidth); 
-					imageWidth = x;
-				}
-			}
-			// End Resizing
-			
-			TB_WIDTH = imageWidth + 30;
-			TB_HEIGHT = imageHeight + 60;
-			$("#TB_window").append("<a href='' id='TB_ImageOff' title='Close'><img id='TB_Image' src='"+url+"' width='"+imageWidth+"' height='"+imageHeight+"' alt='"+caption+"'/></a>" + "<div id='TB_caption'>"+caption+"<div id='TB_secondLine'>" + TB_imageCount + TB_PrevHTML + TB_NextHTML + "</div></div><div id='TB_closeWindow'><a href='#' id='TB_closeWindowButton' title='Close'>close</a> or Esc Key</div>"); 		
-			
-			$("#TB_closeWindowButton").click(tb_remove);
-			
-			if (!(TB_PrevHTML === "")) {
-				function goPrev(){
-					if($(document).unbind("click",goPrev)){$(document).unbind("click",goPrev);}
-					$("#TB_window").remove();
-					$("body").append("<div id='TB_window'></div>");
-					tb_show(TB_PrevCaption, TB_PrevURL, imageGroup);
-					return false;	
-				}
-				$("#TB_prev").click(goPrev);
-			}
-			
-			if (!(TB_NextHTML === "")) {		
-				function goNext(){
-					$("#TB_window").remove();
-					$("body").append("<div id='TB_window'></div>");
-					tb_show(TB_NextCaption, TB_NextURL, imageGroup);				
-					return false;	
-				}
-				$("#TB_next").click(goNext);
-				
-			}
-
-			document.onkeydown = function(e){ 	
-				if (e == null) { // ie
-					keycode = event.keyCode;
-				} else { // mozilla
-					keycode = e.which;
-				}
-				if(keycode == 27){ // close
-					tb_remove();
-				} else if(keycode == 190){ // display previous image
-					if(!(TB_NextHTML == "")){
-						document.onkeydown = "";
-						goNext();
-					}
-				} else if(keycode == 188){ // display next image
-					if(!(TB_PrevHTML == "")){
-						document.onkeydown = "";
-						goPrev();
-					}
-				}	
-			};
-			
-			tb_position();
-			$("#TB_load").remove();
-			$("#TB_ImageOff").click(tb_remove);
-			$("#TB_window").css({display:"block"}); //for safari using css instead of show
-			};
-			
-			imgPreloader.src = url;
-		}else{//code to show html
-			
-			var queryString = url.replace(/^[^\?]+\??/,'');
-			var params = tb_parseQuery( queryString);
-			TB_WIDTH = (params['width']*1) + 30 || 700; //defaults to 630 if no paramaters were added to URL
-			TB_HEIGHT = $(window).height() - 50 || (params['height']*1) + 40 || 600; //defaults to 440 if no paramaters were added to URL
-			ajaxContentW = TB_WIDTH - 30;
-			ajaxContentH = TB_HEIGHT - 45;
-			
-			if(url.indexOf('TB_iframe') != -1){// either iframe or ajax window		
-					urlNoQuery = url.split('TB_');
-					$("#TB_iframeContent").remove();
-					if(params['modal'] != "true"){//iframe no modal
-						$("#TB_window").append("<div id='TB_title'><div id='TB_ajaxWindowTitle'>"+caption+"</div><div id='TB_closeAjaxWindow'><a href='#' id='TB_closeWindowButton' title='Close'>close</a> or Esc Key</div></div><iframe frameborder='0' hspace='0' src='"+urlNoQuery[0]+"' id='TB_iframeContent' name='TB_iframeContent"+Math.round(Math.random()*1000)+"' onload='tb_showIframe()' style='width:"+(ajaxContentW + 29)+"px;height:"+(ajaxContentH + 17)+"px;' > </iframe>");
-					}else{//iframe modal
-					$("#TB_overlay").unbind();
-						$("#TB_window").append("<iframe frameborder='0' hspace='0' src='"+urlNoQuery[0]+"' id='TB_iframeContent' name='TB_iframeContent"+Math.round(Math.random()*1000)+"' onload='tb_showIframe()' style='width:"+(ajaxContentW + 29)+"px;height:"+(ajaxContentH + 17)+"px;'> </iframe>");
-					}
-			}else{// not an iframe, ajax
-					if($("#TB_window").css("display") != "block"){
-						if(params['modal'] != "true"){//ajax no modal
-						$("#TB_window").append("<div id='TB_title'><div id='TB_ajaxWindowTitle'>"+caption+"</div><div id='TB_closeAjaxWindow'><a href='#' id='TB_closeWindowButton'>close</a> or Esc Key</div></div><div id='TB_ajaxContent' style='width:"+ajaxContentW+"px;height:"+ajaxContentH+"px'></div>");
-						}else{//ajax modal
-						$("#TB_overlay").unbind();
-						$("#TB_window").append("<div id='TB_ajaxContent' class='TB_modal' style='width:"+ajaxContentW+"px;height:"+ajaxContentH+"px;'></div>");	
-						}
-					}else{//this means the window is already up, we are just loading new content via ajax
-						$("#TB_ajaxContent")[0].style.width = ajaxContentW +"px";
-						$("#TB_ajaxContent")[0].style.height = ajaxContentH +"px";
-						$("#TB_ajaxContent")[0].scrollTop = 0;
-						$("#TB_ajaxWindowTitle").html(caption);
-					}
-			}
-					
-			$("#TB_closeWindowButton").click(tb_remove);
-			
-				if(url.indexOf('TB_inline') != -1){	
-					$("#TB_ajaxContent").append($('#' + params['inlineId']).children());
-					$("#TB_window").unload(function () {
-						$('#' + params['inlineId']).append( $("#TB_ajaxContent").children() ); // move elements back when you're finished
-					});
-					tb_position();
-					$("#TB_load").remove();
-					$("#TB_window").css({display:"block"}); 
-				}else if(url.indexOf('TB_iframe') != -1){
-					tb_position();
-					if($.browser.safari){//safari needs help because it will not fire iframe onload
-						$("#TB_load").remove();
-						$("#TB_window").css({display:"block"});
-					}
-				}else{
-						$("#TB_ajaxContent").load(url += "&ajax=1&&random=" + (new Date().getTime()),function(){//to do a post change this load method
-						tb_position();
-						tb_init("#TB_ajaxContent a.thickbox");
-						$("#TB_window").css({display:"block"});
-						$("#TB_load").remove();
-						$('a.deleter').click(function(){return confirm('Are you sure?');})
-						$('input.imgdelcheck').click(function(){
-							if($(this).is(":checked")) return confirm('The image will be deleted when you update the page');// add delete notification to image checkboxes
-						})
-						try{
-							$('input.calendar').datepicker({ dateFormat: 'dd/mm/yy' });
-							if($('#description2')) tinyMCE.execCommand('mceAddControl', false, 'description2');
-							$("select.nicedropdown").selectBox({css:'select'});
-							afterAjaxEvents();
-						}catch(e){
-							
-						}
-					});
-				}
-		}
-		
-		if(!params['modal']){
-			document.onkeyup = function(e){ 	
-				if (e == null) { // ie
-					keycode = event.keyCode;
-				} else { // mozilla
-					keycode = e.which;
-				}
-				if(keycode == 27){ // close
-					tb_remove();
-				}	
-			};
-		}
-		
-	} catch(e) {
-		//nothing here
-	}
-}
-
-//helper functions below
-function tb_showIframe(){
-	$("#TB_load").remove();
-	$("#TB_window").css({display:"block"});
-}
-
-function tb_remove() {
- 	$("#TB_imageOff").unbind("click");
-	$("#TB_closeWindowButton").unbind("click");
-	$("#TB_window").fadeOut("fast",function(){$('#TB_window,#TB_overlay,#TB_HideSelect').trigger("unload").unbind().remove();});
-	$("#TB_load").remove();
-	$(".TB_modal").remove();
-	if (typeof document.body.style.maxHeight == "undefined") {//if IE 6
-		$("body","html").css({height: "auto", width: "auto"});
-		$("html").css("overflow","");
-	}
-	document.onkeydown = "";
-	document.onkeyup = "";
-	try{
-		tinyMCE.execCommand('mceRemoveControl',false,'description2');
-	}catch(e){
-			
-	}
-	return false;
-}
-
-function tb_position() {
-$("#TB_window").css({marginLeft: '-' + parseInt((TB_WIDTH / 2),10) + 'px', width: TB_WIDTH + 'px'});
-	if ( !(jQuery.browser.msie && jQuery.browser.version < 7)) { // take away IE6
-		$("#TB_window").css({marginTop: '-' + parseInt((TB_HEIGHT / 2),10) + 'px'});
-	}
-}
-
-function tb_parseQuery ( query ) {
-	query = query + '&ajax=1';
-   var Params = {};
-   if ( ! query ) {return Params;}// return empty object
-   var Pairs = query.split(/[;&]/);
-   for ( var i = 0; i < Pairs.length; i++ ) {
-      var KeyVal = Pairs[i].split('=');
-      if ( ! KeyVal || KeyVal.length != 2 ) {continue;}
-      var key = unescape( KeyVal[0] );
-      var val = unescape( KeyVal[1] );
-      val = val.replace(/\+/g, ' ');
-      Params[key] = val;
-   }
-   return Params;
-}
-
-function tb_getPageSize(){
-	var de = document.documentElement;
-	var w = window.innerWidth || self.innerWidth || (de&&de.clientWidth) || document.body.clientWidth;
-	var h = window.innerHeight || self.innerHeight || (de&&de.clientHeight) || document.body.clientHeight;
-	arrayPageSize = [w,h];
-	return arrayPageSize;
-}
-
-function tb_detectMacXFF() {
-  var userAgent = navigator.userAgent.toLowerCase();
-  if (userAgent.indexOf('mac') != -1 && userAgent.indexOf('firefox')!=-1) {
-    return true;
-  }
-}</script><script type="text/javascript">//v1.7
-// Flash Player Version Detection
-// Detect Client Browser type
-// Copyright 2005-2007 Adobe Systems Incorporated.  All rights reserved.
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false;
-var isOpera = (navigator.userAgent.indexOf("Opera") != -1) ? true : false;
-
-function ControlVersion()
-{
-	var version;
-	var axo;
-	var e;
-
-	// NOTE : new ActiveXObject(strFoo) throws an exception if strFoo isn't in the registry
-
-	try {
-		// version will be set for 7.X or greater players
-		axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.7");
-		version = axo.GetVariable("$version");
-	} catch (e) {
-	}
-
-	if (!version)
-	{
-		try {
-			// version will be set for 6.X players only
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.6");
-			
-			// installed player is some revision of 6.0
-			// GetVariable("$version") crashes for versions 6.0.22 through 6.0.29,
-			// so we have to be careful. 
-			
-			// default to the first public version
-			version = "WIN 6,0,21,0";
-
-			// throws if AllowScripAccess does not exist (introduced in 6.0r47)		
-			axo.AllowScriptAccess = "always";
-
-			// safe to call for 6.0r47 or greater
-			version = axo.GetVariable("$version");
-
-		} catch (e) {
-		}
-	}
-
-	if (!version)
-	{
-		try {
-			// version will be set for 4.X or 5.X player
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
-			version = axo.GetVariable("$version");
-		} catch (e) {
-		}
-	}
-
-	if (!version)
-	{
-		try {
-			// version will be set for 3.X player
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash.3");
-			version = "WIN 3,0,18,0";
-		} catch (e) {
-		}
-	}
-
-	if (!version)
-	{
-		try {
-			// version will be set for 2.X player
-			axo = new ActiveXObject("ShockwaveFlash.ShockwaveFlash");
-			version = "WIN 2,0,0,11";
-		} catch (e) {
-			version = -1;
-		}
-	}
-	
-	return version;
-}
-
-// JavaScript helper required to detect Flash Player PlugIn version information
-function GetSwfVer(){
-	// NS/Opera version >= 3 check for Flash plugin in plugin array
-	var flashVer = -1;
-	
-	if (navigator.plugins != null && navigator.plugins.length > 0) {
-		if (navigator.plugins["Shockwave Flash 2.0"] || navigator.plugins["Shockwave Flash"]) {
-			var swVer2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-			var flashDescription = navigator.plugins["Shockwave Flash" + swVer2].description;
-			var descArray = flashDescription.split(" ");
-			var tempArrayMajor = descArray[2].split(".");			
-			var versionMajor = tempArrayMajor[0];
-			var versionMinor = tempArrayMajor[1];
-			var versionRevision = descArray[3];
-			if (versionRevision == "") {
-				versionRevision = descArray[4];
-			}
-			if (versionRevision[0] == "d") {
-				versionRevision = versionRevision.substring(1);
-			} else if (versionRevision[0] == "r") {
-				versionRevision = versionRevision.substring(1);
-				if (versionRevision.indexOf("d") > 0) {
-					versionRevision = versionRevision.substring(0, versionRevision.indexOf("d"));
-				}
-			}
-			var flashVer = versionMajor + "." + versionMinor + "." + versionRevision;
-		}
-	}
-	// MSN/WebTV 2.6 supports Flash 4
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.6") != -1) flashVer = 4;
-	// WebTV 2.5 supports Flash 3
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv/2.5") != -1) flashVer = 3;
-	// older WebTV supports Flash 2
-	else if (navigator.userAgent.toLowerCase().indexOf("webtv") != -1) flashVer = 2;
-	else if ( isIE && isWin && !isOpera ) {
-		flashVer = ControlVersion();
-	}	
-	return flashVer;
-}
-
-// When called with reqMajorVer, reqMinorVer, reqRevision returns true if that version or greater is available
-function DetectFlashVer(reqMajorVer, reqMinorVer, reqRevision)
-{
-	versionStr = GetSwfVer();
-	if (versionStr == -1 ) {
-		return false;
-	} else if (versionStr != 0) {
-		if(isIE && isWin && !isOpera) {
-			// Given "WIN 2,0,0,11"
-			tempArray         = versionStr.split(" "); 	// ["WIN", "2,0,0,11"]
-			tempString        = tempArray[1];			// "2,0,0,11"
-			versionArray      = tempString.split(",");	// ['2', '0', '0', '11']
-		} else {
-			versionArray      = versionStr.split(".");
-		}
-		var versionMajor      = versionArray[0];
-		var versionMinor      = versionArray[1];
-		var versionRevision   = versionArray[2];
-
-        	// is the major.revision >= requested major.revision AND the minor version >= requested minor
-		if (versionMajor > parseFloat(reqMajorVer)) {
-			return true;
-		} else if (versionMajor == parseFloat(reqMajorVer)) {
-			if (versionMinor > parseFloat(reqMinorVer))
-				return true;
-			else if (versionMinor == parseFloat(reqMinorVer)) {
-				if (versionRevision >= parseFloat(reqRevision))
-					return true;
-			}
-		}
-		return false;
-	}
-}
-
-function AC_AddExtension(src, ext)
-{
-  if (src.indexOf('?') != -1)
-    return src.replace(/\?/, ext+'?'); 
-  else
-    return src + ext;
-}
-
-function AC_Generateobj(objAttrs, params, embedAttrs) 
-{ 
-  var str = '';
-  if (isIE && isWin && !isOpera)
-  {
-    str += '<object ';
-    for (var i in objAttrs)
-    {
-      str += i + '="' + objAttrs[i] + '" ';
-    }
-    str += '>';
-    for (var i in params)
-    {
-      str += '<param name="' + i + '" value="' + params[i] + '" /> ';
-    }
-	str += '<param name="wmode" value="transparent">';
-    str += '</object>';
-  }
-  else
-  {
-    str += '<embed ';
-    for (var i in embedAttrs)
-    {
-      str += i + '="' + embedAttrs[i] + '" ';
-    }
-    str += '> </embed>';
-  }
-
-  document.write(str);
-}
-
-function AC_FL_RunContent(){
-  var ret = 
-    AC_GetArgs
-    (  arguments, ".swf", "movie", "clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
-     , "application/x-shockwave-flash"
-    );
-  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
-}
-
-function AC_SW_RunContent(){
-  var ret = 
-    AC_GetArgs
-    (  arguments, ".dcr", "src", "clsid:166B1BCA-3F9C-11CF-8075-444553540000"
-     , null
-    );
-  AC_Generateobj(ret.objAttrs, ret.params, ret.embedAttrs);
-}
-
-function AC_GetArgs(args, ext, srcParamName, classid, mimeType){
-  var ret = new Object();
-  ret.embedAttrs = new Object();
-  ret.params = new Object();
-  ret.objAttrs = new Object();
-  for (var i=0; i < args.length; i=i+2){
-    var currArg = args[i].toLowerCase();    
-
-    switch (currArg){	
-      case "classid":
-        break;
-      case "pluginspage":
-        ret.embedAttrs[args[i]] = args[i+1];
-        break;
-      case "src":
-      case "movie":	
-        args[i+1] = AC_AddExtension(args[i+1], ext);
-        ret.embedAttrs["src"] = args[i+1];
-        ret.params[srcParamName] = args[i+1];
-        break;
-      case "onafterupdate":
-      case "onbeforeupdate":
-      case "onblur":
-      case "oncellchange":
-      case "onclick":
-      case "ondblClick":
-      case "ondrag":
-      case "ondragend":
-      case "ondragenter":
-      case "ondragleave":
-      case "ondragover":
-      case "ondrop":
-      case "onfinish":
-      case "onfocus":
-      case "onhelp":
-      case "onmousedown":
-      case "onmouseup":
-      case "onmouseover":
-      case "onmousemove":
-      case "onmouseout":
-      case "onkeypress":
-      case "onkeydown":
-      case "onkeyup":
-      case "onload":
-      case "onlosecapture":
-      case "onpropertychange":
-      case "onreadystatechange":
-      case "onrowsdelete":
-      case "onrowenter":
-      case "onrowexit":
-      case "onrowsinserted":
-      case "onstart":
-      case "onscroll":
-      case "onbeforeeditfocus":
-      case "onactivate":
-      case "onbeforedeactivate":
-      case "ondeactivate":
-      case "type":
-      case "codebase":
-      case "id":
-        ret.objAttrs[args[i]] = args[i+1];
-        break;
-      case "width":
-      case "height":
-      case "align":
-      case "vspace": 
-      case "hspace":
-      case "class":
-      case "title":
-      case "accesskey":
-      case "name":
-      case "tabindex":
-        ret.embedAttrs[args[i]] = ret.objAttrs[args[i]] = args[i+1];
-        break;
-      default:
-        ret.embedAttrs[args[i]] = ret.params[args[i]] = args[i+1];
-    }
-  }
-  ret.objAttrs["classid"] = classid;
-  if (mimeType) ret.embedAttrs["type"] = mimeType;
-  return ret;
-}
-</script><script type="text/javascript">// JavaScript Document
-/*************************************************
-	This is hacked version of star rating created by <a href="http://php.scripts.psu.edu/rja171/widgets/rating.php">Ritesh Agrawal</a>
-	It thansform a set of radio type input elements to star rating type and remain the radio element name and value,
-	so could be integrated with your form. It acts as a normal radio button.
-	modified by : Logan Cai (cailongqun[at]yahoo.com.cn)
-	website:www.phpletter.com
-	
-
-
-************************************************/
-/*
-*	convert a set of radio buttons to star rating type of question
-*/
-
-jQuery.fn.rating = function(settings) {
-	settings = jQuery.extend({
-		cancel:'Cancel Rating',
-		currentValue:''
-	}, settings);			
-	var prevElem = null;
-	var valueElem = null;
-	var container = jQuery(this);
-	var CancelElem = null;
-	var event = {
-		fill: function(el){ // fill to the current mouse position.
-			var stars = jQuery(valueElem).siblings('.star');
-			var index = stars.index(el) + 1;
-			jQuery(valueElem).siblings('.star').children('a').css('width', '100%').end()
-			jQuery(valueElem).siblings('.star').slice(0,index).addClass('star_on').end();
-			$('#userscore').html(index + '/10');
-		},
-		drain: function() { // drain all the stars.
-			var stars = jQuery(valueElem).siblings('.star');
-			stars
-				.filter('.star_on').removeClass('star_on').end()
-				.filter('.star_hover').removeClass('star_hover').end();
-		},
-		reset: function(){ // Reset the stars to the default index.
-			var stars = jQuery(valueElem).siblings('.star');
-			jQuery(valueElem).siblings('.star').slice(0,settings.currentValue).addClass('star_on').end();
-		}
-	};
-	
-	return this.each(function(i){
-		if(i == 0){//prepend cancel option at the begining
-			valueElem = jQuery('<input type="hidden" name="' + this.name + '" value="" >');
-			jQuery(this).before(valueElem);
-			var CancelElem = jQuery('<span></span>');
-			prevElem = CancelElem;
-			jQuery(this).before(prevElem);
-			jQuery(CancelElem)
-				.mouseover(function(){
-					event.drain();
-					jQuery(this).addClass('star_on');
-				})
-				.mouseout(function(){
-					event.reset();
-					jQuery(this).removeClass('star_on');
-				});
-			// click events.
-			jQuery(CancelElem).click(function(){
-				settings.currentValue = jQuery(this).children('a').attr('title');
-				$(valueElem).val(settings.currentValue);
-				event.drain();
-				return false;
-			});
-		}
-		//insert rating option right after preview element
-		if(settings.currentValue != ''){
-			if(i >= settings.currentValue){
-				preElemTemp  = jQuery('<div class="star"><a href="javascript:void(0);" title="' + this.value + '">' + this.value + '</a></div>');
-			}else{
-				preElemTemp  = jQuery('<div class="star star_on"><a href="javascript:void(0);" title="' + this.value + '">' + this.value + '</a></div>');
-			}
-		}else{
-				preElemTemp  = jQuery('<div class="star"><a href="javascript:void(0);" title="' + this.value + '">' + this.value + '</a></div>');
-			}
-		jQuery(prevElem).after(preElemTemp);
-		if($('#video_voted').val() == 0){
-			jQuery(preElemTemp)
-				.mouseover(function(){
-					event.drain();
-					event.fill(this);
-				})
-				.mouseout(function(){
-					event.drain();
-					event.reset();
-				});			
-			jQuery(preElemTemp).click(function(){
-				//alert(jQuery(this).children('a').attr('title'));
-				settings.currentValue = jQuery(this).children('a').attr('title');
-				//alert(jQuery(this).children('a').attr('title'));
-				jQuery(valueElem).val(settings.currentValue);
-				event.drain();
-				//event.reset();
-				event.fill(this);
-				var myurl,myparams;
-				try{
-					if($('#video_id')){
-						myurl = '/dotvrating.php';
-						myparams = 'score=' + settings.currentValue + '&video_id=' + $('#video_id').val();
-					}
-				}catch(e){}
-				jQuery.getJSON(myurl, myparams, function(json) {
-					$('#medscore').attr("src", "/images/midGscore_" + json.score + ".gif");
-					alert(json.alert);
-					return false;
-					//document.location = document.location;
-				});
-			});
-		}
-		prevElem = preElemTemp;
-		preElemTemp = null;
-		//remove this checkbox
-		if(i + 1 == this.length){
-			event.reset();
-		}
-		//console.log(i + ' : ' + $(this).siblings('.star').length);
-		$(this).remove();
-		//
-		
-	});
-}</script><script type="text/javascript">$(document).ready(function() {
-			
-	if($('#currentuserscore').val() == 0){
-		$('#star input[type=radio]').rating();
-	}else{
-		$('#star input[type=radio]').rating({currentValue:$('#currentuserscore').val()});
-	}
-	
-	$('#star').mouseout(function(){
-		$('.star').slice(0,$('#currentuserscore').val()).addClass('star_on').end();				 
-	});
-	
-
-});</script><script type="text/javascript">function normal(sTag, eTag, alt, input) {
-
-	var editor = $(".bbeditor")[0];
-	var len = editor.value.length; 
-	var start = editor.selectionStart;
-	var end = editor.selectionEnd;
-	var selection = editor.value.substring(start, end);
-
-	if (start != null)
-	{
-		if(alt == 'url')
-		{
-			if(selection == '') selection = input;
-			
-			var replace = sTag+input+']'+selection+eTag;
-		}
-		else if(alt == 'img')
-		{
-			var replace = sTag+input+eTag;
-		}
-		else
-		{
-			var replace = sTag+selection+eTag;
-		}
-		editor.value = editor.value.substring(0,start) + replace + editor.value.substring(end,len);
-		return true;
-	}
-	else
-	{
-		return false;
-	}
-}
-
-function ie(sTag, eTag, alt, input) {
-
-	var editor = $(".bbeditor")[0];
-	
-	editor.focus();
-
-	var range = document.selection.createRange();
-
-	if (range == null) {
-		return false;
-	}
-	
-	if(alt == 'url')
-	{
-		selection = range.text;
-		if(selection == '') selection = input;
-		
-		range.text = '';
-		range.text = sTag+input+']'+selection+eTag;
-	}
-	else if(alt == 'img')
-	{
-		range.text = sTag+input+eTag;
-	}
-	else
-	{
-		range.text = sTag+range.text+eTag;
-	}
-}
-
-$('#bb_bold').live("click", function() {
-
-	sTag = '[b]';
-	eTag = '[/b]';
-	if(normal(sTag,eTag) == false)
-	{
-		ie(sTag,eTag);
-	}
-
-});
-
-$('#bb_italic').live("click", function() {
-
-	sTag = '[i]';
-	eTag = '[/i]';
-	if(normal(sTag,eTag) == false)
-	{
-		ie(sTag,eTag);
-	}
-
-});
-
-$('#bb_underline').live("click", function() {
-
-	sTag = '[u]';
-	eTag = '[/u]';
-	if(normal(sTag,eTag) == false)
-	{
-		ie(sTag,eTag);
-	}
-
-});
-
-$('#bb_left').live("click", function() {
-
-	sTag = '[left]';
-	eTag = '[/left]';
-	if(normal(sTag,eTag) == false)
-	{
-		ie(sTag,eTag);
-	}
-
-});
-
-$('#bb_right').live("click", function() {
-
-	sTag = '[right]';
-	eTag = '[/right]';
-	if(normal(sTag,eTag) == false)
-	{
-		ie(sTag,eTag);
-	}
-
-});
-
-$('#bb_center').live("click", function() {
-
-	sTag = '[center]';
-	eTag = '[/center]';
-	if(normal(sTag,eTag) == false)
-	{
-		ie(sTag,eTag);
-	}
-
-});
-
-$('#bb_url').live("click", function() {
-
-	var input=prompt('Please insert the url of your link:','http://');
-	
-	if (input !=null && input != '' && input != 'http://')
-	{
-		alt = 'url';
-		sTag = '[url=';
-		eTag = '[/url]';
-		
-		if(normal(sTag,eTag,alt,input) == false)
-		{
-			ie(sTag,eTag,alt,input);
-		}
-	}
-	else
-	{
-		return false;
-	}
-});
-
-$('#bb_img').live("click", function() {
-
-	// need to not allow dynamic images
-	var input=prompt('Please insert the URL of your image:','http://');
-	
-	if (input !=null && input != '' && input != 'http://')
-	{
-		alt = 'img';
-		sTag = '[img]';
-		eTag = '[/img]';
-		if(normal(sTag,eTag,alt,input) == false)
-		{
-			ie(sTag,eTag,alt,input);
-		}
-	}
-});
-
-$('#bb_quote').live("click", function() {
-
-	sTag = '[quote]';
-	eTag = '[/quote]';
-	if(normal(sTag,eTag) == false)
-	{
-		ie(sTag,eTag);
-	}
-
-});</script><script type="text/javascript">
-
-
-/*var banner = $("#banner");
-banner.find('script').remove();
-banner.find('noscript').remove();
-$("#banner").remove();
-$("#banner_jsHolder").replaceWith(banner);
-$("#banner").show();
-
-
-/*var advert = $("#advert");
-advert.find('script').remove();
-advert.find('noscript').remove();
-$("#advert").remove();
-$("#advert_jsHolder").replaceWith(advert);
-$("#advert").show();*/
-
-
-flashObjects = document.getElementsByTagName('object');
-for (var i = 0; i < flashObjects.length; i++)
-{
-	var flashNode = flashObjects[0];
-	var paramNodes = flashNode.getElementsByTagName('param');
-	//console.log(paramNodes);
-}
-
-flashEmbeds = $('embed');
-for (var i = 0; i < flashEmbeds.length; i++)
-{
-	var flashNode = flashEmbeds[i];
-	//console.log("node: "+flashNode);
-	//console.log(flashNode);
-	var wmode = $(flashNode).attr("wmode");
-	if (wmode)
-	{
-		//console.log(wmode);
-
-	}
-	else
-	{
-		$(flashNode).attr({wmode: "transparent"})
-		$(flashNode).parent().append($(flashNode));
-		//console.log("added wmode");   
-	}
-}</script><script type="text/javascript">// JavaScript Document
-$(function() {
-	var body_ad = $("body");
-	var ad_url = $(".fullpage_takeover").attr("rel");
-
-	if(body_ad && ad_url) 
-	{
-		body_ad.click(function(e){
-			//alert(e.target.id);
-			
-			var targ;
-			if (!e) var e = window.event;
-			if (e.target) targ = e.target;
-			else if (e.srcElement) targ = e.srcElement;
-			if (targ.nodeType == 3) // defeat Safari bug
-			{
-				targ = targ.parentNode;
-			}
-			if( targ.id == "home" ) 
-			{
-				var newWindow = window.open(ad_url, '_blank');
-				newWindow.focus();
-				return false;
-			}
-			else if( targ == document.body ) 
-			{
-				var newWindow = window.open(ad_url, '_blank');
-				newWindow.focus();
-				return false;
-			}
-			else {
-				return true;
-			}
-		
-		});
-	}
-});</script>
-
 				
 			<script type="text/javascript">
 				function handle_alerts() {
@@ -2061,6 +1398,59 @@ $(function() {
 				pageTracker._trackPageview();
 			</script>
 			<script type="text/javascript">
+				function activateRateGameBars() {
+					$('.rateThisGame').each( function(i) {
+						var $this = $(this);
+						$rateBoxes = $('.rateBox', $this);
+						var defaultScore = $this.attr("defaultScore");
+						if ( defaultScore > 0 ) {
+							for ( var i=0; i < defaultScore; i++) {
+								$($rateBoxes[i]).addClass("active");
+							}
+							$('.rateNumber', $this ).html(defaultScore);
+						}
+						else {
+							$rateBoxes.hover( 
+								function() {
+									var $parent = $(this).parent();
+									var boxes = $('.rateBox', $parent);
+									var value = $(this).attr("value");
+									for ( var i=0; i < value; i++) {
+										$(boxes[i]).addClass("active");
+									}
+									$('.rateNumber', $parent).html(value);
+								} ,
+								function() {
+									var $parent = $(this).parent();
+									$('.rateBox', $parent).removeClass("active");
+									$('.rateNumber', $parent).html('0');
+								}
+							).click( function() {
+								var $parent = $(this).parent();
+								
+								var game_id = $parent.attr("gameid");
+								var value = $(this).attr("value");
+								$.ajax({
+									type: "GET", 
+									url: '/Members/Review/AutoRate/'+game_id+'/'+value+'',
+									data: { ajax: 1 }, // SAVE FUNCTION
+									success: function(data) {
+										if ( data == 1 ) {
+											var $rateBoxes = $('.rateBox', $parent);
+											$rateBoxes.removeClass("active");
+											for ( var i=0; i < value; i++) {
+												$($rateBoxes[i]).addClass("active");
+											}
+											$('.rateNumber', $this ).html(value);
+											$rateBoxes.unbind();
+										}
+									}
+								});
+							});
+						}
+					});
+				}
+				activateRateGameBars();
 				  function bookmarksite(title,url)
 				  {
 					if (window.sidebar) // firefox
@@ -2079,6 +1469,7 @@ $(function() {
 			</script>
 			
 			<script type="text/javascript" src="/js/takeover.js"></script>
-			
+
+			<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 	
-</div></body></html>
+</body></html>
