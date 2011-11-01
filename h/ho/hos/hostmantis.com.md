@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hostmantis.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923083501id_/http%3A//www.hostmantis.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostmantis.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105525id_/http%3A//www.hostmantis.com/privacy.php) for the most accurate reproduction.*
 
-# Affordable Web Hosting - $2.49 a month - Cheap Linux Hosting - Reliable Cheap Hosting
+# HostMantis - Privacy Policy
 
 ### HostMantis Privacy Policy
 
