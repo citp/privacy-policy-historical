@@ -1,15 +1,8 @@
-> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502125827id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dukebasketballreport.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193626id_/http%3A//www.dukebasketballreport.com/privacy) for the most accurate reproduction.*
 
 # Duke Basketball Report - Privacy Policy
 
-| 
-
-"He's a human being. Kyle's won 117 games as a player he's 117-20. He's entitled to not playing as well every once in a while. In other words, he's a champion. I'm okay with Kyle."  
-Coach K on Kyle Singler's "slump"
-
-[](http://www.cafepress.com/juliovision/5912367) [](http://www.bluedevilphotos.com/) [](http://www.dukesportsmedicine.com/)
-
-|  | 
+|  |  | 
 
 ### Privacy Policy
 
