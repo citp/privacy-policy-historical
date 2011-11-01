@@ -1,0 +1,649 @@
+<!--The following is the downloaded HTML source of the texterity.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101133807id_/http%3A//www.texterity.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="tNNwPKvxigVLBRwUMTyIc8hPqGlaE41C8B0dyREkoVU">
+<meta property="og:image" content="/images/favicon-rgb.jpg">
+
+
+
+<link rel="stylesheet" type="text/css" media="all" href="/css/master.css">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+
+<script type="text/javascript" src="/js/jquery.newsticket.cfm"></script>
+
+<script type="text/javascript">
+	function checkSearch() {
+		var searchText = document.getElementById("searchVal").value;
+		if (searchText == '') {
+			alert("Please enter a search term");
+			document.getElementById("searchVal").focus();
+			return false;
+		} else {
+			return true;
+		}	
+	}
+
+</script>
+
+
+
+<!--[if IE 7]>
+
+<link rel="stylesheet" type="text/css" media="all" href="/css/ie.css" />
+
+<![endif]-->
+
+
+<script>	
+function ORW(url,n) {n='w'+Math.round(Math.random()*(1000000000));w=screen.width-10;h=screen.height-40;nurl=url+"?fm=2"; window.open(nurl,n,'toolbar=no,menubar=no,resizable=yes,scrollbars=yes,left=0,top=0,width='+w+',height='+h);}	
+</script>
+
+<script type="text/javascript" defer="defer">
+$(document).ready(function(){
+	//$("#news").newsticker();
+	//$("#news2").newsticker();`
+	
+	$.get("/flash-left.cfm", {}, function(data) {
+		$("#newsLeft").append(data).find("ul").newsTicker();
+	});
+	
+	$.get("/flash-right.cfm", {}, function(data) {
+		$("#newsRight").append(data).find("ul").newsTicker();
+	});
+	
+	/*
+	var jXML = {
+	    getCount: function(xml,nodes) {
+	        var response = {};
+	        for (var node in nodes) {
+	            response[node] = $(nodes[node],xml).length;
+	        }
+	        return response;
+	    },
+	    getAttribute: function(xml,nodes) {
+	        var response = {};
+	        for (var node in nodes) {
+	            if (nodes[node][2] == null) {
+	                response[node] = $(nodes[node][0] + "[" + nodes[node][1] + "]",xml);
+	            } else {
+	                if ($(nodes[node][0],xml).attr(nodes[node][1]) == nodes[node][2]) {
+	                    response[node] = $(nodes[node][0],xml);
+	                }
+	            }
+	        }
+	        return response;
+	    },
+	    getRandomObj: function(xml,nodes) {
+	        var response = {};
+	        for (var node in nodes) {
+	            var a = [];
+	            var b = [];
+	            $(nodes[node][0],xml).each(function(i) {
+	                b[i] = this;
+	            });
+	            var c = b.length;
+	            if (nodes[node][1] != null && nodes[node][1] < c) {
+	                c = nodes[node][1];
+	            }
+
+	            for (i = 0; i < c; i++) {
+	                var e = Math.floor(Math.random() * b.length);
+	                a[i] = b[e];
+	                b.splice(e,1);
+	            }
+	            response[node] = a;
+	        }
+
+	        return response;
+	    }
+	};
+	
+	$.ajax({
+		type: "GET",
+		url: "/atom.xml",
+		dataType: "xml",
+		success: function(xml) {
+			var random = jXML.getRandomObj(xml,{"Title":["title",null]});
+			for (i = 0; i < random["Title"].length; i++) {
+				$("#news2").append("<li><span class='headerLead'><a href=\"#BulletinBoard\">"+$(random["Title"][i]).text()+"</a></span></li>"); 
+			}
+			$("#news2").newsTicker();
+		}
+	});*/
+})
+</script>
+
+<script type="text/javascript" src="js/custom-form-elements.js"></script> 
+	<!--[if IE 6]>
+			<script src="/js/DD_belatedPNG_0.0.7a-min.js"></script>
+			<script>
+				DD_belatedPNG.fix('.readersExp, .pubAdvTab, .pubSupp, .general, img');
+			</script>
+			
+			<style>
+				.homeLinks	{float:left; text-align:right; padding-left:80px; margin-top:284px; width:257px;}
+				.general .defaultTab			{width:735px;}
+				.readersExp .readexpTab			{width:735px;}
+				.pubAdvTab .pubAdvantagesTab	{width:735px;}
+				.pubSupp .pubSupportTab			{width:735px;}
+				.tabText					{padding-left:12px; border-right:12px solid #FFFFFF; width:710px; min-height:530px;}
+
+
+				
+                
+					
+
+
+
+
+
+			</style>
+			
+	<![endif]--> 
+	
+	<!--[if IE 7]>
+			<style>
+			.alertsContainer div table tr td.tag	{padding-left:35px;}
+			</style>
+	<![endif]-->
+
+<title>Texterity Online Privacy Policy</title>
+	
+		<meta name="Description" content="Texterity is a leading provider of digital editions and mobile publishing solutions. With magazine-branded mobile apps and cross-platform innovations, Texterity is leading the e-reading revolution. Texterity currently creates, maintains, and tracks more than 1,000 digital editions of magazines and has dozens of magazine apps in the App Store.">
+			
+
+<meta name="Keywords" content="texterity, digital delivery made simple, digital magazines, electronic magazines, web zines, zinio, zinio.com, magazine, magazines, emagazine, read, book, ebook, newsstand, news, affiliate, electronic edition, digital edition, electronic edition, digital delivery, newsstand, newstand, newspaper, magazine, newspapers, magazines, electronic newspaper, electronic magazine, electronic newspapers, on-line newspapers, on-line magazines, on-line newspaper, on-line magazine, online newspapers, online magazines, online newspaper, online magazine, on line newspapers, on line magazines, on line newspaper, on line magazine, electronic document, electronic documents, catalogs, electronic catalog, electronic catalogs, on-line catalog, on-line catalogs, online catalog, online catalogs, on line catalog, on line catalogs, electronic publishing, electronic publisher, on-line publishing, online publishing, on line publishing, on-line publisher, on line publisher, qmags, nxtbook, mobile apps, magazine apps, iphone app, ipad app, magazine iphone app, magazine ipad app">
+</head>
+<body>
+
+
+
+<div class="padder">
+	
+	
+	<div class="header" style="width:989px;">
+
+		
+		
+		
+	
+	
+	
+	
+    
+    
+
+
+
+
+
+
+
+
+		<div class="msgBox">Did you know that 28% of magazine app users also read the print magazine? <a href="http://www.texterity.com/survey" target="new"><b>Request a free copy</b></a> of Texterity's 6th annual readership survey! BPA-certified results. </div>
+		
+		
+		<div class="logo"><a href="/"><img src="/img/header_logo.gif" alt="Texterity, Inc."></a>
+			<form name="searchForm" id="searchForm" action="/index.cfm?ac=searchResults" method="post" onsubmit="return checkSearch();">
+				<input type="text" name="searchVal" id="searchVal" value="">&nbsp;
+				<input type="submit" name="submit" value="search">&nbsp;&nbsp;&nbsp;
+			</form>
+		</div>
+		
+	
+	
+	
+	
+    
+    
+
+
+
+
+
+
+
+
+		<div class="topUtility"><div id="social"><g:plusone size="small"></g:plusone><a href="http://www.facebook.com/Texterity"><img src="/img/facebook.png" alt="Follow Texterity on Facebook"></a><a href="http://twitter.com/texterity"><img src="/img/twitter.png" alt="Follow Texterity on Twitter"></a><a href="http://www.linkedin.com/company/texterity-inc."><img src="/img/linkedin.png" alt="LinkedIn"></a><a href="http://www.youtube.com/texteritydigital"><img src="/img/youtube.png" alt="YouTube"></a> </div><div id="utilityText"><a href="/">home</a>  |  <a href="/about">about us</a>  |  <a href="/sampleissues">sample issues</a>  |  <a href="/inforequest">information request</a></div>
+<script> type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
+	</div>
+
+	
+	<div class="shadowB">
+		<div class="shadowfix">
+	
+		<div class="shadowR">
+			<div class="shadowL">
+				<div class="shadowT">
+					<img src="/img/shadowTL.gif" alt=""><br>
+					<div class="container" style="padding-left:0px;">
+                    
+                    
+                    
+
+
+
+                
+
+	<div class="general">
+	<div class="defaultTab">
+	<div class="tabText">
+	<div class="tabBorders">
+	<div class="content">
+											
+
+
+
+ 
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td valign="top" style="width:461px;" class="bodycolor">
+	<div style="padding:12px;">
+	<h1 class="pageHeader">Texterity Online Privacy Policy </h1>
+      <p class="bodyCopy">
+      
+      </p><div style="width:450px;">
+	  <p class="bodyCopy">
+      </p><div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity, Inc. (also referred to as "we" or "us") provides online services through its Web sites (the "Sites") and downloadable apps through online stores (together referred to as the "Services"). Please read the following policy to understand how your personal information will be treated. Our Online Privacy Policy explains our commitment to provide you with excellent service and to protect your privacy online.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">By visiting our site and using our Services, you signify your agreement to this Online Privacy Policy. Please take a few minutes to read them before using or registering with our Sites.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Our Sites and Services are not directed toward children (minors under 13 years of age). We do not knowingly collect personally identifiable information from children.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO OUR ONLINE COLLECTION </span><span style="FONT-SIZE: 10pt">AND</span><span style="FONT-SIZE: 10pt"> USE OF INFORMATION </span><span style="FONT-SIZE: 10pt">AND</span><span style="FONT-SIZE: 10pt"> DOES NOT APPLY TO ANY INFORMATION THAT YOU </span><span style="FONT-SIZE: 10pt">MAY</span><span style="FONT-SIZE: 10pt"> PROVIDE TO US BY OTHER MEANS, SUCH AS </span><span style="FONT-SIZE: 10pt">VIA</span><span style="FONT-SIZE: 10pt"> MAIL OR TELEPHONE.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">If you receive mailings from us and prefer not to receive these mailings, or if you have questions or wish to send us comments about this Online Privacy Policy, please use the online form at http://www.texterity.com/inforequest or mail your questions or comments to:</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity, Inc.<br>Attn: Customer Service<br></span><span style="FONT-SIZE: 10pt">144 Turnpike Road</span><span style="FONT-SIZE: 10pt"><br></span><span style="FONT-SIZE: 10pt">Southborough</span><span style="FONT-SIZE: 10pt">, </span><span style="FONT-SIZE: 10pt">MA</span><span style="FONT-SIZE: 10pt">01772</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Please be assured that any personal information that you provide in communications to the above online form and postal mail addresses will not be used to send you promotional materials, unless you so request. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">This Online Privacy Policy covers the following:</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<ol style="MARGIN-TOP: 0pt" type="1">
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=info"><font color="#333333">Information Covered by this Online Privacy Policy</font></a></span></li>
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=types"><font color="#333333">Types of Personally Identifiable Information We Collect</font></a></span></li>
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=how"><font color="#333333">How your Personally Identifiable Information is Used and Shared</font></a></span></li>
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=what"><font color="#333333">What Choices You Have about the Collection and Use of Your Personally Identifiable Information</font></a></span></li>
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=security"><font color="#333333">Security Measures Taken to Safeguard Your Personally Identifiable Information</font></a></span></li>
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=correct"><font color="#333333">How to Correct or Update Your Contact Information and Opt-Out Choices</font></a></span></li>
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=amend"><font color="#333333">Amendments to this Privacy Policy</font></a></span></li>
+    <li style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt"><a href="http://www.coverleaf.com/#privacy?section=children"><font color="#333333">Children Under the Age of 13 Unauthorized to Visit Our Sites</font></a></span></li>
+</ol>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">1. Information Covered by this Online Privacy Policy</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">In order to use certain of our Services, you are required to register or purchase. Some personal information is gathered when you register. You may provide us with a name, address, zip code, email address, as well as other information, for example, gender, age and number of children. We refer to this type of information in this Privacy Policy as “Personally Identifiable Information”. This Personally Identifiable Information enables us to process your order and to customize your experience on the Sites in the future. Once you register, you are no longer anonymous to Texterity and we are better able to serve you.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We respect the privacy of those who visit the Sites ("Users" or "Visitors"). While we collect information from Visitors, We do not release Personally Identifiable Information about Visitors without their permission except as set forth within this Privacy Policy.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2. Types of Personally Identifiable Information We Collect</span></strong></div>
+<div style="MARGIN: 0pt"><strong>&nbsp;</strong></div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.1 Information You Provide to Us </span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Much of the Personally Identifiable Information we receive comes directly from you when obtaining various products and Services from us. If you purchase products or services from us, we may collect, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. We may collect Personally Identifiable Information when you register on, log on, or visit our Web sites, including when you participate in activities on our Web sites, such as informational and promotional offers, and when you provide information to our customer service representatives. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We do not control or have responsibility for the acts of Users of any of the Sites. Please be aware that if you disclose personal information in a bulletin board, chat room or other public forum, that information may be used by others. Our Web sites may offer public forums such as message boards, conversation pages, chat rooms, profile pages (“Public Forums”). If you provide Personally Identifiable Information through the Public Forums, that Personally Identifiable Information may be publicly posted through the Public Forum and otherwise disclosed without limitation as to its use by a third party. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.2 Information Collected Through Technology </span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We collect information through technology to make our sites more interesting and useful to you and for various purposes related to our business. For instance, when you come to one of our sites, we may collect information about your access time and your computer configuration, including the type of browser software you use, the operating system that you're running, the resolution of your computer monitor and your Internet Protocol ("IP") address. Your IP address is a number that is used by computers connected to the Internet to identify your computer so that data (such as the web pages you request) can be sent to you. Your IP address does not tell us who you are. An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP), your company, or your university. Standing alone, your IP address is not personally identifiable. We may use IP addresses to collect information regarding the frequency with which individuals visit various parts of our sites, and we may combine IP addresses with Personally Identifiable Information.&nbsp;We may also collect your device ID if you are using a mobile device such as a phone or tablet.&nbsp;Similar to an IP address, the device ID does not tell us who you and does not provide us with any Personally Identifiable Information.&nbsp;The device ID will allow Texterity to provide new content to your mobile device for subscriptions or notifications.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.3 Cookies</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Our Web sites collect information through a variety of technical methods, including cookies and Web beacons. A cookie is a text file stored on a user's hard drive that a Web site sends to your computer while you are viewing the Web site. It contains no Personally Identifiable Information. Web beacons are small pieces of data that are embedded in images on the pages of Web sites. Cookies, web beacons and other technical methods may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. Cookies are not used to retrieve any Personally Identifiable Information from the user's computer.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We may use the information collected through these technical methods for many purposes, including delivering content, tracking and enhancing individuals' experience on our Web sites. For example, when you return to one of our Web sites after logging in, cookies provide information to the site so that the site will remember who you are. We also may use technical methods to analyze the traffic patterns on our Web sites, such as the frequency with which our users visit various parts of our Web sites, and third party Web sites, such as the frequency with which our users visit other Web sites. In HTML e-mails that we send our guests, we may use technical methods for a number of purposes, including: to determine whether our guests have opened or forwarded those e-mails and/or clicked on links in those e-mails, and to determine whether a person has made an inquiry or purchase in response to a particular e-mail. These technical methods may enable us to collect and use information in a form that may be personally identifiable. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.4 Disclaimer About Links</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity is not responsible for the privacy of information you may submit to a linked site. If you click on a third-party link or an advertisement on one of our Web sites or apps and link to a third party's Web site, then our Privacy Policy will not apply to your Personally Identifiable Information collected on that third party's Web site and you must read the privacy policy posted on that site to see how your Personally Identifiable Information will be handled. We do not monitor or control the information collection or privacy practices of third parties, and are not responsible for their practices or the content of their Web sites, including, without limitation, their use of any information (such as IP number, browser type, or operating system) collected when you "click through" links to their Web sites. Please contact such third parties if you have any questions about their respective privacy policies.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Advertisements of third parties may appear on our Web sites or apps. These companies are called "network advertisers." Network advertisers who place advertisements on our Web sites may use cookies and Web beacons to collect non-personally identifiable information about your visits to our Web sites and other Web sites in order to provide advertisements about goods and services of interest to you. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">2.5 Information That We Collect from Others </span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We may update and supplement Personally Identifiable Information that we have collected directly from individuals with other information that we obtain from third parties and other Texterity Web sites. In addition, when we add information that we obtain from third parties or other Texterity Sites with Personally Identifiable Information that we have collected from you, we treat all your Personally Identifiable Information that we obtain from others with the same care described under this Privacy Policy.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3. How Personally Identifiable Information is Used and Shared<br><br></span></strong></div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may use your Personally Identifiable Information in many ways as set out below. Your Personally Identifiable Information is kept on a secure server to protect it from outside parties. We will share a limited portion of this information, your email address, physical address, and demographic information, with publishers of magazines to which you have already subscribed or have just ordered.&nbsp;The Publisher may use your email or physical address to send you additional correspondence.&nbsp;The Publisher may also share your information with a third party. &nbsp;We encourage you to read and understand the Publisher’s privacy policy. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may use your Personally Identifiable Information to generate aggregated statistical information. But such aggregated information will exclude your credit card number and expiration date and any other Personally Identifiable Information. We describe our uses of your information below. You may "opt out" of certain uses of your Personally Identifiable Information, as described in Section 4 below.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.1 Texterity Promotional Uses</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may use your Personally Identifiable Information to send you promotional materials about goods and services (including special offers and promotions) offered by Texterity ("Promotional Uses"). These promotional materials may be sent to you by postal mail, e-mail or other means. You may opt out of receiving these communications as provided in Section 4 below. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">By knowing a little about you, Texterity is able to deliver more relevant advertisements and content and better service to you. In delivering targeted advertisements, we may deliver an advertisement to the type of individual who may be within a relevant audience. In this process, the advertiser never has access to Personally Identifiable Information. This kind of advertisement targeting is done with banner ads as well as promotional email through the Sites.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Please keep in mind, however, that when you purchase or request products or services (or information about products or services) from a particular Texterity Web site or app, promotional materials about goods and services offered by another Texterity Web site and/or by a third party may accompany delivery of the product, service or information that you have requested. Because these promotional materials accompany products, services or information that you have requested, your opt-outs for Texterity Web sites under Section 4 below will not apply to any of these types of Promotional Uses.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.2 Operational Uses</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may also use your Personally Identifiable Information for many purposes other than sending you promotional materials. (We refer to all of these types of uses of your personal information that do not involve the sending of promotional materials as "Operational Uses.") For example, we may use your information to complete transactions requested by you (such as your purchase of a product or service offered on our Web sites or apps), or to send you administrative communications either about your account with us or about features of our Web sites or products ordered by you. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Sometimes Texterity also works with other companies who facilitate transactions with you and help either gather your information or communicate with you, such as a company that helps to provide customer service. Your opt-out choices under Section 4 below will not apply to sharing by Texterity of your personal information with any of these companies. Nonetheless, except as separately permitted by other provisions of this Privacy Policy, these companies are allowed to gather, receive, and use your information only for the purposes described in this paragraph or to facilitate compliance with laws. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">As another example of Operational Uses, we may share your Personally Identifiable Information with the Texterity telephone service center or third party telephone service centers contracted by Texterity, so that the service center operators are able to respond immediately to your questions or requests when you call, rather than asking you to provide your information a second time. Because these uses of your Personally Identifiable Information do not involve sending you promotional materials and may be necessary to fulfill you account with us, your opt-outs under Section 4 below will not apply to any of these Operational Uses. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.3 Non-Personally Identifiable Information</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity may take your Personally Identifiable Information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics that make the information personally identifiable to you (de-personalizing your information). Texterity may aggregate or de-personalize your Personally Identifiable Information. We use non-personally identifiable information in aggregate form to build higher quality, more useful Services by performing statistical analyses of the collective characteristics and behavior of our Visitors, and by measuring demographics and interests regarding specific areas of the Sites. We may provide statistical information based on this data to advertisers, affiliates, clients, and other current and potential business partners.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.4 Purchase or </span></strong><strong><span style="FONT-SIZE: 10pt">Sale</span></strong><strong><span style="FONT-SIZE: 10pt"> of Businesses </span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">From time to time, we may purchase a business or sell one or more of our businesses (or portions thereof) and your Personally Identifiable Information may be transferred as a part of the purchase or sale. In the event that we purchase a business, the Personally Identifiable Information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. In the event that we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your Personally Identifiable Information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). In light of this protection, your opt-out choices under Section 4 will not affect our right to transfer your information to a purchaser in these circumstances.</span></div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">&nbsp;</span></div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">3.5 Disclosures to Comply With Laws and Disclosures to Help Protect the Security and Safety of Our Web Sites, Texterity and Others </span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Regardless of any opt-out choices that you make under Section 4, Texterity will disclose Personally Identifiable Information when it believes in good faith that such disclosures (a) facilitate compliance with laws, including, for example, compliance with a court order or subpoena, or (b) will help to: enforce promotions; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites, Texterity, and/or third parties, including the safety and security of property that belongs to Texterity.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">4. Choices You Have About the Collection, and Use of Your Personally Identifiable Information </span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity will share your email address with the publisher of the title for which you create an account and provide your email address.&nbsp;You can edit your email address or remove your email address through the Account feature in the app.&nbsp;However, your email address may have already been transferred to the publisher. Removing your email address in the Account feature in an app will not remove your name from the publisher’s records, nor will it opt you out of receiving materials from the publisher.&nbsp;You must opt out directly with the publisher through the means that the publisher provides. Texterity has no control over the opt out process, policies, or procedures of the individual publishers.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">You may also opt-out of promotional materials within emails by following a link to opt-out.&nbsp;Be aware that you may receive two types of emails and it is your choice to opt-out of either type of email. One type of email is the new issue notification sent by Texterity. You may opt-out of the new issue notification emails sent by Texterity by following the opt-out link. Opting-out of a new issue notification sent by Texterity will not cancel your subscription nor issue a refund. Opting-out of a Texterity new issue notification will only stop Texterity from sending you any future new issue notifications for the title for the title in question. You will still receive new issue notifications for other titles for which you have not opted-out.&nbsp;</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">The second type of email that you may receive is those sent by the Publisher or a third party that the publisher has shared your email with. Opting-out of a Texterity new issue notification will not opt you out of receiving emails from the Publisher or a third party.&nbsp;You must opt-out of these emails separately. Texterity has no control over the opt-out process, policies, or procedures of the individual publishers or third parties.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">Your opt-out choices are as follows: </span></strong></div>
+<div style="MARGIN: 0pt"><strong>&nbsp;</strong></div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">Third Parties:</span></strong><span style="FONT-SIZE: 10pt"> When you order products from third parties through Texterity, you may receive third party promotional materials over which Texterity has no control. Your opt-out choices for third parties generally are specific to the parties from which you purchase products.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">Texterity:</span></strong><span style="FONT-SIZE: 10pt"> You may choose to opt out of receiving promotional materials from Texterity. Please keep in mind that any opt-out choices you make will not apply in situations where (a) you either have made, simultaneously make, or later make a specific request for information from Texterity, (b) Texterity uses your Personally Identifiable Information for either "Operational Uses" or "Fulfillment Uses" (as described above in Section 3.2), (c) Texterity shares your Personally Identifiable Information under the provisions of Section 3 above with respect to "Companies That Facilitate Communications and Transactions With You," "Purchase or Sale of Businesses," or "Disclosures to Comply with Laws and Disclosures to Help Protect the Security and Safety of Our Web Sites, Texterity and Others." Also, any opt-out choices you make will not apply to Personally Identifiable Information that you provide about other persons, but these other persons will have the opportunity to opt out of receiving promotional materials. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">In addition, any time that we send you promotional materials that you have consented to receive under one of the previously described opt-out choices, we may accompany those materials with promotional materials covered by the other opt-out choices. We may do so even if you have opted out of receiving promotional materials covered by those other opt-out choices. Any such additional promotional materials, however, will constitute only a minor part of any particular communication with you. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Finally, if you do not exercise your opt-out choices upon registration or initial log-in at our Web sites or apps, it may take up to ninety (90) days for your opt-out choices to be fully effective. Our systems require time to update, and promotional mailings using your Personally Identifiable Information shared before your opt-out may already be in process. Finally, please keep in mind that, if you have not consistently used the same postal and email addresses on our Web sites, or if you have used a general change of address process (such as the change of address process offered by the U.S. Post Office) after providing address information on our Web sites or apps, systems maintained by Texterity may have varying contact information for you. Accordingly, it may not always be possible to match your new opt-out choices with your Personally Identifiable Information that you previously have provided.</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">5. Security Measures Taken to Safeguard Personally Identifiable Information </span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">The Personally Identifiable Information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. From time to time, we review our security procedures in order to consider appropriate new technology and methods. Please be aware though that, despite our best efforts, no security measures are perfect or impenetrable and no software or server is 100% secure. Any information you include in a message you post to any message board, discussion group, or other public posting area on our Web sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">6. How to Correct or Update Your Contact Information <br><br></span></strong></div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">You can access and update the contact information you gave us during registration (that is, your postal address, e-mail address, or any other information that would directly enable us to contact you), by changing your information in the Account feature of the app.&nbsp;You will need to visit the Account in a particular app to change your preferences associated with that app, or you may use the form at http://www.texterity.com/inforequest to request assistance. Finally, you may unsubscribe from certain e-mail communications by clicking on unsubscribe links in those e-mails. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">In some cases, your account may expire or be terminated. If so, you may contact Customer Service at the address in Section 7 below to update your information and opt-out choices (to the extent that we still retain them).</span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">7. Amendments to this Privacy Policy</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">We may amend this Privacy Policy at any time. If we amend this Privacy Policy to permit material changes in the way we collect, use, and/or share your Personally Identifiable Information, we will post notice of such amendment on the Web sites covered by this Privacy Policy and any such amendment will be effective thirty (30) calendar days later. Please note that, at all times, you are responsible for updating your Personally Identifiable Information to provide us your current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the amendment described in the notice. In any event, an amendment to this Privacy Policy may permit material changes in the way we use and share Personally Identifiable Information that you provided us prior to our notification to you of such amendment. If you do not wish to allow such material changes, you must so notify us (in the manner we specify) prior to the effective date of the amendment. If you provide us this notice, we may choose to deactivate your account. Please be advised, however, that, regardless of whether you provide such notice to us, any such amendment to this Privacy Policy will apply to any Personally Identifiable Information that you provide us on or after the effective date of such amendment. </span></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><strong><span style="FONT-SIZE: 10pt">8. Children under the age of 13 who visit our sites</span></strong></div>
+<div style="MARGIN: 0pt">&nbsp;</div>
+<div style="MARGIN: 0pt"><span style="FONT-SIZE: 10pt">Texterity cares about protecting the privacy of children. We won't knowingly allow anyone under 13 to provide us any Personally Identifiable Information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We encourage you to become involved in your children's online experience, and to share your interest in our sites with your young ones. If you're under 13, please do not register with any of our sites or provide us with any Personally Identifiable Information (such as your name, your email address or your phone number). </span></div>
+	  <p></p>
+	  </div>
+      
+      <p class="bodyCopy">&nbsp;</p>      
+	  </div>
+	  </td>
+    
+    
+    
+    <td width="152" valign="top">
+	<div style="padding:12px 12px 12px 3px;">
+     
+<div class="brownLinkNav">
+	<a href="/about" class="brownlink">ABOUT US <span class="sidebarHomeLinksArrow">&gt;</span></a>
+	<a href="/contact" class="brownlink">CONTACT US <span class="sidebarHomeLinksArrow">&gt;</span></a>
+	<a href="/Working_With_Us" class="brownlink">WORKING WITH US <span class="sidebarHomeLinksArrow">&gt;</span></a>
+	
+	
+	
+	<a href="/customerlist" class="brownlink">CUSTOMER LIST <span class="sidebarHomeLinksArrow">&gt;</span></a>
+	<a href="/leadership" class="brownlink">LEADERSHIP <span class="sidebarHomeLinksArrow">&gt;</span></a>
+		
+	<a href="/pressroom" class="brownlink pubsupTabLink">PRESS ROOM <span class="sidebarHomeLinksArrow">&gt;</span></a>
+	<a href="/sampleissues" class="brownlink otherTabLink">SAMPLE ISSUES <span class="sidebarHomeLinksArrow">&gt;</span></a>
+    
+	
+	
+	
+	
+	<a href="/casestudies" class="brownlink">CASE STUDIES <span class="sidebarHomeLinksArrow">&gt;</span></a>
+    <a href="/resources" class="brownlink">RESOURCES <span class="sidebarHomeLinksArrow">&gt;</span></a>
+	<a href="/jobs" class="brownlink">JOBS <span class="sidebarHomeLinksArrow">&gt;</span></a>
+	<a href="/blog" class="brownlink">BLOG <span class="sidebarHomeLinksArrow">&gt;</span></a>
+</div>        
+
+  
+ 
+
+
+	
+
+
+
+
+
+
+ 
+
+      
+      
+      
+      
+      </div>
+      
+            </td>
+    <td width="68" valign="top"><div style="padding:12px 12px 0px 0px;">
+    
+    <a href="/"><img src="/img/tab_home_on.gif" alt="Home" width="68" height="200"></a>
+    
+    </div>
+    </td>
+  </tr>
+</tbody></table>
+</td>
+</tr></tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<meta property="og:title" content="Texterity Online Privacy Policy">
+
+
+
+                
+
+
+
+										</div>
+									</div>
+								</div>		
+								<div class="tabShadow">
+									<div class="floatLeft"><img src="/img/shadowB2L.gif" alt=""></div>
+									<div class="clear">&nbsp;</div>
+								</div>						
+							</div>
+							<div class="readexpTab"><a href="/reader_experience"><img src="/img/readexp_off.gif" alt="reader experience"></a></div>
+							<div class="pubAdvantagesTab"><a href="/publisher_advantages"><img src="/img/pubAdvantages_Off.gif" alt="publisher advantages"></a></div>
+							<div class="pubSupportTab"><a href="/publisher_support"><img src="/img/pubSupport_Off.gif" alt="publisher support"></a></div>
+							<div class="clear">&nbsp;</div>
+						</div>					
+
+  
+
+
+						<div class="footer">
+	
+	
+	
+	
+    
+    
+
+
+
+
+
+
+
+
+						<div class="footerLinks"><a href="/">home</a>  |  <a href="/about">about us</a>  |  <a href="/coverleaf">coverleaf</a>  |  <a href="/samples">sample issues</a>  |  <a href="/bulletinboard">bulletin board</a>  |  <a href="/contact">contact us</a>  |  <a href="/inforequest">information request</a>  |  <a href="/privacy_policy">privacy policy</a></div>
+Copyright © 2003-2011 Texterity, Inc. All rights reserved. Texterity is a leading provider of digital publishing solutions and mobile digital edition innovations.<br>
+							Texterity, Coverleaf, Published Web Format, Digital Delivery Made Simple, We Know Your Issues, TextCafe, FreeSVG, and the Texterity logo are registered trademarks or service marks of Texterity, Inc.
+
+						</div>
+						
+					</div>
+				</div>
+			</div>
+			<div class="floatRight"><img src="/img/shadowRT.gif" alt=""></div>
+			<div class="clear">&nbsp;</div>
+		</div>
+		<div class="clear">&nbsp;</div>
+		
+		
+		</div>	
+			
+		<div class="floatLeft"><img src="/img/shadowBL.gif" alt=""></div>
+		<div class="floatRight"><img src="/img/shadowBR.gif" alt=""></div>
+		<div class="clear">&nbsp;</div>
+	</div>
+	
+
+
+</div>
+
+	
+	
+	
+	
+    
+    
+
+
+
+
+
+
+
+
+<!-- Tracking codes for Google Analytics (GA) and Wordstream -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-442551-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='"+((document.location.protocol=="https:") ? "https:" : "http:")+"//tracker.wordstream.com/ngt.js'%3E%3C/script%3E"));
+</script><script src="https://tracker.wordstream.com/ngt.js"></script> <script type="text/javascript">
+if (window._ngt)
+{
+  var tracker = new _ngt("WS-73C869");
+  tracker.track();
+}
+</script>
+
+
+
+
+
+
+
+
+
+
+	
+    
+    
+    	
+      	      
+        
+        
+    
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+</body></html>
