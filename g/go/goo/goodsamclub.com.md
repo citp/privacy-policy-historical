@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629040821id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodsamclub.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003804id_/http%3A//www.goodsamclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Good Sam Club
 
