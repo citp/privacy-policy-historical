@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2merkato.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222181105id_/http%3A//2merkato.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2merkato.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000531id_/http%3A//www.2merkato.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | 2merkato.com
 
 **What information do we collect?**
 
@@ -48,4 +48,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may[ contact us](http://www.2merkato.com/contactus/generalquestions) using the information below. 
+If there are any questions regarding this privacy policy you may[ contact us](http://www.2merkato.com/contact-us/general-questions) using the information below. 
