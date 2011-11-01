@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630093246id_/http%3A//www.agacistore.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agacistore.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115617id_/http%3A//www.agacistore.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - Customer Service A'GACI
 
