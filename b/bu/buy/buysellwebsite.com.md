@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the buysellwebsite.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213022738id_/http%3A//www.buysellwebsite.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buysellwebsite.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220720id_/http%3A//www.buysellwebsite.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for BuySellWebsite a Web Business Properties Inc Company
+# Privacy Policy for BuySellWebsite
 
 **Privacy Policy for BuySellWebsite.com** sm ****   
-a Web Business Properties, Inc. company
+ 
 
 > Privacy Policy   
 >  Effective on: 7/24/04   
->  Last Revision: 04/26/09
+>  Last Revision: 05/18/11
 > 
 > Welcome to BuySellWebsitetm! BuySellWebsite.com®  provides its service to you, subject to the following Privacy Policy. 
 > 
 > BuySellWebsite.com® strives to follow fair and ethical business principles and our goal is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site WWW.BUYSELLWEBSITE.COM. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices.
 > 
-> If you have questions or concerns regarding this statement, you should first contact JC Phillippon at  [ jc@buysellwebsite.com](mailto:jc@buysellwebsite.com) or by mail at 2301 IL Route 26 N Freeport, IL 61032.
+> If you have questions or concerns regarding this statement, you should first contact Lana Bates at  [ buysell](mailto:buysell@buysellwebsite.com)[@buysellwebsite.com](mailto:buysell@buysellwebsite.com).
 > 
 > ** Information Collection & Use  
 >   **
@@ -117,5 +117,5 @@ a Web Business Properties, Inc. company
 > 
 > Contact Us 
 > 
-> If you have any questions or suggestions regarding our privacy policy, please contact us at: 800-564-2749 [ buysell@buysellwebsite.com](mailto:buysell@buysellwebsite.com) or by mail at  North Route 26, #2301, Freeport, IL 61032  
->  *BuySellWebsite.com is a business of Web Business Properties Inc, a Corporation in good standing in the state of Illinois, USA .  Web Business Properties Inc has been formed in the State of Illinois, and BuySellWebsite(tm) is a federally registered trademark.
+> If you have any questions or suggestions regarding our privacy policy, please contact us at: 800-564-2749 [ buysell@buysellwebsite.com](mailto:buysell@buysellwebsite.com) or by mail at 1929 White Oak Drive, Wichita, Kansas 67207  
+>  *BuySellWebsite.com is a business owned by Lana Bates from Wichita, Kansas, and BuySellWebsite(tm) is a federally registered trademark.
