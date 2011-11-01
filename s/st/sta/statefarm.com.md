@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511112453id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statefarm.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101065411id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.*
 
 # Privacy Policies
 
@@ -109,7 +109,10 @@ State Farm Finance Corporation of Canada
 SF Insurance Placement Corporation of Canada  
 Insurance Placement Services, Inc.  
 State Farm International Life Insurance Company Ltd.    
-Plaza One Realty Co.
+Plaza One Realty Co.   
+State Farm Guaranty Insurance Company   
+State Farm Variable Product Trust   
+
 
 ### OTHER IMPORTANT INFORMATION
 
