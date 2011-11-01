@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teentube18.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022035356id_/http%3A//www.teentube18.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teentube18.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101192929id_/http%3A//www.teentube18.com/privacy) for the most accurate reproduction.*
 
-# Free Amateur Teen Porn Movies Petite Drunk Teens Sucking Cock and Fucking
+# Teen Tube 18 Free Amateur Teen tube Porn Movies Teen tube videos legal teens fucking
 
 teentube18.com is an adult site and therefore we treat Privacy very seriously. This document details important information regarding the use and disclosure of User Data collected on teentube18.com   
 This site expressly and strictly limits its membership to adults of 18 years of age and over. All persons under the age of 18 are strictly prohibited from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons under the age of 18.   
