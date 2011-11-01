@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309072740id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.doityourself.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doityourself.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234418id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3Dwww.doityourself.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
