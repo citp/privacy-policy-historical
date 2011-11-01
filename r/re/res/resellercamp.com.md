@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellercamp.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501170157id_/http%3A//www.resellercamp.com/Domain_Privacy_Policy_32) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellercamp.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005617id_/http%3A//www.resellercamp.com/Domain_Privacy_Policy_32) for the most accurate reproduction.*
 
 # ResellerCamp Privacy Policy :: Cheap Domain Reseller
 
