@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papercamp.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605112057id_/http%3A//www.papercamp.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papercamp.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115305id_/http%3A//www.papercamp.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - PaperCamp.com
 
@@ -8,7 +8,7 @@
 
 PaperCamp.com is provided by The Paper Database, Inc. and its affiliates ("we" or "us"). Registration with us is optional, but please keep in mind that you may not be able to use many of the services on PaperCamp.com unless you register with us. Depending on how you interact with PaperCamp.com, you provide us with information, which may include: (a) your name, email address, age (to comply with legal requirements), user name, password, postal code, gender and other registration information; (b) your interaction with PaperCamp.com features and advertisements; (c) transaction-related information, such as, when you make purchases, respond to any offers, or download software from us; and (d) information you provide us when you contact us for help. 
 
-We also collect other non-personally identifiable data, which may include your IP address and what browser you are using so that we can improve PaperCamp.com's services to you. 
+We may also collect other information when users interact with PaperCamp.com, such as city, state, zip code, country and IP address that does not identify a person individually, so that we can improve PaperCamp.com's services to you. 
 
 * ### Use of Information
 
