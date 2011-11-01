@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fetise.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617215204id_/http%3A//www.fetise.com/men/index.php%3Fmain_page%3Dpage%26id%3D19) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetise.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121817id_/http%3A//www.fetise.com/men/index.php%3Fmain_page%3Dpage%26id%3D19) for the most accurate reproduction.*
 
 # Privacy Policy : Real Fashion for Men. Members only Prices!
 
