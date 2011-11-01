@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429172049id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyregister.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145341id_/http%3A//www.luckyregister.com/Privacy_policy.php) for the most accurate reproduction.*
 
 # Legal Agreement
+
+**Last Revised: October 25, 2011**
 
 LuckyRegister.com Respects your privacy
 
@@ -24,27 +26,13 @@ This Site also contains links to other websites. Unfortunately, LuckyRegister.co
 
 **Security**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control. 
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-  1. Visit your online [Account Manager](https://www.securepaynet.net/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
-  2. You may send mail to LuckyRegister.com at the following postal address:   
-14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA 
-
-
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
 **Sending Emails**
 
 We use emails to communicate with you, to confirm your placed orders, and to send information that you have requested. We also provide email links, as on our ["About Us"](https://www.securepaynet.net/gdshop/about.asp?prog_id=Luckyregister) page, to allow you to contact us directly. We strive to promptly reply to your messages.
 
 The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
 **Third Party Service Providers**
 
@@ -62,13 +50,31 @@ From time-to-time, we may provide you with the opportunity to participate in con
 
 We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
+**Targeted Advertisements**  
+
+LuckyRegister.com may display targeted offers to our customers based on the products currently owned by the customer.  These offers will display as varying product banners.  There is no personal or geolocation information collected within these product banners to build a profile about your activities or that is shared with third party advertising companies.
+
 **Tell-A-Friend**
 
 If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. LuckyRegister.com will automatically send the friend a one-time email inviting them to visit our Site. LuckyRegister.com stores this information for the sole purpose of sending this one-time email. The friend may contact LuckyRegister.com at to request the removal of this information from our database.
 
 **What Happens to my Personal Information if I Terminate my LuckyRegister.com Account?**
 
-When your LuckyRegister.com account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant LuckyRegister.com databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+When your LuckyRegister.com account is cancelled (either voluntarily or involuntarily) all of your personally identifiable information is placed in "deactivated" status on our relevant LuckyRegister.com databases. However, deactivation of your account does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Updating Your Information  **
+
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+
+  1. You may visit your online [Account Manager](https://www.securepaynet.net/gdshop/shopper_lookup.asp?prog_id=Luckyregister)
+  2. You may send mail to LuckyRegister.com at the following postal address:   
+14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+
+
+
+**Compliance with Laws and Law Enforcement**
+
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies. 
 
 **Changes in Our Practices**
 
