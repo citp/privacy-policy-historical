@@ -1,23 +1,17 @@
-<!--The following is the downloaded HTML source of the moneyshow.com privacy policy that was archived on 2010-12-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101205153942id_/http%3A//moneyshow.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the moneyshow.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101161749id_/http%3A//www.moneyshow.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>MoneyShow.com Privacy Page</title>
 <link href="css/mscHome.css" rel="stylesheet" type="text/css">
-<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="modules/tp.js"></script>
+<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" src="http://www.moneyshow.com/modules/tp.js"></script>
 <link href="css/tp.css" rel="stylesheet" type="text/css">
 </head>
 <body style="background: url('http://graphics.moneyshow.com/bg2.jpg')  center center; margin:0px;" onload="tpSet('tpeg', 'tabs', 'tp1', 'tp2');">
 <table width="10" border="0" align="center" cellpadding="0" cellspacing="0">
 	<tbody><tr>
 		<td>
-
-<!-- Begin comScore Tag -->
-<script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "8210488" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=8210488&cv=2.0&cj=1" /></noscript>
-<!-- End comScore Tag -->
-
-
 
 
 	<script type="text/javascript">
@@ -30,9 +24,14 @@
 	} catch(err) {}</script>
 
 
+	
 
+	<!-- Begin comScore Tag -->
+	<script>var _comscore = _comscore || [];_comscore.push({ c1: "2", c2: "8210488" });(function() {var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";el.parentNode.insertBefore(s, el);})();</script><noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=8210488&cv=2.0&cj=1" /></noscript>
+	<!-- End comScore Tag -->
+
+  
 <link rel="stylesheet" href="http://www.moneyshow.com/css/mscHome.css">
-
 
 
 
@@ -58,6 +57,79 @@ popupWindow = window.open(url,'popUpWindow','height=500,width=400,left=100,top=1
 	function mobileWin(url) {
 popupWindow = window.open(url,'popUpWindow','height=644,width=638,left=100,top=100,resizable=no,scrollbars=no,toolbar=no,menubar=no,location=no,directories=no, status=no');
 	}
+	
+function LoadPopupAd(str)
+{
+xmlhttpPopup=GetXmlHttpObjectPopup();
+if (xmlhttpPopup==null)
+  {
+  alert ("Your browser does not support XMLHTTP!");
+  return;
+  }
+var url="http://www.moneyshow.com/assets/js/popupFrame.asp";
+url=url+str;
+xmlhttpPopup.onreadystatechange=stateChangedPopup;
+xmlhttpPopup.open("GET",url,true);
+xmlhttpPopup.send(null);
+//alert(url);
+
+}
+function stateChangedPopup()
+{
+if (xmlhttpPopup.readyState==4)
+  {
+  document.getElementById("PopupAd").innerHTML=xmlhttpPopup.responseText;
+  document.getElementById('popper').style.display='block';
+  document.getElementById('blackpop').style.display='block';
+		document.getElementById('ClosePopUp').style.display='block';
+  }
+}
+
+//**********************************************************************
+// The following logs a close of the booth
+//**********************************************************************
+function KillPopup()
+{
+xmlhttpKillPopup=GetXmlHttpObjectPopup();
+if (xmlhttpKillPopup==null)
+  {
+  alert ("Your browser does not support AJAX!");
+  return;
+  }
+var urlKillPopup="http://www.moneyshow.com/assets/js/Closepopup.asp";
+xmlhttpKillPopup.onreadystatechange=stateChangedKillPopup;
+xmlhttpKillPopup.open("GET",urlKillPopup,true);
+xmlhttpKillPopup.send(null);
+}
+
+function stateChangedKillPopup()
+{
+if (xmlhttpKillPopup.readyState==4)
+  {
+   document.getElementById("PopupAd").innerHTML=xmlhttpKillPopup.responseText;
+   document.getElementById('popper').style.display='none';
+   document.getElementById('blackpop').style.display='none';
+			//document.getElementById('ClosePopUp').style.display='none';
+  
+  }
+}
+
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+function GetXmlHttpObjectPopup()
+{
+if (window.XMLHttpRequest)
+  {
+  // code for IE7+, Firefox, Chrome, Opera, Safari
+  return new XMLHttpRequest();
+  }
+if (window.ActiveXObject)
+  {
+  // code for IE6, IE5
+  return new ActiveXObject("Microsoft.XMLHTTP");
+  }
+return null;
+}
 </script>
 <!------ OAS SETUP begin ------>
 
@@ -95,7 +167,7 @@ OAS_query = '';
 var d=document;
 var OAS_rdl = '';
 var OAS_CA = 'N';
-var OAS_taxonomy = '&cid=privacy&scode=&sgroup=home&articleid='; //Custom Taxonomy, format &a=b&c=d
+var OAS_taxonomy = '&cid=privacy&scode=015835&sgroup=home&articleid='; //Custom Taxonomy, format &a=b&c=d
 if((d.referrer)&&(d.referrer!="[unknown origin]")) {
 if(d.referrer.indexOf("?") == -1) {
 OAS_rdl += '&tax23_RefDocLoc='+d.referrer.toString();
@@ -152,7 +224,7 @@ OAS_version = 10;
 if (OAS_version >= 11)
 document.write('<SCR' + 'IPT LANGUAGE=JavaScript1.1 SRC="' + OAS_url + 'adstream_mjx.ads/' + OAS_sitepage + '/1' + OAS_rns + '@' +
 OAS_listpos + '?' + OAS_query + '"><\/SCRIPT>');//-->
-</script><script language="JavaScript1.1" src="http://oascentral.moneyshow.com/RealMedia/ads/adstream_mjx.ads/beta.moneyshow.com/home/privacy/1383083307@Left2,Position1,Top1,TopLeft,Right,Middle,BottomLeft,Bottom,TopRight?XE&amp;cid=privacy&amp;scode=&amp;sgroup=home&amp;articleid=&amp;if_nt_CookieAccept=Y&amp;XE"></script>
+</script><script language="JavaScript1.1" src="http://oascentral.moneyshow.com/RealMedia/ads/adstream_mjx.ads/beta.moneyshow.com/home/privacy/1468081292@Left2,Position1,Top1,TopLeft,Right,Middle,BottomLeft,Bottom,TopRight?XE&amp;cid=privacy&amp;scode=015835&amp;sgroup=home&amp;articleid=&amp;if_nt_CookieAccept=Y&amp;XE"></script>
 
 <script language="JavaScript">
 <!--
@@ -177,8 +249,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </script>
 
 
-<link rel="stylesheet" href="http://www.moneyshow.com/css/mscHome.css">
-<link rel="stylesheet" href="http://www.moneyshow.com/css/tp.css">
+<link rel="shortcut icon" href="http://graphics.moneyshow.com/favicon.ico"> 
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
 <script language="javascript" type="text/javascript">
 <!-- 
 function clearText(thefield) { 
@@ -192,10 +267,9 @@ function clearText(thefield) {
 -->
 </script>
 
-
 <table width="100%" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="padding-top:5px;">
   <tbody><tr>
-    <td style="background-image:url(http://graphics.moneyshow.com/MS_com_logo_main.gif); width:285px; height:64px; background-repeat:no-repeat; background-position:center;"><a href="http://www.moneyshow.com/"><img border="0" src="http://graphics.moneyshow.com/home/reg/transparent.gif" width="285" height="64"></a></td>
+    <td style="background-image:url(http://graphics.moneyshow.com/MS_com_logo_main.gif); width:285px; height:64px; background-repeat:no-repeat; background-position:center;"></td>
     <td align="right">
       <table width="100%" border="0" cellspacing="0" cellpadding="0" align="right">
         <tbody><tr>
@@ -204,19 +278,12 @@ function clearText(thefield) {
               
               
 			  <tbody><tr>
-                <td valign="top" align="right"> <a href="http://www.moneyshow.com/?scode=013245" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.moneyshow.com/');"><span class="MakeHome">Make Us Your Home Page</span></a> &nbsp; 
-				<a class="LoginLink" href="/register.asp">Not a Member? Register</a>&nbsp;|&nbsp;<a class="LoginLink" href="/login.asp">Login</a>
+                <td valign="top" align="right"><!-- <a href="http://www.moneyshow.com/?scode=013245" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.moneyshow.com/');"><span class="MakeHome">Make Us Your Home Page</span></a> &nbsp; 
+				--><a class="LoginLink" href="/register.asp">Not a Member? Register</a>&nbsp;|&nbsp;<a class="LoginLink" href="/login.asp">Login</a>
 				</td>
               </tr>
 			 
-			    <tr>
-                <td align="right" valign="middle">										
-				<form method="get" name="form1" action="/directory/tickerRedir.asp?s=a">
-			<strong>GET QUOTES!</strong>&nbsp;<input style="width:100px; color:#999999; font-size:11px; color:#999999; font-weight:bold;" name="q" id="q" type="text" value="Symbol Lookup" onclick="document.getElementById('q').value='';">
-				<input style="background-color:#406481; color:#FFFFFF; font-weight:bold;" type="submit" value="GO">
-				</form>
-				</td>
-              </tr>
+			    
               
               
 			  
@@ -365,8 +432,9 @@ color: #FFF}
      <a href="http://www.moneyshow.com/investing/Investing_Home.asp" onmouseover="mopen('m2')" onmouseout="mclosetime()">INVESTING&nbsp;▼</a>
      <div style="width:190px;" id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
       <a href="http://www.moneyshow.com/investing/markets.asp"><b>The Markets</b></a>
-      <a href="http://www.moneyshow.com/investing/Stocks_Bonds_Commodities.asp"><b>Stocks, Bonds, &amp; Commodities</b></a>
+      <a href="http://www.moneyshow.com/investing/stocks_bonds/main.asp"><b>Stocks &amp; Bonds</b></a>
       <a href="http://www.moneyshow.com/investing/Funds_Etfs_Reits.asp"><b>Mutual Funds, ETFs, &amp; REITs</b></a>
+	  <a href="http://www.moneyshow.com/investing/Managed_Futures_Commodities/main.asp"><b>Managed Futures &amp; Commodities</b></a>
       <a href="http://www.moneyshow.com/investing/Global_Investing.asp"><b>Global Investing</b></a>
      </div>
     </li>
@@ -375,10 +443,12 @@ color: #FFF}
      <a href="http://www.moneyshow.com/trading/Trading_Main.asp" onmouseover="mopen('m3')" onmouseout="mclosetime()">TRADING&nbsp;▼</a>
      <div style="width:190px;" id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
       <a href="http://www.moneyshow.com/trading/Trading_Strategies_Techniques.asp"><b>Trading Strategies &amp; Techniques</b></a>
-      <a href="http://www.moneyshow.com/trading/Stocks_Options_ETFs.asp"><b>Stocks, Options, &amp; ETFs</b></a>
-      <a href="http://www.moneyshow.com/trading/Commodities_Futures_Forex.asp"><b>Commodities, Futures, &amp; Forex</b></a>
+      <a href="http://www.moneyshow.com/trading/options/main.asp"><b>Options Trading</b></a>
+	  <a href="http://www.moneyshow.com/trading/stocks_etfs/main.asp"><b>Stocks &amp; ETFs</b></a>
+	  <a href="http://www.moneyshow.com/trading/Forex.asp"><b>Forex Trading</b></a>
+      <a href="http://www.moneyshow.com/trading/Commodities_Futures.asp"><b>Commodities &amp; Futures</b></a>	  
      </div>
-    </li>
+    </li>	
 
     <li style="width:90px;">
      <a href="http://www.moneyshow.com/video/video.asp" onmouseover="mopen('m4')" onmouseout="mclosetime()">VIDEO&nbsp;▼</a>
@@ -395,13 +465,13 @@ color: #FFF}
     </li>
 
     <li style="width:150px;">
-     <a href="http://www.moneyshow.com/events/MoneyShow_Events.asp" onmouseover="mopen('m5')" onmouseout="mclosetime()">TRADE SHOWS&nbsp;▼</a>
+     <a href="http://www.moneyshow.com/events/MoneyShow_Events.asp" onmouseover="mopen('m5')" onmouseout="mclosetime()">TRADESHOWS&nbsp;▼</a>
      <div style="width:200px;" id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
       <a href="http://www.moneyshow.com/events/World_MoneyShows.asp"><b> The World MoneyShows</b></a>
       <a href="http://www.moneyshow.com/events/MoneyShows.asp"><b>The MoneyShows</b></a>
       <a href="http://www.moneyshow.com/events/Traders_Expo.asp"><b>The Traders Expos</b></a>
       <a href="http://www.moneyshow.com/events/Forex_Options_Expos.asp"><b>The Futures &amp; Forex Expo </b></a>
-      <a href="http://www.moneyshow.com/events/Financial_Advisor_Symposium.asp"><b>The Advisors MoneyShow</b></a>
+      <!--<a href="http://www.moneyshow.com/events/Financial_Advisor_Symposium.asp"><b>The Advisors MoneyShow</b></a>-->
       <a href="http://www.moneyshow.com/events/Investment_Cruises.asp"><b>Investment Cruises</b></a>
       <!--<a href="http://www.moneyshow.com/events/Virtual_Shows.asp"><b>Virtual TradeShows</b></a>-->
      </div>
@@ -412,14 +482,14 @@ color: #FFF}
     <div style="width:200px;" id="m9" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
     <a href="http://www.moneyshow.com/eshow/eMoneyShow.asp"><b>eMoneyShows</b></a>
     <a href="http://www.moneyshow.com/eshow/eTradeShow.asp"><b>eTradingExpos</b></a>
-	<a href="http://www.moneyshow.com/eshow/eAdvisorsMoneyShow.asp"><b>eAdvisorsMoneyShow</b></a>
+	<!--<a href="http://www.moneyshow.com/eshow/eAdvisorsMoneyShow.asp"><b>eAdvisorsMoneyShow</b></a>-->
     <a href="http://www.moneyshow.com/video/webcasts.asp"><b>Upcoming Presentations</b></a>
     <a href="http://www.moneyshow.com/video/video.asp?t=4"><b>On-Demand Presentations</b></a>
     </div>
    </li>
 
   <li style="width: 90px;">
-   <a href="http://stocks.moneyshow.com/intershow?Account=moneyshow&amp;Page=MarketSummary" onmouseover="mopen('m6')" onmouseout="mclosetime()">TOOLS&nbsp;▼</a>
+   <a href="http://stocks.moneyshow.com/intershow.moneyshow/markets" onmouseover="mopen('m6')" onmouseout="mclosetime()">TOOLS&nbsp;▼</a>
    <div style="width: 190px;" id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
     <a href="http://stocks.moneyshow.com/intershow?Account=moneyshow&amp;Page=MarketSummary"><b>Stock Research</b></a>
     <a href="http://www.moneyshow.com/tools/Investing_Tools.asp"><b>Investing Tools</b></a>
@@ -430,16 +500,16 @@ color: #FFF}
     <a href="http://www.moneyshow.com/Article_Library.asp"><b>Library of Articles &amp; Transcripts</b> </a>
     <a href="http://www.moneyshow.com/video/Media_Library.asp"><b>Complete Media Library</b> </a>
     <a href="http://www.moneyshow.com/rssFeeds.asp"><b>RSS Feeds</b> </a>
-    <a href="http://www.moneyshow.com/widgets.asp"><b>Widgets</b></a>
+    <!--<a href="http://www.moneyshow.com/widgets.asp"><b>Widgets</b></a>-->
     <a href="javascript:mobileWin('http://www.moneyshow.com/mobile/landing/main.asp')"><b>Mobile MoneyShow</b></a>
    </div>
   </li>
 
   <li style="width: 120px;">
-   <a href="http://www.moneyshow.com/eletters/investing_eletters.asp" onmouseover="mopen('m7')" onmouseout="mclosetime()">E-LETTERS&nbsp;▼</a>
+   <a href="http://www.moneyshow.com/eletters/investing_eletters.asp" onmouseover="mopen('m7')" onmouseout="mclosetime()">eLETTERS&nbsp;▼</a>
    <div style="width: 140px;" id="m7" onmouseover="mcancelclosetime()" onmouseout="mclosetime()">
-    <a href="http://www.moneyshow.com/eletters/investing_eletters.asp"><b>Investing E-Letters</b></a>
-    <a href="http://www.moneyshow.com/eletters/trading_eletters.asp"><b>Trading E-Letters</b></a>
+    <a href="http://www.moneyshow.com/eletters/investing_eletters.asp"><b>Investing eLetters</b></a>
+    <a href="http://www.moneyshow.com/eletters/trading_eletters.asp"><b>Trading eLetters</b></a>
    </div>
    </li>
    <li style="width: 90px;"><a href="http://www.moneyshow.com/contactus.asp">Contact Us</a></li>
@@ -457,9 +527,9 @@ color: #FFF}
 	</tr>
 	<tr>
 		<td style="padding-right:14px; padding-left:14px;">
-		<table width="100%" border="0" cellpadding="3" cellspacing="0" bgcolor="#ffffff" style="border-bottom:1px solid #c2c8ce">
+		<table width="100%" border="0" cellpadding="3" cellspacing="0" bgcolor="#ffffff" style="border-bottom:1px solid #c2c8ce; padding-bottom: 4px;">
   <tbody><tr>
-    <td width="61%" valign="middle"><style>
+    <td width="40%" valign="middle"><style>
 .alter {
 	COLOR: #036;
 	TEXT-DECORATION: none;
@@ -487,12 +557,19 @@ color: #FFF}
 <font class="alter">
 <a class="alter" href="http://www.moneyshow.com/main.asp">Home</a>  &nbsp;&gt;&nbsp; Privacy Policy
 </font> </td>
-    <td width="39%" align="right" valign="middle">
+	
+	<td width="30%" align="right" valign="middle">
+	<form method="get" name="form1" action="/directory/tickerRedir.asp?s=a" style="margin:0px;">
+	<strong></strong>&nbsp;<input style="width:100px; color:#999999; font-size:11px; color:#999999; font-weight:bold;" id="q" name="q" type="text" value="Symbol Lookup" onclick="document.getElementById('q').value='';">
+	<input style="background-color:#406481; color:#FFFFFF; font-weight:bold;" type="submit" value="Get Quotes">
+	</form>
+	</td>	
+    <td width="30%" align="right" valign="middle">
 	  <form name="form1" style="margin:0px;" method="get" action="/directory/Results.asp?s=a">
-        <input name="q" type="text" id="textfield" style="width:230px; height: 15px;border: 1px single #999999;padding: 0em;">
+        <input name="q" type="text" id="textfield" style="width:200px; height: 15px;border: 1px single #999999;padding: 0em;">
         <input type="submit" style="background-color:#406481; color:#FFFFFF; font-weight:bold;" value="Search">
       </form>
-	</td>
+	</td>	
   </tr>
 </tbody></table>
 
@@ -578,61 +655,28 @@ color: #FFF}
 								<td align="center">   
  
 <!--<div style="color:#ff6600; font-weight:bold; padding-left:10px; padding-bottom:7px;">AVAILABLE ON-DEMAND:</div>--> 
-
-<table cellpadding="0" cellspacing="0" width="300px" style="border:#999999 1px solid;" align="center">
 <!--
+<table cellpadding="0" cellspacing="0" width="300px" style="border:#999999 1px solid;" align="center">
+
   <tr>
     <td style="padding-bottom:7px;"><img src="http://graphics.moneyshow.com/eShow/images/eMoneyShow-300.jpg" /></td>
   </tr>
   
-      -->
+     
    
-
 	
-	<tbody><tr>
+	<tr>
 	<td style="padding-bottom:7px;">
-   <img src="http://graphics.moneyshow.com/eShow/images/eTradingExpo-300.jpg">
+   <img src="http://graphics.moneyshow.com/eShow/images/eTradingExpo-300.jpg" />
    </td>
   </tr>
   
  
-	    <tr>
-      <td style="color:#406481; font-weight:bold; padding:5px;"><span style="color:#FF6600"> LIVE CHATS—</span><strong>Ask Questions Get Answers</strong> </td>
-  </tr>
-
-<tr>
-  <td valign="top" style="text-align:left; padding-bottom:5px;">
-   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left" style="padding-left:10px;">
-      <tbody><tr valign="top">
-        <td align="left" width="73"><img src="http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif" width="73" height="53" style="border:1px solid #B2997B;" onerror="this.src = 'http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif'">
-          <div style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">Ken<br>Calhoun</div></td>
-        <td align="left" style="text-align:left; font-size:12px; padding-left:5px;">Wednesday, December 08, 2010<br>
-          12:00 pm&nbsp;-&nbsp;12:30 pm EST<br>
-          <strong>How to Enter the Five Strongest Trade Set-ups and Avoid Fake Breakouts </strong><br>
-          <a href="http://www.moneyshow.com/eShow/Las_Vegas/Traders_Expo/Virtual_Show_Landing.asp?scode=017564" target="_blank" style="color:#FF6600">Register Now to Chat Live</a> </td>
-      </tr>
-    </tbody></table></td>
-</tr>
-
-<tr>
-  <td valign="top" style="text-align:left; padding-bottom:5px;">
-   <table width="100%" border="0" cellspacing="0" cellpadding="0" align="left" style="padding-left:10px;">
-      <tbody><tr valign="top">
-        <td align="left" width="73"><img src="http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif" width="73" height="53" style="border:1px solid #B2997B;" onerror="this.src = 'http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif'">
-          <div style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">Corey<br>Rosenbloom</div></td>
-        <td align="left" style="text-align:left; font-size:12px; padding-left:5px;">Wednesday, December 08, 2010<br>
-          12:30 pm&nbsp;-&nbsp;1:00 pm EST<br>
-          <strong>The Popped Stops Play: How to Profit When Good Trades Go Bad </strong><br>
-          <a href="http://www.moneyshow.com/eShow/Las_Vegas/Traders_Expo/Virtual_Show_Landing.asp?scode=017564" target="_blank" style="color:#FF6600">Register Now to Chat Live</a> </td>
-      </tr>
-    </tbody></table></td>
-</tr>
 
 
 
-
-</tbody></table>
-
+</table>
+ -->
 
 
 <!--include file="Virtual_Show_Chats_OnDEMAND_Inv_Sc.asp" -->
@@ -643,6 +687,75 @@ color: #FFF}
 										OAS_AD('Right');
 										//-->
 									</script>
+								</td>
+							</tr>
+							<tr>
+								<td align="center" style="text-align: left;">
+									<!--SQL DATABASE CALL FOR TRADINGLESSONS.ASP-->
+
+<!--SQL DATABASE CALL FOR TRADINGLESSONS.ASP-->
+
+<!--include file="../Assets/func.asp" -->
+<!--<div style="color:#ff6600; font-weight:bold; padding-left:10px; padding-bottom:7px;">AVAILABLE ON-DEMAND:</div> -->
+
+<hr>
+<!--UPCOMING LIVE CHATS-->
+<!--<div style="color:#ff6600; font-weight:bold; padding-left:10px; padding-bottom:7px;">AVAILABLE ON-DEMAND:</div>-->
+
+    
+  
+
+<div class="BlueModHeader" style="background-color:">Live Chat with Experts</div>
+<div style="border:#999999 1px solid; padding:5px;">
+
+
+<div style="float:right;"> <img src="http://graphics.moneyshow.com/logos/eMS-logo.png"> </div>
+<div style="color:#FF6600; font-size:13px; font-weight:bold;">Coming Soon!</div>
+<div class="WebCastDate" style="font-weight:normal; font-size:12px;">Tuesday, November 08, 2011&nbsp;
+10:00 am&nbsp;-&nbsp;11:00 am&nbsp;CST</div>
+<div style="clear:both;"></div>
+<div style="float:left; padding:5px 5px 0 0;"><img src="http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif" width="73" height="53" style="border:1px solid #B2997B;" onerror="this.src = 'http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif'">
+<div style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">Harold Morris</div>
+</div>
+
+<h3><a target="_parent" style=" font-size:16px; font-weight:normal;" href="http://www.moneyshow.com/upcoming_chats.asp?scode=022272">Using IBD to Get Consistent Results</a></h3>
+		  
+ <div align="right"><a target="_parent" href="http://www.moneyshow.com/upcoming_chats.asp?scode=022272" style=" padding-right:7px; padding-top:7px;">Pre-Register to Attend</a></div>
+
+<div style="clear:both;"></div>
+<hr>
+
+<div style="clear:both;"></div>
+
+<div style="float:right;"> <img src="http://graphics.moneyshow.com/logos/eMS-logo.png"> </div>
+<div style="color:#FF6600; font-size:13px; font-weight:bold;">Coming Soon!</div>
+<div class="WebCastDate" style="font-weight:normal; font-size:12px;">Tuesday, November 08, 2011&nbsp;
+12:00 pm&nbsp;-&nbsp;12:30 pm&nbsp;CST</div>
+<div style="clear:both;"></div>
+<div style="float:left; padding:5px 5px 0 0;"><img src="http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif" width="73" height="53" style="border:1px solid #B2997B;" onerror="this.src = 'http://graphics.moneyshow.com/speaker/NoPhoto_73x53.gif'">
+<div style="font-family:Arial, Helvetica, sans-serif; font-size:10px;">Scott Andrews</div>
+</div>
+
+<h3><a target="_parent" style=" font-size:16px; font-weight:normal;" href="http://www.moneyshow.com/upcoming_chats.asp?scode=022272">Facts About Gaps That Every Investor Should Know</a></h3>
+		  
+ <div align="right"><a target="_parent" href="http://www.moneyshow.com/upcoming_chats.asp?scode=022272" style=" padding-right:7px; padding-top:7px;">Pre-Register to Attend</a></div>
+
+<div style="clear:both;"></div>
+
+</div>
+
+
+
+<!--WEBCASTS WITH EXPERTS-->
+
+<!--ATTEND A VIRTUAL SHOW-->
+<!--Comment out when Webcasts With Experts Module is Active-->
+<!--
+<hr />
+include file = "inc_liveWebcasts.asp" -->
+
+<!--include file="Virtual_Show_Chats_OnDemand_tra_sc.asp" -->
+
 								</td>
 							</tr>
 						<tr>
@@ -752,7 +865,7 @@ color: #FFF}
 					<td>
 					<ul class="Tools">
 					 <li><a href="/tools/stocktckr.asp">Online Trading Journal</a></li>
-					 <li><a href="/tools/econoday.asp">Economic Calendar</a></li>
+					 <li><a href="/tools/ForexStreet_Economic_Calendar.asp">Economic Calendar</a></li>
 					 <li><a href="#">Market Overview</a></li>
 					 <li><a href="#">Market Hotspots</a></li>
 					 <li><a href="#">Market Analysis</a></li>
@@ -780,7 +893,7 @@ color: #FFF}
 						</tr>
 						<tr>
 							<td>
-							<!-- <hr /> -->
+							<hr>
 							</td>
 						</tr>
 						<tr>
@@ -796,33 +909,33 @@ color: #FFF}
   
   <tr>
     <td style="padding:4px;">
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=3047">Gold Fields Limited</a></div>
-      <div class="SponMid">Gold Fields Limited is one of the world's largest...</div>
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=3047">Learn more... </a></div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=17883">Republic Monetary Exchange</a></div>
+      <div class="SponMid">As traders of precious metals, we promote the finest...</div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=17883">Learn more... </a></div>
     </td>
   </tr>
   
   <tr>
     <td style="padding:4px;">
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=9643">Roche                                                                                               </a></div>
-      <div class="SponMid">Headquartered in Basel, Switzerland, Roche is a...</div>
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=9643">Learn more... </a></div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=1148">Aqua America</a></div>
+      <div class="SponMid">Aqua America, Inc. (NYSE: WTR) is the largest US-based...</div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=1148">Learn more... </a></div>
     </td>
   </tr>
   
   <tr>
     <td style="padding:4px;">
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=4529">Sanofi-aventis                                                                                      </a></div>
-      <div class="SponMid">Sanofi-aventis is a global healthcare company engaged...</div>
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=4529">Learn more... </a></div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=5089">FXDD</a></div>
+      <div class="SponMid">Located in downtown New York City, FXDD specializes...</div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=5089">Learn more... </a></div>
     </td>
   </tr>
   
   <tr>
     <td style="padding:4px;">
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=1613">Vale S.A.</a></div>
-      <div class="SponMid">Vale is the second largest metals and mining company...</div>
-      <div class="SponTopBot"><a href="http://moneyshow.com/directory/company.asp?acctid=1613">Learn more... </a></div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=17683">American Precious Metals Exchange</a></div>
+      <div class="SponMid">American Precious Metals Exchange, Inc., (APMEX)...</div>
+      <div class="SponTopBot"><a href="http://www.moneyshow.com/directory/company.asp?acctid=17683">Learn more... </a></div>
     </td>
   </tr>
   
@@ -849,21 +962,31 @@ color: #FFF}
 				<td style="background-image:url(http://graphics.moneyshow.com/MoneyShow_com-footer.gif); width:173px; height:41px; background-repeat:no-repeat; background-position:center;"><a href="http://www.moneyshow.com/"><img src="http://graphics.moneyshow.com/home/reg/transparent.gif" width="173" height="41" border="0" alt="MONEYSHOW.com Logo">		</a></td>
 
 					<td class="Footer" valign="top">
-					<a class="Footer" href="/aboutus.asp">About Us</a> | <a class="Footer" target="_blank" href="http://www.exhibitorcentral.com/ec/requestInfo.asp">Advertise</a> | <a class="Footer" href="/terms.asp">Terms of Service</a> | <a class="Footer" href="/privacy.asp">Privacy Policy</a> | <a class="Footer" href="/press.asp">Press</a> | <a class="Footer" href="/faq.asp">FAQ</a> | <a class="Footer" href="/sitemap.asp">Site Map</a> | <a class="Footer" href="/rssFeeds.asp">RSS</a> | <a class="Footer" href="/widgets.asp">Widgets</a> | <a class="Footer" href="javascript:mobileWin('http://www.moneyshow.com/mobile/landing/main.asp')">Mobile Site</a>
+					&nbsp;<a class="Footer" href="/aboutus.asp">About Us</a> | <a class="Footer" target="_blank" href="http://www.exhibitorcentral.com/ec/main.asp?scode=021454">Advertise</a> | <a class="Footer" href="/terms.asp">Terms of Service</a> | <a class="Footer" href="/privacy.asp">Privacy Policy</a> | <a class="Footer" href="/press.asp">Press</a> | <a class="Footer" href="/faq.asp">FAQ</a> | <a class="Footer" href="/sitemap.asp">Site Map</a> | <a class="Footer" href="/rssFeeds.asp">RSS</a> <!--| <a class="Footer" href="/widgets.asp">Widgets</a>--> | <a class="Footer" href="javascript:mobileWin('http://www.moneyshow.com/mobile/landing/main.asp')">Mobile Site</a>
 					</td>
 				</tr>
 				<tr>
 					<td class="Footer" align="center" valign="top">
 					<table width="100%" height="140" border="0" align="center" cellpadding="0" cellspacing="0">
 						<tbody><tr>
-							<td height="71" align="center" style="padding-bottom:10px;">
-							<br>
-							<br>
+							<td align="center" style="padding-bottom: 10px;">
+								<br>
+								<br>
+								<script type="text/javascript">
+								<!--
+									OAS_AD('Left2');
+								//-->
+								</script>
+							</td>
+						</tr>
+						<tr>
+							<td height="71" align="center" style="padding-bottom: 10px;">
 								<script type="text/javascript">
 								<!--
 								OAS_AD('Bottom');
 								//-->
-								</script>						  </td>
+								</script>
+							</td>
 						</tr>
 						<tr>
 							<td align="center">
@@ -871,25 +994,19 @@ color: #FFF}
 								<!--
 									OAS_AD('Position1');
 								//-->
-								</script>							</td>
-						</tr>		<tr>
-						  <td align="center">&nbsp;</td>
-					  </tr>	<tr>
-							<td align="center">
-								<script type="text/javascript">
-								<!--
-									OAS_AD('Left2');
-								//-->
-								</script>							</td>
+								</script>
+							</td>
 						</tr>
-					
+						<tr>
+						  <td align="center">&nbsp;</td>
+					  </tr>	
 					</tbody></table>
 					</td>
-					<td class="Footer">
-					©2010 MoneyShow.com, LLC. All Rights Reserved. For a complete trademark notice, please see the <a href="http://www.moneyshow.com/terms.asp" target="_blank" style="font-size:12px;">Terms of Service</a><br>
+					<td class="Footer" style="font-size:12px;">
+					©2011 MoneyShow.com, LLC. All Rights Reserved. For a complete trademark notice, please see the <a href="http://www.moneyshow.com/terms.asp" target="_blank" style="font-size:12px;">Terms of Service</a><br>
 						<br>
 						MoneyShow.com makes available to the viewer a variety of independent sources that offer trading and investment advice and related services and products. MoneyShow.com does not itself offer, verify, sponsor, or promote, directly or indirectly, any investment or trading advice, or information or any product or service offered by these independent sources. Every investor or trader should consider all advice and all offerings of products and services on their own merits and for suitability to the individual's personal needs and circumstances. Before using this site, please read our complete Terms of Service by <a style="color:#FFFFFF; font-size:12px;" href="/terms.asp">clicking here</a>.<br><br>
-						Make MoneyShow.com your premier source for stock market and financial market information. Individual investors enjoy our worldwide investor seminars and trading seminars. Our investment advisor seminars keep financial advisors up to date with CEUs, and this site provides investors, traders, and advisors with the latest stock market analysis tips, information and research tools. Be sure to be a part of our options day trading tips and picks from professional day traders and various trading, investing, and advisor Webcasts and financial podcasts<a href="/sess.asp">.</a>
+						Make MoneyShow.com your premier source for stock market and financial market information. Individual investors enjoy our worldwide investor seminars and trading seminars. Our investment advisor seminars keep financial advisors up to date with CEUs, and this site provides investors, traders, and advisors with the latest stock market analysis tips, information and research tools. Be sure to be a part of our options day trading tips and picks from professional day traders and various trading, investing, and advisor Webcasts and financial podcasts<a href="/sess.asp">.</a> <!--<a onclick="LoadPopupAd('?type=tdr');">.</a>-->
 
 		                         
                   </td>
@@ -899,8 +1016,16 @@ color: #FFF}
 	</tr>
 </tbody></table>
 
+<div id="popper" class="white_content">
+ <div id="PopupAd"></div>  
+</div>
+
+<div id="blackpop" class="black_overlay"></div>
 
 
+<script>  
+ //document.getElementById("PopupAd").onload = LoadPopupAd('?type=keyword');{}
+</script>
 
 		</td>
 	</tr>
