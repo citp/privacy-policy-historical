@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprisedb.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613081635id_/http%3A//www.enterprisedb.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisedb.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001115id_/http%3A//www.enterprisedb.com/company/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EnterpriseDB
 
@@ -6,7 +6,7 @@
 
 Protecting the individual's privacy on the internet is crucial to the future of Internet-based business and the move toward a true internet economy. EnterpriseDB has created this privacy policy (the "Privacy Policy") to demonstrate our commitment to secure and trustworthy internet commerce and the individual's right to privacy. This Privacy Policy is effective as to all users of [www.enterprisedb.com](http://www.enterprisedb.com/ "www.enterprisedb.com") (the "Website"), and incorporates by reference the Terms of Use. Terms with initial capital letters used in this Privacy Policy shall have the respective meanings assigned to them in the Terms of Use. The terms "EnterpriseDB," "we," and "our" refer to EnterpriseDB Corporation. The terms "you" and "your" refer to the user or viewer of the Website.
 
-By using this Website, you consent to the collection and use of information as described herein. EnterpriseDB reserves the right to make changes periodically to this Privacy Policy in our soul discretion. Changes to the Privacy Policy will be posted on this page. Your continued use of this Website after any such changes constitutes your acceptance of the changes and of the revised Privacy Policy.
+By using this Website, you consent to the collection and use of information as described herein. EnterpriseDB reserves the right to make changes periodically to this Privacy Policy in our sole discretion. Changes to the Privacy Policy will be posted on this page. Your continued use of this Website after any such changes constitutes your acceptance of the changes and of the revised Privacy Policy.
 
 #### Use and Purpose of Collected Personally Identifiable Information
 
@@ -95,8 +95,8 @@ If you have any questions about this privacy policy statement, feel free to cont
 
 Webmaster   
 EnterpriseDB Corporation   
-235 Littleton Road   
-Westford, MA 01886   
+34 Crosby Drive, Suite 100  
+Bedford, MA 01730  
 USA 
 
 Or e-mail: [webmaster@enterprisedb.com](mailto:webmaster@enterprisedb.com)
