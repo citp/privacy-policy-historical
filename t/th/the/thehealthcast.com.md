@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524043615id_/http%3A//www.thehealthcast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehealthcast.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164735id_/http%3A//www.thehealthcast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – TheHealthCast.com
-
-## Privacy Policy
 
 **What information does TheHealthCast® collect and how does TheHealthCast® use it?**
 
@@ -36,4 +34,4 @@ By using our website, you consent to the collection and use of information by Th
 
 **Additional Information**
 
-This notice details the privacy policies of TheHealthCast® for all of its users of its website, including how TheHealthCast® protects information provided or collected through this website. If you have questions regarding this policy or the practices of TheHealthCast®, contact us at TheHealthCast®, Privacy Division, located at 5455 Wilshire Blvd, Ste 903, Los Angeles, CA 90036.
+This notice details the privacy policies of TheHealthCast® for all of its users of its website, including how TheHealthCast® protects information provided or collected through this website. If you have questions regarding this policy or the practices of TheHealthCast®, contact us at TheHealthCast®, Privacy Division, located at 7162 Beverly Blvd, #580, Los Angeles, CA 90036.
