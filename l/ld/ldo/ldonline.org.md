@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406103957id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ldonline.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221514id_/http%3A//www.ldonline.org/privacy) for the most accurate reproduction.*
 
-# LD OnLine :: Privacy Policy
+# Privacy Policy | LD OnLine
 
 LD OnLine is committed to protecting your privacy. Because we gather certain types of information about our users, we want you to fully understand the terms and conditions surrounding the use of the information we collect. All information we collect is confidential. We do not sell or share the data with any other organizations.
 
