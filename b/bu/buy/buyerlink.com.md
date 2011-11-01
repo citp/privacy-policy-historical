@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyerlink.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627210804id_/http%3A//www.homegain.com/privacy%3Fht%3Ddef_foot_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerlink.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101103803id_/http%3A//www.homegain.com/privacy%3Fht%3Ddef_foot_privacy) for the most accurate reproduction.*
 
 # HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home - HomeGain
 
