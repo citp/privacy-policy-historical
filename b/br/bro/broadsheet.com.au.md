@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311214904id_/http%3A//www.broadsheet.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005819id_/http%3A//www.broadsheet.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Broadsheet Melbourne
 
