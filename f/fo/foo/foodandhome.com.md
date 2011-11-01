@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodandhome.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516042616id_/http%3A//www.foodandhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodandhome.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151238id_/http%3A//www.foodandhome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | foodandhome.com
 
