@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2011-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110323120759id_/http%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124343id_/http%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Solar Quotes | Panels, Power, Installers, Energy
+# Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers
 
 Privacy Policy
 
