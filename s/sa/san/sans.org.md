@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123114811id_/http%3A//www.sans.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sans.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101211946id_/http%3A//www.sans.org/privacy.php) for the most accurate reproduction.*
 
 # SANS Privacy Policy
 
-##### Updated: December 2, 2008
+##### Updated: May 17, 2011
 
 SANS is very sensitive to privacy issues on the Internet. We believe it is important that you understand how we treat the information you may provide to us. Unless specifically stated otherwise, the information you provide is never shared with anyone other than SANS employees, instructors or authorized contractors. SANS never trades or sells its student's personal information.
 
-This privacy statement applies to information collected by web addresses in the sans.org, sans.edu, giac.org, and other domains owned and operated by SANS, GIAC, and the Escal Institute, hereafter referred to collectively as SANS.
+This privacy statement applies to information collected by web addresses in the sans.org, sans.edu, giac.org, and other domains owned and operated by SANS, GIAC, and the ESCAL Institute, hereafter referred to collectively as SANS.
 
 ##### How We Gather Information
 
-To save you time and make our web services even easier to use, you may create a SANS portal account using your personal information. You may do this by visiting [https://portal.sans.org](https://portal.sans.org/). The SANS portal system saves your information and references it to your email address and password. The next time you visit the SANS website, you can simply enter your email address and password. If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. We also use the mailing address to send you conference brochures and other items of interest.
+To save you time and make our web services even easier to use, you may create a SANS dashboard account using your personal information. You may do this by visiting <https://www.sans.org/account/>. The SANS account dashboard system saves your information and references it to your email address and password. The next time you visit the SANS website, you can simply enter your email address and password. If you purchase a product or service from us, we request certain personally identifiable information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. We also use the mailing address to send you conference brochures and other items of interest.
 
 When you register online for a conference, you have the opportunity to opt out of being included in a paper attendee list. We give a copy to every student and vendor that attends the conference. The information on the attendee list consists of first name, last name, company, city, state and country. If you do not wish to be included in the conference attendee list, simply opt out where the form lists "Include my name in attendee list".
 
@@ -36,8 +36,8 @@ We use this information to analyze trends, to administer the site, to track how 
 
 A cookie is a small text file that is stored on a users computer for record-keeping purposes. We do use cookies on our site. SANS may use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browsers help file.
 
-When you log into your SANS portal account you may select the "Remember me" check box to set a persistent cookie to store your password, so you don't have to enter it more than once. You can remove the portal login cookie by clicking the "Logout" link.  
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the portal, contests or surveys, will be limited and you may need to reenter personal information when you register for events.
+When you log into your SANS account dashboard you may select the "Remember me" check box to set a persistent cookie to store your password, so you don't have to enter it more than once. You can remove the dashboard login cookie by clicking the "Logout" link.  
+If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as the account dashboard, contests or surveys, will be limited and you may need to reenter personal information when you register for events.
 
 ##### How We Protect Your Personal Information
 
@@ -49,11 +49,11 @@ SANS may employ independent contractors to help manage data services, and such c
 
 ##### Access To Your Personal Information
 
-You always have access to the information we have about you. To review and update your personal contact information, simply click [https://portal.sans.org](https://portal.sans.org/) and log in with your email address and password, then click Update Your Account. We encourage you to review your preferences regularly to keep the information current. You may also write [sans@sans.org](mailto:sans@sans.org) to have the information changed or removed.
+You always have access to the information we have about you. To review and update your personal contact information, simply click [https://www.sans.org/account/ ](https://www.sans.org/account/) and log in with your email address and password, then click Update Your Account. We encourage you to review your preferences regularly to keep the information current. You may also write [sans@sans.org](mailto:sans@sans.org) to have the information changed or removed.
 
 ##### Newsletters And Promotional Email
 
-If you no longer wish to receive our newsletters and promotional communications from SANS, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by accessing your preferences by logging into [https://portal.sans.org](https://portal.sans.org/) as described in the previous paragraph.
+If you no longer wish to receive our newsletters and promotional communications from SANS, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by accessing your preferences by logging into [https://www.sans.org/account/ ](https://www.sans.org/account/) as described in the previous paragraph.
 
 ##### Links To Other Sites
 
