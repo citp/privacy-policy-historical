@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518151856id_/http%3A//www.nitro-pak.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitro-pak.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235942id_/http%3A//www.nitro-pak.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
 # Nitro-Pak: Privacy Policy - Customer Service
+
+## Privacy Policy
 
 ## What Information Do We Collect and How Do We Use It?
 
