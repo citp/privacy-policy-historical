@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the mailcash24.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125051337id_/http%3A//mailcash24.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailcash24.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155049id_/http%3A//mailcash24.com/pages/privacy.php) for the most accurate reproduction.*
 
 # mailcash24.com
 
-|  | Total Affiliates | 9,126  
+|  | Active Affiliates | 4,896  
 ---|---  
-Active Affiliates | 7,007  
-Total Payouts | 39,930,000.00  
+Total Payouts | 315,730,000.00  
   
   | 
 
