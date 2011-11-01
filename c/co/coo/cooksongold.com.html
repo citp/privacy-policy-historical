@@ -1,41 +1,66 @@
-<!--The following is the downloaded HTML source of the cooksongold.com privacy policy that was archived on 2011-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110424075536id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cooksongold.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102002304id_/http%3A//www.cooksongold.com/help/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>Security &amp; Privacy - Cooksongold.com</title>
+<title>Security &amp; Privacy - cooksongold.com</title>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<link rel="stylesheet" type="text/css" href="/css/cooksonsStretch.css" title="default">
-<link rel="alternate stylesheet" type="text/css" href="/css/800x600.css" title="800x600" disabled="">
-<script src="/scripts/dynamiclayout.js" type="text/javascript"></script>
-<script type="text/javascript" src="/scripts/common.js"></script><style type="text/css">.closed ul{display:none;}.open ul{display:block;}</style>
-<script src="/scripts/x.js" type="text/javascript"></script>
+ 
+<link href="/assets/css/reset.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/layout.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/styles.css" rel="stylesheet" type="text/css">
+<link href="/assets/css/menu.css" rel="stylesheet" type="text/css">
+ 
+<!--[if lt IE 7]>
+  <link href="/assets/css/ie-styles.css" media="screen" rel="stylesheet" type="text/css" />      
+<![endif]-->
+
+<!--[if IE 7]>
+	 <link href="/assets/css/ie7-styles.css" media="screen" rel="stylesheet" type="text/css" /> 
+<![endif]-->
+
+<script type="text/javascript" src="/assets/scripts/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/assets/scripts/jquery.pngFix.js"></script>
 <script language="JavaScript" type="text/javascript" src="/scripts/ffsuggest.js"></script>
+<!--[if lt IE 7]><script type="text/javascript" src="/assets/scripts/iehoverfix.js"></script><![endif]-->
+<script language="Javascript" type="text/javascript">
+    $(document).ready(function(){ 
+        $(document).pngFix(); 
+	 zOrder();
+	 
+    }); 
+function zOrder()
+{
+	var zIndexNumber = 20000;
+	$('div').each(function() {$(this).css('zIndex', zIndexNumber);zIndexNumber -= 10;});
+}
+</script>
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 </head>
-
- 
-
 <body>
-<div id="wrap">
+	<div id="wrapper" class="default" style="z-index: 20000;">
+        <div id="inner-wrapper" style="z-index: 19990;">
 
 
 
+
+
+
+
+
+
+
+
+   
 <script language="javascript" type="text/javascript">
 function noitems() {
-	alert("Your basket is currently empty.");
+	alert("Your basket does not contain any products");
 	}
-function verifyprd(form) {
-  var ps = search_word_inc.query.value;
-  var success = 1;
+function verifyprd() {
+  var ps = document.getElementById("prod_search").value;
   if ((ps.length == 0) || (ps.length == 1) || (ps == "product code or keyword")) {
-success = 0;
-}
-    if(!success) {
 alert("Please enter a minimum of 2 characters");
- return false;
-  } else {
-  return true;
-  }
+event.returnValue=false;
+  } 
 }
 function bookmarksite(url){
 	var ttitle =document.title;
@@ -55,106 +80,63 @@ function bookmarksite(url){
 }
 </script>
  
-<div id="top">
-<div id="basketcontainer">
-<div style="padding:3px 0px 4px 10px; line-height:1.7em; background-color:#FFFFFF; color:#64686D;">
- 
-<p>&nbsp;</p>
- 
-<p><strong>shopping basket</strong></p>
-<p>0 items in Basket</p>
- 
-<p>Total (exc VAT) 0.00</p>
-<p>Total (inc VAT) 0.00</p>
- 
-</div>
-<div id="basketmenucontainer"><ul>
- 
-<li><a href="#" onclick="noitems();" onkeypress="noitems();" title="Your basket is empty.">view basket</a></li>
- 
-<li><a href="http://www.cooksongold.com/exit_shop.jsp">save basket</a></li>
- 
-<li><a href="#" onclick="noitems();" onkeypress="noitems();" title="Your basket is empty.">checkout</a></li>
- 
- 
-<li><a href="https://www.cooksongold.com/reg/login_in.jsp?country=GB&amp;shop=c">your account </a></li>
- 
-</ul></div>
-</div>
-<div id="login">
- 
-<a href="https://www.cooksongold.com/reg/login_in.jsp?country=GB&amp;shop=c">log in</a> / <a href="https://www.cooksongold.com/reg/register.jsp?country=GB&amp;shop=c">register</a>
- 
-</div>
-<div class="floatLeft">
-<div><img src="/images/topleftImage.jpg" alt="cooksongold" width="190" height="105"></div>
-<div id="category"><div><div class="categoryHeader" style="font-size: 1.4em;">search cooksongold </div></div></div>
-</div>
-<div class="floatLeft">
-<div id="logo" style="background:#64686D  url(/images/cooksongold_com.gif) left no-repeat;"></div>
-<div class="clearthis"></div>
-<div id="welcome">
- 
-welcome to the widest choice of precious metals on-line
-          direct to the jewellery trade
- 
-</div>
- 
-</div>
+		           <!-- <Header> --> 
+          <div id="header" style="z-index: 19980;"> 
+        
+            <div id="col-1" class="logo" style="z-index: 19970;"> 
 
-<div class="clearthis"></div>
-<div id="navcontainer"><ul>
+<a href="http://www.cooksongold.com/home.jsp"><img src="/assets/images/logo.jpg            " alt="Logo"></a>
+
+                <p class="description" style="padding-left:30px;"> Everything for the jewellery maker<br>delivered next day                                                                                                                                              </p> 
+            </div> 
+
+            <div id="col-2" style="z-index: 19960;"> 
+            	<div class="top-nav" style="z-index: 19950;"> 
+                    <ul> 
  
-<li><a style="width: 11.6%;" href="http://www.cooksongold.com/exit_shop.jsp">home</a></li>
+                        <li><a href="https://www.cooksongold.com/reg/register.jsp?country=gb&amp;shop=c&amp;site400=001&amp;siteid=IN">Register</a></li> 
+                        <li><a href="https://www.cooksongold.com/login_in.jsp?country=gb&amp;shop=c&amp;language=ENG&amp;site400=001&amp;company=001&amp;siteid=IN">Log In</a></li> 
  
-<li><a style="width: 11.6%;" href="http://www.cooksongold.com/about/whoarewe_english.jsp">about us</a></li>
+                         <li><a href="#" onclick="noitems();" onkeypress="noitems();" title="Your basket is empty">Basket</a></li>
  
-<li><a style="width: 12.1%;" href="http://www.cooksongold.com/metalprices/">metal prices</a></li>
  
-<li><a style="width: 14%;" href="http://www.cooksongold.com/technical/">knowledgebase</a></li>
+                         <li><a href="#" onclick="noitems();" onkeypress="noitems();" title="Your basket is empty">Checkout</a></li>
+    
+                        <li><a href="https://www.cooksongold.com/login_in.jsp?country=gb&amp;shop=c&amp;language=ENG&amp;site400=001&amp;company=001&amp;siteid=IN">Wish List</a></li> 
  
-<li><a style="width: 11.5%;" href="http://www.cooksongold.com/scrapgold/">scrap</a></li>
- 
-<li><a style="width: 11.5%;" href="http://www.cooksongold.com/help/contactus.jsp">contact us</a></li>
- 
-<li><a style="border-right:none;" href="http://www.cooksongold.com/help/">Help</a></li>
- 
-</ul></div>
- 
+                        <li><a href="/help/help-faq.jsp">FAQ</a></li>  
+                        
+                    </ul> 
+                </div> 
 
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-<div id="left" style="height: 1751px;"><div id="leftcontent">
-<div class="Sideboxes" style="margin-top:0">
-<form method="get" action="http://www.cooksongold.com/category_select.jsp" name="search_word_inc" onsubmit="verifysrch();">
-<p class="floatLeft"><input class="search" type="text" name="query" id="query" autocomplete="off" maxlength="50" value=""></p>
-<p class="floatRight"><input class="submit" name="submit" type="image" value="submit" src="/images/submit.gif" alt="submit" align="middle" onclick="verifysrch();"></p>
-<div class="clearthis"></div>
-<div id="suggestLayer" class="suggestLayer" style="z-index:1001;"></div>
+                <div id="search-panel" style="z-index: 19940;"> 
+                    <div class="bg-right" style="z-index: 19930;"> 
+                        <div class="bg-left" style="z-index: 19920;"> 
+                        	
+                            <form action="http://www.cooksongold.com/category_select.jsp" method="get" accept-charset="UTF-8" name="search_word_inc" onsubmit="verifysrch();"> 
+                                
+                                <div id="search-box" style="z-index: 19910;"> 
+                                   
+                                    <input name="query" id="query" maxlength="50" value="" type="text" class="input" autocomplete="off"> 
+ <div id="suggestLayer" class="suggestLayer" style="z-index: 19900;"></div>
+                                    <div class="search blue" style="z-index: 19890;"><a href="javascript:document.search_word_inc.submit();">Search</a></div> 
+                                    
+                              
+                                </div> 
+                                
 
 <script language="JavaScript" type="text/javascript">
+document.getElementById("query").setAttribute("autocomplete","off");
 var suggest			= new FFSuggest();
 
 var searchURL		= "http://www.cooksongold.com/suggestProxy.jsp";
 var formname		= "search_word_inc";
 var queryParamName	= "query";
 var channelParamName	= "channel";
-var channel		= "uk";
-var divLayername	= "suggestLayer";
+ 
+ var channel		= "uk";
+ 
+ var divLayername	= "suggestLayer";
 var instanceName	= "suggest";
 var debugMode		= false;
 suggest.init(searchURL, formname, queryParamName, divLayername, instanceName, debugMode, channelParamName, channel);
@@ -163,16 +145,678 @@ document.onmousedown = suggest.hideLayerOutsideCall;
 document.forms["search_word_inc"]["query"].focus();
 document.forms["search_word_inc"]["query"].select();
 </script>
+                            </form> 
+<a href="http://www.cooksongold.com/advanced_search.jsp" class="advanced">Advanced Search</a>
+                            
+                        </div> 
+                    </div> 
+                </div> 
+                  
+                <div class="cl" style="z-index: 19880;">&nbsp;</div> 
+
+                 <div id="welcome-bar" style="z-index: 19870;"> 
+                    <div class="bar-right" style="z-index: 19860;"> 
+                        <div class="bar-left" style="z-index: 19850;"> 
+    
+                            <p class="left">Welcome to cooksongold.com</p> 
+ 
+                        </div> 
+                    </div> 
+                </div> 
+              
+            </div> 
+
+            <div id="col-3" style="z-index: 19840;"> 
+            
+                <div class="panel nospacing shopping" style="z-index: 19830;"> 
+                    
+                    <div class="header" style="z-index: 19820;"> 
+                        <p class="center">
+ 
+                           <a href="#" onclick="noitems();" onkeypress="noitems();" title="Your basket is empty">My Shopping Basket</a>
+ 
+						</p> 
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19810;">&nbsp;</div> 
+                    
+                    <div class="content-container minheight" style="z-index: 19800;"> 
+                        <div class="cartcnt" style="z-index: 19790;"> 
+
+                           <a href="#" onclick="noitems();" onkeypress="noitems();" title="Your basket is empty"><img src="/assets/images/shopping-basket.jpg" alt="My Shopping Basket"></a>
+ 
+							<div class="info" style="z-index: 19780;"> 
+                                <p class="qty"><span><a href="#">0 Items</a></span></p> 
+                                <p class="price"><a href="#">£0.00 exc. VAT</a></p> 
+                                <p class="pricev"><a href="#">£0.00 inc. VAT</a></p> 
+                            </div> 
+                            
+                        </div> 
+                  
+                    </div> 
+                       
+              </div> 
+              
+             	<div class="phone" style="z-index: 19770;"><img src="/assets/images/icons/telephone.jpg" alt="Telephone"><p>0845 100 1122       </p></div> 
+             
+            </div> 
+            
+            <div class="cl" style="z-index: 19760;">&nbsp;</div> 
+
+             <!-- Start Level 1 Navigation --> 
+            <div class="navlevel1" style="z-index: 19750;"> 
+              <ul class="navitems1"> 
+                <li><a href="http://www.cooksongold.com/home.jsp"><img src="/assets/images/icons/home.png" alt="Homepage" class="home"></a></li> 
+                <li class="sep">&nbsp;</li> 
+ 
+                <li><a href="https://www.cooksongold.com/reg/register.jsp?country=gb&amp;shop=c&amp;language=ENG&amp;site400=001&amp;company=001&amp;siteid=IN">Register</a></li>
+                <li class="sep">&nbsp;</li> 
+                <li><a href="https://www.cooksongold.com/login_in.jsp?country=gb&amp;shop=c&amp;language=ENG&amp;site400=001&amp;company=001&amp;siteid=IN">Log In</a></li>
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/aboutus/">About Us</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/metalprices/">Metal Prices</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/scrapgold/">Scrap</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/about/tradecounters.jsp">Counters</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://portalgc.knowledgebase.net/?cid=11047&amp;c=12004&amp;cpc=TKvN0Y442nJq41250385h0TtoO3RuDHqcReVI" target="_blank">Knowledgebase</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/forum/" target="_blank">Forum</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/community.jsp">Community</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/blog/" target="_blank">Blog</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/home/static.jsp?page=projects">Projects</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/help/contactus.jsp">Contact Us</a></li> 
+ 
+                <li class="sep">&nbsp;</li> 
+                         
+                <li><a href="http://www.cooksongold.com/help/">Help</a></li> 
+ 
+				</ul> 
+            </div> 
+            <!-- End Level 1 Navigation --> 
+                        
+  
+            <!-- Start Drop Down -->                   
+            <div id="menu" style="z-index: 19740;">
+                
+               <div id="bbc" style="z-index: 19730;">
+                <p>Browse By Category</p>
+               </div>
+               
+               <ul class="level2">
+ 
+				<li><a href="http://www.cooksongold.com/Bullion/">Bullion</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19720;">
+                            
+                                <div class="container" style="z-index: 19710;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19700;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Wire/">Wire</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Sheet/">Sheet</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Solders/">Solders</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Tube/">Tube</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Grain-and-Casting-Pieces/">Grain and Casting Pieces</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Reflections-Silver/">Reflections Silver</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Gold-and-Silver-Bars/">Gold and Silver Bars</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Strip-Bezel-and-Gallery/">Strip Bezel and Gallery</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Napkin-Rings/">Napkin Rings</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Unfinished-Bangles/">Unfinished Bangles</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Royal-Wedding-Bars/">Royal Wedding Bars</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Bullion/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Tools/">Tools</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19690;">
+                            
+                                <div class="container" style="z-index: 19680;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19670;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Jewellery-Tools/">Jewellery Tools</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Enamelling/">Enamelling</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Books/">Books</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Tools/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Findings/">Findings</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19660;">
+                            
+                                <div class="container" style="z-index: 19650;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19640;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Findings/">Findings</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Settings/">Settings</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Findings/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Clay/">Clay</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19630;">
+                            
+                                <div class="container" style="z-index: 19620;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19610;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Precious-Metal-Clay/">Precious Metal Clay</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/FIMO-Polymer-Clay/">FIMO Polymer Clay</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Clay/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Chain/">Chain</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19600;">
+                            
+                                <div class="container" style="z-index: 19590;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19580;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Finished-Chain/">Finished Chain</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Loose-Chain/">Loose Chain</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Chain/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Ring-Blanks/">Ring Blanks</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19570;">
+                            
+                                <div class="container" style="z-index: 19560;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19550;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Wedding-Ring-Blanks/">Wedding Ring Blanks</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Stamped-Signet-Ring-Blanks/">Stamped Signet Ring Blanks</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Cast-Rings/">Cast Rings</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Ring-Blanks/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Gemstones/">Gemstones</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19540;">
+                            
+                                <div class="container" style="z-index: 19530;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19520;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Gemstones/">Gemstones</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Gemstones/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Beading/">Beading</a>
+                     <!-- Start Submenu -->
+                     <ul class="single">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19510;">
+                            
+                                <div class="container" style="z-index: 19500;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19490;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Stringing-and-Craft/">Stringing and Craft</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Swarovski-Crystal-Beads/">Swarovski Crystal Beads</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Storage/">Storage</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Jewellery-Making-Kits/">Jewellery Making Kits</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Beading/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Jewellery/">Jewellery</a>
+                     <!-- Start Submenu -->
+                     <ul class="single expand-right">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19480;">
+                            
+                                <div class="container" style="z-index: 19470;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19460;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Charm-Beads/">Charm Beads</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Finished-Jewellery/">Finished Jewellery</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Jewellery/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/Boxes~Packaging/">Boxes/Packaging</a>
+                     <!-- Start Submenu -->
+                     <ul class="single expand-right">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19450;">
+                            
+                                <div class="container" style="z-index: 19440;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19430;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="http://www.cooksongold.com/Boxes-and-Packaging/">Boxes and Packaging</a></li>
+ 
+                                        <li><a href="http://www.cooksongold.com/Display-and-Sundries/">Display and Sundries</a></li>
+ 
+                                            </ul>                                            
+                                            <a href="http://www.cooksongold.com/Boxes~Packaging/" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+                        </li>
+                     </ul>
+                     <!-- End Sub Menu -->
+</li> 
+ 
+				<li><a href="http://www.cooksongold.com/brand-shop.jsp">Brand Shop</a>
+                     <ul class="single expand-right">
+                        <li>
+                            <div class="menu-panel" style="z-index: 19420;">
+                            
+                                <div class="container" style="z-index: 19410;">
+                                    
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                      <tbody><tr>
+                                        <td>
+                                        
+                                        <div class="col" style="z-index: 19400;">
+                                            <h2>Product Categories</h2>
+                                            
+                                            <ul>
+ 
+                                        <li><a href="/category_select.jsp?query=dremel">Dremel</a></li>
+ 
+                                        <li><a href="/category_select.jsp?query=proxxon">Proxxon</a></li>
+ 
+                                        <li><a href="/Reflections-Silver/">Reflections</a></li>
+ 
+                                        <li><a href="/Swarovski-Crystal-Beads/">Swarovski</a></li>
+ 
+                                        <li><a href="/category_select.jsp?query=beadalon">Beadalon</a></li>
+ 
+                                        <li><a href="/category_select.jsp?query=cooksonvaluerange">Cookson Value</a></li>
+ 
+                                        <li><a href="/Precious-Metal-Clay/-Range=Art_Clay_Silver/-Alloy=0/-Type=0/&amp;prdsearch=y">Art Clay</a></li>
+ 
+                                        <li><a href="/FIMO-Polymer-Clay/">Fimo</a></li>
+ 
+                                        <li><a href="/Precious-Metal-Clay/-Range=PMC_Clay/-Alloy=0/-Type=0/&amp;prdsearch=y">PMC</a></li>
+ 
+                                        <li><a href="/category_select.jsp?query=durston">Durston</a></li>
+ 
+									</ul>                                            
+
+
+
+
+
+
+
+
+
+
+
+                                            <a href="http://www.cooksongold.com/brand-shop.jsp" class="more">More</a>
+                                        </div>
+                                        
+                                        </td> 
+                                      </tr> 
+                                    </tbody></table>
+                                    
+                                </div>
+                                
+                            </div>
+				</li>
+              	</ul> 
+			</li>
+  
+</ul>
+            </div> 
+  
+      </div> 
+          <!-- </Header> --> 
+ 
+
+          <div id="main" style="z-index: 19390;"> 
+
+
+
+
+
+
+
+
+
+  
+			            <!-- <Ribbon Bar> --> 
+            <div class="ribbon-bar" style="z-index: 19380;"> 
+ 
+				<h3><a href="http://www.cooksongold.com/home/november_sale.jsp"><img src="/images/banners/november-ribbon.jpg" alt="Ribbon Bar"></a></h3> 
+ 
+			</div> 
+            <!-- </Ribbon Bar>-->
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+          	<div class="column side left" style="z-index: 19370;">             
+ 
+                <div class="panel" style="z-index: 19360;"> 
+                  	
+                    <div class="header" style="z-index: 19350;"> 
+                    	<p>Narrow Your Search</p>
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19340;">&nbsp;</div> 
+                    
+                    <div class="content-container" style="z-index: 19330;"> 
+ 
+<form method="get" class="form-dropdown" action="http%3A%2F%2Fwww.cooksongold.com%2Fcategory_select.jsp" name="categories">
+<input type="hidden" name="category" value="Shop-Home">
+ 
+ <select class="side-dropdown" name="show" id="show">
+ 
+  <option value="N" selected="selected">-- Show --</option> 
+  <option value="N">-- All --</option> 
+  <option value="Y">In Stock</option>
+  <option value="E">Sale Items</option>
+  <option value="2">New Products</option>
+  <option value="1">Best Sellers</option>
+ 
+ </select>
+<div class="button blue small" style="z-index: 19320;"><a href="javascript:document.categories.action ='http://www.cooksongold.com/category_select.jsp';document.categories.submit();">GO</a></div>
+ 
+<input type="hidden" name="prdsearch" value="y">
+ 
+<input type="hidden" name="pagenum" value="0">
+<input type="hidden" name="orderby" value="numpicks">
+<input type="hidden" name="numperpage" value="25">
 </form>
-<div class="clearthis"></div>
-</div>
+                            
+                    </div> 
+                                        
+                 </div> 
  
-<p class="Title"><label for="prod_search">category selection</label></p>
+                <div class="panel" style="z-index: 19310;"> 
+                    <div class="header" style="z-index: 19300;"> 
+                    	<p>Category Selection</p> 
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19290;">&nbsp;</div> 
+                    
+                    <div class="content-container" style="z-index: 19280;"> 
+                        <div id="catselection" style="z-index: 19270;"> 
+                            <ul> 
  
-<div id="menu">
-<div class="open" id="p1"><ul>
- 
-<li><a class="current" href="http://www.cooksongold.com/Shop-Home/">Shop Home</a></li>
+<li><a href="http://www.cooksongold.com/Shop-Home/all"><span>Shop Home</span></a></li>
  
 <li><a href="http://www.cooksongold.com/Books/">Books</a></li>
  
@@ -210,7 +854,7 @@ document.forms["search_word_inc"]["query"].select();
  
 <li><a href="http://www.cooksongold.com/Reflections-Silver/">Reflections Silver</a></li>
  
-<li><a href="http://www.cooksongold.com/Royal-Wedding-Bars/"><font color="red">New! </font>Royal Wedding Bars</a></li>
+<li><a href="http://www.cooksongold.com/Royal-Wedding-Bars/">Royal Wedding Bars <span>New!</span></a></li>
  
 <li><a href="http://www.cooksongold.com/Settings/">Settings</a></li>
  
@@ -237,316 +881,373 @@ document.forms["search_word_inc"]["query"].select();
 <li><a href="http://www.cooksongold.com/Wedding-Ring-Blanks/">Wedding Ring Blanks</a></li>
  
 <li><a href="http://www.cooksongold.com/Wire/">Wire</a></li>
- 
-<li style="height: 45px;">
-<table cellspacing="0" cellpadding="0" align="right">
-<tbody><tr>
-<td style="text-align:right; padding-right:0; margin-right:0;"><a href="/rss_offers.jsp">Latest Offers via RSS</a></td>
-<td style="width:16px; padding-left:0;"><a href="/rss_offers.jsp"><img src="/images/feed.gif" border="0" alt="RSS Feeds"></a></td>
-</tr>
-<tr>
-<td style="text-align:right; padding-right:0; font-size:0.8em;"><a style="font-weight:normal; color:blue; text-decoration:underline;" href="/rss_info.jsp" target="_blank">what is rss?</a></td>
-<td style="width:16px; padding-left:0;">&nbsp;</td>
-</tr>
-</tbody></table>
-</li>
-</ul>
-</div>
-</div>
+  
+<li><a href="http://www.cooksongold.com/category_az.jsp">A-Z Products</a></li>
+<li><a href="http://www.cooksongold.com/quickshop.jsp">Quick Shop</a></li>
+                         </ul> 
+                      </div> 
+                    </div> 
+                                       
+                </div> 
 
-
-
-
-<div class="Sideboxes">
-<p class="Title">Narrow your Search</p>
-<form method="get" action="http://www.cooksongold.com/category_select.jsp" name="categories">
-<input type="hidden" name="category" value="Shop-Home">
  
-<p class="showLeft"><label for="show">Show:</label></p>
-<p class="floatLeft" style="padding-top:4px"> <select name="show" id="show" class="selectShow">
+                <div class="panel" style="z-index: 19260;"> 
+                  	
+                    <div class="header" style="z-index: 19250;"> 
+                    	<p> Best Sellers</p>
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19240;">&nbsp;</div> 
+                    
+                    <div class="content-container" style="z-index: 19230;"> 
+                        <div id="top10" style="z-index: 19220;"> 
+                            <ul>
  
-  <option value="N" selected="selected">-- All --</option> 
-  <option value="Y">In Stock</option>
-  <option value="E">Sale Items</option>
-  <option value="2">New Products</option>
-  <option value="1">Best Sellers</option>
- 
- </select>
-</p>
-<div class="clearthis"></div>
-<p class="floatRight" style="padding-bottom: 5px"><input class="submit" name="submit" type="image" value="submit" src="/images/submit.gif" alt="submit" align="middle"></p>
- 
-<input type="hidden" name="prdsearch" value="y">
- 
-<input type="hidden" name="pagenum" value="0">
-<input type="hidden" name="orderby" value="numpicks">
-<input type="hidden" name="numperpage" value="10">
-</form>
-<div class="clearthis"></div>
-</div>
- 
-<div class="Sideboxes">
-<p class="Title">a - z index</p>
-<div style="text-align:right; padding:3px 8px 3px 3px;">
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=A" style="font-weight: normal">A</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=B" style="font-weight: normal">B</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=C" style="font-weight: normal">C</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=D" style="font-weight: normal">D</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=E" style="font-weight: normal">E</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=F" style="font-weight: normal">F</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=G" style="font-weight: normal">G</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=H" style="font-weight: normal">H</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=I" style="font-weight: normal">I</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=J" style="font-weight: normal">J</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=K" style="font-weight: normal">K</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=L" style="font-weight: normal">L</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=M" style="font-weight: normal">M</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=N" style="font-weight: normal">N</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=O" style="font-weight: normal">O</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=P" style="font-weight: normal">P</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=Q" style="font-weight: normal">Q</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=R" style="font-weight: normal">R</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=S" style="font-weight: normal">S</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=T" style="font-weight: normal">T</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=U" style="font-weight: normal">U</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=V" style="font-weight: normal">V</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=W" style="font-weight: normal">W</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=X" style="font-weight: normal">X</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=Y" style="font-weight: normal">Y</a><font color="white">.</font>
- 
-<a href="http://www.cooksongold.com/category_az.jsp?let=Z" style="font-weight: normal">Z</a><font color="white">.</font>
- 
-</div>
-<div class="clearthis"></div>
-</div>
-<div class="Sideboxes">
-<p class="Title">quick shop</p>
-<div style="text-align:right; padding:3px 8px 3px 3px;">
-<a href="http://www.cooksongold.com/quickshop.jsp">Know the product codes? Click here</a>
-</div>
-<div class="clearthis"></div>
-</div>
- 
-<div class="Sideboxes">
-<p class="Title">Best Sellers</p>
-<div style="text-align:left; padding:10px 8px 10px 3px;">
- 
-<p><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Round-Wire-0.50mm-prcode-HSA-050" title="Click for more details." style="font-weight: normal">
+<li><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Round-Wire-0.50mm-prcode-HSA-050" title="Click for more details." style="font-weight: normal">
 1. Sterling Silver Round Wire 0.50mm
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Solders/Easy-Silver-Solder-Strip,-3.0mm-X-0.50mm,-600mm-Lengths,-Weight-Per-Strip-9g-prcode-CTB-500" title="Click for more details." style="font-weight: normal">
+<li><a href="http://www.cooksongold.com/Solders/Easy-Silver-Solder-Strip,-3.0mm-X-0.50mm,-600mm-Lengths,-Weight-Per-Strip-9g-prcode-CTB-500" title="Click for more details." style="font-weight: normal">
 2. Easy Silver Solder Strip, 3.0mm X 0.50mm, 600mm Lengths, Weight Per Strip 9g
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Sheet/Sterling-Silver-Sheet-1.50mm-Fully-Annealed-Soft-prcode-CSA-150" title="Click for more details." style="font-weight: normal">
+<li><a href="http://www.cooksongold.com/Sheet/Sterling-Silver-Sheet-1.50mm-Fully-Annealed-Soft-prcode-CSA-150" title="Click for more details." style="font-weight: normal">
 3. Sterling Silver Sheet 1.50mm Fully Annealed Soft
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Jewellery-Tools/3--Adjustable-Saw-Frame-prcode-999-735" title="Click for more details." style="font-weight: normal">
+<li><a href="http://www.cooksongold.com/Jewellery-Tools/3--Adjustable-Saw-Frame-prcode-999-735" title="Click for more details." style="font-weight: normal">
 4. 3" Adjustable Saw Frame
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Square-Wire-1.00-MM-prcode-JSA-100" title="Click for more details." style="font-weight: normal">
-5. Sterling Silver Square Wire 1.00 MM
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+<li><a href="http://www.cooksongold.com/Solders/Easy-Silver-Solder-Paste,-30g-Syringe-prcode-PAT-020" title="Click for more details." style="font-weight: normal">
+5. Easy Silver Solder Paste, 30g Syringe
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Solders/Extra-Easy-Silver-Solder-Strip,-2.0mm-X-0.45mm,-600mm-Lengths,-Weight-Per-Strip-5g-prcode-CTA-500" title="Click for more details." style="font-weight: normal">
-6. Extra Easy Silver Solder Strip, 2.0mm X 0.45mm, 600mm Lengths, Weight Per Strip 5g
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+<li><a href="http://www.cooksongold.com/Wire/Sterling-Silver-Square-Wire-1.00mm-Fully-Annealed-prcode-JSA-100" title="Click for more details." style="font-weight: normal">
+6. Sterling Silver Square Wire 1.00mm Fully Annealed
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Wire/9ct-DF-Yellow-Round-Wire-1.00mm-Diameter-prcode-HAA-100" title="Click for more details." style="font-weight: normal">
-7. 9ct DF Yellow Round Wire 1.00mm Diameter
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+<li><a href="http://www.cooksongold.com/Solders/Extra-Easy-Silver-Solder-Strip,-2.0mm-X-0.45mm,-600mm-Lengths,-Weight-Per-Strip-5g-prcode-CTA-500" title="Click for more details." style="font-weight: normal">
+7. Extra Easy Silver Solder Strip, 2.0mm X 0.45mm, 600mm Lengths, Weight Per Strip 5g
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Charm-Beads/Sterling-Silver-Snake,-Charm-Bead-Bracelet,-7.5-,-With-Magnetic-Lock-And-Safety-Chain-Hallmarked-prcode-NVQ1-BL01" title="Click for more details." style="font-weight: normal">
-8. Sterling Silver Snake, Charm Bead Bracelet, 7.5", With Magnetic Lock And Safety Chain Hallmarked
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+<li><a href="http://www.cooksongold.com/Charm-Beads/Sterling-Silver-Sleeve-For-Glass-Charm-Beads,sold-In-Pairs-prcode-NVQ1-SL01" title="Click for more details." style="font-weight: normal">
+8. Sterling Silver Sleeve For Glass Charm Beads,sold In Pairs
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Charm-Beads/Silver-Sleeve-For-Glass-Charm-Beads,-Sold-In-Pairs-prcode-NVQ1-SL01" title="Click for more details." style="font-weight: normal">
-9. Silver Sleeve For Glass Charm Beads, Sold In Pairs
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+<li><a href="http://www.cooksongold.com/Loose-Chain/Sterling-Silver-Navette-Trace,-Loose-prcode-WVT-800" title="Click for more details." style="font-weight: normal">
+9. Sterling Silver Navette Trace, Loose
+</a></li>
  
-<p><a href="http://www.cooksongold.com/Loose-Chain/Silver-Navette-Trace,-Loose-prcode-WVT-800" title="Click for more details." style="font-weight: normal">
-10. Silver Navette Trace, Loose
-</a></p>
-<p style="line-height:0.5em;">&nbsp;</p>
+<li><a href="http://www.cooksongold.com/Charm-Beads/Sterling-Silver-Charm-Carrier,-Small-prcode-NVQ1-CC01" title="Click for more details." style="font-weight: normal">
+10. Sterling Silver Charm Carrier, Small
+</a></li>
  
-</div>
-<div class="clearthis"></div>
-</div>
-<div class="clearthis"></div>
+                            </ul> 
+                        </div> 
+                    </div> 
+                                        
+                 </div> 
  
-<div class="Sideboxes">
-<p class="Title">Cooksongold members of:</p>
-<div style="text-align:center; padding:10px 8px 10px 3px;">
-<a href="http://www.bja.org.uk/" target="_blank"><img src="/images/BJAlogo.jpg" alt="BJA logo" border="0"></a>
-</div>
-<div class="clearthis"></div>
-</div>
+                <div class="panel" style="z-index: 19210;"> 
+                  	
+                    <div class="header" style="z-index: 19200;"> 
+                    	<p>Featured brands</p> 
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19190;">&nbsp;</div> 
+                    
+                    <div class="content-container" style="z-index: 19180;"> 
+                    
+                        <div id="featuredbrands" style="z-index: 19170;"> 
  
-<div class="Sideboxes">
-<p class="Title">Bookmark this Page with:</p>
-<p style="float:left; padding:5px; font-weight:normal;">
-<a href="javascript:bookmarksite('http://www.cooksongold.com/');"><img style="border:0px;" src="/images/16x16-favorites.gif" alt="Add to Favorites"></a>
-<a target="_blank" href="http://digg.com/submit?phase=2&amp;url=http://www.cooksongold.com/&amp;title=Jewellery+Supplies+-+Cookson+Gold+Precious+Metals&amp;bodytext=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students&amp;topic=design"><img src="/images/16x16-digg-guy.gif" width="16" height="16" border="0" alt="Add to Digg!"></a>
-<a target="_blank" href="http://del.icio.us/post?v=4;url=http://www.cooksongold.com/;title=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-delicious.gif" width="16" height="16" border="0" alt="Add to del.icio.us"></a>
-<a target="_blank" href="http://reddit.com/submit?url=http://www.cooksongold.com/&amp;title=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-reddit.gif" width="18" height="16" border="0" alt="Add to Reddit"></a>
-<a target="_blank" href="http://www.stumbleupon.com/submit?url=http://www.cooksongold.com/&amp;title=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-stumbleit.gif" width="16" height="16" border="0" alt="Add to StumbleUpon"></a>
-<a target="_blank" href="http://www.furl.net/savedialog.jsp?u=http://www.cooksongold.com/&amp;t=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-furl.gif" width="16" height="16" border="0" alt="Add to Furl"></a>
-<a target="_blank" href="http://www.facebook.com/share.php?src=bm&amp;v=4&amp;u=http://www.cooksongold.com/&amp;t=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-facebook.gif" width="16" height="16" border="0" alt="Add to Facebook"></a>
-<a target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;output=popup&amp;bkmk=http://www.cooksongold.com/&amp;title=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-google.gif" width="16" height="16" border="0" alt="Add to Google"></a>
-<a target="_blank" href="http://www.spurl.net/spurl.php?v=3&amp;url=http://www.cooksongold.com/&amp;title=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-spurl.gif" width="16" height="16" border="0" alt="Add to Spurl"></a>
-<a target="_blank" href="https://favorites.live.com/quickadd.aspx?url=http://www.cooksongold.com/&amp;title=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-live.gif" width="16" height="16" border="0" alt="Add to Live Bookmarks"></a>
-<a target="_blank" href="http://slashdot.org/bookmark.pl?url=http://www.cooksongold.com/&amp;title=Manufacturer+and+suppliers+to+the+jewellery+trade.+Cookson+Precious+Metals+offer+a+choice+of+supplies+from+over+10%2C000+products+including+jewellery+findings%2C+tools%2C+wire+and+metal+sheet+-+gold%2C+silver%2C+platinum+and+palladium+plus+technical+information+for+jewellers%2C+jobbers%2C+craftsmen+and+students"><img src="/images/16x16-slashdot.gif" width="16" height="16" border="0" alt="Add to Slashdot"></a>
-<a href="javascript:(function(){var d=document;var s=d.createElement('script');s.type='text/javascript';s.src='http://www.kaboodle.com/zg/addbutton.js';d.getElementsByTagName('head')[0].appendChild(s);})()"> <img src="/images/kicon-sm.gif" width="16" height="16" border="0" alt="Add To Kaboodle"></a> 
-<br><br>
-<a href="/bookmarks_info.jsp" target="_blank" style="font-weight: normal;">More info on Bookmarks</a> 
-</p>
-<div class="clearthis"></div>
-</div>
-<div style="padding-top:5px; text-align:center;">
-<div class="clearthis"></div>
-<br>
-<img src="/images/top10_award_2010_white.gif" width="100" height="100" border="0" title="Hitwise Award Winner" alt="Loading..." usemap="#hitwise_award_2010">
-<map name="hitwise_award_2010">
-	<area shape="poly" alt="" coords="32,14, 51,3, 91,26, 91,48, 95,48, 95,68, 91,68, 91,73, 50,97, 10,73, 10,68, 5,68, 5,48, 10,48, 10,26" href="#" onclick="window.open('http://www.hitwise.com/uk/resources/top-ten-award?action=confirm&amp;market=uk&amp;sDomain=www.cooksongold.com&amp;iDate=2010&amp;iCatnum=31&amp;Cal=1&amp;semi=');">
-</map>
-<div class="clearthis"></div>
+                        	<a href="/category_select.jsp?query=dremel" title="Dremel"><img src="/assets/brands/fb_dremel.jpg" alt="Dremel" class="lft"></a>
+ 
+                        	<a href="/category_select.jsp?query=proxxon" title="Proxxon"><img src="/assets/brands/fb_proxxon.jpg" alt="Proxxon" class="rgt"></a>
+ 
+                        	<a href="/Reflections-Silver/" title="Reflections"><img src="/assets/brands/fb_reflections.jpg" alt="Reflections" class="lft"></a>
+ 
+                        	<a href="/Swarovski-Crystal-Beads/" title="Swarovski"><img src="/assets/brands/fb_swarovski.jpg" alt="Swarovski" class="rgt"></a>
+ 
+                        	<a href="/category_select.jsp?query=beadalon" title="Beadalon"><img src="/assets/brands/fb_beadalon.jpg" alt="Beadalon" class="lft"></a>
+ 
+                        	<a href="/category_select.jsp?query=cooksonvaluerange" title="Cookson Value"><img src="/assets/brands/fb_cookson.jpg" alt="Cookson Value" class="rgt"></a>
+ 
+                        	<a href="/Precious-Metal-Clay/-Range=Art_Clay_Silver/-Alloy=0/-Type=0/&amp;prdsearch=y" title="Art Clay"><img src="/assets/brands/fb_artclay.jpg" alt="Art Clay" class="lft"></a>
+ 
+                        	<a href="/FIMO-Polymer-Clay/" title="Fimo"><img src="/assets/brands/fb_fimo.jpg" alt="Fimo" class="rgt"></a>
+ 
+                        	<a href="/Precious-Metal-Clay/-Range=PMC_Clay/-Alloy=0/-Type=0/&amp;prdsearch=y" title="PMC"><img src="/assets/brands/fb_pmc.jpg" alt="PMC" class="lft"></a>
+ 
+                        	<a href="/category_select.jsp?query=durston" title="Durston"><img src="/assets/brands/fb_durston.jpg" alt="Durston" class="rgt"></a>
+ 
+                        	<a href="/category_select.jsp?query=sievert" title="Sievert"><img src="/assets/brands/fb_sievert.jpg" alt="Sievert" class="lft"></a>
+ 
+                        	<a href="/category_select.jsp?query=beadsmith" title="Beadsmith"><img src="/assets/brands/fb_beadsmith.jpg" alt="Beadsmith" class="rgt"></a>
+ 
+                        	<a href="/category_select.jsp?query=griffin" title="Griffin"><img src="/assets/brands/fb_griffin.jpg" alt="Griffin" class="lft"></a>
+ 
+                        	<a href="/category_select.jsp?query=vallorbe" title="Vallorbe"><img src="/assets/brands/fb_vallorbe.jpg" alt="Vallorbe" class="rgt"></a>
+ 
 
-<!-- START SCANALERT CODE -->
-<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.cooksongold.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.cooksongold.com/23.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
-<!-- END SCANALERT CODE --> 
-<div class="clearthis"></div>
-<a href="http://validator.w3.org/check?uri=http://www.cooksongold.com/" target="_blank"><img src="/images/valid-xhtml10.jpg" alt="Valid XHTML 1.0 Transitional" height="31" width="88"></a>
-<a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Explanation of Level A Conformance" target="_blank"><img height="32" width="88" src="/images/wcag1A.gif" alt="Level A conformance icon, W3C-WAI Web Content Accessibility Guidelines 1.0"></a>
-<div class="clearthis"></div>
-<br><br><img src="/images/iso9001_l.jpg" alt="iso 9001">
-<div class="clearthis"></div>
-<img src="/images/iso14001_l.jpg" alt="iso 14001">
-<div class="clearthis"></div>
-<img src="/images/iso18001_l.jpg" alt="iso 18001">
-</div>
-<div class="clearthis"></div>
- 
-<div class="clearthis"></div>
-</div></div>
- 
-<div class="clearthis"></div>
-<div class="breadcrumb">
-<a href="/exit_shop.jsp"><b>home</b></a> &gt; <a href="help.jsp">help</a> &gt; security &amp; privacy</div>
 
-<div class="clearthis"></div>
-<div id="middle" style="height: 1751px;"><div id="contentcontent">
-<div class="DetailContainer">
+
+
+
+
+
+
+
+
+						</div> 
+                        
+                        <div class="cl" style="z-index: 19160;">&nbsp;</div> 
+                        
+                    </div> 
+                    
+                 </div> 
+  
+
+                <div class="panel" style="z-index: 19150;"> 
+                  	
+                    <div class="header" style="z-index: 19140;">            
+                    	<p>Why Shop With Us? </p> 
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19130;">&nbsp;</div> 
+                    
+                    <div class="content-container" style="z-index: 19120;"> 
+                        <div id="whyshop" style="z-index: 19110;"> 
+     						<ul> 
+ 
+
+
+
+
+                            	<li><img src="/assets/images/icons/why-shop-with-us-1.png" alt="Why Shop With Us?" class="png"> <span><a href="/aboutus/">The UK's largest jewellery suppliers</a></span></li> 
+ 
+
+
+
+
+                            	<li><img src="/assets/images/icons/why-shop-with-us-2.png" alt="Why Shop With Us?" class="png"> <span><a href="/help/delivery.jsp">Place your order before 3pm for next day delivery</a></span></li> 
+ 
+
+
+
+
+                            	<li><img src="/assets/images/icons/why-shop-with-us-3.png" alt="Why Shop With Us?" class="png"> <span><a href="/Bullion/">The bullion experts for over 20 years</a></span></li> 
+ 
+
+
+
+
+                            	<li><img src="/assets/images/icons/why-shop-with-us-4.png" alt="Why Shop With Us?" class="png"> <span><a href="/metalprices/">Precious metal prices updated daily</a></span></li> 
+ 
+
+
+
+
+                            	<li><img src="/assets/images/icons/why-shop-with-us-5.png" alt="Why Shop With Us?" class="png"> <span><a href="/help/privacy.jsp">100% safe and secure website</a></span></li> 
+ 
+
+
+
+
+                            	<li><img src="/assets/images/icons/why-shop-with-us-6.png" alt="Why Shop With Us?" class="png"> <span><a href="/community.jsp">The jewellery industry's fastest growing community</a></span></li> 
+ 
+
+
+                            </ul> 
+                        </div> 
+                        <div class="cl" style="z-index: 19100;">&nbsp;</div> 
+                  </div> 
+                    
+                 </div>
+ 	
+
+                <div class="panel" style="z-index: 19090;"> 
+                 	<div class="header" style="z-index: 19080;"> 
+                   		<p><a href="/home/testimonials.jsp">What our customers say</a></p> 
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19070;">&nbsp;</div> 
+                    
+                    <div class="content-container" style="z-index: 19060;"> 
+                        <div id="testimonials" style="z-index: 19050;"> 
+                            <ul> 
+ 
+								<li>I've been dealing with you guys since 1977, and I must add my praise to the 
+excellent service you provide.When I moved to Ibiza in 1985, your superb mail 
+order service meant the difference between success and failure as a jewellery 
+maker over here.When the internet got going I was very pleased when  your 
+website appeared, and the latest version is very fast and straightforward....so 
+well done, and keep up the good work. <br><span class="cRed">Steve Holden</span></li> 
+ 
+								<li>I only have good things to say about Cooksongold. The products are always 
+excellent in quality, delivery has never been a problem and the customer service 
+is absolutely first class. If ever I have had a query emails have always been 
+answered really quickly. The staff are knowledgeable, friendly and very helpful.
+Will always be my first port of call! <br><span class="cRed">Deirdre</span></li> 
+ 
+								<li>I have had nothing but good service next day delivery could not be better 
+especially as a jewellery student myself when I need to get silver fast I always 
+go to Cookson.
+All the items I have obtained have all been from Cookson and the quality is 
+fantastic never had to return any thing as they always send exactly what you 
+order not had a problem with any thing and there has been no faults in the 
+equipment. 
+
+Thanks Cookson team keep up the good work.
+
+P.S.  Love the new look of the website a lot better to navigate around it.
+ <br><span class="cRed">Karen</span></li> 
+ 
+								<li>I would just like to thank you for your excelent service. 
+Your products are of great quality. 
+I'm living 2 516 Km. far away from Birmingham but I received
+my first package within two days of placing my order! Very
+fast and secure. 
+Thank you, and keep up the good work. 
+I will definitely shop with you again, and reccommend you to
+my friends. <br><span class="cRed">Liviu Cercel</span></li> 
+ 
+<li><a href="/home/testimonials.jsp">Add your testimonial here</a></li>
+							</ul> 
+						</div> 
+                    </div> 
+                    
+                 </div> 
+                       
+ 
+
+
+
+
+ 
+ 
+                <div class="panel" style="z-index: 19040;"> 
+                  	
+                    <div class="header" style="z-index: 19030;"> 
+                    	<p>Tag Cloud</p>
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 19020;">&nbsp;</div> 
+                    
+                    <div class="content-container" style="z-index: 19010;"> 
+
+ <span class="tagCloud1.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=beadalon" style="color:black;text-decoration:none;">beadalon</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 12.0px;"><a href="/category_select.jsp?query=bezel" style="color:black;text-decoration:none;">bezel</a></span>
+ 
+ <span class="tagCloud0.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=cooksonvaluerange" style="color:black;text-decoration:none;">cooksonvaluerange</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 13.0px;"><a href="/category_select.jsp?query=cufflink" style="color:black;text-decoration:none;">cufflink</a></span>
+ 
+ <span class="tagCloud3.0" style="font-size: 18.0px;"><a href="/category_select.jsp?query=dremel" style="color:black;text-decoration:none;">dremel</a></span>
+ 
+ <span class="tagCloud1.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=durston" style="color:black;text-decoration:none;">durston</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 12.0px;"><a href="/category_select.jsp?query=flux" style="color:black;text-decoration:none;">flux</a></span>
+ 
+ <span class="tagCloud0.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=fretz" style="color:black;text-decoration:none;">fretz</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 9.0px;"><a href="/category_select.jsp?query=griffin" style="color:black;text-decoration:none;">griffin</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 12.0px;"><a href="/category_select.jsp?query=hammer" style="color:black;text-decoration:none;">hammer</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 12.0px;"><a href="/category_select.jsp?query=hand torch" style="color:black;text-decoration:none;">hand torch</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 13.0px;"><a href="/category_select.jsp?query=jump rings" style="color:black;text-decoration:none;">jump rings</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 15.0px;"><a href="/category_select.jsp?query=kqswarovski" style="color:black;text-decoration:none;">kqswarovski</a></span>
+ 
+ <span class="tagCloud1.0" style="font-size: 9.0px;"><a href="/category_select.jsp?query=larsson" style="color:black;text-decoration:none;">larsson</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 11.0px;"><a href="/category_select.jsp?query=mandrel" style="color:black;text-decoration:none;">mandrel</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 10.0px;"><a href="/category_select.jsp?query=milbro" style="color:black;text-decoration:none;">milbro</a></span>
+ 
+ <span class="tagCloud3.0" style="font-size: 15.0px;"><a href="/category_select.jsp?query=pliers" style="color:black;text-decoration:none;">pliers</a></span>
+ 
+ <span class="tagCloud1.0" style="font-size: 9.0px;"><a href="/category_select.jsp?query=proxxon" style="color:black;text-decoration:none;">proxxon</a></span>
+ 
+ <span class="tagCloud0.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=saw blades" style="color:black;text-decoration:none;">saw blades</a></span>
+ 
+ <span class="tagCloud0.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=silver sheet" style="color:black;text-decoration:none;">silver sheet</a></span>
+ 
+ <span class="tagCloud2.0" style="font-size: 13.0px;"><a href="/category_select.jsp?query=silver wire" style="color:black;text-decoration:none;">silver wire</a></span>
+ 
+ <span class="tagCloud0.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=solder" style="color:black;text-decoration:none;">solder</a></span>
+ 
+ <span class="tagCloud3.0" style="font-size: 9.0px;"><a href="/category_select.jsp?query=torch" style="color:black;text-decoration:none;">torch</a></span>
+ 
+ <span class="tagCloud0.0" style="font-size: 8.0px;"><a href="/category_select.jsp?query=vallorbe" style="color:black;text-decoration:none;">vallorbe</a></span>
+ 
+ <span class="tagCloud1.0" style="font-size: 14.0px;"><a href="/category_select.jsp?query=x" style="color:black;text-decoration:none;">x</a></span>
+ 
+</div> 
+                                        
+                 </div> 
+
+ 
+
+</div>
+ 
+            <!-- <Right Hand Side Page> -->
+            <div class="column full right" style="z-index: 19000;">
+            
+            <!-- <Middle Content> -->
+                <div class="column content left" style="z-index: 18990;">
+                
+                                	<!-- <Breadcrumbs> -->
+                <div id="top-bar" style="z-index: 18980;">
+                    <ul id="breadcrumbs">
+                        <li><a href="/home.jsp">Home</a></li>
+                        <li>&gt;</li>
+                        <li><a href="#" class="active-link">Security &amp; Privacy</a></li>
+                    </ul>
+                </div>
+                <!-- </Breadcrumbs> -->
+                            
+                                                                    
+                        <div class="generic" style="z-index: 18970;">
+<p><img class="spc-1" src="/assets/images/banners/help_desksecurity.jpg" border="0"></p>
 <h1>Security &amp; Privacy</h1>
-<table width="90%" border="0" align="center">
-	<tbody><tr> 
-		<td>
-At cooksongold.com we are committed to protecting your privacy. 
-We use the information we collect about you to process orders and to provide 
-a more personalised shopping experience.
-<br><br><b>What information do we collect and how do we use use it ?</b>
-<ul>
-<li>When you order, we need to know : Your name, your company name, 
-E-mail address , Delivery address, Credit, debit card or Cookson 
-account number. This allows us to process and fulfil your orders 
-and to notify of your order status. We also ask for your telephone number 
-which enables us to contact you if there is a problem with your order. For 
-some international deliveries this number may be given to our couriers. When 
-you enter a contest or promotional feature we may ask for your name, address 
-and e-mail address so we can administer the content and notify winners. We 
-monitor customer traffic patterns and site usage to help us develop the design 
-and layout of the store. We may also use the information we collect to notify 
-you about important functionality changes to the Web site, new services and 
-special offers we think you'll find valuable. If you would rather not receive 
-this information, please <a href="mailto:webmaster@cooksongold.com?subject=Privacy%20Notify">e-mail</a> 
-us.</li>
-</ul>
-<b>How does Cooksongold.com protect customer information ?</b>
-<ul>
-<li>Ordering from Cookson Precious Metals is completely safe. Our secure socket software 
-encrypts all your credit or debit card number details before they are securely 
-transmitted over the internet. To ensure that your orders are processed securely 
-over the internet, you need to have SSL enabled in your browser. Your browser 
-will indicate that you are in a secure area by showing either a locked padlock 
-icon or an image of a key in the grey bar at the bottom of the page. You can 
-check our security certificates at any time by clicking the Verisign logo 
-at the left of every secure page.</li>
-</ul>
-<b>What about cookies ?</b>
-<ul>
-<li>Cookies are small pieces of information that are stored by 
-your browser on you computer's hard drive. Our cookies do not contain any 
-personally identifying information but they enable us to provide us a improved 
-service. Most browsers automatically accept cookies, but you can usually change 
-your browsers to prevent them. If your cookies are turned off this does not 
-effect any features in cooksongold.com</li>
-</ul>
-<b>Will cooksongold.com disclose the information it collects to outside parties ?</b>
-<ul>
-<li>Cooksongold.com does not sell, trade or rent your personal information to others.</li>
-</ul>
-<b>In summary</b>
-<ul>
-<li>We are committed to protecting your own privacy. We use the 
-information we collect on the site to make shopping at Cooksongold.com possible 
-to enhance your overall shopping experience. We do not sell, trade or rent 
-your personal information to others. If you do not want to receive any announcements 
-or special offers from us, please send us an e-mail. Your consent By using 
-our web site you consent to the collection and use of this information by 
-Cooksongold.com. If we change our privacy policy, we will post those changes 
-on this page. Tell us what you think Cooksongold welcomes your questions and 
-comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?subject=Privacy%20Comments">webmaster@cooksongold.com</a></li>
-</ul>
-<b>Third-Party Web Beacons</b>
-<ul>
-<li>We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, <a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm" target="_blank">click here</a>.</li>
-</ul>
-		</td>
-	</tr>
-</tbody></table>
-<br>
-<a href="javascript:history.back()"> Go back </a>
-<br>
+<div class="container" style="z-index: 18960;">
+<p>At cooksongold.com we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience.</p>
+<h2>What information do we collect and how do we use use it ?</h2>
+<p>When you order, we need to know the following information:</p>
+<p>Your name, your company name, E-mail address, Delivery address, Credit, debit card or Cookson account number.</p>
+<p>This allows us to process and fulfill your orders and to notify you of your order status. We also ask for your telephone number which enables us to contact you if there are any problems with your order. For some international deliveries this number may be given to our couriers.</p>
+<p>When you enter a contest or promotional feature we may ask for your name, address and e-mail address so we can administer the content and notify winners.</p>
+<p>We monitor customer traffic patterns and site usage to help us develop the design and layout of the store. We may also use the information we collect to notify you about important functionality changes to the Web site, new services and special offers we think you'll find valuable. If you would rather not receive this information, please e-mail us.</p>
+<img class="margBtm10 margTp10" src="/assets/images/line.gif" border="0" width="560" height="1">
+<h2>How does Cooksongold.com protect customer information ?</h2>
+<p>Ordering from Cookson Precious Metals is completely safe. Our secure socket software encrypts all your credit or debit card number details before they are securely transmitted over the internet. To ensure that your orders are processed securely over the internet, you need to have SSL enabled in your browser.</p>
+<p>Your browser will indicate that you are in a secure area by showing either a locked padlock icon or an image of a key in the grey bar at the bottom of the page. You can check our security certificates at any time by clicking the Verisign logo at the left of every secure page.</p>
+<img class="margBtm10 margTp10" src="/assets/images/line.gif" border="0" width="560" height="1">
+<h2>What about cookies ?</h2>
+<p>Cookies are small pieces of information that are stored by your browser on your computer's hard drive. Our cookies do not contain information that identifies you personally but they enable us to an improved service.</p>
+<p>Most browsers automatically accept cookies, but you can usually change your browsers to prevent them. If your cookies are turned off this does not effect any features in cooksongold.com</p>
+<img class="margBtm10 margTp10" src="/assets/images/line.gif" border="0" width="560" height="1">
+<h2>Will cooksongold.com disclose the information it collects to outside parties ?</h2>
+<p>Cooksongold.com does not sell, trade or rent your personal information to others.</p>
+<img class="margBtm10 margTp10" src="/assets/images/line.gif" border="0" width="560" height="1">
+<h2>In summary</h2>
+<p>We are committed to protecting your own privacy. We use the information we collect on the site to make shopping at Cooksongold.com possible to enhance your overall shopping experience.</p>
+<p>We do not sell, trade or rent your personal information to others. If you do not want to receive any announcements or special offers from us, please send us an e-mail.</p>
+<p><strong>Your consent:</strong> By using our web site you consent to the collection and use of this information by Cooksongold.com. If we change our privacy policy, we will post those changes on this page.</p>
+<p><strong>Tell us what you think:</strong> Cooksongold.com welcomes your questions and comments about privacy. Please send an e-mail to <a href="mailto:webmaster@cooksongold.com">webmaster@cooksongold.com</a></p>
+<img class="margBtm10 margTp10" src="/assets/images/line.gif" border="0" width="560" height="1">
+<h2>Third-Party Web Beacons</h2>
+<p>We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!,<a href="https://reports.web.analytics.yahoo.com/optout,OptOut.vm" target="_blank"> click here</a>.</p>
 </div>
-<div class="clearthis"></div>
-</div></div>
-<div class="clearthis"></div>
+                        </div>
+                </div>
+
+            <!-- </Middle Content> -->
+            
 
 
 
@@ -557,178 +1258,462 @@ comments about privacy. Please send e-mail to <a href="mailto:cooksongold.com?su
 
 
  
-<div id="right" style="height: 1751px;"><div id="rightcontent"> 
+            <!-- <Right SideBar> --> 
+            <div class="column side right" style="z-index: 18950;"> 
  
-<div class="rightSideboxes" style="border: 0;">
+                <div class="panel" style="z-index: 18940;"> 
+                  	
+<div class="cl" style="z-index: 18930;">&nbsp;</div>
+
+<div class="content-container-email" style="z-index: 18920;">
+
+<div id="email-signup" style="z-index: 18910;">
+	
+
+<a href="/home/email_signup.jsp"><img src="/assets/images/signup.png" width="100" height="44" alt="Sign up for our weekly Deals, PLUS FREEPOST"></a>
+	<div id="email-error" style="z-index: 18900;"><p>*please fill in correctly*</p></div>
+
+	<div class="formFrame" style="z-index: 18890;">
+	<form action="/home/email_signup.jsp" name="emailsignup" method="post">
+	<input type="hidden" name="homepage" value="y">
+<label for="email">Email Address :</label>
+<input id="email" name="Email" type="text" class="inputTxt"><br>
+<div class="cl" style="z-index: 18880;"></div>
+		<a href="javascript:document.emailsignup.submit();" class="btn">Subscribe</a>
+	</form>
+	</div>
+							<div class="cl" style="z-index: 18870;"></div>
+</div>
+
+<div class="cl" style="z-index: 18860;"></div>
+</div>
+                                        
+                </div> 
  
-<a href="http://www.cooksongold.com/home/static.jsp?page=register-and-win"><img src="/images/banners/reg.jpg" width="189px" alt="Register to WIN!"></a>
+<div class="sideADBox" style="z-index: 18850;">
+ 
+<a href="http://www.cooksongold.com/home/static.jsp?page=register-and-win"><img src="/images/banners/rhs-reg2.jpg" width="160px" alt="Register and Win"></a>
  
 </div>
  
-<div class="rightSideboxes" style="border: 0;">
+<div class="sideADBox" style="z-index: 18840;">
  
-<a href="http://www.cooksongold.com/category_select.jsp?query=polishingtools"><img src="/images/banners/ad-7AM.jpg" width="189px" alt="Up to 25% OFF Polishing Tools"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/category_select.jsp?query=solderingtools"><img src="/images/banners/ad-5-AM.jpg" width="189px" alt="10% OFF Soldering Tools"></a>
+<a href="http://www.cooksongold.com/Precious-Metal-Clay/-Range=Art_Clay_Silver/-Alloy=0/-Type=0/&amp;prdsearch=y"><img src="/images/banners/1-art-clay.jpg" width="160px" alt="10% OFF Art Clay"></a>
  
 </div>
  
-<div class="rightSideboxes" style="border: 0;">
+<div class="sideADBox" style="z-index: 18830;">
  
-<a href="http://www.cooksongold.com/category_select.jsp?query=barrellingtools"><img src="/images/banners/ad-6-AM.jpg" width="189px" alt="10% OFF Barrelling Tools"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/category_select.jsp?query=minipmc"><img src="/images/banners/ad-12-AM-2.jpg" width="189px" alt="10% OFF PMC"></a>
+<a href="http://www.cooksongold.com/Display-and-Sundries/all"><img src="/images/banners/8-displays.jpg" width="160px" alt="10% OFF Display"></a>
  
 </div>
  
-<div class="rightSideboxes" style="border: 0;">
+<div class="sideADBox" style="z-index: 18820;">
  
-<a href="http://www.cooksongold.com/category_select.jsp?query=pmckits"><img src="/images/banners/ad-10-AM.jpg" width="189px" alt="10% OFF PMC &amp; Art Clay Kits"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/static.jsp?page=jewellery-making-projects"><img src="/images/banners/jewellery-making-rhs-AM.jpg" width="189px" alt="NEW Jewellery Making Project Kit"></a>
+<a href="http://www.cooksongold.com/Precious-Metal-Clay/-Range=Tools_%5E_Accessories/-Alloy=0/-Type=0/&amp;prdsearch=y"><img src="/images/banners/4-clay-tools.jpg" width="160px" alt="10% OFF Clay Tools"></a>
  
 </div>
  
-<div class="rightSideboxes" style="border: 0;">
+<div class="sideADBox" style="z-index: 18810;">
  
-<a href="http://www.cooksongold.com/home/static.jsp?page=freepost-now-even-easier"><img src="/images/banners/easter-free-delivery-2.jpg" width="189px" alt="Freepost on all orders over £50"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/home/static.jsp?page=tools-of-the-trade"><img src="/images/banners/ad-1-AM.jpg" width="189px" alt="Tools of the Trade"></a>
+<a href="http://www.cooksongold.com/FIMO-Polymer-Clay/all"><img src="/images/banners/12-FIMO.jpg" width="160px" alt="20% OFF FIMO"></a>
  
 </div>
  
-<div class="rightSideboxes" style="border: 0;">
+<div class="sideADBox" style="z-index: 18800;">
  
-<a href="http://www.cooksongold.com/forum/"><img src="/images/banners/for.jpg" width="189px" alt="NEW forum"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.cooksongold.com/blog/"><img src="/images/banners/blog-2.jpg" width="189px" alt="Cooksongold blog"></a>
+<a href="http://www.cooksongold.com/Storage/all"><img src="/images/banners/9-storage.jpg" width="160px" alt="10% OFF Storage"></a>
  
 </div>
  
-<div class="rightSideboxes" style="border: 0;">
+<div class="sideADBox" style="z-index: 18790;">
  
-<a href="http://twitter.com/cooksongold" target="_blank"><img src="/images/banners/twitter.jpg" width="189px" alt="Follow Cooksongold.com on Twitter"></a>
- 
-</div>
- 
-<div class="rightSideboxes" style="border: 0;">
- 
-<a href="http://www.facebook.com/pages/Cookson-Gold/18173832679?ref=ts#!/pages/Cookson-Gold/18173832679?ref=t" target="_blank"><img src="/images/banners/facebook-small.jpg" width="189px" alt="Become a fan of Cooksongold"></a>
+<a href="http://www.cooksongold.com/Swarovski-Crystal-Beads/all"><img src="/images/banners/10-swarovski.jpg" width="160px" alt="15% OFF Swarovski"></a>
  
 </div>
  
-<div class="rightSideboxes" style="border: 0;">
+<div class="sideADBox" style="z-index: 18780;">
  
-<a href="http://www.cooksongold.com/help/email_signup.jsp"><img src="/images/banners/register-4.jpg" width="189px" alt="E-mail Sign-up"></a>
+<a href="http://www.cooksongold.com/category_select.jsp?query=bigtools"><img src="/images/banners/6-tools.jpg" width="160px" alt="Up to 20% OFF Tools"></a>
  
 </div>
  
-</div></div>
-<div class="clearthis"></div>
+<div class="sideADBox" style="z-index: 18770;">
+ 
+<a href="http://www.cooksongold.com/Stringing-and-Craft/all"><img src="/images/banners/5-stringing-craft.jpg" width="160px" alt="10% OFF Stringing and Craft"></a>
+ 
+</div>
+ 
+<div class="sideADBox" style="z-index: 18760;">
+ 
+<a href="http://www.cooksongold.com/Precious-Metal-Clay/-Range=PMC_Clay/-Alloy=0/-Type=PMC_3/&amp;prdsearch=y"><img src="/images/banners/3-PMC3.jpg" width="160px" alt="5% OFF PMC3"></a>
+ 
+</div>
+ 
+<div class="sideADBox" style="z-index: 18750;">
+ 
+<a href="http://www.cooksongold.com/Boxes-and-Packaging/all"><img src="/images/banners/7-boxes-packaging.jpg" width="160px" alt="10% OFF Boxes and Packaging"></a>
+ 
+</div>
+ 
+<div class="sideADBox" style="z-index: 18740;">
+ 
+<a href="http://www.cooksongold.com/Precious-Metal-Clay/-Range=Kits/-Alloy=0/-Type=0/&amp;prdsearch=y"><img src="/images/banners/2-clay-kits.jpg" width="160px" alt="10% OFF Clay Kits"></a>
+ 
+</div>
+ 
+<div class="sideADBox" style="z-index: 18730;">
+ 
+<a href="http://www.cooksongold.com/home/static.jsp?page=projects"><img src="/images/banners/rhs-projects.jpg" width="160px" alt="Jewellery Making Projects Area"></a>
+ 
+</div>
+ 
+<div class="sideADBox" style="z-index: 18720;">
+ 
+<a href="/forum/" target="_blank"><img src="/images/banners/rhs-forum.jpg" width="160px" alt="Visit our Forum"></a>
+ 
+</div>
+    
+                <div class="panel" style="z-index: 18710;"> 
+                  	
+                    <div class="header" style="z-index: 18700;"> 
+                    	<p>Find us on</p> 
+                    </div> 
+                    
+                    <div class="cl" style="z-index: 18690;">&nbsp;</div> 
+                         
+                    <div class="content-container" style="z-index: 18680;"> 
+                        <div id="finduson" style="z-index: 18670;"> 
+                        	<ul>
+  
+                            	<li><a href="http://www.facebook.com/pages/Cookson-Gold/18173832679?ref=ts#!/pages/Cookson-Gold/18173832679?ref=t" target="_blank"><img src="/assets/social_media/facebook.png" alt="Facebook"></a></li> 
+  
+                            	<li><a href="http://twitter.com/cooksongold" target="_blank"><img src="/assets/social_media/twitter.png" alt="Twitter"></a></li> 
+  
+                            	<li><a href="http://www.youtube.com/user/cooksongold" target="_blank"><img src="/assets/social_media/youtube.png" alt="YouTube"></a></li> 
+  
+                            	<li><a href="http://www.flickr.com/photos/cookson-gold/" target="_blank"><img src="/assets/social_media/flickr.png" alt="Flickr"></a></li> 
+  
+                            	<li><a href="http://www.linkedin.com/company/112722?trk=pro_other_cmpy" target="_blank"><img src="/assets/social_media/linkedin.png" alt="Linked In"></a></li> 
+  
+                            	<li><a href="http://www.cooksongold.com/blog/" target="_blank"><img src="/assets/social_media/blog.png" alt="Blog"></a></li> 
+  
+                            	<li><a href="http://www.cooksongold.com/forum/" target="_blank"><img src="/assets/social_media/forum.png" alt="Forum"></a></li> 
+ 
+							</ul> 
+                        </div> 
+                  </div>           
+                
+            </div> 
+          	         
+            <div class="cl" style="z-index: 18660;">&nbsp;</div> 
+            
+          </div> 
+          <!-- </Right SideBar> --> 
+
+</div>
+        	</div>
+        	<!-- </Right Hand Side Page> -->    
+            
+          	<div class="cbreak" style="z-index: 18650;">&nbsp;</div>
 
 
 
+
+
+
+
  
-<div id="footer" style="visibility: inherit;">
-<div class="footerbox">
-<p class="Title">Secure Shopping</p>
-<table width="135" border="0" cellpadding="2" cellspacing="0" title="Click to Verify - This site chose VeriSign SSL Certificates for secure e-commerce and confidential communications.">
-<tbody><tr>
-<td width="135" align="center" valign="top"><script src="https://seal.verisign.com/getseal?host_name=www.cooksongold.com&amp;size=M&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en" type="text/javascript"></script><br>
-<a href="http://www.verisign.co.uk/ssl-certificate" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">About SSL Certificates</a></td>
-</tr>
-</tbody></table>
-<p style="text-align:center; font-size:0.8em;">© 2007 Cookson Precious Metals
-</p>
-</div>
-<div class="footerbox">
-<p class="Title">About us</p>
-<div><ul style="margin:0; padding:8px; list-style:none;">
-<li><a href="http://www.cooksongold.com/about/whoarewe_english.jsp">About Cookson</a></li>
-<li><a href="http://www.cooksongold.com/help/contactus.jsp">Contact us</a></li>
+          	            <!-- <Footer> --> 
+            <div id="footer" style="z-index: 18640;"> 
+          
+          	<!-- <Service Bar> --> 
+            <div class="servicebar" style="z-index: 18630;"> 
+            	<div class="servicebar-content" style="z-index: 18620;"> 
+                    <ul class="first"> 
+<li><a href="http://www.cooksongold.com/aboutus/">About Cookson</a></li>
+<li><a href="http://www.cooksongold.com/help/contactus.jsp">Contact Us</a></li>
+
 <li><a href="http://www.cooksongold.com/about/tradecounters.jsp">Trade Counters</a></li>
+
 <li><a href="http://www.cooksongold.com/employment/vacancies.jsp">Employment</a></li>
-<li><a href="http://www.cooksongold.com/about/press.jsp">Press Room</a></li>
-<li><a href="http://www.cooksongold.com/blog/" target="_blank">Jewellery Making Supplies Blog</a></li>
-<li><a href="http://www.cooksongold.com/forum/" target="_blank">Jewellery Making Supplies Forum</a></li>
-</ul><br></div>
-</div>
-<div class="footerbox">
-<p class="Title">Ordering</p>
-<div><ul style="margin:0; padding:8px; list-style:none;">
+
+<li><a href="http://www.cooksongold.com/pressroom/press.jsp">Press Room</a></li>
+                 
+
+<li><a href="http://www.cooksongold.com/blog/" target="_blank">Blog</a></li>
+                       
+ 
+<li><a href="http://www.cooksongold.com/forum/" target="_blank">Forum</a></li>
+
+</ul>
+<ul>
  
     <li><a href="#" onclick="noitems();" onkeypress="noitems();" title="Your basket is empty.">Basket</a></li>
  
-   <li><a href="https://www.cooksongold.com/reg/login_in.jsp?country=GB&amp;shop=c">Sign in / Register</a></li>
+   <li><a href="https://www.cooksongold.com/login_in.jsp?country=gb&amp;shop=c&amp;language=ENG&amp;site400=001&amp;company=001&amp;siteid=IN">Log In </a> </li>
+  <li><a href="https://www.cooksongold.com/reg/register.jsp?country=gb&amp;shop=c&amp;siteid=IN">Register</a></li>
+     
  
     <li><a href="http://www.cooksongold.com/metalprices/">Metal Prices</a></li>
     <li><a href="http://www.cooksongold.com/help/">Help</a></li>
  
-</ul></div>
-</div>
-<div class="footerbox">
-<p class="Title">Services</p>
-<div><ul style="margin:0; padding:8px; list-style:none;">
-    <li><a href="http://www.cooksongold.com/technical/">Knowledgebase</a></li>
+</ul>
+<ul>
+    <li><a href="http://portalgc.knowledgebase.net/?cid=11047&amp;c=12004&amp;cpc=TKvN0Y442nJq41250385h0TtoO3RuDHqcReVI" target="_cpmkb">Knowledgebase</a></li>
     <li><a href="http://www.cooksongold.com/scrapgold/">Scrap</a></li>
-    <li><a href="http://www.cooksongold.com/help/click_collect.jsp">Click &amp; Collect</a></li>
+            
+           
+ <li><a href="http://www.cooksongold.com/help/click-collect.jsp">Click and Collect</a></li>
+                       
     <li><a href="http://www.cooksongold.com/tradefairs/">Tradefairs</a></li>
-    <li><a href="http://www.cooksongold.com/tradelinks/">Useful Trade Links</a></li>
-    <li><a href="http://www.cooksongold.com/home/catalogues.jsp">Catalogue</a></li>
-    <li><a href="http://www.cooksongold.com/rss_info.jsp" target="_blank">RSS Feeds</a></li>
-</ul></div>
-</div>
-<div class="footerbox">
-<p class="Title">About You</p>
-<div><ul style="margin:0; padding:8px; list-style:none;">
+    
+    <li><a href="http://www.cooksongold.com/tradelinks/">Useful Trade Links </a></li>
+   
+
+     <li><a href="/home/catalogues.jsp">Catalogue</a></li>
+    
+    <li><a href="http://www.cooksongold.com/rss_info.jsp">RSS feeds</a></li>
+
+</ul>
+<ul>
  
-    <li><a href="http://www.cooksongold.com/reg/emailpasswd.jsp" target="_blank">Forgotten your password?</a></li>
+    <li><a href="https://www.cooksongold.com/login_in.jsp?country=gb&amp;shop=c&amp;language=ENG&amp;site400=001&amp;company=001&amp;siteid=IN#recpw">Forgotten your password ?</a></li>
  
-    <li><a href="http://www.cooksongold.com/help/response.jsp">Your Comments</a></li>
-</ul></div>
-</div>
-<div style="width:124px;" class="footerbox">
-<p class="Title">Other Information</p>
-<div><ul style="margin:0; padding:8px; list-style:none;">
+    
+    <li><a href="http://www.cooksongold.com/response.jsp">Your Comments</a></li>
+
+</ul>
+<ul>
     <li><a href="http://www.cooksongold.com/help/disclaimer.jsp">Disclaimer</a></li>
     <li><a href="http://www.cooksongold.com/help/terms.jsp">Terms and Conditions</a></li>
     <li><a href="http://www.cooksongold.com/help/privacy.jsp">Security and Privacy</a></li>
     <li><a href="http://www.cooksongold.com/help/returns.jsp">Returns Policy</a></li>
+    
     <li><a href="http://www.cooksongold.com/home/static.jsp?page=quality-health-safety-environmental-policy">Environment Policy</a></li>
+   
     <li><a href="http://www.cooksongold.com/sitemap/">Site Map</a></li>
+    
     <li><a href="http://www.cooksongold.com/home/testimonials.jsp">Testimonials</a></li>
-</ul></div>
+
+</ul>
 </div>
 </div>
+            <!-- </Service Bar> --> 
  
- <script language="Javascript" type="text/javascript">
+			 <!-- <Seo Links> --> 
+            <div class="footercat" style="z-index: 18610;"> 
+            	<div class="footercat-content" style="z-index: 18600;"> 
+ 
+                    <ul> 
+						<li class="header">Wire</li> 
+                        <li><a href="/Wire/-Alloy=Silver_Wire/-Shape=0/-Dimension=0/-Type=0/&amp;prdsearch=y">Silver Wire</a></li> 
+                        <li><a href="/Wire/-Alloy=9ct_Yellow_Gold_Wire/-Shape=0/-Dimension=0/-Type=0/&amp;prdsearch=y">9ct Yellow Wire</a></li> 
+                        <li><a href="/Wire/-Alloy=0/-Shape=Round/-Dimension=0/-Type=0/&amp;prdsearch=y">Round Wire</a></li> 
+                        <li><a href="/Wire/-Alloy=18ct_Yellow_Gold_Wire/-Shape=0/-Dimension=0/-Type=0/&amp;prdsearch=y">18ct Yellow Wire</a></li> 
+                        <li><a href="/Wire/-Alloy=Palladium_Wire/-Shape=0/-Dimension=0/-Type=0/&amp;prdsearch=y">Palladium Wire</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Sheet</li> 
+                        <li><a href="/Sheet/-Alloy=Silver_Sheet/-Thickness=0/-Type=0/&amp;prdsearch=y">Silver Sheet</a></li> 
+                        <li><a href="/Sheet/-Alloy=9ct_Yellow_Gold_Sheet/-Thickness=0/-Type=0/&amp;prdsearch=y">9ct Yellow Sheet</a></li> 
+                        <li><a href="/Sheet/-Alloy=18ct_Yellow_Gold_Sheet/-Thickness=0/-Type=0/&amp;prdsearch=y">18ct Yellow Sheet</a></li> 
+                        <li><a href="/Sheet/-Alloy=Copper_Sheet/-Thickness=0/-Type=0/&amp;prdsearch=y">Copper Sheet</a></li> 
+                        <li><a href="/Sheet/-Alloy=Mokume_Gane_Sheet/-Thickness=0/-Type=0/&amp;prdsearch=y">Mokume Gane Sheet</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Findings</li> 
+                        <li><a href="/Findings/-Alloy=Sterling_Silver_Findings/-Style=Beads/-Size=0/-Shape=0/-Finish=0/-Holes=0/&amp;prdsearch=y">Silver Beads</a></li> 
+                        <li><a href="/Findings/-Alloy=0/-Style=Jump_Rings/-Size=0/-Shape=0/-Finish=0/-Holes=0/&amp;prdsearch=y">Jump Rings</a></li> 
+                        <li><a href="/Findings/-Alloy=Sterling_Silver_Findings/-Style=Ear_Scrolls_%5E_Backs/-Size=0/-Shape=0/-Finish=0/-Holes=0/&amp;prdsearch=y">Silver Scrolls</a></li> 
+                        <li><a href="/Findings/-Alloy=0/-Style=Cufflink/-Size=0/-Shape=0/-Finish=0/-Holes=0/&amp;prdsearch=y">Cufflink Fitting</a></li> 
+                        <li><a href="/Findings/-Alloy=0/-Style=Bolt_Rings/-Size=0/-Shape=0/-Finish=0/-Holes=0/&amp;prdsearch=y">Bolt Rings</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Chain</li> 
+                        <li><a href="/Finished-Chain/-Alloy=0/-Style=Snake/-Length=0/-Range=0/&amp;prdsearch=y">Snake Chain</a></li> 
+                        <li><a href="/Finished-Chain/">Finished Chain</a></li> 
+                        <li><a href="/Loose-Chain/">Loose Chain</a></li> 
+                        <li><a href="/Finished-Chain/-Alloy=0/-Style=Belcher/-Length=0/-Range=0/&amp;prdsearch=y">Belcher</a></li> 
+                        <li><a href="/Finished-Chain/-Alloy=9ct_Yellow_Gold_Chain/-Style=0/-Length=0/-Range=0/&amp;prdsearch=y">9ct Chain</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Solders</li> 
+                        <li><a href="/Solders/-Alloy=Silver_Solder/-Type=0/&amp;prdsearch=y">Silver Solders</a></li> 
+                        <li><a href="/Solders/-Alloy=0/-Type=Paste/&amp;prdsearch=y">Solder Paste</a></li> 
+                        <li><a href="/Solders/-Alloy=0/-Type=Strip/&amp;prdsearch=y">Solder Strip</a></li> 
+                        <li><a href="/Solders/-Alloy=9ct_Yellow_Gold_Solder/-Type=Strip/&amp;prdsearch=y">9ct Solders</a></li> 
+                        <li><a href="/Solders/-Alloy=0/-Type=Panels/&amp;prdsearch=y">Solder Panels</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Jewellery</li> 
+                        <li><a href="/Charm-Beads/">Charm Beads</a></li> 
+                        <li><a href="/Finished-Chain/-Alloy=0/-Style=Snake/-Length=Bracelets/-Range=0/&amp;prdsearch=y">Snake Bracelet</a></li> 
+                        <li><a href="/Finished-Jewellery/-Alloy=Silver/-Collection=0/-Length=0/&amp;prdsearch=y">Silver Jewellery</a></li> 
+                        <li><a href="/Finished-Jewellery/-Alloy=0/-Collection=Pearl_Jewellery/-Length=0/&amp;prdsearch=y">Pearl Jewellery</a></li> 
+                        <li><a href="/Finished-Jewellery/-Alloy=0/-Collection=Mexican_Rings/-Length=0/&amp;prdsearch=y">Mexican Rings</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Tools</li> 
+                        <li><a href="/Jewellery-Tools/-Range=Rolling_Mills/-Size=0/-Type=0/-Brand=0/&amp;prdsearch=y">Rolling Mills</a></li> 
+                        <li><a href="/Jewellery-Tools/-Range=Kits/-Size=0/-Type=0/-Brand=0/&amp;prdsearch=y">Jewellery Kits</a></li> 
+                        <li><a href="/Jewellery-Tools/-Range=Metal_Melting_Equipment/-Size=0/-Type=Hand_torch/-Brand=0/&amp;prdsearch=y">Hand Torch</a></li> 
+                        <li><a href="/Jewellery-Tools/-Range=Pliers%2C_Cutters_and_Shears/-Size=0/-Type=Pliers/-Brand=0/&amp;prdsearch=y">Pliers</a></li> 
+                        <li><a href="/Jewellery-Tools/-Range=Soldering_Heating_Equipment/-Size=0/-Type=0/-Brand=0/&amp;prdsearch=y">Soldering Tools</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Clay</li> 
+                        <li><a href="/Precious-Metal-Clay/-Range=Art_Clay_Silver/-Alloy=0/-Type=0/&amp;prdsearch=y">Art Clay Silver</a></li> 
+                        <li><a href="/Precious-Metal-Clay/">Precious Metal Clay</a></li> 
+                        <li><a href="/FIMO-Polymer-Clay/">Fimo Clay</a></li> 
+                        <li><a href="/Precious-Metal-Clay/-Range=0/-Alloy=Fine_Silver_Clay/-Type=0/&amp;prdsearch=y">Silver Clay</a></li> 
+                        <li><a href="/Precious-Metal-Clay/-Range=Kits/-Alloy=0/-Type=0/&amp;prdsearch=y">Clay Kits</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Gemstones</li> 
+                        <li><a href="/Gemstones/-Stone=Diamond/-Shape=0/-Size=0/&amp;prdsearch=y">Diamonds</a></li> 
+                        <li><a href="/Gemstones/-Stone=Topaz/-Shape=0/-Size=0/&amp;prdsearch=y">Topaz</a></li> 
+                        <li><a href="/Gemstones/-Stone=Pearl/-Shape=0/-Size=0/&amp;prdsearch=y">Pearls</a></li> 
+                        <li><a href="/Gemstones/-Stone=Amethyst/-Shape=0/-Size=0/&amp;prdsearch=y">Amethyst</a></li> 
+                        <li><a href="/Gemstones/-Stone=Garnet/-Shape=0/-Size=0/&amp;prdsearch=y">Garnet</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Beading</li> 
+                        <li><a href="/Swarovski-Crystal-Beads/">Swarovski Crystal</a></li> 
+                        <li><a href="/Charm-Beads/-Range=Glass_Charm_Beads_Murano_Glass/&amp;prdsearch=y">Glass Beads</a></li> 
+                        <li><a href="/Storage/-Range=Storage_and_Organisers/&amp;prdsearch=y">Bead Storage</a></li> 
+                        <li><a href="/Stringing-and-Craft/-Range=Enamelled_Wires/-Type=0/-Size=0/&amp;prdsearch=y">Enamel Wire</a></li> 
+                        <li><a href="/Stringing-and-Craft/-Range=Stringing_Tools_%5E_Accessories/-Type=0/-Size=0/&amp;prdsearch=y">Beading Tools</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Enamelling</li> 
+                        <li><a href="/Enamelling/-Range=Cold_Enamel_Kits/-Type=0/&amp;prdsearch=y">Cold Enamel Kits</a></li> 
+                        <li><a href="/Enamelling/-Range=Cold_Enamel_Colours/-Type=0/&amp;prdsearch=y">Cold Enamel Colours</a></li> 
+                        <li><a href="/Enamelling/-Range=Vitreous_Enamel_Sets/-Type=0/&amp;prdsearch=y">Vitreous Enamel Sets</a></li> 
+                        <li><a href="/Enamelling/-Range=Copper_Blanks/-Type=0/&amp;prdsearch=y">Copper Blanks</a></li> 
+                        <li><a href="/Enamelling/-Range=Enamelling_Tools/-Type=0/&amp;prdsearch=y">Enamelling Tools</a></li> 
+                    </ul> 
+ 
+                    <ul> 
+						<li class="header">Packaging</li> 
+                        <li><a href="/Boxes-and-Packaging/-Range=Boxes/-Style=0/-Box_Type=Ring_Box/-Colour=0/&amp;prdsearch=y">Ring Box</a></li> 
+                        <li><a href="/Boxes-and-Packaging/-Range=Boxes/-Style=0/-Box_Type=Cufflink_Box/-Colour=0/&amp;prdsearch=y">Cufflink Box</a></li> 
+                        <li><a href="/Boxes-and-Packaging/-Range=Boxes/-Style=0/-Box_Type=Pendant_Box/-Colour=0/&amp;prdsearch=y">Pendant Box</a></li> 
+                        <li><a href="/Display-and-Sundries/-Range=Display_Busts/-Type=0/&amp;prdsearch=y">Display Busts</a></li> 
+                        <li><a href="/Boxes-and-Packaging/-Range=Pouches_%5E_Purses/-Style=Organza_Bags/-Box_Type=0/-Colour=0/&amp;prdsearch=y">Organza Bags</a></li> 
+                    </ul> 
+ 
+                </div> 
+            </div> 
+            <!-- </Seo Links> --> 
+ 
+            <div class="cbreak" style="z-index: 18590;">&nbsp;</div> 
+ 
+            
+            <!-- <Footer Payments> --> 
+            <div class="footerpayments" style="z-index: 18580;"> 
+                <div class="section one" style="z-index: 18570;"> 
+                    <h1>We Accept : </h1> 
+                    <img src="/assets/images/payment-types.png" alt="Accepted card"></div>
+                     
+                <div class="section two" style="z-index: 18560;"> 
+                    <h1>Members Of : </h1>
+                     
+                   <div align="center" style="z-index: 18550;"> <a href="http://www.bja.org.uk/" target="_blank"><img src="/images/BJAlogo.jpg" alt="BJA"></a></div></div> 
+                
+                <div class="section three" style="z-index: 18540;"> 
+                    <h1>&nbsp;</h1> 
+                     <a href="http://validator.w3.org/check?uri=http://www.cooksongold.com/" target="_blank"><img src="/assets/images/xhtmlcompliant.jpg" alt="XHTML 1.0 Compliant"></a>
+					<a href="http://www.w3.org/WAI/WCAG1A-Conformance" title="Explanation of Level A Conformance" target="_blank"><img height="32" width="88" src="/assets/images/wcag1A.gif" alt="Level A conformance icon, W3C-WAI Web Content Accessibility Guidelines 1.0"></a>
+					</div> 
+            </div> 
+            <!-- </Footer Payments> --> 
+                     
+           <!-- <Footer Copyright> --> 
+           <div class="footercopyright" style="z-index: 18530;"> 
+                
+                <div class="left section" style="z-index: 18520;"> 
+                    <img src="/assets/images/logo.jpg            " alt="Cooksongold.com"> 
+                    <div class="copyright" style="z-index: 18510;"> 
+ 
+  					    <p>Cookson Precious Metals Ltd</p> 
+                        <p>VAT Registration No. GB662 8580 08. Registered in England no. 2775187</p> 
+                        <p>Registered Office: 59-83 Vittoria Street, Birmingham, B1 3NZ</p> 
+                        <p>Tel: 0845 100 1122 or 0121 200 2120 Fax: 0121 212 6456</p> 
+                        <p>© 2011 Cookson Group PLC - Registered in England &amp; Wales number 251977</p> 
+ 
+ 
+ 
+                	</div> 
+                </div> 
+                
+ 
+                <div class="right section" style="z-index: 18500;"> 
+ 
+				<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.cooksongold.com"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/www.cooksongold.com/23.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
+  
+                </div> 
+				
+
+                <div class="right section" style="z-index: 18490;"> 
+					<script src="https://seal.verisign.com/getseal?host_name=www.cooksongold.com&amp;size=S&amp;use_flash=YES&amp;use_transparent=YES&amp;lang=en" type="text/javascript"></script><br>
+<a href="http://www.verisign.co.uk/ssl-certificate" target="_blank" style="color:#000000; text-decoration:none; font:bold 7px verdana,sans-serif; letter-spacing:.5px; text-align:center; margin:0px; padding:0px;">About SSL Certificates</a>
+                </div> 
+               <div class="right section2" style="z-index: 18480;"> 
+  
+<img src="/assets/images/top10_award_jan_jun_2011.png" width="85" height="105" border="0" title="Hitwise Award Winner" alt="Loading..." usemap="#hitwise_award_201102">
+<map name="hitwise_award_201102" id="hitwise">
+	<area shape="poly" alt="" coords="32,14, 51,3, 91,26, 91,48, 95,48, 95,68, 91,68, 91,73, 50,97, 10,73, 10,68, 5,68, 5,48, 10,48, 10,26" href="#" onclick="window.open('http://www.hitwise.com/uk/resources/top-ten-award?action=confirm&amp;market=uk&amp;sDomain=www.cooksongold.com&amp;iDate=201102&amp;iCatnum=31&amp;Cal=&amp;semi=1');">
+</map>
+ 
+				</div>
+                <div class="right sectionl" style="z-index: 18470;">
+ 
+
+					<a href="/home/static.jsp?page=OHSAS18001-2007"><img src="/assets/images/iso18001_l.jpg" alt="ISO 18001"></a>
+ 
+                </div> 
+                <div class="right sectionl" style="z-index: 18460;"> 
+ 
+					<a href="/home/static.jsp?page=iso14001-2004"><img src="/assets/images/iso14001_l.jpg" alt="ISO 14001"></a>
+ 
+                </div> 
+                <div class="right sectionl" style="z-index: 18450;"> 
+  
+					<a href="/home/static.jsp?page=ISO9001-2008"><img src="/assets/images/iso9001_l.jpg" alt="ISO 9001"></a>
+ 
+                </div> 
+ 
+			</div> 
+
+           	<!-- </Footer Copyright> --> 
+            
+          	</div> 
+          	
+          
+          	<!-- </Footer> --> 
+<script language="Javascript" type="text/javascript">
 var dotHost = (("https:" == document.location.protocol) ? "https://" : "http://");
 document.write(unescape("%3Cscript src='" + dotHost + "t.trackedlink.net/_dmpt.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://t.trackedlink.net/_dmpt.js" type="text/javascript"></script>
-</div>
-<div class="clearthis"></div>
+        </div>
+    </div>
+
+ 
 <!-- Yahoo! Web Analytics - All rights reserved -->
+ 
 <script language="Javascript" type="text/javascript" src="http://d.yimg.com/mi/eu/ywa.js"></script>
+ 
 <script language="Javascript" type="text/javascript">
 /*globals YWA*/
 var YWATracker = YWA.getTracker("1000712059143");
@@ -737,27 +1722,70 @@ var YWATracker = YWA.getTracker("1000712059143");
 YWATracker.submit();
 </script>
 <noscript>
+ 
 <div><img src="http://s.analytics.yahoo.com/p.pl?a=1000712059143&amp;js=no" width="1" height="1" alt="" /></div>
+ 
 </noscript>
-<!-- End of Yahoo! Web Analytics Code -->  
-<!-- Tracking code for Cookson Gold -->
-<script language="javascript" type="text/javascript">
-var str;
-var res;
-str = (document.location.href.indexOf("https") == 0) ? "https" : "http";
-res = "<s"+"cript language='javas"+"cript'>jsv=10;UserID=4187;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.1'>jsv=11;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.2'>jsv=12;<\/s"+"cript><s"+"cript language='JavaS"+"cript1.3'>jsv=13;<\/s"+"cript>";
-res += "<s"+"cript language='javas"+"cript' src='" + str + ":\/\/tracker.roitesting.com\/roitracker2.js'><\/s"+"cript>";
-document.write(res);
-</script><script language="javascript">jsv=10;UserID=4187;</script><script language="JavaScript1.1">jsv=11;</script><script language="JavaScript1.2">jsv=12;</script><script language="JavaScript1.3">jsv=13;</script><script language="javascript" src="https://tracker.roitesting.com/roitracker2.js"></script>
-<script language="Javascript" type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<!-- End of Yahoo! Web Analytics Code -->
+ 
+ 
+<script src="http://www.google-analytics.com/ga.js" type="text/javascript">
+ 
 <script language="Javascript" type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-9905386-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+  
+<!-- Tracking code for Cookson Gold -->
+<script language="javascript" type="text/javascript">
+jsv=10;
+UserID=4187;
+</script>
+<script language="JavaScript1.1" type="text/javascript">
+jsv=11;
+</script>
+<script language="JavaScript1.2" type="text/javascript">
+jsv=12;
+</script>
+<script language="JavaScript1.3" type="text/javascript">
+jsv=13;
+</script>
+ 
+<script language="javascript" type="text/javascript" src="http://tracker.roitesting.com/roitracker2.js">
+ 
 
 
-</body></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+</script></body></html>
