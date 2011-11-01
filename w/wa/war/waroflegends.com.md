@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217052752id_/http%3A//www.jagex.com/g%3Dwaroflegends/privacy/privacy.ws) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waroflegends.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000417id_/http%3A//www.jagex.com/g%3Dwaroflegends/privacy/privacy.ws) for the most accurate reproduction.*
 
 # Multiplayer Strategy Game War of Legends - by Jagex Publishing
 
-Effective Date: 24th November, 2010
+Effective Date: 5th May, 2011
 
 **Privacy Policy**
 
@@ -38,6 +38,12 @@ For example:
 
 
 
+Information about you received from Third Parties 
+
+If you access Jagex's Products through an integrated and approved Third Party then you are allowing Jagex access to certain information from that Third Party. The information you allow Jagex to access may vary per Jagex Product and across different Third Party platforms and is affected by the privacy settings you have on your computer or internet device and the choices you make with that Third Party. 
+
+By playing a Jagex Product through a Third Party site or application you are authorising Jagex to collect, store and use in accordance with this Privacy Policy any and all information that you agreed the Third Party could provide to Jagex through that Third Party site or application. 
+
 **Children's privacy practices of Jagex**  
 Jagex's products (RuneScape, War of Legends, Stellar Dawn and FunOrb) and Jagex's websites are not targeted to users under 13 years of age. If you are under 13 years of age, from 24 November 2010 you will not be permitted to create an account for any of these products.
 
@@ -61,7 +67,7 @@ The information we collect may be used:
 
   1. To process your payment for membership subscriptions or other goods or services ordered on our site or to fulfil such orders.
   2. To provide our customer support service, and to verify any claims or requests you make if you use our customer support service.
-  3. To enforce our [terms and conditions](https://web.archive.org/web/20110217052752id_/http%3A//www.jagex.com/g%3Dwaroflegends/terms/terms.ws), and prevent or detect hacking activities, security breaches or safety risks in connection with our websites.
+  3. To enforce our [terms and conditions](https://web.archive.org/web/20111102000417id_/http%3A//www.jagex.com/g%3Dwaroflegends/terms/terms.ws), and prevent or detect hacking activities, security breaches or safety risks in connection with our websites.
   4. To send service announcements and messages (for example, a reminder sent to the members' Message Centre if a subscription payment is due or if member credit has expired).
   5. To aggregate information to generate anonymous statistics regarding use of our websites. We may share this anonymous information with our partners and advertisers. This is not linked to any personal information that can identify any individual person.
   6. For our own internal marketing and demographic studies and to help us improve our websites or to show you adverts on our site which are relevant to your demographic profile.
@@ -142,5 +148,5 @@ The affidavit has to be signed by and in the presence of ‘notary public’. Th
 If you are submitting an affidavit for a child that is under 13 years of age, then please do not include any of their Personally Identifiable Information, this includes their full name, home address, email address or telephone number. If you do include any PII of the child, your submission is your express consent for Jagex to receive and store the PII as reasonably necessary to fulfil your request. 
 
 **Review, correction and deletion of information from our records**  
-If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20110217052752id_/http%3A//www.jagex.com/g%3Dwaroflegends/privacy/dataprotect.ws). (Its terms are incorporated into this document by reference.)   
+If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our [Data Protection Policy](https://web.archive.org/web/20111102000417id_/http%3A//www.jagex.com/g%3Dwaroflegends/privacy/dataprotect.ws). (Its terms are incorporated into this document by reference.)   
 
