@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152258id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125122id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
 
 # SpanishDict | Privacy
 
