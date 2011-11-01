@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humyo.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110035903id_/http%3A//emea.trendmicro.com/emea/about/company/privacystatement/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humyo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114714id_/http%3A//emea.trendmicro.com/emea/about/company/privacystatement/index.html) for the most accurate reproduction.*
 
 # Privacy Statement - Trend Micro Europe, Middle East and Africa
 
