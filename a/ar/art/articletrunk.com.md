@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629071649id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articletrunk.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005349id_/http%3A//www.articletrunk.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
