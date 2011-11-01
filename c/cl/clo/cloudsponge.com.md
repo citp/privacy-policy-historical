@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloudsponge.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604190514id_/http%3A//www.cloudsponge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudsponge.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140853id_/http%3A//www.cloudsponge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: CloudSponge
 
-_Last Updated: August 18, 2009_
+_Last Updated: August 18, 2011_
 
 ## 1\. Introduction
 
@@ -42,10 +42,11 @@ Third party web sites are governed by their own privacy statements and not by th
 
 To open and maintain an Account (as defined in our Terms of Use), we require that you provide us with the following information.
 
-  1. your name, address and telephone number;
-  2. your e-mail address;
-  3. your credit card information;
-  4. your website information.
+  1. your company's name;
+  2. your first and last name;
+  3. your e-mail address;
+  4. a password;
+  5. your website information.
 
 
 
@@ -72,6 +73,10 @@ Most browsers allow you to turn off cookies. If you want to know how to do this 
 ### Information About Your Customers
 
 Due to the nature of the CloudSponge services, we need to collect a user ID and password to access contact sources on behalf of your customers. This information is required to authenticate access to the respective source, plus allow the CloudSponge services to retrieve contact information. Once the CloudSponge service has completed its respective task, the user ID and password is removed from our servers.
+
+### Your Customers' Contacts
+
+Due to the nature of the CloudSponge services, your customers' address book contents must pass through our system. We do not store this data longer than necessary to provide the address book importing service for you and we do not sell this data to anyone or use it ourselves for any reason that is not necessary for our product's purpose.
 
 ### Customer Service Correspondence and Phone Calls
 
