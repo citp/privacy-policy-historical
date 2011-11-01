@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skincancer.org privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427222323id_/http%3A//www.skincancer.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skincancer.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101013925id_/http%3A//www.skincancer.org/privacy-policy.html) for the most accurate reproduction.*
 
 # The Skin Cancer Foundation - Privacy Policy | privacy
 
