@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eknol.blogspot.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016035421id_/http%3A//eknol.blogspot.com/search/label/Privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eknol.blogspot.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115136id_/http%3A//eknol.blogspot.com/2009/03/privcay-policy.html) for the most accurate reproduction.*
 
-# Blogging In Web 2.0 Beta: Privacy Policy
+# Privcay Policy | Blogging In Web 2.0 Beta
 
 Computer Log Files
 
