@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sleepdisorderconnect.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619200038id_/http%3A//www.sleepconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sleepdisorderconnect.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002812id_/http%3A//www.sleepconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Sleep Connect
 
-**Last Updated: 12/15/2010**
+**Last Updated: 08/24/2011**
 
 Alliance Health, the owner and operator of this social health network, understands the importance and sensitivity of our member's information and has created this statement to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices.
 
@@ -29,7 +29,7 @@ If you have questions or concerns regarding this statement, email us at [communi
 
 ## Collection and Use of Information
 
-You do not have to give us any personal information in order to browse and read the content in the public portions of our site. Our registration forms collect both contact information (e.g., name, email address, phone number, and physical address) and demographic information (e.g., gender and age). We use this data to tailor your site experience at the site, display relevant content we think you might be interested in, and display the content according to your preferences. On occasion, this information is shared with advertisers on an aggregate basis only, in order to provide our community members with relevant offers on products and services. You control which (if any) of the details of your contact and demographic information that can be viewed by other members of the site.
+You do not have to give us any personal information in order to browse and read the content in the public portions of our site. Our registration process collects both contact information (e.g., name, email address, phone number, and physical address) and demographic information (e.g., gender and age). We use this data to tailor your site experience at the site, display relevant content we think you might be interested in, and display the content according to your preferences. On occasion, this information is shared with advertisers on an aggregate basis only, in order to provide our community members with relevant offers on products and services. You control which (if any) of the details of your contact and demographic information that can be viewed by other members of the site.
 
 When you use the site, you may set up your personal profile, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels. We collect this information so that we can provide you the various personalized services offered on the site such as discussions, ratings and reviews, and blog postings. In most cases, this information is retained and used, for instance, so you can return to view prior messages you have sent or easily see your friend list. When you update information, a backup copy of the prior version is kept for a reasonable period of time to enable reversion to the prior version of that information should the need arise.
 
@@ -125,13 +125,13 @@ Occasionally we may share information with our sponsors and partners in order to
 
 ## Securing information entered by visitors
 
-We use industry-standard technology to keep your personal information and information you have entered into our site as secure as possible. We also have put in place privacy protection control systems designed to ensure that your personal data remains safe and private.
+At Alliance Health we follow highly sophisticated security practices (as per HIPAA Security Compliance) and implement the necessary safeguards on our social health communities. We use a secure respected hosting provider for all of our web sites which are hosted in a SAS 70 Type II certified data center. We also use firewalls and other access controls on our servers that are monitored to help protect against security vulnerabilities.
 
-The security of your personal information is important to us. When you enter sensitive information such as private or personal health information on our registration forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, [click here](http://en.wikipedia.org/wiki/Transport_Layer_Security).
+The safety of your personal information is important to us. When sensitive information (such as private or personal health information) is entered or displayed on relevant forms and pages, we encrypt that information. We exclusively use 2048 bit SSL certificates
 
-Each and every Alliance Health employee servicing the website is obligated to abide by this privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
+Each and every Alliance Health employee servicing the website is obligated to abide by this privacy policy. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination. Only authorized Alliance Health employees servicing the website are permitted to have access to your personal information, and such access is limited by need.
 
-Only authorized Alliance Health employees servicing the website are permitted to have access to your personal information, and such access is limited by need.
+We welcome your input and feedback about our sites and the services that we provide to you.
 
 ## Disclosure on Alliance Health Offers
 
@@ -145,9 +145,9 @@ Our content is not influenced by advertisements or any other commercial influenc
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-## A Note to Parents on our Privacy Policy Regarding Children
+## A Note to Parents on our Privacy Policy
 
-Alliance Health is very sensitive to privacy issues and we are proud of our longtime commitment to our customers. We are especially careful in any communications with one of our most treasured customers—children and families. We do not collect personal information from children 12 and under. We do not associate cookie data with personal information about children.
+Alliance Health is very sensitive to privacy issues. We are especially careful in any communications with one of our most treasured customers—children and families. We do not collect personal information from children 12 and under. We do not associate cookie data with personal information about children.
 
 **Alliance Health Networks**  
 9 Exchange Place, Suite #200  
