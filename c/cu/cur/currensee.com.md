@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121081139id_/http%3A//www.currensee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currensee.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005517id_/http%3A//www.currensee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | www.currensee.com
 
@@ -146,7 +146,7 @@ Social networks are on-line groups, networks or communities of people who share 
 
 A social network provides its members with many features, such as the ability to create and view profiles of other members who share commonalities. A social network also allows members to create personal profiles, potentially with fairly detailed information, as well as allow its members to engage in activities such as create personal blogs, share personal information and other applications that allow its members to help them to connect with other network members.
 
-The Currensee Trader Social Network is limited to individuals who are active forex traders, as described in the Terms of Use <http://www.currensee.com/terms-of-use>. As with other social networks, members of the Currensee Trader Social Network may create personal profiles, in this case with respect to their forex trading, and may share among other information, information on their forex trading activities and performance and their market views and trading strategies.
+The Currensee Trader Social Network is limited to individuals who are active forex traders, as described in the Terms of Use http://www.currensee.com/terms-of-use. As with other social networks, members of the Currensee Trader Social Network may create personal profiles, in this case with respect to their forex trading, and may share among other information, information on their forex trading activities and performance and their market views and trading strategies.
 
 **Benefits to Social Networks**
 
