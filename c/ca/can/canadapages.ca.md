@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2010-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100704201446id_/http%3A//www.canadapages.ca/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadapages.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214634id_/http%3A//www.canadapages.ca/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy, Canada Pages
+
+## Privacy Policy
 
 Canada Pages takes your privacy seriously. We have put in place basic common sense practices in place to ensure that your information is protected.
 
@@ -30,4 +32,4 @@ We will not share this information with anyone or sell it, unless you tell us th
 
 We do not collect any personal information but what you did while you were visiting our website. This information provides Canada Pages with valuable feedback which we use to improve both our site and our services. This allows us to inform our advertisers how many people saw or clicked on their ads and how many people saw or clicked on ads in different sections of our website. We also monitor information so that we can produce aggregate reports for internal use - and for use by third parties, including Canada Pages advertisers, affiliates, or partners. Aggregate reports are mostly statistical and deal with information like people behavior and number of total visits and page views not about individual behavior. From time to time we may release information about aggregate user characteristics, but we do not include any personally identifiable information about you or your individual online usage patterns. 
 
-Canada Pages
+**Canada Pages**
