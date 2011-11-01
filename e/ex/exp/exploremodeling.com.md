@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exploremodeling.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124004238id_/http%3A//exploremodeling.com/General/1317/Our_Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploremodeling.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124556id_/http%3A//www.exploremodeling.com/General/1317/Our_Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Explore Modeling - Our Privacy Policy
 
@@ -26,5 +26,3 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
 last update: 9/29/2010
-
-No Comments have been posted...
