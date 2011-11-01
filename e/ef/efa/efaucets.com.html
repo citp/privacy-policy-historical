@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the efaucets.com privacy policy that was archived on 2011-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110425022200id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the efaucets.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101141154id_/http%3A//www.efaucets.com/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html dir="ltr" lang="en"><head>
 <meta name="”robots”" content="”index,follow”">
+<meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE">
 
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>Privacy Policy - eFaucets.com</title>
 <meta name="keywords" content="faucets, faucet, kitchen faucets, kitchen sinks, bathroom sinks, Toilets, whirlpools, vanities, Plumbing Fixtures, kitchen remodeling, bathroom faucets, garbage disposer, kitchen Accessories ">
@@ -12,9 +14,9 @@ With Guarantee Low Prices, Same Day Shipping on Most Products, No Sales Tax and 
 <meta name="REVISIT-AFTER" content="2 days">
 
 <link rel="stylesheet" type="text/css" href="css/stylesheet.css">
-</head>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=65803736"></script></head>
 
-<body marginwidth="0" marginheight="0" onload="sli_init();">
+<body marginwidth="0" marginheight="0">
 <!-- BEGIN COREMETRICS SUPPORT -->
 <script language="javascript1.1" src="/coremetrics/v40/eluminate.js" type="text/javascript">
 </script>
@@ -60,27 +62,33 @@ url = url.toString()
 appendVar = ""
 var redirectLocation
 redirectLocation = "/order.asp?buysafe=false"
-if(window.location.search.length == 0){
-    if (document.getElementById("Shipping")){
-        appendVar = "&shipping=" + document.getElementById("Shipping1").selectedIndex
-    }
-    window.location = redirectLocation + appendVar
-}else{
-    if(url.indexOf("buysafe=true") > -1){
-    if (document.getElementById("Shipping")){
-        appendVar = "&shipping=" + document.getElementById("Shipping1").selectedIndex
-    }
-        window.location = redirectLocation + appendVar   
-    }else if(url.indexOf("buysafe=false") > -1){
-    if (document.getElementById("Shipping")){
-        appendVar = "&shipping=" + document.getElementById("Shipping1").selectedIndex
-    }
-        window.location = redirectLocation + appendVar
-    }
-    }
-}
+
+
+            if(window.location.search.length == 0){
+                        if (document.getElementById("Shipping1")){
+                                    appendVar = "&shipping=" + document.getElementById("Shipping1").selectedIndex
+                        }
+                        window.location = redirectLocation + appendVar
+            }else{
+                        if(url.indexOf("buysafe=true") > -1){
+                                    if (document.getElementById("Shipping1")){
+                                                appendVar = "&shipping=" + document.getElementById("Shipping1").selectedIndex
+                                    }
+                                    window.location = redirectLocation + appendVar   
+                                    }else if(url.indexOf("buysafe=false") > -1){
+                                                if (document.getElementById("Shipping1")){
+                                                            appendVar = "&shipping=" + document.getElementById("Shipping1").selectedIndex
+                                                }
+                                    window.location = redirectLocation + appendVar
+                                    }
+                        }
+            }
 
 </script>
+
+
+
+
         
 <script language="JavaScript" type="text/javascript"><!--
 function myopen(filename,windowname,properties) {
@@ -88,43 +96,53 @@ function myopen(filename,windowname,properties) {
 }
 //--></script>
 
-<script language="JavaScript" type="text/javascript">
-<!--
-	function CheckFields(){
-		Search = document.getElementById("sli_search_1").value
-						
-			if (Search == ""){
-				alert("Oops! Please enter in a model number, part number or keywords to begin searching.")
-				return false;
-				}
-				if (Search == "What are you shopping for?"){
-					alert("Oops! Please enter in a model number, part number or keywords to begin searching.")
-				return false;
+<script type="text/javascript">
 
-				}
-				if (Search.length < 3){
-					alert("Please Enter a Search String Longer Than 3 Characters Long")
-				return false;
-				}
-	}
-	//-->
-	
-	function get_cookie ( cookie_name )
-{
-  var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+function CheckFieldsAjax(form){
+Search = document.getElementById("sli_search_1").value
 
-  if ( results )
-    return ( unescape ( results[2] ) );
-  else
-    return "";
+if (Search == ""){
+alert("Oops! Please enter in a model number, part number or keywords to begin searching.")
+return false;
+} else if (Search == "What are you shopping for?"){
+alert("Oops! Please enter in a model number, part number or keywords to begin searching.")
+return false;
+} else if (Search.length < 3){
+alert("Please Enter a Search String Longer Than 3 Characters Long")
+return false;
+} else {
+var search = encodeURIComponent(form.w.value);
+var asug = encodeURIComponent(form.asug.value);
+window.location="http://faucets.efaucets.com/search#w="+search+"&asug="+asug;
+return false;
 }
-
+}
 </script>
+<script type="text/javascript">
+	function get_cookie ( cookie_name )
+    {
+        var results = document.cookie.match ( '(^|;) ?' + cookie_name + '=([^;]*)(;|$)' );
+
+        if ( results )
+            return ( unescape ( results[2] ) );
+        else
+            return "";
+    }
+</script>
+
+<!-- RAC Head -->
+<script type="text/javascript" src="http://assets.resultspage.com/js/jquery-1.4.2.min.js"></script> 
+<script language="javascript" type="text/javascript"> 
+var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="' + sliJsHost + 'assets.resultspage.com/js/rac/sli-rac.0.4.css" /%3E'));
+document.write(unescape('%3Clink rel="stylesheet" type="text/css" href="http://efaucets.resultspage.com/rac/sli-rac.css" /%3E'));
+</script><link rel="stylesheet" type="text/css" href="https://assets.resultspage.com/js/rac/sli-rac.0.4.css"><link rel="stylesheet" type="text/css" href="http://efaucets.resultspage.com/rac/sli-rac.css">
+<!-- /RAC Head -->
 
 
 <link rel="stylesheet" type="text/css" href="http://www.efaucets.com/css/searchbox.css">
 <link rel="stylesheet" type="text/css" href="http://www.efaucets.com/css/bluetabs.css">
-<link rel="stylesheet" href="http://assets.resultspage.com/autosuggest/autosuggest.css" media="screen" type="text/css">
+
 <script type="text/javascript" src="http://www.efaucets.com/js/dropdowntabs.js">
 
 
@@ -144,6 +162,13 @@ if (get_cookie("CurrentUser")==""){
     document.title = get_cookie("CurrentUser") + " : " + document.title;
 }
 </script>
+
+
+
+
+
+
+
 
 
 
@@ -184,9 +209,9 @@ if (get_cookie("CurrentUser")==""){
 				<!-- SLI SEARCH BOX -->
 				
 				<div id="searchwrapper">
-<form name="searchform" onsubmit="return CheckFields();" method="get" action="http://faucets.efaucets.com/search"> 
+<form name="searchform" onsubmit="return CheckFieldsAjax(this);" method="get" action="http://faucets.efaucets.com/search"> 
 
-    <input class="searchbox" id="Sli_search_1" name="w" type="text" value="What are you shopping for?" onfocus="if (value == 'What are you shopping for?') {value=''}" onblur="if (value== '') {value='What are you shopping for?'}" autocomplete="on" onsubmit="return CheckFields();" style="position: absolute; left: 9; top: 10" size="43"> 
+    <input class="searchbox" id="sli_search_1" name="w" type="text" value="What are you shopping for?" onfocus="if (value == 'What are you shopping for?') {value=''}" onblur="if (value== '') {value='What are you shopping for?'}" autocomplete="on" onsubmit="return CheckFields();" style="position: absolute; left: 9; top: 10" size="43"> 
     <input type="hidden" name="asug">
     <input type="image" src="/navimages/blanksearchbutton.gif" class="searchbox_submit" value="" style="position: absolute; left: 385; top: 2" width="100" height="35">
 	
@@ -270,7 +295,7 @@ if (get_cookie("CurrentUser")==""){
             <div align="center"><a class="headerlinkwhitesm" href="/allbrands.asp" rel="dropmenu7_b"><b>Brands</b></a></div></td>
             
              <td bgcolor="#6088AC" background="/navimages/bluebackground.gif" width="100">
-            <div align="center"><a class="headerlinkwhitesm" href="/coupons.asp" rel="dropmenu8_b"><b>SALE</b></a></div></td>
+            <div align="center"><a class="headerlinkwhitesm" href="/promos.asp" rel="dropmenu8_b"><b>SALE</b></a></div></td>
             
                <td bgcolor="#6088AC" background="/navimages/bluebackground.gif" width="100">
             <div align="center"><a class="headerlinkwhitesm" href="/replacement-parts.asp"><b>Parts</b></a></div></td>
@@ -412,25 +437,6 @@ if (get_cookie("CurrentUser")==""){
 tabdropdown.init("bluemenu")
 </script>
     
-<table align="center" height="14" cellspacing="0" cellpadding="0" width="1000" border="0">
-	<tbody><tr>
-    	<td bgcolor="#ffffff" height="1"><img height="1" src="/headerspacer.gif" width="1"></td>
-  	</tr>
-  	<tr>
-    <td bgcolor="#E6E6E6" width="80" height="37"> 
-	<p align="center"> &nbsp;<a target="_blank" rel="nofollow" href="https://www.scanalert.com/RatingVerify?ref=www.efaucets.com"><img width="65" height="37" border="0" src="//images.scanalert.com/meter/www.efaucets.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a> 
-    </p></td>
-    <td bgcolor="#E6E6E6" width="122" height="37"> 
-	<p align="center"> 
-    <a rel="nofollow" href="javascript:myopen('https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.EFAUCETS.COM&amp;lang=en','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=550,height=450');"> 
-	<img border="0" width="110" height="33" align="baseline" src="/logos/verisignlogosmall.gif" alt="Verisign Secured" oncontextmenu="alert('Use without permission is prohibited.'); return false;"></a> 
-    </p></td>	
-		<td bgcolor="#E6E6E6" height="37" width="798">
-        <p align="center"><img height="1" src="/headerspacer.gif" width="1"><a class="linkbluesm" rel="nofollow" href="javascript:myopen('/freeShipping.asp','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=500,height=500')"><img border="0" src="/navimages/freeshippingbannerwide.gif" alt="Free Shipping on orders over $99.  Click here for details...." width="779" height="40"></a></p></td>
-	</tr>
-  	<tr>
-    	<td colspan="3" bgcolor="#729AC1" height="1"><img height="1" src="/headerspacer.gif" width="1"></td>  	</tr>
-</tbody></table>
 <table align="center" height="14" cellspacing="0" cellpadding="0" width="740" border="0">
 	<tbody><tr>
     	<td bgcolor="#ffffff" height="1"><img height="1" src="/headerspacer.gif" width="1"></td>
@@ -1313,7 +1319,7 @@ from <b>8 a.m. to 9 p.m. Mon-Fri</b> and also from <b>9 a.m. to 4 p.m. Sat &amp;
 	    </td>
 		<td width="200">
 		    <li><font class="headerblack">Learn about </font><a class="headerlinkblue" rel="nofollow" href="/aboutus.asp">eFaucets.com</a></li>
-		    <li><font class="headerblack">View our </font><a target="_blank" class="headerlinkblue" rel="nofollow" href="http://www.eimprovement.com">Corporate Info.</a></li>
+		    <li><font class="headerblack">View our </font><a target="_blank" class="headerlinkblue" rel="nofollow" href="http://corp.eimprovement.com">Corporate Info.</a></li>
 			<li><font class="headerblack">Join our </font><a class="headerlinkblue" rel="nofollow" href="/emailsignup.asp">Mailing List</a></li>
 			<li><font class="headerblack">View our </font><a class="headerlinkblue" rel="nofollow" href="/jobs.asp">Job Openings</a></li>
 		</td>
@@ -1385,7 +1391,7 @@ from <b>8 a.m. to 9 p.m. Mon-Fri</b> and also from <b>9 a.m. to 4 p.m. Sat &amp;
 			<table cellspacing="0" cellpadding="0" width="1000" border="0">
 				<tbody><tr>
 					<td class="footertext" align="center" valign="top" width="1000">© 2003-2011&nbsp;eImprovement.com.&nbsp; All Rights Reserved.&nbsp; eFaucets.com™&nbsp;
-						is a division of eImprovement.com.<br>
+						is a division of <a class="smalltext" target="blank" href="http://corp.eimprovement.com">eImprovement.com</a>.<br>
 					Usage of this site constitutes your acceptance of our <a class="smalltext" rel="nofollow" href="/legal.asp">Terms of Use</a>
 						
 						<br><br>
@@ -1415,27 +1421,27 @@ from <b>8 a.m. to 9 p.m. Mon-Fri</b> and also from <b>9 a.m. to 4 p.m. Sat &amp;
 						<!-- END: BizRate.com Gold  Medal (125x73 pixels) -->
 						
 						<!-- BEGIN: Authorize.net Medal -->
-						<!-- (c) 2005, 2010. Authorize.Net is a registered trademark of CyberSource Corporation --> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<script type="text/javascript" language="javascript">var ANS_customer_id="8b8db2da-958c-4b1e-80d5-5d443d7494dc";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script>
+						<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<script type="text/javascript" language="javascript"><!--var ANS_customer_id="8b8db2da-958c-4b1e-80d5-5d443d7494dc";</script> <script type="text/javascript" language="javascript" src="http://verify.authorize.net/anetseal/seal.js"></script>-->
 						<!-- END: Authorize.net Medal  -->
 						
-						<!-- Start BBB Online tag -->
-						<!--&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A rel="nofollow" href="javascript:myopen('http://www.efaucets.com/bbb_popup.asp','windowName','toolbar=no,location=no,left=0,top=0,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,copyhistory=no,width=550,height=575');"><img border="0" width="90" height="35" align="baseline" src="/logos/bbbsealh2.gif" alt="Click to Resolve an Issue with eFaucets.com"></a>-->
-						<!-- End BBB Online tag -->
+						<!-- BEGIN: Stella Seal -->
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<script type="text/javascript">var seal_host = (("https:" == document.location.protocol) ? "https://" : "http://");document.write(unescape("%3Ca target='_blank' href='http://www.stellaservice.com/profile/2139'%3E%3Cimg src='" + seal_host + "seal.stellaservice.com/seals/stellaservice_excellent.png?c=2139' border='0' title='efaucets.com is top rated for customer service' /%3E%3C/a%3E"));</script><a target="_blank" href="http://www.stellaservice.com/profile/2139"><img src="https://seal.stellaservice.com/seals/stellaservice_excellent.png?c=2139" border="0" title="efaucets.com is top rated for customer service"></a>
+						<!-- END: Stella Seal  -->
 						
 						<!-- BEGIN: Safe Shopping Network (82x50 pixels) -->
 						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" target="_blank" href="http://www.safeshoppingnetwork.com/detail.cfm?lstid=17940"><img src="/navimages/safeshopping.gif" alt="Safe Shopping Network" width="82" height="50" align="bottom" border="0"></a>
 						<!-- END: Safe Shopping Network (82x50 pixels) -->
 
-						<!-- START SCANALERT CODE -->
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.efaucets.com"><img width="94" height="54" border="0" src="http://images.scanalert.com/meter/www.efaucets.com/13.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE is a Trademark of ScanAlert'); return false;"></a>
-						<!-- END SCANALERT CODE -->
+						<!-- START TrustGuard CODE -->
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a name="trustlink" href="http://secure.trust-guard.com/certificates/5898" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Security Verified" style="border: 0;" src="https://secure.trust-guard.com/seals/5898/scanned/mini/white"></a>
+						<!-- END TrustGuard CODE -->
 						
 						<!-- START BUYSAFE CODE -->
 						<span id="BuySafeSealSpan"><script type="text/javascript">WriteBuySafeSeal("BuySafeSealSpan", "Small", "HASH=LaqqYeczXr4ysQtqfbgkHPBqARTlrlnQyZ%2bMKWCydItuR7CUHhqCt8823R9owyC5hcGzSUnK%2bDiPyjJ3U1jUAw%3d%3d");</script></span>
                         <!-- START BUYSAFE CODE -->
                         
                         <!-- START EIMPROVMENT CODE -->
-						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" target="_blank" href="http://www.eimprovement.com"><img width="121" height="50" border="0" src="http://www.efaucets.com/navimages/eimprovementnetwork2.gif" alt="eImprovment.com Network of Stores - Serving all of your Projects Needs" align="bottom"></a>
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a rel="nofollow" target="_blank" href="http://corp.eimprovement.com"><img width="121" height="50" border="0" src="http://www.efaucets.com/navimages/eimprovementnetwork2.gif" alt="eImprovment.com Network of Stores - Serving all of your Projects Needs" align="bottom"></a>
 						<!-- END EIMPROVEMENT CODE -->
 						</td>
 				</tr>
@@ -1445,7 +1451,7 @@ from <b>8 a.m. to 9 p.m. Mon-Fri</b> and also from <b>9 a.m. to 4 p.m. Sat &amp;
 	</tr>
 </tbody></table>
 
-<script language="javascript" src="http://faucets.efaucets.com/autosuggest/searchbox_suggest_v1.js" type="text/javascript"></script>
+
 
 <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
 </script>
@@ -1486,46 +1492,22 @@ urchinTracker();
 </script>
 <!-- END Google Analytics  -->
 
-<!-- BEGIN Invitation Positioning  -->
-<script language="javascript" type="text/javascript">
-var lpPosY = 100;
-var lpPosX = 100;
-</script>
-<!-- END Invitation Positioning  -->
-<!-- BEGIN HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
-<script language="javascript" type="text/javascript" src="https://server.iad.liveperson.net/hc/65803736/x.js?cmd=file&amp;file=chatScript3&amp;site=65803736&amp;&amp;imageUrl=https://www.efaucets.com/images/crmimages"> </script>
-<!-- END HumanTag Monitor. DO NOT MOVE! MUST BE PLACED JUST BEFORE THE /BODY TAG -->
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "65803736",'lpProtocol' : (document.location.toString().indexOf('https:')==0) ? 'https' : 'http'}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. -->
 
 
 
 
-<iframe src="http://fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=1182" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
 
 
-<!-- Start of HubSpot Logging Code  -->
-<script type="text/javascript" language="javascript">
-var hs_portalid=60979; 
-var hs_salog_version = "2.00";
-var hs_ppa = "efaucets.app6.hubspot.com"
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://efaucets.app6.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-<!-- End of HubSpot Logging Code -->
+<iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=1182" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
 
-<script>
-function addEvent(obj, evType, fn){
- if (obj.addEventListener){
-   obj.addEventListener(evType, fn, false);
-   return true;
- } else if (obj.attachEvent){
-   var r = obj.attachEvent("on"+evType, fn);
-   return r;
- } else {
-   return false;
- }
-}
-addEvent(window, 'load', sli_init);
-</script>
+
+
+
+
+
+
 <script type="text/javascript" src="//js15.ringrevenue.com/15/jquery.min.js"></script>
 
 <script type="text/javascript" src="//js15.ringrevenue.com/15/integration.js"></script>
@@ -1541,6 +1523,13 @@ addEvent(window, 'load', sli_init);
   } catch( e ){ }
 
 </script>
+
+<!-- RAC Footer -->
+<script language="javascript" type="text/javascript"> 
+var sliJsHost = (("https:" == document.location.protocol) ? "https://" : "http://");
+document.write(unescape('%3Cscript src="http://efaucets.resultspage.com/rac/sli-rac.config.js" type="text/javascript"%3E%3C/script%3E'));
+</script><script src="http://efaucets.resultspage.com/rac/sli-rac.config.js" type="text/javascript"></script>
+<!-- /RAC Footer -->
 <!-- footer_end //-->
 
 
