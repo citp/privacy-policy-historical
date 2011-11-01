@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meme4u.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414175026id_/http%3A//www.meme4u.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meme4u.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101031353id_/http%3A//www.meme4u.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Meme4u.com :: Privacy Policy
 
