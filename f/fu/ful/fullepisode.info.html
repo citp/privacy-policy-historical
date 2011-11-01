@@ -1,0 +1,595 @@
+<!--The following is the downloaded HTML source of the fullepisode.info privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101183831id_/http%3A//fullepisode.info/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>  Privacy Policy | Watch Full Tv Episode</title>
+<link rel="alternate" type="application/rss+xml" title="Watch Full Tv Episode RSS Feed" href="http://fullepisode.info/feed/">
+<link rel="alternate" type="application/atom+xml" title="Watch Full Tv Episode Atom Feed" href="http://fullepisode.info/feed/atom/">
+<link rel="pingback" href="http://fullepisode.info/xmlrpc.php">
+<!--[if IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="http://fullepisode.info/wp-content/themes/eVid/iestyle.css" />
+<![endif]-->
+<!--[if lt IE 7]>
+<link rel="stylesheet" type="text/css" media="all" href="http://fullepisode.info/wp-content/themes/eVid/ie6style.css" />
+<script defer type="text/javascript" src="http://fullepisode.info/wp-content/themes/eVid/js/pngfix.js"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="Watch Full Tv Episode » Privacy Policy Comments Feed" href="http://fullepisode.info/privacy-policy/feed/">
+		<link rel="stylesheet" href="http://fullepisode.info/wp-content/themes/eVid/style-White.css" type="text/css" media="screen">
+	<meta content="eVid v.1.9" name="generator"><link rel="stylesheet" id="wp-pagenavi-css" href="http://fullepisode.info/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="all">
+<link rel="stylesheet" id="shortcodesStyleSheets-css" href="http://fullepisode.info/wp-content/themes/eVid/epanel/shortcodes/shortcodes.css?ver=3.2.1" type="text/css" media="all">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://fullepisode.info/wp-includes/js/l10n.js?ver=20101110"></script>
+<script type="text/javascript" src="http://fullepisode.info/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://fullepisode.info/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://fullepisode.info/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://fullepisode.info/wp-includes/wlwmanifest.xml">
+<link rel="index" title="Watch Full Tv Episode" href="http://fullepisode.info/">
+<link rel="prev" title="Contact Us" href="http://fullepisode.info/contact-us/">
+<link rel="next" title="Sitemap" href="http://fullepisode.info/sitemap/">
+<meta name="generator" content="WordPress 3.2.1">
+<link rel="canonical" href="http://fullepisode.info/privacy-policy/">
+<style type="text/css">
+body { background-color: #ffffff; }
+</style>
+	<script type="text/javascript">
+	// <![CDATA[
+		<!---- et_switcher plugin v2 ---->
+		(function($)
+		{
+			$.fn.et_shortcodes_switcher = function(options)
+			{
+				var defaults =
+				{
+				   slides: '>div',
+				   activeClass: 'active',
+				   linksNav: '',
+				   findParent: true, //use parent elements to define active states
+				   lengthElement: 'li', //parent element, used only if findParent is set to true
+				   useArrows: false,
+				   arrowLeft: 'a#prev-arrow',
+				   arrowRight: 'a#next-arrow',
+				   auto: false,
+				   autoSpeed: 5000,
+				   slidePadding: '',
+				   pauseOnHover: true,
+				   fx: 'fade',
+				   sliderType: ''
+				};
+				var options = $.extend(defaults, options);
+				return this.each(function()
+				{
+					var slidesContainer = jQuery(this).parent().css('position','relative'),
+						$slides = jQuery(this).css({'overflow':'hidden','position':'relative'}),
+						$slide = $slides.find(options.slides).css({'opacity':'1','position':'absolute','top':'0px','left':'0px','display':'none'}),
+						slidesNum = $slide.length,
+						zIndex = slidesNum,
+						currentPosition = 1,
+						slideHeight = 0,
+						$activeSlide,
+						$nextSlide;
+					if (options.fx === 'slide') {
+						$slide.css({'opacity':'0','position':'absolute','top':'0px','left':'0px','display':'block'});
+					} else {
+						$slide.filter(':first').css({'display':'block'});
+					}
+					if (options.slidePadding != '') $slide.css('padding',options.slidePadding);
+					$slide.each(function(){
+						jQuery(this).css('z-index',zIndex).addClass('clearfix');
+						if (options.fx === 'slide') zIndex--;
+						slideH = jQuery(this).innerHeight();
+						if (slideH > slideHeight) slideHeight = slideH;
+					});
+					$slides.css('height', slideHeight);
+					$slides.css('width', $slides.width());
+					var slideWidth = $slide.width(),
+						slideOuterWidth = $slide.outerWidth();
+					$slide.css('width',slideWidth);
+					$slide.filter(':first').css('opacity','1');
+					if (options.sliderType != '') {
+						if (options.sliderType === 'images') {
+							controllersHtml = '<div class="controllers-wrapper"><div class="controllers"><a href="#" class="left-arrow">Previous</a>';
+							for ($i=1; $i<=slidesNum; $i++) {
+								controllersHtml += '<a class="switch" href="#">'+$i+'</a>';
+							}
+							controllersHtml += '<a href="#" class="right-arrow">Next</a></div><div class="controllers-right"></div></div>';
+							$controllersWrap = jQuery(controllersHtml).prependTo($slides.parent());
+							jQuery('.controllers-wrapper .controllers').css('width', 65 + 18*slidesNum);
+						}
+						var etimage_width = $slide.width();
+						slidesContainer.css({'width':etimage_width});
+						$slides.css({'width':etimage_width});
+						if (options.sliderType === 'images') {
+							slidesContainer.css({'height':$slide.height()});
+							$slides.css({'height':$slide.height()});
+							var controllers_width = $controllersWrap.width(),
+							leftPosition = Math.round((etimage_width - controllers_width) / 2);
+							$controllersWrap.css({left: leftPosition});
+						}
+					}
+					if (options.linksNav != '') {
+						var linkSwitcher = jQuery(options.linksNav);
+						var linkSwitcherTab = '';
+						if (options.findParent) linkSwitcherTab = linkSwitcher.parent();
+						else linkSwitcherTab = linkSwitcher;
+						if (!linkSwitcherTab.filter('.active').length) linkSwitcherTab.filter(':first').addClass('active');
+						linkSwitcher.click(function(){
+							var targetElement;
+							if (options.findParent) targetElement = jQuery(this).parent();
+							else targetElement = jQuery(this);
+							var orderNum = targetElement.prevAll(options.lengthElement).length+1;
+							if (orderNum > currentPosition) gotoSlide(orderNum, 1);
+							else gotoSlide(orderNum, -1);
+							return false;
+						});
+					}
+					if (options.useArrows) {
+						var $right_arrow = jQuery(options.arrowRight),
+							$left_arrow = jQuery(options.arrowLeft);
+						$right_arrow.click(function(){
+							if (currentPosition === slidesNum)
+								gotoSlide(1,1);
+							else
+								gotoSlide(currentPosition+1),1;
+							if (options.linksNav != '') changeTab();
+							return false;
+						});
+						$left_arrow.click(function(){
+							if (currentPosition === 1)
+								gotoSlide(slidesNum,-1);
+							else
+								gotoSlide(currentPosition-1,-1);
+							if (options.linksNav != '') changeTab();
+							return false;
+						});
+					}
+					function changeTab(){
+						if (linkSwitcherTab != '') {
+							linkSwitcherTab.siblings().removeClass('active');
+							linkSwitcherTab.filter(':eq('+(currentPosition-1)+')').addClass('active');
+						}
+					}
+					function gotoSlide(slideNumber,dir){
+						if ($slide.filter(':animated').length) return;
+						$slide.css('opacity','0');
+						$activeSlide = $slide.filter(':eq('+(currentPosition-1)+')').css('opacity','1');
+						if (currentPosition === slideNumber) return;
+						$nextSlide = $slide.filter(':eq('+(slideNumber-1)+')').css('opacity','1');
+						if ((currentPosition > slideNumber || currentPosition === 1) && (dir === -1)) {
+							if (options.fx === 'slide') slideBack(500);
+							if (options.fx === 'fade') slideFade(500);
+						} else {
+							if (options.fx === 'slide') slideForward(500);
+							if (options.fx === 'fade') slideFade(500);
+						}
+						currentPosition = $nextSlide.prevAll().length + 1;
+						if (options.linksNav != '') changeTab();
+						if (typeof interval != 'undefined' && options.auto) {
+							clearInterval(interval);
+							auto_rotate();
+						}
+						return false;
+					}
+					if (options.auto) {
+						auto_rotate();
+						var pauseSlider = false;
+					}
+					if (options.pauseOnHover) {
+						slidesContainer.hover(function(){
+							pauseSlider = true;
+						},function(){
+							pauseSlider = false;
+						});
+					}
+					function auto_rotate(){
+						interval = setInterval(function(){
+							if (!pauseSlider) {
+								if (currentPosition === slidesNum)
+									gotoSlide(1,1);
+								else
+									gotoSlide(currentPosition+1),1;
+								if (options.linksNav != '') changeTab();
+							}
+						},options.autoSpeed);
+					}
+					function slideForward(speed){
+						$nextSlide.css('left',slideOuterWidth+'px');
+						$activeSlide.animate({left: '-'+slideOuterWidth},speed);
+						$nextSlide.animate({left: 0},speed);
+					}
+					function slideBack(speed){
+						$nextSlide.css('left','-'+slideOuterWidth+'px');
+						$activeSlide.animate({left: slideOuterWidth},speed);
+						$nextSlide.animate({left: 0},speed);
+					}
+					function slideFade(speed){
+						$activeSlide.css({zIndex: slidesNum}).fadeOut(700);
+						$nextSlide.css({zIndex: (slidesNum+1)}).fadeIn(700);
+					}
+				});
+			}
+		})(jQuery);
+		<!---- end et_switcher plugin v2 ---->
+		/////// Shortcodes Javascript ///////
+		/// tooltip ///
+		$et_tooltip = jQuery('.et-tooltip');
+		$et_tooltip.live('mouseover mouseout', function(event){
+			if (event.type == 'mouseover') {
+				jQuery(this).find('.et-tooltip-box').animate({ opacity: 'show', bottom: '25px' }, 300);
+			} else {
+				jQuery(this).find('.et-tooltip-box').animate({ opacity: 'hide', bottom: '35px' }, 300);
+			}
+		});
+		/// learn more ///
+		$et_learn_more = jQuery('.et-learn-more .heading-more');
+		$et_learn_more.live('click', function() {
+			if ( jQuery(this).hasClass('open') )
+				jQuery(this).removeClass('open');
+			else
+				jQuery(this).addClass('open');
+			jQuery(this).parent('.et-learn-more').find('.learn-more-content').animate({ opacity: 'toggle', height: 'toggle' }, 300);
+		});
+	// ]]>
+	</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-23989690-9']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+</head>
+<body>
+<div class="lights"></div>
+<!--This controls pages navigation bar-->
+<div id="header">
+    <div id="pages">
+		<a href="http://fullepisode.info">			<img src="http://fullepisode.info/wp-content/uploads/2011/08/logo8.jpg" alt="logo" class="logo"></a>
+					<ul class="nav superfish">
+									<li class="page_item"><a href="http://fullepisode.info" class="title" title="home again woohoo">Home</a></li>
+				<li class="page_item page-item-2"><a href="http://fullepisode.info/contact-us/" title="Contact Us">Contact Us</a></li>
+<li class="page_item page-item-10 current_page_item"><a href="http://fullepisode.info/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+<li class="page_item page-item-15"><a href="http://fullepisode.info/sitemap/" title="Sitemap">Sitemap</a></li>
+			</ul> <!-- end ul.nav -->
+        <div class="search_bg">
+            <div id="search">
+                <form method="get" action="http://fullepisode.info" style="padding:0px 0px 0px 0px; margin:0px 0px 0px 0px">
+                    <input type="text" name="s" value="">
+                    <input type="image" class="input" src="http://fullepisode.info/wp-content/themes/eVid/images/search-White.gif" value="submit">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!--End pages navigation--><div id="wrapper2">
+<div id="container">
+    <div id="left-div">
+        <div id="left-inside">
+            <!--Begin Post-->
+            <div class="post-wrapper">
+                <h1 class="post-title">Privacy Policy</h1>
+				                <p><strong>Your Privacy</strong>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.<strong>Google Adsense and the DoubleClick DART Cookie</strong>Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, allGadgetReview.com has no access or control over these cookies that may be used by third party advertisers.<strong>Collection of Personal Information</strong>When visiting allGadgetReview.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.<strong>Links to third party Websites</strong>We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.<strong>Changes to this Privacy Statement </strong>The contents of this statement may be altered at any time, at our discretion.If you have any questions regarding the privacy policy of Fullepisode.info then you may contact us <a title="Contact us" href="http://fullepisode.info/contact-us">here</a>.</p>
+				<div style="clear: both;"></div>
+                				<div style="clear: both;"></div>
+                            </div>
+                    </div>
+    </div>
+    <!--Begin Sidebar-->
+    <div id="sidebar">
+    <div class="sidebar-box"><h2>Categories</h2><select name="cat" id="cat" class="postform">
+	<option value="-1">Select Category</option>
+	<option class="level-0" value="270">2 Broke Girls Season 1</option>
+	<option class="level-0" value="258">20/20 US</option>
+	<option class="level-0" value="256">48 Hours Mystery</option>
+	<option class="level-0" value="547">60 Minutes (US)</option>
+	<option class="level-0" value="389">90210 Season 4</option>
+	<option class="level-0" value="106">A Gifted Man Season 1</option>
+	<option class="level-0" value="28">A.N.T Farm Season 1</option>
+	<option class="level-0" value="251">All Season 2</option>
+	<option class="level-0" value="539">Allen Gregory Season 1</option>
+	<option class="level-0" value="206">Alphas Season 1</option>
+	<option class="level-0" value="474">American Guns Season 1</option>
+	<option class="level-0" value="305">An Idiot Abroad Season 2</option>
+	<option class="level-0" value="241">Ancient Aliens Season 3</option>
+	<option class="level-0" value="254">Angels Among Us Season 1</option>
+	<option class="level-0" value="239">Archer (2009) Season 3</option>
+	<option class="level-0" value="279">Attack of the Show</option>
+	<option class="level-0" value="477">Auction Hunters Season 3</option>
+	<option class="level-0" value="281">Auction Kings Season 2</option>
+	<option class="level-0" value="94">Awkward Season 1</option>
+	<option class="level-0" value="22">Bachelor Pad Season 2</option>
+	<option class="level-0" value="403">Bad Dog! (US) Season 1</option>
+	<option class="level-0" value="18">Bait Car Season 4</option>
+	<option class="level-0" value="16">Bar Rescue Season 1</option>
+	<option class="level-0" value="52">Beaver Falls Season 1</option>
+	<option class="level-0" value="321">Being Erica Season 4</option>
+	<option class="level-0" value="82">Big Rich Texas Season 1</option>
+	<option class="level-0" value="188">Big Sexy Season 1</option>
+	<option class="level-0" value="34">Blade (2011) Season 1</option>
+	<option class="level-0" value="341">Blue Bloods Season 2</option>
+	<option class="level-0" value="393">Body of Proof Season 2</option>
+	<option class="level-0" value="184">Border Wars Season 3</option>
+	<option class="level-0" value="461">Boss Season 1</option>
+	<option class="level-0" value="425">Brain Games Season 1</option>
+	<option class="level-0" value="12">Breaking Bad Season 4</option>
+	<option class="level-0" value="190">Bridezillas Season 8</option>
+	<option class="level-0" value="112">Buried Treasure Season 1</option>
+	<option class="level-0" value="535">Cake Boss Season 4</option>
+	<option class="level-0" value="323">Call Me Fitz Season 2</option>
+	<option class="level-0" value="102">Carfellas Season 1</option>
+	<option class="level-0" value="266">Castle (2009) Season 4</option>
+	<option class="level-0" value="235">Celebrity Juice Season 6</option>
+	<option class="level-0" value="124">Chelsea Lately</option>
+	<option class="level-0" value="369">China, IL Season 1</option>
+	<option class="level-0" value="229">Chopped Season 9</option>
+	<option class="level-0" value="537">Chuck Season 5</option>
+	<option class="level-0" value="204">CMT Made Season 1</option>
+	<option class="level-0" value="96">Combat Hospital Season 1</option>
+	<option class="level-0" value="62">Comedy Showcase Season 3</option>
+	<option class="level-0" value="293">Community Season 3</option>
+	<option class="level-0" value="100">Conan (2010)</option>
+	<option class="level-0" value="176">Cops Season 24</option>
+	<option class="level-0" value="212">Crave Season 1</option>
+	<option class="level-0" value="489">Criminal Minds Season 7</option>
+	<option class="level-0" value="3">Crownies Season 1</option>
+	<option class="level-0" value="312">CSI: Miami Season 10</option>
+	<option class="level-0" value="457">CSI: NY Season 8</option>
+	<option class="level-0" value="138">Cuff’d Season 1</option>
+	<option class="level-0" value="319">Curiosity Season 1</option>
+	<option class="level-0" value="227">Damages Season 4</option>
+	<option class="level-0" value="132">Dance Moms Season 1</option>
+	<option class="level-0" value="225">Dark Matters Season 1</option>
+	<option class="level-0" value="272">Death Valley Season 1</option>
+	<option class="level-0" value="104">Design Star Season 6</option>
+	<option class="level-0" value="465">Dexter Season 6</option>
+	<option class="level-0" value="327">Diners, Drive Season 12</option>
+	<option class="level-0" value="383">Dirty Soap Season 1</option>
+	<option class="level-0" value="202">Dispatches</option>
+	<option class="level-0" value="351">Dispatches Season 25</option>
+	<option class="level-0" value="200">Doc Martin Season 5</option>
+	<option class="level-0" value="287">Downsized Season 2</option>
+	<option class="level-0" value="359">Downton Abbey Season 2</option>
+	<option class="level-0" value="78">Drop Dead Diva Season 3</option>
+	<option class="level-0" value="529">Eat St. Season 2</option>
+	<option class="level-0" value="367">Educating Essex Season 1</option>
+	<option class="level-0" value="413">Enlightened Season 1</option>
+	<option class="level-0" value="10">Entourage Season 8</option>
+	<option class="level-0" value="544">Family Guy Season 10</option>
+	<option class="level-0" value="72">Famous Food Season 1</option>
+	<option class="level-0" value="325">Flashpoint Season 4</option>
+	<option class="level-0" value="531">Flip Men Season 1</option>
+	<option class="level-0" value="50">Flipping Out Season 5</option>
+	<option class="level-0" value="170">Foodography Season 3</option>
+	<option class="level-0" value="431">Fresh Meat Season 1</option>
+	<option class="level-0" value="264">Fringe Season 4</option>
+	<option class="level-0" value="192">Frontier Force Season 1</option>
+	<option class="level-0" value="134">Frontline (US)</option>
+	<option class="level-0" value="140">Futurama Season 6</option>
+	<option class="level-0" value="514">Generator Rex Season 2</option>
+	<option class="level-0" value="90">George Gently Season 4</option>
+	<option class="level-0" value="198">Get Out</option>
+	<option class="level-0" value="54">Ghost Hunters Season 7</option>
+	<option class="level-0" value="391">Glee Season 3</option>
+	<option class="level-0" value="372">Good Dog Season 1</option>
+	<option class="level-0" value="88">Good News World Season 1</option>
+	<option class="level-0" value="315">Gossip Girl Season 5</option>
+	<option class="level-0" value="491">Grand Designs Season 11</option>
+	<option class="level-0" value="335">Great Rooms Season 1</option>
+	<option class="level-0" value="417">Grimm Season 1</option>
+	<option class="level-0" value="222">H8R Season 1</option>
+	<option class="level-0" value="527">Halloween Wars Season 1</option>
+	<option class="level-0" value="487">Happy Endings Season 2</option>
+	<option class="level-0" value="214">Hardcore Pawn Season 4</option>
+	<option class="level-0" value="291">Harry’s Law Season 2</option>
+	<option class="level-0" value="411">Hart of Dixie Season 1</option>
+	<option class="level-0" value="164">Haven Season 2</option>
+	<option class="level-0" value="553">Hawaii Five</option>
+	<option class="level-0" value="397">Heartland (CA) Season 5</option>
+	<option class="level-0" value="30">Heat Seekers Season 1</option>
+	<option class="level-0" value="178">HGTV’d Season 1</option>
+	<option class="level-0" value="449">Hidden Season 1</option>
+	<option class="level-0" value="555">Hoarders Season 4</option>
+	<option class="level-0" value="98">Holiday Hijack Season 1</option>
+	<option class="level-0" value="363">Homeland Season 1</option>
+	<option class="level-0" value="262">House Season 8</option>
+	<option class="level-0" value="407">Hung Season 3</option>
+	<option class="level-0" value="415">InSecurity Season 2</option>
+	<option class="level-0" value="156">Interiors Inc. Season 1</option>
+	<option class="level-0" value="32">Iron Man (2011) Season 1</option>
+	<option class="level-0" value="247">Jersey Shore Season 4</option>
+	<option class="level-0" value="8">Jerseylicious Season 3</option>
+	<option class="level-0" value="349">Jessie (2011) Season 1</option>
+	<option class="level-0" value="44">JUNKies Season 1</option>
+	<option class="level-0" value="160">Jurassic CSI Season 1</option>
+	<option class="level-0" value="68">Kate Plus 8 Season 2</option>
+	<option class="level-0" value="387">Kendra Season 4</option>
+	<option class="level-0" value="260">Lockup Season 13</option>
+	<option class="level-0" value="84">Lost Girl Season 2</option>
+	<option class="level-0" value="469">Love That Girl! Season 3</option>
+	<option class="level-0" value="512">Mad Fashion Season 1</option>
+	<option class="level-0" value="365">Made in Chelsea Season 2</option>
+	<option class="level-0" value="523">Man Up! Season 1</option>
+	<option class="level-0" value="500">Merlin (2008) Season 4</option>
+	<option class="level-0" value="541">Misfits Season 3</option>
+	<option class="level-0" value="447">Mixed Britannia Season 1</option>
+	<option class="level-0" value="283">Modern Family Season 3</option>
+	<option class="level-0" value="518">Monster In Season 1</option>
+	<option class="level-0" value="442">Mount Pleasant Season 1</option>
+	<option class="level-0" value="463">My Ghost Story Season 2</option>
+	<option class="level-0" value="126">My Ride Rules Season 1</option>
+	<option class="level-0" value="485">MythBusters Season 9</option>
+	<option class="level-0" value="174">National Geographic</option>
+	<option class="level-0" value="220">Natural World Season 31</option>
+	<option class="level-0" value="317">NCIS Season 9</option>
+	<option class="level-0" value="86">New Girl Season 1</option>
+	<option class="level-0" value="38">New Tricks Season 8</option>
+	<option class="level-0" value="299">Nikita Season 2</option>
+	<option class="level-0" value="154">NOVA Season 39</option>
+	<option class="level-0" value="56">NTSF:SD:SUV:: Season 1</option>
+	<option class="level-0" value="64">One Man Army Season 1</option>
+	<option class="level-0" value="118">Operation Repo Season 8</option>
+	<option class="level-0" value="355">Operation Repo Season 9</option>
+	<option class="level-0" value="551">Oprah</option>
+	<option class="level-0" value="520">Origins of Us Season 1</option>
+	<option class="level-0" value="60">Outnumbered Season 4</option>
+	<option class="level-0" value="503">Pan Am Season 1</option>
+	<option class="level-0" value="381">Panorama Season 59</option>
+	<option class="level-0" value="108">Parenthood Season 3</option>
+	<option class="level-0" value="194">Pawn Stars Season 3</option>
+	<option class="level-0" value="42">Pit Boss Season 3</option>
+	<option class="level-0" value="444">Planet Dinosaur Season 1</option>
+	<option class="level-0" value="218">Poh’s Kitchen Season 2</option>
+	<option class="level-0" value="310">PrankStars Season 1</option>
+	<option class="level-0" value="6">Primetime Nightline</option>
+	<option class="level-0" value="357">Prison Diaries Season 1</option>
+	<option class="level-0" value="148">Project Runway Season 9</option>
+	<option class="level-0" value="158">Pushy And Proud Season 1</option>
+	<option class="level-0" value="152">QI Season 9</option>
+	<option class="level-0" value="436">Rab C. Nesbitt Season 10</option>
+	<option class="level-0" value="277">Raising Hope Season 2</option>
+	<option class="level-0" value="47">Rescue Me Season 7</option>
+	<option class="level-0" value="301">Ridiculousness Season 1</option>
+	<option class="level-0" value="421">Ringer Season 1</option>
+	<option class="level-0" value="510">Robot Chicken Season 5</option>
+	<option class="level-0" value="379">Rove LA Season 1</option>
+	<option class="level-0" value="377">Rude Tube Season 4</option>
+	<option class="level-0" value="128">Rush (2008) Season 4</option>
+	<option class="level-0" value="150">Russian Dolls Season 1</option>
+	<option class="level-0" value="405">Sanctuary (US) Season 4</option>
+	<option class="level-0" value="136">Sand Masters Season 1</option>
+	<option class="level-0" value="40">Sandwich King Season 1</option>
+	<option class="level-0" value="472">Scare Tactics Season 4</option>
+	<option class="level-0" value="289">Seven Dwarves Season 1</option>
+	<option class="level-0" value="243">Shameless Season 8</option>
+	<option class="level-0" value="249">Show And Tell Season 1</option>
+	<option class="level-0" value="435">Signed By Katie Season 1</option>
+	<option class="level-0" value="508">Sister Wives Season 2</option>
+	<option class="level-0" value="493">SLiDE Season 1</option>
+	<option class="level-0" value="26">So Random! Season 1</option>
+	<option class="level-0" value="433">Soho Blues Season 2</option>
+	<option class="level-0" value="92">Sons of Anarchy Season 4</option>
+	<option class="level-0" value="114">Sons of Guns Season 2</option>
+	<option class="level-0" value="483">South Park Season 15</option>
+	<option class="level-0" value="233">Spirited Season 2</option>
+	<option class="level-0" value="409">Spooks Season 10</option>
+	<option class="level-0" value="453">Spy (2011) Season 1</option>
+	<option class="level-0" value="186">Squidbillies Season 6</option>
+	<option class="level-0" value="331">Storage Wars</option>
+	<option class="level-0" value="120">Storage Wars Season 2</option>
+	<option class="level-0" value="116">Storm Chasers Season 5</option>
+	<option class="level-0" value="166">Strike Back Season 2</option>
+	<option class="level-0" value="36">Style Exposed Season 1</option>
+	<option class="level-0" value="440">Suburgatory Season 1</option>
+	<option class="level-0" value="70">Sugar High Season 1</option>
+	<option class="level-0" value="459">Supernatural Season 7</option>
+	<option class="level-0" value="438">Survivor Season 23</option>
+	<option class="level-0" value="146">Swamp Brothers Season 1</option>
+	<option class="level-0" value="333">Sweet Genius Season 1</option>
+	<option class="level-0" value="467">Talking Dead Season 1</option>
+	<option class="level-0" value="172">Tanked Season 1</option>
+	<option class="level-0" value="182">Teen Mom Season 3</option>
+	<option class="level-0" value="374">Terra Nova Season 1</option>
+	<option class="level-0" value="168">Texas Women Season 1</option>
+	<option class="level-0" value="401">The A Season 2</option>
+	<option class="level-0" value="475">The Body Farm Season 1</option>
+	<option class="level-0" value="122">The Colbert Report</option>
+	<option class="level-0" value="130">The Daily Show</option>
+	<option class="level-0" value="345">The Dead Files Season 1</option>
+	<option class="level-0" value="419">The Ellen DeGeneres Show</option>
+	<option class="level-0" value="329">The Fades Season 1</option>
+	<option class="level-0" value="58">The First 48 Season 11</option>
+	<option class="level-0" value="14">The Glades Season 2</option>
+	<option class="level-0" value="76">The Good Wife Season 3</option>
+	<option class="level-0" value="495">The League Season 3</option>
+	<option class="level-0" value="208">The Lying Game Season 1</option>
+	<option class="level-0" value="295">The Mentalist Season 4</option>
+	<option class="level-0" value="479">The Middle Season 3</option>
+	<option class="level-0" value="338">The Office (US) Season 8</option>
+	<option class="level-0" value="274">The Protector Season 1</option>
+	<option class="level-0" value="343">The Real World Season 26</option>
+	<option class="level-0" value="451">The Rosie Show</option>
+	<option class="level-0" value="361">The Simpsons Season 23</option>
+	<option class="level-0" value="385">The Sing Off Season 3</option>
+	<option class="level-0" value="533">The Slap Season 1</option>
+	<option class="level-0" value="307">The Soup</option>
+	<option class="level-0" value="24">The T. O. Show Season 3</option>
+	<option class="level-0" value="74">The Xtra Factor Season 8</option>
+	<option class="level-0" value="276">This Is Jinsy Season 1</option>
+	<option class="level-0" value="455">Threesome Season 1</option>
+	<option class="level-0" value="210">Tia And Tamera Season 1</option>
+	<option class="level-0" value="144">Ton of Cash Season 1</option>
+	<option class="level-0" value="20">Top Gear (US) Season 2</option>
+	<option class="level-0" value="395">Top Shot Season 3</option>
+	<option class="level-0" value="162">Torchwood Season 4</option>
+	<option class="level-0" value="423">Tosh.0 Season 3</option>
+	<option class="level-0" value="399">Tough Love Season 3</option>
+	<option class="level-0" value="347">Trawler Wars Season 1</option>
+	<option class="level-0" value="429">Trick My What? Season 1</option>
+	<option class="level-0" value="237">Trollied Season 1</option>
+	<option class="level-0" value="80">True Blood Season 4</option>
+	<option class="level-0" value="285">twentysomething Season 1</option>
+	<option class="level-0" value="1">Uncategorized</option>
+	<option class="level-0" value="525">Unforgettable Season 1</option>
+	<option class="level-0" value="549">Unreported World</option>
+	<option class="level-0" value="481">Up All Night Season 1</option>
+	<option class="level-0" value="110">Village SOS Season 1</option>
+	<option class="level-0" value="196">Warehouse 13 Season 3</option>
+	<option class="level-0" value="353">Warship Season 2</option>
+	<option class="level-0" value="216">Web Therapy Season 1</option>
+	<option class="level-0" value="268">Weeds Season 7</option>
+	<option class="level-0" value="231">Whitney Season 1</option>
+	<option class="level-0" value="470">Why Am I Still Single</option>
+	<option class="level-0" value="506">Wicked Fit Season 1</option>
+	<option class="level-0" value="516">Wide Open Road Season 1</option>
+	<option class="level-0" value="180">Wild Boys Season 1</option>
+	<option class="level-0" value="142">Wilfred (US) Season 1</option>
+	<option class="level-0" value="245">Wipeout (US) Season 4</option>
+	<option class="level-0" value="66">Wolverine (US) Season 1</option>
+	<option class="level-0" value="427">Workaholics Season 2</option>
+	<option class="level-0" value="498">X Season 2011</option>
+	<option class="level-0" value="303">Young Justice Season 1</option>
+	<option class="level-0" value="297">Young Soldiers Season 1</option>
+</select>
+<script type="text/javascript">
+/* <![CDATA[ */
+	var dropdown = document.getElementById("cat");
+	function onCatChange() {
+		if ( dropdown.options[dropdown.selectedIndex].value > 0 ) {
+			location.href = "http://fullepisode.info/?cat="+dropdown.options[dropdown.selectedIndex].value;
+		}
+	}
+	dropdown.onchange = onCatChange;
+/* ]]> */
+</script>
+<div class="sidebar-box-bottom"></div></div>		<div class="sidebar-box">		<h2>Letest Full TV Episode</h2>		<ul>
+				<li><a href="http://fullepisode.info/the-sing-off-season-3-episode-7/" title="The Sing Off Season 3 Episode 7">The Sing Off Season 3 Episode 7</a></li>
+				<li><a href="http://fullepisode.info/being-erica-season-4-episode-6-if-i-could-turn-back-time/" title="Being Erica Season 4 Episode 6 If I Could Turn Back Time">Being Erica Season 4 Episode 6 If I Could Turn Back Time</a></li>
+				<li><a href="http://fullepisode.info/insecurity-season-2-episode-5-anger-management/" title="InSecurity Season 2 Episode 5 Anger Management">InSecurity Season 2 Episode 5 Anger Management</a></li>
+				<li><a href="http://fullepisode.info/hoarders-season-4-episode-12-john-vivian/" title="Hoarders Season 4 Episode 12 John / Vivian">Hoarders Season 4 Episode 12 John / Vivian</a></li>
+				<li><a href="http://fullepisode.info/the-real-housewives-of-atlanta-season-4-before-they-were-stars/" title="The Real Housewives Of Atlanta Season 4 Before They Were Stars">The Real Housewives Of Atlanta Season 4 Before They Were Stars</a></li>
+				<li><a href="http://fullepisode.info/tough-love-season-3-episode-6-dealbreakers/" title="Tough Love Season 3 Episode 6 Dealbreakers">Tough Love Season 3 Episode 6 Dealbreakers</a></li>
+				<li><a href="http://fullepisode.info/the-daily-show-mindy-kaling-2011-10-31/" title="The Daily Show Mindy Kaling (2011.10.31)">The Daily Show Mindy Kaling (2011.10.31)</a></li>
+				<li><a href="http://fullepisode.info/dancing-with-the-stars-us-season-13-episode-13/" title="Dancing With the Stars (US) Season 13 Episode 13">Dancing With the Stars (US) Season 13 Episode 13</a></li>
+				<li><a href="http://fullepisode.info/the-colbert-report-neil-macgregor-2011-10-31/" title="The Colbert Report Neil MacGregor (2011.10.31)">The Colbert Report Neil MacGregor (2011.10.31)</a></li>
+				<li><a href="http://fullepisode.info/american-chopper-senior-vs-junior-season-2-episode-17/" title="American Chopper: Senior vs. Junior Season 2 Episode 17">American Chopper: Senior vs. Junior Season 2 Episode 17</a></li>
+				</ul>
+		<div class="sidebar-box-bottom"></div></div><div class="sidebar-box">			<div class="textwidget">We affirm Please understand FullEpisode.info doesn’t produce Any video and host it on our server. FullEpisode.info only provide link of  video streaming online, and give you information about it.</div>
+		<div class="sidebar-box-bottom"></div></div></div>
+    <!--End Sidebar-->
+    <!--Begin Footer-->
+    <div style="clear: both;"></div>
+</div>
+<div id="footer">  <a href="">Copyright © 2011 TvSerialOnline.info All Rights Reserved    </a><a href="/" title="Premium Wordpress Themes"></a> </div>
+<script type="text/javascript" src="http://fullepisode.info/wp-content/themes/eVid/js/slider.js"></script>
+<script type="text/javascript" src="http://fullepisode.info/wp-content/themes/eVid/js/superfish.js"></script>
+<script type="text/javascript">
+	jQuery(function(){
+		jQuery('ul.superfish').superfish();
+			});
+</script>
+<div style="display:none"><a href="http://www.nthemes.net">Premium Wordpress Themes</a></div>    <!--End Footer-->
+</div>
+
+</body></html>
