@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301033721id_/http%3A//www.careerjunction.co.za/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerjunction.co.za privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134418id_/http%3A//www.careerjunction.co.za/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerJunction | Better jobs. More often.
 
@@ -113,11 +113,11 @@ CareerSeekers who have been placed in a job through the CareerJunction Network a
 
 A cookie is a piece of data stored on the user's hard drive containing information about the user. For instance, by setting a cookie on our site, the user would not have to log in a password more than once. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once the user closes their browser, the cookie terminates.
 
-We use a third-party tracking service Nielsen//Netratings that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate for usage and volume statistics to report on site traffic statistics. The Nielsen//NetRatings Measurement Technology is used only for the collection of anonymous web site traffic statistics.
+We use a third-party tracking service Effective Measure that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate for usage and volume statistics to report on site traffic statistics. The Effective Measure Measurement Technology is used only for the collection of anonymous web site traffic statistics.
 
 Some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies.
 
-This privacy statement covers the use of cookies by this site and Nielsen//Netratings only and does not cover the use of cookies by any advertisers.
+This privacy statement covers the use of cookies by this site and Effective Measure only and does not cover the use of cookies by any advertisers.
 
 #### 7\. Log Files
 
