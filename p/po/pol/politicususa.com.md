@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630083232id_/http%3A//www.politicususa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130616id_/http%3A//www.politicususa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,5 +40,7 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 [](http://twitter.com/politicususa)
+
+[](http://www.printfriendly.com/print/v2?url=http://www.politicususa.com/privacy-policy)
 
 **Tags:** [politicususagmail-com](http://www.politicususa.com/en/tag/politicususagmail-com)
