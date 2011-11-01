@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2010-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100417165805id_/http%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extraspace.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130349id_/http%3A//www.extraspace.com/Help/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement and Legal Disclaimer for Extra Space Storage
 
@@ -12,10 +12,15 @@ Our approach to responsible information handling is founded on the basis of the 
 
 You may browse our web site without providing personal information to us. However, if you want to receive or our online products and services, or participate in other online activities (e.g., surveys and contests), we may request that you provide us with information about yourself. Providing this information is optional and not a requirement to visit our site. When you provide personally identifiable information to us that may be used for secondary purposes, (i.e. uses not related to the purpose for which the information was collected), we give you the opportunity to opt-out of such uses. 
 
-**Information Updates**
+**Electronic Information**
 
 We have a variety of mechanisms for you to modify and update the contact information that you have provided to us and are in the process of developing more mechanisms to update your personal data. When you visit our web site, we let you know in our privacy statements how you may currently modify the contact information that you have provided. 
 
 **Protect Personal Information**
 
 We recognize industry standards and employ security safeguards to protect personally identifiable information from unauthorized access and misuse. Furthermore, we take measures to ensure that the information used to process your request is accurate and current. 
+
+  
+
+
+© 2006-2011 Extra Space Storage Inc.
