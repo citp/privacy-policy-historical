@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebritymeet.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212124540id_/http%3A//www.celebritymeet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritymeet.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101195825id_/http%3A//www.celebritymeet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,6 @@ Privacy Policy
 
 |  Privacy Policy   
 ---  
-Written by Administrator      
 Thursday, 17 June 2010 10:56   
   
 **Privacy Policy** ****
