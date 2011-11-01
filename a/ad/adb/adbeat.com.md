@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the adbeat.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106011936id_/http%3A//www.adbeat.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbeat.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101203525id_/http%3A//www.adbeat.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Privacy policy | PPC Labs
+# Privacy Policy | Adbeat
 
-### Last Update: January 15, 2009
+### Last Update: January 15, 2011
 
 ### 1\. Introduction.
 
-PPCLABS.COM is ("We/Us") is committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. 
+ADBEAT.COM is ("We/Us") is committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. 
 
 It is our policy, except as noted below, not to sale, trade, lease, give away or otherwise release your personal information, which includes your name, physical address (business or home), home or business telephone number and your e-mail address. 
 
@@ -54,13 +54,13 @@ You can access our Website home page without disclosing your personal data. Some
 
 We do not collect information about our visitors from third party sources, such as public records or entities, or private organizations. 
 
-We will gather site visitorâ€™s and memberâ€™s IP (Internet Protocol) addresses and aggregate the same so that we can provide demographic information for potential partners, investors or advertisers or for other purposes designed to promote or benefit our web site or business in general. Such information is not personally identifiable in nature. 
+We will gather site visitor’s and member’s IP (Internet Protocol) addresses and aggregate the same so that we can provide demographic information for potential partners, investors or advertisers or for other purposes designed to promote or benefit our web site or business in general. Such information is not personally identifiable in nature. 
 
 We do not knowingly collect personal data or information from minors. 
 
 We have implemented security policies, rules and technical measure to protect the personal data that we have under our control. These policies, rules and technical measures help to protect your data from unauthorized access, improper use or disclosure, unauthorized modification, and unlawful destruction or accidental loss. However, note that no policy, rule or technical measure can offer 100% protection against unauthorized access, improper use or disclosure, unauthorized modification, unlawful destruction or accidental loss. 
 
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitorâ€™s and userâ€™s personal data. Our database may contain confidential information regarding you or your personal communications to third parties. While we endeavor to maintain reasonable, industry standard security regarding such information/content, no security system can be 100% fool proof. In the event that the security to such information/content is breached for reasons outside of our control, you agree to HOLD US HARMLESS and to INDEMNIFY us against any loss, damages, injuries, costs, fees and claims of any and all nature regarding such security breaches. 
+All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitor’s and user’s personal data. Our database may contain confidential information regarding you or your personal communications to third parties. While we endeavor to maintain reasonable, industry standard security regarding such information/content, no security system can be 100% fool proof. In the event that the security to such information/content is breached for reasons outside of our control, you agree to HOLD US HARMLESS and to INDEMNIFY us against any loss, damages, injuries, costs, fees and claims of any and all nature regarding such security breaches. 
 
 Our Terms of Service are hereby incorporated by reference into this Privacy Policy as if fully set forth herein. Please read the same. 
 
