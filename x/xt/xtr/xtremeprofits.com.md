@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208194646id_/http%3A//www.xtremeprofits.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremeprofits.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155100id_/http%3A//www.xtremeprofits.com/privacy.htm) for the most accurate reproduction.*
 
-# Niche Marketing Training & Resources | Niche Marketing Membership
+# Xtreme Profits Privacy Statment
 
 This notice is being provided to you by **_III Websites, LLC_** , Matt Levenhagen and all Partner Sites. We are committed to maintaining the confidentiality and security of personal information gathered from potential, current and former customers. The proper handling of personal information continues to be one of our highest priorities. As a valued customer who provides us with nonpublic personal information, we want you to know why we need this information and we want to explain our commitment to protecting the information you provide.
 
