@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneybeagle.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104035519id_/http%3A//www.moneybeagle.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneybeagle.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115526id_/http%3A//www.moneybeagle.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Money Beagle: Privacy Policy
 
