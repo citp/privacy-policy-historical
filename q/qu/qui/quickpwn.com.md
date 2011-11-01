@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the quickpwn.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428084031id_/http%3A//www.quickpwn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickpwn.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125422id_/http%3A//www.quickpwn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](http://goo.gl/9y9HC)
+[](http://iuserbarnew.ourtoolbar.com/EXE)
 
 **What information do we collect?**
 
