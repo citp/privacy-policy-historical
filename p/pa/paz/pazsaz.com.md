@@ -1,10 +1,30 @@
-> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2008-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080608083350id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pazsaz.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155935id_/http%3A//www.pazsaz.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pazsaz Entertainment Network
 
-We take your privacy very seriously here at the Pazsaz Entertainent Network. When we ask you questions about who you are we are trying to create a overall statistical view of our userbase to allow us to provide advertisers with the information they require to place advertising on our site. That advertising pays for the site which allows us to keep the site FREE while continually improving it by adding facilities and services. We hope that you will provide us with the fullest details in our survey pages so that we can build up the best possible view of our users. Please answer as many questions as you feel happy with. 
+UPDATES
 
-The data you do provide will therefore be used under the strictest control; we will NOT give individual answers to questions from third parties or provide people with your email address without your permission. We loathe the use of "SPAM" email and will not sell or provide your email address for such purposes. This website contains links to other websites and is not responsible for the privacy practices or the content of such websites. 
+CHANGE DETECTION
+
+|  Enter your email address to be notified automatically when this page is updated  
+---  
+  
+| 
+
+[](http://www.addthis.com/bookmark.php?v=20)  
+  
+---  
+   
+Privacy Policy|       
+  
+We take your privacy very seriously here at the Pazsaz Entertainent Network. This site does not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information: 
+
+  * _Log Information:_ When you access the Pazsaz Entertainment Network, our servers automatically record information that your browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+  * _User Communications:_ When you send email or other communications to the Pazsaz Entertainment Network, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. The data you do provide us will be used under the strictest control; we will NOT provide people with your email address without your permission. We loathe use of "SPAM" email and will not sell or provide your email address for such purposes. 
+  * _Links:_ The Pazsaz Entertainment Network may present links in a format that enables us to keep track of whether these links have been followed. No other information, other than the the quantity of times a link has been followed, is collected. This website is not responsible for the privacy practices or the content of the websites found at the link urls. 
+  * _Advertising:_ We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+
 
 On the Internet, all information collected is defined as being either anonymous or personally identifiable: 
 
@@ -22,6 +42,21 @@ How the information we do collect is used:
 
 
 
-Other companies which place advertising or sell products on our site may collect information about you when you view or click on their advertising or content through the use of cookies. Cookies are small pieces of electronic information which a Web site can store on a visitor's hard drive for record-keeping purposes. Cookies allow Web site operators to "personalize" the site to match your individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. You can choose to set your browser to notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept a cookie. Due to the way the Internet technically operates, we cannot control this collection of information. You should contact these advertisers or merchandisers directly if you have any questions about their use of the information they collect. 
+Other companies which place advertising or sell products on our site may collect information about you when you view or click on their advertising or content through the use of cookies. Cookies are small pieces of electronic information which a Web site can store on a visitor's hard drive for record-keeping purposes. Cookies allow Web site operators to "personalize" the site to match your individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. You can choose to set your browser to notify you whenever you are sent a cookie. This gives you the option to decide whether or not to accept a cookie. Due to the way the Internet technically operates, we cannot control this collection of information. 
 
 This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy. 
+
+Please note that this Privacy Policy may change from time to time. We will post any Privacy Policy changes on this page and, if the changes are significant, we will provide a more prominent notice. Each version of this Privacy Policy will be identified at the top of the page by its effective date. 
+
+If you have any questions about this Privacy Policy, please feel free to contact us through our [website](http://www.pazsaz.com/feedback.html) or write to us at: 
+
+Pazsaz Entertainment Network Privacy Matters   
+PO Box 209   
+Santa Monica, CA 90406   
+  
+   
+Site Sponsors | Check this out!      
+  
+<
+
+[](http://affiliates.allposters.com/link/redirect.asp?c=c&search=101&AID=261824&PSTID=1&LTID=10&LID=1363&lang=1)
