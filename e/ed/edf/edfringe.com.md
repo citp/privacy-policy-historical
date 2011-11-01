@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903194925id_/http%3A//www.edfringe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edfringe.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101112920id_/http%3A//www.edfringe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Edinburgh Festival Fringe 2010
+# Privacy Policy | Edinburgh Festival Fringe
 
 The Edinburgh Festival Fringe website is maintained by the Edinburgh Festival Fringe, 180 High Street, Edinburgh, EH1 1QS. You can email us at admin@edfringe.com.
 
