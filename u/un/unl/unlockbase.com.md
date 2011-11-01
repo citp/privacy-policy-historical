@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlockbase.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127205248id_/http%3A//www.unlockbase.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlockbase.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122915id_/http%3A//www.unlockbase.com/Privacy.html) for the most accurate reproduction.*
 
 # UnlockBase Privacy Policy
 
@@ -80,10 +80,10 @@ This policy was last modified on **22 June 2009**
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-Milton WorldWide Media LLC  
-220 E Delaware Avenue  
-Newark, DE 19711  
-United States
+UnlockBase LTD  
+RM 1318-20 Hollywood Plaza  
+610 Nathan Road - Mongkok - KL  
+Hong Kong
 
 e-mail: [info@unlockbase.com](mailto:info@unlockbase.com)  
 WEB : [www.unlockbase.com](http://www.unlockbase.com/)
@@ -102,4 +102,4 @@ If at anytime you have a cause that needs to be disputed please fill out the [Tr
 
 Respectfully,   
 John Milton - UnlockBase.com  
-Milton WorldWide Media LLC
+UnlockBase LTD
