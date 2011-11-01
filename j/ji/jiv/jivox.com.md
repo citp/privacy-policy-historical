@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102115246id_/http%3A//www.jivox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jivox.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004030id_/http%3A//www.jivox.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jivox
 
@@ -84,6 +84,6 @@ If you have any questions about this Privacy Policy please contact Jivox by send
     
     			Jivox Corporation 
     			Attn: Privacy 
-    			1400 Fashion Island Blvd. 
-    			San Mateo, CA 94404 
+          333 Twin Dolphin Drive 
+          Redwood City, CA 94065
     			[Contact Jivox regarding the Privacy Policy](mailto:info-us@jivox.com)			
