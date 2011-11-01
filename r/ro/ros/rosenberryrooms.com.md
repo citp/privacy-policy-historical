@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102125625id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosenberryrooms.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164818id_/http%3A//www.rosenberryrooms.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Rosenberry Rooms Privacy Policy, Secure Orders, Rosenberry Rooms Buyer Protection, Secure Online Ordering,...at RosenberryRooms.com
+
+| 
 
 * * *
 
@@ -29,6 +31,9 @@ U.S.A.
 Tel. +1-919-803-4083 
 
 [](http://smallbusiness.yahoo.com/merchant/)
+
+  
+
 
   
 
