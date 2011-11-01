@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the industrybrains.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216231851id_/http%3A//www.marchex.com/legal/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the industrybrains.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125328id_/http%3A//www.marchex.com/legal/privacy-statement.html) for the most accurate reproduction.*
 
 # Marchex - Legal Pages
 
