@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the discoversd.com privacy policy that was archived on 2011-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621072030id_/http%3A//www.discoversd.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the discoversd.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101130809id_/http%3A//www.discoversd.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head id="ctl00_Head1">
 <title>
@@ -14,11 +14,11 @@
     <link rel="alternate" type="application/rss+xml" title="Blog - DiscoverSD" href="http://blog.discoversd.com/rssfeed/">
     <link rel="alternate" type="application/rss+xml" title="Events - DiscoverSD" href="http://www.discoversd.com/events/rssfeed/">
     <link rel="alternate" type="application/rss+xml" title="PhotoGallery - DiscoverSD" href="http://pictures.discoversd.com/rssfeed/">
-    <link href="http://www.discoversd.com/css/5-9-2011-6-1-2011-6-23-2010-6-23-2010.css" rel="stylesheet" type="text/css">
+    <link href="http://www.discoversd.com/css/5-9-2011-7-18-2011-6-23-2010-6-23-2010.css" rel="stylesheet" type="text/css">
     <!--[if IE]><link href="http://www.discoversd.com/css/dsd-IE.css" rel="stylesheet" type="text/css" /><![endif]-->
     <!--[if lte IE 7]><link href="http://www.discoversd.com/css/dsd-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
 
-    <script language="javascript" src="http://www.discoversd.com/js/6-23-2010-6-17-2011-6-23-2010-11-9-2010-1.js" type="text/javascript"></script>
+    <script language="javascript" src="http://www.discoversd.com/js/6-23-2010-6-20-2011-6-23-2010-9-19-2011-1.js" type="text/javascript"></script>
     <script language="javascript" src="http://connect.facebook.net/en_US/all.js" type="text/javascript"></script>
 
     
@@ -50,6 +50,7 @@ GA_googleFetchAds();
     <script language="javascript" src="http://www.discoversd.com/js/jquery.ui.stars.js" type="text/javascript"></script>
     <script language="javascript" src="http://www.discoversd.com/js/jquery.uni-form.js" type="text/javascript"></script>
     <link href="http://www.discoversd.com/js/crystal-stars.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="http://www.discoversd.com/js/jquery.documentresize.js"></script>
 </head>
 <body id="ctl00_master_body" class="informational contact-us">
   <div id="fb-root"></div>
@@ -70,8 +71,33 @@ GA_googleFetchAds();
         */
         function onFacebookStatusChange(response) {
           var url=window.location.href;
-          window.location = url+'?ms=' + new Date().getTime();
-
+           if(url.indexOf("photo-login", 1) > 0)
+                        {
+                            var copok = get_cookie("PreviousGalleryURL");
+                            if(copok != "" && copok!=null)
+                            {
+                                var cokarr= copok.split("&");
+                                var coval=new Array();
+                                for(var i=0;i<cokarr.length;i++)
+                                {
+                                    var val=cokarr[i].split("=");
+                                    coval[i]=val[1];
+                                }
+                                window.location = "http://pictures.discoversd.com" +"/"+ coval[1] + "/a" + coval[3] + "/p" + coval[2] + ".html" + "?ms=" + new Date().getTime();
+                            }
+                            else
+                            {
+                                window.location = "http://pictures.discoversd.com/" + '?ms=' + new Date().getTime();
+                            }
+                        }
+                        else if(url.indexOf("login", 1) > 0)
+                        {
+                        window.location = "http://www.discoversd.com/" + '?ms=' + new Date().getTime();
+                        }
+                        else
+                        {
+                        window.location = url + '?ms=' + new Date().getTime();
+                        }
         }
 
         function onFacebookUserPic(response) {
@@ -89,8 +115,33 @@ GA_googleFetchAds();
                         }
                         else {
                             var url = window.location.href;
-                            url = url + '?ms=' + new Date().getTime();
-                            window.location = url;
+           if(url.indexOf("photo-login", 1) > 0)
+                        {
+                            var copok = get_cookie("PreviousGalleryURL");
+                            if(copok != "" && copok!=null)
+                            {
+                                var cokarr= copok.split("&");
+                                var coval=new Array();
+                                for(var i=0;i<cokarr.length;i++)
+                                {
+                                    var val=cokarr[i].split("=");
+                                    coval[i]=val[1];
+                                }
+                                window.location = "http://pictures.discoversd.com" +"/"+ coval[1] + "/a" + coval[3] + "/p" + coval[2] + ".html" + "?ms=" + new Date().getTime();
+                            }
+                            else
+                            {
+                                window.location = "http://pictures.discoversd.com/" + '?ms=' + new Date().getTime();
+                            }
+                        }
+                        else if(url.indexOf("login", 1) > 0)
+                        {
+                        window.location = "http://www.discoversd.com/" + '?ms=' + new Date().getTime();
+                        }
+                        else
+                        {
+                        window.location = url + '?ms=' + new Date().getTime();
+                        }
                             //document.location.href=url ;
                             //document.location.reload(true);
                             //window.location.href =  window.location.href +'?ms=' + new Date().getTime() ;
@@ -185,13 +236,14 @@ GA_googleFetchAds();
     
 <div id="header">
     <div id="header-bg-container">
+   
         <div id="tools">
         <div>
             
             
             
             
-            <a href="http://www.discoversd.com/">Home</a> <a href="http://www.discoversd.com/about/">
+            <a href="http://www.hookup.discoversd.com/?utm_source=website&amp;utm_medium=Navigation%2BLink&amp;utm_campaign=Nav%2BLink" style="font-size:14px; color:#F60; font-weight:bold">Daily Deal</a> <a href="http://www.discoversd.com/">Home</a> <a href="http://www.discoversd.com/about/">
                 About</a>
             <script type="text/javascript">
                 if (getCookie("loginCookie") != "")
@@ -248,22 +300,25 @@ GA_googleFetchAds();
         <div id="navigation">
             <ul class="main-nav">
                 
-                <li id="hotels" class="mega"><a href="http://www.discoversd.com/1/san-diego-hotels/">
-                    Hotels</a>
+                <li id="hotels-and-tourism" class="mega"><a href="http://www.discoversd.com/sections/hotels-and-tourism/">
+                    Hotels &amp; Tourism</a>
                     <div class="menuwrap">
-                        <div class="mega-sub-title">
+                           <span class="mega-sub-title">
                             <div class="d-block f-right">
-                                <a href="http://www.discoversd.com/1/san-diego-hotels/">
-                                    View All</a></div>
-                            Hotels by Category
-                        </div>
+                                <a href="http://www.discoversd.com/sections/hotels-and-tourism/">
+                                    View All Categories</a></div>
+                            Hotels &amp; Tourism</span>
                         <ul>
-                            <li><a href="http://www.discoversd.com/1/san-diego-hotels/">
-                                Best of San Diego Hotels </a></li>
-                            <li><a href="http://www.discoversd.com/1/san-diego-hotels/san-diego-chain-hotels.html">
-                                Chain Hotels </a></li>
-                            <li><a href="http://www.discoversd.com/1/san-diego-hotels/san-diego-boutique-hotels.html">
-                                Boutique Hotels </a></li>
+<li><a href="http://www.discoversd.com/1/san-diego-hotels/">Hotels</a></li>
+<li><a href="http://www.discoversd.com/san-diego-activities/">Activities</a></li>
+<li><a href="http://www.discoversd.com/san-diego-air-charter-and-private-jets/">Air Charter and Private Jets</a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/">Attractions</a></li>
+<li><a href="http://www.discoversd.com/san-diego-car-and-limo-rides/">Car and Limo Rides</a></li>
+<li><a href="http://www.discoversd.com/san-diego-cruises/">Cruises</a></li>
+<li><a href="http://www.discoversd.com/san-diego-tours-and-sightseeing/">Tours and Sightseeing</a></li>
+<li><a href="http://www.discoversd.com/san-diego-travel-resources/">Travel Resources</a></li>
+<li><a href="http://www.discoversd.com/san-diego-vacation-rentals/">Vacation Rentals</a></li>
+<li><a href="http://www.discoversd.com/san-diego-yacht--boat-rentals/">Yacht &amp; Boat Rentals</a></li>
                         </ul>
                         <div class="mega-sub-title">
                             <div class="d-block f-right">
@@ -299,10 +354,9 @@ GA_googleFetchAds();
                                 Rancho Santa Fe, CA</a></li>
                         </ul>
                         <div class="mega-sub-title">
-                            <div class="f-right d-block">
-                                <a href="http://blog.discoversd.com/san-diego-hotel-blog.html">
-                                    San Diego Hotel Blog</a></div>
-                            Hotel Reviews and Deals
+                             <div class="d-block f-right">
+                                <a href="http://blog.discoversd.com/">View All Categories</a></div>
+                            Hotel &amp; Tourism Blog
                         </div>
                         <ul>
                             <li><a href="http://blog.discoversd.com/san-diego-hotel-blog/top-ten-lists/">
@@ -312,6 +366,7 @@ GA_googleFetchAds();
                             <li><a href="http://blog.discoversd.com/san-diego-hotel-blog/chain-hotel-reviews/">
                                 Chain Hotel Reviews</a></li>
                         </ul>
+                        
                         
                     </div>
                 </li>
@@ -566,73 +621,59 @@ GA_googleFetchAds();
                         </p></div>
                     </div>
                 </li>
-                <li id="realestate" class="mega"><a href="http://www.discoversd.com/san-diego-real-estate/">
-                    Real Estate</a>
+                <li id="realestate" class="mega"><a href="http://www.discoversd.com/san-diego-attractions/">
+                    Attractions</a>
                     <div class="menuwrap">
                         <span class="mega-sub-title">
                             <div class="d-block f-right">
-                                <a href="http://www.discoversd.com/san-diego-real-estate/">
+                                <a href="http://www.discoversd.com/san-diego-attractions/">
                                     View All</a></div>
-                            Real Estate by Category</span>
+                            Attractions by Category</span>
                         <ul>
-                            <li><a href="http://www.discoversd.com/san-diego-real-estate/">
-                                Best of Real Estate </a></li>
-                            <li><a href="http://www.discoversd.com/san-diego-real-estate/san-diego-real-estate-brokerage.html">
-                                Brokerage </a></li>
-                            <li><a href="http://www.discoversd.com/san-diego-real-estate/san-diego-real-estate-agent.html">
-                                Agent</a></li>
-                            <li><a href="http://www.discoversd.com/san-diego-real-estate/san-diego-association.html">
-                                Association </a></li>
-                            <li><a href="http://www.discoversd.com/san-diego-real-estate/san-diego-other.html">
-                                Other</a></li>
+                            <li><a href="http://www.discoversd.com/san-diego-attractions/">
+                                Best of Attractions </a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/san-diego-balboa-park.html">Balboa Park</a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/san-diego-del-mar-fairgrounds.html">Del Mar Fairgrounds</a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/san-diego-mission-beach.html">Mission Beach</a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/san-diego-old-town.html">Old Town</a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/san-diego-pacific-beach.html">Pacific Beach</a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/san-diego-zoo.html">Zoo</a></li>
+<li><a href="http://www.discoversd.com/san-diego-attractions/san-diego-southern-california.html">Southern California</a></li>
                         </ul>
                         <div class="mega-sub-title">
                             <div class="d-block f-right">
                                 <a href="http://www.discoversd.com/san-diego/neighborhoods/">
                                     View All 81 Communities</a></div>
-                            Real Estate by Community</div>
+                            Attractions by Community</div>
                         <ul>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/coronado/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/coronado/attractions.html">
                                 Coronado, CA</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/del-mar/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/del-mar/attractions.html">
                                 Del Mar, CA</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/downtown--gaslamp/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/downtown--gaslamp/attractions.html">
                                 Downtown / Gaslamp </a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/hillcrest/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/hillcrest/attractions.html">
                                 Hillcrest, CA</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/la-jolla/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/la-jolla/attractions.html">
                                 La Jolla, CA</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/little-italy/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/little-italy/attractions.html">
                                 Little Italy, San Diego</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/mira-mesa/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/mira-mesa/attractions.html">
                                 Mira Mesa, CA</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/mission-valley/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/mission-valley/attractions.html">
                                 Mission Valley </a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/north-park/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/north-park/attractions.html">
                                 North Park, San Diego</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/old-town/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/old-town/attractions.html">
                                 Old Town, San Diego</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/pacific-beach/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/pacific-beach/attractions.html">
                                 Pacific Beach, CA</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/point-loma/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/point-loma/attractions.html">
                                 Point Loma, CA</a></li>
-                            <li><a href="http://www.discoversd.com/california/san-diego/ca/rancho-santa-fe/real-estate.html">
+                            <li><a href="http://www.discoversd.com/california/san-diego/ca/rancho-santa-fe/attractions.html">
                                 Rancho Santa Fe, CA</a></li>
                         </ul>
-                        <div class="mega-sub-title">
-                            <div class="d-block f-right">
-                                <a href="http://blog.discoversd.com/san-diego-real-estate-blog.html">
-                                    View All</a></div>
-                            Real Estate Blog
-                        </div>
-                        <ul type="disc">
-                            <li><a href="http://blog.discoversd.com/san-diego-real-estate-blog/real-estate-trends/">
-                                Real Estate Trends</a></li>
-                            <li><a href="http://blog.discoversd.com/san-diego-real-estate-blog/top-ten-lists/">
-                                Real Estate Top Ten Lists</a></li>
-                            <li><a href="http://blog.discoversd.com/san-diego-real-estate-blog/real-estate-brokerage-reviews/">
-                                Real Estate Brokerage Reviews</a></li>
-                        </ul>
+                        
                         
                     </div>
                 </li>
@@ -715,8 +756,7 @@ GA_googleFetchAds();
                     </div>
                 </li>
                 
-                <li id="attractions" class="mega"><a href="http://travel.discoversd.com/36_ticket-list_m10_r430685.html">
-                    Attractions</a> </li>
+                
                 <li id="communities" class="mega"><a href="http://www.discoversd.com/san-diego/neighborhoods/">
                     Communities</a>
                     <div class="menuwrap">
@@ -880,12 +920,52 @@ GA_googleFetchAds();
                    document.getElementById('fbloggedin').style.display = "none";
                 }
 </script>
-    <form name="aspnetForm" method="post" action="privacypolicy.aspx" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="privacypolicy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTQzNjk2OTU1Mw9kFgJmD2QWAgIDDxYCHgVjbGFzcwUYaW5mb3JtYXRpb25hbCBjb250YWN0LXVzFgICAQ9kFgICAg8PFgIeDXN0ckN1cnJlbnRVcmwFFC9wcml2YWN5LXBvbGljeS5odG1sZBYCZg9kFgYCAQ8PZBYEHgdvbmZvY3VzBT9qYXZhc2NyaXB0OmlmKHRoaXMudmFsdWU9PSdFbnRlciB5b3VyIGZ1bGwgbmFtZScpdGhpcy52YWx1ZT0nJzseBm9uYmx1cgU/amF2YXNjcmlwdDppZih0aGlzLnZhbHVlPT0nJyl0aGlzLnZhbHVlPSdFbnRlciB5b3VyIGZ1bGwgbmFtZSc7ZAIFDw9kFgQfAgVDamF2YXNjcmlwdDppZih0aGlzLnZhbHVlPT0nRW50ZXIgeW91ciBlbWFpbCBhZGRyZXNzJyl0aGlzLnZhbHVlPScnOx8DBUNqYXZhc2NyaXB0OmlmKHRoaXMudmFsdWU9PScnKXRoaXMudmFsdWU9J0VudGVyIHlvdXIgZW1haWwgYWRkcmVzcyc7ZAILDw8WAh4ISW1hZ2VVcmwFPmh0dHA6Ly93d3cuZGlzY292ZXJzZC5jb20vaW1hZ2VzL0V4cGFuZGFibGUtRm9ybS1zdWJzY3JpYmUucG5nFgIeBXN0eWxlBSJib3JkZXItd2lkdGg6MHB4OyBtYXJnaW4tbGVmdDowcHg7ZBgBBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAgUhY3RsMDAkaGVhZGhvb2tVcCRob29rdXBfYnRuU3VibWl0BSVjdGwwMCRjdGwwMyRJbnNpZGVyU2lnblVwJE5MQnRuU3VibWl07Xw8UnxNWg7uX54SLyhN6bcmxyQ=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
 
 
-<script src="/ScriptResource.axd?d=6cLTYIchNE38YNhNcqWWVAnwQZ-0eYXKCY9Z_qQrp2E0iqZzRmTKp3p-7LmMRW-ROVflbDJ5BepPslaljn6HHcvzzBxWY2ml18Iq_7C6r6A1&amp;t=634067078268262800" type="text/javascript"></script>
-        
+<script src="/WebResource.axd?d=lvQjrvcV6Tvg2QX7QW8rBFTF2OVIQjMp2EHwC1Ib5QektZdA3iVTsVPn7lKt190yCJz-r7LJtEIFmZRgw2O3TjJo12U1&amp;t=634210112576316535" type="text/javascript"></script>
+
+
+<script src="/ScriptResource.axd?d=pD2jZyRLCd7cW2ES8bGgybfKRekHy1RxRbme_EX6LbdWynUgThclGkCLMbgcACdEehgWu2ZhAVneN3J99DfGEVbDdbT6RuB7dJH2Lbj6mQzV9G3e9PqseXfhTYEWknjQAkUtdUSPyg5-MKftG_TkJ6r6qsU1&amp;t=634210112576316535" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=7GCWFQxqJDMMgMk7hdMGXsgrk7iWdE-Bb1-U0ZCU4N8imVlMy54OOicz1Zn0NJ8iYCWmuQAX03TjcqIGXjjApDl2E434bZpXh_MDXirqPxujZTS73tpqCj4Sa72wJQULkpGtbtzsWfHNuSa7lO8hjpmQLME1&amp;t=634522159804249708" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=NgSxZL35l9sH9uvpo_xYwB5tVJ4xGCI_bjFhLsEjF3i--1dWhv9D0PU2yBIC29noOjJi8wPQK9cVlyGn3FKdFvz0XyDYK-Xcp9x_VK6Bk2GEJ8E2zSXCEafT7SOm9iMe8SEyTkN2QVDVFUbXUmQ6bIefdfMs4Q-jHAolz2lt9ZQzCURD0&amp;t=634522159804249708" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+if (typeof(ValidatorOnSubmit) == "function" && ValidatorOnSubmit() == false) return false;
+return true;
+}
+//]]>
+</script>
+
+        <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['tctl00$ctl03$InsiderSignUp$sideSignUp'], [], [], 90);
+//]]>
+</script>
+
         <div id="container-bg-wrap">
             <!-- container-bg-wrap: This can be used for skinning/advertisment use .home prefix class to skin only the hompage-->
             
@@ -907,15 +987,15 @@ GA_googleFetchAds();
             <div id="ctl00_headhookUp_hookup_form" class="ef-field-wrap">
                 <div class="f-left">
                     <input name="ctl00$headhookUp$hookup_txtName" type="text" value="Enter your full name" maxlength="50" id="ctl00_headhookUp_hookup_txtName" class="textbox" onfocus="javascript:if(this.value=='Enter your full name')this.value='';" onblur="javascript:if(this.value=='')this.value='Enter your full name';">
-                    &nbsp;
+                    <span id="ctl00_headhookUp_RFVhookup_txtName" style="color:Red;visibility:hidden;">*</span>
                 </div>
                 <div class="f-left">
                     <input name="ctl00$headhookUp$hookup_txtEmail" type="text" value="Enter your email address" maxlength="50" id="ctl00_headhookUp_hookup_txtEmail" class="textbox" onfocus="javascript:if(this.value=='Enter your email address')this.value='';" onblur="javascript:if(this.value=='')this.value='Enter your email address';">
-                    &nbsp;
-                    &nbsp;
+                    <span id="ctl00_headhookUp_RFVhookup_txtEmail" style="color:Red;visibility:hidden;">*</span>
+                    <span id="ctl00_headhookUp_REVhookup_txtEmail" style="color:Red;visibility:hidden;">*</span>
                 </div>
                 <div class="f-left">
-                    <input type="image" name="ctl00$headhookUp$hookup_btnSubmit" id="ctl00_headhookUp_hookup_btnSubmit" class="submit" src="http://www.discoversd.com/images/Expandable-Form-subscribe.png" align="left" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$headhookUp$hookup_btnSubmit&quot;, &quot;&quot;, true, &quot;grpHookup&quot;, &quot;&quot;, false, false))" border="0" style="border-width:0px; margin-left:0px;">
+                    <input type="image" name="ctl00$headhookUp$hookup_btnSubmit" id="ctl00_headhookUp_hookup_btnSubmit" class="submit" src="http://www.discoversd.com/images/Expandable-Form-subscribe.png" align="left" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$headhookUp$hookup_btnSubmit&quot;, &quot;&quot;, true, &quot;grpHookup&quot;, &quot;&quot;, false, false))" style="border-width:0px;border-width:0px; margin-left:0px;">
                 </div>
             </div>
             
@@ -1401,7 +1481,7 @@ GA_googleFetchAds();
                             <div class="dotted-top">
                             </div>
                             <ul>
-                             <li><a href="http://blog.discoversd.com/san-diego-dating-blog.html">Dating Tips and Ideas</a></li><li><a href="http://blog.discoversd.com/san-diego-hotel-blog.html">Hotel Reviews and Deals</a></li><li><a href="http://blog.discoversd.com/san-diego-shopping-blog.html">Shopping Trends</a></li><li><a href="http://blog.discoversd.com/san-diego-beauty-blog.html">Beauty and Health</a></li><li><a href="http://blog.discoversd.com/san-diego-restaurant-blog.html">Restaurant Reviews</a></li><li><a href="http://blog.discoversd.com/san-diego-neighborhoods-blog.html">San Diego Communities</a></li><li><a href="http://blog.discoversd.com/san-diego-entertainment-blog.html">Entertainment Ideas</a></li><li><a href="http://blog.discoversd.com/san-diego-real-estate-blog.html">Real Estate and Homes</a></li><li><a href="http://blog.discoversd.com/san-diego-nightlife-blog.html">Nightlife and Music</a></li>
+                             <li><a href="http://blog.discoversd.com/san-diego-hotel-blog.html">Hotel Reviews and Deals</a></li><li><a href="http://blog.discoversd.com/san-diego-nightlife-blog.html">Nightlife and Music</a></li><li><a href="http://blog.discoversd.com/san-diego-restaurant-blog.html">Restaurant Reviews</a></li><li><a href="http://blog.discoversd.com/san-diego-real-estate-blog.html">Real Estate and Homes</a></li><li><a href="http://blog.discoversd.com/san-diego-shopping-blog.html">Shopping Trends</a></li><li><a href="http://blog.discoversd.com/san-diego-beauty-blog.html">Beauty and Health</a></li><li><a href="http://blog.discoversd.com/san-diego-dating-blog.html">Dating Tips and Ideas</a></li><li><a href="http://blog.discoversd.com/san-diego-neighborhoods-blog.html">San Diego Communities</a></li><li><a href="http://blog.discoversd.com/san-diego-entertainment-blog.html">Entertainment Ideas</a></li>
                             </ul>
                         </div>
                     </div>
@@ -1494,133 +1574,133 @@ GA_googleFetchAds();
                                 <div>
                                     
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-nightlife-blog/f6ix-grand-opening-new-era-of-hip-hop.html">
-                                                    <img height="52px" width="100px" alt="F6ix Grand Opening: New Era of Hip Hop" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/1-20jun2011025539608920.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-nightlife-blog/f6ix-grand-opening-new-era-of-hip-hop.html">
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-labor-day-entertainment-guide.html">
+                                                    <img height="52px" width="100px" alt="Splash: Labor Day Entertainment Guide" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/2-22aug2011052532929093.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-labor-day-entertainment-guide.html">
                                                     <span class="faux-h3">
-                                                        F6ix Grand Opening: New Era of Hip Hop
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-nightlife-blog/f6ix-grand-opening-new-era-of-hip-hop.html">
+                                                        Splash: Labor Day Entertainment Guide
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-labor-day-entertainment-guide.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-beauty-blog/spa-cation-rancho-la-puerta-in-mexico.html">
-                                                    <img height="52px" width="100px" alt="Spa-cation: Rancho La Puerta in Mexico" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/rancho-main-20jun2011020609637878.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-beauty-blog/spa-cation-rancho-la-puerta-in-mexico.html">
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/top-ten-halloween-celebrity-costume-ideas.html">
+                                                    <img height="52px" width="100px" alt="Celebrity Halloween Costume Inspiration" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/charlie-28sep2011052042486474.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/top-ten-halloween-celebrity-costume-ideas.html">
                                                     <span class="faux-h3">
-                                                        Spa-cation: Rancho La Puerta in Mexico
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-beauty-blog/spa-cation-rancho-la-puerta-in-mexico.html">
+                                                        Celebrity Halloween Costume Inspiration
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/top-ten-halloween-celebrity-costume-ideas.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/weekend-preview-san-diego-events.html">
-                                                    <img height="52px" width="100px" alt="Weekend Preview: Best Events 6/21-26" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/events1-19jun2011093728975659.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/weekend-preview-san-diego-events.html">
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/weekend-preview-best-san-diego-events-october-2011.html">
+                                                    <img height="52px" width="100px" alt="Weekend Preview: Best Events 10/13-16" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/halloween1-10oct2011034232531000.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/weekend-preview-best-san-diego-events-october-2011.html">
                                                     <span class="faux-h3">
-                                                        Weekend Preview: Best Events 6/21-26
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/weekend-preview-san-diego-events.html">
+                                                        Weekend Preview: Best Events 10/13-16
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/weekend-preview-best-san-diego-events-october-2011.html">
                                                         read more</a>
                                             </div>
                                             </div><div>
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/ultimate-guide-to-fourth-of-july-weekend-in-san-diego.html">
-                                                    <img height="52px" width="100px" alt="Your Fourth of July Entertainment Guide" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/san-diego-big-bay-20jun2011052619605519.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/ultimate-guide-to-fourth-of-july-weekend-in-san-diego.html">
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/harvest-celebration-barrel-tasting-weekend-in-temecula.html">
+                                                    <img height="52px" width="100px" alt="Local Flavor: Harvest Celebration Barrel Tasting in Temecula" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/w1-18oct2011035558813000.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/harvest-celebration-barrel-tasting-weekend-in-temecula.html">
                                                     <span class="faux-h3">
-                                                        Your Fourth of July Entertainment Guide
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/ultimate-guide-to-fourth-of-july-weekend-in-san-diego.html">
+                                                        Local Flavor: Harvest Celebration Ba...
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/harvest-celebration-barrel-tasting-weekend-in-temecula.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-beauty-blog/eco-friendly-bellemani-nail-salon-in-la-jolla.html">
-                                                    <img height="52px" width="100px" alt="Eco-Friendly: Bellemani Nail Salon in La Jolla" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/bellemani-nail-salon-16jun2011042848572191.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-beauty-blog/eco-friendly-bellemani-nail-salon-in-la-jolla.html">
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-beer-week-events.html">
+                                                    <img height="52px" width="100px" alt="San Diego Beer Week" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/beer-week-19oct2011011539175000.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-beer-week-events.html">
                                                     <span class="faux-h3">
-                                                        Eco-Friendly: Bellemani Nail Salon i...
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-beauty-blog/eco-friendly-bellemani-nail-salon-in-la-jolla.html">
+                                                        San Diego Beer Week
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-beer-week-events.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-spirits-festival.html">
-                                                    <img height="52px" width="100px" alt="Drink Up: San Diego Spirits Festival" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/spirits-fest-15jun2011050207346286.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-spirits-festival.html">
+                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/oggis-celebrates-beer-week.html">
+                                                    <img height="52px" width="100px" alt="Oggi's Celebrates Beer Week" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/oggis-28oct2011105647220000.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/oggis-celebrates-beer-week.html">
                                                     <span class="faux-h3">
-                                                        Drink Up: San Diego Spirits Festival
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/2011-san-diego-spirits-festival.html">
+                                                        Oggi's Celebrates Beer Week
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-restaurant-blog/oggis-celebrates-beer-week.html">
                                                         read more</a>
                                             </div>
                                             </div><div>
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-neighborhoods-blog/safelistcom-promotes-public-safety.html">
-                                                    <img height="52px" width="100px" alt="Safelist.com Promotes Public Safety" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/safelist-20jun2011121727478174.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-neighborhoods-blog/safelistcom-promotes-public-safety.html">
+                                                <a href="http://blog.discoversd.com/san-diego-nightlife-blog/2011-san-diego-halloween-party-guide.html">
+                                                    <img height="52px" width="100px" alt="Party Time: San Diego Halloween Guide" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/2011halloween-13oct2011115719129882.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-nightlife-blog/2011-san-diego-halloween-party-guide.html">
                                                     <span class="faux-h3">
-                                                        Safelist.com Promotes Public Safety
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-neighborhoods-blog/safelistcom-promotes-public-safety.html">
+                                                        Party Time: San Diego Halloween Guide
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-nightlife-blog/2011-san-diego-halloween-party-guide.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-beauty-blog/health-spotlight-dr-andrew-demeyer-of-mission-blvd-dental.html">
-                                                    <img height="52px" width="100px" alt="Health Spotlight: Dr. Andrew DeMeyer of Mission Blvd Dental" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/mission-blvd-demeyer-20jun2011032808022300.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-beauty-blog/health-spotlight-dr-andrew-demeyer-of-mission-blvd-dental.html">
+                                                <a href="http://blog.discoversd.com/san-diego-hotel-blog/travel-best-san-diego-winter-getaways.html">
+                                                    <img height="52px" width="100px" alt="Best Winter Getaways" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/tahoe-24oct2011014952199000.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-hotel-blog/travel-best-san-diego-winter-getaways.html">
                                                     <span class="faux-h3">
-                                                        Health Spotlight: Dr. Andrew DeMeyer...
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-beauty-blog/health-spotlight-dr-andrew-demeyer-of-mission-blvd-dental.html">
+                                                        Best Winter Getaways
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-hotel-blog/travel-best-san-diego-winter-getaways.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/top-ten-sd-chinese-restaurants.html">
-                                                    <img height="52px" width="100px" alt="Wok This Way: Top Ten Best Chinese Restaurants" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/top10chineserestaurantsphoto-20jun2011102423349886.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/top-ten-sd-chinese-restaurants.html">
+                                                <a href="http://www.discoversd.com/mag/clubs-bars-party-scene/751.html">
+                                                    <img height="52px" width="100px" alt="'Tis the Season: San Diego Holiday Parties" src="http://www.discoversd.net/discover/images/Thumbnails/Article/small/holdiayuys-27sep2011110347782856.jpg"></a>
+                                                <a href="http://www.discoversd.com/mag/clubs-bars-party-scene/751.html">
                                                     <span class="faux-h3">
-                                                        Wok This Way: Top Ten Best Chinese R...
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-restaurant-blog/top-ten-sd-chinese-restaurants.html">
+                                                        'Tis the Season: San Diego Holiday P...
+                                                    </span></a><a href="http://www.discoversd.com/mag/clubs-bars-party-scene/751.html">
                                                         read more</a>
                                             </div>
                                             </div><div>
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/maryjanes-underground-with-family-wagon-live.html">
-                                                    <img height="52px" width="100px" alt="Rock: Maryjane’s Underground with Family Wagon Live" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/w1-20jun2011062828385416.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-entertainment-blog/maryjanes-underground-with-family-wagon-live.html">
+                                                <a href="http://blog.discoversd.com/san-diego-shopping-blog/the-kitchery-at-bulthaup-opens-pop-up-store.html">
+                                                    <img height="52px" width="100px" alt="The Kitchery at bulthaup Holiday Pop-Up Store" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/kitchery-31oct2011062117735000.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-shopping-blog/the-kitchery-at-bulthaup-opens-pop-up-store.html">
                                                     <span class="faux-h3">
-                                                        Rock: Maryjane’s Underground with Fa...
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-entertainment-blog/maryjanes-underground-with-family-wagon-live.html">
+                                                        The Kitchery at bulthaup Holiday Pop...
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-shopping-blog/the-kitchery-at-bulthaup-opens-pop-up-store.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-nightlife-blog/the-griffin-in-clairemont.html">
-                                                    <img height="52px" width="100px" alt="Dive Bar Revival: The Griffin in Clairemont" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/beer2-17jun2011034123475312.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-nightlife-blog/the-griffin-in-clairemont.html">
+                                                <a href="http://www.discoversd.com/mag/clubs-bars-party-scene/826.html">
+                                                    <img height="52px" width="100px" alt="Best Nightclubs for Celebrity Sightings" src="http://www.discoversd.net/discover/images/Thumbnails/Article/small/lupe1-12oct2011015245645000.jpg"></a>
+                                                <a href="http://www.discoversd.com/mag/clubs-bars-party-scene/826.html">
                                                     <span class="faux-h3">
-                                                        Dive Bar Revival: The Griffin in Cla...
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-nightlife-blog/the-griffin-in-clairemont.html">
+                                                        Best Nightclubs for Celebrity Sightings
+                                                    </span></a><a href="http://www.discoversd.com/mag/clubs-bars-party-scene/826.html">
                                                         read more</a>
                                             </div>
                                             
                                         
                                             <div class="content-block">
-                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/new-caf--sevilla-in-san-diego.html">
-                                                    <img height="52px" width="100px" alt="New Café Sevilla Opens in San Diego" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/s1-15jun2011011101041403.jpg"></a>
-                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/new-caf--sevilla-in-san-diego.html">
+                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/best-san-diego-delivery-for-game-day.html">
+                                                    <img height="52px" width="100px" alt="Top San Diego Game Day Grub To-Go" src="http://www.discoversd.net/discover/images/Thumbnails/Blog/small/oggispiz-28oct2011041021333000.jpg"></a>
+                                                <a href="http://blog.discoversd.com/san-diego-restaurant-blog/best-san-diego-delivery-for-game-day.html">
                                                     <span class="faux-h3">
-                                                        New Café Sevilla Opens in San Diego
-                                                    </span></a><a href="http://blog.discoversd.com/san-diego-restaurant-blog/new-caf--sevilla-in-san-diego.html">
+                                                        Top San Diego Game Day Grub To-Go
+                                                    </span></a><a href="http://blog.discoversd.com/san-diego-restaurant-blog/best-san-diego-delivery-for-game-day.html">
                                                         read more</a>
                                             </div>
                                             
@@ -1658,10 +1738,65 @@ GA_googleFetchAds();
         </div>
         <!--/#container-bg-wrap-->
     
+<script type="text/javascript">
+//<![CDATA[
+var Page_Validators =  new Array(document.getElementById("ctl00_headhookUp_RFVhookup_txtName"), document.getElementById("ctl00_headhookUp_RFVhookup_txtEmail"), document.getElementById("ctl00_headhookUp_REVhookup_txtEmail"));
+//]]>
+</script>
 
 <script type="text/javascript">
 //<![CDATA[
-Sys.Application.initialize();
+var ctl00_headhookUp_RFVhookup_txtName = document.all ? document.all["ctl00_headhookUp_RFVhookup_txtName"] : document.getElementById("ctl00_headhookUp_RFVhookup_txtName");
+ctl00_headhookUp_RFVhookup_txtName.controltovalidate = "ctl00_headhookUp_hookup_txtName";
+ctl00_headhookUp_RFVhookup_txtName.errormessage = "*";
+ctl00_headhookUp_RFVhookup_txtName.validationGroup = "grpHookup";
+ctl00_headhookUp_RFVhookup_txtName.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_headhookUp_RFVhookup_txtName.initialvalue = "Enter your full name";
+var ctl00_headhookUp_RFVhookup_txtEmail = document.all ? document.all["ctl00_headhookUp_RFVhookup_txtEmail"] : document.getElementById("ctl00_headhookUp_RFVhookup_txtEmail");
+ctl00_headhookUp_RFVhookup_txtEmail.controltovalidate = "ctl00_headhookUp_hookup_txtEmail";
+ctl00_headhookUp_RFVhookup_txtEmail.errormessage = "*";
+ctl00_headhookUp_RFVhookup_txtEmail.validationGroup = "grpHookup";
+ctl00_headhookUp_RFVhookup_txtEmail.evaluationfunction = "RequiredFieldValidatorEvaluateIsValid";
+ctl00_headhookUp_RFVhookup_txtEmail.initialvalue = "Enter your email address";
+var ctl00_headhookUp_REVhookup_txtEmail = document.all ? document.all["ctl00_headhookUp_REVhookup_txtEmail"] : document.getElementById("ctl00_headhookUp_REVhookup_txtEmail");
+ctl00_headhookUp_REVhookup_txtEmail.controltovalidate = "ctl00_headhookUp_hookup_txtEmail";
+ctl00_headhookUp_REVhookup_txtEmail.errormessage = "*";
+ctl00_headhookUp_REVhookup_txtEmail.validationGroup = "grpHookup";
+ctl00_headhookUp_REVhookup_txtEmail.evaluationfunction = "RegularExpressionValidatorEvaluateIsValid";
+ctl00_headhookUp_REVhookup_txtEmail.validationexpression = "\\w+([-+.]\\w+)*@\\w+([-.]\\w+)*\\.\\w+([-.]\\w+)*";
+//]]>
+</script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+
+var Page_ValidationActive = false;
+if (typeof(ValidatorOnLoad) == "function") {
+    ValidatorOnLoad();
+}
+
+function ValidatorOnSubmit() {
+    if (Page_ValidationActive) {
+        return ValidatorCommonOnSubmit();
+    }
+    else {
+        return true;
+    }
+}
+        Sys.Application.initialize();
+
+document.getElementById('ctl00_headhookUp_RFVhookup_txtName').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_headhookUp_RFVhookup_txtName'));
+}
+
+document.getElementById('ctl00_headhookUp_RFVhookup_txtEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_headhookUp_RFVhookup_txtEmail'));
+}
+
+document.getElementById('ctl00_headhookUp_REVhookup_txtEmail').dispose = function() {
+    Array.remove(Page_Validators, document.getElementById('ctl00_headhookUp_REVhookup_txtEmail'));
+}
 //]]>
 </script>
 </form>
@@ -1787,6 +1922,15 @@ Sys.Application.initialize();
                Fine Dining Reviews </a></li>
                 
                 <li><a href="http://blog.discoversd.com/san-diego-restaurant-blog/top-ten-lists/">Top Ten Lists</a></li>
+                <li><span class="faux-h3"><a href="http://smartmarketer.discoversd.com/">Smart Marketer Blog</a></span>
+                  <hr>
+                  <ul>
+                    <li><a href="http://www.discoversd.com/3/san-diego-restaurants/san-diego-casual-dining.html"> Online Marketing Strategies </a></li>
+                    <li><a href="http://smartmarketer.discoversd.com/category/branding"> Branding Tips </a></li>
+                    <li><a href="http://smartmarketer.discoversd.com/category/social-media"> Social Media Strategies </a></li>
+                    <li><a href="http://smartmarketer.discoversd.com/category/event-marketing">Event Marketing</a></li>
+                  </ul>
+                </li>
             </ul>
         </div>
 
@@ -1896,6 +2040,7 @@ pageTracker._setDomainName(".discoversd.com");
                 pageTracker._trackPageview();
             
     </script>
+    <script language="javascript" type="text/javascript" src="http://media.signonsandiego.com/omniture/anametrix-dsd.js"></script>
 
     <!-- Start Quantcast tag -->
 
@@ -1926,62 +2071,68 @@ qacct:"p-c9Tl0_AQtxiEs"
 <div id="banner_header_hidden" class="banner_header" style="position: absolute; top: -1000px;
     left: -1000px;"></div>
 <script type="text/javascript">
-    if (document.getElementById("banner_header") == null) {
-        if (document.getElementById("banner_header_hidden") != null) {
-            document.getElementById("banner_header_hidden").innerHTML = '';
-            document.getElementById("banner_header_hidden").innerTEXT = '';
-        }
-    }
-    var dsdAds = ["banner_header"];
-    var len = 0;
-    var idTemp = '';
+if(document.getElementById("banner_header")==null){
+if(document.getElementById("banner_header_hidden")!=null){
+document.getElementById("banner_header_hidden").innerHTML='';
+document.getElementById("banner_header_hidden").innerTEXT='';
+}
+}
+var dsdAds=["banner_header"];
+var len=0;
+var idTemp='';
 
-    idTemp = dsdAds[len];
+    idTemp=dsdAds[len];
     // Ads serving...
-    $('div.' + idTemp).each(function() {
-        var id = $(this).attr('id').replace(/_hidden/, '');
-        var pos = $("#" + id).offset();
-        if (pos) {
-            // Show the banner directly over the placeholder
-            $(this).css(
+    $('div.'+idTemp).each(function()
+    {
+      var id = $(this).attr('id').replace(/_hidden/, '');
+      var pos = $("#" + id).offset();
+      if (pos)
+      {
+        // Show the banner directly over the placeholder
+        $(this).css(
         {
-            "left": pos.left + "px",
-            "top": pos.top + "px"
+          "left": pos.left +"px",
+          "top":  pos.top  +"px"
         });
-            $("#" + id).height($(this).height() + 5);
-            $("#" + id).width($(this).width());
-        }
+        $("#" + id).height($(this).height() + 5);
+        $("#" + id).width($(this).width());
+      }
     });
 
     // Repositioning the ads divs
-    $(window).scroll(function() {
-        $('div.' + idTemp).each(function() {
-            var id = $(this).attr('id').replace(/_hidden/, '');
-            var pos = $("#" + id).position();
-            if (pos) {
-                // Show the banner directly over the placeholder
-                $(this).css(
+
+        $(document).resize(function()
+    {
+      $('div.'+idTemp).each(function()
+      {
+        var id = $(this).attr('id').replace(/_hidden/, '');
+        var pos = $("#" + id).position();
+        if (pos)
+        {
+          // Show the banner directly over the placeholder
+          $(this).css(
+          {
+            "left": pos.left +"px",
+            "top":  pos.top  +"px"
+          });
+        }
+      });
+  });
+  $(window).resize(function() {
+      $('div.' + idTemp).each(function() {
+          var id = $(this).attr('id').replace(/_hidden/, '');
+          var pos = $("#" + id).position();
+          if (pos) {
+              // Show the banner directly over the placeholder
+              $(this).css(
           {
               "left": pos.left + "px",
               "top": pos.top + "px"
           });
-            }
-        });
-    });
-    $(window).resize(function() {
-        $('div.' + idTemp).each(function() {
-            var id = $(this).attr('id').replace(/_hidden/, '');
-            var pos = $("#" + id).position();
-            if (pos) {
-                // Show the banner directly over the placeholder
-                $(this).css(
-          {
-              "left": pos.left + "px",
-              "top": pos.top + "px"
-          });
-            }
-        });
-    });
+          }
+      });
+  });
  
 </script>
 
@@ -2011,59 +2162,68 @@ qacct:"p-c9Tl0_AQtxiEs"
 <div id="banner_middle_hidden" class="banner_middle" style="position: absolute; top: -1000px;
     left: -1000px;"></div>
 <script type="text/javascript">
-    if (document.getElementById("banner_middle") == null) {
-        if (document.getElementById("banner_middle_hidden") != null) {
-            document.getElementById("banner_middle_hidden").innerHTML = '';
-            document.getElementById("banner_middle_hidden").innerTEXT = '';
-        }
-    }
-    // Ads serving...
-    $('div.banner_middle').each(function() {
-        var id = $(this).attr('id').replace(/_hidden/, '');
-        var pos = $("#" + id).offset();
-        if (pos) {
-            // Show the banner directly over the placeholder
-            $(this).css(
+if(document.getElementById("banner_middle")==null){
+if(document.getElementById("banner_middle_hidden")!=null){
+document.getElementById("banner_middle_hidden").innerHTML='';
+document.getElementById("banner_middle_hidden").innerTEXT='';
+}
+}
+ // Ads serving...
+    $(window).load(function()
+    {
+    $('div.banner_middle').each(function()
+    {
+      var id = $(this).attr('id').replace(/_hidden/, '');
+      var pos = $("#" + id).offset();
+      if (pos)
+      {
+        // Show the banner directly over the placeholder
+        $(this).css(
         {
-            "left": pos.left + "px",
-            "top": pos.top + "px"
+          "left": pos.left +"px",
+          "top":  pos.top  +"px"
         });
-            $("#" + id).height($(this).height() + 5);
-            $("#" + id).width($(this).width());
-        }
+        $("#" + id).height($(this).height() + 5);
+        $("#" + id).width($(this).width());
+      }
+    });
     });
 
     // Repositioning the ads divs
-    $(window).scroll(function() {
-        $('div.banner_middle').each(function() {
-            var id = $(this).attr('id').replace(/_hidden/, '');
-            var pos = $("#" + id).position();
 
-            if (pos) {
-                // Show the banner directly over the placeholder
-                $(this).css(
+        $(document).resize(function()
+    {
+      $('div.banner_middle').each(function()
+      {
+        var id = $(this).attr('id').replace(/_hidden/, '');
+        var pos = $("#" + id).position();
+
+        if (pos)
+        {
+          // Show the banner directly over the placeholder
+          $(this).css(
+          {
+            "left": pos.left +"px",
+            "top":  pos.top  +"px"
+          });
+        }
+      });
+  });
+  $(window).resize(function() {
+      $('div.banner_middle').each(function() {
+          var id = $(this).attr('id').replace(/_hidden/, '');
+          var pos = $("#" + id).position();
+
+          if (pos) {
+              // Show the banner directly over the placeholder
+              $(this).css(
           {
               "left": pos.left + "px",
               "top": pos.top + "px"
           });
-            }
-        });
-    });
-    $(window).resize(function() {
-        $('div.banner_middle').each(function() {
-            var id = $(this).attr('id').replace(/_hidden/, '');
-            var pos = $("#" + id).position();
-
-            if (pos) {
-                // Show the banner directly over the placeholder
-                $(this).css(
-          {
-              "left": pos.left + "px",
-              "top": pos.top + "px"
-          });
-            }
-        });
-    });
+          }
+      });
+  });
  
 </script>
 
@@ -2073,69 +2233,70 @@ qacct:"p-c9Tl0_AQtxiEs"
 </div>
 <script type="text/javascript">
 
-    if (document.getElementById("banner_footer") == null) {
-        if (document.getElementById("banner_footer_hidden") != null) {
-            document.getElementById("banner_footer_hidden").innerHTML = '';
-            document.getElementById("banner_footer_hidden").innerTEXT = '';
-        }
-    }
+if(document.getElementById("banner_footer")==null){
+if(document.getElementById("banner_footer_hidden")!=null){
+document.getElementById("banner_footer_hidden").innerHTML='';
+document.getElementById("banner_footer_hidden").innerTEXT='';
+}
+}
     // Ads serving...
-    $('div.banner_footer').each(function() {
-        var id = $(this).attr('id').replace(/_hidden/, '');
-        var pos = $("#" + id).offset();
-        if (pos) {
+    $('div.banner_footer').each(function()
+        {
+          var id = $(this).attr('id').replace(/_hidden/, '');
+          var pos = $("#" + id).offset();
+          if (pos)
+          {
             // Show the banner directly over the placeholder
             $(this).css(
             {
-                "left": pos.left + "px",
-                "top": pos.top + "px"
+              "left": pos.left +"px",
+              "top":  pos.top  +"px"
             });
             $("#" + id).height($(this).height() + 5);
             $("#" + id).width($(this).width());
-        }
-    });
+          }
+        });
 
-    // Repositioning the ads divs
-    $(window).scroll(function() {
-        $('div.banner_footer').each(function() {
+        // Repositioning the ads divs
+
+         $(document).resize(function()
+        {
+      $('div.banner_footer').each(function()
+          {
             var id = $(this).attr('id').replace(/_hidden/, '');
             var pos = $("#" + id).position();
 
-            if (pos) {
-                // Show the banner directly over the placeholder
-                $(this).css(
+            if (pos)
+            {
+              // Show the banner directly over the placeholder
+              $(this).css(
+              {
+                "left": pos.left +"px",
+                "top":  pos.top  +"px"
+              });
+            }
+          });
+      });
+      $(window).resize(function() {
+          $('div.banner_footer').each(function() {
+              var id = $(this).attr('id').replace(/_hidden/, '');
+              var pos = $("#" + id).position();
+
+              if (pos) {
+                  // Show the banner directly over the placeholder
+                  $(this).css(
               {
                   "left": pos.left + "px",
                   "top": pos.top + "px"
               });
-            }
-        });
-    });
-    $(window).resize(function() {
-        $('div.banner_footer').each(function() {
-            var id = $(this).attr('id').replace(/_hidden/, '');
-            var pos = $("#" + id).position();
-
-            if (pos) {
-                // Show the banner directly over the placeholder
-                $(this).css(
-              {
-                  "left": pos.left + "px",
-                  "top": pos.top + "px"
-              });
-            }
-        });
-    });
+              }
+          });
+      });
         
 </script>
 
 
-<!-- Javascript tag: -->
-<!-- begin ZEDO for channel: Discover San Diego , publisher: Discover San Diego , Ad Dimension: Pixel/Popup - 1 x 1 -->
-<script language="JavaScript">
-var zflag_nid="305"; var zflag_cid="6728/1"; var zflag_sid="1556"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
-</script>
-<script language="JavaScript" src="http://c5.zedo.com/jsc/c5/fo.js"></script>
-<!-- end ZEDO for channel: Discover San Diego , publisher: Discover San Diego , Ad Dimension: Pixel/Popup - 1 x 1 -->
+
+
 
 </body></html>
