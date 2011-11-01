@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122215437id_/http%3A//fanstory.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanstory.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222625id_/http%3A//fanstory.com/privacy.jsp) for the most accurate reproduction.*
 
 # FanStory.com - Write a story or poem, write poetry poems and publish short stories, book writing site
 
@@ -24,7 +24,7 @@ From time to time, we also may use this information to offer our products, progr
 
 The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
 
-If you choose to submit content for publication (e.g., a "story publication online"), we may publish your screen name and other information you have provided to us. 
+If you choose to submit content (e.g., a "story posted online"), we may share your screen name and other information you have provided to us. 
 
 We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
 
@@ -42,9 +42,7 @@ Some of our sites contain links to other sites whose information practices may b
 
 The sites covered by this Privacy Notice sometimes may offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or cobranded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. has no control over these third parties' use of this information. The site will notify you at the time of requesting personally identifiable information if these third parties will obtain such information. 
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here 
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique �cookie� on your browser. 
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 ###  Cookies 
 
@@ -60,4 +58,4 @@ To protect your privacy and security, we will take reasonable steps to help veri
 
 ###  How to Contact Us 
 
-If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20101122215437id_/http%3A//fanstory.com/formcontactfanstory.jsp). 
+If you have any questions or concerns about the online policy for this site or its implementation you may contact us at [here](https://web.archive.org/web/20111101222625id_/http%3A//fanstory.com/formcontactfanstory.jsp). 
