@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521223832id_/http%3A//ekstreme.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekstreme.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161438id_/http%3A//ekstreme.com/privacypolicy) for the most accurate reproduction.*
 
 # eKstreme.com's Privacy Policy
 
