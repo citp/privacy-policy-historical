@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityoffers.in privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128171910id_/http%3A//www.cityoffers.in/mumbai/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityoffers.in privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001241id_/http%3A//www.cityoffers.in/mumbai/page/privacy_policy) for the most accurate reproduction.*
 
 # CityOffers | Privacy Policy
 
@@ -82,14 +82,17 @@ We work to protect your personal information from loss, misuse, or unauthorized 
 If you have privacy-related questions that are not addressed here, please feel free to contact us:
 
   * Through our website,
-  * Write to us at contact@mycityoffers.co.in
+  * Write to us at contact@cityoffers.in
 
 
 
-  * Call us at  8000890209
-  * Mail to us at  MICA Campus MICA Shela,Ahmedabad 380058 
+  * Call us at  8000906999
+  * Mail to us at  
 
-  
+
+    
+    
+    11,vasundhara colony,gul bai tekra Near Panchvati cross roads,Ahmedabad 380058  
   
 ---  
   
