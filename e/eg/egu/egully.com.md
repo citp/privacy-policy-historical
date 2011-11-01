@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the egully.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420032327id_/http%3A//www.egully.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egully.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223248id_/http%3A//www.egully.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
