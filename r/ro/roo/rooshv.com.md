@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106031619id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rooshv.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152906id_/http%3A//www.rooshv.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Roosh V
 
@@ -17,7 +17,7 @@ With respect to cookies: We use cookies to store visitors preferences, record us
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
 With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-<http://www.google.com/privacy.html>
+[http://www.google.com/privacy.html](http://www.google.com/intl/en/privacy/)
 
 Upon request we provide site visitors with access to contact information (e.g., name, email address) that we maintain about them. Consumers can access this information by e-mail us at the above address.
 
