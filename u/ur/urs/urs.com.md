@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urs.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122105722id_/http%3A//www.urscorp.com/Legal/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urs.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001406id_/http%3A//www.urscorp.com/Legal/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # URS Corporation > Privacy Policy Agreement
 
@@ -26,7 +26,7 @@ You may review and update the information that you provide to us through this Si
 
 **Contacting Us**
 
-If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/web/20101122105722id_/http%3A//www.urscorp.com/Contact/index.php) page. We welcome your questions and suggestions about our privacy policy.
+If you have any questions about this privacy policy, please use the [Contact Us](https://web.archive.org/web/20111102001406id_/http%3A//www.urscorp.com/Contact/index.php) page. We welcome your questions and suggestions about our privacy policy.
 
 **Changes to this Policy**
 
