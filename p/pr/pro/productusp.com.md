@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the productusp.com privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525190428id_/http%3A//www.productusp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the productusp.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101190344id_/http%3A//www.productusp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Product Reviews With Their Unique Selling Point
-
-### Privacy Policy
+# Privacy Policy
 
 ProductUSP.com is committed to present the latest technological advancements to all its visitors and is working towards presenting the best-in-class technology experience. There would be a few sections on our website that would require you to input a few of your personal details such as your full name, company and email address. However, all the information collected on this site shall remain with those who run the site and not shared with any other company or any other party. It would be advisable to all the users that they refer to this privacy policy.  
 Information
