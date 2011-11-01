@@ -1,6 +1,21 @@
-> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229014856id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122211id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
 
 # Bidsauce Privacy Policy
+
+**This is a Beginner Auction!**  
+You can only bid on this auction if you haven't won more than 3 total auctions.
+
+ **Why do we have Beginner Auctions?**  
+Think of it like a training zone! Here you can hone your skills and establish your own winning strategies!
+
+ **This is a Five Cent Auction!**  
+Raise the stakes against your opponent -- every bid raises the price by $0.05 instead of $0.01. Good luck, and stay saucy!
+
+ **This is a Special Valentine Auction!**  
+Anyone can bid on this auction and treat themselves or their sweetheart!
+
+ **What's so special?**  
+Every bid you place on this auction will be replaced on February 15th! You've got nothing to lose!
 
 ### PRIVACY POLICY
 
