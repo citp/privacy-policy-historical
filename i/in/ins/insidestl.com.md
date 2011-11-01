@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the insidestl.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009150600id_/http%3A//www.insidestl.com/insideSTL/tabid/54/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidestl.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143747id_/http%3A//www.insidestl.com/PrivacyPolicy/tabid/210/Default.aspx) for the most accurate reproduction.*
 
-# insideSTL
+# Privacy Policy
+
+**PRIVACY  POLICY**
 
 insideSTL is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the insideSTL Web site and governs data collection and usage. By using the insideSTL website, you consent to the data practices described in this statement.
 
@@ -44,4 +46,7 @@ insideSTL will occasionally update this Statement of Privacy to reflect company 
 
 Contact Information
 
-insideSTL welcomes your comments regarding this Statement of Privacy. If you believe that insideSTL has not adhered to this Statement, please contact insideSTL at [admin@insidestl.com](mailto:admin@insidestl.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+insideSTL welcomes your comments regarding this Statement of Privacy. If you believe that insideSTL has not adhered to this Statement, please contact insideSTL at 
+
+. We will use commercially reasonable efforts to promptly determine and remedy the problem.   
+
