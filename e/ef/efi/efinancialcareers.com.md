@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919074551id_/http%3A//www.efinancialcareers.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efinancialcareers.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160306id_/http%3A//www.efinancialcareers.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Finance jobs, banking jobs, recruitment in investment banking & in the financial markets
 
@@ -126,9 +126,9 @@ We employ (or our third party advertising partner employs) a software technology
 
 **Third Party Advertisers**
 
-The ads appearing on this Website are delivered to users by FuseAds, our advertising partner. We share Website usage information about users with a reputable third party FuseAds for the purpose of targeting our Internet banner advertisements on this site. 
+The ads appearing on this Website are delivered to users by DoubleClick, our advertising partner. We share Website usage information about users with a reputable third party DoubleClick for the purpose of targeting our Internet banner advertisements on this site. 
 
-FuseAds uses cookies and clear gifs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that FuseAds collects and shares through this technology is not personally identifiable. 
+DoubleClick uses cookies and clear gifs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that DoubleClick collects and shares through this technology is not personally identifiable. 
 
 **Links to Other Sites**
 
