@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollywoodgames.net privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101185743id_/http%3A//www.hollywoodgames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodgames.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124128id_/http%3A//www.hollywoodgames.net/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - Hollywood celebrity Girl Games
+# PRIVACY POLICY - Hollywood celebrity Girls Games
 
 Hollywoodgames.net is committed to providing an entertaining, fun and educational service. We respect the privacy concerns of visitors to Hollywoodgames.net.
 
