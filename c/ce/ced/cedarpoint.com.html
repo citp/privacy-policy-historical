@@ -1,7 +1,22 @@
-<!--The following is the downloaded HTML source of the cedarpoint.com privacy policy that was archived on 2010-09-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100925055624id_/http%3A//www.cedarpoint.com/public/news/general/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cedarpoint.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101230541id_/http%3A//www.cedarpoint.com/public/news/general/privacy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" class="cufon-active cufon-ready"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" class="cufon-active cufon-ready"><head><script type="text/javascript">_cf_loadingtexthtml="<img alt=' ' src='/CFIDE/scripts/ajax/resources/cf/images/loading.gif'/>";
+_cf_contextpath="";
+_cf_ajaxscriptsrc="/CFIDE/scripts/ajax";
+_cf_jsonprefix='//';
+_cf_clientid='5950522457015D2E32A7FB19711172B4';</script><script type="text/javascript" src="/CFIDE/scripts/ajax/messages/cfmessage.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/ajax/package/cfajax.js"></script>
+
+<script type="text/javascript">
+	ColdFusion.Ajax.importTag('CFAJAXPROXY');
+</script>
+
+<script type="text/javascript">
+	var _cf_Remote=ColdFusion.AjaxProxy.init('/_c4/programs/eastereggs/v1/cfc/Remote.cfc','egg');
+	_cf_Remote.prototype.GetEggData=function(egg,instance,dsn) { return ColdFusion.AjaxProxy.invoke(this, "GetEggData", {egg:egg,instance:instance,dsn:dsn});};
+</script>
+
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		
 		
@@ -15,7 +30,7 @@
 		<meta name="Keywords" content="Cedar Point hotels, Sandusky hotels, Cedar Point tickets, discount Cedar Point Tickets, Cedar Point coupons, cheap Cedar Point tickets, Cedar Point"> <meta name="Description" content="Cedar Point - The Roller Coaster Capital of the World"> <meta property="og:url" content="http://www.cedarpoint.com/public/news/general/privacy.cfm"> <meta property="og:site_name" content="Cedar Point"> <meta property="fb:app_id" content="116081418414410"> 
 
 		
-		<link rel="stylesheet" media="screen" href="/_includes/styles/TT.css" type="text/css">
+		<link rel="stylesheet" media="screen" href="/_includes/styles/TT.css?a" type="text/css">
 		<link rel="stylesheet" media="print" href="/_includes/styles/print.css" type="text/css">
 		<link rel="stylesheet" media="screen" href="/_includes/styles/quickmenu.css" type="text/css">
 		<link rel="stylesheet" type="text/css" href="/_includes/styles/carousel.css">
@@ -43,7 +58,32 @@
 
 			
 		<link rel="icon" type="image/png" href="/_includes/images/favicon.png">
-	
+		
+<script src="/_c4/_scripts/jcookie/jquery.cookie.js"></script>
+
+<script>
+var priDSN = 'cp_cedarpoint-com_www_200804_sql';
+$(document).ready(function() {
+	$(".EasterEgg").click(function() {
+		var eeobj = new egg();
+		var e = $(this).attr("data-egg");
+		var i = $(this).attr("data-instance");
+		var t = $(this).attr("alt");
+		var f = $(this).hasClass("found");
+		var newDiv = $(document.createElement('div'));
+		newDiv.attr("title", "Easter Egg");
+		
+		if (!$.cookie(t)) {
+			$.cookie(t, "clicked!");	
+			var text = eeobj.GetEggData(e, i, priDSN);
+			newDiv.html(text);
+		}
+		else newDiv.html("<p>You already found this egg!</p>");
+		newDiv.dialog();
+	});
+});
+</script>
+
 
 	<script>
 		mediaserver_path = 'http://cp.media.cfnslb1.cedarfair.com'
@@ -51,8 +91,23 @@
 	</head>
 	
 		<body>
+	<div style="display:none">
+
+		<div id="popupVideoYT" style="padding:10px; background:#fff; height: 550px;">
+		</div>
+	</div>
+
 		<div id="content">
 			<script type="text/javascript">
+				function openReservationBox(hotelCode) {
+					$.colorbox({href:'/_includes/reservations.cfm?hotelCode='+hotelCode,width:540,height:410});
+				};
+				
+				function popupVideoYT(id) {
+					$('#popupVideoYT').html('<iframe width="800" height="450" frameborder="0" title="YouTube video player" type="text/html" src="http://www.youtube.com/embed/'+id+'?theme=light&amp;autohide=1&amp;rel=0&amp;showinfo=0&amp;modestbranding=1&amp;fs=1&amp;color=white&amp;enablejsapi=1&amp;autoplay=1&amp;origin=http://www.cedarpoint.com"></iframe>');
+					$.colorbox({width:"900", height:"650",inline:true, href:"#popupVideoYT",onCleanup:function() { $('#popupVideoYT').html(''); }});
+				}
+				
 				function displayPanel(panel) {
 					promoAutoChange = false;
 					$('#topPanelClose').show(0);
@@ -110,74 +165,14 @@
 			<div id="topPanelBG" onclick="closeTopPanels();"></div>
 			<div id="topPanelMenu">
 				<ul>
-					<li id="topPanelMenuHotels" class="unselected"><a href="javascript: displayPanel('Hotels')"></a></li>
+					
 					<li id="topPanelMenuRides" class="unselected"><a href="javascript: displayPanel('Rides')"></a></li>
 					<li id="topPanelMenuVideos" class="unselected"><a href="javascript: displayPanel('Videos')"></a></li>
 				</ul>
 				<img src="/_includes/images/skins/TT/top_panel_pointer.png" width="175" height="32" alt="" id="topPanelPointer">
 				<a href="javascript:closeTopPanels();"><img src="/_includes/images/skins/TT/button_panel_close.png" width="34" height="33" alt="Close" id="topPanelClose"></a>
 			</div>
-			<div id="panelHotels" class="topPanel">
-				<div class="topPanelContentContainer">
-					<div class="topPanelContent">
-						<img src="/_includes/images/skins/TT/bg_white_panel_top.png" width="860" height="10" class="topPanelContentBorders">
-						<div class="topPanelContentBody">
-							
-							<div id="topPanelContentBodyHotelLogos">
-								<a href="javascript: displayHotel('hotelPanel208',1)"><img id="hotelPanel208Logo" src="/_includes/images/skins/TT/media/logo_hotel_breakers.png" width="130" height="200" alt="Hotel Breakers" class="selected"></a> <a href="javascript: displayHotel('hotelPanel210',2)"><img id="hotelPanel210Logo" src="/_includes/images/skins/TT/media/logo_sandcastle_suites.png" width="130" height="200" alt="Sandcastle Suites"></a> <a href="javascript: displayHotel('hotelPanel209',3)"><img id="hotelPanel209Logo" src="/_includes/images/skins/TT/media/logo_lighthouse_point.png" width="130" height="200" alt="Lighthouse Point"></a> <a href="javascript: displayHotel('hotelPanel206',4)"><img id="hotelPanel206Logo" src="/_includes/images/skins/TT/media/logo_camper_village.png" width="130" height="200" alt="Camper Village"></a> <a href="javascript: displayHotel('hotelPanel205',5)"><img id="hotelPanel205Logo" src="/_includes/images/skins/TT/media/logo_breakers_express.png" width="130" height="200" alt="Breakers Express"></a> <a href="javascript: displayHotel('hotelPanel207',6)"><img id="hotelPanel207Logo" src="/_includes/images/skins/TT/media/logo_castaway_bay.png" width="130" height="200" alt="Castaway Bay"></a> 
-							</div>
-							<img src="/_includes/images/skins/TT/top_panel_hotels_icons.png" width="206" height="70" alt="" style="position: absolute; z-index: 12; left: 677px; top: 123px;">
-							<img src="/_includes/images/skins/TT/top_panel_content_info_pointer.png" width="130" height="24" alt="" id="topPanelHotelsContentInfoPointer">
-							<div class="topPanelContentInfo">
-								<div id="hotelPanel208" class="hotelPanelContent" style="visibility: visible;">
-												<div class="hotelPanelContentBody"><h3>Hotel Breakers</h3>The classic beachfront Hotel Breakers offers deluxe resort accommodations flavored with incomparable turn-of-the-century ambience.</div>
-												
-												<img class="hotelPanelContentThumbnail" src="/_upload/images/thumbnails/hotel_breakers.jpg" alt="Hotel Breakers" width="175" height="130">
-												
-												<a href="/public/park/resorts/hotels/hotel_breakers.cfm"><img class="hotelPanelContentLink" src="/_includes/images/skins/TT/button_learn_more_and_book_your_reservation.png" alt="Learn More and Book Your Reservation" width="269" height="33"></a>
-												
-											</div> <div id="hotelPanel210" class="hotelPanelContent">
-												<div class="hotelPanelContentBody"><h3>Sandcastle Suites</h3>Located at the very tip of the Cedar Point Peninsula near Soak City, Sandcastle Suites is bordered by Lake Erie and Sandusky Bay.</div>
-												
-												<img class="hotelPanelContentThumbnail" src="/_upload/images/thumbnails/sandcastle_suites.jpg" alt="Sandcastle Suites" width="175" height="130">
-												
-												<a href="/public/park/resorts/hotels/sandcastle_suites.cfm"><img class="hotelPanelContentLink" src="/_includes/images/skins/TT/button_learn_more_and_book_your_reservation.png" alt="Learn More and Book Your Reservation" width="269" height="33"></a>
-												
-											</div> <div id="hotelPanel209" class="hotelPanelContent">
-												<div class="hotelPanelContentBody"><h3>Lighthouse Point</h3>You don't have to go to Nantucket to experience the charm of a quaint waterfront community with cozy cottages and cabins!</div>
-												
-												<img class="hotelPanelContentThumbnail" src="/_upload/images/thumbnails/lighthouse_point.jpg" alt="Lighthouse Point" width="175" height="130">
-												
-												<a href="/public/park/resorts/hotels/lighthouse_point.cfm"><img class="hotelPanelContentLink" src="/_includes/images/skins/TT/button_learn_more_and_book_your_reservation.png" alt="Learn More and Book Your Reservation" width="269" height="33"></a>
-												
-											</div> <div id="hotelPanel206" class="hotelPanelContent">
-												<div class="hotelPanelContentBody"><h3>Camper Village</h3>Do you enjoy the great outdoors? Campers can take advantage of Cedar Point's Camper Village RV campground nestled between Lake Erie and the park's roller coaster hills.</div>
-												
-												<img class="hotelPanelContentThumbnail" src="/_upload/images/thumbnails/camper_village.jpg" alt="Camper Village" width="175" height="130">
-												
-												<a href="/public/park/resorts/hotels/camper_village.cfm"><img class="hotelPanelContentLink" src="/_includes/images/skins/TT/button_learn_more_and_book_your_reservation.png" alt="Learn More and Book Your Reservation" width="269" height="33"></a>
-												
-											</div> <div id="hotelPanel205" class="hotelPanelContent">
-												<div class="hotelPanelContentBody"><h3>Breakers Express</h3>Breakers Express is just a short drive from the Main Entrance to Cedar Point and offers great accommodations at a great price.</div>
-												
-												<img class="hotelPanelContentThumbnail" src="/_upload/images/thumbnails/breakers_express.jpg" alt="Breakers Express" width="175" height="130">
-												
-												<a href="/public/park/resorts/hotels/breakers_express.cfm"><img class="hotelPanelContentLink" src="/_includes/images/skins/TT/button_learn_more_and_book_your_reservation.png" alt="Learn More and Book Your Reservation" width="269" height="33"></a>
-												
-											</div> <div id="hotelPanel207" class="hotelPanelContent">
-												<div class="hotelPanelContentBody"><h3>Castaway Bay</h3>Escape to Cedar Point's Caribbean paradise right here in Sandusky!  It's a year-round indoor waterpark resort that caters to families.</div>
-												
-												<img class="hotelPanelContentThumbnail" src="/_upload/images/thumbnails/castaway_bay.jpg" alt="Castaway Bay" width="175" height="130">
-												
-												<a href="/public/park/resorts/hotels/castaway_bay.cfm"><img class="hotelPanelContentLink" src="/_includes/images/skins/TT/button_learn_more_and_book_your_reservation.png" alt="Learn More and Book Your Reservation" width="269" height="33"></a>
-												
-											</div> 
-							</div>
-						</div>
-						<img src="/_includes/images/skins/TT/bg_white_panel_bottom.png" width="860" height="10" class="topPanelContentBorders">
-					</div>
-				</div>
-			</div>
+			
 			<div id="panelRides" class="topPanel">
 				<div class="topPanelContentContainer">
 					<div class="topPanelContent">
@@ -185,34 +180,32 @@
 						<div class="topPanelContentBody">
 							
 							<div id="topPanelContentBodyRideLogos">
-								<a href="javascript: displayRide('ridePanel41',1)"><img id="ridePanel41Logo" src="/_includes/images/skins/TT/MEDIA/logo_maxair.png" width="195" height="100" alt="maXair" class="selected"></a> <a href="javascript: displayRide('ridePanel25',2)"><img id="ridePanel25Logo" src="/_includes/images/skins/TT/MEDIA/logo_millennium_force.png" width="195" height="100" alt="Millennium Force"></a> <a href="javascript: displayRide('ridePanel14',3)"><img id="ridePanel14Logo" src="/_includes/images/skins/TT/MEDIA/logo_blue_streak.png" width="195" height="100" alt="Blue Streak"></a> <a href="javascript: displayRide('ridePanel21',4)"><img id="ridePanel21Logo" src="/_includes/images/skins/TT/MEDIA/logo_magnum_xl_200.png" width="195" height="100" alt="Magnum XL-200"></a> 
+								<a href="javascript: displayRide('ridePanel21',1)"><img id="ridePanel21Logo" src="/_includes/images/skins/TT/MEDIA/logo_magnum_xl_200.png" width="195" height="100" alt="Magnum XL-200" class="selected"></a> <a href="javascript: displayRide('ridePanel14',2)"><img id="ridePanel14Logo" src="/_includes/images/skins/TT/MEDIA/logo_blue_streak.png" width="195" height="100" alt="Blue Streak"></a> <a href="javascript: displayRide('ridePanel28',3)"><img id="ridePanel28Logo" src="/_includes/images/skins/TT/MEDIA/logo_wicked_twister.png" width="195" height="100" alt="Wicked Twister"></a> <a href="javascript: displayRide('ridePanel22',4)"><img id="ridePanel22Logo" src="/_includes/images/skins/TT/MEDIA/logo_mantis.png" width="195" height="100" alt="Mantis"></a> 
 							</div>
 							<img src="/_includes/images/skins/TT/top_panel_content_info_pointer.png" width="130" height="24" alt="" id="topPanelRidesContentInfoPointer">
 							<div class="topPanelContentInfo">
-								<div id="ridePanel41" class="ridePanelContent" style="visibility: visible;">
-												<div class="ridePanelContentBody"><p>Opened in 2005, maXair provides the amazing sensation of airtime. 50 riders strap in with their feet dangling below as the giant ring they're seated in starts to spin. Then, the ring is set into a pendulum motion, reaching a height of 140 feet! Fly back and forth during this 2-minute, 30-second ride.</p>
-<p><a href="http://www.youtube.com/watch?v=baH0FTRvA28" target="_blank">Click here to take a virtual ride on maXair</a></p>
-<p>Riders must be 52" tall to ride. Located near Kiddy Kingdom.</p></div>
+								<div id="ridePanel21" class="ridePanelContent" style="visibility: visible;">
+												<div class="ridePanelContentBody">It's the coaster by which all others are measured. Magnum broke records when it opened in 1989. Ride this steel monument of thrill and experience a true coaster legend.</div>
 												
-												<img class="ridePanelContentThumbnail" src="/_upload/images/thumbnails/maxair.jpg" alt="maXair" width="175" height="130">
-												
-												<a href="/public/park/rides/height_guide.cfm"><img class="ridePanelContentLink" src="/_includes/images/skins/TT/button_click_here_to_view_rides.png" alt="View All Rides" width="201" height="33"></a>
-											</div> <div id="ridePanel25" class="ridePanelContent">
-												<div class="ridePanelContentBody">The park's 310-foot-tall steel screamer, Millennium Force, is ready to take you to dizzying heights and unheard of speeds. The Future Is Riding On It. Right now.</div>
-												
-												<img class="ridePanelContentThumbnail" src="/_upload/images/thumbnails/millennium_force.jpg" alt="Millennium Force" width="175" height="130">
+												<img class="ridePanelContentThumbnail" src="http://cp.media.cfnslb1.cedarfair.com/_upload/images/thumbnails/magnum.jpg" alt="Magnum XL-200" width="175" height="130">
 												
 												<a href="/public/park/rides/height_guide.cfm"><img class="ridePanelContentLink" src="/_includes/images/skins/TT/button_click_here_to_view_rides.png" alt="View All Rides" width="201" height="33"></a>
 											</div> <div id="ridePanel14" class="ridePanelContent">
 												<div class="ridePanelContentBody">The Blue Streak, one of the park's traditional wood coasters, has been providing ups and downs to guests since 1964.</div>
 												
-												<img class="ridePanelContentThumbnail" src="/_upload/images/thumbnails/blue_streak.jpg" alt="Blue Streak" width="175" height="130">
+												<img class="ridePanelContentThumbnail" src="http://cp.media.cfnslb1.cedarfair.com/_upload/images/thumbnails/blue_streak.jpg" alt="Blue Streak" width="175" height="130">
 												
 												<a href="/public/park/rides/height_guide.cfm"><img class="ridePanelContentLink" src="/_includes/images/skins/TT/button_click_here_to_view_rides.png" alt="View All Rides" width="201" height="33"></a>
-											</div> <div id="ridePanel21" class="ridePanelContent">
-												<div class="ridePanelContentBody">It's the coaster by which all others are measured. Magnum broke records when it opened in 1989. Ride this steel monument of thrill and experience a true coaster legend.</div>
+											</div> <div id="ridePanel28" class="ridePanelContent">
+												<div class="ridePanelContentBody">Wicked Twister launches you forward. Then launches you backward. And forward again. Enjoy an exhilarating thrill on the park's twisty impulse coaster, the tallest of its kind in the world!</div>
 												
-												<img class="ridePanelContentThumbnail" src="/_upload/images/thumbnails/magnum.jpg" alt="Magnum XL-200" width="175" height="130">
+												<img class="ridePanelContentThumbnail" src="http://cp.media.cfnslb1.cedarfair.com/_upload/images/thumbnails/wicked_twister.jpg" alt="Wicked Twister" width="175" height="130">
+												
+												<a href="/public/park/rides/height_guide.cfm"><img class="ridePanelContentLink" src="/_includes/images/skins/TT/button_click_here_to_view_rides.png" alt="View All Rides" width="201" height="33"></a>
+											</div> <div id="ridePanel22" class="ridePanelContent">
+												<div class="ridePanelContentBody">Experience real coaster thrills, loops and speed - all while standing up! Mantis is one of the tallest and fastest stand-up coasters in the world.</div>
+												
+												<img class="ridePanelContentThumbnail" src="http://cp.media.cfnslb1.cedarfair.com/_upload/images/thumbnails/mantis.jpg" alt="Mantis" width="175" height="130">
 												
 												<a href="/public/park/rides/height_guide.cfm"><img class="ridePanelContentLink" src="/_includes/images/skins/TT/button_click_here_to_view_rides.png" alt="View All Rides" width="201" height="33"></a>
 											</div> 
@@ -261,13 +254,13 @@
 							      
 							      // The "main method" of this sample. Called when someone clicks "Run".
 							      function loadPlayer() {
-							        var videoID = "PxwA4ss3J4Y"
+							        var videoID = "8zsWYEiIIPI"
 							        var params = { allowScriptAccess: "always" };
 							        var atts = { id: "ytPlayer" };
 							        swfobject.embedSWF("http://www.youtube.com/v/" + videoID +
 							                           "&enablejsapi=1&playerapiid=player1&rel=0",
 							                           "topPanelYouTubeVideoDiv", "589", "362", "8", null, null, params, atts);
-							       	// $('#youTubeVideoTitle').text('Cedar Point View From a Blimp');
+							       	// $('#youTubeVideoTitle').text('Cedar Point - The Best Amusement Park in the World!');
 							      }
 							      function _run() {
 							        loadPlayer();
@@ -313,103 +306,103 @@
 									<div id="topPanelYouTubeEntryContainerMover">
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('PxwA4ss3J4Y','Cedar Point View From a Blimp');"><img src="http://i.ytimg.com/vi/PxwA4ss3J4Y/2.jpg" width="120" height="90" alt="Cedar Point View From a Blimp"></a> <p class="youTubeEntryTitle">Cedar Point View From a Blimp</p>
+										<a href="javascript:onClick=loadVideo('8zsWYEiIIPI','Cedar Point - The Best Amusement Park in the World!');"><img src="http://i.ytimg.com/vi/8zsWYEiIIPI/1.jpg" width="120" height="90" alt="Cedar Point - The Best Amusement Park in the World!"></a> <p class="youTubeEntryTitle">Cedar Point - The Best Amusement Park in the World!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('d4TCZySY0m8','Dick Kinzel, Cedar Fair CEO, comments on WindSeeker at Cedar Point');"><img src="http://i.ytimg.com/vi/d4TCZySY0m8/2.jpg" width="120" height="90" alt="Dick Kinzel, Cedar Fair CEO, comments on WindSeeker at Cedar Point"></a> <p class="youTubeEntryTitle">Dick Kinzel, Cedar Fair CEO, comments on WindSeeker at Cedar Point</p>
+										<a href="javascript:onClick=loadVideo('To3jujFzwHg','NEW! Official Millennium Force POV');"><img src="http://i.ytimg.com/vi/To3jujFzwHg/1.jpg" width="120" height="90" alt="NEW! Official Millennium Force POV"></a> <p class="youTubeEntryTitle">NEW! Official Millennium Force POV</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('v-yUryBiCpE','John Hildebrandt, CP GM, comments on WindSeeker at Cedar Point');"><img src="http://i.ytimg.com/vi/v-yUryBiCpE/2.jpg" width="120" height="90" alt="John Hildebrandt, CP GM, comments on WindSeeker at Cedar Point"></a> <p class="youTubeEntryTitle">John Hildebrandt, CP GM, comments on WindSeeker at Cedar Point</p>
+										<a href="javascript:onClick=loadVideo('LufPxhbEjY4','HalloWeekends Parade - Snoopy Vision!');"><img src="http://i.ytimg.com/vi/LufPxhbEjY4/1.jpg" width="120" height="90" alt="HalloWeekends Parade - Snoopy Vision!"></a> <p class="youTubeEntryTitle">HalloWeekends Parade - Snoopy Vision!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('j9v_gIK9dzU','WindSeeker - New at Cedar Point in 2011');"><img src="http://i.ytimg.com/vi/j9v_gIK9dzU/2.jpg" width="120" height="90" alt="WindSeeker - New at Cedar Point in 2011"></a> <p class="youTubeEntryTitle">WindSeeker - New at Cedar Point in 2011</p>
+										<a href="javascript:onClick=loadVideo('Y3AeI0iJIFY','Cedar Point\'s Award Winning Entertainment');"><img src="http://i.ytimg.com/vi/Y3AeI0iJIFY/1.jpg" width="120" height="90" alt="Cedar Point's Award Winning Entertainment"></a> <p class="youTubeEntryTitle">Cedar Point's Award Winning Entertainment</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('uDKcPAGtPSE','Millennium Force\'s 10th Anniversary');"><img src="http://i.ytimg.com/vi/uDKcPAGtPSE/2.jpg" width="120" height="90" alt="Millennium Force's 10th Anniversary"></a> <p class="youTubeEntryTitle">Millennium Force's 10th Anniversary</p>
+										<a href="javascript:onClick=loadVideo('4JOWje0w52w','All You Fear... is HERE!');"><img src="http://i.ytimg.com/vi/4JOWje0w52w/1.jpg" width="120" height="90" alt="All You Fear... is HERE!"></a> <p class="youTubeEntryTitle">All You Fear... is HERE!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('2qYvnuVDpQM','Celebrating Snoopy\'s Birthday at Cedar Point');"><img src="http://i.ytimg.com/vi/2qYvnuVDpQM/2.jpg" width="120" height="90" alt="Celebrating Snoopy's Birthday at Cedar Point"></a> <p class="youTubeEntryTitle">Celebrating Snoopy's Birthday at Cedar Point</p>
+										<a href="javascript:onClick=loadVideo('tK4C3CUDwhs','PointCast - HalloWeekends Preparations!');"><img src="http://i.ytimg.com/vi/tK4C3CUDwhs/1.jpg" width="120" height="90" alt="PointCast - HalloWeekends Preparations!"></a> <p class="youTubeEntryTitle">PointCast - HalloWeekends Preparations!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('ypEzcgJG9fQ','2010 PointCast #2');"><img src="http://i.ytimg.com/vi/ypEzcgJG9fQ/2.jpg" width="120" height="90" alt="2010 PointCast #2"></a> <p class="youTubeEntryTitle">2010 PointCast #2</p>
+										<a href="javascript:onClick=loadVideo('QvOYxpKrhGM','NEW for HalloWeekends 2011 - Blood on the Bayou');"><img src="http://i.ytimg.com/vi/QvOYxpKrhGM/1.jpg" width="120" height="90" alt="NEW for HalloWeekends 2011 - Blood on the Bayou"></a> <p class="youTubeEntryTitle">NEW for HalloWeekends 2011 - Blood on the Bayou</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('shCyUzTqdto','Official Shoot the Rapids POV in HD');"><img src="http://i.ytimg.com/vi/shCyUzTqdto/2.jpg" width="120" height="90" alt="Official Shoot the Rapids POV in HD"></a> <p class="youTubeEntryTitle">Official Shoot the Rapids POV in HD</p>
+										<a href="javascript:onClick=loadVideo('AweumrRMe4g','Wheels of Thunder at Cedar Point');"><img src="http://i.ytimg.com/vi/AweumrRMe4g/1.jpg" width="120" height="90" alt="Wheels of Thunder at Cedar Point"></a> <p class="youTubeEntryTitle">Wheels of Thunder at Cedar Point</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('7kJ6UBIxvLs','Shoot the Rapids Opening Day');"><img src="http://i.ytimg.com/vi/7kJ6UBIxvLs/2.jpg" width="120" height="90" alt="Shoot the Rapids Opening Day"></a> <p class="youTubeEntryTitle">Shoot the Rapids Opening Day</p>
+										<a href="javascript:onClick=loadVideo('t27aB9KJ3lM','New in 2012: Dinosaurs Alive!');"><img src="http://i.ytimg.com/vi/t27aB9KJ3lM/1.jpg" width="120" height="90" alt="New in 2012: Dinosaurs Alive!"></a> <p class="youTubeEntryTitle">New in 2012: Dinosaurs Alive!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('D9wKRtrje-M','Official Power Tower (shot side) POV in HD');"><img src="http://i.ytimg.com/vi/D9wKRtrje-M/2.jpg" width="120" height="90" alt="Official Power Tower (shot side) POV in HD"></a> <p class="youTubeEntryTitle">Official Power Tower (shot side) POV in HD</p>
+										<a href="javascript:onClick=loadVideo('2kS8JBPJNQc','WindSeeker at Night');"><img src="http://i.ytimg.com/vi/2kS8JBPJNQc/1.jpg" width="120" height="90" alt="WindSeeker at Night"></a> <p class="youTubeEntryTitle">WindSeeker at Night</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('OyOEWslMzhA','Official Power Tower (drop side) POV in HD');"><img src="http://i.ytimg.com/vi/OyOEWslMzhA/2.jpg" width="120" height="90" alt="Official Power Tower (drop side) POV in HD"></a> <p class="youTubeEntryTitle">Official Power Tower (drop side) POV in HD</p>
+										<a href="javascript:onClick=loadVideo('D2LzIFQhLyo','PointCast - Behind the Scenes at a Commercial Shoot');"><img src="http://i.ytimg.com/vi/D2LzIFQhLyo/1.jpg" width="120" height="90" alt="PointCast - Behind the Scenes at a Commercial Shoot"></a> <p class="youTubeEntryTitle">PointCast - Behind the Scenes at a Commercial Shoot</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('R3ZvfKqVfC0','Official WildCat POV in HD');"><img src="http://i.ytimg.com/vi/R3ZvfKqVfC0/2.jpg" width="120" height="90" alt="Official WildCat POV in HD"></a> <p class="youTubeEntryTitle">Official WildCat POV in HD</p>
+										<a href="javascript:onClick=loadVideo('VkxctLs5zEc','PointCast - Visiting a Past Attraction!');"><img src="http://i.ytimg.com/vi/VkxctLs5zEc/1.jpg" width="120" height="90" alt="PointCast - Visiting a Past Attraction!"></a> <p class="youTubeEntryTitle">PointCast - Visiting a Past Attraction!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('baH0FTRvA28','Official maXair POV in HD');"><img src="http://i.ytimg.com/vi/baH0FTRvA28/2.jpg" width="120" height="90" alt="Official maXair POV in HD"></a> <p class="youTubeEntryTitle">Official maXair POV in HD</p>
+										<a href="javascript:onClick=loadVideo('oNF14zWH90Y','PointCast - What did you think of WindSeeker?');"><img src="http://i.ytimg.com/vi/oNF14zWH90Y/1.jpg" width="120" height="90" alt="PointCast - What did you think of WindSeeker?"></a> <p class="youTubeEntryTitle">PointCast - What did you think of WindSeeker?</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('wHdyZrbL2QQ','2010 Opening Day Ceremony');"><img src="http://i.ytimg.com/vi/wHdyZrbL2QQ/2.jpg" width="120" height="90" alt="2010 Opening Day Ceremony"></a> <p class="youTubeEntryTitle">2010 Opening Day Ceremony</p>
+										<a href="javascript:onClick=loadVideo('oQP7vmRh0Ow','Experience WindSeeker!');"><img src="http://i.ytimg.com/vi/oQP7vmRh0Ow/1.jpg" width="120" height="90" alt="Experience WindSeeker!"></a> <p class="youTubeEntryTitle">Experience WindSeeker!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('-ix_UrSjUp0','Sir Rub-a-Dub\'s Tubs Official POV');"><img src="http://i.ytimg.com/vi/-ix_UrSjUp0/2.jpg" width="120" height="90" alt="Sir Rub-a-Dub's Tubs Official POV"></a> <p class="youTubeEntryTitle">Sir Rub-a-Dub's Tubs Official POV</p>
+										<a href="javascript:onClick=loadVideo('RajHACcL8gA','Point Cast! - Getting Ready for Opening Day');"><img src="http://i.ytimg.com/vi/RajHACcL8gA/1.jpg" width="120" height="90" alt="Point Cast! - Getting Ready for Opening Day"></a> <p class="youTubeEntryTitle">Point Cast! - Getting Ready for Opening Day</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('R2yT-uuLydE','2010 PointCast #1');"><img src="http://i.ytimg.com/vi/R2yT-uuLydE/2.jpg" width="120" height="90" alt="2010 PointCast #1"></a> <p class="youTubeEntryTitle">2010 PointCast #1</p>
+										<a href="javascript:onClick=loadVideo('h7pRvcKS2D4','See You This Summer!');"><img src="http://i.ytimg.com/vi/h7pRvcKS2D4/1.jpg" width="120" height="90" alt="See You This Summer!"></a> <p class="youTubeEntryTitle">See You This Summer!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('mCJ1-5QQ7ag','Jennie Goes To Cali');"><img src="http://i.ytimg.com/vi/mCJ1-5QQ7ag/2.jpg" width="120" height="90" alt="Jennie Goes To Cali"></a> <p class="youTubeEntryTitle">Jennie Goes To Cali</p>
+										<a href="javascript:onClick=loadVideo('oOr42NUMobo','Bolina Family Cedar Point VIF.m4v');"><img src="http://i.ytimg.com/vi/oOr42NUMobo/1.jpg" width="120" height="90" alt="Bolina Family Cedar Point VIF.m4v"></a> <p class="youTubeEntryTitle">Bolina Family Cedar Point VIF.m4v</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('yclFK_fdyvg','Ladies (And Guys) of Clean');"><img src="http://i.ytimg.com/vi/yclFK_fdyvg/2.jpg" width="120" height="90" alt="Ladies (And Guys) of Clean"></a> <p class="youTubeEntryTitle">Ladies (And Guys) of Clean</p>
+										<a href="javascript:onClick=loadVideo('DKbd67e7C6I','PointCast - Lions, Tigers and Donkeys, Oh My!');"><img src="http://i.ytimg.com/vi/DKbd67e7C6I/1.jpg" width="120" height="90" alt="PointCast - Lions, Tigers and Donkeys, Oh My!"></a> <p class="youTubeEntryTitle">PointCast - Lions, Tigers and Donkeys, Oh My!</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('Hpq7WR-NwlQ','Official Maverick Reverse-Reverse POV');"><img src="http://i.ytimg.com/vi/Hpq7WR-NwlQ/2.jpg" width="120" height="90" alt="Official Maverick Reverse-Reverse POV"></a> <p class="youTubeEntryTitle">Official Maverick Reverse-Reverse POV</p>
+										<a href="javascript:onClick=loadVideo('b-InDqB-Bro','Ride Madness 2011');"><img src="http://i.ytimg.com/vi/b-InDqB-Bro/1.jpg" width="120" height="90" alt="Ride Madness 2011"></a> <p class="youTubeEntryTitle">Ride Madness 2011</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('YbyB9N4mvq4','Official Maverick POV in HD');"><img src="http://i.ytimg.com/vi/YbyB9N4mvq4/2.jpg" width="120" height="90" alt="Official Maverick POV in HD"></a> <p class="youTubeEntryTitle">Official Maverick POV in HD</p>
+										<a href="javascript:onClick=loadVideo('aDp-nNg3o6s','WindSeeker Foundation Concrete Pour Jan. 14, 2011');"><img src="http://i.ytimg.com/vi/aDp-nNg3o6s/1.jpg" width="120" height="90" alt="WindSeeker Foundation Concrete Pour Jan. 14, 2011"></a> <p class="youTubeEntryTitle">WindSeeker Foundation Concrete Pour Jan. 14, 2011</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('tjtq6RX7pLE','2009 PointCast Episode Six');"><img src="http://i.ytimg.com/vi/tjtq6RX7pLE/2.jpg" width="120" height="90" alt="2009 PointCast Episode Six"></a> <p class="youTubeEntryTitle">2009 PointCast Episode Six</p>
+										<a href="javascript:onClick=loadVideo('mikn090LClg','Cedar Point Year in Review');"><img src="http://i.ytimg.com/vi/mikn090LClg/1.jpg" width="120" height="90" alt="Cedar Point Year in Review"></a> <p class="youTubeEntryTitle">Cedar Point Year in Review</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('eh8lL0OKDJY','Official Millennium Force Reverse-Reverse POV');"><img src="http://i.ytimg.com/vi/eh8lL0OKDJY/2.jpg" width="120" height="90" alt="Official Millennium Force Reverse-Reverse POV"></a> <p class="youTubeEntryTitle">Official Millennium Force Reverse-Reverse POV</p>
+										<a href="javascript:onClick=loadVideo('OhE9Sxj17KE','Making of a HalloWeekends Screamster');"><img src="http://i.ytimg.com/vi/OhE9Sxj17KE/1.jpg" width="120" height="90" alt="Making of a HalloWeekends Screamster"></a> <p class="youTubeEntryTitle">Making of a HalloWeekends Screamster</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('jbXPhOFRxTc','Official Millennium Force POV in HD');"><img src="http://i.ytimg.com/vi/jbXPhOFRxTc/2.jpg" width="120" height="90" alt="Official Millennium Force POV in HD"></a> <p class="youTubeEntryTitle">Official Millennium Force POV in HD</p>
+										<a href="javascript:onClick=loadVideo('PxwA4ss3J4Y','Cedar Point View From a Blimp');"><img src="http://i.ytimg.com/vi/PxwA4ss3J4Y/1.jpg" width="120" height="90" alt="Cedar Point View From a Blimp"></a> <p class="youTubeEntryTitle">Cedar Point View From a Blimp</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('LbN3NU4hIZg','Official Top Thrill Dragster POV in HD');"><img src="http://i.ytimg.com/vi/LbN3NU4hIZg/2.jpg" width="120" height="90" alt="Official Top Thrill Dragster POV in HD"></a> <p class="youTubeEntryTitle">Official Top Thrill Dragster POV in HD</p>
+										<a href="javascript:onClick=loadVideo('d4TCZySY0m8','Dick Kinzel, Cedar Fair CEO, comments on WindSeeker at Cedar Point');"><img src="http://i.ytimg.com/vi/d4TCZySY0m8/1.jpg" width="120" height="90" alt="Dick Kinzel, Cedar Fair CEO, comments on WindSeeker at Cedar Point"></a> <p class="youTubeEntryTitle">Dick Kinzel, Cedar Fair CEO, comments on WindSeeker at Cedar Point</p>
 										</div>
 									
 										<div class="youTubeEntry">
-										<a href="javascript:onClick=loadVideo('-Qt1LutrWnY','Official Raptor POV In HD');"><img src="http://i.ytimg.com/vi/-Qt1LutrWnY/2.jpg" width="120" height="90" alt="Official Raptor POV In HD"></a> <p class="youTubeEntryTitle">Official Raptor POV In HD</p>
+										<a href="javascript:onClick=loadVideo('v-yUryBiCpE','John Hildebrandt, CP GM, comments on WindSeeker at Cedar Point');"><img src="http://i.ytimg.com/vi/v-yUryBiCpE/1.jpg" width="120" height="90" alt="John Hildebrandt, CP GM, comments on WindSeeker at Cedar Point"></a> <p class="youTubeEntryTitle">John Hildebrandt, CP GM, comments on WindSeeker at Cedar Point</p>
 										</div>
 									
 									</div>
@@ -424,30 +417,35 @@
 						<img src="/_includes/images/skins/TT/bg_white_panel_bottom.png" width="860" height="10" class="topPanelContentBorders">
 					</div>
 				</div>
-			</div>
+			</div> 
 			
 			<div id="header">
 				<div id="topArea">
+						<div style="position: absolute; margin: 30px 0 0 93px; z-index: 5">
+							
+						</div> 
 						<div id="logo">
 							<a href="/">
 								<img src="/_includes/images/logo_cp.png" alt="Cedar Point" width="257" height="66"> 
 							</a>
 						</div>
+						
 				</div>
 				<div id="topMenu">
 					<ul>
-						<li id="topMenuHotels"><a href="javascript: displayPanel('Hotels')"></a></li>
+						
 						<li id="topMenuRides"><a href="javascript: displayPanel('Rides')"></a></li>
 						<li id="topMenuVideos"><a href="javascript: displayPanel('Videos')"></a></li>
 					</ul>
 				</div>
 				
-				<a href="/public/admission/prices/"><img src="/_includes/images/skins/TT/button_buy_tickets.png" width="110" height="70" alt="Buy Tickets" id="topMenuBuyTickets"></a>
+				<a href="/public/park/resorts/hotels/"><img src="/_includes/images/skins/TT/button_book_hotels.png" width="116" height="67" alt="Book Hotels" id="topMenuBookHotels"></a>
+				<a href="http://tickets.cedarpoint.com/shop/shopping_general_admission.cfm" target="_blank"><img src="/_includes/images/skins/TT/button_buy_tickets.png" width="110" height="70" alt="Buy Tickets" id="topMenuBuyTickets"></a>
 			</div>
 			<a name="top"></a>
 			<div id="mainImage">
 		
-			<div id="mainImageImage"><img src="http://cp.media.cfnslb1.cedarfair.com/page_headers/news/privacy.jpg" alt="Privacy Policy"></div>
+			<div id="mainImageImage"><img src="http://cp.media.cfnslb1.cedarfair.com/_upload/images/page_headers/privacy.jpg" alt="Privacy Policy"></div>
 			<div id="mainImageCurve"><img src="/_includes/images/skins/TT/header_inside_curve.png" alt="Inside Curve" width="890" height="150"></div>
 			<div id="mainImageHeading"><h1><cufon class="cufon cufon-canvas" alt="PRIVACY " style="width: 148px; height: 34px;"><canvas width="173" height="35" style="width: 173px; height: 35px; top: -1px; left: -1px;"></canvas><cufontext>PRIVACY </cufontext></cufon><cufon class="cufon cufon-canvas" alt="POLICY" style="width: 119px; height: 34px;"><canvas width="133" height="35" style="width: 133px; height: 35px; top: -1px; left: -1px;"></canvas><cufontext>POLICY</cufontext></cufon></h1></div>
 			<div id="mainImageOverlay">
@@ -497,9 +495,11 @@
 		<ul class="subMenuDeepest">
    
 		
-						<li>
-							Privacy Policy 
-						</li>
+							<li class="subCatCurrent">
+								Privacy Policy
+							</li>
+							
+						
 					
 		
 			
@@ -602,15 +602,19 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 	
 			
 			
+					<li><a href="http://tickets.cedarpoint.com/shop/shopping_general_admission.cfm">Buy Tickets Online</a></li>
+				
+					<li><a href="/public/admission/prices/index.cfm">Ticket Info</a></li>
+				
 					<li><a href="/public/admission/season_passes/index.cfm">Season Passes</a></li>
-				
-					<li><a href="/public/admission/prices/index.cfm">Tickets</a></li>
-				
-					<li><a href="/public/admission/tickets/deals.cfm">Online Deals</a></li>
 				
 					<li><a href="/public/admission/groups/index.cfm">Group Sales</a></li>
 				
 					<li><a href="/public/admission/vip.cfm">VIP Tours</a></li>
+				
+					<li><a href="/public/admission/retailpartners.cfm">Retail Partners</a></li>
+				
+					<li><a href="http://www.cedarpoint.com/public/park/resorts/hotels/">Resorts Savings</a></li>
 				
 			</ul>
 		
@@ -642,26 +646,28 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 				
 					<li><a href="/public/visit/schedule/events.cfm">Events Calendar</a></li>
 				
+					<li><a href="/public/visit/brochures.cfm">Getaway Guide</a></li>
+				
+					<li><a href="/public/visit/weather.cfm">Weather</a></li>
+				
+					<li><a href="/public/visit/halloweekends.cfm">HalloWeekends</a></li>
+				
+			</ul>
+		
+                    </li>    
+                    <li class="GuestInformation"><a href="/public/visit/amenities.cfm">Guest Information</a>
+                    	
+		<ul>
+	
+			
+			
 					<li><a href="/public/visit/amenities.cfm">Guest Amenities</a></li>
 				
 					<li><a href="/public/visit/faq.cfm">FAQ</a></li>
 				
 					<li><a href="/public/visit/special_needs.cfm">Guests with Special Needs</a></li>
 				
-					<li><a href="/public/visit/brochures.cfm">Getaway Guide</a></li>
-				
-			</ul>
-		
-                    </li>    
-                    <li class="HotelsAndMarinas"><a href="/public/park/resorts/index.cfm">Hotels &amp; Marinas</a>
-                    	
-		<ul>
-	
-			
-			
-					<li><a href="/public/park/resorts/hotels/index.cfm">Hotel Properties</a></li>
-				
-					<li><a href="/public/park/resorts/marinas/index.cfm">Marinas</a></li>
+					<li><a href="/public/park/rides/ride_policy.cfm">Policies and Procedures</a></li>
 				
 			</ul>
 		
@@ -683,11 +689,26 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 				
 					<li><a href="/public/park/food/index.cfm">Food</a></li>
 				
+					<li><a href="/public/park/family.cfm">Fun for Young Families</a></li>
+				
+			</ul>
+		
+                    </li>    
+                	<li class="OutsideThePark"><a>Outside The Park</a>
+						
+		<ul>
+	
+			
+			
 					<li><a href="/public/park/soakcity/index.cfm">Soak City</a></li>
 				
 					<li><a href="/public/park/challenge_park/index.cfm">Challenge Park</a></li>
 				
-					<li><a href="/public/park/parasail.cfm">Fun On The Water</a></li>
+					<li><a href="/public/park/food/full_out/index.cfm">Restaurants</a></li>
+				
+					<li><a href="/public/park/fun_on_the_water.cfm">Fishing Charters - Boat Tours</a></li>
+				
+					<li><a href="/public/park/North_Coast_Parasail.cfm">Parasail - Jet Ski - Boat Charters</a></li>
 				
 			</ul>
 		
@@ -715,6 +736,19 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 			</ul>
 		
                     </li>    
+                    <li class="HotelsAndMarinas"><a href="/public/park/resorts/index.cfm">Hotels &amp; Marinas</a>
+                    	
+		<ul>
+	
+			
+			
+					<li><a href="/public/park/resorts/hotels/index.cfm">Hotel Properties</a></li>
+				
+					<li><a href="/public/park/resorts/marinas/index.cfm">Marinas</a></li>
+				
+			</ul>
+		
+                    </li>    
                 </ul>
             </li>
             <li><a href="/public/news/index.cfm" class="News"></a>
@@ -728,8 +762,6 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 					<li><a href="/public/news/funtimes/index.cfm">FUNtimes Newsletter</a></li>
 				
 					<li><a href="/public/news/history/index.cfm">Park History</a></li>
-				
-					<li><a href="/public/news/media/awards.cfm">Awards</a></li>
 				
 					<li><a href="/public/news/media/index.cfm">News Media</a></li>
 				
@@ -750,11 +782,15 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 			
 					<li><a href="/public/fun/webcams/index.cfm">Park Webcams</a></li>
 				
+					<li><a href="/public/fun/blog/index.cfm">OnPoint! - The CP Blog</a></li>
+				
 					<li><a href="/public/fun/extra/index.cfm">Extra Point!</a></li>
 				
 					<li><a href="/public/fun/poll/index.cfm">Point Poll</a></li>
 				
 					<li><a href="http://www.castawaybay.com/public/children/club.cfm">Castaway Bay Birthday Club</a></li>
+				
+					<li><a href="/public/fun/Cedar_Point_MyPark.cfm">MyPark Smartphone App</a></li>
 				
 			</ul>
 		
@@ -794,7 +830,7 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 				
 					<li><a href="/public/jobs/fund_raising.cfm">Fund-Raising</a></li>
 				
-					<li><a href="/public/jobs/alumni/index.cfm">Alumni</a></li>
+					<li><a href="/public/jobs/summer/year_round.cfm">Year-Round jobs</a></li>
 				
 			</ul>
 		
@@ -826,7 +862,7 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 	<span>General Information (419) 627-2350</span>
 </div>
 <div id="links">
-      	<span><a href="http://www.cedarfair.com" target="_blank">© 2010 Cedar Fair Entertainment Company</a></span> |
+      	<span><a href="http://www.cedarfair.com" target="_blank">© 2011 Cedar Fair Entertainment Company</a></span> |
 	<span> © 2010 Peanuts Worldwide LLC </span> |
 	<span><a href="/public/news/general/sponsors.cfm">Sponsors</a></span> |
 	<span><a href="/public/news/general/privacy.cfm">Privacy</a></span> |
@@ -837,10 +873,15 @@ ul.Level2 li, ul.Level2 li ul, ul.Level2 li ul li, ul.Level2 li ul li a { width:
 </div>
 <div id="socialbar">
 	<div>
+	   	<a href="http://www.cedarfair.com/" target="_blank">
+			<img align="right" src="/_includes/images/logo_cedar_fair_stacked.png" alt="Cedar Fair Entertainment Company" width="163" height="61">
+		</a>
+	</div>
+	<div>
 		<img src="/_includes/images/skins/TT/logo_americas_roller_coast.gif" alt="America's Roller Coast" align="right">
 	</div>
 	<div>
-		<span><a href="http://www.redgold.com" target="_blank"><img src="/_upload/images/logo_redgold.gif" alt="Red Gold - The Official Ketchup of Cedar Point" style="display: block; margin-top: 15px;"></a></span><a href="http://www.redgold.com" target="_blank"><br>
+		<span><a href="http://www.redgold.com" target="_blank"><img src="http://cp.media.cfnslb1.cedarfair.com/_upload/images/logo_redgold.gif" alt="Red Gold - The Official Ketchup of Cedar Point" style="display: block; margin-top: 15px;"></a></span><a href="http://www.redgold.com" target="_blank"><br>
 		<span></span></a><a href="/public/news/funtimes/"><img src="/_includes/images/skins/TT/logo_funtimes_small.gif" alt="FUNtimes">
 		<span></span></a><a href="http://www.youtube.com/cedarpointvideos" target="_blank"><img src="/_includes/images/skins/TT/logo_youtube_small.gif" alt="YouTube">
 		<span></span></a><a href="http://www.facebook.com/cedarpoint" target="_blank"><img src="/_includes/images/skins/TT/logo_facebook_small.gif" alt="Facebook">
@@ -868,19 +909,17 @@ window.onload = function() {
 
 
 
-
 <script type="text/javascript">
 	/* <![CDATA[ */
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-	<script type="text/javascript">
+
 	try {
-	var pageTracker = _gat._getTracker("UA-30018-23");
-	pageTracker._setDomainName("cedarpoint.com");
-	pageTracker._setAllowLinker(true);
-	pageTracker._setAllowHash(false);
-	pageTracker._trackPageview();
+		var pageTracker = _gat._getTracker("UA-30018-23");
+		pageTracker._setDomainName("cedarpoint.com");
+		pageTracker._setAllowLinker(true);
+		pageTracker._setAllowHash(false);
+		pageTracker._trackPageview();
 	
 	
 		function appendEvent() {
@@ -944,7 +983,7 @@ window.onload = function() {
 	} catch (err) {
 	}
 	/* ]]> */
-</script> 
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
 <!--[if lte IE 6]>
 <script src="/_c4/_scripts/ie6/ie6warn.js"></script>
 <script type="text/javascript">
