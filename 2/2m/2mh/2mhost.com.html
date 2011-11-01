@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the 2mhost.com privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521234648id_/http%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 2mhost.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101225725id_/http%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy Policy</title>
-<base href="https://www.2mhost.com/application/views/cms/">
+<base href="http://www.2mhost.com/application/views/cms/">
 <!-- <script type="text/javascript" src="/application/views/scripts/jquery-ui.js"></script> -->
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
-<script type="text/javascript" src="/application/views/chat/chatEngine.js"></script>
-<script type="text/javascript" src="/application/views/chat/chatClientUI.js"></script>
+
+
 <link href="/application/views/styles/jquery-ui.css" rel="stylesheet" type="text/css">
-<link href="/application/views/chat/chatClient.css" rel="stylesheet" type="text/css">
+
 <link href="assets/styles/main.css" rel="stylesheet" type="text/css">
 <link rel="shortcut icon" href="assets/styles/favicon.ico">
 <style>
@@ -106,29 +106,16 @@ $.fn.exists = function () {
 }
 
 $(document).ready(function(){
-
-    // chat
-     var levels = new Array();
-                levels.push(3);
-                levels.push(0) ;
-                ChatEngine.setLevel(levels);
-                ChatEngine.alwaysCheckOnlineStaff = true;
-                ChatEngine.resetCommands();
-                ChatEngine.execute();
-
-                //initiating chat window ui
-                var buttons = new Array();
-                buttons.push($("#chatSales"));
-                buttons.push($("#chatSupport"));
-                ChatEngine.bindClientUIElements($("#chatWindow"), buttons);
-
-    // end of chat
-
     $(".top_nav li:first-child").css('border','none');
 
-    $('#side_menu a[href$='+window.location.pathname+']').each( function(){
-        $(this).replaceWith($(this).html());
-    });
+    var fBPosition = $("#fB").position();
+
+    $("#plusOne").css("top",fBPosition.top+20);
+    $("#plusOne").css("left",fBPosition.left-36);
+
+  //  $('#side_menu a[href$='+window.location.pathname+']').each( function(){
+   //     $(this).replaceWith($(this).html());
+   // });
 
 $('ul.top_nav li').hover(function () {
 
@@ -151,6 +138,20 @@ $('ul.top_nav li').hover(function () {
 
 });
 </script>
+<!-- Start of Chat -->
+        <script type="text/javascript" src="/chat/scripts/chatEngine.js"></script>
+        <script type="text/javascript" src="/chat/scripts/chatClientUI.js"></script>
+        <link href="/chat/css/chatClient.css" rel="stylesheet" type="text/css">
+
+        <script language="javascript" type="text/javascript">
+            $(document).ready(function(){
+                ChatEngine.initChat({
+                    buttons: {sales:"#chat-sales", support:"#chat-support"},
+                    dialogTitle: "2MHost"
+                });
+            });
+        </script>
+<!-- End of Chat -->
 
 </head>
 <body>
@@ -158,48 +159,19 @@ $('ul.top_nav li').hover(function () {
   <div id="logo"><a href="/index.html" title="2MHost homepage"><img style="vertical-align:middle;" border="0" src="assets/images/logo.png" alt="2MHOST Logo"></a> 
   </div>
   <div id="greeting">
-            <strong><a href="https://www.2mhost.com/login" target="_blank" title="Manage your 2MHost.com account">› Clients Login</a></strong> 
+            <strong><a href="https://www.2mhost.com/login" target="_blank" title="Manage your 2MHost.com account">› Clients Login</a></strong>       <span id="chat-links">
 
+          <a href="javascript:void(0)" id="chat-sales" class="chat-offline">› Chat with sales</a>
+          <a href="javascript:void(0)" id="chat-support" class="chat-offline">› Chat with support</a>
 
-
- &nbsp;<a href="javascript:void(0);" id="chatSales" style="display:none">›&nbsp;Chat with Sales</a>
-                &nbsp;<a href="javascript:void(0);" id="chatSupport" style="display:none">›&nbsp;Chat with Support</a>
-                <div id="chatWindow" title="2MHOST Chat">
-                    <div class="main-chat-window">
-    <div id="chatMessagesContainer"></div>
-</div>
-<div class="chatStatusBar">
-    <div id="chatBusy"></div>
-    <div style="float:left">
-        <div id="chatConnecting">Connecting... Users Pending: <span class="chatPendingUser"></span></div>
-        <div id="chatConnectionTerminated">Connection Terminated...</div>
-        <div id="chatPeerStatusBar"><span class="chatPeerName"></span> is typing...</div>
-    </div>
-    <div style="clear:both;"></div>
-</div>
-
-<div class="chatBox">
-    <textarea id="chatInputTextbox" cols="50" rows="7"></textarea>
-</div>
-<div class="chatSend">
-    <input type="button" id="chatSend" value="Send">
-</div>
- <div style="clear:both;"></div>                </div>
-
-
-
-
-
-
-
-
-
-
-
-
+      </span>
 
       <br>
-  <iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.2mhost.com&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="margin-top: 20px;vertical-align:middle;border:none; overflow:hidden; width:78px; height:21px;"></iframe>
+      <span id="plusOne" style="position:absolute"><g:plusone count="false" size="medium"></g:plusone></span>
+  <iframe id="fB" src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.2mhost.com&amp;layout=button_count&amp;show_faces=false&amp;width=450&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="margin-top: 20px;vertical-align:middle;border:none; overflow:hidden; width:78px; height:21px;">
+     
+  </iframe>
+   
 </div>
   <div style="clear:both"></div>
 </div>
@@ -484,20 +456,28 @@ You can read more information about this on our <a href="/terms.html">Terms of S
    <table border="0" cellspacing="2" cellpadding="2">
     <tbody><tr>
     <td>
-    <a href="//privacy-policy.truste.com/click-with-confidence/wps/en/www.2mhost.com/seal_m" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/certified-seal/wps/en/www.2mhost.com/seal_m.png" alt="TRUSTe online privacy certification"></a>
+
+<a href="http://privacy.truste.com/certified-privacy/2mhost-dot-com-ltd/validation?&#10;validationId=9853e84e-afe9-44a1-9796-b1775aaff420" title="2mhost dot com ltd Privacy
+Seal Certification" target="_blank"><img style="border:none" alt="TRUSTe Certified
+Privacy Seal" src="https://privacy-policy.truste.com/privacy-seal/2mhost.com/TRUSTe-&#10;Certified-Privacy-Seal.png"></a>
+
     </td>
       <td>
           <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.2mhost.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.2mhost.com/22.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams"></a>
       </td>
       <td>
 
-          <table width="135" border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers."><tbody><tr><td width="135" align="center" valign="top"><script type="text/javascript" src="https://trustseal.verisign.com/getseal?host_name=www.2mhost.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script></td></tr></tbody></table>
+          <table width="135" border="0" cellpadding="0" cellspacing="0" title="Click to Verify - This site chose VeriSign Trust Seal to promote trust online with consumers."><tbody><tr>
+          <td width="135" align="center" valign="top"><script type="text/javascript" src="https://trustseal.verisign.com/getseal?host_name=www.2mhost.com&amp;size=M&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script></td></tr></tbody></table>
+
+
 
       </td>
     </tr>
   </tbody></table></div>
 
 </div>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 
 
 </body></html>
