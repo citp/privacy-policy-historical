@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtomakemoneywithoutspendingmoney.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629190059id_/http%3A//howtomakemoneywithoutspendingmoney.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtomakemoneywithoutspendingmoney.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134834id_/http%3A//howtomakemoneywithoutspendingmoney.com/privacy-policy) for the most accurate reproduction.*
 
 # make money without spending money » Privacy Policy
 
