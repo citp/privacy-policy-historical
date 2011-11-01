@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130174342id_/http%3A//www.thebookseller.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebookseller.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125336id_/http%3A//www.thebookseller.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | theBookseller.com
+# Privacy | The Bookseller
 
-### Introduction
+###  Introduction
 
 Respecting the privacy of our customers and ensuring the confidentiality of customer information is critical to The Bookseller, Nielsen Business Media, and The Nielsen Company. The purpose of this Privacy Policy is to ensure that we interact with all of our customers in line with current legislation such as the Data Protection Act 1998 and in accordance with their wishes.
 
-### The policy
+###  The policy
 
   * (1) The Bookseller will use your contact details (postal address, email address, telephone, mobile and fax numbers) to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, surveys on improving our service to you and/or invitations to exhibitions, seminars and shows.
   * (2) From time to time The Bookseller may invite you to register in order to receive magazines, email newsletters, enter competitions, and receive services from Nielsen Business Media websites. This will require you to confirm personal information such as your name, email address, home and work postcodes. This information is mandatory and is required by The Bookseller for security purposes and enable The Bookseller to supply a reasonable level of services to users and our advertisers. We will ask for information such as job function, company sector, company/ name and date of birth. During registration, you will also be asked to choose a password for future access to the relevant site(s).
@@ -22,6 +22,7 @@ Respecting the privacy of our customers and ensuring the confidentiality of cust
   * (12) This statement does not extend to sites that are linked to The Bookseller site but which are not part of the Nielsen Business Media network. You should refer to those sites for further details about their use of your personal information. The Bookseller is not responsible for the content or the privacy policies of third party web sites linked to this site.
   * (13) If you use a The Bookseller website certain information is automatically collected so that delivery can be made of the service. Cookies may be stored on your machine by your browser. You can set your browser to disable cookies, but then you might find some website features will not work.
   * (14) When you request a page from the site's web server, the server automatically collects some information about your system, including your IP address. The Bookseller collects the minimum information necessary to make the service work - this information is essential to send the pages back across the Internet to the right computer.
-  * (15) The Bookseller uses "SiteCensus" to analyse traffic to the The Bookseller site. SiteCensus does not create individual profiles for visitors. If you wish to obtain more information about SiteCensus contact [webeditor@bookseller.co.uk](mailto:webeditor@bookseller.co.uk "Email the web editor")
+  * (15) The Bookseller uses "SiteCensus" to analyse traffic to the The Bookseller site. SiteCensus does not create individual profiles for visitors. If you wish to obtain more information about SiteCensus contact [webeditor@bookseller.co.uk](mailto:webeditor@bookseller.co.uk "Email the web
+ editor")
 
 
