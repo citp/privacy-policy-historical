@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520234825id_/http%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101194212id_/http%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy — Site links — Plan International
 
@@ -76,4 +76,4 @@ You may have rights of access to personal information that we hold about you, to
 
 Plan Ltd Chobham House Christchurch Way Woking Surrey GU21 6JG UK
 
-Or please e-mail us at [feedback@plan-international.org](mailto:feedback@plan-international.org)
+Or please e-mail us at [info@plan-international.org](mailto:info@plan-international.org)
