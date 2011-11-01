@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodmatters.tv privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606020852id_/http%3A//www.foodmatters.tv/_webapp/privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodmatters.tv privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233314id_/http%3A//foodmatters.tv/_webapp/privacy%2520policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ We can be reached by using our contact us form
 
 ### Changes to this Policy
 
-FoodMatters.tv (Permacology Productions Pty Ltd) reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+FoodMatters.tv (Permacology Productions Pty Ltd) reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
