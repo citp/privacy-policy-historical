@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2010-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100623112411id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standard.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122126id_/http%3A//www.standard.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Standard-Examiner – Ogden, Layton, Brigham, Weber, Davis, Top of Utah News
+# Privacy Policy - Standard-Examiner
 
 ## Online privacy statement
 
@@ -95,3 +95,5 @@ Users of our site are notified when their information is being collected by any 
 ## Notification of changes
 
 If we decide to change our privacy policy, we will post those changes on our home page so our users are aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. 
+
+This Web site uses services provided by AP News Registry. AP News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued readership of the Site means you accept the privacy policy of the AP News Registry. Please refer to the AP News Registry privacy policy at <http://www.apnewsregistry.com/privacycenter/servicepolicy.aspx> for further information.
