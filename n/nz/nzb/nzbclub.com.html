@@ -1,85 +1,221 @@
-<!--The following is the downloaded HTML source of the nzbclub.com privacy policy that was archived on 2010-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101217171049id_/http%3A//www.nzbclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nzbclub.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101111524id_/http%3A//www.nzbclub.com/PrivacyPolicy.aspx) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Policy -- NZBClub.com - NZB Search Engine for Usenet
-</title><link href="Styles/stylesa.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/images/favicon.ico">
-        <meta name="description" content="Usenet search engine with 800 days NZB retention with Free NZB search and NZB download from Usenet Newsgroups.">
-        <meta name="keywords" content="nzb, nzb search, free nzb, usenet, nzb search engine, nzb binary, nzb binaries, alt.binaries.boneless, alt.binaries.nl, usenet indexing service, nzb download, nzb movie, nzb divx, nzb mp3, nzb game, nbz search, nzb finder, nzb index, newsgroup server, newsgroup search, newsgroup service, usenet newsgroup, free newsgroup, usenet binary, nzb indexing, nzb site, nntp nzb, usenet search, usenet index, usenet search engine">
+</title><link href="Styles/stylesb.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/images/favicon.ico">
+        <meta name="description" content="Usenet search engine with 1000+ days NZB retention with Free NZB search and NZB download from Usenet Newsgroups. SSL Search available.">
+        <meta name="keywords" content="nzb, nzb search, ssl nzb, encrypt nzb, secure nzb search, nzb index, nzbindex, free nzb, usenet, nzb search engine, nzb binary, nzb binaries, alt.binaries.boneless, alt.binaries.nl, usenet indexing service, nzb download, nzb movie, nzb divx, nzb mp3, nzb game, nbz search, nzb finder, nzb index, newsgroup server, newsgroup search, newsgroup service, usenet newsgroup, free newsgroup, usenet binary, nzb indexing, nzb site, nntp nzb, usenet search, usenet index, usenet search engine">
         <meta name="robots" content="index, follow">
-    <link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Splitter.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Outlook/Splitter.Outlook.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Menu.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Black/Menu.Black.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Input.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Simple/Input.Simple.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Simple/Splitter.Simple.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Dock.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Window.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Simple/Window.Simple.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
+    <link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Splitter.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Outlook/Splitter.Outlook.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Menu.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Black/Menu.Black.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Simple/Splitter.Simple.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Dock.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Ajax.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"><link href="http://aspnet-skins.telerikstatic.com/ajax/2010.2.929/Simple/Ajax.Simple.css" type="text/css" rel="stylesheet" class="Telerik_stylesheet"></head>
 <body>
     <script type="text/javascript">
-        function sm_timer(sessionLength, redirectUrl) {
-            var timeleft = sessionLength;
-            var prm = Sys.WebForms.PageRequestManager.getInstance();
-            if (prm != null) {
-                prm.add_endRequest(function () {
-                    timeleft = sessionLength;
-                });
+        function OnWatchListCommand(sender, eventArgs) {
+            var senderid = "watchlist";
+            var expired = new Date();
+            var command = eventArgs.Command.get_name();
+            var collapsed = sender.get_collapsed()
+            var c_string = "";
+            if (collapsed) {
+                c_string = "collapsed";
             }
-            var modalVisible = false;
-            var displayElements = $('.sm_logoutTimer');
-            function updateDisplay() {
-                if (displayElements != null) {
-                    var m = Math.floor(timeleft / 60);
-                    var s = timeleft % 60;
-                    displayElements.attr('innerHTML', m.toString() + ':' + (s <= 9 ? '0' : '') + s.toString());
-                }
+            else {
+                c_string = "expanded";
             }
-            function logout_callback(arg) {
-                $.get(location.href);
-                modalVisible = false;
-                timeleft = sessionLength;
-            }
-            function checkPrompt() {
-                if (timeleft <= 120 && !modalVisible) {
-                    modalVisible = true;
-                    radconfirm('', logout_callback, 280, 140);
-                    displayElements = $('.sm_logoutTimer');
-                }
-            }
-            function logout() {
-                document.location.href = redirectUrl;
-            }
-            function tick() {
-                if (timeleft <= 0) {
-                    logout();
-                } else {
-                    updateDisplay();
-                    checkPrompt();
-                    setTimeout(tick, 1000);
-                }
-                timeleft--;
-            }
-            setTimeout(tick, 1000);
+
+            expired.setDate(expired.getDate() + 30);
+            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
         }
+
+        function OnTipsCommand(sender, eventArgs) {
+            var senderid = "tips";
+            var expired = new Date();
+            var command = eventArgs.Command.get_name();
+            var collapsed = sender.get_collapsed()
+            var c_string = "";
+            if (collapsed) {
+                c_string = "collapsed";
+            }
+            else {
+                c_string = "expanded";
+            }
+
+            expired.setDate(expired.getDate() + 30);
+            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
+        }
+
+        function OnSaveRCommand(sender, eventArgs) {
+            var senderid = "saver";
+            var expired = new Date();
+            var command = eventArgs.Command.get_name();
+            var collapsed = sender.get_collapsed()
+            var c_string = "";
+            if (collapsed) {
+                c_string = "collapsed";
+            }
+            else {
+                c_string = "expanded";
+            }
+
+            expired.setDate(expired.getDate() + 30);
+            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
+        }
+
+        function OnFilterOptionsCommand(sender, eventArgs) {
+            var senderid = "filteroptions";
+            var expired = new Date();
+            var command = eventArgs.Command.get_name();
+            var collapsed = sender.get_collapsed()
+            var c_string = "";
+            if (collapsed) {
+                c_string = "collapsed";
+            }
+            else {
+                c_string = "expanded";
+            }
+            expired.setDate(expired.getDate() + 30);
+            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
+        }
+
+        function QuickBoxKeyPress(sender, args) {
+            if (args.get_keyCode() == 13) {
+                var button = document.getElementById("ctl00_ui_quicksubmit");
+                button.click();
+                args.set_cancel(true);
+            }
+        }
+
+        function QuickBoxKP(evt) {
+            if (evt.keyCode == 13) {
+                var button = document.getElementById("ctl00_ui_quicksubmit");
+                button.click();
+                args.set_cancel(true);
+            }
+        }
+
+        function installSearchAddOn() {
+            if ("external" in window) {
+                window.external.AddSearchProvider('http://www.nzbclub.com/searchAddOn.xml');
+            }
+            else {
+                alert("Sorry, your browser does not support installing this Search Add-in");
+            }
+        }
+
+        function ToggleExpandPane(paneID) {
+            var slidingZone = $find("ctl00_ui_mainslidingzone");
+            var expandedPaneId = slidingZone.get_expandedPaneId();
+            var currentPane = $find(paneID);
+            var parentPane = $find("ctl00_MainPane");
+
+            if (expandedPaneId == null || expandedPaneId != paneID) {
+                var parentSize = parentPane.get_height();
+                if (currentPane.get_height() != parentSize - 30) {
+                    currentPane.set_height(parentSize - 30);
+                    currentPane.set_width(parentPane.get_width() - 100);
+                }
+
+                slidingZone.expandPane(paneID);
+            }
+            else {
+                slidingZone.collapsePane(paneID);
+            }
+        }
+
+        function ToggleSaveRPaneTabVisibility() {
+            var slidingZone = $find("ctl00_ui_mainslidingzone");
+            var pane = slidingZone.getPaneById("ctl00_ui_saveRPane");
+            var pane2 = slidingZone.getPaneById("ctl00_ui_watchlistpane");
+            var pane3 = slidingZone.getPaneById("ctl00_ui_favouritesearchpane");
+            if (pane.isTabDisplayed()) {
+                pane.hideTab();
+            }
+
+            if (pane2.isTabDisplayed()) {
+                pane2.hideTab();
+            }
+
+            if (pane3.isTabDisplayed()) {
+                pane3.hideTab();
+            }
+        }
+
+        var saverHolder = null;
+        var watchlistHolder = null;
+        var favouritesearchHolder = null;
+
+        function OnSaveRClientExpanding(sender, args) {
+            if (!sender._loaded) {
+                $find("ctl00_ui_saverpanel").ajaxRequest();
+                sender._loaded = true;
+                saverHolder = sender;
+            }
+        }
+
+        function OnWatchListClientExpanding(sender, args) {
+            if (!sender._loaded) {
+                $find("ctl00_ui_watchlistpanel").ajaxRequest();
+                sender._loaded = true;
+                watchlistHolder = sender;
+            }
+        }
+
+        function OnFavouriteSearchClientExpanding(sender, args) {
+            if (!sender._loaded) {
+                $find("ctl00_ui_favouritesearchpanel").ajaxRequest();
+                sender._loaded = true;
+                favouritesearchHolder = sender;
+            }
+        }
+
+        var currentLoadingPanel = null;
+        var currentUpdatedControl = null;
+
+        function onMainMenuClicked(sender, eventArgs) {
+            var item = eventArgs.get_item();
+            if (item.get_text() == 'SaveR') {
+                ToggleExpandPane('ctl00_ui_saveRPane');
+
+            } else if (item.get_text() == 'Watch List') {
+                ToggleExpandPane('ctl00_ui_watchlistpane');
+
+            }
+        }
+
+        function OnRequestStart(ajaxPanel, eventArgs) {
+            var eventTarget = eventArgs.get_eventTarget();
+            if (eventTarget.indexOf("ui_downloadtoolbar") != -1) {
+                eventArgs.set_enableAjax(false); // cancel the ajax request
+            }
+        }
+
+
     </script>
-    <form method="post" action="/PrivacyPolicy.aspx" id="form1">
-<input type="hidden" name="RadScriptManager1_TSM" id="RadScriptManager1_TSM" value="">
-<input type="hidden" name="RadStyleSheetManager1_TSSM" id="RadStyleSheetManager1_TSSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPZwUPOGNkNmJmMjMzNGFhYzljcOHN1X+BFsYJCpHboGipN/L0OF0=">
+    <form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
+<input type="hidden" name="ctl00_RadScriptManager1_TSM" id="ctl00_RadScriptManager1_TSM" value="">
+<input type="hidden" name="ctl00_RadStyleSheetManager1_TSSM" id="ctl00_RadStyleSheetManager1_TSSM" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPZwUPOGNlNjY3NGM1NWM5MGFmuX/VOj5zsuO2F1CMR1yqw95sL9s=">
 
 
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a1f68db6e-ab92-4c56-8744-13e09bf43565%3aea597d4b%3bTelerik.Web.UI%3aen-US%3a183fb741-216d-4765-9b46-4a1f5d38fdd7%3a16e4e7cd%3af7645509%3a22a6274a%3aed16cbdc%3a11a04f7e%3a24ee1bba%3ae330518b%3a1e771326%3ac8618e41%3ab7778d6c%3a854aa0a7%3a874f8ea2%3a19620875%3a490a9d4e%3abd8f85e4" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALj7/DrDAKn7bmWAwK10d6QBgKSuILrDZiyrgRXEHBJmX4vMuJoR09hmZXg">
-    <input type="submit" name="ctl00$MyDefaultButton" value="" onclick="return false;" id="MyDefaultButton" style="display: none;">
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_RadScriptManager1_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a111e8464-2436-44db-9b34-0d84ed5253c8%3aea597d4b%3bTelerik.Web.UI%3aen-US%3a15a8cff0-9e51-4282-a100-c2dcd204ecf2%3a16e4e7cd%3af7645509%3a22a6274a%3aed16cbdc%3a11a04f7e%3a24ee1bba%3ae330518b%3a1e771326%3ac8618e41%3a596d7b53%3a874f8ea2%3a854aa0a7" type="text/javascript"></script>
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALNgcPpCgKn7bmWAwKirsrbAQKSuILrDc0d6D3eodvnhgCiBfjpaMBwoRMg">
+    
+    <input type="submit" name="ctl00$MyDefaultButton" value="" onclick="return false;" id="ctl00_MyDefaultButton" style="display: none;">
     <div class="Fill">
         
-        
-        
-        <!-- 2010.2.929.40 --><div id="RadAjaxManager1SU">
+        <!-- 2010.2.929.35 --><div id="ctl00_RadAjaxManager1SU">
 	<span id="ctl00_RadAjaxManager1" style="display:none;"></span>
 </div>
         <div id="ctl00_MainSplitter" style=""><div><table id="RAD_SPLITTER_ctl00_MainSplitter" class="RadSplitter RadSplitter_Outlook rspHideRadSplitter" cellpadding="0" cellspacing="0" style="width:1px;height:1px;border-left-width:1px;border-top-width:1px;">
 	<tbody><tr id="RAD_SPLITTER_PANE_TR_ctl00_TopPane">
 		<td id="ctl00_TopPane" valign="top" class="rspPaneHorizontal rspFirstItem" style="border-right-width:1px;border-bottom-width:1px;"><div id="RAD_SPLITTER_PANE_CONTENT_ctl00_TopPane" style="width:398px;height:26px;overflow:hidden;background-color:#000000;">
                 <!-- Place the content of the pane here -->
-                <div id="ctl00_ui_mainmenu" class="RadMenu RadMenu_Black rmSized" style="float: none; z-index: 3000; position: absolute;">
+                <div id="ctl00_ui_mainmenu" class="RadMenu RadMenu_Black rmSized" style="float: none;
+                    z-index: 7000; position: absolute;">
 			<ul class="rmRootGroup rmRoundedCorners rmShadows rmHorizontal">
-				<li class="rmItem rmFirst rightItem"><a href="faq.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_faq.png" class="rmLeftImage"><span class="rmText">Help</span></a></li><li class="rmItem  rightItem"><a href="login.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_login.png" class="rmLeftImage"><span class="rmText">Login/Register</span></a></li><li class="rmItem  rightItem"><a href="nzb_saver.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_saver.png" class="rmLeftImage"><span class="rmText">SaveR</span></a></li><li class="rmItem  rightItem"><a href="historysearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_age.png" class="rmLeftImage"><span class="rmText">History</span></a></li><li class="rmItem  rightItem"><a href="templatesearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_template.png" class="rmLeftImage"><span class="rmText">Template</span></a></li><li class="rmItem  rightItem"><a href="favouritesearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_favourite.png" class="rmLeftImage"><span class="rmText">Favourite</span></a></li><li class="rmItem "><a href="index.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_home.png" class="rmLeftImage"><span class="rmText">NZBClub.com</span></a></li><li class="rmItem "><a href="usenetgroups.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_newsgroup.png" class="rmLeftImage"><span class="rmText">Newsgroups</span></a></li><li class="rmItem "><a href="options.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_settings.png" class="rmLeftImage"><span class="rmText">Options</span></a></li><li class="rmItem "><a href="watchlist.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/watch_nzb.png" class="rmLeftImage"><span class="rmText">Watch List</span></a></li><li class="rmItem rmLast rmTemplate"><div class="rmText">
+				<li class="rmItem rmFirst rightItem"><a href="/login.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_login.png" class="rmLeftImage"><span class="rmText">Login/Register</span></a></li><li class="rmItem  rightItem"><a href="#" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_saver.png" class="rmLeftImage"><span class="rmText">SaveR</span></a></li><li class="rmItem  rightItem"><a href="/historysearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_age.png" class="rmLeftImage"><span class="rmText">History</span></a></li><li class="rmItem  rightItem"><a href="/templatesearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_template.png" class="rmLeftImage"><span class="rmText">Template</span></a></li><li class="rmItem  rightItem"><a href="/favouritesearch.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_favourite.png" class="rmLeftImage"><span class="rmText">Favourite</span></a></li><li class="rmItem "><a href="/" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_home.png" class="rmLeftImage"><span class="rmText">NZBClub.com</span></a></li><li class="rmItem "><a href="/usenetgroups.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_newsgroup.png" class="rmLeftImage"><span class="rmText">Newsgroups</span></a></li><li class="rmItem "><a href="/options.aspx" class="rmLink rmRootLink"><img alt="" src="/Images/nzb_settings.png" class="rmLeftImage"><span class="rmText">Options</span></a></li><li class="rmItem "><a href="#" class="rmLink rmRootLink"><img alt="" src="/Images/watch_nzb.png" class="rmLeftImage"><span class="rmText">Watch List</span></a></li><li class="rmItem rmLast rmTemplate"><div class="rmText">
 					
-                                <span id="ctl00_ui_mainmenu_i10_ui_quicksearchterm_wrapper" class="RadInput RadInput_Simple"><input value="Quick Search..." type="text" size="20" id="ctl00_ui_mainmenu_i10_ui_quicksearchterm_text" name="ctl00_ui_mainmenu_i10_ui_quicksearchterm_text" class="riTextBox riEmpty"><input id="ctl00_ui_mainmenu_i10_ui_quicksearchterm" name="ctl00$ui_mainmenu$i10$ui_quicksearchterm" class="rdfd_" style="visibility:hidden;margin:-18px 0 0 -1px;width:1px;height:1px;overflow:hidden;border:0;padding:0;" type="text" value=""><input id="ctl00_ui_mainmenu_i10_ui_quicksearchterm_ClientState" name="ctl00_ui_mainmenu_i10_ui_quicksearchterm_ClientState" type="hidden"></span>                                
+                                <input name="ctl00$ui_mainmenu$i9$ui_quicksearchterm" type="text" id="ctl00_ui_mainmenu_i9_ui_quicksearchterm" class="search-string" onkeyup=" return QuickBoxKP(event);">
                             
 				</div></li>
 			</ul><input id="ctl00_ui_mainmenu_ClientState" name="ctl00_ui_mainmenu_ClientState" type="hidden">
@@ -87,6 +223,128 @@
             </div><input id="ctl00_TopPane_ClientState" name="ctl00_TopPane_ClientState" type="hidden"></td>
 	</tr><tr id="RAD_SPLITTER_PANE_TR_ctl00_MainPane">
 		<td id="ctl00_MainPane" valign="top" class="rspPaneHorizontal rspLastItem" style="border-right-width:1px;border-bottom-width:1px;"><div id="RAD_SPLITTER_PANE_CONTENT_ctl00_MainPane" style="width:398px;height:366px;overflow:hidden;">
+                <table id="ctl00_ui_mainslidingzone" cellpadding="0" cellspacing="0" class="rspSlideZone" width="100%" height="1">
+			<tbody><tr>
+				<td valign="top" class="rspTabsContainer rspBottom" id="RAD_SLIDING_ZONE_TABS_CONTAINER_ctl00_ui_mainslidingzone" height="0"><div class="rspPaneTabContainer" id="RAD_SLIDING_PANE_TAB_ctl00_ui_saveRPane" style="height:-1px" title=""><span class="rspPaneTabText" id="RAD_SLIDING_PANE_TEXT_ctl00_ui_saveRPane" style="line-height:0px;"></span></div><div class="rspPaneTabContainer" id="RAD_SLIDING_PANE_TAB_ctl00_ui_watchlistpane" style="height:-1px" title=""><span class="rspPaneTabText" id="RAD_SLIDING_PANE_TEXT_ctl00_ui_watchlistpane" style="line-height:0px;"></span></div><div class="rspPaneTabContainer" id="RAD_SLIDING_PANE_TAB_ctl00_ui_favouritesearchpane" style="height:-1px" title=""><span class="rspPaneTabText" id="RAD_SLIDING_PANE_TEXT_ctl00_ui_favouritesearchpane" style="line-height:0px;"></span></div></td>
+			</tr><tr style="display:none;">
+				<td valign="top" id="RAD_SLIDING_ZONE_PANES_CONTAINER_ctl00_ui_mainslidingzone"><div id="ctl00_ui_saveRPane" style="z-index:5001;" class="rspSlidePane">
+					<table class="rspSlideContainer" cellpadding="0" cellspacing="0" style="width:1px;height:1px">
+						
+						<tbody><tr class="rspSlideHeader">
+							
+                            <td><table cellpadding="0" cellspacing="0" style="width:100%;">
+						        <tbody><tr>
+							        <td class="rspSlideTitleContainer">
+                                        <div class="rspSlideTitle" id="RAD_SPLITTER_SLIDING_TITLE_ctl00_ui_saveRPane"></div></td>
+							        <td class="rspSlideHeaderIconWrapper">
+								        <div id="RAD_SPLITTER_SLIDING_PANE_UNDOCK_ctl00_ui_saveRPane" class="rspSlideHeaderUndockIcon" title="Undock">&nbsp;</div>
+							        </td>
+                                    <td class="rspSlideHeaderIconWrapper">
+								        <div id="RAD_SPLITTER_SLIDING_PANE_DOCK_ctl00_ui_saveRPane" title="Dock" class="rspSlideHeaderDockIcon">&nbsp;</div>
+							        </td>
+							        <td class="rspSlideHeaderIconWrapper">
+								        <div title="Collapse" id="RAD_SPLITTER_SLIDING_PANE_COLLAPSE_ctl00_ui_saveRPane" class="rspSlideHeaderCollapseIcon">&nbsp;</div>
+							        </td>					
+						        </tr>
+					        </tbody></table></td>
+							
+						</tr>
+						<tr>
+							<td align="left"><div class="rspSlideContent" id="RAD_SLIDING_PANE_CONTENT_ctl00_ui_saveRPane" style="overflow:auto;background-color:LightBlue;width:1px;height:1px">
+                        <div id="ctl00_ctl00_ui_saverpanelPanel">
+					<div id="ctl00_ui_saverpanel">
+						
+                            <div style="margin-left: auto; margin-right: auto; width: 30em">
+                                <b>Please wait...</b>
+                                <img src="/images/loading.gif" alt="Please Wait">
+                            </div>
+                        
+					</div>
+				</div>
+                    </div></td>
+						</tr>
+					<tr><td colspan="2" id="RAD_SPLITTER_SLIDING_ZONE_RESIZE_ctl00_ui_saveRPane" style="font-size:1px;line-height:1px;" class="rspSlideContainerResizeHorizontal" title="Resize"><div style="height:3px;"></div></td></tr>
+					</tbody></table>
+				</div><input id="ctl00_ui_saveRPane_ClientState" name="ctl00_ui_saveRPane_ClientState" type="hidden"><div id="ctl00_ui_watchlistpane" style="z-index:5001;" class="rspSlidePane">
+					<table class="rspSlideContainer" cellpadding="0" cellspacing="0" style="width:1px;height:1px">
+						
+						<tbody><tr class="rspSlideHeader">
+							
+                            <td><table cellpadding="0" cellspacing="0" style="width:100%;">
+						        <tbody><tr>
+							        <td class="rspSlideTitleContainer">
+                                        <div class="rspSlideTitle" id="RAD_SPLITTER_SLIDING_TITLE_ctl00_ui_watchlistpane"></div></td>
+							        <td class="rspSlideHeaderIconWrapper">
+								        <div id="RAD_SPLITTER_SLIDING_PANE_UNDOCK_ctl00_ui_watchlistpane" class="rspSlideHeaderUndockIcon" title="Undock">&nbsp;</div>
+							        </td>
+                                    <td class="rspSlideHeaderIconWrapper">
+								        <div id="RAD_SPLITTER_SLIDING_PANE_DOCK_ctl00_ui_watchlistpane" title="Dock" class="rspSlideHeaderDockIcon">&nbsp;</div>
+							        </td>
+							        <td class="rspSlideHeaderIconWrapper">
+								        <div title="Collapse" id="RAD_SPLITTER_SLIDING_PANE_COLLAPSE_ctl00_ui_watchlistpane" class="rspSlideHeaderCollapseIcon">&nbsp;</div>
+							        </td>					
+						        </tr>
+					        </tbody></table></td>
+							
+						</tr>
+						<tr>
+							<td align="left"><div class="rspSlideContent" id="RAD_SLIDING_PANE_CONTENT_ctl00_ui_watchlistpane" style="overflow:auto;background-color:LightBlue;width:1px;height:1px">
+                        <div id="ctl00_ctl00_ui_watchlistpanelPanel">
+					<div id="ctl00_ui_watchlistpanel">
+						
+                            <div style="margin-left: auto; margin-right: auto; width: 30em">
+                                <b>Please wait...</b>
+                                <img src="/images/loading.gif" alt="Please Wait">
+                            </div>
+                        
+					</div>
+				</div>
+                    </div></td>
+						</tr>
+					<tr><td colspan="2" id="RAD_SPLITTER_SLIDING_ZONE_RESIZE_ctl00_ui_watchlistpane" style="font-size:1px;line-height:1px;" class="rspSlideContainerResizeHorizontal" title="Resize"><div style="height:3px;"></div></td></tr>
+					</tbody></table>
+				</div><input id="ctl00_ui_watchlistpane_ClientState" name="ctl00_ui_watchlistpane_ClientState" type="hidden"><div id="ctl00_ui_favouritesearchpane" style="z-index:5001;" class="rspSlidePane">
+					<table class="rspSlideContainer" cellpadding="0" cellspacing="0" style="width:1px;height:1px">
+						
+						<tbody><tr class="rspSlideHeader">
+							
+                            <td><table cellpadding="0" cellspacing="0" style="width:100%;">
+						        <tbody><tr>
+							        <td class="rspSlideTitleContainer">
+                                        <div class="rspSlideTitle" id="RAD_SPLITTER_SLIDING_TITLE_ctl00_ui_favouritesearchpane"></div></td>
+							        <td class="rspSlideHeaderIconWrapper">
+								        <div id="RAD_SPLITTER_SLIDING_PANE_UNDOCK_ctl00_ui_favouritesearchpane" class="rspSlideHeaderUndockIcon" title="Undock">&nbsp;</div>
+							        </td>
+                                    <td class="rspSlideHeaderIconWrapper">
+								        <div id="RAD_SPLITTER_SLIDING_PANE_DOCK_ctl00_ui_favouritesearchpane" title="Dock" class="rspSlideHeaderDockIcon">&nbsp;</div>
+							        </td>
+							        <td class="rspSlideHeaderIconWrapper">
+								        <div title="Collapse" id="RAD_SPLITTER_SLIDING_PANE_COLLAPSE_ctl00_ui_favouritesearchpane" class="rspSlideHeaderCollapseIcon">&nbsp;</div>
+							        </td>					
+						        </tr>
+					        </tbody></table></td>
+							
+						</tr>
+						<tr>
+							<td align="left"><div class="rspSlideContent" id="RAD_SLIDING_PANE_CONTENT_ctl00_ui_favouritesearchpane" style="overflow:auto;background-color:LightBlue;width:1px;height:1px">
+                        <div id="ctl00_ctl00_ui_favouritesearchpanelPanel">
+					<div id="ctl00_ui_favouritesearchpanel">
+						
+                            <div style="margin-left: auto; margin-right: auto; width: 30em">
+                                <b>Please wait...</b>
+                                <img src="/images/loading.gif" alt="Please Wait">
+                            </div>
+                        
+					</div>
+				</div>
+                    </div></td>
+						</tr>
+					<tr><td colspan="2" id="RAD_SPLITTER_SLIDING_ZONE_RESIZE_ctl00_ui_favouritesearchpane" style="font-size:1px;line-height:1px;" class="rspSlideContainerResizeHorizontal" title="Resize"><div style="height:3px;"></div></td></tr>
+					</tbody></table>
+				</div><input id="ctl00_ui_favouritesearchpane_ClientState" name="ctl00_ui_favouritesearchpane_ClientState" type="hidden"></td>
+			</tr>
+		</tbody></table><input id="ctl00_ui_mainslidingzone_ClientState" name="ctl00_ui_mainslidingzone_ClientState" type="hidden">
+                
                 
     <div id="ParentDivElement" class="Fill">
         <div id="ctl00_ContentPlaceHolder2_ui_splitterMain" style="width:398px;height:366px;"><div><table id="RAD_SPLITTER_ctl00_ContentPlaceHolder2_ui_splitterMain" class="RadSplitter RadSplitter_Simple rspNested rspHideRadSplitter" cellpadding="0" cellspacing="0" style="width:1px;height:1px;">
@@ -165,49 +423,65 @@
                             
                             
 <div class="contentpad">
-    <b>Unlimited Usenet</b>
-    <br>
-    Best Usenet services with unlimited access, unlimited speed, 750+ days binary retention
+    <div style="font-weight: bold; margin-bottom: 5px; cursor: default; color: rgb(51, 51, 51);
+        border-bottom: 1px solid rgb(51, 51, 51);">
+        <b>Unlimited Usenet</b>
+    </div>
+    Best Usenet services with unlimited access, unlimited speed, 1000+ days binary retention
     and Paypal accepted.
     <br>
     <ul>
-        <li><a href="https://usenetserver.com/partners/?a_aid=usenet&amp;a_bid=da6df121" target="_top"><strong>UsenetServer annual account for $7.95/mo</strong> </a>
+        <li><a href="https://usenetserver.com/partners/?a_aid=usenet&amp;a_bid=da6df121" target="_top"><strong>$95.4 UsenetServer Annual Account or $10/mo</strong> </a>
             <img style="border: 0" src="https://www.usenetjunction.com/scripts/imp.php?a_aid=usenet&amp;a_bid=da6df121" width="1" height="1" alt=""></li>
-        <li><a href="https://affiliate.astraweb.com/10005-1-3-1.html" target="_blank">Astraweb
-            Usenet Server - $11/mo</a></li>
-        <li><a href="https://www.newshosting.com/partners/?a_aid=usenet&amp;a_bid=01636e94" target="_top"><strong>Newshosting special</strong> </a>
+        <li><a href="https://www.newshosting.com/partners/?a_aid=usenet&amp;a_bid=01636e94" target="_top"><strong>$9.99/mo Newshosting Unlimited Special $99.99/year</strong>
+        </a>
             <img style="border: 0" src="https://www.usenetjunction.com/scripts/imp.php?a_aid=usenet&amp;a_bid=01636e94" width="1" height="1" alt=""></li>
+        <li><a href="http://www.usenetbest.com/external.aspx?providerid=15" target="_blank">
+            Astraweb Usenet Server - $11/mo</a></li>
         <li><a href="http://www.easynews.com/partners?a_aid=usenet&amp;a_bid=60309d3b" target="_top">
-            <strong>Easynews web-based Usenet browser</strong><br>
+            <strong>Easynews web-based Usenet browser or $9.95/mo Unlimited NNTP</strong><br>
         </a>
             <img style="border: 0" src="https://www.usenetjunction.com/scripts/imp.php?a_aid=usenet&amp;a_bid=60309d3b" width="1" height="1" alt=""></li>
     </ul>
-    <b>Free Trial</b>
-    <br>
+    <div style="font-weight: bold; margin-bottom: 5px; cursor: default; color: rgb(51, 51, 51);
+        border-bottom: 1px solid rgb(51, 51, 51);">
+        <b>Cloud Based Usenet</b>
+    </div>
     <ul>
-        <li><a href="http://www.usenetbest.com/external.aspx?providerid=3">150GB Free Trial
-            from Usenet.nl</a></li>
-        <li><a href="http://www.usenetbest.com/external.aspx?providerid=14">155GB Free Trial
-            from Binverse</a></li>
+        <li>Search and download from Usenet, Torrents, Web</li>
+        <li>Secure, anonymous access from your browser</li>
+        <li>Fast up to 100 Mbit/s with Search Engine</li>
+        <li><a href="http://www2.filedroid.net/AF_TA/rel/index.cfm?TAD=425197" target="_blank">Activate FileDroid Now</a></li>
+    </ul>
+    <div style="font-weight: bold; margin-bottom: 5px; cursor: default; color: rgb(51, 51, 51);
+        border-bottom: 1px solid rgb(51, 51, 51);">
+        <b>Free Trial</b>
+    </div>
+    <ul>
+        <li><a href="http://www.usenetbest.com/external.aspx?providerid=3" target="_blank"><strong>
+            300GB+ Free Trial from Usenet.nl</strong></a></li>
+        <li><a href="http://www.usenetbest.com/external.aspx?providerid=16" target="_blank">
+            <strong>Uncapped Speed Free Trial from Binverse</strong></a></li>
+        <li><a href="http://www.usenetbest.com/external.aspx?providerid=9" target="_blank">Free
+            Trial from EasyNews</a></li>
         <li><a href="https://www.newshosting.com/partners/?a_aid=usenet&amp;a_bid=01636e94" target="_top"><strong>30GB Free Trial from Newshosting</strong> </a>
             <img style="border: 0" src="https://www.usenetjunction.com/scripts/imp.php?a_aid=usenet&amp;a_bid=01636e94" width="1" height="1" alt=""></li>
     </ul>
-    <b>Match Your Speed</b>
     <br>
-    Match your Usenet access need with your Internet speed.
-    <ul>
-        <li><a href="http://goo.gl/OiM5k" target="_blank">Simply Usenet from 2Mbps to 50Mbps
-            speed</a></li>
-    </ul>
-    <br>
-    <small>2005 - 2010 NZBClub.com. - <a href="/dmca.aspx">DMCA</a> - <a href="/PrivacyPolicy.aspx">
+    <small>2005 - 2011 NZBClub.com. - <a href="/dmca.aspx">DMCA</a> - <a href="/PrivacyPolicy.aspx">
         Privacy Policy</a> - <a href="/disclaimer.aspx">Disclaimer</a> -
         <img src="/images/nzb_email.png" alt="Contact Us" title="Contact Us" width="16" height="16">
         admin {} nzbclub.com - <a href="javascript: void installSearchAddOn();">
             <img src="/images/nzb_search.png" alt="Install NZB Search AddOn" title="Install NZB Search AddOn" width="16" height="16">
             NZB Search AddOn</a> - <a href="/nzbfeed.aspx">
                 <img src="/images/nzb_rss.png" alt="NZB RSS" title="NZB RSS" width="16" height="16">
-                RSS Feed</a> - <a href="https://www.nzbclub.com">SSL NZBClub.com</a> </small>
+                RSS Feed</a> - <a href="https://www.nzbclub.com">
+                    <img src="/images/password.png" alt="SSL NZBClub" title="SSL NZBClub" width="16" height="16">
+                    SSL NZBClub.com</a> - <a href="http://www.nzbclub.info">
+                        <img src="/images/nzb_information.png" alt="Server Status" title="Server Status" width="16" height="16">
+                        Server Status</a> - <a href="/faq.aspx">
+                            <img src="/images/nzb_faq.png" alt="NZB FAQ" title="NZB FAQ" width="16" height="16">
+                            Help / FAQ</a> </small>
 </div>
 
                         </div><input id="ctl00_ContentPlaceHolder2_MiddlePane_ClientState" name="ctl00_ContentPlaceHolder2_MiddlePane_ClientState" type="hidden"></td>
@@ -233,39 +507,50 @@
             </div><input id="ctl00_MainPane_ClientState" name="ctl00_MainPane_ClientState" type="hidden"></td>
 	</tr>
 </tbody></table><input id="ctl00_MainSplitter_ClientState" name="ctl00_MainSplitter_ClientState" type="hidden"></div></div>
-        <div id="ctl00_windowManager" style="z-index:8000;display:none;">
-	<div id="ctl00_windowManager_alerttemplate" style="display:none;">
-            </div><div id="ctl00_windowManager_prompttemplate" style="display:none;">
-            </div><div id="ctl00_windowManager_confirmtemplate" style="display:none;">
-                <div class="rwDialogPopup radconfirm">
-                    <div class="rwDialogText">
-                        Session time out soon.<br>
-                        Time until session time out: <span class="sm_logoutTimer"></span>
-                    </div>
-                    <div>
-                        <a onclick="$find('{0}').close(true);" class="rwPopupButton" href="javascript:void(0);">
-                            <span class="rwOuterSpan"><span class="rwInnerSpan">Refresh session now</span></span></a>
-                    </div>
-                </div>
-            </div><input id="ctl00_windowManager_ClientState" name="ctl00_windowManager_ClientState" type="hidden">
+        <div id="ctl00_ui_mainloadingpanel" class="RadAjax RadAjax_Simple" style="display:none;">
+	<div class="raDiv">
+		
+        
+	</div><div class="raColor raTransp">
+
+	</div>
 </div>
     </div>
-    <input type="submit" name="ctl00$ui_quicksubmit" value="" id="ui_quicksubmit" style="display: none;"> 
+    <input type="submit" name="ctl00$ui_quicksubmit" value="" id="ctl00_ui_quicksubmit" style="display: none;">
     
 
 <script type="text/javascript">
 //<![CDATA[
-Telerik.Web.UI.RadSplitter._preInitialize("ctl00_MainSplitter");Telerik.Web.UI.RadPane._preInitialize("ctl00_TopPane", "ctl00_MainSplitter", "", "ctl00_RadsplitbarTop",  0, 0, "False");Telerik.Web.UI.RadPane._preInitialize("ctl00_MainPane", "ctl00_MainSplitter", "ctl00_RadsplitbarTop", "",  2, 1, "True");Telerik.Web.UI.RadSplitter._preInitialize("ctl00_ContentPlaceHolder2_ui_splitterMain");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_LeftPane", "ctl00_ContentPlaceHolder2_ui_splitterMain", "", "ctl00_ContentPlaceHolder2_Radsplitbar3",  0, 0, "False");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_EndPane", "ctl00_ContentPlaceHolder2_ui_splitterMain", "ctl00_ContentPlaceHolder2_Radsplitbar3", "",  2, 1, "True");Telerik.Web.UI.RadSplitter._preInitialize("ctl00_ContentPlaceHolder2_RadSplitter2");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_MiddlePane", "ctl00_ContentPlaceHolder2_RadSplitter2", "ctl00_ContentPlaceHolder2_RadSplitbar1", "",  2, 1, "True");Sys.Application.add_init(function() {
+Telerik.Web.UI.RadSplitter._preInitialize("ctl00_MainSplitter");Telerik.Web.UI.RadPane._preInitialize("ctl00_TopPane", "ctl00_MainSplitter", "", "ctl00_RadsplitbarTop",  0, 0, "False");Telerik.Web.UI.RadPane._preInitialize("ctl00_MainPane", "ctl00_MainSplitter", "ctl00_RadsplitbarTop", "",  2, 1, "True");Telerik.Web.UI.RadSlidingZone._preInitialize("ctl00_ui_mainslidingzone", "ctl00_MainSplitter", "ctl00_MainPane");Telerik.Web.UI.RadSlidingPane._preInitialize("ctl00_ui_saveRPane", "ctl00_MainSplitter", "ctl00_ui_mainslidingzone", "ctl00_MainPane", "0");Telerik.Web.UI.RadSlidingPane._preInitialize("ctl00_ui_watchlistpane", "ctl00_MainSplitter", "ctl00_ui_mainslidingzone", "ctl00_MainPane", "1");Telerik.Web.UI.RadSlidingPane._preInitialize("ctl00_ui_favouritesearchpane", "ctl00_MainSplitter", "ctl00_ui_mainslidingzone", "ctl00_MainPane", "2");Telerik.Web.UI.RadSplitter._preInitialize("ctl00_ContentPlaceHolder2_ui_splitterMain");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_LeftPane", "ctl00_ContentPlaceHolder2_ui_splitterMain", "", "ctl00_ContentPlaceHolder2_Radsplitbar3",  0, 0, "False");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_EndPane", "ctl00_ContentPlaceHolder2_ui_splitterMain", "ctl00_ContentPlaceHolder2_Radsplitbar3", "",  2, 1, "True");Telerik.Web.UI.RadSplitter._preInitialize("ctl00_ContentPlaceHolder2_RadSplitter2");Telerik.Web.UI.RadPane._preInitialize("ctl00_ContentPlaceHolder2_MiddlePane", "ctl00_ContentPlaceHolder2_RadSplitter2", "ctl00_ContentPlaceHolder2_RadSplitbar1", "",  2, 1, "True");Sys.Application.initialize();
+Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadAjaxManager, {"_updatePanels":"","ajaxSettings":[],"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"defaultLoadingPanelID":"","enableAJAX":true,"enableHistory":false,"links":[],"styles":[],"uniqueID":"ctl00$RadAjaxManager1","updatePanelsRenderMode":0}, null, null, $get("ctl00_RadAjaxManager1"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadTextBox, {"_focused":false,"_postBackEventReferenceScript":"setTimeout(\"__doPostBack(\\\u0027ctl00$ui_mainmenu$i10$ui_quicksearchterm\\\u0027,\\\u0027\\\u0027)\", 0)","_skin":"Simple","clientStateFieldID":"ctl00_ui_mainmenu_i10_ui_quicksearchterm_ClientState","emptyMessage":"Quick Search...","enabled":true,"styles":{HoveredStyle: ["width:100px;", "riTextBox riHover"],InvalidStyle: ["width:100px;", "riTextBox riError"],DisabledStyle: ["width:100px;", "riTextBox riDisabled"],FocusedStyle: ["width:100px;", "riTextBox riFocused"],EmptyMessageStyle: ["width:100px;", "riTextBox riEmpty"],ReadOnlyStyle: ["width:100px;", "riTextBox riRead"],EnabledStyle: ["width:100px;", "riTextBox riEnabled"]}}, {"keyPress":QuickBoxKeyPress}, null, $get("ctl00_ui_mainmenu_i10_ui_quicksearchterm"));
-});
-Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"Black","attributes":{},"clientStateFieldID":"ctl00_ui_mainmenu_ClientState","collapseAnimation":"{\"duration\":450}","enableRoundedCorners":true,"enableShadows":true,"expandAnimation":"{\"duration\":450}","itemData":[{"navigateUrl":"~/faq.aspx"},{"navigateUrl":"~/login.aspx"},{"navigateUrl":"~/nzb_saver.aspx"},{"navigateUrl":"~/historysearch.aspx"},{"navigateUrl":"~/templatesearch.aspx"},{"navigateUrl":"~/favouritesearch.aspx"},{"navigateUrl":"~/index.aspx"},{"navigateUrl":"~/usenetgroups.aspx"},{"navigateUrl":"~/options.aspx"},{"navigateUrl":"~/watchlist.aspx"},{"text":"QuickSearch","templated":true}]}, null, null, $get("ctl00_ui_mainmenu"));
+    $create(Telerik.Web.UI.RadMenu, {"_childListElementCssClass":null,"_skin":"Black","attributes":{},"clientStateFieldID":"ctl00_ui_mainmenu_ClientState","collapseAnimation":"{\"duration\":450}","enableRoundedCorners":true,"enableShadows":true,"expandAnimation":"{\"duration\":450}","itemData":[{"navigateUrl":"/login.aspx"},{},{"navigateUrl":"/historysearch.aspx"},{"navigateUrl":"/templatesearch.aspx"},{"navigateUrl":"/favouritesearch.aspx"},{"navigateUrl":"/"},{"navigateUrl":"/usenetgroups.aspx"},{"navigateUrl":"/options.aspx"},{},{"text":"QuickSearch","templated":true}]}, {"itemClicked":onMainMenuClicked}, null, $get("ctl00_ui_mainmenu"));
 });
 Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadPane, {"_collapsedDirection":1,"_expandedSize":0,"_height":"26px","_originalHeight":"26px","_originalWidth":"","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":0,"clientStateFieldID":"ctl00_TopPane_ClientState","scrolling":4}, null, null, $get("ctl00_TopPane"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"OnRequestStart",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"ctl00_ui_mainloadingpanel","styles":[],"uniqueID":"ctl00$ui_saverpanel"}, null, null, $get("ctl00_ui_saverpanel"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSlidingPane, {"_clickToOpen":false,"_scrollLeft":0,"_scrollTop":0,"_slideDirection":4,"_slideDuration":300,"_splitterOrientation":0,"clientStateFieldID":"ctl00_ui_saveRPane_ClientState","enableDock":false}, {"expanding":OnSaveRClientExpanding}, null, $get("ctl00_ui_saveRPane"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"OnRequestStart",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"ctl00_ui_mainloadingpanel","styles":[],"uniqueID":"ctl00$ui_watchlistpanel"}, null, null, $get("ctl00_ui_watchlistpanel"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSlidingPane, {"_clickToOpen":false,"_scrollLeft":0,"_scrollTop":0,"_slideDirection":4,"_slideDuration":300,"_splitterOrientation":0,"clientStateFieldID":"ctl00_ui_watchlistpane_ClientState","enableDock":false}, {"expanding":OnWatchListClientExpanding}, null, $get("ctl00_ui_watchlistpane"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadAjaxPanel, {"clientEvents":{OnRequestStart:"",OnResponseEnd:""},"enableAJAX":true,"enableHistory":false,"links":[],"loadingPanelID":"ctl00_ui_mainloadingpanel","styles":[],"uniqueID":"ctl00$ui_favouritesearchpanel"}, null, null, $get("ctl00_ui_favouritesearchpanel"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSlidingPane, {"_clickToOpen":false,"_scrollLeft":0,"_scrollTop":0,"_slideDirection":4,"_slideDuration":300,"_splitterOrientation":0,"clientStateFieldID":"ctl00_ui_favouritesearchpane_ClientState","enableDock":false}, {"expanding":OnFavouriteSearchClientExpanding}, null, $get("ctl00_ui_favouritesearchpane"));
+});
+Sys.Application.add_init(function() {
+    $create(Telerik.Web.UI.RadSlidingZone, {"_height":"0px","_slideDirection":4,"_width":"100%","clientStateFieldID":"ctl00_ui_mainslidingzone_ClientState"}, null, null, $get("ctl00_ui_mainslidingzone"));
 });
 Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadPane, {"_collapsedDirection":1,"_expandedSize":0,"_height":"366px","_originalHeight":"366px","_originalWidth":"60%","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":1,"_width":"60%","clientStateFieldID":"ctl00_ContentPlaceHolder2_LeftPane_ClientState"}, null, null, $get("ctl00_ContentPlaceHolder2_LeftPane"));
@@ -286,103 +571,17 @@ Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadSplitter, {"_attachResizeHandler":false,"_height":"366px","_isNested":true,"_parentPaneId":"ctl00_MainPane","_registerWithScriptManager":true,"_visibleDuringInit":false,"_width":"398px","clientStateFieldID":"ctl00_ContentPlaceHolder2_ui_splitterMain_ClientState"}, {"resized":BrowserResized}, null, $get("ctl00_ContentPlaceHolder2_ui_splitterMain"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadPane, {"_childSplitterId":"ctl00_ContentPlaceHolder2_ui_splitterMain","_collapsedDirection":1,"_expandedSize":0,"_originalHeight":"","_originalWidth":"","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":0,"clientStateFieldID":"ctl00_MainPane_ClientState","minWidth":500,"scrolling":4}, null, null, $get("ctl00_MainPane"));
+    $create(Telerik.Web.UI.RadPane, {"_childSlidingZoneId":"ctl00_ui_mainslidingzone","_childSplitterId":"ctl00_ContentPlaceHolder2_ui_splitterMain","_collapsedDirection":1,"_expandedSize":0,"_originalHeight":"","_originalWidth":"","_scrollLeft":0,"_scrollTop":0,"_splitterOrientation":0,"clientStateFieldID":"ctl00_MainPane_ClientState","scrolling":4}, null, null, $get("ctl00_MainPane"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadSplitter, {"_attachResizeHandler":true,"_height":"100%","_isNested":false,"_orientation":0,"_registerWithScriptManager":true,"_visibleDuringInit":false,"_width":"100%","clientStateFieldID":"ctl00_MainSplitter_ClientState"}, null, null, $get("ctl00_MainSplitter"));
+    $create(Telerik.Web.UI.RadSplitter, {"_attachResizeHandler":true,"_height":"100%","_isNested":false,"_load":"ToggleSaveRPaneTabVisibility","_orientation":0,"_registerWithScriptManager":true,"_visibleDuringInit":false,"_width":"100%","clientStateFieldID":"ctl00_MainSplitter_ClientState"}, null, null, $get("ctl00_MainSplitter"));
 });
 Sys.Application.add_init(function() {
-    $create(Telerik.Web.UI.RadWindowManager, {"behaviors":32,"clientStateFieldID":"ctl00_windowManager_ClientState","formID":"form1","iconUrl":"","minimizeIconUrl":"","name":"windowManager","skin":"Simple","windowControls":"[]"}, null, null, $get("ctl00_windowManager"));
+    $create(Telerik.Web.UI.RadAjaxLoadingPanel, {"initialDelayTime":0,"isSticky":false,"minDisplayTime":0,"skin":"Simple","transparency":0,"uniqueID":"ctl00$ui_mainloadingpanel","zIndex":90000}, null, null, $get("ctl00_ui_mainloadingpanel"));
 });
 //]]>
 </script>
 </form>
-    <script type="text/javascript">
-        function OnWatchListCommand(sender, eventArgs) {
-            var senderid = "watchlist";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function OnTipsCommand(sender, eventArgs) {
-            var senderid = "tips";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function OnSaveRCommand(sender, eventArgs) {
-            var senderid = "saver";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function OnFilterOptionsCommand(sender, eventArgs) {
-            var senderid = "filteroptions";
-            var expired = new Date();
-            var command = eventArgs.Command.get_name();
-            var collapsed = sender.get_collapsed()
-            var c_string = "";
-            if (collapsed) {
-                c_string = "collapsed";
-            }
-            else {
-                c_string = "expanded";
-            }
-            expired.setDate(expired.getDate() + 30);
-            document.cookie = senderid + "=" + escape(c_string) + "; expires=" + expired.toGMTString() + "; path=/";
-        }
-
-        function QuickBoxKeyPress(sender, args) {
-            if (args.get_keyCode() == 13) {
-                var button = document.getElementById("ui_quicksubmit");
-                button.click();
-                args.set_cancel(true);
-            }
-        }
-
-        
-        function installSearchAddOn() {
-            if ("external" in window) {
-                window.external.AddSearchProvider('http://www.nzbclub.com/searchAddOn.xml');
-            }
-            else {
-                alert("Sorry, your browser does not support installing this Search Add-in");
-            }
-        }
-    </script>
 
 
 </body></html>
