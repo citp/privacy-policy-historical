@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the circuitstoday.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228205537id_/http%3A//www.circuitstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circuitstoday.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142653id_/http%3A//www.circuitstoday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Electronic Circuits and Diagram-Electronics Projects and Design
+
+## [Privacy Policy](http://www.circuitstoday.com/privacy-policy "Permanent Link to Privacy Policy")
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at _info@circuitstoday.com_.
 
