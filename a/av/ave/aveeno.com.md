@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425015535id_/http%3A//www.aveeno.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aveeno.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003536id_/http%3A//www.aveeno.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy | AveenoÂ®Skin Care Products
+# Our Privacy Policy | Aveeno®Skin Care Products
 
 **PRIVACY POLICY**
 
 **Welcome**   
-Welcome to the AVEENO.com website. This site is owned by Johnson & Johnson Consumer Products Company, division of Johnson & Johnson Consumer Companies, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site.
+Welcome to the AVEENO.com website. This site is intended for visitors from the U.S and is owned by Johnson & Johnson Consumer Products Company, division of Johnson & Johnson Consumer Companies, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using or submitting information to this site.
 
 **Your Consent**   
 By using this site, you agree to the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy. 
@@ -52,4 +52,4 @@ This site may contain links or references to other websites to which this Privac
 If you have any questions, comments, requests, or concerns related to this Privacy Policy or the information practices of this site, or if you would like to opt out of future communications, please contact us as follows: Johnson & Johnson Consumer Products Company Attn: Information Center 199 Grandview Road Skillman, NJ 08558-9418 1-888-638-5242
 
 **Changes to This Privacy Policy**  
-If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on June 12, 2003.
+If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information. This Privacy Policy was last updated on September 2, 2011.
