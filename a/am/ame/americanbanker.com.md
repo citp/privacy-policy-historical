@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301134549id_/http%3A//www.americanbanker.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanbanker.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000101id_/http%3A//www.americanbanker.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - American Banker
+
+#### Privacy Policy
 
 SourceMedia, publisher of American Banker, provides market information, including news, analysis, and insight to the financial services and related industries such as accounting and technology, through its publications, industry-standard data applications, seminars and conferences. Our privacy policy continues our commitment to serve you and explains how we intend to protect your privacy. 
 
