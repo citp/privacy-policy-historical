@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlmformula.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217204655id_/http%3A//www.mlmformula.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlmformula.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123116id_/http%3A//mlmformula.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
