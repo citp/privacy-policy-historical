@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2010-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100507211647id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viart.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120128id_/http%3A//www.viart.com/privacy) for the most accurate reproduction.*
 
-# ViArt Ltd Privacy Policy
+# ViArt Software Privacy Policy
 
 [Data Protection](http://www.viart.com/#12)  
 [Collection & Use Of Information](http://www.viart.com/#13)  
@@ -13,7 +13,7 @@
 | **Data Protection** | [](http://www.viart.com/#top)  
 ---|---  
   
-ViArt Ltd are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience. 
+ViArt Software are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalised shopping experience. 
 
 **Collection & Use Of Information** | [](http://www.viart.com/#top)  
 ---|---  
@@ -35,7 +35,7 @@ We do not send random marketing emails to personal email addresses (spam).
   
 When you place orders or access your order information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us.
 
-Furthermore, as required by the UK Data Protection Acts of 1984 and 1998, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
+Furthermore, as required by the Data Protection Acts of 1984 and 1998, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
 
 Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you.
 
@@ -52,16 +52,16 @@ For a full technical explanation of cookies, see Netscape's cookie specification
 **Disclosure Of Information** | [](http://www.viart.com/#top)  
 ---|---  
   
-ViArt Ltd does not sell, trade or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank email message to [nomail@viart.com](mailto:nomail@viart.com).
+ViArt Software does not sell, trade or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can tell us not to by sending a blank email message to [nomail@viart.com](mailto:nomail@viart.com).
 
-ViArt Ltd may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no information that will identify individuals.
+ViArt Software may also provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no information that will identify individuals.
 
 Where there is sufficient evidence to suggest that fraud is being perpetuated, we reserve the right to pass data to other businesses, fraud databases and relevant authorities.
 
 **Your Consent** | [](http://www.viart.com/#top)  
 ---|---  
   
-By using our web site, you consent to the collection and use of this information by ViArt Ltd. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+By using our web site, you consent to the collection and use of this information by ViArt Software. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
 
 **Privacy Policy Contact** | [](http://www.viart.com/#top)  
 ---|---  
