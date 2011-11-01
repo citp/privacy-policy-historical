@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2010-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100908095515id_/http%3A//www.nettigritty.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nettigritty.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164631id_/http%3A//www.nettigritty.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | nettigritty.com Web Hosting Bangalore (Bengaluru), India
 
