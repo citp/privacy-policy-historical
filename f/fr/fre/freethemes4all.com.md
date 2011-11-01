@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423030754id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freethemes4all.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001951id_/http%3A//www.freethemes4all.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Website Templates
+
+## Privacy Policy
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us.At freethemes4all.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.freethemes4all.com and how it is used.  
  **Log Files**  
@@ -14,4 +16,5 @@ You should consult the respective privacy policies of these third-party ad serve
 www.freethemes4all.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.  
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-[print-link][/print-link]
+  
+
