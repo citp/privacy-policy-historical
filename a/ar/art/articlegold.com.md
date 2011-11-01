@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the articlegold.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227120620id_/http%3A//www.articlegold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlegold.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215322id_/http%3A//www.articlegold.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Articlegold.com
+
+_Amended: 19-Mar-2011_
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -24,7 +26,13 @@ We use cookies on this website. A cookie is a text file sent by a web server to 
 
 We use session cookies to keep track of you whilst you navigate the website; and persistent cookies to enable our website to recognise you when you visit. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
-We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+Articlegold.com uses Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information.
+
+Articlegold.com uses reputable services like Google Adsense (www.google.com/adsense) to place ads on our Web pages. As a result of your visit to our site, these companies may use cookies to collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of Google at http://www.google.com/intl/en/privacy/ .
+
+* The DoubleClick DART cookie is used by Google in the ads served on the websites of its partners, such as websites displaying AdSense ads or participating in Google certified ad networks. When users visit a partner's website and either view or click on an ad, a cookie may be dropped on that end user's browser. The data gathered from these cookies will be used to help better serve and manage ads on the publisher's site(s) and across the web.
+
+* Users may opt out of the use of the DART cookie by visiting the [advertising opt-out page](http://www.google.com/privacy_ads.html). (Alternatively, you can direct users to opt out of a third-party vendor's use of cookies by visiting the Network Advertising Initiative [opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).)
 
 Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking "Tools", "Internet Options", "Privacy", and selecting "Block all cookies" using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
 
