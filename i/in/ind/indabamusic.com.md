@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the indabamusic.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231162256id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indabamusic.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003941id_/http%3A//www.indabamusic.com/corporate/privacy) for the most accurate reproduction.*
 
-# Find People. Make Music. Online - Indaba Music
+# Indaba Music
+
+This page load seems to be taking a long time.   
+If the page does not load within 5 seconds, try reloading. 
 
 **Scope of Privacy Policy**
 
