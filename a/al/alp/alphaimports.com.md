@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223005902id_/http%3A//www.alphaimports.com/help/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphaimports.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003346id_/http%3A//www.alphaimports.com/help/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - check the privacy
 
@@ -41,7 +41,7 @@ Users who no longer wish to receive our newsletter and promotional communication
   
 [](https://www.paypal.com/us/verified/pal=orders@alphaimports.com)   
   
-[ ](http://www.gia.edu/about/10876/linking_to_gia_disclaimer.cfm)
+[](http://www.bbb.org/new-york-city/business-reviews/wholesalers-and-distributors/alpha-imports-ny-inc-in-new-york-ny-74820/#bbbonlineclick "Alpha Imports NY, Inc. BBB Business Review") [ ](http://www.gia.edu/about/10876/linking_to_gia_disclaimer.cfm)
 
   
 
