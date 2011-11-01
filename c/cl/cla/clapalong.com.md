@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clapalong.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505162235id_/http%3A//www.clapalong.com%3Faction%3Ddefault%21privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clapalong.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002216id_/http%3A//www.clapalong.com%3Faction%3Ddefault%21privacy) for the most accurate reproduction.*
 
-# Clapalong: Where Games Are Played and Shared
+# Privacy Policy
 
 This privacy policy covers how we treat personal information that we collect and receive. We do not intend to collect any personal information from children under 13 unless we believe such collection to be permitted by law. Please see below for our policy with respect to children under 13. 
 
