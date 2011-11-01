@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627084059id_/http%3A//m4maths.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m4maths.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105412id_/http%3A//www.m4maths.com/privacy.php) for the most accurate reproduction.*
 
 # M4maths Privacy policy
-
-1)krishna kumar gupta (BBDNITM LUCKNOW) **42 Marks**    2)Biswajit Das (JIS College of Engineering, Kalyani.) **39 Marks**    3)sir amit nathani (IEC College of Engineering and Technology) **39 Marks** [**_View 10 April Test Result_**](https://web.archive.org/web/20110627084059id_/http%3A//m4maths.com/test_result.php)
 
 ### M4MATHS Privacy Policy
 
