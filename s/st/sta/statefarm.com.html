@@ -1,9 +1,36 @@
-<!--The following is the downloaded HTML source of the statefarm.com privacy policy that was archived on 2011-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110511112453id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the statefarm.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101065411id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" defer="defer" src="https://ipinvite.iperceptions.com/Invitations/Javascripts/ip_Layer_Invitation_778.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">
+	  if(typeof jQuery === "undefined"){
+	    document.write("<scr" + "ipt src='http://sfesearch.statefarm.com/Resources/js/jquery-1.4.2.min.js'></scr" + "ipt>");
+	  }
+	</script><script src="http://sfesearch.statefarm.com/Resources/js/jquery-1.4.2.min.js"></script>	
+	<script type="text/javascript"> 
+			<!-- iPerceptions site monitor script. See Bart Lammey with questions. -->
+      var ipeSM = {
+        maximize: true,
+        siteMonitor: true,
+        sID: '847',
+        domainMonitor: 'statefarm.org',
+        pageMonitored : 'purOnlineThankYou',
+        timeOut: 2000,
+        errorPages: ['kickoutPage', 'errorBlockPage'],
+        surveyLink: '//ai-collect01.iperceptions.com/study/start.aspx?sessionID=1&lang=1&tagLang=1&re=1&tagre=1&drive=C&compCode=279&SDate=1/26/2009&surveyID=847&UGRandomTags=0&RQRandomQs=0&RQStart=0&RQEnd=10&UGQualifyingQNumber=1&indicator=4.2&multiplier=1.4&compName=&referrer='  
+      };        
+	    $(document).ready(function() { 
+	    	setTimeout(function(){
+	      setTimeout( function(){}, 1000);
+	      var head = document.getElementsByTagName('head')[0];         
+	      var script = document.createElement('script');
+	      script.setAttribute('type','text/javascript');
+	      script.setAttribute('language','javascript');
+	      script.setAttribute('src','https://ipinvite.iperceptions.com/Invitations/Javascripts/ip_Layer_Invitation_778.js');
+	      head.appendChild(script);
+	     }, 2000);
+	    }, 3000);
+	</script>
 	
-
 <script type="text/javascript" src="http://www.statefarm.com/pzn_json_inc/update_sfuid.js"></script>
 
 
@@ -207,8 +234,12 @@
   SF Insurance Placement Corporation  of Canada<br>
   Insurance Placement Services, Inc.<br>
   State Farm International Life  Insurance Company Ltd.&nbsp; <br>
-  Plaza One Realty Co.</p>
-<h3>OTHER IMPORTANT INFORMATION</h3>
+  Plaza One Realty Co. <br>
+  State Farm Guaranty Insurance Company <br>State Farm Variable Product Trust <br>
+  
+
+  
+</p><h3>OTHER IMPORTANT INFORMATION</h3>
 <p><strong>Residents of Vermont: </strong>State Farm will not share your personal information across our State Farm family of companies unless you have  authorized us to do so. This does not limit State Farm from sharing certain information about your transactions with us (such as your  payment history) or your experience with us (such as your claim history) as permitted by law.</p>
 <p>  <strong>Residents of California: </strong>State Farm may collect personal information from sources other than the individual applying for coverage or opening  an account with State Farm. Such personal information may, in certain cases, be disclosed to third parties without your authorization as<br>
   permitted by law. If you would like additional information about the collection and disclosure of personal information, please contact your  State Farm agent. You may also act upon your right to see and correct any personal information in your State Farm files by writing your State<br>
@@ -396,17 +427,87 @@ Home Offices: Bloomington, IL 61710-0001</p>
 <!-- Meta Navigation -->
 
 
-<div id="metaNav">
-<p class="hidden">Account Navigation</p>
-  <!-- mp_trans_disable_start -->
+
+    <!-- MotionPoint Corporation_JavaScriptCode_StateFarm_enes_08-08-11-->
+    <script>
+    var MP = {
+    <!-- mp_trans_disable_start --> 
+      Version: '1.0.22',
+      Domains: {'es':'es.statefarm.com'},	
+      SrcLang: 'en',
+    <!-- mp_trans_disable_end -->
+      UrlLang: 'mp_js_current_lang',
+      SrcUrl: unescape('mp_js_orgin_url'),
+    <!-- mp_trans_disable_start --> 	
+      init: function(){
+        if (MP.UrlLang.indexOf('p_js_')==1) {
+          MP.SrcUrl=window.top.document.location.href;
+          MP.UrlLang=MP.SrcLang;
+      }
+    },
+    getCookie: function(name){
+      var start=document.cookie.indexOf(name+'=');
+      if(start < 0) return null;
+      start=start+name.length+1;
+      var end=document.cookie.indexOf(';', start);
+      if(end < 0) end=document.cookie.length;
+      while (document.cookie.charAt(start)==' '){ start++; }
+      return unescape(document.cookie.substring(start,end));
+    },
+    setCookie: function(name,value,path,domain){
+      var cookie=name+'='+escape(value);
+      if(path)cookie+='; path='+path;
+      if(domain)cookie+='; domain='+domain;
+      var now=new Date();
+      now.setTime(now.getTime()+1000*60*60*24*365);
+      cookie+='; expires='+now.toUTCString();
+      document.cookie=cookie;
+    },
+    switchLanguage: function(lang){
+      if(lang!=MP.SrcLang){
+        var script=document.createElement('SCRIPT');
+        script.src=location.protocol+'//'+MP.Domains[lang]+'/'+MP.SrcLang+lang+'/?1023749632;'+encodeURIComponent(MP.SrcUrl);
+    	document.body.appendChild(script);
+      } else if(lang==MP.SrcLang && MP.UrlLang!=MP.SrcLang){
+        var script=document.createElement('SCRIPT');
+        script.src=location.protocol+'//'+MP.Domains[MP.UrlLang]+'/'+MP.SrcLang+MP.UrlLang+'/?1023749634;'+encodeURIComponent(location.href);
+    	document.body.appendChild(script);
+      }
+      return false;
+    },
+    switchToLang: function(url) {
+      window.top.location.href=url; 
+    }
+    <!-- mp_trans_disable_end -->   
+    };
+    </script>
+
+
+    <div id="metaNav">
+    <p class="hidden">Account Navigation</p>
+
+
   <ul>
-    <li><a mpdisnav="" href="http://statefarm.convertlanguage.com/statefarm/enes/24/_www_statefarm_com/about/privacy/privacy.asp?WT.svl=82" id="languageSelect">En Español</a></li>
-  <!-- mp_trans_disable_end -->
-    <li><a href="http://www.statefarm.com/account.htm"><span>Your State Farm </span>Account Login</a></li>
-    <li><a href="https://online.statefarm.com/apps/InsRegister/YourAccount.asp">Register <span>for a State Farm Account</span></a></li>
-	
-  </ul>
-</div>
+    <li>
+        <a mporgnav="" href="http://es.statefarm.com" onclick="return switchLanguage('es');
+                function switchLanguage(lang) {
+                    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+                	MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+                	return false;
+                }
+
+                ">En Español
+        </a>
+    </li>
+
+     
+ 
+ 
+        <li><a href="http://www.statefarm.com/account.htm"><span>Your State Farm </span>Account Login</a></li>
+        <li><a href="https://online.statefarm.com/apps/InsRegister/YourAccount.asp">Register <span>for a State Farm Account</span></a></li>
+    	
+      </ul>
+    </div>
 <!-- Meta Navigation -->
 
 <!-- Bread Crumb -->
@@ -426,10 +527,10 @@ Home Offices: Bloomington, IL 61710-0001</p>
 <ul>
 	<li><a href="http://www.statefarm.com/index.asp">Home</a></li>
 	<li><a href="http://www.statefarm.com/aboutus/aboutus.asp">About</a></li>
-	<li><a href="https://online.statefarm.com/apps/AskSF/">Contact</a></li>
+	<li><a href="http://www.statefarm.com/aboutus/contact-us/contact-us.asp">Contact</a></li>
 	<li><a href="http://www.statefarm.com/about/terms/terms.asp">Terms of Use</a></li>
-	<li><a href="http://www.statefarm.com/about/privacy/privacy.asp">Privacy policy</a></li>
-	<li><a href="http://www.statefarm.com/sitemap.html">Sitemap</a></li>
+	<li><a href="http://www.statefarm.com/about/privacy/privacy.asp">Privacy Policy</a></li>
+	<li><a href="http://www.statefarm.com/sitemap.html">Site Map</a></li>
 	<li class="last"><a href="http://www.statefarm.com/about/terms/terms.asp#license">Licensing Information</a></li>
 </ul>© State Farm Mutual Automobile Insurance Company. Home Office, Bloomington, Illinois
 </div>
@@ -461,8 +562,6 @@ _tag.dcsCollect();
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsx42rco00000k3oklx7mhdf_6v4b/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
-
-
 
 
 <!-- Footer -->
