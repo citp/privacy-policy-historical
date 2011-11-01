@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the trapcall.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323231728id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trapcall.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120229id_/http%3A//www.trapcall.com/privacy) for the most accurate reproduction.*
 
-# TrapCall - Privacy Policy
+# Privacy Policy - TrapCall
+
+### FOR [TRAPCALL.COM](http://trapcall.com/) PHONE SERVICE
 
 Trapcall.com knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. We take your privacy seriously. You can learn more about our Privacy Policy below. By visiting Trapcall.com or using our services, you are accepting the practices described in this Privacy Policy. Please choose the most appropriate e-mail address for your message from the list below. We will try to reply as quickly as possible. 
 
