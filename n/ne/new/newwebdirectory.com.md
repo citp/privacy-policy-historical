@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the newwebdirectory.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516084907id_/http%3A//www.newwebdirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newwebdirectory.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101192702id_/http%3A//www.newwebdirectory.com/privacy.html) for the most accurate reproduction.*
 
 # New Web Directory: The New Web Site Directory
 
-#### Privacy Policy Overview
-
+  
 This Privacy Policy covers the New Web Directory treatment of personal information that is recorded when you submit your site for inclusion in our database. Our privacy policy does not apply to the practices of other companies advertised, or otherwise listed, on the New Web Directory web site, nor does it extend to people that New Web Directory does not employ or manage. 
 
 **Information Collection and Use**
