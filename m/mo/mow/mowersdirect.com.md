@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mowersdirect.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502130404id_/http%3A//www.mowersdirect.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mowersdirect.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115533id_/http%3A//www.mowersdirect.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy @ Mowers Direct.com - Your Online Mower Superstore
 
@@ -48,7 +48,7 @@ Power Equipment Direct, Inc. websites contains links to other websites. Please n
 If you have any questions about this Privacy statement, the practices of this website, or your dealings with this website, you can contact: 
 
 Power Equipment Direct, Inc.   
-600 Territorial Drive, Suite B   
-Bolingbrook, IL 60440 
+1325 Rodeo Drive   
+Bolingbrook, IL 60490 
 
 You can also send an e-mail to [service@mowersdirect.com](mailto:service@mowersdirect.com). Thank you. 
