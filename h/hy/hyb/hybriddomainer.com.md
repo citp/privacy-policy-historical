@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hybriddomainer.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306093756id_/http%3A//www.hybriddomainer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hybriddomainer.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005746id_/http%3A//www.hybriddomainer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HybridDomainer
 
