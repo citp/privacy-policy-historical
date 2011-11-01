@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addiszefen.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125055653id_/http%3A//www.addiszefen.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addiszefen.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101110100id_/http%3A//www.addiszefen.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - www.addiszefen.com
 
@@ -19,7 +19,7 @@ www.addiszefen.com does use cookies to store information about visitors preferen
 **DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.addiszefen.com.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to www.addiszefen.com and other sites on the Internet.   
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.addiszefen.com and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
