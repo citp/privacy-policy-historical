@@ -1,18 +1,23 @@
-> *The following text is extracted and transformed from the pornupload.com privacy policy that was archived on 2010-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101018220402id_/http%3A//www.pornupload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornupload.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101180001id_/http%3A//www.pornupload.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Porn Upload - Privacy Policy
 
-Pornupload is committed to protecting your online privacy. The following policy explains how your personal information will be treated when you register for an Pornupload account. If we are going to use customers’ personally identifiable information in a manner different from that stated at the time of collection we will notify customers by posting a notice on our Web site for 30 days.
+  
 
-This privacy statement covers the site www.Pornupload.com. Because this Web site wants to demonstrate its commitment to our users’ privacy. 
 
-If users have questions or concerns regarding this statement, they should first contact Pornupload's Customer Support group by e-mail at [contact us](http://help.pornupload.com/). 
+### Privacy Policy
+
+Pornupload is committed to protecting your online privacy. The following policy explains how your personal information will be treated when you register for an Pornupload account. If we are going to use customers' personally identifiable information in a manner different from that stated at the time of collection we will notify customers by posting a notice on our Web site for 30 days.
+
+This privacy statement covers the site www.Pornupload.com. Because this Web site wants to demonstrate its commitment to our users' privacy.
+
+If users have questions or concerns regarding this statement, they should first contact Pornupload's Customer Support group by e-mail at [contact us](http://help.pornupload.com/).
 
 Simply put, we are committed to providing you with the best service available online or elsewhere.
 
 **What is Pornupload and why is my information needed?**
 
-Pornupload provides customers with online storage space which can be used to store, share, access, and protect important files. Pornupload is web based, and we require, at a minimum, a first name, last name, password, and valid e-mail address. 
+Pornupload provides customers with online storage space which can be used to store, share, access, and protect important files. Pornupload is web based, and we require, at a minimum, a first name, last name, password, and valid e-mail address.
 
 **What personal information does Pornupload collect from me?**
 
@@ -20,7 +25,7 @@ Pornupload collects personal information upon registration. When upgrading to a 
 
 In addition to registration we may ask you for personal information at other times, including immediately following the registration process, when you enter a contest or promotion sponsored by Pornupload, and when you report a problem with the service or with your account. If you contact Pornupload we will keep a record of that correspondence. In addition, Pornupload occasionally asks registered users to complete surveys that we use for research purposes. A link is included to this Privacy Policy wherever Pornupload collects personal information.
 
-Pornupload customers use our service to store files and folders (data). Pornupload will not review, share, distribute, print, or reference any such data except as outlined in the [Terms of Service](http://www.pornupload.com/terms.html) or as may be required by law.
+Pornupload customers use our service to store files and folders (data). Pornupload will not review, share, distribute, print, or reference any such data except as outlined in the [Terms of Service](https://web.archive.org/web/20111101180001id_/http%3A//www.pornupload.com/terms.html) or as may be required by law.
 
 **What are cookies and how does Pornupload use them?**
 
@@ -28,8 +33,16 @@ In order to provide a personalized service, Pornupload uses cookies to store som
 
 Generally, we use cookies:
 
-  * To establish an authenticated session with the service when you login to your Pornupload account using our web interface. When you use Pornupload's web interface to access your account, logging in will require that you accept a session ID cookie. When you close your web browser, the session ID cookie will terminate.
-  * To remember some of your basic account preferences in order to deliver a better, more personalized service. A persistent cookie may be set when you register, "Sign In," or use the Pornupload web interface to record certain application settings and other preferences.
+  
+
+
+  
+
+  * To establish an authenticated session with the service when you login to your Pornupload account using our web interface. When you use Pornupload's web interface to access your account, logging in will require that you accept a session ID cookie. When you close your web browser, the session ID cookie will terminate. 
+  
+
+  * To remember some of your basic account preferences in order to deliver a better, more personalized service. A persistent cookie may be set when you register, "Sign In," or use the Pornupload web interface to record certain application settings and other preferences. 
+  
 
 
 
@@ -45,11 +58,24 @@ Pornupload does research on customer demographics and behavior based on the info
 
 **With whom does Pornupload share my information?**
 
-Pornupload will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see our [Terms of Service](http://www.pornupload.com/terms.html) for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
+Pornupload will not disclose any of your personal information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see our [Terms of Service](https://web.archive.org/web/20111101180001id_/http%3A//www.pornupload.com/terms.html) for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed.
 
-  * **Data in the Aggregate** : Pornupload may disclose aggregated statistics in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
-  * **Special Circumstances:** Pornupload may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Pornupload's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) Pornupload's rights or property, other Pornupload users, or anyone else that could be harmed by such activities. Pornupload may disclose or access account information when we believe in good faith that the law requires it.
-  * **Third Party Retail Distributors:** Should you signup for Pornupload through one of our third party retail distributors, Pornupload may disclose your email address to that specific third party retail distributor.
+  
+
+
+  
+
+  * **Data in the Aggregate** : Pornupload may disclose aggregated statistics in order to describe our services to prospective partners, advertisers, and other third parties, and for other lawful purposes. 
+  
+
+  * **Special Circumstances:** Pornupload may also disclose account information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Pornupload's Terms of Service or may be causing injury to or interference with (either intentionally or unintentionally) Pornupload's rights or property, other Pornupload users, or anyone else that could be harmed by such activities. Pornupload may disclose or access account information when we believe in good faith that the law requires it. 
+  
+
+  * **Third Party Retail Distributors:** Should you signup for Pornupload through one of our third party retail distributors, Pornupload may disclose your email address to that specific third party retail distributor. 
+  
+
+  
+
 
 **What are my choices regarding collection, use, and distribution of my information?**
 
@@ -84,3 +110,7 @@ Ultimately, you are responsible for maintaining the secrecy of your passwords an
 **Additional Information**
 
 Questions regarding this statement should be directed to [contact us](http://help.pornupload.com/) page.
+
+  
+  
+
