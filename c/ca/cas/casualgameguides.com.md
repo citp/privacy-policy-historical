@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casualgameguides.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225013558id_/http%3A//www.casualgameguides.com/games/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casualgameguides.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003144id_/http%3A//www.casualgameguides.com/games/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Engenuous Software Privacy Policy
 
@@ -30,13 +30,13 @@ Engenuous Software may collect information from you when you provide information
 
 1.4. Other Methods of Collecting Personal Information:
 
-Other occasions when Engenuous Software obtains information from you include (1) your claiming a prize or seeking to redeem an incentive offered by Engenuous Software or by a third party, (2) your requests for assistance through Engenuous Softwareâ€™s customer service department, and (3) when you voluntarily subscribe to a Engenuous Software service or newsletter.
+Other occasions when Engenuous Software obtains information from you include (1) your claiming a prize or seeking to redeem an incentive offered by Engenuous Software or by a third party, (2) your requests for assistance through Engenuous Software's customer service department, and (3) when you voluntarily subscribe to a Engenuous Software service or newsletter.
 
 1.5. Cookies, Web Beacons, and Other Info Collected Using Technology: Engenuous Software currently uses cookie and web beacon technology to associate certain Internet-related information about you with information about you in its database. Additionally, Engenuous Software may use other new and evolving sources of information in the future.
 
 (a) Cookies: Cookies are a feature on your browser software. If enabled, we may write cookies that may store small amounts of data on your computer about your visit to any of the pages of this Site. Cookies assist us in tracking which of our features appeal the most to you and what content you may have viewed on past visits. When you visit this site again, cookies can enable us to customize our content according to your preferences. We may use cookies to: keep track of the number of return visits to this site; accumulate and report aggregate, statistical information on website usage; deliver specific content to you based on your interests or past viewing history; save your password for ease of access to our Site. You can disable cookies, although the Site may not function properly for you. Your browser preferences can be modified to accept or reject all cookies, or request a notification when a cookie is set. You may read more about cookies at http://cookiecentral.com. In order to use all of the features and functionality of Engenuous Software s websites, you need to accept cookies.
 
-(b) Web Beacons: A web beacon is a programming code that can be used to display an image on a web page, but can also be used to transfer your unique user identification to a database and associate you with previously acquired information about an individual in a database. This allows Engenuous Software to track certain websites you visit. Web beacons are used to track online behavioral habits for marketing purposes to determine products or services you may be interested in. In addition to using web beacons on web pages, Engenuous Software also uses web beacons in email messages sent to individuals listed in Engenuous Softwareâ€™s database.
+(b) Web Beacons: A web beacon is a programming code that can be used to display an image on a web page, but can also be used to transfer your unique user identification to a database and associate you with previously acquired information about an individual in a database. This allows Engenuous Software to track certain websites you visit. Web beacons are used to track online behavioral habits for marketing purposes to determine products or services you may be interested in. In addition to using web beacons on web pages, Engenuous Software also uses web beacons in email messages sent to individuals listed in Engenuous Software's database.
 
 (c) IP Addresses:
 
@@ -60,7 +60,7 @@ The following section describes how Engenuous Software uses personal information
 
 2.1. Discretion to Use Information:
 
-The personal information collected on this site and by third parties will be used to operate the site and to provide the services or products or carry out the transactions you have requested or authorized. Engenuous Software may change or broaden its use of your personal information at any time. Engenuous Software may use your personal information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, and other possible uses.â€¨â€¨Engenuous Software MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN ITS SOLE DISCRETION.
+The personal information collected on this site and by third parties will be used to operate the site and to provide the services or products or carry out the transactions you have requested or authorized. Engenuous Software may change or broaden its use of your personal information at any time. Engenuous Software may use your personal information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, and other possible uses. Engenuous Software MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN ITS SOLE DISCRETION.
 
 2.2. Email:
 
@@ -78,7 +78,7 @@ Engenuous Software stores your information in a database on Engenuous Software s
 
 3.1. Sale or Transfer to Third Parties:
 
-Engenuous Software MAY SELL OR TRANSFER YOUR PERSONAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN Engenuous Softwareâ€™s SOLE DISCRETION. Engenuous Software uses your personal information in the following 3 ways: Customer Service; Marketing; and Complying with the law.
+Engenuous Software MAY SELL OR TRANSFER YOUR PERSONAL INFORMATION TO THIRD PARTIES FOR ANY PURPOSE IN Engenuous Software's SOLE DISCRETION. Engenuous Software uses your personal information in the following 3 ways: Customer Service; Marketing; and Complying with the law.
 
 3.2. Customer Service:
 
@@ -88,7 +88,7 @@ Engenuous Software will use your personal information to respond to you, to proc
 
 Engenuous Software will use your personal information for any marketing and survey purpose on behalf of Engenuous Software and its affiliates and subsidiaries to send information to you about additional goods or services that may be of interest to you. In addition, Engenuous Software will disclose your personal information to third party agents and independent contractors to help us conduct our marketing and survey efforts and to share with other companies in connection with marketing efforts, including but not limited to, direct marketing. You may have no relationship with these other companies.
 
-3.4. Complying with Legal Process: Engenuous Software will use or disclose your personal information in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise our legal rights or defend against legal claims or in the event you violate or breach an agreement with Engenuous Software Engenuous Software will use and disclose your personal information if we believe you will harm the property or rights of Engenuous Software , its owners, or those of Engenuous Softwareâ€™s other customers. Finally, we will use or disclose your personal information if we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Engenuous Software's acceptable use policy, or as otherwise required by law when responding to subpoenas, court orders and other legal processes.
+3.4. Complying with Legal Process: Engenuous Software will use or disclose your personal information in response to subpoenas, court orders, warrants, or legal process, or to otherwise establish or exercise our legal rights or defend against legal claims or in the event you violate or breach an agreement with Engenuous Software Engenuous Software will use and disclose your personal information if we believe you will harm the property or rights of Engenuous Software , its owners, or those of Engenuous Software's other customers. Finally, we will use or disclose your personal information if we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Engenuous Software's acceptable use policy, or as otherwise required by law when responding to subpoenas, court orders and other legal processes.
 
 3.5. Order Fulfillment:
 
