@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relylocal.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628152248id_/http%3A//www.relylocal.com/henderson-nevada/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relylocal.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234121id_/http%3A//www.relylocal.com/page/privacy-policy) for the most accurate reproduction.*
 
-# RelyLocal in Henderson, Nevada : Support Local Businesses, Find Local Jobs, Print Local Coupons
+# RelyLocal | Privacy Policy | Community Campaigns to Stimulate Local Economies
 
 ## 1\. Our Commitment to Privacy
 
