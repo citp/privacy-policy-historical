@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522021553id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestpharmacy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122728id_/http%3A//www.northwestpharmacy.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NorthWestPharmacy.com
 
-| 
-
-|   
+|  |  |   
 ---  
   
 |   
@@ -61,7 +59,6 @@ The College is located at:
 Vancouver, BC, V6J 5C6  
   
 ---|---  
-  
 |    
 Privacy Policy  
   
@@ -71,7 +68,7 @@ At NorthWestPharmacy.com, your health and the protection of your personal inform
 
 This privacy policy covers the privacy practices of [ www.NorthWestPharmacy.com](http://www.northwestpharmacy.com/)
 
-Effective: 9/13/2010
+Updated: 7/7/2011
 
 NorthWestPharmacy.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [ TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us by email at [ CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com), by toll-free telephone at 1-866-539-5330 or by toll-free fax at 1-866-539-5331. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
@@ -111,7 +108,7 @@ The security of your personal information is important to us. When you enter sen
 
 **__Accessing and Amending Your Information__**
 
-If your or your family members personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site or by emailing our Customer Support at [CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com). 
+If your or your family members personally identifiable information changes, or if you no longer desire our service, you may correct or update it by making the change within the “My Account” section of the site or by emailing our Customer Support at [CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com).We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [CustomerService@NorthWestPharmacy.com](mailto:customerservice@northwestpharmacy.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
 **__Cookies__**
 
@@ -123,7 +120,11 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 **__Third Party Cookies__**
 
-The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart. 
+The use of cookies by third parties is not covered by our privacy statement. We do not have access or control over these cookies. These third parties use session ID cookies to make it easier for you to navigate our site, in order for you to use the shopping cart.
+
+ ** _Flash LSO's_**
+
+We use local shared objects, also known as Flash cookies, to store your preferences or display content based upon what you view on our site to personalize your visit. Third parties, with whom we partner or provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored. Cookie management tools provided by your browser will not remove Flash cookies. To learn how to manage privacy and storage settings for Flash cookies click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
 
 **__Links to Other Sites__**
 
