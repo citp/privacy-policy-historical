@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diabloii.net privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402010758id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabloii.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001131id_/http%3A//www.incgamers.com/Pages/11/Privacy.html) for the most accurate reproduction.*
 
 # IncGamers
 
