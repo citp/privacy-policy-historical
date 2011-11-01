@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212050321id_/http%3A//pbskidsplay.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151543id_/http%3A//www.pbskidsplay.org/privacy) for the most accurate reproduction.*
 
-# PBS KIDS PLAY! Privacy Policy
+# PBS KIDS PLAY! Home Edition - Learning games for school readiness with PBS KIDS characters.
 
-_Last modified on March 11, 2008. ****_
+_Last modified on June 14, 2011. ****_
 
 This Privacy Policy explains how PBS collects, uses, and protects your personal information in relation to PBS KIDS PLAY!SM. Please note that by using PBS KIDS PLAY!, you are agreeing to the terms of this privacy policy, which differs from the privacy policies of other PBS websites. Here is the bottom line: PBS WILL NOT, UNDER ANY CIRCUMSTANCES, SELL OR RENT YOUR PERSONAL INFORMATION TO ANY THIRD PARTY. 
 
@@ -10,7 +10,7 @@ Following is a description of the personal information PBS may collect from you 
 
 ### Your email address.
 
-PBS has a zero-spam policy. This means that, except in the specific circumstances noted below, we do not send you any emails unless you expressly opt into our mailing list. We will always honor your request to remove you from the list in a timely manner. In addition, the emails that we send to opt-in recipients are solely for the purpose of providing editorial content about PBS KIDS PLAY! and do not advertise any products. 
+PBS has a zero-spam policy. This means that, except in the specific circumstances noted below, we do not send you any emails unless you expressly opt into our mailing list. We will always honor your request to remove you from the list in a timely manner. 
 
 The following are circumstances under which we may send emails to you, without your prior explicit permission (i.e., even if you do not opt in):
 
@@ -25,13 +25,23 @@ The following are circumstances under which we may send emails to you, without y
 
 You can easily refer friends to PBS KIDS PLAY! with our "Tell a Friend" feature. If you choose to use this feature, PBS will send one personalized email to your friend about PBS KIDS PLAY!. We will not, under any circumstances, sell or rent your friend's email address and we will not send any further emails to his or her address without his or her explicit request to do so.
 
+### Your phone number.
+
+We may ask for your (or your organization's) phone number either during trial registration (Classroom Edition only) or if you make a purchase. The following are circumstances under which we may call you, without your prior explicit permission:
+
+  1. We may alert you if there is an issue with your subscription account or any other circumstance that could result in a disruption of service or breach of security.
+  2. We may call you in an attempt to respond to your inquiry in the event you provide an email address that bounces back to us.
+  3. For Classroom Edition trial accounts ONLY, we may call your organization as a follow-up to your classroom trial.
+
+
+
 ### Your child's username.
 
 A "username" is a nickname that you create for each child who uses PBS KIDS PLAY! This username can be fictional and does not include the child's family name. (Using a fictional username can help protect your child's identity.) It is used solely for the purpose of personalizing PBS KIDS PLAY! for your child and personalizing the learning progress reports for you. PBS will not, under any circumstances, use the username for the purpose of advertising products to you or your child.
 
 ### Your child's birthday.
 
-This information is not required by PBS in order to provide service, but it does allow us to provide a special birthday animation and virtual "gift" inside of PBS KIDS PLAY!. This is designed solely to enhance your child's experience. This information will not be sold or rented and will not be used to advertise products to you or your child.
+This information is not required by PBS in order to provide service, but is designed solely to enhance your child’s experience. This information will not be sold or rented and will not be used to advertise products to you or your child.
 
 ### Your child's learning profile.
 
@@ -59,7 +69,7 @@ A cookie is information that PBS KIDS PLAY! may put on your computer's hard driv
 
 ### Sharing of Information
 
-PBS will not, under any circumstances sell or rent your information to any party. PBS may engage other companies to provide services on our behalf, including hosting, billing, and customer service. We only provide these companies the minimum information reasonably required to perform the service, and they are prohibited from using that information for any other purpose. All companies who perform services for PBS KIDS PLAY! comply with the Payment Card Industry (PCI) Data Security Standard. 
+PBS will not, under any circumstances sell or rent your information to any party. PBS may engage other companies to provide services on its behalf, including but not limited to hosting, billing, marketing, and customer support for the PBS KIDS PLAY! service. We only provide these companies the minimum information reasonably required to perform the service, and they are prohibited from using that information for any other purpose. All companies who perform services for PBS KIDS PLAY! comply with the Payment Card Industry (PCI) Data Security Standard.
 
 PBS may disclose your personally identifying information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to legal requirements or comply with a legal governmental request; (b) protect and defend the rights or property of PBS or its licensors; (c) enforce the Terms and Conditions; or (d) act in urgent circumstances to protect data security.
 
@@ -67,4 +77,4 @@ PBS may disclose your personally identifying information if required to do so by
 
 This policy is subject to change from time to time, and your continued use of PBS KIDS PLAY! is conditioned upon your acceptance of any modifications hereto.
 
-If you have any questions or concerns regarding this policy, please [feedback@pbskidsplay.org](mailto:feedback@pbskidsplay.org). You may also mail us at the Public Broadcasting Service, 2100 Crystal Drive, Arlington, VA 22202, ATTN: PBS Interactive Businesses.
+If you have any questions or concerns regarding this policy, please email [feedback@pbskidsplay.org](mailto:feedback@pbskidsplay.org). You may also mail us at the Public Broadcasting Service, 2100 Crystal Drive, Arlington, VA 22202, ATTN: PBS KIDS PLAY.
