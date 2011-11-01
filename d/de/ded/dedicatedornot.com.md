@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526050201id_/http%3A//www.dedicatedornot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dedicatedornot.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120539id_/http%3A//dedicatedornot.com/privacy.html) for the most accurate reproduction.*
 
-# Dedicated Webserver or Not
+# Privacy Policy | Dedicated Webserver or Not
 
 ## Privacy Policy for www.dedicatedornot.com
 
@@ -30,25 +30,32 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Email: 
 
-## Recent Queries
+## What Is Dedicated Hosting?
 
-  1. [nsk0.ru](https://web.archive.org/sites/nsk0.ru)
-  2. [www.lespasereine.com](https://web.archive.org/sites/www.lespasereine.com)
-  3. [jazeerasport.net](https://web.archive.org/sites/jazeerasport.net)
-  4. [fozo.ru](https://web.archive.org/sites/fozo.ru)
-  5. [scrubsetver.info](https://web.archive.org/sites/scrubsetver.info)
-  6. [oybrand.com](https://web.archive.org/sites/oybrand.com)
-  7. [360degreevirtualtour.com](https://web.archive.org/sites/360degreevirtualtour.com)
-  8. [farhad.fr](https://web.archive.org/sites/farhad.fr)
-  9. [bt-el.com](https://web.archive.org/sites/bt-el.com)
+Dedicated web hosting, sometimes called a dedicated host, managed host, or dedicated server, is storage space that resides on a web server with the sole intention of servicing a single website or technology. These types of servers are usually leased directly from a web host provider, and can even have the option of a dedicated server administrator to manage. Dedicated hosting also provides full control of the web server's abilities.  
+[Learn more about Dedicated Hosting…](http://dedicatedornot.com/articles/all-about-dedicated-hosting.html)
 
+## What Is Shared Hosting?
 
+Shared web hosting, sometimes called a virtual host, multi-host, or self-serve web server, is storage space on a web server that multiple websites or technologies share with each other, including resources. These types of servers are usually provided by larger server farms and are sold at value pricing to manage websites that require minimal hardware or online resources. Shared hosting also has minimal abilities of server administration or changes.  
+[Learn more about Shared Hosting…](http://dedicatedornot.com/articles/all-about-shared-hosting.html)
 
-## Share this with friends:
+* * *
 
-[](http://www.addthis.com/bookmark.php)   
+  
+  
+  
 
 
-Follow us: [](http://www.facebook.com/people/Michael-Paul/1320777517) [](http://twitter.com/michael_paul_)
+* * *
 
-[Return to Homepage](https://web.archive.org/)
+## Updated Queries
+
+  1. [pyccobalt.ru](http://pyccobalt.ru.dedicatedornot.com/)
+  2. [www.youyuan888.com](http://www.youyuan888.com.dedicatedornot.com/)
+  3. [khuphodem.com](http://khuphodem.com.dedicatedornot.com/)
+  4. [88.249.0.216](http://88.249.0.216.dedicatedornot.com/)
+  5. [kihyoe.com](http://kihyoe.com.dedicatedornot.com/)
+  6. [conscience.netfirms.com](http://conscience.netfirms.com.dedicatedornot.com/)
+
+
