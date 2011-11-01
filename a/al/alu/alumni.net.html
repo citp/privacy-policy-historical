@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the alumni.net privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520152130id_/http%3A//wiki.alumni.net/wiki/Alumni.NET%3APrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alumni.net privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101113649id_/http%3A//wiki.alumni.net/wiki/Alumni.NET%3APrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -55,6 +55,39 @@ var wgRestrictionEdit = ["sysop"];
 var wgRestrictionMove = ["sysop"];
 /*]]>*/</script>
 <!-- Begin Alumni.NET mods -->                
+<style>
+#alumni_members{
+    position:relative;    z-index:100;    display:none;    width:350px;    margin-left:10px;    float:left
+}
+</style>
+</head><body class="mediawiki ns-0 ltr page-Alumni_NET_Privacy"><div style="clear:both;display:none" id="divider2"></div>
+<script>
+function map_rel_insertAfter2(newElement,targetElement) {
+    var parent = targetElement.parentNode;
+    if(parent.lastchild == targetElement) {
+        parent.appendChild(newElement);
+    } else {
+        parent.insertBefore(newElement, targetElement.nextSibling);
+    }
+}
+var _wgPageName = wgPageName.replace("Category:","");
+document.write("<div id='alumni_members'  ><scr"+"ipt src='http://www.alumni.net/groups/get_preview_for_wiki?url="+ _wgPageName  +"&width=350' ></sc"+"ript></div>");
+
+    window.onload = function(){
+        var _toc  = document.getElementById('toc');
+        var _div2  = document.getElementById('divider2');
+        if( _toc != null ){
+                var _am = document.getElementById('alumni_members');
+                _am.style.display = 'block';
+                _toc.style.cssFloat = 'left';
+                _div2.style.display = 'block';
+                map_rel_insertAfter2(_am,_toc);
+                map_rel_insertAfter2(_div2,_am);
+        }
+    }
+
+</script><div id="alumni_members"><script src="http://www.alumni.net/groups/get_preview_for_wiki?url=Alumni.NET:Privacy&amp;width=350"></script></div>
+
 <link rel="stylesheet" type="text/css" href="/css/awiki.css">
 
 <style type="text/css"> 
@@ -83,7 +116,7 @@ var wgRestrictionMove = ["sysop"];
   }
 </style> 
 
-</head><body class="mediawiki ns-0 ltr page-Alumni_NET_Privacy"><div id="loading" class="loading-invisible">
+<div id="loading" class="loading-invisible">
 	<br><br><br><br><br><br>
   <p><font color="white" size="4">Saving...</font></p>
  <p><img src="/images/extra/load.gif" alt="Saving..."></p>
@@ -122,7 +155,6 @@ else if(document.cookie.match("ref=edit"))
 <script src="/js/getXMLHttpRequest.js" type="text/javascript"></script>
 
 <!-- google maps -->
-
     <script src="http://www.google.com/jsapi?key=ABQIAAAAJFjmymTKIpq13A0y7g2swhQHTfZY_sU2bODxPBfupWPDoO0JKhS76oyHKtDLEhqzbyJBHsKqDzdvgg" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -132,7 +164,6 @@ else if(document.cookie.match("ref=edit"))
 
 <script type="text/javascript" src="http://gmaps-utility-library.googlecode.com/svn/trunk/markermanager/release/src/markermanager.js">
 </script>
-
 
 <script type="text/javascript" src="http://wiki.alumni.net/js/HTTPNewRequest.js"></script>
 <script type="text/javascript">
@@ -299,7 +330,7 @@ Template argument size: 0/2097152 bytes
 Expensive parser function count: 0/100
 -->
 
-<!-- Saved in parser cache with key awiki:pcache:idhash:56934-0!1!0!!en!2!edit=0 and timestamp 20110520055101 -->
+<!-- Saved in parser cache with key awiki:pcache:idhash:56934-0!1!0!!en!2!edit=0 and timestamp 20111101072238 -->
 <div class="printfooter">
 Retrieved from "<a href="http://wiki.alumni.net/wiki/Alumni.NET:Privacy">http://wiki.alumni.net/wiki/Alumni.NET:Privacy</a>"</div>
 <!-- Begin Alumni.NET mods -->
@@ -434,7 +465,7 @@ You can view its source. [e]" accesskey="e">View source</a></li>
 		</div>
 	</div>
 	<div class="portlet" id="p-logo">
-		<a style="background-image: url(/wiki/alumni_net_125x75_1.gif);" href="http://www.alumni.net/" title="Visit the Main Page [z]" accesskey="z"></a>
+		<a style="background-image: url(/wiki/alumni_net_125x75_1.gif);" href="http://www.alumni.net" title="Visit the Main Page [z]" accesskey="z"></a>
 	</div>
 	<script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
 	<div class="generated-sidebar portlet" id="p-navigation">
@@ -507,7 +538,7 @@ pageTracker._trackPageview();
 				<div id="f-poweredbyico"><a href="http://www.mediawiki.org/"><img src="/wiki/skins/common/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki"></a></div>
 			<ul id="f-list">
 				<li id="lastmod"> This page was last modified on 26 May 2010, at 07:46.</li>
-				<li id="viewcount">This page has been accessed 11,413 times.</li>
+				<li id="viewcount">This page has been accessed 20,829 times.</li>
 				<li id="privacy"><a href="/wiki/wiki.Alumni.NET:Privacy_policy" title="wiki.Alumni.NET:Privacy policy">Privacy policy</a></li>
 				<li id="about"><a href="/wiki/wiki.Alumni.NET:About" title="wiki.Alumni.NET:About">About wiki.Alumni.NET</a></li>
 				<li id="disclaimer"><a href="/wiki/wiki.Alumni.NET:General_disclaimer" title="wiki.Alumni.NET:General disclaimer">Disclaimers</a></li>
@@ -516,7 +547,7 @@ pageTracker._trackPageview();
 </div>
 
 		<script type="text/javascript">if (window.runOnloadHook) runOnloadHook();</script>
-<!-- Served in 0.412 secs. -->
+<!-- Served in 0.423 secs. -->
 <script type="text/javascript">
 if(document.getElementById('mappo')!=null)
 {
