@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217143127id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazumamobile.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000103id_/http%3A//www.mazumamobile.com/privacy.php) for the most accurate reproduction.*
 
-# Mazuma Mobile - Sell, Trade in or Recycle your old, used mobile phone for cash.
+# Sell my mobile phone - Mobile phone recycling - Trade In used phones for cash - Mazuma
 
 ## Who we are
 
@@ -28,7 +28,7 @@ Any personal information we collect from this website will be used in accordance
 
 **2.** In certain cases we may use your mail address to send you information on our other products and services. In such a case you will be offered the option to opt in/out before completing your purchase.
 
-We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website and issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
+We may need to pass the information we collect to other companies for administrative purposes. We may use third parties to carry out certain activities, such as processing and sorting data, monitoring how customers use the Website, measuring customer service or issuing our e-mails for us. Third parties will not be allowed to use your personal information for their own purposes.
 
 ## Other Websites
 
