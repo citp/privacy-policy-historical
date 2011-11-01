@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehighroad.org privacy policy that was archived on 2011-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110219041810id_/http%3A//www.thehighroad.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehighroad.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164412id_/http%3A//www.thehighroad.org/privacy.php) for the most accurate reproduction.*
 
 # THR - THR Privacy Statement
 
