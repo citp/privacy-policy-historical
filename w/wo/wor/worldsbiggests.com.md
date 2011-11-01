@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldsbiggests.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108181431id_/http%3A//www.worldsbiggests.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsbiggests.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122322id_/http%3A//www.worldsbiggests.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# The World`s Biggests: Privacy Policy
+# Privacy Policy
 
 [](http://2.bp.blogspot.com/_N-lLFhD7bxE/S4EfOlVgSmI/AAAAAAAACI8/npxgBMn3fzk/s1600-h/logic2ac.bmp)
 
