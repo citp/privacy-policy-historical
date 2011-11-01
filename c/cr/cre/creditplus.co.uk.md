@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518181139id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditplus.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134703id_/http%3A//www.creditplus.co.uk/terms.html) for the most accurate reproduction.*
 
 # Car Finance from 7.9% APR – Guaranteed £0 Deposit Car Financing and Refinancing with Creditplus – Car Credit available now
 
@@ -29,6 +29,12 @@ Creditplus reserve the right to charge an administration fee to cover the cost o
 Cars supplied by Creditplus will be covered by a [car warranty](http://www.creditplus.co.uk/car-warranty/index.html "Car Warranty") for a minimum of 3 months. It is the customer’s responsibility to be fully aware of the parts not covered by the car warranty (if any). The car is supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
 
 If a car is returned the customer bears the cost of return and a cancellation fee of 5% of the car value or a minimum of £500, whichever is the greater.
+
+## New & Pre-registered Cars Supplied by Creditplus
+
+All New & Pre-registered cars supplied by Creditplus will be covered by the relevant Manufacturers warranty. Where a vehicle is Pre-registered the balance of manufacturer’s warranty shall apply with no additional warranties being supplied by Creditplus. It is the customer’s responsibility to be fully aware of the parts not covered by the manufacturer’s car warranty (if any). All New & Pre-registered cars are supplied on the basis that the client understands Creditplus will not rectify or compensate for any car repairs outside of the car warranty.
+
+If a New or Pre-registered car is returned the customer bears the cost of return along with a cancellation fee of 10% of the car value or a minimum of £1000, whichever is the greater.
 
 ## Car Finance is Subject to Status
 
