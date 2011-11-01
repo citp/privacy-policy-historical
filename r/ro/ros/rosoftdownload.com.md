@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the rosoftdownload.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831110356id_/http%3A//www.rosoftdownload.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosoftdownload.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163203id_/http%3A//www.rosoftdownload.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Read Terms and Conditions- RoSoftDownload
 
      **RoSofDownload.com** is very serious in the matter of the privacy of Internet users, considering that our business success depends upon our ability to maintain the confidence and respect of our users. 
 
-If you have any concern about our products or website's privacy policies, please [click here](http://www.rosoftdownload.com/contact.php) to contact us. Moreover, if you have any question, suggestion or concern about this matter, please do not hesitate to [contact us](http://www.rosoftdownload.com/contact.php). 
+If you have any concern about our products or website's privacy policies, please [click here](https://web.archive.org/contact.php) to contact us. Moreover, if you have any question, suggestion or concern about this matter, please do not hesitate to [contact us](https://web.archive.org/contact.php). 
 
      **Does RoSoftDownload.com collect personal information?**  
 RoSoftDownload will collect your information if the information is licensed to us, such as software submission came from software developers. We will not collect any personally- identifiable information about you, such as your name, address, phone number or email address from this web site without your knowledge, and will take strong measures to protect your privacy.  
@@ -40,5 +40,5 @@ Even though **RoSofDownload.com** tries to test and verify all the software list
 
   There are inherent dangers in the use of any software available for download on the Internet, and RoSoftDownload.com cautions you to make sure that you completely understand the potential risks before downloading any of the software. You are the sole responsible for adequate protection and backup of the data and equipment used in connection with any of the software, and RoSoftDownload.com will not be liable for any damages that you may suffer in connection with using, modifying or distributing any of the software.
 
-[Contact](http://www.rosoftdownload.com/contact.php) | [Privacy Policy](http://www.rosoftdownload.com/privacy.php)  
-Copyright © 2008 - 2009 Profitech Solutions S.R.L. - All rights reserved. 
+[Contact](https://web.archive.org/contact.php) | [Privacy Policy](https://web.archive.org/privacy.php)  
+Copyright © 2008 - 2011 RoSoftDownload.com - All rights reserved. [](http://validator.w3.org/check?uri=referer "W3C Valid HTML")
