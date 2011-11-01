@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511224146id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floraindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130519id_/http%3A//www.floraindia.com/privacy.cfm) for the most accurate reproduction.*
 
 # Send Privacy Policy India - FloraIndia.com - Online Florist - Flowers, Cakes and Sweets Delivery Service
 
@@ -77,31 +77,4 @@ In addition, if you would like notice of changes to the Privacy Policy or Terms 
 
 **Your Comments**
 
-FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to serve@floraindia.com.   
-  
-Please note delivery confirmation email of all Mother's Day orders will be sent on 9th May due to heavy rush of Mother's Day orders.
-
-_Forthcoming Occasions:_ **Father's Day** : 19 Jun    **Cheer Up Day** : 11 Jul   
-
-Save on your purchase by making a combo of your choice. Click here to know  
-about **Combo Price** and **AutoCombo** _!_  
-  
-| **Power Points** |  | **Testimonials** |   
----|---|---|---|---  
-|  **All** major credit cards accepted.  
-**Verisign** secure payment gateway.  
-**Free Shipping** in 300 cities in India.  
-Fresh Flowers are **Hand Delivered**.  
-**No** extra or hidden **charges**.  
-Orders for **Sunday and Holiday also accepted** , at no extra charges.  
-**Same day delivery** in all major towns and cities of India.  
-**Hand picked** fresh indian and exotic flowers at the best prices.  
-|  |  I must admit I was quite hesitant when ordering from you because I have never ordered anything online before and didnt know what to expect. But I have to say you people really got it right! Right from my custom ordered cheesecake (which I heard was quite yummy!) to the flowers, everything that was delivered was exactly what I had asked for and exactly what was promised. Also the gift was delivered exactly on time, and your prices are also reasonable enough. My gift was a huge success thanks to you! I'll definitely order from you again, and recommend you to my friends as well. 
-
-**Dr.Sonali Sud, Vasant Kunj, New Delhi**  
-  
-**Send Fresh Flowers, Cakes and Sweets to India. Quality delivery network all over India.**
-
-[Home](http://www.floraindia.com/index.cfm) | [My Choice](http://www.floraindia.com/mychoice.cfm) | [Order Tracking](http://www.floraindia.com/trackorders.cfm) | [Reminders](http://www.floraindia.com/reminders.cfm) | [Customer Service](http://www.floraindia.com/customers.cfm) | [Custom Orders](http://www.floraindia.com/custom.cfm) | [Ask Florist](http://www.floraindia.com/askflorist.cfm)  
-[About Us](http://www.floraindia.com/about.cfm) | [FAQs](http://www.floraindia.com/faq.cfm) | [Delivery Information](http://www.floraindia.com/delivery.cfm) | [Substitution Policy](http://www.floraindia.com/policy.cfm) | [Customized Products](http://www.floraindia.com/customproducts.cfm) |[Tell A Friend](http://www.floraindia.com/recommend.cfm)  
-[Contact Us](http://www.floraindia.com/contact.cfm)| [Corporate Gifting](http://www.floraindia.com/corporate.cfm)| [Career With Us](http://www.floraindia.com/career.cfm)| [Feedback](http://www.floraindia.com/feedback.cfm)
+FloraIndia.com welcomes feedback concerning this Privacy Policy. Please send your comments and questions to serve@floraindia.com. 
