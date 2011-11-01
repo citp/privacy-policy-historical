@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508035911id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtwith.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001522id_/http%3A//builtwith.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-BuiltWith.com is an Australian Business ABN: 49 610 791 313.
+BUILTWITH.COM is an Australian Business Registered in NSW (BN98581670) ABN:49 610 791 313.
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
