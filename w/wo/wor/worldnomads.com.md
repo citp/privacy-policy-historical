@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldnomads.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216185801id_/http%3A//www.worldnomads.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnomads.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155134id_/http%3A//www.worldnomads.com/privacy.aspx) for the most accurate reproduction.*
 
 # World Nomads - Privacy Policy
 
