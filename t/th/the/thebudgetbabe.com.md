@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130090107id_/http%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetbabe.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124311id_/http%3A//www.thebudgetbabe.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Budget Babe
 
@@ -6,7 +6,7 @@
 
   * [](https://web.archive.org/pages/About-The-Budget-Babe.html "prev")
   * [](https://web.archive.org/pages/Privacy-Policy.html "top")
-  * [](https://web.archive.org/pages/Exclusive-Deals.html "next")
+  * []( "next")
 
 
 
