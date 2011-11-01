@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128151151id_/http%3A//sproutsocial.com/index.php/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sproutsocial.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155238id_/http%3A//sproutsocial.com/policies/privacy) for the most accurate reproduction.*
 
 # Sprout Social
 
@@ -8,7 +8,7 @@ Except as otherwise noted, the content of our Website ([www.SproutSocial.com](ht
 
 We make every effort to provide accurate and timely information; however, there may be inadvertent technical factual inaccuracies, omissions, and typographical errors, for which we apologize. Our Website, Software, and associated content are delivered on an "as-is" and "as-available" basis. **SproutSocial.com** cannot ensure that files you download from our Website or using our Software will be free of viruses or contamination or destructive features. **SproutSocial.com** reserves the right to make changes and corrections at any time, without notice. 
 
-Should you decide to acquire our Software from **SproutSocial.com** , our online [User Agreement](https://web.archive.org/index.php/policies/userAgreement) is considered the governing agreement between both you, as a user of our Website and Software, and **SproutSocial.com** , and it supercedes any other information on our Website. 
+Should you decide to acquire our Software from **SproutSocial.com** , our online [User Agreement](https://web.archive.org/policies/userAgreement) is considered the governing agreement between both you, as a user of our Website and Software, and **SproutSocial.com** , and it supercedes any other information on our Website. 
 
 Privacy Policy
 
