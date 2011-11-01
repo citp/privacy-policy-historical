@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chihealth.in privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515160140id_/http%3A//www.chihealth.in/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chihealth.in privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215557id_/http%3A//chihealth.in/privacypolicy) for the most accurate reproduction.*
 
 # ChiHealth - Weight loss, Diet, Fitness, Health and Wellness at an arm's Length !
 
