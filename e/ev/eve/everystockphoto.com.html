@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the everystockphoto.com privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129185639id_/http%3A//www.everystockphoto.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the everystockphoto.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101155746id_/http%3A//www.everystockphoto.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
 
 <link rel="stylesheet" type="text/css" href="/min/?g=css" media="screen">
-<script type="text/javascript" src="/min/?g=js"></script>
+
 
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="/min/?g=cssIE" media="screen" />
@@ -15,8 +15,12 @@
 <link rel="stylesheet" type="text/css" href="/css/empty.css" media="screen" id="coll-open">
 
 
+<script type="text/javascript" src="/min/?g=js"></script>
+
+
 <script type="text/javascript">
-    var ajaxSignature = "35dfd8c884812be1462d04c06dd7213e";    var defaultCollectionName = "click to edit collection name";    var activeCollectionId = 0;
+    var gaId = 'UA-263687-1';
+    var ajaxSignature = "60c1beb014e60b133be069b04d1691a4";    var defaultCollectionName = "click to edit collection name";    var activeCollectionId = 0;
     var initShowCollections = 0;
         var authUserId = 0;
     var currentlyDragging = "";
@@ -40,18 +44,35 @@ $(function() {
 });
 
 </script>
-</head>
+<script type="text/javascript" async="" src="http://widgets.amung.us/a_pro.js"></script></head>
 <body>
 <div id="top-section">
+
+
+<div id="fb-root"></div>
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script>
+  FB.init({
+    appId  : '207115215968762',
+    status : true, // check login status
+    cookie : true, // enable cookies to allow the server to access the session
+    xfbml  : true  // parse XFBML
+  });
+</script>
+
 
 <div id="header">
 <div class="container">
 <a href="/"><img id="logo" src="/media/logo.png" height="44" width="244" title="everystockphoto" alt="everystockphoto logo"></a>
 <p id="primary-nav">
-<a href="/forum/index.php">forum</a> &nbsp;&nbsp;/&nbsp;&nbsp;
 <a href="/help.php">help</a> &nbsp;&nbsp;/&nbsp;&nbsp;
 <a href="/about.php">about</a> &nbsp;&nbsp;/&nbsp;&nbsp;
-<a href="/blog.php">blog</a></p>
+<a href="/blog/">blog</a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="http://www.facebook.com/#!/pages/Everystockphoto/186430358045742" target="_blank">fan page</a> &nbsp;&nbsp;/&nbsp;&nbsp;
+<a href="http://twitter.com/#!/evrystockphoto" target="_blank">twitter</a>
+
+
+</p>
 
 <p id="login">
 <a href="/login.php">login</a> &nbsp;&nbsp;/&nbsp;&nbsp;
@@ -63,121 +84,125 @@ $(function() {
 
     <div id="search">
 
-    <div class="container">
+    <div class="container" style="width:1045px;">
 
         <form name="frmAdvancedSearch" id="frmAdvancedSearch" action="/search.php" method="get">
-		<input type="hidden" name="initialSearch" value="true">
-
+        <input type="hidden" name="initialSearch" value="true"> 
+        
+        <input type="hidden" id="perPage" name="perPage" value="20">
+        <input type="hidden" id="oSort" name="oSort" value="desc">
+        <input type="hidden" id="sSort" name="sSort" value="1">        
         
         <h2 class="first">Search</h2>
 
-        
         <input class="bigsearch" type="text" name="sField" id="sField" value="">
+        <input type="hidden" name="sLayout" id="sLayout" value="1">
+        
+                        <a class="sLayoutGrid sLayout-grid-down" href="javascript:void(0);" title="Classic View">
+            <!-- //-->
+        </a>
+        <a class="sLayoutColumn sLayout-column-up" href="javascript:void(0);" title="Column View">
+            <!-- //-->
+        </a>
         <input class="button" type="image" src="/media/search-button.png" value="GO">
+                
         <a id="advanced-toggle" class="down" href="#">advanced search</a>
 
         <div id="advanced" class="hide">
-        	<hr id="advanced_top_line">
-        	<ol id="advanced_options_list">
-        		<li id="boolean_advanced">
-					<fieldset class="advanced_options">
-						<legend>Search</legend>
-	                		                    <input type="radio" name="sBool" id="sBool['and']" checked="checked" value="and"> <label for="">all words</label><br>
-	                    <input type="radio" name="sBool" id="sBool['or']" value="any"> <label for="">any words</label><br>
-	                    <input type="radio" name="sBool" id="sBool['exact']" value="exact"> <label for="">exact phrase</label><br>
-	                    <input type="radio" name="sBool" id="sBool['begins']" value="begins"> <label for="">begins with</label><br>
-	                    
-					</fieldset>
-				</li>
-				
-				<li id="source_advanced">
-					<fieldset class="advanced_options">
-						<legend>Source</legend>
-		
-						<div id="source_options">
-							<p>License:</p>
-							<select name="sLicense" id="sLicense">
-	                            <option value="">all</option>
-	                            	                            <option value="4">Attribution License</option>
-	                            	                            <option value="6">Attribution-NoDerivs License</option>
-	                            	                            <option value="2">Attribution-NonCommercial License</option>
-	                            	                            <option value="3">Attribution-NonCommercial-NoDerivs License</option>
-	                            	                            <option value="1">Attribution-NonCommercial-ShareAlike License</option>
-	                            	                            <option value="5">Attribution-ShareAlike License</option>
-	                            	                            <option value="11">freerangestock</option>
-	                            	                            <option value="13">GNU Free Documentation License</option>
-	                            	                            <option value="10">imageafter</option>
-	                            	                            <option value="8">MorgueFile License</option>
-	                            	                            <option value="12">NASA</option>
-	                            	                            <option value="14">photoXpress License</option>
-	                            	                            <option value="7">Public Domain</option>
-	                            	                            <option value="9">sxu license</option>
-	                            	                        </select>
-	                        
-							<p>Search sources that:</p>
-							<input class="source_restriction" checked="checked" type="checkbox" name="restrict[]" value="none"><label for="no_account">do not require accounts</label><br>
-							<input class="source_restriction" checked="checked" type="checkbox" name="restrict[]" value="account"><label for="require_account">require accounts</label><br>
-							<input class="source_restriction" checked="checked" type="checkbox" name="restrict[]" value="restrict"><label for="require_and_restrict">require accounts &amp; restrict downloads</label><br>
-						</div>
-						
-						<ul id="search_sources">
-														<li><input id="search_source_1" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="1"><label for="source[1]">Flickr</label></li>
-														<li><input id="search_source_5" checked="checked" class="search_source account" type="checkbox" name="sSource[]" value="5"><label for="source[5]">freerangestock</label></li>
-														<li><input id="search_source_4" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="4"><label for="source[4]">imageafter</label></li>
-														<li><input id="search_source_2" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="2"><label for="source[2]">morgueFile</label></li>
-														<li><input id="search_source_8" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="8"><label for="source[8]">NASA</label></li>
-														<li><input id="search_source_9" checked="checked" class="search_source restrict" type="checkbox" name="sSource[]" value="9"><label for="source[9]">photoXpress</label></li>
-														<li><input id="search_source_3" checked="checked" class="search_source account" type="checkbox" name="sSource[]" value="3"><label for="source[3]">stock.xchng</label></li>
-														<li><input id="search_source_7" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="7"><label for="source[7]">Wikimedia Commons</label></li>
-														<li><input id="search_source_6" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="6"><label for="source[6]">Wikipedia</label></li>
-														<li id="all_sources_check"><span id="uncheck_all_sources">Uncheck All</span> / <span id="check_all_sources">Check All</span></li>
-						</ul>
-					</fieldset>
-				</li>
-				
-				<li id="photo_advanced">
-					<fieldset class="advanced_options">
-						<legend id="photo_legend">Photo</legend>
-						<input type="checkbox" name="safeSearch" id="safeSearch" value="1"> <label for="safeSearch">safe search</label>
-						<input type="checkbox" name="tagMode" id="tagMode" value="true"> <label for="tagMode">only search tags</label>
-		                <p id="photo_shape">
-		                    shape
-		                    		                    		                    <input type="checkbox" checked="checked" name="sPortrait" id="sPortrait" value="on"><label for=""><img src="/media/portrait.png" height="18" width="18" title="portrait" alt="portrait"></label>&nbsp;
-		                    <input type="checkbox" checked="checked" name="sLandscape" id="sLandscape" value="on"><label for=""><img src="/media/landscape.png" height="18" width="18" title="landscape" alt="landscape"></label>&nbsp;
-		                    <input type="checkbox" checked="checked" name="sSquare" id="sSquare" value="on"><label for=""><img src="/media/square.png" height="18" width="18" title="square" alt="square"></label>
-		                </p>
-		                
-		                <p>
-		                    <label for="sMinW">min width</label> <input class="text" type="text" name="sMinW" id="sMinW" size="5" value="">&nbsp;&nbsp;
-		                    <label for="sMinH">min height</label> <input class="text" type="text" name="sMinH" id="sMinH" size="5" value=""><br>
-		                </p>
-					</fieldset>
-				</li>
-				
-				<li id="display_advanced" class="last_li">
-					<fieldset class="advanced_options">
-						<legend>Display</legend>
-						<ol id="display_list_options">
-							<li>
-			                    <input type="checkbox" checked="checked" name="sDispRes" id="sDispRes" value="on"> <label for="sDispRes">resolution</label>
-			                </li>
-			                
-			                <li>
-	                    		<input type="checkbox" checked="checked" name="sDispLic" id="sDispLic" value="on"> <label for="sDispLic">license</label>
-	                    	</li>
-	                    	
-	                    	<li>
-			                    <input type="checkbox" checked="checked" name="sDispSrc" id="sDispSrc" value="on"> <label for="sDispSrc">source</label>
-			                </li>
-			                
-			                <li>
-			                    <input type="checkbox" checked="checked" name="sDispRtg" id="sDispRtg" value="on"> <label for="sDispRtg">rating</label>
-			                </li>
-			        	</ol>
-					</fieldset>
-				</li>
-			</ol>
-        </div>
+            <div style="height:52px;"></div>
+            <hr id="advanced_top_line">
+            <ol id="advanced_options_list">
+                <li id="boolean_advanced">
+                    <fieldset class="advanced_options">
+                        <legend>Search</legend>
+                                                <input type="radio" name="sBool" id="sBool['and']" checked="checked" value="and"> <label for="">all words</label><br>
+                        <input type="radio" name="sBool" id="sBool['or']" value="any"> <label for="">any words</label><br>
+                        <input type="radio" name="sBool" id="sBool['exact']" value="exact"> <label for="">exact phrase</label><br>
+                        <input type="radio" name="sBool" id="sBool['begins']" value="begins"> <label for="">begins with</label><br>
+                        
+                    </fieldset>
+                </li>
+                
+                                    <li id="source_advanced">
+                        <fieldset class="advanced_options">
+                            <legend>Licenses</legend>
+            
+                            <div id="source_options">
+                                <p></p>
+                                <select name="sLicense[]" id="sLicense" multiple="multiple" style="display:none;">
+                                                                        <option class="id_sLicense_4" selected="selected" value="4">Attribution License</option>
+                                                                        <option class="id_sLicense_6" selected="selected" value="6">Attribution-NoDerivs License</option>
+                                                                        <option class="id_sLicense_2" selected="selected" value="2">Attribution-NonCommercial License</option>
+                                                                        <option class="id_sLicense_3" selected="selected" value="3">Attribution-NonCommercial-NoDerivs License</option>
+                                                                        <option class="id_sLicense_1" selected="selected" value="1">Attribution-NonCommercial-ShareAlike License</option>
+                                                                        <option class="id_sLicense_5" selected="selected" value="5">Attribution-ShareAlike License</option>
+                                                                        <option class="id_sLicense_7" selected="selected" value="7">Public Domain</option>
+                                                                        <option class="id_sLicense_99" selected="selected" value="99">Custom Free Licenses</option>
+                                </select>
+                                
+                                <p>Search sources that:</p>
+                                <div id="restriction_msg" style="padding:5px;display:none;color:#AD4270;width:220px;"></div>
+                                <input class="source_restriction" checked="checked" type="checkbox" name="restrict[]" value="none"><label for="no_account">do not require accounts</label><br>
+                                <input class="source_restriction" checked="checked" type="checkbox" name="restrict[]" value="account"><label for="require_account">require accounts</label><br>
+                                <input class="source_restriction" checked="checked" type="checkbox" name="restrict[]" value="restrict"><label for="require_and_restrict">require accounts &amp; restrict downloads</label><br>
+                            </div>
+                            
+                            <div style="position:absolute;right:195px;top:0px;font-size:11pt;font-weight:bold;">Sources</div>
+                            <ul id="search_sources">
+                                                                <li><input id="search_source_1" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="1"><label for="source[1]">Flickr</label></li>
+                                                                <li><input id="search_source_5" checked="checked" class="search_source account" type="checkbox" name="sSource[]" value="5"><label for="source[5]">freerangestock</label></li>
+                                                                <li><input id="search_source_4" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="4"><label for="source[4]">imageafter</label></li>
+                                                                <li><input id="search_source_2" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="2"><label for="source[2]">morgueFile</label></li>
+                                                                <li><input id="search_source_8" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="8"><label for="source[8]">NASA</label></li>
+                                                                <li><input id="search_source_11" checked="checked" class="search_source account" type="checkbox" name="sSource[]" value="11"><label for="source[11]">Photl</label></li>
+                                                                <li><input id="search_source_9" checked="checked" class="search_source restrict" type="checkbox" name="sSource[]" value="9"><label for="source[9]">photoXpress</label></li>
+                                                                <li><input id="search_source_3" checked="checked" class="search_source account" type="checkbox" name="sSource[]" value="3"><label for="source[3]">stock.xchng</label></li>
+                                                                <li><input id="search_source_7" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="7"><label for="source[7]">Wikimedia Commons</label></li>
+                                                                <li><input id="search_source_6" checked="checked" class="search_source none" type="checkbox" name="sSource[]" value="6"><label for="source[6]">Wikipedia</label></li>
+                                                                <li id="all_sources_check"><span id="uncheck_all_sources">Uncheck All</span> / <span id="check_all_sources">Check All</span></li>
+                            </ul>
+                        </fieldset>
+                    </li>
+                                
+                <li id="photo_advanced">
+                    <fieldset class="advanced_options">
+                        <legend id="photo_legend">Photo</legend>
+                        <input type="checkbox" checked="checked" name="safeSearch" id="safeSearch" value="1"> <label for="safeSearch">safe search</label>
+                        <input type="checkbox" name="tagMode" id="tagMode" value="true"> <label for="tagMode">only search tags</label>
+                        <p id="photo_shape">
+                            shape
+                                                                                                                                                <input type="checkbox" checked="checked" name="sPortrait" id="sPortrait" value="on"><label for=""><img src="/media/portrait.png" height="18" width="18" title="portrait" alt="portrait"></label>&nbsp;
+                            <input type="checkbox" checked="checked" name="sLandscape" id="sLandscape" value="on"><label for=""><img src="/media/landscape.png" height="18" width="18" title="landscape" alt="landscape"></label>&nbsp;
+                            <input type="checkbox" checked="checked" name="sSquare" id="sSquare" value="on"><label for=""><img src="/media/square.png" height="18" width="18" title="square" alt="square"></label>
+                        </p>
+                        
+                        <p>
+                            <label for="sMinW">min width</label> <input class="text" type="text" name="sMinW" id="sMinW" size="5" value="">&nbsp;&nbsp;
+                            <label for="sMinH">min height</label> <input class="text" type="text" name="sMinH" id="sMinH" size="5" value=""><br>
+                        </p>
+                    </fieldset>
+                </li>
+                
+                <li id="display_advanced" class="">
+                    <fieldset class="advanced_options">
+                        <legend>Display</legend>
+                        <ol id="display_list_options">
+                            <li>
+                                <input type="checkbox" checked="checked" name="sDispRes" id="sDispRes" value="on"> <label for="sDispRes">resolution</label>
+                            </li>
+                            
+                            <li>
+                                <input type="checkbox" checked="checked" name="sDispLic" id="sDispLic" value="on"> <label for="sDispLic">license</label>
+                            </li>
+                            
+                            <li>
+                                <input type="checkbox" checked="checked" name="sDispSrc" id="sDispSrc" value="on"> <label for="sDispSrc">source</label>
+                            </li>
+                        </ol>
+                    </fieldset>
+                </li>
+                            </ol>
+                    </div>
         </form>
         
         <div style="clear:both;">&nbsp;</div>
@@ -280,8 +305,8 @@ Vancouver, V6B 1L4</p>
 
 </div><!-- END TOP SECTION -->
 
-<div id="collections">
-            <div class="container" style="height:100%; padding-top:2px;">
+    <div id="collections">
+                    <div class="container" style="height:100%; padding-top:2px;">
         <div style="float:left; height:100%; width:250px; ">
             <div style="height:42px; width:100%; overflow:hidden;">
 				<h1 id="collectionTitle" style="margin: 0px; padding-top: 2px; font-size: 14px; position: relative; top:0; left: 0;">current collection</h1>
@@ -358,7 +383,8 @@ Vancouver, V6B 1L4</p>
         </div>
     </div>
     <div id="dragHelper"></div>
-    </div><!-- END COLLECTIONS --><div id="footer">
+            </div><!-- END COLLECTIONS -->
+<div id="footer">
 <div class="container">
 <p id="footer-nav">
 <a href="/termsofuse.php">terms of use</a> &nbsp;&nbsp;/&nbsp;&nbsp;
@@ -370,17 +396,45 @@ Vancouver, V6B 1L4</p>
 </div>
 </div><!-- END FOOTER -->
 
+
+<script type="text/javascript" id="wau_scr_3ce51544">
+var wau_p = wau_p || []; wau_p.push(["3q3r", "3ce51544", false]);
+(function() {
+    var s=document.createElement("script"); s.type="text/javascript";
+    s.async=true; s.src="http://widgets.amung.us/a_pro.js";
+    document.getElementsByTagName("head")[0].appendChild(s);
+})();
+</script>
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-263687-1");
+var pageTracker = _gat._getTracker(gaId);
 pageTracker._trackPageview();
 </script>
 
-<link rel="search" type="application/opensearchdescription+xml" title="everystockphoto.com" href="http://everystockphoto.com/search.xml">
-<!-- six -->
+<script type="text/javascript">
+//event tracking
+function openInNewWindow(href) {
+    var newWindow = window.open(href, '_blank');
+    newWindow.focus();
+    return false;
+}
+function trackEvent(link, category, action, opt_label, opt_value) {
+    try {
+        //alert('trackEvent ' + link + ', ' + category + ', ' + action + ', ' + opt_label + ', ' + opt_value); return true;
+        var pageTracker=_gat._getTracker(gaId);
+        pageTracker._trackEvent(category, action, opt_label, opt_value);
+        openInNewWindow(link.href);
+    }catch(err){}
+}
+</script>
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="everystockphoto.com" href="http://www.everystockphoto.com/search.xml">
+<!-- baltar -->
 
 
 </body></html>
