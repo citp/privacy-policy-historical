@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the russianeuro.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402045613id_/http%3A//www.russianeuro.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianeuro.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101205429id_/http%3A//www.russiancupid.com/Privacy.cfm) for the most accurate reproduction.*
 
-# RussianEuro.com | Privacy Policy
+# RussianCupid.com | Privacy Policy
 
 **CUPID MEDIA PTY LTD PRIVACY POLICY**
 
-RussianEuro.com (“the Website”) is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us").  This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
+RussianCupid.com (“the Website”) is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us").  This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
 
   **1\. PRIVACY**
 
