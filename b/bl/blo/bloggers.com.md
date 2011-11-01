@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggers.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218091358id_/http%3A//bloggers.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggers.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101231524id_/http%3A//bloggers.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy / Bloggers
 
@@ -29,6 +29,3 @@ A cookie is a string of information that a website stores on a visitor's compute
 #### Privacy Policy Changes
 
 Although most changes are likely to be minor, **BLOGGERS.com** may change its Privacy Policy from time to time, and in **BLOGGERS.com** 's sole discretion. **BLOGGERS.com** encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-  
-
