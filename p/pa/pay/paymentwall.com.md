@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806191330id_/http%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentwall.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161922id_/http%3A//www.paymentwall.com/en/privacypolicy) for the most accurate reproduction.*
 
-# PaymentWall - The All-in-One Monetization Suite
+# Paymentwall - The All-in-One Monetization Suite
 
 Welcome to the Paymentwall, Inc. (www.paymentwall.com). This policy covers how Paymentwall treats personal information that we collect and receive. Paymentwall values the privacy of its users who visit and use the Paymentwall Integrated Platform (collectively or individually, "you" or "Users").
 
@@ -27,11 +27,12 @@ Paymentwall does not accept returns of downloadable digital goods and products. 
 
 With respect to security: Paymentwall has appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site or through the Paymentwall Integrated Platform. We cannot, however, ensure or warrant the security of any information you transmit to Paymentwall, and you do so at your own risk. If you feel that this site is not following its stated information policy, you may contact us at
 
-Paymentwall, Inc.  
-1390 Market St. Suite 112  
-San Francisco, CA 94102.
+Paymentwall Inc.  
+564 Market Street, Penthouse Suite  
+San Francisco, CA 94104.
 
 We can be reached via e-mail at [info@paymentwall.com](mailto:info@paymentwall.com)  
 or you can reach us by telephone at 415-707-9920
 
-Privacy Policy effective as of April 20, 2010
+Privacy Policy effective as of April 20, 2010  
+Privacy Policy last modified on June 24, 2011
