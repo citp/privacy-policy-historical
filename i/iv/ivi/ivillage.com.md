@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivillage.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523230455id_/http%3A//www.ivillage.com/privacy-policy/257153) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivillage.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121317id_/http%3A//www.ivillage.com/privacy-policy/257153) for the most accurate reproduction.*
 
 # Privacy Policy - iVillage
 
