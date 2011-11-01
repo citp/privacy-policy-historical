@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roverradio.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524183952id_/http%3A//www.roverradio.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D457%26Itemid%3D73) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roverradio.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214646id_/http%3A//www.roverradio.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D457) for the most accurate reproduction.*
 
-# Rover's Morning Glory - Privacy Policy
+# Rover's Morning Glory - Rover's Morning Glory
 
 This Privacy Policy was last updated on April 29, 2009
 
@@ -62,7 +62,7 @@ When you visit the RoverRadio Network and interact with the services and tools t
 
 _IP Address_
 
-Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our [Terms of Service](https://web.archive.org/index.php?option=com_content&view=article&id=455%3Aterms-of-service&catid=12&Itemid=73).
+Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to help diagnose problems with our server and to administer our website. We also sometimes use IP addresses to communicate with members and subscribers and possibly even ban those members who are not complying with our [Terms of Service](https://web.archive.org/web/20111101214646id_/http%3A//www.roverradio.com/index.php?option=com_content&view=article&id=455:terms-of-service&catid=12).
 
 _Cookies_
 
