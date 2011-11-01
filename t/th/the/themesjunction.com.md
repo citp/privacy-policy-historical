@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themesjunction.com privacy policy that was archived on 2010-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100216161320id_/http%3A//www.themesjunction.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesjunction.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101165557id_/http%3A//www.themesjunction.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
