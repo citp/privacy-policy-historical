@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122171127id_/http%3A//www.healthpost.co.nz/privacy-security/Information/73) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpost.co.nz privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123600id_/http%3A//www.healthpost.co.nz/privacy-security/Information/73) for the most accurate reproduction.*
 
 # HealthPost online privacy & security policy
 
@@ -65,14 +65,14 @@ We may collect personal information from you (including, without limitation, you
 
 We may use your collected information in the following ways:
 
-  * To process and fulfil your order, including sending emails to confirm your order status and shipment, along with customary business communications. 
-  * To verify your identity and to assist you if you have forgotten your username or password 
-  * To communicate with you and to send you information by email, postal mail or other means about our products, services and promotions, where you agree to receive such information. 
-  * To help us learn more about your shopping preferences and personalise this website in accordance with your preferences. 
-  * To analyze trends and statistics. 
-  * To improve or update this website and our products / services. 
-  * To protect the security or integrity of our website and our business. 
-  * To respond to your enquiries and communicate with you if necessary. 
+  * To process and fulfil your order, including sending emails to confirm your order status and shipment, along with customary business communications.
+  * To verify your identity and to assist you if you have forgotten your username or password
+  * To communicate with you and to send you information by email, postal mail or other means about our products, services and promotions, where you agree to receive such information.
+  * To help us learn more about your shopping preferences and personalise this website in accordance with your preferences.
+  * To analyze trends and statistics.
+  * To improve or update this website and our products / services.
+  * To protect the security or integrity of our website and our business.
+  * To respond to your enquiries and communicate with you if necessary.
 
 
 
