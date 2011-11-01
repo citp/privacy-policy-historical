@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205182133id_/http%3A//www.nomadesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nomadesk.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140911id_/http%3A//www.nomadesk.com/privacy) for the most accurate reproduction.*
 
-# Nomadesk: Privacy Policy | Protection of data
+# Nomadesk Professional Filesharing: Privacy Policy | Protection of data
 
 Nomadesk is developed by Nomadesk NV (Ltd.), with [headquarters at Xavier De Cocklaan 66-5, B-9830 Sint-Martens-Latem, Belgium](http://www.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Xavier+De+Cocklaan+66,+PO+Box+5,+B-9830+Sint-Martens-Latem,+Belgium&sll=40.728299,-74.004807&sspn=0.169634,0.220757&ie=UTF8&hq=&hnear=Xavier+de+Cocklaan+66,+Deurle+9831+Sint-Martens-Latem,+Oost-Vlaanderen,+Vlaams+Gewest,+Belgium&ll=51.001985,3.616802&spn=0.150371,0.284271&z=12&iwloc=A). 
 
@@ -70,6 +70,6 @@ Nomadesk occasionally hires other companies to provide limited services on its b
 
 ## Security practices:
 
-Nomadesk is committed to helping protect the security of the information we collect. The Error Reporting Service uses multiple security technologies and procedures to help protect information from unauthorized access, use, or disclosure. For example, reports are sent to Microsoft from your computer using encryption technology. The information is then stored on computer servers with controlled access. 
+Nomadesk is committed to helping protect the security of the information we collect. The Error Reporting Service uses multiple security technologies and procedures to help protect information from unauthorized access, use, or disclosure. For example, reports are sent to Nomadesk from your computer using encryption technology. The information is then stored on computer servers with controlled access. 
 
 (c) 2010 by Nomadesk - Nomadesk Privacy Policy - 20101018
