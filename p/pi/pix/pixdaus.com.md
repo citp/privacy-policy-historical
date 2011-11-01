@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixdaus.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501040510id_/http%3A//www.pixdaus.com/index.php%3Ffun%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixdaus.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151239id_/http%3A//pixdaus.com/index.php%3Ffun%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy policy
 
