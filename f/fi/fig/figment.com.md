@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the figment.com privacy policy that was archived on 2011-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110111145906id_/http%3A//figment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the figment.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134926id_/http%3A//figment.com/privacy) for the most accurate reproduction.*
 
 # Figment: Write yourself in.
 
 ## **Last Updated June 21, 2010**
 
-This Privacy Policy describes how Figment gathers information from you when you visit the [www.figment.com](http://www.figment.com/privacy.php) website (the “Figment Website” or the “Website”), and how Figment may use and share that information.  By visiting the Website, you are accepting the practices described in this Privacy Policy.
+This Privacy Policy describes how Figment gathers information from you when you visit the [www.figment.com](https://web.archive.org/privacy) website (the “Figment Website” or the “Website”), and how Figment may use and share that information.  By visiting the Website, you are accepting the practices described in this Privacy Policy.
 
 **Data Collection**   
 Figment may collect limited non-personally identifying information your browser makes available whenever you visit a website. This log information may include but not limited to your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser. Figment uses this information to operate, develop and improve the services. 
