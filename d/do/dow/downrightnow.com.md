@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downrightnow.com privacy policy that was archived on 2011-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110301111135id_/http%3A//downrightnow.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downrightnow.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230836id_/http%3A//downrightnow.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - downrightnow
 
@@ -8,7 +8,7 @@ downrightnow is committed to ensuring that your privacy is protected. Should we 
 
 We may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are in agreement with any changes. 
 
-### What we collect
+## What we collect
 
 #### Log Files
 
@@ -26,7 +26,7 @@ If you choose to submit a comment on blog posts or other items posted on downrig
 
 If you choose to send us a message using our [contact page](https://web.archive.org/contact), we collect your Internet Protocol (IP) address and any other information you choose to provide with your message, such as your name and email address. 
 
-### What we do with the information we collect
+## What we do with the information we collect
 
 We use the information we collect to understand our visitors' needs and to operate and improve our services. downrightnow may share certain pieces of aggregated, non-personal information with third parties, affiliated companies or other trusted businesses or persons. 
 
@@ -36,7 +36,7 @@ We use the information we collect to understand our visitors' needs and to opera
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and administrative procedures to safeguard and secure the information we collect online. 
 
-### About Cookies
+## About Cookies
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
 
@@ -46,7 +46,7 @@ Overall, cookies help us provide you with a better web site, by enabling us to m
 
 You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the web site. 
 
-### How we use cookies
+## How we use cookies
 
 downrightnow uses cookies to store information about visitors' preferences, record user-specific information about which pages a user accesses or visits, and to customize web page content based on a visitor's browser type or other information provided by a visitor's web browser. 
 
