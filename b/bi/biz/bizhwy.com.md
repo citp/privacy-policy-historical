@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizhwy.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410164409id_/http%3A//bizhwy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizhwy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230758id_/http%3A//www.bizhwy.com/privacy.php) for the most accurate reproduction.*
 
 # BizHwy Privacy Policy
 
