@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227130236id_/http%3A//www.keh.com/PrivacyNotice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keh.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233501id_/http%3A//www.keh.com/PrivacyNotice.aspx) for the most accurate reproduction.*
 
 # Privacy Notice - Buy & Sell New & Used Cameras – Canon, Nikon, Hasselblad, Leica & More - KEH.com
 
