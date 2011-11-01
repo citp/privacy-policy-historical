@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iranianlivetv.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iranianlivetv.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Live TV and Radio free watching, Iranian (persian) Streams - dish tv - iranianlivetv.com
+# Watch privacy_policy - Iran TV Series - iranianlivetv.com
 
 ###        _Watch Live TV and Radio Channels Online_
 
@@ -10,15 +10,14 @@
 
 |  |   
 ---  
-[Live TVs](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/index.php)  
-[Live Radios](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/radio.php)  
-[Frequency List](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/frequency.php)  
-[Movies](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/movies.php)  
-[TV Series](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/serial.php)  
-[Iran Music](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/music.php)  
-[Useful Links](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/links.php)  
-[Parazit](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/parasites.php)  
-[contact / Impressum](https://web.archive.org/web/20101124042057id_/http%3A//iranianlivetv.com/contact.php)  
+[Live TVs](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/index.php)  
+[Live Radios](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/radio.php)  
+[Frequency List](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/frequency.php)  
+[Movies](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/movies.php)  
+[TV Series](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/serial.php)  
+[Iran Music](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/music.php)  
+[Useful Links](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/links.php)  
+[Parazit](https://web.archive.org/web/20111101142452id_/http%3A//www.iranianlivetv.com/parasites.php)  
   
 ### persian live tv, iranian live tv, farsi live tv,iran tv, persian tv,iran movie,pars tv,iranian tv, iran live tv, iran radio, iranian radio  
   
