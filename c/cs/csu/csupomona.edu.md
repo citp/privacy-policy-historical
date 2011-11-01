@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csupomona.edu privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607130551id_/http%3A//www.csupomona.edu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csupomona.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223145id_/http%3A//www.csupomona.edu/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | Cal Poly Pomona
 
@@ -34,7 +34,7 @@ You have the option of having your personal information discarded without reuse 
 
 ## Limitations
 
-Any information acquired by Cal Poly Pomona is subject to the limitations set forth in the Information Practices Act of 1977 (Title 1.8 (commencing with Section 1798) of Part 4 of Division 3 of the Civil Code).
+Any information acquired by Cal Poly Pomona is subject to the limitations set forth in the [Information Practices Act of 1977](http://www.privacy.ca.gov/ipa.htm) (Title 1.8 (commencing with Section 1798) of Part 4 of Division 3 of the Civil Code).
 
 ## Redistribution
 
@@ -42,7 +42,7 @@ Cal Poly Pomona shall not distribute or sell any electronically collected person
 
 ## Exemption from the Public Records Act
 
-Electronically collected personal information is exempt from requests made pursuant to the California Public Records Act (Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1).
+Electronically collected personal information is exempt from requests made pursuant to the [California Public Records Act](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=gov&group=06001-07000&file=6250-6270) (Chapter 3.5 (commencing with Section 6250) of Division 7 of Title 1).
 
 ## Records requests
 
