@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the bored-bored.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526133347id_/http%3A//bored-bored.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bored-bored.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193923id_/http%3A//bored-bored.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | bored-bored.com
+
+  * Wednesday, January 9, 2008, 16:42
+
+
 
 Bored-Bored.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -18,3 +22,12 @@ This site contains links to other sites. Bored-Bored.com is not responsible for 
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
+
+  * 
+
+
+#### About the Author
+
+## Write a Comment
+
+Gravatars are small images that can show your personality. You can get your [**gravatar**](http://gravatar.com/) for free today!
