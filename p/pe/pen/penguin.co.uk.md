@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2010-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100306171456id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the penguin.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164015id_/http%3A//www.penguin.co.uk/static/cs/uk/0/penguin_privacyterms/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Penguin Books Ltd
 
