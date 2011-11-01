@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jenkatgames.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231084223id_/http%3A//jenkatgames.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jenkatgames.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101035118id_/http%3A//www.jenkatgames.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy at JenkatGames.com
 
