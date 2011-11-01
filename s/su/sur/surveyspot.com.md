@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617051911id_/http%3A//www.surveyspot.com/en/General/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101092424id_/http%3A//www.surveyspot.com/en/General/Privacy-Policy) for the most accurate reproduction.*
 
-# 
+# None
 
   1. General Information.
   2. Types of Personal Information Collected.
