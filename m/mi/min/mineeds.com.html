@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2010-08-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100817133908id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mineeds.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101123957id_/http%3A//www.mineeds.com/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
   <title>MiNeeds Privacy Policy | MiNeeds</title>
@@ -12,6 +12,7 @@
   		<link rel="stylesheet" type="text/css" href="css/signup.css?20022008">
 		<link rel="stylesheet" type="text/css" href="css/autocompleter.css">
 		<link rel="stylesheet" type="text/css" href="css/extra.css?21022008">
+                <link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen">
 		<link rel="stylesheet" type="text/css" href="css/yui-carousel.css">
   <style type="text/css" media="all">@import "/pages/modules/node/node.css";</style>
 <style type="text/css" media="all">@import "/pages/modules/system/defaults.css";</style>
@@ -24,6 +25,8 @@
   <script type="text/javascript">
     //JQ = $;  //rename $ function
   </script>
+  
+
   <script type="text/javascript" src="js/prototype.js"></script>
   <script type="text/javascript" src="js/modalwindow.js"></script>
   <script type="text/javascript" src="js/infomessage.js"></script>
@@ -40,22 +43,369 @@
   <!--[if lt IE 7]>
   <style type="text/css" media="all">@import "/pages/themes/mineeds/fix-ie.css";</style>
   <![endif]-->
+
+  <style>
+      div.content-padding h2 {
+          font: bold 24px 'Trebuchet MS',Arial,Helvetica,sans-serif;
+          margin: 15px 0;
+}
+      h3.with-tabs {
+          font: bold 17px 'Trebuchet MS',Arial,Helvetica,sans-serif;
+          margin: 15px 0;
+}
+      .sidebar ul li.expanded a.active,.sidebar a.active {
+          color:#000000;
+          background-color: #ffffff;
+}
+    .sidebar a.active {
+        background-image: none;
+    }
+    .sidebar ul li.expanded ul.menu li.leaf a{
+        padding-left: 26px;
+    }
+    .sidebar ul li a, .sidebar ul li.expanded a, .sidebar ul li.collapsed a {
+        color: #107CA8;
+        display: block;
+        font: bold 16px 'Trebuchet MS',Arial,Helvetica,sans-serif;
+        text-decoration: none;
+        padding-left: 10px;
+    }
+
+    table {
+        border: 0px;
+        padding: 0px;
+    }
+
+    div.new_table_style table,div.new_table_style table.package {
+        width:742px;
+    }
+    .new-package-content ul {
+        padding:5px 5px 5px 20px;
+    }
+    .new-package-content ul li {
+        font-size: 13px;
+    }
+    .new-package-content {
+       
+    }
+    .new-package-header span {
+        font: bold 16px/1px 'Trebuchet MS',Arial,Helvetica,sans-serif;
+    }
+    .new-package-header {
+        width: 230px;
+    }
+    .sidebar-left #block-menu-63 {
+        margin: 0px;
+    }
+
+    div#sidebar-left {
+        width: 208px;
+        float: left;
+    }
+    #block-menu-84 .content , #block-menu-85 .content,#block-block-20 .content ,#block-menu-88 .content {
+        border-width: 1px;
+        padding: 15px 0px 10px 0;
+        border-style: solid;
+        border-color:#d8d9da;
+        -khtml-border-radius:5px; -webkit-border-radius : 0px 0px 10px 10px; -moz-border-radius: 0px 0px 10px 10px; border-radius: 0px 0px 10px 10px;
+        background-color:#E3F0F8;
+    }
+    #block-menu-84 .content .menu li.expanded .menu, #block-menu-85 .content .menu li.expanded .menu,#block-block-20 .content .menu li.expanded .menu ,#block-block-88 .content .menu li.expanded .menu  {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    div#block-menu-88 h2 {
+    display:none;
+}
+    #block-menu-84 .content .menu li.expanded .menu li , #block-menu-85 .content .menu li.expanded .menu li,#block-block-20 .content .content .menu li.expanded .menu li,#block-block-88 .content .content .menu li.expanded .menu li {
+        padding:0px;
+        margin: 1px 0 0 0px;
+        width: 206px;
+    }
+    .sidebar-left #middle-content, .sidebar-right #middle-content {
+        width: 746px;
+    }
+    #contentwrapper {
+        position: relative;
+}
+
+        #TB_ajaxContent {
+            padding: 0px;
+            overflow-x: hidden;
+        }
+        div.form-cont-ajax-bg {
+            background-color: #E3F0F8;
+        }
+        div.form-cont-bg-no-border {
+            border:0px none;
+            padding-top: 0px;
+        }
+        #TB_closeAjaxWindow {
+        margin: 0px 7px;
+        }
+    /*.sidebar-left #middle-content, .sidebar-right #middle-content .content-padding h2 {
+    font: bold 24px "Trebuchet MS",Arial,Helvetica,sans-serif;
+    margin:20px 0 13px 0;
+    }*/
+
+
+    </style>
+    <script type="text/javascript">
+function validate_input() {
+	var opt = {
+		method: 'post',
+		postBody: $('post_need_form').serialize(),
+		onSuccess: function (msg) {
+			var myJSON = eval('(' + msg.responseText + ')');
+			if(myJSON.result == 1) {
+				//if(myJSON.header_tpl) {
+					//$('header').update(myJSON.header_tpl);
+				//}
+
+				$('region_id').value = myJSON.region_id;
+				$('post_need_form').submit();
+			} else {
+				$('zipcode').update(myJSON.error['zipcode']);
+				//$('username').update(myJSON.error['username']);
+				//$('email').update(myJSON.error['email']);
+				//$('password').update(myJSON.error['password']);
+				$('edescription').update(myJSON.error['description']);
+
+				/*$('bg-shadow').setStyle({
+					background:'url(/cms/themes/mineeds/img/post-need2-error.gif) no-repeat top',
+					height:'490px'
+				});
+				$('post-need-how-it-works2').setStyle({
+					paddingTop:'59px',
+					_paddingTop:'39px'
+				});
+				if (document.getElementsByClassName('post-need-container2')[0]) {
+					document.getElementsByClassName('post-need-container2')[0].style.backgroundPosition = '0 415px';
+				}
+				if (document.getElementsByClassName('post-need-container3')[0]) {
+					document.getElementsByClassName('post-need-container3')[0].style.backgroundPosition = '0 415px';
+				}*/
+			}
+	    }
+	}
+
+	new Ajax.Request('post_need_prepare', opt);
+}
+
+$j(document).ready(function() {
+
+    $j('a.new-link-btn').parents('p').hide();
+    $j('a.new-link-btn').children('p').hide();
+
+        if($j('li a').hasClass("selected")) {
+
+         $j('li a.selected').parent().parent().parent().addClass("selected");
+         }
+         
+	$j('#block-menu-63 li').find(":contains("+$j('li.expanded a').html()+")").addClass('active');
+
+	if($j('.logout-link').html() == '' || $j('.logout-link').html() == null) {
+		$j('#basic').attr('href','/create_offering');
+		$j('#unlimited').attr('href','/create_offering');
+	} else {
+		$j('#basic').attr('href','/subscribe/1/basic');
+		$j('#unlimited').attr('href','/subscribe/1/unlimited');
+	}
+
+	$j('.bg').click(function(){
+		$j('.bg').css('background','none');
+	});
+
+	$j('.bg').blur(function(){
+		if($j('.bg').val() != '') {
+			$j('.bg').val($j('.bg').val());
+		} else {
+			$j('.bg').css('background','url(/cms/themes/mineeds/img/desc-ur-need1.gif) no-repeat center');
+		}
+	});
+
+$j('div.comparison-chart table.table_content tr:even').css({"background-color":"#ffffff"});
+
+$j('#block-menu-63 .content .menu li.leaf a.active').parent().attr('class', 'leaf active selected');
+
+
+
+
+
+         $j('div#block-menu-63 div.content ul li').hover(function(){
+         if($j('div#block-menu-63 div.content ul li:last')){}else{
+            $j(this).css('background', 'url('+'/images/new_style/sprofile-menu-r2.png'+') no-repeat scroll 0 0 transparent');
+            $j(this).children().css({"background":"url(/images/new_style/sprofile-menu-2.png) no-repeat scroll right 0 transparent"});}
+         },function(){if($j('div#block-menu-63 div.content ul li:last')){}else{
+              $j(this).css('background', 'url('+'/images/new_style/profile-menu-2.png'+') no-repeat scroll 0 0 transparent');
+              $j(this).children().css({"background":"url(/images/new_style/profile-menu-r2.png) no-repeat scroll right 0 transparent"});
+             $j('div#block-menu-63 div.content ul li.selected').css('background', 'url('+'/images/new_style/sprofile-menu-r2.png'+') no-repeat scroll 0 0 transparent');
+             $j('div#block-menu-63 div.content ul li.selected a').css({"background":"url(/images/new_style/sprofile-menu-2.png) no-repeat scroll right 0 transparent"});}
+         });
+
+
+        $j('div#block-menu-63 div.content li').click(function(e){
+            location.href = $j(this).find('a').attr('href');
+            });
+
+                if(jQuery.browser.msie){
+                 if(jQuery.browser.version==7.0){
+                     $j('li.ie7inline').css('display','inline');
+                 }
+                }
+                $j('#block-menu-63 .content .menu li.active a').removeClass('active');
+                $j('#block-menu-63 .content .menu li').addClass('ie7inline');
+                $j('#block-menu-63 .content .menu li:last a').addClass('thickbox');
+                $j('#block-menu-63 .content .menu li:last a').css("background","none");
+                $j('#block-menu-63 .content .menu li:last').css("background","none");
+                $j('#block-menu-63 .content .menu li:last').css("float","right");
+                $j('#block-menu-63 .content .menu li:last a').attr("href", "#TB_inline?height=320&width=560&inlineId=hiddenModalContent");
+                $j('#block-menu-63 .content .menu li:last a').css({width : "120px",
+                                                                   color : "#07A3D9",
+                                                                   font : "bold 15px/28px 'Trebuchet MS',Arial,Helvetica,sans-serif"});
+                /*$j('#block-menu-63 .content .menu li:last a').css("line-height","28px");*/
+                $j('#block-menu-63 .content .menu li:last a').html('<img src="/images/new_revenue_model/movie.png" style="margin-right:5px;vertical-align:top;" />Watch Video');
+                //$j('#block-menu-63 .content ul.menu').after('<div style="position: absolute;right: 30px;top: 18px;"><a href="#TB_inline?height=400&width=500&inlineId=hiddenModalContent" class="thickbox">check this out</a></div>');
+            });
+
+</script>
+  <script src="js/jquery.thickbox.js" type="text/javascript" language="javascript"></script>
+
+  <script language="javascript">
+     $j(document).ready(function(){
+/*$j('#block-menu-63 .content').after('<div style="position: absolute;right: 30px;top: 18px;"><a href="#TB_inline?height=600&width=600&inlineId=hiddenModalContent" class="thickbox">check this out</a></div>');*/
+
+         $j('div.header-navigation ul li').hover(function(){
+         
+            $j(this).css('background', 'url('+'/images/new_style/sprofile-menu-r2.png'+') no-repeat scroll 0 0 transparent');
+            $j(this).children().css({"background":"url(/images/new_style/sprofile-menu-2.png) no-repeat scroll right 0 transparent"});
+         },function(){
+              $j(this).css('background', 'url('+'/images/new_style/profile-menu-2.png'+') no-repeat scroll 0 0 transparent');
+              $j(this).children().css({"background":"url(/images/new_style/profile-menu-r2.png) no-repeat scroll right 0 transparent"});
+             $j('div.header-navigation ul li.selected').css('background', 'url('+'/images/new_style/sprofile-menu-r2.png'+') no-repeat scroll 0 0 transparent');
+             $j('div.header-navigation ul li.selected a').css({"background":"url(/images/new_style/sprofile-menu-2.png) no-repeat scroll right 0 transparent"});
+         });
+
+
+        $j('div.header-navigation li').click(function(e){
+            location.href = $j(this).find('a').attr('href');
+            });
+
+                if(jQuery.browser.msie){
+                 if(jQuery.browser.version==7.0){
+                     $j('li.ie7inline').css('display','inline');
+                 }
+                }
+            });
+</script>
 </head>
 
 <body>
+<div style="display: none;" id="hiddenModalContent"><embed src="/player/xendx.swf?file=FlashVideo.flv" width="560" height="320" allowfullscreen="true"></div>
 
-<div id="pagewrapper">
   	<div id="header" class="headerdiv">
-	
+	 <!--   <div>
+        <img src="images/new_header/blue-left-cor.png" border="0" class="floatl" /><span class="header-top-title">Get Competitive Bids from Service Professionals</span><img src="images/new_header/blue-right-cor.png" border="0" />
+    </div>
+<div class="header-top-bg">
+        <div class="header-logo-style">
+            <a href="http://www.mineeds.com/"><img src="images/new_header/logo.png" alt="miNeeds" border="0" /></a>
+        </div>
+        <div class="header-p-need-sty">
+            <input type="text" class="header-input-style"  value="I need a ..." onfocus="this.value='';" />
+            <input type="image" src="images/new_header/post_need_header.png" class="post_need_header"  onclick="$('post_need_form').submit();" />
+        </div>
+        <div class="header-links-sty">
+            <a class="header-search-pro" href="#">Search Professionals</a>
+            <a class="header-ask-exp" href="#">Ask the Experts</a>
+        </div>
+    <div class="clearb"></div>
+
+
+    
+    <ul class="new_header">
+	<li class="new_header-li selected">
+		<a href="http://www.mineeds.com/">Home</a>
+	</li>
+	<li class="new_header-li">
+		<a href="http://www.mineeds.com/post_need/1">Needs</a>
+	</li>
+	<li class="new_header-li">
+		<a href="http://www.mineeds.com/Seattle-Washington-Services">Jobs</a>
+	</li>
+	<li class="new_header-li">
+		<a href="http://www.mineeds.com/ask_experts">Profile</a>
+	</li>
+	<li class="new_header-li">
+		<a href="http://www.mineeds.com/ask_experts">Promote Your Business</a>
+	</li>
+    </ul>
+</div>
+
+<div class="clearb"></div>
+
+
+
+
+
+
+    <div>
+        <img src="images/new_header/blue-left-cor.png" border="0" class="floatl" /><span class="header-top-title">Get Competitive Bids from Service Professionals</span><img src="images/new_header/blue-right-cor.png" border="0" />   
+    </div>
+<div class="header-top-bg">
+        <div class="floatl" style="margin-left:2px;margin-top:12px;width:177px;">
+            <a href="http://www.mineeds.com/"><img src="images/new_header/logo.png" alt="miNeeds" border="0" /></a>
+        </div>
+        <div style="float:left;margin-left:21px;margin-top:20px;position:relative;width:320px;">
+            <input type="text" class="header-input-style"  value="I need a ..." onfocus="this.value='';" />
+            <input type="image" src="images/new_header/post_need_header.png" class="post_need_header"  onclick="$('post_need_form').submit();" />
+        </div>
+        <div class="floatr" style="margin-right:7px;margin-top:21px;">
+            <a class="header-search-pro" href="#">Search Professionals</a>
+            <a class="header-ask-exp" href="#">Ask the Experts</a>
+        </div>
+    <div class="clearb"></div>
+    
+    <a href="#" title=""><div  class="home-margin floatl white-nav"><img src="images/new_header/white-left-cor.png" border="0" class="floatl" /><span class="white-bg">Home</span><img src="images/new_header/white-right-cor.png" border="0" /></div></a>
+
+    <a href="#" title=""><div class="floatl yellow-nav"><img src="images/new_header/yellow-left-cor.png" border="0" class="floatl" /><span class="yellow-bg">Needs</span><img src="images/new_header/yellow-right-cor.png" border="0" /></div></a>
+
+    <a href="#" title=""><div class="floatl yellow-nav"><img src="images/new_header/yellow-left-cor.png" border="0" class="floatl" /><span class="yellow-bg">Jobs</span><img src="images/new_header/yellow-right-cor.png" border="0" /></div></a>
+
+    <a href="#" title=""><div class="floatl yellow-nav"><img src="images/new_header/yellow-left-cor.png" border="0" class="floatl" /><span class="yellow-bg">Profile</span><img src="images/new_header/yellow-right-cor.png" border="0" /></div></a>
+
+    <a href="#" title=""><div class="floatl yellow-nav"><img src="images/new_header/yellow-left-cor.png" border="0" class="floatl" /><span class="yellow-bg">Promote Your Business</span><img src="images/new_header/yellow-right-cor.png" border="0" /></div></a>
+
+     <a href="#" title=""><div class="floatr silver-nav"><img src="images/new_header/small-silv-cor-l.png" border="0" class="floatl" /><span class="silver-bg">Contacts</span><img src="images/new_header/small-silv-cor-r.png" border="0" /></div></a>
+
+     <a href="#" title=""><div class="floatr silver-nav"><img src="images/new_header/small-silv-cor-l.png" border="0" class="floatl" /><span class="silver-bg">Settings</span><img src="images/new_header/small-silv-cor-r.png" border="0" /></div></a>
+</div>
+
+<div class="clearb"></div>
+
+-->
+
+
+<!-- -Start- Latest Header Done By Mohamed -Start- -->
+
+
+
+
+
 
 	<div id="categories" class="cat-cont" style="top:200px;z-index:1000;display:none;">
 	<div class="cat-header">
-		<img style="margin: 12px;" class="floatr eleven_px" src="images/close-large.gif" onclick="$('categories').hide();catCarousel.stopAutoPlay();catCarousel.hide();$('backgroundOverlay').hide();">
+		<img style="margin: 12px 17px;" class="floatr eleven_px" src="images/homepage/close-large-3.png" onclick="$('categories').hide();$('backgroundOverlay').hide();categoriesDefault();$('showhideplayer').show();">
 		<h2 class="select-cat">Select Category</h2>
 	</div>
-	<div class="carousel-cat-content">
-							<div id="cat-carousel" class="yui-carousel">
-	<ol>
+        <div class="carousel-nav" style="display: block;position: absolute; right: 10px;top: 55px;width: 80px;z-index: 11101010;">
+            <button name="back" id="gen6" type="button" onclick="categoryNavigation(1)" style="display: none;">back</button>
+            <button name="more" id="gen7" type="button" onclick="categoryNavigation(1)">more</button>
+        </div>
+    <div class="carousel-cat-content" style="display: block;height: 350px;">
+							<div id="cat-carousel" style="clear: both;height: 350px;width: 655px;overflow: hidden;;position: relative;">
+    <ol id="cat-carusel-ol" style="margin: 0; width: 1200px;position: absolute;top: 0; left: 0;" navpx="0">
 		<li class="floatl">
 			<div class="cat-block">
 				<h3>Professional</h3>
@@ -186,13 +536,13 @@
 	</ol>
 </div>				<script type="text/javascript">
 		
-			var catCarousel = new YAHOO.widget.Carousel("cat-carousel", {
-			  	isCircular: true,
-			    numVisible: 3,
-			    selectOnScroll: false,
-			    animation: { speed: 1 },
-			    autoPlayInterval: 3000
-			});
+//			var catCarousel = new YAHOO.widget.Carousel("cat-carousel", {
+//                            isCircular: true,
+//			    numVisible: 3,
+//			    selectOnScroll: false,
+//			    animation: { speed: 1 }/*,
+//			    autoPlayInterval: 3000*/
+//			});
 		
 		</script>
 	</div>
@@ -211,7 +561,8 @@ function selectCategory(id) {
 				if(myJSON.path) {
 					var path = '';
 					for(var x=0;x<myJSON.path.length;x++) {
-						path += myJSON.path[x].name;
+                                                //path += myJSON.path[x].name;
+                                                path = myJSON.path[x].name;
 						if (x < myJSON.path.length-1) {
 							path += '/';
 						}
@@ -243,7 +594,7 @@ function getCategoryExtraAttributes(cId) {
 		method: 'get',
 		onSuccess: function (msg) {
 			if($('post_need_extra_attributes')) {
-				$('post_need_extra_attributes').update(msg.responseText);
+                               $('post_need_extra_attributes').update(msg.responseText);
 			}
 		}
 	}
@@ -252,6 +603,7 @@ function getCategoryExtraAttributes(cId) {
 
 
 function showCategories(leftOffset,topOffset) {
+$j('#showhideplayer').hide();
 
 	if ($('backgroundOverlay') == null) {
 		var arrayPageSize = [document.body.offsetWidth+document.documentElement.scrollLeft, document.body.offsetHeight+document.documentElement.scrollTop];
@@ -277,52 +629,129 @@ function showCategories(leftOffset,topOffset) {
 		$('categories').setStyle({top:+topOffset+'px'});
 	}
 
-	$('categories').down('div.yui-carousel-nav').style.display = 'none';
+	//$('categories').down('div.yui-carousel-nav').style.display = 'none';
 	$('categories').show();
-	catCarousel.setAttributeConfig("isCircular", {value:true});
-	catCarousel.render(); // get ready for rendering the widget
-	catCarousel.show();   // display the widget
-	catCarousel.startAutoPlay();
-	setTimeout("showNav()", 9000);
+	//catCarousel.setAttributeConfig("isCircular", {value:true});
+	//catCarousel.render(); // get ready for rendering the widget
+	//catCarousel.show();   // display the widget
+	//catCarousel.startAutoPlay();
+	//setTimeout("showNav()", 9000);
+        //showNav();
 }
 function showNav() {
-	catCarousel.stopAutoPlay();
-	catCarousel.setAttributeConfig("isCircular", {value:false});
-	catCarousel.render();
-	$('categories').down('div.yui-carousel-nav').style.display = 'block';
+	//catCarousel.stopAutoPlay();
+	//catCarousel.setAttributeConfig("isCircular", {value:false});
+	//catCarousel.render();
+	//$('categories').down('div.yui-carousel-nav').style.display = 'block';
 }
 
-</script>			
+function reloadCatCarousel() {
+//    var catCarousel = new YAHOO.widget.Carousel("cat-carousel", {
+//            isCircular: true,
+//            numVisible: 3,
+//            selectOnScroll: false,
+//            animation: { speed: 1 }/*,
+//            autoPlayInterval: 3000*/
+//        });
+}
+
+function categoryNavigation(navpx) {
+    var navLeft = $j('#cat-carusel-ol').attr('navpx');
+    if(navLeft == 0) {
+        $j('#cat-carusel-ol').animate({"left": "-630px"}, "slow");
+        $j('#cat-carusel-ol').attr('navpx','1');
+        $j('#categories .carousel-nav #gen7').css('display', 'none');
+        $j('#categories .carousel-nav #gen6').css('display', 'block');
+    } else {
+        $j('#cat-carusel-ol').animate({"left": "0px"}, "slow");
+        $j('#cat-carusel-ol').attr('navpx','0');
+        $j('#categories .carousel-nav #gen6').css('display', 'none');
+        $j('#categories .carousel-nav #gen7').css('display', 'block');
+    }
+}
+
+</script>	
+			
 <script language="JavaScript" type="text/javascript" src="js/modalwindow.js"></script>
 <script language="javascript" src="js/infomessage.js"></script>
 <script language="javascript" src="js/signupinline.js?14022008"></script>
 <script language="javascript" src="js/get_page_size.js"></script>
+<script type="text/javascript" src="js/hover_menu.js"></script>
+<link rel="stylesheet" type="text/css" href="css/hover_menu.css">
+
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen">
+<script src="/js/jquery.thickbox.js" type="text/javascript" language="javascript"></script>
 <script language="javascript">
-var signupFields = new Array('field_zipcode', 'field_email', 'field_password', 'field_password_again');
+     function showHide_div(div) {
+          $j('div#TB_ajaxContent div.form-cont-ajax-bg div').css('display','none');
+          $j('div#TB_ajaxContent div.form-cont-ajax-bg div#'+div).css('display','block');
+          $j('div#TB_ajaxContent div.form-cont-ajax-bg div#'+div+' div').css('display','block');
+      }
+      
+ $j(document).ready(function(){
+     
+     $j('a.new_link-15-top-cities').click(function(){
+         $j('div#main_top_cities').parent().parent().prev().css('background','url("/images/homepage/header-popup.png") no-repeat scroll 0 0 transparent');
+             $j('div.form-cont-ajax-bg div#TB_title').append('<span style="float:left;padding:10px 0 0 7px;font-size:18px;font-weight:bold;color:#ffffff">Top Cities</span>');
+             $j('div#TB_title').css('height','40px');
+     });
+     
+     
+        if($j('li a').hasClass("selected")) {
+         
+         $j('li a.selected').parent().parent().parent().addClass("selected");
+         }else {
+             
+         $j('li.expert_sub_menu:first').addClass("selected");
+         $j('li.expert_sub_menu:first').css('background','url("/images/new_header/left-header-menu.png") no-repeat scroll 0 0 transparent');
+         $j('li.expert_sub_menu:first a.yellow_bg').css({background :'url("/images/new_header/right-header-menu.png") no-repeat scroll right 0 transparent',fontWeight : 'normal'});
+        }
+
+     $j('li.expert_sub_menu').hover(function(){
+
+         $j(this).addClass('hover');
+
+         }, function(){
+             $j(this).removeClass('hover');
+         });
+
+    if(jQuery.browser.msie){
+     if(jQuery.browser.version==7.0){
+         $j('ul#ie7class').css('display','inline');
+     }
+    }
+});
+var signupFields = new Array('field_zipcode', 'field_email', 'field_email_again', 'field_password', 'field_password_again');
 var onlogin_reload = 0;
 var onregister_reload = 0;
-
+var main_section = 'my_services';
 var signupFormLoaded = 0;
 
+function InsertNeedDescText() {
+		$('pneed_header-img').style.display = 'none';
+		$('pneed-header-text').style.display = 'inline-block';
+		$('pneed-header-text').focus();
+	}
+
+
+$j(document).ready(function(){
+                $j("#search_pro").hover(
+              function () {
+                $j(this).css("background","url('/images/new_header/expert-wbg.png') scroll no-repeat 0 0 transparent");
+               /* $j(this).css("border","1px solid #9bd2ea");*/
+                $j(this).css("color","#000000");
+              },
+              function () {
+                $j(this).css("background","url('/images/new_header/search-bg.png') scroll no-repeat 0 0 transparent");
+              /*  $j(this).css("border","1px solid #ffffff");*/
+                $j(this).css("color","#12688c");
+              }
+            );
+        });
+        
 
 
 function showSignupEndUser(force, loginMessage) {
-
-	/*if ($('backgroundOverlay') == null) {
-		var arrayPageSize = getPageSize();//[document.body.offsetWidth+document.documentElement.scrollLeft, brHeight+document.documentElement.scrollTop];
-                var loaderTop  = 260;
-                var loaderLeft = (arrayPageSize[0]-220)/2;
-		var html = '<div id="backgroundOverlay" style="position: absolute; top: 0px; left: 0px; z-index: 190;';
-		html += 'width: '+arrayPageSize[0]+'px; height: '+arrayPageSize[1]+'px; background-color: rgb(0, 0, 0); display:none;"></div>';
-                html += '<img id="ajax-loader-big" src="/images/ajax-loader-big.gif" style="position:absolute;top:'+loaderTop+'px;left:'+loaderLeft+'px;z-index:191;display:none;" />';
-		new Insertion.Bottom(document.body, html);
-		$('backgroundOverlay').show();
-                $('ajax-loader-big').show();
-		new Effect.Appear('backgroundOverlay', { duration: 0.3, from: 0.0, to: 0.5 });
-	} else {
-		$('backgroundOverlay').show();
-                $('ajax-loader-big').show();
-	}*/
         light_box();
 
 	if (typeof(force) == 'undefined')
@@ -371,17 +800,15 @@ function showSignupEndUser(force, loginMessage) {
 			/*signupFields.each(function (element) {
 				$(element).removeClassName('signup_error');
 			});*/
+                        $('ajax-loader-big').hide();
 			if ($('signup_message')) {
+                            $j('#register_error_table').hide();
 				$('signup_message').hide();
 			}
 			if($('login_message')) {
 				$('login_message').hide();
 			}
-			/*if (typeof(loginMessage) != 'undefined') {
-				$('login_message').update(loginMessage);
-			} else {
-				$('login_message').update('');
-			}*/
+
 			$('signup_box').style.top    = (180+document.documentElement.scrollTop)+'px';
 			$('signup_box').show();
 			//$('signup_box').scrollTo();
@@ -390,11 +817,14 @@ function showSignupEndUser(force, loginMessage) {
 	else {
 		$('signup_box').hide();
 	}
+        
 }
 
 function closeLoginForm() {
+    $j('#normal-registration-form table td').removeClass('signup_error');
 	if($('signup_box')) $('signup_box').hide();
 	if($('backgroundOverlay')) $('backgroundOverlay').hide();
+        $j('#login_error_table').hide();
 }
 
 
@@ -402,19 +832,22 @@ function showSignupEndUserForm(t) {
 	var myJSON = eval('(' + t.responseText + ')');
 	if (myJSON.result == 1) {
 		//$('signup_content').update(myJSON.content);
+                $('ajax-loader-big').hide();
 		$('signup_box').update(myJSON.content);
 		if (myJSON.message) {
 			$('signup_message').update(myJSON.message);
 		} else {
+                    $j('#register_error_table').hide();
 			$('signup_message').hide();
 		}
 		signupFormLoaded = 1;
-		//document.write('<sc'+'ript src="http://www.google-analytics.com/ga.js"></sc'+'ript>');
-		//$('signup_box').scrollTo();
+
 	}
 }
 
 function signupEndUser(formId) {
+
+    
 	if (!document.cookie) {
 		signupFields.each(function (element) {
 			if($(element)) {
@@ -423,10 +856,10 @@ function signupEndUser(formId) {
 		});
 
 		var errorHTML = '';
-		errorHTML += '<ul style="padding-bottom: 10px;">';
+		errorHTML += '<ul>';
 		errorHTML += '<li>Cookies are not enabled on your browser. Please adjust this in your security preferences before continuing.</li>';
 		errorHTML += '</ul>';
-
+                $j('#register_error_table').show();
 		$('signup_message').update(errorHTML);
 		$('signup_message').show();
 
@@ -462,7 +895,7 @@ function signupEndUser(formId) {
 								errorHTML = '<span>' + myJSON.error[0] + '</span>';
 							}
 							else {*/
-								errorHTML += '<ul style="padding-bottom: 10px;">';
+								errorHTML += '<ul style="margin:0px;">';
 								for (var i = 0; i < m; i++) {
 									errorHTML += '<li>' + myJSON.error[i] + '</li>';
 								}
@@ -470,6 +903,7 @@ function signupEndUser(formId) {
 							//}
 						}
 					}
+                                         $j('#register_error_table').show();
 					$('signup_message').update(errorHTML);
 					$('signup_message').show();
 					var SignupMessage = new InfoMessage('SignupMessage', 'signup_message', formId, errorHTML, 'message_area_error', {autoClose: false});
@@ -480,7 +914,9 @@ function signupEndUser(formId) {
 					pageTracker._trackPageview("/user_registration_success");
 					// end of track.
 					closeLoginForm();
-					window.location.href = '/my_profile';
+
+					//window.location.href = '/my_profile';
+                                        window.location.reload();
 				}
 			}
 
@@ -537,106 +973,697 @@ function showForgotPassword() {
           $('forgot_password_form').hide();
       }
   }
+  
+      
+  
+</script>
+
+<!---<div style="display: none;" id="top_cities" class="form-cont-ajax-bg">
+    <div class="form-cont-ajax-bg"  style="border:0px;">
+        <div style="display: none;" id="all_top_cities">
+            <div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/Alabama" class="new_link-13">Alabama</a><br />
+													<a href="/more_cities/Alaska" class="new_link-13">Alaska</a><br />
+													<a href="/more_cities/American+Samoa" class="new_link-13">American Samoa</a><br />
+													<a href="/more_cities/Arizona" class="new_link-13">Arizona</a><br />
+													<a href="/more_cities/Arkansas" class="new_link-13">Arkansas</a><br />
+													<a href="/more_cities/California" class="new_link-13">California</a><br />
+													<a href="/more_cities/Colorado" class="new_link-13">Colorado</a><br />
+													<a href="/more_cities/Connecticut" class="new_link-13">Connecticut</a><br />
+													<a href="/more_cities/Delaware" class="new_link-13">Delaware</a><br />
+													<a href="/more_cities/District+of+Columbia" class="new_link-13">District of Columbia</a><br />
+													<a href="/more_cities/Federated+States+of+Micronesia" class="new_link-13">Federated States of Micronesia</a><br />
+													<a href="/more_cities/Florida" class="new_link-13">Florida</a><br />
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/Georgia" class="new_link-13">Georgia</a><br />
+													<a href="/more_cities/Guam" class="new_link-13">Guam</a><br />
+													<a href="/more_cities/Hawaii" class="new_link-13">Hawaii</a><br />
+													<a href="/more_cities/Idaho" class="new_link-13">Idaho</a><br />
+													<a href="/more_cities/Illinois" class="new_link-13">Illinois</a><br />
+													<a href="/more_cities/Indiana" class="new_link-13">Indiana</a><br />
+													<a href="/more_cities/Iowa" class="new_link-13">Iowa</a><br />
+													<a href="/more_cities/Kansas" class="new_link-13">Kansas</a><br />
+													<a href="/more_cities/Kentucky" class="new_link-13">Kentucky</a><br />
+													<a href="/more_cities/Louisiana" class="new_link-13">Louisiana</a><br />
+													<a href="/more_cities/Maine" class="new_link-13">Maine</a><br />
+													<a href="/more_cities/Marshall+Islands" class="new_link-13">Marshall Islands</a><br />
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/Maryland" class="new_link-13">Maryland</a><br />
+													<a href="/more_cities/Massachusetts" class="new_link-13">Massachusetts</a><br />
+													<a href="/more_cities/Michigan" class="new_link-13">Michigan</a><br />
+													<a href="/more_cities/Minnesota" class="new_link-13">Minnesota</a><br />
+													<a href="/more_cities/Mississippi" class="new_link-13">Mississippi</a><br />
+													<a href="/more_cities/Missouri" class="new_link-13">Missouri</a><br />
+													<a href="/more_cities/Montana" class="new_link-13">Montana</a><br />
+													<a href="/more_cities/Nebraska" class="new_link-13">Nebraska</a><br />
+													<a href="/more_cities/Nevada" class="new_link-13">Nevada</a><br />
+													<a href="/more_cities/New+Hampshire" class="new_link-13">New Hampshire</a><br />
+													<a href="/more_cities/New+Jersey" class="new_link-13">New Jersey</a><br />
+													<a href="/more_cities/New+Mexico" class="new_link-13">New Mexico</a><br />
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/New+York" class="new_link-13">New York</a><br />
+													<a href="/more_cities/North+Carolina" class="new_link-13">North Carolina</a><br />
+													<a href="/more_cities/North+Dakota" class="new_link-13">North Dakota</a><br />
+													<a href="/more_cities/Northern+Mariana+Islands" class="new_link-13">Northern Mariana Islands</a><br />
+													<a href="/more_cities/Ohio" class="new_link-13">Ohio</a><br />
+													<a href="/more_cities/Oklahoma" class="new_link-13">Oklahoma</a><br />
+													<a href="/more_cities/Oregon" class="new_link-13">Oregon</a><br />
+													<a href="/more_cities/Palau" class="new_link-13">Palau</a><br />
+													<a href="/more_cities/Pennsylvania" class="new_link-13">Pennsylvania</a><br />
+													<a href="/more_cities/Puerto+Rico" class="new_link-13">Puerto Rico</a><br />
+													<a href="/more_cities/Rhode+Island" class="new_link-13">Rhode Island</a><br />
+													<a href="/more_cities/South+Carolina" class="new_link-13">South Carolina</a><br />
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/South+Dakota" class="new_link-13">South Dakota</a><br />
+													<a href="/more_cities/Tennessee" class="new_link-13">Tennessee</a><br />
+													<a href="/more_cities/Texas" class="new_link-13">Texas</a><br />
+													<a href="/more_cities/Utah" class="new_link-13">Utah</a><br />
+													<a href="/more_cities/Vermont" class="new_link-13">Vermont</a><br />
+													<a href="/more_cities/Virgin+Islands" class="new_link-13">Virgin Islands</a><br />
+													<a href="/more_cities/Virginia" class="new_link-13">Virginia</a><br />
+													<a href="/more_cities/Washington" class="new_link-13">Washington</a><br />
+													<a href="/more_cities/West+Virginia" class="new_link-13">West Virginia</a><br />
+													<a href="/more_cities/Wisconsin" class="new_link-13">Wisconsin</a><br />
+													<a href="/more_cities/Wyoming" class="new_link-13">Wyoming</a><br />
+								
+
+			</div>
+	
+	<div style="clear:both;"></div>
+</div>            <div style="clear:both;"></div>
+            <a href="javascript:;" onClick="showHide_div('main_top_cities');return false;" style="background: url('/images/homepage/button-left.png') no-repeat scroll 0 0 transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 9px 5px 36px; height: 16px; width: 28px;"  class="new_link-13">less</a>
+        </div>
+        <div id="main_top_cities">
+            <div style="width:50%; float:left;">
+    <a href="New+York-New+York-Services" class="new_link-13">New York</a><br />
+    <a href="Los+Angeles-California-Services" class="new_link-13">Los Angeles</a><br />
+    <a href="Seattle-Washington-Services" class="new_link-13">Seattle</a><br />
+    <a href="Atlanta-Georgia-Services" class="new_link-13">Atlanta</a><br />
+    <a href="Chicago-Illinois-Services" class="new_link-13">Chicago</a><br />
+    <a href="Boston-Massachusetts-Services" class="new_link-13">Boston</a><br />
+    <a href="Miami-Florida-Services" class="new_link-13">Miami</a><br />
+    <a href="Houston-Texas-Services" class="new_link-13">Houston</a><br />
+    <a href="Philadelphia-Pennsylvania-Services" class="new_link-13">Philadelphia</a><br />
+    <a href="Washington-Georgia-Services" class="new_link-13">Washington</a><br />
+    <a href="Tampa-Florida-Services" class="new_link-13">Tampa</a><br />
+    <a href="Orlando-Florida-Services" class="new_link-13">Orlando</a><br />
+</div>
+
+<div style="width:50%; float:left;">
+    <a href="Phoenix-Arizona-Services" class="new_link-13">Phoenix</a><br />    
+    <a href="Austin-Texas-Services" class="new_link-13">Austin</a><br />
+    <a href="Denver-Colorado-Services" class="new_link-13">Denver</a><br />
+    <a href="San+Diego-California-Services" class="new_link-13">San Diego</a><br />
+    <a href="Detroit-Michigan-Services" class="new_link-13">Detroit</a><br />
+    <a href="Raleigh-North+Carolina-Services" class="new_link-13">Raleigh</a><br />
+    <a href="Ohio/Cincinnati-Ohio-Services" class="new_link-13">Cincinnati</a><br />
+    <a href="Kansas+City-Kansas-Services" class="new_link-13">Kansas City</a><br />
+</div>            <div style="clear:both;"></div>
+            <!--<a href="javascript:;" onClick="showHide_div('all_top_cities');return false;" style="background: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;" >more</a>-->
+            <!--<a href="more_cities" style="backg d,s./round: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;" >more</a>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div> -->
+
+<!---<div style="margin-bottom: 25px;">
+<div style="height:27px;">
+    <img src="images/new_header/blue-left-cor.png" border="0" class="floatl" />
+        <div class="header-title-bg">
+            <div class="header-title-text"><span style="float: left;">Request, Compare, Book </span><a href="#TB_inline?height=240&amp;width=360&amp;inlineId=top_cities" class="thickbox new_link-15-top-cities top_cities">Top Cities</a></div>
+            <div class="floatr">
+                                 <div class="login-or-my-area-png">
+                      
+                      <a style="margin-left: 20px;float: left;padding-right: 5px;" href="http://www.mineeds.com/pages/help" class="">Help</a>
+                      <span style="float:left;font-size: 20px;color: #215266;">|</span>
+                      <a style="padding-left:5px;" href="javascript:void(0)" onclick="showSignupEndUser(true); return false">Login or Register</a>
+                     
+                  </div>
+                  <b class="clearb"></b>
+                           </div>
+        </div>
+    <img src="images/new_header/blue-right-cor.png" border="0" />
+</div>
+
+
+<div class="header-body-nbg">
+    <div>
+        <div class="header-logo">
+            <a href="http://www.mineeds.com/" title="MiNeeds"><img src="/images/new_header/logo.png" border="0" /></a>
+        </div>
+
+                     <div class="header-p-need-sty" >
+                <form id="index_post_need" action="post_need/2" method="post">
+                    <input id="pneed_header-img" type="text" class="header-input-style"  value="I need a ..." onClick="InsertNeedDescText();"/>
+                    <input id="pneed-header-text" type="text" name="auction[description]" class="header-input-style font-color" style="display:none;" />
+                    <input type="image" src="images/new_header/post-need-nbtn.png" class="header_pneed_img"  onclick="$('post_need_form').submit();" />
+
+                    <input type="hidden" name="auction[region_id]" value="Seattle, WA" />
+                    <input class="" type="hidden" name="auction[title]" value="I need a ..."/>
+                    
+                    <input class="" type="hidden" name="auction[contract_type]" value="both"/>
+                    <input class="" type="hidden" name="auction[start_date]" value="1_week"/>
+                    <input class="" type="hidden" name="auction[budget]" value="not_sure"/>
+                    <input class="" type="hidden" name="auction[notify_friends]" value="0"/>
+                    <input class="" type="hidden" name="auction[expiration]" value="7"/>
+                </form>
+            </div>
+               <div class="clear-both"></div>
+        <ul class="new-header " style="top: 9px;">
+            <li class="expert_sub_menu">
+                <a class="yellow_bg" href="post_need/2">Request Services</a>
+                <ul>
+                    <li style="margin-left: 1px;padding-left: 0px;"><a href="post_need/2">Post Your Need</a></li>
+                    <li><a href="http://www.mineeds.com/Seattle-Washington-Services" class="">Search Professionals</a></li>
+               </ul>
+            </li>
+            <li class="expert_sub_menu ">
+                <a class="yellow_bg" href="http://www.mineeds.com/pages/mineeds-benefits-professionals">Provide Services</a>
+                <ul>    
+                    <li style="margin-left: 1px;padding-left: 0px;"><a href="http://www.mineeds.com/Seattle-Washington-Needs"  class="">Search Leads</a></li>
+                    <li><a href="http://www.mineeds.com/pages/mineeds-benefits-professionals"  class="">How it works</a></li>
+                    <li><a href="http://www.mineeds.com/pages/mineeds-membership-packages" class="">Packages</a></li>
+                    <!--<li><a href="http://www.mineeds.com/pages/help" class="">Help</a></li>-->
+           <!---     </ul>
+            </li>
+            <li class="expert_sub_menu" >
+                <a class="yellow_bg" href="http://www.mineeds.com/ask_experts">Ask The Experts</a>
+                <ul>
+                    <li style="margin-left: 1px;padding-left: 0px;"><a href="/write-an-article"  class="">Write an Article</a></li>
+                    <li><a href="Ask-a-Question/1" class="">Post a Question</a></li>
+                    <li><a href="http://www.mineeds.com/Ask-The-Experts/Questions_Answers" class="">Q&A</a></li>
+                    <li><a href="http://www.mineeds.com/ask_experts" class="">Articles</a></li>
+                    <li><a href="http://www.mineeds.com/forums" class="">Forum</a></li>
+                </ul>
+            </li>
+            <div class="clearb"></div>
+        </ul>
+  </div>
+     <div class="clear-both"></div>
+</div>
+<div>
+    <img src="images/new_header/left-bot-header-bg.png" border="0" class="floatl" />
+        <div class="header-title-nbg">
+            <div class="header-title-ntext">
+                
+            </div>
+        </div>
+    <img src="images/new_header/right-bot-header-bg.png" border="0" />
+</div>
+</div>
+<div class="clearb"></div>
+
+ 
+
+-->
+
+
+
+
+
+<!--- fadwa header --->
+
+
+<script type="text/javascript" src="js/hover_menu.js"></script>
+<link rel="stylesheet" type="text/css" href="css/hover_menu.css">
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen">
+<script src="/js/jquery.thickbox.js" type="text/javascript" language="javascript"></script>
+<script language="javascript">
+
+ function showHide_div(div) {
+          $j('div#TB_ajaxContent div.form-cont-ajax-bg div').css('display','none');
+          $j('div#TB_ajaxContent div.form-cont-ajax-bg div#'+div).css('display','block');
+          $j('div#TB_ajaxContent div.form-cont-ajax-bg div#'+div+' div').css('display','block');
+      }
+
+ $j(document).ready(function(){
+
+     $j('a.new_link-15-top-cities').click(function(){
+         $j('div#main_top_cities').parent().parent().prev().css('background','url("/images/homepage/header-popup.png") no-repeat scroll 0 0 transparent');
+         $j('div.form-cont-ajax-bg div#TB_title').append('<span style="float:left;padding:10px 0 0 7px;font-size:18px;font-weight:bold;color:#ffffff">Top Cities</span>');
+         $j('div#TB_title').css('height','40px');
+     });
+
+
+     if($j('li a').hasClass("selected")) {
+
+         $j('li a.selected').parent().parent().parent().addClass("selected");
+     }else{
+         $j('li.expert_sub_menu:first').addClass("selected");
+         $j('li.expert_sub_menu:first').css('background','url("/images/new_header/left-header-menu.png") no-repeat scroll 0 0 transparent');
+         $j('li.expert_sub_menu:first a.yellow_bg').css({background :'url("/images/new_header/right-header-menu.png") no-repeat scroll right 0 transparent',fontWeight : 'normal'});
+     }
+
+     $j('li.expert_sub_menu').hover(function(){
+             $j(this).addClass('hover');
+         }, function(){
+             $j(this).removeClass('hover');
+         });
+
+    if(jQuery.browser.msie){
+     if(jQuery.browser.version==7.0){
+         $j('ul#ie7class').css('display','inline');
+     }
+    }
+});
+
+    function InsertNeedDescText() {
+		$('pneed_header-img').style.display = 'none';
+		$('pneed-header-text').style.display = 'inline-block';
+		$('pneed-header-text').focus();
+	}
+
+$j(document).ready(function(){
+                $j("#search_pro").hover(
+              function () {
+                $j(this).css("background","url('/images/new_header/expert-wbg.png') scroll no-repeat 0 0 transparent");
+                $j(this).css("color","#000000");
+              },
+              function () {
+                $j(this).css("background","url('/images/new_header/search-bg.png') scroll no-repeat 0 0 transparent");
+                $j(this).css("color","#12688c");
+              }
+            );
+        });
+
+	function getCount() {
+		Ajax.Responders.unregister(responder);
+
+                var opt = {
+			method: 'get',
+			onSuccess: function (msg) {
+				var pendingActions = eval('('+msg.responseText+')');
+				if($('friends_num')) {
+					if(pendingActions.friends > 0) {
+						$('friends_num').innerHTML = pendingActions.friends;
+						$('friends_num_parent').show();
+					} else {
+						$('friends_num_parent').hide();
+					}
+				}
+				if($('profile_friends_num')) {
+					if(pendingActions.friends > 0) {
+						$('profile_friends_num').innerHTML = pendingActions.friends;
+						$('profile_friends_num').show();
+					} else {
+						$('profile_friends_num').hide();
+					}
+				}
+				if($('needs_num')) {
+					if(pendingActions.needs > 0) {
+						$('needs_num').innerHTML = pendingActions.needs;
+						$('needs_num_parent').show();
+					} else {
+						$('needs_num_parent').hide();
+					}
+				}
+				if($('profile_needs_num')) {
+					if(pendingActions.needs > 0) {
+						$('profile_needs_num').innerHTML = pendingActions.needs;
+						$('profile_needs_num').show();
+					} else {
+						$('profile_needs_num').hide();
+					}
+				}
+				if($('bids_num')) {
+					if(pendingActions.bids > 0) {
+						$('bids_num').innerHTML = pendingActions.bids;
+						$('bids_num_parent').show();
+					} else {
+						$('bids_num_parent').hide();
+					}
+				}
+				if($('profile_bids_num')) {
+					if(pendingActions.bids > 0) {
+						$('profile_bids_num').innerHTML = pendingActions.bids;
+						$('profile_bids_num').show();
+					} else {
+						$('profile_bids_num').hide();
+					}
+				}
+				if($('messages_num')) {
+					if(pendingActions.messages > 0) {
+						$('messages_num').innerHTML = pendingActions.messages;
+						$('messages_num_parent').show();
+					} else {
+						$('messages_num_parent').hide();
+					}
+				}
+				if($('profile_messages_num')) {
+					if(pendingActions.messages > 0) {
+						$('profile_messages_num').innerHTML = pendingActions.messages;
+						$('profile_messages_num').show();
+					} else {
+						$('profile_messages_num').hide();
+					}
+				}
+				if($('profile_articles_num')) {
+					if(pendingActions.articles > 0) {
+						$('profile_articles_num').innerHTML = pendingActions.articles;
+						$('profile_articles_num').show();
+					} else {
+						$('profile_articles_num').hide();
+					}
+				}
+				if($('posts_num')) {
+					if(pendingActions.articles > 0) {
+						$('posts_num').innerHTML = pendingActions.articles;
+						$('posts_num_parent').show();
+					} else {
+						$('posts_num_parent').hide();
+					}
+				}
+				if($('all_num')) {
+					if((parseInt(pendingActions.messages) + parseInt(pendingActions.bids) + parseInt(pendingActions.needs) + parseInt(pendingActions.friends) + parseInt(pendingActions.articles)) > 0) {
+						$('all_num').innerHTML = parseInt(pendingActions.messages) + parseInt(pendingActions.bids) + parseInt(pendingActions.needs) + parseInt(pendingActions.friends) + parseInt(pendingActions.articles);
+						$('all_num').show();
+					}
+				}
+			}
+		}
+
+		new Ajax.Request('/ajax/messages_get_new_num.php', opt);
+		setTimeout('getCount()', 30000);
+                Ajax.Responders.register(responder);
+
+
+	window.onload = getCount;
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</script>
+<script language="javascript">
+	if ($('basic') && $('unlimited')) {
+		$('basic').href = '/subscribe/1/basic';
+		$('#unlimited').href = '/subscribe/1/gold';
+	}
+</script>
+
+
+<div style="display: none;" id="top_cities" class="form-cont-ajax-bg">
+    <div class="form-cont-ajax-bg" style="border:0px;">
+        <div style="display: none;" id="all_top_cities">
+            <div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/Alabama" class="new_link-13">Alabama</a><br>
+													<a href="/more_cities/Alaska" class="new_link-13">Alaska</a><br>
+													<a href="/more_cities/American+Samoa" class="new_link-13">American Samoa</a><br>
+													<a href="/more_cities/Arizona" class="new_link-13">Arizona</a><br>
+													<a href="/more_cities/Arkansas" class="new_link-13">Arkansas</a><br>
+													<a href="/more_cities/California" class="new_link-13">California</a><br>
+													<a href="/more_cities/Colorado" class="new_link-13">Colorado</a><br>
+													<a href="/more_cities/Connecticut" class="new_link-13">Connecticut</a><br>
+													<a href="/more_cities/Delaware" class="new_link-13">Delaware</a><br>
+													<a href="/more_cities/District+of+Columbia" class="new_link-13">District of Columbia</a><br>
+													<a href="/more_cities/Federated+States+of+Micronesia" class="new_link-13">Federated States of Micronesia</a><br>
+													<a href="/more_cities/Florida" class="new_link-13">Florida</a><br>
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/Georgia" class="new_link-13">Georgia</a><br>
+													<a href="/more_cities/Guam" class="new_link-13">Guam</a><br>
+													<a href="/more_cities/Hawaii" class="new_link-13">Hawaii</a><br>
+													<a href="/more_cities/Idaho" class="new_link-13">Idaho</a><br>
+													<a href="/more_cities/Illinois" class="new_link-13">Illinois</a><br>
+													<a href="/more_cities/Indiana" class="new_link-13">Indiana</a><br>
+													<a href="/more_cities/Iowa" class="new_link-13">Iowa</a><br>
+													<a href="/more_cities/Kansas" class="new_link-13">Kansas</a><br>
+													<a href="/more_cities/Kentucky" class="new_link-13">Kentucky</a><br>
+													<a href="/more_cities/Louisiana" class="new_link-13">Louisiana</a><br>
+													<a href="/more_cities/Maine" class="new_link-13">Maine</a><br>
+													<a href="/more_cities/Marshall+Islands" class="new_link-13">Marshall Islands</a><br>
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/Maryland" class="new_link-13">Maryland</a><br>
+													<a href="/more_cities/Massachusetts" class="new_link-13">Massachusetts</a><br>
+													<a href="/more_cities/Michigan" class="new_link-13">Michigan</a><br>
+													<a href="/more_cities/Minnesota" class="new_link-13">Minnesota</a><br>
+													<a href="/more_cities/Mississippi" class="new_link-13">Mississippi</a><br>
+													<a href="/more_cities/Missouri" class="new_link-13">Missouri</a><br>
+													<a href="/more_cities/Montana" class="new_link-13">Montana</a><br>
+													<a href="/more_cities/Nebraska" class="new_link-13">Nebraska</a><br>
+													<a href="/more_cities/Nevada" class="new_link-13">Nevada</a><br>
+													<a href="/more_cities/New+Hampshire" class="new_link-13">New Hampshire</a><br>
+													<a href="/more_cities/New+Jersey" class="new_link-13">New Jersey</a><br>
+													<a href="/more_cities/New+Mexico" class="new_link-13">New Mexico</a><br>
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/New+York" class="new_link-13">New York</a><br>
+													<a href="/more_cities/North+Carolina" class="new_link-13">North Carolina</a><br>
+													<a href="/more_cities/North+Dakota" class="new_link-13">North Dakota</a><br>
+													<a href="/more_cities/Northern+Mariana+Islands" class="new_link-13">Northern Mariana Islands</a><br>
+													<a href="/more_cities/Ohio" class="new_link-13">Ohio</a><br>
+													<a href="/more_cities/Oklahoma" class="new_link-13">Oklahoma</a><br>
+													<a href="/more_cities/Oregon" class="new_link-13">Oregon</a><br>
+													<a href="/more_cities/Palau" class="new_link-13">Palau</a><br>
+													<a href="/more_cities/Pennsylvania" class="new_link-13">Pennsylvania</a><br>
+													<a href="/more_cities/Puerto+Rico" class="new_link-13">Puerto Rico</a><br>
+													<a href="/more_cities/Rhode+Island" class="new_link-13">Rhode Island</a><br>
+													<a href="/more_cities/South+Carolina" class="new_link-13">South Carolina</a><br>
+											</div>
+								<div style="width:20%; float:left;">
+					<a href="/more_cities/South+Dakota" class="new_link-13">South Dakota</a><br>
+													<a href="/more_cities/Tennessee" class="new_link-13">Tennessee</a><br>
+													<a href="/more_cities/Texas" class="new_link-13">Texas</a><br>
+													<a href="/more_cities/Utah" class="new_link-13">Utah</a><br>
+													<a href="/more_cities/Vermont" class="new_link-13">Vermont</a><br>
+													<a href="/more_cities/Virgin+Islands" class="new_link-13">Virgin Islands</a><br>
+													<a href="/more_cities/Virginia" class="new_link-13">Virginia</a><br>
+													<a href="/more_cities/Washington" class="new_link-13">Washington</a><br>
+													<a href="/more_cities/West+Virginia" class="new_link-13">West Virginia</a><br>
+													<a href="/more_cities/Wisconsin" class="new_link-13">Wisconsin</a><br>
+													<a href="/more_cities/Wyoming" class="new_link-13">Wyoming</a><br>
+								
+
+			</div>
+	
+	<div style="clear:both;"></div>
+</div>            <div style="clear:both;"></div>
+            <a href="javascript:;" onclick="showHide_div('main_top_cities');return false;" style="background: url('/images/homepage/button-left.png') no-repeat scroll 0 0 transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 9px 5px 36px; height: 16px; width: 28px;" class="new_link-13">less</a>
+        </div>
+        <div id="main_top_cities">
+            <div style="width:50%; float:left;">
+    <a href="New+York-New+York-Services" class="new_link-13">New York</a><br>
+    <a href="Los+Angeles-California-Services" class="new_link-13">Los Angeles</a><br>
+    <a href="Seattle-Washington-Services" class="new_link-13">Seattle</a><br>
+    <a href="Atlanta-Georgia-Services" class="new_link-13">Atlanta</a><br>
+    <a href="Chicago-Illinois-Services" class="new_link-13">Chicago</a><br>
+    <a href="Boston-Massachusetts-Services" class="new_link-13">Boston</a><br>
+    <a href="Miami-Florida-Services" class="new_link-13">Miami</a><br>
+    <a href="Houston-Texas-Services" class="new_link-13">Houston</a><br>
+    <a href="Philadelphia-Pennsylvania-Services" class="new_link-13">Philadelphia</a><br>
+    <a href="Washington-Georgia-Services" class="new_link-13">Washington</a><br>
+    <a href="Tampa-Florida-Services" class="new_link-13">Tampa</a><br>
+    <a href="Orlando-Florida-Services" class="new_link-13">Orlando</a><br>
+</div>
+
+<div style="width:50%; float:left;">
+    <a href="Phoenix-Arizona-Services" class="new_link-13">Phoenix</a><br>    
+    <a href="Austin-Texas-Services" class="new_link-13">Austin</a><br>
+    <a href="Denver-Colorado-Services" class="new_link-13">Denver</a><br>
+    <a href="San+Diego-California-Services" class="new_link-13">San Diego</a><br>
+    <a href="Detroit-Michigan-Services" class="new_link-13">Detroit</a><br>
+    <a href="Raleigh-North+Carolina-Services" class="new_link-13">Raleigh</a><br>
+    <a href="Ohio/Cincinnati-Ohio-Services" class="new_link-13">Cincinnati</a><br>
+    <a href="Kansas+City-Kansas-Services" class="new_link-13">Kansas City</a><br>
+</div>            <div style="clear:both;"></div>
+<!--            <a href="javascript:;" onClick="showHide_div('all_top_cities');return false;" style="background: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;" >more</a>-->
+            <a href="more_cities" style="background: url('/images/homepage/button-right.png') no-repeat scroll 0pt 0pt transparent; color: #ffffff; margin: 0pt; text-align: left; font-weight: bold; font-size: 11px; float: right; padding: 1px 36px 5px 9px; height: 16px; width: 28px;">more</a>
+        </div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<div style="background-image:url('images/headerbg.png');height:75px;margin-bottom: 25px;">
+
+
+
+<div style="padding:0px;margin-bottom:20px;background-image:url('/images/headerbg.jpg');height:75px;margin-bottom: 25px;">
+    <div style="background-image:url('/images/headerbg.jpg');;width:970px;margin:0px auto;height:75px">
+      
+
+ <div id="out_Div" style="height:49px;background-image:url('/images/mmm.png');background-repeat: no-repeat;
+
+
+
+                 padding-top:16px;padding-bottom:9px;
+                                  background-position: 331px 23px;
+
+                 
+
+
+
+                 ">
+                <div id="in_Div" style="position: relative;top:-1px;margin-top:0px;height:51px;background-image:url('images/mmm.png');background-position: 120% 56%;background-repeat: no-repeat">
+
+                <div class="header-logo" style="padding:0px 0px 0px;">
+                        <a href="http://www.mineeds.com/" title="MiNeeds"><img src="/images/logo.png" border="0" style="margin-top: 7px;"></a>
+                    </div>
+                    <div style="float:left;margin-top:-16px">
+                        <img src="images/roundedcorner.gif">
+                    </div>
+
+        <ul class="myHeader hover" style="margin-top:10px;background-image: url('/images/onepix.png');">
+            <li id="home_header" style="width:45px;">
+                <a href="http://www.mineeds.com/" title="MiNeeds"> <img style="position:relative;top:6px;border:none;left:-6px;" src="images/home.png"></a>
+
+            </li>
+
+
+            <li id="need_header" style="width:112px;" class="myHeader hover ">
+                <a href="post_need/2">MY NEEDS</a>
+                <ul class="innerUl">
+                    <li><a href="post_need/2">Post Your Need</a></li>
+                    
+                    <li><a href="http://www.mineeds.com/Seattle-Washington-Services" class="">Search Professionals</a></li>
+                </ul> <img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
+            </li>
+            <li id="service_header" class="myHeader hover  selected "><a class="css_menu" href="">MY SERVICES</a>
+
+                <ul style="">
+                                                            <li><a style="" href="http://www.mineeds.com/Seattle-Washington-Needs" class="">Search Leads</a></li>
+                                                           <li><a href="http://www.mineeds.com/pages/mineeds-benefits-professionals" class="">How it works</a></li>
+                    <li><a href="http://www.mineeds.com/pages/mineeds-membership-packages" class="">Packages</a></li>
+                    <!--<li><a href="http://www.mineeds.com/pages/help" class="">Help</a></li>-->
+                </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
+            </li>
+            <li id="community_header" class="myHeader hover ">
+                <a href="">COMMUNITY</a>
+                <ul style="">
+                    <li><a href="/write-an-article" class="">Write an Article</a></li>
+                    <li><a href="Ask-a-Question/1" class="">Post a Question</a></li>
+                    <li><a href="http://www.mineeds.com/Ask-The-Experts/Questions_Answers" class="">Q&amp;A</a></li>
+                    <li><a href="http://www.mineeds.com/ask_experts" class="">Articles</a></li>
+                    <li><a href="http://www.mineeds.com/forums" class="">Forum</a></li>
+                </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;">
+            </li>
+       <!--     <li id="account_header">
+                      <a  >ACCOUNT</a>
+                <ul>
+                    <li ><a href="http://www.mineeds.com/profiles" class="">Profiles</a></li>
+                    <li ><a href="profile/account#profile_block_h" id="profile_block_" class=" ">My Account</a></li>
+                    <li ><a href="profile/account#notification_settings_h" id="notification_settings_" class=" ">Notification Settings</a></li>
+                                                            <li ><a href="http://www.mineeds.com/profile/contacts"  class="">Contacts</a></li>
+                </ul><img src="/images/arrow-1.png" border="0" style="float:right ; position:relative; top:-10px;right: -1px;" >
+            </li> -->
+            <div class="clearb"></div>
+        </ul>
+                    
+
+
+
+                    <div class="new_headerUser" style="float:left;background-image: url('/images/onepix.png');">
+
+               <div style="float:right;">
+                   <a style="margin-top:1px;position:relative;left:-130px;border:none;padding:0px;background: none;" class="thickbox new_link-15-top-cities top_cities" href="#TB_inline?height=240&amp;width=360&amp;inlineId=top_cities"> <img style="border:none;" src="/images/top-cities.png"> </a>
+
+                 <div style="float:left;margin-right:10px;margin-top:11px;color:#ffffff;font-weight: bold;font-size:14px;">  <a href="http://www.mineeds.com/profile/" style="font-weight: bold;font-size:14px;color:#fff;text-decoration:none;"></a>
+            
+        </div>
+                    <div class="floatl" style="margin: 0 7px;width:150px;">
+                                                   <div class="login-or-my-area-png">
+
+                      <a style="width:55px;height:20px;float:right;margin-left: 35px;float: left;line-height:20px;margin-top:3px;padding:0px 5px;color:#0481b6;background-image:url('/images/signupBg.gif');" href="javascript:void(0)" onclick="showSignupEndUser(true); return false">Sign Up</a>
+
+                      <a style="margin-top:-1px;float:right;padding-left:5px;margin-right: 10px;" href="javascript:void(0)" onclick="showSignupEndUser(true); return false">Login </a>
+
+                  </div>
+                  <b class="clearb"></b>
+                                  </div>
+                    
+                 
+        </div>
+
+
+            <div class="clearb"></div>
+        </div>
+            <div style="float:right;"> <img src="/images/rightheaderbg.jpg" style="position:relative;top:-15px"> </div>
+        </div>
+
+  </div>
+     <div class="clear-both"></div>
+</div>
+<div>
+
+
+
+</div>
+
+
+<div class="clearb"></div>
+</div>
+</div>
+    
+<script>
+function showPostNeedBlocks() {
+	$('header-bottom').toggle();
+
+	var arrayPageSize = [document.body.offsetWidth+document.documentElement.scrollLeft, document.body.offsetHeight+document.documentElement.scrollTop];
+
+	if ($('backgroundOverlay2') == null) {
+		var html = '<div id="backgroundOverlay2" style="position: absolute; top: 0px; left: 0px; z-index: 999;';
+		html += 'width: '+arrayPageSize[0]+'px; height: '+arrayPageSize[1]+'px;" onclick="hidePostNeedBlocks();">';
+		new Insertion.Bottom(document.body, html);
+	} else {
+		$('backgroundOverlay2').show();
+	}
+
+	$('bgt').focus();
+}
+
+function hidePostNeedBlocks() {
+	$('header-bottom').toggle();
+	$('backgroundOverlay2').hide();
+}
 </script>
 
 
 
 
 
-<div class="header-top">
-	<div class="floatl" style="padding: 16px 0 0 18px;">
-		<a href="http://www.mineeds.com/" title="MiNeeds">
-			<img src="images/logo-new.gif" border="0" alt="MiNeeds">
-		</a>
-	</div>
-		<div class="login-area">
-		<div style="margin: 3px 0 2px 0;">
-			<fb:login-button size="medium" length="long" onlogin="fbConnectSteps();"></fb:login-button>
-		</div>
-		<div class="login-or-my-area">
-			<a href="javascript:void(0)" onclick="showSignupEndUser(true); return false">Login or Register</a>
-		</div>
-		<b class="clearb"></b>
-	</div>
-	</div>
-<div id="header-bottom-guest">
-	<div class="header-stats-large">
-		<div>29,602 Providers online</div>
-		<div>25,281 Customers served</div>
-	</div>
-	<form id="post_need_form" action="post_need/2" method="post" style="padding: 16px 0 0 45px;width: 322px;">
-		<input class="" type="hidden" name="auction[title]" value="I need a ...">
-		<input class="" type="hidden" name="auction[c_id]" value="123">
-		<input class="" type="hidden" name="auction[contract_type]" value="both">
-		<input class="" type="hidden" name="auction[start_date]" value="1_week">
-		<input class="" type="hidden" name="auction[budget]" value="not_sure">
-		<input class="" type="hidden" name="auction[notify_friends]" value="0">
-		<input class="" type="hidden" name="auction[expiration]" value="7">
-		<input type="hidden" name="auction[region_id]" value="Seattle, WA">
-		<div style="height: 76px;">
-			<div id="tmp_need_desc_msg" onclick="$('tmp_need_desc_msg').hide();$('large-textarea').show();$('large-textarea').focus();" style="width: 310px; height: 76px; overflow: hidden; border: 0; cursor: text; padding: 0; margin: 0;">
-				<div style="padding: 26px 0 0 0; font-size: 21px;color: #b3d6e2; text-align:center; font-weight: bold;" onclick="$('large-textarea').show();$('tmp_need_desc_msg').hide();$('large-textarea').focus();">I need a ...</div>
-			</div>
-			<textarea id="large-textarea" style="width: 310px; height: 72px;border:0;overflow:auto;font-size: 12px;display:none;" name="auction[description]"></textarea>
-		</div>
-	    <div style="text-align: right;margin-top: 5px;">
-	    	<input src="images/post-need-new-2.gif" type="image" onclick="$('post_need_form').submit();">
-	    </div>
-	</form>
-</div>
-<ul class="header-context-menu menu-fix">
-	<li class="large">
-		<a href="http://www.mineeds.com/pages/mineeds-benefits-professionals">For Professionals</a>
-	</li>
-	<li>
-		<a href="javascript:void(0);" onclick="showCategories('','200');">Categories</a>
-	</li>
-</ul>
-<ul class="header-menu">
-	<li class="header-menu-li ">
-		<a href="http://www.mineeds.com/">Home</a>
-	</li>
-	<li class="header-menu-li ">
-		<a href="http://www.mineeds.com/Seattle-Washington-Services">Find Professionals</a>
-		<ul>
-			<li><a href="http://www.mineeds.com/Seattle-Washington-Services">Search Professionals</a></li>
-			<li class="last"><a href="http://www.mineeds.com/create_offering">Create a Profile</a></li>
-		</ul>		
-	</li>
-	<li class="header-menu-li ">
-		<a href="http://www.mineeds.com/Seattle-Washington-Needs">Needs</a>
-		<ul>
-			<li><a href="http://www.mineeds.com/Seattle-Washington-Needs">Search Needs</a></li>
-			<li class="last"><a href="http://www.mineeds.com/post_need/1">Post a Need</a></li>
-		</ul>		
-	</li>
-	<li class="header-menu-li ">
-		<a href="http://www.mineeds.com/ask_experts">Ask the Experts</a>
-		<ul>
-			<li><a href="http://www.mineeds.com/ask_experts">Articles</a></li>
-			<li><a href="http://www.mineeds.com/Ask-The-Experts/Questions_Answers">Questions &amp; Answers</a></li>
-            <li><a href="http://www.mineeds.com/forums">Forums</a></li>
-			<li class="tools">Tools</li>
-			<li><a class="indented" href="http://www.mineeds.com/Ask-a-Question">Post a Question</a></li>
-			<li><a class="indented" href="http://www.mineeds.com/write-an-article">Write an Article</a></li>
-            <li class="last"><a class="indented" href="http://www.mineeds.com/add-forum-topic">Start a Discussion</a></li>
-		</ul>
-	</li>
-</ul>
-		<div style="clear:both;"></div>
-	</div>
+
+
+
+
+
+
+
+
+  		<div style="clear:both;"></div>
+	</div><div id="pagewrapper"> 
     
 
     <div id="navigation-secondary">
-        <ul class="links secondary-links"><li style="border:none;">&nbsp;</li></ul>    <div style="clear:both;"></div>
+            <div style="clear:both;"></div>
   </div>
   <div style="clear:both;height:15px;"></div>
 
   <div id="contentwrapper">
+
+                
+
     
     <div id="middle-content">
       <div class="content-padding">
-              	  
+
+    	  
                     <h2>MiNeeds Privacy Policy</h2>          
           
                     
@@ -943,7 +1970,7 @@ function showForgotPassword() {
 
 	<div id="footer">
 				<div class="footerdiv">
-			<div class="copyright"> © 2010 MiNeeds.com. All rights reserved<br>
+			<div class="copyright"> © 2011 MiNeeds.com. All rights reserved<br>
 		    	<a href="pages/privacy.html">Privacy policy</a> | <a href="pages/terms-use">Terms of Use</a>
 		    </div>
 			<div style="float:left;">
@@ -953,23 +1980,31 @@ function showForgotPassword() {
 
   <div class="content">			<div class="footer"><strong>Site Links: </strong>
 				<a href="pages/about-mineeds">About Us</a> &nbsp;|
+
 				<a href="pages/contact-us">Contact Us</a> &nbsp;|
+<a href="pages/careers">Careers</a> &nbsp;|
 				<a href="http://www.mineeds.com/blog">Blog</a> &nbsp;|
 				<a href="pages/press">Press</a>
 			</div></div>
 </div>
 			</div>
-			<div style="float:left;margin-left: 10px;padding-top:10px;">
+			<div style="float:left;margin-left: 5px;padding-top:10px;">
 				<strong>Partners:</strong>
 				<a href="/pages/affiliates">Affiliates</a> |
 				<a href="/tools/widget">Widgets</a> |
 				<a href="/tools/api">Data &amp; APIs</a>
 			</div>
+                        <div style="float:left;margin-left: 5px;padding-top:10px;">
+                            <strong>Professionals:</strong>
+                            <a href="/pages/mineeds-benefits-professionals">Benefits</a> |
+                            <a href="/pages/mineeds-membership-packages">Packages</a> |
+                            <a href="/create_offering">Sign Up</a>
+                        </div>
 			<div style="clear:both"></div>
-			<div style="font-size:10px;padding-top:10px;">
+			<!--<div style="font-size:10px;padding-top:10px;">
 				<span style="font-size:12px;"><b>Categories: </b></span>
 				<a href="/Seattle-Washington-Services/Auto-Repair-Services" style="font-size:10px;">Auto Repair &amp; Services</a>&nbsp;| <a href="/Seattle-Washington-Services/Auto-Detailing-Services" style="font-size:10px;">Auto Detailing Services</a>&nbsp;| <a href="/Seattle-Washington-Services/Art-Painting-Drawing" style="font-size:10px;">Art Painting &amp; Drawing</a>&nbsp;| <a href="/Seattle-Washington-Services/Body-Art" style="font-size:10px;">Body Art</a>&nbsp;| <a href="/Seattle-Washington-Services/Collage" style="font-size:10px;">Collage</a>&nbsp;| <a href="/Seattle-Washington-Services/Craft" style="font-size:10px;">Craft</a>&nbsp;| <a href="/Seattle-Washington-Services/Digital" style="font-size:10px;">Digital</a>&nbsp;| <a href="/Seattle-Washington-Services/Glass" style="font-size:10px;">Glass</a>&nbsp;| <a href="/Seattle-Washington-Services/Pottery" style="font-size:10px;">Pottery</a>&nbsp;| <a href="/Seattle-Washington-Services/Sculpting" style="font-size:10px;">Sculpting</a>&nbsp;| <a href="/Seattle-Washington-Services/Fashion" style="font-size:10px;">Fashion</a>&nbsp;| <a href="/Seattle-Washington-Services/Graphic" style="font-size:10px;">Graphic</a>&nbsp;| <a href="/Seattle-Washington-Services/Jewelry" style="font-size:10px;">Jewelry</a>&nbsp;| 	<a href="all_categories" style="font-size:10px;">All Categories</a>
-			</div>
+			</div>-->
 
 			<div style="font-size:10px;padding-top:10px;">
 				<span style="font-size:12px;"><b>Cities: </b></span>
@@ -985,7 +2020,7 @@ function showForgotPassword() {
 				<a href="/New+York-New+York-Services" style="font-size:10px;">New York</a> |
 				<a href="/more_cities" style="font-size:10px;">More Cities</a>
 			</div>
-		</div>
+                        		</div>
 			</div>
 </div>
 <script type="text/javascript">  FB.init("603f517b71a1c02528fa7eb92d83573d", "/fb_connect"); </script>
@@ -994,70 +2029,6 @@ function showForgotPassword() {
 
 
 
-<script type="text/javascript">
-function validate_input() {
-	var opt = {
-		method: 'post',
-		postBody: $('post_need_form').serialize(),
-		onSuccess: function (msg) {
-			var myJSON = eval('(' + msg.responseText + ')');
-			if(myJSON.result == 1) {
-				//if(myJSON.header_tpl) {
-					//$('header').update(myJSON.header_tpl);
-				//}
 
-				$('region_id').value = myJSON.region_id;
-				$('post_need_form').submit();
-			} else {
-				$('zipcode').update(myJSON.error['zipcode']);
-				//$('username').update(myJSON.error['username']);
-				//$('email').update(myJSON.error['email']);
-				//$('password').update(myJSON.error['password']);
-				$('edescription').update(myJSON.error['description']);
 
-				/*$('bg-shadow').setStyle({
-					background:'url(/cms/themes/mineeds/img/post-need2-error.gif) no-repeat top',
-					height:'490px'
-				});
-				$('post-need-how-it-works2').setStyle({
-					paddingTop:'59px',
-					_paddingTop:'39px'
-				});
-				if (document.getElementsByClassName('post-need-container2')[0]) {
-					document.getElementsByClassName('post-need-container2')[0].style.backgroundPosition = '0 415px';
-				}
-				if (document.getElementsByClassName('post-need-container3')[0]) {
-					document.getElementsByClassName('post-need-container3')[0].style.backgroundPosition = '0 415px';
-				}*/
-			}
-	    }
-	}
-
-	new Ajax.Request('post_need_prepare', opt);
-}
-
-$j(document).ready(function() {
-	$j('#block-menu-63 li').find(":contains("+$j('li.expanded a').html()+")").addClass('active');
-
-	if($j('.logout-link').html() == '' || $j('.logout-link').html() == null) {
-		$j('#basic').attr('href','/create_offering');
-		$j('#unlimited').attr('href','/create_offering');
-	} else {
-		$j('#basic').attr('href','/subscribe/1/basic');
-		$j('#unlimited').attr('href','/subscribe/1/unlimited');
-	}
-
-	$j('.bg').click(function(){
-		$j('.bg').css('background','none');
-	});
-
-	$j('.bg').blur(function(){
-		if($j('.bg').val() != '') {
-			$j('.bg').val($j('.bg').val());
-		} else {
-			$j('.bg').css('background','url(/cms/themes/mineeds/img/desc-ur-need1.gif) no-repeat center');
-		}
-	});
-});
-</script>
 </body></html>
