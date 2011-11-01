@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522020404id_/http%3A//www.earthshare.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001141id_/http%3A//www.earthshare.org/privacy-policy.html) for the most accurate reproduction.*
 
 # About: EarthShare’s Donor Privacy Policy
 
