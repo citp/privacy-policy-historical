@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruminations.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430155858id_/http%3A//www.ruminations.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruminations.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124522id_/http%3A//www.ruminations.com/privacy) for the most accurate reproduction.*
 
 # Aaron Karo presents Ruminations.com :: Privacy Policy
 
