@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviesworld4u.com privacy policy that was archived on 2010-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100415204756id_/http%3A//www.moviesworld4u.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviesworld4u.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145256id_/http%3A//www.moviesworld4u.com/2009/01/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | MOVIES WORLD
+# Privacy Policy - Megaupload, Mediafire, Hotfile, Rapidshare Movie Download | Movies World
 
 **Privacy Policy for www.moviesworld4u.com**
 
@@ -27,4 +27,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-[**Click Here To Check Download Links**](http://wgtools.com/link-checker/?url=www.moviesworld4u.com%2F2009%2F01%2Fprivacy-policy.html)
+Keywords:- Privacy Policy rapidshare, Privacy Policy hotfile, Privacy Policy megaupload, Privacy Policy fileserve, Privacy Policy filesonic,Privacy Policy full download free, Privacy Policy torrent download, Privacy Policy mediafire, Privacy Policy dvdrip bdrip, Privacy Policy vidreel link, Privacy Policy download, Privacy Policy watch online, Privacy Policy online watch full movie
+
+Both comments and pings are currently closed. 
