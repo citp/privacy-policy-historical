@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2010-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100130042253id_/http%3A//www.motionelements.com/doc/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motionelements.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155833id_/http%3A//www.motionelements.com/doc/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Stock Video Footage, Animation, 3d Models | MotionElements.com
+# Privacy Policy | MotionElements
 
 ## Privacy Policy
 
