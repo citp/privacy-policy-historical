@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406114624id_/http%3A//www.heartfoundation.org.au/About_Us/Privacy_Policy/Pages/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartfoundation.org.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222510id_/http%3A//www.heartfoundation.org.au/Important-info/Pages/Privacy-policy.aspx) for the most accurate reproduction.*
 
-# Public Privacy Statement
+# Privacy policy
+
+Public Privacy Statement
 
 Updated: 20 May 2005 
 
@@ -12,7 +14,7 @@ The Heart Foundation was established in 1959 and since then has played a leading
 
 The National Privacy Principles
 
-The Australian Government introduced new legislation that came into force on 21st December 2001 to protect the privacy of individuals. This legislation comprises 10 national Privacy Principles that apply to private sector organisations. You can find out more about these principles by calling the Office of the Privacy Commissioner on 1300 363 992 or through their website at [www.privacy.gov.au](http://www.privacy.gov.au/). 
+The Australian Government introduced new legislation that came into force on 21st December 2001 to protect the privacy of individuals. This legislation comprises 10 national Privacy Principles that apply to private sector organisations. You can find out more about these principles by calling the Office of the Privacy Commissioner on 1300 363 992 or through their website at [www.privacy.gov.au](mailto:www.privacy.gov.au). 
 
 The Heart Foundation respects and upholds your rights to privacy protection under the National Privacy Principles in regulating how we collect, use, disclose and hold your personal information. We have a detailed policy and set of procedures to ensure that only authorised staff have access to your personal information and that it remains confidential and only used for appropriate purposes and in accordance with this policy. 
 
@@ -24,7 +26,7 @@ The Heart Foundation is very grateful to the many thousands of people around Aus
 
 We may use your personal information to send you information on heart disease or to let you know about our special events and fundraising programs. Each time that we send you a direct marketing communication we will provide you with a simple way to OPT OUT of receiving similar communications in the future. 
 
-You can also let us know that you do not wish to receive any further mail by phoning Heartline on 1300 36 27 87 for the cost of a local call. 
+You can also let us know that you do not wish to receive any further mail by phoning our Health Information Service on 1300 36 27 87 for the cost of a local call. 
 
 Occasionally the Heart Foundation may allow third parties to mail you with information that we believe may be of interest to you. These organisations usually allow us to do the same and this way we can reach more people with vital information. However whenever we contact you, we will always give you an opportunity to opt-out of receiving such offers. We also do not give these organisations your details. Instead these mailings are arranged through an independent party, which is strictly compliant with privacy legislation. However if you do take advantage of any offer from a third party organisation, they may send further offers to you directly. 
 
@@ -41,17 +43,16 @@ In your Capital City
 
 Alternatively, please call: 1300 55 02 82 or email: [privacy@heartfoundation.org.au](mailto:privacy@heartfoundation.org.au)
 
-How we collect your personal information 
+How we collect your personal information
 
 We collect your personal information when you provide it to the Heart Foundation in a number of ways including: 
 
-  * through a call to Heartline, our health information service 
+  * through a call to the Health Information Service 
   * by participating in one of the Heart Foundation's many community fundraising and information events 
   * when you respond to our fundraising mail. 
+  * we may also collect your personal information from publicly available sources such as the telephone directory. 
 
 
-
-We may also collect your personal information from publicly available sources such as the telephone directory. 
 
 How we keep your personal information secure
 
@@ -67,11 +68,11 @@ The Heart Foundation is very thankful to people who are willing to share their p
 
 The Heart Foundation will not provide your personal information to any overseas organisation without first asking your permission. In such a case, we will also ensure that such organisations are bound by privacy laws at least as strict as those in Australia. 
 
-Visiting our website 
+Visiting our website
 
 When you visit our website, you can browse at your leisure. The Heart Foundation does not use "cookies" to track your movements through the information section of our website or your visits to other websites. The Heart Foundation will only place a "cookie" on your computer for (a) the purposes of tracking navigation and/or (b) to track items added to the e-commerce facility when you make an online donation to the Heart Foundation or purchase a Heart Foundation product. Our third party credit card transaction processor, CardGate.net, uses "cookies" for transaction integrity and anti-fraud purposes. This provider is compliant with the National Privacy Principles and will not utilise your details for any activity other than supporting the primary purpose of making a donation to the Heart Foundation or purchasing a Heart Foundation product. 
 
-Cardgate's privacy policy can be accessed here. 
+Cardgate's privacy policy can be accessed [here](http://www.cardgate.net/privacy.shtml). 
 
 We will only record your email address if you send us a message and your email address will not be used for any other purpose without your consent and will not be passed on to any other organisation. 
 
@@ -99,4 +100,5 @@ If you would like to access the information that we hold about you, you can writ
 
 If the information that we hold about you is incorrect or not up-to-date, we will update it as soon as possible after you have shown us how and why it is incorrect. 
 
-In the unlikely event that we are unable to provide you with access to your personal information for legal reasons as specified in the Privacy Act, we will provide you with reasons for denying access. 
+In the unlikely event that we are unable to provide you with access to your personal information for legal reasons as specified in the Privacy Act, we will provide you with reasons for denying access.   
+
