@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611220801id_/http%3A//www.boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardofstudies.nsw.edu.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001452id_/http%3A//boardofstudies.nsw.edu.au/administration/privacy_plan.html) for the most accurate reproduction.*
 
-# - Board of Studies NSW
+# Privacy Management Plan - Board of Studies NSW
 
   1. [Home](https://web.archive.org/)
+  2. [Administrative Information ](https://web.archive.org/administration/)
+  3. Privacy Management Plan
 
 
 
@@ -308,7 +310,7 @@ Examinations and Certification branch
 
 **
 
-The branch manages administrative support for the planning, conduct and marking of Higher School Certificate examinations and School Certificate Tests; collects and processes all entry and assessment data for the Higher School Certificate and School Certificate programs and maintains students records. The branch manages the Special Provisions program for the School Certificate and Higher School Certificate, the Illness/Misadventure appeals programs, the HSC Advice Line and HSC Inquiry Centre.
+The branch manages administrative support for the planning, conduct and marking of Higher School Certificate examinations and School Certificate Tests; collects and processes all entry and assessment data for the Higher School Certificate and School Certificate programs and maintains students records. The branch manages the Disability Provisions program for the School Certificate and Higher School Certificate, the Illness/Misadventure appeals programs, the HSC Advice Line and 
 
 The branch coordinates the distribution of all Certificates, Records of Achievement and Result Notices for eligible students. The branch appoints the Presiding Officers and Supervisors who administer examinations and the examiners and clerical staff for the marking operations.
 
@@ -410,7 +412,7 @@ Personnel records are maintained by the Human Resources Unit in both paper file 
   * **Personnel records (casual staff)**  
 including seasonal clerical staff, examination markers, presiding officers and supervisors and committee members, name and address details, bank account details and tax file numbers. The applicants provide all information. Applications for membership on committees or as examiners/markers require the endorsement of the School Principal/Director. Applicants are aware of this requirement, and that the Office will not accept the application without such endorsement. The original application form is retained, as is an electronic record. 
   * **Student records**  
-60% of student records are submitted on-line by schools, negating the need to retain paper records within the Office for those students. Schools submitting information on-line, retain the paper records. All data is held on the Office’s exam system in electronic form. Information held includes name, home address (for HSC candidates only), date of birth, school attended, and ethnicity and disability data. During the life of a record, assessment data and examination mark data are added to the record. Additional information provided to the Office in terms of Special Provisions (collected from the student and where applicable treating doctors, with the knowledge of the student) and Illness/Misadventure appeals are also held where an application for these provisions is made. 
+60% of student records are submitted on-line by schools, negating the need to retain paper records within the Office for those students. Schools submitting information on-line, retain the paper records. All data is held on the Office’s exam system in electronic form. Information held includes name, home address (for HSC candidates only), date of birth, school attended, and ethnicity and disability data. During the life of a record, assessment data and examination mark data are added to the record. Additional information provided to the Office in terms of Disability Provisions (collected from the student and where applicable treating doctors, with the knowledge of the student) and Illness/Misadventure appeals are also held where an application for these provisions is made. 
   * Students undertaking practical examinations and /or languages are also required to provide a passport sized photograph for identification purposes. These photo ID’s are provided to the practical examiner, and to the presiding officer for languages examinations. At the completion of the examinations, the photographs are destroyed by either the school principal, or this Office if they are returned.
   * Data in relation to School Certificate, year 11 and Higher School Certificate candidates is retained indefinitely (with the exception of home addresses). Candidates are able to apply for a replacement certificate at any time on a fee for service basis. HSC students are able to undertake the HSC through a pathways program over a five (5) year period.
   * All personal information is collected directly from the student. In some instances, such as N awards, the signature of the student’s parent or guardian is also required.
@@ -567,7 +569,7 @@ Collection
 
 The collection of student data enables the Office to carry out its functions under the Education Act 1990 in relation to the award of the School Certificate, preliminary year 11 and the Higher School Certificate
 
-All student data is collected directly from the students. Schools collect, check and submit the student data either on line or in paper form. Where additional information is required, in the case of an application for a Special Provision or in case of an illness/misadventure appeal, the student provides the additional information, or authorises the collection of the information.
+All student data is collected directly from the students. Schools collect, check and submit the student data either on line or in paper form. Where additional information is required, in the case of an application for a Disability Provision or in case of an illness/misadventure appeal, the student provides the additional information, or authorises 
 
 In the case of N awards ie the non award of a certificate, the signature of the parent/guardian is also required. This need is detailed in the information provided to the student.
 
@@ -577,7 +579,7 @@ Storage security and disposal of personal information
 
 **
 
-Personal information is stored on the Office’s exam system. Access to this data, is limited to authorised staff, on a need-to-know basis. Data submitted to the Office in paper form is stored securely, and access limited to authorised staff. Sensitive information in relation to Special Provisions **** and Illness/Misadventure appeals is not included in the exam data base, but is held on a separate data base. **** Stringent security is imposed on the information collected.
+Personal information is stored on the Office’s exam system. Access to this data, is limited to authorised staff, on a need-to-know basis. Data submitted to the Office in paper form is stored securely, and access limited to authorised staff. Sensitive information in relation to Disability Provisions **** and Illness/Misadventure appeals is not included in the exam data base, but is held on a separate data base. **** Stringent security is imposed on the information collected.
 
 Data collected from students, and the results awarded to them are retained permanently by the Office. These records are held in the exam system (date from), or on micro film/fiche. All records are held securely.
 
