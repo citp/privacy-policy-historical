@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthandwellnesscentral.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429191517id_/http%3A//www.healthandwellnesscentral.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthandwellnesscentral.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160149id_/http%3A//www.healthandwellnesscentral.com/privacy.php) for the most accurate reproduction.*
 
 # Current Health Article | Health And Wellness Article Directory
 
