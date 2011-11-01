@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zootoday.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516010221id_/http%3A//www.zootoday.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zootoday.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121448id_/http%3A//www.zootoday.com/legal/privacy) for the most accurate reproduction.*
 
 # ZOO TODAY: Lads’ Mag – Girls, Sport, Videos and Funny Stuff
 
