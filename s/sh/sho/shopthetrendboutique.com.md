@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopthetrendboutique.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125044613id_/http%3A//www.shopthetrendboutique.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopthetrendboutique.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101104028id_/http%3A//www.shopthetrendboutique.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Security and Privacy
 
