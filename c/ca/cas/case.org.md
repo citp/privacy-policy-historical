@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515022739id_/http%3A//www.case.org/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the case.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214240id_/http%3A//www.case.org/Privacy_Statement.html) for the most accurate reproduction.*
 
 # CASE - CASE Privacy Statement & Policy
 
 #####  CASE Privacy Statement & Policy
 
-[CASE Privacy Statement](http://case.org/Privacy_Statement.html#statement "CASE Privacy Statement")
+[CASE Privacy Statement](http://www.case.org/Privacy_Statement.html#statement "CASE Privacy Statement")
 
-[Current CASE Member Privacy Policy](http://case.org/Privacy_Statement.html#policy "Current CASE Member Privacy Policy")
+[Current CASE Member Privacy Policy](http://www.case.org/Privacy_Statement.html#policy "Current CASE Member Privacy Policy")
 
 ##### CASE Privacy Statement
 
