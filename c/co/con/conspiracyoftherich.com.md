@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the conspiracyoftherich.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919235649id_/http%3A//conspiracyoftherich.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conspiracyoftherich.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002045id_/http%3A//www.conspiracyoftherich.com/Info/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy policy | Conspiracy of the Rich: The 8 New Rules of Money
+# Conspiracy of the Rich - PrivacyPolicy
 
-| 
-
-The following terms and conditions govern the online Privacy Policy for the web site for [www.ConspiracyoftheRich.com](http://www.conspiracyoftherich.com/) (the “Site” or “Web Site”), a Site made available by **The Rich Dad Company** (“Rich Dad” or “we” or “us”). 
+The following terms and conditions govern the online Privacy Policy for the web site for [www.ConspiracyoftheRich.com](http://www.conspiracyoftherich.com/) (the “Site” or “Web Site”), a Site made available by **The Rich Dad Company** (“Rich Dad” or “we” or “us”).
 
 We may change this Privacy Policy from time to time, at any time without notice to you, by posting such changes on the Site.
 
@@ -15,7 +13,7 @@ If you do not agree to the revised Privacy Policy, you should not access or othe
 **Collection of Personal Information**  
 When you engage in certain activities on this site, such as, accessing media files, Rich Dad may ask you to register and provide certain information about yourself by filling out and submitting an online registration form. It is optional for you to provide your information and engage in these activities. If you elect to engage in these activities, however, Rich Dad may ask that you provide us personal information, such as your first and last name, mailing address and telephone number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity.
 
-Any and all personal information collected through the Site, including through registration or otherwise, shall belong to Rich Dad. Please note: If you are located outside of the United States, note that information that you provide to us is being sent to the United States. By using this Site and registering, you understand and consent to your data being sent to the United States. 
+Any and all personal information collected through the Site, including through registration or otherwise, shall belong to Rich Dad. Please note: If you are located outside of the United States, note that information that you provide to us is being sent to the United States. By using this Site and registering, you understand and consent to your data being sent to the United States.
 
 **Rich Dad’s Use of Personal Information**  
 Personal information collected through this site may be made available to Hachette Book Group, Inc., the Work’s publisher. Hachette may use such information in accordance with its own online Privacy Policy. <http://www.hachettebookgroup.com/privacy-policy.aspx>
@@ -40,6 +38,5 @@ Scottsdale, AZ‎ 85251
 
 Dated: January 19, 2009
 
-[](https://web.archive.org/user/register)
+  
 
-|  
