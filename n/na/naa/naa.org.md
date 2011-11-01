@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526114915id_/http%3A//www.naa.org/AboutNAA/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naa.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101111634id_/http%3A//www.naa.org/About-NAA/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Newspaper Association of America: Advancing Newspaper Media for the 21st Century
-
-| 
-
-### Privacy Policy
-
-  
-
+# Privacy Policy
 
 This is the World Wide Web site of the Newspaper Association of America, 4401 Wilson Boulevard, Suite 900, Arlington, Va. 22203-1867. NAA can be reached by e-mail at [feedback@naa.org](mailto:feedback@naa.org) and by telephone at (571) 366-1000. 
 
@@ -19,7 +12,7 @@ To further enhance the relevance and value of NAA.org, the Association has begun
 
 NAA has contracted with a Web measurement analysis firm to gather visitor usage information. As part of this relationship, NAA may use Web beacons and cookies to track visitors' page preferences and patterns. Only aggregated data, and no personally identifiable information, is collected. Although NAA's third-party service provider aggregates the information, NAA controls use of the data. 
 
-If you wish to opt out from the Association's ability to analyze such collective data, set your Web browser to block cookies OR [click here ](http://www.omniture.com/privacy/policy#optout)to access the opt-out page provided by NAA's Web measurement provider. 
+If you wish to opt out from the Association's ability to analyze such collective data, set your Web browser to block cookies OR [click here](http://www.omniture.com/privacy/policy#optout) to access the opt-out page provided by NAA's Web measurement provider. 
 
 Prior parental consent may be required before a child can submit personal information. For purposes of this policy, a child is anyone under the age of 13. A parent can consent to the collection and use of a child's personal information (e.g., name, e-mail address) without consenting to disclosure of that same information to third parties. A child's participation in any activity offered on this Web site cannot be conditioned on the disclosure of more personal information than reasonably is necessary to participate. In addition, a parent has a right to review and have deleted any personal information submitted by a child, and can refuse to permit further collection or use of the child's information by contacting NAA through the postal mail address, e-mail address, or telephone number shown above and requesting review or deletion of information submitted by a child to the Web site. 
 
@@ -29,9 +22,6 @@ Prior parental consent is not required for NAA to accept personal information fr
 
 **Parents** : NAA encourages parents to get involved with their children's online usage and to be aware of the activities in which their children are participating. Any personal information collected by NAA from children (if NAA is aware they are children) will be used only for internal purposes such as contest fulfillment, or fulfilling requests for information or materials. Such information will not be included in our database and will not be posted or published by NAA, or provided to any third parties, without prior parental consent. If you have any concerns regarding use of information provided by a child, please contact us at [feedback@naa.org](mailto:feedback@naa.org), or at the postal mail address or telephone number above. 
 
-NAA's Web site contains links to many other sites. However, we are not responsible for the content or the privacy practices employed by other sites. 
+NAA's website contains links to many other sites. However, we are not responsible for the content or the privacy practices employed by other sites. 
 
 Questions or concerns regarding what is done with information provided via this site should be directed to [feedback@naa.org](mailto:feedback@naa.org) before any information is submitted. 
-
-|   
----|---|---
