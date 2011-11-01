@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2011-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110614072057id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the download-free-games.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235726id_/http%3A//www.download-free-games.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Download Free Games - Download Free Games
 
@@ -86,6 +86,8 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 A "cookie" is a small piece of information sent by a web server to store on a web browser so it can later be read back from that browser.
 
 Cookies are used on many download links to track referrals from this site. All full version purchases made from these downloads are then credited to Download Free Games from software developer partners on a revenue sharing basis. At this time, Download Free Games does not set any cookies itself. Cookies may also be used by our third party ad server companies Tribal Fusion and Google Adsense.
+
+To opt out of BT Buckets geo targeting system, [click here](http://btbuckets.com/site/optout)
 
 **Ad Servers**
 
