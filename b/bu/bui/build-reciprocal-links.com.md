@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-reciprocal-links.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427044747id_/http%3A//www.build-reciprocal-links.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-reciprocal-links.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223950id_/http%3A//www.build-reciprocal-links.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - build-reciprocal-links.com
 
@@ -68,6 +68,29 @@ We post customer testimonials on our Web site which may contain personally ident
 
 Updates.  
 This Privacy Policy is effective as of December 10th, 2005. build-reciprocal-links.com reserves the right to change or update this Privacy Policy, or any other build-reciprocal-links.com policy or practice, at any time with reasonable notice to users of the Site. Any changes or updates will be effective upon posting to the Site. Regardless of any changes we make to our Privacy Policy, we will only use your personal information in accordance with the version of the Privacy Policy in place at the time you provided your information unless you give us your consent to do otherwise. Your continued use of the Site following our posting of a change notice will constitute binding acceptance of those changes for future collections. 
+
+Log Files  
+Like many other Web sites, www.build-reciprocal-links.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+Cookies and Web Beacons  
+www.build-reciprocal-links.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on www.build-reciprocal-links.com.  
+.:: Google's use of the DART cookie enables it to serve ads to users based on their visit to www.build-reciprocal-links.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ....
+
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.build-reciprocal-links.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+www.build-reciprocal-links.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.build-reciprocal-links.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 Governing Law.  
 This Privacy Policy and its performance shall be governed by the laws in force in the Ohio, USA. You consent and submit to the exclusive jurisdiction of the Courts of the Ohio, in all questions and controversies arising out of your use of the Site and this Privacy Policy. 
