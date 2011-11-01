@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubleinks.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610173107id_/http%3A//www.doubleinks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubleinks.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125416id_/http%3A//www.doubleinks.com/privacy.php) for the most accurate reproduction.*
 
 # Double Inks
 
@@ -11,6 +11,7 @@ The information we learn from customers helps us personalize and continually imp
   * **Information You Give Us:** We receive and store any information you enter on our Web site or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, fulfilling orders, customizing future shopping for you, improving our store features, and communication with you. 
   * **Automatic Information:** We receive and store certain types of information whenever you interact with our website. For example, like many web sites, we sometimes use "cookies," and we obtain certain types of information when your Web browser accesses our website. 
   * **E-mail Communications:** To help us make e-mails more productive to improve service and your shopping experience, we sometimes send you newsletters of our services and products, notifications of changes to our policies, and order confirmations. If you do not want to receive e-mail from us, other than order notifications and receipts, please adjust your "Subscription" preferences by logging into your account. 
+  * **Third-Party Advertising:** We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 
 
