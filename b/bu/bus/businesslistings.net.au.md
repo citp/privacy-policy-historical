@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businesslistings.net.au privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520091311id_/http%3A//www.businesslistings.net.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businesslistings.net.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002304id_/http%3A//www.businesslistings.net.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy policy - BusinessListings.net.au - Add you business for free
 
@@ -24,7 +24,7 @@ BusinessListings.net.au takes all reasonable steps to ensure the security of our
 
 In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by BusinessListings.net.au. However, BusinessListings.net.au will not be held responsible for events arising from unauthorised access of your personal information. 
 
-You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any pass word and accounts used on the BusinessListings.net.au site for the purpose of advertising. Please notify us immediately at info@BusinessListings.net.au.com.au if there is any unauthorised use of your account by any other internet user or any other breach of security. 
+You can also play an important role in keeping your personal information secure, by maintaining the confidentiality of any pass word and accounts used on the BusinessListings.net.au site for the purpose of advertising. Please notify us immediately at support@businessListings.net.au.com.au if there is any unauthorised use of your account by any other internet user or any other breach of security. 
 
 ###  Does BusinessListings.net.au share my information with third parties? 
 
