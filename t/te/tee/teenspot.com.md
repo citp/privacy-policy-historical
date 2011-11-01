@@ -1,45 +1,122 @@
-> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104020154id_/http%3A//www.teenspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teenspot.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154545id_/http%3A//www.teenspot.com/privacy) for the most accurate reproduction.*
 
 # TeenSpot.com - Privacy Policy
 
-We may use Personally Identifiable Information subject to the terms of this privacy policy.  We will never sell, trade, or lease your e-mail address to any unauthorized third party. From time to time you may receive e-mail sent by us that details special offers or other valuable information about our partners or business colleagues.
+**
 
-**How we gather information from users**
+www.TeenSpot.com (the "Site")
 
-How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided to you.  You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most websites, we also collect information automatically and through the use of electronic tools that may be transparent or invisible to our users. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, keeping you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means and there may be other technologies present that act in a similar way but are protected by confidentiality in that they are valuable intellectual properties. In certain cases, you can choose not to provide us with information, such as by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize TeenSpot.com's features according to your preferences. If you do not accept cookies you will find your enjoyment of TeenSpot.com as well as the Internet to be lessened considerably.
+Privacy Policy
 
-**What we do with the information we collect**
+**
 
-We collect information to enhance your visit and deliver more individualized content and advertising.  We respect your privacy and do not share your personal information with anyone.
+This privacy policy was last modified on September 29, 2010.
 
-Aggregated Data (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive).  Aggregated Data may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.
+CraftedByTeens, LLC ("Company," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Company when you use the Site and related services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-We may use Personally Identifiable Information collected by us to communicate with you about your registration and customization preferences; our Terms of Use and privacy policy; services and products offered by us and other topics we think you might find of interest including commercial announcements of various nature.
+**Information We Collect**
 
-Personally Identifiable Information collected by us may also be used for other purposes, including but not limited to site administration and development, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Internet hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law and/or law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide notice prior to disclosure in such cases.
+**User-Provided Information:**
 
-**Affiliated sites, linked sites and advertisements**
+You provide us information about yourself, such as your name and e-mail address, when you register with the Service. Also, you may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-We expect our partners, advertisers and affiliates to respect the privacy of our users.  Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices.  For example, during your visit to our site you may link to certain content that is actually created or hosted by a third party. Also, through our content you may be introduced to, or be able to access, information, websites, features, contests or sweepstakes offered by other parties. We are not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party. Please make sure you are aware of when you leave our site or view content through a frame.
+**Cookies Information:**
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. We do not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+When you visit the Site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser and allows Company to help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Company uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-We use third-party advertising companies to serve ads when you visit our Web site.  The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site.  In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites.  In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser.  In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising.  Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.  To "opt-out," please click here. <http://www.doubleclick.com/privacy/index.aspx>. 
+**Log File Information:**
 
-You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this document.
+Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-**Minors**
+**Clear Gifs Information:**
 
-We do not knowingly collect or solicit Personally Identifiable Information from or about minors under 13 except as permitted by law. If we discover we have received any information from a minor under 13 in violation of this policy, we will delete that information immediately. TeenSpot.com is designed to be of service and interest to minors, specifically, to teenagers.  If you are a minor, you may only use TeenSpot.com with the permission and under the supervision of your parent or guardian.  Parents should never allow their minors to use the Internet without directly supervising them.
+When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Company account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make us better for our users.
 
-**Changes to this Policy**
+**New Technology:**
 
-We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will constitute acceptance of those changes.  Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
+As we adopt additional technology, we may also gather information through other means and there may be other technologies present that act in a similar way but are protected by confidentiality in that they are valuable intellectual properties.
 
-**Governing law**
+**How We Use Your Information**
 
-This policy and any interpretation thereof is subject to the laws of the State of Washington. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in Spokane , Washington. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.
+We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service.
 
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration to be held at our offices or at any location mutually agreed upon by all parties under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. You must be present at all mediation meetings. We will mutually agree to a mediator, and if we cannot do so, then you agree that the American Arbitration Association may appoint a mediator.
+Any personal information or content that you voluntarily disclose for posting to the Service (for instance, in User Content you post) becomes available to the public. If you remove User Content, copies may remain viewable in cached and archived pages or if other users have copied or stored your User Content.
 
-This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
+By providing Company your email address you consent to our using the email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. We may also use your email address to send you other messages, such as newsletters, changes to features of the Service, or special offers. If you do not want to receive such email messages, you may opt out by sending an email message to [legal@teenspot.com](mailto:legal@teenspot.com) with the word "No email" in the subject field. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.
+
+Company may use certain information about you and/or your User Content without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, maintaining security, and personalizing advertisements and promotions.
+
+Company reserves the right, but has no obligation, to monitor the User Content you post on the site. Company has the right to remove any such information or material for any reason or no reason, including without limitation, if in its sole opinion, such information or material violates, or may violate, any applicable law or our Terms of Use Agreement or to protect or defend its rights or property or those of any third party. Company also reserves the right to remove information upon the request of any third party.
+
+We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (f) help you efficiently access your information after you sign in.
+
+**How We Share Your Information**
+
+**Personally Identifiable Information:**
+
+Company will not rent or sell your personally identifiable information to others. Company may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Company (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution.
+
+Except as otherwise described in this privacy statement, Company will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our Terms of Use, take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Company, our users or others. Please note we may not provide notice prior to disclosure in such cases.
+
+**Non-Personally Identifiable Information:**
+
+We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Company services.
+
+Company allows other companies, called third-party ad servers or ad networks, to serve advertisements on the Company site. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Company. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content.
+
+Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Company to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach.
+
+You should consult the respective privacy policies of these third-party ad servers or ad networks. The Company privacy policy does not apply to, and we cannot control the activities of, such advertisers.
+
+**How We Protect Your Information**
+
+Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Company and you do so at your own risk. Once we receive your transmission of information, Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Company, at all times.
+
+**Compromise of Personal Information**
+
+In the event that personal information is compromised as a result of a breach of security, Company will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+**Your Choices About Your Information**
+
+You may, of course, decline to submit personally identifiable information through Company, in which case Company may not be able to provide certain services to you.
+
+**Children's Privacy**
+
+TeenSpot.com is designed to be of service and interest to minors, specifically to teenagers ages 13 and older. If you are a minor over the age of 13, you may only use TeenSpot.com with the permission and under the supervision of your parent or guardian.
+
+If you are a minor under the age of 13, you are not allowed to provide any personal information to or on Company. Please do not send any information about yourself to us, including your name, address, telephone number, or email address. Company does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible.
+
+If you believe that we might have any information from or about a child under 13, please contact us at [legal@teenspot.com](mailto:legal@teenspot.com).
+
+**Third Parties**
+
+We expect our partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices.
+
+You should also be aware that if you voluntarily disclose personally identifiable information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond our control and outside the scope of this document.
+
+**Links to Other Web Sites:**
+
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. User browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
+
+**Third Party Advertisements and Technologies:**
+
+We use third-party advertising companies to serve advertisements when you visit our Site as is explained in detail in our Site's Terms of Use. The third-party advertising technology that we use on this Site uses information derived from your visits to the Site to target advertising within this Site. In addition, our advertisers may use other third-party advertising technology to target advertising on this Site and other websites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. You may "opt-out" of certain third party programs by following the instructions located at <http://www.doubleclick.com/privacy/index.aspx>. 
+
+**Notification Procedures**
+
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Company in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
+
+**Changes to Our Privacy Policy**
+
+We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [legal@teenspot.com](mailto:legal@teenspot.com), or send mail to:
+
+CraftedByTeens, LLC  
+4859 W. Slauson Ave., Suite 549  
+Los Angeles, CA 90056  
+Attn: General Counsel
