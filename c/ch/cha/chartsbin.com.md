@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chartsbin.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321230424id_/http%3A//chartsbin.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chartsbin.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123249id_/http%3A//chartsbin.com/about/privacy) for the most accurate reproduction.*
 
 # About ChartsBin.com
 
@@ -12,11 +12,11 @@ We respect the privacy of our customer and the privacy of their data. We believe
 
 ## Data Collection
 
-We collect the name of those who post messages to our comment section, the e-mail addresses of those who communicate with us via e-mail and/or contact us page, anonymous usage information on what pages user access or visit, information volunteered by the user, such as survey information and/or site registrations, comments you make in our comment section.
+We collect the name of those who post messages to our comment section, the e-mail addresses of those who communicate with us via e-mail and/or contact us page, anonymous usage information on what pages user access or visit, information volunteered by the user, such as survey information and/or site registrations, comments you make in our comment section and store Data, Charts/Maps you provide or create.
 
 ## Data Use and Disclosure
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page
+The information we collect is used for internal review and is then discarded, used to improve the content of our web page.
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -44,4 +44,4 @@ We may periodically update this policy. We will notify you about significant cha
 
 If you have any questions about this privacy policy or WEBASP's treatment of your personal information, should be addressed to info [at] chartsbin.com
 
-## updated: 5 December 2009
+## updated: 27 June 2011
