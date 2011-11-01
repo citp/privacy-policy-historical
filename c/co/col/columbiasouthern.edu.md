@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521052018id_/http%3A//www.columbiasouthern.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiasouthern.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144115id_/http%3A//www.columbiasouthern.edu/privacy) for the most accurate reproduction.*
 
-# Columbia Southern University - Privacy Policy
+# Privacy Policy - Columbia Southern University
 
 Mayes Education, Inc. and its subsidiaries including Columbia Southern University (CSU) and Waldorf College hold in high regard the privacy rights of our website visitors. We provide the following information describing what information we collect from site visitors and how that information is used to demonstrate our commitment to user privacy.
 
