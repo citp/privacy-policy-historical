@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the flinders.edu.au privacy policy that was archived on 2011-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110606220339id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flinders.edu.au privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101130439id_/http%3A//www.flinders.edu.au/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <title>Privacy - Flinders University</title>
@@ -48,8 +48,22 @@
   }
 </style>
   <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/flinders/app_templates/flinderspagelets/content/jslib.js"></script>
+  <script type="text/javascript" src="/flinders/app_templates/flinderstemplates/javascript/jquery/jquery.min.js"></script>
+  <script type="text/javascript" src="/flinders/app_templates/flinderstemplates/javascript/jquery/jquery.collapse.js"></script>
 </head>
 <body id="bodytag">
+<!-- googleanalytics.cfm -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1532832-2']);
+  _gaq.push(['_setDomainName', 'flinders.edu.au']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 <div id="pageWrapper" class="yui-t7">
     <!-- HEADER -->
 <!-- googleoff: all-->
@@ -63,37 +77,37 @@
     </div> <!-- mainBanner -->
 <!-- googleoff: all-->
     <div class="gbls">
-      <ul class="gNav">
+              <ul class="gNav">
         <li> <a href="http://www.flinders.edu.au/" title="Flinders Home"> HOME </a> </li>
-        <li> <a href="/about/" title="About Flinders"> ABOUT FLINDERS </a> </li>
+        <li> <a href="/about/about_home.cfm" title="About Flinders"> ABOUT FLINDERS </a> </li>
         <li> <a href="/about/org-struct/facs-and-schools/" title="Faculties &amp; Divisions"> FACULTIES &amp; DIVISIONS </a> </li>
         <li> <a href="http://www.flinders.edu.au/library/" title="Library"> LIBRARY </a> </li>
-        <li> <a href="http://www.flinders.edu.au/directory/"> STAFF DIRECTORY </a> </li>
+        <li> <a href="http://www.flinders.edu.au/directory/main-display-search-form.cfm"> STAFF DIRECTORY </a> </li>
         <li> <a href="/a-z-index.cfm"> A-Z INDEX </a> </li>
         <li> <a href="/site-map.cfm"> SITE MAP </a> </li>
       </ul>
     </div> <!-- gbls -->
     <div class="quickNav">
       <!-- Quicklinks -->
+              <!-- Quicklinks included -->
       <form id="quicklinks" name="quicklinks" method="get" action="">
         <div class="qNtext">
           <span> Quicklinks </span>
           <select name="urllist" onchange="jumpToQuickLink();">
-            <option value="#" selected="selected"> &lt; please select &gt; </option>
-            <option value="https://learn.flinders.edu.au" tracklinkas="flinders-quicklink/FLO"> FLO </option>
-            <option value="https://stuadmin.flinders.edu.au/student/" tracklinkas="flinders-quicklink/StudentSystem-student"> Student System (student login)</option>
-            <option value="https://stuadmin.flinders.edu.au/staff/" tracklinkas="flinders-quicklink/StudentSystem-staff"> Student Two Web (staff login)</option>
-            <option value="https://i.flinders.edu.au" tracklinkas="flinders-quicklink/iFlinders"> iFlinders </option>
-            <option value="/campus/location/campus-map.cfm" tracklinkas="flinders-quicklink/CampusMap"> Campus map </option>
-            <option value="/semester-dates/" tracklinkas="flinders-quicklink/SemesterDates"> Semester dates </option>
-            <option value="https://imp.flinders.edu.au" tracklinkas="flinders-quicklink/Email"> Email - IMP</option>
-            <option value="http://owa.flinders.edu.au" tracklinkas="flinders-quicklink/Exchange email"> Email - Exchange</option>
-            <option value="/about-flinders-university/org-struct/facs-and-schools/" tracklinkas="flinders-quicklink/Faculties"> Faculties </option>
-            <option value="/about-flinders-university/org-struct/admindivs/" tracklinkas="flinders-quicklink/AdminDivs"> Administrative divisions </option>
-            <option value="http://www.flinders.edu.au/hrsps/WSS/home.html" tracklinkas="flinders-quicklink/ESS"> Employee self service </option>
-            <option value="http://www.flinders.edu.au/enrolling" tracklinkas="flinders-quicklink/Enrolment"> Enrolment </option>
-            <option value="/campus/location/parking.cfm" tracklinkas="flinders-quicklink/Parking"> Parking </option>
-          </select>
+                      <option value="#" selected="selected"> &lt; please select &gt; </option>
+            <option value="http://learn.flinders.edu.au" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/FLO');"> FLO </option>
+            <option value="https://stuadmin.flinders.edu.au/student/" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/StudentSystem-student');"> Student System (student login)</option>
+            <option value="https://stuadmin.flinders.edu.au/staff/" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/StudentSystem-staff');"> Student Two Web (staff login)</option>
+            <option value="https://i.flinders.edu.au" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/iFlinders');"> iFlinders </option>
+            <option value="/campus/location/campus-map.cfm" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/CampusMap');"> Campus map </option>
+            <option value="/semester-dates.cfm" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/SemesterDates');"> Semester dates </option>
+            <option value="http://livemail.flinders.edu.au" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/Email');"> Email </option>
+            <option value="/about-flinders-university/org-struct/facs-and-schools/" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/Faculties');"> Faculties </option>
+            <option value="/about-flinders-university/org-struct/admindivs/" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/AdminDivs');"> Administrative divisions</option>
+            <option value="http://www.flinders.edu.au/hrsps/WSS/home.html" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/ESS');"> Employee self service </option>
+            <option value="http://www.flinders.edu.au/enrolling" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/Enrolment');"> Enrolment </option>
+            <option value="/campus/location/parking.cfm" onclick="javascript: pageTracker._trackPageview('flinders-quicklink/flinders-quicklink/Parking');"> Parking </option>
+</select>
           <input class="btn" type="button" name="Go" value="Go" onclick="return jumpToQuickLink();">
         </div>
       </form>
@@ -117,12 +131,9 @@
         <input type="hidden" name="site" value="default_collection">
         </div>
       </form>
-      <!-- Advanced Search -->
-      <span class="qNtext advancedSearch">
-        <a href="http://websearch.cc.flinders.edu.au/search?entqr=0&amp;access=p&amp;entsp=a&amp;output=xml_no_dtd&amp;sort=date%3AD%3AL%3Ad1&amp;ie=UTF-8&amp;client=default_frontend&amp;Go2=Go&amp;ud=1&amp;site=default_collection&amp;oe=UTF-8&amp;proxystylesheet=default_frontend&amp;proxycustom=%3CADVANCED/%3E"> Advanced search </a>      </span>
     </div> <!-- quickNav -->
     <div class="breadcrumbs">
-  <div class="crumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><ul><span typeof="v:Breadcrumb"><a href="/" title="Flinders University" rel="v:url" property="v:title">Flinders University</a></span> </ul></div>
+  <div class="crumbs" xmlns:v="http://rdf.data-vocabulary.org/#"><span typeof="v:Breadcrumb"><a href="/" title="Flinders University" rel="v:url" property="v:title">Flinders University</a></span> </div>
   </div>
   </div>
   <!-- END HEADER -->
@@ -168,18 +179,6 @@
 <!-- googleon: all-->
 </div> <!-- pagewrapper -->
 <!-- final processing -->
-<!-- googleanalytics.cfm -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-1532832-2']);
-  _gaq.push(['_setDomainName', 'flinders.edu.au']);
-  _gaq.push(['_trackPageview']);
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
 <!-- YUI JS -->
 <script type="text/javascript" src="/flinders/app_templates/flinderstemplates/yui/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
 <script type="text/javascript" src="/flinders/app_templates/flinderspagelets/content/jslib-yui.js"></script>
