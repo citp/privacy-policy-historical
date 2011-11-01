@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google.co.nz privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231195309id_/http%3A//www.google.co.nz/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google.co.nz privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151309id_/http%3A//www.google.co.nz/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Google Privacy Center
 
