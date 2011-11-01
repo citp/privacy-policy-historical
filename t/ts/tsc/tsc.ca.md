@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201072623id_/http%3A//www.theshoppingchannel.com/category/customer%2Bservice/shopping%2Bwith%2Bus%2Bis%2B100-%2Bsecure/security%2B%2526%2Bprivacy%2Bpolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsc.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120810id_/http%3A//www.theshoppingchannel.com/go/PrivacyPolicy) for the most accurate reproduction.*
 
-# Security & Privacy Policy - Shopping With Us is 100% Secure - Customer Service - The Shopping Channel
+# Minimum 4 Easy Pay on ALL items!
 
-The Shopping Channel is a proud member of the Rogers Group of Companies. The Rogers Group of Companies have one single policy regarding the privacy of your information. Please see our Privacy Policy below. If you have any questions regarding our Rogers Privacy Policy as it relates to The Shopping Channel, please contact Graham Kingma at 905-362-7897.
+The Shopping Channel is a proud member of the Rogers Group of Companies. The Rogers Group of Companies have one single policy regarding the privacy of your information. 
 
 1\. This policy applies to Rogers Communications, Rogers Cable, Rogers Wireless and Rogers Media which are referred to here collectively as Rogers. At Rogers, the security and integrity of our customers' personal information is important to us. We take every reasonable measure necessary to protect the privacy of our customers while providing the high level communication services they expect. 
 
 2\. Rogers' privacy practices are in accordance with all federal and provincial laws and regulations. We are compliant with the Personal Information Protection and Electronic Documents Act (PIPEDA) and where applicable with the privacy rules established by the Canadian Radio-television and Telecommunications Commission (CRTC). 
 
-3\. Rogers has in place privacy and security practices to safeguard our customers’ personal information. These practices are reviewed, and if necessary revised, on a regular basis. Additionally, Rogers’ employees receive privacy training and must comply with Rogers’ privacy practices as a condition of employment. 
+3\. Rogers has in place privacy and security practices to safeguard our customers' personal information. These practices are reviewed, and if necessary revised, on a regular basis. Additionally, Rogers' employees receive privacy training and must comply with Rogers' privacy practices as a condition of employment. 
 
 4\. Personal information collected by Rogers is information about an identifiable individual that may include such information as your name, e-mail address, mailing address, phone number, financial information, birth date and any recorded complaints. 
 
@@ -37,7 +37,7 @@ Rogers Group of Companies
 33 Bloor Street East  
 Toronto, ON  
 M4W 1G9  
-By E-mail: privacy@rci.rogers.com
+By E-mail: privacy@rci.rogers.com 
 
 12\. Customers that wish to: 
 
@@ -48,7 +48,7 @@ By E-mail: privacy@rci.rogers.com
 
 may contact a Rogers customer service representative who, if necessary, will refer the customer to the Rogers Privacy Officer. 
 
-13\. The Office of the Privacy Commissioner of Canada oversees Rogers’ personal information handling practices. If your privacy concerns are not addressed to your satisfaction by Rogers you may contact the Office of the Privacy Commissioner of Canada for further guidance:
+13\. The Office of the Privacy Commissioner of Canada oversees Rogers' personal information handling practices. If your privacy concerns are not addressed to your satisfaction by Rogers you may contact the Office of the Privacy Commissioner of Canada for further guidance: 
 
 By Phone: 1-800-282-1376 or 613-995-8210  
 By Fax: 613-947-6850   
@@ -57,15 +57,15 @@ Website: [www.privcom.gc.ca ](http://www.privcom.gc.ca/)
 
 **How to Contact Rogers**
 
- **Customers of Rogers Cable and Rogers Wireless**  
-Customers can have their account marked "Do Not Contact" by visiting Rogers On-line Self Service at [www.rogers.com](http://www.rogers.com/) and selecting “Manage My Marketing Permissions” under “Your On-line Profile” or [click here to opt-out](https://www.shoprogers.com/newsletter/opt_out.asp). Alternatively, you can contact a Rogers’ customer service representative at 1-888-899-1188.
+**Customers of Rogers Cable and Rogers Wireless**  
+Customers can have their account marked "Do Not Contact" by visiting Rogers On-line Self Service at [www.rogers.com](http://www.rogers.com/) and selecting "Manage My Marketing Permissions" under "Your On-line Profile" or [click here to opt-out](https://www.shoprogers.com/newsletter/opt_out.asp). Alternatively, you can contact a Rogers' customer service representative at 1-888-899-1188. 
 
- **Subscribers to Rogers Media consumer magazines**  
+**Subscribers to Rogers Media consumer magazines**  
 Notices about "Subscriber Services" that appear in each consumer magazine explain how to change your "Mail Preference" for receiving mailings from other organizations. To have your mailing address excluded from mailings by other organizations, provide your subscriber information in one of the following ways: 
 
-**By E-mail:** [rmpublishing@indas.ca](mailto:rmpublishing@indas.ca)
+**By E-mail:** [rmpublishing@indas.ca ](mailto:rmpublishing@indas.ca)
 
- **By Mail:** Privacy Request   
+**By Mail:** Privacy Request   
 Magazine Subscriber Services   
 Box 860   
 Markham , ON   
@@ -73,5 +73,5 @@ L3P 8H8
 **By Phone:** ((905) 946-0084   
 **By Fax:** (905) 946-1679 
 
-**Registered users of Rogers Media web sites and e-mail newsletters**  
-You can update your "Marketing Permissions" by establishing a user profile. From the web site, click on "Register" to establish a profile or on "Login" to update your permissions. 
+**Registered users of Rogers Media web sites and e-mail newsletters**   
+You can update your "Marketing Permissions" by establishing a user profile. From the web site, click on "Register" to establish a profile or on "Login" to update your permissions.
