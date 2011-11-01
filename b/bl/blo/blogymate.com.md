@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogymate.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621040338id_/http%3A//www.blogymate.com/page.aspx%3FHTMLID%3D3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogymate.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101201126id_/http%3A//www.blogymate.com/page.aspx%3FHTMLID%3D3%26t%3DPrivacy) for the most accurate reproduction.*
 
 # Privacy : BlogyMate.com
 
