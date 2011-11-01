@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215054242id_/http%3A//www.e-mealz.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125731id_/http%3A//www.e-mealz.com/privacy-policy) for the most accurate reproduction.*
 
-# E-mealz - a meal planning resource for busy moms and frugal family cooks.
+# Privacy Policy Statement | E-mealz - a meal planning resource for busy moms and frugal family cooks.
 
 This is the website of E-mealz, Inc.
 
 ## Our Commitment To Privacy
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ## Information We Collect
 
 When requesting pages from our server, your computer automatically provides your Internet Protocol address (this is not your email address and cannot be used directly to contact you), information about the request, and certain information about the capabilities of your computer. We may log this automatically provided information and retain it to generate reports on website traffic and user profiles, to help diagnose errors, and to identify abuse of our systems.
 
-We also collect and store information that you explicitly provide to us through forms on our website. For example, when you purchase our products and create a website membership, we collect various personal and payment information. 
+We also collect and store information that you explicitly provide to us through forms on our website. For example, when you purchase our products and create a website membership, we collect various personal and payment information.
 
 ## How We Use Information
 
@@ -20,11 +20,11 @@ We use your personal and payment information to charge you for the services you 
 
 ### Use of Email Addresses
 
-When you create an account you will receive a one-time email message with your account information. We will also send you receipts for payments via email. We may contact you by email from time to time to notify you of updates to the services or other related matters which may be of interest to you. If we do, we will provide a clear method to opt-out of future messages which are not account or payment related. Otherwise, you will receive email from us only in response to a message or request from you. 
+When you create an account you will receive a one-time email message with your account information. We will also send you receipts for payments via email. We may contact you by email from time to time to notify you of updates to the services or other related matters which may be of interest to you. If we do, we will provide a clear method to opt-out of future messages which are not account or payment related. Otherwise, you will receive email from us only in response to a message or request from you.
 
 ### Use of Cookies
 
-Our website software uses cookies to maintain your session information. It may be necessary to accept cookies from our website in order to access our services. 
+Our website software uses cookies to maintain your session information. It may be necessary to accept cookies from our website in order to access our services.
 
 ### Sharing Information We Collect
 
