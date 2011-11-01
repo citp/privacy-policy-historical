@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the proximus.be privacy policy that was archived on 2010-07-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100721122833id_/http%3A//customer.proximus.be/en/Legal/LGL_Privacy_Policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the proximus.be privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101154933id_/http%3A//customer.proximus.be/en/Legal/LGL_Privacy_Policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
       <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -134,12 +134,48 @@
       <!-- SNIPPET snPSE -->
       
       
-      <!-- tracker -->
-      <script type="text/javascript" src="../content/PAW/customer/Site/miscellaneous/tracker"></script><script type="text/javascript" src="https://datacollector.proximus.be/dcscx5ldvnuof0jxf7nx4xs4f_5j3v/wtid.js"></script><script type="text/javascript" src="https://datacollector.proximus.be/wttracker.js"></script>
+      <!-- tracker Static-->
+      <script type="text/javascript" src="../content/PAW/customer/Site/miscellaneous/tracker"></script>
       
       
-      <!-- business -->
+      <!-- tracker Application mapping-->
+      
+      <!--script type="text/javascript"-->
+      
+      <!--
+	var NTPT_PGEXTRA = (typeof(NTPT_PGEXTRA)=='undefined') ? '' : NTPT_PGEXTRA;
+	function tag(parameters){
+		var NTPT_PGEXTRA = (typeof(NTPT_PGEXTRA)=='undefined') ? '' : NTPT_PGEXTRA;
+		try{
+			var parray = [];
+				if(!parameters || parameters==''){
+		      		return(false);
+				}
+			var bparms = parameters.split(':');
+			var lang = bparms[1] || 'NA';
+			var site = bparms[3] || 'PX';
+			site = site.toUpperCase();
+			var ucn= bparms[bparms.length-2] || 'NA';
+			var pn = ucn;
+			parray.push('lang='+lang);
+			parray.push('ucn='+ucn);
+			parray.push('pn='+ pn);
+			parray.push('site='+ site);
+			NTPT_PGEXTRA = NTPT_PGEXTRA+parray.join('&');
+		}catch(e){}
+	}
+-->
+      
+      <!--/script-->
+      
+      
+      <!-- tracker Common to Application & Static pages -->
       <script type="text/javascript">tag("PAW:en:customer:Legal:::LGL_Privacy_Policy:false")</script>
+      
+      
+      <!-- tracker Application cookies-->
+      
+      <!--script type="text/javascript" src="../../scripts/tracker_app.js"/-->
       	
       
       <!-- login (see login button in snPUB) -->
@@ -177,12 +213,11 @@
 </script>
       
       
-      <!-- SNIPPET snPUB >
-	<script type="text/javascript" src="../../scripts/swfobject.js"></script-->
+      <!-- SNIPPET snPUB -->
+      	<script type="text/javascript" src="../../scripts/swfobject.js"></script>
       	
       <!-- Google -->
-      	<script type="text/javascript" src="../img/cus/Google_search/Google.js">
-	</script>
+      	<script type="text/javascript" src="../img/cus/Google_search/Google.js"></script>
       
       	<script type="text/javascript">
         
@@ -217,14 +252,13 @@
       
       <!-- END MOUSEOVER -->
       
-      <!-- Start Mouseover tooltips 
-    <script type="text/javascript" src="../../scripts/libraryTooltip.js"></script>
-    <script type="text/javascript" src="../../scripts/tooltip.js"></script>
-    End Mouseover tooltips -->
+      <!-- Start Mouseover tooltips -->
+      <script type="text/javascript" src="../../scripts/libraryTooltip.js"></script>
+      <script type="text/javascript" src="../../scripts/tooltip.js"></script>
       
+      <!-- End Mouseover tooltips -->
       <meta name="keywords" value="keyword1 keyword2">
       <meta name="keywords" value="Keyword3 keywordX4">
-      <link href="../../css3ldr/paw40/page-juva.css" rel="stylesheet" type="text/css">
       <meta name="Description" content="Belgacom SA is concerned about respecting privacy when you visit our website and aware of the importance attached to this.">
    </head>
    <body class="contentLayout" onload="return window_onload()">
@@ -251,11 +285,6 @@
                            
                         </li>
                         
-                        <li>
-                           <a href="http://www.belgacomtv.be/index.jsp#request=home">Belgacom TV</a>
-                           
-                        </li>
-                        
                         <li class="Last">
                            <a href="http://www.skynet.be/">Skynet</a>
                            
@@ -270,8 +299,8 @@
                   
                   
                   <div class="snGeneralNavigation">
-                     	<a href="../Introduction/Sup_Contact.html?WT.ac=CBU_Topbar_Contact_en_click" title="" class="tpContact">Contact</a>
-                     	<a href="../Sitemap/index.html?WT.ac=CBU_Topbar_Sitemap_en_click" title="" class="tpSitemap">Sitemap</a>
+                     	<a href="http://support.en.proximus.be/app/contact_phone" title="" class="tpContact">Contact</a>
+                     	<a href="../Sitemap/index.html" title="" class="tpSitemap">Sitemap</a>
                      	
                      <ul>
                         		
@@ -301,7 +330,7 @@
                   <h1><a href="http://customer.proximus.be/en/">Proximus</a> Private
                   </h1>
                   <a href="http://www.proximus.be/" title="" id="lyLogoProximus">
-                     <img alt="Proximus - homepage" src="../../img3ldr/paw30/logos/proximus.png">
+                     <img alt="Proximus - homepage" src="../../img3ldr/paw40/pgf/pageHeaderLogoProximusEN.png">
                      </a>
                   
                </div>
@@ -376,7 +405,7 @@
                            												
                            										<a href="../Introduction/Mobile.html" class="syTopcategoryLink Off"><span class="contents">Telephony</span></a><div class="syTlcChildren">
                               														
-                              												<a class="syTlcChild" href="../ShakerPrice/index.html"><span class="contents">Find your price plan</span></a><a class="syTlcChild" href="../Introduction/Postpaid.html"><span class="contents">Subscriptions</span></a><a class="syTlcChild" href="../Introduction/Prepaid.html"><span class="contents">Reload cards</span></a><a class="syTlcChild" href="../Introduction/Options.html"><span class="contents">Options</span></a></div>
+                              												<a class="syTlcChild" href="../ShakerPrice/index.html"><span class="contents">Find your price plan</span></a><a class="syTlcChild" href="../Introduction/Postpaid.html"><span class="contents">Subscriptions</span></a><a class="syTlcChild" href="../Introduction/Prepaid.html"><span class="contents">Reload cards</span></a><a class="syTlcChild" href="../Introduction/Roaming.html"><span class="contents">International offer</span></a><a class="syTlcChild" href="../Introduction/Options.html"><span class="contents">Services and options</span></a></div>
                         </td>
                         <td class="syTopcatNode">
                            												
@@ -385,7 +414,7 @@
                            												
                            										<a href="../Introduction/Internet.html" class="syTopcategoryLink Off"><span class="contents">Internet</span></a><div class="syTlcChildren">
                               														
-                              												<a class="syTlcChild" href="../Surf_Laptop/index.html"><span class="contents">Internet on laptop</span></a><a class="syTlcChild" href="../Surf_Mobile/index.html"><span class="contents">Internet on mobile phone</span></a><a class="syTlcChild" href="../Mobile_Internet_Abroad/index.html"><span class="contents">Internet rates abroad</span></a></div>
+                              												<a class="syTlcChild" href="../ShakerPrice_Internet/index.html"><span class="contents">Find your price plan</span></a><a class="syTlcChild" href="../Surf_Mobile/index.html"><span class="contents">Internet on mobile phone</span></a><a class="syTlcChild" href="../Surf_Laptop/index.html"><span class="contents">Internet on laptop</span></a><a class="syTlcChild" href="../Surf_Tablet/index.html"><span class="contents">Internet on tablet PC</span></a><a class="syTlcChild" href="../Surf_Ipad/index.html"><span class="contents">Internet on iPad</span></a><a class="syTlcChild" href="../Introduction/Mobile_Internet_Abroad.html"><span class="contents">Internet rates abroad</span></a></div>
                         </td>
                         <td class="syTopcatNode">
                            												
@@ -394,35 +423,29 @@
                            												
                            										<a href="../Introduction/Devices.html" class="syTopcategoryLink Off"><span class="contents">Mobiles and PCs</span></a><div class="syTlcChildren">
                               														
-                              												<a class="syTlcChild" href="../Gsm_V3/index.html"><span class="contents">Mobile phone catalogue</span></a><a class="syTlcChild" href="../Computers/index.html"><span class="contents">Buy a netbook</span></a><a class="syTlcChild" href="../Device_Of_The_Month/index.html"><span class="contents">High-tech mobile phone of the month</span></a></div>
+                              												<a class="syTlcChild" href="../Gsm_V3/index.html"><span class="contents">Mobile phone catalogue</span></a><a class="syTlcChild" href="../Device_Of_The_Month/index.html"><span class="contents">Smartphone of the month</span></a><a class="syTlcChild" href="../Tablet/index.html"><span class="contents">Tablet PC</span></a><a class="syTlcChild" href="../Wifi_Router/index.html"><span class="contents">Vodafone Mobile Wi-Fi R201 router</span></a></div>
                         </td>
                         <td class="syTopcatNode">
                            												
                            												
                            												
                            												
-                           										<a href="../Introduction/Promo.html" class="syTopcategoryLink Off"><span class="contents">Promotions</span></a><div class="syTlcChildren">
+                           										<a href="../Promotions/index.html" class="syTopcategoryLink Off"><span class="contents">Promotions</span></a></td>
+                        <td class="syTopcatNode">
+                           												
+                           												
+                           												
+                           												
+                           										<a href="../Introduction/Existing_Clients.html" class="syTopcategoryLink Off"><span class="contents">Customer zone</span></a><div class="syTlcChildren">
                               														
-                              												<a class="syTlcChild" href="../Promotions/index.html"><span class="contents">Promotions</span></a><a class="syTlcChild" href="../Introduction/Advantages.html"><span class="contents">Advantages</span></a></div>
+                              												<a class="syTlcChild" href="../Introduction/Advantages.html"><span class="contents">My loyalty advantages</span></a><a class="syTlcChild" href="../Introduction/E_Services.html"><span class="contents">My e-Services</span></a><a class="syTlcChild" href='javascript:window.open("http://fr.community.belgacom.be/pages/home?lang=fr_FR",""); void (0);'><span class="contents">My Belgacom Community</span></a></div>
                         </td>
                         <td class="syTopcatNode">
                            												
                            												
                            												
                            												
-                           										<a href="../Introduction/E_Services.html" class="syTopcategoryLink Off"><span class="contents">e-Services</span></a><div class="syTlcChildren">
-                              														
-                              												<a class="syTlcChild" href="../Online_Services/index.html"><span class="contents">Access to e-Services</span></a><a class="syTlcChild" href="../My_Proximus/index.html"><span class="contents">MyProximus/ MyPay&amp;Go</span></a><a class="syTlcChild" href="../Sms/index.html"><span class="contents">Send an SMS online</span></a><a class="syTlcChild" href="../My_Credit_My_Reload/index.html"><span class="contents">Reload online</span></a><a class="syTlcChild" href="../Phone_Backup/index.html"><span class="contents">Save your mobile phone data</span></a><a class="syTlcChild" href="../Your_Coordinates/index.html"><span class="contents">Update your address</span></a></div>
-                        </td>
-                        <td class="syTopcatNode">
-                           												
-                           												
-                           												
-                           												
-                           										<a href="../Introduction/Support.html" class="syTopcategoryLink Off"><span class="contents">Help</span></a><div class="syTlcChildren">
-                              														
-                              												<a class="syTlcChild" href="../Sup_Faq/index.html"><span class="contents">FAQs</span></a><a class="syTlcChild" href="../Introduction/Sup_Contact.html"><span class="contents">Contact us</span></a><a class="syTlcChild" href="../Sup_Network_And_Coverage/index.html"><span class="contents">Network coverage</span></a><a class="syTlcChild" href="../Sup_My_Bill/index.html"><span class="contents">Your invoice</span></a><a class="syTlcChild" href="../Introduction/Sup_Mobile.html"><span class="contents">Telephony</span></a><a class="syTlcChild" href="../Introduction/Sup_Internet.html"><span class="contents">Internet</span></a><a class="syTlcChild" href="../Introduction/Sup_Device_Sim.html"><span class="contents">Mobile phone and SIM card</span></a></div>
-                        </td>
+                           										<a href="http://support.en.proximus.be/app/home/index.html" class="syTopcategoryLink Off"><span class="contents">Help</span></a></td>
                      </tr>
                   </tbody></table>
                </div>
@@ -702,7 +725,7 @@
                      
                      
                      <h2 class="snBasketHeading" id="BB_BasketTitle">
-                        	<a href="../Sup_Eshop/index.html">Basket</a>
+                        	<a href="../Promotions/PMT_Eshop.html">My basket</a>
                         
                      </h2>
                      
@@ -812,13 +835,7 @@
                   
                   <div id="lyRelatedServices">
                      
-                     <div class="rxRelatedServices">
-                        				
-                        				
-                        		
-                        
-                        
-                     </div>
+                     <div id="rxRelatedServices"></div>
                      
                   </div>
                   
@@ -845,7 +862,7 @@
                </p>
                	
                <address>
-                  		All rights reserved, Proximus 2010. <a title="" href="http://customer.proximus.be/en/Legal/LGL_Legal_Warnings.html">Legal warnings</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Privacy_Policy.html">Privacy Policy</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Company_Data.html">Company Data</a> <br>
+                  		All rights reserved, Proximus 2011. <a title="" href="http://customer.proximus.be/en/Legal/LGL_Legal_Warnings.html">Legal warnings</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Privacy_Policy.html">Privacy Policy</a> | <a title="" href="http://customer.proximus.be/en/Legal/LGL_Company_Data.html">Company Data</a> <br>
                   		This site was created and is managed in accordance with Belgian law.<br>
                   		Boulevard du Roi Albert II, 27 - B-1030 Brussels.
                   	
