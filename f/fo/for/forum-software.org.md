@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forum-software.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524235248id_/http%3A//www.forum-software.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forum-software.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124628id_/http%3A//www.forum-software.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forum Software Reviews
 
@@ -60,6 +60,6 @@ Please be aware that Personal Information may be transferred to and maintained o
 
 ### 10\. Privacy Policy Changes.
 
-From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, in whole or in part, we will inform you by posting the revised Privacy Policy on the Forum Software Reviews Website. Those changes will go into effect on the Effective Date disclosed at the end of the revised Privacy Policy. Your continued use of the Forum Software Reviews Website constitutes your agreement to abide by the Privacy Policy as revised. If you object to any such revisions, your sole recourse shall be to stop using the Forum Software Reviews Website.
+From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, in whole or in part, we will inform you by posting the revised Privacy Policy on the Forum Software Reviews Website. Those changes will go into effect on the Effective Date disclost at the end of the revised Privacy Policy. Your continued use of the Forum Software Reviews Website constitutes your agreement to abide by the Privacy Policy as revised. If you object to any such revisions, your sole recourse shall be to stop using the Forum Software Reviews Website.
 
 **Effective Date: November 30, 2009**.
