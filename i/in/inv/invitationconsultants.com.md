@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102074303id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invitationconsultants.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121048id_/http%3A//www.invitationconsultants.com/cs-privacy.aspx) for the most accurate reproduction.*
 
 # Help Center at InvitationConsultants.com - Security & Privacy
 
@@ -12,11 +12,12 @@ The Payment Card Industry (PCI) Data Security Standard ("PCI Standard") is inten
 
 Click here to verify :  
 
-[](https://www.scanalert.com/RatingVerify?ref=www.invitationconsultants.com)
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.invitationconsultants.com)
 
 ## Privacy:
 
-_Last updated 2/9/2010:_
+  
+
 
 Invitation Consultants, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers www.invitationconsultants.com and www.graduation-announcements-store.com (collectively "the site"). 
 
@@ -151,3 +152,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 **Invitation Consultants, Inc.** | 12175 W. Linebaugh Avenue | Tampa, FL 33626 
 
 (back to top)
+
+ _rev 9/10_  
+
