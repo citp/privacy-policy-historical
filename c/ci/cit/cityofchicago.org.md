@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofchicago.org privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524103639id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofchicago.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121308id_/http%3A//www.cityofchicago.org/city/en/general/privacy.html) for the most accurate reproduction.*
 
 # City of Chicago :: Privacy Policy
 
