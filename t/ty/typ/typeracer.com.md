@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typeracer.com privacy policy that was archived on 2010-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100408080017id_/http%3A//www.typeracer.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typeracer.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122101id_/http%3A//www.typeracer.com/docs/privacy.html) for the most accurate reproduction.*
 
 # TypeRacer Privacy Policy
 
@@ -13,6 +13,8 @@ TypeRacer also collects potentially personally-identifying information like Inte
 ## Gathering of Personally-Identifying Information
 
 Certain visitors to TypeRacer's websites choose to interact with TypeRacer in ways that require TypeRacer to gather personally-identifying information. The amount and type of information that TypeRacer gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at TypeRacer.com to provide a username, email address, and a date of birth (as a security measure for password retrieval). In each case, TypeRacer collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with TypeRacer. TypeRacer does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to <http://www.privacychoice.org/choose>
 
 ## Aggregated Statistics
 
