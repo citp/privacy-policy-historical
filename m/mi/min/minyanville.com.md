@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218104420id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minyanville.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161823id_/http%3A//www.minyanville.com/company/privacy.htm) for the most accurate reproduction.*
 
 # 
 
