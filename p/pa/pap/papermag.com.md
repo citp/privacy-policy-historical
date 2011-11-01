@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the papermag.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629043739id_/http%3A//www.papermag.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papermag.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125413id_/http%3A//www.papermag.com/privacy-policy.php) for the most accurate reproduction.*
 
-# PAPERMAG: WORD UP! - Privacy Policy
+# PAPERMAG - Privacy Policy
 
 **PRIVACY POLICY**  
 Thank you for visiting the Paper Magazine site.  Your privacy is important to us.  To better protect your privacy, we would like you to know how we use the information you provide to us.  This notice explains what personal information is collected, how this information is used, and with whom we share such information.  Please take a few minutes to read our privacy policy so that you understand our online information practices and the choices you can make about the way your information is collected and used.
