@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betterplace.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225033158id_/http%3A//www.betterplace.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betterplace.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004543id_/http%3A//www.betterplace.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Better Place
 
@@ -48,4 +48,4 @@ If Better Place should ever file for bankruptcy or merge with another company, o
 
 Last Modified: March 19, 2009
 
-© 2010 Better Place. All Rights Reserved.
+© 2011 Better Place. All Rights Reserved.
