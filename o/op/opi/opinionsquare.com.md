@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205013456id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionsquare.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123542id_/http%3A//www.opinionsquare.com/privacy.aspx) for the most accurate reproduction.*
 
 # OpinionSquare – Take Surveys and Earn Cash and Prizes
 
@@ -20,7 +20,7 @@ About Our Trees for Knowledge Campaign
   
 
 
-The average American emits over 36,000 pounds of carbon dioxide into the atmosphere each year and too much carbon dioxide in the atmosphere is one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.
+Worldwide carbon dioxide emissions have more than doubled over the last 10 years, and too much carbon dioxide in the atmosphere may be one of the major causes of global warming. But planting trees can help reduce the effects of carbon dioxide. That’s why comScore has partnered with Trees for the Future to establish our Trees for Knowledge campaign. Since 1988, Trees for the Future has helped thousands of communities in Central America, Africa, and Asia improve their livelihoods and their environment by planting nearly 50 million trees. Working with Trees for the Future, we have donated millions of trees on behalf of members of our research community, so that we are not only improving the Internet, we’re improving the environment as well.
 
 PRIVACY POLICY & USER LICENSE AGREEMENT
 
@@ -39,6 +39,7 @@ In order to participate in this program, you must:
   * Be at least 18 years of age and capable of entering into a binding agreement;
   * Be the parent or legal guardian of anyone under 18 having access to such computer;
   * Own or control the computers that you allow to be configured to use this system;
+  * If your household subscribes to a TV service, be the TV service subscriber for your household, or be authorized to enter into this agreement on behalf of that TV service subscriber;
   * Not be employed or related to an individual employed by an unaffiliated market research company; and
   * Acknowledge and agree to allow the software to operate as described herein, including allowing the software to automatically upgrade provided that any such upgrades do not change the functionality of the software beyond what is described in this privacy policy and user license agreement.
 
@@ -56,6 +57,10 @@ Basic Demographic Information: When you sign up for this program, we may obtain 
 Survey response information: Once you agree to participate in this program, we may notify you of survey opportunities through e-mail, pop-ups, toast windows, U.S. mail, and other means. If you elect to participate in a survey, we require that you provide complete and accurate information about yourself and your household. The survey opportunities that we provide to you may be related to other information that we collect. For example, we may provide you with a survey asking you about the quality of your user experience at a particular website. 
 
 Computer hardware, software, and other configuration information: Our application may collect general hardware, software, computer configuration and application usage information about the computer on which you install our application, including such data as the speed of the computer processor, its memory capacities and Internet connection speed. In addition, our application may report on devices connected to your computer and your network, such as the type of printer or router you may be using. 
+
+TV and Mobility Data: Your TV Data includes items such as the channels and programs you watch and record, when the TV and set-top box are turned on and off, the on-demand programming you order, the interactive TV applications you use and other similar information. Your Mobility Data includes information about your use of your mobile device, such as the type and configuration of your mobile phone, the websites you visit on your device, the date and time of those visits and use, as well as other similar information.
+
+Your agreement to participate on this panel includes your agreement that we may collect your TV Data and Mobility Data directly from your TV and Mobility service providers and you expressly authorize those service providers to supply that information to us on your behalf. You also agree that we may integrate that information with the other data you provide us and that we obtain about you as part of this research community.
 
 Internet usage information: Once you install our application, it monitors all of the Internet behavior that occurs on the computer on which you install the application, including both your normal web browsing and the activity that you undertake during secure sessions, such as filling a shopping basket, completing an application form or checking your online accounts. Our application may also collect information regarding the cookies that exist on your computer. We may use the information that we monitor, such as name and address, for the purpose of better understanding your household demographics; however we make commercially viable efforts to automatically filter confidential personally identifiable information such as UserID, password, credit card numbers, and account numbers. Inadvertently, we may collect such information about our panelists; and when this happens, we make commercially viable efforts to purge our database of such information. 
 
@@ -119,7 +124,7 @@ What if I wish to stop participating in this program?
   
 
 
-Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20101205013456id_/http%3A//www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
+Resignation: You may resign at any time by contacting us at the support address listed below or by selecting the "[Terminate all OpinionSquare Services](https://web.archive.org/web/20111101123542id_/http%3A//www.opinionsquare.com/Remove.aspx?terminate_services=y)" link from the Members section on your panel’s web page (where applicable). 
 
 Removing our Application: You may remove our application using the Windows Add/Remove Programs function (known as "Programs and Features" in Vista and Windows 7). Alternatively, you may e-mail our support staff at the e-mail address provided below and request removal instructions. Please be sure to follow this same removal procedure on all of the computers from which you wish to remove this application. Removing the application will stop tracking of your online browsing and purchasing behavior, but unless you resign from all services in accordance with the procedure stated above, you still may be contacted for administrative purposes or for special participant opportunities. After you remove our application from a computer, all settings we have made to your computer will be deactivated. 
 
@@ -148,7 +153,7 @@ What are my obligations as a participant?
 As a participant, you agree to:
 
   * Allow this program to collect and use information obtained from you and related to you and your household's Internet use as described in this agreement;
-  * Make reasonable efforts to ensure that any other person who uses such computers is aware of and agrees to the terms of this agreement;
+  * Make reasonable efforts to ensure that any other person who uses such computers and uses the TV services available to your household is aware of and agrees to the terms of this agreement; 
   * Accept automatic changes to your system settings that are made solely to ensure compatibility between your computer system and this program, and periodic software upgrades;
   * Receive administrative e-mails, including e-mails sent to: (i) inform you about upgrades, or issues related to basic program/application functions or disruptions; (ii) provide notification about awards and special participant opportunities; (iii) request updated demographic information or information regarding usage of the application; and
   * Regularly visit and review the agreement posted on this website, so that you are aware of any changes made to this agreement.
@@ -189,7 +194,7 @@ THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE COMMONWEALTH OF VIRGINIA, WI
 
 While this program is available on the Internet to international users, the program is and remains a U.S. offering and all use of the information collected is and shall remain subject to U.S. law and practice. International users must take this into account and should consult their local laws and independently determine whether participation is desired given these facts.
 
-For personal information that TMRG receives from users in the European Economic Area, TMRG has committed to handling such personal information in accordance with the Safe Harbor Principles and the 15 FAQs. TMRG’s Safe Harbor certification can be found at <https://safeharbor.export.gov/list.aspx>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>. 
+TMRG, Inc., complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. TMRG, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view TMRG, Inc.’s certification, please visit <http://export.gov/safeharbor/>. 
 
 Fraud: Any attempt by a participant to undermine the legitimate operation of the panel is a violation of criminal and civil laws and should such an attempt be made, TMRG, Inc. reserves the right to seek damages from any such respondent to the fullest extent permitted by law. Multiple accounts are not permitted; participants are limited to signing up for a maximum of one account.
 
@@ -211,7 +216,7 @@ Third Party Products and Services: We neither endorse nor accept responsibility 
 
 ENTIRE AGREEMENT: This Agreement constitutes the entire agreement between sponsor and you with respect to the subject matter contained in the Agreement. 
 
-This Agreement is effective as of November 1st, 2010.
+This Agreement is effective as of October 13, 2011.
 
 Whom can I contact if I have additional questions?
 
@@ -229,7 +234,7 @@ Reston, VA 20190
 
 For any support issues, please contact: support@tmrginc.com.
 
-LP 1045
+LP 1142
 
 |   
 ---  
