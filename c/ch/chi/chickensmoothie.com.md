@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2010-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100324042308id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chickensmoothie.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225045id_/http%3A//www.chickensmoothie.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy - Chicken Smoothie
 
 This privacy policy describes the kinds of information we collect about users of our website, what uses that information is put to, who has access to the information, and how you can control the use of the information.
 
-This policy may be updated from time to time so please ensure that you check it regularly.
+This policy may be updated from time to time so please ensure that you check it regularly. The latest version of the permission slip is visible at [http://www.chickensmoothie.com/privacy.php](https://web.archive.org/privacy.php), or by clicking the "privacy policy" link in the footer of our website.
 
 ### What information do we collect?
 
@@ -31,7 +31,7 @@ _Account information_
   2. The email address that you nominate for your account.
   3. If you choose one, an avatar to represent your account.
   4. If you choose to provide it, a description of your interests and a signature to be displayed on your posts.
-  5. Logged login attempts.
+  5. Recorded login attempts.
 
 
 _Pets_
@@ -114,14 +114,14 @@ _Pets_
 
 Your pet collection is public.
 
-Your trading history is only visible to your account and to administrators. They are also visible to moderators if a person that you send a private message to makes a complaint about that specific message.
+Your trading history is only visible to your account and to administrators.
 
 _Forum_
     
 
 Posts and topics made on the forum are public.
 
-Private messages are only visible to your account, accounts that you send messages to, and to administrators.
+Private messages are visible to your account, accounts that you send messages to, and to administrators. They are also visible to moderators if a person that you send a private message to makes a complaint about that specific message.
 
 We may additionally disclose information (including personal information) to prevent against misuse of our website, to enforce our site rules, to protect or defend our rights and property or protect the safety and security of our visitors or others, or if we are legally required to do so by the appropriate authorities.
 
