@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckpartner.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123132601id_/http%3A//fuckpartner.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckpartner.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235608id_/http%3A//fuckpartner.com/privacy.do) for the most accurate reproduction.*
 
 # Adult Dating & Adult Personals - Swingers, Women, Men, Couples - FuckPartner.com
 
