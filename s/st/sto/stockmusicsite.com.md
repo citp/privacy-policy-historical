@@ -1,34 +1,32 @@
-> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107134423id_/http%3A//stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockmusicsite.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005855id_/http%3A//www.stockmusicsite.com/stockmusic/privacy/privacy_policy.cfm) for the most accurate reproduction.*
 
 # StockMusicSite.com Privacy Policy
 
-sound clips effects,  
-sonidos,  
-sound,  
-sound lighting,  
-mp3 audio,  
-wav byte,  
-xp wav files,  
-sonido para eventos,  
-office wav files,  
-fx,  
-uploading wav files,  
-kb sounds,  
-evil wav sounds,  
-www wav sounds,  
-sondage,  
-wav files work,  
-wav office space,  
-aiff files,  
-audio sound effects,  
-wave files 
+wav sound bites,  
+audio wav files,  
+downloadable wav sound effects,  
+sound effects movies,  
+d eagle shot wav,  
+dj name sound,  
+suspense sound effects wav,  
+does movie maker have sound effects,  
+free animal sound clips,  
+owl sounds for download,  
+money sound effect,  
+dog noises,  
+sound effects bank,  
+intro sound effects free,  
+sound effects dog wood,  
+explosion sound effect,  
+listen to free wind chime sounds,  
+sound effects theatre,  
+mp3s download,  
+sound design 
 
-| 
+|  [Home](http://www.stockmusicsite.com/) |  [Client Testimonials](http://www.stockmusicsite.com/stockmusic/testimony/default.cfm) | [Artist Testimonials](http://www.stockmusicsite.com/stockmusic/testimony/artists.cfm) | [Recent Licensing Deals](http://www.stockmusicsite.com/stockmusic/testimony/licensings.cfm) | [All Music Genres](http://www.stockmusicsite.com/stockmusic/links/production-music.cfm) | [Dramatic Music Genres](http://www.stockmusicsite.com/stockmusic/links/dramatic-music.cfm) | [World Music Genres](http://www.stockmusicsite.com/stockmusic/links/world-music.cfm) | [Kids Music Genres](http://www.stockmusicsite.com/stockmusic/links/kids-music.cfm) | [MusicPack Collections](http://www.stockmusicsite.com/stockmusic/packs/list.cfm/project_iid.2) | [Music Editor's Picks](http://www.stockmusicsite.com/stockmusic/best_music/default.cfm) | [Production Music Albums](http://www.stockmusicsite.com/stockmusic/albums/list.cfm) | [Background Music Service](http://www.stockmusicsite.com/stockmusic/radiosparx) | [Dramatic Music](http://www.stockmusicsite.com/stockmusic/dramatic "Dramatic Masters Music Library") | [Halloween, Horror, Scary and Sci Fi Music](http://www.stockmusicsite.com/stockmusic/horror "Halloween Music, Horror Music and Scary Music") | [Christmas and Holiday Music](http://www.stockmusicsite.com/stockmusic/Christmas) | [Kids Music](http://www.stockmusicsite.com/stockmusic/kids) | [African Music](http://www.stockmusicsite.com/stockmusic/africa) | [Music in Arabic](http://www.stockmusicsite.com/stockmusic/middleeast) | [Commercial, News and Corporate Music](http://www.stockmusicsite.com/stockmusic/links/commercial-music.cfm) | [Film and TV Music](http://www.stockmusicsite.com/stockmusic/television_music/music_for_tv.cfm "Music for Film") | [Radio Music and Sound Effects](http://www.stockmusicsite.com/stockmusic/radio "radio music for production") | [Games and Software Music](http://www.stockmusicsite.com/stockmusic/games_music/game_music.cfm "Game Music") | [Romantic, Love and Wedding Music](http://www.stockmusicsite.com/stockmusic/love_songs) | [Vocal Music Library](http://www.stockmusicsite.com/stockmusic/vocals) | [Top 100 Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-vocal-tracks.cfm) | [Top 100 Indie Rock Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-indie-vocal-tracks.cfm) | [Top 100 Pop Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-pop-vocal-tracks.cfm) | [Top 100 R&B Vocal Track](http://www.stockmusicsite.com/stockmusic/vocals/top-100-rnb-vocal-tracks.cfm) | [Top 100 Rock Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-rock-vocal-tracks.cfm) | [Top 100 Jazz Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-jazz-vocal-tracks.cfm) | [Top 100 Classical Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-classical-vocal-tracks.cfm) | [Top 100 World Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-world-vocal-tracks.cfm) | [Top 100 Country Vocal Tracks](http://www.stockmusicsite.com/stockmusic/vocals/top-100-country-vocal-tracks.cfm) | [Browse Music by Production Style](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.style) | [Browse Music by Mood](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.mood) | [Browse Music by Instrument](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.instrument) | [Browse Music by Lyrical Topic](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.subject) | [Browse Music by Country](http://www.stockmusicsite.com/stockmusic/display/displayby.cfm/target.region) | [Browse Music by Playlist](http://www.stockmusicsite.com/stockmusic/playlists/default.cfm) | [Browse Music by Playlist](http://www.stockmusicsite.com/stockmusic/playlists/default.cfm) | [Sound Effect Genres](http://www.stockmusicsite.com/stockmusic/links/sound-effects.cfm) | [SoundPack Collections](http://www.stockmusicsite.com/stockmusic/packs/list.cfm/project_iid.1) | [Scary Sound Effects](http://www.stockmusicsite.com/stockmusic/horror) | [Christmas and Holiday SFX](http://www.stockmusicsite.com/stockmusic/Christmas) | [Beats & Loops Genres](http://www.stockmusicsite.com/stockmusic/links/beats.cfm) | [ComposerPack Collections](http://www.stockmusicsite.com/stockmusic/packs/list.cfm/project_iid.3) | [Artist Directory](http://www.stockmusicsite.com/stockmusic/artist/list.cfm) | [Hollywood A-List](http://www.stockmusicsite.com/stockmusic/artist/hollywood-a-list.cfm) | [Hot New Artists](http://www.stockmusicsite.com/stockmusic/artist/hotnew.cfm) | [Classical Masters Library](http://www.stockmusicsite.com/stockmusic/classical_masters/default.cfm) | [Orchestras and Ensembles](http://www.stockmusicsite.com/stockmusic/classical_masters/orchestras-and-ensembles.cfm) | [Stock Music Site Company Info](http://www.stockmusicsite.com/stockmusic/about.cfm)
 
 |   
 ---  
-  
-  
   
 **Privacy Policy of StockMusicSite.com  
 **   
@@ -92,7 +90,7 @@ We know that you care how your information is used, and we appreciate your trust
 
 ** 7.  Contact Us**
 
-> If you ever need assistance with the features, products or services offered on this web site, please contact us at [ info@audiosparx.com](mailto:info@audiosparx.com) and we will be happy to assist you. 
+> If you ever need assistance with the features, products or services offered on this web site, please contact us at [ info@stockmusicsite.com](mailto:info@stockmusicsite.com) and we will be happy to assist you. 
 
 ** 8.  Reserved Rights**
 
@@ -105,23 +103,26 @@ We know that you care how your information is used, and we appreciate your trust
   
   
   
+  
+[ ](http://www.stockmusicsite.com/)
+
+aiff sounds,  
+download a lot of sound effects,  
+audiowarez,  
+planet exploding sound effect,  
+splash sound effect,  
+swoosh sound effects to download,  
+free fx house on fire sound files,  
+sounds of a ticking clock to download,  
+free window live messenger sounds,  
+family feud game show sound effects,  
+free mobile sound effects,  
+cat sound effects,  
+rocket sound effect free,  
+bagpipe music sound files,  
+sound effects wind blowing,  
+wookey sound effects,  
+free chicken wav sound effects,  
 sound effects wav files,  
-wav,  
-sound effects,  
-small wav files,  
-mp3s download,  
-infografia multimedia 3d,  
-fx,  
-surround sound effects,  
-sondrio,  
-wav sound bytes,  
-son,  
-audiovisuales,  
-high pitched noises,  
-sfx mask,  
-the movie sounds,  
-with wav files,  
-sounds in wav format,  
-sound effects mp3,  
-movie background sounds,  
-noise effects 
+get sound effects,  
+game sound effects 
