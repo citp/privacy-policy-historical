@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commence.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501044958id_/http%3A//www.commence.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commence.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004943id_/http%3A//www.commence.com/privacy.aspx) for the most accurate reproduction.*
 
 # Our Privacy Statement : Web Based CRM : Commence.com
 
