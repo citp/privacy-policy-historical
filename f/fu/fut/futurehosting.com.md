@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the futurehosting.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225044028id_/http%3A//www.futurehosting.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the futurehosting.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163803id_/http%3A//www.futurehosting.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Agreement (“PA”) | Future Hosting
 
-Future Hosting considers user privacy paramount, and Future Hosting utilizes great care in keeping Customer’s information private and secure. This Privacy Policy (“PA”) governs how Future Hosting will collect and use your information.
+Future Hosting considers user privacy paramount, and Future Hosting utilizes great care in keeping the information of the customer and/or user (“Customer”) private and secure. Additionally, Future Hosting adheres to the Safe Harbor Principles as agreed to and set forth by the United States Department of Commerce and the European Union (“EU”), http://export.gov/safeharbor/. To demonstrate our firm commitment to privacy, the following agreement has been created to explain our policies and procedures in relation to all data collected.
 
 **Types of Data Collected**  
 Future Hosting collects data related to our users through the following methods:  
