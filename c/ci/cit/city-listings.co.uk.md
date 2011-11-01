@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the city-listings.co.uk privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516094412id_/http%3A//www.city-listings.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the city-listings.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145517id_/http%3A//www.city-listings.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy policy for City-Listings.co.uk - Free UK Business Directory
 
