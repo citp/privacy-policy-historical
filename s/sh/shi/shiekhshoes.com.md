@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507082643id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shiekhshoes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154820id_/http%3A//www.shiekhshoes.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
