@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the sharedreviews.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223033539id_/http%3A//sharedreviews.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharedreviews.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162657id_/http%3A//sharedreviews.com/privacy) for the most accurate reproduction.*
 
 # SharedReviews Privacy Policy
+
+  * [Terms of Service](http://sharedreviews.com/terms "SharedReviews Terms of Service")
+  *   * Privacy Policy
+
+  *   * [Attribution](http://sharedreviews.com/attribution "Licensing and Attribution Requirements")
+
+
 
 Sharedreviews Inc. ("Sharedreviews", "us" or "we") recognizes that its customers, visitors, users, and others ("Users") who use this site (the " Site") value their privacy. This policy details important information regarding the use and disclosure of Personal Information collected on the Site. Sharedreviews provides this policy to help you make an informed decision about whether to use or continue using the Site. For the purposes of this policy, "Personal Information" means any information about you except your business title, address, e-mail address, telephone number or facsimile number. It also does not include your home address and telephone number if these are published in a telephone or other directory, and does not include any Review, content or other materials that you post or submit to use for possible publication. Capitalized terms not otherwise defined herein have the meaning set forth in the terms of use. 
 
@@ -37,7 +44,7 @@ We retain your Personal Information only as long as we require it to provide you
 
 5\. Your Choices.
 
-Most of the Personal Information which we collect, use and disclose is necessary for the purposes described above. If you do not want us to use or disclose your personal information in a particular way, please contact the Chief Operating Officer as described above and we will be pleased to discuss with you how we can limit collection, use or disclosure of your personal information. Note, however, that any limitation may impact on your ability to use the Site, the Services and may impact on your ability to Participate. You have a right to access the Personal Information which we have about you and to request that personal information which you believe to be inaccurate be corrected. If you wish to access your Personal Information, or you have questions or concerns about this policy or about the collection, use and disclosure of your Personal Information, you should contact the Chief Operating Officer. 
+Most of the Personal Information which we collect, use and disclose is necessary for the purposes described above. If you do not want us to use or disclose your personal information in a particular way, please contact the Chief Executive Officer as described above and we will be pleased to discuss with you how we can limit collection, use or disclosure of your personal information. Note, however, that any limitation may impact on your ability to use the Site, the Services and may impact on your ability to Participate. You have a right to access the Personal Information which we have about you and to request that personal information which you believe to be inaccurate be corrected. If you wish to access your Personal Information, or you have questions or concerns about this policy or about the collection, use and disclosure of your Personal Information, you should contact the Chief Executive Officer. 
 
   
 
@@ -46,7 +53,7 @@ Most of the Personal Information which we collect, use and disclose is necessary
 
 This policy may be revised periodically. Any such changes will be posted to the Site and will be effective as of the date noted in the policy. Your continued use of the Site constitutes your agreement to any future revisions. For revisions to this policy that may be materially less restrictive on our collection, use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information. 
 
-Version 1.00. Last Updated: May 14, 2007
+**Version 1.00. Last Updated: May 14, 2007**
 
   
 
