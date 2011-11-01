@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favoritecartoons.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630142345id_/http%3A//favoritecartoons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favoritecartoons.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000211id_/http%3A//favoritecartoons.com/privacy-policy) for the most accurate reproduction.*
 
 # Best cartoons, popular caroons, disney cartoons, new cartoons every day at Favoritecartoons.com
 
@@ -30,3 +30,6 @@ The Favoritecartoons privacy policy describes how Favoritecartoons treats person
 
 
 Last updated: May 18th, 2010.
+
+  
+
