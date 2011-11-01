@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylocalservices.us privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230001710id_/http%3A//www.mylocalservices.us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylocalservices.us privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002342id_/http%3A//www.mylocalservices.us/privacy.php) for the most accurate reproduction.*
 
 # My Local Services - Privacy Policy
 
