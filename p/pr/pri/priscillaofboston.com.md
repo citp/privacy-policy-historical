@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the priscillaofboston.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420044314id_/http%3A//www.priscillaofboston.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priscillaofboston.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145408id_/http%3A//www.priscillaofboston.com/privacy.jsp) for the most accurate reproduction.*
 
-# Privacy Policy | Priscilla of Boston
+# Priscilla of Boston | Privacy Policy
 
 Effective June 1, 2007 
 
