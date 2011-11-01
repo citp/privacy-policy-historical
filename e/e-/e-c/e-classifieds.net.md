@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-classifieds.net privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429205249id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-classifieds.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124956id_/http%3A//www.e-classifieds.net/about/privacy.html) for the most accurate reproduction.*
 
 # e-Classifieds: Classified ads software programs
 
