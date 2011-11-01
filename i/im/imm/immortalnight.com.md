@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immortalnight.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530043802id_/http%3A//www.immortalnight.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immortalnight.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105858id_/http%3A//www.immortalnight.com/privacy-policy.php) for the most accurate reproduction.*
 
 # 
 
@@ -21,7 +21,7 @@ Information that you provide by filling in forms on our site(s) immortalnight.co
 
 If you contact us, we may keep a record of that correspondence.
 
-We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.
+We may also ask you to complete surveys that we use for rereplace purposes, although you do not have to respond to them.
 
 Details of transactions you carry out through our site and of the fulfilment of your orders. Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
@@ -40,7 +40,7 @@ To estimate our audience size and usage pattern.
 
 To store information about your preferences, and so allow us to customise our site according to your individual interests.
 
-To speed up your searches.
+To speed up your replacees.
 
 To recognise you when you return to our site.
 
