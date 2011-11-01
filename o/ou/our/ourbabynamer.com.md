@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504125151id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourbabynamer.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221610id_/http%3A//www.ourbabynamer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,4 @@ Google, as a third party vendor, uses cookies to serve ads sites which contain t
 This privacy policy will be updated as necessary. Any changes to the policy will be posted to this page and will apply only to information collected after the modification date. This policy was last updated on August 25, 2009. 
 
 **Contact Us**  
-We welcome your questions and comments. Please feel free to Contact Us if you have any questions or concerns about this Privacy Policy.  
+We welcome your questions and comments. Please feel free to Contact Us if you have any questions or concerns about this Privacy Policy. 
