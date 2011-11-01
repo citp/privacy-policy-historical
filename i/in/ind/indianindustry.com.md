@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the indianindustry.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231223812id_/http%3A//www.indianindustry.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianindustry.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142729id_/http%3A//www.indianindustry.com/privacy.html) for the most accurate reproduction.*
 
-# Indian Industry Provacy Policy
+# Indian Industry Privacy Policy
+
+  
+
 
 IndianIndustry.com commits to safeguard your online privacy. Please read the following to understand the policy. Please check for changes in privacy policy periodically.
 
