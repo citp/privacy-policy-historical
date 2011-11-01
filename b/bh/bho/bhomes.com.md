@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2010-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100124153808id_/http%3A//www.bhomes.com/UAE/privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhomes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223109id_/http%3A//www.bhomes.com/UAE/privacy.xhtml) for the most accurate reproduction.*
 
-# :: Better Homes ::
+# Privacy and Security Statement :: Better Homes :
 
 Better Homes is committed to protecting your privacy. This policy is designed to ensure your personal details are protected when you deal with us. 
 
