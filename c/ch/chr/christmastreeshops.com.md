@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2010-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100827002943id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christmastreeshops.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140850id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.*
 
 # CHRISTMAS TREE SHOPS PRIVACY POLICY
 
