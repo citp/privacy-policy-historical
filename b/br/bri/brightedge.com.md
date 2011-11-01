@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529175618id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightedge.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004340id_/http%3A//www.brightedge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BrightEdge
 
@@ -48,10 +48,10 @@ If you have any questions about this Policy, or to be taken off our marketing li
 
 Privacy Officer   
 BrightEdge Technologies, Inc.   
-1850 Gateway Drive, Suite 400   
+1820 Gateway Drive, Suite 100   
 San Mateo, California 94404 
 
 **Last Revised:** February 9, 2010 
 
 For the latest web site terms of service, click [here](https://web.archive.org/legal).   
-For the latest BrightEdge Master Subscription Agreement, click [here](https://web.archive.org/web/20100529175618id_/http%3A//www.brightedge.com/msa) (PDF format). 
+For the latest BrightEdge Master Subscription Agreement, click [here](https://web.archive.org/web/20111102004340id_/http%3A//www.brightedge.com/msa) (PDF format). 
