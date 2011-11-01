@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whoozy.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102173209id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoozy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101135558id_/http%3A//www.kgbpeople.com/privacy-policy) for the most accurate reproduction.*
 
-# Política de privacidad - www.kgbpeople.com
+# Privacy Policy - www.kgbpeople.com
 
 ### Privacy policy
 
