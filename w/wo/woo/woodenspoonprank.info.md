@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woodenspoonprank.info privacy policy that was archived on 2011-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110317025418id_/http%3A//www.woodenspoonprank.info/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woodenspoonprank.info privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101100758id_/http%3A//www.woodenspoonprank.info/privacypolicy.php) for the most accurate reproduction.*
 
 # ROFL - Die besten Hot-Girl Fails - auch heiÃŸe Schnecken blamieren sich ab und zu! :D
 
