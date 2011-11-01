@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618150456id_/http%3A//www.stargazette.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stargazette.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125417id_/http%3A//www.stargazette.com/section/privacy) for the most accurate reproduction.*
 
-# PRIVACY | Star-Gazette | stargazette.com
+# privacy | Star-Gazette | stargazette.com
 
 Last Updated: December 30, 2010
 
