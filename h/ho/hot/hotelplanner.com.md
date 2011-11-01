@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2011-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110528051408id_/http%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelplanner.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000040id_/http%3A//www.hotelplanner.com/Privacy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy - Hotel Planner always protects your privacy when you book your reunion, conference, or any group event.
 
