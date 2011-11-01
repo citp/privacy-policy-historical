@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygreencorner.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228051652id_/http%3A//www.mygreencorner.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygreencorner.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005714id_/http%3A//www.mygreencorner.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -19,3 +19,11 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 If a user's personally identifiable information changes (such as zip code, phone, email or postal address or site), or if a user no longer desires our service, we provide a way to correct or update users' personally identifiable information. This can be done by using our contact page.
 
 If users have any questions or suggestions regarding our privacy policy, please contact us.
+
+Google adsense disclaimer:
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+
