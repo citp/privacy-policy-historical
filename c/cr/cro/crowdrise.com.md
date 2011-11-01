@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the crowdrise.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628200449id_/http%3A//www.crowdrise.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdrise.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120719id_/http%3A//www.crowdrise.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Charity Online Fundraising on Crowdrise
 
-**Effective Sept 13, 2010; Version PP 1.3**
+**Effective June 7, 2011; Version PP 1.4**
 
-  1. Our Commitment to Privacy 
+  1. OUR COMMITMENT TO PRIVACY 
 
 Crowdrise, LLC is committed to respecting and protecting your privacy. Crowdrise has developed this Privacy Policy ("Privacy Policy") to ensure your personal information is protected. The Privacy Policy discloses the information we gather on www.crowdrise.com (the "Site"), as well as ways in which we process and, share such information and how you can correct or change such information. Except where otherwise expressly indicated herein or on the Site, this Privacy Policy applies only to information collected on the Site and does not apply to information collected outside of the Site.
 
 This Privacy Policy addresses our privacy practices relating to the general use of our Site by anyone who visits, browses or otherwise uses the Site (collectively, "You"). Before submitting information to the Site, please read this Privacy Policy. By visiting the Site, submitting information, making a donation or using any of our products or services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy and consent to having your data transferred to and/or processed in the United States. If you do not agree to this Privacy Policy, please do not use the Site.
 
-  2. The Information We Collect 
+  2. THE INFORMATION WE COLLECT 
 
 Crowdrise is all about Volunteers and Fundraisers answering the call to service, raising money for Charity and having the most fun in the world while doing it. The Site is intended to provide this great experience without requiring you to submit any more Personally Identifiable Information ("PII") than is necessary to use the Site effectively. We do not require you to register or submit PII in order to visit the Site. Some activities on the Site can be performed without providing PII. When we ask for PII to, for instance, participate in an activity, set up an account or project page or make a donation, we will not require anyone to disclose more PII than we believe is reasonably necessary to participate in the activity. We collect the following categories of information from you:
 
@@ -26,7 +26,7 @@ You can choose not to provide us with certain PII, but then you may not be able 
 
     2. Personally Identifiable Information Collected from Charities 
 
-If you are a charity or nonprofit (each a "Charity") and you establish an account with Crowdrise, we will collect the name, email address, birthday and phone number of the person who establishes a Charity account and claims your Charity (the "Charity Contact"). We also may collect, if the Charity Contact chooses to provide it, his/her sex, or any photos uploaded to the Site.
+If you are a charity or nonprofit (each a "Charity") and you establish an account with Crowdrise, we will collect the name, email address, birthday and phone number of the person who establishes a Charity account and claims your Charity (the "Charity Contact"). We also may collect, if the Charity Contact chooses to provide it, the Charity Contact's sex, or any photos uploaded to the Site.
 
     3. Passive Gathering of Information Electronically 
       1. Cookies 
@@ -49,37 +49,37 @@ When you invite friends to join Crowdrise, donate to one of your projects or joi
 
     5. Non Personally Identifiable Information 
 
-From time to time, we may also ask you to provide us with non-PII which is data that does not allow us to identify you personally, such as your first name, birthday or zip code. Your non-PII may be aggregated and used for our internal purposes or for creating reports for third-party advertisers and partners, or otherwise shared with third parties for any lawful purpose, without your permission. No third party should know who you are as a result of the use of your non-PII.
+From time to time, we may also ask you to provide us with non-PII which is data that is not intended to allow us to identify you personally, such as your first name, birthday or zip code. Your non-PII may be aggregated and used for our internal purposes or for creating reports for third-party advertisers and partners, or otherwise shared with third parties for any lawful purpose, without your permission. No third party is intended to be able to know who you are as a result of the use of your non-PII.
 
-We also may automatically collect Site usage information, such as the numbers and frequency of users to the Site, pages visited and similar data. This data is used in the aggregate, that is, as a statistical measure, and not in a manner that would identify you personally. Aggregate information generally is collected through the use of cookies and web beacons as discussed above. This aggregate information helps Crowdrise determine general usage patterns and modify the Site in order to improve your experience. This type of aggregate information may be shared with third parties at any time.
+We also may automatically collect Site usage information, such as the numbers and frequency of users to the Site, pages visited and similar data. This data is used in the aggregate, that is, as a statistical measure, and not in a manner that is intended to identify you personally. Aggregate information generally is collected through the use of cookies and web beacons as discussed above. This aggregate information helps Crowdrise determine general usage patterns and modify the Site in order to improve your experience. This type of aggregate information may be shared with third parties at any time.
 
-  3. How We Use Information 
+  3. HOW WE USE INFORMATION 
 
 When you provide us with your PII, we may use such information for a number of purposes, including:
 
     * To facilitate communication between Crowdrise and you including, without limitation, responding to your questions or comments, sending e-mails concerning our products and services, or to contact you for feedback regarding us, advertisers or business partners;
-    * To administer your account, provide products or services to you and for Crowdrise marketing and promotional activities;
+    * To administer your account, process donations, provide products or services to you and for Crowdrise marketing and promotional activities;
     * To provide a report to a Charity or an event supporting a Charity to whom you have made a donation or to alert a fundraiser to whom you have made a donation, supported a project or joined a team;
     * To provide a report to our advertisers or business partners that tells them who responded to a particular offer or to facilitate the fulfillment of an order that you have made with an advertiser or business partner;
     * To provide you with important functionality changes to the Site, new Crowdrise services and special offers from Crowdrise and reputable third parties that we think you will find valuable;
     * To customize, analyze, adjust and improve the Site to meet our your, advertisers' or business partners' needs and expectations;
     * To enforce our agreements with you, prevent fraud and other prohibited or illegal activities, for other legally permissible purposes and generally to ensure that we comply with applicable laws;
     * To send emails to friends based on your instructions as discussed in E-mail Communications to You and Your Friends
-  4. Accessing or Changing Your PII 
+  4. ACCESSING OR CHANGING YOUR PII 
 
 Crowdrise allows you to change or correct inaccuracies in your PII by logging into your account and making changes to your PII.
 
-  5. Disclosure of Information To Third Parties 
+  5. DISCLOSURE OF INFORMATION TO THIRD PARTIES 
 
 Crowdrise may give, share, sell or trade your PII to or with any third parties under the following circumstances: 
 
     1. Charities and Event Organizers 
 
-When you make a donation or register to, volunteer, fundraise or register for an event for a Charity or for an organization or event associated with fundraising (e.g., a marathon, walk concert or similar), Crowdrise shares with the Charity and Event Organizer your name, address, email address, donation amount, date of transaction, transaction identification number and may also include the name of the project associated with the donation. If you wish to stop receiving communications from a Charity or Event Organizer, please contact it directly. You always have to option of donating anonymously if you do want your information shared with a Charity or Event Organizer.
+When you make a donation or register to, volunteer, fundraise or register for an event for a Charity or for an organization or event associated with fundraising (e.g., a marathon, walk concert or similar), Crowdrise shares with the Charity and Event Organizer your name, address, email address, donation amount, date of transaction, transaction identification number and may also include the name of the project associated with the donation. If you wish to stop receiving communications from a Charity or Event Organizer, please contact the Charity or Event Organizer directly. You always have to option of donating anonymously if you do want your information shared with a Charity or Event Organizer.
 
     2. Fulfillment of Services 
 
-We may retain other companies and individuals to perform certain functions on our behalf. Examples include, but are not limited to, companies and individuals who: (i) administer the Crowdrise accounts; (ii) process donations; (iii) conduct surveys or promotional activities; (iv) deliver products; (v) customer support, web hosting, internet service, and data analysis. Such third parties may be provided with access to PII needed to perform their functions but may not use such information for any other purpose.
+We may retain other companies and individuals to perform certain functions on our behalf. Examples include, but are not limited to, companies and individuals who: (i) administer the Crowdrise accounts; (ii) process donations; (iii) conduct surveys or promotional activities; (iv) deliver products; or (v) provide customer support, web hosting, internet service, and data analysis. Such third parties may be provided with access to PII needed to perform their functions but may not use such information for any other purpose.
 
     3. Compliance with Law and Fraud Protection 
 
@@ -89,19 +89,27 @@ We may disclose any information, including, without limitation, PII, that we dee
 
 In the event of a sale, merger, liquidation, dissolution or sale or transfer of substantially all of the assets of Crowdrise or the Site, PII and/or other information collected about you from the Site may be sold, assigned or transferred to the party acquiring all or substantially all of the equity and/or assets of Crowdrise or the Site in order to permit the party to continue the operation of Crowdrise and/or the Site or any successor version of the Site. By using the Site and providing PII to Crowdrise, you consent to the sale and transfer of your information as described in this paragraph.
 
-  6. Birthday Information 
+  6. BIRTHDAY INFORMATION 
 
-Your birthday is the most important day of the year and to make sure that everyone knows how special you are, Crowdrise will share your birthday with other users of the Site. If you are a bit shy, you can always instruct us to make your birthday private or you can just share it with your friends on Crowdrise. You can always decide how you would like to share your birthday by editing your account settings.
+Your birthday is the most important day of the year and to make sure that everyone knows how special you are, Crowdrise will share your birthday with other users of the Site. If you are a bit shy, you can always instruct us to make your birthday private or you can just share it with your friends on Crowdrise. You can always decide whether you would like to share your birthday by editing your account settings.
 
-  7. Credit Card Information 
+  7. CREDIT CARD INFORMATION 
 
-Crowdrise does not collect, store or otherwise maintain any credit card information from individuals who make a donation through the Site. Donations are processed by our nonprofit partner [Network for Good](https://web.archive.org/about/terms#networkforgood), a [Better Business Bureau Wise Giving Alliance](http://www.bbb.org/charity-reviews/national/other/network-for-good-in-bethesda-md-1290) accredited industry leader in processing online donations. Network for Good, in technical terms, is a "donor-advised fund," a 501(c)(3) organization that collects contributions from donors and distributes such contributions to 501(c)(3) organizations in good standing with the IRS recommended by you, the donor. Network for Good uses industry-leading Secure Sockets Layer (SSL) technology to keep your personal information as secure as possible. Network for Good helps to protect your information by working with partners that provide a secure and safe environment for credit card donations. 
+Crowdrise does not collect, store or otherwise maintain any credit card information from individuals who make a donation through the Site. Donations, including information associated with your credit card, are processed by our partners [Network for Good](https://web.archive.org/about/terms#networkforgood) and Amazon Payments. 
 
-Furthermore, Network for Good, who processes the US credit card donations, is a [Better Business Bureau Wise Giving Alliance](http://www.bbb.org/charity-reviews/national/other/network-for-good-in-bethesda-md-1290) accredited charity that meets all of the BBB standards for charity accountability (BBB). They have processed more than $400 million in donations for 50,000 charities through their giving system. 
+    1. Network for Good 
+
+Network for Good is a [Better Business Bureau Wise Giving Alliance](http://www.bbb.org/charity-reviews/national/other/network-for-good-in-bethesda-md-1290) accredited industry leader in processing online donations. Network for Good, in technical terms, is a "donor-advised fund," a 501(c)(3) organization that collects contributions from donors and distributes such contributions to 501(c)(3) organizations recommended by donors that are in good standing with the IRS. Network for Good uses industry-leading Secure Sockets Layer (SSL) technology to keep your personal information as secure as possible. Network for Good helps to protect your information by working with partners that provide a secure and safe environment for credit card donations. 
+
+Furthermore, Network for Good, who processes the US credit card donations, is a [Better Business Bureau Wise Giving Alliance](http://www.bbb.org/charity-reviews/national/other/network-for-good-in-bethesda-md-1290) accredited charity that meets all of the BBB standards for charity accountability (BBB). Network for Good has processed more than $500 million in donations for more than 60,000 charities through their giving system. 
 
 All information associated with your use of Network for Good will be handled in accordance with the terms of the [Network for Good Privacy Policy](http://www1.networkforgood.org/privacy). When you donate through Crowdrise and use Network for Good to process your donation, you agree to the [Network for Good Terms of Use](http://www.networkforgood.org/).
 
-  8. Important Disclosures, Practices and Contact Information 
+    2. Amazon Payments 
+
+Crowdrise also allows charities to process donations through Amazon Payments™, a trusted third-party payment platform. Amazon Payments, Inc. is a wholly owned subsidiary of Amazon.com that provides a means to process transactions online. Amazon Payments™ is not affiliated with Crowdrise. When making a donation to a charity that has established an account with Amazon Payments, you will be directed to the Amazon Payments™ website to complete your donation.. Amazon Payments will not share your financial information (such as credit card information) with Crowdrise without your consent. Crowdrise does not collect or store your credit card information. All information associated with your use of Amazon Payments will be handled in accordance with the terms of the [Amazon Payments Privacy Notice](https://payments.amazon.com/sdui/sdui/about?privacy). When you sign in to use Amazon Payments you agree to the [Amazon Payments User Agreement](https://payments.amazon.com/sdui/sdui/about?useragreement).
+
+  8. IMPORTANT DISCLOSURES, PRACTICES AND CONTACT INFORMATION 
     1. Third Party Links 
 
 The Site may contain links to third-party websites. Please be aware that Crowdrise cannot control and is not responsible for the information collection practices of such websites, which may differ from those of Crowdrise. We encourage you to review and understand the privacy policies of these web sites before providing any information to them.
