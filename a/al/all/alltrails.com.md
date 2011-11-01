@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119081635id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltrails.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222604id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | AllTrails.com
 
