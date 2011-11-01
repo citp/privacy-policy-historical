@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229165945id_/http%3A//www.freestylextreme.com/uk/Home/Info/Privacy-Policy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestylextreme.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002128id_/http%3A//www.freestylextreme.com/uk/Home/Info/Privacy-Policy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Freestylextreme
 
@@ -57,8 +57,11 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 **Contacting Us**  
 We welcome any queries, comments or requests you may have regarding this Privacy Policy.  Please do not hesitate to contact us at [shop@freestylextreme.com](mailto:shop@freestylextreme.com), or by post at;   
-Freestylextreme  
-Unit 8 Waters Road Business Park  
-Kingswood  
+Freestylextreme
+
+Unit 2  
+Unicorn Business Park  
+Whitby Road  
 Bristol  
-BS15 8FE
+BS4 4EX  
+UK
