@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630040049id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthinsurance.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125501id_/http%3A//www.healthinsurance.org/about/privacy.lasso) for the most accurate reproduction.*
 
 # healthinsurance.org™ privacy policy
 
@@ -34,6 +34,10 @@ In the case of the pilot project, you may be contacted by healthinsurance.org™
 ## anonymous information
 
 Statistic services log how visitors interact with healthinsurance.org, which helps us improve our site. They do not personally identify you. 
+
+## cookies
+
+A "cookie" is a piece of information that our web site sends to your browser, which then is stored on your system. You may disable or delete cookies at any moment. We use cookies to store visitors preferences, record session information, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, and customize Web page content based on visitors' browser type or other information that the visitor sends. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. Some of our business partners (e.g., advertisers) may use cookies on our site.
 
 ## links to other web sites
 
