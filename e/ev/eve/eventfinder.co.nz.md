@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfinder.co.nz privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612122004id_/http%3A//www.eventfinder.co.nz/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfinder.co.nz privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143941id_/http%3A//www.eventfinder.co.nz/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventfinder
 
@@ -16,7 +16,7 @@ When you enter an Eventfinder Network website we collect your browser type and I
 
 You post Content (as defined in the Eventfinder Network Terms of Service) on the Site(s) at your own risk. Please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that Content you post on the Site will not be viewed by unauthorised persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of Content may remain viewable in cached and archived pages or if other Users have copied or stored your Content.
 
-Any improper collection or misuse of information provided on the Eventfinder Network is a violation of the Eventfinder Network Terms of Service and should be reported to privacy at eventfinder dot co dot nz.
+Any improper collection or misuse of information provided on the Eventfinder Network is a violation of the Eventfinder Network Terms of Service and should be reported to support at eventfinder dot co dot nz.
 
 If you choose to use our invitation service to tell a friend about our site, we will ask you for your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Eventfinder Network web sites stors this information to send this one-time email, to register a friend connection if your invitation is accepted, and to track the success of our referral program.
 
@@ -38,4 +38,4 @@ Access and control over personal information on the Eventfinder Network is readi
 
 Your use of the Eventfinder Network, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Service at any time. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
-If you have any questions about this privacy policy, please contact us at [privacy@eventfinder.co.nz](mailto:privacy@eventfinder.co.nz).
+If you have any questions about this privacy policy, please contact us at [support@eventfinder.co.nz](mailto:privacy@eventfinder.co.nz).
