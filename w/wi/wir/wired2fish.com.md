@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529103003id_/http%3A//www.wired2fish.com/Page136/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired2fish.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101190451id_/http%3A//www.wired2fish.com/Page136/Privacy_Policy.aspx) for the most accurate reproduction.*
 
-# Wired 2 Fish - Privacy Policy
+# Privacy Policy - Bass fishing tips, online fishing videos and fishing tackle reviews and contests - Wired2Fish
 
   
 Wired2fish, Inc. (“Wired”), the owner and operator of Wired2Fish.com, appreciates your trust  
