@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the developeranalytics.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617171828id_/http%3A//developeranalytics.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the developeranalytics.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154717id_/http%3A//www.developeranalytics.com/privacy.php) for the most accurate reproduction.*
 
 # dA | social media ratings and report services
 
