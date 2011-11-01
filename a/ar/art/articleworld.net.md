@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleworld.net privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602010632id_/http%3A//www.articleworld.net/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleworld.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001456id_/http%3A//www.articleworld.net/pages/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
