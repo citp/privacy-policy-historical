@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carsforsale.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426040125id_/http%3A//www.carsforsale.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsforsale.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134243id_/http%3A//www.carsforsale.com/legal/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
