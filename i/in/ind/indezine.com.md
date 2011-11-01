@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530053035id_/http%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indezine.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002143id_/http%3A//www.indezine.com/info/privacy.html) for the most accurate reproduction.*
 
 # Indezine.com - Privacy Policy
 
@@ -34,6 +34,6 @@ In March 2009, Google (one of the advertisers on this site) announced that they 
 
 * * *
 
-[ ](http://www.copyscape.com/)
+Plagiarism will be detected by Copyscape
 
 since November 02, 2000
