@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426170101id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193628id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -143,7 +143,7 @@ Through our partnership with Official Payments Corporation®, you may request to
 
 Information entered into the donation value calculators (through CharityDeductions.com™) is used solely to provide you with information regarding the fair market value of non-cash charitable donations. You may visit the site at [www.charitydeductions.com](http://www.charitydeductions.com/) to view their Privacy Policy.
 
-Information entered into the Tax Calculators (through Time Value Software) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved. You may visit the site at [www.tvalue.com](http://www.timevalue.com/Privacy.htm) to view their Privacy Policy.  
+Information entered into the Tax Calculators (through Time Value Software) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved. You may visit the site at [www.tvalue.com](http://www.timevalue.com/privacy.aspx) to view their Privacy Policy.  
   
 Co-Branded Sites
 
@@ -173,7 +173,7 @@ We reserve the right to modify this privacy statement at any time, so please rev
   
 How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20110426170101id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
+Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20111101193628id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
 
 CCH INCORPORATED  
 Online Tax Group - Suite 200  
@@ -183,7 +183,7 @@ Email: [support@completetax.com](mailto:support@completetax.com)
 Web site URL: [www.completetax.com](http://www.completetax.com/)  
   
   
-Effective September 27, 2011
+Effective September 27, 2010
 
-[© 2010-2011, CCH. All Rights Reserved.](https://web.archive.org/web/20110426170101id_/http%3A//www.completetax.com/copyright.asp)  
+[© 2010-2011, CCH. All Rights Reserved.](https://web.archive.org/web/20111101193628id_/http%3A//www.completetax.com/copyright.asp)  
 CCH, a Wolters Kluwer business
