@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookingwhat.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228190607id_/http%3A//www.cookingwhat.com/page/1/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookingwhat.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225205id_/http%3A//www.cookingwhat.com/page/1/Privacy-Policy) for the most accurate reproduction.*
 
 # Cooking games for girls - Privacy Policy
 
