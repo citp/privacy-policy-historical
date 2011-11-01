@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrycallingcodes.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123022537id_/http%3A//www.countrycallingcodes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycallingcodes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101104537id_/http%3A//www.countrycallingcodes.com/privacy.php) for the most accurate reproduction.*
 
 # International Country Calling Codes and World TimeZones
 
@@ -10,7 +10,7 @@ For detailed information on managing cookies, view your browser's help menu. For
 
 |  | 
 
-[](https://web.archive.org/web/20101123022537id_/http%3A//www.countrycallingcodes.com/freetool.htm)
+[](https://web.archive.org/web/20111101104537id_/http%3A//www.countrycallingcodes.com/freetool.htm)
 
   
   
