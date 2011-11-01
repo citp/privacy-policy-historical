@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 3aw.com.au privacy policy that was archived on 2011-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110317130430id_/http%3A//www.3aw.com.au/fairfax-privacy-policy/20090122-7nkz.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 3aw.com.au privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102003226id_/http%3A//www.3aw.com.au/fairfax-privacy-policy/20090122-7nkz.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <title>Fairfax Privacy Policy</title>
@@ -49,50 +49,282 @@
     <div id="masthead" class="cfix">
     	<p><a href="http://www.3aw.com.au/" title="3AW - Fairfax Radio Network">3AW - Fairfax Radio Network</a></p>
         <div id="adSpot-leaderboard" class="ad advert">
-    <script type="text/javascript">
-        document.dcdAdsH = new Array();
-        document.dcdAdsI = new Array();
-        document.dcdAdsU = new Array();
-        document.dcdAdsR = new Array();
-        document.dcdAdsEH = new Array();
-        document.dcdAdsE = new Array();
-        document.dcdAdsEC = new Array();
-        var dcOrd = Math.floor(100000000*Math.random());
+<script type="text/javascript">
+    function getAdCookie(name) {
+        var regex = new RegExp(name + "=(.*?)(; |&|$)", "gi");
+        var value = regex.exec(document.cookie);
+        if (value && value.length == 3) {
+           value = value[1];
+        } else {
+            value = "";
+        }
+        return value;
+    }
+    function getFrameDocument(fr) {
+        var doc = fr.contentWindow || fr.contentDocument;
+        if (doc && doc.document) {
+            doc = doc.document;
+        }
+        return doc;
+    }
+    function closeDoc(doc) {
+        doc.close();
+    }
+    function closeOpenDocuments(openDocs) {
+        for (var i=0;i< openDocs.length; i++) {
+            closeDoc(getFrameDocument(document.getElementById(openDocs[i])))
+        }
+    }
 
-        function getAdCookie(name) {
-            var regex = new RegExp(name + "=(.*?)(; |&|$)", "gi");
-            var value = regex.exec(document.cookie);
-            if (value && value.length == 3) {
-               value = value[1];
-            } else {
-                value = "";
+    function isIE()
+    {
+      return /msie/i.test(navigator.userAgent) && !/opera/i.test(navigator.userAgent);
+    }
+
+    function setHash (element, hash) {
+        if(element.hash) {
+            element.hash = element.hash + "," + hash;
+        } else {
+            element.hash = hash;
+        }
+    }
+    function renderIFAd(holderID, adID, srcUrl, width, height, hash) {
+        setHash(document.getElementById(holderID), hash);
+        document.dcdAdsR.push(adID);
+        if (ie) {
+            var sizePart = srcUrl.substring(srcUrl.indexOf("sz=")+3);
+            sizePart = sizePart.substring(0, sizePart.indexOf(";"));
+            var multiSizes = sizePart.split(",");
+            var minSize = multiSizes[0];
+            if (multiSizes.length > 1) {
+                for(var i=1; i< multiSizes.length; i++) {
+                    if (minSize > multiSizes[i]) {
+                        minSize = multiSizes[i];
+                    }
+                }
+                var sizeParts = minSize.toLowerCase().split("x");
+                width = sizeParts[0];
+                height = sizeParts[1];
+                srcUrl = srcUrl.replace(sizePart, minSize);
             }
-            return value;
         }
-        document.dcAdsCParams = "";
+        document.write('<iframe id="' + adID + '" src="' + srcUrl + '" width="' + width +
+                '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+    }
 
-        var savValue = getAdCookie("sav");
-        if (savValue != null) {
-            document.dcAdsCParams = savValue + ";";
+    function renderJIFAd(holderID, adID, srcUrl, width, height, hash) {
+        setHash(document.getElementById(holderID), hash);
+        document.dcdAdsR.push(adID);
+        document.write('<iframe id="' + adID +'" src="javascript: ;" width="' + width +
+                '" height="' + height + '" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
+        var body = '<html><head></head><body><scr' + 'ipt src="' + srcUrl + '"></sc' + 'ript></body></html>';
+        var fr = document.getElementById(adID);
+        setHash(fr, hash);
+        fr.body = body;
+        var doc = getFrameDocument(fr);
+        doc.open();
+        doc.write(body);
+        setTimeout(function() {closeDoc(getFrameDocument(document.getElementById(adID)))}, 2000);
+    }
+
+    function renderJAd(holderID, adID, srcUrl, hash) {
+        document.dcdAdsAA.push(holderID);
+        setHash(document.getElementById(holderID), hash);
+        document.dcdAdsH.push(holderID);
+        document.dcdAdsI.push(adID);
+        document.dcdAdsU.push(srcUrl);
+    }
+
+    function er_showAd() {
+        var regex = new RegExp("externalReferrer=(.*?)(; |&|$)", "gi");
+        var value = regex.exec(document.cookie);
+        if (value && value.length == 3) {
+           var externalReferrer = value[1];
+           return (!FD.isInternalReferrer() || ((externalReferrer) && (externalReferrer > 0)));
         }
-    </script>
-        <script>
-            document.dcdAdsH.push("adSpot-leaderboard");
-            document.dcdAdsI.push("dcAd-1");
-            document.dcdAdsU.push('http://ad-apac.doubleclick.net/adj/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;dcopt=ist;' + document.dcAdsCParams +'sz=728x90,468x60;tile=1;ord=' + dcOrd + '?');
+        return false;
+    }
+
+    function isHome() {
+        var loc = "" + window.location;
+        loc = loc.replace("//", "");
+        var tokens = loc.split("/");
+        if (tokens.length == 1) {
+            return true;
+        } else if (tokens.length == 2) {
+            if (tokens[1].trim().length == 0) {
+                return true;
+            }
+        }
+        return false;
+    }
+    function checkAds(checkStrings) {
+        var cs = checkStrings.split(",");
+        for (var i=0;i< document.dcdAdsAA.length; i++) {
+            var cAd = document.getElementById(document.dcdAdsAA[i]);
+            document.dcdAdsAG.push(cAd.hash);            
+            for (var j=0; j<cs.length; j++) {
+                var c = cs[j].trim();
+                if (c.length > 0 && cAd.innerHTML.indexOf(c)>0) {
+                    document.dcdAdsAI.push(cAd.hash);
+                }
+            }
+        }
+        //Check iframes
+        if (!ie) {
+            for (var i=0;i< document.dcdAdsR.length; i++) {
+                var fr = document.getElementById(document.dcdAdsR[i]);
+                if (fr) {
+                    document.dcdAdsAG.push(fr.hash);
+                    var doc = getFrameDocument(fr);
+                    for (var j=0; j<cs.length; j++) {
+                        var c = cs[j].trim();
+                        if (c.length > 0 && doc.body.innerHTML.indexOf(c)>0) {
+                            document.dcdAdsAI.push(fr.hash);
+                        }
+                    }
+                }
+            }
+        }
+
+        if (document.dcdAdsAI.length > 0 || document.dcdAdsAG.length > 0) {
+            var pingServerParams = "i="
+            var sep = "";
+            for (var i=0;i< document.dcdAdsAI.length; i++) {
+                pingServerParams += sep + document.dcdAdsAI[i];
+                sep = ",";
+            }
+        }
+        document.pingServerAdParams = pingServerParams;
+    }
+
+    function pingAdStatus() {
+        if (isHome ()) {
+            return;
+        }
+        if (document.pingServerAdParams && document.pingServerAdParams.length > 0) {
+            var pingServerUrl = "/action/pingServerAction?" + document.pingServerAdParams;
+            var xmlHttp = null;
+            try
+            {
+                xmlHttp = new XMLHttpRequest();
+            }   catch(e)             {
+                try
+                {
+                    xmlHttp = new ActiveXObject("Microsoft.XMLHttp");
+                } catch(e) {
+                    xmlHttp = null;
+                }
+            }
+            if (xmlHttp != null) {
+                xmlHttp.open( "GET", pingServerUrl, true);
+                xmlHttp.send( null );
+            }
+        } 
+    }
+
+    function initAds(log) {
+        for (var i=0;i< document.dcdAdsU.length; i++) {
+            var shadowHolder = document.getElementById("adShD" + i);
+            var targetHolder = document.getElementById(document.dcdAdsH[i]);
+            if (shadowHolder && targetHolder) {
+                var adNodes = new Array();
+                for (var j=0; j<shadowHolder.childNodes.length; j++) {
+                    var child = shadowHolder.childNodes[j];
+                    if (child.nodeName.toLowerCase() != "script") {
+                        adNodes.push(child);
+                    }
+                }
+                for (var j=0; j<adNodes.length; j++) {
+                    targetHolder.appendChild(shadowHolder.removeChild(adNodes[j]));
+                }
+            }
+        }
+        if (er_showAd()) {
+            for (var i=0;i< document.dcdAdsE.length; i++) {
+                var erAd = document.getElementById(document.dcdAdsEH[i]);
+                erAd.className = document.dcdAdsEC[i];
+                erAd.appendChild(document.dcdAdsE[i]);
+            }
+        }
+        if (log) {
+            console.log(document.igCount + "/" + document.tCount);
+        }
+    }
+
+    document.refreshAds = function rAds(adID) {
+        if (document.dcdAdsR) {
+            document.dcdsAdsToClose =  new Array();
+            for (var i=0;i< document.dcdAdsR.length; i++) {
+                var fr = document.getElementById(document.dcdAdsR[i]);
+                if (fr) {
+                    if (!ie) {
+                        if (!adID || adID =="*" || fr.parentNode.id==adID ) {
+                            var chNodes = new Array();
+                            for (var j=0; j<fr.parentNode.childNodes.length; j++) {
+                                var child = fr.parentNode.childNodes[j];
+                                if (!(child.nodeName.toLowerCase() == "script" ||
+                                        child.nodeName.toLowerCase() == "iframe")) {
+                                    chNodes.push(child);
+                                }
+                            }
+                            for (var j=0; j<chNodes.length; j++) {
+                                chNodes[j].parentNode.removeChild(chNodes[j]);
+                            }
+                            var doc = getFrameDocument(fr);
+                            while (doc.childNodes.length > 0) {
+                                doc.removeChild(doc.childNodes[0]);
+                            }
+                            doc.open();
+                            doc.write(fr.body);
+                            document.dcdsAdsToClose.push(fr.id);
+                        }
+                    } else {
+                        fr.src = fr.src;    
+                    }
+                }
+            }
+            if (document.dcdsAdsToClose.length > 0) {
+                setTimeout(function() {closeOpenDocuments(document.dcdsAdsToClose)}, 500);
+            }
+        }
+    }
+    var ie = isIE();
+    if(ie && typeof String.prototype.trim !== 'function') {
+      String.prototype.trim = function() {
+        return this.replace(/^\s+|\s+$/g, '');
+      }
+    }
+    document.dcdAdsH = new Array();
+    document.dcdAdsI = new Array();
+    document.dcdAdsU = new Array();
+    document.dcdAdsR = new Array();
+    document.dcdAdsEH = new Array();
+    document.dcdAdsE = new Array();
+    document.dcdAdsEC = new Array();
+    document.dcdAdsAA = new Array();
+    document.dcdAdsAI = new Array();
+    document.dcdAdsAG = new Array();
+    document.dcdAdsToClose = new Array();
+
+    document.igCount = 0;
+    document.tCount = 0;
+    var dcOrd = Math.floor(100000000*Math.random());
+    document.dcAdsCParams = "";
+
+    var savValue = getAdCookie("sav");
+    if (savValue != null && savValue.length > 2) {
+        document.dcAdsCParams = savValue + ";";
+    }
+</script>        <script>
+            renderJAd("adSpot-leaderboard", "dcAd-1", 'http://ad-apac.doubleclick.net/adj/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;dcopt=ist;' + document.dcAdsCParams +'sz=728x90,468x60;tile=1;ord=' + dcOrd + '?', -1449185421);
         </script>
         <noscript>
-            <a href='http://ad-apac.doubleclick.net/jump/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;dcopt=ist;sz=728x90,468x60;tile=1;ord=5.419589E7?' target="_blank">
-                <img src='http://ad-apac.doubleclick.net/ad/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;dcopt=ist;sz=728x90,468x60;tile=1;ord=5.419589E7?' border="0" alt="">
+            <a href='http://ad-apac.doubleclick.net/jump/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;dcopt=ist;sz=728x90,468x60;tile=1;ord=2.1921287E7?' target="_blank">
+                <img src='http://ad-apac.doubleclick.net/ad/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;dcopt=ist;sz=728x90,468x60;tile=1;ord=2.1921287E7?' border="0" alt="">
             </a>
         </noscript>
-
-        <script type="text/javascript">
-            if (0 < document.dcdAdsU.length) {
-                document.write('<script type="text\/javascript" id="' + document.dcdAdsI[0] + '" src="' + document.dcdAdsU[0] + '"><\/script>');
-            }
-        </script>
-    </div>
+</div>
     </div>
     <!-- component end: masthead  -->
 
@@ -108,7 +340,7 @@
                         <a href="http://www.3aw.com.au/shows">Shows and Highlights</a>
                     </li>
                     <li class="nNav2">
-                        <a href="http://www.3aw.com.au/3awpersonalities.html">Presenters</a>
+                        <a href="http://www.3aw.com.au/3awpersonalities">Presenters</a>
                     </li>
                     <li class="nNav3">
                         <a href="http://www.3aw.com.au/podcasts">Podcasts</a>
@@ -123,7 +355,7 @@
                         <a href="http://www.3aw.com.au/advertise">Advertise with 3AW</a>
                     </li>
                     <li class="nNav7">
-                        <a href="http://www.3aw.com.au/contact-us.html">Contact Us</a>
+                        <a href="http://www.3aw.com.au/contact-us">Contact Us</a>
                     </li>
         </ul>
     </div>
@@ -137,15 +369,11 @@
         <!-- component begin: breadcrumb (scope: site) -->
         <!-- breadcrumb start -->
 <div class="breadcrumb cfix">
-    <p class="datetime"><strong>Friday March 18, 2011</strong></p>
+    <p class="datetime"><strong>Wednesday November 2, 2011</strong></p>
     <!-- This is the weather. Temporarily placed html there, but will need to set up this SSI later -->
-            <ul>
-            <li class="weather w8"><strong> Now:</strong> 15° Max: 20°C 
-	         <a href="#previous" class="previous">Previous</a>
-		  <a href="#next" class="next">Next</a>
-	     </li>
-        </ul>
-
+    <ul>
+        <li class="weather w8"><strong> Now:</strong> 14° Max: 16°</li>
+</ul>
 
         <!-- Google CSE Search Box Addemo version -->
 	<form id="search" action="/action/getSearchResults">
@@ -184,20 +412,23 @@
             <li><a class="nNav2" href="http://twitter.com/3aw693">Melbourne's Own 3AW on Twitter</a></li>
             <li><a class="nNav3" href="http://www.3aw.com.au/Breakfast">Breakfast with Ross and John</a></li>
             <li><a class="nNav4" href="http://www.3aw.com.au/neilmitchell">3AW Mornings with Neil Mitchell</a></li>
-            <li><a class="nNav5" href="http://www.3aw.com.au/hinch">3AW Drive with Hinch</a></li>
-            <li><a class="nNav6" href="http://www.3aw.com.au/deniswalter">Denis Walter's Afternoons page</a></li>
-            <li><a class="nNav7" href="http://www.3aw.com.au/footy">3AW Football Central</a></li>
-            <li><a class="nNav8" href="http://www.3aw.com.au/sportstoday">3AW's Sports Today</a></li>
-            <li><a class="nNav9" href="http://www.3aw.com.au/nightline">Nightline with Bruce and Phil</a></li>
-            <li><a class="nNav10" href="http://www.3aw.com.au/weekends">Weekends: Buy Swap and Sell</a></li>
-            <li><a class="nNav11" href="http://www.3aw.com.au/break">The Weekend Break</a></li>
-            <li><a class="nNav12" href="http://www.3aw.com.au/fishing">The 3AW Fishing Show</a></li>
-            <li><a class="nNav13" href="http://www.3aw.com.au/food">3AW Food - Eating Melbourne</a></li>
-            <li><a class="nNav14" href="http://www.3aw.com.au/potw_2011">Tony's Pub of the Week 2011</a></li>
-            <li><a class="nNav15" href="http://www.3aw.com.au/gardening">The Big Backyard</a></li>
-            <li><a class="nNav16" href="http://www.3aw.com.au/streetwise">The Big House and Streetwise</a></li>
-            <li><a class="nNav17" href="http://www.3aw.com.au/donna-demaio">Donna Demaio: Entertainment</a></li>
-            <li><a class="nNav18" href="http://www.3aw.com.au/blogs/3aw-generic-blog/streaming-3aw-with-mac-and-iphone/20100529-wmfk.html">Stream 3AW via Mac &amp; iPhone</a></li>
+            <li><a class="nNav5" href="http://www.3aw.com.au/deniswalter">Denis Walter's Afternoons page</a></li>
+            <li><a class="nNav6" href="http://www.3aw.com.au/drivewithElliott">Drive with Tom Elliott</a></li>
+            <li><a class="nNav7" href="http://www.3aw.com.au/hinch">3AW Drive with Hinch</a></li>
+            <li><a class="nNav8" href="http://www.3aw.com.au/footy">3AW Football Central</a></li>
+            <li><a class="nNav9" href="http://www.3aw.com.au/sportstoday">3AW's Sports Today</a></li>
+            <li><a class="nNav10" href="http://www.3aw.com.au/nightline">Nightline with Bruce and Phil</a></li>
+            <li><a class="nNav11" href="http://www.3aw.com.au/andrewmclaren">Andrew McLaren Overnight</a></li>
+            <li><a class="nNav12" href="http://www.3aw.com.au/break">The Weekend Break</a></li>
+            <li><a class="nNav13" href="http://www.3aw.com.au/weekends">Weekends: Buy Swap and Sell</a></li>
+            <li><a class="nNav14" href="http://www.3aw.com.au/talkinghealth">Talking Health</a></li>
+            <li><a class="nNav15" href="http://www.3aw.com.au/food">3AW Food - Eating Melbourne</a></li>
+            <li><a class="nNav16" href="http://www.3aw.com.au/potw_2011">Tony's Pub of the Week 2011</a></li>
+            <li><a class="nNav17" href="http://www.3aw.com.au/gardening">The Big Backyard</a></li>
+            <li><a class="nNav18" href="http://www.3aw.com.au/streetwise">The Big House and Streetwise</a></li>
+            <li><a class="nNav19" href="http://www.3aw.com.au/donna-demaio">Donna Demaio: Entertainment</a></li>
+            <li><a class="nNav20" href="http://www.3aw.com.au/blogs/3aw-generic-blog/streaming-3aw-with-mac-and-iphone/20100529-wmfk.html">Stream 3AW via Mac &amp; iPhone</a></li>
+            <li><a class="nNav21" href="http://www.3aw.com.au/talkbackbest">Talkback Calls of the week</a></li>
         </ul>
     </div>
 <!--/@List-->
@@ -291,19 +522,17 @@
     <h2>On Air Now <span class="inlineRight radio3aw">3AW</span></h2>
     <div id="rhsScroller" class="scroller">
     <ul>
-                <li class="cfix onNow">
+                <li class="cfix">
 
-                <a href="http://www.3aw.com.au/overnight">
 
-                <img src="http://images.3aw.com.au/2010/12/14/2095032/KEITH%20MCGOWEN.jpg" width="90" height="60" alt="Keith McGowan">
+                <img src="http://images.3aw.com.au/2011/06/15/2429511/macca90.jpg" width="90" height="60" alt="Andrew McLaren">
 
-                </a>
 
             <h3>
 
-                <a href="http://www.3aw.com.au/shows">
+                <a href="http://www.3aw.com.au/contact-us">
 
-            Keith McGowan
+            Andrew McLaren
 
                 </a>
 
@@ -311,22 +540,21 @@
 
             <p>12am - 5:30am </p>
 
-                    <p><a href="javascript:void(0);" onclick="return popup('http://www.3aw.com.au/displayPopUpPlayerAction.action?url=http://streaming.mytalk.com.au/3aw')" title="On Now - Listen Live">On Now - Listen Live</a></p>
                 
             </li>                   
                 <li class="cfix">
 
                 <a href="http://www.3aw.com.au/Breakfast">
 
-                <img src="http://images.3aw.com.au/2010/12/14/2095036/ROSS%20STEVENSON%20AND%20JOHN%20BURNS.jpg" width="90" height="60" alt="3AW Breakfast">
+                <img src="http://images.3aw.com.au/2010/12/14/2095036/ROSS%20STEVENSON%20AND%20JOHN%20BURNS.jpg" width="90" height="60" alt="Ross and John">
 
                 </a>
 
             <h3>
 
-                <a href="/contact-us.html?requested=breakfast@3aw.com.au">
+                <a href="http://www.3aw.com.au/contact-us">
 
-            3AW Breakfast
+            Ross and John
 
                 </a>
 
@@ -337,7 +565,7 @@
                     <p><a href="http://www.3aw.com.au/Breakfast" title="Read Profile">Read Profile</a></p>
                 
             </li>                   
-                <li class="cfix">
+                <li class="cfix onNow">
 
                 <a href="http://www.3aw.com.au/neilmitchell">
 
@@ -347,7 +575,7 @@
 
             <h3>
 
-                <a href="/contact-us.html?requested=nmitchell@3aw.com.au">
+                <a href="http://www.3aw.com.au/contact-us">
 
             Neil Mitchell
 
@@ -357,7 +585,7 @@
 
             <p>8:30am - 12pm Mornings</p>
 
-                    <p><a href="http://www.3aw.com.au/neilmitchell" title="Read Profile">Read Profile</a></p>
+                    <p><a href="javascript:void(0);" onclick="return popup('http://www.3aw.com.au/displayPopUpPlayerAction.action?url=http://streaming.mytalk.com.au/3aw')" title="On Now - Listen Live">On Now - Listen Live</a></p>
                 
             </li>                   
                 <li class="cfix">
@@ -370,7 +598,7 @@
 
             <h3>
 
-                <a href="/contact-us.html?requested=afternoons@3aw.com.au">
+                <a href="http://www.3aw.com.au/contact-us">
 
             Denis Walter
 
@@ -385,17 +613,17 @@
             </li>                   
                 <li class="cfix">
 
-                <a href="http://www.3aw.com.au/peter-maher-profile/20080823-40x2.html">
+                <a href="http://www.3aw.com.au/drivewithElliott">
 
-                <img src="http://images.3aw.com.au/2010/12/14/2095025/DERRYN%20HINCH.jpg" width="90" height="60" alt="Derryn Hinch">
+                <img src="http://images.3aw.com.au/2010/12/14/2095038/TOM%20ELLIOT.jpg" width="90" height="60" alt="Tom Elliott">
 
                 </a>
 
             <h3>
 
-                <a href="/contact-us.html?requested=drive@3aw.com.au">
+                <a href="http://www.3aw.com.au/contact-us">
 
-            Derryn Hinch
+            Tom Elliott
 
                 </a>
 
@@ -403,7 +631,7 @@
 
             <p>4pm - 6pm Drive</p>
 
-                    <p><a href="http://www.3aw.com.au/peter-maher-profile/20080823-40x2.html" title="Read Profile">Read Profile</a></p>
+                    <p><a href="http://www.3aw.com.au/drivewithElliott" title="Read Profile">Read Profile</a></p>
                 
             </li>                   
                 <li class="cfix">
@@ -416,7 +644,7 @@
 
             <h3>
 
-                <a href="http://www.3aw.com.au/contact-us.html">
+                <a href="/contact-us.html?requested=mbarrett@3aw.com.au">
 
             Sports Today
 
@@ -424,30 +652,9 @@
 
             </h3>
 
-            <p>6pm - 7pm Friday</p>
+            <p>6pm - 8pm Weekdays</p>
 
                     <p><a href="http://www.3aw.com.au/sportstoday" title="Read Profile">Read Profile</a></p>
-                
-            </li>                   
-                <li class="cfix">
-
-
-                <img src="http://images.3aw.com.au/2010/12/14/2095017/3AWFISHING.jpg" width="90" height="60" alt="3AW Fishing">
-
-
-            <h3>
-
-                <a href="http://www.3aw.com.au/contact-us.html">
-
-            3AW Fishing
-
-                </a>
-
-            </h3>
-
-            <p>7pm - 8pm Friday</p>
-
-                    <p><a href="http://www.3aw.com.au/3aw-fishing-67pm-fridays/20101026-17203.html" title="Podcast">Podcast</a></p>
                 
             </li>                   
                 <li class="cfix">
@@ -460,7 +667,7 @@
 
             <h3>
 
-                <a href="/contact-us.html?requested=sowens@3aw.com.au">
+                <a href="http://www.3aw.com.au/contact-us">
 
             Bruce and Phil
 
@@ -478,7 +685,7 @@
     <script language="JavaScript" type="text/javascript">
        <!-- move scroller to right position
        var scroller = document.getElementById('rhsScroller');
-       var onNowPos = 0;
+       var onNowPos = 2;
 
        // move scroller
        scroller.scrollTop = (onNowPos - 1) * 70;
@@ -492,10 +699,10 @@
 
  
 
-<p style=" text-align:center;padding-top:5px;"><a href="http://www.australiansuper.com" target="_blank" title="">
-<img src="http://media.mytalk.com.au/2UE/images/Australian-Super-Logo.jpg"></a></p>
+<p style=" text-align:center;padding-top:5px;"><a href="http://www.theblindfactory.com.au" target="_blank" title="">
+<img src="http://media.mytalk.com.au/2UE/images/Blind-Factory---Black.jpg"></a></p>
 
-        <p style="text-align: center;"><a href="http://www.3aw.com.au/blogs/3aw-generic-blog/listen-to-the-latest-3aw-news-bulletin/20100810-11udy.html"><img src="http://media.mytalk.com.au/3AW/AUDIO/bulletin_button_again.gif" alt=""></a></p>
+        <p style="text-align: center;"><a href="http://www.3aw.com.au/blogs/3aw-generic-blog/listen-to-the-latest-3aw-news-bulletin/20100810-11udy.html"><img src="http://media.mytalk.com.au/Magic/images/255 3AW-Plain-Button.jpg" alt=""></a></p>
 <!--/@List-->
 
 
@@ -508,11 +715,14 @@
 
     <div id="adSpot-island" class="ad adSpot-mrec">
                 <script type="text/javascript">
-                    document.dcdAdsR.push("dcAd-1-2");
-                    document.write('<iframe id="dcAd-1-2" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;' + document.dcAdsCParams + 'sz=300x250;tile=2;ord=' + dcOrd + '?" width="300" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
-                </script><iframe id="dcAd-1-2" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;;sz=300x250;tile=2;ord=52770980?" width="300" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
+                    if (ie) {
+                        renderIFAd("adSpot-island", "dcAd-1-2", "http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;" + document.dcAdsCParams + "sz=300x250;tile=2;ord=" + dcOrd + "?", 300, 250, 1486738539);
+                    } else {
+                        renderJIFAd("adSpot-island","dcAd-1-2", "http://ad-apac.doubleclick.net/adj/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;" + document.dcAdsCParams + "sz=300x250;tile=2;ord=" + dcOrd + "?", 300, 250, 1486738539);
+                    }
+                </script><iframe id="dcAd-1-2" src="javascript: ;" width="300" height="250" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
             <noscript>
-                <iframe id="dcAd-1-2" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;sz=300x250;tile=2;ord=5.419589E7?"
+                <iframe id="dcAd-1-2" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;sz=300x250;tile=2;ord=2.1921287E7?"
                         width='300'
                         height='250'
                         scrolling="no"
@@ -529,11 +739,14 @@
 
     <div id="adspot-300x125-pos-1" class="ad adSpot-mrec">
                 <script type="text/javascript">
-                    document.dcdAdsR.push("dcAd-1-3");
-                    document.write('<iframe id="dcAd-1-3" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=1;' + document.dcAdsCParams + 'sz=300x125;tile=3;ord=' + dcOrd + '?" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
-                </script><iframe id="dcAd-1-3" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=1;;sz=300x125;tile=3;ord=52770980?" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
+                    if (ie) {
+                        renderIFAd("adspot-300x125-pos-1", "dcAd-1-3", "http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=1;" + document.dcAdsCParams + "sz=300x125;tile=3;ord=" + dcOrd + "?", 300, 125, -850854396);
+                    } else {
+                        renderJIFAd("adspot-300x125-pos-1","dcAd-1-3", "http://ad-apac.doubleclick.net/adj/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=1;" + document.dcAdsCParams + "sz=300x125;tile=3;ord=" + dcOrd + "?", 300, 125, -850854396);
+                    }
+                </script><iframe id="dcAd-1-3" src="javascript: ;" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
             <noscript>
-                <iframe id="dcAd-1-3" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=1;sz=300x125;tile=3;ord=5.419589E7?"
+                <iframe id="dcAd-1-3" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=1;sz=300x125;tile=3;ord=2.1921287E7?"
                         width='300'
                         height='125'
                         scrolling="no"
@@ -548,27 +761,27 @@
     <ul class="posted">
         <li class="comment">
             <small>
-                <strong>Mat on</strong>
-                <a href="http://www.3aw.com.au/blogs/3aw-generic-blog/doyle-i-dont-hate-the-grand-prix/20110317-1by2f.html">Doyle: 'I don't hate the Grand Prix'</a>
+                <strong>Andrew on</strong>
+                <a href="http://www.3aw.com.au/blogs/breaking-news-blog/nightmare-on-the-roads/20111102-1mui0.html">Nightmare on the Roads</a>
             </small>
-            Perhaps he will be accompanying his friend Kate Ceberano and give a speech.
-            <a href="http://www.3aw.com.au/blogs/3aw-generic-blog/doyle-i-dont-hate-the-grand-prix/20110317-1by2f.html#2120734">more</a>
+            It might slow down if drivers are taught how to drive, rather than advertisements showing what could happen! Would you like ...
+            <a href="http://www.3aw.com.au/blogs/breaking-news-blog/nightmare-on-the-roads/20111102-1mui0.html#2682979">more</a>
         </li>
         <li class="comment">
             <small>
-                <strong>Mat on</strong>
-                <a href="http://www.3aw.com.au/blogs/3aw-generic-blog/disturbing-bullying-bodyslam-video/20110317-1bxuj.html">Disturbing bullying bodyslam video</a>
+                <strong>Whendey on</strong>
+                <a href="http://www.3aw.com.au/blogs/breaking-news-blog/another-asylum-tragedy/20111102-1mue6.html">Another Asylum Tragedy </a>
             </small>
-            Vince MacMahon should bring that big kid to Wrestlemania as that is a textbook bodyslam. The problem is that many schools do ...
-            <a href="http://www.3aw.com.au/blogs/3aw-generic-blog/disturbing-bullying-bodyslam-video/20110317-1bxuj.html#2120728">more</a>
+            There is too much beer consumption in this country. Strange no one remembers that KRUDD came and said he is a human, weird!, ...
+            <a href="http://www.3aw.com.au/blogs/breaking-news-blog/another-asylum-tragedy/20111102-1mue6.html#2682878">more</a>
         </li>
         <li class="comment">
             <small>
-                <strong>Mat on</strong>
-                <a href="http://www.3aw.com.au/blogs/3aw-generic-blog/accident-or-shocking-act-by-pie/20110315-1bv2h.html">Accident or shocking act by Pie?</a>
+                <strong>Karl on</strong>
+                <a href="http://www.3aw.com.au/blogs/breaking-news-blog/another-asylum-tragedy/20111102-1mue6.html">Another Asylum Tragedy </a>
             </small>
-            Perhaps Collingwood supporters are fed up with having Mitchell critisizing the club over every little thing. This is a ...
-            <a href="http://www.3aw.com.au/blogs/3aw-generic-blog/accident-or-shocking-act-by-pie/20110315-1bv2h.html#2120724">more</a>
+            Yeah yeah Dr GP. Let all of them meet their fate.Its the will of God. I mean the earthly ones.Yeah. They were chosen for ...
+            <a href="http://www.3aw.com.au/blogs/breaking-news-blog/another-asylum-tragedy/20111102-1mue6.html#2682860">more</a>
         </li>
     </ul>
 
@@ -582,11 +795,14 @@
 
     <div id="adspot-300x125-pos-2" class="ad adSpot-mrec">
                 <script type="text/javascript">
-                    document.dcdAdsR.push("dcAd-1-4");
-                    document.write('<iframe id="dcAd-1-4" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=2;' + document.dcAdsCParams + 'sz=300x125;tile=4;ord=' + dcOrd + '?" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"><\/iframe>');
-                </script><iframe id="dcAd-1-4" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=2;;sz=300x125;tile=4;ord=52770980?" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
+                    if (ie) {
+                        renderIFAd("adspot-300x125-pos-2", "dcAd-1-4", "http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=2;" + document.dcAdsCParams + "sz=300x125;tile=4;ord=" + dcOrd + "?", 300, 125, -1259678590);
+                    } else {
+                        renderJIFAd("adspot-300x125-pos-2","dcAd-1-4", "http://ad-apac.doubleclick.net/adj/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=2;" + document.dcAdsCParams + "sz=300x125;tile=4;ord=" + dcOrd + "?", 300, 125, -1259678590);
+                    }
+                </script><iframe id="dcAd-1-4" src="javascript: ;" width="300" height="125" scrolling="no" marginheight="0" marginwidth="0" allowtransparency="true" frameborder="0"></iframe>
             <noscript>
-                <iframe id="dcAd-1-4" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=2;sz=300x125;tile=4;ord=5.419589E7?"
+                <iframe id="dcAd-1-4" src="http://ad-apac.doubleclick.net/adi/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;pos=2;sz=300x125;tile=4;ord=2.1921287E7?"
                         width='300'
                         height='125'
                         scrolling="no"
@@ -608,109 +824,84 @@
 	    <!-- component begin: footer (scope: core) -->
         		<div id="footer">
             <!-- Start: footer classies -->
-            <script type="text/javascript">
-    function trackOmnitureClick(anchor, identifier, trackInTransit) {
-        var hash = "";
-        var hashIndex = anchor.href.indexOf("#");
-        if (hashIndex > -1) {
-            hash = anchor.href.substring(hashIndex);
-            anchor.href = anchor.href.substring(0, hashIndex);
-        }
-        if (anchor.href.indexOf("s_rid") > -1) {
-            // Remove any s_rid's
-            anchor.href = anchor.href.replace(/[\??|&?]s_rid=(.*)/i, "");
-        }
-        if (anchor.href.indexOf("s_cid") > -1) {
-            // Strip any s_cid's
-            anchor.href = anchor.href.replace(/[\??|&?]s_cid=(.*)/i, "");
-        }
-        var query = (anchor.href.indexOf("?") > -1) ? "&" : "?";
-        anchor.href += query + "s_rid=" + identifier;
-        if (hashIndex > -1) {
-            anchor.href += hash;
-        }
-        if (trackInTransit) {
-            var s = s_gi(s_account);
-            s.usePlugins = false;
-            s.linkTrackVars = 'eVar10';
-            s.eVar10 = s.getValOnce(identifier, "s_eVar10", 0);
-            s.tl(anchor, 'o', 'trackOmnitureClick');
-            s.usePlugins = true;
-        }
-        return true;
-    }
-</script>
+            <div class="c5 classifieds cfix">
 
-<div class="c5 classifieds cfix">
-
-                  <div class="s1 cMycareer">
-                      <h2><a title="Jobs" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box1:campaign3:label:shakehands');" href="http://www.mycareer.com.au">Jobs</a></h2>
+                  <div class="s1 cDrive">
+                      <!-- Campaign ID: 1261226 -->
+                      <h2><a title="Motoring" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click" href="http://www.drive.com.au">Motoring</a></h2>
                                 <div class="puff">
-                                        <a href="http://content.mycareer.com.au/advice-research/workplace/hear-and-now.aspx" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:content1:16-03:shakehands');"><img src="http://images.smh.com.au/2011/03/16/2234725/shakehands-172x115.jpg" width="172" alt="Working in the hear and now"></a>
+                                        <a href="http://news.drive.com.au/drive/motor-news/lotuss-new-club-racer-20110803-1ialj.html" rel="nofollow" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">
+    <img src="http://images.smh.com.au/2011/08/03/2533937/lotus-elise_600-172x115-172x115.jpg" width="172" alt="Lotus's new Club Racer"></a>
 
-                                    <h5><a href="http://content.mycareer.com.au/advice-research/workplace/hear-and-now.aspx" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box1:campaign3:content2:16-03:shakehands:workinginthehearandnow');" title="workinginthehearandnow">Working in the hear and now</a></h5>
+                                    <h5><a href="http://news.drive.com.au/drive/motor-news/lotuss-new-club-racer-20110803-1ialj.html" rel="nofollow" title="lotussnewclubracer" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Lotus's new Club Racer</a></h5>
                                 </div>
                                 <ul>
-                                    <li class="lMycareer"><a href="http://www.mycareer.com.au" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box1:campaign3:logo:16-03:shakehands');">Mycareer.com.au</a></li>
-                               <li><a href="http://content.mycareer.com.au/iphone.aspx" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box1:campaign3:bullet1:16-03:shakehands:searchforjobsonyouriphone');">Search for jobs on your iPhone</a></li>
-                               <li><a href="http://twitter.com/mycareercomau" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box1:campaign3:bullet2:16-03:shakehands:followmycareerontwitter');">Follow MyCareer on Twitter</a></li>
-                               <li><a href="http://content.mycareer.com.au/advice-research/workplace/pull-socks-up.aspx" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box1:campaign3:bullet3:16-03:shakehands:pullyoursocksup');">Pull your socks up</a></li>
+                                    <li class="lDrive"><a href="http://www.drive.com.au" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Drive.com.au</a></li>
+                               <li><a href="http://news.drive.com.au/drive/motor-news/new-subaru-xv-first-drive-20111025-1mh45.html" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">New Subaru XV: first drive </a></li>
+                               <li><a href="http://news.drive.com.au/drive/motor-news/first-drive-toyota-yaris-20111027-1mkqx.html" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">2011 Toyota Yaris</a></li>
                       </ul>
                   </div>
-                  <div class="s2 cMycareer">
-                      <h2><a title="Jobs" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box2:campaign3:label:shakehands');" href="http://www.mycareer.com.au">Jobs</a></h2>
+                  <div class="s2 cDrive">
+                      <!-- Campaign ID: 1262345 -->
+                      <h2><a title="Motoring" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click" href="http://www.drive.com.au">Motoring</a></h2>
                                 <div class="puff">
-                                        <a href="http://content.mycareer.com.au/advice-research/workplace/hear-and-now.aspx" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:content1:16-03:shakehands');"><img src="http://images.smh.com.au/2011/03/16/2234725/shakehands-172x115.jpg" width="172" alt="Working in the hear and now"></a>
+                                        <a href="http://news.drive.com.au/drive/motor-news/lotuss-new-club-racer-20110803-1ialj.html" rel="nofollow" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">
+    <img src="http://images.smh.com.au/2011/08/03/2533937/lotus-elise_600-172x115-172x115.jpg" width="172" alt="Lotus's new Club Racer"></a>
 
-                                    <h5><a href="http://content.mycareer.com.au/advice-research/workplace/hear-and-now.aspx" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box2:campaign3:content2:16-03:shakehands:workinginthehearandnow');" title="workinginthehearandnow">Working in the hear and now</a></h5>
+                                    <h5><a href="http://news.drive.com.au/drive/motor-news/lotuss-new-club-racer-20110803-1ialj.html" rel="nofollow" title="lotussnewclubracer" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Lotus's new Club Racer</a></h5>
                                 </div>
                                 <ul>
-                                    <li class="lMycareer"><a href="http://www.mycareer.com.au" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box2:campaign3:logo:16-03:shakehands');">Mycareer.com.au</a></li>
-                               <li><a href="http://content.mycareer.com.au/iphone.aspx" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box2:campaign3:bullet1:16-03:shakehands:searchforjobsonyouriphone');">Search for jobs on your iPhone</a></li>
-                               <li><a href="http://twitter.com/mycareercomau" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box2:campaign3:bullet2:16-03:shakehands:followmycareerontwitter');">Follow MyCareer on Twitter</a></li>
-                               <li><a href="http://content.mycareer.com.au/advice-research/workplace/pull-socks-up.aspx" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box2:campaign3:bullet3:16-03:shakehands:pullyoursocksup');">Pull your socks up</a></li>
+                                    <li class="lDrive"><a href="http://www.drive.com.au" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Drive.com.au</a></li>
+                               <li><a href="http://news.drive.com.au/drive/motor-news/new-subaru-xv-first-drive-20111025-1mh45.html" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">New Subaru XV: first drive </a></li>
+                               <li><a href="http://news.drive.com.au/drive/motor-news/first-drive-toyota-yaris-20111027-1mkqx.html" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">2011 Toyota Yaris</a></li>
                       </ul>
                   </div>
-                  <div class="s3 cWeatherZone">
-                      <h2><a title="Weather" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box3:campaign4:label:weatherzone-android');" href="http://www.weatherzone.com.au">Weather</a></h2>
+                  <div class="s3 cSmh">
+                      <!-- Campaign ID: 1262395 -->
+                      <h2><a title="Key Leaders" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click" href="http://www.smh.com.au">Key Leaders</a></h2>
                                 <div class="puff">
-                                        <a href="http://www.weatherzone.com.au/android" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:content1:14-03:weatherzone-android');"><img src="http://images.smh.com.au/2011/03/14/2231205/weatherzone-android-172x115.jpg" width="172" alt="Weatherzone FREE Android App"></a>
+                                        <a href="http://www.smh.com.au/business/key-leaders" rel="nofollow" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">
+    <img src="http://images.smh.com.au/2011/09/16/2629141/michael-zimmerman-rainbow-172x115.jpg" width="172" alt="michael-zimmerman-rainbow"></a>
 
-                                    <h5><a href="http://www.weatherzone.com.au/android" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box3:campaign4:content2:14-03:weatherzone-android:getournewfreeandroidapp');" title="getournewfreeandroidapp">Get our new FREE Android app</a></h5>
+                                    <h5><a href="http://www.smh.com.au/business/key-leaders" rel="nofollow" title="riseofthesmartbuilding" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Rise of the smart building</a></h5>
                                 </div>
                                 <ul>
-                                    <li class="lWeatherZone"><a href="http://www.weatherzone.com.au" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box3:campaign4:logo:14-03:weatherzone-android');">Weatherzone.com.au</a></li>
-                               <li><a href="http://www.weatherzone.com.au/radar/" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box3:campaign4:bullet1:19-10:weatherzone-android:rainradar');">Rain Radar</a></li>
-                               <li><a href="http://www.weatherzone.com.au/qld/brisbane/brisbane" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box3:campaign4:bullet2:21-06:weatherzone-android:brisbaneweather');">Brisbane Weather</a></li>
-                               <li><a href="http://www.weatherzone.com.au/weathertracker/" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box3:campaign4:bullet3:19-10:weatherzone-android:desktopweatherwidget');">Desktop Weather Widget</a></li>
+                                    <li class="lSmh"><a href="http://www.smh.com.au" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Smh.com.au</a></li>
+                               <li><a href="http://www.smh.com.au/business/key-leaders" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Aussie biotech grabs foothold in Asia</a></li>
+                               <li><a href="http://www.smh.com.au/business/key-leaders" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Dot com II reaches fever pitch</a></li>
+                               <li><a href="http://www.smh.com.au/business/key-leaders" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Tourism industry comes full circle</a></li>
                       </ul>
                   </div>
-                  <div class="s4 cEssentialBaby">
-                      <h2><a title="Essential Baby" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box4:campaign1:label:posh_172x115');" href="http://www.essentialbaby.com.au">Essential Baby</a></h2>
+                  <div class="s4 cTheVine">
+                      <!-- Campaign ID: 1262400 -->
+                      <h2><a title="TheVine" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click" href="http://www.thevine.com.au">TheVine</a></h2>
                                 <div class="puff">
-                                        <a href="http://www.essentialbaby.com.au/pregnancy/prepare-for-baby/girl-for-victoria-beckham-20110312-1bry9.html" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:content1:15-03:posh_172x115');"><img src="http://images.smh.com.au/2011/02/21/2194764/posh_172x115-172x115.jpg" width="172" alt="Beckhams"></a>
+                                        <a href="http://www.thevine.com.au/entertainment/top10/top-ten-john-candy-films20111101.aspx?utm_source=FD&amp;utm_medium=rainbow&amp;utm_campaign=john-candy_Nov11" rel="nofollow" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">
+    <img src="http://images.smh.com.au/2011/11/01/2743574/JOHN-CANDY-172x115.jpg" width="172" alt="John Candy still"></a>
 
-                                    <h5><a href="http://www.essentialbaby.com.au/pregnancy/prepare-for-baby/girl-for-victoria-beckham-20110312-1bry9.html" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box4:campaign1:content2:15-03:posh_172x115:paris,milan,angel...guessposhsbabyname!');" title="paris,milan,angel...guessposhsbabyname!">Paris, Milan, Angel... guess Posh's baby name!</a></h5>
+                                    <h5><a href="http://www.thevine.com.au/entertainment/top10/top-ten-john-candy-films20111101.aspx?utm_source=FD&amp;utm_medium=rainbow&amp;utm_campaign=john-candy_Nov11" rel="nofollow" title="top10johncandyfilms" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Top 10 John Candy films</a></h5>
                                 </div>
                                 <ul>
-                                    <li class="lEssentialBaby"><a href="http://www.essentialbaby.com.au" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box4:campaign1:logo:15-03:posh_172x115');">Essentialbaby.com.au</a></li>
-                               <li><a href="http://www.essentialbaby.com.au/conception/ovulation-calculator" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box4:campaign1:bullet1:29-09:posh_172x115:ovulationcalculator');">Ovulation calculator</a></li>
-                               <li><a href="http://www.essentialbaby.com.au/pregnancy/baby-names" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box4:campaign1:bullet2:14-09:posh_172x115:babynames');">Baby names</a></li>
-                               <li><a href="http://www.essentialbaby.com.au" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box4:campaign1:bullet3:14-09:posh_172x115:parentingessentials');">Parenting essentials</a></li>
+                                    <li class="lTheVine"><a href="http://www.thevine.com.au" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Thevine.com.au</a></li>
+                               <li><a href="http://www.thevine.com.au/entertainment/" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Entertainment &amp; celebrity news</a></li>
+                               <li><a href="http://www.thevine.com.au/sport/" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Weird and wonderful world of sport</a></li>
+                               <li><a href="http://www.thevine.com.au/gig-guide/" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Music festivals and sideshows</a></li>
                       </ul>
                   </div>
-                  <div class="s5 cStayz">
-                      <h2><a title="Holidays" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box5:campaign3:label:rb_stayztqpromo');" href="http://www.stayz.com.au">Holidays</a></h2>
+                  <div class="s5 cEssentialBaby">
+                      <!-- Campaign ID: 1262234 -->
+                      <h2><a title="Essential Baby" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click" href="http://www.essentialbaby.com.au">Essential Baby</a></h2>
                                 <div class="puff">
-                                        <a href="http://www.queenslandholidays.com.au/experiences/pet-friendly-accommodation/pet-friendly-accommodation_home.cfm" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:content1:14-03:rb_stayztqpromo');"><img src="http://images.smh.com.au/2011/03/14/2231147/RB_StayzTQPromo-172x115.jpg" width="172" alt="Win a Queensland pet friendly holiday with Stayz"></a>
+                                        <a href="http://www.essentialbaby.com.au/photogallery/life-style/family-entertainment/creepy-reborn-dolls-20110722-1htg7.html#utm_source=FD&amp;utm_medium=rainbow&amp;utm_campaign=reborndolls" rel="nofollow" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">
+    <img src="http://images.smh.com.au/2011/10/31/2740986/babydobby-172x115-172x115.jpg" width="172" alt="babydobby-172x115"></a>
 
-                                    <h5><a href="http://www.queenslandholidays.com.au/experiences/pet-friendly-accommodation/pet-friendly-accommodation_home.cfm" rel="nofollow" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box5:campaign3:content2:14-03:rb_stayztqpromo:lookingforapetfriendlyholiday?enterheretowinone!');" title="lookingforapetfriendlyholiday?enterheretowinone!">Looking for a pet friendly holiday? Enter here to win one!</a></h5>
+                                    <h5><a href="http://www.essentialbaby.com.au/photogallery/life-style/family-entertainment/creepy-reborn-dolls-20110722-1htg7.html#utm_source=FD&amp;utm_medium=rainbow&amp;utm_campaign=reborndolls" rel="nofollow" title="heretohauntyournightmares" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Here to haunt your nightmares</a></h5>
                                 </div>
                                 <ul>
-                                    <li class="lStayz"><a href="http://www.stayz.com.au" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box5:campaign3:logo:14-03:rb_stayztqpromo');">Stayz.com.au</a></li>
-                               <li><a href="http://www.stayz.com.au/accommodation/qld/sunshine-coast/noosa" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box5:campaign3:bullet1:09-03:rb_stayztqpromo:noosaholidayrentals');">Noosa holiday rentals</a></li>
-                               <li><a href="http://www.stayz.com.au/accommodation/nsw/sydney/manly-beach" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box5:campaign3:bullet2:09-03:rb_stayztqpromo:manlyaccommodation');">Manly accommodation</a></li>
-                               <li><a href="http://www.stayz.com.au/lastminute-thisweekend" onclick="trackOmnitureClick(this,'3aw:rainbowstrip:box5:campaign3:bullet3:10-01:rb_stayztqpromo:lastminutedeals');">Last minute deals</a></li>
+                                    <li class="lEssentialBaby"><a href="http://www.essentialbaby.com.au" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Essentialbaby.com.au</a></li>
+                               <li><a href="http://www.essentialbaby.com.au/conception/ovulation-calculator#utm_source=FD&amp;utm_medium=rainbow&amp;utm_campaign=ovulationcalculator" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Ovulation calculator</a></li>
+                               <li><a href="http://wwwhttp://www.essentialbaby.com.au/pregnancy/baby-names#utm_source=FD&amp;utm_medium=rainbow&amp;utm_campaign=babynamefinder" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Baby names</a></li>
+                               <li><a href="http://www.essentialbaby.com.au/pregnancy/due-date-calculator#utm_source=FD&amp;utm_medium=rainbow&amp;utm_campaign=duedatecalculator" class="trackable" data-category="RainbowStrip" data-action="RainbowStrip Click">Due Date Calculator</a></li>
                       </ul>
                   </div>
 
@@ -723,12 +914,12 @@
     <li>
                 <a href="http://www.3aw.com.au/" title="Home">Home</a> |
             <a href="http://www.3aw.com.au/shows" title="Shows and Highlights">Shows and Highlights</a> |
-            <a href="http://www.3aw.com.au/3awpersonalities.html" title="Presenters">Presenters</a> |
+            <a href="http://www.3aw.com.au/3awpersonalities" title="Presenters">Presenters</a> |
             <a href="http://www.3aw.com.au/podcasts" title="Podcasts">Podcasts</a> |
             <a href="http://www.3aw.com.au/competitions" title="Competitions">Competitions</a> |
             <a href="http://www.3aw.com.au/businessdirectory" title="Business Directory">Business Directory</a> |
             <a href="http://www.3aw.com.au/advertise" title="Advertise with 3AW">Advertise with 3AW</a> |
-            <a href="http://www.3aw.com.au/contact-us.html" title="Contact Us">Contact Us</a>
+            <a href="http://www.3aw.com.au/contact-us" title="Contact Us">Contact Us</a>
 
     </li>    
 </ul>
@@ -764,54 +955,13 @@
 <!-- component end: wrap  -->
     <!-- Default Ads component -->
 
-    <script type="text/javascript">
-    FD.baseAd = {
-        params: {
-        }
-    };
-</script>
-    <div class="hidden" id="adShD0"></div>
+    <div class="hidden" id="adShD0"><script type="text/javascript">if (0 < document.dcdAdsU.length) {document.write('<scr' + 'ipt type="text\/javascript" id="' + document.dcdAdsI[0] + '" src="' + document.dcdAdsU[0] + '"><\/scr' + 'ipt>');}</script><script type="text/javascript" id="dcAd-1" src="http://ad-apac.doubleclick.net/adj/onl.3aw/fairfax-privacy-policy;cat=fairfax-privacy-policy;ctype=article;dcopt=ist;sz=728x90,468x60;tile=1;ord=19509512?"></script></div>
 <script type="text/javascript">
-    function er_showAd() {
-        var regex = new RegExp("externalReferrer=(.*?)(; |&|$)", "gi");
-        var value = regex.exec(document.cookie);
-        if (value && value.length == 3) {
-           var externalReferrer = value[1];
-           return (!FD.isInternalReferrer() || ((externalReferrer) && (externalReferrer > 0)));
-        }
-        return false;
-    }
-    for (var i=0;i< document.dcdAdsI.length; i++) {
-        var shadowHolder = document.getElementById("adShD" + i);
-        if (shadowHolder) {
-            shadowHolder.removeChild(document.getElementById(document.dcdAdsI[i]));
-            while (shadowHolder.childNodes.length > 0) {
-                var child = shadowHolder.childNodes[0];
-                shadowHolder.removeChild(child);
-                document.getElementById(document.dcdAdsH[i]).appendChild(child);
-            }
-        }
-    }
-    if (er_showAd()) {
-        for (var i=0;i< document.dcdAdsE.length; i++) {
-            var erAd = document.getElementById(document.dcdAdsEH[i]);
-            erAd.className = document.dcdAdsEC[i];
-            erAd.appendChild(document.dcdAdsE[i]);
-        }
-    }
-    document.refreshAds = function rAds(adID) {
-        if (document.dcdAdsR) {
-            for (var i=0;i< document.dcdAdsR.length; i++) {
-                var f = document.getElementById(document.dcdAdsR[i]);
-                if (f) {
-                    if (!adID || adID =="*" || f.parentNode.id==adID ) {
-                        f.parentNode.innerHTML = f.parentNode.innerHTML;
-                    }
-                }
-            }
-        }
-    }
+    initAds(false);
+    checkAds("817-grey.gif");
+    window.setTimeout('pingAdStatus()', 10000);
 </script>
+
 
     <div class="hidden">
 <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
