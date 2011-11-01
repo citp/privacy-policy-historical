@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bit.ly privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615085023id_/http%3A//bit.ly/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bit.ly privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101064648id_/https%3A//bitly.com/pages/privacy) for the most accurate reproduction.*
 
-# bitly | a simple URL shortener
+# bitly | shorten, share and track your links
 
 ### Bitly Privacy Policy
 
@@ -53,6 +53,7 @@ We may receive a confirmation when you open an email from us. We use this confir
   * Bitly cookies also allow Bitly to track when you have clicked on a Bitly shortened URL. Each click of a shortened URL is tracked using a unique identifier assigned to you in one or more cookies stored by your web browser and associated with Bitly. 
   * Bitly cookies do not, by themselves, contain Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are. As noted, however, we do use cookies to identify that your web browser has accessed a Bitly URL and may associate that information with your Account if you have one. 
   * Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave cookies active, because they enable you to take advantage the most attractive features of the Services. 
+  * You may also ask bitly not to place cookies on your web browser when you are logged in. When cookies are disabled in this manner, clicks on bitly links are not tied back to or associated with your web browser. 
   * This Privacy Policy covers the use of cookies by Bitly only and does not cover the use of cookies by third parties. Bitly does not control when or how third parties place cookies on your computer. For example, third party websites to which a URL points may set cookies on your computer. 
 
 
@@ -93,7 +94,7 @@ You may otherwise access other Third Party Services through the Services, for ex
 
 #### Aggregate Information:
 
-We share Aggregate Information with our partners, service providers and other persons with whom we conduct business. We share this type of statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving both their services and how Bitly interfaces with them. In addition, these third parties may share with us non-private, aggregated or otherwise non Personal Information about you that they have independently developed or acquired. 
+We share Aggregate Information with our partners, service providers and other persons with whom we conduct business, in order to do product development, marketing optimization and research, and other kinds of services. We share this kind of anonymous statistical data so that our partners can understand how and how often people use our Services and their services or websites, which facilitates improving their services and online marketing, and how Bitly interfaces with them. 
 
 #### Email Communications with Bitly:
 
@@ -137,7 +138,7 @@ Registered and unregistered users can access all of the above information.
 
 ### How Can I Delete My Account?
 
-Should you ever decide to delete your Account, you may do so by emailing [support+sitelink@bitly.com](mailto:support+sitelink@bitly.com) If you terminate your Account, any association between your Account and information stored by Bitly will no longer be accessible through your Account and you will no longer be able to create and share links or Bundles using the Account. However, given the nature of sharing using Bitly, any public activity on your Account prior to deletion will remain stored on Bitly’s servers and will remain accessible to the public. 
+In the interest of ensuring that existing bitly links continue to function for all of our users, bitly links currently cannot be deleted or disabled. As such, shortening and sharing activity that has already occurred on your account currently cannot be deleted. However, your user history can easily be set to private from within your [bitly account settings](http://bitly.com/a/account), and individual links can be archived from within your bitly user history. If you have concerns about unauthorized usage of your bitly account moving forward, please contact us at [support@bitly.com](mailto:support@bitly.com) and we will disable future shortening activity on your account. 
 
 ### What Choices Do I Have Regarding My Information?
 
