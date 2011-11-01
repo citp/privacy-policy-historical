@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404111504id_/http%3A//zscaler.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101213403id_/http%3A//www.zscaler.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Zscaler Cloud Security : SaaS Web Security, Web Security, URL Filtering, Internet Security
 
-|  |   
+|    
 ---  
-|  | 
-
-**Privacy Statement  
-**  
+Privacy Statement  
   
----  
-**Effective January 15, 2009**  
+**Effective May 20, 2011**  
 Overview  
 **_What Is Covered in this Privacy Statement?_** This Privacy Statement contains information on how Zscaler, Inc. (“we”), processes certain categories of data relating to individual persons.   
   
@@ -49,7 +45,7 @@ _Client obligations_.  To ensure that we process personal data in accordance wi
 _Zscaler may transfer personal data when legally required to do so.   _Zscaler will not transfer personal data to other entities without authorization or request from our client unless Zscaler is legally required to do so, for example, by a court order or subpoena.  
   
 _Who should End Users contact regarding privacy?_ If you are an end-user of our service you should contact our client for any information related to information held about you and the privacy policy which governs the relationship between you and our client.  In many cases our client will be your employer.   
-_Access by Zscaler employees.   _Access to private and confidential data on our systems is limited to only those employees with a specific need to retrieve this information.  Zscaler uses commercially reasonable computer security safeguards to protect its databases and servers against risks of loss, unauthorized access, destruction, misuse, modification, or inadvertent or improper disclosure of data.  These risks, however, cannot be completely eliminated and Zscaler therefore cannot guarantee complete security of any information you transmit to us, and this information is transmitted at your own risk.  
+_Access by Zscaler employees.   _We intend to protect individual personal information and to maintain its privacy. Zscaler implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. For example, we encrypt certain sensitive personal information when we transmit such information over the Internet. We also limit access to private and confidential data on our systems to only those employees with a specific need to retrieve this information.  
 EU Safe Harbor Privacy Statement  
 Zscaler adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and is registered with the [U.S. Department of Commerce’s Safe Harbor Program](http://www.export.gov/safeharbor/).  
  
