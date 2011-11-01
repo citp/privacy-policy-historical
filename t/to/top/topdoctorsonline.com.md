@@ -1,7 +1,12 @@
-> *The following text is extracted and transformed from the topdoctorsonline.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104234723id_/http%3A//www.topdoctorsonline.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdoctorsonline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101195940id_/http%3A//www.topdoctorsonline.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - TopDoctorsOnline.com
 
+|  |   
+---  
+[](http://www.topdoctorsonline.com/) |   
+|   
+---  
 |  |  |  Medisurge Technologies’ Privacy Statement |   
 ---|---|---  
 |  | We at Medisurge Technologies Pvt. Ltd (parent company of TopDoctorsOnline.com) respect your privacy and take the issue of Internet privacy very seriously.
