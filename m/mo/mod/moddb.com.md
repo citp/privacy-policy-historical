@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616182513id_/http%3A//moddb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moddb.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101182522id_/http%3A//www.moddb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ModDB - Mod DB
 
