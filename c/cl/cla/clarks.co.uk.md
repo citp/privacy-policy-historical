@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229081403id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105254id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Clarks Online - Clarks Privacy Policy - How We Use Your Data-Clarks
 
@@ -62,6 +62,20 @@ You can view a list of cookies stored on your computer by selecting ‘Page’ t
   
 
 
+## Third Party Cookie Use
+
+Clarks work with third party ad servers and ad networks who server Clarks advertisements on our behalf. Clarks will not disclose your personal details to any third parties - for example, all data collected is anonymous and will not contain the name, address, telephone number, email address or IP address. Currently we have relationships with the following third-party ad networks:  
+[http://www.criteo.com](http://www.criteo.com/ "\(opens new window\)")
+
+Criteo may place anonymous cookies in your browsers so that it can collect browsing data (such as the products you have viewed). Such data may be sent to website(s) in their network, and these cookies are collected in the 'visitors' cookie file'. These cookies will allow the Criteo Technology to server advertisements containing products that you have looked at and similar products.
+
+Advertisements will always include a link to Criteo's Privacy Policy page that will include information for users on how to opt-out of being cookie retargeted. If you wish to opt out of receiving such advertisements, or if you would like to receive more information on why you are being retargeted, simply click the 'i' which appears in the top left hand corner of every advertisement.
+
+If you would like to opt out of receiving Criteo advertisements go to <http://www.criteo.com/privacy-policy/opt-out>
+
+  
+
+
 ## Security
 
 To prevent any unauthorised persons accessing your data, it is protected throughout the payment process. 
@@ -83,3 +97,13 @@ Clarks International
 Street  
 Somerset   
 BA16 0EQ
+
+  
+
+
+## First Shoes Experience
+
+The photographs taken as part of the First Shoes Experience in Clarks stores and Clarks stockists are for use as part of the "First Shoes Experience" only and are not stored or passed on for any other use. Images are deleted from the First Shoes Experience camera once it has been printed for the customer.
+
+  
+
