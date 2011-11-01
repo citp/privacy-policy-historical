@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930085123id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valuedopinions.co.in privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125015id_/http%3A//www.valuedopinions.co.in/index.php%3Fid%3D7) for the most accurate reproduction.*
 
 # Privacy Policy: Valued Opinions
 
-Research Now plc., The Mobile Panel Limited, The Mobile Channel Limited, Research Now Inc (a US Company), Research Now SARL (a French Company), Research Now Inc (a Canadian Company), Research Now Technology Hellas EPE (a Greek Company), Research Now Pty Limited (an Australian Company), Research Now Pte. Ltd. (A Singaporian Company) and Research Now GmbH (a German Company) (together "Research Now") operate the Valued Opinions website and we respect the privacy of individuals who use our website.
+The Valued Opinions websites are owned and operated by Research Now Limited, a UK company, ("Research Now"). e-Rewards, Inc. (a US company), e-Rewards Europe Limited (a UK company), Research Now, Inc. (a US company), Research Now Limited (a UK company), The Mobile Panel Ltd., The Mobile Channel Ltd., Research Now Pty Ltd. (an Australian company), Research Now Inc. (a Canadian company), Research Now Consulting Co. Ltd (a Chinese company), Research Now Technology EPE (a Greek company), Research Now GmbH (a German company), Research Now PTE LTD (a Singaporian company), Research Now Pty Limited (a New Zealand company), Research Now Spain S.L. (a Spanish company) and Research Now SARL (a French company) together form the Research Now group. This Privacy Policy governs the website located at www.valuedopinions.in.
 
 Below we have set out how we use the information that you give us and how the Site operates.
 
@@ -82,7 +82,7 @@ By providing the information requested by the Website, or by continuing to use t
 If you have any queries relating to this Statement, please feel free to contact us by letter at the following address:
 
       The Panel Manager  
-      Research Now plc  
+      Research Now Ltd  
       8th floor, Elizabeth House  
       39 York Road  
       London SE1 7NQ  
