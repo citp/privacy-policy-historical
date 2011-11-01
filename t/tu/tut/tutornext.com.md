@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutornext.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131052216id_/http%3A//www.tutornext.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutornext.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161853id_/http%3A//www.tutornext.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
