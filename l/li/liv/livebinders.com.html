@@ -1,30 +1,29 @@
-<!--The following is the downloaded HTML source of the livebinders.com privacy policy that was archived on 2010-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100923120221id_/http%3A//livebinders.com/welcome/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the livebinders.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101122917id_/http%3A//livebinders.com/welcome/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
     <title>LiveBinders - the Knowledge Sharing Place</title>
     <meta name="description" content="Organize and share websites in binders">
   
   <meta name="verify-v1" content="EM9U9F1W8A1pI9s4L1sbEwOX1+hLq9I2s13+7um4GJ4=">
-  <link href="/stylesheets/shelf.css?1284758163" media="all" rel="stylesheet" type="text/css">
-  <link href="/stylesheets/filetree.css?1284758163" media="all" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/shelf.css?1319854372" media="all" rel="stylesheet" type="text/css">
+  <link href="/stylesheets/filetree.css?1319854372" media="all" rel="stylesheet" type="text/css">
 
-  <script src="/javascripts/prototype.js?1284758163" type="text/javascript"></script>
-  <script src="/javascripts/extern/jquery.js?1284758163" type="text/javascript"></script>
-<script src="/javascripts/extern/filetree.js?1284758163" type="text/javascript"></script>
-  <script src="/javascripts/effects.js?1284758163" type="text/javascript"></script>
-  <script src="/javascripts/lib/utils.js?1284758163" type="text/javascript"></script>
-<script src="/javascripts/lib/dialog.js?1284758163" type="text/javascript"></script>
+  <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/prototype.js?1319854372" type="text/javascript"></script>
+  <script src="/javascripts/extern/jquery.js?1319854372" type="text/javascript"></script>
+<script src="/javascripts/extern/filetree.js?1319854372" type="text/javascript"></script>
+  <script src="/javascripts/effects.js?1319854372" type="text/javascript"></script>
+  <script src="/javascripts/lib/utils.js?1319854372" type="text/javascript"></script>
+<script src="/javascripts/lib/dialog.js?1319854372" type="text/javascript"></script>
   
   <link rel="shortcut icon" href="/favicon.ico">
-
 </head>
 <body>
 
   <div align="center">
-    <div class="layout-table">
+    <div style="width:80%;min-width:850px">
       <div class="layout-img"><a href="/"><img src="/images/logo.gif" alt="LiveBinders Beta" border="0"></a>
 	<div class="layout-nav">
 	<div class="login">
@@ -37,30 +36,33 @@
 </div>
 <div class="search-form">
 	<form action="/shelf/search" method="post">
+		<label for="terms">Search for:</label>
 		<input id="terms" name="terms" size="30" type="text">
-	<select id="search_type" name="search[type]"><option value="2">My Binders</option>
-<option value="1">Author</option>
-<option value="0" selected="selected">Featured Binders</option></select>
+		<label for="type">in:</label>
+	<select id="search_type" name="search[type]"><option value="0" selected="selected">All Public Binders</option>
+<option value="2">My Binders</option>
+<option value="3">Education Category</option>
+<option value="1">Author</option></select>
 	<input name="commit" type="submit" value="Search">
 	</form>
 </div>
 <div id="login" class="modal-window">
-<div id="modal-window-background">
-</div>
-<div id="modal-window-login-content">
-<div id="close-modal-window">
-	<a href="#" onclick="hideWindow();; ; return false;">Close Window</a> 
-</div>
-<p>Already a Member? Login here:</p>
+	<div id="modal-window-background">
+	</div>
+	<div id="modal-window-login-content">
+		<div id="close-modal-window">
+			<a href="#" onclick="hideWindow();; ; return false;">Close Window</a> 
+		</div>
+		<p>Already a Member? Login here:</p>
 
 <form action="/login/login" method="post">
 <table align="center" style="font-size:11px">
 	<tbody><tr>
-		<td align="right"><strong>User Name:</strong></td>
+		<td align="right"><strong><label for="name">User Name:</label></strong></td>
 		<td><input id="user_name" name="user[name]" size="20" type="text"></td>
 	</tr>
 	<tr>
-		<td align="right"><strong>Password:</strong></td>
+		<td align="right"><strong><label for="password">Password:</label></strong></td>
 		<td><input id="user_password" name="user[password]" size="20" type="password"></td>
 	</tr>	
 	<tr>
@@ -72,14 +74,17 @@
 	<tbody><tr>
 		<td><p>Forgot your password? <a href="/login/retrieve_pswd">Click here.</a></p></td>
 	</tr>	
-        <tr>
+      <!--  <tr>
           
-        </tr>
+        </tr> -->
 </tbody></table>
 </form>
 
+	</div>
 </div>
-</div>
+
+
+
 
 
       <div class="clear-floats"> </div> 
@@ -89,7 +94,22 @@
 
 <!-- Image above tabs -->
   
-	<a href="http://www.learncentral.org/node/102049" target="_blank"><img src="/images/top_image/21st_century_teaching.gif" border="0" width="628" height="76" alt="Join us for a podcast on 21st Century Teaching"></a>
+    
+		<a href="http://livebinders.wordpress.com/2011/07/14/create-your-own-binder-collections/" target="_blank">
+		<img src="/images/top_image/announce_shelves.gif" border="0" alt="See the top 10 LiveBinders winners" style="margin-top:-10px"></a>
+
+	
+	
+	
+	<!--	<a href="http://livebinders.wordpress.com/?p=818" target="_blank">
+			<img src="/images/top_image/collaboration.gif" border="0" alt="LiveBinders announces collaboration" /></a> -->
+	
+		<!-- <img src="/images/top_image/complicated.gif" border="0" alt="Knowledge doesn't have to be complicated" /> -->
+	
+		<!-- <img src="/images/top_image/1000_links.gif" border="0" alt="The journey of a 1000 links begins with a single binder" /> -->
+		
+
+
   
 </div>
 <div class="clear-floats"> </div>
@@ -97,33 +117,38 @@
 <!-- Tab Layouts -->
 <div class="my-tab-contentS">
   
-    <a href="/"><img alt="Go Home" border="0" src="/images/home_off.gif?1284758163"></a>
+    <a href="/"><img alt="About Binders" border="0" src="/images/about_binders_off.gif?1319854372"></a>
   
   
-    <a href="/welcome"><img alt="Go to Public Binders" border="0" src="/images/featured_binders_off.gif?1284758163"></a>
+    <a href="/welcome"><img alt="Go to Public Binders" border="0" src="/images/featured_binders_off.gif?1319854372"></a>
   
   
-    <a href="/shelf"><img alt="Go to My Binders" border="0" src="/images/my_binders_off.gif?1284758163"></a>
+    <a href="/shelf"><img alt="Go to My Shelves" border="0" src="/images/my_shelves_off.gif?1319854372"></a>
   
   
-    <a href="/create/bookmark?type=bookmark"><img alt="Go to Create Binder" border="0" src="/images/create_binder_off.gif?1284758163"></a> 
-  				
+    <a href="/create?type=bookmark"><img alt="Go to Create Binder" border="0" src="/images/create_binder_off.gif?1319854372"></a> 
+  	
+  
+    <a href="/create/bookmark?type=bookmark"><img alt="LiveBinder It Bookmarking Tool" border="0" src="/images/livebinder_it_off.gif?1319854372"></a> 
+  			
 </div>		
-<div class="ie-fix">&nbsp;</div>
-		</div> <!-- ? -->
 <div class="clear-floats"> </div> 
-	<div class="my-sub-tab"><span class="my-sub-tab-left">&nbsp;</span>
+<!-- subtabs -->
+<div class="my-sub-tab-bar">
+	<div class="my-sub-tab-left"> </div>
+	<div class="my-sub-tab">
+
 		
 			&nbsp;
 		
-		
-			<span class="my-sub-tab-right">&nbsp;</span>
-		
 	</div>
+	<div class="my-sub-tab-right"> </div>
+	</div>
+	<div class="clear-floats"> </div>
    	<div class="content-container">			
 					
-		<div class="text-container">
-<div class="full-text">
+		<div class="text-container-new">
+<div class="text-insert">
 	<h3>Privacy Policy</h3>
 
 <font size="-1">
@@ -283,32 +308,62 @@ San Francisco, CA 94127(USA)
 </div>
 
 	</div>
-		</div><!-- ? -->
+	<div class="clear-floats"> </div>
 	<div class="layout-footer">
 		<hr>
 		<br>
 <a href="/welcome/about">About</a> | 
+<a href="/welcome/podcast">Webinars</a> |
 <a href="mailto:feedback@livebinders.com?subject=LiveBinders Feedback" title="send email message">Feedback</a> |  
 <a href="http://livebinders.wordpress.com/">Blog</a> | 
 <a href="/create/bookmark?type=bookmark">Bookmark Tool</a> |
 <a href="/welcome/terms">Terms of Use</a> |
 <a href="/welcome/privacy">Privacy</a> | <a href="mailto:info@livebinders.com">Contact Us</a>
 <br><br>
-<span style="font-size: 87%;">Copyright © 2006-2010 LiveBinders, Inc.</span>
+<span style="font-size: 87%;">Copyright © 2006-2011 LiveBinders, Inc.</span>
 <br>
 <span>
 <a href="http://www.thumbshots.com" style="font-size:10px" target="_blank" title="Thumbnails by Thumbshots.com">Thumbnails by Thumbshots.com</a>
 </span>
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-1741032-1");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1741032-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
 	</div>
+	
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-b9EXPOaUNuqMg"
+	});
+</script>
+
+	<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-b9EXPOaUNuqMg.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+	</noscript>
+	<!-- End Quantcast tag -->
 
 
-</body></html>
+</div></div></body></html>
