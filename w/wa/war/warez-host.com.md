@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warez-host.com privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201093946id_/http%3A//www.warez-host.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warez-host.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163100id_/http%3A//warez-host.com/privacy.php) for the most accurate reproduction.*
 
 # Warez-Host.Com - Privacy Policy - Offshore Hosting Services
 
