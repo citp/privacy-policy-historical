@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jambool.com privacy policy that was archived on 2010-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100727154206id_/http%3A//www.jambool.com/socialgold/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jambool.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101112755id_/http%3A//www.jambool.com/socialgold/privacy) for the most accurate reproduction.*
 
 # In-Game Payments, Virtual Currency and Subscriptions | Social Gold by Jambool
 
@@ -6,7 +6,9 @@
 
 Privacy Policy for Jambool Inc. (dba Social Gold)
 
-(Last Updated: October 20, 2009)
+(Last Updated: October 7, 2010)
+
+On August 13, 2010, Jambool Inc was acquired by Google Inc.
 
 This privacy policy (“Policy”) explains how we collect personally identifiable information in connection with our provision of the Social Gold payment service (“Information”) and how we disclose and protect that Information. Your use of the Social Gold payment service (“Service”) indicates your consent to the practices described in this Policy. 
 
@@ -52,6 +54,10 @@ We may use “web beacons.” Web beacons (also known as Internet tags, pixel ta
 Children
 
 Our Service is not intended to be used by children under the age of 13, and we do not knowingly collect Information from children under the age of 13.
+
+Safe Harbor
+
+Google and its subsidiaries adhere to the U.S. safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement, and are registered with the [U.S. Department of Commerce safe harbor program](http://www.export.gov/safeharbor).
 
 Contacting Us
 
