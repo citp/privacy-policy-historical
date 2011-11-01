@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listfree.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610205825id_/http%3A//www.listfree.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listfree.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235130id_/http%3A//www.listfree.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ListFree.org
 
@@ -54,7 +54,7 @@ Please note: It might be necessary to send out an e-mail to you regarding a serv
 We store all user information in secure databases protected through a variety of access controls. We have implemented industry standard firewall protection and password to protect all of the Company’s databases that contain your information. This data is accessed only for the purposes specified in the privacy policy. While we cannot guarantee that loss, misuse or alteration of data will not occur; the Company has established safeguards to help prevent such unfortunate occurrences.
 
 **IP ADDRESS**  
-Your Internet Protocol (’IP’) address is collected from all users because this information is automatically reported by your browser each time you view a web page. Your IP address is usually associated with the place from which you enter the Internet, which could be your Internet Service Provider. We may use your IP address to help diagnose problems with our server, gather broad demographic information, estimate the number of people using the Site, track your movement within our Site, or for administrative purposes. Your IP address is not linked to personally identifiable information.
+Your Internet Protocol (‘IP’) address is collected from all users because this information is automatically reported by your browser each time you view a web page. Your IP address is usually associated with the place from which you enter the Internet, which could be your Internet Service Provider. We may use your IP address to help diagnose problems with our server, gather broad demographic information, estimate the number of people using the Site, track your movement within our Site, or for administrative purposes. Your IP address is not linked to personally identifiable information.
 
 **COOKIES/CLEAR GIFS**  
 The Company uses ‘cookies’, which are pieces of data sent to your browser from the Site and then stored on your computer. Cookies benefit the user by requiring login only once, thereby saving time while on the Site. Cookies are also used to estimate and report total audience size and traffic, keep track of what pages are viewed and allow you access to certain areas on the Site.
