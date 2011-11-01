@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2007-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071210021152id_/http%3A//www.imediaconnection.com/global/5882.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediaconnection.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160100id_/http%3A//www.imediaconnection.com/Privacy.aspx) for the most accurate reproduction.*
 
-# iMedia Connection: Privacy Policy
+# Privacy Policy - iMediaConnection.com
 
-**Privacy policy**  
 This privacy policy applies to all brands and services within the iMedia Communications, Inc. family. 
 
 **Overall privacy statement**  
