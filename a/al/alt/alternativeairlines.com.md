@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106153931id_/http%3A//www.alternativeairlines.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alternativeairlines.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232607id_/http%3A//www.alternativeairlines.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | alternativeairlines.com
 
 We have created this privacy statement in order to demonstrate our firm commitment to confidentiality. All information remains with Flightdirectors.com Ltd (trading as "Alternative Airlines") and/or its affiliated company Flight Directors Scheduled Services Ltd and is not passed on to any other company.
 
