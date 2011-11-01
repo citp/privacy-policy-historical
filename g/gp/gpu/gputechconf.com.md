@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630010211id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gputechconf.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001406id_/http%3A//www.nvidia.com/object/privacy_policy.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy
 
 This policy was last updated on July 1, 2009.
 
-NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including www.nvidia.com, www.slizone.com, and www.nzone.com.
+NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including [www.nvidia.com](http://www.nvidia.com/page/home.html), [www.slizone.com](http://www.slizone.com/), [3DVision Live](http://www.3dvisionlive.com/), [GeForce.com](http://www.geforce.com/), and [GTC](http://www.gputechconf.com/page/home.html).
 
 [[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] for the NVIDIA Kids Privacy Policy.
 
@@ -59,7 +59,7 @@ We take care to protect the privacy of children under the age of 13 who visit ou
 
   6. #### Links to Other Sites
 
-We are not responsible for any content, products or services offered on any third-party websites. Links to third-party websites are provided for your convenience only. This Privacy Policy will not apply to any Personal Information that you provide to, or that is collected by, any third-party website operator. 
+We are not responsible for any content, products or services offered on any third-party websites. Links to third-party websites are provided for your convenience only. This Privacy Policy will not apply to any Personal Information that you provide to, or that is collected by, any third-party website operator or third-party product/service provider.
 
   7. #### Security
 
