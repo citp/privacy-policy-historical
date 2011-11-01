@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the theleadmagnet.com privacy policy that was archived on 2011-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110122152143id_/http%3A//theleadmagnet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theleadmagnet.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125830id_/http%3A//theleadmagnet.com/privacy.php) for the most accurate reproduction.*
 
 # The Lead Magnet - Your No1 Listbuilder
 
-[](http://theleadmagnet.com/bannerclick.php?id=589)  
-
-
-The Lead Magnet Privacy Policy
+**The Lead Magnet Privacy Policy**
 
   
-Welcome to The Lead Magnet (the "Site"). 
+Welcome to The Lead Magnet. 
 
 We understand that privacy online is important to users of our Site, especially when conducting business. This statement governs our privacy policies with respect to those users of the Site ("Visitors") who visit without transacting business and Visitors who register to transact business on the Site and make use of the various services offered by The Lead Magnet (collectively, "Services") ("Authorized Customers"). 
 
@@ -33,10 +30,3 @@ Can a Visitor delete or deactivate Personally Identifiable Information collected
 What happens if the Privacy Policy Changes? We will let our Visitors and Authorized Customers know about changes to our privacy policy by posting such changes on the Site. However, if we are changing our privacy policy in a manner that might cause disclosure of Personally Identifiable Information that a Visitor or Authorized Customer has previously requested not be disclosed, we will contact such Visitor or Authorized Customer to allow such Visitor or Authorized Customer to prevent such disclosure. 
 
 Links: This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
-
-  
-Copyright (c) The Lead Magnet - All Rights Reserved 
-
-[**Log In**](https://web.archive.org/memberlogin.php) | [Terms and Conditions](https://web.archive.org/terms.php) | [Earnings Disclaimer](https://web.archive.org/earnings.php) | [ Spam Policy](https://web.archive.org/spam.php) | [ Privacy Policy](https://web.archive.org/privacy.php) | [ Recommended Sites](https://web.archive.org/recommends.php)
-
-[**Vote for The Lead Magnet _Every Day_ at SafelistRankings.com!**](http://www.leadpaging.com/cgi-bin/ars/gateway.pl?member=stefanberg "safelists rankings")
