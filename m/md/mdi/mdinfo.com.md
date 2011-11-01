@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdinfo.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227111925id_/http%3A//www.mdinfo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdinfo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101153008id_/http%3A//www.mdinfo.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | MDInfo
 
