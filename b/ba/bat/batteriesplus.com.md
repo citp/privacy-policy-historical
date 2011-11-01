@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2010-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100722110517id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batteriesplus.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002130id_/http%3A//www.batteriesplus.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for BatteriesPlus.com
 
@@ -31,7 +31,7 @@ The amount and type of information we collect from you depends on your activitie
 > 
 > When you subscribe to our e-mail newsletter through our web site 
 > 
-> We use your e-mail information to deliver newsletters, company information and promtions. Your e-mail information may be used in conjunction with any purchases you make at BatteriesPlus.com to provide customized offers or promotions.  You may unsubscribe by visiting [www.batteriesplus.com/t-unsubscribeform.aspx](http://www.batteriesplus.com/t-unsubscribeform.aspx) and following the instructions therein. 
+> We use your e-mail information to deliver newsletters, company information and promotions. Your e-mail information may be used in conjunction with any purchases you make at BatteriesPlus.com to provide customized offers or promotions.  You may unsubscribe by visiting [www.batteriesplus.com/t-unsubscribeform.aspx](http://www.batteriesplus.com/t-unsubscribeform.aspx) and following the instructions therein. 
 > 
 > When you e-mail a friend  
 > If you use our site to send something to a friend, we will ask you for the friend’s name and e-mail address. We may automatically send your friend an email inviting him/her to visit the site. We store this information for the sole purpose of sending this one-time, automatically generated email to your friend and to track the success of our referral program. Your friend may visit [www.batteriesplus.com/t-unsubscribeform.aspx](http://www.batteriesplus.com/t-unsubscribeform.aspx) to remove this information from our database.
@@ -79,7 +79,7 @@ You may edit your account information at anytime by signing in to your account a
 
 ##### How can I give you feedback or contact you?
 
-You may contact us through the [Contact Us](https://web.archive.org/web/20100722110517id_/http%3A//www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
+You may contact us through the [Contact Us](http://www.batteriesplus.com/t-contact.aspx) section from our online web site. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. Comments or questions can also be sent to us via postal mail, and we will use reasonable efforts to promptly review and respond as appropriate:
 
 Batteries Plus  
 925 Walnut Ridge Drive  
@@ -87,4 +87,4 @@ Hartland, WI 53029
 
 GP:1934782 v3
 
-Go to top >
+[Go to top >](http://www.batteriesplus.com/#top)
