@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511102813id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northpoint.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005419id_/http%3A//northpointministries.org/privacy) for the most accurate reproduction.*
 
 # North Point Ministries :: Privacy Statement
 
@@ -17,6 +17,10 @@ Personal information that can identify a visitor, such as name, address or conta
 **Our Use Of “Cookies”**
 
 NPM may place an electronic "cookie" in the browser files of a guest's computer. Cookies are pieces of information that a web site transfers to an individual’s computer hard drive for record-keeping purposes. Cookies themselves do not enable us to access any personal information about our visitors; however, they do allow NPM to analyze guests’ use of our sites and to improve the user experience. This analysis helps us better understand which areas of our sites are most useful and popular so we can plan improvements and updates accordingly. NPM does not use cookies to retrieve information from a visitor’s computer that was not originally sent in a cookie.
+
+**Our Use Of Analytics**
+
+NPM may use Google Analytics to help us gather details about usage of our websites. Google Analytics is a web analytics tool that helps website owners understand how visitors engage with their website. Google Analytics collects information anonymously. It reports website trends without identifying individual visitors. For more information please visit <http://www.google.com/intl/en/analytics/privacyoverview.html>.
 
 #### Internet Communication
 
