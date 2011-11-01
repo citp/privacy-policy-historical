@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artviper.net privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615205614id_/http%3A//www.artviper.net/artviper-website-design/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artviper.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004451id_/http%3A//www.artviper.net/artviper-website-design/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - artViper designstudio
 
