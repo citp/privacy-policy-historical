@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the alltrails.com privacy policy that was archived on 2010-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101119081635id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alltrails.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101222604id_/http%3A//alltrails.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+
+
+
 
 <base href="http://alltrails.com">
 <title>Privacy Policy | AllTrails.com</title>
@@ -10,20 +13,23 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="revisit-after" content="3 days">
 <meta name="robots" content="follow,index">
-<meta name="copyright" content="Copyright © 2009-10 AllTrails.com LLC. All rights reserved.">
+<meta name="copyright" content="Copyright © 2010-2011 AllTrails, Inc. All rights reserved.">
 <meta name="title" content="Privacy Policy | AllTrails.com">
 <meta name="description" content="">
 <meta name="keywords" content="trails, trail maps, topo maps, hiking trails, mountain bike trails, day hikes, backpacking, camping, mountain biking, bike trails, national parks, rails-to-trails, appalachian trail, pacific crest trail">
 
 <!-- trails, trail maps, topo maps, hiking trails, mountain bike trails, day hikes, backpacking, camping, mountain biking, bike trails, national parks, rails-to-trails, appalachian trail, pacific crest trail -->
 
-<script type="text/javascript">var plstart = new Date();var _sf_startpt=(new Date()).getTime();</script>
+<script src="https://static.woopra.com/js/woopra.js" type="text/javascript" async=""></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">var plstart = new Date();var _sf_startpt=(new Date()).getTime();</script>
 <link href="http://static.alltrails.com/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-<link href="http://static.alltrails.com/css/all.css?v=101" rel="stylesheet" type="text/css">
-<!--[if lt IE 9]><link href="http://static.alltrails.com/css/ie.css?v=101" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="http://static.alltrails.com/css/all.css?v=102" rel="stylesheet" type="text/css">
+<!--[if lt IE 9]><link href="http://static.alltrails.com/css/ie.css?v=102" rel="stylesheet" type="text/css" /><![endif]-->
+<style type="text/css" media="screen">.tooltips{overflow:auto;}.tooltips a{display:block;float:left;}</style> 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi"></script>
+<script type="text/javascript">google.load("jquery","1");google.load("jqueryui","1");</script>
+
+
 <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery.validate/1.5.5/jquery.validate.min.js"></script>
 
 <script type="text/javascript">
@@ -41,20 +47,25 @@ try {
 } catch(err) {}
 </script>
 
-<script type="text/javascript" src="http://static.alltrails.com/js/main.js"></script>
+
+
+
+<script type="text/javascript" src="http://static.alltrails.com/js/main2.js"></script>
 <script type="text/javascript">
   $(document).ready(function() {  
 	$('.numeric').numeric();
 	$('.decimal').numeric({allow:"."});
 	$('.ndecimal').numeric({allow:".-"});
 	$('textarea.expanding').autogrow({maxHeight:500,lineHeight:14});
+	$('.tooltips a').tipsy({fade: false, gravity: 'sw'});
 	$('#disable-submit :input').change(function(){ if(setConfirmExit) { setConfirmExit(true); } });
 	$('#disable-submit').submit(function(){$('input[type=submit]',this).attr('disabled','disabled');window.onbeforeunload=null;});
+	$('<img />').attr('src','http://static.alltrails.com/images/bg-input-submit-hover.gif').load(function(){$('.profile').append($(this));});
 	$('.hover-star').rating({focus:function(value,link){var tip=$('#rating-text');tip[0].data=tip[0].data||tip.html();tip.html(link.title||'value:'+value);},blur:function(value,link){var tip=$('#rating-text');$('#rating-text').html(tip[0].data||'');}});
-  	$("a.showForgot").click(function(){$("div.loginBox").hide();$("div.forgotBox").show();});
-  	$("a.showLogin").click(function(){$("div.forgotBox").hide();$("div.loginBox").show();});
-  	$("a.showForgotPage").click(function(){$("div.loginPage").hide();$("div.forgotPage").show();$("tr.loginHelp").hide();$("tr.forgotHelp").show();});
-  	$("a.showLoginPage").click(function(){$("div.forgotPage").hide();$("div.loginPage").show();$("tr.forgotHelp").hide();$("tr.loginHelp").show();});
+  	$("a.showReset").click(function(){$("div.loginBox").hide();$("div.resetBox").show();});
+  	$("a.showLogin").click(function(){$("div.resetBox").hide();$("div.loginBox").show();});
+  	$("a.showResetPage").click(function(){$("div.loginPage").hide();$("div.resetPage").show();$("tr.loginHelp").hide();$("tr.resetHelp").show();});
+  	$("a.showLoginPage").click(function(){$("div.resetPage").hide();$("div.loginPage").show();$("tr.resetHelp").hide();$("tr.loginHelp").show();});
   });
 </script>
 
@@ -67,9 +78,37 @@ if (top != self) { top.location = self.location }
 
 
 
-</head>
+<script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script></head>
 
 <body>
+
+
+
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+  	FB.init({appId:'18128749820',channelUrl:'http://alltrails.com/channel.html',status:true,cookie:true,oauth:true,xfbml:true});
+
+	FB.Event.subscribe('auth.login', function(response) {
+		// alert('login detected');
+		if (response.authResponse) {
+			// alert('auto-login initiated');
+  			create_facebook_cookie(response); 
+      		window.location = '/login/facebook';
+      	}
+
+    });
+  };
+
+  (function(d){
+     var js, id = 'facebook-jssdk'; if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/en_US/all.js";
+     d.getElementsByTagName('head')[0].appendChild(js);
+   }(document));
+</script>
+<script type="text/javascript" src="http://static.alltrails.com/js/fbgraph4.js"></script>
+
 
 	<!--MainStart-->
 	<div id="main">
@@ -77,8 +116,13 @@ if (top != self) { top.location = self.location }
 		<div id="header">
 			<div class="top-bg">
 				<div class="holder">
+					<ul class="top-menu" style="float:left;">
+						
+						
+					</ul>
 					<ul class="top-menu">
-						<li><a href="#TB_inline?height=225&amp;width=600&amp;inlineId=loginArea&amp;modal=" onclick="return false;" title="Member Login" class="thickbox">Login now</a></li>
+						<li><a href="#TB_inline?height=230&amp;width=600&amp;inlineId=loginArea&amp;modal=" onclick="return false;" title="Member Login" class="thickbox">Login now</a></li>
+						
 						
 						<li><a href="register" title="Register" onclick="pageTracker._trackEvent('Register Prompt','Header','Register for an account');">Register for an account</a></li>
 						<li><a href="help" title="Visit our Help Center">Help</a></li>
@@ -96,7 +140,7 @@ if (top != self) { top.location = self.location }
 				<form action="login" method="POST">
 				<input type="hidden" name="login" value="1">
 				<center><table width="400" cellspacing="10" cellpadding="0" border="0">
-				<tbody><tr><td colspan="2"><table width="380" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="200" class="title"><h2>Login Using Facebook</h2></td><td width="200" align="left"><fb:login-button size="medium" background="light" length="short" onlogin="facebook_login();"></fb:login-button></td></tr></tbody></table></td></tr>
+				<tbody><tr><td colspan="2"><table width="380" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td width="200" class="title"><h2>Login Using Facebook</h2></td><td width="200" align="left"><a href="#" onclick="facebook_login();return false;"><img src="http://static.alltrails.com/images/fb-login-small.gif" height="22" width="71" border="0"></a></td></tr></tbody></table></td></tr>
 				<tr><td colspan="2"><div class="hr"></div></td></tr>
 				<tr><td colspan="2" class="title"><h2>Didn't register using Facebook? Login below:</h2></td></tr>
 				<tr><td width="100" align="left"><label>Email</label></td><td width="300" align="left"><input type="text" name="email" value="" style="width:200px;"></td></tr>
@@ -109,26 +153,26 @@ if (top != self) { top.location = self.location }
 				<center><table width="170" cellspacing="10" cellpadding="0" border="0">
 				<tbody><tr><td class="title"><h2>Help</h2></td></tr>
 				<tr><td align="left">Not yet a member?<br><a href="register">click here to register</a></td></tr>
-				<tr><td align="left">Forgot your password?<br><a href="#" onclick="return false;" class="showForgot">click here to retrieve it</a></td></tr>
+				<tr><td align="left">Forgot your password?<br><a href="#" onclick="return false;" class="showReset">click here to reset it</a></td></tr>
 				<tr><td></td></tr>
 				</tbody></table></center>
 			</td>
 		</tr>
 	</tbody></table></center>
 	</div>	
-	<div class="forgotBox" style="display:none;">
+	<div class="resetBox" style="display:none;">
 	<center><table width="570" cellspacing="0" cellpadding="0" border="0">
 		<tbody><tr><td width="400" height="10"></td><td width="170"></td></tr>
 		<tr>
 			<td valign="top">
 				<form action="login" method="POST">
-				<input type="hidden" name="forgot" value="1">
+				<input type="hidden" name="reset" value="1">
 				<center><table width="400" cellspacing="10" cellpadding="0" border="0">
-				<tbody><tr><td class="title"><h2>Enter your email to retrieve your password</h2></td></tr>
+				<tbody><tr><td class="title"><h2>Enter your email to reset your password</h2></td></tr>
 				<tr><td align="left"><input type="text" name="email" value="" style="width:300px;"></td></tr>
 				<tr><td align="left"><input type="submit" value="Get Password"></td></tr>
 				<tr><td><div class="hr"></div></td></tr>
-				<tr><td align="left">Haven't received your password via email yet?<br>Have you checked your spam folder?<br>If you still haven't received it after 5-10 minutes <a href="#" onclick="if(GSFN) {feedback_widget.feedback_url='http://getsatisfaction.com/alltrails/feedback/topics/new?style=problem';tb_remove();feedback_widget.show();return false;}" rel="nofollow">contact us</a>.</td></tr>
+				<tr><td align="left">Haven't received your password reset email yet?<br>Have you checked your spam folder?<br>If you still haven't received it after 5-10 minutes <a href="#" onclick="if(GSFN) {feedback_widget.feedback_url='http://getsatisfaction.com/alltrails/feedback/topics/new?style=problem';tb_remove();feedback_widget.show();return false;}" rel="nofollow">contact us</a>.</td></tr>
 				</tbody></table></center>
 				</form>
 			</td>
@@ -151,7 +195,7 @@ if (top != self) { top.location = self.location }
 					<div class="search-form">
 						<form action="trails" method="POST">
 							<fieldset>
-								<div><input type="text" onfocus="if(this.value == 'Enter keywords') {this.value = '';this.style.color='#000000';}" onblur="if(this.value == '') {this.value = 'Enter keywords';this.style.color='#ADADAD';}" value="Enter keywords" name="q" class="text"><input type="image" src="http://static.alltrails.com/images/btn-search-slim.gif"></div>
+								<div><input type="text" onfocus="if(this.value == 'Enter keywords') {this.value = '';this.style.color='#000000';}" onblur="if(this.value == '') {this.value = 'Enter keywords';this.style.color='#ADADAD';}" value="Enter keywords" name="q" maxlength="50" class="text"><input type="image" src="http://static.alltrails.com/images/btn-search-slim.gif"></div>
 								<span class="example">i.e. hiking, waterfalls, Seattle, 98104, Snow Lake Trail</span><span class="advanced"><a href="search/advanced">advanced</a></span>
 							</fieldset>
 						</form>
@@ -165,6 +209,7 @@ if (top != self) { top.location = self.location }
 						<ul class="navigation">
 							
 							<li><a href="/" title="AllTrails Homepage">Home</a></li>
+							
 							<li>
 								<a href="trails" title="Trail Finder">Trail Finder</a>
 								<ul>
@@ -183,9 +228,10 @@ if (top != self) { top.location = self.location }
 							<li><a href="members" title="Member Directory">Members</a></li>
 							<li><a href="groups" title="Outdoor Groups">Groups</a></li>
 							<li><a href="events" title="Outdoor Events">Events</a></li>
+							<li><a href="advice" title="Advice Articles">Advice</a></li>
 						</ul>
 						<ul class="user_location">
-							<li><a href="location/change?TB_iframe=true&amp;height=300&amp;width=400&amp;modal=" onclick="return false;" title="Location Information" class="thickbox" rel="nofollow">San Francisco, CA</a></li>
+							<li><a href="location/change?TB_iframe=true&amp;height=300&amp;width=400&amp;modal=" onclick="return false;" title="Location Information" class="thickbox" rel="nofollow">Seattle, WA</a></li>
 						
 						</ul>
 					</div>
@@ -273,6 +319,7 @@ if (top != self) { top.location = self.location }
 
 			<!--Bottom-promoStart-->
 			<div id="bottom-promo">
+			
 				<div class="left">
 					<a href="trails" title="Trail Finder" onclick="pageTracker._trackEvent('Footer Action','Featured Area','Check Out Trail Finder');">Check Out Trail Finder</a>
 					<span>Yes, there are more trails! Find one that is perfect for you.</span>
@@ -280,7 +327,8 @@ if (top != self) { top.location = self.location }
 				<div class="right">
 					<a href="register" title="Register" onclick="pageTracker._trackEvent('Register Prompt','Footer','Sign Up Today');">Sign Up Today</a><span>Register today to get trail recommendations &amp; much more!</span>
 				</div>
-			</div>
+			
+			</div>			
 			<!--Bottom-promoEnd-->
 		</div>
 	</div>
@@ -289,16 +337,103 @@ if (top != self) { top.location = self.location }
 		<div class="ad-holder">
 			<div class="holder">
 				<div class="ad">
-				<!--/* OpenX iFrame Tag v2.8.2-rc25 */-->
-				<iframe id="a8b67710" name="a8b67710" src="http://d1.openx.org/afr.php?zoneid=72387&amp;target=_blank&amp;cb=94910442" framespacing="0" frameborder="no" scrolling="no" width="728" height="90" allowtransparency="true"><a href='http://d1.openx.org/ck.php?n=a4d34aa7&amp;cb=94910442' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=72387&amp;cb=94910442&amp;n=a4d34aa7' border='0' alt='' /></a></iframe>	
+				
+				<!--/* OpenX Javascript Tag v2.8.6-rc2 (Rich Media - Doubleclick) */-->
+				<script type="text/javascript"><!--//<![CDATA[
+				   document.MAX_ct0 ='%c';
+				   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+				   var m3_r = Math.floor(Math.random()*99999999999);
+				   if (!document.MAX_used) document.MAX_used = ',';
+				   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+				   document.write ("?zoneid=72387&amp;target=_blank&amp;site=alltrails.com&amp;page=privacy&amp;member=0");
+				   document.write ('&amp;cb=' + m3_r);
+				   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+				   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+				   document.write ("&amp;loc=" + escape(window.location));
+				   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+				   if (document.context) document.write ("&context=" + escape(document.context));
+				   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+				       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+				   }
+				   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+				   document.write ("'><\/scr"+"ipt>");
+				//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?zoneid=72387&amp;target=_blank&amp;site=alltrails.com&amp;page=privacy&amp;member=0&amp;cb=87695930405&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20111101222604id_/http%253A//alltrails.com/privacy"></script><noscript><a href='http://d1.openx.org/ck.php?n=a20a9623&amp;cb=%n' target='_blank'><img src='http://d1.openx.org/avw.php?zoneid=72387&amp;site=alltrails.com&amp;page=privacy&amp;member=0&amp;cb=%n&amp;n=a20a9623&amp;ct0=%c' height='90' width='728' border='0' alt='' /></a></noscript>
+				
 				</div>
 			</div>
 		</div>		
 		<div class="holder">
-			<p><a href="about" title="About AllTrails" onclick="pageTracker._trackEvent('Footer Action','Company Links','About');">About</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="advertise" title="Advertise on AllTrails" onclick="pageTracker._trackEvent('Footer Action','Company Links','Advertise');">Advertise</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="blog" title="AllTrails Explorer Blog" onclick="pageTracker._trackEvent('Footer Action','Company Links','Blog');">Blog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="help" title="Help Center" onclick="pageTracker._trackEvent('Footer Action','Company Links','Help');">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="partners" title="Become A Partner" onclick="pageTracker._trackEvent('Footer Action','Company Links','Partners');">Partners</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="privacy" title="Privacy Policy" onclick="pageTracker._trackEvent('Footer Action','Company Links','Privacy Policy');">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="terms" title="Terms of Use" onclick="pageTracker._trackEvent('Footer Action','Company Links','Terms of Use');">Terms of Use</a></p>
-			<p>Copyright © 2008-2010 AllTrails, Inc. All rights reserved.
-			</p><p><b>Trail Directory</b> | <a href="us/georgia/atlanta" title="Atlanta Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Atlanta Trails');">Atlanta Trails</a> | <a href="us/texas/austin" title="Austin Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','austin="" trails');"="">Austin Trails</a> | <a href="us/massachusetts/boston" title="Boston Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','boston="" trails');"="">Boston Trails</a> | <a href="us/illinois/chicago" title="Chicago Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','chicago="" trails');"="">Chicago Trails</a> | <a href="us/texas/dallas" title="Dallas Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','dallas="" trails');"="">Dallas Trails</a> | <a href="us/washington-dc" title="DC Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','dc="" trails');"="">DC Trails</a> | <a href="us/colorado/denver" title="Denver Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','denver="" trails');"="">Denver Trails</a><br><a href="us/texas/houston" title="Houston Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','houston="" trails');"="">Houston Trails</a> | <a href="us/california/los-angeles" title="LA Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','los="" angeles="" trails');"="">Los Angeles Trails</a> | <a href="us/nevada/las-vegas" title="Vegas Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','las="" vegas="" trails');"="">Las Vegas Trails</a> | <a href="us/florida/miami" title="Miami Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','miami="" trails');"="">Miami Trails</a> | <a href="us/new-york/new-york" title="New York Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','new="" york="" trails');"="">New York Trails</a> | <a href="us/pennsylvania/philadelphia" title="Philadelphia Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','philadelphia="" trails');"="">Philadelphia Trails</a> | <a href="us/arizona/phoenix" title="Phoenix Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','phoenix="" trails');"="">Phoenix Trails</a><br><a href="us/oregon/portland" title="Portland Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','portland="" trails');"="">Portland Trails</a> | <a href="us/california/sacramento" title="Sacramento Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','sacramento="" trails');"="">Sacramento Trails</a> | <a href="us/california/san-diego" title="San Diego Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','san="" diego="" trails');"="">San Diego Trails</a> | <a href="us/california/san-francisco" title="San Francisco Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','san="" francisco="" trails');"="">San Francisco Trails</a> | <a href="us/california/san-jose" title="San Jose Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','san="" jose="" trails');"="">San Jose Trails</a> | <a href="us/washington/seattle" title="Seattle Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','seattle="" trails');"="">Seattle Trails</a> | <a href="us" title="US Trails onclick=" pagetracker._trackevent('footer="" action','footer="" items','more="" us="" trails');"="">More US Trails</a></p>
-			<center><span style="color:#345A07">10.162.30.98 (288)</span></center>
+			<center><table width="975" cellspacing="3" cellpadding="0" border="0" class="left">
+			<tbody><tr><td width="130"><h3>Company</h3></td><td width="10" rowspan="9"></td><td width="680"><h3>Hiking Trail Directory</h3></td><td width="10" rowspan="9"></td> <td width="130"><h3>Stay In Touch</h3></td></tr>
+			<tr>
+				<td><a href="about" title="About AllTrails" onclick="pageTracker._trackEvent('Footer Action','Company Links','About');">About</a></td>
+				<td rowspan="8" valign="top"><table width="680" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
+
+					<td width="170"><a href="us/georgia/atlanta" title="Atlanta Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Atlanta Hiking Trails');">Atlanta Hiking Trails</a></td>
+					<td width="170"><a href="us/texas/austin" title="Austin Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Austin Hiking Trails');">Austin Hiking Trails</a></td>
+					<td width="170"><a href="us/massachusetts/boston" title="Boston Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Boston Hiking Trails');">Boston Hiking Trails</a></td>
+					<td width="170"><a href="us/illinois/chicago" title="Chicago Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Chicago Hiking Trails');">Chicago Hiking Trails</a></td>
+				</tr>
+				<tr><td colspan="4" height="3"></td>
+				</tr><tr>
+					<td><a href="us/texas/dallas" title="Dallas Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Dallas Hiking Trails');">Dallas Hiking Trails</a></td>
+					<td><a href="us/washington-dc" title="DC Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','DC Hiking Trails');">DC Hiking Trails</a></td>
+					<td><a href="us/colorado/denver" title="Denver Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Denver Hiking Trails');">Denver Hiking Trails</a></td>
+					<td><a href="us/texas/houston" title="Houston Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Houston Hiking Trails');">Houston Hiking Trails</a></td>
+				</tr>
+				<tr><td colspan="4" height="3"></td>
+				</tr><tr>
+					<td><a href="us/california/los-angeles" title="LA Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Los Angeles Hiking Trails');">Los Angeles Hiking Trails</a></td>
+					<td><a href="us/nevada/las-vegas" title="Vegas Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Las Vegas Hiking Trails');">Las Vegas Hiking Trails</a></td>
+					<td><a href="us/florida/miami" title="Miami Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Miami Hiking Trails');">Miami Hiking Trails</a></td>
+					<td><a href="us/new-york/new-york" title="New York Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','New York Hiking Trails');">New York Hiking Trails</a></td>
+				</tr>
+				<tr><td colspan="4" height="3"></td>
+				</tr><tr>
+					<td><a href="us/pennsylvania/philadelphia" title="Philadelphia Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Philadelphia Hiking Trails');">Philadelphia Hiking Trails</a></td>
+					<td><a href="us/arizona/phoenix" title="Phoenix Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Phoenix Hiking Trails');">Phoenix Hiking Trails</a></td>
+					<td><a href="us/oregon/portland" title="Portland Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Portland Hiking Trails');">Portland Hiking Trails</a></td>
+					<td><a href="us/california/sacramento" title="Sacramento Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Sacramento Hiking Trails');">Sacramento Hiking Trails</a></td>
+				</tr>
+				<tr><td colspan="4" height="3"></td>
+				</tr><tr>
+					<td><a href="us/california/san-diego" title="San Diego Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','San Diego Hiking Trails');">San Diego Hiking Trails</a></td>
+					<td><a href="us/california/san-francisco" title="San Francisco Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','San Francisco Hiking Trails');">San Francisco Hiking Trails</a></td>
+					<td><a href="us/california/san-jose" title="San Jose Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','San Jose Hiking Trails');">San Jose Hiking Trails</a></td>
+					<td><a href="us/washington/seattle" title="Seattle Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Seattle Hiking Trails');">Seattle Hiking Trails</a></td>
+				</tr>
+				<tr><td colspan="4" height="3"></td>
+				</tr><tr><td>&nbsp;</td><td></td><td></td><td></td></tr>
+				<tr><td colspan="4" height="3"></td>
+				</tr><tr>
+					<td><a href="canada/alberta/calgary" title="Calgary Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Calgary Hiking Trails');">Calgary Hiking Trails</a></td>
+					<td><a href="canada/nova-scotia/halifax" title="Halifax Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Halifax Hiking Trails');">Halifax Hiking Trails</a></td>
+					<td><a href="canada/quebec/montreal" title="Montreal Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Montreal Hiking Trails');">Montreal Hiking Trails</a></td>
+					<td><a href="canada/ontario/ottawa" title="Ottawa Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Ottawa Hiking Trails');">Ottawa Hiking Trails</a></td>
+				</tr>
+				<tr><td colspan="4" height="3"></td>
+				</tr><tr>
+					<td><a href="canada/quebec/levis" title="Quebec City Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Quebec City Hiking Trails');">Quebec City Hiking Trails</a></td>
+					<td><a href="canada/ontario/toronto" title="Toronto Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Toronto Hiking Trails');">Toronto Hiking Trails</a></td>
+					<td><a href="canada/british-columbia/vancouver" title="Vancouver Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Vancouver Hiking Trails');">Vancouver Hiking Trails</a></td>
+					<td><a href="canada/british-columbia/victoria" title="Victoria Hiking Trails" onclick="pageTracker._trackEvent('Footer Action','Footer Items','Victoria Hiking Trails');">Victoria Hiking Trails</a></td>
+				</tr>
+				</tbody></table></td>
+				<td rowspan="8" valign="top">
+					<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td><a href="http://www.facebook.com/AllTrails" title="AllTrails on Facebook" class="btn-facebook" onclick="pageTracker._trackEvent('Footer Action','Staying In Touch','Facebook Button');">Facebook</a><a href="http://www.twitter.com/AllTrails" title="AllTrails on Twitter" class="btn-twitter" onclick="pageTracker._trackEvent('Footer Action','Staying In Touch','Twitter Button');">Twitter</a><a href="http://alltrails.com/blog/" title="AllTrails Blog" class="btn-rss" onclick="pageTracker._trackEvent('Footer Action','Staying In Touch','Blog Button');">Blog</a></td></tr><tr><td><a href="http://itunes.apple.com/us/app/alltrails/id405075943?mt=8" title="AllTrails for iPhone" class="btn-iphone" onclick="pageTracker._trackEvent('Footer Action','Staying In Touch','AppStore Image');">iPhone</a></td></tr><tr><td><a href="https://market.android.com/details?id=com.alltrails.alltrails" title="AllTrails for Android" class="btn-android" onclick="pageTracker._trackEvent('Footer Action','Staying In Touch','Market Image');">Android</a></td></tr></tbody></table>
+				</td>
+			</tr>
+			<tr><td><a href="advertise" title="Advertise" onclick="pageTracker._trackEvent('Footer Action','Company Links','Advertise');">Advertise</a></td></tr>
+			<tr><td><a href="jobs" title="Job Opportunities" onclick="pageTracker._trackEvent('Footer Action','Company Links','Jobs');">Jobs</a></td></tr>
+			<tr><td><a href="network" title="AllTrails Content Network" onclick="pageTracker._trackEvent('Footer Action','Company Links','Network');">Network</a></td></tr>
+			<tr><td><a href="partners" title="Become A Partner" onclick="pageTracker._trackEvent('Footer Action','Company Links','Partners');">Partners</a></td></tr>
+			<tr><td>&nbsp;</td></tr>
+			<tr><td><a href="privacy" title="Privacy Policy" onclick="pageTracker._trackEvent('Footer Action','Company Links','Privacy Policy');">Privacy Policy</a></td></tr>
+			<tr><td><a href="terms" title="Terms of Use" onclick="pageTracker._trackEvent('Footer Action','Company Links','Terms of Use');">Terms of Use</a></td></tr>
+			</tbody></table></center>
+
+			<p>Copyright © 2010-2011 AllTrails, Inc. All rights reserved.<br><span style="color:#F0FEDE">10.162.101.144 (318)</span></p>
+			
 		</div>
 	</div>
 	<!--FooterEnd-->
@@ -306,17 +441,17 @@ if (top != self) { top.location = self.location }
 <!-- AddThis Button BEGIN -->
 <script type="text/javascript">
 var addthis_config = {
-	ui_cobrand: "AllTrails",
-	services_compact: "email,favorites,facebook,digg,myspace,google,twitter,delicious,more",
-	data_use_flash: true,
-	data_track_linkback: true,
-	data_ga_tracker: pageTracker
+	"ui_cobrand": "AllTrails",
+	"services_compact": "email,favorites,facebook,digg,myspace,google,twitter,delicious,more",
+	"data_use_flash": true,
+	"data_track_clickback": true,
+	"data_ga_tracker": pageTracker
 }
 var addthis_share = {
-	templates: { twitter: 'Check out \'Privacy Policy\' {{url}} #alltrails' }
+	templates: { twitter: 'Check out \'Privacy Policy\' {{url}} #AllTrails' }
 }
 </script>
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=alltrails"></script>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=alltrails"></script>
 <!-- AddThis Button END -->
 
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
@@ -324,9 +459,16 @@ var addthis_share = {
 <noscript><a href="http://www.quantcast.com/p-97UybJxz6dXSQ" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-97UybJxz6dXSQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a></noscript>
 
 <!-- Begin comScore Tag -->
-<script type="text/javascript" src="http://b.scorecardresearch.com/beacon.js"></script>
-<script>COMSCORE.beacon({c1:2,c2:7890946,c3:"",c4:"",c5:"",c6:"",c15:""});</script>
-<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7890946&c3=&c4=&c5=&c6=&c15=&cj=1" /></noscript>
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "7890946" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=7890946&cv=2.0&cj=1" /></noscript>
 <!-- End comScore Tag -->
 
 <script type="text/javascript" charset="utf-8">
@@ -345,29 +487,17 @@ var addthis_share = {
   var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 </script>
 
-<div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
-<script>
-  window.fbAsyncInit = function() {
-  	FB.init({appId: '18128749820', status: true, cookie: true, xfbml: true});
 
-	FB.Event.subscribe('auth.sessionChange', function(response) {
-      if (response.session) { window.location.reload(); }
-      else { window.location = '/logout/facebook'; }
-    });
-  };
-  (function() {
-    var e = document.createElement('script'); e.async = true;
-    e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
-    document.getElementById('fb-root').appendChild(e);
-  }());
-</script>
-<script type="text/javascript" src="http://static.alltrails.com/js/fbgraph.js"></script>
-
-
-<script type="text/javascript" src="http://static.woopra.com/js/woopra.v2.js"></script>
 <script type="text/javascript">
-woopraTracker.setDomain("alltrails.com");
-woopraTracker.track(window.location.pathname+window.location.search,document.title);
+var woo_settings = {idle_timeout:'300000', domain:'alltrails.com'};
+(function(){
+var wsc = document.createElement('script');
+wsc.src = document.location.protocol+'//static.woopra.com/js/woopra.js';
+wsc.type = 'text/javascript';
+wsc.async = true;
+var ssc = document.getElementsByTagName('script')[0];
+ssc.parentNode.insertBefore(wsc, ssc);
+})();
 </script>
 
 
