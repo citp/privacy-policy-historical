@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-seo-news.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625093003id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-seo-news.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005400id_/http%3A//www.axandra.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # privacy-policy | Axandra SEO software tools
 
@@ -37,6 +37,8 @@ We use the information you provide about yourself when placing an order only to 
 We use return email addresses to answer the emails we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above, without also providing you with an opportunity to opt-out or otherwise prohibit such unrelated uses.
+
+We use Google Analytics on our web pages. You can opt-out of Google Analytics with a browser [plugin](http://tools.google.com/dlpage/gaoptout).
 
 ### Credit dard processing and security
 
