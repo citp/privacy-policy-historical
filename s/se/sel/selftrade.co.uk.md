@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218044646id_/http%3A//www.selftrade.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selftrade.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120643id_/http%3A//www.selftrade.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy policy / Selftrade
 
@@ -61,7 +61,7 @@ Should the Purpose for which Selftrade uses your personal information change, th
 We may transfer or disclose personal information to any company within the Société Générale Group, to our professional advisers and to such other parties as we consider may assist in the administration of the Selftrade service or the provision of other related services or in connection with a transfer of rights and obligations under this privacy policy, any insurance policy or contract or in the event that our business or its assets are sold or transferred. These parties may be located anywhere in the world. We may also disclose personal information if we are required to do so by law or are requested to do so by FSA, the LSE, PLUS Markets or any other regulatory authority in any country. If you receive any savings income from us, your details and the details of your income will be reported to HM Revenue & Customs as required under the EU Savings Tax Directive.  
 
 
-In carrying out an assessment of your financial standing with a credit reference agency, we may also use the services of other companies in our Group. We currently use the services of Société Générale Securities Services Limited (formerly known as Squaregain Limited).  
+In carrying out an assessment of your financial standing we may use the services of a credit reference agency, either directly or via another Group company. We currently use the services of Société Générale Securities Services Limited (SGSS) and their name will appear on any credit reference file you request from credit reference agencies: this will not mean that you have an account or any other relationship with SGSS.  
 
 
 For the Purpose described above, personal data may be processed in countries which do not have data protection laws that are as comprehensive as those in the UK. If we do make such a transfer, we will have a contract in place to ensure that your information is protected.  
