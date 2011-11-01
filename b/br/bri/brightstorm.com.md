@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623205902id_/http%3A//www.brightstorm.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightstorm.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224125id_/http%3A//www.brightstorm.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Brightstorm
 
-Effective Date: February 17, 2010 
+Effective Date: August 29, 2011
 
 [](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.brightstorm.com&sealid=101)
 
-Brightstorm, Inc. ("Brightstorm") is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user trust and confidence in the Internet by promoting the use of fair information practices. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of Personal Information we receive from users of our website located at [www.brightstorm.com](http://www.brightstorm.com/) (the "Site"). Because we wish to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
+Brightstorm, Inc has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
 
 If you have questions or concerns regarding this Privacy Policy, you should first contact us at [support@brightstorm.com](mailto:support@brightstorm.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
@@ -91,7 +91,7 @@ We follow generally accepted industry standards to protect the Personal Informat
 If you have any questions about security on our Site, you can email us at [support@brightstorm.com](mailto:support@brightstorm.com).
 
 **International Transfer**  
-Your information may be transferred to — and maintained on — computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Brightstorm, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
+Your information may be transferred to ï¿½ and maintained on ï¿½ computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside the United States and choose to provide information to Brightstorm, please be advised that we transfer Personal Information to the United States and process it there. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
 **Contact Us**  
 If you have questions or wish to send us comments about this Privacy Policy, please e-mail or contact us at:
