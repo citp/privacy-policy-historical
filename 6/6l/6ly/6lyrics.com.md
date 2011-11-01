@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218081916id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6lyrics.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120228id_/http%3A//www.6lyrics.com/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | 6 Lyrics
+# Privacy Policy
+
+##  6Lyrics Privacy Policy
 
 Privacy has become a major concern on the Internet. 6lyrics.com knows that you care how information about you is used and shared. This privacy statement describes how 6lyrics.com deals with your information. Some information is collected on this site automatically through our technology; other information is collected only when you choose to give it to us. 
 
@@ -29,21 +31,3 @@ If you have any questions about this privacy statement, the practices of this si
 By using this site, you consent to the collection and use of your Personal Information by 6lyrics.com in accordance with this Privacy Policy. 
 
 _Effective as of March 1, 2009._
-
-#### Poll of the Week
-
-Poll submited by User: 
-
-mashlieh
-
-Which game are you more interested in?
-
-Hockey  
-Dodgeball  
-Hide and seek  
-Selector   
-****************
-
-Vote to see result
-
-[Click here to see more Polls](https://web.archive.org/Pages/Polls.aspx)
