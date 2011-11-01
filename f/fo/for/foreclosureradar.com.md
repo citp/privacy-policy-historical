@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226055255id_/http%3A//www.foreclosureradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosureradar.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101211245id_/http%3A//www.foreclosureradar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ForeclosureRadar
 
@@ -53,7 +53,7 @@ ForeclosureRadar processes personal information for the purposes described below
 
 
 
-ForeclosureRadar specifically uses third party services to maintain billing and account information, and to host this site and the related services. These third party services are prohibited from using your personally identifiable information for any other purpose.
+ForeclosureRadar specifically uses third party services to maintain billing and account information, and to host this site and the related services. These third party services are prohibited from using your personally identifiable information for any other purpose. To help ensure the quality of the content posted to the website, ForeclosureRadar uses a spam verification service whose privacy policies can be found [here](http://mollom.com/web-service-privacy-policy).
 
 **Choices for personal information** \- When you sign up for a particular service that requires registration, we ask you to provide personal information. If we propose to use personal information for any purposes other than those described in this Privacy Policy and/or in the specific service notices, we will offer you a choice to opt out of the use of personal information for those other purposes. You may also decline to submit personal information to any of our services, in which case ForeclosureRadar may not be able to provide those services to you.
 
@@ -93,4 +93,4 @@ ForeclosureRadar
 
 Discovery Bay, CA 94514
 
-Privacy policy effective from 4/5/2008.
+Privacy policy effective from 4/5/2008. Last updated on 1/20/2011.
