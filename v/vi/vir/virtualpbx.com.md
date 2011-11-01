@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2010-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100102024144id_/http%3A//www.virtualpbx.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120910id_/http%3A//www.virtualpbx.com/company/privacy.asp) for the most accurate reproduction.*
 
 # 
 
@@ -19,9 +19,7 @@ When you purchase Virtual PBX® services, we request the following types of info
   * Credit card number or account number 
   * Phone or fax number 
   * Email address 
-  * Date of birth 
   * Social Security Number 
-  * Driver's license number 
 
 
 
