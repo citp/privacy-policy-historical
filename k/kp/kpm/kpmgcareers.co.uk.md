@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921061325id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kpmgcareers.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142834id_/http%3A//www.kpmg.com/Global/en/Pages/privacy.aspx) for the most accurate reproduction.*
 
-# KPMG - Privacy
+# Privacy | KPMG | GLOBAL
 
 Generally, our intent is to collect only the personal information that is provided voluntarily by visitors to our web sites so that we can offer information and/or services to those individuals or offer information about employment opportunities. Please review this Online Privacy Statement ("Online Privacy Statement" or "Privacy Statement") to learn more about how we collect, use, share and protect the PII that we have obtained. 
 
@@ -15,14 +15,14 @@ _KPMG only collects "sensitive" personal information when the relevant individua
 In some instances, KPMG automatically collects certain types of information when you visit our web sites and through emails that we may exchange. Automated technologies may include the use of web server logs to collect IP addresses, "cookies", and web beacons. The collection of this information will allow us to better understand and improve the performance, usability and effectiveness of KPMG web sites and to measure effectiveness of our marketing activities. 
 
   
-An IP address is a number assigned to your computer whenever you access the internet. It allows computers and servers to recognize and communicate with one another. IP addresses from which visitors appear to originate may be recorded for IT security and system diagnostic purposes. This information may also be used in aggregate form to conduct web site trend and performance analysis. 
+An IP address is a number assigned to your computer whenever you access the internet. It allows computers and servers to recognise and communicate with one another. IP addresses from which visitors appear to originate may be recorded for IT security and system diagnostic purposes. This information may also be used in aggregate form to conduct web site trend and performance analysis. 
 
   
 A "cookie” is a small piece of text that a Web site places in the cookie file of your browser and that allows the site to remember who you are. Cookies cannot be used to run programs or deliver viruses to your computer. KPMG only uses cookies in accordance with applicable laws. 
 
 Cookies by themselves do not tell us your email address or otherwise identify you personally. If you visit a KPMG web site, we use cookies to compile aggregate statistics to help us determine what areas of the site visitors prefer. 
 
-If you subsequently register with a KPMG web site, this information may be linked to a cookie in order to enhance and personalize your online experience (e.g., by welcoming you back when you return or providing you access to your registration information). 
+If you subsequently register with a KPMG web site, this information may be linked to a cookie in order to enhance and personalise your online experience (e.g., by welcoming you back when you return or providing you access to your registration information). 
 
 You have the choice of deciding whether to accept cookies or not. You can set your browser to notify you when you receive a cookie or to reject cookies. However, please be aware that if you do not accept cookies, you may not be able to fully experience some of our Web site features. 
 
@@ -56,7 +56,7 @@ As described above, if you wish to prevent cookies from tracking you as you navi
 If you have submitted personal information to KPMG, under most circumstances you have the right to reasonable access to that data to correct any inaccuracies. You can also make a request to update or remove information about you by contacting [privacy@kpmg.com ](mailto:privacy@kpmg.com), and we will make all reasonable and practical efforts to comply with your request, so long as it is consistent with applicable law and professional standards. 
 
   
-KPMG has reasonable security policies and procedures in place to protect personal information from unauthorized loss, misuse, alteration, or destruction. Despite KPMG’s best efforts, however, security cannot be absolutely guaranteed against all threats. To the best of our ability, access to your personal information is limited to those who have a need to know. Those individuals who have access to the data are required to maintain the confidentiality of such information. We also make reasonable efforts to retain personal information only for so long as the information is necessary to comply with an individual’s request or until that person asks that the information be deleted. 
+KPMG has reasonable security policies and procedures in place to protect personal information from unauthorised loss, misuse, alteration, or destruction. Despite KPMG’s best efforts, however, security cannot be absolutely guaranteed against all threats. To the best of our ability, access to your personal information is limited to those who have a need to know. Those individuals who have access to the data are required to maintain the confidentiality of such information. We also make reasonable efforts to retain personal information only for so long as the information is necessary to comply with an individual’s request or until that person asks that the information be deleted. 
 
   
 Please be aware that KPMG web sites may contain links to other sites, including sites maintained by other KPMG member firms that are not governed by this Privacy Statement but by other privacy statements that may differ somewhat. We encourage users to review the privacy policy of each Web site visited before disclosing any personal information. 
