@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2010-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100817030717id_/http%3A//www.support.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the support.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154854id_/http%3A//www.support.com/privacy_policy) for the most accurate reproduction.*
 
 # Services Privacy Policy
 
