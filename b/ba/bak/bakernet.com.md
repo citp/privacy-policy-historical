@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618142534id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105815id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Baker & McKenzie
 
@@ -50,6 +50,6 @@ Edward J Zulkey
 130 E. Randolph Street   
 STE 2500   
 Chicago, IL 60601  
-[edward.j.zulkey@bakermckenzie.com](javascript:xSendMail\('edward.j.zulkey','bakermckenzie.com'\);)
+[edward.zulkey@bakermckenzie.com](javascript:xSendMail\('edward.zulkey','bakermckenzie.com'\);)
 
  Edward J. Zulkey, in the Firm's Global Services group in Chicago, is responsible for the content of this policy.
