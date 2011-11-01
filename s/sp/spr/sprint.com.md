@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623134054id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sprint.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130320id_/http%3A//www.sprint.com/legal/privacy.html%3FINTNAV%3DATG%3AFT%3APrivacy) for the most accurate reproduction.*
 
 # Sprint | Privacy at Sprint Nextel
 
@@ -12,6 +12,7 @@ This Privacy Policy ("Policy") describes how Sprint Nextel will collect, access,
   * CONTACTING US 
   * UPDATING THIS POLICY 
   * YOUR CALIFORNIA PRIVACY RIGHTS
+  * INTERNATIONAL DATA PRIVACY POLICY
 
 
 
@@ -56,7 +57,7 @@ We may share information that is anonymized or in an aggregated form that does n
 
 **Other Third Parties with Your Consent.** We may share information with other third parties with your consent. For example, you may agree to our sharing your information with other third parties to hear about their products and services. Use of the information you agree to share will be subject to those third parties' separate privacy policies.
 
-**Disclosures to Third Party Application and Service Providers.** You may choose to use services and products offered by third parties through our Services or devices like third party applications. When you leave our network you may also use mobile roaming services provided by third parties. Your use of such services and applications may result in these third parties collecting your personal information and obtaining information from Sprint, including location information (when applicable). You may also choose to give personal information directly to third parties when using our Services. In each case, personal information you give a third party will be subject to its terms, conditions, and policies�not this policy. You should review a third party�s privacy policy and terms of service before providing your information or using the service.
+**Disclosures to Third Party Application and Service Providers.** You may choose to use services and products offered by third parties through our Services or devices like third party applications. When you leave our network you may also use mobile roaming services provided by third parties. Your use of such services and applications may result in these third parties collecting your personal information and obtaining information from Sprint, including location information (when applicable). You may also choose to give personal information directly to third parties when using our Services. In each case, personal information you give a third party will be subject to its terms, conditions, and policies—not this policy. You should review a third party’s privacy policy and terms of service before providing your information or using the service.
 
 **Business Transfers.** Personal information about you may be disclosed as part of any merger, acquisition, sale of company assets or transition of service to another provider. In the unlikely event of an insolvency, bankruptcy or receivership, personal information may also be transferred as a business asset.
 
@@ -99,5 +100,11 @@ Back to top 
 ## YOUR CALIFORNIA PRIVACY RIGHTS
 
 Sprint Nextel shares personal information between Sprint Nextel affiliates and marketing agents for marketing purposes. We do not share your personal information with unaffiliated third parties for their own independent marketing purposes without your consent. California residents may request the categories of personal information Sprint Nextel shared with its affiliates during the previous calendar year. To make your request, send an email to officeofprivacy@sprint.com. Written requests may be sent to the Office of Privacy -Legal Department, Sprint Nextel, P.O. Box 4600 Reston, VA 20195. Sprint Nextel will respond to these requests within 30 days. Requests that come to Sprint Nextel by other means may result in a delayed response.
+
+Back to top 
+
+## INTERNATIONAL DATA PRIVACY POLICY
+
+Our [International Data Privacy Policy](http://convergence.sprint.com/internationalPrivacy.aspx) informs you about our practices and policies regarding the collection, use, disclosure, transfer, storage, and processing of personal information in connection with Services offered by Sprint Nextel, its subsidiaries, affiliates, and agents (collectively "Sprint Nextel"). This policy applies to any personal information collected by Sprint Nextel business units outside the U.S..
 
 Back to top 
