@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the kofax.com privacy policy that was archived on 2011-04-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110410173459id_/http%3A//www.kofax.com/legal/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kofax.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101062709id_/http%3A//www.kofax.com/legal/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,81 +7,364 @@
 <title>Privacy Policy</title>
 <meta name="Keywords" content="kofax">
 <meta name="Description" content="Kofax">
-<link href="/include/style/style.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="/includes/css/master.css">
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<link type="text/css" media="screen" rel="stylesheet" href="/include/jquery/css/colorbox/colorbox.css">
+
+<script type="text/javascript" src="/include/jquery/colorbox/jquery.colorbox.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		//Examples of how to assign the ColorBox event to elements
+		jQuery(".colorbox").colorbox({width:"50%", inline:true, href:"#colorbox-content"});
+		$(".colorbox-iframe").colorbox({width:"800", height:"95%", iframe:true});
+		$(".colorbox-iframe-form").colorbox({width:"980", height:"98%", iframe:true});
+		$(".colorbox-html").colorbox();
+
+	});
+	
+</script>
+<script src="/includes/js/jquery.orbit-1.2.3.min.js"></script>
+<script src="/includes/js/jquery.ba-hashchange.min.js"></script>
+<script src="/includes/js/jquery.featureList-1.0.0.js"></script>
+<script>
+
+////////////////////////////////////////////////////
+//Jquery script for the sitemap toggle tab in footer.
+// You can change the speed of the animation by replacing the '250' with a string or number. For example, you may use, 'slow', 'fast', or '500'.
+////////////////////////////////////////////////////
+
+$(document).ready(function(){
+	$(".btn-sitemap").click(function(){
+		$("#panel").slideToggle("250");
+		$("#panel-short").slideToggle("250");
+	});
+});
+
+////////////////////////////////////////////////////
+// Script to call the Orbit plugin and parameters.
+// Orbit is the script for the home page hero.
+////////////////////////////////////////////////////
+
+     $(window).load(function() {
+         $('#hero').orbit({
+            animation: 'fade',                  // fade, horizontal-slide, vertical-slide, horizontal-push
+    		animationSpeed: 300,                // how fast animtions are
+     		timer: true, 			 			// true or false to have the timer
+    		advanceSpeed: 4000, 				// if timer is enabled, time between transitions 
+     		pauseOnHover: false, 				// if you hover pauses the slider
+     		startClockOnMouseOut: false, 	 	// if clock should start on MouseOut
+    		startClockOnMouseOutAfter: 1000, 	// how long after MouseOut should the timer start again
+    		directionalNav: false, 		 		// manual advancing directional navs
+    		captions: false, 			 		// do you want captions?
+     		captionAnimation: 'fade', 		 	// fade, slideOpen, none
+     		captionAnimationSpeed: 800, 	 	// if so how quickly should they animate in
+     		bullets: true,			 			// true or false to activate the bullet navigation
+     		bulletThumbs: false,		 		// thumbnails for the bullets
+    		bulletThumbLocation: '',		 	// location from this file where thumbs will be
+    		afterSlideChange: function(){} 	 	// empty function 
+         });
+     });
+
+////////////////////////////////////////////////////
+// Flexible content on category pages
+////////////////////////////////////////////////////
+
+		$(document).ready(function() {
+
+			$.featureList(
+				$("#tabs li a"),
+				$("#output li"), {
+					start_item	:	0
+				}
+			);
+
+			/*
+			
+			// Alternative
+
+			
+			$('#tabs li a').featureList({
+				output			:	'#output li',
+				start_item		:	1
+			});
+
+			*/
+
+		});
+
+
+
+</script>
+
+<!-- Fonts.com Univers -->
+
+<link href="http://fast.fonts.com/cssapi/16128cb8-10d4-46be-8d68-0546a929c028.css" rel="stylesheet" type="text/css"><!--[if lte IE 8 ]>
+<style> 
+
+/* Adds a light gray border around main drop down menu in IE8 and below */
+.hairline {border: 1px solid #eee; margin-left: -1px;}
+.img-shadow {border: 2px solid #eee;} 			
+
+/* Conditional statement that adds a light gray border and moves the drop down flush left in IE8 or below. */
+ul.language-selector li:hover  ul {	border: 1px solid #eee; margin-left: -5px;}		
+
+</style>
+<![endif]-->
+
+<!--[if IE 9]>
+<style>
+
+/* Conditional statement that nudges the social icons and search box to the left in IE9 */
+#header #social-search #search a {width:18px; height:17px;}	
+
+/* Conditional statement that nudges the language dropdown to the left in IE9 */
+.language {left:750px;}
+
+/* Conditional statement that nudges the contact link to the left in IE9 */
+.contact {left: 825px
+}
+</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css"> 				         
+
+/* Conditional statement to remove timer when in IE. */
+.timer { display: none !important; }
+div.caption { background:transparent; filter:progid:DXImageTransform.Microsoft.gradient(startColorstr=#99000000,endColorstr=#99000000);zoom: 1; }
+
+</style>
+<![endif]-->
+
+
+<!--[if lt IE 7]>
+<script src="http://ie7-js.googlecode.com/svn/version/2.1(beta4)/IE7.js"></script>
+<style>
+/* In IE6, the main nav must have a display of inline */
+ul.purecssmenu a {display:inline;}
+ul.purecssmenu ul li a, ul.purecssmenu ul li a, ul.purecssmenu ul li a, ul.purecssmenu ul li a:hover {width:208px;}
+#social-search {position:absolute; left: 660px;}
+#nav-new {	border-bottom-width: 1px; border-bottom-style: solid; border-bottom-color: #CCC;}
+#nav-bottom-border {margin:0 width:0; height:0; border-bottom-width:0;}
+</style>
+<![endif]-->
+
+<!--[if IE 7]>
+<style>
+
+/* Adjusts margins of main nav div in IE7 */
+#nav-new {margin-bottom:0;}
+
+</style
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css"> 
+a { zoom: 1;}
+</style>
+<![endif]-->
 <script type="text/javascript" src="/include/script/script.js"></script>
 </head>
 
 <body>
 
 
-<div id="header">
-<a href="/"><img src="/images/logo-kofax.png" alt="Kofax" align="left"></a>
+
+<div id="header"> 
+
+<!-- Contact and Language Selector -->
+
+  <div class="language">
+			<ul class="language-selector">
+		<li>
+		
+
+
+Language
+
+
+
+		<ul>
+		<li>
+		
+			<a href="/de/?lng=de">Deutsch</a>
+	    
+	
+		</li>
+		
+        <li>
+		
+		</li>
+		
+		<li>
+		
+			<a href="/es/?lng=es">Español</a>
+	    
+	
+		</li>
+		
+		<li>
+		
+			<a href="/fr/?lng=fr">Français</a>
+	    
+	
+		</li>
+		
+		<li>
+		
+			<a href="/it/?lng=it">Italiano</a>
+	    
+	
+		</li>
+		
+				<li>
+		
+			<a href="/pt/?lng=pt">Portuguese</a>
+	    
+	
+		</li>
+		
+		<li>
+		
+			<a href="/jp/?lng=jp">日本語</a>
+	    
+	
+		</li>
+		
+		<li>
+		
+			<a href="/cn/?lng=cn">中文</a>
+	    
+	
+		</li>
+
+		</ul>
+		</li>
+	</ul>
+		
+	
+    </div>
+    
+   <div class="contact">| &nbsp;&nbsp;
+
+
+ <a href="/contact/" class="contact-new">Contact</a>
+
+
+
+
+</div>
+
+<!-- Kofax logo -->
+
+  <div id="logo"> 
+<a href="/"><img src="/images/theme/master-logo-kofax-trans.png" width="153" height="27" alt="Kofax"></a> 
+  </div>
+
+<!-- Social Icons -->
+
+<div id="social-search"> 
+<div id="social"> <a href="http://www.facebook.com/kofax.inc"><img src="/images/theme/master-icon-facebook-trans.png" alt="Kofax on Facebook" name="socialicons" width="17" height="16" id="socialicons"></a><a href="http://twitter.com/kofax"><img src="/images/theme/master-icon-twitter-trans.png" alt="Kofax on Twitter" name="socialicons" width="17" height="16" id="socialicons"></a><a href="http://www.linkedin.com/company/kofax"><img src="/images/theme/master-icon-linkedin-trans.png" alt="Kofax on LinkedIn" name="socialicons" width="17" height="16" id="socialicons"></a> </div>
+
+<!-- Search Bar -->
+
 <div id="search">
-<form name="GoogleSearch" id="searchbox_004805754351123095197:y22bdtkjvyy" action="/search-results.asp"><input type="hidden" name="cx" value="004805754351123095197:y22bdtkjvyy"><input type="hidden" name="cof" value="FORID:11;NB:1"><input name="q" type="text" value="Search" onfocus="if(this.value=='Search') this.value='';" onblur="if(this.value=='') this.value='Search';"><a href="javascript:document.GoogleSearch.submit();">&nbsp;</a></form>
-</div>
-<div id="divider"></div>
-<div id="language">
-<form name="formLanguage">
-<select id="selectLanguage" name="selectLanguage" size="1" onchange="openDir( this.form )"> 
-  <option value="#">Language</option>
- 
- 
-
-      <option value="/de/?lng=de">Deutsch</option>
-    
-      <option value="/es/?lng=es">Español</option>
-    
-      <option value="/fr/?lng=fr">Français</option>
-    
-      <option value="/it/?lng=it">Italiano</option>
-    
-      <option value="/pt/?lng=pt">Portuguese</option>
-    
-      <option value="/jp/?lng=jp">日本語</option>
-    
+      <form name="GoogleSearch" id="searchbox_004805754351123095197:y22bdtkjvyy" action="/search-results.asp">
+        <input type="hidden" name="cx" value="004805754351123095197:y22bdtkjvyy">
+        <input type="hidden" name="cof" value="FORID:11;NB:1">
+        <input name="q" type="text" value="" onfocus="if(this.value=='') this.value='';" onblur="if(this.value=='') this.value='';">
+        <a href="javascript:document.GoogleSearch.submit();"></a>
+      </form>
+    </div>
 
 
-</select> 
-</form>
-</div>
+    <div class="clear-float"></div>
+  </div>
+  <div class="clear-float"></div>
 </div>
 
 
+<!-- Main Navigation -->
 
-<div id="nav">
-  <ul>
-    <li><a href="/products.asp" onmouseover="dropdownmenu(this, event, 'nav-products')" class="left">Software</a></li>
-    <li><a href="/solutions.asp" onmouseover="dropdownmenu(this, event, 'nav-solutions')">Solutions</a></li>
-    <li><a href="/services.asp" onmouseover="dropdownmenu(this, event, 'nav-services')">Services</a></li>
-	<li><a href="/support/" onmouseover="dropdownmenu(this, event, 'nav-support')">Support</a></li>
-    <li><a href="/distribution.asp" onmouseover="dropdownmenu(this, event, 'nav-distribution')">Distribution</a></li>
-    <li><a href="/partners.asp" onmouseover="dropdownmenu(this, event, 'nav-partners')">Partners</a></li>
-	<li><a href="/ir/" onmouseover="dropdownmenu(this, event, 'nav-investors')">Investors</a></li>
-    <li><a href="/about.asp" onmouseover="dropdownmenu(this, event, 'nav-about')">About Kofax</a></li>
-  </ul>
+<div id="nav-new">
+<ul class="purecssmenu">
+  <li><a href="/software.asp"><span>Software</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul class="hairline">
+      <li><a href="/software.asp">Overview</a></li>
+      <li><a href="/document-capture-software/">Kofax Capture</a></li>
+      <li><a href="/forms-processing/">Kofax Transformation Modules</a></li>
+      <li><a href="/office-automation/">Kofax Front Office Server</a></li>
+      <li><a href="/business-communication-software/">Kofax Communication Server</a></li>
+      <li><a href="/invoice-automation-e-invoicing/">Kofax e-Transactions</a></li>
+      <li><a href="/performance-monitoring-software/">Kofax Monitor</a></li>
+      <li><a href="/document-scanning-software/">Kofax Express</a></li>
+      <li><a href="/vrs-virtualrescan/">Kofax VRS Elite</a></li>
+      <li><a href="/atalasoft/">Atalasoft DotImage SDK</a></li>
+      <li><a href="/markview/accounts-payable-automation.asp">Markview for Accounts Payable</a></li>
+      <li><a href="/markview/advisor.asp">Markview AP Advisor</a></li>
+      <li><a href="/supplierexpress/">Kofax SupplierExpress</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+  <li><a href="/solutions.asp"><span>Solutions</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul class="hairline">
+      <li><a href="/solutions.asp">Overview</a></li>
+      <!--<li><a href="/solutions.asp">Industry Solutions</a></li>-->
+      <!--<li><a href="/solutions.asp">Business Processes</a></li>-->
+      <li><a href="/solutions/microsoft.asp">Microsoft Sharepoint Solutions</a></li>
+      <li><a href="/solutions/sap.asp">SAP Solutions</a></li>
+      <!--<li><a href="/solutions/case-studies.asp">Case Studies</a></li>-->
+      <!--<li><a href="/solutions/white-papers.asp">White Papers</a></li>-->
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+  <li><a href="/services.asp"><span>Services</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul class="hairline">
+      <li><a href="/services.asp">Overview</a></li>
+      <li><a href="/professional-services/">Professional Services</a></li>
+      <li><a href="/training/">Training</a></li>
+      <li><a href="/support-services/">Support Services</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+  <li><a href="/support/"><span>Support</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul class="hairline">
+      <li><a href="/support/">Overview</a></li>
+      <li><a href="/support/product-list.asp">Product</a></li>
+      <li><a href="/support/docs.asp">Documentation</a></li>
+      <li><a href="/support/downloads.asp">Downloads</a></li>
+      <li><a href="/support/tools.asp">Tools</a></li>
+      <li><a href="/support/options.asp">Support Options</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+  <li><a href="/partners.asp"><span>Partners</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul class="hairline">
+      <li><a href="/partners.asp">Overview</a></li> 
+      <li><a href="/partners/solution-provider-program.asp">Global Partner Program</a></li>
+      <li><a href="/partners/technology.asp">Technology Alliance</a></li>
+      <li><a href="/partners/portal.asp">Partner Portal</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+  <li><a href="/investors.asp"><span>Investors</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul class="hairline">
+      <li><a href="/ir/">Overview</a></li>
+      <li><a href="/ir/financial-reports.asp">Recent Financial Reports</a></li>
+      <li><a href="/ir/executive-management.asp">Management Team</a></li>
+      <li><a href="/ir/fundamentals.asp">Fundamentals and Trends</a></li>
+      <li><a href="/ir/share-price.asp">Share Price</a></li>
+      <li><a href="/ir/presentations.asp">Presentations and Webcasts</a></li>
+      <li><a href="/ir/financial-calendar.asp">IR Calendar</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+  <li><a href="/about.asp"><span>About Kofax</span><!--[if gt IE 6]--></a><!--[endif]--><!--[if lte IE 6]><table><tr><td><![endif]-->
+    <ul class="hairline">
+      <li><a href="/about.asp">Overview</a></li>
+      <li><a href="/news/in-the-news.asp">News</a></li>
+      <li><a href="/events/">Events</a></li>
+      <li><a href="/careers/">Careers</a></li>
+      <li><a href="/contact/">Contact Us</a></li>
+    </ul>
+    <!--[if lte IE 6]></td></tr></table></a><![endif]--></li>
+</ul>
 </div>
-
-
-
-<div class="message">
-
-<table width="980" height="28" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="28" height="28" valign="top"><img src="/images/icon-28x28-information.gif" alt="Information" width="28" height="28"></td>
-
-
-	<td>&nbsp; 本页面仅提供英文版</td>
-
-
-	<!-- <td align="right"><a href="#">Close this message</a> &nbsp;</td> -->
-
-    <!-- <td width="28" height="28"><span style="float:right; display:inline;"><a href="#"><img src="/images/icon-28x28-close.gif" alt="X" width="28" height="28" border="0" /></a></span></td> -->
-  </tr>
-</tbody></table>
-
-</div>
-
-<div id="nav-sub">
+<!--[if !IE 6]><![IGNORE[--><!--[IGNORE[]]--><div class="clear-float" id="nav-bottom-border"></div><!--<![endif]--><div id="nav-sub">
 <h1><a href="/legal/copyright.asp">Legal<span></span></a></h1>
 <ul>
 	<li><a href="/legal/copyright.asp"><span>Copyright</span></a></li>
@@ -133,210 +416,169 @@ We at Kofax, Inc. and our affiliated companies worldwide ("Kofax") are committed
 
 <br class="clearfloat">
 
-</div>
+<div class="slide">
 
-<div id="breadcrumb">
-  <div class="float-l">
-    <ul>
-      <li class="first"><a href="/index.asp">Kofax</a></li>
-	  <li>&gt; <a href="/legal/privacy.asp">Privacy Policy</a></li>
-    </ul>
+<!--
+Sitemap tab
+-->
+
+    <div><a class="btn-sitemap">site map</a><img src="/images/theme/master-footer-sitemap-tab.png"></div>
+	<div class="clear-float"></div>
   </div>
   
+<!--
+Pull-down sitemap
+-->
 
-<div class="contact"><a href="/contact/"><img src="/images/icon-12x12-contact-us.gif" alt="Contact Us" width="12" height="12">&nbsp;&nbsp;Contact Us</a></div>
+  <div id="panel">
+    <ul id="sitemap-pulldown">
+      <li class="sitemap-section-first">
+        <ul>
+          <li class="sitemap-header"><a href="/products.asp">Software</a></li>
+          <li><a href="/document-capture-software/">Kofax Capture</a></li>
+          <li><a href="/forms-processing/">Kofax Transformation Modules</a></li>
+          <li><a href="/office-automation/">Kofax Front Office Server</a></li>
+          <li><a href="/business-communication-software/">Kofax Communication Server</a></li>
+          <li><a href="/invoice-automation-e-invoicing/">Kofax e-Transactions</a></li>
+          <li><a href="/performance-monitoring-software/">Kofax Monitor</a></li>
+          <li><a href="/document-scanning-software/">Kofax Express</a></li>
+          <li><a href="/vrs-virtualrescan/">Kofax VRS Elite</a></li>
+          <li><a href="/atalasoft/">Atalasoft DotImage SDK</a></li>
+          <li><a href="/markview/accounts-payable-automation.asp">Markview for Accounts Payable</a></li>
+          <li><a href="/markview/advisor.asp">Markview AP Advisor</a></li>
+          <li><a href="/supplierexpress/">Kofax SupplierExpress</a></li>
+        </ul>
+      </li>
+      <li class="sitemap-section">
+        <ul>
+          <li class="sitemap-header"><a href="/solutions.asp">Solutions</a></li>
+          <li><a href="/solutions/case-studies.asp">Case Studies</a></li>
+          <li><a href="/solutions/white-papers.asp">White Papers</a></li>
+          <li class="subsection">By Process:</li>
+          <li><a href="/solutions/microsoft.asp">Microsoft SharePoint</a></li>
+          <li><a href="/solutions/invoice-processing.asp">Invoice Processing</a></li>
+          <li><a href="/solutions/sales-order-processing.asp">Sales Order Processing</a></li>
+          <!--  <li><a href="/solutions/sap.asp">SAP Solutions</a></li>--> <!-- Not is Design doc? -->
+          <li><a href="/solutions/business-process-outsourcing.asp">Business Procurement Outsourcing</a></li>
+          <li class="subsection">By Industries:</li>
+          <li><a href="/solutions/healthcare.asp">Health Care</a></li>
+          <li><a href="/solutions/banking-and-finance.asp">Banking</a></li>
+          <li><a href="/solutions/insurance.asp">Insurance</a></li>
+          <li><a href="/solutions/government.asp">Government</a></li>
+          <li><a href="/solutions/energy-utilities.asp">Energy &amp; Utilities</a></li>
+          <li><a href="/solutions/telecommunications.asp">Telecommunications</a></li>
+          <li><a href="/solutions/retail.asp">Retail</a></li>
+        </ul>
+      </li>
+      <li class="sitemap-section">
+        <ul>
+          <li class="sitemap-header"><a href="/support/index.asp">Support</a></li>
+          <li class="subsection"><a href="/support/product_list.asp">By Product:</a></li>
+          <li><a href="/support/docs.asp">Documentation</a></li>
+          <li><a href="/support/downloads.asp">Downloads</a></li>
+          <li><a href="/support/contact.asp">Support Options</a></li>
+          <li class="subsection"><a href="/support/support_tools.asp">Tools:</a></li>
+          <li><a href="/support/knowledgebases.asp">Knowledgebases</a></li>
+          <li><a href="/support/web_based_support.asp">Web-based Support Tools</a></li>
+          <li><a href="/support/configurator/index.asp">Scanner Configurator</a></li>
+          <li><a href="http://forums.kofax.com/index.php?c=25">Forums</a></li>
+          <li><a href="/support/license_management.asp">Product License Activation</a></li>
+          <li class="sitemap-header-2"><a href="/services.asp">Services</a></li>
+          <li><a href="/professional-services/">Professional Services</a></li>
+          <li><a href="/training/">Training</a></li>
+          <li><a href="/support-services/">Support Services</a></li>
+        </ul>
+      </li>
+      <li class="sitemap-section">
+        <ul>
+          <li class="sitemap-header"><a href="/partners.asp">Partners</a></li>
+          <li><a href="/partners/solution-provider-program.asp">Global Partner Program</a></li>
+          <li><a href="/partners/technology.asp">Technology Alliance</a></li>
+          <li><a href="/partners/portal.asp">Partner Portal</a></li>
+          <li class="sitemap-header-2"><a href="/ir/">Investors</a></li>
+          <li><a href="/ir/fundamentals.asp">Financial Information</a></li>
+          <li><a href="/ir/corporate-governance.asp">Corporate Information</a></li>
+          <li><a href="/ir/share-price.asp">Share Information</a></li>
+          <li><a href="/ir/financial-calendar.asp">Shareholder Services</a></li>
+        </ul>
+      </li>
+      <li class="sitemap-section-last">
+        <ul class="no-border">
+          <li class="sitemap-header"><a href="/about.asp">About Us</a></li>
+          <li><a href="/news/">News</a></li>
+          <li><a href="/events/">Events and Webinars</a></li>
+          <li><a href="https://hostedjobs.openhire.com/epostings/jobs/submit.cfm?company_id=15973">Careers</a></li>
+          <li><a href="/newsletter/">Newsletter</a></li>
+          <li><a href="/journal/">Blog</a></li>
+          <li><a href="http://extcorp.kofax.com/">Intranet</a></li>
+          <li><a href="/glossary/">Glossary</a></li>
+          <li><a href="/contact/">Contact Us</a></li>
+        </ul>
+      </li>
+    </ul>
+	<br><hr style="height:1px; width: 95%; color:#a2a2a2; background-color:#a2a2a2; border:none; border:0px solid #a2a2a2; margin:0 auto;"><br>
+	<ul class="resources-sitemap">
+	<li class="sitemap-section-first">
+		<ul>
+          <li class="sitemap-header">Resources</li>
+		  <li><a href="/forms-processing/">Forms Processing</a></li>
+		  <li><a href="/transformation/features.asp">Electronic Data Capture </a></li>
+		  <li><a href="/office-automation/">Office Automation</a></li>
+		  <li><a href="/invoice-automation-e-invoicing/">Invoice Automation – E-invoicing </a></li>
+		  <li><a href="/glossary/Document-Management/">Document Management</a></li>
+		  </ul>
+	</li>
+	<li class="sitemap-section">
+		<ul>
+		  <li><a href="/glossary/Business-Process-Automation/">Business Process Automation</a></li>
+		  <li><a href="/glossary/Document-Scanning/">Document Scanning</a></li>
+		  <li><a href="/glossary/Data-Capture/">Data Capture</a></li>
+		  <li><a href="/document-capture-software/">Document Capture Software</a></li>
+		  <li><a href="/business-communication-software/">Business Communication Software </a></li>
+		  </ul>
+	</li>
+	<li class="sitemap-section">
+		<ul>
+		  <li><a href="/glossary/Document-Management/">Document Management Software </a></li>
+		  <li><a href="/performance-monitoring-software/">Performance Monitoring Software</a></li>
+		  <li><a href="/document-scanning-software/">Document Scanning Software</a></li>
+		  <li><a href="/vrs-virtualrescan/">Kofax VRS Elite</a></li>
+		  <li><a href="/glossary/OCR-Software/">OCR Software</a></li>
+		  </ul>
+	</li>
+	<li class="sitemap-section">
+		<ul>
+		  <li><a href="/glossary/Data-Entry-Software/">Data Entry Software</a></li>
+		  <li><a href="/solutions.asp">Document Capture Solutions</a></li>
+		  <li><a href="/solutions/manufacturing-distribution.asp">Business Process Automation</a></li>
+		  <li><a href="/capture/">Document Capture</a></li>
+		  <li><a href="/glossary/Document-Imaging/">Document Imaging</a></li>
+		  </ul>
+	</li>
+		<li class="sitemap-section-last">
+		<ul>
+		  <li><a href="/glossary/Fax-Server/">Fax Server </a></li>
+		  <li><a href="/glossary/Enterprise-Content-Management/">Enterprise Content Management</a></li>
+		  <li><a href="/glossary/Document-Management/">Document Management</a></li>
+		  <li><a href="/glossary/Input-Management/">Input Management</a></li>
+		  </ul>
+	</li>
+	</ul>
+  </div>
+  <div class="clear-float"></div>
 
-<!-- ADDTHIS BUTTON BEGIN -->
-<script type="text/javascript">
-var addthis_config = {
-     username: "kofax"
-}
-</script>
+<!-- Footer -->
 
-<div class="addthis_button" style="padding-top:2px; float:right; padding-right:15px;">
-	<a style="background:none; margin-right:3px; href=" http:="" www.addthis.com="" bookmark.php?v="250&amp;username=kofax&quot;">
-		<img src="http://www.kofax.com/images/button-share.png" border="0" alt="Share">
-	</a>
+ <div id="footer-new">Copyright © 1992-2011 Kofax, Inc. All rights reserved. &nbsp;&nbsp;&nbsp;<a href="/legal/privacy.asp">Privacy Policy</a> | <a href="/legal/terms-of-use.asp">Terms of Use</a> | <a href="/contact/feedback.asp">Feedback</a> | <a href="http://go.kofax.com/LP=297">Subscriptions</a> | <a href="/site-map.asp">Site Map</a> | <a href="http://extcorp.kofax.com/">Intranet</a></div>
+ 
 </div>
 
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script>
-<!-- ADDTHIS BUTTON END -->
+<!-- CSS Preload of Nav Background image -->
 
+<div id="preload"><img src="/images/theme/master-nav-yellow-slant.png"></div>
+<div id="preload"><img src="/images/theme/master-nav-yellow-slant-lang-trans.png"></div>
 
-</div>
-
-
-
-<div id="nav-products" class="nav-dropdown" style="margin-left:5px;">
-  <a href="/products.asp">Overview</a>
-  <a href="/document-capture-software/">Kofax Capture</a>
-  <a href="/forms-processing/">Kofax Transformation Modules</a>
-  <a href="/office-automation/">Kofax Front Office Server</a>
-  <a href="/business-communication-software/">Kofax Communication Server</a>
-  <a href="/invoice-automation-e-invoicing/">Kofax e-Transactions</a>
-  <a href="/performance-monitoring-software/">Kofax Monitor</a>
-  <a href="/document-scanning-software/">Kofax Express</a>
-  <a href="/vrs-virtualrescan/">Kofax VRS Elite</a>
-  <a href="/markview/accounts-payable-automation.asp">MarkView for Accounts Payable</a>
-  <a href="/markview/advisor.asp">Markview AP Advisor</a>
-  <a href="/supplierexpress/">Kofax SupplierExpress</a>
-</div>
-
-<div id="nav-solutions" class="nav-dropdown">
-  <a href="/solutions.asp">Overview</a>
-  <a href="/solutions.asp">Industry Solutions</a>
-  <a href="/solutions.asp">Business Processes</a>
-  <a href="/solutions/microsoft.asp">Microsoft SharePoint Solutions</a>
-  <a href="/solutions/sap.asp">SAP Solutions</a>
-  <a href="/solutions/case-studies.asp">Case Studies</a>
-  <a href="/solutions/white-papers.asp">White Papers</a>
-</div>
-
-<div id="nav-services" class="nav-dropdown">
-  <a href="/services.asp">Overview</a>
-  <a href="/professional-services/">Professional Services</a>
-  <a href="/training/">Training</a>
-  <a href="/maintenance/">Maintenance</a>
-</div>
-
-<div id="nav-support" class="nav-dropdown">
-  <a href="/support/index.asp">Overview</a>
-  <a href="/support/product_list.asp">By Product</a>
-  <a href="/support/docs.asp">Documentation</a>
-  <a href="/support/downloads.asp">Downloads</a>
-  <a href="/support/support_tools.asp">Tools</a>
-  <a href="/support/contact.asp">Support Options</a>
-</div>
-
-<div id="nav-partners" class="nav-dropdown">
-  <a href="/partners.asp">Overview</a>
-  <a href="/partners/solution-provider-program.asp">Global Partner Program</a>
-  <a href="/partners/technology.asp">Technology Alliance</a>
-  <a href="/partners/portal.asp">Partner Portal</a>
-</div>
-
-<div id="nav-distribution" class="nav-dropdown">
-  <a href="/distribution.asp">Overview</a>
-  <a href="/distribution/products.asp">Products</a>
-  <a href="/distribution/maintenance.asp">Hardware Services</a>
-  <a href="/distribution/offices.asp">Offices</a>
-  <a href="/distribution/partner-programs.asp">Partner Programs</a>
-</div>
-
-<div id="nav-investors" class="nav-dropdown">
-  <a href="/ir/">Overview</a>
-  <a href="/ir/fundamentals.asp">Financial Information</a>
-  <a href="/ir/corporate-governance.asp">Corporate Responsibility</a>
-  <a href="/ir/share-price.asp">Share Information</a>
-  <a href="/ir/financial-calendar.asp">Shareholder Services</a>
-  <a href="/ir/regulatory-announcements/">Regulatory Announcements</a>
-  <a href="/ir/contact-us.asp">News Service</a>
-</div>
-
-<div id="nav-about" class="nav-dropdown">
-  <a href="/about.asp">Overview</a>
-  <a href="/news/">News</a>
-  <a href="/events/">Events and Webinars</a>
-  <a href="https://hostedjobs.openhire.com/epostings/jobs/submit.cfm?company_id=15973">Careers</a>
-  <a href="/newsletter/">Newsletter</a>
-  <a href="/journal/">Blog</a>
-  <a href="http://extcorp.kofax.com">Intranet</a>
-  <a href="/glossary/">Glossary</a>
-  <a href="/contact/">Contact Us</a>
-</div>
-
-<div id="bottom-text">
-  <table width="980" border="0" cellspacing="0" cellpadding="3">
-    <tbody><tr>
-      
-	  <td><h3><a href="http://www.kofax.com/">Home</a></h3>
-        <a href="http://www.kofax.com/forms-processing/">Forms Processing</a><br>
-        <a href="http://www.kofax.com/transformation/features.asp">Electronic Data Capture</a><br>
-        <a href="http://www.kofax.com/office-automation/">Office Automation</a><br>
-        <a href="http://www.kofax.com/invoice-automation-e-invoicing/">Invoice Automation</a> - <a href="http://www.kofax.com/invoice-automation-e-invoicing/">E Invoicing</a><br>
-        <a href="http://www.kofax.com/glossary/Document-Management/">Document Management</a><br>
-        <a href="http://www.kofax.com/glossary/Document-Imaging/">Document Imaging</a><br>
-        <a href="http://www.kofax.com/glossary/Business-Process-Automation/">Business Process Automation</a><br>
-      <a href="http://www.kofax.com/glossary/Document-Scanning/">Document Scanning</a><br>
-      <a href="http://www.kofax.com/glossary/Data-Capture/">Data Capture</a>
-	  </td>
-      
-	  <td><h3><a href="http://www.kofax.com/products.asp">Software</a></h3>
-        <a href="http://www.kofax.com/document-capture-software/">Document Capture Software</a><br>
-        <a href="http://www.kofax.com/business-communication-software/">Business Communication Software</a><br>
-        <a href="http://www.kofax.com/glossary/Document-Management/">Document Management Software</a><br>
-        <a href="http://www.kofax.com/performance-monitoring-software/">Performance Monitoring Software</a><br>
-        <a href="http://www.kofax.com/document-scanning-software/">Document Scanning Software</a><br>
-        <a href="http://www.kofax.com/vrs-virtualrescan/">Kofax VRS Elite</a><br>
-      <a href="http://www.kofax.com/glossary/OCR-Software/">OCR Software</a><br>
-	  <a href="http://www.kofax.com/glossary/Data-Entry-Software/">Data Entry Software</a></td>
-      
-	  <td><h3><a href="http://www.kofax.com/solutions.asp">Solutions</a></h3>
-        <a href="http://www.kofax.com/solutions/banking-and-finance.asp">Financial Services</a><br>
-        <a href="http://www.kofax.com/solutions/insurance.asp">Insurance</a><br>
-        <a href="http://www.kofax.com/solutions/government.asp">Government</a><br>
-        <a href="http://www.kofax.com/solutions/healthcare.asp">Medical</a><br>
-        <a href="http://www.kofax.com/solutions/legal.asp">Legal</a><br>
-        <a href="http://www.kofax.com/solutions/manufacturing-distribution.asp">Miscellaneous Business</a><br>
-        <a href="http://www.kofax.com/solutions.asp">Document Capture Solutions</a><br>
-      <a href="http://www.kofax.com/solutions/invoice-processing.asp">Invoice Processing</a><br>
-	  <a href="http://www.kofax.com/solutions/manufacturing-distribution.asp">Business Process Automation</a></td>
-      
-	  <td><h3>Resources</h3>
-        <a href="http://www.kofax.com/capture/">Document Capture</a><br>
-        <a href="http://www.kofax.com/glossary/Document-Imaging/">Document Imaging</a><br>
-        <a href="http://www.kofax.com/glossary/Fax-Server/">Fax Server</a><br>
-        <a href="http://www.kofax.com/glossary/Enterprise-Content-Management/">Enterprise Content Management</a><br>
-        <a href="http://www.kofax.com/glossary/Document-Management/">Document Management</a><br>
-		<a href="http://www.kofax.com/glossary/Input-Management/">Input Management</a><br>
-		        <a href="http://www.kofax.com/glossary/">Glossary</a><br>
-        <a href="http://www.kofax.com/events/">Events and Webinars</a><br>
-      <a href="http://www.kofax.com/newsletter/">Newsletter</a></td>
-      
-	  <td><h3><a href="http://www.kofax.com/about.asp">Kofax Info</a></h3>
-        <a href="http://www.kofax.com/about.asp">About Us</a><br>
-        <a href="http://www.kofax.com/news/">News</a><br>
-        <a href="http://www.kofax.com/solutions/case-studies.asp">Case Studies</a><br>
-        <a href="http://www.kofax.com/solutions/white-papers.asp">White Papers</a><br>
-        <a href="http://www.kofax.com/solutions/research-reports.asp">Research Reports</a><br>
-        <a href="http://www.kofax.com/distribution.asp">Distribution</a><br>
-        <a href="http://www.kofax.com/ir/">Investors</a><br>
-      <a href="http://www.kofax.com/support/">Support</a><br>&nbsp;</td>
-    
-	</tr>
-  </tbody></table>
-</div>
-<div id="bottom-text-b"></div>
-
-<div id="footer"><div class="float-l">
-<div style="float:left; margin-right:5px;"><a href="http://www.linkedin.com/company/kofax"><img src="/home/images/icon-linkedin.gif" alt="LinkedIn"></a>
-<a href="http://www.facebook.com/kofax.inc"><img src="/home/images/icon-facebook.gif" alt="Facebook"></a>
-<a href="http://twitter.com/kofax"><img src="/home/images/icon-twitter.gif" alt="Twitter"></a></div>
-<div style="white-space:nowrap;"><p style="padding-top:7px;"><a href="/legal/copyright.asp">Copyright</a> © 1992-<script>document.write(""+year+"")</script>2020 Kofax, Inc. All rights reserved.</p></div></div>
-
-<div class="float-r" style="text-align:right"><a href="/legal/privacy.asp">Privacy Policy</a>  |  <a href="/legal/terms-of-use.asp">Terms of Use</a>  |  <a href="/contact/feedback.asp">Feedback</a>  |  <a href="http://go.kofax.com/LP=297">Subscriptions</a>  |  <a href="/site-map.asp">Site Map</a>  |  <a href="http://extcorp.kofax.com">Intranet</a><br>
-<a href="/fr/index.asp">Français</a>  |  <a href="/it/index.asp">Italiano</a>  | <a href="/de/index.asp">Deutsch</a>  |  <a href="/es/index.asp">Español</a>  |  <a href="/pt/index.asp">Português (Brasil)</a>  |  <a href="/jp/index.asp">日本語</a><br class="clearfloat"></div>
-</div>
-
-<!-- Market2Lead Tracking Code -->
-<script id="m2lwst" src="http://forms.kofax.com/wt/m2lwst.js"></script>
-<script language="javascript">
-   _m2lTracker.tenantId ='114';
-   _m2lTracker.tenantCode ='kofax';
-   _m2lTracker.track();
-</script>
-<!-- Market2Lead Tracking Code -->
-
-<!-- HubSpot Tracking Code -->
-<script type="text/javascript" language="javascript">
-var hs_portalid=1269; 
-var hs_salog_version = "2.00";
-var hs_ppa = "kofax.app2.hubspot.com";
-document.write(unescape("%3Cscript src='" + document.location.protocol + "//" + hs_ppa + "/salog.js.aspx' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://kofax.app2.hubspot.com/salog.js.aspx" type="text/javascript"></script>
-<!-- HubSpot Tracking Code -->
-
-<!-- Visistat Tracking Code -->
+<!--Tracking Codes --><!-- Visistat Tracking Code -->
 <script type="text/javascript">
 var DID=70485;
 var pcheck=(window.location.protocol == "https:") ? "https://sniff.visistat.com/live.js":"http://stats.visistat.com/live.js";
@@ -361,8 +603,6 @@ pageTracker._trackPageview();
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqCfg.js"></script>
 <script type="text/javascript" language="JavaScript" src="/elqNow/elqImg.js"></script>
 <!-- Eloqua Tracking Code -->
-
-
 
 
 
