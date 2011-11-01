@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icd10data.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308035044id_/http%3A//www.icd10data.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icd10data.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143404id_/http%3A//www.icd10data.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # ICD10Data.com Privacy Policy
 
