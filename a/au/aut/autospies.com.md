@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autospies.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422124616id_/http%3A//autospies.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autospies.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001548id_/http%3A//autospies.com/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
