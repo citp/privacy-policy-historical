@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google.com.ag privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230195828id_/http%3A//www.google.com.ag/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google.com.ag privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123341id_/http%3A//www.google.com.ag/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Google Privacy Center
 
