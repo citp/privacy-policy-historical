@@ -1,17 +1,42 @@
-> *The following text is extracted and transformed from the ba-stores.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501215707id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ba-stores.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125713id_/http%3A//www.ba-stores.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - B/A Stores
 
-At BA-Stores, we understand and share your concern about privacy. We do everything in our power to ensure that any information you share with us remains confidential.
+Privacy Policy
 
-For each visitor to our Web site, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible). We collect the domain name and e-mail address (where possible) of visitors to our Web site, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address). The information we collect is used to improve the content of our web site, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our web site, shared with agents or contractors who assist in providing support for our internal operations, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our web site and applicable laws or to protect against misuse or unauthorized use of our web site, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the web site.
+**Purpose of privacy policy**
 
-We may at times, use your information including but not limited to, e-mail addresses, phone numbers and or postal addresses in specific internal marketing campaigns. If you do not want to receive these marketing materials in the future, please let us know by e-mailing to: [admin@ba-stores.com](mailto:admin@ba-stores.com) and putting “remove” in the subject line and typing in your name and address in the body of the email. 
+* * *
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically.
+Ba-stores.com value our customers and respect your privacy. The purpose of this privacy policy is to inform you what Personal Information we may collect from you, how we use such information, and the choices you have regarding our use of, and your ability to review and correct the information. This policy applies only to customers in the United States.
 
-Upon request, and after using appropriate identification measures, we provide site visitors with access to unique identifier information (e.g., customer number or password) that we maintain about them, transaction information (e.g., dates on which customers made purchases, amounts and types of purchases) that we maintain about them, contact information (e.g., name, address, phone number) that we maintain about them.
+For purposes of this policy, “Personal Information” means any information by which you can be personally identified, and includes your name, your address, your telephone number, your e-mail address and the like. Most of our websites do not require that you submit Personal Information to us.
 
-Consumers can access this information or correct any inaccuracies by e-mailing us at: [admin@ba-stores.com](mailto:admin@ba-stores.com), or calling our customer service department at  **888-562-0411**
+There may be times (such as when you purchase or order a product or register to participate in contests, etc.) when we ask you to provide certain information about yourself, such as your name, shipping/billing address, telephone number, email address, credit card information, etc., and if you make a purchase, we may also maintain a record of your product purchases.
 
-We employ SSL (Secure Socket Layer) encryption to ensure the security of your information. We also have appropriate measures in place at our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+In addition, our web servers may automatically recognize information regarding your domain name (or that of your access provider) and e-mail address, and we may use this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are.﻿
+
+**What kind of information you provide**
+
+* * *
+
+In general, we use the Personal Information you provide only for internal purposes, such as:
+
+  * for the specific purpose for which it was volunteered (for example, to complete a product purchase, to enter a contest, to answer an e-mail, etc.);
+  * to improve the content, appearance and utility of our websites;
+  * to track our visitors’ use of our websites for internal market research; and
+  * to notify our visitors of updates to the websites or of new products or services.
+
+
+
+  
+From time to time, we may contract with companies or persons, whose privacy practices are consistent with ours, to provide certain services including credit card processing, shipping, data management, promotional services, etc. We may provide these providers with the information needed for them to perform these services.
+
+In addition, we may use third-party advertising companies to serve or track ads on our website and other websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to measure advertising effectiveness and to provide advertisements about goods and services that may be of interest to you. We do not authorize any of these service providers to make any other use or disclosure of your information.﻿
+
+**Editing, Updating, Correcting and Deleting Information About You**
+
+* * *
+
+  
+To edit or update your Personal Information or if you prefer not to receive information from us, please let us know by contacting us by email or postal mail at the addresses below. Please be sure to include your email address, mailing address, full name, and specifically what information you do not want to receive.﻿
