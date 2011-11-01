@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the kinowear.com privacy policy that was archived on 2010-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100903173212id_/http%3A//www.kinowear.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinowear.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160417id_/http%3A//www.kinowear.com/privacy.html) for the most accurate reproduction.*
 
 # Kinowear.com - Privacy Policy
 
 ## Privacy Policy
 
 Last updated: February 6, 2008
-
-### General Privacy Policy
 
 Kinowear.com respects your policy and will never disclose the information to any agencies, nor do we sell the information that we may obtain from you. 
 
@@ -38,4 +36,4 @@ Be aware that any information posted in the forums can be accessed by the public
 
 This policy may be changed at any time at Kinowear.com’s discretion. If we should update this policy, we will post the updates to this page on our Website. 
 
-If you have any questions or concerns regarding our privacy policy please direct them to support@kinowear.com 
+If you have any questions or concerns regarding our privacy policy please direct them to support [at] kinowear.com 
