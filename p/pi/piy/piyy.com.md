@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the piyy.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520143826id_/http%3A//www.piyy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the piyy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101135259id_/http%3A//www.piyy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Piyy Directory
 
