@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxblackbook.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106022358id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxblackbook.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101183957id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
@@ -140,7 +140,21 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ XXXBlackBook](https://web.archive.org/myprofile/settings)
 
-If you have any further questions or concerns about XXXBlackBook's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact), or by email to [the webmaster.](mailto:abuse@XXXBlackBook.com)
+If you have any further questions or concerns about XXXBlackBook's privacy policies and use of personal information, please contact us through:
+
+By mail: 
+
+XXXBlackBook
+
+2nd Floor
+
+13 Upper Baggot Street
+
+Dublin 4
+
+Ireland 
+
+Telephone: +353.15262707 Fax: +353.16335198
 
 #### 18). Dispute Resolution 
 
