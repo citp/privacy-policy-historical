@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gameolosophy.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625110825id_/http%3A//gameolosophy.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gameolosophy.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101121832id_/http%3A//gameolosophy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	
@@ -23,8 +23,51 @@
 <meta property="og:site_name" content="Gameolosophy">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://gameolosophy.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
-<script type="text/javascript" src="http://gameolosophy.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+ 
+	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+	<script type="text/javascript" src="http://gameolosophy.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
 //<![CDATA[
 function doILikeIt( website_channel_article_id,blog_id,post_id )
@@ -32,7 +75,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://gameolosophy.com/wp-content/themes/gameolosophy/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://gameolosophy.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -41,6 +84,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -102,7 +192,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://gameolosophy.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -134,23 +224,30 @@ function showTriondSignupForm()
 	<!-- header -->
 	<div id="ad728">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=603");
-   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=603&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=&amp;cb=68412292339&amp;loc=https%3A//web.archive.org/web/20110625110825id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=3a1218&amp;cb=46120153a0830c984a2e14ff9d4b1afa' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=603&amp;cb=46120153a0830c984a2e14ff9d4b1afa&amp;n=3a1218' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=603");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=603&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=27613361774&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=41441b&amp;cb=746d34b8ed16c426746c75451ed5c223' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=603&amp;cb=746d34b8ed16c426746c75451ed5c223&amp;n=41441b' border='0' alt='' /></a></noscript>	</div>
 	
 	<div id="header">
 	
@@ -238,7 +335,49 @@ function showTriondSignupForm()
 <p>Gameolosophy is committed to handling your personal information with the highest standards of security information. Gameolosophy shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Gameolosophy, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@Gameolosophy.com .</p>
-				</div>
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>				</div>
 				<!-- /post -->
 				
 			</div>
@@ -250,23 +389,30 @@ function showTriondSignupForm()
 	&nbsp;
 	<div class="widget" id="ad336">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=605");
-   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=605&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=&amp;cb=26468813473&amp;loc=https%3A//web.archive.org/web/20110625110825id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=592cd7&amp;cb=989020a811890c6093f72b1737e294bb' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=605&amp;cb=989020a811890c6093f72b1737e294bb&amp;n=592cd7' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=605");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=605&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=32670958882&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=65cb9c&amp;cb=fcab010f00d8b4e2fbd7e3d836dde47d' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=605&amp;cb=fcab010f00d8b4e2fbd7e3d836dde47d&amp;n=65cb9c' border='0' alt='' /></a></noscript>	</div>
 
 	<div class="widget" style="padding: 5px; background-color: #262626;">
 	<div class="sidebar-title">Search Gameolosophy</div>
@@ -388,57 +534,70 @@ function showTriondSignupForm()
 	<div class="widget" style="padding: 5px; background-color: #262626;">
 	<div class="sidebar-title">Popular Articles</div>
 	<ul>
-	<li><a href="http://gameolosophy.com/games/online/runescape/free-runescape-6x-99s-pure-account/" title="Free RuneScape 6X 99s Pure Account!"> Free RuneScape 6X 99s Pure Account!</a></li><li><a href="http://gameolosophy.com/games/online/runescape/free-white-party-hat/" title="Free White Party Hat"> Free White Party Hat</a></li><li><a href="http://gameolosophy.com/games/sports/total-club-manager/self-employed-work-sadly-over/" title="Self Employed Work Sadly Over"> Self Employed Work Sadly Over</a></li><li><a href="http://gameolosophy.com/games/online/runescape/free-runescape-main-account-1875-total/" title="Free RuneScape Main Account + 1875 Total!"> Free RuneScape Main Account + 1875 Total!</a></li><li><a href="http://gameolosophy.com/consoles/wii/what-do-you-know-about-new-nintendo-console-the-wii-u/" title="What Do You Know About New Nintendo Console - The Wii U?"> What Do You Know About New Nintendo Console - The Wii U?</a></li><li><a href="http://gameolosophy.com/games/action/terraria-library-download/" title="Terraria Library Download"> Terraria Library Download</a></li><li><a href="http://gameolosophy.com/games/rpg/world-of-warcraft/terraria-multiplayer-server-no-hamachi/" title="Terraria Multiplayer Server No Hamachi"> Terraria Multiplayer Server No Hamachi</a></li><li><a href="http://gameolosophy.com/games/heroes-of-newerth-best-parasite-item-buildguide/" title="Heroes of Newerth Best Parasite Item Build/guide!"> Heroes of Newerth Best Parasite Item Build/guide!</a></li><li><a href="http://gameolosophy.com/games/action/facebook-game-review-zombie-lane-to-expand-its-maps/" title="Facebook Game Review: Zombie Lane to Expand Its Maps"> Facebook Game Review: Zombie Lane to Expand Its Maps</a></li><li><a href="http://gameolosophy.com/consoles/xbox/xbox-live-now-free/" title="Xbox Live - Now Free!"> Xbox Live - Now Free!</a></li>	</ul>
+	<li><a href="http://gameolosophy.com/games/online/runescape/free-runescape-account-level-126-2011/" title="Free RuneScape Account (Level 126) 2011"> Free RuneScape Account (Level 126) 2011</a></li><li><a href="http://gameolosophy.com/games/online/runescape/free-runescape-account-f2p-username-12plm-cb-level-111119/" title="Free RuneScape Account! F2P (Username: 12plm, Cb Level: 111/119)"> Free RuneScape Account! F2P (Username: 12plm, Cb Level: 111/119)</a></li><li><a href="http://gameolosophy.com/games/ravenwood-fair-game/" title="Ravenwood Fair Game"> Ravenwood Fair Game</a></li><li><a href="http://gameolosophy.com/games/action/prince-of-persia/super-action-game/" title="Super Action Game"> Super Action Game</a></li><li><a href="http://gameolosophy.com/games/online/runescape/runescape-turmoil-zerker-giveaway-ends-on-30th-november/" title="RuneScape Turmoil Zerker Giveaway; Ends on 30th November"> RuneScape Turmoil Zerker Giveaway; Ends on 30th November</a></li><li><a href="http://gameolosophy.com/games/action/fifa-12-top-five-strikers/" title="FIFA 12 - Top Five Strikers"> FIFA 12 - Top Five Strikers</a></li><li><a href="http://gameolosophy.com/games/sports/total-club-manager/king-of-fighters-96-review9-0-score/" title="King of Fighters '96 Review{9.0 Score}"> King of Fighters '96 Review{9.0 Score}</a></li><li><a href="http://gameolosophy.com/consoles/xbox/microsoft-points-are-so-expensive/" title="Microsoft Points are So Expensive"> Microsoft Points are So Expensive</a></li><li><a href="http://gameolosophy.com/consoles/snes/top-five-zelda-games/" title="Top Five Zelda Games"> Top Five Zelda Games</a></li><li><a href="http://gameolosophy.com/games/sports/the-group-of-people-who-just-love-to-toss-off-using-socks/" title="The Group of People Who Just Love to Toss Off Using Socks"> The Group of People Who Just Love to Toss Off Using Socks</a></li>	</ul>
 	</div>
 
 	<div class="widget" id="ad160Wrapper">
 		<div id="ad160-1">
 			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=797");
-   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=797&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=&amp;cb=95138676468&amp;loc=https%3A//web.archive.org/web/20110625110825id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c4805c&amp;cb=2a3fe3ff5042a0ad321d33836a4bd837' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=797&amp;cb=2a3fe3ff5042a0ad321d33836a4bd837&amp;n=c4805c' border='0' alt='' /></a></noscript>		</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=797");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=797&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=53695123845&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=030ee2&amp;cb=50dc13546d25585ba59f539f25b5c1f8' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=797&amp;cb=50dc13546d25585ba59f539f25b5c1f8&amp;n=030ee2' border='0' alt='' /></a></noscript>		</div>
 		<div id="ad160-2">
 			
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=474");
-   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=474&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=&amp;cb=33721236357&amp;loc=https%3A//web.archive.org/web/20110625110825id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=6b67a0&amp;cb=149e6c1d2b0e23eb702dda0b9078886e' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=474&amp;cb=149e6c1d2b0e23eb702dda0b9078886e&amp;n=6b67a0' border='0' alt='' /></a></noscript>		</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=474");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=474&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=86202819891&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c32def&amp;cb=fc0689d6222bde4b792b9f2f3cbd3446' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=474&amp;cb=fc0689d6222bde4b792b9f2f3cbd3446&amp;n=c32def' border='0' alt='' /></a></noscript>		</div>
 		<div class="clear"></div>
 	</div>
 
 
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -447,10 +606,11 @@ function showTriondSignupForm()
 		}
 	}
 	</script>
-		<div class="widget">				
+	<!-- 
+	<div class="widget">				
 		<div class="sidebar-title">Video of the Day</div>
-		<div id="SmartPlayer2"></div>
-		<script type="text/javascript">
+		<div id='SmartPlayer2'></div>
+		<script type='text/javascript'>
 		var playerSeed = new PlayerSeed('SmartPlayer2');
 		playerSeed.sid = 332;
 		playerSeed.width = '300';
@@ -465,7 +625,7 @@ function showTriondSignupForm()
 		playerSeed.Load();
 		</script>
 	</div>
-
+ -->
 	
 <!-- 
 <div id="heyzap_games_medium" style="padding-bottom: 5px;"></div>
@@ -481,51 +641,51 @@ function showTriondSignupForm()
 		
 	<div class="widget">
 	<div class="sidebar-title">Popular Tags</div>
-	<a href="http://gameolosophy.com/tag/2/" class="tag-link-2531" title="657 topics" rel="tag" style="font-size: 8.1322653522284pt;">2</a>
-<a href="http://gameolosophy.com/tag/99/" class="tag-link-137503" title="689 topics" rel="tag" style="font-size: 8.1782706921339pt;">99</a>
-<a href="http://gameolosophy.com/tag/best/" class="tag-link-1557" title="767 topics" rel="tag" style="font-size: 8.2904087081536pt;">best</a>
-<a href="http://gameolosophy.com/tag/call-of-duty/" class="tag-link-136211" title="1,158 topics" rel="tag" style="font-size: 8.8525364551243pt;">Call of Duty</a>
-<a href="http://gameolosophy.com/tag/easy/" class="tag-link-8223" title="610 topics" rel="tag" style="font-size: 8.0646950092421pt;">easy</a>
-<a href="http://gameolosophy.com/tag/f2p/" class="tag-link-115665" title="825 topics" rel="tag" style="font-size: 8.3737933867324pt;">F2P</a>
-<a href="http://gameolosophy.com/tag/facebook/" class="tag-link-6579" title="844 topics" rel="tag" style="font-size: 8.4011090573013pt;">Facebook</a>
-<a href="http://gameolosophy.com/tag/free/" class="tag-link-4237" title="2,314 topics" rel="tag" style="font-size: 10.514479359211pt;">free</a>
-<a href="http://gameolosophy.com/tag/fun/" class="tag-link-2383" title="1,024 topics" rel="tag" style="font-size: 8.6598890942699pt;">fun</a>
-<a href="http://gameolosophy.com/tag/game/" class="tag-link-2537" title="3,396 topics" rel="tag" style="font-size: 12.070034914767pt;">Game</a>
-<a href="http://gameolosophy.com/tag/games/" class="tag-link-6737" title="3,665 topics" rel="tag" style="font-size: 12.456767303348pt;">Games</a>
-<a href="http://gameolosophy.com/tag/gaming/" class="tag-link-32947" title="2,269 topics" rel="tag" style="font-size: 10.449784349969pt;">Gaming</a>
-<a href="http://gameolosophy.com/tag/gold/" class="tag-link-25301" title="785 topics" rel="tag" style="font-size: 8.3162867118505pt;">gold</a>
-<a href="http://gameolosophy.com/tag/guide/" class="tag-link-307" title="3,244 topics" rel="tag" style="font-size: 11.851509550216pt;">Guide</a>
-<a href="http://gameolosophy.com/tag/halo/" class="tag-link-32957" title="565 topics" rel="tag" style="font-size: 8pt;">Halo</a>
-<a href="http://gameolosophy.com/tag/help/" class="tag-link-8539" title="701 topics" rel="tag" style="font-size: 8.1955226945985pt;">help</a>
-<a href="http://gameolosophy.com/tag/how/" class="tag-link-3369" title="660 topics" rel="tag" style="font-size: 8.1365783528445pt;">how</a>
-<a href="http://gameolosophy.com/tag/jagex/" class="tag-link-107201" title="1,195 topics" rel="tag" style="font-size: 8.90573012939pt;">Jagex</a>
-<a href="http://gameolosophy.com/tag/microsoft/" class="tag-link-9781" title="789 topics" rel="tag" style="font-size: 8.3220373793387pt;">microsoft</a>
-<a href="http://gameolosophy.com/tag/minecraft/" class="tag-link-515809" title="589 topics" rel="tag" style="font-size: 8.0345040049291pt;">minecraft</a>
-<a href="http://gameolosophy.com/tag/mmorpg/" class="tag-link-95485" title="1,041 topics" rel="tag" style="font-size: 8.6843294310947pt;">mmorpg</a>
-<a href="http://gameolosophy.com/tag/money/" class="tag-link-647" title="1,954 topics" rel="tag" style="font-size: 9.9969192852742pt;">money</a>
-<a href="http://gameolosophy.com/tag/nintendo/" class="tag-link-14221" title="1,414 topics" rel="tag" style="font-size: 9.2205791743685pt;">Nintendo</a>
-<a href="http://gameolosophy.com/tag/of/" class="tag-link-4331" title="851 topics" rel="tag" style="font-size: 8.4111727254056pt;">of</a>
-<a href="http://gameolosophy.com/tag/online/" class="tag-link-7175" title="1,247 topics" rel="tag" style="font-size: 8.9804888067365pt;">Online</a>
-<a href="http://gameolosophy.com/tag/pc/" class="tag-link-27645" title="707 topics" rel="tag" style="font-size: 8.2041486958308pt;">PC</a>
-<a href="http://gameolosophy.com/tag/playstation/" class="tag-link-53295" title="688 topics" rel="tag" style="font-size: 8.1768330252619pt;">PlayStation</a>
-<a href="http://gameolosophy.com/tag/playstation-3/" class="tag-link-98975" title="894 topics" rel="tag" style="font-size: 8.4729924009037pt;">Playstation 3</a>
-<a href="http://gameolosophy.com/tag/ps3/" class="tag-link-96403" title="1,334 topics" rel="tag" style="font-size: 9.1055658246046pt;">PS3</a>
-<a href="http://gameolosophy.com/tag/review/" class="tag-link-309" title="789 topics" rel="tag" style="font-size: 8.3220373793387pt;">review</a>
-<a href="http://gameolosophy.com/tag/roleplaying/" class="tag-link-136647" title="620 topics" rel="tag" style="font-size: 8.0790716779626pt;">roleplaying</a>
-<a href="http://gameolosophy.com/tag/rpg/" class="tag-link-32953" title="733 topics" rel="tag" style="font-size: 8.241528034504pt;">RPG</a>
-<a href="http://gameolosophy.com/tag/rs/" class="tag-link-29527" title="1,022 topics" rel="tag" style="font-size: 8.6570137605258pt;">RS</a>
-<a href="http://gameolosophy.com/tag/rune/" class="tag-link-29521" title="600 topics" rel="tag" style="font-size: 8.0503183405217pt;">rune</a>
-<a href="http://gameolosophy.com/tag/runescape/" class="tag-link-13615" title="10,303 topics" rel="tag" style="font-size: 22pt;">RuneScape</a>
-<a href="http://gameolosophy.com/tag/sony/" class="tag-link-23741" title="709 topics" rel="tag" style="font-size: 8.2070240295749pt;">Sony</a>
-<a href="http://gameolosophy.com/tag/tips/" class="tag-link-7481" title="835 topics" rel="tag" style="font-size: 8.3881700554529pt;">tips</a>
-<a href="http://gameolosophy.com/tag/to/" class="tag-link-3999" title="768 topics" rel="tag" style="font-size: 8.2918463750257pt;">to</a>
-<a href="http://gameolosophy.com/tag/video-game/" class="tag-link-25819" title="2,137 topics" rel="tag" style="font-size: 10.260012322859pt;">video game</a>
-<a href="http://gameolosophy.com/tag/video-games/" class="tag-link-2319" title="1,445 topics" rel="tag" style="font-size: 9.2651468474019pt;">video games</a>
-<a href="http://gameolosophy.com/tag/wii/" class="tag-link-14223" title="1,134 topics" rel="tag" style="font-size: 8.8180324501951pt;">Wii</a>
-<a href="http://gameolosophy.com/tag/world-of-warcraft/" class="tag-link-111741" title="1,190 topics" rel="tag" style="font-size: 8.8985417950298pt;">World of Warcraft</a>
-<a href="http://gameolosophy.com/tag/wow/" class="tag-link-13197" title="809 topics" rel="tag" style="font-size: 8.3507907167796pt;">WoW</a>
-<a href="http://gameolosophy.com/tag/xbox/" class="tag-link-40429" title="1,668 topics" rel="tag" style="font-size: 9.5857465598686pt;">Xbox</a>
-<a href="http://gameolosophy.com/tag/xbox-360/" class="tag-link-97225" title="1,377 topics" rel="tag" style="font-size: 9.1673855001027pt;">Xbox 360</a>	</div>
+	<a href="http://gameolosophy.com/tag/2/" class="tag-link-2531" title="726 topics" rel="tag" style="font-size: 8.1447443997702pt;">2</a>
+<a href="http://gameolosophy.com/tag/99/" class="tag-link-137503" title="724 topics" rel="tag" style="font-size: 8.1420639479226pt;">99</a>
+<a href="http://gameolosophy.com/tag/best/" class="tag-link-1557" title="834 topics" rel="tag" style="font-size: 8.2894887995405pt;">best</a>
+<a href="http://gameolosophy.com/tag/call-of-duty/" class="tag-link-136211" title="1,355 topics" rel="tag" style="font-size: 8.9877465058396pt;">Call of Duty</a>
+<a href="http://gameolosophy.com/tag/easy/" class="tag-link-8223" title="657 topics" rel="tag" style="font-size: 8.0522688110281pt;">easy</a>
+<a href="http://gameolosophy.com/tag/f2p/" class="tag-link-115665" title="876 topics" rel="tag" style="font-size: 8.34577828834pt;">F2P</a>
+<a href="http://gameolosophy.com/tag/facebook/" class="tag-link-6579" title="957 topics" rel="tag" style="font-size: 8.4543365881677pt;">Facebook</a>
+<a href="http://gameolosophy.com/tag/free/" class="tag-link-4237" title="2,734 topics" rel="tag" style="font-size: 10.835918054758pt;">free</a>
+<a href="http://gameolosophy.com/tag/fun/" class="tag-link-2383" title="1,177 topics" rel="tag" style="font-size: 8.7491862914034pt;">fun</a>
+<a href="http://gameolosophy.com/tag/game/" class="tag-link-2537" title="3,756 topics" rel="tag" style="font-size: 12.20562894888pt;">Game</a>
+<a href="http://gameolosophy.com/tag/games/" class="tag-link-6737" title="4,123 topics" rel="tag" style="font-size: 12.697491862914pt;">Games</a>
+<a href="http://gameolosophy.com/tag/gaming/" class="tag-link-32947" title="2,622 topics" rel="tag" style="font-size: 10.685812751292pt;">Gaming</a>
+<a href="http://gameolosophy.com/tag/gold/" class="tag-link-25301" title="867 topics" rel="tag" style="font-size: 8.3337162550258pt;">gold</a>
+<a href="http://gameolosophy.com/tag/guide/" class="tag-link-307" title="3,519 topics" rel="tag" style="font-size: 11.88799540494pt;">Guide</a>
+<a href="http://gameolosophy.com/tag/halo/" class="tag-link-32957" title="618 topics" rel="tag" style="font-size: 8pt;">Halo</a>
+<a href="http://gameolosophy.com/tag/help/" class="tag-link-8539" title="790 topics" rel="tag" style="font-size: 8.2305188588934pt;">help</a>
+<a href="http://gameolosophy.com/tag/how/" class="tag-link-3369" title="733 topics" rel="tag" style="font-size: 8.1541259812368pt;">how</a>
+<a href="http://gameolosophy.com/tag/jagex/" class="tag-link-107201" title="1,303 topics" rel="tag" style="font-size: 8.918054757802pt;">Jagex</a>
+<a href="http://gameolosophy.com/tag/microsoft/" class="tag-link-9781" title="969 topics" rel="tag" style="font-size: 8.4704192992533pt;">microsoft</a>
+<a href="http://gameolosophy.com/tag/minecraft/" class="tag-link-515809" title="854 topics" rel="tag" style="font-size: 8.3162933180165pt;">minecraft</a>
+<a href="http://gameolosophy.com/tag/mmorpg/" class="tag-link-95485" title="1,127 topics" rel="tag" style="font-size: 8.6821749952135pt;">mmorpg</a>
+<a href="http://gameolosophy.com/tag/money/" class="tag-link-647" title="2,119 topics" rel="tag" style="font-size: 10.011679111622pt;">money</a>
+<a href="http://gameolosophy.com/tag/nintendo/" class="tag-link-14221" title="1,582 topics" rel="tag" style="font-size: 9.2919777905418pt;">Nintendo</a>
+<a href="http://gameolosophy.com/tag/of/" class="tag-link-4331" title="937 topics" rel="tag" style="font-size: 8.4275320696917pt;">of</a>
+<a href="http://gameolosophy.com/tag/online/" class="tag-link-7175" title="1,358 topics" rel="tag" style="font-size: 8.991767183611pt;">Online</a>
+<a href="http://gameolosophy.com/tag/pc/" class="tag-link-27645" title="865 topics" rel="tag" style="font-size: 8.3310358031782pt;">PC</a>
+<a href="http://gameolosophy.com/tag/playstation/" class="tag-link-53295" title="770 topics" rel="tag" style="font-size: 8.2037143404174pt;">PlayStation</a>
+<a href="http://gameolosophy.com/tag/playstation-3/" class="tag-link-98975" title="1,077 topics" rel="tag" style="font-size: 8.6151636990235pt;">Playstation 3</a>
+<a href="http://gameolosophy.com/tag/ps3/" class="tag-link-96403" title="1,583 topics" rel="tag" style="font-size: 9.2933180164656pt;">PS3</a>
+<a href="http://gameolosophy.com/tag/review/" class="tag-link-309" title="990 topics" rel="tag" style="font-size: 8.4985640436531pt;">review</a>
+<a href="http://gameolosophy.com/tag/roleplaying/" class="tag-link-136647" title="621 topics" rel="tag" style="font-size: 8.0040206777714pt;">roleplaying</a>
+<a href="http://gameolosophy.com/tag/rpg/" class="tag-link-32953" title="806 topics" rel="tag" style="font-size: 8.2519624736741pt;">RPG</a>
+<a href="http://gameolosophy.com/tag/rs/" class="tag-link-29527" title="1,131 topics" rel="tag" style="font-size: 8.6875358989087pt;">RS</a>
+<a href="http://gameolosophy.com/tag/rune/" class="tag-link-29521" title="643 topics" rel="tag" style="font-size: 8.033505648095pt;">rune</a>
+<a href="http://gameolosophy.com/tag/runescape/" class="tag-link-13615" title="11,064 topics" rel="tag" style="font-size: 22pt;">RuneScape</a>
+<a href="http://gameolosophy.com/tag/sony/" class="tag-link-23741" title="820 topics" rel="tag" style="font-size: 8.2707256366073pt;">Sony</a>
+<a href="http://gameolosophy.com/tag/tips/" class="tag-link-7481" title="938 topics" rel="tag" style="font-size: 8.4288722956155pt;">tips</a>
+<a href="http://gameolosophy.com/tag/to/" class="tag-link-3999" title="867 topics" rel="tag" style="font-size: 8.3337162550258pt;">to</a>
+<a href="http://gameolosophy.com/tag/video-game/" class="tag-link-25819" title="2,357 topics" rel="tag" style="font-size: 10.330652881486pt;">video game</a>
+<a href="http://gameolosophy.com/tag/video-games/" class="tag-link-2319" title="1,612 topics" rel="tag" style="font-size: 9.3321845682558pt;">video games</a>
+<a href="http://gameolosophy.com/tag/wii/" class="tag-link-14223" title="1,264 topics" rel="tag" style="font-size: 8.8657859467739pt;">Wii</a>
+<a href="http://gameolosophy.com/tag/world-of-warcraft/" class="tag-link-111741" title="1,339 topics" rel="tag" style="font-size: 8.9663028910588pt;">World of Warcraft</a>
+<a href="http://gameolosophy.com/tag/wow/" class="tag-link-13197" title="890 topics" rel="tag" style="font-size: 8.3645414512732pt;">WoW</a>
+<a href="http://gameolosophy.com/tag/xbox/" class="tag-link-40429" title="2,003 topics" rel="tag" style="font-size: 9.856212904461pt;">Xbox</a>
+<a href="http://gameolosophy.com/tag/xbox-360/" class="tag-link-97225" title="1,599 topics" rel="tag" style="font-size: 9.3147616312464pt;">Xbox 360</a>	</div>
 
 
 	<div class="widget">		
@@ -533,15 +693,40 @@ function showTriondSignupForm()
 	</div>
 	
 	<div class="widget">
+		
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1390");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1390&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=54757693197&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=9d7449&amp;cb=d6f686f91e0ca4f608581c751b87c444' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1390&amp;cb=d6f686f91e0ca4f608581c751b87c444&amp;n=9d7449' border='0' alt='' /></a></noscript>	</div>	
+	
+	<div class="widget">
 	<div class="sidebar-title">Recent Comments</div>
 	<ul>
-	<li><strong>ployyoza:</strong> <a href="http://gameolosophy.com/games/action/empires-allies-get-friends-neighbors-forces-here-how-to-get-empires-allies-neighbors/#comment-333565" title="View the entire comment by ployyoza">แอดเพื่อน ทีเนอะ ploygoing159@hotmail.com</a></li><li><strong>webseowriters:</strong> <a href="http://gameolosophy.com/games/rpg/age-of-empires-ii/empires-allies-research-labs-research-labs-guide-and-tips-army-research-lab/#comment-333563" title="View the entire comment by webseowriters">thisis cool game</a></li><li><strong>Mark:</strong> <a href="http://gameolosophy.com/games/action/empires-allies-get-friends-neighbors-forces-here-how-to-get-empires-allies-neighbors/#comment-333561" title="View the entire comment by Mark">http://www.facebook.com/Tasslehoff619
+	<li><strong>tenraj:</strong> <a href="http://gameolosophy.com/games/action/fifa-12-top-five-strikers/#comment-376820" title="View the entire comment by tenraj">nice information..</a></li><li><strong>ash:</strong> <a href="http://gameolosophy.com/games/special-force-new-wallhack-2011/#comment-376818" title="View the entire comment by ash">e2 po ang email ko</a></li><li><strong>Aroosagloomy:</strong> <a href="http://gameolosophy.com/games/action/fifa-12-top-five-strikers/#comment-376812" title="View the entire comment by Aroosagloomy">Again here.</a></li><li><strong>Aroosagloomy:</strong> <a href="http://gameolosophy.com/games/action/mass-effect-two-review-10/#comment-376810" title="View the entire comment by Aroosagloomy">I like it.</a></li><li><strong>help:</strong> <a href="http://gameolosophy.com/games/free-terraria-download/#comment-376808" title="View the entire comment by help">Can anyone help me?
+I played</a></li>	</ul>
+	</div>
 
-add me plz</a></li><li><strong>Kosmin:</strong> <a href="http://gameolosophy.com/games/terraria-1-0-5/#comment-333559" title="View the entire comment by Kosmin">Try this link:
-http://www.mediafire.com/?9i5y2moj7mat844</a></li><li><strong>Alyssa M.:</strong> <a href="http://gameolosophy.com/games/sports/total-club-manager/pokemon-platinum-review/#comment-333557" title="View the entire comment by Alyssa M.">thanks everyone!</a></li>	</ul>
-	</div>
-	
-	</div>
+</div>
 <!-- sidebar2 -->		
 
 		</div>
@@ -580,7 +765,7 @@ http://www.mediafire.com/?9i5y2moj7mat844</a></li><li><strong>Alyssa M.:</strong
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=111&amp;rnd=1959065153"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=111&amp;rnd=2378433861"><script type="text/javascript">
 					var _gaq = _gaq || [];
 					_gaq.push(['t3._setAccount', 'UA-1488967-3']);_gaq.push(['t3._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
@@ -589,7 +774,31 @@ http://www.mediafire.com/?9i5y2moj7mat844</a></li><li><strong>Alyssa M.:</strong
 					  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 					})();
 					
-					</script><script type="text/javascript">
+					</script>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1388");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1388&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=35264112661&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=bf4679&amp;cb=dcc64a9a02e59ba4fc2b6cb899924d06' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1388&amp;cb=dcc64a9a02e59ba4fc2b6cb899924d06&amp;n=bf4679' border='0' alt='' /></a></noscript><script type="text/javascript">
 var _sf_async_config={uid:6902};
 (function(){
   function loadChartbeat() {
@@ -612,42 +821,56 @@ var _sf_async_config={uid:6902};
  
 	<div id="ad-to">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1365");
-   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1365&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=&amp;cb=47010565320&amp;loc=https%3A//web.archive.org/web/20110625110825id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=be19f3&amp;cb=71daa1b1b36f08f07878b1aea3ccc279' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1365&amp;cb=71daa1b1b36f08f07878b1aea3ccc279&amp;n=be19f3' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1365");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1365&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=15353427415&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=93b4bb&amp;cb=31d63834ee4951344329e41dfdfc42c2' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1365&amp;cb=31d63834ee4951344329e41dfdfc42c2&amp;n=93b4bb' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=946");
-   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=946&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=&amp;cb=77562646884&amp;loc=https%3A//web.archive.org/web/20110625110825id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=fa4475&amp;cb=2b81988a4721a8168ae49cf39c434d04' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=946&amp;cb=2b81988a4721a8168ae49cf39c434d04&amp;n=fa4475' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=946");
+					   document.write ("&clr_link=FFFFFF&clr_title=FFFFFF&clr_bg=111111&clr_border=111111&clr_text=C6C6C6&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=946&amp;clr_link=FFFFFF&amp;clr_title=FFFFFF&amp;clr_bg=111111&amp;clr_border=111111&amp;clr_text=C6C6C6&amp;source=acf=nontriond&amp;cb=89500657581&amp;loc=https%3A//web.archive.org/web/20111101121832id_/http%253A//gameolosophy.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=f4acc8&amp;cb=401b000501ea7b39d08be3d2c5c398dd' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=946&amp;cb=401b000501ea7b39d08be3d2c5c398dd&amp;n=f4acc8' border='0' alt='' /></a></noscript>	</div>
 <!-- start eXelate tag - Triond - Default Site -->
 <script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=1&amp;ctg=gaming&amp;subctg=1"></script>
 <!-- end eXelate tag -->
