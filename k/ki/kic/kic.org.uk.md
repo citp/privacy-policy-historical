@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kic.org.uk privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217040928id_/http%3A//kic.org.uk/en/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kic.org.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124430id_/http%3A//www.kic.org.uk/en/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Kaplan International Colleges
 
@@ -36,9 +36,9 @@ Tel: +44 (0)20 7811 3050
 Fax: +44 (0)20 7881 0710  
 [kicinfo@kaplan.com](mailto:kicinfo@kaplan.com "Email KIC Head Office")
 
-Shepherds Building  
-Charecroft Way  
-London, W14 0EE  
+Kaplan International Colleges  
+Kensington Village, Avonmore Road  
+London W14 8HQ   
 United Kingdom 
 
 ##  Questions, Comments and Concerns
@@ -49,9 +49,9 @@ Tel: +44 (0)20 7811 3050
 Fax: +44 (0)20 7881 0710  
 [kicinfo@kaplan.com](mailto:kicinfo@kaplan.com "Email KIC Head Office")
 
-Shepherds Building  
-Charecroft Way  
-London, W14 0EE  
+Kaplan International Colleges  
+Kensington Village, Avonmore Road  
+London W14 8HQ   
 United Kingdom 
 
 ## Modifications
