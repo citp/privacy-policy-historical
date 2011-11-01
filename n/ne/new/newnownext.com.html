@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the newnownext.com privacy policy that was archived on 2011-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110514025702id_/http%3A//www.logotv.com/about/privacy-policy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the newnownext.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102001841id_/http%3A//www.logotv.com/about/privacy-policy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
@@ -129,12 +129,6 @@ Assign jQuery to $j so Logo plays nice with the MTV scripts.
 */
 var $j = jQuery;
 </script>
-
-<!--
-<script type="text/javascript" src="/global/scripts/yeti/mtvi.js"></script>
-<script type="text/javascript" src="/sitewide/scripts/yeti/config_yeti.js"></script>
-<script type="text/javascript" src="/global/scripts/yeti/mtvi_required.js"></script>
--->
 
 <script language="JavaScript" type="text/javascript">var sections="&gateway=about&section_1=main";</script>
 
@@ -282,6 +276,7 @@ video_keyvals='';
 </script>
 
 <script>
+
 secparams="_hp"; //homepage default
 zone="_hp"; //homepage default
 ex_cats="";	//exception categories
@@ -377,7 +372,9 @@ zone = zone.replace("/9", "/_9");
 //section name and exclusion category
 secname=secparams.split("/")[0];
 ex_cats = "!category="+secname+";";
+
 </script>
+
 <script>
 function removeInvalidCharsFrom(myString) {
 var escapedString = myString.replace(/\W/g, "_");
@@ -622,15 +619,21 @@ arrPixelTracker.push(fileref);
 }
 skinSource = _package.find('skinSource').text();
 
-// Inject stylesheet override
-var fileref = document.createElement("link");
-fileref.setAttribute("rel", "stylesheet");
-fileref.setAttribute("type", "text/css");
-fileref.setAttribute("href", skinSource);
-document.getElementsByTagName("body")[0].appendChild(fileref);
-
-return true;	// return false; = escape the .each loop, to apply only the first valid sponsorship.
+return true;
 }
+
+function resizeGutters(){
+var pageWidth = $j("body").width();
+var gutterWidth = (pageWidth-976)/2;
+$j('#gutterLeft').width(gutterWidth-3);
+$j('#gutterRight').width(gutterWidth-3);
+}
+
+$j(function(){resizeGutters();});
+
+$j(window).resize(function() {
+resizeGutters();
+});
 
 </script>
 <div class="topMenuBar noindex">
@@ -656,16 +659,16 @@ Flux.createWidget('QuickMenu', {showFBConnectButton:true});
 <link rel="stylesheet" type="text/css" media="screen, print, projection" href="/sitewide/css/charlie/header.css">
 
 <!-- search box -->
-<script type="text/JavaScript" src="/sitewide/core/javaScript/search/search.js"></script>
+<script type="text/JavaScript" src="/sitewide/core/javaScript/search/search.js">
 <script type="text/JavaScript">
 searchTerm="";
-srchType="";
+searchType="";
 searchFail="";
 </script>
 <!-- end search box -->
 
 <!-- autocomplete code for the search box -->
-<script type="text/javascript" src="/sitewide/core/javaScript/dojo/dojo.js"></script>
+<script type="text/javascript" src="/sitewide/core/javaScript/dojo/dojo.js">
 
 <script type="text/JavaScript">
 dojo.hostenv.setModulePrefix('utils', 'utils');
@@ -679,52 +682,55 @@ dojo.require("utils.AutoComplete");
 <!-- header body start -->
 <div class="header noindex">
 
-<a id="logo" href="/"></a>
+<a id="logo" href="http://www.logotv.com"></a>
 
 <ul class="dropdown dropdown-horizontal" id="mainMenu">
 <li><a class="dir" href="/video">Watch Video</a><ul>
 <li class="shadeGrey"><a href="/video/showall.jhtml">Video Just Added</a></li>
-<li class="shadeWhite"><a href="/video/franchise.jhtml?ctid=2016">Full Length Movies</a></li>
+<li class="shadeWhite"><a href="/shows/logo_movie_house/series.jhtml">Full Length Movies</a></li>
 <li class="shadeGrey"><a href="/video/showall.jhtml#A to Z">Video A to Z</a></li>
 <li class="shadeWhite lowerDivider"><a href="/video/franchise.jhtml?ctid=1768">Music Videos</a></li>
-<li class="shadeGrey play"><a href="/shows/one_girl_five_gays/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">Watch Full Episodes of 1 Girl, 5 Gays</a></li>
-<li class="shadeWhite play"><a href="/shows/rupauls_drag_race/season_3/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">Watch Bonus Video from "RuPaul's Drag Race Season 3"</a></li>
-<li class="shadeGrey play"><a href="/shows/rupauls_drag_race/season_3/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">Watch Full Episodes from "RuPaul's Drag Race Season 3"</a></li>
+<li class="shadeGrey play"><a href="/shows/one_girl_five_gays/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">1 girl 5 gays Full Episodes</a></li>
+<li class="shadeWhite play"><a href="/shows/the_a_list_new_york/season_2/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">The A-List: New York Full Episodes</a></li>
+<li class="shadeGrey play"><a href="/video/?id=1667526"><img src="/video/images/playlist/overlay-play.gif">The Easy A-List</a></li>
+<li class="shadeWhite play"><a href="/shows/rupauls_drag_race/season_3/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">RuPaul's Drag Race Bonus Videos</a></li>
+<li class="shadeGrey play"><a href="http://www.logotv.com/video/untucked-episode-15-more-from-the-grand-finale/1662234/playlist.jhtml#vid=643800"><img src="/video/images/playlist/overlay-play.gif">Untucked: RuPaul's Drag Race Full Episodes</a></li>
+<li class="shadeWhite play"><a href="/shows/rupauls_drag_u/season_2/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">RuPaul's Drag U Full Episodes</a></li>
+<li class="shadeGrey play"><a href="/shows/rupauls_drag_u/season_2/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">RuPaul's Drag U Bonus Videos</a></li>
 </ul>
 </li>
 <li><a class="dir" href="/shows">Shows &amp; Schedule</a><ul>
 <li class="shadeGrey"><a href="/schedule/">TV Schedule</a></li>
 <li class="shadeWhite"><a href="/shows/">Latest Logo Shows</a></li>
 <li class="shadeGrey lowerDivider"><a href="/sitemap.jhtml#series">Shows A to Z</a></li>
-<li class="shadeWhite"><a href="/shows/rupauls_drag_race/season_3/series.jhtml">"RuPaul's Drag Race Season 3" Homepage</a></li>
-<li class="shadeGrey"><a href="/events/newnownext_awards/2011/">The 2011 NewNowNext Awards Homepage</a></li>
-<li class="shadeWhite"><a href="/shows/absolutely_fabulous/series.jhtml">"Absolutely Fabulous" Homepage</a></li>
-<li class="shadeGrey"><a href="/shows/one_girl_five_gays/series.jhtml">"1 Girl 5 Gays" Homepage</a></li>
-<li class="shadeWhite"><a href="/shows/the_a_list_new_york/series.jhtml">"The A-List: New York" Homepage</a></li>
-<li class="shadeGrey"><a href="/shows/setup_squad/series.jhtml">"Setup Squad" Homepage</a></li>
-<li class="shadeWhite"><a href="/shows/pretty_hurts/series.jhtml">"Pretty Hurts" Homepage</a></li>
-<li class="shadeGrey"><a href="/shows/daria/series.jhtml">"Daria" Homepage</a></li>
-<li class="shadeWhite"><a href="/shows/rupauls_drag_u/series.jhtml">"Drag U" Homepage</a></li>
+<li class="shadeWhite"><a href="/shows/one_girl_five_gays/series.jhtml">1 girl 5 gays</a></li>
+<li class="shadeGrey"><a href="/shows/absolutely_fabulous/series.jhtml">Absolutely Fabulous</a></li>
+<li class="shadeWhite"><a href="/shows/the_a_list_dallas/season_1/series.jhtml">The A-List: Dallas</a></li>
+<li class="shadeGrey"><a href="/shows/the_a_list_new_york/season_2/series.jhtml">The A-List: New York</a></li>
+<li class="shadeWhite"><a href="/shows/bad_sex/series.jhtml">Bad Sex</a></li>
+<li class="shadeGrey"><a href="http://www.afterellen.com/tags/exes_%2526_ohs">Exes &amp; Ohs</a></li>
+<li class="shadeWhite"><a href="/shows/rupauls_drag_race/season_3/series.jhtml">RuPaul's Drag Race</a></li>
+<li class="shadeGrey"><a href="/shows/rupauls_drag_u/season_2/series.jhtml">RuPaul's Drag U</a></li>
+<li class="shadeWhite"><a href="/shows/setup_squad/series.jhtml">Setup Squad</a></li>
 </ul>
 </li>
 <li><a class="dir" href="http://www.newnownext.com/">News, Music &amp; Blogs</a><ul>
 <li class="shadeGrey"><a href="http://www.newnownext.com/">NewNowNext Blog</a></li>
 <li class="shadeWhite"><a href="/video/franchise.jhtml?ctid=1768">NewNowNext Music</a></li>
 <li class="shadeGrey"><a href="/video/franchise.jhtml?ctid=2073">NewNowNext PopLab</a></li>
-<li class="shadeWhite"><a href="http://www.365gay.com/expert/">365gay.com Ask the Expert</a></li>
-<li class="shadeGrey"><a href="http://www.365gay.com/">365gay.com News</a></li>
-<li class="shadeWhite"><a href="http://www.afterellen.com/">AfterEllen.com</a></li>
-<li class="shadeGrey"><a href="http://www.afterelton.com/">AfterElton.com</a></li>
+<li class="shadeWhite"><a href="http://www.newnownext.com/ask-the-expert/">NewNowNext Ask the Expert</a></li>
+<li class="shadeGrey"><a href="http://www.afterellen.com/">AfterEllen.com</a></li>
+<li class="shadeWhite"><a href="http://www.afterelton.com/">AfterElton.com</a></li>
 </ul>
 </li>
-<li><a class="dir" href="http://www.tripoutgaytravel.com">Travel</a><ul>
-<li class="shadeGrey lowerDivider"><a href="http://www.tripoutgaytravel.com">Gay Travel: Destinations and Reviews</a></li>
-<li class="shadeWhite play"><a href="/video/?id=1613192"><img src="/video/images/playlist/overlay-play.gif">Watch New Episodes of "Bump!"</a></li>
-<li class="shadeGrey play"><a href="/video/franchise.jhtml?ctid=1921"><img src="/video/images/playlist/overlay-play.gif">Watch "North America Travel" Video</a></li>
-<li class="shadeWhite play"><a href="/video/franchise.jhtml?ctid=2135"><img src="/video/images/playlist/overlay-play.gif">Watch "Europe Travel" Video</a></li>
-<li class="shadeGrey play"><a href="/video/franchise.jhtml?ctid=2136"><img src="/video/images/playlist/overlay-play.gif">Watch "Asia Travel" Video</a></li>
-<li class="shadeWhite play"><a href="/video/franchise.jhtml?ctid=2137"><img src="/video/images/playlist/overlay-play.gif">Watch "Australia Travel" Video</a></li>
-<li class="shadeGrey play lowerDivider"><a href="/video/franchise.jhtml?ctid=2134"><img src="/video/images/playlist/overlay-play.gif">Watch "South America Travel" Video</a></li>
+<li><a class="dir" href="http://www.tripouttravel.com">Travel</a><ul>
+<li class="shadeGrey lowerDivider"><a href="http://www.tripouttravel.com">Gay Travel: Destinations and Reviews</a></li>
+<li class="shadeWhite play"><a href="/shows/bump/series.jhtml"><img src="/video/images/playlist/overlay-play.gif">Bump! Full Episodes</a></li>
+<li class="shadeGrey play"><a href="/video/franchise.jhtml?ctid=2136"><img src="/video/images/playlist/overlay-play.gif">Asian Travel Videos</a></li>
+<li class="shadeWhite play"><a href="/video/franchise.jhtml?ctid=2137"><img src="/video/images/playlist/overlay-play.gif">Australian Travel Videos</a></li>
+<li class="shadeGrey play"><a href="/video/franchise.jhtml?ctid=2135"><img src="/video/images/playlist/overlay-play.gif">European Travel Videos</a></li>
+<li class="shadeWhite play"><a href="/video/franchise.jhtml?ctid=1921"><img src="/video/images/playlist/overlay-play.gif">North American Travel Videos</a></li>
+<li class="shadeGrey play lowerDivider"><a href="/video/franchise.jhtml?ctid=2134"><img src="/video/images/playlist/overlay-play.gif">South American Travel Videos</a></li>
 </ul>
 </li>
 <li><a class="dir" href="http://shop.logoonline.com">Shop</a><ul>
@@ -732,9 +738,9 @@ dojo.require("utils.AutoComplete");
 <li class="shadeWhite"><a href="http://shop.logoonline.com/Music_stcVVcatId475207VVviewcat.htm">Music</a></li>
 <li class="shadeGrey"><a href="http://shop.logoonline.com/Books_stcVVcatId475205VVviewcat.htm">Books</a></li>
 <li class="shadeWhite lowerDivider"><a href="http://shop.logoonline.com/Gear_stcVVcatId475805VVviewcat.htm">Clothes</a></li>
-<li class="shadeGrey"><a href="http://shop.logotv.com/search.htm?keyword=noahs+arc">Buy: "Noah's Arc" Stuff</a></li>
-<li class="shadeWhite"><a href="http://shop.logotv.com/search.htm?keyword=rupaul">Buy: "Drag Race" Stuff</a></li>
-<li class="shadeGrey"><a href="http://shop.logotv.com/search.htm?keyword=a-list">Buy: "A-List" Stuff</a></li>
+<li class="shadeGrey"><a href="http://shop.logotv.com/search.htm?keyword=a-list">The A-List Stuff</a></li>
+<li class="shadeWhite"><a href="http://shop.logotv.com/search.htm?keyword=rupaul">RuPaul's Drag Race Stuff</a></li>
+<li class="shadeGrey"><a href="http://shop.logotv.com/search.htm?keyword=noahs+arc">Noah's Arc Stuff</a></li>
 </ul>
 </li>
 <li><a class="dir open" href="/about">About Logo</a><ul>
@@ -792,58 +798,52 @@ dojo.require("utils.AutoComplete");
 <li id="leftPromo">
 <div id="leftPromo-content">
 <ul style="width:218px; display:none; position:relative; float:left; list-style-type:none; padding:0px; margin:0px;">
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/OPA-badsex.png) no-repeat scroll 0px 0px;"><a href="http://www.facebook.com/BadSexOnLogo" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #FFEE44;">Get Addicted&nbsp; </span><span class="hasArrow" style="color: #FFF;">To bad sex on Facebook.</span></td>
+</tr>
+</tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/1girl5gays" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Meet your new BFFs.&nbsp; </span><span class="hasArrow" style="color: #FFF;">Facebook 1 Girl 5 Gays!</span></td>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Meet your new BFFs.&nbsp; </span><span class="hasArrow" style="color: #FFF;">Friend 1 girl 5 gays.</span></td>
 </tr>
 </tbody></table></a></li>
-<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/PrettyHurts" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/OPA-alist-dallas.png) no-repeat scroll 0px 0px;"><a href="http://www.facebook.com/AListDallas" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
+<tbody><tr>
+<td valign="middle" height="68"><span style="color: #e2bd00;">Drop By Ya'll!&nbsp; </span><span class="hasArrow" style="color: #FFF;">The A-List: Dallas is on Facebook.</span></td>
+</tr>
+</tbody></table></a></li>
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/OPA-tumblr.png) no-repeat scroll 15px 50%;"><a href="http://logotv.tumblr.com" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Put more FACE in Facebook.&nbsp; </span><span class="hasArrow" style="color: #FFF;">See why Pretty Hurts!</span></td>
+<td valign="middle" height="68"><span style="color: #8258FA;">All about images?&nbsp; </span><span class="hasArrow" style="color: #f0f0f0;">Tumble with us on Tumblr.</span></td>
 </tr>
 </tbody></table></a></li>
-<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/alist_logotalk_3_135x70.png) no-repeat scroll 0px 0px;"><a href="http://www.facebook.com/AListNY" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
-<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
+<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/OPA-getglue.png) no-repeat scroll 15px 50%;"><a href="http://www.getglue.com/LogoTV" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
+<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #f0f0f0;">Are you A-List?&nbsp; </span><span class="hasArrow" style="color: #e2bd00;">Tell us on Facebook!</span></td>
-</tr>
-</tbody></table></a></li>
-<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/bafa_promo_dragu.png) no-repeat scroll 0px 0px;"><a href="http://www.dragulator.com/" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
-<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
-<tbody><tr>
-<td valign="middle" height="68"><span style="color: #fff;">Get a Drag U makeover with the&nbsp; </span><span class="hasArrow" style="color: #ff6699;">Dragulator!</span></td>
-</tr>
-</tbody></table></a></li>
-<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/bafa_promo_dragu.png) no-repeat scroll 0px 0px;"><a href="http://www.facebook.com/RuPaulsDragU" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
-<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
-<tbody><tr>
-<td valign="middle" height="68"><span style="color: #fff;">Join other pupils!&nbsp; </span><span class="hasArrow" style="color: #fff;">RuPaul's Drag U on Facebook!</span></td>
-</tr>
-</tbody></table></a></li>
-<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/setup_squad_135x74.png) no-repeat scroll 0px 0px;"><a href="http://www.facebook.com/SetupSquad" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
-<table width="95" height="68" style="float:right; position:relative; margin-right:5px;">
-<tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Need a good wingman?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Meet Setup Squad on Facebook!</span></td>
+<td valign="middle" height="68"><span style="color: #f0f0f0;">Check in on GetGlue.&nbsp; </span><span class="hasArrow" style="color: #e2bd00;">Unlock exclusive shows stickers.</span></td>
 </tr>
 </tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_signup.png) no-repeat scroll 15px 50%;"><a onclick="javascript:popNewsletter();" href="#" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Get the latest from Logo!&nbsp; </span><span class="hasArrow" style="color: #FFF;">Sign Up For Our Newsletters!</span></td>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Get the latest from Logo.&nbsp; </span><span class="hasArrow" style="color: #FFF;">Sign up for our newsletters.</span></td>
 </tr>
 </tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/logo" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Connect With Us On Facebook!&nbsp; </span><span style="color: #FFF;"></span></td>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Like Logo?&nbsp; </span><span style="color: #FFF;"> Then Like us on Facebook.</span></td>
 </tr>
 </tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_twitter.png) no-repeat scroll 15px 50%;"><a href="http://www.twitter.com/LogoTV" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #FFF;">We tweet, you win.&nbsp; </span><span class="hasArrow" style="color: rgb(75, 200, 254);">Follow LogoTV for exclusive contests!</span></td>
+<td valign="middle" height="68"><span style="color: #FFF;">We tweet, you win.&nbsp; </span><span class="hasArrow" style="color: rgb(75, 200, 254);">Follow LogoTV for exclusive contests.</span></td>
 </tr>
 </tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_downelink.png) no-repeat scroll 15px 50%;"><a href="http://www.downelink.com/" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
@@ -852,28 +852,22 @@ dojo.require("utils.AutoComplete");
 <td valign="middle" height="68"><span style="color: rgb(0, 148, 254);">Join the largest LGBT social network,&nbsp; </span><span class="hasArrow" style="color: #FFF;">Downelink</span></td>
 </tr>
 </tbody></table></a></li>
-<li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://apps.facebook.com/rupaul-drag-name?_fb_fromhash=515670f141b42b5cb97c1774908b9bd0" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
-<table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
-<tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Hey Miss Thang, what's your drag name?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Try our Facebook app!</span></td>
-</tr>
-</tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/NewNowNext" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Are you ahead of the music curve?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Add NewNowNext!</span></td>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Want to be ahead of the music curve?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Follow NewNowNext.</span></td>
 </tr>
 </tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_facebook.png) no-repeat scroll 15px 50%;"><a href="http://www.facebook.com/RuPaulsDragRace" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #75BBF9;">Love RuPaul's Drag Race?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Connect with other fans!</span></td>
+<td valign="middle" height="68"><span style="color: #75BBF9;">Love RuPaul's Drag Race?&nbsp; </span><span class="hasArrow" style="color: #FFF;">Connect with fans on Facebook.</span></td>
 </tr>
 </tbody></table></a></li>
 <li class="bafaLeftContent" style="background: transparent url(http://www.logotv.com/content/bafaPromos/images/23x23_sweepstakes.png) no-repeat scroll 15px 50%;"><a href="http://ebm.mail.logoonline.com/r/regf2?a=0&amp;aid=1327847037&amp;n=1" target="_blank" style="margin: 0px; padding: 0px; width: 218px; display: block; position: relative; float: left;">
 <table width="164" height="68" style="float:right; position:relative; margin-right:5px;">
 <tbody><tr>
-<td valign="middle" height="68"><span style="color: #FF5B71;">Wanna win?&nbsp; </span><span class="hasArrow" style="color: #F0F0F0;">Get our sweepstakes only newsletter!</span></td>
+<td valign="middle" height="68"><span style="color: #FF5B71;">Wanna win?&nbsp; </span><span class="hasArrow" style="color: #F0F0F0;">Get our sweepstakes only newsletter.</span></td>
 </tr>
 </tbody></table></a></li>
 </ul>
@@ -890,14 +884,27 @@ mtvn.btg.config.AdSettings.DoubleClick["keyValues"] = keyvals;
 mtvn.btg.config.AdSettings.DoubleClick["defaultContentType"] = 'adj';
 mtvn.btg.config.AdSettings.DoubleClick["positionThreshold"] = '2';
 mtvn.btg.config.AdSettings.DoubleClick["zone"] = "atf_j_s/"+zone;	
-//Place Ad
-mtvn.btg.ads.AdManager.placeAd(
+if (zone.substring(0,5)=="video") {
+//Place Reloadable Ad
+mtvn.btg.Controller.placeAd(
+{
+size:'728x90',
+sections:secparams,
+keyValues:keyvals,
+isReloadable:true,
+reloadInterval:120000
+}
+);
+} else {
+//Place Static Ad
+mtvn.btg.Controller.placeAd(
 {
 size:'728x90',
 sections:secparams,
 keyValues:keyvals
 }
 );
+}
 mtvn.btg.config.AdSettings.DoubleClick["dartSite"] = 'logoonline.mtvi';
 </script>
 </li>
@@ -1267,7 +1274,7 @@ c/o Privacy Administrator</strong></p>
 <p><strong>c.&nbsp;&nbsp; Sole Statement:</strong> This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, but not limited to, machine-generated, is valid.</p>
 <p><strong>d.&nbsp;&nbsp; Other:</strong>&nbsp; <strong>Please review </strong>our <a href="http://www.logoonline.com/about/terms-of-use.jhtml"><strong>Terms of Use Agreement</strong></a> which governs your use of the Site.&nbsp; Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement.&nbsp; </p>
 <p>This Privacy Policy was last modified on the date indicated above and is effective immediately.<br>
-Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p>
+Copyright © 2011 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p>
 
 </td>
 </tr>
@@ -1299,7 +1306,7 @@ AfterEllen.com is not affiliated with Ellen DeGeneres. AfterElton.com is not aff
 <a href="/video/">Watch Video</a> |
 <a href="/shows/">Shows</a> |
 <a href="http://www.newnownext.com/">News, Music &amp; Blogs</a> |
-<a href="http://www.tripoutgaytravel.com">Gay Travel</a> |
+<a href="http://www.tripouttravel.com">Gay Travel</a> |
 <a href="/schedule/">Schedule</a> |
 <a href="http://shop.logoonline.com/?campaign1=Logoonline_Header_Footer">Shop</a> |
 <a href="/about/">About Logo</a>
@@ -1322,14 +1329,14 @@ AfterEllen.com is not affiliated with Ellen DeGeneres. AfterElton.com is not aff
 <li><div class="fbutton3"><a href="http://www.afterelton.com" target="_blank" title="Gay Movies &amp; Entertainment News"><img class="aeltonIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.afterelton.com" target="_blank" title="Gay Movies">Gay Movies</a> &amp;<br><a href="http://www.afterelton.com" target="_blank" title="Entertainment News">Entertainment News</a></div></li>
 <li><div class="fbutton3"><a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage"><img class="threeSixFiveIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">Gay</a>, <a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">Lesbian</a> &amp;<br><a href="http://www.365gay.com/tag/gay-marriage" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">Gay Marriage</a> <a href="http://www.365gay.com" target="_blank" title="Gay, Lesbian &amp; Gay Marriage">News</a></div></li>
 <li><div class="fbutton3"><a href="http://www.downelink.com" target="_blank" title="Gay &amp; Lesbian Social Network"><img class="downelinkIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.downelink.com" target="_blank" title="Gay &amp; Lesbian Social Network">Gay &amp; Lesbian<br>Social Network</a></div></li>
-<li><div class="fbutton3"><a href="http://www.tripoutgaytravel.com/" target="_blank" title="Tripout Gay Travel"><img class="tripoutIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.tripoutgaytravel.com/" target="_blank" title="Tripout Gay Travel">Gay Travel</a><br><a href="http://www.tripoutgaytravel.com/all-destinations" target="_blank" title="Tripout Gay Travel">Destinations</a></div></li>
+<li><div class="fbutton3"><a href="http://www.tripouttravel.com/" target="_blank" title="Tripout Travel"><img class="tripoutIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.tripouttravel.com/" target="_blank" title="Tripout Travel">Gay Travel</a><br><a href="http://www.tripouttravel.com/all-destinations" target="_blank" title="Tripout Travel">Destinations</a></div></li>
 <li><div class="fbutton3"><a href="http://www.rupaulsdragrace.com/" target="_blank" title="RuPaul searches for America's Next Drag Queen"><img class="rupaulIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.rupaulsdragrace.com/" target="_blank" title="RuPaul searches for America's Next Drag Queen">RuPaul</a> <a href="http://www.rupaulsdragrace.com/" target="_blank" title="RuPaul searches for America's Next Drag Queen">searches for America's Next Drag Queen</a></div></li>
 <li><div class="fbutton3"><a href="http://www.newnownext.com" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog"><img class="nnnIcon" src="/sitewide/img/spacer.gif"></a><br><a href="http://www.newnownext.com" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog">Gay</a> <a href="http://www.newnownext.com/celebs" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog">Pop Culture</a> &amp; <a href="http://www.newnownext.com" target="_blank" title="Gay Pop Culture &amp; Entertainment Blog">Entertainment Blog</a></div></li>
 </ul>
 </div>
 </div>
 </div>
-<div class="gft-row" id="gft-network"><div class="gft-row-header">MORE FROM MTV NETWORKS</div><div class="gft-row-subrow"><ul class="gft-col"><li class="gft-col-header">Music</li><li><a href="http://www.vh1.com/artists/az/adele/artist.jhtml">Adele</a></li><li><a href="http://www.mtv.com/music/artist/knowles_beyonce/artist.jhtml">Beyonce</a></li><li><a href="http://www.cmt.com/artists/az/paisley_brad/artist.jhtml">Brad Paisley</a></li><li><a href="http://www.mtv.com/music/artist/aguilera_christina/artist.jhtml">Christina Aguilera</a></li><li><a href="http://www.cmt.com/video/music-videos">Country Music Videos</a></li><li><a href="http://www.vh1.com/video/music.jhtml">Free Music Videos</a></li><li><a href="http://www.cmt.com/artists/az/johnson_jamey/artist.jhtml">Jamey Johnson</a></li><li><a href="http://www.mtv.com/music/artist/bieber_justin/artist.jhtml">Justin Bieber</a></li><li><a href="http://www.cmt.com/artists/az/lady_antebellum/artist.jhtml">Lady Antebellum</a></li><li><a href="http://www.mtv.com/music/artist/jackson_michael/artist.jhtml">Michael Jackson</a></li><li><a href="http://www.mtv.com/music/">Music</a></li><li><a href="http://www.mtv.com/music/artist/pink/artist.jhtml">Pink</a></li><li><a href="http://www.cmt.com/artists/az/sugarland/artist.jhtml">Sugarland</a></li><li><a href="http://www.cmt.com/artists/az/swift__taylor/artist.jhtml">Taylor Swift</a></li></ul><ul class="gft-col"><li class="gft-col-header">Shows</li><li><a href="http://www.vh1.com/shows/audrina_patridge/series.jhtml">Audrina Patridge</a></li><li><a href="http://www.vh1.com/shows/celebrity_rehab_with_dr_drew/season_4/cast_member.jhtml?personalityId=14558">Dr. Drew Pinsky</a></li><li><a href="http://www.vh1.com/video/full_episodes.jhtml">Full Episodes</a></li><li><a href="http://www.afterellen.com/">Lesbian TV</a></li></ul><ul class="gft-col"><li class="gft-col-header">News</li><li><a href="http://www.mtv.com/news/latest/celebrity.jhtml">Celebrity News</a></li><li><a href="http://www.365gay.com/">Gay News</a></li><li><a href="http://www.mtv.com/news/latest/music.jhtml">Music News</a></li></ul><ul class="gft-col"><li class="gft-col-header">Entertainment</li><li><a href="http://www.thefablife.com/">Celebrity Gossip</a></li><li><a href="http://www.shockwave.com">Free Online Games</a></li><li><a href="http://www.addictinggames.com">Games</a></li><li><a href="http://www.tripoutgaytravel.com/">Gay Travel</a></li><li><a href="http://www.LogoTV.com/">Gay Video</a></li><li><a href="http://www.thefablife.com/tag/kristen-stewart-photos">Kristen Stewart Photos</a></li><li><a href="http://www.thefablife.com/tag/lady-gaga-outfits/">Lady Gaga Outfits</a></li><li><a href="http://www.nextmovie.com/">NextMovie</a></li></ul><ul class="gft-col"><li class="gft-col-header">Movies</li><li><a href="http://www.afterelton.com/">Gay Movies</a></li><li><a href="http://www.mtv.com/movies/">New Movies</a></li></ul></div></div>
+<div class="gft-row" id="gft-network"><div class="gft-row-header">MORE FROM MTV NETWORKS</div><div class="gft-row-subrow"><ul class="gft-col"><li class="gft-col-header">Music</li><li><a href="http://www.vh1.com/artists/az/adele/artist.jhtml">Adele</a></li><li><a href="http://www.mtv.com/music/artist/knowles_beyonce/artist.jhtml">Beyonce</a></li><li><a href="http://www.cmt.com/artists/az/paisley_brad/artist.jhtml">Brad Paisley</a></li><li><a href="http://www.mtv.com/music/artist/aguilera_christina/artist.jhtml">Christina Aguilera</a></li><li><a href="http://www.cmt.com/video/music-videos">Country Music Videos</a></li><li><a href="http://www.vh1.com/video/music.jhtml">Free Music Videos</a></li><li><a href="http://www.cmt.com/artists/az/johnson_jamey/artist.jhtml">Jamey Johnson</a></li><li><a href="http://www.mtv.com/music/artist/bieber_justin/artist.jhtml">Justin Bieber</a></li><li><a href="http://www.cmt.com/artists/az/lady_antebellum/artist.jhtml">Lady Antebellum</a></li><li><a href="http://www.mtv.com/music/artist/jackson_michael/artist.jhtml">Michael Jackson</a></li><li><a href="http://www.mtv.com/music/">Music</a></li><li><a href="http://www.mtv.com/music/artist/pink/artist.jhtml">Pink</a></li><li><a href="http://www.cmt.com/artists/az/sugarland/artist.jhtml">Sugarland</a></li><li><a href="http://www.cmt.com/artists/az/swift__taylor/artist.jhtml">Taylor Swift</a></li></ul><ul class="gft-col"><li class="gft-col-header">Shows</li><li><a href="http://www.vh1.com/shows/audrina_patridge/series.jhtml">Audrina Patridge</a></li><li><a href="http://www.vh1.com/shows/celebrity_rehab_with_dr_drew/season_4/cast_member.jhtml?personalityId=14558">Dr. Drew Pinsky</a></li><li><a href="http://www.vh1.com/video/full_episodes.jhtml">Full Episodes</a></li><li><a href="http://www.afterellen.com/">Lesbian TV</a></li></ul><ul class="gft-col"><li class="gft-col-header">News</li><li><a href="http://www.mtv.com/news/latest/celebrity.jhtml">Celebrity News</a></li><li><a href="http://www.mtv.com/news/latest/music.jhtml">Music News</a></li></ul><ul class="gft-col"><li class="gft-col-header">Entertainment</li><li><a href="http://www.thefablife.com/">Celebrity Gossip</a></li><li><a href="http://www.shockwave.com">Free Online Games</a></li><li><a href="http://www.addictinggames.com">Games</a></li><li><a href="http://www.tripouttravel.com/">Travel</a></li><li><a href="http://www.LogoTV.com/">Gay Video</a></li><li><a href="http://www.thefablife.com/tag/kristen-stewart-photos">Kristen Stewart Photos</a></li><li><a href="http://www.thefablife.com/tag/lady-gaga-outfits/">Lady Gaga Outfits</a></li><li><a href="http://www.nextmovie.com/">NextMovie</a></li></ul><ul class="gft-col"><li class="gft-col-header">Movies</li><li><a href="http://www.afterelton.com/">Gay Movies</a></li><li><a href="http://www.mtv.com/movies/">New Movies</a></li></ul></div></div>
 
 </div>
 </div>
