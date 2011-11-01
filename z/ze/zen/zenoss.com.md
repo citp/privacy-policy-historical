@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916023106id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenoss.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121438id_/http%3A//www.zenoss.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Commercial Open Source Application, Systems and Network Monitoring - Zenoss
+# Privacy Policy
+
+| 
 
 The intent of this privacy policy is to disclose Zenoss privacy practices, whether you are a casual browser of our website, or a community member who chooses to interact actively with us through our website, use our software, or receive email from us.
 
@@ -34,7 +36,7 @@ The intent of this privacy policy is to disclose Zenoss privacy practices, wheth
 > 
 > If you use a forum, email list or chat room on the Zenoss website, you should be aware that any personally identifying information you submit there can be read, collected or used by other users of those services, and could be used to send you unsolicited messages. Zenoss is not responsible for personally identifying information which visitors may choose to submit in those cases.
 > 
-> In the event that Zenoss goes through a business transition, such as a reorganization, merger, acquisition, or sale of all or a portion of its assets, user information, including personally identifying information, may be one of the transferred assets. We are the sole owner of any and all information which we may collect, including through the Zenoss website and interactive software features. 
+> In the event that Zenoss goes through a business transition, such as a reorganization, merger, acquisition, or sale of all or a portion of its assets, user information, including personally identifying information, may be one of the transferred assets. We are the sole owner of any and all information which we may collect, including through the Zenoss website and interactive software features.
 
 ### How can you access or correct your personally-identifying information?
 
@@ -58,4 +60,6 @@ The intent of this privacy policy is to disclose Zenoss privacy practices, wheth
 
 ### How can you contact us?
 
-> If you have any questions about this statement or our privacy practices, you may contact us via email at privacy@zenoss.com. 
+> If you have any questions about this statement or our privacy practices, you may contact us via email at privacy@zenoss.com.  
+  
+---|---
