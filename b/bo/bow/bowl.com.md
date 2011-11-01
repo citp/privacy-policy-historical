@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2011-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110620123516id_/http%3A//bowl.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bowl.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101192711id_/http%3A//www.bowl.com/privacy) for the most accurate reproduction.*
 
-# Bowl.com | Privacy Policy
+# Bowl.com | USBC Privacy Policy
 
   * Privacy
 
