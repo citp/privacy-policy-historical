@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hispanicallyspeakingnews.com privacy policy that was archived on 2010-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100928103841id_/http%3A//www.hispanicallyspeakingnews.com/common/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hispanicallyspeakingnews.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002634id_/http%3A//www.hispanicallyspeakingnews.com/common/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hispanically Speaking News - HS-News.com
+# Privacy Policy - Hispanically Speaking News
 
 At [http://www.HS-News.com](http://www.hs-news.com/) we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. In adopting this privacy policy, our intent is to balance our legitimate business interests in collecting and using your personal information with your reasonable expectations of privacy. The policy may be revised or updated at any time and we encourage you to check back often to ensure that you are familiar with the most recent version and the terms of our policy. 
 
