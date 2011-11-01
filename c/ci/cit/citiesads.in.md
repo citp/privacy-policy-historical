@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120213311id_/http%3A//www.citiesads.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiesads.in privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120508id_/http%3A//citiesads.in/privacy.php) for the most accurate reproduction.*
 
-# Free classified Ads India | Online Classifieds India | Online Classified Advertising | Post Free Local Classified ad Listings in India - Citiesads.ini
+# Post Classified Ads,Free Classifieds Ads India,Classified ads personals
 
 **CitiesAds Privacy statement**
 
