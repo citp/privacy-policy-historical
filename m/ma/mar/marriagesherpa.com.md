@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marriagesherpa.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515072726id_/http%3A//www.marriagesherpa.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marriagesherpa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105356id_/http%3A//www.marriagesherpa.com/legal/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | MarriageSherpa
 
@@ -33,6 +33,10 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 **Minors**
 
 We do not knowingly collect or solicit Personally Identifiable Information from or about minors under 13 except as permitted by law. If we discover we have received any information from a minor under 13 in violation of this policy, we will delete that information immediately.
+
+**Opt Out Instructions**
+
+If you wish to opt-out from receiving email communications from us, please send us an email requesting such removal to support at marriagesherpa.com and we will honor that request within 10 business days. If you have questions or concerns about any of our information collection or handling practices, please contact us at support at marriagesherpa.com, write to us at 1121C Military Cutoff Road, #360, Wilmington, NC 28405 or by calling 1-800-251-7050.
 
 **Changes to this Policy**
 
