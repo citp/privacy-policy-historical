@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606020921id_/http%3A//www.sanfrancisco.travel/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfrancisco.travel privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160236id_/http%3A//www.sanfrancisco.travel/privacy-policy) for the most accurate reproduction.*
 
-# Only in San Francisco! - Privacy Policy
+# San Francisco Travel: Your San Francisco Guide for Things to Do, Hotels, Dining, Shopping, Events & more - Privacy Policy
 
 ##  San Francisco Travel Privacy Policy 
 
