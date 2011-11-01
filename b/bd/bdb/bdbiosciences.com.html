@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bdbiosciences.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624231553id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bdbiosciences.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102004653id_/http%3A//www.bd.com/legal/privacy_policy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 <!-- Defined Country -->
@@ -34,72 +34,7 @@
 <script src="/includes/js/script.js?v=1"></script>
 <script src="/includes/js/swfobject.js"></script>
 <!----- HBX Include ----->
-<!-- HBX INCLUDE DATA HERE www.bd.com -->
 
-
-
-<!--WEBSIDESTORY CODE HBX1.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script language="javascript">
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0100u";hbx.gn="aa.bd.com";
-
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM531126I7FB72EN3";//ACCOUNT NUMBER(S)
-hbx.pn="PUT+PAGE+NAME+HERE";//PAGE NAME(S)
-hbx.mlc="CONTENT+CATEGORY";//MULTI-LEVEL CONTENT CATEGORY
-hbx.pndef="index.asp";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-
-//OPTIONAL PAGE VARIABLES
-//ACTION SETTINGS
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-hbx.lc="y";//FORCE LOWERCASE
-
-//SEGMENTS AND FUNNELS
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.fnl="";//FUNNELS
-
-//CAMPAIGNS
-hbx.cmp="";//CAMPAIGN ID
-hbx.cmpn="";//CAMPAIGN ID IN QUERY
-hbx.dcmp="";//DYNAMIC CAMPAIGN ID
-hbx.dcmpn="";//DYNAMIC CAMPAIGN ID IN QUERY
-hbx.dcmpe="";//DYNAMIC CAMPAIGN EXPIRATION
-hbx.dcmpre="";//DYNAMIC CAMPAIGN RESPONSE EXPIRATION
-hbx.hra="";//RESPONSE ATTRIBUTE
-hbx.hqsr="";//RESPONSE ATTRIBUTE IN REFERRAL QUERY
-hbx.hqsp="";//RESPONSE ATTRIBUTE IN QUERY
-hbx.hlt="";//LEAD TRACKING
-hbx.hla="";//LEAD ATTRIBUTE
-hbx.gp="";//CAMPAIGN GOAL
-hbx.gpn="";//CAMPAIGN GOAL IN QUERY
-hbx.hcn="";//CONVERSION ATTRIBUTE
-hbx.hcv="";//CONVERSION VALUE
-hbx.cp="";//LEGACY CAMPAIGN
-hbx.cpd="";//CAMPAIGN DOMAIN
-
-//CUSTOM VARIABLES
-hbx.ci="";//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
-
-//INSERT CUSTOM EVENTS
-
-//END EDITABLE SECTION
-
-//REQUIRED SECTION. CHANGE "YOURSERVER" TO VALID LOCATION ON YOUR WEB SERVER (HTTPS IF FROM SECURE SERVER)
-</script><script language="javascript1.1" src="https://www.bd.com/includes/hbx.js"></script>
-<!--END WEBSIDESTORY CODE-->
 </head>
 <!--[if lt IE 7]> <body class="ie6"> <![endif]-->
 <!--[if IE 7]> <body class="ie7"> <![endif]-->
@@ -110,7 +45,29 @@ hbx.pec="";//ERROR CODES
 <div id="container">
 
  <!----- global header Include ---->
- <header>
+ <script language="javascript">
+
+	function disableSearchButton(){
+		document.getElementById("search-button").disabled = true;							
+	}
+	function enableSearchButton(input){
+		if(input.value.length >= 2){			
+			document.getElementById("search-button").disabled = false;		
+		}else{	
+			disableSearchButton();
+		}	
+	}
+	function searchSubmit(){
+		if(document.getElementById("search_input").value.length >= 2){
+			disableSearchButton();
+			document.getElementById("search-field").value = document.getElementById("search_input").value;
+			document.forms["SrchInput"].submit();
+			document.getElementById("sframe").height = 3000;
+		}
+	}
+</script>
+
+<header>
 		<div id="logo"><a href="/"><img src="/images/bd-logo.gif" width="131" height="51" alt="BD" title="BD"></a></div>
 		<nav>
         	
@@ -130,18 +87,18 @@ hbx.pec="";//ERROR CODES
              		
 			</ul>
 		</nav>
-		<div id="search">   
+        <div id="search">
+       
+          
             <form name="SrchInput" action="http://search.bd.com/query.html" method="POST" enctype="multipart/form-data">
             	<input type="HIDDEN" name="col" value="all">
         		<input type="HIDDEN" name="lowercase_query" value="1">
                 <input type="HIDDEN" name="style" value="refresh"> 
         		<input type="hidden" name="charset" value="iso-8859-1">
-                <!--- may need to name the search text box - id="inputbox" --->
 				<input type="text" name="qt" id="search"> <div class="search-button-left"></div><input name="submit" id="search-button" value="Search" type="submit"><div class="search-button-right"></div>
 			</form>
-			<!---<form>
-				<input type="text" name="search" id="search"> <div class="search-button-left"></div><input name="submit" id="search-button" value="Search" type="submit"><div class="search-button-right"></div>
-			</form>--->
+            
+
 			<div class="clear"></div> 
             
 						<a href="/site_map.asp#legal" class="left">Site Map</a>
@@ -153,6 +110,7 @@ hbx.pec="";//ERROR CODES
     
 
 			
+
  
  <div id="main">
      <div id="left-column" class="column">
@@ -187,7 +145,7 @@ hbx.pec="";//ERROR CODES
 			</div>
 			
 			
-            BD produced the first syringe designed for injecting insulin and donated millions of dollars to diabetes research.
+            BD is contributing to the development of an effective AIDS vaccine by donating funds, products, and services.
 			<a href="http://www.bd.com/responsibility/trustedpartners/">Learn more about BD's philanthropic partnerships&nbsp;»</a>
 			
             
@@ -466,6 +424,39 @@ hbx.pec="";//ERROR CODES
 		<!--[if IE]>
 			</div><div class="bottom"></div>
 		<![endif]-->
+        
+        <!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2011 Webtrends Inc.  All rights reserved. -->
+<!-- Version: 9.4.0 -->
+<!-- Tag Builder Version: 3.2  -->
+<!-- Created: 9/7/2011 8:20:36 PM -->
+<script src="/includes/js/webtrends.js" type="text/javascript"></script>
+<!-- ----------------------------------------------------------------------------------- -->
+<!-- Warning: The two script blocks below must remain inline. Moving them to an external -->
+<!-- JavaScript include file can cause serious problems with cross-domain tracking.      -->
+<!-- ----------------------------------------------------------------------------------- -->
+
+<script type="text/javascript">
+//<![CDATA[
+var _tag=new WebTrends('dcs4vi8m07dv0hkn0whlp6gmw_9w2f');
+_tag.dcsGetId();
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+_tag.dcsCustom=function(){
+// Add custom parameters here.
+//_tag.DCSext.param_name=param_value;
+}
+_tag.dcsCollect();
+//]]>
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="//statse.webtrendslive.com/dcs4vi8m07dv0hkn0whlp6gmw_9w2f/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=9.4.0&amp;dcssip=www.bd.com"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+        
 	</footer>
 
 
