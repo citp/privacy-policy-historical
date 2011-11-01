@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the live365.com privacy policy that was archived on 2010-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100926115352id_/http%3A//www.live365.com/web/components/content/legal/privacy.live) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the live365.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101175553id_/http%3A//www.live365.com/web/components/content/legal/privacy.live) for the most accurate reproduction.*
 
 # Live365 - Privacy Policy
 
@@ -8,7 +8,7 @@ This privacy statement discloses the privacy practices for www.live365.com. If y
 
 1\. Introduction
 
-Live365.com, Inc. is committed to protecting the privacy of its users. This statement discloses Live365.com's privacy practices and is incorporated into, and subject to the terms of, Live365.com's Terms of Use. The purpose of this statement is to inform you as to: 
+Live365, Inc. is committed to protecting the privacy of its users. This statement discloses Live365.com's privacy practices and is incorporated into, and subject to the terms of, Live365.com's Terms of Use. The purpose of this statement is to inform you as to: 
 
   * What kinds of information Live365.com collects from users of the Live365.com Web site and how such information is collected;
   * How the information is used by Live365.com;
