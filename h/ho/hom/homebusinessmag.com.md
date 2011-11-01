@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123091325id_/http%3A//homebusinessmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebusinessmag.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124525id_/http%3A//www.homebusinessmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Home Business - Home Based Business - Work From Home - MLM - Work At Home - Home Business Magazine Online
+# Privacy Policy
 
 **Privacy Policy**
 
 Home Business Magazine takes your privacy seriously. Please read the following information to learn more about our privacy practices.
 
-  * This policy covers what personally identifiable information Home Business Magazine collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the [http://www.homebusinessmag.com](http://www.homebusinessmag.com/ "http://www.homebusinessmag.com") Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
-  * This policy only applies to [http://www.homebusinessmag.com](http://www.homebusinessmag.com/ "http://www.homebusinessmag.com") and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
+  * This policy covers what personally identifiable information Home Business Magazine collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the [http://www.homebusinessmag.com](http://www.homebusinessmag.com/) Web Site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
+  * This policy only applies to [http://www.homebusinessmag.com](http://www.homebusinessmag.com/) and does not extend to the practices of other Web Sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
 
 
 
