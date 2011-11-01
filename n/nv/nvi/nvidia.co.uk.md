@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624100904id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nvidia.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144957id_/http%3A//www.nvidia.co.uk/object/privacy_policy_uk.html) for the most accurate reproduction.*
 
 # NVIDIA Privacy Policy
 
 This policy was last updated on July 1, 2009.
 
-NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including www.nvidia.com, www.slizone.com, and www.nzone.com.
+NVIDIA respects the privacy of all visitors to its world wide family of NVIDIA-owned websites, including www.nvidia.co.uk and GeForce UK.
 
-[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] for the NVIDIA Kids Privacy Policy.
+[[CLICK HERE](https://web.archive.org/object/privacy-policy-children-uk.html)] for the NVIDIA Kids Privacy Policy.
 
 * * *
 
@@ -77,7 +77,7 @@ NVIDIA respects your choices about how your Personal Information is used when yo
 #### Kids Privacy Policy
 
 We take care to protect the privacy of children under the age of 13 who visit our website.   
-[[CLICK HERE](https://web.archive.org/object/privacy_policy_children.html)] to access NVIDIA's **Kids Privacy Policy**. 
+[[CLICK HERE](https://web.archive.org/object/privacy-policy-children-uk.html)] to access NVIDIA's **Kids Privacy Policy**. 
 
 #### Links to Other Sites
 
