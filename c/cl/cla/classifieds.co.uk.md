@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229091634id_/http%3A//www.classifieds.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifieds.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224935id_/http%3A//www.classifieds.co.uk/info/privacy) for the most accurate reproduction.*
 
 # Classifieds.co.uk - Classified ads
 
