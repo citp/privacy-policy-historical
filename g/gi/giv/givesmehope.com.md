@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givesmehope.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425081943id_/http%3A//www.givesmehope.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givesmehope.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145546id_/http%3A//www.givesmehope.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Gives Me Hope - FML for Optimists! (Inspiring Twitter-length Stories)
 
