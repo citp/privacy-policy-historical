@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612192308id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdtap.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122126id_/http%3A//crowdtap.com/pages/privacy) for the most accurate reproduction.*
 
 # Crowdtap - Where Consumers and Brands Collaborate
 
@@ -84,6 +84,8 @@ You or Crowdtap may terminate your membership in the Service for any reason with
 
 Use of this Site is governed by, and subject to, the legal notices contained in Crowdtap’s [Terms of Service](https://web.archive.org/pages/terms). Your use, or access, of the Site constitutes your agreement to be bound by these provisions. **IF YOU DO NOT AGREE TO THESE TERMS AND CONDITIONS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE.**
 
+Void where prohibited by law.
+
 **Comments and Questions:** If you have any questions, comments or concerns about our Privacy Policy, you may contact us. 
 
 MAIL   
@@ -96,6 +98,6 @@ EMAIL
 help@crowdtap.com
 
 PHONE   
-(646) 470-7396
+(646) 535-9490
 
 Effective Date: This privacy policy is effective and was last updated on May 14th, 2010. 
