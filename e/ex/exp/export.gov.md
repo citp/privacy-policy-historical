@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604131055id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the export.gov privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001727id_/http%3A//export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
 
 # Export.gov - Privacy Policy
 
