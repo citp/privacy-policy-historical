@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peatix.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516071135id_/http%3A//peatix.com/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peatix.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101070513id_/http%3A//peatix.com/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PeaTiX
 
@@ -89,6 +89,6 @@ Orinoco may update the Privacy Policy at any time. If there are any important up
 
 ## 11\. Other topics 
 
-Everything stated in this Privacy Policy is valid for interactions between Orinoco and users of PeaTiX and is invalid for third party pages and content including pages and content linked from within PeaTiX. If there are any questions or comments regarding the contents of this Privacy Policy please contact Orinoco from the following [link](http://peatix.com/contact).
+Everything stated in this Privacy Policy is valid for interactions between Orinoco and users of PeaTiX and is invalid for third party pages and content including pages and content linked from within PeaTiX. If there are any questions or comments regarding the contents of this Privacy Policy please contact Orinoco from the following [link](http://peatix.com/contact?sid=1b63aa9d7cf8225c6fd3b791e7711630dec72679).
 
 February 1st, 2011 Orinoco K.K.
