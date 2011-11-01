@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221185130id_/http%3A//www.cloudmade.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudmade.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122348id_/http%3A//cloudmade.com/privacy_policy) for the most accurate reproduction.*
 
 # CloudMade Privacy Policy
 
-CloudMade ( **"CloudMade"** ) values the privacy of our users, members, and others who visit and use www.cloudmade.com and its associated products and services (the **"CloudMade Service"** ) (collectively or individually **"Users"** ). This statement governs information you provide to us or that we learn from your use of the CloudMade Service and tells you how we may collect, use, and in some instances share this information.
+CloudMade ( **"CloudMade"** ) values the privacy of our users, members, and others who visit and use cloudmade.com and its associated products and services (the **"CloudMade Service"** ) (collectively or individually **"Users"** ). This statement governs information you provide to us or that we learn from your use of the CloudMade Service and tells you how we may collect, use, and in some instances share this information.
 
 ### The Information CloudMade Collects
 
