@@ -1,6 +1,53 @@
-> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503123057id_/http%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the numbeo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](http://www.numbeo.com/common/) |   
+---|---  
+  
+  * [Numbeo](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common)
+    * [Numbeo Newsletter (Email)](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common/join_community.jsp)
+    * [Numbeo News Feed](http://feeds2.feedburner.com/NumbeoBlog)
+    * [Terms of Use](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common/terms_of_use.jsp)
+    * [Privacy](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common/privacy.jsp)
+    * [In the News](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common/in_the_news.jsp)
+    * [About This Website](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common/about.jsp)
+  * [Cost Of Living](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/)
+    * [Cost Of Living](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/)
+    * [Cost of Living Comparison](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/comparison.jsp)
+    * [Cost of Living Calculator](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/calculator.jsp)
+    * [Cost Of Living Index](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/rankings.jsp)
+    * [Cost Of Living Index (Current)](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/rankings_current.jsp)
+    * [Cost Of Living Rankings By Country](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/rankings_by_country.jsp)
+    * [Prices By City](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/prices_by_city.jsp)
+    * [Prices By Country](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/prices_by_country.jsp)
+    * [Food Prices](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/food-prices/)
+    * [Basket of Goods and Services](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/basket_of_goods.jsp)
+    * [Motivation and Methodology](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/common/motivation_and_methodology.jsp)
+    * [Update Information for Your City](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/cost-of-living/contribute.jsp)
+  * [Property Prices](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/property-investment/)
+    * [Property Prices](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/property-investment/)
+    * [Property Prices Comparison](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/property-investment/comparison.jsp)
+    * [Property Prices Index](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/property-investment/rankings.jsp)
+    * [Property Prices Index By Country](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/property-investment/rankings_by_country.jsp)
+  * [Traffic](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/traffic/)
+    * [Traffic](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/traffic/)
+    * [Traffic Comparisons](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/traffic/comparison.jsp)
+  * [Crime](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/crime/)
+    * [Crime](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/crime/)
+    * [Crime Comparisons](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/crime/comparison.jsp)
+  * [Health Care](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/health-care/)
+    * [Health Care](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/health-care/)
+    * [Health Care Comparisons](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/health-care/comparison.jsp)
+  * [Pollution](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/pollution/)
+    * [Pollution](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/pollution/)
+    * [Pollution Comparisons](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/pollution/comparison.jsp)
+  * Other 
+    * [Hotel Prices](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/hotel-prices/)
+    * [Taxi Fare Calculator](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/taxi-fare/)
+    * [Gas Prices Calculator](https://web.archive.org/web/20111101105945id_/http%3A//www.numbeo.com/gas-prices/)
+
+
 
 Numbeo.com has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of this website. This Privacy Policy governs the manner in which Numbeo.com uses, maintains and discloses information collected from its customers and users of its website.
 
@@ -50,3 +97,5 @@ The information provided to Numbeo.com is saved indefinitely and may be stored o
 You are responsible for the security of your Customer ID and passwords. Make sure you keep them in a safe place and do not share them with others. Always remember to log out after your session ends to ensure that others cannot access your private personal information. You should take this precaution even if you are not using a public computer, such as at a library or internet café, but even when using your private computer in your home.
 
 We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [this URL](http://www.networkadvertising.org/managing/opt_out.asp). 
+
+Copyright © 2009-2011 Numbeo.com 
