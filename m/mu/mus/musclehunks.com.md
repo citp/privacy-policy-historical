@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musclehunks.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519090150id_/http%3A//musclehunks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musclehunks.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222831id_/http%3A//www.musclehunks.com/privacy.html) for the most accurate reproduction.*
 
 # Gay Muscle and Straight Male Muscle Men
 
