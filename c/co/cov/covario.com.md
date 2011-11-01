@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covario.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119082457id_/http%3A//www.covario.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covario.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233321id_/http%3A//www.covario.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,7 +52,7 @@ San Diego, CA  92130
 **Policy Change Notification**  
 Covario may change this policy from time to time. If Covario makes any substantial changes, the company will notify the public by posting a prominent announcement on the homepage of its website(s).
 
-** ** **Legal Disclaimer**  
+**Legal Disclaimer**  
 Covario may disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the requirements of law or comply with legal process served on the website.
 
 **Acceptance of Covario’s Privacy Policy**  
