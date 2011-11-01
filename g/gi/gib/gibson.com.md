@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gibson.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503185811id_/http%3A//www.gibson.com/en-us/Support/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gibson.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224154id_/http%3A//www.gibson.com/en-us/Support/Privacy-Policy) for the most accurate reproduction.*
 
 # Gibson.com Privacy Policy
 
@@ -44,6 +44,6 @@ Gibson never uses cookies to retrieve information from your computer not origina
 
 Most browsers are set initially to accept cookies. You can change these settings to prevent your hard drive from accepting cookies. In doing so, however, you may not be able to fully access all parts of the Gibson website and certain features contained in our website may not operate properly. 
 
-[](http://www2.gibson.com/Products/Electric-Guitars/Les-Paul/Gibson-Custom/Les-Paul-Axcess-Standard.aspx)   
+[](http://www.facebook.com/GibsonGuitar)   
   
 
