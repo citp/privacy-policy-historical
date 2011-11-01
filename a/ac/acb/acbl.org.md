@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220160812id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acbl.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000645id_/http%3A//www.acbl.org/join/privacyPolicy.html) for the most accurate reproduction.*
 
 # ACBL - ACBL Privacy Policy
 
@@ -67,7 +67,7 @@ back to top
 
 ## 6\. How do I access, update or delete my information?
 
-Members may change their addresses and other contact information when they access My ACBL and/or click onto "Change My Information" on the "Resources for Members" web page. They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 901-332-5586, ext. 1295 or e-mail at [service@acbl.org](mailto:service@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
+Members may change their addresses and other contact information when they access My ACBL and/or click onto "Change My Information" on the "Resources for Members" web page. They may also request the individual information that the ACBL has collected about them, correct factual inaccuracies in their information, remove personal information from the ACBL’s databases and/or update their personal information by calling the ACBL Customer Service Department at 662-253-3137 or e-mail at [service@acbl.org](mailto:service@acbl.org). Please allow up to four weeks for your selection to be fully implemented. Non-members' rights are as set forth in the "opt-out" section immediately below.
 
 back to top
 
@@ -93,7 +93,7 @@ Members may also “opt out” of having their information shared by the ACBL in
 
 
 
-To select one or both “opt outs,” e-mail [service@acbl.org](mailto:service@acbl.org) or contact the ACBL Customer Service Department at 901-332-5586, ext. 1295. Please allow up to four weeks for your selection to be fully implemented.
+To select one or both “opt outs,” e-mail [service@acbl.org](mailto:service@acbl.org) or contact the ACBL Customer Service Department at 662-253-3137. Please allow up to four weeks for your selection to be fully implemented.
 
 back to top
 
