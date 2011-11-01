@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622195510id_/http%3A//www.brent.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brent.gov.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122145id_/http%3A//www2.brent.gov.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement
 
