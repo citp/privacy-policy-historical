@@ -1,110 +1,489 @@
-<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2009-06-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090605021730id_/http%3A//www.findacode.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findacode.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101201909id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<title>Privacy Policy - Find-A-Code</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<script src="https://c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js" type="text/javascript" async=""></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+var iframed = parent.frames.length >= 1;
+if (iframed != false) {
+  document.cookie='iframed='+iframed+';';
+  window.location.reload();
+}
+</script>
+  
+<title>Privacy Policy</title>
 
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 <meta name="description" content="Privacy Policy for FindACode.com - Internet Database Development.">
 <meta name="keywords" content="website privacy policy, bizinfosys.com">
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <meta http-equiv="rating" content="general">
 <meta http-equiv="robots" content="Index, All, Follow">
 <meta name="Distribution" content="Global">
-<link href="/medical-billing-codes.css" type="text/css" rel="stylesheet">
-<script type="text/javascript" language="JavaScript" src="/medical-codes.js"></script>
-<script type="text/javascript" language="JavaScript" src="/suggestion.js"></script>
-<script type="text/javascript" language="JavaScript" src="/get_page.js"></script>
-<script type="text/javascript" language="JavaScript" src="/blanket-popup.js"></script>
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<script type="text/javascript" language="JavaScript"><!--
-if (parent.frames.length>=1) { top.location.href = document.location.href; } 
-// --></script>
+<link rel="shortcut icon" href="/static/images/favicon.ico" type="image/x-icon">
+
+<!-- Our styles and javascript -->
+<link type="text/css" href="/static/v1a/css/global.css" rel="stylesheet">
+<script type="text/javascript" src="/static/js/medical-codes.js"></script><style type="text/css">.switchcontent{display:none;}</style>
+<script type="text/javascript" src="/static/js/get_page.js"></script>
+<script type="text/javascript" src="/static/js/cookie_func.js"></script>
+
+<!-- jQuery -->
+<link type="text/css" href="/static/v1a/jquery/jquery-ui-1.8.5.custom.css" rel="stylesheet">	
+<script type="text/javascript" src="/static/v1a/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script>
+<!-- Test if jqueryui issue for ie6? <script type="text/javascript" src="/static/v1a/jquery/jquery-ui-1.8.5.custom.min.js"></script> -->
+<script type="text/javascript" src="/static/v1a/jquery/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="/static/v1a/jquery/jquery.pngFix.js"></script> 
+
+<script type="text/javascript">
+function show_menu(menu_id,li_obj) {
+  li_obj.style.zIndex = 999;
+  document.getElementById(menu_id).style.display='block';
+  document.getElementById(menu_id).style.zIndex='1000';
+}
+$(document).ready(function() {
+  function addMega(){
+    $(this).addClass("hovering");
+  }
+  function removeMega(){
+    $(this).removeClass("hovering");
+    }
+  var megaConfig = {
+     interval: 250,
+     sensitivity: 4,
+     over: addMega,
+     timeout: 250,
+     out: removeMega
+  };
+  $("li.mega").hoverIntent(megaConfig);
+});
+$(document).ready(function(){ 
+  if($.browser.msie && parseFloat($.browser.version)<7) {
+//  Abandon hope all ye who are stuck with a crappy browser.
+    $(document).pngFix();
+    $(".page_box_link").hover(function(){
+      $(this).css("background-image","none");
+    });
+    $(".header .page_category span").css("width","22px").css("height","22px");
+    $(".body_section").css("padding-top","0px");
+    $(".header_shadow").css("background-color","white");
+    $("#lady-coder").css("margin-top","6px");
+    $("#subscribe_button").css("margin-right","0px");
+  }
+});
+$(function(){
+  $('a:contains(Sign In)').click(function(){return signin_popopen();});
+  });
+function signin_popopen(no_animate) {
+    header_height = '225px'; body_top_padding = '225px';
+  $('#header_signin').show();
+  if (no_animate) {
+    $('div.header').css({'height':header_height});
+    $('div.header_shadow').css({'top':header_height});
+    $('div.body_section').css({'padding-top':body_top_padding}); 
+  } else {
+    $('div.header').animate({'height':header_height});
+    $('div.header_shadow').animate({'top':header_height});
+    $('div.body_section').animate({'padding-top':body_top_padding});
+  }
+    return false;
+}
+function signin_popclose(){
+  $('div.header').animate({'height':'87px'});
+  $('div.header_shadow').animate({'top':'87px'});
+  $('div.body_section').animate({'padding-top':'87px'});
+  $('#header_signin').hide();
+}
+</script>
+<style type="text/css">
+ul#menu li.mega div.menu_pop {
+  background-image: url('/static/v1a/images/green-gradient.jpg') !important;
+}
+.page_box_title {
+  background-color: #c1d5b0;
+  color: #444;
+}
+.page_box_content {
+  background-image: url('/static/v1a/images/green-gradient.jpg');
+}
+.fac-icon { display:inline-block; width:22px; background: url(/static/v1a/images/icons/sprites.gif) no-repeat top left; }
+.fac-icon-bookcase{ background-position: 0 0; width: 22px; height: 22px; } 
+.fac-icon-find-a-code-llc{ background-position: 0 -32px; width: 22px; height: 22px; } 
+.fac-icon-findacode-com{ background-position: 0 -64px; width: 22px; height: 22px; } 
+.fac-icon-information{ background-position: 0 -96px; width: 22px; height: 22px; } 
+.fac-icon-kaboodle{ background-position: 0 -128px; width: 22px; height: 22px; } 
+.fac-icon-kcontrol{ background-position: 0 -160px; width: 22px; height: 22px; } 
+.fac-icon-kfig{ background-position: 0 -192px; width: 22px; height: 22px; } 
+.fac-icon-khelpcenter{ background-position: 0 -224px; width: 22px; height: 22px; } 
+.fac-icon-knode{ background-position: 0 -256px; width: 22px; height: 22px; } 
+.fac-icon-korgac{ background-position: 0 -288px; width: 22px; height: 22px; } 
+.fac-icon-ktip{ background-position: 0 -320px; width: 22px; height: 22px; } 
+.fac-icon-mytools{ background-position: 0 -352px; width: 22px; height: 22px; } 
+.fac-icon-other-code-sets{ background-position: 0 -384px; width: 22px; height: 22px; } 
+.fac-icon-stethescope22{ background-position: 0 -416px; width: 22px; height: 22px; } 
+.fac-icon-syringe2-22{ background-position: 0 -448px; width: 22px; height: 22px; } 
+.fac-icon-tool_clipboard{ background-position: 0 -480px; width: 22px; height: 22px; } 
+.fac-icon-viewmag{ background-position: 0 -512px; width: 22px; height: 22px; } 
+</style>
 </head>
 
-<body>
-<a name="top"></a>
+<body><a name="top"></a>
 
 <div class="header">
-<table width="100%" style="background: #d3baeb url(/images/purple-title.png) repeat-x;">
- <tbody><tr>
-  <td class="tdlt"><font color="white">
-    <span style="margin:3px 0 3px 0;line-height:150%;font-size:13pt;font-weight:bold;color:white;">&nbsp;
-    <a href="http://www.findacode.com/index.html" style="text-decoration:none;color:white;">
-Find-A-Code</a><sup><span style="font-size:6pt;">TM</span></sup></span>
-    <br>
-    <span style="line-height:100%;">
-    &nbsp;&nbsp;
-    <span class="top-tags2">
-    <a href="http://www.findacode.com/cpt-codes-set.html" class="top-tags">CPT<small><sup>®</sup></small> Codes</a>&nbsp;
-    <a href="http://www.findacode.com/hcpcs-code-set.html" class="top-tags">HCPCS Codes</a>&nbsp;
-    <a href="http://www.findacode.com/icd-9-cm-code-set.html" class="top-tags">ICD-9-CM Codes</a>&nbsp;
-    <a href="http://www.findacode.com/abc-codes-set.html" class="top-tags">ABC Codes</a>&nbsp;
-    <a href="http://www.findacode.com/medicare-policies.html" class="top-tags">Medicare Policies</a>&nbsp;<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.findacode.com/pqri.html" class="top-tags">PQRI</a>&nbsp;
-    <a href="http://www.findacode.com/lmrp.html" class="top-tags">LMRP</a>&nbsp;
-    <a href="http://www.findacode.com/ncd.html" class="top-tags">NCD</a>&nbsp;
-    <a href="http://www.findacode.com/lcd.html" class="top-tags">LCD</a>&nbsp;
-    <a href="http://www.findacode.com/ncci-edits.html" class="top-tags">NCCI Edits</a>&nbsp;
-    <a href="http://www.findacode.com/medicare-fees.html" class="top-tags">Fees</a>&nbsp;
-	<a href="http://www.findacode.com/rvus.html" class="top-tags">RVUs</a>&nbsp;
-	<a href="http://www.findacode.com/icd-10-cm-code-set.html" class="top-tags">ICD-10-CM</a>&nbsp;
-	<a href="http://www.findacode.com/icd-10-pcs-code-set.html" class="top-tags">ICD-10-PCS</a>&nbsp;
-    </span></span></font>
-  </td>
-  <td class="tdrb">
-    <span style="line-height:125%;color:white;">
-    <a href="http://www.findacode.com//index.html" class="top-menu">Home</a>&nbsp;| 
-    <a href="https://www.findacode.com/account/subscribe.php" class="top-menu">Subscribe</a>&nbsp;| 
-<!--    <a href='http://www.findacode.com/news.html' class="top-menu">Community</a>&nbsp;|  -->
-    <a href="http://www.findacode.com/faq.html" class="top-menu">FAQ</a>&nbsp;|
-    <a href="http://www.findacode.com/contactus.html" class="top-menu">Contact Us</a>&nbsp;| 
-    <a href="http://www.findacode.com/index.html" class="top-menu">Sign In</a>&nbsp;&nbsp;
-    </span><br>
 
- <div align="right" style="padding:3px 7px 3px 0;color:white;">
-  <form action="/search/search.php" method="post" name="search2" id="search2">
-   <table border="0" align="right" style="border:0;"><tbody><tr>
-    <td class="tdlm" style="border:0;padding:2px;">Find-A-Code&nbsp;</td>
-    <td class="tdrb" style="border:0;padding:2px;">
-    <input name="str" type="text" id="str" value="" maxlength="255" size="25" style="margin-bottom:1px;">
-    </td>
-    <td class="tdlb" style="border:0;padding:2px;"><input name="pagesearch" type="submit" id="pagesearch" value="Search" style="margin-left:3px;"></td>
-
-   </tr></tbody></table>
-  </form>
+<div class="menu_bar no_print">
+  <div class="menu_bar_center">
+    <ul id="menu">
+      <li class="mega" style="width:58px;">
+        <a href="/">Home</a>
+      </li>
+      <li class="mega" style="width:83px;">
+        <a href="/medical-coding-code-sets.html" title="Medical Billing Code Sets">Code Sets</a>
+        <div class="menu_pop" style="width:275px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
+<div class="page_category page_category_first">
+  <span class="fac-icon fac-icon-stethescope22"></span>&nbsp;Diagnosis (Dx)&nbsp;
 </div>
+<a href="/icd-9/icd-9-cm-diagnosis-codes.html" class="page_box_link" title="ICD-9-CM Diagnosis Codes">
+  ICD-9-CM <small>- Volumes 1 &amp; 2</small>
+</a>
+<a href="/icd-10-cm/icd-10-cm-diagnosis-codes-set.html" class="page_box_link" title="ICD-10-CM Diagnosis Codes">
+  ICD-10-CM <small>- New for 2013!</small>
+</a>
+<a href="/drg/drg-diagnosis-related-group-codes.html" class="page_box_link" title="DRG - Diagnosis Related Groups">
+  DRG <small>- Diagnosis Related Groups</small>
+</a>
+
+<div class="page_category">
+  <span class="fac-icon fac-icon-syringe2-22"></span>&nbsp;Procedure (Tx)&nbsp;
+</div>
+<a href="/cpt/cpt-procedure-codes.html" class="page_box_link" title="CPT Procedure Codes">
+  CPT<small><sup>®</sup></small> <small>- Level I Codes &amp; Modifiers</small>
+</a>
+<a href="/hcpcs/hcpcs-supply-dme-codes.html" class="page_box_link" title="HCPCS Supply, DME &amp; Procedure Codes">
+  HCPCS <small>- Level II Codes &amp; Modifiers</small>
+</a>
+<a href="/icd-9/icd-9-v3-procedure-codes.html" class="page_box_link" title="ICD-9 vol3 Procedure Codes">
+  ICD-9 Vol 3 <small>- (Inpatient Only)</small>
+</a>
+<a href="/dental-codes/dental-codes-ada-cdt.html" class="page_box_link" title="CDT Dental D Codes">
+  CDT<small><sup>®</sup></small> Codes <small>- Dental "D" Codes</small>
+</a>
+<a href="/icd-10-pcs/icd-10-pcs-procedure-codes-set.html" class="page_box_link" title="ICD-10-PCS Procedure Codes">
+  ICD-10-PCS <small>- Sneak peak!</small>
+</a>
+<a href="/apc/apc-ambulatory-payment-classification-codes.html" class="page_box_link" title="APC - Ambulatory Patient Classifications">
+  APC <small>- Ambulatory Payment Classifications</small>
+</a>
+
+<div class="page_category">
+  <span class="fac-icon fac-icon-other-code-sets"></span>&nbsp;Other Code Sets&nbsp;
+</div>
+<a href="/other-medical-code-sets.html" class="page_box_link" title="Other Medical Code Sets">
+  Other Medical Code Sets
+</a>
+
+<div class="page_category">
+  <span class="fac-icon fac-icon-tool_clipboard"></span>&nbsp;Claim Forms&nbsp;
+</div>
+<a href="/cms1500-claim-form/cms1500-claim-form.html" class="page_box_link" title="CMS1500 Claim Form">
+  CMS1500 - <small>Claim Form, Codes, &amp; Info</small>
+</a>
+<a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="page_box_link" title="UB04/CMS1450 Claim Form">
+  UB04/CMS1450 - <small>Form, Codes, &amp; Info</small>
+</a>      </div>
+      </li>
+      <li class="mega" style="width:90px;">
+        <a href="/medical-coding-info.html" title="Medical Billing Coding Information">Coding Info</a>
+        <div class="menu_pop" style="width:275px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
+<div class="page_category page_category_first">
+  <span class="fac-icon fac-icon-khelpcenter"></span>&nbsp; Helps &amp; Guides&nbsp;
+</div>
+<a href="/pdf.html?id=Product-Overview" class="page_box_link" title="Find-A-Code Overview">
+  Find-A-Code™ Overview <sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+</a>
+<a href="/pdf.html?id=Finding-Codes" class="page_box_link" title="Finding Codes in Find-A-Code">
+  Finding Codes in Find-A-Code™ <sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+</a>
+<a href="/cms1500-claim-form/cms1500-guide.html" class="page_box_link" title="CMS1500 Claim Form Guide with NUCC &amp; Medicare Instructions + Tips">
+  CMS1500 Guide <small>- NUCC &amp; Medicare Instr.</small>
+</a>    
+<a href="/icd-9/icd-9-cm-2010-guide.html" class="page_box_link" title="ICD-9-CM Official Guidelines for Coding and Reporting">
+  ICD-9-CM Official Guidelines
+</a>
+<a href="/cpt/integrating-npp-into-e-m.html" class="page_box_link" title="Integrating NPP into E/M for Compliance and Quality Care Guide">
+  Integrating NPP into E/M
+</a>
+<div class="page_category">
+  <span class="fac-icon fac-icon-knode"></span>&nbsp;Newsletters&nbsp;
+</div>
+<a href="/cpt/cpt-assistant/index.html" class="page_box_link" title="AMA's CPT Assistant Newsletter">
+  CPT Assistant <small>+Archives</small>
+</a>
+<a href="/medicare/medicare-quarterly-provider-compliance-newsletter.html" class="page_box_link" title="Medicare's Provider Compliance Newsletter">
+  Medicare Provider Compliance
+</a>
+<!--<a href="/aha-coding-clinic-icd-9" class="page_box_link" title="">AHA Coding Clinic - ICD-9 <small>+Archives</small></a>-->
+<!--<a href="/aha-coding-clinic-hcpcs" class="page_box_link" title="">AHA Coding Clinic - HCPCS <small>+Archives</small></a>-->
+<!--
+<a href="/medicare/mln-newsletter.html" class="page_box_link" title="Medicare's MLN Newsletter">
+  Medicare MLN Newsletter
+</a>
+-->
+
+<div class="page_category">
+  <span class="fac-icon fac-icon-bookcase"></span>&nbsp;Medicare Manuals &amp; Guides&nbsp;
+</div>
+<a href="/medicare/pub100-manuals.html" class="page_box_link" title="Medicare PUB100 Manuals &amp; Documents">
+  PUB100 <small>- Medicare Guides and Manuals</small>
+</a>
+<a href="/medicare/e-m-guidelines-manuals.html" class="page_box_link" title="Medicare E&amp;M Guidelines">
+  E&amp;M Guidelines &amp; Procedures
+</a>
+<a href="/medicare/policies-guidelines/medicare-contractor-list.php" class="page_box_link" title="Medicare Contractors, LCDs (Local Coverage Determinations, and Articles">
+  Medicare Contractors <small>- LCDs &amp; Articles</small>
+</a>
+<a href="/medicare/ncd-national-coverage-determinations.html" class="page_box_link" title="Medicare NCDs (National Coverage Determinations)">
+  NCDs <small>- National Coverage Determinations</small>
+</a>
+<a href="/medicare/pqri/index.html" class="page_box_link" title="Medicare PQRI - Physician Quality Reporting Initiative">
+  PQRI Program
+</a>
+<a href="/medicare/medicare-info.html" class="page_box_link" style="margin-bottom:5px;" title="Medicare PUB100 Manuals &amp; Documents">
+  More... <small>(Forms, FAQs, NCCI, etc.)</small>
+</a>
+
+<div class="page_category">
+  <span class="fac-icon fac-icon-information"></span>&nbsp;Information&nbsp;
+</div>
+<a href="/medical-coding/healthcare-legislation.html" class="page_box_link" title="Medical Coding - Healthcare Legislation">
+  Healthcare Legislation
+</a>
+<a href="/dictionaries/dorlands-appendix.php" class="page_box_link" title="Dorlands Dictionary Appendicies">
+  Dorland's Dictionary Appendices <sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+</a>        </div>
+      </li>
+      <li class="mega" style="width:99px;">
+        <a href="/medical-coding-tools.html" title="Medical Billing Coding Tools">Coding Tools</a>
+        <div class="menu_pop" style="width:275px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
+
+<div class="page_category page_category_first">
+  <span class="fac-icon fac-icon-viewmag"></span>&nbsp;Search&nbsp;
+</div>
+<a href="/search/search.php" class="page_box_link" title="FindACode Medical Billing Code Search">
+  Find-A-Code™ Search <small>- Simple search!</small>
+</a>
+<a href="/tools/browse-a-code.php" class="page_box_link" title="Medical Billing and Coding - Browse Codes">
+  Browse-A-Code™ <small>- Fast &amp; fun!</small>
+</a>
+<a href="/tools/click-a-dex.php" class="page_box_link" title="Medical Billing Code Index Search">
+  Click-A-Dex™ <small>- Fast index searching.</small>
+</a>
+<a href="/tools/build-a-code.php" class="page_box_link" title="Build a Medical Billing Code List">
+  Build-A-Code™  <small>- Code list builder.</small>
+</a>
+<a href="/tools/icd-gem-lookup.php" class="page_box_link" title="ICD-10 GEMs crosswalks, bridge to ICD-9 Codes">
+  Cross-A-Code™ ICD-9/10 GEMs
+</a>
+<a href="/tools/npi-lookup.html" class="page_box_link" title="NPI Lookup - National Provider Identification Number Lookup">
+  Find-A-NPI™ <small>- Quick NPI Look-Up</small> 
+</a><div class="page_category">
+  <span class="fac-icon fac-icon-mytools"></span>&nbsp;My Tools&nbsp;
+</div>
+<a href="/my-codes.php" class="page_box_link" title="Customized Lists of Medical Codes">
+  My Code Lists <small>- Locality-based code lists.</small>
+</a>
+<a href="/tools/my-code-notes.php" class="page_box_link" title="Custom Medical Code Notes">
+  My Code Notes <small>- Your code notes.</small>
+</a>
+<a href="/account/index.php" class="page_box_link" title="My Find-A-Code Account">
+  My Account <small>- Personalize Find-A-Code.</small>
+</a>
+<!--<a href="/tools/my-notes.php" class="page_box_link" title="Custom Medical Coding Notes">
+  My Other Notes <small>- Your other notes.</small>
+</a>-->
+
+<div class="page_category">
+  <span class="fac-icon fac-icon-korgac"></span> Scrubbing &amp; Validation&nbsp;
+</div>
+<a href="/scrubber/scrubber.php" class="page_box_link" title="Scrub-A-Claim™ Professional Grade Claim Scrubber">
+  Scrub-A-Claim™ <sup style="line-height:0px;"><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup> <small>- Claim Scrubber</small>
+</a>
+<a href="/tools/ncci-check.php" class="page_box_link" title="NCCI Edits Validation for Medical Billing Codes - Non-Facility">
+  NCCI Edit Validator <small>- NON-Facility Edition</small>
+</a>
+<a href="/tools/ncci-check-facility.php" class="page_box_link" title="NCCI Edits Validation for Medical Billing Codes - Facility">
+  NCCI Edit Validator <small>- FACILITY Edition</small>
+</a>
+
+<div class="page_category">
+  <img src="/static/images/education.png"> Education &amp; Training&nbsp;
+</div>
+<a href="/anatomy-and-physiology.html" class="page_box_link" title="Anatomy and Physiology Study Guides, Tools and Games">
+  Anatomy &amp; Physiology<sup><span style="font-weight:bold;color:red;font-size:8pt;">NEW!</span></sup>
+</a>
+      
+        </div>
+      </li>
+      <li class="mega" style="width:80px;">
+        <a href="/aboutus/aboutus.html">About Us</a>
+        <div class="menu_pop" style="width:225px;background: white url('/static/v1a/images/green-gradient.jpg') repeat-x !important;">
+          <div class="page_category page_category_first">
+            <img src="/static/v1a/images/icons/findacode-com.png" style="border:0px;" alt="FindACode.com"> FindACode.com&nbsp;
+          </div>
+          <a href="/aboutus/news.html" title="FindACode.com News &amp; Updates">News &amp; Updates</a>
+          <a href="/medical-code-sets/annual-code-changes.html" title="Annual Medical Code Changes &amp; Updates">Annual Code Changes &amp; Updates</a>
+          <a href="/aboutus/what-is-find-a-code.html" title="What is Find-A-Code?">What is Find-A-Code?</a>
+          <a href="/medical-code-sets/medical-code-sets.html" title="Medical Code Sets in Find-A-Code">Medical Code Sets</a>
+          <a href="/aboutus/faq.html" title="Frequently Asked Questions">FAQ - Frequently Asked Questions</a>
+          <a href="/aboutus/tutorials.html" title="Tutorials">Tutorials</a>
+          <a href="/aboutus/testimonials.html" title="Find-A-Code Testimonials">Testimonials</a>
+          <div class="page_category">
+            <img src="/static/v1a/images/icons/find-a-code-llc.png" style="border:0px;" alt="Find A Code, LLC"> Find A Code, LLC&nbsp;
+          </div>
+          <a href="/aboutus/company-information.html" title="Find A Code, LLC - Company Information">Company Information</a>
+          <a href="/aboutus/mission-statement.html" title="The Find-A-Code Mission Statement">Our Mission Statement</a>
+          <a href="/aboutus/contactus.html" title="Contact Find-A-Code">Contact&nbsp;Us</a>
+        </div>
+      </li>
+      <li class="mega" style="width:88px;"><a href="/account/subscribe.php"><b>Subscribe</b></a></li>
+      <li class="mega" style="width:69px;"><a href="/signin.html" onclick="signin_popopen(); return false"><b>Sign In</b></a></li>
+    </ul>
     
-  </td>
- </tr>
-</tbody></table>
-</div>
+    <div style="position:absolute;top:2px;right:0px;text-align:right;color:white;width:330px;border:none;">
+      <form action="/search/search.php" method="post" name="search2" id="search2" style="">
+      	<table style="border:none;">
+	        <tbody><tr>
+            	<td style="padding-top:8px;">
+                	<a href="#" onclick="document.getElementById('header_body_code_sets').style.display='block';return false;" style="text-decoration:none;color:white;font-size:8pt;">Find-A-Code:</a>
+                </td>
+                <td>
+        			<input name="str" type="text" id="str" value="" maxlength="255" style="width:180px;height:16px;font-size:10pt;background-color:white;border:1px solid #777;padding:1px;margin-left:3px;" title="Enter a word or phrase.">
+                </td>
+        		<td>
+        			<input type="image" id="pagesearch" src="/static/v1a/images/smlSearchBtn.jpg" value="submit" style="margin-left:3px;margin-bottom:2px;border:0px;padding:0px;">
+                </td>
+            </tr>
+        </tbody></table>
+      </form>
+    </div>
 
-<div class="breadcrumbs_div">
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
- <tbody><tr>
-  <td>
-<a name="breadcrumbs"></a><p class="breadcrumbs">
-&gt; <a href="/home.php" title="Home Page">Home</a></p>  </td>
-  <td class="tdr">
-   <small><b> Guest&nbsp;-&nbsp;Viewing:&nbsp;2009Q2&nbsp;&nbsp;</b>
-    </small>
-  </td>
- </tr>
-</tbody></table>
-</div>
+    <div id="header_body_code_sets" class="header_body_code_sets">
+      <div style="float:right;">
+        <button onclick="document.getElementById('header_body_code_sets').style.display='none';return false;" style="font-size:8pt;">Close</button>
+      </div>
+      <div style="margin:5px 0px 0px 5px;float:left;"><b>Find-A-Code includes:</b></div>
+      <div style="clear:both;"></div>
+      <table width="90%" style="margin:10px 10px 3px 10px;">
+        <tbody><tr>
 
-<div class="mainbody" id="main_body">
+          <td width="50%" class="tdlt">
+            <a href="/cpt/cpt-codes-set.html" class="top-tags" title="CPT Codes and Descriptions">CPT<small><sup>®</sup></small>&nbsp;Procedure&nbsp;Codes</a>&nbsp;<br>
+            <a href="/hcpcs/hcpcs-code-set.html" class="top-tags" title="HCPCS Codes &amp; Descriptions">HCPCS&nbsp;Supply/DME&nbsp;Codes</a>&nbsp;<br>
+            <a href="/icd-9/icd-9-cm-code-set.html" class="top-tags" title="ICD-9, ICD9 Procedure Codes and Descriptions">ICD-9-CM&nbsp;Diagnosis&nbsp;Codes</a>&nbsp;<br>
+            <a href="/medical-code-sets/drgs-apcs.html" class="top-tags" title="Medical Codes DRGs &amp; APCs, Diagnosis-Related Group, Ambulatory Payment Classification">DRGs &amp; APCs</a>&nbsp;<br>
+            <a href="/abc/abc-codes-set.html" class="top-tags" title="ABC Codes and Descriptions">ABC&nbsp;Codes</a>&nbsp;<br>
+            <a href="/medical-code-sets/ncci-edits.html" class="top-tags" title="NCCI Code Edits">NCCI&nbsp;Edits</a>&nbsp;<br>
+            <a href="/medical-code-sets/medicare-policies.html" class="top-tags" title="Medicare Payment Policies">Medicare&nbsp;Policies</a>&nbsp;<br>
+            <a href="/medical-code-sets/pqri.html" class="top-tags" title="Medicare PQRI Information - Physicians Quality Reporting Initiative">Medicare&nbsp;PQRI</a>&nbsp;<br>
+            <a href="/medical-code-sets/lmrp.html" class="top-tags" title="Medicare LMRPs - Local Medical Review Policy">Medicare&nbsp;LMRPs</a>&nbsp;<br>
+          </td>
+          
+          <td width="50%" class="tdlt">
+            <a href="/medical-code-sets/ncd.html" class="top-tags" title="Medicare NCDs - National Coverage Determinations">Medicare&nbsp;NCDs</a>&nbsp;<br>
+            <a href="/medical-code-sets/lcd.html" class="top-tags" title="Medicare LCDs - Local Coverage Determinations">Medicare&nbsp;LCDs</a>&nbsp;<br>
+            <a href="/medical-code-sets/medicare-fees.html" class="top-tags" title="Medicare Fees">Medicare&nbsp;Fees</a>&nbsp;<br>
+            <a href="/medical-code-sets/rvus.html" class="top-tags" title="Medicare RVUs - Relative Value Units">Medicare&nbsp;RVUs</a>&nbsp;<br>
+            <a href="/icd-10-cm/icd-10-cm-code-set.html" class="top-tags" title="ICD-10-CM Diagnosis Codes">ICD-10-CM&nbsp;Diagnosis&nbsp;Codes</a>&nbsp;<br>
+            <a href="/icd-10-pcs/icd-10-pcs-code-set.html" class="top-tags" title="ICD-10-PCS - Procedure Codes">ICD-10-PCS&nbsp;Procedure&nbsp;Codes</a>&nbsp;<br>
+            <a href="/cms1500-claim-form/cms1500-place-of-service-codes.html" class="top-tags" title="Medical Place of Service Codes">Place&nbsp;of&nbsp;Service&nbsp;Codes</a>&nbsp;<br>
+            <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="top-tags" title="UB 04 Condition Codes - UB04 Claim Form">UB04&nbsp;Condition&nbsp;Codes</a>&nbsp;<br>
+            <a href="/ub04-claim-form/ub04-cms1450-claim-form.html" class="top-tags" title="UB 04 Revenue Codes - UB04 Claim Form">UB04&nbsp;Revenue&nbsp;Codes</a>&nbsp;<br>
+          </td>
+
+        </tr>
+      </tbody></table>
+      <div align="right">
+        <button onclick="document.getElementById('header_body_code_sets').style.display='none';return false;" style="font-size:8pt;">Close</button>
+      </div>
+    </div>    
+  </div>
+  
+  </div> <!-- menu_bar div -->
+
+  <div class="header_body">
+      <div class="header_body_left">
+       <table width="565" border="0" style="padding:0;margin:0;">
+       	<tbody>
+         <tr>
+          <td style="padding: 0;"><a href="/" title="Medical Billing Codes"><img src="/static/v1a/images/findacodeLogo.jpg" style="margin-right:5px;height:51px;width:250px;border:0px;" border="0" align="left" alt="Medical Billing and Coding"></a></td>
+                  <td style="padding: 8px 0px 0px 45px;"><a href="/free-trial-demos.html" title="Find a Code Free Trial and Demos"><img src="/static/v1a/images/trialBtn.jpg" alt="Demos and Free Trials" border="0"></a></td>
+          <td style="padding: 8px 0px 0px 10px;"><a href="/videos.html" title="Find a Code Videos"><img src="/static/v1a/images/videosBtn2.jpg" alt="Watch Find a Code Videos" border="0"></a></td>
+          <!--<td style="padding: 8px 0px 0px 10px;"><script type="text/javascript" src="//www.findacode.com/chat/js/phplive.js.php?d=1&base_url=%2F%2Fwww.findacode.com%2Fchat&text="></script></td>-->
+          <td style="padding: 8px 0px 0px 10px;"><a href="/aboutus/contactus.html" class="footer_menu" title="Contact Find-A-Code"><img src="/static/images/contactBtn.jpg" border="0"></a></td>
+                  </tr>
+        
+        </tbody>
+       </table>
+        
+
+       
+      </div>
+
+      <div class="header_body_right">
+&nbsp;Guest&nbsp;-&nbsp;Viewing:&nbsp;2011Q4&nbsp;&nbsp;
+        &nbsp; 
+
+    </div>
+    
+    <div id="header_signin" style="display:none;clear:both;text-align:center;height:140px;width:900px;border:1px solid #aaa;margin:10px auto;background-image: url('/static/v1a/images/green-gradient.jpg') !important; background-repeat: repeat-x;">
+      <div style="float:left;width:450px;border: 0px solid yellow;">
+      <h2>Sign in to Find-A-Code</h2>
+      <form action="https://www.findacode.com/aboutus/privacy-policy.html" method="post" style="margin:0px 0px 5px 0px;">
+        <input type="hidden" name="signin" value="true">
+        <input type="hidden" name="orig_page" value="/aboutus/privacy-policy.html">
+                <div style="padding:3px;"><span style="display:inline-block;width:90px;text-align:right;">Subscriber ID:&nbsp;</span><input type="text" name="id" size="30"></div>
+        <div style="padding:3px;"><span style="display:inline-block;width:90px;text-align:right;">Password:&nbsp;</span><input type="password" name="password" size="30"></div>
+        <div style="padding:3px;"><span style="display:inline-block;width:90px"></span><input type="submit" value="Sign In" style="padding:2px 10px;margin-right:60px;">&nbsp;&nbsp;<a style="display:inline;" href="/lost-password.html">Lost Password?</a></div>
+      </form>
+      </div>
+      <div style="float:right;margin:1px 3px 0px 0px;">
+        <a href="javascript:void(0);" onclick="signin_popclose();return false;">[ X ]</a>
+      </div>
+      <div style="float:right;width:350px;border:0px solid blue;margin-right:50px;">
+        <h2>Or</h2>
+        <button type="button" onclick="window.location='/account/subscribe.php';" style="margin-bottom:5px;font-size:15px;font-weight:bold;padding:3px 10px;"> Subscribe </button><br>
+        Subscribe to Find-A-Code starting at only $14.95 per month.&nbsp; Purchase a year at a time or select an affordable monthly payment.
+      </div>
+      <div style="clear:both;"></div>
+    </div>
+    
+  </div> <!-- header_body -->
+  
+</div> <!-- header -->
+
+
+<div class="body_section">
+  <div id="body" class="body_content">
+
+    <div id="body_top" class="body_top">
+      <div id="body_breadcrumbs" class="body_breadcrumbs">
+&gt; <a href="/">Home</a> &gt; <a href="/aboutus/aboutus.html">About Us</a>       </div>
+      <div id="body_code_lists" class="body_code_lists">
+      </div>
+      <div style="clear:both;"></div>
+    </div>
+    
 
 
 <h1>FindACode.com Privacy Policy</h1>
 
-<b>Your Privacy</b><br>
-
 <a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration">
-<img src="http://www.findacode.com/images/privacy-police2.jpg" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" border="0" align="left" style="margin: 15px 20px 0px 10px;">
+<img src="/static/images/privacy-police.png" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" border="0" align="left" style="margin: 0px 20px 10px 0px;">
 </a><br>
+
+<b>Your Privacy</b><br><br>
 
 FindACode.com is committed to protecting your privacy. We only use the information we collect about you to process business requests and services. Please read on for more details about our privacy policy.<br><br>
 
@@ -155,11 +534,11 @@ Thank you for visiting FindACode.com!<br><br>
 
 <h2>Our contact information:</h2>
 <blockquote>
-Find A Code, Inc.<br>
-65 West 200 North Ste 007<br>
+Find A Code, LLC<br>
+95 West 200 North Ste 2<br>
 Spanish Fork, UT 84660<br>
-Phone: 801-822-0321<br>
-Fax: 801-798-3535<br>
+Phone: 801-770-4203 (9-5 Mountain)<br>
+Fax: 801-770-4428<br>
 Email: <script language="javascript" type="text/javascript">
 <!--
 var userxname = 'info';
@@ -176,137 +555,234 @@ document.write('<a href="mail'+'to:'+userxname+'@'+hostxname+params+'"'+classcod
 
 <br><br>
 
-</div>
+  
+  </div> <!-- body_content -->
+</div> <!-- body_section -->
+  
+<div id="footer" class="footer">
 
-<div class="footerads">
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="10" border="0" alt=""><br>
-<table width="100%"><tbody><tr>
-<td width="25%"><div style="margin:5px 0 5px 5px;border:1px solid black;width:180px;height:120px;background-color:white;"><a href="http://www.instacode.com/zencart/index.php?main_page=product_info&amp;cPath=8&amp;products_id=20" target="_blank" title="HIPAA Guide"><img src="http://www.findacode.com/ads/instacode/hipaa-180x120.jpg" width="180" height="120" border="0" alt="HIPAA Guide" title="HIPAA Guide"></a></div></td>
-<td width="25%"><div style="margin:5px 0 5px 5px;border:1px solid black;width:180px;height:120px;background-color:white;"><a href="http://www.instacode.com/ascii.htm" target="_blank" title="ASCII Files - ICD 9 codes, CPT codes, HCPCS codes"><img src="http://www.findacode.com/images/ad-instacode-ascii-files.gif" width="180" height="120" border="0" alt="ASCII Files - ICD 9 codes, CPT codes, HCPCS codes"></a></div></td>
-<td width="25%"><div style="margin:5px 0 5px 5px;border:1px solid black;width:180px;height:120px;background-color:white;"><a href="http://www.findacode.com/ads/chirocode.html" target="_blank" title="CPT, HCPCS, ICD-9 Books"><img src="http://www.findacode.com/ads/CodeBookMaySpecial.jpg" width="180" height="120" border="0" alt="CPT," hcpcs,="" icd-9="" books"=""></a></div></td>
-<td width="25%"><div style="margin:5px 0 5px 5px;border:0;width:180px;height:120px;background-color:white;">
-<object width="550" height="400">
-<param name="movie" value="somefilename.swf">
-<embed src="/ads/zipclaims.swf" width="180" height="120">
+  <div align="center" style="letter-spacing:0px;margin-top:5px;margin-bottom:10px;">
+    <a href="/" class="footer_menu" title="Medical Billing and Hostpital Codes Online">Home</a>&nbsp;&nbsp;&nbsp;
+    <a href="/search/search.php" class="footer_menu" title="Medical Code Search &amp; Lookup">Search</a>&nbsp;&nbsp;&nbsp;
+    <a href="/aboutus/news.html" class="footer_menu" title="Find-A-Code News">News</a>&nbsp;&nbsp;&nbsp;
+    <a href="/aboutus/faq.html" class="footer_menu" title="Frequently Asked Questions">FAQ</a>&nbsp;&nbsp;&nbsp;
+    <a href="/aboutus/tutorials.html" class="footer_menu" title="Medical Coding Tutorials">Tutorials</a>&nbsp;&nbsp;&nbsp;
+    <a href="/aboutus/testimonials.html" class="footer_menu" title="Medical Coding Testimonials">Testimonials</a>&nbsp;&nbsp;&nbsp;
+    <a href="/aboutus/aboutus.html" class="footer_menu" title="About Find-A-Code, the premier online Medical Billing and Coding Database">About&nbsp;Us</a>&nbsp;&nbsp;&nbsp;
+    <a href="/aboutus/contactus.html" class="footer_menu" title="Contact Find-A-Code">Contact&nbsp;Us</a>&nbsp;&nbsp;&nbsp;
+    <a href="/ads/design/build-search-tool.php" class="footer_menu" title="Free Medical Billing Codes Search Tool for Your Website">FREE Search Tool</a>&nbsp;&nbsp;&nbsp;
+    <a href="/account/subscribe.php" class="footer_menu" title="Subscribe to Find-A-Code's premier online Medical Billing and Coding Database">Subscribe</a>&nbsp;&nbsp;&nbsp;
+    <a href="/signin.html" class="footer_menu" title="Sign In to Your Account">Sign&nbsp;In</a>
+    <!--<a href="/forum-temp.html" >Community&nbsp;Q&amp;A</a>&nbsp;&nbsp;|&nbsp;-->
+    <!--<a href="/advertise.html" >Advertise</a>&nbsp;&nbsp;|&nbsp;-->
+  </div>
 
-</object>
-</div></td>
-</tr></tbody></table>
-</div>
-<div class="footer">
-
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="7" border="0" alt=""><br>
-<div align="center" style="letter-spacing:0px;">
- <a href="http://www.findacode.com/index.html" class="bottommenu">Home</a>&nbsp;|
- <a href="http://www.findacode.com/account/subscribe.php" class="bottommenu">Subscribe</a>&nbsp;|
-<!--    <a href="http://www.findacode.com/forum-temp.html" class="bottommenu">Community&nbsp;Q&A</a>-->
- <a href="http://www.findacode.com/blog-posts.php" class="bottommenu">News</a>&nbsp;|
- <a href="http://www.findacode.com/faq.html" class="bottommenu">FAQ</a>&nbsp;|
- <a href="http://www.findacode.com/ads/design/build-search-tool.php" class="bottommenu">FREE Search Tool</a>&nbsp;|
-<!-- <a href='http://www.findacode.com/search/advanced-search.php' class="bottommenu">Advanced Searching</a>&nbsp;| -->
- <a href="http://www.findacode.com/aboutus.html" class="bottommenu">About&nbsp;Us</a>&nbsp;|
- <a href="http://www.findacode.com/contactus.html" class="bottommenu">Contact&nbsp;Us</a>&nbsp;|
- <a href="http://www.findacode.com/advertise.html" class="bottommenu">Advertise</a>&nbsp;|
- <a href="http://www.findacode.com/index.html" class="bottommenu">Sign&nbsp;In</a>
- <br>
-</div>
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="7px" border="0" alt=""><br>
-
-<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="margin:0;background: #d3baeb url(/images/purple-title2.png) repeat-x bottom center; border: 1px solid #8d679f">
-<tbody><tr>
-<td class="tdlb" width="100%" style="padding:5px;padding-left:10px;">
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="1px" border="0" alt=""><br>
+  <table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
+    <tbody><tr>
+      <td class="tdlb" width="100%" style="padding:5px;padding-left:10px;">
+        <img src="/static/images/clear.gif" width="1" height="1px" border="0" alt=""><br>
 <b onclick="expandcontent(this, 'footertext')" style="cursor:pointer;">Privacy Policy</b><br>
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="7px" border="0" alt=""><br>
+<img src="/static/images/clear.gif" width="1" height="7px" border="0" alt=""><br>
 <div id="footertext" class="switchcontent">
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="5px" border="0" alt=""><br>
+<img src="/static/images/clear.gif" width="1" height="5px" border="0" alt=""><br>
 <i><small>Summary:</small></i>&nbsp;&nbsp;Privacy Policy for FindACode.com - Internet Database Development.<br>
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="5px" border="0" alt=""><br>
+<img src="/static/images/clear.gif" width="1" height="5px" border="0" alt=""><br>
 <i><small>Keywords:</small></i>&nbsp;&nbsp;website privacy policy, bizinfosys.com<br>
+<img src="/static/images/clear.gif" width="1" height="7px" border="0" alt="Medical codes"><br>
+<i>Site Links:</i>&nbsp; 
+          <a href="/icd-9/icd9-diagnosis-codes.html" title="ICD 9 Medical Diagnosis Codes">ICD-9-CM Diagnosis Codes Vol. I</a> - 
+          <a href="/icd-9/icd-9-procedure-codes.html" title="ICD 9 Medical Procedure Codes">ICD-9-CM Procedure Codes Vol. III</a> - 
+          <a href="/hcpcs/hcpcs-supply-codes.html" title="HCPCS Medical Supply Codes">HCPCS Level II Procedure &amp; Supply Codes</a> - 
+          <a href="/hcpcs/hcpcs-code-modifiers.html" title="HCPCS Medical Supply Code Modifiers">HCPCS Level II Code Modifier</a> - 
+          <a href="/abc/abc-code-set.html" title="ABC Code Set">ABC Codes - Code Set</a> - 
+          <a href="/cpt/cpt-code-set.html" title="CPT Codes Set">CPT Codes</a> - 
+          <a href="/cpt/cpt-code-modifiers.html" title="CPT Code Modifiers">CPT Code Modifiers</a> - 
+          <a href="/icd-10-cm/icd-10-cm-diagnosis-codes.html" title="ICD-10-CM Diagnosis Codes">ICD-10-CM Diagnosis Codes</a> - 
+          <a href="/icd-10-pcs/icd-10-pcs-procedure-codes.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a> - 
+          <a href="/medical-code-sets/icd-9-to-icd-10-crosswalk.html" title="ICD-9 to ICD-10 Crosswalks">ICD-9 to ICD-10 Crosswalk</a> - 
+          <a href="/medicare/pqri/index.html" title="Physicians Quality Reporting Initiative PQRI">PQRI Physicians Quality Reporting Initiative</a> - 
+          <a href="/medical-code-sets/annual-code-changes.html" title="Annual Code Changes">Annual Code Changes</a> - 
+          <a href="/medical-code-sets/2011-new-deleted-medical-codes.html" title="2011 New &amp; Deleted Medical Codes">2011 New &amp; Deleted Medical Codes</a> - 
+          <a href="/cpt/2011-cpt-codes-new-deleted.html" title="2011 CPT Codes New, Deleted &amp; Changed">2011 CPT New, Changed and Deleted Codes</a> - 
+          <a href="/hcpcs/2011-hcpcs-codes-new-deleted.html" title="2011 HCPCS Codes New, Deleted &amp; Changed">2011 HCPCS New, Changed and Deleted Codes</a> - 
+          <a href="/icd-9/2011-icd9-codes-new-deleted.html" title="2011 ICD-9-CM Codes New, Deleted &amp; Changed">2011 ICD-9-CM New, Changed and Deleted Codes</a> - 
+          <a href="/medical-code-sets/2010-new-deleted-medical-codes.html" title="2010 New &amp; Deleted Medical Codes">2010 New &amp; Deleted Medical Codes</a> - 
+          <a href="/medical-code-sets/2009-new-deleted-medical-codes.html" title="2009 New &amp; Deleted Medical Codes">2009 New &amp; Deleted Medical Codes</a> - 
+          <a href="/cms1500-claim-form/cms1500-place-of-service-codes.html" title="Place of Service Codes">Place of Service Codes</a> - 
+          <a href="/medical-code-sets/drgs-apcs.html" title="DRGs &amp; APCs (Diagnosis-Related Group &amp; Ambulatory Payment Classification)">DRGs &amp; APCs</a>
+        <br>
+        </div>
 
-<small><small>
+        <div style="line-height:150%;margin-top:7px;">
+          <div style="margin-bottom:7px;">
+          Site Information: &nbsp; <a href="/aboutus/privacy-policy.html">Privacy Policy</a>&nbsp;&nbsp;
+          <a href="/aboutus/terms-of-use.html">Terms of Use</a>&nbsp;&nbsp;
+          <a href="/aboutus/license-agreement.html" title="FindACode.com License Agreement">Subscription Agreement</a>&nbsp;&nbsp;     
+          <a href="/aboutus/resources.html">Resources</a>&nbsp;&nbsp;
+          <a href="/site-map.html">Site Map</a>
+          </div>
+          <div style="margin-bottom:7px;">
+            Find A Code, LLC - 95 W. 200 N. Ste 2, Spanish Fork, UT 84660<br>
+            Phone 801-770-4203 (9-5 Mountain) - Fax (801) 770-4428
+          </div>
+          <div style="margin-bottom:7px;">
+          CPT<sup><small>®</small></sup> copyright 2010 American Medical Association - All Rights Reserved<br>
+          <a href="/aboutus/copyright.html">Copyright</a> © 2000-2011 Find A Code, LLC - All Rights Reserved
+          </div>
+        </div>
 
-<a href="http://www.findacode.com/icd9-diagnosis-codes.html" title="ICD 9 Medical Diagnosis Codes">ICD-9-CM Diagnosis Codes Vol. I</a> - 
+      </td>
+      <td width="20px">&nbsp;</td>
+      <td>
+        <style type="text/css">
+.shadow {
+	-moz-box-shadow: 3px 3px 3px #555;
+	-webkit-box-shadow: 3px 3px 3px #555;
+	box-shadow: 3px 3px 3px #555;
+	/* For IE 8 */
+	-ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#555555')";
+	/* For IE 5.5 - 7 */
+	filter: progid:DXImageTransform.Microsoft.Shadow(Strength=4, Direction=135, Color='#555555');
+}
+        </style>
+        <table cellpadding="0" cellspacing="0" border="0">
+        <tbody><tr>
+        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
+          <a href="/aboutus/secure-certificate.html" title="FindACode.com Secure Certificate">
+          <img src="/static/images/showsiteseal_new.png" style="border:0px;" alt="FindACode.com Secure Certificate">
+          </a>
+        </td>
+        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
+          <a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration">
+          <img src="/static/images/privacy-police.png" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" style="border:0px;">
+          </a>
+        </td>
+        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
+          <a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=1100506111244587">
+          <img title="Click to verify BBB accreditation and to see a BBB report." src="/static/images/bbbsealh2.gif" alt="Click to verify BBB accreditation and to see a BBB report." class="shadow" style="border:0px;">
+          </a>
+        </td>
+        </tr>
+        <tr>
+        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
+          <a href="http://order.1and1.com/xml/order/popupGreenPower" title="FindACode.com's Green Web Servers by 1and1.com">
+          <img src="/static/images/0901_GreenHosting_RGB_Shadow1.png" style="border:0px;" alt="FindACode.com's Green Web Servers by 1and1.com">
+          </a>
+        </td>
+        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
+          <a href="/made-in-usa.html" title="FindACode.com - Made in the USA">
+          <img src="/static/images/made-in-usa-logo-web.jpg" class="shadow" style="border:1px solid #aaa;" alt="Made in the USA - FindACode.com">
+          </a>
+        </td>
+        <td align="center" valign="middle" style="text-align:center;vertical-align:middle;padding:5px;">
+          <a href="/powered-by-findacode.html" title="Powered by FindACode.com">
+          <img src="/static/images/fac-pb-logo-120x35.gif" class="shadow" style="border:1px solid #aaa;;" alt="Powered by FindACode.com">
+          </a>
+        </td>
+        </tr>
+        </tbody></table>
+      </td>
 
-<a href="http://www.findacode.com/icd-9-procedure-codes.html" title="ICD 9 Medical Procedure Codes">ICD-9-CM Procedure Codes Vol. III</a> - 
+      
+    </tr>
+  </tbody></table>
 
-<a href="http://www.findacode.com/hcpcs-supply-codes.html" title="HCPCS Medical Supply Codes">HCPCS Level II Procedure &amp; Supply Codes</a> - 
+  <script type="text/javascript">
+    $(function() { 
+      $('#suggestions_dialog').dialog({
+        width:400, height:315,
+        autoOpen:false, resizable:false,
+        modal:true,
+        buttons: { 
+          "Close": function(event) { 
+            $(this).dialog("close"); 
+            $('#suggestions_dialog :input[name=Comments]').val("");
+            $("#suggestion_results").html("");
+            $(event.target).next().show();
+          },
+          "Submit": function (event) {    
+            var comments = $('#suggestions_dialog :input[name=Comments]').val();
+            if (comments != "") {
+              $('#suggestion_results').html("<span style='color:green;'><b>Please wait while we process your request.</b></span>");
+              $(event.target).attr('disabled','true');
+              $.post('/suggestion.php', $('#suggestions_form').serialize(), function(data) {
+                $('#suggestion_results').html(data);
+                $(event.target).removeAttr('disabled').hide();
+              });
+            } else {
+              $("#suggestion_results").html("<span style='color:red;'><b>Please enter a comment or question.</b></span>");
+            }
+          }
+        } //end buttons
+      });
+    });
+  </script>
 
-<a href="http://www.findacode.com/hcpcs-code-modifiers.html" title="HCPCS Medical Supply Code Modifiers">HCPCS Level II Code Modifier</a> - 
-
-<a href="http://www.findacode.com/abc-code-set.html" title="ABC Code Set">ABC Codes - Code Set</a> - 
-
-<a href="http://www.findacode.com/cpt-code-set.html" title="CPT Codes Set">CPT Codes</a> - 
-
-<a href="http://www.findacode.com/cpt-code-modifiers.html" title="CPT Code Modifiers">CPT Code Modifiers</a> - 
-
-<a href="http://www.findacode.com/icd-10-cm-diagnosis-codes.html" title="ICD-10-CM Diagnosis Codes">ICD-10-CM Diagnosis Codes</a> - 
-
-<a href="http://www.findacode.com/icd-10-pcs-procedure-codes.html" title="ICD-10-PCS Procedure Codes">ICD-10-PCS Procedure Codes</a> - 
-
-<a href="http://www.findacode.com/pqri" title="Physicians Quality Reporting Initiative PQRI">PQRI Physicians Quality Reporting Initiative</a> - 
-
-<a href="http://www.findacode.com/annual-code-changes.html" title="Annual Code Changes">Annual Code Changes</a> - 
-
-<a href="http://www.findacode.com/2009-new-deleted-medical-codes.html" title="2009 New &amp; Deleted Medical Codes">2009 New &amp; Deleted Medical Codes</a> - 
-
-<a href="http://www.findacode.com/2009-cpt-codes-new-deleted.html" title="2009 CPT Codes New, Deleted &amp; Changed">2009 CPT New, Changed and Deleted Codes</a> - 
-<a href="http://www.findacode.com/2009-hcpcs-codes-new-deleted.html" title="2009 HCPCS Codes New, Deleted &amp; Changed">2009 HCPCS New, Changed and Deleted Codes</a> - 
-<a href="http://www.findacode.com/2009-icd9-codes-new-deleted.html" title="2009 ICD-9-CM Codes New, Deleted &amp; Changed">2009 ICD-9-CM New, Changed and Deleted Codes</a>
-
-</small></small>
-<br>
-</div>
-
-<small>
-Find A Code, Inc. - 65 W. 200 N. Ste 007, Spanish Fork, UT 84660 - Phone: 801-822-0321<br>
-CPT<sup><small>®</small></sup> copyright 2008 American Medical Association - All Rights Reserved<br>
-<a href="http://www.findacode.com/copyright.html" class="bottommenu2">Copyright</a> © 2000-2009 Find A Code, Inc. &nbsp;All Rights Reserved&nbsp; - &nbsp;<a href="http://www.findacode.com/privacy-policy.html" class="bottommenu2">Privacy Policy</a>&nbsp; - &nbsp;<a href="http://www.findacode.com/resources.html" class="bottommenu2">Resources</a><br>
-</small>
-</td>
-<td class="tdct" width="65px">
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="3px" border="0" alt=""><br>
-<a href="/secure-certificate.html" title="FindACode.com Secure Certificate"><small>View our Secure Certificate</small></a>
-</td>
-<td class="tdrt" width="65px">
-
-<img src="http://www.findacode.com/images/clear.gif" width="1" height="3px" border="0" alt=""><br>
-<div style="display:inline;">
-<a href="http://www.privacypolice.org/findacode.htm" target="_blank" title="PrivacyPolice.org Privacy Registration">
-<img src="http://www.findacode.com/images/privacy-police2.jpg" width="61" height="61" alt="PrivacyPolice.org Privacy Registration" border="0">
-</a><br>
-</div>
-
-</td>
-
-
-</tr></tbody></table>
-</div>
-
-<div id="blanket_contact" style="display:none;"></div>
-<div id="popUpDiv_contact" style="display:none;">
-
-    <div name="suggestionReturn2" id="suggestionReturn2" style="margin-top:7px;margin-bottom:5px;">
-      <h4 style="color:white;margin:0;padding:0;padding-bottom:5px;">
+  <div id="suggestions_dialog" title="Contact Us" style="display:none;">
+    <div style="margin-top:7px;margin-bottom:5px;">
+      <h4 style="margin:0;padding:0;padding-bottom:5px;">
         Questions?&nbsp; Suggestions?&nbsp; Problems?&nbsp; Tell us!
       </h4>
     </div>
+    <form id="suggestions_form" method="post" action="" onsubmit="return false;">
+      <input type="hidden" name="FirstName" value="">
+      <input type="hidden" name="LastName" value="Guest">
+      <input type="hidden" name="Email" value="guest@findacode.com">
+      <input type="hidden" name="Date" value="Tuesday 1st of November 2011 02:25:31 PM">
+      <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
+      <input type="hidden" name="Cur_Page" value="/aboutus/privacy-policy.html">
+      <input type="hidden" name="Cur_Uid" value="0">
+      <input type="hidden" name="Cur_Aid" value="0">
+      <textarea rows="8" cols="50" style="width:370px;" name="Comments"></textarea>
+    </form>
+    <div id="suggestion_results"></div>
+  </div>
 
-    <form name="suggestions2" method="POST" action="javascript:postPage_sync('http://www.findacode.com/suggestion.php','suggestionReturn2','<h4 style=&quot;color:white;margin:0;padding:0;padding-bottom:5px;&quot;>Submitting...</h4>','suggestions2');" onsubmit="return popupCheck();">
-    <input type="hidden" name="FirstName" value="">
-    <input type="hidden" name="LastName" value="Guest">
-    <input type="hidden" name="Email" value="">
-    <input type="hidden" name="Date" value="Thursday 4th of June 2009 08:17:35 PM">
-    <input type="hidden" name="Browser" value="ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)">
-    <input type="hidden" name="Cur_Page" value="/privacy-policy.html">
-    <input type="hidden" name="Cur_Uid" value="0">
-    <input type="hidden" name="Cur_Aid" value="0">
-    <textarea rows="8" style="width:370px;" name="Comments"></textarea>
-    <input type="submit" name="submit" value="Submit" style="margin-top:5px;"><br><br>
-  </form>
-  <form><input onclick="javascript:popupQuestion();return false;" type="submit" value="Close Window"></form>
-</div>
+  </div> <!-- footer -->
 
-
+  <script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20540029-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+  </script>
+  <!-- Quantcast Tag -->
+  <script type="text/javascript">
+  var _qevents = _qevents || [];
+  (function() {
+  var elem = document.createElement('script');
+  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+  elem.async = true;
+  elem.type = "text/javascript";
+  var scpt = document.getElementsByTagName('script')[0];
+  scpt.parentNode.insertBefore(elem, scpt);
+  })();
+  _qevents.push({
+  qacct:"p-49F7af93XLucc"
+  });
+  </script>
+  <noscript>
+  <div style="display:none;">
+  <img src="//pixel.quantserve.com/pixel/p-49F7af93XLucc.gif" border="0" height="1" width="1" alt="Quantcast"/>
+  </div>
+  </noscript>
+  <!-- End Quantcast tag -->
+  <script type="text/javascript" src="/static/v1a/jquery/jquery.pngFix.js"></script>
+  <script type="text/javascript">
+  __compete_code = '4636535d1f8315afea3131fb5009868c';
+  (function () {
+      var s = document.createElement('script'),
+          e = document.getElementsByTagName('script')[0];
+      s.src = (document.location.protocol.toLowerCase() === 'https:' ? 'https:' : 'http:') +
+          '//c.compete.com/bootstrap/4636535d1f8315afea3131fb5009868c/bootstrap.js';
+      s.type = 'text/javascript';
+      s.async = true;
+      if (e) { e.parentNode.insertBefore(s, e); }
+  }());
+  </script>
 
 </body></html>
