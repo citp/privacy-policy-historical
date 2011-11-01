@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playfreegamesonline1.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412014300id_/http%3A//www.playfreegamesonline1.com/templates/default/files/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playfreegamesonline1.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155804id_/http%3A//www.playfreegamesonline1.com/templates/default/files/pp.html) for the most accurate reproduction.*
 
 # Privacy Policy - www.playfreegamesonline1.com
 
