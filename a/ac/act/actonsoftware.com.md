@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424002431id_/http%3A//www.actonsoftware.com/policy_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221426id_/http%3A//www.actonsoftware.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Act-On :: Privacy Policy
+# Act-On - Integrated Online Marketing Platform for the Fortune 5,000,000
 
 **User Data**
 
