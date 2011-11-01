@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the directory-of-colleges.com privacy policy that was archived on 2010-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121123736id_/http%3A//directory-of-colleges.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the directory-of-colleges.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101225027id_/http%3A//www.directory-of-colleges.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -152,7 +152,7 @@
 			applicable Federal and State laws.</p>
 			
 			<p>Links to Other Websites: Our site contains links to other websites and
-			DegreeGuideOnline.com is not responsible for the privacy practices or content
+			Directory-of-Colleges.com is not responsible for the privacy practices or content
 			of these third-party websites. You should always read the privacy statements
 			of these linked sites as their privacy policy may differ substantially from ours.
 			Please make note that when you click on one of these links you will be directed
@@ -219,6 +219,11 @@ function doClick()
 		{
 		alert ("Please Choose a subject:");
 		document.myform.industry.focus();
+		return false;
+		}
+	if (document.myform.eduLvl.value == "6")
+		{
+		window.location.href='http://www.directory-of-colleges.com/findcd.asp';
 		return false;
 		}
 		
@@ -295,7 +300,13 @@ function doClick1()
 
 <h4>1. Choose a degree level:</h4><select name="eduLvl" onchange="DegreeChanged();">
     <option value="-1">-- Select a Degree Level --</option>
-<option value="1">Associate's Degrees</option><option value="2">Bachelor's Degrees</option><option value="3">Master's Degrees</option><option value="4">Doctoral Degrees</option><option value="5">Certificate Programs</option></select>
+<option value="1">Associate's Degrees</option>
+<option value="2">Bachelor's Degrees</option>
+<option value="3">Master's Degrees</option>
+<option value="4">Doctoral Degrees</option>
+<option value="5">Certificate Programs</option>
+<option value="6">Career Diploma</option>
+</select>
  
 <h4>2. Choose a category:</h4><div id="category_dropdown"><select disabled="" onchange="CategoryChanged()" name="optone"> <option value="-1" selected="">-- Select a Category --</option></select></div>
 
@@ -370,7 +381,7 @@ function doClick1()
 			
 			<!--Form panel Ends -->
 			<div class="example">
-			<h3 class="panel-heading"><a href="javascript:void(0)">Degree Advantage</a></h3>
+			<h3 class="panel-heading"><a href="javascript:void(0)">Directory of Colleges</a></h3>
 			<div class="panel">
 			<div class="content" id="xxx1" style="display: none;">
 			<ul>
@@ -420,12 +431,14 @@ function doClick1()
   	<br class="spacer">
 	<!--Footer Panel Starts -->
 	
+		<center>
 	<div id="footer-panel">
 	<p><a href="default.asp">Home</a>  &nbsp; |  &nbsp; <a href="about_us.asp">About</a> &nbsp;  | &nbsp;  <a href="contact_us.asp">Contact</a>&nbsp;   | &nbsp;  <a href="distance_learning.asp">Distance Learning</a>  &nbsp;  | &nbsp;  <a href="privacy.asp">Privacy Policy</a></p>
 	
 	
 	<p><span>Distance Learning Degrees by  Directory of Colleges.com © 2009</span></p>
 	</div>
+	</center>
 	
   <!--Footer Panel Ends -->
     
