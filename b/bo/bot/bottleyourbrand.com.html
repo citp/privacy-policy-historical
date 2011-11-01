@@ -1,15 +1,33 @@
-<!--The following is the downloaded HTML source of the bottleyourbrand.com privacy policy that was archived on 2011-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110401095037id_/http%3A//www.bottleyourbrand.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bottleyourbrand.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101221622id_/http%3A//www.bottleyourbrand.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js"><head>
+<!DOCTYPE html><html lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml&quot;" class=" js"><head>
 
 	<meta http-equiv="content-style-type" content="text/css">
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<script type="text/javascript">
+	<meta property="og:url" content="http://www.bottleyourbrand.com/privacy-policy">
+	<meta property="og:title" content="Privacy Policy">
+	<meta property="og:description" content="Privacy Policy for Bottle Your Brand.">
+	<meta property="og:image" content="http://cf.bottleyourbrand.com/html/img/logo.png">
+	<meta property="og:site_name" content="BottleYourBrand.com">
+	<meta property="og:street-address" content="11200 Kirkland Way, Suite 380">
+	<meta property="og:locality" content="Kirkland">
+	<meta property="og:region" content="WA">
+	<meta property="og:postal-code" content="98033">
+	<meta property="og:country-name" content="United States">
+	<meta property="og:email" content="info@bottleyourbrand.com">
+	<meta property="og:phone_number" content="866-935-2235">
+	<meta property="og:fax_number" content="425-284-5495">
+	<meta property="og:type" content="article">
+	<meta property="fb:page_id" content="100683783615">
+	<meta property="fb:app_id" content="192683566438">
+	<meta property="fb:admins" content="500155237">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript">
 var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css";
 </script>
 <script type="text/javascript" src="http://cdn.powerreviews.com/repos/13026/pr/pwr/engine/js/full.js"></script>
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <link href="http://cdn.powerreviews.com/repos/13026/pr/pwr/engine/pr_styles_review.css" type="text/css" rel="stylesheet">
 <link rel="Shortcut Icon" href="http://cf.bottleyourbrand.com/html/img/bybfavicon.ico" type="image/x-icon">	
 <title>Privacy Policy</title>
@@ -21,7 +39,7 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css
 	
 <link rel="stylesheet" type="text/css" href="http://cf.bottleyourbrand.com/html/css/screen.css" media="screen, projection, tty">
 <link rel="stylesheet" type="text/css" href="http://cf.bottleyourbrand.com/html/css/print.css" media="print">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://cf.bottleyourbrand.com/html/js/scripts.js"></script>	<script type="text/javascript" src="http://cf.bottleyourbrand.com/html/js/scripts.new.js"></script>
 	<script type="text/javascript">document.documentElement.className += " js";</script>
 	<!--[if IE]><script type="text/javascript" src="http://cf.bottleyourbrand.com/html/js/roundies.js"></script><![endif]-->
@@ -29,7 +47,7 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css
 	<script type="text/javascript">
 		function subscribeEmail(){
 	 	
-	 	var emailAddress = $("#subs_emailAddress").val();
+	 	var emailAddress = $("#f-newsletter").val();
 	  	var params ={  
 	                   emailAddress: emailAddress
 	                };
@@ -42,7 +60,7 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css
 		        dataType: "json",
 		        success: function(json, msg){
 		                  if (json.status == 'SUCCESS') {
-								$('div#newsletter').html("<h2>Thank you for signing up! <span>You'll receive a sign up confirmation email in a few minutes.</span></h2>");
+								$('li#newsletter').html("<h2 style='margin:0;'>Thank you for signing up! <span>You'll receive a sign up confirmation email in a few minutes.</span></h2>");
 							} else {
 								alert(json.errors);
 							}
@@ -60,139 +78,168 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css
 					           url:"/byb/control/myaccount-mega",
 					           cache:false,
 					           success:function(msg){
-					               $(".account").html(msg);
+					               $("nav.account li:first").remove();
+					               $("nav.account ul").prepend(msg);
+					               					               
 					           }
 					       });
+                           $.ajax({
+                               url:"/byb/control/getMicroCart",
+                               cache:false,
+                               success:function(msg){
+                                   $("section.cart").html(msg);
+                               }
+                           });
                         }
-                });       
+                });                    
      });
   </script>	 
   
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body>
 
-<div id="promo-a">
-	<p><span class="a"> <strong> Free Ground Shipping On Any Order of $45 + </strong>  <span style="color:#c76800;font-weight:normal"> (excludes bottled water)</span></span><span class="b"><strong>promo: FREESHIP</strong> </span></p>
-</div><!-- #promo-a -->
 <div id="root">
-	<div id="top">
-	
-    <h1 id="logo"><a href="/" accesskey="h"><img src="http://cf.bottleyourbrand.com/html/img/logo.png" width="295" height="42" alt="Bottle Your Brand"></a></h1>
-        <div class="search-a">
-            <!-- Google CSE Search Box Begins  -->
+    <section class="infobar-a">
+        <p><strong>FREE Ground Shipping On Orders of $45+ with Code: FREESHIP</strong> (excludes bottled water)</p>
+        <p class="prods">Custom Stickers, Labels, Invitations</p>
+    </section>
+    <header id="top">
+        <h1 id="logo"><a accesskey="h" href="/"><img width="249" height="55" alt="Bottle Your Brand ... more than just bottled water" src="http://cf.bottleyourbrand.com/html/img/logo.png"></a></h1>
+        <nav id="skips">
+            <ul>
+                <li><a accesskey="n" href="#primary">Skip to navigation [n]</a></li>
+                <li><a accesskey="c" href="#content">Skip to content [c]</a></li>
+                <li><a accesskey="f" href="#footer">Skip to footer [f]</a></li>
+            </ul>
+        </nav>
+        
+        <nav class="search">
             <form action="/byb/control/gsearch" name="gsearch" id="searchbox_010375552319769440266:adtz_wjhhmw">
                 <p>
-                    <label for="f-search">Search</label> <input type="text" name="q" value="" size="31" id="f-search"> <button type="submit">Search</button>
+                    <label class="offset" for="f-search">Search</label> <input type="text" name="q" value="" size="31" id="f-search"> <button class="button-a" type="submit">Search</button>
                     <input type="hidden" name="cx" value="010375552319769440266:adtz_wjhhmw">
                     <input type="hidden" name="ie" value="UTF-8">
                     <input type="hidden" name="cof" value="FORID:10;NB:1">
                 </p>    
             </form>
-            <!-- Google CSE Search Box Ends -->     
-        
-        </div><!-- .search-a -->
-        <div class="user-options-b">
-					<div class="account">
-						
-					</div><!-- .account -->
-					<div class="cart">
-						<p>
-							<a href="/byb/control/viewCart">Cart (0)</a>
-						</p>
-					</div><!-- .cart -->
-				</div>
+        </nav>
+        <nav class="gPlus">
+            <div class="g-plusone" data-annotation="none"></div>
+        </nav>
+        <nav class="account">
+            <ul>
+                <li class="logged-out">
+                    <a href="#">My Account</a>
+                </li>
+                <li class="help"><a href="#">Help Me</a>
+                    <div>
+                        <div class="col-a">
+                            <h3>Phone</h3>
+                            <p>1-866-935-2235</p>
+                            <h3>Fax</h3>
+                            <p>425-284-5495</p>
+                        </div><!-- .col-a -->
+                        <div class="col-b">
+                            <h3>Business Hours</h3>
+                            <p>9am to 5pm PST M-F</p>
+                            <h3>Email</h3>
+                            <p><a href="mailto:info@bottleyourbrand.com">info@bottleyourbrand.com</a></p>
+                        </div><!-- .col-b -->
+                        <p class="more"><strong>More help?</strong> Visit <a href="/faqs" rel="external">FAQ</a>, <a href="/personalized-label-ideas" rel="external">IDEAS</a> or <a href="http://www.bottleyourbrand.com/pricing" rel="external">PRICING</a></p>
+                    </div>
+                </li>
+            </ul>
+        </nav>
+        <section class="cart">
+            <p><a href="/byb/control/viewCart">Cart ()</a></p>
+        </section>
+    </header>
+    <nav id="nav">
+        <h2 class="offset">Navigation</h2>
+        <ul>
+            <li><a href="#">Labels &amp; Stickers</a>
+                <div>
+                    <h3>Bottle Labels</h3>
+                    <ul>
+                        <li><a href="/water-bottle-labels">Water Bottle Labels</a></li>
+                        <li><a href="/personalized-wine-labels">Wine Bottle Labels</a></li>
+                        <li><a href="/custom-beer-labels">Beer Bottle Labels</a></li>
+                    </ul>
 
-	</div><!-- #top -->
-	
-	
-	<h2 class="offset">Navigation</h2>
-
-	<ul id="nav-b">
-		<li id="nav-b-labelsstickers"><a href="#" class="t">Labels &amp; Stickers</a>
-			<div class="sub">
-				<div class="sub-wrap">
-					<h3>Bottle Labels</h3>
-					<ul>
-						<li><a href="/water-bottle-labels">Water Bottle Labels</a></li>
-						<li><a href="/personalized-wine-labels">Wine Bottle Labels</a></li>
-						<li><a href="/custom-beer-labels">Beer Bottle Labels</a>					</li>
-					</ul>
-
-					<h3>Custom Labels &amp; More</h3>
-					<ul>
-						<li><a href="/custom-labels">Custom Labels</a></li>
-						<li><a href="/bumper-stickers">Bumper Stickers</a></li>
-						<li><a href="/family-car-stickers">Family Car Stickers</a></li>
-						<li><a href="/gift-tag-stickers">Gift Tag Stickers</a></li>
-						<li><a href="/food-labels">Food Labels</a></li>
-						<li><a href="/invitations">Invitations</a></li>
-					</ul>					
-				</div><!-- .sub-wrap -->
-			</div><!-- .sub -->
-		</li>
-		<li id="nav-b-bottledwater"><a href="/custom-water" class="t">Bottled Water</a></li>
-		<li id="nav-b-makeyourown"><a href="#" class="t">Make Your Own</a>
-			<div class="sub">
-				<div class="sub-wrap">
-					<h3>Design Online</h3>
-					<ul>
-						<li><a href="/make-labels/water-bottle-labels">Water Bottle Labels </a></li>
-						<li><a href="/make-labels/personalized-wine-labels">Wine Bottle Labels</a></li>
-						<li><a href="/make-labels/custom-beer-labels">Beer Bottle Labels</a></li>
-						<li><a href="/make-stickers/bumper-stickers">Bumper Stickers</a></li>
-						<li><a href="/make-stickers/custom-labels">Custom Labels</a></li>
-						<li><a href="/make-labels/custom-water">Custom Label Bottled Water</a></li>		
-						<li><a href="/make-labels/gift-tag-stickers">Gift Tag Stickers</a></li>      				
-						<li><a href="/make-labels/food-labels">Food Labels</a></li>
-						<li><a href="/make-labels/invitations">Invitations</a></li>                    
-					</ul>					
-				</div><!-- .sub-wrap -->
-			</div><!-- .sub -->
-		</li>
-		<li id="nav-b-instantquote"><a href="#" class="t">Instant Quote</a>
-			<div class="sub">
-				<div class="sub-wrap">
-					<h3>Instant Quote</h3>
-					<ul>
-						<li><a href="/instant-quote/water-bottle-labels">Water Bottle Labels </a></li>
-						<li><a href="/instant-quote/personalized-wine-labels">Wine Bottle Labels</a></li>
-						<li><a href="/instant-quote/custom-beer-labels">Beer Bottle Labels</a></li>
-						<li><a href="/instant-quote/bumper-stickers">Bumper Stickers</a></li>
-						<li><a href="/instant-quote/custom-labels">Custom Labels</a></li>
-						<li><a href="/instant-quote/custom-water">Custom Label Bottled Water</a></li>
-						<li><a href="/instant-quote/family-car-stickers">Family Car Stickers</a></li>
-						<li><a href="/instant-quote/gift-tag-stickers">Gift Tag Stickers</a></li>
-						<li><a href="/instant-quote/food-labels">Food Labels</a></li>
-						<li><a href="/instant-quote/invitations">Invitations</a></li>
-					</ul>					
-				</div><!-- .sub-wrap -->
-			</div><!-- .sub -->
-		</li>
-		<li id="nav-b-help"><a href="#" class="t">Help Me!</a>
-			<div class="sub">
-				<div class="sub-wrap">
-					<div class="col-a">
-						<h3>Phone</h3>
-						<p>1-866-935-2235</p>
-
-						<h3>Fax</h3>
-						<p>425-284-5495</p>
-					</div><!-- .col-a -->
-					<div class="col-b">					
-						<h3>Business Hours</h3>
-						<p>9am to 5pm PST M-F</p>
-						<h3>Email</h3>
-						<p><a href="mailto:info/at/bottleyourbrand.com">info/at/bottleyourbrand.com</a></p>
-					</div><!-- .col-b -->					
-					<p class="more">Need more help? Visit <a href="/faqs" target="_blank"> FAQ</a> or <a href="/personalized-label-ideas" target="_blank">IDEAS</a> page</p>					
-				</div><!-- .sub-wrap -->
-			</div>
-		</li>
-	</ul>
-
-
-	<div id="content">	
-		<div id="main-a">
+                    <h3>Custom Labels &amp; More</h3>
+                    <ul>
+                        <li><a href="/custom-labels">Custom Labels</a></li>
+                        <li><a href="/bumper-stickers">Bumper Stickers</a></li>
+                        <li><a href="/family-car-stickers">Family Car Stickers</a></li>
+                        <li><a href="/gift-tag-stickers">Gift Tag Stickers</a></li>
+                        <li><a href="/food-labels">Food Labels</a></li>
+                        <li><a href="/invitations">Invitations</a></li>
+                    </ul>
+                </div><!-- .sub-wrap -->
+            </li>
+            <li><a href="/invitations">Invitations</a>
+                <div>
+                    <ul>
+                        <li><a href="/invitations/all-occasions">All Occasion Invitations</a></li>
+                        <li><a href="/invitations/baby">Baby Shower Invitations</a></li>
+                        <li><a href="/invitations/birthday">Birthday Invitations</a></li>
+                        <li><a href="/invitations/weddings">Wedding Invitations</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="/custom-water">Bottled Water</a>
+                <div>
+                    <ul>
+                        <li><a href="/custom-water/all-occasions">All Occasion Bottled Water</a></li>
+                        <li><a href="/custom-water/baby-shower">Baby Shower Bottled Water</a></li>
+                        <li><a href="/custom-water/bachelorette">Bachelorette Bottled Water</a></li>
+                        <li><a href="/custom-water/birthday">Birthday Bottled Water</a></li>
+                        <li><a href="/custom-water/graduation">Graduation Bottled Water</a></li>
+                        <li><a href="/custom-water/holidays">Holiday Bottled Water</a></li>
+                        <li><a href="/custom-water/religious">Religious Bottled Water</a></li>
+                        <li><a href="/custom-water/retirement">Retirement Bottled Water</a></li>
+                        <li><a href="/custom-water/sports">Sports Bottled Water</a></li>
+                        <li><a href="/custom-water/weddings">Wedding Bottled Water</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li><a href="#">Make Your Own</a>
+                <div>
+                    <h3>Design Online</h3>
+                    <ul>
+                        <li><a href="/make-labels/water-bottle-labels">Water Bottle Labels </a></li>
+                        <li><a href="/make-labels/personalized-wine-labels">Wine Bottle Labels</a></li>
+                        <li><a href="/make-labels/custom-beer-labels">Beer Bottle Labels</a></li>
+                        <li><a href="/make-stickers/bumper-stickers">Bumper Stickers</a></li>
+                        <li><a href="/make-stickers/custom-labels">Custom Labels</a></li>
+                        <li><a href="/make-labels/custom-water">Custom Label Bottled Water</a></li>
+                        <li><a href="/make-labels/gift-tag-stickers">Gift Tag Stickers</a></li>
+                        <li><a href="/make-labels/food-labels">Food Labels</a></li>
+                        <li><a href="/make-labels/invitations">Invitations</a></li>
+                    </ul>
+                </div><!-- .sub-wrap -->
+            </li>
+            <li class="last"><a href="#">Instant Quote</a>
+                <div>
+                    <h3>Instant Quote</h3>
+                    <ul>
+                        <li><a href="/instant-quote/water-bottle-labels">Water Bottle Labels </a></li>
+                        <li><a href="/instant-quote/personalized-wine-labels">Wine Bottle Labels</a></li>
+                        <li><a href="/instant-quote/custom-beer-labels">Beer Bottle Labels</a></li>
+                        <li><a href="/instant-quote/bumper-stickers">Bumper Stickers</a></li>
+                        <li><a href="/instant-quote/custom-labels">Custom Labels</a></li>
+                        <li><a href="/instant-quote/custom-water">Custom Label Bottled Water</a></li>
+                        <li><a href="/instant-quote/family-car-stickers">Family Car Stickers</a></li>
+                        <li><a href="/instant-quote/gift-tag-stickers">Gift Tag Stickers</a></li>
+                        <li><a href="/instant-quote/food-labels">Food Labels</a></li>
+                        <li><a href="/instant-quote/invitations">Invitations</a></li>
+                    </ul>
+                </div><!-- .sub-wrap -->
+            </li>
+        </ul>
+    </nav>
+    <section id="content">
+        <div id="main-a">
 
 <div id="container">
 <div class="post" id="post-18">
@@ -409,81 +456,113 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css
 	    </div>
    </div>	
 </div><!-- #aside -->
-		
-	</div><!-- #content -->
-	
-	<div id="footer">
-		<div class="newsletter" id="newsletter">
-			<h2>Sign up for our email newsletter <span>and enjoy a special welcome offer.</span></h2>
-			<form name="emailSubscribeForm" id="emailSubscribeForm" method="post" action="https://www.bottleyourbrand.com/byb/control/subscribeToNewsletter">
-				<p>
-					<label for="subs_emailAddress">Email address</label><input type="text" name="subs_emailAddress" value="" id="subs_emailAddress">	<button type="button" onclick="javascript: subscribeEmail();">Sign Up</button>
-				</p>
-			</form>
-		</div><!-- .newsletter -->
-		
-		<div class="sitemap-a">
-			<h2 class="offset">Site map</h2>
-			 
-			<div class="col col-first">
-				<h3>Customer Service</h3>
-				  
-				<ul>
-					<li><a href="/about-us"> About Us</a></li>
-					<li><a href="/contact-us">Contact Us</a></li>
-					<li><a href="http://reviews.bottleyourbrand.com">Customer Reviews</a></li>
-					<li><a href="/safe-shopping">Safe Shopping</a></li>
-					<li><a href="/shipping-returns">Shipping &amp; Returns</a></li>
-					<li><a href="/faqs">FAQ’s</a></li>
+    </section>
 
-					<li><a href="/privacy-policy">Privacy Policy</a></li>
-					<li><a href="/byb/control/sitemap">Site map</a></li>
-				</ul>
-			</div><!-- .col col-first -->
-			<div class="col">
-				<h3>Inside Bottle Your Brand</h3>
-				<ul>
-					<li><a href="http://www.bottleyourbrand.com/blog" target="_blank">Blog</a></li>
 
-					<li><a href="http://twitter.com/bottleyourbrand" target="_blank">Twitter</a></li>
-					<li><a href="http://www.facebook.com/bottleyourbrand" target="_blank">Facebook</a></li>
-					<li><a href="http://www.youtube.com/bottleyourbrand" target="_blank">YouTube</a></li>
-				</ul>
-			</div><!-- .col -->
-			<div class="col">
-				<h3>Programs</h3>
+    <div id="footer">
+	<script type="text/javascript" src="https://promos.wildfireapp.com/website/302/companies/175780/widget_loader.js"></script>
+        <section class="social-b">
+            <ul>
+                <li class="twitter"><a class="h" href="http://twitter.com/bottleyourbrand">Follow us<br> on Twitter</a></li>
+                <li class="facebook"><a class="h" href="http://www.facebook.com/bottleyourbrand">Become a Fan<br> on Facebook</a></li>
+                <li class="blog"><a class="h" href="http://www.bottleyourbrand.com/blog">Visit our Blog<br> for ideas &amp; tips</a></li>
+                <li class="newsletter" id="newsletter">
+                    <h3>Get Inside Offers <em>join our mailing list</em></h3>
+                    <form name="emailSubscribeForm" id="emailSubscribeForm" method="post" action="https://www.bottleyourbrand.com/byb/control/subscribeToNewsletter">
+                        <p>
+                            <label for="f-newsletter">Enter email address</label>
+                            <input type="text" name="subs_emailAddress" value="" id="f-newsletter">  
+                            <button type="button" class="button-bcart" onclick="javascript: subscribeEmail();">Sign Up</button>
+                        </p>
+                    </form>
+                </li>
+            </ul>
+        </section>
+        <section class="m">
+            <div class="contact">
+                <h3>Contact Us</h3>
+                <table>
+                    <tbody>
+                        <tr><th>Toll Free:</th><td>866.935.2235</td></tr>
+                        <tr><th>Intl Phone:</th><td>+1.425.774.4824</td></tr>
+                        <tr><th>Email:</th><td><a href="mailto:info@bottleyourbrand.com">info@bottleyourbrand.com</a></td></tr>
+                        <tr><th>Hours:</th><td> M-F 8am-5pm PST</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <nav class="sitemap-a">
+                <ul>
+                    <li> <h3>About Us</h3>
+                        <ul>
+                            <li><a href="/about-us">About BottleYourBrand.com</a></li>
+                            <li><a href="http://reviews.bottleyourbrand.com">Customer Reviews</a></li>
+                            <li><a href="/safe-shopping">Safe Shopping</a></li>
+                            <li><a href="/shipping-returns">Shipping &amp; Returns</a></li>
+                            <li><a href="/faqs">FAQ’s</a></li>
+                            <li><a href="/privacy-policy">Privacy Policy</a></li>
+                            <li><a href="/byb/control/sitemap">Site map</a></li>
+                            <li><a href="/byb/control/imagesitemap">Image Site map</a></li>
+                        </ul>
+                    </li>         
+                    <li><h3>Connect With Us</h3>
+                        <ul>
+                            <li><a href="http://www.bottleyourbrand.com/blog" rel="external">Blog</a></li>
+                            <li><a href="http://twitter.com/bottleyourbrand" rel="external">Twitter</a></li>
+                            <li><a href="http://www.facebook.com/bottleyourbrand" rel="external">Facebook</a></li>
+                            <li><a href="http://www.youtube.com/bottleyourbrand" rel="external">YouTube</a></li>
+                            <li><a href="http://www.flickr.com/photos/bottleyourbrand/">Flickr</a></li>
+                        </ul>
+                    </li>
+                    <li><h3>Programs</h3>
+                        <ul>
+                            <li><a href="/affiliate-program">Affiliate Program</a></li>
+                        </ul>
+                    </li>
+                    <li><h3>Policy</h3>
+                        <ul>
+                            <li><a href="/privacy-policy">Privacy Policy</a></li>
+                            <li><a href="/agreement">User Agreement</a></li>
+                            <li><a href="/license-agreement">Nonexclusive License Agreement</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </nav>
+        </section>
 
-				<ul>
-					<li><a href="/affiliate-program">Affiliate Program</a></li>
-				</ul>
-			</div><!-- .col -->
-			<div class="col">
-				<h3>Policy</h3>
-				<ul>
-					<li><a href="/privacy-policy">Privacy Policy</a></li>
+        <section class="disclaimer">
+            <p>If you're searching for custom labels, personalized invitation cards, wine labels, beer labels, food labels, gift tag stickers, bumper stickers, or need anything on a sticker, we've made it easy for you to make your own online. Our goal is to provide you with quality stickers and invitations with responsive customer service and fast order turnaround.  Our selection of holiday wine labels, wedding labels, baby shower labels, graduation and birthday labels is always being updated so make sure you check back often for new ideas. Our food labels and bottle labels are waterproof and colorfast and will hold up in water and ice. Our bumper stickers are weatherproof with color that will last.  We're Bottle Your Brand, but we're more than just bottled water.</p>
+            <p>
+                <a href="/custom-labels">Custom Stickers</a> - 
+                <a href="/gift-tag-stickers">Gift Tag Stickers</a> - 
+                <a href="/bumper-stickers">Bumper Stickers</a> - 
+                <a href="/invitations">Invitations</a> - 
+                <a href="/personalized-wine-labels">Wine Stickers</a> - 
+                <a href="/custom-beer-labels">Beer Stickers</a> - 
+                <a href="/invitations/baby">Baby Shower Invitations</a> - 
+                <a href="/invitations/weddings">Wedding Invitations</a> - 
+                <a href="/invitations/birthday">Birthday Invitations</a> - 
+                <a href="/custom-water">Private Label Bottled Water</a> - 
+                <a href="/water-bottle-labels/weddings">Wedding Water</a>
+            </p><p class="copyright">Copyright © 2003-2011, Bottle Your Brand LLC,  all rights reserved.<br> Use of this Web site constitutes acceptance of the <a href="/agreement">User Agreement</a> and <a href="/privacy-policy">Privacy Policy</a></p>
 
-					<li><a href="/agreement">User Agreement</a></li>
-					<li><a href="/license-agreement">Nonexclusive License Agreement</a></li>
-				</ul>
-			</div><!-- .col -->
-			<div align="right">
-            <span>
-                <a href="https://www.resellerratings.com" onclick="window.open('https://seals.resellerratings.com/landing.php?seller=33265','name','height=760,width=780,scrollbars=1');return false;">
-                    <img style="border:none;" src="//seals.resellerratings.com/seal.php?seller=33265" oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;">
+            <div class="aff">
+                <span>
+                <a onclick="window.open('https://seals.resellerratings.com/landing.php?seller=33265','name','height=760,width=780,scrollbars=1');return false;" href="https://www.resellerratings.com">
+                    <img oncontextmenu="alert('Copying Prohibited by Law - ResellerRatings seal is a Trademark of All Enthusiast, Inc.'); return false;" src="//seals.resellerratings.com/seal.php?seller=33265" style="border:none;">
                 </a> 
-            </span><br><br>
-				<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=uzM877GjDxXLnje1DaF7BLjoSFVdLQSWNdYJCYbPSKAMkk4WbzPOOpE"></script><br></span>
-			</div><!-- .col -->
-		</div><!-- .sitemap-a -->
-		
-		<div class="disclaimer">
-			<p>Use of this Web site constitutes acceptance of the User Agreement and Privacy Policy</p>
-			<p>Copyright © 2003 - 2011, Bottle Your Brand, LLC. All rights reserved</p>
-		</div><!-- .disclaimer -->
-		
-		
-	</div><!-- #footer -->
+            </span>
+                <span id="siteseal" style="width:101px;height:53px"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=uzM877GjDxXLnje1DaF7BLjoSFVdLQSWNdYJCYbPSKAMkk4WbzPOOpE"></script></span>
+            </div>
+        </section>
+    </div><!-- #footer -->
 
+    <script type="text/javascript">
+        (function() {
+        var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+        po.src = 'https://apis.google.com/js/plusone.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+    </script>
 </div><!-- #root -->
 <!-- Analytics -->
 
@@ -533,6 +612,7 @@ var pr_style_sheet="http://cdn.powerreviews.com/aux/13026/699210/css/express.css
   </form>  
  </div><!-- .inner -->
 </div>
+
 
 
 </body></html>
