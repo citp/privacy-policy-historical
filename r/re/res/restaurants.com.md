@@ -1,35 +1,114 @@
-> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2008-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080421150522id_/http%3A//www.restaurants.com/Resources/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the restaurants.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151255id_/http%3A//www.restaurants.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Restaurants Privacy Policy
 
-**Restaurants.com Privacy Policy**
+### What information do we collect? 
 
-The Restaurants.com web site is an online information service provided by Restaurants.com Inc. By proceeding to use this service, you acknowledge your agreement to be bound by the following terms of use, which may change at any time.   
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. 
 
+**What do we use your information for?**
 
-Restaurants.com recognize that many visitors to our sites may be concerned about the information they provide to us, and what is done with that information. We have developed this Privacy Policy to address any concerns you may have.   
+Any of the information we collect from you may be used in one of the following ways:
 
-
-_**Our Policy**_  
-At our sites, we don't collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require you to register or provide information to us in order to view our sites. When you provide information for the features of our site, we use the information you supply only for the purpose of providing the services you've requested. If you have specifically agreed to receive follow-up contacts from us or asked to be put on our mailing list, we may also contact you from time to time. You can always change your preference for follow-up contacts just by e-mailing us at any time. We do not disclose any personally identifiable information you give us with anyone outside of the sites that make up Restaurants.com.   
-
-
-A user's personally identifying information may be used for editorial purposes and we may also use such information for internal marketing and promotional purposes. Individuals always have the ability to stop their information from being used for such purposes by sending an e-mail request to us at the address given below.   
-
-
-Like most web sites, we use "cookie" technology on our web site. We may place a "cookie" in the browser files of a user's computer, however the "cookie" itself does not contain any personally identifying information. The "cookie" doesn't track any personal information about you or provide us with any way to contact you, and the "cookie" doesn't extract any information from your computer. We use the "cookie" to provide functional information about your browser allowing us to provide a better user experience. We also use "cookies" to gather broad demographic information and general usage patterns of the visitors to our sites.   
-
-
-By using our Websites, you consent to the collection and use of the information, as described above, by Restaurants.com. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.   
-
-
-_**Third Party Advertising**_  
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).   
+  * To personalize your experience
+(your information helps us to better respond to your individual needs)
+  * To improve our website
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  * To process transactions
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason Â Â Â whatsoever,without your consent, other than for the express purpose of delivering the purchased product or service requested.
+  * To send periodic emails
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. 
 
 
-_**Third Party Cookies**_  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.   
+### How do we protect your information? 
+
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information. 
+
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
+
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
+
+###   
+Do we use cookies? 
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. 
+
+###   
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. 
+
+###   
+Third party links
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+
+###   
+California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent. As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page. 
+
+###   
+Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+###   
+Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+###   
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.restaurants.com
+
+###   
+Your Consent
+
+By using our site, you consent to our privacy policy.
+
+###   
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+This policy was last modified on 8/23/2010
+
+###   
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+Restaurants.com  
+PO Box 1567  
+Stony Brook, NY 11790  
+USA  
+Privacy@domainholdings.com
+
+###   
+No Guarantees
+
+While this privacy policy states standards for maintenance of data, and while efforts will be made to meet the said standards, we are not in a position to guarantee compliance with these standards. There may be factors beyond our control that may result in disclosure of data. Consequently, we make no warranties or representations as regards maintenance or nondisclosure of data.
+
+When accessing our Website **Restaurants.com** will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
+
+If you visit our site to read or download information on our pages, we collect and store only the following information about you:
+
+  1. The name of the domain from which you access the Internet
+  2. The date and time you access our site
+  3. The Internet address of the website you used to link directly to our site.
+  4. We do not share information. We simply pass on customer data to the advertisers
 
 
-_**Contact Us about Privacy**_  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: [info@restaurants.com](mailto:info@restaurants.com?Subject=Privacy)
+
+If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. The information collected is for statistical purposes. **Restaurants.com** may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. For site security purposes and to ensure that this service remains available to all users, **Restaurants.com** uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. **Restaurants.com** will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection
+
+###   
+Third Party Advertising
+
+The ads appearing on this Web site are delivered to users by our Web advertising partners. Our Web advertising partners may set cookies. Doing this allows the ad network to recognize your computer each time they send you an online advertisement. In this way, ad networks may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. We do not have access to or control of the cookies that may be placed by the third-party ad servers or ad networks. This privacy statement covers the use of cookies by our site and does not cover the use of cookies by any advertiser. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>
