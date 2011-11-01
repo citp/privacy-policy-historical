@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vintagesynth.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303043500id_/http%3A//www.vintagesynth.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vintagesynth.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000231id_/http%3A//www.vintagesynth.com/about/privacy.html) for the most accurate reproduction.*
 
 # Vintage Synth Explorer - Privacy Statement
 
