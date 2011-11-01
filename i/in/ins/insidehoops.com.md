@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidehoops.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513093919id_/http%3A//www.insidehoops.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidehoops.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121419id_/http%3A//www.insidehoops.com/privacy.shtml) for the most accurate reproduction.*
 
 # Sports website privacy policy
 
@@ -6,53 +6,9 @@
 Privacy Policy  
 
 
-|  **FINAL EAST STANDINGS**  
----  
+Go INSIDE HOOPS every day! We update multiple times daily, even during NBA lockouts 
+
   
-_Includes Apr. 13_
-
-1\. z-Chicago --   
-2\. y-Miami 4.0   
-3\. y-Boston 6.0   
-4\. x-Orlando 10.0   
-5\. x-Atlanta 18.0   
-6\. x-New York 20.0   
-7\. x-Philadelphia 21.0   
-8\. x-Indiana 25.0   
-\---  
-9\. Milwaukee 27.0   
-10\. Charlotte 28.0   
-11\. Detroit 32.0   
-12\. New Jersey 38.0   
-13\. Washington 39.0   
-14\. Toronto 40.0   
-15\. Cleveland 43.0
-
-* = Division Leader  
-  
-|  **FINAL WEST STANDINGS**  
----  
-  
-_Includes Apr. 13_
-
-1\. z-San Antonio --   
-2\. y-LA Lakers 4.0   
-3\. x-Dallas 4.0   
-4\. y-Ok City 6.0   
-5\. x-Denver 11.0   
-6\. x-Portland 13.0   
-7\. x-New Orleans 15.0   
-8\. x-Memphis 15.0   
-\---  
-9\. Houston 18.0   
-10\. Phoenix 21.0   
-11\. Utah 22.0   
-12\. Golden State 25.0   
-13\. LA Clippers 29.0   
-14\. Sacramento 37.0   
-15\. Minnesota 44.0
-
-* = Division Leader  
   
   
 
