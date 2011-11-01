@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officinepixel.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107185151id_/http%3A//officinepixel.com/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officinepixel.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101150055id_/http%3A//www.officinepixel.com/eng/privacy.html) for the most accurate reproduction.*
 
 # 
 
