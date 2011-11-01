@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102135504id_/http%3A//www.bookeo.com/appointments/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003246id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
 
 # Bookeo appointments - Privacy Policy
 
@@ -40,7 +40,7 @@ We do not store credit card details in our Site or in any facility operated by u
 
 ### 5\. Disclosure to third parties
 
-Personal User information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer. We may provide non-personally identifiable information (including in aggregate format) to third parties for marketing, business or other purposes.
+Personal User information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
 ### 6\. Security
 
@@ -76,4 +76,4 @@ We provide links to Web sites outside of our web sites, as well as to third part
 
 ### 12\. Problems or questions
 
-If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us. For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site; http://www.privacy.gov.au/.
+If we become aware of any ongoing concerns or problems with our [online booking system](http://www.bookeo.com/ "online booking system"), we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us. For more information about privacy issues in Australia and protecting your privacy, visit the Australian Federal Privacy Commissioner's web site; http://www.privacy.gov.au/.
