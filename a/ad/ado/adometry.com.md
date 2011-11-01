@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321002649id_/http%3A//www.adometry.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adometry.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121500id_/http%3A//www.adometry.com/privacy.php) for the most accurate reproduction.*
 
-# : Business or Company
+# : Adometry
 
 ## Adometry Products and Services Privacy Statement
 
