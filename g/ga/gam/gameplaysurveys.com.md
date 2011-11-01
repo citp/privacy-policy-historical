@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameplaysurveys.com privacy policy that was archived on 2011-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110227191651id_/http%3A//www.gameplaysurveys.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameplaysurveys.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224326id_/http%3A//www.gameplaysurveys.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GamePlaySurveys.com
 
@@ -12,7 +12,7 @@ What personally identifiable information does GamePlaySurveys.com collect from m
 
 GamePlaySurveys.com collects information in several ways from different parts of our network of websites.
 
-Some personal information is gathered when you register. During registration, GamePlaySurveys.com asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register you are no longer anonymous to GamePlaySurveys.com - use to access the various protected areas of the site.Also, if you contact GamePlaySurveys.com we may keep a record of that correspondence.Whenever GamePlaySurveys.com collects personal information we make an effort to include a link to this Privacy Policy on that page.
+Some personal information is gathered when you register. During registration, GamePlaySurveys.com asks for your name, email address, zip code, household information and personal interests. The more information you volunteer (and the more accurate it is), the better we are able to customize your experience. Once you register, you are no longer anonymous to GamePlaySurveys.com and you can access the various protected areas of the site.Also, if you contact GamePlaySurveys.com we may keep a record of that correspondence.Whenever GamePlaySurveys.com collects personal information we make an effort to include a link to this Privacy Policy on that page.
 
 What are cookies and how does GamePlaySurveys.com use them?
 
