@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524141038id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonebank.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143212id_/http%3A//www.fonebank.com/privacy.aspx%23privacy) for the most accurate reproduction.*
 
-# Sell mobile phone for cash | mobile phone recycling | Sell mobiles to recycle at Fonebank
+# Sell my mobile phone recycling | Earn Cash upto £430 – Recycle online
 
   
 
