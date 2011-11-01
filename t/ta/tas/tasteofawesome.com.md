@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tasteofawesome.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503163911id_/http%3A//www.tasteofawesome.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tasteofawesome.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125418id_/http%3A//www.tasteofawesome.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Taste Of Awesome = boring photos + epic captions
 
