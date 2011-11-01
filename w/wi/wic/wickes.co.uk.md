@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101231156id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickes.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163044id_/http%3A//www.wickes.co.uk/pcat/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Customer Services - Wickes
 
