@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629065758id_/http%3A//www.babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babyage.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101225243id_/http%3A//www.babyage.com/helpdesk/security_privacy.htm%23privacy) for the most accurate reproduction.*
 
 # Security And Privacy - Help Desk | BabyAge.com
 
@@ -40,6 +40,6 @@ The BabyAge.com Site may contain links to other sites, including content from ot
 
 #### Contact BabyAge.com
 
-If you have questions or concerns about this Privacy Policy, please [Click Here](http://www.babyage.com/customersupport.aspx) to send an e-mail via our Customer Support Form or call 1-800-BABYAGE.
+If you have questions or concerns about this Privacy Policy, please [Click Here](http://www.babyage.com/customersupport.aspx) to send an e-mail via our Customer Support Form or call 1-800-BABYAGE or write to us at 360 Stewart Road, Wilkes-Barre PA, 18706.
 
 [» Back to Help](https://web.archive.org/help_default.htm)
