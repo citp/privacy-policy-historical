@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicktogive.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414092550id_/http%3A//clicktogive.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicktogive.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123843id_/http%3A//clicktogive.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Click to Give - Privacy Policy
 
