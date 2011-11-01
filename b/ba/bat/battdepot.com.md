@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the battdepot.com privacy policy that was archived on 2010-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100619090855id_/http%3A//www.battdepot.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battdepot.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001325id_/http%3A//www.battdepot.com/privacy.aspx) for the most accurate reproduction.*
 
-# BattDepot.com - Green Series Battery - Specialize in selling aftermarket batteries for laptop and notebook computers, camcorder, digital cameras, PDA and Apple iPods
+# BattDepot.com - Specialize in selling aftermarket batteries for laptop and notebook computers, camcorder, digital cameras, PDA and Apple iPods
 
 Privacy/Security Policy
 
