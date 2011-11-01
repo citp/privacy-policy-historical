@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230175239id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promgirl.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151859id_/http%3A//www.promgirl.com/info/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/shop/in-stock)
 
 Due to the nature of our website and in an effort to improve your shopping experience, PromGirl does collect personally identifiable information as well as log aggregate shopping information.We recognize we must maintain and use customer information responsibly. **We respect your privacy and will never sell your information to third parties.**
 
