@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615005300id_/http%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtplanet.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123617id_/http%3A//www.gtplanet.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GTPlanet
+# Privacy Policy – GTPlanet
 
 GTPlanet has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website. Your IP address is used to gather broad demographic information. We use cookies to deliver content specific to your interests and to save your password so you don’t have to re-enter it each time you visit our site.
 
