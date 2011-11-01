@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the islamicity.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231150431id_/http%3A//www.islamicity.com/support/PrivacyPolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the islamicity.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121339id_/http%3A//www.islamicity.com/support/PrivacyPolicy.shtml) for the most accurate reproduction.*
 
 # IslamiCity.com - Privacy Policy
 
