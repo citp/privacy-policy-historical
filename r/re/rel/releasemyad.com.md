@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the releasemyad.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606011208id_/http%3A//releasemyad.com/privacy_poliicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the releasemyad.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162354id_/http%3A//www.releasemyad.com/privacy_poliicy.php) for the most accurate reproduction.*
 
 # releaseMyAd | Privacy Policy
 
@@ -92,6 +92,9 @@ We welcome your questions and comments regarding our privacy policy. You may con
   
   
    
+  
+Book your Newspaper Ad in any of the following publications & more:  
+---  
   
 Copyright © 2010 - 2011 www.ReleaseMyAd.com, All Rights Reserved. 
 
