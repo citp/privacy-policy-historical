@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2011-06-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110630064256id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the comedycentral.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101113447id_/http%3A//www.comedycentral.com/help/privacy.jhtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 
@@ -23,6 +23,7 @@
 <script src="http://shadow.comedycentral.com/sitewide/scripts/vendors/relevantview_flash.js" type="text/javascript"></script> 
 <script src="http://shadow.comedycentral.com/sitewide/scripts/dialog.js"></script> 
 <script src="http://shadow.comedycentral.com/sitewide/scripts/video_player_manager.js"></script> 
+<!-- aaaa bbb ccc -->	
 
 <!--[if lte IE 6]><style>.pngfix { behavior: url("/comedycentral/sitewide/scripts/iepngfix.htc") }</style><![endif]-->
 
@@ -54,7 +55,7 @@
 <script type="text/javascript">
 // Reloadable Ads DART Setup
 mtvn.btg.config.AdSettings.reloadableAds=true;
-mtvn.btg.config.AdSettings.reloadInterval=120000; //reload ad time in ms
+mtvn.btg.config.AdSettings.reloadInterval=240000; //reload ad time in ms
 </script>
 <script language="javascript" type="text/javascript">
 var sid = '';
@@ -90,7 +91,9 @@ var codaCall={
 pageName:pageAndHierName,
 channel:com.mtvi.metadata.getDefaultChannel(),
 hier1:pageAndHierName,
-prop21:'ALLTRAFFIC:ComedyCentral'
+eVar9:pageAndHierName,
+prop21:'ALLTRAFFIC:ComedyCentral',
+eVar10:'ALLTRAFFIC:ComedyCentral'
 }
 
 // Make Reporting Call
@@ -157,18 +160,18 @@ mtvn.btg.ads.AdManager.placeAd({size:'6x6', keyValues:adKeyValueString, contentT
 
 <script>
 $(document).ready(function() {
-	var bgcolorlist=new Array("#f6981d","#eb2929","#e53465","#ed6b23","#f05d22","#ef512b","#bd3426","#cdad2c","#7f973b","#69cada","#3bb9d6","#2780a4","#92a5bb","#9ebbbe");
+	var bgcolorlist=new Array("#f6981d","#eb2929","#e53465","#ed6b23","#f05d22","#ef512b","#cdad2c","#7f973b","#69cada","#3bb9d6","#2780a4","#92a5bb","#9ebbbe");
 	$(".ccLogoBarOuter").css("background", bgcolorlist[Math.floor(Math.random()*bgcolorlist.length)]);
 
 	//DO I HAVE A FB/TW COOKIE, IF NOT, SET ONE
 	
 	fb_c = getCookie('cc_last_fb_visit');
 	if(fb_c==""){
-		setCookie("cc_last_fb_visit","1309408756",365);
+		setCookie("cc_last_fb_visit","1320141170",365);
 	}
 	tw_c= getCookie('cc_last_tw_visit');
 	if(tw_c==""){
-		setCookie("cc_last_tw_visit","1309408756",365);
+		setCookie("cc_last_tw_visit","1320141170",365);
 	}
 	
 
@@ -185,7 +188,7 @@ function displayFaceBook(){
 	$(".faceBookIframe").show();
 	$(".followUsFaceBookHolder").addClass( "FBhover" );
 	$(".facebookNumber").fadeOut('slow');
-	setCookie("cc_last_fb_visit","1309408756",365);
+	setCookie("cc_last_fb_visit","1320141170",365);
 }
 
 function hideFaceBook(){
@@ -197,7 +200,7 @@ function displayTwitter(){
 	$(".twitterFrame").show();
 	$(".followUsTwitterHolder").addClass( "twitterHover" );
 	$(".twitterNumber").fadeOut('slow');
-	setCookie("cc_last_tw_visit","1309408756",365);
+	setCookie("cc_last_tw_visit","1320141170",365);
 }
 
 function hideTwitter(){
@@ -240,15 +243,17 @@ function hideTwitter(){
     																																		
     										<li><a href="http://tosh.comedycentral.com/">Tosh.0</a></li>
     																																		
-    										<li><a href="/shows/jon-benjamin-has-a-van/index.jhtml">Jon Benjamin Has a Van</a></li>
-    																																		
-    										<li><a href="/shows/futurama/index.jhtml">Futurama</a></li>
-    																																		
-    										<li><a href="/shows/ugly_americans/index.jhtml">Ugly Americans</a></li>
-    																																		
     										<li><a href="/shows/workaholics/index.jhtml">Workaholics</a></li>
     																																		
-    										<li><a href="/shows/bonnaroo/index.jhtml">CC Live @Bonnaroo Comedy Tent</a></li>
+    										<li><a href="/shows/pretend_time/index.jhtml">Nick Swardson's Pretend Time</a></li>
+    																																		
+    										<li><a href="/shows/the-download/index.jhtml">The Download</a></li>
+    																																		
+    										<li><a href="/shows/standup-revolution/index.jhtml">Stand-Up Revolution</a></li>
+    																																		
+    										<li><a href="http://www.comedycentral.com/full-episodes/jon-benjamin-has-a-van/102-breakdown">Jon Benjamin Has a Van</a></li>
+    																																		
+    										<li><a href="/shows/ugly_americans/index.jhtml">Ugly Americans</a></li>
     																																		
     										<li><a href="http://www.comedycentral.com/shows/index.jhtml">See All Shows</a></li>
     																										</ul>
@@ -267,11 +272,7 @@ function hideTwitter(){
 									    										<li><a href="http://www.thedailyshow.com/full-episodes/">The Daily Show with Jon Stewart</a></li>
 									    										<li><a href="http://www.colbertnation.com/full-episodes/">The Colbert Report</a></li>
 									    										<li><a href="http://www.southparkstudios.com/episodes">South Park</a></li>
-									    										<li><a href="http://www.comedycentral.com/full-episodes/cc-live--bonnaroo-comedy-tent">CC Live @Bonnaroo Comedy Tent</a></li>
-									    										<li><a href="http://www.comedycentral.com/full-episodes/jon-benjamin-has-a-van/">Jon Benjamin Has a Van</a></li>
-									    										<li><a href="http://www.comedycentral.com/full-episodes/futurama/">Futurama</a></li>
-									    										<li><a href="http://www.comedycentral.com/full-episodes/ugly-americans/">Ugly Americans</a></li>
-									    										<li><a href="http://www.comedycentral.com/full-episodes/drawn-together/">Drawn Together</a></li>
+									    										<li><a href="http://www.comedycentral.com/full-episodes/jon-benjamin-has-a-van/102-breakdown">Jon Benjamin Has a Van</a></li>
 									    										<li><a href="http://www.comedycentral.com/full-episodes/mind-of-mencia/">Mind of Mencia</a></li>
 									    										<li><a href="http://www.comedycentral.com/full-episodes/premium-blend/501-mirman--friedlander--o-neal--kilmartin">Premium Blend</a></li>
 									    										<li><a href="http://www.comedycentral.com/full-episodes/strangers-with-candy/">Strangers with Candy</a></li>
@@ -280,14 +281,14 @@ function hideTwitter(){
 							</li>							
 							<li class="jokes"><a href="http://www.jokes.com">Standup Comedy and Funny Jokes</a>
 									<ul class="jokes-subnav">
-									    										<li><a href="http://comedians.jokes.com/christopher-titus">Christopher Titus</a></li>
-									    										<li><a href="http://comedians.jokes.com/owen-benjamin">Owen Benjamin</a></li>
-									    										<li><a href="http://comedians.jokes.com/greg-giraldo/">Greg Giraldo</a></li>
-									    										<li><a href="http://comedians.jokes.com/whitney-cummings">Whitney Cummings</a></li>
+									    										<li><a href="http://comedians.jokes.com/craig-ferguson">Craig Ferguson</a></li>
+									    										<li><a href="http://comedians.jokes.com/gabriel-iglesias">Gabriel Iglesias</a></li>
+									    										<li><a href="http://comedians.jokes.com/pablo-francisco">Pablo Francisco</a></li>
+									    										<li><a href="http://comedians.jokes.com/tj-miller">T.J. Miller</a></li>
+									    										<li><a href="http://comedians.jokes.com/donald-glover">Donald Glover</a></li>
 									    										<li><a href="http://comedians.jokes.com/kristen-schaal">Kristen Schaal</a></li>
 									    										<li><a href="http://comedians.jokes.com/daniel-tosh">Daniel Tosh</a></li>
-									    										<li><a href="http://comedians.jokes.com/jim-gaffigan">Jim Gaffigan</a></li>
-									    										<li><a href="http://comedians.jokes.com/john-pinette">John Pinette</a></li>
+									    										<li><a href="http://comedians.jokes.com/whitney-cummings">Whitney Cummings</a></li>
 									    										<li><a href="http://comedians.jokes.com/stand-up/a">All Comedians</a></li>
 									    										<li><a href="http://www.jokes.com/funny/">All Jokes</a></li>
 																	
@@ -300,9 +301,9 @@ function hideTwitter(){
 									    										<li><a href="http://tosh.comedycentral.com/blog/">Tosh.0</a></li>
 																	</ul>
 							</li>
-							<li class="games"><a href="http://www.comedycentral.com/games/index.jhtml">Games</a></li>
+							<li class="games"><a href="http://www.comedycentral.com/games/index.jhtml">Games</a></li> 
 							<li class="shop"><a href="http://shop.comedycentral.com/?campaign1=comedycentral:ccdotcom:topnav">Shop</a></li>		
-							<li class="atom"><a href="http://www.atom.com/">Shop</a>
+							<li class="atom"><a href="http://www.atom.com/">Atom Web Originals</a>
 									<ul class="atom-subnav">
 									    										<li><a href="http://www.atom.com/">Atom.com</a></li>
 									    										<li><a href="http://www.atom.com/funny_videos/">Funny Videos</a></li>
@@ -312,6 +313,7 @@ function hideTwitter(){
 																	
 								</ul>							
 							</li>
+							<!--  <li class="sheenroast"><a href="http://www.comedycentral.com/shows/roast-charlie-sheen/index.jhtml">#SheenRoast</a></li>-->
 						</ul>
 					</div>
 					<div class="scheduleHolder">
@@ -326,56 +328,118 @@ function hideTwitter(){
 									</div>
 								</div>
 							</div>
-							
+						
 							<div class="twitterHead" onmouseover="displayTwitter();" onmouseout="hideTwitter();">
 								<div class="twitterNumber "></div>
 								<div class="followUsTwitterHolder"></div>
 								<div class="followUsTwitter">
 									<div class="twitterFrame">
-										<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-										<script>
-										new TWTR.Widget({
-										  version: 2,
-										  type: 'profile',
-										  rpp: 8,
-										  interval: 6000,
-										  width: 300,
-										  height: 300,
-										  theme: {
-										    shell: {
-										      background: '#ffffff',
-										      color: '#000000'
-										    },
-										    tweets: {
-										      background: '#ffffff',
-										      color: '#000000',
+																			<div class="twitterFollowButton">
+											<a href="http://twitter.com/ComedyCentral" class="twitter-follow-button">Follow @ComedyCentral</a>
+											<script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+										</div>
+										<ul id="twitterPosts"></ul>
+<script type="text/javascript">
+	var displayCount = 10; 
+	var nDisplayed = 0;
 
-										      links: '#4d86d1'
-										    }
-										  },
-										  features: {
-										    scrollbar: true,
-										    loop: false,
-										    live: true,
-										    hashtags: true,
-										    timestamp: true,
-										    avatars: false,
-										    behavior: 'all'
-										  }
-										}).render().setUser('comedycentral').start();
-										</script>
+	$.ajaxSetup({ scriptCharset: "utf-8", jsonpCallback: 'jsonp1027' });
+	var url = "http://social-proxy.mtvnservices.com/feeds/twitter/v1/tomgreenpoint/cc-header?callback=?";
+    $.getJSON(url, function(response){
+        if (response.results != undefined){
+        	$("#twitterPosts").empty();
+			$.each(response.results, function(tweetIndex,tweetData){
+	           	if (nDisplayed < displayCount){
+					if (tweetData.from_user && tweetData.text && tweetData.profile_image_url && tweetData.created_at) {
+						var name = tweetData.from_user;
+		                var description = tweetData.text.replace(/(http:\/\/\S+)/g, '<a target="_blank" href="$1">$1</a>').replace(/\B#([_a-z0-9]+)/ig, function(hashtag){
+		                    return '<a target="_blank" href="http://twitter.com/search?q=%23' + hashtag.substring(1) + '">' + hashtag + '</a>';
+		                }).replace(/\B@([_a-z0-9]+)/ig, function(reply){
+		                    return '<a target="_blank" href="http://twitter.com/' + reply.substring(1) + '">' + reply.charAt(0) + reply.substring(1) + '</a>';
+		                });
+		                var id = tweetData.id_str;
+						
+						var picture = tweetData.profile_image_url;
+						var time = tweetData.created_at;
+					 	$("#twitterPosts").append('<li><div class="tweetLeft"><a href="http://twitter.com/'+name+'" target="_blank"><img class="image" src="' + picture + '" height="28" width="28"/></a></div> <div class="tweetRight"><p class="tweet"><a href="http://twitter.com/'+name+'" class="twitterName" target="_blank">'+name+'</a> ' + description + '</p><p class="intents"><a href="http://twitter.com/'+name+'/status/'+id+'" target="_blank">' + relative_time(time) + '</a> &middot; <a href="http://twitter.com/intent/tweet?in_reply_to='+id+'">reply</a> &middot; <a href="http://twitter.com/intent/retweet?tweet_id='+id+'">retweet</a> &middot; <a href="http://twitter.com/intent/favorite?tweet_id='+id+'">favorite</a></p></div></li>');
+					 	nDisplayed++;
+					}
+			 	}
+			});
+			$("#twitterPosts a:link").click(function(){
+				//mtvn.btg.Controller.sendLinkEvent({linkName:'socialbuttons', linkType:'o'});
+			});
+        }
+	});
+
+	
+	function relative_time (time_value) {
+	    var b = new Date();
+	    var c = new Date(time_value);
+
+	    var d = b - c;
+	    var e = 1000;
+	    var minute = e * 60;
+	    var hour = minute * 60;
+	    var day = hour * 24;
+	    var week = day * 7;
+	    if (isNaN(d) || d < 0) {
+	        return ""
+	    }
+	    if (d < e * 7) {
+	        return '<span class="tweetDate">right now</span>';
+	    }
+	    if (d < minute) {
+	        return '<span class="tweetDate">' + Math.floor(d / e) + " seconds ago</span>";
+	    }
+	    if (d < minute * 2) {
+	        return '<span class="tweetDate">about 1 minute ago</span>';
+	    }
+	    if (d < hour) {
+	        return '<span class="tweetDate">' + Math.floor(d / minute) + ' minutes ago</span>';
+	    }
+	    if (d < hour * 2) {
+	        return '<span class="tweetDate"> about 1 hour ago</span>';
+	    }
+	    if (d < day) {
+	        return '<span class="tweetDate">' + Math.floor(d / hour) + ' hours ago</span>';
+	    }
+	    if (d > day && d < day * 2) {
+	        return '<span class="tweetDate">yesterday</span>';
+	    }
+	    if (d < day * 365) {
+	        return '<span class="tweetDate">' + Math.floor(d / day) + ' days ago</span>';
+	    } else {
+	        return '<span class="tweetDate">over a year ago</span>';
+	    }
+	}
+
+	$(document).ready(function(){
+		if (typeof(twttr) != 'undefined') {
+			twttr.events.bind('follow', function(event){
+				if (event && event.data && event.data.screen_name) {
+					sendLinkEvent('twitterfollow_'+event.data.screen_name);
+				}
+			});
+			twttr.events.bind('click', function(event){
+				mtvn.btg.Controller.sendLinkEvent({linkName:'socialbuttons', linkType:'o'});
+			});
+		}
+	});
+</script>										
 									</div>
 								</div>
 							</div>
-						</div>	
+						</div>
 						<div class="scheduleLinks">		
-							<a href="http://www.comedycentral.com/shows/ugly_americans/index.jhtml"><div class="schedule1"><div class="scheduleTime"> 4:00AM</div><div class="scheduleTitle">Ugly Americans</div></div></a>	
-							<a href="http://www.comedycentral.com/shows/comedy_central_presents/index.jhtml"><div class="schedule2"><div class="scheduleTime"> 4:30AM</div><div class="scheduleTitle">Comedy Central Presents</div></div></a>				
-							<div class="schedule3"><div class="scheduleTime"> 5:00AM</div><div class="scheduleTitle">Paid Programming</div></div>				
-							<div class="schedule4"><div class="scheduleTime"> 5:30AM</div><div class="scheduleTitle">Paid Programming</div></div>					
+							<a href="http://sarahsilverman.comedycentral.com"><div class="schedule1" id="schedule_show_60972"><div class="scheduleTime"> 4:00AM</div><div class="scheduleTitle">The Sarah Silverman Program</div></div></a>	
+							<a href="http://www.comedycentral.com/shows/sunny/index.jhtml"><div class="schedule2" id="schedule_show_308623"><div class="scheduleTime"> 4:30AM</div><div class="scheduleTitle">It's Always Sunny in Philadelphia</div></div></a>				
+							<div class="schedule3" id="schedule_show_"><div class="scheduleTime"> 5:00AM</div><div class="scheduleTitle">Paid Programming</div></div>				
+							<div class="schedule4" id="schedule_show_"><div class="scheduleTime"> 5:30AM</div><div class="scheduleTitle">Paid Programming</div></div>					
 						<a href="http://www.comedycentral.com/tv_schedule/index.jhtml"><div class="scheduleFull"></div></a>
 						</div>
 					</div>	
+
 					<div class="clearAll"></div>
 					<div id="pushdown">				
 					
@@ -388,6 +452,7 @@ function hideTwitter(){
 				</div>
 			</div>
 			<div id="doc">
+
 
 <script type="text/javascript">
 //window.onerror = function (){ return true; }
@@ -623,7 +688,11 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 
 </div>
 
-<!-- fragments/cc_new_footer.tpl -->
+<!-- cc sitewide\header_footer\footer.jhtml -->
+
+<!-- test1 -->
+
+<!-- fragments/cc_new_footer.tpl: took out html/body/pageok - ag 7/1/11 -->
 <div class="clearAll"></div>
 
 <div id="ft">
@@ -641,17 +710,22 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 				<h6>ComedyCentral.com</h6>
 											<a href="http://www.comedycentral.com/index.jhtml">Comedy Central Home</a>   
 											<a href="http://www.comedycentral.com/shows/index.jhtml">TV Comedy Series</a>   
-											<a href="http://www.comedycentral.com/funny_videos/index.jhtml">Funny TV Show Videos</a>   
+											<a href="http://www.comedycentral.com/funny_videos/index.jhtml">Watch Videos</a>   
 											<a href="http://www.comedycentral.com/games/index.jhtml">Funny Games</a>   
 											<a href="http://twitter.com/ComedyCentral">Comedy Central on Twitter</a>   
 											<a href="http://www.facebook.com/ComedyCentral">Comedy Central on Facebook</a>   
 											<a href="http://www.comedycentral.com/mobile/">Get Comedy Central on Your Phone</a>   
 											<a href="http://www.comedycentral.com/tv_schedule/index.jhtml">Comedy Central TV Schedule</a>   
+											<a href="http://www.colbertnation.com/">#Colbert</a>   
 											<a href="http://www.southparkstudios.com/">#SouthPark</a>   
-											<a href="http://www.comedycentral.com/shows/futurama/index.jhtml">#Futurama</a>   
-											<a href="http://www.comedycentral.com/shows/ugly_americans/index.jhtml">#UglyAmericans</a>   
-											<a href="http://www.comedycentral.com/shows/jon-benjamin-has-a-van/index.jhtml">#JonBenjamin</a>   
+											<a href="http://tosh.comedycentral.com/">#Tosh</a>   
 											<a href="http://www.comedycentral.com/shows/workaholics/index.jhtml">#Workaholics</a>   
+											<a href="http://comedians.jokes.com/jeff-dunham">#Dunham</a>   
+											<a href="http://www.comedycentral.com/shows/pretend_time/index.jhtml">#PretendTime</a>   
+											<a href="http://www.comedycentral.com/full-episodes/jon-benjamin-has-a-van/">#JonBenjamin</a>   
+											<a href="http://www.jokes.com/pop-up-stand-up">#PopUpStandUp</a>   
+											<a href="http://www.comedycentral.com/shows/roast-charlie-sheen/index.jhtml">#SheenRoast</a>   
+											<a href="http://www.comedycentral.com/shows/30-rock/index.jhtml">#30RoCCK</a>   
 											<a href="http://www.comedycentral.com/sitemap.jhtml">Sitemap</a>   
 										        
 	        	
@@ -659,22 +733,22 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 						<div class="cc_footer_column">                                  
 				<h6>Featured</h6>
 											<a href="http://www.thedailyshow.com/">The Daily Show with Jon Stewart</a>   
-											<a href="http://www.colbertnation.com/home">The Colbert Report</a>   
+											<a href="http://www.colbertnation.com/">The Colbert Report</a>   
 											<a href="http://www.southparkstudios.com/">South Park</a>   
 											<a href="http://tosh.comedycentral.com/">Tosh.0 with Daniel Tosh</a>   
-											<a href="http://sportsshow.comedycentral.com/">Sports Show with Norm Macdonald</a>   
 											<a href="http://www.comedycentral.com/shows/workaholics/index.jhtml">Workaholics</a>   
+											<a href="http://www.comedycentral.com/shows/pretend_time/index.jhtml">Nick Swardson's Pretend Time</a>   
+											<a href="http://www.comedycentral.com/shows/standup-revolution/index.jhtml">Gabriel Iglesias: Stand-Up Revolution</a>   
+											<a href="http://www.comedycentral.com/full-episodes/jon-benjamin-has-a-van/">Jon Benjamin Has a Van</a>   
 											<a href="http://www.comedycentral.com/shows/ugly_americans/index.jhtml">Ugly Americans</a>   
 											<a href="http://www.comedycentral.com/shows/futurama/index.jhtml">Futurama</a>   
-											<a href="http://www.comedycentral.com/shows/jon-benjamin-has-a-van/index.jhtml">Jon Benjamin Has a Van</a>   
-											<a href="http://www.comedycentral.com/shows/bonnaroo/index.jhtml">CC Live @ Bonnaroo Comedy Tent</a>   
-											<a href="http://ccinsider.comedycentral.com/tag/countdown-to-futurama/">Countdown to Futurama</a>   
-											<a href="http://www.comedycentral.com/shows/the-download/index.jhtml">The Download</a>   
-											<a href="http://www.jokes.com/tours/house-of-comedy">Comedy Central's House of Comedy</a>   
+											<a href="http://www.comedycentral.com/shows/the-download/index.jhtml">The Download with Jordan Rubin</a>   
+											<a href="http://www.jokes.com/pop-up-stand-up">Comedy Central's Pop-Up Stand-Up</a>   
+											<a href="http://www.jokes.com/tours/new-york-comedy-festival">New York Comedy Festival</a>   
 											<a href="http://www.indecisionforever.com/">Political Humor &amp; Satire Blog</a>   
 											<a href="http://ccinsider.comedycentral.com/">Funny TV Comedy Blog</a>   
+											<a href="http://itunes.apple.com/us/app/futurama-head-in-a-jar/id435997883?mt=8">Futurama Head in a Jar iPhone App</a>   
 											<a href="http://itunes.apple.com/us/app/tosh-0/id391522923">Tosh.0 app for iPad and iPhone</a>   
-											<a href="http://tosh.comedycentral.com/video-clips">Funny Funny Videos &amp; Online Clips</a>   
 											<a href="http://www.southparkstudios.com/fans/book-of-mormon-tickets">The Book of Mormon</a>   
 											<a href="http://tosh.comedycentral.com/">Tosh</a>   
 										        
@@ -685,7 +759,7 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 											<a href="http://www.comedycentral.com">Comedy</a>   
 											<a href="http://www.jokes.com/">Jokes</a>   
 											<a href="http://www.jokes.com/">Stand-Up Comedy</a>   
-											<a href="http://www.atom.com">Funny Videos</a>   
+											<a href="http://www.comedycentral.com/funny_videos/index.jhtml">Funny Videos</a>   
 											<a href="http://www.spike.com/">Spike</a>   
 											<a href="http://www.spike.com/shows/coal">COAL</a>   
 											<a href="http://www.ultimatefighter.com/seasons/tuf-13/team-lesnar-vs-team-dos-santos">Brock Lesnar</a>   
@@ -702,6 +776,7 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 											<a href="http://www.tvland.com/shows/hot-in-cleveland">Betty White</a>   
 											<a href="http://www.tvland.com/shows/hot-in-cleveland">Hot in Cleveland</a>   
 											<a href="http://www.gametrailers.com/e3">e3 2011</a>   
+											<a href="http://www.videobash.com/profile/workaholics">Videobash</a>   
 										        
 	        	
 			</div>
@@ -714,10 +789,10 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 											<a href="http://www.socialproject.com/PrivacyPolicy.html">The Social Project Privacy Policy</a>   
 											<a href="http://www.socialproject.com/TermsOfUse.html">The Social Project Terms of Use</a>   
 											<a href="http://www.mtvncareers.com/">Job Postings</a>   
-											<a href="http://adspecs-it.mtvn.com/?page_id=11">Advertising</a>   
+											<a href="http://mtvndigital.com/">Advertising</a>   
 											<a href="http://www.comedycentral.com/help/help.jhtml">Help/FAQ</a>   
 											<a href="http://srp.mtvn.com/sitefaq.html"><span style="position:relative;top:-4px;">Ad Choices</span> <img src="http://www.comedycentral.com/images/footer/Advertising-Option-Icon.png"></a>   
-																<img src="http://www.comedycentral.com/images/sitewide/mtvn_logo.jpg" width="125" height="31" border="0" alt="" align="right" class="cc_footer_mtv_logo">
+																<img src="http://shadow.comedycentral.com/shadow_sitewide/images/mtvn_logo.jpg" width="125" height="31" border="0" alt="" align="right" class="cc_footer_mtv_logo">
 				
 						<div class="cc_footer_clear"></div>        
 						<h6>&nbsp;</h6>
@@ -744,7 +819,7 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 																
 																						suppressThisAd = false;
 								if ( !suppressThisAd ) {
-					mtvn.btg.ads.AdManager.placeAd({size:'5x5',keyValues:thisKeyValueString+'promobox=globaltxtad;'});
+					mtvn.btg.ads.AdManager.placeAd({size:'5x5',keyValues:thisKeyValueString+'promobox=globaltxtad;', contentType:"adj", isReloadable:false, reloadInterval:90000000 });
 				}
 			
 			onAdNumber++; // Increment Ad Number
@@ -754,8 +829,29 @@ mtvn.btg.ads.AdManager.placeAd({size:'300x250', keyValues:adKeyValueString});
 		</div>
 	</div>
 </div>
-<div class="cc_footy" style="width:1060px; height:68px;"><a onclick="sendLinkEvent('footy_uglyamericans');" href="http://www.comedycentral.com/shows/ugly_americans/index.jhtml"><img width="1060" height="68" src="http://comedycentral.mtvnimages.com/images/footy/ua_footy_tonight_1060x68.png?width=1060&amp;height=68" alt="" title=""></a></div>
+<div class="cc_footy" style="width:px; height:px;"><a href=""></a></div>
 <div class="footy_bottom_spacer">&nbsp;</div>
+<script type="text/javascript">
+// Hide Footy on iPads because it sticks in place
+
+var isiPad = (typeof navigator.userAgent != 'undefined' && navigator.userAgent.search(/iPad/i) >= 0) ? true : false;
+// var isiPad = navigator.userAgent.match(/iPad/i) != null;
+if (isiPad) {
+/*
+	var hideFootyDiv1 = document.getElementByClass("cc_footy");
+	hideFootyDiv1.style.display = 'none';
+
+	var hideFootyDiv2 = document.getElementByClass("footy_bottom_spacer");
+	hideFootyDiv2.style.display = 'none';
+*/
+	$(document).ready(function(){
+	    $('.cc_footy').hide();
+	    $('.footy_bottom_spacer').hide();
+	});
+
+}
+//alert(navigator.userAgent);
+</script>
 
 </div> <!-- id doc -->
 </div> <!-- background holder -->
@@ -796,6 +892,15 @@ if(docready !='undefined'){
 			onAdNumber++; // Increment Ad Number
 		</script>
 	</div>
+	
+	<link rel="stylesheet" type="text/css" href="http://www.comedycentral.com/shadow_sitewide/styles/overlay.css">	
+	<!-- CC Overlay (overlay.css, overlay.js) -->	
+ 	<img id="pop_obj" src="http://shadow.comedycentral.com/shadow_sitewide/images/roast_sheen_hp_overlay_896x605.gif" alt="Continue">  
+	<div id="screen"></div>
+	<div id="stay_here"></div>
+	
+
+
 <!-- PAGEOK -->
 
 
