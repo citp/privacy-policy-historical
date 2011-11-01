@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixellogo.com privacy policy that was archived on 2010-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100402100446id_/http%3A//www.pixellogo.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixellogo.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005358id_/http%3A//www.pixellogo.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
