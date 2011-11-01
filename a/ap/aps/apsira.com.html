@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the apsira.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228012940id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the apsira.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102000054id_/http%3A//www.apsira.com/policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policies</title>
@@ -34,9 +34,11 @@
   })();
 
 </script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 </head>
 <body>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" id="tblLayout">
+<center>
+				<table border="0" cellpadding="0" cellspacing="0" width="1000" id="tblLayout">
 			    <tbody><tr>
 			    <td id="topBanner">
 	    <!--  Education in India details with Colleges and Universities, Courses and Degrees information -->
@@ -46,8 +48,8 @@
 	</tr>
 	<tr>
 		<td colspan="2" valign="bottom" id="topLogoBar">
-		<h1 id="topLogo"><a href="http://www.apsira.com/" title="Education in India | Apsira.com"> <img src="http://www.apsira.com/images/apsira.gif" alt="Education in India - Colleges and Universities, Courses and Degrees" width="200" height="60" border="0"><br>
-		<span>Education in India</span></a></h1>
+		<b id="topLogo"><a href="http://www.apsira.com/" title="Education in India | Apsira.com"> <img src="http://www.apsira.com/images/apsira.gif" alt="Education in India - Colleges and Universities, Courses and Degrees" width="200" height="60" border="0"><br>
+		<span>Education in India</span></a></b>
 		<div style="display: inline; float: right">
 			<script type="text/javascript"><!--
 google_ad_client = "pub-4205448231732579";
@@ -75,35 +77,57 @@ google_ad_height = 90;
 						<td class="nonSelected"><a href="http://www.apsira.com/">Home</a></td>
 						<td class="nonSelected"><a href="http://www.apsira.com/colleges/index.php">Colleges</a></td>
 						<td class="nonSelected"><a href="http://www.apsira.com/courses/index.php">Courses</a></td>
+						<td class="nonSelected"><a href="http://www.apsira.com/schools/index.php">Schools</a></td>
 						<td class="nonSelected"><a href="http://www.apsira.com/loans/index.php">Loans</a></td>
 						<td class="nonSelected"><a href="http://www.apsira.com/qbank/index.php">Q-Bank</a></td>
 						<td class="nonSelected"><a href="http://www.apsira.com/news/index.php">News</a></td>
-						<td class="nonSelected"><a href="http://www.apsira.com/blog/index.php">Blog</a></td>
-						<td class="nonSelected"><a href="http://forum.apsira.com" title="Education Forum" target="_blank">Forum</a></td>			</tr>
+						<td class="nonSelected"><a href="http://blog.apsira.com" title="Education Blog" target="_blank">Blog</a></td>
+						<td class="nonSelected"><a href="http://forum.apsira.com" title="Education Forum" target="_blank">Forum</a></td>
+						<td class="nonSelected"><a href="http://jobs.apsira.com" title="Education Jobs" target="_blank">Jobs</a></td>
+						<!-- td class="nonSelected"><a href="http://directory.apsira.com" title="Education Directory" target="_blank">Directory</a></td -->			</tr>
 			</tbody></table>
 		<!-- Main Menu Ends Here -->
         </td>
 	</tr>
 	<tr>
-		<td height="32" id="topMenuBottom" valign="middle">
+		<td height="52" id="topMenuBottom" valign="middle" style="padding-left:80px;">
+		<g:plusone></g:plusone>
 		<div id="topLogin">
-				
-<form name="frmLogin" method="post" action="./users/authenticate.php?action=login" onsubmit="return validateFrmLogin(this)"><span class="textLable whiteText">Apsira ID</span> <input id="txtUserId" name="txtUserId" type="text" class="text" size="12" maxlength="25"> <span class="textLable whiteText">Password</span> <input id="txtPassword" name="txtPassword" type="password" class="text" size="12" maxlength="25"> <input name="Submit" type="submit" class="tabHeadInActive" value="Login"> &nbsp;&nbsp;<a href="./users/index.php?action=signup" class="small_text"><span class="whiteText"><b>Sign up !!</b></span> &nbsp; &nbsp;</a>
-</form>
-<script type="text/javascript">
-				function validateFrmLogin(frm){
-					var result;
+				    <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+    <script>
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId   : '143201835728211',
+          session : null, // don't refetch the session when PHP already has it
+          status  : true, // check login status
+          cookie  : true, // enable cookies to allow the server to access the session
+          xfbml   : true // parse XFBML
+        });
 
-					result = validateRequired(frm.txtUserId, 'User Id is required');
-					if(result) result = validateRequired(frm.txtPassword, 'Password is required');
+        // whenever the user logs in, we refresh the page
+        FB.Event.subscribe('auth.login', function() {
+          window.location.reload();
+        });
+      };
 
-					return result;
-				}
-			</script>			</div>
-		</td>
-	</tr>
+      (function() {
+        var e = document.createElement('script');
+        e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+        e.async = true;
+        document.getElementById('fb-root').appendChild(e);
+      }());
+    </script>
+
+
+       		<fb:login-button perms="email,user_checkins">
+         Connect with Facebook
+		</fb:login-button>
+    
+			</div>
+</td>
+</tr>
 	<tr>
-		<td id="topBannerSapce">&nbsp;</td>
+		<td id="topBannerSapce"></td>
 	</tr>
 </tbody></table>
 </td>
@@ -115,25 +139,61 @@ google_ad_height = 90;
      <table width="100%" cellspacing="0" cellpadding="0" border="0">
       <tbody><tr>
         
-<td width="216" align="center" valign="top">
-<!-- SiteSearch Google -->
-<div class="simpleBox">
-<div>
-<form action="./gglresults.php" id="cse-search-box">
-<table cellpadding="0" cellspacing="0">
-	<tbody>
-		<tr>
-			<td valign="middle" class="searchBG"><input type="hidden" name="cx" value="partner-pub-4205448231732579:sum5vpxxclf"> <input type="hidden" name="cof" value="FORID:9"> <input type="hidden" name="ie" value="ISO-8859-1"> <input type="text" name="q" size="30" value=""></td>
-		</tr>
-		<tr>
-			<td align="right" valign="middle" class="searchBG"><input type="submit" name="sa" value="" class="btnGoogleSearch">&nbsp;</td>
-		</tr>
-	</tbody>
-</table>
-</form>
-<script type="text/javascript" src="http://www.google.co.in/coop/cse/brand?form=cse-search-box&amp;lang=en"></script></div>
-</div>
-<!-- SiteSearch Google -->
+
+			<td>
+			<div class="simpleBox">
+				<div>
+			<a href="http://www.facebook.com/apsira" title="Apsira on Facebook" target="_blank"> <img src="http://www.apsira.com/images/follow_facebook.png" border="0"> </a> 
+			<a href="http://www.twitter.com/apsira" title="Apsira on Twitter" target="_blank"> <img src="http://www.apsira.com/images/follow_twitter.png" border="0"> </a> 
+			<a href="http://www.orkut.co.in/Main#Community?cmm=28318454" title="Apsira on Orkut" target="_blank"><img src="http://www.apsira.com/images/follow_orkut.png" alt="" border="0"></a> 
+			<a href="http://www.myspace.com/546595938" title="Apsira on MySpace" target="_blank"><img src="http://www.apsira.com/images/follow_myspace.png" alt="" border="0"></a>
+				</div>
+			</div>
+		
+		</td>
+			<td colspan="2" align="center">
+			<div class="simpleBox">
+			<div style="padding:2px 0 2px 15px;">	<!-- SiteSearch Google -->
+	   <style type="text/css">
+	   .searchinput {
+	   		font-size:18px;
+	   		line-height: 24px;
+	   		height: 24px;
+	   		margin: 4px auto;
+	   		font-weight: bold;
+	   }
+	   .searchsubmit {
+	   		font-size:18px;
+	   		line-height: 24px;
+	   		height: 34px;
+	   		padding: 4px;
+	   		font-weight: bold;
+	   }
+	   </style>
+			<div name="GoogleSearch" align="center">
+				<form action="http://www.apsira.com/gglresults.php" id="cse-search-box">
+						  <table width="100%">
+						  	<tbody>
+						  		<tr>
+						  			<td align="center">
+							  			<input type="hidden" name="cx" value="partner-pub-4205448231732579:sum5vpxxclf">
+									    <input type="hidden" name="cof" value="FORID:9">
+									    <input type="hidden" name="ie" value="ISO-8859-1">
+									    <input type="text" name="q" size="60" value="" class="searchinput">	
+						  				&nbsp;
+							  			<input type="submit" name="sa" value="Search" class="searchsubmit">
+						  			</td>
+						  		</tr>
+						  	</tbody>
+						   </table>
+						</form>
+						<script type="text/javascript" src="http://www.google.co.in/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+			</div>
+<!-- SiteSearch Google -->	
+				</div></div></td>
+			</tr>
+			<tr>
+		<td width="216" align="center" valign="top">
 
 <!-- left Banner BEGIN -->
 			<div class="simpleBox">
@@ -153,22 +213,16 @@ google_ad_height = 90;
 <div class="simpleBox">
 				  <div id="latestComments">
 				  	<b>Latest Comments:</b><br><br>
-<p><b>Jayasree</b> Says: &nbsp; Am Bsc (Computer science) want to do D.pharma i want to know age limit, qualification <a href="http://www.apsira.com/courses/degrees.php?degreeId=183#CommentBox" title="" class="more">more »</a>
+<p><b>chirag sankeshwari</b> Says: &nbsp; i am studying in mbbs 2nd year in M.R. Medical College Gulbarga i want mutual transfer in any colleges <a href="http://www.apsira.com/colleges/index.php?instituteId=465#CommentBox" title="" class="more">more »</a>
 </p><hr style="border: 1px dotted #C0C0C0;width: 75%">
-<p><b>kavitha</b> Says: &nbsp; Sir,i have completed my MSc biochemistry in Bharathiar university.now m doing MPHIL in bharathiar university.please,kindly <a href="http://www.apsira.com/colleges/index.php?instituteId=3677#CommentBox" title="" class="more">more »</a>
+<p><b>aravind</b> Says: &nbsp; It is located in Harveypatti near Tirupparankundram in Madurai dist. Frequent buses are there to Tirupparankundram <a href="http://www.apsira.com/colleges/index.php?instituteId=7319#CommentBox" title="" class="more">more »</a>
 </p><hr style="border: 1px dotted #C0C0C0;width: 75%">
-<p><b>pavalakodi</b> Says: &nbsp; dear sir, i have completed my mphil computer science (regular) in bharathiar university 2010,if y are <a href="http://www.apsira.com/colleges/index.php?instituteId=4318#CommentBox" title="" class="more">more »</a>
+<p><b>Bimal Biswas</b> Says: &nbsp; Dear sir, I want to information for Physiotherapy courses in your collage. So sir if you have any physiotherapy <a href="http://www.apsira.com/colleges/index.php?instituteId=1698#CommentBox" title="" class="more">more »</a>
 </p><hr style="border: 1px dotted #C0C0C0;width: 75%">
-<p><b>brindha</b> Says: &nbsp; sir, i studied dip in comp engg in a polytechnic college in tamil nadu on 2004 after my 3rd semester <a href="http://www.apsira.com/colleges/index.php?instituteId=4595#CommentBox" title="" class="more">more »</a>
+<p><b>Y.Jai Shankar</b> Says: &nbsp; Dear Friends , Pleased to meet you in this site. I always recollect the memorable days I spent in this <a href="http://www.apsira.com/colleges/index.php?instituteId=5350#CommentBox" title="" class="more">more »</a>
 </p><hr style="border: 1px dotted #C0C0C0;width: 75%">
-<p><b>kodeeshwari</b> Says: &nbsp; sir im interested in doin ca.presently im doin my 12th in villupuram..hope i'l neeed ur guidance.help <a href="http://www.apsira.com/colleges/index.php?instituteId=2803#CommentBox" title="" class="more">more »</a>
-</p><hr style="border: 1px dotted #C0C0C0;width: 75%"></div></div><div class="simpleBox">
-<div>
-<div style="font-weight:bold;font-size:larger;margin-bottom:2px">Word of the Day</div>
-<img border="0" src="http://www.thefreedictionary.com/_/!wod!200!0.png" width="200">
-</div>
-</div>
-<!-- left Banner END -->
+<p><b>krishna</b> Says: &nbsp; send your resume to my mail id, so that i can help u. krishsportive@gmail.com <a href="http://www.apsira.com/courses/degrees.php?degreeId=46#CommentBox" title="" class="more">more »</a>
+</p><hr style="border: 1px dotted #C0C0C0;width: 75%"></div></div><!-- left Banner END -->
 			</td>
            	<td align="center" valign="top">
 	<div class="contentBox">
@@ -198,17 +252,10 @@ google_ad_height = 90;
 	</div>
 
 
+		
 		</td>
 		<!-- Right links started here -->
         <td width="216" align="center" valign="top">
-<div class="simpleBox">
-<div>
-<b>Follow Us On:</b><br><br> &nbsp; <a href="http://www.facebook.com/apsira" title="Apsira on Facebook" target="_blank"> <img src="http://www.apsira.com/images/follow_facebook.png" border="0"> </a> 
-<a href="http://www.twitter.com/apsira" title="Apsira on Twitter" target="_blank"> <img src="http://www.apsira.com/images/follow_twitter.png" border="0"> </a> 
-<a href="http://www.orkut.co.in/Main#Community?cmm=28318454" title="Apsira on Orkut" target="_blank"><img src="http://www.apsira.com/images/follow_orkut.png" alt="" border="0"></a> 
-<a href="http://www.myspace.com/546595938" title="Apsira on MySpace" target="_blank"><img src="http://www.apsira.com/images/follow_myspace.png" alt="" border="0"></a>
-	</div>
-</div>
 			<div class="simpleBox">
 				<div>
 					<script type="text/javascript"><!--
@@ -224,26 +271,31 @@ google_ad_height = 90;
 					</div>
 			</div>
 <div class="simpleBox">
-<div style="text-align:center">
-<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
-<fb:like-box href="http://www.facebook.com/apsira" connections="12" width="200" height="700" stream="true" header="false"></fb:like-box>
+	<div>
+		<a href="http://samacheerkalvi.apsira.com/" title="Samacheer Kalvi" target="_blank"><img src="http://www.apsira.com/images/samacheerkalvi-books.png" alt="Download Samacheer Kalvi Books" width="200" height="235"></a>
+	</div>
+</div>
+<div class="simpleBox">
+<div style="text-align:left">
+<p><b style="font-size: large">Latest Posts</b> <a href="http://blog.apsira.com" target="_blank"><img src="http://www.apsira.com/images/apsira_84x84.png" alt="Education Blog" width="18" height="18"><small>Blog</small></a></p>
+<div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18415" title="Where to Get the Best Training Education Today" target="_blank" style="color:#333;text-decoration:none;">Where to Get the Best Training Education Today</a></div><div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18413" title="Online University defining education in a new way" target="_blank" style="color:#333;text-decoration:none;">Online University defining education in a new way</a></div><div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18406" title="The Benefits of E-Learning and E-Learning Software" target="_blank" style="color:#333;text-decoration:none;">The Benefits of E-Learning and E-Learning Software</a></div><div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18402" title="Improve your opportunities with Under Graduate Courses" target="_blank" style="color:#333;text-decoration:none;">Improve your opportunities with Under Graduate Courses</a></div><div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18390" title="How E-Learning Helps Develop Special Skills" target="_blank" style="color:#333;text-decoration:none;">How E-Learning Helps Develop Special Skills</a></div><div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18388" title="Learn Digital Marketing" target="_blank" style="color:#333;text-decoration:none;">Learn Digital Marketing</a></div><div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18370" title="The easy way to achieve your MBA degree" target="_blank" style="color:#333;text-decoration:none;">The easy way to achieve your MBA degree</a></div><div style="border-bottom: dashed 1px #AAA; padding:4px;margin-bottom:4px;"><a href="http://blog.apsira.com/?p=18368" title="How to Select Right IIT JEE Coaching Institute" target="_blank" style="color:#333;text-decoration:none;">How to Select Right IIT JEE Coaching Institute</a></div></div>
+</div>
+
+<div class="simpleBox">
+<div style="text-align:left">
+<p><b style="font-size: large">Latest Topics</b> <a href="http://forum.apsira.com" target="_blank"><img src="http://www.apsira.com/images/apsira_84x84.png" alt="Education Blog" width="18" height="18"><small>Forum</small></a></p>
+<iframe src="http://www.apsira.com/phpbb.php" scrolling="no" width="200" height="360" frameborder="0"></iframe>
 </div>
 </div>
-<!-- div class="simpleBox">
-<div><a href="http://www.apsira.com/add-your-college.php"
-	title="Add Your College"> <img
-	src="http://www.apsira.com/images/banner/apsira_ad_200x250_2.jpg" /> </a></div>
-</div-->
+
+
 
 				</td>
 			  </tr>
 			</tbody></table>
 			</td>
 		</tr>
-		<!-- End of Layout -->
-		<!-- Begin Bottom Ads -->
-		<!-- End Bottom Ads -->
-		</tbody></table><table width="100%" cellspacing="0" cellpadding="0" border="0">
+		<!-- End of Layout --></tbody></table><table width="100%" cellspacing="0" cellpadding="0" border="0">
 <!-- Bottom Menu Starts Here -->
   <tbody><tr>
     <td align="center" id="bottomMenu">
@@ -251,26 +303,16 @@ google_ad_height = 90;
         <tbody>
           <tr>
 
-				<td valign="top" align="left">
+				<td valign="top" align="left" width="25%">
 					<ul class="bottomMenuSec">
 						<li class="bottomMenuHead">Apsira.Com</li>
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/contactus.php" title="Contact Us" class="bottomLink">Contact Us</a></li>
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/aboutus.php" title="About Us" class="bottomLink">About Us</a></li>
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/advertise/index.php" title="Advertising" class="bottomLink">Advertising</a></li>
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/career.php" title="Careers" class="bottomLink">Careers</a></li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/add-your-college.php" title="Add Your College" class="bottomLink">Add Your College</a></li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/education-links/directory.html" title="Education Partners" class="bottomLink">Education Partners</a></li>
-					</ul>
-				</td>
-				<td valign="top" align="left">
-					<ul class="bottomMenuSec">
-						<li class="bottomMenuHead">Top Colleges</li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/colleges/index.php?keydomId=2.9" title="Top Management Colleges" class="bottomLink">Top Management Colleges</a></li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/colleges/index.php?keydomId=2.8" title="Top Engineering Colleges" class="bottomLink">Top Engineering Colleges</a></li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/colleges/index.php?keydomId=2.2" title="Top Arts Colleges" class="bottomLink">Top Arts Colleges</a></li>
-					</ul>
-				</td>
-				<td valign="top" align="left">
+						<li class="bottomMenuItem"><a href="http://www.apsira.com/add-your-college.php" title="Add Your College" class="bottomLink">Add Your College</a></li></ul>
+				
+				
 					<ul class="bottomMenuSec">
 						<li class="bottomMenuHead">Hot Courses</li>
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/courses/courses.php?keydomId=6.6" title="Management Programmes" class="bottomLink">Management Programmes</a></li>
@@ -279,7 +321,16 @@ google_ad_height = 90;
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/courses/courses.php?keydomId=6.3" title="Technical Courses" class="bottomLink">Technical Courses</a></li>
 					</ul>
 				</td>
-				<td valign="top" align="left">
+				<td valign="top" align="left" width="25%">
+					<ul class="bottomMenuSec">
+						<li class="bottomMenuHead">Question Banks</li>
+						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.30" title="Tamil Nadu State Board" class="bottomLink">Tamil Nadu State Board</a></li>
+						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.1" title="CBSE" class="bottomLink">CBSE</a></li>
+						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.36" title="Matriculation" class="bottomLink">Matriculation</a></li>
+						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.35" title="Anglo Indian" class="bottomLink">Anglo Indian</a></li>
+					</ul>
+				
+				
 					<ul class="bottomMenuSec">
 						<li class="bottomMenuHead">Resources</li>
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/loans/index.php#allBanksBox" title="List of Banks" class="bottomLink">List of Banks</a></li>
@@ -288,31 +339,43 @@ google_ad_height = 90;
 						<li class="bottomMenuItem"><a href="http://www.apsira.com/faq.php" title="FAQ's" class="bottomLink">FAQ's</a></li>
 					</ul>
 				</td>
-				<td valign="top" align="left">
+				<td valign="top" align="left" width="25%">
 					<ul class="bottomMenuSec">
-						<li class="bottomMenuHead">Question Banks</li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.30" title="Tamil Nadu State Board" class="bottomLink">Tamil Nadu State Board</a></li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.1" title="CBSE" class="bottomLink">CBSE</a></li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.36" title="Matriculation" class="bottomLink">Matriculation</a></li>
-						<li class="bottomMenuItem"><a href="http://www.apsira.com/qbank/qbank.php?subSecId=4.35" title="Anglo Indian" class="bottomLink">Anglo Indian</a></li>
+						<li class="bottomMenuHead">More Education Resources</li>
+							<li class="bottomMenuItem"><a href="http://www.apsira.com/news/" title="Education News" class="bottomLink" target="_blank">Education News</a></li>
+							<li class="bottomMenuItem"><a href="http://blog.apsira.com/" title="Education Blog" class="bottomLink" target="_blank">Education Blog</a></li>
+							<li class="bottomMenuItem"><a href="http://forum.apsira.com/" title="Education Forum" class="bottomLink" target="_blank">Education Forum</a></li>
+							<li class="bottomMenuItem"><a href="http://jobs.apsira.com/" title="Education Jobs" class="bottomLink" target="_blank">Education Jobs</a></li>
+							<li class="bottomMenuItem"><a href="http://directory.apsira.com/" title="Education Directory" class="bottomLink" target="_blank">Education Directory</a></li>
+							<li class="bottomMenuItem"><a href="http://articles.apsira.com/" title="Education Articles" class="bottomLink" target="_blank">Education Articles</a></li>
+							<li class="bottomMenuItem"><a href="http://classifieds.apsira.com/" title="Education Classifieds" class="bottomLink" target="_blank">Education Classifieds</a></li>
+							<li class="bottomMenuItem"><a href="http://games.apsira.com/" title="Education Games" class="bottomLink" target="_blank">Education Games</a></li>
+						
 					</ul>
-				</td>          </tr>
+				</td>
+		<td width="25%">
+			<div id="fb-root"></div>
+						<fb:like-box href="http://www.facebook.com/apsira" connections="15" width="295" height="324" stream="false" header="false"></fb:like-box>
+		</td>
+			</tr>
         </tbody>
       </table>
      </td>
    </tr>
  <!-- Bottom Menu Ends Here -->
 <tr>
-	<td valign="middle">
-	<div id="footer">
+	<td valign="middle" align="center" id="footer">
+	<div id="footer_div">
 	<div id="jadianLogo"><a href="http://www.jadian.in" title="Jadian Technologies | Web Design, Developmrnt and SEO Company" target="_blank"><img src="http://www.apsira.com/images/jadian.gif" alt="Jadian Technologies | Web Design, Developmrnt and SEO Company" border="0"></a></div>
 	<p>© 2010 All rights reserved.<br>
-	<a href="http://www.apsira.com/policy.php" class="whitetext">Privacy Policy</a> | <a href="http://www.apsira.com/terms.php" class="whitetext">Terms of Use</a> | <a href="http://www.apsira.com/disclaimer.php" class="whitetext">Disclaimer</a> | <a href="http://www.apsira.com/sitemap.php" class="whitetext">Sitemap</a> | <a href="http://directory.apsira.com/" title="Free Education Directory" class="whitetext" target="_blank">Education Ditectory</a> | <a href="http://education-india.info/" title="Education India Info" class="whitetext" target="_blank">Education India</a> | <a href="http://www.seolinkdirectory.org/" title="Free SEO Freindly Link Directory" class="whitetext" target="_blank"><b>SEO Link Directory</b></a></p>
+	<a href="http://www.apsira.com/policy.php" class="whitetext">Privacy Policy</a> | <a href="http://www.apsira.com/terms.php" class="whitetext">Terms of Use</a> | <a href="http://www.apsira.com/disclaimer.php" class="whitetext">Disclaimer</a> | <a href="http://www.apsira.com/sitemap.php" class="whitetext">Sitemap</a>
 	<br>
 	<br>
-	</div>
+	</p></div>
 	</td>
 </tr>
 			</tbody></table>
+		<script type="text/javascript"> Meebo("domReady"); </script>
+		
 	
-</body></html>
+</center></body></html>
