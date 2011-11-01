@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourlust.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521105450id_/http%3A//yourlust.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourlust.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141113id_/http%3A//yourlust.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - free porn tube videos at YourLust.com!
 
