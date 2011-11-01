@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623103440id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercycorps.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143156id_/http%3A//www.mercycorps.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercy Corps
-
-## Privacy Policy
 
 We are committed to respecting the privacy rights of all donors and visitors to our website. The following information details Mercy Corps' collection, protection, and use of the data we receive from donors and visitors to this website.
 
