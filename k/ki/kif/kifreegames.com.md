@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kifreegames.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624201731id_/http%3A//www.kifreegames.com/onlinegames/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifreegames.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125959id_/http%3A//www.kifreegames.com/onlinegames/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Play Free Games from KingsIsle Entertainment, Inc.
 
