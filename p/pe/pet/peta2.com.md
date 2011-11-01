@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831090646id_/http%3A//www.peta2.com/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peta2.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162601id_/http%3A//www.peta2.com/policy.asp) for the most accurate reproduction.*
 
 # peta2 // peta2 Privacy Policy
 
 We at peta2 strongly believe in protecting the privacy of any personal information gathered from our Street Teamers and visitors to peta2.com. Since the protection of your privacy is important to us, we have created this privacy policy to let you know our practices regarding the collection and dissemination of personal information that can be linked to an individual, such as a name, address, phone number, e-mail address, or any other information provided to us by our members and Web site visitors. 
+
+**_Note:_ If you're under 18, please make sure that your parent or guardian has read and agreed to these terms before you use this site. 'Cause we don't want to get yelled at. That would suck.**
 
 **Why does peta2 ask for my information?**
 
@@ -62,15 +64,15 @@ Norfolk, VA 23510
 ---|---|---|---|---  
 | 
 
-[What They Never Told You](https://web.archive.org/web/20090831090646id_/http%3A//www.peta2.com/p2vsk2_flash/index.html)
+[What They Never Told You](https://web.archive.org/web/20111101162601id_/http%3A//www.peta2.com/p2vsk2_flash/index.html)
 
 | 
 
-[What to Eat](https://web.archive.org/web/20090831090646id_/http%3A//www.peta2.com/STUFF/s-recipe.asp)
+[What to Eat](https://web.archive.org/web/20111101162601id_/http%3A//www.peta2.com/STUFF/s-recipe.asp)
 
 | 
 
-[What to Wear](https://web.archive.org/web/20090831090646id_/http%3A//www.peta2.com/STUFF/s-wear.asp)
+[What to Wear](https://web.archive.org/web/20111101162601id_/http%3A//www.peta2.com/STUFF/s-wear.asp)
 
 | 
 
