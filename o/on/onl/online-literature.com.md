@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-literature.com privacy policy that was archived on 2010-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100118044522id_/http%3A//www.online-literature.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-literature.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101135748id_/http%3A//www.online-literature.com/privacy.php) for the most accurate reproduction.*
 
 # The Literature Network - Privacy Policy
 
@@ -13,3 +13,5 @@ Our site uses cookies to make sure you don't see the same ad repeatedly.
 Our site's registration form requires users to give us demographic information (like their zip code, age, or income level). Demographic and profile data is also collected at our site. We use this data to tailor the visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://www.google.com/privacy_ads.html. 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit http://www.networkadvertising.org/managing/opt_out.asp. 
