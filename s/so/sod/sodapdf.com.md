@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613074434id_/http%3A//sodapdf.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodapdf.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005707id_/http%3A//sodapdf.com/privacy.aspx) for the most accurate reproduction.*
 
 # Soda PDF - Smart & Simple
 
@@ -13,8 +13,8 @@ consumers and organizations globally through its leading privacy trustmark and i
 If you have questions or complaints regarding our privacy policy or practices, please contact us at: 
 
 **LULU software**  
-5555 Casgrain, Suite 301  
-Montreal, QC, H2T 1Y1  
+4700 de la Savane, Suite 210  
+Montreal, QC, H4P 1T7  
 Canada  
 
 
@@ -62,8 +62,8 @@ If you provide us with personal information or credit information about somebody
 If you would like access to your personal information to correct, update or delete it, please contact us as described below:
 
 **LULU software**  
-5555 Casgrain, Suite 301  
-Montreal, QC, H2T 1Y1  
+4700 de la Savane, Suite 210  
+Montreal, QC, H4P 1T7  
 Canada  
 
 
