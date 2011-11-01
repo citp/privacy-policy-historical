@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2010-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101129003233id_/http%3A//recruitireland.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitireland.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160312id_/http%3A//www.recruitireland.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# RecruitIreland Confidentiality and Privacy Policy
+# RecruitIreland.com Confidentiality and Privacy Policy
 
-## Privacy Policy
+## Confidentiality and Privacy Policy
 
-**_Updated 03/06/10_**
+**_Updated 17/02/11_**
 
-At RecruitIreland.com we take your privacy and the protection of your information seriously. We have created this policy in line with the Data Protection Commissioner to demonstrate this commitment and to tell you how we handle and use your data.
+At RecruitIreland.com we take your privacy and the protection of your information seriously. We have created this policy in line with the [Data Protection Commissioner](http://www.dataprotection.ie/) to demonstrate this commitment and to tell you how we handle and use your data.
 
 If after reading this policy you have any questions please contact us using the details below.
 
@@ -16,10 +16,8 @@ We endeavour to comply with the guidelines laid out by Ireland’s Data Commissi
 
 Data Protection Officer,  
 RecruitIreland.com,  
-Unit 5C,  
-River House,  
-Blackpool Retail Park,   
-Blackpool,  
+City Quarter,  
+Lapps Quay,  
 Cork.  
 info@recruitireland.com
 
@@ -30,7 +28,7 @@ By using our website you consent to our online/website privacy policy.
   
 
 
-At RecruitIreland.com we make every effort to protect your data which you provide to us. We consistently monitor our servers for unauthorised access and we have appropriate security management systems in place to safeguard this. Anti-virus software and Firewalls are installed on all areas of the site as well as an additional secure socket layer when you log into your account online.
+At RecruitIreland.com we make every effort to protect your data which you provide to us. We consistently monitor our servers for unauthorised access and we have appropriate security management systems in place to safeguard this. Anti-virus software and Firewalls are installed on all areas of the site.
 
 We do recognise however that unfortunately no data transmission over the internet can be guaranteed 100% secure. As a result we cannot ensure or warrant the security of any information you provide to us, you do so at your own risk.
 
@@ -44,7 +42,7 @@ Third party activities relating to any advertiser you submitted your information
 
 ## Advertisers
 
-We offer the use of a secure server for all online payments. All information is secured by Realex our payment provider. After a transaction is concluded your credit card/debit card details will not be stored on file or in our servers.
+We offer the use of a secure server for all online payments. All information is secured by Realex our payment provider. After a transaction is concluded your credit card/debit card details will not be stored on file or in our servers. We will never contact you by email to ask for your credit card details after a transaction has been processed. Please be aware of our [phishing](https://web.archive.org/phishing/) warning.
 
   
 
@@ -54,7 +52,7 @@ We offer the use of a secure server for all online payments. All information is 
   
 
 
-We only request information which is necessary for us to fulfil our service obligations for which you visit the website.
+We only request information which is necessary for us to fulfil our service obligations for which you visit the website. We are a career portal and as such we expect your profile with us to be updated when you change any details or update your CV.
 
 When you register on our site we collect information, you may be asked to enter your name, postal address, email address, phone number, sector of employment and job title. When you register for our newsletter or job alerts we also store this information.
 
@@ -63,6 +61,8 @@ If you apply for a job we store this information against your account on our dat
 If you upload a CV to your account we store this on file. If you opt into our CV Search Service we also store this information. When you opt in to the CV Search Service we also ask you to submit your salary requirements, a free text description of your work experience, your level of education, availability to work, if you are authorised to work in the EU, any language fluency skills, if you have a driver’s license and what type of employment you would prefer (permanent, temporary etc).
 
 We may also keep a record of any contact you have with us.
+
+This information stays on file unless you contact us to remove your data. We will periodically remind you that we have your data stored and advise how to opt-out of our database if you wish to do so. If you wish to be removed now, please email remove@recruitireland.com
 
 **What do we use this information for?**
 
