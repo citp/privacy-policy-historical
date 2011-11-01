@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the showbiz411.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108015615id_/http%3A//www.showbiz411.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showbiz411.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120524id_/http%3A//www.showbiz411.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Showbiz411
 
 Privacy Policy for www.showbiz411.com 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at ben@cnimerch.com. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at contact@showbiz411.com. 
 
 At www.showbiz411.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.showbiz411.com and how it is used. 
 
