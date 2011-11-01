@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massagetherapy.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513181350id_/http%3A//www.massagetherapy.com/contact/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massagetherapy.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001136id_/http%3A//www.massagetherapy.com/contact/privacy_policy.php) for the most accurate reproduction.*
 
 # Associated Bodywork & Massage Professionals Privacy Policy
 
