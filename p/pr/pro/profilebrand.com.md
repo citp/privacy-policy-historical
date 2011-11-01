@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profilebrand.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412233849id_/http%3A//www.profilebrand.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilebrand.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123131id_/http%3A//www.profilebrand.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Myspacebrand.com - Layouts and Graphics from ProfileBrand.com
 
