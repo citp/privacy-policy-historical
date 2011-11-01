@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulteem.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526013133id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulteem.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101203552id_/http%3A//www.datingdirectaffinity.com/misc/privacy_g.php) for the most accurate reproduction.*
 
 # DatingDirectAffinity.com Privacy Policy.
 
