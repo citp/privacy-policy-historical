@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frugalvillage.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627204018id_/http%3A//www.frugalvillage.com/forums/showthread.php%3Ft%3D97341) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugalvillage.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101103531id_/http%3A//www.frugalvillage.com/forums/showthread.php%3Ft%3D97341) for the most accurate reproduction.*
 
 # Privacy policy - Frugal Village Forums
 
