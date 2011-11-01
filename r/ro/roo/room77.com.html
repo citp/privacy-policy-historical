@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the room77.com privacy policy that was archived on 2011-02-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110227022745id_/http%3A//www.room77.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the room77.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101080304id_/http%3A//www.room77.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
     <link rel="icon" type="image/png" href="/images/icons/favicon.png">
@@ -8,50 +8,34 @@
     <meta name="description" content="Room 77 takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to this site.">
     <meta name="keywords" content="Room 77 privacy policy">
 
-    <link href="/min/min_1298598378_roomnav.css" rel="stylesheet" type="text/css">
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/min/min_1298598378_roomnav.js"></script>
+    <link href="/min/min_1314834482_roomnav.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/min/min_1314834482_roomnav.js"></script>
 
-    <link href="/css/web/inside_page.css" rel="stylesheet" type="text/css" media="all">
-
-    <!--[if IE 6]>
-    <link href="/css/web/ie6.css" rel="stylesheet" type="text/css" media="all" />
-    <![endif]-->
+        <link href="/css/web/inside_page.css" rel="stylesheet" type="text/css" media="all">
     <!--[if gte IE 7]>
     <link href="/css/web/ie8.css" rel="stylesheet" type="text/css" media="all" />
     <![endif]-->
 
+    <script type="text/javascript">
+      $(document).ready(function() {
+        if (typeof R77 != "undefined" && 
+            typeof R77.RoomNav != "undefined" &&
+            typeof R77.RoomNav.Web != "undefined") {
+          R77.RoomNav.Web.estandby_ = (0 === 1);
+        }
+      });
+    </script>
 
 <script type="text/javascript">
-  function ga_log(event, param) {
-    switch (event) {
-    case "search":
-      _gaq.push('_trackEvent', 'Search', 'hotel_id', param.hotelId);
-      break;
-    case "room_name_search":
-      _gaq.push('_trackEvent', 'Room Name Search', 'room_name', param.room);
-      break;
-    case "visit":
-      _gaq.push('_trackEvent', 'Visit', 'hotel_id', param.hotelId);
-      break;
-    case "room_select":
-      if (!param.simulated) {
-        _gaq.push('_trackEvent', 'Room Select', 'hotel_id', param.hotelId);
-      }
-      break;
-    case "floor_select":
-      if (!param.simulated) {
-        _gaq.push('_trackEvent', 'Floor Select', 'hotel_id', param.hotelId);
-      }
-      break;
-    case "room_view_expand":
-      _gaq.push('_trackEvent', 'Room View Expand', 'hotel_id', param.hotelId);
-      break;
-    case "other_click":
-      _gaq.push('_trackEvent', 'Other Clicks', param.clickId, param.hotelId);
-    default:
-      // Shouldn't happen
-      _gaq.push('_trackEvent', 'Unknown Event', 'event_name', event);
-
+  function _gaq_push(category, action, value) {
+//    console.log("category = %s; action = %s; value = %s", 
+//                category, 
+//                action, 
+//                value);
+    if (value != "null") {
+      _gaq.push(['_trackEvent', category, action, value]);
+    } else {
+      _gaq.push(['_trackEvent', category, action]);
     }
   }
 
@@ -67,30 +51,31 @@
 
 </script>
 </head>
-<body>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 66px; padding-right: 24px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
 
   
   
   <div id="siteWrapper" class="site_container clear">
     
 <div class="top_header clear">
-  <a href="/index.html" title="Room77" class="logo_link">
+  <a href="/" title="Room77" class="logo_link">
     <img src="/images/web/room77-logo.png" border="0" alt="Room77">
   </a>
-  <div class="top_nav_bar">
+
+    <div class="top_nav_bar">
     <ul class="top_controls clear">
       <li class="top_search">
-        <div class="hotel_search r77_entry_box">
-                <form action="/hotel_profile_raw.html" method="get" onsubmit="return CheckHotelSelection();">
+        <div class="top_assets hotel_search r77_entry_box">
+              <form action="javascript:ac.ac.sendQuery(ac_htl.value);">
       <table border="0" class="r77cms_hotel_search_box">
       <tbody>
       <tr><td><span class="r77cms_submenu_heading"></span></td>
       <td style="width:500px;">
 
             <!-- hotel name auto-complete -->
-      <div class="yui-skin-sam">
-      <input type="text" id="ac_hotel" name="ac_hotel" value="" style="width:500px;">
-      <div id="ac_hotel_dropdown" style="width:500px;"></div>
+      <div class="yui-skin-sam yui-ac">
+      <input type="text" id="ac_hotel" name="ac_hotel" value="" style="width:500px;" class="yui-ac-input" autocomplete="off">
+      <div id="ac_hotel_dropdown" style="width:500px;" class="yui-ac-container"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
       </div>
 
       </td>
@@ -100,12 +85,7 @@
       </tr>
 
       <tr><td></td><td>
-            <!-- hotel name, address, city, state as returned by server -->
-      <div class="r77cms_hotel_details">
-      <span id="hotel_addr" class="r77cms_hotel_details_addr"></span>&nbsp;
-      <span id="hotel_city" class="r77cms_hotel_details_city"></span>&nbsp;
-      <span id="hotel_state" class="r77cms_hotel_details_state"></span>
-      </div>
+      <div class="ac_no_hotels_found" style="display:none;">No results found for "<span class="ac_echo_search_term"></span>"</div>
       </td></tr>
 
       <tr><td></td><td>
@@ -120,38 +100,36 @@
       <input type="hidden" id="hotel_name_validated" value=""><script type="text/javascript">
 <!--
 
-function CheckHotelSelection() {
-  var hotelId = document.getElementById("hotel_id").value;
-  if (document.getElementById("ac_hotel").value == "" || hotelId == "") {
-    alert("Please select a hotel from the dropdown list.");
-    return false;
-  }
-  else if (document.getElementById("ac_hotel").value !=
-           document.getElementById("hotel_name_validated").value) {
-    alert("Sorry, I do not recognize this hotel.");
-    return false;
-  }
-  else {
-    ga_log("search", {hotelId: parseInt(hotelId)});
-    return true;
-  }
-}
+var search_action = "/hotel_profile_raw.html";
 
 function onHotelSelect(hotel) {
+  if (hotel !== null && hotel.hotel_id >= 0 && search_action != "") {
+    if (typeof ga_info !== "undefined") {
+      R77.Util.gaq_push(ga_info.category_search, ga_info.action_search, "null");
+    }
+
+    document.location = search_action + "?hotel_id=" + hotel.hotel_id;
+  }
+
+/*
   $("#hotel_addr").html(hotel.addr);
   $("#hotel_city").html(hotel.city);
   $("#hotel_state").html(hotel.state);
   $("#hotel_id").val(hotel.hotel_id);
   $("#hotel_name_validated").val(hotel.name);
+*/
 }
 
+/*
 function ClearDetails() {
   $("#hotel_addr").empty();
   $("#hotel_city").empty();
   $("#hotel_state").empty();
 }
+*/
 
 // set up auto-complete
+var input_prefill = "Hotel name (e.g. London Hilton Park Lane)";
 var ac_htl = document.getElementById("ac_hotel");
 var ac_dropdown = document.getElementById("ac_hotel_dropdown");
 var ac = new R77AutoComplete
@@ -166,108 +144,359 @@ var ac = new R77AutoComplete
        coming_soon_html = "";
        if (!hotel.active)
          coming_soon_html =
-           " <span class='ac_coming_soon_text'>(Coming soon)</span>";
+           " <span class='ac_coming_soon_text'></span>";
        return "<div" + line_class + "><span class='r77_ac_hotel_name'>" +
               hotel.name + "</span><span class='r77_ac_hotel_loc'>" + c +
               coming_soon_html + "</span></div>";
      },
-     onHotelSelect,
-     function() { ClearDetails(); });
+     onHotelSelect, input_prefill);
+//     function() { ClearDetails(); });
 
-// focus on the hotel input box
-ac_htl.focus();
-ac_htl.select();
-
-ac_htl.onfocus = function() {
-  ac_htl.select();
+$(ac_htl).bind("keydown click", function() {
+  // clear "no hotels found" text upon any keystroke or mouse click
+  $(".ac_no_hotels_found").hide();
+})
+.focus(function() {
+  var h = $(this);
+  h.select();
   //  ac.ac.sendQuery(ac_htl.value);  // send query automatically on focus
 
-  // work around Chrome's onfocus-to-select bug
-  ac_htl.onmouseup = function(e) {
+  h.bind("mouseup", function(e) {
+    // work around Chrome's onfocus-to-select bug
     e.preventDefault();  // prevent browser from de-selecting right away
     // restore onmouseup behavior here, so that the user can
     // still click again to de-select
-    ac_htl.onmouseup = null;
-  };
-}
+    $(ac_htl).unbind("mouseup");
+  });
+});
 
 
 //-->
 </script>        </div>
       </li>
       <li>
-        <a href="faq.html" class="sprite_top_nav help">Help</a>
+        <a href="/faq.html" class="help ga_trackable" ga_category="Profile Header" ga_action="Help Click" ga_value="1">Help</a>
+      </li>
+      <li>
+        <a id="floating_feedback" class="feedback_link ga_trackable" onclick="$('#feedback_form').dialog('open');" href="javascript:void(0);" ga_category="Profile Header" ga_action="Feedback Click" ga_value="1">Feedback</a>
+      </li>
+      <li style="margin-left: 0">
+        <a href="http://www.facebook.com/bestrooms" class="top_assets facebook ga_trackable" ga_category="Home Header" ga_action="Home Social Click" ga_value="Facebook" target="_blank">Room 77 on Facebook</a>
+        <a href="http://www.twitter.com/room_77" class="top_assets twitter ga_trackable" ga_category="Home Header" ga_action="Home Social Click" ga_value="Twitter" target="_blank">Room 77 on Twitter</a>
       </li>
     </ul>
   </div>
-  <div class="social_media">
-
-    <a href="http://www.facebook.com/bestrooms" class="facebook" target="_blank">Room 77 on Facebook</a>
-    <a href="http://www.twitter.com/room_77" class="twitter" target="_blank">Room 77 on Twitter</a>
-    <span class="blog_follow"><a href="http://www.room77.com/blog" target="_blank">Blog</a> | Follow us on</span>
-  </div>
-</div>
-    <div class="page_content">
+  <div class="my_room77 clear">
+            <span><a href="javascript:void(0);" class="signin_link">Sign In</a>            | <a href="javascript:void(0);" class="register_link">Register</a></span>  </div>
+  
+</div>    <div class="page_content terms">
       <h1>Privacy Policy</h1>
       <p>Room 77 takes your privacy seriously and is pleased to provide this privacy policy to inform you of our practices with respect to how we collect, use, and protect personal information about visitors to this site. Personal information is information that is personally identifiable like your name, email address, phone number, mailing address, etc.</p>
       
       <p>By using this web site you consent to the following terms:</p>
       
-      <p>Information Collection</p>
+      <h4>Information Collection</h4>
       
       <p>Room 77 collects personal information when you use our travel services. For example, when you register with Room 77, we ask for your name and email address. In the future, to complete a transaction we may also ask for your phone number, mailing address, preferences and credit card number. Room 77 may combine information about you that we have with information we obtain from suppliers, business partners, or other companies. In addition, Room 77 automatically receives and records information in our server logs from your browser, including your IP address, browser type, and the pages you request. This information does not necessarily enable us to personally identify you.</p>
 
       
-      <p>Information Use</p>
+      <h4>Information Use</h4>
       
       <p>Room 77 uses your personal information for the following purposes: To verify your authorization to access certain features of the site, to fulfill your requests for products or services, to personalize and customize the content and relevant trip services that you are offered to contact you, to improve our services, and to provide reporting.</p>
       
-      <p>Information Sharing and Disclosure</p>
+      <h4>Information Sharing and Disclosure</h4>
       
       <p>Room 77 does not rent, sell, or share personal information about you with other people or companies except (i) to provide products or services you have requested including, without limitation, products and services from third parties, (ii) when we have your permission, or (iii) under the following circumstances: Room 77 may use third party vendors to assist us in providing our products or services and may transfer your personally identifiable information to such vendors who have entered into a contract with us that protects the confidentiality of your information and permits the vendor to use it only as necessary to fulfill its contract; In response to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; When we believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Room 77 's Terms of Service, or as otherwise required by law; We may transfer information about you if Room 77 is acquired by or merged with another company. In this event, Room 77 will notify you by sending a notice to the email address specified in your Room 77 account before information about you becomes subject to a different privacy policy.</p>
       
-      <p>Cookies</p>
+      <h4>Cookies</h4>
       
       <p>Room 77 sets and accesses cookies on your computer. A cookie is a small amount of data that Room 77's servers transfer to your browser and that only Room 77's servers can read. When you visit the site, the cookie captures specific session data to streamline your experience and, if you select to save your member name and password, Room 77 will save this information in a cookie so that you will not be required to sign in each time you visit the site. You may disable or delete cookies from within your Internet browser application by accessing the security or privacy settings. However, Room 77 requires you to have cookies enabled to access certain portions of the site. Room 77 may allow other companies that show advertisements on some of our pages to set and access their cookies on your computer. Other companies' use of their cookies is subject to their privacy policies, not this one. Other companies do not have access to Room 77's cookies.</p>
       
-      <p>Links to Third Party Sites</p>
+      <h4>Links to Third Party Sites</h4>
       
       <p>For your convenience, we may provide links to third party websites or referrals to certain third parties' products or services. If you choose to visit a third party's web site or use its products or services, please be aware that this privacy policy will not govern your activities and any information you disclose to such third party.</p>
       
-      <p>Confidentiality and Security</p>
+      <h4>Confidentiality and Security</h4>
       
       <p>We limit access to personal information about you to employees who we believe have a legitimate need to come into contact with that information to provide products or services to you or in order to do their jobs. Room 77 employs procedural and technical measures reasonably designed to protect your personal information from loss, misuse, unauthorized access or disclosure. Although we make good faith efforts to store the information collected in a secure operating environment that is not accessible to the public, we cannot guarantee complete security.</p>
       
-      <p>Accessing, Reviewing and Changing Your Personal Information</p>
+      <h4>Accessing, Reviewing and Changing Your Personal Information</h4>
       
       <p>We will offer you the ability to access, review and change certain information via the Registration page. Upon your request, we will deactivate your account, and remove your personal information from active service. To make this request, please contact us. Your account will be deactivated as soon as reasonably possible based on your account activity. We will retain in our files and databases some personal information to prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Service and comply with legal requirements as permitted by law. Therefore, you should not expect that all of your personal information will be completely removed from our databases in response to your request.</p>
       
-      <p>Changes to this Privacy Policy</p>
+      <h4>Changes to this Privacy Policy</h4>
       
       <p>Room 77 may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address specified in your Room 77 account or by placing a notice on our site.</p>
       
-      <p>If you have questions, please contact us: info@room77.com</p>
-      
-      <p>Expert Media, Inc.<br>Room 77</p>
+      <p>If you have questions, please contact us at <a href="mailto:info@room77.com">info@room77.com</a>.</p>
+
+      <p>You may also write us:</p>
+      <p>
+        Room 77, Inc.<br>
+        Attn: Privacy Officer<br>
+        888 Villa St. 3rd Floor<br>
+        Mountain View, CA 94041
+      </p>
+
     </div>
   </div>
   <!-- End Site Container -->
 
   <!-- Footer: Outside main container to break width -->
-  
-<div class="footer">
-  Copyright 2011 Room 77 &nbsp; | 
-  <a href="/about.html">About Us</a> |
-  <a href="/team.html">Team</a> |
-  <a href="/faq.html">FAQs/Help</a> |
-  <a href="/contact.html">Contact Us</a> |
-  <a href="/jobs.html">Jobs</a> |
-  <a href="/press.html">Press Center</a> |
-  <a href="/hotel_partners.html">Hotel Partners</a> |
-  <a href="/terms.html">Terms of Use</a> |
-  <a href="/privacy.html">Privacy Policy</a>
+  <div class="footer clear">
+<img src="/images/web/launch_badge.png" alt="Launch Badge" style="display:block;float:left;">
+      <div style="width: 700px;float:left;padding-left:10px;text-align:left;">
+        <a href="/about.html">About Us</a> |
+        <a href="/team.html">Team</a> |
+        <a href="/faq.html">FAQs/Help</a> |
+        <a href="/contact.html">Contact Us</a> |
+        <a href="/jobs.html">Jobs</a> |
+        <a href="/press.html">Press Center</a> |
+        <a href="/hotel_partners.html">Hotel Partners</a> |
+        <a href="/mobile.html">Mobile</a> |
+        <a href="/terms.html">Terms of Use</a> |
+        <a href="/privacy.html">Privacy Policy</a> |
+        <a href="http://www.room77.com/blog">Blog</a>
+        <p style="padding:3px;">Copyright 2011 Room 77 &nbsp;</p>
+    </div>
 </div>
+
+  
+
+<script type="text/javascript">
+  jQuery(document).ready(function() {
+    initFeedbackControl();
+    jQuery("#feedback_form").dialog({
+      bgiframe: true, autoOpen: false, width: 386, height: 280, modal: true, resizable: false, close: function() {
+        $('#r77_feedback_form').show();
+        $('.feedback_messaging').hide();
+        $('#feedback_comments').val('Tell us how we can help...').css('color', '#777777');
+        initFeedbackControl();
+      }
+    });
+  });
+
+  function initFeedbackControl() {
+    $("#feedback_button").css("opacity", "0.5").unbind("click");
+    $("#feedback_comments")
+      .click(function() {
+        feedbackTextAreaClickHandler();
+      })
+      .keydown(function() {
+        $("#feedback_button").css("opacity", "1")
+        .unbind("click").click(function() {
+          submitFeedback();
+        });
+        $("#feedback_comments").unbind("keydown");
+      });
+  }
+
+  function feedbackTextAreaClickHandler() {
+    $('#feedback_comments')
+      .val('').css('color', '#333333')
+      .unbind("click");
+  }
+
+  function submitFeedback() {
+    var feedback = {
+      "type": $(".feedback_cats input[type='radio']:checked").attr("value"),
+      "content": $("#feedback_comments").val()
+    };
+    R77.Util.Ajax("/ajax/submit_feedback.php", feedback, "submit_feedback",
+                  function(data) {
+      if (data.success) {
+        $('.feedback_messaging, #r77_feedback_form').hide();
+        $('#success_feedback_message').show();
+      }
+      else {
+        $('#error_feedback_message').show();
+      }
+    });
+  }
+</script>
+
+
+          <div id="fb-root"></div>
+      <script src="http://connect.facebook.net/en_US/all.js"></script>
+      <script type="text/javascript">
+        $(document).ready(function() {
+          R77.GuestAuth.GUEST_SIGNIN_AJAX = 'https://www.room77.com/ajax/guest_signin.php';
+          R77.GuestAuth.GUEST_SIGNUP_AJAX = 'https://www.room77.com/ajax/guest_signup.php';
+          R77.GuestAuth.GUEST_FORGOT_PASSWORD_AJAX = 
+              'https://www.room77.com/ajax/guest_forgot_password.php';
+          R77.GuestAuth.ADD_PHOTOS_URL = '/add_photos.html';
+          R77.GuestAuth.ADD_REVIEWS_URL = '/room_review.html';
+
+          R77.GuestAuth.initialize();
+        });
+        FB.init({
+          appId:'230286373664292', cookie:true,
+          status:true, xfbml:true
+        });
+      </script>
+
+    <!-- SIGN IN DIALOG -->
+  
+  <!-- END SIGN IN DIALOG -->
+
+  <!-- REGISTRATION DIALOG -->
+  
+  <!-- END REGISTRATION IN DIALOG -->
+
+  <!-- FORGOT PASSWORD DIALOG -->
+  
+  
+  <!-- END FORGOT PASSWORD DIALOG -->
+  
+<script type="text/javascript">
+  $(document).ready(function() {
+            FB.Event.subscribe("auth.login", function(response) {
+          if (R77.GuestAuth.signinDestinationUrl_ == null) {
+            window.location.reload();
+          } else {
+            window.location = R77.GuestAuth.signinDestinationUrl_;
+          }
+        });  });
+</script>
+
+<!--[if lte IE 7]>
+<div class="dialog" title="Unsupported Browser Detected" id="ie6_warning">
+</div>
+<script type="text/javascript">
+  jQuery("#ie6_warning").dialog({
+  bgiframe: true, autoOpen: true, width: 380, height: 220, modal: true, resizable: false
+}); $('#ie6_warning').html("<b>Warning:</b> You are using an unsupported version of Internet Explorer. Please browse Room 77 using one of the following supported browsers:" +
+"<ul style='margin: 10px 0 0 30px;'>" +
+  "<li><a href='http://www.mozilla.com/en-US/firefox/'>Mozilla Firefox</a></li>" +
+  "<li><a href='http://windows.microsoft.com/en-US/windows/downloads/internet-explorer'>Internet Explorer</a> 8 or greater</li>" +
+  "<li><a href='http://www.google.com/chrome'>Google Chrome</a></li>" +
+  "<li><a href='http://www.apple.com/safari/download/'>Apple Safari</a> for Windows or Mac</li>" +
+"</ul>");
+</script>
+<![endif]-->
+
+
   <!-- End Footer -->
 
 
-</body></html>
+<div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-feedback_form" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-feedback_form">Share your feedback with us</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="feedback_form" class="dialog ui-dialog-content ui-widget-content" style="padding-bottom: 30px;">
+    <div class="feedback_messaging" id="success_feedback_message" style="display:none;">Thanks for your feedback!</div>
+    <div class="feedback_messaging" id="error_feedback_message" style="display:none;color:#C80000">We're having trouble sending your feedback.  Please try again.</div>
+    <form action="javascript:void(0);" id="r77_feedback_form">
+      <div class="feedback_cats">
+        <input type="radio" id="feedback_feat" name="comment_type" value="feature/suggestion" checked=""> 
+        <label for="feedback_feat">Feature/Suggestion</label> &nbsp;&nbsp;
+
+        <input type="radio" id="feedback_data" name="comment_type" value="Incorrect Data"> 
+        <label for="feedback_data">Incorrect Data</label> &nbsp;&nbsp;
+
+        <input type="radio" id="feedback_other" name="comment_type" value="Other">
+        <label for="feedback_other">Other</label>
+      </div>
+
+      <textarea id="feedback_comments" name="room77_comments">Tell us how we can help...</textarea>
+        <a id="feedback_button" href="javascript:void(0);" style="opacity:0.5;">
+          Send
+        </a>
+    </form>
+  </div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-signin_dialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-signin_dialog">Please Sign In or Register</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="signin_dialog" class="dialog signin_reg ui-dialog-content ui-widget-content">
+    <fb:login-button perms="email">Login with Facebook</fb:login-button>
+    <p><em>or</em> Sign in with your Room 77 account</p>
+    <div class="signin_error" id="error_sign_in_invalid_credentials" style="display:none;color:#C80000">
+      - Invalid password
+    </div>
+    <div class="signin_error" id="error_sign_in_server_error" style="display:none;color:#C80000">
+      - We cannot complete the request. Please try again later.
+    </div>
+    <form action="javascript:void(0);" id="r77_signin_form" method="post">
+      <label id="login_label_email">Email Address</label>
+      <input type="text" id="login_email" value="enter your email address" name="login_email">
+      <label id="login_label_password">Password</label>
+      <input type="password" id="login_password" class="guest_login_input" name="login_password">
+      <p class="rememberme"><input type="checkbox" id="remember_me" name="remember_me" checked=""> Remember me on this computer</p>
+      <div class="signin_controls">
+        <input type="submit" class="gray_button" value="Sign In" id="guest_signin_button">
+        or <a href="javascript:void(0);" class="register_link">create a Room 77 account</a>
+        Forgot password? Click <a href="javascript:void(0);" class="forgot_password_link">here</a>.
+      </div>
+    </form>
+  </div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-register_dialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-register_dialog">Room 77 Account Registration</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="register_dialog" class="dialog signin_reg ui-dialog-content ui-widget-content">
+    <p class="r77_signup_instruction">
+      All fields are required.
+    </p>
+    <div id="success_sign_up" style="display:none;">
+      Your Room 77 Account has been created!
+      Please check your email to verify your account.
+      Once verified, click <a href="javascript:void(0);" class="signin_link">here</a> to login.
+    </div>
+    <div id="error_sign_up" style="display:none;color:#C80000" class="signup_error">
+      Registration failed. Please fix marked fields.
+    </div>
+    <div id="error_sign_up_invalid_email" style="display:none;color:#C80000" class="signup_error">
+      - Invalid email address
+    </div>
+    <div id="error_sign_up_email_not_match" style="display:none;color:#C80000" class="signup_error">
+      - Email addresses do not match
+    </div>
+    <div id="error_sign_up_missing_name" style="display:none;color:#C80000" class="signup_error">
+      - Please provide your name.
+    </div>
+    <div id="error_sign_up_password_short" style="display:none;color:#C80000" class="signup_error">
+      - Password must be at least 6 characters.
+    </div>
+    <div id="error_sign_up_password_not_match" style="display:none;color:#C80000" class="signup_error">
+      - Passwords do not match.
+    </div>
+    <div id="error_sign_up_server_error" style="display:none;color:#C80000" class="signup_error">
+      - We cannot complete the registration process. Please try again later.
+    </div>
+    <div id="error_sign_up_duplicate" style="display:none;color:#C80000" class="signup_error">
+      - This email address has already been registered.
+    </div>
+    <form action="javascript:void(0);" id="r77_signup_form_" class="r77_signup_instruction" method="post">
+      <table border="0" cellpadding="0" cellspacing="0" width="300">
+        <tbody><tr>
+          <td style="padding-right:4px;">
+            <label id="signup_label_first_name">First Name <b>*</b></label>
+            <input type="text" id="first_name" value="" style="width:95%;" name="first_name">
+          </td>
+          <td>
+            <label id="signup_label_last_name">Last Name <b>*</b></label>
+            <input type="text" id="last_name" value="" style="width:95%;" name="last_name">
+          </td>
+        </tr>
+      </tbody></table>
+
+      <label id="signup_label_email">Email Address <b>*</b></label>
+      <input type="text" id="signup_email" name="signup_email">
+      <label id="signup_label_password">Password <b>*</b></label>
+      <input type="password" id="signup_password" name="signup_password">
+      <label id="signup_label_password2">Re-enter Password <b>*</b></label>
+      <input type="password" id="signup_password2" class="guest_signup_input" name="signup_password2">
+      <div class="signin_controls">
+        <input type="submit" class="gray_button" value="Register" id="guest_signup_button">
+        or         <span><a href="javascript:void(0);" class="signin_link">Sign In</a>
+      </span></div>
+    </form>
+  </div></div><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-forgot_password_dialog" style="display: none; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix"><span class="ui-dialog-title" id="ui-dialog-title-forgot_password_dialog">Reset Room 77 Password</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button"><span class="ui-icon ui-icon-closethick">close</span></a></div><div id="forgot_password_dialog" class="dialog_signin_reg ui-dialog-content ui-widget-content">
+    <div id="success_forgot_password" style="display:none;">
+      We have sent a message to you via email. Please check your email for
+      instructions on how to reset your password.
+    </div>
+    <div class="forgot_password_error" id="error_forgot_password_not_found" style="display:none;color:#C80000">
+      This email is not registered with Room 77.  Please check the email address again or create a <a href="javascript:void(0);" class="register_link">new account</a>.
+    </div>
+    <div class="forgot_password_error" id="error_forgot_password_invalid_email" style="display:none;color:#C80000">
+      - Invalid email address
+    </div>
+    <div class="forgot_password_error" id="error_forgot_server_error" style="display:none;color:#C80000">
+      - We cannot complete the request. Please try again later.
+    </div>
+    <div class="signin_reg">
+      <form action="javascript:void(0);" class="r77_forgot_password_instruction" id="r77_forgot_password_form" method="post">
+        <label>Email Address</label>
+        <input type="text" id="forgot_password_email" name="email">
+        <input type="submit" class="gray_button" value="Send email" id="forgot_password_button" style="width: auto;padding:0 8px;">
+      </form>
+    </div>
+  </div></div></body></html>
