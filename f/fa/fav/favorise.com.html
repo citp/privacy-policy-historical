@@ -1,0 +1,389 @@
+<!--The following is the downloaded HTML source of the favorise.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101230557id_/http%3A//www.favorise.com/p/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<title>Privacy policy - Favorise</title>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta content="en-us" http-equiv="Content-Language">
+<meta name="description" content="Favorise is a social news aggregator. It aggregates the latest stories around the web and rises the most popular so you only get the finest information.">
+<meta name="keywords" content="">
+
+<!--[if lte IE 6]>
+<script type='text/javascript'>
+ window.location='/common/ie6/';
+</script>
+<![endif]-->
+<link rel="apple-touch-icon" href="http://www.favorise.com/apple-touch-icon.png">
+<link rel="shortcut icon" href="http://www.favorise.com/faviconFavorise.ico">
+<link rel="stylesheet" href="/files/cache/combine/commonMTMxODk5Mjc5NA==-86fc1371fbd3328c92b89605539d178e_m.css" type="text/css">
+<link rel="stylesheet" href="/files/cache/combine/defaultMTMxODk5MjczMQ==-e17bcdcb3557b11894967aecc9b2514d_m.css" type="text/css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6/jquery.min.js"></script>
+
+<script type="text/javascript">
+ var HTTP_HOST = 'http://www.favorise.com';
+ var ISPRODUCTION = true;
+ var ISDEVELOPEMENT = false;
+ var CLASHTALK = false;
+ var FAVORISE = true;
+ var MOBILE = false;
+ var BattleID = 0;
+ var GlobalCategoryID = 0;
+</script>
+<script type="text/javascript" src="/files/cache/combine/headMTMxODk5Mjc0Nw==-3cb2220e9eb343a82a23e58b9088a4cc_m.js"></script>
+<!--[if lte IE 7]>
+ <link rel='stylesheet' href='/common/ie7.css' type='text/css' />
+ <![endif]--></head><body>
+ <div id="main_header2">
+ <div class="right">
+ <span class="main_header2_box on">
+ <div class="handle">Search</div>
+ <div class="content" style="display: none;">
+ <form method="get" action="/search/" id="searchBoxRight">
+ <input type="text" name="search" id="searchBox" value=""><input type="submit" value="" id="SearchButton">
+ </form>
+ </div>
+ </span>
+ <span class="main_header2_box on">
+ <div class="handle">Submit Link</div>
+ <div class="content" style="display: none;">
+ <form id="submitYourLinkForm" method="post">
+ <input type="text" name="submitYourLink" id="submitYourLink" class="ShareLinkTextbox"><input type="submit" value="" style="height: 28px;" class="ShareLinkButton">
+ </form>
+ </div>
+ </span>
+
+ <span class="main_header2_box on">
+ <div class="handle">
+ English </div>
+ <div class="content" style="display: none;">
+ <form id="changeLocaleForm" method="get" action="/Api/?request=changeLocale">
+ <ul class="locales">
+ <li class="selected">English</li><li>Français</li><li>Español</li> </ul>
+ <input type="submit" class="button" value="Change">
+ <script>
+ $(function() {
+ $(".locales").checkList({
+ name: 'locales',
+ width: 150
+ });
+ $('#changeLocaleForm').ajaxForm({
+ dataType: 'json',
+ success: function(data) {
+ if (data.Status == 'success') {
+ location.reload();
+ } else {
+ feedback({message: data.Message, time: 6000});
+ }
+ }
+ });
+ });
+ </script>
+ </form>
+ </div>
+ </span>
+
+ <span class="main_header2_box">
+ <a href="javascript:changeLocation();"><div class="handle">
+ Seattle </div></a>
+ <div class="content" style="display: none;">
+ </div>
+ </span>
+ <span class="main_header2_box login_header">
+ <a href="javascript:login_register.showLogin();"><div class="handle">Login</div></a>
+ <div class="content" style="display: none;">
+ </div>
+ </span>
+ </div>
+ <div class="left">
+ <span class="topBox" style="vertical-align: top;">
+ <a href="/"><img src="/images/favo_logo.png" alt="Favorise" class="favorise_logo"></a>
+ </span>
+ <span class="main_header2_box on categories_header">
+ <div class="handle"><span class="categoryIcon all"></span>all categories</div>
+ <div class="content" style="display: none;">
+ <span class="main_category">
+ <a href="/all">
+ <div class="main_links2 all checked">
+ <span class="categoryIcon all"></span>
+ all categories </div>
+ </a>
+ <a href="/technology">
+ <div class="main_links2 technology ">
+ <span class="categoryIcon technology"></span>
+ technology </div>
+ </a>
+ <a href="/entertainment">
+ <div class="main_links2 entertainment ">
+ <span class="categoryIcon entertainment"></span>
+ entertainment </div>
+ </a>
+ <a href="/lifestyle">
+ <div class="main_links2 lifestyle ">
+ <span class="categoryIcon lifestyle"></span>
+ lifestyle </div>
+ </a>
+ <a href="/world">
+ <div class="main_links2 world ">
+ <span class="categoryIcon world"></span>
+ world </div>
+ </a>
+ <a href="/business">
+ <div class="main_links2 business ">
+ <span class="categoryIcon business"></span>
+ business </div>
+ </a>
+ <a href="/sports">
+ <div class="main_links2 sports ">
+ <span class="categoryIcon sports"></span>
+ sports </div>
+ </a>
+ <a href="/WTF">
+ <div class="main_links2 wtf ">
+ <span class="categoryIcon wtf"></span>
+ WTF </div>
+ </a>
+ </span>
+ </div>
+ </span>
+ 
+ <a class="main_tabs2 corner-left" id="my_favos_tab" href="/all/my-favos/">
+ my favos
+ </a><a class="main_tabs2 " id="news_tab" href="/all/news/">
+ news
+ </a><a class="main_tabs2 " id="local_news_tab" href="/all/local-news/">
+ local news
+ </a><a class="main_tabs2 corner-right" id="videos_tab" href="/all/videos/">
+ videos
+ </a> </div>
+ </div>
+ <script>
+ $(function() {
+ $(".main_header2_box.on").header_dropdown({
+ });
+ });
+ </script>
+ <div id="main_content" class="left">
+ <div class="customText">
+ <h1>Privacy Policy</h1>
+ <p>
+ <strong>
+ Please read carefully the following privacy policy before
+ reading, subscribing to, downloading, uploading, transmitting,
+ copying, reproducing, translating, publishing, altering materials
+ of any kind, posting information, linking to (COLLECTIVELY "USING")
+ any content of this Website in any way.
+ </strong>
+ The content <strong>("Content")</strong> includes the text, graphics,
+ photos, sounds, music, videos, audiovisual combinations, software,
+ scripts or any other materials you may view on, access through, or
+ contribute to the "Website" (also referred to as <strong>"Favorise"</strong>).
+ Favorise includes the Website at <a href="http://favorise.com">favorise.com</a>,
+ <a href="http://favorise.ca">favorise.ca</a>, <a href="http://favorise.net">favorise.net</a>,
+ <a href="http://favorise.info">favorise.info</a>, <a href="http://favorise.us">favorise.us</a>,
+ <a href="http://favorise.org">favorise.org</a> and any sub-domain, international version,
+ widget or mobile version. Favorise is the property of FAVORISE INC.
+ By FAVORISE INC. we mean the owners (also referred to as <strong>"we"</strong>,
+ <strong>"us"</strong> and <strong>"our"</strong>), the employees, the features,
+ and services we make available including Favorise and any other FAVORISE INC.
+ branded websites, sub-domains, international versions, widgets and mobile versions.
+ </p>
+ 
+ <h2>Comments</h2>
+ <p>
+ When you leave a comment, Favorise is automatically notified and
+ receives IP, WHOIS, and e-mail information pertaining to the Commenter.
+ This Website is hosted in Virginia, USA. Be aware that laws regarding
+ personal information and privacy may differ from your location.
+ </p>
+ 
+ <h2>Account Information</h2>
+ <p>
+ All the information in your account is public and can be seen by
+ the Website's Users except for your email and password. Do not
+ share your login information or let anyone access your account
+ or make anything that could compromise your user account security.
+ Do not provide information you do not want other people to see.
+ You have to be at least 13 years old in order to use this Website.
+ Parental supervision is required for Users under the age of 18. If
+ we learn that one of our Users is under 13, we will delete his/her
+ account as soon as possible. If you think that one of our users is
+ under 13, please contact us.
+ </p>
+ 
+ <h2>Advertisement</h2>
+ <p>
+ The advertisement on the Website is covered by the Google AdSense
+ program. Google's AdSense program uses the
+ <a href="http://www.google.com/intl/en/privacy/">DoubleClick DART</a> cookie.
+ Google's use of the DART cookie enables this Website to serve ads
+ to you based on your visit to this site and/or other sites on the
+ Internet. You may opt out of the use of the DART cookie by visiting
+ the
+ <a href="http://www.google.com/privacy/ads/">Google ad and content network privacy policy</a>.
+ </p>
+ 
+ <h2>Cookies</h2>
+ <p>
+ Cookies are used to store your personal preferences when you visit
+ a website. When you access Favorise, we send one or more cookies to
+ your computer to provide you with a better user experience. The website
+ uses cookies to know your location to provide you with your local
+ news. However, you can disable your cookies directly on the settings
+ of your web browser if you wish.
+ </p>
+ 
+ <h2>User Information</h2>
+ <p>
+ We store your IP address in our database when you vote to accurately
+ count the number of votes. We also keep the information on your web
+ browser hashed (encrypted). We use the tool Piwik in order to build
+ statistics on our web traffic. If you want more information on Piwik, please click
+ <a href="http://piwik.org/">here</a>.
+ </p>
+ 
+ <h2>Content</h2>
+ <p>
+ For all the Content you post on our Website that is covered by
+ intellectual property (for example, your comments, links, personal picture
+ or video), you give us a non-exclusive, transferable, sub-licensable,
+ royalty-free, worldwide license to use any of that information.
+ </p>
+ <p>
+ When you delete your account, all your personal information will
+ be deleted from our current database. It is possible that a copy of
+ your information will remain in some of our backups for a reasonable
+ period of time. However, this information will no longer be available
+ to the public and will only be conserved by Favorise INC. The comments
+ you posted will not be removed from our website. However, you can
+ remove your username by sending an email at
+ <a href="mailto:accounts@favorise.com">accounts@favorise.com</a> with your request.
+ </p>
+ </div>
+ </div>
+ <div id="main_footer" class="clear">
+ <div class="left_part">
+ <a href="/p/terms-of-use"><div class="left_links">terms of use</div></a>
+ <a href="/p/privacy"><div class="left_links">privacy policy</div></a>
+ <a href="/p/about-us"><div class="left_links">about us</div></a>
+ <a href="/p/contact-us"><div class="left_links">contact us</div></a>
+ <a href="/p/advertise"><div class="left_links">advertise</div></a>
+ <a href="/city/"><div class="left_links">other cities</div></a>
+ <a href="http://m.favorise.com/p/privacy/?mobile=true">
+ <div class="left_links">Mobile</div>
+ </a>
+ <a href="#" id="giveUsFeedback"><div class="left_links">Give us feedback</div></a>
+ <a href="/p/buttons"><div class="left_links">Buttons</div></a>
+ <a href="/p/faq"><div class="left_links">FAQ</div></a>
+ </div>
+ <div class="right_part">
+ <strong>Favorise</strong> is a social <strong>news aggregator</strong>. It aggregates the <strong>latest stories</strong> around the web and rises the <strong>most popular</strong> so you only get the finest information. <br><br>Customize it and it becomes your <strong>personal newspaper</strong>. Add your <strong>favorite topics</strong> and read only what <strong>matters</strong> to you. Give it a try!
+ </div>
+ <div class="clearboth"></div>
+ </div>
+
+ <div id="footer_disclaimer">
+ © 2011 FAVORISE INC. - By using this website in any way you agree to the
+ <a href="/p/terms-of-use" style="text-decoration: underline;">TERMS OF USE</a>
+ </div>
+ <div id="profileLink"></div>
+ <div id="memberInfoHandle"></div>
+ <div id="loginHandle"></div>
+ <div id="memberInfo"></div>
+ <div id="login"></div>
+ <script type="text/javascript">
+ $(function() {
+ login_register.logoff(); });
+ </script>
+ 
+<script type="text/javascript" src="/files/cache/combine/tailMTMxODk5MjgxOQ==-a84b6a96526282617c0d611d23e5bfe1_m.js"></script>
+
+ <!-- Piwik -->
+ <script type="text/javascript">
+ var pkBaseURL = (("https:" == document.location.protocol) ? "https://www.favorise.com/Api/" : "http://www.favorise.com/Api/");
+ document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+ </script><script src="https://www.favorise.com/Api/piwik.js" type="text/javascript"></script><script type="text/javascript">
+ try {
+ var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 2);
+ piwikTracker.trackPageView();
+ piwikTracker.enableLinkTracking();
+ } catch( err ) {}
+ </script><noscript><p><img src="http://www.favorise.com/Api/piwik.php?idsite=2" style="border:0" alt="" /></p></noscript>
+ <!-- End Piwik Tag --> <script type="text/javascript">
+ if (typeof console == "undefined") var console = {log: function() {}};
+ (function() {
+ if (MOBILE) return;
+ var cssPreloaded = {"800":".outsideLinkWrapper {\r\n margin: 0;\r\n}\r\n#main_content_max_width {\r\n margin: 0 0 0 0;\r\n}\r\n.otherContent {\r\n margin: 0 10px;\r\n}","1024":"#main_content_max_width {\r\n margin: 0 0 0 0;\r\n}\r\n.otherContent {\r\n margin: 0 10px;\r\n}","1280":"#main_content_max_width {\r\n margin: 0 8% 0 8%;\r\n}\r\n.otherContent {\r\n margin: 0 10%;\r\n}","1680":"#main_content_max_width {\r\n margin: 0 15% 0 15%;\r\n}","1920":"#main_content_max_width {\r\n margin: 0 15% 0 15%;\r\n}"}
+ var previousResolution = null;
+ var cssLink = $('<style/>').attr({
+ type: 'text/css'
+ }).appendTo('head');
+
+ $(window).resize(function(){
+ var w = $(window).width() + 100;
+
+ if (w <=1024) {
+ nextResolution = 800;
+ } else if (w < 1330) {
+ nextResolution = 1024;
+ } else if (w < 1680) {
+ nextResolution = 1280;
+ } else if (w < 1920) {
+ nextResolution = 1680;
+ } else {
+ nextResolution = 1920;
+ }
+ try {
+ if (nextResolution != previousResolution) {
+ cssLink.text(cssPreloaded[nextResolution]);
+ previousResolution = nextResolution;
+ }
+ } catch (e) {}
+ });
+ $(window).trigger('resize');
+ })();
+ </script> <div id="fb-root" style="display:none;"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+ <script>
+ window.fbAsyncInit = function() {
+ FB.init({
+ appId : '104980736253722',
+ channelUrl : 'http://www.favorise.com/channel.html',
+ status : true,
+ cookie : true,
+ xfbml : true
+ });
+ FB.Event.subscribe('auth.login', function() {
+ if (typeof login_register =="undefined" || !login_register.isLoggedin()) {
+ top.linkPopUp({
+ url: '/Api/facebook_login.php',
+ iframe: true,
+ title: 'Please choose your username',
+ css: {
+ width: '500px',
+ height: '150px'
+ }
+ });
+ }
+ });
+ FB.getLoginStatus(function(response) {
+ if (response.session) {
+ top.linkPopUp({
+ url: '/Api/facebook_login.php',
+ iframe: true,
+ title: 'Logging in',
+ css: {
+ width: '500px',
+ height: '150px'
+ }
+ });
+ }
+ });
+ };
+
+ (function() {
+ var e = document.createElement('script');
+ e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+ e.async = true;
+ document.getElementById('fb-root').appendChild(e);
+ }());
+ </script>
+ </body></html>
