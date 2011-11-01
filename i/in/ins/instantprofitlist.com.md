@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the instantprofitlist.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216170246id_/http%3A//www.instantprofitlist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantprofitlist.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233040id_/http%3A//www.instantprofitlist.com/privacy.php) for the most accurate reproduction.*
 
 # Free Viral List Builder
 
-[](http://instantprofitlist.com/bannerclick.php?id=10469)  
+[](http://instantprofitlist.com/bannerclick.php?id=25480)  
 
 
 Instant Profit List Privacy Policy
