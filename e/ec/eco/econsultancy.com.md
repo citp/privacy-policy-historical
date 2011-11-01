@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225113836id_/http%3A//econsultancy.com/us/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the econsultancy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145857id_/http%3A//econsultancy.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Econsultancy
 
@@ -47,7 +47,7 @@ Children are not eligible to use our services and we ask that minors (under 18 y
 
 ## 2\. Information We Collect
 
-Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customise our service to make your experience easier and quicker.
+Our primary goal in collecting personal information from you is to provide you with a smooth, efficient, and personalised experience while using our services. This allows us to provide services and features that most likely meet your needs, and to customize our service to make your experience easier and quicker.
 
 To fully use our services, you will need to join as a Member, where you will be required to provide us with your contact information and some other information relating to your professional employment. We automatically track certain information about you based upon your behavior on our site. We use this information to do internal research on our users' demographics, interests, and behavior to better understand and serve our users.
 
@@ -67,7 +67,7 @@ In addition, we use cookies on certain pages of our site. We may also offer cert
 
 ## 3\. Our Use of Your Information
 
-We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customise our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
+We use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customize our site's content, layout, and services. We believe these uses allow us to improve our site and better tailor it to meet our users' needs.
 
 We use your email address to send you newsletters or other communications (for example, digests of the forum posts) that you have requested from the Site. Out of respect for our users we offer an opt-out (see Section 4 below).
 
