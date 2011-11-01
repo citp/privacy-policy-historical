@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techpatio.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128165919id_/http%3A//techpatio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techpatio.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163102id_/http%3A//techpatio.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — TechPatio
 
