@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spilgames.com privacy policy that was archived on 2011-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110207052725id_/http%3A//www.spilgames.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spilgames.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125315id_/http%3A//www.spilgames.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spil Games
 
