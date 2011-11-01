@@ -1,10 +1,53 @@
-> *The following text is extracted and transformed from the busyagentpro.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302090824id_/http%3A//www.busyagentpro.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busyagentpro.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004210id_/http%3A//www.busyagentpro.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Terms & Conditions
 
 **BusyAgentPro.**
 
-**Privacy Statement**
+**Legal Terms & Conditions** ** & Privacy Statement **
+
+### Terms of Use
+
+The contents of www.BusyAgentPro.com are owned by BAP and are protected by the laws of the United States, its treaty countries and other jurisdictions. You may not modify, copy, reproduce, republish, upload, post, transmit, transfer, or distribute in any way any of the contents of this website. Copyright © 1998-2009 BAP, Inc. All rights reserved. If You have created a BAP Platnum account you have agreed to these terms at the time your account was created and therefore are bound by then without exception.
+
+### Proprietary Software
+
+BAP develops proprietary software. You shall have no rights to this proprietary software and related documentation, or any enhancements or modifications thereto. You may not copy, transcribe, distribute, disassemble, modify, reverse engineer, create derivative works from or otherwise reduce or alter BAP Software.
+
+Additionally, BAP may provide Clients with limited license use of its software. Clients agree and understand not to copy, transcribe, distribute, disassemble, modify, reverse engineer, create derivative works from or otherwise reduce or alter any BAP software.
+
+### Account Cancellation Policy
+
+The purpose of this policy is to protect the Client, as well as BAP. It prevents others from maliciously canceling a Client's account, and also provides the Client and BAP with written documentation of the Client's cancellation.
+
+All account cancellations must be made using the automated account cancellation link in your System Profile. This can be found by clicking the "Profile" button under the calendar in your BAP desktop. You will submit the following information to submit your cancellation request.
+
+  * Name
+  * Reason for Cancellation
+
+
+
+Once submit is pressed your account is automatically cancelled and all billing halted. BAP does not honor voicemails, fax or email requests for cancellation. 
+
+It is important that you understand that your cancellation request will not be complete until you submit the online cancellation form.
+
+BAP requires no long-term contracts. All accounts are billed monthly. It is the Client's responsibility to ensure that we have received the request for cancellation. We do not pro-rate any charges. You are billed according to the billing cycle that was established when your account was activated. Cancellation will occur instantly when requested; however we suggest you wait towards the end of the billing cycle to cancel your account.
+
+Once a Client has cancelled their service, BAP will no longer provide any support to the account. This includes, but is not limited to, customer service, technical support, and domain services. (i.e.- renewals, payments, modifications, DNS alterations, etc.)
+
+Please note that if the Client has a balance due at the time of cancellation, this balance must be paid in full. Cancellation does not absolve the Client of any outstanding financial obligations.
+
+* * *
+
+**Additional Privacy & General Terms & Conditions:**
+
+**1\. GENERAL**
+
+Platinum Memebrs agree not to use any content provided by BAP for any market othert than the markets(s) they are specifically approved for. This specifically pertainss to content that WE provide. Anyone found using content provided in the exclusive markets area for other unapproved areas either in whole or in part will be in violation of these terms and the account will be immediately terminated with no refunds given. Platinum usera are free to create custom copntent blogs and sites about other markets  
+
+
+**Rrivacy Policy:  
+**
 
 **I. GENERAL**
 
