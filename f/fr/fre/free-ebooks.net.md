@@ -1,137 +1,90 @@
-> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2007-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071012020113id_/http%3A//www.free-ebooks.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ebooks.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143538id_/http%3A//www.free-ebooks.net/privacy.html) for the most accurate reproduction.*
 
-# Free-ebooks.net | Privacy Policy
+# Privacy Policy
 
-##  Privacy Statement
+**Paradise Publishing, Inc. Privacy Notice**
 
-Paradise Publishers Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this web site: ParadisePublishers.com
+**Paradise Publishing, Inc.** (the “Company”) recognizes that its customers, visitors, users, and others who use www.free-ebooks.net or other web sites owned or operated by the Company (the “Websites”) (collectively or individually “Users”) value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Websites. Company provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Websites.
 
-###   
-IP Address 
+This Privacy Notice is incorporated into and is subject to the Company Terms of Service. Your use of the Websites and any personal information you provide on the Websites remains subject to the terms of this Privacy Notice and our Terms of Service.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. We may also track IP addresses for purposes of enrollment and/or subscription. 
+Please note that any manuscript, text, image, or other content posted at the direction of Users onto the Websites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
-###   
-Information Collection 
+**The Information the Company Collects**
 
-Nicolas Gremion is the sole owner of the information collected on paradisepublishers.com. Paradise Publishers Inc. collects information from our users at several different points on our Web site, i.e. for membership registration, paid subscription publications and products or services. 
-
-We run contests on our site in which we ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
-
-###   
-Information Sharing 
-
-**Sharing Personal Information with Third Parties**  
-We will never sell or give away your personal information to third parties for purposes of building contact lists, or anything of that nature, without your permission. Paradise Publishers Inc. stands firmly against any transfer of personal information for reasons of building the contact lists of third parties. 
-
-**Business Transition Exception**  
-In the event the Paradise Publishers Inc. goes through a business transition, such as a merger, or being acquired by another company, users’ personal information will, in most instances, be part of the assets transferred. We also use third party providers to accept credit cards and checks through Paysystems, 1Shoppingcart.com, Clickbank, and 2Checkout.com (each keeps your personal information separate, secure and confidential.)
-
-### Legal Disclaimer
-
-  
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
-
-###   
-"Cookies" 
-
-Our site uses cookies to keep track of your shopping cart. We also use cookies for tracking and properly crediting affiliates in our Affiliate Program (using services like Clickbank.com). 
-
-Our site's registration form requires users to give us contact information (such as their name and email address), unique identifiers (such as their Affiliate ID), and financial information (such as their account or credit card numbers). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications for registration in eBooks N' Bytes Affiliate Program and to bill the user for products and services. Unique identifiers (such as Affiliate IDs) are collected for use as account numbers in our record system. 
-
-###   
-Children 
-
-Paradise Publishers Inc. does not knowingly collect or solicit personally identifiable information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe Paradise Publishers has any information from or about anyone under 13, please contact us at the address listed below. 
-
-###   
-Links 
-
-This site contains links to other sites. Paradis Publishers Inc. is not responsible for the privacy practices of such Web sites. Paradise Publishers is not responsible for any content on any linked sites or for any goods or services available from them. 
-
-Paradise Publishers Inc. works hard to ensure that the information contained on our web pages is accurate, relevant and of the high quality that our visitors have come to expect. 
-
-We are aware of software that exists which will create external links from our content to what they consider to be related material, which other companies have paid to have shown. We are not responsible for the quality of this software or the nature of the material that it links to. 
-
-We emphasize that we are strictly against this form of unmoderated and unregulated link advertising and strictly prohibit its use within our site content. 
-
-### Public Forums 
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
-
-###   
-Security 
-
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-##  
-
-## Choice/Opt-Out
-
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. 
-
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
-
-  1. You can send email to [ customerservice@Free-eBooks.net](mailto:customerservice@free-ebooks.net)
-  2. You can send mail to the following postal address:  Nicolas Gremion, CANADA, Tel : 604-6287898
+  * **User Provided Information:** You provide certain personally identifiable information (such as your name and email address) to the Company when choosing to participate in various activities on the Websites such as uploading or downloading ebooks, videos, posting messages in our forums, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+  * **Cookies Information:** When you visit the Websites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. The Company uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Websites may not function properly if the ability to accept cookies is disabled.
+  * **Log File Information:** When you use the Websites, our servers automatically record certain information that your web browser sends whenever you visit any Websites. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.
+  * **Clear GIFs Information:** When you use the Websites, we may employ “clear GIFs” (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. 
 
 
 
-## Governing law 
+**The Way the Company Uses Information**
 
-This policy and the use of this Site are governed by British Columbian law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: British Columbia, Canada. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us. 
-
-If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: British Columbia, Canada, under the rules of the BC Arbitration and Mediation Institute (BCAMI). Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so. 
-
-Paradise Publishers is controlled, operated and administered entirely within British Columbia, Canada. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
-
-## Correct/Update
-
-This site gives users the following options for changing and modifying information previously provided. 
-
-  1. email [ customerservice@Free-eBooks.net](mailto:customerservice@free-ebooks.net)
-  2. send mail to the following postal address:  Nicolas Gremion, CANADA, Tel : 604-6287898
+  * If you submit personally identifiable information to us through the Websites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Websites.
+  * Any personal information or content that you voluntarily disclose online (on discussion boards, posting manuscripts in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your name (not your email address) is displayed to other Users when they download any manuscripts you have uploaded to the Website. Any manuscripts that you submit to the Websites may be redistributed through the internet and other media channels, and may be viewed by the general public.
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Website changes or for customer service purposes).
+  * We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Websites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.
+  * We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Websites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests. 
 
 
 
-## Contacting the Web Site
+**When the Company Discloses Information**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
+  * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Websites.
+  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
+  * The Company also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that the Company believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/web/20111101143538id_/http%3A//www.free-ebooks.net/tos.html), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of the Company, our Users or others.
 
-Nicolas Gremion   CANADA [CustomerService@Free-eBooks.net](mailto:CustomerService@Free-eBooks.net)  
 
-Paradise Publishers Inc. reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. 
 
-**Other sites in the Paradise Publishers Inc. Network that are governed by this privacy policy:**
+**Your Choices**
 
-**[ http://www.ebookcompilers.com/](http://www.ebookcompilers.com/)**
+You may, of course, decline to submit personally identifiable information through the Websites, in which case, the Company may not be able to provide certain services to you. You may update or correct your personal information and email preferences at any time by visiting your account profile page. Please note that any manuscripts uploaded by Users to the Websites cannot be removed and remain subject to our Terms of Service.
 
-**[ http://www.ebookcreate.com/](http://www.ebookcreate.com/)**
+To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-**[ http://www.ebook-reviews.net/](http://www.ebook-reviews.net/)**
+Please contact the Company with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices using this [contact form](https://web.archive.org/web/20111101143538id_/http%3A//www.free-ebooks.net/contactus.php#contactform).
 
-**[ http://www.ebookbroadcast.com/](http://www.ebookbroadcast.com/)**
+**Third-party Advertisers, Links to Other Sites**
 
-**[ http://www.ebook-promotion.com/](http://www.ebook-promotion.com/)**
+The Company allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Websites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Websites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.
 
-**[ http://www.free-ebooks.net/](http://www.free-ebooks.net/)**
+The Company does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks the Company to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Websites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.
 
-**[ http://www.ebook-templates.com/](http://www.ebook-templates.com/)**
+You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. The Company's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-**[ http://www.ebookpublishingtips.com/](http://www.ebookpublishingtips.com/)**
+**Our Commitment To Data Security**
 
-**[ http://www.epublicdomain.com/](http://www.epublicdomain.com/)**
+The Company uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to the Company and you do so at your own risk. Once we receive your transmission of information, the Company makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-[ http://www.site-reference.com/](http://www.site-reference.com/)
+If the Company learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. The Company may post a notice on the Websites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this [contact form](https://web.archive.org/web/20111101143538id_/http%3A//www.free-ebooks.net/contactus.php#contactform).
 
-[ http://www.towersearch.com/](http://www.towersearch.com/)
+**Our Commitment To Children’s' Privacy**
 
-[ http://www.onesmartcart.com/](http://www.onesmartcart.com/)
+Protecting the privacy of young children is especially important. For that reason, the Company does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Websites from persons under 13 years of age, and no part of our Websites is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Websites at any time or in any manner. If the Company learns that personally identifiable information of persons under 13 years of age has been collected on the Websites without verified parental consent, then the Company will take the appropriate steps to delete this information.
 
-[ http://www.freearticleworld.com/](http://www.freearticleworld.com/)
+Compliance With Main Predatory Marketing Law
 
-* * *
+The Company does not knowingly collect or maintain personally identifiable information on the Website from persons under the age of 18 whose IP address shows that person is located in Main. If you are under 18 and are located in Main, then please do not use or access the Website at any time or in any manner 
 
-Site Network Maintained By [Paradise Publishers Inc.](http://www.paradisepublishers.com/)  
-Nicolas Gremion, Canada, Tel : 604-6287898  
-Contact us at [ customerservice@Free-eBooks.net](mailto:customerservice@free-ebooks.net)
+**Special Note to International Users**
+
+The Websites(s) are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Websites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Websites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
+
+**In the Event of Merger, Sale, or Bankruptcy**
+
+In the event that the Company is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+**Changes and updates to this Privacy Notice**
+
+This Privacy Notice may be revised periodically and this will be reflected by the “effective date” below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Notice in effect when we received the personal information you provided. Your continued use of the Websites constitutes your agreement to this Privacy Notice and any future revisions.
+
+For revisions to this Privacy Notice that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.
+
+**Date Last Modified:**  
+This Privacy Notice was last modified August 11, 2009.
+
+**Contact Information:**  
+Please contact the Company with any questions or comments about this Privacy Notice using this [contact form](https://web.archive.org/web/20111101143538id_/http%3A//www.free-ebooks.net/contactus.php#contactform) found at free-ebooks.net.
