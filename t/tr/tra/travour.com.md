@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travour.com privacy policy that was archived on 2010-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100410072821id_/http%3A//www.travour.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travour.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235620id_/http%3A//www.travour.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -81,3 +81,7 @@ Finally, you are solely responsible for maintaining the secrecy of your password
 **10\. Is there any children's privacy?**
 
 Yes, the safety of children is very important to us. Children should always ask a parent for permission before sending personal information to Compare Infobase Pvt. Ltd, or to anyone online for that matter. Travour.com does not share personal information about users under the age of 13 with third parties under any circumstances unless there is a special situation and such information is requested by law enforcing agency and we do not sell or rent personal information about any of our users, regardless of their age. In addition, Travour.com will not send any direct email offers to users who indicate they are under the age of 14 without first obtaining their parents' permission. 
+
+**11\. Advertising cookies**
+
+This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs',advertisement impressions,and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors.No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network,please see Travel Ad Network?s privacy policy at http://www.traveladnetwork.com/content/view/56/79/. 
