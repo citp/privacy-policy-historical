@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localbuzz.us privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305041448id_/http%3A//www.localbuzz.us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localbuzz.us privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005847id_/http%3A//www.localbuzz.us/privacy.html) for the most accurate reproduction.*
 
-# Terms and Conditions | LocalBuzz
+# Privacy Policy | LocalBuzz
 
 ## Privacy Notice 
 
@@ -67,4 +67,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us**
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [info@Localbuzz.us](https://web.archive.org/web/20110305041448id_/http%3A//www.localbuzz.us/info@localbuzz.us).
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@Localbuzz.us](https://web.archive.org/web/20111102005847id_/http%3A//www.localbuzz.us/info@localbuzz.us).
