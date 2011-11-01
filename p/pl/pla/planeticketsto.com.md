@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planeticketsto.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423235837id_/http%3A//www.cdnpages.ca/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planeticketsto.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140254id_/http%3A//www.cdnpages.ca/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy on Cdnpages
 
