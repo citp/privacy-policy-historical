@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onemotoring.com.sg privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617211243id_/http%3A//www.onemotoring.com.sg/publish/onemotoring/en/bottomwebwide/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onemotoring.com.sg privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123528id_/http%3A//www.onemotoring.com.sg/publish/onemotoring/en/bottomwebwide/privacy_statement.html) for the most accurate reproduction.*
 
 # ONE.MOTORING - Privacy Statement
 
