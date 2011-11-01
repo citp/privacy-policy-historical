@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proximus.be privacy policy that was archived on 2010-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100721122833id_/http%3A//customer.proximus.be/en/Legal/LGL_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proximus.be privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154933id_/http%3A//customer.proximus.be/en/Legal/LGL_Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Proximus
 
