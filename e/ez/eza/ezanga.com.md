@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629230449id_/http%3A//www.ezanga.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezanga.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101150334id_/http%3A//www.ezanga.com/about/privacy.php) for the most accurate reproduction.*
 
 # eZanga.com | The Frog History
 
