@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the isango.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101034015id_/http%3A//www.isango.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isango.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223303id_/http%3A//www.isango.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy
 
-This is the privacy policy of isango! Limited, a company incorporated in England and Wales, with registered offices at 30 Poland Street, London W1F 8QS
+This is the privacy policy of isango! Limited, a company incorporated in England and Wales, with registered offices at 30 Poland Street, London W1F 8QS, UK
 
 isango! understands and respects the importance of your privacy and visitors to our websites can be assured that the protection of privacy is given the highest possible priority. All personal information that we collect is used and held to comply in every way possible with the Data Protection Act 1998. isango! only obtains personal information from you if we ask for it and you provide it to us. Please read on to understand how we use the information you give us before using the isango! web pages. Please note use of the isango! web pages and services is conditional upon you agreeing to be bound by this privacy policy.
 
@@ -56,7 +56,7 @@ We use your personal information to enable us and our service partners to provid
 
 We or our service partners may from time to time send you information about our new products or ask your opinion on new product initiatives so that we may improve our service to you and other consumers. If you do not want isango! to contact you in the future please ensure you check the tick boxes where we indicate at various points within the site.
 
-Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, click here.hyperlink.
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here.](https://reports.web.analytics.yahoo.com/optout,OptOut.vm)
 
 We do not share your personal information with third party organizations who are not involved in fulfilling the purchases you have made from us or as described above.
 
