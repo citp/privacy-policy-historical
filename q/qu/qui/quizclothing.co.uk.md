@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604022238id_/http%3A//www.quizclothing.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizclothing.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114818id_/http%3A//www.quizclothing.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,7 +45,7 @@ Quiz is committed to protecting the privacy of our customers and will not disclo
 
 ##  5\. User Access
 
-5.1 Username and passwords are provided to you as a customer of Quiz. This allows you private access to information that we are holding, like the account information. You are able to access your online account anytime…anywhere. If you wish to update, amend or delete any details, the online account gives you this access. Under the Data Protection Act 1998, you are also entitled to view any information we hold on you by paying a small fee. If any information on you is incorrect, please inform us immediately and we will make the necessary changes and contact you with confirmation of the changes.
+5.1 Username and passwords are provided to you as a customer of Quiz. This allows you private access to information that we are holding, like the account information. You are able to access your online account anytimeâ€¦anywhere. If you wish to update, amend or delete any details, the online account gives you this access. Under the Data Protection Act 1998, you are also entitled to view any information we hold on you by paying a small fee. If any information on you is incorrect, please inform us immediately and we will make the necessary changes and contact you with confirmation of the changes.
 
 * * *
 
@@ -63,4 +63,4 @@ Quiz is committed to protecting the privacy of our customers and will not disclo
 
 ##  8\. YOUR RIGHTS UNDER THE DATA PROTECTION ACT 1998
 
-8.1 You have a right to access the personal data that we hold on you. If you would like to see a copy please send a £10.00 and a written request to the Data Protection Manager, Quiz Clothing, 61 Hydepark Street, Glasgow, Scotland, G3 8BW quoting "Security and Privacy Enquiries". If you think the information we hold on you is incorrect please contact the Data Protection Manager quoting "Security and Privacy Enquiries".
+8.1 You have a right to access the personal data that we hold on you. If you would like to see a copy please send a Â£10.00 and a written request to the Data Protection Manager, Quiz Clothing, 61 Hydepark Street, Glasgow, Scotland, G3 8BW quoting "Security and Privacy Enquiries". If you think the information we hold on you is incorrect please contact the Data Protection Manager quoting "Security and Privacy Enquiries".
