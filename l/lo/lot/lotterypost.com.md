@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lotterypost.com privacy policy that was archived on 2010-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100703025037id_/http%3A//www.lotterypost.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lotterypost.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234218id_/http%3A//www.lotterypost.com/privacy.aspx) for the most accurate reproduction.*
 
-# Lottery Post Privacy Statement
+# Privacy Statement | Lottery Post
 
 The Lottery Post privacy policy is simple:
 
