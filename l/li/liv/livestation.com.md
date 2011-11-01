@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423041103id_/http%3A//www.livestation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livestation.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130349id_/http%3A//www.livestation.com/privacy) for the most accurate reproduction.*
 
 # Livestation privacy policy | Livestation
 
@@ -113,7 +113,7 @@ Except for amendments required by law, the Policy at the date that the personal 
 
   13. ## Contact details
 
-If you have any questions about this Policy or our use of your Personal Information, you may contact us either by email to [privacy@livestation.com](mailto:privacy@livestation.com) or by writing to us at: Livestation Privacy Officer, Livestation Ltd., 28-30 Kirby Street, London, EC1N 8TE, United Kingdom. 
+If you have any questions about this Policy or our use of your Personal Information, you may contact us either by email to [privacy@livestation.com](mailto:privacy@livestation.com) or by writing to us at: Livestation Privacy Officer, Livestation Ltd, The Trampery, 13-19 Bevenden Street, London, N1 6AA, United Kingdom. 
 
 
 
