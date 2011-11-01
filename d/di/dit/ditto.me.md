@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ditto.me privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306172702id_/http%3A//www.ditto.me/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ditto.me privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101073756id_/http%3A//www.ditto.me/privacy.html) for the most accurate reproduction.*
 
 # Ditto - Privacy Policy
 
