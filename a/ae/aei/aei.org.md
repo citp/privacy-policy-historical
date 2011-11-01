@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aei.org privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610153434id_/http%3A//www.aei.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aei.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222158id_/http%3A//www.aei.org/privacy) for the most accurate reproduction.*
 
 # AEI - Privacy Policy
 
