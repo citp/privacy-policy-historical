@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the everymac.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615170602id_/http%3A//www.everymac.com/articles/admin/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everymac.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122948id_/http%3A//www.everymac.com/articles/admin/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy @ EveryMac.com
 
 ### Privacy Policy @ EveryMac.com
 
-Please read and understand the following privacy statement before using any information or services provided by [EveryMac.com](http://www.everymac.com/) and [EveryiPod.com](http://www.everyipod.com/) (hereinafter referred to as "EveryMac.com").
+Please read and understand the following privacy statement before using any information or services provided by [EveryMac.com](https://web.archive.org/) and [EveryiPod.com](http://www.everyipod.com/) (hereinafter referred to as "EveryMac.com").
 
 ###  Privacy Statement
 
@@ -41,7 +41,7 @@ EveryMac.com, and the principal author thereof, is the sole owner of all informa
 
 **Contest Winners:** In the event that you win a prize from EveryMac.com, you will be notified of winning, and permission will be requested to provide your name, e-mail address, and postal mailing address to the sponsoring company, so they can ship your prize to you. Obviously, if your postal mailing address is not shared, you will not be able to receive your prize, as it has to be shipped to you. Nevertheless, you will be given the option of declining your prize. If you do not win a prize in an EveryMac.com contest, your information will not be shared. However, aggregate member demographic information is shared with contest sponsors.
 
-**Legal:** In the event that you are allegedly involved in any type of criminal activity using the EveryMac.com website or services, and EveryMac.com is subpoenaed to release your membership information, EveryMac.com is required by law to comply with the subpoena. EveryMac.com also reserves the right to disclose membership information in special cases when releasing the information is necessary to identify, contact, or bring legal action against any individual who has blatantly or repeatedly violated the [Terms of Use](https://web.archive.org/web/20110615170602id_/http%3A//www.everymac.com/articles/admin/termsofuse.html) agreement.
+**Legal:** In the event that you are allegedly involved in any type of criminal activity using the EveryMac.com website or services, and EveryMac.com is subpoenaed to release your membership information, EveryMac.com is required by law to comply with the subpoena. EveryMac.com also reserves the right to disclose membership information in special cases when releasing the information is necessary to identify, contact, or bring legal action against any individual who has blatantly or repeatedly violated the [Terms of Use](https://web.archive.org/web/20111101122948id_/http%3A//www.everymac.com/articles/admin/termsofuse.html) agreement.
 
 EveryMac.com does not sell or rent information about individual users to anyone for any reason. However, EveryMac.com does share aggregate demographic information with advertisers, sponsors, and business partners, but this information is not linked to any personal information that could identify any individual person. However, in the event that EveryMac.com or substantially all of its assets are acquired, member information will be one of the transferred assets.
 
@@ -79,8 +79,8 @@ All members of EveryMac.com should be aware that the EveryMac.com website includ
 
 EveryMac.com reserves the right to change this privacy policy at any time. In the event that a decision is made to change the privacy policy, a notice regarding the change will be posted on the EveryMac.com homepage so that you will always be aware of what information EveryMac.com collects, how it is used, and under what circumstances, if any, it is disclosed. If at any point EveryMac.com decides to use personally identifiable information in a manner different from that stated at the time it was collected, you, and all other members, will be notified by email. All members will have a choice as to whether or not EveryMac.com uses their information in this different manner. EveryMac.com will use information in accordance with the privacy policy under which the information was collected.
 
-If you have any additional questions regarding EveryMac.com and your privacy, please use the [Contact](http://www.everymac.com/articles/admin/contact.html) form. Thank you for supporting EveryMac.com!
+If you have any additional questions regarding EveryMac.com and your privacy, please use the [Contact](https://web.archive.org/articles/admin/contact.html) form. Thank you for supporting EveryMac.com!
 
-<< [Back Home](http://www.everymac.com/)
+<< [Back Home](https://web.archive.org/)
 
-EveryMac.com is provided "as is" without warranty of any kind whatsoever. EveryMac.com, and the author thereof, shall not be held responsible or liable, under any circumstances, for any damages resulting from the use or inability to use the information within. For complete disclaimer and copyright information please read and understand the [Terms of Use](http://www.everymac.com/articles/admin/termsofuse.html) and the [Privacy Policy](http://www.everymac.com/articles/admin/privacy.html) before using EveryMac.com. Use of any content or images without expressed permission is not allowed, although links to any page are welcomed and appreciated.
+EveryMac.com is provided "as is" without warranty of any kind whatsoever. EveryMac.com, and the author thereof, shall not be held responsible or liable, under any circumstances, for any damages resulting from the use or inability to use the information within. For complete disclaimer and copyright information please read and understand the [Terms of Use](https://web.archive.org/articles/admin/termsofuse.html) and the [Privacy Policy](https://web.archive.org/articles/admin/privacy.html) before using EveryMac.com. Use of any content or images without expressed permission is not allowed, although links to any page are welcomed and appreciated.
