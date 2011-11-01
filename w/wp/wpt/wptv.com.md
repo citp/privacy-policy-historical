@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107101818id_/http%3A//www.wptv.com/dpp/about_us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wptv.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163251id_/http%3A//www.wptv.com/dpp/about_us/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -63,9 +63,9 @@ We may offer chat rooms, blogs, message boards, bulletin boards, or similar publ
 
 E. CHILDREN
 
-The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly collect
+The features, programs, promotions and other aspects of our Website requiring the submission of personally identifiable information are not intended for children. We do not knowingly
 
-personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at the e-mail address or postal address listed above. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
+collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at the e-mail address or postal address listed above. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof.
 
 F. KEEPING YOUR INFORMATION SECURE
 
