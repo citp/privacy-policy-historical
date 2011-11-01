@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515104110id_/http%3A//www.videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoconverterfactory.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131233id_/http%3A//www.videoconverterfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Video Converter Factory Corporation Privacy Policy
 
