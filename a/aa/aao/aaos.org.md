@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425034501id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaos.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101210332id_/http%3A//www.aaos.org/about/webpolicies/privpol.asp) for the most accurate reproduction.*
 
 # Privacy Policy - AAOS
 
@@ -7,7 +7,7 @@ The American Academy of Orthopaedic Surgeons and the American Association of Ort
 **What Information May Be Collected?**
 
   1. Information from AAOS Fellows and Members  
-AAOS collects certain personal information from its Fellows and Members to ensure that AAOS records are accurate and up-to-date. This information includes:
+AAOS collects certain personal information from its Fellows and Members to ensure that AAOS records are accurate and up-to-date. This information may include:
     * First and last name
     * Home or office postal mailing address, including street name and name of city or town
     * E-mail address (when provided)
@@ -16,11 +16,11 @@ AAOS collects certain personal information from its Fellows and Members to ensur
     * Personal website address (when provided)
     * Birth date
     * Gender
-    * Social Security Administration (SSA) number
     * Orthopaedic residency program 
     * AAOS Fellowship/Membership status 
     * AAOS identification number
-    * Credit card information (if purchases are made) 
+    * National Provider Identifier (NPI) number (only from those residing in the U.S.A.)
+    * Credit card information (if purchases are made) – AAOS is Payment Card Industry (PCI) compliant; no credit card numbers are stored on our servers
     * Educational background, including residency sites and dates of certification or recertification by the American Board of Orthopaedic Surgery (ABOS) or the American Osteopathic Board of Orthopaedic Surgery (AOBOS) 
     * Participation in AAOS Continuing Medical Education (CME) programs
     * Participation in Continuing Medical Education (CME) programs of some other orthopaedic organizations
@@ -30,7 +30,7 @@ AAOS collects certain personal information from its Fellows and Members to ensur
     * Information regarding the use of Orthopaedic Knowledge Online (OKO)
     * For purchases, a record of all AAOS examinations, books, CD-ROMs, DVDs, videotapes, audiotapes and patient education materials ordered  
 
-    * their discretion, Fellows and Members may supply AAOS with certain demographic information about their practices, including age specialties (adult, child), anatomical specialties, treatment specialties, and other census data. 
+    * At their discretion, Fellows and Members may supply AAOS with certain practice demographic information, including age (adult, child), anatomical, and treatment specialties, and other related information. 
 
 In addition, the AAOS may on occasion collect information about AAOS Fellows and Members from various federal agencies (e.g., the Federal Election Commission). 
 
@@ -42,32 +42,31 @@ In addition, the AAOS may on occasion collect information about AAOS Fellows and
     * Telephone number(s) (when provided)
     * Fax number(s) (when provided)
     * Birth date
-    * Social Security Administration (SSA) Number
     * Orthopaedic residency program
-    * Credit card information (if purchases are made)
+    * AAOS identification number
+    * National Provider Identifier (NPI) number (only from those residing in the U.S.A.)
+    * Credit card information (if purchases are made) – AAOS is Payment Card Industry (PCI) compliant; no credit card numbers are stored on our servers
     * Age
     * Gender
     * Profession and job title; institutional affiliation 
     * Membership in professional organizations 
-    * Survey information (e.g., How did you hear about AAOS/ AAOS products? What periodicals does the purchase decision-maker regularly read?)
+    * Survey information (e.g., How did you hear about AAOS/ AAOS products? What periodicals does the purchasing decision-maker regularly read?)
     * Information regarding the use of Orthopaedic Knowledge Online (OKO)
     * For purchases, a record of AAOS examinations, books, CD-ROMs, DVDs, videotapes, audiotapes and patient education materials ordered 
-    1. AAOS collects certain personal information online from non-orthopaedists who contact the AAOS to participate in research surveys or to obtain particular orthopaedic information. This information includes:
+    1. AAOS collects certain personal information online from non-orthopaedists who contact the AAOS to participate in research surveys or to obtain particular orthopaedic information. This information may include:
     * First and last name
     * Home or office postal mailing address, including street name and name of city or town
     * E-mail address (when provided)
     * Telephone number(s)
     * Information regarding the use of the Orthopaedic Knowledge Online (OKO)
     * Personal accounts regarding musculoskeletal care
-  3. Information from suppliers of good and services to AAOS
-  4. AAOS pays an individual or entity for services or goods rendered, an honorarium or a stipend, AAOS collects at a minimum the following information:
+  3. Information from suppliers of goods and services to AAOS. If AAOS pays an individual or entity for services or goods rendered, an honorarium or a stipend, AAOS collects at a minimum the following information as required by the Internal Revenue Service W-9 form:
     * First and last name
     * Home or office postal mailing address, including street name and name of city or town
-    * Social Security Administration (SSA) number 
-    * Information regarding the use of the Orthopaedic Knowledge Online (OKO)
-  5. AAOS does not knowingly collect information from children under age 13.
-  6. AAOS encrypts sensitive personal data, such as credit card information, while being transmitted on the Internet. Credit card information is transmitted securely using SSL encryption.
-  7. The AAOS website is not set up to track, collect or distribute personal information about its visitors. It does recognize the home server of visitors, but not e-mail addresses. For example, AAOS can determine which Internet service provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites
+    * Tax Identification Number
+  4. AAOS does not knowingly collect information from children under age 13.
+  5. AAOS encrypts sensitive personal data, such as credit card information, while being processed on the Internet. Credit card information is transmitted securely using SSL encryption.
+  6. The AAOS website is not set up to track, collect or distribute personal information about its visitors. It does recognize the home server of visitors, but not e-mail addresses. For example, in the non-password protected areas of the AAOS.org web site, AAOS can determine which Internet service provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our sites. Once a member or customer logs into the AAOS.org web site, it is possible to determine which areas of the web site they visited.
 
 
 
@@ -77,34 +76,34 @@ In addition, the AAOS may on occasion collect information about AAOS Fellows and
   2. Personal information will **_not be released to third parties_** _except_ as noted below: 
     * Upon request, the AAOS may provide the names and postal mailing addresses of its Fellows and Members to orthopaedic specialty societies that are members of the Board of Specialty Societies (BOS) for use in encouraging participation in Continuing Medical Education (CME) programs. 
     * Upon request, the AAOS may provide the names and postal mailing addresses of its Fellows and Members to state and regional orthopaedic societies for recruitment purposes only. The AAOS shall provide such list only once annually and the state or regional orthopaedic society agrees to use it only once annually. The state or regional orthopaedic society mailing to AAOS Fellows and Members in that state or region is subject to the approval of the AAOS. 
-    * Upon request, the AAOS may provide the names and postal mailing addresses of its Fellows and Members to not-for-profit organizations whose missions are consistent with the mission of the AAOS, upon the review and approval of the Chief Executive Officer.
-    * The AAOS makes available the AAOS Membership Directory at no charge on the Internet to AAOS Fellows and Members. A hard copy version of the AAOS Membership Directory is available for purchase to AAOS Fellows and Members. This Membership Directory contains the name, postal mailing address, telephone and Fax number, membership status, and year of admittance to the AAOS of AAOS Fellows and Members. Associate Resident Members, Associate Candidate Members and the International Affiliate Members are not included in the AAOS Membership Directory. 
-    * Members of the public, through the AAOS website's _Find an Orthopaedist_ listing, may obtain limited information about the AAOS Fellow or Member, including only the Fellow or Member's name, postal mailing address, and telephone number. Use of this information to compile mailing lists—for any purpose—is expressly prohibited. In addition, the AAOS Fellow or Member may have or create a personal webpage that will be accessible, if AAOS has the information, from the AAOS website's _Find an Orthopaedist_ listing. 
-    * The Private Membership Directory, accessible to AAOS members, displays the same information as _Find an Orthopaedist_ but also includes E-mail addresses if known. Use of the Private Membership Directory for the use of compiling e-mail distribution lists—for any purpose—by an AAOS member or anyone working on his or her behalf, is expressly prohibited.
-    * Annual Meeting registration lists, including the medical registrant’s name and postal mailing address, are available for sale to exhibitors in advance of and after the Annual Meeting. In addition, certain personal information, including the medical registrant’s name, postal mailing address, hospital affiliation and practice focus, is available at the Annual Meeting to exhibitors through a "lead system" mechanism. 
-    * CME course registration lists, including the attendee’s name and postal mailing address, are available at no charge to companies providing educational displays and/or providing equipment (for skills courses) after the AAOS CME course.
+    * Upon request, for a fee, the AAOS may provide the names and postal mailing addresses of its Fellows and Members to not-for-profit organizations whose missions are consistent with the mission of the AAOS. The mailing is subject to the approval of the AAOS and the organization agrees to use the list only once. Use of this information to compile mailing lists—for any purpose—is expressly prohibited.
+    * The AAOS makes available the AAOS Membership Directory at no charge on the Internet to AAOS Fellows and Members. A hard copy version of the AAOS Membership Directory is available for purchase to AAOS Fellows and Members. This Membership Directory contains the name, postal mailing address, telephone and Fax number, membership status, and year of admittance to the AAOS of Fellows and Members. Associate Resident Members, Associate Candidate Members, International Affiliate Members, and International Resident Members are not included in the AAOS Membership Directory. 
+    * Members of the public, through the AAOS website's _Find an Orthopaedist_ listing, may obtain limited information about an AAOS Fellow or Member, including only the Fellow or Member's name, office postal mailing address, telephone and fax number, and practice demographics. Each member’s status (e.g., resident, candidate member, Fellow, etc.) is also listed. For Fellows, the year they became Fellows accompanies the listing. In addition, AAOS Fellows or Members who have a web site may elect to display its link in the _Find an Orthopaedist_ listing. Use of this information to compile mailing lists—for any purpose—is expressly prohibited.
+    * The Private Membership Directory, accessible only to AAOS members, displays the same information as _Find an Orthopaedist_ but also includes E-mail addresses if known. A member’s home city, state, country, and postal code are also listed if known, but not his street address. Use of the Private Membership Directory for the use of compiling e-mail distribution lists—for any purpose—by an AAOS member or anyone working on his or her behalf, is expressly prohibited.
+    * Annual Meeting registration lists, including the medical registrant’s name and postal mailing address, are available for sale to exhibitors in advance of and after the Annual Meeting. In addition, certain personal information, including the medical registrant’s name, postal mailing address, hospital affiliation and practice focus, is available at the Annual Meeting to exhibitors through a "lead retrieval system" mechanism. 
+    * CME course registration lists, including the attendee’s name and postal mailing address, are available at no charge to companies providing educational displays and/or providing equipment (for skills courses) after an AAOS CME course.
     * AAOS may provide the names, postal mailing addresses, and telephone and Fax numbers of AAOS Fellows and Members to third party organizations with whom the AAOS has contracted to provide courses, goods or services. 
-    * AAOS may provide names, postal mailing addresses, and purchase history information regarding International Affiliate Members and other non-US physicians to international distribution agents on a case-by-case, per request basis.
-  3. At the current time, we are aware of no other circumstances under which AAOS will provide or sell personal information collected online to third parties. 
+    * The National Provider Identifier (NPI) number may be given to exhibitors who are required to report to the government payments they have provided to health care providers, including orthopaedic surgeons.
+  3. At the current time, we are aware of no other circumstances under which AAOS will provide personal information collected online to third parties. 
 
 
 
 **Can the Personal Information Be Viewed and/or Corrected?**
 
-The AAOS encourages AAOS Fellows and Members to update and correct their personal information regularly online. A review and update section is included on the AAOS web site under the _Member Services_ ( _[www.aaos.org/myprofile](http://www.aaos.org/myprofile)_ ) section to make these changes. 
+The AAOS encourages its Fellows and Members as well as its Customers to update and correct their personal information regularly online. A review and update section is included on the AAOS web site under the _Member Services_ ( _[www.aaos.org/myprofile](http://www.aaos.org/myprofile)_ ) section to make these changes. 
 
-**How Long will the Personal Information be Retained?**
+**How Long will the Personal Information Be Retained?**
 
 The AAOS retains personal information regarding AAOS Fellows and Members indefinitely. 
 
-AAOS retains personal customer data provided for at least five years and as dictated by business and legal requirements.
+AAOS retains customer data for at least five years and as dictated by business and legal requirements.
 
 **Permission to Disseminate the Personal Information/Opt Out of its Being Disseminated?**
 
-There is currently no mechanism for orthopaedic surgeons, including AAOS Fellows and Members, to opt-out of dissemination to third parties of the personal information described in this policy. It is possible for orthopaedic surgeons to opt out of _all_ (but not only some) AAOS web site functions. 
+There is currently no mechanism for orthopaedic surgeons, including AAOS Fellows and Members, to opt-out of dissemination to third parties of the personal information described in this policy. It is possible for orthopaedic surgeons to opt out of _all_ AAOS web site functions. Members can via the web site separately unsubscribe to _Headline News Now_ and Advocacy _Now_. Members can also opt out of the paper version of the Journal of the American Academy of Orthopaedic Surgeons (JAAOS) by contacting Customer Service.
 
-AAOS generally does not disseminate to third parties personal information provided from non-orthopaedic surgeons. 
+AAOS generally does not disseminate personal information obtained from non-orthopaedic surgeons to third parties. 
 
 **Effective Date:**
 
-This policy has been in effect since June, 2000, and was most recently revised in September, 2009. It will continue in effect until further notice from AAOS. Modifications to this policy shall be posted as the “Privacy Policy” linked to the AAOS homepage. 
+This policy has been in effect since June, 2000, and was most recently revised in October, 2011. It will continue in effect until further notice from AAOS. Modifications to this policy shall be posted as the “Privacy Policy” linked to the AAOS homepage. 
