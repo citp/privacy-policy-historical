@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socyberty.com privacy policy that was archived on 2011-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110209114429id_/http%3A//socyberty.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socyberty.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101154941id_/http%3A//socyberty.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -29,8 +29,51 @@
 <meta property="og:site_name" content="Socyberty">
 <meta property="og:title" content="Privacy Policy">
 <meta property="og:url" content="http://socyberty.com/privacy-policy/">
+<meta property="og:description" content="Flag It
+						Spam
+						Adult Content
+						Plagiarism
+						Insufficient Quality
+						Wrong Category
+					
+				
+					
+					
+				
+					
+						Select the Right Category
+						About Writing
+						Autos
+						Books
+						Business
+						Computers
+						Creative Writing
+						Domestic
+						Gaming
+						General
+						Health
+						Internet
+						Movies
+						Music
+						News
+						Offbeat
+						Pets
+						Poetry
+						Recipes
+						Religion
+						Science
+						Short Stories
+						Society
+						Sports
+						Television
+						Travel
+						Women
+					
+				if (typeof triond_writer_id != &quot;undefined&quot;) document.getElementById('flagit_div').style.display='block';">
 <meta property="og:type" content="article">
-<script type="text/javascript" src="http://socyberty.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
+ 
+	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
+	<script type="text/javascript" src="http://socyberty.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
 <script type="text/javascript">
 //<![CDATA[
 function doILikeIt( website_channel_article_id,blog_id,post_id )
@@ -38,7 +81,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
    document.getElementById('iLikeItLinkDiv').innerHTML = '';
    document.getElementById('iLikeItNumber').innerHTML = '<img src="http://socyberty.com/wp-content/themes/socyberty/images/i-like-it-load.gif" />';
    var mysack = new sack( 
-       "http://socyberty.com/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
+       "/wp-content/mu-plugins/w4l/w4l_i_like_it_ajax.php" );    
 
   mysack.execute = 1;
   mysack.method = 'POST';
@@ -47,6 +90,53 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
   mysack.setVar( "post_id", post_id );
   mysack.setVar( "results_div_id", "iLikeItNumber" );
   mysack.onError = function() { alert('Ajax error in voting' )};
+  mysack.runAJAX();
+
+  return true;
+
+} // end of JavaScript function myplugin_cast_vote
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+function flagReasonChanged(article_id){
+	if (document.getElementById('flagReasonsSelect').value == '') return false;
+	
+	if (document.getElementById('flagReasonsSelect').value == 'redirect'){
+		document.getElementById('masterCategoriesDiv').style.display='block';
+		document.getElementById('palagrizedUrlDiv').style.display='none';
+	}
+	else if (document.getElementById('flagReasonsSelect').value == 'plagiarism'){
+		document.getElementById('palagrizedUrlDiv').style.display='block';
+		document.getElementById('masterCategoriesDiv').style.display='none';
+	}
+	else
+		doFlagIt(article_id);
+		
+}           
+           
+function doFlagIt( article_id)
+{
+   var reason = document.getElementById('flagReasonsSelect').value;
+   var to_master_category_id = document.getElementById('masterCategoriesSelect').value;
+   var palagrized_url = encodeURIComponent(document.getElementById('palagrizedUrl').value);
+
+   if (reason == 'plagiarism' && palagrized_url.indexOf('http') < 0) return false;
+   if (reason != 'plagiarism') palagrized_url = '';
+	
+   document.getElementById('flagit_div').innerHTML = '';
+   document.getElementById('flagit_div').innerHTML = '<p>Thank you!</p>';
+   var mysack = new sack( 
+       "/wp-content/mu-plugins/w4l/w4l_flag_it_ajax.php" );    
+
+  mysack.execute = 1;
+  mysack.method = 'POST';
+  mysack.setVar( "article_id", article_id );
+  mysack.setVar( "by_writer_id", triond_writer_id);
+  mysack.setVar( "reason", reason);
+  mysack.setVar( "to_master_category_id", to_master_category_id);
+  mysack.setVar( "palagrized_url", palagrized_url);
+  mysack.onError = function() { alert('Ajax error in flagging' )};
   mysack.runAJAX();
 
   return true;
@@ -108,7 +198,7 @@ function doILikeIt( website_channel_article_id,blog_id,post_id )
 function showTriondSignupForm()
 {
    var mysack = new sack( 
-       "http://socyberty.com/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
+       "/wp-content/plugins/triond-signup/triond_signup_form_ajax.php" );    
 
   mysack.execute = 0;
   mysack.method = 'GET';
@@ -127,23 +217,30 @@ function showTriondSignupForm()
 
 <div id="ad728">
 	
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=752");
-   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=752&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=&amp;cb=32813817603&amp;loc=https%3A//web.archive.org/web/20110209114429id_/http%3A//socyberty.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=5ba288&amp;cb=9bf617489bb7ac10b9e2f13c34e50a44' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=752&amp;cb=9bf617489bb7ac10b9e2f13c34e50a44&amp;n=5ba288' border='0' alt='' /></a></noscript></div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=752");
+					   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=752&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=nontriond&amp;cb=31528921940&amp;loc=https%3A//web.archive.org/web/20111101154941id_/http%253A//socyberty.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=bc17fd&amp;cb=5dd026817182b477807e21f2909b63ce' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=752&amp;cb=5dd026817182b477807e21f2909b63ce&amp;n=bc17fd' border='0' alt='' /></a></noscript></div>
 
 <div id="header-container">
 
@@ -205,7 +302,49 @@ function showTriondSignupForm()
 <p>Socyberty is committed to handling your personal information with the highest standards of security information. Socyberty shall maintain physical, electronic and procedural safeguards to maintain the secrecy of the personal information, and will test its security syste ms regularly.</p>
 <p>7.  Contact .</p>
 <p>If you have any questions about this Privacy Policy or your dealings with Socyberty, you can contact us at: +97236440435 Monday through Thursday between 10:00 – 18:00 GMT, or write to as at webmaster@socyberty.com .</p>
-	
+<div id="flagit_div" class="flagItDiv" style="display:none;margin-top:3px;margin-bottom:10px;height:25px;"><div id="flagReasonsDiv" style="display:block;float:left;margin-right:5px;">
+					<select id="flagReasonsSelect" onchange="flagReasonChanged();" style="font-size:11px;">
+						<option value="">Flag It</option>
+						<option value="spam">Spam</option>
+						<option value="adult">Adult Content</option>
+						<option value="plagiarism">Plagiarism</option>
+						<option value="insufficient-quality">Insufficient Quality</option>
+						<option value="redirect">Wrong Category</option>
+					</select>
+				</div><div id="palagrizedUrlDiv" style="display:none;float:left;">
+					<input type="text" id="palagrizedUrl" style="font-size:11px;" value="enter plagiarized url...">
+					<input type="button" onclick="doFlagIt()" style="font-size:11px;" value="Go">
+				</div><div id="masterCategoriesDiv" style="display:none;float:left;">
+					<select id="masterCategoriesSelect" onchange="doFlagIt();" style="font-size:11px;">
+						<option value="">Select the Right Category</option>
+						<option value="27">About Writing</option>
+						<option value="59">Autos</option>
+						<option value="21">Books</option>
+						<option value="16">Business</option>
+						<option value="22">Computers</option>
+						<option value="3">Creative Writing</option>
+						<option value="13">Domestic</option>
+						<option value="6">Gaming</option>
+						<option value="2">General</option>
+						<option value="8">Health</option>
+						<option value="20">Internet</option>
+						<option value="19">Movies</option>
+						<option value="26">Music</option>
+						<option value="30">News</option>
+						<option value="29">Offbeat</option>
+						<option value="55">Pets</option>
+						<option value="54">Poetry</option>
+						<option value="9">Recipes</option>
+						<option value="11">Religion</option>
+						<option value="32">Science</option>
+						<option value="57">Short Stories</option>
+						<option value="12">Society</option>
+						<option value="17">Sports</option>
+						<option value="18">Television</option>
+						<option value="15">Travel</option>
+						<option value="53">Women</option>
+					</select>
+				</div></div><script type="text/javascript">if (typeof triond_writer_id != "undefined") document.getElementById('flagit_div').style.display='block';</script>	
  </div>
  
 
@@ -218,23 +357,30 @@ function showTriondSignupForm()
 <div id="subscribe"><strong><a href="http://socyberty.com/feed/">Subscribe</a></strong> today and get the latest articles when they are posted!</div>
 <div id="ad300">
 	
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=753");
-   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=753&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=&amp;cb=84170446959&amp;loc=https%3A//web.archive.org/web/20110209114429id_/http%3A//socyberty.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=6b95d3&amp;cb=0b5187a179beecad7fd41a6fdccee737' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=753&amp;cb=0b5187a179beecad7fd41a6fdccee737&amp;n=6b95d3' border='0' alt='' /></a></noscript></div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=753");
+					   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=753&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=nontriond&amp;cb=96495170576&amp;loc=https%3A//web.archive.org/web/20111101154941id_/http%253A//socyberty.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=180b38&amp;cb=9cd1f66fc3e47681f2af16cd8d0ac11a' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=753&amp;cb=9cd1f66fc3e47681f2af16cd8d0ac11a&amp;n=180b38' border='0' alt='' /></a></noscript></div>
 
 
 <div class="sidebar-widgets">
@@ -259,42 +405,56 @@ function showTriondSignupForm()
 <div id="ad160Wrapper">
 	<div id="ad160-1">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=819");
-   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=819&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=&amp;cb=75398960246&amp;loc=https%3A//web.archive.org/web/20110209114429id_/http%3A//socyberty.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=31c1c9&amp;cb=a717753716b75bf029f22225a1c29575' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=819&amp;cb=a717753716b75bf029f22225a1c29575&amp;n=31c1c9' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=819");
+					   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=819&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=nontriond&amp;cb=80439361058&amp;loc=https%3A//web.archive.org/web/20111101154941id_/http%253A//socyberty.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=bfaf03&amp;cb=211ae4404b1284d98ddeaf3d1d91f9ff' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=819&amp;cb=211ae4404b1284d98ddeaf3d1d91f9ff&amp;n=bfaf03' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad160-2">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=759");
-   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=759&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=&amp;cb=21177842870&amp;loc=https%3A//web.archive.org/web/20110209114429id_/http%3A//socyberty.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=e412a7&amp;cb=587c6de0c2c88c01054ea58c3f2cee9e' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=759&amp;cb=587c6de0c2c88c01054ea58c3f2cee9e&amp;n=e412a7' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=759");
+					   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=759&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=nontriond&amp;cb=53943070219&amp;loc=https%3A//web.archive.org/web/20111101154941id_/http%253A//socyberty.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=fda0d2&amp;cb=953925cf395cb312ec950ed4fe5de087' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=759&amp;cb=953925cf395cb312ec950ed4fe5de087&amp;n=fda0d2' border='0' alt='' /></a></noscript>	</div>
 	<div class="clear"></div>
 </div>
 
@@ -305,10 +465,11 @@ function showTriondSignupForm()
 	 	</ul>
 </div>
  -->
+ <!-- 
 	<div class="sidebar-widgets" style="height:500px;">				
 		<div class="sidebar-title">Video of the Day</div>
-		<div id="SmartPlayer2" style="text-align:center;"></div>
-		<script type="text/javascript">
+		<div id='SmartPlayer2' style="text-align:center;"></div>
+		<script type='text/javascript'>
 		var playerSeed = new PlayerSeed('SmartPlayer2');
 		playerSeed.sid = 332;
 		playerSeed.width = '280';
@@ -323,13 +484,12 @@ function showTriondSignupForm()
 		playerSeed.Load();
 		</script>
 	</div>
+-->
 
-
-	<script type="text/javascript" src="http://www.triond.com/login/is-logged-in"></script>
 	<div id="triond-signup-div" style="display:none">
 	</div>
 	<script type="text/javascript">
-	if(triond_user_logged_in != undefined)
+	if(typeof triond_user_logged_in != "undefined")
 	{
 		if(!triond_user_logged_in)
 		{
@@ -342,6 +502,34 @@ function showTriondSignupForm()
 <div class="sidebar-widgets">
 <iframe src="http://www.facebook.com/plugins/activity.php?site=socyberty.com&amp;width=288&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true&amp;ref=fb_activity" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:288px; height:300px;" allowtransparency="true"></iframe>
 </div>
+
+
+<div class="sidebar-widgets">
+	
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1391");
+					   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1391&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=nontriond&amp;cb=60519234762&amp;loc=https%3A//web.archive.org/web/20111101154941id_/http%253A//socyberty.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=b26a38&amp;cb=ed80853fc36b8ebbda17e600e1e4e1a5' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1391&amp;cb=ed80853fc36b8ebbda17e600e1e4e1a5&amp;n=b26a38' border='0' alt='' /></a></noscript></div>	
 
 
 
@@ -442,30 +630,6 @@ function showTriondSignupForm()
 </div>
 
 
-<div class="footer-widget">
-<ul>
-<li><a href="http://socyberty.com/tag/children/" class="tag-link-1639" title="1,219 topics" rel="tag" style="font-size: 9pt;">children</a>
-<a href="http://socyberty.com/tag/christmas/" class="tag-link-253" title="1,299 topics" rel="tag" style="font-size: 9.2139673105498pt;">Christmas</a>
-<a href="http://socyberty.com/tag/dating/" class="tag-link-3355" title="1,405 topics" rel="tag" style="font-size: 9.4974739970282pt;">dating</a>
-<a href="http://socyberty.com/tag/death/" class="tag-link-1269" title="1,392 topics" rel="tag" style="font-size: 9.4627043090639pt;">Death</a>
-<a href="http://socyberty.com/tag/education/" class="tag-link-2669" title="2,158 topics" rel="tag" style="font-size: 11.511441307578pt;">Education</a>
-<a href="http://socyberty.com/tag/family/" class="tag-link-1449" title="1,473 topics" rel="tag" style="font-size: 9.6793462109955pt;">family</a>
-<a href="http://socyberty.com/tag/health/" class="tag-link-5597" title="1,704 topics" rel="tag" style="font-size: 10.297176820208pt;">health</a>
-<a href="http://socyberty.com/tag/history/" class="tag-link-2059" title="2,439 topics" rel="tag" style="font-size: 12.263001485884pt;">History</a>
-<a href="http://socyberty.com/tag/life/" class="tag-link-1267" title="3,621 topics" rel="tag" style="font-size: 15.424368499257pt;">Life</a>
-<a href="http://socyberty.com/tag/love/" class="tag-link-581" title="4,584 topics" rel="tag" style="font-size: 18pt;">love</a>
-<a href="http://socyberty.com/tag/marriage/" class="tag-link-5197" title="1,916 topics" rel="tag" style="font-size: 10.864190193165pt;">marriage</a>
-<a href="http://socyberty.com/tag/money/" class="tag-link-647" title="1,568 topics" rel="tag" style="font-size: 9.9334323922734pt;">money</a>
-<a href="http://socyberty.com/tag/people/" class="tag-link-4293" title="1,525 topics" rel="tag" style="font-size: 9.8184249628529pt;">People</a>
-<a href="http://socyberty.com/tag/politics/" class="tag-link-6067" title="1,513 topics" rel="tag" style="font-size: 9.7863298662704pt;">Politics</a>
-<a href="http://socyberty.com/tag/relationship/" class="tag-link-7005" title="1,628 topics" rel="tag" style="font-size: 10.093907875186pt;">Relationship</a>
-<a href="http://socyberty.com/tag/relationships/" class="tag-link-651" title="2,556 topics" rel="tag" style="font-size: 12.575928677563pt;">Relationships</a>
-<a href="http://socyberty.com/tag/sex/" class="tag-link-3309" title="1,693 topics" rel="tag" style="font-size: 10.267756315007pt;">sex</a>
-<a href="http://socyberty.com/tag/society/" class="tag-link-4947" title="1,909 topics" rel="tag" style="font-size: 10.845468053492pt;">Society</a>
-<a href="http://socyberty.com/tag/united-states/" class="tag-link-25517" title="3,396 topics" rel="tag" style="font-size: 14.822585438336pt;">united states</a>
-<a href="http://socyberty.com/tag/women/" class="tag-link-4019" title="1,868 topics" rel="tag" style="font-size: 10.735809806835pt;">women</a></li>
-</ul>
-</div>
 
 
 <div class="footer-widget-right">
@@ -494,11 +658,9 @@ Powered by <a href="http://www.triond.com"><img src="http://s3.amazonaws.com/tri
 <noscript>
 <a href="http://www.quantcast.com/p-daj4ISsTm6BnE" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-daj4ISsTm6BnE.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
 </noscript>
-<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=553&amp;rnd=2038700324"><script type="text/javascript">
+<img width="1" height="1" border="0" src="http://wprest.triond.com/cntimp?home_channel_id=553&amp;rnd=1742630760"><script type="text/javascript">
 					var _gaq = _gaq || [];
-					_gaq.push(['t6._setAccount', 'UA-1488967-6']);
-							_gaq.push(['t6._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);
-							_gaq.push(['t29._trackPageview']);
+					_gaq.push(['t6._setAccount', 'UA-1488967-6']);_gaq.push(['t6._trackPageview']);_gaq.push(['t29._setAccount', 'UA-1488967-29']);_gaq.push(['t29._trackPageview']);
 					(function() {
 					  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 					  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -528,44 +690,59 @@ var _sf_async_config={uid:6902};
  
 	<div id="ad-slider">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
-
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1085");
-   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1085&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=&amp;cb=33527551867&amp;loc=https%3A//web.archive.org/web/20110209114429id_/http%3A//socyberty.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=de97b0&amp;cb=eff9c139eb786d6af4517dff68476ea1' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1085&amp;cb=eff9c139eb786d6af4517dff68476ea1&amp;n=de97b0' border='0' alt='' /></a></noscript>	</div>
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1085");
+					   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1085&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=nontriond&amp;cb=15709663598&amp;loc=https%3A//web.archive.org/web/20111101154941id_/http%253A//socyberty.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=c1758c&amp;cb=b76b6368b5d0a9238983be6376138fe3' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1085&amp;cb=b76b6368b5d0a9238983be6376138fe3&amp;n=c1758c' border='0' alt='' /></a></noscript>	</div>
 	<div id="ad-to">
 		
-<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					<!--/* OpenX Javascript Tag v2.5.60-beta */-->
+					
+					<script type="text/javascript"><!--//<![CDATA[
+					   var is_triond_reader;
+					   if (typeof triond_writer_id=="undefined")
+					   	 is_triond_reader = 'nontriond';
+					   else if (triond_writer_id == writer_triond_id)
+					     is_triond_reader = 'nontriond';
+					   else
+					     is_triond_reader = 'yestriond'; 
+					   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
+					   var m3_r = Math.floor(Math.random()*99999999999);
+					   if (!document.MAX_used) document.MAX_used = ',';
+					   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+					   document.write ("?zoneid=1363");
+					   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc") + is_triond_reader);
+					   document.write ('&amp;cb=' + m3_r);
+					   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+					   document.write ("&amp;loc=" + escape(window.location));
+					   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+					   if (document.context) document.write ("&context=" + escape(document.context));
+					   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+					   document.write ("'><\/scr"+"ipt>");
+					//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1363&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=nontriond&amp;cb=51981317717&amp;loc=https%3A//web.archive.org/web/20111101154941id_/http%253A//socyberty.com/privacy-policy"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=7f136d&amp;cb=137e1b86052395282519781baa2fbca7' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1363&amp;cb=137e1b86052395282519781baa2fbca7&amp;n=7f136d' border='0' alt='' /></a></noscript>	</div>
 
-<script type="text/javascript"><!--//<![CDATA[
-   var m3_u = (location.protocol=='https:'?'https://a.stanzapub.com/delivery/ajs.php':'http://a.stanzapub.com/delivery/ajs.php');
-   var m3_r = Math.floor(Math.random()*99999999999);
-   if (!document.MAX_used) document.MAX_used = ',';
-   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
-   document.write ("?zoneid=1363");
-   document.write ("&clr_link=E47F13&clr_title=E47F13&clr_bg=FFFFFF&clr_border=FFFFFF&clr_text=2F2F2E&source=acf=" + readCookie("w4lfc"));
-   document.write ('&amp;cb=' + m3_r);
-   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
-   document.write ("&amp;loc=" + escape(window.location));
-   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
-   if (document.context) document.write ("&context=" + escape(document.context));
-   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
-   document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://a.stanzapub.com/delivery/ajs.php?zoneid=1363&amp;clr_link=E47F13&amp;clr_title=E47F13&amp;clr_bg=FFFFFF&amp;clr_border=FFFFFF&amp;clr_text=2F2F2E&amp;source=acf=&amp;cb=39202240283&amp;loc=https%3A//web.archive.org/web/20110209114429id_/http%3A//socyberty.com/privacy-policy/"></script><noscript><a href='http://a.stanzapub.com/delivery/ck.php?n=f1ce1c&amp;cb=aee0487177632067764543ce1172c33f' target='_blank'><img src='http://a.stanzapub.com/delivery/avw.php?zoneid=1363&amp;cb=aee0487177632067764543ce1172c33f&amp;n=f1ce1c' border='0' alt='' /></a></noscript>	</div>
-<!-- start eXelate tag - Triond - Default Site
-<SCRIPT TYPE="text/javascript" SRC="http://loadus.exelator.com/load/?p=149&g=001"></SCRIPT>
- end eXelate tag -->
+	<!-- start eXelate tag - Triond - Default Site -->	
+		<script type="text/javascript" src="http://loadus.exelator.com/load/?p=149&amp;g=002&amp;ctg=education&amp;subctg=uncategorized"></script>
+	<!-- end eXelate tag -->
 <script type="text/javascript">tyntVariables = {"ap":"Read more: "};</script> <script type="text/javascript" src="http://tcr.tynt.com/javascripts/Tracer.js?user=dvM6jytr8r35TmadbiUzgI&amp;s=130"></script>
 <script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
