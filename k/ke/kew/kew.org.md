@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2011-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110318045930id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kew.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001956id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Royal Botanic Gardens, Kew - website privacy policy
-
-Royal Botanic Gardens, Kew
 
 The Board of Trustees of the Royal Botanic Gardens, Kew ('we', 'us' or 'our') is committed to protecting and respecting your privacy.
 
@@ -116,10 +114,3 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [webteam@kew.org ](mailto:webteam@kew.org "Send an email to the Kew web team")  
  
-
-  * Print friendly
-  * [Send to a friend](https://web.archive.org/web/20110318045930id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/send.html "Send to a friend")
-  *   *   *   * [Blog this](https://web.archive.org/web/20110318045930id_/http%3A//www.kew.org/Terms-and-Conditions/privacy-policy/blog.html "Share")
-  *   * [Donate](http://www.kew.org/support-kew/donate-now/index.htm "Donate to Kew")
-
-
