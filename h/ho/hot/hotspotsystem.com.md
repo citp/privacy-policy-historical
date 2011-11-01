@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218173013id_/http%3A//www.hotspotsystem.com/en/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotspotsystem.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125311id_/http%3A//hotspotsystem.com/en/info/privacy.html) for the most accurate reproduction.*
 
-# HotSpotSystem.com - Privacy Policy
-
-Principals of data protection
+# HotspotSystem.com - Privacy Policy
 
 HotSpotSystem.com does not collect any information through its websites that can be connected to your person (name, address, phone number or e-mail), unless you voluntarily decide to provide it to us. (by registration or answering to questionnaires). HotSpotSystem.com is organizing and storing the personal data provided by you (time of registration, chosen package) in order to operate the system. The company states that it is storing and documenting your data in order to complete your orders and to confirm your future requests. 
 
