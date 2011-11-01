@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bid2.net privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513051638id_/http%3A//bid2.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid2.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134355id_/http%3A//bid2.net/privacy_policy.html) for the most accurate reproduction.*
 
-# DOFOLLOW DIRECTORY - - Privacy policy
+# Dofollow Directory - Privacy policy
 
 ###  Directory Privacy Policy
 
