@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fribiz.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630114511id_/http%3A//www.fribiz.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fribiz.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143434id_/http%3A//www.fribiz.com/content/privacy) for the most accurate reproduction.*
 
 # Fribiz - get yours
 
