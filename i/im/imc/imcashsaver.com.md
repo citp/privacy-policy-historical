@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imcashsaver.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206062446id_/http%3A//www.imcashsaver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imcashsaver.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155947id_/http%3A//www.imcashsaver.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy
 
