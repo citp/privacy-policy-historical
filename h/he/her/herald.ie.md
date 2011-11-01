@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2010-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100822060551id_/http%3A//www.herald.ie/service/data-protection-and-privacy-statement-24073.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herald.ie privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130011id_/http%3A//www.herald.ie/service/data-protection-and-privacy-statement-24073.html) for the most accurate reproduction.*
 
 # Data protection and privacy statement - Service, Frontpage - Herald.ie
 
