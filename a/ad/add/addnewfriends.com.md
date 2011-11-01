@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the addnewfriends.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412070629id_/http%3A//www.addnewfriends.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addnewfriends.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101072314id_/http%3A//www.addnewfriends.com/privacy) for the most accurate reproduction.*
 
 # MySpace Bot, Friend Adder Bot, Friend Blaster Pro - Start growing your MySpace Friends with the #1 MySpace Friend Adder Bot! | Addnewfriends
 
-**Note:** This Privacy Policy may be modified from time to time. Continued access of AddNewFriends.com LLC by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
+**Note:** This Privacy Policy may be modified from time to time. Continued access of AddNewFriends.com by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
 
 It is the goal of AddNewFriends.com LLC to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. The following is a summary of the various ways we treat the information you provide us while using our site.
 
@@ -18,7 +18,7 @@ Our cookies may, but typically do not, contain personally identifiable informati
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers.
 
-If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of AddNewFriends.com LLC may not function as designed.
+If you don't want cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of AddNewFriends.com may not function as designed.
 
 While your individual information is protected as outlined above, we reserve the right to use aggregated anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
