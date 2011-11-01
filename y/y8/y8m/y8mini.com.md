@@ -1,105 +1,31 @@
-> *The following text is extracted and transformed from the y8mini.com privacy policy that was archived on 2009-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090320042458id_/http%3A//www.y8mini.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the y8mini.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152610id_/http%3A//www.y8mini.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Y8 Games - Y8 Flash Games,Y8 New Games,Y8 Online Games,Y8 Mini Games
+# Privacy Policy | Y8Mini.com
 
-We are committed to safeguarding the privacy of our website visitors at Y8Mini.com; this policy sets out how we will treat your personal information.
+At y8mini.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by y8mini.com and how it is used.
 
-**1\. What information do we collect?**
+**Log Files**  
+Like many other Web sites, y8mini.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We may collect, store and use the following kinds of personal data:
+**Cookies and Web Beacons**  
+y8mini.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-\- (a) information about your computer and about your visits to and use of this website (including your IP address, geographical location, browser type, referral source, length of visit and number of page views);
+ **DoubleClick DART Cookie**
 
-\- (b) information relating to any transactions carried out between you and us on or in relation to this website, including information relating to any advertising purchases or game uploads you make;
+.:: Google, as a third party vendor, uses cookies to serve ads on y8mini.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to y8mini.com and other sites on the Internet.   
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-\- (c) information that you provide to us for the purpose of subscribing to our website services, email notifications, newsletters and/or RSS feeds;
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….  
+Google Adsense  
+CPMStar
 
-\- (d) any other information that you choose to send to us.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on y8mini.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-**2\. Cookies**
+y8mini.com has no access to or control over these cookies that are used by third-party advertisers.
 
-A cookie consists of information sent by a web server to a web browser, and stored by the browser. The information is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. y8mini.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-We may use both “session” cookies and “persistent” cookies on the website. We will use the session cookies to: keep track of you whilst you navigate the website. We will use the persistent cookies to: enable our website to recognise you when you visit.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
-
-We use Google Analytics to analyse the use of this website. Google Analytics generate statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available at: http://www.google.com/privacypolicy.html. Mint is run on our own servers and stored by us.
-
-Most browsers allow you to refuse to accept cookies. (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.) This will, however, have a negative impact upon the usability of many websites, including this one.
-
-**3\. Using your personal data**
-
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in other relevant parts of the website.
-
-We may use your personal information to:
-
-\- (a) administer the website;
-
-\- (b) improve your browsing experience by personalising the website;
-
-\- (c) enable your use of the services available on the website;
-
-\- (d) send to you goods purchased via the website, and supply to you services purchased via the website;
-
-\- (e) send statements and invoices to you, and collect payments from you;
-
-\- (f) send you general (non-marketing) commercial communications;
-
-\- (g) send you email notifications which you have specifically requested;
-
-\- (h) send to you our newsletter or RSS feed updates relating to our site content by email or feed reader, where you have specifically agreed to this;
-
-\- (i) provide our advertising partners with statistical information about our users – but this information will not be used to identify any individual user;
-
-\- (j) deal with enquiries and complaints made by or about you relating to the website;
-
-**4\. Other Uses**
-
-Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the license you grant to us.
-
-We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
-
-**5\. Other disclosures**
-
-In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we may disclose information about you:
-
-\- (a) to the extent that we are required to do so by law;
-
-\- (b) in connection with any legal proceedings or prospective legal proceedings;
-
-\- (c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);
-
-\- (d) to any of our agents, suppliers or subcontractors (but only as reasonably necessary for our purposes as set out above); and
-
-\- (e) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
-
-Except as provided in this privacy policy, we will not provide your information to third parties.
-
-**6\. Security of your personal data**
-
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
-
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers.
-
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
-
-You are responsible for keeping your password and user details confidential. We will not ask you for your password.
-
-**7\. Policy amendments**
-
-We may update this privacy policy from time-to-time by posting a new version on our website. You should check this page occasionally to ensure you are happy with any changes.
-
-**8\. Your rights**
-
-You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at USD$10.00.)
-
-You may instruct us not to process your personal data for marketing purposes by email at any time. (In practice, you will usually either expressly agree in advance to our use of your personal data for marketing purposes, or we will provide you with an opportunity to opt-out of the use of your personal data for marketing purposes.)
-
-**9\. Third party websites**
-
-The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
-
-**10\. Contact**
-
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us using the contact form [here](https://web.archive.org/web/20090320042458id_/http%3A//contact/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us [here](https://web.archive.org/web/20111101152610id_/http%3A//contact/).
