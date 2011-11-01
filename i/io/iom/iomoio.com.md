@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iomoio.com privacy policy that was archived on 2010-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100516201515id_/http%3A//www.iomoio.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iomoio.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002337id_/http%3A//www.iomoio.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Iomoio.com
+# Privacy Policy
 
 This Privacy Policy explains how the web site Iomoio.com collects and stores your personal information, when you are using our services. Before proceeding with your registration process on this web site you must:  
 \- Read and fully understand this Privacy Policy  
