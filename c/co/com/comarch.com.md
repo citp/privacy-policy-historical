@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comarch.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407191022id_/http%3A//www.comarch.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comarch.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101112651id_/http%3A//comarch.com/company/privacy-policy) for the most accurate reproduction.*
 
 # COMARCH - Privacy Policy in the Comarch Capital Group
 
