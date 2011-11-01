@@ -1,75 +1,94 @@
-<!--The following is the downloaded HTML source of the catster.com privacy policy that was archived on 2011-01-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110107051235id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the catster.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101231339id_/http%3A//www.catster.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<script type="text/javascript">var _sf_startpt=(new Date()).getTime();var browser=navigator.appName;var b_version=navigator.appVersion;var version=parseFloat(b_version);var IE6=/MSIE 6/i.test(navigator.userAgent);</script>
+	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime(), browser=navigator.appName, b_version=navigator.appVersion, version=parseFloat(b_version), IE6=/MSIE 6/i.test(navigator.userAgent);</script>
 	<title>privacy policy | catster</title>
 	
-	<script type="text/javascript" src="http://a1.cdnsters.com/static/resc/labjs1.0.2rc1-jquery1.4.2-jqueryui1.8.1-prototypejs1.5.1-scriptaculous1.7.0-bugfix4658.min.js"></script>
+	<script type="text/javascript" src="http://a1.cdnsters.com/static/resc/labjs1.2.0-jquery1.6-jqueryui1.8.12-bugfix4758.min.js"></script>
 	<script type="text/javascript">
-	var $j = jQuery.noConflict();
-	var tcid = null;
-	var redirect = null;
-	var user_id = '';
-	var fb_id = '';
+	var $j = jQuery.noConflict(),
+		redirect = null,
+		user_id = '',
+		pet_code = 'c',
+		_kmq = _kmq || [],
+		fb_enabled = '1';
+	_kmq.push(['identify', user_id]);
 	
-    if(navigator.platform.indexOf('Mac') >= 0 && 
-        ( navigator.userAgent.indexOf('Safari') >= 0 ||
-         navigator.userAgent.indexOf('Chrome') >= 0 ||
-         navigator.userAgent.indexOf('Firefox') >= 0)){
-		tcid = 'jhl6qyx';
-	} else if(( navigator.userAgent.indexOf('Firefox') >= 0 ||
-        navigator.userAgent.indexOf('Chrome') >= 0 ) && 
-		navigator.platform.indexOf('Win') >= 0) {
-		tcid = 'sfc0wzg';
-	}
-    if (tcid) {
-		$LAB.script("http://use.typekit.com/"+tcid+".js").wait(function(){
-			(function(){try{Typekit.load();}catch(e){};})();
-		})
-		.script("http://connect.facebook.net/en_US/all.js")
-		.script("http://a3.cdnsters.com/releases/20110106-1223/resc_cdn/common_js.min.js").wait(function(){
+    var $L = $LAB;
+   	$L = $L.script(function(){
+   	    if(navigator.platform.indexOf('Mac') >= 0 && 
+   	        ( navigator.userAgent.indexOf('Safari') >= 0 ||
+   	         navigator.userAgent.indexOf('Chrome') >= 0 ||
+   	         navigator.userAgent.indexOf('Firefox') >= 0)){
+   			tcid = 'jhl6qyx';
+   			return "//use.typekit.com/jhl6qyx.js";
+   		} else if(( navigator.userAgent.indexOf('Firefox') >= 0 ||
+   	        navigator.userAgent.indexOf('Chrome') >= 0 ) && 
+   			navigator.platform.indexOf('Win') >= 0) {
+   			tcid = 'sfc0wzg';
+   			return "//use.typekit.com/sfc0wzg.js";
+   		}else{
+   			return null;
+   		}
+   	}).wait(function(){
+		(function(){try{Typekit.load();}catch(e){};})();
+	})
+	.script(function(){
+		if(fb_enabled == '1'){
+			return "//connect.facebook.net/en_US/all.js";
+		}else{
+			return null;
+		}
+	})
+	.script("http://a1.cdnsters.com/releases/20111014-0937/resc_cdn/common_js.min.js").wait(function(){
+		if(fb_enabled == '1'){
 			facebook.init(181657289172);
-			jQuery(document).ready(function() {
-				jQuery('body').trigger('js_ready');
-			});
+			var fb_id = '';
+		}
+		$j(document).ready(function() {
+			$j('body').trigger('js_ready');
 		});
-    } else {
-		$LAB.script("http://connect.facebook.net/en_US/all.js")
-		.script("http://a3.cdnsters.com/releases/20110106-1223/resc_cdn/common_js.min.js").wait(function(){
-			facebook.init(181657289172);
-			jQuery(document).ready(function() {
-				jQuery('body').trigger('js_ready');
-			});
-		});
-    }
+	})
+	.script("//i.kissmetrics.com/i.js")
+	.script(function(){
+	    if(pet_code=='d'){
+			return "//doug1izaerwt3.cloudfront.net/eb6830ceea810ee3525193b68c6a88ec64dab12b.1.js";
+	    }else{
+			return "//doug1izaerwt3.cloudfront.net/16d7f0fce96bc3e01f1220ced22836b884d96d90.1.js";
+		}
+	}).script("//apis.google.com/js/plusone.js")
+	.script("//platform.twitter.com/widgets.js");
 	</script>
 	
-	<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20110106-1223/resc_cdn/reset-dsterText-960-jquery.min.css" type="text/css" media="screen, print" charset="utf-8">
-	<link rel="stylesheet" href="http://a2.cdnsters.com/releases/20110106-1223/resc_cdn/2colster-c.min.css" type="text/css" media="screen, print" charset="utf-8">
+	<script type="text/javascript">
+function repositionPromoImages() {
+}
+</script>
+
 	
-	
-	
-	
+	<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20111014-0937/resc_cdn/reset-dsterText-960-jquery.min.css" type="text/css" media="screen, print" charset="utf-8">
+	<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20111014-0937/resc_cdn/2colster-c.min.css" type="text/css" media="screen, print" charset="utf-8">
 	
 	
 	
 	<!--[if IE]>
-		<link rel="stylesheet" href="http://a2.cdnsters.com/releases/20110106-1223/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
+		<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20111014-0937/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
 	<![endif]-->
 	
 	<!--[if lt IE 7]>
-		<link rel="stylesheet" href="http://a2.cdnsters.com/releases/20110106-1223/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
+		<link rel="stylesheet" href="http://a1.cdnsters.com/releases/20111014-0937/layouts/fullwidth/css/ie.min.css" type="text/css" media="screen" charset="utf-8" />
 		
 		<script type="text/javascript">
 		$LAB
-		.script("http://a3.cdnsters.com/releases/20110106-1223/layouts/fullwidth/js/DD_belatedPNG_0.0.8a-min.min.js")
-		.script("http://a1.cdnsters.com/releases/20110106-1223/layouts/fullwidth/js/pngfix.min.js");
+		.script("http://a1.cdnsters.com/releases/20111014-0937/layouts/fullwidth/js/DD_belatedPNG_0.0.8a-min.min.js")
+		.script("http://a1.cdnsters.com/releases/20111014-0937/layouts/fullwidth/js/pngfix.min.js");
 		</script>
 	<![endif]-->
 	
 	<meta name="description" content="Privacy policy for Catster.com.">
+	<meta property="fb:page_id" content="10069086619"> 
 
 		
 		
@@ -77,11 +96,13 @@
 	<link rel="shortcut icon" href="http://a1.cdnsters.com/static/images/catster/favicon_catster.ico">
 	 
 	
-	<!-- web04.dogster.com -->
+	<!-- oak-dog-web00 -->
 	
 	
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 </head>
 <body class="c privacy 2column  ">
+
 <div id="fb-root"></div>
 <div id="wrapper" class="container_16">
 	<div id="banner-tools">
@@ -91,7 +112,7 @@
 			
 			<ul class="hmenu system-text">
 				<li class="first"><a href="/register/" title="join" onclick="pageTracker._trackEvent('Footer Nav', 'Join', 'Join');">Join!</a></li>
-				<li><a id="signin_toggle" href="javascript:void(0)" rel="nofollow" title="Log in" onclick="pageTracker._trackEvent('Footer Nav', 'Log in', 'Log in');">Log in</a></li>
+				<li><a id="signin_toggle" href="/login.php" rel="nofollow" title="Log in" onclick="pageTracker._trackEvent('Footer Nav', 'Log in', 'Log in');">Log in</a></li>
 			</ul>
 		
 			<div id="header-login-box" style="display:none;">
@@ -106,7 +127,7 @@
 								<input id="signin_username" type="text" name="email" size="15" class="text-input" value="email address">								
 								<input id="signin_password" type="password" name="pw" size="15" class="text-input" value="password">
 								<input type="submit" value="log in" class="btn-input">&nbsp;
-								<input type="checkbox" value="y" name="al" id="login-al"> <label class="login-autologin-forgot" for="login-al">Remember Me</label>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="login-autologin-forgot" href="/lost_password.php">forgot?</a>							
+								<input type="checkbox" value="y" name="al" id="login-al"> <label class="login-autologin-forgot" for="login-al">Remember Me</label>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="login-autologin-forgot" href="/lost_password.php">Forgot?</a>							
 							</div>
 						</div>
 					</form>
@@ -121,18 +142,19 @@
 		<input type="text" id="search-text" name="q" class="text-input">
 		<input type="submit" id="search-submit" class="btn-input" value="Search">
 	</form>
-</div>		<div class="ebs" style="color:black;background-color:yellow;padding:2px;"> </div>
-
-<div id="top-ad"><div style="height:90px;"><div id="adtech_container_2">
-</div>
-</div></div>
-
-<div id="banner" class="pngfix">
-	<div id="logo">
+</div>	
+<div id="top-banner">
+	<div id="logo" class="pngfix">
 		<h1><a href="/" title="Catster" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Catster Logo', 'Catster Logo');">Catster</a></h1>
-		<p id="slogan">Expert info. Community know-how.</p>
+		<p id="slogan">Expert info. Community know-how.</p>	
 	</div>
-</div><!--/banner-->
+	<div id="top-ad"><!-- begin Partner: Catster, Integration: CATSTER-728X90-ROS, Size: 728x90-->
+		<script type="text/javascript">
+	       document.write("<script type='text/javascript' src='http://ads.saymedia.com/ai014e8bef5bd0970d015391fb6eb2970b.js?ord="+Math.random()+"'></sc"+"ript>");
+		</script><script type="text/javascript" src="http://ads.saymedia.com/ai014e8bef5bd0970d015391fb6eb2970b.js?ord=0.5149261698883307"></script>
+		<!-- end --></div>
+	<div class="clear"></div>
+</div><!--/top-banner-->
 
 <div id="navigation">
 	<ul id="main-nav">
@@ -148,7 +170,8 @@
 			</a>
         </li>
 		<li><a href="/cats-101/" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Cats 101', 'Cats 101');" title="Cats 101">Cats 101</a></li>
-		<li class="last"><a href="/vet-finder/" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Vet Finder', 'Vet Finder');" title="Vet Finder">Vet Finder</a></li>
+		
+		<li class="last"><a href="/vet-finder/" class="" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Find A Vet', 'Find A Vet');" title="Find A Vet">Find A Vet</a></li>
 	</ul>
 	
 	<div id="community-tab" class="">
@@ -158,13 +181,13 @@
 				<h2 class="tk-cardigan">Cat of the Day</h2>
 				
 				<div class="dod-image">
-					<a href="/cats/437226"><img src="http://a1.cdnsters.com/static/resizer/03f5567e06e2e57cc982d462283f9020" alt="Shane" height="160" width="160"></a>
+					<a href="/cats/1196177"><img src="http://a3.cdnsters.com/static/resizer/3c399cbc9acd14731b966dce686fef6f" alt="Penny" height="160" width="160"></a>
 				</div>
 				
-				<p class="dod-name"><a href="/cats/437226">Shane</a></p>
+				<p class="dod-name"><a href="/cats/1196177">Penny</a></p>
 				
-				<p>4-year-old Female</p>
-				<p>Saskatoon, SK</p>
+				<p>6-month-old Female</p>
+				<p>Tulsa, OK</p>
 			</div>
 			
 			<div id="community-nav">
@@ -176,7 +199,6 @@
 					<li><a href="/answers/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Answers', 'Answers');" title="Answers">Answers »</a></li>
 					<li><a href="/local/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Local Listings', 'Local Listings');" title="Local Listings">Local Listings »</a></li>
 					<li><a href="/games/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Game Center', 'Game Center');" title="Game Center">Game Center »</a></li>
-					<li><a href="/polls/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Polls', 'Polls');" title="Polls">Polls »</a></li>
 					<li><a href="/diary/dcentral.php" onclick="pageTracker._trackEvent('Top Nav Buttons', 'Diairies', 'Diairies');" title="Diaries">Diaries »</a></li>
 					<li><a href="/cats/" onclick="pageTracker._trackEvent('Top Nav Buttons', 'See the Cats', 'See the Cats');" title="See the Cats">See the Cats »</a></li>
 				</ul>
@@ -187,35 +209,34 @@
 	</div>
 </div><!--/main-nav-->
 	
-			
+	
+
+
 <div id="content">
 
-			<img id="bg-2" class="pawesome-remove" src="http://a2.cdnsters.com/static/images/sitewide/bgs/catster/mouse-2.png" border="0" width="150" height="150">
-		<img id="bg-3" class="pawesome-remove" src="http://a3.cdnsters.com/static/images/sitewide/bgs/catster/mouse-3.png" border="0" width="150" height="150">
-		<img id="bg-4" class="pawesome-remove" src="http://a2.cdnsters.com/static/images/sitewide/bgs/catster/ball-1.png" border="0" width="150" height="150">
+			<img id="bg-2" class="pawesome-remove" src="http://a1.cdnsters.com/static/images/sitewide/bgs/catster/mouse-2.png" border="0" width="150" height="150">
+		<img id="bg-3" class="pawesome-remove" src="http://a1.cdnsters.com/static/images/sitewide/bgs/catster/mouse-3.png" border="0" width="150" height="150">
+		<img id="bg-4" class="pawesome-remove" src="http://a1.cdnsters.com/static/images/sitewide/bgs/catster/ball-1.png" border="0" width="150" height="150">
 		<img id="bg-6" class="pawesome-remove" src="http://a1.cdnsters.com/static/images/sitewide/bgs/catster/ball-3.png" border="0" width="150" height="150">
 	
 		    <div id="extra-nav">
-	        <div id="extra-nav-onsite" class="tk-cardigan">More: <a href="/cat-pictures/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Cat Pictures', 'Cat Pictures');" title="Cat Pictures">Cat Pictures</a> | <a href="/cat-news/" onclick="pageTracker._trackEvent('Top Sub Nav Button', 'Cat News', 'Cat News');" title="Cat News">Cat News</a>
-		                                                                | <script type="text/javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1780194|0|0|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1780194|0|0|ADTECH;loc=100;target=_blank;grp=192;misc=1580376057810"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1780194|0|0|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1780194|0|0|ADTECH;loc=300;" border="0" width="0" height="0"></a></noscript> 
-                    		                    </div>
+	        <div id="extra-nav-onsite" class="tk-cardigan">More: <a href="/cat-pictures/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Cat Pictures', 'Cat Pictures');" title="Cat Pictures">Cat Pictures</a> | <a href="/cat-news/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Cat News', 'Cat News');" title="Cat News">Cat News</a>
+                        | <a href="/green-cats/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Green Cats', 'Green Cats');" title="Green Cats">Green Cats</a>
+                        </div>
 	        
-	        <div id="extra-nav-social">
-	        	<a class="icn-twttr" href="http://twitter.com/catster" onclick="pageTracker._trackEvent('Social Media Buttons', 'Twitter', 'Twitter');" title="Twitter">&nbsp;</a> | 
-	        	<a class="icn-fb" href="http://facebook.com/catster" onclick="pageTracker._trackEvent('Social Media Buttons', 'Facebook', 'Facebook');" title="Facebook">&nbsp;</a> |
-	        	 <a class="cta-btn" href="/register/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Register', 'Register');" title="Register" style="margin-left: -5px;">&nbsp;</a>
-	        		        </div>
+            <div id="extra-nav-social-news"> 
+            	<g:plusone size="medium" href="http://www.catster.com"></g:plusone>&nbsp;      	                  	
+				<a target="_blank" href="http://twitter.com/catster" class="twitter-follow-button">Follow @catster</a>&nbsp;&nbsp;				
+				<a target="_blank" class="icn-fb" href="http://facebook.com/catster" onclick="pageTracker._trackEvent('Social Media Buttons', 'Facebook', 'Facebook');" title="Facebook"></a>
+					<img src="http://a1.cdnsters.com/static/images/sitewide/btns/social/20k.png">&nbsp;&nbsp;
+						        	<a class="cta-btn" href="/register/" onclick="pageTracker._trackEvent('Top Sub Nav', 'Register', 'Register');" title="Register"></a>
+	        		<img style="margin-left:-4px" src="http://a1.cdnsters.com/static/images/sitewide/btns/social/200k-cats.png">
+	        			        		
+	        		        </div>		
 	    </div>
 		
-			
+	<!--content-->
+		
 	    <div id="body-content" class="grid_13">
 			<!-- content-start -->
 			<a name="top"></a>
@@ -226,7 +247,7 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 <h1>Catster.com Privacy Policy</h1>
 <p>
 
-Catster.com is a website for sharing cat facts and photos with other cat lovers. It is operated by Dogster, Inc., a privately held company in San Francisco, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us.
+Catster.com is a website for sharing cat facts and photos with other cat lovers. It is operated by SAY Media, Inc., a privately held company in San Francisco, CA, USA. Your personal privacy is EXTREMELY important to us. This Privacy Policy explains how we collect and use your personal identifying information. Please read this Privacy Policy carefully, and if you have any questions, please feel free to contact us.
 </p><p>
 By using Catster.com, you consent to the collection and use of your personal information as outlined in the Privacy Policy. From time to time, we may update the Privacy Policy and we will post a notice of significant changes on the site. You should visit this page periodically to review any such changes to the Privacy Policy.
 </p><p>
@@ -275,11 +296,12 @@ We use industry standard security measures to protect your information so that i
 </p><p>
 <strong>Contacting Us</strong>
 </p><p>
-You can always contact us at any time by email at catsters@catster.com or by phone at 415-934-0400.
+You can always contact us at any time by email at catsters@catster.com .
 </p><p>
 Our mailing address is:<br>
 Catster<br>
-555 De Haro Street, Suite 350<br>
+SAY Media, Inc.<br>
+180 Townsend Street<br>
 San Francisco, CA 94107<br>
 </p><p>
 <strong>Unsubscribing</strong>
@@ -300,22 +322,25 @@ Again, feel free to contact us any time, and if you have further questions about
 			<!-- /content-end -->
 		</div><!--/body-content-->
 		
-		<div class="grid_3" style="padding-top: 10px;" id="col2"><div style="margin-bottom:15px;"><div style="height:600px;"><div id="adtech_container_4">
-</div>
-</div></div></div>
+		<div class="grid_3" style="padding-top: 10px;" id="col2">
+			<!-- begin Partner: Catster, Integration: CATSTER-160X600-ROS, Size: 160x600-->
+		<script type="text/javascript">
+	       document.write("<script type='text/javascript' src='http://ads.saymedia.com/ai014e8bef5bd0970d015435ceea2c970c.js?ord="+Math.random()+"'></sc"+"ript>");
+		</script><script type="text/javascript" src="http://ads.saymedia.com/ai014e8bef5bd0970d015435ceea2c970c.js?ord=0.328872818203644"></script>
+		<!-- end -->
+			<div id="nsphere">
+		   		
+        	</div>
+		</div>
 		
 		<div class="clear"><!-- --></div>
 		
 		<div id="bottom-ad">
-		    <div id="adtech_tag_3" style="z-index:11;"><script type="text/javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1782937|0|225|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1782937|0|225|ADTECH;loc=100;target=_blank;grp=192;misc=1580376057831"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1782937|0|225|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1782937|0|225|ADTECH;loc=300;" border="0" width="728" height="90"></a></noscript></div>
+		    <!-- begin Partner: Catster, Integration: CATSTER-728X90-ROS, Size: 728x90-->
+		<script type="text/javascript">
+	       document.write("<script type='text/javascript' src='http://ads.saymedia.com/ai014e8bef5bd0970d015391fb6eb2970b.js?ord="+Math.random()+"'></sc"+"ript>");
+		</script><script type="text/javascript" src="http://ads.saymedia.com/ai014e8bef5bd0970d015391fb6eb2970b.js?ord=0.05372611306211095"></script>
+		<!-- end -->
 		</div>
 		
 	</div><!--/content-->
@@ -437,12 +462,14 @@ document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechu
 		<li><a href="/privacy.php" title="privacy policy">privacy policy</a></li>
 		<li><a href="/terms_of_service.php" title="terms of service">terms of service</a></li>
 	</ul>
-	<p>Copyright 2003-2011 Dogster, Inc.</p>
+	<p>SAY Media, Inc. 2011<br>A Catster Property</p>
 </div>
-    
+
+
 	</div><!--/footer-->
 	
 </div><!--/wrapper-->
+
 <script type="text/javascript">
 var ads_array = [];
 $j('body').live('js_ready', function(event) {
@@ -471,79 +498,128 @@ $j('body').live('js_ready', function(event) {
 			}catch(e){}
 		}
 	});
-    $j("#footer-subscribe").submit(function(){
-        $j("#footer-subscribe-message").hide();
+	$j("#footer-subscribe").submit(function(){
+		$j("#footer-subscribe-message").hide();
 		$j.post($j(this).attr('action'), $j(this).serialize(), function(data, textStatus, XMLHttpRequest){
 			if(data.success){
-	        	$j("#footer-subscribe-message").html(data.success).show();
-	        	$j("#footer-subscribe").html(data.success);
+				$j("#footer-subscribe-message").html(data.success).show();
+				$j("#footer-subscribe").html(data.success);
 			}else if(data.error){
-	        	$j("#footer-subscribe-message").html(data.error).show();
+				$j("#footer-subscribe-message").html(data.error).show();
 			}else if(data.redirect){
 				window.location = data.redirect;
 			}
 			return false;
-		}, "json");
-        return false;
-    });
-    $j(window).bind('resize', function() {
-        for (var i=0; i < ads_array.length;i++) {
-            repositionAd(ads_array[i], true);
-        }
-        repositionPromoImages();
-    });
-    $j("#community-tab-toggle").click(function(){
-        var skys = $j('.adtech-skyscraper');
-        if ($j('#community-tab').hasClass('open')) {
-            for (var i = 0; i < skys.length; i++) {
-                skys[i].style.top = (getY(skys[i]) + 285) + 'px';
-            }
-        } else {
-            for (var i = 0; i < skys.length; i++) {
-                skys[i].style.top = (getY(skys[i]) - 285) + 'px';
-            }
-        }
-    });
-    repositionPromoImages();
+			}, "json");
+		return false;
+	});
+	$j(window).bind('resize', function() {
+		for (var i=0; i < ads_array.length;i++) {
+			repositionAd(ads_array[i], true);
+		}
+		repositionPromoImages();
+	});
+	$j("#community-tab-toggle").click(function(){
+		var skys = $j('.adtech-skyscraper');
+		if ($j('#community-tab').hasClass('open')) {
+			for (var i = 0; i < skys.length; i++) {
+				skys[i].style.top = (getY(skys[i]) + 285) + 'px';
+			}
+		} else {
+			for (var i = 0; i < skys.length; i++) {
+				skys[i].style.top = (getY(skys[i]) - 285) + 'px';
+			}
+		}
+	});
+	repositionPromoImages();
 });
 </script>
 
-<div id="hidden_adtech_container" style="display:none;z-index:1;"><div id="adtech_tag_2" style="z-index:11;"><script type="text/javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268180|0|225|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268180|0|225|ADTECH;loc=100;target=_blank;grp=192;misc=1580376057835"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1268180|0|225|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1268180|0|225|ADTECH;loc=300;" border="0" width="728" height="90"></a></noscript></div><div id="adtech_tag_4" style="z-index:1;" class="adtech-skyscraper"><script type="text/javascript">
-<!--
-if (window.adgroupid == undefined) {
-	window.adgroupid = Math.round(Math.random() * 1000);
-}
-document.write('<scr'+'ipt language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268211|0|154|ADTECH;loc=100;target=_blank;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
-//-->
-</script><script language="javascript1.1" src="http://adserver.adtechus.com/addyn|3.0|5251|1268211|0|154|ADTECH;loc=100;target=_blank;grp=192;misc=1580376057844"></script>
-<noscript><a href="http://adserver.adtechus.com/adlink|3.0|5251|1268211|0|154|ADTECH;loc=300;" target="_blank"><img src="http://adserver.adtechus.com/adserv|3.0|5251|1268211|0|154|ADTECH;loc=300;" border="0" width="160" height="600"></a></noscript></div></div><script type="text/javascript">jQuery(document).ready(function() {var ad_indexes = new Array("2","4");for (var i = 0; i < ad_indexes.length; i++) {    repositionAd(ad_indexes[i], false); }    document.getElementById("hidden_adtech_container").style.display = "inline";	fix_wmode2transparent_swf();});</script>
+<div id="hidden_adtech_container" style="display:none;z-index:1;"></div><script type="text/javascript">jQuery(document).ready(function() {var ad_indexes = new Array();for (var i = 0; i < ad_indexes.length; i++) {    repositionAd(ad_indexes[i], false); }    document.getElementById("hidden_adtech_container").style.display = "inline";	fix_wmode2transparent_swf();});</script>
 
 
 
 <script type="text/javascript">
-var pageTracker;
+if(pet_code=='d'){
+	var site_guid = '1c26a68fa3ab111b2b9fd39a832f459c';
+}else{
+	var site_guid = '415b0927a7149da3171f4b88d612c656';
+}
+
 $j(document).ready(function() {
-	$LAB
-	.script("http://www.google-analytics.com/ga.js").wait(function(){
+	$LAB.script("http://www.google-analytics.com/ga.js").wait(function(){
 		try {
 			pageTracker = _gat._getTracker("UA-299584-2");
-			pageTracker._trackPageview();
-		} catch(err) {}
-	})
-	.script("http://edge.quantserve.com/quant.js").wait(function(){
-		_qacct="p-76zfBls6wfCw2";
-		quantserve();
+						pageTracker._trackPageview();
+			pageTracker._trackPageLoadTime();
+
+							var pageTracker1 = _gat._getTracker("UA-21817143-2");
+								pageTracker1._setDomainName('none');
+				pageTracker1._setAllowLinker(true);
+				pageTracker1._setAllowHash(false);
+				pageTracker1._trackPageview();
+				pageTracker1._trackPageLoadTime();
+							var pageTracker2 = _gat._getTracker("UA-21817143-3");
+								pageTracker2._setDomainName('none');
+				pageTracker2._setAllowLinker(true);
+				pageTracker2._setAllowHash(false);
+				pageTracker2._trackPageview();
+				pageTracker2._trackPageLoadTime();
+					} catch(err) {}
 	});
 });
 </script>
 
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+	var _qevents = _qevents || [];
+	
+	(function() {
+		var elem = document.createElement('script');
+		elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+		elem.async = true;
+		elem.type = "text/javascript";
+		var scpt = document.getElementsByTagName('script')[0];
+		scpt.parentNode.insertBefore(elem, scpt);
+	})();
+	
+	_qevents.push([{
+		qacct:"p-afR4Gk3hyFg-2"
+	},
+	{
+		qacct:"p-76zfBls6wfCw2" // Dogster, Inc. Site Network
+	}]);
+</script>
+
+<noscript>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel?a.1=p-afR4Gk3hyFg-2&a.2=p-76zfBls6wfCw2" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+</noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+	var gravityInsightsParams = {type:'content', site_guid:site_guid};
+  $LAB.script("http://cdn.insights.gravity.com/moth-min.js");
+</script>
+
+<script type="text/javascript">
+var _sf_async_config={uid:126,domain:"catster.com"};
+window._sf_endpt=(new Date()).getTime();
+$LAB.script((("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js");
+</script>
+
+<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "6036036" });
+$LAB.script((document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js");
+</script>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=6036036&cv=2.0&cj=1" /></noscript>
+<!-- End comScore Tag -->
+
+
+
+<!-- fb-on -->
 
 </body></html>
