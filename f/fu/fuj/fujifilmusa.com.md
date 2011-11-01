@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fujifilmusa.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122190542id_/http%3A//fujifilmusa.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fujifilmusa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125928id_/http%3A//www.fujifilmusa.com/privacy/index.html) for the most accurate reproduction.*
 
 # Fujifilm USA | Privacy Policy
 
@@ -32,4 +32,4 @@ _Information Collected Automatically._ We also collect and store certain non-per
 
 Thank you for visiting FUJIFILM’s site.
 
-© Copyright 2010 FUJIFILM Holdings America Corporation
+© 2011 FUJIFILM Holdings America Corporation
