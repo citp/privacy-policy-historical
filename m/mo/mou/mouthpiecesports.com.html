@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the mouthpiecesports.com privacy policy that was archived on 2011-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530175917id_/http%3A//www.sportsbuzz.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mouthpiecesports.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101162033id_/http%3A//www.sportsbuzz.com/pages/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
 
 	
 	<title>Privacy Policy | SportsBUZZ</title>
+	
+	<meta name="description" content="SportsBUZZ Privacy Policy with Merchant Policies, Web Account, and Contact Information">
+	
+	<meta name="keywords" content="Privacy Policy, Private Policy, Merchant Policies, Web Server Logs, Internet Protocol, SportsBUZZ website">
 	
 
     <!-- fav icon -->
@@ -42,7 +46,7 @@
 	
 
 
-			<script type="text/javascript" src="/js/jquery/jquery.js"></script>
+			<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.js"></script>
 			
 			<script type="text/javascript" src="/js/jquery/plugins/colorbox/jquery.colorbox-min.js"></script>
 			
@@ -140,12 +144,13 @@
 			<script type="text/javascript" src="/js/jquery/plugins/jquery.overlabel.js"></script>
 			
 <script type="text/javascript">
-// use window load to detect autofill, and skip if browser supports placeholder
-$(window).load(function() {
-//$(document).ready(function(){
-	if(!BTUtils.browserSupportsPlaceholder())
-		$("#global-search-overlabel").overlabel().show();
-});
+
+function clearSearchBox(searchTerm){
+	if (searchTerm == ' Search...'){
+		document.getElementById('global-search-field').value = '';
+	}		
+		
+}
 </script>
 
 <style>
@@ -261,6 +266,31 @@ $(window).load(function() {
 <script type="text/javascript">/* <![CDATA[ */
 	if (window.ColdFusion) ColdFusion.required['loginPassword']=true;
 /* ]]> */</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+	var tempimg = new Image();
+	// preload alternates
+	tempimg.src = '/images/btn-sign-in-small-hover.png';
+	tempimg.src = '/images/btn-sign-in-small-click.png';
+	// and swap images on mouseover and click
+	$('#btn-sign-in-small-7076').hover(
+		function(evt) {
+			$(this).attr('src','/images/btn-sign-in-small-hover.png');
+		},
+		function(evt) {
+			$(this).attr('src','/images/btn-sign-in-small.png');
+		}
+	).click(
+		function(evt) {
+			$(this).attr('src','/images/btn-sign-in-small-click.png');
+		}
+	);
+
+});
+
+</script>
 <script type="text/javascript">
 <!--
     _CF_checkCFForm_1 = function(_CF_this)
@@ -309,7 +339,7 @@ $(window).load(function() {
 			<script type="text/javascript" src="/js/jquery/modalWin/modalWin.js"></script>
 			<link type="text/css" rel="stylesheet" href="/js/nifty/niftyCorners.css" media="screen"></head>
 
-<body id="btBody" class="main"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width:0; height:0; overflow:hidden" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
+<body id="btBody" class="main">
 
 
 <div id="header">
@@ -321,32 +351,30 @@ $(window).load(function() {
 	
 
 	
-	<div id="navbox">
+	
+	<div id="navbox" style="width:512px">
 		<ul id="nav">
 			
 			<li class="">
-				<a href="/go/home">Home</a>
+				<a href="/go/home?redir=0" style="z-index:1;">Home</a>
 			</li>
 			
 			<li class="">
-				<a href="/go/community-teams">Community</a>
+				<a href="/go/athletes" style="z-index:2;">Athletes</a>
 			</li>
 			
 			<li class="">
-				<a href="javascript:goShop()">Shop</a>
+				<a href="http://sportsbuzz10.blogspot.com/" style="z-index:3;">Blog</a>
 			</li>
 			
 			<li class="">
-				<a href="http://sportsbuzz10.blogspot.com/">Blog</a>
-			</li>
-			
-			<li class="">
-				<a href="/go/subscribe">Join Now</a>
+				<a href="/go/subscribe" style="z-index:4;">Join Now</a>
 			</li>
 			
 		</ul>
 	</div>
 	
+
 
 </div> 
 
@@ -362,198 +390,11 @@ $(window).load(function() {
 
 	
 
-	<td width="340">
+	<td width="340" style="padding-left:10px">
 	
-<script type="text/javascript" language="javascript">
-    $(document).ready(function() {
+	<a href="http://twitter.com/sportsbuzz" target="_new" title="Follow us on Twitter"><img src="/images/twitter-small.png" alt="Twitter"></a>
+	<a href="http://www.facebook.com/pages/SportsBUZZ/125551180797600?ref=ts#!/pages/SportsBUZZ/108085632592377" target="_new" title="Follow us on Facebook"><img src="/images/facebook-small.png" alt="Facebook"></a>
 
-		$("a.sportsMenu").hover(
-
-			function(e) {
-				//alert("table#sub-"+this.id);
-				$("table.sportSubMenu").hide();
-				$("table#sub-"+this.id).show();
-				$("a.sportsMenu").removeClass("sportsMenuHover");
-				$("#"+this.id).addClass("sportsMenuHover");
-			}
-			,
-			function(e) {
-				$("table.sportSubMenu").hide();
-				$("a.sportsMenu").removeClass("sportsMenuHover");
-			}
-
-		);
-
-		$("table.sportSubMenu").hover(
-
-			function(e) {
-				parent_id = this.id.substring(4);
-				//alert(parent_id);
-				$("#"+parent_id).addClass("sportsMenuHover");
-				$("#"+this.id).show();
-			}
-			,
-			function(e) {
-				$("table.sportSubMenu").hide();
-				$("a.sportsMenu").removeClass("sportsMenuHover");
-			}
-		);
-
-		$('ul.sportsMenu a').each(function(){
-			this.href = this.href + "&parentAction=getPage";
-		});
-    });
-</script>
-
-	<ul id="menuContainer" class="sportsMenu">
-	
-			<li class="pipe">		
-				
-
-				<a id="nfl" class="sportsMenu" href="#">NFL</a>
-				
-						<table class="sportSubMenu" id="sub-nfl">
-						<tbody><tr><td>
-
-						
-														<div>
-															<a class="active" href="/index.cfm?action=atlanta-falcons">Atlanta Falcons</a>
-														</div>
-													
-														<div>
-															<a class="active" href="/index.cfm?action=chicago-bears">Chicago Bears</a>
-														</div>
-													
-														<div>
-															<a class="active" href="/index.cfm?action=cleveland-browns">Cleveland Browns</a>
-														</div>
-													
-														<div>
-															<a class="active" href="/index.cfm?action=new-orleans-saints">New Orleans Saints</a>
-														</div>
-													
-														<div>
-															<a class="active" href="/index.cfm?action=philadelphia-eagles">Philadelphia Eagles</a>
-														</div>
-													
-														<div>
-															<a class="active" href="/index.cfm?action=washington-redskins">Washington Redskins</a>
-														</div>
-													
-						
-					</td>
-					</tr>	
-					
-					</tbody></table>
-				
-			</li>
-		
-			<li class="pipe">		
-				
-
-				<a id="nba" class="sportsMenu" href="#">NBA</a>
-				
-						<table class="sportSubMenu" id="sub-nba">
-						<tbody><tr><td>
-
-						
-					
-
-					</td></tr><tr>
-						<td></td>
-					</tr>
-					<tr>
-						<td>
-						<form name="CFForm_1" id="CFForm_1" action="/go/notificationemail" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_1(this)">
-						<input type="hidden" name="sport" value="nba">
-						<div style="font-size:14px;"><strong>Coming in 2011!</strong></div>
-						<div style="font-size:14px;padding:5px 0 10px;">
-							Submit your email and we'll give you a buzz!
-						</div>
-						<div style="font-size:14px;">
-							<input name="email" type="text" maxlength="50" style="width:200px" id="email" size="30">
-							<button type="submit" class="img small">Submit</button>
-						</div>
-						</form>
-
-						</td>
-					</tr>
-					
-					</tbody></table>
-				
-			</li>
-		
-			<li class="pipe">		
-				
-
-				<a id="mlb" class="sportsMenu" href="#">MLB</a>
-				
-						<table class="sportSubMenu" id="sub-mlb">
-						<tbody><tr><td>
-
-						
-					
-
-					</td></tr><tr>
-						<td></td>
-					</tr>
-					<tr>
-						<td>
-						<form name="CFForm_2" id="CFForm_2" action="/go/notificationemail" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_2(this)">
-						<input type="hidden" name="sport" value="mlb">
-						<div style="font-size:14px;"><strong>Coming in 2011!</strong></div>
-						<div style="font-size:14px;padding:5px 0 10px;">
-							Submit your email and we'll give you a buzz!
-						</div>
-						<div style="font-size:14px;">
-							<input name="email" type="text" maxlength="50" style="width:200px" id="email" size="30">
-							<button type="submit" class="img small">Submit</button>
-						</div>
-						</form>
-
-						</td>
-					</tr>
-					
-					</tbody></table>
-				
-			</li>
-		
-			<li class="">		
-				
-
-				<a id="nhl" class="sportsMenu" href="#">NHL</a>
-				
-						<table class="sportSubMenu" id="sub-nhl">
-						<tbody><tr><td>
-
-						
-					
-
-					</td></tr><tr>
-						<td></td>
-					</tr>
-					<tr>
-						<td>
-						<form name="CFForm_3" id="CFForm_3" action="/go/notificationemail" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_3(this)">
-						<input type="hidden" name="sport" value="nhl">
-						<div style="font-size:14px;"><strong>Coming in 2011!</strong></div>
-						<div style="font-size:14px;padding:5px 0 10px;">
-							Submit your email and we'll give you a buzz!
-						</div>
-						<div style="font-size:14px;">
-							<input name="email" type="text" maxlength="50" style="width:200px" id="email" size="30">
-							<button type="submit" class="img small">Submit</button>
-						</div>
-						</form>
-
-						</td>
-					</tr>
-					
-					</tbody></table>
-				
-			</li>
-		
-	</ul>
 	
 	</td>
 	
@@ -571,15 +412,16 @@ $(window).load(function() {
 	
 	</span>
 
-	
+	 
 	</td>
 
 	<td align="right" nowrap=""> <form name="searchForm" id="global-search-form" action="/index.cfm" method="get" target="_top" onsubmit="return _CF_checksearchForm(this)">
 	<input type="hidden" name="action" value="search">
 	
-	<div class="overlabel-wrapper" style="display:inline-block;margin-top:0;padding-top:0;vertical-align:middle">
+	
+	<div class="overlabel-wrapper">
 		<label id="global-search-overlabel" for="global-search-field" class="overlabel">Search</label>
-		<input name="searchString" type="text" style="width:150px;height:19px;padding:1px" id="global-search-field" class="search-field" title="Search" placeholder="Search...">
+		<input name="searchString" type="text" value=" Search..." onfocus="clearSearchBox(this.value);" style="width:150px;height:19px;padding:1px" id="global-search-field" class="search-field">
 		<input type="image" src="/images/arrow-button.png" align="top" style="position:relative;top:1px;left:2px">
 	</div>
 	</form>
@@ -588,13 +430,19 @@ $(window).load(function() {
 	</tr>
 	</tbody></table>
 
+
+
 	</div> 
+	
 	</div> 
 
-	
+
+
+
+
 
 		<div id="loginBox">
-			<form name="CFForm_1" id="CFForm_1" action="https://www.sportsbuzz.com/go/login" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_1(this)">
+			<form name="CFForm_1" id="CFForm_1" action="/go/login" method="post" class="roundedForm" onsubmit="return _CF_checkCFForm_1(this)">
 			<input type="hidden" name="nextPage" value="/go/myhome">
 			<div>
 				Username<br>
@@ -605,11 +453,22 @@ $(window).load(function() {
 				<input name="password" type="password" maxlength="50" style="width:200px" id="loginPassword" size="30">
 			</div>
 			<div>
-				<button type="submit" class="img small">Sign In</button>
-				<span style="margin-left:10px">
+				<table width="100%">
+				<tbody><tr>
+					<td> 
+	<input type="image" id="btn-sign-in-small-7076" src="/images/btn-sign-in-small.png" alt="Sign In" style="">
+	</td>
+					<td align="right" class="small">
 					<input type="checkbox" name="rememberMe" id="loginRememberMe" value="1" checked="checked">
-	            	<label for="loginRememberMe">Remember me</label>
-				</span>
+		            <label for="loginRememberMe">Remember me</label>
+					</td>
+				</tr>
+				</tbody></table>
+			</div>
+			<div>
+				
+
+				
 			</div>
 			<div>
 				<a href="/go/forgotPassword">Forgot your password?</a>
@@ -667,7 +526,7 @@ Some of these Web beacons may be placed by third party service providers to help
 </p><h3>5. Accessing Web Account Information</h3>  <p>
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current.  You may review this information by contacting us by sending an email to our support area info@sportsbuzz.com.  </p><p>
 </p><h3>6. Changes to this Statement</h3>  <p>
-BUZZ NETWORKS LLC has the discretion to occasionally update this privacy statement.  When we do, we will also revise the ?updated? date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.  </p><p>
+BUZZ NETWORKS LLC has the discretion to occasionally update this privacy statement.  When we do, we will also revise the updated date at the top of this Privacy page.  We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect.  Your continued use of the service constitutes your agreement to this privacy statement and any updates.  </p><p>
 </p><h3>7. Contacting Us</h3>  <p>
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at info@sportsbuzz.com or send your comments to:  </p><p>
 BUZZ NETWORKS LLC Attention:  Privacy Statement Personal Customer Service Manager 355 E. Ohio Street, Unit # 3802 Chicago IL 60611 USA  </p><p>
@@ -682,10 +541,10 @@ BUZZ NETWORKS LLC will use commercially reasonable efforts to promptly respond a
 
 	
 	<div id="footer">
-	<table>
+	<table width="100%">
 		<tbody><tr valign="top">
 
-			<td width="180">
+			<td width="25%">
 			<h3>Quick Links</h3>
 			<div>:: <a href="/">SportsBUZZ Homepage</a></div>
 			<div>:: <a href="/pages/about-us">What's SportsBUZZ.com?</a></div>
@@ -699,79 +558,72 @@ BUZZ NETWORKS LLC will use commercially reasonable efforts to promptly respond a
 			</div>
 			</td>
 
-			<td width="170">
-			<h3>Top Athlete</h3>
-			<div>:: <a href="/go/athletes?sort=newest">Newest Athletes</a></div>
-			<div>:: <a href="/go/athletes?sort=messageCount">Most Active</a></div>
-			<div>:: <a href="/go/athletes?sort=followerCount">Most Popular</a></div>
-			<div>:: <a href="/go/athletes&amp;sort=voteCount">Most Votes</a></div>
-			<div>:: <a href="/go/athletes?sort=commentCount">Most Comments</a></div>
-			<div>:: <a href="/go/community-athletes">Complete List</a></div>
+			
+			
+
+			<td width="25%">
+			<h3>Top Athletes</h3>
+			
+			<div>:: <a href="/athletes/desmond-clark">Desmond Clark</a></div>
+			
+			<div>:: <a href="/athletes/lorenzo-alexander">Lorenzo Alexander</a></div>
+			
+			<div>:: <a href="/athletes/chansi-stuckey">Chansi Stuckey</a></div>
+			
+			<div>:: <a href="/athletes/carlton-mitchell">Carlton Mitchell</a></div>
+			
+			<div>:: <a href="/athletes/reed-doughty">Reed Doughty</a></div>
+			
+			<div>:: <a href="/go/athletes">Complete List</a></div>
 			</td>
 
-			<td width="220">
-			<h3>Top Searched Athletes</h3>
-			<div>:: <a href="/go/athlete-display?contactId=29">Chris Cooley</a></div>
-			<div>:: <a href="/go/athlete-display?contactId=74">Alex Brown</a></div>
-			<div>:: <a href="/go/athlete-display?contactId=256">Casey Rabach</a></div>
-			<div>:: <a href="/go/athlete-display?contactId=151">Santana Moss</a></div>
-			<div>:: <a href="/go/athlete-display?contactId=291">Reed Doughty</a></div>
-			<div>:: <a href="/go/athlete-display?contactId=155">Fred Davis</a></div>
-			<div>:: <a href="/go/athlete-display?contactId=884">Garrett Hartley</a></div>
-			<div>:: <a href="/go/athlete-display?contactId=678">Remi Ayodele</a></div>
-			</td>
+			
 
-			<td width="180">
+			<td width="25%">
 			<h3>My Account</h3>
 			<div>:: <a href="/go/login">Login</a></div>
-			<div>:: <a href="/go/myhome">My SportsBUZZ Home</a></div>
+			<div>:: <a href="/go/buzz-feed">My SportsBUZZ Home</a></div>
 			
 			
 			<div>:: <a href="/go/profile">My Profile</a></div>
 			<div>:: <a href="/go/changePassword">Change Password</a></div>
 			
+			<div>:: <a href="/go/refer-friend">Refer a Friend</a></div>
 			<div>:: <a href="/pages/terms-and-conditions">Terms &amp; Conditions</a></div>
 			</td>
 
-			<td width="180">
-			<h3>Help</h3>
-			<div>:: <a href="/go/support">Support Center &amp; F.A.Q.s</a></div>
+			<td width="25%">
+			<h3>Resources</h3>
 			<div>:: <a href="/go/frequently-asked-questions">Common Questions</a></div>
-			<div>:: <a href="/pages/refunds">Refund Policy</a></div>
+			
 			<div>:: <a href="/go/forgotPassword">Lost Your Password?</a></div>
 			<div>:: <a href="/go/contact-us">Contact Us</a></div>
-			
 			<div>:: <a href="/go/sitemap">Sitemap</a></div>
-			
 			</td>
 
-		</tr>
-	</tbody></table>
-
-	<table style="margin-top:50px;" width="100%">
-		<tbody><tr>
-			<td width="33%">
-				<a href="http://www.nflplayers.com" target="_blank"><img src="/images/nflpa-badge.jpeg" alt="NFLPA Players Association"></a>
-			</td>
-			<td align="center" style="color:silver">
-				<b>BUZZNetworks, LLC</b><br>
-				44340 Premier Plaza<br>Suite 130<br>Ashburn, VA 20147
-			</td>
-			<td align="right" width="33%">
-			<table>
-				<tbody><tr>
-				<td>
-				<div style="margin-top:0;padding-top:0"><script type="text/javascript" src="https://sealserver.trustwave.com/seal.js?style=normal"></script></div>
-				</td>
-				<td>
-				<div class="AuthorizeNetSeal"><script type="text/javascript" language="javascript">var ANS_customer_id="b08ef1c7-9296-48f0-8bec-0cc7517db0ec";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Online Payment Service</a> </div>
-				</td>
-				</tr>
-			</tbody></table>
-			</td>
 		</tr>
 	</tbody></table>
 	</div>
+
+	<table style="margin:0 50px 10px 15px;" width="100%">
+		<tbody><tr valign="top">
+			<td>
+
+			<table>
+				<tbody><tr>
+				<td>
+				<a href="http://www.nflplayers.com" target="_blank"><img src="/images/nflpa-badge.jpeg" alt="NFLPA Players Association"></a>
+				</td>
+				
+				</tr>
+			</tbody></table>
+
+			</td>
+			<td align="right" style="color:#595858;padding:10px 32px;font-size:8pt">
+				BUZZNetworks, LLC | 44340 Premier Plaza | Suite 130 | Ashburn, VA 20147
+			</td>
+		</tr>
+	</tbody></table>
 	
 
 </div> <!-- end of page -->
@@ -782,7 +634,7 @@ BUZZ NETWORKS LLC will use commercially reasonable efforts to promptly respond a
 
 
 
-<!-- serverName: 149263-4.149263-4.com -->
+<!-- serverName: 159507-2.159507.com -->
 
 
 
