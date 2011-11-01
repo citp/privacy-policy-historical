@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mabel.ca privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216001148id_/http%3A//www.mabel.ca/info/privacy%2520and%2520security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mabel.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101150335id_/http%3A//www.mabel.ca/info/privacy%2520and%2520security) for the most accurate reproduction.*
 
 # Privacy and Security
 
@@ -12,4 +12,4 @@ Your credit card payment is processed in real-time by [Moneris Solution](http://
 
 ## Website Content Policy
 
-Mabel's Labels voluntarily labels its pages with ICRA tags. ICRA has created a content description system which allows web masters and digital content creators to self-label their content in categories such as nudity, sex, language, violence, other potentially harmful material and chat. Learn more about how to protect your children using ICRA at [Wikipedia](http://en.wikipedia.org/wiki/Internet_Content_Rating_Association) and [ICRA](http://www.icra.org/parents/).
+Mabel's Labels voluntarily labels its pages with ICRA tags. ICRA has created a content description system which allows web masters and digital content creators to self-label their content in categories such as nudity, sex, language, violence, other potentially harmful material and chat. Learn more about how to protect your children using ICRA at [Wikipedia](http://en.wikipedia.org/wiki/Internet_Content_Rating_Association) and [ICRA](http://www.icra.org/).
