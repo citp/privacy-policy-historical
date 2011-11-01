@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballuser.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222200651id_/http%3A//www.footballuser.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballuser.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115520id_/http%3A//www.footballuser.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - footballuser.com
 
@@ -18,10 +18,7 @@ footballuser.com does use cookies to store information about visitors preference
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to footballuser.com and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense and ValueClick Media. 
-
-**ValueClick Media**   
-Online behavioral advertising ("OBA") and/or multi-site advertising is occurring on footballuser.com. We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit <http://valueclickmedia.com/webuser_privacy.shtml>. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense. 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on footballuser.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
