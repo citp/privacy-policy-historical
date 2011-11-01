@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sni.pr privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628110650id_/http%3A//www.sni.pr/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sni.pr privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101181605id_/http%3A//sni.pr/index/privacy) for the most accurate reproduction.*
 
 # Snipr - Make your Internet Marketing breakthrough.
 
