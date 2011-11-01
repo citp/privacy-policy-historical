@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the welovewp.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521052606id_/http%3A//welovewp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welovewp.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145518id_/http%3A//welovewp.com/privacy-policy) for the most accurate reproduction.*
 
-# We Love WP – WordPress Gallery, WordPress Websites, Blog Designs, Designer Inspiration and WP Themes. » Privacy Policy
+# Privacy Policy Themes - Wordpress Gallery Blog Designs
 
 #### Privacy Policy
 
