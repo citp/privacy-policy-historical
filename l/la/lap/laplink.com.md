@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124044130id_/http%3A//laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laplink.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123853id_/http%3A//www.laplink.com/siteinfo/default.asp) for the most accurate reproduction.*
 
 # Laplink Software - Privacy Policy
 
@@ -56,8 +56,8 @@ Visitors who decide they no longer wish to receive our product mailings or promo
 
 
 Laplink Software Inc.  
-14335 NE 24th Street, Suite 201  
-Bellevue, WA 98007  
+600 108th Avenue N.E., Suite 610   
+Bellevue, WA 98004  
 USA  
 Phone: 425.952.6000  
 Fax: 425.952.6002  
