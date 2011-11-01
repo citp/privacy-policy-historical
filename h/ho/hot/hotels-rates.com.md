@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels-rates.com privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027101815id_/http%3A//www.hotels-rates.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels-rates.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005015id_/http%3A//www.hotels-rates.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Hotels-Rates.com
 
@@ -6,7 +6,7 @@ We are committed to protecting your personal privacy and the information you ent
 
 We will not ask you for information that does not have a purpose and we will not require information to be disclosed that is not absolutely necessary. 
 
-Any information obtained by byRate will not be shared with any third parties with the exception of the booking engine used to make your reservations. All of our data is kept private within the company. We will not disclose personal information except to appropriate authorities as required by law.
+Any information obtained by Hotels-Rates.com will not be shared with any third parties with the exception of the booking engine used to make your reservations. All of our data is kept private within the company. We will not disclose personal information except to appropriate authorities as required by law.
 
 Here is more specific information that we have to collect and the reasons why we do it:
 
@@ -18,7 +18,7 @@ We will use the information you provide about yourself in order to make the Hote
 
 We understand that for you to take full advantage of the benefits of this interactive medium, we must do what we can to ensure that your privacy is secure and that the privacy of others is respected. And also use some generic information that is non-personal to improve the users experience.
 
-byRate may from time to time, include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of site visitors or the most popular vacation destinations. But there is no personal information given out.
+Hotels-Rates.com may from time to time, include information about your visit in collective or aggregated data that does not identify you specifically. For example, we may tell our advertisers or investors the number of site visitors or the most popular vacation destinations. But there is no personal information given out.
 
 Via our servers, we are able to recognize domain names and the pages that are visited in at specific times. This data is then gathered in an aggregate manner for quality control and the perpetual improvement of our site. This will help enhance your experience and keep you coming back! 
 
@@ -35,6 +35,6 @@ This site may contain links to other sites. Please be aware that Hotels-Rates.co
 
 Contact Us
 
-If you have any questions regarding this Privacy Statement, the practices of HotelsHotel.com, or your dealings with our web site, please contact us at: [info@Hotels-Rates.com](http://www.hotels-rates.com/contactus.asp)
+If you have any questions regarding this Privacy Statement, the practices of Hotels-Rates.com, or your dealings with our web site, please contact us at: [info@Hotels-Rates.com](http://www.hotels-rates.com/contactus.asp)
 
 This Privacy Policy was posted on Hotels-Rates.com on July, 2001 update September 2003. We reserve the right to change, modify or amend this policy at any time. If we make any significant change to this policy, we will post notice of the change on Hotels-Rates.com for a period of at least six months after the change is implemented.
