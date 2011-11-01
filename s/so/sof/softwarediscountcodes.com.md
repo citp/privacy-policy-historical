@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the softwarediscountcodes.com privacy policy that was archived on 2010-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100116083934id_/http%3A//www.softwarediscountcodes.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwarediscountcodes.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003814id_/http%3A//www.thesoftwareclub.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Software Discount Codes
+# Privacy Policy - The Software Club
 
-[Back to the Software Discount Codes Store](https://web.archive.org/)
+[Back to The Software Club](https://web.archive.org/)
 
-**Software Discount Codes Privacy Policy**
+**The Software Club Privacy Policy**
 
-In relation to the website: www.softwarediscountcodes.com ("the Site").  
-Run By: DML ("we/us").
+In relation to the website: www.thesoftwareclub.com ("the Site").  
+Run By: TMMN ("we/us").
 
 The Site is a UK based website and complies with the requirements of the UK Data Protection Act 1998 relating to the personal information you supply on the Site. The Site uses a security system that protects your information from unauthorised use. However, as no data transmissions over the Internet can be guaranteed to be 100% secure, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk.
 
 What information we hold about you
 
-Software Discount Codes do not hold any information about you when you purchase a product. All information will be held by the Software Retailer so we would ask that you refer to the relevant publisher's Privacy Policy before you purchase a product from them. You may optionally decide to opt in to receive our newsletter and special offers. In this case we would store your email address, name and any other details you may submit securely. You may opt-out of this at any time by using the unsubscribe information at the bottom of each email. We will never sell, trade or show your email address and contact details to other parties. 
+The Software Club do not hold any information about you when you purchase a product. All information will be held by the Software Retailer so we would ask that you refer to the relevant publisher's Privacy Policy before you purchase a product from them. You may optionally decide to opt in to receive our newsletter and special offers. In this case we would store your email address, name and any other details you may submit securely. You may opt-out of this at any time by using the unsubscribe information at the bottom of each email. We will never sell, trade or show your email address and contact details to other parties. 
 
 Cookies
 
@@ -27,14 +27,14 @@ By using our web site you consent to us using the personal information you have 
 Please note that we do provide links to other sites, which may not be governed by this Privacy Policy and you should view the particular privacy policies of those sites for further information.  
 We may occasionally modify this Privacy Statement, such variations becoming effective immediately upon posting to the Site and by continuing to use the Site, you will be deemed to accept any such variations. 
 
-[Back to the Software Discount Codes Store](https://web.archive.org/)
+[Back to The Software Club Store](https://web.archive.org/)
 
   
 
 
-Follow us on [](http://twitter.com/softwarecodes)
+Follow us on [](http://twitter.com/thesoftwareclub)
 
-[](https://web.archive.org/web/20100116083934id_/http%3A//www.softwarediscountcodes.com/newsletter-signup.html)
+[](https://web.archive.org/web/20111102003814id_/http%3A//www.thesoftwareclub.com/newsletter-signup.html)
 
   
 
