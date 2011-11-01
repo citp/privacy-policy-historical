@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vebtools.com privacy policy that was archived on 2010-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100416170150id_/http%3A//www.vebtools.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vebtools.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140049id_/http%3A//www.vebtools.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Vebtools.com
 
