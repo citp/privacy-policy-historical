@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingscoop.com privacy policy that was archived on 2010-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101203221230id_/http%3A//marketingscoop.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingscoop.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152754id_/http%3A//www.marketingscoop.com/privacy.htm) for the most accurate reproduction.*
 
 # Marketing, Internet Marketing, Search Engine Optimization - Marketing Scoop
 
@@ -51,7 +51,7 @@ We only want to send you information if you want to receive it. You may opt out 
 **Promotions, Surveys and Contests  
 **From time-to-time our site requests information from users via promotions, surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), segmentation information (such as high school student, parent, etc.) and demographic information (such as zip code). Contact information will be used to process entries, send promotional material, notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving use of and satisfaction with this Web site. 
 
-Please be sure to consult the official rules of any contest or sweepstakes you enter on Petersons.com as specific data collection and usage practices may vary by contest or sweepstakes. Unless the official rules or entry instructions provide otherwise, contest or sweepstakes participants may opt-out of receiving future Marketing Scoop's mailings or having their information shared with other companies by the method described above. 
+Please be sure to consult the official rules of any contest or sweepstakes you enter on MarketingScoop.com as specific data collection and usage practices may vary by contest or sweepstakes. Unless the official rules or entry instructions provide otherwise, contest or sweepstakes participants may opt-out of receiving future Marketing Scoop's mailings or having their information shared with other companies by the method described above. 
 
 **Email A Friend/Tell A Friend  
 **If a user elects to participate in our referral program for recruiting friends to become a customer of the site, we ask the user to provide the email address of the friend who will then receive a one-time email message. Friends recruited through this program will register with us and enjoy all of the benefits of being a user. 
