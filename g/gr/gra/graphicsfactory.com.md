@@ -1,72 +1,67 @@
-> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602164142id_/https%3A//www.graphicsfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101035701id_/http%3A//www.graphicsfactory.com/g-privacy.html) for the most accurate reproduction.*
 
-# Graphics Factory.com - Privacy Policy
+# Graphics Factory.com's Privacy Policy
 
-[](http://www.graphicsfactory.com/) | **Privacy Statement**  
-Effective Date: August 23, 2006|   
----|---|---  
-  
-  
-GraphicsFactory.com has been reviewed by the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.graphicsfactory.com/ and http://www.graphicsfactory.com/. 
+**GraphicsFactory.com** created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this Web site: [ GraphicsFactory.com ](http://www.graphicsfactory.com/)
 
-Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Your credit card is safe with GraphicsFactory.com - [**we guarantee it!**](http://www.graphicsfactory.com/guarantee.html)
 
-If you have questions or concerns regarding this statement, you should first contact Robert Gillen at 1-800-339-2383 or [privacy@graphicsfactory.com](mailto:privacy@graphicsfactory.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+Your browser and GraphicsFactory.com's secure server encrypts confidential information during transmission, ensuring that transactions stay private and protected. GraphicsFactory.com guarantees the safety of your credit card information in the following manner: if any unauthorized use of your credit card occurs as a result of your credit card purchase at GraphicsFactory.com, simply contact us and we will credit your card, no questions asked.
 
-**Introduction**
+**We Protect Your Right to Privacy**   
+GraphicsFactory.com respects your privacy. We support the [TRUSTe](http://www.truste.org/) orginization and comply with their privacy standards. We also support [AOL’s privacy policy](http://legal.web.aol.com/policy/aolpol/privpol.html) and [eTrust Pro's](http://www.etrust.pro/) Best Practices in protecting your privacy. 
 
-Protecting your personal information is a core GraphicsFactory.com value. This privacy statement describes how GraphicsFactory.com collects and uses the personal information you provide on our Web site: www.GraphicsFactory.com. It also describes the choices available to you regarding GraphicsFactory.com's use of your personal information and the steps you can take to change it. 
+TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the principles of disclosure and informed consent. To demonstrate our commitment to your privacy, we have asked TRUSTe to review and audit our privacy practices. 
 
-We use visitors contact information (such as Email addresses) and financial information (credit card data, name, billing address). Contact information is only used to fill customer orders or to correspond regarding such orders. Financial information collected is only used to bill customers for voluntary purchases of products and services. 
+When you visit a Web site displaying the TRUSTe mark, you can expect to be notified of:   
+• What information is gathered/tracked   
+• How the information is used   
+• With whom information is shared   
+• This site's opt-out policy   
+• This site's policy on correcting and updating personally identifiable information   
+• This site's policy on deleting or deactivating your name from our database
 
-We refuse to sell, trade or otherwise transfer any type of customer data - email addresses, mailing addresses, etc., - to other companies or individuals. 
+####  Information Automatically Logged 
 
-**Use of Cookies**
+We use your IP address to help diagnose problems with our server and to administer our Web site. 
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
+####  Ordering Forms 
 
-We use both session ID cookies and/or persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+GraphicsFactory.com uses an ordering form for customers to purchase memberships. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, and age.). All information is stored in a secure server and is never transfer by e-mail. 
 
-We set a persistent cookie to store your username and password, so you don't have to enter it more than once. 
+Contact information from the order forms is used to verify purchases. The customer's contact information is also used to send promotional material from Graphics Factory to our customers, and to get in touch with the visitor when necessary. Graphics Factory never sends you emails from third parties (other companies). 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as downloading clip art, will not be available. 
+Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
-Some of our business partners (e.g., Webtrends) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by GraphicsFactory.com only and does not cover the use of cookies by any business partners. 
+Financial information that is collected is only used to bill the user for download images and memberships. 
 
-**Service Providers**
+Demographic and profile data is also collected at our site.   
+We use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
 
-We use other third parties PayPal and Verisign to provide payment services on our site. When you join GraphicsFactory.com, we will share Billing address and payment information as necessary for the third party to provide that service. 
+####  External Links 
 
-These third parties are prohibited from using your personally identifiable information for any other purpose. 
+This site contains links to other sites. **GraphicsFactory.com** is not responsible for the privacy practices or the content of such Web sites. 
 
-**Security**
+####  Public Forums or Blogs 
 
-The security of your personal information is important to us. We have strong security measures in place to protect from the loss, misuse or alteration of information under our control. Our site uses secure order forms for our customers to make purchases in safe and private manner. All data submitted through our secure forms is protected the entire online route - from the customer's computer to ours - with powerful SSL encryption technology. To learn more about SSL, [follow this link](http://en.wikipedia.org/wiki/Secure_Sockets_Layer). 
+This site has a public forum or blog available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. 
 
-If you have any questions about security on our Web site, you can send email us at [feedback@graphicsfactory.com](mailto:feedback@graphicsfactory.com). 
+####  Security 
 
-**Testimonials** If you post a testimonial on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of this site, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit on this site. 
+This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.   
+We guarantee that every transaction you make at GraphicsFactory.com will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at GraphicsFactory.com. See [guarantee details](http://www.graphicsfactory.com/guarantee.html) to read more. 
 
-**Use Of Member Information Collected**
+####  Choice/Opt-Out 
 
-We only use your Email address to send Email when we update the site, usually monthly. We never sell or share your Email address with other companies. You also have the option to not receive newsletters, this can be change in the edit account area once you are signed in. 
+Our site provides users the opportunity to opt-out of receiving promotional/marketing information from us . 
 
-You can opt-out of receiving the update newsletters, but we may send occasional critical newsletters if we have important information to share about the workings of your membership. If you do not wish to receive them, you have the option to deactivate your account. 
+  1. You can easily unsubscribe at anytime by emailing [feedback@graphicsfactory.com](mailto:feedback@graphicsfactory.com) with _unsubscribe as the subject_ and your _email address_ you want to unsubscribe as the message. 
 
-**Correct/Update/Contact**
 
-This site gives users the option of changing, modifying or deleting information previously provided. To do so, or if you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please feel free to contact us using the information below. 
 
-[privacy@graphicsfactory.com](mailto:privacy@graphicsfactory.com).
+##  Contacting the Web Site 
 
-GraphicsFactory.com  
-2051 E Red Hills Pkwy #2  
-Saint George, UT 84770 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [contact us](http://www.graphicsfactory.com/g-contact.html).   
 
-1-800-339-2383 
 
-**Disclosure Statement**
-
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site. 
-
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. 
+* * *
