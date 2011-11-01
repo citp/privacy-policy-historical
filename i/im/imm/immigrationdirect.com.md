@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605002435id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigrationdirect.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105527id_/http%3A//www.immigrationdirect.com/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - Immigration Direct - Immigration Services Online
 
