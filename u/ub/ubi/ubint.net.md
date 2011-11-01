@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubint.net privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628172549id_/http%3A//www.ubint.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubint.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101222956id_/http%3A//ubint.net/privacy.php) for the most accurate reproduction.*
 
 # Unblock Websites | Website Unblocker - Ubint.Net
 
@@ -20,6 +20,6 @@ Our website stores a cookie on your computer, if allowed by your browser's priva
 
 We may also use third-party advertising partners on our website. Advertisers may send you cookies or use web beacons. We have no control over cookies, web beacons or the information collected by our advertisers. Consult the third-party advertiser's privacy policy for more information on their practices.
 
-The service we provide allows indirect browsing of third-party websites. A third-party website may attempt to send cookies to the user. We store these cookies on our server and automatically forward them onto the target server. Your cookie data is treated strictly confidentially, stored privately and deleted soon after you leave our website. If you would prefer us not to store your cookies, please disable the "Allow Cookies" option.
+The service we provide may attempt to forward third-party cookies from the websites you choose to browse. We have no control over indirect cookies and you are advised to consult the privacy policy of the applicable third-party website. If you do not wish to receive any such indirect cookies, please disable the "Allow Cookies" option.
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
