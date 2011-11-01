@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624103244id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125052id_/http%3A//www.garfield.com/privacy.html) for the most accurate reproduction.*
 
 # Garfield.com - Privacy Policies
 
@@ -27,11 +27,6 @@ Terms of Service: <http://www.commercebank.com/about/about/termsservice.asp>
 Privacy Policy: <http://www.commercebank.com/about/about/privacy.asp>
 
   
-MBNA Europe Bank Limited   
-Terms of Service: <http://www.mbna.com/europe/terms.html>   
-Privacy Policy: <http://www.mbna.com/europe/privacy.html>
-
-  
 Industrial Bank Corporation  
 Terms of Service and Privacy Policies:  
 [http://creditcard.cib.com.cn/card/card.portal@_nfpb=true&_pageLabel=index_aqsm](http://creditcard.cib.com.cn/card/card.portal@_nfpb=true&_pageLabel=index_aqsm)  
@@ -47,16 +42,11 @@ Privacy Policy: <http://www.garfieldcollectibles.com/privacy.asp>
 UNIVERSAL UCLICK   
 Terms of Use: [https://register.UCLICK.com/reg/termsofuse.html](https://register.uclick.com/reg/termsofuse.html)   
 Privacy Policy: [https://register.UCLICK.com/reg/privacy_policy.html](https://register.uclick.com/reg/privacy_policy.html)   
-Powered by M-Qube: Mobile Media Management  
-Privacy Policy: [http://www.m-qube.com/html/utility/privacy.html ](http://www.m-qube.com/html/utility/privacy.html)
+
 
   
-Adveractive, Inc. (Platonium.com)  
+Downloadable interactive jigsaw puzzles  
 Privacy Policy: <http://www.playtonium.com/privacy.php>
-
-  
-ESP International  
-Privacy Policy: <https://internal.bpn.net/permanent.pages/privacy.cfm>
 
   
 Paws, Inc.  
@@ -64,41 +54,52 @@ Terms of Use: <http://www.professorgarfield.org/termsofuse.html>
 Privacy Policy: <http://www.professorgarfield.org/privacypolicy.html>
 
   
-Cingular Wireless (now AT & T)   
+Garfield mobile game  
 Terms of Use: [http://www.cingular.com/legal ](http://www.cingular.com/legal)  
 Privacy Policy: <http://www.cingular.com/privacy/privacy_policy>
 
   
-My Idol Pops   
+Garfield-shaped lollipops in a Garfield-designed box   
 Terms of Use: <http://www.myidolpops.com/store/terms.php?osCsid=d6f9dbfb90ce591225a18b1ddfd276b1>  
-Privacy Policy: <http://www.myidolpops.com/store/privacy.php?osCsid=d6f9dbfb90ce591225a18b1ddfd276b1>
-
-  
-Kidcarpet  
-Terms of Use: [http://www.kidcarpet.com/orderinfo.php](https://web.archive.org/exchweb/bin/redir.asp?URL=http://www.kidcarpet.com/orderinfo.php)  
-Privacy Policy: [http://www.kidcarpet.com/security.php](https://web.archive.org/exchweb/bin/redir.asp?URL=http://www.kidcarpet.com/security.php)  
+Privacy Policy: <http://www.myidolpops.com/store/privacy.php?osCsid=d6f9dbfb90ce591225a18b1ddfd276b1>  
 
 
   
-Amazon  
+The Garfield Gift Shop  
 Privacy Policy: <http://www.amazon.com/gp/help/customer/display.html?nodeId=551434>
 
   
-Easton Press  
+Leather-bound 30th anniversary book  
 Privacy Policy: [http://www.eastonpressbooks.com/leather/privacy_policy.asp](https://web.archive.org/exchweb/bin/redir.asp?URL=http://www.eastonpressbooks.com/leather/privacy_policy.asp)
 
   
-Prudent Publishing  
+Personalized Christmas cards   
 Terms of Use: <http://www.christmascardsdirect.com/legal.htm>  
 Privacy Policy: <http://www.christmascardsdirect.com/privacy.htm>
 
   
-Rivetz  
+Charms for hats and shoes  
 Terms of Use: [customerservice@rivetzcharms.com](mailto:customerservice@rivetzcharms.com)
 
   
 Garfield nail caps for cats.  
 Privacy Policy: <http://www.smartpetsupply.net/info/privacy>
+
+  
+Different sized wall murals.  
+Privacy Policy: [http://www.muralsyourway.com/privacy-policy/](http://www.smartpetsupply.net/info/privacy)
+
+  
+Comic Strip Creation Software & Animation Software Company.  
+5530 St. Patrick, Suite 2210  
+Montreal, Quebec, Canada  
+H4E 1A8  
+Tel: (514) 278-8666  
+Privacy Policy: <http://beta.toonboom.com/legal/privacy-policy>
+
+  
+Animated/personalized comic strip  
+Privacy Policy: [http://www.pixfusion.com/PrivacyPolicy.aspx](http://www.smartpetsupply.net/info/privacy)
 
 UNIVERSAL UCLICK is the sole owner of the information collected from the UNIVERSAL UCLICK service. Your Personal Information can only be collected when you voluntarily provide it.
 
@@ -135,30 +136,10 @@ A "cookie" is a small line of text that is stored with your Web browser for reco
 UNIVERSAL UCLICK may use server logs to track your movement through our Web sites and properties - in addition, we may use this information to customize the user experience or provide registrant continuity between our various Web sites and properties. UNIVERSAL UCLICK may also use other technologies to verify and track your use of certain services, confirm receipt of certain e-mailed products or to test the integrity of our systems, products and services.
 
   
-The ads appearing on this Web site are delivered to you by our Web advertising partners. In the process of serving ads, advertisers place a cookie in your browser's cookie file and may use information (excluding your name, address, e-mail address or other personal information) about your visits to this and other Web sites in order to provide advertisements on this site and other Web sites about goods and services that may be of interest to you. By delivering ads on the Sites, UNIVERSAL UCLICK is able to record what ads a user -- identified by the unique cookie -- has seen, and what UNIVERSAL UCLICK site pages the user was viewing when the ads were delivered. This Web usage information is combined with other ad delivery information UNIVERSAL UCLICK has (e.g., what type of operating system your computer uses) collected from your visits to UNIVERSAL UCLICK Sites and other sites not affiliated with UNIVERSAL UCLICK. This non-personally identifiable information is used as part of the ad serving process for reporting and to select and direct the ads you see online at UNIVERSAL UCLICK Sites. Additionally, some ads are generated by third party ad serving systems that also may place a cookie on your browser to provide web usage information to those third parties. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access to, any personally identifying information about you. To find out more about those specific third party ad serving systems, please click to their sites below:
-
-24/7 Real Media Inc. (247realmedia.com  
-Advertising.com (advertising.com)  
-DoubleClick (doubleclick.com)  
-Eyeblaster  (eyeblaster.com)  
-Tribal Fusion (tribalfusion.com)  
-BlueLithium (BlueLithium.com)  
-Opt-Intelligence (opt-intelligence.com)  
-Casale Media (casalemedia.com)  
-ValueClick (valueclick.com)  
-Addynamix (addynamix.com)  
-Intercept Interactive (www.interceptinteractive.com)  
-Google AdSense  (www.google.com/adsense)  
-Tacoda (www.tacoda.com ) 
+The ads appearing on this Web site are delivered to you by our Web advertising partners. In the process of serving ads, advertisers place a cookie in your browser's cookie file and may use information (excluding your name, address, e-mail address or other personal information) about your visits to this and other Web sites in order to provide advertisements on this site and other Web sites about goods and services that may be of interest to you. By delivering ads on the Sites, UNIVERSAL UCLICK is able to record what ads a user -- identified by the unique cookie -- has seen, and what UNIVERSAL UCLICK site pages the user was viewing when the ads were delivered. This Web usage information is combined with other ad delivery information UNIVERSAL UCLICK has (e.g., what type of operating system your computer uses) collected from your visits to UNIVERSAL UCLICK Sites and other sites not affiliated with UNIVERSAL UCLICK. This non-personally identifiable information is used as part of the ad serving process for reporting and to select and direct the ads you see online at UNIVERSAL UCLICK Sites. Additionally, some ads are generated by third party ad serving systems that also may place a cookie on your browser to provide web usage information to those third parties. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access to, any personally identifying information about you. 
 
   
-We recognize that not all users wish to receive ads targeted to their interests and we put the wishes of our users first. If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad newtowrk's Web site individually and opt out of this type of advertising. You may find more information from these sites:
-
-For DoubleClick, one of our partners, cookies, and how to "opt-out," you can visit this page: <http://www.doubleclick.net/us/corporate/privacy/privacy/ad-cookie/default.asp>.
-
-For 24/7 Real Media, Inc., one of our partners, cookies, and how to "opt-out," you can visit this page: <http://www.247realmedia.com/privacy.html>.
-
-If you would like to opt-out of third party ad serving cookies now click here: [www.networkadvertising.org/optout_nonppii.asp.](http://www.networkadvertising.org/optout_nonppii.asp.) This opt-out feature replaces a network advertiser's unique online preference marketing cookie on your browser with a general opt-out cookie; it does not delete cookies and does not necessarily replace other cookies placed by network advertisers, such as those that are used for aggregate ad reporting or mere ad serving purposes. Such cookies allow network advertisers to rotate ad banners sequentially and track aggregate numbers of impressions. Please see the companies' privacy policies for more details or visit the NAI web site for more information. For us at UNIVERSAL UCLICK, the most important thing is that you make the choice that is best for you.
+We recognize that not all users wish to receive ads targeted to their interests and we put the wishes of our users first. Third party cookies, web beacons and other technologies are governed by each third party's specific privacy policy, not this one. While we may use a variety of companies to serve advertisements on the Web Site, you may wish to visit <http://www.networkadvertising.org/managing/opt_out.asp>, which provides information regarding the "opt-out" procedures of certain third party ad servers we may use.
 
   
 The UNIVERSAL UCLICK Sites contain links, including banner and other ads, to other Web sites. UNIVERSAL UCLICK is not responsible for the privacy practices or the content of such Web sites. The UNIVERSAL UCLICK Sites may also link to Web sites that feature UNIVERSAL UCLICK trademarks and names along with trademarks and names of other companies. You should look at the privacy policy on that co-branded Web site, as the co-branded Web site may not be under UNIVERSAL UCLICK's control.
