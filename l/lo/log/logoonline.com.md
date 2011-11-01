@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514025702id_/http%3A//www.logotv.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logoonline.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001841id_/http%3A//www.logotv.com/about/privacy-policy.jhtml) for the most accurate reproduction.*
 
 # Fierce TV: RuPaul, Full Episodes, Reality TV Shows, Gay Movies | Logo TV | Watch Free Videos & New Music Videos
 
@@ -260,4 +260,4 @@ c/o Privacy Administrator**
 **d.    Other:**  **Please review** our [**Terms of Use Agreement**](http://www.logoonline.com/about/terms-of-use.jhtml) which governs your use of the Site.  Any terms that are not defined in this Privacy Policy shall have the meaning given in the Terms of Use Agreement. 
 
 This Privacy Policy was last modified on the date indicated above and is effective immediately.  
-Copyright © 2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright © 2011 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
