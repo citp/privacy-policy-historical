@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nyp.org privacy policy that was archived on 2010-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101126163836id_/http%3A//nyp.org/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nyp.org privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101120245id_/http%3A//nyp.org/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -35,6 +35,18 @@
 
   <!-- This is the stylesheet for the Find a Doctor feature in the right column --> 
   <link rel="stylesheet" type="text/css" media="screen" href="http://www.med.cornell.edu/cms/nyp/common/css/fad.css"> 
+
+
+<!-- NYPWEBMAINT-504 for toptoolbar -->
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.med.cornell.edu/cms/nyp/common/css/panocarousel.css">
+
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.med.cornell.edu/cms/nyp/common/css/interior_toolbar.css">
+
+<!-- CMS-150 show/hide findaphys -->
+<style type="text/css">
+.no-findadoctor #findadoctor { display: none; }
+</style>
+
 
 <script type="text/javascript">
                 <!--
@@ -272,13 +284,7 @@ _tag.dcsGetId();
 
 					<li id="nav-home"><a href="http://www.nyp.org">Home</a></li>
 
-<li><a href="privacy-alert.html">
-
-						Privacy Alert</a></li>
-
-
-
-				<li><a href="contact-privacy-office.html">
+<li><a href="contact-privacy-office.html">
 
 						Contact the Privacy Office</a></li>
 
@@ -343,17 +349,17 @@ _tag.dcsGetId();
 
 						<li><a href="javascript:addbookmark()" class="bookmark" title="Bookmark Page">Bookmark</a></li>
 
-<script type="text/javascript">
+<script type="text/javascript"> 
 <!--
-
+ 
 	var js_eHASiteName = "www.nyp.org";
 	var js_emailPageName = "Privacy Notice";
 	var js_emailPageURL = returnPageURL();
-
-	document.write("<li><a href=\"javascript:popupEmailWindow('" + eHA_escapeSingleQuote(js_emailPageName)  + "', '" + js_emailPageURL + "', '" + js_eHASiteName + "')\" class=\"email\" title=\"Email Page\">Email</a></li>");
-
+ 
+	document.write("<li><a href=\"mailto:?subject=A%20link%20from%20NewYork-Presbyterian%20Hospital&body=Title:%20" + eHA_escapeSingleQuote(js_emailPageName) + "%0AURL:%20&lt;" + js_emailPageURL + "&gt;\" class=\"email\" title=\"Email Page\">Email</a></li>");
+ 
 -->
-</script><li><a href="javascript:popupEmailWindow('Privacy Notice', 'https://web.archive.org/web/20101126163836id_/http%3A//nyp.org/privacy/index.html', 'www.nyp.org')" class="email" title="Email Page">Email</a></li>
+</script><li><a href="mailto:?subject=A%20link%20from%20NewYork-Presbyterian%20Hospital&amp;body=Title:%20Privacy Notice%0AURL:%20&lt;https://web.archive.org/web/20111101120245id_/http%3A//nyp.org/privacy/index.html&gt;" class="email" title="Email Page">Email</a></li>
 
 <li><a href="#" class="print" onclick="window.print()" title="Print Page">Print</a></li>
 
@@ -373,38 +379,31 @@ _tag.dcsGetId();
 <div class="">
 <hr class="alt">
 </div>
-				<!-- Begin Find a Doctor graphic feature for right column --> 
-        <div id="findadoctor"> 
-			<ul class="fad-button"> 
-				<li><a href="http://nyp.org/findaphysician/index.html"><span>Go</span></a></li> 
-			</ul> 
-			<div class="carouselCont"> 
-				<ul> 
-                                    <!-- USNews accolade with number ranking--> 
-					<li class="accolade usnews"><a href="http://nyp.org/about/usnews-best.html"><span class="ranking"><span class="rankingCap">R</span>anked <span class="numeral">6th</span> among</span><img src="http://test2.nyp.org/findadoctor/dev/img/transparent.gif"></a></li> 
-					<!-- Generic USNews accolade --> 
-					<!-- 
-					<li class="accolade usnews"><a href="http://nyp.org/about/usnews-best.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_usnews.png" width="200" height="120" alt="U.S.News Best Hospitals" style="border: none;"/></a></li>
- 					--> 
+				<!-- Begin Find a Doctor graphic feature for right column -->
+        <div id="findadoctor">
+			<ul class="fad-button">
+				<li><a href="http://nyp.org/findaphysician/index.html"><span>Go</span></a></li>
+			</ul>
 
-				<li class="accolade"><a href="http://nyp.org/about/top-ny-doctors.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_nymag.png" width="200" height="120" alt="NewYork Magazine's Best Doctors"></a></li> 
-					<li class="accolade"><a href="http://nyp.org/about/americas-top-doctors.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_connolly.png" width="200" height="120" alt="Castle Connolly's More Top Doctors"></a></li> 
-				</ul> 
-			</div> 
-       </div> 
+			<div class="carouselCont">
+				<ul>
+					<!-- USNews accolade with number ranking-->
+					<li class="accolade usnews"><a href="http://nyp.org/about/usnews-best.html"><span class="ranking"><span class="rankingCap">R</span>anked&nbsp;<span class="numeral">6th</span> among</span><img src="http://test2.nyp.org/findadoctor/dev/img/transparent.gif"></a></li>
+					<li class="accolade"><a href="http://nyp.org/about/top-ny-doctors.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_nymag.gif" width="200" height="120" alt="NewYork Magazine's Best Doctors"></a></li>
+					<li class="accolade"><a href="http://nyp.org/about/americas-top-doctors.html"><img src="http://test2.nyp.org/findadoctor/dev/img/carousel_connolly.gif" width="200" height="120" alt="Castle Connolly's More Top Doctors"></a></li>
+
+				</ul>
+			</div>
+       </div>
       <!-- End Find a Doctor feature for right column --> 
-      
-      
-        
-        <div class=""> 
+<div class=""> 
           <hr class="alt"> 
         </div> 
-        <div id="media"> 
-          <a href="http://nyp.org/health-enews/patients-and-families-enews.html"><img width="220" height="80" alt="eNewsletters" src="http://webmedia.nyp.org/nyp/i/eNewsletters_newspaper_blue.jpg"></a> 
-        </div> 
- 
 
-</div>
+<div id="media"> 
+          		<a href="http://nyp.org/health-enews/patients-and-families-enews.html"><img width="220" height="80" alt="eNewsletters" src="http://webmedia.nyp.org/nyp/i/eNewsletters_newspaper_blue.jpg"></a> 
+        	</div> 
+ 		</div>
 			<a href="#top" id="topofpage">Top of page </a>
 		</div>
 	</div>
@@ -424,7 +423,7 @@ _tag.dcsGetId();
 
 					Privacy Notice</a> | </li>
 
-				<li><a href="../feedback/index.html">
+				<li><a href="https://survey2.med.cornell.edu/perseus/se.ashx?s=15D30E73773A43BE">
 
 					Feedback</a> | </li>
 
@@ -473,8 +472,6 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try { var pageTracker = _gat._getTracker("UA-13111199-1"); pageTracker._trackPageview(); } catch(err) {}</script>
-
-
 
 
 
