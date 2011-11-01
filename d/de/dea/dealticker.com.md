@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the dealticker.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610082535id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealticker.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113426id_/http%3A//www.dealticker.com/privacy_policy_en_263cms.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-| 
-
-Last Updated on October 18, 2010
+**Last Updated on October 18, 2010**
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how DealTicker collects information from all end users (“Users”) of DealTicker's Web site Services (the "Services"), what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. DealTicker requests that you read this Privacy Policy carefully.
 
- **Personal Information DealTicker Collects and How It Is Used**   
+**Personal Information DealTicker Collects and How It Is Used**
+
 **Introduction.** DealTicker collects information in different ways from users who access the various parts of our Services and the network of web sites accessible through our Service. We use this information primarily to provide a customized experience as you use our Services. We do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required by law or other special cases described below.
 
 **Registration.** Users are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, email address, billing information (such as a credit card number). The personal information collected from users during the registration process is used to manage each individual’s account (such as those used for security and billing purposes). This information is not shared with third parties unless specifically stated otherwise or in special circumstances. DealTicker may also generate non-identifying and aggregate profiles from personal information Users provide during registration. No personally identifiable information will be disclosed to the public.). As explained in more detail below, we may use this aggregate and non-identifying information to further enhance our services.
@@ -31,12 +30,11 @@ Please remember that any information you may disclose in public areas of our web
 
 **DealTicker's Commitment to Data Security.** Services and web sites we sponsor or host have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information.
 
-**Where to Direct Questions About DealTicker’s Privacy Policy.**   
+**Where to Direct Questions About DealTicker’s Privacy Policy.**
+
 If you have any questions about this Privacy Policy or the practices described herein, you may contact: [info@dealticker.com](mailto:info@dealticker.com).
 
 Customer Service  
 DealTicker Inc.  
 5000 Yonge St., Ste 1901  
 Toronto ON M2N 7E9 
-
-| 
