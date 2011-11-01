@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2011-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110617003813id_/http%3A//www.engineseeker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineseeker.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121638id_/http%3A//www.engineseeker.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Engine Seeker
 
