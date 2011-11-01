@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426000028id_/http%3A//www.channel3000.com/news/25475322/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channel3000.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132720id_/http%3A//www.channel3000.com/news/25475322/detail.html) for the most accurate reproduction.*
 
 # Madison News - Madison WI News, Breaking News And Headlines
 
