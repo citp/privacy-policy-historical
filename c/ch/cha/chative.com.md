@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chative.com privacy policy that was archived on 2011-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110421034614id_/http%3A//www.chative.com/chat_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chative.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101064555id_/http%3A//www.chative.com/chat_privacy_policy.php) for the most accurate reproduction.*
 
 # Video Chat Privacy Policy |Chat Online Privacy Policy
 
