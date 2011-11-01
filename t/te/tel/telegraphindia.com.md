@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210030020id_/http%3A//www.telegraphindia.com/section/others/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegraphindia.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124614id_/http%3A//telegraphindia.com/section/others/privacy.jsp) for the most accurate reproduction.*
 
 # The Telegraph - Calcutta (Kolkata) | Privacy Policy
 
