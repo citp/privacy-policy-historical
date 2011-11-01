@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamieoliver.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623182131id_/http%3A//www.jamieoliver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamieoliver.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232945id_/http%3A//www.jamieoliver.com/privacy) for the most accurate reproduction.*
 
 # Jamie Oliver | Official site for recipes, books, tv, restaurants and food revolution
 
