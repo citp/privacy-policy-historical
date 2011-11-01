@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127151032id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prodesigntools.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101164013id_/http%3A//prodesigntools.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | ProDesignTools
 
@@ -19,6 +19,10 @@ Cookies are parcels of text commonly sent by a website to a browser, which often
 ## Email Information
 
 You can sign up to receive occasional news of future Adobe discounts and coupon savings by providing your email address in the “Special Offers” box. Our newsletter aims to detail new Adobe products and help you save money on Adobe products generally. In each newsletter there is a direct link to unsubscribe if you no longer wish to receive future mailings.
+
+## Partners
+
+As official partners of Adobe, Amazon.com, Lynda.com, and other companies, we may receive revenues from product or service commissions. As members of the Google AdSense network, we may receive revenues from the display of banner advertising. However, we do not share any site data or personally-identifying information with these partners or any other entities.
 
 ## Sharing Information with Third Parties
 
