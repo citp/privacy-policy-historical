@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelboutiqueonline.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224131655id_/http%3A//travelboutiqueonline.com/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelboutiqueonline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101170437id_/http%3A//www.travelboutiqueonline.com/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-`24X7 Helpdesk Numbers : +91-0124-4998999 ` `[Home](https://web.archive.org/web/20101224131655id_/http%3A//travelboutiqueonline.com/Default.aspx) | [Contact us](https://web.archive.org/web/20101224131655id_/http%3A//travelboutiqueonline.com/contactus.htm)`
+`24X7 Helpdesk Numbers : +91-124-4998999` `[Home](https://web.archive.org/web/20111101170437id_/http%3A//www.travelboutiqueonline.com/Default.aspx) | [Contact us](https://web.archive.org/web/20111101170437id_/http%3A//www.travelboutiqueonline.com/contactus.htm)`
 
 Our Commitment To Privacy 
 
@@ -35,7 +35,7 @@ You can access all your personally identifiable information that we collect onli
 
 #### How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at +91-0124-4998999 or send us an email at helpdesk@travelboutiqueonline.com. 
+Should you have other questions or concerns about these privacy policies, please call us at +91-124-4998999 or send us an email at helpdesk@travelboutiqueonline.com. 
 
 ` **Our Partners** [](http://www.oxitravel.in/) [ ](http://flights.a4atravel.com/) [ ](http://www.saraltravel.com/) `
 
