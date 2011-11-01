@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the you-cubez.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323063733id_/http%3A//www.you-cubez.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the you-cubez.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101175423id_/http%3A//www.you-cubez.com/privacy.php) for the most accurate reproduction.*
 
 # You Cubez.com [privacy policy]
 
@@ -41,4 +41,6 @@ Any website that you may connect to from You-Cubez is not covered by this Privac
 
 We may change this privacy policy from time to time and so therefore, you should check this page regularly.
 
-© You Cubez 2010. All rights reserved. We are not responsible for content of external sites.
+[advertisement - click here to advertise](https://web.archive.org/buy_468.php)
+
+© You Cubez 2011. All rights reserved. We are not responsible for content of external sites.
