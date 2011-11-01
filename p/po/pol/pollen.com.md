@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426191214id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollen.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154949id_/http%3A//www.pollen.com/privacy_policy_general.asp) for the most accurate reproduction.*
 
 # Pollen.com - Free 4-day Allergy Forecasts and Allergy Alerts
 
@@ -49,4 +49,4 @@ Plymouth Meeting, PA 19462
 Phone: (610) 834-0800  
 e-mail:[support@pollen.com](mailto:support@pollen.com)
 
-[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20110426191214id_/http%3A//www.pollen.com/cookies.asp)
+[Important Information About Accepting/Declining Cookies](https://web.archive.org/web/20111101154949id_/http%3A//www.pollen.com/cookies.asp)
