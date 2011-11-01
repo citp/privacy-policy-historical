@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624085301id_/http%3A//www.straight.com/ref/client-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the straight.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114817id_/http%3A//www.straight.com/ref/client-privacy-policy) for the most accurate reproduction.*
 
 # Client Privacy Policy | Vancouver, Canada | Straight.com
 
