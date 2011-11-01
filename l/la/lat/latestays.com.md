@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestays.com privacy policy that was archived on 2011-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110518162810id_/http%3A//www.latestays.com/policies/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestays.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134832id_/http%3A//www.latestays.com/policies/privacy.htm) for the most accurate reproduction.*
 
 # Asia Web Direct.com: Privacy
 
@@ -33,7 +33,7 @@ We collect PII when you:
   * _Make a booking_  
 We collect your full name, email address and phone number each time you make a booking on our site. We will also collect credit card information, including card number, card type, security number, cardholder name, billing address and expiry date to pay for accommodation purchased through our site.
   * _Subscribe to our newsletter_  
-We collects email addresses from people who subscribe to our newsletter by either entering their email address in the "Newsletter" section of the site or by opting to be sent the newsletter at the time of making a booking.
+We use your email address when you make a booking on our site or request a downloadable travel guide to subscribe you to our AsiaWebDirect newsletter. You are free to unsubscribe to our newsletter at any time (see below for how to unsubscribe).
   * _Surveys, promotions and competition information_  
 Occasionally, We may offer site visitors or newsletter recipients an opportunity to participate in a survey, promotion or competition. The PII we collect when you participate in a survey, promotion or competition may include your full name, email address, telephone number and street address.
   * _Contact with us_  
