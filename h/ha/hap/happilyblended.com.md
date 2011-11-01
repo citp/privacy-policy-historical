@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happilyblended.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504124737id_/http%3A//happilyblended.com/about-2/privay-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happilyblended.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221319id_/http%3A//happilyblended.com/about-2/privay-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Happily Blended
 
@@ -69,5 +69,5 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://www.happilyblended.com  
 , New Hampshire  
 United States  
-brandyellen@happilyblended.com  
+moc.dednelbylippahnull@nelleydnarb  
 
