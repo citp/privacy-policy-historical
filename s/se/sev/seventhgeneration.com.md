@@ -1,93 +1,97 @@
-> *The following text is extracted and transformed from the seventhgeneration.com privacy policy that was archived on 2007-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071011033749id_/http%3A//www.seventhgeneration.com/about_us/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seventhgeneration.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162155id_/http%3A//www.seventhgeneration.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Seventh Generation
+# Privacy Policy | Seventh Generation
 
-Privacy Policy
+Last Updated on April 11, 2011
 
-Seventh Generation (SG) is committed to protecting your personal privacy. We have created our Privacy Policy in order to outline the type of information that is collected, how we protect it and how you can elect to change your information. The following statement discloses our information gathering and dissemination practices for our website: www.seventhgeneration.com.
+Seventh Generation (SG) is committed to protecting your personal privacy. We have created our Privacy Policy in order to outline the type of information that is collected when using our site or shopping online with SG, how we protect it and how you can elect to change your information. The following statement discloses our information gathering and dissemination practices for our Web sites: [www.seventhgeneration.com](http://www.seventhgeneration.com/ "www.seventhgeneration.com") and [www.inspiredprotagonist.com](http://www.inspiredprotagonist.com/ "www.inspiredprotagonist.com") (the "SG Sites").
 
-  
-  
+The SG Sites contain links to third-party Web sites. SG is not responsible for the privacy practices or the content of such Web sites. We encourage our users to be aware when they leave the SG Sites and to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by the SG Sites.
 
+Information Collection and Use  
+Various Registrations  
+Sharing  
+E-mail-A-Friend  
+Log Files  
+Cookies  
+Security  
+Privacy of Children  
+Correcting/Updating Personal Information  
+Opt-Out  
+Contacting the Web Site  
+Notification of Changes
 
-**Your Consent to This Privacy Policy; Definition of Personal Information  
-** By using our web site you signify that you agree with the terms of our current Privacy Policy as posted in this area of the web site. If you do not agree with any term in this Policy, please do not provide any Personal Information on this site. As used in this Privacy Policy, Personal Information means personally identifiable information such as your name, street address, email address, and telephone number.
+**Information Collection and Use**  
+As used in this Privacy Policy, Personal Information means personally identifiable information such as your name, street address, e-mail address, telephone number, billing address, and credit card information.
 
-If you do not provide Personal Information on this site you may not be able to do certain things, like access particular areas of the site, request coupons or samples, or send us email.
+Non-Personal Information includes your browser type, domain name, IP address, and how you maneuvered through the SG Sites.
 
- **Information Collection and Use  
-** We collect information from our users at several different points on our website. SG is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement.
+We collect Personal Information during the online checkout process and at several different points on the SG Sites, such as our loyalty program, so that we can properly fulfill your orders and we can send you newsletters and coupons that you may request. We collect Non-Personal Information so that we can identify general shopping and navigation patterns so we might better understand how to improve your experience with the SG Sites. SG is the sole owner of all the information (both Personal and Non-Personal) collected from any of the SG Sites. We will not sell, share, or rent any information to others in ways different from what is disclosed in this statement.
 
- **Various Registrations  
-** In order to receive certain updates or use certain features of this website, a user may have to first complete a registration form. During registration a user is required to give their contact information (such as name, mailing address and email address). This information is used to contact the user about the services on our site for which they have expressed interest. If asked for, it is optional for a user to provide demographic and other information (such as income level and gender). Providing this information is encouraged so we can provide a more personalized experience on our site.
+By using any of the SG Sites you signify that you agree with the terms of our current Privacy Policy as posted. If you do not agree with any term in this Policy, please do not provide any Personal Information on this site. If you do not provide Personal Information on this site you may not be able to do certain things, like access particular areas of the site, participate in our loyalty program, request coupons or samples, shop online, or send us e-mail.
 
-  
+**Various Registrations**  
+In order to receive certain updates or use certain features of the SG Sites, you may be asked to first complete a registration form. During registration, you are asked to give your contact information (such as name, mailing address and e-mail address). This information is used to contact you about the services on the SG Sites in which you have expressed interest, such as our Newsletter and/or product coupons. We may also ask for preferences about the type of information you would like to receive to aid us in the tailoring of our newsletters. Our online surveys ask you for contact information (like e-mail or mailing address). We may use contact data from our surveys to send you information about SG and our activities. Other data collected by online surveys is used to educate us about your interests and concerns. This information is not shared with other organizations. SG operates contact lists to reach its members who request such information. Such services are run both by SG and contracted vendors. These e-mail addresses, whether housed on SG servers or those of our third-party contractor, are never shared with any other organization except as disclosed in this Privacy Policy.
 
+You may opt-out of receiving future mailings; Instructions are contained within each e-mail sent as well as on our site help page. See also the Opt-out section below.
 
-**Newsletter and Online Surveys  
-** If a user wishes to subscribe to our newsletter, we ask for contact information such as name, address and email address. We may also ask for preferences about the type of information the user would like to receive to aid us in the tailoring of our newsletters.
+**Sharing**  
+We may share aggregate demographic information with our partners and advertisers. This is not linked to any Personal Information that can identify any individual person. We use outside companies to ship orders, and a credit card processing company to bill you for goods ordered online. These companies may receive Personal Information to help us process your order. These companies will not retain, share, store or use Personal Information for any secondary purposes.
 
-Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+We will never rent, sell or exchange any e-mail address we receive. By signing up at an SG Site, you will not be sent advertising or messaging from any other company, regardless of their association with SG. We work with a third-party e-mail provider that adheres to contractual standards and policies and we only send e-mail to those who have requested it. SG provides a permanent "unsubscribe" link with each e-mail sent. See Opt-Out section below.
 
-Our online surveys ask visitors for contact information (like their email or mailing address). We use contact data from our surveys to send the user information about SG and its activities. Other data collected by online surveys is used to educate SG about the interests and concerns of our users and general site visitors concerning SG's activities. This information is not shared with other organizations. SG operates contact lists to reach its members who request such information. Such services are run both by SG and contracted vendors. These email addresses whether housed on SG servers or those of our third-party contractor are never shared with any other organization. Users may opt out of participating or receiving email information from SG at any time. Instructions are contained within each email sent as well as on our site help page.
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our Web Site.
 
- **Sharing  
-** We may share aggregate demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. We may partner with a third party to provide specific services. When the user signs up for these services, we will share names, or other contact information that is necessary for the third party to provide these services. These parties are not allowed to use personally identifiable information except for the purpose of providing these services.
+**E-mail-A-Friend**  
+If you want to use our referral service to tell a friend about any of the SG Sites, we will ask you for your friend's name and e-mail address. SG will automatically send your friend a one-time e-mail inviting him or her to visit the SG Sites. SG does not store this information.
 
- **Email-A-Friend  
-** If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. SG will automatically send the friend a one-time email inviting them to visit the site. SG does not store this information.
+**Log Files**  
+We use IP addresses to help analyze trends, administer the site, track user's movement on the SG Sites, and gather broad demographic information for aggregate use. IP addresses are not linked to Personal Information in any way.
 
- **Log Files  
-** We use IP addresses to help analyze trends, administer the site, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+**Cookies**  
+The SG Sites use "cookies." A "cookie" is a piece of data stored on your hard drive via your web browser. The "cookies" used by the SG Sites store only Non-Personal Information and do not ever contain any Personal Information.
 
- **Cookies  
-** Our site uses "cookies". A "cookie" is a piece of data stored on the user's hard drive containing information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. For instance, by setting a cookie on our site, the user would not have to log in a password more than once, thereby saving time while on our site. If a user rejects the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site.
+Cookies simply are a way to help us to identify your browsing session with us and to manage certain specific visit information about you. Cookies can also enable us to track and target the interests of our users to enhance your experience on the SG Sites. For instance, by setting a cookie on an SG Site, you would not have to log in a password more than once, thereby saving time while on an SG Site. If you reject the cookie, or choose to disable them through your web browser, you may still use the SG Sites. The only drawback to this is that you will be limited in some areas of the SG Sites, and you will not be able to save items to your shopping cart or complete an order online.
 
- **Security  
-** This site has security measures in place to protect the loss, misuse and alteration of the information under our control. This includes a firewall and 24 hour monitoring of site activities by our hosting service provider as well as 128-bit SSL encryption (where allowable by law) on all transaction oriented operations between you and SG via our transaction service provider.
+**Blogs/Forums**  
+If  you use a forum or blog on the SG sites, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums or blogs and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information  you choose to submit in this forums.
 
-We also take reasonable precautions to protect user-information off-line. All of our users' information, not just sensitive information, is restricted in our offices. Only employees who need the information to perform a specific job (for example, a customer service representative) are granted access to personally identifiable information.
+**Security**  
+The SG Sites have security measures in place to protect the loss, misuse and alteration of the information under our control. This includes a firewall and 24 hour monitoring of SG Site activities by our hosting service provider as well as industry-standard secure socket layer (SSL) encryption technology on all transaction oriented operations between you and SG via our transaction service provider.
 
- **Privacy of Children  
-** Seventh Generation is committed to protecting the online privacy of children and making the internet safe for our users. We encourage parents of children under 13 to regularly check and monitor their children’s use of email and other activities online.
+No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee absolute security.
 
- **Correction/Updating Personal Information  
-** If a user's personally identifiable information changes (such as your zip code), or if a user no longer desires our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by emailing our Consumer Support at recycle@seventhgeneration.com.
+**Privacy of Children**  
+We encourage parents to take an active interest in their children's use of the Internet. The SG Sites are not targeted to children younger than 13 years of age. SG does not knowingly request, collect, or store information from or about children younger than 13. If you are under the age of 18, you should visit the SG Sites only with the supervision and consent of a parent or guardian. None of the products or services available through the SG Sites are intended for sale to nor will knowingly be sold to anyone less than 18 years of age.
 
-  
-
+**Correction/Updating Personal Information**  
+If your Personal Information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way to correct, update or remove that user's personal data provided to us. This can be done by e-mailing our Consumer Support at [info@seventhgeneration.com](mailto:info@seventhgeneration.com).
 
 Please be sure to provide the specific changes to the information so that we can complete your request.
 
-You can send mail to the following postal address:  
-    Seventh Generation Inc.  
-    Attention: Web Site User Services  
-    60 Lake St., Burlington, VT 05401-5218 
+You can send snail mail to the following postal address:  
+Seventh Generation Inc.  
+Attention: Web Site User Services  
+60 Lake St., Burlington, VT 05401-5218
 
-You can also call the following telephone number: 800-456-1191 (ask for Web Site User Services)
+You can also call the following telephone number: 800-456-1191 (ask for Web Site User Services).
 
- **Choice/Opt-Out  
-** Our site provides each user the opportunity and several options to opt-out of receiving communications from SG and our partners.
+**Opt-Out**  
+The SG Sites provide you the opportunity and several options to opt-out of receiving communications from SG. By registering for our customer loyalty program, you will automatically receive e-mail newsletters and other information about participating in the program. You may opt-out at any time. Here are the options for removing your user information from our database in order to not receive future communications.
 
-Here are the options for removing your user information from our database in order to not receive future communications.
+  * You can send e-mail to [privacy@seventhgeneration.com](mailto:privacy@seventhgeneration.com). You can follow the link included in any e-mail communications you receive.
+  * You can send mail to the following postal address:  
+Seventh Generation Inc.  
+Attention: Web Site User Services  
+60 Lake St., Burlington, VT 05401-5218
+  * You can call the following telephone number: 800-456-1191 (ask for Web Site User Services).
 
-  
 
 
-You can send email to recycle@seventhgeneration.com.  
-You can send mail to the following postal address:   
-    Seventh Generation Inc.  
-    Attention: Web Site User Services  
-    60 Lake St., Burlington, VT 05401-5218
+Please note that it may take up to ten business days for the address removal to take effect and you may receive additional mailings within that time.
 
-You can call the following telephone number: 800-456-1191 (ask for Web Site User Services)
+**Contacting the Web Site**  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please e-mail us at [privacy@seventhgeneration.com](mailto:privacy@seventhgeneration.com). We will do our best to respond to your inquiry within 48 hours.
 
- ** **Contacting the Web Site  
-**** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please email us at recycle@seventhgeneration.com. We will do our best to respond to your inquiry within 48 hours. **
-
- **Notification of Changes  
-**
-
-** If we decide to change our privacy policy, we will post those changes here so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we would notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
-
-[](https://web.archive.org/printpage.php?fkid=64&tid=44)[](https://web.archive.org/sendpage.php)
+**Notification of Changes**  
+If we decide to change our privacy policy, we will post those changes here so you are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we would notify you by way of an e-mail. You will have a choice as to whether or not we use your Personal Information in this different manner. We will use Personal Information in accordance with the privacy policy under which such Personal Information was collected.
