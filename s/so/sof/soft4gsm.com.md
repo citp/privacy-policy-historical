@@ -1,34 +1,105 @@
-> *The following text is extracted and transformed from the soft4gsm.com privacy policy that was archived on 2005-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051212163819id_/http%3A//en.soft4gsm.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soft4gsm.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122915id_/http%3A//www.unlockbase.com/Privacy.html) for the most accurate reproduction.*
 
-# Soft4GSM - The biggest database for Mobile Business professionals
+# UnlockBase Privacy Policy
 
- 
+**What information do we collect?**
 
-  
+We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
 
+Any data we request that is not required will be specified as voluntary or optional. 
 
-**Privacy Policy** Your privacy is important to us. We believe that by respecting your privacy we will earn the opportunity to build a lasting relationship with your business, your clients and your staff. Any information you provide to us will only be used for the purpose for which it was submitted. We collect your information primarily for proof, contact and billing purposes. Under no circumstances will your information be shared with, or sold to, or disclosed to any third party, except where required by law. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. 
 
-This Privacy Policy applies only to information gathered in connection with Soft4GSM LLC consumer credit card accounts used for transactions at soft4gsm.com and applications for those accounts. 
+**What do we use your information for?**
 
-In order to enhance our ability to provide you with the best services, opportunities, and choices possible, we collect, use, and share certain information about you. This policy explains what information we collect, with whom we share it with. The practices described in this policy are applicable to current and former customers and consumers who do business with us. The policy also explains how we protect the security and confidentiality of our customer information. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Information we collect and sources of information.**  
-We may collect information about some of your personal details and documents, (such as, address, copy of credit card statements, identification, etc) all to help us process the order in which you've made, and for us to assure and prove that you are the person paying for the products. 
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-**Information we share with service providers or joint marketers.**  
-We may disclose some of the information we collect, to companies that perform services on our behalf, including those who assist us in selling, billing, shipping and responding to customer inquiries. We may provide that information to others who perform marketing services for us and to financial institutions with whom we jointly offer financial products or services, subject to any requirements and restrictions of applicable state law. 
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**Security and confidentiality of your information.**  
-We restrict access to nonpublic personal information about you to those employees who need to know in order to provide products and services to you. We maintain physical, electronic, and procedural safeguards that comply with federal and state law standards to guard your nonpublic personal information. 
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-**Order and Credit Card Information**
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-Soft4GSM LLC uses 2CheckOut, a third-party provider of e-commerce solutions, to power the soft4gsm.com store and in doing so, collects information about users, including credit card information. When a user purchases a membership from the Soft4GSM.com store, 2CheckOut provides information about the customer, including name, address and email address, to Soft4GSM LLC. Soft4GSM LLC uses this information as set out in the end user agreement, agreed to by purchasers at the time of purchase. In particular, Soft4GSM uses the information to license the software to you, support the software and send you information about updates, upgrades and new works or services provided by Soft4GSM LLC
+**How do we protect your information?**
 
-2CheckOut requests information from the user on the order form, viewed by the user as a page hosted on the 2CheckOut web server. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used as explained above. For example, if we have trouble processing an order, contact information is used to get in touch with the user. 
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
-Your credit card information does not pass through the 2CheckOut sites under the terms of Soft4GSM LLC’s agreement with 2CheckOut. 2CheckOut does not share credit card information with Soft4GSM LLC. 2CheckOut keeps your credit card information confidential and protect your credit card information through the use of industry-standard Secure Sockets (SSL) encryption technology.
+These security measures include: password protected directories and databases to safeguard your information or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
-  
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
+For your safety and protection, your credit card information is not stored on our servers. Our payment gateway providers, Paypal and Moneybookers, keeps this information encrypted and secure on your behalf.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**California Online Privacy Protection Act Compliance**
+
+Customer information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without the consent of the customer, other than for the express purpose of delivering the purchased product or service requested by the customer.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to periodic company news, updates, and/or related product or service information, etc. Every email you will receive from us will contain information for unsubscribing from the mailing list.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.unlockbase.com/Terms.html>.
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **22 June 2009**
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+UnlockBase LTD  
+RM 1318-20 Hollywood Plaza  
+610 Nathan Road - Mongkok - KL  
+Hong Kong
+
+e-mail: [info@unlockbase.com](mailto:info@unlockbase.com)  
+WEB : [www.unlockbase.com](http://www.unlockbase.com/)
+
+**Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:
+
+\- Federal Trade Commision Fair  
+-  California Online Privacy Protection Act  
+\- Childrens Online Privacy Protection Act  
+\- Privacy Alliance  
+\- Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/DisputeResolution/). 
+
+Respectfully,   
+John Milton - UnlockBase.com  
+UnlockBase LTD
