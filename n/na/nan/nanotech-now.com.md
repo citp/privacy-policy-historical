@@ -1,26 +1,12 @@
-> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106011353id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nanotech-now.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144109id_/http%3A//www.nanotech-now.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Our NanoNews Digest Sponsors ** [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](https://web.archive.org/banners/track.pl?banner_id=134)
+**Our NanoNews Digest Sponsors **[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined) [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
 [](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
 
-[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
-
-[](http://edge.affiliateshop.com/public/AIDLink?AID=100747&BID=13024)
-
-[](https://web.archive.org/banners/track.pl?banner_id=122)
-
-[](https://web.archive.org/banners/track.pl?banner_id=108)
-
-[](https://web.archive.org/banners/track.pl?banner_id=102)
-
-[](https://web.archive.org/banners/track.pl?banner_id=99)
-
-[](https://web.archive.org/banners/track.pl?banner_id=81)
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined) [](https://web.archive.org/banners/track.pl?banner_id=81)
 
 [](http://wikimediafoundation.org/wiki/Donate/en)
 
@@ -28,7 +14,7 @@
 
 ******** | 
 
-[Home](https://web.archive.org/web/20100106011353id_/http%3A//www.nanotech-now.com/) > Privacy
+[Home](https://web.archive.org/web/20111101144109id_/http%3A//www.nanotech-now.com/) > Privacy
 
 **Privacy Notice:**
 
@@ -51,3 +37,35 @@ We use these summary statistics to help us make our site more useful to visitors
 **Our site does not now - nor will it ever - knowingly link to or associate with hate, descriminatory, or adult [pornographic] sites.  We individually and collectively subscribe to a system of universal ethical treatment for all people, and strive to reflect that within this website.  While our views, beliefs, and understandings may differ from your's, we commit to always allowing room for being incorrect, and acknowledging everyone's right to free expression.**
 
 | 
+
+|   
+---  
+[](https://web.archive.org/products/newsdigest/)  
+|  The latest news from around the world, FREE    
+|   
+  
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
+[](http://www.researchandmarkets.com/affcontent/?tt=3721_135171_69066_&r=)  
+  
+---  
+**   Premium Products**  
+[](https://web.archive.org/products/nanonewscustom/)  
+|  Only the news you want to read!   
+ [Learn More](https://web.archive.org/products/nanonewscustom/) |   
+[](https://web.archive.org/products/nanotechtransfer/)  
+|  University Technology Transfer & Patents   
+ [Learn More](https://web.archive.org/products/nanotechtransfer/) |   
+[](https://web.archive.org/NanoStrategies.htm)  
+|  Full-service, expert consulting   
+ [Learn More](https://web.archive.org/NanoStrategies.htm) |   
+  
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
+[](http://www.nanotech-now.com/banners/track.pl?banner_id=undefined)
+
+[](http://click.linksynergy.com/fs-bin/click?id=6Xa4cqzKbi4&offerid=7097.2298&type=4&subid=0)
