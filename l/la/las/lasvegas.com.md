@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418053201id_/http%3A//www.lasvegas.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasvegas.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125258id_/http%3A//www.lasvegas.com/about/privacy.html) for the most accurate reproduction.*
 
 # About LasVegas.com: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **Privacy Policy**
 
- _Updated March. 24, 2009_
+ _Updated July 20, 2011_
 
 LasVegas.com takes the privacy of our site visitors and customers very seriously. On this page, we address what information we collect from you and how we use that information. If you have additional questions that are not answered here, **click here to contact us**. 
 
@@ -60,7 +60,7 @@ A LasVegas.com third-party advertiser cookie file may also be placed on your har
 
 For example, Google, as a third party vendor, uses cookies to serve ads on LasVegas.com. Google's use of the DoubleClick DART cookie enables it to serve ads to LasVegas.com users based on their visit to LasVegas.com and other sites on the Internet.Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
-For more information on cookies, [**click here**](http://ciac.llnl.gov/ciac/bulletins/i-034.shtml). 
+For more information on cookies, [**click here**](http://www.ftc.gov/ftc/cookies.shtm). 
 
 **Tracking pixels**
 
@@ -199,7 +199,7 @@ LasVegas.com understands that the safety of your personal information is extreme
 
 Personal data that you send or submit to us over the Internet is protected by Secure Socket Layer (SSL) technology. We also use industry-standard firewalls to protect any personal data that we store. 
 
-LasVegas.com is also digitally certified by VeriSign, the leader in digital trust services. You can find verification of this certification on one of our secure pages, like our billing pages. Simply click on the key or lock image in the bottom bar of your browser window while on one of our secure pages. A window will appear with our site security information. 
+LasVegas.com is also digitally certified by Comodo, the leader in digital trust services. You can find verification of this certification on one of our secure pages, like our billing pages. Simply click on the key or lock image in the bottom bar of your browser window while on one of our secure pages. A window will appear with our site security information. 
 
 _**About this policy**_
 
