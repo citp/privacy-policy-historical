@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509231005id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypedc.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235039id_/http%3A//www.hypedc.com/legals%23privacy) for the most accurate reproduction.*
 
 # Legals - Hype DC
 
@@ -39,14 +39,14 @@ Under no circumstances will Hype DC be liable for any direct, indirect, special,
 _Returning Defective Merchandise_  
 At Hype DC we are proud of our products and guarantee all our products as being as advertised. We will attempt to replace any defective merchandise (subject to stock availability) or refund you for any defective merchandise (including reasonable shipping costs) provided that:
 
-  * a) The return is pre-arranged with Hype DC. This can be done by e-mailing [gabby@hypedc.com](mailto:gabby@hypedc.com)
+  * a) The return is pre-arranged with Hype DC. This can be done by e-mailing [mark@hypedc.com](mailto:gabby@hypedc.com)
   * b) the product is returned to us with proof of purchase within 14 days of the date of purchase; 
   * c) the product is in its original condition; and 
   * d) the product is not defective as a result of misuse.
 
 
 
-Should there be any problems with defective product, please contact Hype DC first. All returns must be pre-arranged by emailing [gabby@hypedc.com](mailto:gabby@hypedc.com)
+Should there be any problems with defective product, please contact Hype DC first. All returns must be pre-arranged by emailing [mark@hypedc.com](mailto:gabby@hypedc.com)
 
   
 If you are not completely satisfied with your purchase, simply use the RETURN POST STICKER in your post bag and return the item or items to us in their unworn and in original condition in the box within 14 days of receipt.
@@ -57,7 +57,7 @@ Alternatively, you can exchange your purchase at any Hype DC retail store provid
 
 We will not under any circumstances refund the cost of shipping the original product to you in the case of exchange or refund.
 
-All returns must be pre-arranged by emailing [gabby@hypedc.com](mailto:gabby@hypedc.com)
+All returns must be pre-arranged by emailing [mark@hypedc.com](mailto:gabby@hypedc.com)
 
 _General_  
 Hype DC may revise these terms at any time. Use of this website is subject to the revised terms. These Terms were last Revised in January 2009.
