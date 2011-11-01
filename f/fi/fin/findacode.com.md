@@ -1,9 +1,10 @@
-> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605021730id_/http%3A//www.findacode.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findacode.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101201909id_/http%3A//www.findacode.com/aboutus/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Find-A-Code
+# Privacy Policy
 
-**Your Privacy**  
 [ ](http://www.privacypolice.org/findacode.htm "PrivacyPolice.org Privacy Registration")  
+**Your Privacy**
+
 FindACode.com is committed to protecting your privacy. We only use the information we collect about you to process business requests and services. Please read on for more details about our privacy policy.
 
 **What information do we collect? How do we use it?**
@@ -42,10 +43,10 @@ Thank you for visiting FindACode.com!
 
 ## Our contact information:
 
-> Find A Code, Inc.  
->  65 West 200 North Ste 007  
+> Find A Code, LLC  
+>  95 West 200 North Ste 2  
 >  Spanish Fork, UT 84660  
->  Phone: 801-822-0321  
->  Fax: 801-798-3535  
+>  Phone: 801-770-4203 (9-5 Mountain)  
+>  Fax: 801-770-4428  
 >  Email: [info@findacode.com](mailto:info@findacode.com)   
 > 
