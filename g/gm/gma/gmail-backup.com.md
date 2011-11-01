@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gmail-backup.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212041808id_/http%3A//www.gmail-backup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmail-backup.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151528id_/http%3A//www.gmail-backup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gmail Backup
 
