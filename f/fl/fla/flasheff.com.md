@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flasheff.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412104143id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasheff.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144314id_/http%3A//www.jumpeyecomponents.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Web site privacy policy
 
@@ -45,4 +45,4 @@ This Privacy Policy constitutes a contract made under and shall be governed by a
 
 ### 9. Contact Information
 
-Questions or comments regarding the Web Site should be sent by email to jumpeyecomponents.com support or by U.S. mail to Smartketer LLC, 6665 Vernmoor, Troy, Mi. 48098 - USA 
+Questions or comments regarding the Web Site should be sent by email to jumpeyecomponents.com support or by U.S. mail to Smartketer LLC, 200 East Big Beaver Road, Troy, Michigan 48083 - USA 
