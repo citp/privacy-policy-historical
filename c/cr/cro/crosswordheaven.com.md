@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crosswordheaven.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527002718id_/http%3A//crosswordheaven.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswordheaven.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140809id_/http%3A//crosswordheaven.com/privacy) for the most accurate reproduction.*
 
-# | Crossword Heaven
+# Privacy Policy | Crossword Heaven
 
 ## Privacy Policy
 
-The privacy of our visitors to crosswordheaven.com is important to us. 
+The privacy of our visitors to crosswordheaven.com is important to us.
 
 At crosswordheaven.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit crosswordheaven.com, and how we safeguard your information. We never sell your personal information to third parties.
 
