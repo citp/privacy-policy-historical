@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the darpa.mil privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609234607id_/http%3A//www.darpa.mil/Privacy_Security_Notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the darpa.mil privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140306id_/http%3A//www.darpa.mil/Privacy_Security_Notice.aspx) for the most accurate reproduction.*
 
-# Defense Advanced Research Projects Agency
+# Defense Advanced Research Projects Agency - Privacy & Security Notice
 
 1\. This Web site is provided as a public service by the DARPA  
 2\. Information presented on this Web site is considered public information and may be distributed or copied unless otherwise specified. Use of appropriate byline/photo/image credits is requested.  
