@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625194550id_/http%3A//vdict.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vdict.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114112id_/http%3A//www.vdict.com/privacy.php) for the most accurate reproduction.*
 
-# VDict.com - Vietnamese Dictionary and Translation - Từ điển và dịch tiếng Việt » Privacy
+# Vietnamese Dictionary and Translation - Từ điển và dịch tiếng Việt
 
 ## Privacy Policy
 
