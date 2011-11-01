@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101023814id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gonomad.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120750id_/http%3A//www.gonomad.com/corp/privacy.html) for the most accurate reproduction.*
 
-# Untitled Document
-
-[ ](http://www.jdoqocy.com/click-4204077-10788552)
+# Our Privacy Statement
 
 | 
 
@@ -64,5 +62,18 @@ If you have any further questions or suggestions about this privacy statement, p
 [](http://www.gonomad.com/airfares.html)
 
   
+
+
+[](https://www.airportparkingreservations.com/home/866 "Airport Parking")
+
+##### Subscribe to Our Newsletter 
+
   
----|---|---
+Get our **free monthly newsletter**  
+and help support sustainable and responsible tourism. 
+
+[](http://www.gonomad.com/corp/subscribe-to-newsletter/subscribe.html)  
+  
+---|---|---  
+  
+@Copyright 2011 GoNOMAD.com - All Rights Reserved. 
