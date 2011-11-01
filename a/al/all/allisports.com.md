@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511205936id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allisports.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001933id_/http%3A//www.allisports.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
