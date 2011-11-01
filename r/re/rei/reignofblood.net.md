@@ -1,36 +1,31 @@
-> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423002941id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reignofblood.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101112756id_/http%3A//reignofblood.net/vampire_privacy.php) for the most accurate reproduction.*
 
 # Reign Of Blood - Vampire Game Privacy Policy
 
   
-[Game Advertising Online](http://www.game-advertising-online.com/)  
-banner requires iframes   
 
 
 ## Not yet a member of the free online vampire game Reign Of Blood?
 
-[ ](https://web.archive.org/web/20110423002941id_/http%3A//reignofblood.net/vampire_signup.php "Become a vampire") Contact: To contact us please email reignofblood.net [at] gmail.com
+[ ](https://web.archive.org/web/20111101112756id_/http%3A//reignofblood.net/vampire_signup.php "Become a vampire") Contact: To contact us please email reignofblood.net [at] gmail.com
 
-Third Party Adverts:  
-ROB will contain adverts around the various pages, many of these being 3rd party adverts. We take no responsibility for what these adverts may contain, but we do try and restrict the type of adverts shown.
+**Third Party Adverts:**  
+Reign Of Blood will contain adverts around various pages, many of these being 3rd party adverts. We take no responsibility for what these adverts may contain, but we do try and restrict the type of adverts shown.
 
-Underage:  
-If you are under 13 years of age, you must ask permission from your parent/guardian to signup to ROB. If we get contacted informing us that you have not recived permission you will get your account deleted.
+**Personal Information:**  
+Reign Of Blood registration requires you to input your personal information which includes a valid e-mail address and age to authenticate you. Your E-Mail is used to verify your account and to get in touch with you. Your IP address is logged and monitored on this site. This information is only available to staff and used for administration and monitoring purposes. Your information will not be sold or used on any other site. 
 
-Personal Information:  
-ROB registration requires you to input your personal information which includes a valid e-mail address and age to authenticate you. Your E-Mail is used to verify your account and to get in touch with you. Your IP address is logged and monitored on this site. This information is only available to staff and used for administration and monitoring purposes.Your information will not be sold or used on any other site but ROB. 
-
-Public:  
+**Public:**  
 This site contains areas where members voice their opinions, where ever this may be. We cannot take responsibility for this, all though we do moderate content on ROB, if you find anything which you find offense contact a member of staff. Also in the public areas there may be links to a external site, we do not moderate any of these external sites so we cannot be blamed for what it may contain. 
 
-Passwords:  
-Your password is created and used by you to login to your account. We try to protect our users passwords with care using encryption in db to secure them. But we cannot guarentee their safety, if in the unlikely event of unauthorized access to the db, we cannot be blamed for the loss of accounts/passwords. 
+**Passwords:**  
+Your password is created and used by you to login to your account. We try to protect our users passwords with care using encryption in database to secure them. But we cannot guarentee their safety, if in the unlikely event of unauthorized access to the database, we cannot be held responsible for the loss of accounts/passwords. 
 
-Sharing:  
-We will not sell your passwords,emails,personal information to another company. 
+**Sharing:**  
+We will not sell your passwords, emails, personal information to another company. 
 
 **Advertising (Part 2)**  
-Online behavioral advertising (â€œOBAâ€) and/or multi-site advertising is occurring.
+Online behavioral advertising ("OBA") and/or multi-site advertising is occurring.
 
 We collect no data from you via advertisements, the type of data that may be collected are your IP address, geographic location and your browser/operating system details.
 
