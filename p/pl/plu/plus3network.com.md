@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the plus3network.com privacy policy that was archived on 2010-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100918092604id_/http%3A//www.plus3network.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus3network.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101084733id_/http%3A//www.plus3network.com/user/privacy) for the most accurate reproduction.*
 
 # Plus 3 Network
 
 ### Plus 3 Network Privacy Policy
 
-##### Effective date of this version: September 10, 2008.
+##### Effective date of this version: June 1, 2010.
 
 The Plus 3 Network ("Plus 3") understands that privacy is important. The Plus 3 Network Privacy Policy ("Policy") applies to Plus 3's information handling practices for the Site (defined below). Throughout this Policy, "Plus 3" and "We" refers to The Plus 3 Network, Inc. "You" or "Users" refers to you, our users - everyone who uses, subscribes to, publishes through, joins, or visits the Site. The "Site" refers to the applications, platform, and services operated or produced by Plus 3 offered through the web site at [www.Plus3Network.com](http://www.plus3network.com/) or any successor site.
 
@@ -18,14 +18,15 @@ We reserve the right, at our sole discretion, to change, modify, add, or delete 
   2. The Way Plus 3 Uses Information
   3. When The Plus 3 Network Discloses Information 
   4. Your Choices and Access to your Personal Information 
-  5. Advertisers 
-  6. Our Commitment to Data Security
-  7. Our Commitment to Children's Privacy 
-  8. International Visitors
-  9. In the Event of Merger or Sale
-  10. Disclosure by Users to Third Parties
-  11. Notification Procedures
-  12. Plus 3 Contact Information
+  5. Employer Sponsored Wellness Services & Programs
+  6. Advertisers 
+  7. Our Commitment to Data Security
+  8. Our Commitment to Children's Privacy 
+  9. International Visitors
+  10. In the Event of Merger or Sale
+  11. Disclosure by Users to Third Parties
+  12. Notification Procedures
+  13. Plus 3 Contact Information
 
 
 
@@ -59,6 +60,7 @@ We reserve the right, at our sole discretion, to change, modify, add, or delete 
   * We may disclose some limited User information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and assist Plus 3 in improving the Site and creating new services features. We contractually require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures. 
   * Plus 3 may disclose User information if required to do so by law or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. copyright or trademark law) or respond to a court order, judicial or other government subpoena or warrant in the manner required by the requesting entity. 
   * Plus 3 also reserves the right to disclose User information that we believe, in good faith, is appropriate or necessary to take precautions against liability; protect Plus 3 from fraudulent, abusive, or unlawful uses; to investigate and defend ourselves against third-party claims or allegations; to assist government enforcement agencies; to protect the security or integrity of the Site; or to protect the rights, property, or personal safety of Plus 3, our Users or others. 
+  * For those using Plus 3 Employee Wellness Services provided by your Employer, you are also agreeing to #5 Employer Sponsored Wellness Services & Programs, listed below.
 
 
 
@@ -68,7 +70,13 @@ You may, of course, decline to share your personally-identifiable information (i
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.
 
-##### 5\. Advertisers:
+##### 5\. Employer Sponsored Wellness Services & Programs:
+
+You may have signed-up for Plus 3 Employee Wellness Services offered and approved by your Employer. In these instances, Employees, the Employee’s Spouse or Partner, and/or Family Members using Plus 3 Employer Sponsored Wellness Services & Programs, accept and agree that personally-identifiable information (including name, country, birth date, gender) and aggregated personal data, such as activities and biometrics will be provided to your Employer. 
+
+Plus 3 will not supply activity location and time information to your Employer. If you choose to share your personal activities and biometric data with the public, it is understood that you are also providing activity location and time visibility to everyone on Plus 3 Network including your Employer. 
+
+##### 6\. Advertisers:
 
 Plus 3 may allow third-party ad servers or ad networks to serve advertisements within the Site. In addition, Plus 3 allows certain selected company's, from which you may choose a sponsor or a cause for the purposes of charitable donations (each hereinafter referred to as a "Sponsor" or "Cause"), to display their logo and provide a link to the web site of such Sponsor or Cause. To allow you to make an informed decision when selecting a Sponsor or Cause, we may permit Sponsors and Causes to communicate in the Site about their products and/or services.
 
@@ -76,13 +84,13 @@ Plus 3 does not provide your personally identifiable information to Sponsors and
 
 You should consult the respective privacy policies of these Sponsors and Causes. This Privacy Policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. Plus 3 reserves the right the add or remove Sponsors and Causes in its discretion and Plus 3 may not at all times list such updated partners in this Privacy Policy.
 
-##### 6\. Our Commitment to Data Security:
+##### 7\. Our Commitment to Data Security:
 
 Plus 3 uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Plus 3, and you do so at your own risk. Once we receive your transmission of information, Plus 3 makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 If Plus 3 learns of a security systems breach, then we may attempt to notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-##### 7\. Our Commitment to Children's Privacy:
+##### 8\. Our Commitment to Children's Privacy:
 
 IF YOU ARE UNDER 13 YEARS OF AGE, THEN PLEASE DO NOT USE OR ACCESS THE SITE AT ANY TIME OR IN ANY MANNER.
 
@@ -92,19 +100,19 @@ If you are the parent or legal guardian of a child under 13 who has become Plus 
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-##### 8\. International Visitors:
+##### 9\. International Visitors:
 
 For Users visiting the Site from the European Union or other non-U.S. territories, please note that any data you enter into the Site will be transferred outside the European Union or such other non-U.S. territory for use by Plus 3 and its affiliates for any of the purposes described herein. In addition, because Plus 3 is available globally, we may make information we gather available to worldwide business units and affiliates. By providing any data on the Site, you hereby expressly consent to such transfers of your data to the United States or other countries.
 
-##### 9\. In the Event of Merger or Sale:
+##### 10\. In the Event of Merger or Sale:
 
 In the event that Plus 3 is acquired by or merged with a third-party entity, we reserve the right, in any of these circumstances, to transfer or assign the information that we have collected from Users as part of that merger, acquisition, sale, or other change of control.
 
-##### 10\. Disclosure by Users to Third Parties:
+##### 11\. Disclosure by Users to Third Parties:
 
 Except as otherwise expressly provided otherwise, this document addresses only the use and disclosure of information we collect from you or that you disclose to us. If you disclose your information to others besides Plus 3, whether they are users of the Site or on other sites or services, different rules may apply to their use or disclosure of the information you disclose to them. To the extent that Users visit third-party web sites, Users should be aware that the Privacy Policy does not govern the use of such Users' personal information and you are subject to the privacy policies of those third parties where applicable. Please be vigilant in reviewing the third party ad servers' privacy policies.
 
-##### 11\. Notification Procedures:
+##### 12\. Notification Procedures:
 
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Site, as determined by us in our sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described below.
 
@@ -112,7 +120,7 @@ By providing us your email address you consent to our using the email address to
 
 We may also use your email address to send you other messages, including changes to the Site's features and special offers. If you do not want to receive such email messages, you may opt out by emailing us at [privacy@Plus3Network.com](mailto:privacy@Plus3Network.com). 
 
-##### 12\. Plus 3 Contact Information:
+##### 13\. Plus 3 Contact Information:
 
 Please contact Plus 3 with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at:
 
