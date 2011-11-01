@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colorlines.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121205541id_/http%3A//www.colorlines.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlines.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122203id_/http%3A//colorlines.com/privacy) for the most accurate reproduction.*
 
 # COLORLINES - Privacy
 
@@ -14,7 +14,7 @@ ARC is committed to protecting your privacy and providing a rewarding online exp
 
 Cookies: We use "cookies" to help deliver advertisements and to identify unique browsers that visit us and to track usage throughout our sites. 
 
-**Information Use and Sharing** In order to better serve our readers, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website. If you choose to subscribe to ColorLines Direct, our free weekly electronic newsletter, we collect your email address, and, if you choose to provide it, additional information such as your zip code. ARC will never sell or share your information. We reserve the right to send out emails for events and new releases on behalf of partner organizations but we never share your information. 
+**Information Use and Sharing** In order to better serve our readers, we use cookies and periodically analyze web logs. We may also use third-party services such as Google Analytics. This helps us understand traffic patterns and know if there are problems with our website. If you choose to subscribe to Colorlines Direct, our free weekly electronic newsletter, we collect your email address, and, if you choose to provide it, additional information such as your zip code. ARC will never sell or share your information. We reserve the right to send out emails for events and new releases on behalf of partner organizations but we never share your information. 
 
 **Links** Our sites may contain links to other sites, in the form of hyperlinks and banner advertisements. We are not responsible for the privacy practices or the content of such sites.
 
