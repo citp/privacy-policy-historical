@@ -1,62 +1,107 @@
-> *The following text is extracted and transformed from the minorleaguebaseball.com privacy policy that was archived on 2005-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050206205002id_/http%3A//www.minorleaguebaseball.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minorleaguebaseball.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143212id_/http%3A//web.minorleaguebaseball.com/milb/info/privacy.jsp) for the most accurate reproduction.*
 
-# Minor League Baseball
+# Privacy | MiLB.com Official Info | The Official Site of Minor League Baseball
 
-**Minor League Baseball™ Privacy Policy**
+Privacy Policy
 
-We at Minor League Baseball and the entities that make up Minor League Baseball recognize the importance of protecting the privacy of certain information (“information”) collected about our fans (referred to as “fans,” “you” or “your”). This privacy statement discloses what information we gather, how we use it, and how to correct or change it. At Minor League Baseball, it is our intention to give you an understanding about how we collect your information and the use we make of it.
+ **PLEASE READ THIS PRIVACY POLICY (THIS "PRIVACY POLICY") CAREFULLY BEFORE USING THIS WEBSITE**
 
-Minor League Baseball gathers two types of information about fans: data that fans provide through optional, voluntary registration on our site; and data Minor League Baseball gathers through aggregated tracking, mainly by tallying page views throughout our sites. Such information enables us to tailor our content to fit fans’ needs better and to help our advertisers understand our audience. Minor League Baseball will not disclose personal information to third parties without your consent, except as may be noted in this Privacy Policy or disclosed to you when the information is submitted.
+**
 
-**_How does Minor League Baseball collect information?_**
+TABLE OF CONTENTS
 
-We collect information by specifically requesting it from you. Generally this occurs when you register at a site or request information or a service. Usually, the Minor League Baseball sites use your information to operate the sites and to deliver services. Minor League Baseball sites also use your information to inform you about other products or services available from Minor League Baseball and businesses who support Minor League Baseball.
+  1. General
+  2. Information Automatically Collected; Cookies; Web Beacons
+  3. Our Security Practices
+  4. How You Can Review Your Personal Information
+  5. Choice
+  6. Links
+  7. Special Rules for Children
+  8. Parental Consent
+  9. Contact Us; Privacy Administrator
+  10. Notification of Changes
 
-_Use of Internet Protocol (IP) Addresses_
+**
 
-An IP address is a unique number that is automatically assigned to your computer whenever you’re surfing the Internet so that your computer can be identified by the main computers, known as “Web Servers,” that “serve up” Web pages.
+**General**  
 
-Minor League Baseball collects IP addresses for the purposes of system administration, to report aggregated information to our advertisers, and to audit the use of our site. When fans request pages, our servers log the Fans’ IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a Fan’s session will be logged, but the Fan will remain anonymous to us. We can and will use IP addresses to identify a Fan when we feel it is necessary to enforce compliance with our site terms of use of terms of service or to protect our service, site, fans or others.
 
-What are cookies? Cookies are small pieces of information that a Web site sends to your computer for record-keeping purposes, which information is stored in a file on your computer. Cookies make Websurfing easier for you by saving your preferences so that we can use the saved information to facilitate your use of our Web site when you return to the site. Cookies do not tell us your individual identity unless you have chosen to provide it to us. We never save passwords or credit card information in cookies. The use of cookies is an industry standard, and as such, you’ll find that most major Web sites use them.
+The National Association of Professional Baseball Leagues ("Minor League Baseball"), in association with MLB Advanced Media, L.P. produces MiLB.com, the Official Website of Minor League Baseball, which encompasses MiLB.com, the Official Websites certain Minor League Baseball ("MiLB") Clubs and the Official Websites of certain MiLB leagues (this or our "Website"). We are committed to safeguarding your privacy online. This Privacy Policy is applicable to this Website. 
 
-By showing how and when Fans use a site, cookies help us see which areas are popular and which are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. This information is most easily tracked with cookies. We use the information from cookies to provide services better tailored to our Fans’ needs.
+You can visit and enjoy our Website without disclosing any personal information about yourself. However, we offer some special services, and for these services to work properly we will need you to share with us certain personal information about yourself. The personal information we collect may include, but is not limited to, full name, street address, e-mail address, telephone number(s) (e.g., home, work, mobile and/or fax) and birth date. We may also collect other personal information that will be identified on applicable page(s) of this Website. If you submit any personal information to us, or to any third-parties acting on our behalf, you can be assured that we will not sell, lease, or share your personal information with or to anyone else, except as follows: (1) to certain third parties , but only so that they may help us provide services you've requested and/or in certain circumstances to provide you with related offers or content; (2) to one or more MiLB Clubs, to the extent that you've submitted information that relates specifically to such Club(s) (e.g., you've asked to receive the newsletter of one or more Clubs via email or you've purchased Club-specific merchandise from one of our stores), so that they may learn more about fans like you, and provide better services to you; (3) upon notice posted on an applicable location of our Website where we collect your personal information for an economic transaction and notify you that we will be sharing such information with a third party (e.g., ESPN.com), where such third party is clearly identified; and (4) on occasion, we may offer a special promotion (such as a sweepstakes, contest, fantasy baseball game or subscription to goods and/or services) on this Website in conjunction with a third-party service provider, sponsor, or promotional partner, and share your information with that service provider, sponsor, or promotional partner so that it can fulfill your request for its good and services and/or to send you other special promotions it offers, but only if you give us permission to do so.
 
-Most cookies expire after a defined period of time, or you can delete your cookie file at any time. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of minorleaguebaseball.com will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences.
+_Special Offers and Promotions._ With your permission, we may also send you e-communications with special offers and promotions. If you don't want to receive these, you may change your preferences by accessing the "Newsletter Preferences" section within your Website account.
 
-Minor League Baseball has two primary uses for its cookies. First, we use them to specify a Fan’s preferences. Second, we use cookies to track Fans’ Web site usage trends and patterns. This helps us understand our Fans’ needs better and improve the site. While both of these activities depend on the use of cookies, you have the option of disabling the cookies via your browser preferences.
+**Information Automatically Collected; Cookies; Web Beacons**
 
-You may occasionally get cookies from our advertisers. Minor League Baseball does not control these cookies. The use of advertising cookies sent by third-party servers is standard in the internet industry.
+We use automatic methods such as cookies (small amounts of data, which often include an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive), single-pixel GIF images ("web beacons") or similar technologies, alone or in combination with personally identifiable information you choose to provide us, to make our Website work better, to understand Website usage and trends, to deliver a more personalized experience and to improve and deliver certain content and offerings. Examples of the information we collect and analyze using such methods include, without limitation, the Internet protocol (IP) address used to connect your computer to the Internet; e-mail address; login name and password; operating system type, version and computer platform; purchase history, which we may aggregate with similar information from other customers; the full Uniform Resource Locator (URL) clickstream to, on, and from our Website, including date and time; cookie information; and products you viewed or searched for. We may also use software tools to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs) and methods used to browse away from the page.
 
-**_With whom does Minor League Baseball share my information?_**
+We may also use cookies to enable you to use a "shopping cart" if you want to purchase goods or services while on our Website, to store your preferences associated with video streaming or other content offered from our Website, and to deliver certain content, products, programs, and/or services based on purchase and Website usage behavior that you and/or other customers have exhibited. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows the user to accept or reject most cookies. Certain cookies that are set when some video products are accessed on our Website, called local shared objects or Flash cookies, may not be managed using the settings in your web browser. Information on managing, accepting and rejecting these cookies is available from Adobe on the [Adobe website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager03.html). If you set your browser or Adobe Flash options not to accept cookies or local shared objects, you may not be able to take advantage of certain services on our Website.
 
-As a general rule, Minor League Baseball will not disclose any specific personal information that you submit to us about you (“Personal Information”) in a manner that connects you with the Personal Information, except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. The following described some of the ways that your Personal Information may be disclosed.
+We do not transfer cookies associated with our Website to any other company, nor do we authorize any other company to access those cookies for any purpose other than as set forth in this Privacy Policy. We may allow certain third parties, such as those who deliver advertisements, content or provide other services associated with our Website to set and/or access cookies, web beacons and/or similar technologies associated with certain of our pages and/or certain emails sent by us.
 
-_Business Partners & Sponsors_
+Third-party companies that manage and deliver advertisements on our Website and other websites are commonly referred to as "network advertisers." These network advertisers who place advertisements on our Website may use cookies and web beacons to collect information about your visits to our Website in order to provide advertisements and content delivered on our Website and on other websites within such network advertiser's ad network. If you would like to obtain more information about common industry practices of network advertisers and/or make choices about their use of your information, please **[click here](http://www.networkadvertising.org/managing/opt_out.asp#)**.
 
-: Minor League Baseball may disclose some or all of your Personal Information to business partners or sponsors, but this use will be specifically described to you prior to data collection or prior to transferring the data. Many promotions offer opportunities to request additional information from sponsors. By requesting more information, you grant Minor League Baseball permission to transfer your Personal Information to the sponsor so they can fulfill your request.
+We do not install any spyware or adware in connection with our Website, or distribute any commercial message, or authorize any third party to distribute any commercial message, by means of spyware or adware. "Spyware" or "adware" is any software which has been downloaded to and/or installed on an Internet user's computer, without the user's actual consent, and facilitates the distribution of any commercial message to the user. If you feel you may have spyware from another company installed on your machine, there are various anti-spyware/adware software applications available on the Internet to identify if this has occurred.
 
-_Third Party & Aggregate Data_
+_Aggregated Demographic Information_. We may share aggregated demographic information with third parties, but this information is not linked to any personal information that can identify you or another individual person. Therefore, no personal information is disclosed in this manner.
 
-: From time to time, you may be offered the opportunity to receive materials or special offers from third parties. Minor League Baseball will share your name and email address with such third parties. Also, Minor League Baseball may keep track of what portions of the Web site Fans are visiting and Fan statistics, and aggregate this information to help us create a better experience for users of our Web site. This is all done without knowing your name of other Personal Information in order to describe our viewers and services to prospective partners, advertisers, and other third parties, and for other lawful purposes.
+_Business Transfers_. As time passes, Minor League Baseball may be sold along with its assets, or other transactions may occur in which customer information is one of the business assets transferred. In such a case, the customer information which we have gathered may be one of the business assets we transfer.
 
-_Other_
+_Disclosure for Legal Purposes_. We may be required to share your personal information and non-personal information pursuant to judicial or governmental subpoenas, warrants, or orders. If we are required to do so, we will, of course, obey the law. In addition, notwithstanding any term to the contrary in this Privacy Policy, we reserve the right to use, disclose, and/or share your personal and non-personal information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of this Website's Terms of Use or as otherwise required by law.
 
-: Minor League Baseball may also disclose account information in special cases when we have reason to believe disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating Minor League Baseball’s terms of use or terms of service, or may be causing injury to or interference (either intentionally or unintentionally) with any of Minor League Baseball’s or its member clubs’ rights or property, other Minor League Baseball Fans, or anyone else. Minor League Baseball may disclose or access account information when we believe in good faith that the law requires it and for administrative and other purposes that we deem necessary to maintain service and improve our products and services.
+**Our Security Practices**
 
-**_What happens when you link to a third party site?_**
+Your Website account preferences are password protected for your privacy and security. In certain areas, we use industry-standard SSL encryption to protect data transmissions.
 
-You should be aware that when you are on Minor League Baseball’s site you could hyperlink or be directed to other sites that are beyond our control and/or outside our service. For example, if you “click” on a banner advertisement the “click” may transfer you off the minorleaguebaseball.com site. These other sites may include sites of advertisers, sponsors and partners that may show Minor League Baseball’s or its member clubs’ logos as part of a co-branding agreement. These other sites may send their own cookies to you, collect data, or solicit information.
+**How You Can Review Your Personal Information**
 
-Minor League Baseball does not control such sites, and, therefore is not responsible for their contents or the hyperlinks or advertising they choose to place on such sites. Minor League Baseball’s inclusion of hyperlinks to these sites do not imply any endorsement of the material on such sites or any association with their operators. Minor League Baseball’s policy does not extend to anything that is inherent in the operation of the Internet, which is beyond Minor League Baseball’s control.
+If you want to review or revise the personal information you provided during registration on this Website, and whether you want to receive communications from us, you can either (1) **[click here to log in](https://secure.minorleaguebaseball.com/enterworkflow.do?flowId=registration.profile)** , and then click on the applicable menu option on the left side of the page, or (2) call MiLB.com Customer Service at 866-644-2687. If you want to close your account with us and have us delete the personal information in it (except for information that we keep for record-keeping purposes), you should contact MiLB.com Customer Service at 866-644-2687.
 
-Please keep in mind that whenever you give out information online (for example, via message boards or chat) that information can be collected and used by people you don’t know. While Minor League Baseball strives to protect fans’ information and privacy, we cannot guarantee the security of any information you disclose online, and you disclose such information at your own risk.
+**
 
-**_Is my information secure from others using the minorleaguebaseball.com site?_**
+Choice
 
-The security of all information associated with our Fans is an important concern to us. We exercise care in providing secure transmission of your information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your information, Minor League Baseball can’t ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk. Once we receive your transmission, Minor League Baseball uses commercially reasonable efforts to safeguard the confidentiality of your information, such as firewalls. However, “perfect security” does not exist on the Internet.
+**
 
-**YOUR ACCEPTANCE OF THESE TERMS**
+Our registration and order forms contain a box for you to indicate whether or not you consent to receive special offers and promotions from us. Unless you give us your consent to use your personal information for these purposes, we and our partners will only use it to complete the transaction or provide the service or product you have requested. If you indicate that you consent to receive communications or solicitations, but you later change your mind, you can revise your preferences by accessing the "My Newsletters" section within your Website account.
 
-By using this site, you signify your agreement to Minor League Baseball’s Privacy Policy. **IF YOU DO NOT AGREE WITH THIS POLICY, PLEASE DO NOT USE THIS SITE.** Your continued use of Minor League Baseball’s site following the posting of changes to these terms will mean you accept those changes.  
+**
 
+Links
+
+**
+
+Our Website contains links to other websites produced by MLB Advanced Media, L.P. and to websites and/or products operated by unrelated third parties. In addition, if you click on an advertisement on our Website, you may be directed to a web page within our Website or to a third- party website or product. Please note that we are not responsible for the privacy practices of third-party websites or products. We encourage you to be aware of this when your leave our Website and to read the privacy policies of every website and product that collects personally identifiable information from you. This Privacy Policy applies only to this Website, unless you are notified otherwise upon accessing any third party website or product, in which case the terms and conditions set forth in such notification will apply.
+
+**
+
+Special Rules For Children
+
+**
+
+Because of federal law, we cannot knowingly collect and retain any personal information from a child under the age of thirteen without the consent of that child's parent. The statements in this Privacy Policy generally about our collection and use of personal information also apply to our treatment of personal information from children under the age of thirteen. Some services on our Website (e.g., Shop, Ticketing, Auctions) require the submission of a credit card number along with personal information in connection with a purchase, other services on our Website (e.g., fantasy baseball) require the submission of personal information to the Website. Except in certain cases where limited contact information may be collected and not retained, these services are not available to children under the age of thirteen. If a child who Minor League Baseball knows to be under the age of thirteen attempts to utilize a service on this Website which is not available to children, he/she will receive a message which relays that he/she is not eligible for the service.
+
+**
+
+Contact Us; Privacy Administrator
+
+**
+
+If you have questions or concerns about this Privacy Policy, you can contact us at: **[privacy@website.milb.com](https://web.archive.org/web/20111101143212id_/http%3A//web.minorleaguebaseball.com/milb/info/privacy@website.milb.com)**.
+
+**
+
+Notification of Changes
+
+**
+
+If we make an important change to this Privacy Policy, we will post a notification and link on our homepage so that you can review the updated policy.
+
+**
+
+LAST UPDATED AND EFFECTIVE DATE: July 8, 2011
+
+**
+
+Below is an advertisement.
