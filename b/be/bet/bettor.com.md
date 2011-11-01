@@ -1,17 +1,16 @@
-> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629042127id_/http%3A//bettor.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettor.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003654id_/http%3A//www.bettor.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **Privacy Policy**
 
-Bettor.com is the trading name of Ibetx Ltd, Co No 04546485 whose registered office is at Ibetx Ltd  
-7th Floor  
-City Reach  
-5 Greenwich View Place  
-London
-
+Bettor.com is the trading name of Ibetx Ltd, 04546485 whose registered office is at Ibetx Ltd  
+4th Floor  
+30 Old Broad Street  
+London  
 United Kingdom  
-E14 9NN
+EC2N 1HT  
+
 
 Bettor.com takes your right to privacy extremely seriously and would like to assure any visitor to our website that the security of the personal information you provide to us is of paramount importance. In order to meet this responsibility we have put in place an exceptional Information Security Management System that will be systematically reviewed to ensure that our levels of protection are of the highest possible standard. You are under no obligation to divulge any Personal Information in relation to yourself. However, should certain information not be supplied then some of the services that we offer may not be available.
 
