@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228174401id_/http%3A//www.lysol.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lysol.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141136id_/http%3A//www.lysol.com/info/privacy-policy) for the most accurate reproduction.*
 
-# LYSOL® Privacy Policy | Reckitt Benckiser Inc.
+# LYSOL® Privacy Policy | Reckitt Benckiser LLC
 
-## Reckitt Benckiser Inc. (USA) ("Reckitt Benckiser")   
+## Reckitt Benckiser LLC (USA) ("Reckitt Benckiser")   
 Privacy Statement for Public Web Sites
 
 ## 1\. What this Privacy Policy Covers 
 
-Reckitt Benckiser Inc. (USA) ("Reckitt Benckiser") respects the privacy of every individual who visits our sites or responds to our interactive advertisements. This Privacy Policy outlines the information Reckitt Benckiser will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit Reckitt Benckiser sites or respond to our advertisements.
+Reckitt Benckiser LLC (USA) ("Reckitt Benckiser") respects the privacy of every individual who visits our sites or responds to our interactive advertisements. This Privacy Policy outlines the information Reckitt Benckiser will collect and how we will use that information. This Policy will also instruct you on what to do if you do not want your personal information collected or shared when you visit Reckitt Benckiser sites or respond to our advertisements.
 
-## Personally Identifiable Information
+## 2\. Personally Identifiable Information
 
 Reckitt Benckiser will not collect any personally identifiable information about you (that is, your name, address, telephone number, or email address) unless you provide it to us voluntarily. For example, and not by limitation, we may collect personally identifiable information when you make a purchase, participate in a contest or sweepstakes promotion; fill out a questionnaire; sign up for a survey or otherwise interact with us.
 
@@ -45,14 +45,14 @@ Reckitt Benckiser uses industry standard security techniques to help protect aga
 
 ## 8\. Who to Contact 
 
-If you have submitted personally identifiable information through a Reckitt Benckiser site or interactive advertisement, and would like that information modified, changed or deleted from our records, please click here to provide us with the email address.
+If you have submitted personally identifiable information through a Reckitt Benckiser site or interactive advertisement, and would like that information modified, changed or deleted from our records, please [click here](mailto:consumer.relations@rbnorthamerica.com) to provide us with the email address.
 
 ## 9\. How can you Update or Change your Information
 
-If at any time you want to update or change your information, you may contact us by sending an email by clicking here. If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please click here to opt-out.
+If at any time you want to update or change your information, you may contact us by sending an email by [clicking here](mailto:consumer.relations@rbnorthamerica.com?subject=Please%20Update%20My%20Information). If have received an email and you would like to opt-out of receiving future emails, please click on the opt-out link at the bottom of that email. If you would like to be removed from our database and you have not received an email, please click here to opt-out.
 
 ## 10\. Revisions to this Privacy Policy 
 
 We may modify this Privacy Policy and you should therefore periodically visit this page to be sure that you have read and agree with our most current Privacy Policy. This Privacy Policy was last revised on 05/03/2005 and is effective as of 9/15/2005. 
 
-© 2008 Reckitt Benckiser Inc. All rights reserved.
+© 2008 Reckitt Benckiser LLC All rights reserved.
