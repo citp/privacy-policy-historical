@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the soompi.com privacy policy that was archived on 2011-05-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110521195625id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soompi.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101125816id_/http%3A//www.soompi.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="keywords" content="K-pop, Kpop, J-pop, Asian American, dramas, music, beauty, fashion, entertainment, korean, japanese, chinese, boa, dbsk, tvxq, wonder girls, 2ne1, snsd, big bang">
-<meta name="description" content="Soompi is the Ultimate Site for Kpop and Asian Community Entertainment">	
+<meta name="description" content="The longest-running K-Pop site, since 1998, covering K-Pop news, music, fashion, videos, photos and dramas. Anything and everything K-Pop.">	
 <meta name="title" content="privacy policy">
 <meta property="fb:admins" content="684940468,100216">
 <meta property="fb:app_id" content="163414424111">
@@ -13,9 +13,9 @@
 <meta property="og:url" content="http://www.soompi.com">
 <meta property="og:image" content="">
 <meta property="og:site_name" content="Soompi">
-<meta property="og:description" content="Soompi is the Ultimate Site for Kpop and Asian Community Entertainment">	<title>privacy policy</title>
+<meta property="og:description" content="The longest-running K-Pop site, since 1998, covering K-Pop news, music, fashion, videos, photos and dramas. Anything and everything K-Pop.">	<title>privacy policy</title>
 <link rel="stylesheet" href="/static/css/blueprint/screen.css" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="/static/css/blueprint/soompi.css?7" type="text/css" media="screen, projection">
+<link rel="stylesheet" href="/static/css/blueprint/soompi.css?13" type="text/css" media="screen, projection">
 <link rel="stylesheet" href="/static/css/blueprint/print.css" type="text/css" media="print">
 <!--[if lt IE 9]>
 <link rel="stylesheet" href="/static/css/blueprint/ie8.css" type="text/css" media="screen, projection">
@@ -42,16 +42,49 @@
 <![endif]-->
 </head>
 <body><div id="meebo" style="display: none;"><m><iframe frameborder="0" id="meebo-iframe"></iframe></m></div>
-<div id="fb-root"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<div id="fb-root"><script async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
 <script>
+    function fb_login_redirect(){
+      //redirect to /login page with current URL as return URL.
+      window.location = '/login?url=/privacy';
+    }
+
+    function fb_reg_redirect(){
+      //redirect to /login page with current URL as return URL.
+      window.location = '/reg/facebook';
+    }
+
+    function f_user_is_known_fb_user(response){
+      // alert("We've detected you authorized our APP. Would you like to login using FB?");
+      // TODO: if users wishes, redirect him to /login by calling fb_login_redirect()
+      window.location = '/login?url=/privacy';
+    }
+
 	  window.fbAsyncInit = function() {
-	    FB.init({appId: '804b5d5211a6ae291e0d213a75c4c71e', status: true, cookie: true,
-	             xfbml: true});
-	    
-	    FB.Event.subscribe('auth.login', function(response) {
-	      window.location.reload();
-	    });
-	    
+	    FB.init({
+          appId: '163414424111', 
+          status: true, 
+          cookie: true,
+      		xfbml: true, 
+          oauth: true, 
+          channelUrl: 'http://www.soompi.com/fb_channel.php'
+      });
+
+      
+              //only if user is not yet logged in
+      	
+          // all other pages - detect if user is FB authorized.
+          FB.getLoginStatus(function(response) {
+            if (response.authResponse) {
+                // logged in and connected user, someone you know
+                f_user_is_known_fb_user(response);
+            } else {
+                // no user session available, someone you dont know
+            }
+          });
+              
+            
+            
 	  };
 	  (function() {
 	    var e = document.createElement('script'); e.async = true;
@@ -76,6 +109,7 @@
 		b.contentWindow[g];t.write(p());t.close()}catch(x){b[k]=o+'d.write("'+p().replace(/"/g,
 		'\\"')+'");d.close();'}a.T(1)}({network:"soompi"});
 	</script>
+<!-- end is_reg_global -->
 <script src="http://www.google.com/jsapi" type="text/javascript"></script>	
 <script type="text/javascript">
 	/*<![CDATA[*/
@@ -83,8 +117,7 @@
 	/*]]>*/
 	</script>
 <!-- 	<script type='text/javascript' src='https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.7/jquery-ui.min.js?ver=3.1'></script> -->
-<script type="text/javascript" charset="utf-8" src="/static/js/common.js?3.5.2"></script>
-<script type="text/javascript" charset="utf-8" src="/static/js/application.js?3.5.2"></script>
+<script type="text/javascript" charset="utf-8" src="/static/js/common.js?3.5.7"></script>
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript">
 	/*<![CDATA[*/
@@ -114,16 +147,18 @@
 	  })();
 	/*]]>*/
 	</script>
+<!-- end is_reg_global -->
+<div id="header">
 <div id="quick_nav" class="dark">
 <div class="padder">
 <div id="hot">
 <dl id="hot_items">
 <dt><span class="star"></span>What's hot</dt>
-<dd><a href="http://www.soompi.com/news/exclusive-big-bang-answers-your-questions">Exclusive Big Bang Interview</a></dd>
-<dd><a href="http://www.soompi.com/news/announcing-the-2ne1-lonely-cover-contest">2NE1 Contest</a></dd>
-<dd><a href="http://www.soompi.com/news/weekly-kpop-music-chart-2011-may-week-2-1">Soompi Charts</a></dd>
-<dd><a href="http://www.soompi.com/news/listen-soompi-chart-top-50-may-2011-week-2">K-POP Top 50</a></dd>
-<dd><a href="http://track.webgains.com/click.html?wgcampaignid=32684&amp;wgprogramid=1120&amp;wgtarget=http://www.yesasia.com/global/en/korean-music.html">CDs</a></dd>
+<dd><a href="http://www.soompi.com/news/exclusive-snsd-video-interview-and-shout-out-to-soompi">SNSD Video Interview</a></dd>
+<dd><a href="http://www.soompi.com/news/wonder-girls-reveal-r-u-ready-teaser-movie">Wonder Girls Comeback</a></dd>
+<dd><a href="http://www.soompi.com/news/weekly-kpop-music-chart-2011-october-week-5">Soompi Charts</a></dd>
+<dd><a href="http://www.soompi.com/news/win-tickets-to-2011-mama-awards-with-your-own-shuffle-dance-video">MAMA Tickets</a></dd>
+<dd><a href="http://www.soompi.com/news/listen-soompi-chart-top-50-october-2011-week-5">K-POP Top 50</a></dd>
 <dd><a href="http://www.soompi.com/news/column/23">Music Shows</a></dd>
 </dl>
 </div>
@@ -134,9 +169,7 @@
 </ul>
 </div><!-- userbar -->
 </div><!-- padder -->
-</div><!-- quick_nav -->
-<div id="header">
-<div class="padder">
+</div><!-- quick_nav -->	<div class="padder clearfix">
 <div id="banner">
 <script type="text/javascript">
 					/* 				GA_googleFillSlot("Soompi_About_Top_728x90"); */
@@ -180,8 +213,8 @@
 <div id="wrapper">
 <div class="container">
 <div class="span-33" id="main_content">
-<div class="padder">
-<h2>Privacy Policy</h2>
+<div class="padder clearfix">
+<!-- end $no_header -->	<h2>Privacy Policy</h2>
 <div id="static">
 <p>Soompi Media LLC, a California limited liabity corporation ("Soompi.com"), created this Privacy Policy in order to demonstrate Soompi.com's firm commitment to your privacy and privacy-related concerns. The following sets forth Soompi.com's information gathering, use and dissemination practices.</p>
 <p>Soompi.com does not collect personal information -- names, addresses, phone numbers, e-mail addresses or credit card numbers -- about you except when you specifically provide such information on a voluntary basis; like, for instance, when you (i) provide Soompi.com with information in connection with a web site registration, or (ii) purchase products from Soompi.com via the web site.</p>
@@ -209,7 +242,7 @@
 <p>Users of this web site should be aware that if they voluntarily disclose personal information in chat areas, on bulletin boards, or in classified areas within this web site, that information might be collected and disseminated by third-parties, and result in, among other things, unsolicited inquiries, messages, and offers from third-parties. Please understand that any information that is disclosed in these areas becomes public information and this third-party conduct is out of the control of Soompi.com. Please exercise caution when deciding to disclose your personal information. This web site also contains links to other web sites. Soompi.com is not responsible for the privacy practices or the content of such web sites.</p>
 <p>Soompi.com takes your privacy concerns very seriously. If you still have concerns about privacy issues after reading this Privacy Policy, please contact us at <a href="mailto:info@soompi.com" title="Send me an email"><span class="email">moc.ipmoos@ofni</span></a>.</p>
 <p>This Privacy Policy is effective as of September 1, 2007. This Privacy Policy is not intended to and does not create any contractual or other legal rights in or on behalf of any party. We reserve the right, at any time and without notice, to add to, change, update or modify this Privacy Policy, simply by posting such change, update or modification on the Site. Any such change, update or modification will be effective immediately upon posting on the Site. </p>
-</div>	 
+</div>	
 </div><!-- -- .padder ---->	
 </div><!-- .main_content -->
 </div> <!-- close .container -->
@@ -237,6 +270,23 @@
     });
     -->
   </script>
+<script>
+  	/* the script to async load google +1 */
+	(function() {
+	    function async_load(){
+	        var s = document.createElement('script');
+	        s.async = true;
+	        s.src = 'https://apis.google.com/js/plusone.js';
+	        var x = document.getElementsByTagName('script')[0];
+	        x.parentNode.insertBefore(s, x);
+	    }
+	    if (window.attachEvent)
+	        window.attachEvent('onload', async_load);
+	    else
+	        window.addEventListener('load', async_load, false);
+	})();
+	</script>
+<!-- end if no_footer -->	
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
 	/*<![CDATA[*/
@@ -250,13 +300,14 @@
 style="display: none;" border="0" height="1" width="1"
 alt="Quantcast"/></noscript>
 <!-- End Quantcast tag -->
-<!-- sooweb03 -->
+<!-- sooweb02 -->
 <script type="text/javascript">
-	Meebo('domReady');
-</script>
+		Meebo('domReady');
+	</script>
 <script type="text/javascript" src="http://s.skimresources.com/js/3566X615606.skimlinks.js"></script>
 <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
 <script type="text/javascript" src="/static/js/search.js"></script> 
 <script type="text/javascript" src="/static/js/site.js"></script> 
+<!-- end is_reg_global -->
 
 </body></html>
