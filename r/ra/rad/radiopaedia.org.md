@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2010-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100808082500id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiopaedia.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124155id_/http%3A//radiopaedia.org/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Radiopaedia.org
 
@@ -26,13 +26,22 @@ As much of the site is contributed by users, it may be that further personal inf
 
 #### Anonymity of cases / images
 
-All cases submitted should be de-identified, in such a way as to leave no way of identifying an individual patient. Information which should NOT appear on any of the cases includes, but is not limited to:
+All cases submitted should be de-identified, in such a way as to leave no way of identifying an individual patient. Information which should NOT appear on any of the cases includes (based on HIPAA guidelines), but is not limited to:
 
-  * Name
-  * Hospital number / ID
-  * Date of birth
-  * Residential address
-  * etc...
+  * name
+  * initials
+  * date of birth
+  * address, including full or partial postal code
+  * telephone or fax numbers or contact information
+  * e-mail addresses
+  * unique identifying numbers (e.g. UR, MRN, HID etc..)
+  * vehicle identifiers
+  * medical device identifiers (e.g serial numbers)
+  * web or internet protocol addresses containing any link to the patient
+  * biometric data
+  * facial photograph or comparable image
+  * audiotapes
+  * names of relatives
 
 
 
