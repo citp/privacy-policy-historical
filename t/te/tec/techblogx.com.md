@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techblogx.com privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202051620id_/http%3A//www.techblogx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblogx.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162437id_/http%3A//www.techblogx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,4 +21,4 @@ We have included links on this site for your use and reference. We are not respo
 **Changes to this Privacy Statement**  
 The contents of this statement may be altered at any time, at our discretion. 
 
-If you have any questions regarding the privacy policy of Tech Blog X then you may contact us at akash.malik7@gmail.com 
+If you have any questions regarding the privacy policy of Tech Blog X then you may contact us at admin@techblogx.com 
