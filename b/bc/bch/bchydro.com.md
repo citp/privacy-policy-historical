@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226211735id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bchydro.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005858id_/http%3A//www.bchydro.com/siteinfo/privacy.html) for the most accurate reproduction.*
 
 # BC Hydro - Privacy Statement
 
@@ -26,11 +26,7 @@ From time-to-time our site may have a contest or request information from users 
 
 ### 4Q Surveys
 
-We use 4Q surveys to better understand the customer experience on bchydro.com. Survey results are collected by 4Q via web form and aggregated into general reports to determine customer experience. The survey does not save personal information such as names or email addresses and IP addresses are not logged. Please do not provide your personal information or the personal information of any third party in response to any open-ended questions. The collected data is stored by [iPerceptions](http://www.iperceptions.com/), the host company, on servers in Canada.
-
-### AddThis
-
- _AddThis_ is an independent third-party application that allows you to bookmark and share web pages. Personal information collected, used, and disclosed by AddThis (i.e.your IP address) is governed by AddThis LLC's _Terms of Use_ and _Privacy Policy_. This data is stored by AddThis on servers outside Canada. Please note that BC Hydro does not collect or receive any personal information submitted to an AddThis application.
+We use 4Q surveys to better understand the customer experience on bchydro.com. Survey results are collected by 4Q via web form and aggregated into general reports to determine customer experience. The survey does not save personal information such as names or email addresses and IP addresses are not logged. Please do not provide your personal information or the personal information of any third party in response to any open-ended questions. The collected data is stored by [iPerceptions](http://www.4qsurvey.com/support/privacy-policy/), the host company, on servers in Canada.
 
 ### Children
 
