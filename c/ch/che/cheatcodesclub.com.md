@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatcodesclub.com privacy policy that was archived on 2010-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100106165306id_/http%3A//www.cheatcodesclub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatcodesclub.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214328id_/http%3A//www.cheatcodesclub.com/privacy.php) for the most accurate reproduction.*
 
 # Cheat Codes Club - Cheat Codes Search Engine - Privacy Policy Statement
 
@@ -14,9 +14,7 @@ The information we collect is used for internal review and is then discarded, no
 
 With respect to cookies: We use cookies to store visitors preferences. 
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
-[http://www.burstmedia.com](http://www.burstmedia.com/)  
-[http://www.valueclick.com](http://www.valueclick.com/)
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
