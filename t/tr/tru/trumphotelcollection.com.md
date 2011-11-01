@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106100124id_/http%3A//www.trumphotelcollection.com/Privacy_Policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trumphotelcollection.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101174537id_/http%3A//www.trumphotelcollection.com/Privacy_Policy/privacy_policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy – Trump Luxury & 5 Star Hotels
+# Privacy Policy | Trump Luxury Hotels & 5 Star Hotels
 
 **Introduction:** Trump® Hotel Collection has a strong commitment to providing excellent service to all of our customers, including respecting their concerns about privacy. We understand that visitors to our website may have questions about how this website collects and uses information. We have prepared this statement to inform you of the privacy principles that govern trumphotelcollection.com. 
 
