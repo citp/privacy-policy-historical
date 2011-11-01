@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gamestop.ca privacy policy that was archived on 2010-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100629033608id_/http%3A//www.gamestop.ca/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamestop.ca privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121455id_/http%3A//www.gamestop.ca/gs/help/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Gamestop.ca - Buy New and Used Games
+# Buy New and Used Games | GameStop
 
 **GameStop’s Commitment to Privacy**
 
 At GameStop we are committed to your right to privacy.  We collect personal information from our customers in the regular course of doing business.  We have developed this Privacy Policy to explain our practices for the collection, use, and disclosure of your personal information. 
 
-This Policy applies only to our websites.  It does not apply to our retail stores or to any other channels owned or operated by GameStop that are used for the sale of products or services.  GameStop maintains a separate privacy policy for personal information collected with respect to its retail store operations. All references to “websites” in this Privacy Policy mean www.ebgames.ca, www.gamestop.ca, or other GameStop-provided websites.
+This Policy applies only to our websites.  It does not apply to our retail stores or to any other channels owned or operated by GameStop that are used for the sale of products or services.  GameStop maintains a separate privacy policy for personal information collected with respect to its retail store operations. All references to “websites” in this Privacy Policy mean [www.ebgames.ca](http://www.ebgames.ca/), [www.gamestop.ca](http://www.gamestop.ca/), or other GameStop-provided websites.
 
 **How Do We Obtain Your Consent to the Collection of Your Personal Information?**
 
@@ -14,7 +14,7 @@ When you provide us with personal information to complete a transaction, place a
 
 If we ask you for personal information for a secondary reason, like contests, we will either ask you directly for your consent or provide you with an opportunity to say no.  If you accept an offer made by any of our third party marketing partners, we will disclose your relevant personal information, including name, address, credit/debit card number and other billing information to that third party, in accordance with the terms of the offer.
 
-Express and Implied Consent – We may ask you to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.  Other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you. ****
+Express and Implied Consent – We may ask you to give your express consent, such as by checking a box to indicate your consent to receive marketing communications, or by providing your signature to indicate your acceptance of the use and disclosure terms presented on an application form.  Other times, we may obtain your consent implicitly when we can reasonably conclude that you’ve given consent by some action you have taken or an action you have decided not to take. Generally, this occurs where the purpose for use of your personal information would be reasonably apparent to you. 
 
 How to Change or Withdraw Your Consent - You may notify us at any time that you wish to withdraw or change your consent to our use and disclosure of your information. We will accommodate your request following receipt of such notice, subject to legal and contractual restrictions related to your transactions. 
 
@@ -28,15 +28,11 @@ At GameStop, we collect personal information and non-personal information. The t
 
 Personal information - Personal information is information that can identify an individual or information about an identifiable individual. We may collect personal information including the following: 
 
-  * contact information – your name, postal address, telephone number, and email address
-
-
-  * personal preferences –  opinions, interests, hobbies, product wish lists, language preferences, and marketing consent; and 
-
-
-  * financial information and transaction information – products purchased, method of payment, amount paid, and credit or debit card number. 
-
-
+> • contact information – your name, postal address, telephone number, and email address
+> 
+> • personal preferences –  opinions, interests, hobbies, product wish lists, language preferences, and marketing consent; and 
+> 
+> • financial information and transaction information – products purchased, method of payment, amount paid, and credit or debit card number. 
 
 Non-personal information - Non-personal information does not identify you as an individual. For example, we may collect certain non-personal data when you visit our websites, such as your Internet Protocol address, the type and version of browser you are using or the referring URL; or we may collect and summarize customer information in a non-personal, aggregate format for statistical and research purposes. 
 
@@ -44,29 +40,39 @@ Non-personal information - Non-personal information does not identify you as an 
 
 The primary reasons we collect personal information from you are:
 
-  * To complete a sales transaction with you 
-  * To place pre-orders on your behalf
-  * To fulfill your requests for products, services or information
-  * Processing trades, Edge Card memberships 
-  * To limit the possibility of fraud or error when we process your transactions, refunds and/or exchanges 
-  * To administer rebates 
-  * To conduct contests, promotions or surveys 
-
-
+> • To complete a sales transaction with you 
+> 
+> • To place pre-orders on your behalf
+> 
+> • To fulfill your requests for products, services or information
+> 
+> • Processing trades, Edge Card memberships 
+> 
+> • To limit the possibility of fraud or error when we process your transactions, refunds and/or exchanges 
+> 
+> • To administer rebates 
+> 
+> • To conduct contests, promotions or surveys 
 
 We also use your personal information for other, secondary reasons, including:
 
-  * Customer service 
-  * As part of extended service agreements 
-  * To administer a loyalty program, including but not limited to tracking and analyzing your purchases and preferences to better understand your product and service needs and eligibility
-  * To facilitate your acceptance of offers made by our third party marketing partners
-  * To tailor our online content based on your preferences 
-  * To measure and improve the effectiveness of our websites or our marketing endeavours
-  * If you ask us, to offer and promote additional products and services we offer 
-  * For other purposes as described in this Privacy Policy 
-  * As otherwise provided or required by law
-
-
+> • Customer service 
+> 
+> • As part of extended service agreements 
+> 
+> • To administer a loyalty program, including but not limited to tracking and analyzing your purchases and preferences to better understand your product and service needs and eligibility
+> 
+> • To facilitate your acceptance of offers made by our third party marketing partners
+> 
+> • To tailor our online content based on your preferences 
+> 
+> • To measure and improve the effectiveness of our websites or our marketing endeavours
+> 
+> • If you ask us, to offer and promote additional products and services we offer 
+> 
+> • For other purposes as described in this Privacy Policy 
+> 
+> • As otherwise provided or required by law
 
 **Information GameStop Collects Directly from You**
 
@@ -78,8 +84,7 @@ Our Websites – You can browse our websites anonymously.  However, to order pr
 
 Customer Reviews and Posted Content – We may provide you with the ability to rate or review products or services we sell, or otherwise post content on our websites.  Any comments or reviews that you provide are accessible to all visitors to our website, so you should use discretion when posting information and you should not post personal information.  GameStop has no responsibility if you do post personal information.  Subject to the other provisions of this privacy policy relating to your personal information, you grant a perpetual worldwide non-exclusive license to GameStop to copy, use and/or display any content that you post on any of our websites.
 
-Newsletters or Updates - GameStop also may offer you the opportunity to sign up for newsletters or other promotional communications.  If you decide to do so, we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”.  We do not rent our subscriber list or offer to sell it to other parties.
-
+Newsletters or Updates - GameStop also may offer you the opportunity to sign up for newsletters or other promotional communications.  If you decide to do so, we will collect your contact information, such as name and email address. This information will only be used to send you the newsletter and promotional announcements that you have requested. You may “unsubscribe” at any time by using the unsubscribe link included in the footer of the newsletter or by using the unsubscribe link included below under the heading “Unsubscribe”.  We do not rent our subscriber list or offer to sell it to other parties.  
 Contest and Other Promotions - From time to time, we may run contests or promotions. If you participate, you may be asked for contact information as well as additional optional survey information (for example, product preferences).  Personal information from contest entries will be used only to administer the contest and contact you if you win. For research and analysis purposes, we may also aggregate contest survey information in a manner that no longer identifies individual participants. All contests and promotions are subject to this Privacy Policy and the rules provided for each particular contest or promotion.  If a contest is by a third party, it will be subject to the third party’s contest rules and policies. 
 
 Subscription Services and Activations - GameStop may offer activation of certain products and services like online games, downloadable games or game components, or Internet services. These activations may require that certain contact and financial information be collected and provided to GameStop or to the respective service providers as part of the activation process. 
@@ -106,8 +111,7 @@ GameStop does not sell or rent our customers’ personal information to any othe
 
 In addition, if you accept an offer from any of our third party marketing partners, we will share your contact and billing information with that specific third party, in accordance with the terms of the offer.  If you have previously requested that your personal information not be shared with third parties, but then later consent by accepting a third party marketing offer available through one of our websites, we will share your contact and billing information with that specific third party, in accordance with the terms of the offer. 
 
-Some of these operations may result in personal information collected by GameStop being stored or processed outside of Canada and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the law of these foreign jurisdictions.
-
+Some of these operations may result in personal information collected by GameStop being stored or processed outside of Canada and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the law of these foreign jurisdictions.  
 Service Providers - GameStop may use third parties to manage one of more aspects of our business operations, including the processing or handling of personal information.  We may share personal information with such third parties to perform services on our behalf such as fulfilling online orders, processing non-cash payments, sending marketing communications, servicing products, conducting research surveys, verifying and validating information that you have provided to us, delivering products, and providing customer support services.  When we do use an outside company, we use contractual and other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.
 
 GameStop has taken precautions to prevent the fraudulent use of your information on our websites. GameStop has adopted industry standard authentication procedures to ensure your protection while shopping with us online. This includes, but is not limited to, contacting financial institutions or credit reporting agencies to ensure the authenticity of your credit card and to validate your credit card billing information. 
@@ -126,7 +130,7 @@ The file containing your personal information will be stored on our servers and 
 
 SSL Technology - Our websites use encryption technology, such as Secure Sockets Layer (“SSL”), to protect your personal information during data transport. SSL encrypts ordering information such as your name, address, and credit card number.
 
-VeriSign Certification - Our websites have received a VeriSign certificate to confirm that we have met with industry standard security protocols. For your online security, always verify you are on an authentic GameStop website by clicking on the VeriSign logo located in the lower right footer of our homepage. Make sure that the URL of the VeriSign confirmation page begins with “https://seal.verisign.com”.
+VeriSign Certification - Our websites have received a VeriSign certificate to confirm that we have met with industry standard security protocols. For your online security, always verify you are on an authentic GameStop website by clicking on the VeriSign logo located in the lower right footer of our homepage. Make sure that the URL of the VeriSign confirmation page begins with “[https://seal.verisign.com](https://seal.verisign.com/)”.
 
 Choosing a Password - When you create an online account on our websites, you will be prompted to select a personal password. To maximize your level of protection, you should choose a strong personal password, which means that you should use at least 6 characters including a combination of both letters and numbers. You are solely responsible for maintaining the secrecy of your password and any account information. GameStop will never send an unsolicited communication asking you for your password or requesting that you update your account credentials.
 
@@ -146,7 +150,7 @@ GameStop is responsible for all personal information under its control. Our Priv
 
 Email: Click here (please read the Important Reminder below) 
 
-You may contact our Privacy Compliance Manager or a member of the senior management team by calling (905) 790-9262 or you can contact us in writing addressed to: help@gamestop.ca
+You may contact our Privacy Compliance Manager or a member of the senior management team by calling (905) 790-9262 or you can contact us in writing addressed to: [help@gamestop.ca](mailto:help@gamestop.ca)
 
 Privacy Compliance @ EB Games  
 8995 Airport Road   
@@ -157,20 +161,17 @@ L6T 5T2
 
 Important Reminder about email communications:  Please remember that email sent over the Internet is not secure. If you send an email directly to us from your own email account the contents will not be encrypted. We strongly recommend that you do not send sensitive information (like a credit card number) to us via unencrypted email. GameStop is not responsible for any transmission by you of any personal information over the Internet.
 
-**Unsubscribe**
-
+**Unsubscribe**   
 If you no longer wish to be contacted regarding promotions, new product and entertainment releases click here.
 
-**Who is GameStop?**
-
+**Who is GameStop?**   
 GameStop.ca and EBGames.ca are the registered web domains of Electronics Boutique Canada Inc., an indirect, wholly-owned subsidiary of GameStop Corporation. 
 
-**Will this Privacy Policy change?**
-
+**Will this Privacy Policy change?**   
 Last Update: October 19, 2009
 
 To accommodate changes in our services, changes in technology, and legal developments, this Privacy Policy may change over time without notice to you. We may add, change, or remove portions of the Privacy Policy when we feel it is appropriate to do so. We encourage you to review our Privacy Policy periodically. Each time you submit personal information or use our services you agree to be bound by the then current terms of the Privacy Policy. Whenever we update the Privacy Policy we will change the date to indicate when the changes were made.
 
 Change History:
 
-October 19, 2009: Format, structure and general revisions to improve readability and user-friendliness of content, and to add additional detailed information regarding collection and use of personal information.
+October 19, 2009: Format, structure and general revisions to improve readability and user-friendliness of content, and to add additional detailed information regarding collection and use of personal information. 
