@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laweekly.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607032926id_/http%3A//www.laweekly.com/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laweekly.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143503id_/http%3A//www.laweekly.com/about/privacyPolicy) for the most accurate reproduction.*
 
 # Los Angeles Privacy Policy
 
