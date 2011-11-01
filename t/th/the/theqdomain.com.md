@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theqdomain.com privacy policy that was archived on 2011-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110412051022id_/http%3A//theqdomain.com/ocstore/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theqdomain.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233149id_/http%3A//theqdomain.com/ocstore/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
