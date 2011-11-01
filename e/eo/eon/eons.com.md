@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eons.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225085033id_/http%3A//www.eons.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eons.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005903id_/http%3A//www.eons.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | eons.com
 
@@ -82,12 +82,12 @@ Eons also uses web beacons (also known as action tags or single pixel gifs) to a
     * If you have questions or suggestions about our Privacy Policy, please email us at [info@eons.com](http://www.eons.com/about/contact) or you can contact us at:
 
 > Eons, Inc.  
->  1 First Avenue, 1st Floor  
->  Charlestown, MA 02129
+>  111 Maiden Lane, Suite 540  
+>  San Francisco, CA 94108
 
-> (617) 337-9400
+> (415) 295-4575
 
-Effective Date: July 3, 2009
+ **Effective Date: April 28, 2011**
 
 
 
