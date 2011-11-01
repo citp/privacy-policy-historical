@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425211653id_/http%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomoson.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162647id_/http%3A//www.tomoson.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
