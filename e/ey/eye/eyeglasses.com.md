@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527233024id_/http%3A//www.eyeglasses.com/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeglasses.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101233513id_/http%3A//www.eyeglasses.com/security_and_privacy.html) for the most accurate reproduction.*
 
 # Eyeglasses, Glasses, Eyewear, Prescription Sunglasses -- Eyeglasses.com
 
