@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520160525id_/http%3A//www.paperlesspost.com/info/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperlesspost.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105852id_/http%3A//www.paperlesspost.com/info/terms/privacy) for the most accurate reproduction.*
 
 # Paperless Post - Privacy Policy - Privacy Policy
 
@@ -91,7 +91,7 @@ Please also feel free to contact us if you have any questions about Paperless Po
 **You may contact us as follows:**   
 Paperless Inc.   
 151 West 25th Street   
+9th Floor   
 New York, NY 10001   
-4th Floor   
 212-242-1234   
 help@paperlesspost.com 
