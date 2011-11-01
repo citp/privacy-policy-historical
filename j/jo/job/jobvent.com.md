@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobvent.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519182811id_/http%3A//www.jobitorial.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobvent.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232409id_/http%3A//www.jobitorial.com/privacy.php) for the most accurate reproduction.*
 
 # Jobitorial Privacy Policy
 
