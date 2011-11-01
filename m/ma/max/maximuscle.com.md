@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maximuscle.com privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612150746id_/http%3A//www.maximuscle.com/help/your_security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maximuscle.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101195748id_/http%3A//www.maximuscle.com/help/your_security.html) for the most accurate reproduction.*
 
 # Maximuscle - Your Security
 
