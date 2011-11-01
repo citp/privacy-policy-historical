@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304015413id_/http%3A//www.gofobo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gofobo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143339id_/http%3A//www.gofobo.com/privacy_policy) for the most accurate reproduction.*
 
-# Gofobo: gofobo Privacy Policy
+# gofobo Privacy Policy | gofobo
 
 Welcome to gofobo, an online community for movie fans to interact with movies through advance movie screenings, promotions, contests, sweepstakes and special events.
 
@@ -57,3 +57,7 @@ You have the ability to cancel your membership at any time. If you no longer wis
 
 * **Contact.**  
 If you have any questions about this privacy statement, the practices of this Web site or your dealings with this Web site, please send your comments to us by using the "Contact Us" link at the bottom of every page.
+
+* **Dispute Resolution.**  
+The Privacy Policy and the relationship between you and gofobo.com shall be governed by the laws of the United States and the State of Texas without regard to its conflict of law provisions. Any action or proceeding arising from, relating to or in connection with the Privacy Policy will be brought exclusively in the federal or state courts located in Houston, Texas, and you irrevocably consent to the personal jurisdiction of such courts and agree that it is a convenient forum and that you will not seek to transfer such action or proceeding to any other forum or jurisdiction, under the doctrine of forum non conveniens or otherwise. No failure or delay by gofobo.com in exercising any right, power or privilege under the Privacy Policy will operate as a waiver thereof, nor will any single or partial exercise of any right, power or privilege preclude any other or further exercise thereof or the exercise of any other right, power, or privilege under the Privacy Policy. The invalidity or unenforceability of any provision of the Privacy Policy will not affect the validity or enforceability of any other provision, all of which will remain in full force and effect. You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of, related to or connected with the use of the Service or the Privacy Policy must be filed within one (1) year after such claim or cause of action arose or be forever barred. The section titles in the Privacy Policy are for convenience only and have no legal or contractual effect. The Privacy Policy represents the entire understanding of the parties regarding its subject matter, and supersede all prior and contemporaneous agreements and understandings between the parties regarding its subject matter. These terms and conditions are binding upon and shall ensure to the benefit of both parties and their respective successors, heirs, executor, administrators, personal representatives and permitted assigns. You shall not assign your rights or obligations hereunder without gofobo.com's prior written consent.  
+
