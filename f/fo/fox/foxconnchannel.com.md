@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxconnchannel.com privacy policy that was archived on 2010-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100620195754id_/http%3A//www.foxconnchannel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxconnchannel.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005832id_/http%3A//www.foxconnchannel.com/privacy.aspx) for the most accurate reproduction.*
 
 # Foxconn - Sitemap
 
