@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalwolfweb.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611174055id_/http%3A//www.lwolf.com/web_privacy_statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwolfweb.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120027id_/http%3A//lwolf.com/web_privacy_statement.htm) for the most accurate reproduction.*
 
 # Lone Wolf Real Estate Technologies
 
