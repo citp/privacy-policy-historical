@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fizzy.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222202729id_/http%3A//fizzy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fizzy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132223id_/http%3A//www.fizzy.com/privacy) for the most accurate reproduction.*
 
 # Fizzy Home :: Support :: Privacy
 
