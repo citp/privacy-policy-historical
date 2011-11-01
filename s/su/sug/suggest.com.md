@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suggest.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105153155id_/http%3A//www.suggest.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suggest.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101203348id_/http%3A//www.suggest.com/privacy.html) for the most accurate reproduction.*
 
 # Suggest.com
 
