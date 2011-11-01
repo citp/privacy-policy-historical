@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megasearch.biz privacy policy that was archived on 2011-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110123150446id_/http%3A//www.megasearch.biz/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megasearch.biz privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101133907id_/http%3A//megasearch.biz/privacy.aspx) for the most accurate reproduction.*
 
 # MegaSearch Privacy Policy
 
@@ -6,7 +6,7 @@
 
 #####  Introduction 
 
-**MegaSearch** respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at **MegaSearch’s** Web site.
+**MegaSearch** respects each individual’s right to personal privacy.  We will collect and use information through our Web site only in the ways disclosed in this statement.  This statement applies solely to information collected at **MegaSearch’s** Web site, [www.MegaSearch.biz](http://www.megasearch.biz/).
 
 #####  Administration 
 
@@ -16,8 +16,8 @@ City: Overland Park
 State: Kansas  
 Zip Code: 66213  
 Country: United States  
-Website URL: MegaSearch.biz  
-Website Email: info@MegaSearch.biz
+Website URL: [http://www.MegaSearch.biz](http://www.megasearch.biz/)  
+Website Email: [info@MegaSearch.biz](mailto:info@MegaSearch.biz)
 
 #####  Part 1. Information Collection & Usage 
 
