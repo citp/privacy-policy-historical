@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224153901id_/http%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152819id_/http%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
 
 # Website Privacy Policy - WhistleOut
 
@@ -37,6 +37,8 @@ WhistleOut uses cookies to provide you with a better comparison experience in se
 We use cookies to track sales transactions with a range of different partner sites as part of our commission process. 
 
 Users who do not wish to receive cookies can instruct their web browsers to refuse them but this may limit the features of this Site which are available to you. 
+
+Third party vendors, including Google, use cookies to serve ads based on your prior visits to this website. You have the option to opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com.au/privacy_ads.html). Alternatively you can opt out of cookies by visiting the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **Third Party Measurement**
 
