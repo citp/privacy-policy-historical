@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606110030id_/http%3A//www.asianetindia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keralaonline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101224348id_/http%3A//www.asianetindia.com/privacy-policy) for the most accurate reproduction.*
 
 # Kerala Latest News |Kerala Breaking News |Kerala Latest Headlines
 
@@ -22,5 +22,3 @@ We have security measures in place to attempt to protect against the loss, misus
 We may amend this policy from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages.
 
 If you have questions about this privacy policy or the practices of this site, please contact us .
-
-9 queries in 0.280 seconds. [](http://www.alexa.com/siteinfo/www.asianetindia.com)
