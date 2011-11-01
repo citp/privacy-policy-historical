@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604142644id_/http%3A//sportsinsights.com/company/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151801id_/http%3A//sportsinsights.com/company/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement
+# Sports Betting Information Services
 
 Thank you for visiting SportsInsights.com (our "Site"). We appreciate the opportunity to interact with you on the Internet and are committed to protecting and safeguarding your privacy. The purpose of this Privacy Statement is to inform you about the types of information we might collect about you when you visit our Site, how we may use that information and whether we disclose that information to anyone. 
 
