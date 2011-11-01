@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the coolquotes.com privacy policy that was archived on 2007-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070624140547id_/http%3A//www.coolquotes.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolquotes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134137id_/http%3A//www.coolquotes.com/privacy.php) for the most accurate reproduction.*
 
-# Cool Quotes-Privacy Policy
+# Cool Quotes-Links
 
 Cool Quotes is very respectful about the privacy concerns of the visitors to its web sites. Cool Quotes also recognizes the valuable potential of technology to help people communicate with the companies whose web sites they visit, particularly through customer databases. Responsible use of the information you share with Cool Quotes is paramount. In order to help you understand the role technology plays in the collection and use of information you provide Cool Quotes, the following guidelines have been created.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org
 
 **Non-Personally Identifiable Information**
 
