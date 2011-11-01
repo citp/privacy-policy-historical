@@ -1,126 +1,75 @@
-> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2010-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100820035616id_/http%3A//www.notgoingtouni.co.uk/pages/site/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notgoingtouni.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101231330id_/http%3A//www.notgoingtouni.co.uk/pages/site/privacypolicy) for the most accurate reproduction.*
 
-# Apprenticeships - Distance Learning - Foundation Degrees - Gap Years | notgoingtouni | Pages
+# Privacy Policy
 
-© Copyright 2008 Not going to uni Ltd. Please read our Privacy Policy. This website is published by Not going to uni Ltd, 4a Oakwood Parade, Oakwood Hill, Loughton, Essex, IG10 3EL and is registered in England No 06464163. VAT number 945064126
+**_Not going to uni (Ngtu) Privacy Statement_**  
+[www.notgoingtouni.co.uk](http://www.notgoingtouni.co.uk/) & [www.notgoingtouni.com](http://www.notgoingtouni.com/)  are owned and run by not going to uni Ltd.
 
-#### Why we collect your data?
+**Introduction**
 
-By collecting your data, it allows us to understand what your needs and wants are, provide personalised content and match the most relevant adverts and services for you. It also allows us to provide targeted offers and services you may be interested to hear about.
+At Ngtu we are sensitive to privacy issues on the internet. We believe that it is important you know how we treat the information about you, which we receive from you. To this end we have created the following privacy statement to demonstrate our firm commitment to privacy on the internet and especially within the use of this website.
 
-#### Data Protection Principles
+**General Privacy Statement**
 
-Not going to uni Limited complies with the principles of the Data Protection Act 1998 and the Privacy and Electronic Communications (EC Directive) Regulations 2003. The eight principles relating to the processing of personal information are:
+In general you can visit Ngtu without telling us who you are or revealing any personally identifiable information about you. Our servers automatically collect domain names, IP addresses, browser details, your country of origin and how you got to the site (via the use of cookies and server generated technology – please see the section 'What are cookies' for more information). This information is aggregated to measure things such as the number of visits, time spent on the site, pages viewed etc. Ngtu uses this information to measure the use of our site and to improve the service we offer to you. Personally identifiable information such as email address, home address, first and last names, and other such identifiable information is only known when voluntarily provided by a visitor for the purpose of registration, or in communication with other members and guests.
 
-  * Fairly and lawfully processed
-  * Processed for a limited time
-  * Adequate, relevant & not excessive
-  * Accurate
-  * Not kept longer than necessary
-  * Processed in accordance with your rights
-  * Secure
-  * Not transferred to countries without adequate protection
+  
+Please be aware that whenever you voluntarily post personal information to discussion forums, wikis, Journals, Blogs, Message Boards, Classifieds or any other Public Forums that that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications.  
+Personally identifiable information that is collected in response to the use of this site is retained by Ngtu, and only used in the improvement of services and in contact from us, to the user. We do not sell, transfer or otherwise disclose this information outside this company, except:
+
+  * where disclosure is required by law or;
 
 
 
-Your privacy and security is of utmost importance to us. We will always follow these principles and ask you how you would like us (or our partners) to communicate with you. The Information Commissioner regulates compliance with the Data Protection Act.
+-    when the visitor chooses to "apply" to an opportunity, advert or similar.
 
-#### Marketing consent
+        -   From time to time, Ngtu may sponsor a promotion, sweepstake or contest on Ngtu. Users may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. We may transfer personal information to certain ad partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
 
-By returning or submitting a form with your personal information to us or your continued use of our services, you consent to:
+Unfortunately, the transmission of information via the Internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmission to our site; any transmission is at you own risk. Once we have received your information, we will use the strict procedures to try and prevent unauthorised access.
 
-a) our processing your personal data for the above purposes; and
+It is your responsibility to keep your site login information secure when it's in your possession. If you are using a shared computer, please ensure you log out of Ngtu or close down the browser before leaving the computer for the next user.
 
-b) the transfer and processing of your information in countries outside of the European Economic Area which may not provide the same level of data protection as the UK. If we do make such a transfer or if your personal information will be processed outside of the European Economic Area, we will put a contract in place to ensure your information is protected or where applicable covered by the US "Safe Harbor Program".
+This site contains links to other sites. We are not responsible for the privacy practices or content of such Websites.
 
-#### Marketing consent
+  
+**What is a cookie?**
 
-If you are an existing customer we will keep you informed of product developments that relate to these products and services.
+The information supplied by a cookie can help us provide you with a better online experience and assist us in the profile of our visitors. A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a website's computer and stored on your computer's hard drive. Each website can send its own cookie to your browser, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Many sites do this whenever a user visits their website in order to track online traffic flows. You have the option to set your computer to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. The last of these means that personalised services cannot be provided to that user and accordingly you may not be able to take full advantage of all of Ngtu's features. For more information on cookies please visit [www.aboutcookies.org](http://www.aboutcookies.org/).
 
-When you give us your personal information, we will give you an option to receive additional ongoing marketing communications from us which may include offers and news of alternative products and services.
+**How we use IP addresses**
 
-We do not sell our customer data to other companies to use for their marketing purposes outside of notgoingtouni.
+To help us maintain a safe website your IP address maybe displayed alongside your posts, and can be used to investigate illegal/inappropriate user behaviour. We may also use your IP address to help diagnose any problems with our server or to administer Ngtu. Your IP address may be used to help identify you and to gather broad demographic information that helps us understand our users requirements.
 
-All of our marketing communications will have a method to unsubscribe.
+**Security**
 
-Please note: Many products or services include personalised communications as part of their package; users will be given the opportunity to control the receipt wherever possible. In the event that the product or service consists entirely of communication (e.g editorial bulletins) this may take the form of unsubscribing from the specific communication.
+Ngtu has security measures in place to protect the loss, misuse and alteration of information under its control. Please try and keep your log in information (username and/or password) secure at all times. If you suspect that the security of your login information has been breached you can email [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk)
 
-If you purchase or redeem an offer with us, we may need to disclose your personal information to our partners, suppliers and subcontractors in order to process your order, fulfil deliveries, complete billing and invoicing transactions and to inform delivery and logistics planning.
+**Children**
 
-We may supply personal data to trusted suppliers for analysis purposes. This will be done under agreement with us and will be in line with this policy.
+Protecting the privacy of young children is especially important. Ngtu is intended for general use and does not knowingly collect or maintain personally identifiable information on persons under 12 years-of-age. As no part of Ngtu is directed to persons under 12 we would suggest you use other websites more suited to your age group. If Ngtu learns that personally-identifiable information of persons less than 12-years-of-age has been collected on Ngtu, then Ngtu will take the appropriate steps to delete this information. If you are a parent or guardian and discover that your child under the age of 12 has obtained access to Ngtu or has created a membership account, then you may alert Ngtu at [info@notgoingtouni.co.uk](mailto:info@notgoingtouni.co.uk) and request that Ngtu delete that child's personal information from its systems.
 
-We will work with other companies for promotional purposes where readers may be asked to opt in for future contact from that specific partner. With your permission we will transfer that customer data to the third party at which point it will fall under their own privacy and security controls. Not going to uni Ltd cannot be held liable for subsequent issues arising from third party usage of transferred data.
+Parents and legal guardian's should supervise the online activities of their children, and should consider the use of parental control tools available from online services and software providers that help provide a child-friendly Internet environment.
 
-#### Disclosure
+**Viewing and correcting your personal information**
 
-Your personal information will be disclosed where we are obliged or permitted by law to do so. If you post or send offensive or objectionable content anywhere on or to any of our websites or otherwise engage in any disruptive behaviour on any of our websites, we can use the information that is available to us about you to stop such behaviour. This may involve informing relevant third parties such as your employer and law enforcement agencies about the content and your behaviour.
+In the majority of cases, Ngtu will allow you to view any information that is held about you if you ask for it either in an email or in writing. If you then inform us that part or all of the information is incorrect, we will review it. If we also believe that it is incorrect, we will then correct our records.
 
-#### Cookies and IP Addresses
+The Act gives you the right to access information held about you. Your rights of access can be exercised in accordance with the Act. Any access request may be subject to a fee of up to £10.00 to meet our costs in providing you with details of the information we hold about you.
 
-When you visit one of our websites, we may send you a cookie. A cookie is a small file placed on your computer for the following purposes:
+**Third Party Advertisements**
 
-  * Cookies help us to recognise you when you come back to our websites and to note the advertisements displayed to you. This helps us to choose adverts that we think are more relevant to you. We may use the services of third party ad servers for this purpose. A third party ad server is a company that specialises in maintaining, serving, tracking and analysing results of online advertising campaigns.
-  * Cookies may be used to compile anonymous statistics about online activity. A third party collects such data on our behalf to measure website performance. Information collected is aggregated for reporting purposes. The use of this service assists us in measuring and improving our websites.
-  * We may also track IP addresses. An IP Address is a number that can identify an Internet Service Provider and country location. It cannot provide personal information.
+Any advertisement appearing on this website (including but not limited to banners, text adverts, skyscrapers, emails, private messages etc) is delivered to you by us, or on our behalf by our web advertising partners.
 
+Information you provide us with may be used anonymously to ensure that you receive more targeted advertisements, but no personal information that you provide us with will ever be passed to a third party.  
+Anonymous aggregated information based on users' activities e.g. number of people clicking on an advert will be passed to advertisers. No information about specific users activity will ever be passed to a third party.
 
+**Changes and updates to this privacy statement**
 
-Cookies cannot be used by themselves to identify you. You are not obliged to accept cookies and may modify your browser so that it will not accept cookies. [Click here](http://www.allaboutcookies.org/) for instructions on how to manage cookies. If you disable cookies, many personalised services on websites will not work as intended.
+This privacy statement from time to time may be revised without any further notice. We would advise you to revisit this page from time to time to keep up to date with any changes in the way we deal with information collected from you. Continued use of Ngtu constitutes your agreement to this privacy statement and any future amendments.
 
-#### Flash Cookies
+**Contacting Ngtu**
 
-When you use websites that uses Macromedia Flash Player, a small Flash Cookie may be used. The purpose of using these cookies is to store your flash player preferences and enhance your experience.
-
-Flash Cookies are stored on your computer in a similar way to standard cookies, except they are stored in a different location. Due to this, it is not possible to block or manage Flash Cookies directly from your browser.
-
-In order to manage or delete Flash Cookies, please visit Adobe's website, by [clicking here](http://kb2.adobe.com/cps/526/52697ee8.html).
-
-#### Third Party Cookies
-
-Our website's may contain third party advertising and sponsorship. It is possible that these third party advertisers may download cookies to your computer. Cookies may then be used to allow the advertisers to compile anonymous statistics, personalise advertising content and monitor the effectiveness of their campaigns. We cannot control nor do we have access to any cookies placed on your computer by third party advertisers and sponsors.
-
-#### Web Beacons and URL tracking
-
-As part of our email communications and website analyses, we may use web beacons and track URL's.
-
-Web beacons are electronic files that count users who access a website or page and can also allow us to see if a cookie has been activated. Web beacons on web pages or email communications allow us to see how successful an article may be or that an email message was successfully delivered and read.
-
-Tracked URLs will count the amount of clicks on a web page. This allows us to edit the site according to the popularity of the articles you read.
-
-You can't decline web beacons, however by preventing cookies being used on your computer; you can prevent web beacons from tracking your activity. For information about managing your cookie options, please [click here](http://www.allaboutcookies.org/).
-
-Please be aware that if you disable cookies, many services on our website/s will not be available to you, particularly those that contain personalised content as outlined below.
-
-#### Payment and credit checks
-
-Customer data will be used to take payment for products and services and may be used to verify credit details related to this payment. Permission to do so is implicit in providing financial details to process payment. Direct Debit information may be retained for ease of renewal of services.
-
-If you apply for credit then to help us to make credit decisions about you, to prevent fraud, to check your identity and to prevent money laundering, we may search the files of credit reference agencies who will record any credit searches on your file. We may also disclose details of how you conduct your account to such agencies. The information will be used by other credit grantors for making credit decisions about you and the people with whom you are financially associated for fraud prevention, money laundering prevention and occasionally for tracing debtors.
-
-#### Personalised content
-
-The content on our website/s and in our email communications may be adjusted depending on what we know about the content, products and services that you like. This means we can highlight content and articles that we believe will be of interest to you.
-
-Advertising content may be adjusted depending on personal information. In some instances, this targeted advertising may be created by third parties and the information will be collected and held by these third parties outside not going to uni.
-
-#### Updating or deleting your personal information
-
-When you register online with our website's, you can see, review and change your personal information. Please ensure you update your personal information if it changes or is inaccurate. Should you request that your account is closed and your personal information removed, please be assured that this will be done as soon as is reasonably possible. Personal information from closed accounts is retained in order to comply with legal obligations, prevent fraud, collect any fees owed or to resolve disputes.
-
-Personal, transactional and behavioural information will be stored against your personal profile. If you do not use your account or interact with us, then your profile will be held for three years and a further two years in an anonymised form for analysis purposes. It will then be securely deleted.
-
-When readers enter into a conversation with any of our sites or other media, for example through the use of polls, comments, text messages, email, phone, radio or letters we reserve the right to display this content indefinitely in any relevant context subject to our editorial judgement. This will be anonymised in the case of testimonials or customer service conversations.
-
-Please remember that any information about yourself or your family that you submit in social media including chat rooms, blogs and forums will be viewed by other people. As such, this personal data may be viewed, collected and used by third parties over whom we have no control. We are not responsible for either the information you submit/post or otherwise make available in such public areas or any use that may be made of such information by any third party.
-
-When you give us information about another person, you confirm that they have appointed you to act for them, to consent to the processing of their personal data, including sensitive personal data and to the transfer of their information abroad and to receive on their behalf any data protection notices.
-
-When you request to have your profile removed from further marketing offers from us, you will be added to a suppression list to ensure your request is complied with. All personal data is processed in line with the requirements of the Data Protection Act 1998 and The Privacy and Electronic Communications (EC Directive) Regulations 2003.
-
-#### Information Requests
-
-You have a right to ask for a copy of your personal information from us which we may hold about you (for which we charge a small processing fee) and to ask us to correct any inaccuracies in your personal information (which is free).
-
-#### Notification of changes
-
-From time to time, we may make changes to the Privacy Policy. This may be in relation to changes in the law, best practice, changes in our services or treatment of your personal information.
+If you have any questions about this privacy statement, the conduct of Ngtu or your use of the service this website provides, you can contact:  
+Administrator  
+Not going to uni Ltd  
+4a Oakwood Parade, Oakwood Hill, Loughton, Essex, IG10 3EL
