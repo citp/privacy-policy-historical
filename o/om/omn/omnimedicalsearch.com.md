@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnimedicalsearch.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnimedicalsearch.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101221153id_/http%3A//www.omnimedicalsearch.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - OmniMedicalSearch.com
 
@@ -58,20 +58,3 @@ OmniMedicalSearch.com is NOT RESPONSIBLE for the search engines and websites uti
 
 Our goal is to present the user with a convenient, reliable and relevant search tool to find the best medical information possible. Best as defined by authority, relevance, date, non-commercial influence and variety. We are a information presentation service, NOT a user data and information collection website.   
 
-
-| 
-
-[**Download the OmniSearchBar:**](http://www.omnimedicalsearch.com/toolbar/install.html)  
-A Bottomside Toolbar compatible with all others.
-
-[Add the OMS   
-Search Engine  
-to Your Website](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/searchbox.html)
-
-Got a suggestion or comment for us?  
-[Let us know](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/contact.html)
-
-[OmniMedicalSearch in the News](https://web.archive.org/web/20101125225117id_/http%3A//omnimedicalsearch.com/press.html)
-
-|    
----|---|---
