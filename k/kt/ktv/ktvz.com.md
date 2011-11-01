@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2010-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100806123533id_/http%3A//www.ktvz.com/station/23268677/detail.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvz.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101145435id_/http%3A//www.ktvz.com/station/23268677/detail.html) for the most accurate reproduction.*
 
 # Privacy Policy - Station News Story - KTVZ Bend
 
