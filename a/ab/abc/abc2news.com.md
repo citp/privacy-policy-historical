@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abc2news.com privacy policy that was archived on 2011-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110413113943id_/http%3A//www.abc2news.com/dpp/about_us/scripps.com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc2news.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001227id_/http%3A//www.abc2news.com/dpp/about_us/scripps.com-privacy-policy) for the most accurate reproduction.*
 
 # Scripps.com Privacy Policy
 
