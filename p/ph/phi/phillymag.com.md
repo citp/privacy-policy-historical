@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2010-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100829141658id_/http%3A//www.phillymag.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phillymag.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162340id_/http%3A//www.phillymag.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Philadelphia Magazine - phillymag.com
 
@@ -40,13 +40,13 @@ _Other Collected Information_
 
 In the normal course of visiting the Site, viewing our pages and downloading any information from the Site, our servers also collects information such as:
 
-•The domain name from which you access the Internet
+• The domain name from which you access the Internet
 
-•Client host names
+• Client host names
 
-•Your computer's Internet Protocol (IP) address
+• Your computer's Internet Protocol (IP) address
 
-•The name and version of your computer's operating system and browser
+• The name and version of your computer's operating system and browser
 
 _Use of Collected Information_
 
@@ -84,9 +84,9 @@ _Philadelphia_ does not control or endorse Third Party Sites.
 
 _Third Party Advertisements_
 
-Third party advertisements that appear on _Philadelphia_ are sometimes delivered (or "served") directly to users by third party advertisers. The advertisers may automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content. Cookies will allow the advertiser to recognize your computer each time they send you an advertisement. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. _Philadelphia_ does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on the Site unless you choose to share it with them.
+Third-party advertisements that appear on _Philadelphia_ are sometimes delivered (or "served") directly to users by third party advertisers. The advertisers may automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies to measure the effectiveness of their ads and to personalize advertising content. Cookies will allow the advertiser to recognize your computer each time they send you an advertisement. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. _Philadelphia_ does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on the Site unless you choose to share it with them.
 
-This privacy policy does not cover the use of cookies or other tracking technologies by any of its advertisers.
+This privacy policy does not cover the use of cookies or other tracking technologies by any of its advertisers. Some third-party ads on our sites will enable geographic, behavioral, and contextual targeting. To opt out of such DoubleClick targeting, click **[this link](http://www.networkadvertising.org/managing/opt_out.asp)** to visit the Network Advertising Initiative opt-out page.
 
 Again, if you would like to avoid cookies, your web browser may have an option that enables you to disable or not accept cookies. It should be noted, however, that should you disable or not accept cookies, portions of the Site may not properly function.
 
