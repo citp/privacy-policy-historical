@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beirut.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424122903id_/http%3A//www.beirut.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beirut.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120249id_/http%3A//www.beirut.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: Beirut.com :: Beirut City Guide
-
-[](https://web.archive.org/)
 
 When you use Beirut.com, we may do the following: 
 
@@ -18,7 +16,11 @@ When you use Beirut.com, we may do the following:
 
 6\. Make it easy for you to unsubscribe from any Beirut.com-owned mailing list by following directions at the bottom of any e-mail that you receive from us unless it is vital to the operation of your account). 
 
-When you use Beirut.com, we _will not_ do the following:
+When you use Beirut.com, we 
+
+_will not_
+
+do the following:
 
 1\. Send you unsolicited commercial e-mail (SPAM). 
 
@@ -37,6 +39,10 @@ b. Give anyone access to your e-mail.
 
 A general note about Facebook Connect:
 
-When you login to Beirut.com using Facebook Connect, we retrieve your Facebook user ID. With this user ID, we can retrieve your current profile picture and your display name. We will also link to your Facebook profile from Beirut.com. Your Facebook profile page may or may not be visible depending on how you have your Facebook privacy settings setup. _We do not store personal details_ about your profile and/or your friends network such as passwords, email addresses, locations, etc.
+When you login to Beirut.com using Facebook Connect, we retrieve your Facebook user ID. With this user ID, we can retrieve your current profile picture and your display name. We will also link to your Facebook profile from Beirut.com. Your Facebook profile page may or may not be visible depending on how you have your Facebook privacy settings setup. 
+
+_We do not store personal details_
+
+about your profile and/or your friends network such as passwords, email addresses, locations, etc.
 
 For any questions or comments concerning Beirut.com's privacy policy, please write to support at beirut.com.
