@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaunthesheep.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606092200id_/http%3A//www.shaunthesheep.com/community/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaunthesheep.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160217id_/http%3A//www.shaunthesheep.com/community/privacy) for the most accurate reproduction.*
 
 # Shaun the Sheep - Aardman Digital Legal & Privacy Statement
 
