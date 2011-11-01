@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401162439id_/http%3A//pixton.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixton.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004916id_/http%3A//www.pixton.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pixton™ - Create web comics online
+# Privacy Policy | Pixton for Fun
 
 ## Privacy Policy
 
-Last updated on January 1, 2010.
+Last updated on April 25, 2011.
 
 ### Our Commitment to Privacy
 
@@ -27,15 +27,35 @@ We have designated a Privacy Officer who is responsible for our compliance with 
 
 ### What Do We Collect?
 
-We collect the following types of personal information: 
+We collect the following types of personal information from all Pixton members:
 
-  * the screen name, email address, password, birth date, country and gender of all Pixton members;
-  * the first name, last name, phone number, company name, address, city, province/state, postal/zip code of all Pixton for Business members and their representatives;
-  * the institution name, address, city, province/state, postal/zip code, phone number, first name, last name and title of all Pixton for Schools members and their representatives;
-  * the Facebook user ID and primary network ID of all members who use Facebook Connect or the Facebook Application;
-  * the IP address, browser & operating system descriptor and URL of referring web page of all Pixton members and non-members;
-  * the approximate coordinates of users' locations, if users indicate that location using the Google interactive map feature on our website; and
-  * information provided to us such as the occupation, likes, dislikes, biographies, responses to interview questions, friends' email addresses, and other information of Pixton members and Pixton for Schools members and their representatives.
+  * screen name and password; and
+  * IP address, browser and operating system descriptor.
+
+
+
+Additionally, we collect the following types of personal information, by product:
+
+#### PIXTON FOR FUN
+
+  * Facebook User ID, OR: screen name, email address, password, birth date, country, and gender;
+  * email address and phone number of parent, if applicable;
+  * approximate location, as optionally indicated by the user using the Google interactive map feature on our website; and
+  * optional information provided to us such as: occupation, likes, dislikes, biographies, responses to interview questions, friends' email addresses.
+
+
+
+#### PIXTON FOR SCHOOLS
+
+  * email address (required for Teachers, optional for Students);
+  * name (does not have to be real name); and
+  * institution name, address, city, province/state, country, postal/zip code, phone number, first name, last name, title (main Teacher or Administrator only).
+
+
+
+#### PIXTON FOR BUSINESS
+
+  * Facebook user ID, OR: email address, first name, last name, job title, company name, website, phone number, city, province/state, country, postal/zip code.
 
 
 
@@ -48,7 +68,7 @@ We collect information from you in a variety of ways, including the following:
   * comments you provide to us;
   * comics you create;
   * private messages you send and receive;
-  * profile fields (freeform text fields);
+  * profile fields (freestyle text fields);
   * third-party services such as Google API (which includes Google Translate and Google Maps);
   * send-to-a-friend and invite-your-friends forms you fill out;
   * the Google Interactive map (if you indicate your approximate location on it); and
