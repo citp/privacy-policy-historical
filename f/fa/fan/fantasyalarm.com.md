@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425124938id_/http%3A//www.fantasyalarm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyalarm.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101210054id_/http%3A//www.fantasyalarm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Fantasy Alarm
 
