@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2009-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090823111637id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullz-eye.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235900id_/http%3A//www.bullz-eye.com/privacy/default.htm) for the most accurate reproduction.*
 
-# Comic books for sale, rare comic books, free comic books, buy comic books online
+# Bullz-Eye.com Privacy Policy
 
 [Bullz-Eye Home](http://www.bullz-eye.com/)
 
@@ -8,7 +8,7 @@ We at Bullz-Eye.com take your right to privacy seriously. The following disclose
 
 Bullz-Eye only collects personal information from a user when the user chooses to give it to us by registering with the site, entering a Bullz-Eye contest or registering for free email on Bullz-Eye. Bullz-Eye will use email addresses to inform registered users of new content, contests, news and other information selected by our editors, unless the user specifically requests to not receive these messages. Bullz-Eye will also use email addresses from time to time to deliver email messages from our partners, advertisers and sponsors. In such event the email will disclose that the recipient is receiving the email from Bullz-Eye because the recipient is a registered user.
 
-Users may opt-out of receiving future mailings by [ contacting us](https://web.archive.org/web/20090823111637id_/http%3A//www.bullz-eye.com/feedback.htm).
+Users may opt-out of receiving future mailings by [ contacting us](https://web.archive.org/web/20111101235900id_/http%3A//www.bullz-eye.com/feedback.htm).
 
 Bullz-Eye will not sell or disclose to any third party your name, address, email address or other personal information that specifically identifies you, unless you specifically provide your informed consent, except to the extent necessary to comply with applicable laws or a court order. Bullz-Eye will allow access to database information to third parties providing technical services, but only to the extent necessary to provide those services.
 
@@ -21,7 +21,9 @@ Bullz-Eye does not maintain any responsibility for information given to one of o
 #####   
 Third Party Advertising
 
-We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.maxonline.com/privacy_policy/index.php).
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 #####   
 Third Party Cookies
