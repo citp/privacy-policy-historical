@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602170242id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclefish.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234122id_/http%3A//www.cyclefish.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CycleFish
 
@@ -36,12 +36,6 @@ By phone:
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
 
-|  | 
-
-[](http://www.cyclefish.com/business_paid_ads.php)  
-  
-[](http://www.cookscorners.com/)  
-  
-  
+|  |   
   
 Copyright © 2009 CycleFish.com       |       The CycleFish website is proudly hosted at: [**HostGator.com**](http://www.anrdoezrs.net/click-3550386-10409151 "Outstand Hosting Service with Affordable Plans for Any Website")
