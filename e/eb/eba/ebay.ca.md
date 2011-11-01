@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615124727id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html%3Frt%3Dnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebay.ca privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000728id_/http%3A//pages.ebay.ca/help/policies/privacy-policy.html%3Frt%3Dnc) for the most accurate reproduction.*
 
 # eBay Privacy Policy
 
