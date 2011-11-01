@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customerparadigm.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511143323id_/http%3A//www.customerparadigm.com/index/46/Privacy%2520Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customerparadigm.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101214404id_/http%3A//www.customerparadigm.com/index/46/Privacy%2520Policy.php) for the most accurate reproduction.*
 
 # Customer Paradigm - Privacy Policy
 
