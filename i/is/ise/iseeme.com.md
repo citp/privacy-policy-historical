@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608054114id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseeme.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105752id_/http%3A//www.iseeme.com/privacypolicy.html) for the most accurate reproduction.*
 
-# I See Me! Personalized Children's Gifts
+# Privacy Policy
 
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
 
