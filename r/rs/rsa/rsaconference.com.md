@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204020322id_/http%3A//www.rsaconference.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsaconference.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155135id_/http%3A//www.rsaconference.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# RSA Conference
+# Privacy Policy | RSA Conference
 
 **The views expressed by any Conference attendee, speaker, exhibitor or sponsor are not necessarily those of RSA. All conference attendees, speakers, exhibitors and sponsors are solely responsible for the content of any and all individual or corporation presentations, marketing collateral, advertising and online Web content.**
 
@@ -20,7 +20,7 @@ We collect the information you give us when you use our Web Site. You may use th
 
 We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we will use third party software to fix them.
 
-Unless you “opt-in” or otherwise give us express permission to do so, your personal contact information will not be provided to other, non-RSA third parties.
+Unless you "opt-in" or otherwise give us express permission to do so, your personal contact information will not be provided to other, non-RSA third parties.
 
 **RSA Conference Email Marketing Communication Policy**
 
@@ -28,34 +28,28 @@ This policy reflects the United States Direct Marketing Association's "Commercia
 
 RSA sends promotional email messages only under the following circumstances:
 
-> 1\. They are sent to our own customers, or
-> 
-> 2\. Individuals have given their affirmative consent to RSA to receive solicitations online, or
-> 
-> 3\. Individuals did not opt out after RSA has given notice of the opportunity to opt out from solicitations online, or
-> 
-> 4\. Individuals have attended or registered to attend any RSA Conference,
-> 
-> 5\. Individuals who have “joined” the RSACONFERENCE.com community, or
-> 
-> 6\. RSA has received assurance from a third party list provider that the individualswhose e-mail addresses appear on that list:
-> 
->   * Have already provided affirmative consent to receive solicitations online, or
->   * Have already received notice of the opportunity to have their e-mail addresses removed and have not opted out.
-> 
+  1. They are sent to our own customers, or
+  2. Individuals have given their affirmative consent to RSA to receive solicitations online, or
+  3. Individuals did not opt out after RSA has given notice of the opportunity to opt out from solicitations online, or
+  4. Individuals have attended or registered to attend any RSA Conference,
+  5. Individuals who have "joined" the RSACONFERENCE.com community, or
+  6. RSA has received assurance from a third party list provider that the individuals whose e-mail addresses appear on that list: 
+    * Have already provided affirmative consent to receive solicitations online, or
+    * Have already received notice of the opportunity to have their e-mail addresses removed and have not opted out.
+
 
 
 In each solicitation sent online, RSA furnishes individuals with a link or notice they can use to request that the RSA not send them future solicitations online. These requests will be honored in a timely manner.
 
-RSA will pass on your contact information to other companies or individuals if you specifically ‘opt-in” to being contacted. Once you have opted in to have your contact information passed to another company or inidivual, your contact details will become subject to their privacy policies and terms of conditions. Otherwise, RSA never rents or sells email addresses to any other company or individual.
+RSA will pass on your contact information to other companies or individuals if you specifically 'opt-in' to being contacted. Once you have opted in to have your contact information passed to another company or individual, your contact details will become subject to their privacy policies and terms of conditions. Otherwise, RSA never rents or sells email addresses to any other company or individual.
 
 RSA always discloses its identity in mass email communication, and provides specific company contact information.
 
-**RSA Conference Email Marketing Communication Policy**
+**RSA Conference Postal Marketing Communication Policy**
 
 From time to time, RSA allows vendors of information security and related products to rent the physical mailing list from the RSA Conference. You may become part of a vendor's database (and subject to its privacy policies) if you respond to its mailing. Often, the vendors are companies who exhibit on the show floor. If your registration badge is read at their booth during the Conference, you may also become part of their database.
 
-If you do not want to receive these mailings, please opt out when you register for the Conference. Or [email your opt-out request](mailto:mveit@rsasecurity.com) and ask that your name be removed from the mailing list. Alternatively, you can fill out the [opt out request form](https://info.rsasecurity.com/common/rsac_opt_out.html "opt out request form").
+If you do not want to receive these mailings, please opt out when you register for the Conference. Or [email your opt-out request](mailto:webmaster@rsa.com) and ask that your name be removed from the mailing list. Alternatively, you can fill out the [opt-out request form](https://info.rsasecurity.com/common/rsac_opt_out.html "opt out request form").
 
 **Use of Personal Data**
 
@@ -151,4 +145,4 @@ If you have any questions about this Privacy Policy or concerns about the way we
 
 **For more information call 1-888-746-9734 or call +1-508-743-0157 from outside the US and Canada or email[webmaster@rsaconference.com](mailto:webmaster@rsaconference.com "webmaster@rsaconference.com").**
 
-_© Copyright 2009 RSA, the Security Division of EMC - all rights reserved. Reproduction of this Web Site, in whole or in part, in any form or medium without express written permission from RSA is prohibited._
+_© Copyright 2011 RSA, the Security Division of EMC - all rights reserved. Reproduction of this Web Site, in whole or in part, in any form or medium without express written permission from RSA is prohibited._
