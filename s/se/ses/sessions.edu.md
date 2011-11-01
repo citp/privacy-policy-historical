@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sessions.edu privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313085827id_/http%3A//www.sessions.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sessions.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101193431id_/http%3A//www.sessions.edu/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sessions College for Professional Design
 
