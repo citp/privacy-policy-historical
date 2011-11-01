@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619192338id_/http%3A//www.boxtops4education.com/common/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtops4education.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142903id_/http%3A//www.boxtops4education.com/common/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -85,4 +85,4 @@ You always have the right to review and update the information that you previous
 
 ### How to contact us
 
-If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/web/20110619192338id_/http%3A//www.boxtops4education.com/common/Contact.aspx). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
+If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/web/20111101142903id_/http%3A//www.boxtops4education.com/common/Contact.aspx). You may also reach us by telephone at 1-800-248-7310 weekdays from 7:30 a.m. – 5:30 p.m. Central Time.
