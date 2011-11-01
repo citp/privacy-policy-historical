@@ -1,63 +1,99 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223051115id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002901id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice : E Cig Liquid, E-Liquid, Electronic Cigarette USA
+# Privacy Notice : Quality brand e cigarette and e cig liquid from ecigexpress.com
 
-### Cookies
+**What information do we collect?**
 
-**ecigExpress** uses session cookies to make it easier for you to navigate our site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or fill out a form. 
 
-We use both session ID cookies and persistent cookies. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. Please refer to your web browsers help file for information regarding the removal of such files.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site may be limited. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. 
 
-Our site's registration form requires users to give us contact information (such as username and email address). We use customer contact information from the registration form to send the user special offers and updates from **ecigExpress**. The customer's contact information is also used to contact the person when necessary.
+**What do we use your information for?**
 
-### Choice/Opt-out
+Any of the information we collect from you may be used in one of the following ways: 
 
-We will not contact you unless necessary. If you subscribe to our newsletter you can opt out at any time by clicking on a simple link at the bottom of such emailings. 
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-## Information Collection & Use
+• To send periodic emails
 
-### Registration
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order or request.
 
-In order to use this Web site, you must first complete the registration form and create a user name and password. During registration you are required to give contact information including your name and email address. We use this information to contact you about the services on our site in which you have expressed interest.
+If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
-### Access to Personally Identifiable Information
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change in your profile, or by [contacting ](http://www.ecigexpress.com/index.php?main_page=contact_us)us.
+ **How do we protect your information?**
 
-### Surveys or Contests
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
-From time to time, we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary, and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address) and demographic information (such as zip code).
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
-We use this information to notify contest winner.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-## Uses of Information
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-### Email
+ **Do we use cookies?**
 
-**ecigExpress** members may receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by [contacting](http://www.ecigexpress.com/index.php?main_page=contact_us) us. 
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-### Non-personal information
+ **Do we disclose any information to outside parties?**
 
-Like many web sites, we collect and analyze standard log file information and Session ID information to analyze site traffic, improve site performance, and prevent fraud. Session IDs are bits of code on your computer that assist your browser in navigating our site. We do not associate personal information with log file information or cookies, except when needed to prevent fraud.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-### Legal Disclaimer
+ **California Online Privacy Protection Act Compliance**
 
-**ecigExpress** reserves the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our web site.
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-The **ecigExpress** web site(s) contains links to other sites. **ecigExpress** is not responsible for the privacy practices or the content of such web sites. Our site uses a secure online ordering system that enables clients to purchase products online. **ecigExpress** collects users financial information, such as account and credit card numbers, for verification purposes only. Financial information that is collected is used to bill the user for products and services, and never for any other reason.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their My Account panel and going to the 'Edit Profile' page.
 
-### Security
+ **Childrens Online Privacy Protection Act Compliance**
 
-The security of your personal information is important to us. When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
+This website and product are intended for adults over the age of 18.    
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 18 years old or older.  Children ARE NOT PERMITTED to use ecigexpress.com
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of online transmission or electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+ **CAN-SPAM Compliance**
 
-If you have any questions about security on our web site, you can email us at [contact us. ](http://www.ecigexpress.com/index.php?main_page=contact_us)
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
 
-### Changes in this Privacy Statement
+ **Terms and Conditions**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.ecigexpress.com/conditions.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+ **Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **6/15/2011**
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+ECX LLC  
+PO BOX 190  
+Custer, WA 98240  
+United States  
+888-418-2215
+
+ **Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+
+Respectfully, 
+
+ECX LLC   
+www.ecigexpress.com 
