@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dewalt.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213194833id_/http%3A//www.dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dewalt.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101112631id_/http%3A//www.dewalt.com/Privacy-Security.aspx) for the most accurate reproduction.*
 
 # DEWALT | Power Tools, Contractor Tools and Accessories
 
@@ -26,6 +26,7 @@ During your visit to our web-site, you are under no obligation to provide any pe
 ● | In an effort to continually improve our products and services, we will periodically contact our customers in order to conduct DEWALT market research and on-line surveys. This may involve contacting recent and/or past DEWALT web-site visitors who have provided personal information to DEWALT.  
 ● | DEWALT.com may run "opt-in" e-mail campaigns and newsletters. Information that you have provided in your registration and information given through participation in on-line promotions may be used by DEWALT.com to further customize the content of the e-mail promotions that you have "opt-ed in" to receive.  
 ● | Our web servers may automatically monitor the number of visitors, the average time spent on the site, the popularity of our web-sites, and any programming errors or failures on any of our web-sites in order to determine the effectiveness of the DEWALT web-sites.  
+● | We use ClickTale web analytics service to monitor our web-site functionality and identify system issues. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type while visiting the web-site. We do not use ClickTale to collect any of your personally identifiable information. Information that we collect through ClickTale is used by us to improve your experience while visiting our web-site and to improve the web-site functionality. You have the option to disable the ClickTale function via the following link: <http://www.clicktale.net/disable.html>. Additional information about ClickTale is available on the ClickTale website at [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx).   
 ● | Please note that DEWALT will fully cooperate with any court order or other legal process and will provide your personal information to the extent required in any legal proceeding.  
   
 #### **Does D EWALT share your information with other third parties?**
