@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the indialist.com privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803203343id_/http%3A//www.indialist.com/indian-classified/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indialist.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151303id_/http%3A//www.indialist.com/indian-classified/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy - IndiaList.com
-
-|   | 
-
-Indian Classifieds >> **Privacy Policy**
+# IndiaList - Privacy Policy
 
 IndiaList.com is committed to safeguarding your privacy online. The following policy acts as a guide enabling you to understand how your personal information will be treated when you make use of the site. This policy may change from time to time.
 
