@@ -1,50 +1,45 @@
-> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2011-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110226042759id_/http%3A//techblissonline.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techblissonline.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113404id_/http%3A//techblissonline.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# Privacy Policy Statement | Techblissonline
 
-This is the web site of **Techblissonline Dot Com**. 
+## Privacy Policy at Techblissonline
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us via the contact page. 
+Any personal information you provide to us like name, e-mail address, address and telephone number will not be released, sold or rented to any entities or individuals outside of Techblissonline.
 
-At **techblissonline dot com** , the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information received and collected by _techblissonline dot com.com_ and how it is used. 
+We have a strict no spam policy and do not send you any emails, unless you subscribe to receive email updates.
 
-We collect the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via contact page, the e-mail addresses of those who make postings to our chat areas (comment section), aggregate information on what pages consumers access or visit.
+## Credit card and Financial details
 
-The information we collect is used for internal review and is used to improve the content of our Web page, customize the content and/or layout of our page for each individual visitor.The information is subsequently discarded.
+Techblissonline will never ask for Credit Card details and request you **_NOT_** to share it through any of the forms on Techblissonline.
 
-**Log Files**  
-Like many other Web sites, _techblissonline dot com_ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user?s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+## External Sites
 
-**Cookies and Web Beacons**  
-techblissonline dot com does not use or set any cookies of its own. 
+Techblissonline is not responsible for the content of external sites linked from pages on this site. You are advised to read the privacy policy of such external sites before disclosing any personal information or entering into any transaction.
 
-**DoubleClick DART Cookie**
+## With respect to Cookies and Advertisers
 
-.:: Google, as a third party vendor, uses cookies to serve ads on **techblissonline dot com**.  
-.:: Google's use of the DART cookie enables it to serve ads to your users based on their visit to techblissonline dot com and other sites on the Internet.   
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+A "cookie" is a small data text file that is placed in your browser and allows Techblissonline to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and Techblissonline does not use cookies to collect personal information. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our current advertising partners include .......   
-Google Adsense   
-Infolinks - http://www.infolinks.com/  
+We allow **third-party advertising companies** (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
+Please note that these companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
-These third-party ad servers or ad networks use their own technology to serve advertisements that appear on techblissonline dot com.These ads are directly sent to your browsers using technologies like javascript. The advertising partners may automatically receive your IP address when they serve ads via Techblissonline Dot com. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks, to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+Here are some [third-party vendors](https://www.google.com/adsense/support/bin/answer.py?answer=94149) serving ads on this site and you may visit those vendor websites to opt out of cookies (if the vendor offers this capability).
 
-techblissonline dot com has no access to or control over these cookies that are used by third-party advertisers. 
+## Visitor Tracking
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. techblissonline dot com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+Techblissonline makes use of analytical software such as “Google Analytics” for statistical purposes.We at Techblissonline use this information for statistical purpose only and do not share it with any third party.
 
-Users can opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+Techblissonline also makes use of log files. The information inside the log files includes information such as internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time-stamp, referring/exit pages, and number of clicks. These information are collected administer the site and ensure security, to analyze trends, track user’s movement around the site and gather demographic information. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+## Policy on User Comments
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+Techblissonline allows users to comment on the site. However we hold all rights to accept or reject any comments based on our discretion. While commenting on Techblissonline, please refrain from using content that is not suitable for ALL types of audiences.
 
-Upon request, we offer visitors, the ability to have inaccuracies corrected, in contact information, communications that the consumer/visitor has directed to the site.
+## With respect to security
 
-Consumers can have any of their information corrected by messaging us via the contact page.
+We do our best to protect your personal information. However, we cannot guarantee the security of any information that you transmit on the internet and you are solely responsible for maintaining the secrecy of any passwords or other account information. In addition, external sites or services accessible through Techblissonline have their own privacy policy and Terms of use.You may have to use their products or services at your own discretion.You may do well to read their policies and Terms and We may not assume responsibility for any of your actions or dealing with such third party sites.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+Please contact them directly, if you have any questions on their privacy policies.
 
-If you feel that this site is not following its stated information policy, you may contact us.
+For any other information please [contact us](http://techblissonline.com/contact/)
