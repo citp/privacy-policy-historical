@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2010-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100423111828id_/http%3A//www.bathstore.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bathstore.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005730id_/http%3A//www.bathstore.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -50,7 +50,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 This process may include sending personal information outside of the European Economic Area and, if necessary, across international borders. The data protection laws in these countries may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area.
 
-If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by visiting the [unsubscribe](https://web.archive.org/_application/unsubscribe.php) page.
+If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by visiting the [unsubscribe](http://www.bathstore.com/_application/unsubscribe.php) page.
 
 ## COOKIES:
 
