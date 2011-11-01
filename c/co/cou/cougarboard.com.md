@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225040540id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cougarboard.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130249id_/http%3A//www.cougarboard.com/privacy.html) for the most accurate reproduction.*
 
 # Privay Policy
 
