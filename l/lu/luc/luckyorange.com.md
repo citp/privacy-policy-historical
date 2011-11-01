@@ -1,25 +1,12 @@
-> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625122458id_/http%3A//www.luckyorange.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luckyorange.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005706id_/http%3A//www.luckyorange.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Lucky Orange
 
-We collect information from you when you register on our site, place an order or subscribe to our newsletter. 
+**Opt - Out of All Lucky Orange Tracking**  
+If you would like to opt out of being tracked on all sites using Lucky Orange simply click the button here: 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or credit card information. You may, however, visit our site anonymously.
-
-**What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-• To personalize your experience  
-(your information helps us to better respond to your individual needs)
-
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
-
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-• To process transactions
+**Visitor Recording  
+**Our tool is designed to help website owners understand problem areas on their sites and fix them. One way that we accomplish this is through our visitor recording sessions where we can replay a browsing session. Sensitive information is not recorded and website owners using our tool can control which elements of a page are recorded.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
