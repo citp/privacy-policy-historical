@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hudhomestore.com privacy policy that was archived on 2011-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110429202128id_/http%3A//portal.hud.gov/portal/page/portal/HUD/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hudhomestore.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102000146id_/http%3A//portal.hud.gov/portal/page/portal/HUD/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -18,6 +18,16 @@
 <script type="text/javascript" src="documents/huddoc?id=jquery-1.4.4.js"></script>
 <script type="text/javascript" src="documents/huddoc?id=jquery-ui.1.8.7.custom.js"></script>
 <script type="text/javascript" src="documents/huddoc?id=exitpopupHU.js"></script>
+
+<script src="documents/huddoc?id=jquery.bgiframe.min.js" type="text/javascript"></script> 
+<script src="documents/huddoc?id=jquery.autocomplete.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+var usagov_sayt_url = "http://search.usa.gov/sayt?aid=1095&";;
+//]]>
+</script>
+<script src="documents/huddoc?id=sayt.js" type="text/javascript"></script>
+<link href="documents/huddoc?id=sayt.css" type="text/css" rel="stylesheet">
 
 <style type="text/css">
 .nav { background-image:url('images/hudimg?id=navbg.gif'); }
@@ -45,6 +55,10 @@
 .mod-stage996{ width:664px; height:270px; position:relative; background:#052653 url('images/hudimg?id=ss_bg_tra.jpg') no-repeat top left; }
 .featureboxwrapgrad{ background:#eeeeee url('images/hudimg?id=boxgradient.jpg') repeat-y; }
 .pomenuwrapper{ background: url('images/hudimg?id=pomenu_bg.jpg') repeat-x; }
+#hudhdrwrapper{	background-image: url('images/hudimg?id=HUD_2009_hdr_grad5.jpg'); background-repeat: no-repeat;}
+#fy2011hdrwrapper{ background-image: url('images/hudimg?id=HUD_fy2011budget_hdr.jpg'); background-repeat: no-repeat; }
+#fy2012hdrwrapper{ background-image: url('images/hudimg?id=HUD_fy2012budget_hdr.jpg'); background-repeat: no-repeat; }
+#recoveryhdrwrapper{background-image: url('images/hudimg?id=RECOVERY_2010_hdr_grad.jpg'); background-repeat: no-repeat; }
 </style>
 
 <script type="text/javascript">
@@ -134,7 +148,7 @@ function Clickheretoprint()
 
 
  
-<div style="width:996px; height:131px; position:relative; text-align:left; margin:0 auto; background-image: url(images/hudimg?id=HUD_2009_hdr_grad5.jpg); background-repeat: no-repeat;">
+<div id="hudhdrwrapper">
 
 <!-- HUD Logo -->
 <div style="position: absolute; top:30px; left:565px">
@@ -186,10 +200,10 @@ document.write(dayarray[day] + ', ' +montharray[month]+' '+daym+', '+year);
 
 <table border="0" cellpadding="1" cellspacing="1">
   <tbody><tr>
-    <td colspan="8" align="center"><span style="font-family:Arial; font-size:12px; font-weight: bold; color:#00257a;">Connect with HUD</span></td>
+    <td colspan="7" align="center"><span style="font-family:Arial; font-size:12px; font-weight: bold; color:#00257a;">Connect with HUD</span></td>
   </tr>
   <tr>
-    <td><a title="HUD Mobile" href="HUDMobile" target="_blank"><img src="images/hudimg?id=mobile-icon-v2.png" border="0" alt="HUD Mobile"></a></td>
+    <!--<td><a title="HUD Mobile" href="HUDMobile" target=_blank><img src="images/hudimg?id=mobile-icon-v2.png" border=0 alt="HUD Mobile" /></a></td>-->
     <td><a title="HUD Podcasts" href="HUD/press/multimedia/audio_podcasts" target="_blank"><img src="images/hudimg?id=podcast-icon-v2.png" border="0" alt="HUD Podcasts"></a></td>
     <td><a title="HUD Wiki" href="http://portal.hud.gov/jamwiki/en/StartingPoints" target="_blank" class="external"><img src="images/hudimg?id=thumbwiki.png" border="0" alt="HUD Wiki"></a></td>
     <td><a title="HUD RSS" href="http://www.hud.gov/rss/index.cfm" target="_blank"><img src="images/hudimg?id=thumbrss.png" border="0"></a></td>
@@ -248,9 +262,16 @@ Text&nbsp;&nbsp; </span>
 <tbody><tr>
 <td valign="middle">
 
-<form name="gs" method="GET" action="http://search.hud.gov/search">
-<input type="text" name="q" size="25" maxlength="256" value=""> <input type="submit" name="btnG" value="Search"> <input type="hidden" name="sort" value="date:D:L:d1"> <input type="hidden" name="output" value="xml_no_dtd"> <input type="hidden" name="ie" value="UTF-8"> <input type="hidden" name="oe" value="UTF-8"> <input type="hidden" name="client" value="hud2009_frontend"> <input type="hidden" name="proxystylesheet" value="hud2009_frontend"> <input type="hidden" name="site" value="default_collection">
- </form>
+<!-- <form name="gs" method="GET" action="http://search.hud.gov/search">
+<input type="text" name="q" size="25" maxlength="256" value="" /> <input type="submit" name="btnG" value="Search" /> <input type="hidden" name="sort" value="date:D:L:d1" /> <input type="hidden" name="output" value="xml_no_dtd" /> <input type="hidden" name="ie" value="UTF-8" /> <input type="hidden" name="oe" value="UTF-8" /> <input type="hidden" name="client" value="hud2009_frontend" /> <input type="hidden" name="proxystylesheet" value="hud2009_frontend" /> <input type="hidden" name="site" value="default_collection" />
+ </form> -->
+ 
+ <form method="get" action="http://search.usa.gov/search">  
+	<input type="hidden" name="affiliate" value="housingandurbandevelopment">  
+		<label for="query-field"></label>  
+	<input size="25" maxlength="256" type="text" name="query" id="query-field" autocomplete="off" class="usagov-search-autocomplete ui-autocomplete-input ui-corner-all ac_input">  
+	<input type="submit" value="Search">
+</form>
 
 </td>
 </tr>
@@ -460,8 +481,8 @@ Text&nbsp;&nbsp; </span>
 <td style="width: 24em"><a href="HUD/topics/selling_a_home">Selling a Home</a></td>
 </tr>
 <tr>
-<td style="width: 29em"><a href="HUD/topics/homelessness">Homelessness</a></td>
-<td style="width: 24em"><a href="HUD/topics/veteran_information">Veteran Information</a></td>
+<td style="width: 29em"><a href="HUD/program_offices/comm_planning/homeless">Homelessness</a></td>
+<td style="width: 24em"><a href="HUD/program_offices/comm_planning/veteran_information">Veteran Information</a></td>
 </tr>
 <tr>
 <td style="width: 29em"><a href="HUD/topics/homes_for_sale">Homes for Sale</a></td>
@@ -922,7 +943,7 @@ If you have any questions or concerns, please <a href="http://portal.hud.gov/hud
 
 <tr> 
 
-<td><span class="byline"><a href="HUD/federal_housing_administration">Insuring More Than 37 Million Mortgages Since 1934</a></span></td>
+<td><span class="byline"><a href="HUD/federal_housing_administration">Insuring More Than 40 Million Mortgages Since 1934</a></span></td>
 
 <td><a href="HUD/federal_housing_administration"><img alt="[Logo: Recovery.gov]" src="images/hudimg?id=fhalogo2.jpg" align="right" border="0"></a></td>
 
@@ -994,10 +1015,10 @@ If you have any questions or concerns, please <a href="http://portal.hud.gov/hud
 <tbody>
 <tr>
 <td valign="center" align="left"><span style="FONT-WEIGHT: bold; FONT-SIZE: 1.2em; COLOR: #7299c4; FONT-FAMILY: Georgia"><a href="HUD/program_offices/fair_housing_equal_opp">Equal Housing Opportunities<br>for All</a></span> </td>
-<td valign="center" align="right"><a href="/HUD/program_offices/fair_housing_equal_opp"><img alt="[Logo: Fair Housing Equal Opportunity]" src="images/hudimg?id=fheo100.gif" align="right" border="0"> </a></td></tr></tbody></table>
+<td valign="center" align="right"><a href="HUD/program_offices/fair_housing_equal_opp"><img alt="[Logo: Fair Housing Equal Opportunity]" src="images/hudimg?id=fheo100.gif" align="right" border="0"> </a></td></tr></tbody></table>
 <div style="PADDING-BOTTOM: 2px; WIDTH: 292px; PADDING-TOP: 10px">
 <center>
-<div align="center"><a href="/HUD/program_offices/fair_housing_equal_opp"><img src="images/hudimg?id=btn_learn_more.jpg" border="0" alt="Learn more about Fair Housing and Equal Opportunity" title="Learn more about Fair Housing and Equal Opportunity"></a> 
+<div align="center"><a href="HUD/program_offices/fair_housing_equal_opp"><img src="images/hudimg?id=btn_learn_more.jpg" border="0" alt="Learn more about Fair Housing and Equal Opportunity" title="Learn more about Fair Housing and Equal Opportunity"></a> 
 </div>
 </center><br>
 </div></div></div>
@@ -1013,7 +1034,7 @@ If you have any questions or concerns, please <a href="http://portal.hud.gov/hud
 <tr>
 <td valign="center" align="center"><span style="FONT-WEIGHT: bold; FONT-SIZE: 1.2em; COLOR: #7299c4; FONT-FAMILY: Georgia"><a href="HUD/program_offices/public_indian_housing">Ensuring safe, decent, <br>and affordable housing</a></span> </td></tr></tbody></table>
 <div style="PADDING-BOTTOM: 2px; WIDTH: 292px; PADDING-TOP: 10px">
-<center><a href="/HUD/program_offices/public_indian_housing"><img src="images/hudimg?id=btn_learn_more.jpg" border="0" alt="Learn more about Public and Indian Housing" title="Learn more about Public and Indian Housing"></a> 
+<center><a href="HUD/program_offices/public_indian_housing"><img src="images/hudimg?id=btn_learn_more.jpg" border="0" alt="Learn more about Public and Indian Housing" title="Learn more about Public and Indian Housing"></a> 
 </center><br></div></div></div>
 
 
@@ -1194,5 +1215,6 @@ Telephone: (202) 708-1112 &nbsp;&nbsp;&nbsp;&nbsp;TTY: (202) 708-1455<br>
 
 
 
-<!-- 63 millis -->
+<!-- Presentation Layer Ver 1.01 -->
+<!-- 41 millis -->
 </body></html>
