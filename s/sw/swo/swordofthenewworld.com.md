@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420084800id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordofthenewworld.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230421id_/http%3A//www.gamersfirst.com/%3Fq%3Dprivacy) for the most accurate reproduction.*
 
 # GamersFirst – Free To Play Multiplayer Online Games, Free MMO, Fantasy MMO, Online FPS, Free Multiplayer Car Racing, Adventure, Shooting & Strategy Games Online
 
   
 **K2 Network Online Privacy Policy**
 
-Last updated April 15, 2010 
+Last updated January 11, 2011 
 
 Welcome to K2 Network!
 
 **Our Privacy Commitment**
 
-K2 Network, and its subsidiaries and affiliates (collectively, “K2 Network”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us. | 
+[](https://www.esrb.org/confirm/K2-confirmation.jsp)K2 Network, and its subsidiaries and affiliates (collectively, “K2 Network”) respect the privacy rights of our online visitors and recognize the importance of protecting all information that you may choose to share with us.  To further this commitment, we adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us.
 
-**[](https://www.esrb.org/confirm/K2-confirmation.jsp)**  
-  
----|---  
-  
 **ESRB’s Privacy Program**
 
 This certification seal shown on this page confirms that K2 Network is a member in good standing of [ESRB’s Privacy Online Program](http://www.esrb.org/privacy/index.jsp).  ESRB’s Privacy Online Program is designed to ensure that our website’s information disclosure practices are responsible and appropriate.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, ESRB independently audits our websites, and administers other enforcement and accountability mechanisms. 
@@ -179,7 +175,7 @@ back to top
 
 You may update or delete your personal information or modify your account preferences by accessing the “My Account” area of our website.  If you wish to delete your e-mail address from our system, your account will also need to be deleted.  You may also contact us directly with questions about your account at [privacy@k2network.net](mailto:privacy@k2network.net).
 
-**For our Merchant Center and Affiliate Center, we may also have additional confirmatory requirements for changing your information.   More information regarding these two parts of our business can be found in the **[Merchant Center Terms of Service ](https://merchants.gamersfirst.com/tos.php) **and the K2 Network Affiliate Terms and Conditions.**
+**For our Merchant Center and Affiliate Center, we may also have additional confirmatory requirements for changing your information.   More information regarding these two parts of our business can be found in the **[Merchant Center Terms of Service ](https://merchants.gamersfirst.com/Legal/Terms) **and the K2 Network Affiliate Terms and Conditions.**
 
 back to top
 
@@ -214,9 +210,9 @@ We may amend this Privacy Policy at any time.  If we make any material changes 
 
 back to top
 
-**K2** **Network’s Kids Privacy Policy** ****
+**K2 Network’s Kids Privacy Policy**
 
-Last updated April 15, 2010
+Last updated January 15, 2010
 
 K2 Network has developed its websites with the goal of creating an enjoyable experience for all users.  This Kids Privacy Policy is designed to answer your questions regarding our privacy policies concerning children under the age of 13.
 
@@ -273,12 +269,6 @@ We do not share any information about a child with any third parties unless the 
 3.  | in connection with the purchase or sale of assets, a merger, reorganization, bankruptcy, or similar corporate transaction; or  
 4.  | protect the safety and security of our Guests and our Web sites.  
   
-back to top
-
-**How do we notify and obtain consent from parents for the collection of personal information from their kids?**
-
-When a child under 13 attempts to register at our website, the child can download and print a parental consent form.  Then, you, as the parent, can fill out and sign the parental consent form and mail or fax it back to us.  If the parent ignores or refuses to register the child, we will delete all contact information from our database.  If the parent permits the registration, the child will be granted access to the features described in the notification message. 
-
 back to top
 
 **How can parents access, change or delete personally identifiable information about their kids?**
