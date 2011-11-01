@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the adioso.com privacy policy that was archived on 2010-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101204225235id_/http%3A//adioso.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adioso.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102005918id_/http%3A//adioso.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
     <meta http-equiv="Content-Language" content="en">
     
@@ -11,99 +11,64 @@
     <link rel="icon" type="image/x-icon" href="/media/i/favicon.ico">
     <link rel="home" href="/">
     
-    
-    <link rel="stylesheet" type="text/css" href="/media/styles/global.css?rid=7994" media="all">
-    
-<link rel="stylesheet" type="text/css" href="/media/styles/itinerary.css?rid=7994" media="all">
-<link rel="stylesheet" type="text/css" href="/media/styles/flatpage.css?rid=7994" media="all">
 
-    <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/media/styles/ie.css?rid=7994" media="all" /><![endif]-->
-    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/media/styles/ie6.css?rid=7994" media="all" /><![endif]-->
-
-        <script type="text/javascript" async="" src="http://track.adioso.net/static/js/sartre_tracker.js?rid=7994"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/js/jquery-1.4.2.js"></script>
-    <script type="text/javascript" src="/media/js/popupblock.js?rid=7994"></script>
-
-    <script type="text/javascript" src="/media/js/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/media/js/helpBubble.js?rid=7994"></script>
-    <script type="text/javascript" src="/media/js/utilities.js?rid=7994"></script>
-    <script type="text/javascript" src="/media/js/hoverable.js?rid=7994"></script>
-    <script type="text/javascript" src="/media/js/analytics.js?rid=7994"></script>
-    <script type="text/javascript" src="/media/js/jTweener-0.2.js?rid=7994"></script>
-    <!--[if lte IE 6]><script type="text/javascript" src="/media/js/iePngFix.js"></script><![endif]-->
-    <!--[if lte IE 7]>
-    <![endif]-->
     
+    <meta property="og:title" content="">
+    <meta property="og:type" content="activity">
+    <meta property="og:url" content="http://adioso.com/privacy">
+    <meta property="og:site_name" content="Adioso">
+    <meta property="fb:admins" content="594131406,667456646,1195510336,682282196,645205943">
+    <meta property="fb:app_id" content="49866573142">
+    <meta property="og:image" content="">
     
-    <!--
-<script type="text/javascript" src="/media/js/firebug-lite.js"></script>
-    -->
+    <meta property="og:description" content="Amazing travel search for spontaneous and adventurous travellers. Search for flights and
+          destinations with complete flexibility. The world's first natural-language travel search engine.">
+    
 
+    
+
+    <!--[if lte IE 7]><link rel="stylesheet" type="text/css" href="/media/styles/ie.css?rid=26292" media="all" /><![endif]-->
+    <!--[if lte IE 6]><link rel="stylesheet" type="text/css" href="/media/styles/ie6.css?rid=26292" media="all" /><![endif]-->
+
+    <link rel="stylesheet" href="/media/CACHE/css/a2f551673917.css" type="text/css" media="all">
+
+    
+    <style type="text/css" media="screen">
+        iframe { vertical-align: top; }
+    </style>
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/media/CACHE/js/6b79e5187dc6.js"></script>
+    
     <script type="text/javascript">
-        $(function(){
-            Adioso._user_currency = 'USD';
-            
-            new PopupBlock({
-                link: $(".options .location .link"),
-                container: $(".options .location .list")
-            });
-            new PopupBlock({
-                link: $(".options .currency .link"),
-                container: $(".options .currency .list")
-            });
-            new PopupBlock({
-                link: $(".options .lang .link"),
-                container: $(".options .lang .list")
-            });
-            var helpBubble = new PopupBlock({
-                    link: $("#search_form .help .tumbler"),
-                    container: $("#layout .bubble"),
-                    close: $("#layout .bubble .closer"),
-                    special: true
-            });
-
-
-            Adioso.makeHoverable($(".options .list li"));
-            
-            Adioso.makePlaceHolder("#search_form input.text_area");
-            
-            window.adioso_current_query = "";
-
-            Adioso.makePlaceHolder(".options .location input#search");
-
-            Adioso.initBubble(helpBubble);
-
-            if($.cookie("helpBubbleShown")) {
-                if($.cookie("helpBubbleShown") < 3){
-                    helpBubble.show();
-                    $.cookie("helpBubbleShown", ($.cookie("helpBubbleShown"))+1, {path: '/',expires: 30});
-                }
-            }else{
-                    helpBubble.show();
-                    $.cookie("helpBubbleShown", 0, {path: '/',expires: 30});
-            }
-
-            Adioso.optionsSelect($(".options .currency .list"),$(".options .lang .list"));
-            Adioso.setOptions("lang", $.cookie("userLanguage") || "ENG");
-            Adioso.setOptions("currency", $.cookie("userCurrency") || "USD");
-
-            Adioso.locationSelect($(".options .location .list"));
-            Adioso.liveSearch($(".options .location .container"));
-            
-            
-
-            
-
-            
-        });
+    $(document).ready(function() {
+      
+      Adioso.makeHoverable($(".options .list li"));
+      
+      Adioso.makePlaceHolder("#search_form input.text_area");
+      Adioso.makePlaceHolder("#origin");
+      Adioso.makePlaceHolder("#destination");
+      Adioso.makePlaceHolder("#when");
+      
+      window.adioso_current_query = "";
+      
+    });
     </script>
 
-
     
-        <script type="text/javascript">
+        
+    <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
+    <script type="text/javascript">
+      try {
+        reinvigorate.track("j3088-6q787067c0");
+      } catch(err) {}
+    </script>
+    
+    <script type="text/javascript">
     
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-17854055-1']);
       _gaq.push(['_setDomainName', '.adioso.com']);
+      
       _gaq.push(['_trackPageview']);
     
       (function() {
@@ -113,21 +78,36 @@
       })();
     
     
-      var _saq = [];
-      _saq.push(["init", "d83mv82b", "US", "Oakland", "track.adioso.net"]);
-      _saq.push(["track", "pageview"]);
-      (function() {
-      var sa = document.createElement("script"); sa.type = "text/javascript"; sa.async = true;
-      sa.src = "http://track.adioso.net/static/js/sartre_tracker.js?rid=7994";
-      var scr = document.getElementsByTagName("script")[0]; scr.parentNode.insertBefore(sa, scr);
-      })();
+      var _saq = [];    
     
     </script>
+    
+
 
 </head>
 <body id="flatpage">
-
   
+  
+  
+  <div id="fb-root"><script src="https://connect.facebook.net/en_US/all.js" async=""></script></div>
+  <script>  
+    window.fbAsyncInit = function() {
+      FB.init({
+        appId     : '49866573142',
+        status    : false, // don't check login status
+        cookie    : true,  // enable cookies to allow the server to access the session
+        xfbml     : true,  // parse XFBML
+       channelUrl : 'http://adioso.com/media/facebook-channel.html' // custom channel
+      });   
+    }; 
+    
+    (function() {
+      var e = document.createElement('script');
+      e.src = document.location.protocol + '//connect.facebook.net/en_US/all.js';
+      e.async = true;
+      document.getElementById('fb-root').appendChild(e);
+    }());
+  </script>
 
   <div class="body_bg">
     <div id="layout">
@@ -140,19 +120,16 @@
             <div class="main">
                 <div id="nav">
                 <ul class="menu">
-                    <li><a href="/help">Help</a></li>
-                    <li><a href="/about">About</a></li>
-                    <!--
-                    <li><a href="#">Price Feed</a></li>
-                    <li><a href="#">Destinations</a></li>
-                     -->
+                    
+                      <li><a href="/subscribe">Find out when prices drop from Seattle</a></li>
+                    
                     <li><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a></li>
                 </ul>
                 </div>
 
                 <div class="options">
     <ul class="socket">
-       <li class="location"><span class="link pseudo_link"><i></i><var><span>Oakland</span><ins></ins></var></span>
+       <li class="location"><span class="link pseudo_link"><i></i><var><span>Seattle</span><ins></ins></var></span>
            <div class="list hidden">
                <div class="d_wrap">
                <div class="container">
@@ -184,6 +161,10 @@
                    <li data-id="EUR"><span class="opt">EUR</span></li>
                
                    <li data-id="GBP"><span class="opt">GBP</span></li>
+               
+                   <li data-id="INR"><span class="opt">INR</span></li>
+               
+                   <li data-id="IDR"><span class="opt">IDR</span></li>
                
                    <li data-id="JPY"><span class="opt">JPY</span></li>
                
@@ -230,8 +211,6 @@
 
 
             </div>
-
-            
         </div>
 
         <div class="clear"></div>
@@ -294,9 +273,7 @@
 <p>&nbsp;</p>
 </div>
 <div id="content">
-    
-<script type="text/javascript" src="/media//js/jquery.form.js"></script>
-<script type="text/javascript">
+    <script type="text/javascript">
     $(document).ready(function() {
         var ajax_options = {
             dataType: "json",
@@ -309,6 +286,7 @@
             },
             success: function() {
                 $("#feedback div.loader").addClass("hidden");
+                $("#feedback").html("<br/><h2>Thank you! We'll get in touch as soon as possible.</h2>");
             }
         };
 
@@ -323,11 +301,11 @@
 <div id="feedback" class="feedback">
     <h2>Feedback</h2>
     <form id="feedback_form" method="post" action="/api/send_feedback">
-        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="a86638a313df1ce06e614bd6f39d8a1b"></div>
+        <div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="35e210aed4b000d26c00cb3d4d9fd71d"></div>
         <textarea name="message"></textarea>
         <label for="mail" class="fL">Email (optional)</label>
         <input id="mail" class="fL" type="text" name="email_from">
-        <input type="submit" value="Send" class="fL button send clickable">
+        <input type="submit" value="Send" class="fL chrome-button send clickable">
     </form>
     <div class="loader hidden">
         <div class="wheel"></div>
@@ -342,6 +320,7 @@
     </div>
 
     
+    </div>
 
     
     <div id="footer">
@@ -349,12 +328,14 @@
     <div class="container">
         <div>
             <div class="item home"><a href="/">Home</a></div>
+            <div class="item"><a href="/subscribe">Subscribe</a></div>
             <div class="item"><a href="http://blog.adioso.com">Blog</a></div>
             <div class="item"><a href="/about">About</a></div>
             <div class="item"><a href="/help">Help</a></div>
             <div class="item"><a href="/feedback">Contact Us</a></div>
+            <div class="item"><a href="/jobs">Work</a></div>
 
-            <div class="item facebook"><a href="http://www.facebook.com/pages/Adioso/39758527634"><i>Facebook</i></a></div>
+            <div class="item facebook"><a href="http://www.facebook.com/adioso"><i>Facebook</i></a></div>
             <div class="item twitter"><a href="http://twitter.com/adioso"><i>Twitter</i></a></div>
         </div>
         <p class="tags">
@@ -370,21 +351,13 @@
             <a href="/vn">Vietnam</a>
             <a href="/jp">Japan</a>
         </p>
-        <p class="copyright">© 2010 Adioso Inc.<br> <a href="/privacy">Privacy Statement</a> | <a href="/terms">Terms of Use</a></p>
+        <p class="copyright">© 2011 Adioso Inc.<br> <a href="/privacy">Privacy Statement</a> | <a href="/terms">Terms of Use</a></p>
     </div>
     </div>
     </div>
 
 
 
-
-    </div>
-
-    <script>
-        $(".related .item").click(function() {
-            $("#the_search").val($(this).text());
-        }).addClass("clickable");
-    </script>
 
 
 
