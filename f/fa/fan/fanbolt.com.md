@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519081651id_/http%3A//www.fanbolt.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbolt.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124555id_/http%3A//www.fanbolt.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
