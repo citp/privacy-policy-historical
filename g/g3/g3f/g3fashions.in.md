@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2010-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100713062016id_/http%3A//www.g3fashions.in/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g3fashions.in privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101160829id_/http%3A//www.g3fashions.in/privacy.aspx) for the most accurate reproduction.*
 
 # Wedding bridal sarees, Salwar kameez, Embroidered sarees salwar kameez, Bridal wedding lehengas, Designer lehengas sarees, Traditional sarees lehngas from India, Indian Sarees, Fancy Sarees
 
