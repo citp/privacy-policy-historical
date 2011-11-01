@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the crittercism.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523062419id_/http%3A//www.crittercism.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crittercism.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101230838id_/http%3A//www.crittercism.com/privacy.html) for the most accurate reproduction.*
 
-# Crittercism
-
-### Crittercism Privacy Policy
-
-Effective Date January 1, 2011 
-
-OVERVIEW 
-
-Crittercism, Inc. takes your privacy seriously. We recognize that privacy is an important issue, so we design and operate our services with the protection of your privacy in mind. This statement discloses the privacy practices for the websites provided by Crittercism, including crittercism.com and other sites served from this domain (collectively "the Site"). 
-
-The term "personal information" as used in this Privacy Policy refers to personally identifiable information that specifically identifies an individual (such as an individual's first and last name, address, telephone number, e-mail address, credit card or other account number), and information about that individual or such individual's activities or preferences when such information is directly linked to personally identifying information. Personal information does not include "aggregate" information, which is data we collect about the use of the Sites or categories of Site users, from which any personal information has been removed. We may collect aggregate data for a number of purposes, including to improve the Sites and the Services, to diagnose technical issues, to help identify user needs so that we can better consider new products and services, and to tailor existing products and services to better serve our users. This Privacy Policy in no way limits or restricts our collection, use or disclosure of aggregate information. 
+# Crittercism - Privacy Policy
 
 HOW WE COLLECT AND USE INFORMATION 
 
