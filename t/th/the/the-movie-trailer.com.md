@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the the-movie-trailer.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423041302id_/http%3A//the-movie-trailer.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-movie-trailer.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101180854id_/http%3A//movie-trailer.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for The-Movie-Trailer.com and its subdomains  
-http://the-movie-trailer.com/.
+Privacy Policy for Movie-Trailer.com and its subdomains  
+http://movie-trailer.com/.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by sending an email to themovietrailerblog [(@)] gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by sending an email to watchmovietrailer [(@)] gmail.com.
 
-For our site (http://the-movie-trailer.com/, The-Movie-Trailer.com and subdomains), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by our site and how it is used.
+For our site (http://movie-trailer.com/, Movie-Trailer.com and subdomains), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by our site and how it is used.
 
 Log Files  
 Like many other Web sites, our site makes use of log files through external partners. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
