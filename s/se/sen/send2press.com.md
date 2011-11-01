@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514043051id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the send2press.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152240id_/http%3A//www.send2press.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for Send2Press Newswire, a service of Neotrope
 
@@ -8,13 +8,13 @@
 ---|---|---  
 | 
 
-Today is Fri., May 13, 2011   
+Today is Tue., Nov 01, 2011   
 
 
   
-**Questions? Give us a Call:**   
-1.310.373.4856    
-Toll-free in U.S.: 866.473.5924   
+**Questions? Call Toll-Free:**   
+1.866.473.5924 (in U.S.)   
+Main phone: 1.310.373.4856   
 _We're in California, USA._
 
 **Quick Links:**
