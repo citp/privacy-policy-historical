@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the behindthename.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623201030id_/http%3A//www.behindthename.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the behindthename.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215945id_/http%3A//www.behindthename.com/privacy.php) for the most accurate reproduction.*
 
 # Behind the Name: Privacy Policy
 
