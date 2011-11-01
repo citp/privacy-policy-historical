@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zanesvilletimesrecorder.com privacy policy that was archived on 2011-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110225101153id_/http%3A//www.zanesvilletimesrecorder.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zanesvilletimesrecorder.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162432id_/http%3A//www.zanesvilletimesrecorder.com/section/privacy) for the most accurate reproduction.*
 
-# PRIVACY | Zanesville Times Recorder | zanesvilletimesrecorder.com
+# privacy | Zanesville Times Recorder | zanesvilletimesrecorder.com
 
 Last Updated: December 30, 2010
 
