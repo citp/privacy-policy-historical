@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thechoicedrivenlife.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607015228id_/http%3A//www.thechoicedrivenlife.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thechoicedrivenlife.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113058id_/http%3A//www.thechoicedrivenlife.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | choices in life | choices for life | making choices in life | life choice | making the right choices in life | life is choice | career choices | first choice | first choice families | the choice is yours | your choices | choices your | know your choices | how to choose | choose your
+# Privacy Policy | choices, choices we make , life choices , good choices, how to choose , making life choices , purpose, destiny, personal development , personal success ,healthy choices,pursuit of happiness,
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
