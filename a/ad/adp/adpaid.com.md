@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023728id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpaid.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223418id_/http%3A//adpaid.com/pages/privacy.php) for the most accurate reproduction.*
 
 # AdPaid.com Privacy Statement
 
-Welcome to AdPaid.com: Earn Money Online, Get Paid Reading Emails, Earn Cash for Completing Paid Online Surveys and Offers. Highly cost-effective targeted advertising solutions. **Happy Birthday to Us! AdPaid has now been Serving Advertisers and Members for over SEVEN Years! **
+Welcome to AdPaid.com: Earn Money Online, Get Paid Reading Emails, Earn Cash for Completing Paid Online Surveys and Offers. Highly cost-effective targeted advertising solutions.
 
 ## **AdPaid.com Respects Your Privacy**
 
@@ -26,8 +26,3 @@ AdPaid.com provides users the opportunity to opt-out of receiving communications
 
 **Correct/Update:**  
 AdPaid.com gives users the following options for changing and modifying information previously provided. Members Area - login and change your personal information. Contacting the Web Site If you have any questions about this privacy statement, the practices of this site, or your dealings with AdPaid.com, you can [Contact Us](http://adpaid.com/pages/contact.php).
-
-## **Sponsor Ads**
-
-[](http://adpaid.com/scripts/runner.php?BA=3058&hash=1c41415eed25838fb846e2f648039994&url=http%3A%2F%2Fcdjcrm.writingjob.hop.clickbank.net%3Ftid%3Daptower)  
-
