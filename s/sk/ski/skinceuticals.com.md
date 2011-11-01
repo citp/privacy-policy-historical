@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skinceuticals.com privacy policy that was archived on 2010-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101031083507id_/http%3A//www.skinceuticals.com/_us/_en/services/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinceuticals.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101203650id_/http%3A//www.skinceuticals.com/_us/_en/services/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SkinCeuticals | Privacy policy
 
