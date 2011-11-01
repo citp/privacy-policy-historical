@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlyleggings.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507073608id_/http%3A//www.onlyleggings.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlyleggings.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121157id_/http%3A//www.onlyleggings.com/privacy_policy) for the most accurate reproduction.*
 
 # Leggings Superstore - Privacy Policy
 
