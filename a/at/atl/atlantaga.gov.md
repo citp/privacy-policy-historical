@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212125312id_/http%3A//atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantaga.gov privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142105id_/http%3A//www.atlantaga.gov/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # City of Atlanta Online
 
