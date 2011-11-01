@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616020620id_/http%3A//www.nhpr.org/online/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nhpr.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101060818id_/http%3A//www.nhpr.org/online/privacy) for the most accurate reproduction.*
 
 # NHPR.org - NHPR's Privacy Policy
 
