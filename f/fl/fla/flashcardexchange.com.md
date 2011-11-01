@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230120611id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcardexchange.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123334id_/http%3A//www.flashcardexchange.com/docs/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[](https://web.archive.org/)
 
 At Flashcard Exchange, we take your privacy concerns regarding our service seriously, so we have created the following Privacy Policy to explain our information collection and use practices. Our Privacy Policy covers what information we collect through our service, how we use this information, how you may opt-out of this collection, the security measures we take to protect this information, and our policy regarding children under 13 years of age. By using our service, you consent and agree to the information collection and use practices described in our Privacy Policy. We may periodically make changes to our Privacy Policy. It is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it.
 
@@ -64,4 +66,4 @@ In the event that we or a portion of our assets are acquired by another company,
 
 We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our service generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this Privacy Policy.
 
-Copyright © 2001-2010 Tuolumne Technology Group, Inc. 
+Copyright © 2001-2011 Tuolumne Technology Group, Inc. 
