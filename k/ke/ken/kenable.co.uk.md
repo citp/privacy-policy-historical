@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225195901id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kenable.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143632id_/http%3A//www.kenable.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement for kenable.co.uk
 
@@ -23,4 +23,9 @@ Here at kenable we **value your privacy**. The following privacy policy applies 
   * **YOUR CONSENT**
     * By using our web site you consent to us using the personal information you have given as outlined in this Privacy Policy. If you are worried about anything to do with our site, please email us on [privacy@kenable.co.uk](mailto:privacy@kenable.co.uk) and we will be glad to respond to any issues you may have. 
 
-Thank you for shopping at kenable Ltd.
+Thank you for shopping at kenable Ltd.  
+  
+|   
+---  
+   
+[](http://validator.w3.org/check?uri=referer)
