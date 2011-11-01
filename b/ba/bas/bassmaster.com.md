@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassmaster.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510070457id_/http%3A//bassmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassmaster.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125001id_/http%3A//www.bassmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # B.A.S.S., LLC Privacy Policy | Bassmaster
 
