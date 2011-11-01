@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littlepassports.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219231109id_/http%3A//littlepassports.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littlepassports.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235628id_/http%3A//littlepassports.com/privacy.html) for the most accurate reproduction.*
 
 # Little Passports - A Global Adventure
 
@@ -6,7 +6,7 @@
 
 **The privacy policy was last revised on January 6, 2009.**
 
-Little Passports, LLC owns and provides various websites, services, materials and software available to the public at and through [ http://www.littlepassports.com](http://www.littlepassports.com/) and related URL’s (collectively, “the Site”). Little Passports, LLC respects your privacy and values your trust. In this Privacy Policy, we may refer to Little Passports, LLC as “Little Passports,” “us,” or “we.” We shall refer to users of the Site as “You” or “User.” This privacy policy will inform you of the following:  
+Little Passports owns and provides various websites, services, materials and software available to the public at and through [ http://www.littlepassports.com](http://www.littlepassports.com/) and related URL’s (collectively, “the Site”). Little Passports respects your privacy and values your trust. In this Privacy Policy, we may refer to Little Passports as “Little Passports,” “us,” or “we.” We shall refer to users of the Site as “You” or “User.” This privacy policy will inform you of the following:  
 What kind of information is collected;   
 Who collects the information;   
 How the information is used;   
@@ -38,9 +38,9 @@ Links to third parties may be displayed on the Site. Links to third-party websit
 **Use of Personally Identifiable Information.** Little Passports will not knowingly share PII with third parties except as set forth in our Privacy Policy and/or Terms of Use. We may share information with future successors and/or assigns. We may also share PII with third parties who provide Little Passports with administrative services, such as, but not limited to, authorization of credit card and check transactions, order fulfillment, contest administration and fulfillment, and co-branded or joint product and service promotions. We may also share your information with service providers who warehouse product, personalize product and perform order fulfillment services. These service providers are granted access to some or all of your personal information only as is and to the extent necessary for them to perform their services for us. Such service providers may use cookies on our behalf in order to perform services for us. If any PII is knowingly provided by Little Passports to such service providers, all such PII will be so provided only under a confidentiality agreement at least as restrictive as the privacy provisions contained in this Privacy Policy. Moreover, we may release information, with or without notice to you, when necessary to comply with the law or a court order or an investigation. We also may release information to law enforcement to protect our rights, property, or other interests, including those of our users or to prevent illegal activities or violations of our Terms of Use.
 
 **Notifications/Opt-out.** It is Little Passports’ policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to users via email notice, written or hard copy notice, or through conspicuous posting of such notice on the Site, as determined by Little Passports in its sole discretion. Little Passports reserves the right to determine the form and means of providing notifications to our users. By providing Little Passports with your email address you consent to our using such email address to send you notices in lieu of postal mail. We may also use your email address to send you other messages, including changes to Little Passports features and special offers. You may opt out of certain notifications by changing your account settings or by sending mail to the following postal address:  
-Little Passports LLC  
-380 22nd Avenue, #1  
-San Francisco, California 94121
+Little Passports  
+282 2nd Street, 3rd Floor  
+San Francisco, California 94105
 
 Opting out may prevent you from receiving email messages regarding updates, improvements, or special offers, and you may not opt out of certain types of notices, including but not limited to announcements regarding certain products, support of the Site and other notices as may be required by law. If you or we have provided any third party with your information, you will have to contact such third-party directly with any opt-out request. 
 
@@ -68,8 +68,8 @@ your name and email address
 the name of Little Passports
 
 Little Passports  
-5758 Geary Blvd, #148  
-San Francisco, California 94121  
+282 2nd Street, 3rd Floor  
+San Francisco, California 94105  
 
 
 ## Security 
