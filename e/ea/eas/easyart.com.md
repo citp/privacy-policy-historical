@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629173447id_/http%3A//www.easyart.com/content/help/privacy_policy.ghtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120742id_/http%3A//www.easyart.com/content/help/privacy_policy.ghtml) for the most accurate reproduction.*
 
 # Easyart.com - Privacy Policy
 
@@ -19,16 +19,15 @@ To request a correction or deletion of your private information, or if you have 
 ### Address
 
 Easyart Limited  
-Unit 1 Tylers Business Park  
-Lewes Road  
-Blackboys  
-UCKFIELD TN22 5LF  
-United Kingdom 
+Unit 12 E Plan Estate  
+New Road  
+Newhaven  
+BN9 0EX 
 
 ### Telephone:
 
 0845 1662 732  
-+44 (0)1825 891771 from outside the UK 
++44 (0)1273 511 942 from outside the UK 
 
 ### Email:
 
@@ -108,7 +107,7 @@ We use third parties to facilitate our business, including, but not limited to, 
 
 ### Secure Information Transmissions
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 0845 1662 732 (+44 1825 891771 Outside UK) if you have any questions or concerns.
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 0845 1662 732 (+44 (0)1273 511 942 Outside UK) if you have any questions or concerns.
 
 Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
@@ -131,6 +130,3 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ### Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [customercare@easyart.com](mailto:customercare@easyart.com).
-
-All prints on this website are copyright their respective owners. All rights reserved  
-Website © 1999-2011 [Easyart.com](http://www.easyart.com/). 
