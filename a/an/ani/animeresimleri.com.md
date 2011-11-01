@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeresimleri.com privacy policy that was archived on 2010-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100708051914id_/http%3A//www.animeresimleri.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeresimleri.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120353id_/http%3A//www.animeresimleri.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
