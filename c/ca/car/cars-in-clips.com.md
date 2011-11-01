@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cars-in-clips.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625061152id_/http%3A//cars-in-clips.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cars-in-clips.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101111858id_/http%3A//cars-in-clips.com/privacy-policy) for the most accurate reproduction.*
 
 # CARS-IN-CLIPS!
 
