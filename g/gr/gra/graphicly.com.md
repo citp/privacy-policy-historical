@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the graphicly.com privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306180158id_/http%3A//graphicly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicly.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121051id_/http%3A//graphicly.com/privacy) for the most accurate reproduction.*
 
-# Graphic.ly
+# Graphicly
 
 ## Privacy Policy and Your Privacy Rights
 
 Effective Date: April 19, 2010
 
-Graphic.ly, Inc. (“ **Graphic.ly** ,” “ **we** ,” or “ **us** ”) cares about how your personal information is used and shared. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our service provided through our website or other communications platforms, including applications on your mobile device (the “ **Service** ”).
+Graphicly, Inc. (“ **Graphicly** ,” “ **we** ,” or “ **us** ”) cares about how your personal information is used and shared. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our service provided through our website or other communications platforms, including applications on your mobile device (the “ **Service** ”).
 
 By submitting Personal Data through the Service and using the Service, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy. Your Personal Data may be processed in the country where it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
 
@@ -24,7 +24,9 @@ Data You Provide to Us. We receive and store any information you enter on our Se
 
 
 
-Data Collected via Technology. We collect Personal Data and Anonymous Data from you based on your use of the Service, directly and indirectly. Like most Internet services, we automatically gather this Personal Data and Anonymous Data and store it in log files each time you visit our website or access your account through our Service, including through applications on your mobile device.
+**Data Collected via Technology.**
+
+We collect Personal Data and Anonymous Data from you based on your use of the Service, directly and indirectly. Like most Internet services, we automatically gather this Personal Data and Anonymous Data and store it in log files each time you visit our website or access your account through our Service, including through applications on your mobile device.
 
   * Our servers (which may be hosted by a third party service provider) collect Anonymous Data from you, such as browser type and version, operating system, platform, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, a date/time stamp for your visit, and other demographic information.
   * We use cookies and navigational data like Uniform Resource Locators (URL) to gather Anonymous Data such as the date and time of your visit, the information for which you searched and which you viewed, and the sites you visited before and after visiting our website. We also use cookies to collect, store and sometimes track Anonymous Data for statistical purposes to improve the Service. We also use a cookie to save your settings and to provide customizable and personalized services (such as to hold your shopping cart information). A “cookie” is a small data file that can be placed on your hard drive when you visit certain websites. Additionally, be aware that if you visit other websites you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies used by advertisers and partners and expressly disclaim responsibility for information collected through them.
@@ -52,11 +54,15 @@ Generally. In general, Personal Data you submit to us is used to provide you wit
 
 
 
-Feedback. If you provide feedback relating to the Services to us, we may use such feedback for any purpose.
+**Feedback**
+
+If you provide feedback relating to the Services to us, we may use such feedback for any purpose.
 
 Sharing of Information. We display your user name and public profile throughout the Service. This user name and public profile, as well as all of your activity on the Service under that username and public profile, is publicly available on the Service to other users. Other users on our Service can see your transactions, feedback, ratings, comments, forum postings, blog postings, friend lists, activity streams, pull lists, stack sharing, and other activity. If you associate your name with your username and/or public profile, the people to whom you have revealed your name will be able to personally identify your activities on our Service. If you use forums, blogs, or other areas of our Service where you post your own content and participate in the community or send emails or other messages to other users of our Service, you should be aware that any Personal Data you provide can be read, collected or used by other users of the Service, could be used to send you unsolicited messages, and will be stored on our servers. We are not responsible for the Personal Data you choose to submit in these areas of the Service. We may use Personal Data you submit or that is made available in these areas of the Service (as well as any other content you submit in these public areas) to promote the Service, including through online distribution, distribution in print form and other offline forms and other forms of delivery or distribution.
 
-Third Party Websites and Services. You have the option to share certain information with third party websites or services. For example, you may choose to publish updates of your activity (such as your downloads, feedback, ratings, and comments) on our Service on other third party websites or services. Those updates (and any other information you choose to share) will be linked to your account on those third party websites or services and may be publicly available to other users there. If you associate your name with your username and/or public profile, the people to whom you have revealed your name will be able to personally identify your activities on our Service. We are not responsible for any information you choose to share with third party websites or services.
+**Third Party Websites and Services**
+
+You have the option to share certain information with third party websites or services. For example, you may choose to publish updates of your activity (such as your downloads, feedback, ratings, and comments) on our Service on other third party websites or services. Those updates (and any other information you choose to share) will be linked to your account on those third party websites or services and may be publicly available to other users there. If you associate your name with your username and/or public profile, the people to whom you have revealed your name will be able to personally identify your activities on our Service. We are not responsible for any information you choose to share with third party websites or services.
 
 **Disclosure of Your Data**
 
@@ -71,7 +77,7 @@ We may share your Personal Data with:
 
 
 
-We may disclose information you provide (including Personal Data) if we have a good faith belief that disclosure is necessary to: (1) comply with the law or with legal process served on us; (2) protect and defend the rights or property of us or our users; (3) act in an emergency to protect someone’s safety; or (4) investigate any violation or potential violation of the law, this Privacy Policy, any Graphic.ly End User License Agreement, and the Graphic.ly Terms of Service.
+We may disclose information you provide (including Personal Data) if we have a good faith belief that disclosure is necessary to: (1) comply with the law or with legal process served on us; (2) protect and defend the rights or property of us or our users; (3) act in an emergency to protect someone’s safety; or (4) investigate any violation or potential violation of the law, this Privacy Policy, any Graphicly End User License Agreement, and the Graphicly Terms of Service.
 
 **Your California Privacy Rights**
 
@@ -79,7 +85,7 @@ If you are a California resident, you may request and obtain from us, once a yea
 
 **Payment Information**
 
-If you are submitting payment information through this Service, we collect your payment information for the purpose of allowing you to pay for products or services we provide you through the Service. To make any payments through the Service you will be required to give us, our partners, or our third party payment services providers valid payment account information or a valid credit card number and associated payment information at the time you are required to make such payments, including all of the following: (1) your name as it appears on the card, (2) the credit card type, (3) the date of expiration of your credit card, (4) any activation numbers or codes needed to charge your card, and (5) billing address. Some of our partners or third party payment services providers may require you to have an account with them and may request additional information such as your banking information. We use our partners and third-party processing companies (including credit card processing companies) to assist with billing and payment processes. Any Personal Data you provide to such third party will be subject to that third party’s privacy policy and terms of use, and not to this Privacy Policy or the Graphic.ly Terms of Service.
+If you are submitting payment information through this Service, we collect your payment information for the purpose of allowing you to pay for products or services we provide you through the Service. To make any payments through the Service you will be required to give us, our partners, or our third party payment services providers valid payment account information or a valid credit card number and associated payment information at the time you are required to make such payments, including all of the following: (1) your name as it appears on the card, (2) the credit card type, (3) the date of expiration of your credit card, (4) any activation numbers or codes needed to charge your card, and (5) billing address. Some of our partners or third party payment services providers may require you to have an account with them and may request additional information such as your banking information. We use our partners and third-party processing companies (including credit card processing companies) to assist with billing and payment processes. Any Personal Data you provide to such third party will be subject to that third party’s privacy policy and terms of use, and not to this Privacy Policy or the Graphicly Terms of Service.
 
 **Your Control of the Use of Your Personal Data**
 
@@ -97,7 +103,7 @@ We have industry-standard security measures in place to help protect against los
 
 Our Service contains hyperlinks and pointers to Internet sites maintained by third parties. These links are provided for your reference only. We do not control, operate or endorse in any respect information, products, or services on such third-party sites and are not responsible for their content. Many third-party sites have their own privacy policies that differ from ours. This Privacy Policy only covers our Service and does not cover any other site.
 
-**Contacting Graphic.ly, Inc.**
+**Contacting Graphicly, Inc.**
 
 We would like to receive your comments and questions about this Privacy Policy and any other matter you have regarding our Service. Please address comments or questions to us via Get Satisfaction or postal mail.
 
@@ -105,7 +111,9 @@ You may access our Get Satisfaction portal by going to [http://getsatisfaction.c
 
 You may also contact us by mail at:
 
-Graphic.ly, Inc. 1919 14th St. Suite 319 Boulder, CO 80302
+Graphicly, Inc.  
+1919 14th St. Suite 319  
+Boulder, CO 80302
 
 **Changes to this Privacy Policy**
 
