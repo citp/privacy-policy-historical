@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the leaguecraft.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210190657id_/http%3A//leaguecraft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguecraft.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101151814id_/http%3A//www.leaguecraft.com/privacy) for the most accurate reproduction.*
 
-# They have the internet on computers now? :: Leaguecraft
+# You guys go on without me! I'm going to go... look for more stuff to steal! | Leaguecraft.com
 
 **What information do we collect?**
 
