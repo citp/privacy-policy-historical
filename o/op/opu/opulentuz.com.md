@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opulentuz.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621091707id_/http%3A//opulentuz.com/html/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opulentuz.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101031438id_/http%3A//opulentuz.com/html/privacypolicy.php) for the most accurate reproduction.*
 
 # Opulentus Overseas Careers Complaints | Opulentus Careers Fraud Protection | Opulentus Fraud Protection | Fraud Free Opulentus on-line Payments | Fraud Protection Payments
 
