@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jisc.ac.uk privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520115416id_/http%3A//www.jisc.ac.uk/aboutus/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jisc.ac.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143213id_/http%3A//www.jisc.ac.uk/aboutus/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy statement : JISC
 
