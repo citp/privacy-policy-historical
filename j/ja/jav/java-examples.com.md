@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the java-examples.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217201736id_/http%3A//java-examples.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the java-examples.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122353id_/http%3A//www.java-examples.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Java Examples - Java Program Sample Source Code
 
