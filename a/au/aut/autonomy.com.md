@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623074818id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autonomy.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101135309id_/http%3A//www.autonomy.com/content/Legal/PrivacyPolicy.en.html) for the most accurate reproduction.*
 
 # General Privacy Policy
 
@@ -24,6 +24,8 @@ We may on occasion disclose your personally identifiable information to third pa
 
 We use industry-standard efforts to safeguard the confidentiality of your personally identifiable information, such as firewalls and secure socket layers where appropriate. However, "perfect security" does not exist on the Internet.
 
+Autonomy complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Autonomy has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
 You acknowledge that acceptance of this privacy policy, as updated from time to time at this location, is a condition to your use of our website and you agree to be bound by all of its terms and conditions.
 
-If you have any questions regarding our policies please e-mail Autonomy's webmaster at [webmaster@autonomy.com](mailto:webmaster@autonomy.com)
+If you have any questions regarding our policies please e-mail Autonomy's webmaster at [webmaster@autonomy.com](mailto:webmaster@autonomy.com).
