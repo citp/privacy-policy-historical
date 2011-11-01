@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603085901id_/http%3A//mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycashnow.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143358id_/http%3A//www.mycashnow.com/Small-Cash-Loans-privacy-policy.php) for the most accurate reproduction.*
 
-# Small Cash Loans Privacy Policy | MyCashNow
-
-## MyCashNow™ Privacy Policy
+# Secure Online Payday Loans - MyCashNow Privacy Policy | My Cash Now
 
 MyCashNow knows that you value your privacy. Because of this, we want you to know that we view your security as a major concern, and that it is important to us. We make every effort to ensure that your information remains confidential in all aspects of the payday loan process. MyCashNow has dedicated a large portion of electronic, physical, and procedural safeguards to our clients' personal information safe. The security and confidence of our clients is an ongoing focus of our company.
 
