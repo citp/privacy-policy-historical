@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ningin.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615013656id_/http%3A//mixrmedia.com/privatepolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningin.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144546id_/http%3A//mixrmedia.com/privatepolicy) for the most accurate reproduction.*
 
 # 
 
