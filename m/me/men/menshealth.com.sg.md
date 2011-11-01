@@ -1,35 +1,42 @@
-> *The following text is extracted and transformed from the menshealth.com.sg privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414091621id_/http%3A//www.sphmagazines.com.sg/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menshealth.com.sg privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162437id_/http%3A//www.sphmagazines.com.sg/privacy) for the most accurate reproduction.*
 
-# Privacy Statement | SPH Magazines
+# Singapore Press Holdings | Media Kit
 
-SPH Magazines Pte Ltd (“SPHM”) collects information from our users for a number of reasons, the chief one being to better understand our users and their needs.
+**SPH Privacy Policy**
 
-Please read carefully our policy on data collection and use of the data collected.
+This Privacy Policy applies to all information collected by Singapore Press Holdings Ltd and/or its related entities, affiliates and subsidiaries (individually and collectively, " **SPH** ") under **Clause 1** below. 
 
-_When is information collected from you?_
+For the purpose of this Policy, “ **we** ” and “ **our** ” shall refer to SPH. 
 
-  * When you register for or use any of SPHM's services on websites owned and/or operated by SPHM
-  * When you take part in any contest, survey or promotion conducted by SPHM and/or its business partners
-
-
-
-_What is the information used for?_
-
-  * To provide goods and services by SPHM or its designated representatives and/or business partners to you or parties designated by you and matters ancillary thereto
-  * To verify and process payment when you purchase goods and services from our sites
-  * For verification and record of your personal particulars including comparing it with information from other sources and using the information to communicate with you
-  * To conduct statistical analysis of the users of our sites including the number of users, the frequency of use, profile of users and using such analysis for our business plans, the enhancement of our products and services, targeted advertisements and conveying such information in broad terms (but not information in relation to specific individuals) to third parties who have or propose to have business dealings with us
-  * To send you information, promotions and updates including marketing and advertising materials in relation to our goods and services and those of third party organizations selected by us
-  * To comply with any order of court or directive from authorities investigating any alleged offence, misdeeds and/or abuse or for the purposes of taking legal action against any users for breach of the [Conditions of Access](https://web.archive.org/conditions) and/or Terms of Service
-  * For the above purposes by third parties (who may be based outside Singapore) who offer goods and services or sponsor contests or other promotional programs on our site, whether in conjunction with us or not, if you purchase such goods, use such services or participate in such contests and promotional programs.
-
-
-
-_  
-Will your personal information be shared with anyone?_
-
-  * We are committed to safeguarding your privacy. As a general rule, we do not disclose specific information about our users to any third parties unless so required by law or any government agencies. All communication whether from us or our business partners will be sent to you by us.
-  * However, in the event that you participate in contests or other promotional programs on our site sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.
-  * All information gathered by SPHM is stored in systems that may only be accessed by authorized staff of SPH using assigned user ids and passwords.
-
-
+| **1.** | **When is information collected from you?**  
+---|---  
+**1.1** | When you register for or use any of our services on websites owned and/or operated by us.  
+**1.2** | When you take part in any contest, survey or promotion conducted by us and/or our business partners.  
+**1.3** | When you register as a member of websites owned and/or operated by us, or hosted by us on behalf of our business partners or use services on such websites.   
+  |    
+**2.** | **What is the information used for?** ****  
+**2.1** | Information which you provide to us may be used and disclosed by us and our affiliates, business partners and contractors (who may be based outside Singapore) for the following purposes:  
+  |  | **2.1.1** | to respond to your requests and queries;  
+---|---  
+**2.1.2** | to provide goods and services to you;  
+**2.1.3** | to verify and process your personal particulars and payments;  
+**2.1.4** | to communicate with you;  
+**2.1.5** | to enforce contractual and legal rights and obligations;  
+**2.1.6** | for marketing research, user profile and statistical analysis;   
+**2.1.7** | to send you information, promotions, updates, and marketing and advertising materials in relation to our goods and services and those of third party organisations;  
+**2.1.8** | complying with law, the requests of law enforcement and regulatory officials, or orders of court; and  
+**2.1.9** | for any other purposes for which we have obtained your consent, including during the registration process under our[ __Member Terms and Conditions__](https://web.archive.org/web/20111106070759id_/http://sph.com.sg/legal/member_conditions.html).  
+**2.2** | In the event that you participate in contests or other promotional programs on our websites sponsored or organized by third parties or purchase goods and services offered by third parties or offer goods and services to third parties on our sites, your information may be disclosed to and used by such third parties.   
+  |    
+**3.** | **Use of cookies**  
+**3.1** | SPH uses "cookies", where a small data file is sent to your browser to store and track information about you when you enter our websites.  The cookie is used to track information such as the number of users and their frequency of use, profiles of users and their preferred sites.   
+**3.2** | Like many web site operators, SPH may use an independent company (the “ **Third Party** **Market Research Company** ”) to measure and analyse the Internet usage across SPH web sites.  SPH uses the Third Party Market Research **** Company’s services to collect the following core information on the usage of our web sites, including:   
+  |  | **3.2.1** | The number of page views (or page impressions) that occur on SPH web sites;   
+---|---  
+**3.2.2** | The number of unique visitors to SPH web sites;   
+**3.2.3** | How long these unique visitors (on average) spend on SPH web sites when they do visit; and   
+**3.2.4** | Common entry and exit points into SPH web sites.   
+**3.3** | This information is collated by the Third Party Market Research Company and provided to SPH to assist in analysing the usage of SPH web sites. Such data is also accessible by media organizations and research companies, for the purpose of conducting industry comparisons with other Internet portals.   
+**3.4** | Pages on SPH web sites may be coded with software which enables the Third Party Market Research Company and SPH to track visitors to our web sites.  
+  
+(Last updated on 25 January 2011) 
