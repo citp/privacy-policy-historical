@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504072732id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exercise4weightloss.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123549id_/http%3A//www.exercise4weightloss.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Exercise 4 Weight Loss
 
@@ -73,4 +73,13 @@ Your use of this site indicates acceptance of this privacy policy.
 Exercise 4 Weight Loss 2 Achieve Fitness and Health  
 
 
-© 2008 - 2011 Exercise4WeightLoss.com 
+  
+
+
+© 2008 - 2011 Exercise4WeightLoss.com NOTE:  Weight Watchers is a registered trademark of Weight Watchers International, Inc. Points and Points Plus are trademarks of Weight Watchers International, Inc.Please visit your local Weight Watchers meeting for authentic information about the plan.
+
+This site is not affiliated with Weight Watchers International in any way, and Weight Watchers has not reviewed this site for accuracy or suitability for WW members. Information on this site for restaurant nutrition and points is based on data gathered from individual restaurants and not the Weight Watchers Dining Out Companion. Food Pts values for restaurants and recipes are calculated in an offline spreadsheet and the formula used is not the exact same formula as provided by Weight Watchers. 
+
+Although the formula used on this site is not the exact WW formula, the points values presented are a close approximation but may be off by a few 10ths of a point (but no more than 1/2 point plus or minus). Since the values are shown as a rounded number, the numbers shown will work when tracking your daily allowance.
+
+All readers are encouraged to go to a Weight Watcher's meeting for actual information about their plan. This site is presented under the rights of the First Amendment.
