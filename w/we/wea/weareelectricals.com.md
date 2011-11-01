@@ -1,60 +1,106 @@
-> *The following text is extracted and transformed from the weareelectricals.com privacy policy that was archived on 2010-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101006191345id_/http%3A//www.weareelectricals.com/pages/8/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weareelectricals.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101143629id_/http%3A//www.weareelectricals.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-'We Are Electricals' Privacy Policy
+**What information do we collect?**
 
-Last updated: 15.02.2010  
-Who we are
+We collect information from you when you register on our site, place an order, subscribe to our newsletter or respond to a survey. 
 
-In this Privacy Policy references to "we" and "us" are to We Are Electricals.
+Any data we request that is not required will be specified as voluntary or optional. 
 
-What information we collect and how
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-(1)    Any personal details you type in and submit, such as name, address, email address, etc.
+ **What do we use your information for?**
 
-(2)    Data which allows us to recognise you, your preferences and how you use this website. This saves you from re-entering information when you return to the site. This data is collected by cookies from your navigation around the site. A cookie is a small amount of data which we send to your computer. The data is then stored on your browser or hard disk. Most web browsers can be set to prevent you from receiving new cookies, notify you before accepting cookies or disable cookies altogether. Details about this can normally be found in the Help facility provided with your browser. If you disable cookies, you will not be able to receive personalised facilities and your progress to check out may take longer. The cookies store information only for as long as you are viewing the website. If you do not want your visits to our website to be monitored in this way you can find out more about removing cookies by clicking here.
+Any of the information we collect from you may be used in one of the following ways: 
 
-(3)    Your IP address (this is your computer’s individual identification number) which is automatically logged by our web server. This is used to note your interest in our website.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-(4)   Your preferences and use of email updates, recorded by emails we send you (if you select to receive email updates on products and offers).
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-What we do with your information
+• To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-Any personal information we collect from you will be used in accordance with the Data Protection Act 1998 and other applicable laws. The details we collect will be used:
+• To process transactions  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer. 
 
-(1)  to process your order, to process any application for finance or a mobile phone contract etc., to maintain guarantee records and to provide after-sales service (we may pass your details to another organisation to supply/deliver products or services you have purchased and/or to provide after-sales service).
+• To send periodic emails
 
-(2)   to carry out security checks (this may involve passing your details to our Identity Verification partner, currently 192.com, who will check details we give them against public and private databases - this helps to protect you and us from fraudulent transactions); and
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.
 
-(3)   to comply with legal requirements (e.g. if you buy a TV or similar, we are obliged to pass your details to the TV licensing authority).
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We are a subsidiary of DSG international plc and we may need to pass the information we collect to other companies within our group for administrative purposes. We may use third parties • to carry out certain activities, such as processing and sorting data, monitoring how customers use our site and issuing our emails for us.
+ **How do we protect your information?**
 
-We would also like to inform you of various promotions, goods and services that may be of interest to you. These would come from any of our chains, including We Are Electricals, Dixons, PC World and Partmaster Direct, from our affiliates including The Link, or from carefully selected third parties. You may be contacted by post, email, telephone, SMS or such other means as we regard as appropriate, including new technology. If you wish to receive these communications, please tick the "Yes" box when entering your personal details. You may unsubscribe at a later date, if you wish - see "Your rights" section below.
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request, place an order or access your personal information. 
 
-Your rights
+These security measures include: password protected directories and databases to safeguard your information, SSL (Secure Sockets Layered) technology to ensure that your information is fully encrypted and sent across the Internet securely or PCI Scanning to actively protect our servers from hackers and other vulnerabilities. 
 
-(1)   You can ask us to update your personal information by emailing precise details of your request to privacy@We Are Electricals.co.uk. Please ensure you type "update" in the subject line of your email.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential.
 
-(2)   You can ask us not to send you future marketing communications. To do this, simply email privacy@We Are Electricals.co.uk. Type "No Marketing" in the subject line and then the following in the main text:
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be held at all.
 
-• your full name  
-• your postal address, including postcode  
-• your email address
+ **Do we use cookies?**
 
-We will then suppress your data from all direct marketing, although we will still keep it for processing your order and fulfilling customer service and after sale obligations.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-Alternatively, you can post your request to the address in (3) below.
+ **Do we disclose any information to outside parties?**
 
-(3) You also have the right to request a copy of any personal information we hold about you. To do this, simply write to us at the following address, enclosing a cheque for £10 payable to DSG Retail Limited to cover our administration costs:
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-Customer Services (Data Subject Request)  
-Midlands DC  
-Birmingham  
-West Midlands  
-B1 3JA
+ **California Online Privacy Protection Act Compliance**
 
-Other Websites
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-This privacy policy only covers this website. Any other websites which may be linked to by our website are subject to their own policy, which may differ from ours.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+
+ **Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+ **CAN-SPAM Compliance**
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+ **Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://dropship.weareelectricals.com/pages/Terms-%26-Conditions.html.
+
+ **Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
+
+This policy was last modified on **16/02/2011**
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+weareelectricals.com  
+206 2nd Floor Quayside Tower  
+Birmingham, West Midlands B1 2HF  
+United Kingdom  
+help@weareelectricals.com  
+08000029045
+
+ **Privacy Policy Customer Pledge**
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
+Federal Trade Commision Fair  
+California Online Privacy Protection Act  
+Childrens Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act
+
+If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
+
+Respectfully, 
+
+Tina Murray Customer Service Manager  
+Dropship.WeAreElectricals.com
