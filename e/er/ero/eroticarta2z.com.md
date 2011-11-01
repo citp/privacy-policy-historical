@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eroticarta2z.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423193626id_/http%3A//eroticarta2z.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eroticarta2z.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120117id_/http%3A//eroticarta2z.com/privacy-policy) for the most accurate reproduction.*
 
 # Erotic Art A to Z » Privacy Policy
 
