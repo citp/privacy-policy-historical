@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmysoftwarefree.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127071355id_/http%3A//getmysoftwarefree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmysoftwarefree.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161541id_/http%3A//getmysoftwarefree.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
