@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424222629id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdf-word.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120943id_/http%3A//www.pdf-word.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Free eBook PDF Files Download - Privacy Policy
+# Free eBook PDF File Download - Privacy Policy
 
 ## Privacy Policy
 
@@ -20,18 +20,26 @@ Thank you for visiting our web site and enjoy your searching PDF Files from our 
 
 ## Latest PDF Files
 
-159
+715
 
-### [Sewing Machine Maintenance How To](http://www.pdf-word.net/DIY-Fashions-and-Textiles/Sewing-Machine-Maintenance-How-To.html "Sewing Machine Maintenance How To")
+### [Develop Android applications with Eclipse](http://www.pdf-word.net/Android-Application-Development/Develop-Android-applications-with-Eclipse.html "Develop Android applications with Eclipse")
 
-#### category [Hobbies](http://www.pdf-word.net/Hobbies-pdf-files.html "Sewing Machine Maintenance How To") » [DIY Fashions and Textiles](http://www.pdf-word.net/DIY-Fashions-and-Textiles-pdf-p-1.html "Sewing Machine Maintenance How To")
+#### category [Tutorial](http://www.pdf-word.net/Tutorial-pdf-files.html "Develop Android applications with Eclipse") » [Android Application Development](http://www.pdf-word.net/Android-Application-Development-pdf-p-1.html "Develop Android applications with Eclipse")
 
-A well made sewing machine mdash traditional or serger new or old used often or only occasionally mdash will sew perfectly for many years if it is given proper care. It may need to be adjusted or a part may need to be replaced but a sewing machine that is given proper maintenance and cleaned regularly seldom... more.
+This tutorial introduces Android application development within the Eclipse environment including the construction of two example applications. The first isa basic starter application complete with all phases of building and debugging. The second application examines more complex features of Android including contacts searching andGoogle Maps address lookup.... more.
 
-## Our Partners
+508
 
-[](http://www.onlinejobfinder.net/ "online job finder") [](http://www.autopartshouse.net/ "advance auto parts")
+### [Android Application Development and Implementation](http://www.pdf-word.net/Android-Application-Development/Android-Application-Development-and-Implementation.html "Android Application Development and Implementation")
 
-## Latest Added
+#### category [Tutorial](http://www.pdf-word.net/Tutorial-pdf-files.html "Android Application Development and Implementation") » [Android Application Development](http://www.pdf-word.net/Android-Application-Development-pdf-p-1.html "Android Application Development and Implementation")
 
-Find latest added pdf files for new topics and updates : [1](http://www.pdf-word.net/newly-added-p-1.html "PDF File Download page 1") [2](http://www.pdf-word.net/newly-added-p-2.html "PDF File Download page 2") [3](http://www.pdf-word.net/newly-added-p-3.html "PDF File Download page 3") [4](http://www.pdf-word.net/newly-added-p-4.html "PDF File Download page 4") [5](http://www.pdf-word.net/newly-added-p-5.html "PDF File Download page 5") [6](http://www.pdf-word.net/newly-added-p-6.html "PDF File Download page 6") [7](http://www.pdf-word.net/newly-added-p-7.html "PDF File Download page 7") [8](http://www.pdf-word.net/newly-added-p-8.html "PDF File Download page 8") [9](http://www.pdf-word.net/newly-added-p-9.html "PDF File Download page 9") [10](http://www.pdf-word.net/newly-added-p-10.html "PDF File Download page 10") [11](http://www.pdf-word.net/newly-added-p-11.html "PDF File Download page 11") [12](http://www.pdf-word.net/newly-added-p-12.html "PDF File Download page 12") [13](http://www.pdf-word.net/newly-added-p-13.html "PDF File Download page 13") [14](http://www.pdf-word.net/newly-added-p-14.html "PDF File Download page 14") [15](http://www.pdf-word.net/newly-added-p-15.html "PDF File Download page 15") ... and more. 
+This article will discuss the intricacies of Android application development and implementation including the Eclipse Development Environment initializing a new Android Program the steps carried out in turning a new blank canvas into a fully functional Android application and finally how to test that program and make it available to use on Android capable handsets.... more.
+
+767
+
+### [Getting Started with Android Programming](http://www.pdf-word.net/Android-Application-Development/Getting-Started-with-Android-Programming.html "Getting Started with Android Programming")
+
+#### category [Tutorial](http://www.pdf-word.net/Tutorial-pdf-files.html "Getting Started with Android Programming") » [Android Application Development](http://www.pdf-word.net/Android-Application-Development-pdf-p-1.html "Getting Started with Android Programming")
+
+Android is a mobile operating system that is based on a modifi ed version of Linux. It was originally developed by a startup of the same name Android Inc. Most of the Android code was released under the open source Apache License which means that anyone who wants to use Android can do so by downloading the full Android source code.... more.
