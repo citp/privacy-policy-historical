@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imcooked.com privacy policy that was archived on 2010-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100117085313id_/http%3A//www.imcooked.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imcooked.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101104158id_/http%3A//www.imcooked.com/privacy.php) for the most accurate reproduction.*
 
 # Im Cooked
 
