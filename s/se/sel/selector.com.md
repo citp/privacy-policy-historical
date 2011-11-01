@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628084837id_/http%3A//selector.com/au/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selector.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162940id_/http%3A//selector.com/au/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - Selector Australia
 
@@ -62,4 +62,4 @@ This policy is available upon request. It may be reviewed and updated from time 
 
 ## Privacy enquiries
 
-If you have any questions about our privacy policy, any privacy related dealings with us, enquiries concerning a possible breach of your privacy or you would like further information about our information management practices, you can contact the Manager Client Services, Architecture Media, Level 2, 2 Princes Street Port Melbourne Victoria 3207 Australia Phone: +61 3 8699 1000 or the Publisher, AGM Publishing, 409 New North Road Kingsland, Auckland 1149 New Zealand Phone: +64 9 846 4068
+If you have any questions about our privacy policy, any privacy related dealings with us, enquiries concerning a possible breach of your privacy or you would like further information about our information management practices, you can contact the Associate Publisher, Audience Development and Events, Architecture Media, Level 6, 163 Eastern Road, South Melbourne, Victoria 3205 Australia Phone: +61 3 8699 1000 or the Publisher, AGM Publishing, 409 New North Road, Kingsland, Auckland 1149 New Zealand Phone: +64 9 846 4068.
