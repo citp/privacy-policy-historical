@@ -1,524 +1,586 @@
-<!--The following is the downloaded HTML source of the gbatemp.net privacy policy that was archived on 2011-04-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110430193158id_/http%3A//gbatemp.net/d78-gbatemp-net-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gbatemp.net privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101120912id_/http%3A//gbatemp.net/d78-gbatemp-net-privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html><html xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
-		<meta name="generator" content="IPDynamic Lite">
-		<meta http-equiv="Pragma" content="no-cache">
-		<meta http-equiv="no-cache">
-		<meta http-equiv="Cache-Control" content="no-cache">
-		<link rel="alternate" type="application/rss+xml" title="GBAtemp.net RSS newsfeed" href="http://gbatemp.net/rss.php">
-		<title>GBAtemp.net -&gt; The Free Independent Video Game Community: 3DS, NDS, Wii, GBA, PSP, Hacking, Dingoo, PS3, Xbox 360...</title>
-<meta name="description" content="GBAtemp is a user friendly NDS, Wii and GBA community with millions of posts about cards and supercards, flashcarts, accessories and games for Nintendo consoles and other various topics.">
-<meta name="keywords" content="NDS, Wii, GBA, card, supercard, flashcart, accessories, games, Nintendo, console, forum, topics, posts, r4, r4i, acekard, dstwo">
+		<title>GBAtemp.net -&gt;GBAtemp.net Privacy Policy</title>
+		<link rel="shortcut icon" href="http://gbatemp.net/favicon.ico">
+		<link rel="image_src" href="http://gbatemp.net/public/style_images/v3/meta_image.png">
+		<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+		//<![CDATA[
+			jsDebug			= 0; /* Must come before JS includes */
+			USE_RTE			= 0;
+			DISABLE_AJAX	= parseInt(0); /* Disables ajax requests where text is sent to the DB; helpful for charset issues */
+			inACP			= false;
+			var isRTL		= false;
+			var rtlIe		= '';
+			var rtlFull		= '';
+		//]]>
+		</script>
+		<script type="text/javascript">
+		function FixShoutboxWidth () { return;
+			if (document.getElementById('shoutbox-shouts') == null) return;
+			var total = window.innerWidth;
+			if (total == null) total = 1280;
+			var width = Math.round(total * 0.1671875);
+			document.getElementById('shoutbox-shouts').style.width = width+'px';
+		}
+		function showNavMenu() {
+		    document.getElementById("UserNavMenu").style.opacity = '1';
+		}
+		function hideNavMenu() {
+		    if (window.pageYOffset >= 50) document.getElementById("UserNavMenu").style.opacity = '0.2';
+		}
+		window.onscroll = function(e) {
+		    if (window.pageYOffset < 50) { showNavMenu(); } else { hideNavMenu(); }
+		}
+		function toggleSearch() {
+		    var box = document.getElementById('searchbox');
+		    if (box.style.display == 'none') { box.style.display='inline'; document.getElementById('main_search').focus(); } else { box.style.display='none'; }
+		    return false;
+		}
+		</script>
+		
+	
+				
+	
 
-		<!---->
-<link rel="stylesheet" type="text/css" href="http://gbatemp.net/jscripts/highslide.css">
+				
+	
 
-<script type="text/javascript">
-var selectedTab = "all";
+				
+	
 
+				
+	
 
-function showReleases(reltype, obj) {
-  
-  tabOut(selectedTab,1);
-  selectedTab = obj;
-  tabHover(selectedTab);
+				
+	
 
-  document.getElementById('relnewstable').style.display = 'none';
-  document.getElementById('relnewsimg').style.display = 'block';
-  var count = document.getElementById('newscount').value;
+				
+	
+	
+		<link rel="stylesheet" type="text/css" media="screen,print" href="http://gbatemp.net/public/min/index.php?ipbv=32005&amp;f=public/style_css/css_3/ipb_help.css,public/style_css/css_3/calendar_select.css,public/style_css/css_3/ipb_common.css,public/style_css/css_3/ipb_styles.css,public/style_css/css_3/ipshoutbox.css,public/style_css/prettify.css">
+	
 
-  var url = 'index.php';
-  var pars = 'act=ajax_releases&type='+reltype+'&count='+count;
-  var target = 'relnews';
-  var myAjax = new Ajax.Updater(target, url, {method: 'get', parameters: pars});
-
-  showReleaseContent(reltype, -1);
-}
-
-function showReleaseContent(reltype, tid) {
-
-  if (document.getElementById('relimg') != null)
-    document.getElementById('relimg').style.display = 'block';
-
-  var url = 'index.php';
-  var pars = 'act=ajax_releases&type='+reltype+'&count='+tid;
-  var target = 'relcon';
-  var myAjax = new Ajax.Updater(target, url, {method: 'get', parameters: pars});
-}
-
-
-</script>
-		<style type="text/css" media="all">
-
-@import url(http://gbatemp.net/style_images/css_7.css);
-
-</style>
-
-<link rel="stylesheet" type="text/css" href="http://gbatemp.net/style_images/2/graphics.css">
-
-<style type="text/css">
-.tabnews, .tabside, .tabsep {
-  height: 30px;
-  border-bottom: 1px solid #CDD0D4;
-  text-align: center;
-}
-.tabside {
-  width: 10%;
-}
-.tabnews {
-  width: 15%;
-  background: #D8DBDD;
-  border-top: 1px solid #415464;
-  border-left: 1px solid #415464;
-  border-right: 1px solid #415464;
-  cursor: pointer;
-  line-height: 30px;
-  color: #2C455B;
-  font-weight: bold;
-  font-size: 11px;
-}
-.w2 {
-  width: 10%;
-}
-.tabsep {
-  width: 1px;
-  font-size: 8px;
-}
-.tabsel {
-  border-top: 2px solid #DF7D02;
-  border-left: 2px solid #DF7D02;
-  border-right: 2px solid #DF7D02;
-  border-bottom: 1px solid #F2F2F2;
-  background: #F2F2F2;
-}
-
-.top4 {
-  width: 25%;
-  height: 100px;
-  border-right: 1px solid white;
-  cursor: pointer;
-  padding: 0;
-  text-align: center;
-}
-.top4sep {
-  width: 1px;
-  font-size: 8px;
-  display: none;
-}
-.top4a {
-  display: block;
-  vertical-align: top;
-  height: 100px;
-  background: url('http://gbatemp.net/images/headline_bg.png') repeat-x top !important;
-  color: white !important;
-  line-height: 12px;
-  font-size: 12px;
-  text-align: left;
-}
-.nodi {
-  font-size: 8px;
-  color: #254868;
-  margin: 0;
-  border: 0;
-  width: 100px;
-  height: 8px;
-  display: block;
-  overflow-x: hidden;
-  overflow-y: hidden;
-}
-</style>
-
-<script language="javascript">
-
-var imgWait = new Image;
-imgWait.src = 'html/lp/wait.gif';
-
-
-			function FixShoutboxWidth () {
-				if (document.getElementById('shoutbox') == null) return;
-				var total = window.innerWidth;
-				if (total == null) total = 1024;
-				var width = Math.round(total * 0.19) - 20;
-				document.getElementById('shoutbox').style.width = width+'px';
-			}
-
-
-function showNews(newsbox,newsid,ntype) {
-  document.getElementById(newsbox+'img').width = 14;
-  document.getElementById(newsbox+'img').height = 14;
-  document.getElementById(newsbox+'img').src = 'html/lp/wait.gif';
-
-
-  var url = 'index.php';
-  
-  var pars = 'aj=1&disp=hdr&tp='+ntype+'&id='+newsid;
-  var target = newsbox+'hdr';
-  var myAjax = new Ajax.Updater(target, url, {method: 'get', parameters: pars});
-
-  pars = 'aj=1&disp=con&tp='+ntype+'&id='+newsid;
-  target = newsbox+'con';
-  var myAjax = new Ajax.Updater(target, url, {method: 'get', parameters: pars});
-}
-
-
-function ss() {
-  var gamenb = 0;
-  gamenb = document.getElementById('game').value;
-  var curpage = '';
-  curpage = document.getElementById('page').value;
-  
-  var skinid = 1;
-  skinid = document.getElementById('skinid').value;
-
-  document.getElementById('info').src= 'http://gbatemp.net/gonline/'+curpage+'.php?nb='+gamenb+'&skin='+skinid;
-}
-
-var oldobj = null;
-var curshow = 0;
-
-function UpdateDiscussions(what, obj) {
-  var imgWait = document.getElementById('waitlast10');
-
-  if (imgWait != null)
-    imgWait.style.display = 'block';
-  var myAjax = new Ajax.Updater('last10', 'index.php?act=last10&show='+what, {method: 'get', parameters: ''});
-  
-  if (oldobj == null)
-    oldobj = document.getElementById('imgPosts');
-
-
-  if (obj != null) {
-    if (oldobj != null)
-      oldobj.style.borderBottom = '0';
-
-    obj.style.borderBottom = '1px solid #FF9900';
-    oldobj = obj;
-    curshow = what;
-  }
-
-}
-
-</script>
-<link rel="alternate" type="application/rss+xml" title="GBAtemp - Latest news and releases" href="/rss.php">
-<!--<link rel="alternate" type="application/rss+xml" 
-  title="GBAtemp - Latest discussions" 
-  href="/rss-topics.php">
-<link href="/up/cnet.css" rel="stylesheet" type="text/css" />-->
-
-<!--[if gte IE 5.5000]>
-<script type="text/javascript" src="pngfix.js"></script>
+<!--[if lte IE 7]>
+	<link rel="stylesheet" type="text/css" title='Main' media="screen" href="http://gbatemp.net/public/style_css/css_3/ipb_ie.css" />
+<![endif]-->
+<!--[if lte IE 8]>
+	<style type='text/css'>
+		.ipb_table { table-layout: fixed; }
+		.ipsLayout_content { width: 99.5%; }
+	</style>
 <![endif]-->
 
-	</head>
+	<style type="text/css">
+		img.bbc_img { max-width: 100% !important; }
+	</style>
 
-	<body onload="javascript: FixShoutboxWidth();">
 
-<!--ipb.javascript.start-->
-<script type="text/javascript">
- //<![CDATA[
- var ipb_var_st            = "0";
- var ipb_lang_tpl_q1       = "Please enter a page number to jump to between 1 and";
- var ipb_var_s             = "5111a50479415c2d9268a785b38ef6ef";
- var ipb_var_phpext        = "php";
- var ipb_var_base_url      = "http://gbatemp.net/index.php?s=5111a50479415c2d9268a785b38ef6ef&";
- var ipb_var_image_url     = "http://gbatemp.net/style_images/2";
- var ipb_input_f           = "0";
- var ipb_input_t           = "0";
- var ipb_input_p           = "0";
- var ipb_var_cookieid      = "v3";
- var ipb_var_cookie_domain = ".gbatemp.net";
- var ipb_var_cookie_path   = "/";
- var ipb_md5_check         = "880ea6a14ea49e853634fbdc5015a024";
- var ipb_new_msgs          = "";
- var use_enhanced_js       = 1; //0;
- var use_charset           = "iso-8859-1";
- var ipb_myass_chars_lang  = "Not enough characters";
- var ajax_load_msg		   = "Loading Content...";
- //]]>
-</script>
 
-<script src="http://gbatemp.net/jscripts/alljs_portal_mini_2.js"></script>
+	
+		<meta name="identifier-url" content="http://gbatemp.net/d78-gbatemp-net-privacy-policy">
+		
+			<meta name="og:url" content="http://gbatemp.net/d78-gbatemp-net-privacy-policy">
+		
+	
 
-<script type="text/javascript">
-    hs.graphicsDir = 'http://gbatemp.net/jscripts/graphics/';
-    hs.outlineType = 'rounded-white';
-//<![CDATA[
-var ipsclass = new ipsclass();
-ipsclass.init();
-ipsclass.settings['do_linked_resize'] = parseInt( "1" );
-ipsclass.settings['resize_percent']   = parseInt( "50" );
-//]]>
-</script>
-<!--ipb.javascript.end-->
+		<meta property="og:title" content="GBAtemp.net -&amp;gt;GBAtemp.net Privacy Policy">
+		<meta property="og:site_name" content="GBAtemp.net">
+		<meta property="og:image" content="http://gbatemp.net/public/style_images/v3/meta_image.png">
+		<meta property="og:type" content="article">
+		
+		
+		
+		<script type="text/javascript" src="http://gbatemp.net/public/min/index.php?ipbv=32005&amp;g=js"></script>
+	
+	<script type="text/javascript" src="http://gbatemp.net/public/min/index.php?ipbv=32005&amp;charset=iso-8859-1&amp;f=public/js/ipb.js,cache/lang_cache/1/ipb.lang.js,public/js/ips.hovercard.js,public/js/ips.quickpm.js" charset="iso-8859-1"></script>
 
-<!--
+	
+		
+			
+			
+			
+			
+							<meta name="description" content="GBAtemp is a user friendly underground video game community with millions of posts about 3DS and Nintendo DS, PSP and PS Vita, consoles, cards and supercards, flashcarts, accessories and games for all consoles and other various topics.">
+			<meta name="keywords" content="3DS, NDS, Wii, GBA, card, supercard, flashcart, accessories, games, Nintendo, iphone, sony, psvita, console, forum, topics, posts, r4, r4i, acekard, dstwo">
+
+			
+		
+	
+
+		
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="GBAtemp.net Blogs RSS feed" href="http://gbatemp.net/index.php?app=core&amp;module=global&amp;section=rss&amp;type=blog">
+			
+			
+			
+		
+
+			
+			
+				<link rel="alternate" type="application/rss+xml" title="Community Calendar" href="http://gbatemp.net/index.php?app=core&amp;module=global&amp;section=rss&amp;type=calendar&amp;id=1">
+			
+			
+			
+		
+	
+
+	
+
+
+		
 		<script type="text/javascript">
+	//<![CDATA[
+		/* ---- URLs ---- */
+		ipb.vars['base_url'] 			= 'http://gbatemp.net/index.php?s=alexa=174129237157_session&';
+		ipb.vars['board_url']			= 'http://gbatemp.net';
+		ipb.vars['img_url'] 			= "http://gbatemp.net/public/style_images/v3";
+		ipb.vars['loading_img'] 		= 'http://gbatemp.net/public/style_images/v3/loading.gif';
+		ipb.vars['active_app']			= 'portal';
+		ipb.vars['upload_url']			= 'http://gbatemp.net/uploads';
+		/* ---- Member ---- */
+		ipb.vars['member_id']			= parseInt( 0 );
+		ipb.vars['is_supmod']			= parseInt( 0 );
+		ipb.vars['is_admin']			= parseInt( 0 );
+		ipb.vars['secure_hash'] 		= 'bb2fe024f8a71424996db6d9af08c1fc';
+		ipb.vars['session_id']			= 'alexa=174129237157_session';
+		ipb.vars['twitter_id']			= 0;
+		ipb.vars['fb_uid']				= 0;
+		ipb.vars['auto_dst']			= parseInt(  );
+		ipb.vars['dst_in_use']			= parseInt(  );
+		ipb.vars['is_touch']			= false;
+		ipb.vars['member_group']		= {"g_mem_info":"1"}
+		/* ---- cookies ----- */
+		ipb.vars['cookie_id'] 			= 'v3';
+		ipb.vars['cookie_domain'] 		= '.gbatemp.net';
+		ipb.vars['cookie_path']			= '/';
+		/* ---- Rate imgs ---- */
+		ipb.vars['rate_img_on']			= 'http://gbatemp.net/public/style_images/v3/star.png';
+		ipb.vars['rate_img_off']		= 'http://gbatemp.net/public/style_images/v3/star_off.png';
+		ipb.vars['rate_img_rated']		= 'http://gbatemp.net/public/style_images/v3/star_rated.png';
+		/* ---- Uploads ---- */
+		ipb.vars['swfupload_swf']		= 'http://gbatemp.net/public/js/3rd_party/swfupload/swfupload.swf';
+		ipb.vars['swfupload_enabled']	= true;
+		ipb.vars['use_swf_upload']		= ( '' == 'flash' ) ? true : false;
+		ipb.vars['swfupload_debug']		= false;
+		/* ---- other ---- */
+		ipb.vars['highlight_color']     = "#ade57a";
+		ipb.vars['charset']				= "iso-8859-1";
+		ipb.vars['seo_enabled']			= 1;
+		
+		ipb.vars['seo_params']			= {"start":"-","end":"\/","varBlock":"\/page__","varSep":"__"};
+		
+		/* Templates/Language */
+		ipb.templates['inlineMsg']		= "";
+		ipb.templates['ajax_loading'] 	= "<div id='ajax_loading'><img src='http://gbatemp.net/public/style_images/v3/ajax_loading.gif' alt='" + ipb.lang['loading'] + "' /></div>";
+		ipb.templates['close_popup']	= "<img src='http://gbatemp.net/public/style_images/v3/close_popup.png' alt='x' />";
+		ipb.templates['rss_shell']		= new Template("<ul id='rss_menu' class='ipbmenu_content'>#{items}</ul>");
+		ipb.templates['rss_item']		= new Template("<li><a href='#{url}' title='#{title}'>#{title}</a></li>");
+		ipb.templates['m_add_friend']	= new Template("<a href='http://gbatemp.net/index.php?app=members&amp;module=profile&amp;section=friends&amp;do=add&amp;member_id=#{id}' title='Add as Friend' class='ipsButton_secondary'><img src='http://gbatemp.net/public/style_images/v3/user_add.png' alt='Add as Friend' /></a>");
+		ipb.templates['m_rem_friend']	= new Template("<a href='http://gbatemp.net/index.php?app=members&amp;module=profile&amp;section=friends&amp;do=remove&amp;member_id=#{id}' title='Remove Friend' class='ipsButton_secondary'><img src='http://gbatemp.net/public/style_images/v3/user_delete.png' alt='Remove Friend' /></a>");
+		ipb.templates['autocomplete_wrap'] = new Template("<ul id='#{id}' class='ipb_autocomplete' style='width: 250px;'></ul>");
+		ipb.templates['autocomplete_item'] = new Template("<li id='#{id}' data-url='#{url}'><img src='#{img}' alt='' class='ipsUserPhoto ipsUserPhoto_mini' />&nbsp;&nbsp;#{itemvalue}</li>");
+		ipb.templates['page_jump']		= new Template("<div id='#{id}_wrap' class='ipbmenu_content'><h3 class='bar'>Jump to page</h3><p class='ipsPad'><input type='text' class='input_text' id='#{id}_input' size='8' /> <input type='submit' value='Go' class='input_submit add_folder' id='#{id}_submit' /></p></div>");
+		ipb.templates['global_notify'] 	= new Template("<div class='popupWrapper'><div class='popupInner'><div class='ipsPad'>#{message} #{close}</div></div></div>");
+		
+		
+		ipb.templates['header_menu'] 	= new Template("<div id='#{id}' class='ipsHeaderMenu boxShadow'></div>");
+		
+		Loader.boot();
+	//]]>
+	</script><script type="text/javascript">var usingOld = false;</script>
+		
+	<script type="text/javascript">
 
-		 var ipb_var_st       = "0";
-		 var ipb_lang_tpl_q1  = "Please enter a page number to jump to between 1 and";
-		 var ipb_var_s        = "5111a50479415c2d9268a785b38ef6ef";
-		 var ipb_var_phpext   = "php";
-		 var ipb_var_base_url = "";
-		 var ipb_input_f      = "0";
-		 var ipb_input_t      = "0";
-		 var ipb_input_p      = "0";
-		 var ipb_var_cookieid = "v3";
-		 
-		</script>
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-2061983-1']);
+  _gaq.push(['_trackPageview']);
 
-		<script type="text/javascript" src="http://gbatemp.net/jscripts/ipb_global.js"></script>
--->
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
 
-<div id="get-myassistant" style="display:none;width:400px;text-align:left;">
-<div class="borderwrap" id="myass-drag" title="Click and hold to drag this window">
-
-<!--TABLETOP--><table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-<td class="nopad cssimg sprite-myasst_crnr_l">
-<img src="up/blank.gif" width="14" height="24"></td>
-<td width="100%" class="pboxtop">
-
-  <div style="float:right"><a href="#" onclick="document.getElementById(&quot;get-myassistant&quot;).style.display=&quot;none&quot;"><img src="http://gbatemp.net/up/myasst_close.png" border="0"></a></div>
-  <div>My Assistant</div>
-
-</td>
-<td class="nopad cssimg sprite-myasst_crnr_r"><img src="up/blank.gif" width="14" height="24"></td></tr></tbody></table><!--/TABLETOP-->
-
-
- <div id="myass-content" style="overflow-x:auto;"></div>
-
-
-<!--TABLEBTM--><table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0"><tbody><tr><td class="nopad cssimg sprite-myasst_bcrnr_l">
-<img src="up/blank.gif" width="14" height="15"></td>
-<td width="100%" class="pboxbottom"><img src="http://gbatemp.net/up/blank.gif"></td>
-<td class="nopad cssimg sprite-myasst_bcrnr_r"><img src="up/blank.gif" width="14" height="15"></td></tr></tbody></table><!--TABLEBTM-->
-
-
- </div>
-</div>
-
-
-<!-- Loading Layer -->
-<div id="loading-layer" style="display:none">
-	<div id="loading-layer-shadow">
-	   <div id="loading-layer-inner">
-	 	<img src="http://gbatemp.net/style_images/2/loading_anim.gif" border="0" alt="Loading. Please Wait...">
-		<span style="font-weight:bold" id="loading-layer-text">Loading. Please Wait...</span>
-	    </div>
-	</div>
-</div>
-<!-- / Loading Layer -->
-
-
+</script></head>
+	<body id="ipboard_body" onload="javascript:FixShoutboxWidth();" onresize="javascript:FixShoutboxWidth();">
+		<p id="content_jump" class="hide"><a id="top"></a><a href="#j_content" title="Jump to content" accesskey="m">Jump to content</a></p>
 		<div id="ipbwrapper">
-			<!--Header-->
-			<div class="borderwrap">
+			<!-- ::: TOP BAR: Sign in / register or user drop down and notification alerts ::: -->
+			<div id="header_bar" class="clearfix" style="display:none;">
+				<div class="main_width"></div>
+			</div>
+			<!-- ::: BRANDING STRIP: Logo and Search::: -->
+			<div id="branding">
+				<div class="main_width">
 
+					<div style="position: fixed; right: 0px; top: 0px; z-index:1000;">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="logostrip" style="text-align: center;">
-<!--ipb.logo.start-->
-<map name="logolinks">
-<area href="http://gbatemp.net/i-home" shape="polygon" coords="0, 1, 0, 103, 780, 103, 780, 35, 479, 35, 510, 0" target="_self">
-<area href="http://gbatemp.net/index.php?showforum=32" shape="polygon" coords="493, 28, 518, 4, 593, 4, 569, 28" target="_self">
-<area href="http://gbatemp.net/index.php?showforum=37" shape="polygon" coords="587, 28, 610, 4, 684, 4, 661, 28" target="_self">
-<area href="http://gbatemp.net/index.php?showforum=104" shape="polygon" coords="677, 28, 701, 4, 775, 4, 752, 28" target="_self">
-</map>
-<img src="http://gbatemp.net/style_images/2/logo4.gif" style="vertical-align:top" alt="GBAtemp.net logo" border="0" usemap="#logolinks"><!--ipb.logo.end-->
-</div>
-
-<div id="subheader"></div>
-
-
-<div id="subheader2">
-<map name="glinks">
-<area shape="rect" coords="0, 0, 81, 25" href="i-home">
-<area shape="rect" coords="84, 0, 181, 25" href="i-idx">
-<area shape="rect" coords="184, 0, 289, 25" href="d8-gbatemp-review-portal">
-<area shape="rect" coords="292, 0, 387, 25" href="http://shoptemp.net" title="ShopTemp.net :: Video Game Accessories Online Price Comparator and Reseller Ratings">
-<area shape="rect" coords="390, 0, 508, 25" href="i-downloads">
-<area shape="rect" coords="511, 0, 626, 25" href="/newgon/">
-<area shape="rect" coords="629, 0, 709, 25" href="http://wiki.gbatemp.net">
-<area shape="rect" coords="712, 0, 807, 25" href="i-search">
-</map>
-<img src="images/bannernew.gif" style="vertical-align:top; horizontal-align: center;" alt="GBAtemp.net navigation bar" border="0" usemap="#glinks">
-</div>
-
-<div id="subheader3"><img src="up/blank.gif"></div>
-
-<div id="subheader4">
-
-<div style="float: left;">
-<b>Welcome Guest</b> ( <a href="http://gbatemp.net/index.php?s=5111a50479415c2d9268a785b38ef6ef&amp;act=Login&amp;CODE=00">Log In</a> | <a href="http://gbatemp.net/index.php?s=5111a50479415c2d9268a785b38ef6ef&amp;act=Reg&amp;CODE=00">Register</a> )
-&nbsp;·&nbsp;
-
-
-
-<a href="i-boardrules" style="font-weight: bold;">Forum rules</a>&nbsp;·&nbsp;<a href="d48-gbatemp-site-index"><b>Site Index</b></a>
-
-</div>
-
-
-	<div style="text-align: right;">
-
-
-
-
-
-
-
-</div>
+					<div id="user_navigation" class="not_logged_in">
+							
+							<ul class="ipsList_inline right" id="UserNavMenu">
+								<li>
+									<span class="services">
+										
+											<a href="http://gbatemp.net/index.php?app=core&amp;module=global&amp;section=login&amp;serviceClick=facebook"><img src="http://gbatemp.net/public/style_images/v3/loginmethods/facebook.png" alt="Log in with Facebook"></a>
+										
+										
+										
+										
+									</span>
+									&nbsp;&nbsp;&nbsp;&nbsp;
+									<a href="http://gbatemp.net/index.php?app=core&amp;module=global&amp;section=login" title="Sign In" id="sign_in">Sign In</a>&nbsp;&nbsp;&nbsp;
+								</li>
+								<li>
+									<a href="http://gbatemp.net/index.php?app=core&amp;module=global&amp;section=register" title="Create Account" id="register_link">Create Account</a>
+								</li>
+							</ul>
+						</div>
 
 </div>
 
 
 
-</div>
 
-			<!--End Header-->
+					<div id="logo">
+						<map name="logolinks">
+							<area shape="poly" coords="0,0,1,102,796,102,797,1,750,2,726,32,464,30,489,1," href="http://gbatemp.net" alt="GBAtemp home page" title="GBAtemp home page">
+							<area shape="poly" coords="468,29,493,4,565,6,541,27," href="http://gbatemp.net/forum/37-nintendo-ds-discussions/" alt="Nintendo DS" title="Nintendo DS">
+							<area shape="poly" coords="559,28,585,5,656,6,634,29," href="http://gbatemp.net/forum/225-microsoft-xbox-360-discussions/" alt="Microsoft Xbox" title="Microsoft Xbox">
+							<area shape="poly" coords="651,29,674,6,746,7,726,29," href="http://gbatemp.net/forum/218-sony-playstation-3-discussions/" alt="Sony PlayStation 3" title="Sony PlayStation 3">
+						</map>
+						
+							<img src="http://gbatemp.net/public/style_images/v3/newerlogo.png" alt="Logo" usemap="#logolinks">
+						
+					</div>
+				</div>
+			</div>
 
-			<!--Main Content-->
-<div id="navstrip">&nbsp;<img src="http://gbatemp.net/style_images/2/nav.gif" border="0" alt=">">&nbsp;<a href="http://gbatemp.net/i-idx" style="text-decoration: none;">GBAtemp Forum</a> -&gt; <!--BEGIN.NAV--><a href="http://gbatemp.net/" style="text-decoration: none;">Portal</a> <a href="http://gbatemp.net/index.php?act=UserCP&amp;CODE=1337" title="Click here to customize GBAtemp portal options" style="text-decoration: none; color:#678B9B;"><sup>(customize)</sup></a><!--END.NAV--></div>
+			<!-- ::: APPLICATION TABS ::: -->
+			<div id="primary_nav" class="clearfix" style="border-top: 1px solid #F77B00;">
+				<div class="main_width" style="text-align: center;">
+					<ul class="ipsList_inline" id="community_app_menu">
+						<li id="nav_home" class="active"><a href="http://gbatemp.net/" title="Homepage" rel="home">Home</a></li>
+																								<li id="nav_discussion" class=""><a href="http://gbatemp.net/index" title="Go to Forums">Forums</a></li>
+						
+							
+								
+							
+
+								
+							
+
+								
+																		<li id="nav_app_blog" class=""><a href="http://gbatemp.net/blogs/" title="Go to Blogs">Blogs</a></li>
+								
+							
+
+								
+																		<li id="nav_app_gallery" class=""><a href="http://gbatemp.net/gallery/" title="Go to Gallery">Gallery</a></li>
+								
+							
+
+								
+																		<li id="nav_app_ask" class=""><a href="http://gbatemp.net/index.php?app=ask" title="Go to Ask!">Ask!</a></li>
+								
+							
+						
+						<li id="nav_shop">
+							<a title="Check out our complete list of hardware and software reviews" href="/d8-gbatemp-review-portal" class="ipbmenu" id="shop_menu">Reviews</a>
+						</li>
+						<li id="nav_shop">
+							<a title="Check out our massive list of tutorials written by the community" href="/d82-gbatemp-tutorials-and-guides" class="ipbmenu" id="shop_menu">Tutorials</a>
+						</li>
+						<li id="nav_download">
+							<a title="FileTrip - GBAtemp download center" href="http://filetrip.net/" class="ipbmenu" id="downloads_menu">Downloads</a>
+						</li>
+						<li id="nav_wiki">
+							<a title="WikiTemp - The GBAtemp wiki!" href="http://wiki.gbatemp.net/" class="ipbmenu" id="wiki_menu">Wiki</a>
+						</li>
+						<li id="nav_other_apps" style="display: none">
+							<a href="#" class="ipbmenu" id="more_apps">More <img src="http://gbatemp.net/public/style_images/v3/useropts_arrow.png"></a>
+						</li>
+						
+							<li>
+								<a href="http://gbatemp.net/index.php?app=core&amp;module=global&amp;section=navigation&amp;inapp=portal" rel="quickNavigation" accesskey="9" id="quickNavLaunch" title="Open Quick Navigation"><span>&nbsp;</span></a>
+							</li>
+						
+					</ul>
+				</div>
+				<script type="text/javascript">
+					if( $('primary_nav') ){	ipb.global.activateMainMenu(); }
+				</script>
+			</div>
+
+
+
+
+
+<div id="header4" class="clearfix">
+				<div class="main_width">
+					<!-- Right list (Control panels) -->
+					<ul class="right">
+						
+						
+						<li id="nav_explore">
+						<a title="What's happening on the site?" href="http://gbatemp.net/index.php?app=core&amp;module=search&amp;do=viewNewContent&amp;search_app=forums" accesskey="2">View New Content</a>
+						</li>
+					</ul>
+					<!-- Left bar with rules & site index -->
+					<ul class="left">
+						<li class="ipsType_smaller">
+								<a title="View the forum rules" href="http://gbatemp.net/index.php?app=forums&amp;module=extras&amp;section=boardrules">Forum Rules</a> · 
+							</li>
+						<li><a title="GBAtemp site features index" href="/d48-gbatemp-site-index">Site Index</a></li>
+
+
+<li> · 
+<a href="/calendar" title="Open up the Community Calendar">Calendar</a><img src="http://gbatemp.net/images/new.gif" alt="">
+</li>
+
+<noscript><li> &middot; <a href="http://gbatemp.net/index.php?app=core&amp;module=global&amp;section=login&amp;do=logout&amp;k=bb2fe024f8a71424996db6d9af08c1fc">Sign Out</a></li></noscript>
+					</ul>
+				</div>
+			</div>
+			
+			<!-- ::: MAIN CONTENT AREA ::: -->
+			<div id="content">
+				<!-- ::: NAVIGATION BREADCRUMBS ::: -->
+				<div id="secondary_navigation" class="clearfix" style="line-height:20px;">
+						<img src="http://gbatemp.net/public/style_images/v3/nav.png" alt=">" style="float:left;">
+						<ol class="breadcrumb top ipsList_inline left">
+														<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+									<a href="http://gbatemp.net/index" itemprop="url">
+										<span itemprop="title">GBAtemp.net</span>
+									</a>
+								</li>
+								
+							
+								<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+									<span class="nav_sep">→</span>
+									 <a href="/d78-gbatemp-net-privacy-policy" title="Return to GBAtemp.net Privacy Policy" itemprop="url"><span itemprop="title">GBAtemp.net Privacy Policy</span></a>
+								</li>
+								
+							
+
+								<li itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+									<span class="nav_sep">→</span>
+									 <a href="http://gbatemp.net/portal/" title="Return to Portal" itemprop="url"><span itemprop="title">Portal</span></a>
+								</li>
+								
+							
+						</ol>
+					</div>
+				<!-- ::: CONTENT ::: -->
+				
+				<script>
+function UpdateDiscussions(what, obj) {
+  var myAjax = new Ajax.Updater('last10', '/m-portal?action=last10&what='+what, {method: 'get', parameters: ''});
+  
+  if (document.getElementById(oldobj) != null && obj != null)
+    document.getElementById(oldobj).className = 'blocktop2';
+  if (obj != null) {
+    obj.className = 'blocktop2 tabselected';
+    oldobj = obj.id;
+    curshow = what;
+    setCookie('v3lpbtab',oldobj,365);
+  }
+}
+
+</script>
+
+
+
+
+
+<div class="ipsLayout ipsLayout_content clearfix">
 
 <center>
-<table cellspacing="0" style="width: 99%;">
+<table cellspacing="0" style="width: 100%;">
 				<tbody><tr>
 
-					
-					<td width="19%" class="nopad" valign="top">
+<td width="19%" valign="top" style="text-align: left;" align="left">
+	<table class="blocktop box_top">
+		<tbody>
+			<tr>
+				<td class="nopad box_topleft"></td>
+				<td class="box_title">Site Navigation</td>
+			</tr>
+		</tbody>
+	</table>
 
+	<div class="ipsSideBlock">
+        <h3 style="display:none;">Site Navigation</h3>
+	<ul>
+		
+			<li>· <a href="/d48-gbatemp-site-index"><b>Site Features Index</b></a></li>		
+		
 
-<br>
-<div class="borderwrap">
+			<li>· <a href="/index">Forum Index</a></li>		
+		
 
-<!--TABLETOP-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_tlcnr"><img src="up/blank.gif" width="14" height="24"></td>
-		<td width="100%" class="pboxtop"><img src="http://gbatemp.net/style_images/2/nav_m.gif" border="0" alt=">" width="8" height="8">&nbsp;Site Navigation</td>
-		<td width="0%" class="nopad cssimg sprite-pbox_s_trcnr"><img src="up/blank.gif" width="14" height="24"></td>
-	</tr>
-</tbody></table>
-<!--/TABLETOP-->
+			<li>· <a href="/d62-gbatemp-chatroom">Chatroom</a></li>		
+		
 
-  <div class="tablepad" style="	border-left: 1px solid #A0A5A9; border-right: 1px solid #A0A5A9;">
-    · <a href="d48-gbatemp-site-index"><b>Site Features Index</b></a><br>· <a href="i-idx">Forum Index</a><br>· <a href="http://ask.gbatemp.net">Ask GBAtemp!</a><img src="http://gbatemp.net/images/new.gif" alt="(new!)"><a href=""></a><br>· <a href="http://blogs.gbatemp.net">Blogging Service</a><br>· <a href="d62-gbatemp-chatroom">Chatroom</a><br>· <a href="d49-contact-us">Contact Us</a><br>· <a href="http://filetrip.net">Downloads</a><br>· <a href="m-fcdb">Friend Code Database</a><br>· <a href="i-help">Help</a><br>· <a href="i-members">Member List</a><br>· <a href="d47-tempcast-the-gbatemp-podcast">Podcast</a><br>· <a href="/newgon/">Release Lists</a><br>· <a href="t23825-rss-news-feed-is-back-1-new-feed">RSS Feeds</a><br>· <a href="i-search">Search</a><br>· <a href="http://shoptemp.net/">ShopTemp Marketplace</a><img src="http://gbatemp.net/images/new.gif" alt="(new!)"><a href=""></a><br>· <a href="m-postnews">Submit News</a><br>· <a href="m-rmc">Submit Scene Release</a><br>· <a href="m-top">Top-Rated Releases</a><br>· <a href="f157-gbatemp-trading-forum">Trading Forum</a><br>· <a href="http://twitter.com/GBAtemp">GBAtemp <img src="http://gbatemp.net/up/twitter_11x11.png" border="0" width="11" height="11">Twitter</a><br>· <a href="http://twitter.com/ShopTemp">ShopTemp <img src="http://gbatemp.net/up/twitter_11x11.png" border="0" width="11" height="11">Twitter</a><br>· <a href="http://wiki.gbatemp.net">Wiki</a><br>· <a href="http://www.youtube.com/user/GBAtempDotNet">Youtube channel</a><br>
-  </div>
+			<li>· <a href="/d49-contact-us">Contact Us</a></li>		
+		
 
-<!--TABLEBTM-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_blcnr"><img src="up/blank.gif" width="14" height="15"></td>
-		<td width="100%" class="pboxbottom"><img src="http://gbatemp.net/up/blank.gif"></td>
-		<td class="nopad cssimg sprite-pbox_s_brcnr"><img src="up/blank.gif" width="14" height="15"></td>
-	</tr>
-</tbody></table>
-<!--TABLEBTM-->
+			<li>· <a href="/m-fcdb">Friend Code Database</a></li>		
+		
 
+			<li>· <a href="/members/">Member List</a></li>		
+		
+
+			<li>· <a href="/d81-gbatemp-partner-sites">Partner Sites</a></li>		
+		
+
+			<li>· <a href="/d47-tempcast-the-gbatemp-podcast">Podcast</a></li>		
+		
+
+			<li>· <a href="/newgon/">Release Lists</a></li>		
+		
+
+			<li>· <a href="/t23825-rss-news-feed-is-back-1-new-feed">RSS Feeds</a></li>		
+		
+
+			<li>· <a href="http://shoptemp.net/">ShopTemp Marketplace</a></li>		
+		
+
+			<li>· <a href="/shoutbox">Shoutbox</a></li>		
+		
+
+			<li>· <a href="/m-rmc">Submit Scene Release</a></li>		
+		
+
+			<li>· <a href="/f157-gbatemp-trading-forum">Trading Forum</a></li>		
+		
+
+			<li>· <a href="http://twitter.com/GBAtemp">GBAtemp <img src="http://gbatemp.net/up/twitter_11x11.png" border="0" width="11" height="11">Twitter</a></li>		
+		
+
+			<li>· <a href="http://www.youtube.com/user/GBAtempDotNet">Youtube channel</a></li>		
+		
+
+			<li>· <a href="/m-ws">Workspace</a></li>		
+		
+	</ul>
 </div>
 
-<br>
-<div class="borderwrap">
-
-<!--TABLETOP-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_tlcnr"><img src="up/blank.gif" width="14" height="24"></td>
-		<td width="100%" class="pboxtop"><img src="http://gbatemp.net/style_images/2/nav_m.gif">&nbsp;GBAtemp Articles</td>
-		<td width="0%" class="nopad cssimg sprite-pbox_s_trcnr"><img src="up/blank.gif" width="14" height="24"></td>
-	</tr>
-</tbody></table>
-<!--/TABLETOP-->
 
 
-  <div class="tablepad" style="	border-left: 1px solid #A0A5A9; border-right: 1px solid #A0A5A9;  ">
+	<div class="blocktop2">GBAtemp Articles</div>
+
+	<div class="ipsSideBlock">
+    <h3 style="display:none;">GBAtemp Articles</h3>
     <a target="_self" href="http://gbatemp.net/d8-gbatemp-review-portal"><b>Reviews</b></a><br>
 
-· <a title="NEO Sega Master System Myth Cart Review" href="http://gbatemp.net/t289214-neo-sms-myth-cart-review">NEO SMS Myth Cart Review</a><img border="0" src="http://gbatemp.net/images/new.gif"><br>
-
-· <a title="CycloDS iEvolution Review" href="http://gbatemp.net/t279940-cyclods-ievolution-review">CycloDS iEvolution Review</a><img border="0" src="http://gbatemp.net/images/new.gif"><br>
+· <a title="X360dock review by Devin" href="http://gbatemp.net/topic/312532-x360dock-review/">X360dock Review</a><img src="http://gbatemp.net/images/new.gif" alt="New!"><br>
 
 
-· <a title="Gemei Tech A330 Review" href="http://gbatemp.net/t277717-gemei-tech-a330-review">Gemei Tech A330 Review</a><img border="0" src="http://gbatemp.net/images/new.gif"><br>
+· <a title="R4i Gold (3DS Compatible) Review by Rydian" href="http://gbatemp.net/t293386-r4i-gold-3ds-compatible-review">R4i Gold 3DS Review</a><br>
+
+· <a title="NEO Sega Master System Myth Cart Review" href="http://gbatemp.net/t289214-neo-sms-myth-cart-review">NEO SMS Myth Cart Review</a><br>
+
+· <a title="CycloDS iEvolution Review" href="http://gbatemp.net/t279940-cyclods-ievolution-review">CycloDS iEvolution Review</a><br>
+
+· <a title="Gemei Tech A330 Review" href="http://gbatemp.net/t277717-gemei-tech-a330-review">Gemei Tech A330 Review</a><br>
 
 · <a title="NEO2 Pro N64 Flashart Review" href="http://gbatemp.net/t273015-neo2-pro-1024m-flash-cart-sl4-sd-card-adapter-review">NEO2 Pro N64 Cart Review</a><br>
 
-
 · <a title="PS3BREAK and X3 Max Review" href="http://gbatemp.net/t272368-ps3break-and-x3-max-review">PS3BREAK &amp; X3 Max Review</a><br>
 
-· <a title="iSmart Premium official review" href="http://gbatemp.net/t255571-ismart-premium-review">iSmart Premium</a><br>
+· <a title="iSmart Premium official review" href="http://gbatemp.net/t255571-ismart-premium-review">iSmart Premium Review</a><br>
 
-· <a title="RetroZone SNES PowerPak Review" href="http://gbatemp.net/t248125-retrozone-snes-powerpak-review">RetroZone SNES PowerPak</a><br>
+· <a title="EZ-Vi Official Review" href="http://gbatemp.net/t239947-ez5i-long-term-review">EZ-Flash Vi Review</a><br>
 
-· <a title="EZ-Vi Official Review" href="http://gbatemp.net/t239947-ez5i-long-term-review">EZ-Flash Vi</a><br>
+· <a title="Supercard DSTWO official review" href="http://gbatemp.net/t232281-supercard-dstwo-review">Supercard DSTWO Review</a><br>
 
-· <a title="Supercard DSTWO official review" href="http://gbatemp.net/t232281-supercard-dstwo-review">Supercard DSTWO</a><br>
-· <a title="Dingoo A330 official review" href="http://gbatemp.net/t230291-dingoo-a330-review">Dingoo A330</a><br>
-· <a title="Neo N64 Myth Cart Review" href="http://gbatemp.net/t227739-neo-n64-myth-cart-review">Neo N64 Myth Cart</a><br>
-· <a title="Dingoo A320 review" href="http://gbatemp.net/t227305-dingoo-a320-review">Dingoo A320</a><br>
-· <a title="NEO SNES Myth cart review" href="http://gbatemp.net/t226219-neo-snes-myth-cart-review">NEO SNES Myth cart</a><br>
-· <a title="Nintendo DSi XL review" href="http://gbatemp.net/t225287-nintendo-dsi-xl-review">Nintendo DSi XL</a><br>
-· <a title="Acekard 2.1 review" href="http://gbatemp.net/t224477-acekard-2-1">Acekard 2.1</a><br>
-· <a title="WODE Jukebox (Review by Opium)" href="http://gbatemp.net/index.php?showtopic=207935">WODE</a><br>
-· <a title="iTouch2 Vs Supercard DSONEi (Review by Opium)" href="http://gbatemp.net/index.php?showtopic=165422">iTouch2 Vs Supercard DSONEi</a><br>
-· <a title="FlatMii Wii modchip (Review by lilsypha)" href="http://gbatemp.net/index.php?showtopic=135750">FlatMii</a><br>
-· <a title="Acekard 2i (Review by shaunj66)" href="http://gbatemp.net/index.php?showtopic=122563">Acekard 2i</a><br>
-· <a title="NDSL dis-/re-assembly guide! By thieves like us" href="http://gbatemp.net/index.php?showtopic=98240">DS Lite dis/reassembly guide</a><br>
-· <a title="R4 DS Official Review" href="http://gbatemp.net/t41279-r4-ds-review">R4 DS</a><br>
+· <a title="Dingoo A330 official review" href="http://gbatemp.net/t230291-dingoo-a330-review">Dingoo A330 Review</a><br>
+
+· <a title="Dingoo A320 review" href="http://gbatemp.net/t227305-dingoo-a320-review">Dingoo A320 Review</a><br>
+
+· <a title="NEO SNES Myth cart review" href="http://gbatemp.net/t226219-neo-snes-myth-cart-review">NEO SNES Myth Cart Review</a><br>
+
+· <a title="Acekard 2i (Review by shaunj66)" href="http://gbatemp.net/index.php?showtopic=122563">Acekard 2i Review</a><br>
+
+· <a title="R4 DS Official Review" href="http://gbatemp.net/t41279-r4-ds-review">R4 DS Review</a><br>
 
 <a title="Click here to be taken to our giant Review Portal!" href="http://gbatemp.net/d8-gbatemp-review-portal" style="font-style: italic;">Many more reviews here...</a><br>
+<br>
 
-<br><b>Guides and FAQs</b><br>
-· <a title="A Beginner's Guide to DS/DSi Hacking" href="http://gbatemp.net/t278137-ds-dsi-hacking-f-a-q">Beginner's Guide to DS Hacking</a><img border="0" src="http://gbatemp.net/images/new.gif"><br> 
-· <a title="Get the latest cheats for your flashcard!" href="http://cheats.gbatemp.net/">Cheat Database</a><br> 
-· <a title="Learn to use our Wiki" href="http://wiki.gbatemp.net/wiki/GBAtemp_Wiki_Tutorial">Wiki Tutorial</a><br>
- · <a title="Read our tutorial on DLDI" href="http://gbatemp.net/?showtopic=45157">DLDI Tutorial</a><br>
-  </div>
+<a target="_self" href="http://gbatemp.net/d82-gbatemp-tutorials-and-guides"><b>Tutorials &amp; Guides</b></a><br>
 
-
-<!--TABLEBTM-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_blcnr"><img src="up/blank.gif" width="14" height="15"></td>
-		<td width="100%" class="pboxbottom"><img src="http://gbatemp.net/up/blank.gif"></td>
-		<td class="nopad cssimg sprite-pbox_s_brcnr"><img src="up/blank.gif" width="14" height="15"></td>
-	</tr>
-</tbody></table>
-<!--TABLEBTM-->
-
-
-
+			· <a title="How to make a Homebrew Channel Theme." href="t310780-how-to-make-a-homebrew-channel-theme">How to make a Homebrew Ch...</a><br>
+			
+			· <a title="Oblivion Mods on Kmeaw 3.55" href="t308579-oblivion-mods-on-kmeaw-3-55">Oblivion Mods on Kmeaw 3....</a><br>
+			
+			· <a title="Speed up slow SD card." href="t308089-speed-up-slow-sd-card">Speed up slow SD card.</a><br>
+			
+			· <a title="MKDS Track Hack Guide" href="t307342-mkds-track-hack-guide">MKDS Track Hack Guide</a><br>
+			
+			· <a title="How to Download your 3DS Ambassador Games." href="t306941-how-to-download-your-3ds-ambassador-games">How to Download your 3DS ...</a><br>
+			
+			· <a title="The Ultimate Wii Hacking Guide for Beginners" href="t306908-the-ultimate-wii-hacking-guide-for-beginners">The Ultimate Wii Hacking ...</a><br>
+			
+			· <a title="How To Make, edit and Insert Sprites For Pokemon Black &amp; White" href="t306115-how-to-make-edit-and-insert-sprites-for-pokemon-black-white">How To Make, edit and Ins...</a><br>
+			
+			· <a title="PSP 2000 Disassembly Guide" href="t305895-psp-2000-disassembly-guide">PSP 2000 Disassembly Guid...</a><br>
+			
+			· <a title="SuperCard DSTwo Tutorial for 3DS" href="t305234-supercard-dstwo-tutorial-for-3ds">SuperCard DSTwo Tutorial ...</a><br>
+			
+			· <a title="Nintendo DS Music Hacking [LOOPING INCLUDED, FULLY EXPLAINED]" href="t305204-nintendo-ds-music-hacking-looping-included-fully-explained">Nintendo DS Music Hacking...</a><br>
+			
+<a title="Click here to be taken to our giant Tutorial and Guide Portal!" href="http://gbatemp.net/d82-gbatemp-tutorials-and-guides" style="font-style: italic;">Many more guides here...</a>
 </div>
+
+	<div class="blocktop2">Online Users</div>
+
+	<div class="ipsSideBlock">
+		<span class="desc">
+
+There are <b>3765</b> online users browsing:<br>
+188 members and 3577 visitors<br>
+<br>
+
+<b>5</b> staff members are online:<br>
+<a href="http://gbatemp.net/user/113027-vatoloco/" title="Today, 01:07 PM"><b><span style="color:orange">VatoLoco</span></b></a>, <a href="http://gbatemp.net/user/152102-tj-cool/" title="Today, 01:07 PM"><b><span style="color:purple">tj_cool</span></b></a>, <a href="http://gbatemp.net/user/187314-ifish/" title="Today, 01:07 PM"><span style="color:#660000"><b>iFish</b></span></a>, <a href="http://gbatemp.net/user/746-cyan/" title="Today, 12:48 PM"><b><span style="color:blue">Cyan</span></b></a>, <a href="http://gbatemp.net/user/43782-mthrnite/" title="Today, 12:45 PM"><b><span style="color:purple">mthrnite</span></b></a><br>
+<br>
+
+None of your friends are online.<br>
+<br>
+<br>
+
+<b>4</b> members have their birthday today:<br>
+<a href="/u19395-dangpride">dangpride</a> (25), <a href="/u83722-damedus">damedus</a> (32), <a href="/u85174-chief-second">Chief_Second</a> (32), <a href="/u122367-dawn-wan">dawn.wan</a> (28)
+
+		</span>
+</div>
+
+	<div class="bottomround" style="background: white;"></div>
+
 </td>
-<!--SPACER-->
-<td width="1%" class="nopad">&nbsp;</td>
 
-					<td width="60%" colspan="5" class="nopad" valign="top">
-<br><!--MAIN-->
-<!--TABLETOP--><table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-<td width="0%" class="nopad" style="background: url('http://gbatemp.net/style_images/2/table_title_left.gif');">
-<img src="up/blank.gif" width="79" height="31"></td>
-<td width="100%" class="maintitle" align="center"><a href="d78-gbatemp-net-privacy-policy">GBAtemp.net Privacy Policy</a></td>
-<td width="0%" class="nopad" style="background: url('http://gbatemp.net/style_images/2/bigtrc.jpg');"><img src="up/blank.gif" width="125" height="31"></td></tr></tbody></table><!--/TABLETOP-->
-	
-	<table cellspacing="0">
-	<tbody><tr>
+<td width="1%" valign="top">&nbsp;</td>
 
-		<td class="post1" width="100%" valign="top" style="background: #F2F2F2 url('http://gbatemp.net/style_images/2/post_header_bk.gif') repeat-x top; border-right: 1px solid #000; border-left: 1px solid #000; text-align: left;">
-		<br><b>GBAtemp.net Privacy Policy information</b><br><br>
+<td width="60%" valign="top">
+    	   <table class="nopad" cellspacing="0" cellpadding="0" border="0">
+	        <tbody>
+		        <tr>
+			        <td class="nowidth"><img src="http://gbatemp.net/public/style_images/v3/CatHeaderLeft.gif" width="79" height="31"></td>
+			        <td class="maintitle" style="text-align:center;"><a href="/d78-gbatemp-net-privacy-policy">GBAtemp.net Privacy Policy</a></td>
+			        <td class="nowidth"><img src="http://gbatemp.net/public/style_images/v3/CatHeaderRight.gif" width="125" height="31">
+			        </td>
+		        </tr>
+	        </tbody>
+        </table>
+
+        <div class="ipsBox_container ipsPad" style="background: #F2F2F2; margin: 0;">        
+
+<div style="font-size: 11px; color: #222; text-align: left; line-height: 135%;">
+<br><b>GBAtemp.net Privacy Policy information</b><br><br>
 GBAtemp may collect and save the following information:
 <ul><li>Your computer's IP Address.</li>
 <li>One or more unique visitor/session id numbers tracked via cookies and/or web beacons.</li>
@@ -541,203 +603,155 @@ Privacy Policy information regarding Google advertisements that are displayed to
 </li></ul>
 
 Mmm, delicious cookies.
-		<!--IBF.ATTACHMENT_{$entry['pid']}--></td>
-	</tr>
-</tbody></table>
+</div>
 
+	</div>
 
-<!--TABLEBTM--><table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0"><tbody><tr>
-<td width="0%" class="nopad" style="background: url('http://gbatemp.net/style_images/2/blc.jpg');"><img src="up/blank.gif" width="91" height="22"></td>
-<td width="50%" style="background: url('http://gbatemp.net/style_images/2/table_footer_mid_bk.gif');"><img src="http://gbatemp.net/up/blank.gif"></td>
-<td width="0%" class="nopad" style="background: url('http://gbatemp.net/style_images/2/table_footer_mid_right.gif');"><img src="up/blank.gif" width="36" height="22"></td>
-<td width="50%" style="background: url('http://gbatemp.net/style_images/2/table_footer_mid_bk2.gif');"><img src="http://gbatemp.net/up/blank.gif"></td>
-<td width="0%" class="nopad" style="background: url('http://gbatemp.net/style_images/2/table_footer_right.gif');"><img src="up/blank.gif" width="54" height="22"></td></tr></tbody></table><!--TABLEBTM-->
-
-
-<!--END MAIN-->
+	<table>
+		<tbody>
+			<tr>
+				<td style="width: 0%" class="nopad"><img src="http://gbatemp.net/public/style_images/v3/CatFooterLeft.gif" alt=""></td>
+				<td style="width: 50%;" class="nopad catfooterleft"></td>
+				<td style="width: 0%" class="nopad"><img src="http://gbatemp.net/public/style_images/v3/CatFooterMiddle.gif" alt=""></td>
+				<td style="width: 50%" class="nopad catfooterright"></td>
+				<td style="width: 0%" class="nopad"><img src="http://gbatemp.net/public/style_images/v3/CatFooterRight.gif" alt=""></td>
+			</tr>
+		</tbody>
+	</table>
 </td>
 
-					<!--SPACER-->
-<td width="1%" class="nopad">&nbsp;</td>
-<td width="19%" class="nopad" valign="top">
-<br>
-<div class="borderwrap">
+<td width="1%" valign="top">&nbsp;</td>
 
-<!--TABLETOP-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_tlcnr"><img src="up/blank.gif" width="14" height="24"></td>
-		<td width="100%" class="pboxtop"><img src="http://gbatemp.net/style_images/2/nav_m.gif" border="0" alt=">" width="8" height="8">&nbsp;Latest Discussions 
-<a href="javascript: UpdateDiscussions(curshow, null);" title="Refresh this box"><img src="http://gbatemp.net/up/refresh.gif" border="0"></a></td>
-		<td width="0%" class="nopad cssimg sprite-pbox_s_trcnr"><img src="up/blank.gif" width="14" height="24"></td>
-	</tr>
-</tbody></table>
-<!--/TABLETOP-->
+<td width="19%" valign="top">
+	<table class="blocktop box_top">
+		<tbody>
+			<tr>
+				<td class="nopad box_topleft"></td>
+				<td class="box_title">Latest Discussions&nbsp;<a href="javascript: UpdateDiscussions(curshow, null);" title="Refresh this box"><img src="http://gbatemp.net/up/refresh.gif" border="0"></a></td>
+			</tr>
+		</tbody>
+	</table>
 
-<div class="formsubtitle" style="display: block; vertical-align: top; padding-top: 6px; font-size: 10px;">
+	<script type="text/javascript">
+function HoverDiscussions(obj) {
+  obj.style.borderBottomStyle = 'solid';
+  obj.style.borderBottomWidth = '1px';
+  obj.style.borderBottomColor = 'orange';
+}
+function HoverOutDiscussions(obj) {
+  obj.style.borderBottomStyle = 'solid';
+  obj.style.borderBottomWidth = '1px';
+  obj.style.borderBottomColor = 'white';
+}
+var oldobj = 'tab0';
+var curshow = oldobj.charAt(3);
+</script>
 
-<img id="imgPosts" src="http://gbatemp.net/style_images/2/ld_posts.gif" style="cursor: pointer; vertical-align: top; border-bottom: 1px solid #FF9900;" onclick="javascript: UpdateDiscussions(0, this);" title="Show last 10 discussions"><img src="up/blank.gif" width="4" height="1"><img src="http://gbatemp.net/style_images/2/ld_news.gif" style="vertical-align: top; cursor: pointer;" onclick="javascript: UpdateDiscussions(1, this);" title="Show last 10 member submitted news"><img src="up/blank.gif" width="4" height="1"><img src="http://gbatemp.net/style_images/2/ld_blogs.gif" style="vertical-align: top; cursor: pointer;" onclick="javascript: UpdateDiscussions(2, this);" title="Show last 10 blog articles"><img src="up/blank.gif" width="4" height="1"><img src="http://gbatemp.net/style_images/2/ld_eof.gif" style="vertical-align: top; cursor: pointer;" onclick="javascript: UpdateDiscussions(3, this);" title="Show last 10 posts from the Edge of the Forum">
+<table><tbody><tr>
 
-</div>
+<td id="tab0" class="blocktop2 tabselected" width="16%" style="border-bottom: 1px solid white; overflow-x:hidden; cursor:pointer;" onclick="javascript: UpdateDiscussions(0, this);" title="Show latest forum posts" onmouseover="HoverDiscussions(this);" onmouseout="HoverOutDiscussions(this);">Posts</td>
+
+<td id="tab1" class="blocktop2" width="16%" style="border-bottom: 1px solid white; overflow-x:hidden; cursor:pointer;" onclick="javascript: UpdateDiscussions(1, this);" title="Show latest user-submitted news" onmouseover="HoverDiscussions(this);" onmouseout="HoverOutDiscussions(this);">News</td>
+
+<td id="tab2" class="blocktop2" width="16%" style="border-bottom: 1px solid white; overflow-x:hidden; cursor:pointer;" onclick="javascript: UpdateDiscussions(2, this);" title="Show latest blog entries" onmouseover="HoverDiscussions(this);" onmouseout="HoverOutDiscussions(this);">Blogs</td>
+
+<td id="tab3" class="blocktop2" width="16%" style="border-bottom: 1px solid white; overflow-x:hidden; cursor:pointer;" onclick="javascript: UpdateDiscussions(3, this);" title="Show latest EOF posts. Random lulz." onmouseover="HoverDiscussions(this);" onmouseout="HoverOutDiscussions(this);">EOF</td>
+
+<td id="tab4" class="blocktop2" width="16%" style="border-bottom: 1px solid white; overflow-x:hidden; cursor:pointer;" onclick="javascript: UpdateDiscussions(4, this);" title="Show latest public pictures in Gallery" onmouseover="HoverDiscussions(this);" onmouseout="HoverOutDiscussions(this);">Pics</td>
+
+<td id="tab5" class="blocktop2" width="20%" style="border-bottom: 1px solid white; overflow-x:hidden; cursor:pointer;" onclick="javascript: UpdateDiscussions(5, this);" title="Show latest calendar events" onmouseover="HoverDiscussions(this);" onmouseout="HoverOutDiscussions(this);">Calendar</td>
+
+</tr></tbody></table>
+
 
 <div id="last10">
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tablepad">
-	<tbody><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f6-gba-flashing-hardware-and-software" title="Posted in 'GBA - Flashing Hardware and Software'"><img src="http://gbatemp.net/html/lp/c6.gif" border="0"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="2" class="ipsSideBlock">
+	<tbody><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f199-3ds-games-content" title="Posted in '3DS - Games &amp; Content'"><img src="http://gbatemp.net/html/lp/c199.gif" border="0"></a>
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290876-3-in-1-dead-looking-into-the-ezflash-iv-lite?view=getlastpost" title="3-in-1 dead, looking into the EZFlash IV Lite - Good cart and best place to get? (5 replies)">3-in-1 dead, looking into t...</a> <a href="t290876-3-in-1-dead-looking-into-the-ezflash-iv-lite">by</a> <a href="u99161-schlupi" style="color: #000">Schlupi</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f199-3ds-games-content" title="Posted in '3DS - Games &amp; Content'"><img src="http://gbatemp.net/html/lp/c199.gif" border="0"></a>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t312546-mario-3d-arrived?view=getlastpost" title="Mario 3D arrived -  (0 replies)">Mario 3D arrived</a> <a href="t312546-mario-3d-arrived">by</a> <a href="u52370-ahtin" style="color: #000">ahtin</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f233-nds-tutorials-faqs" title="Posted in 'NDS - Tutorials &amp; FAQs'"><img src="http://gbatemp.net/html/lp/c233.gif" border="0"></a>
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290807-metal-gear-solid-3ds?view=getlastpost" title="metal gear solid 3ds - for those who've played the original (24 replies)">metal gear solid 3ds</a> <a href="t290807-metal-gear-solid-3ds">by</a> <a href="u111209-joe88" style="color: #000">Joe88</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f156-user-submitted-news" title="Posted in 'User Submitted News'"><img src="http://gbatemp.net/html/lp/c156.gif" border="0"></a>
-</td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290655-the-white-iphone-is-here?view=getlastpost" title="The white Iphone is here. - FINALLY! (31 replies)">The white Iphone is here.</a> <a href="t290655-the-white-iphone-is-here">by</a> <a href="u183192-gamewinner" style="color: #000">GameWinner</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f103-nds-releases" title="Posted in 'NDS Releases'"><img src="http://gbatemp.net/html/lp/c103.gif" border="0"></a>
-</td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290870-ds-5536-atv-quad-kings-europe?view=getlastpost" title="DS #5536: ATV Quad Kings (Europe) -  (1 replies)">DS #5536: ATV Quad Kings (E...</a> <a href="t290870-ds-5536-atv-quad-kings-europe">by</a> <a href="u262855-snailface" style="color: #000">Snailface</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f11-gba-game-development-rom-hacking-and-translations" title="Posted in 'GBA - Game Development, ROM Hacking and Translations'"><img src="http://gbatemp.net/html/lp/c11.gif" border="0"></a>
-</td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t76754-gyakuten-saiban-1-3-translation?view=getlastpost" title="Gyakuten Saiban 1-3 Translation - Help (87 replies)">Gyakuten Saiban 1-3 Transla...</a> <a href="t76754-gyakuten-saiban-1-3-translation">by</a> <a href="u99161-schlupi" style="color: #000">Schlupi</a>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t281899-tutorial-on-getting-wifi-on-desmume?view=getlastpost" title="Tutorial on getting wifi on desmuME - Tested on Pokemon Bllack/White so far (368 replies)">Tutorial on getting wifi on...</a> <a href="t281899-tutorial-on-getting-wifi-on-desmume">by</a> <a href="u186578-leafbarrett" style="color: #000">leafbarrett</a>
 </td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f108-wii-hacking" title="Posted in 'Wii - Hacking'"><img src="http://gbatemp.net/html/lp/c108.gif" border="0"></a>
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t207126-modmii-for-windows?view=getlastpost" title="ModMii for Windows - Mod ANY Wii w/ Ease (no wi-fi required) (3,297 replies)">ModMii for Windows</a> <a href="t207126-modmii-for-windows">by</a> <a href="u278418-weenus" style="color: #000">Weenus</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f171-blog-articles" title="Posted in 'Blog Articles'"><img src="http://gbatemp.net/html/lp/c171.gif" border="0"></a>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t301019-mymenuifymod?view=getlastpost" title="MyMenuifyMOD - a mod of MyMenuify (98 replies)">MyMenuifyMOD</a> <a href="t301019-mymenuifymod">by</a> <a href="u252989-scooby74029" style="color: #000">scooby74029</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f166-computer-systems" title="Posted in 'Computer Systems'"><img src="http://gbatemp.net/html/lp/c166.gif" border="0"></a>
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290880-help-me-deciding?view=getlastpost" title="Help me deciding!! - please help me on this choice... (7 replies)">Help me deciding!!</a> <a href="t290880-help-me-deciding">by</a> <a href="u276275-maxnuker" style="color: #000">MaxNuker</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f190-wii-backup-loaders" title="Posted in 'Wii - Backup Loaders'"><img src="http://gbatemp.net/html/lp/c190.gif" border="0"></a>
-</td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290783-a-wii-little-problem?view=getlastpost" title="A wii little problem -  (4 replies)">A wii little problem</a> <a href="t290783-a-wii-little-problem">by</a> <a href="u157320-darkshadow96" style="color: #000">DarkShadow96</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f103-nds-releases" title="Posted in 'NDS Releases'"><img src="http://gbatemp.net/html/lp/c103.gif" border="0"></a>
-</td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290872-ds-5537-petz-catz-playground-usa?view=getlastpost" title="DS #5537: Petz Catz Playground (USA) -  (4 replies)">DS #5537: Petz Catz Playgro...</a> <a href="t290872-ds-5537-petz-catz-playground-usa">by</a> <a href="u262855-snailface" style="color: #000">Snailface</a>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t312543-giving-away-1-copy-of-voxatron-gifted-copy-i-bought-using-random-org?view=getlastpost" title="Giving away 1 copy of Voxatron (gifted copy I bought) using random.org -  (11 replies)">Giving away 1 copy of Voxat...</a> <a href="t312543-giving-away-1-copy-of-voxatron-gifted-copy-i-bought-using-random-org">by</a> <a href="u269267-chhotu-uttam" style="color: #000">Chhotu uttam</a>
 </td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f156-user-submitted-news" title="Posted in 'User Submitted News'"><img src="http://gbatemp.net/html/lp/c156.gif" border="0"></a>
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t290874-us-state-house-of-representatives-wants-answers-from-sony?view=getlastpost" title="US State House Of Representatives Wants Answers From Sony -  (14 replies)">US State House Of Represent...</a> <a href="t290874-us-state-house-of-representatives-wants-answers-from-sony">by</a> <a href="u177604-thedarkseed" style="color: #000">TheDarkSeed</a>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t312398-zelda-manga-box-set-released-by-viz-media?view=getlastpost" title="Zelda manga box set released by viz media -  (26 replies)">Zelda manga box set release...</a> <a href="t312398-zelda-manga-box-set-released-by-viz-media">by</a> <a href="u251693-exangel" style="color: #000">exangel</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f41-nds-rom-hacking-and-translations" title="Posted in 'NDS - ROM Hacking and Translations'"><img src="http://gbatemp.net/html/lp/c41.gif" border="0"></a>
+</td>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t301158-summon-night-x-tears-crown-translation?view=getlastpost" title="Summon Night X ~Tears Crown~ Translation -  (122 replies)">Summon Night X ~Tears Crown...</a> <a href="t301158-summon-night-x-tears-crown-translation">by</a> <a href="u40725-segnin" style="color: #000">SegNin</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f156-user-submitted-news" title="Posted in 'User Submitted News'"><img src="http://gbatemp.net/html/lp/c156.gif" border="0"></a>
+</td>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t312410-nintendo-developing-new-game-genres-to-revitalise-3ds?view=getlastpost" title="Nintendo Developing New Game Genres to Revitalise 3DS -  (30 replies)">Nintendo Developing New Gam...</a> <a href="t312410-nintendo-developing-new-game-genres-to-revitalise-3ds">by</a> <a href="u251693-exangel" style="color: #000">exangel</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f108-wii-hacking" title="Posted in 'Wii - Hacking'"><img src="http://gbatemp.net/html/lp/c108.gif" border="0"></a>
+</td>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t311976-can-we-please-get-universal-sector-size-support?view=getlastpost" title="Can we please get universal sector size support? - Support for 2tb Hard drives or greater with 1024 sector sizes or highe (25 replies)">Can we please get universal...</a> <a href="t311976-can-we-please-get-universal-sector-size-support">by</a> <a href="u129325-crwys" style="color: #000">crwys</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f112-wii-releases" title="Posted in 'Wii Releases'"><img src="http://gbatemp.net/html/lp/c112.gif" border="0"></a>
+</td>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t312541-wii-2725-family-game-night-4-the-game-show-usa?view=getlastpost" title="Wii #2725 - Family Game Night 4: The Game Show (USA) -  (1 replies)">Wii #2725 - Family Game Nig...</a> <a href="t312541-wii-2725-family-game-night-4-the-game-show-usa">by</a> <a href="u221045-pattonfiend67" style="color: #000">Pattonfiend67</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><a href="f156-user-submitted-news" title="Posted in 'User Submitted News'"><img src="http://gbatemp.net/html/lp/c156.gif" border="0"></a>
+</td>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="t312501-new-god-of-war-in-development?view=getlastpost" title="New God of War in development -  (9 replies)">New God of War in development</a> <a href="t312501-new-god-of-war-in-development">by</a> <a href="u246588-chartube12" style="color: #000">chartube12</a>
 </td></tr> 
 </tbody></table>
-<center><div style="display: none; background: white; width: 100%; text-align: center;" align="center" id="waitlast10">
+
+<center style="display:none;"><div style="display: none; background: white; width: 100%; text-align: center;" align="center" id="waitlast10">
 <img src="http://gbatemp.net/up/html_wait.gif"></div></center>
 </div>
 
-<div class="formsubtitle" style="display: block; vertical-align: middle; padding: 3px; font-size: 10px; line-height: 10px;">
 
-<a href="http://ask.gbatemp.net/" title="Ask GBAtemp!" style="color: white;">Latest Questions on Ask GBAtemp</a>
+<table><tbody><tr><td class="blocktop2"><a href="http://ask.gbatemp.net/" style="color:white;" title="Visit Ask GBAtemp: the one place to ask all your questions!">Latest Questions on Ask GBAtemp</a></td></tr></tbody></table>
 
-</div>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tablepad">
-<tbody><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/11.gif" alt="" border="0">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="ipsSideBlock">
+<tbody><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/34.gif" alt="" border="0">
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/2213/get-pokemon-black-ttdsi" title="View question on Ask GBAtemp!">how to get pokemon black on ttdsi</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/10.gif" alt="" border="0">
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/3433/what-risk-here" title="View question on Ask GBAtemp!">what is the risk here?</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/13.gif" alt="" border="0">
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/2212/cant-open-pokemon-bloody-platinum-due-2-save-data-cannot-accesees" title="View question on Ask GBAtemp!">I cant open pokemon bloody platinum due 2 save data cannot be accesees</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/19.gif" alt="" border="0">
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/3432/where-find-pokemon-pkg" title="View question on Ask GBAtemp!">Where can I find Pokemon PKG?</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/7.gif" alt="" border="0">
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/2211/computer-stuff" title="View question on Ask GBAtemp!">Computer stuff</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/29.gif" alt="" border="0">
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/3431/many-posts-done-forums-daily" title="View question on Ask GBAtemp!">How many posts are done in the forums daily?</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/16.gif" alt="" border="0">
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/2210/fix-n64-cartridge" title="View question on Ask GBAtemp!">How to fix my N64 cartridge?</a>
-</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/10.gif" alt="" border="0">
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/3430/what-should-make-wii-region-free" title="View question on Ask GBAtemp!">What should I do to make my Wii region-free?</a>
+</td></tr><tr><td width="16" style="background: transparent; padding: 3px; "><img src="http://gbatemp.net/images/questions/33.gif" alt="" border="0">
 </td>
-<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/2209/traded-pokemon" title="View question on Ask GBAtemp!">Traded Pokemon?</a>
+<td width="100%" class="tablepad" style="padding: 3px; background: transparent; color: #000"><a href="http://ask.gbatemp.net/3429/cases-comparative-politics-third-edition" title="View question on Ask GBAtemp!">Cases in Comparative Politics (Third Edition)</a>
 </td></tr>
 </tbody></table>
 
-
-<!--TABLEBTM-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_blcnr"><img src="up/blank.gif" width="14" height="15"></td>
-		<td width="100%" class="pboxbottom"><img src="http://gbatemp.net/up/blank.gif"></td>
-		<td class="nopad cssimg sprite-pbox_s_brcnr"><img src="up/blank.gif" width="14" height="15"></td>
-	</tr>
-</tbody></table>
-<!--TABLEBTM-->
-
-</div>
-<br>
-<div class="borderwrap">
-
-<!--TABLETOP-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
-	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_tlcnr"><img src="up/blank.gif" width="14" height="24"></td>
-		<td width="100%" class="pboxtop"><img src="http://gbatemp.net/style_images/2/nav_m.gif" border="0" alt=">" width="8" height="8">&nbsp;<a href="http://shoptemp.net" target="_blank" title="View ShopTemp Homepage">ShopTemp News</a></td>
-		<td width="0%" class="nopad cssimg sprite-pbox_s_trcnr"><img src="up/blank.gif" width="14" height="24"></td>
-	</tr>
-</tbody></table>
-<!--/TABLETOP-->
-
-<div class="formsubtitle" style="display: block; vertical-align: middle; padding: 3px; font-size: 10px; line-height: 10px;">
-
-<a href="http://shoptemp.net/" title="ShopTemp.net News" style="color: white;">Latest News on ShopTemp.net</a>
-
-</div>
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tablepad" style="background: white;">
-
-	<tbody><tr>
-		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/cool-gadgets-gift-online-store.html" target="_blank" title="Submitted by Cool Gadgets Gift Online Store - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/360-logo-coolgadgetsgiftdotcom.mini.jpg"></a></td>
-		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news95">M3i Big Saving promotion.</a></td>
-	</tr>
 	
-	<tr>
-		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/cool-gadgets-gift-online-store.html" target="_blank" title="Submitted by Cool Gadgets Gift Online Store - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/360-logo-coolgadgetsgiftdotcom.mini.jpg"></a></td>
-		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news94">R4 DS card Order onsales for just a short time.</a></td>
-	</tr>
-	
-	<tr>
-		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/gameplayfun-acekard2i-13-no-clone-lowest-in-usa.html" target="_blank" title="Submitted by GamePlayFun - Acekard2i $13 No Clone Lowest in USA - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/95-logo-acekard2i.preview.gif"></a></td>
-		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news93">Learn more About Acekard2i</a></td>
-	</tr>
-	
-	<tr>
-		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/tradeinthebox-com.html" target="_blank" title="Submitted by Tradeinthebox.com - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/359-logo-logo.preview.png"></a></td>
-		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news92">R4i-SDHC 3DS support all version of N3DS console(including European version )</a></td>
-	</tr>
-	
-	<tr>
-		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/gameplayfun-acekard2i-13-no-clone-lowest-in-usa.html" target="_blank" title="Submitted by GamePlayFun - Acekard2i $13 No Clone Lowest in USA - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/95-logo-acekard2i.preview.gif"></a></td>
-		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news91">ALL ON SALE</a></td>
-	</tr>
-	
-	<tr>
-		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/tradeinthebox-com.html" target="_blank" title="Submitted by Tradeinthebox.com - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/359-logo-logo.preview.png"></a></td>
-		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news90">V2.0 card fw update for 3DS ! (r4i gold 3ds) Download</a></td>
-	</tr>
-	
-</tbody></table>
 
+	<table><tbody><tr><td class="blocktop2">Recommended Sites</td></tr></tbody></table>
 
+<div class="ipsSideBlock" style="padding: 0;">
 
-
-<div class="formsubtitle" style="display: block; vertical-align: top; padding-top: 0px; font-size: 10px;">
-Shop of the week
-</div>
-
-<div id="sotw">
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="tablepad" style="background: white;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="ipsSideBlock" style="border-bottom: 1px solid #DDD;">
 	<tbody><tr>
 <td align="left" style="text-align: center; background: white;" valign="top">
 
 <div>
-	<a href="http://shoptemp.net" title="Shop of the week!" target="_blank" style="text-decoration: none; font-weight:bold; font-size: 12px;">
-		<img src="http://shoptemp.net/images/logos/19-logo-stlogosmall.preview.png"></a>
+	<a href="http://www.NDS-Gear.com" title="Shop of the week!" target="_blank" style="text-decoration: none; font-weight:bold; font-size: 12px;">
+		<img src="http://shoptemp.net/images/logos/159-logo-nds-gear-logo.preview.jpg"></a>
 	
 </div>
 
-<i>ShopTemp is a community based online products and store catalog. We provide reseller ratings, price comparison features, discussion and information about video games, consoles and accessories.</i>&nbsp;
+<i>NDS-Gear are GBATemp's preferred U.S. and U.K. DS card retailer. All cards are individually tested and all e-mails answered in 48h. NO fakes, NOT shipped from Asia. Come see how online shopping SHOULD be like!</i>&nbsp;
 <br>
-<div style="text-align:center;"><a href="http://shoptemp.net" title="Shop of the week!" target="_blank" style="text-decoration: none; font-weight:bold; font-size: 12px;">
-ShopTemp</a></div>
+<div style="text-align:center;"><a href="http://www.NDS-Gear.com" title="Shop of the week!" target="_blank" style="text-decoration: none; font-weight:bold; font-size: 12px;">
+NDS-Gear</a></div>
 
 <hr style="color:#bbb;background-color:#bbb;border:0;height:1px;">
 <center>
 <span size="font-size: 9px;">
-<a href="http://shoptemp.net" target="_blank" title="Visit this store">Visit store</a> |
-<a href="http://shoptemp.net/shop/shoptemp.html" target="_blank" title="Check the ShopTemp page for reviews, discussions and more">ShopTemp Page</a>
+<a href="http://www.NDS-Gear.com" target="_blank" title="Visit this store">Visit store</a> |
+<a href="http://shoptemp.net/shop/nds-gear.html" target="_blank" title="Check the ShopTemp page for reviews, discussions and more">ShopTemp Page</a>
 </span>
 </center>
 
@@ -745,57 +759,186 @@ ShopTemp</a></div>
 </tr>
 
 </tbody></table>
-</div>
 
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="ipsSideBlock">
 
-
-
-<!--TABLEBTM-->
-<table class="nopad" style="width: 100%; border: 0; background: transparent;" cellspacing="0" cellpadding="0" border="0">
 	<tbody><tr>
-		<td class="nopad cssimg sprite-pbox_s_blcnr"><img src="up/blank.gif" width="14" height="15"></td>
-		<td width="100%" class="pboxbottom"><img src="http://gbatemp.net/up/blank.gif"></td>
-		<td class="nopad cssimg sprite-pbox_s_brcnr"><img src="up/blank.gif" width="14" height="15"></td>
+		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/tradeinthebox-com.html" target="_blank" title="Submitted by Tradeinthebox.com - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/359-logo-logo.preview.png"></a></td>
+		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news856">Wholesale Discount: R4i SDHC V1.4.3 $9.99,Acekard 2i 3DS US$ 13.99</a></td>
 	</tr>
+	
+	<tr>
+		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/cheapr4i-uk-and-europe-online-store.html" target="_blank" title="Submitted by CheapR4i UK and Europe online Store - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/340-logo-cheapr4i logo.mini.jpg"></a></td>
+		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news855">New Coupon code of CheapR4i.com</a></td>
+	</tr>
+	
+	<tr>
+		<td width="16" style="background: none repeat scroll 0% 0% transparent; padding: 3px;"><a href="http://shoptemp.net/shop/eachgame.html" target="_blank" title="Submitted by Eachgame - View ShopTemp page"><img border="0" style="width: 16px; height: 16px;" alt="" src="http://shoptemp.net/images/logos/363-logo-EG.hk.mini.jpg"></a></td>
+		<td width="100%" style="padding: 3px; background: none repeat scroll 0% 0% transparent; color: rgb(0, 0, 0);" class="tablepad"><a title="View news article on ShopTemp.net" target="_blank" href="http://shoptemp.net/#news854">blue-ray disc movie</a></td>
+	</tr>
+	
 </tbody></table>
-<!--TABLEBTM-->
 
 </div>
 
-</td>
+	<div class="shoutbox">
+		
+	</div>
 
-
+	<div class="bottomround" style="background: white;"></div></td>
 
 				</tr>
 				<!--End Main Content-->
 			</tbody></table>
 </center>
 
-<div align="center" class="copyright" style="color: #FFF; font-size: 9px;">
-Hosted by <a style="color: #FFF; font-weight: bold;" href="http://www.vpn1euro.com" title="VPN1EURO Internet Services">VPN1EURO Internet Services</a><br>
 
-This website is part of the GBATEMP NETWORK :: <a style="color: #FFF;" href="http://gbatemp.net">GBAtemp.net</a> :: <a style="color: #FFF;" href="http://filetrip.net/" title="FileTrip :: the ultimate download center">FileTrip.net</a> :: <a style="color: #FFF;" href="http://shoptemp.net/" title="ShopTemp :: Video Games Accessories Online Price Comparator and Reseller Ratings Site">ShopTemp.net</a>
-<br>Powered by <a href="http://www.invisionboard.com" target="_blank" style="color: #FFF;">IPB Portal</a>(R) v2 © 2004 &nbsp;<a href="http://www.invisionpower.com" target="_blank" style="color: #FFF;">IPS, Inc.</a>- Registered to: GBAtemp
- - <a href="d49-contact-us" style="color: white;">Contact us</a> | <a href="d78-gbatemp-net-privacy-policy" target="_blank" title="Click here to read about our privacy policy" style="color: white;">Privacy Policy</a></div>
-
-			<div style="text-align: center; font-size: 10px; color: #FFF;"><div class="desc">[ DB Queries: 3 ] [ Execution Time: 0.1061 ]</div></div>
-		</div><iframe name="frameresults" id="frameresults" border="0" style="border: 0px; width: 0px; height: 0px; visibility: none;" src=""></iframe>
+</div>
 
 
+	<script type="text/javascript" src="http://gbatemp.net/public/js/3rd_party/prettify/prettify.js"></script>
+	<script type="text/javascript" src="http://gbatemp.net/public/js/3rd_party/prettify/lang-sql.js"></script>
+	<!-- By default we load generic code, php, css, sql and xml/html; load others here if desired -->
+	<script type="text/javascript">
+	//<![CDATA[
+		Event.observe( window, 'load', function(e){ prettyPrint() });
+	//]]>
+	</script>
+				<!-- Javascript tag  --><!-- begin ZEDO for channel: GBAtemp.net Catfish , publisher: default , Ad Dimension: CatFish 1x1 - 1 x 1 -->
+<center><script language="JavaScript">
+var zflag_nid="1282"; var zflag_cid="820"; var zflag_sid="0"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="16"; 
+</script>
+<script language="JavaScript" src="http://c4.zedo.com/jsc/c4/fo.js"></script></center>
+<!-- end ZEDO for channel: GBAtemp.net Catfish , publisher: default , Ad Dimension: CatFish 1x1 - 1 x 1 -->
+				<ol class="breadcrumb bottom ipsList_inline left clearfix clear">
+											<li><a href="http://gbatemp.net/index">GBAtemp.net</a></li>
+							
+						
+							<li><span class="nav_sep">→</span> <a href="/d78-gbatemp-net-privacy-policy" title="Return toGBAtemp.net Privacy Policy">GBAtemp.net Privacy Policy</a></li>
+							
+						
+
+							<li><span class="nav_sep">→</span> <a href="http://gbatemp.net/portal/" title="Return toPortal">Portal</a></li>
+							
+						
+
+				</ol>
+			</div>
+			<!-- ::: FOOTER (Change skin, language, mark as read, etc) ::: -->
+			<div id="footer_utilities" class="main_width clearfix clear">
+				<a rel="nofollow" href="#top" id="backtotop" title="Go to top"><img src="http://gbatemp.net/public/style_images/v3/top.png" alt=""></a>
+				<ul class="ipsList_inline left">
+					<li>
+						<img src="http://gbatemp.net/public/style_images/v3/feed.png" alt="RSS Feed" id="rss_feed" class="clickable">
+					</li>
+					
+							<li>
+								<a rel="nofollow" id="new_skin" href="#">Change Theme</a>			
+								<ul id="new_skin_menucontent" class="ipbmenu_content with_checks" style="display: none">
+									
+										<li>
+											<a href="http://gbatemp.net/index.php?dynamic=78&amp;k=bb2fe024f8a71424996db6d9af08c1fc&amp;settingNewSkin=2">IP.Board Mobile</a>
+										</li>
+									
+
+										<li class="selected">
+											<a href="http://gbatemp.net/index.php?dynamic=78&amp;k=bb2fe024f8a71424996db6d9af08c1fc&amp;settingNewSkin=3">GBAtemp V3+</a>
+										</li>
+									
+								</ul>
+							</li>
+					
+					<li>
+						<a rel="nofollow" id="mark_all_read" href="http://gbatemp.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=bb2fe024f8a71424996db6d9af08c1fc" title="Mark all as read">Mark Community Read</a>
+						<ul id="mark_all_read_menucontent" class="ipbmenu_content" style="display: none">
+							
+								<li>
+									
+								</li>
+							
+
+								<li>
+									<a href="http://gbatemp.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=forums&amp;k=bb2fe024f8a71424996db6d9af08c1fc">Forums</a>
+								</li>
+							
+
+								<li>
+									<a href="http://gbatemp.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=blog&amp;k=bb2fe024f8a71424996db6d9af08c1fc">Blogs</a>
+								</li>
+							
+
+								<li>
+									<a href="http://gbatemp.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=app&amp;markApp=gallery&amp;k=bb2fe024f8a71424996db6d9af08c1fc">Gallery</a>
+								</li>
+							
+							<li>
+								<a href="http://gbatemp.net/index.php?app=forums&amp;module=forums&amp;section=markasread&amp;marktype=all&amp;k=bb2fe024f8a71424996db6d9af08c1fc"><strong>Mark all as read</strong></a>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<a href="http://gbatemp.net/index.php?app=core&amp;module=help" title="View help" rel="help" accesskey="6">Help</a>
+					</li>				
+				</ul>
+				<!-- Copyright Information -->
+        				  <p id="copyright">
+        				  	<a href="http://www.invisionpower.com/products/board/" title="Community Forum Software by Invision Power Services">Community Forum Software by IP.Board</a>
+        				  <br>Licensed to: GBAtemp</p>
+		<!-- / Copyright -->
+			</div>
+			<!-- No referrer, nothing to track. -->
+			<div><img src="http://gbatemp.net/index.php?app=core&amp;module=task" alt="" style="border: 0px;height:1px;width:1px;"></div>
+			
+				<script type="text/javascript" src="http://gbatemp.net/public/js/3rd_party/lightbox.js"></script>
 <script type="text/javascript">
 //<![CDATA[
-menu_do_global_init();
-show_inline_messages();
-// Uncomment this to fix IE png images
-// causes page slowdown, and some missing images occasionally
-// if ( is_ie )
-// {
-//	 ie_fix_png();
-// }
-
+	// Lightbox Configuration
+	LightboxOptions = Object.extend({
+	    fileLoadingImage:        'http://gbatemp.net/public/style_images/v3/lightbox/loading.gif',     
+	    fileBottomNavCloseImage: 'http://gbatemp.net/public/style_images/v3/lightbox/closelabel.gif',
+	    overlayOpacity: 0.8,   // controls transparency of shadow overlay
+	    animate: true,         // toggles resizing animations
+	    resizeSpeed: 7,        // controls the speed of the image resizing animations (1=slowest and 10=fastest)
+	    borderSize: 10,         //if you adjust the padding in the CSS, you will need to update this variable
+		// When grouping images this is used to write: Image # of #.
+		// Change it for non-english localization
+		labelImage: "Image",
+		labelOf: "of"
+	}, window.LightboxOptions || {});
+/* Watch for a lightbox image and set up our downloadbutton watcher */
+document.observe('click', (function(event){
+    var target = event.findElement('a[rel*="lightbox"]') || event.findElement('area[rel*="lightbox"]');
+    if (target) {
+        event.stop();
+        gbl_addDownloadButton();
+    }
+}).bind(this));
+var _to    = '';
+var _last  = '';
+function gbl_addDownloadButton()
+{
+	if ( typeof( ipsLightbox.lightboxImage ) != 'undefined' && ipsLightbox.lightboxImage.src )
+	{
+		if ( _last != ipsLightbox.lightboxImage.src )
+		{
+			if ( ! $('gbl_d') )
+			{
+				$('bottomNav').insert( { top: "<div id='gbl_d' style='text-align:right;padding-bottom:4px;'></div>" } );
+			}
+			
+			$('gbl_d').update( "<a href='"+ ipsLightbox.lightboxImage.src + "' target='_blank'><img src='http://gbatemp.net/public/style_images/v3/lightbox/download-icon.png' /></a>" );
+			
+			_last = ipsLightbox.lightboxImage.src;
+		}
+	}
+	
+	/* Check for init and then keep checking for new image */
+	_to = setTimeout( "gbl_addDownloadButton()", 1000 );
+}
 //]]>
 </script>
-
-
+			
+		</div>	
+		
 	
 </body></html>
