@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605100246id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayextras.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101111530id_/http%3A//www.holidayextras.co.uk/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Holiday Extras - privacy policy | How we use your information
 
