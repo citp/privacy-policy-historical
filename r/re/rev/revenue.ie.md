@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenue.ie privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611130353id_/http%3A//www.revenue.ie/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenue.ie privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101110107id_/http%3A//www.revenue.ie/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -40,7 +40,7 @@ Revenue reserves the right to amend this statement at any future date and will p
 
 ### 11th September 2009
 
-  * Addition of sentence to Use of Cookies section<./li>
+  * Addition of sentence to Use of Cookies section.
 
 
 
