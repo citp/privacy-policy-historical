@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2011-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110602120432id_/http%3A//www.jamesonwhiskey.com/footerlinks_NOAV/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesonwhiskey.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105644id_/http%3A//www.jamesonwhiskey.com/footerlinks_NOAV/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Jameson Irish Whiskey - Jameson Irish Whiskey home
 
