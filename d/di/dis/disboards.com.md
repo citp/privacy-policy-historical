@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430192437id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the disboards.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162650id_/http%3A//www.wdwinfo.com/privacy.htm) for the most accurate reproduction.*
 
 # DIS - Privacy Policy
 
