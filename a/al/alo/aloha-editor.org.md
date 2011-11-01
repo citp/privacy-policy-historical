@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aloha-editor.org privacy policy that was archived on 2011-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110306091931id_/http%3A//www.aloha-editor.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aloha-editor.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002811id_/http%3A//aloha-editor.org/privacy.php) for the most accurate reproduction.*
 
 # Aloha Editor - HTML5 WYSIWYG Editor
 
