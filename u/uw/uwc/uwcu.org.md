@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/Legal/PrivacyIsImportant.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uwcu.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114521id_/http%3A//www.uwcu.org/Legal/PrivacyIsImportant.aspx) for the most accurate reproduction.*
 
 # Your Privacy Is Important to Us - UW Credit Union (UWCU, University of Wisconsin Credit Union)
 
@@ -10,61 +10,124 @@ We are committed to maintaining the highest level of integrity in the protection
 > 
 > **Outside partnerships** —any outside vendor we do business with is required to keep your information private. Any joint marketing partner must keep your information confidential.
 
-This notice details our practices in the collection and use of private information. We’ve also used this opportunity to share with you some helpful tips on protecting your identity.
+This notice details our practices in the collection and use of private information.
 
 We appreciate your confidence and the opportunity to serve you.
 
-## Information Collected
+### Facts
 
-We collect nonpublic personal information about you from the following sources:
+| What does UW Credit Union do with your personal information?  
+---|---  
+**Why?** |  Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
+**What?** |  The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-  * UW Credit Union applications and forms you’ve submitted to receive a service;
-  * Your transactions with UW Credit Union; and
-  * A consumer reporting agency
+> Social Security number and account balances
+> 
+> Account transactions and credit card or other debt
+> 
+> Payment history and transaction history  
+  
+**How?** |  All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons UW Credit Union chooses to share; and whether you can limit this sharing.   
+  
+### Reasons we can share your personal information
+
+| 
+
+### Does UW Credit Union share?
+
+| 
+
+### Can you limit this sharing?  
+  
+---|---|---  
+**For our everyday business purposes –** such as to process your transactions, maintain your account(s), respond to court orders and legal investigations or to report to credit bureaus | Yes | No  
+**For our marketing purposes –** to offer our products and services to you | Yes | Yes  
+**For joint marketing with other financial companies** | No | We don't share  
+**For our affiliates' everyday business purposes –** information about your transactions and experiences | No | We don't share  
+**For our affiliates' everyday business purposes –** information about your creditworthiness | No | We don't share  
+**For our affiliates to market to you** | No | We don't share  
+**For our nonaffiliates to market to you** | No | We don't share  
+  
+### To limit our sharing
+
+| 
+
+> Send us a Secure Message through Web Branch
+> 
+> Call us at 800.533.6773
+
+**Please Note:** If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
+
+However, you can contact us at any time to limit our sharing.  
+  
+---|---  
+  
+### Questions?
+
+| Call 800.533.6773 or go to uwcu.org  
+---|---  
+  
+### Who We Are  
+  
+---  
+**Who is providing this notice?** | UW Credit Union  
+  
+### What We Do  
+  
+---  
+**How does UW Credit Union protect my personal information?** | To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+**How does UW Credit Union collect my personal information?** | 
+
+We collect your personal information, for example, when you
+
+  * Open an account or apply for a loan
+  * Give us your employment information or show your driver's license
+  * Use your credit or debit card
 
 
 
-## Disclosure of Information Collected
+We also collect your personal information from others, such as credit bureaus, affiliates or other companies.  
+  
+**What happens when I limit sharing for an account I hold jointly with someone else?** |  Your choices will apply to everyone on the account—unless you tell us otherwise.   
+**Why can't I limit all sharing?** | 
 
-As permitted by law, we may disclose the nonpublic personal information about you to the following types of third parties:
+Federal law gives you the right to limit only:
 
-  * Financial service providers, such as insurance companies and securities broker-dealers.
-  * Non-Financial companies, such as consumer reporting agencies, data processors, check/share draft printers, financial statement publishers/printers, plastic card processors, direct marketers, government agencies and mailhouses.
-  * Financial institutions with whom we have joint marketing agreements, and other companies that perform marketing services on our behalf.
-  * Non-affiliated third parties for the purposes of processing and servicing transactions that you request or authorize.
-
+  * Sharing for affiliates' everyday business purposes – information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you.
 
 
-## Confidentiality and Security
 
-To protect our members’ privacy, we only work with companies that agree to maintain strong confidentiality protections and limit the use of information we provide. We do not permit these companies to sell this information to other third parties.
+State law and individual companies may give you additional rights to limit sharing.   
+  
+### Definitions  
+  
+---  
+**Affiliates** | 
 
-We restrict access to nonpublic personal information about you to those employees who need to know that information to provide products or services to you. We maintain physical, electronic, and procedural safeguards that comply with federal regulations to guard your nonpublic personal information.
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-If you leave UW Credit Union, we will not share any collected information about you, except as may be permitted or required by law.
+  * CU Campus Resources
 
-## Protect Your Identity
+  
+Nonaffiliates ****| 
 
-Protect your account numbers, plastic card numbers, personal identification numbers (PINs) and passwords. Never keep your PIN with your card. The PIN can provide free access to your accounts if your card is lost or stolen.
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-Use caution when disclosing your account numbers, social security numbers, etc. Beware if someone calls you requesting information about your UW Credit Union account. Official credit union staff will have access to your information and will not need to ask for it.
+  * Government agencies (OFAC)
+  * Plastic card processors (credit, debit, or ATM)
+  * Financial statement publishers or printers
+  * Mortgage service companies
+  * Consumer reporting agencies
+  * Data processors
+  * Check/share draft printers
 
-Keep your information with us current. If you change your address or phone number, please let us know. It is important we have current information on how to reach you. If we detect potentially fraudulent or unauthorized activity or use of an account, we will attempt to contact you immediately.  
-[Update your contact information in Web Branch »](https://webbranch.uwcu.org/wb/profileservices/addresschange.aspx)
+  
+**Joint Marketing** | 
 
-## Report Fraud
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
-  1. File a police report.
-  2. Contact the companies that may be referenced in the material stolen (credit card companies, health insurance companies, U.S. Social Security Office, etc.).
-  3. Contact national credit reporting agencies: 
-    * **Equifax:** [www.equifax.com](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=58)
-    * **Experian:** [www.experian.com](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=59)
-    * **Trans Union:** [www.transunion.com](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=60)
-    * **U.S. Social Security Fraud Hotline:** 800-269-0271
-    * **Federal Trade Commission Fraud Hotline:** 877-438-4338
-    * For more information, visit [www.ftc.gov/idtheft](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/LeaveUWCU.aspx?leavelink=193).
-
-Learn more about [credit reports](https://web.archive.org/web/20091225120206id_/http%3A//www.uwcu.org/MemberServices/CreditReports.aspx).
-
+  * UW Credit Union does not engage in joint marketing
 
 
