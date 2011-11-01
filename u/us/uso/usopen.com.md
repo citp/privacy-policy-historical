@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usopen.com privacy policy that was archived on 2010-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101104184241id_/http%3A//www.usopen.com/en_US/info/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usopen.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001118id_/http%3A//www.usopen.com/en_US/info/privacy/index.html) for the most accurate reproduction.*
 
-# The Official Site of the U.S. Open Championship Conducted By The USGA
+# USGA Copyright & Privacy Policy
+
+## Privacy Policy
 
 The USGA recognizes the importance its visitors place on privacy issues. We have created this privacy policy statement ("Privacy Policy") to ensure that you understand our policies and procedures. Any information you give us online will only be used in accordance with the practices described below. Please note that our online information collection and use practices may differ from our practices regarding information obtained offline. 
 
@@ -12,7 +14,7 @@ This Privacy Policy was last revised in November 2004.
 
 **What Information Does The USGA Collect?**
 
-The USGA collects two types of information from users of the USGA Sites: non-personal information (i.e., information � such the type of Internet browser you are using - that cannot be used to specifically identify you) and personal information (e.g., name, address, email, phone number, and credit card information) that does specifically identify you. 
+The USGA collects two types of information from users of the USGA Sites: non-personal information (i.e., information - such the type of Internet browser you are using - that cannot be used to specifically identify you) and personal information (e.g., name, address, email, phone number, and credit card information) that does specifically identify you. 
 
 The USGA regularly collects non-personal information about users of the USGA Sites. For example, when you visit any USGA Site, our web server automatically recognizes your Internet Protocol (IP) address as well as other information about your visit to the Site, all of which is non-identifying and used to compile statistics about traffic to our web site and for other purposes consistent with this Privacy Policy. 
 
@@ -55,7 +57,7 @@ You can refuse cookies by turning them off in your browser. However, if you turn
 
 The USGA also uses web beacon technology to help track USGA Site usage. Web beacons (also called single pixel gifs or action tags) allow the USGA to track page viewing counts and patterns, which we use to focus and tailor future content development and otherwise measure and improve the performance of our Sites. 
 
-Please note that at times, some of the advertisers on the USGA Sites and their and our ad service providers (including affiliate network providers and third party ad servers) may set cookies or use related technologies or web beacons when you click their advertising banners, links or other ads. While we use cookies and web beacons on parts of the USGA Sites (as discussed above), information from cookies and other technologies received with third party ads and links may be collected directly by those advertisers and ad service providers. The advertiser�s privacy policy and/or that of its service provider will govern the use of this information and we are not responsible for the privacy practices of such companies. 
+Please note that at times, some of the advertisers on the USGA Sites and their and our ad service providers (including affiliate network providers and third party ad servers) may set cookies or use related technologies or web beacons when you click their advertising banners, links or other ads. While we use cookies and web beacons on parts of the USGA Sites (as discussed above), information from cookies and other technologies received with third party ads and links may be collected directly by those advertisers and ad service providers. The advertiser's privacy policy and/or that of its service provider will govern the use of this information and we are not responsible for the privacy practices of such companies. 
 
 **Clickstream Data**
 
