@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the irawoods.com privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220070829id_/http%3A//www.irawoods.com/s.nl/it.I/id.3/.f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irawoods.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124435id_/http%3A//www.irawoods.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-| 
 
 |  |  |  |  |   
 ---|---|---|---|---  
