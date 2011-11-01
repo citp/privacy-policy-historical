@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the usa.com privacy policy that was archived on 2011-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110403044525id_/http%3A//www.usa.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125446id_/http%3A//www.usa.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : USA.com
-
-[Home](https://web.archive.org/) / Privacy Policy
 
 PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS WEBSITE. World Media Group, LLC ("Company") and USA.com ("the Website") (collectively "we") are committed to protecting the privacy and security of our customers and visitors on the Website. This Privacy Policy sets forth how the Website collects and uses personal information. By using this Website, you acknowledge that you have read and accepted our privacy practices set forth below.
 
