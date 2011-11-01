@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the brynmawr.edu privacy policy that was archived on 2011-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110614175510id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brynmawr.edu privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102000421id_/http%3A//www.brynmawr.edu/computing/policies/WebPrivacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><!-- TemplateBegin template="" codeOutsideHTMLIsLocked="false" --><head>
 
@@ -10,8 +10,25 @@
     <title>WebPrivacy</title>
     <!-- InstanceEndEditable -->
     <link href="/includes/stylesheets/all_styles_combined.css" media="screen" rel="stylesheet" type="text/css">
-    <link href="/includes/stylesheets/genP.css" media="print" rel="stylesheet" type="text/css">
-    <!-- Remove this line if this department does not need a local stylesheet -->
+    	<link href="/includes/stylesheets/genP.css?v=1" media="print" rel="stylesheet" type="text/css">
+	
+	<!-- For less capable mobile browsers
+	<link rel="stylesheet" media="handheld" href="/includes/stylesheets/handheld.css?v=1">  -->
+		
+	<!-- http://t.co/dKP3o1e added by cfarman for mobile/responsive design, based on 320 and up framework-->
+	<meta name="HandheldFriendly" content="True">
+	<meta name="MobileOptimized" content="320">
+	<meta name="viewport" content="width=device-width, target-densitydpi=160dpi, initial-scale=1.0">
+
+<!-- Homescreen/bookmark icons:
+		For iPhone 4 -->
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/includes/images/apple-touch-icon.png">
+	<!-- For iPad 1-->
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/includes/images/apple-touch-icon2.png">
+	<!-- For iPhone 3G, iPod Touch and Android -->
+	<link rel="apple-touch-icon-precomposed" href="/includes/images/apple-touch-icon-precomposed.png">
+	<!-- For everything else -->
+	<link rel="shortcut icon" href="http://www.brynmawr.edu/favicon.ico">    <!-- Remove this line if this department does not need a local stylesheet -->
     <!--    <link href="your_dept/includes/stylesheets/local.css" media="screen" rel="stylesheet" type="text/css" /> -->
     <!--[if lte IE 6]>
       <link href="/includes/stylesheets/slim_nav_ie6.css" media="screen" rel="stylesheet" type="text/css" />
@@ -36,7 +53,10 @@
         <div id="siteHeader">
             <h1><a href="http://www.brynmawr.edu">Bryn Mawr College</a></h1>
             <p id="skipToContent"><a href="#siteContent">Skip to Content</a></p>
-            <ul id="utilityNavigation">
+            <ul id="mobileMore">
+	<li id="mobileMoreButton">More</li>
+</ul>
+<ul id="utilityNavigation">
     <li class="first"><a href="http://www.brynmawr.edu/library/">Library</a></li>
     <li><a href="http://www.brynmawr.edu/giving/">Give</a></li>
 	<li><a href="http://www.brynmawr.edu/arts/">Arts</a></li>
@@ -49,7 +69,7 @@
 	<li class="iconYouTube icon"><a href="http://www.youtube.com/user/BrynMawrCollege"><span>YouTube</span></a></li>
     <li id="search">
         <form id="search_form" method="get" action="http://search.brynmawr.edu/search">
-            <label for="search_box">Search</label><input id="search_box" class="form_tip" type="text" name="q" value=""> <!--removed value="search" for time being cfarman 1-22-10 -->
+            <label for="search_box">Search</label><input id="search_box" class="form_tip" type="text" name="q" value="Search"> 
             <input type="hidden" name="site" value="default_collection">
             <input type="hidden" name="client" value="new_frontend">
             <input type="hidden" name="proxystylesheet" value="new_frontend">
@@ -92,7 +112,18 @@
     <li id="campus"><a href="http://www.brynmawr.edu/campus" class="primaryLink"><span>Campus</span></a></li>
     <li id="offices"><a href="http://www.brynmawr.edu/offices" class="primaryLink"><span>Offices</span></a></li>
     <li id="character"><a href="http://www.brynmawr.edu/character" class="primaryLink"><span>About Us</span></a></li>
-</ul><!-- #primaryNavigation -->
+</ul>
+
+<select id="primaryNavMobile"><!-- drop down for mobile nav -->
+   <option value="" selected="selected">Go to...</option> 
+   <option value="http://www.brynmawr.edu/academics">Academics</option>
+   <option value="http://www.brynmawr.edu/admissions">Admissions</option>
+   <option value="http://www.brynmawr.edu/studentlife">Student Life</option>
+   <option value="http://www.brynmawr.edu/campus">Campus</option>
+   <option value="http://www.brynmawr.edu/offices">Offices</option>
+   <option value="http://www.brynmawr.edu/character">About Us</option>
+ </select>
+<!-- #primaryNavigation -->
                 <p class="explaination" style="margin-bottom: 0">Customize your experience with quick links to recommended content.</p>
                 </div><!-- #curvy -->
             </div><!-- #slimNav --> 
@@ -117,7 +148,7 @@
 
                     </ul>
 
-<h2 class="hepburn"><a href="http://www.brynmawr.edu/is/learn/">TECH Bar</a></h2>
+<h2 class="hepburn"><a href="http://techbar.blogs.brynmawr.edu">TECH Bar Documentation</a></h2>
 <h2 class="girl"><a href="https://support.brynmawr.edu/sw/selfservice/">Report a Problem</a></h2>
 
                     
@@ -243,8 +274,13 @@
         <div id="footerDropShadow">
         </div>
     </div><!-- #siteWrapper -->
-    <!-- Start of Google Analytics Code -->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+    <!-- Grab Google CDN's jQuery; fall back to local if offline -->
+ <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+ <script>window.jQuery || document.write('<script src="/includes/js/jquery-1.4.2.min.js"><\/script>')</script><script src="/includes/js/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" src="/includes/js/featureset.js"></script>
+<script type="text/javascript" src="/includes/js/mobile.js"></script>
+<!-- Start of Google Analytics Code -->
+<script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-508230-3']);
