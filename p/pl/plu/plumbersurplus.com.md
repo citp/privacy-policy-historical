@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2010-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100731103254id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plumbersurplus.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155632id_/http%3A//www.plumbersurplus.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy at PlumberSurplus.com
 
-[](https://web.archive.org/Thousandsshipfreedaily.aspx)
+[](https://web.archive.org/Save-on-Price-Pfister.aspx)
 
 [Home](https://web.archive.org/) > **Privacy Policy**
 
