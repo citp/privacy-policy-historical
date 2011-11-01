@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2011-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110210092315id_/http%3A//www.paintball-online.com/pages/ViewPage.aspx%3Fpage%3D63%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtremez.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142319id_/http%3A//www.paintball-online.com/pages/ViewPage.aspx%3Fpage%3D63%23privacy) for the most accurate reproduction.*
 
-# 
+# Help Center About Us
 
 ## About Paintball-Online.com
 
@@ -110,12 +110,3 @@ Our users are given the opportunity to opt-out of having their information used 
 ## PowerReviews Program
 
 Paintball-Online has arranged with PowerReviews, Inc. (d/b/a Buzzillions) ("PowerReviews") to facilitate the collection of customer product reviews on products sold by paintball-online.com. When you submit a product review to paintball-online.com, you are also subject to PowerReviews' terms of use and privacy policies (see [Buzzillions Privacy Policy](http://www.buzzillions.com/public/legal/privacy_policy_en_US.html)). Accordingly, you should review those policies prior to submitting a review. Also, reviews you submit may be posted on both [Buzzillions.com](http://www.buzzillions.com/) and our site. 
-
-Customer Reviews
-
-Everything looked great. Christmas is coming up and I think some of these products I have been looking at will make great gifts. I also spoke to one of the most helpful Customer Service representatives around. He was able to answer all of my questions and make me feel comfortable about what I was ordering. That is a most definite plus for a business. Good job!
-
- **A. Galpert  
-Charlotte, SC**
-
-[view all testimonials](http://www.paintball-online.com/pages/ViewPage.aspx?page=91)
