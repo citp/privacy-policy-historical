@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229081923id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nokiasymbianthemes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101144119id_/http%3A//www.nokiasymbianthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of Nokia Symbian Themes Blog | Nokia Symbian Themes
 
@@ -345,4 +345,26 @@ Mail The Owner
 
 If you have any questions and comments about our Privacy Policy please contact us!
 
-**Like It? Then Subscribe, Link and Share!!:**
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&notes=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&srcTitle=Nokia+Symbian+Themes+Nokia+Symbian+Mobile+Themes%2C+Games+%26amp%3B+Applications+by+Chaos+Inc. "Google Reader")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&bodytext=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Digg")
+  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&annotation=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Google Bookmarks")
+  * 
+
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&t=Privacy%20Policy "Facebook")
+  * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy%20Policy&body=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&ui=2&tf=1&shva=1 "email")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&notes=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&srcURL=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&srcTitle=Nokia+Symbian+Themes+Nokia+Symbian+Mobile+Themes%2C+Games+%26amp%3B+Applications+by+Chaos+Inc. "Google Reader")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&bodytext=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Digg")
+  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.nokiasymbianthemes.com%2Fprivacy-policy&title=Privacy%20Policy&annotation=COMMITMENT%20TO%20YOUR%20%20PRIVACY%0D%0A%0D%0AThis%20site%20is%20owned%20and%20operated%20by%20Ishtiaq%20Saddam%20who%20is%20the%20CEO%20of%20Chaos%20Inc.%20or%20Nokia%20Symbian%20Themes%20located%20under%20the%20domain%20http%3A%2F%2Fwww.nokiasymbianthemes.com%20and%20if%20you%20have%20any%20questions%20or%20queries%20regarding%20our%20pr "Google Bookmarks")
+  * 
+
