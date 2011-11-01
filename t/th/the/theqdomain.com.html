@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the theqdomain.com privacy policy that was archived on 2011-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110412051022id_/http%3A//theqdomain.com/ocstore/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theqdomain.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101233149id_/http%3A//theqdomain.com/ocstore/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xml:lang="en"><head>
 <title>Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=charset">
 <base href="http://theqdomain.com/ocstore/">
-<link href="http://theqdomain.com/ocstore/image/data/redqbutton.png" rel="icon">
+<link href="http://image.theqdomain.com/data/redqbutton.png" rel="icon">
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/cleaner/stylesheet/stylesheet.css">
 <!--[if lt IE 7]>
 <link rel="stylesheet" type="text/css" href="catalog/view/theme/default/stylesheet/ie6.css" />
@@ -15,6 +16,7 @@ DD_belatedPNG.fix('img, #header .div3 a, #content .left, #content .right, .box .
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/gritter/css/jquery.gritter.css" media="screen">
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/fancybox/jquery.fancybox-1.3.0.css" media="screen">
+<link rel="stylesheet" type="text/css" href="catalog/view/theme/cleaner/stylesheet/override.css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="catalog/view/javascript/jquery/jquery-1.3.2.min.js"></script>
 <!--<script type="text/javascript" src="catalog/view/javascript/jquery/thickbox/thickbox-compressed.js"></script>
 <link rel="stylesheet" type="text/css" href="catalog/view/javascript/jquery/thickbox/thickbox.css" />-->
@@ -42,58 +44,11 @@ function bookmark(url, title) {
 	}
 }
 //--></script>
+<link rel="stylesheet" type="text/css" href="catalog/view/stylesheet/global.css">
 
-<meta name="google-site-verification" content="hHqvgXOwGVdCNVWQgDyWkc1INpNdPSVLLDbKWWANE44">
+			            
 
-<!-- BEGIN GRITTER SCRIPT -->
-<script type="text/javascript">
-$(document).ready(function(){
-
-	$.extend($.gritter.options, { 
-		fade_in_speed: 400, // how fast notifications fade in (string or int)
-		fade_out_speed: 400, // how fast the notices fade out
-		time: 3000 // hang on the screen for...
-	});
-	
-	var msg = "Newsletter Module Updated<br/>";
-	msg += " - Completely redesigned<br/>";		
-	msg += " - New look<br/>";
-	msg += " - Ajax functionality<br/>";
-	msg += " - Ajax admin filter and view<br/>";
-	msg += " - Optional Name field<br/>";
-
-	// Create cookie to prevent popup from showing more than once
-	var xdata = '<?php echo $welcome; ?>';
-	var COOKIE_NAME = 'tqd_gritter_cookie';
-	if($.cookie(COOKIE_NAME) != 'active') {
-		$.cookie(COOKIE_NAME, 'active', { expires: .01 });
-		
-		$.gritter.add({
-			// (string | mandatory) the heading of the notification
-			title: 'Breaking News!',
-			// (string | mandatory) the text inside the notification
-			text: msg,
-			sticky: true
-		});
-		
-		$.gritter.add({
-			// (string | mandatory) the heading of the notification
-			title: 'More News!',
-			// (string | mandatory) the text inside the notification
-			text: 'v1.4.8 Mods should work with 1.4.9.x',
-			sticky: true
-		});
-		
-		//$('#autostart').fancybox({
-		//	  'width': 640,
-		//	  'height': 400,
-		//	  'content' : xdata
-		//}); 
-		//$('#autostart').trigger("click");
-	}
-});
-</script>
-<!-- END GRITTER SCRIPT -->
+				<meta name="google-site-verification" content="hHqvgXOwGVdCNVWQgDyWkc1INpNdPSVLLDbKWWANE44">
 
 
 <!-- BEGIN FANCYBOX SCRIPT -->
@@ -139,6 +94,8 @@ $(document).ready(function() {
 </script>
 <!-- END FANCYBOX SCRIPT -->
 
+
+
 <!-- BEGIN INSTANT (POLAROID) SCRIPT -->
 <script type="text/javascript">
 $(document).ready(function(){
@@ -163,6 +120,9 @@ $(document).ready(function(){
 </script>
 <!-- END INSTANT (POLAROID) SCRIPT -->
 
+
+
+
 <!-- BEGIN JQMAGNIFY SCRIPT -->
 <script type="text/javascript">
 $(document).ready(function() {
@@ -175,6 +135,57 @@ $(document).ready(function() {
 });
 </script>
 <!-- END JQMAGNIFY SCRIPT -->
+
+
+
+
+<!-- BEGIN overlay News -->
+<script>
+$(document).ready(function(){
+
+	// Create cookie to prevent popup from showing more than once
+	$.get("jqnews.txt", function(data) {
+	
+		if (data) {
+			var COOKIE_NAME = 'tqd_fancymsg_cookie';
+			if($.cookie(COOKIE_NAME) != 'active') {
+				$.cookie(COOKIE_NAME, 'active', { expires: .01 });
+				$.fancybox(
+					data,
+					{
+			        		'autoDimensions'	: false,
+						'width'         	: 550,
+						'height'        	: 400,
+						'transitionIn'		: 'elastic',
+						'transitionOut'		: 'fade'
+					}
+				);
+			}
+		}
+	});
+
+});
+</script>
+
+<!-- END overlay News -->
+
+<!-- START Payment Loading Anim -->
+
+<script type="text/javascript">
+   $(document).ready(function() {
+      $('body').prepend('<div id="loading" style="display: none;">Loading...</div>');
+      var submitted = false;
+      //$('#checkout-form').submit(function() {
+      $('#payment a.button').submit(function() {
+      	alert('submitted');
+         if (submitted) return;
+         submitted = true;
+         $('div#loading').show();
+      });
+   });
+</script>
+
+<!-- END Payment Loading Anim -->		            
 </head>
 <body>
 <div class="cmshop-container">
@@ -194,7 +205,7 @@ $(document).ready(function() {
 
 
 <div id="cmshoplogo">
-            <a href="http://theqdomain.com/ocstore/"><img src="http://theqdomain.com/ocstore/image/data/qlogo5.png" title="The Qphoric Domain" alt="The Qphoric Domain"></a>
+            <a href="http://theqdomain.com/ocstore/index.php?route=common/home"><img src="http://image.theqdomain.com/data/qlogo5.png" title="The Qphoric Domain" alt="The Qphoric Domain"></a>
           </div>
 	
 <!--<div style="margin-top:10px; background-color: lightyellow; border: 1px solid #004A00; padding: 6px; width: 400px;" id="rssTicker">&nbsp;</div>-->
@@ -205,7 +216,7 @@ $(document).ready(function() {
 
 <!-- Select boxes -->
   <div id="cmnavdiv">
-	          <form action="http://theqdomain.com/ocstore/" method="post" enctype="multipart/form-data" id="currency_form">
+	          <form action="http://theqdomain.com/ocstore/index.php?route=common/home" method="post" enctype="multipart/form-data" id="currency_form">
           <div class="switcher" style="display:none;">
                                     <div class="selected"><a>US Dollar</a></div>
                                     <div class="option">
@@ -217,7 +228,7 @@ $(document).ready(function() {
             <input type="hidden" name="redirect" value="http://theqdomain.com/ocstore/privacy">
           </div>
         </form>
-                        <form action="http://theqdomain.com/ocstore/" method="post" enctype="multipart/form-data" id="language_form">
+                        <form action="http://theqdomain.com/ocstore/index.php?route=common/home" method="post" enctype="multipart/form-data" id="language_form">
           <div class="switcher" style="display:none;">
                                     <div class="selected"><a><img src="image/flags/gb.png" alt="English">&nbsp;&nbsp;English</a></div>
                                     <div class="option">
@@ -308,9 +319,13 @@ $('#cmsearch input').keydown(function(e) {
 	}
 });
 
-function moduleSearch() {
-	url = 'index.php?route=product/search';
+function moduleSearch() {	
+	pathArray = location.pathname.split( '/' );
 	
+	url = 'http://theqdomain.com/ocstore/';
+		
+	url += 'index.php?route=product/search';
+		
 	var filter_keyword = $('#filter_keyword').attr('value')
 	
 	if (filter_keyword) {
@@ -342,38 +357,9 @@ $('.switcher').bind('mouseleave', function() {
 <div id="column_left">
         <div class="box">
   <div class="top"><img src="catalog/view/theme/default/image/category.png" alt="">Categories</div>
-  <div id="category" class="middle"><ul><li><a href="http://theqdomain.com/ocstore/combo_deals.html">Bundle Deals</a></li><li><a href="http://theqdomain.com/ocstore/opencart_mods">OpenCart Mods</a></li></ul></div>
+  <div id="category" class="middle"><ul><li><a href="http://theqdomain.com/ocstore/oc_modules">OpenCart Modules</a></li><li><a href="http://theqdomain.com/ocstore/payment_modules">OpenCart Payment Extensions</a></li><li><a href="http://theqdomain.com/ocstore/shipping_modules">OpenCart Shipping Extensions</a></li><li><a href="http://theqdomain.com/ocstore/order_totals">OpenCart Order Totals</a></li><li><a href="http://theqdomain.com/ocstore/modifications">OpenCart Modifications</a></li><li><a href="http://theqdomain.com/ocstore/freebies">OpenCart Freebies</a></li><li><a href="http://theqdomain.com/ocstore/combo_deals.html">OpenCart Bundle Deals</a></li><li><a href="http://theqdomain.com/ocstore/services">OpenCart Services</a></li></ul></div>
   <div class="bottom">&nbsp;</div>
 </div>
-    
-
-
-<script type="text/javascript">
-$(document).ready(function () {
-    var el = $('form#login').parent().parent().parent();
-    if (el != undefined) {
-        $(el).after('<div id="paypal_express_checkout_cart_div" style="margin-bottom: 10px; text-align: right; display: inline-block; width: 100%;"> <a id="ppx" href="https://theqdomain.com/ocstore/index.php?route=payment/paypal_express/SetExpressCheckout"><img src="catalog/view/theme/default/image/EC-button.gif" alt="Paypal Express" /></a></div>');
-    }
-});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function () {
-    var el = $('form#cart');
-    if (el != undefined) {
-        $(el).after('<div id="paypal_express_checkout_cart_div" style="margin-bottom: 10px; text-align: right; display: inline-block; width: 100%;"> <a id="ppx" href="https://theqdomain.com/ocstore/index.php?route=payment/paypal_express/SetExpressCheckout"><img src="catalog/view/theme/default/image/EC-button.gif" alt="Paypal Express" /></a></div>');
-    }
-});
-</script>
-
-<script type="text/javascript">
-$(document).ready(function () {
-    var el = $('#module_cart .middle');
-    if (el != undefined) {
-        $(el).append('<div id="paypal_express_checkout_cart_div" style="margin-bottom: 10px; text-align: right; display: inline-block; width: 100%;"> <a id="ppx" href="https://theqdomain.com/ocstore/index.php?route=payment/paypal_express/SetExpressCheckout"><img src="catalog/view/theme/default/image/EC-button.gif" alt="Paypal Express" /></a></div>');
-    }
-});
-</script>
     <div class="box">
   <div class="top"><img src="catalog/view/theme/default/image/icon_paypal.png" alt="">Paypal Send</div>
   <div id="ppsendmoney" class="middle">
@@ -412,6 +398,7 @@ http://www.skype.com/go/skypebuttons
   <div id="information" class="middle">
     <ul>
             <li><a href="http://theqdomain.com/ocstore/faq">FAQ</a></li>
+            <li><a href="http://theqdomain.com/ocstore/index.php?route=information/information&amp;information_id=14">Gateway Affiliate Discounts</a></li>
             <li><a href="http://theqdomain.com/ocstore/about_us">About Us</a></li>
             <li><a href="http://theqdomain.com/ocstore/usage-license">Usage License</a></li>
             <li><a href="http://theqdomain.com/ocstore/privacy">Privacy Policy</a></li>
@@ -419,6 +406,8 @@ http://www.skype.com/go/skypebuttons
             <li><a href="http://theqdomain.com/ocstore/update_fees">Updates &amp; Fees</a></li>
             <li><a href="http://theqdomain.com/ocstore/video_tutorials">Video Tutorials</a></li>
             <li><a href="http://theqdomain.com/ocstore/module_compare">My Modules vs Others</a></li>
+            <li><a href="http://theqdomain.com/ocstore/auto-lang-inclusion">Automatic Language Inclusion</a></li>
+            <li><a href="http://theqdomain.com/ocstore/returns">Return Policy</a></li>
             <li><a href="http://theqdomain.com/ocstore/index.php?route=information/contact">Contact Us</a></li>
       <li><a href="http://theqdomain.com/ocstore/index.php?route=information/sitemap">Site Map</a></li>
     </ul>
@@ -429,75 +418,75 @@ http://www.skype.com/go/skypebuttons
   <div class="middle">
         <table cellpadding="2" cellspacing="0" style="width: 100%;">
             <tbody><tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/most-viewed"><img src="http://theqdomain.com/ocstore/image/cache/data/viewed-38x38.jpg" alt="Most Viewed Products Module (OpenCart)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/most-viewed">Most Viewed Products Module (OpenCart)</a>
-                    <br>
-                    <span style="font-size: 11px; color: #900;">$0.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=171" title="Add to Cart">&nbsp;</a>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/cashu"><img src="http://image.theqdomain.com/cache/data/cashu_logo-38x38.png" alt="Cashu Payment Integration (OpenCart)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/cashu">Cashu Payment Integration (OpenCart)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			<img src="image/v15x.png" alt="1.5.x compatible!" title="1.5.x compatible!">                    <br>
+                    <span style="font-size: 11px; color: #900;">$45.00</span>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=146" title="Add to Cart">&nbsp;</a>
           		  </td>
       </tr>
             <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/purchase_order"><img src="http://theqdomain.com/ocstore/image/cache/purchase_order_catalog-38x38.jpg" alt="Purchase Order Payment Module (OpenCart Addon)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/purchase_order">Purchase Order Payment Module (OpenCart Addon)</a>
-                    <br>
-                    <span style="font-size: 11px; color: #900; text-decoration: line-through;">$10.00</span> <span style="font-size: 11px; color: #F00;">$5.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=79" title="Add to Cart">&nbsp;</a>
-          		  </td>
-      </tr>
-            <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/upgrade"><img src="http://theqdomain.com/ocstore/image/cache/upgrade-38x38.jpg" alt="OpenCart Upgrades"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/upgrade">OpenCart Upgrades</a>
-                    <br>
-                    <span style="font-size: 11px; color: #900;">$25.00</span>
-                    <a class="button_add_small" href="http://theqdomain.com/ocstore/upgrade" title="Add to Cart">&nbsp;</a>
-          		  </td>
-      </tr>
-            <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/offline_credit_card"><img src="http://theqdomain.com/ocstore/image/cache/credit_card_terminal_1-38x38.jpg" alt="Offline Credit Card (OpenCart Addon)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/offline_credit_card">Offline Credit Card (OpenCart Addon)</a>
-                    <br>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/newsletter"><img src="http://image.theqdomain.com/cache/data/newsletter_catalog-38x38.png" alt="Newsletter Module (OpenCart Addon)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/newsletter">Newsletter Module (OpenCart Addon)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			                    <br>
                     <span style="font-size: 11px; color: #900;">$10.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=59" title="Add to Cart">&nbsp;</a>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=116" title="Add to Cart">&nbsp;</a>
           		  </td>
       </tr>
             <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/worldpayxml"><img src="http://theqdomain.com/ocstore/image/cache/admin_worldpayxml-38x38.jpg" alt="WorldPay (XML/Invisible) (OpenCart Addon)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/worldpayxml">WorldPay (XML/Invisible) (OpenCart Addon)</a>
-                    <br>
-                    <span style="font-size: 11px; color: #900;">$35.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=90" title="Add to Cart">&nbsp;</a>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/skype_chat"><img src="http://image.theqdomain.com/cache/skypecatalog-38x38.jpg" alt="Skype Chat Module (OpenCart Addon)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/skype_chat">Skype Chat Module (OpenCart Addon)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			                    <br>
+                    <span style="font-size: 11px; color: #900;">$5.00</span>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=114" title="Add to Cart">&nbsp;</a>
           		  </td>
       </tr>
             <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/hsbc_cpi"><img src="http://theqdomain.com/ocstore/image/cache/data/hsbc_cpi-38x38.jpg" alt="HSBC (CPI) (OpenCart Addon)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/hsbc_cpi">HSBC (CPI) (OpenCart Addon)</a>
-                    <br>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/dibsdk"><img src="http://image.theqdomain.com/cache/data/dibs-38x38.jpg" alt="Dibs &quot;FlexWin&quot; Payment integration (Opencart)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/dibsdk">Dibs "FlexWin" Payment integration (Opencart)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			<img src="image/v15x.png" alt="1.5.x compatible!" title="1.5.x compatible!">                    <br>
+                    <span style="font-size: 11px; color: #900;">$50.00</span>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=157" title="Add to Cart">&nbsp;</a>
+          		  </td>
+      </tr>
+            <tr>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/jqmagnify"><img src="http://image.theqdomain.com/cache/data/jqmagnify-38x38.png" alt="jqMagnify Product Zoom"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/jqmagnify">jqMagnify Product Zoom</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			                    <br>
+                    <span style="font-size: 11px; color: #900;">$5.00</span>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=150" title="Add to Cart">&nbsp;</a>
+          		  </td>
+      </tr>
+            <tr>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/barclaycpi"><img src="http://image.theqdomain.com/cache/data/barclays-epdq-latest-38x38.gif" alt="Barclay ePDQ CPI Payment Integration (OpenCart)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/barclaycpi">Barclay ePDQ CPI Payment Integration (OpenCart)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			<img src="image/v15x.png" alt="1.5.x compatible!" title="1.5.x compatible!">                    <br>
                     <span style="font-size: 11px; color: #900;">$40.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=62" title="Add to Cart">&nbsp;</a>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=145" title="Add to Cart">&nbsp;</a>
           		  </td>
       </tr>
             <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/paypal_express"><img src="http://theqdomain.com/ocstore/image/cache/ppx_logo-38x38.jpg" alt="Paypal Express integration (OpenCart Mod)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/paypal_express">Paypal Express integration (OpenCart Mod)</a>
-                    <br>
-                    <span style="font-size: 11px; color: #900;">$30.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=139" title="Add to Cart">&nbsp;</a>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/liberty-reserve"><img src="http://image.theqdomain.com/cache/data/LibertyReserve-38x38.gif" alt="Liberty Reserve SCI Payment (OpenCart)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/liberty-reserve">Liberty Reserve SCI Payment (OpenCart)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			<img src="image/v15x.png" alt="1.5.x compatible!" title="1.5.x compatible!">                    <br>
+                    <span style="font-size: 11px; color: #900;">$40.00</span>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=183" title="Add to Cart">&nbsp;</a>
           		  </td>
       </tr>
             <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/options_plus"><img src="http://theqdomain.com/ocstore/image/cache/data/demo_red_144-38x38.jpg" alt="Options Plus (OpenCart Addon)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/options_plus">Options Plus (OpenCart Addon)</a>
-                    <br>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/cust_group_disc"><img src="http://image.theqdomain.com/cache/data/catalog_customer_group_discount_15x-38x38.png" alt="Customer Group Discount (OpenCart Addon)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/cust_group_disc">Customer Group Discount (OpenCart Addon)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			<img src="image/v15x.png" alt="1.5.x compatible!" title="1.5.x compatible!">                    <br>
                     <span style="font-size: 11px; color: #900;">$20.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=87" title="Add to Cart">&nbsp;</a>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=88" title="Add to Cart">&nbsp;</a>
           		  </td>
       </tr>
             <tr>
-        <td valign="top" width="1"><a href="http://theqdomain.com/ocstore/ship_ins"><img src="http://theqdomain.com/ocstore/image/cache/admin_insurance-38x38.jpg" alt="Shipping Insurance (OpenCart Addon)"></a></td>
-        <td valign="top"><a href="http://theqdomain.com/ocstore/ship_ins">Shipping Insurance (OpenCart Addon)</a>
-                    <br>
-                    <span style="font-size: 11px; color: #900;">$6.00</span>
-                    <a class="button_add_small" href="https://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=113" title="Add to Cart">&nbsp;</a>
+        <td valign="top" style="width:1px"><a href="http://theqdomain.com/ocstore/payson"><img src="http://image.theqdomain.com/cache/payson-38x38.gif" alt="Payson.se AgentInstallation (OpenCart Addon)"></a></td>
+        <td valign="top"><a href="http://theqdomain.com/ocstore/payson">Payson.se AgentInstallation (OpenCart Addon)</a>
+<img src="image/v14x.png" alt="1.4.x compatible!" title="1.4.x compatible!">			<img src="image/v15x.png" alt="1.5.x compatible!" title="1.5.x compatible!">                    <br>
+                    <span style="font-size: 11px; color: #900;">$35.00</span>
+                    <a class="button_add_small" href="http://theqdomain.com/ocstore/index.php?route=checkout/cart&amp;product_id=58" title="Add to Cart">&nbsp;</a>
           		  </td>
       </tr>
           </tbody></table>
