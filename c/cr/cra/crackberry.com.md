@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackberry.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520122516id_/http%3A//crackberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackberry.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101234106id_/http%3A//crackberry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CrackBerry.com
 
