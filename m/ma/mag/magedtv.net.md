@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magedtv.net privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126065302id_/http%3A//magedtv.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magedtv.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131112id_/http%3A//www.magedtv.net/privacy.html) for the most accurate reproduction.*
 
 # Maged Tv - Privacy Policy
 
