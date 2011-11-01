@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verifyapp.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226022122id_/http%3A//verifyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verifyapp.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101131126id_/http%3A//verifyapp.com/privacy) for the most accurate reproduction.*
 
 # User feedback, concept testing | Verify Privacy Policy
 
