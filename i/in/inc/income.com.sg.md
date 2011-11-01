@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124042823id_/http%3A//income.com.sg/others/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the income.com.sg privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003317id_/http%3A//www.income.com.sg/others/privacy.asp) for the most accurate reproduction.*
 
-# None
+# NTUC Income | About Us
 
   1. **What Personal Information do we collect?**
     1. **Information you give us**   
@@ -106,29 +106,22 @@ Singapore 189557
 
 
 
-Contact Us - [24-hour Hotlines](https://web.archive.org/callcentre/hotlines.asp)
+me@income
 
-**Product Enquiries**  
-(General Insurance)  
-62INCOME / 6788 1111
+[](https://orgnet.income.com.sg/meincome/default.aspx)
 
-(Life Insurance)  
-6788 5515
+[](https://orgnet.income.com.sg/meincome/RequestPwd.aspx)
 
-(Group & Health)  
-6788 3113
+Buy Online
 
-**General Enquiries**  
-63INCOME / 6788 1777
+Branches / Business Centres
 
-**Income Centre**  
-75 Bras Basah Road  
-NTUC Income Centre Singapore 189557 
-
-**Other ways to contact us:**
+Contact Us
 
 Policyholder Education
 
 Birthday Treats
 
-If this month is your birthday then you are in for a treat on us.[check your eligibility](http://orgnet.income.com.sg/uibirthdaytreats/uibirthdaytreatslogin.aspx)
+Advance Queue Booking
+
+[](https://priorityreservation.income.com.sg/Pre-Q/ManageBooking.aspx)
