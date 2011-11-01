@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2010-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100428040911id_/http%3A//www.infoq.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoq.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101133948id_/http%3A//www.infoq.com/PrivacyPolicy.jsp) for the most accurate reproduction.*
 
 # InfoQ - Tracking change and innovation in the enterprise software development community
 
@@ -18,9 +18,9 @@ InfoQ, its third party service providers and advertisers may use single-pixel gi
 
 **Use of cookies and tags:**
 
-InfoQ and our advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of infoQ you�ve visited, so the next time you visit, those pages may be readily accessible. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent.
+InfoQ and our advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. A cookie can't read data off of your computer hard disk or read cookie files created by other Web sites. Cookies do not damage your system. We use cookies to identify which areas of infoQ you've visited, so the next time you visit, those pages may be readily accessible. You can choose whether to accept cookies by changing the settings of your Internet browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent.
 
-We use tags when you register on the site and apply these tags to content you�ve read and advertising you�ve viewed in order to deliver content and advertising on a similar topic and make your viewing experience on InfoQ seamless and deliver content that is most meaningful to you. We share this information with advertisers only after you give us specific permission to do so.
+We use tags when you register on the site and apply these tags to content you've read and advertising you've viewed in order to deliver content and advertising on a similar topic and make your viewing experience on InfoQ seamless and deliver content that is most meaningful to you. We share this information with advertisers only after you give us specific permission to do so.
 
 **The use of this information:**
 
@@ -52,4 +52,4 @@ You can correct or change the information collected during registration for any 
 
 Any modifications to our privacy policy will be reflected on InfoQ. If there is a material change in our privacy policy, we will indicate on InfoQ.com our privacy policy has changed and provide a link to the new privacy statement. Questions regarding this privacy statement should be sent to:
 
-[website@c4media.com](mailto:website@c4media.com) or C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any other aspects of our network of Web sites, should be sent via e-mail. 
+C4Media, 63 Willow ridge Rd., Toronto, Ontario, Canada M9R 3Z2 or regarding any other aspects of our network of Web sites, should be sent via e-mail. 
