@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surefiretradingchallenge.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224230924id_/http%3A//www.surefiretradingchallenge.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surefiretradingchallenge.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162702id_/http%3A//www.surefiretradingchallenge.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Surefire Trading Systems
 
@@ -37,9 +37,7 @@ You should also be aware that if you voluntarily disclose Personally Identifiabl
 
 Contacting Us  
 You can contact us anytime by addressing your query to:  
-The Manager, Surefiretradingchallenge.com  
-[](mailto:support@rovernorthforexsystem.com)  
-Fax: +1 (347) 4383131
+
 
 Changes to this Policy  
 We reserve the right to change this policy at any time. Please check this page periodically for changes.
@@ -48,12 +46,7 @@ Governing Law
 This policy and the use of this Site and purchase of any product from this site are governed by the laws of the Republic of South Africa. If a dispute arises under this Policy (agreement) we agree to first try to resolve it with the help of a mutually agreed-upon arbitrator in the following
 
 location:  
-Umhlanga, Kwazulu Natal, South Africa.  
-Company Details  
-Old Tree Publishing Pty Ltd  
-Suite 509, Private Bag X503  
-Northway, 4065, KZN, SA  
-Reg # - 2004/031553/07
+
 
 If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Umhlanga, under the rules of the Arbitration Foundation of South Africa and an arbitrator appointed by the Foundation.
 
