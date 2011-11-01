@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crystalidea.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121030302id_/http%3A//crystalidea.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crystalidea.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001505id_/http%3A//www.crystalidea.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CRYSTALIDEA Software
 
@@ -20,4 +20,4 @@ In some cases we may track or collect information about your use of our site by 
 
 **NOTICE:** By using this site, you signify your assent to the Online Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of our site following the posting of changes to the policy's will mean you accept those changes. Please contact our legal department if you have any further questions or concerns regarding our Online Privacy Policy.
 
-If you have any questions regarding the contents contained in the Online Privacy Policy, Terms and Conditions of Use, or the Copyright Statement, please [contact](https://web.archive.org/support) us.
+If you have any questions regarding the contents contained in the Online Privacy Policy, Terms and Conditions of Use, or the Copyright Statement, please [contact](https://web.archive.org/contact) us.
