@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the findaphd.com privacy policy that was archived on 2011-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110321213647id_/http%3A//www.findaphd.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the findaphd.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101125447id_/http%3A//www.findaphd.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>PhD | Privacy Statement</title>
@@ -12,18 +12,35 @@
 
 <body>
     <div id="divOuterContainer">
-        <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2428558-1']);
+    _gaq.push(['_setLocalRemoteServerMode']);
+    _gaq.push(['_setLocalGifPath', '/__utm.gif']);
+    _gaq.push(['_setDomainName','.findaphd.com']);
+    _gaq.push(['_trackPageLoadTime']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
 </script>
 <script type="text/javascript">
-    _uacct = "UA-2428558-1";
-    _userv = 2;
-    urchinTracker();
+    var check_ga_ServiceMode = _gaq.push(['_getServiceMode']);
+    // 0=Urchin only
+    // 1=GA only
+    // 2=both [default]
 </script>
 
 <link href="/common/css/shadowbox.css" rel="stylesheet" type="text/css">
 <script src="/common/js/jquery-1.4.4.min.js" type="text/javascript"></script>
 <script src="/common/js/shadowbox.js" type="text/javascript"></script>
 <script src="/common/js/scrollBackground.js" type="text/javascript"></script>
+
 
 <script type="text/javascript">
     var NBColour = "#333366";
@@ -64,6 +81,7 @@
 </script>
 
 
+
 <!--[if gte IE 5.5]>
 <![if lt IE 7]>
 <style type="text/css">
@@ -78,10 +96,21 @@ div#divNewBulletinContainer {
 
 <script type="text/javascript">
 
+    var domainName = document.domain.toLowerCase();
     $(document).ready(function() {
+    if (domainName.substr(0,3) != "www") domainName="www.findaphd.com";
+    document.getElementById("imgMinMax").src = "http://" + domainName + "/images/news/maximize.gif";
+    document.getElementById("NBWhatsNew").src = "http://" + domainName + "/images/news/whatsNew.gif";
 
-    document.getElementById("imgMinMax").src = NBMaximizeImg.src;
-    document.getElementById("NBWhatsNew").src = NBWhatsNewImg.src;
+    //var NBColour = "";
+    switch (domainName) {
+    case "www.findcpd.com": var NBColour = '#636'; break;
+    case "www.findaphd.com": var NBColour = '#336'; break;
+    case "www.findamasters.com": var NBColour = 'green'; break;
+    case "www.findanmba.com": var NBColour = 'teal'; break;
+    case "www.professionaldoctorates.com": var NBColour = '#633'; break;
+    }
+
     document.getElementById("divNewsBulletinBG").style.background = NBColour;
 
     if (!NBreadCookie('News')) {
@@ -89,6 +118,12 @@ div#divNewBulletinContainer {
     } else {
     NBhideNewsBulletins();
     }
+
+    //if ipad or iphone then remove the news bulletin panel
+    if ((navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPhone/i))) {
+    $(document).ready(function() { document.getElementById("divNewBulletinContainer").style.display = "none"; });
+    }
+
     });
 
     function NBreadCookie(name) {
@@ -124,7 +159,7 @@ div#divNewBulletinContainer {
         var WNimgBtn = document.getElementById("imgMinMax");
 
         WNimgBtn.title = "Maximize";
-        WNimgBtn.src = NBMaximizeImg.src;
+        WNimgBtn.src = "http://" + domainName + "/images/news/maximize.gif";
 
         WNancBtn.href = "javascript: NBshowNewsBulletins();";
         NBcreateCookie("News", true, 1);
@@ -140,7 +175,7 @@ div#divNewBulletinContainer {
         var WNimgBtn = document.getElementById("imgMinMax");
 
         WNimgBtn.title = "Close";
-        WNimgBtn.src = NBCloseImg.src;
+        WNimgBtn.src = "http://" + domainName + "/images/news/close.gif";
         WNancBtn.href = "javascript: NBhideNewsBulletins();";
         NBrunIt();
         NBcreateCookie("News", false, -1);
@@ -203,11 +238,11 @@ div#divNewBulletinContainer {
 
         if (vContent.style.display == 'none') {
             WNimgBtn.title = "Minimize";
-            WNimgBtn.src = NBMinimizeImg.src;
+            WNimgBtn.src = "http://" + domainName + "/images/news/minimize.gif";
             WNancBtn.href = "javascript: NBshowContents();";
         } else {
             WNimgBtn.title = "Close";
-            WNimgBtn.src = NBCloseImg.src;
+            WNimgBtn.src = "http://" + domainName + "/images/news/close.gif";
             WNancBtn.href = "javascript: NBhideNewsBulletins();";
         }
 
@@ -216,11 +251,11 @@ div#divNewBulletinContainer {
 </script>
 
 <div id="divNewBulletinContainer">
-<div id="divNewBulletinInnerContainer" style="float:right;">
-<div style="float:right;"><a id="ancMinMax" style="border:0px;color:white;" href="javascript: NBshowNewsBulletins();"><img id="imgMinMax" src="http://www.findaphd.com/images/news/maximize.gif" style="width:31px;height:18px;border:0px;" alt="" title=""></a></div>
+<div id="divNewBulletinInnerContainer">
+<div style="float:right;"><a id="ancMinMax" style="border:0px;color:white;" href="javascript: NBhideNewsBulletins();"><img id="imgMinMax" src="http://www.findaphd.com/images/news/close.gif" style="width:31px;height:18px;border:0px;" alt="" title="Close"></a></div>
 <div style="clear:both;"></div>
 
-<div id="divNewsBulletin" style="float:left;display:none;">
+<div id="divNewsBulletin" style="float: left; overflow: hidden; height: 1px;">
 <div style="float:left;"><img id="NBWhatsNew" style="border:0px;" alt="" title="" src="http://www.findaphd.com/images/news/whatsNew.gif"></div>
 
 <div style="clear:both;height:1px;font-size:1px;overflow:hidden;"></div>
@@ -230,8 +265,7 @@ div#divNewBulletinContainer {
 <div id="divContentRotator" style="padding:0px 4px 0px 4px; display:none;"></div>
 </div></div></div></div>
 
-
-<div id="divNewsHeadline_1" class="newsHeadline" style="display:none;">Receive PhD updates and news direct to your inbox!</div><div id="divNewsContent_1" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findaphd.com/student/newsletter.aspx?origin=NB">Click here</a> to sign up to the FindAPhD Newsletter.</div><div id="divNewsHeadline_2" class="newsHeadline" style="display:none;">View the latest PhD Opportunities!</div><div id="divNewsContent_2" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findaphd.com/search/newphds.asp">Click here</a> to see the latest PhDs on FindAPhD. New projects and programmes added every day!</div><div id="divNewsHeadline_3" class="newsHeadline" style="display:none;">Brand new FindAPhD search goes live!</div><div id="divNewsContent_3" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findaphd.com/search/">Click here</a> to give it a try.<br><br></div>
+<div id="divNewsHeadline_1" class="newsHeadline" style="display:none;">WIN A KINDLE!<br>Win one of Amazon's brilliant eBook readers.</div><div id="divNewsContent_1" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://www.findaphd.com/student/newsletter.aspx?origin=NB" target="_top">Sign up to our Newsletter</a> for the chance to win a shiny new Kindle.</div><div id="divNewsHeadline_2" class="newsHeadline" style="display:none;">Does one tweet? Follow @FindAPhD on Twitter!</div><div id="divNewsContent_2" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="http://twitter.com/#!/FindAPhD" target="_blank">Click here</a> to receive our latest fun and informative Tweets.</div><div id="divNewsHeadline_3" class="newsHeadline" style="display:none;">Did you know FindAPhD is on Facebook?</div><div id="divNewsContent_3" class="newsContent" style="display:none;"><div style="margin-top:4px;border-top: dotted 1px white; padding-top:4px;"></div><a style="color:gold;" href="https://www.facebook.com/FindAPhD" target="_blank">Click here</a> to take a look and give us a (well deserved) "like".</div>
 <script type="text/javascript">
     //if ipad or iphone then remove the news bulletin panel
     if ((navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPhone/i))) {
@@ -242,7 +276,7 @@ div#divNewBulletinContainer {
 
 <div id="mainHeader">
 <div id="logoArea"><a href="http://www.findaphd.com"><img src="http://www.findaphd.com/images/phdlogo.gif" alt="www.FindAPhD.com - PhD Studentships" title="Postgraduate research and PhD opportunities" width="417" height="91" border="0"></a></div>
-<div id="topfeatured">  <div><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45381"><img src="http://www.findaphd.com/images/featured/top/banner_lubs2011.gif" width="468" height="60" border="0"></a></div></div>
+<div id="topfeatured">  <div><a onclick="_gaq.push(['_trackEvent', 'Banner &amp; Buttons', 'Top Banner', 'ADID=45934#']);" href="http://www.findaphd.com/common/clickcount.aspx?theid=45934"><img src="http://www.findaphd.com/images/featured/top/banner_sussex11-12.gif" width="468" height="60" border="0"></a></div></div>
 </div>
 
 
@@ -256,34 +290,34 @@ PhD<br>Opportunities
 </div><div class="vMenuHeadingHR"></div>
 
 <div class="menuSpacer">
-21&nbsp;March, &nbsp;2011
+1&nbsp;November, &nbsp;2011
 </div>
 
 <div class="vMenuItem">
 <ul>
 
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com';return false;" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
         <a href="http://www.findaphd.com">Home</a>
     </li>
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com/search/'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findaphd.com/search/">Search Database</a>
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com/search';return false;" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+        <a href="http://www.findaphd.com/search">Search Database</a>
     </li>
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com/latest/'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findaphd.com/latest/">Latest PhDs</a>
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com/latest-phds';return false;" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+        <a href="http://www.findaphd.com/latest-phds">Latest PhDs</a>
     </li>
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com/student/'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findaphd.com/student/">Students</a>
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com/student';return false;" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+        <a href="http://www.findaphd.com/student">Students</a>
     </li>
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com/advertisers/index.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
-        <a href="http://www.findaphd.com/advertisers/index.asp">Advertisers</a>
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com/providers/advertise-phds.aspx';return false;" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+        <a href="http://www.findaphd.com/providers/advertise-phds.aspx">Advertise PhDs</a>
     </li>
 
-    <li class="vMenu" onclick="location.href='http://www.findaphd.com/about.asp'" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
+    <li class="vMenu" onclick="location.href='http://www.findaphd.com/about.asp';return false;" onmouseover="this.className='vMenuOver';" onmouseout="this.className='vMenu';">
         <a href="http://www.findaphd.com/about.asp">About</a>
     </li>
 
@@ -297,14 +331,14 @@ PhD<br>Opportunities
 <div style="float:left;padding-left:2px;"><div style="border:dotted 1px white;">
 <div style="width:140px;"><img src="http://www.findaphd.com/images/featuredheaderleftmenuspot.gif" width="140" height="25"></div>
 <div style="width:140px;">
-<a href="http://www.findaphd.com/clickcount.asp?fpa_id=45202"><img src="http://www.findaphd.com/images/featured/spot/menu_newcbus2.gif" border="0"></a><br>
+<a onclick="_gaq.push(['_trackEvent', 'Banner &amp; Buttons', 'Left Menu Spotlight', 'ADID=45088#']);" href="http://www.findaphd.com/common/clickcount.aspx?theid=45088"><img src="http://www.findaphd.com/images/featured/spot/menu_york_biol4b.gif" border="0"></a><br>
 </div></div></div>
 <!--// Left Menu Spotlight Adverts END //-->
 <!--// Left Menu Featured Adverts START //-->
 
 <div style="float:left;padding-top:24px; padding-left:3px; padding-bottom:24px;">
 <div style="width:140px;"><img src="http://www.findaphd.com/images/featuredheaderleftmenu.gif" width="140" height="25"></div>
-<div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45468"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/southampton2011.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45463"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/cardiff2011b.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a href="http://www.findaphd.com/clickcount.asp?fpa_id=45495"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/glas-eng.gif" width="140" height="60"></a></div>
+<div style="width:140px;padding-top:6px;"><a onclick="_gaq.push(['_trackEvent', 'Banner &amp; Buttons', 'Left Menu Mini Spotlight', 'ADID=45987#']);" href="http://www.findaphd.com/common/clickcount.aspx?theid=45987"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/manc-stud.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a onclick="_gaq.push(['_trackEvent', 'Banner &amp; Buttons', 'Left Menu Mini Spotlight', 'ADID=44507#']);" href="http://www.findaphd.com/common/clickcount.aspx?theid=44507"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/eui.gif" width="140" height="60"></a></div><div style="width:140px;padding-top:6px;"><a onclick="_gaq.push(['_trackEvent', 'Banner &amp; Buttons', 'Left Menu Mini Spotlight', 'ADID=45986#']);" href="http://www.findaphd.com/common/clickcount.aspx?theid=45986"><img style="border:0px;" src="http://www.findaphd.com/images/featured/minispot/leeds-astbury11.gif" width="140" height="60"></a></div>
 </div>
 
 <!--// Left Menu Featured Adverts END //-->
@@ -318,37 +352,75 @@ PhD<br>Opportunities
 <br>
 
 </div>
+<div class="topMenu">
+    <ul>
+        <li class="mastersTab" onclick="location.href='http://www.findamasters.com';" onmouseover="this.className='mastersTabDown';" onmouseout="this.className='mastersTab';">
+            <a href="http://www.findamasters.com" title="Masters degrees and postgraduate courses" onmouseover="this.title='';">Masters Courses</a>
+        </li>
+        <li class="mbaTab" onclick="location.href='http://www.findanmba.com';" onmouseover="this.className='mbaTabDown';" onmouseout="this.className='mbaTab';">
+            <a href="http://www.findanmba.com" title="MBA programmes and business Masters degrees" onmouseover="this.title='';">MBA Courses</a>
+        </li>
+        <li class="phdTab" onclick="location.href='http://www.findaphd.com';" onmouseover="this.className='phdTabDown';" onmouseout="this.className='phdTab';">
+            <a href="http://www.findaphd.com" title="PhD studentships and programmes" onmouseover="this.title='';">PhD Opportunities</a>
+        </li>
+        <li class="proDocTab" onclick="location.href='http://www.professionaldoctorates.com';" onmouseover="this.className='proDocTabDown';" onmouseout="this.className='proDocTab';">
+            <a href="http://www.professionaldoctorates.com" title="Professional Doctorate programmes" onmouseover="this.title='';">Professional Doctorates</a>
+        </li>
+        <li class="proDevTab" onclick="location.href='http://www.findcpd.com';" style="width: 140px;" onmouseover="this.className='proDevTabDown';" onmouseout="this.className='proDevTab';">
+            <a href="http://www.findcpd.com" title="Continuing Professional Development (CPD) courses" onmouseover="this.title='';">Professional Development (CPD)</a>
+        </li>
+        <li class="postDocTab" onclick="location.href='http://www.findapostdoc.com';" onmouseover="this.className='postDocTabDown';" onmouseout="this.className='postDocTab';">
+            <a href="http://www.findapostdoc.com" title="Postdoctoral and PhD jobs" onmouseover="this.title='';">PostDoc &amp; PhD Jobs</a>
+        </li>
+        <li class="uniJobTab" onclick="location.href='http://www.findauniversityjob.com';" onmouseover="this.className='uniJobTabDown';" onmouseout="this.className='uniJobTab';">
+            <a href="http://www.findauniversityjob.com" title="University academic and administrative jobs" onmouseover="this.title='';">University Jobs</a>
+        </li>
+        <li class="forumTab" onclick="window.open('http://www.postgraduateforum.com','_blank');return false;" onmouseover="this.className='forumTabDown';" onmouseout="this.className='forumTab';">
+            <a href="http://www.postgraduateforum.com" target="_blank" title="Postgraduate discussion forum" onmouseover="this.title='';">Postgrad Forum</a>
+        </li>
+    </ul>
+</div>
+<script language="javascript" type="text/javascript">
+<!-- //
 
-            <div class="topMenu">
-                <ul>
-                    <li class="mastersTab" onclick="location.href='http://www.findamasters.com';" onmouseover="this.className='mastersTabDown';" onmouseout="this.className='mastersTab';">
-                            <a href="http://www.findamasters.com">Masters<br> 
-                            Courses</a></li>
-                    <li class="mbaTab" onclick="location.href='http://www.findanmba.com';" onmouseover="this.className='mbaTabDown';" onmouseout="this.className='mbaTab';">
-                            <a href="http://www.findanmba.com">MBA<br> 
-                            Courses</a></li>
-                    <li class="phdTabDown" onclick="location.href='http://www.findaphd.com';">
-                            <a href="http://www.findaphd.com">PhD<br>
-                            Opportunities</a></li>
-                    <li class="proDocTab" onclick="location.href='http://www.professionaldoctorates.com';" onmouseover="this.className='proDocTabDown';" onmouseout="this.className='proDocTab';">
-                        <a href="http://www.professionaldoctorates.com">Professional<br>
-                            Doctorates</a></li>
-                    <li class="proDevTab" onclick="location.href='http://www.findcpd.com';" style="width: 140px;" onmouseover="this.className='proDevTabDown';" onmouseout="this.className='proDevTab';">
-                        <a href="http://www.findcpd.com">Professional<br>
-                            Development (CPD)</a></li>
-                    <li class="postDocTab" onclick="location.href='http://www.findapostdoc.com';" onmouseover="this.className='postDocTabDown';" onmouseout="this.className='postDocTab';">
-                        <a href="http://www.findapostdoc.com">PostDoc<br>
-                            Jobs</a></li>
-                    <li class="uniJobTab" onclick="location.href='http://www.findauniversityjob.com';" onmouseover="this.className='uniJobTabDown';" onmouseout="this.className='uniJobTab';">
-                        <a href="http://www.findauniversityjob.com">University<br>
-                            Jobs</a></li>
-                    <li class="forumTab" onclick="window.open('http://www.postgraduateforum.com','_blank');" onmouseover="this.className='forumTabDown';" onmouseout="this.className='forumTab';">
-                        <a href="javascript:void(0);">Postgrad<br>
-                            Forum</a></li>
-                </ul>
-            </div>  
+var tabName = "";
+var domainName = document.domain.toLowerCase();
 
+switch(domainName)
+{
+case "www.findamasters.com":
+  tabName = "mastersTab";
+  break;
+case "www.findanmba.com":
+  tabName = "mbaTab"; 
+  break;
+case "www.findaphd.com":
+  tabName = "phdTab"; 
+  break;
+case "www.professionaldoctorates.com":
+  tabName = "proDocTab";
+  break;
+case "www.findcpd.com":
+  tabName = "proDevTab"; 
+  break;
+case "www.findapostdoc.com":
+  tabName = "postDocTab"; 
+  break;
+case "www.findauniversityjob.com":
+  tabName = "uniJobTab"; 
+  break;
+case "www.postgraduateforum.com":
+  tabName = "forumTab"; 
+  break;
+}
 
+if ( tabName.length > 0 ) {
+  jQuery("." + tabName).toggleClass(tabName + "Down");
+  jQuery("." + tabName).removeAttr("onmouseout");  
+}
+
+// -->
+</script>
         <div id="divMainContent">
             <div id="breadCrumb">
                 <a href="firstmain.asp">FindAPhD.com</a>
@@ -438,54 +510,178 @@ PhD<br>Opportunities
         </div>
     </div>
     <div id="footer">
-    <div id="footerLinks">
-        <a href="http://www.findamasters.com" title="FindAMasters.com">Masters Courses</a>
-        <a href="http://www.findanmba.com" target="_blank">MBA Courses</a>
-        <a href="http://www.findaphd.com" target="_blank">PhD Studentships</a>
-        <a href="http://www.professionaldoctorates.com" target="_blank">Professional Doctorates</a>
-        <a href="http://www.findcpd.com" target="_blank">CPD Courses</a>
-        <a href="http://www.findapostdoc.com" target="_blank">PostDoc Jobs</a>
-        <a href="http://www.findauniversityjob.com" target="_blank">University Jobs</a>
-        <a href="http://www.postgraduateforum.com" target="_blank" style="padding-right:3px;border-right: dotted 1px #999999;">Postgrad Forum</a>
-    </div>
     <br>
-    <div style="margin:0 auto; width:100%; text-align:center;">
-    <div style="margin:0 auto; width:760px; text-align:center;">
-        <div id="FooterLeftFeature">
-            <span style="font-size: 12px;color: #6A2992; font-family: 'Trebuchet MS','Arial','Verdana';" title="The FindAPhD Postgraduate Study Fair Manchester">The FindAPhD Postgraduate Study Fair</span><br>
-           <span style="font-size: 14px; padding-top:5px; display: inline-block; font-weight: bold;">
-                Manchester</span><br>
-             <span style="font-size: 12px; margin-top: 3px;">23 November 2011</span>  </div>
-        <div id="FooterRightFeature">
-            <span style="font-size: 12px; color: #ED008C; font-family: 'Trebuchet MS','Arial','Verdana';" title="The FindAPhD Postgraduate Study &amp; MBA Fair London">The FindAPhD Postgraduate Study <br>&amp; MBA Fair</span><br>
-            <span style="font-size: 14px; padding-top:5px; display: inline-block; font-weight: bold;">
-                London</span><br>
-            <span style="font-size: 12px; margin-top: 3px;">25 January 2012</span>        </div>
-        <div id="footerText">
-            Copyright ©2011
-            The Science Registry Ltd. All rights reserved.<br>
-            The Science Registry Ltd, Redlands, 3/5 Tapton House Road, Sheffield S10 5BY
-            <br>
-            Tel: +44 (0) 114 2684940 Fax: +44 (0) 114 2685766<br>
-            <br>
-            <a href="http://www.findaphd.com" title="FindAPhD.com">Find A PhD</a> &nbsp;&nbsp;&nbsp;&nbsp;
-            <a href="http://www.findaphd.com/privacy.asp" title="FindAPhD Privacy Statement">Privacy
-                Statement</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="http://www.findaphd.com/sitemap.asp" title="FindAPhD Site Map">Site Map</a>
+    <div style="margin:0 auto; width:100%; background-color:#ccc; height:112px; -moz-border-radius: 15px; -webkit-border-radius: 15px; border-radius: 15px;">
+
+        <div style="padding:12px 15px 12px 15px;float:left; ">
+            <div style="float:left;width:280px; padding:5px; background-color:#fff; height:76px; -moz-border-radius: 8px; border-radius: 8px;
+            border: solid 2px #bbb;">
+                <div style="float:left;">
+                    <a href="http://www.findamasters.com/students/viewopenday.aspx?eid=3800" title="Postgraduate Study Fair" style="border:none;">
+                        <img title="Postgraduate Study Fair" src="http://www.findamasters.com/images/postgradFair.png" style="border:none; margin:5px 0px 0px 5px; width:90px;height:44px;"></a>
+                </div>
+                <div style="float:left;width:135px;padding:0px 25px 0px 25px; height:55px;">
+                    <a href="http://www.findamasters.com/students/viewopenday.aspx?eid=3800" title="Postgraduate Study Fair" style="display:block; line-height:11px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: purple;">
+                        The <span style="color:green;font-weight:bold;">FindAMasters</span> Postgraduate Study Fair
+                    </a>
+                </div>
+                <div style="clear:both;display:block; padding-top:5px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: #333; line-height:13px">
+                    MANCHESTER, 23 NOVEMBER 2011
+                </div>
+            </div>
         </div>
-        <div style="clear: both;">
+
+        <div style="padding:12px 15px 12px 15px;margin:0 auto;float:left; ">
+            <div style="float:left;width:280px; padding:5px; background-color:#fff; height:76px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px;
+            border: solid 2px #bbb;">
+                <div style="float:left;">
+                    <a href="http://www.findaphd.com/custadverts/postgradfair/london-postgraduate-study-mba-fair.asp" title="Postgraduate Study &amp; MBA Fair" style="border:none;">
+                        <img title="Postgraduate Study &amp; MBA Fair" src="http://www.findamasters.com/images/careersGrp.png" style="border:none; margin:5px 0px 0px 5px; width:132px;height:43px;"></a>
+                </div>
+                <div style="float:left;width:120px;padding:0px 0px 0px 10px; height:55px;">
+                    <a href="http://www.findaphd.com/custadverts/postgradfair/london-postgraduate-study-mba-fair.asp" title="Postgraduate Study &amp; MBA Fair" style="display:block; line-height:11px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: purple;">
+                        The <span style="color:green;font-weight:bold;">FindAPhD</span> Postgraduate Study &amp; MBA Fair
+                    </a>
+                </div>
+                <div style="clear:both;display:block; padding-top:5px; font: normal 14px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; color: #333; line-height:13px">
+                    LONDON, 25 JANUARY 2012
+                </div>
+            </div>
         </div>
-    </div></div>
-    
-<script type="text/javascript">
-<!-- //
-    if ((navigator.userAgent.match(/iPad/i)) || (navigator.userAgent.match(/iPhone/i))) {
-        document.getElementById("footerText").style.fontSize = "8px";
-    }
-//-->
-</script>    
-    
+        
+        <div style="padding:12px 15px 12px 15px;float:right; ">
+            <div style="float:left;width:242px; padding:5px 5px 5px 45px; background-color:#fff; height:76px; -moz-border-radius: 8px; -webkit-border-radius: 8px; border-radius: 8px; -webkit-border-radius: 8px; border: solid 2px #bbb; overflow:hidden;">
+                <div style="float:left;"><img src="http://www.findamasters.com/images/icons/twitter.png" title="PhD Twitter" style="margin:2px 0px 0px 5px; width:34px;height:34px;"></div>
+                
+                <div style="float:left;display:block; display:none; padding:1px 0 0 5px;"><a href="http://www.twitter.com/FindAPhD" title="PhD Twitter" target="_blank" style="line-height:14px !important; font: normal 11px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-weight:bold; color: #14a8c0;">Visit @FindAPhD on Twitter</a></div>
+                <div style="float:left;display:block; padding:10px 0 0 5px;"><a href="http://twitter.com/FindAPhD" title="Follow @FindAPhD" target="_blank" rel="nofollow" style="line-height:14px !important; font: normal 11px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-weight:bold; color: #203a70;">Follow us on Twitter</a></div>                
+                <div style="clear:both;height:1px;overflow:hidden;"></div>
+                
+                <div style="float:left;"><img src="http://www.findamasters.com/images/icons/facebook.png" title="PhD Facebook" style="margin:5px 0px 0px 5px; width:34px;height:34px;"></div>
+                <div style="float:left;display:block; padding:14px 0 0 5px;"><a href="http://www.facebook.com/FindAPhD" title="PhD Facebook" target="_blank" rel="nofollow" style="line-height:14px !important; font: normal 11px 'Trebuchet MS', Verdana, Arial, Helvetica, sans-serif; font-weight:bold; color: #203a70;">Visit Us on Facebook</a></div>              
+                <div style="clear:both;height:1px;overflow:hidden;"></div>
+            </div>
+        </div>
+
+    </div>
 </div>
-</div> 
+
+</div>
+
+
+<div id="footerNaviContainer">
+    <br>
+
+    <div class="footerNaviColumn" style="text-align:center;">
+        <h2 style="width:65px;line-height:16px;">
+            <a href="http://www.findaphd.com" title="PhD Programmes" style="color:#369;">Find A PhD</a>
+        </h2>
+        Copyright ©2011<br>
+        All rights reserved<br><br>
+        <div class="footerNaviLink">
+            <ul>
+                <li>
+                    <a href="http://www.findaphd.com/sitemap.asp" title="PhD Sitemap">Sitemap</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/privacy.asp" title="PhD Privacy Statement">Privacy Statement</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footerNaviColumn">
+        <h2>PhD Programmes</h2>
+        <div class="footerNaviLink">
+            <ul>
+                <li>
+                    <a href="http://www.findaphd.com/search/" title="Search for PhDs">Search for PhDs</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/latest-phds/" title="Latest PhDs">Latest PhDs</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/search/BrowseBySubject.aspx" title="PhDs by Subject">PhDs by Subject</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/search/BrowseByInst.aspx" title="PhDs by Institution">PhDs by Institution</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/search/BrowseByRegion.aspx" title="PhDs by Region">PhDs by Region</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footerNaviColumn">
+        <h2>Info for Students</h2>
+        <div class="footerNaviLink">
+            <ul>
+                <li>
+                    <a href="http://www.findaphd.com/student/study/study-1.asp" title="PhD Study Guide">PhD Study Guide</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/student/ukstudy/ukstudy-1.asp" title="PhDs in the UK">PhDs in the UK</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/student/funding/funding-1.asp" title="PhD Funding Guide">PhD Funding Guide</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/student/forum.asp" title="Postgraduate Advice Forum">Postgraduate Advice Forum</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/student/newsletter.aspx" title="Postgraduate Email Updates">Postgraduate Email Updates</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/student/news.aspx" title="PhD News">PhD News</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="footerNaviColumn">
+        <h2>Info for Advertisers</h2>
+        <div class="footerNaviLink">
+            <ul>
+                <li>
+                    <a href="http://www.findaphd.com/advertisers/newadvertisers.asp" title="Advertise a PhD">Advertise a PhD</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/advertisers/" title="University Login">Provider Login</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/advertisers/featured.asp" title="Masters Advertising">Banner &amp; Buttons</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/advertisers/spotlightnewsletter.asp" title="Masters Newsletters">Solus Emails</a>
+                </li>
+                <li>
+                    <a href="http://www.findaphd.com/advertisers/adterms.asp" title="Advertisers Terms And Conditions">Advertisers T &amp; Cs</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div style="clear:both;padding-top:10px;"></div>
+    <div style="background: #69c url('/common/images/framework/footerBg.png') repeat-x; color:#fff; padding:5px; -moz-border-radius: 5px 5px 0px 0px; border-radius: 5px 5px 0px 0px; -webkit-border-radius: 5px 5px 0px 0px; font-size:10px;">
+        <div id="footerLinks">
+    <a href="http://www.findamasters.com" title="Masters degrees and postgraduate courses" target="_blank">Masters Courses</a>
+    <a href="http://www.findanmba.com" title="MBA programmes and business Masters degrees" target="_blank">MBA Courses</a>
+    <a href="http://www.findaphd.com" title="PhD studentships and programmes" target="_blank">PhD Studentships</a>
+    <a href="http://www.professionaldoctorates.com" title="Professional Doctorate programmes" target="_blank">Professional Doctorates</a>
+    <a href="http://www.findcpd.com" title="Continuing Professional Development (CPD) courses" target="_blank">CPD Courses</a>
+    <a href="http://www.findapostdoc.com" title="Postdoctoral and PhD jobs" target="_blank">PostDoc &amp; PhD Jobs</a>
+    <a href="http://www.findauniversityjob.com" title="University academic and administrative jobs" target="_blank">University Jobs</a>
+    <a href="http://www.postgraduateforum.com" title="Postgraduate discussion forum" target="_blank" style="padding-right:3px;border-right: dotted 1px #999999;">Postgrad Forum</a>
+</div>
+        <div id="footerAddress">
+            <a href="http://www.thescienceregistry.com" target="_blank" title="Postgraduate Advertising">The Science Registry Ltd</a>, Redlands, 3/5 Tapton House Road, Sheffield S10 5BY, United Kingdom. Tel +44 (0) 114 2684940 Fax: +44 (0) 114 2685766
+        </div>
+    </div>
+
+</div>
+
+
 
 
 <div id="sb-container"><div id="sb-overlay"></div><div id="sb-wrapper"><div id="sb-title"><div id="sb-title-inner"></div></div><div id="sb-wrapper-inner"><div id="sb-body"><div id="sb-body-inner"></div><div id="sb-loading"><div id="sb-loading-inner"><span>loading</span></div></div></div></div><div id="sb-info"><div id="sb-info-inner"><div id="sb-counter"></div><div id="sb-nav"><a id="sb-nav-close" title="Close" onclick="Shadowbox.close()"></a><a id="sb-nav-next" title="Next" onclick="Shadowbox.next()"></a><a id="sb-nav-play" title="Play" onclick="Shadowbox.play()"></a><a id="sb-nav-pause" title="Pause" onclick="Shadowbox.pause()"></a><a id="sb-nav-previous" title="Previous" onclick="Shadowbox.previous()"></a></div></div></div></div></div></body></html>
