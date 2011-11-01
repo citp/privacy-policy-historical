@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503183810id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsurfer.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101235351id_/http%3A//www.couponsurfer.com/privacy.cfm) for the most accurate reproduction.*
 
 # CouponSurfer Privacy Statement
 
-[ ](https://web.archive.org/instantcoupon.cfm)
-
-|  CouponSurfer Privacy Statement
+| 
 
 > The CouponSurfer.com mission is to simplify the shopping experience of on-line consumers by providing a dedicated web site of major brand promotions. Consumers view coupons at their convenience with an interactive easy-to-use format. CouponSurfer.com saves consumers time and money by eliminating the need for searching through newspapers or hundreds of web sites. 
 > 
