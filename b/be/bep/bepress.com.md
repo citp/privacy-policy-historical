@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bepress.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611190056id_/http%3A//www.bepress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bepress.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002922id_/http%3A//www.bepress.com/privacy.html) for the most accurate reproduction.*
 
 # Berkeley Electronic Press
 
