@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the develop-online.net privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303224700id_/http%3A//www.develop-online.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the develop-online.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004255id_/http%3A//www.develop-online.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Develop
 
