@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackfulldownload.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428215218id_/http%3A//www.crackfulldownload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackfulldownload.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123928id_/http%3A//www.crackfulldownload.com/privacy.html) for the most accurate reproduction.*
 
 # Crack Full Download - Privacy Policy
 
