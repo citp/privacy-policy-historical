@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsatish.net privacy policy that was archived on 2010-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100621134935id_/http%3A//techsatish.net/2010/04/techsatish-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsatish.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162317id_/http%3A//techsatish.net/2010/04/techsatish-privacy-policy.html) for the most accurate reproduction.*
 
 # techsatish.net - you love it! >> tamil movies watch online,tamil serials watch online,tamil tv shows online,tamil fm radio online,tamil tv channels live
 
