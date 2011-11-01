@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626100246id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myzamana.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161824id_/http%3A//myzamana.com/privacy) for the most accurate reproduction.*
 
 # myZamana - Privacy Policy
 
