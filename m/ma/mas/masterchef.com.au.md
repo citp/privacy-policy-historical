@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterchef.com.au privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309135508id_/http%3A//www.masterchef.com.au/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterchef.com.au privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101142555id_/http%3A//www.masterchef.com.au/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,5 +74,4 @@ Network Ten reserves the right to change its privacy policy at any time, and you
 
 If you have other questions regarding our information handling processes, please [Contact Us](https://web.archive.org/contact.htm).
 
-This page last updated: 9 February 2007  
-
+This page last updated: 29 March 2011
