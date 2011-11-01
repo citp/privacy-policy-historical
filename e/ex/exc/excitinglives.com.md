@@ -1,11 +1,28 @@
-> *The following text is extracted and transformed from the excitinglives.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511191110id_/http%3A//www.excitinglives.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excitinglives.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101135735id_/http%3A//www.excitinglives.com/privacy.php) for the most accurate reproduction.*
 
 # Exciting Lives
 
-|   India's Most Exciting Gifts & Experiences  |  [Shopping Cart](http://www.excitinglives.com/experience/index.php?main_page=shopping_cart "Shopping Cart")   [My Account](http://www.excitinglives.com/experience/index.php?main_page=account_edit "My Account")   [_HELP!_](http://www.excitinglives.com/contact.php) |   
----|---|---|---  
-|  [](http://www.excitinglives.com/) |  |   
----|---|---|---  
+|  [](http://www.excitinglives.com/) |  **_The Hottest  
+Gift Ideas In  
+The Galaxy!_** |  [Shopping Cart](http://www.excitinglives.com/experience/index.php?main_page=shopping_cart "Shopping Cart")   [My Account](http://www.excitinglives.com/experience/index.php?main_page=account_edit "My Account")   [_HELP!_](http://www.excitinglives.com/contact.php) |   
+---|---|---|---|---  
+  
+Find  
+something  
+wonderful  
+for...
+
+|  | 
+
+[](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=boyexp) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=girlexp) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=friends) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=mother) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=father) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=kids) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=wife) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=husband) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=boss) [](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&keyword=&pfrom=0&pto=999999)
+
+|  |  [I Need It Today!](http://www.excitinglives.com/deliveredtoday.php)  
+[Cool Reminders](http://www.excitinglives.com/reminderservice.php)  
+[Art Of Gifting](http://www.excitinglives.com/blog/?cat=47)  
+[More...](http://www.excitinglives.com/giftguide.php)  
+---|---|---|---|---  
+|  _Get stuff:_   |  _Rs._ \-   |  |   
+---|---|---|---|---  
   
 Privacy Policy
 
@@ -39,9 +56,54 @@ This site contains links to other sites. We are not responsible for the privacy 
 **Contacting the Web Site:**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us using the links provided below. 
 
-[Contact Information](https://web.archive.org/web/20110511191110id_/http%3A//www.excitinglives.com/contact.php)  
-[Terms Of Use](https://web.archive.org/web/20110511191110id_/http%3A//www.excitinglives.com/terms.php)  
+[Contact Information](https://web.archive.org/web/20111101135735id_/http%3A//www.excitinglives.com/contact.php)  
+[Terms Of Use](https://web.archive.org/web/20111101135735id_/http%3A//www.excitinglives.com/terms.php)  
   
 ---  
-|  WHAT WE'VE GOT: [Gifts](https://web.archive.org/web/20110511191110id_/http%3A//www.excitinglives.com/giftguide.php) | [Reminder Service](http://www.excitinglives.com/reminderservice.php) | [Art Of Gifting](http://www.excitinglives.com/blog/?cat=47) | [Corporate Ideas](http://www.excitinglives.com/corporate.php) | [What's New](http://www.excitinglives.com/blog) | [Future Gifting](http://www.excitinglives.com/futuregifts.php) | [Gift Pack](http://www.excitinglives.com/sample.php) | [E-Gift](http://www.excitinglives.com/egift.php) | [Special Offers](http://www.excitinglives.com/signupinvite.php) |  |  GIFT CATEGORIES: [Action & Adventure](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=2) | [Body & Soul](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=5) | [Drinking](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=7) | [Fashion](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=12) | [Flowers & Cake](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=11) | [Gadgets & Games](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=14) | [Home & Accessories](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=3) | [Midnight](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=1) | [Naughty](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&search_in_description=1&keyword=naughty) | [Personalised](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=19) | [Romance](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=8) | [VIP](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=6) | [Gift Guide](http://www.excitinglives.com/giftguide.php) | [All Listings](http://www.excitinglives.com/allproducts.php) | [Wedding Gifts](http://www.excitinglives.com/weddinggiftsindia.php) | [Birthday Gifts](http://www.excitinglives.com/birthdaygiftsindia.php) | [Anniversary Gifts](http://www.excitinglives.com/anniversarygiftsindia.php) | [Send Flowers To India](http://www.excitinglives.com/sendflowerstoindia.php) |  |  MORE INFO: [About Us](http://www.excitinglives.com/about.php) | [Media Coverage](http://www.excitinglives.com/press.php) | [Corporate](http://www.excitinglives.com/corporate.php) | [Jobs](http://www.excitinglives.com/jobs.php) | [Customer Feedback](http://www.excitinglives.com/feedback.php) | [Partner With Us](http://www.excitinglives.com/contact.php) | [EL On Facebook](http://www.facebook.com/pages/Exciting-Lives/14124334161) |  |  |  HELP: [FAQ](http://www.excitinglives.com/faq.php) | [Contact Us](http://www.excitinglives.com/contact.php) |   
+|  WHAT WE'VE GOT:   
+[Gifts](https://web.archive.org/web/20111101135735id_/http%3A//www.excitinglives.com/giftguide.php)  
+[Reminder Service](http://www.excitinglives.com/reminderservice.php)  
+[Art Of Gifting](http://www.excitinglives.com/blog/?cat=47)  
+[Corporate Ideas](http://www.excitinglives.com/corporate.php)  
+[Future Gifting](http://www.excitinglives.com/futuregifts.php)  
+[Gift Pack](http://www.excitinglives.com/sample.php)  
+[E-Gift](http://www.excitinglives.com/egift.php)  
+[What's New](http://www.excitinglives.com/blog)  
+[Special Offers](http://www.excitinglives.com/signupinvite.php) |  |  GIFT CATEGORIES:  
+[Body & Soul](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=5)  
+[Drinking](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=7)  
+[Fashion](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=12)  
+[Flowers Chocolates](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=11)  
+[Gadgets & Games](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=14)  
+[Home & Accessories](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=3)  
+[Midnight Deliveries](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=1)  
+[Naughty Ideas](http://www.excitinglives.com/experience/index.php?main_page=advanced_search_result&search_in_description=1&keyword=naughty)  
+[Personalised Gifts](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=19)  
+[Romance](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=8)  
+[VIP](http://www.excitinglives.com/experience/index.php?main_page=index&cPath=6)  
+[Send Gifts to India](http://www.excitinglives.com/giftguide.php) |  |  OCCASIONS & OTHERS:  
+[Gift Guide](http://www.excitinglives.com/giftguide.php)  
+[Rakshabandhan Gifts](http://www.excitinglives.com/rakhigifts.php)  
+[Diwali Gifts](http://www.excitinglives.com/diwaligifts.php)  
+[Fathers Day Gifts](http://www.excitinglives.com/fathersdaygiftsindia.php)  
+[Wedding Gifts](http://www.excitinglives.com/weddinggiftsindia.php)  
+[Birthday Gifts](http://www.excitinglives.com/birthdaygiftsindia.php)  
+[Anniversary Gifts](http://www.excitinglives.com/anniversarygiftsindia.php)  
+[Send Flowers To India](http://www.excitinglives.com/sendflowerstoindia.php)  
+[Bachelor Party Gifts](http://www.excitinglives.com/bachelorpartyideasindia.php)  
+[Bachelorette Hen Party Gifts](http://www.excitinglives.com/bachelorettepartyideasindia.php)  
+[Gifts To India](http://www.excitinglives.com/giftstoindia.php)  
+[All Listings](http://www.excitinglives.com/allproducts.php) |  |  MORE INFO:   
+[About Us](http://www.excitinglives.com/about.php)  
+[Media Coverage](http://www.excitinglives.com/press.php)  
+[Corporate](http://www.excitinglives.com/corporate.php)  
+[Jobs](http://www.excitinglives.com/jobs.php)  
+[Customer Feedback](http://www.excitinglives.com/feedback.php)  
+[Complaints](http://www.excitinglives.com/complaints.php)  
+[Partner With Us](http://www.excitinglives.com/contact.php)  
+[EL On Facebook](http://www.facebook.com/pages/Exciting-Lives/14124334161)  
+|  |  HELP:  
+[FAQ](http://www.excitinglives.com/faq.php)  
+[Contact Us](http://www.excitinglives.com/contact.php)  
+|   
 © Copyright 2011 GA Media Pvt Ltd | [Privacy Policy](http://www.excitinglives.com/privacy.php) | [Terms Of Use](http://www.excitinglives.com/terms.php) | 
