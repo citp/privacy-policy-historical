@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myyogaonline.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602142242id_/http%3A//myyogaonline.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myyogaonline.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003104id_/http%3A//www.myyogaonline.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - My Yoga Online
+# Privacy Policy
 
 By using this site, you indicate your agreement of My Yoga Online's Privacy Policy.
 
