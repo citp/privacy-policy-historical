@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509092026id_/http%3A//www.rent.com.au/about_rent5.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002813id_/http%3A//www.rent.com.au/about_rent5.asp) for the most accurate reproduction.*
 
-# Rental properties, houses for rent, etc. Information for landlords, home owners, tenants, property managers at Rent.com.au.
+# Houses for rent, Rental Properties, Holiday and Share Accommodation at rent.com.au
 
 Privacy Policy for rent.com.au Pty Ltd, ACN 091 233 680 and its related entities, 'rent.com.au' 
 
