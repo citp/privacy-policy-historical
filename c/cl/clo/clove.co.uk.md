@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clove.co.uk privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213220424id_/http%3A//www.clove.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clove.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101104210id_/http%3A//www.clove.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Clove Technology - Privacy Policy
 
