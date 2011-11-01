@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the teddyhilton.com privacy policy that was archived on 2010-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101125154215id_/http%3A//teddyhilton.com/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teddyhilton.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101162944id_/http%3A//teddyhilton.com/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,33 +7,89 @@
 <meta name="description" content="TeddyHilton">
 
 <meta name="keywords" content="">
-<link media="screen" type="text/css" href="http://i.teddyhilton.com/wp-content/themes/default/style.css?ver=1290699601" rel="stylesheet">
+<link media="screen" type="text/css" href="http://i.teddyhilton.com/wp-content/themes/default/style.css?ver=1320164401" rel="stylesheet">
 <link rel="shortcut icon" href="http://i.teddyhilton.com/wp-content/themes/default/img/favicon.ico">
 <link rel="alternate" type="application/rss+xml" title="TeddyHilton RSS Feed" href="http://i.teddyhilton.com/?feed=rss2">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://i.teddyhilton.com/js/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+//PAGED
+    var ph_paged = 0;
+
+//PAGE TYPE
+var ph_page_type='page';
+
+//AD PAGE
+ph_ad_page = 'no';
+
+//AD SERVING
+var ph_sov = Math.floor(100*Math.random()) + 1;
+var ph_date = '2011-11-01';
+</script>
+
+
+<script type="text/javascript" src="http://i.teddyhilton.com/js/jquery-1.4.2.min.js"></script>
 <script type="text/javascript" src="http://i.teddyhilton.com/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://i.teddyhilton.com/wp-content/themes/default/js/background.js?ver=1290699601"></script>
+<script type="text/javascript" src="http://i.teddyhilton.com/js/jquery.base64.js"></script> 
+<script type="text/javascript" src="http://i.teddyhilton.com/js/jquery.urlEncode.js"></script>
+<script type="text/javascript" src="http://i.teddyhilton.com/wp-content/themes/default/js/background.js?ver=1320164401"></script>
 <script type="text/javascript" src="http://i.teddyhilton.com/wp-content/themes/default/js/functions.js"></script>
-<script type="text/javascript" src="http://i.teddyhilton.com/js/functions.js?ver=4"></script>
+<script type="text/javascript" src="http://i.teddyhilton.com/js/functions.js?ver=1316698089"></script>
 <script type="text/javascript" src="http://i.teddyhilton.com/galleries/js/configuration.js"></script>
 <script type="text/javascript" src="http://i.teddyhilton.com/galleries/data/gallerydata_homepage.js.php?ver=1"></script>
 <script type="text/javascript" src="http://i.teddyhilton.com/galleries/js/perezgallery.js?ver=5"></script>
 <link rel="stylesheet" type="text/css" href="http://i.teddyhilton.com/galleries/js/shadowbox/shadowbox.css?ver=1">
-<script type="text/javascript" src="http://i.teddyhilton.com/galleries/js/shadowbox/shadowbox.js?ver=1"></script>
+<script type="text/javascript" src="http://i.teddyhilton.com/galleries/js/shadowbox/shadowbox.js?ver=2"></script>
 <script type="text/javascript">
+
+shadowboxLoaded = false;
+
+function onShadowboxLoaded() {
+    shadowboxLoaded = true;
+}
+
+function onShadowboxItemClick() {
+    // Do nothing on click until Shadowbox loads images
+    if (!shadowboxLoaded) {
+        return false;
+    }
+}
+
+// Shadowbox needs this function for some reason or a JS error will occur
+function pg_counter_in_shadowbox() {
+};
+
+function onShowGalleryItem(item) {
+    if (item && item.content && item.gallery && item.el && item.el.id && item.el.id.search('photo-batch-') != -1) {
+        if (typeof urchinTracker == "function") {
+            var photo = item.content.slice(item.content.lastIndexOf('/')+1).replace('.pbbig', '');
+            var target = item.gallery + '?photo=' + photo;
+            _gaq.push(['_trackPageview', target]);
+        }
+    }
+}
+
 Shadowbox.init({
-    language: 'en',
-    players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv']
-});
+        language: 'en',
+        overlayOpacity: 0.8,
+        players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv'],
+        onOpen: onShowGalleryItem,
+        onChange: onShowGalleryItem
+    },
+    onShadowboxLoaded
+);
 
 iPad_customization();
 </script>
 
 <title>
 Internet Privacy Notice | TeddyHilton.com</title>
-
+<meta name="google-site-verification" content="eoKsMOKCpvjRVVylKJ0pB0NFf-hzR8kF9xzdNFpPsWg">
+<meta name="msvalidate.01" content="7194517B76439A893EB37CE8733FCBAE">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://teddyhilton.com/xmlrpc.php?rsd">
 <script language="javascript1.4" type="text/javascript" src="http://teddyhilton.com/wp-content/plugins/audio-player/audio-player.js"></script>
+	<link rel="stylesheet" type="text/css" href="http://i.teddyhilton.com/wp-content/plugins/chat/client/style.min.css?v=7">
+	<script type="text/javascript" src="http://i.teddyhilton.com/wp-content/plugins/chat/client/chat.min.js?v=4"></script>
+	<script type="text/javascript" src="http://cdn.gigya.com/JS/socialize.js?apikey=2_lcMx6kgPdtgGMYK_gW28-uotvARU43U7Oion3smOTeid6P7wOaivxwhcHOS-NLa8"></script>
 <script type="text/javascript" src="http://teddyhilton.com/wp-content/plugins/kommentvalasz/kommentvalasz.js"></script>
 
 <!-- Start Of Script Generated By WP-Polls 2.13 -->
@@ -65,8 +121,21 @@ Internet Privacy Notice | TeddyHilton.com</title>
 <body id="the_body" onload="resizeTop300x250AdDiv();">
 
 
-<script type="text/javascript" src="http://i.teddyhilton.com/included_ads/blogads_takeover_tracer.js"></script>
-
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://f.blogads.com/www/delivery/ajs.php':'http://f.blogads.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=114");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=114&amp;cb=63646390259&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111101162944id_/http%253A//teddyhilton.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=a6245327&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=114&amp;n=a6245327' border='0' alt='' /></a></noscript>
 <!-- GALLERY NAVIGATION IMAGE PRELOAD -->
 <div style="display:none;">
     <img src="http://i.teddyhilton.com/wp-content/themes/default/img/nextButton.png" width="1" height="1" border="0">
@@ -92,155 +161,335 @@ Internet Privacy Notice | TeddyHilton.com</title>
             <select style="width:150px;" name="cat" class="fitPostForm" onchange="jump_to_category();">
 	<option value="0">Jump to…</option>
 	<option value="50-cent">50 Cent</option>
+	<option value="adele">Adele</option>
 	<option value="adoption">Adoption</option>
+	<option value="adrian-grenier">Adrian Grenier</option>
 	<option value="agyness-deyn">Agyness Deyn</option>
+	<option value="alanis-morissette">Alanis Morissette</option>
 	<option value="alec-baldwin">Alec Baldwin</option>
+	<option value="alexander-skarsgard">Alexander Skarsgård</option>
+	<option value="ali-larter">Ali Larter</option>
+	<option value="alicia-silverstone">Alicia Silverstone</option>
 	<option value="alligator">Alligator</option>
+	<option value="alpaca">Alpaca</option>
+	<option value="alyssa-milano">Alyssa Milano</option>
+	<option value="amanda-bynes">Amanda Bynes</option>
 	<option value="amanda-seyfried">Amanda Seyfried</option>
 	<option value="amazing">Amazing</option>
+	<option value="amber-heard">Amber Heard</option>
+	<option value="amy-adams">Amy Adams</option>
+	<option value="anderson-cooper">Anderson Cooper</option>
+	<option value="angelina-jolie">Angelina Jolie</option>
 	<option value="anglophilia">Anglophilia</option>
 	<option value="animal-cruelty">Animal Cruelty</option>
 	<option value="animal-rights">Animal Rights</option>
+	<option value="anna-faris">Anna Faris</option>
+	<option value="anna-paquin">Anna Paquin</option>
 	<option value="ants">Ants</option>
+	<option value="ape">Ape</option>
+	<option value="armadillo">Armadillo</option>
 	<option value="arnold-schwarzenegger">Arnold Schwarzenegger</option>
+	<option value="ashley-greene">Ashley Greene</option>
+	<option value="ashley-judd">Ashley Judd</option>
 	<option value="ashley-tisdale">Ashley Tisdale</option>
 	<option value="attack">Attack!</option>
 	<option value="aubrey-oday">Aubrey O'Day</option>
+	<option value="audrina-patridge">Audrina Patridge</option>
 	<option value="awardz">Awardz</option>
 	<option value="awwwww">Awwwww</option>
 	<option value="babies">Babies</option>
+	<option value="badger">Badger</option>
 	<option value="barack-obama">Barack Obama</option>
 	<option value="batty-bat">Batty Bat</option>
 	<option value="bear">Bear</option>
+	<option value="beaver">Beaver</option>
+	<option value="beth-ostrosky-stern">Beth Ostrosky Stern</option>
 	<option value="betty-white">Betty White</option>
+	<option value="beyonce">Beyonce</option>
+	<option value="big-foot">Big Foot</option>
 	<option value="birds">Birds</option>
 	<option value="blake-lively">Blake Lively</option>
+	<option value="bo-obama">Bo Obama</option>
+	<option value="bob-barker">Bob Barker</option>
+	<option value="brad-pitt">Brad Pitt</option>
+	<option value="bradley-cooper">Bradley Cooper</option>
+	<option value="brigitte-nielsen">Brigitte Nielsen</option>
 	<option value="britney-spears">Britney Spears</option>
 	<option value="bruce-willis">Bruce Willis</option>
+	<option value="bugs">Bugs</option>
 	<option value="bulldog">Bulldog</option>
 	<option value="bunny">Bunny</option>
+	<option value="business-blitz">Business Blitz</option>
+	<option value="camel">Camel</option>
 	<option value="carrie-underwood">Carrie Underwood</option>
 	<option value="cat">Cat</option>
+	<option value="celebs-at-airports">Celebs At Airports</option>
 	<option value="cesar-milan">Cesar Milan</option>
 	<option value="chad-michael-murray">Chad Michael Murray</option>
+	<option value="channing-tatum">Channing Tatum</option>
 	<option value="charity">Charity</option>
+	<option value="charlie-sheen">Charlie Sheen</option>
+	<option value="charlize-theron">Charlize Theron</option>
 	<option value="chatting-with">Chatting With…</option>
+	<option value="cheetah">Cheetah</option>
+	<option value="chelsea-handler">Chelsea Handler</option>
 	<option value="cheryl-cole">Cheryl Cole</option>
+	<option value="chickens">Chickens</option>
 	<option value="chihuahua">Chihuahua</option>
+	<option value="chimpanzee">Chimpanzee</option>
+	<option value="chipmunk">Chipmunk</option>
+	<option value="chris-brown">Chris Brown</option>
+	<option value="chris-pratt">Chris Pratt</option>
+	<option value="christina-ricci">Christina Ricci</option>
+	<option value="ciara">Ciara</option>
 	<option value="cinnabun">Cinnabun</option>
 	<option value="circus">Circus</option>
 	<option value="clint-eastwood">Clint Eastwood</option>
+	<option value="clone">Clone</option>
 	<option value="community-service">Community Service</option>
+	<option value="conan-obrien">Conan O'Brien</option>
 	<option value="contest">Contest</option>
 	<option value="cory-monteith">Cory Monteith</option>
+	<option value="courteney-cox">Courteney Cox</option>
+	<option value="cow">Cow</option>
+	<option value="coyote">Coyote</option>
 	<option value="crazzzzy">Crazzzzy</option>
+	<option value="cristiano-ronaldo">Cristiano Ronaldo</option>
 	<option value="crocodiles">Crocodiles</option>
 	<option value="cuteness">Cuteness!</option>
+	<option value="dachshund">Dachshund</option>
+	<option value="dakota-fanning">Dakota Fanning</option>
 	<option value="danger">Danger!</option>
+	<option value="david-beckham">David Beckham</option>
+	<option value="david-duchovny">David Duchovny</option>
+	<option value="david-hasselhoff">David Hasselhoff</option>
 	<option value="debi-mazar">Debi Mazar</option>
 	<option value="deer">Deer</option>
 	<option value="denise-richards">Denise Richards</option>
+	<option value="dinosaur">Dinosaur</option>
 	<option value="discovery">Discovery</option>
 	<option value="disgusting">Disgusting!</option>
 	<option value="dog">Dog</option>
 	<option value="dolphins">Dolphins</option>
+	<option value="donkey">Donkey</option>
+	<option value="dr-patrick-mahaney">Dr. Patrick Mahaney</option>
 	<option value="drugs">Drugs</option>
+	<option value="ducks">Ducks</option>
+	<option value="eagle">Eagle</option>
+	<option value="ed-norton">Ed Norton</option>
 	<option value="elephants">Elephants</option>
 	<option value="eli-roth">Eli Roth</option>
+	<option value="elijah-wood">Elijah Wood</option>
+	<option value="elisabetta-canalis">Elisabetta Canalis</option>
+	<option value="elle-fanning">Elle Fanning</option>
 	<option value="ellen-degeneres">Ellen DeGeneres</option>
+	<option value="ellen-page">Ellen Page</option>
+	<option value="elton-john">Elton John</option>
+	<option value="emma-stone">Emma Stone</option>
 	<option value="emmy-rossum">Emmy Rossum</option>
 	<option value="endangered">Endangered</option>
 	<option value="english-bull-dog">English Bull Dog</option>
+	<option value="enrique-iglesias">Enrique Iglesias</option>
+	<option value="eva-mendes">Eva Mendes</option>
+	<option value="ewan-mcgregor">Ewan McGregor</option>
 	<option value="exclusives">Exclusives!</option>
-	<option value="fashion">fashion</option>
+	<option value="facebook">Facebook</option>
+	<option value="fan-pet-of-the-day">Fan Pet Of The Day</option>
+	<option value="farm">Farm</option>
 	<option value="fashion-smashion">Fashion Smashion</option>
 	<option value="ferrets">Ferrets</option>
 	<option value="fight-fight-fight">Fight Fight Fight!</option>
 	<option value="film-flickers">Film Flickers</option>
 	<option value="fish">Fish</option>
+	<option value="fox">Fox</option>
 	<option value="france">France</option>
 	<option value="french-bulldog">French Bulldog</option>
+	<option value="frog">Frog</option>
 	<option value="funny">Funny</option>
 	<option value="fur">Fur</option>
+	<option value="gabriel-aubry">Gabriel Aubry</option>
 	<option value="game">Game</option>
+	<option value="gavin-rossdale">Gavin Rossdale</option>
+	<option value="george-clooney">George Clooney</option>
+	<option value="german-shepherd">German Shepherd</option>
+	<option value="giggy">Giggy</option>
+	<option value="gina-gershon">Gina Gershon</option>
+	<option value="giraffe">Giraffe</option>
+	<option value="gisele-bundchen">Gisele Bundchen</option>
 	<option value="gloria-estefan">Gloria Estefan</option>
+	<option value="goat">Goat</option>
 	<option value="goldie-hawn">Goldie Hawn</option>
+	<option value="gordon-ramsay">Gordon Ramsay</option>
+	<option value="gorilla">Gorilla</option>
 	<option value="great-dane">Great Dane</option>
 	<option value="grooming">Grooming</option>
 	<option value="guy-pearce">Guy Pearce</option>
+	<option value="gwen-stefani">Gwen Stefani</option>
+	<option value="halle-berry">Halle Berry</option>
+	<option value="hamster">Hamster</option>
 	<option value="hayden-panettiere">Hayden Panettiere</option>
+	<option value="haylie-duff">Haylie Duff</option>
 	<option value="health">Health</option>
 	<option value="heidi-klum">Heidi Klum</option>
+	<option value="helen-hunt">Helen Hunt</option>
 	<option value="hilary-duff">Hilary Duff</option>
 	<option value="hippos">Hippos</option>
 	<option value="holly-madison">Holly Madison</option>
 	<option value="horses">Horses</option>
+	<option value="hugh-jackman">Hugh Jackman</option>
+	<option value="hunting">Hunting</option>
+	<option value="ian-somerhalder">Ian Somerhalder</option>
 	<option value="icky-icky-dog-poo">Icky Icky Dog Poo</option>
 	<option value="icky-icky-poo">Icky Icky Poo</option>
 	<option value="inger-martens">Inger Martens</option>
 	<option value="insects">Insects</option>
 	<option value="inspiration">Inspiration</option>
+	<option value="irina-shayk">Irina Shayk</option>
+	<option value="isaac-mizrahi">Isaac Mizrahi</option>
+	<option value="jack-black">Jack Black</option>
 	<option value="jack-hanna">Jack Hanna</option>
+	<option value="jack-osbourne">Jack Osbourne</option>
 	<option value="jack-russell-terrier">Jack Russell Terrier</option>
+	<option value="jake-gyllenhaal">Jake Gyllenhaal</option>
+	<option value="james-franco">James Franco</option>
+	<option value="jamie-bell">Jamie Bell</option>
+	<option value="jamie-oliver">Jamie Oliver</option>
+	<option value="jane-fonda">Jane Fonda</option>
 	<option value="jane-lynch">Jane Lynch</option>
+	<option value="january-jones">January Jones</option>
+	<option value="jared-leto">Jared Leto</option>
+	<option value="javier-bardem">Javier Bardem</option>
+	<option value="jay-leno">Jay Leno</option>
+	<option value="jean-claude-van-damme">Jean-Claude Van Damme</option>
 	<option value="jenna-fischer">Jenna Fischer</option>
 	<option value="jennifer-aniston">Jennifer Aniston</option>
+	<option value="jeremy-renner">Jeremy Renner</option>
 	<option value="jerry-oconnell">Jerry O'Connell</option>
+	<option value="jesse-eisenberg">Jesse Eisenberg</option>
 	<option value="jesse-james">Jesse James</option>
+	<option value="jessica-alba">Jessica Alba</option>
+	<option value="jessica-biel">Jessica Biel</option>
 	<option value="jessica-simpson">Jessica Simpson</option>
+	<option value="jewel">Jewel</option>
 	<option value="jimmy-fallon">Jimmy Fallon</option>
+	<option value="jimmy-kimmel">Jimmy Kimmel</option>
+	<option value="joan-rivers">Joan Rivers</option>
+	<option value="joe-jonas">Joe Jonas</option>
+	<option value="joey-lawrence">Joey Lawrence</option>
 	<option value="johnny-depp">Johnny Depp</option>
+	<option value="jon-cryer">Jon Cryer</option>
 	<option value="jonas-brothers">Jonas Brothers</option>
 	<option value="jordin-sparks">Jordin Sparks</option>
+	<option value="josh-groban">Josh Groban</option>
 	<option value="josh-lucas">Josh Lucas</option>
+	<option value="joss-stone">Joss Stone</option>
+	<option value="julia-roberts">Julia Roberts</option>
+	<option value="julianne-hough">Julianne Hough</option>
+	<option value="juliette-lewis">Juliette Lewis</option>
 	<option value="justin-bieber">Justin Bieber</option>
+	<option value="justin-timberlake">Justin Timberlake</option>
+	<option value="kangaroo">Kangaroo</option>
 	<option value="kat-graham">Kat Graham</option>
 	<option value="kate-bosworth">Kate Bosworth</option>
+	<option value="kate-gosselin">Kate Gosselin</option>
 	<option value="kate-hudson">Kate Hudson</option>
+	<option value="kate-winslet">Kate Winslet</option>
 	<option value="katherine-heigl">Katherine Heigl</option>
+	<option value="kathy-griffin">Kathy Griffin</option>
+	<option value="katie-holmes">Katie Holmes</option>
 	<option value="katy-perry">Katy Perry</option>
+	<option value="keith-urban">Keith Urban</option>
 	<option value="kellan-lutz">Kellan Lutz</option>
 	<option value="kellie-pickler">Kellie Pickler</option>
 	<option value="kelly-clarkson">Kelly Clarkson</option>
 	<option value="kelly-osbourne">Kelly Osbourne</option>
 	<option value="kelly-rowland">Kelly Rowland</option>
+	<option value="kesha">Kesha</option>
 	<option value="khloe-kardashian">Khloe Kardashian</option>
+	<option value="kim-kardashian">Kim Kardashian</option>
+	<option value="kirsten-dunst">Kirsten Dunst</option>
 	<option value="kitty">Kitty Purry</option>
+	<option value="kourtney-kardashian">Kourtney Kardashian</option>
+	<option value="kristen-bell">Kristen Bell</option>
 	<option value="kristen-stewart">Kristen Stewart</option>
+	<option value="kristin-bauer">Kristin Bauer</option>
+	<option value="kristin-cavallari">Kristin Cavallari</option>
 	<option value="kristin-chenoweth">Kristin Chenoweth</option>
+	<option value="kristin-davis">Kristin Davis</option>
 	<option value="kylie-minogue">Kylie Minogue</option>
 	<option value="labradoodle">Labradoodle</option>
 	<option value="labrador-retriever">Labrador Retriever</option>
+	<option value="lacey-schwimmer">Lacey Schwimmer</option>
 	<option value="lady-gaga">Lady GaGa</option>
 	<option value="lance-bass">Lance Bass</option>
+	<option value="latoya-jackson">LaToya Jackson</option>
+	<option value="laura-vandervoort">Laura Vandervoort</option>
 	<option value="lauren-conrad">Lauren Conrad</option>
 	<option value="law-suit">Law Suit</option>
 	<option value="lea-michele">Lea Michele</option>
 	<option value="legal-matters">Legal Matters</option>
 	<option value="leighton-meester">Leighton Meester</option>
+	<option value="leona-lewis">Leona Lewis</option>
 	<option value="leonardo-dicaprio">Leonardo DiCaprio</option>
+	<option value="leopard">Leopard</option>
 	<option value="lindsay-lohan">Lindsay Lohan</option>
 	<option value="lions">Lions</option>
+	<option value="liv-tyler">Liv Tyler</option>
+	<option value="lizards">lizards</option>
+	<option value="llama">Llama</option>
+	<option value="love-line">Love Line</option>
 	<option value="maggie-q">Maggie Q</option>
 	<option value="maltepoo">Maltepoo</option>
 	<option value="maltipoo">Maltipoo</option>
+	<option value="mama-nature">Mama Nature</option>
+	<option value="manatee">Manatee</option>
+	<option value="mandy-moore">Mandy Moore</option>
 	<option value="margaret-cho">Margaret Cho</option>
+	<option value="mariah-carey">Mariah Carey</option>
+	<option value="mark-salling">Mark Salling</option>
 	<option value="martha-stewart">Martha Stewart</option>
+	<option value="martin-sheen">Martin Sheen</option>
+	<option value="mastiff">Mastiff</option>
+	<option value="matt-damon">Matt Damon</option>
+	<option value="matthew-broderick">Matthew Broderick</option>
+	<option value="matthew-mcconaughey">Matthew McConaughey</option>
 	<option value="megan-fox">Megan Fox</option>
+	<option value="mel-b">Mel B</option>
+	<option value="melissa-mccarthy">Melissa McCarthy</option>
+	<option value="michael-jackson">Michael Jackson</option>
+	<option value="michael-vick">Michael Vick</option>
+	<option value="michelle-obama">Michelle Obama</option>
+	<option value="mike-tyson">Mike Tyson</option>
+	<option value="miley-cyrus">Miley Cyrus</option>
 	<option value="miniature-bull-terrier">Miniature Bull Terrier</option>
+	<option value="mink">Mink</option>
 	<option value="mischa-barton">Mischa Barton</option>
+	<option value="model">model</option>
 	<option value="monkey">Monkey</option>
+	<option value="moose">Moose</option>
+	<option value="mouse">Mouse</option>
 	<option value="music-minute">Music Minute</option>
+	<option value="natalie-portman">Natalie Portman</option>
 	<option value="natural-wonder">Natural Wonder</option>
 	<option value="neil-patrick-harris">Neil Patrick Harris</option>
+	<option value="nicole-kidman">Nicole Kidman</option>
 	<option value="nicole-richie">Nicole Richie</option>
+	<option value="nicollette-sheridan">Nicollette Sheridan</option>
 	<option value="nikki-reed">Nikki Reed</option>
+	<option value="noah-cyrus">Noah Cyrus</option>
 	<option value="old-people">Old People</option>
+	<option value="olivia-munn">Olivia Munn</option>
+	<option value="olivia-wilde">Olivia Wilde</option>
 	<option value="olsen-twins">Olsen Twins</option>
 	<option value="oops">Oops</option>
+	<option value="opossum">opossum</option>
 	<option value="oprah-winfrey">Oprah Winfrey</option>
 	<option value="orangutan">Orangutan</option>
+	<option value="orlando-bloom">Orlando Bloom</option>
 	<option value="otter">Otter</option>
+	<option value="owen-wilson">Owen Wilson</option>
+	<option value="owl">Owl</option>
+	<option value="ozzy-osbourne">Ozzy Osbourne</option>
 	<option value="pamela-anderson">Pamela Anderson</option>
 	<option value="panda">Panda</option>
 	<option value="paris-hilton">Paris Hilton</option>
@@ -249,73 +498,126 @@ Internet Privacy Notice | TeddyHilton.com</title>
 	<option value="patrick-dempsey">Patrick Dempsey</option>
 	<option value="paul-mccartney">Paul McCartney</option>
 	<option value="paula-abdul">Paula Abdul</option>
+	<option value="penelope-cruz">Penelope Cruz</option>
 	<option value="penguin">Penguin</option>
+	<option value="penn-badgley">Penn Badgley</option>
 	<option value="personally-perez">Personally Perez</option>
 	<option value="pet-hotels">Pet Hotels</option>
 	<option value="peta">PETA</option>
+	<option value="peter-jackson">Peter Jackson</option>
 	<option value="pets">Pets</option>
 	<option value="photos">Photos</option>
 	<option value="pig">Pig</option>
 	<option value="pink">Pink</option>
+	<option value="pit-bull">Pit Bull</option>
+	<option value="polar-bear">Polar Bear</option>
 	<option value="politics">Politics</option>
 	<option value="pomeranian">Pomeranian</option>
+	<option value="poodle">poodle</option>
+	<option value="porcupine">Porcupine</option>
+	<option value="portia-de-rossi">Portia de Rossi</option>
 	<option value="prank">Prank</option>
 	<option value="pretty-woman">Pretty (Wo)Man</option>
 	<option value="protection">Protection</option>
 	<option value="pug">Pug</option>
 	<option value="puppy">Puppy</option>
+	<option value="qa">Q&amp;A</option>
+	<option value="quick-shots">Quick Shots</option>
+	<option value="quote-of-the-day">Quote Of The Day</option>
 	<option value="rabbits">Rabbits</option>
+	<option value="raccoon">Raccoon</option>
 	<option value="rachel-bilson">Rachel Bilson</option>
 	<option value="ralphie-may">Ralphie May</option>
+	<option value="rat">Rat</option>
 	<option value="reality-television">Reality Television</option>
 	<option value="reese-witherspoon">Reese Witherspoon</option>
 	<option value="reptile-friends">Reptile Friends</option>
 	<option value="rescue">Rescue</option>
 	<option value="rhinos">Rhinos</option>
 	<option value="rihanna">Rihanna</option>
+	<option value="rip">RIP</option>
 	<option value="robbie-williams">Robbie Williams</option>
 	<option value="robert-downey-jr">Robert Downey Jr</option>
 	<option value="robert-pattinson">Robert Pattinson</option>
 	<option value="roberto-cavalli">Roberto Cavalli</option>
 	<option value="royals-royce">Royals Royce</option>
 	<option value="russell-brand">Russell Brand</option>
+	<option value="ryan-gosling">Ryan Gosling</option>
+	<option value="ryan-phillippe">Ryan Phillippe</option>
+	<option value="ryan-reynolds">Ryan Reynolds</option>
+	<option value="ryan-seacrest">Ryan Seacrest</option>
 	<option value="sad-sad">Sad Sad</option>
 	<option value="sandra-bullock">Sandra Bullock</option>
+	<option value="sarah-jessica-parker">Sarah Jessica Parker</option>
+	<option value="sarah-palin">Sarah Palin</option>
 	<option value="sarah-silverman">Sarah Silverman</option>
+	<option value="scarlett-johansson">Scarlett Johansson</option>
 	<option value="scary">Scary</option>
+	<option value="schnauzer">Schnauzer</option>
 	<option value="schnoodle">Schnoodle</option>
 	<option value="science">Science</option>
 	<option value="sea-creatures">Sea Creatures</option>
 	<option value="sea-world">Sea World</option>
+	<option value="seal">Seal</option>
+	<option value="sean-kingston">Sean Kingston</option>
 	<option value="selena-gomez">Selena Gomez</option>
+	<option value="selma-blair">Selma Blair</option>
+	<option value="separated-at-birth">Separated At Birth</option>
 	<option value="seth-rogen">Seth Rogen</option>
 	<option value="shark">Shark</option>
+	<option value="sharon-osbourne">Sharon Osbourne</option>
+	<option value="sheep">Sheep</option>
+	<option value="sheryl-crow">Sheryl Crow</option>
+	<option value="siegfried-and-roy">Siegfried and Roy</option>
 	<option value="silly">Silly!</option>
+	<option value="slash">Slash</option>
 	<option value="slithering-snakes">Slithering Snakes</option>
 	<option value="snooki">Snooki</option>
+	<option value="spider">Spider</option>
 	<option value="squirrel">Squirrel</option>
+	<option value="stephen-colbert">Stephen Colbert</option>
+	<option value="steve-o">Steve-O</option>
+	<option value="steven-spielberg">Steven Spielberg</option>
+	<option value="susan-boyle">Susan Boyle</option>
+	<option value="tapir">Tapir</option>
+	<option value="tara-reid">Tara Reid</option>
+	<option value="taraji-p-henson">Taraji P. Henson</option>
+	<option value="taylor-lautner">Taylor Lautner</option>
 	<option value="taylor-swift">Taylor Swift</option>
 	<option value="tech-talk">Tech Talk</option>
+	<option value="ted-danson">Ted Danson</option>
 	<option value="teddy-hilton">Teddy Hilton</option>
 	<option value="the-veronicas">The Veronicas</option>
 	<option value="therapy">Therapy</option>
 	<option value="tiger-tiger">Tiger Tiger</option>
+	<option value="tina-fey">Tina Fey</option>
 	<option value="tips">Tips</option>
+	<option value="tobey-maguire">Tobey Maguire</option>
+	<option value="tom-brady">Tom Brady</option>
 	<option value="tom-cruise">Tom Cruise</option>
+	<option value="tori-spelling">Tori Spelling</option>
 	<option value="toys">Toys</option>
 	<option value="training">Training</option>
 	<option value="turtle">Turtle</option>
 	<option value="tv-news">TV News</option>
 	<option value="twitter">Twitter</option>
+	<option value="venus-williams">Venus Williams</option>
 	<option value="victoria-beckham">Victoria Beckham</option>
 	<option value="wacky-tacky-true">Wacky Tacky &amp; True</option>
+	<option value="walrus">Walrus</option>
+	<option value="wendy-williams">Wendy Williams</option>
 	<option value="whales">Whales</option>
+	<option value="whoopi-goldberg">Whoopi Goldberg</option>
 	<option value="wildlife">Wildlife</option>
 	<option value="will-smith">Will Smith</option>
 	<option value="willow-smith">Willow Smith</option>
 	<option value="wolf">Wolf</option>
+	<option value="woody-harrelson">Woody Harrelson</option>
+	<option value="yao-ming">Yao Ming</option>
 	<option value="yorkie">Yorkie</option>
 	<option value="youtube">Youtube</option>
+	<option value="zachary-quinto">Zachary Quinto</option>
+	<option value="zebra">Zebra</option>
 	<option value="zoo">Zoo</option>
 	<option value="zportz">Zportz</option>
 </select>
@@ -329,6 +631,76 @@ Internet Privacy Notice | TeddyHilton.com</title>
     </div>
     
   </div>
+
+  <div id="featuredPostsContainer">
+<div id="featuredPostsLeftNav" class="featuredPostsLeftNav"><a href="#featured" class="leftArrowLink">&nbsp;</a></div>
+<div id="featuredPostsRightNav" class="featuredPostsRightNav"><a href="#featured" class="rightArrowLink">&nbsp;</a></div>
+<div id="featuredPostsListContainer">
+<ul id="featuredPosts">
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-11-01-hugh-jackman-and-his-daughter-walk-their-dog-on-their-way-to-school-in-new-york/?feat=yes" class="thumbnail"><img width="150" title="Hugh Jackman, His Daughter And Their Dog Out For A Stroll" src="http://i.teddyhilton.com/wp-content/uploads/2011/11/hugh-jackman-daughter-dog__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-11-01-hugh-jackman-and-his-daughter-walk-their-dog-on-their-way-to-school-in-new-york/?feat=yes">Hugh Jackman, His Daughter And Their Dog Out For A Stroll</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-11-01-hugh-jackman-and-his-daughter-walk-their-dog-on-their-way-to-school-in-new-york/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-31-giant-alligator-snapping-turtle-bites-into-a-watermelon-and-destroys-it/?feat=yes" class="thumbnail"><img width="150" title="Giant Snapping Turtle Kills Watermelon" src="http://vids.perezhilton.com/videos/523104feddb61/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-31-giant-alligator-snapping-turtle-bites-into-a-watermelon-and-destroys-it/?feat=yes">Giant Snapping Turtle Kills Watermelon</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-31-giant-alligator-snapping-turtle-bites-into-a-watermelon-and-destroys-it/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-31-the-wife-of-the-man-who-released-the-exotic-animals-who-were-massacred-in-ohio-wants-the-survivors-back/?feat=yes" class="thumbnail"><img width="150" title="Wife Of Man Who Released Exotic Animals In Ohio Wants The Survivors Back" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/leopard-wanted-back-by-ohio__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-31-the-wife-of-the-man-who-released-the-exotic-animals-who-were-massacred-in-ohio-wants-the-survivors-back/?feat=yes">Wife Of Man Who Released Exotic Animals In Ohio Wants The Survivors Back</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-31-the-wife-of-the-man-who-released-the-exotic-animals-who-were-massacred-in-ohio-wants-the-survivors-back/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-31-cute-little-goat-kid-dances-to-dubstep/?feat=yes" class="thumbnail"><img width="150" title="Dubstep Goat!" src="http://vids.perezhilton.com/videos/4a7b4e1645e56/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-31-cute-little-goat-kid-dances-to-dubstep/?feat=yes">Dubstep Goat!</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-31-cute-little-goat-kid-dances-to-dubstep/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-30-maregasm-is-about-a-man-who-loves-horses-more-than-women-physically/?feat=yes" class="thumbnail"><img width="150" title="Maregasm" src="http://vids.perezhilton.com/videos/104ffa938c4c2/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-30-maregasm-is-about-a-man-who-loves-horses-more-than-women-physically/?feat=yes">Maregasm</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-30-maregasm-is-about-a-man-who-loves-horses-more-than-women-physically/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-29-ellen-degeneres-is-the-spokesperson-for-farm-sanctuary-again-and-asks-you-to-adopt-a-turkey-not-eat-one/?feat=yes" class="thumbnail"><img width="150" title="Ellen DeGeneres Says Adopt A Turkey, Don't Eat One This Thanksgiving" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/adopta-a-dturkey-donte-at__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-29-ellen-degeneres-is-the-spokesperson-for-farm-sanctuary-again-and-asks-you-to-adopt-a-turkey-not-eat-one/?feat=yes">Ellen DeGeneres Says Adopt A Turkey, Don't Eat One This Thanksgiving</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-29-ellen-degeneres-is-the-spokesperson-for-farm-sanctuary-again-and-asks-you-to-adopt-a-turkey-not-eat-one/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-28-pygmy-goat-kid-dancing-and-playing-in-its-pen/?feat=yes" class="thumbnail"><img width="150" title="Baby Goat Dancing And Playing" src="http://vids.perezhilton.com/videos/2415ebf8cf591/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-28-pygmy-goat-kid-dancing-and-playing-in-its-pen/?feat=yes">Baby Goat Dancing And Playing</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-28-pygmy-goat-kid-dancing-and-playing-in-its-pen/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-28-justin-bieber-did-not-adopt-a-puppy-with-selena-gomez-as-so-many-have-been-reporting/?feat=yes" class="thumbnail"><img width="150" title="Justin Bieber Did NOT Adopt A Puppy With Selena Gomez" src="http://vids.perezhilton.com/videos/fb856a5804cee/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-28-justin-bieber-did-not-adopt-a-puppy-with-selena-gomez-as-so-many-have-been-reporting/?feat=yes">Justin Bieber Did NOT Adopt A Puppy With Selena Gomez</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-28-justin-bieber-did-not-adopt-a-puppy-with-selena-gomez-as-so-many-have-been-reporting/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-28-ellen-degeneres-and-portia-de-rossi-will-open-a-new-vegan-restaurant-in-la/?feat=yes" class="thumbnail"><img width="150" title="Ellen DeGeneres And Portia De Rossi Will Open Vegan Restaurant In LA" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/ellen-degeneres-and-portia__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-28-ellen-degeneres-and-portia-de-rossi-will-open-a-new-vegan-restaurant-in-la/?feat=yes">Ellen DeGeneres And Portia De Rossi Will Open Vegan Restaurant In LA</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-28-ellen-degeneres-and-portia-de-rossi-will-open-a-new-vegan-restaurant-in-la/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-28-trees-will-be-planted-in-haiti-for-jared-letos-40th-birthday-due-to-fan-donations/?feat=yes" class="thumbnail"><img width="150" title="Trees Planted In Haiti For Jared Leto's 40th Birthday" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/jared-leto-turning-40__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-28-trees-will-be-planted-in-haiti-for-jared-letos-40th-birthday-due-to-fan-donations/?feat=yes">Trees Planted In Haiti For Jared Leto's 40th Birthday</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-28-trees-will-be-planted-in-haiti-for-jared-letos-40th-birthday-due-to-fan-donations/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-27-a-fifth-grader-recieved-the-the-peta-kids-compassionate-action-award-for-stopping-worm-eating/?feat=yes" class="thumbnail"><img width="150" title="5th Grader Receives PETA Kids Compassionate Action Award" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/nick-schwarz-peta-waard-win__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-27-a-fifth-grader-recieved-the-the-peta-kids-compassionate-action-award-for-stopping-worm-eating/?feat=yes">5th Grader Receives PETA Kids Compassionate Action Award</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-27-a-fifth-grader-recieved-the-the-peta-kids-compassionate-action-award-for-stopping-worm-eating/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-27-a-man-in-zimbabwe-was-arrested-for-having-sex-with-a-donkey-and-claimed-it-was-a-shapeshifting-prostitute/?feat=yes" class="thumbnail"><img width="150" title="Man Arrested For Having Sex With Donkey Claimed It Used To Be A Human Prostitute" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/donkey-sex-with-zimbabwe-ma__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-27-a-man-in-zimbabwe-was-arrested-for-having-sex-with-a-donkey-and-claimed-it-was-a-shapeshifting-prostitute/?feat=yes">Man Arrested For Having Sex With Donkey Claimed It Used To Be A Human Prostitute</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-27-a-man-in-zimbabwe-was-arrested-for-having-sex-with-a-donkey-and-claimed-it-was-a-shapeshifting-prostitute/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-27-ukraine-accused-of-massacring-stray-dogs-in-anticipation-of-euro-soccer-game/?feat=yes" class="thumbnail"><img width="150" title="Ukraine Accused Of Ongoing Stray Dog Massacre" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/ukraine-dog-yelling-stary-m__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-27-ukraine-accused-of-massacring-stray-dogs-in-anticipation-of-euro-soccer-game/?feat=yes">Ukraine Accused Of Ongoing Stray Dog Massacre</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-27-ukraine-accused-of-massacring-stray-dogs-in-anticipation-of-euro-soccer-game/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-26-a-snoring-french-bulldog-keeps-making-a-baby-crack-up/?feat=yes" class="thumbnail"><img width="150" title="Baby Cracking Up At Snoring French Bulldog" src="http://vids.perezhilton.com/videos/ea2545b9bfb42/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-26-a-snoring-french-bulldog-keeps-making-a-baby-crack-up/?feat=yes">Baby Cracking Up At Snoring French Bulldog</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-26-a-snoring-french-bulldog-keeps-making-a-baby-crack-up/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-26-for-her-27th-birthday-katy-perry-wants-aspca-donations-so-she-set-up-a-webpage/?feat=yes" class="thumbnail"><img width="150" title="Katy Perry Wants ASPCA Donations For Her Birthday" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/katy-perry-wants-donations__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-26-for-her-27th-birthday-katy-perry-wants-aspca-donations-so-she-set-up-a-webpage/?feat=yes">Katy Perry Wants ASPCA Donations For Her Birthday</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-26-for-her-27th-birthday-katy-perry-wants-aspca-donations-so-she-set-up-a-webpage/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-26-black-lab-puppy-rescued-from-top-of-moving-double-decker-freight-train/?feat=yes" class="thumbnail"><img width="150" title="Puppy Rescued From Top Of Moving Train" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/boxy-the-rescued-train-pupp__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-26-black-lab-puppy-rescued-from-top-of-moving-double-decker-freight-train/?feat=yes">Puppy Rescued From Top Of Moving Train</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-26-black-lab-puppy-rescued-from-top-of-moving-double-decker-freight-train/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-26-peta-suing-seaworld-for-slavery-of-orcas/?feat=yes" class="thumbnail"><img width="150" title="Orcas Suing SeaWorld!" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/orca__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-26-peta-suing-seaworld-for-slavery-of-orcas/?feat=yes">Orcas Suing SeaWorld!</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-26-peta-suing-seaworld-for-slavery-of-orcas/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-26-jimmy-kimmels-halloween-costumes-for-pets-public-service-announcement/?feat=yes" class="thumbnail"><img width="150" title="Jimmy Kimmel's Pet Halloween Costume PSA" src="http://vids.perezhilton.com/videos/b22051255e0d4/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-26-jimmy-kimmels-halloween-costumes-for-pets-public-service-announcement/?feat=yes">Jimmy Kimmel's Pet Halloween Costume PSA</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-26-jimmy-kimmels-halloween-costumes-for-pets-public-service-announcement/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-25-blake-lively-surprises-ryan-reynolds-by-tying-colorful-ballons-to-her-dog-for-his-birthday/?feat=yes" class="thumbnail"><img width="150" title="Blake Lively Leaves Ryan Reynolds A Birthday Surprise" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/ryan-and-blake-birthday-sur__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-25-blake-lively-surprises-ryan-reynolds-by-tying-colorful-ballons-to-her-dog-for-his-birthday/?feat=yes">Blake Lively Leaves Ryan Reynolds A Birthday Surprise</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-25-blake-lively-surprises-ryan-reynolds-by-tying-colorful-ballons-to-her-dog-for-his-birthday/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-25-selena-gomez-and-justin-bieber-adopt-a-rescue-puppy-dog-named-baylor-together/?feat=yes" class="thumbnail"><img width="150" title="Selena Gomez And Justin Bieber Adopt A Puppy Together" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/justin-and-selena-adopt-a-p1__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-25-selena-gomez-and-justin-bieber-adopt-a-rescue-puppy-dog-named-baylor-together/?feat=yes">Selena Gomez And Justin Bieber Adopt A Puppy Together</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-25-selena-gomez-and-justin-bieber-adopt-a-rescue-puppy-dog-named-baylor-together/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-25-lea-michele-is-devastated-over-the-death-of-the-carriage-horse-who-dropped-dead-in-nyc/?feat=yes" class="thumbnail"><img width="150" title="Lea Michele Devastated Over NYC Carriage Horse Death" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/lea-michele-upset-of-hrose__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-25-lea-michele-is-devastated-over-the-death-of-the-carriage-horse-who-dropped-dead-in-nyc/?feat=yes">Lea Michele Devastated Over NYC Carriage Horse Death</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-25-lea-michele-is-devastated-over-the-death-of-the-carriage-horse-who-dropped-dead-in-nyc/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-24-nyc-tompkins-park-dog-run-halloween-parade/?feat=yes" class="thumbnail"><img width="150" title="NYC Halloween Dog Parade" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/dog-paradae-nyc-dog-run__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-24-nyc-tompkins-park-dog-run-halloween-parade/?feat=yes">NYC Halloween Dog Parade</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-24-nyc-tompkins-park-dog-run-halloween-parade/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-24-lea-michele-named-a-variety-power-of-woman-honoree-for-her-peta-work/?feat=yes" class="thumbnail"><img width="150" title="Lea Michele Named <em>Variety</em> Power Of Women Honoree" src="http://vids.perezhilton.com/videos/481bfabfb2b5c/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-24-lea-michele-named-a-variety-power-of-woman-honoree-for-her-peta-work/?feat=yes">Lea Michele Named <em>Variety</em> Power Of Women Honoree</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-24-lea-michele-named-a-variety-power-of-woman-honoree-for-her-peta-work/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-22-blake-lively-leaves-ryan-reynolds-apartment/?feat=yes" class="thumbnail"><img width="150" title="Blake Lively Does The Walk Of Shame Outside of RyRy's Beantown Pad While His Dog Friend Keeps Watchful Eye!" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/blake-walk-of-shame__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-22-blake-lively-leaves-ryan-reynolds-apartment/?feat=yes">Blake Lively Does The Walk Of Shame Outside of RyRy's Beantown Pad While His Dog Friend Keeps Watchful Eye!</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-22-blake-lively-leaves-ryan-reynolds-apartment/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-20-celebrity-reactions-to-the-ohio-exotic-animal-massacre-by-police/?feat=yes" class="thumbnail"><img width="150" title="Celeb Reactions To The Ohio Animal Massacre" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/exoitc-iwld-animala-lloose__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-20-celebrity-reactions-to-the-ohio-exotic-animal-massacre-by-police/?feat=yes">Celeb Reactions To The Ohio Animal Massacre</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-20-celebrity-reactions-to-the-ohio-exotic-animal-massacre-by-police/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-20-louis-from-food-for-louis-drinks-a-blended-ten-mouse-milkshake/?feat=yes" class="thumbnail"><img width="150" title="Man Drinks Ten Mouse Milkshake" src="http://vids.perezhilton.com/videos/982db14948a02/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-20-louis-from-food-for-louis-drinks-a-blended-ten-mouse-milkshake/?feat=yes">Man Drinks Ten Mouse Milkshake</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-20-louis-from-food-for-louis-drinks-a-blended-ten-mouse-milkshake/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-20-even-though-foie-gras-was-banned-there-are-still-many-cruel-foods-out-there/?feat=yes" class="thumbnail"><img width="150" title="Eight Foods More Cruel Than Foie Gras" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/foie-gras-not-the-worst-ban__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-20-even-though-foie-gras-was-banned-there-are-still-many-cruel-foods-out-there/?feat=yes">Eight Foods More Cruel Than Foie Gras</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-20-even-though-foie-gras-was-banned-there-are-still-many-cruel-foods-out-there/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-19-a-gentle-dog-teaches-a-cute-young-baby-how-to-play-ball/?feat=yes" class="thumbnail"><img width="150" title="Dog Teaches Baby To Play Ball!" src="http://vids.perezhilton.com/videos/78fb014c4239c/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-19-a-gentle-dog-teaches-a-cute-young-baby-how-to-play-ball/?feat=yes">Dog Teaches Baby To Play Ball!</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-19-a-gentle-dog-teaches-a-cute-young-baby-how-to-play-ball/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-19-jumpy-paranoid-cat-scares-himself-away/?feat=yes" class="thumbnail"><img width="150" title="Paranoid Cat Scares Himself" src="http://vids.perezhilton.com/videos/b6ea8c6ce3ffe/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-19-jumpy-paranoid-cat-scares-himself-away/?feat=yes">Paranoid Cat Scares Himself</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-19-jumpy-paranoid-cat-scares-himself-away/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-19-red-pandas-wont-stop-making-out-in-front-of-people-at-the-zoo/?feat=yes" class="thumbnail"><img width="150" title="Red Pandas Can't Stop Kissing" src="http://vids.perezhilton.com/videos/e392e9220a384/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-19-red-pandas-wont-stop-making-out-in-front-of-people-at-the-zoo/?feat=yes">Red Pandas Can't Stop Kissing</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-19-red-pandas-wont-stop-making-out-in-front-of-people-at-the-zoo/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-18-south-korea-researchers-are-the-first-to-clone-coyotes/?feat=yes" class="thumbnail"><img width="150" title="South Korea Clones Coyotes" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/cloned-coyoote-sotuh-kroea__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-18-south-korea-researchers-are-the-first-to-clone-coyotes/?feat=yes">South Korea Clones Coyotes</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-18-south-korea-researchers-are-the-first-to-clone-coyotes/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-18-bea-cub-walks-into-alaskan-grocery-store/?feat=yes" class="thumbnail"><img width="150" title="Bear Cub Walks Into Alaskan Grocery Store" src="http://vids.perezhilton.com/videos/dd1808f0d7a87/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-18-bea-cub-walks-into-alaskan-grocery-store/?feat=yes">Bear Cub Walks Into Alaskan Grocery Store</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-18-bea-cub-walks-into-alaskan-grocery-store/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-18-blue-the-dog-on-death-row-for-biting-a-toddler-was-broken-out-of-jail/?feat=yes" class="thumbnail"><img width="150" title="Dog On Death Row Broken Out Of Jail" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/pitdog-blue-daeth-row-escap__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-18-blue-the-dog-on-death-row-for-biting-a-toddler-was-broken-out-of-jail/?feat=yes">Dog On Death Row Broken Out Of Jail</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-18-blue-the-dog-on-death-row-for-biting-a-toddler-was-broken-out-of-jail/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-18-a-shelter-cat-set-from-euthanization-survives-the-gas-chamber-twice/?feat=yes" class="thumbnail"><img width="150" title="Cat Survives Euthanasia... Twice" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/cat-surivves-euthaniasia__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-18-a-shelter-cat-set-from-euthanization-survives-the-gas-chamber-twice/?feat=yes">Cat Survives Euthanasia... Twice</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-18-a-shelter-cat-set-from-euthanization-survives-the-gas-chamber-twice/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-17-dr-patrick-mahaney-and-his-dog-cardiff-talk-about-pet-fashion/?feat=yes" class="thumbnail"><img width="150" title="Dr. Patrick Mahaney And Pet Fashion" src="http://vids.perezhilton.com/videos/728daf50a8df5/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-17-dr-patrick-mahaney-and-his-dog-cardiff-talk-about-pet-fashion/?feat=yes">Dr. Patrick Mahaney And Pet Fashion</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-17-dr-patrick-mahaney-and-his-dog-cardiff-talk-about-pet-fashion/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-15-betty-white-is-still-hot-in-new-music-video-with-dance-techno-artist-luciana/?feat=yes" class="thumbnail"><img width="150" title="Betty White Is Still Hot" src="http://vids.perezhilton.com/videos/9feff869a18f6/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-15-betty-white-is-still-hot-in-new-music-video-with-dance-techno-artist-luciana/?feat=yes">Betty White Is Still Hot</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-15-betty-white-is-still-hot-in-new-music-video-with-dance-techno-artist-luciana/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-14-diseased-seals-with-an-unknown-affliction-arrive-on-the-shores-of-alaska-covered-in-lesions/?feat=yes" class="thumbnail"><img width="150" title="Seals Arrive On Alaskan Shores With Unknown Disease" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/seal-sick-ring-seal-alska__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-14-diseased-seals-with-an-unknown-affliction-arrive-on-the-shores-of-alaska-covered-in-lesions/?feat=yes">Seals Arrive On Alaskan Shores With Unknown Disease</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-14-diseased-seals-with-an-unknown-affliction-arrive-on-the-shores-of-alaska-covered-in-lesions/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-14-herring-may-use-farts-as-a-way-to-communicate-gross/?feat=yes" class="thumbnail"><img width="150" title="Some Fish Use Farts To Communicate" src="http://vids.perezhilton.com/videos/ace4d3621c36e/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-14-herring-may-use-farts-as-a-way-to-communicate-gross/?feat=yes">Some Fish Use Farts To Communicate</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-14-herring-may-use-farts-as-a-way-to-communicate-gross/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-14-dr-conrad-murrays-legal-team-tries-to-figure-out-how-much-propofol-youd-have-to-ingest-to-die-by-forcing-beagles-to-overdose/?feat=yes" class="thumbnail"><img width="150" title="Dr. Conrad Murray's Legal Team Tries To Kill Beagles" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/conrad-murray-kills-beagles__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-14-dr-conrad-murrays-legal-team-tries-to-figure-out-how-much-propofol-youd-have-to-ingest-to-die-by-forcing-beagles-to-overdose/?feat=yes">Dr. Conrad Murray's Legal Team Tries To Kill Beagles</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-14-dr-conrad-murrays-legal-team-tries-to-figure-out-how-much-propofol-youd-have-to-ingest-to-die-by-forcing-beagles-to-overdose/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-13-a-two-headed-snake-was-found-and-it-has-two-functional-brains/?feat=yes" class="thumbnail"><img width="150" title="Two-Headed Snake Found!" src="http://vids.perezhilton.com/videos/eed6396ebcabe/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-13-a-two-headed-snake-was-found-and-it-has-two-functional-brains/?feat=yes">Two-Headed Snake Found!</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-13-a-two-headed-snake-was-found-and-it-has-two-functional-brains/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-13-shark-fins-officially-banned-in-california/?feat=yes" class="thumbnail"><img width="150" title="Shark Fins Officially Banned In California!" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/leo-shark-sver-of-all-kinsd__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-13-shark-fins-officially-banned-in-california/?feat=yes">Shark Fins Officially Banned In California!</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-13-shark-fins-officially-banned-in-california/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-13-gracie-is-the-worlds-smallest-dog/?feat=yes" class="thumbnail"><img width="150" title="Gracie Is The World's Smallest Dog" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/graciewolrdsmall-dog-62__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-13-gracie-is-the-worlds-smallest-dog/?feat=yes">Gracie Is The World's Smallest Dog</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-13-gracie-is-the-worlds-smallest-dog/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-12-tobey-maguire-returns-mercedes-because-of-leather-seats/?feat=yes" class="thumbnail"><img width="150" title="Tobey Maguire Returns Mercedes Because Of Leather Seats" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/tobey-maguire-is-a-vegan-no__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-12-tobey-maguire-returns-mercedes-because-of-leather-seats/?feat=yes">Tobey Maguire Returns Mercedes Because Of Leather Seats</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-12-tobey-maguire-returns-mercedes-because-of-leather-seats/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-12-peta-upset-over-mischa-barton-photo-shoot-with-raw-piece-of-meat/?feat=yes" class="thumbnail"><img width="150" title="PETA Upset Over Mischa Barton Photo Shoot" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/mischa-barton-photo-shoot-r__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-12-peta-upset-over-mischa-barton-photo-shoot-with-raw-piece-of-meat/?feat=yes">PETA Upset Over Mischa Barton Photo Shoot</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-12-peta-upset-over-mischa-barton-photo-shoot-with-raw-piece-of-meat/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-12-british-tv-chef-says-eating-pigs-is-no-different-than-eating-puppies/?feat=yes" class="thumbnail"><img width="150" title="British TV Chef Says Eating Pigs Is No Different Than Eating Puppies" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/dont-eat-pupy-bacon__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-12-british-tv-chef-says-eating-pigs-is-no-different-than-eating-puppies/?feat=yes">British TV Chef Says Eating Pigs Is No Different Than Eating Puppies</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-12-british-tv-chef-says-eating-pigs-is-no-different-than-eating-puppies/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-12-carpenter-builds-harry-potter-cat-house/?feat=yes" class="thumbnail"><img width="150" title="Carpenter Builds Harry Potter Cat House " src="http://vids.perezhilton.com/videos/6676ba4fa47c1/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-12-carpenter-builds-harry-potter-cat-house/?feat=yes">Carpenter Builds Harry Potter Cat House </a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-12-carpenter-builds-harry-potter-cat-house/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-11-ryan-goslings-dog-kicked-out-of-yoga-class/?feat=yes" class="thumbnail"><img width="150" title="Ryan Gosling's Dog Kicked Out Of Yoga Class" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/ryan-gosling-carryign-dogis__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-11-ryan-goslings-dog-kicked-out-of-yoga-class/?feat=yes">Ryan Gosling's Dog Kicked Out Of Yoga Class</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-11-ryan-goslings-dog-kicked-out-of-yoga-class/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-11-lea-michele-plays-with-her-kitty/?feat=yes" class="thumbnail"><img width="150" title="Lea Michele Plays With Her Pussy" src="http://vids.perezhilton.com/videos/04499816c2fdf/screenshots/150w.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-11-lea-michele-plays-with-her-kitty/?feat=yes">Lea Michele Plays With Her Pussy</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-11-lea-michele-plays-with-her-kitty/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-11-kesha-talks-about-animals-and-her-role-in-the-humane-society-with-mtvs-act/?feat=yes" class="thumbnail"><img width="150" title="Ke$ha Talks Animals To MTV's " act""="" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/kesha-ambasasdor-interview__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-11-kesha-talks-about-animals-and-her-role-in-the-humane-society-with-mtvs-act/?feat=yes">Ke$ha Talks Animals To MTV's "Act"</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-11-kesha-talks-about-animals-and-her-role-in-the-humane-society-with-mtvs-act/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+<li class="featuredPost"><a href="http://teddyhilton.com/2011-10-11-puppy-prozac-helps-dogs-deal-with-separation-anxiety/?feat=yes" class="thumbnail"><img width="150" title="" puppy="" prozac"="" helps="" dogs="" deal="" with="" separation="" anxiety"="" src="http://i.teddyhilton.com/wp-content/uploads/2011/10/redone-puppy-prozac__oPt.jpg"></a><p class="caption"><a href="http://teddyhilton.com/2011-10-11-puppy-prozac-helps-dogs-deal-with-separation-anxiety/?feat=yes">"Puppy Prozac" Helps Dogs Deal With Separation Anxiety</a></p><a class="arrowLink" href="http://teddyhilton.com/2011-10-11-puppy-prozac-helps-dogs-deal-with-separation-anxiety/?feat=yes"><img class="arrowButton" src="http://i.teddyhilton.com/images/featured_posts/arrow.png"></a></li>
+</ul>
+</div></div>
+<script type="text/javascript">
+if ($.cookie("fpost_page_num")) perez_featuredPostsPager('code', $.cookie("fpost_page_num"));
+else perez_featuredPostsPager('code', 0);
+</script>
+  <script type="text/javascript">
+  //If takeover ad is not running.
+  if (ph_ad_page == 'no') {
+      //FEATURED POSTS
+      $("#featuredPostsContainer").show();
+  }
+  </script>
+
   <div id="bottomLeaderboard" class="leaderboard">
     <script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://f.blogads.com/www/delivery/ajs.php':'http://f.blogads.com/www/delivery/ajs.php');
@@ -344,7 +716,7 @@ Internet Privacy Notice | TeddyHilton.com</title>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=95&amp;cb=8987883804&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101125154215id_/http%253A//teddyhilton.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=a4870490&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=95&amp;n=a4870490' border='0' alt='' /></a></noscript>  </div>
+//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=95&amp;cb=70345461972&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111101162944id_/http%253A//teddyhilton.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=a4870490&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=95&amp;n=a4870490' border='0' alt='' /></a></noscript>  </div>
   
   
   <div id="fitContent">
@@ -411,7 +783,7 @@ Internet Privacy Notice | TeddyHilton.com</title>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=96&amp;cb=67106544712&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101125154215id_/http%253A//teddyhilton.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=ac0a731b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=96&amp;n=ac0a731b' border='0' alt='' /></a></noscript>    </div>
+//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=96&amp;cb=33938589331&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111101162944id_/http%253A//teddyhilton.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=ac0a731b&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=96&amp;n=ac0a731b' border='0' alt='' /></a></noscript>    </div>
 
     <script type="text/javascript" language="JavaScript">
 	pg_view_default_frontpage_gallery();
@@ -420,15 +792,15 @@ Internet Privacy Notice | TeddyHilton.com</title>
     <div id="fitTvBox" class="sidebarbox noipad">
     <div id="fitTvHeader"><a href="http://teddyhilton.com/tv"><img border="0" width="298" vspace="0" hspace="0" height="36" src="http://i.teddyhilton.com/images/blank.gif"></a></div>
 	<div id="fitTvPlayerContainer">
-	    <div id="fitTvPlayerContainer"><object height="212" type="application/x-shockwave-flash" name="embedded_player_f3d51214252e7" width="279" data="http://vids.perezhilton.com/plugins/player.swf?p=teddy_mini_sidebar_flp" id="embedded_player_f3d51214252e7">
+	    <div id="fitTvPlayerContainer"><object height="212" type="application/x-shockwave-flash" name="embedded_player_4487dd0054799" width="279" data="http://vids.perezhilton.com/plugins/player.swf?p=teddy_mini_sidebar_flp" id="embedded_player_4487dd0054799">
 			    <param name="movie" value="http://vids.perezhilton.com/plugins/player.swf?p=teddy_mini_sidebar_flp">
 			    <param name="allowfullscreen" value="true">
 			    <param name="allowscriptaccess" value="always">
 			    <param name="base" value="http://vids.perezhilton.com">
 			    <param name="bgcolor" value="#000000">
 			    <param name="wmode" value="transparent">
-			    <param name="flashvars" value="v=f3d51214252e7&amp;autoplay=false">
-			    </object></div><div id="featured_video_infos"><h3 class="videotitle"><a href="/Thanksgiving_For_Dogs_To_Feed_Them_Leftovers_Or_Not/?ptvid=f3d51214252e7">Thanksgiving For Dogs: To Feed Them Leftovers Or Not???</a></h3>Time: 2:15<br>Added: 11/24/10<br>Views: 8</div><div id="videolistcontainer"><div id="videolist_item_1" class="videolist" style="display: none;"><a id="videolist_image_cad354b5b141d" href="/Inception_Animals/?ptvid=cad354b5b141d" target="_blank"></a><h3 class="videotitle"><a href="/Inception_Animals/?ptvid=cad354b5b141d" title="Inception Animals">Inception Animals</a></h3>Time: 0:26<br>Added: 11/19/10<br>Views: 3,498</div><div id="videolist_item_2" class="videolist" style="display: none;"><a id="videolist_image_5b3282d95989e" href="/Cat_Hiccups_and_Farts_at_the_Same_Time/?ptvid=5b3282d95989e" target="_blank"></a><h3 class="videotitle"><a href="/Cat_Hiccups_and_Farts_at_the_Same_Time/?ptvid=5b3282d95989e" title="Cat Hiccups and Farts at the Same Time">Cat Hiccups and Farts at the Same Time</a></h3>Time: 0:13<br>Added: 11/18/10<br>Views: 3,253</div><div id="videolist_item_3" class="videolist" style="display: none;"><a id="videolist_image_0c654b469ddb6" href="/Tiger_Cubs_Meet_the_Public/?ptvid=0c654b469ddb6" target="_blank"></a><h3 class="videotitle"><a href="/Tiger_Cubs_Meet_the_Public/?ptvid=0c654b469ddb6" title="Tiger Cubs Meet the Public">Tiger Cubs Meet the Public</a></h3>Time: 3:11<br>Added: 11/18/10<br>Views: 770</div><div id="videolist_item_4" class="videolist" style="display: none;"><a id="videolist_image_1c8c4a559853e" href="/Aog_Adopts_Baby_Pig/?ptvid=1c8c4a559853e" target="_blank"></a><h3 class="videotitle"><a href="/Aog_Adopts_Baby_Pig/?ptvid=1c8c4a559853e" title="Aog Adopts Baby Pig">Aog Adopts Baby Pig</a></h3>Time: 0:24<br>Added: 11/18/10<br>Views: 1,753</div><div id="videolist_item_5" class="videolist" style="display: none;"><a id="videolist_image_cabb13fbbcb0a" href="/Sarah_Palin_Gets_Close_To_Bears/?ptvid=cabb13fbbcb0a" target="_blank"></a><h3 class="videotitle"><a href="/Sarah_Palin_Gets_Close_To_Bears/?ptvid=cabb13fbbcb0a" title="Sarah Palin Gets Close To Bears">Sarah Palin Gets Close To Bears</a></h3>Time: 1:00<br>Added: 11/16/10<br>Views: 685</div><div id="videolist_item_6" class="videolist" style="display: none;"><a id="videolist_image_6117c69a4a0fe" href="/Longleat_Baby_Otters_Learn_To_Swim/?ptvid=6117c69a4a0fe" target="_blank"></a><h3 class="videotitle"><a href="/Longleat_Baby_Otters_Learn_To_Swim/?ptvid=6117c69a4a0fe" title="Longleat Baby Otters Learn To Swim">Longleat Baby Otters Learn To Swim</a></h3>Time: 2:57<br>Added: 11/16/10<br>Views: 2,068</div><div id="videolist_item_7" class="videolist" style="display: none;"><a id="videolist_image_bc57bf08d9d1a" href="/Rodeo_Bull_Jumps_into_Stands/?ptvid=bc57bf08d9d1a" target="_blank"></a><h3 class="videotitle"><a href="/Rodeo_Bull_Jumps_into_Stands/?ptvid=bc57bf08d9d1a" title="Rodeo Bull Jumps into Stands">Rodeo Bull Jumps into Stands</a></h3>Time: 2:07<br>Added: 11/15/10<br>Views: 914</div><div id="videolist_item_8" class="videolist" style="display: none;"><a id="videolist_image_977ee63132872" href="/Talking_Dogs/?ptvid=977ee63132872" target="_blank"></a><h3 class="videotitle"><a href="/Talking_Dogs/?ptvid=977ee63132872" title="Talking Dogs">Talking Dogs</a></h3>Time: 1:20<br>Added: 11/15/10<br>Views: 1,693</div><div id="videolist_item_9" class="videolist" style="display: none;"><a id="videolist_image_132c556938bc8" href="/America_Is_Like_A_Dog/?ptvid=132c556938bc8" target="_blank"></a><h3 class="videotitle"><a href="/America_Is_Like_A_Dog/?ptvid=132c556938bc8" title="America Is Like A Dog">America Is Like A Dog</a></h3>Time: 0:31<br>Added: 11/15/10<br>Views: 171</div><div id="videolist_item_10" class="videolist" style="display: none;"><a id="videolist_image_17003a3de8f08" href="/How_To_Get_Your_Dogs_To_LISTEN/?ptvid=17003a3de8f08" target="_blank"></a><h3 class="videotitle"><a href="/How_To_Get_Your_Dogs_To_LISTEN/?ptvid=17003a3de8f08" title="How To Get Your Dogs To LISTEN!">How To Get Your Dogs To LISTEN!</a></h3>Time: 1:48<br>Added: 11/15/10<br>Views: 671</div><div id="videolist_item_11" class="videolist" style="display: none;"><a id="videolist_image_31d5ddbde7703" href="/What_To_Do_With_A_Dog_That_Chews_Too_Much/?ptvid=31d5ddbde7703" target="_blank"></a><h3 class="videotitle"><a href="/What_To_Do_With_A_Dog_That_Chews_Too_Much/?ptvid=31d5ddbde7703" title="What To Do With A Dog That Chews Too Much???">What To Do With A Dog That Chews Too Much???</a></h3>Time: 2:07<br>Added: 11/11/10<br>Views: 3,841</div><div id="videolist_item_12" class="videolist" style="display: none;"><a id="videolist_image_5f80b906a77a8" href="/Puppy_Cant_Get_Up/?ptvid=5f80b906a77a8" target="_blank"></a><h3 class="videotitle"><a href="/Puppy_Cant_Get_Up/?ptvid=5f80b906a77a8" title="Puppy Cant Get Up">Puppy Cant Get Up</a></h3>Time: 0:59<br>Added: 11/10/10<br>Views: 7,453</div><div id="videolist_item_13" class="videolist" style="display: none;"><a id="videolist_image_4e21c3401d55b" href="/Sruprised_Mouse/?ptvid=4e21c3401d55b" target="_blank"></a><h3 class="videotitle"><a href="/Sruprised_Mouse/?ptvid=4e21c3401d55b" title="Sruprised Mouse">Sruprised Mouse</a></h3>Time: 0:10<br>Added: 11/08/10<br>Views: 5,213</div><div id="videolist_item_14" class="videolist" style="display: none;"><a id="videolist_image_640dbcdd80623" href="/Ahimsa_Dairy/?ptvid=640dbcdd80623" target="_blank"></a><h3 class="videotitle"><a href="/Ahimsa_Dairy/?ptvid=640dbcdd80623" title="Ahimsa Dairy">Ahimsa Dairy</a></h3>Time: 2:33<br>Added: 11/08/10<br>Views: 475</div><div id="videolist_item_15" class="videolist" style="display: none;"><a id="videolist_image_c7ce33512e37e" href="/Elephant_Tightrope_Walks/?ptvid=c7ce33512e37e" target="_blank"></a><h3 class="videotitle"><a href="/Elephant_Tightrope_Walks/?ptvid=c7ce33512e37e" title="Elephant Tightrope Walks">Elephant Tightrope Walks</a></h3>Time: 0:53<br>Added: 11/05/10<br>Views: 1,896</div><div id="videolist_item_16" class="videolist" style="display: none;"><a id="videolist_image_95adb1de36e79" href="/Cloned_cat_glows_in_the_dark/?ptvid=95adb1de36e79" target="_blank"></a><h3 class="videotitle"><a href="/Cloned_cat_glows_in_the_dark/?ptvid=95adb1de36e79" title="Cloned cat glows in the dark">Cloned cat glows in the dark</a></h3>Time: 1:31<br>Added: 11/05/10<br>Views: 71,780</div><div id="videolist_item_17" class="videolist" style="display: none;"><a id="videolist_image_85794030c86a8" href="/How_To_Stop_Your_Dog_From_Jumping_Up_On_You_And_Strangers/?ptvid=85794030c86a8" target="_blank"></a><h3 class="videotitle"><a href="/How_To_Stop_Your_Dog_From_Jumping_Up_On_You_And_Strangers/?ptvid=85794030c86a8" title="How To Stop Your Dog From Jumping Up On You And Strangers">How To Stop Your Dog From Jumping Up On You And Strangers</a></h3>Time: 2:24<br>Added: 11/02/10<br>Views: 666</div><div id="videolist_item_18" class="videolist" style="display: none;"><a id="videolist_image_1428796ddd9f4" href="/Keyboard_Cat_For_Pistachios/?ptvid=1428796ddd9f4" target="_blank"></a><h3 class="videotitle"><a href="/Keyboard_Cat_For_Pistachios/?ptvid=1428796ddd9f4" title="Keyboard Cat For Pistachios">Keyboard Cat For Pistachios</a></h3>Time: 0:15<br>Added: 11/02/10<br>Views: 771</div><div id="videolist_item_19" class="videolist" style="display: none;"><a id="videolist_image_39ace74178609" href="/Teddy_Hilton_Interviews_Katy_Perrys_Cat_Kitty_Purry/?ptvid=39ace74178609" target="_blank"></a><h3 class="videotitle"><a href="/Teddy_Hilton_Interviews_Katy_Perrys_Cat_Kitty_Purry/?ptvid=39ace74178609" title="Teddy Hilton Interviews Katy Perry's Cat Kitty Purry!">Teddy Hilton Interviews Katy Perry's Cat Kitty Purry!</a></h3>Time: 1:25<br>Added: 11/01/10<br>Views: 20,991</div><div id="videolist_item_20" class="videolist" style="display: none;"><a id="videolist_image_e511638dabc57" href="/Octopus_Squeezes_Through_Tube_The_Size_Of_A_Quarter/?ptvid=e511638dabc57" target="_blank"></a><h3 class="videotitle"><a href="/Octopus_Squeezes_Through_Tube_The_Size_Of_A_Quarter/?ptvid=e511638dabc57" title="Octopus Squeezes Through Tube The Size Of A Quarter">Octopus Squeezes Through Tube The Size Of A Quarter</a></h3>Time: 1:43<br>Added: 11/01/10<br>Views: 1,529</div><div id="videolist_item_21" class="videolist" style="display: none;"><a id="videolist_image_d35a9ade57420" href="/Rihanna_Says_She_Will_Go_Fur_Free/?ptvid=d35a9ade57420" target="_blank"></a><h3 class="videotitle"><a href="/Rihanna_Says_She_Will_Go_Fur_Free/?ptvid=d35a9ade57420" title="Rihanna Says She Will Go Fur-Free">Rihanna Says She Will Go Fur-Free</a></h3>Time: 0:10<br>Added: 10/29/10<br>Views: 677</div><div id="videolist_item_22" class="videolist" style="display: none;"><a id="videolist_image_219cd1d62825f" href="/Lions_Best_Friend/?ptvid=219cd1d62825f" target="_blank"></a><h3 class="videotitle"><a href="/Lions_Best_Friend/?ptvid=219cd1d62825f" title="Lion's Best Friend">Lion's Best Friend</a></h3>Time: 0:39<br>Added: 10/28/10<br>Views: 20,144</div><div id="videolist_item_23" class="videolist" style="display: none;"><a id="videolist_image_13e644d186400" href="/Rockapella/?ptvid=13e644d186400" target="_blank"></a><h3 class="videotitle"><a href="/Rockapella/?ptvid=13e644d186400" title="Rockapella">Rockapella</a></h3>Time: 0:25<br>Added: 10/25/10<br>Views: 498</div><div id="videolist_item_24" class="videolist" style="display: none;"><a id="videolist_image_8ae54cc80dca8" href="/The_Veronicas_release_PETA_anti_fur_video/?ptvid=8ae54cc80dca8" target="_blank"></a><h3 class="videotitle"><a href="/The_Veronicas_release_PETA_anti_fur_video/?ptvid=8ae54cc80dca8" title="The Veronicas release PETA anti-fur video">The Veronicas release PETA anti-fur video</a></h3>Time: 2:27<br>Added: 10/25/10<br>Views: 599</div><div id="videolist_item_25" class="videolist" style="display: none;"><a id="videolist_image_10ee40755a0c7" href="/Violent_Seal_Battle/?ptvid=10ee40755a0c7" target="_blank"></a><h3 class="videotitle"><a href="/Violent_Seal_Battle/?ptvid=10ee40755a0c7" title="Violent Seal Battle">Violent Seal Battle</a></h3>Time: 1:33<br>Added: 10/25/10<br>Views: 1,586</div><div id="videolist_item_26" class="videolist" style="display: none;"><a id="videolist_image_84c22330de6f2" href="/Horse_Yoga/?ptvid=84c22330de6f2" target="_blank"></a><h3 class="videotitle"><a href="/Horse_Yoga/?ptvid=84c22330de6f2" title="Horse Yoga">Horse Yoga</a></h3>Time: 1:33<br>Added: 10/21/10<br>Views: 842</div><div id="videolist_item_27" class="videolist" style="display: none;"><a id="videolist_image_c103971e80347" href="/Slow_Loris_loves_being_tickled/?ptvid=c103971e80347" target="_blank"></a><h3 class="videotitle"><a href="/Slow_Loris_loves_being_tickled/?ptvid=c103971e80347" title="Slow Loris loves being tickled">Slow Loris loves being tickled</a></h3>Time: 0:56<br>Added: 10/21/10<br>Views: 5,787</div><div id="videolist_item_28" class="videolist" style="display: none;"><a id="videolist_image_d4258bfbfcc33" href="/Hungry_baby_kitten/?ptvid=d4258bfbfcc33" target="_blank"></a><h3 class="videotitle"><a href="/Hungry_baby_kitten/?ptvid=d4258bfbfcc33" title="Hungry baby kitten">Hungry baby kitten</a></h3>Time: 1:16<br>Added: 10/21/10<br>Views: 5,020</div><div id="videolist_item_29" class="videolist" style="display: none;"><a id="videolist_image_3d673934b57dd" href="/Parrot_dances_to_Whip_My_Hair/?ptvid=3d673934b57dd" target="_blank"></a><h3 class="videotitle"><a href="/Parrot_dances_to_Whip_My_Hair/?ptvid=3d673934b57dd" title="Parrot dances to Whip My Hair">Parrot dances to Whip My Hair</a></h3>Time: 2:44<br>Added: 10/21/10<br>Views: 9,242</div><div id="videolist_item_30" class="videolist" style="display: none;"><a id="videolist_image_e972e8063f046" href="/Excited_Otter_Pups/?ptvid=e972e8063f046" target="_blank"></a><h3 class="videotitle"><a href="/Excited_Otter_Pups/?ptvid=e972e8063f046" title="Excited Otter Pups">Excited Otter Pups</a></h3>Time: 0:28<br>Added: 10/21/10<br>Views: 4,074</div><div id="videolist_item_31" class="videolist" style="display: none;"><a id="videolist_image_7a996fcf4cf72" href="/Otter_Pup_Swim_Lesson/?ptvid=7a996fcf4cf72" target="_blank"></a><h3 class="videotitle"><a href="/Otter_Pup_Swim_Lesson/?ptvid=7a996fcf4cf72" title="Otter Pup Swim Lesson">Otter Pup Swim Lesson</a></h3>Time: 2:03<br>Added: 10/20/10<br>Views: 1,812</div><div style="margin: 10px;" id="videolistpager">
+			    <param name="flashvars" value="v=4487dd0054799&amp;autoplay=false">
+			    </object></div><div id="featured_video_infos"><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Pumpkin_Kitty_Eats_Halloween_Treat/?ptvid=4487dd0054799">Pumpkin Kitty Eats Halloween Treat</a></h3>Time: 0:49<br>Added: 10/31/11<br>Views: 817</div><div id="videolistcontainer"><div id="videolist_item_1" class="videolist" style="display: none;"><a id="videolist_image_523104feddb61" href="http://teddyhilton.com/tv/Snapping_Turtle_Kills_Watermelon/?ptvid=523104feddb61" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Snapping_Turtle_Kills_Watermelon/?ptvid=523104feddb61" title="Snapping Turtle Kills Watermelon">Snapping Turtle Kills Watermelon</a></h3>Time: 1:18<br>Added: 10/31/11<br>Views: 26,339</div><div id="videolist_item_2" class="videolist" style="display: none;"><a id="videolist_image_a07816de3115b" href="http://teddyhilton.com/tv/Wendy_Williams_And_Halloween_Animals/?ptvid=a07816de3115b" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Wendy_Williams_And_Halloween_Animals/?ptvid=a07816de3115b" title="Wendy Williams And Halloween Animals">Wendy Williams And Halloween Animals</a></h3>Time: 6:05<br>Added: 10/31/11<br>Views: 175</div><div id="videolist_item_3" class="videolist" style="display: none;"><a id="videolist_image_4a7b4e1645e56" href="http://teddyhilton.com/tv/Dupstep_Goat/?ptvid=4a7b4e1645e56" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Dupstep_Goat/?ptvid=4a7b4e1645e56" title="Dupstep Goat">Dupstep Goat</a></h3>Time: 0:54<br>Added: 10/31/11<br>Views: 38,915</div><div id="videolist_item_4" class="videolist" style="display: none;"><a id="videolist_image_bf4fc18f7a030" href="http://teddyhilton.com/tv/Tiger_Cubs_Debut_At_Sydney_Zoo/?ptvid=bf4fc18f7a030" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Tiger_Cubs_Debut_At_Sydney_Zoo/?ptvid=bf4fc18f7a030" title="Tiger Cubs Debut At Sydney Zoo">Tiger Cubs Debut At Sydney Zoo</a></h3>Time: 1:00<br>Added: 10/31/11<br>Views: 722</div><div id="videolist_item_5" class="videolist" style="display: none;"><a id="videolist_image_2415ebf8cf591" href="http://teddyhilton.com/tv/Pygmy_Goat_Kid_Playing/?ptvid=2415ebf8cf591" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Pygmy_Goat_Kid_Playing/?ptvid=2415ebf8cf591" title="Pygmy Goat Kid Playing">Pygmy Goat Kid Playing</a></h3>Time: 1:17<br>Added: 10/28/11<br>Views: 67,968</div><div id="videolist_item_6" class="videolist" style="display: none;"><a id="videolist_image_fb856a5804cee" href="http://teddyhilton.com/tv/Justin_Bieber_Radio_Interview/?ptvid=fb856a5804cee" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Justin_Bieber_Radio_Interview/?ptvid=fb856a5804cee" title="Justin Bieber Radio Interview">Justin Bieber Radio Interview</a></h3>Time: 0:30<br>Added: 10/28/11<br>Views: 8,291</div><div id="videolist_item_7" class="videolist" style="display: none;"><a id="videolist_image_016105a7a6319" href="http://teddyhilton.com/tv/Face_Transplant_After_Chimp_Attack/?ptvid=016105a7a6319" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Face_Transplant_After_Chimp_Attack/?ptvid=016105a7a6319" title="Face Transplant After Chimp Attack">Face Transplant After Chimp Attack</a></h3>Time: 2:40<br>Added: 10/27/11<br>Views: 1,191</div><div id="videolist_item_8" class="videolist" style="display: none;"><a id="videolist_image_ddbbc1fd935d1" href="http://teddyhilton.com/tv/Kitten_Playing_With_iPad/?ptvid=ddbbc1fd935d1" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Kitten_Playing_With_iPad/?ptvid=ddbbc1fd935d1" title="Kitten Playing With iPad">Kitten Playing With iPad</a></h3>Time: 1:50<br>Added: 10/27/11<br>Views: 2,873</div><div id="videolist_item_9" class="videolist" style="display: none;"><a id="videolist_image_dca10e8f2b427" href="http://teddyhilton.com/tv/A_Snow_White_Christmas/?ptvid=dca10e8f2b427" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/A_Snow_White_Christmas/?ptvid=dca10e8f2b427" title="A Snow White Christmas">A Snow White Christmas</a></h3>Time: 0:32<br>Added: 10/27/11<br>Views: 519</div><div id="videolist_item_10" class="videolist" style="display: none;"><a id="videolist_image_71389bc3cf4fc" href="http://teddyhilton.com/tv/Dog_And_Cat_Slap_Fight/?ptvid=71389bc3cf4fc" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Dog_And_Cat_Slap_Fight/?ptvid=71389bc3cf4fc" title="Dog And Cat Slap Fight">Dog And Cat Slap Fight</a></h3>Time: 0:41<br>Added: 10/27/11<br>Views: 2,731</div><div id="videolist_item_11" class="videolist" style="display: none;"><a id="videolist_image_104ffa938c4c2" href="http://teddyhilton.com/tv/Maregasm/?ptvid=104ffa938c4c2" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Maregasm/?ptvid=104ffa938c4c2" title="Maregasm">Maregasm</a></h3>Time: 4:29<br>Added: 10/27/11<br>Views: 22,512</div><div id="videolist_item_12" class="videolist" style="display: none;"><a id="videolist_image_78b7bfb2f1d22" href="http://teddyhilton.com/tv/Kitten_Grooms_Owners_Hair/?ptvid=78b7bfb2f1d22" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Kitten_Grooms_Owners_Hair/?ptvid=78b7bfb2f1d22" title="Kitten Grooms Owner's Hair">Kitten Grooms Owner's Hair</a></h3>Time: 1:06<br>Added: 10/26/11<br>Views: 2,586</div><div id="videolist_item_13" class="videolist" style="display: none;"><a id="videolist_image_64d307e309d5b" href="http://teddyhilton.com/tv/Cat_Sitting_On_Traffic_Light/?ptvid=64d307e309d5b" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Cat_Sitting_On_Traffic_Light/?ptvid=64d307e309d5b" title="Cat Sitting On Traffic Light">Cat Sitting On Traffic Light</a></h3>Time: 0:53<br>Added: 10/26/11<br>Views: 1,959</div><div id="videolist_item_14" class="videolist" style="display: none;"><a id="videolist_image_ea2545b9bfb42" href="http://teddyhilton.com/tv/Snoring_Dog_Makes_Baby_Laugh/?ptvid=ea2545b9bfb42" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Snoring_Dog_Makes_Baby_Laugh/?ptvid=ea2545b9bfb42" title="Snoring Dog Makes Baby Laugh">Snoring Dog Makes Baby Laugh</a></h3>Time: 0:59<br>Added: 10/26/11<br>Views: 82,342</div><div id="videolist_item_15" class="videolist" style="display: none;"><a id="videolist_image_732af7d927662" href="http://teddyhilton.com/tv/Wendy_Williams_Dog_Costume_Fashion_Show/?ptvid=732af7d927662" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Wendy_Williams_Dog_Costume_Fashion_Show/?ptvid=732af7d927662" title="Wendy Williams Dog Costume Fashion Show">Wendy Williams Dog Costume Fashion Show</a></h3>Time: 0:55<br>Added: 10/26/11<br>Views: 517</div><div id="videolist_item_16" class="videolist" style="display: none;"><a id="videolist_image_54d70fed5df06" href="http://teddyhilton.com/tv/Mercy_For_Animals_Pro_Vegetarian_MTV_Ads/?ptvid=54d70fed5df06" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Mercy_For_Animals_Pro_Vegetarian_MTV_Ads/?ptvid=54d70fed5df06" title="Mercy For Animals' Pro-Vegetarian MTV Ads">Mercy For Animals' Pro-Vegetarian MTV Ads</a></h3>Time: 1:33<br>Added: 10/26/11<br>Views: 221</div><div id="videolist_item_17" class="videolist" style="display: none;"><a id="videolist_image_a165a3e283eec" href="http://teddyhilton.com/tv/Chicken_Police/?ptvid=a165a3e283eec" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Chicken_Police/?ptvid=a165a3e283eec" title="Chicken Police">Chicken Police</a></h3>Time: 0:28<br>Added: 10/26/11<br>Views: 1,895</div><div id="videolist_item_18" class="videolist" style="display: none;"><a id="videolist_image_20d7b89695efe" href="http://teddyhilton.com/tv/Boy_And_His_Missing_Cat_Reunited/?ptvid=20d7b89695efe" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Boy_And_His_Missing_Cat_Reunited/?ptvid=20d7b89695efe" title="Boy And His Missing Cat Reunited">Boy And His Missing Cat Reunited</a></h3>Time: 1:12<br>Added: 10/25/11<br>Views: 2,379</div><div id="videolist_item_19" class="videolist" style="display: none;"><a id="videolist_image_ff08dc0691f5e" href="http://teddyhilton.com/tv/Criminal_Penguin_On_Jimmy_Kimmel/?ptvid=ff08dc0691f5e" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Criminal_Penguin_On_Jimmy_Kimmel/?ptvid=ff08dc0691f5e" title="Criminal Penguin On Jimmy Kimmel">Criminal Penguin On Jimmy Kimmel</a></h3>Time: 1:30<br>Added: 10/25/11<br>Views: 481</div><div id="videolist_item_20" class="videolist" style="display: none;"><a id="videolist_image_b22051255e0d4" href="http://teddyhilton.com/tv/Halloween_Pet_Costumes_PSA/?ptvid=b22051255e0d4" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Halloween_Pet_Costumes_PSA/?ptvid=b22051255e0d4" title="Halloween Pet Costumes PSA">Halloween Pet Costumes PSA</a></h3>Time: 1:18<br>Added: 10/25/11<br>Views: 8,773</div><div id="videolist_item_21" class="videolist" style="display: none;"><a id="videolist_image_49a13f00067c8" href="http://teddyhilton.com/tv/Fire_Fighters_Save_Dog_With_Mouth_To_Snout/?ptvid=49a13f00067c8" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Fire_Fighters_Save_Dog_With_Mouth_To_Snout/?ptvid=49a13f00067c8" title="Fire Fighters Save Dog With Mouth To Snout">Fire Fighters Save Dog With Mouth To Snout</a></h3>Time: 1:03<br>Added: 10/24/11<br>Views: 1,655</div><div id="videolist_item_22" class="videolist" style="display: none;"><a id="videolist_image_481bfabfb2b5c" href="http://teddyhilton.com/tv/Lea_Michele_PETA_PSA/?ptvid=481bfabfb2b5c" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Lea_Michele_PETA_PSA/?ptvid=481bfabfb2b5c" title="Lea Michele PETA PSA">Lea Michele PETA PSA</a></h3>Time: 1:37<br>Added: 10/24/11<br>Views: 344</div><div id="videolist_item_23" class="videolist" style="display: none;"><a id="videolist_image_b3c22222cadb2" href="http://teddyhilton.com/tv/Kitten_Rescue_From_Storm_Drain/?ptvid=b3c22222cadb2" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Kitten_Rescue_From_Storm_Drain/?ptvid=b3c22222cadb2" title="Kitten Rescue From Storm Drain">Kitten Rescue From Storm Drain</a></h3>Time: 0:40<br>Added: 10/21/11<br>Views: 2,218</div><div id="videolist_item_24" class="videolist" style="display: none;"><a id="videolist_image_587249ea1cccf" href="http://teddyhilton.com/tv/Puss_In_Boots_Cut_To_Lady_GaGas_Americano/?ptvid=587249ea1cccf" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Puss_In_Boots_Cut_To_Lady_GaGas_Americano/?ptvid=587249ea1cccf" title="Puss In Boots Cut To Lady GaGa's Americano">Puss In Boots Cut To Lady GaGa's Americano</a></h3>Time: 1:31<br>Added: 10/21/11<br>Views: 17,162</div><div id="videolist_item_25" class="videolist" style="display: none;"><a id="videolist_image_c0f3a6fcc6ab6" href="http://teddyhilton.com/tv/Kitty_Faceplant/?ptvid=c0f3a6fcc6ab6" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Kitty_Faceplant/?ptvid=c0f3a6fcc6ab6" title="Kitty Faceplant">Kitty Faceplant</a></h3>Time: 0:05<br>Added: 10/21/11<br>Views: 6,898</div><div id="videolist_item_26" class="videolist" style="display: none;"><a id="videolist_image_f6aefecc8869a" href="http://teddyhilton.com/tv/Doggy_Fetch_FAIL/?ptvid=f6aefecc8869a" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Doggy_Fetch_FAIL/?ptvid=f6aefecc8869a" title="Doggy Fetch FAIL">Doggy Fetch FAIL</a></h3>Time: 1:50<br>Added: 10/21/11<br>Views: 2,996</div><div id="videolist_item_27" class="videolist" style="display: none;"><a id="videolist_image_8236ce7cd105b" href="http://teddyhilton.com/tv/Funny_Cat_Playing_Basketball/?ptvid=8236ce7cd105b" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Funny_Cat_Playing_Basketball/?ptvid=8236ce7cd105b" title="Funny Cat Playing Basketball">Funny Cat Playing Basketball</a></h3>Time: 0:46<br>Added: 10/21/11<br>Views: 2,599</div><div id="videolist_item_28" class="videolist" style="display: none;"><a id="videolist_image_6a9397c888391" href="http://teddyhilton.com/tv/Baby_Dolphins_At_German_Zoo/?ptvid=6a9397c888391" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Baby_Dolphins_At_German_Zoo/?ptvid=6a9397c888391" title="Baby Dolphins At German Zoo">Baby Dolphins At German Zoo</a></h3>Time: 1:45<br>Added: 10/20/11<br>Views: 2,032</div><div id="videolist_item_29" class="videolist" style="display: none;"><a id="videolist_image_cb45ff6bd70fb" href="http://teddyhilton.com/tv/Mark_Salling_And_His_Dog_Noah/?ptvid=cb45ff6bd70fb" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Mark_Salling_And_His_Dog_Noah/?ptvid=cb45ff6bd70fb" title="Mark Salling And His Dog Noah">Mark Salling And His Dog Noah</a></h3>Time: 0:33<br>Added: 10/20/11<br>Views: 1,094</div><div id="videolist_item_30" class="videolist" style="display: none;"><a id="videolist_image_982db14948a02" href="http://teddyhilton.com/tv/Drinking_Ten_Blended_Mice/?ptvid=982db14948a02" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Drinking_Ten_Blended_Mice/?ptvid=982db14948a02" title="Drinking Ten Blended Mice">Drinking Ten Blended Mice</a></h3>Time: 4:18<br>Added: 10/20/11<br>Views: 10,906</div><div id="videolist_item_31" class="videolist" style="display: none;"><a id="videolist_image_5824cf38c38fa" href="http://teddyhilton.com/tv/Criminal_Penguins/?ptvid=5824cf38c38fa" target="_blank"></a><h3 class="videotitle"><a href="http://teddyhilton.com/tv/Criminal_Penguins/?ptvid=5824cf38c38fa" title="Criminal Penguins">Criminal Penguins</a></h3>Time: 2:08<br>Added: 10/19/11<br>Views: 1,939</div><div style="margin: 10px;" id="videolistpager">
 	<div style="float: left;" id="videolistprev"><a href="#videobox" id="videolistprev_btn">« Previous</a></div>
 	<div style="float: right;" id="videolistnext"><a href="#videobox" id="videolistnext_btn">Next »</a></div>
 	<div style="clear: both;"></div>
@@ -440,11 +812,18 @@ Internet Privacy Notice | TeddyHilton.com</title>
 
     <div id="fitMostReadBox" class="sidebarbox">
 	<div id="fitMostReadHeader"></div>
-        <ul class="fitMostReadArticleList"><li class="fitMostReadList"><h3><a title="Baby Penguin Gets A New Beak!" href="http://teddyhilton.com/2010-11-23-penguin-gets-a-new-beak">Baby Penguin Gets A New Beak!</a></h3></li>
-<li class="fitMostReadList"><h3><a title="" the="" dog="" ate="" my="" passport"!"="" href="http://teddyhilton.com/2010-11-23-honeymoon-ruined-after-dog-eats-passport">"The Dog Ate My Passport"!</a></h3></li>
-<li class="fitMostReadList"><h3><a title="Cups O' Bunnies" href="http://teddyhilton.com/2010-10-07-two-bunnies-in-cups-looking-super-cute">Cups O' Bunnies</a></h3></li>
-<li class="fitMostReadList"><h3><a title="Baby Otters Learn To Swim" href="http://teddyhilton.com/2010-11-16-otters-learn-to-swim">Baby Otters Learn To Swim</a></h3></li>
+        <ul class="fitMostReadArticleList"><li class="fitMostReadList"><h3><a title="Dubstep Goat!" href="http://teddyhilton.com/2011-10-31-cute-little-goat-kid-dances-to-dubstep">Dubstep Goat!</a></h3></li>
+<li class="fitMostReadList"><h3><a title="Baby Goat Dancing And Playing" href="http://teddyhilton.com/2011-10-28-pygmy-goat-kid-dancing-and-playing-in-its-pen">Baby Goat Dancing And Playing</a></h3></li>
+<li class="fitMostReadList"><h3><a title="Kitty In Pumpkin Costume Eats Halloween Treat" href="http://teddyhilton.com/2011-10-31-a-kitty-cat-dressed-up-in-a-pumpkin-costume-enjoys-a-halloween-treat">Kitty In Pumpkin Costume Eats Halloween Treat</a></h3></li>
+<li class="fitMostReadList"><h3><a title="Dog And Cat Slap Fight" href="http://teddyhilton.com/2011-10-28-a-dog-and-a-cat-have-a-slap-fight">Dog And Cat Slap Fight</a></h3></li>
 </ul>    </div>
+
+    <div class="chat">
+        <div class="chatInitWrapper">
+            <h1 class="chatHeader">Reader Questions</h1>
+            <div class="chatLoading">Loading...</div>
+        </div>
+    </div>
 
     <div class="noipad"><script type="text/javascript">
     function translate_this_page() {
@@ -474,8 +853,34 @@ Internet Privacy Notice | TeddyHilton.com</title>
   </div>
 </div></div>
 
-    <div id="fitGalleriesBox" class="sidebarbox"><div id="fitGalleriesHeader"><a href="http://teddyhilton.com/galleries"><img border="0" width="298" vspace="0" hspace="0" height="36" src="http://i.teddyhilton.com/galleries/images/empty.gif"></a></div><ul id="fitGalleriesContainer"><li><a href="http://teddyhilton.com/galleries/index.php?pgid=1547"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2010/11/5enhanced-buzz-22163-1289948465-13.jpg); width: 122px; height: 140px;"></span><h3 class="fitGalleriesGalleryTitle">Harry Potter Pets</h3><span class="fitGalleriesGalleryInfos">Updated: 11/17/10<br>Gallery views: 37,264<br>Total photos: 18<br>[image via ]</span><div style="clear:both;"></div></a></li><li><a href="http://teddyhilton.com/galleries/index.php?pgid=1356"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2010/11/1.jpg); width: 122px; height: 87px;"></span><h3 class="fitGalleriesGalleryTitle">Paris´ Pets</h3><span class="fitGalleriesGalleryInfos">Updated: 11/09/10<br>Gallery views: 114,821<br>Total photos: 12<br>[image via ]</span><div style="clear:both;"></div></a></li><li><a href="http://teddyhilton.com/galleries/index.php?pgid=1190"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2010/11/028.JPG); width: 122px; height: 81px;"></span><h3 class="fitGalleriesGalleryTitle">Halloween Pets</h3><span class="fitGalleriesGalleryInfos">Updated: 11/03/10<br>Gallery views: 339,389<br>Total photos: 75<br>[image via ]</span><div style="clear:both;"></div></a></li><li><a href="http://teddyhilton.com/galleries/index.php?pgid=743"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2010/10/teddy5.jpg); width: 122px; height: 81px;"></span><h3 class="fitGalleriesGalleryTitle">Teddy Hilton Faboosh Photo Shoot</h3><span class="fitGalleriesGalleryInfos">Updated: 10/14/10<br>Gallery views: 99,602<br>Total photos: 18<br>[image via Seth Casteel, Little Friends Photo]</span><div style="clear:both;"></div></a></li></ul></div>    
-		
+    <div id="fitGalleriesBox" class="sidebarbox"><div id="fitGalleriesHeader"><a href="http://teddyhilton.com/galleries"><img border="0" width="298" vspace="0" hspace="0" height="36" src="http://i.teddyhilton.com/galleries/images/empty.gif"></a></div><ul id="fitGalleriesContainer"><li><a href="http://teddyhilton.com/galleries/index.php?pgid=7565"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2011/09/cute-sleepin-3.jpg); width: 122px; height: 160px;"></span><h3 class="fitGalleriesGalleryTitle">World´s Cutest Sleeping Animals</h3><span class="fitGalleriesGalleryInfos">Updated: 09/15/11<br>Gallery views: 1,137,124<br>Total photos: 10<br>[image via Mavrix]</span><div style="clear:both;"></div></a></li><li><a href="http://teddyhilton.com/galleries/index.php?pgid=7205"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2011/08/cats-planking-29.jpg); width: 122px; height: 81px;"></span><h3 class="fitGalleriesGalleryTitle">Cats Planking!  Need We Say More?</h3><span class="fitGalleriesGalleryInfos">Updated: 08/30/11<br>Gallery views: 490,162<br>Total photos: 30<br>[image via ]</span><div style="clear:both;"></div></a></li><li><a href="http://teddyhilton.com/galleries/index.php?pgid=6215"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2011/07/12perez-australia-zoo.jpg); width: 122px; height: 162px;"></span><h3 class="fitGalleriesGalleryTitle">Perez Visits Sydney´s Taronga Zoo</h3><span class="fitGalleriesGalleryInfos">Updated: 07/12/11<br>Gallery views: 364,759<br>Total photos: 65<br>[image via TeddyHilton.com]</span><div style="clear:both;"></div></a></li><li><a href="http://teddyhilton.com/galleries/index.php?pgid=1356"><span class="image" style="background-image: url(http://i.teddyhilton.com/galleries/images/teaser_default_photos/2010/12/1-2.jpg); width: 122px; height: 91px;"></span><h3 class="fitGalleriesGalleryTitle">Paris´ Pets</h3><span class="fitGalleriesGalleryInfos">Updated: 07/07/11<br>Gallery views: 297,666<br>Total photos: 12<br>[image via ]</span><div style="clear:both;"></div></a></li></ul></div>    <div id="fitNewsletterBox" class="sidebarbox">
+    <div id="fitNewsletterHeader"></div>
+    <div id="signup-form" style="display: block; ">
+        <form name="FeedBlitz_f0da13fe000911e1ad3e003005d070f0" method="POST" action="http://www.feedblitz.com/f/f.fbz?AddNewUserDirect">
+            <p>Email:</p>
+            <p>
+                <input id="fitFeedBlitz_input" style="display: block;" name="EMAIL" maxlength="64" type="text" value="">
+                <input name="EMAIL_" maxlength="64" type="hidden" value="">
+                <input name="EMAIL_ADDRESS" maxlength="64" type="hidden" value="">
+                <input name="FEEDID" type="hidden" value="790894">
+                <input name="PUBLISHER" type="hidden" value="27057257">
+            </p>
+            <p><input type="button" value="Subscribe me!" onclick="FeedBlitz_f0da13fe000911e1ad3e003005d070f0s();" style="width: 139px;"></p>
+        </form> 
+        <script language="Javascript">
+            function FeedBlitz_f0da13fe000911e1ad3e003005d070f0i(){
+                document.FeedBlitz_f0da13fe000911e1ad3e003005d070f0.EMAIL.style.display='block';
+                document.FeedBlitz_f0da13fe000911e1ad3e003005d070f0.action='http://www.feedblitz.com/f/f.fbz?AddNewUserDirect';
+            }
+            
+            function FeedBlitz_f0da13fe000911e1ad3e003005d070f0s(){
+                document.FeedBlitz_f0da13fe000911e1ad3e003005d070f0.submit();
+            }
+            
+            FeedBlitz_f0da13fe000911e1ad3e003005d070f0i();
+        </script>
+    </div>
+</div>	
 	<div style="margin-bottom: 20px;">
 	<script type="text/javascript"><!--//<![CDATA[
    var m3_u = (location.protocol=='https:'?'https://f.blogads.com/www/delivery/ajs.php':'http://f.blogads.com/www/delivery/ajs.php');
@@ -491,13 +896,14 @@ Internet Privacy Notice | TeddyHilton.com</title>
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=105&amp;cb=67242074417&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20101125154215id_/http%253A//teddyhilton.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=a5b00c06&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=105&amp;n=a5b00c06' border='0' alt='' /></a></noscript>    </div>
+//]]>--></script><script type="text/javascript" src="https://f.blogads.com/www/delivery/ajs.php?zoneid=105&amp;cb=79942747004&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20111101162944id_/http%253A//teddyhilton.com/privacy-notice"></script><noscript><a href='http://f.blogads.com/www/delivery/ck.php?n=a5b00c06&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://f.blogads.com/www/delivery/avw.php?zoneid=105&amp;n=a5b00c06' border='0' alt='' /></a></noscript>    </div>
 
-</div>    
+</div>
+    
   </div>
   
 	<div id="fitFooterContainer">
-		<div id="fitFooter">© 2010 TeddyHilton.com<br><span>Masthead artwork image of Teddy created by Sam Charles Hodgson.</span></div>
+		<div id="fitFooter">© 2011 TeddyHilton.com<br><span>Masthead artwork image of Teddy created by Sam Charles Hodgson.</span></div>
 	</div>
 	<h3 class="fitAboutRow">
 		<a href="http://teddyhilton.com/copyright-statement">Copyright statement</a> |
@@ -510,17 +916,41 @@ Internet Privacy Notice | TeddyHilton.com</title>
 	</h3>
 </div>
 
+<script type="text/javascript">
+	$(function () { chatInit('.chat', {
+		baseUrl: 'http://teddyhilton.com/wp-content/plugins/chat/server',
+		cdnUrl:  'http://i.teddyhilton.com/wp-content/plugins/chat/client',
+		gigyaKey: '2_lcMx6kgPdtgGMYK_gW28-uotvARU43U7Oion3smOTeid6P7wOaivxwhcHOS-NLa8',
+		cookiePath: ''
+	}); });
+</script>
+
+<!-- QUANTCAST -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-5fQgFpKUoFZ6k"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-5fQgFpKUoFZ6k.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- /QUANTCAST -->
+
 <!-- GOOGLE ANALYTICS -->
 <script type="text/javascript">
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-338092-22']);
-_gaq.push(['_trackPageview']);
-      
-(function() {
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-338092-22']);
+  _gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
+  (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+  })();
+
 </script>
 <!-- /GOOGLE ANALYTICS -->
 
