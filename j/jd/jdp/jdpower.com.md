@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610185256id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jdpower.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115820id_/http%3A//www.jdpower.com/privacy) for the most accurate reproduction.*
 
 # JDPower.com | Privacy Notice
 
