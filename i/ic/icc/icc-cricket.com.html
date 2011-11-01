@@ -1,13 +1,16 @@
-<!--The following is the downloaded HTML source of the icc-cricket.com privacy policy that was archived on 2010-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100525071923id_/http%3A//icc-cricket.yahoo.net/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the icc-cricket.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101164219id_/http%3A//icc-cricket.yahoo.net/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<title>International Cricket Council  - Privacy Policy</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+		<meta name="description" content="The International Cricket Council official website provides information on all major ICC cricket events, the Reliance ICC Rankings and live cricket scores from all levels of the game.">
+		<meta name="keywords" content="International Cricket Council, ICC, ICC cricket, ICC Events, ICC Cricket World Cup, ICC Rankings,  ICC test rankings, ICC cricket schedule, ICC world rankings">
 		<meta name="copyright" content="© International Cricket Council">
-		<meta name="keywords" content="ICC, Cricket, Cricket News, Cricket Events, Cricket LiveScore, Cricket Regional Events">
-		<link href="http://static.icc-cricket.yahoo.net/style/v22/main.css" rel="stylesheet" type="text/css">
+		<link href="http://static.icc-cricket.yahoo.net/style/v35/newicc.css" rel="stylesheet" type="text/css">
 		<script language="JavaScript">
+		var siteURL = 'http://icc-cricket.yahoo.net';
 
 var fShow;var fHide;var counter=0;var prevChkBxName="";if(document.all){n=0;ie=1;ns6=0;fShow="visible";fHide="hidden";}
 if(document.getElementById&&!document.all)
@@ -27,6 +30,60 @@ x=d.getElementById(n);return x;}
 function GetXmlHttpObject(){var objXMLHttp=null
 if(window.XMLHttpRequest){objXMLHttp=new XMLHttpRequest()}else if(window.ActiveXObject){objXMLHttp=new ActiveXObject("Microsoft.XMLHTTP")}
 return objXMLHttp}
+var fnDateCloseCallback="closeDate";var fnDateCallback;function closeDate(){hideWindow("dateBox");}
+function showDateCal(callBack){fnDateCallback=callBack;hideAllWindows();var popWindow=new PopupWindow("dateBox",'Calendar - Select Date',335,253,"/icc/cms/include/calendar.html",true);popWindow.show();}
+function jsEncode(val){var reSingle=/'/gi;var reDouble=/"/gi;val=val.replace(reSingle,"\\'");val=val.replace(reDouble,"\\\\\"");return val;}
+function htmlEncode(val){re=/&/gi;val=val.replace(re,"&#38;");re=/'/gi;val=val.replace(re,"&#39;");re=/"/gi;val=val.replace(re,"&#34;");re=/</gi;val=val.replace(re,"&#60;");re=/>/gi;val=val.replace(re,"&#62;");re=/\./gi;val=val.replace(re,"&#46;");return val;}
+function convertToDateString(dateStr){var outStr="";var arr=dateStr.split("/");if(arr.length==3)
+{outStr=getMonthValue(arr[1])+"/"+arr[0]+"/"+arr[2];}
+return outStr;}
+function getMonthValue(month){if(month.toUpperCase()=="JAN"){return"01";}else if(month.toUpperCase()=="FEB"){return"02";}else if(month.toUpperCase()=="MAR"){return"03";}else if(month.toUpperCase()=="APR"){return"04";}else if(month.toUpperCase()=="MAY"){return"05";}else if(month.toUpperCase()=="JUN"){return"06";}else if(month.toUpperCase()=="JUL"){return"07";}else if(month.toUpperCase()=="AUG"){return"08";}else if(month.toUpperCase()=="SEP"){return"09";}else if(month.toUpperCase()=="OCT"){return"10";}else if(month.toUpperCase()=="NOV"){return"11";}else if(month.toUpperCase()=="DEC"){return"12";}else{return"-1";}}
+function toggleAllCheckBoxes(frm,chkboxName,allChkBoxName){var j=0;var count=frm.length;var status=frm.elements[allChkBoxName].checked;for(var i=0;i<count;i++){if(frm.elements[i].type=="checkbox"&&frm.elements[i].name==chkboxName){j++;frm.elements[i].checked=status;}
+if(status){boxCount=j;}else{boxCount=0;}}}
+function countCheckedBoxes(frm,chkboxName){var j=new Array();j[0]=0;j[1]=0;var count=frm.length;for(var i=0;i<count;i++){if(frm.elements[i].type=="checkbox"&&frm.elements[i].name==chkboxName){j[0]++;if(frm.elements[i].checked){j[1]++;}}}
+return j;}
+function refreshBoxes(frm,obj,chkboxName,allChkBoxName){var status=obj.checked;var boxCount=countCheckedBoxes(frm,chkboxName);if(status)
+{if(boxCount[0]==boxCount[1])
+{frm.elements[allChkBoxName].checked=true;}}else{if(boxCount[1]!=boxCount[0])
+{frm.elements[allChkBoxName].checked=false;}}}
+function trackIt(e){if(ie&&!opr6)
+{yScroll=0;if(document.layers){yScroll=window.pageYOffset;}else{yScroll=document.body.scrollTop||document.documentElement.scrollTop;}
+xPos=document.body.scrollLeft+window.event.clientX;yPos=yScroll+window.event.clientY;}
+if(n||ns6)
+{xPos=e.pageX;yPos=e.pageY;}}
+function urlEncode(str)
+{var newStr="";for(var i=0;i<str.length;i++)
+{var chr=str.charAt(i);var asciiVal=str.charCodeAt(i);if(asciiVal>=65&&asciiVal<=90)
+{newStr+=chr;}
+else if(asciiVal>=97&&asciiVal<=122)
+{newStr+=chr;}
+else if(asciiVal>=48&&asciiVal<=57)
+{newStr+=chr;}
+else if(chr=='_'||chr=='-')
+{newStr+=chr;}
+else if(chr==' ')
+{newStr+='+';}
+else
+{var tempStr='%'+convertHexa(asciiVal);newStr+=tempStr;}}
+return newStr;}
+function convertHexa(num)
+{var str="";while(parseInt(num/16)>0)
+{var temp=parseInt(num/16);if(temp==10)
+str+='A';else if(temp==11)
+str+='B';else if(temp==12)
+str+='C';else if(temp==13)
+str+='D';else if(temp==14)
+str+='E';else if(temp==15)
+str+='F';else
+str+=temp;num=parseInt(num%16)}
+temp=parseInt(num%16);if(temp==10)
+str+='A';else if(temp==11)
+str+='B';else if(temp==12)
+str+='C';else if(temp==13)
+str+='D';else if(temp==14)
+str+='E';else if(temp==15)
+str+='F';else
+str+=temp;return str;}
 function displayTab(tabName,tabNo,totalTabs){var currFocusTabIndex=getCurrentTab(tabName,totalTabs);var obj=MM_findObj(tabName+currFocusTabIndex);obj.style.display='none';var newObj=MM_findObj(tabName+tabNo);if(newObj&&newObj.style){newObj.style.display='block';}}
 function getCurrentTab(tabName,totalTabs){for(var i=1;i<=totalTabs;i++)
 {var obj=MM_findObj(tabName+i);if(obj&&obj.style&&(obj.style.display!='none'))
@@ -40,9 +97,46 @@ frm.submit();}}
 function regionsSelect(value){var region_frm=document.regionalForm;if(value!=''){region_frm.action="http://icc-cricket.yahoo.net/the-icc/icc_members/"+value+"/index.php";region_frm.submit();}}
 var previousRankingObj='testMatchID';function changeTheRankingTab(tab){var rankingObj=document.getElementById(previousRankingObj);if(rankingObj!=null){rankingObj.style.display='none';}
 rankingObj=document.getElementById(tab);if(rankingObj!=null){rankingObj.style.display='block';previousRankingObj=tab;}}
-function membersSelect(value){var region_frm=document.regionForm;if(value!=''){region_frm.action="http://icc-cricket.yahoo.net/the-icc/icc_members/profile.php";region_frm.submit();}}
-var selected_Menu_Tab='';function changLiStyle(liObjName,flag){var liObj=MM_findObj(liObjName);if(selected_Menu_Tab!=liObjName){if(flag){liObj.className="grnNav";}else{liObj.className="bdr";}}}
-function changLiHomeStyle(liObjName,flag){var liObj=MM_findObj(liObjName);if(selected_Menu_Tab!=liObjName){if(flag){liObj.className="grnNav";}else{liObj.className="";}}}
+function membersSelect(value){var region_frm=document.memberForm;if(value!=''){region_frm.action="http://icc-cricket.yahoo.net/the-icc/icc_members/profile.php";region_frm.submit();}}
+var newsTabList=new Array();newsTabList[newsTabList.length]='news';newsTabList[newsTabList.length]='mediaRealse';newsTabList[newsTabList.length]='RankingNews';newsTabList[newsTabList.length]='Special';var currNewsTabIndex=0;var newsTimer=0;var previousSelected=newsTabList[0];function changeSelectCategory(curr){MM_findObj(previousSelected).className='';MM_findObj(curr).className='sel';MM_findObj(previousSelected+'Link').className='featuredNewsArticle floatingHide';MM_findObj(curr+'Link').className='featuredNewsArticle floatingUnhide';previousSelected=curr;}
+function initNewsTab(){newsTimer=setInterval(playNewsTab,8000);}
+function loadNewsTab(){var maxTab=newsTabList.length;if(maxTab<=0){stopNewsTab();}else{changeSelectCategory(newsTabList[currNewsTabIndex]);}}
+function selectNewsTab(currTab){if(newsTimer){stopNewsTab();}
+changeSelectCategory(currTab);}
+function playNewsTab(){if(currNewsTabIndex==(newsTabList.length-1)){currNewsTabIndex=0;}else{currNewsTabIndex++;}
+loadNewsTab();}
+function stopNewsTab(){clearInterval(newsTimer);newsTimer=null;}
+var sliderList=new Array();function Slider(sliderFunc,frequency,effect,delay){this.windows=new Array();this.frequency=frequency;this.currIndex=-1;this.timer=null;this.delay=delay;this.sliderFunc=sliderFunc;if(this.frequency==0)
+{this.frequency=5000;}
+this.effect=effect;this.add=function(objName){this.windows[this.windows.length]=objName;}
+this.remove=function(objName){var windowList=this.windows;if(windowList!=null&&windowList.length>0)
+{var index=-1;for(var i=0;i<windowList.length;i++)
+{if(windowList[i].objName==objName)
+{index=i;break;}}
+if(index>=0)
+{for(var i=index;i<len-1;i++){windowList[i]=windowList[i+1];}
+windowList.length=windowList.length-1;}}}
+this.slide=function(){var prev=null;if(this.currIndex<0)
+{if(this.windows.length>0)
+{prev=MM_findObj(this.windows[this.windows.length-1]);}}else{prev=MM_findObj(this.windows[this.currIndex]);}
+this.currIndex++;if(this.currIndex>=this.windows.length)
+{this.currIndex=0;}
+if(this.currIndex<this.windows.length){var objname=this.windows[this.currIndex];var obj=MM_findObj(objname);if(prev!=null)
+{prev.style.display="none";}
+if(obj!=null){obj.style.display="block";}}else{}}
+this.stop=function(){clearInterval(this.timer);this.currIndex=-1;}
+this.pause=function(){this.stop();}
+this.resume=function(){this.timer=setInterval(eval(this.sliderFunc),frequency);}
+this.start=function(){this.currIndex=-1;this.timer=setInterval(eval(this.sliderFunc),frequency);addSlider(this);}}
+function addSlider(obj){sliderList[sliderList.length]=obj;}
+var mediaSlider=new Slider("slideMediaTab",4000,"xxx",0.2);mediaSlider.add("mediaTab1");mediaSlider.add("mediaTab2");mediaSlider.add("mediaTab3");function startMediaTab(){if(mediaSlider!=null)
+{mediaSlider.start();}}
+function slideMediaTab(){if(mediaSlider!=null)
+{mediaSlider.slide();}}
+function stopMediaTab(){if(mediaSlider!=null)
+{mediaSlider.pause();}}
+var selected_Menu_Tab='';function changLiStyle(liObjName,flag){var liObj=MM_findObj(liObjName);if(selected_Menu_Tab!=liObjName){if(flag){liObj.className="sel";}else{liObj.className="";}}}
+function changLiHomeStyle(liObjName,flag){var liObj=MM_findObj(liObjName);if(selected_Menu_Tab!=liObjName){if(flag){liObj.className="sel";}else{liObj.className="";}}}
 function showMainMenu(arrayIndex,mainIndex,parentObjName,fixedXPos){keepVisible(parentObjName);var obj=MM_findObj(parentObjName);var element=MM_findObj("liObj_"+mainIndex);var valueT=0,valueL=0;do{valueT+=element.offsetTop||0;valueL+=element.offsetLeft||0;element=element.offsetParent;}while(element);var browseWidth=0;if(document.layers){browseWidth=window.outerWidth;}else{browseWidth=document.body.clientWidth;}
 var width=fixedXPos;if(browseWidth<1260){var diff=(1260-browseWidth)/2;if(browseWidth<1010)
 {width=width-diff+((1010-browseWidth)/2);}else{width=width-diff;}}else if(browseWidth>1260){var diff=(1260-browseWidth)/2;width=width-diff;}
@@ -54,84 +148,53 @@ function keepVisible(objName){var obj=MM_findObj(objName);clearTimeout(obj["hide
 function showRMainMenu(arrayIndex,mainIndex,parentObjName,fixedXPos){keepVisible(parentObjName);var obj=MM_findObj(parentObjName);var element=MM_findObj("liObj_"+mainIndex);var valueT=0,valueL=0;do{valueT+=element.offsetTop||0;valueL+=element.offsetLeft||0;element=element.offsetParent;}while(element);element=MM_findObj("liObj_"+mainIndex);valueL-=parseInt(obj.style.width);var browseWidth=0;if(document.layers){browseWidth=window.outerWidth;}else{browseWidth=document.body.clientWidth;}
 var width=fixedXPos;if(browseWidth<1260){var diff=(1260-browseWidth)/2;if(browseWidth<1010)
 {width=width-diff+((1010-browseWidth)/2);}else{width=width-diff;}}else if(browseWidth>1260){var diff=(1260-browseWidth)/2;width=width-diff;}
-obj.style.left=(parseInt(valueL,10)+fixedXPos)+"px";obj.style.top=(parseInt(valueT,10)+36)+"px";obj.style.visibility=fShow;}		</script>
+obj.style.left=(parseInt(valueL,10)+fixedXPos)+"px";obj.style.top=(parseInt(valueT,10)+36)+"px";obj.style.visibility=fShow;}	
+		</script>
 	</head>
 	<body>
 	<!-- page begin here -->
 		<div class="page">
 			<!-- top navigation starts here -->
-			<div id="subNavSection"><div id="menuObj_0" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_0',true)" onmouseout="javascript:hideMenu('menuObj_0');changLiStyle('liObj_0',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/news.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Latest News</a></li><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/publications/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Publications</a></li><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/press_zone/press_releases.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Media Releases</a></li><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/press_zone/media_communications_department.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Press Zone</a></li></ul></div></div><div id="menuObj_1" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_1',true)" onmouseout="javascript:hideMenu('menuObj_1');changLiStyle('liObj_1',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/ftp.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Future Tours Programme</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/events_and_awards/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Events</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/test_cricket/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Test Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/events_and_awards/CWC/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ODI Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/events_and_awards/twenty20/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Twenty20 Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/women_cricket/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Women's Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/team_ranking.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reliance Mobile ICC Team Rankings</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/test_predictor.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reliance Mobile Test Rankings Predictor</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/odi_predictor.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reliance Mobile ODI Rankings Predictor</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://cricket.yahoo.com/cricket/teams/home" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">Team / Player Stats</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://www.reliancemobileiccrankings.com/" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">Reliance Mobile ICC Player Rankings</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/associate_rankings.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Associate and Affiliate Rankings</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/umpire_appointments.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Umpire Appointments</a></li></ul></div></div><div id="menuObj_2" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_2',true)" onmouseout="javascript:hideMenu('menuObj_2');changLiStyle('liObj_2',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/CWC/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Cricket World Cup 2011</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/champions_trophy/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Champions Trophy</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/twenty20/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC World Twenty20 2010</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://iccwomensworldcup.yahoo.net/" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC Women's World Cup</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/u19/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC U19 Cricket World Cup 2010</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://iccworldcupqualifier.yahoo.net/" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC Cricket World Cup Qualifier</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/wcl/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Pepsi ICC World Cricket League</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/intercontinental_cup/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Intercontinental Cup</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/regional_events/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Regional Events</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/lg_icc_awards/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">LG ICC Awards</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/hall_of_fame/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Cricket Hall of Fame</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/pepsi_icc_development_awards/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Pepsi ICC Development Programme Awards</a></li></ul></div></div><div id="menuObj_3" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_3',true)" onmouseout="javascript:hideMenu('menuObj_3');changLiStyle('liObj_3',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/aboutess.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">About ESPN Star Sports</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/icc_cric_world.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Cricket World</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/podcast.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Podcast</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/broadcast.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Videos</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/audio_interview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Audio Interviews</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/photo_zone.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Photo Zone</a></li></ul></div></div><div id="menuObj_4" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_4',true)" onmouseout="javascript:hideMenu('menuObj_4');changLiStyle('liObj_4',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">About ICC</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/icc_members/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Members</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/pepsi_icc_development_programme/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Pepsi ICC Development Programme</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/education_and_training/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Education and Training</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/global_cricket_academy/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Global Cricket Academy</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/match_officials/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Match Officials</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/medical_committee/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Medical</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/anti_corruption/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ACSU</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Anti-Doping</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/anti_racism.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Anti-Racism</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/social_responsibility/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Social Responsibility</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/icc_centenary.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Centenary</a></li></ul></div></div><div id="menuObj_5" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topRSubNav" onmouseover="javascript:changLiStyle('liObj_5',true)" onmouseout="javascript:hideMenu('menuObj_5');changLiStyle('liObj_5',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Anti-Doping</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/resources.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Resources, Forms and Instructions</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/irtp.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">International Registered Testing Pool(IRTP)</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/therapeutic_exem.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Therapeutic Use Exemptions</a></li></ul></div></div><div id="menuObj_6" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topRSubNav" onmouseover="javascript:changLiStyle('liObj_6',true)" onmouseout="javascript:hideMenu('menuObj_6');changLiStyle('liObj_6',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/reports.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reports</a></li><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/useful_documents.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Useful Documents</a></li><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/regional_security.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Regional Security Managers</a></li><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/contacts.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Key Contacts</a></li></ul></div></div><div id="menuObj_7" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_7',true)" onmouseout="javascript:hideMenu('menuObj_7');changLiStyle('liObj_7',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_7');"><a href="http://www.icconlinestore.com/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">Shop</a></li><li onmouseover="javascript:keepVisible('menuObj_7');"><a href="http://icc-cricket.yahoo.net/shop/licensee_opportunities.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Licensee Opportunities</a></li><li onmouseover="javascript:keepVisible('menuObj_7');"><a href="http://icc-cricket.yahoo.net/shop/key_licencees.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Licencees</a></li></ul></div></div></div><div id="top_Navigation_Elements" class="left">
-	<div id="quickSiteMenus" class="left">
-		<a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/contact_us.php">Contact Us</a> &nbsp;|&nbsp; <a href="http://icc-cricket.yahoo.net/sitemap.php">Site map</a>
+			<!-- page header begin here -->
+<div id="pageHeader">
+	<a href="http://icc-cricket.yahoo.net/"><img src="http://static.icc-cricket.yahoo.net/img/v12/trans.gif" id="iccMainLogo" alt="ICC"></a>
+<a href="http://twitter.com/#!/cricketicc" target="_blank"><img src="http://static.icc-cricket.yahoo.net/ugc/images/21D7C9F5680B899EA6C7E9451448F272_1318917665368_268.jpg" class="topHeadBanner"></a>	<form action="http://icc-cricket.yahoo.net/search.php" method="post" name="ysearchForm">
+	<div id="searchBox" class="right">
+			<input type="text" class="inputBox left" name="criteria">
+			<div id="searchButton" class="left" onclick="javascript:searchCriteria();"></div>
+		<br class="clear">
 	</div>
-	<div id="poweredByYahoo" class="right"></div><br class="clear">
-	<div id="logoSection">
-		<a href="http://icc-cricket.yahoo.net"><div id="iccMainLogo" class="left"></div></a>
-		<div id="topMainBanner" class="left">
-<a href="http://icc-cricket.yahoo.net/events_and_awards/twenty20/index.php"><img src="http://static.icc-cricket.yahoo.net/ugc/images/367EB5AF129F9B3607BD6DAF4B0BDF4B_1271844283864_307.gif" alt="banner"></a>		</div>
-		<div id="searchBox" class="right">
-			<form action="http://icc-cricket.yahoo.net/search.php" method="post" name="ysearchForm">
-				<input type="text" class="inputBox left" name="criteria">
-				<a href="javascript:searchCriteria();"><div id="searchButton" class="left"></div></a>
-			</form>
-			<br class="clear">
-
-<div class="trendBox"><span class="trendHeading">Hot Trends / Topics:</span><a href="http://icc-cricket.yahoo.net/the-icc/icc_members/americas/div1/2010/index.php" target="_blank">ICC Americas WCL Div 1</a> | <a href="http://www.icconlinestore.com/products.php?pid=133&amp;detail=true" target="_blank">Buy England WT20 Champions t-shirt</a></div>			
-
-		</div>
-	</div>
-<script>
-		switch (0)
-		{
-		case 1:selected_Menu_Tab = 'liObj_0';
-		break;
-		case 2:selected_Menu_Tab = 'liObj_1';
-		break;
-		case 3:selected_Menu_Tab = 'liObj_2';
-		break;
-		case 4:selected_Menu_Tab = 'liObj_3';
-		break;
-		case 5:selected_Menu_Tab = 'liObj_4';
-		break;
-		case 6:selected_Menu_Tab = 'liObj_5';
-		break;
-		}
-		
-	</script>
-
-	<div id="topNavigationMenus">
-		<ul id="menuNavigations">
-			<li class="iccGHome"><a href="http://icc-cricket.yahoo.net/index.php">Home</a></li>
-			<li class="" id="liObj_0" onmouseover="javascript:showMainMenu(-1, 0, 'menuObj_0', 186);changLiStyle('liObj_0',true)" onmouseout="javascript:hideMenu('menuObj_0');changLiStyle('liObj_0',false)"><a href="http://icc-cricket.yahoo.net/news.php">News</a></li>
-			<li class="bdr" id="liObj_1" onmouseover="javascript:showMainMenu(-1, 1, 'menuObj_1', 186);changLiStyle('liObj_1',true)" onmouseout="javascript:hideMenu('menuObj_1');changLiStyle('liObj_1',false)"><a href="http://icc-cricket.yahoo.net/match_zone/overview.php">Match Zone</a></li>
-			<li class="bdr" id="liObj_2" onmouseover="javascript:showMainMenu(-1, 2, 'menuObj_2', 186);changLiStyle('liObj_2',true)" onmouseout="javascript:hideMenu('menuObj_2');changLiStyle('liObj_2',false)"><a href="http://icc-cricket.yahoo.net/events_and_awards/overview.php">ICC Events and Awards</a></li>
-			<li class="bdr" id="liObj_3" onmouseover="javascript:showMainMenu(-1, 3, 'menuObj_3', 186);changLiStyle('liObj_3',true)" onmouseout="javascript:hideMenu('menuObj_3');changLiStyle('liObj_3',false)"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/overview.php">Media and Interactive</a></li>
-			<li class="bdr" id="liObj_4" onmouseover="javascript:showMainMenu(-1, 4, 'menuObj_4', 186);changLiStyle('liObj_4',true)" onmouseout="javascript:hideMenu('menuObj_4');changLiStyle('liObj_4',false)"><a href="http://icc-cricket.yahoo.net/the-icc/overview.php">The ICC</a></li>
-			<li class="bdr"><a href="http://icc-cricket.yahoo.net/rules_and_regulations.php">Rules and Regulations</a></li>
-			<li class="bdr" id="liObj_7" onmouseover="javascript:showMainMenu(-1, 7, 'menuObj_7', 186);changLiStyle('liObj_7',true)" onmouseout="javascript:hideMenu('menuObj_7');changLiStyle('liObj_7',false)"><a href="http://www.icconlinestore.com/index.php" target="_blank">Shop</a></li>
-		</ul>
-		<ul id="otherNavigation">
-			<li id="liObj_5" onmouseover="javascript:showRMainMenu(-1, 5, 'menuObj_5', 50);" onmouseout="javascript:hideMenu('menuObj_5')"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php">Anti<br>Doping</a></li>
-			<li id="liObj_6" class="bdr" onmouseover="javascript:showRMainMenu(-1, 6, 'menuObj_6', 98);" onmouseout="javascript:hideMenu('menuObj_6')"><a href="http://icc-cricket.yahoo.net/anti_corruption/overview.php">anti<br>Corruption</a></li>
-		</ul>
-	</div>
+	</form>
 </div>
-			<!-- top navigation ends here -->
-			<br class="clear">
+<!-- page header ends here -->
+<div id="subNavSection"><div id="menuObj_0" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_0',true)" onmouseout="javascript:hideMenu('menuObj_0');changLiStyle('liObj_0',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/news.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Latest News</a></li><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/publications/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Publications</a></li><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/press_zone/press_releases.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Media Releases</a></li><li onmouseover="javascript:keepVisible('menuObj_0');"><a href="http://icc-cricket.yahoo.net/press_zone/media_communications_department.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Press Zone</a></li></ul></div></div><div id="menuObj_1" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_1',true)" onmouseout="javascript:hideMenu('menuObj_1');changLiStyle('liObj_1',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/ftp.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Future Tours Programme</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/events_and_awards/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Events</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/test_cricket/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Test Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/odi_cricket/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ODI Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/events_and_awards/twenty20/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Twenty20 Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/women_cricket/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Women's Cricket</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/team_ranking.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reliance ICC Team Rankings</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/test_predictor.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reliance ICC Test Rankings Predictor</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/odi_predictor.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reliance ICC ODI Rankings Predictor</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/t20_predictor.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reliance ICC T20 Rankings Predictor</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://cricket.yahoo.com/cricket/teams/home" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">Team / Player Stats</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://www.reliancemobileiccrankings.com/" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">Reliance ICC Player Rankings</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/associate_rankings.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Associate and Affiliate Rankings</a></li><li onmouseover="javascript:keepVisible('menuObj_1');"><a href="http://icc-cricket.yahoo.net/match_zone/umpire_appointments.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Umpire Appointments</a></li></ul></div></div><div id="menuObj_2" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_2',true)" onmouseout="javascript:hideMenu('menuObj_2');changLiStyle('liObj_2',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/CWC/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Cricket World Cup</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/greatest_test_team/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Greatest Test Team of All Time</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/greatest_odi_match/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Greatest ODI Match Of All Time</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/greatest_odi_team/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Greatest ODI Team Of All Time</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/match_zone/test_cricket/test_league.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Test Championship</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/match_zone/odi_cricket/odi_league.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC ODI Championship</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/champions_trophy/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Champions Trophy</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/twenty20/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC World Twenty20</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/wwc/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Women's World Cup</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/u19/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC U19 Cricket World Cup</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/CWC/CWCQ/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Cricket World Cup Qualifier</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/wcl/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Pepsi ICC World Cricket League</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/intercontinental_cup/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Intercontinental Cup</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/CWC/50_over_league/fixtures.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Associate/Affiliate 50-over league</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/match_zone/women_cricket/wcc/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Women's Cricket Challenge</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/regional_events/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Regional Events</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/lg_icc_awards/news.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">LG ICC Awards</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/hall_of_fame/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Cricket Hall of Fame</a></li><li onmouseover="javascript:keepVisible('menuObj_2');"><a href="http://icc-cricket.yahoo.net/events_and_awards/pepsi_icc_development_awards/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Pepsi ICC Development Programme Awards</a></li></ul></div></div><div id="menuObj_3" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_3',true)" onmouseout="javascript:hideMenu('menuObj_3');changLiStyle('liObj_3',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/aboutess.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">About ESPN Star Sports</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/icc_cric_world.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Cricket World</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/icc_archive.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Archive</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/podcast.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Podcast</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/broadcast.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Videos</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/audio_interview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Audio Interviews</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/photo_zone.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Photo Zone</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://www.iccpredictorleague.com/CleverTV/en/icc/fantasy/118/clienthome.do" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC Test Predictor Game</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://www.iccfantasyleague.com" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC ODI Fantasy League Game</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://www.sportguru.co.uk/iccdevelopmentt20/" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC World Twenty20 2012 Predictor Competition</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://www.cricketpower.com/" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC Cricket World Cup 2011 Online Game</a></li><li onmouseover="javascript:keepVisible('menuObj_3');"><a href="http://www.SporteeCricket.com" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC Sportee Cricket</a></li></ul></div></div><div id="menuObj_4" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_4',true)" onmouseout="javascript:hideMenu('menuObj_4');changLiStyle('liObj_4',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">About ICC</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/icc_members/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Members</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/pepsi_icc_development_programme/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Pepsi ICC Development Programme</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/education_and_training/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Education and Training</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://www.iccglobalcricketacademy.com/" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">ICC Global Cricket Academy</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/match_officials/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Match Officials</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/medical_committee/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Sports Medicine</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/anti_corruption/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ACSU</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Anti-Doping</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/anti_racism.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Anti-Racism</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/social_responsibility/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Social Responsibility</a></li><li onmouseover="javascript:keepVisible('menuObj_4');"><a href="http://icc-cricket.yahoo.net/the-icc/icc_centenary.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Centenary</a></li></ul></div></div><div id="menuObj_5" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topRSubNav" onmouseover="javascript:changLiStyle('liObj_5',true)" onmouseout="javascript:hideMenu('menuObj_5');changLiStyle('liObj_5',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Anti-Doping</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/code.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Anti-Doping Code</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/irtp.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Whereabouts</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/therapeutic_exem.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Therapeutic Use Exemptions</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/resources.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Resources, Forms and Instructions</a></li><li onmouseover="javascript:keepVisible('menuObj_5');"><a href="http://icc-cricket.yahoo.net/anti_doping/decisions.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Decisions and Periods of Ineligibility</a></li></ul></div></div><div id="menuObj_6" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topRSubNav" onmouseover="javascript:changLiStyle('liObj_6',true)" onmouseout="javascript:hideMenu('menuObj_6');changLiStyle('liObj_6',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/reports.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Reports</a></li><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/useful_documents.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Useful Documents</a></li><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/regional_security.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Regional Security Managers</a></li><li onmouseover="javascript:keepVisible('menuObj_6');"><a href="http://icc-cricket.yahoo.net/anti_corruption/contacts.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">Key Contacts</a></li></ul></div></div><div id="menuObj_7" style="width:300px;position:absolute;visibility:hidden;z-index:20;"><div class="topSubNav" onmouseover="javascript:changLiStyle('liObj_7',true)" onmouseout="javascript:hideMenu('menuObj_7');changLiStyle('liObj_7',false)"><ul><li onmouseover="javascript:keepVisible('menuObj_7');"><a href="http://www.icconlinestore.com/index.php" style="font-family:Verdana;font-size:11px;text-decoration:none;" target="_new">Shop</a></li><li onmouseover="javascript:keepVisible('menuObj_7');"><a href="http://icc-cricket.yahoo.net/shop/licensee_opportunities.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Licensee Opportunities</a></li><li onmouseover="javascript:keepVisible('menuObj_7');"><a href="http://icc-cricket.yahoo.net/shop/key_licencees.php" style="font-family:Verdana;font-size:11px;text-decoration:none;">ICC Licencees</a></li></ul></div></div></div><!-- navigation begins here -->
+<div id="topNavigationMenus">
+	<ul id="menuNavigations">
+		<li class="sel"><a href="http://icc-cricket.yahoo.net/index.php">Home</a></li>
+		<li class="" id="liObj_0" onmouseover="javascript:showMainMenu(-1, 0, 'menuObj_0', 0);changLiStyle('liObj_0',true)" onmouseout="javascript:hideMenu('menuObj_0');changLiStyle('liObj_0',false)"><a href="http://icc-cricket.yahoo.net/news.php">News</a></li>
+		<li class="" id="liObj_1" onmouseover="javascript:showMainMenu(-1, 1, 'menuObj_1', 0);changLiStyle('liObj_1',true)" onmouseout="javascript:hideMenu('menuObj_1');changLiStyle('liObj_1',false)"><a href="http://icc-cricket.yahoo.net/match_zone/overview.php">Match Zone</a></li>
+		<li class="" id="liObj_2" onmouseover="javascript:showMainMenu(-1, 2, 'menuObj_2', 0);changLiStyle('liObj_2',true)" onmouseout="javascript:hideMenu('menuObj_2');changLiStyle('liObj_2',false)"><a href="http://icc-cricket.yahoo.net/events_and_awards/overview.php">ICC Events &amp; Awards</a></li>
+		<li class="" id="liObj_3" onmouseover="javascript:showMainMenu(-1, 3, 'menuObj_3', 0);changLiStyle('liObj_3',true)" onmouseout="javascript:hideMenu('menuObj_3');changLiStyle('liObj_3',false)"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/overview.php">Broadcast &amp; Games</a></li>
+		<li class="" id="liObj_4" onmouseover="javascript:showMainMenu(-1, 4, 'menuObj_4', 0);changLiStyle('liObj_4',true)" onmouseout="javascript:hideMenu('menuObj_4');changLiStyle('liObj_4',false)"><a href="http://icc-cricket.yahoo.net/the-icc/overview.php">The ICC</a></li>
+		<li class=""><a href="http://icc-cricket.yahoo.net/rules_and_regulations.php">Rules &amp; Regulations</a></li>
+		<li class="" id="liObj_7" onmouseover="javascript:showMainMenu(-1, 7, 'menuObj_7', 0);changLiStyle('liObj_7',true)" onmouseout="javascript:hideMenu('menuObj_7');changLiStyle('liObj_7',false)" style="border-right:none;"><a href="http://www.icconlinestore.com/index.php" target="_blank">Shop</a></li>
+	</ul>
+	<ul id="otherNavigation">
+		<li id="liObj_5" onmouseover="javascript:showRMainMenu(-1, 5, 'menuObj_5', 60);" onmouseout="javascript:hideMenu('menuObj_5')"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php">Anti<br>Doping</a></li>
+		<li id="liObj_6" onmouseover="javascript:showRMainMenu(-1, 6, 'menuObj_6', 90);" onmouseout="javascript:hideMenu('menuObj_6')" style="border-right:none;"><a href="http://icc-cricket.yahoo.net/anti_corruption/overview.php">anti<br>Corruption</a></li>
+	</ul>
+</div>
+<!-- navigation ends here -->			<!-- top navigation ends here -->
 			<div class="pageBody">
 				<!-- page body start here -->
 				<div class="leftPane">
-<div class="bElementBox dottedBlue">				
-<h4>PRIVACY POLICY</h4>	<div class="topMargin">
-			<p></p><p align="justify">ICC Development (International) Limited ("us", "our" or "we") is committed to preserving the privacy of all visitors to our website at <a href="http://www.icc-cricket.com">www.icc-cricket.com</a> (the "Website"). Before you proceed with use of the Website, please read the following privacy policy (the "Policy") carefully to understand how we use and protect the information that you provide to us.<br><br>Please be aware that this Policy only governs our use of personally identifiable information that is collected when you are on the Website. This Policy does not extend to the use of data submitted to or through any third party websites to which links may be provided on the Website, and we encourage you to review the privacy policies of those other websites in order that you understand how they collect, use and share information.<br><br><strong>Information that we may collect from you</strong><br><br>In general, you can access and browse the Website without providing personal information. However, there may be times when we will request personally identifiable information from you in order that you may participate in the Website's services, activities or features. The personally identifiable information collected may include (without limitation) your fist name, last name, e-mail address, address, country of residence, nationality, gender, date of birth, preferences, billing address, credit or debit card information, account name, account password, answer to security question and/or mother's maiden name. We may also collect information about your usage of the Website as well as information about you from messages you post to any forum or message board and emails, letters and other communications you may send to us from time to time.<br><br>When you submit personally identifiable information to us through the Website, you agree that such information may be stored and processed by us and/or on our behalf. We may also collect information about your interaction with the Website and the services on the Website. We receive and record information on our server logs from your browser including your IP address, cookie information (see further below) and the page(s) you requested. In particular, we reserve the right to perform statistical analysis of user behaviours and characteristics in order to measure interest in and use of the various areas of the Website and to ascertain the number of users that have visited particular pages of the Website. We will provide only aggregated data from these analyses to third parties, and such statistical data will not identify any individual.<br><br>Please note that if you submit your personally identifiable information to us, you will be giving your consent to the transfer of such information outside the European Economic Area ("EEA"). Collected information is processed in India, and may be stored and used elsewhere depending on the location of affiliates, business partners and other entities who are permitted to access such information under the terms of this Policy. Organisations based in some countries outside of the EEA may not protect privacy and personal data rights as extensively as those based and/or regulated within the EEA (and such locations may include countries which may not afford the same level of protection of such data as the country from which you provided the information).<br><br><strong>Use of your information</strong><br><br>We collect and use your information in order to give you a better service and to provide you with information you request, including information about ICC events and/or the sport of cricket. Your information is also used to fulfil your requests for certain services and/or to participate in certain activities and make the Website more useful to you. Where you have consented when providing us with your details, we may also allow carefully selected third parties to contact you from time to time about events, products and services which may be of interest to you<br><br>You have the right to prevent marketing information being sent direct to you, whether by us or by our carefully selected third parties. If you prefer not to receive information from us or from any other organisation to which we may wish to disclose your personal information, ensure that you tick the appropriate box which appears where you are submitting your personal data. If you change your mind, at any time, about being contacted by us or our third parties, please let us know. Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.<br><br>We may disclose your personally identifiable information without your express consent where we believe disclosure to be required by law or regulation, or necessary to protect or defend our rights or property, the safety of the public and/or the users of the Website.<br><br><strong>Cookies</strong><br><br>In common with many other website operators, we may use standard technology called 'cookies' on the Website. Cookies are small amounts of information that are stored by your browser on your computer's hard drive. We use cookies to improve the Website, to monitor Website traffic and to deliver a better and more personalised service for you. Most browsers automatically accept cookies, but you can usually change your browser setting to prevent cookies being stored. However, if you adjust your browser setting in this way, you may be unable to access certain parts of the Website.<br><br>Other companies that are advertising on our Website may also use cookies, over which we have no control. Other companies' use of their cookies is subject to their own privacy policies, not this Policy. Such third party advertisers do not have access to our cookies.<br><br><strong>Children under 16</strong><br><br>If you are under 16, you must obtain the approval of your parent or legal guardian before sending us any of your personal information (such as your name, e-mail address, home address, date of birth, etc).<br><br><strong>Security and data retention</strong><br><br>We employ security measures to help safeguard the information we collect from you on the Website, including technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to access or use your personal information for improper purposes. We will retain your information for a reasonable period or as long as the law requires.<br><br><strong>Changes to this Policy</strong><br><br>This Policy was last updated on [insert publication date]. We reserve the right to change this Policy at any time. Any changes in the future will be posted to the Website. Accordingly, we recommend that you check this page periodically in order to review our current Policy.<br><br><strong>Accessing, updating or removing your information</strong><br><br>You have the right to receive a copy of and/or update, modify and/or remove the personal information that we hold about you. If you wish to receive a copy of the personal information that we hold about you, please let us know. We may charge a small fee towards the cost of administering your request. If you believe that any of the personal information that we hold about you has changed or is incorrect, you may ask us to change or update such data.<br><br>All requests shall be in writing and shall be directed to the contact details as set out below and shall include enough information to enable us to satisfy ourselves as to your identity.<br><br><strong>Contacting us</strong><br><br>You can contact us by emailing us at <a href="mailto:enquiry@icc-cricket.com">enquiry@icc-cricket.com</a> or by writing to us at the following address:<br><br>ICC Development (International) Limited<br>Street 69, Dubai Sports City<br>Emirates Road<br>PO Box 500 070<br>Dubai<br>United Arab Emirates<br><br>© Copyright 2010 - ICC Development (International) Limited. All rights reserved.</p><p></p>
-	</div>
-</div>
-			
+<h1>PRIVACY POLICY</h1><div class="contentBox"><p></p><p align="justify">ICC Development (International) Limited ("us", "our" or "we") is committed to preserving the privacy of all visitors to our website at <a href="http://www.icc-cricket.com">www.icc-cricket.com</a> (the "Website"). Before you proceed with use of the Website, please read the following privacy policy (the "Policy") carefully to understand how we use and protect the information that you provide to us.<br><br>Please be aware that this Policy only governs our use of personally identifiable information that is collected when you are on the Website. This Policy does not extend to the use of data submitted to or through any third party websites to which links may be provided on the Website, and we encourage you to review the privacy policies of those other websites in order that you understand how they collect, use and share information.<br><br><strong>Information that we may collect from you</strong><br><br>In general, you can access and browse the Website without providing personal information. However, there may be times when we will request personally identifiable information from you in order that you may participate in the Website's services, activities or features. The personally identifiable information collected may include (without limitation) your fist name, last name, e-mail address, address, country of residence, nationality, gender, date of birth, preferences, billing address, credit or debit card information, account name, account password, answer to security question and/or mother's maiden name. We may also collect information about your usage of the Website as well as information about you from messages you post to any forum or message board and emails, letters and other communications you may send to us from time to time.<br><br>When you submit personally identifiable information to us through the Website, you agree that such information may be stored and processed by us and/or on our behalf. We may also collect information about your interaction with the Website and the services on the Website. We receive and record information on our server logs from your browser including your IP address, cookie information (see further below) and the page(s) you requested. In particular, we reserve the right to perform statistical analysis of user behaviours and characteristics in order to measure interest in and use of the various areas of the Website and to ascertain the number of users that have visited particular pages of the Website. We will provide only aggregated data from these analyses to third parties, and such statistical data will not identify any individual.<br><br>Please note that if you submit your personally identifiable information to us, you will be giving your consent to the transfer of such information outside the European Economic Area ("EEA"). Collected information is processed in India, and may be stored and used elsewhere depending on the location of affiliates, business partners and other entities who are permitted to access such information under the terms of this Policy. Organisations based in some countries outside of the EEA may not protect privacy and personal data rights as extensively as those based and/or regulated within the EEA (and such locations may include countries which may not afford the same level of protection of such data as the country from which you provided the information).<br><br><strong>Use of your information</strong><br><br>We collect and use your information in order to give you a better service and to provide you with information you request, including information about ICC events and/or the sport of cricket. Your information is also used to fulfil your requests for certain services and/or to participate in certain activities and make the Website more useful to you. Where you have consented when providing us with your details, we may also allow carefully selected third parties to contact you from time to time about events, products and services which may be of interest to you<br><br>You have the right to prevent marketing information being sent direct to you, whether by us or by our carefully selected third parties. If you prefer not to receive information from us or from any other organisation to which we may wish to disclose your personal information, ensure that you tick the appropriate box which appears where you are submitting your personal data. If you change your mind, at any time, about being contacted by us or our third parties, please let us know. Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.<br><br>We may disclose your personally identifiable information without your express consent where we believe disclosure to be required by law or regulation, or necessary to protect or defend our rights or property, the safety of the public and/or the users of the Website.<br><br><strong>Cookies</strong><br><br>In common with many other website operators, we may use standard technology called 'cookies' on the Website. Cookies are small amounts of information that are stored by your browser on your computer's hard drive. We use cookies to improve the Website, to monitor Website traffic and to deliver a better and more personalised service for you. Most browsers automatically accept cookies, but you can usually change your browser setting to prevent cookies being stored. However, if you adjust your browser setting in this way, you may be unable to access certain parts of the Website.<br><br>Other companies that are advertising on our Website may also use cookies, over which we have no control. Other companies' use of their cookies is subject to their own privacy policies, not this Policy. Such third party advertisers do not have access to our cookies.<br><br><strong>Children under 16</strong><br><br>If you are under 16, you must obtain the approval of your parent or legal guardian before sending us any of your personal information (such as your name, e-mail address, home address, date of birth, etc).<br><br><strong>Security and data retention</strong><br><br>We employ security measures to help safeguard the information we collect from you on the Website, including technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure. However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to access or use your personal information for improper purposes. We will retain your information for a reasonable period or as long as the law requires.<br><br><strong>Changes to this Policy</strong><br><br>This Policy was last updated on [insert publication date]. We reserve the right to change this Policy at any time. Any changes in the future will be posted to the Website. Accordingly, we recommend that you check this page periodically in order to review our current Policy.<br><br><strong>Accessing, updating or removing your information</strong><br><br>You have the right to receive a copy of and/or update, modify and/or remove the personal information that we hold about you. If you wish to receive a copy of the personal information that we hold about you, please let us know. We may charge a small fee towards the cost of administering your request. If you believe that any of the personal information that we hold about you has changed or is incorrect, you may ask us to change or update such data.<br><br>All requests shall be in writing and shall be directed to the contact details as set out below and shall include enough information to enable us to satisfy ourselves as to your identity.<br><br><strong>Contacting us</strong><br><br>You can contact us by emailing us at <a href="mailto:enquiry@icc-cricket.com">enquiry@icc-cricket.com</a> or by writing to us at the following address:<br><br>ICC Development (International) Limited<br>Street 69, Dubai Sports City<br>Emirates Road<br>PO Box 500 070<br>Dubai<br>United Arab Emirates<br><br>© Copyright 2010 - ICC Development (International) Limited. All rights reserved.</p><p></p></div><br class="clear">			
 				</div>
 				
 				<div class="rightPane">
 					<!-- right Pane starts -->
-					<div id="livescoreTab"><h4>live matches</h4>	<script>
+					
+<script>
 		var prevScoreTab ='liveScoresTab';
 		function toggleScoreTabfnc(obj){
 			document.getElementById(prevScoreTab+"ID").className = '';
@@ -141,69 +204,20 @@ obj.style.left=(parseInt(valueL,10)+fixedXPos)+"px";obj.style.top=(parseInt(valu
 			prevScoreTab = obj;
 			return false;
 		}
-		function init() {
-			setInterval(refreshLiveScoreCard, 20000);
-		}
-		function refreshLiveScoreCard() {
-			http_request = false;
-			if (window.XMLHttpRequest) { // Mozilla, Safari,...
-				http_request = new XMLHttpRequest();
-				if (http_request.overrideMimeType) {
-					http_request.overrideMimeType('text/html');
-				}
-			} else if (window.ActiveXObject) { // IE
-				try {
-					http_request = new ActiveXObject("Msxml2.XMLHTTP");
-				} catch (e) {
-					try {
-					   http_request = new ActiveXObject("Microsoft.XMLHTTP");
-					} catch (e) {}
-				}
-			}
-			if (!http_request) {
-				return;
-			}
-			countLoc=0;
-			loading = true;
-			try {
-				var myDiv=MM_findObj("liveScoresTab");
-				http_request.onreadystatechange = processLiveScoreCard;
-				var time = new Date();			
-				http_request.open("POST", "http://icc-cricket.yahoo.net/match_zone/rhs_livescoresupdate.php", true);
-				var parameters="time="+time;
-				http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-				http_request.send(parameters);
-			} catch (e) {
-				loading = false;
-				failed = true;
-			}
-			return false;
-		}
-
-		function processLiveScoreCard() {
-			if (http_request.readyState == 4) {
-				if (http_request.status == 200) {
-					var msgBody = http_request.responseText;
-					//msgBody = msgBody.trim();
-					loading = false;
-					var myDiv=MM_findObj("liveScoresTab");
-					if (myDiv){
-						myDiv.innerHTML=msgBody;
-					}
-					
-				} else {
-					failed = true;
-					loading = false;
-				}
-			}
-		}
-		//init();
 	</script>
-	<div class="liveMatch"><ul><li class="sel" id="liveScoresTabID" onclick="javascript:toggleScoreTabfnc('liveScoresTab')">Live Scores </li><li id="resultsTabID" onclick="javascript:toggleScoreTabfnc('resultsTab')">Results </li><li id="upcomingMatchesTabID" onclick="javascript:toggleScoreTabfnc('upcomingMatchesTab')">Upcoming Matches</li></ul><br class="clear"><div id="liveScoresTab"><div style="padding: 5px; width: 97%; text-align: left;">No international matches live at the moment.<br><a href="http://cricket.yahoo.com/matches/schedule" target="_blank" style="color: #0065ad;" class="more"><strong>Click here for upcoming matches</strong></a></div><br class="clear"><br><!--<p><a href="http://icc-cricket.yahoo.net/the-icc/icc_members/eap/scores.php" class="more">Click here for ICC EAP Women's Cricket Trophy 2010 scores</a></p>--><br class="clear"></div><div id="resultsTab" style="display:none;"><div style="background-color:#BEBEBE;font-weight:bold;width:97%;border:1px solid #FFFFFF;padding:5px;color:#000000;">ODI</div><div class="liveMatchBox"><div class="liveMatchBoxDate left"><b>May 24, 2010</b><br></div><div class="scoreBox left"><b><img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573552749_881.jpg" style="padding:2px 4px 0 0px;" width="15">WI &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573713812_960.jpg" style="padding:2px 4px 0 4px;" width="15">RSA</b><br class="clear"><a href="http://cricket.yahoo.com/postmatch-West-IndiesvsSouth-Africa_23207" class="link" target="_blank"><span class="btxt">South Africa won by 17 runs</span></a></div><br class="clear"></div><div class="gLiveMatchBox"><div class="liveMatchBoxDate left"><b>May 22, 2010</b><br></div><div class="scoreBox left"><b><img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573552749_881.jpg" style="padding:2px 4px 0 0px;" width="15">WI &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573713812_960.jpg" style="padding:2px 4px 0 4px;" width="15">RSA</b><br class="clear"><a href="http://cricket.yahoo.com/postmatch-West-IndiesvsSouth-Africa_23206" class="link" target="_blank"><span class="btxt">South Africa won by 66 runs</span></a></div><br class="clear"></div><div style="text-align:right;background-color:#E8E8E8;"><a href="http://cricket.yahoo.com/matches/archive/odi-match" class="more" target="_blank">More...</a></div><div style="background-color:#BEBEBE;font-weight:bold;width:97%;border:1px solid #FFFFFF;padding:5px;color:#000000;">T20</div><div class="liveMatchBox"><div class="liveMatchBoxDate left"><b>May 23, 2010</b><br></div><div class="scoreBox left"><b><img src="http://static.icc-cricket.yahoo.net/ugc/images/CED326E6BB20F6D3EF964EF19C184998_1273817813410_593.jpg" style="padding:2px 4px 0 0px;" width="15">NZ &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573257772_996.jpg" style="padding:2px 4px 0 4px;" width="15">SL</b><br class="clear"><a href="http://cricket.yahoo.com/postmatch-New-ZealandvsSri-Lanka_3608" class="link" target="_blank"><span class="btxt">Sri Lanka won by 7 wickets</span></a></div><br class="clear"></div><div class="gLiveMatchBox"><div class="liveMatchBoxDate left"><b>May 22, 2010</b><br></div><div class="scoreBox left"><b><img src="http://static.icc-cricket.yahoo.net/ugc/images/CED326E6BB20F6D3EF964EF19C184998_1273817813410_593.jpg" style="padding:2px 4px 0 0px;" width="15">NZ &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573257772_996.jpg" style="padding:2px 4px 0 4px;" width="15">SL</b><br class="clear"><a href="http://cricket.yahoo.com/postmatch-New-ZealandvsSri-Lanka_3607" class="link" target="_blank"><span class="btxt">New Zealand won by 28 runs</span></a></div><br class="clear"></div><div class="liveMatchBox"><div class="liveMatchBoxDate left"><b>May 20, 2010</b><br></div><div class="scoreBox left"><b><img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573552749_881.jpg" style="padding:2px 4px 0 0px;" width="15">WI &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573713812_960.jpg" style="padding:2px 4px 0 4px;" width="15">RSA</b><br class="clear"><a href="http://cricket.yahoo.com/postmatch-West-IndiesvsSouth-Africa_3569" class="link" target="_blank"><span class="btxt">South Africa won by 1 run</span></a></div><br class="clear"></div><div class="gLiveMatchBox"><div class="liveMatchBoxDate left"><b>May 19, 2010</b><br></div><div class="scoreBox left"><b><img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573552749_881.jpg" style="padding:2px 4px 0 0px;" width="15">WI &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573713812_960.jpg" style="padding:2px 4px 0 4px;" width="15">RSA</b><br class="clear"><a href="http://cricket.yahoo.com/postmatch-West-IndiesvsSouth-Africa_3554" class="link" target="_blank"><span class="btxt">South Africa won by 13 runs</span></a></div><br class="clear"></div><div style="text-align:right;background-color:#E8E8E8;"><a href="http://cricket.yahoo.com/matches/archive/twenty20-match" class="more" target="_blank">More...</a></div></div><div id="upcomingMatchesTab" style="display:none;"><div style="background-color:#BEBEBE;font-weight:bold;width:97%;border:1px solid #FFFFFF;padding:5px;color:#000000;">Test</div><div class="liveMatchBox" style="height;auto;"><div class="liveMatchBoxDate left"><b>May 27, 2010 </b></div><div class="scoreBox left"><b class="btxt"><img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573791987_914.jpg" style="padding:2px 4px 0 0px;" width="15">ENG &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573875416_697.jpg" style="padding:2px 4px 0 4px;" width="15">BAN</b><br><b>Venue</b>: Lord's</div><br class="clear"></div><div style="text-align:right;background-color:#FFFFFF;"><a href="http://cricket.yahoo.com/matches/schedule/test-match" class="more" target="_blank">More...</a></div><div style="background-color:#BEBEBE;font-weight:bold;width:97%;border:1px solid #FFFFFF;padding:5px;color:#000000;">ODI</div><div class="liveMatchBox" style="height;auto;"><div class="liveMatchBoxDate left"><b>May 28, 2010 </b></div><div class="scoreBox left"><b class="btxt"><img src="http://static.icc-cricket.yahoo.net/ugc/images/28A647A09929155D308B7C6CB0C46DA5_1273586116491_270.jpg" style="padding:2px 4px 0 0px;" width="15">ZIM &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573415817_545.jpg" style="padding:2px 4px 0 4px;" width="15">IND</b><br><b>Venue</b>: Bulawayo</div><br class="clear"></div><div class="gLiveMatchBox" style="height;auto;"><div class="liveMatchBoxDate left"><b>May 28, 2010 </b></div><div class="scoreBox left"><b class="btxt"><img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573552749_881.jpg" style="padding:2px 4px 0 0px;" width="15">WI &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/5EE321548F534DC423B3BF0FE5E872C9_1273573713812_960.jpg" style="padding:2px 4px 0 4px;" width="15">RSA</b><br><b>Venue</b>: Windsor Park</div><br class="clear"></div><div style="text-align:right;background-color:#E8E8E8;"><a href="http://cricket.yahoo.com/matches/schedule/odi-match" class="more" target="_blank">More...</a></div><div style="background-color:#BEBEBE;font-weight:bold;width:97%;border:1px solid #FFFFFF;padding:5px;color:#000000;">Development</div><div class="liveMatchBox" style="height;auto;"><div class="liveMatchBoxDate left"><b>May 28, 2010 </b></div><div class="scoreBox left"><b class="btxt"><img src="http://static.icc-cricket.yahoo.net/ugc/images/A8439BE329A9EBB71BA9446A46A8B137_1274420246388_614.jpg" style="padding:2px 4px 0 0px;" width="15">BER &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/A8439BE329A9EBB71BA9446A46A8B137_1274421760245_942.png" style="padding:2px 4px 0 4px;" width="15">BAH</b><br><b>Venue</b>: NSC</div><br class="clear"></div><div class="gLiveMatchBox" style="height;auto;"><div class="liveMatchBoxDate left"><b>May 28, 2010 </b></div><div class="scoreBox left"><b class="btxt"><img src="http://static.icc-cricket.yahoo.net/ugc/images/A8439BE329A9EBB71BA9446A46A8B137_1274420337485_228.jpg" style="padding:2px 4px 0 0px;" width="15">ARG &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/A8439BE329A9EBB71BA9446A46A8B137_1274420418853_359.jpg" style="padding:2px 4px 0 4px;" width="15">USA</b><br><b>Venue</b>: St. Georges</div><br class="clear"></div><div class="liveMatchBox" style="height;auto;"><div class="liveMatchBoxDate left"><b>May 28, 2010 </b></div><div class="scoreBox left"><b class="btxt"><img src="http://static.icc-cricket.yahoo.net/ugc/images/A8439BE329A9EBB71BA9446A46A8B137_1274420500343_403.jpg" style="padding:2px 4px 0 0px;" width="15">CAN &nbsp; &nbsp; vs  &nbsp; &nbsp; <img src="http://static.icc-cricket.yahoo.net/ugc/images/A8439BE329A9EBB71BA9446A46A8B137_1274420607481_30.jpg" style="padding:2px 4px 0 4px;" width="15">CAY</b><br><b>Venue</b>: St. Davids</div><br class="clear"></div><div style="text-align:right;background-color:#FFFFFF;"><a href="http://icc-cricket.yahoo.net/match_zone/regional_fixtures.php" class="more">More...</a></div></div></div></div><div class="topMargin">
-	<h4>ICC Members</h4>
-	<form name="regionForm" action="" method="post">
-	<div class="gContentBox">
-		<select name="countryCode" id="countryCode" onchange="javascript:membersSelect(this.options[this.selectedIndex].value);" style="width:280px;">
+<div class="liveScore"><h2>Live Matches</h2><ul><li class="sel" id="liveScoresTabID" onclick="javascript:toggleScoreTabfnc('liveScoresTab')">Live Scores</li><li id="resultsTabID" onclick="javascript:toggleScoreTabfnc('resultsTab')">Results</li><li id="upcomingMatchesTabID" onclick="javascript:toggleScoreTabfnc('upcomingMatchesTab')">Upcoming Matches</li></ul><div id="liveScoresTab"><div class="scores"><div class="matchDate left">Oct 29, 2011<br>[ <a href="http://icc-cricket.yahoo.net/match_zone/scorecard.php?type=Y&amp;matchId=104858" class="link">Scorecard</a> ]</div><div class="matchScores left"><span>BAN vs WI</span><br>BAN : 231 / 10 &amp; 164 / 3<br>WI : 355 / 10 &amp; 383 / 5</div><div class="matchDesc right">03:30 GMT <br><span>Stumps</span></div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Nov 1, 2011<br>[ <a href="http://icc-cricket.yahoo.net/match_zone/scorecard.php?type=Y&amp;matchId=104829" class="link">Scorecard</a> ]</div><div class="matchScores left"><span>ZIM vs NZ</span><br>NZ : 275 / 3</div><div class="matchDesc right">08:00 GMT <br><span>Stumps</span></div><div class="clear"></div></div><p style="padding: 0px 5px;"></p>
+
+<!--
+(From August 7 - 12)
+
+<a href="http://www.cricketeurope4.net/CRICKETEUROPE/DATABASE/2011/TOURNAMENTS/EUROU15/index.shtml" class="more" target="_blank">For the latest scores from the Pepsi ICC Europe U15 Division 1 Championship please click here</a>
+--></div><div id="resultsTab" style="display:none;"><div style="background-color:#BEBEBE;font-weight:bold;border:1px solid #FFFFFF;padding:5px;color:#000000;">Test</div><div class="scores"><div class="matchDate left">Oct 26, 2011<br>[ <a href="http://cricket.yahoo.com/postmatch-pakistan-vs-sri-lanka_104831" class="more" target="_blank">Scorecard</a> ]</div><div class="matchTab left"><span>PAK vs SL</span><br class="clear">Pakistan won by 9 wickets</div><div class="clear"></div></div><a href="http://cricket.yahoo.com/matches/archive/test-match" class="more leftMargin" target="_blank">More...</a><div style="background-color:#BEBEBE;font-weight:bold;border:1px solid #FFFFFF;padding:5px;color:#000000;">ODI</div><div class="scores"><div class="matchDate left">Oct 28, 2011<br>[ <a href="http://cricket.yahoo.com/postmatch-south-africa-vs-australia_104739" class="more" target="_blank">Scorecard</a> ]</div><div class="matchTab left"><span>RSA vs AUS</span><br class="clear">Australia won by 3 wickets</div><div class="clear"></div></div><a href="http://cricket.yahoo.com/matches/archive/odi-match" class="more leftMargin" target="_blank">More...</a><div style="background-color:#BEBEBE;font-weight:bold;border:1px solid #FFFFFF;padding:5px;color:#000000;">T20</div><div class="scores"><div class="matchDate left">Oct 30, 2011<br>[ <a href="http://icc-cricket.yahoo.net/match_zone/scorecard.php?matchId=40966&amp;loc=DOC_A7F4BA9CE6231F696A62D20765AADD91_1319986589689_325&amp;type=C" class="more" target="_blank">Scorecard</a> ]</div><div class="matchTab left"><span>RSA vs ENG</span><br class="clear">England Women won by 7 wickets</div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Oct 29, 2011<br>[ <a href="http://icc-cricket.yahoo.net/match_zone/scorecard.php?matchId=40965&amp;loc=DOC_A7F4BA9CE6231F696A62D20765AADD91_1319986589689_325&amp;type=C" class="more" target="_blank">Scorecard</a> ]</div><div class="matchTab left"><span>RSA vs ENG</span><br class="clear">No Result</div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Oct 29, 2011<br>[ <a href="http://cricket.yahoo.com/postmatch-india-vs-england_104772" class="more" target="_blank">Scorecard</a> ]</div><div class="matchTab left"><span>IND vs ENG</span><br class="clear">England won by 6 wickets</div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Oct 27, 2011<br>[ <a href="http://icc-cricket.yahoo.net/match_zone/scorecard.php?matchId=40964&amp;loc=DOC_A7F4BA9CE6231F696A62D20765AADD91_1319986589689_325&amp;type=C" class="more" target="_blank">Scorecard</a> ]</div><div class="matchTab left"><span>RSA vs ENG</span><br class="clear">England Women won by 7 wickets</div><div class="clear"></div></div><a href="http://cricket.yahoo.com/matches/archive/twenty20-match" class="more leftMargin" target="_blank">More...</a></div><div id="upcomingMatchesTab" style="display:none;"><div style="background-color:#BEBEBE;font-weight:bold;border:1px solid #FFFFFF;padding:5px;color:#000000;">Test</div><div class="scores"><div class="matchDate left">Nov 3, 2011</div><div class="matchTab left"><span>PAK vs SL</span><br>Venue : Sharjah Cricket Stadium</div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Nov 6, 2011</div><div class="matchTab left"><span>IND vs WI</span><br>Venue : Feroz Shah Kotla</div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Nov 9, 2011</div><div class="matchTab left"><span>RSA vs AUS</span><br>Venue : Newlands, Cape Town</div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Nov 14, 2011</div><div class="matchTab left"><span>IND vs WI</span><br>Venue : Eden Gardens, Kolkata</div><div class="clear"></div></div><a href="http://cricket.yahoo.com/matches/schedule/test-match" class="more leftMargin" target="_blank">More...</a><div style="background-color:#BEBEBE;font-weight:bold;border:1px solid #FFFFFF;padding:5px;color:#000000;">ODI</div><div class="scores"><div class="matchDate left">Nov 11, 2011</div><div class="matchTab left"><span>PAK vs SL</span><br>Venue : Dubai International Cricket Stadium</div><div class="clear"></div></div><div class="scores"><div class="matchDate left">Nov 14, 2011</div><div class="matchTab left"><span>PAK vs SL</span><br>Venue : Dubai International Cricket Stadium</div><div class="clear"></div></div><a href="http://cricket.yahoo.com/matches/schedule/odi-match" class="more leftMargin" target="_blank">More...</a></div></div><div class="topMargin"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://macromedia.com/cabs/swflash.cab#version=6,0,0,0" id="flaMovie" width="286" height="155"><param name="movie" value="http://static.icc-cricket.yahoo.net/img/v12/sponsors_flash_v8.swf"><param name="wmode" value="transparent"><param name="quality" value="medium"><embed src="http://static.icc-cricket.yahoo.net/img/v12/sponsors_flash_v8.swf" width="286" height="155" wmode="transparent" type="application/x-shockwave-flash"></object></div><a href="http://www.sportguru.co.uk/iccdevelopmentt20/" target="_blank"><img src="http://static.icc-cricket.yahoo.net/ugc/images/5D42A3B7E50977BD671999190264D46D_1306133555801_142.gif" class="topMargin"></a><div class="resentActivities topMargin">
+	<iframe src="http://www.facebook.com/plugins/activity.php?site=http%3A%2F%2Ficc-cricket.yahoo.net%2F&amp;width=285&amp;height=300&amp;header=true&amp;colorscheme=light&amp;recommendations=true" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:285px; height:300px;" allowtransparency="true"></iframe>
+</div>
+<div class="rightContent topMargin">
+	<h2>ICC Members</h2>
+	<form name="memberForm" action="" method="post">
+		<select name="countryCode" id="countryCode" onchange="javascript:membersSelect(this.options[this.selectedIndex].value);" style="width:275px;">
 			<option value="">Click here for ICC Member Details</option>
 			<option value="ICC_AFFILIATE_MEMBERS_AFGHAN">&nbsp; - Afghanistan</option>
 			<option value="ICC_ASSOCIATE_MEMBERS_ARGENTINA">&nbsp; - Argentina</option>
@@ -223,7 +237,7 @@ obj.style.left=(parseInt(valueL,10)+fixedXPos)+"px";obj.style.top=(parseInt(valu
 			<option value="ICC_AFFILIATE_MEMBERS_CAMEROON">&nbsp; - Cameroon</option>
 			<option value="ICC_ASSOCIATE_MEMBERS_CANADA">&nbsp; - Canada</option>
 			<option value="ICC_ASSOCIATE_MEMBERS_CAYMAN_ISL">&nbsp; - Cayman Islands</option>
-			<option value="ICC_AFFILIATE_MEMBERS_CHILIE">&nbsp; - Chilie</option>
+			<option value="ICC_AFFILIATE_MEMBERS_CHILIE">&nbsp; - Chile</option>
 			<option value="ICC_AFFILIATE_MEMBERS_CHINA">&nbsp; - China</option>
 			<option value="ICC_AFFILIATE_MEMBERS_COOKISL">&nbsp; - Cook Islands</option>
 			<option value="ICC_AFFILIATE_MEMBERS_COSTARICA">&nbsp; - Costa Rica</option>
@@ -284,6 +298,7 @@ obj.style.left=(parseInt(valueL,10)+fixedXPos)+"px";obj.style.top=(parseInt(valu
 			<option value="ICC_AFFILIATE_MEMBERS_SAMOA">&nbsp; - Samoa</option>
 			<option value="ICC_AFFILIATE_MEMBERS_SA">&nbsp; - Saudi Arabia</option>
 			<option value="ICC_ASSOCIATE_MEMBERS_SCOTLAND">&nbsp; - Scotland</option>
+			<option value="ICC_AFFILIATE_MEMBERS_SEYCHELLES">&nbsp; - Seychelles</option>
 			<option value="ICC_AFFILIATE_MEMBERS_SIERRA">&nbsp; - Sierra Leone</option>
 			<option value="ICC_ASSOCIATE_MEMBERS_SINGAPORE">&nbsp; - Singapore</option>
 			<option value="ICC_AFFILIATE_MEMBERS_SLOVENIA">&nbsp; - Slovenia</option>
@@ -310,14 +325,12 @@ obj.style.left=(parseInt(valueL,10)+fixedXPos)+"px";obj.style.top=(parseInt(valu
 			<option value="ICC_ASSOCIATE_MEMBERS_ZAMBIA">&nbsp; - Zambia</option>
 			<option value="ICC_FULL_MEMBERS_ZIMBABWE">&nbsp; - Zimbabwe</option>
 		</select>
-	</div>
 	</form>
 </div>
-<div class="topMargin">
-	<h4>ICC Regions</h4>
+<div class="rightContent topMargin">
+	<h2>ICC Regions</h2>
 	<form name="regionalForm" action="" method="post">
-	<div class="gContentBox">
-		<select name="regionCode" id="regionCode" onchange="javascript:regionsSelect(this.options[this.selectedIndex].value);" style="width:280px;">
+		<select name="regionCode" id="regionCode" onchange="javascript:regionsSelect(this.options[this.selectedIndex].value);" style="width:275px;">
 			<option value="">Click here for ICC Region Details</option>
 			<option value="africa">&nbsp;Africa</option>
 			<option value="americas">&nbsp;Americas</option>
@@ -325,78 +338,8 @@ obj.style.left=(parseInt(valueL,10)+fixedXPos)+"px";obj.style.top=(parseInt(valu
 			<option value="eap">&nbsp;East Asia-Pacific</option>
 			<option value="europe">&nbsp;Europe</option>
 		</select>
-	</div>
 	</form>
-</div><div class="topMargin">
-<h4><a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/partners.php" style="color:#FFFFFF;">commercial partners</a></h4>
-<div class="gContentBox" id="comercialPartners">
-		<div id="partnerBanner">
-			<table height="100%" width="100%" summary="partners">
-				<tbody><tr><td valign="middle">
-				<a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/partners.php"><img id="partnerImage" name="partnerBanner" src="http://static.icc-cricket.yahoo.net/img/v8/partners/rel.gif" alt="Reliance"></a>
-				</td></tr>
-			</tbody></table>
-		</div>
-</div>
-
-<script>
-	var banners = new Array();
-	banners[banners.length] = new Array('http://static.icc-cricket.yahoo.net/img/v8/partners/rel.gif',5000);
-	banners[banners.length] = new Array('http://static.icc-cricket.yahoo.net/img/v8/partners/pepsi.gif',5000);
-	banners[banners.length] = new Array('http://static.icc-cricket.yahoo.net/img/v8/partners/lg.gif',5000);
-	banners[banners.length] = new Array('http://static.icc-cricket.yahoo.net/img/v8/partners/ct_hh.gif',5000);
-	banners[banners.length] = new Array('http://static.icc-cricket.yahoo.net/img/v8/partners/yahoo.gif',3000);
-	banners[banners.length] = new Array('http://static.icc-cricket.yahoo.net/img/v8/partners/ree.gif',3000);
-	banners[banners.length] = new Array('http://static.icc-cricket.yahoo.net/img/v8/partners/espn.gif',5000);
-
-	var time=new Date().getTime();
-	var currBannerIndex = time % banners.length;
-	var timer = 0;
-	loadBanner(currBannerIndex);	  
-	
-	function loadBanner(index) {
-		currBannerIndex = index;
-		var maxBanners = banners.length;		
-		if(maxBanners <= 0){				
-			clearInterval(timer);
-		}else{
-			var imgObj = MM_findObj("partnerBanner");
-			if(imgObj){
-				imgObj.src = banners[currBannerIndex][0];
-				clearInterval(timer);
-				timer = setInterval(playBanner, banners[currBannerIndex][1]);			   
-			}
-		}
-	}
-	function playBanner() {
-	   if(currBannerIndex == (banners.length-1)) {
-		  currBannerIndex = 0;
-	   } else {
-		  currBannerIndex++;
-	   }
-	   loadBanner(currBannerIndex);
-	}	
-</script>
-</div><div class="elementBox topMargin"><h4>Latest News</h4><div class="bContentBox padding"><ul class="dottedBlue"><li><a href="http://icc-cricket.yahoo.net/newsdetails.php?newsId=10315_1274757420">England cricketers celebrate success at ECB awards night</a></li><li><a href="http://icc-cricket.yahoo.net/newsdetails.php?newsId=10314_1274755320">Australia and Australia A squads announced</a></li><li><a href="http://icc-cricket.yahoo.net/newsdetails.php?newsId=10313_1274754960">Proteas survive hurricane Sammy</a></li><li><a href="http://icc-cricket.yahoo.net/newsdetails.php?newsId=10312_1274665740">Sri Lanka beats New Zealand by 7 wickets</a></li><li><a href="http://icc-cricket.yahoo.net/newsdetails.php?newsId=10311_1274610660">England name 12-man squad for 1st Bangladesh Test</a></li></ul>	</div></div>
-<div class="elementBox topMargin">
-	<h4>ICC Media</h4>
-	<div class="bContentBox">
-			<div id="mediaTab1" style="display:block;">
-<ul class="iccmedia"><li class="sel" onclick="javascript:stopMediaTab();">Video</li><li class="bdr"><a href="javascript:displayTab('mediaTab',2, 3)">Audio</a></li><li><a href="javascript:displayTab('mediaTab',3, 3)">Photos</a></li></ul><br class="clear"><div class="galleryItems"><ul><li><a href="http://www.youtube.com/watch?v=9epZt0i0LkA"><img src="http://static.icc-cricket.yahoo.net/ugc/images/DA383D76A8355F482E2E69447448C837_1274600662101_354.jpg" class="left" ;"="" alt="" width="70" style="border:1px solid #cccccc;"></a><div class="left" style="margin-left:10px;width:190px;"><a href="http://www.youtube.com/watch?v=9epZt0i0LkA"><p>ICC EAP Women's Trophy promotional video</p></a></div><br class="clear"></li><li><a href="http://icc-cricket.yahoo.net/media_interactive_zone/broadcast_video.php?mediaId=1485"><img src="http://static.icc-cricket.yahoo.net/ugc/images/42A7F3CADB4241A155166808B5B21BF3_1274255189956_660.jpg" class="left" ;"="" alt="" width="70" style="border:1px solid #cccccc;"></a><div class="left" style="margin-left:10px;width:190px;"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/broadcast_video.php?mediaId=1485"><p>Watch a preview of the Cricket in America documentary</p></a></div><br class="clear"></li></ul><div class="moreLink right"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/broadcast.php">More...</a></div>	</div> 
-			</div>
-			<div id="mediaTab2" style="display:none;">
-<ul class="iccmedia"><li><a href="javascript:displayTab('mediaTab',1, 3)">Video</a></li><li class="sel">Audio</li><li><a href="javascript:displayTab('mediaTab',3, 3)">Photos</a></li></ul><br class="clear"><div class="galleryItems"><ul><li><a href="#" onclick="javascript:PlayerOpen('Former Sri Lankan captain Marvan Atapattu reveals his heroes n villians','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342190066_314.mp3','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342190066_314.mp3')"><img src="http://static.icc-cricket.yahoo.net/ugc/images/6888D59380E92A653186B9855331F2B5_1274350147940_973.jpg" class="left" ;"="" alt="" width="70" style="border:1px solid #cccccc;"></a><div class="left" style="margin-left:10px;width:190px;"><a href="#" onclick="javascript:PlayerOpen('Former Sri Lankan captain Marvan Atapattu reveals his heroes n villians','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342190066_314.mp3','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342190066_314.mp3')"><p>Former Sri Lankan captain Marvan Atapattu reveals his heroes n villians</p></a></div><br class="clear"></li><li><a href="#" onclick="javascript:PlayerOpen('We bring a special feature on recently concluded ICC world T20 in Caribbean.','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342721583_846.mp3','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342721583_846.mp3')"><img src="http://static.icc-cricket.yahoo.net/ugc/images/6888D59380E92A653186B9855331F2B5_1274350314680_941.jpg" class="left" ;"="" alt="" width="70" style="border:1px solid #cccccc;"></a><div class="left" style="margin-left:10px;width:190px;"><a href="#" onclick="javascript:PlayerOpen('We bring a special feature on recently concluded ICC world T20 in Caribbean.','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342721583_846.mp3','http://static.icc-cricket.yahoo.net/ugc/medias/MM_1274342721583_846.mp3')"><p>We bring a special feature on recently concluded ICC world T20 in Caribbean.</p></a></div><br class="clear"></li></ul><div class="moreLink right"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/podcast.php">More Podcast.</a></div><br class="clear"><div class="moreLink right"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/audio_interview.php">More Audio Interviews.</a></div>	</div> 
-			</div>
-			<div id="mediaTab3" style="display:none;">
-<ul class="iccmedia"><li class="bdr"><a href="javascript:displayTab('mediaTab',1, 3)">Video</a></li><li><a href="javascript:displayTab('mediaTab',2, 3)">Audio</a></li><li class="sel">Photos</li></ul><br class="clear"><div class="galleryItems"><ul><li><a href="http://icc-cricket.yahoo.net/photogallery.php?gallId=395"><img src="http://static.icc-cricket.yahoo.net/ugc/images/F9FA3098F34F97F25DA18A8A534E8949_1274769895642_480.jpg" width="70" class="left" alt="" height="70"></a><div class="left" style="margin-left:10px;width:190px;"><a href="http://icc-cricket.yahoo.net/photogallery.php?gallId=395">ICC Cricket Committee Meeting - May 2010</a><br></div><br class="clear"></li>	<li><a href="http://icc-cricket.yahoo.net/photogallery.php?gallId=390"><img src="http://static.icc-cricket.yahoo.net/ugc/images/8D3C56F5FBF153D481499AEE3B930886_1274000370236_465.jpg" width="70" class="left" alt="" height="70"></a><div class="left" style="margin-left:10px;width:190px;"><a href="http://icc-cricket.yahoo.net/photogallery.php?gallId=390">ICC Americas World Cricket League Division 1</a><br></div><br class="clear"></li>	</ul>			
-		<div class="moreLink right"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/photo_zone.php">More...</a></div>
-</div> 
-			</div>
-			<br class="clear">
-	</div>
-</div>
-
-<script language="JavaScript">
+</div><script language="JavaScript">
 function submitVote() {		
 	var frm = document.pollForm;
 	var pollId=frm.pollId.value;
@@ -409,9 +352,7 @@ function submitVote() {
 			pollChoiceId = frm.answerId[count].value;
 		}
 	}
-/*	if(!pollChoiceId){
-		return false;
-	}*/
+
 	http_request = false;
 		if (window.XMLHttpRequest) { // Mozilla, Safari,...
 			http_request = new XMLHttpRequest();
@@ -431,10 +372,6 @@ function submitVote() {
 			return;
 		}		
 		loading = true;
-		/*var myDiv = document.getElementById("pollStatsBox");		
-		position("pollStatsBox")		
-		myDiv.style.display="block";*/
-
 		try {
 			var time = new Date();
 			var myPoll=document.getElementById("pollBox");
@@ -467,53 +404,44 @@ function submitVote() {
 		}
 	}
 </script>
-<div class="elementBox topMargin">
-	<h4>
-		poll	</h4>
+<div class="pollBox topMargin">
+	<h2>
+		poll	</h2>
 	<div id="pollBox">
 		<form name="pollForm" action="#" method="post">
-		Will South Africa be able to win the ODI series against the West Indies?<br>
-			<input name="answerId" value="655" type="radio"> Yes<br><input name="answerId" value="656" type="radio"> No<br><input name="answerId" value="657" type="radio"> Can't Say<br>		<input type="hidden" name="pollId" value="218">
-		<img src="http://static.icc-cricket.yahoo.net/img/v8/submit.gif" style="cursor:hand" onclick="submitVote();">
+		<p>Who will win the Test between Zimbabwe and New Zealand?</p>
+		<p>
+			<input name="answerId" value="1399" type="radio"> Zimbabwe<br><input name="answerId" value="1400" type="radio"> New Zealand<br><input name="answerId" value="1401" type="radio"> Not sure<br>		
+		<input type="hidden" name="pollId" value="462">
+		</p><div class="submitBtn" onclick="submitVote();">&nbsp;</div>
+		<p></p>
 		</form>
-		<br class="clear">
 	</div>
 </div>
 					<!-- right Pane ends -->
 				</div>
-				
+				<div class="clear"></div>
 				<!-- page body ends here -->
 			</div>
 			
-			<br class="clear">
-			<div class="topMargin">
-	<div id="footerNavigation">
-		<div class="left">
-			<ul>
-				<li class="bdr"><a href="http://icc-cricket.yahoo.net/index.php">Home</a></li>
-				<li class="bdr"><a href="http://icc-cricket.yahoo.net/news.php">News</a></li>
-				<li class="bdr"><a href="http://icc-cricket.yahoo.net/match_zone/overview.php">Match Zone</a></li>
-				<li class="bdr"><a href="http://icc-cricket.yahoo.net/events_and_awards/overview.php">ICC Events and Awards</a></li>
-				<li class="bdr"><a href="http://icc-cricket.yahoo.net/media_interactive_zone/overview.php">Media and Interactive</a></li>
-				<li class="bdr"><a href="http://icc-cricket.yahoo.net/the-icc/overview.php">The ICC</a></li>
-				<li><a href="http://icc-cricket.yahoo.net/rules_and_regulations.php">Rules and Regulations</a></li>
-			</ul>
+			
+			<div id="footerNavigation">
+				<ul>
+					<li><a href="http://icc-cricket.yahoo.net/index.php">Home</a></li>
+					<li><a href="http://icc-cricket.yahoo.net/news.php">News</a></li>
+					<li><a href="http://icc-cricket.yahoo.net/match_zone/overview.php">Match Zone</a></li>
+					<li><a href="http://icc-cricket.yahoo.net/events_and_awards/overview.php">ICC Events &amp; Awards</a></li>
+					<li><a href="http://icc-cricket.yahoo.net/media_interactive_zone/overview.php">Broadcast &amp; Games</a></li>
+					<li><a href="http://icc-cricket.yahoo.net/the-icc/overview.php">The ICC</a></li>
+					<li><a href="http://icc-cricket.yahoo.net/rules_and_regulations.php">Rules &amp; Regulations</a></li>
+					<li><a href="http://www.icconlinestore.com/index.php" target="_blank">Shop</a></li>
+					<li class="special"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php">Anti<br>Doping</a></li>
+					<li class="special" style="border-right:none;"><a href="http://icc-cricket.yahoo.net/anti_corruption/overview.php">anti<br>Corruption</a></li>
+				</ul>
+			</div>
+			<div class="iccfooterLogo left"></div>
+			<div class="footerlinks right"><a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/contact_us.php">Contact Us</a> | <a href="http://icc-cricket.yahoo.net/sitemap.php">Site map</a> | <a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/recruitment.php">ICC Jobs</a> | <a href="http://icc-cricket.yahoo.net/legal_notice.php">Legal Notice</a> | <a href="http://icc-cricket.yahoo.net/privacy_policy.php">Privacy Policy</a> | <a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/contact_us.php">Feedback</a> | <a href="http://www.icc-cricket.org/" target="_blank">ICC Intranet</a> | <a href="http://icc-cricket.yahoo.net/member_zone/index.php">Members' Zone</a><br>Copyright © 2009 ICC Development (International) Ltd</div>
 		</div>
-		<div class="right">
-			<ul>
-				<li><!-- Online Shopping --></li>
-				<li class="bdr green"><a href="http://icc-cricket.yahoo.net/anti_doping/overview.php" class="green">Anti Doping</a></li>
-				<li class="green"><a href="http://icc-cricket.yahoo.net/anti_corruption/overview.php" class="green">anti Corruption</a></li>
-			</ul>
-		</div>
-	</div>
-</div>
-<div id="copyright">
-	<a href="http://icc-cricket.yahoo.net"><div class="left" id="copyrightIccLogo"></div></a>
-	<div class="left links"><a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/contact_us.php">Contact</a> | <a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/recruitment.php">ICC Jobs</a> | <a href="http://icc-cricket.yahoo.net/legal_notice.php">Legal Notice</a> | <a href="http://icc-cricket.yahoo.net/privacy_policy.php">Privacy Policy</a> | <a href="http://icc-cricket.yahoo.net/the-icc/about_the_organisation/contact_us.php">Feedback</a> | <a href="http://www.icc-cricket.org/" target="_blank">ICC Intranet</a><br>Copyright @ 2009 ICC Development (International) Ltd</div>
-	<div class="right" id="copyrightYahoo"></div>
-	</div>
-</div>
 <!-- Yahoo! Web Analytics - All rights reserved --> 
 
 <script type="text/javascript" src="http://d.yimg.com/mi/ywa.js">
