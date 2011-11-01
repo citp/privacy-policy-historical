@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the americommerce.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129112739id_/http%3A//www.americommerce.com/store/pg/27-Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americommerce.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101215254id_/http%3A//www.americommerce.com/store/pg/27-Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-AmeriCommerce is committed to privacy and security for all of our clients. Because we respect your right to privacy, we have developed a Privacy Statement as indicated below.
 
 ## Personal Information  
 
