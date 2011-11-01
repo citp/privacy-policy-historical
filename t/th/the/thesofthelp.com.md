@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesofthelp.com privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231073850id_/http%3A//www.thesofthelp.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesofthelp.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101165710id_/http%3A//www.thesofthelp.com/2009/08/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -44,7 +44,5 @@ Supreme caution has been taken to make sure that there are no copyright infringe
 
 
 Liked the article? Subscribe via [RSS](http://feeds2.feedburner.com/alisoft7) or via [Email](http://www.thesofthelp.com/2009/08/contact-me.html) and get new articles delivered to your inbox everyday. It's free. 
-
-**Other Recommended Posts :**
 
 [](http://www.linkwithin.com/)
