@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the secp.gov.pk privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221011749id_/http%3A//www.secp.gov.pk/ppolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secp.gov.pk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120756id_/http%3A//www.secp.gov.pk/ppolicy.asp) for the most accurate reproduction.*
 
 # The Official Website of SECP
 
@@ -48,4 +48,4 @@ Providing any linkage to SECP website from another website must be made keeping 
 Top  
 |    
 ---  
-[](https://web.archive.org/web/20101221011749id_/http%3A//www.secp.gov.pk/Services/protection.asp)
+[](https://web.archive.org/web/20111101120756id_/http%3A//www.secp.gov.pk/Services/protection.asp)
