@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soundstrue.com privacy policy that was archived on 2011-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110515192329id_/http%3A//www.soundstrue.com/pages/popup_privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soundstrue.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102005704id_/http%3A//www.soundstrue.com/pages/popup_privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -40,6 +40,7 @@
 	_gaq.push(['_setDomainName', googleDomain]);
 	_gaq.push(['_setAllowLinker', true]);
 	_gaq.push(['_trackPageview']);
+	_gaq.push(['_trackPageLoadTime']);
 	
 	assignGoogleAsync = true;
 	if (typeof googleAsync != 'undefined') {
@@ -52,6 +53,31 @@
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	})();
 
+</script>	<script type="text/javascript">
+	function applyAddLinkerToSelector(selector) {
+		$(selector).each(function(){
+			if($(this).attr('onclick') == undefined) {
+				var clickString = "";
+				if($(this).attr('href').indexOf('http://') == 0 && $(this).attr('href').indexOf(googleDomain) == -1) {
+					clickString += "if(typeof googleGATrackEvent == 'function'){googleGATrackEvent({'account':'" + googleAccount + "','domain':'" + googleDomain + "','category':'outbound','label':'url','value':'" + $(this).attr('href') + "'});};";
+					clickString += "_gaq.push(function() { var tracker = _gaq._getAsyncTracker(); window.open(tracker._getLinkerUrl('" + $(this).attr('href') + "')); });return false;"; 
+				} else {
+					clickString += "javascript:_gaq.push(['_link', '" + $(this).attr('href') + "']);"; 
+				}
+				$(selector).attr('onclick', clickString);
+			}	
+		});
+	}
+
+	function googleGATrackEvent(eventObject) {
+		_gaq.push(['_trackEvent', eventObject.category, eventObject.label, eventObject.value]);
+	}
+	
+	$(document).ready(function(){
+		if(typeof applyAddLinkerToSelector == 'function'){
+			applyAddLinkerToSelector('.applyAddLinker');
+		}
+	});
 </script>		
 		<style>
 			body {
