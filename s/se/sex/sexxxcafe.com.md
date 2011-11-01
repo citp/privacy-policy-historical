@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sexxxcafe.com privacy policy that was archived on 2011-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110206123326id_/http%3A//www.sexxxcafe.com/privacy%2520policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexxxcafe.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125933id_/http%3A//www.sexxxcafe.com/privacy%2520policy.php) for the most accurate reproduction.*
 
-# Sexxxcafe.com - Videos, Clips, Movies
+# Sexxxcafe.com - Privacy Policy
 
 **1\. Applicable to Sexxxcafe Services**
 
@@ -27,7 +27,7 @@ The Sites absolutely do not distribute user email addresses to third party vendo
 
 **4\. When Do We Collect Information**
 
-**Browsing the Sexxxcafe Services.** You can view free videos or browse content using the Sexxxcafe Services without registering as a user. You can also contact us at support@Sexxxcafe.com or other Site email addresses without having to register for a user name. We do not collect PII when you are only browsing the Sites or the Sexxxcafe Services, but we may associate certain information about your use of the Sexxxcafe Services with your IP address and/or session id. Such information may include the categories of videos that you view, the information about categorization that you provide to us, or your ratings of videos all in order to provide you with a better overall experience. 
+**Browsing the Sexxxcafe Services.** You can view free videos or browse content using the Sexxxcafe Services without registering as a user. You can also contact us at info@Sexxxcafe.com or other Site email addresses without having to register for a user name. We do not collect PII when you are only browsing the Sites or the Sexxxcafe Services, but we may associate certain information about your use of the Sexxxcafe Services with your IP address and/or session id. Such information may include the categories of videos that you view, the information about categorization that you provide to us, or your ratings of videos all in order to provide you with a better overall experience. 
 
 **Emails.** If you contact us, we may keep a record of that correspondence. When you send us feedback email, we attach certain Non-PII to the email to help the Site troubleshoot your request. 
 
@@ -47,4 +47,4 @@ Please remember that protection of your privacy begins with you. You are solely 
 
 **7\. Acceptance of Privacy Policy**
 
-If you use the Sexxxcafe Services, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Sexxxcafe Services. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Sites or the Sexxxcafe Services after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please email us at support@Sexxxcafe.comSexxxcafe@gmail.com. 
+If you use the Sexxxcafe Services, you are accepting the terms and conditions of this Privacy Policy, and we will have the right to use your information as described in this Privacy Policy. If you do not agree to have your information used in any of the ways described in this Privacy Policy, you must discontinue use of the Sexxxcafe Services. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Sites or the Sexxxcafe Services after we either personally notify you or generally post such changes on the site will constitute your acceptance of those changes. If you have questions or concerns about this Privacy Policy, please email us at info@Sexxxcafe.com.
