@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tourismmarketing.co.za privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105194742id_/http%3A//www.tourismmarketing.co.za/terms_privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tourismmarketing.co.za privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102001746id_/http%3A//www.tourismmarketing.co.za/terms_privacy-policy.php) for the most accurate reproduction.*
 
 # Untitled Document
 
@@ -36,6 +36,3 @@ For site security purposes and to ensure that this service remains available to 
 
 "I am excited at the prospect of working with you as it has really been a struggle with my current web hosting company, who have not encouraged any efforts to improve our website marketing."   
 Dennis Cook, Horizon Cottages
-
-**For a FREE evaluation of  
-your website, click here >>>**
