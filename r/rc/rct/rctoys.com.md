@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rctoys.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222050342id_/http%3A//www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rctoys.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101220535id_/http%3A//www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
 # Privacy Policy - Draganfly Innovations Inc. : RCToys.com
 
@@ -30,7 +30,6 @@ We may change or amend our policies at anytime. These changes will be posted on 
   * [CVV (credit card security code)](http://www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html#cc_cvv)
   * [Bank or credit card company liability](http://www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html#cc_liability)
   * [Your credit card information is secure](http://www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html#cc_info)
-  * [Web Browsers](http://www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html#web_browsers)
   * [Cookies](http://www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html#cookies)
   * [Javascript](http://www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html#javascript)
   * [Document, Audio & Video Plug-Ins](http://www.rctoys.com/draganfly-innovations-information/PRIVACY-POLICY.html#plugins)
@@ -65,7 +64,7 @@ United States Border Services requires that all items shipping from Canada to th
 
 When shipping to US Businesses, the business TAX ID is required, and when shipping to individuals, the SSN is required. For additional information regarding new procedures that were in effect as of October 1st, 2004, please visit the U.S. Border Services Agency Web site [www.customs.gov](http://www.customs.gov/). You may also download the [Official Customs Directive](http://www.rctoys.com/pdf/Official-Customs-Directive.pdf).
 
-Please rest assured that we will only use your number for the shipping documents and we do not keep it on file. If you need clarification or have any questions, please do not hesitate to contact us by email at [info@rctoys.com](mailto:info@rctoys.com) or by telephone toll-free at 1-800-979-9794 (306-955-9907 outside of North America).
+If you need clarification or have any questions, please do not hesitate to contact us by email at [info@rctoys.com](mailto:info@rctoys.com) or by telephone toll-free at 1-800-979-9794 (306-955-9907 outside of North America).
 
 ##   
 How does rctoys.com protect kids' privacy?
@@ -98,13 +97,6 @@ Under the Fair Credit Billing Act (US customers only) your card issuing bank or 
 Your credit card information is secure
 
 To ensure you are accessing our secure server when you are about to submit your personal financial information, look on your Web browser for a Closed Lock icon in one of it's toolbars. If you see the closed lock then SSL is active. To double-check for security on the site, please look at the URL, Location or Address bar in your Web browser. On the secure server, the first characters of the address in that line should read "https://" not just "http://" (the S means it is secure). 
-
-##   
-Web Browsers
-
-To use our Web site you need to be using one of these supported Web browsers: FireFox 1.5+, Netscape 7+, Internet Explorer 6.0+, Opera 10+, Safari 1+. All these Web browsers are free to download from their Web sites.
-
-Unsupported Web browsers are Netscape 2, 3, 4 and 6, Internet Explorer 3, 4 and 5. Mac users please note: Internet Explorer for Mac is not supported. Please use Safari, Netscape 7+, FireFox, or Opera 10+.
 
 ##   
 Cookies
