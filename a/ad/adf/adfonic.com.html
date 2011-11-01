@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adfonic.com privacy policy that was archived on 2011-03-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110307113142id_/http%3A//adfonic.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adfonic.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102003543id_/http%3A//adfonic.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 
@@ -27,14 +27,14 @@
 
     
 
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/adfonic.css?v=5789">
-    <link rel="stylesheet" type="text/css" media="screen" href="/css/stylesheet.css?v=5789">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/adfonic.css?v=9430">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/stylesheet.css?v=9430">
 
     <link rel="stylesheet" type="text/css" href="/css/passwordStrengthMeter.css">
 
-    <script type="text/javascript" src="/scripts/jquery.min.js?v=5789"></script>
+    <script type="text/javascript" src="/scripts/jquery.min.js?v=9430"></script>
 
-    <script type="text/javascript" src="/scripts/jquery.tools.min.js?v=5789"></script>
+    <script type="text/javascript" src="/scripts/jquery.tools.min.js?v=9430"></script>
 
     <script type="text/javascript" src="/scripts/passwordStrengthMeter.js"></script>
 
@@ -86,6 +86,9 @@
 
     initCalendar('.datepicker');
 
+    jQuery('.wrapText').each(function() {
+      jQuery(this).html(jQuery(this).text().split('').join('<wbr/>'));
+    });
   });
 
 </script>
@@ -109,71 +112,46 @@
 
 
 
-
 </head>
-
-
-
 <body class="adHome">
 
-
-
-
-
   
-
     <div id="topHome">
-
-      <div class="logo"><a href="/" id="j_id_jsp_346543792_4pc2"><img src="/images/adfonic_logo_218.gif" alt="Adfonic mobile advertising"></a></div>
+        <div class="logo"><a href="/" id="j_id_jsp_1213595288_4pc2" class="logoLink"></a></div>
         <div id="topNavHome" style="margin-bottom:5px">
-            <span class="mainNavHomeLink"><a href="/mobile-advertising-services/how-it-works" id="j_id_jsp_346543792_6pc2">How it works</a></span>
+            <span class="mainNavHomeLink"><a href="/mobile-advertising-services/how-it-works" id="j_id_jsp_1213595288_5pc2">How it works</a></span>
             <span class="mainNavHomeSpace"></span>
             <span class="mainNavHomeDiv">&nbsp;</span>
             <span class="mainNavHomeSpace"></span>
-
-            <span class="mainNavHomeLink"><a href="/mobile-advertising-planning" id="j_id_jsp_346543792_7pc2">Planning</a></span>
-
+            <span class="mainNavHomeLink"><a href="/about-adfonic" id="j_id_jsp_1213595288_6pc2">About us</a></span>
             <span class="mainNavHomeSpace"></span>
             <span class="mainNavHomeDiv">&nbsp;</span>
             <span class="mainNavHomeSpace"></span>
-
             <span class="mainNavHomeLink"><a href="http://blog.adfonic.com/">Blog</a></span>
-
             <span class="mainNavHomeSpace"></span>
             <span class="mainNavHomeDiv">&nbsp;</span>
             <span class="mainNavHomeSpace"></span>
-
-            <span class="mainNavHomeLink"><a href="http://developer.adfonic.com ">Developers</a></span>
+            <span class="mainNavHomeLink"><a href="http://developer.adfonic.com">Developer wiki</a></span>
         </div>
 
 
 
       <!-- buttons go here -->
 
-<div>
-
-
-<form id="mainNavHomeView:mainNavButtons" name="mainNavHomeView:mainNavButtons" method="post" action="/privacy-policy" enctype="application/x-www-form-urlencoded">
-<input type="hidden" name="mainNavHomeView:mainNavButtons" value="mainNavHomeView:mainNavButtons">
-
+<div id="btnContainer" class="btnContainerStyle" style="margin-top:2px;">
 
     <!-- button start -->
-
     <table border="0" cellpadding="0" cellspacing="0" align="right">
       <tbody><tr>
         <td>
-        <a href="/sign-up" id="mainNavHomeView:mainNavButtons:j_id_jsp_346543792_12pc2" class="largeButton largeButtonOrange">
-            <span style="color:#ffffff; line-height:30px;">Sign-up</span><span class="end"></span>
+        <a href="/log-in" id="j_id_jsp_1213595288_9pc2" class="largeLoginButton largeLoginButtonWhite">
+            <span style="color:#333333">Log&nbsp;in</span><span class="end"></span>
         </a>
         </td>
-      </tr>
-    </tbody></table>
-
-    <table border="0" cellpadding="0" cellspacing="0" align="right">
-      <tbody><tr>
+        <td width="10px"></td>
         <td>
-        <a href="/log-in" id="mainNavHomeView:mainNavButtons:j_id_jsp_346543792_13pc2" class="largeLoginButton largeLoginButtonWhite">
-            <span style="color:#333333">Log&nbsp;in</span><span class="end"></span>
+        <a href="/sign-up" id="j_id_jsp_1213595288_10pc2" class="largeLoginButton largeLoginButtonOrange">
+            <span style="color:#ffffff;">Sign&nbsp;up</span><span class="end"></span>
         </a>
         </td>
       </tr>
@@ -181,18 +159,11 @@
 
     <!-- button end -->
 
-<input type="hidden" name="javax.faces.ViewState" id="javax.faces.ViewState" value="-6394934661175946183:2124750107696866736" autocomplete="off">
-</form>
-
 </div>
 
 
 
-
-
     </div>
-
-
 
 
 
@@ -205,8 +176,6 @@
   
 
   
-
-
 
 
 <div id="mainSmallContent">
@@ -318,97 +287,114 @@ of personal data in this way.</font></p>
 
 
 </div>
+<script type="text/javascript" src="/scripts/jquery.twitter.min.js?v="></script>
+<script type="text/javascript" charset="utf-8">
+jQuery.noConflict();
+
+getTwitters('tweets', {
+    id: 'adfonic',
+    count: 2,
+    enableLinks: true,
+    newwindow: true,
+    ignoreReplies: true,
+    clearContents: true,
+    template: '%text% %time%'
+  });
+</script>
+
 
   <div id="footerGap"></div>
   <div id="footer">
     <div id="footerContent">
 
         <div class="footerSection">
-            <h3>Services</h3>
-            <div class="footerSubHeader">
-                First time? Using Adfonic is easy -
-                check out the links below to get started.
+            <div class="footerLink headerFooterLink">
+              <a href="/mobile-advertising-services/how-it-works" id="footer:j_id_jsp_1209666259_1pc3">How it works</a>
+            </div>
+
+            <div class="footerLink">
+                <a href="/mobile-advertising-services/advertisers" id="footer:j_id_jsp_1209666259_2pc3">Advertisers</a>
             </div>
             <div class="footerLink">
-                <a href="/mobile-advertising-services/how-it-works" id="footer:j_id_jsp_2072937749_1pc3">How it works</a>
+                <a href="/mobile-advertising-services/publishers" id="footer:j_id_jsp_1209666259_3pc3">Publishers</a>
             </div>
             <div class="footerLink">
-                <a href="/mobile-advertising-services/mobile-marketplace" id="footer:j_id_jsp_2072937749_2pc3">Mobile Marketplace</a>
+                <a href="/mobile-advertising-services/app-developers" id="footer:j_id_jsp_1209666259_4pc3">Developers</a>
             </div>
             <div class="footerLink">
-                <a href="/mobile-advertising-services/advertisers" id="footer:j_id_jsp_2072937749_3pc3">Advertisers</a>
+                <a href="/mobile-advertising-services/partners" id="footer:j_id_jsp_1209666259_5pc3">Who we work with</a>
             </div>
-            <div class="footerLink">
-                <a href="/mobile-advertising-services/publishers" id="footer:j_id_jsp_2072937749_4pc3">Publishers</a>
-            </div>
-            <div class="footerLink">
-                <a href="/mobile-advertising-services/partners" id="footer:j_id_jsp_2072937749_5pc3">Partners</a>
-            </div>
-            <div class="footerLink">
-                <a href="/mobile-advertising-services/app-developers" id="footer:j_id_jsp_2072937749_6pc3">App developers</a>
-            </div>
+
             
         </div>
 
         <div class="footerSection">
-            <h3>Need Help?</h3>
-            <div class="footerSubHeader">
-                We try to provide clear instructions on each page. If you
-                still need help, check out our FAQs for an answer to your
-                questions. You can always contact us if you still need help.
+            <h3>Support</h3>
+            <div class="footerLink">
+                <a href="/help/faqs" id="footer:j_id_jsp_1209666259_6pc3">FAQs</a>
             </div>
             <div class="footerLink">
-                <a href="/help/faqs" id="footer:j_id_jsp_2072937749_7pc3">FAQs</a>
+                <a href="/help/site-map" id="footer:j_id_jsp_1209666259_7pc3">Site map</a>
             </div>
             <div class="footerLink">
-                <a href="/help/site-map" id="footer:j_id_jsp_2072937749_8pc3">Site map</a>
+                <a href="/help/contact-us" id="footer:j_id_jsp_1209666259_8pc3">Contact us</a>
             </div>
             <div class="footerLink">
-                <a href="/help/contact-us" id="footer:j_id_jsp_2072937749_9pc3">Contact us</a>
+                <a href="http://developer.adfonic.com">Developer wiki</a>
             </div>
         </div>
 
-
         <div class="footerSection">
-            <h3>About</h3>
-            <div class="footerSubHeader">
-                Want to know more about Adfonic?
+            <div class="footerLink headerFooterLink">
+              <a href="/about-adfonic" id="footer:j_id_jsp_1209666259_10pc3">About</a>
             </div>
             <div class="footerLink">
-                <a href="/about-adfonic" id="footer:j_id_jsp_2072937749_10pc3">About Adfonic</a>
-            </div>
-            <div class="footerLink">
-                <a href="/about/team" id="footer:j_id_jsp_2072937749_11pc3">Team</a>
+                <a href="/about/team" id="footer:j_id_jsp_1209666259_11pc3">Team</a>
             </div>
             <div class="footerLink">
                   <a href="http://news.adfonic.com/">News</a>
             </div>
             <div class="footerLink">
-                <a href="/about/media-kit" id="footer:j_id_jsp_2072937749_13pc3">Media kit</a>
+                <a href="/about/media-kit" id="footer:j_id_jsp_1209666259_13pc3">Media kit</a>
             </div>
             <div class="footerLink">
-                <a href="/about/adfonic-jobs" id="footer:j_id_jsp_2072937749_14pc3">Jobs</a>
+                <a href="/about/adfonic-jobs" id="footer:j_id_jsp_1209666259_14pc3">Careers</a>
+            </div>
+            <div class="footerLink">
+              <a href="http://blog.adfonic.com/">Blog</a>
             </div>
         </div>
 
         <div class="footerSection" style="margin-right:0px; position:relative;height:225px">
-            <h3>Press</h3>
+            <h3>Follow Us</h3>
             <div class="footerSubHeader">
-                If you are a journalist and want to get in touch,
-                send an email to:
+                <a href="http://twitter.com/adfonic?dm_i=IBE,99DR,2RI4HH,OGK3,1" target="_new"><img src="/images/icons/twitter-icon.png" alt="Adfonic on Twitter"></a>
+                <a href="http://www.facebook.com/pages/Adfonic/152580364774438?v=wall" target="_new"><img src="/images/icons/facebook-icon.png" alt="Adfonic on Facebook"></a>
+                <a href="http://www.linkedin.com/companies/adfonic-ltd" target="_new"><img src="/images/icons/linkedin-icon.png" alt="Adfonic on LinkedIn"></a>
+                <a href="http://www.youtube.com/user/adfonicvideo" target="_new"><img src="/images/icons/youtube-icon.png" alt="Adfonic on YouTube"></a>
             </div>
-            <div class="footerLink">
-                press[at]adfonic[dot]com
+            <div>
+              <h4>Twitter Feed...</h4>
+              <div id="tweets" style="width:250px;height:200px">
+                        <img src="/images/loadingAnimation.gif">
+                </div>
             </div>
-            <a href="http://www.iabuk.net" target="_new"><img style="position:relative;bottom:-80px" width="91" height="57" border="0" src="/images/iab_logo.gif"></a>
         </div>
-
-      <br clear="all">
-      <div align="center" style="padding:0px; font-size:10px">
-            Copyright © 2011 Adfonic Ltd. | <a href="/terms-and-conditions" id="footer:j_id_jsp_2072937749_16pc3" class="copyrightlink">Terms &amp; conditions</a> | <a href="/privacy-policy" id="footer:j_id_jsp_2072937749_17pc3" class="copyrightlink">Privacy policy</a> | <a href="/end-user-privacy-policy" id="footer:j_id_jsp_2072937749_18pc3" class="copyrightlink">End user privacy policy</a>
+        <br clear="all">
+  </div>
+    <div id="footerBottom">
+      <div id="bottomContainer">
+      <div id="awards">
+        <a href="http://www.iabuk.net" target="_new"><img src="/images/home/iab.png" alt="iab"></a>
+        <a href="http://www.telegraph.co.uk/technology/technology-startup100/" target="_new"><img src="/images/home/telegraph.png" alt="telegraph"></a>
+        <a href="http://mmaglobal.com/main" target="_new"><img src="/images/home/mma.png" alt="mma"></a>
+      </div>
+            <div id="copyright">
+              Copyright © 2011 Adfonic Ltd. | <a href="/terms-and-conditions" id="footer:j_id_jsp_1209666259_17pc3" class="copyrightlink">Terms &amp; conditions</a> | <a href="/privacy-policy" id="footer:j_id_jsp_1209666259_18pc3" class="copyrightlink">Privacy policy</a> | <a href="/end-user-privacy-policy" id="footer:j_id_jsp_1209666259_19pc3" class="copyrightlink">End user privacy policy</a>
+            </div>
+            </div>
       </div>
     </div>
-  </div>
 
   
 
@@ -426,12 +412,22 @@ var pageTracker = _gat._getTracker("UA-8076231-1");
 <script src="/scripts/custom_se-ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
-pageTracker._trackPageview();
+    if(window.errorPage == "error404"){
+      pageTracker._trackPageview("/404.html?page=" + document.location.pathname +
+          document.location.search + "&from=" + document.referrer);
+    }
+    if(window.errorPage == "error500"){
+      pageTracker._trackPageview("/500.html?page=" + document.location.pathname +
+          document.location.search + "&from=" + document.referrer);
+    }
+    pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
 
-
+<script type="text/javascript"><!--
+function getScrolling(){var x = 0; var y = 0;if (self.pageXOffset || self.pageYOffset){x = self.pageXOffset;y = self.pageYOffset;} else if ((document.documentElement && document.documentElement.scrollLeft)||(document.documentElement && document.documentElement.scrollTop)){x = document.documentElement.scrollLeft;y = document.documentElement.scrollTop;} else if (document.body) {x = document.body.scrollLeft;y = document.body.scrollTop;}return x + "," + y;}
+//--></script>
 
 
 
