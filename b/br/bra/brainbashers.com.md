@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608125047id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainbashers.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113330id_/http%3A//www.brainbashers.com/privacy.asp) for the most accurate reproduction.*
 
 # BrainBashers : Privacy
 
@@ -21,7 +21,7 @@ We may also use this information to determine website user demographics or to co
 
 As part of the registration process we collect your name, email address and country. You email address will only be used to send an optional daily email and the occasional, optional, email containing news about BrainBashers or BrainBashers games. You are under no obligation to enter your real details.
 
-The names and countries of competition entrants may be posted to the website or public newsgroups at our discretion. Search engines may then index the site and your name appear in their listings. Entry into a contest indicates your permission to use your details in this way. Entry into a contest permits us to send a limited number of emails regarding the contest and related activities, including entry confirmation, contest results and reminders. Subscription to the Daily Gubbins gives us permission to send daily emails that contain, amongst other things, a puzzle, Sudoku and a game link.
+The names and countries of competition entrants may be posted to the website or public newsgroups at our discretion. Search engines may then index the site and your name appear in their listings. Entry into a contest indicates your permission to use your details in this way. Entry into a contest permits us to send a limited number of emails regarding the contest and related activities, including entry confirmation, contest results and reminders. Subscription to the Daily Gubbins gives us permission to send a daily email that contains, amongst other things, a puzzle, a Sudoku, a game link, and occasional extra items of interest.
 
 Any geographical information posted to us via a postcard or Christmas card may appear on BrainBashers or BrainBashers Games, however, this will not include your name or full address, simply your town and country.
 
