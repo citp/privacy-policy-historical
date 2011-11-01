@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashcricket.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516160050id_/http%3A//flashcricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashcricket.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105713id_/http%3A//www.flashcricket.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IPC Media - The UK's leading consumer magazine publisher
 
