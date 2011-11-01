@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2010-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100418163626id_/http%3A//www.motorward.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorward.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125642id_/http%3A//www.motorward.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Motorward
 
@@ -14,14 +14,35 @@ As with most other websites, we collect and use the data contained in log files.
 
 **COOKIES AND WEB BEACONS**
 
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as [forums](http://www.motorward.com/tag/forums/ "forums").
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
 We also use third party advertisements on motorward.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 **DoubleClick DART cookies**
 
-We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social [security](http://www.motorward.com/tag/security/ "security") numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx
+We also may use DART cookies for ad serving through Google’s DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests (”interest based targeting”). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses “non personally identifiable information”. It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+
+### Related Posts
+
+  
+
+
+  * [Audi Invests Massively In Green Cars](http://www.motorward.com/2010/12/audi-invests-massively-in-green-cars/ "Permanent Link: Audi Invests Massively In Green Cars")
+
+
+  * [How to Find the Cheapest Car Insurance](http://www.motorward.com/2009/10/how-to-find-the-cheapest-car-insurance/ "Permanent Link: How to Find the Cheapest Car Insurance")
+
+
+  * [Insurance and the Car Transporter](http://www.motorward.com/2009/11/insurance-and-the-car-transporter/ "Permanent Link: Insurance and the Car Transporter")
+
+
+  * [What Determines the Premium for Car Insurance?](http://www.motorward.com/2009/09/what-determines-the-premium-for-car-insurance/ "Permanent Link: What Determines the Premium for Car Insurance?")
+
+
+  * [Kahn Design Land Rover Discovery LR4](http://www.motorward.com/2011/06/kahn-design-land-rover-discovery-lr4/ "Permanent Link: Kahn Design Land Rover Discovery LR4")
+
+
