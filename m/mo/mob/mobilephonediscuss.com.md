@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilephonediscuss.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004041428id_/http%3A//www.mobilephonediscuss.com/privacy-policy-and-termsofuse.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilephonediscuss.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101181808id_/http%3A//www.mobilephonediscuss.com/privacy-policy-and-termsofuse.htm) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy
 
