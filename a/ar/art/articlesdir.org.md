@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesdir.org privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128044938id_/http%3A//articlesdir.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesdir.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125757id_/http%3A//articlesdir.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Terms of use | Articlesdir.org
 
