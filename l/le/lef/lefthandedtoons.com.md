@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the lefthandedtoons.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303063719id_/http%3A//www.lefthandedtoons.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lefthandedtoons.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101140924id_/http%3A//www.lefthandedtoons.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Left-Handed Toons (by right-handed people)
 
-**What information do we collect?**
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
+
+ **What information do we collect?**
 
 We collect information from you when you place an order. 
 
@@ -59,7 +61,7 @@ By using our site, you consent to our [websites privacy policy](http://www.freep
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 12-28-2010
+This policy was last modified on 8-11-2011
 
  **Contacting Us**
 
