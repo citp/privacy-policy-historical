@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2010-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101128071252id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcgplayer.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102004305id_/http%3A//www.tcgplayer.com/privacy.asp) for the most accurate reproduction.*
 
 # TCGplayer.com: Tradable and Collectible Game Player
 
@@ -107,7 +107,18 @@ All rights reserved.
 [Privacy Policy](https://web.archive.org/privacy.asp)  
 
 
-|  |  | LATEST DREAMBLADE ARTICLE  
+|  | 
+
+  
+| LATEST WoW TCG ARTICLE  
+---  
+  
+|  **[Budget Ghoulies](http://wow.tcgplayer.com/db/article.asp?ID=3671)**  
+---  
+  
+Today Sean returns to his roots and revisits our budget options for WoW, pot Throne of Tides. Read on to see where Sean takes Ghoulmaster Kalisa and her fellow Ghouls!   
+  
+LATEST DREAMBLADE ARTICLE  
 ---  
 LATEST SPOILS ARTICLE  
 ---  
@@ -123,12 +134,4 @@ LATEST Naruto ARTICLE
 |  **[Naruto Adds Shonen Jump Events](http://naruto.tcgplayer.com/db/article.asp?ID=3383)**  
 ---  
   
-There will be multiple tournaments held throughout the United States at select hobby retailers culminating in the National Championships to be held at the Gen Con Indy to take place in Indiana on August 7th and 8th.   
-  
-LATEST Pokemon ARTICLE  
----  
-  
-|  **[Going Rogue - Arceus](http://pokemon.tcgplayer.com/db/article.asp?ID=3473)**  
----  
-  
-Thanks to Arceus Lv. X #94, your active Arceus can use the attacks of any Arceus you have in play, provided you have all of the necessary energy to use the attack. 
+There will be multiple tournaments held throughout the United States at select hobby retailers culminating in the National Championships to be held at the Gen Con Indy to take place in Indiana on August 7th and 8th. 
