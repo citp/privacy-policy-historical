@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the torontopolice.on.ca privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510092044id_/http%3A//www.torontopolice.on.ca/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torontopolice.on.ca privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101164246id_/http%3A//torontopolice.on.ca/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Toronto Police Service :: To Serve and Protect</title>
 <meta name="KEYWORDS" content="Toronto Police Service, police, law enforcement">
@@ -20,6 +20,27 @@
 
 <script type="text/javascript" src="/javascript/openwindow.js"></script>
 
+<script type="text/javascript" src="/js/jquery-latest.pack.js"></script>
+<script type="text/javascript" src="/js/thickbox.js"></script>
+<link rel="stylesheet" href="/css/thickbox.css" type="text/css" media="screen">
+<script type="text/javascript">
+$(document).ready(function () { 
+    $('#dropdown li').hover(
+        function () {
+            //show its submenu
+            $('ul', this).slideDown(100);
+ 
+        }, 
+        function () {
+            //hide its submenu
+            $('ul', this).slideUp(100);         
+        }
+    );
+     
+});
+</script>
+<link rel="stylesheet" href="/themes/TPS/style/dropdown.css" type="text/css" media="screen">
+<!--[if IE]><link rel="stylesheet" type="text/css" href="/themes/TPS/style/all-ie.css" /><![endif]-->
 <link rel="SHORTCUT ICON" href="/favicon.ico">
 </head>
 <body bgcolor="#ffffff" link="#003366"><a name="top"></a>
@@ -27,92 +48,69 @@
 		<table cellspacing="0" cellpadding="0" align="center" border="0" bgcolor="#ffffff" width="770">
 			<tbody><tr valign="top">
 				<td> 
-					<!-- top row -->
-					<!-- This is the main header graphic -->
-					<map name="headmap">
-                                        <area shape="rect" coords="0,0,400,80" href="http://www.torontopolice.on.ca">
-                                        <area shape="rect" coords="671,62,767,78" href="http://www.torontopolice.on.ca/communications/911.php">
-                                        </map>
-					<table border="0" cellpadding="0" cellspacing="0" width="770">
-					  <tbody><tr>
-					   <td><img name="new_header_r1_c1" usemap="#headmap" src="/themes/TPS/images/widetpsheader.jpg" width="770" height="80" border="0"></td>
-					  </tr>
+					<table border="0" cellpadding="0" cellspacing="0" class="tpsheader">
+					<tbody><tr>
+						<td><a href="/"><div class="home">&nbsp;</div></a></td>
+						<td align="right">
+							<table cellpadding="2" cellspacing="0" border="0" align="right" width="525">
+							<tbody><tr>
+								<td align="right">
+								<div class="dropdown">
+								<ul>
+									<li><a name="drop">I am looking for...</a>
+									<ul>
+										<li><a href="/divisions/map.php">Local Police Stations</a></li>
+										<li><a href="/recordsmanagement/clearance.php">Criminal Background Check</a></li>
+										<li><a href="/prcp/">Police Reference Check</a></li>
+										<li><a href="/recordsmanagement/crimereporting.php">Online Crime Reporting</a></li>
+                                        <li><a href="https://webapp1.torontopolice.on.ca/BicycleRegistry/Submit">Bicycle Registration</a></li>
+										<li><a href="/paidduty/">A Paid Duty Officer</a></li>
+                                        <li><a href="/communitymobilization/newcomer/">Newcomer Outreach</a></li>
+										<li><a href="http://torontopoliceguide.ca">A Guide to Police Services</a></li>
+                                        <li><a href="/careers/">Employment Information</a></li>
+                                        <li><a href="/traffic/childsafety.php">Child Car Seat Safety</a></li>
+										<li><a href="/safetyzone/kids.php">Kids Safety Zone</a></li>
+                                        <li><a href="/communitymobilization/elderabuse.php">Elder Abuse Information</a></li>
+										<li><a href="/contact.php">General Contact Information</a></li>
+										<li><a href="/directory">Telephone Directory</a></li>
+									</ul>
+									</li>
+								</ul>
+								</div>
+								<div id="search">
+									<form method="post" action="/modules.php?op=modload&amp;name=Search&amp;file=index">
+									<input type="text" name="q" size="22">
+									<input type="hidden" name="action" value="search">
+									<input type="hidden" name="overview" value="1">
+									<input type="hidden" name="stories_topics[]" value="0">
+									<input type="hidden" name="stories_cat[]" value="0">
+									<input type="hidden" name="active_stories" value="1">
+									<input type="hidden" name="active_html" value="1">
+									<input type="hidden" name="active_downloads" value="0">
+									<input type="hidden" name="active_faqs" value="0">
+									<input type="hidden" name="active_news" value="1">
+									<input type="hidden" name="active_calendar" value="1">
+									<input type="hidden" name="active_photos" value="0">
+									</form>
+								</div>
+								<br>
+								<div id="emergency" class="lighttxtsmall"><span class="nonemergency">Non-Emergency 416-808-2222 - </span><a href="/communications/911.php">Emergency 9-1-1</a> &nbsp;</div>
+								</td>
+							</tr>
+							</tbody></table>
+						</td>
+					</tr>
 					</tbody></table>
-					<table cellspacing="0" cellpadding="1" align="center" border="0" bgcolor="#003366" width="100%">
-						<tbody><tr>
-							<td> 
-								<!-- The topnav buttons -->
-								<table cellspacing="0" cellpadding="0" border="0" bgcolor="#A5CDF4" width="100%">
-									<tbody><tr>
-										<td>
-											<table border="0" cellpadding="0" cellspacing="0" width="100%">
-												<tbody><tr>
-													<td>
-														<table border="0" cellpadding="0" cellspacing="0">
-															<tbody><tr> 
-																<td> 
-																	<table cellspacing="0" cellpadding="5" border="0">
-																		<tbody><tr bgcolor="#A5CDF4" onmouseover="this.style.background='#D2E3F5'" onmouseout="this.style.background='#A5CDF4'" onclick="window.location.href='http://www.torontopolice.on.ca/'"> 
-																			<td align="center">
-																				<a href="#main"><img src="/themes/TPS/images/pix-t.gif" width="1" height="1" border="0" alt="Skip to main content"></a><a class="navtopsmall" href="http://www.torontopolice.on.ca/">Home</a> 
-																			</td>
-																		</tr>
-																	</tbody></table>
-																</td>
-																<td> 
-																	<table cellspacing="0" cellpadding="5" border="0">
-																		<tbody><tr bgcolor="#A5CDF4" onmouseover="this.style.background='#D2E3F5'" onmouseout="this.style.background='#A5CDF4'" onclick="window.location.href='http://www.torontopolice.on.ca/index.php?module=PostSchedule'"> 
-																			<td align="center">
-																				<a class="navtopsmall" href="http://www.torontopolice.on.ca/index.php?module=PostSchedule">Events</a> 
-																			</td>
-																		</tr>
-																	</tbody></table>
-																</td>
-																<td> 
-																	<table cellspacing="0" cellpadding="5" border="0">
-																		<tbody><tr bgcolor="#A5CDF4" onmouseover="this.style.background='#D2E3F5'" onmouseout="this.style.background='#A5CDF4'" onclick="window.location.href='http://www.torontopolice.on.ca/archive.php'"> 
-																			<td align="center">
-																				<a class="navtopsmall" href="http://www.torontopolice.on.ca/archive.php">Archive</a> 
-																			</td>
-																		</tr>
-																	</tbody></table>
-																</td>
-																<td> 
-																	<table cellspacing="0" cellpadding="5" border="0">
-																		<tbody><tr bgcolor="#A5CDF4" onmouseover="this.style.background='#D2E3F5'" onmouseout="this.style.background='#A5CDF4'" onclick="window.location.href='http://www.torontopolice.on.ca/modules.php?op=modload&amp;name=FAQ&amp;file=index'"> 
-																			<td align="center">
-																				<a class="navtopsmall" href="http://www.torontopolice.on.ca/modules.php?op=modload&amp;name=FAQ&amp;file=index">FAQ</a> 
-																			</td>
-																		</tr>
-																	</tbody></table>
-																</td>
-																<td> 
-																	<table cellspacing="0" cellpadding="5" border="0">
-																		<tbody><tr bgcolor="#A5CDF4" onmouseover="this.style.background='#D2E3F5'" onmouseout="this.style.background='#A5CDF4'" onclick="window.location.href='http://www.torontopolice.on.ca/contact.php'"> 
-																			<td align="center"> 
-																				<a class="navtopsmall" href="http://www.torontopolice.on.ca/contact.php">Contact Us</a> 
-																			</td>
-																		</tr>
-																	</tbody></table>
-																</td>
-															</tr></tbody></table>
-														</td>
-
-														<td colspan="2" nowrap="" align="right">
-														<form method="post" action="http://www.torontopolice.on.ca/modules.php?op=modload&amp;name=Search&amp;file=index">
-														<a href="http://www.torontopolice.on.ca/modules.php?op=modload&amp;name=Search&amp;file=index">Advanced</a> Search <input type="text" name="q" size="15" class="forminput">&nbsp;<input type="submit" name="go" value="Go" class="formbutton">&nbsp;
-														<input class="hidden" type="hidden" name="action" value="search"><input class="hidden" type="hidden" name="overview" value="1"><input class="hidden" type="hidden" name="stories_topics[]" value="0"><input class="hidden" type="hidden" name="stories_cat[]" value="0"><input class="hidden" type="hidden" name="active_stories" value="1"><input class="hidden" type="hidden" name="active_html" value="1"><input class="hidden" type="hidden" name="active_downloads" value="1"><input class="hidden" type="hidden" name="active_faqs" value="1"><input class="hidden" type="hidden" name="active_weblinks" value="1"><input class="hidden" type="hidden" name="active_news" value="1"><input class="hidden" type="hidden" name="active_calendar" value="1"><input class="hidden" type="hidden" name="active_photos" value="1">
-</form></td></tr>
-												</tbody></table> <!-- topnav buttons -->
-											</td>
-										</tr>
-									</tbody></table>
-							</td>
-						</tr>
-					</tbody></table> <!-- topnav outline -->
 				</td>
 			</tr>
 		</tbody></table>
+
+		<table align="center" width="770" border="0" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td height="4" bgcolor="#fdb827"><img src="/themes/TPS/images/pix-t.gif" width="1" height="1" alt="" border="0"></td>
+		</tr>
+		</tbody></table>
+
 		<table align="center" width="770" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
 				<td>
@@ -120,6 +118,28 @@
 						<tbody><tr valign="top">
 							<td width="140">
 
+		<table width="140" border="0" cellspacing="0" cellpadding="0">
+			<tbody><tr>
+        		<td><img src="/themes/TPS/images/pix-t.gif" width="1" height="1" alt="" border="0"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top">
+					<table width="140" border="0" cellspacing="0" cellpadding="0">
+						<tbody><tr>
+							<td class="pn-normal" align="left"><b></b></td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+			<tr>
+				<td><img src="/images/separatordn.gif" width="158" height="6"></td>
+			</tr>
+			<tr>
+				<td align="left" valign="top" class="pn-normal">
+					<center><a class="thickbox" href="/thechief/latest.htm?width=690&amp;height=520"><img width="126" height="80" src="/thechief/thechief_new.jpg" border="0"><br>Message from Chief William Blair<br><em>Social Media Initiative</em></a></center>
+				</td>
+        	</tr>
+		</tbody></table><br>
 		<table width="140" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr>
         		<td><img src="/themes/TPS/images/pix-t.gif" width="1" height="1" alt="" border="0"></td>
@@ -204,7 +224,7 @@
 			</tr>
 			<tr>
 				<td align="left" valign="top" class="pn-normal">
-					<strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/careers/" title="Join Our Team">Careers</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/recordsmanagement/clearance.php" title="Clearance Letter Requests">Clearance Letters</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/prcp/" title="Police Reference Check Program">Police Reference Check Program</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/publications/files/forms/fingerprint_destruction.pdf" title="Fingerprints and photographs destruction policy and form">Fingerprint Destruction</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/aps" title="Access and Privacy Section">Access &amp; Privacy Section</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/procedures" title="Procedure Information Sheets">Procedure Information</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/seminars/" title="Conferences and Seminars hosted by the Toronto Police Service">Conferences / Seminars</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/purchasing/" title="Requests for Quotes / Proposals">Quotations/Proposals</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/honour_roll/" title="Honour Roll">Honour Roll</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/museum/" title="The Toronto Police Museum and Discovery Centre">Museum</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/giftshop/" title="The Toronto Police Gift Shop">Gift Shop</a><br>
+					<strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/careers/" title="Join Our Team">Careers</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/recordsmanagement/crimereporting.php" title="Citizens Online Crime Reporting">Citizens Online Crime Reporting</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/recordsmanagement/clearance.php" title="Clearance Letter Requests">Clearance Letters</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/prcp/" title="Police Reference Check Program">Police Reference Check Program</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/publications/files/forms/fingerprint_destruction.pdf" title="Fingerprints and photographs destruction policy and form">Fingerprint Destruction</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/aps" title="Access and Privacy Section">Access &amp; Privacy Section</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/professionalstandards" title="Compliments / Complaints">Compliments/Complaints</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/procedures" title="Procedure Information Sheets">Procedure Information</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/seminars/" title="Conferences and Seminars hosted by the Toronto Police Service">Conferences / Seminars</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/purchasing/" title="Requests for Quotes / Proposals">Quotations/Proposals</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/honour_roll/" title="Honour Roll">Honour Roll</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/museum/" title="The Toronto Police Museum and Discovery Centre">Museum</a><br><strong><big>·</big></strong>&nbsp;<a class="pn-normal" href="http://www.torontopolice.on.ca/giftshop/" title="The Toronto Police Gift Shop">Gift Shop</a><br>
 				</td>
         	</tr>
 		</tbody></table><br>
@@ -293,40 +313,21 @@
 <br><br>We welcome any comments and suggestions about this site. Please contact us at <em>webmaster @ torontopolice.on.ca</em> 
 
 
-					&nbsp;</td>
-							</tr>
-						</tbody></table>
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td width="100%" bgcolor="#cccccc"><img src="/themes/TPS/images/pix-t.gif" width="1" height="1" alt="" border="0"></td>
-							</tr>        
-							<tr>
-								<td bgcolor="#003366" align="center" valign="middle">
-									<table width="100%" border="0" cellspacing="0" cellpadding="4">
-							<tbody><tr>
-								<td valign="middle" align="right"><font class="lighttxtsmall"><a href="http://www.torontopolice.on.ca/">Home</a> - <a href="http://www.torontopolice.on.ca/privacy.php">Privacy</a> - <a href="#top">Top</a></font>								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-				<tr>
-					<td width="100%" bgcolor="#cccccc"><img src="/themes/TPS/images/pix-t.gif" width="1" height="1" alt="" border="0"></td>
-				</tr>        
-				<tr>
-					<td bgcolor="#ffffff" align="center" valign="middle">
-						<table border="0" width="100%" cellpadding="4" cellspacing="0">
-							<tbody><tr>
-								<td class="footer">© 2011 Toronto Police Service								</td>
-								<td align="right">
-									<a href="http://www.toronto.ca/"><img src="/themes/TPS/images/toronto.jpg" width="64" height="20" border="0"></a>
-								</td>
-							</tr>
-						</tbody></table>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
+                                  </td>
+					</tr>
+					</tbody></table>
 
+
+		              </td>
+		        </tr>
+		</tbody></table>				<div id="footer">
+					<table width="770" align="center" height="40" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000">
+					<tbody><tr>
+						<td valign="middle" align="center" width="150">
+							<a href="http://www.toronto.ca/"><img src="/themes/TPS/images/city_of_toronto.gif" width="90" height="31" border="0"></a>
+						</td><td valign="middle" align="center" width="400" class="lighttxtsmall">© 2011 Toronto Police Service						</td>
+						<td valign="middle"><font class="lighttxtsmall"><a href="/">Home</a> - <a href="/privacy.php">Privacy</a> - <a href="#">Accessibility</a> - <a href="#top">Top</a></font>						</td>
+					</tr>
+					</tbody></table>
+				</div>
 </body></html>
