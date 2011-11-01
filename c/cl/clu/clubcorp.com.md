@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubcorp.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414205539id_/http%3A//www.clubcorp.com/Legal/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcorp.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121734id_/http%3A//www.clubcorp.com/Legal/Privacy) for the most accurate reproduction.*
 
 # Privacy / Legal / Home - ClubCorp
 
