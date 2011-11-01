@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the riyaz.net privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213132825id_/http%3A//www.riyaz.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riyaz.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101155006id_/http%3A//www.riyaz.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | riyaz.net
-
-##  Privacy Policy 
+# Privacy Policy
 
 This privacy policy sets out how riyaz.net uses and protects any information that you give riyaz.net when you use this website.
 
