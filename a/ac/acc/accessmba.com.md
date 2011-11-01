@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessmba.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611015453id_/http%3A//www.accessmba.com/menu-footer/private-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessmba.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101203432id_/http%3A//www.accessmba.com/menu-footer/private-policy/index.html) for the most accurate reproduction.*
 
 # Private Policy
 
