@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309051820id_/http%3A//www.hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hays.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102000159id_/http%3A//hays.com.au/about/privacy.aspx) for the most accurate reproduction.*
 
 # Hays Privacy Policy | Hays Australia
 
