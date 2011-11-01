@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222202015id_/http%3A//www.foodservicewarehouse.com/help-center/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodservicewarehouse.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101124901id_/http%3A//www.foodservicewarehouse.com/help-center/privacy.aspx) for the most accurate reproduction.*
 
 # The FoodServiceWarehouse.com Privacy Policy
 
