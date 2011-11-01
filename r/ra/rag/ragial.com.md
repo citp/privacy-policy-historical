@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ragial.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520160327id_/http%3A//ragial.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragial.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101195338id_/http%3A//ragial.com/privacy) for the most accurate reproduction.*
 
 # Ragial - Privacy Policy
 
