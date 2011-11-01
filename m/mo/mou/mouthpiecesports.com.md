@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mouthpiecesports.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530175917id_/http%3A//www.sportsbuzz.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mouthpiecesports.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162033id_/http%3A//www.sportsbuzz.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SportsBUZZ
 
@@ -66,7 +66,7 @@ We will provide you with the means to ensure that personally identifiable inform
 
 ### 6\. Changes to this Statement
 
-BUZZ NETWORKS LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the ?updated? date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+BUZZ NETWORKS LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the updated date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
 ### 7\. Contacting Us
 
