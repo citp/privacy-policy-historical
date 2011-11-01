@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102171128id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sarahstaar.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152526id_/http%3A//www.sarahstaar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sarah Staar's Blog
+# Privacy Policy |
 
 **Our Commitment To Your Privacy**
 
