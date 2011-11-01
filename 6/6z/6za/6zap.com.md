@@ -1,29 +1,39 @@
-> *The following text is extracted and transformed from the 6zap.com privacy policy that was archived on 2010-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100228021635id_/http%3A//www.6zap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 6zap.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123318id_/http%3A//funambol.com/site/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Funambol: Privacy Policy
 
-This is the web site of Zapatec Inc..
+## Funambol is committed to protecting the privacy of site visitors, prospects and customers. We will not sell your personal information to anyone. The information you provide on an online form will be processed by Funambol and its service providers within the United States.
 
-Our postal address is  
-1700 MLK Way  
-Berkeley, CA 94709  
-We can be reached via e-mail at [support@zapatec.com](mailto:support@zapatec.com "Zapatec Support Email") or you can reach us by telephone at 866 522-7941.
+The purpose of this policy is to explain the types of information we obtain from people via the Funambol web site, how the information is obtained, how it is used, how it may be obtained by others, and how its use and disclosure can be restricted. Funambol's website is governed by the following privacy principles:
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+### Principle 1: General Data Collection
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations and user-specific information when you signup for an account.
+Our site automatically gathers certain anonymous traffic information, such as Internet protocol addresses and other numeric codes used to identify a computer. This information is aggregated and does not personally identify you, but it helps us improve the site and the services we offer. For example, we may use IP addresses to monitor site usage to better prepare for anticipated traffic patterns. We may also gather user information that we save on your computer (not on our server) as “cookies” in order to streamline the site experience.
 
-The information we collect is used to customize the applications and content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website, to a successor entity in connection with a corporate merger, consolidation, sale of assets or other corporate change respecting the Website.
+### Principle 2: Information Requests
 
-With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit and power the 6zap application.
+Funambol requests personal information from you in order to gather your contact information, such as name, company name, address, phone number, email address, and zip code. Some of this information is optional and you may choose not to provide it. Funambol may use the information to contact you to further discuss your interest in our company and products, to send information regarding product updates, and to send a newsletter. You can opt out of being further contacted by us, or receiving such further information from us by emailing info@funambol.com with a subject of unsubscribe. Except as stated in this policy or as provided in the Funambol license and services agreement, we do not disclose your personal information to any third party, with the exception that we may disclose your information to one of our distribution partners who can meet your needs. Funambol reserves the right to maintain information on customers who have violated our license and services agreement.
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. You can also unsubscribe when receiving e-mail from us.
+### Principle 3: Disclosure
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.  
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address.
+Funambol will not sell your individual Information to any third parties. Funambol does not disclose your personal Information to third parties, except as set forth in this policy and in cases where Funambol, acting in good faith, believes that such action is necessary to: (1) conform to legal requirements or comply with a legal process, such as a search warrant, subpoena, or court order; or (2) protect and defend the rights or property of Funambol; (3) enforce the license and services agreement.
 
-We do not provide site visitors with access to the information that we have collected and that we maintain about them.
+### Principle 4: Solicitation
 
-Upon request we offer visitors no ability to have factual inaccuracies corrected in information that we maintain about them
+By registering at this site, you are authorizing Funambol to email you requested documents, a periodic newsletter, and occasional invitations to attend Funambol partner activities. Funambol will not send you any unsolicited information, including email, if at any time you decide to opt-out of receiving such information by clicking here. However, under certain circumstances, Funambol may be required to send customers updated information about our products.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number. 
+### Frequently Asked Privacy Questions
+
+##### WHAT ARE COOKIES?
+
+Cookies are files of information that a web site stores on your computer's hard disk for record-keeping purposes. Cookies can make the web more useful by storing information about your preferences on a particular site. Cookies allow web sites to "remember" users across pages of a site and across multiple visits to a site. The use of cookies is an industry standard, and many major web sites use them to provide useful features to their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. Cookies cannot damage user files, nor can they read unrelated information from a user's hard drive. If you would prefer, you can set your settings to refuse cookies.
+
+##### IS MY PERSONAL INFORMATION SECURE?
+
+The personal information collected by Funambol is stored in secure operating environments that are not available to the general public. However, no data transmission over the Internet can be guaranteed to be 100% secure. Consequently, while we strive to protect your personal information, Funambol cannot ensure or warrant the security of any information you transmit to us.
+
+### Appendix
+
+We reserve the right to change this Privacy Policy at any time. Any questions regarding this Privacy Policy should be directed to [webmaster@funambol.com](mailto:webmaster@funambol.com).
+
+Last updated: 24 October 2007
