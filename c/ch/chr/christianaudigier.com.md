@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianaudigier.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218125450id_/http%3A//christianaudigier.com/policy-stat.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianaudigier.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101170224id_/http%3A//christianaudigier.com/policy-stat.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -71,7 +71,7 @@ This online privacy policy applies only to information collected through our web
 
 Please also visit our 
 
-[ Terms and Conditions](https://web.archive.org/terms-of-use.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website. 
+[ Terms and Conditions](https://web.archive.org/terms-of-use.html) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 **Your Consent**
 
