@@ -1,12 +1,18 @@
-<!--The following is the downloaded HTML source of the stargazette.com privacy policy that was archived on 2011-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110618150456id_/http%3A//www.stargazette.com/section/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stargazette.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101125417id_/http%3A//www.stargazette.com/section/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:meebo="http://www.meebo.com" lang="en"><head>
-							<title>PRIVACY | Star-Gazette | stargazette.com </title>
+							<title>privacy | Star-Gazette | stargazette.com </title>
+			<meta property="og:title" content="Star-Gazette privacy Section">
+			<meta property="og:type" content="website">
+			<meta property="og:description" content="privacy news from Star-Gazette.">
 <meta name="keywords" content="stargazette.com,Elmira,New York,News,local news,headlines,stories,world news">
 <meta name="description" content="Elmira New York News - stargazette.com is the home page of Elmira New York with in depth and updated Elmira local news. Stay informed with both Elmira New York news as well as headlines and stories from around the world.">
-<meta name="category" content="PRIVACY">
-<link rel="canonical" href="http://www.stargazette.com/section/PRIVACY">
+<meta property="og:site_name" content="Star-Gazette">
+<meta property="og:url" content="http://www.stargazette.com/section/PRIVACY">
+		<meta property="og:image" content="http://m.stargazette.com/images/bookmark/n_stargazette/apple-touch-icon.png">
+<meta name="category" content="privacy">
+	<link rel="canonical" href="http://www.stargazette.com/section/PRIVACY">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -15,6 +21,7 @@
 <meta http-equiv="cache-control" content="no-cache">
 <link href="/includes/css/ody/ody-local.css" rel="stylesheet" type="text/css">
 <link rel="stylesheet" type="text/css" href="/odygci/p5/ody-styles-min.css">
+<meta property="fb:page_id" content="76240820015">
 <script src="/odygel/lib/core/core.js"></script>
 <script type="text/javascript"> 
 /*Subsite Redirect*/
@@ -28,10 +35,10 @@ try{document.domain= GEL.config.domain= "stargazette.com"}catch(e){};
 GEL.thepage.pageinfo = {
 	sitecode: "CB", 
 	key:"PRIVACY",
-	title:"PRIVACY",
+	title:"privacy",
 	type:"section",
-	categorymain:"PRIVACY",
-	categoryname:"PRIVACY",
+	categorymain:"privacy",
+	categoryname:"privacy",
 	categoryid:"PRIVACY",
 	pluckpage: 0,
 	url: { 
@@ -40,7 +47,9 @@ GEL.thepage.pageinfo = {
 		domainroot: "stargazette"
 	},
 	pic: {
-		ptpid: "268"		
+		mycapture: "enabled",
+		enablecategory:  "on",
+		domainname: "stargazette.mycapture.com"
 	},
 	date: { 
 		rollover:"03:28",
@@ -65,7 +74,7 @@ GEL.thepage.pageinfo = {
 		c2: "6035223"
 	},
 	navitemon: {
-		navon: "PRIVACY"
+		navon: "privacy"
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
@@ -79,6 +88,7 @@ GEL.thepage.pageinfo.admail={
 if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	GEL.thepage.pageinfo.admail.show= true;
 }
+GEL.thepage.pageinfo.sessiontime=0;
 (function(){
 	var _i = GEL.thepage.pageinfo;
 	GEL.register("social.pluck.api", { 
@@ -95,18 +105,6 @@ if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	);
 })();
 /*GO4 Faster Semantics*/
-	GEL.thepage.pageinfo.semantics={
-	response:{"Url":"http://www.stargazette.com/section/PRIVACY","ContentLength":0,"FetchDuration":3000,"ContentType":"","Id":0,"PathIds":0,"LanguageId":"","Channels":[{}],"UnconStatus":6},
-	source:'CW',
-	enabled:true,
-	status:'6',
-	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.stargazette.com/section/PRIVACY',
-	uniqueids:[],
-	uniqueidsdesc:[],
-	allids: [],
-	calltime:'3032',
-	cached:true
-};
 /* Banner configuration and Initialization */
 (function(){
 var 
@@ -174,9 +172,9 @@ var _c= GEL.config.userauth={
 		return _enable.toLowerCase() != 'no' ? true : false; 
 	})(), 
 	app_name: "elmira",
-	host: "newspaper.app40.ur.gcion.com",
+	host: "npapp40ssl.gcion.com",
 	site_name: "stargazette.com",
-	enable_ssl: window.location.protocol === 'https:' ? true : false, 
+	enable_ssl: true,
 	enable_reg_help: true, 
 	enable_search: true, 
 	enable_links: false, 
@@ -300,7 +298,7 @@ GEL.thepage.initializer.addInitRoutine({
 	name: "userauthlateload",
 	priority: 300, 
 	callback: function(){
-	if ( GEL.config.userauth.enable_premium == false &&
+		if ( GEL.config.userauth.enable_premium == false &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_SIGNIN"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERREGISTER" &&
@@ -308,13 +306,13 @@ GEL.thepage.initializer.addInitRoutine({
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERSIGNIN") {
 			GEL.util.uautil.MakeRemoteCallsilently("signup","socialprovider","signup.html");
 			GEL.util.uautil.MakeRemoteCallsilently("userauthlogin","socialprovider","login.html");
+		}
 		/*	Adding another div for Newsletter sample page */
 		if(GEL.util.uautil.isnlettersubscribe()){
 			var el = document.createElement("div");
 			el.setAttribute('id', 'NLSampleModalcontainer');
 			var temp_elem = document.getElementById("UAModalcontainerwrapper");
 			temp_elem.appendChild(el);
-			}
 		}
 	}
 });
@@ -363,7 +361,7 @@ GEL.thepage.initializer.addInitRoutine({
 		trackExternalLinks: false,
 		trackInlineStats: true,
 		linkDownloadFileTypes: "exe,zip,wav,mp3,mp4,m4v,mov,mpg,avi,wmv,doc,pdf,xls",
-		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,pictopia,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
+		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,mycapture,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
 		linkLeaveQueryString: false,
 		linkTrackVars: "None",
 		usePlugins: true, 
@@ -648,8 +646,8 @@ Combination= category-PRIVACY&type-section-->
 <script id="__gel_nsscript_analytics" src="https://web.archive.org/odygel/lib/analytics/analytics.js"></script>
 <script id="__gel_nsscript_legacy.GDNpreload" src="https://web.archive.org/odygel/lib/legacy/GDN/GDNpreload.js"></script>
 <script id="__gel_nsscript_widget.TimeWidget" src="https://web.archive.org/odygel/lib/widgets/time/time.js"></script>
-<script id="__gel_nsscript_widget.GELTabs" src="https://web.archive.org/odygel/lib/widgets/tabs/geltabs.js"></script>
 <script id="__gelement_2" src="https://web.archive.org/web/20120106153551/http://js.revsci.net/gateway/gw.js?csid=J06575"></script>
+<script id="__gel_nsscript_widget.GELTabs" src="https://web.archive.org/odygel/lib/widgets/tabs/geltabs.js"></script>
 <script id="__gel_nsscript_anim.YUIAnimator" src="https://web.archive.org/odygel/lib/anim/yuianimator.js"></script>
 <script id="__gel_nsscript_widget.NavigationWidget" src="https://web.archive.org/odygel/lib/widgets/navigation/navController.js"></script>
 <script id="__gel_nsscript_widget.modal" src="https://web.archive.org/odygel/lib/widgets/modal/modal.js"></script>
@@ -657,106 +655,17 @@ Combination= category-PRIVACY&type-section-->
 <script id="__gel_nsscript_social.userauth" src="https://web.archive.org/odygel/lib/userauth/userauth.js"></script>
 <script id="__gel_nsscript_social.socialprovider" src="https://web.archive.org/odygel/lib/3rdparty/gigya/gigya.js"></script>
 <script language="javascript" type="text/javascript" src="https://web.archive.org/odygel/lib/legacy/GDN/UAWidgets/LoggedOut.js"></script><script id="__gel_nsscript_widget.AdBanner" src="https://web.archive.org/odygel/lib/widgets/banner/banner.js"></script>
-<script id="__gel_nsscript_dateutil" src="https://web.archive.org/odygel/lib/dateutil/dateutil.js"></script>
 </head>
 <body class="ody-skin"><script type="text/javascript" src="https://web.archive.org/web/20120106152945/http://ads.revsci.net/adserver/ako?activate&amp;csid=J06575"></script><script type="text/javascript" src="https://pix04.revsci.net/J06575/a4/0/0/pcx.js?csid=J06575"></script>
-	<script type="text/javascript">
-  window['checkCookie']=(function(){ 
-var _={};
-for(
-	var
-		c=document.cookie.split(/\s*;\s*/),
-		i=0,
-		l=c.length,
-		a=c[i].split("=")
-	;
-	a=i<l&&c[i].split("=")
-	;
-	i++
-)_[a[0]]= a[1]; 
-return function (cookieName){return _[cookieName];}
-})();
-GEL.config.Interstitial= { 
-  controlurl: "",
-  placementid: parseInt("1273124")
-}; 
-(function(){ 
-GEL.register("dateutil", { path: "dateutil/dateutil.js", depends:[],requires:[]});
-if(checkCookie("pre_ad") == 'inter')
-	loadBannerLib(); 
-else
-	GEL.thepage.initializer.add({ 
-		name: "qinter", 
-		namespace: ["widget.AdBanner", "dateutil"], 
-		priority: 20, 
-		callback: interMgr
-	}); 
-function loadBannerLib(){ 
-	var 
-		_IMPORTER= GEL.util.importer
-		,_lib= _IMPORTER.require("widget.AdBanner")
-		,_css= GEL.ement("LINK",{ 
-			href:"/odygci/interstitial/i.css",
-			rel:"stylesheet" 
-		})
-	;
-	_lib.addElement(_css);
-	_lib.addElement(_IMPORTER.require('dateutil')); 
-	_lib.setAttacher("inline"); 
-	_lib.attach(); 
-}
-function interMgr(){ 
-	var _IC= GEL.config.Interstitial || {}; 
-	_IC.id= _IC.id || "inter"; 
-	_IC.controlurl= _IC.controlurl || 
-		(new GEL.widget.AdBanner.Helios({ 
-			attachTo: document.body, 
-			keywords: [], 
-			keyvalues: {}, 
-			placementid: parseInt("1273125"),
-			position: "Interstitial",
-			loadoninit: false 
-		})).getUrl(); 
-	GEL.thepage.bannerManager.add(_IC); 
-}
-})(); 
-</script>
-<div id="go4-interstitial" class="interstitial gel-hidden"> 
-<center class="go4-custom"> 
- <div class="header-container"><div class="header-main"> <div class="header-wrap">
-  <div class="header-logo"><a href="#"></a></div> 
-  <a href="#" class="gel-hidden skip">Skip this ad&nbsp;»</a> 
- </div></div></div> 
- <div class="aggit">Advertisement</div> 
- <div class="ad"> 
-  <script type="text/javascript">
-    (function(){ 
- 	var _M= GEL.thepage.bannerManager,_O,_I; 
-	if(
-		checkCookie("pre_ad") != "inter" 
-		|| typeof _M != 'object' 
-		|| typeof _M.get != "function" 
-		|| !(_O= _M.get("inter")) 
-	)  return; 
-	_M.disable(_O);
-	_O.config.mainselector= "DIV.ody-custom"; 
-	_I= GEL.thepage.inter= 
-		new GEL.widget.AdBanner.Interstitial(_O.config); 
-	_I.show(); 
-})(); 
-  </script>
- </div> 
- <p class="redirect">
-  You will be redirected to the page you want to view in&nbsp;<span id="ad_countdown"></span>&nbsp;seconds.
- </p> 
-</center> 
-</div> 
-
+	
+	
 	<div class="ody-custom">
 		<div id="modalouter" class="modal-outer-inactive"></div>
+		
 		<div class="main-container">
 			<!-- HEADER -->
-				<!-- @ody_adposnavbar:  -->
+				<!-- ody_topnavigationmenu.pbo -->
+<!-- @ody_adposnavbar:  -->
 <div class="header-container">
 	<div class="header-classified"> 
 		<div class="header-wrap">
@@ -798,41 +707,39 @@ function interMgr(){
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section photo">
-	<div class="photoFrame"><a href="/article/20110617/NEWS01/106170427/Binghamton-job-fair-enhanced-by-an-air-optimism?odyssey=nav|head"><img src="http://cmsimg.stargazette.com/apps/pbcsi.dll/bilde?Avis=CB&amp;Dato=20110617&amp;Kategori=NEWS01&amp;Lopenr=106170427&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="Frito Lay was one of the new additions to the Greater Binghamton Chamber of Commerce's job fair, held Friday at the Broome Community College Ice Center. JENNIFER MICALE / Staff photo"></a>
-	</div>
+<div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/NEWS01/106170427/Binghamton-job-fair-enhanced-by-an-air-optimism?odyssey=nav|head">Binghamton job fair enhanced by an air of optimism</a>
+		<a href="/article/20111101/NEWS01/111101001/Sunshine-much-week?odyssey=nav|head">Sunshine for much of the week</a>
 	</div>
 	<div class="summary">
-			DICKINSON -- Sporting crisp suits and ties, Aaron Sweet and Michael Scanlon were doing their best...<span class="timestamp">- 11:48 pm</span>
+			Sunshine will be the order of the day for much of the week, according to National Weather Service...<span class="timestamp">- 6:42 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/NEWS01/106170433/Major-issues-unresolved-N-Y-legislature-breaks-weekend?odyssey=nav|head">Major issues unresolved as N.Y. legislature breaks for weekend</a>
+		<a href="/article/20111031/NEWS01/110310376/Ashline-testifies-slayings-infant-ex-girlfriend?odyssey=nav|head">Ashline testifies in slayings of infant, ex-girlfriend</a>
 	</div>
 	<div class="summary">
-		ALBANY -- The state Legislature broke Friday without reaching a deal on any of the major issues...<span class="timestamp">- 10:01 pm</span>
+		BATH -- Bryan Ashline said Monday that being with his young son "broke down the walls" that he had...<span class="timestamp">- 9:13 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/NEWS01/106170445/Boy-struck-by-car-Elmira?odyssey=nav|head">Boy struck by car in Elmira</a>
+		<a href="/article/20111031/NEWS01/110310371/Millennium-Pipeline-clears-safety-check?odyssey=nav|head">Millennium Pipeline clears safety check</a>
 	</div>
 	<div class="summary">
-		A boy was rushed to an Elmira hospital Friday evening after being struck by a car on South Main...<span class="timestamp">- 9:48 pm</span>
+		They never did find those missing inspection records, but the Southern Tier's major natural gas...<span class="timestamp">- 9:08 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/NEWS01/106170434/Pa-health-chief-wants-analyze-drilling-areas?odyssey=nav|head">Pa. health chief wants to analyze drilling areas</a>
+		<a href="/article/20111031/NEWS01/110310349/Elmira-YWCA-legislative-breakfast-set-Thursday?odyssey=nav|head">Elmira YWCA legislative breakfast set for Thursday</a>
 	</div>
 	<div class="summary">
-		HARRISBURG, Pa. -- Gov.<span class="timestamp">- 8:40 pm</span>
+		ELMIRA -- The YWCA's annual Legislative Breakfast will be held from 7:30 to 9 a.m.<span class="timestamp">- 7:02 pm</span>
 	</div>
 </div>
-            <center style="font-size:11px;color:black;"><b><a href="/section/7daysarchives&amp;archivedate=20110618">ALL RECENT HEADLINES</a> | <a href="http://pqasb.pqarchiver.com/pressconnects">PAID ARCHIVES</a></b></center>
+            <center style="font-size:11px;color:black;"><b><a href="/section/7daysarchives&amp;archivedate=20111101">ALL RECENT HEADLINES</a> | <a href="http://pqasb.pqarchiver.com/pressconnects">PAID ARCHIVES</a></b></center>
 		</div>
 	</div>
 </div>
@@ -840,12 +747,12 @@ function interMgr(){
 function initmoreNews(){ 
 //<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/NEWS">Local News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/NEWS02">Schools</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/NEWS10">State News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/marcellusshale">Marcellus Shale</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/VIEWPOINTS04">Good News</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/data">Data & Salaries</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/twitter">Twitter</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/apheads">Nation/World</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://stargazette.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&City=Elmira&State=NY">Weather</a></li>
 	var newslist='<a href="/section/NEWS">Local News</a>,<a href="/section/NEWS02">Schools</a>,<a href="/section/NEWS10">State News</a>,<a href="/marcellusshale">Marcellus Shale</a>,<a href="/section/VIEWPOINTS04">Good News</a>,<a href="/data">Data & Salaries</a>,<a href="/section/twitter">Twitter</a>,<a href="/section/apheads">Nation/World</a>,<a href="http://stargazette.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&City=Elmira&State=NY">Weather</a>,';
-//<li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/SPORTS05">High School Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports03">College Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports10">Motorsports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/getpublished01">Your Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/twitter">Live Tweets</a></li>
-	var sportslist='<a href="/section/SPORTS05">High School Sports</a>,<a href="/section/sports03">College Sports</a>,<a href="/section/sports10">Motorsports</a>,<a href="/section/getpublished01">Your Sports</a>,<a href="/section/twitter">Live Tweets</a>,';
+//<li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/SPORTS05">High School Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="http://www.stargazette.com/hsfootball">High School Football</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports03">College Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports10">Motorsports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/getpublished01">Your Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/twitter">Live Tweets</a></li>
+	var sportslist='<a href="/section/SPORTS05">High School Sports</a>,<a href="http://www.stargazette.com/hsfootball">High School Football</a>,<a href="/section/sports03">College Sports</a>,<a href="/section/sports10">Motorsports</a>,<a href="/section/getpublished01">Your Sports</a>,<a href="/section/twitter">Live Tweets</a>,';
 //<li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/viewpoints03">Letters to the Editor</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="http://www.stargazette.com/section/letterstoeditor">Submit a Letter</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/VIEWPOINTS02">Guest Viewpoints</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&category=PluckForum">Forums</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/blogs">Blogs</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog">My Blog</a></li><li class="link 3"><span class="arrow">&nbsp;</span><a href="/section/getpublished01">Your News</a></li>	
 	var viewlist='<a href="/section/viewpoints03">Letters to the Editor</a>,<a href="http://www.stargazette.com/section/letterstoeditor">Submit a Letter</a>,<a href="/section/VIEWPOINTS02">Guest Viewpoints</a>,<a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&category=PluckForum">Forums</a>,<a href="/section/blogs">Blogs</a>,<a href="/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog">My Blog</a>,<a href="/section/getpublished01">Your News</a>,';
-//<li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/ent">Entertainment News</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/life12">Local Columns</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/celebratelife">Celebrations</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://twintiers.momslikeme.com/members/exploregroups.aspx?p=160">Momslikeme.com</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&cid=1129&aid=3310&cmd=registration-profile-opt">Dating</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://deals.stargazette.com">Deals</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/textalerts">Horoscope Texts</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/blogs">Blogs</a></li>	
-	var lifelist='<a href="/section/ent">Entertainment News</a>,<a href="/section/life12">Local Columns</a>,<a href="/celebratelife">Celebrations</a>,<a href="http://twintiers.momslikeme.com/members/exploregroups.aspx?p=160">Momslikeme.com</a>,<a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&cid=1129&aid=3310&cmd=registration-profile-opt">Dating</a>,<a href="http://deals.stargazette.com">Deals</a>,<a href="/section/textalerts">Horoscope Texts</a>,<a href="/section/blogs">Blogs</a>,';
+//<li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/ent">Entertainment News</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/life12">Local Columns</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/celebratelife">Celebrations</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/prom">Proms</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&cid=1129&aid=3310&cmd=registration-profile-opt">Dating</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://deals.stargazette.com">Deals</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/textalerts">Horoscope Texts</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/blogs">Blogs</a></li>	
+	var lifelist='<a href="/section/ent">Entertainment News</a>,<a href="/section/life12">Local Columns</a>,<a href="/celebratelife">Celebrations</a>,<a href="/section/prom">Proms</a>,<a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&cid=1129&aid=3310&cmd=registration-profile-opt">Dating</a>,<a href="http://deals.stargazette.com">Deals</a>,<a href="/section/textalerts">Horoscope Texts</a>,<a href="/section/blogs">Blogs</a>,';
 //<li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/business">Local</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/business10">National Headlines</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/textalerts">Stock Quotes</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://classifieds.star-gazette.com/osform/MVCCService?osform_template=/standard/Front.oft&publication=stargaz&displayCount=10&category=LegalLegalNotices">Legals</a></li>	
 	var bizlist='<a href="/section/business">Local</a>,<a href="/section/business10">National Headlines</a>,<a href="/section/textalerts">Stock Quotes</a>,<a href="http://classifieds.star-gazette.com/osform/MVCCService?osform_template=/standard/Front.oft&publication=stargaz&displayCount=10&category=LegalLegalNotices">Legals</a>,';
 	var newsarray=newslist.split(",");
@@ -898,36 +805,34 @@ function initmoreNews(){
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/SPORTS05">High School Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports03">College Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports10">Motorsports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/getpublished01">Your Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/twitter">Live Tweets</a></li>
+				<li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/SPORTS05">High School Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="http://www.stargazette.com/hsfootball">High School Football</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports03">College Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/sports10">Motorsports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/getpublished01">Your Sports</a></li><li class="link 1"><span class="arrow">&nbsp;</span><a href="/section/twitter">Live Tweets</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section photo">
-	<div class="photoFrame"><a href="/article/20110617/SPORTS05/106170392/Manganaro-Kallenborn-awarded-top-athletic-honors-by-Horseheads?odyssey=nav|head"><img src="http://cmsimg.stargazette.com/apps/pbcsi.dll/bilde?Avis=CB&amp;Dato=20110617&amp;Kategori=SPORTS05&amp;Lopenr=106170392&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="Dan Manganaro and Jess Kallenborn pose with their plaques after being named Horseheads High School's Athletes of the Year for the 2010-11 school year at the school's awards banquet June 3. PROVIDED PHOTO"></a>
-	</div>
+<div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/SPORTS05/106170392/Manganaro-Kallenborn-awarded-top-athletic-honors-by-Horseheads?odyssey=nav|head">Manganaro, Kallenborn awarded top athletic honors by Horseheads</a>
+		<a href="/article/20111101/SPORTS05/111010326/Monday-s-high-school-volleyball-results?odyssey=nav|head">Monday's high school volleyball results</a>
 	</div>
 	<div class="summary">
-			HORSEHEADS -- Dan Manganaro and Jessica Kallenborn were named the Horseheads High Male and Female...<span class="timestamp">- 6:02 pm</span>
+			Game scores: 25-21, 20-25, 25-19, 25-22.<span class="timestamp">- 7:36 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/SPORTS/106170436/Pios-hits-raise-money-Dunn-Field?odyssey=nav|head">Pios' hits to raise money for Dunn Field</a>
+		<a href="/article/20111101/SPORTS05/111010325/Monday-s-high-school-tennis-results?odyssey=nav|head">Monday's high school tennis results</a>
 	</div>
 	<div class="summary">
-		ELMIRA -- Elmira Pioneers general manager and president Jeff Kunion will donate money to the...<span class="timestamp">- 8:40 pm</span>
+		Singles: Charlotte Federowicz (V) def. Julia Weaver, 6-1, 7-5; Alexandria Federowicz (V) def.<span class="timestamp">- 7:03 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/SPORTS/106170403/Stephens-Invitational-draws-16-baseball-teams?odyssey=nav|head">Stephens Invitational draws 16 baseball teams</a>
+		<a href="/article/20111101/SPORTS05/111010323/Monday-s-high-school-sports-results?odyssey=nav|head">Monday's high school sports results</a>
 	</div>
 	<div class="summary">
-		MANSFIELD -- Sixteen baseball teams will be traveling to the Northern Tier for the 13th annual Joel...<span class="timestamp">- 6:36 pm</span>
+		SOUTHERN TIER ATH. CONF.<span class="timestamp">- 7:00 am</span>
 	</div>
 </div>
 		</div>
@@ -957,30 +862,28 @@ function initmoreNews(){
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST VIEWPOINTS</div>
-<div class="section photo">
-	<div class="photoFrame"><a href="/article/20110618/VIEWPOINTS02/106180316/Make-sure-minors-know-alcopops-not-them?odyssey=nav|head"><img src="http://cmsimg.stargazette.com/apps/pbcsi.dll/bilde?Avis=CB&amp;Dato=20110618&amp;Kategori=VIEWPOINTS02&amp;Lopenr=106180316&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt=" "></a>
-	</div>
+<div class="section ">
 	<div class="headline">
-		<a href="/article/20110618/VIEWPOINTS02/106180316/Make-sure-minors-know-alcopops-not-them?odyssey=nav|head">Make sure minors know 'alcopops' not for them</a>
+		<a href="/article/20111101/VIEWPOINTS03/111010313/Letter-Sullivan-has-what-s-needed-mayor?odyssey=nav|head">Letter: Sullivan has what's needed to be mayor</a>
 	</div>
 	<div class="summary">
-			Summer is back, and so is the heat! Doesn't a nice cold beverage sound good right about now? Maybe...<span class="timestamp">- 3:46 pm</span>
+			I have known Tim Sullivan both personally and professionally for more than 30 years.<span class="timestamp">- 7:08 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110618/VIEWPOINTS/106180318/Deadly-crash-offers-stark-warning-road-s-safety?odyssey=nav|head">Deadly crash offers stark warning on road's safety</a>
+		<a href="/article/20111101/VIEWPOINTS03/111010317/Letter-Morris-best-choice-Schuyler-judge?odyssey=nav|head">Letter: Morris is best choice for Schuyler judge</a>
 	</div>
 	<div class="summary">
-		The crash that killed Chemung County Sheriff's Deputy Jeffrey Alexander and Albert Paganelli of...<span class="timestamp">- 3:42 pm</span>
+		The race for Schuyler County judge has certainly been interesting over these last few weeks.<span class="timestamp">- 7:07 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110618/VIEWPOINTS03/106180312/River-Fest-enjoyed-community-support?odyssey=nav|head">River Fest enjoyed community support</a>
+		<a href="/article/20111101/VIEWPOINTS03/111010312/Letter-McCarthy-shows-he-s-committed-city?odyssey=nav|head">Letter: McCarthy shows he's committed to city</a>
 	</div>
 	<div class="summary">
-		The 7th Annual River Fest and Paddle was held June 4, and more than 150 people registered for the...<span class="timestamp">- 3:36 pm</span>
+		On Nov. 8, I encourage you to cast your vote for Bill  McCarthy.<span class="timestamp">- 7:07 pm</span>
 	</div>
 </div>
 		</div>
@@ -1000,26 +903,26 @@ function initmoreNews(){
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/BUSINESS/106170369/Report-HSBC-seeks-unload-upstate-NY-branches?odyssey=nav|head">Report: HSBC seeks to unload upstate NY branches</a>
+		<a href="/article/20111031/BUSINESS/110310343/Cuomo-promotes-from-within-NYPA-post?odyssey=nav|head">Cuomo promotes from within for NYPA post</a>
 	</div>
 	<div class="summary">
-			A trade publication reports that British banking group HSBC aims to sell about 175 of its upstate...<span class="timestamp">- 2:50 pm</span>
+			ALBANY -- The public authority overseeing 17 of the state's power plants will promote from within...<span class="timestamp">- 6:25 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110615/BUSINESS/106150367/Corning-s-CBC-Furniture-close-building-company-remain?odyssey=nav|head">Corning's CBC Furniture to close; building company to remain</a>
+		<a href="/article/20111029/BUSINESS/110280411/Corning-Watch-No-800-million-Gorilla-year?odyssey=nav|head">Corning Watch: No $800 million Gorilla this year</a>
 	</div>
 	<div class="summary">
-		CBC Furniture, a division of the Corning Building Co.<span class="timestamp">- 6:41 pm</span>
+		The Gorilla that muscled its way onto the screens of smartphones worldwide is having a tougher time...<span class="timestamp">- 6:21 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110615/BUSINESS/106150328/Corning-opens-tech-center-Taiwan?odyssey=nav|head">Corning opens tech center in Taiwan</a>
+		<a href="/article/20111013/BUSINESS/110130406/Trade-deals-divide-New-York-delegation?odyssey=nav|head">Trade deals divide New York delegation</a>
 	</div>
 	<div class="summary">
-		TAIPEI, Taiwan -- The Corning Advanced Technology Center, located in the Neihu Technology Park in...<span class="timestamp">- 12:10 pm</span>
+		WASHINGTON -- Trade agreements with South Korea, Panama and Colombia that cleared the House and...<span class="timestamp">- 6:26 pm</span>
 	</div>
 </div>
 		</div>
@@ -1031,7 +934,7 @@ function initmoreNews(){
 		<div class="column1">
 			<div class="sectionTop">
 				<ul>
-				<li class="link 5"><span class="arrow">&nbsp;</span><a href="/obits">Obituaries</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/obits">In Memoriams &amp; Card of Thanks</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="http://www.legacy.com/obituaries/star-gazette/obituary-funeralhome-directory.aspx">Funeral Home Locator</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="https://www.legacy.com/obit-messenger/Default.aspx">Obit Messenger</a></li>
+				<li class="link 5"><span class="arrow">&nbsp;</span><a href="/obits">Obituaries</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="/obits">In Memoriams &amp; Card of Thanks</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="http://www.legacy.com/obituaries/star-gazette/obituary-funeralhome-directory.aspx">Funeral Home Locator</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="https://www.legacy.com/obit-messenger/Default.aspx">Obit Messenger</a></li><li class="link 5"><span class="arrow">&nbsp;</span><a href="http://elmira.mediasolutionsportal.com/elmira-AdPortal/memoriams/index.html">Submit an In Memoriam Listing</a></li>
 				</ul>
 			</div>
 		</div>
@@ -1043,34 +946,36 @@ function initmoreNews(){
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/ent">Entertainment News</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/life12">Local Columns</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/celebratelife">Celebrations</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://twintiers.momslikeme.com/members/exploregroups.aspx?p=160">Momslikeme.com</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&amp;cid=1129&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://deals.stargazette.com">Deals</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/textalerts">Horoscope Texts</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/blogs">Blogs</a></li>
+				<li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/ent">Entertainment News</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/life12">Local Columns</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/celebratelife">Celebrations</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/prom">Proms</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&amp;cid=1129&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="http://deals.stargazette.com">Deals</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/textalerts">Horoscope Texts</a></li><li class="link 6"><span class="arrow">&nbsp;</span><a href="/section/blogs">Blogs</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111031/LIFE12/110310335/Kingsley-neighbors-Conn-children-help-Athens-flood-victims?odyssey=nav|head"><img src="http://cmsimg.stargazette.com/apps/pbcsi.dll/bilde?Avis=CB&amp;Dato=20111031&amp;Kategori=LIFE12&amp;Lopenr=110310335&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Kingsley-neighbors-Conn-children-help-Athens-flood-victims" alt="The Striff-Cave siblings, from left, Ethan, Megan and Caitlin, with their parents Erin and Alex, as they prepare to bag lunches for families rebuilding after September's flood. PHOTO PROVIDED"></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110618/LIFE12/106180304/Cancer-Connections-Good-doctor-patient-interactions-start-respect?odyssey=nav|head">Cancer Connections: Good doctor-patient interactions start with respect</a>
+		<a href="/article/20111031/LIFE12/110310335/Kingsley-neighbors-Conn-children-help-Athens-flood-victims?odyssey=nav|head">Kingsley neighbors: Conn. children help Athens flood victims</a>
 	</div>
 	<div class="summary">
-			I spend much of my time helping seriously ill patients navigate the health care system.<span class="timestamp">- 5:38 pm</span>
+			When 10-year-old Megan Striff-Cave of Hartford, Conn.<span class="timestamp">- 5:43 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/LIFE12/106170410/Jennifer-Kingsley-s-neighbors-Fassett-school-hold-juvenile-diabetes-walk?odyssey=nav|head">Jennifer Kingsley's neighbors: Fassett school to hold juvenile diabetes walk</a>
+		<a href="http://topics.gannett.com/halloween/?template=stargazette">Your one-stop guide to Halloween</a>
 	</div>
 	<div class="summary">
-		Every day, 12-year-old Devin Dollinger counts carbs, checks his sugar levels, figures out how much...<span class="timestamp">- 7:01 pm</span>
+		Get pumpkin stencils, Halloween recipes and costume ideas and other Halloween-related items.<span class="timestamp">- 9:40 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110617/LIFE12/106170400/Spirituality-God-centered-not-gullible?odyssey=nav|head">Spirituality: Be God-centered, not gullible</a>
+		<a href="/article/20111030/LIFE12/110300324/Neighbors-Steuben-Library-volunteers-honored?odyssey=nav|head">Neighbors: Steuben Library volunteers honored</a>
 	</div>
 	<div class="summary">
-		In 1991, I was in a yearlong residency training to become a hospital chaplain -- a program called...<span class="timestamp">- 6:27 pm</span>
+		Let's talk about outstanding volunteers, such as the hard-working ones who spend countless hours...<span class="timestamp">- 9:52 pm</span>
 	</div>
 </div>
 		</div>
@@ -1091,26 +996,26 @@ function initmoreNews(){
         <!-- Feed Request STATUS: 200 --><!-- Feed Request TYPE: RSS --><!-- Feed Request VERSION: 2.0 -->
 <div class="section ">
 	<div class="headline">
-		<a href="http://www.stargazette.com/apps/pbcs.dll/section?category=PluckPersona&amp;U=710c34b3bd62438baad0093650b548c2&amp;plckController=PersonaBlog&amp;plckScript=personaScript&amp;plckElementId=personaDest&amp;plckPersonaPage=BlogViewPost&amp;plckPostId=Blog:710c34b3bd62438baad0093650b548c2Post:20ce56cf-952a-4587-84b6-2cf797ae648a&amp;sid=sitelife.stargazette.com">Rifle bill passes</a>
+		<a href="http://www.stargazette.com/apps/pbcs.dll/section?category=PluckPersona&amp;U=710c34b3bd62438baad0093650b548c2&amp;plckController=PersonaBlog&amp;plckScript=personaScript&amp;plckElementId=personaDest&amp;plckPersonaPage=BlogViewPost&amp;plckPostId=Blog:710c34b3bd62438baad0093650b548c2Post:58cf01f7-7d71-4795-9072-ad94514b4e68&amp;sid=sitelife.stargazette.com">Jammin'</a>
 	</div>
 	<div class="summary">
-		For those of you who have enjoyed the opportunity to hunt deer with a rifle in the Southern Tier in recent years, I've got good news for you.I'm on
+		I want to apologize to my dog Malibu for making her work a lot harder than she had to Saturday.Then again, making her flush the same pheasant three
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="http://www.stargazette.com/apps/pbcs.dll/section?category=PluckPersona&amp;U=710c34b3bd62438baad0093650b548c2&amp;plckController=PersonaBlog&amp;plckScript=personaScript&amp;plckElementId=personaDest&amp;plckPersonaPage=BlogViewPost&amp;plckPostId=Blog:710c34b3bd62438baad0093650b548c2Post:9e36d568-6470-42e2-8837-40ea1179a370&amp;sid=sitelife.stargazette.com">Going hog wild</a>
+		<a href="http://www.stargazette.com/apps/pbcs.dll/section?category=PluckPersona&amp;U=710c34b3bd62438baad0093650b548c2&amp;plckController=PersonaBlog&amp;plckScript=personaScript&amp;plckElementId=personaDest&amp;plckPersonaPage=BlogViewPost&amp;plckPostId=Blog:710c34b3bd62438baad0093650b548c2Post:111723e2-c7f4-413c-ac55-e5f9455b04f9&amp;sid=sitelife.stargazette.com">Snow? Really?</a>
 	</div>
 	<div class="summary">
-		I&nbsp;reported recently about the encroachment of feral hogs in New York state, including here in the Southern Tier.If you're concerned about the
+		So I&nbsp;was up in Bath today covering the double murder trial of Bryan Ashline, not exactly an uplifting experience. But I got an even better
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="http://www.stargazette.com/apps/pbcs.dll/section?category=PluckPersona&amp;U=710c34b3bd62438baad0093650b548c2&amp;plckController=PersonaBlog&amp;plckScript=personaScript&amp;plckElementId=personaDest&amp;plckPersonaPage=BlogViewPost&amp;plckPostId=Blog:710c34b3bd62438baad0093650b548c2Post:ab75a687-2207-45eb-96d8-07138ba3fe8e&amp;sid=sitelife.stargazette.com">Making a good first impression</a>
+		<a href="http://www.stargazette.com/apps/pbcs.dll/section?category=PluckPersona&amp;U=710c34b3bd62438baad0093650b548c2&amp;plckController=PersonaBlog&amp;plckScript=personaScript&amp;plckElementId=personaDest&amp;plckPersonaPage=BlogViewPost&amp;plckPostId=Blog:710c34b3bd62438baad0093650b548c2Post:08836816-a429-41f2-9c08-f6f764bf500b&amp;sid=sitelife.stargazette.com">Good luck charm</a>
 	</div>
 	<div class="summary">
-		There are few things I&nbsp;dread more than talking up one of my favorite fishing holes, only to take someone there for the first time and have the
+		I've never been a superstitious person, but on the other hand, I figure a little extra help can't hurt.And maybe I&nbsp;got some help filling my
 	</div>
 </div>
         <center>
@@ -1139,8 +1044,9 @@ function initmoreNews(){
 	<div class="header-featured">
 		<div class="header-wrap">
 			<ul id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"></span></ul>
-			<ul>
-				<li><strong>FEATURED:</strong></li><li><a href="http://www.stargazette.com/section/PluckPublicPhotoGalleries">Your Photos</a></li><li><a href="/proms">Proms</a></li><li><a href="/virtualcareerfair">Find a Job</a></li><li><a href="/section/gasprices">Gas Prices</a></li><li><a href="/subscribe">Subscribe</a></li>
+			<ul class="ody-navfeatured">
+				<!-- ody_navfeatured.pbo -->
+<li><strong>FEATURED:</strong></li><li><a href="http://www.stargazette.com/section/PluckPublicPhotoGalleries">Your Photos</a></li><li><a href="http://www.stargazette.com/section/news12">Flood of 2011</a></li><li><a href="/proms">Proms</a></li><li><a href="/section/gasprices">Gas Prices</a></li><li><a href="http://topics.gannett.com/cold+and+flu?template=stargazette">Cold &amp; Flu</a></li>
 			</ul>
 			<div class="pd-search">
 				<div class="searchbox-shift">
@@ -1270,7 +1176,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<div class="leaderboard-container-top">
 				<div>
 	<div class="ad_launchpad_SF">
-	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_4" class=" gel-hidden"><script id="__gelement_5" src="https://gannett.gcion.com/addyn/3.0/5111.1/896048/0/-1/ADTECH;alias=ny-elmira.stargazette.com/news/front.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=52586;misc=1582530360379;size=728x90;noperf=1;key=PRIVACY;kvcw=;kvtitle=PRIVACY"></script>
+	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_4" class=" gel-hidden"><script id="__gelement_5" src="https://gannett.gcion.com/addyn/3.0/5111.1/896048/0/-1/ADTECH;alias=ny-elmira.stargazette.com/news/front.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=1541;misc=1582530359944;size=728x90;noperf=1;key=privacy;kvcw=;kvtitle=privacy"></script>
 </div>
 </div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
 		<div class="advertisement">ADVERTISEMENT</div>
@@ -1370,7 +1276,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <div class="footer-main">
 	<div class="footer-wrap">
 		<div class="left">
-			<ul><li><h4><a href="/section/news">NEWS</a></h4></li><li><a href="/section/NEWS">Local News</a></li><li><a href="/section/NEWS02">Schools</a></li><li><a href="/section/NEWS10">State News</a></li><li><a href="/marcellusshale">Marcellus Shale</a></li><li><a href="/section/VIEWPOINTS04">Good News</a></li><li><a href="/data">Data &amp; Salaries</a></li><li><a href="/section/twitter">Twitter</a></li><li><a href="/section/apheads">Nation/World</a></li><li><a href="http://stargazette.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Elmira&amp;State=NY">Weather</a></li><li><h4><a href="/section/business">BUSINESS</a></h4></li><li><a href="/section/business">Local</a></li><li><a href="/section/business10">National Headlines</a></li><li><a href="/section/textalerts">Stock Quotes</a></li><li><a href="http://classifieds.star-gazette.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=stargaz&amp;displayCount=10&amp;category=LegalLegalNotices">Legals</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="/section/SPORTS05">High School Sports</a></li><li><a href="/section/sports03">College Sports</a></li><li><a href="/section/sports10">Motorsports</a></li><li><a href="/section/getpublished01">Your Sports</a></li><li><a href="/section/twitter">Live Tweets</a></li><li><h4><a href="/section/social">SOCIAL</a></h4></li><li><a href="http://www.facebook.com/elmirastargazette">Facebook</a></li><li><a href="/section/twitter">Twitter</a></li><li><a href="/section/blogs">Blogs</a></li><li><a href="http://www.stargazette.com/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li><a href="http://www.stargazette.com/section/NLETTERSUBSCRIBE">Email</a></li><li><a href="/section/textalerts">Text Alerts</a></li><li><a href="/section/rss99">RSS</a></li><li><a href="/section/getpublished01">Your News</a></li><li><a href="http://m.stargazette.com">Mobile</a></li></ul><ul><li><h4><a href="http://localsearch.stargazette.com/sp?aff=1000">EVENTS</a></h4></li><li><a href="http://elmira.planetdiscover.com/sp?skin=&amp;aff=1001&amp;startDate=today">Search Events</a></li><li><a href="http://www.legacy.com/Star-Gazette/Celebrations.asp">Celebrations</a></li><li><a href="http://localsearch.stargazette.com/sp?skin=100&amp;aff=1105&amp;keywords=">Movies</a></li><li><a href="http://php.pressconnects.com/calform/submitsg.php">Submit Events</a></li><li><a href="http://localsearch.stargazette.com/sp?aff=1109&amp;catId=16000000&amp;skin=100&amp;address=14901">Dining</a></li><li><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&amp;cid=1129&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li><h4><a href="/section/life">LIFE</a></h4></li><li><a href="/section/ent">Entertainment News</a></li><li><a href="/section/life12">Local Columns</a></li><li><a href="/celebratelife">Celebrations</a></li><li><a href="http://twintiers.momslikeme.com/members/exploregroups.aspx?p=160">Momslikeme.com</a></li><li><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&amp;cid=1129&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li><a href="http://deals.stargazette.com">Deals</a></li><li><a href="/section/textalerts">Horoscope Texts</a></li><li><a href="/section/blogs">Blogs</a></li></ul><ul><li><h4><a href="/section/viewpoints">VIEWPOINTS</a></h4></li><li><a href="/section/viewpoints03">Letters to the Editor</a></li><li><a href="http://www.stargazette.com/section/letterstoeditor">Submit a Letter</a></li><li><a href="/section/VIEWPOINTS02">Guest Viewpoints</a></li><li><a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li><a href="/section/blogs">Blogs</a></li><li><a href="/apps/pbcs.dll/section?category=pluckpersona&amp;plckPersonaPage=PersonaBlog">My Blog</a></li><li><a href="/section/getpublished01">Your News</a></li><li><h4><a href="http://www.legacy.com/obituaries/star-gazette/">OBITUARIES</a></h4></li><li><a href="/obits">Obituaries</a></li><li><a href="/obits">In Memoriams &amp; Card of Thanks</a></li><li><a href="http://www.legacy.com/obituaries/star-gazette/obituary-funeralhome-directory.aspx">Funeral Home Locator</a></li><li><a href="https://www.legacy.com/obit-messenger/Default.aspx">Obit Messenger</a></li></ul>
+			<ul><li><h4><a href="/section/news">NEWS</a></h4></li><li><a href="/section/NEWS">Local News</a></li><li><a href="/section/NEWS02">Schools</a></li><li><a href="/section/NEWS10">State News</a></li><li><a href="/marcellusshale">Marcellus Shale</a></li><li><a href="/section/VIEWPOINTS04">Good News</a></li><li><a href="/data">Data &amp; Salaries</a></li><li><a href="/section/twitter">Twitter</a></li><li><a href="/section/apheads">Nation/World</a></li><li><a href="http://stargazette.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Elmira&amp;State=NY">Weather</a></li><li><h4><a href="/section/business">BUSINESS</a></h4></li><li><a href="/section/business">Local</a></li><li><a href="/section/business10">National Headlines</a></li><li><a href="/section/textalerts">Stock Quotes</a></li><li><a href="http://classifieds.star-gazette.com/osform/MVCCService?osform_template=/standard/Front.oft&amp;publication=stargaz&amp;displayCount=10&amp;category=LegalLegalNotices">Legals</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="/section/SPORTS05">High School Sports</a></li><li><a href="http://www.stargazette.com/hsfootball">High School Football</a></li><li><a href="/section/sports03">College Sports</a></li><li><a href="/section/sports10">Motorsports</a></li><li><a href="/section/getpublished01">Your Sports</a></li><li><a href="/section/twitter">Live Tweets</a></li><li><h4><a href="/section/social">SOCIAL</a></h4></li><li><a href="http://www.facebook.com/elmirastargazette">Facebook</a></li><li><a href="/section/twitter">Twitter</a></li><li><a href="/section/blogs">Blogs</a></li><li><a href="http://www.stargazette.com/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li><a href="http://www.stargazette.com/section/NLETTERSUBSCRIBE">Email</a></li><li><a href="/section/textalerts">Text Alerts</a></li><li><a href="/section/rss99">RSS</a></li><li><a href="/section/getpublished01">Your News</a></li><li><a href="http://m.stargazette.com">Mobile</a></li></ul><ul><li><h4><a href="http://localsearch.stargazette.com/sp?aff=1000">EVENTS</a></h4></li><li><a href="http://elmira.planetdiscover.com/sp?skin=&amp;aff=1001&amp;startDate=today">Search Events</a></li><li><a href="http://www.legacy.com/Star-Gazette/Celebrations.asp">Celebrations</a></li><li><a href="http://localsearch.stargazette.com/sp?skin=100&amp;aff=1105&amp;keywords=">Movies</a></li><li><a href="http://php.pressconnects.com/calform/submitsg.php">Submit Events</a></li><li><a href="http://localsearch.stargazette.com/sp?aff=1109&amp;catId=16000000&amp;skin=100&amp;address=14901">Dining</a></li><li><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&amp;cid=1129&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li><h4><a href="/section/life">LIFE</a></h4></li><li><a href="/section/ent">Entertainment News</a></li><li><a href="/section/life12">Local Columns</a></li><li><a href="/celebratelife">Celebrations</a></li><li><a href="/section/prom">Proms</a></li><li><a href="http://ad.doubleclick.net/clk;229357293;53349330;l?http://gannett.eharmony.com/dating&amp;cid=1129&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a></li><li><a href="http://deals.stargazette.com">Deals</a></li><li><a href="/section/textalerts">Horoscope Texts</a></li><li><a href="/section/blogs">Blogs</a></li></ul><ul><li><h4><a href="/section/viewpoints">VIEWPOINTS</a></h4></li><li><a href="/section/viewpoints03">Letters to the Editor</a></li><li><a href="http://www.stargazette.com/section/letterstoeditor">Submit a Letter</a></li><li><a href="/section/VIEWPOINTS02">Guest Viewpoints</a></li><li><a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li><a href="/section/blogs">Blogs</a></li><li><a href="/apps/pbcs.dll/section?category=pluckpersona&amp;plckPersonaPage=PersonaBlog">My Blog</a></li><li><a href="/section/getpublished01">Your News</a></li><li><h4><a href="http://www.legacy.com/obituaries/star-gazette/">OBITUARIES</a></h4></li><li><a href="/obits">Obituaries</a></li><li><a href="/obits">In Memoriams &amp; Card of Thanks</a></li><li><a href="http://www.legacy.com/obituaries/star-gazette/obituary-funeralhome-directory.aspx">Funeral Home Locator</a></li><li><a href="https://www.legacy.com/obit-messenger/Default.aspx">Obit Messenger</a></li><li><a href="http://elmira.mediasolutionsportal.com/elmira-AdPortal/memoriams/index.html">Submit an In Memoriam Listing</a></li></ul>
 		</div>
 		<div class="right">
 			<ul>
@@ -1406,8 +1312,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a target="_blank" href="http://www.homegain.com">Real Estate</a></li>
 			<li>|</li>
 			<li><a target="_blank" href="http://www.shoplocal.com">Shopping</a></li>
-			<li>|</li>
-			<li><a target="_blank" href="http://www.momslikeme.com">Mom Groups</a></li>
 		</ul>
 	</div>
 </div>
@@ -1420,7 +1324,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a class="footer-apts" href="http://www.apartments.com/" target="_blank"></a></li>
 			<li><a class="footer-homegain" href="http://www.homegain.com" target="_blank"></a></li>
 			<li><a class="footer-shop" href="http://www.shoplocal.com" target="_blank"></a></li>
-			<li><a class="footer-moms" href="http://www.momslikeme.com" target="_blank"></a></li>
 			<li><a class="footer-career" href="http://www.careerbuilder.com" target="_blank"></a></li>
 			<li><a class="footer-eharmony" href="http://www.eharmony.com" target="_blank"></a></li>			
 		</ul>
@@ -1557,7 +1460,7 @@ GEL.thepage.initializer.addInitRoutine({
 		method of inserting the image.  Once this is implemented, 
 		the inline attachment of the s_code here can be removed 
 	*/
-	var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
+		var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
 	_s.setAttacher("inline"); 
 	_s.attach(); 
 })(); 
@@ -1569,22 +1472,6 @@ GEL.thepage.initializer.addInitRoutine({
 <!--Semantics Agency Trading Desk-->
 <div id="adsdaq"></div>
 <script type="text/javascript">
-(function(){
-	GEL.thepage.initializer.addInitRoutine({ 
-		name: "ADSDAQ",
-		namespace: "remoting",
-		callback: function (){ 
-			var 
-				_jscntr= GEL.ement("adsdaq"), 
-				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
-			;
-			_jscntr.setContentUrl(_u, 'script');
-			_jscntr.updateRemoteContent(); 
-			return; 
-		}, 
-		priority: 250
-	});
-})()	
 </script>
 <script type="text/javascript">
 (function(){ 
