@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicheplrarticlepacks.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103023143id_/http%3A//www.nicheplrarticlepacks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicheplrarticlepacks.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125631id_/http%3A//www.nicheplrarticlepacks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
