@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101112234id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hemscott.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101112816id_/http%3A//www.hemscott.com/privacy-policy.do) for the most accurate reproduction.*
 
 # Privacy Policy | Hemscott
 
@@ -74,4 +74,4 @@ You have a legal right to a copy of all the personal information about you held 
 
 From time to time we may make changes to this privacy policy statement to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements.
 
-If you have any questions about Hemscott.com's privacy practices or this Privacy Policy, please e-mail us at [support@morningstar.com](https://web.archive.org/web/20110101112234id_/http%3A//www.hemscott.com/support@morningstar.com).
+If you have any questions about Hemscott.com's privacy practices or this Privacy Policy, please e-mail us at [support@morningstar.com](https://web.archive.org/web/20111101112816id_/http%3A//www.hemscott.com/support@morningstar.com).
