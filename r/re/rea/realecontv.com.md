@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realecontv.com privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922052404id_/http%3A//www.realecontv.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realecontv.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125814id_/http%3A//www.realecontv.com/privacy.html) for the most accurate reproduction.*
 
 # Real Econ TV
 
@@ -64,18 +64,27 @@ This web site contains links to other web sites. Please note that when you click
 **Additionally:**  
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html). 
 
-© 2010 **RealEconTV** , All rights reserved.  
+© 2011 **RealEconTV** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.   
 
 
-**Subscribe to "RealEconTV"**
+**Subscribe to RealEconTV**
 
-Join our members list and receive  
-a new video every day - free
+Subscribe to RealEcon TV - free  
+Every time we post a new video,  
+we'll send you a notice by e-mail.
 
   
 
 
 Return to the [real econ tv](https://web.archive.org/) home page 
 
-[About Us](https://web.archive.org/about.html) | [Privacy Policy](https://web.archive.org/privacy.html)
+[About Us](https://web.archive.org/about.html) | [Privacy Policy](https://web.archive.org/privacy.html) | [Contact](https://web.archive.org/contact.html)
+
+Legal disclaimer
+
+The content on this site is provided without any warranty, express or implied. All opinions expressed on this site are those of the author and may contain errors or omissions.
+
+NO MATERIAL HERE CONSTITUTES "INVESTMENT ADVICE" NOR IS IT A RECOMMENDATION TO BUY OR SELL ANY FINANCIAL INSTRUMENT, INCLUDING BUT NOT LIMITED TO STOCKS, OPTIONS, BONDS OR FUTURES.
+
+The author may have a position in any company or security mentioned herein. Actions you undertake as a consequence of any analysis, opinion or advertisement on this site are your sole responsibility.
