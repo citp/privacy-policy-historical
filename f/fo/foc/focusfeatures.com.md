@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusfeatures.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624042451id_/http%3A//www.focusfeatures.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusfeatures.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125616id_/http%3A//www.focusfeatures.com/privacy) for the most accurate reproduction.*
 
 # Focus Features Privacy Policy
 
