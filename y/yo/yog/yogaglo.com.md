@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yogaglo.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328062443id_/http%3A//www.yogaglo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogaglo.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101132719id_/http%3A//www.yogaglo.com/privacy.php) for the most accurate reproduction.*
 
-# yogaglo
+# We Respect Your Privacy - Yoga Glo Policy | YogaGlo.com
 
 Last modified: June 15, 2008
 
@@ -40,7 +40,7 @@ We also use your name, e-mail address and other information on our system to not
 
 **Other websites** \- This Policy applies to websites and services that are owned and operated by Yogaglo. We do not exercise control over the websites displayed as search results or links from within our various services. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you.
 
-Yogaglo only processes personal information for the purposes described in the applicable Policy and/or privacy notice for specific services. In addition to the above, such purposes include 
+Yogaglo only processes personal information for the purposes described in the applicable Policy and/or privacy notice for specific services. In addition to the above, such purposes include
 
   * Providing our products and services to users, including the display of customized content and advertising;
   * Auditing, research and analysis in order to maintain, protect and improve our services;
@@ -115,7 +115,7 @@ We also may make chat rooms, forums and message boards available to you on the W
 
 **Yogaglo Terms and Conditions of Use**
 
-A complete statement of our Terms and Conditions of Use can be found [here](https://web.archive.org/web/20100328062443id_/http%3A//www.yogaglo.com/termsandconditions.php). Yogaglo's Terms and Conditions of Use are expressly incorporated into this Policy by this reference.
+A complete statement of our Terms and Conditions of Use can be found [here](https://web.archive.org/web/20111101132719id_/http%3A//www.yogaglo.com/termsandconditions.php). Yogaglo's Terms and Conditions of Use are expressly incorporated into this Policy by this reference.
 
 **Your consent**
 
