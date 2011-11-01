@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiavision.com privacy policy that was archived on 2010-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100101041818id_/http%3A//www.indiavision.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiavision.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115332id_/http%3A//www.indiavision.com/privacy.html) for the most accurate reproduction.*
 
-# IndiaVision : India Trade Tour Food News Politics blogs privacy
+# Privacy | IndiaVision India News Video Trade Tour Food Film TV Sports
 
 The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to **IndiaVision.com** to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
