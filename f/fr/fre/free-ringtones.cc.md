@@ -1,67 +1,86 @@
-> *The following text is extracted and transformed from the free-ringtones.cc privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204065149id_/http%3A//www.idotz.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-ringtones.cc privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120132id_/http%3A//www.free-ringtones.cc/privacy.php) for the most accurate reproduction.*
 
-# iDotz.Net - Domain Name Registrar: Cool Domains @ Great Prices!
+# Free iPhone Ringtones
 
-  **iDotz.Net? Privacy Policy  
-   **(effective July 1, 2002) 
+(Last Updated 3/24/2011)
 
-  This notice describes our privacy policy. By visiting our Web site or by otherwise interacting with dotFM, you agree to accept the practices described in this Privacy Policy. For questions on the Privacy Policy please contact 
+Welcome to free-ringtones.cc  
+BY USING OR ACCESSING THE SITE OR ANY OF THE SERVICES, YOU ARE ACCEPTING THIS PRIVACY POLICY. IF ANYTHING HERE OFFENDS YOU OR YOU DO NOT WISH TO BE BOUND BY IT, PLEASE DO NOT ACCESS OR USE THE SITE OR ANY OF ITS SERVICES.  
+This Privacy Policy should be read together and in conjunction with our binding [Terms of Use ](https://web.archive.org/web/20111101120132id_/http%3A//www.free-ringtones.cc/terms.php)("Terms").   
+Any term defined in the Terms shall have the same meaning under this Policy.
 
-[privacy@idotz.net](mailto:privacy@idotz.net).
+First and foremost you should know that anything and everything you post, upload, send to anyone or publish within the Site and its services is never private, can and will be accessible for others for a long period of time and also may be posted by the Site, anywhere on the Site. Therefore, please DO NOT POST ANYTHING YOU WISH TO REMAIN CONFIDENTIAL OR IN BREACH OF ANYONE'S RIGHT. 
 
-  Your privacy is very important to iDotz.Net, a division on BRS Media Inc., which owns all information collected from the site and is a registrar of domain names. iDotz.Net also offers other supplementary products and services (the "Service"). We recognize your right to confidentiality and are committed to protecting your privacy. This privacy statement describes how we collect information, how we use the information we collect, and to whom and under what conditions we may disclose this information. This statement reflects our concern with your privacy. Please understand that the following statement applies to www.idot.net only. 
+#### What We Collect, and How:
 
-  When you use our Service, iDotz.Net asks for your first and last name, organization, city, state, zip code (or country and postal code for non-U.S. residents), telephone number, e-mail address, and credit card information. We may use this personally identifiable information to contact you about your account or other matters relating to the Service, such as to inform you about new features on our Site. We may also use this personally identifiable information to send you our newsletter or e-mail messages regarding products or services we think you might be interested in. (See below for instructions on how you can "opt out" of our newsletter or these e-mail messages.) These communications are essential to our relationship with you and to our ability to provide you with quality products and services that are responsive to your needs. At the same time, these communications, and your responses to them, give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use. When you utilize the Service, we may also ask you for a "screen name." Although we may not use it now, the screen name you select may appear on the web site in connection with future services we provide. 
+When you access the Service, we may (but under no obligation to) collect non-personally identifiable information such as, but not limited to, user data, browser type, log information and IP address using "cookies" or other methods.   
+A cookie is a piece of data stored on your computer holding information about you. This information may be gathered for all users and may be used by us to improve the Site, to offer a better experience using the Site, to offer more useful advertising or promotional material, etc.   
+You may configure your web-browser to accept or reject all or some cookies, per browser's definitions. However, in order to use some of the services you might have to enable accepting cookies from us. 
 
-  Like many other commercial web sites, our Site employs a standard technology called a "cookie" to collect information about how our Site is used, such as which pages are the most frequently visited by our customers. "Cookies" are small pieces of electronic information that are stored by your browser on your computer's hard drive. Cookies enable our systems to recognize your browser and provide personalized information and features such as pre-populated address forms and storage of selected items in your Shopping Cart between visits. Cookies are required for normal website functionality, and most web browsers automatically accept cookies, although you can usually change your browser to deactivate cookies by modifying your computer browser preferences. If you choose to deactivate cookies, please note that deactivation of cookies will sometimes hinder your ability to use some features available from the Service. Through the use of cookies, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of your access to various parts of the Site. We may collect the information passed along by your web browser that references the Web URL you linked from, the time, type of web browser being used, screen size, Internet speed of connection, the operating system/platform, and CPU speed. This information may be used to identify demographic trends and to provide information tailored to your interests. 
+  
 
-  Cookies may also be utilized by third parties who advertise or provide links on the Site. Due to the way the Internet technically operates, iDotz.Net cannot the control data collection activities by such third-party advertisers or linked web sites. You should contact these advertisers or web site operators if you have any questions about their use of the information they collect. Also, if you register a domain name through another registrar, you may receive a cookie from that registrar, but you will not receive a cookie from us. 
 
-Registrants may elect not to receive e-mail communications from iDotz.Net regarding other products or services provided by iDotz.Net or BRS Media Inc. To do so, please send an email to 
+When you post any content to the Site, we also may collect the following information: Your chosen nickname of that session, your Internet Protocol (IP) address, the time and date of such posting and the content of such post. This information, alongside any other non-identifiable information, is being stored by us and may be used subject to this Policy.  
+Apart from the mentioned above and the material you load on to the Site, the Site does not collect any details of any kind of its users
 
-[privacy@idotz.net](mailto:privacy@idotz.net) that reads, "Remove from E-mail List." You can also fax us at +1 (415) 677-4025 or send us mail at:
+Please note that such information or any part thereof may be available to other persons using the Site. You are specifically aware that we may allow access to some or all past content, information and posts as we may decide at any relevant time. Showing or hiding such information, content and posts may not allow you or anyone else any claim against us, for any cause whatsoever.  
+We may collect additional information from or about you in other ways not specifically described here. For example, we may collect information related to your contacts with us by email or by any other way.
 
-BRS Media Inc.  
-Attention: iDotz.Net Opting Out  
-760 Market St. Suite 958  
-San Francisco, CA 94102-2311
+#### Use of Information, Sharing and Disclosure:
 
- iDotz.Net understands that security is important to our users. The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. When you transmit personal information to us, we encrypt it using SSL (Secure Socket Layer), the industry standard for encryption software. Encryption provides a secure means to protect your information as it passes over the web to our server. iDotz.Net utilizes Thawte SSL Web Server Certificates to offer secure communications by encrypting all data to and from the site. You can verify this certificate by clicking here: 
+Please take notice that whenever you voluntarily post any content using the Site, that content can be accessed by anyone using the Internet and we cannot be and are not responsible to any result of such exposure.   
+Any hosting of content on the Site is NEVER private, and we may allow free access to the content at our discretion, including adding any content to the Site's index available to the users for further download and review.  
+We may use any of your non-identifying or personal information to: 
 
-iDotz.Net Certificate
+  * better personalize the Site to your and to other user's taste;
+  * provide the Service you request;
+  * offer better and more interesting services;
+  * manage the Site and resolve any relevant disputes, if applicable; 
+  * prevent potentially prohibited or illegal activities, and enforce our Terms and this Policy;
+  * send you targeted marketing, service update notices, and promotional offers, both from the Site or third parties; 
+  * exchange or transfer information to third parties who wish to offer you commercial and other benefits.
 
- iDotz.Net will use commercially available and acceptable means to protect any information you provide, but cannot ensure or warrant the security of any information you transmit to us from our products and services, and you do so at your own risk. iDotz.Net will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties.
 
-  As the registrar of domain names, we may make certain information about you available to the general public via our domain name look-up and directory "whois" service (e.g., name, address, telephone and email of the Registrant). Additionally, we may share the information stored on that database, as well as other information we collect or you provide, with our subsidiaries and other parties selected by us, including with the parties or circumstances including, but not limited to: 
 
-   · Agents or vendors who are responsible for handling your Account or performing  
-     other necessary service that you or we require. 
+We may use by ourselves or share information and content with third parties for the purpose of sending you promotional and advertising products and services in order to allow you a better and more targeted experience.  
+We may further disclose the information and content stored by us, including any personally identifiable information about you, in the following instances:
 
-   · Business partners whose services you may request or access on or through our  
-     Site. 
+  * We believe, in our sole discretion, that the law requires us or we have to respond to the legal authority of any relevant jurisdiction.
+  * We have been requested to do so by an authorized authority, by court order or by similar procedure;
+  * We believe, in our sole discretion, that your actions while you were using the Site violate our Terms, any law, any agreement or any third party's rights;
+  * We believe, in our sole discretion, that the disclosure of such information is necessary to prevent or minimize physical harm or financial loss, to report suspected illegal activity or may be interfering with the our rights or property, with those of other users or any third party. 
 
-   · Business partners or vendors who we believe offer products or services that may  
-     be of interest to you. 
 
-   · Transfer of ownership of our business or a part of our business. If our business  
-     or a part of our business is acquired, sold or transferred to another business,  
-     customer information may be a part of that acquisition, sale or transfer. 
 
- _Protection of iDotz.Net and Others_ : We may release account and other personal information when we are required to do so by law, court order or other government or law enforcement authority or regulatory agency, including ICANN; to enforce or apply our Services Agreement or other agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of BRS Media Inc., iDotz.Net, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+Any information collected by us may be stored and processed in Israel or in any other country in which we or our affiliates, subsidiaries or agents may maintain facilities, and by using the Service, you consent to any such transfer of information outside of your country.   
+We may sell or otherwise transfer your information to third parties to allow you a better and more targeted exposure to their products and services.  
+We may transfer any and all content, personal information and other information to a successor in interest that acquires rights to that information as a result of the sale, merger, acquisition or any other transaction with the Site or substantially all of its assets.   
+We may also make any use of the content you post on the Service, as detailed in our Terms.  
+By using the Site or Services, you are consenting to have your personal data transferred to and processed in Israel. 
 
- If you do not want us to share personally identifiable information about you with our business partners or vendors, you may send us e-mail at 
+#### Third Party Advertising on the Service
 
-[ privacy@idotz.net](mailto:privacy@idotz.net). You may not opt out from having your personal information displayed in our "whois" database.
+Advertisements that appear on the Service might be delivered to users by third party advertisers or partners. Such third parties may automatically receive your IP address and some other details when this happens. These third party advertisers may also use cookies, or other tracking technologies to offer you better services. In this way, they may gather certain information regarding the Internet use from your computer in order to send them more relevant and targeted advertising (such as what advertisements were viewed or clicked on). We do not have access to or control of those cookies that may be placed by the third party advertisers. This Policy does not cover those cookies or advertisers. **__**
 
-  We may enter into agreements to allow third party registrars of domain. When users register domain names through these third party registrars, we will transfer the registration information collected during the registration process to the domain Registry. We may also be required to submit this information to ICANN (Internet Corporation for Assigned Names and Numbers), or other regulatory bodies.
+#### Changing or Removing Information
 
-  Although iDotz.Net is committed to protecting your privacy, not all other Web sites are as conscientious. Therefore, iDotz.Net cannot be responsible for the content or privacy policies of other Web sites including those of advertisers to which it may link and those which link to iDotz.Net. This Privacy Policy applies only to the information collected by this Web site. We ask that you review the privacy policies of every online service you use before submitting personal information. 
+You may report any inaccuracies in personal information or other information which you wish to edit by e-mailing us at [webmaster@free-ringtones.cc](mailto:webmaster@free-ringtones.cc) . We will make a sincere effort to respond in a timely manner to your requests to correct inaccuracies.
 
-  We welcome your feedback. If you have questions or comments about our privacy policies, please feel free to send us an e-mail at 
+#### Links
 
-[privacy@idotz.net](mailto:privacy@idotz.net) or by mail at:
+The site may contain links to other websites. Of course the Site will not responsible for the privacy practices of those other web sites. Please be cautious when you use other websites and follow their privacy statement as well. 
 
-BRS Media Inc.  
-Attention: iDotz.Net Privacy Policy  
-760 Market St. Suite 958  
-San Francisco, CA 94102-2311
+#### Consent:
+
+By using the Service, you consent to the collection and use of the above-described information us or anyone on our behalf.
+
+#### Notification of Changes:
+
+We reserve the right to update this Policy in the same manner as updating our Terms.   
+It is your responsibility to review this Policy for changes and make sure you agree to each current policy. If you do not agree, please make no use of the Service as such use constitutes agreement to the updated Policy as well.. 
+
+#### Contacting Us:
+
+If you have questions or concerns regarding this Privacy Policy, you are invited to contact us by using the "[Contact Us](https://web.archive.org/web/20111101120132id_/http%3A//www.free-ringtones.cc/contactus.php)" links or by emailing us to 
+
+_[webmaster@free-ringtones.cc](mailto:webmaster@free-ringtones.cc)_
