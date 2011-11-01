@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515222746id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hachettebookgroup.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101114114id_/http%3A//www.hachettebookgroup.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Copyright, Trademark & Privacy Policy Hachette Book Group
 
@@ -130,7 +130,7 @@ When you are on our Web site you may have the opportunity to visit, or link to, 
 
 HBG reserves the right to change or update this Privacy Policy, or any other of our policies or practices, at any time, and will notify users of this Web site by posting such changed or updated Privacy Policy on this page. Any changes or updates will be effective immediately upon posting to this Web site. Under certain circumstances (for example, if a change impacts the way we treat a child’s Personal Information), we will also notify you of changes or updates to our Privacy Policy by additional means, such as posting a notice on the front page of our Web site or sending you an e-mail. If you are a parent, we will obtain your consent to such changes.
 
-This Web Site (“Web site”) is published and maintained by Hachette Book Group, Inc., with offices located at 1271 Avenue of the Americas, New York, NY 10020 (“HBG”).  HBG is referred to in this Privacy Policy as “we,” “us,” “our,” or similar pronouns.
+This Web Site (“Web site”) is published and maintained by Hachette Book Group, Inc., with offices located at 237 Park Avenue, New York, NY 10017 (“HBG”).  HBG is referred to in this Privacy Policy as “we,” “us,” “our,” or similar pronouns.
 
 This Privacy Policy governs the HBG Web site pages that are intended for children under the age of thirteen (13), specifically, the “fun and games” area(s) of the Children’s Book Nook area of the site and other areas of the site that contain online games and activities that children are intended to play online (not including areas where parents and teachers are intended to download activities for children).  For purposes of this Privacy Policy, the term “Web site” refers to these children’s-targeted areas of the Web site.
 
