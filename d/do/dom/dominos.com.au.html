@@ -1,31 +1,27 @@
-<!--The following is the downloaded HTML source of the dominos.com.au privacy policy that was archived on 2011-02-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110218124505id_/http%3A//www.dominos.com.au/corporate/privacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dominos.com.au privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102004803id_/http%3A//www.dominos.com.au/corporate/privacyPolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Domino's Pizza - Privacy and Policy
-</title><meta name="DC.Identifier" content="http://www.dominos.com.au"><meta name="description" content="Domino's Pizza Enterprises - delivering fresh, quality pizzas every time."><meta name="keywords" content="dominos pizza, domino's,pizza delivery, pizza online, hot pizza, fresh, quality pizzas, hot cell, home delivery, online ordering, cheese, australian, sydney, brisbane, melbourne, perth, darwin, hobart, adelaide, pickup, pick-up, takeaway, take away pizza"><meta name="Robots" content="INDEX, FOLLOW, ALL"><meta name="Revisit-After" content="7 Days"><meta name="DC.Format" content="html"><meta name="DC.Language" content="English"><meta name="Destination" content="public"><link href="/styles/style.css" rel="stylesheet" type="text/css"><link id="ctl00_ctl00_styleLayout" href="/styles/layout.css" rel="stylesheet" type="text/css"><link id="ctl00_ctl00_styleText" href="/styles/text.css" rel="stylesheet" type="text/css">
-    
-    
+</title>
+    <!-- CurrentDateTime : 2/11/2011 10:48:02 AM -->
+    <meta name="DC.Identifier" content="http://www.dominos.com.au"><meta name="description" content="Domino's Pizza Enterprises - delivering fresh, quality pizzas every time."><meta name="keywords" content="dominos pizza, domino's,pizza delivery, pizza online, hot pizza, fresh, quality pizzas, hot cell, home delivery, online ordering, cheese, australian, sydney, brisbane, melbourne, perth, darwin, hobart, adelaide, pickup, pick-up, takeaway, take away pizza"><meta name="Robots" content="INDEX, FOLLOW, ALL"><meta name="Revisit-After" content="7 Days"><meta name="DC.Format" content="html"><meta name="DC.Language" content="English"><meta name="Destination" content="public"><link rel="Shortcut Icon" href="/favicon.ico"><meta name="application-name" content="Domino's Pizza"><meta name="msapplication-tooltip" content="Awesome Pizza Order Online"><meta name="msapplication-starturl" content="./"><meta name="msapplication-navbutton-color" content="#e2373f"><meta name="msapplication-task" content="name=Online Ordering;action-uri=https://internetorder.dominos.com.au/?storepulseid=98001;icon-uri=./favicon.ico"><meta name="msapplication-task" content="name=Menu;action-uri=./menu/pizzas/;icon-uri=./favicon.ico"><meta name="msapplication-task" content="name=Vouchers;action-uri=./storefinder/?mode=DealsAndVouchers;icon-uri=./favicon.ico"><meta name="msapplication-task" content="name=Store Finder;action-uri=./storefinder/;icon-uri=./favicon.ico"><link href="/styles/style.css" rel="stylesheet" type="text/css"><link id="ctl00_ctl00_styleLayout" href="/styles/layout.css?v=1.1" rel="stylesheet" type="text/css"><link id="ctl00_ctl00_Link1" href="/styles/text_AU.css" rel="stylesheet" type="text/css">
     <!--[if gt IE 5.5]>
         <link id="ctl00_ctl00_styleIE" href="/styles/ie.css" rel="stylesheet" type="text/css" media="screen" />
     <![endif]-->
-    
     <!--[if lt IE 7]>
         <script type="text/javascript" src="/scripts/unitpngfix.js"></script>
     <![endif]-->
-
-    <!--<link rel="stylesheet" href="/styles/sIFR-print.css" type="text/css" media="print" />-->
-
     <script src="/scripts/sifr.js" type="text/javascript"></script>
 
     <!-- swf object -->
 
-    <script src="/scripts/swfobject-1.5.js" type="text/javascript"></script>
+    <script src="/scripts/swfobject_2_2.js" type="text/javascript"></script>
 
     <!-- for JQuery -->
     <script src="/scripts/jquery/jquery-1.2.3.pack.js" type="text/javascript"></script>
 
-    <script type="text/javascript">
+    <script type="text/javascript" language="javascript">
         
         //UpdateOrderOnline Button
         function UpdateOrderOnlineNoFlashButton(url)
@@ -35,19 +31,74 @@
             flashButton.innerHTML = flashButton.innerHTML + "<img src='/images/btn_orderOnline.png' alt='Order online' width='122' height='131' style='cursor:pointer;' onclick=javascript:window.open('" + url + "'); /></div>";
             
         }
-		
+        
+        function getQueryStringValue(url, queryVar)
+        {
+            var urlParts = url.split('?');
 
+            //no query string, return empty string
+            if (urlParts.length == 1)
+            {
+                return '';
+            }
+
+            //there is a query string - check for the variable
+            var queryStringParts = urlParts[1].split('&');
+            var returnValue = '';
+            for (var i = 0; i < queryStringParts.length; i++)
+            {
+                var queryVariableParts = queryStringParts[i].split('=');
+
+                if (queryVariableParts[0].toLowerCase() == queryVar.toLowerCase())
+                {
+                    returnValue = queryVariableParts[1];
+                    break;
+                }
+            }
+
+            return returnValue;
+        }
+
+        function dpeSwfobjectCallback(e)
+        {
+          $('a[@href*="https://internetorder.dominos.com.au/"]').each(function (index) {
+            var val = (e.success) ? "true" : "false";
+            var cu = $(this).attr("href");
+            var nu = "";
+            var qsv = getQueryStringValue(cu, "flashenabled");
+            if (qsv == '') {
+              var parts = cu.split('?');
+              if (parts.length > 1) {
+                nu = cu + '&';
+              }
+              else {
+                nu = cu + '?';
+              }
+              nu = nu + 'flashenabled=' + val;
+            }
+            else {
+              var newVal = val;
+              nu = cu.replace('flashenabled=' + qsv, 'flashenabled=' + newVal);
+            }
+            $(this).attr("href", nu);
+          });
+        }
+        
         
         //apply order online Button
         function ApplyOrderOnlineButtonFlash(url)
         {
-            var so = new SWFObject("/flash/button.swf", "core", "140px", "140px", "9.0.28", "#FFFFFF");
-            so.addVariable("varOrderOnlineLink", url);
-			so.addParam("menu", "false");
-			so.addParam("allowScriptAccess", "sameDomain");
-			so.addParam("scale", "scale");
-			so.addParam("wmode", "transparent");
-			so.write("flashButton");
+			    var flashvars = {};
+          flashvars.varOrderOnlineLink = url;
+			    var params = {};
+			    params.menu = "false";
+			    params.scale = "scale";
+			    params.wmode = "transparent";
+			    params.bgcolor = "#FFFFFF";
+			    params.allowscriptaccess = "sameDomain";
+			    var attributes = {};
+			    attributes.id = "core";
+			    swfobject.embedSWF("/flash/button.swf", "onlineOrderingAlt", "140", "140", "9.0.28", false, flashvars, params, attributes, dpeSwfobjectCallback);
         }
         
         //Go To Text Version
@@ -66,8 +117,13 @@
         }
         
         //Run Sifr on page runMasterSifr and runSifr
-        function InitialRunSifr()
-        {
+        function InitialRunSifr() {
+          try {
+            if (typeof (runPageSifrFirst) == "function") {
+              runPageSifrFirst();
+            }
+          } catch (e) { }
+
             try
             {
                 if (typeof(runMasterSifr) == "function")
@@ -102,21 +158,47 @@
 
     
 
-</head>
+
+
+    <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<style type="text/css" media="screen">#onlineOrderingAlt {visibility:hidden}</style></head>
 <body id="ctl00_ctl00_BodyTag" class="site_AU secLvl">
+    
+    
+
 	
     
 	 
 
     <form name="aspnetForm" method="post" action="/corporate/privacyPolicy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2D2QWAmYPZBYCZg9kFgICAw8WAh4FY2xhc3MFDnNpdGVfQVUgc2VjTHZsFgICARBkZBYKAgEPFgIeBGhyZWYFFi9tZW51L2dvb2RjaG9pY2VyYW5nZS9kAgQPFgIfAAUGYWN0aXZlZAIGDxYEHwEFHmh0dHA6Ly93d3cuZG9taW5vc2pvYnMuY29tLmF1Lx4GdGFyZ2V0BQZfYmxhbmtkAgcPZBYGAgMPFgIeB1Zpc2libGVnZAINDxYCHwNoZAIPD2QWBAIBDxYCHwNoZAIDDxYCHwNoZAIJDw8WAh4EVGV4dAUMVGV4dCBWZXJzaW9uZGRkoxlP4l6ujz4ygWuVgbUHmAYOaSo=">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2D2QWAmYPZBYCZg9kFgICAw8WAh4FY2xhc3MFDnNpdGVfQVUgc2VjTHZsFgICARBkZBYKAgEPFgIeBGhyZWYFDS9tZW51L3Bpenphcy9kAgQPFgIfAAUGYWN0aXZlZAIGDxYEHwEFHmh0dHA6Ly93d3cuZG9taW5vc2pvYnMuY29tLmF1Lx4GdGFyZ2V0BQZfYmxhbmtkAgcPZBYCAgMPFgIeB1Zpc2libGVnZAIJDw8WAh4EVGV4dAUMVGV4dCBWZXJzaW9uZGRkRGmZm+UBnslzRa7gKGu/8AQNN3E=">
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
 
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLjkaypBgLzxqm+B1iyfyxAMUBbUhzj2LR0cpQ93qjf">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKqmZt+AvPGqb4HES53LsXgIp1jeY+6qt0G3f1qMcw=">
 </div>
+    <div class="topbg"></div>
     <div id="wrapper">
         <div class="bgTop">
             <div class="bgBottom">
@@ -125,7 +207,7 @@
                     <div id="navigation" class="overflow">
                         <ul class="mainNav overflow">
                             <li class="home"><a href="/" id="ctl00_ctl00_navHome">Home</a></li>
-                            <li class="menu"><a href="/menu/goodchoicerange/" id="ctl00_ctl00_navMenu">Menu</a></li>
+                            <li class="menu"><a href="/menu/pizzas/" id="ctl00_ctl00_navMenu">Menu</a></li>
                             <li class="deals"><a href="/storefinder/?mode=DealsAndVouchers" id="ctl00_ctl00_navDealsVoucher">Deals &amp; Vouchers</a></li>
                             <li class="store"><a href="/storefinder/" id="ctl00_ctl00_navStoreFinder">Store Finder</a></li>
                         </ul>
@@ -144,16 +226,20 @@
                 <ul id="ctl00_ctl00_ContentBlockPlaceHolder_MenuListInsideDominos">
                     <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInVisionMission"><a href="/corporate/inside/visionmission.aspx">
                         Vision &amp; Mission</a></li>
-                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInPartners"><a href="/corporate/inside/partners.aspx">Partners</a></li>
+                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInPartners"><a href="/corporate/inside/partners.aspx">Business Partners</a></li>
                     <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInCommunity"><a href="/corporate/inside/community.aspx">Community
                         Initiatives</a></li>
                     <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInSponsorship"><a href="/corporate/inside/sponsorship.aspx">
                         Sponsorship</a></li>
                     <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInFoodSafety"><a href="/corporate/inside/FoodSafety.aspx">
                         Food Safety</a></li>
+                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_Li2"><a href="http://www.dominos.com.au/thejourney/">The Journey</a></li>
+                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInAndroidApp"><a href="/corporate/inside/AndroidApp.aspx">Domino's Android App</a></li>
+                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInMobileOrderingSite"><a href="/corporate/inside/MobileOrderingSite.aspx">Domino's Mobile Ordering Site</a></li>
                     <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInIphoneApp"><a href="/corporate/inside/iphoneapp.aspx">Domino's iPhone App</a></li>
+                    <li id="ctl00_ctl00_ContentBlockPlaceHolder_Li1"><a href="/corporate/inside/pizzatracker.aspx">Pizza Tracker</a></li>
                     <li id="ctl00_ctl00_ContentBlockPlaceHolder_mInGooChoiceRange"><a href="/corporate/inside/goodchoicerange.aspx">Good Choice Range</a></li>
-                    </ul>
+                </ul>
             </li>
             <li id="navNews"><a href="/corporate/news/News.aspx">News</a>
                 
@@ -164,7 +250,9 @@
             <li id="navInvestors"><a href="/corporate/investors/investors.aspx">Investors</a>
                 
             </li>
-            
+            <li id="navJoinOurTeam"><a href="/corporate/team/joinourteam.aspx">Join our team</a>
+                
+            </li>
             <li id="navContact"><a href="/corporate/contact/contact.aspx">Contact</a>
                 
             </li>
@@ -269,11 +357,11 @@
                             <div id="orderOnlineFlash">
                             <!-- FLASH BUTTON -->
 	                            <div id="flashButton">
-		                            <div class="noflash">
-			                            <a href="https://internetorder.dominos.com.au/estore/home/estore.asp?country=au&amp;storepulseid=98001" target="_blank" class="orderBtn"><strong>Order Online</strong></a>
+		                            <div id="onlineOrderingAlt" class="noflash" style="visibility: visible;">
+			                            <a href="https://internetorder.dominos.com.au/?storepulseid=98001&amp;utm_campaign=Public_Site&amp;utm_medium=Order&amp;utm_source=ASP.corporate_privacypolicy_aspx&amp;flashenabled=false" target="_blank" class="orderBtn"><strong>Order Online</strong></a>
 		                            </div>
 	                            </div>
-	                        <!-- END FLASH BUTTON -->
+	                          <!-- END FLASH BUTTON -->
 	                        </div>
                         </div>
                         
@@ -285,27 +373,49 @@
             </div>
         </div>
     </div>
+    
     <div id="footer" class="overflow">
-            
         <ul>
             <li class="copyright">Copyright Domino's Pizza Enterprises Ltd 2008</li>
+            <li><a href="https://internetorder.dominos.com.au/accessible/?storepulseid=98001&amp;utm_campaign=Public_Site&amp;utm_medium=Order&amp;utm_source=ASP.corporate_privacypolicy_aspx&amp;flashenabled=false" target="_blank" class="accessible">Accessible Online Ordering</a></li>
             <li>
                 <a href="http://www.dominospizza.co.nz/">New Zealand Website</a>
             </li>
-            <li><a href="/corporate/contact/feedbackform.aspx">Submit Feedback</a></li>
-            <li><a href="/corporate/privacyPolicy.aspx">Domino's Privacy Policy</a></li>
+            <li><a href="https://secure.dominos.com.au/feedback/corporate/contact/feedbackform.aspx">Submit Feedback</a></li>
+            <li class="last"><a href="/corporate/privacyPolicy.aspx">Domino's Privacy Policy</a></li>
+        </ul>
+        <ul>
+            <li><a href="/corporate/termsConditions.aspx">Website and Online Ordering Terms and Conditions</a></li>
             <li><a id="ctl00_ctl00_lnkChangeVersion" href="javascript:__doPostBack('ctl00$ctl00$lnkChangeVersion','')">Text Version</a></li>
             <li><a href="/corporate/eclub.aspx"><em>e</em>CLUB</a></li>
-            <li class="last"><a href="/corporate/contact/contact.aspx">Contact Us</a></li>
-        </ul>
-        
-        <ul>
+            <li><a href="/corporate/contact/contact.aspx">Contact Us</a></li>
             <li class="last"><a href="/menu/nutritional/">Nutritional Information</a></li>
         </ul>
+        
         <p class="call">
 					1300 DOMINOS<br>(1300 366 466)
 					<span style="background-image: url(/images/bg_1300dominos.gif)">&nbsp;</span>
 				</p> 
+        <div class="socialMedia">
+            <div class="mediaContainer">
+            <div class="socialButton">
+                <g:plusone size="medium" count="true"></g:plusone>
+                <div class="clear"><!-- // --></div>
+            </div>
+            <div class="socialButton">
+                <iframe src="http://www.facebook.com/plugins/like.php?href=facebook.com%2FDominosAustralia&amp;send=false&amp;layout=button_count&amp;width=90&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:90px; height:21px;" allowtransparency="true"></iframe>
+                <div class="clear"><!-- // --></div>
+            </div>
+           </div>
+          
+            <div class="youtube_market"><a href=" http://www.youtube.com/DominosAustralia" target="_blank" title="Visit us on YouTube"><img src="/images/socialmedia/youtube_channel.jpg" alt="Find out more"></a></div>
+            <div class="iphone_market">
+                <a title="Download Dominos iPhone App now!" href="http://itunes.apple.com/au/app/dominos/id336882722?mt=8" target="_blank"><img src="/images/socialmedia/iphone_market.jpg" alt="Find out more"></a>    
+             </div>
+            <div class="android_market"><a title="Download Domino's NEW Android App now!" href="http://market.android.com/details?id=au.com.dominos.olo.android.app" target="_blank"><img src="/images/socialmedia/google_market.jpg" alt="Find out more"></a></div>
+            <div class="clear"><!-- // --></div>
+        </div>
+        <div class="clear"></div>
     </div>
     
 
@@ -336,11 +446,10 @@
 
 <script type="text/javascript">
 //<![CDATA[
-InitialRunSifr();setCorporateNavigationMenu('navDefault');ApplyOrderOnlineButtonFlash('https://internetorder.dominos.com.au/estore/home/estore.asp?country=au&storepulseid=98001');//]]>
+InitialRunSifr();setCorporateNavigationMenu('navDefault');ApplyOrderOnlineButtonFlash('https%3a%2f%2finternetorder.dominos.com.au%2f%3fstorepulseid%3d98001%26utm_campaign%3dPublic_Site%26utm_medium%3dOrder%26utm_source%3dASP.corporate_privacypolicy_aspx');//]]>
 </script>
 </form>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
     _uacct = "UA-490193-1";
     urchinTracker();
@@ -358,8 +467,7 @@ InitialRunSifr();setCorporateNavigationMenu('navDefault');ApplyOrderOnlineButton
     var google_conversion_label = "signup";
 //-->
 </script>
-<script language="JavaScript" type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
-</script>
+<script language="JavaScript" type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
 <noscript>
 <img height="1" width="1" border="0" alt="" src="http://www.googleadservices.com/pagead/conversion/1046965731/imp.gif?value=1.0&label=signup&script=0" />
 </noscript>
@@ -373,6 +481,7 @@ InitialRunSifr();setCorporateNavigationMenu('navDefault');ApplyOrderOnlineButton
 
 <!-- end beacon code -->
 
+   <script language="Javascript">       amgdgt_ctr = "5622"; amgdgt_t = "x";</script><script type="text/javascript" src="http://cdn.amgdgt.com/base/js/v1/amgdgt.js"></script><noscript><iframe src="http://ad.amgdgt.com/ads/?f=i&t=x&ctr=5622&rnd=%n" width="1" height="1" frameborder="0"></iframe></noscript>
 
 
 </body></html>
