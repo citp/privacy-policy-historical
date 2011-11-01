@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nitropdf.com privacy policy that was archived on 2011-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110622203654id_/http%3A//www.nitropdf.com/professional/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nitropdf.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121859id_/http%3A//www.nitropdf.com/professional/privacy_policy.htm) for the most accurate reproduction.*
 
 # Nitro PDF Software privacy policy
 
@@ -109,7 +109,7 @@ We will retain your information for as long as your account is active or as need
 
 We only collect personal information from our website if you submit details to us via email or forms on our website. The information collected is limited to your email address and the contents of any message you may send to us. Personal information collected from our website will only be used for the purpose for which you have provided it and it will not be added to a mailing list or used for any other purpose without your consent. Our website uses various types of cookies and other tracking technologies:
 
-  * Per-session cookies: Used to assess and improve the performance of the web site for our users. These cookies are anonymous and in no way no way identify users. 
+  * Per-session cookies: Used to assess and improve the performance of the web site for our users. These cookies are anonymous and in no way identify users. 
   * Persistent cookies: Used to make areas of the site that require a person to be logged in easier to use. For example, managing Expert Support enquiries.
   * Third Party Cookies: The use of cookies by third parties such as our tracking utility company and service providers are not covered by our privacy statement. We do not have access or control over these cookies. 
 
