@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923120221id_/http%3A//livebinders.com/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livebinders.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101122917id_/http%3A//livebinders.com/welcome/privacy) for the most accurate reproduction.*
 
 # LiveBinders - the Knowledge Sharing Place
 
@@ -58,7 +58,7 @@ We may update this privacy policy from time to time. If under any such update we
 
 ## Uploaded Content
 
-To learn more about Document Security for your uploaded content click [here](https://web.archive.org/web/20100923120221id_/http%3A//livebinders.com/welcome/document_security).
+To learn more about Document Security for your uploaded content click [here](https://web.archive.org/web/20111101122917id_/http%3A//livebinders.com/welcome/document_security).
 
 More information 
 
