@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the website-in-a-weekend.net privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223073315id_/http%3A//website-in-a-weekend.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the website-in-a-weekend.net privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101161718id_/http%3A//website-in-a-weekend.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Website In A Weekend
-
-(Reading time: 2 – 2 minutes)
 
 #### The Website In A Weekend Privacy Policy
 
