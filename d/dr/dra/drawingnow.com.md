@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2007-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071221012227id_/http%3A//www.drawingnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134557id_/http%3A//www.drawingnow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # DrawingNow - How to draw tutorials
 
@@ -31,7 +31,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 We use outside ad companies to display ads on our site. Ads may contain cookies, and appear to be coming from our site, but in reality they are coming from our partners who are serving ads on our site. Here is a list of advertising networks with whom we have relationships: 
 
   * Google
-  * Commision Junction
+  * Burst Media
   * Casale Media 
   * Fastclick
 
