@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122101708id_/http%3A//www.sitepen.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitepen.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101232034id_/http%3A//www.sitepen.com/about/privacy.php) for the most accurate reproduction.*
 
 # SitePen - Privacy Policy
 
 ## Our legal team makes us do this...
 
-SitePen, Inc. (“SitePen”, "we," "us," or "our") is committed to respecting the privacy rights of users of our products, services and web sites, such as http://sitepen.com (including each subdomain, the “Site”) and our software support services (the “Services”). We created this Privacy Policy to give you confidence and describe how we treat personal information as you visit and use our Site and Services. 
+SitePen, Inc. (“SitePen”, “we,” “us,” or “our”) is committed to respecting the privacy rights of users of our products, services and web sites, such as http://sitepen.com (including each subdomain, the “Site”) and our software support services (the “Services”). We created this Privacy Policy to give you confidence and describe how we treat personal information as you visit and use our Site and Services. 
 
 See our [Contact page](https://web.archive.org/contact/) to contact us.
 
