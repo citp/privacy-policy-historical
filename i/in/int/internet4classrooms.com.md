@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424082233id_/http%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internet4classrooms.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123908id_/http%3A//www.internet4classrooms.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at Internet 4 Classrooms
 
@@ -19,6 +19,8 @@
 > With respect to cookies: We use cookies to record session information, in order to alert visitors to new areas that we think might be of interest to them when they return to our site.
 > 
 > If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
+> 
+> Advertising: We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org. 
 > 
 > With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
 > 
