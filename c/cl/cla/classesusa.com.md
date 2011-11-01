@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628130932id_/http%3A//classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101130325id_/http%3A//www.classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
