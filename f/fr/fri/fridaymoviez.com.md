@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fridaymoviez.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230091256id_/http%3A//fridaymoviez.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fridaymoviez.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141122id_/http%3A//fridaymoviez.com/privacy-policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY - FRIDAY MOVIEZ ENTERTAINMENT GUARANTEED
 
