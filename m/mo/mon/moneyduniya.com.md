@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyduniya.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425053909id_/http%3A//www.moneyduniya.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyduniya.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101162606id_/http%3A//www.moneyduniya.com/privacy-policy.html) for the most accurate reproduction.*
 
 # moneyduniya.com - Privacy Policy
 
