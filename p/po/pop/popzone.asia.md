@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popzone.asia privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626161536id_/http%3A//www.popzone.asia/Contact/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popzone.asia privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101110201id_/http%3A//www.popzone.asia/Contact/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # popzone.asia | Free Classifieds, Free Ads, Free advertisement, Business Opportunity, Khmer, Cambodia, Asia, Phnom Penh, Directory
 
