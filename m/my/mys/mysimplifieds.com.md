@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysimplifieds.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629003949id_/http%3A//www.mysimplifieds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysimplifieds.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102002456id_/http%3A//www.mysimplifieds.com/privacy-policy) for the most accurate reproduction.*
 
 # mySimplifieds Privacy Policy - mySimplifieds.com
 
