@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jfklibrary.org privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223120527id_/http%3A//www.jfklibrary.org/About-Us/Privacy-Terms-Accessibility.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jfklibrary.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003103id_/http%3A//www.jfklibrary.org/About-Us/Privacy-Terms-Accessibility.aspx) for the most accurate reproduction.*
 
 # Privacy, Terms of Use, Accessibility - John F. Kennedy Presidential Library & Museum
 
