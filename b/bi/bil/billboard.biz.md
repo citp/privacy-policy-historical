@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the billboard.biz privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424212728id_/http%3A//www.billboard.biz/bbbiz/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the billboard.biz privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101115031id_/http%3A//www.billboard.biz/bbbiz/footer/privacy-policy) for the most accurate reproduction.*
 
 # Billboard Music Charts - Album Sales - Top 100 - Billboard.biz
 
