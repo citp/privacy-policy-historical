@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membershipmillionaire.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218000302id_/http%3A//www.membershipmillionaire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershipmillionaire.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101121150id_/http%3A//www.membershipmillionaire.com/PrivacyPolicy/cms/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy MembershipMillionaire.com
 
@@ -58,7 +58,7 @@ We adhere to the Children's Privacy Act. You must be 18 years of age to join or 
 
 **ENFORCEMENT**
 
-If for some reason you believe MemberSpeed, Inc has not adhered to these principles, please notify us at: [http://www.MMEhelp.com](http://www.mmehelp.com/), support @ membershipmillionaire.com or by certified mail, return receipt requested, [http://www.MMEhelp.com](http://www.mmehelp.com/) or by certified mail, return receipt requested, 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+If for some reason you believe MemberSpeed, Inc has not adhered to these principles, please notify us at: [Lyford Support](mailto:support1@lyfordsupport.com?subject=Membership%20Millionaire%20Support), 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States. We will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
 
 **ELECTRONIC PRODUCT REGISTRATION**
 
@@ -80,7 +80,7 @@ We occasionally hire other companies to provide limited services on our behalf, 
 
 Except as otherwise provided in this Privacy Policy, MemberSpeed, Inc will not share your personal information with any third parties without your consent. 
 
-MemberSpeed, Inc will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on MemberSpeed, Inc or the site; (b) protect and defend the rights or property of Power House Technology, LLC and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
+MemberSpeed, Inc will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on MemberSpeed, Inc or the site; (b) protect and defend the rights or property of MemberSpeed, Inc and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
 
 If your information is lost or stolen, you must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly.
 
