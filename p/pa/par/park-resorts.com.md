@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the park-resorts.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527045701id_/http%3A//www.park-resorts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the park-resorts.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101141637id_/http%3A//www.park-resorts.com/privacy-policy) for the most accurate reproduction.*
 
 # Park Resorts - Privacy Statement
 
