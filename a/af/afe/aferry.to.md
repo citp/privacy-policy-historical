@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430105047id_/http%3A//www.aferry.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aferry.to privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101105542id_/http%3A//www.aferry.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # AFerry.com Privacy Policy
 
@@ -20,4 +20,4 @@ The Travel Gateway Ltd uses Cookies to track your use of the website and provide
 
 The Travel Gateway Ltd reserves the right to amend or modify this Privacy Policy Statement at any time and in response to changes in applicable data protection and privacy legislation. If you have any enquiries about The Travel Gateway Ltd data protection and privacy policy or practices or you would like obtain details of the personal information we may hold about you. Please write to: 2Morrow Court, Sutton Courtenay, OX14 4FH, Oxfordshire, England. 
 
-All web sites owned by The Travel Gateway Ltd and its content is the copyright of The Travel Gateway Ltd. © 2010 All Rights Reserved. 
+All web sites owned by The Travel Gateway Ltd and its content is the copyright of The Travel Gateway Ltd. &copy 2010 All Rights Reserved. 
