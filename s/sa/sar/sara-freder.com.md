@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sara-freder.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629075352id_/http%3A//www.sara-freder.com/html/statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sara-freder.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102005531id_/http%3A//www.sara-freder.com/html/statement.html) for the most accurate reproduction.*
 
 # 
 
@@ -6,13 +6,9 @@
 
 **The Sara Freder web site has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site:[http://www.sara-freder.com](http://www.sara-freder.com/)**
 
-####  Advertisers 
+####  Advertisers : **We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  **
 
-**We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information.  **
-
-####  Registration Forms 
-
-**Our site's registration form requires users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers), unique identifiers (like their social security number), and demographic information (like their zip code, age, or income level).**
+####  Registration Forms : **Our site's registration form requires users to give us contact information (like their name, email, and postal address), financial information (like their bank account or credit card numbers) and demographic information (like their zip code, age, or income level).**
 
 **Contact information from the registration forms is used to get in touch with the customer when necessary.**
 
@@ -22,9 +18,7 @@
 
 **Demographic and profile data (name, email, private address, sex, age, date time and place of birth) is also collected at our site. Such information   stays in our database and are not sold/given/rented to any exterior web site**
 
-####  Order Forms 
-
-**Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, place and date of birth).**
+####  Order Forms : **Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, place and date of birth).**
 
 **Contact information from the order forms is used to get in touch with the visitor when necessary.**
 
@@ -34,21 +28,20 @@
 
 **Demographic and profile data (name, email, private address, sex, age, date time and place of birth) is also collected at our site. Such information   stays in our database and are not sold/given/rented to any exterior web site**
 
-####  **External Links**
+####  **External Links** : **This site contains links to other sites (banners, text links, etc). Sara Freder is in no way responsible for the privacy practices or the content of such Web sites.**
 
-**This site contains links to other sites (banners, text links, etc). Sara Freder is in no way responsible for the privacy practices or the content of such Web sites.**
+####  **Security** : **This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Payment is secured through secure SSL pages (partnership with THAWTE).   **
 
-####  **Security**
+####  Children's Guidelines : **This site does not permit anyone under 18 to subscribe or buy any of our products. This site DO NOT bill or charge people under 18, any person who doesn't meet the age criteria is immediately erased from our database  **
 
-**This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Payment is secured through secure SSL pages (partnership with THAWTE).   **
+##  Contacting the Web Site : 
 
-####  Children's Guidelines 
+**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact :** [ **webmaster@webjc.com** ](mailto:webmaster@webjc.com)
 
-**This site does not permit anyone under 18 to subscribe or buy any of our products. This site DO NOT bill or charge people under 18, any person who doesn't meet the age criteria is immediately erased from our database  **
+Mme Sara Freder - Le Web -   
+BP 94   
+109 Rue du General de Gaulle   
+78513 Rambouillet Cedex FRANCE  
+Fax : +33 1 30 88 85 41   
+Copyright Â© 1997-2011 [Sara Freder](https://web.archive.org/) Inc. All rights reserved.   
 
-##  Contacting the Web Site 
-
-**If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:  
-**
-
-[ **webmaster@webjc.com** ](mailto:webmaster@webjc.com)
