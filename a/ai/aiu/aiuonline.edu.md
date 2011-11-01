@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2010-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101027170103id_/http%3A//www.aiuonline.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125901id_/http%3A//www.aiuniv.edu/Privacy) for the most accurate reproduction.*
 
-# American InterContinental University
+# Privacy
 
 The Effective Date of this Privacy Policy is April 13, 2009.
 
-This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation, a Delaware corporation ("Career Education Corporation"). Please read the following sections carefully, as they contain the Privacy Policies covering the use of the Sites. Additionally, you should review our [Legal Terms and Conditions](https://web.archive.org/terms_conditions.aspx). Inquiries or concerns regarding this Privacy policy or the Legal Terms and Conditions may be sent by any of the following: via e-mail to [privacymatters@careered.com](mailto:privacymatters@careered.com) or by mail to Privacy Matters, Career Education Corporation, 2895 Greenspoint Parkway, Suite 600, Hoffman Estates, IL 60196.
+This and certain other linked web pages on servers owned by Career Education Corporation (otherwise noted as the "Sites") are owned and operated by Career Education Corporation, a Delaware corporation ("Career Education Corporation"). Please read the following sections carefully, as they contain the Privacy Policies covering the use of the Sites. Additionally, you should review our [Legal Terms and Conditions](https://web.archive.org/Terms). Inquiries or concerns regarding this Privacy policy or the Legal Terms and Conditions may be sent by any of the following: via e-mail to [privacymatters@careered.com](mailto:privacymatters@careered.com) or by mail to Privacy Matters, Career Education Corporation, 2895 Greenspoint Parkway, Suite 600, Hoffman Estates, IL 60196.
 
-PLEASE READ THE FOLLOWING PRIVACY POLICY (OTHERWISE NOTED AS THIS "AGREEMENT") CAREFULLY BEFORE USING THE SITES. BY USING THE SITES, YOU SIGNIFY YOUR ASSENT TO THIS AGREEMENT. IF YOU DO NOT ASSENT TO THIS AGREEMENT, PLEASE DO NOT USE THE SITE: <http://www.aiuonline.edu/>.
+PLEASE READ THE FOLLOWING PRIVACY POLICY (OTHERWISE NOTED AS THIS "AGREEMENT") CAREFULLY BEFORE USING THE SITES. BY USING THE SITES, YOU SIGNIFY YOUR ASSENT TO THIS AGREEMENT. IF YOU DO NOT ASSENT TO THIS AGREEMENT, PLEASE DO NOT USE THE SITE: <http://www.aiuniv.edu/>.
 
-At Career Education Corporation, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: <http://www.aiuonline.edu/>
+At Career Education Corporation, we share your concerns about privacy. We have created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for the site: <http://www.aiuniv.edu/>
 
 ### IP ADDRESS
 
@@ -32,11 +32,11 @@ The Sites have security measures in place to protect against the loss, misuse an
 
 ### LINKS TO OTHER WEB SITES
 
-The Sites contain links to other web sites that are not owned or operated by Career Education Corporation. Career Education Corporation is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our [Legal Terms and Conditions](https://web.archive.org/terms_conditions.aspx)).
+The Sites contain links to other web sites that are not owned or operated by Career Education Corporation. Career Education Corporation is not responsible for the privacy policies or practices of third parties or the content or security of such web sites. (See the Disclaimers section in our [Legal Terms and Conditions](https://web.archive.org/Terms)).
 
 ### CHANGES TO THIS PRIVACY POLICY
 
-This privacy policy describes the types of information we currently collect, and the ways we use and protect that information. From time to time, we may collect different types of information and use that information in different ways - for example, when we add features or services to www.careered.com. In these cases, we may edit this policy to explain the new practices. Because protecting your privacy is very important to us, we do not expect major changes in policy. However, if we do make significant changes in our practices, we will include announcements on the <http://www.aiuonline.edu/> home page so that you will know to review the revised policy.
+This privacy policy describes the types of information we currently collect, and the ways we use and protect that information. From time to time, we may collect different types of information and use that information in different ways - for example, when we add features or services to www.careered.com. In these cases, we may edit this policy to explain the new practices. Because protecting your privacy is very important to us, we do not expect major changes in policy. However, if we do make significant changes in our practices, we will include announcements on the <http://www.aiuniv.edu/> home page so that you will know to review the revised policy.
 
 ### CONTACT US
 
@@ -51,16 +51,3 @@ Career Education Corporation
 Suite 600  
 Hoffman Estates, Illinois 60195  
 Phone: 847-781-3600
-
-  
-
-
-## Request More Info!
-
-Tell us more about yourself and specify your campus and program of interest. An admissions representative will contact you to provide you with more information. 
-
-*Required Fields
-
-###  Step 2 of 2
-
-*How did you hear about us?
