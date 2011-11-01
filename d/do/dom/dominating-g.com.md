@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominating-g.com privacy policy that was archived on 2010-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100819110043id_/http%3A//www.dominating-g.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominating-g.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101113126id_/http%3A//www.dominating-g.com/privacy.html) for the most accurate reproduction.*
 
 # Dominating Google - Conquer Page One and Capture HUGE PROFITS!
 
