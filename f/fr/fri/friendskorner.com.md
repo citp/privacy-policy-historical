@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the friendskorner.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601171905id_/http%3A//www.friendskorner.com/forum/page-1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendskorner.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101120855id_/http%3A//www.friendskorner.com/forum/page-1.html) for the most accurate reproduction.*
 
-# FriendsKorner Forum, Pakistani Media, Politics and Urdu Shayari Forum
+# FriendsKorner - Pakistani Media Forum
 
 Untitled Document
 
