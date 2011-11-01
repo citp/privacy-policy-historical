@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628190649id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonproject.org privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101152749id_/http%3A//reason.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Reason Magazine
 
