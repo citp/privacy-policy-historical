@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classifiedflyerads.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514172437id_/http%3A//www.classifiedflyerads.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classifiedflyerads.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101134359id_/http%3A//www.classifiedflyerads.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Classified Flyer Ads
 
