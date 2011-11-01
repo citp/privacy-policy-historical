@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the fido.ca privacy policy that was archived on 2011-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110527185346id_/http%3A//www.fido.ca/web/content/terms/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fido.ca privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101235426id_/http%3A//www.fido.ca/web/content/terms/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	
 	
-		<style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style></head><body class="bea-portal-body" onload="initSkin();"><div class="textAlignRight">
+		</head><body class="bea-portal-body" onload="initSkin();"><div class="textAlignRight">
 		  
 
 
@@ -49,16 +49,15 @@
 		<meta name="google-site-verification" content="AGLu04VepsV3B9RCgFUDCJi0CxPxeUvHTOLVv0Z2ytU">
 		
 		
+<link rel="stylesheet" href="/cms/v45/css/gardenHeader.css" type="text/css">
 		
-		
-		<link rel="stylesheet" href="/web/css/endeca_fido.css" type="text/css">
+
+<link rel="stylesheet" href="/web/css/endeca_fido.css" type="text/css">
 		
 
 <style type="text/css">@import url(/cms/v45/css/conditions.css);</style>
 <script type="text/javascript" language="javascript" src="/cms/v45/js/conditions.js"></script>
 
-<script src="/cms/v45/js/cufon-yui.js" type="text/javascript"></script>
-<script src="/cms/v45/js/AlteHaasGrotesk.font.js" type="text/javascript"></script>
 		
 		<link rel="stylesheet" href="/cms/v45/css/userstyles_v45.css" type="text/css">
 		
@@ -215,6 +214,9 @@
 
 
 
+
+
+
  
 
 
@@ -230,6 +232,14 @@
 <script type="text/javascript">
 	<!---//
       $(document).ready(function(){
+      if (document.getElementById('searchBtn') != null) {
+      	var srcImage = $("#searchBtn").css("background-image");
+      	srcImage = srcImage.replace(/url/i,'');
+      	srcImage = srcImage.replace('(','');
+      	srcImage = srcImage.replace(')','');
+      	srcImage = srcImage.replace(/"/g,'');
+      	$("#searchBtn").attr("src",srcImage);
+      	}
             $("#Ntt").autocomplete("/web/suggest_fido.jsp?_nfpb=true&_pageLabel=fido_search", {minChars:3,highlight:false,selectFirst:false,max:25,width:200,leftoffset:56} );
       });
 	  //-->
@@ -307,15 +317,6 @@
 </script>
 <script type="text/javascript" src="/web/framework/skins/garden/js/jquery.badBrowser.js"></script>
 <script type="text/javascript">var clientLanguage = 'en';</script>
-<style type="text/css">
-.textItem 
- { 
-   position:absolute; 
-   height:27px;
-   padding: 7px 0px 0px 5px;
- } 
-
-.browserWarning{background-color: #fcfdde;width: 100%;border-top: solid 1px #000;border-bottom: solid 1px #000;text-align: center;padding:5px 0px 5px 0px;}.browserWarning a:link, .browserWarning a:active, .browserWarning a:visited{color:#267CAD;text-decoration:none;}</style>
 
 
 		
@@ -332,6 +333,45 @@
 
 
 
+
+
+<div id="browserWarning">
+	    <center>
+	        <div style="width: 410px;">
+	            <b style="font-size: 12px;">The version of Internet Explorer you are currently using is outdated.</b>
+	            <br>
+	            <br>You will still be able use our site, but certain new features may not work properly.
+	            <br>We recommend that you upgrade your browser.
+	            <br>
+	            <br><div style="text-align: left;">Just click on the below icons to download the latest version of Internet Explorer or any other browser of your choice.</div>
+	            <br>
+	            <table border="0" cellpadding="0" cellspacing="5" style="font-size: 9px; text-align: center;">
+	                <tbody><tr align="center">
+	                    <td><a class="badBrowser" href="http://www.microsoft.com/canada/windows/internet-explorer/oie9/default.aspx?wt.srch=1"><img src="/web/framework/skins/garden/images/ie_y_70x60.jpg" height="60" width="70" alt="Internet Explorer" border="0"><br>Internet Explorer</a></td>
+	                    <td><a class="badBrowser" href="http://www.mozilla.com/en-US/firefox/fx/"><img src="/web/framework/skins/garden/images/ff_y_70x60.jpg" height="60" width="70" alt="Firefox" border="0"><br>Firefox</a></td>
+	                    <td><a class="badBrowser" href="http://www.google.com/chrome/"><img src="/web/framework/skins/garden/images/chrome_y_70x60.jpg" height="60" width="70" alt="Chrome" border="0"><br>Chrome</a></td>
+	                    <td><a class="badBrowser" href="http://www.apple.com/safari/"><img src="/web/framework/skins/garden/images/safari_y_70x60.jpg" height="60" width="70" alt="" border="0"><br>Safari</a></td>
+	                    <td><a class="badBrowser" href="http://www.opera.com/"><img src="/web/framework/skins/garden/images/opera_y_70x60.jpg" height="60" width="70" alt="" border="0"><br>Opera</a></td>
+	                </tr>
+	            </tbody></table>
+	            <br><center><a class="badBrowser" id="browserWarningClose" href="javascript: browserWarningClose();">[close]</a></center>
+	        </div>
+	    </center>
+</div>
+
+
+<div id="browserWarningSimple">
+    <center>
+        Your browser is no longer supported. Please upgrade to
+        <a class="badBrowser" href="http://getfirefox.com">Firefox</a>,
+        <a class="badBrowser" href="http://www.google.com/chrome/">Chrome</a>, 
+        <a class="badBrowser" href="http://www.apple.com/ca/safari/">Safari</a>,
+        <a class="badBrowser" href="http://www.opera.com/download/">Opera</a>
+        or the 
+        <a class="badBrowser" href="http://www.microsoft.com/canada/windows/internet-explorer/oie9/default.aspx?wt.srch=1">latest version of Internet Explorer.</a>
+        <a class="badBrowser" id="browserWarningCloseSimple" href="javascript: browserWarningCloseSimple();">[close]</a>
+    </center>
+</div>
 
 <div id="headerLoginBox">
 <table align="right" border="0" cellspacing="0" cellpadding="0">
@@ -343,7 +383,7 @@
 		
 			
 				<span class="boldWhite">&nbsp;Already a customer,&nbsp;</span>
-				<a href="https://www.fido.ca:443/web/Fido.portal;jsessionid=GgfWNfzb88pL48f261nGCBQ52G1L98sDYql6n9rwSwGBNQ266Xpn!-1921602192?_nfpb=true&amp;_pageLabel=Ecare_Standalone" id="standAlone" onclick="cmPageElementTag('Already a customer', 'Login Link')">
+				<a href="http://www.fido.ca:80/web/Fido.portal?_nfpb=true&amp;_pageLabel=Ecare_Standalone" id="standAlone" onclick="cmPageElementTag('Already a customer', 'Login Link')">
 						<span class="boldColored">log in</span>
 				</a>&nbsp;&nbsp;
 			
@@ -365,26 +405,44 @@
 	<div id="headerContents">
 		
 			<div id="headerNav">
-				
+					
 					
 
 
- 
-  
+
+
+
+
+
+			
+		
+
+
+	
+
+<div id="headerNav" style="margin-top:0px;">
 
 				<img src="/web/framework/skins/garden/images/dashes.gif"><a href="/web/page/portal/Fido/What_New">What's New</a>
 				
 				<img src="/web/framework/skins/garden/images/dashes.gif"><a href="/web/content/whyfido/fido_cares">Fido Cares</a>
-				
+			</div>
 
 
+<script type="text/javascript">$(document).ready(function(){ $('#Shopsubmenu .cursorPointer').eq(2).find('span').html('iPhone'); });</script>
 
-  
+
+<!--
+<dcr.dcrname>templatedata\fido_common\FlexibleHTML\data\HOMEPAGE_ZONE_15</dcr.dcrname>
+-->
+
+			
+
+					
 				
 				
 				
-				
-				<img src="/web/framework/skins/garden/images/dashes.gif"><a href="https://www.fido.ca:443/web/Fido.portal?_nfpb=true&amp;_pageLabel=gct_siteMap&amp;template=terms&amp;sub_template=privacy_policy&amp;lang=fr">Français</a>
+				<div class="chevronHeaderStyle">&nbsp;</div>
+				<a href="http://www.fido.ca:80/web/Fido.portal?_nfpb=true&amp;_pageLabel=gct_siteMap&amp;template=terms&amp;sub_template=privacy_policy&amp;lang=fr">Français</a>
 			</div>
 		
 		<div id="headerNavDivider"></div>
@@ -407,7 +465,7 @@
 			
 				
 				
-					<a href="https://www.fido.ca:443/web/Fido.portal;jsessionid=GgfWNfzb88pL48f261nGCBQ52G1L98sDYql6n9rwSwGBNQ266Xpn!-1921602192?_nfpb=true&amp;_pageLabel=ShoppingCart" onmouseover="style.fontWeight = 'bold'">&nbsp;&nbsp;<img src="/web/framework/skins/garden/images/cart.gif" border="0" alt="">&nbsp;&nbsp;
+					<a href="http://www.fido.ca:80/web/Fido.portal?_nfpb=true&amp;_pageLabel=ShoppingCart" onmouseover="style.fontWeight = 'bold'">&nbsp;&nbsp;<img src="/web/framework/skins/garden/images/cart.gif" border="0" alt="">&nbsp;&nbsp;
 						<span id="headercart">Cart</span>
 						<span class="item">&nbsp;0&nbsp;
 						
@@ -422,10 +480,10 @@
 		
 		
 		<div id="headerNavDivider"></div>
-		<div id="headerGoogleSearchArea" style="width: 220px;">
+		<div id="headerGoogleSearchArea" class="searchAreaWidth">
 			
 		    
-     	 	<form action="/web/Fido.portal?_nfpb=true&amp;_pageLabel=fido_search" method="get" onsubmit="return EndecaSearch.validateSearch(this);">
+     	 	<form id="headerForm" action="/web/Fido.portal?_nfpb=true&amp;_pageLabel=fido_search" method="get" onsubmit="return EndecaSearch.validateSearch(this);">
 	 		<input type="hidden" name="_nfpb" value="true">
 			<input type="hidden" name="_pageLabel" value="fido_search">
 				
@@ -434,17 +492,17 @@
 		            
 		        	
 		        
-			    <div id="searcharea" style="width: 220px">
-			     	<div id="quotes" style="width: 150px"> 
-	         			<div id="quotesText" class="textItem" style="width: 150px">
+			    <div id="searcharea" class="searchAreaWidth">
+			     	<div id="quotes" class="searchBoxWidth"> 
+	         			<div id="quotesText" class="textItem searchBoxWidth">
 	         				Type something to search
 				         </div> 
 	     			</div>
-					<div id="searchbox" style="width: 153px">
-	 					<input type="text" name="Ntt" id="Ntt" maxlength="100" onclick="javascript:return search();" autocomplete="off" style="width: 150px">
+					<div id="searchbox" class="searchTextBoxStyle">
+	 					<input type="text" name="Ntt" id="Ntt" maxlength="100" onclick="javascript:return search();" autocomplete="off" class="searchBoxWidth">
 					</div>
-					<div id="buttonarea" style="width: 67px">
-						<input id="searchBtn" type="image" src="/web/framework/skins/garden/images/en/search.gif" height="29" border="0" alt="Search">
+					<div id="buttonarea">
+						<input id="searchBtn" type="image" border="0" title="Search" class="searchButtonStyle">
 					</div>    
 				</div>
 			</form>
@@ -823,6 +881,8 @@
 <div id="custom_content"><h2>Website Terms and Conditions</h2>
 <ul class="anchors">
 <li><a title="Use of Web Site Policy" href="/web/content/terms/website_policy">Use of Web Site Policy</a></li>
+<li><a title="YouTube Comment Policy" href="/web/content/terms/youtube_comment_policy">YouTube Comment Policy</a></li>
+
 </ul>
 <h2>Fido Service Terms and Conditions</h2>
 <ul class="anchors">
@@ -832,9 +892,15 @@
 <li><a title="Privacy Policy" href="/web/content/terms/privacy_policy">Privacy Policy</a></li>
 <li><a title="Fido Rewards Program Terms and Conditions" href="/web/content/terms/fido_rewards_program"><em>Fido Rewards</em> Program Terms and Conditions</a></li>
 <li><a title="Additional Terms and Conditions for iPhone plans" href="/web/content/terms/iphone_plan_terms">Additional Terms and Conditions for iPhone plans</a></li>
+<li><a title="FidoTRADE Program Terms and Conditions" href="/web/content/terms/fido_trade">FidoTRADE™ Program Terms and Conditions</a></li>
 <li><a title="Get to know Fido" href="/cms/pdf/GET_TO_KNOW_FIDO_GUIDE_EN.pdf" target="_blank">Get to know Fido Guide</a></li>
 </ul>
-<div class="section"></div><h2 id="PrivacyPolicy">Privacy Policy</h2>
+<div class="section"></div>
+<div class="custom-conditions"><a href="#terms1" class="llnk-conditions hover-bottom">
+<p style="float:left; color:black ; font-size:22px; font-weight:bold; line-height:10px;">Privacy Policy</p><span class="print-button"></span></a>
+<div id="terms1"><br><br>
+
+
 <ol>
 <li><div>This policy applies to Fido Solutions, operated by Rogers Communications Partnership, which is referred to here as Fido. At Fido, the security and integrity of our customers' personal information is important to us. We take every reasonable measure necessary to protect the privacy of our customers while providing the high level communication services they expect.</div></li>
 <li><div>Fido’s privacy practices are in accordance with all federal and provincial laws and regulations. We are compliant with the Personal Information Protection and Electronic Documents Act and where applicable with the privacy rules established by the Canadian Radio-television and Telecommunications Commission.</div></li>
@@ -866,7 +932,7 @@ H5A 1K3<br></p>
 </div></li>
 </ol>
 <p class="link"><a href="#">Top of page</a></p>
-</div>
+</div></div>
 
 <!--
 <dcr.dcrname>templatedata\fido_common\Generic\data\privacy_policy</dcr.dcrname>
@@ -893,7 +959,7 @@ H5A 1K3<br></p>
 
 
 </div>
-</td>
+</div></td>
             
                   </tr>
                     <tr>
@@ -1148,37 +1214,37 @@ cmSetProduction();
 
 
 	
-<div style="clear:both;"></div>
-<div class="fidofooterdummy">
 
 
 
 
 
 
-   
 
 
 
-
-  
-<div id="gardenFooter">    
+			
+		
 
 
 	
+
+
+<div class="fidofooterdummy">
+
+<div id="gardenFooter">    
+
 &nbsp;
 <table width="100%">
 	<tbody><tr> 
 	
 	<td align="left">  
 	
-				<a href="/web/Fido.portal?_nfpb=true&amp;_pageLabel=activation_land">Activate your Fido.</a>
+				<a href="/web/Fido.portal?_nfpb=true&amp;_pageLabel=activation_land">Activate your Fido</a>
 				&nbsp;&nbsp;
 				<a href="/web/content/aboutus">About us</a>
 				&nbsp;&nbsp;
 				<a href="/web/Fido.portal?_nfpb=true&amp;_pageLabel=StoreLocator">Store Locator</a>
-				&nbsp;&nbsp;
-				<a href="/web/content/sitemap">Site Map</a>
 				&nbsp;&nbsp;
 				<a href="/web/content/careers">Careers</a>
 				&nbsp;&nbsp;
@@ -1191,6 +1257,8 @@ cmSetProduction();
 				<a href="http://forums.fido.ca">Fido Technical Community</a>
 				&nbsp;&nbsp;
 				<a href="/web/content/accessibility/relay_services">Fido Special Needs</a>
+				&nbsp;&nbsp;
+				<a href="#"><style type="text/css"> 	.icons_footer:hover { background-position: left -24px !important; } </style>    </a><div style="float: right; margin-bottom:-18px;"><a href="#"> 	    </a><a target="_blank" style="float: right; display: block;" href="http://www.verisign.com/">   <img style="display: block;" alt="" src="/cms/v45/images/242/verisign.jpg"></a> 	     <div style="float: right; margin-top: 9px;"> 		      <a target="_blank" style="display: block; float: right; padding-right: 14px; margin-right: 13px; border-right: 1px solid #d8d8d8; width: 25px; height: 24px; background: transparent url('/cms/v45/images/242/youtube.gif') no-repeat left top;" class="icons_footer" href="http://www.youtube.com/FidoMobile?cm_sp=Consumer-_-Q2_youtube_EN-_-Footer"></a> 		      <a target="_blank" style="display: block; float: right; margin-right: 1px; width: 24px; height: 24px; background: transparent url('/cms/v45/images/242/twitter.gif') no-repeat left top;" class="icons_footer" href="http://twitter.com/#!/Fidomobile?cm_sp=Consumer-_-Q2_twitter_EN-_-Footer"></a> 		     <a target="_blank" style="display: block; float: right; margin-right: 1px; width: 24px; height: 24px; background: transparent url('/cms/v45/images/242/facebook.gif') no-repeat left top;" class="icons_footer" href="http://www.facebook.com/fidomobile?sk=app_19032254433319&amp;cm_sp=Consumer-_-Q2_facebook_EN-_-Footer"></a> 		 		  <div style="display: block; float: right; margin-right: 1px; height: 12px; padding: 5px 0 7px 14px; width: 136px; background: transparent url('/cms/v45/images/242/gris.gif') no-repeat left top; font-size: 14px; font-family: Arial, Helvetica, sans-serif; line-height: 14px; text-transform: uppercase;"> <strong>Follow us</strong> on 		<br>&nbsp;<br>&nbsp;<br>&nbsp;<br>&nbsp;</div> 	    </div> </div>    <div style="clear: both; width: 100%; display: block;"></div>
 				
 
 </td>
@@ -1203,18 +1271,16 @@ cmSetProduction();
 </tr>
 	
 	</tbody></table>
-	
-
 </div>
 
 
 
+<!--
+<dcr.dcrname>templatedata\fido_common\FlexibleHTML\data\HOMEPAGE_ZONE_16</dcr.dcrname>
+-->
 
-<script type="text/javascript" src="/web/resources/js/fsrscripts/foresee-trigger.js"></script>
+			
 
-<script type="text/javascript">FSR.CPPS.set('Foresee_visitorId','0000000000');</script>
-
-</div>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -1257,4 +1323,4 @@ pageTracker._trackPageview();
 
 
 
-</body></html>
+</div></body></html>
