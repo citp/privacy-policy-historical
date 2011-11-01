@@ -1,47 +1,75 @@
-<!--The following is the downloaded HTML source of the marks.com privacy policy that was archived on 2010-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100311084619id_/http%3A//www2.marks.com/Privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marks.com privacy policy that was archived on 2011-11-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111101152310id_/http%3A//www2.marks.com/Privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	    <title>Mark's Work Wearhouse :: Clothes that don't compromise on performance or fashion.</title>
+	    
 	    <meta http-equiv="Content-Type" content="application/xhtml+xml; charset=iso-8859-1">
 	    <meta name="description" content="Clothes that don't compromise on function or fashion.  Always 100% guaranteed to perform better.">
+	    <meta name="googlebot" content="NOODP">
 	    
 	    <link rel="shortcut icon" href="/favicon.ico">
 		<link rel="icon" type="image/gif" href="/favicon1.gif">
 	    
-	    <link rel="stylesheet" type="text/css" href="/css/main.css" media="all">
+	    <link rel="stylesheet" type="text/css" href="/css/main.css?19201113558" media="all">
 	    <link rel="stylesheet" type="text/css" href="/css/legacy-styles.css" media="all">
 	    <link rel="stylesheet" type="text/css" href="/css/ui-lightness/jquery-ui-1.7.2.custom.css" media="all">
 	    <link rel="stylesheet" type="text/css" href="/css/jquery.fancybox.css" media="all">
+	    <link rel="stylesheet" type="text/css" href="/css/jquery-tooltip/jquery.tooltip.css">
 	    
-		<script language="Javascript" src="/scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
+		<script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script language="Javascript" src="/scripts/jquery-1.3.2.min.js" type="text/javascript"></script>
 		<script language="Javascript" src="/scripts/jquery-ui-1.7.2.custom.min.js" type="text/javascript"></script>
 		<script type="text/javascript" src="/scripts/jquery.fancybox-1.2.1.pack.js"></script>
+		<script type="text/javascript" src="/scripts/jquery-tooltip/jquery.tooltip.js"></script>
+        <script type="text/javascript" src="/scripts/jquery.cycle.all.min.js"></script>
+        
+        <script language="JavaScript" src="/scripts/mainscripts.js" type="text/javascript"></script>
+		<script language="JavaScript" src="/scripts/overlib.js" type="text/javascript"><!-- overLIB (c) Erik Bosrup --></script> 
+        
 		<script type="text/javascript">
-			function stopVideo() {
-				$("#fancy_frame").remove();
-				if ( location.href.toLowerCase().indexOf("playvideos=1") > -1 ) {
-					location.replace(location.href.replace("playvideos=1", ""));
-				}
-			}
 			$(document).ready( function() {
-				$(".video_fancybox").fancybox({
-					frameWidth				: 700,
-					frameHeight				: 560,
-					hideOnContentClick		: false,
-					callbackOnClose			: stopVideo
+				$("ul.leftMenuItems li ul").hide();
+				$("ul.leftMenuItems li ul.default_shown").show();
+				
+				$("ul.leftMenuItems li a.has_children").click( function() {
+					var jListElement = $(this).next();
+					if (jListElement.css("display") == "block") {
+						jListElement.hide();
+					}
+					else {
+						jListElement.show();
+					}
+					return false;
 				});
+						
+				$("ul.leftMenuItems li a.leftLinkOn").parents("ul").show();
 			});
 		</script>
-		<script language="JavaScript" src="/scripts/mainscripts.js" type="text/javascript"></script>
 		
-		<script language="JavaScript" src="/scripts/overlib.js" type="text/javascript"><!-- overLIB (c) Erik Bosrup --></script> 
-		<script type="text/javascript" src="/scripts/flowplayer-3.1.2.min.js"></script>
-	    
+	    <style type="text/css">
+			div.message {
+				background-color:#EEF0EB;
+				border:1px solid #333333;
+				color:#FF0000;
+				margin-bottom:1.5em;
+				padding:10px;
+			}
+			div.message span {
+				background-color:transparent;
+				background-position:left top;
+				background-repeat:no-repeat;
+				clear:both;
+				display:block;
+				padding-left:25px;
+				background-image:url('/images/icons/information.png');
+			}
+		</style>
 	</head>
 
 	<body>
+
 		<div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
+		<div id="black_bg" style="position: absolute; top: 0; left: 0; opacity: 0; filter:alpha(opacity=0); background-color: #000000; z-index: 1000; width: 0; height: 0; display: none;"></div>
 	
 		<div id="container">
 		
@@ -52,8 +80,6 @@
 					<table cellpadding="0" cellspacing="0">
 						<tbody><tr>
 							<td><a href="http://www2.marks.com/FindAStore.asp" class="odd">find a store</a></td>
-							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www2.marks.com/Category.asp?categoryID=269" class="even">gift cards</a></td>
 							<td class="divider"><span class="nav_divider"></span></td>
 							<td><a target="_blank" href="http://www2.marks.com/careers/english/index.html" onclick="window.open(this.href, 'new_window', 'width=800,height=600,scrollbars=1,resizable=1'); return false;" class="odd">careers</a></td>
 							<td class="divider"><span class="nav_divider"></span></td>
@@ -67,14 +93,19 @@
 							<td class="divider"><span class="nav_divider"></span></td>
 							<td><a target="_top" href="http://www2.marks.com/ContactUs.asp" class="even">contact us</a></td>
 							<td class="divider"><span class="nav_divider"></span></td>
-							<td><a target="_top" href="http://www.lequipeur.com/" class="odd">français</a></td>
+							<td><a target="_top" href="http://www.lequipeur.com/" class="odd">l'equipeur.com</a></td>
 						</tr>
 					</tbody></table>
 				</div>
 				<div id="banner_bar">
 					
-					<img src="/images/RotatingBanners/header-banner-2.jpg" alt="Clothes That Work">
-					<a href="http://www2.marks.com/" id="home_link"><span style="display: none;">Mark's - Home</span></a>
+                    
+                    <a href="http://www2.marks.com/Rewards.asp"><img src="/images/RotatingBanners/coming-soon-banner-3.jpg" alt=""></a>
+                    
+                  
+                    
+                    
+                    
 				</div>
 				<div id="nav2">
 					<table cellpadding="0" cellspacing="0">
@@ -91,8 +122,6 @@
 							<td class="divider"><span class="nav_divider"></span></td>
 							<td><a target="_top" href="http://www2.marks.com/Category.asp?categoryID=231">innovations</a></td>
 							<td class="divider"><span class="nav_divider"></span></td>
-							<!--<td><a target="_top" href="http://www2.marks.com/NewArrivals.asp">new arrivals</a></td>
-							<td class="divider" style="width: 27px;"><span class="nav_divider"></span></td>-->
 							<td><span class="a">product search</span></td>
 							<td>&nbsp;</td>
 							<td>
@@ -119,40 +148,11 @@
 								<div id="leftBar">
 									
 	
-	<script language="javascript">
-		function showHideChildren(categoryID) {
-			var children = document.getElementsByName("childOf" + categoryID); //IE does not support this on div elements (not HTML4.01 compliant) but we'll use it anyways for NS/Firefox
-			var iechildren = document.getElementsByTagName("ul");
-			
-			if (children.length > 0) {
-				//NS and Firefox
-				for (var i=0; i<children.length; i++)
-					if (children.item(i).style.display == "block")
-						children.item(i).style.display = "none";
-					else
-						children.item(i).style.display = "block";
-			}
-			else {
-				//ie
-				for (var i=0; i<iechildren.length; i++) {
-					nameOfDiv = iechildren[i].name;
-					if (nameOfDiv != null) {
-						if (nameOfDiv.toLowerCase() == ("childof"+categoryID))
-							if (iechildren[i].style.display == "block")
-								iechildren[i].style.display = "none";
-							else
-								iechildren[i].style.display = "block";
-					}
-				}
-			}
-		}
-	</script>
-	
-	<div id="shopping_cart_box" class="bar_box">
+	<div id="rewards_signup_box" class="bar_box">
 		<h2>E-CAST<br>OFFERS</h2>
 		<a href="RewardsClub.asp">Sign Up Now &gt;</a>
 	</div>
-	
+
 	
 	
 	<div id="left_bar_menus">
@@ -161,10 +161,16 @@
 	
 	</div>
 	
+	<div id="add_this_button">	
+		<!-- AddThis Button BEGIN -->
+		<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;username=markssocial"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=markssocial"></script>
+		<!-- AddThis Button END -->
+	</div>
+	
+	<div class="divider"></div>
+	
 	<div class="sideItem">
-		<a target="_top" href="http://www2.marks.com/OurGuarantee.asp"><img src="/images/guarantee-logo.gif" border="0" alt=""></a>
-		<br>
-		<a href="http://www.mediaservicesgroup.net/marks/ecast/dec08_fastfind/index.html" target="_blank"><img src="/images/fast-find-logo.gif" border="0" alt=""></a>
+		<a href="/fastFind.asp"><img src="/images/fast-find-logo.gif" border="0" alt=""></a>
 	</div>
 		
 		
@@ -179,127 +185,195 @@
 										
 				
 
-<span class="bigTitle">Privacy Policy</span>
-<br><br>
+<div id="privacy_policy">
 
-<div class="sectionBlock">  	
-	<span class="mediumTitle">Governing Privacy Statement:</span>
+	<h1>Privacy Policy</h1>
+	
+	
+	<h2>Governing Privacy Statement: </h2>
 	<p>At Mark's, we express our customer commitment by respecting your privacy, and are committed to protecting business integrity for our internal and external customers.</p>
-</div>
 
-<div class="sectionBlock">
-	<span class="mediumTitle">Mark's Work Wearhouse Customer Privacy Policy</span>
-	<p>To view this policy in French, please click <a href="/privacyFrench.asp">here.</a></p>
+	<h2>Mark's Work Wearhouse Customer Privacy Policy </h2>
+	<p>To view this policy in French, please <a href="privacyFrench.asp">click here</a>.</p>
 	<p>Mark's Work Wearhouse ("Marks") is a member of the Canadian Tire Family of companies. This Policy is guided by the Canadian Tire Corporation, Limited Privacy Policy, which Mark's is committed to following. This policy covers all Mark's Work Wearhouse corporate stores and franchisees.</p>
 	<p>Marks recognizes that the privacy of your personal information is important, and we are committed to protecting it. This privacy policy explains to you what personal information Mark's collects about you, and the use to which that information is put. The policy will also explain how your personal information is kept safe and secure and handled appropriately.</p>
 	<p>While Mark's has always focused on ensuring that your personal information is appropriately protected, this privacy policy is also designed to comply with Canada's Personal Information Protection and Electronics Documents Act, and corresponding provincial privacy legislation.</p>
 
-	<p><b>What is personal information?</b></p>
-
+	<h3>What is personal information?</h3>
 	<p>Personal information is information that refers to an individual specifically and is recorded in any form. Personal information includes such things as age, income, date of birth, ethnic origin, medical records and credit records. Information about individuals contained in the following documents is not considered personal information:</p>
-
 	<ul>
-	<li>public telephone directories, where the subscriber can refuse to be listed</li>
-	<li>professional and business directories available to the public</li>
-	<li>certain public registries and court records</li>
-	<li>certain other publicly available printed and electronic publications.</li>
+		<li>public telephone directories, where the subscriber can refuse to be listed</li>
+		<li>professional and business directories available to the public</li>
+		<li>certain public registries and court records</li>
+		<li>certain other publicly available printed and electronic publications.</li>
 	</ul>
 
-
-	<ol class="noindent">
-		<li><b> We are accountable to you.</b></li>
-			<p>Mark's identifies the purpose for which your personal information is collected. We do this before or at the time the information is actually being collected. Types of information collected include:</p>
-			
-			<ol class="withletters">
-			<li><b>Individual Purchases</b></li>
-				<p>Mark's ensures that it limits its requests for information to what is required to ensure excellent service. Most of the information Mark's collects about you is very basic information that we need to complete a purchase, or to provide you with a refund or exchange. Examples of information that may be collected to complete an in-person purchase or refund may include things such as your name, address, and telephone number, your driver's license, your credit or debit card information, information printed on your personal cheque, and a description of the item requested or purchased.</p>
-				<p>Generally, we request your address and phone number only if the item will be sent to you at a later date, or if you are receiving a refund. We do ask for your postal code every time you make a purchase, but this information cannot be linked to individuals and is requested only to track geographical buying patterns.</p>
-			<li><b>Internet Shopping</b></li>
-				<p>You may visit our website just to browse, or you may actually make an online purchase. If you make a purchase, we collect personal information such your name, address, e-mail address, phone number, and credit card information. Even if you do not make a purchase, we have the ability to track usage of our website. We can keep track of the number of times our website is visited, as well as the server from which the site was visited. This type of general usage information cannot be linked back to you personally. This is done through the use of "Cookies". Cookies are small files placed on your computer by websites. <a href="\index.asp">www.marks.com</a> uses cookies to connect your computer to the information stored in our database regarding your order and shopping preferences.</p>
-				<p>At <a href="\index.asp">www.marks.com</a>, we use cookies only for tracking your shopping preferences (e.g. sizes in the big and tall section) and for tracking your shopping basket. Without cookies enabled, you cannot shop online at <a href="\index.asp">www.marks.com</a>.</p>
-				<p>No personal information is used to generate or store the cookie, and your cookie file will expire after your visit to the website.</p>
-			<li><b>Internet Database</b></li>
-				<p>In order to better serve you, our customer, Mark's has also created an Internet database. Customers may register on the database, so that you can keep track of your own purchases at Mark's. For example, customers may register their preferred style of clothing and size so they know what to look for next time they make a purchase. Registration is entirely voluntary and customers may correct their information or remove themselves from the database at any time.</p>
-			<li><b>Corporate Purchases - "Image Wear"</b></li>
-				<p>Mark's may also collect personal information about employees of various companies who are Mark's corporate clients. For example, a company may contract with Mark's to supply all of its employee uniforms. When the employee comes in to make his or her purchase, Mark's collects information about the nature of that employee's purchases, and may provide that information to the employer.</p>
-			<li><b>Information Voluntarily Provided</b></li>
-				<p>Sometimes you may voluntarily provide information to Mark's. This occurs when you fill out a "How Did We Do Card" (customer response card), providing your name and address, or perhaps when you provide feedback to Mark's through communications such as e-mail, or a letter. Mark's uses that information to respond to your query, and to keep track of customer feedback, which enables us to continuously improve.</p>
-			<li><b>Marketing</b></li>
-				<p>Mark's does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. Mark's sends individually addressed flyers or brochures only to those customers who specifically request that they be added to the mailing list. This information is sent to customers by regular mail or e-mail, depending on the customer's election, in addition Mark's flyers are sometimes included in bulk flyer distributions throughout the year.</p>
-			<li><b>Surveillance</b></li>
-				<p>Many of Mark's retail stores are equipped with surveillance cameras. These cameras are in place for your safety as a customer, as well as for our own protection against shoplifting. If a Mark's store has a camera, there will be signs posted alerting you to that. Video tapes that record your image are routinely destroyed and not shared with third parties unless there is suspicion of a crime, in which case they are turned over to the police.
-			</p></ol>
-			<br>
-		<li><b>We let you know why we collect your personal information</b></li>
-			<p>Mark's identifies the purpose for which your personal information is collected. We do this before or at the time the information is actually being collected.</p>
-
-		<li><b>We obtain your consent to collect, use or disclose your personal information:</b></li>
-			<p>Mark's will obtain your consent, to collect and use your personal information. We will not disclose your personal information to any outside party without your written consent, unless we are required by law to do so.</p>
-
-		<li><b>We limit collection of your personal information</b></li>
-			<p>Mark's collects only the information required to offer products and services to you. If the personal information we require is collected for a reason other than what is required for a transaction, your consent will be obtained before or at the time the information is collected. Mark's will only collect personal information by clear, fair and lawful means.</p>
-
+	<ol class="no_indent">
+		<li>
+			<p>
+				<strong>We are accountable to you.</strong>
+				<br>
+				Mark's identifies the purpose for which your personal information is collected. We do this before or at the time the information is actually being collected. Types of information collected include:
+			</p>
+			<ol class="lettered">
+				<li>
+					<p>
+						<strong>Individual Purchases</strong>
+						<br>
+						Mark's ensures that it limits its requests for information to what is required to ensure excellent service. Most of the information Mark's collects about you is very basic information that we need to complete a purchase, or to provide you with a refund or exchange. Examples of information that may be collected to complete an in-person purchase or refund may include things such as your name, address, and telephone number, your driver's license, your credit or debit card information, information printed on your personal cheque, and a description of the item requested or purchased.
+					</p>
+					<p>Generally, we request your address and phone number only if the item will be sent to you at a later date, or if you are receiving a refund. We do ask for your postal code every time you make a purchase, but this information cannot be linked to individuals and is requested only to track geographical buying patterns.</p>
+				</li>
+				<li>
+					<p>
+						<strong>Internet Shopping</strong>
+						<br>
+						You may visit our website just to browse, or you may actually make an online purchase. If you make a purchase, we collect personal information such your name, address, e-mail address, phone number, and credit card information. Even if you do not make a purchase, we have the ability to track usage of our website. We can keep track of the number of times our website is visited, as well as the server from which the site was visited. 
+					</p>
+					<p>This type of general usage information cannot be linked back to you personally. This is done through the use of "Cookies". Cookies are small files placed on your computer by websites. <a href="http://www2.marks.com">www.marks.com</a> uses cookies to connect your computer to the information stored in our database regarding your order and shopping preferences.</p>
+					<p>At <a href="http://www2.marks.com">www.marks.com</a>, we use cookies only for tracking your shopping preferences (e.g. sizes in the big and tall section) and for tracking your shopping basket. Without cookies enabled, you cannot shop online at <a href="http://www2.marks.com">www.marks.com</a>.</p>
+					<p>No personal information is used to generate or store the cookie, and your cookie file will expire after your visit to the website.</p>
+				</li>
+				<li>
+					<p>
+						<strong>Internet Database</strong>
+						<br>
+						In order to better serve you, our customer, Mark's has also created an Internet database. Customers may register on the database, so that you can keep track of your own purchases at Mark's. For example, customers may register their preferred style of clothing and size so they know what to look for next time they make a purchase. Registration is entirely voluntary and customers may correct their information or remove themselves from the database at any time.
+					</p>
+				</li>
+				<li>
+					<p>
+						<strong>Corporate Purchases - "Image Wear"</strong>
+						<br>
+						Mark's may also collect personal information about employees of various companies who are Mark's corporate clients. For example, a company may contract with Mark's to supply all of its employee uniforms. When the employee comes in to make his or her purchase, Mark's collects information about the nature of that employee's purchases, and may provide that information to the employer.
+					</p>
+				</li>
+				<li>
+					<p>
+						<strong>Information Voluntarily Provided</strong>
+						<br>
+						Sometimes you may voluntarily provide information to Mark's. This occurs when you fill out a "How Did We Do Card" (customer response card), providing your name and address, or perhaps when you provide feedback to Mark's through communications such as e-mail, or a letter. Mark's uses that information to respond to your query, and to keep track of customer feedback, which enables us to continuously improve.
+					</p>
+				</li>
+				<li>
+					<p>
+						<strong>Marketing</strong>
+						<br>
+						Mark's does not sell or otherwise share your personal information with anyone else, such as advertising agencies or marketing companies. Mark's sends individually addressed flyers or brochures only to those customers who specifically request that they be added to the mailing list. This information is sent to customers by regular mail or e-mail, depending on the customer's election, in addition Mark's flyers are sometimes included in bulk flyer distributions throughout the year.
+					</p>
+				</li>
+				<li>
+					<p>
+						<strong>Surveillance</strong>
+						<br>
+						Many of Mark's retail stores are equipped with surveillance cameras. These cameras are in place for your safety as a customer, as well as for our own protection against shoplifting. If a Mark's store has a camera, there will be signs posted alerting you to that. Video tapes that record your image are routinely destroyed and not shared with third parties unless there is suspicion of a crime, in which case they are turned over to the police.
+					</p>
+				</li>
+			</ol>
+		</li>
+		<li>
+			<p>
+				<strong>We let you know why we collect your personal information</strong>
+				<br>
+				Mark's identifies the purpose for which your personal information is collected. We do this before or at the time the information is actually being collected.
+			</p>
+		</li>
+		<li>
+			<p>
+				<strong>We obtain your consent to collect, use or disclose your personal information:</strong>
+				<br>
+				Mark's will obtain your consent, to collect and use your personal information. We will not disclose your personal information to any outside party without your written consent, unless we are required by law to do so.
+			</p>
+		</li>
+		<li>
+			<p>
+				<strong>We limit collection of your personal information</strong>
+				<br>
+				Mark's collects only the information required to offer products and services to you. If the personal information we require is collected for a reason other than what is required for a transaction, your consent will be obtained before or at the time the information is collected. Mark's will only collect personal information by clear, fair and lawful means.
+			</p>
 			<p>Examples of why we collect personal information include:</p>
 			<ul>
-			<li>Communicating with you generally</li>
-			<li>Protecting against fraud or error</li>
-			<li>Providing product and services requested by you</li>
-			<li>To comply with appropriate legal and governmental requirements.</li>
+				<li>Communicating with you generally</li>
+				<li>Protecting against fraud or error</li>
+				<li>Providing product and services requested by you</li>
+				<li>To comply with appropriate legal and governmental requirements.</li>
 			</ul>
 			<br>
-			
-		<li><b>We limit use, disclosure and retention of your personal Information</b></li>
-			<p>Mark's retains your personal information only as long as it is required to provide products and services to you or as required by federal and provincial laws. In some cases, Mark's is required by law to keep your personal information for a specified period of time.</p>
+		</li>
+		<li>
+			<p>
+				<strong>We limit use, disclosure and retention of your personal Information</strong>
+				<br>
+				Mark's retains your personal information only as long as it is required to provide products and services to you or as required by federal and provincial laws. In some cases, Mark's is required by law to keep your personal information for a specified period of time.
+			</p>
 			<p>For those customers who request to be added to mailing lists or who register on Mark's internet database, personal information is kept until the customer notifies Mark's that it no longer wishes to participate in these programs.</p>
-
-		<li><b>We keep your personal information up to date and accurate</b></li>
-			<p>We are committed to maintaining the accuracy of your personal information for as long as it is being used for the purposes we have identified. To help Mark's keep your personal information up to date, we rely on you to notify us of address or telephone number changes, which will help us, provide you with the best possible service. For those customers who are registered on our Internet database service, customers are given the ability to update their personal information as it changes.</p>
-
-		<li><b>Security of personal information</b></li>
-			<p>The security of your personal information is a priority for us. We have security processes and procedures in place to keep your personal information safe, including:</p>
+			<p>We may use service providers outside of Canada, and, if applicable, your personal information may be processed and stored in other countries and therefore may be subject to disclosure under the laws of those countries.</p>
+		</li>
+		<li>
+			<p>
+				<strong>We keep your personal information up to date and accurate</strong>
+				<br>
+				We are committed to maintaining the accuracy of your personal information for as long as it is being used for the purposes we have identified. To help Mark's keep your personal information up to date, we rely on you to notify us of address or telephone number changes, which will help us, provide you with the best possible service. For those customers who are registered on our Internet database service, customers are given the ability to update their personal information as it changes.
+			</p>
+		</li>
+		<li>
+			<p>
+				<strong>Security of personal information</strong>
+				<br>
+				The security of your personal information is a priority for us. We have security processes and procedures in place to keep your personal information safe, including:
+			</p>
 			<ul>
-			<li>physical security measures such as restricted access and locked filing cabinets</li>
-			<li>electronic security measures for computerized personal information such as password protection, database encryption and personal identification numbers.</li>
-			<li>organizational processes such as limiting access to your personal information to a selected group of individuals. Only those staff members who need the information to respond to your requests are given access to it.</li>
+				<li>physical security measures such as restricted access and locked filing cabinets</li>
+				<li>electronic security measures for computerized personal information such as password protection, database encryption and personal identification numbers.</li>
+				<li>organizational processes such as limiting access to your personal information to a selected group of individuals. Only those staff members who need the information to respond to your requests are given access to it.</li>
 			</ul>
-			<br>
 			
-		<li><b>We are open about our privacy and security policy</b></li>
-			<p>Information about our policies and practices relating to the management of your personal information will be made readily available to you. This policy is available at all times on our website, <a href="\index.asp">www.marks.com</a>, or on request. To contact us please refer to the "How to contact us" section below.</p>
-
-		<li><b>We provide access to your personal information stored by Mark's</b></li>
-			<p>You can request access to your personal information stored by Mark's. To contact us, refer to the "How to contact us" section below. Upon receiving such a request, Mark's will:</p>
-			<ul>
-			<li>Inform you about what type of personal information we have on record or in our control, how it is used and to whom it may have been disclosed</li>
-			<li>Provide you with access to your information so you can review and verify the accuracy and completeness and request changes to the information</li>
-			<li>Make any necessary updates to your personal information.</li>
-			</ul>
 			<br>
+		</li>
+		<li>
+			<p>
+				<strong>We are open about our privacy and security policy</strong>
+				<br>
+				Information about our policies and practices relating to the management of your personal information will be made readily available to you. This policy is available at all times on our website, <a href="http://www2.marks.com">www.marks.com</a>, or on request. To contact us please refer to the "How to contact us" section below.
+			</p>
+		</li>
+		<li>
+			<p>
+				<strong>We provide access to your personal information stored by Mark's</strong>
+				<br>
+				You can request access to your personal information stored by Mark's. To contact us, refer to the "How to contact us" section below. Upon receiving such a request, Mark's will:
+			</p>
+			<ul>
+				<li>Inform you about what type of personal information we have on record or in our control, how it is used and to whom it may have been disclosed</li>
+				<li>Provide you with access to your information so you can review and verify the accuracy and completeness and request changes to the information</li>
+				<li>Make any necessary updates to your personal information.</li>
+			</ul>
 			<p>Mark's is committed to ensuring that we have no personal information about customers that is not absolutely necessary in order to provide them with excellent service. Mark's is also committed to ensuring that information about our customers is accurate and up to date.</p>
-
-		<li><b>We respond to your questions, concerns and complaints about privacy</b></li>
-			<p>In order to ensure compliance, Mark's has appointed a Privacy Advisor to oversee all aspects of its privacy policy and practices. Mark's will respond in a timely manner to your questions, concerns or requests about the privacy of your personal information and our privacy policies.</p>
-
+		</li>
+		<li>
+			<p>
+				<strong>We respond to your questions, concerns and complaints about privacy</strong>
+				<br>
+				In order to ensure compliance, Mark's has appointed a Privacy Advisor to oversee all aspects of its privacy policy and practices. Mark's will respond in a timely manner to your questions, concerns or requests about the privacy of your personal information and our privacy policies.
+			</p>
+		</li>
 	</ol>
-</div>
 
-<div class="sectionBlock">
-	<span class="mediumTitle"><b>How to Contact us:</b></span>
+	<h2>How to Contact us: </h2>
+
 	<p>
-		<b>
-		Mark's Privacy Advisor<br>
+		<strong>Mark's Privacy Advisor</strong><br>
 		#30 1035 64th Ave SE<br>
 		Calgary, AB T2H 2J7<br>
-		</b>
+		<a href="mailto:Privacy.feedback@marks.com">Privacy.feedback@marks.com</a><br>
+		1-800-663-6275
 	</p>
-	<p>
-		<a href="mailto:privacy.feedback@marks.com">Privacy.feedback@marks.com</a><br>
-		<b>1-800-663-6275</b>
-	</p>
+
 	<p>If your questions, concerns or complaints have not been resolved to your satisfaction or, if you have further questions, you can contact Canadian Tire's Chief Privacy Officer by mail at Chief Privacy Officer c/o Canadian Tire Corporation, Limited, 2180 Yonge Street, P.O. Box 770, Station K, Toronto, ON M4P 2V8.</p>
+	
+	<div class="divider"></div>
 </div>
 
-<div class="divider"></div>
 
 
 								</div>
@@ -309,35 +383,14 @@
 							<td width="115" align="left" valign="top" rowspan="2">
 								<div id="rightBar">
 									
-	<div id="shopping_cart_box" class="bar_box">
-		<h2>SHOPPING<br>CART</h2>
-		<a href="javascript:void(0);" onclick="viewShoppingCart();">View Items &gt;</a>
-	</div>
-	
 	
 	<div>
-		
-		<div class="sideItem">
-			
-			<a href="http://www2.marks.com/category.asp?categoryID=1"><img src="/items/images/430.jpg" border="0" width="115"></a><br>
-			
-			<span class="sideItemTitle">Men's Apparel and Footwear</span><br>
-			
-		</div>
 		
 		<div class="sideItem">
 			
 			<a href="http://www2.marks.com/category.asp?categoryID=137"><img src="/items/images/431.jpg" border="0" width="115"></a><br>
 			
 			<span class="sideItemTitle">Women's Apparel and Footwear</span><br>
-			
-		</div>
-		
-		<div class="sideItem">
-			
-			<a href="http://www2.marks.com/category.asp?categoryID=195"><img src="/items/images/432.jpg" border="0" width="115"></a><br>
-			
-			<span class="sideItemTitle">Industrial Apparel and Footwear</span><br>
 			
 		</div>
 		
@@ -376,35 +429,40 @@
 	<ul>
 		
 	<li>
-		<a href="http://marksworkwearhouseca.shoplocal.com/mwwca/new_user_entry.aspx" target="_top">
+    	<a href="http://www.flyertown.ca/flyers/marksworkwearhouse?type=1&amp;locale=EN" target="_blank">
 			<span class="button_label">latest flyer</span>
-			
-				<img src="/images/Buttons/Flyers/mar1-latest-flyer.png" alt="View our latest flyer">
+            
+            
+			<img src="/images/Buttons/Flyers/oct1-latest-flyer.jpg" alt="View our latest flyer">
 			
 		</a>
 	</li>
-
+	
+	
 	<li>
 		<a href="/Category.asp?categoryID=231" target="_top">
 			<span class="button_label">innovations</span>
-			<img src="/images/Buttons/innovations.png" alt="Mark's Innovations That Work">
+			<img src="/images/Buttons/innovationsMay2011.png" alt="Mark's Innovations That Work">
 		</a>
 	</li>
+    
 
-			<li>
-				<a href="http://www.jumptosouthafrica.ca" target="_blank">
-					<span class="button_label">jump to South Africa</span>
-					<img src="/images/Buttons/Specials/southafrica-jumpstart.png" alt="">
-				</a>
-			</li>
+        
+		<li>
+			<span class="button_label">fall lookbook</span>
+			<img src="/images/Buttons/lookbook-fall2011.jpg" alt="Fall Lookbook" usemap="#btn-lookbook">
+			<map name="btn-lookbook">
+				<area id="" class="" target="_top" href="/lookbook/" coords="86,135,180,152" alt="" shape="rect">
+				<area id="" class="" target="_top" href="/lookbook/makingof/?playlist=all-fall2011" coords="128,155,174,169" alt="" shape="rect">
+			</map>
+		</li>
 		
-			<li class="last">
-				<a href="/DH3/" target="_top">
-					<span class="button_label">introducing DH3</span>
-					<img src="/images/Buttons/feb2009-dh3.png" alt="Introducing DH3">
-				</a>
-			</li>
-		
+	<li class="last">
+		<a href="/InnovationTV.asp">
+			<span class="button_label">Innovation TV</span>
+			<img src="/images/Buttons/innovation-tv-2011.jpg" alt="Click here to view our latest TV commercials">
+		</a>
+	</li>
 		
 	</ul>
 
@@ -413,7 +471,7 @@
 					</div>
 					<div id="footer_logos">
 						<div id="ct-logo"><a href="http://www.canadiantire.ca/" target="_blank"><img src="/images/Template/ct-logo.png" alt="Canadian Tire Family of Canadian Retailers"></a></div>
-						<div id="guarantee-logo"><a href="http://www2.marks.com/OurGuarantee.asp" target="_top"><img src="/images/Template/guarantee-logo.png" alt="100% Satisfaction Guarantee"></a></div>
+						
 						<div class="clear"></div>
 					</div>	
 				</div>
@@ -426,6 +484,8 @@
 							<td><a target="_top" href="http://www2.marks.com/Privacy.asp">privacy</a></td>
 							<td class="divider"><span class="nav_divider"></span></td>
 							<td><a target="_top" href="http://www2.marks.com/CSRHome.asp">ethical sourcing program</a></td>
+							<td class="divider"><span class="nav_divider"></span></td>
+							<td><a target="_top" href="http://www2.marks.com/ReturnPolicy.asp">return policy</a></td>
 						</tr>
 					</tbody></table>
 				</div>
@@ -434,16 +494,40 @@
 		
 				
 		</div> <!-- end container -->
+
 		<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 		<script type="text/javascript">
-		var pageTracker = _gat._getTracker("UA-4988459-1");
-		pageTracker._initData();
-		pageTracker._trackPageview();
+			var pageTracker = _gat._getTracker("UA-4988459-1");
+			pageTracker._initData();
+			pageTracker._trackPageview();
+		</script>
+		<script type="text/javascript">
+			var addthis_config = {
+				data_track_clickback: true,
+			    data_ga_tracker: pageTracker
+			}
+			var addthis_share = {
+				  templates: { twitter: 'check out {{title}} @ {{url}} from @MarksWW' }
+				}
 		</script>
 		
+		<!-- Begin comScore Tag -->
+		<script>
+		  var _comscore = _comscore || [];
+		  _comscore.push({ c1: "2", c2: "6035827" });
+		  (function() {
+		    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+		    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		    el.parentNode.insertBefore(s, el);
+		  })();
+		</script>
+		<noscript>
+		  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035827&cv=2.0&cj=1" />
+		</noscript>
+		<!-- End comScore Tag -->
 	
 
 	
