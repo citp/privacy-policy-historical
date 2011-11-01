@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2010-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100818064119id_/http%3A//www.adtrader.co.uk/siteinfo.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adtrader.co.uk privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101123941id_/http%3A//www.adtrader.co.uk/siteinfo.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Ad Trader classifieds, Free local classified ads with images ads online now.
+
+All personal information collected and used from the Ad Trader website will be processed in accordance with this Privacy Policy and the Data Protection Act 1998 (as amended from time to time).
+
+We may update this Privacy Policy from time to time and without notice. You agree to regularly review this Privacy Policy so that you are aware of any changes. 
+
+## Information Collected
 
 ### Online Advertisements
 
@@ -11,6 +17,8 @@ Depending upon the classifications you have chosen, the publication the advert i
 ### Searches
 
 In order to conduct a search on the Ad Trader website, we will require you to supply a postcode and a keyword of the item you are searching for i.e. "bike". 
+
+## Use of Information
 
 ### General
 
@@ -68,9 +76,13 @@ We may disclose any information that we collect from you to:
 
 
 
+## My Offers
+
 In exchange for completing a self profiling questionnaire members of MYOFFERS are entered in to prize draws. The questionnaires are sponsored by Ad Trader who determine the type of data they would like to collect. By registering with MYOFFERS you are providing your consent for information to be collected about you so that MYOFFERS and third parties including Trader Media Group can send your communications via email, sms, voice, post or other appropriate means relating to products and service that may be of interest to you. 
 
 You can deregister from MYOFFERS by visiting <http://www.myoffers.co.uk/myaccount.asp> and then select the deregister button shown within My Account. 
+
+## Use of Cookies
 
 When you visit the Ad Trader website we issue a "cookie" or unique identification code that enables us to recognise your computer and store settings to help facilitate your use of the website. 
 
