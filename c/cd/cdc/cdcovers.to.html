@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cdcovers.to privacy policy that was archived on 2010-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101120190106id_/http%3A//cdcovers.to/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cdcovers.to privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102003705id_/http%3A//cdcovers.to/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
     <title>CDcovers.to - free cd and dvd cover search</title>
@@ -20,6 +20,9 @@
 <a href="http://cdcovers.to/create-account">Create account</a> | <a href="http://cdcovers.to/sign-in">Sign in</a>    </div>
     <div id="container">
       <a href="/"><img src="http://cdcovers.to/images/logo.png" alt="Logo" id="logo" width="238" height="63"></a><br>
+      <div style="color: #900; text-align: center; padding: 2px">
+				We are looking for an <b>icon designer</b> for the new version of CDcovers.to. Please <a href="/contact-us">contact us</a> for more information.<br><br>
+      </div>
 <form action="/search" method="get" id="search-form">
   <div id="query-category-box">
     <input type="text" name="q" id="query" value="">
@@ -28,17 +31,16 @@
   </div>
   <input type="submit" value="Cover Search" class="button-blue-w120" id="button-cover-search">
 </form>
-<form method="get" action="google-search" name="google-form" id="google-form">
-  <input type="hidden" name="q" value="">
-  <input type="hidden" name="sa" value="Google Search">
-  <input type="hidden" name="client" value="pub-5682289229098875">
-  <input type="hidden" name="forid" value="1">
-  <input type="hidden" name="channel" value="9978157930">
-  <input type="hidden" name="ie" value="UTF-8">
-  <input type="hidden" name="oe" value="UTF-8">
-  <input type="hidden" name="cof" value="GALT:#008000;GL:1;DIV:#336699;VLC:336699;AH:center;BGC:FFFFFF;LBGC:FFFFFF;ALC:336699;LC:336699;T:000000;GFNT:336699;GIMP:336699;LH:0;LW:0;L:http://www.cdcovers.to/images/logo_176x50.gif;S:http://;FORID:11">
-  <input type="hidden" name="hl" value="en">
+<form action="http://cdcovers.to/google-search" id="cse-search-box" style="display: none">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-5682289229098875:1701774319">
+    <input type="hidden" name="cof" value="FORID:10">
+    <input type="hidden" name="ie" value="UTF-8">
+    <input type="text" name="q" size="55">
+    <input type="hidden" name="sa" value="Search">
+  </div>
 </form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 <script language="javascript" type="text/javascript">
 $('#query').addClass('inputText');
 $('#category').combobox({width: '150px'});
@@ -57,8 +59,8 @@ $('#button-cover-search')
     .clone(true)
     .text('Google Search')
     .click(function() {
-      $('#google-form input[name="q"]').val($('#query').val());
-      $('#google-form').submit();
+      $('#cse-search-box input[name="q"]').val($('#query').val());
+      $('#cse-search-box').submit();
     })
   )
   .remove();
@@ -117,7 +119,7 @@ Feel free to <a href="/contact-us">contact us</a> any time and we'll answer any 
       <a href="http://cdcovers.to/contact-us">Contact us</a> |
       <a href="http://cdcovers.to/privacy-policy">Privacy policy</a><br>
       <br>
-      Searching 4,259,557 covers in 12 websites - © Copyright 1999-2009, All Rights Reserved
+      Searching 4,317,301 covers in 12 websites - © Copyright 1999-2010, All Rights Reserved
     </div>
     <br>
 <script type="text/javascript">
