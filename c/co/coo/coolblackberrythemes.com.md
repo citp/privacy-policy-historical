@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolblackberrythemes.com privacy policy that was archived on 2010-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101115190853id_/http%3A//www.coolblackberrythemes.com/cart/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolblackberrythemes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101223422id_/http%3A//www.coolblackberrythemes.com/cart/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice : Cool BlackBerry Themes
 
