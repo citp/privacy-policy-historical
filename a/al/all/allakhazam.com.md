@@ -1,84 +1,27 @@
-> *The following text is extracted and transformed from the allakhazam.com privacy policy that was archived on 2005-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050203191050id_/http%3A//allakhazam.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allakhazam.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101165350id_/http%3A//www.zam.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement :: ZAM
 
-##  Privacy Statement for AllaKhazam's Magical Realm
+The Allakhazam Website ([www.ALLAKHAZAM.com](http://www.allakhazam.com/)) and ZAM Website ([www.ZAM.com](http://www.zam.com/)) is maintained by [ZAM Network, LLC](http://www.zam.com/). Protecting your privacy is important to ZAM Network, LLC, and this statement is intended to make you aware of our commitments to you as an important visitor to our website. This policy may change from time to time, so please check back periodically.
 
-**AllaKhazam's Magical Realm** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for all sites under the allakhazam.com domain 
-
- 
-
-**Information Automatically Logged**
-
-We use your IP address to help diagnose problems with our server and to administer our Web site. Your IP address is also used to help identify you and your login name.
-
- 
-
-**Cookies**
-
-Our Site uses cookies to deliver content specific to your interests. We also use cookies to save your password and login information so that you don't have to re-enter it each time you visit our site.  In order to use the Premium Services, you need to have cookies enabled. 
-
-**Third Party Cookies**
-
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.  And the link they should use is: <http://www.doubleclick.net/us/corporate/privacy>.   
- 
-
-**Third Party Advertising**
-
-Some of the ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visit to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you on this site. For more information about DoubleClick, cookies, and how to "opt-out", please [click here](http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&).   
- 
-
-**Registration Forms**
-
-Our site's registration form requires users to give us contact information (like their name and email).  Contact information from the registration forms is used to get in touch with the customer when necessary and to verify that the registration is legitimate. 
-
-The Premium registration form collects personal information.  This is used solely to verify your credit card information and none of that information will be be sold or distributed to any third party, unless ordered by a valid court of law.
-
- 
-
-**External Links**
-
-This site contains links to other sites. **AllaKhazam's Magical Realm** is not responsible for the privacy practices or the content of such Web sites.   
- 
-
-**Public Forums**
-
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
-
- 
-
-**Security**
-
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control.   
- 
-
-**Children's Guidelines**
-
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children: 
-
-\- Children under the age of 13 are not allowed to register to use the premium service or other registered functions.   
-\- We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.   
-\- We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent.   
-\- When verifiable parental consent is not obtained, we will only use the online contact information (such as email) to:   
-   \- Respond directly to the child's request on a one-time basis and not use that information to re-contact the child for other purposes.   
-   \- Request the name or online contact information of a parent for the purpose of obtaining verifiable parental consent or providing parental notification.   
-   \- Respond more than once directly to a specific request from a child (such as in the case where a child requests a newsletter subscription) and not used to re-contact the child for other purposes. We will use our best efforts to provide parental notification, which will include the nature and intended use as well as an opportunity for the parent to prevent the use of the information and participation in the activity.   
-\- We will NOT provide any links to Web sites that are unsuitable for children.   
-\- We will encourage children to get their parent's permission before sharing personal information online.
-
- 
-
-**Data Quality/Access**
-
-This site gives users the following options for changing and modifying information previously provided: 
-
-  1. You can send email to [allakhazam@allakhazam.com](mailto:allakhazam@allakhazam.com)
-  2. You can use the edit functions built into the various programs being used on the site.
+  1. **Scope of the Privacy Policy.** This Privacy Policy applies only to the collection and use of information collected online on the ZAM Network, LLC Website. Other websites that may be affiliated with ZAM Network, LLC may have different privacy policies. 
+  2. **Information.** We may collect your personally identifiable information ("Personal Information") when you visit the ZAM Network, LLC Website. Personal Information, however, is not collected on this website unless you choose to provide it to us. When making inquiries, ordering a product or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for certain Personal Information, including, for example, your name, mailing address, phone number and email address. If you are on a part of our website that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting. We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator ("URL") of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol ("IP") address. 
+  3. **Use of your information.** Information is collected and used in various ways that will help us better serve our customers and visitors to our website, including those below. 
+    1. **Browsing.** Information collected while browsing through our website. This information is collected to help run our site more efficiently, to gather broad demographic information, to monitor the level of activity on our site, and to evaluate the effectiveness of advertising and promotion. 
+    2. **Product Inquiries, Placing Orders, Customer Service & Technical Support.** Information collected when you contact ZAM Network, LLC about our product and service offerings. This information is necessary to identify your products or systems, understand the configuration of the products, diagnose your questions, and provide solutions. 
+    3. **Online surveys and polling.** Information collected you volunteer to complete surveys or participate in polls. Surveying and polling is extremely important to us as we use this information to improve our product and service offerings. 
+    4. **Promotional activities.** When you enter a contest or other promotion, we may ask you for information such as your name, address and e-mail address to administer the program or activity, to send you promotional e-mails, notify winners and make the winners' list publicly available in compliance with laws which may apply to such activities. 
+    5. **Newsletters and promotional e-mails.** As a service to our customers, we may e-mail you newsletters, promotional information and other information, using your Personal Information collected online. These e-mails will only be sent to you if you have agreed to receive them and you have the right to opt out from further receiving them. 
+    6. **Contact information:** If you contact us, we may keep a record of your correspondence or comments, including any information therein. We use this information to help us provide better service. 
+    7. **Sharing your Personal Information.** Unless we have your permission to do otherwise, we will share the Personal Information you provide online only with ZAM Network, LLC subsidiaries or affiliates or with entities that provide services to ZAM Network, LLC or are business partners of ZAM Network, LLC, and only for legitimate purposes including those described herein. Personal Information we collect online is used for responding to inquiries, processing orders, keeping you informed about your order status, for statistical purposes, for improving our site and its performance, for developing better products and services, to serve advertisements, contests, surveys and promotions, and to notify you of products or special offers that may be of interest to you. ZAM Network, LLC (or part of it) or its related entities could merge with or be acquired by another business entity or their respective assets could be acquired. Should such a combination or acquisition occur, you should expect that ZAM Network, LLC would share some or all of your Personal Information to continue serving you and other users of our website. Occasionally, we may be required by law enforcement or judicial authorities to provide your Personal Information to the appropriate authorities. We will disclose your Personal Information if required by law, upon receipt of a court order or subpoena, or to cooperate with a law enforcement investigation. We reserve the right to report to law enforcement authorities any activities that we, in good faith, believe to be unlawful. 
+    8. **Use of cookies and web beacons.**
+      1. **Cookies.** A "cookie" is a small data file that a website can send to your browser, which may then be stored on your system. We use cookies to better serve you when you return to our site. Some of our web pages may send cookies when you visit our site, make purchases, respond to online surveys or promotions, participate in a contest, or request information. Accepting the cookies used on our site enables our web server to identify your system by reading the cookie that has been stored on your system, but our web server cannot identify you unless you enter your Personal Information. Cookies that are placed when visiting our site cannot be used to obtain your Personal Information at another site. The information collected online permits us to analyze traffic patterns on our site. This can enable us over time to provide users with a better experience on our site by improving the content and making it easier to use. Depending on the browser used, you can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it, and you can also set your browser to turn off cookies. However, if you do so, some areas of this site may not function properly, or you will be required to re-enter your Personal Information to use an area of this site. 
+      2. **Web Beacons.** We may also use web beacon technologies to better tailor the site to provide better customer service. A web beacon is a single pixel .GIF that allows a website to count users who have visited that page or access certain cookies. These web beacons may be placed on specific pages across this website. When a visitor accesses these pages, an anonymous notice of that visit is generated which may be processed by us or by our vendors. These web beacons work in conjunction with cookies. If you don't want to associate your anonymous cookie information with your visits to these pages, depending on the browser used, you can set your browser to turn off cookies. 
+      3. **Behavioral advertising.** We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. to learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://networkadvertising.org](http://networkadvertising.org/).
+    9. **Children's privacy.** If you are under the age of 18, please make sure that you provide your Personal Information only after obtaining your parental consent. 
+    10. **Protecting your Personal Information.** While ZAM Network, LLC does not guarantee that unauthorized access will never occur, ZAM Network, LLC does take care in maintaining the security of your Personal Information and in preventing unauthorized access to it. 
+    11. **Links to other Websites.** Parts of our site contain links to our subsidiaries, affiliates and third-party websites for your convenience and information. If you use these links, you will leave ZAM Network, LLC's website. When you access these other sites, even ones that may contain the ZAM Network, LLC mark, please understand that we do not control the content and are not responsible for the privacy practices of that website. We suggest that you carefully review the privacy policies of each website you visit. This Online Privacy Statement does not cover the information practices of those websites linked to our site. These other sites may send their own cookies to users, collect data, or solicit Personal Information. 
+    12. **Changes to this Statement.** ZAM Network, LLC reserves the right to change this Online Privacy Statement at any time. Any such changes will be posted in this Privacy Statement. 
+    13. **Applicable laws.** ZAM Network, LLC will protect your Personal Information in accordance with the laws of the United States and the state of Delaware. 
 
 
-
-##  Contacting the Web Site
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-
-[allakhazam@allakhazam.com](mailto:allakhazam@allakhazam.com)
