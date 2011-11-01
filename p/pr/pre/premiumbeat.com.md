@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumbeat.com privacy policy that was archived on 2011-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110205060340id_/http%3A//www.premiumbeat.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumbeat.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101154830id_/http%3A//www.premiumbeat.com/privacy_policy) for the most accurate reproduction.*
 
 # Premiumbeat.com - Privacy Policy
 
@@ -9,7 +9,7 @@ We never sell, share or rent our e-mail list. Your e-mail address is used exclus
 
 The credit card information provided when you purchase a product from us is processed through a separate website that features state-of-the-art protection and encryption processing system. Premiumbeat.com does not store your credit card information on our server. 
 
-We also do not gather personal information from visitors. However, we do gather general information when you visit our website. For example, we like to know from which country you are visiting, what browser you use, which of our pages are visited most often, what kind of music is most popular, etc. This sort of information helps us to understand our customers’ needs and serve them better. 
+We do not gather personal or individual information from visitors. However, we do gather general information. For example, we like to know which of our pages are visited most often, what kind of music is most popular, from which countries we get most visitors, what browser is most popular, etc. This information is anonymous and collected as the aggregation of all visitors together. This sort of information helps us to understand our customers' needs and serve them better.
 
 When you become a member or purchase a product from us, you fill in a form with your address, phone number and e-mail in order to complete the transaction. We keep this information securely on file in case we need to communicate with you, and to expedite future transactions. But we do not share this information with anyone else.
 
