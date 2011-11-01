@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523050216id_/http%3A//www.aiuniv.edu/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuniv.edu privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101125901id_/http%3A//www.aiuniv.edu/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
