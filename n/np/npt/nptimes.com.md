@@ -1,21 +1,14 @@
-> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2010-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100327133740id_/http%3A//www.nptimes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nptimes.com privacy policy that was archived on 2011-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111101163155id_/http%3A//www.thenonprofittimes.com/privacy) for the most accurate reproduction.*
 
-# NP Times: Privacy Policy
+# TheNonProfitTimes
 
-[](https://web.archive.org/web/20100327133740id_/http%3A//www.nptimes.com/index.html)   
+**Our postal address is**  
+201 Littleton Road - 2nd Floor  
+Morris Plains NJ 07950
 
+Tel:  (973) 401-0202  
+Fax: (973) 401-0404
 
-**  
-Privacy Policy Statement**  
-
-
-This is the web site of The NonProfit Times.
-
-Our postal address is  
-201 Littleton Road - 2nd Floor   
-Morris Plains NJ 07950  
-Tel:  973-401-0202   
-Fax: 973-401-0404  
 We can be reached via e-mail at [circulation@nptimes.com](mailto:circulation@nptimes.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
@@ -32,4 +25,4 @@ From time to time, we make the e-mail addresses of those who access our site ava
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us an e-mail at the address provided above. 
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Customers may prevent their information from being used for purposes other than those for which it was originally collected by sending us an e-mail at the address provided above.
