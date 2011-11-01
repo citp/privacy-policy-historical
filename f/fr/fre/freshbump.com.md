@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the freshbump.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409132641id_/http%3A//groundwavemedia.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshbump.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102003849id_/http%3A//groundwavemedia.com/privacy.html) for the most accurate reproduction.*
 
 # GMG Privacy Policy
 
 This is the web site of Groundwave Media Group Inc.. 
 
-This is a privacy policy for all GMG sites including formatmag.com, definitivetouch.com, freshbump.com, theshoebuff.com, and collect3d.com 
+This is a privacy policy for all GMG sites including assemblist.com, definitivetouch.com, everyguyed.com, finercut.com, formatmag.com, framegeek.com, freshbump.com, hellokisses.com, suitored.com, thecarry.com, theshoebuff.com 
 
 Our postal address is  
 873 St. Clair W. St 3  
 Toronto, ON, M6C 1C4  
-We can be reached via e-mail at editors@formatmag.com  
+We can be reached via e-mail at info@everyguyed.com  
 or you can reach us by telephone at 647-886-4866 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
