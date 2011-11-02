@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the linuxaria.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504235310id_/http%3A//www.linuxaria.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linuxaria.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102134549id_/http%3A//linuxaria.com/privacy-policy%3Flang%3Den) for the most accurate reproduction.*
 
-# » Linuxaria Privacy Policy
+# » Linuxaria – Everything about GNU/Linux and Open source Privacy Policy
 
 At [www.linuxaria.com](http://www.linuxaria.com/), the privacy of our visitors is of extreme importance to us (See [this article](http://www.wp-insert.smartlogix.co.in/what-is-a-privacy-policy/) to learn more about Privacy Policies.). This privacy policy document outlines the types of personal information is received and collected by[www.linuxaria.com](http://www.linuxaria.com/) and how it is used.
 
