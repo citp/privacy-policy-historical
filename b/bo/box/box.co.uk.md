@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the box.co.uk privacy policy that was archived on 2010-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101108094500id_/http%3A//www.box.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the box.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102055422id_/http%3A//www.box.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Birmingham's Top Laptop Shop - Desktops, Cables, Components, Projectors from Box Limited
+# Box Limited Business Privacy Policy
 
 This privacy policy sets out how Box Limited uses and protects any information that you give Box Limited when you use this website.
 
