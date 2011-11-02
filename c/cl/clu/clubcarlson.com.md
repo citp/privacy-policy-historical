@@ -1,11 +1,15 @@
-> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424133623id_/http%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubcarlson.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011550id_/http%3A//www.clubcarlson.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Carlson Hotels Guest Privacy Policy
 
 Guest Privacy Policy  |   
 ---|---  
   
-[](http://www.truste.org/ivalidate.php?url=www.goldpointsplus.com&sealid=103)**Carlson Hotels Guest Privacy Policy** \- Effective October 28, 2007  
+[](http://www.truste.org/ivalidate.php?url=www.goldpointsplus.com&sealid=103)
+
+[Click here for the Club Carlson for Business Privacy Policy](http://www.clubcarlson.com/offers/4139729)
+
+**Carlson Hotels Guest Privacy Policy** \- Effective October 28, 2007  
 Last Updated - March 31, 2011
 
  **Carlson Hotels Privacy Promises**. Carlson Hotels together with its subsidiaries (collectively, "Carlson Hotels") take your privacy seriously. These are our ten promises to you:
