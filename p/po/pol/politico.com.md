@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610135045id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politico.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011207id_/http%3A//www.politico.com/privacy) for the most accurate reproduction.*
 
-# POLITICO.com
-
-## Privacy Policy
+# Privacy - POLITICO.com
 
 **Last Updated:** January 10, 2011  
 This Privacy Policy discloses the privacy practices for the www.politico.com website (the "Site"), which is provided by The POLITICO ("we" or "us"), a publication of POLITICO LLC. This Privacy Policy governs our collection of information from you through your use of the Site. It does not apply to any information you may provide to us through other means; for example, via mail or via telephone. Please read this Privacy Policy carefully so that you understand our online privacy practices. By visiting this Site, you agree that your visit, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Visitor Agreement. Questions regarding privacy issues should be directed to us at feedback@politico.com or POLITICO, 1100 Wilson Blvd., 6th Floor, Arlington, VA 22209 
 
-**TYPES OF INFORMATION WE COLLECT**   
+## TYPES OF INFORMATION WE COLLECT 
+
 The information we gather falls into two categories: (1) information voluntarily supplied by users to the Site through optional registration; and (2) tracking information gathered as users navigate through the Site. 
 
 **Information You Provide To Us**   
@@ -19,34 +18,40 @@ We also may use web beacons (also known as "single-pixel GIFs") to access cookie
 
 We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about users of our Site and about activity that occurs within our Site, and we may use this information to, among other things, serve targeted advertisements on our Site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns. We also may use third-party advertising companies to target and serve some of the advertisements that appear on our Site, and these companies likewise may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from users of our Site. The information collected by these companies does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer. These companies may use that information, sometimes in conjunction with similar non-personally identifiable information gathered from other websites, to deliver advertisements on this Site, and possibly on other websites (if the third-party advertising company operates an advertising network), tailored to match the perceived interests of consumers. The collection and use of information by these companies is governed by the relevant third party's privacy policy and is not covered by our privacy policy. If you would like more information about this practice, or if you would like information on how to opt out of these information collection practices, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-**USE AND DISCLOSURE OF INFORMATION**  
+## USE AND DISCLOSURE OF INFORMATION
+
 POLITICO uses the information it collects from you while you are using the Site in a variety of ways, including using the information to customize features and advertising that appear on the Site. We also may provide your information to third parties, such as service providers, contractors, and advertisers, for a variety of purposes. For example, we may provide our advertisers with information about you and other visitors that will enable our advertisers to better target ads to specific types of visitors. 
 
 You agree that we may use your information to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices, offers and any other communications that we believe may be of interest to you. 
 
-We reserve the right to disclose to third parties all of the information that we collect online about you and other visitors, with one important exception Ã¢â‚¬â€œ if you make a purchase on our Site, we will not share your credit card number or other financial information with any third party. We may, however, share non-financial information in accordance with this Privacy Policy. 
+We reserve the right to disclose to third parties all of the information that we collect online about you and other visitors, with one important exception — if you make a purchase on our Site, we will not share your credit card number or other financial information with any third party. We may, however, share non-financial information in accordance with this Privacy Policy. 
 
-Please also keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online Ã¢â‚¬â€œ for example on message boards, through email or web logs, or in chat areas Ã¢â‚¬â€œ that information can be seen, collected and used by others besides POLITICO. We cannot be responsible for any unauthorized third party use of such information. 
+Please also keep in mind that whenever you voluntarily make your personal information available for viewing by third parties online — for example on message boards, through email or web logs, or in chat areas — that information can be seen, collected and used by others besides POLITICO. We cannot be responsible for any unauthorized third party use of such information. 
 
 Please be aware that we may occasionally release information about visitors when release is appropriate to comply with law, to enforce our Terms of Service www.politico.com/termsofservice.html, or to protect the rights, property or safety of visitors to our Site, the public, or to us or our Site. 
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that POLITICO, some or all of our assets, or our Site is acquired by another company, information about our visitors may be among the transferred assets. 
 
-**THIRD-PARTY SITES**  
+## THIRD-PARTY SITES
+
 Our Site includes links to third party websites whose privacy policies we do not control. Once you leave the Site, any information you provide at another site will be governed by the privacy policy of the operator of the site you are visiting. The privacy policies of third party websites may differ from that of POLITICO. 
 
-**CHILDREN'S PRIVACY**  
+## CHILDREN'S PRIVACY
+
 This children's privacy statement explains POLITICO's practices with respect to the online collection and use of personal information from children under the age of thirteen, and provides important information on your rights under federal law with respect to such information. 
 
 This Site is not directed to children under the age of thirteen and we do NOT knowingly collect personally identifiable information from children under the age of thirteen. We screen users who wish to provide personal information in order to prevent users under the age of thirteen from providing such information. If we become aware that we have inadvertently received personally-identifiable information from a user under the age of thirteen, we will delete such information from our records. Because we do not collect any personally identifiable information from children under the age of thirteen, we also do NOT knowingly distribute any such information to third parties. We do NOT knowingly allow children under the age of thirteen to publicly post or otherwise distribute personally identifiable contact information. 
 
-**MODIFYING YOUR INFORMATION AND OPTING OUT**  
-If you register with us, you will have the opportunity to review, update, change or delete the information you have provided us (and that we continue to store) at any time. If you remove your registration information completely, you may not be able to continue using certain services that require registration. To review, update, change or delete your registration information visit www.politico.com. 
+## MODIFYING YOUR INFORMATION AND OPTING OUT
+
+If you register with us, you will have the opportunity to review, update, change or delete the information you have provided us (and that we continue to store) at any time. If you remove your registration information completely, you may not be able to continue using certain services that require registration. To review, update, change or delete your registration information visit [www.politico.com](http://www.politico.com/). 
 
 If you have subscribed to one of our email newsletters, you will always have the opportunity to unsubscribe from future mailings by logging into to your POLITICO account at the top of any page on the site, and modifying your preferences. 
 
-**STORAGE OF INFORMATION**  
+## STORAGE OF INFORMATION
+
 All information gathered on our Site is stored within a database accessible only to POLITICO. However, as effective as the reasonable security measures implemented by us may be, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information supplied will not be intercepted while being transmitted over the Internet. 
 
-**CHANGES TO THIS POLICY**  
+## CHANGES TO THIS POLICY
+
 The Internet is an evolving medium. If we need to change this Privacy Policy at some point in the future, we'll post the modified Privacy Policy on this Site and update the Effective Date of the policy to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified. 
