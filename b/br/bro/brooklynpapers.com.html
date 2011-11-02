@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the brooklynpapers.com privacy policy that was archived on 2011-01-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110103075533id_/http%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brooklynpapers.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102233758id_/http%3A//www.brooklynpaper.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en" class="webkit safari linux js"><head>
-<title>The Brooklyn Paper: BrooklynPaper.com Privacy Policy</title><meta http-equiv="content-type" content="text/html; charset=utf-8">
+<title>The Brooklyn Paper: BrooklynPaper.com Privacy Policy</title><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
 <meta name="robots" content="all">
 
 <!--links to style sheets-->
 <style type="text/css" media="screen">@import url("/assets/styles/main.css");</style>
 <link rel="stylesheet" media="print" href="/assets/styles/print.css" type="text/css">
 <!--[if lte IE 8]>
+    <link rel="stylesheet" href="/assets/styles/IE8.css" type="text/css">
+<![endif]-->
+<!--[if lte IE 7]>
     <link rel="stylesheet" href="/assets/styles/IE.css" type="text/css">
 <![endif]-->
 <!--[if lte IE 6]>
@@ -19,8 +23,20 @@
 
 
 
-<script type="text/javascript">var pub = "bp";
-var subPub = "none"; var yourip = "207.241.232.192"; var bpv = "BP_VOLUME"; var bpi = "BP_ISSUE";</script><!--changes class of html tag to reflect browser-->
+
+
+
+
+
+
+<script type="text/javascript">var pub = "bp"; 
+var pub_dom = "brooklynpaper.com";
+var pub_section = "privacy";
+var pub_auth = "";
+var subPub = "none"; var yourip = "207.241.237.220"; var bpv = "BP_VOLUME"; var bpi = "BP_ISSUE"; var analytics_id = "UA-403969-3";</script>
+
+
+<!--changes class of html tag to reflect browser-->
 <script src="/assets/scripts/browser.js" type="text/javascript"></script>
 <script type="text/javascript" src="/assets/scripts/swfobject2.js"></script>
 
@@ -38,7 +54,10 @@ function element_swap(ida,idb) {
 function init() {
 	if (initiated) return;
 	initiated = true;
-
+	
+	x = document.getElementById('thePage');
+	if (x != null) x.style.height = 'auto';
+	
 	//Swap out hidden Google ads to hack the FOUC
 	element_swap("theGoogleLeaderboardAd_","theGoogleLeaderboardAd");
 	//element_swap("theAd3_","theAd3");
@@ -50,8 +69,17 @@ var storyland = false;
 //alert(yourip);
 
 function tryMegaMap () {
-	if (typeof megaMapInit != 'undefined') {
-		megaMapInit();
+
+	if (typeof Mapigator != 'undefined') {
+		var response = true;
+		var n = 0; var mapthing = [];
+		while (response == true) {
+			mapthing[n] = new Mapigator(n);
+			
+			if (typeof mapthing[n].megaMapInit != 'undefined') response = mapthing[n].megaMapInit();
+			else response = false;
+			n++;
+		} 
 	}
 	
 	if (typeof GUnload != 'undefined') {
@@ -91,27 +119,11 @@ function loadJWVideo (theFile, theId, splash, height, width, dispht, stretch) {
 	return true;
 }
 </script>
-
-
 <script type="text/javascript" src="/assets/scripts/json.js"></script>
 
 
 
 
-<!--
-<script type="text/javascript">
-if (/WebKit|Mozilla/i.test(navigator.userAgent)) { // sniff
-	var _timer = setInterval(function() {
-		if (/loaded|complete/.test(document.readyState)) {
-			clearInterval(_timer);
-			init(); // call the onload handler
-		}
-	}, 10);
-} else {
-	init();
-}
-</script>
--->
 <!--links to feeds-->
 <link rel="alternate" type="application/rss+xml" title="Brooklyn Paper RSS: Full articles" href="/assets/feeds/rss_full.x">
 <link rel="alternate" type="application/rss+xml" title="Brooklyn Paper RSS: Excerpts" href="/assets/feeds/rss.x">
@@ -126,7 +138,7 @@ if (/WebKit|Mozilla/i.test(navigator.userAgent)) { // sniff
 	<meta http-equiv="IMAGETOOLBAR" content="false">
 
 <!--bookmark icon-->
-<meta name="description" content="Your neighborhood, your news."><meta name="keywords" content="brooklyn, kings county, newspaper, news, new york, bklyn"><link rel="shortcut icon" href="/assets/images/favicon.ico"><link rel="apple-touch-icon" href="/assets/images/bp_icon_iphone.png">
+<meta name="description" content="Your neighborhood, your news."><meta name="keywords" content="brooklyn, kings county, newspaper, news, new york, bklyn"><link rel="shortcut icon" href="/assets/images/favicon.ico"><link rel="canonical" href="http://www.brooklynpaper.com/about/privacy/"><link rel="apple-touch-icon" href="/assets/images/bp_icon_iphone.png">
 
 <script type="text/javascript">
 var clickReq;
@@ -163,10 +175,7 @@ function flipToggle(id,tri) {
 		y.alt='Close:';
 	}
 }
-</script>
 
-
-<script type="text/javascript">
 var jsReq;
 
 function tryJs() {
@@ -184,9 +193,26 @@ function tryJs() {
 	}
 }
 tryJs();
+
+</script>
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', analytics_id]);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script type="text/javascript">
+function log_ga_ad_impression (shorthand) {
+_gaq.push(["_trackEvent","Ads","Impressions",shorthand,null,true]);
+}
 </script>
 
-<style type="text/css" media="screen">#theFlashAdBox313 {visibility:hidden}</style></head>
+</head>
 <body>
 
 
@@ -198,11 +224,10 @@ tryJs();
 <div id="theBannerWrapper">
 
 
-
-
 	<div id="theBanner">
 			<div id="theLogo" style="white-space: nowrap;">
-<a href="/"><img src="/assets/images/bplogo_med8.gif" width="400" height="50" alt="The Brooklyn Paper"></a>			</div>
+<a href="/"><img src="/assets/images/bplogo_med8.gif" width="400" height="50" alt="The Brooklyn Paper">
+</a>			</div>
 
 			<div id="thePrintLogo">
 <img src="/assets/images/print_logo8.png" width="336" height="42" alt="The Brooklyn Paper">
@@ -219,7 +244,7 @@ tryJs();
 <table border="0" cellspacing="0" cellpadding="0" style="width: 246px; height: 54px;">
 	<tbody><tr>
 		<td colspan="2" style="height: 27px; vertical-align: middle; text-align: center;">
-<input type="text" name="q" maxlength="255" id="q" value="Theater? Lost parrots?" onfocus="if (this.value=='Theater? Lost parrots?') { this.value=''; this.style.color='black'; }" style="border-width: 0; outline-width: 0; background-color: transparent; font-size: 11px; padding: 0 5px; width:95%; color: #666; margin: 0;">		</td>
+<input type="text" name="q" maxlength="255" id="q" value="Movers? Moped gangs?" onfocus="if (this.value=='Movers? Moped gangs?') { this.value=''; this.style.color='black'; }" style="border-width: 0; outline-width: 0; background-color: transparent; font-size: 11px; padding: 0 5px; width:95%; color: #666; margin: 0;">		</td>
 	</tr>
 	<tr>
 		<td style="vertical-align: middle; text-align: left; width: 50%;">
@@ -241,18 +266,24 @@ tryJs();
 	</tr>
 </tbody></table>
 					</form>
-				</div><div style="clear:both;"></div>
+				</div>
+<div style="clear:both;"></div>
 	<!-- /theBanner --></div>
 <!-- /theBannerWrapper --></div>
+
+
 <div id="theSubBannerWrapper">
-<div id="theSubBanner"><div id="theAlts"><div id="altsDate">January 3, 2011</div>
-	<a href="/archive/" id="altsArchive"><img src="/assets/images/paper8.png" height="10" width="10" alt="">Past issues</a><a href="/feeds/" id="altsFeeds" title="Access our RSS 2.0 feeds"><img src="/assets/images/feed8.png" height="10" width="10" alt="">RSS feeds</a>
+<div id="theSubBanner"><div id="theAlts"><div id="altsDate">November 2, 2011</div><a href="/archive/" id="altsArchive"><img src="/assets/images/paper8.png" height="10" width="10" alt="">Past issues</a><a href="/feeds/" id="altsFeeds" title="Access our RSS 2.0 feeds"><img src="/assets/images/feed8.png" height="10" width="10" alt="">Feeds</a>
 	<a href="/about/where/" id="altsPrint" title="Where to get the Brooklyn Paper in print"><img src="/assets/images/stack8.png" height="10" width="10" alt="">The Paper in print</a>
 	<a href="http://twitter.com/Brooklyn_Paper" id="altsTwitter" title="Follow The Brooklyn Paper via Twitter"><img src="/assets/images/twitter.png" height="10" width="10" alt="">Twitter</a>
-	<a href="http://www.facebook.com/pages/The-Brooklyn-Paper/47525629960" id="altsFacebook" title="Follow The Brooklyn Paper via Facebook"><img src="/assets/images/facebook.png" height="10" width="10" alt="">Facebook</a><a href="/about/alerts/" id="altsBlast" title="Receive updates via email"><img src="/assets/images/mail_alt8.png" height="10" width="10" alt="">Email newsletter</a></div><!-- /theSubBanner --></div>
-<!-- /theSubBannerWrapper --></div><div id="thePage">
+	<a href="http://www.facebook.com/BrooklynPaper" id="altsFacebook" title="Follow The Brooklyn Paper via Facebook"><img src="/assets/images/facebook.png" height="10" width="10" alt="">Facebook</a>
+	<a href="/about/contact/" id="altsContact"><img src="/assets/images/phone.png" height="10" width="10" alt="">Contact</a><a href="/about/alerts/" id="altsBlast" title="Sign up to receive our email newsletter"><img src="/assets/images/mail_alt8.png" height="10" width="10" alt="">Email updates</a></div><div style="clear:both;"></div><!-- /theSubBanner --></div>
+<!-- /theSubBannerWrapper --></div><div id="thePage" style="height: auto;">
 <div id="theColumns">
 	<dl id="theLinkColumn" class="linkColumn">
+	
+	
+	
 			<dt class="top"><a href="/">All Brooklyn news</a></dt><dd></dd>
 			
 			<dt><a href="/sections/neighborhoods/" title="Find your neighborhood news on our Brooklyn map">Neighborhood Map</a></dt>
@@ -311,7 +342,7 @@ tryJs();
 <li><a href="/sections/go/events/cat/Family" title="Brooklyn events for kids">Family events</a></li>
 <li><a href="/sections/go/events/cat/Civic" title="Brooklyn civic and political events">Civic calendar</a></li>
 <li><a href="/sections/go/events/venues/" title="Brooklyn clubs and venues">Venue list</a></li>
-<li><a href="/sections/go/events/?map=1&amp;date_code[]=20110103" title="Brooklyn events map"><b>MAP:</b> Today’s events</a></li><li><a href="/events/submit/">Submit an event</a></li>
+<li><a href="/sections/go/events/?map=1&amp;date_code[]=20111102" title="Brooklyn events map"><b>MAP:</b> Today’s events</a></li><li><a href="/events/submit/">Submit an event</a></li>
 			</ul></dd>
 
 			<dt><a href="/sections/classifieds/" title="Brooklyn Classifieds">Classifieds</a></dt>
@@ -323,6 +354,7 @@ tryJs();
 <li><a href="/sections/classifieds/cat/Real+Estate" title="Brooklyn Real Estate listings">Real Estate</a></li>
 <li><a href="/sections/classifieds/cat/Professional+Services" title="Brooklyn Service listings">Professional Services</a></li>
 <li><a href="/sections/classifieds/cat/Religious+Services" title="Brooklyn churches, synagogues, temples and mosques">Religious Services</a></li>
+<li><a href="/showcase/" title="Download our Showcase of Homes special section in PDF format">Showcase of Homes special</a></li>
 			</ul></dd>
 			
 			<dt><a href="/sections/wire/" title="The Brooklyn Wire: Scouring the Web for All Things Brooklyn">The Brooklyn Wire</a></dt>
@@ -344,7 +376,7 @@ tryJs();
 			<dt><a href="/sections/news/crime/">Police Blotter</a></dt>
 			<dd><ul class="subcats">
 			<li><a href="/sections/news/crime/blotter/">Crime database</a></li>
-<li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20101224-20110103" title="Brooklyn crime map"><b>MAP:</b> Last 10 days</a></li><li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20101204-20110103" title="Brooklyn crime map"><b>MAP:</b> Last 30 days</a></li><li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20101005-20110103" title="Brooklyn crime map"><b>MAP:</b> Last 90 days</a></li>						</ul></dd>
+<li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20111023-20111102" title="Brooklyn crime map"><b>MAP:</b> Last 10 days</a></li><li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20111003-20111102" title="Brooklyn crime map"><b>MAP:</b> Last 30 days</a></li><li><a href="/sections/news/crime/blotter/?map=1&amp;date_code[]=20110804-20111102" title="Brooklyn crime map"><b>MAP:</b> Last 90 days</a></li>						</ul></dd>
 						
 			<dt><a href="/sections/perspective/" title="Columns, blogs, &amp; editorials">Perspective</a></dt>
 			<dd><ul class="subcats">
@@ -390,10 +422,12 @@ tryJs();
 <li><a href="/sections/sports/cyclones/shakespeare/">The Play’s the Thing</a></li>
 			</ul></dd>
 
-			<dt><a href="/sections/advertorial/" title="Brooklyn businesses">Merchant news</a></dt>
+			<dt><a href="/sections/advertorial/">Special sections</a></dt>
 			<dd><ul class="subcats">
-<li><a href="/sections/advertorial/health/" title="Brooklyn health">Health, Mind &amp; Body</a></li>
-<li><a href="/giftguide/" title="Brooklyn gift guide">Holiday gift guide</a></li>
+<li><a href="/learn-to-earn/">Learn to Earn!</a></li>
+<!--<li><a href="/showcase/">Showcase of Homes</a></li>-->
+<li><a href="/whos-who/" title="Who’s Who in Brooklyn Medicine &amp; Healthcare">Who’s Who</a></li>
+<li><a href="/women-of-distinction/" title="Brooklyn’s Women of Distinction">Women of Distinction</a></li>
 			</ul></dd>
 
 			<dt><a href="/about/" title="About The Brooklyn Paper">About The Paper</a></dt>
@@ -411,6 +445,9 @@ tryJs();
 <li><a href="/about/terms/">Terms of Use</a></li>
 			</ul></dd>
 
+			<dt><a href="http://mobile.brooklynpaper.com/" title="The Brooklyn Paper for Mobile browsers">Mobile site</a></dt>
+			<dd></dd>
+	
 			<dt><a href="http://twitter.com/Brooklyn_Paper" title="Follow The Brooklyn Paper via Twitter"><img src="/assets/images/twitter.png" height="10" width="10" alt=""> Twitter</a></dt>
 			<dd></dd>
 			
@@ -429,38 +466,80 @@ tryJs();
 			</ul></dd>	
 		
 			
-			<!--<dt></dt>
+			<dt></dt>
 			<dd>
-			<ul class="ads">-->
-			<!--</ul></dd>-->
+			<ul class="ads">
+			
+<li><script type="text/javascript"><!--
+google_ad_client = "pub-3304996711663620";
+/* 120x600, created 3/30/11 */
+google_ad_slot = "9475329640";
+google_ad_width = 120;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></li>
 
+			</ul></dd>
 	<!-- /theLinkColumn --></dl><div id="theContent">
 
 <div id="theAdBar">
 
-<div class="leaderboard"><a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=301&amp;ad=449&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.nuhotelbrooklyn.com" target="_blank"><img src="/assets/ads/33_47_nuhotel_728x90.jpg" width="728" height="90" alt="Nu Hotel"></a></div><input type="hidden" class="placedAd" value="301:449">
-</div>		<div id="theNewsColumn">
+<div class="leaderboard"><a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=447&amp;ad=688&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.tvrepairsbrooklyn.com" target="_blank"><img src="/assets/ads/2011_11_03_brelectronics_333139_728x90.jpg" width="728" height="90" alt="B&amp;R Electronics_2011_11_02"></a></div><input type="hidden" class="placedAd" value="447:688">
+<script type="text/javascript"> 
+log_ga_ad_impression("B&R Electronics_2011_11_02");
+</script>
+</div>		<div id="theSectionColumn">
 		<div id="theSectionWrapper">
 		<div id="theModulebar" class="column">
-			
-				<div id="theHotStories" class="module">
-		<div class="stories">
-		<h1 class="logog"><img src="/assets/images/enfuegos_mini8.png" alt="Popular stories"></h1><div class="story" style="color:#444;font-size 90%;font-style:italic;text-align:center;">Our top 5 stories</div>
-		<div class="story"><span class="kicker">1.</span> <a href="/stories/33/53/print_snowpacalypse_2010_12_31_bk.html">Snow job! Brooklyn pols blast lackluster storm response</a></div><div class="story"><span class="kicker">2.</span> <a href="/stories/33/53/dtg_snowcarnage_2010_12_31_bk.html"><span class="kicker">Podcast:</span> YouBoob! Sanit workers caught in ‘Net destroying Heights cars</a></div><div class="story"><span class="kicker">3.</span> <a href="/stories/33/53/fg_88blotter_2010_12_24_bk.html"><span class="kicker">Fort Greene:</span> ‘Police Navidad’ at Atlantic Terminal</a></div><div class="story"><span class="kicker">4.</span> <a href="/stories/33/53/dtg_snowpacalypse_2010_12_31_bk.html"><span class="kicker">Brooklyn Is Angry:</span> Snow blind! Boro vents its fury over lame city blizzard response</a></div><div class="story"><span class="kicker">5.</span> <a href="/stories/33/52/bn_hotelclosing_2010_12_30_bk.html"><span class="kicker">The Greatest Story Ever:</span> Legendary ‘short-stay’ hotel satisfies its last customer</a></div>		</div>
+						Array<div id="theClassifiedsModule" class="module">
+
+<div class="stories"><h1 class="logog"><a href="/sections/classifieds/"><img src="/assets/images/classifieds8.png" width="154" height="31" alt="Classifieds"></a></h1>
+<div class="story"><a href="/sections/classifieds/?cat[]=Home+Improvement">Home Improvement</a></div>
+<div class="story"><a href="/sections/classifieds/?cat[]=Real+Estate">Real Estate</a></div>
+<div class="story"><a href="/sections/classifieds/?cat[]=Religious+Services">Religious Services</a></div>
+<div class="story"><a href="/sections/classifieds/?cat[]=Employment">Employment</a></div>
+<div class="story"><a href="/sections/classifieds/?cat[]=Professional+Services">Professional Services</a></div>
+<div class="story"><a href="/sections/classifieds/?cat[]=Merchandise">Merchandise</a></div>
+<div class="story"><a href="/sections/classifieds/?cat[]=Family">Family</a></div>
+				</div>
 				<div class="base"></div>
 			<!-- /module --></div>
-				<div id="theWireModule" class="module">
+<div class="module" id="theEmailBlastSignup"><h1>Sign up for daily news emails!</h1>
+	<form method="POST" action="/about/alerts/">
+	<input type="hidden" name="dummy" value="what">
+	<input type="hidden" name="alerts" value="1">
+	<input type="text" name="decoy" style="display:none;">
+	<div class="formlet">
+	<p><input id="theEmailBlastInput" type="text" name="email" value="Your email address" onfocus="if(this.value=='Your email address')this.value='';"></p>
+	
+	<p><input type="submit" value="Submit"></p>
+	</div>
+	</form>
+	<div class="base"></div></div><div id="theWireModule" class="module">
 		<div class="stories">
 		
 		<h1 class="logog"><a href="/sections/wire/"><img src="/assets/images/wire_teeny8.png" width="154" height="63" alt="The Brooklyn Wire"></a></h1>
 			<div class="story" style="color:#444;font-size 90%;font-style:italic;text-align:center;">Scouring the Web for all things Brooklyn</div>
 		
-		<div class="story"><a href="http://www.fuckedinparkslope.com/home/the-pavilion-movie-theater-has-officially-been-nominated-as.html"><span class="kicker">F—ed in Park Slope:</span> The Pavilion Movie Theater Has Officially Been Nominated As the Nastiest &amp; Most Disgusting Theater in Brooklyn...And Won</a></div><div class="story"><a href="http://www.nypost.com/p/news/local/brooklyn/uke_in_bloom_bliss_blood_at_the_Bn4TNpL9ENHqgtLgQFP8qN?CMP=OTC-rss&amp;FEEDNAME="><span class="kicker">New York Post:</span> Uke in bloom! Bliss Blood at the Castello Plan</a></div><div class="story"><a href="http://karmabrooklyn.blogspot.com/2011/01/fire-extinguished-on-argyle-road.html"><span class="kicker">KARMABrooklyn:</span> FIRE EXTINGUISHED ON ARGYLE ROAD</a></div><div class="story"><a href="http://brooklynheightsblog.com/archives/25559"><span class="kicker">Brooklyn Heights Blog:</span> Blackout on Middagh</a></div><div class="story"><a href="http://www.nypost.com/p/news/local/brooklyn/everyone_loves_the_three_kings_day_1jVFhiE0jjGudWgdI4MLpK?CMP=OTC-rss&amp;FEEDNAME="><span class="kicker">New York Post:</span> Everyone loves the Three Kings Day Parade</a></div>		</div>
+		<div class="story"><a href="http://www.nolandgrab.org/archives/2011/11/some_people_are.html"><span class="kicker">No Land Grab:</span> Some people are still interested in Atlantic Yards and the failure to hire an Independent Compliance Monitor</a></div><div class="story"><a href="http://feedproxy.google.com/~r/nymag/grubstreet/~3/U0j5WZW38lo/grit_n_glory_opening_in_the_le.html"><span class="kicker">Grub Street:</span> Grit N Glory Opening on the LES; Hickory Farms Lands in the South Street Seaport</a></div><div class="story"><a href="http://feedproxy.google.com/~r/nymag/intel/~3/cckDl0K8Aj0/man_charged_in_two_sexual_assa.html"><span class="kicker">Daily Intel:</span> Man Charged in Two Sexual Assaults at Occupy Wall Street</a></div><div class="story"><a href="http://ny.racked.com/archives/2011/11/02/8020_throws_a_shoe_party_fashionicecream_is_still_going.php"><span class="kicker">Racked:</span> RackedWire: 80%20 Throws a Shoe Party; #Fashionicecream Is Still Going</a></div><div class="story"><a href="http://curbed.com/archives/2011/11/02/personal-jungles-the-lushest-lots-on-the-market-in-america.php"><span class="kicker">Curbed:</span> On the Market: Personal Jungles: The Lushest Lots On the Market in America</a></div>		</div>
 				<div class="base"></div>
-			</div><script type="text/javascript" src="http://www.paperg.com/jsfb/embed.php?pid=8176&amp;bid=2515"></script><br><div id="PG_link" align="center"><a href="http://www.paperg.com/">Local advertising</a> by PaperG</div>
+			</div>
+				<div id="theHotStories" class="module">
+		<div class="stories">
+		<h1 class="logog"><img src="/assets/images/enfuegos_mini8.png" alt="Popular stories"></h1><div class="story" style="color:#444;font-size 90%;font-style:italic;text-align:center;">Popular stories</div>
+		<div class="story"><span class="kicker">1.</span> <a href="/stories/34/43/web_bikestruck_2011_10_28_bk.html"><span class="kicker">Mean Streets:</span> Dead Williamsburg cyclist was a major art figure</a></div><div class="story"><span class="kicker">2.</span> <a href="/stories/34/44/dtg_bb_oprahmikvah_2011_11_04_bk.html"><span class="kicker">Brooklyn Heights:</span> Yes, that was Oprah on Remsen Street</a></div><div class="story"><span class="kicker">3.</span> <a href="/stories/34/43/all_occupyappguy_2011_10_28_bk.html">Getting arrested at Occupy Wall Street? There’s an app for that</a></div><div class="story"><span class="kicker">4.</span> <a href="/stories/34/43/24_donutburger_2011_10_28_bk.html"><span class="kicker">The Best Thing We Ate This Week:</span> It’s a donut, no it’s a burger! Who cares? It’s delicious</a></div><div class="story"><span class="kicker">5.</span> <a href="/stories/34/43/24_hardinglittleneck_2011_10_28_bk.html"><span class="kicker">Dining:</span> Harding returns! Legendary chef to helm Littleneck clam shack</a></div>		</div>
+				<div class="base"></div>
+			<!-- /module --></div>
+				<div id="theBlotterModule" class="module">
+		<div class="stories">
+		<h1 class="logog"><a href="/sections/news/crime/blotter/"><img src="/assets/images/blotter_mini8.png" alt="Police Blotter"></a></h1>
+		<div class="story"><a href="/sections/news/crime/blotter/4214"><span class="kicker">Park Slope:</span> Muffin monster</a></div><div class="story"><a href="/sections/news/crime/blotter/4216"><span class="kicker">Park Slope:</span> Charity nab</a></div><div class="story"><a href="/sections/news/crime/blotter/4215"><span class="kicker">Park Slope:</span> Caught ya</a></div><div class="story"><a href="/sections/news/crime/blotter/4204"><span class="kicker">Williamsburg:</span> Kawasucker</a></div><div class="story"><a href="/sections/news/crime/blotter/4189"><span class="kicker">Williamsburg:</span> Mac jacked</a></div><div class="story"><a href="/sections/news/crime/blotter/4211"><span class="kicker">Park Slope:</span> Bad dinner</a></div><div class="story"><a href="/sections/news/crime/blotter/4190"><span class="kicker">Williamsburg:</span> Plate cracker</a></div><div class="story"><a href="/sections/news/crime/blotter/4187"><span class="kicker">Fort Greene:</span> Another iPhone</a></div>		</div>
+				<div class="base"></div>
+			</div>
 
-
-		<!-- /theModulebar --></div>
+				<!-- /theModulebar --></div>
 			<div id="theLeadColumn" class="column">
 			<div id="theSectionHead"><h1>BrooklynPaper.com Privacy Policy</h1></div>
 				<div id="theArticle">
@@ -510,48 +589,67 @@ tryJs();
 	<!-- /theSectionWrapper --></div>
 	<!-- /theNewsColumn --></div>
 	
+		<div id="theRightWrapper">
+		
+		
+
+		
 	<div id="theAdColumn">
-<div class="tower"><a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=253&amp;ad=378&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.brooklynpaper.com%2Fabout%2Fcontact%2Fadvertise" target="_blank"><img src="/assets/ads/33_20_promo_travis_fgreene_120x240.png" width="120" height="240" alt="Advertise with The Brooklyn Paper"></a></div><input type="hidden" class="placedAd" value="253:378"><div class="tower">
-		<div id="theFlashAdBox313" style="visibility: visible;">
-			<a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=313&amp;ad=464&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.flushingbank.com%2Fwilliamsburg.html" target="_blank"><img src="/assets/ads/33_53_flushingbank_120x240.png" width="120" height="240" alt="Flushing Bank"></a>
-		</div>
-		<script type="text/javascript">
-		var flashvars = {
-			clickTAG: "http%3A%2F%2Fwww.brooklynpaper.com%2Fassets%2Fscripts%2Fputclick.x%3Fc%3D313%26ad%3D464%26pub%3Dbp%26redir%3Dhttp%253A%252F%252Fwww.flushingbank.com%252Fwilliamsburg.html",
-			clickTag: "http%3A%2F%2Fwww.brooklynpaper.com%2Fassets%2Fscripts%2Fputclick.x%3Fc%3D313%26ad%3D464%26pub%3Dbp%26redir%3Dhttp%253A%252F%252Fwww.flushingbank.com%252Fwilliamsburg.html",
-			clicktag: "http%3A%2F%2Fwww.brooklynpaper.com%2Fassets%2Fscripts%2Fputclick.x%3Fc%3D313%26ad%3D464%26pub%3Dbp%26redir%3Dhttp%253A%252F%252Fwww.flushingbank.com%252Fwilliamsburg.html",
-			ClickTag: "http%3A%2F%2Fwww.brooklynpaper.com%2Fassets%2Fscripts%2Fputclick.x%3Fc%3D313%26ad%3D464%26pub%3Dbp%26redir%3Dhttp%253A%252F%252Fwww.flushingbank.com%252Fwilliamsburg.html",
-			ClickTAG: "http%3A%2F%2Fwww.brooklynpaper.com%2Fassets%2Fscripts%2Fputclick.x%3Fc%3D313%26ad%3D464%26pub%3Dbp%26redir%3Dhttp%253A%252F%252Fwww.flushingbank.com%252Fwilliamsburg.html"
-		};
-		swfobject.embedSWF("/assets/ads/33_53_flushingbank_120x240.swf", "theFlashAdBox313", "120", "240", "9.0.0", false, flashvars);
-		</script>
-		</div><input type="hidden" class="placedAd" value="313:464">
+<div class="tower"><a href="http://www.brooklynpaper.com/assets/scripts/putclick.x?c=357&amp;ad=522&amp;pub=bp&amp;redir=http%3A%2F%2Fwww.brooklynpaper.com%2Fwomen-of-distinction" target="_blank"><img src="/assets/ads/34_21_wod_120x240.png" width="120" height="240" alt="Brooklyn Women of Distinction"></a></div><input type="hidden" class="placedAd" value="357:522">
+<script type="text/javascript"> 
+log_ga_ad_impression("34/21 Brooklyn Women of Distinction");
+</script><div class="tower">
+<script type="text/javascript"><!--
+google_ad_client = "pub-3304996711663620";
+/* 120x240, created 4/1/11 */
+google_ad_slot = "6830385078";
+google_ad_width = 120;
+google_ad_height = 240;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+
+
 	<div id="linksTopper"><h1>Links</h1></div>
 	<dl id="theBlogLinks" class="linkColumn">
-		<dt class="top">Blogs</dt>
+		<dt class="top"><a href="http://www.brooklyn-usa.org/pothole.html">Report a Pothole</a></dt>
 		<dd><ul class="subcats">
-<li><a href="http://acrossthepark.typepad.com/atp/">Across the Park</a></li>
+<li></li>
+		</ul></dd>
+		
+		<dt>Blogs</dt>
+		<dd><ul class="subcats">
 <li><a href="http://amusingthezillion.com">Amusing the Zillion</a></li>
 <li><a href="http://atlanticyardsreport.blogspot.com">Atlantic Yards Report</a></li>
 <li><a href="http://bayridgebrooklyn.blogspot.com">Bay Ridge Blog</a></li>
 <li><a href="http://bayridgejournal.blogspot.com">Bay Ridge Journal</a></li>
 <li><a href="http://www.bayridgerover.com">Bay Ridge Rover</a></li>
 <li><a href="http://beehivehairdresser.com">Beehive Hairdresser</a></li>
+<li><a href="http://www.bensonhurtbean.com">Bensonhurst Bean</a></li>
 <li><a href="http://bestviewinbrooklyn.blogspot.com/">Best View in Brooklyn</a></li>
 <li><a href="http://blatherfrombrooklyn.wordpress.com">Blather from Brooklyn</a></li>
 <li><a href="http://bococaland.com">BococaLand</a></li>
+<li><a href="http://briccommunitymedia.wordpress.com/">BRIC Community Media</a></li>
 <li><a href="http://britinbrooklyn.squarespace.com">Brit in Brooklyn</a></li>
+<li><a href="http://www.brokelyn.com/">Brokelyn</a></li>
 <li><a href="http://brooklyn365.com/">Brooklyn365</a></li>
 <li><a href="http://thebrooklynink.com">Brooklyn Ink</a></li>
 <li><a href="http://brooklynbased.net">Brooklyn Based</a></li>
 <li><a href="http://brooklynheightsblog.com">Brooklyn Heights Blog</a></li>
 <li><a href="http://brooklynoptimist.blogspot.com">Brooklyn Optimist</a></li>
+<li><a href="http://www.thebrooklynpolitics.com/">The Brooklyn Politics Blog</a></li>
 <li><a href="http://www.brooklynrowhouse.com">Brooklyn Row House</a></li>
 <li><a href="http://www.brooklyntheborough.com">Brooklyn The Borough</a></li>
 <li><a href="http://www.brownstoner.com">Brownstoner</a></li>
+<li><a href="http://www.bushwickdaily.com">Bushwick Daily</a></li>
+
 <li><a href="http://cityroom.blogs.nytimes.com">City Room</a></li>
+<li><a href="http://cobblehillblog.com">Cobble Hill Blog</a></li>
+
 <li><a href="http://www.coneyisland.com/cgi-bin/yabb/YaBB.cgi">Coney Island Forum</a></li>
-<li><a href="http://coneymedia.wordpress.com">Coney Media</a></li>
+<li><a href="http://www.coneymedia.com">Coney Media</a></li>
 <li><a href="http://creativetimes.blogspot.com">Creative Times</a></li>
 <li><a href="http://www.curbed.com">Curbed</a></li>
 <li><a href="http://dailyheights.com">Daily Heights</a></li>
@@ -578,6 +676,7 @@ tryJs();
 <li><a href="http://mcbrooklyn.blogspot.com">McBrooklyn</a></li>
 <li><a href="http://www.nolandgrab.org">No Land Grab</a></li>
 <li><a href="http://onlytheblogknowsbrooklyn.com">Only the Blog Knows Brooklyn</a></li>
+<li><a href="http://plognyc.wordpress.com">PLOG</a></li>
 <li><a href="http://ny.therealdeal.com">The Real Deal</a></li>
 <li><a href="http://www.sheepsheadbites.com">Sheepshead Bites</a></li>
 <li><a href="http://www.whiteinbayridge.com">White in Bay Ridge</a></li>
@@ -595,13 +694,13 @@ tryJs();
 		<dt>Newspapers &amp; Magazines</dt>
 		<dd><ul class="subcats">
 <li><a href="http://www.amny.com">AM New York</a></li>
+<li><a href="http://www.brooklyndaily.com">Brooklyn Daily</a></li>
 <li><a href="http://www.brooklyneagle.com">Brooklyn Eagle</a></li>
-<li><a href="http://www.webfamilyny.com">Brooklyn Family</a></li>
+<li><a href="http://www.nyparenting.com">Brooklyn Family</a></li>
 <li><a href="http://www.brooklyndowntownstar.com">Brooklyn Star</a></li>
 <li><a href="http://www.brooklynrail.org">Brooklyn Rail</a></li>
 <li><a href="http://www.canarsiecourier.com">Canarsie Courier</a></li>
 <li><a href="http://www.caribbeanlifenews.com">Caribbean Life</a></li>
-<li><a href="http://www.yournabe.com">Courier-Life Publications</a></li>
 <li><a href="http://www.nydailynews.com/news/">Daily News</a></li>
 <li><a href="http://www.greenpointnews.com">Greenpoint Gazette</a></li>
 <li><a href="http://www.jewishpress.com">Jewish Press</a></li>
@@ -611,9 +710,11 @@ tryJs();
 <li><a href="http://www.nytimes.com/pages/nyregion/">New York Times</a></li>
 <li><a href="http://www.nypost.com/news/news.htm">New York Post</a></li>
 <li><a href="http://www.ourtimepress.com">Our Time Press</a></li>
+<li><a href="http://www.promexperience.com">Prom Experience</a></li>
 <li><a href="http://www.timesnewsweekly.com">Ridgewood Times</a></li>
 <li><a href="http://www.seawanhakaalumni.com/archives.html">Seawanhaka (LIU)</a></li>
 <li><a href="http://www.thetablet.org/index2.html">Tablet (Catholic weekly)</a></li>
+<li><a href="http://www.timesledger.com/">Times Ledger</a></li>
 <li><a href="http://www.wsj.com">Wall Street Journal</a></li>
 		</ul></dd>	
 		<dt>TV and Radio</dt>
@@ -625,10 +726,12 @@ tryJs();
 <li><a href="http://wcbstv.com">WCBS TV News</a></li>
 <li><a href="http://www.nbcnewyork.com/news/">WNBC News</a></li>
 <li><a href="http://www.wnyc.org/news/">WNYC Radio</a></li>
+<li><a href="http://www.bricartsmedia.org/community-media/bcat-tv-network">BCAT TV</a></li>
 		</ul></dd>
 		<dt><a href="mailto:newsroom@cnglocal.com?subject=BrooklynPaper.com Link Suggestion">Suggest a link</a></dt>
 		<dd></dd>
-	</dl>	<!-- /theAdColumn --></div>
+	</dl>	<!-- /theAdColumn --></div>		<!-- /theRightWrapper --></div>
+		
 
 <!-- /theContent --></div>
 
@@ -640,6 +743,8 @@ tryJs();
 <!-- /thePage --></div>
 
 <!-- /theMasterWrapper --></div>
+
+
 
 <!-- /theMegaWrapper --></div>
 
@@ -655,6 +760,8 @@ function putAdImpressions () {
 	var ads = getElementsByClassName('placedAd'); 
 	for(var i=0,j=ads.length; i<j; i++) URL = URL + "&ads[]=" + escape(ads[i].value);
 	
+	//alert(URL);
+	
 	if (window.XMLHttpRequest) {
 		impReq = new XMLHttpRequest();
 		impReq.open("GET", URL, true);
@@ -669,16 +776,32 @@ function putAdImpressions () {
 }
 putAdImpressions();
 </script>
-<!-- BEGIN Google Analytics script -->
+
+
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-403969-3");
-pageTracker._initData();
-pageTracker._trackPageview();
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = 19332;
+    _sf_async_config.domain = pub_dom;
+    _sf_async_config.sections = pub_section;
+    _sf_async_config.authors = pub_auth;
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (('https:' == document.location.protocol) ? 'https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/' : 'http://static.chartbeat.com/') +
+           'js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
 </script>
 
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
