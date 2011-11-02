@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623212856id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the folksy.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103005945id_/http%3A//www.folksy.com/static_pages/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to Folksy :: Knit, carve, glue, cut, sculpt, sketch, go!
+# Welcome to Folksy :: Sew, sculpt, carve, mould, solder, cast, go!
 
 ## Privacy Policy
 
@@ -26,21 +26,17 @@ Our website uses "cookies" to track use and allow customers to purchase from our
 
 We've tried to abide by the policies set out by the [Campaign for Plain English](http://www.plainenglish.co.uk/). If you have any questions relating to our Privacy Policy please email us at get@folksy.co.uk
 
-#### Featured Seller: [Bridget Harvey](https://web.archive.org/users/bhmakes)
+#### Featured Seller: [SallyAyling](https://web.archive.org/users/SallyAyling)
 
-[](https://web.archive.org/shops/bhmakes)
+[](https://web.archive.org/shops/SallyAyling)
 
-Beautiful, exciting and environmentally conscious jewellery pieces from wood, silver and embellished with textile techniques. [[more]](https://web.archive.org/users/bhmakes)
+Meet Sally Ayling, a jeweller living and working in Stoke Newington. Working with a knowledge of many different materials, you can't help but notice Sally's ... [[more]](https://web.archive.org/users/SallyAyling)
 
-##### Rated **positive** by **0** out of **0** people
+##### Rated **positive** by **1** out of **1** people
 
-[Visit bhmakes.](https://web.archive.org/shops/bhmakes)
+[Visit Sally Ayling.](https://web.archive.org/shops/SallyAyling)
 
 #### Your Basket
 
 You have **0 items** in your basket, totalling **£0.00**.  
 [Checkout Now →](https://web.archive.org/cart)
-
-### Recently Viewed Items
-
-No items viewed
