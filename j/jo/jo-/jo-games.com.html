@@ -1,9 +1,9 @@
-<!--The following is the downloaded HTML source of the jo-games.com privacy policy that was archived on 2011-06-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110609205602id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jo-games.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102124231id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
     <meta charset="utf-8">   
-    <title>Privacy Policy</title>
+    <title>Privacy Policy - jo-games</title>
     <meta name="keywords" content="full version pc games, play full version games, free games, download free games, unlimited games">
     <meta name="description" content="play free games online">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -11,27 +11,27 @@
     <meta name="revisit-after" content="1 days">
     <link rel="shortcut icon" href="http://www.jo-games.com/images_site/favicon.ico">
     
-    <!-- CSS -->
     <link rel="stylesheet" href="http://www.jo-games.com/css/main.php?cache_control=5" type="text/css" media="screen, projection">
+	
     <script type="text/javascript" src="http://www.jo-games.com/js/main_home.php?cache_control=5"></script>
     <script type="text/javascript">
     // Menu header Over
-$(document).ready(function() 
-{   
-    $('.header-logo, .menu-home, .menu-game, .menu-shop, .menu-community, .menu-signup').append('<span class="hover"></span>').each(function () 
-    {
-        var $span = $('> span.hover', this).css('opacity', 0);
-        $(this).hover(function () 
-        {
-            $span.stop().fadeTo(300, 1);
-        }, function () 
-        {
-            $span.stop().fadeTo(450, 0);
-        });
-    });
-    
-});
- </script>   
+	$(document).ready(function() 
+	{   
+		$('.menu-home, .menu-game, .menu-shop, .menu-community, .menu-signup').append('<span class="hover"></span>').each(function () 
+		{
+			var $span = $('> span.hover', this).css('opacity', 0);
+			$(this).hover(function () 
+			{
+				$span.stop().fadeTo(300, 1);
+			}, function () 
+			{
+				$span.stop().fadeTo(450, 0);
+			});
+		});
+		
+	});
+	</script>   
 </head>
 
 <!--[if lt IE 7 ]> <body class="ie6"> <![endif]-->
@@ -39,9 +39,10 @@ $(document).ready(function()
 <!--[if IE 8 ]>    <body class="ie8"> <![endif]-->
 <!--[if IE 9 ]>    <body class="ie9"> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <body> <!--<![endif]-->
-<div id="container">
-	<div id="bk-gradient"></div>   
-   <div id="header">
+<div id="wrap">
+	<div id="main-content">
+		<div id="bk-gradient"></div>
+		<div id="header">
     <div id="header-content">
         <a href="http://www.jo-games.com/" class="header-logo"><img src="http://www.jo-games.com/images_site/logo-premium.png"></a>
         <ul id="header-menu">
@@ -52,7 +53,7 @@ $(document).ready(function()
             <li><a href="http://www.jo-games.com/signup?sf=home_flow&amp;start=1" class="menu-signup"></a></li>
         </ul>
         <div id="header-login">
-            <form name="login" action="http://members.jo-games.com/login" method="post">
+            <form name="login" action="http://members.jo-games.com/login" method="post" onkeydown="if(event.keyCode == 13){return document.login.submit();}">
                 <div id="header-fill">
                     <input type="text" name="username" value="Your Email" class="fill-form" onclick="clickclear(this, 'Your Email', 'text')" onblur="clickrecall(this,'Your Email')"><br>
                     <input type="text" name="password" value="Password" class="fill-form" onclick="clickclear(this, 'Password', 'password');" onblur="clickrecall(this,'Password');"><br>
@@ -80,8 +81,8 @@ $(document).ready(function()
             <div id="top-dropmenu"></div>
             <div id="search-dropmenu">
                 <div id="search-form-dropmenu">
-                    <form method="get" action="http://www.jo-games.com/browse/index" name="sr">
-                        <input type="text" value="Search on Games" id="fill-dropmenu" onclick="clickclear(this, 'Search on Games', 'text')" onblur="clickrecall(this,'Search on Games')" name="q" onkeydown="if(event.keyCode == 13){return test(true);}"><br>
+                    <form method="get" action="http://www.jo-games.com/browse/index" name="sr" onkeydown="if(event.keyCode == 13){return document.sr.submit();}">
+                        <input type="text" value="Search on Games" id="fill-dropmenu" onclick="clickclear(this, 'Search on Games', 'text')" onblur="clickrecall(this,'Search on Games')" name="q"><br>
                         <input type="submit" value="" id="btn-submit-dropmenu">
                     </form>
                 </div>
@@ -97,15 +98,9 @@ $(document).ready(function()
         
     </div><!-- end #header-content -->
     
-</div><!-- end #header --><div id="flogame_header">
-<img src="http://www.jo-games.com/images/img-overlay.gif" class="flogame_aboutus_header">
-</div>
-
-
+</div><!-- end #header -->
+?&gt;
 <div id="content_">
-      <div id="flogame_header2">
-		<img src="http://www.jo-games.com/images/img-overlay.gif" class="flogame_aboutus_header">
-	  </div>
     <div id="main">
 		
         <div class="default-div-full radius shadow">
@@ -227,30 +222,29 @@ $(document).ready(function()
             
     </div>
     </div>
-    <div id="pgamesfooter">        </div><!--! end of #main -->
-        
-    </div> <!--! end of #content -->
-    
-   <div id="footer">
-        <ul id="menu-footer">
-            <li><a href="http://www.jo-games.com/front/about_us" target="_self">About Us</a></li>
-            <li><div class="sepa-menu-footer"></div></li>
-            <li><a href="http://www.jo-games.com/front/terms" target="_self">Terms</a></li>
-            <li><div class="sepa-menu-footer"></div></li>
-            <li><a href="http://www.jo-games.com/front/privacy" target="_self">Privacy Policy</a></li>
-            <li><div class="sepa-menu-footer"></div></li>
-            <li><a href="http://www.bigrebelcash.com/" target="_self">Affiliates</a></li>
-            <li><div class="sepa-menu-footer"></div></li>
-            <li><a href="http://billing.jo-games.com/front/contact" target="_self">Contact Us</a></li>
-            <li><div class="sepa-menu-footer"></div></li>
-            <li><a href="http://billing.jo-games.com/" target="_self">Support</a></li>
-        </ul><br>
-        <img src="http://www.jo-games.com/images/sepa-footer.jpg"><br>
-        <img src="http://www.jo-games.com/images_site/logo-footer.png" alt="Logo Jo-Games" style="margin-bottom:3px; margin-top:-3px;"><br>
-        <div id="copyright">Copyright © 2010  Jo-Games, All Rights Reserved</div>
-    </div>
-    
-</div> <!--! end of #container -->
+			</div><!-- end of #main -->
+		</div><!-- end of #content -->
+	</div><!-- end of #main-content -->
+</div><!-- end of #wrap -->
+
+<div id="footer">
+	<ul id="menu-footer">
+		<li><a href="http://www.jo-games.com/front/about_us" target="_self">About Us</a></li>
+		<li><div class="sepa-menu-footer"></div></li>
+		<li><a href="http://www.jo-games.com/front/terms" target="_self">Terms</a></li>
+		<li><div class="sepa-menu-footer"></div></li>
+		<li><a href="http://www.jo-games.com/front/privacy" target="_self">Privacy Policy</a></li>
+		<li><div class="sepa-menu-footer"></div></li>
+		<li><a href="http://www.bigrebelcash.com/" target="_self">Affiliates</a></li>
+		<li><div class="sepa-menu-footer"></div></li>
+		<li><a href="http://billing.jo-games.com/front/contact" target="_self">Contact Us</a></li>
+		<li><div class="sepa-menu-footer"></div></li>
+		<li><a href="http://billing.jo-games.com/" target="_self">Support</a></li>
+	</ul><br>
+	<img src="http://www.jo-games.com/images/sepa-footer.jpg" class="sepa-footer"><br>
+	<img src="http://www.jo-games.com/images_site/logo-footer.png" alt="Logo Jo-Games" style="margin-bottom:3px; margin-top:-3px;"><br>
+	<div id="copyright">Copyright © 2010  Jo-Games, All Rights Reserved</div>
+</div><!-- end of #footer -->
 
     <!-- Javascript at the bottom for fast page loading -->
     <script type="text/javascript">
@@ -269,5 +263,5 @@ $(document).ready(function()
 	
 	</script>
     
-    
-    </div></div></body></html>
+
+</div></body></html>
