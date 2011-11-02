@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125063752id_/http%3A//www.welchs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the welchs.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103002251id_/http%3A//www.welchs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grape Juice & Juices - Welch's
 
