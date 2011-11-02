@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webgistix.com privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415013148id_/http%3A//www.webgistix.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webgistix.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102072857id_/http%3A//webgistix.com/privacy.aspx) for the most accurate reproduction.*
 
 # Drop Ship Fulfillment: ecommerce Fulfillment Services by Webgistix
 
