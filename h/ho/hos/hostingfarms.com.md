@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingfarms.com privacy policy that was archived on 2010-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101215211737id_/http%3A//www.hostingfarms.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingfarms.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154718id_/http%3A//www.hostingfarms.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to Hosting farms
 
