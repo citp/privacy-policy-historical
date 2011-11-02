@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trannyland.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515002914id_/http%3A//trannyland.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trannyland.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102071140id_/http%3A//trannyland.com/privacy.htm) for the most accurate reproduction.*
 
 # 
 
