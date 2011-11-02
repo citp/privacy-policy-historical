@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yotify.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209063851id_/http%3A//www.yotify.com/misc/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotify.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102141414id_/http%3A//www.yotify.com/misc/privacy.aspx) for the most accurate reproduction.*
 
 # Yotify Privacy Policy
 
