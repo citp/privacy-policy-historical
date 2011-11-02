@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notableapp.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611185823id_/https%3A//www.notableapp.com/privacy_policy_terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notableapp.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102171401id_/https%3A//www.notableapp.com/privacy_policy_terms) for the most accurate reproduction.*
 
 # Notable | Better Webpages Through Faster Iterations, Website Screenshot Feedback
 
