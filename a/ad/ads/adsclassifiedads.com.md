@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the adsclassifiedads.com privacy policy that was archived on 2010-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101119101626id_/http%3A//adsclassifiedads.com/p%2C2%2Chelp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsclassifiedads.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102054238id_/http%3A//adsclassifiedads.com/p%2C2%2Chelp.htm) for the most accurate reproduction.*
 
-# Welcome To Ads Classified Ads
+# Ads Classified Ads - Classified
 
-Welcome To Ads Classified Ads Help
+Ads Classified Ads - Classified Help
 
 ### Privacy
 
-Welcome To Ads Classified Ads has established this privacy policy to explain to you how your information is protected, collected and used.
+Ads Classified Ads - Classified has established this privacy policy to explain to you how your information is protected, collected and used.
 
 **1/ Protecting your privacy**  
 We don't run banner ads, pop ups, pop unders, or any other kind of commercial ads.  
