@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618152055id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102201529id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Expo TV Privacy Policy | Expo | Consumer Product Reviews in Video
 
-## Expo Privacy Policy
+## EXPO Privacy Policy
 
-This policy applies to your use of all the sites and services owned or operated by Expo Communications, Inc. ("Expo") and affiliated companies (collectively "we," "us," or "our"), including www.ExpoTV.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. The following discloses our information gathering and dissemination practices for the Sites. This privacy policy applies only to data gathered on the Sites and does not apply to any offline point of contact between Expo and consumers. This privacy policy was updated on March 23, 2009.
+This policy applies to your use of all the sites and services owned or operated by Expo Communications, Inc. ("EXPO") and affiliated companies (collectively "we," "us," or "our"), including www.expotv.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. The following discloses our information gathering and dissemination practices for the Sites. This privacy policy applies only to data gathered on the Sites and does not apply to any offline point of contact between EXPO and consumers. This privacy policy was updated on March 23, 2009.
 
 ### Changes to the Privacy Policy
 
@@ -32,17 +32,17 @@ We will use your personal information to contact you and provide you with inform
 
 We may also use your personal information for internal business purposes, such as analyzing and managing our business. We may also combine the information we have gathered about you with information from other sources. We may use third parties to help us operate our business and the Sites or administer activities on our behalf. We may share your information to allow third parties (including blogs, ecommerce, retailer, or manufacturers) to organize, identify, sort, attribute and publish our content on their public website, in their public marketing materials or for other public or private use by such third parties. We may share your information with these third parties for those limited purposes.
 
-Expo may share aggregate statistical information with its partners, suppliers and other third parties. Expo may also share personal information with a third party including but not limited to first name, last initial, city and state of residence, selected interests, or date of birth but will not include last name, or direct contact information such as email, street address or telephone number. A member may request that such direct contact information be shared, by opting-in to programs or newsletters that may require such information. Unless you tell us not to, we may also use your personal information to contact you about offers or promotions we think you would be interested in. If at any time you would like to stop receiving such information or opt-out of a feature, you can let us know by sending an e-mail stating your preference to [privacy@expotv.com](mailto:privacy@expotv.com). To help us address your request, please specify the feature from which you wish to opt out.
+EXPO may share aggregate statistical information with its partners, suppliers and other third parties. EXPO may also share personal information with a third party including but not limited to first name, last initial, city and state of residence, selected interests, or date of birth but will not include last name, or direct contact information such as email, street address or telephone number. A member may request that such direct contact information be shared, by opting-in to programs or newsletters that may require such information. Unless you tell us not to, we may also use your personal information to contact you about offers or promotions we think you would be interested in. If at any time you would like to stop receiving such information or opt-out of a feature, you can let us know by sending an e-mail stating your preference to [privacy@expotv.com](mailto:privacy@expotv.com). To help us address your request, please specify the feature from which you wish to opt out.
 
 Please note that deletions of your personal information or changes in your preferences may not be effective immediately.
 
-Your personal information may be passed on to a third party in the event of a transfer of ownership, assets or the bankruptcy of Expo. We may also disclose specific information when we determine that such disclosure is necessary to comply with applicable law or to protect the interests or safety of Expo or other visitors to the Sites.
+Your personal information may be passed on to a third party in the event of a transfer of ownership, assets or the bankruptcy of EXPO. We may also disclose specific information when we determine that such disclosure is necessary to comply with applicable law or to protect the interests or safety of EXPO or other visitors to the Sites.
 
-Please note that if you give out personal information online in public forums such as on an Expo message board or on video or profile comments, that information can be collected and used by third parties. Although Expo strives to protect its users' privacy, Expo cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
+Please note that if you give out personal information online in public forums such as on an EXPO message board or on video or profile comments, that information can be collected and used by third parties. Although EXPO strives to protect its users' privacy, EXPO cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
 
 ### Email Marketing
 
-All of our email offerings are "opt-in" programs so you will never receive email from Expo that you haven't authorized. We do not sell or rent lists of our users' email addresses to any third parties.
+All of our email offerings are "opt-in" programs so you will never receive email from EXPO that you haven't authorized. We do not sell or rent lists of our users' email addresses to any third parties.
 
 ### Other Sites
 
@@ -54,4 +54,4 @@ The Sites have security measures in place to protect against the loss, misuse an
 
 ### Accessing Your Information
 
-Expo gives you the opportunity to remove personal information that you have provided to us or change your preferences. If you would like to review or delete any personal information we have retained about you in our database, please send us an email request at [privacy@expotv.com](mailto:privacy@expotv.com). To help us address your request, please specify which information you wish to review or delete. Deleting your information or otherwise opting-out of receipt of communications from ExpoTV will delete the data only in our database for purposes of managing future communications from Expo.
+EXPO gives you the opportunity to remove personal information that you have provided to us or change your preferences. If you would like to review or delete any personal information we have retained about you in our database, please send us an email request at [privacy@expotv.com](mailto:privacy@expotv.com). To help us address your request, please specify which information you wish to review or delete. Deleting your information or otherwise opting-out of receipt of communications from EXPO will delete the data only in our database for purposes of managing future communications from EXPO.
