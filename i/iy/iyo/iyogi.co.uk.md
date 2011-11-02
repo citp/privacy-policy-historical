@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625220032id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102025754id_/http%3A//www.iyogi.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # iYogi: Privacy Policy :iYogi
 
