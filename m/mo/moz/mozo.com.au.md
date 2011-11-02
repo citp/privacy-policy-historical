@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2011-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110223130252id_/http%3A//mozo.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozo.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011440id_/http%3A//mozo.com.au/privacy) for the most accurate reproduction.*
 
-# Mozo - Compare Credit Cards, Home Loans, Term Deposits and more
+# Mozo Privacy Policy - Mozo
 
 ## Our commitment to you
 
