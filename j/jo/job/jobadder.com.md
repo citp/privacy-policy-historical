@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215210746id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobadder.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102130301id_/http%3A//jobadder.com/privacy) for the most accurate reproduction.*
 
 # Job posting and recruitment software from JobAdder
 
