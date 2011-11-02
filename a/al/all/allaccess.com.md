@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allaccess.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515094956id_/http%3A//www.allaccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaccess.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014032id_/http%3A//www.allaccess.com/privacy-policy) for the most accurate reproduction.*
 
 # All Access Music Group, Inc. Privacy Policy | Free Online Membership
 
