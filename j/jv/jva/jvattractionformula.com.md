@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jvattractionformula.com privacy policy that was archived on 2010-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101217230247id_/http%3A//jvattractionformula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jvattractionformula.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102115617id_/http%3A//jvattractionformula.com/privacy) for the most accurate reproduction.*
 
 # JV Attraction Formula Sales Pages
 
