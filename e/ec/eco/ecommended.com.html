@@ -1,0 +1,856 @@
+<!--The following is the downloaded HTML source of the ecommended.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102071042id_/http%3A//r.ecommended.com/content/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" id="html_enc"><head><script src="/resources/js/jquery/jquery-1.2.6.pack.js" type="text/javascript"></script>
+ 
+<link type="text/css" href="http://r.ecommended.com/resources/libs/php/php_speedy_wp/libs/php_speedy/_cmp_cssstylesheet_040e2318aa1d3130c3a5d2edcce98b2c.php" rel="stylesheet">
+<script type="text/javascript" src="http://r.ecommended.com/resources/libs/php/php_speedy_wp/libs/php_speedy/_cmp_javascript_fa97e1bdac2900dc6df0bb5035fcfede.php"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="ZSx197ScYmBXnRQzJzcmuJrv0v_ALtUKVNxwx6h6aAE">
+<title>R.ecommended.com - Privacy</title>
+<script type="text/javascript">
+
+	/* 
+	Jquery Unobtrusive functions
+	*/
+	
+	 // 
+	 jQuery(document).ready(function(){
+	 
+	 	//Nav
+		jQuery(".nav-one li").hover(
+				function(){ 
+				jQuery("ul", this).hide()
+				jQuery("ul", this).fadeIn("fast"); 
+				}, 
+				function() { } 
+		);
+	  	
+		if (document.all) {
+				jQuery(".nav-one li").hoverClass("sfHover");
+		}
+
+		/*
+		Correct IE version
+		*/
+		if(jQuery.browser.msie && /msie 7/.match(navigator.userAgent.toLowerCase())) {
+		jQuery.browser.version = '7.0';
+		}	 
+		
+		// Easing equation, borrowed from jQuery easing plugin
+		// http://gsgd.co.uk/sandbox/jquery/easing/
+		jQuery.easing.easeOutQuart = function (x, t, b, c, d) {
+			return -c * ((t=t/d-1)*t*t*t - 1) + b;
+		};
+		
+			/**
+			 * IMPORTANT: this call to the plugin specifies ALL the settings (plus some of jQuery.ScrollTo)
+			 * This is done so you can see them. You DON'T need to specify the commented ones.
+			 * A 'target' is specified, that means that #screen is the context for target, prev, next and navigation.
+			 */
+			 var intval = 5000;//how often to autoscroll (in milliseconds)
+			 
+			jQuery('#header3').serialScroll({
+				target:'#sections',
+				items:'li', // Selector to the items ( relative to the matched elements, '#sections' in this case )
+				axis:'x',// The default is 'y' scroll on both ways
+				cycle:true,
+				duration:0,// Length of the animation (if you scroll 2 axes and use queue, then each axis take half this time)
+				interval:intval,
+				force:true // Force a scroll to the element specified by 'start' (some browsers don't reset on refreshes)		
+				
+			});		
+			
+	/* 
+	Prototype Unobtrusive functions
+	*/
+	loadNifty();
+		
+	/*
+	Rollover images
+	*/	
+	$$('img.rollover').each(function(e) {
+	
+			if(/MSIE/.test(navigator.userAgent) && !/MSIE 7/.test(navigator.userAgent)) {
+			
+			e.style.filter = "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/resources/image/site/"+e.name+"', sizingMethod='crop')";
+			
+			} else {	
+								
+				e.setStyle({backgroundImage:'url(/resources/image/site/'+e.name+')'});
+							
+				Event.observe(e,"mouseover",function(evt) {
+					var bg = '/resources/image/site/'+evt.element().name;
+					var height = evt.element().height;
+					evt.element().setStyle({backgroundImage:'url('+bg+')','backgroundPosition':'0 -'+height+'px'});
+				});
+				
+				Event.observe(e,"mouseout",function(evt) {
+					evt.element().setStyle({'backgroundPosition':'0 0'});
+				});			
+				
+			}
+	
+	});	
+	
+	//TB Links
+	tb_PageSize = tb_getPageSize();
+	$$('a.thickbox').each(function(e) {
+		for(i=0;i<2;i++) {
+			matches = e[i==0?'href':'name'].match(/height=([0-9]+)%/);
+			if(matches) {
+			height_pc = matches[1];
+			e[i==0?'href':'name'] = (e[i==0?'href':'name'].replace(/height=([0-9]+)%/,'height='+(tb_PageSize[1]*(height_pc/100))));
+			}
+			matches = e[i==0?'href':'name'].match(/width=([0-9]+)%/);
+			if(matches) {
+			width_pc = matches[1];
+			e[i==0?'href':'name'] = (e[i==0?'href':'name'].replace(/width=([0-9]+)%/,'width='+(tb_PageSize[0]*(width_pc/100))));
+			}
+		}
+	});
+	
+	moveSlider = function(num,rating,comment) {
+	//Set the background image	
+	$('rating_container').style.backgroundPosition = '0px -' + (32*num) + 'px';		
+	//Set the field
+	$('hidden_rating_field').value = rating;
+	$('rating_word').update('"' + comment + '"');	
+	}	
+	
+	
+	//Your comments slide	
+	if($('handle1') && $('track1')) {
+		
+	   //$('radio_container').style.display = 'none';	
+	   $('rating_container').style.backgroundPosition = '0px -' + (32*5) + 'px';
+	   $('track1').style.display = 'block';
+	   $('rating_word').style.display = 'block';	   
+	   $('move_slider').update('Move the slider to select');	   
+	   
+	   setTimeout(function() {	   
+	   slider = new Control.Slider('handle1', 'track1', {
+/*				range: $R(1, 5),
+				values: [5, 4, 3, 2, 1],*/
+				sliderValue: 0.5, // won't work if set to 0 due to a bug(?) in script.aculo.us								   
+				onSlide: doChange = function(v) { 
+				
+					if(v < 0.16) {
+					moveSlider(3,1,"Terrible");	
+					} else if (v > 0.16 && v < 0.38) {						
+					moveSlider(4,2,"Poor");
+					} else if (v > 0.38 && v < 0.61) {						
+					moveSlider(5,3,"Average");	
+					} else if (v > 0.61 && v < 0.82) {
+					moveSlider(6,4,"Great");				
+					} else {						
+					moveSlider(7,5,"Outstanding");	
+					}
+				
+				},
+				onChange: doChange
+			});
+		},1000);
+				   
+	}
+
+
+	/*
+	Nav hovers
+	*/
+	$$('.nav li.rounder a').each(function(e) {
+	
+		Event.observe(e,"mouseover",function(evt) {
+			evt.element().up('li').setStyle({'backgroundColor':'#D4E0F8'});
+			evt.element().up('li').getElementsBySelector('b').each(function(el) {
+				if(!/artop/.test(el.className)) {
+					el.setStyle({'backgroundColor':'#D4E0F8'});
+				}
+			});
+		});	
+		
+		Event.observe(e,"mouseout",function(evt) {
+			evt.element().up('li').setStyle({'backgroundColor':'#E5ECF9'});
+			evt.element().up('li').getElementsBySelector('b').each(function(el) {
+				if(!/artop/.test(el.className)) {
+					el.setStyle({'backgroundColor':'#E5ECF9'});
+				}
+			});			
+		});				
+	
+	});
+	
+	/* 
+	Form validation
+	*/
+	$$('.validation').each(function(e) {
+		
+			if(/form/i.test(e.nodeName)) {
+			currentValidation = new Validation(e.id,{'immediate':true});		
+			}
+		
+	});
+
+	var validationElements = $$('.validation-advice');
+	if(validationElements[0]) {
+	new Effect.ScrollTo(validationElements[0], {duration:0.1,offset:(30*1)});	
+	new Effect.Highlight(validationElements[0]);
+	}
+
+	/* 
+	Form validation
+	*/
+	$$('input').each(function(e) {
+							  
+
+		if(/required/.test(e.name) && /hidden/.test(e.type)) {		
+			
+			value_array = e.value.split("@@@");
+			value_array.each(function(c,i) {
+				if(c != e.value) {
+					if(i == 1) {
+						Element.addClassName($(value_array[0]),value_array[1]);
+						
+						if(!value_array[2] || value_array[2] != "not-required") {
+						Element.addClassName($(value_array[0]),'required');
+						}
+						
+					}
+				} else {
+				Element.addClassName($(e.value),'required');
+				}
+			});		
+					
+		}
+		
+		if(/empty_on_click/.test(e.className)) {		
+			
+			e.onfocus = function() {
+			this.value = '';				
+			}					
+		}	
+		
+		if(/select_on_click/.test(e.className)) {		
+			
+			e.onfocus = function() {
+			this.select();				
+			}					
+		}			
+		
+		
+	});	
+			
+	/*
+	Delete links
+	*/
+	$$('a.delete').each(function(e) {
+	
+		e.onclick = function() {									
+				
+				conf = confirm("Are you sure?");
+				if(!conf) {
+				return false;	
+				} 	
+			
+		return true;	
+			
+		}	
+	
+	});		
+	
+ }); //End JQ Document ready
+
+	jQuery.fn.hoverClass = function(c) {
+		return this.each(function(){
+			jQuery(this).hover( 
+				function() { jQuery(this).addClass(c);  },
+				function() { jQuery(this).removeClass(c); }
+			);
+		});
+	};	
+
+var loadNifty = function() {
+
+	if(!NiftyCheck())
+	return;
+	/*Nifty corners
+	The round the corners of the smart panels
+	*/
+	Rounded("div.dialog_smart","all","#ffffff","#ffffff","smooth border #CCCCCC");
+	Rounded("div.dialog_stage","all","#ffffff","#eeeeee","smooth border #CCCCCC");	
+	Rounded("div.dialog_sm_gr","all","#ffffff","#D8D8D8","smooth border #CCCCCC");	
+	//Rounded("div.search_box","all","#7499E4","#4F7CD5","smooth border #CCDBFA");		
+	//Rounded("li.rounder","tr","#ffffff","#E5ECF9","smooth border #E5ECF9");	
+	//Rounded("li.selected","tr","#ffffff","#D4E0F8","smooth border #D4E0F8");		
+	
+}
+	
+htmlEntities = function(newString,type) {
+
+  if(!newString.length) {
+  return newString;  
+  }
+
+  var chars = new Array ('&','à','á','â','ã','ä','å','æ','ç','è','é',
+						 'ê','ë','ì','í','î','ï','ð','ñ','ò','ó','ô',
+						 'õ','ö','ø','ù','ú','û','ü','ý','þ','ÿ','À',
+						 'Á','Â','Ã','Ä','Å','Æ','Ç','È','É','Ê','Ë',
+						 'Ì','Í','Î','Ï','Ð','Ñ','Ò','Ó','Ô','Õ','Ö',
+						 'Ø','Ù','Ú','Û','Ü','Ý','Þ','€','\"','ß','<',
+						 '>','¢','£','¤','¥','¦','§','¨','©','ª','«',
+						 '¬','­','®','¯','°','±','²','³','´','µ','¶',
+						 '·','¸','¹','º','»','¼','½','¾');
+
+  var entities = new Array ('&amp;','&agrave;','&aacute;','&acirc;','&atilde;','&auml;','&aring;',
+							'aelig;','&ccedil;','&egrave;','&eacute;','&ecirc;','&euml;','&igrave;',
+							'iacute;','&icirc;','&iuml;','&eth;','&ntilde;','&ograve;','&oacute;',
+							'ocirc;','&otilde;','&ouml;','&oslash;','&ugrave;','&uacute;','&ucirc;',
+							'uuml;','&yacute;','&thorn;','&yuml;','&Agrave;','&Aacute;','&Acirc;',
+							'Atilde;','&Auml;','&Aring;','&AElig;','&Ccedil;','&Egrave;','&Eacute;',
+							'Ecirc;','&Euml;','&Igrave;','&Iacute;','&Icirc;','&Iuml;','&ETH;','&Ntilde;',
+							'Ograve;','&Oacute;','&Ocirc;','&Otilde;','&Ouml;','&Oslash;','&Ugrave;',
+							'Uacute;','&Ucirc;','&Uuml;','&Yacute;','&THORN;','&euro;','&quot;','&szlig;',
+							'lt;','&gt;','&cent;','&pound;','&curren;','&yen;','&brvbar;','&sect;','&uml;',
+							'copy;','&ordf;','&laquo;','&not;','&shy;','&reg;','&macr;','&deg;','&plusmn;',
+							'sup2;','&sup3;','&acute;','&micro;','&para;','&middot;','&cedil;','&sup1;',
+							'ordm;','&raquo;','&frac14;','&frac12;','&frac34;');
+
+	if(type == "decode") {
+	var from = chars;	
+	var to = entities;
+	} else {
+	var from = entities;
+	var to = chars;
+	}
+
+		  for (var i = 0; i < from.length; i++)
+		  {
+			myRegExp = new RegExp();
+			myRegExp.compile(to[i],'g')
+			newString = newString.replace (myRegExp,from[i]);
+		  }
+		 
+			return newString;			
+
+}		
+
+
+</script>
+<!--[if lt IE 7]>
+<script type="text/javascript" src="/resources/js/pngfix/pngfix.js"></script>
+<![endif]-->
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://r.ecommended.com/content/rss">
+<link rel="shortcut icon" href="http://r.ecommended.com/favicon.ico">
+</head>
+<body>
+<div id="outer" style="width:930px;margin:0 auto">
+<div class="logo" style="float:left">
+<a href="http://r.ecommended.com/" title="Home"><img src="/resources/image/site/logo_small.jpg" alt="R.ecommended.com logo" border="0"></a>	
+</div>
+<div class="user_login" style="float:right;text-align:right;padding-top:10px;font-size:11px">
+<a href="http://r.ecommended.com/manage/register">Register</a> <img src="/resources/image/site/icn_register.gif" alt="Register" class="link-image"><br>
+<a href="http://r.ecommended.com/manage/login">Login</a> <img src="/resources/image/site/icn_login.gif" alt="Login" class="link-image">
+</div>
+<div class="spacer_small"></div>
+<style type="text/css">
+/* Navigation */
+.nav, .nav ul { 
+list-style: none;
+margin: 0;
+padding: 0;
+}
+.nav {
+font-family: Verdana, Helvetica, sans-serif;
+font-size:11px;
+z-index: 100;
+position: relative;
+}
+.nav li {
+float: left;
+margin: 0 2px 0 0;
+position: relative;
+padding:5px 0px 10px 5px;
+background-color:#E5ECF9;
+height:30px;
+}
+.nav li.selected {
+background-color:#D4E0F8;
+}
+.nav li a, .nav li a:link, .nav li a:active, .nav li a:visited {
+color:#333333;
+display: block;
+text-decoration: none;
+padding-right:4px;
+}
+.nav li a:hover {
+/*border-bottom:1px dotted #666;*/
+}
+.nav ul {
+background: #fff;
+border-bottom: 1px solid #fff;
+list-style: none;
+margin: 0;
+width: 100px;
+position: absolute;
+top: -999em;
+left: -1px;
+}
+.nav li:hover ul,
+.nav li.sfHover ul {
+top: 40px;
+z-index:100;
+}
+.nav ul li {
+border: 0;
+float: none;
+width: 150px;  
+height:15px;
+margin-bottom:-2px;
+padding-bottom:15px;
+}
+.nav ul a {
+border-bottom: 0;
+padding:5px;
+padding-right: 50px;
+white-space: nowrap;
+}
+.nav ul a:hover {
+border-bottom:none;
+background-color:#D4E0F8;
+}
+</style>
+<div id="">
+<ul class="nav-one nav" style="z-index:101">		
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/">Home</a>				
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/new-products">New</a>				
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/arts-and-entertainment/">Arts &amp;<br> Entertainment</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/architecture/">Architecture</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/art/">Art</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/body-art/">Body Art</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/dance/">Dance</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/fashion/">Fashion</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/film-and-television/">Film &amp; Television</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/humor/">Humor</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/magic-tricks/">Magic Tricks</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/music/">Music</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/photography/">Photography</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/radio/">Radio</a></li>
+<li><a href="http://r.ecommended.com/directory/arts-and-entertainment/theater/">Theater</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/betting-systems/">Betting Systems</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/betting-systems/casino-table-games/">Casino Table Games</a></li>
+<li><a href="http://r.ecommended.com/directory/betting-systems/football/">Football</a></li>
+<li><a href="http://r.ecommended.com/directory/betting-systems/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/betting-systems/horse-racing/">Horse Racing</a></li>
+<li><a href="http://r.ecommended.com/directory/betting-systems/lottery/">Lottery</a></li>
+<li><a href="http://r.ecommended.com/directory/betting-systems/poker/">Poker</a></li>
+<li><a href="http://r.ecommended.com/directory/betting-systems/soccer/">Soccer</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/business-investing/">Business /<br> Investing</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/business-investing/careers-industries-and-professions/">Careers, Industries &amp; Professions</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/commodities/">Commodities</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/debt/">Debt</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/derivatives/">Derivatives</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/economics/">Economics</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/equities-and-stocks/">Equities &amp; Stocks</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/foreign-exchange/">Foreign Exchange</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/international-business/">International Business</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/management-and-leadership/">Management &amp; Leadership</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/marketing-and-sales/">Marketing &amp; Sales</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/outsourcing/">Outsourcing</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/personal-finance/">Personal Finance</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/real-estate/">Real Estate</a></li>
+<li><a href="http://r.ecommended.com/directory/business-investing/small-biz-entrepreneurship/">Small Biz / Entrepreneurship</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/computers-internet/">Computers /<br> Internet</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/computers-internet/databases/">Databases</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/email-services/">Email Services</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/graphics/">Graphics</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/hardware/">Hardware</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/networking/">Networking</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/operating-systems/">Operating Systems</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/programming/">Programming</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/software/">Software</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/system-administration/">System Administration</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/system-analysis-and-design/">System Analysis &amp; Design</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/web-hosting/">Web Hosting</a></li>
+<li><a href="http://r.ecommended.com/directory/computers-internet/web-site-design/">Web Site Design</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/cooking-food-and-wine/">Cooking, Food <br>&amp; Wine</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/baking/">Baking</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/bbq/">BBQ</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/cooking/">Cooking</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/drinks-and-beverages/">Drinks &amp; Beverages</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/recipes/">Recipes</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/regional-and-intl/">Regional &amp; Intl.</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/special-diet/">Special Diet</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/special-occasions/">Special Occasions</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/vegetables-vegetarian/">Vegetables / Vegetarian</a></li>
+<li><a href="http://r.ecommended.com/directory/cooking-food-and-wine/wine-making/">Wine Making</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/e-business-and-e-marketing/">E-business &amp;<br> E-marketing</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/affiliate-marketing/">Affiliate Marketing</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/article-marketing/">Article Marketing</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/auctions/">Auctions</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/banners/">Banners</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/blog-marketing/">Blog Marketing</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/classified-advertising/">Classified Advertising</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/consulting/">Consulting</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/copywriting/">Copywriting</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/domains/">Domains</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/e-commerce-operations/">E-commerce Operations</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/e-zine-strategies/">E-zine Strategies</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/email-marketing/">Email Marketing</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/market-research/">Market Research</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/marketing/">Marketing</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/niche-marketing/">Niche Marketing</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/paid-surveys/">Paid Surveys</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/pay-per-click-advertising/">Pay Per Click Advertising</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/promotion/">Promotion</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/sem-and-seo/">SEM &amp; SEO</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/social-media-marketing/">Social Media Marketing</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/submitters/">Submitters</a></li>
+<li><a href="http://r.ecommended.com/directory/e-business-and-e-marketing/video-marketing/">Video Marketing</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/education/">Education</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/education/admissions/">Admissions</a></li>
+<li><a href="http://r.ecommended.com/directory/education/educational-materials/">Educational Materials</a></li>
+<li><a href="http://r.ecommended.com/directory/education/higher-education/">Higher Education</a></li>
+<li><a href="http://r.ecommended.com/directory/education/k-12/">K-12</a></li>
+<li><a href="http://r.ecommended.com/directory/education/student-loans/">Student Loans</a></li>
+<li><a href="http://r.ecommended.com/directory/education/test-prep-and-study-guides/">Test Prep &amp; Study Guides</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/employment-and-jobs/">Employment &amp;<br> Jobs</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/employment-and-jobs/cover-letter-and-resume-guides/">Cover Letter &amp; Resume Guides</a></li>
+<li><a href="http://r.ecommended.com/directory/employment-and-jobs/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/employment-and-jobs/job-listings/">Job Listings</a></li>
+<li><a href="http://r.ecommended.com/directory/employment-and-jobs/job-search-guides/">Job Search Guides</a></li>
+<li><a href="http://r.ecommended.com/directory/employment-and-jobs/job-skills-training/">Job Skills / Training</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/games/">Games</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/games/console-guides-and-repairs/">Console Guides &amp; Repairs</a></li>
+<li><a href="http://r.ecommended.com/directory/games/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/games/strategy-guides/">Strategy Guides</a></li>
+</ul>
+</li>
+</ul>			
+<div class="spacer_small"></div>
+<ul class="nav-one nav">
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/green-products/">Green Products</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/green-products/alternative-energy/">Alternative Energy</a></li>
+<li><a href="http://r.ecommended.com/directory/green-products/conservation-and-efficiency/">Conservation &amp; Efficiency</a></li>
+<li><a href="http://r.ecommended.com/directory/green-products/general/">General</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/health-and-fitness/">Health &amp;<br> Fitness</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/addiction/">Addiction</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/beauty/">Beauty</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/dental-health/">Dental Health</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/diets-and-weight-loss/">Diets &amp; Weight Loss</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/exercise-and-fitness/">Exercise &amp; Fitness</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/meditation/">Meditation</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/mens-health/">Men's Health</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/mental-health/">Mental Health</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/nutrition/">Nutrition</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/remedies/">Remedies</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/sleep-and-dreams/">Sleep and Dreams</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/spiritual-health/">Spiritual Health</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/strength-training/">Strength Training</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/womens-health/">Women's Health</a></li>
+<li><a href="http://r.ecommended.com/directory/health-and-fitness/yoga/">Yoga</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/home-and-garden/">Home &amp;<br> Garden</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/home-and-garden/animal-care-and-pets/">Animal Care &amp; Pets</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/crafts-and-hobbies/">Crafts &amp; Hobbies</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/entertaining/">Entertaining</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/gardening-and-horticulture/">Gardening &amp; Horticulture</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/homebuying/">Homebuying</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/how-to-and-home-improvements/">How-to &amp; Home Improvements</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/interior-design/">Interior Design</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/sewing/">Sewing</a></li>
+<li><a href="http://r.ecommended.com/directory/home-and-garden/weddings/">Weddings</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/languages/">Languages</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/languages/arabic/">Arabic</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/chinese/">Chinese</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/english/">English</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/french/">French</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/german/">German</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/hebrew/">Hebrew</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/italian/">Italian</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/japanese/">Japanese</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/other/">Other</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/russian/">Russian</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/sign-language/">Sign Language</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/spanish/">Spanish</a></li>
+<li><a href="http://r.ecommended.com/directory/languages/thai/">Thai</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/mobile/">Mobile</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/mobile/apps/">Apps</a></li>
+<li><a href="http://r.ecommended.com/directory/mobile/developer-tools/">Developer Tools</a></li>
+<li><a href="http://r.ecommended.com/directory/mobile/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/mobile/ringtones/">Ringtones</a></li>
+<li><a href="http://r.ecommended.com/directory/mobile/security/">Security</a></li>
+<li><a href="http://r.ecommended.com/directory/mobile/video/">Video</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/parenting-and-families/">Parenting &amp;<br> Families</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/divorce/">Divorce</a></li>
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/education/">Education</a></li>
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/genealogy/">Genealogy</a></li>
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/marriage/">Marriage</a></li>
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/parenting/">Parenting</a></li>
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/pregnancy-and-childbirth/">Pregnancy &amp; Childbirth</a></li>
+<li><a href="http://r.ecommended.com/directory/parenting-and-families/special-needs/">Special Needs</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/reference/">Reference</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/reference/automotive/">Automotive</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/catalogs-and-directories/">Catalogs &amp; Directories</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/consumer-guides/">Consumer Guides</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/education/">Education</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/etiquette/">Etiquette</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/gay-lesbian/">Gay / Lesbian</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/law-and-legal-issues/">Law &amp; Legal Issues</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/the-sciences/">The Sciences</a></li>
+<li><a href="http://r.ecommended.com/directory/reference/writing/">Writing</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/self-help/">Self-Help</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/self-help/abuse/">Abuse</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/dating-guides/">Dating Guides</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/eating-disorders/">Eating Disorders</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/marriage-and-relationships/">Marriage &amp; Relationships</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/motivational-transformational/">Motivational / Transformational</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/personal-finance/">Personal Finance</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/public-speaking/">Public Speaking</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/self-defense/">Self Defense</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/self-esteem/">Self-Esteem</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/stress-management/">Stress Management</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/success/">Success</a></li>
+<li><a href="http://r.ecommended.com/directory/self-help/time-management/">Time Management</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/software-and-services/">Software &amp;<br> Services</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/software-and-services/anti-adware-spyware/">Anti Adware / Spyware</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/background-investigations/">Background Investigations</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/communications/">Communications</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/dating/">Dating</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/developer-tools/">Developer Tools</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/digital-photos/">Digital Photos</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/drivers/">Drivers</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/education/">Education</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/email/">Email</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/foreign-exchange-investing/">Foreign Exchange Investing</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/graphic-design/">Graphic Design</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/hosting/">Hosting</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/internet-tools/">Internet Tools</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/mp3-and-audio/">MP3 &amp; Audio</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/networking/">Networking</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/operating-systems/">Operating Systems</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/other-investment-software/">Other Investment Software</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/personal-finance/">Personal Finance</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/productivity/">Productivity</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/registry-cleaners/">Registry Cleaners</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/reverse-phone-lookup/">Reverse Phone Lookup</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/screensavers-and-wallpaper/">Screensavers &amp; Wallpaper</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/security/">Security</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/system-optimization/">System Optimization</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/utilities/">Utilities</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/video/">Video</a></li>
+<li><a href="http://r.ecommended.com/directory/software-and-services/web-design/">Web Design</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/">Spirituality, New Age <br>&amp; Alternative Beliefs</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/astrology/">Astrology</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/hypnosis/">Hypnosis</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/magic/">Magic</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/numerology/">Numerology</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/paranormal/">Paranormal</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/psychics/">Psychics</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/religion/">Religion</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/tarot/">Tarot</a></li>
+<li><a href="http://r.ecommended.com/directory/spirituality-new-age-and-alternative-beliefs/witchcraft/">Witchcraft</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/sports/">Sports</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/sports/automotive/">Automotive</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/baseball/">Baseball</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/basketball/">Basketball</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/coaching/">Coaching</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/cycling/">Cycling</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/extreme-sports/">Extreme Sports</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/football/">Football</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/golf/">Golf</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/hockey/">Hockey</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/individual-sports/">Individual Sports</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/martial-arts/">Martial Arts</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/mountaineering/">Mountaineering</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/other-team-sports/">Other Team Sports</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/outdoors-and-nature/">Outdoors &amp; Nature</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/racket-sports/">Racket Sports</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/running/">Running </a></li>
+<li><a href="http://r.ecommended.com/directory/sports/soccer/">Soccer</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/softball/">Softball</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/training/">Training</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/volleyball/">Volleyball</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/water-sports/">Water Sports</a></li>
+<li><a href="http://r.ecommended.com/directory/sports/winter-sports/">Winter Sports</a></li>
+</ul>
+</li>
+<li style="padding-top: 0pt;" class="rounder"><b style="background-color: rgb(255, 255, 255);" class="artop"><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer1"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer2"></b><b style="border-color: #E5ECF9; background-color: #E5ECF9;" class="rer3"></b><b style="border-color: #E5ECF9; background-color:#E5ECF9;" class="rer4"></b></b>		
+<a style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;" href="http://r.ecommended.com/directory/travel/">Travel</a>				
+<ul style="border-left: 1px solid #E5ECF9; border-right: 1px solid #E5ECF9;">
+<li><a href="http://r.ecommended.com/directory/travel/africa/">Africa</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/asia/">Asia</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/canada/">Canada</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/caribbean/">Caribbean</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/europe/">Europe</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/general/">General</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/latin-america/">Latin America</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/middle-east/">Middle East</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/specialty-travel/">Specialty Travel</a></li>
+<li><a href="http://r.ecommended.com/directory/travel/united-states/">United States</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="spacer_small" style="height:1px"></div>
+<div style="height:10px;background-color:#D4E0F8;margin-top:-1px" class="crumb">
+</div>
+<form action="/search/" method="get" style="margin:0;padding:0">
+<div style="height:40px;background-color:#7499E4;padding-top:5px">
+<div class="search_box" style="margin: 0pt 240px 0pt 5px; padding-top: 0pt; padding-bottom: 0pt;"><b style="background-color: rgb(116, 153, 228);" class="artop"><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re1"></b><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re2"></b><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re3"></b><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re4"></b></b>
+<div style="border-left: 1px solid rgb(204, 219, 250); border-right: 1px solid rgb(204, 219, 250); background-color: rgb(79, 124, 213);">
+<img src="/resources/image/site/btn_search.jpg" alt="Search" class="verticalAlign" style="margin-top:-6px;margin-left:3px"> <input name="search" type="text" onclick="this.value=''" value="Enter product name or topic" size="50" style="height:18px"> <input type="submit" value="Submit">
+</div>
+<b style="background-color: rgb(116, 153, 228);" class="artop"><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re4"></b><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re3"></b><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re2"></b><b style="border-color: rgb(204, 219, 250); background-color: rgb(79, 124, 213);" class="re1"></b></b>
+</div>
+</div>
+</form>	
+<div class="main_content" style="font-size:92%;width:780px;float:left;min-height:650px;" id="content_div">
+<div class="story" style="width:99%">
+<h2>r.ecommended.com Privacy Policy </h2>
+<div style="width:90%">
+<p><strong>Our Commitment To Privacy</strong></p>
+<p>Your privacy is important to us. To better protect your privacy we  provide this notice explaining our online information practices and the  choices you can make about the way your information is collected and  used. To make this notice easy to find, we make it available on our  homepage and at every point where personally identifiable information  may be requested.</p>
+<p><strong>The Information We Collect:</strong></p>
+<p>This notice applies to all information collected or submitted on this website. When you register with the site, you must enter the following information:</p>
+<ul>
+<em>Email address<br>
+Name<br>
+Password</em>
+</ul>
+<p><strong>The Way We Use Information:</strong></p>
+<p>We use the information you provide about yourself in order to authenticate you and allow you access to R.ecommended.com. From time to time, we may use your email address to contact you about changes to our services, maintenance   notifications, and information relevant to your accout. We will not pass your email address on to third parties, or use it for promotional purposes. </p>
+<p>Finally, we never use or share the personally identifiable  information provided to us online in ways unrelated to the ones  described above without also providing you an opportunity to opt-out or  otherwise prohibit such unrelated uses.</p>
+<p><strong>Our Commitment To Data Security</strong></p>
+<p>To prevent unauthorized access, maintain data accuracy, and ensure  the correct use of information, we have put in place appropriate  physical, electronic, and managerial procedures to safeguard and secure  the information we collect online.</p>
+<p><strong>How You Can Access Or Correct Your Information</strong></p>
+<p>You can access all your personally identifiable information that we collect via the management features of your account. All your external site logins can be managed online, and your account information can be modified. </p>
+<p><strong>How To Contact Us</strong></p>
+<p>Should you have other questions or concerns about these privacy policies, please send us an email at <a href="mailto:ops@r.ecommended.com">ops@r.ecommended.com</a></p>								  
+</div>				
+</div>
+</div>
+<div style="width:125px;height:100px;float:left;margin:10px 0 0 25px;">
+<div style="position:absolute;width:135px;height:25px;line-height:25px;background-color:#205EDB;border:2px solid #022C83;color:#FFFFFF;font-weight:bold;padding:0 0 0 2px">
+Secret Discounts
+</div>
+<img src="/resources/image/site/bdr_ads_3d.gif" style="position:absolute;height:9px;margin:29px 0 0 120px;z-index:10">
+<object type="application/x-shockwave-flash" data="/resources/swf/secret_world.swf" width="125" height="630" style="margin-top:29px;position:relative;z-index:20">
+<param name="movie" value="/resources/swf/secret_world.swf">
+<param name="wmode" value="transparent">
+<a href="http://r.ecommended.com/content/secret-discounts">	
+<img src="/resources/image/site/bnr_secret_world.gif" border="0" style="margin-top:29px;position:relative;z-index:20">
+</a>
+</object>
+<br>
+<br>
+&nbsp;
+</div>	
+<div class="spacer_small" style="height:1px"></div>
+<div style="height:20px;background-color:#D4E0F8;margin-top:30px;text-align:center;padding-top:5px;margin-bottom:20px;font-size:11px;width:930px">
+<a href="http://r.ecommended.com/content/about">About</a> | <a href="http://r.ecommended.com/content/contact">Contact</a> | <a href="http://r.ecommended.com/content/privacy">Privacy</a> | <a href="http://r.ecommended.com/content/terms-of-service">Terms of Service</a> | <a href="http://r.ecommended.com/content/rss">RSS</a>  | <a href="http://r.ecommended.com/content/faq">F.A.Q</a> | <a href="http://r.ecommended.com/content/finance-info">How This Site is Financed</a>  | <a href="http://r.ecommended.com/content/secret-discounts">Secret Discounts</a> | <a href="http://r.ecommended.com/content/andy-blands-bonus-haul">Andy Bland's Bonus Haul</a>
+</div>	
+</div>
+<div id="server_tag" style="display:none">r.ecommended.com</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-2947508-23");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+</body></html>
