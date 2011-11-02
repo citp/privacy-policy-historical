@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pluginflips.com privacy policy that was archived on 2011-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110402170552id_/http%3A//www.pluginflips.com/legaldocs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginflips.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102032006id_/http%3A//www.pluginflips.com/legaldocs/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
