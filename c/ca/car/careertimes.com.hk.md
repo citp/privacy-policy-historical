@@ -1,8 +1,11 @@
-> *The following text is extracted and transformed from the careertimes.com.hk privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414080517id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careertimes.com.hk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011322id_/http%3A//www.careertimes.com.hk/english/terms/privacy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy policy – CareerTimes.com.hk, CTgoodjobs.hk
 
-**PERSONAL INFORMATION COLLECTION STATEMENTS AND PRIVACY POLICY STATEMENTS**
+  
+
+
+## **PERSONAL INFORMATION COLLECTION STATEMENTS AND PRIVACY POLICY STATEMENTS**
 
 _(A) Policy _
 
