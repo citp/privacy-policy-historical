@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyotaownersclub.com privacy policy that was archived on 2010-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100725192015id_/http%3A//www.toyotaownersclub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyotaownersclub.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102183527id_/http%3A//www.toyotaownersclub.com/privacy) for the most accurate reproduction.*
 
 # Toyota Owners Club UK
 
@@ -10,7 +10,7 @@ The Owners Club respects your privacy and is committed to protect the personal i
 
 Personal information means any information that may be used to identify an individual, including, but not limited to, a first and last name, email address, a home, postal or other physical address, other contact information, title, birth date, gender, occupation, industry, personal interests, other information when needed to provide a service you requested.
 
-When you browse our website, you do so anonymously, unless you have previously indicated that you wish The Owners Club to remember your login and password. We don't automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, The Owners Club website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Information" below for more information.
+When you browse our website, you do so anonymously, unless you have previously indicated that you wish the Owners Club to remember your login and password. We don't automatically collect personal information, including your email address. We do log your IP address (the Internet address of your computer) to give us an idea of which part of our website you visit and how long you spend there. But we do not link your IP address to any personal information unless you have logged in to our website. Like many other commercial websites, The Owners Club website may use a standard technology called a "cookie" to collect information about how you use the site. Please go to "Cookies and Tracking Information" below for more information.
 
  **How We Use Information Collected**
 
