@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the filebulldog.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107092457id_/http%3A//filebulldog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filebulldog.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143327id_/http%3A//www.filebulldog.com/privacy) for the most accurate reproduction.*
 
 # Software and Driver Updates - FileBulldog.com
 
-FileBulldog and its creator Somoto ltd. (herein “The provider”) is committed to your privacy. Please read our policies below: 
+FileBulldog. (herein “The provider”) is committed to your privacy. Please read our policies below: 
 
 The provider recognize the need to protect the privacy of the personal information of our users. Users should fully understand the terms and conditions surrounding the use of that information. 
 
@@ -20,6 +20,8 @@ The provider never tracks or store you personal identifiable information. The so
 
 The provider does not launch pop-up or pop-under advertisement windows or any other type of obtrusive ads. Occasionally users may be presented with advertisements while using the toolbar. We might use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with search results pages may be collected by our ad company, and we do not have access to this information. 
 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. We do not store this information and it is solely use it for sending this one-time email. If you choose to contact us we will ask you for your name and email address. We do not store this information but simply receive it as one time email. You may contact us at <http://www.filebulldog.com/contact> to request that we remove this email from our email inbox. 
+
   
 
 
@@ -33,6 +35,13 @@ Cookies are pieces of information that a web site transfers to your computer's h
 ## IP addresses
 
 IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as "traffic data" so that data (such as the Web pages you request) can be sent to you. We also use your IP address to help diagnose problems with our server and to administer our Web site. The provider will not use your IP address to attempt to identify your personal information. 
+
+  
+
+
+## Data Security
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
   
 
@@ -53,4 +62,4 @@ The application may contain links to third-party Web sites. Please be aware that
 
 ## Contacting The provider
 
-If you have any questions about this privacy statement, the practices of this site or application, or your dealings with them, you can contact: [privacy@FileBulldog.com](mailto:privacy@FileBulldog.com)
+If you have any questions about this privacy statement, the practices of this site or application, or your dealings with them, you can contact us [here](mailto:privacy@filebulldog.com). 
