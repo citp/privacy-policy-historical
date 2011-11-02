@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the reachout.com privacy policy that was archived on 2011-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110503182336id_/http%3A//us.reachout.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reachout.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102023615id_/http%3A//us.reachout.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<meta name="google-site-verification" content="j6hrFhxkAcgjxDKvygguf0fH86bmq1AaI5msXfrTlbk">
+
 	
 	<title>
 					Privacy Policy : 
 				ReachOut.com USA
 	</title>
 	
-	<meta name="description" content="ReachOut.com provides youth with the information and support to overcome mental health issues like stress, anxiety, bullying, suicide, bipolar and depression.">
-
+	<meta name="description" content="ReachOut.com provides youth with information and support to overcome issues like low self esteem, being bullied, committing suicide and cutting yourself.">
+	
 	<!-- Indexing Information -->
 	<meta name="Rating" content="General">
 	<meta name="Robots" content="index,follow">
@@ -20,65 +21,57 @@
 	<link type="image/ico" rel="shortcut icon" href="/favicon.ico">
 	
 	
-	<link type="text/css" rel="stylesheet" media="screen" href="/assets/css/main.css">
-	<link type="text/css" rel="stylesheet" media="print" href="/assets/css/print.css">
-	<link type="text/css" rel="stylesheet" media="screen" href="/assets/css/sifr.css">
-		
-	
 	<link rel="alternate" type="application/rss+xml" title="ReachOut Blog RSS Feed" href="http://us.reachout.com/blog/feed">
-	
-	
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/assets/js/jquery.min.js"></script>
-	<script type="text/javascript" src="/assets/wecanhelpus/js/jquery.cookie.js"></script>
-	<script type="text/javascript" src="/assets/js/scroll.js"></script> 
-	<script type="text/javascript" src="/assets/js/sifr.js"></script>  
-	<script type="text/javascript" src="/assets/js/application.js"></script>	 
-	<script type="text/javascript" src="/assets/js/swfobject.js"></script>
-	<script type="text/javascript" src="/assets/js/jquery.popupwindow.js"></script>  
-	
-	<script type="text/javascript">
-		var flashvars = {};
-		var params = {};
-		params.wmode = "transparent";
-		params.allowfullscreen = "true";
-		params.allscriptaccess = "always";
-		var attributes = {};
-		swfobject.embedSWF("/assets/swf/home_banner.swf", "homeBanner", "598", "322", "9.0.0", "/assets/swf/expressInstall.swf", flashvars, params, attributes);
-		swfobject.embedSWF("http://www.youtube.com/v/zXn1W3fjf10&hl=en_US&fs=1&", "homeVideo", "313", "249", "9.0.0", false, flashvars, params, attributes);
-	</script><style type="text/css" media="screen">#homeBanner {visibility:hidden}#homeVideo {visibility:hidden}#homeBanner {visibility:visible}#homeVideo {visibility:visible}</style>
+		
+	<!-- CSS -->
+	<link rel="stylesheet" href="http://us.reachout.com/?css=css/reset.v.1303686967" type="text/css">
+	<link rel="stylesheet" href="http://us.reachout.com/?css=css/style.v.1313171347" type="text/css">
+	<!--[if lt IE 8]>
+	<link rel="stylesheet" href="http://us.reachout.com/?css=css/ie.v.1305248214" type="text/css" />
+	<![endif]-->
+	<link rel="stylesheet" href="http://us.reachout.com/?css=css/jquery-qtip.v.1303708162" type="text/css">
+		
+	<!-- jQuery -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
+	<script src="http://us.reachout.com/js/slides-jquery" type="text/javascript"></script>	
+	<script src="http://us.reachout.com/js/jquery-equal-height-columns" type="text/javascript"></script>
+	<script src="http://us.reachout.com/js/jquery-qtip-pack" type="text/javascript"></script>
+		<script type="text/javascript">
+		$(document).ready(function() {
+			// add class to last li ul li in nav
+			$("#nav li ul li:last-child").addClass("bottom");
+		});
 
-	<script type="text/javascript">
-		var profiles =
-		{
-
-			windowCenter:
+		$(window).load(function() {equalHeight($(".group"));});
+		
+		$(document).ready(function() {
+			$('#booklist .book').each(function(i)
 			{
-				height:300,
-				width:400,
-				center:1
-			},
-
-			windowNotNew:
-			{
-				height:300,
-				width:400,
-				center:1,
-				createnew:0
-			},
-			customeWindow:
-			{height:580,width:918,toolbar:0,scrollbars:1,status:0,resizable:0,left:150,top:100},
-			customeWindow2:
-			{
-				height:500, width:580,toolbar:0,scrollbars:1,status:0,resizable:0,left:150,top:100
-			},
-
-		};
-
-	   	$(function()
-		{$(".popupwindow").popupwindow(profiles);});
+				$(this).qtip(
+				{
+					content: {
+						text: $(this).children('.summary')
+					},
+					position: {
+						my: 'left center',  // Position my top left...
+						at: 'center', // at the bottom right of...
+						target: $(this) // my target
+					},
+					style: {
+						classes: 'ui-tooltip-shadow ui-tooltip-light',
+						tip: {
+							border: 3,
+							width: 15,
+							height: 30
+						}
+					},
+					hide: { 
+						fixed: true
+					}
+				});
+			})
+		});
 	</script>
-	
-	
 	<script type="text/javascript" src="/assets/js/fancybox/jquery.mousewheel-3.0.2.pack.js"></script>
 	<script type="text/javascript" src="/assets/js/fancybox/jquery.fancybox-1.3.0.pack.js"></script>
 	<link rel="stylesheet" type="text/css" href="/assets/js/fancybox/jquery.fancybox-1.3.0.css" media="screen">
@@ -130,388 +123,368 @@
 
 
 	});
+	</script>	
+	<script src="http://us.reachout.com/js/jquery-vertical-center" type="text/javascript"></script>
+	<!-- Cufon -->
+	<script src="http://us.reachout.com/js/cufon" type="text/javascript"></script>
+	<script src="http://us.reachout.com/js/Shark_HandWritten_ABC_400-font" type="text/javascript"></script>
+	<script type="text/javascript">
+		Cufon.replace('#main > #col-1 > h1');
+		Cufon.replace('.blog-heading h1');
+		Cufon.replace('#home h2');
+		Cufon.replace('#sidenav h2');
+		Cufon.replace('#home h4');
+		Cufon.replace('#mainnav > ul > li > a');
+		Cufon.replace('.section-title');
 	</script>
-				
-	<style type="text/css">
-		.livechatBox span{ background-position: center bottom;}
-	</style>
-
-<script src="/mint/?js" type="text/javascript"></script>
+	
+	<!-- Google Font -->
+	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Arvo">
+	
+	
+	<script src="/mint/?js" type="text/javascript"></script>
 </head>
+<body id="landing" class="single-entry">
 
-<body id="landing">
-	<a name="Top" id="Top"></a>
-	<div id="topWrapper">
-		<div id="topContainer">
-			<div id="header">
-				
-				<a href="http://us.reachout.com/"><div class="logo"><!-- --></div></a>
+<div style="width: 100%; background-color: #000; text-align: center; color: #ccc;"><p style="margin: 0; padding: 4px;">Notice: We have made changes to our <a href="/privacy-policy" style="color: #fff;">privacy policy</a>.</p></div>
+
+	<div id="container" class="clearfix">
 		
-				<div class="tagLine"><!-- --></div>
-		
-				<div class="helpLine">
-					<div class="helpLineP1"><!-- NEED HELP NOW? --><span></span></div>
-					<div class="helpLineP2"><a href="http://us.reachout.com/get-help/getting-help-in-a-crisis"><!-- CALL 1.800.273.8255 --></a></div>		  
-				</div><!-- /helpLine -->
-		
-				<div class="miniNav"><a href="http://us.reachout.com/about-us">About Us</a> | <a href="/blog">RO Blog</a></div>
-		
-				<div class="ssBox">
-					<div class="t"></div>
-					<div class="m">
+		<div id="branding">
+							<a href="/" class="logo">ReachOut.com</a>
+						
+			<div id="tagline">
+				Get Through Tough Times
+			</div>
+			<a href="/get-help/getting-help-in-a-crisis" id="needhelp">
+				Need Help - Call 800-273-8255
+			</a>
+			<div id="topnav">
+				<a href="/about-us">About Us</a> | <a href="/blog">Blog</a> | <a href="/site/login">Login</a> | <a href="/site/register">Register</a>			</div><!-- /topnav -->
+		</div>
+	
+		<div id="navbar">
+			<div id="mainnav">
+				<ul id="nav">
+					<li><a href="http://us.reachout.com/facts">The Facts</a>
 						<ul>
-							<li class="facebook"><a href="http://www.facebook.com/ReachOutUSA" target="_blank"></a></li>
-							<li class="twitter"><a href="http://twitter.com/reachoutinusa" target="_blank"></a></li>
-							<li class="myspace"><a href="http://www.myspace.com/reachoutinusa" target="_blank"></a></li>
-							<li class="youtube"><a href="http://www.youtube.com/user/Reachoutfilms" target="_blank"></a></li>
-						</ul>
-					</div>
-					<div class="b"></div>
-				</div><!-- /ssBox -->
-		
-				<div class="navBox">
-					<ul id="nav">
-						<li><a class="btn1" href="http://us.reachout.com/facts">The Facts</a>
-							<dl>
-								
-								<dd><a href="/facts/anxiety">Anxiety</a></dd>
-								
-								<dd><a href="/facts/becoming-independent">Becoming Independent</a></dd>
-								
-								<dd><a href="/facts/depression">Depression</a></dd>
-								
-								<dd><a href="/facts/drugs-alcohol-and-tobacco">Drugs, Alcohol, and Tobacco</a></dd>
-								
-								<dd><a href="/facts/eating-issues">Eating Issues</a></dd>
-								
-								<dd><a href="/facts/family-relationships">Family Relationships</a></dd>
-								
-								<dd><a href="/facts/friendships-and-peer-relationships">Friendships and Peer Relationships</a></dd>
-								
-								<dd><a href="/facts/loss-and-grief">Loss and Grief</a></dd>
-								
-								<dd><a href="/facts/maintaining-good-health">Maintaining Good Health</a></dd>
-								
-								<dd><a href="/facts/romance-sexuality-and-pregnancy">Romance, Sexuality, and Pregnancy</a></dd>
-								
-								<dd><a href="/facts/school-pressures">School Pressures</a></dd>
-								
-								<dd><a href="/facts/self-harm">Self-Harm</a></dd>
-								
-								<dd><a href="/facts/struggles-with-other-problems">Struggles with Other Problems</a></dd>
-								
-								<dd><a href="/facts/suicide">Suicide</a></dd>
-								
-								<dd><a href="/facts/violence">Violence</a></dd>
-								
-								<dt></dt>
-							 </dl>
-						</li>
-						<li><a class="btn2" href="http://us.reachout.com/real-stories">Real Stories</a>
-							<dl>
-								
-								<dd><a href="/real-stories/anxiety">Anxiety</a></dd>
-								
-								<dd><a href="/real-stories/becoming-independent">Becoming Independent</a></dd>
-								
-								<dd><a href="/real-stories/depression">Depression</a></dd>
-								
-								<dd><a href="/real-stories/drugs-alcohol-and-tobacco">Drugs, Alcohol, and Tobacco</a></dd>
-								
-								<dd><a href="/real-stories/eating-issues">Eating Issues</a></dd>
-								
-								<dd><a href="/real-stories/family-relationships">Family Relationships</a></dd>
-								
-								<dd><a href="/real-stories/friendships-and-peer-relationships">Friendships and Peer Relationships</a></dd>
-								
-								<dd><a href="/real-stories/loss-and-grief">Loss and Grief</a></dd>
-								
-								<dd><a href="/real-stories/maintaining-good-health">Maintaining Good Health</a></dd>
-								
-								<dd><a href="/real-stories/romance-sexuality-and-pregnancy">Romance, Sexuality, and Pregnancy</a></dd>
-								
-								<dd><a href="/real-stories/school-pressures">School Pressures</a></dd>
-								
-								<dd><a href="/real-stories/self-harm">Self-Harm</a></dd>
-								
-								<dd><a href="/real-stories/struggles-with-other-problems">Struggles with Other Problems</a></dd>
-								
-								<dd><a href="/real-stories/suicide">Suicide</a></dd>
-								
-								<dd><a href="/real-stories/violence">Violence</a></dd>
-								
-								<dt></dt>
-							 </dl>
-						</li>
-						<li><a class="btn5" href="http://us.reachout.com/wecanhelpus">We Can Help Us</a></li>
-						<li><a class="btn3" href="http://us.reachout.com/your-voice">Your Voice</a>
-							<dl>
-								
-								   <dd><a href="/blog">ReachOut Blog</a></dd>
-								
-								   <dd><a href="/your-voice/share-your-story">Share Your Story</a></dd>
-								
-								   <dd><a href="/your-voice/ways-to-get-involved">Ways To Get Involved</a></dd>
-								
-								   <dd><a href="/your-voice/community-guidelines">Community Guidelines</a></dd>
-								
-								<dt></dt>
-							</dl>
-						</li>
-						<li><a class="btn4" href="http://us.reachout.com/get-help">Get help</a>
-							<dl>
-								
-								   <dd><a href="/get-help/getting-help-in-a-crisis">Getting Help in a Crisis</a></dd>
-								
-								
-									<dd><a href="/get-help/finding-people-to-help-and-support-you">Finding People To Help and Support You</a></dd>
-								
-									<dd><a href="/get-help/help-a-friend">Help a Friend</a></dd>
-								
-									<dd><a href="/get-help/i-am-worried-about-myself">I Am Worried About Myself</a></dd>
-								
-									<dd><a href="/get-help/types-of-treatment">Types of Treatment</a></dd>
-								
-								<dt></dt>
-							</dl>
-						</li>
-					</ul>
-						<div class="searchBox">
-							<form action="/search/results" id="cse-search-box">
-								<div class="searchBar">
-									<input type="hidden" name="cx" value="004528898104186460068:59gbshvduj8" class="hide">
-				 					<input type="hidden" name="cof" value="FORID:9" class="hide">
-				 					<input type="hidden" name="ie" value="UTF-8" class="hide">
-									<input type="text" name="q" value="Search ReachOut" onblur="this.value = this.value || this.defaultValue;" onfocus="this.value == this.defaultValue &amp;&amp; (this.value = '');">
-								</div>
-								<input class="btnSearch" alt="SEARCH" name="sa" type="submit" value="">
-							</form>
-						</div>
-						<div class="clr"><!-- --></div>
-				 </div><!-- /navBox -->
-			</div><!-- /header -->	
-		</div><!-- /topContainer -->
-	</div><!-- /topWrapper -->
-	<div id="bodyWrapper">
-		<div id="bodyWrapper2">
-			<div id="bodyContainer1">
-				<div id="bodyContainer2">
-					<div id="mainBody">
-						<div id="mainBody2">
 							
-									<div class="sideNavBox">
-										
+							<li><a href="/facts/anxiety">Anxiety</a></li>
+							
+							<li><a href="/facts/becoming-independent">Becoming Independent</a></li>
+							
+							<li><a href="/facts/depression">Depression</a></li>
+							
+							<li><a href="/facts/drugs-alcohol-and-tobacco">Drugs, Alcohol, and Tobacco</a></li>
+							
+							<li><a href="/facts/eating-issues">Eating Issues</a></li>
+							
+							<li><a href="/facts/family-relationships">Family Relationships</a></li>
+							
+							<li><a href="/facts/friendships-and-peer-relationships">Friendships and Peer Relationships</a></li>
+							
+							<li><a href="/facts/loss-and-grief">Loss and Grief</a></li>
+							
+							<li><a href="/facts/maintaining-good-health">Maintaining Good Health</a></li>
+							
+							<li><a href="/facts/romance-sexuality-and-pregnancy">Romance, Sexuality, and Pregnancy</a></li>
+							
+							<li><a href="/facts/school-pressures">School Pressures</a></li>
+							
+							<li><a href="/facts/self-harm">Self-Harm</a></li>
+							
+							<li><a href="/facts/struggles-with-other-problems">Struggles with Other Problems</a></li>
+							
+							<li><a href="/facts/suicide">Suicide</a></li>
+							
+							<li><a href="/facts/violence-and-sexual-assault">Violence and Sexual Assault</a></li>
+							
+						</ul>
+					</li>
+					<li><a href="http://us.reachout.com/real-stories">Real Stories</a>
+						<ul>
+							
+							<li><a href="/real-stories/anxiety">Anxiety</a></li>
+							
+							<li><a href="/real-stories/becoming-independent">Becoming Independent</a></li>
+							
+							<li><a href="/real-stories/depression">Depression</a></li>
+							
+							<li><a href="/real-stories/drugs-alcohol-and-tobacco">Drugs, Alcohol, and Tobacco</a></li>
+							
+							<li><a href="/real-stories/eating-issues">Eating Issues</a></li>
+							
+							<li><a href="/real-stories/family-relationships">Family Relationships</a></li>
+							
+							<li><a href="/real-stories/friendships-and-peer-relationships">Friendships and Peer Relationships</a></li>
+							
+							<li><a href="/real-stories/loss-and-grief">Loss and Grief</a></li>
+							
+							<li><a href="/real-stories/maintaining-good-health">Maintaining Good Health</a></li>
+							
+							<li><a href="/real-stories/romance-sexuality-and-pregnancy">Romance, Sexuality, and Pregnancy</a></li>
+							
+							<li><a href="/real-stories/school-pressures">School Pressures</a></li>
+							
+							<li><a href="/real-stories/self-harm">Self-Harm</a></li>
+							
+							<li><a href="/real-stories/struggles-with-other-problems">Struggles with Other Problems</a></li>
+							
+							<li><a href="/real-stories/suicide">Suicide</a></li>
+							
+							<li><a href="/real-stories/violence-and-sexual-assault">Violence and Sexual Assault</a></li>
+							
+						 </ul>
+					</li>
+					<li><a href="http://us.reachout.com/your-voice">Your Voice</a>
+						<ul>
+							
+							   <li><a href="/blog">ReachOut Blog</a></li>
+							
+							   <li><a href="/your-voice/share-your-story">Share Your Story</a></li>
+							
+							   <li><a href="/your-voice/ways-to-get-involved">Ways To Get Involved</a></li>
+							
+							   <li><a href="/your-voice/community-guidelines">Community Guidelines</a></li>
+							
+						</ul>
+					</li>
+					<li><a class="last" href="http://us.reachout.com/get-help">Get help</a>
+						<ul>
+							
+							   <li><a href="/get-help/getting-help-in-a-crisis">Getting Help in a Crisis</a></li>
+							
+							
+								<li><a href="/get-help/finding-people-to-help-and-support-you">Finding People To Help and Support You</a></li>
+							
+								<li><a href="/get-help/help-a-friend">Help a Friend</a></li>
+							
+								<li><a href="/get-help/i-am-worried-about-myself">I Am Worried About Myself</a></li>
+							
+								<li><a href="/get-help/types-of-treatment">Types of Treatment</a></li>
+							
+						</ul>
+					</li>
+				</ul>
+			</div>
+		
+			<div id="searchbar">
+				<form action="/search/results" id="cse-search-box">
+					<input type="hidden" name="cx" value="004528898104186460068:59gbshvduj8" class="hide">
+					<input type="hidden" name="cof" value="FORID:9" class="hide">
+					<input type="hidden" name="ie" value="UTF-8" class="hide">
+					<input class="text" type="text" name="q" value="Search ReachOut" onblur="this.value = this.value || this.defaultValue;" onfocus="this.value == this.defaultValue &amp;&amp; (this.value = '');">
+					<button class="btn-search" title="Search">Search</button>
+				</form>
+			</div>
+		</div>
+	
+	<div id="content">
+		<div id="main">
+			<div id="breadcrumb"><a href="http://us.reachout.com/">Home</a> &gt;  Privacy Policy</div>
+			
+			
+			
+
+<div id="sidenav">
+	
+	
+	
+</div>
+			
+			<div id="col-1">
+				<div class="section">
+					
+						
+						
+								
+							
+
+						
+						
+						
+
+						<h1>Privacy Policy </h1>
+
+						<p>
+	Effective August 26, 2009. Last Revised October 28, 2011.</p>
+<h3>
+	1. Privacy policy</h3>
+<p>
+	The ReachOut website located at www.reachout.com, including all of its subsites and related services (collectively the “Site”) is operated by the Inspire USA Foundation (“Inspire USA”). Inspire USA respects and is committed to maintaining the privacy of all visitors to this Site. Your use of this Site indicates that you accept this Privacy Policy, and consent to the collection and use by us of any information that personally identifies you (“Personal Information”) according to the terms below, and to the Site’s Terms of Use available here. Inspire USA reserves the right to modify the content, nature and accessibility of the Site, in which case the Privacy Policy will continue to apply.</p>
+<p>
+	Inspire USA may revise this Privacy Policy at any time by placing a notice on the Site advising that the Privacy Policy has changed. You will be deemed to have accepted and agreed to the revised Privacy Policy if you continue to use the Site after notice of the revised Privacy Policy has been placed on the Site. If revisions to the Privacy Policy are unacceptable to you or cause you to no longer be in compliance with the Privacy Policy, you must cease using the Site.</p>
+<h3>
+	2. Collection of Personal Information</h3>
+<p>
+	You can browse the Site without telling us who you are or revealing any other Personal Information. In some cases, we may ask for your Personal Information in order to provide the services you request or to help improve the Site. We will only collect Personal Information which you voluntarily provide to us when using the Site, including without limitation:</p>
+<p>
+	If you subscribe to the Site, you will be required to submit your email address to enable us to keep you up-to-date on the latest news and to respond to your feedback</p>
+<p>
+	If you would like to apply to be a ReachOut Contributing Editor or a member of a special project team with the Site, you will need to provide your name, age, gender, contact details and racial and cultural background</p>
+<p>
+	If you choose to contribute any “User Submissions”, as defined in the Site’s Terms of Use, we will collect your IP address and you may also be required to submit your name, email address, mailing address, age, school, or other information.</p>
+<p>
+	If you choose to voluntarily complete one of the Site’s surveys, we may ask you for certain information to help us understand who is using the Site, including your age, gender, race, ethnicity, satisfaction with the Site, year in school, employment status, etc. <span style="color: #c00;">IP addresses of survey respondents may be collected, but Inspire will not share such information with any third parties except for Inspire USA’s affiliated entities, contracted service providers or professional advisors, and such information will be promptly erased once the data from all respondents is sent to Inspire USA for analysis.</span></p>
+<h3>
+	3. Use of Personal Information</h3>
+<p>
+	Inspire USA uses Personal Information to fulfil and process the requests of users, including to provide technical support or account maintenance. We may also use this information to provide you with updated information on new projects commenced by Inspire USA, to alert you to special events organized by Inspire USA, to let you know when new content has been added to the site, and to conduct research, surveys or engage in other marketing purposes.</p>
+<p>
+	In relation to the ReachOut Contributing Editor application form and the Special Project Team Member application form, any demographic information we may ask you to provide is used to help us have appropriate age, gender, racial and cultural, and geographic locations represented.</p>
+<p>
+	Subject to the exceptions listed below, Personal Information will only be accessed by Inspire USA management and personnel, Inspire USA’s affiliated entities including the Inspire Foundation, and Inspire USA’s contracted service providers and professional advisors, all of whom are bound by this Privacy Policy, and we will not give your personal information to advertisers and other organizations without your express consent.</p>
+<p>
+	In the following circumstances, Inspire USA may disclose your Personal Information without your consent:<br>
+	if we believe there is a serious and imminent threat to the life, health or safety of yourself or another person (for example, if we learn that a person is suffering abuse or has made statements of an intent to commit self-harm or harm another)<br>
+	to investigate or report on activity which we believe on reasonable grounds to be unlawful</p>
+<p>
+	if disclosure is required or authorized by law (for example, in response to a subpoena or where a regulatory authority has the power to request the provision of certain records or information)</p>
+<p>
+	if disclosure is reasonably necessary to enable an enforcement body to perform its functions, for example:</p>
+<p>
+	the prevention, detection, investigation, prosecution or punishment of criminal offences; and</p>
+<p>
+	the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.</p>
+<p>
+	If Inspire USA deems necessary in its sole discretion to protect its legal and legitimate business interests.</p>
+<p>
+	You acknowledge that Inspire USA’s right to disclose Personal Information under the Privacy Policy may involve disclosure to entities located outside the United States. Where Inspire USA is required or authorized to disclose your Personal Information, you consent to the disclosure of your Personal Information to foreign entities.</p>
+<h3>
+	4. Sharing Personal Information</h3>
+<p>
+	You may have the option to publicly post or otherwise disclose your Personal Information in certain portions of the Site. Any information that is posted or otherwise disclosed in these areas becomes public information. You post such Personal Information on the Site at your own risk. Please exercise caution when deciding to disclose Personal Information to others. Inspire USA cannot control the actions of other users of the Site with whom you may choose to share Personal Information. Therefore, we cannot and do not guarantee that Personal Information that you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. Any improper collection or misuse of Personal Information provided on the Site is a violation of the Terms of Use.</p>
+<h3>
+	5. Security of information</h3>
+<p>
+	Inspire USA will take reasonable steps to ensure your Personal Information is protected from modification, misuse, disclosure, loss and unauthorized access. While Inspire USA will take reasonable precautions against potential breaches of your Personal Information, no website or Internet transmission is completely secure. Consequently, Inspire USA cannot, and does not, guarantee that unauthorized access, hacking, data loss, disclosure, misuse, modification or any other breaches will not occur. Inspire USA urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place, and logging out of your online user account and closing your web browser after you are finished using the Site.</p>
+<h3>
+	6. Cookies and session information</h3>
+<p>
+	Cookies are pieces of information that a site sends to your computer’s hard disk when you access information on that site. Each time you use your computer to access the same site, the information that was previously received is sent back to the site by your browser. We use session ID cookies to confirm that users are logged in. These cookies terminate once you close the browser. Cookies do not identify individual users. However, when you visit the Site, our servers may record information about your usage, the time of your visit, its duration, the pages you visit and style settings. If you do not agree to the use of cookies, you can set the preferences on your browser to remove all cookies and reject cookies in the future.</p>
+<p>
+	Inspire USA may use information to publish aggregate statistics about usage, registration, traffic patterns and other related site information that does not personally identify users. This is important to ensure that our content and services continue to meet the general needs of our users. <span style="color: #c00;">IP addresses may be collected, but Inspire will not share such information with any third parties except for Inspire USA’s affiliated entities, contracted service providers or professional advisors, and such information will be promptly erased once the data from all users of the service is sent to Inspire USA for analysis.</span></p>
+<p>
+	You may have the option to register and login as a member of the Site, in which case your preferred style settings will be linked to your member name and password. This login information is retained from session to session unless you change your member name or password.</p>
+<h3>
+	7. Third-party links</h3>
+<p>
+	This Privacy Policy applies only to information collected by Inspire USA through the Site. From time to time, the Site may provide links to third-party websites. This Privacy Policy does not apply to third-party websites, whether or not the Site provides a link to such websites. You are encouraged to review the policies of any and all such websites carefully, as your rights will be governed by those websites’ respective privacy policies. Alternatively, there may be unauthorized third-party websites that may link to our Site without our knowledge or control. Inspire USA (a) is not responsible for the content of any third-party websites, (b) expressly disclaims any statements or assertions made on any third-party websites, and (c) denies all liability associated with your use of, and the content on, any third-party websites.</p>
+<h3>
+	8. Minors and Children Under Age 13</h3>
+<p>
+	We recommend that minors 13 years of age or older ask their parents for permission before sending any Personal Information to anyone over the Internet.</p>
+<p>
+	We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register on the Site or send any Personal Information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any Personal Information to Inspire USA or on the Site. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us.</p>
+<h3>
+	9. Access to information</h3>
+<p>
+	Please contact us if you believe that the Personal Information that you have provided to us is not up-to-date, complete or accurate. You have the right to request the correction of any information which relates to you and is inaccurate. If you would like us to delete any Personal Information that you have disclosed only to us as part of registering or subscribing with the Site, please let us know and we will take reasonable steps to delete it unless we are required by law to keep it.<br>
+	However, if you publicly disclose your Personal Information on the Site, (e.g., you include Personal Information in a comment to an article on the Site or in an User Submission), such information becomes public information. We may not be able to remove such publicly disclosed Personal Information. Please be aware of this before you choose to publicly disclose your Personal Information on the Site.</p>
+<p>
+	If you have any questions, comments or concerns about our Privacy Policy, please send an email to <a href="mailto:policies@inspire.org">policies@inspire.org</a> or write us at:</p>
+<p>
+	<strong>Inspire USA Foundation</strong><br>
+	657 Mission Street, #507<br>
+	San Francisco, CA 94105</p>
 
 
+					
 
+					
 
-
-<div id="sideNavG">
-	<div class="sideB">
-		<div class="sideT">
-			<div class="sideM">
-				<div class="sideM2">
-					<h3>Digital Stories</h3>
-					<ul>
-						<li class="video"><a href="/real-stories/video">All video stories</a></li>
-						<li class="audio"><a href="/real-stories/audio">All audio stories</a></li>
-					</ul>
-				</div>
+					
+					
+					
+					
+					
+									</div>
 			</div>
 		</div>
 	</div>
-</div><!-- /sideNavG -->
 
-									</div><!-- /sideNavBox -->
-
-									<div class="subpageRgt">
-								
-
-	<div class="breadcrumb"><a href="http://us.reachout.com/">Home</a> &gt;  Privacy Policy</div>
-	<div class="subpageRgtIn">
-		
-		
-			
-			
-			
-			
+			<div id="footer">
+			<div class="link-col">
+				<h3>Learn More</h3>
+				<ul>
+					<li><a href="/facts">The Facts</a></li>
+					<li><a href="/real-stories">Real Stories</a></li>
+					<li><a href="/wecanhelpus">We Can Help Us</a></li>
+				</ul>
+			</div>
+			<div class="link-col">
+				<h3>Get Involved</h3>
+				<ul>
+					<li><a href="/your-voice">Your Voice</a></li>
 					
-				
-			
-			
+					   <li><a href="/blog">ReachOut Blog</a></li>
+					
+					   <li><a href="/your-voice/share-your-story">Share Your Story</a></li>
+					
+					   <li><a href="/your-voice/ways-to-get-involved">Ways To Get Involved</a></li>
+					
+					   <li><a href="/your-voice/community-guidelines">Community Guidelines</a></li>
+					
+				</ul>
+			</div>
+			<div class="link-col">
+				<h3>Get Help</h3>
+				<ul>
+					
+					   <li><a href="/get-help/getting-help-in-a-crisis">Getting Help in a Crisis</a></li>
+					
+					
+						<li><a href="/get-help/finding-people-to-help-and-support-you">Finding People To Help and Support You</a></li>
+					
+						<li><a href="/get-help/help-a-friend">Help a Friend</a></li>
+					
+						<li><a href="/get-help/i-am-worried-about-myself">I Am Worried About Myself</a></li>
+					
+						<li><a href="/get-help/types-of-treatment">Types of Treatment</a></li>
+					
+				</ul>
+			</div>
+			<div class="link-col last">
+				<h3>Support</h3>
+				<ul>
+					<li><a href="/privacy-policy">Privacy Policy</a></li>
+					<li><a href="/terms-of-use">Terms of Use</a></li>
+					<li><a href="/terms-of-use#copyright">Copyright</a></li>
+					<li><a href="/about-us/support-reach-out">Support Reach Out</a></li>
+				</ul>
+			</div>
+			<div class="social-media">
+				<h3 class="inline">Find Us On:</h3>
+				<a href="http://www.facebook.com/ReachOutUSA"><img src="/images/btn-facebook.gif" width="28" height="28" alt="Btn Facebook"></a>
+				<a href="http://twitter.com/reachoutinusa"><img src="/images/btn-twitter.gif" width="28" height="28" alt="Bg Twitter"></a>
+				<a href="http://www.youtube.com/user/Reachoutfilms"><img src="/images/btn-youtube.gif" width="28" height="28" alt="Btn Youtube"></a>
+				<a href="http://www.myspace.com/reachoutinusa"><img src="/images/btn-myspace.gif" width="28" height="28" alt="Btn Myspace"></a>
+				<a href="http://reachoutusa.tumblr.com"><img src="/images/btn-tumblr.gif" width="28" height="28" alt="Btn Tumblr."></a>				
+				<a class="inspire" href="http://www.inspireusafoundation.org">Inspire Foundation</a>
+				<a class="top" href="#container">Back to Top</a>
+			</div>
+		</div>
 		
-			<h1>Privacy Policy </h1>
-		
-						
-			<p>Effective August 26, 2009. Last Revised January 11, 2010.</p>
-
-<h3>1. Privacy policy</h3>
-
-<p>The ReachOut website located at www.reachout.com, including all of its subsites and related services (collectively the “Site”) is operated by the Inspire USA Foundation (“Inspire USA”). Inspire USA respects and is committed to maintaining the privacy of all visitors to this Site. Your use of this Site indicates that you accept this Privacy Policy, and consent to the collection and use by us of any information that personally identifies you (“Personal Information”) according to the terms below, and to the Site’s Terms of Use available here. Inspire USA reserves the right to modify the content, nature and accessibility of the Site, in which case the Privacy Policy will continue to apply.</p>
-
-<p>Inspire USA may revise this Privacy Policy at any time by placing a notice on the Site advising that the Privacy Policy has changed. You will be deemed to have accepted and agreed to the revised Privacy Policy if you continue to use the Site after notice of the revised Privacy Policy has been placed on the Site. If revisions to the Privacy Policy are unacceptable to you or cause you to no longer be in compliance with the Privacy Policy, you must cease using the Site.</p>
-
-<h3>2. Collection of Personal Information</h3>
-
-<p>You can browse the Site without telling us who you are or revealing any other Personal Information. In some cases, we may ask for your Personal Information in order to provide the services you request or to help improve the Site. We will only collect Personal Information which you voluntarily provide to us when using the Site, including without limitation:</p>
-
-<p>If you subscribe to the Site, you will be required to submit your email address to enable us to keep you up-to-date on the latest news and to respond to your feedback</p>
-
-<p>If you would like to apply to be a ReachOut Contributing Editor or a member of a special project team with the Site, you will need to provide your name, age, gender, contact details and racial and cultural background</p>
-
-<p>If you choose to contribute any “User Submissions”, as defined in the Site’s Terms of Use, we will collect your IP address and you may also be required to submit your name, email address, mailing address, age, school, or other information.</p>
-
-<p>If you choose to voluntarily complete one of the Site’s surveys, we may ask you for certain information to help us understand who is using the Site, including your age, gender, race, ethnicity, satisfaction with the Site, year in school, employment status, etc. These surveys will be voluntary and anonymous, and will not be linked to any Personal Information.</p>
-
-<h3>3. Use of Personal Information</h3>
-
-<p>Inspire USA uses Personal Information to fulfil and process the requests of users, including to provide technical support or account maintenance. We may also use this information to provide you with updated information on new projects commenced by Inspire USA, to alert you to special events organized by Inspire USA, to let you know when new content has been added to the site, and to conduct research, surveys or engage in other marketing purposes.</p>
-
-<p>In relation to the ReachOut Contributing Editor application form and the Special Project Team Member application form, any demographic information we may ask you to provide is used to help us have appropriate age, gender, racial and cultural, and geographic locations represented.</p>
-
-<p>Subject to the exceptions listed below, Personal Information will only be accessed by Inspire USA management and personnel, Inspire USA’s affiliated entities including the Inspire Foundation, and Inspire USA’s contracted service providers and professional advisors, all of whom are bound by this Privacy Policy, and we will not give your personal information to advertisers and other organizations without your express consent.</p>
-
-<p>In the following circumstances, Inspire USA may disclose your Personal Information without your consent:<br>
-if we believe there is a serious and imminent threat to the life, health or safety of yourself or another person (for example, if we learn that a person is suffering abuse or has made statements of an intent to commit self-harm or harm another)<br>
-to investigate or report on activity which we believe on reasonable grounds to be unlawful</p>
-
-<p>if disclosure is required or authorized by law (for example, in response to a subpoena or where a regulatory authority has the power to request the provision of certain records or information)</p>
-
-<p>if disclosure is reasonably necessary to enable an enforcement body to perform its functions, for example: </p>
-
-<p>the prevention, detection, investigation, prosecution or punishment of criminal offences; and</p>
-
-<p>the preparation for, or conduct of, proceedings before any court or tribunal, or implementation of the orders of a court or tribunal.</p>
-
-<p>If Inspire USA deems necessary in its sole discretion to protect its legal and legitimate business interests.</p>
-
-<p>You acknowledge that Inspire USA’s right to disclose Personal Information under the Privacy Policy may involve disclosure to entities located outside the United States. Where Inspire USA is required or authorized to disclose your Personal Information, you consent to the disclosure of your Personal Information to foreign entities.</p>
-
-<h3>4. Sharing Personal Information</h3>
-
-<p>You may have the option to publicly post or otherwise disclose your Personal Information in certain portions of the Site. Any information that is posted or otherwise disclosed in these areas becomes public information. You post such Personal Information on the Site at your own risk. Please exercise caution when deciding to disclose Personal Information to others. Inspire USA cannot control the actions of other users of the Site with whom you may choose to share Personal Information. Therefore, we cannot and do not guarantee that Personal Information that you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. Any improper collection or misuse of Personal Information provided on the Site is a violation of the Terms of Use.</p>
-
-<h3>5. Security of information</h3>
-
-<p>Inspire USA will take reasonable steps to ensure your Personal Information is protected from modification, misuse, disclosure, loss and unauthorized access. While Inspire USA will take reasonable precautions against potential breaches of your Personal Information, no website or Internet transmission is completely secure. Consequently, Inspire USA cannot, and does not, guarantee that unauthorized access, hacking, data loss, disclosure, misuse, modification or any other breaches will not occur. Inspire USA urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place, and logging out of your online user account and closing your web browser after you are finished using the Site.</p>
-
-<h3>6. Cookies and session information</h3>
-
-<p>Cookies are pieces of information that a site sends to your computer’s hard disk when you access information on that site. Each time you use your computer to access the same site, the information that was previously received is sent back to the site by your browser. We use session ID cookies to confirm that users are logged in. These cookies terminate once you close the browser. Cookies do not identify individual users. However, when you visit the Site, our servers may record information about your usage, the time of your visit, its duration, the pages you visit and style settings. If you do not agree to the use of cookies, you can set the preferences on your browser to remove all cookies and reject cookies in the future.</p>
-
-<p>Inspire USA may use information to publish aggregate statistics about usage, registration, traffic patterns and other related site information that does not personally identify users. This is important to ensure that our content and services continue to meet the general needs of our users. This information that we collect about your use of the Site will remain anonymous and will not be linked to any Personal Information.</p>
-
-<p>You may have the option to register and login as a member of the Site, in which case your preferred style settings will be linked to your member name and password. This login information is retained from session to session unless you change your member name or password.</p>
-
-<h3>7. Third-party links</h3>
-
-<p>This Privacy Policy applies only to information collected by Inspire USA through the Site. From time to time, the Site may provide links to third-party websites. This Privacy Policy does not apply to third-party websites, whether or not the Site provides a link to such websites. You are encouraged to review the policies of any and all such websites carefully, as your rights will be governed by those websites’ respective privacy policies. Alternatively, there may be unauthorized third-party websites that may link to our Site without our knowledge or control. Inspire USA (a) is not responsible for the content of any third-party websites, (b) expressly disclaims any statements or assertions made on any third-party websites, and (c) denies all liability associated with your use of, and the content on, any third-party websites.</p>
-
-<h3>8. Minors and Children Under Age 13</h3>
-
-<p>We recommend that minors 13 years of age or older ask their parents for permission before sending any Personal Information to anyone over the Internet.</p>
-
-<p>We do not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register on the Site or send any Personal Information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any Personal Information to Inspire USA or on the Site. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information. If you believe that we might have any information from or about a child under 13, please contact us.</p>
-
-<h3>9. Access to information</h3>
-
-<p>Please contact us if you believe that the Personal Information that you have provided to us is not up-to-date, complete or accurate. You have the right to request the correction of any information which relates to you and is inaccurate. If you would like us to delete any Personal Information that you have disclosed only to us as part of registering or subscribing with the Site, please let us know and we will take reasonable steps to delete it unless we are required by law to keep it.<br>
-However, if you publicly disclose your Personal Information on the Site, (e.g., you include Personal Information in a comment to an article on the Site or in an User Submission), such information becomes public information. We may not be able to remove such publicly disclosed Personal Information. Please be aware of this before you choose to publicly disclose your Personal Information on the Site.</p>
-
-<p>If you have any questions, comments or concerns about our Privacy Policy, please send an email to <a href="mailto:policies@inspireusafoundation.org">policies@inspireusafoundation.org</a> or write us at:</p>
-
-<p><strong>Inspire USA Foundation</strong><br>
-657 Mission Street, #507<br>
-San Francisco, CA 94105</p>
-		
-
-		
-		
-		
-		
-				
-		
-				
-		
-			</div><!-- /subpageRgtIn -->
-
+		<div class="copyright">
+			© 2011 REACHOUT.COM, All rights reserved.
+		</div>
+	</div>
+	<script type="text/javascript"> Cufon.now(); </script>
 	
+	<!-- Google analytics script -->  
+	<script type="text/javascript">
 
-		<div class="clr"><!-- --></div>
-		<div class="padTop30"><!-- --></div>
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-10238193-1']);
+	  _gaq.push(['_trackPageview']);
 
-		</div><!-- /subpageRgt -->
-		<div class="clr"><!-- --></div>
-	
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
 
-
-</div><!-- /mainBody2 -->	 
-</div><!-- /mainBody -->
-</div><!-- /bodyContainer2 -->
-</div><!-- /bodyContainer1 -->
-</div><!-- /bodyWrapper2 -->
-</div><!-- /bodyWrapper -->
-
-<div id="btmWrapper">
-<div id="btmWrapper2">
-<div id="btmContainer">
-<div id="footer">
-	<div class="footNavBox">	 
-		<div class="subscribeBox">
-			
-		  </div><!-- /subscribeBox -->
-		  
-		  <div class="footNav">
-			<a href="/privacy-policy">Privacy Policy</a> | <a href="/terms-of-use">Terms of Use</a> | <a href="/terms-of-use#copyright">Copyright</a> | <a href="/about-us/support-reach-out">Support ReachOut</a>
-		  </div>
-		  <div class="clr"><!-- --></div>
-		  <a class="scroll" href="#Top"><div class="pageTop"></div></a>
-	</div><!-- /footnNavBox -->
-	 <div class="clr"><!-- --></div>
-
-	 <div class="copyRight">© 2011 REACHOUT.COM, All rights reserved. / <a href="http://www.btrax.com" target="_blank">web design by btrax</a></div>
-	 <div class="clr"><!-- --></div>
-	 <a href="http://www.inspireusafoundation.org" target="_blank"><div class="logoInspire">an initiative of</div></a>
-
-</div><!-- /footer -->
-</div><!-- /btmContainer -->
-</div><!-- /btmWrapper2 -->
-</div><!-- /btmWrapper -->
-
-	 <script type="text/javascript" src="/assets/js/jpeel.js"></script>
-		<div id="pageflip"><a href="https://www.surveymonkey.com/s/reachoutus" target="_blank"><img src="/assets/images/jpeel/page_flip.png" alt=""></a>
-		<div class="msg_block"></div>
-	 </div>
-	
-
-<link rel="image_src" href="/assets/images/ro_logo.jpg"> 
-
-<!-- for facebook -->
-<script type="text/javascript">
-var enqsiteid = '84c213769e6411df97e7d21eec3aa1ad';
-var enqdomain = 'reachout.com';
-var enqhost = (window.location.protocol == "https:")
-	 ? "https://logssl" : "http://log";
-document.writeln('<'+'script src="'+ enqhost
-	 +'.enquisite.com/log.js?id='+ enqsiteid
-	 +'" type="text/javascript"><'+'\/script>');
-</script><script src="https://logssl.enquisite.com/log.js?id=84c213769e6411df97e7d21eec3aa1ad" type="text/javascript"></script>
+	</script>
 
 
-<!-- Google analytics script -->  
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-10238193-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-
-<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
+</body></html>
