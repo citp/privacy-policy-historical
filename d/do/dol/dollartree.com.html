@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dollartree.com privacy policy that was archived on 2011-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110530002732id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dollartree.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102034136id_/http%3A//www.dollartree.com/custserv/custserv.jsp%3FpageName%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
         <title>Dollar Tree, Inc.: Privacy Policy for Dollar Tree Website</title>
@@ -17,9 +17,11 @@
         <script src="/js/product_variant.js" type="text/javascript"></script>
         <script src="/js/variant_dropdown.js" type="text/javascript"></script>
         <script src="/js/cbFormatter.js" type="text/javascript"></script>
+        <script src="/js/json2.js" language="JavaScript" type="text/javascript"></script>
         <script src="/js/jquery.js" language="JavaScript" type="text/javascript"></script>
         <script src="/js/jquery-widgets.js" language="JavaScript" type="text/javascript"></script>
         <script src="/js/jcarousellite101.js" language="JavaScript" type="text/javascript"></script>
+        <script src="/js/motionpoint.js" language="JavaScript" type="text/javascript"></script>
         <script src="/js/widget-qv-uc.jsp" language="JavaScript" type="text/javascript"></script>
         <script src="/js/utility_javascript.jsp" language="JavaScript" type="text/javascript"></script>
         <script type="text/javascript">AC_FL_RunContent = 0;</script>
@@ -37,9 +39,9 @@
 
         <!--[if lte IE 6]>
         <style type="text/css">
-            #cat-quickview-top { background: url(http://www.dollartree.com/assets/images/uc_qv/bac-quickview-top.gif) no-repeat; }
-            #cat-quickview-body { background: url( http://www.dollartree.com/assets/images/uc_qv/bac-quickview-body.gif ) top left repeat-y; }
-            #cat-quickview-bottom { height: 18px; background: url( http://www.dollartree.com/assets/images/uc_qv/bac-quickview-bottom.gif ) no-repeat; }
+            #cat-quickview-top { background: url(https://www.dollartree.com/assets/images/uc_qv/bac-quickview-top.gif) no-repeat; }
+            #cat-quickview-body { background: url( https://www.dollartree.com/assets/images/uc_qv/bac-quickview-body.gif ) top left repeat-y; }
+            #cat-quickview-bottom { height: 18px; background: url( https://www.dollartree.com/assets/images/uc_qv/bac-quickview-bottom.gif ) no-repeat; }
         </style>
         <![endif]-->
 
@@ -121,34 +123,42 @@ pageTracker._trackPageview();
 
 
 <script type="text/javascript">
-
-    $(document).ready( function() {
-        $("a.tnavLink").each(function() {
+    $(document).ready( function()
+    {
+        $("a.tnavLink").each(function()
+        {
             var passedHref = $(this).attr("href");
-                $(this).parent().click(function() {
+                $(this).parent().click(function()
+                {
                     location.href = passedHref;
                 });
         });
     });
 
-
+    
 </script>
 <div id="header_top">
 	
 	
-		<div id="headLogo"><a href="/home.jsp"><img id="headRollImg" src="http://www.dollartree.com/assets/images/body/dollar_tree.gif" alt="Dollartree.com Homepage"></a></div>
+		<div id="headLogo">
+            <a href="/home.jsp">
+                <img id="headRollImg" src="https://www.dollartree.com/assets/images/body/dollar_tree.gif" alt="Dollartree.com Homepage">
+            </a>
+        </div>
 	
     
     
         <div id="global_header">
             
-				&nbsp;
-			
+                &nbsp;
+            
 			
         </div>
     
 	<ul class="horiz" id="custserv">
-        <li class="first" style="font-size:1.3em; font-weight:bold;"><span class="blue">24/7 Customer Support:</span> <span class="grey">1-877-530-TREE (8733)</span></li>
+        <li class="first" style="font-size:1.3em; font-weight:bold;">
+            <span class="blue">24/7 Customer Order Support:</span> <span class="grey">1-877-530-TREE (8733)</span>
+        </li>
 	</ul>
     <ul class="horiz" id="links_row1">
 		<li class="first">
@@ -167,186 +177,199 @@ pageTracker._trackPageview();
 		<li><a style="color: red" href="http://www.dollartree.com/custserv/locate_store.cmd">Store Locator</a></li>
 	</ul>
 	<ul class="horiz" id="links_row2">
+	    <li id="espanol">
+            <a mporgnav="" href="http://espanol.dollartree.com" style="color: red" onclick="return switchLanguage('es'); function switchLanguage(lang)
+                {
+                    MP.SrcUrl = unescape('mp_js_orgin_url');
+                    MP.UrlLang = 'mp_js_current_lang';
+                    MP.init();
+                    MP.switchLanguage(MP.UrlLang == lang ? 'en' : lang);
+                    return false;
+                }">Español</a>
+	    </li>
         <li id="email_signup">
-                <a href="http://www.dollartree.com/user/subscribe.jsp">Email Sign-Up</a>
+            <a href="http://www.dollartree.com/user/subscribe.jsp">Email Sign-Up</a>
         </li>
-		<li id="shopping_cart"><a id="widget-but-ucart" href="/checkout/basket.jsp">Shopping Cart</a></li>
-	
-            
-		        <li id="shopping_cart_price">
-				
-				
+		<li id="shopping_cart">
+            <a id="widget-but-ucart" href="/checkout/basket.jsp">Shopping Cart</a>
+        </li>
+        
+            <li id="shopping_cart_price">
+                
+                
                 <a id="widget-but-ucartcount" href="/checkout/basket.jsp"></a>
-		        </li>
-			
+            </li>
+        
 	</ul>
 	<br class="clear">
 </div>
 <div id="header_mid">
 	
-	
+    
 	
 	
 	
 	
 	<table>
-	<tbody><tr>
-		<td class="Seasonal Category" style="cursor:pointer;width:108px;">
-			
-				<a href="/SummerFun/411/index.cat" class="christmascorner"><img src="/assets/images/btn/summer_fun_logo.jpg" alt="Summer Fun"></a>
-			
-			
-		</td>
-
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+	    <tbody><tr>
+            <td class="Seasonal Category" style="cursor:pointer;width:108px;">
+                
+                    <a href="/christmas-corner/319/index.cat" class="christmascorner">
+<img src="/assets/images/btn/Christmas_Corner.jpg" alt="Christmas Corner">
+</a>
+                
+                
+            </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/floral-decor/202/index.cat"><span>Floral Supplies &amp; Decor</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/party-supplies/207/index.cat"><span>Party Supplies</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/school-office-supplies/291/index.cat"><span>Office Supplies</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/teachers-supplies/208/index.cat"><span>Teacher's Corner</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/arts-crafts/209/index.cat"><span>Arts &amp; Crafts</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/toys-games-activities/210/index.cat"><span>Toys, Games &amp; Activities</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/health-personal-care/211/index.cat"><span>Health &amp; Personal Care</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/cleaning-storage-hardware/212/index.cat"><span>Cleaning, Storage &amp; Hardware</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/kitchen-tableware/213/index.cat"><span>Kitchen &amp; Tableware</span></a>
-			</td>
-		
-			
-			<td style="cursor: pointer; width: 84px;">
+                </td>
+            
+                
+                <td style="cursor: pointer; width: 84px;">
                     <a class="tnavLink" href="http://www.dollartree.com/new-arrivals-seasonal/215/index.cat"><span>New Arrivals &amp; Buyouts</span></a>
-			</td>
-		
-	</tr>
+                </td>
+            
+        </tr>
 	</tbody></table>
 </div>
 <div id="header_bot">
-
-         
-				<ul class="springFlingMessage">
-             <li class="springFlingArrow"> <a href="/new-arrivals-seasonal/Emergency-Preparedness-Supplies/Food-Drinks/emergency-supply-checklist/215c356c357e31/index.ens"><img src="/assets/images/header_nav/red_plus.gif" style="padding-top:2px;"></a></li>
-             <li class="springFlingTicker">&nbsp;<a href="/new-arrivals-seasonal/Emergency-Preparedness-Supplies/Food-Drinks/emergency-supply-checklist/215c356c357e31/index.ens" style="color: #cc3333;">Emergency &amp; Disaster Relief Supplies</a></li>
-
+    
+        <ul class="springFlingMessage">
+             <li class="springFlingTicker"><a href="/custserv/custserv.jsp?pageName=Non-Profit-Organization-Ideas" style="color: #0066cc;"><span style="font-weight:bold;">Building care packages? Find great ideas and affordable $1 supplies!</span></a>&nbsp;</li>
+             <li class="springFlingArrow"> <a href="/custserv/custserv.jsp?pageName=Non-Profit-Organization-Ideas"><img src="/assets/images/header_nav/summer_arrow.gif"></a></li>
          </ul>
-		
-		
-	<form action="http://www.dollartree.com/catalog/search.cmd" method="get" name="searchForm" onsubmit="return doSearchValidation(this);"><input type="hidden" name="form_state" value="searchForm">
+    
+    
+    <form action="http://www.dollartree.com/catalog/search.cmd" method="get" name="searchForm" onsubmit="return doSearchValidation(this);"><input type="hidden" name="form_state" value="searchForm">
 		
         
-            <input style="width:125px;" id="searchKey" onblur="doSearchBlur(this)" onfocus="doSearchFocus(this)" name="keyword" type="text" value="Keyword or item #" maxlength="70">
+            <input type="text" name="keyword" styleid="searchKey" value="Keyword or item #" onfocus="doSearchFocus(this)" onblur="doSearchBlur(this)" style="width:125px;" maxlength="70" mp_trans_searchkwd="value">
         
-		<input id="searchSubmit" type="image" src="http://www.dollartree.com/assets/images/btn/search_sm.gif" alt="Search">
+		<input id="searchSubmit" type="image" src="https://www.dollartree.com/assets/images/btn/search_sm.gif" alt="Search">
 		<br class="clear">
 	</form>
 	<br class="clear">
 </div>
-
 <script type="text/javascript">
-
     
 
-    createCookie('userKey', '1306717052');
+    
+        
 
+        createCookie('userKey', '1320207096', '.dollartree.com');
+    
+    
 
-
-
-
-   function doSearchFocus(component) {
+    function doSearchFocus(component)
+    {
 		var searchVal = component.value;
-		if (searchVal == "Keyword or item #") {
-			component.value = "";
-		}
-	}
-	function doSearchBlur(component) {
+		if(searchVal == "Keyword or item #") component.value = "";
+    }
+
+	function doSearchBlur(component)
+    {
 		var searchVal = component.value;
-		if (strTrim(searchVal) == '') {
-			component.value = "Keyword or item #";
-		}
-	}
-	function doSearchValidation (theForm) {
-		var searchVal = theForm.keyword.value ;
-		if (searchVal == "" || searchVal == "Keyword or item #") {
+		if(strTrim(searchVal) == '') component.value = "Keyword or item #";
+    }
+
+	function doSearchValidation(theForm)
+    {
+		var searchVal = theForm.keyword.value;
+		if(searchVal == "" || searchVal == "Keyword or item #")
+        {
 			alert ("Please enter a search term and try your search again") ;
 			return false ;
 		}
-		return true ;
+
+        return true ;
 	}
-	function strTrim(s) {
+
+    function strTrim(s)
+    {
 		// Remove leading spaces and carriage returns
-		while (s.substring(0,1) == ' ') {
-			s = s.substring(1, s.length);
-		}
+		while(s.substring(0,1) == ' ') s = s.substring(1, s.length);
 		// Remove trailing spaces and carriage returns
-		while (s.substring(s.length-1, s.length) == ' ') {
-			s = s.substring(0, s.length-1);
-		}
+		while(s.substring(s.length-1, s.length) == ' ') s = s.substring(0, s.length-1);
+
 		return s;
 	}
 
-
 	/* Header javascript */
-
-	$(function() {
-		if ($("body").attr("id") != "home") {
-			$("#headRollImg").mouseover(function() {
+    $(function()
+    {
+        if($("body").attr("id") != "home")
+        {
+			$("#headRollImg").mouseover(function()
+            {
 				var offImg = $("#headRollImg").attr("src");
 				var path = offImg.split(".gif");
 				var onImg = path[0] + "-over.gif";
-				$("#headRollImg").attr( {src:onImg} );
-				$("#headRollImg").mouseout(function() {
-					$("#headRollImg").attr( {src:offImg} );
+				$("#headRollImg").attr({src:onImg});
+				$("#headRollImg").mouseout(function()
+                {
+					$("#headRollImg").attr({src:offImg});
 				});
 			});
 		}
 	});
 
-	$(document).ready(function() {
-			$("#widget-but-ucart").click(function(e) {
-				e.preventDefault();
-				showBasket('show','');
-			});
-			$("#widget-but-ucartcount").click(function(e) {
-				e.preventDefault();
-				showBasket('show','');
-			});
+	$(document).ready(function()
+    {
+        $("#widget-but-ucart").click(function(e)
+        {
+            e.preventDefault();
+            showBasket('show','');
+        });
+
+        $("#widget-but-ucartcount").click(function(e)
+        {
+            e.preventDefault();
+            showBasket('show','');
+        });
 	});
-
 </script>
-
-
-
 
 
 
@@ -515,12 +538,16 @@ pageTracker._trackPageview();
     </div><!-- /sub_footer -->
         
 </div><!-- /sub_footer -->
+
+
+<!-- Vlassis Retargeting -->
+<script>document.write('<s'+'cript language="JavaScript" src="http://view.atdmt.com/jaction/pvmdlt_DollarTreeLandingPage_5"></s'+'cript>')</script><script language="JavaScript" src="http://view.atdmt.com/jaction/pvmdlt_DollarTreeLandingPage_5"></script><noscript><iframe src="http://view.atdmt.com/iaction/pvmdlt_DollarTreeLandingPage_5" width="1" height="1" frameborder="0" scrolling="No" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0"></iframe></noscript>
                 
             <!-- /sub_footer -->
             
                 
+                    <iframe src="https://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=2070" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"><!-- --></iframe>
                 
-                    <iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=2070" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"><!-- --></iframe>
                 
             
         
@@ -534,5 +561,6 @@ pageTracker._trackPageview();
             
         </script>
         <script src="/js/cmtaggingservices.js" type="text/javascript"></script>
+        <script type="text/javascript" id="mpelid" src="//espanol.dollartree.com/mpel/mpel.js"></script>
     
 </body></html>
