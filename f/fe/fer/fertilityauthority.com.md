@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228024133id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fertilityauthority.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013045id_/http%3A//www.fertilityauthority.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy -- Privacy-policy -- FertilityAuthority.com
-
-##  [Privacy Policy](https://web.archive.org/privacy-policy)
-
-Sep. 15, 2010 
+# Privacy Policy
 
 This Privacy Policy was last modified and is effective as of Monday October 26, 2008, and was last updated January 1, 2010.
 
@@ -61,7 +57,7 @@ We also reserve the right to make your Personal Information available:
 
 ## Opting Out
 
-If you register on or with our Website, you are agreeing and consenting to receive information and updates about your use of our Website or our Services for which you register. You may opt out of receiving any or all of these communications by sending an email to [unsubscribe@fertilityauthority.com](mailto:unsubscribe@fertilityauthority.com), by following the unsubscribe procedures on our Website or by following the unsubscribe instructions we will include in each email we send you. 
+If you register on or with our Website, you are agreeing and consenting to receive information and updates about your use of our Website or our Services for which you register. You may opt out of receiving any or all of these communications by sending an email to unsubscribe@fertilityauthority.com, by following the unsubscribe procedures on our Website or by following the unsubscribe instructions we will include in each email we send you. 
 
 ## Security
 
@@ -69,8 +65,8 @@ As you may appreciate, the Internet is a public network of networks and we canno
 
 ## Your Rights Regarding Your Personal Information
 
-We will provide you with a mechanism to allow and enable you to correct or update the Personal Information in our current records that we have obtained from you. You can always review and change your Personal Information by contacting us by email at [info@fertilityauthority.com](mailto:info@fertilityauthority.com). Certain Personal Information may not be changed without authentication (e.g., birth date) and you may be asked to provide additional information to allow us to confirm your identity in order to change those. If you ask us to remove your Personal Information, we still reserve the right to retain as much of your Personal Information and for so long as necessary to comply with our legal, regulatory, internal audit and record-keeping requirements. 
+We will provide you with a mechanism to allow and enable you to correct or update the Personal Information in our current records that we have obtained from you. You can always review and change your Personal Information by contacting us by email at info@fertilityauthority.com. Certain Personal Information may not be changed without authentication (e.g., birth date) and you may be asked to provide additional information to allow us to confirm your identity in order to change those. If you ask us to remove your Personal Information, we still reserve the right to retain as much of your Personal Information and for so long as necessary to comply with our legal, regulatory, internal audit and record-keeping requirements. 
 
 ## Contact Us
 
-For questions or concerns relating to privacy, we can be contacted at: [info@fertilityauthority.com](mailto:info@fertilityauthority.com)
+For questions or concerns relating to privacy, we can be contacted at: info@fertilityauthority.com
