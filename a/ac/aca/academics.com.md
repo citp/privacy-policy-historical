@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the academics.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225004702id_/http%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academics.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102024317id_/http%3A//www.academics.com/science/privacy_policy_30406.html) for the most accurate reproduction.*
 
-# academics.com -
+# - academics.com
 
 academics GmbH operates it's website academics.com with the utmost care, whereby the site's excellent user friendliness, up-to-date contents, reliability and high availability should offer an optimal user experience. Despite this, the web server and database server may not be 100% available. academics GmbH shall neither assume any liability for this nor for the possible failure of individual components of the online content on academics.com. academics.com grants the revocable permission to establish a hyperlink to the homepage or individual website pages of the online content providing the following conditions are fulfilled: 
 
