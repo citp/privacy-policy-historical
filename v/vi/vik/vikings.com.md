@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726111508id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vikings.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102044322id_/http%3A//www.vikings.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Minnesota Vikings | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This privacy policy applies to the Minnesota Vikings' website located at [www.vikings.com](http://www.vikings.com/) and [www.minnesotavikings.com](http://www.minnesotavikings.com/) (the "Website"). The purpose of this privacy policy is to disclose to you what information we may collect, how we may collect it, with whom we may share it, and certain other matters related to such information, including the choices you have regarding our collection of information and our use and disclosure to other parties of information we may have collected from you. 
 
-The Website is operated by the Minnesota Vikings. 
+The Website is operated by the Minnesota Vikings Football, LLC. 
 
 The Minnesota Vikings is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [www.vikings.com](http://www.vikings.com/) and [www.minnesotavikings.com](http://www.minnesotavikings.com/) . Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
