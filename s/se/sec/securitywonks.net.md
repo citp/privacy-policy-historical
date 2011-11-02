@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the securitywonks.net privacy policy that was archived on 2010-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101231014528id_/http%3A//www.securitywonks.net/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securitywonks.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102161938id_/http%3A//www.securitywonks.net/privacy_policy.php) for the most accurate reproduction.*
 
 # SecurityWonks.net - Privacy Policy
+
+ 
+
+#### SecurityWonks.net >>Privacy Policy
 
 Introduction
 
@@ -38,6 +42,13 @@ You will not receive any promotional messages from us unless you opted to reciev
 
 Note: Newsletter feature is in the works, we will give all standard opting out options (about recieving promotional materials), while we require you to accept this website related updates and announcements newsletter periodically, which helps you to utilise and enhance your user experience on the website.
 
+Advertising Information
+
+We were working with some advertising agencies like Google Adsense, CommissionJunction, Kontera and Product Companies like Reimage when showing non-intrusive plain leaderboard, skyscraper and square adverts and text link based adverts. They use cookies to track anonymous statistics as part of ad delivery and their privacy practices will be based on their individual privacy policies which follows:
+
+  
+
+
 Updates And Corrections
 
 You can update your site account password with us, yourself, by logging into site, likewise, software publishers can update their software listings themselves anytime, last but not least, you can change different information in forums (that get displayed in forum profile).
@@ -48,4 +59,4 @@ Privacy Policy Changes
 
 If there were any major update in our information practices, we will update that here and you can see the updates online soon after the updates are placed online in the website.
 
-_This privacy policy was previously updated on 26 November 2007 and has last been updated on 28 January 2010._
+_This privacy policy was initially updated on 26 November 2007 and later had updates on 28 January 2010 and recent update on 14 Jan 2010._
