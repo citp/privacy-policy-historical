@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217085613id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cataloguecentral.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102064014id_/http%3A//www.cataloguecentral.com.au/Pages/Privacy) for the most accurate reproduction.*
 
-# Privacy : Catalogue Central
+# Catalogue Central's Privacy Policy
 
-##  Our Policy
+[](https://web.archive.org/)
+
+## Our Policy
 
 The privacy of your personal information is important to us at Catalogue Central. We use safeguards to protect your privacy and confidentiality. As part of the service to our customers, we adhere to the National Privacy Principles described under the Privacy Act 1988. However, our Privacy Policy does not extend to advertisers and parties that may be linked or associated with Catalogue Central. You may contact the associated parties directly should you wish to view their Privacy Policy. We reserve the right, at any time, to add, change, update or modify our privacy policy simply by posting such change, update or modification on the website. Any such change, update or modification will be effective immediately upon posting on the website.
 
-##  Your security
+## Your security
 
 We maintain physical, electronic and procedural safeguards that protect your personal information. Only authorised Catalogue Central staff have access to your personal information. Information is only accessible when required in the normal course of business from Catalogue Central.
 
-##  Collection of Member/Visitor Information
+## Collection of Member/Visitor Information
 
 If you do nothing during your visit but browse through the website and read the information contained on the web pages, we may gather certain information about your visit automatically. This information does not identify you personally. We may automatically gather the Internet domain, IP address from which you access Catalogue Central and the date and time you access our website and the pages you visit.
 
@@ -20,4 +22,4 @@ If you send an email message that includes personally identifiable information, 
 
 We may use "cookies" to improve our service to you. Cookies may help us recall a previous visit. The cookies we use do not collect personally identifiable information, and we do not use them to determine your identity.
 
-If you have any questions about our privacy policy, you may contact our webmaster via our [feedback form](https://web.archive.org/pages/FeedBack)
+If you have any questions about our privacy policy, you may contact our webmaster via our feedback form.
