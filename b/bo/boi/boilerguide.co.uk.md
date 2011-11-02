@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530141458id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boilerguide.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011653id_/http%3A//www.boilerguide.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -12,7 +12,7 @@ This Policy does not apply to other websites linked through this website. Person
 
 We will obtain personal data about you (such as your name, address, payment details, opinions etc.) whenever you complete an online form. 
 
-For example, we will obtain your personal data when you register to use this website, send us feedback, contact us for any reason, sign up to a service, enter a competition, purchase goods or services. We may also obtain sensitive personal data about you if you volunteer it during the completion of an online form. If you volunteer such information you will be consenting to our processing it for the purposes specified. If no such purposes are specified please contact us immediately and we will be happy to specify these for your information. 
+For example, we will obtain your personal data when you register to use this website, send us feedback, contact us for any reason, sign up to a service, request a quotation, enter a competition, purchase goods or services. We may also obtain sensitive personal data about you if you volunteer it during the completion of an online form. If you volunteer such information you will be consenting to our processing it for the purposes specified. If no such purposes are specified please contact us immediately and we will be happy to specify these for your information. 
 
 We will also collect personal information that you provide us through the use of the “Get Quote” feature. This personally identifiable data is passed on to third parties that meet the criteria you have chosen, for example, if you request a quote for a new central heating system we will pass your personal details on to all suppliers signed up to our service who can fulfil your request. 
 
@@ -74,6 +74,9 @@ We may also obtain information about your online movements and use of the intern
   3. To store your personal preferences.
   4. To build a profile about you.
   5. To better understand the relevant marketing and advertising opportunities relevant to you.
+  6. Third party vendors, including Google, show our ads on sites on the internet.
+  7. Third party vendors, including Google, use cookies to serve ads based on your previous visits to this website or another website owned by the Company.
+  8. Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page](http://www.google.com/privacy/ads/) or via the the [Network Advertising Initiative opt out page](http://www.networkadvertising.org/managing/opt_out.asp) for third party vendors.
 
 
 
@@ -100,7 +103,7 @@ You have the right to require us to correct any inaccuracies in your data free o
 
 You also have the right to ask us to stop processing your personal data for direct marketing purposes. If you wish to exercise this right you should:- 
 
-  1. Put your request in writing (an e-mail sent to info@boilerguide.co.uk with a header that says “unsubscribe” is acceptable)
+  1. Put your request in writing via the [contact form](https://web.archive.org/web/20111102011653id_/http%3A//www.boilerguide.co.uk/contact)
   2. Provide us with enough information to identify you (e.g. account number, user name, registration details).
   3. If your objection is not to direct marketing in general, but to direct marketing by a particular channel (e.g. e-mail or telephone) please specify the channel you are objecting to.
 
@@ -108,6 +111,6 @@ You also have the right to ask us to stop processing your personal data for dire
 
 ## Our contact details
 
-We welcome your feedback and questions. If you wish to contact us, please send an e-mail to info@boilerguide.co.uk or you can write to us at Boiler Guide, C/o Holmes Media (UK) Limited, 6b Nursery Court, Kibworth Business Park, Leicester, LE8 0EX, or you may call us on 0845 299 7050. Registered in England No. 6873930 Vat No. 904 1556 46. 
+We welcome your feedback and questions. If you wish to contact us, please do so via the [contact form](https://web.archive.org/web/20111102011653id_/http%3A//www.boilerguide.co.uk/contact) or you can write to us at Boiler Guide, C/o Holmes Media (UK) Limited, 6b Nursery Court, Kibworth Business Park, Leicester, LE8 0EX, or you may call us on 0845 508 2746. Registered in England No. 6873930 Vat No. 904 1556 46. 
 
 We may change this privacy policy from time to time. You should check this policy occasionally to ensure you’re aware of the most recent version which will apply each time you access this website. 
