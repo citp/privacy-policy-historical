@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501141040id_/https%3A//www.wachovia.com/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wachovia.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102234431id_/https%3A//www.wachovia.com/privacyandsecurity) for the most accurate reproduction.*
 
 # Wachovia Security Plus(SM) Customer Center - Privacy and Security Practices
 
@@ -14,7 +14,7 @@
 
 
 
-[Privacy Statement](https://web.archive.org/vgn-ext-templating/v/index.jsp?vgnextoid=4fa3a42ff5105210VgnVCM200000627d6fa2RCRD&appInstanceName=default) **_  
+[Privacy Statement](https://web.archive.org/common_files/Privacy_Statement.pdf) **_  
 _** The Privacy Policy for Wells Fargo and Wachovia Companies describes how we use and protect customer information. You have choices about how we share your information within Wells Fargo and Wachovia and how we contact you for marketing purposes. 
 
 [Security Statement](https://web.archive.org/vgn-ext-templating/v/index.jsp?vgnextoid=298de513d0305210VgnVCM200000627d6fa2RCRD&appInstanceName=default) ** _  
