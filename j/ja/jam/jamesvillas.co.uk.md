@@ -1,17 +1,86 @@
-> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607033519id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102135221id_/http%3A//www.jamesvillas.co.uk/privacypolicy.cfm) for the most accurate reproduction.*
 
 # James Villa Holidays Privacy Policy
 
-## Privacy Policy
+**1\. Who is responsible for managing my information?**
 
-James Villa holidays does not collect personal information unless you volunteer it. 
+This is the Privacy Policy of James Villa Holidays Ltd ("we" or "us"). This website, the “James Villas” brand and all brochures produced in relation to it are owned and/or produced by us.   
 
-The company requires that consumers supply certain personal information, such as telephone numbers and addresses, during the purchase process. This is standard procedure whether a booking is made on-line or via telephone. James Villa Holidays can also collect additional personal information from subscribers in an optional e-mail subscription form. Information provided by our suppliers may be combined with site usage reports to profile, in aggregate form, users and their preferences in site content and advertising. 
 
-The company employs cookies to measure site usage and related information. If you are making a purchase we may also use cookies to keep track of the transaction from one page to the next. 
+We are responsible for the collection and proper management of any personal information you submit. We will keep your personal details secure and use the information you provide consistently with applicable privacy and data protection laws and the terms of this Privacy Policy. 
 
-We use third-party advertising companies such as search engines and banner ads. These companies may use information (not including your name, address email address or telephone number) about your visits to this site in order to measure our advertising effectiveness. 
+**2\. What information do we collect?  
+** If you choose to make a booking through us we will collect details that you provide in relation to that booking. Information held is likely to include your name, date of birth, contact details, payment details, information about people travelling with you, information about your booking and any additional information we may need to help meet your specific travel requirements. If you choose to let your holiday accommodation with us we will collect details such as your name, contact details, bank account details and details regarding the accommodation you wish to let. We also collect website usage information. We do this using cookies (see section 9 below). 
 
-We may also collect information about your visit to our website, based on your usage of our site. This may include the areas of the site you visit and searches and bookings made. This helps us to provide better offers to you and products and services more suited to your individual interests and needs. 
+**3\. How do we use your information?**   
+The information you provide may be used in a number of ways, for example: 
 
-We may also retain details provided to us by you in order for your information to be processed efficiently, enable your requests for bookings and to keep you informed of any relevant information relating to your booking and to analyse and understand better our customers' requirements. If you believe that we are storing details relating to you and that these are incorrect, please email us at **[webenquiry@jamesvillas.co.uk](mailto:webenquiry@jamesvillas.co.uk)** and we will correct them as soon as possible. This information is stored in a central database, controlled by our administrative staff and will be accessible electronically. Security measures are in place to ensure that our customers' data is not accessible by any unauthorised persons. However, persons such as IT systems suppliers may need to have access to the system from time to time. We may use the information you provide to tell you about other offers from James Villa Holidays Limited. 
+• to enable us to complete your booking (if you are booking a holiday);   
+• to enable us to advertise your holiday accommodation, transfer payments due to you and to provide related support services (if you are letting your holiday accommodation through us);   
+• for statistical purposes when we evaluate our range of services;   
+• to personalise repeat visits to our websites;   
+• to tell you about other products and services we think may be of interest to you (see section 6 below);   
+• to manage customer service queries; and   
+• to help us to provide details or information you may have requested. 
+
+**4\. Who will you share my information with?**   
+In order to provide you with the products and services that we offer we may share your information with: 
+
+• other members of our group of companies and their service providers (see also section 5);   
+• owners of holiday cottages, holiday parks and boatyards (if you are making a holiday accommodation booking );   
+• individuals who may be renting accommodation from you (if you are a holiday accommodation owner);   
+• credit/debit card companies;   
+• our preferred insurance provider(s) (if you purchase the personal travel insurance policy we offer); and   
+• other third parties who we may need to work with to fulfil travel plans on your behalf, for example, resorts, holiday parks, management companies, owner's associations, airlines, ferry companies, cruise companies and other suppliers. 
+
+If you agree, we may also pass on your information for the purposes of conducting a credit check. 
+
+We may also pass on your information to our group of companies and selected third parties so that they may offer you their products and services. 
+
+**5\. How do you manage my information?  
+** We may from time to time appoint other members of our group of companies, or third party service providers, to help us manage efficient systems within the business. Some of these systems may for operational reasons be located in countries overseas. We will only transfer your information to service providers who help manage our systems, or overseas, where we are satisfied that adequate levels of protection are in place to protect the integrity and security of any information being processed and compliance with applicable privacy laws. 
+
+**6\. When can we contact you in the future?**   
+We would like to send you information about our own products and services, as well as those of selected third parties. We may do this by post, telephone, email or SMS, unless you have told us that you do not wish to be contacted in this way. We will always ask you to confirm in advance that you are happy for us to allow third parties to contact you by email. 
+
+If you would like to change any of your preferences relating to the way in which we may use your information for direct marketing, then please send an email to us at [webenquiry@jamesvillas.co.uk](mailto:webenquiry@jamesvillas.co.uk) or call us on 0800 074 0122.
+
+**7\. How long will we hold your information for?**   
+We have a system of retention periods in place to ensure that your information is only stored whilst it is required for the relevant purposes or to meet legal requirements. Where your information is no longer required, we will ensure it is disposed of in a secure manner. 
+
+**8\. "Tell a friend" programme**   
+We may from time to time ask you if you would like to tell us about a friend or family member whom you think may be interested in our products and services. In this case, we will ask you for your friend's name and contact details. We will then send your friend a one-time communication to see whether our products and services may be of interest to them. We do not access or store their details other than to send this initial communication. 
+
+**9\. What are cookies?**   
+Cookies are text files placed on your computer to collect standard internet log information and visitor behaviour information. This information is used to track visitor use of the website and to compile statistical reports on website activity. You can set your browser not to accept cookies but if you do this not all features of our website may function effectively. For further information on cookies and how to disable your browser visit [www.aboutcookies.org](http://www.aboutcookies.org/)
+
+**10\. How can you access and update your information?**   
+You have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, please email or write to us at the address below. Please note that we may charge a small administrative fee for the provision of this information. 
+
+James Villa Holidays   
+20/20 Business Park   
+St Leonards Road   
+Maidstone   
+Kent   
+ME16 0LS 
+
+We want to make sure that your personal information is accurate and up to date. You may ask us to correct or remove information you think is inaccurate. 
+
+**11\. Does the policy apply to linked websites?  
+** Our websites may contain links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies. 
+
+**12\. When do you monitor telephone calls?**   
+We may from time to time record telephone calls you have with members or our staff for training purposes and to improve the quality of our service. 
+
+**13\. How do we update this privacy policy?  
+** We keep our privacy policy under regular review and we will place any updates on our webpage. This privacy policy was last updated in May 2011. 
+
+**14\. Who can I contact if I have queries about this privacy policy?**   
+Please contact us if you have any questions about our privacy policy or information we hold about you.
+
+James Villa Holidays   
+20/20 Business Park   
+St Leonards Road   
+Maidstone   
+Kent   
+ME16 0LS
