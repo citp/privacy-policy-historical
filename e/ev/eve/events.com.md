@@ -1,147 +1,174 @@
-> *The following text is extracted and transformed from the events.com privacy policy that was archived on 2006-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060629025831id_/http%3A//www.cnetnetworks.com/editorial/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the events.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012342id_/http%3A//events.com.37636.fb.dbbsrv.com/common/advertise/privacy.htm) for the most accurate reproduction.*
 
-# CNET Networks | Editorial | Privacy Policy.html?
+# Privacy Policy
 
-| 
+### DARK BLUE SEA - PRIVACY POLICY
 
-CNET Networks, Inc. is a worldwide media company and creator of content environments for the interactive age. CNET Networks takes pride in being "a different kind of media company," creating richer, deeper interactive experiences by combining the wisdom and the passion of users, marketers, and its own expert editors. CNET Networks' leading brands—such as CNET, GameSpot, MP3.com, Webshots, and ZDNet—focus on the personal technology, entertainment, and business technology categories. The company has a strong presence in the USA, Asia, and Europe.
+This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
 
-This privacy policy applies to the U.S. operations of all brands and services within the CNET Networks family.
+The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
 
-**Overall privacy statement**  
-We take your privacy seriously. Because we gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy, which is operated directly by us, by our partner, or by our affiliate.
+The Dark Blue Sea group comprises a number of companies that includes:
 
-**1\. What information does CNET Networks collect?**  
-Our primary goal in collecting personal information is to provide you with the best and most useful content and services. Several of the services and features that we offer on our sites require you to provide us with information as a condition of usage. These include access to subscription-only areas, the ability to post opinions or other content, participation in sweepstakes or contests, subscriptions to print magazines and email newsletters and participation in message boards.
-
-We collect personally identifiable information, such as your name, email address, postal address, phone number and credit card information when you provide it to us. From time to time, we may also collect other sensitive information such as your job title, gender, username and password. We may also receive information about you from other sources and add it to the information you provided to us.
-
-Once you register with one of our CNET Networks sites you are no longer anonymous to us.
-
-**2\. What is CNET Networks' practice regarding cookies?**  
-Your Internet browser has a feature called cookies, which stores small amounts of data on your computer about your visit to any of our sites. You do not need to have cookies turned on to visit most of our sites, although active participation in certain areas of our sites may require cookies. Cookies alone tell us nothing about who you are unless you specifically give us personally identifiable information, in which case we use the information to enhance your services in the ways described below. By adjusting your settings on your browser, you may elect not to allow cookies to be collected.
-
-We also use technologies, including electronic images known as _Web bugs_ —sometimes called _transparent GIFs, clear GIFs_ , or _beacons_ —that allow us to track general user-traffic patterns. We also automatically receive and record information from our servers and from your browser, including your IP address, the time of your visit to pages on our site, and information about pages you visited. Unless you have registered for one of our products or services, the information we gather through the use of tracking technologies cannot be matched with any personally identifiable information about you.
-
-We use cookies and tracking technologies in a variety of ways, including: 
-
-  1. Keeping count of return visits to our site or our advertisers' or partners' sites;
-  2. Accumulating and reporting anonymous, aggregate (data collected in mass), statistical information on Web-site and advertisement usage;
-  3. Determining which features our overall user population likes best;
-  4. Saving your password so you don't have to re-enter it each time you visit our sites;
-  5. Displaying the most appropriate advertising or content based on your interests.
+  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
+  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
+  * Fabulous Parking Pty Ltd ABN 16 094 225 091
+  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
+  * Roar.com Pty Ltd ABN 99 094 225 064
+  * Pageseeker.com Pty Ltd ABN 45 090 513 849
+  * Darkblue.com Pty Ltd ABN 14 094 225 082
+  * Yexa.com Pty Ltd ABN 12 094 225 073
+  * Domain8 Pty Ltd ABN 79 135 424 878
+  * Yexa.com.au Pty Ltd ABN 84 137 606 172
+  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
 
 
 
-We allow other companies that are presenting advertisements on our sites and, sometimes, in our newsletters to use tracking technology on your computer. We do not give any personally identifiable information to them as part of this relationship. Unless you visit the Web site of these companies and provide them with personally identifiable information about yourself, these tracking technologies tell those advertisers nothing about who you are. Our advertisers' use of tracking technology is subject to their own privacy policies.
+#### ABOUT THIS PRIVACY POLICY
 
-**3\. How does CNET Networks use the information?**  
-We use the information we gather for four general purposes: 
+This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
 
-  1. To customize the advertising and the content you see;
-  2. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you;
-  3. To fulfill your requests for certain products and services, such as sending out electronic newsletters and enabling you to participate in paid services, polls, contests, and message boards;
-  4. To send you information you agreed to receive about topics we think will be of interest to you.
+#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+
+Personal information is any information that identifies you or by which your identity can be reasonably determined.
+
+The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+
+Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
+
+Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
+
+#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+
+We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+
+In order to do this, we share your personal information with our related companies.
+
+Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+
+#### HOW WE COLLECT INFORMATION
+
+**Personal Information provided to us**
+
+We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+
+We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+
+**Website activity, cookies and related technology**
+
+We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
+We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
+We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+
+Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+
+Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
+The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
+We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+
+**IP Addresses**
+
+When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+
+We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+
+We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+
+We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+
+Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+
+#### WHEN WE DISCLOSE PERSONAL INFORMATION
+
+We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+
+We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+
+Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+
+In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+
+When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+
+#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+
+We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+
+#### EPP SHARING ARRANGEMENTS
+
+Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+
+#### PROTECTING KIDS PRIVACY
+
+We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+
+**Notice to Kids**
+
+If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+
+You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+
+No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+
+**Notice to Parents**
+
+Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
+
+However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
+
+Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
+
+Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
+
+No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
+
+We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
+
+#### LINKS TO OTHER WEBSITES
+
+You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
+
+In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
+
+Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
+
+You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
+
+#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
+
+You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
+
+We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
+
+#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
+
+It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
+
+If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
+
+#### PRIVACY COMPLAINTS
+
+If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
+
+  * Emailing: privacy@darkbluesea.com
+  * Telephoning: +61 7 3007 0070
+  * Faxing: +61 7 3007 0001
+  * Writing to us at:  
+PO Box 757  
+Fortitude Valley QLD 4006
 
 
 
-**4\. How does CNET Networks share the information?**  
-**_Personally identifiable information_**  
-We will make your personally identifiable information available to other companies or people when: 
+If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
 
-  1. You have elected to allow us to share that information at the time that you registered with us or provided us the information, or through a subsequent affirmative election through our website.
-  2. You volunteer information or create a public profile in the course of your participation in our community features such as forums, user opinions and reviews, chat rooms, photo sharing or other forms of public communication and interaction.
-  3. You use cobranded services (i.e., sites or services that we offer to you in connection with a partner, who is identified on the site). When you use a cobranded service within our network of sites, you grant us permission to pass your registration information back to that service partner. Their use of your information is subject to their applicable privacy policies.
-  4. We hire third-party vendors to provide specialized services such as customer support; email message deployment; suppression, merge and de-duplication services; data processing; and special products or services that you have requested. These companies are only allowed to use the information in order to help us fulfill our services to you. We do not provide your information to these companies for their own, permanent use.
-  5. You unsubscribe for a mailing that we send to you on behalf of a third party. We may share your removal instruction with the third party so that it may be added to that person’s list of people to whom they may not send emails.
-  6. You are the winner of a contest or a sweepstakes that is co-sponsored with a third party and that third party needs your information in order to manage the prize fulfillment process.
-  7. When required by law, such as when we respond to subpoenas, court orders, or legal process.
-  8. We believe that your actions violate applicable laws, CNET Networks' [Terms of Use](https://web.archive.org/editorial/terms.html), or any usage guidelines for specific products or services, or threaten the rights, property, or safety of our company, our users, or others.
+  * Telephoning: +61 1300 363 992
+  * Writing to:  
+Privacy Commissioner  
+GPO Box 5218  
+Sydney NSW 2001
 
 
 
-**_Aggregate information_**  
-We aggregate personally identifiable information and disclose such information in a non-personally identifiable manner to advertisers and other third parties for marketing, promotional, and other purposes. We do not disclose to these entities any information that could be used to identify you personally.
+#### YOUR ACCEPTANCE OF THESE TERMS
 
-**_ChannelOnline data_**  
-Companies that use our ChannelOnline services may enter account data for third-party services. This information is necessarily passed on to those third parties when their ordering system is accessed. ChannelOnline users may also enter data about their customer orders. This information is shared only in aggregate form with third parties.
-
-**_Business transfers_**  
-We are always seeking to improve our network of Web sites and our business. In accomplishing these objectives, we may buy or sell a company, or one or more of the companies in our corporate family may merge with or be acquired by another company. If we sell a business, we may transfer some or all of your information as a part of the sale in order that the service being provided to you may continue or for other business purposes.
-
-**5\. What are my options?**  
-Users who would rather not provide any of the user data requested by our registration process do not need to register with us. You can still view much of the content and use many of the services offered by our sites without registering.  
-We also give users the following options: 
-
-  1. Opting not to receive our electronic newsletters or those of third parties when registering. Users who opt in may remove themselves from mailing lists at any time through the subscription-management pages or by following the instructions at the end of the e-mail they received from us;
-  2. Opting not to provide certain personal information when registering for a site, provided, however, that you may not be able to use some of our products or services without providing us with certain information.
-
-
-
-**6\. How can I review and update my personally identifiable information?**  
-You can review, correct, or change the information collected during registration for any of our sites. The instructions for doing this can be found in our member-services areas. Users may change information at any time and as often as necessary. Users who are experiencing problems with our services or who have questions about how our services work can contact us using e-mail addresses at the bottom of this page.
-
-**BNET**  
-Free services registration [http://www.bnet.com](http://www.bnet.com/)  
-E-mail newsletters <http://nl.com.com/acct_login.jsp?brand=bnet>
-
-**CNET**  
-Account management: <http://reviews.cnet.com/1340-7600-64.html>   
-E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>  
-Registration management [e-mail request]: [mailto:privacy@cnet.com](mailto:privacy@cnet.com)  
-Download.com users: <http://download.com.com/1320-20-3.html>  
-Download.com listings: <http://upload.com.com/>  
-Download.com newsletters: <http://nl.download.com/login.sc?brand=download>  
-CNET Advantage: <http://cma.zdnet.com/texis/cnet/showlogin.html>  
-Internet Services listings: <http://webservices.cnet.com/html/postprocess/contactformIAc.asp>  
-ChannelOnline: <http://channelonline.com/us/>  
-CNET News.com Account Management: <http://news.com.com/1340-52-34.html>  
-CNET News.com newsletters: [http://nl.com.com/acct_mgmt.sc?brand=news](http://nl.com.com/acct_mgmt.sc?brand=new)
-
-**GameSpot**  
-Account management: <http://www.gamespot.com/gamespot/misc/reg/manage.html>  
-E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=gamespot>  
-Registration management: <http://www.gamespot.com/gamespot/misc/reg/manage.html>  
-GameSpot Complete: <http://www.gamespot.com/gamespot/misc/complete/signup.html>  
-GameSpot Basic: <http://www.gamespot.com/gamespot/misc/basic/signup.html>
-
-**MP3.com**  
-Email Newsletters: <http://nl.com.com/acct_login.jsp?brand=mp3>  
-Free membership sign-up and services: <http://www.mp3.com/signup/>
-
-**mySimon**  
-Account management: <http://www.mysimon.com/1340-7600-73.html>  
-E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=mysimon>
-
-**Release 1.0**  
-Contact Us: <http://www.release1-0.com/general/contactus.cfm>
-
-**CNET Shopper.com**  
-E-mail newsletters: <http://nl.com.com/acct_mgmt.sc?brand=cnet-ssa>
-
-**TechRepublic**  
-Account management: <http://techrepublic.com.com/1341-22-20.html>  
-E-mail newsletters: <http://www.techrepublic.com/techmail_promo.jhtml>  
-Registration management: <http://www.techrepublic.com/login.jhtml?gotoURL=%2Findex.jhtml>
-
-**Webshots**  
-Premium Membership: <http://www.webshots.com/MyAccount/MyAccount.fcgi>
-
-**ZDNet**  
-Account management: <http://zdnet.com.com/1340-10-7.html>  
-E-mail newsletters: <http://nl.com.com/acct_login.jsp?brand=zdnet>  
-ZDNet Downloads users: <http://downloads-zdnet.com.com/1320-20-4.html>  
-Registration management: <http://www.zdnet.com/members/>  
-BizTech Library: <https://cma.zdnet.com/texis/techinfobase/techinfobase/signon.html>  
-ITPapers users: <http://www.itpapers.com/>
-
- **7\. How will I know if the privacy policy is changed?**  
-Any modifications to our privacy practices will be reflected first within this area of our network of Web sites. If there is a material change in our privacy practices, we will indicate on our sites that our privacy practices have changed and provide a link to the new privacy statement. If we are going to be using the information collected from users in a manner materially different from that stated at the time of collection, we will send affected users written notice of the change by e-mail.
-
-**8\. Privacy of children**  
-None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the Children's Online Privacy Protection Act and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
-
-**Questions, Comments**  
-Questions regarding this privacy statement or any other aspects of our network of Web sites should be sent to our corporate offices at 235 Second Street, San Francisco, CA 94105, Attention: Legal Department. We read every message submitted and try to reply promptly to every one. We may also file your comments to improve the site, or review and discard the information.
-
-Effective date: September 10, 2005
+By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
