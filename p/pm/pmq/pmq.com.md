@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2011-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110407231856id_/http%3A//pmq.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmq.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012537id_/http%3A//pmq.com/privacy.php) for the most accurate reproduction.*
 
 # PMQ Pizza Magazine - The #1 Pizza Trade Magazine and Official Website of the Pizza Industry - by PMQ Pizza Magazine
 
