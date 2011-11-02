@@ -1,490 +1,740 @@
-<!--The following is the downloaded HTML source of the bigmachines.com privacy policy that was archived on 2007-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070406040051id_/http%3A//www.bigmachines.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bigmachines.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102025312id_/http%3A//www.bigmachines.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Privacy</title>
+<link href="styles.css" rel="stylesheet" type="text/css">
+<link href="fonts.css" rel="stylesheet" type="text/css">
+<link href="reset.css" rel="stylesheet" type="text/css">
+<link href="scroller.css" rel="stylesheet" type="text/css" media="screen">
+<link href="layout.css" rel="stylesheet" type="text/css">
+  <!--[if lt IE 8]>
+		<link href="ie7.css" rel="stylesheet" type="text/css">
+	<![endif]-->
+<script type="text/javascript" src="js/jquery-1.5.2.min.js"></script>
+<script type="text/javascript" src="js/jquery.hoverIntent.minified.js"></script>
+<script type="text/javascript" src="js/menus.js"></script>
 
-<title>Privacy Policy</title>
-
-	<meta name="description" content="BigMachines Lean Front-EndSM (LFE) provides online configuration, pricing, quoting, proposal and ordering software.  The LFE provides an integrated, global selling platform across your products and channels.  BigMachines provides innovative software and services to manufacturers  helping them to increase profits by streamlining selling and customer service processes.">
-	<meta name="keywords" content="BigMachines, product configurator, proposal Software, guided Selling, web based configurator, product configurators, product configuration system, concept product configurator, Lean Front-End, Pump Software, Valve Software ">
-	<meta name="TITLE" content="Product Configurator, Proposal &amp; Quote Software BigMachines Lean Front-End ">
-	<meta name="DOCUMENTLANGUAGECODE" content="en">
-	<meta name="DOCUMENTCOUNTRYCODE" content="us">
-	<meta name="COPYRIGHT" content="Copyright (c) 2005-06 BigMachines, Inc.">
-	<meta name="AUTHOR" content="www.bigmachines.com">
-	<meta name="OWNER" type="email" value="www.bigmachines.com">
-	<meta name="SECURITY" content="Public">
-	<meta name="ROBOTS" content="index,follow">
-	
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-<style type="text/css">
-<!--
-@import url(/sitewide.css);
-body,td,th {
-	font-family: Arial, Helvetica, sans-serif;
-}
-body {
-	background-color: #FFFFFF;
-	margin-left: 0px;
-	margin-top: 0px;
-	margin-right: 0px;
-	margin-bottom: 0px;
-}
--->
-</style>
-<script language="JavaScript" src="/script/globalConfig.js"></script>
-<script language="JavaScript1.2" src="/script/base_functions.js"></script>
-<script language="JavaScript1.2" src="/script/cookies.js"></script>
-
-<script language="JavaScript" type="text/JavaScript">
-// Check that the number of characters in a string is between a max and a min
-function isValidLength(string, min, max) {
-	if (string.length < min || string.length > max) return false;
-	else return true;
-}
-
-// Remove characters that might cause security problems from a string 
-function removeBadCharacters(string) {
-	if (string.replace) {
-		string.replace(/[<>\"\'%;\)\(&\+]/, '');
-	}
-	return string;
-}
-
-// Remove all spaces from a string
-function removeSpaces(string) {
-	var newString = '';
-	for (var i = 0; i < string.length; i++) {
-		if (string.charAt(i) != ' ') newString += string.charAt(i);
-	}
-	return newString;
-}
-
-// Remove leading and trailing whitespace from a string
-function trimWhitespace(string) {
-	var newString  = '';
-	var substring  = '';
-	beginningFound = false;
-	
-	// copy characters over to a new string
-	// retain whitespace characters if they are between other characters
-	for (var i = 0; i < string.length; i++) {
-		
-		// copy non-whitespace characters
-		if (string.charAt(i) != ' ' && string.charCodeAt(i) != 9) {
-			
-			// if the temporary string contains some whitespace characters, copy them first
-			if (substring != '') {
-				newString += substring;
-				substring = '';
-			}
-			newString += string.charAt(i);
-			if (beginningFound == false) beginningFound = true;
-		}
-		
-		// hold whitespace characters in a temporary string if they follow a non-whitespace character
-		else if (beginningFound == true) substring += string.charAt(i);
-	}
-	return newString;
-}
-
-// Check that an email address is valid based on RFC 821 (?)
-function isValidEmail(address) {
-	if (address != '' && address.search) {
-      if (address.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) != -1) return true;
-      else return false;
-	}
-	
-   // allow empty strings to return true - screen these with either a 'required' test or a 'length' test
-   else return true;
-}
-
-function ValidateAndSubmit(form)
-{
- var errors = '';
- var numErrors = 0;
-if (form.first_name.value=='') {
-	errors += '- FIRST NAME is empty.\n';
-	numErrors++;}
-if (form.last_name.value=='') {
-	errors += '- LAST NAME is empty.\n';
-	numErrors++;}
-if (form.title.value=='') {
-	errors += '- TITLE is empty.\n';
-	numErrors++;}
-if (form.company.value=='') {
-	errors += '- COMPANY is empty.\n';
-	numErrors++;}
-if (form.phone.value=='') {
-	errors += '- PHONE is empty.\n';
-	numErrors++;}
-if (form.email.value=='') {
-	errors += '- EMAIL is empty.\n';
-	numErrors++;}
-
-if (numErrors) {
-errors = 'The form was not submitted due to the following problem' + ((numErrors > 1) ? 's' : '') + ':\n' + errors + 'Please fix ' + ((numErrors > 1) ? 'these' : 'this') + ' problem' + ((numErrors > 1) ? 's' : '') + ' and resubmit the form.';
-	alert(errors);
-	return false;
-	}
-	else{
-
-	doSubmit(form);
-	return true;
-	}
-}
-
-function doSubmit(theForm) {
-	var done = false;
-	while (!done) {
-		// first, disable submit button if IE
-		//if (isMSIE()) theForm.action.disabled = true;
-			
-		//increase count for form submission
-		//var counterCGI = getAddCountURL(theForm) + '&retURL=http://' + document.domain + '/leadcapture/empty2.htm';
-		//toplocation = counterCGI;
-
-		//set info cookies. This will initiate the cookie config settings
-		sendCookies(theForm);
-		//set the identifier indicates so thatt user doesn't have to fill out the form again!
-		setCookie("bigmachines_leadCaptured", "1");
-
-		//instruct the url in hidden form element for saleforce to return
-		theForm.retURL.value = getReturnURL();
-			
-		done = true;
-	}
-	
-	return done;
-}
-
-// this function determines which PDF (or any URL) to redirect to 
-// based on the specified URL parameter.
-function getReturnURL() {
-	var args = getArgs(parent.location); 
-	var str = args.target;
-	// default return URL to bigmachines.com home page 
-	// if target is not specified
-	if (isEmpty(str)) str = DEFAULT_URL;
-	else str = args.target;
-	 
-	return str;
-}
+<script type="text/javascript">
+function myFocus(element) {
+     if (element.value == element.defaultValue) {
+       element.value = '';
+     }
+   }
+   function myBlur(element) {
+     if (element.value == '') {
+       element.value = element.defaultValue;
+     }
+   }
 </script>
 
-<script language="JavaScript" src="../bmscripts.js">
+
+    
+
+<script type="text/javascript">
+  $(document).ready(function() {
+    $(".tabLink").each(function(){
+      $(this).click(function(){
+        tabeId = $(this).attr('id');
+        $(".tabLink").removeClass("activeLink");
+        $(this).addClass("activeLink");
+        $(".tabcontent").addClass("hide");
+        $("#"+tabeId+"-1").removeClass("hide")   
+        return false;	  
+      });
+    });  
+  });
 </script>
 </head>
 
-<body onload="MM_preloadImages('/images/button_products2.gif','/images/button_services2.gif','/images/button_benefits2.gif','/images/button_news2.gif','/images/button_contactus2.gif','/images/button_company2.jpg','/images/totop2.gif','/images/button_solutions2.gif','/images/button_products2.gif','/images/button_services2.gif','/images/button_benefits2.gif','/images/button_news2.gif','/images/button_contactus2.gif','/images/button_company2.jpg','/images/totop2.gif')"><!-- #BeginLibraryItem "/Library/TopNavTable.lbi" --><table width="100%" height="85" border="0" cellpadding="0" cellspacing="0">
-  
-  <tbody><tr>
-  
-    <td width="155" rowspan="5"><a href="/index.htm"><img src="/images/logo.jpg" border="0" width="155" height="85"></a></td>
-  
-    <td background="/images/fadebar_top.jpg"><img src="/images/pixeltrans.gif" width="100" height="15"></td>
-  
-  </tr>
-  
-  <tr>
-  
-    <td><img src="/images/faderwhite1.jpg" width="532" height="22" border="0"><img src="images/1phone1.gif" width="89" height="15"></td>
-  
-  </tr>
-  
-  <tr>
-  
-    <td><table width="557" height="15" border="0" align="left" cellpadding="0" cellspacing="0">
-  
-      <tbody><tr>
-  
-        <td><a href="/company/about_us.htm" onmouseover="MM_showHideLayers('subSolutions','','hide','shimBottom','','show','shimLeft','','show','subProducts','','hide','subCompany','','show','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','show','shimTop','','show','shimRight','','show');MM_swapImage('buttonCompany','','/images/button_company2.jpg',1)" onmouseout="MM_swapImgRestore()"><img src="/images/button_company1.jpg" name="buttonCompany" width="78" height="15" border="0" id="buttonCompany"></a></td>
-  
-        <td><img src="/images/navspacer.gif" width="21" height="15"></td>
-  
-        <td><a href="/solutions/overview.htm" onmouseover="MM_swapImage('buttonSolutions','','/images/button_solutions2.gif',1);MM_showHideLayers('subSolutions','','show','shimBottom','','show','shimLeft','','show','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','show','shimTop','','show','shimRight','','show')" onmouseout="MM_swapImgRestore()"><img src="/images/button_solutions1.gif" name="buttonSolutions" width="64" height="15" border="0" id="buttonSolutions"></a></td>
-  
-        <td><img src="/images/navspacer.gif" width="21" height="15"></td>
-  
-        <td><a href="/products/lfe_software.htm" onmouseover="MM_swapImage('buttonProducts','','/images/button_products2.gif',1);MM_showHideLayers('subSolutions','','hide','shimBottom','','show','shimLeft','','show','subProducts','','show','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','show','shimTop','','show','shimRight','','show')" onmouseout="MM_swapImgRestore()"><img src="/images/button_products1.gif" name="buttonProducts" width="62" height="15" border="0" id="buttonProducts"></a></td>
-  
-        <td><img src="/images/navspacer.gif" width="21" height="15"></td>
-  
-        <td><a href="/services/vrp.htm" onmouseover="MM_swapImage('buttonServices','','/images/button_services2.gif',1);MM_showHideLayers('subSolutions','','hide','shimBottom','','show','shimLeft','','show','subProducts','','hide','subCompany','','hide','subServices','','show','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','show','shimTop','','show','shimRight','','show')" onmouseout="MM_swapImgRestore()"><img src="/images/button_services1.gif" name="buttonServices" width="56" height="15" border="0" id="buttonServices"></a></td>
-  
-        <td><img src="/images/navspacer.gif" width="21" height="15"></td>
-  
-        <td><a href="/customers/results.htm" onmouseover="MM_swapImage('buttonBenefits','','/images/button_benefits2.gif',1);MM_showHideLayers('subSolutions','','hide','shimBottom','','show','shimLeft','','show','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','show','subNews','','hide','subContactus','','hide','subPopup','','show','shimTop','','show','shimRight','','show')" onmouseout="MM_swapImgRestore()"><img src="/images/button_benefits1.gif" name="buttonBenefits" width="59" height="15" border="0" id="buttonBenefits"></a></td>
-  
-        <td><img src="/images/navspacer.gif" width="21" height="15"></td>
-  
-        <td><a href="/news/press_releases.htm" onmouseover="MM_swapImage('buttonNews','','/images/button_news2.gif',1);MM_showHideLayers('subSolutions','','hide','shimBottom','','show','shimLeft','','show','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','show','subContactus','','hide','subPopup','','show','shimTop','','show','shimRight','','show')" onmouseout="MM_swapImgRestore()"><img src="/images/button_news1.gif" name="buttonNews" width="42" height="15" border="0" id="buttonNews"></a></td>
-  
-        <td><img src="/images/navspacer.gif" width="21" height="15"></td>
-  
-        <td><a href="/contact_us/contact_us.htm" onmouseover="MM_swapImage('buttonContactus','','/images/button_contactus2.gif',1);MM_showHideLayers('subSolutions','','hide','shimBottom','','show','shimLeft','','show','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','show','subPopup','','show','shimTop','','show','shimRight','','show')" onmouseout="MM_swapImgRestore()"><img src="/images/button_contactus1.gif" name="buttonContactus" width="70" height="15" border="0" id="buttonContactus"></a></td>
-  
-      </tr>
-  
-    </tbody></table></td>
-  
-  </tr>
-  
-  <tr>
-  
-    <td><img src="/images/faderwhite2.jpg" width="557" height="22" border="0"></td>
-  
-  </tr>
-  
-  <tr>
-  
-    <td background="/images/fadebar_top2.jpg"><img src="/images/pixeltrans.gif" width="100" height="11" border="0"></td>
-  
-  </tr>
-  
-</tbody></table>
-<!-- #EndLibraryItem --><div id="subSolutions" style="position:absolute; width:531; height:22; z-index:2; left: 182px; top: 65px; visibility: hidden;">
-	<table width="531" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr><td colspan="4"><img src="/images/pixeltrans.gif" width="20" height="3"></td></tr>
-    <tr>
+<body>
 
-      <td width="71" class="subnavhover"><a href="/solutions/overview.htm" class="subnav">Overview</a></td>
-      <td width="104" class="subnavhover"><a href="/solutions/lfe.htm" class="subnav" title="Product Configurator">Lean Front-End</a></td>
-      <td width="119" class="subnavhover"><a href="/solutions/IndustrySolutions.htm" class="subnav">Industry Solutions</a></td>
-      <td width="237" class="subnavhover"><a href="/solutions/WhitePaper.htm" class="subnav">Whitepapers</a></td>
-</tr>
-  </tbody></table>
+<div class="container">
+
+<div id="header" class="clearfix">
+    	<div id="header-inner">
+            <a href="index.php" id="top-logo">
+                <img src="images/home/logo.gif" alt="BigMachines">
+            </a>
+            <div id="header-right">
+            	<div id="header-search-wrapper">
+ 	               <div id="country-select"><a href="#"><span>USA</span></a>
+                        <ul>
+                            <li id="usa"><a href="http://www.bigmachines.com">U.S.A.</a></li>
+                            <li id="deutsch"><a href="http://www.bigmachines.de">Deutsch</a></li>
+                            <li id="francais"><a href="http://www.bigmachines.fr">Francais</a></li>
+                            <li id="uk"><a href="http://www.bigmachines.co.uk">U.K.</a></li>
+                            <li id="espanol"><a href="http://www.bigmachines.com/mx">Español</a></li>
+                            <li id="japan"><a href="http://www.bigmachines.jp">Japan</a></li>
+                            <li id="apac"><a href="http://www.bigmachines.com/apac">APAC</a></li>
+                        </ul>
+                   </div>
+                   <a href="customer-portal.php" id="customer-link">Already a Customer?</a>
+                   <form name="form1" action="search-results.php" id="cse-search-box">
+                      <input type="text" name="q" id="site-search" placeholder="Search">
+					  <input type="hidden" name="cof" value="FORID:10;NB:1">
+					  <input type="hidden" name="ie" value="UTF-8">
+					  <input type="hidden" name="cx" value="002173374110047425403:dxlhc5ksxii">
+                   </form>
+                </div>
+       	  <ul id="megamenu" class="clearfix">
+                	<li>
+                    	<a href="resources.php" class="megamenu-tab">Resources</a>          	
+                        <div class="dropdown three-col">
+                        	<div class="dropdown-inner clearfix">
+                            	<div class="col col-1">
+                                    <div class="col-inner">
+                                        <h3><a href="resources.php">Learn More</a></h3>
+                                        <ul>
+                                            <li><a href="case_study.php">Case Studies</a></li>
+                                            <li><a href="whitepapers.php">White Papers</a></li>
+                                            <li><a href="vidtestimonials.php">Testimonial Videos</a></li>
+                                            <li><a href="blogs.php">Blogs</a></li>
+                                            <li><a href="webcasts.php">Webinars</a></li>
+                                            <li><a href="certifications.php">Accreditations</a></li>
+                                            <li><a href="datasheets.php">Brochures &amp; Datasheets</a></li>
+                                            <li><a href="customers.php">Customers</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col col-2">
+                                    <div class="col-inner">
+                                        <h3><a href="glossary.php">Glossary</a></h3>
+                                        <ul>
+                                            <li><a href="product_configurator.php">Product Configurator</a></li>
+                                            <li><a href="proposal_generator.php">Proposal Generator</a></li>
+                                            <li><a href="b2b-ecommerce.php">B2B E Commerce</a></li>
+                                            <li><a href="quoting_software.php">Quoting Software</a></li>
+                                            <li><a href="eto.php">Engineer to Order</a></li>
+                                            <li><a href="configurator_software.php">Configurator Software</a></li>
+                                            <li><a href="saas.php">SaaS</a></li>
+                                            <li><a href="cloud-computing.php">Cloud Computing</a></li>
+                                            <li><a href="b2b-sales.php">B2B Sales</a></li>
+                                        </ul>
+                                    </div>
+                                
+                                </div>
+                                <div class="col col-3">
+                                    <div class="col-inner">
+                                        <h3><a href="resources.php">Resources</a></h3>
+                                        <div class="icon-list">                   	
+                                            <a href="http://info.bigmachines.com/overview-demo-request.html" class="clearfix" target="_blank">
+                                                <img src="images/home/icon_watch_demo.png" alt="BigMachines Overview">
+                                                <h3><strong>BigMachines </strong>Overview</h3>
+                                            </a>
+                                            <a href="http://info.bigmachines.com/bigmachines-salesforce-demo-request.html" class="clearfix" target="_blank">
+                                                <img src="images/home/icon_watch_demo.png" alt="BigMachines with SalesForce CRM">
+                                                <h3>BigMachines with <span class="small">Salesforce CRM</span></h3>
+                                            </a>
+                                            <a href="http://info.bigmachines.com/bigmachines-oracle-demo-request.html" class="clearfix" target="_blank">
+                                                <img src="images/home/icon_watch_demo.png" alt="BigMachines with Oracle CRM on Demand">
+                                                <h3>BigMachines with <span class="small">Oracle CRM on Demand</span></h3>
+                                            </a>
+                                             <a href="http://info.bigmachines.com/bigmachines-microsoft-demo-request.html" class="clearfix" target="_blank">
+                                                <img src="images/home/icon_watch_demo.png" alt="BigMachines with Microsoft Dynamics CRM">
+                                                <h3>BigMachines with<span class="small">MS Dynamics CRM</span></h3>
+                                            </a>
+                                        </div>
+                                    </div>
+								</div>
+                            </div>
+						</div>
+                    </li>
+                    <li>
+                    	<a href="about.php" class="megamenu-tab">About</a>
+                    	<div class="dropdown three-col">
+                        	<div class="dropdown-inner clearfix">
+                            	<div class="col col-1">
+                                    <div class="col-inner">
+                                        <h3><a href="news.php">News &amp; Events</a></h3>
+                                        <ul>
+                                            <li><a href="press_releases.php">Press Releases</a></li>
+                                            <li><a href="media_analysts.php">Media</a></li>
+                                            <li><a href="events.php">Events</a></li>
+                                            <li><a href="/bigideas/index.html" target="_blank">BigIdeas Chicago</a></li>
+                                            <li><a href="http://www.bigmachines.de/bigideaseurope/index-en.php" target="_blank">BigIdeas Europe</a></li>
+                                            <li><a href="customer-success-forums.php">Customer Success Forums</a></li>
+                                            <li><a href="newsletter.php">Newsletters</a></li>
+                                            <li><a href="blogs.php">Blogs</a></li>
+                                            <li><a href="awards.php">Awards</a></li>
+                                            <li><a href="training1.php">Training</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col col-2">
+                                    <div class="col-inner">
+                                        <h3><a href="about.php">Company</a></h3>
+                                        <ul>
+                                            <li><a href="contact.php">Global Offices — Contact</a></li>
+                                            <li><a href="management_team.php">Management Team</a></li>
+                                            <li><a href="investors.php">Investors</a></li>
+                                            <li><a href="board.php">Board of Directors</a></li>
+                                            <li><a href="industry_board.php">Industry Advisory Board</a></li>
+                                            <li><a href="partners.php">Partners</a></li>
+                                            <li><a href="customers.php">Customers</a></li>
+                                            <li><a href="certifications.php">Accreditations</a></li>
+                                            <li><a href="careers.php">Careers</a></li>
+                                        </ul>
+                                    </div>
+                                
+                                </div>
+                                <div class="col col-3">
+                                    <div class="col-inner">
+                                        <h3><a href="resources.php">Resources</a></h3>
+                                        <div class="icon-list">                   	
+                                            <a href="contact.php" class="clearfix">
+                                                <img src="images/home/icon_contact_us.png" alt="Contact Information">
+                                                <h3><strong>Contact </strong>Information</h3>
+                                            </a>
+                                            <a href="careers.php" class="clearfix">
+                                                <img src="images/home/icon_careers_at_bigmachines.png" alt="Careers at BigMachines">
+                                                <h3><strong>Careers </strong>at BigMachines</h3>
+                                            </a>
+                                            <a href="/bigideas/index.html" target="_blank" class="clearfix">
+                                                <img src="images/home/icon_attend_bigideas.png" alt="Attend BigIdeas">
+                                                <h3>Attend <strong>BigIdeas</strong></h3>
+                                            </a>
+                                        </div>
+                                    </div>
+								</div>
+                            </div>
+						</div>    
+                    </li>
+                    <li>
+                    	<a href="services.php" class="megamenu-tab">Services</a>
+                        	<div class="dropdown three-col">
+                        	<div class="dropdown-inner clearfix">
+                            	<div class="col col-1">
+                                    <div class="col-inner">
+                                        <h3><a href="how-can-we-help.php">How Can We Help?</a></h3>
+                                        <ul>
+                                            <li><a href="boa1.php">Understand Your Business Process</a></li>
+                                            <li><a href="training1.php">Learn How to Use BigMachines</a></li>
+                                        	<li><a href="community.php">Discover Best Practices</a></li>
+                                            <li><a href="support.php">Get 24/7 Support</a></li>
+                                            <li><a href="partners.php">Find a Partner</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col col-2">
+                                    <div class="col-inner">
+                                        <h3><a href="services.php">Services &amp; Support</a></h3>
+                                        <ul>
+                                            <li><a href="boa1.php">BOA</a></li>
+                                            <li><a href="implementation.php">Implementation</a></li>
+                                            <li><a href="hosting.php">Hosting</a></li>
+                                            <li><a href="support.php">Support</a></li>
+                                            <li><a href="admin-serivces.php">Admin Services</a></li>
+                                            <li><a href="training1.php">Training &amp; Certification</a></li>
+                                            <li><a href="mybigidea.php">MyBigIdea</a></li>
+                                            <li><a href="community.php">User Community</a></li>
+                                        </ul>
+                                    </div>
+                                
+                                </div>
+                                <div class="col col-3">
+                                    <div class="col-inner">
+                                        <h3><a href="resources.php">Resources</a></h3>
+                                        <div class="icon-list">                   	
+                                            <a href="training1.php" class="clearfix">
+                                                <img src="images/home/icon_become_bigmachines_certified.png" alt="Become BigMachines Certified">
+                                                <h3>Become BigMachines <strong>Certified</strong></h3>
+                                            </a>
+                                            <a href="http://support.bigmachines.com" target="_blank" class="clearfix">
+                                                <img src="images/home/icon_support_center.png" alt="BigMachines Support Center">
+                                                <h3>BigMachines <strong>Support Center</strong></h3>
+                                            </a>
+                                            <a href="https://na7.salesforce.com/apex/ideaList?c=09a000000000168&amp;sfdc.tabName=01r00000000Djlm" class="clearfix" target="_blank">
+                                                <img src="images/home/icon_submit_a_big_idea.png" alt="Submit a Big Idea">
+                                                <h3>Submit a <strong>Big Idea</strong></h3>
+                                            </a>
+                                        </div>
+                                    </div>
+								</div>
+                            </div>
+						</div>  
+                    </li>
+                    <li id="solutions-tab">
+                    	<a href="solutions.php" class="megamenu-tab">Solutions</a>
+                        
+                        <div class="dropdown three-col">
+                        	<div class="dropdown-inner clearfix">
+                            	<div class="col col-1">
+                                    <div class="col-inner">
+                                        <h3><a href="solutions.php">I need a Solution For:</a></h3>
+                                        <ul>
+                                            <li><a href="product-configurator.php">Product Configuration</a></li>
+                                            <li><a href="pricing-quoting.php">Pricing &amp; Quoting</a></li>
+                                            <li><a href="proposal-generator.php">Proposal Generation</a></li>
+                                            <li><a href="contract-management.php">Contract Management</a></li>
+                                            <li><a href="ecommerce-engine.php">eCommerce</a></li>
+                                            <li><a href="analytics-reporting.php">Reporting</a></li>
+                                            <li><a href="guided-selling.php">Guided Selling</a></li>
+                                            <li><a href="renewals.php">Renewals</a></li>
+                                            <li><a href="order-management.php">Order Management</a></li>
+                                            <li><a href="workflow-approvals.php">Approval Workflow</a></li>
+                                            <li><a href="product-catalog.php">Product Catalogs</a></li>
+                                            <li><a href="channel-sales-engine4.php">Channel Management</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col col-2">
+                                    <div class="col-inner">
+                                        <h3><a href="industry-solutions.php">Solutions by Industry</a></h3>
+                                        <ul>
+                                            <li><a href="hitech.php">Technology</a></li>
+                                            <li><a href="industrial.php">Manufacturing</a></li>
+                                            <li><a href="business-services.php">Business Services</a></li>
+                                            <li><a href="software.php">Business Software</a></li>
+                                            <li><a href="medical.php">Medical</a></li>
+                                            <li><a href="telecom.php">Telecom</a></li>
+                                            <li><a href="media.php">Media</a></li>
+                                            <li><a href="financial.php">Financial Services</a></li>
+                                        </ul>
+                                    </div>
+                                
+                                </div>
+                                <div class="col col-3">
+                                    <div class="col-inner">
+                                        <h3><a href="resources.php">Resources</a></h3>
+                                        <div class="icon-list">                   	
+                                            <a href="integration.php" class="clearfix">
+                                                <img src="images/home/icon_crm_erp_integration.png" alt="CRM &amp; ERP">
+                                                <h3><strong>CRM &amp; ERP</strong>Integration</h3>
+                                            </a>
+                                            <a href="case_study.php" class="clearfix">
+                                                <img src="images/home/icon_customer_case_studies.png" alt="Customer Case Studies">
+                                                <h3>Customer <strong>Case Studies</strong></h3>
+                                            </a>
+                                            <a href="vidtestimonials.php" class="clearfix">
+                                                <img src="images/home/icon_customer_references.png" alt="Contact Us">
+                                                <h3>Customer <strong>References</strong></h3>
+                                            </a>
+                                        </div>
+                                    </div>
+								</div>
+                            </div>
+						</div>
+                        
+                    </li>
+                    <li>
+                    	<a href="products.php" class="megamenu-tab">Products</a>
+                        <div class="dropdown three-col">
+                        	<div class="dropdown-inner clearfix">
+                                <div class="col col-1">
+                                    <div class="col-inner">
+                                        <h3><a href="how-do-you-sell.php">How Do You Sell?</a></h3>
+                                        <ul>
+                                            <li><a href="direct-sales.php">Direct Sales</a></li>
+                                            <li><a href="channel-resellers.php">Resellers</a></li>
+                                            <li><a href="ecommerce.php">Ecommerce</a></li>
+                                        </ul>	
+                                        <h3><a href="integration.php">CRM &amp; ERP Integration</a></h3>
+                                        <ul>
+                                            <li><a href="salesforce.php">Salesforce CRM</a></li>
+                                            <li><a href="oracle.php">Oracle CRM On Demand</a></li>
+                                            <li><a href="microsoft.php">Microsoft Dynamics CRM</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="col col-2">
+                                    <div class="col-inner">
+                                        <h3><a href="products.php">BigMachines Selling Platform</a></h3>
+                                        <ul>
+                                        	<li><a href="sales-engine6.php">Sales Engine</a></li>
+                                            <li><a href="channel-sales-engine4.php">Channel Sales Engine</a></li>
+                                            <li><a href="ecommerce-engine.php">eCommerce Engine</a></li>
+                                            <li><a href="quick-configurator-for-salesforce.php">QuickConfig</a></li>
+                                            <li><a href="document-engine.php">Document Engine</a></li>
+                                            <li><a href="unplugged.php">Unplugged</a></li>
+                                            <li><a href="admin-platform.php">Admin Platform</a></li>
+                                            <li><a href="editions.php">Editions</a></li>
+                                        </ul>
+                                    </div>
+                                
+                                </div>
+                                <div class="col col-3">
+                                    <div class="col-inner">
+                                        <h3><a href="resources.php">Resources</a></h3>
+                                        <div class="icon-list">                   	
+                                            <a href="flash_request.php" class="clearfix">
+                                                <img src="images/home/icon_watch_demo.png" alt="online-demo">
+                                                <h3>Watch an <strong>Online Demo</strong></h3>
+                                            </a>
+                                            <a href="editions.php" class="clearfix">
+                                                <img src="images/home/icon_compare_editions.png" alt="Compare Editions">
+                                                <h3>Compare <strong>Editions</strong></h3>
+                                            </a>
+                                            <a href="contact.php" class="clearfix">
+                                                <img src="images/home/icon_contact_us.png" alt="Contact Us">
+                                                <h3><strong>Contact Us </strong>For More Info</h3>
+                                            </a>
+                                        </div>
+                                    </div>
+                            	</div>
+                            </div>
+						</div>  
+                    </li>
+                </ul>
+          </div>
+    </div>
+  </div>
+<div class="content_container">
+
+<div class="left_navigation">
+
+<a href="news.php" class="main_section_link">News &amp; Events Overview</a>
+
+<ul>
+<li><a href="press_releases.php">Press Releases</a></li>
+<li><a href="media_analysts.php">Media</a></li>
+<li><a href="events.php">Events</a></li>
+<li><a href="awards.php">Awards</a></li>
+<li><a href="/bigideas/index.html">BigIdeas Chicago</a></li>
+<li><a href="http://www.bigmachines.de/bigideaseurope/index-en.php" target="_blank">BigIdeas Europe</a></li>
+<li><a href="customer-success-forums.php">Customer Success Forums</a></li>
+<li><a href="newsletter.php">Newsletters</a></li>
+</ul>
+
+<a href="about.php" class="main_section_link">Company Overview</a>
+
+<ul>
+<li><a href="contact.php">Contact Us</a></li>
+<li><a href="management_team.php">Leadership Team</a></li>
+<li><a href="investors.php">Investors</a></li>
+<li><a href="board.php">Board of Directors</a></li>
+<li><a href="industry_board.php">Industry Advisory Board</a></li>
+<li><a href="partners.php">Partners</a></li>
+<li><a href="customers.php">Customers</a></li>
+<li><a href="certifications.php">Accreditations</a></li>
+<li><a href="careers.php">Careers</a></li>
+</ul>
+</div>
+<div class="right_column">
+<h1>Privacy Policy</h1>
+
+<p>
+
+BigMachines, Inc. has created this privacy statement ("Statement") in order to demonstrate our commitment to privacy. Privacy on the bigmachines.com Web Site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement to communicate our information gathering and dissemination practices.
+</p>
+<p>
+<strong>Collected Information:</strong>
+In order to access certain portions of the Site, you will be required to register by providing certain limited information regarding you and the company you represent. BigMachines, Inc. may use the information that we collect to contact visitors to further discuss their interest in our company and the services and products we provide and to send information regarding our company, service and product offerings, such as newsletters and events. Visitor email addresses and any personal customer information will not be distributed or shared with any third parties in any circumstance. Customers can opt out of being contacted by us, or receiving such information from us, at any time by visiting http://www.bigmachines.com/emailoptout.php , or sending an email to marketing@bigmachines.com.
+</p>
+<p>
+<strong>Cookies:</strong>
+When you interact with our Site, we strive to make that experience easy and meaningful. Our Web server may send a cookie to the computer of our Site visitors. Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers and visitors have visited the Site previously. Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to BigMachines, Inc., either by requesting a download or registering for a demo or webinar, you remain anonymous to BigMachines, Inc. If you choose not to accept cookies from the domain "bigmachines.com", you will still be able to access the entire Site, however you will be required to re-register each time you would like to access those portions of the Site which require registration.
+</p>
+<p>
+When we send messages to you or others, we may provide a link that contains an identifier, which allows us to identify the person to whom we sent the message, record whether the email has been open and set a cookie so we can link non-personal data to their email address. We do this in order to tailor our communication for that individual.
+</p>
+<p>
+<strong>Log Files:</strong>
+We use visitor's IP addresses to analyze trends, administer the Site, track user's movement, and gather broad demographic information for aggregate use. BigMachines occasionally matches these IP addresses to publicly-available company IP registries, and BigMachines may contact visiting companies to discuss potential interest in our company. IP addresses that we collect are not linked to personally identifiable information.
+</p>
+<p>
+<strong>Users Outside of the United States:</strong>
+While we make every effort to honor the laws and wishes of all users, this Site is available for users located primarily in the United States of America and therefore may not recognize foreign laws.
+</p>
+<p>
+<strong>Safe Harbor Commitment:</strong>
+BigMachines conforms to the 7 Safe Harbor principles and self-regulates our conformance based on this privacy policy.
+</p><ol>
+    <li>Notice- BigMachines will notify individuals about the purposes for which we collect personal information.</li>
+    <li>Choice- BigMachines will not share personal information we collect with any outside parties without explicit Opt-In choice by these individuals.</li>
+    <li>Onward Transfer- BigMachines does not disclose personal information to any outside parties or agents unless those individuals are notified and have given explicit Opt-In choice to allow BigMachines to share their information.</li>
+    <li>Access- BigMachines will provide any individual access to their personal information we have collected by contacting marketing@bigmachines.com.</li>
+    <li>Security- BigMachines data is hosted in a secure environment with advanced security technology.</li>
+   <li>Data Integrity- BigMachines actively monitors the accuracy and reliability of its database.</li>
+    <li>Enforcement- BigMachines' management team takes this commitment very seriously. Please contact BigMachines at marketing@bigmachines.com with any potential complaints, disputes, or issues concerning this policy. And complaints, disputes, or issues are actively reviewed by BigMachines' management for action and resolution. If the issue is not resolved to your satisfaction by BigMachines, please notify the Better Business Bureau at https://odr.bbb.org/odrweb/public/GetStarted.aspx .</li>
+</ol>
+<p>
+
+<strong>Security:</strong>
+BigMachines, Inc. takes precautions to protect data and information under its control from misuse, loss or alteration. BigMachines utilizes some of the most advanced technology for Internet security available today. BigMachines maintains security measures to allow only the appropriate personnel access to your information. Unfortunately, no system can ensure complete security, and BigMachines disclaims any liability resulting from use of the Site. In addition, our Site is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders.
+</p>
+<p>
+<strong>BigMachines Customers' Hosted Data:</strong>
+BigMachines, Inc. delivers a hosted software solution to our customers. Our customers may collect personal information from their customers or prospects which resides in BigMachines data servers at our Hosting Partner sites. This data is owned and maintained by each customer- not by BigMachines. As such, BigMachines makes no claims concerning the privacy policies or Safe Harbor commitments of our customers concerning their data.
+</p>
+<p>
+<strong>Links to Third-Party Sites:</strong>
+The Site contains links to other Web Sites. BigMachines, Inc. is not responsible for the privacy practices or the content of these other Web Sites. Visitors will need to check the policy statement of these others Web Sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.
+</p>
+<p>
+Questions or Comments Regarding the Privacy Policy
+For additional questions, or to be taken off our marketing lists, please send an e-mail to marketing@bigmachines.com.
+</p>
+<p>
+To be permanently removed from BigMachines mailing list, please <a href="emailoptout.php">click here</a>. </p>
+<p><a href="javascript: history.go(-1)"><img src="images/interior/back.jpg" width="73" height="30"></a></p>
 
 </div>
-<div id="shimBottom" style="position:absolute; width:557px; height:115px; z-index:2; left: 155px; top: 94px; visibility: hidden;"><a href="#" onmouseover="MM_showHideLayers('subSolutions','','hide','shimBottom','','hide','shimLeft','','hide','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','hide','shimTop','','hide','shimRight','','hide')"><img src="/images/pixeltrans.gif" width="557" height="115" border="0"></a></div>
-<div id="shimLeft" style="position:absolute; width:155; height:196; z-index:2; left: 0; top: 0; visibility: hidden;"><a href="#" onmouseover="MM_showHideLayers('subSolutions','','hide','shimBottom','','hide','shimLeft','','hide','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','hide','shimTop','','hide','shimRight','','hide')"><img src="/images/pixeltrans.gif" width="155" height="196" border="0"></a></div>
-<div id="subProducts" style="position:absolute; width:531; height:22; z-index:2; left: 182px; top: 65px; visibility: hidden;">
-  <table width="531" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td colspan="5"><img src="/images/pixeltrans.gif" width="20" height="3"></td></tr>
-    <tr>
-      <td width="102" class="subnavhover"><a href="/products/lfe_software.htm" class="subnav">LFE Software</a></td>
-      <td width="120" class="subnavhover"><a href="/products/lfe_archtech.htm" class="subnav">LFE Architecture</a></td>
-      <td width="100" class="subnavhover"><a href="/products/lfe_editions.htm" class="subnav">LFE Editions</a></td>
-      <td width="100" class="subnavhover"><a href="/products/lfe_hosting.htm" class="subnav">LFE Hosting</a></td>
-      <td width="144" class="subnavhover"><a href="/products/lfe_demos.htm" class="subnav">LFE Demonstrations</a></td>
-    </tr>
-  </tbody></table>
 </div>
-<div id="subCompany" style="position:absolute; width:600px; height:22; z-index:2; left: 182px; top: 65px; visibility: hidden;">
-  <table width="577" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td colspan="7"><img src="/images/pixeltrans.gif" width="20" height="3"></td></tr>
-    <tr>
-      <td width="67" class="subnavhover"><a href="/company/about_us.htm" class="subnav">About Us </a></td>
-      <td width="92" class="subnavhover"><a href="/company/management_team.htm" class="subnav">Management</a></td>
-      <td width="121" class="subnavhover"><a href="/company/board_of_directors.htm" class="subnav">Board of Directors </a></td>
-      <td width="107" class="subnavhover"><a href="/company/industry_board.htm" class="subnav">Industry Board </a></td>
-	  <td width="76" class="subnavhover"><a href="/company/investors.htm" class="subnav">Investors </a></td>
-	  <td width="67" class="subnavhover"><a href="/company/partners.htm" class="subnav">Partners </a></td>
-	  <td width="47" class="subnavhover"><img src="/images/pixeltrans.gif" width="47" height="3"></td>
-    </tr>
-  </tbody></table>
+</div>
+<div class="footer">
 
-</div>
-<div id="subServices" style="position:absolute; width:588; height:22; z-index:2; left: 182px; top: 65px; visibility: hidden;">
-  <table width="587" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td width="118"><img src="/images/pixeltrans.gif" width="20" height="3"></td></tr>
-    <tr>
-      <td class="subnavhover"><a href="/services/vrp.htm" class="subnav">Value-Realization</a></td>
-      <td width="142" class="subnavhover"><a href="/services/opportunityAnalysis.htm" class="subnav">Opportunity Analysis</a></td>
-      <td width="96" class="subnavhover"><a href="/services/valueAssessment.htm" class="subnav">Assessment</a></td>
-      <td width="82" class="subnavhover"><a href="/services/valueValidation.htm" class="subnav">Validation</a></td>
-      <td width="69" class="subnavhover"><a href="/services/valueDelivery.htm" class="subnav">Delivery</a></td>
-      <td width="80" class="subnavhover"><a href="/services/valueAssurance.htm" class="subnav">Assurance</a></td>
-
-    </tr>
-  </tbody></table>
-</div>
-<div id="subBenefits" style="position:absolute; width:570; height:22; z-index:2; left: 182px; top: 65px; visibility: hidden;">
-  <table width="570" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td colspan="5"><img src="/images/pixeltrans.gif" width="20" height="3"></td></tr>
-    <tr>
-	<td width="113" class="subnavhover"><a href="/customers/results.htm" class="subnav">Customer Results</a></td>
-	<td width="135" class="subnavhover"><a href="/customers/customers.htm" class="subnav">Customers by Industry</a></td>
-      <td width="120" class="subnavhover"><a href="/customers/whychoosebm.htm" class="subnav">Why BigMachines?</a></td>
-      <td width="123" class="subnavhover"><a href="/customers/benefits.htm" class="subnav">Customer Benefits</a></td>
-      
-      <!--td width="94" class="subnavhover"><a href="/customers/reducesellingcosts.htm" class="subnav">Reduce Costs</a></td>
-      <td width="119" class="subnavhover"><a href="/customers/increaserevenue.htm" class="subnav">Increase Revenue</a></td-->
-    </tr>
-  </tbody></table>
-</div>
-<div id="subNews" style="position:absolute; width:530; height:22; z-index:2; left: 182px; top: 65px; visibility: hidden;">
-  <table width="530" border="0" cellpadding="0" cellspacing="0">
-  <tbody><tr><td colspan="6"><img src="/images/pixeltrans.gif" width="20" height="3"></td></tr>
-    <tr>
-      <td width="110" class="subnavhover"><a href="/news/press_releases.htm" class="subnav">Press Releases</a></td>
-      <td width="120" class="subnavhover"><a href="/news/media_analysts.htm" class="subnav">Media &amp; Analysts</a></td>
-      <td width="90" class="subnavhover"><a href="/news/newsletter.htm" class="subnav">Newsletters</a></td>
-      <td width="70" class="subnavhover"><a href="/news/awards.htm" class="subnav">Awards</a></td>
-      <td width="70" class="subnavhover"><a href="/news/events.htm" class="subnav">Events</a></td>
-      <td width="90" class="subnavhover"><a href="/news/seminar_signup.htm" class="subnav">Web Seminar</a></td>
-    </tr>
-  </tbody></table>
-</div>
-<div id="subContactus" style="position:absolute; width: 531; height: 22; z-index:2; left: 182px; top: 65px; visibility: hidden;">
-
-     <table width="570" border="0" cellpadding="0" cellspacing="0">
- <tbody><tr><td colspan="2"><img src="/images/pixeltrans.gif" width="20" height="3"></td></tr>
-    <tr>
-	<td class="subnavhover" width="115"><a href="/contact_us/contact_us.htm" class="subnav">Web Contact Form</a></td>
-	<td class="subnavhover" width="91" align="center"><a href="/contact_us/chimap.htm" class="subnav">Chicago</a></td>
-	<td class="subnavhover" width="91"><a href="/contact_us/smmap.htm" class="subnav">Silicon Valley</a></td>
-	<td class="subnavhover" width="91" align="center"><a href="/contact_us/eumap.htm" class="subnav">European</a></td>
-	
-	 <td class="subnavhover" width="91" align="center"><a href="/contact_us/careers.htm" class="subnav">Careers</a></td>
-	<td class="subnavhover" width="91" align="center"><a href="http://helpdesk.bigmachines.com" target="_blank" class="subnav">Support Login</a></td>
-    </tr>
-  </tbody></table>
-
-</div>
-<div id="subPopup" style="position:absolute; width:615; height:22; z-index:1; left: 155px; top: 52px; visibility: hidden;"><img src="/images/subpopup.jpg" width="615" height="22"></div>
-<div id="shimTop" style="position:absolute; width:615px; height:37; z-index:2; left: 155px; top: 0px; visibility: hidden;"><a href="#" onmouseover="MM_showHideLayers('subSolutions','','hide','shimBottom','','hide','shimLeft','','hide','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','hide','shimTop','','hide')"><img src="/images/pixeltrans.gif" width="615" height="37" border="0"></a></div>
-<div id="shimRight" style="position:absolute; width:58px; height:172px; z-index:2; left: 750px; top: 38px; visibility: hidden;"><a href="#" onmouseover="MM_showHideLayers('subSolutions','','hide','shimBottom','','hide','shimLeft','','hide','subProducts','','hide','subCompany','','hide','subServices','','hide','subBenefits','','hide','subNews','','hide','subContactus','','hide','subPopup','','hide','shimTop','','hide','shimRight','','hide')"><img src="/images/pixeltrans.gif" width="58" height="172" border="0"></a></div>
-<table width="726" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="images/home-side.gif" width="155" height="101"></td>
-    <td colspan="2"><img src="images/privacypolicy.jpg" width="571" height="101"></td>
-  </tr>
-  <tr>
-    <td width="155" align="left" valign="top"><table width="155" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="33" valign="top" colspan="2"><img src="images/home-side2.gif" width="155" height="168"></td>
+ <div class="tab-box"> 
+    <a href="javascript:;" class="tabLink" id="cont-1">Glossary</a> 
+    <a href="javascript:;" class="tabLink" id="cont-2">Popular Searches</a> 
+    <a href="javascript:;" class="tabLink" id="cont-3">Blogs &amp; Community</a>
+    <a href="javascript:;" class="tabLink  activeLink" id="cont-4">Sitemap</a> 
+  </div>
+  
+  <div class="tabcontent hide" id="cont-1-1"> 
+ 	 <div class="tab_panel">
+    <ul>
+    	<li><a href="b2b-ecommerce.php">B2B eCommerce</a></li>
+		<li><a href="b2b-ecommerce-software.php">B2B eCommerce Software</a></li>
+		<li><a href="bom.php">BOA</a></li>
+		<li><a href="crm.php">CRM</a></li>
+		<li><a href="cto.php">Configure To Order</a></li>
+		<li><a href="configurator.php">Configurator</a></li>
+        <li><a href="configurator_software.php">Configurator Software</a></li>	
+    </ul>       
+    </div>
+    
+    <div class="tab_panel">
+    <ul>
+		<li><a href="ecommerce-configurator.php">eCommerce Configurator</a></li>
+		<li><a href="ecommerce-platform.php">eCommerce Platform</a></li>
+		<li><a href="ecommerce-shopping-cart.php">eCommerce Shopping Cart</a></li>
+		<li><a href="ecommerce-solution.php">eCommerce Solution</a></li>
+		<li><a href="eto.php">Engineer To Order</a></li>
+        <li><a href="erp.php">ERP</a></li>
+		<li><a href="guided_selling.php">Guided Selling</a></li>
+    </ul>       
+    </div>
+    
+    <div class="tab_panel">
+    <ul>
+    	<li><a href="lead_to_order.php">Lead to Order</a></li>
+		<li><a href="lfe.php">Lean Front-End</a></li>
+		<li><a href="online_configurator.php">Online Configurator</a></li>
+		<li><a href="product_catalog_manage.php">Product Catalog Management</a></li>
+		<li><a href="product_configuration.system.php">Product Configuration System</a></li>
+		<li><a href="product_configurator.php">Product Configurator</a></li>
+		<li><a href="proposal_generation.php">Proposoal Generation</a></li>	
+    </ul>       
+    </div>    
+    <div class="tab_panel">
+    <ul>
+    	<li><a href="proposal_software.php">Proposal Software</a></li>
+        <li><a href="proposal_generator.php">Proposal Generator</a></li>		
+		<li><a href="quote_software.php">Quote Software</a></li>
+		<li><a href="quote_to_order.php">Quote to Order</a></li>
+		<li><a href="sales_configurator.php">Sales Configurator</a></li>
+		<li><a href="sales_configuration.php">Sales Configuration</a></li>
+		<li><a href="web_configurator.php">Web Configurator</a></li>		
+    </ul>       
+    </div>
+	  <div class="clear"></div>
+  </div>
+  
+  <div class="tabcontent hide" id="cont-2-1"> 
+    <div class="tab_panel">
+    <ul>
+    	<li><a href="product-configurator.php" class="boldlink">CRM Product Configurator</a></li>
+		<li>BigMachines ensures 100% accurate quotes and orders and eliminates data-entry errors.</li>		
+    </ul>
+    
+    <ul>
+    	<li><a href="ecommerce-engine.php" class="boldlink">eCommerce Software</a></li>
+		<li>eCommerce Product Configurator Software from BigMachines can be customized to reflect a company brand and identity.</li>		
+    </ul>       
+    </div>
+    
+    <div class="tab_panel">
+    <ul>
+    	<li><a href="http://info.bigmachines.com/insurance-demo-request.html" class="boldlink">Insurance Product Configurator</a></li>
+		<li>Watch the BigMachines Insurance Product Configurator online demo designed specifically for the insurance industry.</li>		
+    </ul>
+    
+    <ul>
+    	<li><a href="flash_request.php" class="boldlink">Product Configurator Tutorial</a></li>
+		<li>View online demos for more information about BigMachines Sales Configuration, Quoting and Proposal Software.</li>		
+    </ul>       
+    </div>
+    
+     <div class="tab_panel">
+    <ul>
+    	<li><a href="proposal-generator.php" class="boldlink">Proposal Template</a></li>
+		<li>More than a proposal template, BigMachines Document Engine creates custom proposals, drawings and contracts in minutes.</li>		
+    </ul>
+    
+    <ul>
+    	<li><a href="sales-engine6.php" class="boldlink">Quotation Software</a></li>
+		<li>BigMachines was voted Best Quoting Software by users on the salesforce.com AppExchange!</li>		
+    </ul>       
+    </div>
+    
+    <div class="tab_panel">
+    <ul>
+    	<li><a href="product-configurator.php" class="boldlink">SaaS Product Configurator</a></li>
+		<li>We offer "Software as a Service" so all you need is an internet browser to sell more and reduce cost.</li>		
+    </ul>
+    
+    <ul>
+    	<li><a href="products.php" class="boldlink">Sales Technology</a></li>
+		<li>BigMachines believes in innovation. Our customers' ideas and suggestions help us refine our product roadmap each year.</li>		
+    </ul>       
+    </div>
+  <div class="clear"></div>
+  </div> 
  
-      </tr>
-    </tbody></table>
+  <div class="tabcontent hide" id="cont-3-1"> 
+    <h2>BigMachines Blogs:</h2>
+    <p>BigMachines Product Configurator, B2B eCommerce, Quoting and Proposal Software streamline the sales process from inquiry to order with on-demand product configuration, workflow approvals and proposal generation from the global leader in sales configurator software.   BigMachines blogs are resources for anyone interested in helping their business sell more and sell faster.  In out blogs, you will find information about the events we host and attend, technology news, BigMachines product develpments, information about our partners, sales strategies, and related topics:</p>
+    <div class="tab_panel">
+    <ul>
+    <li><a href="http://blog.bigmachines.com/">BigMachines Corporate Blog</a></li>
+    <li><a href="http://blogs.bigmachines.com/blog/crm-configurator">CRM Configurator Blog</a></li>
+    <li><a href="http://blogs.bigmachines.com/blog/product-configurators">Product Configurators Blog</a></li> 
+    <li><a href="http://blogs.bigmachines.com/blog/configurator-software">Configurator Software Blog</a></li> 
+    </ul>
+    </div>
+    <div class="tab_panel">
+    <ul>
+    <li><a href="http://blogs.bigmachines.com/blog/b2b-ecommerce">B2B eCommerce Blog</a></li>
+    <li><a href="http://blogs.bigmachines.com/blog/sales-quoting-software">Sales Quoting Software Blog</a></li>
+       <li><a href="http://blogs.bigmachines.com/blog/quoting-tool">Quoting Tool Blog</a></li>
+    <li><a href="http://blogs.bigmachines.com/blog/sales-proposals">Sales Proposals Blog</a></li>   
+    </ul>
+    </div>
+    
+    <div class="tab_panel social">
+  <ul>
+    <a href="https://www.facebook.com/BigMachines" target="_blank"><img src="images/home/facebook.png" width="50" height="50"></a>
+    <a href="http://www.linkedin.com/groups?gid=1416797" target="_blank"><img src="images/home/linkedin.png" width="50" height="50"></a>
+     <a href="http://twitter.com/#!/bigmachines" target="_blank"><img src="images/home/twitter.png" width="50" height="50"></a>
+   <a href="http://blogs.bigmachines.com/rss.php?blog_id=c43ca5bc-a9b9-4e3e-b511-c0944732758c&amp;sid={$uuid}" target="_blank"><img src="images/home/rss.png" width="50" height="50"></a>
+       <a href="http://www.youtube.com/BigMachinesInc" target="_blank"><img src="images/home/youtube.png" width="50" height="50"></a>
+    </ul>
+    </div>    
+  <div class="clear"></div>
+  </div>  
  
-	</td>
-    <td width="464" align="left" valign="top">
-      <table width="451" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr align="left" valign="top">
-          <td width="16"><img src="/images/pixeltrans.gif" width="16" height="10"></td>
-          <td width="443"><img src="/images/pixeltrans.gif" width="100" height="10"></td>
-        </tr>
-        <tr align="left" valign="top">
-          <td width="16" height="21">&nbsp;</td>
-          <td width="443" class="bodycopy"><p class="underline"><span class="releasehead">Privacy Statement:</span><br>
-            BigMachines, Inc. has created this privacy statement ("Statement") in order to demonstrate our commitment to privacy. Privacy on the bigmachines.com Web Site (the "Site") is of great importance to us. Because we gather important information from our visitors and customers, we have established this Statement to communicate our information gathering and dissemination practices. </p>
-            <p class="underline">&nbsp;</p>
-            <p><span class="releasehead">Collected Information:</span><br>
-              In order to access certain portions of the Site, you will be required to register by providing certain limited information regarding you and the company you represent. BigMachines, Inc. may use the information that we collect to contact visitors to further discuss their interest in our company and to send information regarding our company, such as newsletters and events. <strong>Visitor email addresses and any personal customer information will not be distributed or shared with any third parties in any circumstance.</strong> Customers can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to <a href="mailto:marketing@bigmachines.com"><u>marketing@bigmachines.com</u></a>. If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. BigMachines, Inc. will automatically send the friend a one-time email inviting them to visit the site. BigMachines will not send the friend any additional information, unless they choose to register themselves.</p>
-            <p class="underline">&nbsp;</p>
-            <p><span class="releasehead">Cookies:</span><br>
-              When you interact with the bigmachines.com  Site, we strive to make that experience easy and meaningful. When you come to our Site, our Web server may send a cookie to your computer. Cookies are files that Web browsers place on a computer's hard drive and are used to tell us whether customers and visitors have visited the Site previously. Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself to BigMachines, Inc., either by requesting a download or registering for a demo or webinar, you remain anonymous to BigMachines, Inc. If you do not accept cookies from the domain "bigmachines.com", you cannot access certain portions of the  Site without registering again each time you would like to access restricted information.</p>
-            <p class="underline">&nbsp;</p>
-            <p><span class="releasehead">Log Files: </span><br>
-              We use IP addresses to analyze trends, administer the Site, track user's movement, and gather broad demographic information for aggregate use. IP addresses that we collect are not linked to personally identifiable information. </p>
-            <p class="underline">&nbsp;</p>
-            <p><span class="releasehead">Users Outside of the United States: </span><br>
-              While we make every effort to honor the laws and wishes of all users, this Site is available for users located primarily in the United States of America and therefore may not recognize foreign laws. </p>
-            <p>&nbsp;</p>
-            <p><span class="releasehead">Security:</span><br>
-              BigMachines, Inc. takes precautions to protect data and information under its control from misuse, loss or alteration. BigMachines utilizes some of the most advanced technology for Internet security available today. BigMachines maintains security measures to allow only the appropriate personnel access to your information. Unfortunately, no system can ensure complete security, and BigMachines disclaims any liability resulting from use of the Site. In addition, our Site is hosted in a secure server environment that uses a firewall and other advanced technology to prevent interference or access from outside intruders.</p>
-            <p>&nbsp;</p>
-            <p><span class="releasehead">Links to Third-Party Sites:</span><br>
-              The Site contains links to other Web Sites. BigMachines, Inc. is not responsible for the privacy practices or the content of these other Web Sites. Visitors will need to check the policy statement of these others Web Sites to understand their policies. Customers and visitors who access a linked site may be disclosing their private information. It is the responsibility of the user to keep such information private and confidential.</p>
-            <p>&nbsp;</p>
-            <p><span class="releasehead">Questions or Comments Regarding the Privacy Policy</span><br>
-            For additional questions, or to be taken off our marketing lists, please send an e-mail to <a href="mailto:marketing@bigmachines.com"><u>marketing@bigmachines.com</u></a>.</p>
-            <p>&nbsp;</p>
-            <p align="center">Copyright 2005-06 BigMachines, Inc. • All rights reserved<br>
-                
-            </p></td>
-        </tr>
-        <tr align="left" valign="top">
-          <td height="21">&nbsp;</td>
-          <td class="bodycopy">&nbsp;</td>
-        </tr>
-      </tbody></table>
+<div class="tabcontent" id="cont-4-1"> 
+     <div class="tab_panel">
+    <ul>
+    	<li><a href="products.php" class="boldlink">BigMachines Selling Platform</a></li>
+		<li><a href="sales-engine6.php">Sales Engine</a></li>
+		<li><a href="channel-sales-engine4.php">Channel Sales Engine</a></li>
+		<li><a href="ecommerce-engine.php">eCommerce Engine</a></li>
+        <li><a href="document-engine.php">Document Engine</a></li>
+		<li><a href="admin-platform.php">Admin Platform</a></li>
+        <li><a href="unplugged.php">Unplugged</a></li>
+		<li><a href="quick-configurator-for-salesforce.php">QuickConfig</a></li>
+		<li><a href="editions.php">Editions</a></li>		
+    </ul>    
+    <ul>
+    	<li><a href="how-do-you-sell.php" class="boldlink">How do you sell?</a></li>
+		<li><a href="direct-sales.php">Direct Sales</a></li>
+   		<li><a href="channel-resellers.php">Channel Resellers</a></li>
+   		<li><a href="ecommerce.php">eCommerce</a></li>
+    </ul>   
+    
+     <ul>
+    	<li><a href="integration.php" class="boldlink">Integrate to...</a></li>
+		<li><a href="salesforce.php">Salesforce CRM</a></li>
+   		<li><a href="oracle.php">Oracle</a></li>
+   		<li><a href="microsoft.php">Microsoft Dynamics</a></li>
+        <li><a href="sap.php">SAP</a></li>
+    </ul>    
+    </div>    
+<div class="tab_panel">
+    <ul>
+    	<li><a href="solutions.php" class="boldlink">Solutions</a></li>
+        <li><a href="workflow-approvals.php">Workflow Approvals</a></li>
+		<li><a href="channel-sales-engine4.php">Channel Management</a></li>
+		<li><a href="order-management.php">Order Management</a></li>
+        <li><a href="product-catalog.php">Product Catalog</a></li>
+        <li><a href="renewals.php">Renewals</a></li>
+        <li><a href="product-configurator.php">Product Configuration</a></li>
+        <li><a href="pricing-quoting.php">Pricing &amp; Quoting</a></li>		
+		<li><a href="proposal-generator.php">Proposal Generation</a></li>
+		<li><a href="contract-management.php">Contract Generation</a></li>
+		<li><a href="ecommerce-engine.php">eCommerce</a></li>
+        <li><a href="analytics-reporting.php">Reporting</a></li>
+		<li><a href="guided-selling.php">Guided Selling</a></li>
+    </ul>
+    
+    <ul>
+    	<li><a href="industry-solutions.php" class="boldlink">Solutions by Industry</a></li>
+        <li><a href="hitech.php">Technology</a></li>
+		<li><a href="industrial.php">Manufacturing</a></li>
+		<li><a href="business-services.php">Business Services</a></li>
+        <li><a href="software.php">Business Software</a></li>
+        <li><a href="medical.php">Medical</a></li>
+        <li><a href="telecom.php">Telecom</a></li>
+        <li><a href="media.php">Media</a></li>		
+		<li><a href="financial.php">Financial Services</a></li>		
+    </ul>       
+    </div>
+    <div class="tab_panel">
+    <ul>
+    	<li><a href="services.php" class="boldlink">Services</a></li>
+		<li><a href="boa1.php">BOA</a></li>
+		<li><a href="implementation.php">Implementation</a></li>
+		<li><a href="hosting.php">Hosting</a></li>
+		<li><a href="support.php">Support</a></li>
+        <li><a href="admin-serivces.php">Admin Services</a></li>
+        <li><a href="training1.php">Training &amp; Certification</a></li>
+        <li><a href="mybigidea.php">MyBigIdea</a></li>
+        <li><a href="community.php">User Community</a></li>
+        <li><a href="how-can-we-help.php">How Can We Help?</a></li>
+    </ul>    
+    <ul>
+    	<li><a href="resources.php" class="boldlink">Resources</a></li>
+		<li><a href="case_study.php">Case Studies</a></li>
+		<li><a href="whitepapers.php">White Papers</a></li>
+		<li><a href="vidtestimonials.php">Testimonial Videos</a></li>
+		<li><a href="blogs.php">Blogs</a></li>
+		<li><a href="webcasts.php">Webinars</a></li>
+		<li><a href="datasheets.php">Brochures &amp; Datasheets</a></li>
+		<li><a href="flash_request.php">Online Demos</a></li>
+   		<li><a href="glossary.php">Glossary</a></li>
+    </ul>    
+    </div>
+    <div class="tab_panel">
+    <ul>
+    	<li><a href="about.php" class="boldlink">About</a></li>
+		<li><a href="news.php">News &amp; Events Overview</a></li>
+		<li><a href="press_releases.php">Press Releases</a></li>
+		<li><a href="media_analysts.php">Media</a></li>
+		<li><a href="events.php">Events</a></li>
+        <li><a href="awards.php">Awards</a></li>
+        <li><a href="/bigideas/index.html">BigIdeas Chicago</a></li>
+        <li><a href="http://www.bigmachines.de" target="_blank">BigIdeas Europe</a></li>
+        <li><a href="customer-success-forums.php">Customer Success Forums</a></li>
+        <li><a href="newsletter.php">Newsletters</a></li>
+        <li><a href="contact.php">Contact Us</a></li>
+        <li><a href="management_team.php">Management Team</a></li>
+        <li><a href="investors.php">Investors</a></li>
+        <li><a href="board.php">Board of Directors</a></li>
+        <li><a href="industry_board.php">Industry Advisory Board</a></li>
+        <li><a href="partners.php">Partners</a></li>
+        <li><a href="become_partner.php">Become a Partner</a></li>
+        <li><a href="customers.php">Customers</a></li>
+        <li><a href="certifications.php">Accreditations</a></li>
+        <li><a href="careers.php">Careers</a></li>
+        <li><a href="privacy.php">Privacy Policy</a></li>
+    </ul>    
+    </div>    
+    <div class="clear"></div> 
+  </div> 
+  
+<div class="copyright">© Copyright 2011 BigMachines, Inc. All Rights Reserved. Product Configuration, Quoting and Proposal Software. Site by <a href="http://www.biersmacreative.com" target="_blank">Biersma Creative</a></div>
 
-</td>
-    <td width="107" align="left" valign="top"><table width="107" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><img src="/images/pixeltrans.gif" width="100" height="79"></td>
-      </tr>
-      <tr>
-        <td><img src="/images/pixeltrans.gif" width="107" height="21"></td>
-      </tr>
-      <tr>
-        <td><table width="107" border="0" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td colspan="2"><img src="/images/pixeltrans.gif" width="107" height="7"></td>
-            </tr>
-          <tr>
-            <td><img src="/images/pixeltrans.gif" width="8" height="100"></td>
-            <td class="rellinkshover">&nbsp;</td>
-          </tr>
-          <tr>
-            <td>&nbsp;</td>
-            <td><img src="/images/pixeltrans.gif" width="99" height="7"></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td>&nbsp;</td>
-    <td>&nbsp;</td>
-    <td><a href="#" onmouseover="MM_swapImage('Image1','','/images/totop2.gif',1)" onmouseout="MM_swapImgRestore()"><img src="/images/totop.gif" name="Image1" width="38" height="42" border="0" id="Image1"></a></td>
-  </tr>
-</tbody></table>
-<table width="94%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td background="/images/fadebar_bottom.jpg"><table width="726" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="23"><img src="/images/pixeltrans.gif" width="22" height="19"></td>
-        <td width="59" class="hoverwhite"><a href="/company/about_us.htm" class="bottomnav">Company</a></td>
-        <td width="27" align="center"><img src="/images/bottomnav_line.gif" width="27" height="19"></td>
-        <td width="56" class="hoverwhite"><a href="/solutions/overview.htm" class="bottomnav">Solutions</a></td>
-        <td width="27" align="center"><img src="/images/bottomnav_line.gif" width="27" height="19"></td>
-        <td width="53" class="hoverwhite"><a href="/products/lfe_software.htm" class="bottomnav">Products</a></td>
-        <td width="28" align="center"><img src="/images/bottomnav_line.gif" width="27" height="19"></td>
-        <td width="53" class="hoverwhite"><a href="/services/vrp.htm" class="bottomnav">Services</a></td>
-        <td width="28" align="center"><img src="/images/bottomnav_line.gif" width="27" height="19"></td>
-        <td width="50" class="hoverwhite"><a href="/customers/results.htm" class="bottomnav">Customers</a></td>
-        <td width="28" align="center"><img src="/images/bottomnav_line.gif" width="27" height="19"></td>
-        <td width="32" class="hoverwhite"><a href="/news/press_releases.htm" class="bottomnav">News</a></td>
-        <td width="28" align="center"><img src="/images/bottomnav_line.gif" width="27" height="19"></td>
-        <td width="72" class="hoverwhite"><a href="/contact_us/contact_us.htm" class="bottomnav">Contact Us </a></td>
-        <td width="27" valign="middle"><span class="hoverwhite"><img src="/images/bottomnav_line.gif" width="27" height="19" border="0" align="top"></span></td>
-        <td width="72" valign="middle"><span class="hoverwhite"><a href="/sitemap.htm" class="bottomnav">Site Map</a></span></td>
-        <td width="27" valign="middle"><span class="hoverwhite"><img src="/images/bottomnav_line.gif" width="27" height="19" border="0" align="top"></span></td>
-        <td width="62" valign="middle"><span class="hoverwhite"><a href="glossary.htm" class="bottomnav">Glossary</a></span></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td><img src="/images/pixeltrans.gif" width="100" height="12"></td>
-  </tr>
-  <tr>
-    <td><table width="656" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td width="56"><img src="/images/pixeltrans.gif" width="22" height="19"></td>
-        <td width="171" valign="top" class="telnumbers">Tel. Corporate: (847) 572-0300</td>
-        <td width="27" align="center" valign="top"><img src="/images/copyright_line.gif" width="27" height="19"></td>
-        <td width="231" valign="top" class="telnumbers">Tel. Sales North America: (800) 586-0942<br>Tel. Sales Europe: +49 (811) 9967-0</td>
-        <td width="28" align="center" valign="top"><img src="/images/copyright_line.gif" width="27" height="19"></td>
-        <td width="143" valign="top" class="emailhover"><a href="mailto:inquiry@bigmachines.com" class="telnumbers">inquiry@bigmachines.com</a></td>
-        </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td class="spotsplain"> <div align="center" class="telnumbers">
-      <div align="left">
-          <p align="center"><br>
-          © Copyright 2005-06 BigMachines, Inc. &nbsp;&nbsp;The Lean-Front End - <em><a href="/products/configurator.htm" class="telnumbers" title="Product Configurator">Configuration</a> and <a href="/products/proposal_generation.htm" class="telnumbers" title="Product Configurator - Proposal Sofwtare">Proposal Software</a></em>. &nbsp;&nbsp;All Rights Reserved. <a href="http://www.bigmachines.de"><img src="images/GermanFlag.jpg" alt="BigMachines German Website" width="25" height="17" border="0" align="absmiddle"></a><br> 
-          <a href="/privacy.htm"><u>Privacy</u></a></p>
-        </div>
-    </div></td>
-  </tr>
-</tbody></table>
-<map name="Map">
-  <area shape="rect" coords="18,96,203,113" href="#">
-</map>
+</div>
 
+<!-- Begin Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
+<!-- End Salesforce Tracking Code, Place immediately before closing </BODY> tag -->
+
+<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+<script>mktoMunchkin("141-NME-520");</script>
 
 </body></html>
