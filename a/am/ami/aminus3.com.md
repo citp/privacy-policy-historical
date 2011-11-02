@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503141716id_/http%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102193529id_/http%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Aminus3 Photoblog Community
 
-Last updated: 7 June, 2008
+Last updated: 7 June, 2011
 
 **Aminus3 respects your privacy.** This Privacy Policy applies to the Aminus3.com website (“Aminus3”) which includes all subdomains of Aminus3. This Privacy Policy explains what information we collect on Aminus3 and how we use that information. By using Aminus3, you consent to the terms & conditions of this Privacy Policy.
 
@@ -29,6 +29,8 @@ When you sign up for an account on Aminus3 you are asked to enter your real name
 In order to provide a consistent experience on Aminus3, we use browser "cookies" to track your identity as a member of Aminus3. A cookie is a small file that is transferred to your computer from Aminus3 that contains information related to your account. The main purpose of the cookie is to allow you to browse Aminus3 without entering your email and password repeatedly. In a similar way cookies are used to retain information when you post a comment as a convenience to avoid having to enter the same information the next time.
 
 Some third parties may place cookies or web beacons on Aminus3 to track traffic or advertisement data. This recording of data is done anonymously and is not linked to, and does not track, any personally identifiable information about users of Aminus3.
+
+You are free to delete or block cookies from Aminus3 at any time however, some basic site functions may not work as expected.
 
 ## How We Use the Information We Collect
 
