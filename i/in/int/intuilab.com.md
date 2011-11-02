@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intuilab.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017130628id_/http%3A//www.intuilab.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intuilab.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102055626id_/http%3A//www.intuilab.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IntuiLab
 
