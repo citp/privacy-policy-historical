@@ -1,16 +1,26 @@
-<!--The following is the downloaded HTML source of the crowdcontent.com privacy policy that was archived on 2011-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110625172125id_/http%3A//www.crowdcontent.com/client/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crowdcontent.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102135311id_/http%3A//www.crowdcontent.com/client/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="pragma" content="no-cache">
+<!--<meta http-equiv="pragma" content="no-cache">-->
 <link rel="shortcut icon" href="/images/favicon.ico"> 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Custom Content on Demand - Crowdcontent</title>
+
+<!-- Load jQuery -->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		google.load("jquery", "1");
+	</script>
+
 <link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/crowd-template.css">
 <link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/custom-template.css">
 <link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/css/buttons.css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/javascript/global.js"></script> 
-<script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/javascript/jquery-1.4.4.js"></script> 
+<link type="text/css" rel="stylesheet" href="http://www.crowdcontent.com/facebox/facebox.css">
+<script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/javascript/global.js"></script>
+
+
+<script language="javascript" type="text/javascript" src="http://www.crowdcontent.com/facebox/facebox.js"></script> 
 
 <script type="text/javascript">
 
@@ -26,9 +36,58 @@
 
 </script>
 
+<script type="text/javascript">
+	var timeout         = 500;
+	var closetimer		= 0;
+	var ddmenuitem      = 0;
+
+	function jsddm_open()
+	{	jsddm_canceltimer();
+		jsddm_close();
+		ddmenuitem = $(this).find('ul').eq(0).css('visibility', 'visible');}
+
+	function jsddm_close()
+	{	if(ddmenuitem) ddmenuitem.css('visibility', 'hidden');}
+
+	function jsddm_timer()
+	{	closetimer = window.setTimeout(jsddm_close, timeout);}
+
+	function jsddm_canceltimer()
+	{	if(closetimer)
+		{	window.clearTimeout(closetimer);
+			closetimer = null;}}
+
+	$(document).ready(function()
+	{	$('#jsddm > li').bind('mouseover', jsddm_open);
+		$('#jsddm > li').bind('mouseout',  jsddm_timer);});
+
+	document.onclick = jsddm_close;
+	</script>
+
+<script type="text/javascript">
+					jQuery(document).ready(function($) {
+						$("a[rel*=facebox]").facebox();
+						
+					}) 
+					
+					function CloseFacebox() { 
+					  jQuery(document).trigger('close.facebox'); 
+				   } 
+					
+					</script>
+
+
+
 </head>
 
 <body id="body">
+
+<div id="popup-confirmation" style="display:none;">
+						
+	
+						
+</div>					
+
 
 
 <!--[if !IE]>main<![endif]-->
@@ -68,12 +127,11 @@
                             
                             	<!--[if !IE]>navigation<![endif]-->
                                     <div id="navigation">
-                                    	<ul>
-                                        	
-                                            <li><a href="/"><span>Home</span></a></li>
-<li><a href="/solutions.php"><span>Solutions</span></a></li><li><a href="/howitwork.php"><span>How It Works</span></a></li><li><a href="/aboutus.php"><span>About Us</span></a></li><li><a href="/pricing.php"><span>Pricing</span></a></li><li><a href="/signup.php"><span><strong>Sign Up</strong></span></a></li>                                            
-                                            
-                                        </ul>
+                                    
+										<ul>
+	<li><a href="/"><span>Home</span></a></li>
+<li><a href="/solutions.php"><span>Solutions</span></a></li><li><a href="/howitwork.php"><span>How It Works</span></a></li><li><a href="/aboutus.php"><span>About Us</span></a></li><li><a href="/pricing.php"><span>Pricing</span></a></li><li><a href="/signup.php"><span><strong>Sign Up</strong></span></a></li></ul>
+	
                                     
                                     </div>
                                 <!--[if !IE]>navigation<![endif]-->
@@ -83,6 +141,7 @@
                     
             </div>
         <!--[if !IE]>header<![endif]-->
+
 			<!--[if !IE]>content-area<![endif]-->
                   <div id="content-area">
                   
@@ -105,8 +164,6 @@
                                                 
                                                 <!--[if !IE]>page-content<![endif]-->
                                                      <div id="client-content">
-                                                     
-														
 <div class="text-box">
 <p>
 	CrowdContent.com is committed to protecting the privacy of visitors to our websites, as well as our members and partners. CrowdContent.com has established this Privacy Policy to explain what information we collect through these websites and how it is used. 
@@ -114,7 +171,9 @@
 <p>
 	In this policy, "CrowdContent.com" refers to staff, board members, cooperating attorneys, interns, volunteers, and consultants of CrowdContent.com, all of whom are bound by law or contract to keep information they receive as part of their work for CrowdContent.com confidential. 
 </p>
-
+<p>
+	CrowdContent.com does not sell or rent personally identifiable member, customer or employee information under any circumstances, and we do not share information without prior consent except as compelled by law. (See discussion below.) 
+</p>
 <p>
 <strong>Information Gathered by CrowdContent.com Site</strong>
 <br>
@@ -145,15 +204,6 @@ We may run surveys, contests, or similar activities through this site. Such info
 </p>
 <p>
 We look at technical information to diagnose problems with our server and to administer the CrowdContent.com site. 
-</p>
-<p>
-If you choose to provide information to us through our online registration, you may be asked to provide your personal information that may include your name, address, telephone number, e-mail address, and other identifying information. We may share the personal information which you provide with our third party processing agents, affiliates and advertisers.
-</p>
-<p>
-We may use the personal information which you provide to send you information, either online or offline, via email, direct mail, SMS text messaging and telemarketing, regarding products or services offered by third-party advertisers. In addition, we reserve the right to rent, sell or share the personal information which you provide with unaffiliated third-parties; these third-parties may use this information for online and offline marketing purposes.
-</p>
-<p>
-By signing up on our website and providing your personal information you are expressly consenting to receive communications from us and from anyone that we may provide your personal information. In addition, you expressly consent to be contacted in any manner including via email, direct mail, telephone or SMS text messaging, even if your information is listed on the US National Do Not Call registry or a similar registry. If you do not agree to these terms than do not use our site.
 </p>
 <p>
 <strong>Third-Party Service Providers</strong>
@@ -208,9 +258,7 @@ This Privacy Policy is based extensively on that of the Electronic Frontier Foun
 </p>
 </div>
 
-								
-
-						</div>
+</div>
 					</div>
 						
 				</div>
@@ -254,116 +302,6 @@ This Privacy Policy is based extensively on that of the Electronic Frontier Foun
             
     </div>
 <!--[if !IE]>main<![endif]-->
-
-<div id="fade" class="fade" style="display:none;"></div>
-
-
-<div id="popup_debt" class="popup" name="popup" style="display:none;">
-
-<div style="text-align:right;height: 60px;">
-	<div style="float: left;"><h1>A Three Step Plan to Getting Out of Debt</h1></div>
-	<div style="padding: 30px 10px 0px 0px;">
-		<div class="button gray small"><a href="#" onclick="javascript:closePopup( 'popup_debt' );">Close</a></div>
-	</div>
-</div>
-<div class="text">
-
-<p>
-Looking for a way to get out of debt and establish a healthier financial lifestyle is a situation more and more people are finding themselves in. Though it is a hard and sometimes long road, it is possible to get out of debt and become debt free. Many are confused and don’t know where to start, but the steps are simple and easy to follow. Following these outlined steps can set all on the path to financial freedom. 
-</p>
-<p>
-Stop adding to current debts. This is the easiest solution to debt and can be accomplished within a day. As obvious as it may seem, this solution is often overlooked by many. Individuals will begin on a journey to reduce the debt that they already have but never stop adding to; thinking of the older debts as the issue and not the fact that it is being consistently added to as an issue as well. Though it can be tough it’s important to take a no non-sense approach and not make excuses. 
-</p>
-<p>
-A simple solution is to stop using all forms of credit, from credit cards to financing. Also remember this step goes beyond these ways of accumulating debt, consider any recurring monthly payments as debts also. From the un-used gym membership to the online-gaming subscription, if it’s not considered a necessity within day to day life its probably a contributing factor to the current financial situation.
-</p>
-<p>
-Consider establishing an emergency fund. For many individuals the reason why they have acquired so much debt and found themselves in this situation is not always because of frivolous spending, but often times due to crisis. Being able to properly deal with and handle unexpected expenses is a key component to getting out of debt and establishing a debt-free lifestyle. The easiest solution is to save, save, and save. Saving money and using it as a means to handle situations rather than relying on a credit card is a smarter financial decision. 
-</p>
-<p>
-It’s important to be realistic that a nest egg is not going to go from $0 to $10,000 in one day, but rather that it is a gradual process. Once an ideal amount of emergency cash has been saved, somewhere around $1,000, close those credit card accounts that were once relied on. This savings should only to be used in the case of an emergency, not for that new sweater or vacation that you have been planning. Saving and keeping this money apart from other living expenses is a small part of a larger picture to reducing debt. 
-</p>
-<p>
-Consider establishing a snowball plan. The full benefits received from establishing a snowball plan may take some time to be highlighted, but they are definitely worth the time and effort it takes to implement this plan. In a nutshell, a snowball plan requires an individual to pay of their largest debts first and gradually make their way down the list toward the smaller debts. Once an individual has started their journey to get out of debt and has stopped added to their debt is when it is time to start this plan. Establishing and maintaining a snowball plan requires diligence on the part of the payee. Begin by paying the debts with the highest interest rates first. Eliminating those debts that cost the most to own (through interest) will save money in the end and allow the individual to get out of debt faster. It’s important to remember that paying small debts first is not always the most efficient way when trying to repair a failed financial situation.
-</p>
-</div>
-
-</div>
-
-
-
-<div id="popup_slim" class="popup" name="popup" style="display:none;">
-
-<div style="text-align:right;height: 60px;">
-	<div style="float: left;"><h1>Get Slim with Wholesome Organic Foods</h1></div>
-	<div style="padding: 30px 10px 0px 0px;">
-		<div class="button gray small"><a href="#" onclick="javascript:closePopup( 'popup_slim' );">Close</a></div>
-	</div>
-</div>
-<div class="text">
-
-<p>
-Eating organic foods may seem like the newest health craze. Others may feel it is just a way for someone to sell you more expensive food. To me, this is not the case. Eating organic can be a great way for you to slim down. If you are like me, then you could stand to drop a few pounds. These organic foods are healthier, more nutritious, and will give you more energy which will allow you to easily shed weight. You will find that an organic diet will be able to make you feel better, provide you with long-lasting energy, and is more delicious than inorganic foods. 
-</p>
-<p>
-Organic foods have been proven to help you lose weight by providing you with real sustenance. Organic foods do not have any toxins, antibiotics, preservatives, or artificial flavors added to them. This will ensure that your digestive system is clean and will use nutrients efficiently. Many people do not know that eating processed foods will eventually clog your colon with toxins that are not easily flushed out. Organic foods can help eliminate this problem by providing untainted nutritious food. 
-</p>
-<p>
-Food that comes from an organic source will give you more energy. It is proven that foods that are grown organically have a better taste. Foods that are grown organically also contain higher levels of vitamin C, iron, zinc, antioxidants, flavanoids, carotenoids, and other minerals. Organic foods will give you more energy and keep you healthy. 
-</p>
-<p>
-There are a variety of reasons why you should make the transformation to organic foods. These foods are able to provide you with an abundance of energy and will help you get fit. IN addition, organic foods tend to be fresher since they are not shipped from far away. Most organic foods will be produced your local community and take less time to reach you in the grocery store. 
-</p>
-<p>
-Organic foods are a great way to help you lose weight. If you are looking to get slim with wholesome organic foods, you should make the switch as soon as possible in order to reap the benefits.
-
-</p>
-</div>
-
-</div>
-
-
-<div id="popup_cake" class="popup" name="popup" style="display:none;">
-
-<div style="text-align:right;height: 60px;">
-	<div style="float: left;"><h1>Choosing a Winning Wedding Cake </h1></div>
-	<div style="padding: 30px 10px 0px 0px;">
-		<div class="button gray small"><a href="#" onclick="javascript:closePopup( 'popup_cake' );">Close</a></div>
-	</div>
-</div>
-<div class="text">
-
-<p>
-One wedding tradition that happily crosses almost all cultural and religious boundaries is the gorgeous wedding cake. As far as the food goes, it is the center of attention. It’s likely to play a large part in your memories of the occasion, too, so it’s important to pick just the right cake for you.
-</p>
-<p>
-Let’s explore some factors you might want to consider.
-</p>
-<p>
-The date and location of your wedding might limit your cake choices. For example, if you’re having an outdoor wedding in the heat of summer, you’ll have to avoid ice cream cakes or anything like mousse. You’ll need to choose something appropriate to the season. Your baker can help.
-</p>
-<p>
-The number of guests expected at your reception is another big factor. You want to have enough cake for all the guests and not too much extra. Again, your baker can help determine the correct size cake once he knows the guest list length.
-</p>
-<p>
-You could even get fancy with the shape of your wedding cake, but be aware that a traditional round or square design will cut faster and feed more people than more exotic shapes.
-</p>
-<p>
-You might have a favorite flavor or cater to the differing tastes of your guests by having a cake of many flavors. This is easy with a traditional tiered wedding cake. White cake, chocolate cake, carrot cake, banana cake . . . whatever flavor you like can be made into a wedding cake!
-</p>
-<p>
-Then, of course, there’s the icing. Although traditionally white or light cream color, today many brides are instead matching the wedding cake icing to the color theme of the wedding.
-</p>
-<p>
-And finally a wedding cake usually contains decorations. This can range from the old-fashioned and simple wedding couple on top, to an elaborate landscape of flowers, bridges and streams. Your budget and cake size are the only restrictions!
-</p>
-<p>
-Your wedding cake is a work of art. It will be a centerpiece of your reception, a beautiful picture in your wedding album, and a happy memory of your blissful day. Take some time to make it your own. 
-
-</p>
-</div>
-
-</div>
 
 
 
