@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediacomcc.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624071646id_/http%3A//www.mediacomcc.com/legal_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediacomcc.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102061012id_/http%3A//www.mediacomcc.com/legal_privacy.html) for the most accurate reproduction.*
 
 # Mediacom | Privacy Policy
 
