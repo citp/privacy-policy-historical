@@ -1,19 +1,88 @@
-> *The following text is extracted and transformed from the petvalu.com privacy policy that was archived on 2003-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030210191850id_/http%3A//www.petvalu.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petvalu.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012950id_/http%3A//www.petvalu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Policy | Canada
 
-We respect the privacy of all visitors who access and use our website (the "Site"). Pet Valu, Inc., its affiliates and subsidiaries (collectively "Pet Valu") only gathers personally identifiable information regarding visitors to the Site (such as names, street addresses, phone or fax numbers, email addresses, etc) when a visitor voluntarily submits such information to Pet Valu. Except (a) when we need to share such information with companies that work on behalf of Pet Valu (as where a visitor to the Site requests to receive information on Pet Valu special offers), (b) when transmission of such information is reasonably necessary to preserve the integrity or security of the Site or to prevent injury to Pet Valu or (c) when disclosure is required by law (as in response to a subpoena or governmental investigation), such personally identifiable information, when it is so voluntarily submitted, is **_not_** provided, transferred or otherwise disseminated to third parties outside of Pet Valu. Such personally identifiable information, when voluntarily submitted by a visitor to the Site, never is sold or rented to third parties outside of Pet Valu. 
+### Company Privacy Policy
 
-Pet Valu does not knowingly collect personally identifiable information from children under the age of 13. If Pet Valu nonetheless discovers that it has received personally identifiable information from an individual who is (or who Pet Valu has reason to believe is) under the age of 13, Pet Valu will delete such information from its systems. 
+Pet Valu Canada Inc. and its Canadian affiliates, Peton Distributors Inc., Paulmac's Pet Food Inc. and Your Petschoice Inc. (collectively the "PET VALU Group"), recognize the importance of privacy and the sensitivity of personal information. We are committed to protecting the privacy, confidentiality, accuracy and security of the personal information we hold. This Privacy Policy outlines how we manage your personal information and safeguard your privacy.
 
-Pet Valu does **_not_** make use of "cookies" on the Site. 
+#### What is "personal information"?
 
-If you are interested in a job with Pet Valu and you choose to send your resume to us by mail or email, we will maintain and use the information contained in your resume for recruiting purposes only. 
+Personal information is any information that identifies you, or by which your identity could be deduced. Personal information includes, without limitation, a person's name, address, telephone number, age, gender, family and marital status, credit rating, credit card information, identification numbers (e.g. driver's license number) assets and liabilities.
 
-If you request information regarding Pet Valu franchise opportunities and, in so doing, voluntarily provide information about yourself by mail or email, we will maintain and use such information for franchising purposes only. 
+#### Why do we collect personal information from you?
 
-To change your election to receive information regarding special offers, please notify us via our _Contact Us_ page. 
+We collect personal information to:
 
-Pet Valu reserves the right to modify this "Privacy Statement" at any time (such modifications will be applied on a prospective basis only). We encourage you to check this page from time to time for any modifications/updates. 
+  * process retail transactions in the ordinary course of our business;
+  * respond to questions concerning our products and services;
+  * provide customers with information about our marketing and promotional activities and advise them of new products and offers;
+  * administer promotional contests;
+  * provide prospective franchisees with information about our franchise system;
+  * qualify prospective franchisees as eligible franchise candidates; and
+  * provide operators within our franchise system with access to third party group benefit providers.
 
-If you have any questions regarding this "Privacy Statement", please let us know via our _Contact Us_ page. 
+
+
+#### How do we collect your personal information?
+
+We collect information only by lawful and fair means and not indiscriminately. We do not collect, use or disclose your personal information without your consent, except where authorized or required by law. We do not sell your personal information.
+
+#### Consent
+
+Consent for the collection, use and/or disclosure of personal information may be obtained orally or in writing and may be expressly given or implied. In determining how we obtain your consent, we will take into account the sensitivity of the personal information about you that we are collecting, using and/or disclosing.
+
+#### Use of Information
+
+When we use your personal information to include you in any of our direct marketing activities, we will assume that you have consented to such on going use unless you specifically advise otherwise. If you tell us that you no longer wish to receive information about our goods or services, we will not use your personal information to send you any further material. To let us know that you no longer wish to receive information about our services and products, please contact us at:
+
+PET VALU GROUP PRIVACY OFFICER 7300 Warden Ave, Suite 106 Markham, Ontario L3R 9Z6 (905) 946-1200
+
+#### Updating Your Information
+
+Since we use your personal information to provide services to you, it is important that the information be accurate and up-to-date. If, during the course of our relationship with you, any of your information changes, please inform us so that we can continue to provide you with our services.
+
+#### Is my personal information secure?
+
+The PET VALU Group takes all reasonable precautions to ensure that your personal information is kept safe from loss, unauthorized access, modification or disclosure. Only authorized personnel have access to your information. We retain your information only as long as is required for the purpose for which it was collected and for any legal or regulatory requirements. The steps taken to protect your information include:
+
+  * premises security;
+  * restricted access to personal information stored electronically;
+  * technological safeguards like security software encryption and firewalls to prevent hacking or unauthorized computer access;
+  * internal password and security policies; and
+  * confidentiality agreements applicable to all employees who have access to personal information collected by the PET VALU Group.
+
+
+
+#### Access to Your Personal Information
+
+You may ask for access to any personal information we hold about you.Summary information is available upon request. More detailed requests that require archival or other retrieval costs may be subject to a minimal fee to recoup the costs involved.
+
+#### Correcting Errors
+
+If the PET VALU Group holds information about you and if you can establish that it is not accurate, complete and up-to-date, the PET VALU Group will take reasonable steps to correct or eliminate such information as appropriate.
+
+#### Can I be denied access to my personal information?
+
+Your rights to access your personal information are not absolute.
+
+We may deny access when:
+
+  * denial of access is required or authorized by law;
+  * granting you access would have an unreasonable impact on other people's privacy;
+  * denial of access is reasonable to protect our business' property rights; or
+  * the request is clearly unreasonable or frivolous.
+
+
+
+If we deny your request for access to, or refuse a request to correct information, we shall explain why.
+
+#### How long do we keep your personal information?
+
+We keep your personal information as long as it is reasonably necessary for us to complete our dealings with you, or as may be required by law, whichever is longer.
+
+#### Changes to this Privacy Policy
+
+Since the PET VALU Group regularly reviews all of its policies and procedures, we may change our Privacy Policy from time to time without prior notice. Please direct your privacy questions comments or requests to:
+
+PET VALU GROUP PRIVACY OFFICER 7300 Warden Ave, Suite 106 Markham, Ontario L3R 9Z6 (905) 946-1200
