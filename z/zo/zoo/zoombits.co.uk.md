@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoombits.co.uk privacy policy that was archived on 2010-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100815054559id_/http%3A//www.zoombits.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombits.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102030903id_/http%3A//www.zoombits.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
