@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the localschooldirectory.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131194753id_/http%3A//www.localschooldirectory.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localschooldirectory.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013450id_/http%3A//www.localschooldirectory.com/privacy.php) for the most accurate reproduction.*
 
-# Public Schools & Private Schools - Local School Directory
+# LocalSchoolDirectory.com Privacy Policy
 
-We can be reached via e-mail at admin@localschooldirectory.com
+We can be reached via a contact form by [clicking here](http://www.localschooldirectory.com/contact_us.php).
 
 For each visitor to our Web page, our Web server does not recognize information regarding the domain or e-mail address. We collect the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, and fax number. The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, and used to notify consumers about updates to our Web site.
 
@@ -17,7 +17,3 @@ From time to time, we make our customer e-mail list available to other reputable
 Upon request we provide site visitors with access to communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them, and a description of information that we maintain about them. Consumers can access this information by e-mailing us at the above address.
 
 Upon request we offer visitors the ability to have inaccuracies corrected within the contact information and communications that the consumer/visitor has directed to the site. Consumers can have this information corrected by sending us an e-mail at the above address. With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
-
-If you feel that this site is not following its stated information policy, you may contact us at the above e-mail address.
-
-### States, Districts & Cities
