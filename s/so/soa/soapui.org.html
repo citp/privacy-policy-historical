@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the soapui.org privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510082623id_/http%3A//www.eviware.com/Store-Info/eviware-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the soapui.org privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102070541id_/http%3A//www.eviware.com/Store-Info/eviware-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
   <base href="http://www.eviware.com/Store-Info/eviware-privacy-policy.html">
@@ -10,7 +10,7 @@
   <meta name="author" content="Administrator">
   <meta name="description" content="Eviware, the maker of soapUI, Web Service Testing Leader">
   
-  <title>Privacy Policy - eviware | Store Info</title>
+  <title>Privacy | Store Info</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <link rel="stylesheet" href="http://www.eviware.com/components/com_tag/css/tagcloud.css" type="text/css">
   <link rel="stylesheet" href="/plugins/content/syntaxhighlighter/styles/shCore.css" type="text/css">
@@ -86,18 +86,39 @@ google.load('search', '1.0', {nocss: true});
     
     <link href="/templates/eviware/css/anythingslider.css" rel="stylesheet" type="text/css">
     
+        <!--[if IE]>
+		<style type="text/css">
+			#tabbar{
+				background:url(/templates/eviware/images/tabbar-fallback-gradient.png) repeat-x;
+			}
+			.tabbar-inner ul li{
+				background:url(/templates/eviware/images/tabs-fallback-gradient.png) repeat-x;
+			}
+			.tabbar-inner ul li.active{
+				background:url(/templates/eviware/images/tab-active-fallback-gradient.png) repeat-x;
+			}
+		</style>
+	<![endif]-->
+	
+	<!--[if lte IE 7]>
+		<style type="text/css">
+			.tabbar-inner ul li {
+				float:left;
+			}
+			.tabbar-inner .close-tabbar a{
+				float:right;
+			}
+		</style>
+	<![endif]-->
 
 	<!--[if lt IE 7]>
     <style type="text/css">
 	img, div { behavior: url(/templates/eviware/css/iepngfix.htc); }
     </style>
     <link href="/templates/eviware/css/template-ie6.css" rel="stylesheet" type="text/css" />
-	
     <![endif]-->
-    
-    
 
-    <script type="text/javascript" src="/templates/eviware/js/jquery-1.3.2.min.js"></script>
+    <script type="text/javascript" src="/templates/eviware/js/jquery-1.4.4.min.js"></script>
     <script type="text/javascript" src="/templates/eviware/js/jquery.delay-event.js"></script>
     
     <script type="text/javascript" src="/templates/eviware/js/jquery.anythingslider.js"></script>
@@ -116,24 +137,30 @@ google.load('search', '1.0', {nocss: true});
 <script type="text/javascript" src="/templates/eviware/js/ie_suckerfish.js"></script>
 <![endif]-->
 	
-		<noscript>
-		<META HTTP-EQUIV="Refresh" CONTENT="1;URL=index.php?js=off">
-	</noscript>
 		<!-- enable compatible mode for IE8 browser -->
     <meta http-equiv="X-UA-Compatible" content="IE=7">
 	
 	<script type="text/javascript">
 
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-92447-4']);
-	  _gaq.push(['_trackPageview']);
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-92447-4']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_setAllowHash', false]);
+	_gaq.push(['_trackPageview']);
 
-	  (function() {
+	_gaq.push(['t2._setAccount', 'UA-92447-11']);
+	_gaq.push(['t2._setDomainName', 'none']);
+	_gaq.push(['t2._setAllowLinker', true]);
+        _gaq.push(['t2._setAllowHash', false]);
+	_gaq.push(['t2._trackPageview']);
+	
+	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-
+	})();
+	
 	</script>
 	
 
@@ -144,21 +171,39 @@ google.load('search', '1.0', {nocss: true});
   }
 </script>
 
-	<meta http-equiv="Content-Language" content="en"></head>
+
+<meta http-equiv="Content-Language" content="en"></head>
 
 <body>
+
+	<div id="tabbar">
+	  <div class="tabbar-inner">
+		<ul>
+		  <li><a class="soapui" onclick="_gaq.push(['t2._trackEvent', 'Tab-Clicks', 'eviware-Site', 'soapUI-Org']);" href="http://www.soapui.org">soapui.org</a></li>
+		  <li><a class="loadui" onclick="_gaq.push(['t2._trackEvent', 'Tab-Clicks', 'eviware-Site', 'loadUI-Org']);" href="http://www.loadui.org">loadui.org</a></li>
+		  <li class="active"><span class="eviware">eviware.com</span></li>
+		  <li><a class="forum" onclick="_gaq.push(['t2._trackEvent', 'Tab-Clicks', 'eviware-Site', 'Forum']);" href="http://www.eviware.com/forum">Forum</a></li>
+                  <li><a class="smartbear" onclick="_gaq.push(['t2._trackEvent', 'Tab-Clicks', 'eviware-Site', 'SmartBear-Com']);" href="http://www.eviware.com/html/smartbear-com">smartbear.com</a></li>
+	  </ul>
+		  <!--<div class="close-tabbar">
+			<a class="close-tabbar-button" href="javascript:void;"><img src="/templates/eviware/images/close-tabbar-icon.png" width="16" height="16" alt="Close tab bar" /></a>
+			<a href="javascript:void;">Close tab bar</a>
+		  </div>-->
+	  </div>
+	</div>
+
 	<div id="template" class="wrapper">
     
 		<div id="header">
 				
 							
 								<div id="logo">
-					<a href="/"><img src="/templates/eviware/images/logo.png" alt="eviware"></a>
+					<a rel="Go to eviware.com" href="/"><img onclick="_gaq.push(['_trackPageview', 'trackerfrontpage/headerlogo']);" src="/templates/eviware/images/logo.png" alt="eviware"></a>
 				</div>
 												
 										
 			<div id="support-menu">					
-				<ul id="mainlevel"><li><img src="/images/stories/icon-forum.gif" border="0" alt="Forum"> <a href="http://www.eviware.com/forum" target="_blank" class="mainlevel">Forum</a></li><li><img src="/images/stories/icon-contact.gif" border="0" alt="Contact Us"> <a href="/Contact-Us/eviware-software-ab.html" class="mainlevel">Contact Us</a></li><li><img src="/images/stories/icon-sitemap.gif" border="0" alt="Sitemap"> <a href="/Sitemap.html" class="mainlevel">Sitemap</a></li></ul>				
+				<ul id="mainlevel"><li><img src="/images/stories/icon-forum.gif" border="0" alt="Forum"> <a href="http://www.eviware.com/forum" onclick="_gaq.push(['_trackPageview', 'trackerfrontpage/forumtopmenu']);" target="_blank" class="mainlevel">Forum</a></li><li><img src="/images/stories/icon-contact.gif" border="0" alt="Contact Us"> <a href="/Contact-Us/eviware-software-ab.html" class="mainlevel">Contact Us</a></li><li><img src="/images/stories/icon-sitemap.gif" border="0" alt="Sitemap"> <a href="/Sitemap.html" class="mainlevel">Sitemap</a></li></ul>				
 			</div>								
 		</div>
         
@@ -223,7 +268,7 @@ google.load('search', '1.0', {nocss: true});
 </form>
 				</div>
 						 <!--MAIN NAVIGATION-->
-			<ul class="menutop"><li class="item1"><a href="http://www.eviware.com/"><span>Home</span></a></li><li class="parent item52"><a class="topdaddy"><span>News</span></a><ul><li class="parent item71"><a href="/Eviware-News/" class="daddy"><span>eviware</span></a></li><li class="parent item90"><a href="/soapUI-News/" class="daddy"><span>soapUI</span></a></li><li class="parent item151"><a href="/loadUI-News/" class="daddy"><span>loadUI</span></a></li></ul></li><li class="parent item53"><a class="topdaddy"><span>Products</span></a><ul><li class="parent item54"><a href="/soapUI/soapui-overview.html" class="daddy"><span>soapUI</span></a></li><li class="parent item99"><a href="/soapUI-Plugins/soapui-plugins.html" class="daddy"><span>soapUI Plugins</span></a></li><li class="parent item153"><a href="/loadUI/whats-new.html" class="daddy"><span>loadUI</span></a></li></ul></li><li class="parent item60"><a class="topdaddy"><span>Support</span></a><ul><li class="parent item133"><a href="/Support/support-overview-place.html" class="daddy"><span>Eviware Support</span></a></li><li class="item61"><a href="http://www.eviware.com/forum" target="_blank"><span>Forum</span></a></li><li class="parent item62"><a href="/White-papers/white-papers-place.html" class="daddy"><span>White Papers</span></a></li><li class="parent item63"><a href="/FAQs/faqs-place.html" class="daddy"><span>FAQs</span></a></li></ul></li><li class="parent item57"><a class="topdaddy"><span>Store</span></a><ul><li class="parent item58"><a href="/Store-Info/eviware-store.html" class="daddy"><span>eviware Store</span></a></li><li class="parent item59"><a href="/Store-Info/pricing-and-volume-place.html" class="daddy"><span>Pricing and Volume Discounts</span></a></li></ul></li><li class="parent item107"><a class="topdaddy"><span>Downloads</span></a><ul><li class="parent item108"><a href="/Download-soapUI/download-soapuipro.html" class="daddy"><span>Download soapUI Pro</span></a></li><li class="parent item109"><a href="/Nightly-Builds/soapuipro-nightly-builds.html" class="daddy"><span>Nightly Builds</span></a></li><li class="item150"><a href="/Download-soapUI-Trial.html"><span>Download soapUI Trial</span></a></li><li class="item159"><a href="http://sourceforge.net/projects/soapui/files/" target="_blank"><span>Download soapUI</span></a></li><li class="item161"><a href="http://sourceforge.net/projects/loadui/files/" target="_blank"><span>Download loadUI</span></a></li></ul></li><li class="parent item68"><a class="topdaddy"><span>Company</span></a><ul><li class="parent item70"><a href="/About-Us/about-eviware-over.html" class="daddy"><span>About Us</span></a></li><li class="parent item141"><a href="/Partners/partners-place.html" class="daddy"><span>Partners</span></a></li><li class="parent item143"><a href="/Customers/customers-place.html" class="daddy"><span>Customers</span></a></li><li class="parent item166"><a href="/Contact/contact-eviware-place.html" class="daddy"><span>Contact Us</span></a></li><li class="parent item187"><a href="/Jobs/eviware-jobs.html" class="daddy"><span>Jobs</span></a></li></ul></li><li class="parent item66"><a class="topdaddy"><span>Open Source</span></a><ul><li class="item67"><a href="http://www.soapui.org"><span>soapUI</span></a></li><li class="item122"><a href="http://www.loadui.org"><span>loadUI</span></a></li></ul></li></ul>			
+			<ul class="menutop"><li class="item1"><a href="http://eviware.com/"><span>Home</span></a></li><li class="parent item52"><a class="topdaddy"><span>News</span></a><ul><li class="parent item71"><a href="/Eviware-News/" class="daddy"><span>SmartBear</span></a></li><li class="parent item90"><a href="/soapUI-News/" class="daddy"><span>soapUI</span></a></li><li class="parent item151"><a href="/loadUI-News/" class="daddy"><span>loadUI</span></a></li></ul></li><li class="parent item53"><a class="topdaddy"><span>Products</span></a><ul><li class="parent item54"><a href="/soapUI/soapui-overview.html" class="daddy"><span>soapUI</span></a></li><li class="parent item99"><a href="/soapUI-Plugins/soapui-plugins.html" class="daddy"><span>soapUI Plugins</span></a></li><li class="parent item153"><a href="/loadUI/whats-new-in-loadui-15.html" class="daddy"><span>loadUI</span></a></li><li class="parent item198"><a href="/SmartBear-products/smartbear-products.html" class="daddy"><span>SmartBear Products</span></a></li></ul></li><li class="parent item60"><a class="topdaddy"><span>Support</span></a><ul><li class="parent item133"><a href="/Support/support-overview-place.html" class="daddy"><span>Support</span></a></li><li class="item61"><a href="http://www.eviware.com/forum" onclick="_gaq.push(['_trackPageview', 'trackerfrontpage/forummenu']);" target="_blank"><span>Forum</span></a></li><li class="parent item62"><a href="/White-papers/white-papers-place.html" class="daddy"><span>White Papers</span></a></li><li class="parent item63"><a href="/FAQs/faqs-place.html" class="daddy"><span>FAQs</span></a></li></ul></li><li class="parent item57"><a class="topdaddy"><span>Store</span></a><ul><li class="parent item58"><a href="/Store-Info/eviware-store.html" class="daddy"><span>Store</span></a></li></ul></li><li class="parent item107"><a class="topdaddy"><span>Downloads</span></a><ul><li class="parent item108"><a href="/Download-soapUI/download-soapuipro.html" class="daddy"><span>Download soapUI Pro</span></a></li><li class="parent item109"><a href="/Nightly-Builds/soapuipro-nightly-builds.html" class="daddy"><span>Nightly Builds</span></a></li><li class="item150"><a href="/Download-soapUI-Trial.html"><span>Download soapUI Trial</span></a></li><li class="item159"><a href="http://sourceforge.net/projects/soapui/files/" onclick="_gaq.push(['_trackEvent', 'soapUI OS 4.0.1 Frontpage Downloads', 'Download Clicks', 'Top menu download soapUI']);" target="_blank"><span>Download soapUI</span></a></li><li class="item161"><a href="http://sourceforge.net/projects/loadui/files/" onclick="_gaq.push(['_trackEvent', 'loadUI OS 1.5.0 Frontpage Downloads', 'Download Clicks', 'Top menu loadUI download']);" target="_blank"><span>Download loadUI</span></a></li></ul></li><li class="parent item68"><a class="topdaddy"><span>Company</span></a><ul><li class="parent item70"><a href="/About-Us/about-smartbear-overview.html" class="daddy"><span>About Us</span></a></li><li class="parent item141"><a href="/Partners/partners-place.html" class="daddy"><span>Partners</span></a></li><li class="parent item143"><a href="/Customers/customers-place.html" class="daddy"><span>Customers</span></a></li><li class="parent item166"><a href="/Contact/contact-smartbear.html" class="daddy"><span>Contact Us</span></a></li><li class="item197"><a href="/product-advisory-board/"><span>Product Advisory Board</span></a></li><li class="parent item187"><a href="/Jobs/jobs-at-smartbear.html" class="daddy"><span>Jobs</span></a></li></ul></li><li class="parent item66"><a class="topdaddy"><span>Open Source</span></a><ul><li class="item67"><a href="http://www.soapui.org" onclick="_gaq.push(['_link', 'http://www.soapui.org']); return false;"><span>soapUI</span></a></li><li class="item122"><a href="http://www.loadui.org" onclick="_gaq.push(['_link', 'http://www.loadui.org']); return false;"><span>loadUI</span></a></li></ul></li></ul>			
 			<div class="clearfixx"></div>
 		</div>
         
@@ -248,7 +293,7 @@ google.load('search', '1.0', {nocss: true});
 		                	<div id="contentpaneopen">
 
 		<div class="componentheading"><h1>
-					Privacy Policy - eviware</h1></div>
+					Privacy</h1></div>
 		
 	
 	<div class="rounded-gray-box float-none width-auto">
@@ -279,35 +324,19 @@ google.load('search', '1.0', {nocss: true});
 
 <div id="article">
 
-<h1>Privacy Policy</h1>
-<p>We at <strong>eviware software&nbsp;ab</strong> and our affiliated companies worldwide ("eviware") are committed to respecting your privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.</p>
-<p>Eviware has established this Privacy Policy so that you can understand the care with which we intend to treat your Personal Information.</p>
-<p>Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit eviware's web pages without telling us who you are or revealing any Personal Information about yourself.</p>
-<p>If you choose to provide us with your Personal Information on the Web, we may transfer that Information within eviware or to eviware's third-party service providers, across borders, and from your country or jurisdiction to other countries or jurisdictions around the world.</p>
-<p>Eviware strives to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, eviware intends to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained.</p>
-<h1>Cookies and Other Tracking Technologies</h1>
-<p>Some of our Web pages utilize "cookies" and other tracking technologies. A "cookie" is a small text file that may be used, for example, to collect information about Web site activity. Some cookies and other technologies may serve to recall Personal Information previously indicated by a Web user. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them.</p>
-<p>You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser, but please note that if you choose to erase or block your cookies, you will need to re-enter your original user ID and password to gain access to certain parts of the Web site.</p>
-<p>Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our site is accessed. Our use of cookies and other tracking technologies allows us to improve our Web site and your Web experience. We may also analyze information that does not contain Personal Information for trends and statistics.</p>
-<p>Where eviware collects Personal Information on the web, we intend to post a purpose statement that explains why Personal Information will be collected and whether we plan to share such Personal Information outside of eviware or those working on eviware's behalf. Eviware does not intend to transfer Personal Information without your consent to third parties who are not bound to act on eviware's behalf unless such transfer is legally required.</p>
-<p>If you chose to have a relationship with eviware, such as a contractual or other business relationship or partnership, we will naturally continue to contact you in connection with that business relationship and will need to collect relevant information.</p>
-<p>Wherever your Personal Information may be held within eviware or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure.</p>
-<p>To the extent that you do provide us with Personal Information, eviware wishes to maintain accurate Personal Information and if you inform us of changes or errors we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.</p>
-<h1>Third Party Services</h1>
-<p>Third parties provide certain services available on eviware.com on eviware's behalf. Eviware may provide information, including Personal Information, that eviware collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which eviware maintains its Web site and mailing lists. Eviware will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on eviware's behalf.</p>
-<p>Eviware does not intend to transfer Personal Information without your consent to third parties who are not bound to act on eviware's behalf unless such transfer is legally required. Similarly, it is against eviware's policy to sell Personal Information collected online without consent.</p>
-<p>If you have any comments or questions regarding our Privacy Policy, please contact us at 
+<div class="mainContent">
+<p><strong>Introduction</strong></p>
+<p>SmartBear  Software, Inc. ("SmartBear") has created this Privacy Policy in order to  disclose its use of consumer data collected about you. This Privacy  Policy is effective as of July 16th, 2010. Any questions regarding this  policy should be directed by email to <a href="mailto:&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy79169 = 'info' + '@';&#10; addy79169 = addy79169 + 'smartbearmail' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy79169 + '\'&gt;' );&#10; document.write( addy79169 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;\n &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;"><strong>
  <script language="JavaScript" type="text/javascript">
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy26148 = 'pr&#105;v&#97;cy' + '&#64;';
- addy26148 = addy26148 + '&#101;v&#105;w&#97;r&#101;' + '&#46;' + 'c&#111;m';
- var addy_text26148 = 'pr&#105;v&#97;cy' + '&#64;' + '&#101;v&#105;w&#97;r&#101;' + '&#46;' + 'c&#111;m';
- document.write( '<a ' + path + '\'' + prefix + ':' + addy26148 + '\'>' );
- document.write( addy_text26148 );
+ var addy7132 = '&#105;nf&#111;' + '&#64;';
+ addy7132 = addy7132 + 'sm&#97;rtb&#101;&#97;rm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy7132 + '\'>' );
+ document.write( addy7132 );
  document.write( '<\/a>' );
- //-->\n </script><a href="mailto:privacy@eviware.com">privacy@eviware.com</a> <script language="JavaScript" type="text/javascript">
+ //-->\n </script></strong></a><strong><a href="mailto:info@smartbearmail.com">info@smartbearmail.com</a> <script language="JavaScript" type="text/javascript">
  <!--
  document.write( '<span style=\'display: none;\'>' );
  //-->
@@ -317,16 +346,80 @@ google.load('search', '1.0', {nocss: true});
  document.write( '</' );
  document.write( 'span>' );
  //-->
- </script></span>. <strong>While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.</strong></p>
-<h1>Your Consent</h1>
-<p>By using this Web site or if applicable entering into an agreement with eviware, you consent to the terms of our Privacy Policy and to eviware's processing of Personal Information for the purposes given above as well as those explained where eviware collects Personal Information. Should the Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.</p>
+ </script></span></strong>.  You may also contact SmartBear at 100 Cummings Center, Suite 234N,  Beverly, MA 01915, USA. The following policy discloses SmartBear's  information gathering and dissemination practices for its website.</p>
+<p><strong>Information Collected and Received</strong></p>
+<p>SmartBear  may collect or receive information about each person who registers with  the SmartBear website including, but not limited to, user name,  password, first and last name, email address, street address, gender,  occupation, and interests. SmartBear also collects information on the  pages you access and other information you may volunteer, such as survey  information.</p>
+<p><strong>Uses of Information</strong></p>
+<p><strong>WE WILL NEVER SELL YOUR EMAIL ADDRESS, OR ANY OTHER PERSONAL INFORMATION, TO ANY THIRD PARTY. EVER.</strong></p>
+<p>SmartBear reserves the right to disclose information when required by law.</p>
+<p>We  occasionally use other companies to perform services necessary to our  operations. In the course of providing these services, those companies  may have access to your personal information. By contractual agreement,  those companies must treat your information in accordance with this  Privacy Policy. However, we will not be liable for any damages that may  result from the misuse of your personal information by these companies.</p>
+<p>SmartBear  may use your IP address to help diagnose problems with SmartBear's  server and to administer SmartBear's web site. Your IP address may also  be used to help identify you and your online profile and to gather broad  demographic information.</p>
+<p>SmartBear's site's registration forms  require you to give SmartBear contact information (such as your name and  email address) and demographic information (such as your zip code, age,  or income level). SmartBear uses the information from the registration  form to send you information about SmartBear and promotional material  from some of SmartBear's partners. Your contact information is also used  to contact you when necessary. SmartBear may use demographic and/or  profile data to tailor your experience on SmartBear's site, show you  content that SmartBear thinks you may be interested in, and display  content according to your preferences. The demographic and profile data  will be shared with advertisers ONLY on an aggregate basis.</p>
+<p>We may also disclose, on an anonymous basis, statements made by our customers.</p>
+<p>In  the case of online ordering, your information is used to process your  order, create general product license codes, and to deliver products or  product license codes. For free license code registration, your  information is used as part of our technical support and quality  assurance programs. In addition, we may use the information to contact  you regarding a technical support issue or to follow up on a trial.</p>
+<p>Should  there ever be a change in ownership of SmartBear, we want to be able to  maintain a relationship with you. In the event of a sale, merger,  public offering, bankruptcy or other change in control of SmartBear,  your information may be shared with the person or business that owns or  controls this site. Opting out of receiving information will not affect  our right to transfer your information to a new owner, but your choices  will continue to be respected regarding the use of your information.</p>
+<p><strong>Security</strong></p>
+<p>SmartBear  uses industry-standard technologies when exchanging consumer data  between SmartBear and other companies to help ensure its security. This  site has security measures in place to protect the loss, misuse and  alteration of the information under SmartBear's control.</p>
+<p><strong>Cookies</strong></p>
+<p>"Cookies"  are small pieces of information that are stored by your browser on your  computer's hard drive. SmartBear's site uses cookies to keep track of  your session, shopping cart, and advertising delivery. SmartBear may  also use cookies to deliver content specific to your interests and to  save your password. SmartBear may use an outside ad company to display  ads on SmartBear's site. These ads may also contain cookies. While  SmartBear uses cookies in other parts of SmartBear's web site, cookies  received with banner ads are collected by SmartBear's ad company and  SmartBear does not have access to this information.</p>
+<p><strong>Links</strong></p>
+<p>SmartBear  may create links to other web sites. SmartBear will make a reasonable  effort to link only to sites that meet similar standards for maintaining  each individual's right to privacy. However, many other sites that are  not associated or authorized by SmartBear may have links leading to  SmartBear's site. SmartBear cannot control these links and SmartBear is  not responsible for any content appearing on these sites.</p>
+<p><strong>As Required By Law</strong></p>
+<p>SmartBear  may disclose your personal information if required to do so by law or  in the good faith belief that such action is necessary to conform to the  edicts of the law or comply with legal process served on SmartBear or  to protect and defend the rights or property of SmartBear.</p>
+<p><strong>Amendments</strong></p>
+<p>SmartBear  may amend this policy at any time. If SmartBear is going to use  personally identifiable information collected through SmartBear's  corporate site in a manner materially different from that stated at the  time of collection, SmartBear will notify users via email and/or by  posting a notice on SmartBear's Web site for 30 days prior to such use.</p>
+<p><strong>Contacts</strong></p>
+<p>If  you have any questions about this Privacy Policy, the practices of this  site, or your dealings with this web site, you can contact us at <a href="mailto:&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy7602 = 'privacy' + '@';&#10; addy7602 = addy7602 + 'smartbear' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy7602 + '\'&gt;' );&#10; document.write( addy7602 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;\n &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;"><strong>
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy81388 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy81388 = addy81388 + 'sm&#97;rtb&#101;&#97;r' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy81388 + '\'>' );
+ document.write( addy81388 );
+ document.write( '<\/a>' );
+ //-->\n </script></strong></a><strong><a href="mailto:privacy@smartbear.com">privacy@smartbear.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></strong>.  Upon request, SmartBear will provide you with access to information  (e.g., name, address, phone number) that SmartBear collects and  maintains about you. This site gives you the following options for  changing and modifying information previously provided: (i) email <a href="mailto:&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy99646 = 'privacy' + '@';&#10; addy99646 = addy99646 + 'smartbear' + '.' + 'com';&#10; document.write( '&lt;a ' + path + '\'' + prefix + ':' + addy99646 + '\'&gt;' );&#10; document.write( addy99646 );&#10; document.write( '&lt;\/a&gt;' );&#10; //--&gt;\n &lt;/script&gt; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;span style=\'display: none;\'&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;This e-mail address is being protected from spambots. You need JavaScript enabled to view it&#10; &lt;script language='JavaScript' type='text/javascript'&gt;&#10; &lt;!--&#10; document.write( '&lt;/' );&#10; document.write( 'span&gt;' );&#10; //--&gt;&#10; &lt;/script&gt;"><strong>
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy80457 = 'pr&#105;v&#97;cy' + '&#64;';
+ addy80457 = addy80457 + 'sm&#97;rtb&#101;&#97;r' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy80457 + '\'>' );
+ document.write( addy80457 );
+ document.write( '<\/a>' );
+ //-->\n </script></strong></a><strong><a href="mailto:privacy@smartbear.com">privacy@smartbear.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span></strong>; or (ii) visit <a href="http://smartbear.com/">www.smartbear.com</a>. There you can also log into your account to update your contact information.</p>
+<p><strong>Opt-Out</strong></p>
+<p>We  value your privacy and you can opt-out of receiving communications from  SmartBear at any time. To opt-out of receiving our communications, go  to our <strong><a href="http://www2.smartbear.com/sb-email-all-unsubscribe.html" rel="nofollow">Unsubscribe</a></strong> page; or (ii) send postal mail to: 100 Cummings Center, Suite 234N<br> Beverly, MA 01915, USA</p>
+</div>
 
 <script type="text/javascript">SyntaxHighlighter.config.stripBrs=true;
 		SyntaxHighlighter.all();
 	  </script></div>
 
 <div class="modifydate">
-		Last Updated on Thursday, 14 April 2011 22:58</div>
+		Last Updated on Friday, 22 July 2011 10:35</div>
 </div>
 
 		            	</div>
@@ -349,7 +442,7 @@ google.load('search', '1.0', {nocss: true});
         <div id="footer">
     	   <!--BOTTOM NAVIGATION-->
     					    <div id="sitemap">			    	
-					<ul class="menu"><li class="item1"><a href="http://www.eviware.com/"><span>Home</span></a></li><li class="parent item52"><a class="topdaddy"><span>News</span></a><ul><li class="parent item71"><a href="/Eviware-News/" class="daddy"><span>eviware</span></a></li><li class="parent item90"><a href="/soapUI-News/" class="daddy"><span>soapUI</span></a></li><li class="parent item151"><a href="/loadUI-News/" class="daddy"><span>loadUI</span></a></li></ul></li><li class="parent item53"><a class="topdaddy"><span>Products</span></a><ul><li class="parent item54"><a href="/soapUI/soapui-overview.html" class="daddy"><span>soapUI</span></a></li><li class="parent item99"><a href="/soapUI-Plugins/soapui-plugins.html" class="daddy"><span>soapUI Plugins</span></a></li><li class="parent item153"><a href="/loadUI/whats-new.html" class="daddy"><span>loadUI</span></a></li></ul></li><li class="parent active item60"><a class="topdaddy"><span>Support</span></a><ul><li class="parent active item133"><a href="/Support/support-overview-place.html" class="daddy"><span>Eviware Support</span></a></li><li class="item61"><a href="http://www.eviware.com/forum" target="_blank"><span>Forum</span></a></li><li class="parent item62"><a href="/White-papers/white-papers-place.html" class="daddy"><span>White Papers</span></a></li><li class="parent item63"><a href="/FAQs/faqs-place.html" class="daddy"><span>FAQs</span></a></li></ul></li><li class="parent item57"><a class="topdaddy"><span>Store</span></a><ul><li class="parent item58"><a href="/Store-Info/eviware-store.html" class="daddy"><span>eviware Store</span></a></li><li class="parent item59"><a href="/Store-Info/pricing-and-volume-place.html" class="daddy"><span>Pricing and Volume Discounts</span></a></li></ul></li><li class="parent item107"><a class="topdaddy"><span>Downloads</span></a><ul><li class="parent item108"><a href="/Download-soapUI/download-soapuipro.html" class="daddy"><span>Download soapUI Pro</span></a></li><li class="parent item109"><a href="/Nightly-Builds/soapuipro-nightly-builds.html" class="daddy"><span>Nightly Builds</span></a></li><li class="item150"><a href="/Download-soapUI-Trial.html"><span>Download soapUI Trial</span></a></li><li class="item159"><a href="http://sourceforge.net/projects/soapui/files/" target="_blank"><span>Download soapUI</span></a></li><li class="item161"><a href="http://sourceforge.net/projects/loadui/files/" target="_blank"><span>Download loadUI</span></a></li></ul></li><li class="parent item68"><a class="topdaddy"><span>Company</span></a><ul><li class="parent item70"><a href="/About-Us/about-eviware-over.html" class="daddy"><span>About Us</span></a></li><li class="parent item141"><a href="/Partners/partners-place.html" class="daddy"><span>Partners</span></a></li><li class="parent item143"><a href="/Customers/customers-place.html" class="daddy"><span>Customers</span></a></li><li class="parent item166"><a href="/Contact/contact-eviware-place.html" class="daddy"><span>Contact Us</span></a></li><li class="parent item187"><a href="/Jobs/eviware-jobs.html" class="daddy"><span>Jobs</span></a></li></ul></li><li class="parent item66"><a class="topdaddy"><span>Open Source</span></a><ul><li class="item67"><a href="http://www.soapui.org"><span>soapUI</span></a></li><li class="item122"><a href="http://www.loadui.org"><span>loadUI</span></a></li></ul></li></ul> 		
+					<ul class="menu"><li id="current" class="active item1"><a href="http://www.eviware.com/"><span>Home</span></a></li><li class="parent item52"><a class="topdaddy"><span>News</span></a><ul><li class="parent item71"><a href="/Eviware-News/" class="daddy"><span>SmartBear</span></a></li><li class="parent item90"><a href="/soapUI-News/" class="daddy"><span>soapUI</span></a></li><li class="parent item151"><a href="/loadUI-News/" class="daddy"><span>loadUI</span></a></li></ul></li><li class="parent item53"><a class="topdaddy"><span>Products</span></a><ul><li class="parent item54"><a href="/soapUI/soapui-overview.html" class="daddy"><span>soapUI</span></a></li><li class="parent item99"><a href="/soapUI-Plugins/soapui-plugins.html" class="daddy"><span>soapUI Plugins</span></a></li><li class="parent item153"><a href="/loadUI/whats-new-in-loadui-15.html" class="daddy"><span>loadUI</span></a></li><li class="parent item198"><a href="/SmartBear-products/smartbear-products.html" class="daddy"><span>SmartBear Products</span></a></li></ul></li><li class="parent item60"><a class="topdaddy"><span>Support</span></a><ul><li class="parent item133"><a href="/Support/support-overview-place.html" class="daddy"><span>Support</span></a></li><li class="item61"><a href="http://www.eviware.com/forum" onclick="_gaq.push(['_trackPageview', 'trackerfrontpage/forummenu']);" target="_blank"><span>Forum</span></a></li><li class="parent item62"><a href="/White-papers/white-papers-place.html" class="daddy"><span>White Papers</span></a></li><li class="parent item63"><a href="/FAQs/faqs-place.html" class="daddy"><span>FAQs</span></a></li></ul></li><li class="parent item57"><a class="topdaddy"><span>Store</span></a><ul><li class="parent item58"><a href="/Store-Info/eviware-store.html" class="daddy"><span>Store</span></a></li></ul></li><li class="parent item107"><a class="topdaddy"><span>Downloads</span></a><ul><li class="parent item108"><a href="/Download-soapUI/download-soapuipro.html" class="daddy"><span>Download soapUI Pro</span></a></li><li class="parent item109"><a href="/Nightly-Builds/soapuipro-nightly-builds.html" class="daddy"><span>Nightly Builds</span></a></li><li class="item150"><a href="/Download-soapUI-Trial.html"><span>Download soapUI Trial</span></a></li><li class="item159"><a href="http://sourceforge.net/projects/soapui/files/" onclick="_gaq.push(['_trackEvent', 'soapUI OS 4.0.1 Frontpage Downloads', 'Download Clicks', 'Top menu download soapUI']);" target="_blank"><span>Download soapUI</span></a></li><li class="item161"><a href="http://sourceforge.net/projects/loadui/files/" onclick="_gaq.push(['_trackEvent', 'loadUI OS 1.5.0 Frontpage Downloads', 'Download Clicks', 'Top menu loadUI download']);" target="_blank"><span>Download loadUI</span></a></li></ul></li><li class="parent item68"><a class="topdaddy"><span>Company</span></a><ul><li class="parent item70"><a href="/About-Us/about-smartbear-overview.html" class="daddy"><span>About Us</span></a></li><li class="parent item141"><a href="/Partners/partners-place.html" class="daddy"><span>Partners</span></a></li><li class="parent item143"><a href="/Customers/customers-place.html" class="daddy"><span>Customers</span></a></li><li class="parent item166"><a href="/Contact/contact-smartbear.html" class="daddy"><span>Contact Us</span></a></li><li class="item197"><a href="/product-advisory-board/"><span>Product Advisory Board</span></a></li><li class="parent item187"><a href="/Jobs/jobs-at-smartbear.html" class="daddy"><span>Jobs</span></a></li></ul></li><li class="parent item66"><a class="topdaddy"><span>Open Source</span></a><ul><li class="item67"><a href="http://www.soapui.org" onclick="_gaq.push(['_link', 'http://www.soapui.org']); return false;"><span>soapUI</span></a></li><li class="item122"><a href="http://www.loadui.org" onclick="_gaq.push(['_link', 'http://www.loadui.org']); return false;"><span>loadUI</span></a></li></ul></li></ul> 		
 					<div class="clearfixx"></div>	    				    	       	
 			    </div>
 				
@@ -362,17 +455,21 @@ google.load('search', '1.0', {nocss: true});
 			
 			<!--COPYRIGHT-->
 	    				<div id="footer-module">
-				Copyright © 2006-2011 eviware. All rights reserved.   <a target="_self" href="http://www.eviware.com/Store-Info/eviware-privacy-policy.html">Privacy Policy</a>
+				© 2011 <a style="color:#eee;" href="http://smartbear.com/" target="_blank">SmartBear Software</a>. All rights reserved. <a href="http://www.eviware.com/Store-Info/eviware-privacy-policy.html" target="_self">Privacy Policy</a>
 			</div>
 					
 		<!--BOTTOM SUPPORT NAVIGATION-->
 	    <div id="footer-support-menu">
-		    <ul id="bottomsupportmenu"><li><span class="left-corner"><img src="/templates/eviware/images/blank.gif" alt="blank"></span><span class="right-corner"><a href="http://www.eviware.com/forum" target="_blank" class="mainlevel">Forum</a></span></li><li><span class="left-corner"><img src="/templates/eviware/images/blank.gif" alt="blank"></span><span class="right-corner"><a href="/Contact-Us/eviware-software-ab.html" class="mainlevel">Contact Us</a></span></li><li><span class="left-corner"><img src="/templates/eviware/images/blank.gif" alt="blank"></span><span class="right-corner"><a href="/Sitemap.html" class="mainlevel">Sitemap</a></span></li></ul>
+		    <ul id="bottomsupportmenu"><li><span class="left-corner"><img src="/templates/eviware/images/blank.gif" alt="blank"></span><span class="right-corner"><a href="http://www.eviware.com/forum" onclick="_gaq.push(['_trackPageview', 'trackerfrontpage/forumtopmenu']);" target="_blank" class="mainlevel">Forum</a></span></li><li><span class="left-corner"><img src="/templates/eviware/images/blank.gif" alt="blank"></span><span class="right-corner"><a href="/Contact-Us/eviware-software-ab.html" class="mainlevel">Contact Us</a></span></li><li><span class="left-corner"><img src="/templates/eviware/images/blank.gif" alt="blank"></span><span class="right-corner"><a href="/Sitemap.html" class="mainlevel">Sitemap</a></span></li></ul>
 		</div>
 	</div>
 		 <!-- End Bottom Section -->
 	</div>
    
+	
+	
+	<script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
+	<script>mktoMunchkin("800-TIV-782");</script>
 	
 	
 	</body></html>
