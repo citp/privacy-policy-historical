@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securitydirectory.asia privacy policy that was archived on 2010-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100309133456id_/http%3A//www.securitydirectory.asia/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securitydirectory.asia privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102074428id_/http%3A//www.securitydirectory.asia/privacy.html) for the most accurate reproduction.*
 
 # Security Directory Asia - Security Listing in Asian Region - Privacy Policy
 
