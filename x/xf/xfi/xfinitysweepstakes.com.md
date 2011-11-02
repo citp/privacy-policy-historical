@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xfinitysweepstakes.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607220248id_/http%3A//xfinitytv.comcast.net/info/new_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xfinitysweepstakes.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102025643id_/http%3A//xfinitytv.comcast.net/info/new_privacy_policy) for the most accurate reproduction.*
 
 # Web Services Privacy Policy
 
@@ -166,8 +166,6 @@ Collectively, your Registration Data, Profile Data, Activity Data, and any other
 
 Most Comcast Sites have their own pages where you can manage certain portions of your Registration Data and Profile Data relevant to that specific Comcast Site. For your reference, those pages can be found here:
 
-[https://preferences.comcast.net](https://preferences.comcast.net/)
-
 <http://xfinitytv.comcast.net/mytv/settings>
 
 <http://www.plaxo.com/settings/account>
@@ -223,9 +221,7 @@ Comcast encourages you to be aware of the privacy policies of these companies be
 
 Comcast may use your Registration Data to send you a confirmation e-mail verifying the ownership of the e-mail addresses provided in your Registration Data and to send you service-related communications about the Comcast Web Services. In addition, Comcast may send you promotional or commercial e-mail relating to each Comcast Site for which you have activated your account as permitted by applicable law. You can opt-out from receiving such promotional or commercial e-mail by following the instructions contained in the e-mails or by going to:
 
-[http://www.comcast.net/subscribe](http://www.comcast.net/subscribe/)
-
-[](http://www.comcast.net/subscribe/)[https://preferences.comcast.net](https://preferences.comcast.net/)
+[http://xfinity.comcast.net/subscribe](http://xfinity.comcast.net/subscribe/)
 
 <http://www.plaxo.com/settings/email>
 
