@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the freedirectoryweb.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613212034id_/http%3A//www.freedirectoryweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedirectoryweb.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102174541id_/http%3A//www.freedirectoryweb.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | Free Directory Web
-
-## [Free Directory Web](http://www.freedirectoryweb.com/)
 
   * [About](http://www.freedirectoryweb.com/about "About")
   * [privacy policy](http://www.freedirectoryweb.com/privacy-policy "privacy policy")
@@ -41,4 +39,4 @@ In order to assist in protecting the confidentiality of your personal informatio
 
 * Google, as a third party vendor, uses cookies to serve ads on www.freedirectoryweb.com.  
 * Google’s use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.  
-* You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.freedirectoryweb.com/goto/http://www.google.com/privacy_ads.html).
+* You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.freedirectoryweb.com/goto/116).
