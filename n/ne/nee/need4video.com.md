@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the need4video.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219072121id_/http%3A//need4video.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the need4video.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011258id_/http%3A//need4video.com/privacy.html) for the most accurate reproduction.*
 
 # Need4Video Privacy Policy | Need4Video
 
 |   
-[](https://web.archive.org/web/20101219072121id_/http%3A//need4video.com/index.html) |   
+[](https://web.archive.org/web/20111102011258id_/http%3A//need4video.com/index.html) |   
 |   
 |  | 
 
   
-[](http://need4video.com/registration.html)
+[](http://need4video.com/buynow.html)
 
 Need4Video: PRIVACY POLICY
 
@@ -63,6 +63,8 @@ We respect your privacy and do not sell or rent our customers' personal informat
 |   
   |    
 
+
+**Disclaimer.** Please be aware that Need4Video Software does not work with video files and DVDs with copy protection.
 
 Select language: [English](https://web.archive.org/) | [English UK](https://web.archive.org/uk/) | [Deutsch](https://web.archive.org/de/) | [Italiano](https://web.archive.org/it/) | [Français](https://web.archive.org/fr/) | [Español](https://web.archive.org/es/) | [日本語](http://need4video.jp/) | [中文](https://web.archive.org/cn/) | [한국어](https://web.archive.org/kr/)
 
