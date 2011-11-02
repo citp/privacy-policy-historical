@@ -1,249 +1,239 @@
-<!--The following is the downloaded HTML source of the lucidchart.com privacy policy that was archived on 2010-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101228103500id_/http%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lucidchart.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102062621id_/http%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Privacy</title>
-<meta name="Description" content="">
-<meta name="google-site-verification" content="KVGTQrsFVm7xxBGjRlaUR03WX71nH4PjidPi04RU5m0">
-
-<!--For iPad-->
-<meta name="apple-mobile-web-app-capable" content="yes">
-<meta name="apple-mobile-web-app-status-bar-style" content="black">
-<link rel="apple-touch-icon" href="/img/apple_touch_icon.png">
-
-
-<link rel="stylesheet" type="text/css" href="/css/jquery-ui/style.css?20101214103333"><link rel="stylesheet" type="text/css" href="/css/common/common.css?20101214103333"><link rel="stylesheet" type="text/css" href="/css/page/page.css?20101214103333"><link rel="stylesheet" type="text/css" href="/css/page/content.css?20101214103333"><link rel="stylesheet" type="text/css" href="/js/jquery/fancybox/jquery.fancybox.css?20101214103333">
-
-	<script type="text/javascript" src="/js/config?20101214103333.js"></script>
-	<script type="text/javascript" src="/js/layoutDefault?20101214103333.js"></script>
-
-<script type="text/javascript">
-$(function() {
-	var navButtons = $('#nav a');
-	navButtons.width(Math.floor($('#nav').width()/navButtons.length) - 2);
-	navButtons.filter('.active').next('a').addClass('pre-active');
-
-	// FOCUS ON USER NAME BOX
-	$('#user_name').focus();
-	
-	// ADD CLICK HANDLER FOR LOG-IN FORM SUBMIT BUTTON
-	$('#login_submit').click(function() {
-		$('#login_form').submit();
-	});
-	
-	// TWEET BUTTON
-	$('.tweet-button-drk').click(function() {
-		var url = $(this).attr('href') + '?url=' + encodeURIComponent(document.location.href) + '&';
-		var data = ['via', 'text', 'related', 'count', 'lang'];
-		for (var i=0; i<data.length; i++) {
-			url += ($(this).attr('data-' + data[i]) ? data[i] + '=' + encodeURIComponent($(this).attr('data-' + data[i])) + '&' : '' );
-		}
-		window.open(url, 'Tweet', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=550,height=450');
-		return false;
-	});
-
-	// SUB NAV TOGGLE
-	/*$('#subnav li').click(function() {
-		if (!$(this).hasClass('active')) {
-			$(this).siblings('.active').removeClass('active');
-			$(this).addClass('active');
-		}
-	});*/
-
-	// FOOTER SUB MENU TOGGLING
-	$('#footer a.submenu').click(function(event) {
-		event.preventDefault();
-		var delay = 0;
-		$(this).siblings('a.submenu.active').removeClass('active', 200).each(function() {
-			$($(this).attr('href')).animate({'width': 'toggle'}, {easing: 'easeInQuad', duration: 200});
-			delay = 200;
+<!DOCTYPE html><html lang="en" dir="ltr"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<link rel="stylesheet" type="text/css" href="/css/style.css">
+	<link rel="stylesheet" type="text/css" href="/js/jquery/fancybox/jquery.fancybox.css">
+	<script type="text/javascript" src="/js/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="/js/jquery/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="/js/jquery/fancybox/jquery.fancybox.min.js"></script>
+	<script type="text/javascript" src="/js/jquery/jquery.lucidtab.js"></script>
+	<script type="text/javascript" src="/js/site.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function() {
+			$("#block-user-1 h3").click(function(event) {
+				$("#block-user-1 .content").show();
+				event.stopPropagation();
+				return false;
+			});
+			$("body").click(function() {
+				$("#block-user-1 .content").hide();
+			});
 		});
-		if ($(this).hasClass('active')) {
-			$($(this).attr('href')).delay(delay).animate({'width': 'toggle'}, {easing: 'easeInQuad', duration: 200});
-			$(this).removeClass('active', 200);
-		}
-		else {
-			$(this).addClass('active', 200);
-			$($(this).attr('href')).delay(delay).animate({'width': 'toggle'}, {easing: 'easeOutQuad', duration: 200});
-			
-		}
-	});
-});
-</script>
+	</script>
+    <title>Privacy Policy | LucidChart</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-</head>
-<body>
+      </head>
 
-<div id="header">
-	<div id="header-container">
+  <body class="not-front not-logged-in page-node node-type-page no-sidebars i18n-en ">
+    <div id="page" class="container_24">
+
+      <div id="topbar" class="grid_24">
 		<div class="left">
-			<a href="http://twitter.com/share" target="_blank" class="tweet-button-drk" data-text="Check out #LucidChart, the greatest #html5 application to date! #diagramming #bettervisio" data-count="none" data-via="lucidchart" data-related="bendilts:CTO,ohmethinks:Evangelist"></a>
-		</div>
+			<a href="http://twitter.com/share" target="_blank" class="tweet-button-drk" data-text="Check out LucidChart - #HTML5 online diagram and flowchart app with real-time collaboration. Free demo!" data-count="none" data-via="lucidchart" data-related="bendilts:CTO,AlmaMadsen:Designer"></a>
+			
+					</div>
 		<div class="right">
-		<form action="/users/login" method="post" id="login_form">
-				<label for="user_name">Username</label> <input type="text" id="user_name" name="data[User][username]" maxlength="40"> 
-				<label for="password">Password</label> <input type="password" id="password" name="data[User][password]"> 
-				<input type="hidden" name="data[User][remember_me]" value="0" style="display:none;"> 
-				<input type="checkbox" id="remember_me" name="data[User][remember_me]" value="1">
-				<label for="remember_me">Remember me</label>
-				<button type="submit" class="button-sm-blue" id="login_submit">Sign in</button>
-				<a href="/users/googleFederatedLogin" title="Sign in with your Google account." class="button-sm-blue" style="background-image:url(/img/google_login_sm.png); margin:0 2px; width: 40px;">&nbsp;</a>
-				</form>		</div>
-	</div>
-</div>
+							<span style="position:relative;">
+					<a id="sign_in_link" href="/users/login">Sign in</a>
+					<div class="sign-in-top hidden ui-corner-bottom">
+						<form action="/users/login" method="post">
+							<label for="username">Username</label>
+							<input id="username" type="text" name="data[User][username]" maxlength="40">
+							<label for="password">Password</label>
+							<input id="password" type="password" name="data[User][password]">
+							<div class="left">
+								<input type="hidden" name="data[User][remember_me]" value="0" style="display:none;">
+								<input id="rememberme" type="checkbox" name="data[User][remember_me]" value="1">
+								<label for="rememberme" class="inline">Remember me</label>
+							</div>
+							<div class="right">
+								<div class="spacer"></div>
+								<input type="submit" class="right button small" value="Sign in">
+							</div>
+						</form>
+						<hr>
+						<h3>Or sign in with:</h3>
+						<div class="buttons">
+							<a href="/users/googleFederatedLogin" class="si-button google">Google</a>
+							<a href="/users/yahooLogin" class="si-button yahoo">Yahoo</a>
+						</div>
+						<hr>
+						<div class="spacer"></div>
+						<a href="/users/registerLevel" class="left">Sign up</a>
+						<a href="/users/forgotPassword" class="right">Forgot your password?</a>
+						<div class="clear"></div>
+					</div>
+				</span>
+					</div>
+      </div>
 
-<div id="container">
+      <div id="navbar" class="grid_24">
+        <a href="/" class="logo grid_7 alpha"><span>LucidChart</span></a>
+                    <ul id="navlinks"><li class="menu-124 first"><a href="/pages/tour" title="">Tour</a></li>
+<li class="menu-125"><a href="/pages/examples/flowchart_software" title="">Examples</a></li>
+<li class="menu-144"><a href="/pages/tutorials/new_document" title="Tutorials">Tutorials</a></li>
+<li class="menu-135"><a href="http://www.lucidchart.com/users/registerLevel" title="">Pricing</a></li>
+<li class="menu-145 last"><a href="http://www.lucidchart.com/community/examples" title="">Community</a></li>
+</ul>              </div>
 
-<div id="top">
-	<a class="logo left" href="/"><img src="/img/body_logo.png" alt="Online Diagramming and Flowchart Software &amp; Tool | LucidChart"></a>
-	<div id="nav" class="right">
-		<!-- NOTE THESE SHOW IN REVERSE ORDER -->
+      
+	  
+    
+      
+      
+      <div id="content" class="grid_24">
 
-		<!--<a href="/pages/about">About</a> -->
-		<a href="/community/examples/featured" target="_blank">Community</a>		<a href="/pages/tutorials">Tutorials</a>		
-		<a href="/pages/account_types">Pricing</a>		<a href="/pages/tour/diagramming_software">Tour</a>		<a href="/pages/examples/flowchart_software">Examples</a>		
-	</div>
-</div>
+        
+        
+        <div id="content-area">
+          <h1>LucidChart Privacy Policy</h1>
 
-<div id="body">
-	<div id="body-tl"></div>
-	<div id="body-t"></div>
-	<div id="body-tr"></div>
-	<div id="body-bl"><div><img src="/css/page/images/body_bg_bl.png" width="100%" height="100%"></div></div>
-	<div id="body-b"><div><img src="/css/page/images/body_bg_b.png" width="100%" height="100%"></div></div>
-	<div id="body-br"><div><img src="/css/page/images/body_bg_br.png" width="100%" height="100%"></div></div>
+<p class="large">This LucidChart Privacy Policy describes how we treat personal information when you use LucidChart's services, including information provided to LucidChart.</p>
 
-	<div id="content">
-				<h1>LucidChart Privacy Policy</h1>
+<p>July 30, 2010
 
-<p>July 30, 2010</p>
+</p><h2>Personal Information</h2>
 
-<p>This LucidChart Privacy Policy describes how we treat personal information when you use LucidChart's services, including information provided to LucidChart.</p>
-
-<h2>Personal Information</h2>
 <ul>
-	<li>Account activity. You need a LucidChart Account to create diagrams in LucidChart. LucidChart asks for some personal information when you create a LucidChart Account, including your email address and a password, which is used to protect your account from unauthorized access. LucidChart's servers automatically record certain information about your use of LucidChart. Similar to other web services, LucidChart records information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), and other log information (e.g. browser type, IP address, date and time of access, cookie ID, referrer URL, etc.). LucidChart may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the LucidChart software or service.</li>
-	<li>Content. LucidChart stores, processes and maintains your files (as well as previous versions of your files), sharing lists, and other data related to your account in order to provide the service to you.</li>
-</ul>
+<li>Account activity. You need a LucidChart Account to create diagrams in LucidChart. LucidChart asks for some personal information when you create a LucidChart Account, including your email address and a password, which is used to protect your account from unauthorized access. LucidChart's servers automatically record certain information about your use of LucidChart. Similar to other web services, LucidChart records information such as account activity (e.g., storage usage, number of log-ins, actions taken), data displayed or clicked on (e.g., UI elements, links), and other log information (e.g. browser type, IP address, date and time of access, cookie ID, referrer URL, etc.). LucidChart may collect automated error reports in the case of software malfunction; such error reports may contain some or all of the information in your documents and may be reviewed to help resolve problems with the LucidChart software or service.</li>
+
+<li>Content. LucidChart stores, processes and maintains your files (as well as previous versions of your files), sharing lists, and other data related to your account in order to provide the service to you.</li></ul>
 
 <h2>Uses</h2>
 <ul>
-	<li>We use this information internally to deliver the best possible service to you, such as improving the LucidChart user interface and maintaining a consistent and reliable user experience.</li>
-	<li>Files you create, upload, or copy to LucidChart may, if you choose, be read, copied, used and redistributed by people you know or, again if you choose, by people you do not know. Information you disclose using the chat function of LucidChart may be read, copied, used and redistributed by people participating in the chat. Use care when including sensitive personal information in files you share or in chat sessions, such as social security numbers, financial account information, home addresses or phone numbers.</li>
-	<li>Some features may be provided by third parties (e.g. the Amazon Payments service provided by Amazon Payments, Inc.), who may receive and process your data. When you use one of these features, you may be sharing data with the third party, including allowing the third party to process your data. Access to your data by these third parties is not governed by this Privacy Policy.</li>
-	<li>LucidChart reserves the right to review documents to help resolve problems with the LucidChart software or service, or to ensure compliance with our <a href="/pages/tos">Terms of Service</a>.</li>
-</ul>
+<li>We use this information internally to deliver the best possible service to you, such as improving the LucidChart user interface and maintaining a consistent and reliable user experience.</li>
 
-<h2>Information sharing</h2>
+<li>Files you create, upload, or copy to LucidChart may, if you choose, be read, copied, used and redistributed by people you know or, again if you choose, by people you do not know. Information you disclose using the chat function of LucidChart may be read, copied, used and redistributed by people participating in the chat. Use care when including sensitive personal information in files you share or in chat sessions, such as social security numbers, financial account information, home addresses or phone numbers.</li>
+
+<li>Some features may be provided by third parties (e.g. the Amazon Payments service provided by Amazon Payments, Inc.), who may receive and process your data. When you use one of these features, you may be sharing data with the third party, including allowing the third party to process your data. Access to your data by these third parties is not governed by this Privacy Policy.</li>
+
+<li>LucidChart reserves the right to review documents to help resolve problems with the LucidChart software or service, or to ensure compliance with our Terms of Service.</li></ul>
+
+<h2>Information Sharing</h2>
+
 <ul>
-	<li>We will not sell or rent your personal information to others, except to the extent necessary to fulfill any requests by you to share content through another website or partner.</li>
-	<li>LucidChart only shares personal information with other companies or individuals outside of LucidChart in the following limited circumstances:
-		<ul>
-			<li>We have your consent. We require opt-in consent for the sharing of any sensitive personal information.</li>
-			<li>We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of LucidChart, its users or the public as required or permitted by law.</li>
-		</ul>
-	</li>
-	<li>We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who used a type of document, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.</li>
-	<li>If LucidChart becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.</li>
-</ul>
+<li>We will not sell or rent your personal information to others, except to the extent necessary to fulfill any requests by you to share content through another website or partner.</li>
+
+<li>LucidChart only shares personal information with other companies or individuals outside of LucidChart in the following limited circumstances:
+<ul><li>We have your consent. We require opt-in consent for the sharing of any sensitive personal information.</li>
+
+<li>We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of LucidChart, its users or the public as required or permitted by law.</li></ul>
+
+</li><li>We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who used a type of document, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.</li>
+
+<li>If LucidChart becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.</li></ul>
 
 <h2>Data Security</h2>
+
 <ul>
-	<li>LucidChart will take reasonable measures to protect your personal information and your documents, both to ensure that your documents remain available to you, and that they remain unavailable to unauthorized persons.</li>
-</ul>
+<li>LucidChart will take reasonable measures to protect your personal information and your documents, both to ensure that your documents remain available to you, and that they remain unavailable to unauthorized persons.</li></ul>
 
 <h2>Changes to Privacy Policy</h2>
-<ul>
-	<li>LucidChart reserves the right to change or modify this Privacy Policy at any time, without prior notice, by posting the modified Privacy Policy on our website. Your continued use of the website or LucidChart’s services indicates your acceptance of any revised Privacy Policy.
-	</li><li>LucidChart may provide you with notifications that include, without limitation, any changes that are made to this Privacy Policy or our services, by postings on our website or via email to a user.
-</li></ul>
 
-<h2>Your choices</h2>
 <ul>
-	<li>You may terminate your use of LucidChart at any time.</li>
+<li>LucidChart reserves the right to change or modify this Privacy Policy at any time, without prior notice, by posting the modified Privacy Policy on our website. Your continued use of the website or LucidChart’s services indicates your acceptance of any revised Privacy Policy.</li>
+
+<li>LucidChart may provide you with notifications that include, without limitation, any changes that are made to this Privacy Policy or our services, by postings on our website or via email to a user.</li></ul>
+
+<h2>Your Choices</h2>
+
+<ul>
+<li>You may terminate your use of LucidChart at any time.</li></ul><p></p>        </div> <!-- /#content-area -->
+
+        
+      </div>
+
+              <div id="footer" class="grid_24">
+                    <div id="block-block-1" class=" odd">
+  <div class="block-inner">
+
+    
+    <div class="content">
+      <ul class="left">
+<h3>LucidChart</h3>
+<li><a href="/pages/tour">Tour</a></li>
+<li><a href="#footer-diagrams" class="submenu">Diagram Examples</a><div class="ui-icon ui-icon-triangle-1-e"></div></li>
+<li><a href="/users/registerLevel">Pricing</a></li>
+<li><a href="/documents/demo">Start Drawing</a></li>
+<li><a href="/pages/google_apps_guidelines">Google Apps</a></li>
+<li><a href="/pages/features">Features</a></li>
 </ul>
+
+<ul id="footer-diagrams" class="left hidden">
+<h3>&nbsp;</h3>
+<li><a href="/pages/examples/flowchart_software">Flow Chart</a></li>
+<li><a href="/pages/examples/wireframe_software">Wireframe</a></li>
+<li><a href="/pages/examples/uml_diagram_tool">UML Diagram</a></li>
+<li><a href="/pages/examples/network_diagram_software">Network Diagram</a></li>
+<li><a href="/pages/examples/iphone_mockup_tool">iPhone Mockup</a></li>
+<li><a href="/pages/examples/business_process_modeling">Business Process</a></li>
+<li><a href="/pages/examples/orgchart_software">Org Chart</a></li>
+<li><a href="/pages/examples/sitemap_creator">Site Map</a></li>
+<li><a href="/pages/examples/venn_diagram_maker">Venn Diagram</a></li>
+</ul>
+
+<ul class="left divider">
+<h3>Community</h3>
+<li><a href="/community/examples/featured">Examples</a></li>
+<li><a href="/forums">Forum</a></li>
+<li><a href="/blog" target="_blank">Blog</a></li>
+<li><a href="/pages/case/mcftech">Case Studies</a></li>
+<li><a href="http://twitter.com/lucidchart" target="_blank">Twitter</a></li>
+</ul>
+
+<ul class="left divider">
+<h3>Support</h3>
+<li><a href="/pages/tutorials/new_document">Tutorials</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/threads/forum/2">Bug Reports</a></li>
+<li><a href="/education">Educational Pricing</a></li>
+</ul>
+
+<ul class="left divider">
+<h3>About</h3>
+<li><a href="/pages/about">LucidChart</a></li>
+<li><a href="/pages/reviews">Reviews</a></li>
+<li><a href="/blog" target="_blank">News</a></li>
+<li><a href="/pages/tos">Terms of Service</a></li>
+<li><a href="/pages/privacy">Privacy Policy</a></li>
+</ul>
+
+<div class="right">
+	<div class="right"></div>
+	<div class="clear" style="margin-top:25px;"></div>
+	<div class="right">
+		<a href="https://chrome.google.com/webstore/detail/apboafhkiegglekeafbckfjldecefkhn?hl=en-US" target="_blank"><img src="/img/logo_chromestore.png"></a>
 	</div>
 	<div class="clear"></div>
-</div>
-
-
-<div id="footer">
-	<div class="left">
-		<h3>LucidChart</h3>
-		<a href="/pages/tour">Tour</a>
-		<a href="#footer-diagrams" class="submenu">Diagram Examples <span class="arrow"></span></a>
-		<a href="/pages/account_types">Pricing</a>
-		<a href="/documents/demo">Start Drawing</a>
-		<a href="/pages/google_apps_guidelines">Google Apps</a>
-		<a href="/pages/features">Features</a>
-	</div>
-		<div id="footer-diagrams" class="left hidden">
-			<h3>&nbsp;</h3>
-			<a href="/pages/examples/flowchart_software">Flow Chart</a>	
-			<a href="/pages/examples/wireframe_software">Wireframe</a>
-			<a href="/pages/examples/iphone_mockup_tool">iPhone Mockup</a>
-			<a href="/pages/examples/uml_modeling_tool">UML Diagram</a>			
-			<a href="/pages/examples/sitemap_creator">Site Map</a>
-			<a href="/pages/examples/business_process_tool">Business Process</a>
-			<a href="/pages/examples/orgchart_software">Org Chart</a>
-			<a href="/pages/examples/network_diagramming_software">Network Diagram</a>
-		</div>
-	<div class="left divider">
-		<h3>Community</h3>
-		<a href="/community/examples/featured">Examples</a>
-		<a href="/forums">Forum</a>
-		<a href="/blog" target="_blank">Blog</a>
-		<a href="/pages/case">Case Studies</a>
-		<a href="http://twitter.com/lucidchart" target="_blank">Twitter</a>
-	</div>
-	<div class="left divider">
-		<h3>Support</h3>
-		<a href="/pages/tutorials">Tutorials</a>
-		<a href="/threads/forum/2">Bug Reports</a>
-		<!--<a href="/contact">FAQ</a>-->
-		<a href="/pages/contact">Contact</a>		<a href="/pages/education">Educational Pricing</a>
-	</div>
-	<div class="left divider">
-		<h3>About</h3>
-		<a href="/pages/about">LucidChart</a>
-		<a href="/pages/reviews">Reviews</a>
-		<a href="/blog" target="_blank">News</a>
-		<!--<a href="/contact">Hiring</a>-->
-		<a href="/pages/tos">Terms of Service</a>
-		<a href="/pages/privacy">Privacy Policy</a>	</div>
+	<div class="spacer"></div>
 	<div class="right">
-		<div class="right">© 2010 LucidChart, LLC</div>
-		<div class="clear" style="margin-top:25px;">
-		<div class="right">
-			<a href="https://chrome.google.com/webstore/detail/apboafhkiegglekeafbckfjldecefkhn?hl=en-US" target="_blank"><img src="/img/logo_chromestore.png"></a>
-		</div>
+		<a href="http://www.twitter.com/LucidChart" target="_blank"><img src="/img/follow_us.png" alt="Follow LucidChart on Twitter"></a>
 	</div>
 </div>
 
-
-</div>
+<script type="text/javascript" src="/js/jquery/jquery.cookie.js"></script>
+<script type="text/javascript" src="/js/analytics.js"></script>
 
 <script type="text/javascript">
-LucidAnalytics.log('4b7ece5a-87a4-455b-ad5b-2d570ad151ed');
+		LucidAnalytics.log('4b7ece5a-87a4-455b-ad5b-2d570ad151ed');
+					var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>  
+			<script type="text/javascript">
+				var pageTracker = _gat._getTracker("UA-5909456-1");
+				pageTracker._trackPageview();
+			</script>    </div>
 
-	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-	</script>  
-	<script type="text/javascript">
-	  var wljs_http = "https:" == document.location.protocol ? "https://" : "http://";
-		var wljs_path = wljs_http + "ping.worldlogger.com/worldlogger.js";
-		document.write(unescape("%3Cscript src='"+wljs_path+"' type='text/javascript'%3E%3C/script%3E"));
-	</script><script src="https://ping.worldlogger.com/worldlogger.js" type="text/javascript"></script>
-	<script>
-		document.write(unescape("%3Cscript%3Etry { var wl = new wl_WorldLogger('757274d52d3711080220e8b9e46d69e0e715d539', {'ping_location':wljs_http + 'ping.worldlogger.com/ping'}); } catch(e) { if(console) console.warn(e);}%3C/script%3E"));
-	</script><script>try { var wl = new wl_WorldLogger('757274d52d3711080220e8b9e46d69e0e715d539', {'ping_location':wljs_http + 'ping.worldlogger.com/ping'}); } catch(e) { if(console) console.warn(e);}</script>
-	<script type="text/javascript">
-	var pageTracker = _gat._getTracker("UA-5909456-1");
-	pageTracker._trackPageview();
-</script>  
+    
+  </div> <!-- /block-inner -->
+</div> <!-- /block -->        </div> <!-- /footer -->
+      
+    </div> <!-- /page -->
+    
+	<!--<div id="corner-ribbon"><a href="/pages/chrome_notebook" target="_blank"></a></div>-->
+  
 
-
-
-
-</div></body></html>
+<div id="fancybox-tmp"></div><div id="fancybox-loading"><div></div></div><div id="fancybox-overlay"></div><div id="fancybox-wrap"><div id="fancybox-outer"><div class="fancy-bg" id="fancy-bg-n"></div><div class="fancy-bg" id="fancy-bg-ne"></div><div class="fancy-bg" id="fancy-bg-e"></div><div class="fancy-bg" id="fancy-bg-se"></div><div class="fancy-bg" id="fancy-bg-s"></div><div class="fancy-bg" id="fancy-bg-sw"></div><div class="fancy-bg" id="fancy-bg-w"></div><div class="fancy-bg" id="fancy-bg-nw"></div><div id="fancybox-inner"></div><a id="fancybox-close"></a><a href="javascript:;" id="fancybox-left"><span class="fancy-ico" id="fancybox-left-ico"></span></a><a href="javascript:;" id="fancybox-right"><span class="fancy-ico" id="fancybox-right-ico"></span></a></div></div></body></html>
