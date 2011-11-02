@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2010-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100705141642id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadacomputers.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011601id_/http%3A//www.canadacomputers.com/privacy.php) for the most accurate reproduction.*
 
-# Canada Computers - Privacy Policies
+# Canada Computers | Privacy Policies
 
 Canada Computers welcomes all visitors to our website. Canada Computers is committed to ensuring the privacy and protection of all our customers. This policy was developed with this goal in mind and outlines the guidelines in which we gather personal and non-personal information and the use of such information. In the process of engaging in commerce with the public, certain non-personal and personal information is gathered by our website. We do not store personal information on our website, for your protection and privacy, all personal information is redirected to an encrypted, secure site maintained by our order processing system. This system uses the highest level of internet security to protect you from unauthorized use. The following is an explanation of our privacy policy.
 
