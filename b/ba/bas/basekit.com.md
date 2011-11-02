@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the basekit.com privacy policy that was archived on 2011-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110415090828id_/http%3A//www.basekit.com/legals/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the basekit.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012115id_/http%3A//www.basekit.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | BaseKit
+# Privacy Policy
 
-### What we collect
+This privacy policy sets out how BaseKit uses and protects any information that you give BaseKit when you use this or any related websites managed or maintained by and on behalf of BaseKit.
+
+BaseKit is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+
+BaseKit may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from March 2010.
+
+### 
+
+What we collect
 
 As a minimum, we require the following information in order for you to register for a Free Trial account with BaseKit:
 
@@ -53,7 +61,7 @@ Please note that we have the ability to retain any data that you provide on this
 
 Data that is provided to us is stored on our secure servers.
 
-Please note, we do not hold credit card details on our servers.
+Please note, we do not hold credit card details on our servers
 
 ### Security
 
@@ -92,7 +100,8 @@ You may choose to restrict the collection or use of your personal information in
 
 
 
-### Disclosing Your Information
+###   
+Disclosing Your Information
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our subsidiaries, holding company(s) and its other subsidiaries (if applicable).
 
