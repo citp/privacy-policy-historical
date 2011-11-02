@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-sunglasses-finder.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529220840id_/http%3A//www.celebrity-sunglasses-finder.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-sunglasses-finder.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102204722id_/http%3A//www.celebrity-sunglasses-finder.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Sunglasses Finder
 
@@ -63,6 +63,6 @@ We will let our Visitors and Authorized Customers know about changes to our priv
 This web site contains links to other web sites. Please note that when you click on one of these links, you are moving to another web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours. 
 
   
-© 2007-2008 **Celebrity-Sunglasses-Finder.com** , All rights reserved.  
+© 2007-2011 **Celebrity-Sunglasses-Finder.com** , All rights reserved.  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited.  
 
