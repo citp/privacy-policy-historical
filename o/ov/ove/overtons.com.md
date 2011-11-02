@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925072202id_/http%3A//www.overtons.com/policies/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102071644id_/http%3A//www.overtons.com/policies/privacy.shtml) for the most accurate reproduction.*
 
 # Overton's® > Policies : Privacy
 
-**Effective date: May 19, 2010**  
+**Effective date: September 16, 2010**  
 
 
 This Privacy Policy (this “Policy”) explains how Gander Mountain, Overton’s, Consumers Marine and other members of the Gander Mountain family of businesses (collectively, “the Gander Mountain family of businesses,” “we,” “us,” and “our”) protect your privacy when you use the following Web sites (our “Sites”):
