@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highereducationinindia.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226223757id_/http%3A//www.highereducationinindia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highereducationinindia.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011417id_/http%3A//www.highereducationinindia.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Higher Education in India :: Privacy Policy
 
@@ -22,5 +22,4 @@ When you register with Highereducationinindia.com, we may contact you from time 
 It is to be taken into consideration that the internet is an ever evolving media and we may change our privacy policy from time to time to incorporate necessary future changes. Our use of any information we collect will always be consistent with the same policy under which the information was gathered, regardless of the content of the new policy.
 
   
-|    
-
+| 
