@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeprnow.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103164508id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeprnow.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010738id_/http%3A//www.freeprnow.com/Privacy.aspx) for the most accurate reproduction.*
 
-# freePRnow.com - Submit Your Free Press Releases Now
+# Online Free Press Release PR Distribution Submission Service Websites
 
-**Privacy Policy (01/01/2010)**
+**Privacy Policy (01/01/2011)**
 
 * * *
 
@@ -13,6 +13,9 @@ At freePRnow we recognize that privacy is important. This Policy applies to all 
 
   
 The freePRnow website allows its members to submit personal information. Other members, when looking at your profile, can view some of the information in your profile (e.g. name, company, and tags). This is information about yourself that you are asked to submit or be candid about. Other, more personal, information will only be accessible to others if you choose to submit and make it publicly visible to others. This information includes but is not limited to your email address and phone number. We will not collect or use sensitive information for purposes other than those described in this Policy and/or in the specific service notices, unless we have obtained your prior consent. 
+
+  
+Some of our advertising partners, including Google AdSense, may use cookies, JavaScript, or web beacons on our site to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. freePRnow has no access to or control over these cookies that are used by third-party advertisers. 
 
   
 When you send email or other communication to or through freePRnow, we may retain those communications in order to process your inquiries, respond to your requests and improve our services. 
