@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thelinksubmitter.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603072928id_/http%3A//www.thelinksubmitter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelinksubmitter.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012918id_/http%3A//www.thelinksubmitter.com/privacy-policy) for the most accurate reproduction.*
 
-# Free Web Directory Service, Free Directory Submission Software, Website Submission and a Directory List
+# Privacy Policy
 
 At The Link Submitter we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. This Privacy Policy, together with our terms and conditions, explains what happens to any personal data that you provide to us, or that we collect from you when you are on this site.
 
