@@ -1,63 +1,77 @@
-> *The following text is extracted and transformed from the harddrop.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227001740id_/http%3A//harddrop.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harddrop.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144100id_/http%3A//harddrop.com/pp) for the most accurate reproduction.*
 
 # Privacy Policy » Hard Drop - Tetris Community & Forum
 
-Our Privacy Policy is made to help you understand how we collect and use the personal information you decide to share, and help you make wise decisions when accessing the HD Website. By using or accessing the HD Website, you are accepting the practices that are outlined in our privacy policy.
+**What information do we collect?**  
 
- **The HD Website Privacy Policy includes:**
+We collect information from you when you register on our site or fill out a form. 
 
-• Information we collect
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
-• Cookies and sessions
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-• User management and updating information
+ **What do we use your information for?**
 
-• Use of your information
+Any of the information we collect from you may be used in one of the following ways: 
 
-• Selling information to Third Parties
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-• Changes to this policy
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-**1\. Information we collect**
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-There is personal information we collect from you when you access the HD Website. Information such as your e-mail address, location, gender and date of birth is collected when you sign up onto the HD Website. Furthermore, information that you wish to disclose to us through your account and profile settings will be shared to the public. We do not knowingly collect information from anyone under the age of 14. Minors must obtain proof of approval from a legal guardian at the time of member registration. HD will send an electronic mail upon request using the e-mail provided at the end of this page.
+; To administer a contest, promotion, survey or other site feature
 
-We collect visitors' IP addresses in our server logs. We may use this information to diagnose technical problems, prevent certain visitors from accessing our website, collect and publish geographical data.
+; To send periodic emails
 
-When you log into the HD Website, you may start transmitting information with other members through many methods. You may contribute content at your own risk such as videos, blogs, forum posts and more. Please be careful about posting any information you would not like to share with anyone on the HD Website as no privacy protection measures are perfect. Therefore, we cannot guarantee the control of unauthorized individuals from viewing the content you post on the HD Website. 
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-**2\. Cookies and sessions**
+ **How do we protect your information?**
 
-The HD Website may set cookies on visitors' computers in order to help determine site usage patterns, remember user sessions or diagnose technical problems. You may clear or delete your cookies at anytime using your browser's options. It is important to clear cookies when using a public computer.
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
 
-**3\. User management and updating unformation**
+ **Do we use cookies?**
 
-At anytime our users may edit or update any misinformation or content by utilizing our profile and account options. Through your account and profile settings, you may:
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-a) View and update your profile page accordingly.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-b) Make changes to any profile information including personal information.
+ **Do we disclose any information to outside parties?**
 
-c) Set your account settings such as location, state, city, date of birth, e-mail address, map location, gender, etc.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-d) Change your privacy settings, whether you want your location map on your profile. (IMPORTANT: Your location will still be viewable to everyone on the HD Website's world map. You may change your latitude and longitude if you would like your location to be anonymous.)
+ **Third party links**
 
-**4\. Use of your information**
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-The information that we collect when you sign up for an account is used to connect you with other people; members and visitors on the HD Website. Your profile is only accessible to other Hard Drop members and not visitors or guests.
+ **Childrens Online Privacy Protection Act Compliance**
 
-Your IP address is used to track down your regional location on our Google Map along with other users for everyone to see. You may change your location at any time if you feel that your location should be kept anonymous or less accurate. Time after time, we may decide to use your e-mail address to send you notifications regarding the HD Website (new features, website updates, etc).
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-If you do not want to receive e-mails from us in the future, please contact us:
+ **Online Privacy Policy Only**
 
-[ http://harddrop.com/contact-us](http://harddrop.com/contact-us)
+This online privacy policy applies only to information collected through our website and not to information collected offline.
 
-**5\. Selling information to Third Parties**
+ **Terms and Conditions**
 
-We do not sell your personal information to third party companies.
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://harddrop.com/popup/file_terms/dir_language/>
 
-**6\. Changes to this policy**
+ **Your Consent**
 
-At anytime this policy may change without any notice. We reserve the right to add to, update, or change this policy. We expect that most future changes to our policy are minor and will not interfere with your privacy concerns.
+By using our site, you consent to our [websites privacy policy](http://www.freeprivacypolicy.com/).
 
-harddrop.com takes your privacy concerns very seriously. If you have any questions or requests, do not hesitate to e-mail us at [ support@harddrop.com](mailto:support@harddrop.com)
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on April 29, 2011
+
+ **Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://harddrop.com  
+support@harddrop.com
