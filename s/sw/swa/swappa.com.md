@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swappa.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504111249id_/http%3A//swappa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swappa.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013738id_/http%3A//swappa.com/privacy) for the most accurate reproduction.*
 
 # Swappa (Android) Privacy Policy
 
