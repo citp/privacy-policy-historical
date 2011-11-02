@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2011-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110108131547id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etech.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102090343id_/http%3A//www.etech.com/help/Privacy-Policy--5) for the most accurate reproduction.*
 
 # Privacy Policy : eTech.com
 
@@ -30,5 +30,5 @@ We will not share your information with any third party outside of our organizat
 eTech.com contains links to other sites. Please be aware that we are not responsible for the content or privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of any other site that collects personally identifiable information. 
 
 **General**  
-we will change and update the Privacy Policy from time to time without any prior notice. Please be aware of what information we collect, use, and disclose in Privacy Policy. If you have any questions about the Privacy Notice, please contact us at: info@etech.com.  
+we will change and update the Privacy Policy from time to time without any prior notice. Please be aware of what information we collect, use, and disclose in Privacy Policy. If you have any questions about the Privacy Notice, please contact us at: service@etech.com.  
 
