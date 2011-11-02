@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toseeka.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423022301id_/http%3A//www.toseeka.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toseeka.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012552id_/http%3A//www.toseeka.com/privacypolicy.html) for the most accurate reproduction.*
 
 # ToseekA.com - Privacy Policy
 
@@ -53,4 +53,4 @@ ToseekA.com/ValueClick Brands
 222 E. Huntington Drive., Suite 105,   
 Monrovia, CA 91016
 
-E-Mail: [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com)
+E-Mail: [contact us](https://web.archive.org/contactus.html?selectitem=privacy)
