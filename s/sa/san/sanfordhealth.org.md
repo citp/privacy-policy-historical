@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506171755id_/http%3A//www.sanfordhealth.org/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfordhealth.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144540id_/http%3A//www.sanfordhealth.org/Home/Privacy) for the most accurate reproduction.*
 
 # Sanford Health
-
-### Search Services By Keyword
-
-### Find Services By Topic
-
-  *   * [ ](https://web.archive.org/Home/Privacy?print=true "Print This Page")
-  * 
-
 
 At Sanford, we vow to keep any information that we collect via our web site confidential. This includes your name, address, email address and other information that you disclose. The data you provide us is used to process the services in which you have requested and is only accessed by authorized personnel.
 
