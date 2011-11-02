@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dpshots.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520135134id_/http%3A//dpshots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dpshots.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102155932id_/http%3A//dpshots.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Photography Shots
+# Privacy Policy
 
 Your privacy is critically important to us. At DPShots ( http://dpshots.com ) we have a few fundamental principles:
 
