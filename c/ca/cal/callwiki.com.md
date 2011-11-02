@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callwiki.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424171754id_/http%3A//www.callwiki.com/info/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callwiki.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014956id_/http%3A//www.callwiki.com/info/PrivacyPolicy) for the most accurate reproduction.*
 
 # 
 
