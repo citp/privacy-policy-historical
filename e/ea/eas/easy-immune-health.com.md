@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225103011id_/http%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easy-immune-health.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102064002id_/http%3A//www.easy-immune-health.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Easy Immune Health.com
 
-|   
-  
 ## Privacy Policy
 
 We recognize that your privacy is important. This document outlines the types of personal information we receive and collect when you use this website, [Easy Immune Health.com](http://www.easy-immune-health.com/) as well as some of the steps we take to safeguard information. We hope this will help you make an informed decision about sharing personal information with us.
@@ -20,6 +18,8 @@ This information is collected if you request information from us, participate in
 Once information is reviewed, it is discarded or stored in our files. If we make material changes in the collection of personally identifiable information we will inform you by placing a notice on our site. Personal information received from any visitor will be used only for internal purposes and will not be sold or provided to third parties.
 
 No medical information is collected or retained by Easy Immune Health except in the case of those that become private clients. Private Client Information is retained on a separate secure server meeting all regulations for the collection and storing of medical information and is not available to the general public. 
+
+Easy Immune Health is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
 ## Use of Cookies and Web Beacons
 
@@ -46,8 +46,6 @@ This website is directed to adults; it is not directed to children under the age
 
   
 In some cases, we may collect information about you that is not personally identifiable. We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. The information collected is used solely for internal review and not shared with other organizations for commercial purposes.
-
-[](http://www.sitesell.com/Kerri6.html)
 
 ### Release of Information
 
@@ -83,12 +81,3 @@ Your use of this site indicates acceptance of this privacy policy.
 
   
 
-
-[](http://www.sitesell.com/Kerri6.html)
-
-|  **Search this Site**
-
-  
-
-
-[](http://www.easy-immune-health.com/vitamin-d-supplements.html)
