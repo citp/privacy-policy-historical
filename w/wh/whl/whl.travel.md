@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whl.travel privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104194852id_/http%3A//www.whl.travel/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whl.travel privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102015858id_/http%3A//www.whl.travel/privacy) for the most accurate reproduction.*
 
-# World Hotel Link - Privacy
+# Privacy
 
 We are committed to supporting the highest standards for the Fair Handling of Personal Information. We recognise that some visitors to our web site may have concerns about the information they provide to us and how we treat that information.
 
