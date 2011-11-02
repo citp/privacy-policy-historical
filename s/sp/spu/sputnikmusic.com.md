@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sputnikmusic.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501081950id_/http%3A//www.sputnikmusic.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sputnikmusic.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011429id_/http%3A//sputnikmusic.com/policy.php) for the most accurate reproduction.*
 
 # Sputnikmusic - Privacy Policy
 
