@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2010-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100922110052id_/http%3A//www.ecotrade.or.kr/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144919id_/http%3A//www.ecotrade.or.kr/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
 
-# ECOTRADE - B2B Marketplace for Korea Enviromental Technology and Products.
+# Environmental marketplace for Korea environmental technology & product | ECOTRADE
 
 1\. The Information We Collect 
 
