@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cokestudio.com.pk privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623062103id_/http%3A//cokestudio.com.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cokestudio.com.pk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102123106id_/http%3A//www.cokestudio.com.pk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Coke Studio
 
