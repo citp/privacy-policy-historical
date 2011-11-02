@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625190323id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangbook.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102175134id_/http%3A//www.bangbook.com/privacy_policy.php) for the most accurate reproduction.*
 
-# We BANG! Harder - Personals, Women, Men, Couples - BangBook.com
+# We bang, harder! - Adult personals, swingers and sex dating | Bangbook.com
 
 Thermea Entertainment Group Ltd. PRIVACY POLICY  
 THIS POLICY WAS LAST UPDATED ON 1st January 2010 
