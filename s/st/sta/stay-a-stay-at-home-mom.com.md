@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stay-a-stay-at-home-mom.com privacy policy that was archived on 2010-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100125184943id_/http%3A//www.stay-a-stay-at-home-mom.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stay-a-stay-at-home-mom.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102142841id_/http%3A//www.stay-a-stay-at-home-mom.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,6 +25,8 @@ A web beacon is a transparent image file used to monitor your journey around a s
 We may serve third party advertisements that use cookies and web beacons in the course of ads being served on our web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give us is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on our web site.
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with our site, should you so choose.
+
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ### Children's Online Privacy Protection Act
 
