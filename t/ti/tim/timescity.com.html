@@ -1,585 +1,670 @@
-<!--The following is the downloaded HTML source of the timescity.com privacy policy that was archived on 2010-12-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101222013110id_/http%3A//www.timescity.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the timescity.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102012854id_/http%3A//timescity.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
-		<title> TimesCity | Privacy Policy</title>
-		<link rel="stylesheet" type="text/css" href="http://www.timescity.com/css/master.css" media="all">
-		<link rel="stylesheet" type="text/css" href="http://www.timescity.com/css/about.css" media="screen">	
-		<!--Start of Analytic Code Part 1-->
-<script language="javascript">
-	function blockError(){return true;} 
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Read the reviews of Bars, Restaurants &amp; Clubs in Mumbai at TimesCity. Get the complete information about the best restaurants, bars and nightclubs in Mumbai at TimesCity">
+<title>TimesCity | Privacy Policy</title>
+<link rel="stylesheet" media="all" type="text/css" href="http://timescity.com/resources/css/style.css">
+<script type="text/javascript">
+	var WEBSITE_URL = "http://timescity.com/";
+	var TO_DB_FILE_PATH = "http://timescity.com/2db/";
+	var POPUP_PATH = "http://timescity.com/popups/";
+	var IMAGE_PATH = "http://timescity.com/resources/images/";
+  	var MAX_RECORDS_PER_PAGE = 10;
+  	
+</script>
+<script type="text/javascript" src="http://timescity.com/resources/js/jquery.min.js"></script>
+<script type="text/javascript" src="http://timescity.com/resources/js/jquery.tabs.js"></script>
+<script type="text/javascript" src="http://timescity.com/resources/js/jquery.dd.js"></script>
+<script type="text/javascript" src="http://timescity.com/resources/js/common.js"></script>
+<script language="javascript" type="text/javascript">
+$(document).ready(function() {
+	try {
+		dd3 = $('#changecity').msDropDown({mainCSS:'dd3'}).data("dd");
+		dd3.addMyEvent("onOpen", function() {$("#changecity_child").css({height:'auto'})});
+	} catch(e) {
+	}
+});
+var userId = Get_Cookie('UI');
+var userName = Get_Cookie('USERSCREENNAME');
+</script>
+<link href="http://timescity.com/favicon.ico" rel="shortcut icon">
+<!--Start of Indiatimes Analytic Code Part 1-->
+<script language="javascript" type="text/javascript">
+function blockError(){return true;} 
 	window.onerror = blockError; 
 	var dtTT_startofpage = new Date();
 	var rndtno = Math.random();	    
-	var timeslog_channel_url = 'www.timescity.com';       
-	document.write('<img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.timescity.com/timeslog.dll/topcnt?CHUR=www.timescity.com&randomno='+ rndtno +'" align="left"/>'); 
-</script></head><body><img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.timescity.com/timeslog.dll/topcnt?CHUR=www.timescity.com&amp;randomno=0.6982320557075883" align="left">
+	var timeslog_channel_url = 'timescity.com';       
+	document.write('<img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.timescity.com/timeslog.dll/topcnt?CHUR=timescity.com&randomno='+ rndtno +'" align="left"/>'); 
+</script></head><body><img border="0" width="0" height="0" style="display:none;visibility:hidden;" src="http://timeslog.timescity.com/timeslog.dll/topcnt?CHUR=timescity.com&amp;randomno=0.5212070052423718" align="left">
 <noscript>
-<img width="0" height="0" border="0" style="display:none;visibility:hidden;" src="http://timeslog.timescity.com/timeslog.dll/topcnt?CHUR=www.timescity.com&nojs=1"/>
+<img width="0" height="0" border="0" style="display:none;visibility:hidden;" src="http://timeslog.timescity.com/timeslog.dll/topcnt?CHUR=timescity.com&nojs=1"/>
 </noscript>
-<!--Start of Analytic Code Part 1-->		<meta http-equiv="content-type" content="text/html; charset=iso-8859-1"><!-- master css -->
-		<script type="text/javascript" src="http://www.timescity.com/js/jquery/header.js"></script>
-        <script type="text/javascript" src="http://www.timescity.com/js/common.js"></script>
-				
-		
-		<meta name="keywords" content="">
-<meta name="description" content="">
-	
-			
-	
-	<div id="dialogBox"></div>
-	<div class="wrapper">
-		<script language="javascript">
-//For Change City Drop Down
-$(function(){
-	$("a#changeCity").click(function(){
-	if($("ul.cityList").css("display")=='none'){
-		$("ul.cityList").fadeIn("fast");
-		return false;
+<!--End  of Indiatimes  Analytic Code Part 1-->
+
+
+<!--Pop up window-->
+<div class="overlayDiv"></div><div class="popupwindow"></div>
+<!--Pop up window ends-->
+<div id="tccontainer">
+	<div class="tcpage">
+	<!-- Include Header -->
+	<script type="text/javascript">
+Set_Cookie('cityid',2,'365','/');
+
+function callAutoSuggest(val,flag){
+	var len=val.length;
+	if(flag=='establish'){
+		var stype=jQuery('#sfor').val();
+		var flag=stype;
+	}
+if(flag=='1' || flag=='2' || flag=='3' || flag=='4'){
+	if(flag=='1'){flag='est';}
+	if(flag=='2'){flag='bar';}
+	if(flag=='3'){flag='event';}
+	if(flag=='4'){flag='movie';}
+	if(len >= 3){
+			$.get('http://timescity.com/autosuggest.php', {'query':val, 'bycity':'Mumbai', 'loc':flag},
+			function(data){
+			var serchPos = $("#searchname").position();
+			$('#showauto').show();
+			$('#showauto').css("left",serchPos.left);
+			$('#showauto').css("top",serchPos.top+35);
+			$('#showauto').css("width", "233px");
+			$('#showauto').html(data);
+			$("#bylocation").click(function(){
+			$('#showauto').hide();
+			});
+
+		});
 	}else{
-		$("ul.cityList").fadeOut("fast");
-		return false;
+		$('#showauto').html('');
+		$('#showauto').hide();
 	}
-	return false;
-});
-
-$("div#cityDiv").hover(
-	function(){
-		return false;
-	},
-	function(){
-		$("ul#cityDrop").removeClass("blackNav");
-		$("ul.cityList").fadeOut("fast");
-		return false;
 	}
-);
+	else if(flag=='loc'){
+			if(len >= 3){
+				$.get('http://timescity.com/autosuggest.php', {'query':val, 'bycity':'Mumbai', 'loc':flag},
+				function(data){
+					var serchPos = $("#bylocation").position();
+			$('#showautoLocation').css("left",serchPos.left);
+			$('#showautoLocation').css("top",serchPos.top+35);
+			$('#showautoLocation').css("width", "233px");
+				$('#showautoLocation').show();
+				$('#showautoLocation').html(data);
+				$("#searchname").click(function(){
+				$('#showautoLocation').hide();
+					});
 
-$("a.closeCity").click(function(){
-	$("ul.cityList").fadeOut("fast");
-	return false;
-	});
-});
-var uiCookieValue = Get_Cookie('UI');
-var	screenusername = Get_Cookie('USERSCREENNAME');
-function SetCity(cityname, isEvent){
-	$.post(HTSLASH+'get_header_city.php',{'cityid':cityname},function(data){
-	$('#cityDrop').html(data);
-	var indexpagename;
-	switch(cityname){
-		case '39':
-				indexpagename	=	HTSLASH + "goa";
-				break;
-		case '40':
-				indexpagename	=	HTSLASH+"chennai";
-				break;
-		case '1':
-				indexpagename	=	HTSLASH+"delhi";
-				break;
-		case '49':
-				indexpagename	=	HTSLASH+"pune";
-				break;
-		case '22':
-				indexpagename	=	HTSLASH+"ahmedabad";
-				break;
-		case '5':
-				indexpagename	=	HTSLASH+"bengaluru";
-				break;
-		case '12':
-				indexpagename	=	HTSLASH+"hyderabad";
-				break;
-		case '3':
-				indexpagename	=	HTSLASH+"kolkata";
-				break;
-		case '5':
-				indexpagename	=	HTSLASH+"bengaluru";
-				break;
-		case  '2':
-		default:
-				indexpagename	=	HTSLASH+"mumbai";
-				break;
-	}
+				$(".localSuggestContainer a").click(function(){
+				var locationName=$(this).attr("title");
+//				var locationName=$(this).html().replace('<strong>','');
+//				locationName=locationName.replace('</strong>','');
+				$("#searchtype").val('extloc');
+				$("#bylocation").val(locationName);
+				$("#showautoLocation").hide();
 
-        var EventLiveCities = {"39":"false","40":"true","1":"true","2":"true","49":"false","5":"true","12":"true","3":"true"};
-        if(isEvent && (EventLiveCities[cityname] == "true")){
-                indexpagename += "/events"
-        }
+				});
 
-	window.location.href	=	indexpagename;
-});
-}
-var cityNameCookieValue = 'Mumbai';
-var isEvent = eval('false');
-var ipcityname;	
-var defaultcity	=	"Mumbai";
-var innerStr	=	'';
-if(cityNameCookieValue != null){
-	ipcityname	=	cityNameCookieValue;
-}else{
-	ipcityname	=	defaultcity;
-}
-var cityidarray	=	new Array();
-cityidarray[39] = "Goa";
-cityidarray[40] = "Chennai";
-cityidarray[1] = "Delhi";
-cityidarray[2] = "Mumbai";
-cityidarray[49] = 'Pune';
-cityidarray[5] = 'Bengaluru';
-cityidarray[12] = 'Hyderabad';
-cityidarray[3] = 'Kolkata';
 
-var maincity='';
-for(var i in cityidarray) {
-	if(cityidarray[i] == ipcityname){
-		maincity = 	ipcityname;
-		break;
-	}
-}
-if(maincity	==	''){
-	maincity = 	defaultcity;
-}
-innerStr = '<li><a href="/mumbai" Title="'+maincity+'" id="currentCity" ><span>'+maincity+'</span></a>';
-var cityIdDropCount=0;
-var cityIdArrayCount=cityidarray.length;
-if(cityIdArrayCount >0){
-	for(var j in cityidarray) {
-		if(cityidarray[j] != ''){
-			if(cityidarray[j] != maincity){
-				if(cityIdDropCount	==	0){
-					innerStr	+= '<ul class="cityList">';
-				}
-				innerStr	+=		'<li><a href="javascript:void(0);" onclick="SetCity(\''+j+'\', '+ isEvent +')">'+cityidarray[j]+'</a></li>';
-				cityIdDropCount++;
-			}
+			});
+		}else{
+			$('#showautoLocation').html('');
+			$('#showautoLocation').hide();
 		}
 	}
 }
-if(cityIdDropCount	>	0){
-	innerStr	+= '</ul>';
+
+function submitSearchForm(){
+	var stype=jQuery('#sfor').val();
+
+if($("#bylocation").val() == 'Locality, Area, etc'){
+	$("#bylocation").val('');
+	}
+ if($("#searchname").val() == 'Restaurants' || $("#searchname").val() == 'Bars & Clubs' || $("#searchname").val() == 'Events' || $("#searchname").val() == 'Movies'){
+	$("#searchname").val('');
+	}
+
+	var searchname=jQuery('#searchname').val();
+	var bylocation=jQuery('#bylocation').val();
+	var searchfrom=jQuery('#searchfrom').val();
+	var searchtype=jQuery('#searchtype').val();
+
+	var searchQuery='';
+	 searchQuery+='searchname='+searchname;
+	 if(bylocation!=''){
+		 searchQuery+='&bylocation='+bylocation;
+	 }
+	  if(searchfrom!=''){
+		 searchQuery+='&searchfrom='+searchfrom;
+	 }
+	  if(searchtype!=''){
+		 searchQuery+='&searchtype='+searchtype;
+	 }
+	  if(stype!=''){
+		 searchQuery+='&sfor='+stype;
+	 }
+
+	if(stype=='1'){
+		document.location.href='http://timescity.com/mumbai/restaurant/search/'+searchQuery;
+	}else if(stype=='2'){
+		document.location.href="http://timescity.com/mumbai/nightlife/search/"+searchQuery;
+
+	}
+	else if(stype=='3'){
+		document.location.href="http://timescity.com/mumbai/event/eventssearch/"+searchQuery;
+		}
+	else if(stype=='4'){
+		document.location.href="http://timescity.com/mumbai/movie/moviesearch/"+searchQuery;
+	}else{
+		document.location.href='http://timescity.com/mumbai/restaurant/search/'+searchQuery;
+
+	}
 }
-innerStr += '</li>';
+
+$(document).ready(function(){
+
+
+	var sforValue=0;
+	 sforValue='';
+
+	if(sforValue>0){
+		if(sforValue == '1'){
+		$(".topserach a").removeClass('sellnk');
+		$(".topserach a").eq(0).addClass('sellnk');
+		$(".topNav li a").removeClass('active');
+		$(".topNav li a").eq(1).addClass('active');
+		$("#searchname").val("Restaurants");
+
+	}else if(sforValue == '2'){
+		$(".topserach a").removeClass('sellnk');
+		$(".topserach a").eq(1).addClass('sellnk');
+		$(".topNav li a").removeClass('active');
+		$(".topNav li a").eq(2).addClass('active');
+		$("#searchname").val("Bars & clubs");
+
+	}else if(sforValue == '3'){
+		$(".topserach a").removeClass('sellnk');
+		$(".topserach a").eq(2).addClass('sellnk');
+		$(".topNav li a").removeClass('active');
+		$(".topNav li a").eq(3).addClass('active');
+		$("#searchname").val("Events");
+	}else if(sforValue == '4'){
+		$(".topserach a").removeClass('sellnk');
+		$(".topserach a").eq(4).addClass('sellnk');
+		$(".topNav li a").removeClass('active');
+		$(".topNav li a").eq(4).addClass('active');
+		$("#searchname").val("Movies");
+	}
+	$("#sfor").attr('value',sforValue);
+	}
+
+	$(".topserach a").click(function(){
+		var setId=$(this).attr('rel');
+		$("#sfor").attr('value',setId);
+		$(".topserach a").removeClass('sellnk');
+		$(this).addClass('sellnk');
+		if(setId == "1"){$("#searchname").val("Restaurants");}
+		else if(setId == "2"){$("#searchname").val("Bars & Clubs");}
+		else if(setId == "3"){$("#searchname").val("Events");}
+		else if(setId == "4"){$("#searchname").val("Movies");}
+		else{$("#searchname").val("Restaurants");}
+
+	});
+
+	$(".more a").click(function(){
+	var setLeftPos=	$(this).offset();
+	$("#loadingImg").css("top",setLeftPos.top);
+
+	});
+
+	$('#searchname').bind('keypress', function(e) {if(e.keyCode==13){submitSearchForm();}});
+     $('#bylocation').bind('keypress', function(e) {if(e.keyCode==13){submitSearchForm();}});
+
+});
+
+
+function setOnFocus(valtxt){
+
+	var tempvar1=valtxt;
+	$("#searchname").attr('settxt',tempvar1);
+	 if($("#searchname").val() == 'Restaurants' || $("#searchname").val() == 'Bars & Clubs' || $("#searchname").val() == 'Events' || $("#searchname").val() == 'Movies'){
+
+
+
+		$("#searchname").val('');
+
+	 }
+}
+
+function getOnBlur(){
+var setattr=$("#searchname").attr('settxt');
+	if($("#searchname").val() == ''){
+		$("#searchname").val(setattr);
+	}
+}
+
 /*$(document).ready(function(){
-	if(Get_Cookie('caution')==null || Get_Cookie('caution')==""){
-	Set_Cookie('caution','1',730,'/');
-				$("div.caution").slideDown(600);
-				var count=0;
-	    				var myInt = setInterval(function(){
-										 count ++;
-										 if(count==5){
-											clearInterval(myInt);
-											$("div.caution").slideUp(600);
-										 }
-										 },1000);
-	 }					 
-	});*/
+	location.href="/index.html";
+});
+*/
 </script>
-<!--div class="caution">
-	<span><strong>Caution</strong>: this site may not be optimized for your browser, please bear with us for sometime.</span>
-</div-->
-<div class="Timescity_Top_728x90_Banners">
- <script type="text/javascript" src="http://www.timescity.com/js/banner/mumbai_others_top_728x90.js"></script>
-    
-     </div>
-     <div class="clear">&nbsp;</div>
+<div class="tcheader">
+	<div class="tclogo column"><a href="/mumbai"><img src="http://timescity.com/resources/images/tc-logo.gif" alt="Timescity" title="Timescity"></a></div>
+	<div class="tcddown" id="cityDrop">
+<script language="javascript" type="text/javascript">
+ var 	jsCityName	=	'Mumbai';
+ var 	cityDrop		=	'';
+if(jsCityName == null)
+{
+	jsCityName	=	'Mumbai';
+}
+ cityDrop	=	'<div class="city">&raquo; '+jsCityName+'</div><div class="dropdwn"><select name="changecity" id="changecity" onchange="setCity(this.value);" style="width:90px;">';
+ for(var counter in cityIdArray) {
+		if(cityIdArray[counter] != ''){
+			if(cityIdArray[counter] != jsCityName){
+				cityDrop	+=		'<option value="'+counter+'">'+cityIdArray[counter]+'</option>';
 
-	<div id="topNavigation">
-			<div style="position:absolute; z-index:9500;left:10px;top:3px;width:600px;">
-				<ul class="secLinks">
-					<li><a href="/mumbai" title="Visit Homepage">Home</a></li>
-					<li><a href="http://www.indiatimes.com" title="Visit Indiatimes.com" class="icor18 indiatimes" target="_blank">Indiatimes.com</a></li>
-				</ul>
-			</div>	
-			<div style="position:absolute; z-index:9500;right:10px;top:5px;width:350px;text-align:right">
-				<ul class="inline">
-					<li><a href="javascript:void(0);" class="help" title="Feedback">Feedback</a></li>
-				</ul>
-				<div class="clear"></div>
-			</div><!--temp-->
-		</div><!--topNavigation-->
-		<div id="branding">
-			<a href="/mumbai" title="Times City"><img src="http://www.timescity.com/img/global/logo.png" alt="Times City" height="53" width="268"></a>
-			<input type="hidden" id="cityName" name="cityName" value="mumbai"><!-- hidden field to store cityName --> 
-			<form method="get" action="/mumbai/searchrestaurants.html" id="search" class="searchForm itl">
-			<input type="hidden" name="frm" value="toph">
-            	<input type="text" name="searchTxt" id="searchText" value="Search" class="itl" autocomplete="off" rel="Restaurants" onkeyup="ajax_showOptions(this,'top',event)">
-				<input type="submit" class="topButton" id="search-btn" alt="Search" name="imageField" value="">    
-			<div class="searchWhat">
-					<label class="searchOption">
-						<input type="radio" class="radio topSearch" value="Restaurants" id="sugglist" name="sugglist" checked="checked">
-						<span>Restaurants</span> </label> <label class="searchOption">
-						<input type="radio" class="radio topSearch" value="Nightlife" id="sugglist" name="sugglist">
-						<span>Nightlife</span>
-					</label>
-				</div> 	
-			</form>
+			}else{
+				cityDrop	+=		'<option value="'+counter+'" style="display:none;" selected="selected">'+cityIdArray[counter]+'</option>';
+			}
+		}
+	}
 
-		</div><!--branding-->
-		<div id="extraLinks">
-			<div id="cityDiv" style="position:absolute; z-index:9300;left:0px;top:8px;">
-				<ul class="chooseCity" id="cityDrop">
-				
-<script language="javascript">
-document.write(innerStr);
-</script>undefined				
-			</ul><!-- Close City Selection -->
-				<a href="javascript:void(0);" id="changeCity">Change City</a>
-			</div>
+ cityDrop	+=	 ' </select></div>';
+ document.write(cityDrop);
+</script>
+	</div>
+  	<form name="sfrom">
+  	<div class="searchPanel">
+        <div class="topserach">
+			<label class="topserach"><a href="javascript:void(0);" rel="1" class="sellnk">RESTAURANTS</a> <span>|</span> <a href="javascript:void(0);" rel="2">BARS &amp; CLUBS</a> <span>|</span> <a href="javascript:void(0);" rel="3">EVENTS</a><!-- | <a href="javascript:void(0);" rel="4">MOVIES</a> --></label>
+ 		</div>
+
+		  <div class="searchpro column">
+ 				<input name="searchname" id="searchname" type="text" class="tcsearch" autocomplete="off" onkeyup="callAutoSuggest(this.value, 'establish');" onblur="getOnBlur()" onfocus="setOnFocus(this.value)" settxt="" value="Restaurants">
+				<div id="showauto" class="localSuggestContainer"></div>
+		</div>
+		<div class="searchpro column">
+			<input name="bylocation" id="bylocation" type="text" class="tcsearch" autocomplete="off" onkeyup="callAutoSuggest(this.value, 'loc')" onblur="if(this.value==''){this.value='Locality, Area, etc'}" onfocus="if(this.value=='Locality, Area, etc'){this.value=''}" value="Locality, Area, etc">
+			<div id="showautoLocation" class="localSuggestContainer"></div>
+			<input type="hidden" name="searchfrom" id="searchfrom" value="top">
+			<input type="hidden" name="searchtype" id="searchtype" value="rlv">
+			<input type="hidden" name="sfor" id="sfor" value="1">
+		</div>
+	</div>
+		  <div class="tcSearch">
+			<input type="button" class="tcsearchbtn" value="Search" onclick="return submitSearchForm()">
+		  </div>
+		  <div class="clear"></div>
+  </form>
+</div>
+
+	<div class="clear"></div>
+   <div class="topNavigation">
+		<div class="rightPanelmenu">
+      	<div class="logNav">
+		<ul>
+		<li class="rght"></li>
+           <script type="text/javascript">
+           var userId = Get_Cookie('UI');
+           var userName = Get_Cookie('USERNAME');
+
+
+			var statusLoginStr='';
+			if(userId==null){
+				statusLoginStr = '<li><a id="globalLogin" href="javascript:void(0);" title="Member Login" >Member Login</a></li>';
+									statusLoginStr += '<li><a href="' + WEBSITE_URL + 'register.php" title="Register" >Register</a></li>';
+								statusLoginStr       += '<li><a href="javascript:void(0);" class="btnFb" onclick="update_user_box();"><img src="http://timescity.com/resources/images/btn-facebook.gif" /></a></li>';
+			}else{
 			
-			<div style="position:absolute; z-index:9300;right:0px;top:0px;">
-				<ul class="inline" id="linksExtra">
-					<li class="last"><a href="javascript:void(0);" class="subscribe" title="Subscribe To Newsletter">Subscribe To Newsletter</a></li>
-				</ul>
-			</div>
-		</div><!--extraLinks-->
-		<div id="primaryNav">
-			<div style="position:absolute; z-index:8500;left:0px;top:0px;">
-			<ul class="sf-menu" id="myMenu">
-
-			<li class="current">
-					<a href="/mumbai/restaurants">Restaurants</a>
-					<ul class="level2">
-						<li class="firstCol">
-							<a href="http://www.timescity.com/mumbai/restaurants">Restaurants Home</a>
-							<a href="http://www.timescity.com/mumbai/bestofcity/1/1">TimesCity Recommends</a>
-							<a href="http://timescity.com/mumbai/timesawards/restaurants">Times Food Awards</a>
-
-			<strong class="hs">
-			<b>HOT Searches...</b>
-				<a href="/mumbai/searchrestaurants.html?searchname=Home+delivery&amp;mn=Home+delivery" title="Home delivery">
-Home delivery</a>, 								
-
-				<a href="/mumbai/searchrestaurants.html?searchname=chinese&amp;mn=chinese" title="chinese">
-chinese</a>, 								
-
-				<a href="/mumbai/searchrestaurants.html?searchname=south+indian&amp;mn=south+indian" title="south indian">
-south indian</a>, 								
-
-				<a href="/mumbai/searchrestaurants.html?searchname=street+food&amp;mn=street+food" title="street food">
-street food</a>, 								
-
-				<a href="/mumbai/searchrestaurants.html?searchname=sea+food&amp;mn=sea+food" title="sea food">
-sea food</a>, 								
-
-				<a href="/mumbai/searchrestaurants.html?searchname=maharashtrian&amp;mn=maharashtrian" title="maharashtrian">
-maharashtrian</a>								
-
-			</strong>	
-								
-						
-						</li>
-					</ul>
-				</li>
-			<li class="current">
-					<a href="/mumbai/barsnclubs">Bars &amp; Clubs</a>
-					<ul class="level2">
-						<li class="firstCol">
-							
-			<a href="http://www.timescity.com/mumbai/barsnclubs">Bars &amp; Clubs Home</a>
-			<a href="http://www.timescity.com/mumbai/bestofcity/1/1">TimesCity Recommends</a>
-			<a href="http://timescity.com/mumbai/timesawards/barsnclubs">Times Nightlife Awards</a>
-			<strong class="hs">
-			<b>HOT Searches...</b>
-								<a href="/mumbai/searchbar.html?searchname=lounge&amp;mn=lounge" title="lounge">
-lounge</a>, 								
-
-								<a href="/mumbai/searchbar.html?searchname=bar&amp;mn=bar" title="bar">
-bar</a>, 								
-
-								<a href="/mumbai/searchbar.html?searchname=nightclub&amp;mn=nightclub" title="nightclub">
-nightclub</a>, 								
-
-								<a href="/mumbai/searchbar.html?searchname=dance&amp;mn=dance" title="dance">
-dance</a>, 								
-
-								<a href="/mumbai/searchbar.html?searchname=night+club&amp;mn=night+club" title="night club">
-night club</a>, 								
-
-								<a href="/mumbai/searchbar.html?searchname=drinks&amp;mn=drinks" title="drinks">
-drinks</a>								
-
-	</strong>	
-		
-							
-						</li>
-					</ul>
-				</li>
-				
-				<!-- <li class="current">
-					<a href="javascript:void(0);">Localities</a>
-					<ul class="level2 MapCon">
-						<li class="firstCol  Wid">
-						<a href="/map.php" class="expMap">Explore on Map</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Bandra+%28w%29">Bandra (w)</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Andheri+%28w%29">Andheri (w)</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Colaba">Colaba</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Andheri+%28e%29">Andheri (e)</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Lower+Parel">Lower Parel</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Fort">Fort</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Malad+%28w%29">Malad (w)</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Churchgate">Churchgate</a>
-		<a href="/mumbai/searchrestaurants.html?tlocby=Juhu">Juhu</a>
-				</li>
-						<li class="map">
-							<a href="/map.php"><img src="http://www.timescity.com/img/promo/city-on-map6.gif" alt="Explore Map" title="Explore Map" width="174" height="247" /></a>
-						</li>
-					</ul>
-				</li> -->
-
-
-                			<li class="current" style="width:120px">
-	<a href="/mumbai/events"><span><img src="http://www.timescity.com/img/events/new.gif" alt="Events" title="Events" style="margin-top: 4px; margin-right: 10px; float: left;"></span>Events</a>
-		
-				</li>
-			</ul>
-			</div><!--temp-->
-			<div style="position:absolute;width:285px;z-index:8500;right:20px;top:0px;">
-				
-				<ul class="inline fright" id="accLinks">
-					<script language="javascript">			
-						if(uiCookieValue != null && uiCookieValue != '' && Get_Cookie('is_fb_user')==null){
-							var statusLoginStr  = '<li id="todisplayscreenname"><strong>Welcome '+screenusername+'</strong></li>';
-							statusLoginStr     +='<li  id="myaccountlink"><a href="'+HTSLASH+'user-profile.php">MY ACCOUNT</a></li>';
-							statusLoginStr     +='<li  id="logoutfrom" class="last" ><a href="javascript:void(0);" onclick="logout();">LOGOUT</a></li>';
-						}else{			
-							var statusLoginStr = '<div id="displayfacebookusername"><li id="facebookuserid" style="display:inline;float:left;" ><fb:login-button onlogin="update_user_box();"></fb:login-button></li>';							
-							statusLoginStr  += '<li id="iffbthenhide" style="display:inline;float:left;"><a href="javascript:void(0);" onclick="return false;" id="globalLogin" >LOGIN</a></li>';
-							statusLoginStr  += '<li id="hiddregister" class="last" style="display:inline;float:left;" ><a href="'+HTSLASH+'register.php">REGISTER</a></li></div>';
-						}						
-						if(Get_Cookie('is_fb_user')==1){
-							var	screenusername = Get_Cookie('USERNAME');
-							screenusername=screenusername.replace('+',' ');
-							var statusLoginStr = '<li id="facebookuserid" style="display:none;float:left;" ><fb:login-button onlogin="update_user_box();"></fb:login-button></li>';
-							statusLoginStr      += '<li id="iffbthenhide" style="display:none;float:left;" ><a href="javascript:void(0);" onclick="return false;" id="globalLogin" >LOGIN</a></li>';
-							statusLoginStr     += '<li id="hiddregister" class="last" style="display:none;float:left;"><a href="'+HTSLASH+'register.php">REGISTER</a></li>';
-
-							statusLoginStr     +="<li id='welcomemainid' class='FBIE6'><img src='http://www.timescity.com/img/face_book_logo.jpg'>&nbsp;<b>"+screenusername+"</b></li>";
-							statusLoginStr     += '<li id="fbmyacc" class="FBIE6"><a href='+HTSLASH+'user-profilef.php>MY ACCOUNT</a></li>';
-							statusLoginStr     +='<li id="fblogout" class="FBIE6"><a href="javascript:void(0);" onclick="fblogout();">LOGOUT</a></li>';
-					    }	
-						if(Get_Cookie('is_fb_user')==3){
-							var	screenusername = Get_Cookie('USERNAME');
-							screenusername=screenusername.replace('+',' ');
-							var statusLoginStr = '<li id="facebookuserid" style="display:none;float:left;" ><fb:login-button onlogin="update_user_box();"></fb:login-button></li>';
-							statusLoginStr  += '<li id="iffbthenhide" style="display:none;float:left;"><a href="javascript:void(0);" onclick="return false;" id="globalLogin" >LOGIN</a></li>';
-							statusLoginStr  += '<li id="hiddregister" class="last" style="display:none;float:left;" ><a href="'+HTSLASH+'register.php">REGISTER</a></li>';
-							
-							statusLoginStr +="<li id='welcomemainid'><img  src='http://www.timescity.com/img/face_book_logo.jpg'>&nbsp;<b>"+screenusername+"</b></li>";
-							statusLoginStr     += '<li id="fbmyacc" ><a href='+HTSLASH+'user-profile.php>MY ACCOUNT</a></li>';
-							statusLoginStr     +="<li id='fblogout' ><a href='javascript:void(0);' onclick='fblogout();'>LOGOUT</a></li>";
-					    }	
-					document.write(statusLoginStr);
-	</script>
-<script type="text/javascript">
-function update_user_box() {
-$.closeOverlay();
-if(uiCookieValue == null && Get_Cookie('is_fb_user')==null){
-	if(Get_Cookie('is_fb_user')==null){
-		var api = FB.Facebook.apiClient;
-		var userId = api.get_session().uid;	
-	   $.post(HTSLASH+"fb/needtoredirectpage.php",{'userId':userId},function(data){
-		   $("#facebookuserid").hide();
-		   $("#iffbthenhide").hide();
-		   $("#hiddregister").hide();
-		       if(data!=''){
-		    	  var  txt  = window.location.href;
-		    	  var  txt2 = txt.replace("?&&logout=1",' ');
-		    	  window.location = txt2;
+				if ( userName != null )
+        {
+          userName = userName.replace('+',' ');
+        }
+				if(Get_Cookie('is_fb_user')==1){
+					statusLoginStr       = '<li><div>Welcome '+userName+'</div></li>';
+					statusLoginStr      += '<li><a href="'+WEBSITE_URL+'myprofile/">Profile</a></li>';
+					statusLoginStr      += '<li><a href="javascript:void(0);"  onclick="fblogout();">Logout</a></li>';
+				}else{
+					statusLoginStr       = '<li><div>Welcome '+userName+'</div></li>';
+					statusLoginStr      += '<li><a href="'+WEBSITE_URL+'myprofile/">Profile</a></li>';
+					statusLoginStr      += '<li><a href="'+WEBSITE_URL+'logout.php">Logout</a></li>';
 				}
-	})}
- }
-var fbchecked = getURLParam('fbpush'); 
-if(Get_Cookie['UI']!="" && Get_Cookie['is_fb_user']!="" && fbchecked=='1'){	
-	posttofacebookrating();
-}
-if(Get_Cookie['UI']!="" && Get_Cookie['is_fb_user']!="" && fbchecked=='2'){	
-	posttofacebookreview();
-}
 
+			}
+			document.write(statusLoginStr);
+		</script>
+		 </ul>
+ <div id="fb-root"></div>
+
+<script src="http://connect.facebook.net/en_US/all.js"></script>
+<script type="text/javascript">
+FB.init({
+				 appId  : 'bde720edcd9e2c8ff87fdc67fe1d30c2',
+				 status : true, // check login status
+				 cookie : true, // enable cookies to allow the server to access the session
+				 xfbml  : true  // parse XFBML
+			   });
+</script>
+
+<script type="text/javascript">
+function update_user_box(r_url){
+	//-----------------To get full permission
+            FB.login(function(response) {
+				  if (response.session) {
+					if (response.perms) {
+						$.post("http://timescity.com/fb/facebookregistration2db.php",{},
+						function(data){
+							if(data=='1'){
+								 var url = 'http://timescity.com/register.php';
+								 var arr_file_name = document.URL.split('/').reverse();
+								 var file_name = arr_file_name[0];
+								 if (r_url == undefined)
+								 {
+								    if(file_name != 'register.php'){
+									   window.location.reload();
+								    } else {
+									    window.location.href='http://timescity.com/delhi/restaurants';
+                    }
+                 }
+                 else
+                 {
+                    window.location.href = r_url;   
+                 } 
+								} else if ( data == '2') {
+								  window.location.href='http://timescity.com/myprofile/';
+                }
+						});
+						// user is logged in and granted some permissions.
+					  // perms is a comma separated list of granted permissions
+					} else {
+						  update_user_box();
+						// user is logged in, but did not grant any permissions
+					}
+				  } else {
+					  //alert('user is not logged in');
+					  // user is not logged in
+				  }
+				}, {perms:'email,publish_stream,user_groups,user_location,user_birthday,user_likes,user_interests'});
 }
 function fblogout(){
-	 $("#welcomemainid").hide();
-	 $("#myaccountlink").hide();
-	 $("#fbmyacc").hide();
-	 $("#fblogout").hide();
-	 $("#fblogoutf").hide();
-	 $("#facebookuserid").show();
-    $("#logoutfrom").show();
-	$("#hidthialso").show();
-	$("#hiddregister").show();
-	$("#iffbthenhide").show();	
-	$.post(HTSLASH+'logout.php',{},function(){
-		setTimeout(function(){ window.location.reload();}, 3000);
-	})
-	FB.Connect.logout();   
-	
+	FB.logout();
+	window.location = "http://timescity.com/logout.php";
 }
+function fb_apprequests()
+{
+  FB.ui({ method: 'apprequests', message: 'Timescity.com Requests'});         
+}
+/*
+FB.getLoginStatus(function(response){
+  if (response.session) {
+	if(Get_Cookie("UI") == ""){
+	 $.post("http://timescity.com/fb/facebookregistration2db.php",{},
+	   function(data){
+			if(data=='1'){
+				window.location.reload();
+			}
+		});
+	}
+  } else {
+    // no user session available, someone you dont know
+  }
+});
+*/
 </script>
+        </div>
+      </div>
+      <div class="leftPanelmenu">
+        <div class="topNav">
+          <ul>
+            <li><a href="/mumbai"><span class="lft"></span><span>Home</span></a></li>
+            <li><a href="/mumbai/restaurants">Restaurants</a></li>
+            <li><a href="/mumbai/barsnclubs">Bars &amp; Clubs</a></li>
+                        <li><a href="/mumbai/events">Events</a></li>
+            			 <!-- <li><a href="" >Movies</a></li> -->
+          </ul>
+        </div>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="clear"></div>
+        <div style="padding-bottom: 7px; padding-top: 0px;">
+        <a href="www.mainlandchina.timescity.com " target="_blank">
+    	<img src="http://timescity.com/media/banner/2011/Nov/yumchafoodfestival.jpg" alt="MAINLAND CHINA" title="MAINLAND CHINA" width="982" height="46">
+    </a>
+    
+    </div>
+		<div class="clear"></div>
+
+		<div class="tcpageConatainer">
+			<div class="breadcrumb">
+				<ul id="crumbs">
+					<li><a href="/mumbai">Timescity Home</a></li>
+					<li>Privacy Policy</li>
 				</ul>
-			
+				<div class="clear"></div>
+			</div>
 			<div class="clear"></div>
-			</div><!--temp-->
-		</div><!--primaryNav-->
-<div id="addLinks"> <div style="position:absolute; z-index:7510;right:10px;top:3px;"> <ul class="addLinks"> 
-<li><a href="/map.php">explore on map</a></li>
- </ul> </div> </div><!--links-->
- <!--div style="text-align:center;margin-top:4px;">
-		<a href="http://www.timescity.com/bengaluru/indiranagar/world_cuisine_restaurant_catch_marine/56355"><img src="http://www.timescity.com/img/banner/grills.jpg"  alt="Catch Marine"  title="Catch Marine" width="992" height="46" /></a>
-</div-->
+			<div class="tcinnerv2" style="padding-top:20px;">
+				<div class="leftNavigation">
+				<div class="leftNav">
+<ul>
+	<li><a href="http://timescity.com/about">About</a></li>
+	<li><a href="http://timescity.com/contact">Contact</a></li>
+	<li><a href="javascript:void(0);" onclick="openPopup('http://timescity.com/popups/help.php', 343);">Help us Improve</a></li>
+	<!-- <li><a href="queries">Queries</a></li> -->
+	<li><a href="http://timescity.com/privacypolicy" class="active">Privacy Policy</a></li>
+	<li class="lastline"><a href="http://timescity.com/termsofuse">Terms &amp; Conditions</a></li>
+</ul>
+</div>
+<div class="clear"></div>				</div>
+      <div class="termsright">
+<h1>Privacy Policy</h1>
+<p>Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman &amp; Co. Limited. Indiatimes located at <a href="http://in.indiatimes.com" target="_blank">http://in.indiatimes.com</a> is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia <a href="http://www.timesofindia.com" target="_blank">www.timesofindia.com</a>, <a href="http://www.economictimes.com" target="_blank">www.economictimes.com</a>, <a href="http://www.navbharattimes.com" target="_blank">www.navbharattimes.com</a>, <a href="http://www.maharashtratimes.com" target="_blank">www.maharashtratimes.com</a> including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL.</p>
+<p>TIL respects the privacy of it's users and is committed to protect it in all respects. With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about TIL at <a href="http://info.indiatimes.com/terms/aboutus.html" target="_blank">http://info.indiatimes.com/terms/aboutus.html</a>. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Indiatimes Channels' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).</p>
+<p><strong>By using TIL's website or its services, you consent to collection, storage, and use of the personal information you provide (including any changes thereto as provided by you) for any of the services that we offer.</strong></p>
+ 
+<h2>USER INFORMATION</h2>
+<p>To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code , f) credit card or debit card details g) medical records and history h) sexual orientation, i) biometric information, j) password etc., and / or your occupation, interests, and the like.. The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in Indiatimes Contests, dating etc. we require your contact addresses.</p>
+<p>All required information is service dependent and TIL may use the above said User information to, maintain, protect, and improve its services (including advertising services) and for developing new services</p>
+<p>Such information will not be considered as sensitive if it is freely available and accessible in the public domain or is furnished under the Right to Information Act, 2005 or any other law for the time being in force.</p>
 
- <!--div style="text-align:center;margin-top:4px;">
-		<a href="http://www.timescity.com/vapour"><img src="http://www.timescity.com/img/banner/oktoberfest.jpg"  alt="Vapour"  title="Vapour" width="992" height="46" /></a>
-</div-->
+<h2>COOKIES</h2>
+<p>To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.</p>
+<p>Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come. </p>
 
-				<div style="text-align:center;margin-top:4px;">
-					<a href="http://timescity.com/mumbai/timesawards/restaurants" target="_blank"><img src="http://www.timescity.com/media/banner/2010/Dec/ad.gif" alt="Times Award" title="Times Award" width="992" height="46"></a>
-				</div>
-			
-				<div class="bc">
-			<!--a href="#" title="RSS"><img src="img/ico_16/rss.png" alt="RSS" /></a-->
-			<ul class="bc">
-					<li><a href="/mumbai" title="home">Home</a></li>
-					<li class="active">Privacy Policy</li>
-				</ul>
-		</div><!--bc-->
-		<div class="bor10">
-				<div class="leftContent" align="justify">
-					<h2>Privacy Policy</h2>
-					<p>Times Internet Ltd, (TIL) a wholly owned subsidiary of Bennett Coleman &amp; Co. Limited. Indiatimes located at http://in.indiatimes.com is the mother brand of TIL and powers / manages the Online Properties (Brand Names) of the 'Times Group' interalia www.timesofindia.com, www.economictimes.com, www.navbharattimes.com, www.maharashtratimes.com including various internet sites and community boards and services, to name a few, (Indiatimes Channels) hereinafter collectively referred to as TIL.</p>
+<h2>LINK TO THIRD PARTY SITES</h2>
+<p>TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.</p>
+<p>When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you. </p>
 
-					<p>TIL respects the privacy of it's users and is committed to protect it in all respects.With a view to offer most enriching and holistic internet experience to it's users TIL offers a vast repository of Online Sites and variety of community services. You may read 'About Us' to know more about TIL at http://info.indiatimes.com/terms/aboutus.html. Most of the Online Community Services are offered for free but you need a Universal mandatory registration to surf 'Indiatimes Channels' in detail. The information about the user as collected by TIL is: (a) information supplied by users and (b) information automatically tracked while navigation (Information).</p>
+<h2>INFORMATION SHARING</h2>
+<p>TIL  shares the sensitive personal information to any third party without obtaining the prior consent of the User in the following limited circumstances:</p>
+<ol>
+<li>a) When it is requested or required by law or by any court or governmental agency or authority to disclose, for the purpose of verification of identity, or for the prevention, detection, investigation including cyber incidents, or for prosecution and punishment of offences.  These disclosures are made in good faith and belief that such disclosure is reasonably necessary for enforcing these Terms; for complying with the applicable laws and regulations.</li>
+<li>b) TIL proposes to share such information within its group companies and officers and employees of such group companies for the purpose of processing personal information on its behalf. We also ensure that these recipients of such information agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.</li>
+</ol>
 
-					<p>To avail certain sites / services on our websites, users are required to provide certain information for the registration process namely:- a) your name, b) email address, c) sex, d) age, e) PIN code etc., and / or your occupation, interests, and the like. (All required information is Service Dependent). The Information as supplied by the users enables us to improve our sites and provide you the most user-friendly experience. In some sites as in Indiatimes Contests, dating etc. we require your contact addresses.</p>
+<h2>ACCESSING AND UPDATING PERSONAL INFORMATION</h2>
+<p>When you use TIL's websites, we make good faith efforts to provide you, as and when requested by you, with access to your personal information and shall further ensure that any personal information or sensitive personal data or information found to be inaccurate or deficient shall be corrected or amended as feasible, subject to any requirement for such personal information or sensitive personal data or information to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Because of the way we maintain certain services, after you delete your information, residual copies may take a period of time before they are deleted from our active servers and may remain in our backup systems.</p>
 
-					<p>To improve the responsiveness of the sites for our users, we may use "cookies", or similar electronic tools to collect information to assign each visitor a unique, random number as a User Identification (User ID) to understand the user's individual interests using the Identified Computer. Unless you voluntarily identify yourself (through registration, for example), we will have no way of knowing who you are, even if we assign a cookie to your computer. The only personal information a cookie can contain is information you supply (an example of this is when you ask for our Personalised Horoscope). A cookie cannot read data off your hard drive. Our advertisers may also assign their own cookies to your browser (if you click on their ads), a process that we do not control.</p>
+<h2>INFORMATION SECURITY</h2>
+<p>We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, including appropriate encryption and physical security measures to guard against unauthorized access to systems where we store personal data.</p>
+<p>All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.</p>
+<p>However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.</p>
+<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:</p>
+<p>In the event you have any grievance relating to the processing of  information provided by you,  you may contact our Grievance Officer, at <a href="mailto:copyright.infringement@indiatimes.com">copyright.infringement@indiatimes.com</a>; or write at the following address:</p>
+<p>Times Internet Limited<br> 
+4th Floor, MPD World Tower,<br>
+DLF City Phase V, Opposite DLF Golf Course<br> 
+Gurgaon, Haryana 122002<br>
+India<br>
+Ph: 0124-4187000<br>
+</p> 
 
-					<p>Our web servers automatically collect limited information about your computer's connection to the Internet, including your IP address, when you visit our site. (Your IP address is a number that lets computers attached to the Internet know where to send you data -- such as the web pages you view.) Your IP address does not identify you personally. We use this information to deliver our web pages to you upon request, to tailor our site to the interests of our users, to measure traffic within our site and let advertisers know the geographic locations from where our visitors come.</p>
+<p>We request you to please provide the following information in your complaint:-</p>
+<ol>
+<li>(a) Identification of the information provided by you</li> 
+<li>(b) Clear statement as to whether the information is personal information or sensitive personal information</li> 
+<li>(c) Your address, telephone number or e-mail address.</li>
+<li>(d) A statement that you have a good-faith belief that the information has been processed incorrectly or disclosed without authorization, as the case may be.</li> 
+<li>(e) A statement, under penalty of perjury, that the information in the notice is accurate, and that the information being complained about belongs to you.</li>
+</ol>
 
-					<p>TIL includes links to other websites. Such sites are governed by their respective privacy policies, which are beyond our control. Once you leave our servers (you can tell where you are by checking the URL in the location bar on your browser), use of any information you provide is governed by the privacy policy of the operator of the site you are visiting. That policy may differ from ours. If you can't find the privacy policy of any of these sites via a link from the site's homepage, you should contact the site directly for more information.</p>
+      </div>
+			<div class="clear"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Include Footer -->
+<div class="footerSection">
+  <div class="tcpage">
+    <div class="footer">
+      <div class="navsection">
+        <h1>timescity</h1>
+        <div class="btmnav">
+          <ul>
+            <li><a href="/mumbai">Home</a></li>
+            <li><a href="/mumbai/restaurants">Restaurants</a></li>
+            <li><a href="/mumbai/events">Events</a></li>
+            <!--  li><a href="#">Movies</a></li>-->
+          </ul>
+        </div>
+        <div class="social">
+          <h4>FOLLOW US ON...</h4>
+          <div class="column"><a href="http://www.facebook.com/timescity" target="_blank"><img src="http://timescity.com/resources/images/facebook-icons.gif"></a></div>
+          <div class="column gap"><a href="http://twitter.com/timescityguide" target="_blank"><img src="http://timescity.com/resources/images/twitter-icons.gif"></a></div>
+          <div class="column"><a href="http://timescity.com/feeds/mumbaievents.xml" target="_blank"><img src="http://timescity.com/resources/images/rss-icons.gif" alt="RSS"></a></div>
+        </div>
+      </div>
+      <div class="tellusSection">
+        <div class="btnsection">
+          <a href="http://timescity.com/establishments/addRestaurant.php"><input name="" type="button" class="adrest"></a>
+          <a href="http://timescity.com/establishments/addRestaurant.php"><input name="" type="button" class="adbar"></a>
+          <a href="http://timescity.com/event/addevent.php"><input name="" type="button" class="adevent"></a>
+        </div>
+      </div>
+       <form name="news_letter" id="news_letter" action="" method="post" onsubmit="saveNewsletter(this); return false;">
+<div id="message" style="color:red;text-align:center;"></div>
+<div class="stayUpdatesection"> <img src="http://timescity.com/resources/images/stayupdate.gif">
+	<p>The latest scoop on food, nightlife, entertainment...and some perks. You want this, trust us scoop on food, nightlife, entertainment...and some perks. You want this, trust us</p>
+</div>
+<div class="formsection">
+  <div class="selctcty"> Select a City<br>
+        <div class="scet1">
+	 <input name="cityName" type="checkbox" value="1">
+	 Delhi<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="2">
+	 Mumbai<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="3">
+	 Kolkata<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="5">
+	 Bengaluru<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="12">
+	 Hyderabad<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="22">
+	 Ahmedabad<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="39">
+	 Goa<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="40">
+	 Chennai<br>
+	</div>
+	    <div class="scet1">
+	 <input name="cityName" type="checkbox" value="49">
+	 Pune<br>
+	</div>
+	  
+  <div class="clear"></div>
+</div>
+<input name="extra" type="checkbox" value="1">
+XTRAS *our edition dedicated to bringing you a collection of special events, exclusive giveaways,<br>
+<br>
+<input name="email" id="email" type="text" class="txtinput">
+<input name="join" type="submit" class="join" value="">
+<br>
+</div>
+</form>
+<script type="text/javascript">
+function saveNewsletter(obj){ 
+ 
+try { 
+  var params = {};var k = 0; var l=0;
+  params[ 'cityName' ] = new Array;
+  var cityChk = false; 
+  var multiple = '';
+  for ( i=0; i < obj.elements.length; i++ ) { 
+    if(obj.elements[i].type == 'checkbox' && obj.elements[i].name == 'cityName'){		     
+		 if ( obj.elements[i].checked ) { 
+			   cityChk  = true;
+			   params[ 'cityName' ][l++] = obj.elements[i].value
+		 }        
+     } else if(obj.elements[i].type == 'checkbox' && obj.elements[i].name == 'extra'){	     		    
+		 if ( obj.elements[i].checked ) {
+			  params[ 'extra' ] = obj.elements[i].value
+		 }
+        
+     } else { 
+          params[ obj.elements[i].name ] = obj.elements[i].value;
+     }
+ }
+} catch(e){ 
+}
+if(!cityChk){
+	alert('Please select atleast one city');
+	return false;
+}
+var email = document.getElementById('email').value
+if(!isValidEmail(email)){
+	alert('Please enter valid emailid');
+	document.getElementById('email').focus();
+	return false;
+}
+ document.news_letter.reset();
+ var url =    WEBSITE_URL+"2db/newsletter.php?&random=1";
+ $.post(
+  url ,
+  params,
+  function(htmlData) {//alert(htmlData);
+	if(htmlData == 'done'){
+	  $('#message').html('You have successfully subscribed newsletter.'); 
+	} else{
+	  $('#message').html('There is some problem.');  
+	}	
+  }
+ );
+}
+function isValidEmail(strEmail) {
+  validRegExp = /^[^@]+@[^@]+.[a-z]{2,}$/i;
+  if(strEmail.search(validRegExp) == -1) {
+    return false;
+  }
+  return true;
+}
+</script>      <div class="clear"></div>
+    </div>
+    <div class="bottomnav"><a href="http://timescity.com/about" title="About Us">About</a> | <a href="http://timescity.com/contact" title="Contact Us">Contact</a> | <a href="javascript:void(0);" onclick="openPopup('http://timescity.com/popups/help.php', 343);" title="Help us improve">Help us improve</a> | <a href="mailto:info@timescity.com" title="For Other Queries">For Other Queries</a></div>
+    <div class="copyright">Copyright © 2011, <a href="/mumbai">timescity.com</a> (Times Group Property). All Rights Reserved. <a href="http://timescity.com/privacypolicy" title="Read Privacy Policy">Privacy Policy.</a> <a href="http://timescity.com/termsofuse" title="Read Terms and Conditions">Terms &amp; Conditions.</a></div>
+  </div>
+  <div class="clear"></div>
+</div>
 
-					<p>When we present information to our advertisers -- to help them understand our audience and confirm the value of advertising on our website -- it is usually in the form of aggregated statistics on traffic to various pages within our site. When you register with TIL, we contact you from time to time about updation of your content to provide the users such features that we believe may benefit you.</p>
-
-					<p>All information gathered on TIL is securely stored within the TIL controlled database. The database is stored on servers secured behind a firewall; access to the servers is password-protected and is strictly limited. However, as effective as our security measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a posting to the discussion areas is available to anyone with Internet access.</p>
-
-					<p>However the internet is an ever evolving medium. We may change our privacy policy from time to time to incorporate necessary future changes. Of course, our use of any information we gather will always be consistent with the policy under which the information was collected, regardless of what the new policy may be.</p>
-
-					<p>We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: (http://www.advertising.com/Privacy.html)</p>
-
-
-					<p>Any questions or clarifications with respect to this Policy can be sent to TIL at :</p>
-					<p>	privacypolicy@indiatimes.com or by snail mail addressed to TIL (Privacy Policy) "I World" Tower,<br> DLF City Phase 5 (Opp DLF Golf Course),<br>Gurgaon (Haryana) - or by calling our number at (0124) 4187000. </p>
-				</div><!--leftContent-->
-				<div class="linksContainer">
-					<div class="linksSet">
-						<h4>Related to Website</h4>
-						<ul>
-							<li><a href="/about">About Us</a></li>
-							<li><a class="subscribe" href="javascript:void(0);">Subscribe Newsletter</a></li>
-							<!--<li><a href="sitemap.php">Sitemap</a></li>-->
-						</ul>
-					</div><!--linksSet-->
-					<div class="linksSet">
-						<h4>Contact &amp; Other info</h4>
-						<ul>
-							<li><a href="/contact">Contact</a></li>
-							<li><a href="/terms-conditions">T &amp; C</a></li>
-							<li><a href="/privacypolicy">Privacy Policy</a></li>
-							<li>mailto <a href="mailto:info@timescity.com">info@timescity.com</a></li>
-						</ul>
-					</div><!--linksSet-->
-					<div class="linksSet lastSet">
-						<h4>Affiliates</h4>
-						<ul>
-							<li><a href="http://www.indiatimes.com" title="Indiatimes.com" target="_blank">Indiatimes.com</a></li>
-							<li><a href="http://www.bombaytimes.com/" title="Bombay Times" target="_blank">Bombay Times</a></li>
-							<li><a href="http://www.timesofindia.com/" title="Times of India" target="_blank">Times of India</a></li>
-							<li><a href="http://www.mumbaimirror.com/" title="Mumbai Mirror" target="_blank">Mumbai Mirror</a></li>
-							<li><a href="http://www.idiva.com/" title="iDiva.com" target="_blank">iDiva.com</a></li>
-							<li><a href="http://www.timesjobs.com/" title="Times Jobs" target="_blank">Times Job</a></li>
-							<li><a href="http://www.magicbricks.com/" title="Magic Bricks" target="_blank">Magic Bricks</a></li>
-							<li><a href="http://economictimes.indiatimes.com/" title="Economic Times" target="_blank">Economic Times</a></li>
-							<li><a href="http://epaper.timesofindia.com/" title="TOI epaper" target="_blank">TOI epaper</a></li>
-						</ul>
-					</div><!--linksSet-->					
-				</div><!--linksContainer-->
-				<div class="clear"></div>
-			</div><!--bor10-->
-		<div class="footerLinks">
-			<div id="social-media">
-				<ul class="inline fleft">
-					<li class="last"><a href="javascript:void(0);" class="subscribe" title="Newsletter">newsletter</a></li>
-					<!-- <li class="last"><a href="/sitemap.php" title="Sitemap">sitemap</a></li> -->
-				</ul><!--generalLinks-->
-				<ul class="inline fright">
-					<li class="present">also present on:</li>
-					<li><a title="Twitter" href="http://twitter.com/timescityguide" target="_blank" class="ico18 twitter">twitter</a></li>
-					<li class="last"><a title="Facebook" class="ico18 facebook" href="http://www.facebook.com/timescity" target="_blank">facebook</a></li>
-					 <!-- <li><a title="Mobile" class="ico18 mobile">mobile</a></li>  -->
-				</ul>
-				<a class="reachTop" href="#topNavigation">GO TO TOP</a>
-				<div class="clear"></div>
-			</div><!--generalLinks-->
-			<ul class="footerChunk">
-				<li>
-					<span class="inline fleft footerHeading">quick links for :</span>
-					<ul class="inline fleft footerLink">
-						<li><a href="/mumbai/searchrestaurants.html?expby=timescityrecommended&amp;mn=Best+Restaurants&amp;sortbyr=desc" title="Best Restaurants">Best Restaurants</a></li>
-						<li><a href="/mumbai/searchbar.html?frm=lhs&amp;expby=timescityrecommended&amp;mn=Best+Bars+and+Clubs&amp;sortbyr=desc" title="Best Bars and Clubs">Best Bars &amp; Clubs</a></li>
-						<li><a href="/mumbai/searchrestaurants.html?sortbyr=desc" title="Full list of Restaurants">Full list of Restaurants</a></li>
-						<li><a href="/mumbai/searchbar.html?sortbyr=desc" title="Full list of Bars and Clubs">Full list of Bars &amp; Clubs</a></li>
-						<!--li><a href="#" title="Happy Hour places">Happy Hour places</a></li-->
-						<li><a href="/mumbai/searchrestaurants.html?quickbites=quick+bites&amp;mn=Quick+Bites&amp;sortbyr=desc" title="Quick Bites">Quick Bites</a></li>
-						<li><a href="/mumbai/bestofcity/1/1" title="Awarded Restaurants">Awarded Restaurants</a></li>
-						<li><a href="/mumbai/bestofcity/1/1" class="last" title="Awarded Bars and Clubs">Awarded Bars &amp; Clubs</a></li>
-						
-						<!--<li><a href="/restaurantssrp.php" title="What’s on in Mumbai">What's on in </a></li>
-						<li><a href="nightlifesrp.php?frm=lhs&expby=Clubs" title="Clubs">Clubs</a></li>
-						<li><a href="#" title="Events">Events</a></li>
-						<li><a href="nightlifesrp.php?frm=lhs&expby=Specials" title="Specials">Specials</a></li>
-						<li><a href="#" title="Plan Ahead">Plan Ahead</a></li>
-						<li><a href="nightlifesrp.php?frm=lhs&expby=weekend specials" title="Weekend Special" class="last">Weekend Special</a></li>-->
-						
-					</ul>
-					<div class="clear"></div>
-				</li>
-				<li>
-					<span class="inline fleft footerHeading">Contact:</span>
-					<ul class="inline fleft footerLink">
-						
-						<li><a href="/about" title="About Us">About</a></li>
-						<li><a href="/contact" title="Contact Us">Contact</a></li>
-						<li><a href="javascript:void(0);" class="help" title="Help us improve">Help us improve</a></li>
-						<li class="last"><span>For Other Queries</span> <a href="mailto:info@timescity.com" class="last" title="For Other Queries">(info@timescity.com)</a></li>						
-					</ul>
-					<div class="clear"></div>
-				</li><!--Contact-->
-				<li class="last">
-					<span class="inline fleft footerHeading">powered by:</span>
-					<ul class="inline fleft footerLink footerWidth">
-						<li><a href="http://www.indiatimes.com" title="Indiatimes.com" target="_blank">Indiatimes.com</a></li>
-						<li><a href="http://www.bombaytimes.com/" title="Bombay Times" target="_blank">Bombay Times</a></li>
-						<li><a href="http://timesofindia.indiatimes.com/" title="Times of India" target="_blank">Times of India</a></li>
-						<li><a href="http://www.mumbaimirror.com/" title="Mumbai Mirror" target="_blank">Mumbai Mirror</a></li>
-						<li><a href="http://www.bangaloremirror.com/" title="Bangalore Mirror" target="_blank">Bangalore Mirror</a></li>
-						<li><a href="http://www.ahmedabadmirror.com/" title="Ahmedabad Mirror" target="_blank">Ahmedabad Mirror</a></li>
-						<li><a href="http://www.punemirror.in/" title="Pune Mirror" target="_blank">Pune Mirror</a></li>
-						<li><a href="http://www.idiva.com/" class="last" title="iDiva.com" target="_blank">iDiva.com</a></li>
-						<li><a href="http://www.timeswellness.com/" title="Times Wellness" target="_blank">Times Wellness</a></li>
-						<li><a href="http://shopping.indiatimes.com" title="Online Shopping" target="_blank">Online Shopping</a></li>
-						<li><a href="http://epaper.timesofindia.com/" class="last" title="TOI epaper" target="_blank">TOI epaper</a></li>
-					</ul>
-					<div class="clear"></div>
-				</li><!--Powered By-->
-			</ul><!--footerChunk-->
-			<div id="siteInfo">
-				
-				<a href="/mumbai" title="TimesCity Home" alt="TimesCity Home"><img src="http://www.timescity.com/img/global/bottom-logo.png" alt="TimesCity Logo" title="TimesCity Logo" width="153" height="30"></a>
-				<ul class="inline" id="copyrights">
-					<li>Copyright © 2010, timescity.com (Times Group Property).</li>
-					<li>All Rights Reserved.</li>
-					<li><a href="/privacypolicy" title="Read Privacy Policy">Privacy Policy.</a></li>
-					<li><a href="/terms-conditions" title="Read Terms and Conditions">Terms &amp; Conditions.</a></li>
-				</ul>
-			</div><!--siteInfo-->
-		</div><!--footerLinks-->
 <!--Start of Analytic Code Part 2-->
 <script language="javascript" src="http://timeslog.timescity.com/timestrend_timescity_v1.js"></script>
 <noscript><img width="1" height="1" src="http://timeslog.timescity.com/timeslog.dll/pgcnt?CHUR=www.timescity.com&nojs=1"></noscript>
@@ -595,29 +680,6 @@ pageTracker._trackPageview();
 </script>
 <!--End of Analytic Code Part 2-->
 
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" mce_src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"> </script>
-<!-- Facebook JS for FB Connect -->
-<script type="text/javascript">
-var server_name = window.location.host;
-var api_key = "";
-switch(server_name)
-{
-case '220.226.197.59':
-	  api_key		= "3b705c6f060a312b45ac36df46554d0d";
-      break;
-case 'www.timescity.com':
-	  api_key		 =  "bde720edcd9e2c8ff87fdc67fe1d30c2";
-	  break;
-case 'timescity.com':
-	  api_key		 =  "bde720edcd9e2c8ff87fdc67fe1d30c2";
-	  break;
-case 'qc.timescity.com':
-	  api_key		 =  "fec6f480411c0b29ba922b1f15b3a183";
-	  break;
-}
-var channel_path = "/xd_receiver.htm";
-FB.init(api_key, channel_path, {"ifUserConnected": update_user_box});
-</script>
 
 <!-- Begin comScore Tag -->
 <script>
@@ -655,8 +717,5 @@ FB.init(api_key, channel_path, {"ifUserConnected": update_user_box});
  </div>
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
-
-	</div><!--wrapper-->
-
 
 </body></html>
