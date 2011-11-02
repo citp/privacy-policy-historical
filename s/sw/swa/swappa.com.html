@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504111249id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the swappa.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102013738id_/http%3A//swappa.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	
@@ -9,7 +9,7 @@
 	<meta name="description" content="Swappa Privacy Policy">
 	<meta name="keywords" content="Swappa, Android, phone, device, swap, buy, sell, trade">
 	<!-- Fav Icon -->
-	<link rel="shortcut icon" href="/static/icons/favicon.ico">
+	<link rel="shortcut icon" href="/static/icons/favicon.ico" title="Favicon">
 	<link rel="icon" href="/static/icons/favicon.ico">
 	<!-- Robots -->
 	
@@ -34,7 +34,7 @@
 	<link rel="stylesheet" href="/static/css/960/reset.css" type="text/css">
 	<link rel="stylesheet" href="/static/css/960/text.css" type="text/css">
 	<link rel="stylesheet" href="/static/css/960/960.css" type="text/css">
-	<link rel="stylesheet" href="/static/css/style.css?20110207_1048" type="text/css">
+	<link rel="stylesheet" href="/static/css/style.css?20111030_0000" type="text/css">
 	
 	
 	<!-- Javascripts -->
@@ -44,13 +44,15 @@
 	
 	<link rel="stylesheet" href="/static/jquery/android/jquery-ui-1.8.6.custom.css" type="text/css">
 	<script type="text/javascript">
-	$(function() {
-		$("button, input:submit", "form").button();
-		$("button", ".dev_grid").button();
-		$("a", ".buttons").button();
-	});
+		$(function() {
+			$("button, input:submit", "form").button();
+			$("button", ".dev_grid").button();
+			$("a", ".buttons").button();
+		});
 	</script>
 	
+	
+	<script src="/static/jquery/jquery.qtip-1.0.0-rc3.min.js" type="text/javascript"></script>
 	
 	
 	
@@ -96,7 +98,7 @@
 			if (response.session) {
 				
 				// A user has logged in, and a new cookie has been saved
-				window.location.href = '/fb/post_login' + '?next=/privacy';
+				window.location.href = '/fb/post_login';
 				
 			} else {
 				
@@ -119,6 +121,8 @@
 
 <div id="container">
 	
+	
+	
 	<div id="header">
 	<div class="container_12">
 		
@@ -127,13 +131,16 @@
 			<div style="height: 80px;">
 				<div style="float: left; height: 100%;">
 					<a href="/" title="Swappa Home">
-					<img src="/static/icons/swappa_72.png" width="72" style="margin-top: 8px;">
+					<img src="/static/icons/swappa_64.png" width="64" style="margin-top: 8px;">
 					</a>
 				</div>
-				<div style="float: left; padding-top: 20px;">
-					<a href="/" style="text-decoration: none; display: block;">
+				<div style="float: left; padding-top: 10px;">
+					<a href="/" style="text-decoration: none;">
 					<span style="color: #555555; font-size: 150%; font-weight: bold;">Swappa (Android)</span><sup style="color: #555555; font-size: 50%;">TM</sup>
+					</a>
+					<a href="http://twitter.com/swappa" target="_blank"><img src="/static/icons/twitter_32.png" width="24" height="24" alt="Swappa on Twitter" border="0"></a>
 					<br>
+					<a href="/" style="text-decoration: none;">
 					<span style="color: #a4ca39; font-size: 125%; font-weight: bold;">Buy and sell gently used Android devices</span>
 					</a>
 				</div>
@@ -142,7 +149,7 @@
 		</div>
 		
 		<div class="grid_4">
-			<div id="login_block" style="margin-top: 20px; text-align: right;">
+			<div id="login_block" style="margin-top: 12px; text-align: right;">
 				
 	<div>
 		
@@ -166,7 +173,7 @@
 		</div>
 		
 		<div class="grid_2 omega">
-			<div style="margin-top: 20px; border-left: 1px solid #cccccc;">
+			<div style="margin-top: 12px; border-left: 1px solid #cccccc;">
 			
 				<ul>
 					<li><a href="/about">About</a></li>
@@ -185,6 +192,216 @@
 	
 	<div class="container_12">
 		<div class="grid_12">
+		
+<script>
+$(document).ready(function () {
+	$('#search_button').button({
+		/*
+		icons: {
+			primary: "ui-icon-search",
+		}
+		*/
+	});
+	
+	$('#dev_menu li').hover(
+		function () {
+			// show submenu
+			$('ul', this).slideDown(100);
+		}, 
+		function () {
+			// hide submenu
+			$('ul', this).slideUp(100);
+		}
+	);
+	
+	$('#dev_menu_').addClass('selected');
+});
+</script>
+
+
+<div id="dev_menu_bar">
+	
+	<ul id="dev_menu">
+		<li>
+			Find Devices:
+		</li>
+		<li id="dev_menu_top" class="no_subs">
+			<a href="/devices/top">Top (15)</a>
+		</li>
+		<li id="dev_menu_all" class="no_subs">
+			<a href="/devices/all">All (152)</a>
+		</li>
+		<li class="has_subs">
+			Features
+			<ul>
+				<li id="dev_menu_tablet">
+					<a href="/devices/tablet">Tablets</a>
+				</li>
+				<li id="dev_menu_gsm">
+					<a href="/devices/gsm">GSM</a>
+				</li>
+				<li id="dev_menu_cdma">
+					<a href="/devices/cdma">CDMA</a>
+				</li>
+				<li id="dev_menu_4g">
+					<a href="/devices/4g">4G</a>
+				</li>
+				<li id="dev_menu_keyboard">
+					<a href="/devices/keyboard">Keyboard</a>
+				</li>
+			</ul>
+		</li>
+		<li class="has_subs">
+			Providers
+			<ul>
+			
+				<li id="dev_menu_att">
+					<nobr><a href="/devices/att">AT&amp;T (14)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_bell-canada">
+					<nobr><a href="/devices/bell-canada">Bell (Canada) (4)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_boost">
+					<nobr><a href="/devices/boost">Boost (2)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_cricket">
+					<nobr><a href="/devices/cricket">CricKet (3)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_google">
+					<nobr><a href="/devices/google">Google (7)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_metro-pcs">
+					<nobr><a href="/devices/metro-pcs">Metro PCS (3)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_rogers">
+					<nobr><a href="/devices/rogers">Rogers (6)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_sprint">
+					<nobr><a href="/devices/sprint">Sprint (17)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_t-mobile">
+					<nobr><a href="/devices/t-mobile">T-Mobile (27)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_telus">
+					<nobr><a href="/devices/telus">Telus (5)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_unlocked">
+					<nobr><a href="/devices/unlocked">Unlocked (6)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_us-cellular">
+					<nobr><a href="/devices/us-cellular">US Cellular (5)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_verizon">
+					<nobr><a href="/devices/verizon">Verizon (25)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_virgin">
+					<nobr><a href="/devices/virgin">Virgin Mobile (3)</a></nobr>
+				</li>
+			
+			</ul>
+		</li>
+		<li class="has_subs">
+			Manufacturers
+			<ul>
+			
+				<li id="dev_menu_archos">
+					<nobr><a href="/devices/archos">Archos (4)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_asus">
+					<nobr><a href="/devices/asus">Asus (1)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_dell">
+					<nobr><a href="/devices/dell">Dell (2)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_garmin-asus">
+					<nobr><a href="/devices/garmin-asus">Garmin-Asus (1)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_hp">
+					<nobr><a href="/devices/hp">Hewlett-Packard (1)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_htc">
+					<nobr><a href="/devices/htc">HTC (41)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_huawei">
+					<nobr><a href="/devices/huawei">Huawei (1)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_kyocera">
+					<nobr><a href="/devices/kyocera">Kyocera (1)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_lg">
+					<nobr><a href="/devices/lg">LG (13)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_motorola">
+					<nobr><a href="/devices/motorola">Motorola (34)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_samsung">
+					<nobr><a href="/devices/samsung">Samsung (39)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_sanyo">
+					<nobr><a href="/devices/sanyo">Sanyo (2)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_sony-ericsson">
+					<nobr><a href="/devices/sony-ericsson">Sony-Ericsson (5)</a></nobr>
+				</li>
+			
+				<li id="dev_menu_toshiba">
+					<nobr><a href="/devices/toshiba">Toshiba (1)</a></nobr>
+				</li>
+			
+			</ul>
+		</li>
+	</ul>
+	
+	<!-- Search -->
+	<div id="search_bar_box" align="right" style="font-size: 90%;">
+		<form action="/search" method="get">
+			<input type="text" name="q" id="id_q" style="width: 200px;">
+			
+			<span class="buttons" style="font-size: 90%;">
+				<button id="search_button" class="ui-priority-primary">Search</button>
+			</span>
+		</form>
+		<div style="clear: both;"></div>
+	</div>
+
+</div>
+
+<div style="clear: both;"></div>
+
+		</div>
+	</div>
+	<div class="clear"></div>
+	
+	
+	<!--
+	
+	<div class="container_12">
+		<div class="grid_12">
 			<div id="mainbar">
 				<div class="middle">
 					
@@ -192,9 +409,15 @@
 
 				</div>
 			</div>
-			
-			<!--
-			-->
+		</div>
+	</div>
+	<div class="clear"></div>
+	
+	-->
+	
+	
+	<div class="container_12">
+		<div class="grid_12">
 			<div class="breadcrumbs" align="center">
 				
 				
@@ -202,8 +425,8 @@
 			</div>
 		</div>
 	</div>
-	
 	<div class="clear"></div>
+	
 	
 	
 	<div id="contents">
@@ -213,6 +436,7 @@
 			
 			<div class="grid_8" style="min-height: 200px;">
 				
+				<a id="searchable"></a>
 				
 
 	<h1>Privacy Policy</h1>
@@ -291,6 +515,7 @@
 	</p>
 	
 
+				<a id="searchable_end"></a>
 				
 				<div style="clear: both;"></div>
 			</div>
@@ -298,7 +523,6 @@
 			<div class="grid_4">
 				
 				
-					<div class="vertical_spacer"></div>
 					
 <div class="side">
 	
