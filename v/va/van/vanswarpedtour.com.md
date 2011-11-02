@@ -1,13 +1,17 @@
-> *The following text is extracted and transformed from the vanswarpedtour.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521011932id_/http%3A//vanswarpedtour.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vanswarpedtour.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011327id_/http%3A//vanswarpedtour.com/info/privacy) for the most accurate reproduction.*
 
-# Vans Warped Tour 2011
+# Vans Warped Tour
 
 At Vanswarpedtour.com we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy.
 
-* When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. 
-* When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
-* We monitor customer traffic patterns and site usage to help us develop the design and layout of the store. 
-* We may also use the information we collect to occasionally notify you about important functionality changes to our Web site, new vanswarpedtour.com services, and special offers we think you might find valuable. If you would rather not receive this information, visit your vans.com registration page to change your preferences. Make sure to change your preferences for each account or e-mail address with which you have provided us. 
+## What information do we collect? How do we use it?
+
+  1. When you order, we need to know your name, e-mail address, mailing address, credit card number, and expiration date. This allows us to process and fulfill your order and to notify you of your order status. 
+  2. When you enter a contest or other promotional feature, we may ask for your name, address, and e-mail address so we can administer the contest and notify winners. 
+  3. We monitor customer traffic patterns and site usage to help us develop the design and layout of the store. 
+  4. We may also use the information we collect to occasionally notify you about important functionality changes to our Web site, new vanswarpedtour.com services, and special offers we think you might find valuable. If you would rather not receive this information, visit your vans.com registration page to change your preferences. Make sure to change your preferences for each account or e-mail address with which you have provided us. 
+
+
 
 ## How do we keep your customer information safe?
 
