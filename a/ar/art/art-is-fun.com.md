@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the art-is-fun.com privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608001841id_/http%3A//www.art-is-fun.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the art-is-fun.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144526id_/http%3A//www.art-is-fun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: Art is fun
 
@@ -64,4 +64,4 @@ Your use of this site indicates acceptance of this privacy policy.
 [](http://www.art-is-fun.com/Blick-Art-Materials)
 
   
-
+[](http://www.art-is-fun.com/learn-to-draw.html)
