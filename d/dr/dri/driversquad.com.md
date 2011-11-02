@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the driversquad.com privacy policy that was archived on 2011-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110201003133id_/http%3A//driversquad.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driversquad.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102193812id_/http%3A//driversquad.com/privacy.php) for the most accurate reproduction.*
 
 # Driver Squad
 
-Driver Squad, and each of its related web sites (“Driver Squad”) Privacy Policy Last updated May 15, 2010.
+Driver Squad, and each of its related web sites (“Driver Squad”) Privacy Policy Last updated Nov 1, 2011.
 
 This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. Driver Squad provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website.
 
@@ -14,7 +14,7 @@ This Privacy Policy applies to Driver Squad’s collection, use, storage and dis
 
 1.1 Survey Information.
 
-Driver Squad collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes an Driver Squad survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a “Survey”). (As used herein, “online” means using the Internet, including the Website, and related technologies, and “offline” means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Driver Squad or a third party (a “Third Party”) may ask an individual to provide various information to Driver Squad, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, social security number, employment information, personal and online interests, and such other information as may be requested from time to time (together, “Survey Information”). Driver Squad may also collect information concerning an individual from another source and use that information in combination with information provided from this Web Site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Driver Squad or Third Party, but an individual may receive incentives from Driver Squad or a Third Party in exchange for providing Survey Information to Driver Squad.
+Driver Squad collects information from individuals by various methods, including, but not limited to, when an individual voluntarily completes an Driver Squad survey, order form, or a registration page either online or offline, or by means of online or offline surveys, order forms, or registration pages operated by third parties (collectively, a “Survey”). (As used herein, “online” means using the Internet, including the Website, and related technologies, and “offline” means by methods other than online, including in person, in the postal mail, using telephones and cell phones, and other similar means.) In the Surveys, Driver Squad or a third party (a “Third Party”) may ask an individual to provide various information to Driver Squad, which may include his or her name, email address, street address, zip code, telephone numbers (including cell phone numbers and carriers), SMS messaging details (e.g. date, time and content of the SMS message), birth date, gender, salary range, education and marital status, occupation, employment information, personal and online interests, and such other information as may be requested from time to time (together, “Survey Information”). Driver Squad may also collect information concerning an individual from another source and use that information in combination with information provided from this Web Site. Completing the Surveys is completely voluntary, and individuals are under no obligation to provide Survey Information to Driver Squad or Third Party, but an individual may receive incentives from Driver Squad or a Third Party in exchange for providing Survey Information to Driver Squad.
 
 1.2 Third Party List Information.
 
@@ -22,7 +22,7 @@ Driver Squad collects information from individuals when an individual provides i
 
 1.3 Other Information.
 
-Other occasions when Driver Squad obtains information from individuals include (1) when an individual is making a claim for a prize or seeking to redeem an incentive offered by Driver Squad or by a Third Party, (2) when an individual requests assistance through Driver Squad’s customer service department, and (3) when an individual voluntarily subscribes to a Driver Squad service or newsletter (together, “Other Information”).
+Other occasions when Driver Squad obtains information from individuals include (1) when an individual requests assistance through Driver Squad’s customer service department, and (2) when an individual voluntarily subscribes to a Driver Squad service or newsletter (together, “Other Information”).
 
 1.4 Cookies, Web Beacons, and Other Info Collected Using Technology.
 
@@ -62,7 +62,7 @@ THE COMPANY MAY USE INDIVIDUAL INFORMATION FOR ANY LEGALLY PERMISSIBLE PURPOSE I
 
 The following paragraphs in Section 2 describe how Driver Squad currently uses Individual Information, but Driver Squad may change or broaden its use at any time. As noted, Driver Squad may update this policy from time to time. Driver Squad may use Individual Information to provide promotional offers to individuals by means of email advertising, telephone marketing, direct mail marketing, online banner advertising, and package stuffers, among other possible uses.
 
-2.2 Email. Driver Squad uses Individual Information to provide promotional offers by email to individuals. Driver Squad may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Driver Squad’s email lists, a person must [click here](https://web.archive.org/web/20110201003133id_/http%3A//driversquad.com/un.php).
+2.2 Email. Driver Squad uses Individual Information to provide promotional offers by email to individuals. Driver Squad may maintain separate email lists for different purposes. If email recipients wish to end their email subscription from a particular list, they need to follow the instructions at the end of each email message to unsubscribe from the particular list. To unsubscribe from all Driver Squad’s email lists, a person must [click here](https://web.archive.org/web/20111102193812id_/http%3A//driversquad.com/un.php).
 
 2.2(a) Content of Email Messages.
 
@@ -78,7 +78,7 @@ Driver Squad uses Individual Information to target advertising to an individual.
 
 2.4 Direct Mail and Telemarketing.
 
-Driver Squad uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 2.5 Mobile Phone SMS Messaging. In certain cases, when requested by an individual, a Third Party may use Individual Information to provide customized content and advertising via SMS messaging to an individual’s cell phone. Driver Squad is not responsible for the privacy practices or the content of such Third Parties.
+Driver Squad uses Individual Information to advertise, directly or indirectly, to individuals using direct mail marketing or telemarketing using telephones and cell phones. 
 
 2.6 Use of Technology Information.
 
@@ -93,10 +93,6 @@ Driver Squad uses Individual Information to make a profile of an individual. A p
 Driver Squad may store Individual Information in a database on Driver Squad computers. Our computers have security measures (such as a firewall) in place to protect against the loss, misuse, and alteration of the information under Driver Squad’s control. Not withstanding such measures, Driver Squad cannot guarantee that its security measures will prevent Driver Squad computers from being illegally accessed, and the Individual Information on them stolen or altered.
 
 3\. Dissemination of Individual Information.
-
-Driver Squad may sell or transfer personally identifiable information to Third party marketers or advertisers.
-
-3.1 Sale or Transfer to Third Parties. Driver Squad MAY SELL OR TRANSFER INDIVIDUAL INFORMATION TO THIRD PARTIES FOR ANY LEGALLY PERMISSIBLE PURPOSE IN Driver Squad’S SOLE DISCRETION.
 
 3.2 Order Fulfillment.
 
@@ -134,10 +130,8 @@ Anyone using the Website outside of the United States acknowledges that personal
 
 6\. Unsubscribe Procedures.
 
-6.1 If you wish to discontinue receiving email messages from Driver Squad, you have several options: Unsubscribe from one email list. We reserve the right to add Individual Information to multiple lists maintained by Driver Squad. To unsubscribe from a particular list, either (1) follow the instructions in each promotional email message sent by Driver Squad or (2) To globally unsubscribe from all of Driver Squad’s lists, [click here](https://web.archive.org/web/20110201003133id_/http%3A//driversquad.com/un.php).
+6.1 If you wish to discontinue receiving email messages from Driver Squad, you have several options: Unsubscribe from one email list. We reserve the right to add Individual Information to multiple lists maintained by Driver Squad. To unsubscribe from a particular list, either (1) follow the instructions in each promotional email message sent by Driver Squad or (2) To globally unsubscribe from all of Driver Squad’s lists, [click here](https://web.archive.org/web/20111102193812id_/http%3A//driversquad.com/un.php).
 
-Unsubscribe from a particular SMS messaging campaign.  
-To unsubscribe from a particular SMS messaging campaign on a cell phone, send "STOP", "END", or "QUIT" to the SMS message received by the individual. In addition, other methods to unsubscribe may be set forth on the website at which the individual signed up for the SMS messaging campaign.  
 For more information about protecting your privacy, you may wish to visit: www.ftc.gov. If you have questions about this policy, please contact us at info@driversquad.com.
 
 California User Consumer Rights. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, STE 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov.
