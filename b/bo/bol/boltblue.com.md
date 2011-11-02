@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120061102id_/http%3A//boltblue.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boltblue.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102130648id_/http%3A//boltblue.com/privacy-policy) for the most accurate reproduction.*
 
 # Ringtones, Mobile Games, Wallpapers, Text Messaging, Boltblue
 
 Boltblue is operated by:
 
 **Boltblue Communications Limited**  
-50 Cannon Street  
+91 Peterborough Road  
 London  
-EC4N 6JJ
+SW6 3BU
 
 This privacy policy explains our commitments and your rights concerning your personal information. You should read it carefully.
 
