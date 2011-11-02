@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427171842id_/http%3A//www.eastwood.com/custserv-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwood.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145013id_/http%3A//www.eastwood.com/custserv-privacy) for the most accurate reproduction.*
 
 # Customer Service - Privacy Policy
 
@@ -56,7 +56,7 @@ QUESTIONS OR SUGGESTIONS?
 
 If you have questions or suggestions, send an email to webmaster@eastwood.com.
 
-**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/web/20110427171842id_/http%3A//www.eastwood.com/custserv-terms)**
+**[CLICK HERE TO VIEW OUR TERMS& CONDITIONS](https://web.archive.org/web/20111102145013id_/http%3A//www.eastwood.com/custserv-terms)**
 
 [  
 ABOUT SSL CERTIFICATES](http://www.thawte.com/digital-certificates/)
