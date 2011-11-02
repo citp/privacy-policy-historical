@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thedailyinquirer.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613205933id_/http%3A//www.thedailyinquirer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyinquirer.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102023000id_/http%3A//www.thedailyinquirer.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Daily Inquirer
+# Privacy Policy - The Daily Inquirer
 
 ## Privacy Policy
 
@@ -29,5 +29,3 @@ This web site contains links to other sites. Please be aware that we are not res
 
 **Infolinks Clause**  
 These links are part of a [pay per click advertising](http://www.infolinks.com/Home.html) program called Infolinks. Infolinks is an In Text advertising service; they take my text and create links within it. If you hover your mouse over these double underlined links, you will see a small dialog box containing an advertisement related to the text. You can choose to move the mouse away and go on with your browsing, or to click on the box and visit the relevant ad. [Click here to learn more about Infolinks Double Underline Link Ads.](http://www.infolinks.com/opt-out.html?pid=20561&wsid=1)
-
-[blog comments powered by ](http://disqus.com/)
