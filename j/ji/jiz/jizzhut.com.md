@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzhut.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605005021id_/http%3A//www.jizzhut.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzhut.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010130id_/http%3A//www.jizzhut.com/privacy.php) for the most accurate reproduction.*
 
 # The JizzOnline Privacy Page
 
