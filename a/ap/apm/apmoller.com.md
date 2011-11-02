@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apmoller.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522083659id_/http%3A//www.maersk.com/AboutMaersk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apmoller.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102060039id_/http%3A//www.maersk.com/AboutMaersk/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
