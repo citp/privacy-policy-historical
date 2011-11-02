@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504232411id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scandinaviandesigncenter.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102072500id_/http%3A//www.scandinaviandesigncenter.com/CustomerService/SecurityPolicy/Privacy) for the most accurate reproduction.*
 
 # ScandinavianDesignCenter.com -
 
@@ -38,5 +38,3 @@ Thank you, for signing up to our Newsletter.
 
 Sign up for our newsletter  
 
-
-[](http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=6694958&lang=en&form_id=65819)
