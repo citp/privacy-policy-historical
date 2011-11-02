@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finishing.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527042831id_/http%3A//www.finishing.com/Home/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finishing.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011400id_/http%3A//www.finishing.com/Home/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -44,4 +44,4 @@ Ted Mooney <mooney@finishing.com>
 
 * * *
 
-Back to finishing.com [Home Page](https://web.archive.org/web/20110527042831id_/http%3A//www.finishing.com/)
+Back to finishing.com [Home Page](https://web.archive.org/web/20111102011400id_/http%3A//www.finishing.com/)
