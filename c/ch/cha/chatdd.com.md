@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629112248id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatdd.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102072219id_/http%3A//www.chatdd.com/policy) for the most accurate reproduction.*
 
 # ChatDD.Com - Privacy Policy
 
@@ -46,24 +46,23 @@ We do not take any responsibility for any error or omission by Chatdd.com or Thi
 
 ## Latest Threads from ChatDD Forums:
 
-  * [Bollywood Shocker: I can'...](http://forum.chatdd.com/hollywood-bollywood-lollywood-music/84269-shocker-i-can-t-shoot-pregnant-aishwarya.html)
-  * [Aisa Kabhi nahi hota by U...](http://forum.chatdd.com/urdu-stuff/84268-aisa-kabhi-nahi-hota-umera-ahmed.html)
-  * [~~Khamoshi ka boycott~~](http://forum.chatdd.com/freedom-speech/84267-khamoshi-ka-boycott.html)
-  * [Tabdeelli........](http://forum.chatdd.com/freedom-speech/84266-tabdeelli.html)
-  * [Love Loving Question](http://forum.chatdd.com/love-friendship/84265-loving-question.html)
-  * [Bemariyoon ka Almi champi...](http://forum.chatdd.com/religions/84264-bemariyoon-ka-almi-champina-mirza-qadyani.html)
-  * [DEDICATED 2 NAdi](http://forum.chatdd.com/photo-gallery-wallpapers-world/84262-dedicated-2-nadi.html)
-  * [Ghum-e-Furqat Main Hum Ja...](http://forum.chatdd.com/famous-urdu-poetry/84261-ghum-e-furqat-main-hum-jalte-hai-aur-pehlo-badalte-hai.html)
-  * [Aaj Phir Ussi dard Ne Ghe...](http://forum.chatdd.com/famous-urdu-poetry/84260-aaj-phir-ussi-dard-ne-gher-liya-mujhe.html)
-  * [Dard-e-Dil Dard](http://forum.chatdd.com/famous-urdu-poetry/84259-dard-e-dil-dard.html)
-  * [Tere Aane Se Pehle Tere J...](http://forum.chatdd.com/famous-urdu-poetry/84258-tere-aane-se-pehle-tere-jaane-ke-baad.html)
-  * [Muhabbat](http://forum.chatdd.com/famous-urdu-poetry/84257-muhabbat.html)
-  * [Murgh Tikka Qandhari](http://forum.chatdd.com/cooking-recipes/84256-murgh-tikka-qandhari.html)
-  * [Italian spaghetti](http://forum.chatdd.com/cooking-recipes/84255-italian-spaghetti.html)
-  * [Chiken Malaai Tikka](http://forum.chatdd.com/cooking-recipes/84254-chiken-malaai-tikka.html)
+  * [For Virdan bhai...!!](http://forum.chatdd.com/designers-work/88264-virdan-bhai.html)
+  * [punjabi or pathan ki lara...](http://forum.chatdd.com/fun-humor-jokes/88263-punjabi-pathan-ki-larai.html)
+  * [Super Computer Chinese Te...](http://forum.chatdd.com/computer/88262-super-computer-chinese-technology.html)
+  * [Bollywood Aishwariya 38 y...](http://forum.chatdd.com/hollywood-bollywood-lollywood-music/88261-bollywood-aishwariya-38-years-ke-ho-gayen.html)
+  * [Video Shaykh Shuraim Cryi...](http://forum.chatdd.com/islamic/88260-video-shaykh-shuraim-crying-so-much.html)
+  * [Video mam e BAIT ULLAH (K...](http://forum.chatdd.com/islamic/88259-video-mam-e-bait-ullah-kaabah-crying.html)
+  * [Video Beautiful Recitatio...](http://forum.chatdd.com/islamic/88258-video-beautiful-recitation-people-crying-must-see-will-surely-shed-your-tears.html)
+  * [polio Cases In KPK](http://forum.chatdd.com/health/88257-polio-cases-kpk.html)
+  * [Eid mubarak............lo...](http://forum.chatdd.com/photo-gallery-wallpapers-world/88256-eid-mubarak-lolzzzzzzzz.html)
+  * [Zindagi](http://forum.chatdd.com/quotes-sayings/88255-zindagi.html)
+  * [Be-mosam pat-jhar aya hay](http://forum.chatdd.com/famous-urdu-poetry/88254-mosam-pat-jhar-aya-hay.html)
+  * [Hwa thami thi zaror lekin](http://forum.chatdd.com/famous-urdu-poetry/88253-hwa-thami-thi-zaror-lekin.html)
+  * [is eid pir...!!!](http://forum.chatdd.com/designers-work/88252-eid-pir.html)
+  * [So far from your friends](http://forum.chatdd.com/love-friendship-%3B/88251-so-far-your-friends.html)
+  * [my bestest friend](http://forum.chatdd.com/love-friendship-%3B/88250-my-bestest-friend.html)
 
-[   
-**Play Online Games!**](http://www.countgames.com/)
+[ ](http://www.countgames.com/)
 
 **More Resources  
 
