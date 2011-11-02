@@ -1,12 +1,22 @@
-> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106204432id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaredriverdownload.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143924id_/http%3A//www.softwaredriverdownload.com/privacy_statement) for the most accurate reproduction.*
 
-# Privacy Statement – Software Driver Download™
+# Privacy Statement | Software Driver Download™
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY. Privacy is very important to us. We also understand that privacy is very important to you. This Privacy Statement tells you how we protect and use information that we gather through this web site.
 
 ## Introduction
 
 The information we receive, and how we use it, depends on what you do when visiting our web site. We collect and use your non-personal information (information that is not identifiable to you personally) differently than your personal information.
+
+## Advertising Choices
+
+We use third-party companies to serve ads and collect non-personally identifiable information (e.g., the pages you visit, and which links you click, which ads you see and click on, and the categories of search terms you enter) when you visit our web site. 
+
+These companies may use the information outlined above (which does not include your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.
+
+These companies often use a cookie or third party web beacon to collect this information.
+
+If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Non-personal information
 
