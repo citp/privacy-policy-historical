@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225022958id_/http%3A//www.dollywood.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollywood.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011439id_/http%3A//www.dollywood.com/privacy.aspx) for the most accurate reproduction.*
 
 # Dolly Parton's Great Smoky Mountain Family Amusement Park
 
