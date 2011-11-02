@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2011-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110303204825id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioroom.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103002817id_/http%3A//www.physioroom.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PhysioRoom.com
 
@@ -29,6 +29,55 @@ When you view our Website, we may store some information on your computer in the
 
 
   * [Home](http://www.physioroom.com/)
+
+  
+
+
+[](http://www.physioroom.com/static/delivery.htm#euro_del "Worldwide Shipping")
+
+[](http://www.physioroom.com/offers.php?sortby=savingdesc "Sports Injury Sale")
+
+Why Shop With Us?
+
+100% Secure  
+Shopping  
+
+
+Money Back  
+Guarantee  
+
+
+£FREE Delivery  
+Orders Over £65  
+
+
+NEXT DAY Delivery  
+Order By 2pm  
+
+
+FREE Guides  
+Expert Injury Help  
+
+
+[](https://www.physioroom.com/help/contact.php?crm_type=nhs "NHS and local authority orders")
+
+Safe Shopping
+
+We use full 128-bit encryption technology to keep your order and payment details safe.
+
+[](https://www.physioroom.com/help/index.php#security)
+
+[](http://www.physioroom.com/teamrewards/index.php "Sign up now - it's FREE!")
+
+Our Credentials
+
+**Information  
+& Expertise  
+You Can Trust**  
+All medical information at PhysioRoom.com is provided by Chartered Physiotherapists, who specialise in sports medicine. 
+
+  
+
 
   
 
