@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the freshdeals.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228095722id_/http%3A//www.freshdeals.com/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshdeals.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144952id_/http%3A//www.freshdeals.com/index/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 | 
 
 Freshdeals collects information from you when you sign in with Facebook, ask or answer a question, or share a deal or listing. Activity information is collected in both anonymous and personally identifiable forms - including specific questions, answers, comments, and "likes." When ordering through our site, as appropriate, you may be asked to enter your name, e-mail address or mailing address. You may, however, visit our site anonymously.
+
+If you wish to unsubscribe from Fresh Deals emails or notifications please visit: http://www.FreshDeals.com/unsubscribe. 
 
 **Information from other sources** We may periodically obtain both personal and non-personal information about you from other businesses, business partners, and other third parties and add it to our account information or other information we have collected. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information. 
 
