@@ -1,80 +1,341 @@
-<!--The following is the downloaded HTML source of the shopandroid.com privacy policy that was archived on 2010-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101109002303id_/http%3A//store.androidcentral.com/content/customercare/page-privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shopandroid.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102212934id_/http%3A//store.androidcentral.com/content/customercare/page-privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy - Android Central Store</title>
 <meta http-equiv="Content-Language" content="en-us">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<meta http-equiv="X-UA-Compatible" content="IE=7">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">var NREUMQ=[];NREUMQ.push(['mark','firstbyte',new Date().getTime()]);</script>
 <link rel="alternate" type="application/rss+xml" title="Android Central Store New Accessories" href="/rss/rssnewitems.php">
 <link rel="shortcut icon" type="image/x-icon" href="/store_images/androidcentral/favicon.ico">
-<script type="text/javascript" async="" src="/cache/jscontent.php?store=15&amp;device_id=&amp;time=1289247232&amp;request=%2Fcontent%2Fcustomercare%2Fpage-privacy.htm"></script><script type="text/javascript">
+<link rel="stylesheet" href="/v3_templates/css/androidcentral.php?v=1319825658" type="text/css">
+<script type="text/javascript">
 <!--
 window.name = 'main';
 function pop_up(URL,width1,height1) {
 day = new Date(); id = day.getTime();
 eval("childWin = window.open(URL, '1', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=" + width1 + ",height=" + height1 + "');");}
 function change_device(device) {
-	if (device) {location.href = "http://store.androidcentral.com/v2_process/treo_cookie.php?selection="+device+"&http1=/content/customercare/page-privacy.htm&http2=scyYGkbx7rkoY";}
+	if (device)
+    {
+        setCookie('initializeDeviceSelector','true',1);
+        location.href = "http://store.androidcentral.com/v2_process/treo_cookie.php?selection="+device+"&http1=/content/customercare/page-privacy.htm&http2=scyYGkbx7rkoY";
+    }
 }
 -->
 </script>
-<script type="text/javascript" src="/javascripts/highslide412/highslide-full.packed.js"></script>
 <!--[if lt IE 7]>
 <script type='text/javascript' src='/javascripts/unitpngfix/unitpngfix.js'></script> 
 <![endif]-->
 <script type="text/javascript" src="/javascripts/spe-v3.js"></script>
-<link rel="stylesheet" href="/v3_templates/css/androidcentral.php" type="text/css">
-<script type="text/javascript">
-  (function() {
-    var dv = document.createElement('script'); dv.type = 'text/javascript'; dv.async = true;
-    dv.src = ('/cache/jscontent.php?store=15&device_id=&time=1289247232&request=%2Fcontent%2Fcustomercare%2Fpage-privacy.htm');
-    var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(dv, x);
-  })();
-</script>
 
         <script type="text/javascript" src="/javascripts/jquery/jquery.quicksearch.js"></script>
-        <script type="text/javascript" src="/store/modules/device_search_v2/mod_device_search_selector_head.php"></script>
-        <link rel="stylesheet" href="/store/modules/device_search_v2/mod_device_search_selector_css.php" type="text/css">
+        <script type="text/javascript" src="/store/modules/device_search_v3_2/mod_device_search_selector_head.php?store_id=15"></script>
+        <script type="text/javascript">
+            $(document).ready(function()
+            {
+                var initializeDeviceSelectorValue = getCookie('initializeDeviceSelector');
+                
+                if (initializeDeviceSelectorValue=='false')
+                {
+                    $('#deviceSelectorStartTitle .toggleLabel').replaceWith("<span class='toggleLabel'>Open</span>");
+                    $('#deviceSelectorStartTitle .toggleButton').addClass('closed');
+                    $('#deviceSelectorStartTitle .toggleWidget').removeClass('open');
+                }
+                
+                if (initializeDeviceSelectorValue=='')
+                {
+                    setCookie('initializeDeviceSelector','false',1);
+                }
+            });
+        
+            var toggleDeviceSelector = function()
+            {
+                if($('#device_selector_placeholder').length)
+                {
+                    initializeDeviceSelector();
+                    $('#deviceSelectorStartTitle .toggleLabel').replaceWith("<span class='toggleLabel'>Close</span>");
+                    $('#deviceSelectorStartTitle .toggleButton').removeClass('closed');
+                    $('#deviceSelectorStartTitle .toggleWidget').addClass('open');
+                    setCookie('initializeDeviceSelector','true',1);
+                    return true;
+                }
+                
+                if ($('#device_selector_main_container').is(':hidden'))
+                {
+                    $('#device_selector_main_container').show();
+                    $('#deviceSelectorStartTitle .toggleLabel').replaceWith("<span class='toggleLabel'>Close</span>");
+                    $('#deviceSelectorStartTitle .toggleButton').removeClass('closed');
+                    $('#deviceSelectorStartTitle .toggleWidget').addClass('open');
+                    setCookie('initializeDeviceSelector','true',1);
+                }
+                else
+                {
+                    $('#device_selector_main_container').hide();
+                    $('#deviceSelectorStartTitle .toggleLabel').replaceWith("<span class='toggleLabel'>Open</span>");
+                    $('#deviceSelectorStartTitle .toggleButton').addClass('closed');
+                    $('#deviceSelectorStartTitle .toggleWidget').removeClass('open');
+                    setCookie('initializeDeviceSelector','false',1);
+                }
+            }
+        </script>
+        <link rel="stylesheet" href="/store/modules/device_search_v3_2/mod_device_search_selector_css.php?store_id=15" type="text/css">
             <style type="text/css">
                 #deviceSelectorStartTitle
                 {
-                    background:url('/store_images/androidcentral/ac_ps_titleline.png') repeat-x scroll left bottom transparent;
-                    height:40px;
+                    background:url('http://cdn-store.androidcentral.com/store_images/androidcentral/ac_ps_header.jpg') repeat-x left top;
+                    color:#333;
+                    cursor:pointer;
+                    height:36px;
+                    line-height:36px;
                     margin:0 auto;
                     position:relative;
-                    top:21px;
-                    width:982px;
+                    width:981px;
                     z-index:101;
+                    border-top-left-radius:         4px;
+                    border-top-right-radius:        4px;
+                    -moz-border-radius-topleft:     4px;
+                    -moz-border-radius-topright:    4px;
+                    border:1px solid #bcbcbc;
+                    border-bottom:1px solid #c4c4c4;
                 }
-                #device_selector_main_container
+                
+                #deviceSelectorStartTitle .toggleButton
                 {
-                    margin:17px auto 0;
-                    background-color:#2470a0;
+                    position:absolute;
+                    background:url('http://cdn-store.androidcentral.com/store_images/androidcentral/ac_ps_openclose.png') no-repeat scroll 0 -29px transparent;
+                    display:block;
+                    height:29px;
+                    left:948px;
+                    position:absolute;
+                    top:4px;
+                    width:30px;
                 }
-                #device_selector_main_container.active
+                
+                #deviceSelectorStartTitle .toggleButton.closed
                 {
-                    background-color:#6f9223;
+                    background-position:0 0;
                 }
-                #deviceSelectorBackButton a
+                
+                #deviceSelectorStartTitle .toggleLabel
                 {
-                    color:white;
-                }
-                #device_selector_title_background
-                {
-                    background-color:#f2f2f2;
+                    color: #777777;
+                    font-family: arial;
+                    font-size: 12px;
+                    font-weight: bold;
+                    left: 909px;
+                    position: absolute;
+                    top: 0;
                 }
                 
                 .device_selector_title
                 {
-                    color:#222;
+                    color:#326bad;
+                    font-family:arial;
+                    font-size:16px;
+                    font-weight:bold;
+                    letter-spacing:-.7px;
+                    top:10px;
+                    text-shadow:none;
+                }
+                
+                #deviceSelectorTitleTextLarge
+                {
+                    color: #2A527D;
+                    font-family: 'Arial Black', Arial;
+                    font-size: 22px;
+                    font-weight: normal;
+                    letter-spacing: -1px;
+                    line-height: 34px;
+                    margin-left: 15px;
+                }
+                
+                #deviceSelectorTitleTextSmall
+                {
+                    color: #777777;
+                    font-family: arial;
+                    font-size: 14px;
+                    font-weight: bold;
+                    letter-spacing: -0.7px;
+                    position: relative;
+                    top: -3px;
+                }
+                
+                #device_selector_bottom
+                {
+                    background:#252525;
+                    width:981px;
+                    height:7px;
+                    position:relative;
+                    top:-1px;
+                    margin-bottom:20px;
+                    border-bottom-left-radius:         3px;
+                    border-bottom-right-radius:        3px;
+                    -moz-border-radius-bottomleft:     3px;
+                    -moz-border-radius-bottomright:    3px;
+                }
+                
+                .deviceClickArea .text
+                {
+                    font-family:arial;
+                    color:#474747;
+                    font-size:12px;
+                    font-weight:bold;
+                }
+                
+                .deviceClickArea .text.withMouseOver
+                {
+                    color:#326bad;
+                }
+                
+                .dynamic_search_example_text
+                {
+                    font-size:18px;
+                }
+                
+                #id_search
+                {
+                    font-size:13px;
+                    top:-25px;
+                }
+                #splash_text
+                {
+                    top:171px;
+                }
+                #device_selector_main_container
+                {
+                    background-color:#dce3e8;
+                    top:0px;
+                    border:0px;
+                    border-right:1px solid #a9bcc6;
+                    border-bottom:1px solid #8fa4af;
+                    overflow:hidden;
+                    width:776px;
+                }
+                #device_selector_main_container.active
+                {
+                    background-color:#dce3e8;
+                    height:auto !important;
+                    overflow:visible;
+                }
+                
+                #deviceSelectorBackButton a, #deviceSelectorBackButton
+                {
+                    color:black;
+                    font-size:12px;
+                    font-weight:bold;
+                    text-shadow:none;
+                }
+                #device_selector_title_background
+                {
+                    background-color:white;
+                }
+                
+                
+                #device_selector_options_container
+                {
+                    border-left:1px solid #a9bcc6;
+                    border-right:1px solid #bcbcbc;
+                    width:205px;
+                }
+                
+                #deviceSelectorOptionsTitle, #device_selector_title_background, #device_selector_options_container
+                {
+                    background:none;
+                }
+              
+                #search_hint
+                {
+                    color:#777;
+                    font-family:'Arial';
+                    font-size:10px;
+                    text-shadow:none;
+                    top:7px;
+                }
+                
+                #carrier_filter_label, #model_filter_label
+                {
+                    color:#474747;
+                    font-family:'Arial';
+                    font-size:12px;
+                    text-shadow:none;
+                    font-weight:bold;
+                    margin-left:22px;
+                    top:0px;
+                }
+                
+                #model_filter_label
+                {
+                    top:10px;
+                }
+                
+                #device_select_carrier_filter, #device_select_group_filter, #id_search
+                {
+                    margin-left:21px !important;
+                    font-family:arial;
+                }
+                
+                #device_select_group_filter
+                {
+                    top:13px;
+                }
+                
+                #device_select_carrier_filter
+                {
+                    top:3px;
+                }
+                
+                #id_search
+                {
+                    width:171px;
+                }
+                
+                #deviceSelectorOptionsWidget
+                {
+                    background:none !important;
+                }
+                
+                #searchDevicesButton
+                {
+                    font-family:arial;
+                    top:10px;
+                    left:14px;
+                    background:none;
+                    text-indent:0px;
+                    color:#333;
+                    font-family:arial;
+                    font-size:14px;
+                    font-weight:bold;
+                    letter-spacing:-.7px;
+                    text-transform:none;
+                }
+                
+                #searchDevicesFormContainer
+                {
+                    top:52px;
+                }
+                
+                #deviceSelectorBackButton
+                {
+                    top:175px;
+                    left:15px;
+                    position:relative;
+                }
+                .deviceBlankPlusSign img
+                {
+                    left:2px;
                 }
             </style>
         
-<style type="text/css">.highslide img {cursor: url(/javascripts/highslide412/graphics/zoomin.cur), pointer !important;}</style><style type="text/css">.highslide img {cursor: url(/javascripts/highslide412/graphics/zoomin.cur), pointer !important;}</style></head>
+        <style type="text/css">
+
+
+
+            
+        </style>
+<style type="text/css">.highslide img {cursor: url(/javascripts/highslide412/graphics/zoomin.cur), pointer !important;}</style></head>
 <body>
-<script src="/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
 	var storeTracker = _gat._getTracker('UA-5950702-1');
@@ -98,40 +359,238 @@ try {
 } catch(err) {}
 </script>
 		<div style="background-color: #f1f1f1; height: 15px; padding: 1px 0px 0px 0px; text-align: center; border-bottom:2px  solid #cacaca; margin-bottom: 1px">
-		<span style="font:normal 12px Verdana, Arial, Helvetica;color: #404040;">Shop accessories for other smartphones, one-cart checkout:&nbsp;&nbsp;
-		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.precentral.net/" title="Palm Pre, Pre Plus &amp; Pixi accessories">Palm Pre</a>&nbsp;&nbsp;
-		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://shop.crackberry.com/" title="Blackberry accessories">BlackBerry</a>&nbsp;&nbsp;
-		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.androidcentral.com/" title="Android accessories">Android Devices</a>&nbsp;&nbsp;
-		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.tipb.com/" title="iPhone Accessories">iPhone</a>&nbsp;&nbsp;
-		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.wpcentral.com/" title="Windows Phone Accessories">Windows Phone</a>
-		</span></div>
+		<span style="font:normal 12px Verdana, Arial, Helvetica;color: #404040;">Shop accessories for other smartphones, one-cart checkout:&nbsp;&nbsp;</span>
+		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.precentral.net/?s=4eavl987d3p7f7bvsrdom4aq22" title="Palm Pre, Pre Plus &amp; Pixi accessories">Palm Pre</a>&nbsp;&nbsp;
+		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://shop.crackberry.com/?s=4eavl987d3p7f7bvsrdom4aq22" title="Blackberry accessories">BlackBerry</a>&nbsp;&nbsp;
+		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.androidcentral.com/?s=4eavl987d3p7f7bvsrdom4aq22" title="Android accessories">Android Devices</a>&nbsp;&nbsp;
+		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.tipb.com/?s=4eavl987d3p7f7bvsrdom4aq22" title="iPhone Accessories">iPhone</a>&nbsp;&nbsp;
+		<a class="underline interstore" style="font-size: 12px; color: #404040; font-weight: normal;" href="http://store.wpcentral.com/?s=4eavl987d3p7f7bvsrdom4aq22" title="Windows Phone Accessories">Windows Phone</a>
+		</div>
 		    
 <div class="background-wrapper">
-	<div class="header"><a href="http://store.androidcentral.com" title="The Android Central Store"><img src="http://assets1.androidcentral.com/store_images/androidcentral/androidcentrallogo.png" alt="androidcentral - Android Accessories" align="left" width="326" height="88"></a>
-		<div class="header-menu0"><b>Toll Free (888) 468-6158</b> &nbsp;| <a href="/content/customercare/page-about.htm" title="About the Android Central Store">About</a> | <a href="/content/customercare/page-contact.htm" title="Contact The Android Central Store">Contact</a> | <a href="/rss/new.php" title="Get The Android Central New Products Feed"><img src="/images/feed-icon16x16.png" align="bottom"> RSS Feed</a></div>
+	<div class="header">
+
+    <!--
+		<div class='header-menu0'>
+            <b>Toll Free (888) 468-6158</b> &nbsp;| <a href='/content/customercare/page-about.htm' title='About the Android Central Store'>About</a> | <a href='/content/customercare/page-contact.htm' title='Contact The Android Central Store'>Contact</a> | <a href='/rss/new.php' title='Get The Android Central New Products Feed'><img src='http://cdn-store.androidcentral.com/images/feed-icon16x16.png' align='bottom' /> RSS Feed</a>
+        </div>
+    -->
 		<div class="header-menu1">
+            <span id="contact_info"></span>
+            <a id="cartHeaderFreeShipping" href="http://store.androidcentral.com/content/customercare/page-shipping.htm"></a>
+            <a id="valueButtonReturns" href="http://store.androidcentral.com/content/customercare/page-returns.htm"></a>
+            <a id="androidcentral_logo" alt="androidcentral - Android Accessories" href="http://store.androidcentral.com/"></a>
+            <!-- <a id='backToCommunityHeaderLink' href='http://androidcentral.com/' title='Android Central Blog'><span class='backButton_icon'></span><span class='backButton_text'>Community</span></a> -->
+            <span class="tips_cart clickable" onclick="javascript:window.location='http://store.androidcentral.com/cart.htm'"></span>
 			<ul>
-				<li><a href="http://store.androidcentral.com" title="androidcentral store Home">Home</a></li>
-				<li class="page_item"><a href="http://androidcentral.com/" title="Android Central Blog">Blog</a></li>
-				<li class="page_item"><a href="http://store.androidcentral.com/content/accessories/index.htm" title="Accessories">Accessories</a></li>
-				<li class="page_item"><a href="http://store.androidcentral.com/content/customercare/index.htm" title="Customer Service">Customer Service</a></li>
-				<li class="page_item"><a href="http://store.androidcentral.com/content/cart/cart.htm"> Your Cart :$<span id="cartamount"></span> (<span id="cartitems"></span> <span id="cartitemstext"></span>)</a></li>
+                <!--
+				<li class='page_item'><a href='http://store.androidcentral.com/' title='androidcentral store Home'>Home</a></li>
+				<li class='page_item'><a href='http://androidcentral.com/' title='Android Central Blog'>Blog</a></li>
+				<li class='page_item'><a href='http://store.androidcentral.com/content/accessories/index.htm' title='Accessories'>Accessories</a></li>
+				<li class='page_item'><a href='http://store.androidcentral.com/content/customercare/index.htm' title='Customer Service'>Customer Service</a></li>
+				<li class='page_item'><a href='http://store.androidcentral.com/content/cart/cart.htm'> Your Cart :$0.00 0</a></li>
+                <li class='page_item first'><a href='http://store.androidcentral.com/wireless.htm' title='Android Cases'>Phones</a></li>
+                -->
+				<li class="page_item first"><a href="http://store.androidcentral.com/wireless.htm" title="Android Phones">Phones</a></li>
+                <li class="page_item"><a href="http://store.androidcentral.com/android-cases.htm" title="Android Cases">Cases</a></li>
+                <li class="page_item"><a href="http://store.androidcentral.com/android-chargers-and-cables.htm" title="Android Chargers">Chargers</a></li>
+                <li class="page_item"><a href="http://store.androidcentral.com/android-batteries.htm" title="Android Batteries">Batteries</a></li>
+                <li class="page_item"><a href="http://store.androidcentral.com/android-accessories.htm" title="Android Accessories">View All</a></li>
+                <li class="page_item"><a href="http://store.androidcentral.com/android-new.htm" title="New Android Accessories">New</a></li>
+                <!-- <li class='page_item'><a id='on_sale_nographic' href='http://store.androidcentral.com/android-accessory-deals.htm' title='Android Accessories'><span>On Sale!</span></a></li> -->
 			</ul>
 			<div id="searchform">
 				<form name="search" method="post" action="http://store.androidcentral.com/content/search/">
-					<input id="input" onfocus="if(this.value=='Search Accessories...')this.value=''" onblur="if(this.value=='')this.value='Search Accessories';" name="search_terms" type="text" value="Search Accessories..." autocomplete="off">
-					<input id="btn" type="submit" value="Search">
+					<input id="input" onfocus="if(this.value=='Search Accessories...')this.value=''" onblur="if(this.value=='')this.value='Search Accessories...';" name="search_terms" type="text" value="Search Accessories..." autocomplete="off">
+					<input id="btn" type="submit" value="">
 				</form>
 			</div>
 		</div></div>
-        <div id="deviceSelectorStartTitle"><img src="http://assets1.androidcentral.com/images/androidcentral/ac_ps_title.jpg"></div>
-        <div id="device_selector_placeholder"></div>
-        <div style="background:#14547c;width:981px;height:5px;border-left:1px solid #cccccc;border-right:1px solid #cccccc;"></div>
-<div id="container-wrapper"><div id="container">
+
+        <div id="deviceSelectorStartTitle" onclick="javascript:toggleDeviceSelector();"><span id="deviceSelectorTitleTextLarge">Device Selector</span><span id="deviceSelectorTitleTextSmall">&nbsp;&nbsp;(Select Your Device To Buy Compatible Accessories)</span><span class="toggleLabel">Open</span><span class="toggleButton closed"></span></div>
+        
+        <div id="device_selector_main_container">
+            <div id="device_selector_options_container">
+                <form name="device_selector_options_form" id="device_selector_options_form" action="#" onsubmit="javascript:return false;">
+                    <div id="deviceSelectorBackButton"><span class="backButton_icon"></span><span class="backButton_text">Back</span></div>
+                    <div id="deviceSelectorViewAllButton" class="active"><span id="viewAllButton_icon"></span><span id="viewAllButton_text">View All Devices</span></div>
+                    <!-- <div id='deviceSelectorOptionsWidget'></div> -->
+                    <div id="deviceSelectorOptionsTitle"></div>
+                    <div id="searchDevicesButton" class="inactive">Type Device Name</div>
+                    <div id="searchDevicesFormContainer">
+                        <input id="id_search" name="id_search" type="text" autocomplete="off" value="" onblur="if(this.value=='')this.value='';" onfocus="if(this.value=='')this.value=''">
+                        <div id="search_hint">e.g. <span class="searchHint_deviceName">'HTC'</span>, <span class="searchHint_deviceName">'Evo'</span> or <span class="searchHint_deviceName">'4G'</span></div>
+                        <div id="carrier_filter_label">Filter by Carrier</div>
+                        <select class="device_select_filter" id="device_select_carrier_filter" name="carriers">
+                            <option value="All" style="color:#747474;font-weight:bold;" selected="selected"></option>
+                            <option value="Verizon" style="color:#3b3b3b;font-weight:bold;">Verizon</option>
+                            <option value="AT&amp;T" style="color:#3b3b3b;font-weight:bold;">AT&amp;T</option>
+                            <option value="Sprint" style="color:#3b3b3b;font-weight:bold;">Sprint</option>
+                            <option value="T-Mobile" style="color:#3b3b3b;font-weight:bold;border-bottom:1px solid #252525;padding-bottom:4px;margin-bottom:4px;">T-Mobile</option>
+                            <option value="Alltel" style="color:#3b3b3b;font-weight:bold;">Alltel</option>
+                            <option value="US Cellular" style="color:#3b3b3b;font-weight:bold;">US Cellular</option>
+                            <option value="CellularSouth" style="color:#3b3b3b;font-weight:bold;">CellularSouth</option>
+                            <option value="Boost Mobile" style="color:#3b3b3b;font-weight:bold;">Boost Mobile</option>
+                            <option value="Virgin Mobile" style="color:#3b3b3b;font-weight:bold;">Virgin Mobile</option>
+                            <option value="Rogers" style="color:#3b3b3b;font-weight:bold;">Rogers</option>
+                            <option value="Bell" style="color:#3b3b3b;font-weight:bold;">Bell</option>
+                            <option value="Telus" style="color:#3b3b3b;font-weight:bold;">Telus</option>
+                            <option value="Unlocked" style="color:#3b3b3b;font-weight:bold;">Unlocked</option>
+                        </select>
+                        <div id="model_filter_label">Filter by Model</div>
+                        <select class="device_select_filter" id="device_select_group_filter" name="groups">
+                            <option value="All" style="color:#747474;font-weight:bold;" selected="selected"></option>
+                            <option value="Motorola" style="color:#3b3b3b;font-weight:bold;">Motorola</option>
+                            <option value="Samsung" style="color:#3b3b3b;font-weight:bold;">Samsung</option>
+                            <option value="HTC" style="color:#3b3b3b;font-weight:bold;">HTC</option>
+                            <option value="Pantech" style="color:#3b3b3b;font-weight:bold;">Pantech</option>
+                            <option value="LG" style="color:#3b3b3b;font-weight:bold;">LG</option>
+                            <option value="Casio" style="color:#3b3b3b;font-weight:bold;">Casio</option>
+                            <option value="Kyocera" style="color:#3b3b3b;font-weight:bold;">Kyocera</option>
+                            <option value="Sony Ericsson" style="color:#3b3b3b;font-weight:bold;">Sony Ericsson</option>
+                            <option value="Dell" style="color:#3b3b3b;font-weight:bold;">Dell</option>
+                            <option value="Huawei" style="color:#3b3b3b;font-weight:bold;">Huawei</option>
+                            <option value="Sanyo" style="color:#3b3b3b;font-weight:bold;">Sanyo</option>
+                        </select>
+                    </div>
+                </form>
+            </div>
+            <div id="device_selector_popular_result_container">
+                <div id="more_message_container"><span class="more_message">Device not listed? Use our Device Search tool above left.</span></div><a id="popularDeviceClickArea_1378" class="deviceClickArea clickable topPhone" onclick="javascript:change_device(&quot;1378&quot;);"><span class="carriersContainer"><span class="carrierLogo"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/4_43x21.gif" width="43" height="21"></span></span><span class="text">Thunderbolt</span><span class="deviceShadow"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/images/modules/device_search_v2/cb_header_phones_shadow.png"></span><span class="deviceImage device_1378"></span><span class="reflectionOverlay"></span><span class="reflectionContainer"><img class="reflection" src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1378_98x169.png"></span><span class="deviceBonusLabel"></span></a><a id="popularDeviceClickArea_1399" class="deviceClickArea clickable topPhone" onclick="javascript:change_device(&quot;1399&quot;);"><span class="carriersContainer"><span class="carrierLogo"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/2_43x21.gif" width="43" height="21"></span><span class="carrierLogo"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/6_43x21.gif" width="43" height="21"></span></span><span class="text">EVO 3D</span><span class="deviceShadow"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/images/modules/device_search_v2/cb_header_phones_shadow.png"></span><span class="deviceImage device_1399"></span><span class="reflectionOverlay"></span><span class="reflectionContainer"><img class="reflection" src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1399_98x169.png"></span><span class="deviceBonusLabel"></span></a><a id="popularDeviceClickArea_1293" class="deviceClickArea clickable topPhone" onclick="javascript:change_device(&quot;1293&quot;);"><span class="carriersContainer"><span class="carrierLogo"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/2_43x21.gif" width="43" height="21"></span></span><span class="text">Evo 4G</span><span class="deviceShadow"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/images/modules/device_search_v2/cb_header_phones_shadow.png"></span><span class="deviceImage device_1293"></span><span class="reflectionOverlay"></span><span class="reflectionContainer"><img class="reflection" src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1293_98x169.png"></span><span class="deviceBonusLabel"></span></a><a id="popularDeviceClickArea_1317" class="deviceClickArea clickable topPhone" onclick="javascript:change_device(&quot;1317&quot;);"><span class="carriersContainer"><span class="carrierLogo"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/4_43x21.gif" width="43" height="21"></span></span><span class="text">Droid X</span><span class="deviceShadow"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/images/modules/device_search_v2/cb_header_phones_shadow.png"></span><span class="deviceImage device_1317"></span><span class="reflectionOverlay"></span><span class="reflectionContainer"><img class="reflection" src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1317_98x169.png"></span><span class="deviceBonusLabel"></span></a><a class="deviceClickArea clickable deviceBlank" id="deviceBlankContainer"><span class="deviceBlankPlusSign"><img src="/store_images/androidcentral/ac_ps_morephones.png"></span><span class="text">Show&nbsp;More...</span><span class="deviceShadow"><img src="https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/images/modules/device_search_v2/cb_header_phones_shadow.png"></span><span class="deviceImage" id="deviceBlank"></span><span class="reflectionOverlay"></span><span class="reflectionContainer"><img class="reflection" src="/store_images/androidcentral/ac_all_98x169.png"></span><span class="deviceBonusLabel"></span></a></div>
+            <div id="device_selector_result_container"></div>
+            <div id="noresults_message" style="font-size: 15px; height: 203px; padding: 20px; position: relative; z-index: 50; background: white; display: none;"><p></p>ahem... sorry but your search did not bring back any devices<p></p><p>you can clear the search and select a carrier or a model to see all phones available</p></div>
+        </div>
+        <style type="text/css">
+            .device_1378{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1378_98x169.png') no-repeat center bottom transparent;}
+            .device_1399{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1399_98x169.png') no-repeat center bottom transparent;}
+            .device_1293{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1293_98x169.png') no-repeat center bottom transparent;}
+            .device_1317{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1317_98x169.png') no-repeat center bottom transparent;}
+            .device_1405{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1405_98x169.png') no-repeat center bottom transparent;}
+            .device_1427{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1427_98x169.png') no-repeat center bottom transparent;}
+            .device_1300{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1300_98x169.png') no-repeat center bottom transparent;}
+            .device_1372{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1372_98x169.png') no-repeat center bottom transparent;}
+            .device_1375{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1375_98x169.png') no-repeat center bottom transparent;}
+            .device_1369{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1369_98x169.png') no-repeat center bottom transparent;}
+            .device_1272{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1272_98x169.png') no-repeat center bottom transparent;}
+            .device_1325{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1325_98x169.png') no-repeat center bottom transparent;}
+            .device_1408{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1408_98x169.png') no-repeat center bottom transparent;}
+            .device_1371{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1371_98x169.png') no-repeat center bottom transparent;}
+            .device_1329{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1329_98x169.png') no-repeat center bottom transparent;}
+            .device_1420{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1420_98x169.png') no-repeat center bottom transparent;}
+            .device_1328{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1328_98x169.png') no-repeat center bottom transparent;}
+            .device_1306{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1306_98x169.png') no-repeat center bottom transparent;}
+            .device_1417{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1417_98x169.png') no-repeat center bottom transparent;}
+            .device_1311{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1311_98x169.png') no-repeat center bottom transparent;}
+            .device_1373{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1373_98x169.png') no-repeat center bottom transparent;}
+            .device_1286{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1286_98x169.png') no-repeat center bottom transparent;}
+            .device_1274{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1274_98x169.png') no-repeat center bottom transparent;}
+            .device_1337{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1337_98x169.png') no-repeat center bottom transparent;}
+            .device_1318{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1318_98x169.png') no-repeat center bottom transparent;}
+            .device_1322{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1322_98x169.png') no-repeat center bottom transparent;}
+            .device_1376{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1376_98x169.png') no-repeat center bottom transparent;}
+            .device_1348{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1348_98x169.png') no-repeat center bottom transparent;}
+            .device_1268{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1268_98x169.png') no-repeat center bottom transparent;}
+            .device_1292{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1292_98x169.png') no-repeat center bottom transparent;}
+            .device_1356{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1356_98x169.png') no-repeat center bottom transparent;}
+            .device_1436{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1436_98x169.png') no-repeat center bottom transparent;}
+            .device_1347{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1347_98x169.png') no-repeat center bottom transparent;}
+            .device_1428{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1428_98x169.png') no-repeat center bottom transparent;}
+            .device_1431{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1431_98x169.png') no-repeat center bottom transparent;}
+            .device_1332{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1332_98x169.png') no-repeat center bottom transparent;}
+            .device_1326{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1326_98x169.png') no-repeat center bottom transparent;}
+            .device_1339{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1339_98x169.png') no-repeat center bottom transparent;}
+            .device_1403{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1403_98x169.png') no-repeat center bottom transparent;}
+            .device_1352{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1352_98x169.png') no-repeat center bottom transparent;}
+            .device_1291{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1291_98x169.png') no-repeat center bottom transparent;}
+            .device_1377{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1377_98x169.png') no-repeat center bottom transparent;}
+            .device_1281{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1281_98x169.png') no-repeat center bottom transparent;}
+            .device_1418{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1418_98x169.png') no-repeat center bottom transparent;}
+            .device_1346{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1346_98x169.png') no-repeat center bottom transparent;}
+            .device_1397{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1397_98x169.png') no-repeat center bottom transparent;}
+            .device_1400{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1400_98x169.png') no-repeat center bottom transparent;}
+            .device_1320{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1320_98x169.png') no-repeat center bottom transparent;}
+            .device_1370{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1370_98x169.png') no-repeat center bottom transparent;}
+            .device_1401{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1401_98x169.png') no-repeat center bottom transparent;}
+            .device_1432{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1432_98x169.png') no-repeat center bottom transparent;}
+            .device_1319{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1319_98x169.png') no-repeat center bottom transparent;}
+            .device_1334{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1334_98x169.png') no-repeat center bottom transparent;}
+            .device_1338{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1338_98x169.png') no-repeat center bottom transparent;}
+            .device_1390{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1390_98x169.png') no-repeat center bottom transparent;}
+            .device_1387{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1387_98x169.png') no-repeat center bottom transparent;}
+            .device_1208{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1208_98x169.png') no-repeat center bottom transparent;}
+            .device_1330{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1330_98x169.png') no-repeat center bottom transparent;}
+            .device_1402{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1402_98x169.png') no-repeat center bottom transparent;}
+            .device_1422{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1422_98x169.png') no-repeat center bottom transparent;}
+            .device_1384{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1384_98x169.png') no-repeat center bottom transparent;}
+            .device_1419{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1419_98x169.png') no-repeat center bottom transparent;}
+            .device_1413{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1413_98x169.png') no-repeat center bottom transparent;}
+            .device_1412{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1412_98x169.png') no-repeat center bottom transparent;}
+            .device_1421{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1421_98x169.png') no-repeat center bottom transparent;}
+            .device_1416{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1416_98x169.png') no-repeat center bottom transparent;}
+            .device_1433{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1433_98x169.png') no-repeat center bottom transparent;}
+            .device_1265{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1265_98x169.png') no-repeat center bottom transparent;}
+            .device_1258{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1258_98x169.png') no-repeat center bottom transparent;}
+            .device_1298{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1298_98x169.png') no-repeat center bottom transparent;}
+            .device_1323{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1323_98x169.png') no-repeat center bottom transparent;}
+            .device_1244{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1244_98x169.png') no-repeat center bottom transparent;}
+            .device_1335{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1335_98x169.png') no-repeat center bottom transparent;}
+            .device_1341{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1341_98x169.png') no-repeat center bottom transparent;}
+            .device_1273{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1273_98x169.png') no-repeat center bottom transparent;}
+            .device_1257{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1257_98x169.png') no-repeat center bottom transparent;}
+            .device_1331{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1331_98x169.png') no-repeat center bottom transparent;}
+            .device_1434{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1434_98x169.png') no-repeat center bottom transparent;}
+            .device_1278{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1278_98x169.png') no-repeat center bottom transparent;}
+            .device_1303{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1303_98x169.png') no-repeat center bottom transparent;}
+            .device_1285{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1285_98x169.png') no-repeat center bottom transparent;}
+            .device_1358{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1358_98x169.png') no-repeat center bottom transparent;}
+            .device_1398{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1398_98x169.png') no-repeat center bottom transparent;}
+            .device_1386{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1386_98x169.png') no-repeat center bottom transparent;}
+            .device_1415{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1415_98x169.png') no-repeat center bottom transparent;}
+            .device_1374{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1374_98x169.png') no-repeat center bottom transparent;}
+            .device_1350{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1350_98x169.png') no-repeat center bottom transparent;}
+            .device_1349{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1349_98x169.png') no-repeat center bottom transparent;}
+            .device_1407{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1407_98x169.png') no-repeat center bottom transparent;}
+            .device_1429{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1429_98x169.png') no-repeat center bottom transparent;}
+            .device_1406{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1406_98x169.png') no-repeat center bottom transparent;}
+            .device_1380{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1380_98x169.png') no-repeat center bottom transparent;}
+            .device_1404{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1404_98x169.png') no-repeat center bottom transparent;}
+            .device_1423{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1423_98x169.png') no-repeat center bottom transparent;}
+            .device_1393{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1393_98x169.png') no-repeat center bottom transparent;}
+            .device_1327{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1327_98x169.png') no-repeat center bottom transparent;}
+            .device_1388{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1388_98x169.png') no-repeat center bottom transparent;}
+            .device_1414{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1414_98x169.png') no-repeat center bottom transparent;}
+            .device_1438{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1438_98x169.png') no-repeat center bottom transparent;}
+            .device_1340{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1340_98x169.png') no-repeat center bottom transparent;}
+            .device_1430{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1430_98x169.png') no-repeat center bottom transparent;}
+            .device_1301{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1301_98x169.png') no-repeat center bottom transparent;}
+            .device_1357{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1357_98x169.png') no-repeat center bottom transparent;}
+            .device_1351{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1351_98x169.png') no-repeat center bottom transparent;}
+            .device_1381{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1381_98x169.png') no-repeat center bottom transparent;}
+            .device_1396{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1396_98x169.png') no-repeat center bottom transparent;}
+            .device_1389{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1389_98x169.png') no-repeat center bottom transparent;}
+            .device_1302{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1302_98x169.png') no-repeat center bottom transparent;}
+            .device_1426{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1426_98x169.png') no-repeat center bottom transparent;}
+            .device_1342{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/product_images/smartphones/blackberry_mini/1342_98x169.png') no-repeat center bottom transparent;}
+            .carrierLogo_4{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/4_43x21.gif') no-repeat center center white;}
+            .carrierLogo_1{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/1_43x21.gif') no-repeat center center white;}
+            .carrierLogo_2{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/2_43x21.gif') no-repeat center center white;}
+            .carrierLogo_3{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/3_43x21.gif') no-repeat center center white;}
+            .carrierLogo_5{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/5_43x21.gif') no-repeat center center white;}
+            .carrierLogo_12{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/12_43x21.gif') no-repeat center center white;}
+            .carrierLogo_13{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/13_43x21.gif') no-repeat center center white;}
+            .carrierLogo_14{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/14_43x21.gif') no-repeat center center white;}
+            .carrierLogo_16{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/16_43x21.gif') no-repeat center center white;}
+            .carrierLogo_6{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/6_43x21.gif') no-repeat center center white;}
+            .carrierLogo_8{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/8_43x21.gif') no-repeat center center white;}
+            .carrierLogo_7{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/7_43x21.gif') no-repeat center center white;}
+            .carrierLogo_10{background:url('https://web.archive.org/web/20110829215505/http://cdn-store.androidcentral.com/store_images/carrier_selector/10_43x21.gif') no-repeat center center white;}
+        </style>
+        <div class="device_selector_bottom_shadow"></div>
+<div id="container-wrapper" class="cs-page"><div id="container">
 	<div id="main-wrapper"><div id="main"><div id="breadcrumb">
-<h2><a href="/" title="Android Accessories" class="bread_crumb_home">Home</a></h2>
+<h2><a href="http://store.androidcentral.com/" title="Android Accessories" class="bread_crumb_home">Home</a></h2>
 <span class="breadcrumb_delimiter">&nbsp;&gt;&nbsp;</span>
-<h2><a href="/content/customercare/page-privacy.htm" title="Privacy Policy" class="bread_crumb_category">Privacy Policy</a></h2>
+<h2>Privacy Policy</h2>
 </div><div class="content"><h1>The Android Central Store Privacy Policy Statement</h1>
 <p>The Android Central Store values your privacy, whether you just browse the Web Site or purchase products. We strive to make our privacy practices in keeping with the highest standards on the Web, and we hope you'll agree. This privacy policy describes the kinds of information we collect, how we collect it and how we use it.
 </p><p><b>Contact Information</b></p>
@@ -220,12 +679,13 @@ Users may opt out of Google's use of cookies by visiting the <a href="http://www
 </div></div></div>
 <div id="sidebar1">
 
-<h2 id="shop_by_category_title">Shop by Category</h2>
+<h2 id="shop_by_category_title"><a href="http://store.androidcentral.com/android-accessories.htm" title="Accessories for Android">Shop by Category</a></h2>
 <div class="sidebar-item">
 
 <ul>
 	<li><a title="Android Accessories" href="http://store.androidcentral.com/android-accessories.htm">Best Android Accessories</a></li>
 	<li><a title="New Android Accessories" href="http://store.androidcentral.com/android-new.htm">New Accessories</a></li>
+	<li><a title="Android Accessory Deals" href="http://store.androidcentral.com/android-accessory-deals.htm">Accessory Deals</a></li>
 	<li><a title="Android Batteries" href="http://store.androidcentral.com/android-batteries.htm">Batteries</a></li>
 	<li><a title="Android Battery Covers" href="http://store.androidcentral.com/android-battery-covers.htm">Battery Covers</a></li>
 	<li><a title=" Bluetooth" href="http://store.androidcentral.com/android-bluetooth.htm">Bluetooth</a></li>
@@ -234,6 +694,7 @@ Users may opt out of Google's use of cookies by visiting the <a href="http://www
 	<li><a title="Android Chargers &amp; Cables" href="http://store.androidcentral.com/android-chargers-and-cables.htm">Chargers &amp; Cables</a></li>
 	<li><a title="Android Cradles" href="http://store.androidcentral.com/android-cradles.htm">Cradles</a></li>
 	<li><a title="Android Headsets" href="http://store.androidcentral.com/android-headsets.htm">Headsets</a></li>
+	<li><a title="Android Keyboards" href="http://store.androidcentral.com/android-keyboards.htm">Keyboards</a></li>
 	<li><a title="Android Memory Cards" href="http://store.androidcentral.com/android-memory-cards.htm">Memory Cards</a></li>
 	<li><a title="Android Miscellaneous" href="http://store.androidcentral.com/android-miscellaneous.htm">Miscellaneous</a></li>
 	<li><a title="Android Screen Protectors" href="http://store.androidcentral.com/android-screen-protectors.htm">Screen Protectors</a></li>
@@ -241,10 +702,10 @@ Users may opt out of Google's use of cookies by visiting the <a href="http://www
 </ul>
 </div>
 <div class="sidebar-fot"></div>
-<h2 id="community_links_title">Visit Our Community</h2>
+<h2 id="community_links_title"><a href="http://www.androidcentral.com/" title="Android Central Blog">Visit Our Community</a></h2>
 <div class="sidebar-item">
 
-Get help, news and reviews for your Android Phone through our comprehensive blog and growing community.<br>
+<div style="margin:5px 10px 10px 13px;color:#474747;font-size:11px;">Get help, news and reviews for your Android Phone through our comprehensive blog and growing community.<br></div>
 <ul style="margin-top:8px">
 <li><a href="http://www.androidcentral.com/" title="Android Central Blog">Blog</a></li>
 <li><a href="http://www.androidcentral.com/reviews" title="Android Phone Reviews">Reviews</a></li>
@@ -257,51 +718,51 @@ Get help, news and reviews for your Android Phone through our comprehensive blog
 <h2 id="shop_by_device_title">Shop by Device</h2>
 <div class="sidebar-item">
 
-<b>Recent Models</b><br><ul style="margin-bottom:5px">
-	<li><a href="http://store.androidcentral.com/htc-desire-z-accessories.htm" title="HTC Desire Z accessories">HTC Desire Z</a></li>
-	<li><a href="http://store.androidcentral.com/lg-optimus-t-accessories.htm" title="LG Optimus T accessories">LG Optimus T</a></li>
-	<li><a href="http://store.androidcentral.com/sanyo-zio-accessories.htm" title="Sanyo Zio accessories">Sanyo Zio</a></li>
-	<li><a href="http://store.androidcentral.com/samsung-mesmerize-accessories.htm" title="Samsung Mesmerize accessories">Samsung Mesmerize</a></li>
-	<li><a href="http://store.androidcentral.com/samsung-transform-accessories.htm" title="Samsung Transform accessories">Samsung Transform</a></li>
-</ul><b>Other Popular Models</b><br><ul>
-<li><a href="http://store.androidcentral.com/motorola-droid-x-accessories.htm" title="Motorola Droid X accessories">Motorola Droid X</a></li>
+<ul style="margin-bottom:5px"><li><b>Recent Models</b></li>
+	<li><a href="http://store.androidcentral.com/samsung-transform-ultra-accessories.htm" title="Samsung Transform Ultra accessories">Samsung Transform Ultra</a></li>
+	<li><a href="http://store.androidcentral.com/huawei-impulse-4g-accessories.htm" title="Huawei Impulse 4G accessories">Huawei Impulse 4G</a></li>
+	<li><a href="http://store.androidcentral.com/htc-evo-design-4g-accessories.htm" title="HTC EVO Design 4G accessories">HTC EVO Design 4G</a></li>
+	<li><a href="http://store.androidcentral.com/lg-doubleplay--accessories.htm" title="LG DoublePlay  accessories">LG DoublePlay </a></li>
+	<li><a href="http://store.androidcentral.com/samsung-galaxy-nexus-accessories.htm" title="Samsung Galaxy Nexus accessories">Samsung Galaxy Nexus</a></li>
+</ul><ul><li><b>Other Popular Models</b></li>
+<li><a href="http://store.androidcentral.com/htc-thunderbolt-accessories.htm" title="HTC Thunderbolt accessories">HTC Thunderbolt</a></li>
+<li><a href="http://store.androidcentral.com/htc-evo-3d-accessories.htm" title="HTC EVO 3D accessories">HTC EVO 3D</a></li>
 <li><a href="http://store.androidcentral.com/htc-evo-4g-accessories.htm" title="HTC Evo 4G accessories">HTC Evo 4G</a></li>
+<li><a href="http://store.androidcentral.com/motorola-droid-bionic-accessories.htm" title="Motorola Droid Bionic accessories">Motorola Droid Bionic</a></li>
+<li><a href="http://store.androidcentral.com/motorola-droid-3-accessories.htm" title="Motorola Droid 3 accessories">Motorola Droid 3</a></li>
 <li><a href="http://store.androidcentral.com/htc-droid-incredible-accessories.htm" title="HTC Droid Incredible accessories">HTC Droid Incredible</a></li>
+<li><a href="http://store.androidcentral.com/samsung-epic-4g-touch-accessories.htm" title="Samsung Epic 4G Touch accessories">Samsung Epic 4G Touch</a></li>
+<li><a href="http://store.androidcentral.com/motorola-droid-x-accessories.htm" title="Motorola Droid X accessories">Motorola Droid X</a></li>
+<li><a href="http://store.androidcentral.com/motorola-droid-x2-accessories.htm" title="Motorola Droid X2 accessories">Motorola Droid X2</a></li>
+<li><a href="http://store.androidcentral.com/samsung-infuse-4g-accessories.htm" title="Samsung Infuse 4G accessories">Samsung Infuse 4G</a></li>
+<li><a href="http://store.androidcentral.com/samsung-droid-charge-accessories.htm" title="Samsung Droid Charge accessories">Samsung Droid Charge</a></li>
 <li><a href="http://store.androidcentral.com/motorola-droid-accessories.htm" title="Motorola Droid accessories">Motorola Droid</a></li>
-<li><a href="http://store.androidcentral.com/motorola-droid-2-accessories.htm" title="Motorola Droid 2 accessories">Motorola Droid 2</a></li>
-<li><a href="http://store.androidcentral.com/samsung-captivate-accessories.htm" title="Samsung Captivate accessories">Samsung Captivate</a></li>
-<li><a href="http://store.androidcentral.com/samsung-epic-4g-accessories.htm" title="Samsung Epic 4G accessories">Samsung Epic 4G</a></li>
-<li><a href="http://store.androidcentral.com/samsung-fascinate-accessories.htm" title="Samsung Fascinate accessories">Samsung Fascinate</a></li>
-<li><a href="http://store.androidcentral.com/t-mobile-g2-accessories.htm" title="T-Mobile G2 accessories">T-Mobile G2</a></li>
-<li><a href="http://store.androidcentral.com/htc-desire-accessories.htm" title="HTC Desire accessories">HTC Desire</a></li>
-<li><a href="http://store.androidcentral.com/htc-aria-accessories.htm" title="HTC Aria accessories">HTC Aria</a></li>
-<li><a href="http://store.androidcentral.com/htc-droid-eris-accessories.htm" title="HTC Droid Eris accessories">HTC Droid Eris</a></li>
-<li><a href="http://store.androidcentral.com/samsung-vibrant-accessories.htm" title="Samsung Vibrant accessories">Samsung Vibrant</a></li>
-<li><a href="http://store.androidcentral.com/t-mobile-g1-accessories.htm" title="T-Mobile G1 accessories">T-Mobile G1</a></li></ul><br><a href="/v2_templates/lightboxes/select_device.php?HTTP_REFERER_OVERRIDE=/content/customercare/page-privacy.htm" rel="nofollow" id="device_selector" onclick="return hs.htmlExpand(this, { objectType: 'ajax', cacheAjax: false, allowWidthReduction: false, allowHeightReduction: true, width: 620,  dimmingOpacity: 0.5},{deviceSelector:1} );"> <b>Your model not listed?</b><br>View all 41 models...</a>
+<li><a href="http://store.androidcentral.com/motorola-droid-2-global-accessories.htm" title="Motorola Droid 2 Global accessories">Motorola Droid 2 Global</a></li>
+<li><a href="http://store.androidcentral.com/motorola-atrix-4g-accessories.htm" title="Motorola Atrix 4G accessories">Motorola Atrix 4G</a></li></ul><br><a onclick="$('html, body').animate({scrollTop:0}, 'slow');justOpenDeviceSelector();" rel="nofollow" class="first"><b>Your phone not listed?</b><br>Use our phone selector...</a>
 </div>
 <div class="sidebar-fot"></div>
 
-<h2 id="customer_care_title"><a href="/content/customercare/index.htm">Customer Care</a></h2>
+<h2 id="customer_care_title"><a href="http://store.androidcentral.com/content/customercare/index.htm">Customer Care</a></h2>
 <div class="sidebar-item">
-<ul><li><a href="/content/customercare/index.htm">Order Support</a></li><li><a href="/content/customercare/page-status.htm">Order Status</a></li><li><a href="/content/customercare/page-support.htm">Technical Support</a></li><li><a href="/content/customercare/page-shipping.htm">Shipping Methods</a></li><li><a href="/content/customercare/page-returns.htm">Returns</a></li><li><a href="/content/enterprise/index.htm">Enterprise</a></li><li><a href="/content/customercare/page-about.htm">About Us</a></li><li><a href="/content/customercare/page-contact.htm">Contact Us</a></li></ul>
+<ul><li><a href="http://store.androidcentral.com/content/customercare/index.htm">Order Support</a></li><li><a href="http://store.androidcentral.com/content/customercare/page-status.htm">Order Status</a></li><li><a href="http://store.androidcentral.com/content/customercare/page-support.htm">Technical Support</a></li><li><a href="http://store.androidcentral.com/content/customercare/page-shipping.htm">Shipping Methods</a></li><li><a href="http://store.androidcentral.com/content/customercare/page-returns.htm">Returns</a></li><li><a href="http://store.androidcentral.com/content/enterprise/index.htm">Enterprise</a></li><li><a href="http://store.androidcentral.com/content/customercare/page-about.htm">About Us</a></li><li><a href="http://store.androidcentral.com/content/customercare/page-contact.htm">Contact Us</a></li></ul>
 </div>
 <div class="sidebar-fot"></div>
 <h2 id="powered_by_title">Powered by...</h2>
 <div class="sidebar-item">
 
 <br><div class="brand_spe" align="center"><center>
-<a href="http://www.smartphoneexperts.com" target="_blank"><img src="http://assets3.androidcentral.com/store_images/sidebar_spe_top.gif" width="135" height="22" style="margin:4px auto"></a>
+<a href="http://www.smartphoneexperts.com" target="_blank"><img src="http://cdn-store.androidcentral.com/store_images/sidebar_spe_top.gif" width="135" height="22" style="margin:4px auto"></a>
 The Android Central Store<br>is part of<br><a target="_blank" style="color: #595959;" href="http://www.smartphoneexperts.com">Smartphone Experts</a>
 <p><b>Shop with Confidence</b>
-</p><p>Over 1,000,000 orders shipped</p><p>Expert advice available weekdays 8am-5.30pm ET at (888) 468-6158<br><a target="_blank" href="http://www.inc.com/inc5000/2007/company-profile.html?id=200700370" rel="nofollow"><img style="margin:4px 2px" title="Inc 500: Smartphone Experts - 2007 #37" src="http://assets2.androidcentral.com/store_images/inc5002007.gif" alt="Inc 500: Smartphone Experts - 2007 #37"></a>
-<a target="_blank" href="http://www.bbb.org/central-florida/business-reviews/cellular-telephone-equipment-and-supplies/smartphone-experts-in-inverness-fl-172541150" rel="nofollow"><img style="margin:4px 2px" title="Click to verify BBB accreditation and to see a BBB report." src="http://assets1.androidcentral.com/store_images/bbbsealh1.png" alt="Click to verify BBB accreditation and to see a BBB report."></a>
+</p><p>Over 2,000,000<br>orders</p><p>Expert advice available weekdays 8am-5.30pm ET at <br>(888) 468-6158<br><a target="_blank" href="http://www.inc.com/inc5000/2007/company-profile.html?id=200700370" rel="nofollow"><img style="margin:4px 2px" title="Inc 500: Smartphone Experts - 2007 #37" src="http://cdn-store.androidcentral.com/store_images/inc5002007.gif" alt="Inc 500: Smartphone Experts - 2007 #37" width="63" height="66"></a>
+<a target="_blank" href="http://www.bbb.org/central-florida/business-reviews/cellular-telephone-equipment-and-supplies/smartphone-experts-in-inverness-fl-172541150" rel="nofollow"><img style="margin:4px 2px" title="Click to verify BBB accreditation and to see a BBB report." src="http://cdn-store.androidcentral.com/store_images/bbbsealh1.png" alt="Click to verify BBB accreditation and to see a BBB report." width="42" height="67"></a>
 </p></center>
 	<table width="135" cellpadding="0" cellspacing="0" align="center">
 	<tbody><tr>
-		<td valign="bottom"><a href="http://www.smartphoneoutlet.com" target="_blank"><img src="http://assets3.androidcentral.com/store_images/speoutlet_top.gif" width="135" height="76"></a></td>
+		<td valign="bottom"><a href="http://www.smartphoneoutlet.com" target="_blank"><img src="http://cdn-store.androidcentral.com/store_images/speoutlet_top.gif" width="135" height="76"></a></td>
 	</tr>
 	<tr>
-		<td background="http://assets2.androidcentral.com/store_images/sidebar_spe_back.gif">
+		<td background="http://cdn-store.androidcentral.com/store_images/sidebar_spe_back.gif">
 		<table width="135" cellpadding="0" cellspacing="0">
 		<tbody><tr><td align="center">
 		<b>Save BIG with<br>Open Box deals!</b>
@@ -312,13 +773,13 @@ The Android Central Store<br>is part of<br><a target="_blank" style="color: #595
 		</td>
 	</tr>
 	<tr>
-		<td valign="top" height="2"><img src="http://assets1.androidcentral.com/store_images/sidebar_spe_bottom.gif" width="135" height="2"></td>
+		<td valign="top" height="2"><img src="http://cdn-store.androidcentral.com/store_images/sidebar_spe_bottom.gif" width="135" height="2"></td>
 	</tr>
-	</tbody></table><p><a href="/content/customercare/page-shipping.htm"><img src="http://assets1.androidcentral.com/images/shipping_just.gif" width="141" height="92"></a></p><p></p><center><b>We gladly accept</b><br><img src="http://assets1.androidcentral.com/store_images/cc_cards.gif" alt="Visa, MasterCard, Amex" style="margin:4px auto;clear:both;"><br>
-<img src="http://assets3.androidcentral.com/store_images/v2/sc.gif" width="72" height="73" alt="Google Checkout Acceptance Mark" style="margin:4px auto;clear:both;"><br>
-<img src="http://assets3.androidcentral.com/store_images/v2/pp-60x38.gif" width="60" height="38" alt="PayPal Acceptance Mark" style="margin:4px auto;clear:both;">
+	</tbody></table><br><a href="/content/customercare/page-shipping.htm"><img src="http://cdn-store.androidcentral.com/images/shipping_just.gif" width="141" height="92"></a><p></p><center><b>We gladly accept</b><br><img src="http://cdn-store.androidcentral.com/store_images/cc_cards.gif" alt="Visa, MasterCard, Amex" style="margin:4px auto;clear:both;" width="123" height="25"><br>
+<img src="http://cdn-store.androidcentral.com/store_images/v2/sc.gif" width="72" height="73" alt="Google Checkout Acceptance Mark" style="margin:4px auto;clear:both;"><br>
+<img src="http://cdn-store.androidcentral.com/store_images/v2/pp-60x38.gif" width="60" height="38" alt="PayPal Acceptance Mark" style="margin:4px auto;clear:both;">
 <br><b>Secured by</b>
-<a href='javascript:pop_up("https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=SECURE.SMARTPHONEEXPERTS.COM&amp;lang=en","520","450")'><img width="101" height="56" src="http://assets1.androidcentral.com/store_images/vsecured2.gif"></a>
+<a href='javascript:pop_up("https://seal.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=SECURE.SMARTPHONEEXPERTS.COM&amp;lang=en","520","450")'><img width="101" height="56" src="http://cdn-store.androidcentral.com/store_images/vsecured2.gif"></a>
 <a href='javascript:pop_up("https://www.scanalert.com/RatingVerify?ref=store.androidcentral.com","555","680")'><img width="65" height="37" src="//images.scanalert.com/meter/store.androidcentral.com/63.gif" alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" style="margin:4px auto 0px"></a>
 </center>
 </div>
@@ -326,9 +787,9 @@ The Android Central Store<br>is part of<br><a target="_blank" style="color: #595
 <div class="sidebar-fot"></div>
 <h2 id="our_customers_say_title">Our Customers Say...</h2>
 <div class="sidebar-item">
-"You are the most customer service friendly site I have bought from in months. I am going to enjoy ordering supplies from you in the future."<br>
-- Joseph, VA
-
+<span class="customer_testimonials">"Thanks for the quick service! I'm impressed by your accessory prices and level of customer service!"<br>
+- Greg, CA
+</span>
 </div>
 <div class="sidebar-fot"></div>
 </div>  
@@ -338,23 +799,34 @@ The Android Central Store<br>is part of<br><a target="_blank" style="color: #595
  <!-- background END -->
 <div class="footer-wrapper">
     <div class="footer">
-    <p>Copyright © 1999-2010 <a class="text_small" href="http://www.smartphoneexperts.com">Smartphone Experts</a>. All rights reserved.
+    <p>Copyright © 1999-2011 <a class="text_small" href="http://www.smartphoneexperts.com">Smartphone Experts</a>. All rights reserved.
         <a class="text_small" href="http://store.androidcentral.com/content/customercare/page-privacy.htm">Privacy Policy</a>.
-		<a class="text_small" href="http://store.androidcentral.com/-models.htm"> Accessories</a>.
-	</p><p><i>Android and the Android Logo are trademarks or registered trademarks of Google, Inc. in the United States and other countries.</i></p><i>
-    </i></div><i>
-</i></div><i>
+		<a class="text_small" href="http://store.androidcentral.com/android-accessories.htm">Android Accessories</a>.
+	</p><p><i>Android and the Android Logo are trademarks or registered trademarks of Google, Inc. in the United States and other countries.</i>
+	
+	</p>
+	
+    </div>
+</div>
  <!-- background-wrapper END -->
-
+    <script type="text/javascript">
+jQuery(function() {
+	var url = window.location.href;url = url.substr(url.lastIndexOf("/") + 1);
+	if (url!='') $('.header-menu1').find("a[href*='" + url + "']").addClass('active');
+});
+</script>
 
 <script type="text/javascript">
 jQuery(function() {
+
 // Clue Tip
 	$('a.tips').cluetip();
 	$('a.tips_cart:eq(0)').cluetip({
 		width:340
 	});
 });
+
+// Content Slider
 try {
 	featuredcontentglider.init({
 		gliderid: 'fader', //ID of main glider container
@@ -368,6 +840,8 @@ try {
 		autorotateconfig: [5000,500] //if auto rotate enabled, set [milliseconds_btw_rotations, cycles_before_stopping]
 	});
 } catch(err) {}
+
+// MegaHover
 function megaHoverOver(){ $('ul:first',this).slideDown(100); }
 function megaHoverOut(){  $('ul:first',this).slideUp(250);}
 var megaHover = {    
@@ -377,8 +851,39 @@ var megaHover = {
 	 timeout: 500, // number = milliseconds delay before onMouseOut    
 	 out: megaHoverOut // function = onMouseOut callback (REQUIRED)    
 };
-$('ul.dropdown li').hoverIntent(megaHover);
-</script>
-<!-- 85 -->
 
-</i><div id="cluetip-waitimage" style="position: absolute; display: none;"></div><div id="cluetip" class="curvyIgnore" style="display: none; position: absolute;"><div id="cluetip-outer" class="ui-cluetip-outer curvyIgnore" style="position: relative; z-index: 1007;"><h3 id="cluetip-title" class="ui-widget-header ui-cluetip-header curvyIgnore"></h3><div id="cluetip-inner" class="ui-widget-content ui-cluetip-content curvyIgnore"></div></div><div id="cluetip-extra"></div><div id="cluetip-arrows" class="cluetip-arrows"></div></div><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport" style="padding: 0px; border: none; margin: 0px;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="/javascripts/highslide412/graphics/outlines/rounded-white.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="/javascripts/highslide412/graphics/outlines/rounded-white.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
+$('ul.dropdown li').hoverIntent(megaHover);
+
+</script>
+<script type="text/javascript">
+var _qevents = _qevents || [];
+try {
+(function() {
+var elem = document.createElement('script'); 
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js"; 
+elem.async = true; 
+elem.type = 'text/javascript'; 
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt); })();
+_qevents.push({qacct:'p-c1TRDpaaxOT72',labels:'androidcentral.store'},{qacct:'p-8bC03lZwjgqy2',labels: 'androidcentral.store'});
+} catch(err) {}
+</script>
+<noscript>
+<div style='display:none;'>
+<img src='//pixel.quantserve.com/pixel?a.1=p-c1TRDpaaxOT72&a.2=p-8bC03lZwjgqy2' border='0' height='1' width='1' alt='Quantcast'/> </div>
+</noscript>
+<!-- cached: yes (/p/customercare_privacy_/s/15/d//u/00d48b0a6298318a71ed3ce7fe817d45) 85--><script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://d1ros97qkrwjf5.cloudfront.net/21/eum/rum.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-1.newrelic.com","c0a1194d5d",151267,"ZVxaNhFRXkEHW0BZWFwWexcQRF9fSVtHEBoSelkBC1VU",0,68,new Date().getTime()])</script>
+
+<script type="text/javascript">
+var JSglobal = {"session_id":"4eavl987d3p7f7bvsrdom4aq22"};
+jQuery(document).ready(function() { 
+
+$('a.interstore').attr('href',function(idx) { 
+        return this.href + '?s=' + JSglobal.session_id;
+});
+
+});
+</script>
+
+
+<div id="cluetip-waitimage" style="position: absolute; display: none;"></div><div id="cluetip" class="curvyIgnore" style="display: none; position: absolute;"><div id="cluetip-outer" class="ui-cluetip-outer curvyIgnore" style="position: relative; z-index: 1007;"><h3 id="cluetip-title" class="ui-widget-header ui-cluetip-header curvyIgnore"></h3><div id="cluetip-inner" class="ui-widget-content ui-cluetip-content curvyIgnore"></div></div><div id="cluetip-extra"></div><div id="cluetip-arrows" class="cluetip-arrows"></div></div><div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport" style="padding: 0px; border: none; margin: 0px;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="/javascripts/highslide412/graphics/outlines/rounded-white.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div><script type="text/javascript" async="" src="https://d1ros97qkrwjf5.cloudfront.net/21/eum/rum.js"></script></body></html>
