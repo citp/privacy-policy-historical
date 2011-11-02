@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jo-games.com privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609205602id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jo-games.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102124231id_/http%3A//www.jo-games.com/front/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - jo-games
 
 BigRebelMedia ("Jo-Games") operates a variety of web sites ("Web Site" or "Site") including www.jo-games.com and is committed to protecting the privacy of our Web Site users ("Users") and BigRebelMedia members ("Members"). To that end, we offer this Privacy Policy to inform our Members and Users (referred to individually, or collectively, as "you") of how we collect, use and disclose your personal information. BigRebelMedia will take reasonable steps to protect your personal information in accordance with this Privacy Policy and applicable laws. To make this notice easy to find, we provide a link to our policy at the bottom of most pages of our Web Site.
 
