@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the altru.org privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523152912id_/http%3A//altru.org/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altru.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102201706id_/http%3A//altru.org/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Altru Health System - Grand Forks, ND
 
