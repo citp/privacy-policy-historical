@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imccinemas.ie privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427142852id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imccinemas.ie privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102174317id_/http%3A//www.imccinemas.ie/privacypolicy.asp) for the most accurate reproduction.*
 
-# Irish Multiplex Cinemas Dun Laoghaire - privacy policy, company privacy policy, our privacy policy, imc privacy policy
+# Irish Multiplex Cinemas Dublin-Dun Laoghaire - privacy policy, company privacy policy, our privacy policy, imc privacy policy
 
 The IMC Cinema Group highly values the privacy of our customers. This policy is intended to explain to you how we use any information that you may provide to us when visiting our website. 
 
@@ -14,7 +14,7 @@ When purchasing tickets online a customer is asked for the following information
   * Phone Number
   * Email Address
   * Credit card details
-  * Optin for Newsletter
+  * Opt in for Newsletter
 
 
 
@@ -52,8 +52,8 @@ We welcome any feedback on any privacy concern that you may have. We will use ve
 
 If you have any questions about the privacy aspects of our website or online services, please contact:
 
-IMC Cinema Group  
-Lower Georges Street  
+Astor House  
+29 Lower Georges Street  
 Dun Laoghaire  
 Co. Dublin.  
 
