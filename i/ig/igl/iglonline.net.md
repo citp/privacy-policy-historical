@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iglonline.net privacy policy that was archived on 2011-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110610184646id_/http%3A//iglonline.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iglonline.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144934id_/http%3A//www.iglonline.net/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Indraprastha Gas Limited :.
 
