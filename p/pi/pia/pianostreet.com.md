@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pianostreet.com privacy policy that was archived on 2010-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100218130645id_/http%3A//www.pianostreet.com/PianoStreetPrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pianostreet.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102040143id_/http%3A//www.pianostreet.com/PianoStreetPrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement - Piano Street
 
-_Stockholm, Sweden - updated 6 June 2007_
+_Stockholm, Sweden - updated 21 August 2011_
 
 For Piano Street (www.pianostreet.com) by Op 111 Productions  
 
@@ -44,12 +44,12 @@ We have appropriate security measures in place in our physical facilities to pro
 
 Our postal address is: 
 
-Op 111 Productions   
+Op 111 Productions AB   
 Borgargatan 6   
 SE-11734 Stockholm  
 Sweden
 
-We can be reached via e-mail at [customerservice@pianostreet.com](mailto:customerservice@pianostreet.com) or you can reach us by telephone at +46 8 7200 430 or +46 707 355 777
+We can be reached via e-mail at [customerservice@pianostreet.com](mailto:customerservice@pianostreet.com) or you can reach us by telephone at +46 8 7200 430
 
 **
 
