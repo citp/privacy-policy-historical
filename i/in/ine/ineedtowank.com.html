@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ineedtowank.com privacy policy that was archived on 2011-01-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110127085141id_/http%3A//www.in2wtube.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ineedtowank.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102145100id_/http%3A//www.in2wtube.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,6 +14,82 @@
 <script type="text/javascript" src="http://in2wtube.com/js/handlers.js"></script>
 <link href="http://in2wtube.com/intwtube.css" rel="stylesheet" type="text/css">
 <link href="http://in2wtube.com/css/add_on.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+   var puShown = false;
+ 
+   function doOpen(url)
+   {
+           if ( puShown == true )
+           {
+                   return true;
+           }
+ 
+           win = window.open(url, 'wmPu',
+'toolbar,status,resizable,scrollbars,menubar,location,height=680,width=790');
+           if ( win )
+           {
+                   win.blur();
+                   puShown = true;
+           }
+           return win;
+   }
+ 
+ 
+   function setCookie(name, value, time)
+   {
+       var expires = new Date();
+ 
+       expires.setTime( expires.getTime() + time );
+ 
+       document.cookie = name + '=' + value + '; expires=' +
+expires.toGMTString();
+   }
+ 
+ 
+   function getCookie(name) {
+       var cookies = document.cookie.toString().split('; ');
+       var cookie, c_name, c_value;
+ 
+       for (var n=0; n<cookies.length; n++) {
+           cookie  = cookies[n].split('=');
+           c_name  = cookie[0];
+           c_value = cookie[1];
+ 
+           if ( c_name == name ) {
+               return c_value;
+           }
+       }
+ 
+       return null;
+   }
+ 
+ 
+   function initPu()
+   {
+           if ( document.attachEvent )
+           {
+                   document.attachEvent( 'onclick', checkTarget );
+           }
+           else if ( document.addEventListener )
+           {
+                   document.addEventListener( 'click', checkTarget, false );
+           }
+   }
+ 
+ 
+   function checkTarget(e)
+   {
+       if ( !getCookie('popundr') ) {
+           var e = e || window.event;
+           var win =
+doOpen('http://live-cams-1.livejasmin.com/landing/?tid=103&psid=janey1&campaign_id=36144&pstour=t1&psprogram=REVS');
+ 
+           setCookie('popundr', 1, 24*60*60*1000);
+       }
+   }
+ 
+   initPu();
+</script>
 </head>
 
 <body>
@@ -185,7 +261,6 @@ document.write ("<scr"+"ipt type='text/javascript' src='"+ url +"?advplaces=8'><
                     <a href="http://www.in2wtube.com/most-viewed/">Most Viewed</a><br>
                     <a href="http://www.in2wtube.com/top-rated/">Top Rated</a><br>
                     <a href="http://www.in2wtube.com/most-discussed/">Most Discussed</a>
-                
 </div>
 <div class="footerstuff2"><h3>Links</h3>
             	
