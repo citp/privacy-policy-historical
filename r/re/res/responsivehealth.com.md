@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the responsivehealth.com privacy policy that was archived on 2010-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100717014535id_/http%3A//www.responsivehealth.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsivehealth.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102042343id_/http%3A//www.responsivehealth.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Responsive Health - Privacy
 
 [enCircle Media Privacy Policy ]()
 
-Last Updated 2/15/07 
+Last Updated 1/24/11 
 
-This website is owned and operated by enCircle Media, Inc. We at enCircle Media, Inc. (referred to as "enCircle Media, Inc.", "we", "us", or "our") recognize the importance of protecting the privacy of certain information ("information") collected about our customers and prospective customers (referred to as "customers", "you", "visitors" or "your"). This privacy statement, effective February 15, 2007 discloses the privacy practices our collection, use, and disclosure of information. 
+This website is owned and operated by enCircle Media, LLC. We at enCircle Media, LLC (referred to as "enCircle Media, LLC", "we", "us", or "our") recognize the importance of protecting the privacy of certain information ("information") collected about our customers and prospective customers (referred to as "customers", "you", "visitors" or "your"). This privacy statement, effective February 15, 2007 discloses the privacy practices our collection, use, and disclosure of information. 
 
 What Information Do We Collect and Why?
 
@@ -80,7 +80,7 @@ This privacy policy is subject to change without notice. We may change our polic
 
 **Your Acceptance of Our Privacy Policy**
 
-By using this website, you acknowledge your agreement to enCircle Media, Inc. and/or its affiliates. If you do not agree with the terms, do not use the website. 
+By using this website, you acknowledge your agreement to enCircle Media, LLC and/or its affiliates. If you do not agree with the terms, do not use the website. 
 
 **Questions and Comments**
 
@@ -88,6 +88,7 @@ Questions and comments about your privacy policy should be directed to info@enci
 
 or mailed to 
 
-Privacy Officer, enCircle Media, Inc.   
-17752 Mitchell N. Suite C   
+Privacy Officer, enCircle Media, LLC   
+2603 Main St.   
+Suite #850   
 Irvine, CA 92614 
