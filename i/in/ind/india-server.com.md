@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india-server.com privacy policy that was archived on 2011-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110221004500id_/http%3A//www.india-server.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india-server.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102090424id_/http%3A//www.india-server.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy:: Indiaserver.com
 
