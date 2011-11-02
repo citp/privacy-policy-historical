@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2011-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110313095936id_/http%3A//www.lightingafrica.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightingafrica.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102171017id_/http%3A//lightingafrica.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Lighting Africa - Privacy Policy
+# Lighting Africa - Privacy Policy-Lighting Africa
 
 This policy applies to the information the WBG collects about you as a result of your use of the Site, the Services, and the websites operated by our licensors, sponsors, and partners.  It does not apply to information about you collected through any related website or any third party website or offering linked to or otherwise accessible from the Site.  Please consult the privacy policies applicable to those sites and offerings.
 
