@@ -1,15 +1,47 @@
-> *The following text is extracted and transformed from the jamiroquai.com privacy policy that was archived on 2010-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100924122157id_/http%3A//jamiroquai.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamiroquai.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102195056id_/http%3A//www.jamiroquai.com/home/privacy) for the most accurate reproduction.*
 
-# Jamiroquai - Official Website / Privacy
+# Jamiroquai Official Website / Privacy
 
 ## PRIVACY POLICY
 
-Jamiroquai Limited will use the information provided by you in the course of our dealing with you to process your requests and orders and in order to provide a more personalised web-surfing and shopping experience. 
+1. This Privacy Policy sets out how we (Jamiroquai Limited, our representatives and any organisation affiliated to us) will treat the personal information which you provide to us while using the website located at [www.jamiroquai.com](http://www.jamiroquai.com/) (the “Site”) and/or the goods/services provided from it from time to time (the “Goods/Services”).  We may change this Privacy Policy from time to time and such changes will take effect from the date and time the revised Privacy Policy is available on the Site. 
 
-We may collect anonymous information about your use of this website from cookies and by the use of pixel tags. We may match this information with any other data you have given us for the purposes of fulfilling your orders and other requests, tailoring our site to help you, sending you appropriate marketing communications and maintaining our records. A cookie is a short piece of data which is sent from a web server to a web browser when that browser visits the server's site. Pixel tags are used to read cookies. Most browsers automatically accept cookies. You can set your browser options so that you will not receive cookies and you can also delete existing cookies from your browser. However some of the cookies sent to your browser will help us to save you time, for example by remembering your contact details when you are making an order for the second time – this means that you will not have to complete your contact details section again unless they have changed. In addition you may find that some parts of the site will not function properly if you refuse cookies. 
+2. To provide the Site and the Goods/Services, it is necessary for us to hold and process certain personal information.  We take reasonable care in keeping this information secure and preventing any unauthorised access or unlawful use of it. All personal information is processed by us in accordance with data protection legislation applicable in the UK. 
 
-This website also contains various “opt-in” boxes on the relevant pages where you provide your personal information in the form of an email address. Jamiroquai Limited will not provide your email address to any third parties unless you specifically opt in to them by ticking a relevant box to hear from a specified third party. Similarly if you have not ticked the opt-in box we will not email you information as described. 
+3. From time to time, we may ask you to provide some or all of the following: details of your name, your company and/or trading name, address, telephone/facsimile number(s), e-mail address and credit card details.  This personal information will be stored together with any additional information you may provide to us from time to time, and will be used to provide you with the Goods/Services and other activities associated with them. We may also use your personal information:-
 
-Please note that clicking on to links and banner advertisements may result in your transferral to another website, where data privacy practices may be different to that of Jamiroquai. Visitors should consult the other website’s privacy policies as we are not responsible for, and have no control over, information that is submitted to or collected by these third parties. 
+• To facilitate our provision of the Goods/Services to you;
 
-This privacy policy may be changed by Jamiroquai Limited at any time. The revised policy will be posted to this page so that you are always aware of the information we collect, how we use it and under what circumstances we disclose it. Jamiroquai Limited will ensure that your personal information is treated with the utmost respect and in accordance with Directive 95/46/EC on the protection of individuals with regard to processing of personal data and on the free movement of such data. 
+• To analyse use of the Site; and
+
+• To keep you up-to-date with Goods/Services which we think may be of interest to you.  If you do not want to receive future mail-outs about our Goods/Services, click [here](http://www.jamiroquai.com/).
+
+We shall not offer goods and services from any third parties, including any trusted partners. Furthermore, we shall not sell your data to any third parties. 
+
+4. We will only keep your personal information for as long as is necessary for the purposes for which that personal information was given to us. 
+
+5. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly.
+
+6. Please note that, from time to time, we may transfer your personal data for internal business purposes to locations outside the European Economic Area, some of which may have different data protection laws to the UK, or no data protection laws.  Note that in respect of information transmitted to the US, we shall only transmit such information to entities that comply with suitable policies. 
+
+7. If you do not want us to retain or use your personal information in any way, please do not provide the data to us or, if you have already provided personal information and wish to withdraw your consent, please click [here](mailto:webmaster@jamiroquai.com) or you can contact us at webmaster@jamiroquai.com or by post at: 
+
+Princes Risborough 
+
+Buckinghamshire 
+
+HP27 9YT
+
+United Kingdom
+
+8. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted out of receiving, please click here or you can contact us at webmaster@jamiroquai.com or by post at: 
+
+P.O. Box 68 
+
+Princes Risborough 
+
+Buckinghamshire 
+
+HP27 9YT
+
+United Kingdom
