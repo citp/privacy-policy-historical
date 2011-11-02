@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cumdisgrace.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504170314id_/http%3A//cumdisgrace.com/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumdisgrace.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103004244id_/http%3A//cumdisgrace.com/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
