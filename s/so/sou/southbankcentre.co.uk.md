@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2011-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110106235924id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbankcentre.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013833id_/http%3A//www.southbankcentre.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Southbank Centre.
+# Privacy Policy | Southbank Centre
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
