@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103154246id_/http%3A//www.biggerbras.com/d-privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerbras.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012415id_/http%3A//www.biggerbras.com/d-privacy.shtml) for the most accurate reproduction.*
 
 # BiggerBras.com: Privacy Policy
 
@@ -20,9 +20,9 @@ SSL technology encrypts all of your personal information including credit card n
 
 If you are using Internet Explorer as your browser, you can verify that you are on a secure page when you see the closed-lock icon. Other browsers should also display some sort of icon to you indicating that the page is secure. You can also click on this icon to see the issuing authority for the secure certificate that makes the SSL possible.
 
-Extended Validation of Digital Certificate 
+Validation of Digital Certificate 
 
-Our secure checkout use the extended validation option of [Trustwave's digital certificate](https://www.trustwave.com/) so that you know that you are on the BiggerBras.com official website. On Internet Exporer, this technology turns the address bar green and shows you that the site is identified by Trustwave, you can click the lock icon next to the address bar for certificate details.
+Our secure checkout uses [Trustwave's digital certificate](https://www.trustwave.com/) so that you know that you are on the BiggerBras.com official website. On Internet Exporer, this technology turns the address bar green and shows you that the site is identified by Trustwave, you can click the lock icon next to the address bar for certificate details.
 
 When You Click the Checkout Button 
 
@@ -30,7 +30,7 @@ You are directed to the secure checkout pages of our website. All secure transac
 
 Packaging 
 
-BGB mails your package in a plain white poly-vinyl envelope, a standard Post Office priority box, or a plain brown box. The return label reads: BGB - 115 Stryker Lane, Unit 9 - Hillsborough, NJ 08844. No indication of the contents of the package is visible on the package except for the word "clothing" and the value of the contents when needed for Canadian, European or other international customs stickers.
+BGB mails your package in a plain white poly-vinyl envelope, a standard Post Office priority box, or a plain brown box. The return label reads: BGB - 3540 N.W. 56th Street, Suite 207 - Ft. Lauderdale, FL 33309. No indication of the contents of the package is visible on the package except for the word "clothing" and the value of the contents when needed for Canadian, European or other international customs stickers.
 
 Email 
 
@@ -55,6 +55,8 @@ Cookies are also used by some of the search engines such as Overture to help us 
 Big Girls' Bras uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partners. These files enable our ad management partners to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us or by another advertiser, or advertising partner. With both cookies and Spotlight technology, the information that we collect and analyze is anonymous and not personally identifiable. It does not contain your name, address, telephone number, credit card information, or email address.
 
 Additionally, a cookie may be used so that our web site "remembers" who you are when you use one of our premium services so that only information that is important to you is displayed. No personally identifying information is ever collected using cookies.
+
+Our website uses list technology to remarket our services to visitors and shoppers to our site. This technology is similar to cookie technology. No personal identifying information is stored on our site or used by our company in our remarketing campaigns. This technology allows us to present ads on other websites across the internet to users after they have visited or purchased from our site.
 
 Third Party Cookies for Advertising Purposes 
 
