@@ -1,12 +1,18 @@
-<!--The following is the downloaded HTML source of the desertsun.com privacy policy that was archived on 2011-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110621035524id_/http%3A//www.mydesert.com/section/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desertsun.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102135635id_/http%3A//www.mydesert.com/section/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns:meebo="http://www.meebo.com" lang="en"><head>
 							<title>Privacy Policy | The Desert Sun | MyDesert.com </title>
+			<meta property="og:title" content="The Desert Sun Privacy Policy Section">
+			<meta property="og:type" content="website">
+			<meta property="og:description" content="Privacy Policy news from The Desert Sun.">
 <meta name="keywords" content="MyDesert.com,Palm Springs,California,News,local news,headlines,stories,world news">
 <meta name="description" content="Palm Springs California News - MyDesert.com is the home page of Palm Springs California with in depth and updated Palm Springs local news. Stay informed with both Palm Springs California news as well as headlines and stories from around the world.">
+<meta property="og:site_name" content="The Desert Sun">
+<meta property="og:url" content="http://www.MyDesert.com/section/PRIVACY/Privacy-Policy">
+		<meta property="og:image" content="http://m.mydesert.com/images/bookmark/n_mydesert/apple-touch-icon.png">
 <meta name="category" content="Privacy Policy">
-<link rel="canonical" href="http://www.MyDesert.com/section/PRIVACY/Privacy-Policy">
+	<link rel="canonical" href="http://www.MyDesert.com/section/PRIVACY/Privacy-Policy">
 <meta name="robots" content="noodp">
 <meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -40,11 +46,13 @@ GEL.thepage.pageinfo = {
 		domainroot: "MyDesert"
 	},
 	pic: {
-		ptpid: ""		
+		mycapture: "enabled",
+		enablecategory:  "on",
+		domainname: "MyDesert.mycapture.com"
 	},
 	date: { 
 		rollover:"01:15",
-		timeoffset: "-07"
+		timeoffset: "-08"
 	},
 	ssts:{
 		adsiteid:"ca-palmsprings.thedesertsun.com",
@@ -79,6 +87,7 @@ GEL.thepage.pageinfo.admail={
 if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	GEL.thepage.pageinfo.admail.show= true;
 }
+GEL.thepage.pageinfo.sessiontime=0;
 (function(){
 	var _i = GEL.thepage.pageinfo;
 	GEL.register("social.pluck.api", { 
@@ -95,18 +104,6 @@ if(GEL.thepage.pageinfo.admail.enable.toLowerCase() == "on"){
 	);
 })();
 /*GO4 Faster Semantics*/
-	GEL.thepage.pageinfo.semantics={
-	response:{"Url":"http://www.mydesert.com/section/PRIVACY/Privacy-Policy","ContentLength":0,"FetchDuration":3015,"ContentType":"","Id":0,"PathIds":0,"LanguageId":"","Channels":[{}],"UnconStatus":6},
-	source:'CW',
-	enabled:true,
-	status:'6',
-	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.MyDesert.com/section/PRIVACY/Privacy-Policy',
-	uniqueids:[],
-	uniqueidsdesc:[],
-	allids: [],
-	calltime:'3062',
-	cached:true
-};
 /* Banner configuration and Initialization */
 (function(){
 var 
@@ -173,9 +170,9 @@ var _c= GEL.config.userauth={
 		return _enable.toLowerCase() != 'no' ? true : false; 
 	})(), 
 	app_name: "mydesert",
-	host: "newspaper.app40.ur.gcion.com",
+	host: "npapp40ssl.gcion.com",
 	site_name: "MyDesert.com",
-	enable_ssl: window.location.protocol === 'https:' ? true : false, 
+	enable_ssl: true,
 	enable_reg_help: true, 
 	enable_search: true, 
 	enable_links: false, 
@@ -299,7 +296,7 @@ GEL.thepage.initializer.addInitRoutine({
 	name: "userauthlateload",
 	priority: 300, 
 	callback: function(){
-	if ( GEL.config.userauth.enable_premium == false &&
+		if ( GEL.config.userauth.enable_premium == false &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_REGISTER"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="PLUCK_SIGNIN"  &&
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERREGISTER" &&
@@ -307,13 +304,13 @@ GEL.thepage.initializer.addInitRoutine({
 		 GEL.thepage.pageinfo.categoryid.toUpperCase()!="NLETTERSIGNIN") {
 			GEL.util.uautil.MakeRemoteCallsilently("signup","socialprovider","signup.html");
 			GEL.util.uautil.MakeRemoteCallsilently("userauthlogin","socialprovider","login.html");
+		}
 		/*	Adding another div for Newsletter sample page */
 		if(GEL.util.uautil.isnlettersubscribe()){
 			var el = document.createElement("div");
 			el.setAttribute('id', 'NLSampleModalcontainer');
 			var temp_elem = document.getElementById("UAModalcontainerwrapper");
 			temp_elem.appendChild(el);
-			}
 		}
 	}
 });
@@ -362,7 +359,7 @@ GEL.thepage.initializer.addInitRoutine({
 		trackExternalLinks: false,
 		trackInlineStats: true,
 		linkDownloadFileTypes: "exe,zip,wav,mp3,mp4,m4v,mov,mpg,avi,wmv,doc,pdf,xls",
-		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,pictopia,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
+		linkInternalFilters: "javascript:apartments,careerbuilder,cars,customcoupon,customwire.ap.org,eharmony,gannett,gbahn,highschoolsports,homefinder,homescape,infi,job,network,newsbank,newslibrary,mycapture,salary,topix,ur.gcion.com,usatoday,traffic,planetdiscover,metromix,mom",
 		linkLeaveQueryString: false,
 		linkTrackVars: "None",
 		usePlugins: true, 
@@ -659,11 +656,14 @@ Combination= category-PRIVACY&type-section-->
 </head>
 <body class="ody-skin"><script type="text/javascript" src="https://web.archive.org/web/20111105065416/http://ads.revsci.net/adserver/ako?activate&amp;csid=J06575"></script><script type="text/javascript" src="https://pix04.revsci.net/J06575/a4/0/0/pcx.js?csid=J06575"></script>
 	
+	
 	<div class="ody-custom">
 		<div id="modalouter" class="modal-outer-inactive"></div>
+		
 		<div class="main-container">
 			<!-- HEADER -->
-				<!-- @ody_adposnavbar:  -->
+				<!-- ody_topnavigationmenu.pbo -->
+<!-- @ody_adposnavbar:  -->
 <div class="header-container">
 	<div class="header-classified"> 
 		<div class="header-wrap">
@@ -675,6 +675,7 @@ Combination= category-PRIVACY&type-section-->
 <li><a href="http://www.MyDesert.com/apartments">APARTMENTS</a></li>
 <li><a href="http://deals.mydesert.com/">DEALS</a></li>
 <li><a href="http://www.MyDesert.com/classifieds">CLASSIFIEDS</a></li>
+<li><a href="http://www.MyDesert.com/subscribe">SUBSCRIBE</a></li>
 				<!-- @NAVADPROMO= off -->
 			</ul>
 		</div>
@@ -694,34 +695,36 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news08">Crime and Courts</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news03">Politics</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news04">Education</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news07">Environment</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://mydesert.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Palm%20Springs&amp;State=CA">Weather</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news0805">Earthquakes</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/7daysarchives">Today's Newspaper</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=mydesert">Nation and World</a></li>
+				<li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news08">Crime and Courts</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news03">Politics</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news04">Education</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news07">Environment</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://mydesert.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Palm%20Springs&amp;State=CA">Weather</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/data">Data</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/news0805">Earthquakes</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="/section/7daysarchives">Today's Newspaper</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li class="link 0"><span class="arrow">&nbsp;</span><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=mydesert">Nation and World</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111102/NEWS01/111020319/Crackdown-changes-protest-s-tone?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20111102&amp;Kategori=NEWS01&amp;Lopenr=111020319&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Crackdown-changes-protest-s-tone" alt="Riverside County Sheriff's Department deputies arrest protester Ryan Cartwright, 21,  and warn other protesters to get back early Tuesday after Cartwright and another protester allegedly stepped on grass considered inside the boundaries of Civic Center Park in Palm Desert. Deputies cleared away the Occupy Coachella Valley encampment and arrested nine people overnight. Crystal Chatham/The Desert Sun "></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110620/NEWS09/110620015/Heat-warning-Coachella-Valley-prompts-opening-local-cool-centers?odyssey=nav|head">Heat warning in Coachella Valley prompts opening of local cool centers</a>
+		<a href="/article/20111102/NEWS01/111020319/Crackdown-changes-protest-s-tone?odyssey=nav|head">Crackdown changes protest's tone</a>
 	</div>
 	<div class="summary">
-			A heat warning has been expanded to include all the desert areas of eastern Riverside County from...<span class="timestamp">- 5:27 pm</span>
+			After a stalemate that lasted several days, police descended on Palm Desert's Civic Center Park...<span class="timestamp">- 12:40 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110620/NEWS01/110620002/Supreme-Court-sides-Wal-Mart-sex-bias-case?odyssey=nav|head">Supreme Court sides with Wal-Mart in sex bias case</a>
+		<a href="/article/20111102/NEWS01/111020318/Agency-DHS-home-fees-illegal?odyssey=nav|head">Agency: DHS home fees illegal</a>
 	</div>
 	<div class="summary">
-		The Supreme Court on Monday blocked a massive sex discrimination lawsuit against Wal-Mart on behalf...<span class="timestamp">- 10:09 am</span>
+		The city violated state law when it tried to impose more than $500,000 in impact fees on a mobile...<span class="timestamp">- 12:39 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110620/NEWS08/110620014/Indio-police-searching-home-robbery-suspects?odyssey=nav|head">Indio police searching for home robbery suspects</a>
+		<a href="/article/20111102/NEWS0301/111020310/Measure-J-fans-foes-demonstrate?odyssey=nav|head">Measure J fans, foes demonstrate</a>
 	</div>
 	<div class="summary">
-		Indio police are still searching for three suspects described as armed and dangerous — two of whom...<span class="timestamp">- 5:38 pm</span>
+		A mural- sized banner touting Palm Springs' Measure J and the building it hangs from acted as...<span class="timestamp">- 12:40 am</span>
 	</div>
 </div>
 		</div>
@@ -739,29 +742,29 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section photo">
-	<div class="photoFrame"><a href="/article/20110620/SPORTS01/110620009/Selig-rejects-Dodgers-TV-contract-nullifying-McCourt-divorce-deal?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20110620&amp;Kategori=SPORTS01&amp;Lopenr=110620009&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt=" "></a>
+	<div class="photoFrame"><a href="/article/20111102/SPORTS0701/111020334/Fan-friendly-changes-coming-BNP-Paribas-Open?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20111102&amp;Kategori=SPORTS0701&amp;Lopenr=111020334&amp;Ref=TS&amp;NewTbl=1&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Fan-friendly-changes-coming-BNP-Paribas-Open" alt=" "></a>
 	</div>
 	<div class="headline">
-		<a href="/article/20110620/SPORTS01/110620009/Selig-rejects-Dodgers-TV-contract-nullifying-McCourt-divorce-deal?odyssey=nav|head">Selig rejects Dodgers TV contract, nullifying McCourt divorce deal</a>
+		<a href="/article/20111102/SPORTS0701/111020334/Fan-friendly-changes-coming-BNP-Paribas-Open?odyssey=nav|head">Fan-friendly changes coming to BNP Paribas Open</a>
 	</div>
 	<div class="summary">
-			LOS ANGELES -- Major League Baseball Commissioner Bud Selig on Monday rejected a proposed...<span class="timestamp">- 2:17 pm</span>
+			New additions to enhance the fan experience at the BNP Paribas Open are under way and are scheduled...<span class="timestamp">- 12:12 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110620/SPORTS07/106200322/Keep-an-eye-Wimbledon?odyssey=nav|head">Keep an eye on Wimbledon</a>
+		<a href="/article/20111102/SPORTS01/111020335/Frank-McCourt-sell-Los-Angeles-Dodgers?odyssey=nav|head">Frank McCourt to sell Los Angeles Dodgers</a>
 	</div>
 	<div class="summary">
-		Desert Sun sports assistant Britten Gerrard offers three  Wimbledon story lines to follow.<span class="timestamp">- 12:58 am</span>
+		Frank McCourt has agreed to sell the Los Angeles Dodgers, surrendering the team he fought to retain...<span class="timestamp">- 12:14 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110620/SPORTS05/106200321/McIlroy-laps-U-S-Open-field-his-way-victory?odyssey=nav|head">McIlroy laps U.S. Open field on his way to victory</a>
+		<a href="/article/20111102/SPORTS02/111020336/Silence-usually-golden-s-not-great-NBA-arenas?odyssey=nav|head">Silence usually golden, but it's not so great at NBA arenas</a>
 	</div>
 	<div class="summary">
-		Rory McIlroy buried the memory of his Masters meltdown the same way he buried the competition at...<span class="timestamp">- 10:53 am</span>
+		Tuesday was supposed to be the day.<span class="timestamp">- 12:16 am</span>
 	</div>
 </div>
 		</div>
@@ -778,28 +781,30 @@ Combination= category-PRIVACY&type-section-->
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
-<div class="section ">
+<div class="section photo">
+	<div class="photoFrame"><a href="/article/20111102/BUSINESS/111020313/Developer-Eagle-Mountain-dump-files-Chapter-11-bankruptcy?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20111102&amp;Kategori=BUSINESS&amp;Lopenr=111020313&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;Developer-Eagle-Mountain-dump-files-Chapter-11-bankruptcy" alt="This 1978 aerial photo of the Eagle Mountain Mine hangs Thursday in the post office located on Ragsdale Road in Desert Center. Crystal Chatham/The Desert Sun "></a>
+	</div>
 	<div class="headline">
-		<a href="/article/20110620/BUSINESS/106200311/Redlands-Rep-Lewis-spreads-campaign-dollars?odyssey=nav|head">Redlands Rep. Lewis spreads campaign dollars</a>
+		<a href="/article/20111102/BUSINESS/111020313/Developer-Eagle-Mountain-dump-files-Chapter-11-bankruptcy?odyssey=nav|head">Developer of Eagle Mountain dump files for Chapter 11 bankruptcy</a>
 	</div>
 	<div class="summary">
-			Few are more generous than U.S. Rep.<span class="timestamp">- 9:24 am</span>
+			The developer of a contentious, 4,654-acre Eagle Mountain landfill project proposed for an area...<span class="timestamp">- 12:03 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110619/BUSINESS04/106190307/Food-court-hungry-buyer?odyssey=nav|head">Food court hungry for a buyer</a>
+		<a href="/article/20111102/BUSINESS/111020314/Bank-America-backs-down-5-debit-card-fee?odyssey=nav|head">Bank of America backs down on $5 debit card fee</a>
 	</div>
 	<div class="summary">
-		An agent's working to sell the upscale Terrace Eateries building, once home to eight restaurants,...<span class="timestamp">- 10:48 pm</span>
+		Bank of America Corp.<span class="timestamp">- 12:04 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110619/BUSINESS07/106190305/All-About-Business-Blue-Sky-Homes-second-prefab-residence-drawing-attention?odyssey=nav|head">All About Business: Blue Sky Homes' second prefab residence drawing attention</a>
+		<a href="/article/20111102/BUSINESS/111020315/Greek-PM-firm-referendum?odyssey=nav|head">Greek PM firm on referendum</a>
 	</div>
 	<div class="summary">
-		It took a little bit longer than expected, but Blue Sky Homes' second steel prefab home is...<span class="timestamp">- 10:52 pm</span>
+		Greece's prime minister held firm early today to his shock decision to call for a referendum on a...<span class="timestamp">- 12:05 am</span>
 	</div>
 </div>
 		</div>
@@ -810,36 +815,36 @@ Combination= category-PRIVACY&type-section-->
 		<div class="column1">
 			<div class="sectionTop">
 				<ul class="clear">
-				<li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles01">Entertainment</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com">Metromix</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles02">Food &amp; Drink</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles03">Health</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles09">Society</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/section?Category=CALENDAR&amp;site=GMTI&amp;tpl=EventSearch">Calendar</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com/movies">Movies</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com/music">Music</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/desertmagazine">Desert Magazine</a></li>
+				<li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles01">Entertainment</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com">Metromix</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles02">Food &amp; Drink</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/section/lifestyles03">Health</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/desertscene">Desert Scene</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/travel">Travel</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/apps/pbcs.dll/section?Category=CALENDAR&amp;site=GMTI&amp;tpl=EventSearch">Calendar</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com/movies">Movies</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="http://palmsprings.metromix.com/music">Music</a></li><li class="link 4"><span class="arrow">&nbsp;</span><a href="/desertmagazine">Desert Magazine</a></li>
 				</ul>
 			</div>
 		</div>
 		<div class="column2Mega">
 			<div class="latestHeadlines">LATEST HEADLINES</div>
 <div class="section photo">
-	<div class="photoFrame"><a href="/article/20110620/LIFESTYLES01/306200001/Miss-California-crowned-Miss-USA?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20110620&amp;Kategori=LIFESTYLES01&amp;Lopenr=306200001&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30" alt="Alyssa Campanella, Miss California, reacts after being crowned the 2011 Miss USA, Sunday, June 19, 2011, in Las Vegas. AP Photo/Julie Jacobson"></a>
+	<div class="photoFrame"><a href="/article/20111102/LIFESTYLES02/111010339/We-reveal-your-favorite-Coachella-Valley-breakfast-spots?odyssey=nav|head"><img src="http://cmsimg.gdn.mydesert.com/apps/pbcsi.dll/bilde?Avis=J1&amp;Dato=20111102&amp;Kategori=LIFESTYLES02&amp;Lopenr=111010339&amp;Ref=AR&amp;MaxW=80&amp;MaxH=65&amp;Border=0&amp;q=30&amp;We-reveal-your-favorite-Coachella-Valley-breakfast-spots" alt="La Quinta Baking Company owner Robert Gary shows his spinach frittata with mushrooms and brie in the restaurant's dining room. Gerry Maceda/Special to The Desert Sun "></a>
 	</div>
 	<div class="headline">
-		<a href="/article/20110620/LIFESTYLES01/306200001/Miss-California-crowned-Miss-USA?odyssey=nav|head">Miss California crowned Miss USA</a>
+		<a href="/article/20111102/LIFESTYLES02/111010339/We-reveal-your-favorite-Coachella-Valley-breakfast-spots?odyssey=nav|head">We reveal your favorite Coachella Valley breakfast spots</a>
 	</div>
 	<div class="summary">
-			Beating out 50 other contestants, an auburn-haired beauty from California who was a favorite among...<span class="timestamp">- 8:55 pm</span>
+			A local publicist's quest to find the best breakfast  spots in America set us off on the slightly...<span class="timestamp">- 6:50 am</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110620/LIFESTYLES01/110620007/Miss-USA-predicted-fate-Show-last-November?odyssey=nav|head">Miss USA predicted fate at The Show last November</a>
+		<a href="/article/20111102/LIFESTYLES02/111010342/A-yam-by-any-other-name-won-t-taste-sweet?odyssey=nav|head">A yam by any other name won't taste as sweet</a>
 	</div>
 	<div class="summary">
-		Alyssa Campanella predicted her own fate at The Show inside Agua Caliente Casino Resort Spa in...<span class="timestamp">- 11:22 am</span>
+		Dear Dinner Doc:  I am confused about the difference between a sweet potato and a yam.<span class="timestamp">- 7:50 pm</span>
 	</div>
 </div>
 <div class="section ">
 	<div class="headline">
-		<a href="/article/20110620/LIFESTYLES01/106200320/Scorsese-documentary-looks-George-Harrison?odyssey=nav|head">Scorsese documentary looks at George Harrison</a>
+		<a href="/article/20111102/LIFESTYLES02/111010341/A-bowl-chili-warms-up-fall-day?odyssey=nav|head">A bowl of chili warms up a fall day</a>
 	</div>
 	<div class="summary">
-		A documentary on the life of George Harrison directed by Martin Scorsese is nearly done and is...<span class="timestamp">- 12:39 am</span>
+		A big pot of chili is a great fall go-to dish and a good tailgate option that easily feeds a crowd.<span class="timestamp">- 7:59 pm</span>
 	</div>
 </div>
 		</div>
@@ -897,8 +902,9 @@ Combination= category-PRIVACY&type-section-->
 	<div class="header-featured">
 		<div class="header-wrap">
 			<ul id="login-container" class="login-container"><li class="signup">      <a href="javascript:GEL.util.uautil.UASignup();">Sign up</a></li><li class="first">      <a href="javascript:GEL.util.uautil.LoginProvider();">Log in</a> </li>      <span id="CustomLinks" style="display:none;visibility:hidden"></span></ul>
-			<ul>
-				<li><strong>FEATURED:</strong></li><li><a href="/graduation">Graduation</a></li><li><a href="/desertmagazine">Desert Magazine</a></li><li><a href="/subscribe">Subscribe</a></li><li><a href="http://palmsprings.metromix.com">Metromix</a></li><li><a href="http://www.visitmydesert.com">Visitor Info</a></li>
+			<ul class="ody-navfeatured">
+				<!-- ody_navfeatured.pbo -->
+<li><strong>FEATURED:</strong></li><li><a href="http://digitalnatives.net">CCNews</a></li><li><a href="/desertmagazine">Desert Magazine</a></li><li><a href="http://www.visitmydesert.com">Visitor Info</a></li><li><a href="http://www.dealchicken.com/palm-springs-ca?source=IP|nav|dealchickenfeatured">Deal Chicken</a></li>
 			</ul>
 			<div class="pd-search">
 				<div class="searchbox-shift">
@@ -1028,7 +1034,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<div class="leaderboard-container-top">
 				<div>
 	<div class="ad_launchpad_SF">
-	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_4" class=" gel-hidden"><script id="__gelement_5" src="https://gannett.gcion.com/addyn/3.0/5111.1/133600/0/-1/ADTECH;alias=ca-palmsprings.thedesertsun.com/news/index.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=31622;misc=1580386940344;size=728x90;noperf=1;key=Privacy+Policy;kvcw=;kvtitle=Privacy-Policy"></script>
+	<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_4" class=" gel-hidden"><script id="__gelement_5" src="https://gannett.gcion.com/addyn/3.0/5111.1/133600/0/-1/ADTECH;alias=ca-palmsprings.thedesertsun.com/news/index.htm_launchpad_SF;cookie=info;loc=100;target=_blank;grp=66896;misc=1580386939457;size=728x90;noperf=1;key=Privacy+Policy;kvcw=;kvtitle=Privacy-Policy"></script>
 </div>
 </div><banner position="launchpad_SF" id="__gelement_adbanner_0"></banner>
 		<div class="advertisement">ADVERTISEMENT</div>
@@ -1128,7 +1134,7 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 <div class="footer-main">
 	<div class="footer-wrap">
 		<div class="left">
-			<ul><li><h4><a href="/section/news">LOCAL NEWS</a></h4></li><li><a href="/section/news08">Crime and Courts</a></li><li><a href="/section/news03">Politics</a></li><li><a href="/section/news04">Education</a></li><li><a href="/section/news07">Environment</a></li><li><a href="http://mydesert.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Palm%20Springs&amp;State=CA">Weather</a></li><li><a href="/section/news0805">Earthquakes</a></li><li><a href="/section/7daysarchives">Today's Newspaper</a></li><li><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=mydesert">Nation and World</a></li><li><h4><a href="http://obituaries.mydesert.com/obituaries/thedesertsun/">OBITUARIES</a></h4></li><li><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?Page=FuneralHomeDirectory">Funeral Homes</a></li><li><a href="/section/lifestyles06">Churches</a></li><li><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?page=GBGateway">Guest Book</a></li><li><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li></ul><ul><li><h4><a href="/section/yourtown">COMMUNITIES</a></h4></li><li><a href="/section/yourtown01">Cathedral City</a></li><li><a href="/section/yourtown02">Coachella</a></li><li><a href="/section/yourtown03">Desert Hot Springs</a></li><li><a href="/section/yourtown04">Indian Wells</a></li><li><a href="/section/yourtown05">Indio</a></li><li><a href="/section/yourtown06">La Quinta</a></li><li><a href="/section/yourtown09">Palm Desert</a></li><li><a href="/section/yourtown08">Palm Springs</a></li><li><a href="/section/yourtown10">Rancho Mirage</a></li><li><h4><a href="/section/galleriessectionfront">PHOTOS</a></h4></li><li><a href="/section/videonetwork">Videos</a></li><li><a href="/photos">Staff Photos</a></li><li><a href="/section/pluckpublicphotogalleries">Reader Photos</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="http://mydesert.highschoolsports.net/">High School Sports</a></li><li><a href="/section/sports05">Golf</a></li><li><a href="http://teetimes.mydesert.com/">Tee Times</a></li><li><a href="/section/sports07">Tennis</a></li><li><a href="/section/sports01">Baseball</a></li><li><a href="/section/sports02">Basketball</a></li><li><a href="/section/sports03">Boxing</a></li><li><a href="/section/sports04">Football</a></li><li><h4><a href="/section/opinion">OPINION</a></h4></li><li><a href="/blogs">Blogs</a></li><li><a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li><a href="/section/opinion01">Editorials</a></li><li><a href="/section/columns26">Valley Voice</a></li><li><a href="/section/getpublished">Get Published</a></li><li><a href="/section/opinion02">Letters to the Editor</a></li><li><a href="/section/feedback02">Submit a Letter</a></li></ul><ul><li><h4><a href="/section/business">BUSINESS</a></h4></li><li><a href="http://mydesert.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&amp;pub=mydesert">Real Estate</a></li><li><a href="/section/business01">Tourism and Hospitality</a></li><li><a href="/section/business02">Small Business</a></li><li><a href="/section/news05">Growth and Development</a></li><li><a href="/section/business05">Jobs and Employment</a></li><li><h4><a href="/section/lifestyles">LIFESTYLES</a></h4></li><li><a href="/section/lifestyles01">Entertainment</a></li><li><a href="http://palmsprings.metromix.com">Metromix</a></li><li><a href="/section/lifestyles02">Food &amp; Drink</a></li><li><a href="/section/lifestyles03">Health</a></li><li><a href="/section/lifestyles09">Society</a></li><li><a href="/apps/pbcs.dll/section?Category=CALENDAR&amp;site=GMTI&amp;tpl=EventSearch">Calendar</a></li><li><a href="http://palmsprings.metromix.com/movies">Movies</a></li><li><a href="http://palmsprings.metromix.com/music">Music</a></li><li><a href="/desertmagazine">Desert Magazine</a></li></ul>
+			<ul><li><h4><a href="/section/news">LOCAL NEWS</a></h4></li><li><a href="/section/news08">Crime and Courts</a></li><li><a href="/section/news03">Politics</a></li><li><a href="/section/news04">Education</a></li><li><a href="/section/news07">Environment</a></li><li><a href="http://mydesert.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;City=Palm%20Springs&amp;State=CA">Weather</a></li><li><a href="/data">Data</a></li><li><a href="/section/news0805">Earthquakes</a></li><li><a href="/section/7daysarchives">Today's Newspaper</a></li><li><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li><li><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=mydesert">Nation and World</a></li><li><h4><a href="/section/galleriessectionfront">PHOTOS</a></h4></li><li><a href="/section/videonetwork">Videos</a></li><li><a href="/photos">Staff Photos</a></li><li><a href="/section/pluckpublicphotogalleries">Reader Photos</a></li></ul><ul><li><h4><a href="/section/yourtown">COMMUNITIES</a></h4></li><li><a href="/section/yourtown01">Cathedral City</a></li><li><a href="/section/yourtown02">Coachella</a></li><li><a href="/section/yourtown03">Desert Hot Springs</a></li><li><a href="/section/yourtown04">Indian Wells</a></li><li><a href="/section/yourtown05">Indio</a></li><li><a href="/section/yourtown06">La Quinta</a></li><li><a href="/section/yourtown09">Palm Desert</a></li><li><a href="/section/yourtown08">Palm Springs</a></li><li><a href="/section/yourtown10">Rancho Mirage</a></li><li><h4><a href="http://obituaries.mydesert.com/obituaries/thedesertsun/">OBITUARIES</a></h4></li><li><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?Page=FuneralHomeDirectory">Funeral Homes</a></li><li><a href="/section/lifestyles06">Churches</a></li><li><a href="http://www.legacy.com/thedesertsun/Obituaries.asp?page=GBGateway">Guest Book</a></li><li><a href="http://pqasb.pqarchiver.com/mydesert/advancedsearch.html">Archives</a></li></ul><ul><li><h4><a href="/section/sports">SPORTS</a></h4></li><li><a href="http://mydesert.highschoolsports.net/">High School Sports</a></li><li><a href="/section/sports05">Golf</a></li><li><a href="http://teetimes.mydesert.com/">Tee Times</a></li><li><a href="/section/sports07">Tennis</a></li><li><a href="/section/sports01">Baseball</a></li><li><a href="/section/sports02">Basketball</a></li><li><a href="/section/sports03">Boxing</a></li><li><a href="/section/sports04">Football</a></li><li><h4><a href="/section/opinion">OPINION</a></h4></li><li><a href="/blogs">Blogs</a></li><li><a href="/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum">Forums</a></li><li><a href="/section/opinion01">Editorials</a></li><li><a href="/section/columns26">Valley Voice</a></li><li><a href="/section/getpublished">Get Published</a></li><li><a href="/section/opinion02">Letters to the Editor</a></li><li><a href="/section/feedback02">Submit a Letter</a></li></ul><ul><li><h4><a href="/section/business">BUSINESS</a></h4></li><li><a href="http://mydesert.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&amp;pub=mydesert">Real Estate</a></li><li><a href="/section/business01">Tourism and Hospitality</a></li><li><a href="/section/business02">Small Business</a></li><li><a href="/section/news05">Growth and Development</a></li><li><a href="/section/business05">Jobs and Employment</a></li><li><h4><a href="/section/lifestyles">LIFESTYLES</a></h4></li><li><a href="/section/lifestyles01">Entertainment</a></li><li><a href="http://palmsprings.metromix.com">Metromix</a></li><li><a href="/section/lifestyles02">Food &amp; Drink</a></li><li><a href="/section/lifestyles03">Health</a></li><li><a href="/desertscene">Desert Scene</a></li><li><a href="/travel">Travel</a></li><li><a href="/apps/pbcs.dll/section?Category=CALENDAR&amp;site=GMTI&amp;tpl=EventSearch">Calendar</a></li><li><a href="http://palmsprings.metromix.com/movies">Movies</a></li><li><a href="http://palmsprings.metromix.com/music">Music</a></li><li><a href="/desertmagazine">Desert Magazine</a></li></ul>
 		</div>
 		<div class="right">
 			<ul>
@@ -1164,8 +1170,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a target="_blank" href="http://www.homegain.com">Real Estate</a></li>
 			<li>|</li>
 			<li><a target="_blank" href="http://www.shoplocal.com">Shopping</a></li>
-			<li>|</li>
-			<li><a target="_blank" href="http://www.momslikeme.com">Mom Groups</a></li>
 		</ul>
 	</div>
 </div>
@@ -1178,7 +1182,6 @@ function safeParam( key, def) { //get cleaned up keywords so they look pretty in
 			<li><a class="footer-apts" href="http://www.apartments.com/" target="_blank"></a></li>
 			<li><a class="footer-homegain" href="http://www.homegain.com" target="_blank"></a></li>
 			<li><a class="footer-shop" href="http://www.shoplocal.com" target="_blank"></a></li>
-			<li><a class="footer-moms" href="http://www.momslikeme.com" target="_blank"></a></li>
 			<li><a class="footer-career" href="http://www.careerbuilder.com" target="_blank"></a></li>
 			<li><a class="footer-eharmony" href="http://www.eharmony.com" target="_blank"></a></li>			
 		</ul>
@@ -1315,7 +1318,7 @@ GEL.thepage.initializer.addInitRoutine({
 		method of inserting the image.  Once this is implemented, 
 		the inline attachment of the s_code here can be removed 
 	*/
-	var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
+		var _s = GEL.ement("SCRIPT", { src: "/odygel/lib/vendor/omniture/sitecatalyst.js" }); 
 	_s.setAttacher("inline"); 
 	_s.attach(); 
 })(); 
@@ -1327,22 +1330,6 @@ GEL.thepage.initializer.addInitRoutine({
 <!--Semantics Agency Trading Desk-->
 <div id="adsdaq"></div>
 <script type="text/javascript">
-(function(){
-	GEL.thepage.initializer.addInitRoutine({ 
-		name: "ADSDAQ",
-		namespace: "remoting",
-		callback: function (){ 
-			var 
-				_jscntr= GEL.ement("adsdaq"), 
-				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
-			;
-			_jscntr.setContentUrl(_u, 'script');
-			_jscntr.updateRemoteContent(); 
-			return; 
-		}, 
-		priority: 250
-	});
-})()	
 </script>
 <script type="text/javascript">
 (function(){ 
@@ -1457,40 +1444,40 @@ setTimeout(function(){ GEL.thepage.initializer.init();}, 100);
 <!-- General Info
 Current page request (after SAXOTECH translation): http://www.mydesert.com/apps/pbcs.dll/section?Category=privacy
 Canonical Link: http://www.MyDesert.com/section/PRIVACY/Privacy-Policy
-Build date and time: 2011-06-20 19:52:29
+Build date and time: 2011-11-02 04:10:22
 -->
 <!-- Cache Build Time
-Time used: 7251 ms Wait: 47 ms<br>
+Time used: 1875 ms<br>
 <b>Starting first parse</b><br>
 .Parsing macro ody_Initialize<br>
-..Build 0: 15 ms (Misc)<br>
+..Build 0: 16 ms (Misc)<br>
 ..Parsing macro ody_Initialize_All<br>
 ...Parsing macro ody_SetSSTS<br>
-....Build 9: 47 ms (Content)<br>
+....Build 9: 15 ms (Content)<br>
 ...Completed macro ody_SetSSTS<br>
-...Build 9: 265 ms (Content)<br>
+...Build 9: 78 ms (Content)<br>
 ..Completed macro ody_Initialize_All<br>
 ..Parsing macro ody_GetTimeOffset<br>
-...Build 9: 32 ms (Content)<br>
+...Build 9: 16 ms (Content)<br>
 ..Completed macro ody_GetTimeOffset<br>
-...Build 0: 16 ms (Misc)<br>
-...Build 0: 16 ms (Misc)<br>
+...Build 0: 15 ms (Misc)<br>
+...Build 0: 0 ms (Misc)<br>
 ...Build 0: 0 ms (Misc)<br>
 ...Build 0: 0 ms (Misc)<br>
 ...Build 0: 0 ms (Misc)<br>
 ..Parsing macro ody_Initialize_Request<br>
 ...Parsing macro ody_Initialize_Section<br>
 ....Parsing macro ody_SectionInitialize<br>
-.....Build 9: 63 ms (Content)<br>
+.....Build 9: 15 ms (Content)<br>
 ....Completed macro ody_SectionInitialize<br>
-....Build 9: 125 ms (Content)<br>
+....Build 9: 31 ms (Content)<br>
 ...Completed macro ody_Initialize_Section<br>
-...Build 9: 188 ms (Content)<br>
+...Build 9: 62 ms (Content)<br>
 ..Completed macro ody_Initialize_Request<br>
-..Build 9: 985 ms (Content)<br>
+..Build 9: 281 ms (Content)<br>
 .Completed macro ody_Initialize<br>
 .Parsing macro ody_addecision<br>
-..Build 9: 203 ms (Content)<br>
+..Build 9: 141 ms (Content)<br>
 .Completed macro ody_addecision<br>
 .Parsing macro ody_Header<br>
 ..Parsing macro ody_HeaderRequest<br>
@@ -1498,40 +1485,34 @@ Time used: 7251 ms Wait: 47 ms<br>
 ....Parsing macro ody_seo<br>
 .....Build 0: 0 ms (Misc)<br>
 ....Completed macro ody_seo<br>
-....Build 9: 110 ms (Content)<br>
+....Build 9: 47 ms (Content)<br>
 ...Completed macro ody_Header_Sections<br>
-...Build 9: 172 ms (Content)<br>
+...Build 9: 62 ms (Content)<br>
 ..Completed macro ody_HeaderRequest<br>
 ..Parsing macro ody_pageinfo_script<br>
-...Build 9: 63 ms (Content)<br>
+...Build 9: 16 ms (Content)<br>
 ..Completed macro ody_pageinfo_script<br>
-..Parsing macro ody_semantics_wrapper<br>
-...Parsing macro ody_semantics<br>
-....Build 9: 3062 ms (Content)<br>
-...Completed macro ody_semantics<br>
-...Build 9: 3109 ms (Content)<br>
-..Completed macro ody_semantics_wrapper<br>
-..Build 9: 3891 ms (Content)<br>
+..Build 9: 281 ms (Content)<br>
 .Completed macro ody_Header<br>
 .Parsing macro ody_nav<br>
 .Completed macro ody_nav<br>
 .Parsing macro ody_gen3_content<br>
 ..Parsing macro ody_getPrivacy<br>
-...Build 0: 625 ms (Misc)<br>
+...Build 0: 516 ms (Misc)<br>
 ..Completed macro ody_getPrivacy<br>
-..Build 9: 703 ms (Content)<br>
+..Build 9: 547 ms (Content)<br>
 .Completed macro ody_gen3_content<br>
 .Parsing macro ody_Footer<br>
 ..Parsing macro ody_analytics<br>
-...Build 9: 125 ms (Content)<br>
+...Build 9: 31 ms (Content)<br>
 ..Completed macro ody_analytics<br>
 ..Parsing macro ody_meebobar<br>
 ...Parsing macro ody_meebo_adcall<br>
-....Build 9: 31 ms (Content)<br>
+....Build 9: 0 ms (Content)<br>
 ...Completed macro ody_meebo_adcall<br>
-...Build 9: 94 ms (Content)<br>
+...Build 9: 16 ms (Content)<br>
 ..Completed macro ody_meebobar<br>
-..Build 9: 859 ms (Content)<br>
+..Build 9: 282 ms (Content)<br>
 .Completed macro ody_Footer<br>
 .Parsing macro ody_DebugInfo<br>
 -->
