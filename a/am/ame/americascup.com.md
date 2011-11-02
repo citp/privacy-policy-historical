@@ -1,57 +1,61 @@
-> *The following text is extracted and transformed from the americascup.com privacy policy that was archived on 2007-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070606183526id_/http%3A//www.americascup.com/en/misc/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americascup.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143541id_/http%3A//www.americascup.com/en/G/F/Privacy-Policy1) for the most accurate reproduction.*
 
-# 32nd America's Cup Official Website
+# America's Cup | ACEA Privacy Policy
 
-The purpose of the present Privacy Policy, is for AC Management S.A. Sucursal en España with offices at Port America's Cup, Edificio Varadero, PO Box 6032 - 48011 Valencia, Spain (hereinafter referred to as "ACM") to inform the users of the official Internet website "www.americascup.com" (hereinafter referred to as "Users" and the "Website") in respect to its personal data protection policy in order to enable Users to determine by their own will if they accept to have their personal data treated by ACM. These personal data may be required to Users when subscribing to the different services offered by ACM in the Website. 
+**AMERICA’S CUP EVENT AUTHORITY  
+PRIVACY POLICY**
 
-ACM reserves its right to amend the present Privacy Policy at any time. Such amendments shall be effective as per the date of their publication in the Website. 
+America’s Cup Event Authority LLC (“ACEA”, “us”, “our” or “we”) is committed to preserving the privacy of all visitors to our website at www.americascup.com (the “Website”).  Before you proceed with use of the Website, please read the following privacy policy (the “Policy”) carefully to understand how we use and protect the information that you provide to us.  
 
-**1 Data collection, treatment and disclosure proceedings**  
-In order to have access to some of the services provided by the Website, ACM request the User to provide specific personal data. All personal data collected in forms and questionnaires will be inserted in ACM data base, for which ACM is responsible. 
+Please be aware that this Policy only governs our use of personally identifiable information that is collected when you are on the Website.  This Policy does not extend to the use of data submitted to or through any third party websites, including, without limitation, America’s Cup Team pages, to which links may be provided on the Website, and we encourage you to review the privacy policies of those other websites and the America’s Cup Team pages in order that you understand how they collect, use and share information.
 
-Personal data will be treated so as to guarantee management, accomplishment, maintenance and control of commercial or juridical relationships established with the User. Personal data can also be treated for the following purposes: (i) for games, draw lots and special offers organised by ACM; (ii) to manage, administrate, develop and improve the services rendered in this Website; (iii) to set-up profiles in order to adequate the services to Users preferences; (iv) to send special offers and advertisement about products and services rendered by ACM and/or third parties, either by mail, telephone or electronic mail (e-mail or any equivalent communication tool); (v) to send questionnaires, considering that it is not mandatory for the User to answer such questionnaires. 
+ **1.   Information That We May Collect From You**
 
-The personal data will be collected exclusively with the above-mentioned purposes and only will be disclosed to companies controlled or controlling ACM created for the organization of the 32nd America’s Cup. Such disclosure may involve international transfer when such companies are based outside Spain. In fact, the personal data can be transferred to European Union members that offer an equivalent data protection level, as well to Switzerland, which have been declared by the European Union Commission as being a country that guarantees an equivalent data protection. 
+1.1  In general, you can access and browse the Website without providing personal information.  However, there may be times when we will request personally identifiable information from you in order that you may participate in the Website’s services, activities or features.  The personally identifiable information collected may include (without limitation) your first name, last name, e-mail address, address, country of residence, nationality, gender, date of birth, preferences, billing address, credit or debit card information, account name, account password, answer to security question and/or mother’s maiden name.  We may also collect information about your usage of the Website as well as information about you from messages you post to any forum or message board and emails, letters and other communications you may send to us from time to time.
 
-It is expressly stated herewith that the personal data collected can be kept by a hosting provider in Switzerland or another European Union member. 
+1.2  When you submit personally identifiable information to us through the Website, you agree that such information may be stored and processed by us and/or on our behalf.  We may also collect information about your interaction with the Website and the services on the Website.  We receive and record information on our server logs from your browser including your IP address, cookie information (see further below) and the page(s) you requested.  In particular, we reserve the right to perform statistical analysis of user behaviours and characteristics in order to measure interest in and use of the various areas of the Website and to ascertain the number of users that have visited particular pages of the Website.  We will provide only aggregated data from these analyses to third parties, and such statistical data will not identify any individual.
 
-In addition, personal data can be assigned to the entity representing the winner of the 32nd America’s Cup, including any entity that might be officially designated for the purpose of organising the 33rd America’s Cup. 
+1.3  Please note that if you submit your personally identifiable information to us, you will be giving your consent to the transfer of such information to other countries.  Collected information may be processed, stored and used elsewhere depending on the location of affiliates, business partners and other entities who are permitted to access such information under the terms of this Policy.
 
-ACM can disclose the personal data to providers and other third parties when:   
-(i)Such disclosure is needed for maintenance, accomplishment and control of the legal, commercial or contractual relationship established with the User;   
-(ii)Such disclosure is authorised by law;   
-(iii)Such communication containing User’s personal data is to be sent to Judges or Tribunal Courts. 
+ **2.   Use of Your Information**
 
-The User guarantees that all personal data provided to ACM is real and accurate and is that he is responsible to communicate any modification to the personal data inserted. Unless otherwise specifically stated, it is not mandatory to answer to any of the questions and not answering does not involve any restriction in the quality or quantity on the corresponding services. 
+2.1  We collect and use your information in order to give you a better service and to provide you with information you request, including information about ACEA events and/or the America’s Cup.  Your information is also used to fulfil your requests for certain services and/or to participate in certain activities and/or to make the Website more useful to you.  Where you have consented when providing us with your details, we may also allow carefully selected third parties to contact you from time to time about events, products and services which may be of interest to you.
 
-ACM guarantees the confidentiality of all the personal data collected in the Website.
+2.2  You have the right to prevent marketing information being sent direct to you, whether by us or by our carefully selected third parties.  If you prefer not to receive information from us or from any other organisation to which we may wish to disclose your personal information, ensure that you tick the appropriate box which appears where you are submitting your personal data.  If you change your mind, at any time, about being contacted by us or our third parties, please let us know.  Please understand that where you have opted out of receiving further communications, it may take us a few days to process your request.
 
-**2 Cookies**  
-Cookie is an information collection tool, by which the Website transfers information related with the browsing taken by the User in the Website, automatically, to the User’s hard disc. 
+2.3  We may disclose your personally identifiable information without your express consent where we believe disclosure to be required by law or regulation, or necessary to protect or defend our rights or property, the safety of the public and/or the users of the Website.
 
-ACM expressly informs Users that cookies are not collected when browsing in the Website.
+ **3.   Cookies**
 
-**3 Use of IP addresses**  
-The IP address is the number designated automatically for each User’s computer equipment by the Internet access provider for Internet browsing. When the User requests to have access to a website, ACM receives and acknowledges the User’s IP address. ACM receives and keeps IP addresses for system management and to obtain statistics information for advertisers and, in particular, to control and monitor the use and the number of visits in the Website. ACM informs that does not make any connection between IP addresses and any other data in order to be capable of identifying any specific person. ACM reserves its right to use IP addresses, together with the Internet access provider, in order to protect services and/or the contents of the Website, customers’ or third parties interests in case of breach of any of the provisions of any law and/or applicable regulations. 
+3.1  In common with many other website operators, we may use standard technology called 'cookies' on the Website.  Cookies are small amounts of information that are stored by your browser on your computer’s hard drive.  We use cookies to improve the Website, to monitor Website traffic and to deliver a better and more personalised service for you.  Most browsers automatically accept cookies, but you can usually change your browser setting to prevent cookies being stored.  However, if you adjust your browser setting in this way, you may be unable to access certain parts of the Website.  
 
-**4 Minors**  
-If the User is under fourteen years old, and does not have the maturity required to guarantee his full acknowledge and comprehension needed to give its consent, parents or legal tutors are required to give consent for collection and treatment of their personal data on their behalf. If a minor less than fourteen years old enter the Website and insert his personal data, parents or legal tutors shall have further to guarantee that such data was inserted with their consent.
+3.2  Other companies that are advertising on our Website may also use cookies, over which we have no control.  Other companies’ use of their cookies is subject to their own privacy policies, not this Policy.  Such third party advertisers do not have access to our cookies.
 
-**5 Authentic Text**  
-The present Privacy Policy were drafted in English and translated into Spanish and French. In the event of any discrepancy between the English text and translated text, the English text shall prevail. In case of contradiction or conflict between specific Privacy Policy to any concrete case and this general Privacy Policy, specific Privacy Policy shall prevail.
+ **4.   Security and Data Retention**
 
-**6 Access, modification, cancellation and objection rights**  
-The User is entitled to exercise all his rights of access, modification, objection and cancellation in respect to his personal data collected. The User or his legal representative may exercise these rights by sending a request form to ACM, at the address indicated below, describing in detail their petition, together with a photocopy of a valid Identification card, and if applicable a copy of the document confirming the legal powers to act for and on behalf of the User. 
+We employ security measures to help safeguard the information we collect from you on the Website, including technical and organisational measures designed to secure your personal information from accidental loss and from unauthorised access, use, alteration or disclosure.  However, the Internet is an open system and we cannot guarantee that unauthorised third parties will never be able to access or use your personal information for improper purposes.  We will retain your information for a reasonable period or as long as the law requires.
 
-By mail: 
+ **5.   Changes to This Policy**
 
-AC Management S.A. Sucursal en España   
-Internet Department   
-Edificio Varadero   
-Port America’s Cup   
-Apartado de Correos - P.O. Box 6032   
-46011 Valencia, Spain 
+This Policy was last updated on the 30th June 2011.  We reserve the right to change this Policy at any time.  Any changes in the future will be posted to the Website.  Accordingly, we recommend that you check this page periodically in order to review our current Policy.
 
-By e-mail: 
+ **6.   Accessing, Updating or Removing Your Information**
 
-webmaster@americascup.com 
+6.1  You have the right to receive a copy of and/or update, modify and/or remove the personal information that we hold about you.  If you wish to receive a copy of the personal information that we hold about you, please let us know.  If you believe that any of the personal information that we hold about you has changed or is incorrect, you may ask us to change or update such data.  
+
+6.2  All requests shall be in writing and shall be directed to the contact details as set out below and shall include enough information to enable us to satisfy ourselves as to your identity. 
+
+**7.   Language**
+
+This Policy has been drafted in the English language.  In the case of any conflict or ambiguity between the English version of this Policy and any translation of them into any other language, the English version of this Policy will prevail.
+
+ **8.   Contacting Us**
+
+You can contact us by emailing us at info@americascup.com or by writing to us at the following address:
+
+America’s Cup Event Authority LLC  
+160 Pacific Avenue, Suite 201  
+San Francisco, California  94111  
+USA
+
+© Copyright 2011 – America’s Cup Event Authority LLC.  All rights reserved.
