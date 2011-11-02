@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onepagecrm.com privacy policy that was archived on 2010-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101207120509id_/http%3A//www.onepagecrm.com/gtd-sales-app-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepagecrm.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102210333id_/http%3A//www.onepagecrm.com/gtd-sales-app-privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - OnePageCRM.com
+# Privacy Policy - OnePageCRM
 
 This Privacy Policy relates to our privacy practices in connection with **onepagecrm.com** (the “Site”).
 
@@ -33,9 +33,9 @@ This Privacy Policy relates to our privacy practices in connection with **onepag
 **Contact Us:** Should you have any queries or complaints relating to this Privacy Policy, please contact us at:
 
 **OnePageCRM.com**  
-Unit 109, Business Innovation Centre  
-National University of Ireland, Galway  
-Upper Newcastle, Galway, Ireland.  
-telephone: +353 91 473138  
+Unit 109, Business Innovation Centre
+
+Upper Newcastle, Galway, Ireland.
+
 email: [contactoffice@onepagecrm.com](mailto:contactoffice@onepagecrm.com)  
 [www.onepagecrm.com](http://www.onepagecrm.com/)
