@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629182503id_/http%3A//www.nafsa.org/legal_information/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nafsa.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102211038id_/http%3A//www.nafsa.org/legal_information/privacy_policy) for the most accurate reproduction.*
 
 # NAFSA | About | Privacy Policy
+
+  
+
 
 #### January 2002
 
