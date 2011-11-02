@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricklife.com privacy policy that was archived on 2011-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110406115704id_/http%3A//www.tricklife.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricklife.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102053613id_/http%3A//www.tricklife.com/privacy.php) for the most accurate reproduction.*
 
 # TrickLife.com
 
