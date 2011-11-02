@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the christianbook.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504123332id_/http%3A//www.christianbook.com/Christian/Books/cms_content%3Fpage%3D144543) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the christianbook.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103004505id_/http%3A//www.christianbook.com/Christian/Books/cms_content%3Fpage%3D144543) for the most accurate reproduction.*
 
 # Privacy Policy - Christianbook.com
 
