@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514114704id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatar-patar.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102060349id_/http%3A//www.chatar-patar.com/privacy.php) for the most accurate reproduction.*
 
-# Make Online Friends | Share Photo Albums | Share Videos | Send Free SMS | Cricket Live Scores | Recharge Free Mobile -- Chatar-Patar.com
+# Recharge Free Mobile & Send Free SMS to India - Chatar-Patar.com
 
 Protecting your privacy is very important to our website. We will not sell, lease or exchange your personal data to third parties without first obtaining your express consent.
 
