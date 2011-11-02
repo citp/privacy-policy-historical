@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628032552id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharegyan.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102081650id_/http%3A//www.sharegyan.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - ShareGyan.com
 
+  
 **Yahoo! ID - sharegyan**  
 (For Paid Subscribers)
 
-[](http://twitter.com/sharegyan)            [](http://www.facebook.com/pages/ShareGyan/116491468395478)
+[](http://twitter.com/sharegyan)
+
+    
+
+[](http://www.facebook.com/pages/ShareGyan/116491468395478)
 
 ## Guests
 
