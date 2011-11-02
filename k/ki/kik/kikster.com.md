@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kikster.com privacy policy that was archived on 2010-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101213155150id_/http%3A//kikster.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kikster.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102101329id_/http%3A//kikster.com/privacy) for the most accurate reproduction.*
 
 # Kikster.com - Bringing you the best dirt
 
