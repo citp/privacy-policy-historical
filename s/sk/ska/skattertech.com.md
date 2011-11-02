@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skattertech.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504152742id_/http%3A//skattertech.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skattertech.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102162044id_/http%3A//skattertech.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skatter Tech
 
