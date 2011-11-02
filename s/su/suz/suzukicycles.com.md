@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2011-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110427035618id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suzukicycles.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014034id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Suzuki Cycles - Privacy
 
@@ -20,7 +20,7 @@
   
 Suzuki understands your concern with privacy and the collection and use of your personal information while visiting or interacting with the Suzuki.com Website. This document describes the policy of American Suzuki Motor Corporation (hereafter "Suzuki") regarding information received about you during visits to the Suzuki Website. The amount and type of information which we receive depends on how you use the site. 
 
-This Online Privacy and Use Policy was last updated on 01/27/05. The prior update occurred 11/01/04. For future updates to this Online Privacy and Use Policy please book mark this page and check back or send an e-mail to [privacy@suzuki.com](mailto:privacy@suzuki.com) with the words "requesting notification of privacy policy updates" in both the subject line and body of the email.
+This Online Privacy and Use Policy was last updated on 05/02/11. The prior update occurred 01/27/05. For future updates to this Online Privacy and Use Policy please book mark this page and check back or send an e-mail to [privacy@suzuki.com](mailto:privacy@suzuki.com) with the words "requesting notification of privacy policy updates" in both the subject line and body of the email.
 
 Back To Top
 
@@ -58,7 +58,28 @@ Back To Top
 
 Collection of Personally Identifiable Information to Provide a Service or Correspondence
 
-There are instances where Suzuki requests and collects information which may be personally identifiable to provide the website visitor a service or correspondence (e.g., e-newsletters, promotions, mailed brochures, and/or quick quotes). This personal information, such as name, mailing address, e-mail address, type of request, and possibly additional information, is collected and stored in a manner appropriate to the nature of the data, and may be passed on to our dealerships and fulfillment associates. Once our dealerships or fulfillment associates receive this information that data also becomes the property of the dealerships or fulfillment associates. Any request to opt out of future communications from such dealers or fulfillment associates must be made to the dealers or fulfillment associates directly.
+American Suzuki Motor Corporation ("Suzuki") may obtain information about you and your vehicle in multiple ways: from our Websites, Business Reply Cards, sweepstakes entries, test-drive incentive applications, surveys, vehicle sales records, and public sources. While you may use Suzuki's Websites to learn about our products and services without disclosing any information about you or your vehicle, we may ask you to provide us with personal information including:
+
+  * Contact information (name, address, city, state and Zip Code, e-mail address, and telephone numbers) 
+  * Vehicle information (vehicle identification number (VIN), make, model, model year, selling dealer, date of purchase or lease, etc.) 
+  * Demographic information (age range, marital status, household composition, etc.) 
+  * Non-credit-related marketing profile information (when you plan to purchase or lease; the vehicle in which you're interested, etc.)
+
+
+
+Business Reply Cards and sweepstakes entries you complete at an event or in response to a marketing mailing we send may also ask you to answer some of these questions so we can tailor what we send to you to your specific interests.
+
+In limited circumstances, we may ask you to provide Suzuki with your social security number. For example, if you win a sweepstakes or receive compensation from Suzuki, Suzuki is required to include your social security number on government tax forms. Suzuki maintains electronic and procedural safeguards designed to protect personal information. In addition, our Suzuki affiliates, Suzuki dealers, Suzuki merchandise licensees, and other sources such as those that provide lists of potential vehicle purchasers or current owners may provide the information they have regarding you or your vehicle to us so that we may serve your needs better.
+
+Uses
+
+We may use information about you or your vehicle to respond to your request for product brochures, to customize and improve communication content, or for marketing or product research. We may also use this to provide you with helpful offers and information on Suzuki products and services.
+
+We may share information about you and your vehicle within Suzuki, with our dealers, affiliates, contractors, and with data aggregators. Suzuki may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure) and with our business partners to conduct joint marketing programs with Suzuki.
+
+Questions and Comments
+
+Please feel free to send your privacy-related comments or questions to [privacy@suz.com](mailto:privacy@suz.com) or write: American Suzuki Motor Corporation, Privacy Office, 3251 E. Imperial Highway, Brea, CA 92821-6722. You may also call Customer Relations at 714-572-1490 (Motorcycle/ATV and Marine) or 800-934-0934 (Automotive).
 
 Back To Top
 
