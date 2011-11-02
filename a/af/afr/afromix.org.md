@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afromix.org privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221105055id_/http%3A//www.afromix.org/html/apropos/privacy_statement.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afromix.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102021835id_/http%3A//www.afromix.org/html/apropos/privacy_statement.en.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
