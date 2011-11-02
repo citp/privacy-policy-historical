@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2010-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100401065856id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shareme.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012920id_/http%3A//shareme.com/privacypage.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Shareme.com respects your right to privacy - Windows Shareware, Freeware, MP3, Games, DVD, Audio, Video Software
 
@@ -6,116 +6,120 @@
 ---|---  
 | 
 
-  * [Business & Productivity Tools](https://web.archive.org/category/Business---Productivity-Tools1.html)
-  * [Communications](https://web.archive.org/category/Communications1.html)
-  * [Desktop Enhancements](https://web.archive.org/category/Desktop-Enhancements1.html)
-  * [Drivers](https://web.archive.org/category/Drivers1.html)
-  * [Educational](https://web.archive.org/category/Educational1.html)
-  * [Games](https://web.archive.org/category/Games1.html)
-  * [Home & Personal](https://web.archive.org/category/Home---Personal1.html)
-  * [Internet](https://web.archive.org/category/Internet1.html)
-  * [Multimedia & Design](https://web.archive.org/category/Multimedia---Design1.html)
-  * [Network Tools](https://web.archive.org/category/Network-Tools1.html)
-  * [Programming](https://web.archive.org/category/Programming1.html)
-  * [Security](https://web.archive.org/category/Security1.html)
-  * [Utilities](https://web.archive.org/category/Utilities1.html)
-  * [Web Authoring](https://web.archive.org/category/Web-Authoring1.html)
+  * [Business & Productivity Tools](https://web.archive.org/category/freeware/Business---Productivity-Tools.html)
+  * [Communications](https://web.archive.org/category/freeware/Communications.html)
+  * [Desktop Enhancements](https://web.archive.org/category/freeware/Desktop-Enhancements.html)
+  * [Drivers](https://web.archive.org/category/freeware/Drivers.html)
+  * [Educational](https://web.archive.org/category/freeware/Educational.html)
+  * [Games](https://web.archive.org/category/freeware/Games.html)
+  * [Home & Personal](https://web.archive.org/category/freeware/Home---Personal.html)
+  * [Internet](https://web.archive.org/category/freeware/Internet.html)
+  * [Multimedia & Design](https://web.archive.org/category/freeware/Multimedia---Design.html)
+  * [Network Tools](https://web.archive.org/category/freeware/Network-Tools.html)
+  * [Programming](https://web.archive.org/category/freeware/Programming.html)
+  * [Security](https://web.archive.org/category/freeware/Security.html)
+  * [Utilities](https://web.archive.org/category/freeware/Utilities.html)
+  * [Web Authoring](https://web.archive.org/category/freeware/Web-Authoring.html)
 
 
 
 ####  Top Downloads
 
-  * [HDDlife 2.8.99](https://web.archive.org/details/hddlife.html)
+  * [Classic Icons ](https://web.archive.org/details/classic-icons.html)
 
-Worried about a hard drive failure? Get HDDLife...
+140 high quality icons for toolbar, web sites...
 
-  * [AllMedia Grabber 2.2](https://web.archive.org/details/allmedia-grabber.html)
+  * [YouTube Mobile Downloader ](https://web.archive.org/details/youtube-mobile-downloader.html)
 
-Extract Thousands Pictures, Videos, Music,...
+Download and watch YouTube movies with your...
 
-  * [Internet Download Manager 5.17.5](https://web.archive.org/details/internet-download-manager.html)
+  * [PaperPort Professional ](https://web.archive.org/details/paperport-professional.html)
 
-Accelerate downloads by up to 5 times with this...
+PaperPort Professional 11 is the best PaperPort...
 
-  * [Quick Slideshow 2.01](https://web.archive.org/details/quick-slideshow.html)
+  * [Word Reader ](https://web.archive.org/details/word-reader.html)
 
-Create brilliant multimedia presentations from...
+Word Reader is an easy-to-use Free Word...
 
-  * [AV Music Morpher Gold 2.0.105](https://web.archive.org/details/av-music-morpher-gold.html)
+  * [Free Flash Player ](https://web.archive.org/details/free-flash-player.html)
 
-AV Music Morpher Gold is an advanced music...
+Free Flash Player is a program to play Adobe...
 
-  * [Photo to Cartoon 2.0](https://web.archive.org/details/photo-to-cartoon.html)
+  * [Driver Easy Freeware Driver Updates ](https://web.archive.org/details/driver-easy-freeware-driver-updates.html)
 
-Converts photographs into cartoons and...
+Driver Easy Freeware Driver Updates is a...
 
-  * [Word Viewer 5.4](https://web.archive.org/details/word-viewer.html)
+  * [WinMend File Copy ](https://web.archive.org/details/winmend-file-copy.html)
 
-Word Viewer is an easy-to-use Free Word...
+WinMend File Copy is a free and excellent batch...
 
-  * [SpeedItUp Extreme - Free Speed Booster 3.75b](https://web.archive.org/details/speeditup-extreme---free-speed-booster.html)
+  * [Sound Driver Update ](https://web.archive.org/details/sound-driver-update.html)
 
-Speed It Up Extreme is an all in one Speed...
+Sound Driver Update manages your PC to get 100%...
 
-  * [Speed Test 1.0.6](https://web.archive.org/details/speed-test.html)
+  * [Canon Driver Download ](https://web.archive.org/details/canon-driver-download.html)
 
-FREE speed test. The only software that does an...
+Download Canon drivers immediately to resolve...
 
-  * [Free IP Scanner 1.0](https://web.archive.org/details/free-ip-scanner.html)
+  * [Driver Updates For Windows 7 ](https://web.archive.org/details/driver-updates-for-windows-7.html)
 
-Free IP scanner is a very fast IP scanner and...
+Driver Updates For Windows 7 is a professional...
 
 
 
 
 ####  New Downloads
 
-  * [Aiseesoft DVD to AMV Converter for Mac 3.2.08](https://web.archive.org/details/aiseesoft-dvd-to-amv-converter-for-mac.html)
+  * [SEO PowerSuite Tools 21](https://web.archive.org/details/seo-powersuite-tools.html)
 
-Aiseesoft DVD to AMV Converter for Mac is the...
+SEO PowerSuite is the full collection of SEO...
 
-  * [Repair Word 3.0](https://web.archive.org/details/repair-word.html)
+  * [SharePoint AD Management Pack 1.0.802.1](https://web.archive.org/details/sharepoint-ad-management-pack.html)
 
-SysTools Word Recovery Tool performs complete...
+A suite of 4 powerful SharePoint AD...
 
-  * [Video to Gif Converter 1.025](https://web.archive.org/details/video-to-gif-converter.html)
+  * [Photo Recover-Center 2.3](https://web.archive.org/details/photo-recover-center.html)
 
-Video to Gif Converter is a easy to use video...
+Recover deleted or lost photos from any digital...
 
-  * [Total Video Converter For Mac 2.1.8](https://web.archive.org/details/total-video-converter-for-mac.html)
+  * [Aba Search and Replace 2.0](https://web.archive.org/details/aba-search-and-replace.html)
 
-Convert all video files to AVCHD, psp, iPod,...
+Aba is a tool for replacing text in multiple...
 
-  * [Unite PBX 2.0](https://web.archive.org/details/unite-pbx.html)
+  * [Data Recovery Software for Windows 7 3.0](https://web.archive.org/details/data-recovery-software-for-windows-7.html)
 
-Unite Call Center and Unite PBX products for...
+Download Free - Recover Data for Windows 7 to...
 
-  * [Dmailer Backup 3.0](https://web.archive.org/details/dmailer-backup.html)
+  * [Leawo Mac DVD to PSP Converter v2.1.0](https://web.archive.org/details/leawo-mac-dvd-to-psp-converter.html)
 
-Dmailer Backup is the easiest way to backup...
+Leawo Mac DVD to PSP Converter is a powerful...
 
-  * [SnowFox DVD to iPad Converter 1.8.0.1](https://web.archive.org/details/snowfox-dvd-to-ipad-converter.html)
+  * [submitpad Diamond Suite 2011](https://web.archive.org/details/submitpad-diamond-suite.html)
 
-SnowFox DVD to iPad Converter is a professional...
+Submit your software to 1000+ downloadsite,...
 
-  * [Email2Task 1.00.0007](https://web.archive.org/details/email2task.html)
+  * [Windows Mail to Mac Mail 3.0](https://web.archive.org/details/windows-mail-to-mac-mail.html)
 
-Create task from email message. Convert email...
+Windows Mail to Mac Mail by PCVARE Solutions is...
 
-  * [DexterWire 4.2.0](https://web.archive.org/details/dexterwire.html)
+  * [Oposoft All To FLV Converter 8.1](https://web.archive.org/details/oposoft-all-to-flv-converter.html)
 
-DexterWire is a fork of the very popular...
+All To FLV Converter is professional Flash...
 
-  * [Outlook to vCard 4.0](https://web.archive.org/details/outlook-to-vcard.html)
+  * [Aspose.Pdf for SharePoint 1.0.0.0](https://web.archive.org/details/aspose-pdf-for-sharepoint.html)
 
-Using Outlook to vCard converter software you...
+Aspose.Pdf for SharePoint is a flexible...
 
 
 
 
 ####  Popular Searches
 
-[Phonerotica Com](https://web.archive.org/programs/phonerotica/com), [Foto Julia Peres Bugil](https://web.archive.org/programs/foto/julia-peres-bugil), [Gambar Artis Indonesia Bugil](https://web.archive.org/programs/gambar/artis-indonesia-bugil), [Serial Number Internet Download Manager](https://web.archive.org/programs/serial/number-internet-download-manager), [Foto Bugil Dewi Persik](https://web.archive.org/programs/foto/bugil-dewi-persik), [Phonerotica Indonesia](https://web.archive.org/programs/phonerotica/indonesia), [Age Of Empires 2 Full Version Download Free Games](https://web.archive.org/programs/age/of-empires-2-full-version-download-free-games), [Autocad 2007 Free Download](https://web.archive.org/programs/autocad/2007-free-download), [Naruto Games For Pc](https://web.archive.org/programs/naruto/games-for-pc), [Fraps Full Download Full Version](https://web.archive.org/programs/fraps/full-download-full-version), [Megaupload Premium Account Generator](https://web.archive.org/programs/megaupload/premium-account-generator), [Anti Proxy](https://web.archive.org/programs/anti/proxy), [Sorority Life Cheats Codes](https://web.archive.org/programs/sorority/life-cheats-codes), [Watch Free Hindi Movies Online](https://web.archive.org/programs/watch/free-hindi-movies-online), [Wpe Pro](https://web.archive.org/programs/wpe/pro)
+[Phonerotica Com](https://web.archive.org/programs/phonerotica/com), [Foto Julia Peres Bugil](https://web.archive.org/programs/foto/julia-peres-bugil), [Foto Bugil Dewi Persik](https://web.archive.org/programs/foto/bugil-dewi-persik), [Phonerotica Indonesia](https://web.archive.org/programs/phonerotica/indonesia), [Serial Number Internet Download Manager](https://web.archive.org/programs/serial/number-internet-download-manager), [Gambar Artis Indonesia Bugil](https://web.archive.org/programs/gambar/artis-indonesia-bugil), [Autocad 2007 Free Download](https://web.archive.org/programs/autocad/2007-free-download), [Age Of Empires 2 Full Version Download Free Games](https://web.archive.org/programs/age/of-empires-2-full-version-download-free-games), [Naruto Games For Pc](https://web.archive.org/programs/naruto/games-for-pc), [Cheats Point Blank Gamscool](https://web.archive.org/programs/cheats/point-blank-gamscool), [Fraps Full Download Full Version](https://web.archive.org/programs/fraps/full-download-full-version), [Speedbit Video Accelerator Activation Code](https://web.archive.org/programs/speedbit/video-accelerator-activation-code), [Megaupload Premium Account Generator](https://web.archive.org/programs/megaupload/premium-account-generator), [Anti Proxy](https://web.archive.org/programs/anti/proxy), [Sorority Life Cheats Codes](https://web.archive.org/programs/sorority/life-cheats-codes)
+
+####  Recent Searches
+
+[Boliwood Celeb Sek Tapes](https://web.archive.org/programs/boliwood/celeb-sek-tapes), [Brother Mfc 495cw Ocr Software](https://web.archive.org/programs/brother/mfc-495cw-ocr-software), [Bounce And Bounce Evolution Game Samsung Jet 8003](https://web.archive.org/programs/bounce/and-bounce-evolution-game-samsung-jet-8003), [Bluetooth File Transfer Wizard](https://web.archive.org/programs/bluetooth/file-transfer-wizard), [Bluetooth Driver Acer Aspire 4732z Windows Xp Sp2](https://web.archive.org/programs/bluetooth/driver-acer-aspire-4732z-windows-xp-sp2), [Blackberry 8130 Unlock](https://web.archive.org/programs/blackberry/8130-unlock), [Arthur And The Minimoys Pc Game Down Load](https://web.archive.org/programs/arthur/and-the-minimoys-pc-game-down-load), [Asx Codec](https://web.archive.org/programs/asx/codec), [Cara Koneksi Canon Ir5570 Ke Komputer](https://web.archive.org/programs/cara/koneksi-canon-ir5570-ke-komputer), [Artis Ngentot](https://web.archive.org/programs/artis/ngentot), [Ball State Athletics Muncie](https://web.archive.org/programs/ball/state-athletics-muncie), [Basc 2 Assist Software Download Update](https://web.archive.org/programs/basc/2-assist-software-download-update), [Avira 2011 Freeware](https://web.archive.org/programs/avira/2011-freeware), [Autocad Skill Test](https://web.archive.org/programs/autocad/skill-test), [Beyluxe Messenger Emoticon](https://web.archive.org/programs/beyluxe/messenger-emoticon)
 
   
 | 
