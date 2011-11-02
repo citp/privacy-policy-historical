@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ikeafans.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125005420id_/http%3A//ikeafans.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikeafans.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010230id_/http%3A//www.ikeafans.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
 
 
-[](http://ikeafans.com/forums/register.php)
+[](http://www.ikeafans.com/forums/register.php)
 
   
-
+_Updated April 11, 2011_
 
 ### THE ESSENCE
 
@@ -64,7 +64,13 @@ Overall, cookies help us provide you with a better website by enabling us to mon
 
 ### LINKS TO OTHER WEBSITES
 
-Our site may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+Our site may contain links to enable you to visit other websites of interest easily. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide while visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.   
+
+
+### MONETIZING LINKS
+
+Our site may contain links that have been monetized by placing affiliate code within links posted on the website. At times, links posted by members may be converted to affiliate links by software. IKEAFANS does not collect any personally identifiable information about what links are clicked on by members. Learn more about our [links monetized by VigLink.](http://www.viglink.com/policies/ftc?vgtag=badge)   
+
 
 ### CONTROLLING YOUR PERSONAL INFORMATION
 
