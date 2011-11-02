@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2011-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110608065950id_/http%3A//www.data.gov/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the data.gov privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011420id_/http%3A//www.data.gov/privacypolicy) for the most accurate reproduction.*
 
-# Data.gov - Privacy Policy
+# Privacy Policy - Data.gov
 
 Data.gov is committed to protecting the privacy and security of visitors to this website. Data.gov does not collect personal information when you visit our website unless you choose to provide that information. Outlined below is the Data.gov online privacy policy. If you have questions about this policy, [please let us know](https://web.archive.org/contact). 
 
@@ -24,7 +24,7 @@ Users can choose to disable cookies using their web browsers. It will not affect
 
 Users are NOT required to provide any information to search, retrieve, download, filter and otherwise use the data available on Data.gov. There are some optional uses of Data.gov that require a user account. They include participation in some Data.gov Communities, commenting on blog posts or datasets, suggesting datasets, and saving specific views created by the user on the Data.gov platform. If you choose to use these options, you need to create a user account by providing an email address and user name. Email addresses are not made public and are used for authentication only. If you choose to provide us with personal information—like filling out a [Contact us](https://web.archive.org/contact) form with an email address and submitting it to us through the website—we use that information to respond to your message, and to help get you the information you requested. Your email address will not be stored or retrieved by Data.gov. We only share the information you give us with another government agency if your question relates to that agency, or as otherwise required by law. Data.gov never collects information or creates individual profiles for commercial marketing. 
 
-While you must provide an email address and user name for the optional uses of Data.gov, you should NOT include any other personal information, especially [Social Security numbers](http://www.ssa.gov/pubs/10002.html#protect). 
+While you must provide an email address and user name for the optional uses of Data.gov, you should NOT include any other personal information, especially Social Security numbers. 
 
 Data.gov is NOT a Privacy Act System of Record. Submission of any information is voluntary, and the collection of email addresses is being done purely for the purpose of authentication. 
 
@@ -50,11 +50,11 @@ A variety of physical, electronic and procedural safeguards are maintained to pr
 
 ##  External Links 
 
-Data.gov may contain links to websites created and maintained by other public and/or private organizations. Data.gov provides these links as a service to our users. When users link to an outside website, they are leaving the Data.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Data.gov linking policy is the same as the [USA.gov Linking Policy](http://www.usa.gov/About/Linking_Policy.shtml). 
+Data.gov may contain links to websites created and maintained by other public and/or private organizations. Data.gov provides these links as a service to our users. When users link to an outside website, they are leaving the Data.gov site and are subject to the privacy and security policies of the owners/sponsors of the outside website(s). You are encouraged to familiarize yourself with these policies. The Data.gov linking policy is the same as the USA.gov Linking Policy. 
 
 ##  Children’s Privacy 
 
-Data.gov complies with the [Children’s Online Privacy Protection Act of 1998](http://www.ftc.gov/ogc/coppa1.htm) (COPPA) that helps to protect the safety and privacy of children online. COPPA and its accompanying FTC regulation constitute United States Federal law that protects the privacy of children using the Internet. Personal information from children under 13 is not knowingly collected, nor are children under 13 knowingly contacted by Data.gov. Data.gov does not intend to solicit information of any kind from children under 13. It is possible that Data.gov may receive emails pertaining to children under 13. If Data.gov is notified of this, as soon as the information is verified, parental consent will be immediately obtained or the email will be deleted from the email box servicing Data.gov. 
+Data.gov complies with the Children’s Online Privacy Protection Act of 1998 (COPPA) that helps to protect the safety and privacy of children online. COPPA and its accompanying FTC regulation constitute United States Federal law that protects the privacy of children using the Internet. Personal information from children under 13 is not knowingly collected, nor are children under 13 knowingly contacted by Data.gov. Data.gov does not intend to solicit information of any kind from children under 13. It is possible that Data.gov may receive emails pertaining to children under 13. If Data.gov is notified of this, as soon as the information is verified, parental consent will be immediately obtained or the email will be deleted from the email box servicing Data.gov. 
 
 ##  Prohibitions 
 
@@ -76,6 +76,6 @@ The information posted on the Data.gov website includes hypertext links or point
 
 The Data.gov privacy policy will be revised or updated if practices change, or if better ways to keep you informed are developed. You should refer to this page often for the latest information and the effective date of any changes. If changes are made to this policy, a new policy will be posted on our site and the date at the bottom of the page will be updated. Changes to the policy will not apply retroactively. 
 
-The [full Privacy Impact Assessment for Data.gov](http://www.gsa.gov/portal/content/102237) is available on GSA.gov. 
+The full Privacy Impact Assessment for Data.gov is available on GSA.gov. 
 
 If you have any questions or concerns, please [contact us](https://web.archive.org/contact). 
