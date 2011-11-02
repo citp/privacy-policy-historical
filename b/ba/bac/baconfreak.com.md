@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baconfreak.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526051827id_/http%3A//www.baconfreak.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baconfreak.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102071949id_/http%3A//www.baconfreak.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BaconFreak.com Privacy Policy
 
@@ -29,6 +29,7 @@ Your information is simply used to process your order, collect payment, and ship
   * **"Cookies" and How BaconFreak.com Uses Them:** A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. BaconFreak.com uses cookies to "remember" which items you've place in your shopping cart. You must have cookies enabled in your browser to store more than one item in your cart. These cookies do not enable third parties to access any of your customer information NOR do they collect your credit card data. 
   * **Submitting your order:** When you submit your order, your personal information is sent to us via the Yahoo!Merchant Solutions Store shopping cart, using SSL standard data encryption. 
   * **Secure Socket Layer (SSL):** Yahoo! Store uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time a Yahoo! Store asks for a credit card number during checkout for payment, it will be SSL encrypted. The information you provide will be stored securely on our servers. 
+  * **Third-Party Web Beacons:** We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html).
   * **CISP Compliance:** Yahoo! Merchant Solutions is certified CISP-compliant. Created by Visa and MasterCard, the Cardholder Information Security Program (CISP) outlines a standard for security procedures for merchants and service providers that store, process, or transmit cardholder data. 
 
   
@@ -36,7 +37,7 @@ Your information is simply used to process your order, collect payment, and ship
 
 **Contact Us**
 
-If you have any questions or requests for more information, visit our [Help](https://web.archive.org/web/20110526051827id_/http%3A//www.baconfreak.com/info.html) page for our current contact information.
+If you have any questions or requests for more information, visit our [Help](https://web.archive.org/web/20111102071949id_/http%3A//www.baconfreak.com/info.html) page for our current contact information.
 
   
 
