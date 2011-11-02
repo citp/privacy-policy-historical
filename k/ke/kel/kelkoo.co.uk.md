@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kelkoo.co.uk privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130164610id_/http%3A//www.kelkoo.co.uk/co_16734-privacy-policy-kelkoo-uk.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kelkoo.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012405id_/http%3A//www.kelkoo.co.uk/co_16734-privacy-policy-kelkoo-uk.html) for the most accurate reproduction.*
 
 # Privacy Policy | Kelkoo UK
 
