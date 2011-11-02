@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204140554id_/http%3A//www.11points.com/other/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 11points.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102062409id_/http%3A//www.11points.com/other/privacypolicy) for the most accurate reproduction.*
 
 # 11 Points - 11Points.com
 
