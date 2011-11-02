@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102115031id_/http%3A//www.peterpanbus.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterpanbus.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102201723id_/http%3A//www.peterpanbus.com/privacy-security) for the most accurate reproduction.*
 
-# Peter Pan Bus » Privacy & Security
-
-**Happy New Year! Thank you for choosing Peter Pan for your holiday travel. Peter Pan will be operating on a Holiday Schedule this weekend. Some schedules are subject to change.[  » Read Complete Advisory](http://www.peterpanbus.com/Travel%20Advisories/holiday-travel-advisory/)**
+# Privacy & Security | Peter Pan Bus
 
 ## What Information Do We Collect?
 
@@ -81,3 +79,5 @@ www.peterpanbus.com
 P.O. Box 1776 ,   
 Springfield, MA 01102-1776   
 [customerservice@peterpanbus.com](mailto:customerservice@peterpanbus.com)
+
+Customers requiring ADA assistance for specific schedules may call 800.343.9999 or [email us](mailto:customerservice@peterpanbus.com) to make a reservation 48 hours in advance of your scheduled travel date and time.
