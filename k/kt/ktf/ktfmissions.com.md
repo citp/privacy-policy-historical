@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ktfmissions.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504130714id_/http%3A//ktfmissions.com/forum/showthread.php%3Ft%3D14719) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktfmissions.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150825id_/http%3A//ktfmissions.com/forum/showthread.php%3Ft%3D14719) for the most accurate reproduction.*
 
 # KTFM Privacy Policy - Keep The Faith Missions
 
