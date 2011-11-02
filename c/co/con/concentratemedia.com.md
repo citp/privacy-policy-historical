@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the concentratemedia.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513192819id_/http%3A//www.concentratemedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concentratemedia.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145533id_/http%3A//concentratemedia.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
+
+### Privacy Policy
 
 Issue Media Group, LLC, will use the information provided by you in the course of our dealing with you to process your requests and in order to provide a more personalised web-surfing experience. 
 
@@ -12,3 +14,5 @@ This privacy policy may be changed by Issue Media Group, LLC, at any time. The r
 
 © Issue Media Group, LLC 2007.   
 All rights reserved. 
+
+Give us your email and we will give you our weekly online magazine. Fair?
