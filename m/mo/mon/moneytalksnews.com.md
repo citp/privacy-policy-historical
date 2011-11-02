@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503075201id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneytalksnews.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102015255id_/http%3A//www.moneytalksnews.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Money Talks News
-
-## Privacy Policy
 
 Money Talks News, a Florida corporation (“MTN”), owns and operates this website and portions of other web pages and web content through which you have accessed this privacy policy (collectively, this “Site”). By visiting, using and/or submitting information to this site, you are accepting the practices described in this privacy policy.
 
