@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ineedtowank.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127085141id_/http%3A//www.in2wtube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ineedtowank.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145100id_/http%3A//www.in2wtube.com/privacy.php) for the most accurate reproduction.*
 
 # DMCA information at In2w tube
 
