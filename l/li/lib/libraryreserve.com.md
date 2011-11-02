@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604151703id_/http%3A//overdrive.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryreserve.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102143325id_/http%3A//overdrive.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # OverDrive – Privacy Policy
 
@@ -46,7 +46,7 @@ Please note that any information you post to a public bulletin board or chat roo
 
 ## Safe Harbor
 
-OverDrive’s privacy practices conform to the Safe Harbor Privacy Principles found here: <http://www.export.gov/safeharbor/eg_main_018247.asp>. Questions, complaints, or requests for more information about the Safe Harbor Principles can be emailed to [support@overdrive.com](mailto:support@overdrive.com).
+OverDrive’s privacy practices conform to the Safe Harbor Privacy Principles found here: <http://export.gov/safeharbor/eu/eg_main_018475.asp>. Questions, complaints, or requests for more information about the Safe Harbor Principles can be emailed to [support@overdrive.com](mailto:support@overdrive.com).
 
 ## Order Information
 
