@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220083346id_/http%3A//polk.edu/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polk.edu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102140333id_/http%3A//polk.edu/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ---  
 | 
 
-> **Privacy Policy Page**
-> 
 > Thank you for visiting Polk State College. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit Polk State College's website, unless you affirmatively choose to make such information available to us.
 > 
 > When you visit the PSC website, the Web server automatically recognizes only the Internet domain and IP address from which you accessed the site. This information does not result in the identification of your personal e-mail address or other personal information.
