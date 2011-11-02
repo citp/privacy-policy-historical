@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2011-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110217034849id_/http%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatnow.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102023046id_/http%3A//www.eatnow.com.au/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eatnow.com.au
 
 ####  1\. Introduction: 
 
-EatNow Services Ltd. take the confidentiality of personal data seriously. By visiting and ordering on this website, you agree to the terms of this Privacy Policy and consent to the processing of your data as described in this Privacy Policy.
+Eat Now Services Pty Ltd take the confidentiality of personal data seriously. By visiting and ordering on this website, you agree to the terms of this Privacy Policy and consent to the processing of your data as described in this Privacy Policy.
 
 The following explains how we use and protect the information that you provide us with. 
 
 ####  2\. Privacy Act 2001 
 
-This privacy policy complies with the principles of the Privacy Act 2001. For a full link to the Privacy Act 2001, click here. 
+Eat Now Services Pty Ltd makes every effort to comply with the principles of the Australian Privacy Act (1988). For more information about the Privacy Act visit [www.privacy.gov.au](http://www.privacy.gov.au/).
 
 ####  3\. What information do we collect? 
 
@@ -26,7 +26,7 @@ Your information will enable us to provide you with access to the relevant parts
 
 Your personal information will be used to notify you of the status of your order and enable us to bill you and once again, to contact you where necessary. We will also use and analyse the information we collect so that we can administer, support, improve and develop our systems. We may also collect information from any written or verbal communications with us to improve our service.
 
-Personal information will not be shared with any of our business partners or affiliates or outside parties without your permission and will be treated as confidential. However we reserve the right to disclose personal information if required to do so by legal, governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable to protect the interests of EatNow Services Ltd. 
+Personal information will not be shared with any of our business partners or affiliates or outside parties without your permission and will be treated as confidential. However we reserve the right to disclose personal information if required to do so by legal, governmental or law enforcement authority, or in the good faith belief that disclosure is otherwise necessary or advisable to protect the interests of Eat Now Services Pty Ltd. 
 
 ####  5\. Security and data retention 
 
@@ -34,9 +34,17 @@ We hold personal data in accordance with data protection legislation and take st
 
 You have the right to see the information we hold about you but we may charge a nominal fee to the cover the costs of retrieving this information.
 
-####  6\. Payment detail encryption 
+####  6\. Payment details 
 
-Credit or debit card details are protected using SSL (Secure Socket Layer) encryption and only used to pay for the specific order. We do not store or save these details. However, due to the inherent open nature of the internet we cannot guarantee that all data transmitted will be secure. Use of this website demonstrates your assumption of this risk.
+**Consumers:**
+
+Your credit or debit cards are not processed by Eat Now; therefore the details are not transmitted electronically via our website. Any payment via credit or debit card is done so by you, directly with the restaurant in accordance with their terms and conditions. Any concerns arising about payment should be discussed directly with the restaurant from which you are ordering from.
+
+**Restaurants:**
+
+Eat Now uses an SSL (Secure Socket Layer) Certificate for the purpose of encrypting your credit card details for transmission from our servers to our Internet Payment Gateway (eWay). No Internet communication is 100% guaranteed secure, but to the best of our ability, we take steps to keep your information secure using industry standards and best practices in the handling of sensitive information.
+
+The Payment Gateway temporarily stores your credit card details while it communicates with the bank for the purpose of completing the transaction. Your credit card details are then purged and not stored long term.
 
 ####  7\. Accessing and Updating 
 
@@ -64,4 +72,4 @@ This policy may be revised and updated periodically at our discretion. Any chang
 
 ####  12\. Contacting Us 
 
-If you have any questions about or privacy policy or would like more information please use the Contact Us section of our website. 
+If you have any questions about our privacy policy or would like more information please use the [Contact Us](https://web.archive.org/info/contact.html) page of our website.
