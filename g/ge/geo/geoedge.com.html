@@ -1,62 +1,87 @@
-<!--The following is the downloaded HTML source of the geoedge.com privacy policy that was archived on 2011-05-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110520202621id_/http%3A//www.geoedge.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the geoedge.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102012542id_/http%3A//www.geoedge.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>GeoEdge | Privacy policy</title>
-    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
-    <style type="text/css">
-    <!--
-	@import url("/css/master.css");
-    -->
-    </style>    
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/common.js"></script>
-    <script type="text/javascript" src="/js/jquery.js"></script>
-
-    <script type="text/javascript">
-		    </script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta name="keywords" content="GeoEdge, web proxy, internet proxy, proxy website, online proxy, global proxy, world proxy">
 	<meta name="description" content="GeoEdge provides proxy service in more than 100 countries and locations world wide">
-</head>
+	<title>GeoEdge | Privacy policy</title>
+	<link href="/cssv2/style.css" rel="stylesheet" type="text/css">
+	<link rel="shortcut icon" href="/imgv2/favicon.ico" type="image/x-icon">
+	<!--[if IE 9]>
+	<link rel="stylesheet" href="/cssv2/ie9.css" type="text/css"/>
+	<![endif]-->
+	<!--[if IE 8]>
+	<link rel="stylesheet" href="/cssv2/ie8.css" type="text/css"/>
+	<![endif]-->
+	<!--[if IE 7]>
+	<link rel="stylesheet" href="/cssv2/ie7.css" type="text/css"/>
+	<![endif]-->
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/js/jquery.js"></script>
+	<script type="text/javascript">
+		// Login box:
+		$(document).ready(function(){
+			$("#login-link").click(function(){
+				$("#login-panel").slideToggle(200);
+				$('#loginusername').focus();
+				return false;
+			});
+			$("#close-login-link a").click(function(){
+				$("#login-panel").slideToggle(200);
+				return false;
+			});
+		});
+	</script>
+	</head>
 <body>
 
-<div id="wrap">
-	<div id="wrapped">
-        <div id="top">
-                    
-            <div id="login">
-                                    <div id="fields">
-                        <form method="post" action="/login">
-                        	Login <input name="username" type="text" value="Username" onfocus="if(this.value == 'Username') this.value=''" onblur="if(this.value == '') this.value='Username'">
-                        	<input name="password" type="password" value="Password" onfocus="if(this.value == 'Password') this.value=''" onblur="if(this.value == '') this.value='Password'">
-                            <input type="submit" class="submit" name="login" value="Go">
-                            <div id="reminders">
-                            	<div class="forgot"><label><input name="remember_me" type="checkbox" value="1" class="checkbox" checked=""> Remember me</label></div>
-                                <div class="bullet"><img src="/images/div.gif" alt="divider"></div>
-                                <div class="remember"><a href="/forgot">Forgot Your Password?</a></div>
-                            </div>
-                        </form>  
-                    </div>
-                            </div>
-        	<div class="topMain"><a href="/" class="logo">Geo Edge</a></div>
-        </div>
-        <div style="clear: both"></div>
-    	<div class="topMenu">
-              <ul id="nav" style="margin: 0 100px 0 0">
-                    <li><a href="/">Home</a></li>
-                                            <li><a href="/demo">Demo</a></li>
-	                	<li><a href="/analytics">Analytics</a></li>
-                                        <li><a href="/contactus">Contact Us</a></li>
-                                            <li><a href="/register">Sign Up</a></li>             
-                                 </ul>      
-        </div>    
-
-<div id="insideHeader">
-    <h1>Privacy Policy</h1>
-</div>
-
-<div id="insideBox">
-    <div id="insideCont">
+<div id="container">
+	<!-- login panel -->
+	<div id="login-panel">
+		<div class="login-box">
+			<form method="post" action="/login">
+			<div class="login-fields">
+				<label for="username">Username:</label><input id="loginusername" name="username" type="text" value="">
+				<label for="password">Password:</label><input class="last" name="password" type="password" value="">
+				<div class="login-button">
+					<input type="submit" class="login-submit" name="submit" value="">
+				</div>
+				<div class="clear"></div>
+			</div>
+			</form>
+			<div class="login-links">
+				<div class="forgot-password"><a href="/forgot">Forgot your password?</a></div>
+				<div class="no-account">Don't have an account? <a href="/plansandpricing">Sign Up Now</a></div>
+			</div>
+		</div>
+		<div id="close-login-link"><a href="#"><img src="/imgv2/close_login_box.gif" alt="Close" width="26" height="23"></a></div>
+	</div>
+	
+	<!-- header -->
+	<div class="header">
+		<div class="logo"><a href="/"><img src="/imgv2/logo.png" alt="GeoEdge - Global Visibility Solutions"></a></div>
+		<div class="hright">
+            				<div class="hrtop">
+					<p class="signup1"><a href="/plansandpricing"><img src="/imgv2/signupnew1.png"></a></p>
+					<p class="login1"><a id="login-link" href="#" title="Login"><!--Login-->&nbsp;</a></p>
+				</div>
+						<br clear="all">
+			<div class="nav1">
+				<ul>
+					<li><a href="/products">Products</a></li>   
+					<li><a href="/plansandpricing">Plans &amp; Pricing</a></li>  
+					<li><a href="/demo">Demo</a></li>
+					<li><a href="/geoedgeanalytics">GeoEdge Analytics</a></li>   
+					<li><a href="/about">About</a></li>
+					<li style="padding-right: 0"><a href="/contactus">Contact Us</a></li>   
+				</ul>
+			</div>
+		</div>
+	</div>
+	<!-- header -->
+<div class="middle1">
+	<div class="mtop">Privacy Policy</div>
+	<div class="textcontent">
+		<p> </p>
         <p><b>WHAT THIS PRIVACY POLICY COVERS</b></p>
         
         <p>GeoEdge takes your privacy seriously. Please read the following to learn more about our privacy policy. By using the Site, you signify your assent to our privacy policy. If you do not agree with any of the terms of this policy, please do not use our Site or services.</p>
@@ -120,22 +145,30 @@
         <p>Privacy Policy last updated September 15, 2009.</p>
         
                 
-    </div>
-</div>
-<div id="closeInside"></div>
-
-             <div id="footer">
-         	<div id="copyright">GeoEdge © 2009-2011. All Rights Reserved.</div>
-            <div id="terms"><a href="/about">About Us</a> | <a href="/privacy">Privacy Policy</a> | <a href="/terms">Terms of Service</a></div>
-         </div>
-         
-    </div>
+	</div>
 </div>
 
-    <script type="text/javascript">
-      var _gaq = _gaq || [];
-      _gaq.push(['_setAccount', 'UA-10456586-1']);
-      _gaq.push(['_trackPageview']);
+    	<!-- footer -->
+	<div class="footer">
+		<p class="flogo"><a href="#"><img src="/imgv2/flogo.png" alt=""></a></p>
+		<p class="copy">© Copyright 2011. GeoEdge Ltd. All rights reserved.</p>
+
+		<div class="fnav">
+			<ul>
+				<li><a href="/privacy">Privacy Policy</a></li>
+				<li><a href="/terms">Terms of Service</a></li>
+				<li><a href="/contactus">Contact Us</a></li>
+			</ul>
+
+		</div>
+	</div>
+	<!-- footer -->
+</div>  
+
+	<script type="text/javascript">
+	var _gaq = _gaq || [];
+      	_gaq.push(['_setAccount', 'UA-22329388-1']);
+	_gaq.push(['_trackPageview']);
     
       (function() {
         var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
@@ -143,6 +176,7 @@
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();    
     </script>
+
 
 
 </body></html>
