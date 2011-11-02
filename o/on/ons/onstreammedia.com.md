@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219080419id_/http%3A//onstreammedia.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onstreammedia.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102204901id_/http%3A//onstreammedia.com/privacy.php) for the most accurate reproduction.*
 
 # Onstream Media :: Privacy Policy
 
