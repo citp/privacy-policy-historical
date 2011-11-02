@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlsguidetoparis.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109214538id_/http%3A//girlsguidetoparis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsguidetoparis.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102142748id_/http%3A//girlsguidetoparis.com/privacy) for the most accurate reproduction.*
 
-# Paris restaurants, hotels, spas, fashion, art & culture – Girls' Guide to Paris
+# Inspire Partners, LLC Web Site Privacy Statement | Girls' Guide to Paris
 
 This document was last updated on September 21, 2009.
 
