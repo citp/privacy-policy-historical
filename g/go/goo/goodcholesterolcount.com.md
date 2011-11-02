@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605073416id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodcholesterolcount.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102024518id_/http%3A//www.goodcholesterolcount.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Good Cholesterol Count
 
@@ -67,4 +67,5 @@ If you do not accept the terms of this Policy, we ask that you do not visit or r
 
 Please [Contact Us](http://www.goodcholesterolcount.com/about-us/contact/) if you have any further questions.
 
-Last modified: November 10, 2009
+[Content Created/Medically Reviewed by our Expert Doctors](http://www.goodcholesterolcount.com/advisory-board/)  
+
