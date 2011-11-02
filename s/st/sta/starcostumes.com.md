@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2010-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101224014018id_/http%3A//www.starcostumes.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starcostumes.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102194948id_/http%3A//www.starcostumes.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Star Costumes - Privacy Policy
 
