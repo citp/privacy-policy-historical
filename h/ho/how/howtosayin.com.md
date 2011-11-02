@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtosayin.com privacy policy that was archived on 2010-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100711084219id_/http%3A//www.howtosayin.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtosayin.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013030id_/http%3A//www.howtosayin.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for howtosayin.com!
 
