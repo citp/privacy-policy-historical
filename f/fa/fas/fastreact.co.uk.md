@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630153019id_/http%3A//www.fastreact.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastreact.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102161232id_/http%3A//www.fastreact.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FastReact
 
@@ -54,6 +54,6 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ## Latest News
 
-Wilton Bradley are specialists in leisure goods for the UK coastal trade, products include toys, inflatables, surf, and outdoor play. Wilton Bradley have implemented a planning and tracking solution from Fast React Systems Ltd, which provides them with complete visibility and control over their supply chain processes. [More...](http://www.fastreact.com/news-item/wilton-bradley-select-fastreact-for-improved-visibility-and-control/188)
+Esquel Group, one of the world’s largest producers of apparel for brands including Hugo Boss, Nike, Polo Ralph Lauren and Lacoste has signed a deal to use FastReact’s planning software as part of ambitious plans for the growth and increased productivity of its business. Work has already begun on rolling out the software which will centralise its capacity management and production planning capabilities across its manufacturing facilities in China, Malaysia, Mauritius, Sri Lanka and Vietnam. [More...](http://www.fastreact.com/news-item/global-apparel-manufacturer-esquel-group-adopts-uk-system-to-support-growth-plan/204)
 
 [](http://www.fastreact.com/includes/news_rss.xml) | What is RSS? 
