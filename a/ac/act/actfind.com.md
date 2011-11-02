@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the actfind.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209034207id_/http%3A//www.actfind.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actfind.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102055021id_/http%3A//www.actfind.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy-China Electronics Distributor
 
-**1.** [**About Your Privacy**](http://www.actfind.com/pages/Privacy-Policy.html)
+**1.** **About Your Privacy**
 
-**2.**[ **The Security of Your Information**](http://www.actfind.com/pages/Privacy-Policy.html)  
- **3.** [**Privacy and Data Security**](http://www.actfind.com/pages/Privacy-Policy.html)
+**2.** **The Security of Your Information**  
+ **3.** **Privacy and Data Security**
 
-**4.** [**ActFind.com only Asks for Specific Types of Personal Information**](http://www.actfind.com/pages/Privacy-Policy.html)  
-
-
-**5.** [**ActFind.com only Uses Your Personal Information for Specific Purposes**](http://www.actfind.com/pages/Privacy-Policy.html)  
+**4.** **ActFind.com only Asks for Specific Types of Personal Information**  
 
 
-**6.** [**ActFind.com Will Not Disclose Your Personal Information to Any Outside    Organization for Its Use in Marketing without Your Consent**](http://www.actfind.com/pages/Privacy-Policy.html)  
+**5.** **ActFind.com only Uses Your Personal Information for Specific Purposes**  
 
 
-**7.** [**Contact ActFind.com**](http://www.actfind.com/pages/Privacy-Policy.html)
+**6.** **ActFind.com Will Not Disclose Your Personal Information to Any Outside    Organization for Its Use in Marketing without Your Consent**  
+
+
+**7.** **Contact ActFind.com**
 
  **1\. About Your Privacy**
 
@@ -72,6 +72,6 @@ Information regarding you (such as name, address and phone number) or your order
 
 If you would like to contact us for any reason regarding our privacy practices, please use the following methods to contact: ActFind.com
 
-Email: sales@actfind.com
+Email: service@actfind.com
 
 [Back To Top]
