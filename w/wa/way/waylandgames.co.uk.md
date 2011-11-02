@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2010-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100331143022id_/http%3A//www.waylandgames.co.uk/privacy-policy/info_4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waylandgames.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012416id_/http%3A//www.waylandgames.co.uk/privacy-policy/info_4.html) for the most accurate reproduction.*
 
 # Privacy Policy - Wayland Games - Discount Wargames - Games Workshop - Privateer Press - Vallejo
 
@@ -103,4 +103,4 @@ If you have any questions about this privacy policy or our treatment of your per
 
 **(12)**     **Email Notifications**
 
-We may from time to time notify all users by email orf significant changes to our site which may mean that any data collected is moved or manipulated. An example would be a server move or ecommerce platform update where accounts might be migrated.
+We may from time to time notify all users by email of significant changes to our site which may mean that any data collected is moved or manipulated. An example would be a server move or ecommerce platform update where accounts might be migrated.
