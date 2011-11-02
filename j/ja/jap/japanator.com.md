@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japanator.com privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515120802id_/http%3A//www.japanator.com/elephant/post.phtml%3Fpk%3D10439) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japanator.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012704id_/http%3A//www.japanator.com/elephant/post.phtml%3Fpk%3D10439) for the most accurate reproduction.*
 
 # About Japanator | Japanator.com: anime news, original features, and weird stories from Japan, updated daily!
 
@@ -79,8 +79,17 @@ _**Jake Thomas**_
 
  **Contact:** Just yell "Hey, look over there! It's a giant lens!" and I should show up to wherever you are fairly soon.
 
- _ **Pedro Cortes**_  
- **Associate Editor/Community Manager**
+ _ **Tim Sheehy**_
+
+**Features and Reviews Editor**
+
+> Tim is one of those rare otaku who actually follows every aspect of the Japanese entertainment industry. If he's not writing, he's busy playing video games, reading manga and books, watching anime or dramas, listening to J-pop, or composing and arranging music of his own. 
+
+**Likes:** Shunya Yamashita, Macross, Sangokushi   
+ **Dislikes:** Gurren Lagann, L cosplay, One Piece
+
+_**Pedro Cortes**_  
+ **Associate Editor**
 
 > Considering his love for cute and moe girls, it is a surprise that the Pedrobear hasn't received a visit from a certain television personality. Currently studying Journalism at Florida International University, Pedro wants to be the next Hunter S Thompson, illicit substances, apes and all.  He is also quite fond of Guinness.
 
@@ -88,16 +97,7 @@ _**Jake Thomas**_
 
  **Dislikes:** Key shows, trolls, bad fanservice, losing in Street Figher 4...repeatedly
 
- _ **Tim Sheehy**_
-
-**Associate Editor**
-
-> Tim is one of those rare otaku who actually follows every aspect of the Japanese entertainment industry. If he's not writing, he's busy playing video games, reading manga and books, watching anime or dramas, listening to J-pop, or composing and arranging music of his own. 
-
-**Likes:** Shunya Yamashita, Macross, Sangokushi   
- **Dislikes:** Gurren Lagann, L cosplay, One Piece
-
-**_Josh Tolentino_  
+ ** _Josh Tolentino_  
 Associate Editor**
 
 > Josh writes for a living, and is glad beyond belief that writing for Japanator is part of that. He knows, though, that true _happiness_ can only come when one can direct a meaningful stare worthy of a Mamoru Oshii film _as well as_ display a self-satisfied smirk worthy of Konata Izumi.  
@@ -109,90 +109,63 @@ Associate Editor**
 **Contact:** [djoshuatolentino@gmail.com](mailto:djoshuatolentino@gmail.com)  
 Twitter.com/unangbangkay 
 
-_**Edward Baylon**_  
- **Associate Editor**
-
-> Edward Baylon has an unhealthy love for the anime/manga Honey and Clover. Edward tries his hardest to cover a lot of Texas anime cons, but just the drive to the con wears him out. A lover of Japanese television dramas and movies, Edward prefers his women to be in fictional 3D rather than the overrated fictional 2D, which makes him less sad compared to all the others out there.
-
-**Likes:** J-Drama, amzingly pretty anime, vidja games, tea, shing shang anchovies  
- **Dislikes:** Harem anime, overly perky people, poorly drawn fanart, stinky con goers, overrated Japanese foodstuff, generic and boring anime/manga, coffee, High Fructose Corn Syrup
-
-**Contact:** [ejpbaylon@gmail.com](mailto:ejpbaylon@gmail.com)  
-Twitter.com/redthehaze
-
- _ **Matthew Whitehead**_  
-**Associate Editor/Translator**
-
-> Japanator's resident expert on magical girls and all things cute and moe who sometimes finds time to write after answering stupid computer questions at work as technical support. Majored in Japanese but has never been to Japan (you're welcome to donate).
-
- **Likes:** Cardcaptor Sakura, Shugo Chara!, Idolmaster, Jun'ichi Satou  
-**Dislikes:** Gundam or any other robotish animes, shounen stuff that goes on much too long
-
- **Contact:** [mwhead2@gmail.com](mailto:mwhead2@gmail.com)
-
-_**Jeff Chuang**_  
- **Associate Editor**
+_**Jeff Chuang**_ **  
+Associate Editor**
 
 > Jeff is an anime fan, who spends much of his time trying to make money so he can buy more anime and related goods. Sometimes he writes about it. The rest of his time he giggles with the other random internet anime guys about the latest panty shots. Part-time kimo-ota. 
 
 **Likes:** Biz & Industry, Nadesico, memes, Masami Okui  
  **Dislikes:** US Copyright, boring anime 
 
-**_Topher Cantler  
-_ Associate Editor**
-
-> Topher is a writer, artist and podcaster, who got an early start on otakuism in the mid '80s, when an innocent childhood search for more "cartoons that look like Tatsunoko" started him down a path that would eventually lead to an import gaming habit and the discovery of Japanese rock music. When not at Japanator, he can be found writing and podcasting for Destructoid, making cartoons about dogs with mustaches, or lost in some vertical danmaku shmup while rocking out to old Judy and Mary albums.   
-> 
-
-**Likes:** Mecha musume, Go!Go!7188, kuudere, Japanese candy, fine tea, nonsense, Range Murata  
- **Dislikes:** Filler-heavy Shonen Jump franchises, ganguro, pop culture ****
-
- **Contact:** [topher@destructoid.com](mailto:topher@destructoid.com)  
-twitter.com/Topherocious 
-
-**_Karen Gellender_  
-Intern**
-
-> Karen is a writer, who likes to work on comics in her free time. This is all part of her master plan to never leave the house. Also, she is working on an obscene amount of projects due to her complete inability to make a decision.
-
- **Likes:** Gurren Laggen, Ghost in the Shell, Haruhi season ONE  
- **Dislikes:** People who don't understand sarcasm, and that chick with the braids in Code Geass
-
- **Contact:** Karen@Karengellender.com  
-Twitter.com/KarenGellender 
-
-**_Danica Davidson  
-_Intern**
-
-> Danica is a writer of different mediums who likes to shamelessly self-promote herself (ahem). Along with writing for about twenty-five different publications, she's written English adaptations of manga and, along with her agent, is looking to publish her YA novel. Sometimes she sleeps. 
-
-**Likes:** Japanese food, bishonen, reading books **  
-Dislikes:** Japanese food when she learns what's in it, bishojo (because they're competition), Kindle
-
-  Twitter.com/DanicaDavidson  
-[danicadavidson.livejournal.com](http://danicadavidson.livejournal.com/)
-
- ** _Ben Huber_  
-Intern**
+**__****_Ben Huber_** **  
+Associate Editor  
+**
 
 > Ben is a fledgling graphic designer, artist, and writer. Almost complete with his degree in Graphic Design, he plans to lead a life of dealing with stupid clients and then unwinding with video games, manga, and anime. He's particularly enthusiastic about the art of package design and character design, and looks forward to the (unlikely) epic return of traditionally animated films to American cinema, forever banishing non-Pixar CGI.
 
  **Likes:** Anything by Studio Ghibli, anime that breaks the moeblob mold, Japanese music, gadgets, Valve games, coffee  
  **Dislikes:** brown video games, moeblob, red beets, bad movies that everyone else love
 
- _ **Jon Snyder  
-**_ **Intern**
+ _ **Crystal White**_ **  
+Intern**
 
-> Jon is a college student currently majoring in Japanese. He's also a huge science fiction fan, and was watching Star Trek before he was out of diapers. Jon is not much of a gamer, although you might catch him on Starcraft from time to time. He sucks at it, though.  
+> Crystal is a traditional and digital illustrator, and when she's not busy keeping up her oh-so-very-required indie artist lifestyle at Syracuse University, or writing for Japanator, she's usually sucked into her PS3, traveling, or playing guitar. She's always on the lookout for the newest tech and gadgets, and at twenty-one years old, still has a disturbingly great appreciation of childish things. Yes, that means _Pokemon_.  
 > 
 
-**Likes:** Science Fiction, Fantasy, Weird and unusual stuff  
-**Dislikes:** Romance, Drama, Glenn Beck ****
+ **Likes:** gaming, character design, comics, anything Harry Potter related, Square-Enix  
+ **Dislikes:** bad video game box art, anything written by Dickens, staying in one place too long
 
- **Contact:** [darthxor@gmail.com](mailto:darthxor@gmail.com)  
-Twitter.com/JonDSnyder 
+Contact:[cwhiteillustrator@gmail.com](mailto:cwhiteillustrator@gmail.com) twitter.com/artistxforever  
+[](mailto:cwhiteillustrator@gmail.com) _ ****_
 
-_**Mini Privacy Policy:**_
+ _ **Mike LeChevallier**_  
+ **Intern**
+
+> Mike is a writer from all sides of the media landscape. Whether it be film, music, video games, books, magazines, fashion, toys or anything pop culture related, he's down to uncover its origins and lay down his personal spin on it. This also entails the obligatory Yay or Nay regarding whether or not he sees that particular issue of any importance--so be prepared for, as the kids say, "crazy opinions, yo". He's a pretty slight fellow, so here's to hoping the rest of the staff won't eat him alive. Unless they have a penchant for malnourished bones, he'll stick around for a while.  
+> 
+
+ **Likes:** Running really fast, Explosions, Aliens, Snow, Fire, Birds, Needlessly Large Weapons, Guitars, Guitars That Double as Weapons, Women, Women Alongside Any of the Aforementioned Items, Pokemon  
+**Dislikes:** The fact that I really like Pokemon, The fact that I like snow but hate cold weather, When women ask me for diet secrets ****
+
+ **Contacts:**[  
+twitter.com/skeletalknight](http://twitter.com/skeletalknight)[  
+skeletalknightz@gmail.com](mailto:skeletalknightz@gmail.com)  
+AIM: impurealbatross
+
+ _ **Marcello Milteer**_
+
+ **Intern**   
+
+
+> Marcello is a twenty-something graphic designer and writer who spends way too much time playing Xbox 360 and neglecting his loved ones. When not hard at work in the studio, he spends his spare time sitting in a corner tugging on his imaginary beard, thinking about the good 'ol days of war and mayhem. His 9 foot mecha also regularly goes out to get him his lunch. Nice mecha, nice...
+
+ **Likes:**  PS1 RPGs, good quality Blu-ray movies, sushi, his new Chevy Camaro
+
+ **Dislikes:**  Long walks on the beach, flaming hot cheetos, filler anime episodes
+
+Twitter.com/JapanCinema
+
+  _ **Mini Privacy Policy:**_
 
 In short, we do business based on Google's meme: "Don't be evil." 
 
