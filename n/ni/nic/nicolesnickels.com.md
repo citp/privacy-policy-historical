@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicolesnickels.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229054357id_/http%3A//www.nicolesnickels.com/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicolesnickels.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010654id_/http%3A//www.nicolesnickels.com/disclaimerdisclosureprivacy-policy) for the most accurate reproduction.*
 
 # Disclaimer/Disclosure/Privacy Policy
 
