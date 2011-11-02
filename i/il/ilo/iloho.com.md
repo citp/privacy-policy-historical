@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iloho.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706212752id_/http%3A//www.iloho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iloho.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102070332id_/http%3A//www.iloho.com/privacy) for the most accurate reproduction.*
 
-# iloho.com | Privacy Policy
+# Privacy Policy | iloho.com
 
 * iloho takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting the iloho website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -93,7 +93,7 @@ Cookies
 
 iloho cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or email address is.
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of iloho's most attractive features. 
+The 'help'; portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of iloho's most attractive features.
 
 Some of iloho’s business partners – e.g. advertisers – may set and access cookies on your computer. Other companies’ user of their cookies is subject to their own privacy policies, not this one. We have no access or control over third party cookies.
 
