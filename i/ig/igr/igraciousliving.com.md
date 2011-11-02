@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igraciousliving.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412140445id_/http%3A//www.igraciousliving.com/igraciousliving-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igraciousliving.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102063954id_/http%3A//www.igraciousliving.com/igraciousliving-privacy-policy) for the most accurate reproduction.*
 
-# Site Pages - iGraciousLiving-Privacy-Policy
+# iGraciousLiving-Privacy-Policy
 
 ## iGraciousLiving.com and Lugen Family Office Inc. – Policy Respecting Your Privacy and the Protection of Personal Information
 
@@ -305,3 +305,56 @@ Mailing Address:
 2065 W. Obispo Ave.   
 Suite 103   
 Gilbert, AZ 85233
+
+At www.iGraciousLiving.com there is a separate membership category referred to as the “Junior Member”. When a child registers on our website as a Junior Member, a notification letter is automatically sent out to the parent or guardian’s e-mail address that was provided by the child at the time of registration. Junior Membership applies to children ages 12 years and younger. At the time of registration, the child is instructed to ask for his or her parent/guardian’s permission before s/he submits his or her registration request. Junior Membership to www.iGraciousLiving.com is free and allows children 12 years of age and younger to view educational and inspirational materials, such as videos, games, and links to other child-centered websites. 
+
+In order to register as a ”Junior Member”, a child must provide us with the following information: 
+
+  * First Name  
+
+  * Last Name   
+
+  * Country (to determine legal jurisdiction)  
+
+  * Child’s e-mail Address  
+
+  * User Name (chosen by your child)  
+
+  * Password (chosen by your child)  
+
+  * Birth Year (to determine age group)  
+
+  * Parent /Guardian’s e-mail address (to send notification to parent/guardian) 
+
+
+
+As part of our ongoing desire to assist families in teaching their core values to their children, we encourage parents/guardians, together with their child, to review the Junior Members’ content on the www.iGraciousLiving.com website.
+
+Since we take our fiduciary responsibility of protecting children seriously, we do not sell any products or services to our Junior Members, nor do we contact them beyond their first (and only) e-mail where they are welcomed as a Junior Member and required to confirm their registration request. Children’s registration information is securely maintained within our database and will not be rented, sold, or disclosed to any other organization, nor will it be transmitted to third parties, unless required by law. We do not collect any other information from children, directly or indirectly. 
+
+Only those among our staff who need access to a child’s information in order to do their jobs, and our contractors assisting us in the programming and maintenance of the website, are allowed access. Anyone who fails to comply with our privacy and/or security policies is subject to disciplinary action, including possible termination and/or the institution of civil or criminal proceedings. 
+
+## Live Chat with iGraciousLiving.com Staff
+
+Upon a child’s initiation only, and upon his or her request to engage one of our staff in a live chat, will we be in contact with your child. Live chats will be limited to basic pleasantries and answering your child’s questions. Live chats with our members are made possible through BoldChat software. The child’s name, along with his or her chat transcripts, are saved indefinitely on BoldChat’s servers. BoldChat’s data center is located in San Antonio, Texas. No other information is collected during these engagements.
+
+## Revoking a Child’s Access
+
+If a parent/guardian wishes to unsubscribe their child from our website, they are instructed to complete the unsubscribe form accessible through a special link located within the parent/guardian’s notification letter. The child’s access to our website will be revoked immediately and his or her registration information, as listed above, will be permanently deleted from our database. When a parent/guardian fills out the unsubscribe form, it is vital that s/he uses the exact identification data that was used when his or her child registered. For the parent/guardian’s convenience, the information required to unsubscribe the child is provided within the parent/guardian’s notification letter. 
+
+## Links To Other Sites
+
+The iGraciousLiving.com website contains links to other sites that we do not control. These other sites may send their own cookies, collect data, or solicit personal information. We cannot accept responsibility for any failure on their part to comply with the terms of our [Privacy Policy](http://www.igraciousliving.com/igraciousliving-privacy-policy) or with any relevant legal requirements. Although we endeavor to select only those links that are child friendly, we cannot guarantee that all the materials on these other websites are suitable for children.
+
+Please note that the iGraciousLiving.com Children’s Privacy Policy applies to all children (12 years of age and younger) and is in addition to the [iGraciousLiving.com Privacy Policy](http://www.igraciousliving.com/igraciousliving-privacy-policy). 
+
+If you have any questions or comments about our Children’s Privacy Policy, please feel free to contact us at:
+
+iGraciousLiving.com   
+Operated by Lugen Family Office Inc.  
+c/o Chief Privacy Officer  
+Suite 880, 505 Burrard St., Box 43  
+Vancouver, BC V7X 1M4 Canada   
+Ph: 1 (866) 605-8885  
+Fx: (604) 913-3687  
+e-mail: [privacyofficer@igraciousliving.com](mailto:privacyofficer@igraciousliving.com)
