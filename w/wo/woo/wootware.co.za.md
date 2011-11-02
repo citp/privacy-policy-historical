@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wootware.co.za privacy policy that was archived on 2010-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101110201515id_/http%3A//www.wootware.co.za/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wootware.co.za privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102073233id_/http%3A//www.wootware.co.za/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Wootware
 
