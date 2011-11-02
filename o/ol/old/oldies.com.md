@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2011-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110128231449id_/http%3A//www.oldies.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldies.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010836id_/http%3A//www.oldies.com/about/privacy.cfm) for the most accurate reproduction.*
 
 # OLDIES.com : Privacy Statement
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.oldies.com)
 
 OLDIES.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site. 
 
@@ -26,7 +24,7 @@ Contact information from the registration forms is used to ship purchases, infor
 ###  Order Forms  
 
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address) and financial information (like a credit card number). 
+Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address) and financial information (like a credit/debit card number). 
 
 Contact information from the order forms is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the customer when necessary, and (on an extremely limited basis) to share with other companies who may want to contact our customers. 
 
