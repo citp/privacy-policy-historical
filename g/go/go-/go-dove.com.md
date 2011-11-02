@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2010-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101230180156id_/http%3A//www.go-dove.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-dove.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011436id_/http%3A//www.go-dove.com/info/privacy.asp) for the most accurate reproduction.*
 
 # GoIndustry DoveBid Privacy Policy - GoIndustry DoveBid
 
@@ -15,14 +15,15 @@ Each Individual submits to the Site certain personal information (such as email 
   1. monitor performance, utilization of features and services, traffic trends and browser versions of GoIndustry DoveBid;
   2. inform participants about products and services on the Site, conduct direct marketing or send promotional offers or notices from GoIndustry DoveBid or third parties;
   3. provide your credit card information to the appropriate credit card company to complete your transaction;
-  4. be supplemented with information received from third parties; and
-  5. share with other members of the GoIndustry DoveBid group of companies, Associated Auctioneers or suppliers that process data on our behalf both in the UK and abroad for the purposes described in this Privacy Policy. 
+  4. be supplemented with information received from third parties;
+  5. share with other members of the GoIndustry DoveBid group of companies, Associated Auctioneers or suppliers that process data on our behalf both in the UK and abroad for the purposes described in this Privacy Policy; and
+  6. share with other companies and organisations for the purpose of fraud protection and credit risk reduction. 
 
 Furthermore, this information may be disclosed:
 
-  6. to third parties in order to comply with any legal or regulatory requirement or in emergencies;
-  7. to other users of the Site in connection with selling/buying certain products or product groups; or
-  8. as part of aggregated anonymous GoIndustry DoveBid user data (not individually identifiable).
+  7. to third parties in order to comply with any legal or regulatory requirement or in emergencies;
+  8. to other users of the Site in connection with selling/buying certain products or product groups; or
+  9. as part of aggregated anonymous GoIndustry DoveBid user data (not individually identifiable).
 
 
 
@@ -55,4 +56,4 @@ Individuals are entitled to request from GoIndustry DoveBid information concerni
 
 Furthermore, Individuals may request correction, deletion or blocking of any personal data which is incomplete or incorrect or has not been processed in compliance with the Privacy Policy or the applicable laws or object to direct marketing by sending an email to [data@go-dove.com](mailto:data@go-dove.com). To the extent possible and reasonable, third parties that were provided with such information will be informed about any such correction, deletion or blocking. GoIndustry DoveBid may raise a charge for complying with such requests to the extent permitted under the relevant legislation.
 
-**GoIndustry DoveBid, October 2008**
+**GoIndustry DoveBid, October 2011**
