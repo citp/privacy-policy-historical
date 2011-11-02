@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2010-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100812091015id_/http%3A//www.firstaffair.com/fa/datenschutz/p/k/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103000934id_/http%3A//www.firstaffair.com/fa/datenschutz/p/k/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - First Affair
 
-  
-Privacy Policy of the FAP Services LLC 
+Privacy Policy of the netforge GmbH & Co. KG 
 
-FAP Services LLC is very serious about protecting the privacy of its customers. Therefore we would like to inform you when and how your data will be stored. FAP Services LLC is governed by the German Data Privacy Protection Act (Bundesdatenschutzgesetzes) and by the State Media Act (Mediendienstestaatsvertrages). FAP Services LLC has implemented all technical and managerial measures necessary to satisfy these data protection laws and regulations. 
+netforge GmbH & Co. KG is very serious about protecting the privacy of its customers. Therefore we would like to inform you when and how your data will be stored. netforge GmbH & Co. KG is governed by the German Data Privacy Protection Act (Bundesdatenschutzgesetzes) and by the State Media Act (Mediendienstestaatsvertrages). netforge GmbH & Co. KG has implemented all technical and managerial measures necessary to satisfy these data protection laws and regulations. 
 
 **Personal Data**
 
@@ -38,3 +37,7 @@ Our web pages contain links to other websites. We can not guarantee that these p
 **Questions and Suggestions** Please do not hesitate to contact us if you have any questions and suggestions regarding our service and webpage support@firstaffair.com. Thank you very much for taking your time for our privacy statement and enjoy our service. 
 
 Berlin the 31st of July 2007 
+
+#### Casual Dating ads
+
+With us, you can place free ads and see other people's ads
