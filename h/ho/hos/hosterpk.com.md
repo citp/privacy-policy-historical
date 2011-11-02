@@ -1,35 +1,54 @@
-> *The following text is extracted and transformed from the hosterpk.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hosterpk.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/privacy) for the most accurate reproduction.*
 
 # HosterPK | Privacy Policy
+
+##  New ASP.NET 4.0, 3.5 Hosting, with AJAX / Silverlight
+
+##  New MS Sql Server 2008 available, along with Sql Server 2005 
+
+##  Quick & Easy Payment Methods Pay easily and conveniently using Bank Deposit, ATM Transfer, Internet Banking in your _nearest Bank Alfalah, Standard Chartered, Silkbank branches_. **EasyPaisa payments** are also supported. 
+
+**Want to make payment through Credit Card?** Now you can pay using your Visa, Master, American Express Cards and Paypal as well. For more details click here. 
+
+##  **Web hosting with free .com, .net, .org domains**
+
+##  Setup charges waived for all packages 
+
+##  ASP.NET, PHP plans as low as Rs. 1400 (17.50) / yr 
+
+##  _Instant account activation_
+
+[](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/order)
 
 Our Hosting Platform
 
   *   
 Windows 2008 Hosting 
   *   
-Linux Web Hosting
+Apache Web Server 
+  *   
+Linux / CentOS Web Hosting
   * [   
 ASP.NET 4.0, 3.5, 2.0, 1.1 Hosting ](https://web.archive.org/asp.net-hosting)
+  *   
+Silverlight Hosting 
+  * [   
+AJAX, MVC, LINQ Supported ](https://web.archive.org/asp.net-hosting)
   * [   
 PHP 4, 5 Hosting ](https://web.archive.org/php-hosting)
   * [   
-](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/sqlserver-hosting)[SQL Server 2008 Hosting](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/sqlserver-hosting)
+](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/sqlserver-hosting)[SQL Server 2008 Hosting](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/sqlserver-hosting)
   *   
 SQL Server 2005 
   * [   
-MySql Server Hosting](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/mysqlserver-hosting)
+MySql Server Hosting](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/mysqlserver-hosting)
   * [   
-Wordpress Hosting ](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/wordpress-hosting)
+Wordpress Hosting ](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/wordpress-hosting)
   * [   
-Joomla Hosting ](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/joomla-hosting)
+Joomla Hosting ](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/joomla-hosting)
   * [   
-Drupal Hosting ](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/drupal_hosting)
+Drupal Hosting ](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/drupal_hosting)
 
-
-
-Recommend Us to Your Friends
-
-  
 
 
 |  |  HosterPK's Privacy Policy   
@@ -58,7 +77,7 @@ Services and Web sites we sponsor or host have security measures in place to pro
 _**Revisions to This Policy** _   
 HosterPK reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. 
 
-Terms of Service. Please also see our [Terms Of Service](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/terms), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire HosterPK web site.
+Terms of Service. Please also see our [Terms Of Service](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/terms), which describes the use, disclaimers, indemnification and limitation of liability governing the use of the entire HosterPK web site.
 
   
-If you have any questions regarding our privacy policy, please visit the [Contact Us](https://web.archive.org/web/20110505021526id_/http%3A//www.hosterpk.com/contact) page. 
+If you have any questions regarding our privacy policy, please visit the [Contact Us](https://web.archive.org/web/20111102125257id_/http%3A//www.hosterpk.com/contact) page. 
