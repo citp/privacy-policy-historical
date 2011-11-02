@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428094320id_/http%3A//www.coi.gov.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coi.gov.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102152219id_/http%3A//coi.gov.uk/privacy.php) for the most accurate reproduction.*
 
 # COI - Privacy Policy
 
@@ -16,13 +16,15 @@ This privacy policy applies only to the Central Office of Information website at
 
 ## Recent significant changes to this policy
 
+For version 4 - detailed information about the cookies this site uses was added
+
 For version 3 - Data protection information replaced with a link to COI's Information Charter, which now covers this
 
 For version 2 - following the introduction of Google Analytics code onto the site the section 'Information not collected by this website' of this policy was removed and the 'Cookies' section updated.
 
-This policy was last revised on 7 May 2009.
+This policy was last revised in May 2011.
 
-This is version 3 of the Central Office of Information's privacy policy.
+This is version 4 of the Central Office of Information's privacy policy.
 
 ## Changes to this policy
 
@@ -93,8 +95,32 @@ There are two types of cookies:
 
 
 
-The Central Office of Information uses both types of cookie for Google Analytics. However, the site can still be used if cookies are refused by your browser.
+What cookies the Central Office of Information website uses are detailed below
 
+#### Cookies for measuring site usage
+
+Google Analytics sets cookies to help us accurately estimate the number of visitors to the website and volumes of usage. This to ensure that the service is available when you want it and fast.
+
+Cookie| Typical content| Expires  
+---|---|---  
+_utma| randomly generated number| 2 years  
+_utmb| randomly generated number| 30 minutes  
+_utmc| randomly generated number| when user exits browser  
+_utmz| randomly generated number + info on how the site was reached (e.g. directly or via a link, organic search or paid search)| 6 months  
+  
+For further details on the cookies set by Google Analytics, please refer to the [Google Code website](http://code.google.com/apis/analytics/docs/concepts/gaConceptsCookies.html#cookiesSet).
+
+#### Cookies for commenting on our blog
+
+Wordpress sets cookies so that you don’t have to fill in your name and email address every time you want to comment on our blog and so you can see comments you made that are awaiting moderation.
+
+Cookie| Typical content| Expires  
+---|---|---  
+comment_author_[random number]| user name entered| <1 year   
+comment_author_email_[random number]| user email address entered| <1 year  
+comment_author_url_[random number]| user website url entered| <1 year  
+subscribe_checkbox_[random number]| "checked" or "unchecked" depending on user's wish to be notified of further comments on the article| <1 year  
+  
 ### IP addresses and hostnames
 
 An IP address is the numeric address of a computer. The IP address recorded on website log files is the address provided by your internet service provider's equipment and not your own personal computer's address.
