@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214134818id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nickatnite.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102082745id_/http%3A//www.nickatnite.com/info/privacy-policy.html) for the most accurate reproduction.*
 
-# 
+# Privacy Policy/Your California Privacy Rights | Nick @ Nite
 
 While we encourage the interactive nature of online media, we strive to educate parents and kids about how to appropriately safeguard their privacy when traveling on the Web. NickatNite.com is committed to complying fully with the Children's Online Privacy Protection Act of 1998. Our information collection practices are described below. We urge kids to check with their parents before entering information on any website and we urge parents to discuss with their kids restrictions regarding the online release of personal information to anyone they don't know. 
 
@@ -22,11 +22,11 @@ NickatNite.com occasionally offers contests and sweepstakes, which may be entere
 
 Unique identifiers such as cookies (which may be html files, Flash files, or other technology), web beacons, or similar technologies (collectively referred to as "Tracking Technologies") are used to help tailor our content, allow users to move between associated websites without logging into each site, and other purposes related to our management of this site. Cookies are small text files stored locally on your machine that help store user preferences. "Web beacons" or "clear gifs" are small pieces of code placed on websites used to collect advertising metrics, such as counting page views, promotion views, or advertising responses. 
 
-We may use Tracking Technologies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on NickatNite.com. For example, we may use cookies to personalize your experience on the Site (e.g., to recognize you by name when you return to a site), save your password in password-protected areas, save your online game or video player settings, and enable you to use shopping carts on the site. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising. By agreeing to this Privacy Policy, you are consenting to the use of Tracking Technologies as set forth in this Policy. 
+We may use Tracking Technologies to understand site and Internet usage and to improve or customize the content, offerings or advertisements on NickatNite.com. For example, we may use cookies to personalize your experience on the Site (e.g., to recognize you by name when you return to a site), save your password in password-protected areas, save your online game or video player settings, and enable you to use shopping carts on the site. We also may use cookies to help us offer you products, programs, or services that may be of interest to you and to deliver relevant advertising. By agreeing to this Privacy Policy, you are consenting to the use of Tracking Technologies as set forth in this Policy. This Site adheres to the Self-Regulatory Principles for Online Behavioral Advertising.  [Click here](http://srp.mtvn.com/sitefaq.html) for more information about this Site and online behavioral advertising.
 
 In many internet browsers, you can choose to delete, disable, turn off or reject most Tracking Technologies through the "Internet Options" sub-option of the "Tools" menu option of your browser or otherwise as directed by your browser's support feature. Additional information on deleting, disabling, rejecting or turning off Tracking Technologies may be available through your browser's support feature. Please consult the "Help" section of your browser for more information. 
 
-For more information about Flash cookies and how to remove them from your computer, please visit <http://kb2.adobe.com/cps/526/52697ee8.html> or <http://epic.org/privacy/cookies/flash.html>
+For more information about Flash cookies and how to remove them from your computer, please visit <http://www.adobe.com/products/flashplayer/articles/lso/>.
 
 Please know that certain areas and features of NickatNite.com only can be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content. 
 
@@ -38,9 +38,15 @@ You should be aware that different rules might apply to the collection, use or d
 
 With respect to the serving of ads by DoubleClick to you, please visit <http://www.doubleclick.com/us/about_doubleclick/privacy> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies. 
 
-For information on how to manage or opt-out of Tracking Technologies set by Third Party Advertising Service Providers used by the site in addition to DoubleClick, please visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp=) for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies.
+For information on how to manage or opt-out of Tracking Technologies set by Third Party Advertising Service Providers used by the site in addition to DoubleClick, please visit <http://www.networkadvertising.org/managing/opt_out.asp> for your options and for further information on renewing your opt-outs or opting-out again if you subsequently delete the Tracking Technologies.
 
 Log data collected on web servers supplies us with aggregate information about the number of visits to different pages on NickatNite.com. The site uses such aggregate information to improve access to our content based on our visitors' browsers and operating system types to make our content available to as many users as possible. We do not link the "log data" collected to personally identifiable information submitted by users when participating in our activities. Third Party Advertising Service Providers may also collect aggregate log data independently from us. 
+
+### U.S. Governing Law; Safe Harbor
+
+The Site is designed and targeted to users who reside in the United States and is governed by and operated in accordance with the laws of the United States.  We make no representation that this Site is operated in accordance with the laws or regulations of, or governed by, other nations.  By participating in our Site activities, you certify that you meet the age and other eligibility requirements for this Site as set forth in our [Terms of Use](http://www.nickatnite.com/site_wide/terms/index.jhtml).  If you do not meet the age and other eligibility requirements, please discontinue using the Site immediately as your continued use of the Site indicates that you are agreeing to the collection, use, disclosure, management and storage of your Information as described in this Privacy Policy.
+
+For detailed information on our privacy policy and practices with respect to personal information transferred from the European Economic Area and Switzerland, please see our [Safe Harbor Privacy Policy](http://www.viacom.com/privacypolicy/Documents/VIACOM-610657-v1-Safe_Harbor_Policy.pdf).
 
 ### Questions/Concerns?
 
@@ -59,4 +65,4 @@ New York, New York 10036
 
 We take protection of copyrights, both our own and others, very seriously. We therefore employ multiple measures to prevent copyright infringement over this Site and to promptly end any infringement that might occur. If you believe that the Site contains elements that infringe your copyrights in your work, please follow the procedures set forth in our [Copyright Compliance Policy](https://web.archive.org/info/copyright.html)
 
-This Privacy Policy was last updated on September 8, 2010
+This Privacy Policy was last updated on June 7, 2011
