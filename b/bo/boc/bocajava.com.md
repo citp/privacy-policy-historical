@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bocajava.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225090457id_/http%3A//www.bocajava.com/privacypolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bocajava.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102182714id_/http%3A//www.bocajava.com/privacypolicy.jsp) for the most accurate reproduction.*
 
 # Gourmet Coffee - Gourmet Tea, Espresso, and Coffee Gifts by BocaJava
 
@@ -24,4 +24,4 @@ When you provide personal information to us, we use a secure server (SSL) to enc
 
 ### Contact
 
-If you have questions concerning your account, please contact Boca Java Member Service at 1-888-BOCA JAVA. If you have any questions regarding our privacy practices, you can email us in the space provided on the 'Contact Us' page. You can call us at 1-888-BOCA-JAVA (1-888-262-2528) send us a fax at 1-954-421-1520, or you can write to us at Boca Java Customer Service, 730 South Powerline Rd., Suite D, Deerfield Beach, FL 33442. 
+If you have questions concerning your account, please contact Boca Java Member Service at 1-888-BOCA JAVA. If you have any questions regarding our privacy practices, you can email us in the space provided on the 'Contact Us' page. You can call us at 1-888-BOCA-JAVA (1-888-262-2528), or you can write to us at Boca Java Customer Service, 4120 Brighton Blvd # A-1, Denver, CO 80216. 
