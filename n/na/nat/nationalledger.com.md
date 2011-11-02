@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419223306id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalledger.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012818id_/http%3A//www.nationalledger.com/about/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy - National Ledger
 
 UPDATED: January 7, 2010
 
-Internet user privacy is of the highest importance to The National Ledger. The National Ledger is committed to protecting your privacy. The National Ledger does not automatically collect any personally identifiable information, such as name, address, email address or telephone number, from visitors to our website. 
+Internet user privacy is of the highest importance to The National Ledger. The National Ledger is committed to protecting your privacy. The National Ledger does not automatically collect any personally identifiable information, such as name, address, email address or telephone number, from visitors to our website.
 
 **Cookies:**
 
@@ -20,13 +20,13 @@ Users should check the applicable privacy policies of those third parties if pro
 
 The National Ledger also uses third-party advertising companies to serve ads when you visit our website. These companies may use cookies and information about your visits to this and other web sites in order to provide advertisements that may be of interest to you. This is known as Online Behavior Advertising ("O.B.A") and/or Multi-Site Advertising. The information they use is not personally identifiable, and does not contain your name, email address, physical address, or phone number.
 
-To get more information or to opt out please [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+To get more information or to opt out please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 **Privacy Protection for Children:**
 
-This policy describes the privacy practices of The National Ledger relating to information collected from children. This privacy policy does not apply to third party web sites, or to companies and persons that are not controlled by, affiliated with or managed by The National Ledger. The National Ledger does not knowingly collect information from children under 13 years of age. 
+This policy describes the privacy practices of The National Ledger relating to information collected from children. This privacy policy does not apply to third party web sites, or to companies and persons that are not controlled by, affiliated with or managed by The National Ledger. The National Ledger does not knowingly collect information from children under 13 years of age.
 
-The National Ledger feels strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis. 
+The National Ledger feels strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis.
 
 **Changes:**
 
@@ -34,14 +34,14 @@ The National Ledger reserves the right to change this policy at any time. Please
 
 **Acceptance of Privacy Policy:**
 
-By using The National Ledger sites and services, you signify your acceptance of this Privacy Policy Statement. If you do not agree or are not comfortable with any policy described in this Privacy Policy Statement, your only remedy is to discontinue use of The National Ledger sites. We reserve the right, to modify this Privacy Policy Statement at any time. If we materially change how we use your personal information we will notify through a prominent notice on this Privacy Policy Statement of the web site. Your continued use of any portion of The National Ledger sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through [our feedback form](https://web.archive.org/web/20110419223306id_/http%3A//www.nationalledger.com/about/contact.shtml).
+By using The National Ledger sites and services, you signify your acceptance of this Privacy Policy Statement. If you do not agree or are not comfortable with any policy described in this Privacy Policy Statement, your only remedy is to discontinue use of The National Ledger sites. We reserve the right, to modify this Privacy Policy Statement at any time. If we materially change how we use your personal information we will notify through a prominent notice on this Privacy Policy Statement of the web site. Your continued use of any portion of The National Ledger sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through [our feedback form](https://web.archive.org/web/20111102012818id_/http%3A//www.nationalledger.com/about/contact.shtml).
 
 **Contact:**
 
-Direct any questions to us [via e-mail](https://web.archive.org/web/20110419223306id_/http%3A//www.nationalledger.com/about/contact.shtml).
+Direct any questions to us [via e-mail](https://web.archive.org/web/20111102012818id_/http%3A//www.nationalledger.com/about/contact.shtml).
 
 _Or mail us at:_
 
 The National Ledger  
 PO Box 1212  
-Apache Junction, AZ 85117-1212 
+Apache Junction, AZ 85117-1212
