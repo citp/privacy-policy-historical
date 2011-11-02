@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the texasrealestate.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509024932id_/http%3A//www.texasrealestate.com/privacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the texasrealestate.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102163742id_/http%3A//texasrealestate.com/privacyPolicy.cfm) for the most accurate reproduction.*
 
 # Affordable housing: Available programs
 
