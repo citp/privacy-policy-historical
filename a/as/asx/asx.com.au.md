@@ -1,90 +1,117 @@
-> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216004931id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asx.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102204829id_/http%3A//www.asx.com.au/legal/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Australian Securities Exchange - ASX
 
-This Privacy Statement applies to your use of the web site of ASX at [www.asx.com.au](http://www.asx.com.au/).
+ASX Limited and its related bodies corporate (the “ **ASX Group** ” or “ **ASX** ”) is bound by the National Privacy Principles (“ **NPP** ” or “ **Principles** ”) as set out in the Privacy Act 1988 (Commonwealth). The following Privacy Statement has been published to provide a clear and concise outline of how and when Personal Information is collected, stored and distributed by the ASX Group. 
 
-ASX recognises that your privacy is important to you. ASX is committed to protecting your personal information.
-
-The following Privacy Statement has been published to provide a clear and concise outline of how and when personal information is collected, stored and distributed by ASX through use by you of [www.asx.com.au](http://www.asx.com.au/). For more detailed Privacy information on ASX's information handling practices you can contact us on: 131 279.
-
-### **Collection of Click Stream and other information**
-
-When you look at this web site our server logs the following information, which is provided by your browser. This information is logged for statistical purposes only: 
-
-  * your server's IP address (a number which is unique to the machine through which you are connected to the Internet) or your personal IP address; 
-  * the type of browser and operating system you are using; and 
-  * the address of the referring site (eg, the previous site that you visited). 
-
-
-
-In addition, our server logs the following information:
-
-  * the date and time of your visit; and 
-  * the address of the pages accessed and the documents downloaded. 
+  * Why does ASX collect Personal Information?
+  * How does ASX collect Personal Information?
+  * How does ASX use and disclose Personal Information?
+  * Does ASX collect sensitive information?
+  * How does ASX manage Personal Information?
+  * How to access your Personal Information?
+  * Web site collection
+  * Links to other Sites
+  * Contact Us
+  * Updates to this Privacy Statement
 
 
 
-We will not try to identify you or your browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider's logs or if your usage is causing technical issues for our site which may need to be resolved. We may in these circumstances identify your IP address to enable us to contact you.
+### Why does ASX collect Personal Information?
 
-### **Cookies**
+As a market operator and CS Facility operator, ASX has certain statutory obligations imposed on it under the Corporations Act. Under ASX’s Operating Rules ASX may collect, use and disclose Personal Information in order to be able to effectively discharge these obligations. 
 
-A 'cookie' is a packet of information that allows ASX to grant users access to certain parts of the ASX Website (the "Site") and also to manage traffic, advertising and other activities. Cookies are generally used on the Site in the following ways:  
-1\. To authenticate your access to certain areas of the Site, such as the MyASX section;  
-2\. To monitor traffic levels and flows through the Site;  
-3\. To manage advertising on the Site; and  
-4\. From time to time ASX may conduct surveys on the Site, and cookies may be used to manage this process.
+As a receiver and provider of services to third parties, ASX may be required to collect, use, disclose to discharge contractual obligations and in relation to potential employees during the recruitment process.
 
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences).
+### How does ASX collect Personal Information?
 
-If you disable the use of cookies on your web browser or remove or reject specific cookies from this website or linked sites then you may not be able to gain access to all of the content and facilities in this website. 
+The type of Personal Information ASX collects may include: names, addresses, contact details, occupations and any other information required to meet contractual obligations and statutory obligations as a market operator and CS Facility operator, in the provision of services or in relation to recruitment.
 
-### **Links to other Sites**
+Personal Information is collected in a variety of ways, including by way of personal contact such as business activities and events, as well as mail, telephone, email and internet. In some circumstances the ASX Group may be provided Personal Information about an individual from a third party.
 
-This site contains links to other sites. ASX is not responsible for the privacy practices or the content of such web sites.
+We may collect Personal Information about:
 
-### **Registration for ASX Services**
-
-Some pages of this Internet site provide the facility for you to subscribe to receive information or to register for courses, games or other services. Information provided by you to enable you to receive information or register for courses, including email addresses, will only be used for the purpose for which you have provided it, unless you consent otherwise or we are required to disclose it by law.
-
-### **Collection of Personal Information**
-
-The main way we would collect personal information from you is if you used our site to register for courses or to subscribe to another ASX service. This personal information may include your full name, phone and fax numbers, e-mail address and street and postal address.  
-When or before we collect personal information on our web site, we will take reasonable steps to inform you of:
-
-  * the purposes for which the information is collected; 
-  * where applicable, any law that requires the particular information to be collected; and 
-  * the main consequences for you if all or part of the information is not provided. 
+  * Individuals;
+  * Shareholders;
+  * Suppliers;
+  * Employees;
+  * Listed entities and participants;
+  * Candidates for employment; 
+  * Potential new Participants; 
+  * Third parties seeking services; and
+  * Other people who come into contact in the ordinary course of business.
 
 
 
-### **Access to and alteration of records containing Personal Information**
+### How does ASX use and disclose Personal Information?
 
-We will take all reasonable steps to allow you to access your personal information and we will correct the information if we are satisfied it is incorrect.
+ASX may use or disclose Personal Information for the following purposes:
 
-### **Personal Information Quality**
+  * To enable it to discharge its statutory obligations; 
+  * To enable it to discharge its contractual obligations when providing services to third parties; 
+  * To provide investor education services; 
+  * To service shareholders; 
+  * To provide administration for ASX employees; 
+  * To enable the resolution of a concern or complaint; 
+  * To provide ongoing information about our products and services to people that we believe may be interested; 
+  * To consider applications for employment; and 
+  * To provide services. 
 
-When you provide personal information to us via the Internet, we rely on the accuracy of that information. To assist with ensuring accuracy, please contact us if any of the details you have provided change.
 
-### **Personal Information Storage and Security**
 
-Personal information is stored in transmission logs and archived for a period of up to seven years, depending on the nature of the information being held.  
-Where appropriate, our web site provides a secure environment by using Secure Sockets Layer (SSL). This establishes a session and encrypts all traffic between our web server and your browser.  [More information about MyASX security](http://www.asx.com.au/about/about_site.htm).
+ASX will only use your Personal Information for the purpose for which you have provided it. We will not disclose your Personal Information to third parties, unless you consent or in other circumstances where such disclosure is required or authorised by law1.
 
-### **Use and Disclosure of Personal Information**
+Contracts we enter into with other parties for the provision of services may require us to disclose your Personal Information to them. In those cases, our contracts require other parties providing services to us to observe the terms of this Privacy Statement.
 
-We will only use your personal information (including your e-mail address) for the purpose for which you have provided it, eg to register for an on-line ASX course, unless you consent otherwise. We may also from time to time email you about an event or new feature that we think might be of interest. If you do not wish to receive such emails, all you have to do is hit the reply button and type "remove" in the subject field of the email.  
-We will not disclose your personal information to third parties, unless you consent or in other circumstances where such disclosure is required or authorised by law.  
-Contracts we enter into with other parties for the provision of services may require us to disclose your personal information to them.  In those cases, our contracts require other parties providing services to us to observe the terms of this Privacy Statement.
+ASX transfers information about an individual to someone who is in a foreign country only if the individual consents to the transfer or otherwise in compliance with the NPPs.
 
-### **Sensitive Information**
+### Does ASX collect sensitive information?
 
-We do not collect sensitive information such as your racial or ethnic origin, political opinions or religious beliefs.
+ASX does not collect sensitive information about an individual unless the individual has consented or it is required by law. Sensitive information covers Personal Information such as an individual’s race or ethnic origin; political opinions, membership of a political association; religious beliefs or affiliations; philosophical beliefs; membership of a professional or trade association membership of a trade union; sexual preferences and practices; criminal record; or health information. 
 
-### **Contact Us**
+### How does ASX manage Personal Information?
 
-If you would like further information regarding this policy, please [contact us](mailto:privacy@asx.com.au) or call: 131 279..
+ASX takes reasonable steps to protect Personal Information it holds from misuse and loss and from unauthorised access, modification or disclosure. Where Personal Information is no longer required for the purpose for which it was collected reasonable steps will be taken to destroy or permanently de-identify the information.
 
-You can also obtain information at the Federal Privacy Commissioner's web site at [www.privacy.gov.au](http://www.privacy.gov.au/).
+Personal Information is held for a period of up to seven years, depending on the nature of the information being held.
 
-Dated: 2 August 2010
+### How to access your Personal Information?
+
+ASX will take reasonable steps to ensure that Personal Information held about you is accurate, complete and up to date. You may request access or correction to Personal Information held by the ASX by writing to the Chief Privacy Officer. Exceptions may apply as outlined in the NPP’s. A fee may be charged for providing access. 
+
+### Web site collection
+
+ASX Group collects Personal Information from the web site [www.asx.com.au](http://www.asx.com.au/) through receiving subscriptions or registration of courses, games and services. Cookies are used on the web site in the following ways:
+
+  * To authenticate access to certain areas of the web site, such as MyASX section;
+  * To monitor traffic levels and flows; and
+  * From time to time ASX may conduct surveys
+
+
+
+Information is recorded into our server log which is provided by your browser. This information is logged for statistical purposes only.
+
+We will try not to identify you or your browsing activities except, in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the service provider’s logs or if your usage is causing technical issues for our website which may need to be resolved. In these circumstances we may need to identify you to contact you.
+
+We may also from time to time email you about an event or new feature that we think might be of interest. If you do not wish to receive such emails, all you have to do is hit the reply button and type “remove” in the subject field of the email.
+
+### Links to other Sites
+
+This site links to other sites. ASX is not responsible for the privacy practices or the content of such web sites.
+
+### Contact Us
+
+ASX has appointed a Chief Privacy Officer who can be contacted by phone or post at: 
+
+**Address:**  ASX Limited, Level 7, 20 Bridge Street, SYDNEY NSW 2000  
+**Telephone** : 131 279
+
+You can also obtain information at the Office of the Australian Information Commissioner’s website at [www.oaic.gov.au](http://www.oaic.gov.au/)
+
+### Updates to this Privacy Statement
+
+This Privacy Statement will be reviewed from time to time as required.
+
+Dated: 16 August 2011
+
+1 ASX has entered into an agreement with NetRatings Australia Pty Limited (Nielsen Online) which performs auditing functions on the ASX website.  For further information on Netratings Australia, the Netratings Australia auditing system and Netratings Australia’s Privacy Policy, go to <http://www.nielsen-online.com/intl.jsp?country=au>
