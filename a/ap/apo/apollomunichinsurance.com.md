@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollomunichinsurance.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110081003id_/http%3A//www.apollomunichinsurance.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollomunichinsurance.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102145904id_/http%3A//www.apollomunichinsurance.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Healthcare Insurance Services,Healthcare Insurance Providers,India
 
