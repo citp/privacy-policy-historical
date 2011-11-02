@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddepot.com privacy policy that was archived on 2010-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100131182555id_/http%3A//www.weddepot.com//privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddepot.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102022716id_/http%3A//www.weddepot.com//privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - WedDepot.com
 
