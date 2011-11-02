@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610070608id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vendorseek.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012712id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.*
 
 # Receive Up-To 5 Free quotes for telemarketing services, fulfillment services and much more
 
-If you have questions or concerns regarding this statement, you should first contact Customer Service in writing to QuinStreet 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404 or via our [Contact Us](https://web.archive.org/contactus.asp) form on our website.
+If you have questions or concerns regarding this statement, you should first contact Customer Service in writing to : **QuinStreet,950 Tower Lane,6th floor,Foster City,CA 94404** OR via our [Contact Us](https://web.archive.org/contactus.asp) form on our website.
 
-[](http://www.truste.org/ivalidate.php?url=www.VendorSeek.com&sealid=101)
+[](http://www.truste.org/ivalidate.php?url=www.VendorSeek.comandsealid=101)
 
 **Privacy Policy**
 
@@ -20,9 +20,9 @@ This privacy policy does not apply to the practices of companies that VendorSeek
 
 **Your California Privacy Rights**
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customers personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.
 
-If you are a California resident you may request this information from VendorSeek.com or any of its affiliates by completing our [Contact Us](https://web.archive.org/contactus.asp) form or you may send us correspondence at the following address: 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404. VendorSeek.com is not obligated to respond to more than one such request from a customer per calendar year.
+If you are a California resident you may request this information from VendorSeek.com or any of its affiliates by completing our [Contact Us](https://web.archive.org/contactus.asp) form or you may send us correspondence at the following address: QuinStreet,950 Tower Lane,6th floor,Foster City,CA 94404. VendorSeek.com is not obligated to respond to more than one such request from a customer per calendar year.
 
 **What information does VendorSeek.com gather?**
 
@@ -55,9 +55,9 @@ While visiting the Website individuals can view pages and need not worry about r
 
 _Cookies:_
 
-A cookie is a small text file that is stored on a user's computer for record keeping purposes. We use cookies on the Website. We do not link the information we store in cookies to any personally identifiable information you submit while on our Website. We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. You may remove persistent cookies by following directions provided in your Internet browser's "help" file. 
+A cookie is a small text file that is stored on a users computer for record keeping purposes. We use cookies on the Website. We do not link the information we store in cookies to any personally identifiable information you submit while on our Website. We use persistent cookies. A persistent cookie remains on your hard drive for an extended period of time. You may remove persistent cookies by following directions provided in your Internet browsers "help" file. 
 
-Cookies are stored only if you select to save your password on the login screen. A cookie is created so that we are able to retrieve your settings. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our Website. 
+Cookies are stored only if you select to save your password on the login screen. A cookie is created so that we are able to retrieve your settings. We set a persistent cookie to store your passwords, so you dont have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our Website. 
 
 This privacy policy covers the use of cookies by www.VendorSeek.com only. Some of our business partners (e.g., advertisers) use cookies on our Website. We have no access to or control over these cookies. You may disable or reject cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of VendorSeek.com. Having trouble while cookies is disabled? Contact our Customer Service department via our [Contact Us](https://web.archive.org/contactus.asp) form
 
@@ -65,7 +65,7 @@ _Log Files:_
 
 As is true of most websites, we gather certain information automatically from your browser or Internet session and store it in log files. This information includes your Internet protocol (IP) address, the browser type that you are using, Internet service provider (ISP), referring/exit URLs, the operating system on your computer, date/time stamp, and click stream data. 
 
-We use this non-personally identifiable information, which does not identify individual users, to analyze trends, to administer the Website, to track users' movements around the Website and to gather demographic information about our user base as a whole. 
+We use this non-personally identifiable information, which does not identify individual users, to analyze trends, to administer the Website, to track users movements around the Website and to gather demographic information about our user base as a whole. 
 
 We do not link this automatically collected data to personally identifiable information. 
 
@@ -131,7 +131,7 @@ Once signed up with VendorSeek.com and subject to you having opted in to receivi
 
 **Ordering services:**
 
-In order for VendorSeek.com to service you properly, you will need to provide us with company-specific information. Both vendors and those submitting requests are required to complete an online form which requests specific data. This includes contact information, demographics and information designed to assist you with searching for specific vendor/request-related inquiries. Various departments at VendorSeek.com may review your company's information. Credit card information is stored securely through encryption and SSL connection. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
+In order for VendorSeek.com to service you properly, you will need to provide us with company-specific information. Both vendors and those submitting requests are required to complete an online form which requests specific data. This includes contact information, demographics and information designed to assist you with searching for specific vendor/request-related inquiries. Various departments at VendorSeek.com may review your companys information. Credit card information is stored securely through encryption and SSL connection. We use this information for billing purposes and to fill your orders. If we have trouble processing an order, we will use this information to contact you. 
 
 **Access - changing information:**
 
@@ -141,7 +141,7 @@ Vendors with VendorSeek.com can change profile information at any time by access
 
  _Personally Identifiable Information – Opting out:_
 
-We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
+We provide you the opportunity to opt-out of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. 
 
 If you no longer wish to receive our newsletter and promotional communications or other additional marketing material, you may opt-out of receiving them by following the instructions included in each newsletter or communication or other marketing material or by filling out our [Contact Us](https://web.archive.org/contactus.asp) form on our website.
 
@@ -149,14 +149,14 @@ If you no longer wish to receive our newsletter and promotional communications o
 
 As noted above, our Website collects non-personally identifiable information about your website activities using cookies and other tracking devices. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. Blocking cookies may result in a lower quality experience for you while you are visiting the Website.
 
-**Children’s Privacy**
+**Childrens Privacy**
 
-In compliance with the Children’s Online Privacy Protection Act (COPPA), VendorSeek.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
+In compliance with the Childrens Online Privacy Protection Act (COPPA), VendorSeek.com is not structured to attract children. Accordingly, we do not intend to collect personally identifiable information from anyone we know to be under 13 years of age.
 
 **Changes to privacy policy:**
 
-By using this Website, you consent to the terms of our privacy policy, as may be amended from time to time, and to VendorSeek.com’s processing of personal information for the purposes given above. If we decide to change our privacy policy, we intend to take every reasonable step to ensure that those changes are brought to your attention by posting all changes prominently on our Website for a reasonable period of time and by amending this privacy policy. We reserve the right to modify this privacy policy at any time, so please review it frequently.
+By using this Website, you consent to the terms of our privacy policy, as may be amended from time to time, and to VendorSeek.coms processing of personal information for the purposes given above. If we decide to change our privacy policy, we intend to take every reasonable step to ensure that those changes are brought to your attention by posting all changes prominently on our Website for a reasonable period of time and by amending this privacy policy. We reserve the right to modify this privacy policy at any time, so please review it frequently.
 
-**Model Disclosure:** VendorSeek.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Website www.VendorSeek.com. Because VendorSeek.com wishes to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
+**Model Disclosure:** VendorSeek.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Website www.VendorSeek.com. Because VendorSeek.com wishes to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-**Contact Details:** : If you have questions or concerns regarding this privacy policy, you should first complete our [Contact Us](https://web.archive.org/contactus.asp) form or you may send us correspondence at the following address: 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> where you may submit a complaint. TRUSTe will then serve as a liaison with us to resolve your concerns.
+**Contact Details:** : If you have questions or concerns regarding this privacy policy, you should first complete our [Contact Us](https://web.archive.org/contactus.asp) form or you may send us correspondence at the following address: QuinStreet,950 Tower Lane,6th floor,Foster City,CA 94404. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> where you may submit a complaint. TRUSTe will then serve as a liaison with us to resolve your concerns.
