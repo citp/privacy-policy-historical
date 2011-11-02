@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529021417id_/http%3A//www.homebase.co.uk/webapp/wcs/stores/servlet/HomebaseStaticPageSecondLevel%3FlangId%3D110%26storeId%3D10151%26includeName%3DHBCustomerServiceArticles/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homebase.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102195258id_/http%3A//www.homebase.co.uk/webapp/wcs/stores/servlet/HomebaseStaticPageSecondLevel%3FlangId%3D110%26storeId%3D10151%26includeName%3DHBCustomerServiceArticles/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy policy from Homebase Helping to Make Your House a Home
 
@@ -103,5 +103,7 @@ ST18 9AR
 ## How can I be removed from the Homebase email newsletters list?
 
 If you want to be removed from our mailing list, click here to use our [unsubscribe form](http://homebaselife.com/public/homebase_unsubscribe.jsp) and put in the email address that you wish to be removed. Please note that it may take up to 28 days to action your request. In addition, each email we send you will contain details of how you can unsubscribe. 
+
+If you wish to unsubscribe from Homebase Homemovers direct mailings (postal) please call our customer service team on 0845 077 8888 (UK). Please note that it may take up to 28 days to action your request
 
 Back to top
