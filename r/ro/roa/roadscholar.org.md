@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2011-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110214135311id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102063441id_/http%3A//www.roadscholar.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Road Scholar : Privacy Policy
 
@@ -53,8 +53,6 @@ You can also fax us toll-free at
 |  |    
 
 
-[](http://blog.roadscholar.org/)
-
 **I WANT TO LEARN ABOUT ...**   
   
 **in**   
@@ -62,9 +60,12 @@ You can also fax us toll-free at
 **or**   
 
 
-from:
+Add price, activity level and more. 
 
-  
+[ ](http://www.roadscholar.org/lps/blog_participants.asp?cm_sp=Plug-_-Boomer-_-PaxBlog)
 
+[ ](http://www.roadscholar.org/programs/search_res.asp?src=1-5T8HWP&cm_sp=Plug-_-Boomer-_-TopRatedB611)
+
+* * *
 
 * * *
