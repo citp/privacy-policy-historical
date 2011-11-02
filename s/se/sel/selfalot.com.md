@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the selfalot.com privacy policy that was archived on 2011-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110220165947id_/http%3A//www.selfalot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selfalot.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102190307id_/http%3A//www.selfalot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Selfalot
 
