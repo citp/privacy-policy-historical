@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524155543id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103005402id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -55,26 +55,8 @@ We will not sell, distribute or lease your personal information to third parties
 
 At any time you may unsubscribe from any of our e-mail publication distributions through our e-mail management system’s unsubscribe button or by emailing us at: Marketing@BayshoreSolutions.com
 
+#### **Children Under 13**
+
+If you are under 13, please do not use this site.
+
 Feel free to contact us at any of our office locations , via e-mail at: Marketing@BayshoreSolutions.com or our toll free number, **866.352.4791** should you have any questions or concerns
-
-[](http://www.bayshoresolutions.com/EmailSignUp.aspx)
-
-**Tampa - Corporate Headquarters  
-[600 N. Westshore Blvd.](http://maps.google.com/maps/place?cid=219256312973753521&q=bayshore%2Bsolutions%2Btampa)  
-Suite 700  
-Tampa, Florida 33609  
-**
-
-**Toll Free:** [866.352.4791](livecall:866.352.4791)
-
-**Phone:** [813.902.0141](livecall:813.902.0141)  
-**Fax:** [813.839.9022](livecall:813.839.9022)
-
-[Click here for Map ](http://maps.google.com/maps/place?cid=219256312973753521&q=bayshore%2Bsolutions%2Btampa)
-
-**Ft. Lauderdale  
-20801 Biscayne Blvd.  4th Floor  
-Aventura, FL 33180  
-Toll Free: [866.352.4791](livecall:866.352.4791)  
-Phone: [954.660.8998](livecall:954.660.8998)  
-Fax: [813.839.9022](livecall:813.839.9022) **
