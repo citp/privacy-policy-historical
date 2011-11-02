@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazytje.be privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121052936id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazytje.be privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011215id_/http%3A//crazytje.be/privacy) for the most accurate reproduction.*
 
 # Crazy's Manga
 
@@ -8,11 +8,10 @@ We collect information from you when you register on our site.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [ click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  
 
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
 
 ## What do we use your information for?
 
@@ -50,6 +49,9 @@ Because we value your privacy we have taken the necessary precautions to be in c
 
 As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into the site and going to the 'Edit Profile' page.
 
+  
+
+
 ## Childrens Online Privacy Protection Act Compliance
 
 We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
@@ -64,11 +66,11 @@ This online privacy policy applies only to information collected through our web
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
 
-This policy was last modified on 10-11-2009 
+This policy was last modified on 01-08-2011 
 
 ## Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
 http://crazytje.be  
-info@crazymanga.com 
+info@crazytje.be 
