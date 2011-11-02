@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605000212id_/http%3A//www.filmcritic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmcritic.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102062014id_/http%3A//www.filmcritic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Filmcritic.com Reviews
 
@@ -35,7 +35,8 @@ From time to time, we may provide access to information to select third parties 
 
 INFORMATION DISCLOSURE
 
-We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent. We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy.  
+We will disclose personally identifiable information to non-affiliated third parties (a) as set forth in this Policy; (b) where it is necessary for us to render our services or conduct a legitimate business activity related to our services; or (c) with appropriate consent. We may disclose personally identifiable information to affiliated third parties, including parents, affiliates, subsidiaries and joint venture partners at any time, subject to the use restrictions set forth in this Policy.
+
 You acknowledge, consent and agree that we may access, preserve and disclose your account information and content if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to: (a) comply with legal process; (b) enforce our Terms of Service, Privacy Policy, or other contracts with you; (c) respond to claims that any content violates the rights of third parties; (d) respond to your requests for customer service; or (e) protect our rights, property or personal safety as well as those of our users and the public. We may also disclose information to law enforcement agencies in emergency circumstances, where the disclosure of such information is consistent with the types of emergency disclosures permitted or required by law.
 
 Finally, we also reserve the right to disclose and transfer all of the information collected at our sites, including personally identifiable information, to a successor company in connection with a merger, acquisition or sale of all, or components, of our business.
@@ -46,7 +47,7 @@ This Website is controlled, operated and administered entirely within the United
 
 YOUR CHOICES REGARDING MARKETING AND OPTING OUT 
 
-If you have provided personally identifiable information on one of our Websites and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at Privacy@amctv.com; or (iii) writing us at American Movie Classics Company LLC, 11 Penn Plaza, New York, NY 10001. Attention: John Frankfurt.
+If you have provided personally identifiable information on one of our Websites and later decide that you would rather not have us use such data for marketing purposes in accordance with the Policy as provided herein, you can opt-out of this use at any time by: (i) going to the link provided at the bottom of any email you receive from us and opting out of receiving information from us and/or our parents, affiliates, and subsidiaries; (ii) by sending us an email at Privacy@amctv.com; or (iii) writing us at American Movie Classics Company LLC, 11 Penn Plaza, New York, NY 10001. Attention: AMC Digital.
 
 UPDATING YOUR INFORMATION
 
@@ -63,7 +64,8 @@ Data is gathered through the use of Internet server logs and cookies. A web serv
 Company and its advertisers may use third party ad servers and ad networks, including without limitation, DoubleClick, to serve or present the ads that appear on our site and to conduct research about the advertisements. Our Privacy Policy does not cover their use of information. For more information about third-party ad servers generally and to express your preferences regarding these activities, including opting out of ad targeting, you may find more information at the website of the individual ad network, or [_click here_](http://www.networkadvertising.org/) to link to Network Advertising Initiative.  
 
 
-CHILDREN'S PRIVACY POLICY 
+CHILDREN'S PRIVACY POLICY   
+
 
 Company does not target this Website to children under the age of thirteen and we do not knowingly collect or solicit Personally Identifiable Information from or about children under the age of thirteen except as permitted by law. If we discover we have received any information from a child under the age of thirteen in violation of this Policy, we will delete that information immediately. If you believe Company has any information from or about anyone under the age of thirteen, please contact us at the address listed below.
 
@@ -78,9 +80,9 @@ Please do not hesitate to contact us with any questions, concerns, requests or c
 Writing to us at:
 
 American Movie Classics Company LLC  
-11Penn Plaza  
+11 Penn Plaza  
 New York, NY 10001  
-Attention: **AMCC** Privacy Coordinator 
+Attention: AMC Privacy Coordinator 
 
 Or by email: Privacy@amctv.com
 
