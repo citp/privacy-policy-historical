@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the garenaworld.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630233834id_/http%3A//www.garenaworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garenaworld.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011224id_/http%3A//www.garenaworld.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://www.facebook.com/login.php?api_key=125135080876959&cancel_url=http%3A%2F%2Fwww.garenaworld.com%2Fprivacy.php&display=page&fbconnect=1&next=http%3A%2F%2Fwww.garenaworld.com%2Fmisc.php%3Faction%3Dfbreg&return_session=1&session_version=3&v=1.0&req_perms=email%2Cuser_birthday%2Cstatus_update%2Cread_stream%2Cpublish_stream%2Coffline_access)   
+  
 
 
 **What information do we collect?**  
