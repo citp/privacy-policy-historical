@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topuniversities.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623125018id_/http%3A//www.topuniversities.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topuniversities.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014059id_/http%3A//www.topuniversities.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Top Universities
+# Privacy Policy - Topuniversities
 
 Quacquarelli Symonds Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using any of our websites then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -55,11 +55,11 @@ You may choose to restrict the collection or use of your personal information in
 
 When you are asked to fill in a form on any of our websites, look for the tick box that indicates you do not want the information to be for direct marketing purposes
 
-If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by unsubscribing here - <http://download.qsnetwork.com/subscription/unsub.php>[ ](http://download.qsnetwork.com/subscription/unsub.php "Unsubscribe")
+If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by emailing us at [candidateregistration@qs.com](mailto:candidateregistration@qs.com) and stating that you would like to be removed from our marketing lists.
 
-We may use your personal information to send you promotional information about services we offer and third parties which we think you may find of value. Your may opt out of our lists at any time by unsubscribing here - <http://download.qsnetwork.com/subscription/unsub.php>
+We may use your personal information to send you promotional information about services we offer and third parties which we think you may find of value. Your may opt out of our lists at any time by emailing us at [candidateregistration@qs.com](mailto:candidateregistration@qs.com) and stating that you would like to be removed from our marketing lists.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [rebecca@qs.com](mailto:rebecca@qs.com).
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to [candidateregistration@qs.com](mailto:candidateregistration@qs.com).
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
