@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105144031id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkbingo.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102031858id_/http%3A//www.thinkbingo.com/skin/privacy.php) for the most accurate reproduction.*
 
 # Think Bingo. Join now & get up to £100 FREE
 
@@ -30,9 +30,13 @@ Your PII may, for the Purposes, be disclosed for processing to any of the follow
 
 We ensure that your information will not be disclosed to government institutions or authorities except if required by law. 
 
+### Mergers and other events requiring transfer
+
+If the Company and/or Brigend should ever file for bankruptcy, or become insolvent, or be acquired by a third party, merge with a third party, sell all or part of its assets, or transfer substantially all or part of its relevant assets to a third party, the Company and/or Brigend is entitled to share or transfer the PII and all other information you have provided to the Company and/or Brigend to potential and subsequent business and merger partners. 
+
 ### Your Choice - Direct Marketing
 
-Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by [Contacting Us](http://www.thinkbingo.com/skin/contact.php) If you would like to stop receiving our mail or telemarketing offers, please call 0845 050 2292 between 10am-6pm Monday to Friday
+Out of respect for your right to privacy we are happy to provide you with an easy means to decline receiving email offers from us. At any time, you may request to discontinue receiving these offers by [Contacting Us](http://www.thinkbingo.com/skin/contact.php) If you would like to stop receiving our mail or telemarketing offers, please call 0845 050 2292 between 10am-6pm Monday to Friday 
 
 ### Your Rights in relation to your PII
 
