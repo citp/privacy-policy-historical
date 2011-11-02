@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swagvault.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419203155id_/http%3A//support.swagvault.com/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D102) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagvault.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102154547id_/http%3A//support.swagvault.com/index.php%3F/Knowledgebase/Article/View/91/13/swagvault-privacy-policy) for the most accurate reproduction.*
 
 # SwagVault Privacy Policy
 
