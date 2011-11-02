@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestigeportraits.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925080647id_/http%3A//www.lifetouch.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeportraits.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102134035id_/http%3A//www.lifetouch.com/privacy.aspx) for the most accurate reproduction.*
 
 # Lifetouch Photography Services - Privacy & Terms
 
