@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epicweird.com privacy policy that was archived on 2010-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100923073945id_/http%3A//www.epicweird.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epicweird.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102080633id_/http%3A//www.epicweird.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
