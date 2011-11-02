@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fullissue.com privacy policy that was archived on 2010-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101017003853id_/http%3A//www.fullissue.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fullissue.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102124055id_/http%3A//www.fullissue.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
