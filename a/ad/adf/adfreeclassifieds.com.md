@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the adfreeclassifieds.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618033934id_/http%3A//www.adfreeclassifieds.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfreeclassifieds.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102155106id_/http%3A//www.adfreeclassifieds.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Ad FREE Classifieds
+
+[](http://www.solutionforweb.com/billing/aff.php?aff=001)
 
 ##  Website Privacy Policy 
 
