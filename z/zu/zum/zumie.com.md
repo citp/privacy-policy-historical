@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zumie.com privacy policy that was archived on 2010-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100208060849id_/http%3A//www.zumie.com/%3Ftmp%3Dzum_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zumie.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102042951id_/http%3A//www.zumie.com/%3Ftmp%3Dzum_privacy) for the most accurate reproduction.*
 
 # Zumie Privacy Policy
 
