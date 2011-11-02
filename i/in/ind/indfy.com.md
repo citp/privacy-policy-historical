@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indfy.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618090510id_/http%3A//www.indfy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indfy.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102065943id_/http%3A//www.indfy.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ This Website may without any notice or reason, update this privacy policy from t
 
 **What does This Website do with the information collected.**
 
-This Website requires these information to understand your needs and provide you with a better service, and in particular for the following reasons: To fulfill the services you have asked this Website to perform 
+This Website requires these information to understand your needs and provide you with a better service, and in particular for the following reasons: To fulfill the services you have asked this Website to perform
 
   * For internal record keeping.
   * To improve this Website products and services.
@@ -47,3 +47,5 @@ This Website is committed to ensure that your information is secure. In order to
 **Limitation of Liability**
 
 This Website may contain links to other websites or advertisements which drive you to another website. However, once you have used these links to leave the Website, you should note that the Website does not have any control over that other website. Therefore, the Website cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites as such sites are not governed by this Privacy Policy. You should exercise caution and look at the Privacy Policy applicable to the website in question.
+
+Last Updated On: **2011/07/11**
