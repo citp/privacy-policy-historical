@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223061649id_/http%3A//www.avforums.com/forums/view_privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avforums.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010414id_/http%3A//www.avforums.com/forums/view_privacy_policy.htm) for the most accurate reproduction.*
 
 # AVForums.com Privacy Policy
 
@@ -7,7 +7,7 @@
 AVForums.com is owned and operated by M2N Limited.   
 Please read this notice before using our site. By using the site, you agree to abide by these Terms of Use; please do not use our site if you do not agree with the Terms of Use outlined below. M2N Limited reserves the right to modify the Terms of Use at its sole discretion, and by using this site, you agree to be bound by the modifications or updates to the Terms of Use.
 
-**Privacy Notice  
+ **Privacy Notice  
 **  
 M2N Limited values your privacy. To keep you informed, we have created this privacy statement that discloses our purposes and methods for online collection and use of information. This statement applies to all information collected through the M2N Limited websites and information gathered from any web pages that we host.
 
@@ -36,8 +36,6 @@ It's also important to be aware that when you voluntarily provide personal infor
 **  
 Although the M2N Limited websites are generally targeted at an adult audience, we welcome the participation of younger users with their parents' consent. We strongly recommend that users 12 and under refrain from offering any personal information either in their user profile or in the message boards themselves, and we encourage parents to stay involved in the online life of their children.
 
-**Data Protection Act**
-
 M2N Limited complies fully with the UK data protection act. The personal data we store about AVForums member (limited to their email address and date of birth in most cases) is used only for internal purposes and therefore we are not obliged to notify the Information Commissioner's Office.
 
 **Changing or Updating Personal Information  
@@ -46,9 +44,7 @@ If you would like to update or change your user profile on the AVForums.com, sim
 
 If you have questions regarding your information, please [contact us](http://www.avforums.com/sendemail.php?person=Forums%20Admin&subject=I%20have%20a%20question%20for%20AV%20Forums%20Admin.).
 
-* * *
-
-**Your online shopping can support AVForums.**
+ **Your online shopping can support AVForums.**
 
 AVForums members often post links to products on merchants’ websites. eBay and Amazon are common examples.  
 AVForums.com uses Skimlinks.com technology to convert these links into ones which generate revenue for AVForums.com.  
