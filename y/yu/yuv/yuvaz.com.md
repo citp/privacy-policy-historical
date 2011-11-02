@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yuvaz.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130162057id_/http%3A//yuvaz.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuvaz.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013119id_/http%3A//yuvaz.com/help/privacy) for the most accurate reproduction.*
 
-# Make New Friends | Share Photo Albums | Send Free SMS INDIA
+# 
 
 Privacy Policy for www.yuvaz.com
 
