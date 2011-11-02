@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollywoodchaos.com privacy policy that was archived on 2010-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101124194029id_/http%3A//hollywoodchaos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywoodchaos.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010843id_/http%3A//www.hollywoodchaos.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - HollywoodChaos.com
 
@@ -41,4 +41,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 We maintain a customer email list to keep customers informed about the site. Customers may request to be removed from the customer update list. We do not sell, rent, loan, trade, or lease the addresses on other list to anyone.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email [here](mailto:%68%6F%6C%6C%79%77%6F%6F%64%63%68%61%6F%73%40%67%6D%61%69%6C%2E%63%6F%6D%3F%73%75%62%6A%65%63%74%3D%48%6F%6C%6C%79%77%6F%6F%64%43%68%61%6F%73%20%2D%20%54%69%70%73).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.hollywoodchaos.com/contact).
