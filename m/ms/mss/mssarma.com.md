@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mssarma.com privacy policy that was archived on 2005-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050207045154id_/http%3A//www.oup.com/us/information/privacy/%3Fview%3Dusa) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mssarma.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102074138id_/http%3A//www.oup.com/us/information/privacy/%3Fview%3Dusa) for the most accurate reproduction.*
 
 # Oxford University Press: Privacy Policy
 
