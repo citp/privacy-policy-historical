@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218234956id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012834id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
 
 # Privacy and Info
 
@@ -79,9 +79,15 @@ You should note that technical details, which we cannot associate with any ident
 
 We may provide Non-Personal Data to third parties, where such information is combined with similar information of other users of our website. 
 
-For example, we might inform third parties regarding the number of unique users who visit our website or the forums that visitors and members engage in while on Adverts.ie. 
+For example, we might inform third parties regarding the number of unique users who visit the Adverts.ie website, or the activities that visitors to the Adverts website engage in while using the website. 
 
 The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties. 
+
+We may also share your personal information with: 
+
+  * Law enforcement agencies, other governmental agencies or third parties in response to a request for information (such as a Section 29 (3) Data Protection Act 1998 form) relating to a criminal investigation, alleged illegal activity or any other activity that may expose us, you or any other Adverts.ie user to legal liability. The personal information we disclose may include your Username and ID, Your account history, name, city, county, telephone number, email address, content of Private messages and comments or anything else that we deem relevant. 
+
+
 
 #### Your rights regarding data supplied via this website 
 
