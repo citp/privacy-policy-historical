@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505065951id_/http%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northstudio.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144246id_/http%3A//www.northstudio.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | northStudio
+# | northStudio
 
 Personal Information: Personal information means any information about you except your name, business title, business address, business e-mail address, business telephone number or business facsimile number. It also does not include your home address or phone number if these are published in a telephone or other directory.
 
