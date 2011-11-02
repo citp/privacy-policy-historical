@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312222222id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jokes-post.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102181134id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | Jokes-Post.com - the jokes that make you laugh
+
+## Privacy
 
 February 12th 2010
 
@@ -58,16 +60,11 @@ We employ industry standard security measures designed to safeguard against unau
 
 California Civil Code Section 1798.83 enables California residents who have provided PII to US, and/or to a third party who has then shared such information with US, to request information regarding our disclosure of such PII information to third parties. Within thirty days of receipt of such a request, we will provide a list of the PII disclosed to third parties for the past calendar year, along with the names and addresses of such third parties. This request may not be made more than once per calendar year. Should you wish to exercise your rights under this Section, please use the postal address listed below. We reserve the right not to honor and/or respond to such requests that are not sent to the address below.
 
-Jokes-Post.com
-
-244 5th Ave
-
-Suite # G239
-
-New York, NY 10001
-
-(888) 231-8602
-
+GMB555 - Jokes-post.com  
+315 Madison Avenue  
+Suite 901  
+New York, NY 10017  
+888-231-8602  
 company@jokes-post.com
 
 **Acceptance**
