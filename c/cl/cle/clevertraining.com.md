@@ -1,31 +1,44 @@
-> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2011-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110404034135id_/http%3A//www.clevertraining.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clevertraining.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102232348id_/http%3A//www.clevertraining.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Clever Training: Help > Privacy, Security & Accessibility
 
-**Our Commitment To Your Privacy**
+**OUR COMMITMENT TO YOUR PRIVACY**
 
-At Clever Training, your privacy is very important to us. To better protect your privacy the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns.
+At Clever Training, your privacy is very important to us. To better protect your privacy, the following notice explains the information we collect, how it is used, how it is safeguarded, and how to contact us if you have any concerns. 
 
- **What Information Is Collected:**
+**What Information Is Collected:**
 
-As part of the order process, we collect whatever is necessary to process, service, and ship your product to you.
+As part of your order process, we collect only the information necessary to process, service, and ship your product to you. This includes: 
 
- **How That Information Is Used:**
+  * Contact information, including name, mailing address, phone number and e-mail address
+  * Purchase information, including credit card number, billing and/or shipping information
 
-We ONLY use your information to process, service, and ship your order - THAT IS ALL - WE DON'T USE YOUR INFORMATION FOR ANYTHING ELSE, NOR DO WE SELL YOUR INFORMATION. OUR POLICY IS SIMPLE AND VERY STRICT.
 
- **Our Commitment To The Security of Your Data**
 
-Your data is securely processed through our SSL protected payment gateway. We only use the data necessary to process, service, and ship your order. Please keep in mind that we have been in busines for over 7 years and have served thousands of customers like yourself and have had **ZERO** incidents of midhandling customer data. Period.
+**How That Information Is Used:**
 
- **Contact Us**
+We ONLY use your information to process, service, and ship your order, which includes: 
 
-You can email us 24 hours a day at [info@clevertraining.com](mailto:info@clevertraining.com) or call us during our normal business hours at (978) 482-0450.
+  * Provide product order fulfillment
+  * Respond to your comments and questions and provide customer service
+  * Provide correspondence for order updates or notifications
 
-You can also visit us at our retail store located at:
 
-Clever Training   
-1519 Gulf Blvd., #4   
-Indian Rocks Beach, FL 33785
 
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://info.yahoo.com/privacy/us/yahoo/details.html) for more information about how Yahoo! uses this information._
+As a valued customer, you may also receive email notifications for special offers directly from Clever Training. Should you choose to remove yourself from such notifications, please contact us at [support@clevertraining.com](mailto:support@clevertraining.com). 
+
+We DO NOT rent, sell, or trade your information to third parties. Our policy is simple, yet very strict. 
+
+**Our Commitment to The Security of Your Data:**
+
+Your data is securely processed through our SSL (Secure Sockets Layer) protected payment gateway using 128-bit encryption. 
+
+**Contact Us**
+
+Have any comments or questions regarding our privacy policy? Contact us: 
+
+Email: [Support@clevertraining.com](mailto:support@clevertraining.com)  
+Phone: (727)213-0008  
+1519 Gulf Blvd. Suite 1  
+Indian Rocks Beach, FL 33785  
+
