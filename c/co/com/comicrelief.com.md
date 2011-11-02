@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2011-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110215195231id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicrelief.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102200144id_/http%3A//www.comicrelief.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comic Relief
 
-When you supply any personal information to Comic Relief, Comic Relief has legal obligations towards you in the way we deal with that information in accordance with the Data Protection Act 1998. In particular, we must:
+## Statement Of Intent
+
+When you supply any personal information to Comic Relief, we have legal obligations under the Data Protection Act 1998 in the way we deal with that information. In particular, we must: 
 
   * collect the information fairly 
   * let you know how we will use it 
@@ -10,22 +12,71 @@ When you supply any personal information to Comic Relief, Comic Relief has legal
 
 
 
-Whenever you provide personal information we will treat your information in accordance with this privacy policy, and will act in accordance with the Data Protection Act 1998.
+We are committed to protecting and respecting your privacy. Whenever you provide personal information we will treat your information in accordance with this privacy policy, and in accordance with the Data Protection Act 1998.
 
-## How Your Information Is Used
+## Information We May Collect From You
 
-Comic Relief may ask you to submit personal information about yourself, such as your name and email address, postal address, telephone number and card details, so that we can provide you with services. The services include newsletters, updates, competitions, merchandise and receiving further information relating to Comic Relief, the projects it funds and its supporters.
+When you donate, register online, contact us, or interact with us in any other way, Comic Relief may sometimes receive personal information about you, such as your: 
 
-We will only use your personal information to the extent it is necessary to do so, such as to provide services you have requested, or for other purposes you have consented to. We will not supply your personal data to any third party without your consent, unless we are obliged by law to do so. Please note that in some cases, for instance when you buy goods or donate, we may need to pass your information to companies who provide packaging, mailing, processing, data analysis and other services for us - however they may only use your information to deliver those services.
+  * name
+  * email address
+  * postal address 
+  * telephone number 
+  * debit or credit card details 
 
-We will hold your personal information on our systems for as long as you use any service that you have requested, and will remove it in the event that the purpose has been met or you inform us that you no longer wish to receive the service in question. We also use your information to identify you and provide a personalised service to you. We sometimes aggregate statistics about our supporters, donors and customers to enable us to operate more effectively, but these statistics do not include information from which individuals can be identified.
+
+
+When you visit our site, we also sometimes use cookies, and collect information about your visit. For more details, please see the ‘Cookies’ and ‘How We Use Your Information’ sections below.
+
+## How We Use Your Information
+
+We use your information in a number of ways, such as:
+
+  * sending you information about Comic Relief, our supporters and beneficiaries for marketing purposes
+  * processing a donation that you have made
+  * processing an order from our online shop
+  * dealing with entries into competition
+  * processing a grant or job application
+  * responding to correspondence you have sent to us
+
+
+
+We will not contact you for marketing purposes unless you have given your express consent. If you have consented to receive marketing, you may opt out at any time by clicking on the unsubscribe link at the bottom of our emails, or by contacting us through this site. 
+
+If you have consented to receive marketing, we may occasionally contact you to ask if you would be prepared to help us with our market research, although participation is purely voluntary. 
+
+When you visit our site, we sometimes collect information that enables us to identify you and provide you with a more personalised service. We also aggregate statistics about our supporters to enable us to operate more effectively, but these statistics do not include information which can identify individuals. 
+
+## Disclosure Of Your Information
+
+We will keep your personal information confidential, and will not supply it to any third party without your consent, unless we are obliged or permitted by law to do so. 
+
+We sometimes use third parties to process your information on our behalf (for example, to process donations, send out mailings, or analyse data). However, we require them to keep your information secure and not to use it for their own business purposes. 
+
+Some of our service providers may be located outside Europe, such as the U.S. or Canada, and by providing personal information to us, you consent to your information being processed on our behalf in these countries.
+
+By providing personal information to us, you consent that we may transfer your information within Comic Relief’s group of companies, and that your personal information may be transferred to a third party in the event of a reorganisation or merger of Comic Relief. 
 
 ## Cookies
 
-Cookies are small pieces of information sent from our website to your computer to help us identify you quickly. Comic Relief uses cookies to help you use our site more effectively, to identify you when you visit our site, and to help us assess how our site is used. The Interactive Advertising Bureau provide in-depth information about cookies. Their website at [www.allaboutcookies.org](http://www.allaboutcookies.org/) also tells you how to remove cookies from your browser. Please note that if you remove our cookies, you may not be able to use our site as effectively.Users under 16If you are under 16, please get your parent/guardian’s permission before you provide personal information to us. Users under 16 without this consent should not provide us with personal information.
+Cookies are small pieces of information sent from our website to your computer to help us identify you quickly. Comic Relief uses cookies to help you use our site more effectively, to identify you when you visit our site, and to help us assess how our site is used. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
+
+The Interactive Advertising Bureau provides in-depth information about cookies. Their website at [www.allaboutcookies.org](http://www.allaboutcookies.org/) also tells you how to remove cookies from your browser. Please note that if you remove our cookies, you may not be able to use our site as effectively. 
+
+## Children
+
+If you are under 16, please make sure you have your parent or guardian's permission before you provide any personal information to us. Children under 16 must not provide us with personal information without this permission. 
+
+## Third Party Websites
+
+Our website may contain links to third party websites. This policy only applies to this site, so if you follow a link to a third party site, please make sure you read the privacy policy on that site. We do not accept any responsibility for third party sites. 
 
 ## Who We Are
 
 This website is owned and operated by Comic Relief of 89 Albert Embankment, London, SE1 7TP, UK. 
 
-Sport Relief is an initiative of Comic Relief, which is the operating name of Charity Projects, a charity registered in England & Wales with number 326568 and in Scotland with number SC039730, and a company limited by guarantee and registered in England with number 1806414. Comic Relief Limited is a subsidiary of Charity Projects and a limited company registered in England with number 1967154. Our registered offices are Hanover House, 14 Hanover Square, London W1S 1HP. Our VAT number is 773865187.
+Comic Relief is the operating name of Charity Projects, a charity registered in England & Wales with number 326568 and in Scotland with number SC039730, and a company limited by guarantee registered in England with number 1806414. Comic Relief Limited is a subsidiary of Charity Projects and a limited company registered in England with number 1967154. Our registered offices are Hanover House, 14 Hanover Square, London W1S 1HP. Our VAT number is 773865187.
+
+Any changes we make to this privacy policy will be posted on this page, so please check back from time to time. 
+
+Last updated: April 2011
