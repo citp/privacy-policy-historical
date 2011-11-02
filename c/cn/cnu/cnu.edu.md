@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnu.edu privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524105506id_/http%3A//www.cnu.edu/privacy/index.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnu.edu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102140227id_/http%3A//www.cnu.edu/privacy/index.asp) for the most accurate reproduction.*
 
 # Christopher Newport University
 
@@ -30,7 +30,7 @@ We contract with a third-party to act on our behalf to manage the application pr
 
 ##### Marketing Materials
 
-Visitors who submit information to Christopher Newport University Conferencing and Scheduling webpages, including registration for conferences, classes, programs or events, consent to use of their information for the purpose of sending information materials. This information includes name, mailing address, Email address, type of request / registration.
+Visitors who submit information to Christopher Newport University Conferencing and Scheduling webpages, including registration for conferences, classes, programs or events, consent to use of their information for the purpose of sending information materials. This information includes name, mailing address, e-mail address, type of request / registration.
 
 ##### Sharing your information
 
