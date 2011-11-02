@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606025013id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the varian.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103001106id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement - Legal Information - Varian
 
 [ ](http://www.truste.org/ivalidate.php?url=www.varian.com&sealid=102)
 
