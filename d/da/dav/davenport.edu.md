@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525063441id_/http%3A//www.davenport.edu/tabid/386/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davenport.edu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102131057id_/http%3A//www.davenport.edu/privacy-policy) for the most accurate reproduction.*
 
-# Davenport University > Home > Privacy Policy
+# Privacy Policy | Davenport University
 
 Davenport University is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Davenport University Website and governs data collection and usage. By using the Davenport University Website, you consent to the data practices described in this statement.
 
