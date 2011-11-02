@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2010-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101125203611id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onelogin.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102054608id_/http%3A//www.onelogin.com/privacy) for the most accurate reproduction.*
 
 # Single sign-on for the cloud and SaaS
 
@@ -36,4 +36,4 @@ OneLogin may assign or transfer this privacy policy, and your user account and r
 
 When you access and use the Service, you are subject to the OneLogin Terms of Service.
 
-© Copyright 2010 OneLogin, Inc. All rights reserved.
+© Copyright 2011 OneLogin, Inc. All rights reserved.
