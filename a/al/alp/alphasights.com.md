@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alphasights.com privacy policy that was archived on 2011-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110114214448id_/http%3A//alphasights.com/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphasights.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103002312id_/http%3A//alphasights.com/about/privacy_policy) for the most accurate reproduction.*
 
-# About: Privacy Policy — AlphaSights
+# 
 
 ## Privacy Policy
 
@@ -39,14 +39,14 @@ Apart from the disclosures in connection with the uses outlined in the section U
 
 The following provisions with regards to disclosure of information apply to Registered Users only:
 
-  * AlphaSights may disclose your information to Clients and Clients may, if required to do so by law or their compliance policies, disclose to third parties information regarding any Projects in which they and you participated (e.g. your name and your remuneration);
+  * AlphaSights may disclose your information to Clients and Clients may, if required to do so by law or their compliance policies, disclose to third parties information regarding any Projects in which they and you participated (e.g. your name and your renumeration);
   * AlphaSights may disclose your information to third parties including but not limited to current and former employers and companies that you have provided services to or contracted with, for the purpose of confirming any consents or approvals that you may need to be a Registered User or to participate in any Project(s);
   * AlphaSights may seek to verify your employment history and may seek to verify the duration and accurate invoicing and description of Projects you participate in;
   * AlphaSights may share your information with non-client third parties for the purpose of promoting our business by displaying your information on our Site(s) and any other marketing materials, subject to your right to opt-out, as provided in the Terms and Conditions.
 
 
 
-AlphaSights may disclose your information to Clients and Clients may, if required to do so by law or their compliance policies, disclose to third parties information regarding any Projects in which they and you participated (e.g. your name and your remuneration);Your Right to Know Your Stored Information, Keeping Your Information Current and Opt Out
+AlphaSights may disclose your information to Clients and Clients may, if required to do so by law or their compliance policies, disclose to third parties information regarding any Projects in which they and you participated (e.g. your name and your renumeration);Your Right to Know Your Stored Information, Keeping Your Information Current and Opt Out
 
 Individuals are entitled to request from AlphaSights their personal information being stored and processed. Individuals may request correction, deletion or blocking of any personal information which is incomplete, incorrect or has not been processed in compliance with this Privacy Policy or the applicable laws or object to direct contact by sending an email to privacy@alphasights.com. To the extent possible and reasonable, third parties that were provided with such information will be informed about any such request relating to correction, deletion or blocking. Please note that under applicable legislation AlphaSights is entitled to make provision of an Individual‟s personal information subject to proof of identity and a charge for complying with such requests.
 
@@ -68,4 +68,4 @@ We may change this Privacy Policy from time to time without notice and any such 
 
 ### Contact
 
-AlphaSights welcomes any comments, requests and queries relating to this Privacy Policy or our use of your information, which should be addressed to privacy@alphasights.com or The Legal Department, AlphaSights Ltd, Russell Chambers, The Piazza, Covent Garden, London, WC2E 8AA, United Kingdom of Great Britain and Northern Ireland.
+AlphaSights welcomes any comments, requests and queries relating to this Privacy Policy or our use of your information, which should be addressed to privacy@alphasights.com or The Legal Department, AlphaSights Ltd, 58 Davies Street, Mayfair, London, W1K 5JF, United Kingdom of Great Britain and Northern Ireland.
