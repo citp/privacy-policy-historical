@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patch.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430150708id_/http%3A//www.patch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patch.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102103827id_/http%3A//www.patch.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Patch
 
@@ -9,6 +9,13 @@ Patch Media Corporation ("Patch", "we" or "our") has created this consumer priva
 In order to register for the Service, or in connection with other uses of the Service, you may be asked to voluntarily provide us with certain personally identifiable information, such as your name and email address ("Personal Information"). We do not collect Personal Information from you unless you voluntarily provide it to us. 
 
 In addition, we may also collect non-personally identifiable information, such as demographic information, IP address, web pages viewed, referral/exiting pages, browser type, purchasing history, interaction with advertising and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). 
+
+###  Personal Information You May Voluntarily Provide to Advertisers 
+
+  * Email addresses submitted through ads on the Patch site will be shared with the advertiser so that they may contact you directly. 
+  * By providing your email address in this advertisement, you may receive promotional emails from the advertiser. 
+
+
 
 ##  Information Usage 
 
