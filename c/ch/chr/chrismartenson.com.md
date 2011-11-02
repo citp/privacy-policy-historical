@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chrismartenson.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818175059id_/http%3A//www.chrismartenson.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrismartenson.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010416id_/http%3A//www.chrismartenson.com/privacy) for the most accurate reproduction.*
 
-# Chris Martenson | Must Read - Privacy Policy - Must Read, Privacy Policy
+# Privacy Policy - Chris Martenson - Must Read, Privacy Policy
 
 **Last updated June 22, 2009**
 
