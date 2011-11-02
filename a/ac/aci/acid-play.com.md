@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the acid-play.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025080237id_/http%3A//acid-play.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acid-play.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144525id_/http%3A//www.acid-play.com/about/privacy) for the most accurate reproduction.*
 
-# Acid-Play - Privacy Policy
+# Privacy Policy
 
-Your privacy is important to us so we limit the information we keep about you.  
-
+Your privacy is important to us so we limit the information we keep about you.
 
 ### Information We Collect
 
 Acid-Play allows you to submit your views in the form of user reviews. Before submitting these user reviews we ask that you give your name. We will store and publicly display the name you enter. We suggest using an alias if you don't want personal information published.
 
-In order to provide you with a list of similar games for every game you view on Acid-Play, we collect and store a one way encoded version of your IP address when you view any review page. One way encoding ensures that your IP address can't be extracted from our database.  
-
+In order to provide you with a list of similar games for every game you view on Acid-Play, we collect and store a one way encoded version of your IP address when you view any review page. One way encoding ensures that your IP address can't be extracted from our database.
 
 ### Third Parties
 
