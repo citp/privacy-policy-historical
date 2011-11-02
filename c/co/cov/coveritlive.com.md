@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504094807id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coveritlive.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102070712id_/http%3A//www.coveritlive.com/index.php%3Foption%3Dcom_content%26task%3Dview%26id%3D47) for the most accurate reproduction.*
 
 # COVERITLIVE.COM - Privacy Policy
 
@@ -104,14 +104,14 @@ We reserve the right to change our Policy at any time. Non-material changes and 
 
 **Notice Required by Law.** In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with us at all times. 
 
-**Legal Notices.** For customer service matters (including questions relating to this Policy), you may email us at [legal@demandmedia.com.](mailto:legal@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: CoveritLive, Legal Department, 15801 NE 24th St. Bellevue, WA 98008. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you. 
+**Legal Notices.** For customer service matters (including questions relating to this Policy), you may email us at [legal@demandmedia.com.](mailto:legal@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: CoveritLive, Legal Department, 5808 Lake Washington Blvd. Suite 300, Kirkland, WA 98033. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and sending you an email to the email address that we have on record for you. 
 
 You can contact us at: 
 
 CoveritLive  
 Legal Department  
-15801 NE 24th St.  
-Bellevue, WA 98008
+5808 Lake Washington Blvd. Suite 300,   
+Kirkland, WA 98033
 
 Demand Media and CoveritLive are registered trademarks of Demand Media, Inc. in the United States and other countries. 
 
