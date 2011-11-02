@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the jumpoff.tv privacy policy that was archived on 2010-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101118033039id_/http%3A//jumpoff.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jumpoff.tv privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102011418id_/http%3A//jumpoff.tv/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <meta name="keywords" content="hip hop, rap, street dance, dance, booty, battle, jump off, mc battle, hip hop news, hip hop lyrics,spin the mic, dance madness, world rap championships, the jump off, street battles, community, jay z, eminem, rnb, events, booty">
   <meta name="description" content="Jump Off TV is a Hip Hop Media, Sports &amp; Entertainment destination, featuring original video programming, a social network and the latest news &amp; gossip.">
@@ -9,17 +9,17 @@
   <title>JumpOff.TV </title>
 
 <link rel="alternate" type="application/rss+xml" title="Jumpoff TV" href="http://jumpoff.tv/feed">
-<link href="http://jumpoff.tv/css/screen.css" rel="stylesheet" type="text/css">
-<link href="http://jumpoff.tv/css/dropdown/dropdown.linear.columnar.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://jumpoff.tv/css/jumpoff.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
-<script type="text/javascript" src="http://jumpoff.tv/js/jquery.bigtarget.1.0.1.js"></script>
-<script type="text/javascript" src="http://jumpoff.tv/js/jcarousellite_modified.js"></script>
-<script type="text/javascript" src="http://jumpoff.tv/js/jquery.flow.1.2.js"></script>
-<script type="text/javascript" src="http://jumpoff.tv/js/colorbox/jquery.colorbox-min.js"></script>
+<link href="http://jumpoff.tv/assets/css/screen.css" rel="stylesheet" type="text/css">
+<link href="http://jumpoff.tv/assets/css/dropdown/dropdown.linear.columnar.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://jumpoff.tv/assets/css/jumpoff.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"></script>
+<script type="text/javascript" src="http://jumpoff.tv/assets/js/jquery.bigtarget.1.0.1.js"></script>
+<script type="text/javascript" src="http://jumpoff.tv/assets/js/jcarousellite_modified.js"></script>
+<script type="text/javascript" src="http://jumpoff.tv/assets/js/colorbox/jquery.colorbox-min.js"></script>
 <script type="text/javascript" src="http://twitter-friends-widget.googlecode.com/files/jquery.twitter-friends-1.0.min.js"></script>
-<link href="http://jumpoff.tv/js/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+<link href="http://jumpoff.tv/assets/js/colorbox/colorbox.css" rel="stylesheet" type="text/css">
+
 
 
 
@@ -29,19 +29,26 @@
 $(document).ready(function(){
 // Make flash content not appear above lightbox style popups
 
+$(document).bind('cbox_open', function(){
+    $('object, embed').css({'visibility':'hidden'});
+}).bind('cbox_closed', function(){
 
+    $('object, embed').css({'visibility':'inherit'});
+
+}); 
 
 //
 
 //$('a.lightbox1').colorbox({iframe:true, innerWidth:760, innerHeight:600});
 
-	var searchBoxDefault = "Search...";
+   var searchBoxDefault = "Search...";
 $("#keywords").focus(function(){
-		if($(this).attr("value") == searchBoxDefault) $(this).attr("value", "");
-	});
-	$("#keywords").blur(function(){
-		if($(this).attr("value") == "") $(this).attr("value", searchBoxDefault);
-	});
+      if($(this).attr("value") == searchBoxDefault) $(this).attr("value", "");
+   });
+   $("#keywords").blur(function(){
+      if($(this).attr("value") == "") $(this).attr("value", searchBoxDefault);
+   });
+
 
 
   $("ul.bigTarget .title h3 a").bigTarget({
@@ -57,6 +64,8 @@ $("#featured-slider").jCarouselLite({
     scroll: 2,
     circular: false
 });
+
+
 });
 </script>
 
@@ -87,57 +96,67 @@ GA_googleFetchAds();
 
 </head>
 <body>
+<div id="jumpoff-network">
+<ul>
+<li class="active"><a href="http://jumpoff.tv/" title="JumpOff TV U.S.">JumpOff TV</a></li>
+<li><a href="http://uk.jumpoff.tv/" title="JumpOff TV UK">JumpOff TV UK</a></li>
+<li><a href="http://rapgladiators.com/" title="Rap Gladiators">Rap Gladiators</a></li>
+</ul>
+<img src="http://jumpoff.tv/assets/images/theme/logo-network.png" width="145" height="21" alt="JumpOff.tv" id="network-logo">
+</div>
 
 
-<div id="wrapper" style="background: #000000 url('/images/ads/jo_wrap_Jay_Kanye.jpg') center top no-repeat;">
 
-<div id="wrapper" style="background: #000000 url('/images/ads/jo_wrap_Jay_Niki_Drake.jpg') center top no-repeat;">
 
-<div id="wrapper" style="background: #000000 url('/images/ads/JOTV_PageWrap_RapStars_CY.jpg') center top no-repeat;">
+<div id="wrapper" style="background: #000000 url('http://jumpoff.tv/assets/images/ads/JOTV_PageWrap_Hostesses10.jpg') center top no-repeat;">
+
 
 
   <div id="page" class="clearfix">
     <div id="header" class="clearfix">
       <div class="wrapper">
  
-       <h1 id="logo"><a href="http://jumpoff.tv/" title="JumpOff.tv"><img src="http://jumpoff.tv/images/theme/logo.png" width="332" height="48" alt="JumpOff.tv"></a></h1>
- 
+       <h1 id="logo"><a href="http://jumpoff.tv/" title="JumpOff.tv"><img src="http://jumpoff.tv/assets/images/theme/logo.png" width="332" height="48" alt="JumpOff.tv"></a></h1>
+
+ 	<ul id="menu-country">
+		<li id="menu-country-us" class="active"><a href="http://jumpoff.tv/" title="U.S.">US</a></li>
+		<li id="menu-country-uk"><a href="http://uk.jumpoff.tv/" title="UK">UK</a></li>
+ 	</ul>
+
        <ul id="menu-minor">
           <li><a href="http://jumpoff.tv/" title="Home">Home</a></li>
-          <li><a href="http://jumpoff.tv/subscribe/" title="Subscribe">Subscribe</a></li>
-          <li class="last"><a href="http://jumpoff.tv/contact/" title="Contact">Contact Us</a></li>
+          <li><a href="http://jumpoff.tv/subscribe" title="Subscribe">Subscribe</a></li>
+          <li class="last"><a href="http://jumpoff.tv/contact" title="Contact">Contact Us</a></li>
         </ul><!-- end menu-minor -->
- 
        <ul id="menu-social" class="menu-social">
           <h2>Subscribe and follow:</h2>
-          <li id="menu-social-youtube"><a href="http://www.youtube.com/user/jumpoff" title="YouTube"><img src="http://jumpoff.tv/images/theme/social-youtube.png" width="32" height="32" alt="YouTube"></a></li>
-          <li id="menu-social-twitter"><a href="http://twitter.com/jumpoffTV" title="Twitter"><img src="http://jumpoff.tv/images/theme/social-twitter.png" width="32" height="32" alt="Twitter"></a></li>
-          <!-- <li id="menu-social-myspace"><a href="http://www.myspace.com/jumpofftv" title="MySpace"><img src="http://jumpoff.tv/images/theme/social-myspace.png" width="32" height="32" alt="MySpace" /></a></li> -->
-          <li id="menu-social-facebook"><a href="http://www.facebook.com/JumpOffTV" title="Facebook"><img src="http://jumpoff.tv/images/theme/social-facebook.png" width="32" height="32" alt="Facebook"></a></li>
-          <li id="menu-social-rss"><a href="http://jumpoff.tv/feed/" title="RSS"><img src="http://jumpoff.tv/images/theme/social-rss.png" width="32" height="32" alt="RSS"></a></li>
-        </ul><!-- end menu-social-->
+<li id="menu-social-youtube"><a href="http://www.youtube.com/user/jumpoff" title="YouTube"><img src="http://jumpoff.tv/assets/images/theme/social-youtube.png" width="32" height="32" alt="YouTube"></a></li>
+          <li id="menu-social-twitter"><a href="http://twitter.com/jumpoffTV" title="Twitter"><img src="http://jumpoff.tv/assets/images/theme/social-twitter.png" width="32" height="32" alt="Twitter"></a></li>
+          <!-- <li id="menu-social-myspace"><a href="http://www.myspace.com/jumpofftv" title="MySpace"><img src="http://jumpoff.tv/assets/images/theme/social-myspace.png" width="32" height="32" alt="MySpace" /></a></li> -->
+          <li id="menu-social-facebook"><a href="http://www.facebook.com/JumpOffTV" title="Facebook"><img src="http://jumpoff.tv/assets/images/theme/social-facebook.png" width="32" height="32" alt="Facebook"></a></li>
+          <li id="menu-social-rss"><a href="http://jumpoff.tv/feed/" title="RSS"><img src="http://jumpoff.tv/assets/images/theme/social-rss.png" width="32" height="32" alt="RSS"></a></li>
+
+
+                  </ul><!-- end menu-social-->
 
         <div id="search">
-          <form method="post" action="http://jumpoff.tv/">
+	  
+
+<form method="post" action="http://jumpoff.tv/">
 <div class="hiddenFields">
-<input type="hidden" name="ACT" value="19">
-<input type="hidden" name="XID" value="">
-<input type="hidden" name="RP" value="search&amp;#47;results">
-<input type="hidden" name="NRP" value="search&amp;#47;noresults">
-<input type="hidden" name="RES" value="48">
-<input type="hidden" name="status" value="open|featured">
-<input type="hidden" name="weblog" value="posts|posts_shows">
-<input type="hidden" name="search_in" value="everywhere">
-<input type="hidden" name="where" value="all">
+<input type="hidden" name="ACT" value="89">
+<input type="hidden" name="RP" value="search/results">
 <input type="hidden" name="site_id" value="1">
 </div>
 
 
-            <div class="wrapper">
-              <input type="text" name="keywords" id="keywords" title="Search" value="Search..." size="18" maxlength="100">
-              <button type="submit">Search</button>
-            </div>
-          </form>
+<div class="wrapper">
+    <input type="text" name="keywords" id="keywords" title="Search" value="Search..." size="18" maxlength="100">
+    <button type="submit">Search</button>
+ </div>
+</form>
+
+      
         </div><!-- end search -->
 
         <div id="ad-header">
@@ -154,41 +173,41 @@ GA_googleFillSlot("jumpofftv_leader");
         </div><!-- end ad-header --> 
 
         <ul id="menu-major" class="dropdown dropdown-linear dropdown-columnar">
-          <li><a href="http://jumpoff.tv/shows/">Shows</a>
+          <li><a href="http://jumpoff.tv/shows">Shows</a>
             <ul class="subheader">
               <li class="dir"><span class="title">Active</span>
                 
-                <ul class="col">                  <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report/" title="The Friday Hip Hop Report">The Friday Hip Hop Report</a></li>
+                <ul class="col">                  <li><a href="http://jumpoff.tv/shows/view/being-charlie-sloth" title="Being Charlie Sloth">Being Charlie Sloth</a></li>
                               
                                 
-                                  <li><a href="http://jumpoff.tv/shows/view/the-next-48-hours/" title="The Next 48 Hours">The Next 48 Hours</a></li>
+                                  <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report" title="The Friday Hip Hop Report">The Friday Hip Hop Report</a></li>
+                              
+                                
+                                  <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report-uk" title="The Friday Hip Hop Report UK">The Friday Hip Hop Report UK</a></li>
+                              
+                                
+                                  <li><a href="http://jumpoff.tv/shows/view/the-next-48-hours" title="The Next 48 Hours">The Next 48 Hours</a></li>
                               
                 </ul>                
               </li>
               <li class="dir"><span class="title">Coming Soon</span>
                 <ul class="col">
                   
-                <ul class="col">                  <li><a href="http://jumpoff.tv/shows/view/cut-the-check/" title="Cut The Check">Cut The Check</a></li>
-                              
-                </ul>                  
                 </ul>
               </li>
               <li class="dir"><span class="title">Off Season</span>
                 <ul class="col">
                   
-                <ul class="col">                  <li><a href="http://jumpoff.tv/shows/view/being-charlie-sloth/" title="Being Charlie Sloth">Being Charlie Sloth</a></li>
+                <ul class="col">                  <li><a href="http://jumpoff.tv/shows/view/dance-madness" title="Dance Madness">Dance Madness</a></li>
                               
                                   
-                                  <li><a href="http://jumpoff.tv/shows/view/dance-madness/" title="Dance Madness">Dance Madness</a></li>
+                                  <li><a href="http://jumpoff.tv/shows/view/spin-the-mic" title="Spin The Mic">Spin The Mic</a></li>
                               
                                   
-                                  <li><a href="http://jumpoff.tv/shows/view/spin-the-mic/" title="Spin The Mic">Spin The Mic</a></li>
+                                  <li><a href="http://jumpoff.tv/shows/view/the-jump-off" title="The Jump Off">The Jump Off</a></li>
                               
                                   
-                                  <li><a href="http://jumpoff.tv/shows/view/the-jump-off/" title="The Jump Off">The Jump Off</a></li>
-                              
-                                  
-                                  <li><a href="http://jumpoff.tv/shows/view/world-rap-championships/" title="World Rap Championships">World Rap Championships</a></li>
+                                  <li><a href="http://jumpoff.tv/shows/view/world-rap-championships" title="World Rap Championships">World Rap Championships</a></li>
                               
                 </ul>                  
                 </ul>
@@ -197,9 +216,11 @@ GA_googleFillSlot("jumpofftv_leader");
           </li>
 
 
+
         </ul><!-- end menu-major -->
       </div><!-- end wrapper -->
     </div><!-- end header -->
+ 
 
 <div class="content col-two">
 
@@ -238,20 +259,24 @@ GA_googleFillSlot("jumpofftv_leader");
 <div class="aside">
 <div class="section section-widget">
 
-            
-                              <!-- ca-pub-4179732712171544/jumpofftv_mpu_sb_top -->
-<script type="text/javascript">
-GA_googleFillSlot("jumpofftv_mpu_sb_top");
-</script>
-
-                          
         
+                      <!-- ca-pub-4179732712171544/jumpofftv_mpu_featured -->
+<script type="text/javascript">
+GA_googleFillSlot("jumpofftv_mpu_featured");
+</script>
+                  
+    
 </div>
+
+
+
 <div class="section section-widget">
-<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_GB"></script><script type="text/javascript">FB.init("61ffa2b92530e4d4f499da29e52ad8e6");</script><fb:fan profile_id="5806539757" stream="0" connections="10" logobar="1" width="300"></fb:fan>
+<h3>Followers</h3>
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_GB"></script>
+<script type="text/javascript">FB.init("61ffa2b92530e4d4f499da29e52ad8e6");</script>
+<fb:fan profile_id="5806539757" stream="0" connections="10" logobar="1" width="300"></fb:fan>
 
-
-<img src="http://jumpoff.tv/images/theme/twitter_logostrip.gif">
+<img src="http://jumpoff.tv/assets/images/theme/twitter_logostrip.gif">
 <div class="twitter-friends" options="{
    username:'jumpofftv'
    ,friends:0
@@ -259,7 +284,7 @@ GA_googleFillSlot("jumpofftv_mpu_sb_top");
    ,tweet_date:1
    ,tweet_source:0
    ,tweet_stay:8000
-   ,header:'<a href=\'_tp_\' title=\'follow me\'><img src=\'_ti_\'/></a><h2> _fo_ Followers</h2>  &nbsp; &nbsp; <a href=\'_tp_\'><img src=http://jumpoff.tv/images/theme/twitter_follow.png></a>'
+   ,header:'<a href=\'_tp_\' title=\'follow me\'><img src=\'_ti_\'/></a><h2> _fo_ Followers</h2>  &nbsp; &nbsp; <a href=\'_tp_\'><img src=http://jumpoff.tv/assets/images/theme/twitter_follow.png></a>'
    ,loop:0
    ,user_link:0
    ,user_image:42
@@ -271,11 +296,761 @@ GA_googleFillSlot("jumpofftv_mpu_sb_top");
 
 </div>
 <div class="section section-widget">
+
+            
+                              <!-- ca-pub-4179732712171544/jumpofftv_mpu_sb_top -->
+<script type="text/javascript">
+GA_googleFillSlot("jumpofftv_mpu_sb_top");
+</script>
+
+                          
+        
+</div>
+
+
+<div class="section section-widget">
+<a href="http://jumpoff.tv/subscribe/" style="display:block; margin:0px; padding:0px"><img src="http://jumpoff.tv/assets/images/ads/300x60_subscribe_1.gif" border="0" style="display:block; margin:0px; padding:0px"></a>
+<!-- Begin MailChimp Signup Form -->
+<!--[if IE]>
+<style type="text/css" media="screen">
+	#mc_embed_signup fieldset {position: relative;}
+	#mc_embed_signup legend {position: absolute; top: -1em; left: .2em;}
+#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 5px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }</style>
+<![endif]--> 
+<!--[if IE 7]>
+<style type="text/css" media="screen">
+	.mc-field-group {overflow:visible;}
+#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }#cp_sitename{
+  border-right:1px solid #3D525F;
+  color:#dadada;
+  font-size:14px;
+  float:left;
+  padding:2px 10px 2px 0;
+  margin:2px 10px 0 0;
+}
+#server-time{padding-bottom:9px}
+/* Float the EE link left */
+div.helpLinksLeft p{color:#fff;}
+div.helpLinksLeft a { padding-top: 7px; display: block; float: left; }</style>
+<![endif]-->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.2.6/jquery.min.js"></script>
+<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.form.js"></script>
+
+<div id="mc_embed_signup" style="width: 300px;">
+<form action="http://jumpoff.us2.list-manage.com/subscribe/post?u=1d0c8e1135d77edf08cf3c227&amp;id=f62e327c12" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" style="font: normal 100% Arial, sans-serif;font-size: 10px;">
+	<fieldset style="-moz-border-radius: 4px;border-radius: 4px;-webkit-border-radius: 4px;border: 1px solid #000000;padding-top: 1.5em;margin: 0em 0;background-color: #d3d3d3;color: #000;text-align: left;">
+	
+<div class="mc-field-group" style="margin: 1.3em 5%;clear: both;overflow: hidden;">
+<label for="mce-EMAIL" style="display: block;margin: .3em 0;line-height: 1em;font-weight: bold;">Email Address </label>
+<input type="text" value="" name="EMAIL" class="required email" id="mce-EMAIL" style="margin-right: 1.5em;padding: .2em .3em;width: 90%;float: left;z-index: 999;">
+</div>
+<div class="mc-field-group" style="margin: 1.3em 5%;clear: both;overflow: hidden;">
+<label for="mce-NAME" style="display: block;margin: .3em 0;line-height: 1em;font-weight: bold;">Name </label>
+<input type="text" value="" name="NAME" class="required" id="mce-NAME" style="margin-right: 1.5em;padding: .2em .3em;width: 90%;float: left;z-index: 999;">
+</div>
+<div class="mc-field-group" style="margin: 1.3em 5%;clear: both;overflow: hidden;">
+<label for="mce-COUNTRY" style="display: block;margin: .3em 0;line-height: 1em;font-weight: bold;">Country </label>
+<select name="COUNTRY" class="required" id="mce-COUNTRY" style="margin-right: 1.5em;padding: .2em .3em;width: 90%;float: left;z-index: 999;">
+<option value="select">select</option>
+<option value="United States of America">United States of America</option>
+<option value="England">England</option>
+<option value="Aaland Islands">Aaland Islands</option>
+<option value="Afghanistan">Afghanistan</option>
+<option value="Albania">Albania</option>
+<option value="Algeria">Algeria</option>
+<option value="American Samoa">American Samoa</option>
+<option value="Andorra">Andorra</option>
+<option value="Angola">Angola</option>
+<option value="Anguilla">Anguilla</option>
+<option value="Anguilla">Anguilla</option>
+<option value="Antarctica">Antarctica</option>
+<option value="Antigua And Barbuda">Antigua And Barbuda</option>
+<option value="Argentina">Argentina</option>
+<option value="Armenia">Armenia</option>
+<option value="Aruba">Aruba</option>
+<option value="Australia">Australia</option>
+<option value="Austria">Austria</option>
+<option value="Azerbaijan">Azerbaijan</option>
+<option value="Bahamas">Bahamas</option>
+<option value="Bahrain">Bahrain</option>
+<option value="Bangladesh">Bangladesh</option>
+<option value="Barbados">Barbados</option>
+<option value="Belarus">Belarus</option>
+<option value="Belgium">Belgium</option>
+<option value="Belize">Belize</option>
+<option value="Benin">Benin</option>
+<option value="Bermuda">Bermuda</option>
+<option value="Bhutan">Bhutan</option>
+<option value="Bolivia">Bolivia</option>
+<option value="Bosnia and Herzegovina">Bosnia and Herzegovina</option>
+<option value="Botswana">Botswana</option>
+<option value="Bouvet Island">Bouvet Island</option>
+<option value="Brazil">Brazil</option>
+<option value="British Indian Ocean Territory">British Indian Ocean Territory</option>
+<option value="Brunei Darussalam">Brunei Darussalam</option>
+<option value="Bulgaria">Bulgaria</option>
+<option value="Burkina Faso">Burkina Faso</option>
+<option value="Burundi">Burundi</option>
+<option value="Cambodia">Cambodia</option>
+<option value="Cameroon">Cameroon</option>
+<option value="Canada">Canada</option>
+<option value="Cape Verde">Cape Verde</option>
+<option value="Cayman Islands">Cayman Islands</option>
+<option value="Central African Republic">Central African Republic</option>
+<option value="Chad">Chad</option>
+<option value="Chile">Chile</option>
+<option value="China">China</option>
+<option value="Christmas Island">Christmas Island</option>
+<option value="Cocos (Keeling) Islands">Cocos (Keeling) Islands</option>
+<option value="Colombia">Colombia</option>
+<option value="Comoros">Comoros</option>
+<option value="Congo">Congo</option>
+<option value="Cook Islands">Cook Islands</option>
+<option value="Costa Rica">Costa Rica</option>
+<option value="Costa Rica">Costa Rica</option>
+<option value="Cote D'Ivoire">Cote D'Ivoire</option>
+<option value="Croatia">Croatia</option>
+<option value="Cuba">Cuba</option>
+<option value="Cyprus">Cyprus</option>
+<option value="Czech Republic">Czech Republic</option>
+<option value="Denmark">Denmark</option>
+<option value="Djibouti">Djibouti</option>
+<option value="Dominica">Dominica</option>
+<option value="Dominica">Dominica</option>
+<option value="Dominican Republic">Dominican Republic</option>
+<option value="East Timor">East Timor</option>
+<option value="Ecuador">Ecuador</option>
+<option value="Egypt">Egypt</option>
+<option value="El Salvador">El Salvador</option>
+<option value="Equatorial Guinea">Equatorial Guinea</option>
+<option value="Eritrea">Eritrea</option>
+<option value="Estonia">Estonia</option>
+<option value="Ethiopia">Ethiopia</option>
+<option value="Falkland Islands">Falkland Islands</option>
+<option value="Faroe Islands">Faroe Islands</option>
+<option value="Fiji">Fiji</option>
+<option value="Finland">Finland</option>
+<option value="France">France</option>
+<option value="French Guiana">French Guiana</option>
+<option value="French Polynesia">French Polynesia</option>
+<option value="French Southern Territories">French Southern Territories</option>
+<option value="Gabon">Gabon</option>
+<option value="Gambia">Gambia</option>
+<option value="Germany">Germany</option>
+<option value="Ghana">Ghana</option>
+<option value="Gibraltar">Gibraltar</option>
+<option value="Greece">Greece</option>
+<option value="Greenland">Greenland</option>
+<option value="Grenada">Grenada</option>
+<option value="Guadeloupe">Guadeloupe</option>
+<option value="Guam">Guam</option>
+<option value="Guatemala">Guatemala</option>
+<option value="Guernsey">Guernsey</option>
+<option value="Guinea">Guinea</option>
+<option value="Guinea-Bissau">Guinea-Bissau</option>
+<option value="Guyana">Guyana</option>
+<option value="Haiti">Haiti</option>
+<option value="Heard and Mc Donald Islands">Heard and Mc Donald Islands</option>
+<option value="Honduras">Honduras</option>
+<option value="Hong Kong">Hong Kong</option>
+<option value="Hungary">Hungary</option>
+<option value="Iceland">Iceland</option>
+<option value="India">India</option>
+<option value="Indonesia">Indonesia</option>
+<option value="Iran">Iran</option>
+<option value="Iraq">Iraq</option>
+<option value="Ireland">Ireland</option>
+<option value="Israel">Israel</option>
+<option value="Italy">Italy</option>
+<option value="Jamaica">Jamaica</option>
+<option value="Japan">Japan</option>
+<option value="Jersey  (Channel Islands)">Jersey  (Channel Islands)</option>
+<option value="Jordan">Jordan</option>
+<option value="Kazakhstan">Kazakhstan</option>
+<option value="Kenya">Kenya</option>
+<option value="Kiribati">Kiribati</option>
+<option value="Kuwait">Kuwait</option>
+<option value="Kuwait">Kuwait</option>
+<option value="Kyrgyzstan">Kyrgyzstan</option>
+<option value="Lao People's Democratic Republic">Lao People's Democratic Republic</option>
+<option value="Latvia">Latvia</option>
+<option value="Lebanon">Lebanon</option>
+<option value="Lesotho">Lesotho</option>
+<option value="Liberia">Liberia</option>
+<option value="Libya">Libya</option>
+<option value="Liechtenstein">Liechtenstein</option>
+<option value="Lithuania">Lithuania</option>
+<option value="Luxembourg">Luxembourg</option>
+<option value="Macau">Macau</option>
+<option value="Macedonia">Macedonia</option>
+<option value="Madagascar">Madagascar</option>
+<option value="Malawi">Malawi</option>
+<option value="Malaysia">Malaysia</option>
+<option value="Maldives">Maldives</option>
+<option value="Mali">Mali</option>
+<option value="Malta">Malta</option>
+<option value="Marshall Islands">Marshall Islands</option>
+<option value="Martinique">Martinique</option>
+<option value="Mauritania">Mauritania</option>
+<option value="Mauritius">Mauritius</option>
+<option value="Mayotte">Mayotte</option>
+<option value="Mexico">Mexico</option>
+<option value="Micronesia, Federated States of">Micronesia, Federated States of</option>
+<option value="Moldova, Republic of">Moldova, Republic of</option>
+<option value="Monaco">Monaco</option>
+<option value="Mongolia">Mongolia</option>
+<option value="Montenegro">Montenegro</option>
+<option value="Montserrat">Montserrat</option>
+<option value="Morocco">Morocco</option>
+<option value="Mozambique">Mozambique</option>
+<option value="Myanmar">Myanmar</option>
+<option value="Namibia">Namibia</option>
+<option value="Nauru">Nauru</option>
+<option value="Nepal">Nepal</option>
+<option value="Netherlands">Netherlands</option>
+<option value="Netherlands Antilles">Netherlands Antilles</option>
+<option value="New Caledonia">New Caledonia</option>
+<option value="New Zealand">New Zealand</option>
+<option value="Nicaragua">Nicaragua</option>
+<option value="Niger">Niger</option>
+<option value="Nigeria">Nigeria</option>
+<option value="Niue">Niue</option>
+<option value="Norfolk Island">Norfolk Island</option>
+<option value="North Korea">North Korea</option>
+<option value="Northern Ireland">Northern Ireland</option>
+<option value="Northern Mariana Islands">Northern Mariana Islands</option>
+<option value="Norway">Norway</option>
+<option value="Oman">Oman</option>
+<option value="Pakistan">Pakistan</option>
+<option value="Palau">Palau</option>
+<option value="Palestine">Palestine</option>
+<option value="Panama">Panama</option>
+<option value="Papua New Guinea">Papua New Guinea</option>
+<option value="Paraguay">Paraguay</option>
+<option value="Peru">Peru</option>
+<option value="Philippines">Philippines</option>
+<option value="Pitcairn">Pitcairn</option>
+<option value="Poland">Poland</option>
+<option value="Portugal">Portugal</option>
+<option value="Puerto Rico">Puerto Rico</option>
+<option value="Qatar">Qatar</option>
+<option value="Republic of Georgia">Republic of Georgia</option>
+<option value="Reunion">Reunion</option>
+<option value="Romania">Romania</option>
+<option value="Russia">Russia</option>
+<option value="Russia">Russia</option>
+<option value="Rwanda">Rwanda</option>
+<option value="Saint Kitts and Nevis">Saint Kitts and Nevis</option>
+<option value="Saint Lucia">Saint Lucia</option>
+<option value="Saint Vincent and the Grenadines">Saint Vincent and the Grenadines</option>
+<option value="Samoa (Independent)">Samoa (Independent)</option>
+<option value="San Marino">San Marino</option>
+<option value="Sao Tome and Principe">Sao Tome and Principe</option>
+<option value="Saudi Arabia">Saudi Arabia</option>
+<option value="Scotland">Scotland</option>
+<option value="Senegal">Senegal</option>
+<option value="Serbia">Serbia</option>
+<option value="Serbia">Serbia</option>
+<option value="Seychelles">Seychelles</option>
+<option value="Sierra Leone">Sierra Leone</option>
+<option value="Singapore">Singapore</option>
+<option value="Slovakia">Slovakia</option>
+<option value="Slovenia">Slovenia</option>
+<option value="Solomon Islands">Solomon Islands</option>
+<option value="Somalia">Somalia</option>
+<option value="South Africa">South Africa</option>
+<option value="South Georgia and the South Sandwich Islands">South Georgia and the South Sandwich Islands</option>
+<option value="South Korea">South Korea</option>
+<option value="South Korea">South Korea</option>
+<option value="Spain">Spain</option>
+<option value="Sri Lanka">Sri Lanka</option>
+<option value="St. Helena">St. Helena</option>
+<option value="St. Pierre and Miquelon">St. Pierre and Miquelon</option>
+<option value="Sudan">Sudan</option>
+<option value="Suriname">Suriname</option>
+<option value="Svalbard and Jan Mayen Islands">Svalbard and Jan Mayen Islands</option>
+<option value="Swaziland">Swaziland</option>
+<option value="Sweden">Sweden</option>
+<option value="Switzerland">Switzerland</option>
+<option value="Syria">Syria</option>
+<option value="Taiwan">Taiwan</option>
+<option value="Tajikistan">Tajikistan</option>
+<option value="Tanzania">Tanzania</option>
+<option value="Thailand">Thailand</option>
+<option value="Togo">Togo</option>
+<option value="Tokelau">Tokelau</option>
+<option value="Tonga">Tonga</option>
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option value="Trinidad and Tobago">Trinidad and Tobago</option>
+<option value="Tunisia">Tunisia</option>
+<option value="Turkey">Turkey</option>
+<option value="Turkmenistan">Turkmenistan</option>
+<option value="Turks &amp; Caicos Islands">Turks &amp; Caicos Islands</option>
+<option value="Turks and Caicos Islands">Turks and Caicos Islands</option>
+<option value="Tuvalu">Tuvalu</option>
+<option value="Uganda">Uganda</option>
+<option value="Ukraine">Ukraine</option>
+<option value="United Arab Emirates">United Arab Emirates</option>
+<option value="Uruguay">Uruguay</option>
+<option value="USA Minor Outlying Islands">USA Minor Outlying Islands</option>
+<option value="Uzbekistan">Uzbekistan</option>
+<option value="Vanuatu">Vanuatu</option>
+<option value="Vatican City State (Holy See)">Vatican City State (Holy See)</option>
+<option value="Venezuela">Venezuela</option>
+<option value="Vietnam">Vietnam</option>
+<option value="Virgin Islands (British)">Virgin Islands (British)</option>
+<option value="Virgin Islands (U.S.)">Virgin Islands (U.S.)</option>
+<option value="Wales">Wales</option>
+<option value="Wallis and Futuna Islands">Wallis and Futuna Islands</option>
+<option value="Western Sahara">Western Sahara</option>
+<option value="Yemen">Yemen</option>
+<option value="Zaire">Zaire</option>
+<option value="Zambia">Zambia</option>
+<option value="Zimbabwe">Zimbabwe</option>
+
+</select>
+</div>
+		<div id="mce-responses" style="float: left;top: -1.4em;padding: 0em .5em 0em .5em;overflow: hidden;width: 90%;margin: 0 5%;clear: both;">
+			<div class="response" id="mce-error-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: FBE3E4;color: #D12F19;"></div>
+			<div class="response" id="mce-success-response" style="display: none;margin: 1em 0;padding: 1em .5em .5em 0;font-weight: bold;float: left;top: -1.5em;z-index: 1;width: 80%;background: #E3FBE4;color: #529214;"></div>
+		</div>
+		<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn" style="clear: both;width: auto;display: block;margin: 1em 0 1em 5%;"></div>
+	</fieldset>	
+	<a href="#" id="mc_embed_close" class="mc_embed_close" style="display: none;">Close</a>
+</form>
+</div>
+<script type="text/javascript">
+var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='NAME';ftypes[1]='text';fnames[2]='SEX';ftypes[2]='dropdown';fnames[3]='YOB';ftypes[3]='dropdown';fnames[4]='COUNTRY';ftypes[4]='dropdown';fnames[5]='STATE';ftypes[5]='dropdown';fnames[6]='CITY';ftypes[6]='text';var err_style = '';
+try{
+    err_style = mc_custom_error_style;
+} catch(e){
+    err_style = 'margin: 1em 0 0 0; padding: 1em 0.5em 0.5em 0.5em; background: FFEEEE none repeat scroll 0% 0%; font-weight: bold; float: left; z-index: 1; width: 80%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; color: FF0000;';
+}
+var mce_jQuery = jQuery.noConflict(true);
+mce_jQuery(document).ready( function($) {
+  var options = { errorClass: 'mce_inline_error', errorElement: 'div', errorStyle: err_style, onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}};
+  var mce_validator = mce_jQuery("#mc-embedded-subscribe-form").validate(options);
+  options = { url: 'http://jumpoff.us2.list-manage1.com/subscribe/post-json?u=1d0c8e1135d77edf08cf3c227&id=f62e327c12&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+                beforeSubmit: function(){
+                    mce_jQuery('#mce_tmp_error_msg').remove();
+                    mce_jQuery('.datefield','#mc_embed_signup').each(
+                        function(){
+                            var txt = 'filled';
+                            var fields = new Array();
+                            var i = 0;
+                            mce_jQuery(':text', this).each(
+                                function(){
+                                    fields[i] = this;
+                                    i++;
+                                });
+                            mce_jQuery(':hidden', this).each(
+                                function(){
+                                	if ( fields[0].value=='MM' && fields[1].value=='DD' && fields[2].value=='YYYY' ){
+                                		this.value = '';
+									} else if ( fields[0].value=='' && fields[1].value=='' && fields[2].value=='' ){
+                                		this.value = '';
+									} else {
+	                                    this.value = fields[0].value+'/'+fields[1].value+'/'+fields[2].value;
+	                                }
+                                });
+                        });
+                    return mce_validator.form();
+                }, 
+                success: mce_success_cb
+            };
+  mce_jQuery('#mc-embedded-subscribe-form').ajaxForm(options);
+
+});
+function mce_success_cb(resp){
+    mce_jQuery('#mce-success-response').hide();
+    mce_jQuery('#mce-error-response').hide();
+    if (resp.result=="success"){
+        mce_jQuery('#mce-'+resp.result+'-response').show();
+        mce_jQuery('#mce-'+resp.result+'-response').html(resp.msg);
+        mce_jQuery('#mc-embedded-subscribe-form').each(function(){this.reset();});
+    } else {
+        var index = -1;
+        var msg;
+        try {
+            var parts = resp.msg.split(' - ',2);
+            if (parts[1]==undefined){
+                msg = resp.msg;
+            } else {
+                i = parseInt(parts[0]);
+                if (i.toString() == parts[0]){
+                    index = parts[0];
+                    msg = parts[1];
+                } else {
+                    index = -1;
+                    msg = resp.msg;
+                }
+            }
+        } catch(e){
+            index = -1;
+            msg = resp.msg;
+        }
+        try{
+            if (index== -1){
+                mce_jQuery('#mce-'+resp.result+'-response').show();
+                mce_jQuery('#mce-'+resp.result+'-response').html(msg);            
+            } else {
+                err_id = 'mce_tmp_error_msg';
+                html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
+                
+                var input_id = '#mc_embed_signup';
+                var f = mce_jQuery(input_id);
+                if (ftypes[index]=='address'){
+                    input_id = '#mce-'+fnames[index]+'-addr1';
+                    f = mce_jQuery(input_id).parent().parent().get(0);
+                } else if (ftypes[index]=='date'){
+                    input_id = '#mce-'+fnames[index]+'-month';
+                    f = mce_jQuery(input_id).parent().parent().get(0);
+                } else {
+                    input_id = '#mce-'+fnames[index];
+                    f = mce_jQuery().parent(input_id).get(0);
+                }
+                if (f){
+                    mce_jQuery(f).append(html);
+                    mce_jQuery(input_id).focus();
+                } else {
+                    mce_jQuery('#mce-'+resp.result+'-response').show();
+                    mce_jQuery('#mce-'+resp.result+'-response').html(msg);
+                }
+            }
+        } catch(e){
+            mce_jQuery('#mce-'+resp.result+'-response').show();
+            mce_jQuery('#mce-'+resp.result+'-response').html(msg);
+        }
+    }
+}
+</script>
+<!--End mc_embed_signup-->
+</div>
+<div class="section section-widget">
   <ul class="activeshows">
             
                   
-                                          <li class="imagelink"><a href="http://jumpoff.tv/subscribe/"><img src="/images/ads/300x60_subscribe_1.gif" alt="advert"></a></li>
-                                      
                                           <li class="embedcode"><!-- ca-pub-4179732712171544/jumpofftv_brick1 -->
 <script type="text/javascript">
 GA_googleFillSlot("jumpofftv_brick1");
@@ -305,15 +1080,17 @@ GA_googleFillSlot("jumpofftv_brick5");
   </ul>
 </div>
 
-
-
 <div class="section section-widget">
         <h3>Active Shows</h3>
-<ul class="activeshows">
+         <ul class="activeshows">
           
-      <li><a href="http://jumpoff.tv/shows/view/the-next-48-hours/" "="" title="The Next 48 Hours"><img src="/images/shows/show_n48_300.png" alt="The Next 48 Hours"></a></li>
+      <li><a href="http://jumpoff.tv/shows/view/the-next-48-hours" "="" title="The Next 48 Hours"><img src="http://jumpoff.tv/assets/images/shows/show_n48_300.png" alt="The Next 48 Hours"></a></li>
       
-      <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report/" "="" title="The Friday Hip Hop Report"><img src="/images/shows/show_fhr_300_s3.png" alt="The Friday Hip Hop Report"></a></li>
+      <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report" "="" title="The Friday Hip Hop Report"><img src="http://jumpoff.tv/assets/images/shows/show_fhr_300_s3.png" alt="The Friday Hip Hop Report"></a></li>
+      
+      <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report-uk" "="" title="The Friday Hip Hop Report UK"><img src="http://jumpoff.tv/assets/images/posts/show_fhruk_s01_300.jpg" alt="The Friday Hip Hop Report UK"></a></li>
+      
+      <li><a href="http://jumpoff.tv/shows/view/being-charlie-sloth" "="" title="Being Charlie Sloth"><img src="http://jumpoff.tv/assets/images/shows/show_bcs_300.png" alt="Being Charlie Sloth"></a></li>
       
         </ul>
 </div>
@@ -327,13 +1104,15 @@ GA_googleFillSlot("jumpofftv_brick5");
         <div class="footer-col">
           <h3>Jump Off TV</h3>
           <ul>
-            <li><a href="/about" title="About">About</a></li>
-            <li><a href="/advertise" title="Advertise">Advertise</a></li>
-            <li><a href="/contact" title="Contact">Contact</a></li>
-            <li><a href="/faq" title="FAQs">FAQs</a></li>
-            <li><a href="/the-history" title="The History">The History</a></li>
-            <li><a href="/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
-            <li><a href="/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
+            <li><a href="http://jumpoff.tv/about" title="About">About</a></li>
+            <li><a href="http://jumpoff.tv/advertise" title="Advertise">Advertise</a></li>
+            <li><a href="http://jumpoff.tv/alumni" title="Alumni">Alumni</a></li>
+            <li><a href="http://jumpoff.tv/contact" title="Contact">Contact</a></li>
+            <li><a href="http://jumpoff.tv/faq" title="FAQs">FAQs</a></li>
+            <li><a href="http://jumpoff.tv/the-history" title="The History">The History</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/media-scrapbook" title="Media Scrapbook">Media Scrapbook</a></li>
+            <li><a href="http://jumpoff.tv/privacy-policy" title="Privacy Policy">Privacy Policy</a></li>
+            <li><a href="http://jumpoff.tv/terms-and-conditions" title="Terms &amp; Conditions">Terms &amp; Conditions</a></li>
           </ul>
         </div>
 
@@ -341,9 +1120,13 @@ GA_googleFillSlot("jumpofftv_brick5");
           <h3>Shows</h3>
           <ul>
             
-            <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report/" title="The Friday Hip Hop Report">The Friday Hip Hop Report</a></li>
+            <li><a href="http://jumpoff.tv/shows/view/being-charlie-sloth" title="Being Charlie Sloth">Being Charlie Sloth</a></li>
             
-            <li><a href="http://jumpoff.tv/shows/view/the-next-48-hours/" title="The Next 48 Hours">The Next 48 Hours</a></li>
+            <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report" title="The Friday Hip Hop Report">The Friday Hip Hop Report</a></li>
+            
+            <li><a href="http://jumpoff.tv/shows/view/the-friday-hip-hop-report-uk" title="The Friday Hip Hop Report UK">The Friday Hip Hop Report UK</a></li>
+            
+            <li><a href="http://jumpoff.tv/shows/view/the-next-48-hours" title="The Next 48 Hours">The Next 48 Hours</a></li>
             
           </ul>
         </div>
@@ -352,64 +1135,70 @@ GA_googleFillSlot("jumpofftv_brick5");
           <h3>Categories</h3>
           <ul>
             
-            <li><a href="http://jumpoff.tv/categories/view/beefin/" title="Beefin">Beefin</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/beefin" title="Beefin">Beefin</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/behind-the-scenes/" title="Behind The Scenes">Behind The Scenes</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/behind-the-scenes" title="Behind The Scenes">Behind The Scenes</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/blast-from-the-past/" title="Blast From The Past">Blast From The Past</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/blast-from-the-past" title="Blast From The Past">Blast From The Past</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/brandwatch/" title="Brandwatch">Brandwatch</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/brandwatch" title="Brandwatch">Brandwatch</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/celebrity-misfortune/" title="Celebrity Misfortune">Celebrity Misfortune</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/celebrity-misfortune" title="Celebrity Misfortune">Celebrity Misfortune</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/droppin-knowledge/" title="Droppin Knowledge">Droppin Knowledge</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/droppin-knowledge" title="Droppin Knowledge">Droppin Knowledge</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/girls-girls-girls/" title="Girls Girls Girls">Girls Girls Girls</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/girls-girls-girls" title="Girls Girls Girls">Girls Girls Girls</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/gossip-rumors/" title="Gossip &amp; Rumors">Gossip &amp; Rumors</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/gossip-rumors" title="Gossip &amp; Rumors">Gossip &amp; Rumors</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/haters/" title="Haters">Haters</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/haters" title="Haters">Haters</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/interviews/" title="Interviews">Interviews</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/interviews" title="Interviews">Interviews</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/law-order/" title="Law &amp; Order">Law &amp; Order</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/law-order" title="Law &amp; Order">Law &amp; Order</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/life-accessories/" title="Life Accessories">Life Accessories</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/life-accessories" title="Life Accessories">Life Accessories</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/live-performance/" title="Live Performance">Live Performance</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/live-performance" title="Live Performance">Live Performance</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/livin-large/" title="Livin Large">Livin Large</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/livin-large" title="Livin Large">Livin Large</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/lmfao/" title="LMFAO">LMFAO</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/lmfao" title="LMFAO">LMFAO</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/mixtapes/" title="Mixtapes">Mixtapes</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/mixtapes" title="Mixtapes">Mixtapes</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/music-videos/" title="Music Videos">Music Videos</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/music-videos" title="Music Videos">Music Videos</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/new-music/" title="New Music">New Music</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/new-music" title="New Music">New Music</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/pause/" title="Pause">Pause</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/pause" title="Pause">Pause</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/politics/" title="Politics">Politics</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/politics" title="Politics">Politics</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/power-moves/" title="Power Moves">Power Moves</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/power-moves" title="Power Moves">Power Moves</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/rest-in-peace/" title="Rest In Peace">Rest In Peace</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/rest-in-peace" title="Rest In Peace">Rest In Peace</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/shake-my-head/" title="Shake My Head">Shake My Head</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/shake-my-head" title="Shake My Head">Shake My Head</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/spoofs-parodies/" title="Spoofs &amp; Parodies">Spoofs &amp; Parodies</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/spoofs-parodies" title="Spoofs &amp; Parodies">Spoofs &amp; Parodies</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/sports/" title="Sports">Sports</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/sports" title="Sports">Sports</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/tv-film/" title="TV &amp; Film">TV &amp; Film</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/tv-film" title="TV &amp; Film">TV &amp; Film</a></li>
             
-            <li><a href="http://jumpoff.tv/categories/view/wtf-u-talkin-about/" title="WTF U Talkin About?">WTF U Talkin About?</a></li>
+            <li><a href="http://jumpoff.tv/categories/view/wtf-u-talkin-about" title="WTF U Talkin About?">WTF U Talkin About?</a></li>
             
           </ul>
         </div>
 
+		<ul class="menu-country">
+		<li class="menu-country-us active"><a href="http://jumpoff.tv/" title="U.S.">US</a></li>
+		<li class="menu-country-uk"><a href="http://uk.jumpoff.tv/" title="UK">UK</a></li>
+ 		</ul>
+
         <div id="ad-footer">
+
           
               
                 
@@ -420,8 +1209,9 @@ GA_googleFillSlot("jumpofftv_footer");
                                   
               
             
-
+            
         </div>
+
       </div><!-- end wrapper" -->
     </div><!-- end footer -->
 
@@ -443,4 +1233,5 @@ pageTracker._trackPageview();
 <!-- GOOGLE ANALYTICS -->
 
 
-</div></div></body></html>
+
+</body></html>
