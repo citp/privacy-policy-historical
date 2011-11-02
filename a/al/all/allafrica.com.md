@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023428id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allafrica.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012834id_/http%3A//allafrica.com/privacy.html) for the most accurate reproduction.*
 
 # allAfrica.com: Privacy Policy
 
