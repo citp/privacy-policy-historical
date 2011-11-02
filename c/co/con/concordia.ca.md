@@ -1,8 +1,15 @@
-> *The following text is extracted and transformed from the concordia.ca privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504110023id_/http%3A//www.concordia.ca/web/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordia.ca privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102071657id_/http%3A//www.concordia.ca/web/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Concordia University
+# Privacy statement - Concordia University
 
-Concordia University ("Concordia") is committed to respecting the privacy of any user or visitor to their websites ("You"). Any data or information that may be communicated to Concordia by means of any of its websites are protected by the Quebec provincial _Act Respecting Access to Documents Held by Public Bodies and the Protection of Personal Information_ (R.S.Q., chapter A-2.1), which requires Concordia to maintain the confidentiality of all information and data they may collect, such as written, graphic, audio, visual digital, electronic, etc.. 
+  * Web privacy
+  * Email privacy
+
+
+
+## Web privacy
+
+Concordia University ("Concordia") is committed to respecting the privacy of any user or visitor to their websites ("You"). Any data or information that may be communicated to Concordia by means of any of its websites are protected by the Quebec provincial _Act Respecting Access to Documents Held by Public Bodies and the Protection of Personal Information_ ([R.S.Q., chapter A-2.1](http://www2.publicationsduquebec.gouv.qc.ca/dynamicSearch/telecharge.php?type=2&file=/A_2_1/A2_1_A.html)), which requires Concordia to maintain the confidentiality of all information and data they may collect, such as written, graphic, audio, visual digital, electronic, etc.. 
 
 ## What personal information does Concordia collect and maintain?
 
@@ -18,17 +25,20 @@ Concordia may use cookies to facilitate navigation on its websites. Cookies are 
 
 Concordia websites may contain links to other web sites. Concordia is neither responsible for the content nor the privacy guidelines of these other sites. You should verify the privacy policies of sites linked to by Concordia and to exercise your own good judgment regarding accuracy, and reliability of the information they contain.
 
-## Opting out of emails
+  
 
-Concordia collects your personal information mainly to stay in touch with You. Email communications in particular are aimed at keeping You informed about Concordia news, events, surveys and fundraising appeals.
 
-At any time, You may request that Concordia refrain from using your personal information for any of the purposes outlined above. Since some communications programs may already be in progress at the time such a request is received, You may continue to receive communications for a short time while the change is being implemented. 
+## Email privacy
 
-To update your communication preferences, contact Concordia University at:
+Concordia collects your personal information mainly to stay in touch with You. Email communications in particular are aimed at keeping you informed about Concordia news, events, surveys and appeals. 
 
-University Communication Services  
+Students may send a request to [internalcomms@concordia.ca](mailto:internalcomms@concordia.ca) and alumni may send a request to [alumni@concordia.ca](mailto:alumni@concordia.ca) that Concordia refrain from using personal information for any of the purposes outlined above. Since some communications programs may already be in progress at the time such a request is received, alumni may continue to receive communications for a short time while the change is being implemented.
+
+Concordia faculty and staff cannot unsubscribe from NOW news emails.
+
+If you have any questions please contact Concordia University at:  
+[University Communication Services](http://www.concordia.ca/about/administration-and-governance/office-of-the-chief-communications-officer/)  
 1550 Guy St., Suite 606-27  
 Montreal, QC H3G 1M8  
 Phone: 514-848-2424, ext. 5807  
-Fax: 514-848-3383  
-[webcomms@concordia.ca](mailto:webcomms@concordia.ca)
+[internalcomms@concordia.ca](mailto:internalcomms@concordia.ca)
