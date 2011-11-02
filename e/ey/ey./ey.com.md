@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623033410id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ey.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102061156id_/http%3A//www.ey.com/US/EN/home/privacy) for the most accurate reproduction.*
 
 # Privacy - Ernst & Young - United States
+
+|  | 
 
 ## Privacy statement
 
@@ -61,7 +63,11 @@ Ernst & Young does not disclose an individual’s personal information to third 
 
 
 
- _Cookies_. The Ernst & Young ey.com Web site and/or any of its governed sections may use cookies. A "Cookie" is technology that allows our site to store tokens of information (an 'identifier') in your browser used only by our site while you are on our site. Cookies are not used to determine the personal identity of anyone who is merely visiting ey.com. They help us track traffic patterns so that we know what areas of our site users like and don't like. Cookies have other uses as well. In the Thought Center Webcast section, they are used to provide entry for subscribers who have chosen the automatic log-on feature during registration. Cookies are also used to prevent online poll participants from voting more than once. If you do not want to receive a cookie from ey.com or the Thought Center Webcast section, you have the option of setting your browser to notify you when you receive a cookie, so that you may determine whether to accept it or not. However, please be aware that if you do turn off 'cookies' in your browser, you will not be able to fully experience the features of the Thought Center Webcast section—such as automatic log-on and other personalization features. _"Web Beacons."_ Ernst & Young occasionally advertises on third party Web sites. As part of our effort to track the success of our advertising campaigns, we may at times use a technology called "web beacons," or "action tags," which count visitors who have come to ey.com after being exposed to an Ernst & Young banner ad on a third party site. We do not use this technology to access your personally identifiable information; it is only used to compile aggregated statistics about visitors who come to ey.com and to gauge the effectiveness of our ads.
+ _Cookies_. The Ernst & Young ey.com Web site and/or any of its governed sections may use cookies. A "Cookie" is technology that allows our site to store tokens of information (an 'identifier') in your browser used only by our site while you are on our site. Cookies are not used to determine the personal identity of anyone who is merely visiting ey.com. They help us track traffic patterns so that we know what areas of our site users like and don't like. Cookies have other uses as well.
+
+In the Thought Center Webcast section, they are used to provide entry for subscribers who have chosen the automatic log-on feature during registration. Cookies are also used to prevent online poll participants from voting more than once. If you do not want to receive a cookie from ey.com or the Thought Center Webcast section, you have the option of setting your browser to notify you when you receive a cookie, so that you may determine whether to accept it or not. However, please be aware that if you do turn off 'cookies' in your browser, you will not be able to fully experience the features of the Thought Center Webcast section—such as automatic log-on and other personalization features.
+
+ _"Web Beacons."_ Ernst & Young occasionally advertises on third party Web sites. As part of our effort to track the success of our advertising campaigns, we may at times use a visitor identification technology such as "web beacons," or "action tags," which count visitors who have come to ey.com after being exposed to an Ernst & Young banner ad on a third party site. We do not use this technology to access your personally identifiable information; it is only used to compile aggregated statistics about visitors who come to ey.com and to gauge the effectiveness of our ads.
 
  **Data Security/Integrity**. Ernst & Young has technological and operational security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. The data you may provide via the United States Web site is shared only with authorized employees of Ernst & Young, and on a limited basis, with vendors who supply information management services, and third parties in association with events (see "Event Registration" and "Entrepreneur of the Year® Nominations" paragraphs above). Access to your information is limited by need, and those who have access to the data have agreed to maintain the confidentiality of such information. In addition, Ernst & Young may disclose personally identifiable information as may be required by subpoena, search warrant, or other legal process.
 
@@ -72,3 +78,22 @@ Ernst & Young does not disclose an individual’s personal information to third 
  **Changes to This Policy**. Ernst & Young may change this policy statement as needed. If changes to the statement are made, please note that it may take up to 30 business days before new privacy practices are implemented. Check this page periodically if you would like to monitor changes.
 
  **Consumer Recourse**. If you have any questions or concerns regarding your privacy while using ey.com, please contact our site manager.
+
+| |   
+---  
+  
+Read our Safe Harbor Data Privacy Statement. 
+
+### Governed web sites
+
+This privacy statement covers the public Web site of Ernst & Young in the United States. The US site consists of pages beginning with http://www.ey.com/global/ content.nsf/US/Home or [http://webcast.ey.com](http://webcast.ey.com/).
+
+### Social Security Numbers
+
+Ernst & Young LLP works to protect the confidentiality and security of Social Security Numbers (SSNs) that we obtain in the course of our business. We limit access to SSNs and maintain policies and procedures designed to safeguard SSNs from loss, misuse, and improper disclosure.
+
+### Need to unsubscribe?
+
+ **ey.com Email Alerts**. If you have registered for ey.com/us email alerts, and do not wish to receive future e-mails, please visit our unsubscribe page.
+
+ **Ernst & Young Thought Center Webcast Alerts**. If you are receiving email announcements from our Thought Center Webcast section, and would like to discontinue, please open one of the previous Thought Center Webcast emails you have received, and click the link (or copy and paste the URL) at the bottom of email: "To remove yourself from the mailing list..." If you do not have a previous email to access this URL, please request to be removed from the email list through the ["update your profile"](http://www.ey.com/webcast?action=update_profile) function, where you can also submit any changes to your personal profile.
