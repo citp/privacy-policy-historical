@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydesert.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621035524id_/http%3A//www.mydesert.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydesert.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102135635id_/http%3A//www.mydesert.com/section/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Desert Sun | MyDesert.com
 
