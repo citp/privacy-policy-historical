@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223043852id_/http%3A//www.mnscu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mnscu.edu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102063108id_/http%3A//www.mnscu.edu/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Minnesota State Colleges and Universities
 
@@ -28,4 +28,4 @@ We use this information to determine the number of visitors to the site and to d
 
 If you wish to visit our site anonymously, there are services for this available on the internet. For more information, search for "anonymous web surfing" using your favorite internet search engine or directory.
 
-If you have further questions related to data privacy, please contact us at [jeff.crandall@so.mnscu.edu](mailto:jeff.crandall@so.mnscu.edu).
+If you have further questions related to data privacy, please contact us at [websupport@so.mnscu.edu](mailto:websupport@so.mnscu.edu).
