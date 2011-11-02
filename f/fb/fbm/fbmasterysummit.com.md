@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fbmasterysummit.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503072848id_/http%3A//fbmasterysummit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fbmasterysummit.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102105125id_/http%3A//fbmasterysummit.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Facebook Mastery Summit Start Getting Results Using Social Media Today
 
