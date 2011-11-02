@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themadnews.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209053452id_/http%3A//www.themadnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themadnews.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102113513id_/http%3A//www.themadnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Mad News
 
