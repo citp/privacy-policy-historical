@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225142356id_/http%3A//www.moneydashboard.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneydashboard.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102053912id_/http%3A//www.moneydashboard.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - Money Dashboard
+# Free online UK Money Management Software - Privacy Policy - Money Dashboard
 
 Money Dashboard is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organisation whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy policy covers the web site [www.moneydashboard.com](). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  The TRUSTe program only covers information that is collected through this web site, and **does not** cover information that may be collected through any software downloaded from this web site.
 
@@ -99,4 +99,6 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 We may need to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy we will tell you by email, or by a notice on our homepage so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-This statement was last updated on 20 November 2010 after Money Dashboard Limited changed its name to The One Place Capital Limited.
+This statement was updated on 20 November 2010 after Money Dashboard Limited changed its name to The One Place Capital Limited.
+
+This statement was last updated on 28 July 2011 to update the registered office address.
