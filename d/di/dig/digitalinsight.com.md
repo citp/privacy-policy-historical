@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502035727id_/http%3A//ifs.intuit.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalinsight.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102113653id_/http%3A//ifs.intuit.com/privacy.html) for the most accurate reproduction.*
 
 # Intuit Financial Services
 
@@ -24,7 +24,7 @@ When you visit this site, we gather two different types of information, anonymou
 
 ### User Forms
 
-**Contact Us:** This section of our website is not intended for individual consumer use, but rather for financial institutions interested in our solutions and services. By providing contact information on the form, it’s easy to request a follow up phone call or email from us. This information can also be updated or deleted it at any time by emailing customersupport@[domain.com]. Financial institutions always have the option of using other methods to contact us, such as telephone.
+**Contact Us:** This section of our website is not intended for individual consumer use, but rather for financial institutions interested in our solutions and services. By providing contact information on the form, it’s easy to request a follow up phone call or email from us. This information can also be updated or deleted at any time by emailing [sales_operations@intuit.com](mailto:sales_operations@intuit.com). Financial institutions always have the option of using other methods to contact us, such as telephone.
 
 **Client Login:** This website feature is designed for exclusive use by our financial institution clients, who may access it via user name and password for identification and security purposes. Failed log-on attempts are recorded for security purposes.
 
