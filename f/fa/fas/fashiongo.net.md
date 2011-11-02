@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashiongo.net privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508175124id_/http%3A//fashiongo.net/Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashiongo.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010840id_/http%3A//www.fashiongo.net/Policy.aspx) for the most accurate reproduction.*
 
 # FashionGo | Policies
 
@@ -50,5 +50,15 @@ If we decide to change its privacy policy, those changes will be posted so that 
 ---  
 By using our website, products or services, you signify your acceptance of the terms of the FashionGo.net Privacy Policy. If you do not agree to the terms of the FashionGo.net Privacy Policy, please do not use the website, products and/or services and exit the Site immediately.  
    
+  
+|    
+---  
+| [CUSTOMER SERVICE](https://web.archive.org/Customer.aspx) |  | [ABOUT US](https://web.archive.org/Aboutus.aspx) |  | [CONTACT US](https://web.archive.org/Contactus.aspx) |  | [FAQ](https://web.archive.org/FAQ.aspx) |  | [TERMS OF CONDITION](https://web.archive.org/TermsofCondition.aspx) |  | [PRIVACY POLICY](https://web.archive.org/Policy.aspx)  
+---|---|---|---|---|---|---|---|---|---|---  
+|  [](https://web.archive.org/) |  |  | Customer Service Center :  1.213.745.2667  |  8:00 AM ~ 5:30 PM(PST)  Monday ~Friday  
+---  
+726 E. 12th Street Suite #306 Los Angeles California 90021 T: 213.745.2667 F: 800.677.0961  
+© Copyright 1992~2011 by **FashionGo.net** . All rights reserved.  
+FashionGo is an online marketplace for wholesale clothing, wholesale women's apparel, wholesale junior, wholesale handbags, wholesale shoes, wholesale accessories, wholesale jeans and all other fashion-related items.   
   
  
