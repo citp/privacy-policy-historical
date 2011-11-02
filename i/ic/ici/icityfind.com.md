@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icityfind.com privacy policy that was archived on 2010-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101216115830id_/http%3A//icityfind.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icityfind.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102190354id_/http%3A//www.icityfind.com/privacy_policy.html) for the most accurate reproduction.*
 
 # iCityFind.com
 
-|  |   | [](https://web.archive.org/web/20101216115830id_/http%3A//icityfind.com/index.html)|    
+|  |   | [](https://web.archive.org/web/20111102190354id_/http%3A//www.icityfind.com/index.html)|    
 ---|---|---  
   
 | 
