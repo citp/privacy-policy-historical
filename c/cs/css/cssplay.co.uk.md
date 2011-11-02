@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226002720id_/http%3A//www.cssplay.co.uk/w3c/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cssplay.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010054id_/http%3A//www.cssplay.co.uk/w3c/privacy) for the most accurate reproduction.*
 
 # Stu Nicholls | CSS play | Privacy Policy
 
@@ -21,7 +21,7 @@ CSSplay
 Gloucester  
 United Kingdom
 
-You may contact me by e-mail at [stu@cssplay.co.uk](mailto:stu@cssplay.co.uk)
+You may contact me by e-mail at stu[...](http://www.google.com/recaptcha/mailhide/d?k=0103vNWBVtocCVJO1dnUSTew==&c=l22Sc6nyN2psqxHGK5T0N9FlVKECl0cdZH9BaIoYgA8= "Reveal this e-mail address")@cssplay.co.uk 
 
 ### Dispute Resolution
 
