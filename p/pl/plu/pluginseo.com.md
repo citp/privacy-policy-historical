@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2011-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110213035352id_/http%3A//pluginseo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pluginseo.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102021032id_/http%3A//www.pluginseo.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Plug in SEO
+# Privacy Policy for Plug in SEO
 
-**Updated on: February 8, 2010**
+**Updated on: April 28, 2011**
 
-This Policy applies as between you, the User of this Web Site and Plug in SEO Ltd the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services therein. 
+This Policy applies as between you, the User of this Web Site and Pemberton Rank Ltd the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services therein. 
 
 ## 1\. Definitions and Interpretation 
 
-In this Policy terms shall have the same meanings as defined in the Terms of Use at [http://www.pluginseo.com/terms.htm](https://web.archive.org/web/20110213035352id_/http%3A//pluginseo.com/terms.htm). In addition the following terms shall have the following meanings: 
+In this Policy terms shall have the same meanings as defined in the Terms of Use at pluginseo.com. In addition the following terms shall have the following meanings: 
 
-“Cookie”| means a small file placed on your computer by Plug in SEO when you visit certain parts of this Website. Further details are contained in Clause 9 of this Policy;  
+“Cookie”| means a small file placed on your computer by Pemberton Rank when you visit certain parts of this Website. Further details are contained in Clause 9 of this Policy;  
 ---|---  
 “Data”| means collectively all information that you submit to the Website. This includes, but is not limited to, Account details and information submitted using any of our Services;  
   
@@ -34,7 +34,7 @@ Without limitation, any of the following Data may be collected:
 
 ## 3\. Our Use of Data
 
-  1. Any personal Data you submit will be retained by Plug in SEO for as long as you use the Services provided on the Web Site. 
+  1. Any personal Data you submit will be retained by Pemberton Rank for as long as you use the Services provided on the Web Site. 
   2. If you terminate your account, we may retain the Data that you submitted indefinitely, to enable us to reactivate your account in the event that you choose to re-enable your account. If you do not wish us to retain your Data in this way, inform us by emailing hello@pluginseo.com and we will delete it.
   3. Unless we are obliged or permitted by law to do so, and subject to Clause 4, your Data will not be disclosed to third parties.
   4. All personal Data is stored securely in accordance with the principles of the Data Protection Act 1998. Fore more details on security, see clause 8 below.
@@ -48,11 +48,11 @@ Without limitation, any of the following Data may be collected:
 
 ## 4\. Third Party Web Sites and Services
 
-Plug in SEO may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, search engine facilities, web site analytics, advertising and marketing. The providers of such services have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that Plug in SEO requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998. 
+Pemberton Rank may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, search engine facilities, web site analytics, advertising and marketing. The providers of such services have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that Pemberton Rank requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998. 
 
 ## 5\. Changes of Business Ownership and Control
 
-  1. Plug in SEO may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
+  1. Pemberton Rank may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.
   2. In the event that any Data submitted by Users will be transferred in such a manner, you will not be contacted in advance and informed of the changes. 
 
 
@@ -73,11 +73,11 @@ Plug in SEO may, from time to time, employ the services of other parties for dea
 
 ## 8\. Security
 
-Data security is of great importance to Plug in SEO and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online. 
+Data security is of great importance to Pemberton Rank and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online. 
 
 ## 9\. Cookies
 
-  1. Plug in SEO may set and access Cookies on your computer. 
+  1. Pemberton Rank may set and access Cookies on your computer. 
   2. A Cookie is a small file that resides on your computer’s hard drive and often contains an anonymous unique identifier and is accessible only by the web site that placed it there, not any other sites. 
   3. You may delete Cookies, however you may lose information that enables you to access the Services more quickly.
   4. Your web browser may provide functionality to enable or disable cookies. Disabling Cookies may prevent you from using the full range of Services available on the Website.
@@ -86,8 +86,8 @@ Data security is of great importance to Plug in SEO and to protect your Data we 
 
 ## 10\. Financial information
 
-Plug in SEO **does not store** your full credit or debit card numbers, or the CVV2 (the three or four digit security number on the back of your card). Plug in SEO **does** store the last four digits of your credit or debit card number, the expiry and start dates, name and billing address. 
+Pemberton Rank **does not store** any credit card details. 
 
 ## 11\. Changes to this Policy
 
-Plug in SEO reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Policy on your first use of the Website following the alterations. 
+Pemberton Rank reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Website and you are deemed to have accepted the terms of the Policy on your first use of the Website following the alterations. 
