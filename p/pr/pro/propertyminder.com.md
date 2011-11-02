@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyminder.com privacy policy that was archived on 2011-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110304154406id_/http%3A//www.propertyminder.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyminder.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011302id_/http%3A//www.propertyminder.com/Privacy_Policy) for the most accurate reproduction.*
 
 # PropertyMinder, Inc. Privacy policy, 2010
 
