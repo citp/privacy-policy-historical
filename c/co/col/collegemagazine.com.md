@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the collegemagazine.com privacy policy that was archived on 2010-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100502175536id_/http%3A//www.collegemagazine.com/content/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegemagazine.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102032454id_/http%3A//www.collegemagazine.com/page/56/Privacy-Policy) for the most accurate reproduction.*
 
-# Privacy Policy | College Magazine
+# Privacy Policy
 
 This is the Privacy Policy for CollegeMagazine.com. Thank you for visiting CollegeMagazine.com. Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used.
 
-**Collected Information**
+##  Collected Information
 
 Through College Magazine LLC publications, websites, and other media, you can enter contests, vote in polls or otherwise express an opinion, or subscribe to one of our services such as our online newsletters. You are able to visit much of this website and enjoy many College Magazine publications and promotions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address and information about your interests in and use of various products, programs, and services.
 
@@ -26,8 +26,7 @@ We will disclose information we maintain when required to do so by law, for exam
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
 
-  
-**Collection of Information by Third-Party Sites and Sponsors**
+## Collection of Information by Third-Party Sites and Sponsors
 
 Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
 
@@ -35,14 +34,14 @@ College Magazine sometimes may offer contests, sweepstakes, or promotions that a
 
 College Magazine may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-  
-**Cookies**  
+##  Cookies
+
 To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
 
 We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.
 
 We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy
 
-**Changes to this Notice**
+##  Changes to this Notice
 
 This Notice may be changed by College Magazine. The revised Notice will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
