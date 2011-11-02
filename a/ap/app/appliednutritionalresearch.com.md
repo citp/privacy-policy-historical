@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the appliednutritionalresearch.com privacy policy that was archived on 2011-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110212213351id_/http%3A//www.appliednutritionalresearch.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appliednutritionalresearch.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102185121id_/http%3A//www.appliednutritionalresearch.com/terms_privacy.asp) for the most accurate reproduction.*
 
-# ANR: The #1 Online Source for Clinically Proven Diet Products - Phosphacore - Maqui-6 - Moyojava
+# Terms: Privacy
 
 **Privacy Policy**
 
@@ -65,7 +65,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20110212213351id_/http%3A//www.appliednutritionalresearch.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20111102185121id_/http%3A//www.appliednutritionalresearch.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
