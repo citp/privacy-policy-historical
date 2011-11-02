@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zappclassifieds.com privacy policy that was archived on 2010-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100803001241id_/http%3A//www.zappclassifieds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zappclassifieds.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102031637id_/http%3A//www.zappclassifieds.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy of ZappClassifieds.com
+# Free Classifieds - Free Online Classified Advertisements - Privacy Policy
 
 [ ](http://www.zappclassifieds.com/ "United States Classifieds")| 
 
