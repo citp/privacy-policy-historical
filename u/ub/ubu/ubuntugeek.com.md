@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ubuntugeek.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524172113id_/http%3A//www.ubuntugeek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubuntugeek.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013537id_/http%3A//www.ubuntugeek.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ubuntu Geek
 
 Share
 
-If you're new here, you may want to subscribe to my [RSS feed](http://feedproxy.google.com/UbuntuGeek) and if you have questions related to your ubuntu system post question to our [forums](http://www.ubuntugeek.com/forum). Thanks for visiting!
+{lang: 'en-GB'}
 
 **Privacy Policy for ubuntugeek.com**
 
