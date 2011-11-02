@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2010-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100412075152id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musafir.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102015034id_/http%3A//www.musafir.com/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # musafir: Privacy policy
 
 We understand that making purchases online involves a great deal of trust on your part. We take this trust very seriously, and make it our highest priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices.
 
-The terms "we", "us", "our" and "Musafir" refer to Universal Tourism LLC, a limited liability company incorporated in Sharjah, United Arab Emirates. The term "you" refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents. By visiting the Musafir.com website (the "Website"), you are accepting the practices described herein.
+The terms "we", "us", "our" and "Musafir" refer to Universal Travels & Tourism LLC, a limited liability company incorporated in Sharjah, United Arab Emirates. The term "you" refers to the customer visiting the Website and/or booking a reservation through us on this Website, or through our customer service agents. By visiting the Musafir.com website (the "Website"), you are accepting the practices described herein.
 
 ### What information we collect from you
 
@@ -80,12 +80,12 @@ Musafir.com may update this Privacy Policy in the future. We will notify you abo
 
 If you have questions about either this Privacy Policy (or your travel planning or purchases), please contact us at the following address:
 
-Universal Tourism LLC  
+Universal Travels & Tourism LLC  
 Ibn Zaydoon Street  
 Umm Al Tarafa, Rolla  
 Post box 62425  
 Sharjah, United Arab Emirates  
-Phone: +971 6 557 1000  
-Fax: +971 6 557 1777
+Phone: +971 6 535 2120  
+Fax: +971 6 534 3338
 
-Revised April 12, 2009.
+Revised May 22, 2011.
