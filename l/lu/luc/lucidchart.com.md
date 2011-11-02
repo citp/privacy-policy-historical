@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228103500id_/http%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102062621id_/http%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy
-
-July 30, 2010
+# Privacy Policy | LucidChart
 
 This LucidChart Privacy Policy describes how we treat personal information when you use LucidChart's services, including information provided to LucidChart.
+
+July 30, 2010 
 
 ## Personal Information
 
@@ -18,11 +18,11 @@ This LucidChart Privacy Policy describes how we treat personal information when 
   * We use this information internally to deliver the best possible service to you, such as improving the LucidChart user interface and maintaining a consistent and reliable user experience.
   * Files you create, upload, or copy to LucidChart may, if you choose, be read, copied, used and redistributed by people you know or, again if you choose, by people you do not know. Information you disclose using the chat function of LucidChart may be read, copied, used and redistributed by people participating in the chat. Use care when including sensitive personal information in files you share or in chat sessions, such as social security numbers, financial account information, home addresses or phone numbers.
   * Some features may be provided by third parties (e.g. the Amazon Payments service provided by Amazon Payments, Inc.), who may receive and process your data. When you use one of these features, you may be sharing data with the third party, including allowing the third party to process your data. Access to your data by these third parties is not governed by this Privacy Policy.
-  * LucidChart reserves the right to review documents to help resolve problems with the LucidChart software or service, or to ensure compliance with our [Terms of Service](https://web.archive.org/pages/tos).
+  * LucidChart reserves the right to review documents to help resolve problems with the LucidChart software or service, or to ensure compliance with our Terms of Service.
 
 
 
-## Information sharing
+## Information Sharing
 
   * We will not sell or rent your personal information to others, except to the extent necessary to fulfill any requests by you to share content through another website or partner.
   * LucidChart only shares personal information with other companies or individuals outside of LucidChart in the following limited circumstances: 
@@ -41,12 +41,12 @@ This LucidChart Privacy Policy describes how we treat personal information when 
 
 ## Changes to Privacy Policy
 
-  * LucidChart reserves the right to change or modify this Privacy Policy at any time, without prior notice, by posting the modified Privacy Policy on our website. Your continued use of the website or LucidChart’s services indicates your acceptance of any revised Privacy Policy. 
-  * LucidChart may provide you with notifications that include, without limitation, any changes that are made to this Privacy Policy or our services, by postings on our website or via email to a user. 
+  * LucidChart reserves the right to change or modify this Privacy Policy at any time, without prior notice, by posting the modified Privacy Policy on our website. Your continued use of the website or LucidChart’s services indicates your acceptance of any revised Privacy Policy.
+  * LucidChart may provide you with notifications that include, without limitation, any changes that are made to this Privacy Policy or our services, by postings on our website or via email to a user.
 
 
 
-## Your choices
+## Your Choices
 
   * You may terminate your use of LucidChart at any time.
 
