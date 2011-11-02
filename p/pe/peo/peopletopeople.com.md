@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the peopletopeople.com privacy policy that was archived on 2009-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090211181312id_/http%3A//www.peopletopeople.com/AboutUs/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopletopeople.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102063256id_/http%3A//www.peopletopeople.com/AboutUs/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Statement
-
-| 
-
- 
 
 This is the website of People to People Ambassador Programs. If you have questions or concerns regarding this Privacy Policy Statement, about our organization, or the programs we provide, please [contact us](mailto:web_administrator@peopletopeople.com). 
 
@@ -22,7 +18,7 @@ Information provided at the time of registration, or submission from a guest who
 
 No information should be submitted to or posted at www.peopletopeople.com by guests under 13 years of age without the consent of their parent or guardian. Unless otherwise disclosed during collection, we do not provide any personally identifying information, regardless of its source, to any third party for any purpose whatsoever from our guests under 13 years of age. All registrants receive a letter via U.S. mail confirming their registration. In addition, when a guest under 13 registers, he/she is required to provide the email address of his/her parent or guardian and that parent or guardian receives an email alerting them to that registration. 
 
-No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside our site except as explicitly stated during registration for programs, contests, or promotions (and in that case, the information collected is used only for the specific programs, contest or promotion). Although guests under 13 years of age are allowed to participate in our programs, contests, and promotions, if such a guest wins, notification and prizes are sent to the parents or guardians identified in the initial registration process. Publication of contest winners’ names, ages, or images for individuals under age 13 requires parental or guardian consent. [We do not allow guests under 13 years of age to be listed in our member directory or to receive direct marketing communications from our site or to be sent from our third-party offers.] 
+No information collected from guests under 13 years of age is used for any marketing or promotional purposes whatsoever, either inside or outside our site except as explicitly stated during registration for programs, contests, or promotions (and in that case, the information collected is used only for the specific programs, contest or promotion). Although guests under 13 years of age are allowed to participate in our programs, contests, and promotions, if such a guest wins, notification and prizes are sent to the parents or guardians identified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under age 13 requires parental or guardian consent. [We do not allow guests under 13 years of age to be listed in our member directory or to receive direct marketing communications from our site or to be sent from our third-party offers.] 
 
 ## USE OF IP ADDRESSES
 
