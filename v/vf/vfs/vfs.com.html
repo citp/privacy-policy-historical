@@ -1,765 +1,568 @@
-<!--The following is the downloaded HTML source of the vfs.com privacy policy that was archived on 2010-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101129033833id_/http%3A//www.vfs.edu/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vfs.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102013123id_/http%3A//www.vfs.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>Privacy Notice - Vancouver Film School</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-	<meta name="description" content="Film School and much more. Vancouver Film School is a post-secondary entertainment arts school training students in 13 immersive, production-oriented programs across every aspect of the entertainment arts. Students graduate with a professional portfolio of work showcasing their abilities.">
-	<meta name="keywords" content="film school, Vancouver Film School, VFS,  film schools, Film School, Film Schools, acting school, animation school, game design school, digital design school, makeup school, writing school, sound design school, art school, design school, film training, design training">
-	<link rel="shortcut icon" href="http://media.vfs.com/assets/images/global/favicon.ico">
-	
-        
-	<link type="text/css" media="all" rel="stylesheet" href="/styles/master_20101118.css">
-    
-								    
-    
-    
-    
-    
-     <style type="text/css">
-                  
-				  
-                  table.start_date_table {
-                      margin-left:5px;
-                      margin-bottom:10px;
-                  }
-                  table.start_date_table td.right_column {
-                      padding-left:3px;
-                      font-weight:bold;
-                  }
-					.helptitle {
-					float:left;
-					}
-					
-					.helpbubble {
-					background-color:white;
-					border:1px solid gray;
-					display:none;
-					font-size:8px;
-					height:auto;
-					width:230px;
-					padding: 0;
-					margin: 10px;
-					z-index:2000;
-					position:absolute;
-					left:5px;
-					top:5px;
-					}
-					
-					.helptop {
-					background-color:#FFFFCC;
-					display:block;
-					/* font-size:90%; */
-					font-weight: bold;
-					margin: 0 0 10px 0;
-					padding:5px;
-					height:20px;
-					}
-					
-					.helpbubble p {
-					margin:10px;
-					}
-					
-					.helpbubble .hint-pointer {
-					background:url("../images/pointer-left.gif") no-repeat scroll left top transparent;
-					height:19px;
-					left:-10px;
-					position:absolute;
-					top:1em;
-					width:10px;
-					z-index:100;
-					}
-					a.tipgrey, a.tipgrey:visited, a.tipgrey:active, a.tipgrey:hover {
-					background:url("../images/help_icon_grey_sm.gif") no-repeat scroll left top transparent;
-					height:33px;
-					margin:-5px 0 0 3px;
-					position:absolute;
-					width:33px;
-					}
-					a.tipgreysm span, a.tipwhite span, a.tipgrey span, a.errortip span h3{
-					display:none;
-					}
-
-
-                  
-                  </style>
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-   <style type="text/css">
-	
-	#language_button a {
-		display:block;
-		width:83px;
-		height:24px;
-		background-image:url(../images/header/language.gif);
-		float:right;
-		margin-top:76px;
-		margin-bottom:0;
-		padding-bottom:0
-	}
-	#language_button a:hover {
-		background-image:url(../images/header/language_hover.gif);
-	}
-	#language_button span {
-		position:absolute;
-		top:0;
-		left:-5000px;
-	}
-	
-	</style>
-			<script type="text/javascript">
-	
-//Help
-	function getposOffset(overlay, offsettype){
-		var totaloffset=(offsettype=="left")? overlay.offsetLeft : overlay.offsetTop;
-		var parentEl=overlay.offsetParent;
-		while (parentEl!=null) {
-			totaloffset=(offsettype=="left")? totaloffset+parentEl.offsetLeft : totaloffset+parentEl.offsetTop;
-			parentEl=parentEl.offsetParent;
-		}
-		return totaloffset;
-	}
-	
-	function overlay(curobj, subobjstr, opt_position){
-		if (document.getElementById){
-			var subobj=document.getElementById(subobjstr);
-			subobj.style.display=(subobj.style.display!="block")? "block" : "none";
-			var xpos= 40 + getposOffset(curobj, "left")+((typeof opt_position!="undefined" && opt_position.indexOf("right")!=-1)? -(subobj.offsetWidth-curobj.offsetWidth) : 0);
-			var ypos= -55 + getposOffset(curobj, "top")+((typeof opt_position!="undefined" && opt_position.indexOf("bottom")!=-1)? curobj.offsetHeight : 0);
-			subobj.style.left=xpos+"px";
-			subobj.style.top=ypos+"px";
-			subobj.style.zIndex=20000;
-			// Wilson: Shim doesn't work in Opera, will overlay over the help box, so I excluded it.
-			if(navigator.userAgent.indexOf('Opera') == -1){
-				var shimobj=document.getElementById('selectBoxShim')
-				if(subobj.style.display=="none"){
-					shimobj.style.left="1px";
-					shimobj.style.top="1px";
-					shimobj.style.display="none";
-				} else {
-				shimobj.style.left=xpos+"px";
-				shimobj.style.top=ypos+"px";
-				shimobj.style.display="block";
-				}
-				shimobj.style.width=subobj.offsetWidth;
-				shimobj.style.height=subobj.offsetHeight;
-			}
-			return false;
-		} else {
-			return true;
-		}
-	}
-	
-	function overlayclose(subobj){
-		var subobj=document.getElementById(subobj);
-		subobj.style.display="none";
-		// Shim doesn't work in Opera, will overlay over the help box, so I excluded it.
-		if(navigator.userAgent.indexOf('Opera') == -1){
-			var shimobj=document.getElementById('selectBoxShim');
-			shimobj.style.left="1px";
-			shimobj.style.top="1px";
-			shimobj.style.display="none";
-			shimobj.style.width=subobj.offsetWidth;
-			shimobj.style.height=subobj.offsetHeight;
-		}
-	}
-//end help
-
-</script>
-<!-- JS -->
-	<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
-     <script type="text/javascript" src="/js/jquery.cookie.20081014.js"></script>
-
-
-
-<script src="../microsites/googleadwords/js/css_browser_selector.js" type="text/javascript"></script>
-<script type="text/javascript" src="http://media.vfs.com/assets/js/swfobject/swfobject.js"></script>
-<script type="text/javascript" src="../microsites/googleadwords/js/jquery.selectboxes.pack.js"></script>
-<script type="text/javascript">
-
-$(document).ready(
-	function(){
-		// toggle province / state dropdowns by country
-		$("select#country").change(
-			function(){
-				var aSelectedCountry = $("select#country").selectedValues();
-				$(".state_options").css('display','none');
-				switch(aSelectedCountry[0]){
-					case 'Canada':
-						$("#province").css('display','block');						
-						break;
-					case 'India':
-						$("#state_india").css('display','block');												
-						break;
-					case 'United States':					
-						$("#state").css('display','block');											
-						break;
-					default:
-						$("#province_state").css('display','block');											
-						break;
-				}
-			}
-		);
-		
-	}
- );
-
-</script>
-
-	<script type="text/javascript">
-	
-	// JS cookie management
-	var FEATURED_COOKIE_NAME = 'vfs_featuredvideos';
-	function setJSCookieFromFlash(value){
-		// split comma delimited list
-		var aCookie = value.split('|');
-		return setJSCookie(aCookie[0],aCookie[1]);
-	}
-	function appendJSCookieFromFlash(value){
-		// split comma delimited list
-		var aCookie = value.split('|');
-		return appendJSCookie(aCookie[0],aCookie[1]);
-	}
-	function setJSCookie(cookie,value){
-	    $.cookie(cookie, value, { path: '/', expires: 365 });
-		return $.cookie(cookie);
-    }
-	function appendJSCookie(cookie,value){
-		var appendValue = $.cookie(cookie)+","+value;
-	    $.cookie(cookie, appendValue, { path: '/', expires: 365 });
-		return $.cookie(cookie);
-    }
-	function getJSCookie(cookie){
-		return $.cookie(cookie);
-	}
-	function deleteJSCookie(cookie){
-		$.cookie(cookie, null, { path: '/' });
-	}
-	// temporarily force preview state
-	setJSCookie(FEATURED_COOKIE_NAME,'1,2,3,4,5');
-	
-	</script>
-	<script language="javascript" type="text/javascript" src="http://media.vfs.com/assets/js/ufo-3.2.min.20071217.js"></script>
-
-
-
-</head>
-			
-	<body>
-    
-    
-    
-    
-    
-    
-            <div class="entry quickfacts">
-            <div id="helpWaitlist" class="helpbubble" style="width: 230px;">
-			<div class="helptop" align="right"><span class="hint-pointer">&nbsp;</span><span class="helptitle"><strong>Waitlist: Start Dates</strong></span><span class="helpclose"><a href="#" onclick="overlayclose('helpWaitlist'); return false">Close</a></span></div>
-            <p>
-Many VFS programs become fully booked far in advance, but occasionally a student may face personal or visa issues that prevent them from beginning their studies and a seat opens up as a start date approaches. For this reason we keep waitlists and will give priority preference to waitlisted applicants should a seat become available.
-<br><br>
-To inquire about an available seat or how to add your name to a start date waitlist, please <a href="/startnow.php">Speak to an Advisor</a>
-</p>
-</div> 
-  </div>
+<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase no-indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><!--<![endif]--><head><style type="text/css"></style>
+  <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Vancouver Film School: Production, Animation, Game Design, Acting and more</title>
+  <meta name="description" content="Vancouver Film School is a post-secondary entertainment arts school training students in 13 immersive, production-oriented programs across every aspect of the entertainment arts. Students graduate with a professional portfolio of work showcasing their abilities.">
+  <meta name="keywords" content="film school, Vancouver Film School, VFS,  film schools, acting school, animation school, game design school, digital design school, makeup school, writing school, sound design school, art school, design school, film training, design training">
+  <meta name="author" content="VFS Webmaster, webmaster@vfs.com">
   
-  
-  
-  
-  
-  
-
-    
-	<div id="wrap" style="position:absolute;top:0;left:50%;margin-left:-379px;">
-		<div id="content" style="margin-left:0;margin-top:5px;padding:0;">
-        
-        <div style="position:absolute; margin-left:665px; margin-top:-5px"><a href="http://www.cafepress.com/vfsstore" title="VFS Official Store - Apparel &amp; Merchandise"><img src="http://media.vfs.com/assets/images/cafepress/homepage_shopIcon_updatedv1.gif" alt="Official Store"></a></div>
-			<a name="top"></a>
-				 <!-- Main Page Container -->
-						<!-- Body Frame -->
-						<div id="body-frame" style="width:750px;background-color:#c9c9c9;text-align:left;margin:0;padding:0;">
-                        <div style="padding:5px; margin-bottom:10px;">
-                     	<div style="background-color:#fff;padding:0;margin:0;padding-left:5px;margin-top:-10px;">
-						<!-- Middle Content --> 
-						<div id="vfs_header">
-																				<div id="logo"><a href="/"><span style="display:none;">VFS.com - Vancouver Film School - Results Matter</span></a></div>
-										                        				<div id="nav" style="z-index:100;clear:right;top:86px; _top:85px;">
-																												<ul id="nav_global">
-                        <li class="home"><a href="/" name="submenu" class="home nav_global"><span>Home</span></a></li>
-						<li class="programs"><a href="/fulltime.php" name="submenu" class="programs nav_global"><span>Programs</span></a>
-								<ul>
-									<li><a href="/fulltime.php?id=7">3D Animation &amp; Visual Effects</a></li>
-									<li><a href="/fulltime.php?id=5">Classical Animation</a></li>									
-									<li><a href="/fulltime.php?id=9">Digital Character Animation</a></li>
-																		<li class="divide_up"><a href="/fulltime.php?id=10">Acting for Film &amp; Television</a></li>
-									<li><a href="/fulltime.php?id=8">Acting Essentials</a></li>
-                                    <li><a href="/fulltime.php?id=13">Digital Design</a></li>
-									<li><a href="/fulltime.php?id=15">Entertainment Business Management</a></li>
-									<li><a href="/fulltime.php?id=3">Film Production</a></li>
-									<li><a href="/fulltime.php?id=14">Game Design</a></li>
-									<li><a href="/fulltime.php?id=12">Makeup Design for Film &amp; Television</a></li>
-									<li><a href="/fulltime.php?id=11">Sound Design for Visual Media</a></li>
-									<li><a href="/fulltime.php?id=6">Writing for Film &amp; Television</a></li>
-                                    <li class="divide_up"><a href="/fulltime.php?id=1">Foundation Visual Art &amp; Design</a></li>
-									
-									<li class="divide_up"><a href="/workshops.php">Workshops</a></li>
-								</ul>
-						</li>
-						<li class="admissions"><a href="/admissions.php" name="submenu" class="admissions nav_global"><span>Admissions</span></a>
-							<ul>
-								<li><a href="/startnow.php">Speak to an Advisor</a></li>
-								<li><a href="/apply_select.php">Apply Now</a></li>
-								<li class="divide_up"><a href="/admissions.php?region=Canada">Canada</a></li>
-								<li><a href="/admissions.php?region=US">US Citizen</a></li>
-								<li><a href="/admissions.php?region=International">International</a></li>
-							</ul>
-						</li>
-                        <li id="community" class="community"><a href="/community.php" name="submenu" class="community nav_global"><span>Community</span></a></li>
-						<li class="showcase"><a href="/showcase.php" name="submenu" class="showcase nav_global"><span>Showcase</span></a>
-							<ul>
-								<li><a href="/showcase.php?id=7">3D Animation &amp; Visual Effects</a></li>
-								<li><a href="/showcase.php?id=5">Classical Animation</a></li>
-								<li><a href="/showcase.php?id=9">Digital Character Animation</a></li>
-								<li><a href="/showcase.php?id=10">Acting for Film &amp; Television</a></li>								
-								<li><a href="/showcase.php?id=13">Digital Design</a></li>
-								<li><a href="/showcase.php?id=3">Film Production</a></li>
-								<li><a href="/showcase.php?id=14">Game Design</a></li>	
-								<li><a href="/showcase.php?id=12">Makeup Design for Film &amp; Television</a></li>
-								<li><a href="/showcase.php?id=11">Sound Design for Visual Media</a></li>
-								<li><a href="/showcase.php?id=6">Writing for Film &amp; Television</a></li>
-                                <li><a href="/showcase.php?id=1">Foundation Visual Art &amp; Design</a></li>	
-							</ul>
-						</li>
-						<li class="thisisvfs"><a href="/thisisvfs.php" name="submenu" class="thisisvfs nav_global"><span>About VFS</span></a>
-							<ul>
-                           		<li><a href="/thisisvfs.php?section=advantage">Our Educational Advantage</a></li>
-	                            <li><a href="/thisisvfs.php?section=department_heads">Program Leaders</a></li>
-								<li><a href="/thisisvfs.php?section=partnerships">Partnerships</a></li>
-								<li><a href="/thisisvfs.php?section=vfs_on_location">Meet Us Near You</a></li>
-								<li><a href="/thisisvfs.php?section=careers_at_vfs">Careers @ VFS</a></li>
-								<li><a href="/thisisvfs.php?section=festivals_awards">Festivals &amp; Awards</a></li>
-								<li><a href="/thisisvfs.php?section=testimonials">Testimonials</a></li>								
-								<li><a href="/thisisvfs.php?section=press_room">Press Room</a></li>
-								<li><a href="/thisisvfs.php?section=faq">FAQ</a></li>
-                                <li><a href="/contact_us.php">Contact Us</a></li>
-							</ul>
-						</li>
-						<li class="lifeatvfs"><a href="/lifeatvfs.php" name="submenu" class="lifeatvfs nav_global"><span>Life at VFS</span></a>
-							<ul>
-								<li><a href="/lifeatvfs.php?section=vancouver">Vancouver</a></li>
-								<li><a href="/lifeatvfs.php?section=school_breaks">School Breaks</a></li>
-								<li><a href="/lifeatvfs.php?section=campuses">Campuses</a></li>
-								<li><a href="/lifeatvfs.php?section=housing">Housing</a></li>
-								<li><a href="/lifeatvfs.php?section=find_a_roommate">Find a Roommate</a></li>
-                                <li><a href="/alumni.php">Alumni Tools</a></li>
-							</ul>
-						</li>
-					</ul>																					</div>
-                                        <ul id="language_menu" style="position:absolute;top:95px;left:50%;margin-left:268px;z-index:200;">
-                                        	<li><a id="language_menu_btn" href="#"><span>Language</span></a>
-    											<ul id="language_submenu" style="position:absolute;margin-left:-90px;display:none;_margin-top:-3px;">
-   	  											<li><a href="/alt_lang.php?lang=fr-ca"><span lang="fr-ca">French - Français</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=es"><span lang="es">Spanish - Español</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=pt"><span lang="pt">Portuguese(BR) - Português</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=it"><span lang="it">Italian - Italiano</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=de"><span lang="de">German - Deutsch</span></a></li>
-                                            	                                            	<li><a href="/alt_lang.php?lang=ko"><span lang="ko">Korean - 한국어</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=jp"><span lang="jp">Japanese - 日本語</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=zh-tw"><span lang="zh-tw">Chinese Traditional - 繁體中文</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=zh-cn"><span lang="zh-cn">Chinese Simplified -简体中文</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=tr"><span lang="tr">Turkish - Türkçe</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=ru"><span lang="ru">Russian - русский</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=nl"><span lang="nl">Dutch - Nederlands</span></a></li>
-                                            	<li><a href="/alt_lang.php?lang=el"><span lang="el">Greek - Ελληνικά</span></a></li>
-												</ul>
-                                            </li>
-									    </ul>
-                                   
-                          </div>
-						
-                          <div id="banner-component-plate"></div>
-	<div class="banner" style="margin:0;padding:0;top:128px;margin-left:-416px;">
-                                <div id="banner-component" style="margin:0;padding:0:">
-                                    <noscript>
-                                        // Provide alternate content for browsers that do not support scripting
-                                        // or for those that have scripting disabled.
-                                        <p>In order to view this page you need JavaScript and Adobe Flash Player 9+ support!<br />
-                                        <a href="http://www.macromedia.com/go/getflash/">Get Flash</a>                                        </p>
-                                    </noscript>
-      							</div>
-	  
-      							<script type="text/javascript">
-									
-                                    UFO.create({id: 'bannercomponentflashid', movie:'/images/banners/bannerComponent/banner-component_2008-10-01.swf', width: '834', height: '133', majorversion: '9', build: '0', xi:"true",ximovie:"http://media.vfs.com/assets/js/ufo.swf",allowscriptaccess:"true",setcontainercss:"true",wmode:"transparent",flashvars:"countries="}, 'banner-component');
-                                    
-                                </script>                                            
-    						</div>
-                            
-<div id="banner-tabs" style="display:none;top:248px;_top:260px;">
-<ol>
-                                        <li id="banner-tab-1" class="banner-tab"><a href="#" class="unselected"><span>1</span></a></li>
-                                        <li id="banner-tab-2" class="banner-tab"><a href="#" class="unselected"><span>2</span></a></li>
-                                        <li id="banner-tab-3" class="banner-tab"><a href="#" class="unselected"><span>3</span></a></li>
-                                        <li id="banner-tab-4" class="banner-tab"><a href="#" class="unselected"><span>4</span></a></li>
-                                    </ol>
-                            </div>
-
-<table width="700" border="0" cellpadding="0" cellspacing="0" class="container autoWidth" align="center">
-    <tbody><tr>
-      <td>
-                        
-						<div id="breadcrumb"><a href="../" class="breadcrumbs">Home</a>  | <span class="breadcrumbs">Privacy Notice</span></div>                  </td>
-    </tr> 
-			 									
-		<tr>
-			<td>				
-				<div id="one-sheet">
-					<div id="title">
-						<div id="title-text">
-							<h1>Privacy Notice</h1>
-							<p>Our website has been developed so that you can visit Vancouver Film School on the web without identifying yourself or revealing any personal information.  Any personal information voluntarily provided to Vancouver Film School through its websites is collected, used, and disclosed in accordance with the Freedom of Information and Protection of Privacy Act or other applicable legislation.  This page summarizes the privacy policy and practices of Vancouver Film School websites.</p>
-							<ol>
-                            	<li><p><strong>What kind of information is collected?</strong></p>
-                                <p>If you visit a Vancouver Film School website to browse, read pages, or download information, we will gather and store certain information about the visit.  The following information is automatically collected and stored:</p>
-                                	<ul style="list-style-type:disc;margin-left:12px;">
-                                    	<li style="line-height:14px;margin-bottom:5px;">The Internet Protocol address and domain name used.  The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer.  This address can be translated to determine the domain name of your service provider;</li>
-                                        <li style="line-height:14px;margin-bottom:5px;">Information relating to your computer system, such as the type of browser and operating system, language used, and demographic information such as global location;</li>
-                                        <li style="line-height:14px;margin-bottom:5px;">The date and time of the visit; and</li>
-                                        <li style="line-height:14px;margin-bottom:5px;">The web pages or services accessed.</li>
-                                    </ul>
-                                <p>Information collected automatically in this manner is used for purposes such as assessing system performance, improving web services, improving website management and determining best content for our visitors.  Vancouver Film School websites do not automatically gather any specific personal information from you, such as your name, phone number, or email address. We only obtain personal information in a manner where you provide consent.</p>
-                                </li>
-
-                            	<li><p><strong>Information collected directly from you</strong></p>
-                                <p>All personal information held or collected by Vancouver Film School is protected under the federal <a href="http://www.priv.gc.ca/legislation/02_07_01_e.cfm">Privacy Act</a>.  This means that at any point of collection you will be asked for consent to collect your information, and you will be informed of the purpose for which it is being collected and how to exercise your right of access to that information</p>
-                                </li>
-
-                            	<li><p><strong>What safeguards are in place?</strong></p>
-                                <p>Vancouver Film School makes reasonable security arrangements to protect your personal information against such risks as unauthorized access, collection, use, disclosure, or disposal.  Security measures have been integrated into the design, implementation, and day-to-day operating practices as part of Vancouver Film School's continuing commitment to the protection of personal information it holds.  Consumer inquiries will be forwarded to the appropriate Vancouver Film School staff by email, and we will make every effort to ensure the security of these transmissions.  Vancouver Film School does not sell or rent your personal information.  Furthermore, Vancouver Film School employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.  This software receives and records the Internet Protocol (IP) address of the computer that has contacted our websites, the date and time of the visit and the pages visited.  We make no attempt to link these addresses with the identity of individuals visiting our sites unless an attempt to damage the sites has been detected.</p>
-                                </li>
-
-                            	<li><p><strong>Cookies</strong></p>
-                                <p>Vancouver Film School uses "cookies" to track how our visitors use this site, demographics on their systems, languages, global locations, and sites previously visited or to determine which site content most appropriately fits our visitors, such as language specific content.  The cookies are not used to identify individuals except in the case of unauthorized attempts described in Section Three (3).  Cookies can be disabled or denied in your web browser settings with minimal impact on your ability to access information from this site.  (A "cookie" is a file that may be placed on your hard drive without your knowledge by a website to allow it to monitor your use of their site.)</p>
-                                </li>
-                                
-                            	<li><p><strong>Use of information</strong></p>
-                                <p>Information on individual visitors is used by Vancouver Film School employees who need to know the information in order to respond to your request or to ensure the security of this system.  We do not disclose this information to anyone outside of our organization except where legally permitted to disclose some personal information in situations such as an investigation of illegal activities, reasonable methods to collect overdue accounts, a medical emergency or suspicion of illegal activities, etc.   Only pertinent information is disclosed.  The school does not sell, lease, or trade information about students to other parties.</p>
-                                </li>
-                                
-                            	<li><p><strong>How long is information retained?</strong></p>
-                                <p>Personal information will only be retained for the period of time required to fulfill the purpose for which it was collected. Once the personal information is no longer required to be retained to fulfill the purposes for which it was collected and is no longer required or permitted to be retained for legal or business purposes, it will be destroyed or made anonymous.</p>
-                                </li>
-                                
-                            	<li><p><strong>Disclosure of third party services</strong></p>
-                                <p>Any message that you may send through our sites will go through Rackspace, a third party corporation responsible for handling the day-to-day web servers for our company.  Information concerning the functioning of the site is provided to Rackspace so that they can propose adjustments to the site to maximize its effectiveness.  Rackspace is bound by a contract with Vancouver Film School to treat any personal information it receives in relation to this website as though it is covered by the provisions of the <a href="http://www.priv.gc.ca/legislation/02_07_01_e.cfm">Privacy Act</a>.  Automated information as outlined by Section One (1) of this Privacy Notice may also be held, managed, or utilized by third party corporations who handle some of our statistical analysis of our web site traffic.  Vancouver Film School makes every effort to select reputable service providers for these services, but is not responsible for the privacy practices of these service providers.</p>
-                                </li>
-                                
-                            	<li><p><strong>Links to other sites</strong></p>
-                                <p>Visitors should be aware that Vancouver Film School websites contain links to websites not operated by Vancouver Film School. If you visit these websites, you will leave our site.  When you visit these other sites, this privacy policy will not apply, although you may be subject to the privacy policy of that new site, if one exists.  Vancouver Film School is not responsible for the privacy practices or content of external websites.</p>
-                                </li>
-                                
-                                <li><p><strong>How can I access and correct information I submit to a Vancouver Film School website?</strong></p>
-                                <p>Vancouver Film School will inform an individual, upon the individual's request, of the existence, use, and disclosure of the individual's personal information, and shall give the individual access to it in accordance with the law.</p>
-                                <p>Individuals may access and verify any personal information with appropriate notice so that the office is able to supply the information required.</p>
-                                <p>All enquiries and complaints regarding your personal information or our Personal Information Privacy Policy should be forwarded to our Privacy Officer:</p>
-                                <p>Attention: Janet Hughes, Human Resources Manager<br>
-                                Address: 200 - 198 West Hastings Street, Vancouver, BC<br>
-                                Phone: 1-604-631-3017<br>
-                                Toll-Free: 1-800-661-4101<br>
-                                Fax: 1-604-685-5836<br>
-                                Email: jhughes@vfs.com</p>
-                                </li>
-                            </ol>
-                            
-							<p>For further information please download Vancouver Film School's '<a href="http://www.vfs.com/downloads/global/VFS_privacy_policy.pdf">Personal Information Privacy Policy for Students</a>' document.</p>
-							<div id="iconlist"><a href="downloads/global/VFS_privacy_policy.pdf" class="pdf">Download VFS Privacy Policy.</a></div>
-                            <br>&nbsp;													
-						</div>
-					</div>
-				</div>
-			</td>
-		</tr>
-								<tr>	
-									<td>                                    	<div id="footer">
-                                        <div class="footer_title">Quick Links</div>
-                                        <!--First Column-->
-                                        <div class="quicklinks" style="padding-left:20px;">
-                                        <div class="quick_title"><a href="/fulltime.php" style="color:#404040">Programs</a></div>
-                                                                               
-                                        <ol><li><a href="/fulltime.php?id=7">3D Animation &amp; Visual Effects</a></li>
-                                        <li><a href="/fulltime.php?id=5">Classical Animation</a></li>
-                                        <li><a href="/fulltime.php?id=9">Digital Character Animation</a></li>
-                                        <li><a href="/fulltime.php?id=10">Acting for Film &amp; Television</a></li>
-                                        <li><a href="/fulltime.php?id=8">Acting Essentials</a></li>
-                                        <li><a href="/fulltime.php?id=13">Digital Design</a></li>
-                                        <li><a href="/fulltime.php?id=15">Entertainment Business Management</a></li>
-                                        <li><a href="/fulltime.php?id=3">Film Production</a></li>
-                                        <li><a href="/fulltime.php?id=14">Game Design</a></li>
-                                        <li><a href="/fulltime.php?id=12">Makeup Design for Film &amp; Television</a></li>
-                                        <li><a href="/fulltime.php?id=11">Sound Design for Visual Media</a></li>
-                                        <li><a href="/fulltime.php?id=6">Writing for Film &amp; Television</a></li></ol>
-                                        
-                                        <ol style="padding-top:10px;"><li><a href="/fulltime.php?id=1">Foundation Visual Art &amp; Design</a></li></ol>
-                                        
-                                        <ol style="padding-top:10px;"><li><a href="/workshops.php">Workshops</a></li></ol></div>
-                                        
-                                        <!--Second Column-->
-                                        <div class="quicklinks"><div class="quick_title"><a href="/admissions.php" style="color:#404040">Admissions</a></div>
-                                        <ol><li><a href="/startnow.php">Speak to An Advisor</a></li>
-                                        <li><a href="/apply_select.php">Apply Online</a></li>
-                                        <li><a href="/thisisvfs.php?section=vfs_on_location">Meet Us Near You</a></li></ol>
-                                        
-                                        <ol style="padding-top:10px;"><li><a href="/admissions.php?region=Canada">Canada</a></li>
-                                        <li><a href="/admissions.php?region=US">US Citizens</a></li>
-                                        <li><a href="/admissions.php?region=International">International</a></li></ol>
-                                        
-                                        <ol style="padding-top:10px;"><li><a href="/admissions.php?section=program_requirements">Program Requirements</a></li>
-                                        <li><a href="/admissions.php?section=payment_refund">Payment / Refund Policy</a></li>
-                                        <li><a href="/admissions.php?section=start_dates_tuition">Start Dates / Tuition</a></li>
-                                        <li><a href="/admissions.php?section=medical_visa">Medical / Visa</a></li>
-                                        <li><a href="/admissions.php?section=financial_aid">Financial Aid</a></li>
-                                        <li><a href="/admissions.php?section=scholarships">Scholarships</a></li></ol></div>
-                                         
-                                        <!--Third Column-->
-                                        <div class="quicklinks"><div class="quick_title"><a href="/showcase.php" style="color:#404040">Showcase</a></div>
-                                        <ol><li><a href="/showcase.php?id=7">3D Animation &amp; Visual Effects</a></li>
-                                        <li><a href="/showcase.php?id=5">Classical Animation</a></li>
-                                        <li><a href="/showcase.php?id=9">Digital Character Animation</a></li>
-                                        <li><a href="/showcase.php?id=10">Acting for Film &amp; Television</a></li>
-                                        <li><a href="/showcase.php?id=13">Digital Design</a></li>
-                                        <li><a href="/showcase.php?id=3">Film Production</a></li>
-                                        <li><a href="/showcase.php?id=14">Game Design</a></li>
-										<li><a href="/showcase.php?id=12">Makeup Design for Film &amp; Television</a></li>
-                                        <li><a href="/showcase.php?id=11">Sound Design for Visual Media</a></li>
-                                        <li><a href="/showcase.php?id=6">Writing for Film &amp; Television</a></li>
-                                        <li><a href="/showcase.php?id=1">Foundation Visual Art &amp; Design</a></li></ol>
-                                        <div class="quick_title"><a href="/community" style="color:#404040">Community</a></div>
-                                        <div class="quick_title"><a href="/blog/" style="color:#404040">Blog</a></div>
-                                        <ol><li><a href="/blog/">Latest Posts</a></li>
-                                        <li><a href="/blog/infocus/">In Focus Magazine</a></li>
-                                        <li>&nbsp;</li></ol>
-                                        </div>
-                                              
-                                        <!--Fourth Column-->      
-                                       <div class="quicklinksright">
-                                      <div class="quick_title"><a href="/thisisvfs.php" style="color:#404040">About VFS</a></div>
-                                       <ol><li><a href="/thisisvfs.php?section=advantage">Our Educational Advantage</a></li>
-                                       <li><a href="/thisisvfs.php?section=department_heads">Program Leaders</a></li>
-                                       <li><a href="/thisisvfs.php?section=partnerships">Partnerships</a></li>
-                                       <li><a href="/thisisvfs.php?section=careers_at_vfs">Careers @ VFS</a></li>
-                                       <li><a href="/thisisvfs.php?section=festivals_awards">Festivals &amp; Awards</a></li>
-                                       <li><a href="/thisisvfs.php?section=testimonials">Testimonials</a></li>
-                                       <li><a href="/thisisvfs.php?section=press_room">Press Room</a></li>
-                                       <li><a href="/thisisvfs.php?section=faq">FAQ</a></li>
-                                       <li><a href="/contact_us.php">Contact Us</a></li>
-                                       </ol>
-                                         <div class="quick_title"><a href="/lifeatvfs.php" style="color:#404040">Life at VFS</a></div>
-                                       <ol><li><a href="/lifeatvfs.php?section=vancouver">Vancouver</a></li>
-                                       <li><a href="/lifeatvfs.php?section=campuses">Campuses</a></li>
-                                       <li><a href="/lifeatvfs.php?section=housing">Housing</a></li>
-                                       <li><a href="/lifeatvfs.php?section=find_a_roommate">Find a Roommate</a></li><li><a href="/alumni.php?section=webmail" target="_blank">Webmail</a></li>
-                                        <li><a href="/alumni.php?section=directory">Alumni Network Directory</a></li>
-                                        <li><a href="/alumni.php?section=job_board">Alumni Job Board</a></li></ol>
-                                       </div>
-                                       <div style="clear:both"></div>
-									   <div id="footer-bg"></div>
-									   </div>
-                                       <!-- End Footer --> 
-                                   
-                                        <div style="float:right; padding: 5px 10px 5px 0; font-size:0.9em" class="fineprint">Please report errors and omissions to the <a href="mailto:webmaster@vfs.com?subject=Regarding%20vfs.com">Webmaster</a></div>
-											<div id="footer_links" style="padding:5px 0 5px 0; font-size:0.9em; text-indent:3px;"><a href="/copyright.php" class="print">Copyright</a> © 2010 VFS<span class="seperator">|</span><a href="/terms.php">Terms</a><span class="seperator">|</span><a href="/privacy.php">Privacy</a><span class="seperator">|</span><a href="/sitemap.php">Site Map</a></div>
-									</td></tr></tbody></table><!-- End Content -->	<!-- End Body Frame --><!-- End Main Page Container -->
-                </div>
-                </div>
-		</div>
-	</div>
-	<script type="text/javascript" src="http://media.vfs.com/assets/js/vfs_general.min.20071217.js"></script>
-			        <link rel="stylesheet" href="/styles/prettyPhoto.css" type="text/css" media="screen" charset="utf-8">
-        <script src="/js/jquery.prettyPhoto.js" type="text/javascript" charset="utf-8"></script>
-       <script type="text/javascript" charset="utf-8">
-		$(document).ready(function(){
-			$("a[rel^='lightbox']").prettyPhoto({
-				animationSpeed: 'normal', /* fast/slow/normal */
-				padding: 40, /* padding for each side of the picture */
-				opacity: 0.75, /* Value betwee 0 and 1 */
-				showTitle: false, /* true/false */
-				allowresize: true, /* true/false */
-				counter_separator_label: '/', /* The separator for the gallery counter 1 "of" 2 */
-				theme: 'dark_rounded', /* light_rounded / dark_rounded / light_square / dark_square */
-				callback: function(){}
-			});
-		});
-		
-		</script>
-			
- <script language="javascript" src="/js/jquery.clickmenu.js"></script>
- <script src="http://media.vfs.com/assets/js/jquery/browser/jquery.browser-2.3.min.20080926.js" type="text/javascript"></script>
-	<script type="text/javascript">
-    // vfs banner component properties
-	var isDocumentLoaded = false;
-	oVFSBannerComponent = new Object;
-			oVFSBannerComponent.isAutoScroll = true;
-		oVFSBannerComponent.iPageCounter = 1;
-	// assign the zone
-		
-		oVFSBannerComponent.sZone = 'misc';
-		// page specific triggers
-	isDocumentLoaded = $(document).ready(function() {
-		activateVFSSubMenus(); // init the site
-		//$.NiceJForms.build(); // load niceforms
-						return true;
-	} );
-	
-	
-	// return whether or not the DOM is loaded
-	function getDocumentLoadState() {
-		if(isDocumentLoaded) {
-			return 'true';
-		} else {
-			return 'false';
-		}
-	}
-	// return a JSON representation of an object in scope
-	function getJSON(oTarget) {
-		if(oTarget == 'oVFSBannerComponent'){
-			// return JSON of oVFSBannerComponent
-			return '{"isAutoScroll":'+oVFSBannerComponent.isAutoScroll+',"iPageCounter":'+oVFSBannerComponent.iPageCounter+',"sZone":"'+oVFSBannerComponent.sZone+'"}';
-		} else {
-			return false;
-		}
-	}
-	function thisMovie(movieName) {
-		var nAgt = navigator.userAgent;
-		if ((nAgt.indexOf("MSIE")!=-1) || (nAgt.indexOf("Opera"))!=-1){
-			return window[movieName];
-		}else if ( (nameOffset=nAgt.lastIndexOf(' ')+1) < (verOffset=nAgt.lastIndexOf('/')) ) {
-			if(nAgt.substring(nameOffset,verOffset)== 'Safari') {
-				return window[movieName];
-			} else {
-				return document[movieName];
-			}
-		} else {
-			return document[movieName];
-		}
-	}
-	function changeAutoScrollTo(value) {
-		thisMovie("bannercomponentflashid").changeAutoScrollTo(value);
-	}
-	
-	function showBannerTabs(iTabs) {
-	
-		if(iTabs > 1){
-			$('.banner-tab').css('display', 'none');
-			for (var i = 1; i <= iTabs; i++) {
-				$('#banner-tab-'+i).css('display', 'inline');
-			}
-			$('#banner-tabs').css('display', 'block').addClass('banner-tabs-'+iTabs);
-		}
-	
-	}
-	function currentBannerPage(iPage) {
-		$('li.banner-tab a').removeClass('current').addClass('unselected');
-		$('#banner-tab-'+iPage+' a').addClass('current').removeClass('unselected');
-	}	
-
-	$(document).ready(function(){		 
-		/* language menu */
-		
-		$('#language_menu').clickMenu();
-		$('#language_submenu').css('display','block');
-		$('#more_channels_menu').clickMenu();
-		$('#more_channels_submenu').css('display','block');
-		/* banner compenent */
-		$('li.banner-tab a').bind('click', function(e) {
-			e.preventDefault();
-			thisMovie("bannercomponentflashid").gotoBannerPage($(this).find('span').html());
-		});
-		
-	});
-	
-	
-	</script>
-	
+          <link rel="shortcut icon" href="http://media.vfs.com/assets/images/global/vfsicon.ico">
+  <link rel="stylesheet" media="screen" href="css/superfish.css.pagespeed.cf.rMN6oPoSgA.css">   
+  <link rel="stylesheet" href="css/style.css.pagespeed.ce.Ld-mfWkD4I.css">
+			<meta property="og:image" content="http://media.vfs.com/vfs/facebook/vancouverfilmschool.jpg">
 	    
-    <script type="text/javascript">
-		
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-		<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-397345-1");
-		pageTracker._trackPageview();
-		} catch(err) {}
-		
-	</script>
-    	
+          
+        <script async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js" type="text/javascript" async=""></script><script src="http://cdn.jquerytools.org/1.2.5/full/jquery.tools.min.js"></script>
+  
+  <script src="js/jquery.cookies.2.2.0.min.js.pagespeed.jm.lEkPuUTblK.js"></script>
+    <script src="js/jquery.vfsbanner.js.pagespeed.jm.DgYbyN6qER.js"></script>
+          <script type="text/javascript">WebFontConfig={google:{families:['Droid Sans:regular,bold:latin']}};(function(){var wf=document.createElement('script');wf.src=('https:'==document.location.protocol?'https':'http')+
+'://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';wf.type='text/javascript';wf.async='true';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(wf,s);})();</script>
+    <link rel="stylesheet" type="text/css" href="css/projekktor,,_vfs,,_style.css+colorbox_dark.css,Mcc.kB9-6Xq8ni.css.pagespeed.cf.0XbvSQdYOU.css" media="screen">
+  
+          
+        <script src="js/libs/modernizr-1.6.min.js.pagespeed.ce.ZYZ773R-xw.js"></script>
+  <script src="js/projekktor.min.js.pagespeed.jm.TwfnCQNC7U.js" type="text/javascript"></script>
+  
+      
+</head>
         
-	     
-    	<script type="text/javascript">
-	
-	$(document).ready(function(){
-		$('a').click(function() {
-		  var $a = $(this);
-		  var href = $a.attr('href');
-		 
-		  // see if the link is external
-		  if ( (href.match(/^http/)) && (! href.match(document.domain)) ) {
-		    //var event = 'click'; // set this to whatever you want
-			//var label = href; // set this to whatever you want
-			
-			// if so, register an event
-			var category = 'outgoing'; // set this to whatever you want
-			var event = href; // assigns a custom event to each external site
-			var label = document.URL; // determine active page URL
-			label = label.replace('http://',''); // strip leading http://
-			label = label.replace(document.domain,''); // strip domain
-		 
-			pageTracker._trackEvent(category, event, label);
-		  }
-		});
-	});
-	
-	</script> 
+<body class="privacy">
+  <div id="container"> 
+    <header class="top">
+		  <h1>Vancouver Film School: Production, Animation, Game Design, Acting and more</h1>
+	    <a href="/"><img id="vfslogo" src="images/386x56xVancouver_Film_School.gif.pagespeed.ic.UlOmj4uhh0.png" width="386" height="56" alt="Vancouver Film School"></a>
+		
+    	<nav><ul id="primary-menu" class="sf-menu">
+				<li class="home"> <a href="/" class="bar"><span>Home</span></a> </li>
+				<li class="programs"> <a href="programs" class="bar"><span>Programs</span></a>
+					<ul>
+						<li> <a href="programs/3D-animation-vfx">3D Animation &amp; Visual Effects</a> </li>
+						<li> <a href="programs/classical-animation">Classical Animation</a> </li>
+						<li class="divider"> <a href="programs/digital-character-animation">Digital Character Animation</a> </li>
+						<li> <a href="programs/acting">Acting for Film &amp; Television</a> </li>
+						<li> <a href="programs/acting-essentials">Acting Essentials</a> </li>
+						<li> <a href="programs/digital-design">Digital Design</a> </li>
+						<li> <a href="programs/entertainment-business">Entertainment Business Management</a> </li>
+						<li> <a href="programs/film-production">Film Production</a> </li>
+						<li> <a href="programs/game-design">Game Design</a> </li>
+						<li> <a href="programs/makeup">Makeup Design for Film &amp; Television</a> </li>
+						<li> <a href="programs/sound-design">Sound Design for Visual Media</a> </li>
+						<li class="divider"> <a href="programs/writing">Writing for Film &amp; Television</a> </li>
+						<li class="divider"> <a href="programs/foundation">Foundation Visual Art &amp; Design</a> </li>
+						<li> <a href="workshops">Workshops</a> </li>
+					</ul>
+				</li>
+				<li class="admissions"> <a href="admissions" class="bar"><span>Admissions</span></a>
+					<ul>
+						<li> <a href="speak-to-advisor">Speak to an Advisor</a> </li>
+						<li class="divider"> <a href="https://secure.vfs.com/apply/apply.php">Apply Now</a> </li>
+						<li> <a href="admissions/canada">Canada</a> </li>
+						<li> <a href="admissions/united-states">United States</a> </li>
+						<li> <a href="admissions/international">International</a> </li>
+					</ul>
+				</li>
+				<li class="community"> <a href="community" class="bar"><span>Community</span></a> </li>
+				<li class="showcase"> <a href="showcase" class="bar"><span>Showcase</span></a>
+					<ul>
+						<li> <a href="showcase/3D-animation-vfx">3D Animation &amp; Visual Effects</a> </li>
+						<li> <a href="showcase/classical-animation">Classical Animation</a> </li>
+						<li> <a href="showcase/digital-character-animation">Digital Character Animation</a> </li>
+						<li> <a href="showcase/acting">Acting for Film &amp; Television</a> </li>
+						<li> <a href="showcase/digital-design">Digital Design</a> </li>
+						<li> <a href="showcase/entertainment-business">Entertainment Business Management</a> </li>                        
+						<li> <a href="showcase/film-production">Film Production</a> </li>
+						<li> <a href="showcase/game-design">Game Design</a> </li>
+						<li> <a href="showcase/makeup">Makeup Design for Film &amp; Television</a> </li>
+						<li> <a href="showcase/sound-design">Sound Design for Visual Media</a> </li>
+						<li> <a href="showcase/writing">Writing for Film &amp; Television</a> </li>
+						<li> <a href="showcase/foundation">Foundation Visual Art &amp; Design</a> </li>
+					</ul>
+				</li>
+				<li class="aboutvfs"> <a href="about-vfs" class="bar"><span>About VFS</span></a>
+					<ul>
+						<li> <a href="about-vfs/advantage">Our Educational Advantage</a> </li>
+						<li> <a href="about-vfs/program-leaders">Program Leaders</a> </li>
+						<li> <a href="about-vfs/testimonials">Testimonials</a> </li>
+						<li> <a href="about-vfs/festivals">Festivals &amp; Awards</a> </li>
+						<li> <a href="about-vfs/partnerships">Partnerships</a> </li>
+						<li> <a href="about-vfs/meet-us">Meet Us Near You</a> </li>
+						<li> <a href="http://www.cafepress.ca/vfsstore">VFS Merchandise</a> </li>
+						<li> <a href="about-vfs/careers">Careers</a> </li>
+						<li> <a href="about-vfs/press-room">Press Room</a> </li>
+						<li> <a href="http://blog.vfs.com/infocus/">VFS In Focus Magazine</a> </li>
+						<li> <a href="about-vfs/contact">Contact Us</a> </li>
+					</ul>
+				</li>			
+				<li class="lifeatvfs"> <a href="life-at-vfs" class="bar"><span>Life at VFS</span></a>
+					<ul>
+						<li> <a href="life-at-vfs/campuses">Campuses</a> </li>
+						<li> <a href="life-at-vfs/vancouver">Living In Vancouver</a> </li>
+						<li> <a href="life-at-vfs/housing">Housing</a> </li>
+						<li> <a href="life-at-vfs/roommate">Find a Roommate</a> </li>
+						<li> <a href="life-at-vfs/school-breaks">School Breaks</a> </li>
+						<li> <a href="life-at-vfs/alumni-tools">Alumni Tools</a> </li>
+					</ul>
+				</li>
+				<li class="blog last"> <a href="http://blog.vfs.com/" class="bar"><span>Blog</span></a> </li>
+        </ul>
+      </nav>
+      
+	  	   
+			<section class="banner">
+					<ul id="banners">	
+					         
+							<li class="fading">
+									<h2>
+											<a href="http://blog.vfs.com/2011/06/01/the-killer-script-grads-assassin-story-hits-the-big-screen">
+												<img src="http://blog.vfs.com/wp-content/uploads/2011/06/the_killer_script.jpg" alt="The Killer Script: Assassin Story Hits the Big Screen">
+												<span>The Killer Script: Assassin Story Hits the Big Screen</span>
+											</a>
+									</h2>
+							</li>    							
+					         
+							<li class="fading">
+									<h2>
+											<a href="http://blog.vfs.com/2011/06/29/back-to-back-wins-for-vfs-as-school-of-the-year-at-the-cgsas/">
+												<img src="http://blog.vfs.com/wp-content/uploads/2011/06/2back-to-back_wins_for_vfs_as_school_of_the_year_at_the_CGSAs.jpg" alt="VFS Named School of the Year by CGSA">
+												<span>VFS Named School of the Year by CGSA</span>
+											</a>
+									</h2>
+							</li>    							
+					         
+							<li class="fading">
+									<h2>
+											<a href="http://blog.vfs.com/2011/10/31/vfs-and-soundcloud-challenge-you-to-design-a-brand-new-sound/">
+												<img src="http://blog.vfs.com/wp-content/uploads/2011/10/VFS_Soundcloud_Challenge_Banner_V11.jpg" alt="VFS and SoundCloud present a Full Scholarship Challenge">
+												<span>VFS and SoundCloud present a Full Scholarship Challenge</span>
+											</a>
+									</h2>
+							</li>    							
+					         
+							<li class="fading">
+									<h2>
+											<a href="http://blog.vfs.com/2011/09/15/adam-dimarco-cannot-slow-down/">
+												<img src="http://blog.vfs.com/wp-content/uploads/2011/10/adam-dimarco-cannot-slow-down3.jpg" alt="Adam DiMarco  Cannot Slow Down">
+												<span>Adam DiMarco  Cannot Slow Down</span>
+											</a>
+									</h2>
+							</li>    							
+					         
+							<li class="fading">
+									<h2>
+											<a href="2010">
+												<img src="http://blog.vfs.com/wp-content/uploads/2011/06/2010Retrospective1.jpg" alt="2010: A Year in Review">
+												<span>2010: A Year in Review</span>
+											</a>
+									</h2>
+							</li>    							
+					         
+							<li class="fading">
+									<h2>
+											<a href="http://oomph.vfs.com">
+												<img src="http://blog.vfs.com/wp-content/uploads/2011/06/oomph_charcoal.jpg" alt="Visit OOMPH">
+												<span>Visit OOMPH</span>
+											</a>
+									</h2>
+							</li>    							
+					  					</ul>
+					<div class="container">
+						<div class="slider_arrow_left"></div>
+						<div class="slider_arrow_right"></div>
+						<div class="slider_arrow_min" title="collapse featured content"></div>            
+						<div class="slider_arrow_max" title="reveal featured content"></div>
+						<ul class="slider_selector"></ul>
+					</div>     
+				</section>
+				<script type="text/javascript">$('.banner').VFSBanner();</script>      
+			      
+			      
+    </header>
+<section class="body clearfix">
+  <a name="top"></a>
+  <section class="breadcrumb">
+    <a href="/">Home</a> <span class="sep">|</span> Privacy</section>
+  <header>
+    <h1>Privacy Notice</h1>
+  </header>
+  <div class="s-wide">
+
+    <p>Our website has been developed so that you can visit Vancouver Film School on the web without identifying yourself or revealing any personal information. Any personal information voluntarily provided to Vancouver Film School through its websites is collected, used, and disclosed in accordance with the Freedom of Information and Protection of Privacy Act or other applicable legislation. This page summarizes the privacy policy and practices of Vancouver Film School websites.</p>
+
+    <ol>
+      <li>
+        <h3>What kind of information is collected?</h3>
+        <p>If you visit a Vancouver Film School website to browse, read pages, or download information, we will gather and store certain information about the visit. The following information is automatically collected and stored:</p>
+        <ul class="footnote">
+          <li>The Internet Protocol address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. This address can be translated to determine the domain name of your service provider;</li>
+          <li>Information relating to your computer system, such as the type of browser and operating system, language used, and demographic information such as global location;</li>
+          <li>The date and time of the visit; and</li>
+          <li>The web pages or services accessed.</li>
+        </ul>
+
+        <p>Information collected automatically in this manner is used for purposes such as assessing system performance, improving web services, improving website management and determining best content for our visitors. Vancouver Film School websites do not automatically gather any specific personal information from you, such as your name, phone number, or email address. We only obtain personal information in a manner where you provide consent.</p>
+      </li>
+
+      <li>
+        <h3>Information collected directly from you</h3>
+        <p>All personal information held or collected by Vancouver Film School is protected under the federal <a href="http://laws.justice.gc.ca/eng/P-21">Privacy Act</a>. This means that at any point of collection you will be asked for consent to collect your information, and you will be informed of the purpose for which it is being collected and how to exercise your right of access to that information.</p>
+      </li>
+
+      <li>
+        <h3>What safeguards are in place?</h3>
+        <p>Vancouver Film School makes reasonable security arrangements to protect your personal information against such risks as unauthorized access, collection, use, disclosure, or disposal. Security measures have been integrated into the design, implementation, and day-to-day operating practices as part of Vancouver Film School's continuing commitment to the protection of personal information it holds. Consumer inquiries will be forwarded to the appropriate Vancouver Film School staff by email, and we will make every effort to ensure the security of these transmissions. Vancouver Film School does not sell or rent your personal information. Furthermore, Vancouver Film School employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. This software receives and records the Internet Protocol (IP) address of the computer that has contacted our websites, the date and time of the visit and the pages visited. We make no attempt to link these addresses with the identity of individuals visiting our sites unless an attempt to damage the sites has been detected.</p>
+      </li>
+
+      <li>
+        <h3>Cookies</h3>
+        <p>Vancouver Film School uses "cookies" to track how our visitors use this site, demographics on their systems, languages, global locations, and sites previously visited or to determine which site content most appropriately fits our visitors, such as language specific content. The cookies are not used to identify individuals except in the case of unauthorized attempts described in Section Three (3). Cookies can be disabled or denied in your web browser settings with minimal impact on your ability to access information from this site. (A "cookie" is a file that may be placed on your hard drive without your knowledge by a website to allow it to monitor your use of their site.)</p>
+      </li>
+
+      <li>
+        <h3>Use of information</h3>
+        <p>Information on individual visitors is used by Vancouver Film School employees who need to know the information in order to respond to your request or to ensure the security of this system. We do not disclose this information to anyone outside of our organization except where legally permitted to disclose some personal information in situations such as an investigation of illegal activities, reasonable methods to collect overdue accounts, a medical emergency or suspicion of illegal activities, etc. Only pertinent information is disclosed. The school does not sell, lease, or trade information about students to other parties.</p>
+      </li>
+
+      <li>
+        <h3>How long is information retained?</h3>
+        <p>Personal information will only be retained for the period of time required to fulfill the purpose for which it was collected. Once the personal information is no longer required to be retained to fulfill the purposes for which it was collected and is no longer required or permitted to be retained for legal or business purposes, it will be destroyed or made anonymous.</p>
+      </li>
+
+      <li>
+        <h3>Disclosure of third party services</h3>
+        <p>Any message that you may send through our sites will go through Rackspace, a third party corporation responsible for handling the day-to-day web servers for our company. Information concerning the functioning of the site is provided to Rackspace so that they can propose adjustments to the site to maximize its effectiveness. Rackspace is bound by a contract with Vancouver Film School to treat any personal information it receives in relation to this website as though it is covered by the provisions of the <a href="http://laws.justice.gc.ca/eng/P-21">Privacy Act</a>. Automated information as outlined by Section One (1) of this Privacy Notice may also be held, managed, or utilized by third party corporations who handle some of our statistical analysis of our web site traffic. Vancouver Film School makes every effort to select reputable service providers for these services, but is not responsible for the privacy practices of these service providers.</p>
+      </li>
+
+      <li>
+        <h3>Links to other sites</h3>
+        <p>Visitors should be aware that Vancouver Film School websites contain links to websites not operated by Vancouver Film School. If you visit these websites, you will leave our site. When you visit these other sites, this privacy policy will not apply, although you may be subject to the privacy policy of that new site, if one exists. Vancouver Film School is not responsible for the privacy practices or content of external websites.</p>
+      </li>
+
+      <li>
+        <h3>How can I access and correct information I submit to a Vancouver Film School website?</h3>
+        <p>Vancouver Film School will inform an individual, upon the individual's request, of the existence, use, and disclosure of the individual's personal information, and shall give the individual access to it in accordance with the law.</p>
+        <p>Individuals may access and verify any personal information with appropriate notice so that the office is able to supply the information required.</p>
+        <p>All enquiries and complaints regarding your personal information or our Personal Information Privacy Policy should be forwarded to our Privacy Officer:</p>
+        <p>Attention: Janet Hughes, Human Resources Manager<br>
+Address: 200 - 198 West Hastings Street, Vancouver, BC<br>
+Phone: 1-604-631-3017<br>
+Toll-Free: 1-800-661-4101<br>
+Fax: 1-604-685-5836<br>
+Email: <a href="mailto:jhughes@vfs.com">jhughes@vfs.com</a>
+        </p>
+      </li>
+
+    </ol>
+
+    <p>For further information please download Vancouver Film School's '<a href="downloads/global/VFS_privacy_policy.pdf">Personal Information Privacy Policy for Students</a>' document.</p>
+    <p>
+      <a href="downloads/global/VFS_privacy_policy.pdf" class="pdf">Download VFS Privacy Policy.</a>
+    </p>
+
+  </div>
+</section>
+<footer class="footer clearfix">
     
-    	<script type="text/javascript">
-	
-	$(document).ready(function(){
-		$('#wsb_titlebar_recent-stories').click(function(e) {
-		  e.preventDefault();
-		  $('#recent-stories').toggle();
-		  $('#top-stories').toggle();
-		  $(this).toggleClass('active');
-		  $('#wsb_titlebar_top-picks').toggleClass('active');		  
-		});
-		$('#wsb_titlebar_top-picks').click(function(e) {
-		  e.preventDefault();
-		  $('#recent-stories').toggle();
-		  $('#top-stories').toggle();
-		  $(this).toggleClass('active');
-		  $('#wsb_titlebar_recent-stories').toggleClass('active');
-		});
-	});
-	
-	</script>     
-<!--HitTail Code--><script src="http://81938.hittail.com/mlt.js" type="text/javascript"></script><!--End HitTail Code-->
+	<div class="xx-wide xx-tall">
+
+	<div class="sharelinks">
+		<h1>Quick Links</h1>
+		
+		<div class="sharewrap sharethis">
+			<span class="st_sharethis" displaytext="ShareThis"></span>
+		</div>
+       			
+		<div class="sharewrap twitter">
+			<a href="http://twitter.com/share" class="twitter-share-button" data-count="horizontal">Tweet</a>
+		</div>
+       			
+		<div class="sharewrap plusone">
+			<div class="g-plusone" data-size="medium" data-count="true"></div>
+		</div>
+        		
+		<div class="sharewrap facebook">
+			<div id="fb-root"></div>
+			<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+			<fb:like href="" send="true" layout="button_count" width="350" show_faces="true" font=""></fb:like>
+		</div>
+
 	</div>
+		
+	<section class="quicklinks line">
+		<div class="unit size1of4 firstUnit">
+			<div class="xx-wide" style="padding-right:0;">
+				<h3>Programs</h3>
+				<ul class="clearfix">
+					<li>
+						<a href="programs/3D-animation-vfx">3D Animation &amp; Visual Effects</a>
+					</li>
+					<li>
+						<a href="programs/classical-animation">Classical Animation</a>
+					</li>
+					<li>
+						<a href="programs/digital-character-animation">Digital Character Animation</a>
+					</li>
+					<li>
+						<a href="programs/acting">Acting for Film &amp; Television</a>
+					</li>
+					<li>
+						<a href="programs/acting-essentials">Acting Essentials</a>
+					</li>
+					<li>
+						<a href="programs/digital-design">Digital Design</a>
+					</li>
+					<li>
+						<a href="programs/entertainment-business">Entertainment Business Management</a>
+					</li>
+					<li>
+						<a href="programs/film-production">Film Production</a>
+					</li>
+					<li>
+						<a href="programs/game-design">Game Design</a>
+					</li>
+					<li>
+						<a href="programs/makeup">Makeup Design for Film &amp; Television</a>
+					</li>
+					<li>
+						<a href="programs/sound-design">Sound Design for Visual Media</a>
+					</li>
+					<li>
+						<a href="programs/writing">Writing for Film &amp; Television</a>
+					</li>
+					<li>
+						<a href="programs/foundation">Foundation Visual Art &amp; Design</a>
+					</li>
+					<li> &nbsp; </li>
+					<li>
+						<a href="workshops">Workshops</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="unit size1of4">
+			<div class="xx-wide" style="padding-left:60px;padding-right:0;">
+				<h3>Admissions</h3>
+				<ul class="clearfix">
+					<li>
+						<a href="speak-to-advisor">Speak to An Advisor</a>
+					</li>
+					<li>
+						<a href="https://secure.vfs.com/apply/apply.php">Apply Online</a>
+					</li>
+					<li>
+						<a href="about-vfs/meet-us">Meet Us Near You</a>
+					</li>
+					<li> &nbsp; </li>
+					<li>
+						<a href="admissions/canada">Canada</a>
+					</li>
+					<li>
+						<a href="admissions/united-states">United States</a>
+					</li>
+					<li>
+						<a href="admissions/international">International</a>
+					</li>
+					<li> &nbsp; </li>
+					<li>
+						<a href="admissions">Program Requirements</a>
+					</li>
+					<li>
+						<a href="admissions">Payment / Refund Policy</a>
+					</li>
+					<li>
+						<a href="admissions">Start Dates / Tuition</a>
+					</li>
+					<li>
+						<a href="admissions">Medical / Visa</a>
+					</li>
+					<li>
+						<a href="admissions">Financial Aid</a>
+					</li>
+					<li>
+						<a href="admissions">Scholarships</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="unit size1of4">
+			<div class="xx-wide" style="padding-right:0;">
+				<h3>Showcase</h3>
+				<ul class="clearfix">
+					<li>
+						<a href="showcase/3D-animation-vfx">3D Animation &amp; Visual Effects</a>
+					</li>
+					<li>
+						<a href="showcase/classical-animation">Classical Animation</a>
+					</li>
+					<li>
+						<a href="showcase/digital-character-animation">Digital Character Animation</a>
+					</li>
+					<li>
+						<a href="showcase/acting">Acting for Film &amp; Television</a>
+					</li>
+					<li>
+						<a href="showcase/digital-design">Digital Design</a>
+					</li>
+					<li>
+						<a href="showcase/entertainment-business">Entertainment Business Management</a>
+					</li>
+					<li>
+						<a href="showcase/film-production">Film Production</a>
+					</li>
+					<li>
+						<a href="showcase/game-design">Game Design</a>
+					</li>
+					<li>
+						<a href="showcase/makeup">Makeup Design for Film &amp; Television</a>
+					</li>
+					<li>
+						<a href="showcase/sound-design">Sound Design for Visual Media</a>
+					</li>
+					<li>
+						<a href="showcase/writing">Writing for Film &amp; Television</a>
+					</li>
+					<li>
+						<a href="showcase/foundation">Foundation Visual Art &amp; Design</a>
+					</li>
+					<li> &nbsp; </li>
+				</ul>
+				<h3>Life at VFS</h3>
+				<ul class="clearfix">
+					<li>
+						<a href="life-at-vfs/campuses">Campuses</a>
+					</li>
+					<li>
+						<a href="life-at-vfs/vancouver">Living in Vancouver</a>
+					</li>
+					<li>
+						<a href="life-at-vfs/housing">Housing</a>
+					</li>
+					<li>
+						<a href="life-at-vfs/roommate">Find a Roommate</a>
+					</li>					
+					<li>
+						<a href="life-at-vfs/school-breaks">School Breaks</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+		<div class="unit size1of4 lastUnit">
+			<div class="xx-wide" style="padding-left:60px;">
+				<h3>About VFS</h3>
+				<ul class="clearfix">
+					<li>
+						<a href="about-vfs/advantage">Our Educational Advantage</a>
+					</li>
+					<li>
+						<a href="about-vfs/program-leaders">Program Leaders</a>
+					</li>
+					<li>
+						<a href="about-vfs/testimonials">Testimonials</a>
+					</li>
+					<li>
+						<a href="about-vfs/festivals">Festivals &amp; Awards</a>
+					</li>
+					<li>
+						<a href="about-vfs/partnerships">Partnerships</a>
+					</li>
+					<li>
+						<a href="about-vfs/careers">Careers</a>
+					</li>
+					<li>
+						<a href="about-vfs/press-room">Press Room</a>
+					</li>
+<!-- 						<li>
+							<a href="/about-vfs/faq">FAQ</a>
+						</li> -->
+					<li>
+						<a href="http://blog.vfs.com/infocus">In Focus Magazine</a>
+					</li>						
+					<li>
+						<a href="about-vfs/contact">Contact Us</a>
+					</li>
+					<li> &nbsp; </li>
+				</ul>
+				<h3>Alumni</h3>
+				<ul class="clearfix">
+					<li>
+						<a href="https://email.vfs.com">VFS Email</a>
+					</li>
+					<li>
+						<a href="http://projects.myvfs.com">Alumni Portal</a>
+					</li>
+					<li> &nbsp; </li>
+				</ul>
+				<h3>Blog</h3>
+				<ul class="clearfix">
+					<li>
+						<a href="http://blog.vfs.com">Latest Posts</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</div>
+		
+	<div class="xx-wide">
+		<section class="important_notices">
+			<a href="copyright" class="print">Copyright</a> © 2011 VFS <span class="seperator">|</span>
+			<a href="terms">Terms</a>
+			<span class="seperator">|</span>
+			<a href="privacy">Privacy</a>
+			<span class="seperator">|</span>
+			<a href="site-map">Site Map</a>
+		</section>
+		<section class="get_help">Please report errors and omissions to the <a href="mailto:webmaster@vfs.com?subject=vfs.com">Webmaster</a>
+		</section>
+	</div>
+ 
+</footer>
+</div>
 
 
- </body></html>
+<script src="js/jquery.easing.1.3.js.pagespeed.jm.A1dabUvSc4.js"></script>
+<script src="js/jquery.ddslider.min.js.pagespeed.jm.ApXzc5f8aB.js"></script>
+
+<script>(function($){})(this.jQuery);$.fn.exists=function(){return this.length!==0;}
+window.log=function(){log.history=log.history||[];log.history.push(arguments);if(this.console){console.log(Array.prototype.slice.call(arguments));}};(function(doc){var write=doc.write;doc.write=function(q){log('document.write(): ',arguments);if(/docwriteregexwhitelist/.test(q))write.apply(doc,arguments);};})(document);var VFSVideoStateListener=function(state,ref){var videoName=($(".secondary_video a.active h3").exists())?$(".secondary_video a.active h3").html():$(".custom_slate h2").html();var eventLabel=videoName;if(eventLabel){switch(state){case'COMPLETED':try{_gaq.push(['_trackEvent','Videos','Completed',eventLabel]);}catch(err){}
+break;case'AWAKENING':try{$(".video-box .custom_slate").hide();_gaq.push(['_trackEvent','Videos','Play',eventLabel]);}catch(err){}
+break;}}};$.fn.VFSVideoCarousel=function(){$('.secondary_video a').click(function(event){switch(this.id){case'primary_video':projekktor('pplayer').setFile(pplayer_primary_video_data,false).setPlay();break;case'secondary_video':projekktor('pplayer').setFile(pplayer_secondary_video_data,false).setPlay();break;case'tertiary_video':projekktor('pplayer').setFile(pplayer_tertiary_video_data,false).setPlay();break;}
+$('.secondary_video a.active').removeClass('active');$(this).addClass('active');});}
+$.fn.VFSVideoCarouselLoadDefault=function(){var default_video=window.location.hash.substr(6);switch(default_video){case'primary_video':projekktor('pplayer').setFile(pplayer_primary_video_data,false).setPlay();break;case'secondary_video':projekktor('pplayer').setFile(pplayer_secondary_video_data,false).setPlay();break;case'tertiary_video':projekktor('pplayer').setFile(pplayer_tertiary_video_data,false).setPlay();break;}
+$('.secondary_video a.active').removeClass('active');$('#'+default_video).addClass('active');$(".video-box .custom_slate").hide();}</script>
+<script></script>
+
+<script>(function($){$.fn.hoverIntent=function(f,g){var cfg={sensitivity:7,interval:100,timeout:0};cfg=$.extend(cfg,g?{over:f,out:g}:f);var cX,cY,pX,pY;var track=function(ev){cX=ev.pageX;cY=ev.pageY;};var compare=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);if((Math.abs(pX-cX)+Math.abs(pY-cY))<cfg.sensitivity){$(ob).unbind("mousemove",track);ob.hoverIntent_s=1;return cfg.over.apply(ob,[ev]);}else{pX=cX;pY=cY;ob.hoverIntent_t=setTimeout(function(){compare(ev,ob);},cfg.interval);}};var delay=function(ev,ob){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);ob.hoverIntent_s=0;return cfg.out.apply(ob,[ev]);};var handleHover=function(e){var p=(e.type=="mouseover"?e.fromElement:e.toElement)||e.relatedTarget;while(p&&p!=this){try{p=p.parentNode;}catch(e){p=this;}}
+if(p==this){return false;}
+var ev=jQuery.extend({},e);var ob=this;if(ob.hoverIntent_t){ob.hoverIntent_t=clearTimeout(ob.hoverIntent_t);}
+if(e.type=="mouseover"){pX=ev.pageX;pY=ev.pageY;$(ob).bind("mousemove",track);if(ob.hoverIntent_s!=1){ob.hoverIntent_t=setTimeout(function(){compare(ev,ob);},cfg.interval);}}else{$(ob).unbind("mousemove",track);if(ob.hoverIntent_s==1){ob.hoverIntent_t=setTimeout(function(){delay(ev,ob);},cfg.timeout);}}};return this.mouseover(handleHover).mouseout(handleHover);};})(jQuery);</script>
+<script src="js/superfish.js.pagespeed.jm.fMqzF8W3Kr.js"></script>
+<script>;(function($){$.fn.supersubs=function(options){var opts=$.extend({},$.fn.supersubs.defaults,options);return this.each(function(){var $$=$(this);var o=$.meta?$.extend({},opts,$$.data()):opts;var fontsize=$('<li id="menu-fontsize">&#8212;</li>').css({'padding':0,'position':'absolute','top':'-999em','width':'auto'}).appendTo($$).width();$('#menu-fontsize').remove();$ULs=$$.find('ul');$ULs.each(function(i){var $ul=$ULs.eq(i);var $LIs=$ul.children();var $As=$LIs.children('a');var liFloat=$LIs.css('white-space','nowrap').css('float');var emWidth=$ul.add($LIs).add($As).css({'float':'none','width':'auto'})
+.end().end()[0].clientWidth/fontsize;emWidth+=o.extraWidth;if(emWidth>o.maxWidth){emWidth=o.maxWidth;}
+else if(emWidth<o.minWidth){emWidth=o.minWidth;}
+emWidth+='em';$ul.css('width',emWidth);$LIs.css({'float':liFloat,'width':'100%','white-space':'normal'})
+.each(function(){var $childUl=$('>ul',this);var offsetDirection=$childUl.css('left')!==undefined?'left':'right';$childUl.css(offsetDirection,emWidth);});});});};$.fn.supersubs.defaults={minWidth:9,maxWidth:25,extraWidth:0};})(jQuery);</script>
+<script>$(document).ready(function(){$("ul.sf-menu").supersubs({minWidth:12,maxWidth:27,extraWidth:1}).superfish();});</script>
+
+
+
+
+<script src="js/libs/jquery.colorbox-min.js.pagespeed.jm.L59P8Jr6Oy.js"></script>
+<script type="text/javascript">$(document).ready(function(){$("a[rel^='lightbox']").colorbox({current:"{current} of {total}"});$("ul.Large a[rel^='lightbox']").colorbox({current:"{current} of {total}",height:"93%"});$("a[rel^='tubebox']").colorbox({iframe:true,innerWidth:640,innerHeight:390});$("a[rel^='inlinevideobox']").colorbox({width:"730px",height:"440px",inline:true,href:"#inline_video",onComplete:function(){projekktor('lightbox_player').setPlay();$('.ppfsenter').hide();}});});</script>
+<script type="text/javascript">$(document).ready(function(){$(".scrollable").scrollable({clickable:false,size:1});$(".scrollable.tooltips img").tooltip({onBeforeShow:function(event,position){this.getTip().appendTo(document.body);return true;}});});</script>
+
+
+
+    	
+		<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-397345-1']);_gaq.push(['_setDomainName','.vfs.com']);_gaq.push(['_setAllowLinker',true]);_gaq.push(['_setAllowHash',false]);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=true;g.src=('https:'==location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';s.parentNode.insertBefore(g,s);})(document,'script');</script>
+  	
+  
+<script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script>
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript">var switchTo5x=true;</script><script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script><script type="text/javascript">stLight.options({publisher:'0acd4470-562c-4252-8024-79e899266c31'});</script>
+
+
+</body></html>
