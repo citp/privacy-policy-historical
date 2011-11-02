@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the onlinejournal.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309042451id_/http%3A//onlinejournal.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinejournal.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102022106id_/http%3A//onlinejournal.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Online Journal
+# $art_name_he$
+
+## Online Journal Privacy Policy
 
 Onlinejournal.com ("We" or "we") is strongly committed to protecting your privacy and providing a safe online experience for all of our users while offering the highest quality services to them. This Privacy Policy discloses what information we gather, how we use it, to whom we disclose personal information and other information you have provided, and how to correct or change personal information that you have provided to us. This Privacy Policy applies to Onlinejournal.com and all of its parent companies, subsidiaries, and affiliates. We urge you to read the complete Privacy Policy set forth below, as well as our Terms of Use, and contact us if you have any questions. By using any of our sites and providing us with your information, you agree to the terms of this Privacy Policy and our Terms of Use. If you do not agree to this Privacy Policy or our Terms of Use, you should not use or access any of our sites. 
 
-* **WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
+  1. **WHAT INFORMATION DO WE COLLECT ABOUT YOU?**
 
 Personal Information. We collect personally identifiable information, such as names, mailing addresses, e-mail addresses, demographic information, and similar information in a variety of situations, including but not limited to the following: (i) when you subscribe to one of our newsletters or place an order; (ii) when you register at one of our web sites; and (iii) when you enter personal information on one of our web sites as a condition of participating in contests, promotions, or sweepstakes offered via these web sites.
 
@@ -14,11 +16,11 @@ As a service to our users, we feature message boards, chat rooms, and other publ
 
 Information Collected Automatically. Our web sites automatically collect certain information, such as your IP address, browser type, domain name, access times and referring website address. This helps facilitate your online experience at our web sites. See Sections IV and V of this Privacy Policy for more detail on cookies, web beacons, and other information collected automatically for research and marketing purposes by our web sites.
 
-* **WHAT DO WE DO WITH COLLECTED INFORMATION?**
+  2. **WHAT DO WE DO WITH COLLECTED INFORMATION?**
 
 We use the personal information you provide to allow you to make product purchases, to fulfill your requests, improve our products and services, to send you promotional offers related to Onlinejournal.com or our business partners, and to operate our business. A user may, at any time, opt out of receiving promotional offers by mail or e-mail by following the opt-out procedures set forth in Section VII of this Privacy Policy. We also use collected information to evaluate and administer our products and services, respond to any problems that may arise, such as difficulties in navigating our sites or accessing certain features, as well as to gauge user trends to determine what products and services are most popular with users.
 
-* **HOW DO WE SHARE PERSONAL INFORMATION?**
+  3. **HOW DO WE SHARE PERSONAL INFORMATION?**
 
 We share your personal information only as described below.
 
@@ -40,54 +42,56 @@ Required Disclosures of Information. We reserve the right to use or disclose any
 
 Changes in Corporate Structure. In developing our business, we might sell certain assets, or the company, or parts of it, may be sold, merged or otherwise transferred. In such transactions, user information, whether personally identifiable or otherwise, may be one of the transferred assets.
 
-* **HOW DO WE USE COOKIES?**
+  4. **HOW DO WE USE COOKIES?**
 
 Your web browser offers "cookies" which, if you allow their use, store small amounts of data on your computer when you visit a web site. Cookies do not contain any personally identifiable information about you and therefore cannot be used to identify you personally. Cookies assist us in tracking which of our features you like best, and also enable us to customize our content according to your preferences. You have the ability to accept or decline cookies by modifying your browser and our websites are viewable even if you disable the cookie function on your browser. However, if you disable cookies, some advanced and customized features or offerings will not be available to you.
 
-* **HOW DO WE USE WEB BEACONS, WEB ANALYTICS, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES?**
+  5. **HOW DO WE USE WEB BEACONS, WEB ANALYTICS, AND OTHER BEHAVIORAL MARKETING TECHNOLOGIES?**
 
 A number of technologies exist to assess consumer behavior both on-line and off-line. Onlinejournal.com employs a variety of these technologies, including web beacons (see below), web analytics techniques, and other behavior marketing technologies, to assess consumer behavior and to understand how we can better serve our customers. Many of these technologies are provided to Onlinejournal.com via third party providers specializing in behavioral marketing and consumer behavior. In the course of using these behavioral marketing technologies, we automatically collect non-personal information from you, including but not limited to the following types of information: Internet protocol (IP) address used to connect your computer to the Internet; login, e-mail address; computer and connection information such as browser type and related browser data; content viewed; and purchase history, which may be aggregated with other information for analytic purposes.
 
 Some of our web pages, promotional e-mail messages, and/or newsletters may contain electronic images known as web beacons, which are also called single-pixel gifs. Web beacons are not used to access your personally identifiable information, but they are a technique we use to compile aggregated statistics about the usage of our web sites and to track the number of users who have opened and acted up our promotional e-mail messages. Web beacons collect only a limited set of information including a cookie number, time and date of a page view, and a description of the page on which the web beacon resides.
 
-* **WHAT ABOUT THIRD PARTY ADVERTISERS?**
+  6. **WHAT ABOUT THIRD PARTY ADVERTISERS?**
 
 Some of the banner ads displayed in our web sites are provided by third parties. These ads contain cookies and may also contain web beacons. Unlike cookies and web beacons used by Onlinejournal.com in content it controls on its web sites, cookies or web beacons received with banner ads are collected by our advertisers and we do not have access to this information. We use third parties to serve some or all of the advertisements that are placed within our sites and they may use information (not including personally identifiable information) about your visits to our sites and other sites to assist in serving advertisements to you. These companies may employ cookies, web beacons, and action tags to measure advertising effectiveness. They may share anonymous information with their clients such as date/time of the banner ad shown, the specific ad shown, the IP address, etc. Dart is our primary third party ad server. If you would like to know more about their information gathering practices and "opt-out" procedures, please see http://www.doubleclick.com/privacy/opting_out.aspx.
 
-* **HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**
+  7. **HOW CAN YOU CONTROL YOUR PERSONAL INFORMATION?**
 
 We believe that choice in how and when you are contacted is key to customer satisfaction, so we offer several ways for you to update your contact information, change your preferences, or opt out of receiving future communications.
 
-  1. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.
-  2. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message.
-  3. If you do not wish to have your personal information shared with third parties, please click here admin@onlinejournal.com.
-  4. You may also contact us at admin@onlinejournal.com for any inquiry or request regarding our privacy policy or the handling of your personal information.
-
+    1. If you have an online account at one of our websites, you may be able to log on and update or change your contact or account information. Check the site for further information.
+    2. You may unsubscribe to any of our online e-mail updates or newsletters by following the unsubscribe instructions in the body of any e-mail message.
+    3. If you do not wish to have your personal information shared with third parties, please click here admin@onlinejournal.com.
+    4. You may also contact us at admin@onlinejournal.com for any inquiry or request regarding our privacy policy or the handling of your personal information.
 If you have opted out of receiving future e-mails from us, we will implement your opt-out request within 10 business days of receiving the opt-out request. If you have opted out of receiving future promotional materials by regular mail, we will implement your opt-out request within a commercially reasonable time.
-* **SECURITY OF YOUR PERSONAL INFORMATION**
+  8. **SECURITY OF YOUR PERSONAL INFORMATION**
 
 We use Secure Socket Layer (SSL) technology to encrypt important information, such as your credit card data, in an effort to prevent unauthorized access during transmission of your orders over the Internet. We incorporate standard industry practices suitable to the degree of sensitivity of the information involved to maintain the security of your personal information and to avoid its disclosure except as described in this policy. Your personal information may also be protected by the password you created when you registered at one of our websites where this feature is offered. The confidentiality of any password is yours to protect. You may change it anytime by following the instructions at the website where you registered. Although we use our best efforts to assure that your data remains secure when maintained by us, security during Internet transmissions or within any system cannot be assured. Onlinejournal.com employees are made aware of its privacy practices through periodic communications and training. We limit access to personal data only to those Onlinejournal.com employees or agents with a specific need to access or retrieve this information. We store data on multiple service systems, in controlled, secure environments. Remember, however, that we cannot guarantee the security of your personal information, and we are not responsible for the privacy or security practices of any third party.
 
-* **CHILDREN'S PRIVACY**
+  9. **CHILDREN'S PRIVACY**
 
 Onlinejournal.com is strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include chat rooms, bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children's use of the Internet. 
 
-* **THIRD PARTIES AND LINKS**
+  10. **THIRD PARTIES AND LINKS**
 
 In the event that you provide personal information to any third party via any Onlinejournal.com web site or any offer made available to you by Onlinejournal.com, you understand that Onlinejournal.com is not responsible for such third parties" use or misuse of your personal information. You should review the privacy and information sharing practices of such third parties. Additionally, Onlinejournal.com may offer links to or from web sites it controls to other sites within the Onlinejournal.com family as well as to sites operated by third parties. We offer links to third party sites so that you can conveniently visit our vendors and advertisers or locate other content likely to be of interest. We are not responsible for the content, practices or policies of sites operated by third parties and urge you to inquire about them before providing any personally-identifiable information.
 
-* **YOUR CALIFORNIA PRIVACY RIGHTS**
+  11. **YOUR CALIFORNIA PRIVACY RIGHTS**
 
 Under California Law SB 27, California residents have the right to receive, once a year, information about third parties with whom we have shared information about you or your family for their marketing purposes during the previous calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to admin@onlinejournal.com and please include the phrase "California Privacy Request" in the subject line, and provide us with your name, address and email address. We will respond to you within thirty days of receiving such a request.
 
-* **VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
+  12. **VISITORS AND SUBSCRIBERS OUTSIDE THE UNITED STATES**
 
 All matters relating to these sites are governed by the laws of the State of California in the United States. Any information you provide in registering or ordering at one of our web sites will be transferred to the United States. By visiting our sites and submitting information, you authorize this transfer, processing and use.
 
-* **CHANGES TO OUR PRIVACY POLICY**
+  13. **CHANGES TO OUR PRIVACY POLICY**
 
 We will occasionally update this Privacy Policy as necessary to protect our users and to comply with a changing environment. We recommend that you check the posted Privacy Policy when you visit any of our sites to be sure you are aware of and understand our current policy. Your continued use of the respective site means you accept the updated Privacy Policy.
 
-* **CONTACT INFORMATION**
+  14. **CONTACT INFORMATION**
 
 If you have any questions about this Privacy Policy or our privacy practices, please e-mail us at admin@onlinejournal.com. Please include the URL of the web site involved in your request. Requests under California Law SB 27 should be directed to admin@onlinejournal.com and include the information noted in Your California Privacy Rights. 
+
+
+
