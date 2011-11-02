@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashtextads.com privacy policy that was archived on 2011-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110119085352id_/http%3A//cashtextads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashtextads.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013100id_/http%3A//cashtextads.com/privacy.php) for the most accurate reproduction.*
 
 # CASHTextAds.com Privacy Policy
 
