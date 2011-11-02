@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the crowdcontent.com privacy policy that was archived on 2011-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110625172125id_/http%3A//www.crowdcontent.com/client/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcontent.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102135311id_/http%3A//www.crowdcontent.com/client/privacy.php) for the most accurate reproduction.*
 
 # Custom Content on Demand - Crowdcontent
 
 CrowdContent.com is committed to protecting the privacy of visitors to our websites, as well as our members and partners. CrowdContent.com has established this Privacy Policy to explain what information we collect through these websites and how it is used. 
 
 In this policy, "CrowdContent.com" refers to staff, board members, cooperating attorneys, interns, volunteers, and consultants of CrowdContent.com, all of whom are bound by law or contract to keep information they receive as part of their work for CrowdContent.com confidential. 
+
+CrowdContent.com does not sell or rent personally identifiable member, customer or employee information under any circumstances, and we do not share information without prior consent except as compelled by law. (See discussion below.) 
 
 **Information Gathered by CrowdContent.com Site**   
 For visitors to our website, we may, but generally do not, log standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; and the Internet address of the website from which you linked directly to our site. Circumstances in which we temporarily log standard technical information include conducting site testing, diagnosis of technical problems, and defending against attacks on the site. We generally do log the date and time users access our site on an anonymous basis. For more information on CrowdContent.com's position on data logging, see the EFF's Best Practices for Online Service Providers. 
@@ -25,12 +27,6 @@ If you provide information for publication, such as writing a review or submitti
 We may run surveys, contests, or similar activities through this site. Such information will be used for the purposes for which it was collected. 
 
 We look at technical information to diagnose problems with our server and to administer the CrowdContent.com site. 
-
-If you choose to provide information to us through our online registration, you may be asked to provide your personal information that may include your name, address, telephone number, e-mail address, and other identifying information. We may share the personal information which you provide with our third party processing agents, affiliates and advertisers. 
-
-We may use the personal information which you provide to send you information, either online or offline, via email, direct mail, SMS text messaging and telemarketing, regarding products or services offered by third-party advertisers. In addition, we reserve the right to rent, sell or share the personal information which you provide with unaffiliated third-parties; these third-parties may use this information for online and offline marketing purposes. 
-
-By signing up on our website and providing your personal information you are expressly consenting to receive communications from us and from anyone that we may provide your personal information. In addition, you expressly consent to be contacted in any manner including via email, direct mail, telephone or SMS text messaging, even if your information is listed on the US National Do Not Call registry or a similar registry. If you do not agree to these terms than do not use our site. 
 
 **Third-Party Service Providers**   
 Portions of the CrowdContent.com site may be operated by a third-party service provider ("Provider"). Provider may place cookies on your computer in order to store information, such as items placed in your shopping cart, or storing your account login when using the Affiliate Center. Provider logs standard technical information, such as the numerical Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the website from which you linked directly to our site. 
