@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the commonkindness.com privacy policy that was archived on 2010-05-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100511090315id_/http%3A//www.commonkindness.com/more/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the commonkindness.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102151425id_/http%3A//www.commonkindness.com/more/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
@@ -17,6 +17,7 @@
 <script type="text/javascript" src="/js/jq/jquery-ui-1.7.2.custom.min.js"></script>
 <script type="text/javascript" src="/js/jq/jquery.form.js"></script>
 <script type="text/javascript" src="/js/jq/jquery.pngFix.js"></script>
+<script type="text/javascript" src="/js/jq/jquery.cookie.js"></script>
 <script type="text/javascript" src="/js/global.js"></script>
 <link rel="stylesheet" type="text/css" media="screen" href="/css/global.css">
 <link rel="stylesheet" type="text/css" media="screen" href="/css/wp.css">
@@ -31,17 +32,18 @@
       <div id="main-wrapper">
 
         <a id="logo" href="/"><span>CommonKindness: Printable Grocery Coupons and Online Discount Codes</span></a>
-            <div id="mission-statement">
-                <span>CommonKindness - Saves you money and supports your favorite charities and causes - at no cost to you!</span>
-              </div>
+      <div id="mission-statement-text" class="wide">
+        “Save money &amp; help others” <span id="tm">™</span>
+      </div>
 
           <div id="header">
 	<div id="subnav">
 		            <a href="/user/login/type/direct">SIGN IN</a>                
-        <a href="/more/about-us">ABOUT US</a>        <a href="/business/Add-Your-Coupon">ADD YOUR COUPON</a>        <a href="/more/School-Fundraiser">SCHOOLS</a>        <a href="/more/newsroom">NEWSROOM</a>
-                	<a href="/more/faq">FAQ</a>                
-        <a href="http://blog.commonkindness.com">BLOG</a>	</div>
+        <a href="/more/about-us">ABOUT US</a>        <a href="/business/Add-Your-Coupon">ADD YOUR COUPON</a>
+	<a href="/more/for-non-profits">FUNDING FOR NON-PROFITS</a>  	<a href="/contest/cabot">CONTESTS &amp; MORE</a>
+	</div>
 </div>
+
           <div id="subheader">
 
             <div id="nav">
@@ -98,8 +100,9 @@
           		<div id="footer">
 			<p align="center"><img src="/images/layout/footer_tagline.png" alt="Footer_tagline"></p>
 		
-			<a href="/more/terms-of-use-member">TERMS OF USE</a>			<a href="/more/privacy-policy">PRIVACY POLICY</a>						<a href="/more/about-us">ABOUT US</a>			<a href="/more/faq">FAQ</a>			<a href="/more/contact-us">CONTACT US</a>            <a href="http://blog.commonkindness.com">BLOG</a>      <p>Copyright © 2008 CommonKindness, Inc. Patent Pending</p>
-		</div>	        </div>
+			<a href="/more/about-us">ABOUT US</a>        		<a href="/more/newsroom">NEWSROOM</a>		    	<a href="/more/School-Fundraiser">SCHOOLS</a>			<a href="/more/faq">FAQ</a>			<a href="http://blog.commonkindness.com">BLOG</a>			<a href="/more/terms-of-use-member">TERMS OF USE</a>			<a href="/more/privacy-policy">PRIVACY POLICY</a>			<a href="/more/contact-us">CONTACT US</a>      <p>Copyright © 2008 CommonKindness, Inc. Patent Pending</p>
+		</div>	
+        </div>
     </div>
     	<script type="text/javascript">
         var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -110,5 +113,32 @@
         var pageTracker = _gat._getTracker("UA-8156421-1");
         pageTracker._trackPageview();
         } catch(err) {}</script>
+
+
+                   
+
+                        
+<script>
+      $("#requireLoginModal").dialog({
+        autoOpen: false,
+        bgiframe: true,
+        modal: true,
+        buttons: {
+          'Sign in now': function() {
+            window.location = '/user/login';
+          }
+        }
+      });
+
+  $(document).ready(function() {
+    $('.requireLogin').click(function(event) {
+      event.preventDefault();
+      $("#requireLoginModal").dialog('open');
+    });
+  });
+</script><div class="ui-dialog ui-widget ui-widget-content ui-corner-all  ui-draggable ui-resizable" tabindex="-1" role="dialog" aria-labelledby="ui-dialog-title-requireLoginModal" style="display: none; position: absolute; overflow: hidden; z-index: 1000; outline: 0px;"><div class="ui-dialog-titlebar ui-widget-header ui-corner-all ui-helper-clearfix" unselectable="on"><span class="ui-dialog-title" id="ui-dialog-title-requireLoginModal" unselectable="on">Support a Cause or Charity</span><a href="#" class="ui-dialog-titlebar-close ui-corner-all" role="button" unselectable="on"><span class="ui-icon ui-icon-closethick" unselectable="on">close</span></a></div><div id="requireLoginModal" style="" class="ui-dialog-content ui-widget-content">
+   <p style="text-align:center;">Please <a href="/user/login/type/direct">sign in</a> to support your favorite charity or cause -  <b>at no cost to you!</b></p>
+</div><div class="ui-resizable-handle ui-resizable-n" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-e" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-s" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-w" unselectable="on"></div><div class="ui-resizable-handle ui-resizable-se ui-icon ui-icon-gripsmall-diagonal-se ui-icon-grip-diagonal-se" unselectable="on" style="z-index: 1001;"></div><div class="ui-resizable-handle ui-resizable-sw" unselectable="on" style="z-index: 1002;"></div><div class="ui-resizable-handle ui-resizable-ne" unselectable="on" style="z-index: 1003;"></div><div class="ui-resizable-handle ui-resizable-nw" unselectable="on" style="z-index: 1004;"></div><div class="ui-dialog-buttonpane ui-widget-content ui-helper-clearfix"><button type="button" class="ui-state-default ui-corner-all">Sign in now</button></div></div>
+
 
 </body></html>
