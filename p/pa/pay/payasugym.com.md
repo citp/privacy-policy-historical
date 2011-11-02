@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payasugym.com privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603030303id_/http%3A//www.payasugym.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payasugym.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102150033id_/http%3A//www.payasugym.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | payasUgym
 
@@ -234,7 +234,7 @@ Nothing in these Terms shall exclude or limit liability for (i) death or persona
 
 **9.        ****TERMS OF USE FOR AN eWALLET**
 
-Sandcroft Avenue Ltd is certified as a Small Electronic Money Issuer by the Financial Services Authority. The minimum amount you can ‘top-up’ onto you eWallet is £10. Your eWallet funds cannot exceed maximum £100. You are only able to withdraw funds to credit or debit card already used to ‘top-up’ funds into your eWallet. A £1 administration fee is charged to withdraw funds from your eWallet. This £1 is charged to cover the bank charges and administration expenses that we incur from this transaction.
+Sandcroft Avenue Ltd is certified as a Small Electronic Money Issuer by the Financial Services Authority. The minimum amount you can ‘top-up’ onto you eWallet is £3. Your eWallet funds cannot exceed maximum £100. You are only able to withdraw funds to credit or debit card already used to ‘top-up’ funds into your eWallet. A £1 administration fee is charged to withdraw funds from your eWallet. This £1 is charged to cover the bank charges and administration expenses that we incur from this transaction. If a period of 24 months passes with no orders placed, we will assume that your account is no longer active and your eWallet balance will expire.
 
 **10.    ****TERMS OF USE FOR AN ePASS**
 
