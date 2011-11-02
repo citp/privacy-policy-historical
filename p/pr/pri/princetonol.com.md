@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511154541id_/http%3A//www.princetonol.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princetonol.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102023501id_/http%3A//www.princetonol.com/privacy.cfm) for the most accurate reproduction.*
 
 # Princeton Online :: Privacy Policy
 
