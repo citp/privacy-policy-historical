@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503002445id_/http%3A//www.filson.com/fil/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filson.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102183609id_/http%3A//www.filson.com/fil/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Filson
 
@@ -12,7 +12,7 @@ This policy describes the personal information we collect about you, why we coll
     2\. call us at 1-866-860-8906  
     3\. write to us at Filson Customer Service  
        PO Box 34020  
-       Seattle, WA 98134
+       Seattle, WA 98124
 
 If our information practices change in the future, we will post an updated policy on our website. We also may post a notice on our website or send an email describing the changes. You can tell if the policy has changed by checking the revision date that appears at the end of this policy. You may exercise your choices about how we collect and use your information at any time.
 
