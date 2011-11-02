@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212103926id_/http%3A//www.vitsoe.com/en/us/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitsoe.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102234917id_/http%3A//www.vitsoe.com/en/us/footer/privacy) for the most accurate reproduction.*
 
 # Vitsœ | Footer / Privacy
 
