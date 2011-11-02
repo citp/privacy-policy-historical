@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2010-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101010000720id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorincolorado.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102054710id_/http%3A//www.colorincolorado.org/privacy) for the most accurate reproduction.*
 
-# Colorín Colorado :: Privacy Policy
+# Privacy Policy | Colorín Colorado
 
 Teachers who work with English as a Second Language learners will find ESL/ESOL/ELL/EFL reading/writing skill-building children's books, stories, activities, ideas, strategies to help PreK-3, 4-8, and 9-12 students learn to read.
 
@@ -66,13 +66,15 @@ By using this site, you signify your agreement to the terms and conditions of th
 
 [](https://secure2.convio.net/weta/site/Donation2?df_id=3020&3020.donation=form1&JServSessionIdr004=ry56qi5tu3.app210b)
 
+[](http://www.addthis.com/bookmark.php?v=250&username=colorincolorado)
+
 [](http://www.colorincolorado.org/about/by#aft "Major support for Colorín Colorado is provided by the American Federation of Teachers, AFL-CIO.")
 
-I recently found your website and it is very informative. You have found a way to teach ELLs in a more objective method and I applaud you for that. God Bless you all for your efforts to make our society aware of the need to teach English to those who come to make their dreams a reality in our country.   
-~ Arthur G.
+I just want you all to know that this is a wonderful site! It keeps getting better and better. I can't tell you how much I appreciate your information. Thank you!   
+~ Suzie G.
 
 [](http://www.colorincolorado.org/guides/readingtips)
 
-[](http://www.ldonline.org/)
+[](http://www.adlit.org/)
 
 [](http://www.colorincolorado.org/about/by#doe "Additional funding for Colorín Colorado comes from the United States Department of Education, Office of Special Education Programs.")
