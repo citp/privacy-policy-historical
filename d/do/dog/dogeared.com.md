@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2010-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100323083408id_/http%3A//www.dogeared.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogeared.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013132id_/http%3A//www.dogeared.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy : Dogeared Jewels and Gifts
 
@@ -42,6 +42,6 @@ We may revise this Privacy Policy from time to time. If we decide to change our 
 
 ## 7.   E-mail Marketing
 
-We want to communicate with you via e-mail correspondence only if you want to hear from us. When you purchase an Dogeared product, we may from time to time send you e-mail messages describing new products, special offer, and great values. If for any reason you would no longer like to receive e-mail messages from Dogeared, you can visit our [subscription management](http://www.dogeared.com/email-subscribe.php) section to remove yourself from our e-mailing list. Please allow up to 10 days for us to process your request.
+We want to communicate with you via e-mail correspondence only if you want to hear from us. When you purchase an Dogeared product, we may from time to time send you e-mail messages describing new products, special offer, and great values. If for any reason you would no longer like to receive e-mail messages from Dogeared, you can visit our [unsubscribe](http://www.dogeared.com/unsubscribe) section to remove yourself from our e-mailing list. Please allow up to 10 days for us to process your request.
 
 Please Note: If you decide not to receive marketing e-mails from Dogeared, you may still receive “transactional” e-mail messages regarding your order (e.g. order confirmation, shipping information, customer service notifications, etc.). If you have questions or concerns regarding this statement, please contact us via the email form on the [contact us](http://www.dogeared.com/contact.php) page.
