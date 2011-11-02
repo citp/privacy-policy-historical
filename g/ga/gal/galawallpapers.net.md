@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the galawallpapers.net privacy policy that was archived on 2010-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101214030906id_/http%3A//www.galawallpapers.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the galawallpapers.net privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011429id_/http%3A//www.galawallpapers.net/privacy.php) for the most accurate reproduction.*
 
 # Wallpapers
-
-Wallpapers | The Online Wallpapers Gallery
 
 As Wallpapers is a general-age website, we ask that all users behave in an appropriate manner at all times. As stated in the above Submissions Policy, we do not allow the use of offensive material. Do not post material that is pornographic, racial or hate-based. Wallpapers reserves the right to cancel a member's access along with all files submitted by that member at any given time without warning. Wallpapers also allows its users to remove their submissions at any given time.
 
