@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505230719id_/http%3A//usshortcodes.com/csc_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usshortcodes.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103005813id_/http%3A//www.usshortcodes.com/csc_privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
