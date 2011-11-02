@@ -1,7 +1,9 @@
-> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2010-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101202091517id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordablemobiles.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010656id_/http%3A//www.affordablemobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Mobile Phones, Contract Phones, Mobile Phone Deals, Sim Free Mobiles with Free Gifts from Affordable Mobiles
 
+   
+---  
 |  | 
 
 |   
@@ -35,7 +37,7 @@ You can tell whether you have entered a secure location on our website by the sm
 If any of the information that you provided changes, such as home addresses, names and e-mail addresses, then please contact us either by e-mail [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or write to our Privacy Manager, Affordable Mobiles, Logistics House, Sopwith Way, Drayton Fields Industrial Estate, Daventry, Northamptonshire, NN11 8PB.  
 
 
-If you choose to visit affordablemobiles.co.uk, your visit and any dispute over privacy is subject to this Privacy Notice and our [Terms & Conditions](https://web.archive.org/web/20101202091517id_/http%3A//www.affordablemobiles.co.uk/tandc.php), including limitations on damages and application of the laws of England. If you have any concern about privacy, please e-mail a thorough description to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or send it to:
+If you choose to visit affordablemobiles.co.uk, your visit and any dispute over privacy is subject to this Privacy Notice and our [Terms & Conditions](https://web.archive.org/web/20111102010656id_/http%3A//www.affordablemobiles.co.uk/tandc.php), including limitations on damages and application of the laws of England. If you have any concern about privacy, please e-mail a thorough description to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.co.uk) or send it to:
 
 Affordable Mobiles,   
 Logistics House,   
@@ -47,6 +49,6 @@ NN11 8PB
 
 and we will try to resolve it.
 
-Our business changes constantly and our Privacy Notice and the [Terms & Conditions](https://web.archive.org/web/20101202091517id_/http%3A//www.affordablemobiles.co.uk/tandc.php) will change also. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand by the promises we make however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of those prospectively affected customers.
+Our business changes constantly and our Privacy Notice and the [Terms & Conditions](https://web.archive.org/web/20111102010656id_/http%3A//www.affordablemobiles.co.uk/tandc.php) will change also. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand by the promises we make however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of those prospectively affected customers.
 
 If you have any comments regarding our website or our privacy policies, then please e-mail your views to [privacy@affordablemobiles.co.uk](mailto:privacy@affordablemobiles.com) or send a letter to our Privacy Manager, Affordable Mobiles, Logistics House, Sopwith Way, Drayton Fields Industrial Estate, Daventry, Northamptonshire, NN11 8PB. 
