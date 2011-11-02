@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429005253id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidlearningcenter.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102142500id_/http%3A//www.rapidlearningcenter.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rapid Learning Center
 
@@ -12,7 +12,7 @@ US Direct: (714) 692-2900
 Int'l: 001-714-692-2900 
 
 24/7 Technical Support:  
-[The Rapid Support Center](https://web.archive.org/web/20110429005253id_/http%3A//www.rapidlearningcenter.com/contact.html)
+[The Rapid Support Center](https://web.archive.org/web/20111102142500id_/http%3A//www.rapidlearningcenter.com/contact.html)
 
 Online Order with Instant Access:  
 [](https://rapidlearningcenter.com/members/signup.php)  
