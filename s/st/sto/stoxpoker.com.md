@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoxpoker.com privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501033143id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoxpoker.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102041205id_/http%3A//www.cardrunners.com/page/privacy_policy_cardrunners) for the most accurate reproduction.*
 
 # CardRunners - Privacy Policy
 
