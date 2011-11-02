@@ -1,16 +1,20 @@
-> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025074858id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediajobsearchcanada.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102012313id_/http%3A//www.mediajobsearchcanada.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Media Job Search Canada - Customer Service > Privacy Policy
 
 ## Privacy Policy
 
-All personal information on Resumes posted on Media Job Search Canada Inc.'s corporate websites; [www.mediajobsearchcanada.com](http://www.mediajobsearchcanada.com/) / [www.mediajobsearchcanada.ca](http://www.mediajobsearchcanada.ca/) / [www.mediajobsearchcanada.net](http://www.mediajobsearchcanada.net/) is protected by the Government of Canada's Internet Privacy Act.   MJSC does not share or distribute any of this personal information to outside companies.
+    
 
-For more information on MJSC's Privacy Statement in full read the complete statement below.
+All personal information on Resumes posted on **Media Job Search Canada Inc.'s** corporate websites; [www.mediajobsearchcanada.com](http://www.mediajobsearchcanada.com/) / [www.mediajobsearchcanada.net](http://www.mediajobsearchcanada.net/) / [www.mjsc.ca](http://www.mjsc.ca/) is protected by the **Government of Canada's Internet Privacy Act.**   
+
+**MJSC** does not share or distribute any of this personal information to outside companies.
+
+For more information on **MJSC's Privacy Statement** in full read the complete statement below.
 
 For more information on the "Internet Privacy Act" visit:  [www.privcom.gc.ca](http://www.privcom.gc.ca/)
 
-### Updated February 23, 2006.
+### Updated August 12, 2011.
 
 Your privacy is very important to us. Rest assured that all information collected through our **( 1 )** visitor tracking program, the personal information provided on **( 2 )** posted resumes and the username and password information through our **( 3 )** login service remains with Media Job Search Canada Inc. and is never shared with outside sources.
 
@@ -23,7 +27,7 @@ Your privacy is very important to us. Rest assured that all information collecte
   
 If you have any questions on this statement, please contact us for more information [mjsc@mediajobsearchcanada.com](mailto:mjsc@mediajobsearchcanada.com)
 
-**Corey Fuchs - President & C.E.O.  
+**Corey Fuchs - Owner, President & C.E.O.  
 Media Job Search Canada Inc.**
 
   
