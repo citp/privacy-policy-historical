@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protolabs.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608112045id_/http%3A//www.protolabs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protolabs.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102075913id_/http%3A//www.protolabs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - Proto Labs
+# Proto Labs - Privacy Policy
 
 We welcome you to the Proto Labs Website, including protolabs.com, protomold.com, firstcut.com and the other websites that display this Privacy Policy (collectively, the “Website”). The Website is operated by Proto Labs, Inc. ("Proto Labs", "we", or "us"), located at 5540 Pioneer Creek Drive, Maple Plain, Minnesota 55359. Proto Labs takes privacy matters seriously. Therefore, we are providing this notice explaining our online information practices and the choices you can make about the way your information is collected and used. By submitting information to us and/or by using our Website, you give your consent that all information that you submit may be processed by Proto Labs as described below. This Privacy Policy was last revised on May 20, 2008.  
 
