@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2011-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110121003807id_/http%3A//contactatonce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contactatonce.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011720id_/http%3A//www.contactatonce.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Contact At Once! « ContactAtOnce
 
@@ -6,27 +6,27 @@ Your privacy is very important to us and we have the highest respect for the con
 
 Consumers, Merchants and Site Providers logging in to the ContactAtOnce! website chat service and portals are subject to different privacy agreements, information use agreements and acceptable use policies that are posted on those sites.
 
-###  **Information Use**
+### **Information Use**
 
 If you request information from us or wish to access certain features of the site, you will be asked to provide personally-identifying information so that we can respond effectively to your requests and needs. We will never share your information with anyone who isn’t directly related to providing service and support of ContactAtOnce! online chat software solutions. If you provide us with personal information, we may attempt to contact you occasionally to determine if our solutions meet your expectations, offer additional assistance or notify you about special promotions.
 
-###  **Opting Out**
+### **Opting Out**
 
 Most customers tell us they appreciate receiving our news and promotions; however, we believe it’s very important for you to be able to choose whether you receive periodic mailings and information from us. You can choose to opt out at any time by simply replying to a mailing to inform us of your preference. All of our mailings will clearly explain how you can easily opt out and stop receiving information from us.
 
-###  **Data Security**
+### **Data Security**
 
 To help protect your confidentiality, ContactAtOnce! employs security safeguards; however, we can’t eliminate all security risks. For instance, the ContactAtOnce! Web site contains links to other Web sites. We have no responsibility or control over linked Web sites and their privacy policies or the way they collect and control your personal information. We encourage you to learn about the privacy practices of any Web site before providing personally identifying information.
 
-###  **Our Commitment to Privacy**
+### **Our Commitment to Privacy**
 
 In summary, we believe strongly in respecting your privacy and your wishes about the use of your personal information. While we may need to change this policy from time to time as new situations arise, we will never change our commitment to protecting your confidentiality and informing you of how we intend to use any information you provide to us. Our most up-to-date privacy policy will always be posted here.
 
-###  **Your Comments**
+### **Your Comments**
 
 If you have any comments or questions about this privacy policy or your personal information, please contact us at [info@contactatonce.com](mailto:info@contactatonce.com).
 
-###  **Terms of Use**
+### **Terms of Use**
 
 By using the ContactAtOnce! Web site, you consent to the collection and use of any information in the manner we describe in our privacy policy. Information on this site is provided on an “as is” basis. Contact At Once! LLC makes no warranties, expressed or implied. Information on this site may contain inaccuracies or typographical errors. This Web site may be updated or changed without notice.
 
