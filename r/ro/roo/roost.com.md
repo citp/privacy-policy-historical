@@ -1,39 +1,93 @@
-> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209232022id_/http%3A//www.roost.com/web/privacy.action) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roost.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102064940id_/http%3A//www.roost.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Homes for Sale and MLS Listings - Roost.com
+# Roost | Terms of Service
 
-(last updated April 2008) 
+Last updated: February 22, 2011.
 
-"You" or "Your" shall mean the person or entity accessing this site (the "Site") and using the services available on it (the "Services"). 
+Your privacy is very important, and we take it seriously. This Privacy Policy describes Roost's policies and procedures on the collection, use and disclosure of your information when you use the Roost Service. We will not use or share your information with anyone except as described in this Privacy Policy. This Privacy Policy does not apply to information we collect by other means (including offline) or from other sources. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Service](https://web.archive.org/app/index.php/application/static?view=tos).
 
-"We", "Us" or "Our" shall mean (1) the licensed real estate broker ("Broker") indentified above that is the owner and operator of the Site, (2) Roost, Inc. ("Roost"), which is providing web site design, hosting and technology services to the Broker pursuant to an agreement between Roost and the Broker. 
-
-This Privacy Policy describes the types of information We gather from users of this Site and how that information is used. Please read this policy carefully before You provide Us with any personal information. If You have questions about this policy, please email Us at [privacy@roost.com](mailto:privacy@roost.com). 
-
-**Information We Collect**   
-We log your IP address in order to help diagnose problems with Our server, administer Our website and track usage statistics. Your IP address may vary each time You visit or it may be the same. It would be extremely difficult for Us to identify You through Your IP address, and We make no attempt to do so. If You reached Our site by clicking on a link or advertisement on another site, then We also log that information. This helps Us maximize our Internet exposure and understand Our users' interests. All of this information is collected and used only in the aggregate; that is, it is entered into Our database where We can use it to generate overall reports on Our visitors, but not individual reports that identify You personally. 
-
-We also place a small text file known as a "cookie" on Your computer's hard drive. A cookie may contain information that allows Us to track Your path through Our website and to determine whether You have visited Us before. However, unless You register with Us, it contains no personally identifiable information that would allow Us to identify You. Cookies cannot be used to read data off of Your hard drive and cannot retrieve information from any other cookies created by other websites. We use cookies in this manner to help Us understand how visitors use Our site and to help Us to improve Our site. You may refuse to accept a cookie from Us by following the procedures specific to Your Web browser. Although You may do so, You may find that Your browser reacts strangely when visiting Our website and other websites linked through Us. Since cookies do not provide Us with any information from which We can identify You, We suggest You allow Us to place a cookie on Your computer. We may use Web beacons on Our site or other sites and may permit third parties to place them on Our site to monitor the effectiveness of advertising or for other legitimate purposes. A Web beacon, also known as a "Web bug," is a small, graphic image on a Web page, Web-based document or in an e-mail message that is designed to allow the site owner or a third party to monitor who is visiting a site. Web beacons are often invisible to the user because they are typically very small (only 1-by-1 pixel) and the same color as the background of the Web page, document or e-mail message. Web beacons are represented as HTML IMG tags in the Web page. Users can click on "view profiles" of the Web page to see whether the page is using a Web beacon. Web beacons collect the IP address of the computer to which the Web beacon is sent, the URL of the page from which the Web beacon comes, and the time it was viewed. Web beacons can also be linked to personal information. For example, advertising networks use Web bugs to add information to a personal profile of what sites a person is visiting and to determine what banner ads to display based on the profile. Another use of Web bugs is to provide an independent accounting of how many people have visited a particular website. Web bugs are also used to gather statistics about Web browser usage at different places on the Internet. 
-
-We also give You the option to give us Your email address and other personal information so We can send You relevant residential real estate news and information. 
-
-**How We Use the Information We Collect** We use the information We collect to help You: 
-
-  1. find the most relevant information by organizing the website optimally 
-  2. find relevant residential real estate-related news and information via email (if You have registered Your email address 
+  
 
 
+### Information Collection and Use
 
-You can control whether You receive such emails by following the instructions at the end of each email we send. You may also opt-out by sending an email to [privacy@roost.com](mailto:privacy@roost.com). We may also use the information You provide to allow Us to contact You for administrative purposes; for example, to tell You about changes to Our privacy policy. We may also use certain information that You provide in order to present You with advertising that You may find interesting. This benefits both of Us. It benefits Us because advertising helps pay the bills, and We can charge Our advertisers more if they know that their ads will be seen by somebody more likely to find them useful. It benefits You because You see advertising that may actually be interesting to You, rather than annoying. 
+Roost uses information we collect to analyze how the Service is used, diagnose service or technical problems, maintain security, personalize content, remember information to help you efficiently access your account, monitor aggregate metrics such as total number of visitors, traffic, and demographic patterns, and track User Content and users as necessary to comply with the Digital Millennium Copyright Act and other applicable laws.
 
-**Disclosure of Information** We do not rent or sell personal information about You to third parties, except: (1) with Your express consent, (2) as necessary to complete a transaction You have requested, (3) for marketing purposes (unless You have chosen not to receive such communications, in certain business transactions), (4) when required by law, or (5) when necessary to protect Our rights or property. We reserve the right to use in any manner and disclose any non-personal information that We collect including cookie and traffic data. We do not combine personal information with any of the non-personal information gathered on Our site. 
+User-Provided Information: You provide us information about yourself, such as your name and e-mail address, if you register for a member account with the Service. Your name and other information you choose to add to your profile will be available for public viewing on the Service. We may use your email address to send you Service-related notices (including any notices required by law, in lieu of communication by postal mail). You can control receipt of certain Service-related messages on your Settings page. We may also use your contact information to send you marketing messages. If you do not want to receive such messages, you may opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
-We may release personal information when We believe release is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply Our policies; to initiate, render, bill, and collect for amounts owed to Us; to protect Our rights or property, or to protect any of Our users from fraudulent, abusive, or unlawful use of, Our Site or Services; or if We reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
+If you choose to use our invitation service to invite a friend to the Service, we will ask you for that person's email address and automatically send an email invitation. Roost stores this information to send this email, to register your friend if your invitation is accepted, and to track the success of our invitation service.
 
-We may use third party service providers to assist Us with the administration of the site or otherwise perform services on Our behalf, including transaction processing and sending email. Such third parties may be supplied with or have access to Your personal information solely to provide services to Us or on our behalf. We may use third parties, called third-party ad servers or ad networks, to deliver ads to You on Our behalf. These third-party ad servers may collect and use non-personally identifiable information about Your visits to our Site in order to present advertisements that may be of interest to You. If You would like more information about this practice or to opt out of having this information used by third-party ad servers to provide targeted ads, please visit <http://www.networkadvertising.org/optout_nonppii.asp>. 
+Log Files: Log file information is automatically reported by your browser each time you access a web page. When you use the Service, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-Information about Our users and the Site is Our business asset. Therefore, information about Our users, including personal information, will be disclosed as part of any merger or acquisition, creation of a separate business to provide the site, our services or fulfill products, sale or pledge of company assets as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of Our business assets. 
+Clear GIFs Information: When you use the Service, we may employ clear GIFs (or "web beacons") which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Roost account is collected using these clear GIFs. In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting and make Roost better for our users.
 
-**Security** We use commercially reasonable security measures to protect against the loss, misuse, and alteration of the information under Our control. However, We cannot guarantee the protection of information against interception, misappropriation, misuse, or alteration or that Your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. You should be aware that We have no control over the security of other sites on the Internet You might visit, interact with, or from which You buy products or services. 
+Cookies: When you visit the Service, we may send one or more "cookies" - small data files - to your computer to uniquely identify your browser and let Roost help you log in faster and enhance your navigation through the site. A cookie may convey anonymous information about how you browse the Service to us, but does not collect personal information about you. A persistent cookie remains on your computer after you close your browser so that it can be used by your browser on subsequent visits to the Service. Persistent cookies can be removed by following your web browser's directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
-**Policy Changes** We reserve the right to change this policy when We deem it advisable to do so. If We make significant changes that affect the use or disclosure of Your personal information, We will make reasonable efforts to notify You of the changes and to give You the opportunity to cancel Your registration. 
+Third Party Services: Roost may use Google Analytics or other providers to help understand use of the Service. Google Analytics and other providers collect the information sent by your browser as part of a web page request, including cookies, your IP address, and session testing services. Google Analytics and other providers also receive this information and their use of it is governed by their Privacy Policies.
+
+  
+
+
+### How We Share Your Information
+
+Personally Identifiable Information: Roost may share your personally identifiable information with third parties for the purpose of providing the Service to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Roost (for instance, on servers or databases co-located with hosting providers).
+
+As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. We may also transfer or assign such information in the course of corporate divestitures, mergers, or dissolution.
+
+We may share or disclose your information with your consent, such as if you choose to sign on to the Service through a third-party service. We cannot control third parties' use of your information.
+
+Roost may disclose your personal information if required to do so by law or subpoena or if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect Roost's rights or property.
+
+Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Roost services.
+
+Roost may allow third-party ad servers or ad networks to serve advertisements on the Service. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on Roost. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize the advertising content. Roost does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent. However, please note that if an advertiser asks Roost to show an advertisement to a certain audience and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience they are trying to reach. The Roost Privacy Policy does not apply to, and we cannot control the activities of, third-party advertisers. Please consult the respective privacy policies of such advertisers for more information.
+
+  
+
+
+### How We Protect Your Information
+
+Roost uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Roost or guarantee that your information on the Service may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
+
+In the event that personal information is compromised as a result of a breach of security, Roost will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
+
+  
+
+
+### Your Choices About Your Information
+
+You may, of course, decline to submit personally identifiable information through the Service, in which case Roost may not be able to provide certain services to you. You may update or correct your account information and email preferences at any time by logging in to your account.
+
+  
+
+
+### Children's Privacy
+
+Protecting the privacy of young children is especially important. Roost does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register with the Service. If we become aware that we have collected personal information from a child under age 13 without verification of parental consent, we take steps to remove that information.
+
+  
+
+
+### Links to Other Web Sites
+
+We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies.
+
+  
+
+
+### Changes to Our Privacy Policy
+
+If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
+
+If you have any questions about our practices or this privacy policy, please contact us at privacy@Roost.com, or send mail to:
+
+Roost, Inc.
+
+Attn: Privacy
+
+OnePost St Suite 900
+
+San Francisco, CA 94104
+
+  
+
