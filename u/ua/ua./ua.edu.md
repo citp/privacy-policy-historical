@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ua.edu privacy policy that was archived on 2011-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110525174214id_/http%3A//www.ua.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ua.edu privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013243id_/http%3A//www.ua.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The University of Alabama
 
@@ -10,4 +10,4 @@ The University of Alabama is a research institution. At anytime there are numero
 
 The University of Alabama also complies with the Family Educational Rights and Privacy Act ("FERPA"), which prohibits the release of educational records without student permission. For more details on FERPA, currently enrolled students should consult the University of Alabama Student Handbook or the University's Office of Academic Records and University Registrar.
 
-Please direct any questions about this privacy statement, the practices of any University of Alabama Web site, or your use of this Web site to the [Office of Web Communications](http://www.ua.edu/advancement/wc/).
+Please direct any questions about this privacy statement, the practices of any University of Alabama Web site, or your use of this Web site to the [Office of Web Communications](http://universityrelations.ua.edu/webcomm/).
