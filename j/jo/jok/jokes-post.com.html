@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the jokes-post.com privacy policy that was archived on 2011-03-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110312222222id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jokes-post.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102181134id_/http%3A//jokes-post.com/Privacy/1_186_object%3D2734.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<title>
-		Privacy
+		Privacy | Jokes-Post.com -  the jokes that make you laugh
 	</title>
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=8">
-	<link rel="stylesheet" type="text/css" href="//static.jokes-post.com/styles/common.css?v=4">
+	<link rel="stylesheet" type="text/css" href="//static.jokes-post.com/styles/common.css?v=12">
 	
 	
 	
 	<meta name="robots" content="INDEX,FOLLOW">
 	<link rel="image_src" href="/images/jokes_post.png">
-	<script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"></script>
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://d.yimg.com/mi/ywa.js"></script>
 <script type="text/javascript" src="//static.jokes-post.com/scripts/site_tracker.js"></script>
 
 <script type="text/javascript">
@@ -22,32 +22,94 @@
 </script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript">!window.jQuery && document.write('<script type="text/javascript" src="/scripts/JQuery/jquery-1.3.2.min.js"><\/script>')</script><script type="text/javascript" src="/scripts/JQuery/jquery-1.3.2.min.js"></script>
 </head>
-<body>
-	<div class="top">
-		<div class="content">
-			<div class="top-menu"><a href="/Frequently-Asked-Questions/1_186_menu=1_object=2735.aspx" class="selected">FAQ</a> &nbsp;|&nbsp; <a href="/Contact-Us/3_0_menu=2.aspx" class="selected">Contact Us</a> &nbsp;|&nbsp; <a href="/Subscribe/4_0_menu=3.aspx" class="selected">Subscribe</a></div>
+<body>	
+	<div class="top" style="height: 45px;"> 
+		<div class="content">			
+			<script type="text/javascript">
+		function getCookie(b){var c,a,e,d=document.cookie.split(";");for(c=0;c<d.length;c++){a=d[c].substr(0,d[c].indexOf("="));e=d[c].substr(d[c].indexOf("=")+1);a=a.replace(/^\s+|\s+$/g,"");if(a===b){return unescape(e)}}}
+		function setCookie(a,d,b){var e=new Date();e.setDate(e.getDate()+b);var c=escape(d)+((b===null)?"":"; expires="+e.toUTCString());document.cookie=a+"="+c};
+		
+		function dirtyConfirm() {
+			var $modalOverlay = $('.modal-overlay');
+			
+			if ($modalOverlay.length === 0) {
+				$modalOverlay = $('<div class="modal-overlay"></div>').appendTo(document.body).css({ 
+										'width': $(window).width(), 
+										'height': $(document).height() 
+								   });
+			}
+			
+			$modalOverlay.fadeIn(500).fadeTo(300, 0.8);
+			
+			var $modalDialog = $('.modal-dialog');
+			
+			if ($modalDialog.length === 0) {
+				$modalDialog = $('<div class="modal-dialog"><img src="/content/images/spice.png" style="position: absolute; left: -40px;"/><div style="padding: 55px 25px 55px 180px;"><center><h1 style="margin: 0 0 10px 0; font-size: 28px; color: #364853;">Are you 18 or older?</h1><p style="margin: 0 0 30px 0;"><span style="font-size: 11px; color: #364853;">I confirm I am over 18, and I want access to dirty jokes</span></p><a class="modal-bt modal-bt-red" href="/Privacy/1_186_object=2734.aspx?jcat=other%2cdirty" onclick="setCookie(\'__showOffer\', 1, 14);"><span>Yes! Give it to me!</span></a><a class="modal-bt" href="/Privacy/1_186_object=2734.aspx" onclick="$(\'.modal-overlay\').hide(); $(\'.modal-dialog\').hide(); return false;"><span>No, I\'m not ready for this</span></a></center></div></div>').appendTo(document.body);
+			}
+			
+			var dialogTop = $(window).height() / 2 - $modalDialog.height() / 2 + ($.browser.msie && $.browser.version < 7 ? $(window).scrollTop() : 0);
+			$modalDialog.css({ 
+								'top':  dialogTop * 0.8, 
+								'left': $(window).width() / 2 - $modalDialog.width() / 2 
+							});
+							
+			$modalDialog.fadeIn(800);
+		}
+		
+		$(function() {
+			if (getCookie('__showOffer')) {
+			
+				setTimeout(function() {
+					setCookie('__showOffer', 0, -1);
+					
+					var $container = $(document.body);
+
+					$overlay = $('#body-overlay');
+					if ($overlay.length == 0) {
+						$overlay = $('<div id="body-overlay" class="overlay" style="z-index: 100; width: ' + $container.innerWidth() + 'px; height: ' + $container.innerHeight() + 'px; line-height: ' + screen.height + 'px;"><img src="/images/e/loader.gif"/></div>').appendTo($container);
+					}
+
+					$overlay.css('opacity', '0.7');
+
+					$overlay.fadeIn(200, function() {
+						$('<div id="modal-offer" style="width: ' + $container.innerWidth() * 0.9 + 'px; top: ' + Math.max(0, ($(window).height() - $(window).height() * 0.9) / 2) + 'px;' + ($(window).height() < 640 ? 'position: absolute;' : '') +'"><div class="rounded-block"><img src="/images/e/modal-close.gif" alt="close" onclick="window.location.reload();" style="position: absolute; right: 7px; top: 7px; cursor: pointer"/><div class="rounded-block-body" style="line-height: normal;"><iframe src="http://www.flxgo.com/r/z/18605/CD15242/&dp=0&subid1=SRCSRCJSPLID0SIDPORTCIDGRTR10TR20TR3TR4TR5" width="100%" height="' + ($(window).height() * 0.9 - 27) + '" scrolling="auto" frameborder="0"></iframe></div><div class="top-left"></div><div class="top-right"></div><div class="bottom-left"></div><div class="bottom-right"></div></div></div>').appendTo($container);
+					});
+				}, 15000);
+			}
+		});
+	</script><div class="top-menu">
+  <div class="joke-category-menu" style="padding-left: 140px">
+			Dirty Jokes are
+			
+					OFF<img src="/images/e/dirty-off.gif" alt=""><a href="#" onclick="dirtyConfirm(); return false;">On</a></div><a href="/Contact-Us/3_0_menu=2.aspx">Contact Us</a> &nbsp;|&nbsp; <a href="/Frequently-Asked-Questions/1_186_menu=7_object=2735.aspx">FAQ</a> &nbsp;|&nbsp; <a href="/Subscribe/4_0_menu=3.aspx">Subscribe</a></div>
+			
 		</div>
 	</div>
 	<div class="content-border-top">
 		<div class="content-border">
 			<div class="content">
 				<div class="header">
-					<a href="/"><img src="//static.jokes-post.com/images/logo.png" width="546" height="178" class="logo" alt="Jokes-post. Your daily jokes"></a>
+					<a href="/"><img src="//static.jokes-post.com/images/logo_left.png" width="175" height="178" class="logo-left" style="margin-left: -50px;px;" alt="Jokes-post. Your daily jokes"></a>
+					<a href="/"><img src="//static.jokes-post.com/images/logo_right.png" width="371" height="152" class="logo-right" style="margin-left:  125px;" alt="Jokes-post. Your daily jokes"></a>
 					
-<form action="/Jokes-Search/0_211.aspx" method="get">
+<!--form action="/Jokes-Search/0_211.aspx" method="get">
 	<div class="jokes-search">
 		<label for="keywords">Enter text or number of a joke:</label><br>
 		<input type="text" id="keywords" name="keywords" value="" class="jokes-search-keywords"> <span class="button button-red"><input type="submit" value="search" onclick="if (!isNaN(form.keywords.value)) form.keywords.value = '#' + form.keywords.value;"></span>
 	</div>
-</form>
+</form-->
+<div class="main-menu" style="margin-left: 500px; padding-top: 50px; text-align: right;">
+	<!--<a href="/Subscribe/4_0_menu=3.aspx" class="highlighted subscribe "><span class="contest-blink"></span><span>Subscribe</span></a>
+	<a href="/Contest-Winners/6_227_menu=-7.aspx" class="highlighted contest "><span class="contest-blink"></span><span>Contest Winners</span></a>-->
+</div>
 <div class="top-right"></div>
 <div class="main-menu">
-	<a href="/Best-Jokes/1_0_best=1_menu=-1_order=date.aspx" class=""><span>Newest Jokes</span></a>
+	<a href="/Newest-Jokes/1_0_best=1_menu=-1_order=date.aspx" class=""><span>Newest Jokes</span></a>
+	<a href="/Joke-Dump/1_0_best=-1_menu=-3_order=date.aspx" class=""><span>The Jokes Dump</span></a>
 	<a href="/Best-Jokes/1_0_best=1_menu=-2_order=rating.aspx" class=""><span>Best Jokes</span></a>
 	<a href="/Random-Joke/0_208_menu=-5.aspx" class=""><span>Random Jokes</span></a>
-	<a href="/Joke-Dump/1_0_best=-1_menu=-3_order=date.aspx" class=""><span>The Jokes Dump</span></a>
 	<a href="/Send-Us-A-Joke/5_0_menu=-6.aspx" class=""><span>Send Us A Joke</span></a>
-	<a href="/Contest/6_0_menu=-7.aspx" class="highlighted contest "><span class="contest-blink"></span><span>Contest</span></a>
+	<a href="/Comics/0_228_menu=-8_page=1.aspx" class="" style="position: relative;"><span style="padding: 0 35px;">Comics</span><img src="//static.jokes-post.com/content/images/new.png" style="position: absolute; left: 75px; top: 27px;"></a>
 	<span class="dummy"></span>
 </div>
 
@@ -110,12 +172,12 @@ We employ industry standard security measures designed to safeguard  against una
 <br>
 California Civil Code Section 1798.83 enables California residents who  have provided PII to US, and/or to a third party who has then shared  such information with US, to request information regarding our  disclosure of such PII information to third parties. Within thirty days  of receipt of such a request, we will provide a list of the PII  disclosed to third parties for the past calendar year, along with the  names and addresses of such third parties. This request may not be made  more than once per calendar year. Should you wish to exercise your  rights under this Section, please use the postal address listed below.  We reserve the right not to honor and/or respond to such requests that  are not sent to the address below.</div>
 <div>&nbsp;</div>
-<p>Jokes-Post.com</p>
-<p>244 5th Ave</p>
-<p>Suite # G239</p>
-<p>New York, NY 10001</p>
-<p>(888) 231-8602</p>
-<p>company@jokes-post.com</p>
+<p>GMB555 - Jokes-post.com<br>
+315 Madison Avenue<br>
+Suite 901<br>
+New York, NY 10017<br>
+888-231-8602<br>
+company@jokes-post.com</p>
 <div>&nbsp;</div>
 <div><strong>Acceptance</strong><br>
 <br>
@@ -135,7 +197,8 @@ If you have any questions regarding this statement, or would like more  informat
 	<span class="button-menu-like">
 		<span><b>Follow us on</b><a href="http://www.facebook.com/pages/Jokes-Postcom/158683344173440"><img src="/content/images/facebook.png" style="vertical-align: middle;"></a><a href="http://twitter.com/JokesPost"><img src="/content/images/twitter.png" style="vertical-align: middle;"></a></span>
 	</span>
-</div><div style="margin-bottom: 30px; padding: 15px 0; text-align: center; background: #F2F6F8;">
+</div>
+<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><fb:like href="http://www.facebook.com/BestJokes" layout="standard" show_faces="false" width="280" font=""></fb:like><div style="margin-bottom: 30px; padding: 15px 0; text-align: center; background: #F2F6F8;">
 	<span style="display: inline-block; zoom: 1;">
 		<script type="text/javascript"><!--
 			google_ad_client = "pub-2814148702633123";
@@ -148,25 +211,55 @@ If you have any questions regarding this statement, or would like more  informat
 		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
 	</span>
 </div><div class="rounded-block">
-  <div class="rounded-block-head"><img src="//static.jokes-post.com/images/t/send-us-a-joke.png" alt="Send Us a Joke" style="position: absolute; left: 5px; top: -4px;"></div>
-  <div class="rounded-block-body">
-    <form action="/Privacy/1_186_object=2734.aspx" method="post">
+  <div class="rounded-block-head subscribe-hidden-form-handler" style="cursor: pointer;"><img src="//static.jokes-post.com/images/t/subscribe.png" alt="Subscribe" style="position: absolute; left: 5px; top: -4px;"></div>
+  <div class="rounded-block-body subscribe-hidden-form" style="display: none;"><script type="text/javascript">
+					$(function() {
+						$('.subscribe-hidden-form-handler').mouseenter(function() {
+							$('.subscribe-hidden-form').slideDown();
+						});
+					});
+				</script><form action="/Privacy/1_186_object=2734.aspx" method="post">
       <p>
-					Do you really like your joke? Is it funny? Are you sure? Okay, send it.
-				</p>
-      <p><label for="joke-user-name">Your name</label><input type="text" name="joke-user-name" id="joke-user-name" value=""><input type="hidden" name="joke-user-name_submitted" value="1"></p>
-      <p><label for="joke-user-email">Your email</label><input type="text" name="joke-user-email" id="joke-user-email" value=""><input type="hidden" name="joke-user-email_submitted" value="1"></p>
-      <p><label for="joke-description">Joke</label><textarea type="text" name="joke-description" id="joke-description"></textarea><input type="hidden" name="joke-description_submitted" value="1"></p>
-      <p><label for="captcha">Word Verification. Type the characters you see in the picture below.</label><img src="/captcha.jpeg" width="235" height="60" style="margin: 5px 0;"><br><input type="text" id="captcha" name="captcha" style="width: 232px" value=""><br><br></p>
-      <div style="text-align: right;"><input type="hidden" name="formname" value="_ctl0_right__ctl2"><span class="button button-red"><input type="submit" value="send joke"></span></div>
+							To get free access to best jokes write your email
+						</p>
+      <p class="email-field-wrapper"><input type="hidden" name="formname" value="_ctl0_right__ctl2"><input type="text" name="email" id="email" style="width: 200px; height: 14px; vertical-align: top;" value=""><input type="hidden" name="email_submitted" value="1">
+							&nbsp;
+							<a href="#" onclick="return false;" class="tooltip-container"><img src="/images/e/hint.gif" alt="?"><span class="tooltip">
+                  Spam stinks! We will send daily jokes to the email address you enter here. Also, from time to time you will receive additional useful information and recommended offers from Jokes-Post.com. Your email will not be shared with any third parties unless you select this option. If you want additional goodies and special offers, you are free to request this information from our partners below. You can unsubscribe from Jokes-Post emails at any time. Every email includes an unsubscribe link and short instructions on how to do it.
+                </span></a></p>
+      <p></p>
+      <p><span class="button button-red"><input type="submit" value="get best jokes"></span></p>
+      <p><input type="checkbox" id="privacy" value="1" name="privacy" style="border: none;"> I agree to the site <a href="/Privacy/1_186_object=2734.aspx">
+								Privacy Policy</a></p>
     </form>
   </div>
   <div class="top-left"></div>
   <div class="top-right"></div>
   <div class="bottom-left"></div>
   <div class="bottom-right"></div>
-</div><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FBestJokes&amp;width=280&amp;colorscheme=light&amp;show_faces=true&amp;stream=true&amp;header=true&amp;height=658" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:280px; height:658px;" allowtransparency="true"></iframe>
-
+</div><div class="rounded-block" style="margin: 30px 0 0 0;">
+  <div class="rounded-block-body">
+    <div style="text-align: center;"><a href="http://sbcounter10.com/track/rd/326664/15270/SRCJSPLID0SIDBANCIDCoupTR10TR20TR3TR4TR5/6761">
+<img src="http://www.addrive.com/ad/banners/326664-6761.gif" width="160" height="600">
+</a></div><script type="text/javascript">
+		STracker.trackQuestions();
+	</script></div>
+  <div class="top-left"></div>
+  <div class="top-right"></div>
+  <div class="bottom-left"></div>
+  <div class="bottom-right"></div>
+</div><div class="rounded-block" style="margin: 30px 0 0 0;">
+  <div class="rounded-block-body">
+    <div style="text-align: center;"><a href="http://sbcounter10.com/track/rd/326664/15270/SRCJSPLID[lp]SIDBANCIDCoupTR1[sub]TR2[prt]TR3[refprt]TR4[double]TR5[tref5]/6761">
+<img src="http://www.addrive.com/ad/banners/326664-6761.gif" width="160" height="600">
+</a></div><script type="text/javascript">
+		STracker.trackQuestions([{'q':'RightBottom','a':'Views','s':'Newest'}]);
+	</script></div>
+  <div class="top-left"></div>
+  <div class="top-right"></div>
+  <div class="bottom-left"></div>
+  <div class="bottom-right"></div>
+</div>
 					</div>
 				</div>
 			</div>
@@ -174,76 +267,32 @@ If you have any questions regarding this statement, or would like more  informat
 	</div>
 	<div class="footer">
 		<div class="content">
-			<div class="bottom-menu"><a href="/Privacy/1_186_menu=4_object=2734.aspx" class="selected">Privacy</a> &nbsp;|&nbsp; <a href="/Contact-Us/3_0_menu=5.aspx" class="selected">Contact Us</a> &nbsp;|&nbsp; <a href="/Copyright-Compliance-Policy/1_186_menu=6_object=354.aspx" class="selected">Copyright Compliance Policy</a></div>
+			<div class="bottom-menu"><a href="/Frequently-Asked-Questions/1_186_menu=1_object=2735.aspx" class="selected">FAQ</a> &nbsp;|&nbsp; <a href="/Privacy/1_186_menu=4_object=2734.aspx" class="selected">Privacy</a> &nbsp;|&nbsp; <a href="/Contact-Us/3_0_menu=5.aspx" class="selected">Contact Us</a> &nbsp;|&nbsp; <a href="/Copyright-Compliance-Policy/1_186_menu=6_object=354.aspx" class="selected">Copyright Compliance Policy</a></div>
 			<span class="copyright">
 				© 2011 Jokes-Post.com - All Rights Reserved.<br>
 				For Entertainment Purposes Only.
 			</span>
 		</div>
 	</div>
-	
-	<script type="text/javascript">
-	function setCookie(c,e,a,h,d,g){var b=new Date();b.setTime(b.getTime());if(a){a=a*1000}var f=new Date(b.getTime()+(a));document.cookie=c+"="+escape(e)+((a)?"; expires="+f.toGMTString():"")+((h)?"; path="+h:"")+((d)?"; domain="+d:"")+((g)?"; secure":"")}
-	function getCookie(b){var d=" "+document.cookie;var c=" "+b+"=";var e=null;var f=0;var a=0;if(d.length>0){f=d.indexOf(c);if(f!=-1){f+=c.length;a=d.indexOf(";",f);if(a==-1){a=d.length}e=unescape(d.substring(f,a))}}return(e)};
-
-	function subscribeModalResize(id, newHeight) {
-		document.getElementById(id).style.height = newHeight + 10 + 'px';
-	}
-	function subscribeModalClose() {
-		$('#modal-overlay').hide(); $('#modal-dialog').hide();
-	}
-	function subscribeModalShow(type) {
-		var $modalOverlay = $('<div id="modal-overlay"></div>').appendTo(document.body).css({ 
-									'width': $(window).width(), 
-									'height': $(document).height() 
-							   });
-		if (type == "fast") {
-			$modalOverlay.show().css('opacity', 0.8);
-		} else {
-			$modalOverlay.fadeIn(1000).fadeTo("slow", 0.8);
-		}
-							   
-		var $modalDialog = $('<div id="modal-dialog" style="width: 500px; height: 570px;"><iframe frameborder="0" allowtransparency="true" src="/0_218.aspx" style="width: 500px; height: 570px;"></iframe></div>').appendTo(document.body);
-		
-		var dialogTop = $(window).height() / 2 - $modalDialog.height() / 2 + ($.browser.msie && $.browser.version < 7 ? $(window).scrollTop() : 0);
-		$modalDialog.css({ 
-							'top':  dialogTop * 0.8, 
-							'left': $(window).width() / 2 - $modalDialog.width() / 2 
-						});
-						
-		if (type == "fast") {
-			$modalDialog.show();
-		} else {
-			$modalDialog.fadeIn(2000);
-		}
-	}
-
-	var modalTimer = 0;
-	
-	$(document).ready(function() {				
-		if (!getCookie('__sub_modal_shown')) {	
-			if (!getCookie('__sub_modal') && !getCookie('__sub_modal_shows')) {
-				setCookie('__sub_modal', 'true', 120);
-				setCookie('__sub_modal_shows', 1, 60 * 60 * 24 * 1);
-			} else {
-				setCookie('__sub_modal_shows', parseInt(getCookie('__sub_modal_shows')) + 1, 60 * 60 * 24 * 1);
-			}
-	
-			modalTimer = setTimeout (function() {
-				if (!getCookie('__sub_modal') && parseInt(getCookie('__sub_modal_shows')) > 2 && !getCookie('__sub_modal_shown')) {
-					setCookie('__sub_modal_shown', 'true', 60 * 60 * 24 * 1);
-					subscribeModalShow();
-					$(document).unbind('mousemove');
-				}
-			}, 10000 );
-		}
-	});
-</script><script type="text/javascript">  
+	<div style="width: 250px;	background: #E3E8EB;padding: 5px;font-size: 10px;border: solid 1px #000000;float: left;position: absolute;top: 20px;left: 10px;visibility: hidden;color: #000000;" id="mess"></div>
+	<script type="text/javascript">  
 	STracker.defaults.page_group='PAGE';
 	STracker.defaults.page_name='ArticleDetails';
 
 	STracker.trackPage();
-</script><!-- Start Quantcast tag -->
+</script><script type="text/javascript"> 
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-25622095-2']);
+   _gaq.push(['_trackPageview']);
+ 
+   (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })(); 
+ </script>
+
+<!-- Start Quantcast tag -->
 <script type="text/javascript">
 _qoptions={
 qacct:"p-87Lfxd1zS_91k"
