@@ -1,57 +1,66 @@
-> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414111552id_/http%3A//www.webvisible.com/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvisible.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102014205id_/http%3A//www.webvisible.com/legal/privacy-policy.php) for the most accurate reproduction.*
 
-# WebVisible - Privacy Policy
+# Webvisible - Privacy Policy
 
-### Effective as of March 22, 2007
+  
 
-We at WebVisible, Inc. (“we”, “WebVisible” or “us”) are committed to the responsible use of your personal information and the protection of your privacy. This privacy policy applies to all the solutions and services on our web site [www.webvisible.com](http://www.webvisible.com/) where we collect information on the web site or via e-mail. 
 
-We strongly encourage you to read this policy carefully. If you have any questions about our policy or our use of your personal information, please feel free to contact us by sending an e-mail to privacy [ at ] webvisible.com or by writing to us at WebVisible, Inc., 121 Innovation Drive, Suite 100, Irvine, CA 92617, Attn: Privacy Issues. 
+### Effective as of August 11, 2011
 
-We may update this policy from time to time to reflect changes in our use of your personal information and/or applicable law. Any changes made to our policy will be reflected in an updated policy (denoted by an effective date later than the one currently identified above) posted to our web site. 
+We at WebVisible, Inc. (“we,” “WebVisible,” or “us”) are committed to the responsible use of your personal information and the protection of your privacy. This privacy policy applies to all the solutions and services on our Web site, [www.webvisible.com](http://www.webvisible.com/) where we collect information on the Web site or via e-mail.
 
-### What personal information do we collect and how do we use it? 
+We strongly encourage you to read this policy carefully. If you have any questions about our policy or our use of your personal information, please feel free to contact us by sending an e-mail to privacy [ at ] webvisible.com or by writing to us at WebVisible, Inc., 5510 Lincoln Blvd, Suite 200, Playa Vista, CA, 90094 Attn: Privacy Issues.
 
-In order to provide our full range of services and provide the best customer experience for our customers, we may collect the following types of information: 
+We may update this policy from time to time to reflect changes in our use of your personal information and/or applicable law. Any changes made to our policy will be reflected in an updated policy (denoted by an effective date later than the one currently identified above) posted to our Web site.
 
-**User provided information.** Certain aspects of our web site allow you to submit personal information to us (such as your name, e-mail address, telephone number and mailing address) via internet browser based forms or by sending us an e-mail. In addition, certain aspects of our web site require that you register in order to obtain a user name and password from us. We may retain and use those communications in order to process your requests, respond to communications or improve the quality of our customer experience. If you provide feedback via our “contact us” form or otherwise, we may also retain and use those communications for the same purposes. In order to purchase solutions or services from our web site, we may require you to submit a credit card for payment. We take reasonable steps to encrypt your credit card information as it is processed and stored on our servers. 
+### What personal information do we collect and how do we use it?
 
-**Cookies.** When you visit our web site, we may send one or more small files, commonly referred to as “cookies”, which allow us to uniquely identify your internet browser. We use these cookies to store information about you and to track your use of our web site, all in order to improve our customer experience. Your browser may enable you to delete or disable our cookie files. Deleting, disabling or restricting the receipt of our cookie files may affect your ability to access certain portions of our web site. 
+In order to provide our full range of services and provide the best customer experience for our customers, we may collect the following types of information:
 
-**Logs.** By accessing our web site, our internet servers automatically record information your internet browser sends when you visit a web site. These logs may contain information such as your internet protocol (IP) address, browser version, domain name, language, date and time, and the referring web site. We do not use any logs created by your visit except as necessary for you to submit user provided information via our web site. 
+**User provided information.** Certain aspects of our Web site allow you to submit personal information to us (such as your name, e-mail address, telephone number, and mailing address) via Internet browser-based forms or by sending us an e-mail. In addition, certain aspects of our Web site require that you register in order to obtain a user name and password from us. We may retain and use those communications in order to process your requests, respond to communications, or improve the quality of our customer experience. If you provide feedback via our “contact us” form or otherwise, we may also retain and use those communications for the same purposes. In order to purchase solutions or services from our Web site, we may require you to submit a credit card for payment. We take reasonable steps to encrypt your credit card information as it is processed and stored on our servers.
 
-We will only use your personal information (i) to provide our services or information about our services to you, (ii) for analysis in order to improve our services and operations, (iii) to develop solutions and services, (iv) to comply with applicable law, rules and regulations and (iv) for the specific reasons outlined on our web site when we collect your information. 
+**Cookies.** When you visit our Web site, we may send one or more small files, commonly referred to as “cookies,” which allow us to uniquely identify your Internet browser. We use these cookies to store information about you and to track your use of our Web site, all in order to improve our customer experience. Your browser may enable you to delete or disable our cookie files. Deleting, disabling, or restricting the receipt of our cookie files may affect your ability to access certain portions of our Web site.
+
+**Logs.** By accessing our Web site, our Internet servers automatically record information your Internet browser sends when you visit a Web site. These logs may contain information such as your Internet Protocol (IP) address, browser version, domain name, language, date and time, and the referring Web site. We do not use any logs created by your visit except as necessary for you to submit user provided information via our Web site.
+
+We will only use your personal information (i) to provide our services or information about our services to you, (ii) for analysis in order to improve our services and operations, (iii) to develop solutions and services, (iv) to comply with applicable law, rules and regulations, and (iv) for the specific reasons outlined on our Web site when we collect your information.
 
 If we use your information for a purpose different from those outlined above, we will ask for your consent prior to such use. You may choose to opt-out of such use at such time. You may also request we remove your personal information from our active systems at any time by contacting us at the e-mail or street address noted above.
 
-###  With whom do we share your information? 
+### 
 
-We will not share your personal information with third parties unless we have your consent or unless we have a good faith belief we are required to share such information to satisfy applicable law, including the prevention of fraud. We may share certain aggregated, non-personal information collected from you (such as your browser type) with third parties in order to improve our services, but such information will not be sufficient to individually identify you. If you wish to revoke your consent to our sharing of your personal information, you may contact us at the e-mail or street address noted above to request we discontinue sharing your personal information. You may not revoke your consent to our sharing of your information when such revocation would violation applicable law or a directive from a court of competent jurisdiction. 
+With whom do we share your information?
 
-We do not share or sell your information to third parties for marketing purposes. 
+We will not share your personal information with third parties unless we have your consent or unless we have a good faith belief we are required to share such information to satisfy applicable law, including the prevention of fraud. We may share certain aggregated, non-personal information collected from you (such as your browser type) with third parties in order to improve our services, but such information will not be sufficient to individually identify you. If you wish to revoke your consent to our sharing of your personal information, you may contact us at the e-mail or street address noted above to request we discontinue sharing your personal information. You may not revoke your consent to our sharing of your information when such revocation would violation applicable law or a directive from a court of competent jurisdiction.
 
-### Do we allow you to review your personal information? 
+We do not share or sell your information to third parties for marketing purposes.
 
-You may review and request changes to your personal information stored on our active systems by contacting us at the e-mail or street address above. 
+### Do we allow you to review your personal information?
 
-### What security do we use to protect your personal information? 
+You may review and request changes to your personal information stored on our active systems by contacting us at the e-mail or street address above.
 
-#### Security 
+### What security do we use to protect your personal information?
 
-We take reasonable measures to identify and prevent unauthorized access to our systems and disclosure of your personal information. We also restrict access to your personal information to only those persons who need to know the information in order to perform the services we offer. Your personal information may be stored on computers systems maintained by an agent or service provider of our company, each of which will be bound by agreement to protect the confidentiality of your personal information. Our computer systems are located in the United States of America, but the computer systems of our service providers may be located in another country. Your submission of personal information constitutes your consent to the transfer and storage of your information across international borders. 
+#### Security
 
-#### Data integrity 
+We take reasonable measures to identify and prevent unauthorized access to our systems and disclosure of your personal information. We also restrict access to your personal information to only those persons who need to know the information in order to perform the services we offer. Your personal information may be stored on computers systems maintained by an agent or service provider of our company, each of which will be bound by agreement to protect the confidentiality of your personal information. Our computer systems are located in the United States of America, but the computer systems of our service providers may be located in another country. Your submission of personal information constitutes your consent to the transfer and storage of your information across international borders.
 
-We only store and process your information for the purpose we collected such information or as otherwise described in this policy. We take reasonable steps to verify the information we collect is complete and accurate, but our ability to maintain the accuracy and completeness of such information is dependent on the users of our web site providing updated and corrected information to us as necessary. We review our information use practices as necessary in order to improve the services we offer.
+#### Data integrity
 
-###  Do we accept personal information from children? 
+We only store and process your information for the purpose we collected such information or as otherwise described in this policy. We take reasonable steps to verify the information we collect is complete and accurate, but our ability to maintain the accuracy and completeness of such information is dependent on the users of our Web site providing updated and corrected information to us as necessary. We review our information use practices as necessary in order to improve the services we offer.
 
-Our web site is not designed nor directed at anyone under the age of 18, and we do not knowingly accept personal information from persons under the age of 18. If we become aware a person under the age of 18 has provided us personal information, we will discontinue the use of such information and remove it from our active systems. 
+### Do we accept personal information from children?
 
-### Does this policy apply to links on our web site? 
+Our Web site is not designed nor directed at anyone under the age of 18, and we do not knowingly accept personal information from persons under the age of 18. If we become aware a person under the age of 18 has provided us personal information, we will discontinue the use of such information and remove it from our active systems.
 
-We may provide hyperlinks to third party controlled web sites on our web site. This privacy policy does not govern the use of such web sites. 
+### Does this policy apply to links on our Web site?
 
-### Do we comply with EU privacy laws? 
+We may provide hyperlinks to third party-controlled Web sites on our Web site. This privacy policy does not govern the use of such Web sites.
 
-We adhere to the US Safe Harbor privacy principles. You can find more information about the Safe Harbor framework or our registration at the Department of Commerce's web site, <http://www.export.gov/safeharbor/>.
+### Do we comply with EU privacy laws?
+
+We adhere to the US Safe Harbor privacy principles. You can find more information about the Safe Harbor framework or our registration at the Department of Commerce’s web site, <http://www.export.gov/safeharbor/>.
+
+### Do we comply with regulations set forth as a Google AdWords Partner?
+
+We comply with regulations outlined in Google’s AdWords Advertiser’s Guide, which can be read [here](http://www.google.com/adwords/thirdpartypartners/ "Google Advertiser Guide").
