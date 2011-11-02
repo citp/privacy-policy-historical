@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429222530id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discountvouchers.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102011034id_/http%3A//www.discountvouchers.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy Discount Codes, Voucher Codes & Printable Discount Vouchers!
+
+## Discount Vouchers
 
 DiscountVouchers.co.uk promises only to use information collected about you in accordance with the Data Protection Act 1998 and the European Directive on Privacy and Electronic Communications (2002/58/EC).
 
@@ -13,9 +15,10 @@ This information will be kept securely in accordance with our internal security 
 
 
 
-  
 By registering for further information and submitting your data you agree to this use.
 
 We will never collect sensitive information about you without your explicit consent. An example of sensitive information would be your religion or a medical condition.
 
 We will not use your details for SPAM.
+
+Discount Vouchers is a member of the Google Display Network
