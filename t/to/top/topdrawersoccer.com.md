@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2011-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110109191452id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102075200id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
 
-# Club Soccer News | College Soccer News | TopDrawerSoccer.com
+# TopDrawerSoccer.com Privacy | Club Soccer News | College Soccer News
 
 ## TopDrawerSoccer.com Privacy  
   
