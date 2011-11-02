@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluemercury.com privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307002143id_/http%3A//www.bluemercury.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluemercury.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102091043id_/http%3A//www.bluemercury.com/privacy.asp) for the most accurate reproduction.*
 
 # Bluemercury Privacy Policy: Beauty, Makeup, Skin Care, Laura Mercier, Trish McEvoy, Molton Brown, Bobbi Brown, Hair, Perfume, Bluemercury
 
