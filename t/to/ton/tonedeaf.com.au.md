@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2011-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110320175500id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tonedeaf.com.au privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010505id_/http%3A//www.tonedeaf.com.au/corporate/privacy) for the most accurate reproduction.*
 
 # Privacy Policy on Tone Deaf
 
@@ -24,3 +24,6 @@ Although most changes are likely to be minor, ToneDeaf.com.au may change its Pri
 
 **Complaints/Concerns  
 **If you believe there has been a breach of your privacy, or that there is a privacy issue or question you’d like answered please direct your enquiry to our Privacy Officer, Nicholas Jones: [nicholas@outlawed.com.au](mailto:nicholas@outlawed.com.au) . We take all complaints seriously and will act in a prompt manner to rectify problems.
+
+  
+
