@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the senseofashion.com privacy policy that was archived on 2011-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110505061613id_/http%3A//www.senseofashion.com/articles.php%3Farticle%3D11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the senseofashion.com privacy policy that was archived on 2011-11-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111102143945id_/http%3A//www.senseofashion.com/articles.php%3Farticle%3D11) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 
@@ -20,8 +20,8 @@
  <base href="http://www.senseofashion.com/">	
 	
 
-<link rel="stylesheet" href="includer.css?static=yes&amp;files=main.css&amp;ver=1304427144" title="stylesheet" type="text/css">
-<link rel="stylesheet" href="includer.css?files=header_css_v2.css&amp;ver=1304427144" title="stylesheet" type="text/css">
+<link rel="stylesheet" href="1320158214/main.css/includer.css" title="stylesheet" type="text/css">
+<link rel="stylesheet" href="1320158214/header_css_v2.css/includer.css" title="stylesheet" type="text/css">
 <link rel="stylesheet" href="/include/js/jquery/plugins/autocomplete/jquery.autocomplete.css" title="stylesheet" type="text/css">
 
 <script src="http://www.google.com/jsapi"></script>
@@ -42,6 +42,7 @@
     _gaq.push(['_setCampContentKey', 'utm_keyword']);
     _gaq.push(['_setCampTermKey', 'utm_keyword']);
     _gaq.push(['_setCampNameKey', 'utm_campaign']);
+    _gaq.push(['_trackPageLoadTime']);
     _gaq.push(['_trackPageview']);
   </script>
  
@@ -62,7 +63,8 @@ $(document).ready(function(){
 </head>
 <body>
 
-<script type="text/javascript" src="includer.js?files=common.js&amp;ver=1304427139"></script>
+
+<script type="text/javascript" src="1319489386/common.js/includer.js"></script>
 			<!-- Google Website Optimizer Control Script -->
 
 <script>
@@ -75,7 +77,7 @@ d.write('<sc'+'ript src="'+
 +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
 +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
 '" type="text/javascript" charset="utf-8"></sc'+'ript>')})(); 
-</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=0425248638&amp;utmx=&amp;utmxx=&amp;utmxtime=1580559453515" type="text/javascript" charset="utf-8"></script>
+</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=0425248638&amp;utmx=&amp;utmxx=&amp;utmxtime=1580559451898" type="text/javascript" charset="utf-8"></script>
 
 <!-- End of Google Website Optimizer Control Script -->
 <div id="header">
@@ -204,7 +206,7 @@ if (document.images)
 				<input style="color:grey" type="text" id="headerSearchInput" name="search_text" value="Search here...">
 				<input type="hidden" name="select" value="all">
 				<input type="hidden" name="task" value="dosearch">
-				<input id="searchSubmit" type="image" src="http://static.senseofashion.com/newimg/search-btn.png">
+				<input id="searchSubmit" type="submit" value="">
 			</form>	
 		</div>
 		<div id="sellOnsofHolder">
@@ -248,6 +250,8 @@ if (document.images)
 
 
 <link rel="stylesheet" href="css/articles.css" title="stylesheet" type="text/css">
+<script language="JavaScript" src="scripts/jquery.scrollTo-1.4.2-min.js"></script>
+<script language="JavaScript" src="scripts/jquery.localscroll-1.2.7-min.js"></script>
 
 	<table width="100%">
 	<!--<tr>
@@ -328,6 +332,20 @@ Fashion Sense encourages you to periodically review this privacy policy and othe
 	<br><br><br><br><br>
 
 
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+
+	$.localScroll();
+	
+
+	
+})
+
+</script>
+
+
 		<div id="footer" style="height:200px">
 			<div id="iconsLikesSeals" style="float:left">
 			<div style="float:left;margin-top:-2px">
@@ -346,8 +364,8 @@ Fashion Sense encourages you to periodically review this privacy policy and othe
 				<li><a href="/feedback">Contact Us</a></li>
 				<li><a href="articles.php?article=10">Terms of Service</a></li>
 				<li><a href="articles.php?article=11">Privacy</a></li>
-				<li><a href="/faq">FAQ</a></li>
-				<li><a href="/help">Help &amp; How To's</a></li>
+			  	<li><a href="/faq">FAQ</a></li>
+<!--				<li><a href="/help">Help & How To's</a></li> -->
 				<li><a href="/blog/index.php">Blog</a></li>
 			</ul>
 			<div class="clear"></div>
@@ -440,7 +458,7 @@ FB.init({appId: '131414209264', status: true, cookie: true, xfbml: true});
 			FB.Event.subscribe('auth.sessionChange',function(response){
 				if(response.session) {
 
-                                        var sellerSignup = '';
+                                        var sellerSignup = '&shopper=1';
 
 					var location = window.location.href;
 					if(location.indexOf("/cart/login") != -1) {
@@ -449,10 +467,9 @@ FB.init({appId: '131414209264', status: true, cookie: true, xfbml: true});
 
                                         if(location.indexOf("/account/signup") != -1)
                                         {
-                                            location = "/account/myshop";
+                                            location = "/account/shop-upload";
                                             sellerSignup = '&newSignupFB=1';
                                         }
-
 
 					window.location = "/signup.php?task=fb_connect"+sellerSignup+"&fblogin_return_url="+encodeURIComponent(location);
 					//debugger;
@@ -465,6 +482,7 @@ FB.init({appId: '131414209264', status: true, cookie: true, xfbml: true});
 				}
 			});
 </script>
+
 
 
 
