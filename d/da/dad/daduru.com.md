@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the daduru.com privacy policy that was archived on 2011-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110524090823id_/http%3A//www.daduru.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daduru.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010524id_/http%3A//www.daduru.com/privacy.php) for the most accurate reproduction.*
 
-# Daduru Web Directory
+# Daduru Web Directory | Web Directory | Since 2007
 
 **Privacy policy**
 
@@ -14,7 +14,7 @@ Daduru.com may change this policy from time to time by updating this page. You s
 
 **What we collect**
 
-We may collect the following information: 
+We may collect the following information:
 
   * business name
   * business description
@@ -25,7 +25,7 @@ We may collect the following information:
 
 **What we do with the information we gather**
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * internal record keeping
   * registration issues
