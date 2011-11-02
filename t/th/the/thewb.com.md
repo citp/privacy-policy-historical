@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewb.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624111735id_/http%3A//www.thewb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewb.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102013534id_/http%3A//www.thewb.com/privacy) for the most accurate reproduction.*
 
 # TheWB.com - Full episodes of Friends, Gilmore Girls, One Tree Hill, Smallville, Fringe, Veronica Mars, The O.C., Chuck, V on The WB.com
 
