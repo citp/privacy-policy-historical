@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerdigitals.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229180708id_/http%3A//www.designerdigitals.com/digital-scrapbooking/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerdigitals.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102221051id_/http%3A//www.designerdigitals.com/digital-scrapbooking/privacy.html) for the most accurate reproduction.*
 
 # DesignerDigitals Privacy Policy
 
@@ -6,11 +6,11 @@
 
 Click Creative Group, Inc. is dedicated to maintaining and protecting your privacy. This includes the privacy of both your information and any and all orders placed with our website, DesignerDigitals.com. By using our website and products, you agree to the terms of this Privacy Policy. This Policy explains what personally identifiable information ("Personal Information") we collect and how we use the information so we can continue to provide outstanding service and products to you.[](http://www.truste.org/ivalidate.php?url=www.designerdigitals.com&sealid=101)
 
-Click Creative Group, Inc. is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site DesignerDigitals.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+Click Creative Group, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [_TRUSTe's program requirements_](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the Web site DesignerDigitals.com.
 
-If you have questions or concerns regarding this statement, you should first contact Randy Pertiet at support@designerdigitals.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact [_TRUSTe_](http://watchdog.truste.com/pvr.php?page=complaint&url= "TRUSTe"). TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Randy Pertiet at support@designerdigitals.com. If you are not satisfied with our response you can contact TRUSTe [_here_](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe").
 
-Last Updated on June 10, 2008
+Last Updated on March 29, 2011
 
 * * *
 
@@ -21,7 +21,7 @@ In order to use this Web site (DesignerDigitals.com), you must first complete th
 
 Upon registration in the store or gallery, your email address will automatically be added to our weekly newsletter which contains site updates, events, sales and the like. If you wish to not receive the newsletter send us the request to **support@designerdigitals.com** or select the Un-Subscribe feature in the newsletter.
 
-Click Creative Group, Inc. is the sole owner of the information collected on DesignerDigitals.com. Click Creative Group, Inc. collects personally identifiable information from our users at several different points on our Web site.
+Click Creative Group, Inc. is the sole owner of the information collected on DesignerDigitals.com. Click Creative Group, Inc. collects personally identifiable information from our users at several different points on our Web site. We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at support@designerdigitals.com. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **_Testimonials_**  
 We post customer testimonials on our web site which may contain personally identifiable information such as the customer's name. We review the content of the testimonials before the comments are available for public viewing to filter out any unwanted SPAM or profanity.
@@ -55,33 +55,33 @@ We will use your name and email address to send our weekly newsletter to you. Ou
 **_Customer Service_**  
 Based upon the personally identifiable information you provide us we will communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone (if provided), in accordance with your wishes.
 
- ** _Profile_**  
-We store information that we collect through cookies, log files, to create a "profile" of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.
-
-We do not share your profile with other third parties unless required by law to do so.
-
 ## Information Sharing and Disclosure
 
  ** _Aggregate Information (non-personally identifiable)_**  
 We do not link aggregate user data with personally identifiable information nor do we share aggregate information.
 
  ** _Personally identifiable information_**  
-We DO NOT Share Personally Identifiable Information with Third Parties.
+We DO NOT Share Personally Identifiable Information with Third Parties except as outlined in this privacy policy.
 
 **_Agents_**  
 We use a credit card processing company ( **Authorize.net** ) to bill you for goods and services. This company does not share, store or use personally identifiable information for any other purpose.
 
  ** _Service Providers_**  
-We use Shutterfly to provide print services for the customers on our site. When you sign up these services everything needed by them will be collected by Shutterfly necessary to provide that service.
+We use Shutterfly to provide print services for the customers on our site. When you sign up with these services everything needed by them will be collected by Shutterfly in order to provide that service.
 
 **_Legal Disclaimer_**  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site.
+
+**_Change in Ownership_**  
+If DesignerDigitals.com is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 ## Choice/Opt-out
 
 We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate this by Un-Subscribing from our newsletters or announcements. You can also contact use at **support@designerdigitals.com** and we will remove your contact information per your request.
 
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at **support@designerdigitals.com**.
+
+We also provide you the ability to change and update the privacy settings of your profile. To do this log into your store account through the login box or by clicking on the link "My Account" on the upper right hand side of the store. Once there you can change or update your information under the links "Edit Account Info" and "My Address Book".
 
 ## Log Files
 
@@ -123,6 +123,8 @@ We also provide a WebLog (Blog) on our site. This blog is internal to DesignerDi
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by by emailing our Customer Support at **support@designerdigitals.com** or by contacting us by postal mail at the contact information listed below.
 
+To request the removal of an unauthorized account, please contact us at support@designerdigitals.com.
+
 ## Security
 
 The security of your personal information is important to us. When you enter sensitive information (such as credit card numbers) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). To learn more about SSL, follow this [_link_](http://www.verisign.com/ssl/ssl-information-center/extended-validation-ssl-certificates/index.html "SSL information").
@@ -135,13 +137,13 @@ If you have any questions about security on our Web site, you can send email us 
 
 ## Business Transitions
 
-In the event Click Creative Group, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership or control of your personal information.
+In the event Click Creative Group, Inc. goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email of any such change in ownership as well as any choices you may have regarding your personal information.
 
 ## Changes in this Privacy Statement
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the changes taking effect.
 
 ## Contact Us
 
