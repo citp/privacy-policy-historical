@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229035100id_/http%3A//www.travelweekly.co.uk/StaticPages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelweekly.co.uk privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102144241id_/http%3A//www.travelweekly.co.uk/StaticPages/privacy.html) for the most accurate reproduction.*
 
-# - Travelweekly.co.uk privacy policy
+# Travelweekly.co.uk privacy policy - www.travelweekly.co.uk
 
-This website is owned and operated by TW Group Limited 
+This website is owned and operated by Travel Weekly Group Limited 
 
 Information we collect from our customers and users of our websites may be used in the following ways. 
 
@@ -40,7 +40,7 @@ Your personal data will be held on a secure server. Our sites are equipped with 
 
 Under the [Data Protection Act 1988](http://www.hmso.gov.uk/acts/acts1998/19980029.htm), you have the right to be told what personal information we hold about you on our databases. 
 
-You should write to us, attn Company Secretary at the following address: **30 City Road, London, EC1Y 2AB, UK** stating your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
+You should write to us, attn Company Secretary at the following address:  **3rd Floor, 52 Grosvenor Gardens, London, SW1W 0AU.** State your full name, your address and any of our publications or services to which you know you subscribe. A small administrative charge may be made for fulfilling this request.
 
 ### Privacy information for job seekers
 
