@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stockezy.com privacy policy that was archived on 2011-06-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110622162549id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stockezy.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103004412id_/http%3A//www.stockezy.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,9 +15,11 @@
 
 
 
+
 <link rel="shortcut icon" type="image/vnd.microsoft.icon" href="http://stzystatic.com/images/favicon.ico">
 <link href="http://stzystatic.com/css/public.css" rel="stylesheet" type="text/css" media="screen">
 <link href="http://stzystatic.com/css/base.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://stzystatic.com/css/tip-twitter.css" rel="stylesheet" type="text/css" media="screen">
 <!--[if lt IE 7]><link rel="stylesheet" type="text/css" href="http://stzystatic.com/css/ie6.css" media="screen" /><![endif]-->
 
 
@@ -27,6 +29,23 @@
 <script type="text/javascript" src="http://stzystatic.com/js/jquery.nyroModal-1.6.2.pack.js"></script>
 <script type="text/javascript" src="http://stzystatic.com/js/autoc_stocks.js"></script>
 <script type="text/javascript" src="http://stzystatic.com/js/stockezy.min.js"></script>
+<script type="text/javascript" src="http://stzystatic.com/js/jquery.poshytip.min.js"></script>
+<script type="text/javascript">
+//<![CDATA[
+$(function(){
+$('.tooltip').poshytip({
+className: 'tip-twitter',
+showTimeout: 1,
+alignTo: 'target',
+alignX: 'center',
+offsetY: 5,
+allowTipHover: false,
+fade: false,
+slide: false
+});
+});
+//]]>
+</script>
 
 
 </head>
@@ -43,14 +62,14 @@
               <div id="wide-left">
 	       <ul id="lmenu">
 	         <li class="topmenuli"><a href="/" title="Stockezy Home" class="topmenutitle">Home <img src="http://stzystatic.com/images/home_icon.gif"></a></li>
-	         <li class="topmenuli"><a href="/accounts/register/" title="Sign Up For Free" class="topmenutitlelong">Sign Up For Free!</a></li>
-		 <li class="topmenuli"><a href="/accounts/password/reset/" title="Forgot Password?" class="topmenutitlelong" onclick="return Registration_PasswordReset_Show();">Forgot Password</a></li>
-		 <li class="topmenuli"><a href="/portfolio/" title="Portfolio" class="topmenutitle">Portfolio</a></li>
+	         <li class="topmenuli"><a href="/accounts/register/" title="Sign Up For Free" class="topmenutitleslong">Sign Up For Free!</a></li>
+		 <li class="topmenuli"><a href="/accounts/password/reset/" title="Forgot Password?" class="topmenutitleslong" onclick="return Registration_PasswordReset_Show();">Forgot Password</a></li>
 		 <li class="topmenuli"><a href="/watchlist/" title="Watchlist" class="topmenutitle">Watchlist</a></li>
+		 <li class="topmenuli"><a href="/portfolio/" title="Portfolio" class="topmenutitle">Portfolio</a></li>
 		 <li class="topmenuli">
 	       
 	       <div class="login_nav_background">
-	         <form method="post" action="/accounts/login/" name="form_login"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="5129b128db87ac384d454359a96fac48"></div><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="5129b128db87ac384d454359a96fac48"></div>
+	         <form method="post" action="/accounts/login/" name="form_login"><div style="display:none;"><input type="hidden" id="csrfmiddlewaretoken" name="csrfmiddlewaretoken" value="45236f8b51abc9719fb105b94fe95f4b"></div><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="45236f8b51abc9719fb105b94fe95f4b"></div>
                	   <div class="newinput">
                      <input type="text" value="username" id="id_username" name="username" class="logininput" onfocus="if(this.value=='username'){this.value=''; document.getElementById('id_password').value='';}">
                    </div>
@@ -80,7 +99,7 @@
 	  <div id="stockezy_header_logo"><a href="/"></a></div>
 	  
 	  <div id="stockezy_header_searchbox_big">
-	   <form method="post" action="/stocks/quote/" id="getquoteform"><div style="display:none;"><input type="hidden" name="csrfmiddlewaretoken" value="5129b128db87ac384d454359a96fac48"></div><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="5129b128db87ac384d454359a96fac48"></div>
+	   <form method="post" action="/stocks/quote/" id="getquoteform"><div style="display:none;"><input type="hidden" name="csrfmiddlewaretoken" value="45236f8b51abc9719fb105b94fe95f4b"></div><div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="45236f8b51abc9719fb105b94fe95f4b"></div>
 	     <input id="getquotebox" autocomplete="off" type="text" onfocus="if(this.value=='Get Quote/F&amp;O Quote/Stock Picks'){this.value='';}" value="Get Quote/F&amp;O Quote/Stock Picks" name="q" class="search_input">
 	     <input type="submit" value="" class="big_submit">
 	   </form>
@@ -92,16 +111,17 @@
 	<div id="navigation_bar">
 	 <div id="navigation_bar_main_menu">
 	  <ul>
-	   <li><a href="/community/">Community</a></li>
+	   <li><a href="/profiles/">Home <img width="12px" height="11px" src="http://stzystatic.com/images/home_icon.gif"></a></li>
+	   <li><a href="/watchlist/">Watchlist</a></li>
+	   <li><a href="/portfolio/">Portfolio</a></li>
 	   <li><a href="/picks/">Stock Picks</a></li>
-	   <li><a href="/futures-options/">F&amp;O</a></li>
-	   <li><a href="/opinions/">Opinions</a></li>
-	   <li><a href="/share/">Share</a></li>
+	   <li><a href="/futures-options/">F&amp;O Picks</a></li>
 	   <li><a href="/answers/">Q&amp;A</a></li>
 	   <li><a href="/analysts/">Analysts</a></li>
-	   <li><a href="/dashboard/">Live Feed</a></li>
-	   <li style="background:#ca0002; float:right; position:relative;"><a class="spc" href="/zeebiz/">Zee Business <img src="http://stzystatic.com/images/back_to_stockezy.gif"></a></li>
-	   <li style="background:#ca0002; float:right; position:relative;"><a class="spc" href="/dwa/">Dorsey Wright <img src="http://stzystatic.com/images/back_to_stockezy.gif"></a></li>
+
+	   <li style="float:right;"><a class="spc" href="/zeebiz/">Zeebiz Online <img src="http://stzystatic.com/images/back_to_stockezy.gif"></a></li>
+	   <li style="float:right;"><a class="spc" href="/dwa/">DWA Research <img src="http://stzystatic.com/images/back_to_stockezy.gif"></a></li>
+	   <li style="float:right;"><a class=" spc" href="/subscribe/">SUBSCRIPTION</a></li>
 	  </ul>
 	 </div>
 	 <div id="navigation_bar_sub_menu"><div class="second_level_menu_container_with_ribbon"><div id="tabs">&nbsp;</div></div></div>
@@ -112,32 +132,25 @@
 
 <div id="bodycontent">
   
-  <div id="top_ad">
-   <script type="text/javascript"><!--
-   google_ad_client="pub-4710704519912035";google_ad_slot="2649552725";google_ad_width=728;google_ad_height=90;
-   //--></script>
-   <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
-  </div>
-  
   <div id="centercontent">
         
         <div class="niftyribbon">
          
          <div class="index">
                  <span class="quotesymbol"><a href="/markets/bse/">BSE</a></span>
-                 <span>17550.63</span>
-                 <span class="priceChange down_small_arrow neg_red">-9.67</span>
-                 <span class="percentChange neg_red">-0.06%</span>
+                 <span>17464.85</span>
+                 <span class="priceChange down_small_arrow neg_red">-15.98</span>
+                 <span class="percentChange neg_red">-0.09%</span>
          </div>
          
          <div class="index">
                  <span class="quotesymbol"><a href="/markets/nse/">NSE</a></span>
-                 <span>5278.30</span>
-                 <span class="priceChange up_small_arrow pos_green">2.45</span>
-                 <span class="percentChange pos_green">0.05%</span>
+                 <span>5258.45</span>
+                 <span class="priceChange up_small_arrow pos_green">0.50</span>
+                 <span class="percentChange pos_green">0.01%</span>
          </div>
          
-         <div class="datetime">Wed, Jun 22, 2011 03:59PM IST <span style="float:right">India Markets Closed.</span></div>
+         <div class="datetime">Wed, Nov 02, 2011 03:59PM IST <span style="float:right">India Markets Closed.</span></div>
         </div>
         <div class="clear_narrow">&nbsp;</div>
         
@@ -239,10 +252,15 @@ Please read our <a class="dark_orange" href="/termsofuse/">Terms of Use</a></h3>
 </div>
 
 	
+	
+	<div id="top_ad"><script src="http://ads.investingchannel.com/adtags/stockezy/home/728x90.js" type="text/javascript" charset="utf-8"></script></div>
+	
+	
 	<div id="content_users"></div>
 	<div class="clear">&nbsp;</div>
   </div>
 </div>
+
 
 
 <div id="newfooter">
@@ -253,76 +271,67 @@ Please read our <a class="dark_orange" href="/termsofuse/">Terms of Use</a></h3>
 		<div id="stockezy_footer_menus">
 			<div class="horizontal_menus_first">
 				<div class="horizontal_menus_small">
-					<span class="menu_heading">Community</span>
-					<span><a href="/analysts/top-in-day-trade/">Top Analyst</a></span>
-				</div>
-				<div class="horizontal_menus_small">
 					<span class="menu_heading">Stock Picks</span>
-					<span><a href="/picks/">Active Picks</a></span>
-					<span><a href="/picks/closed/">Closed Picks</a></span>
-					<span><a href="/picks/top-performers/three-months-to-date/">Top Performers</a></span>
+					<span><a href="/picks/">Active Stock Picks</a></span>
+					<span><a href="/picks/closed/">Closed Stock Picks</a></span>
 					<span><a href="/picks/comments/">Recent Comments</a></span>
 				</div>
+                                <div class="horizontal_menus_small">
+                                        <span class="menu_heading">Analysts</span>
+                                        <span><a href="/analysts/">Analysts Home</a></span>
+                                        <span><a href="/analysts/top-in-day-trade/">Top Analyst</a></span>
+                                </div>
 			</div>
 			<div class="horizontal_menus">
-				<div class="horizontal_menus_small">
-					<span class="menu_heading">Opinions</span>
-					<span><a href="/opinions/">Recent Opinions</a></span>
-					<span><a href="/opinions/comments/">Recent Comments</a></span>
-				</div>
-				<div class="horizontal_menus_small">	
-					<span class="menu_heading">Share</span>
-					<span><a href="/tweets/all/">Market Buzz</a></span>
-					<span><a href="/videos/">Videos</a></span>
-					<span><a href="/news/">News Articles</a></span>
-					<span><a href="/share/comments/">Recent Comments</a></span>
-				</div>
-			</div>
-			<div class="horizontal_menus">
+                                <div class="horizontal_menus_small">
+                                        <span class="menu_heading">F&amp;O Picks</span>
+                                        <span><a href="/futures-options/">Active F&amp;O Picks</a></span>
+                                        <span><a href="/futures-options/closed/">Closed F&amp;O Picks</a></span>
+                                        <span><a href="/futures-options/comments/">Recent Comments</a></span>
+                                </div>
 				<div class="horizontal_menus_small">
 					<span class="menu_heading">Q&amp;A</span>
 					<span><a href="/answers/recently-answered/">Recent Answers</a></span>
 					<span><a href="/answers/need-answers/">Answer a Question</a></span>
 					<span><a href="/answers/askquestion/">Ask a Question</a></span>
 				</div>
-				<div class="horizontal_menus_small">
-					<span class="menu_heading">Stocks</span>
-					<span><a href="/stocks/">Research</a></span>
-					<span><a href="/markets/bse/">Markets</a></span>
-					<span><a href="/watchlist/">Watchlist</a></span>
-				</div>
 			</div>
 			<div class="horizontal_menus">
-				<div class="horizontal_menus_small">
-					<span class="menu_heading">Analysts</span>
-					<span><a href="/analysts/">Analysts Home</a></span>
-					<span><a href="/subscribe/subscriptions/">My Subscriptions</a></span>
-					<span><a href="/subscribe/guidelines/">How to Subscribe</a></span>
-				</div>
-				<div class="horizontal_menus_small">	
+			     <div class="horizontal_menus_small">	
 					<span class="menu_heading">RSS</span>
 					<span><a target="_blank" href="http://feeds.feedburner.com/stockezy/stock-picks/">Stock Picks</a></span>
-					<span><a target="_blank" href="http://feeds.feedburner.com/stockezy/opinions/">Opinions</a></span>
 					<span><a target="_blank" href="http://feeds.feedburner.com/stockezy/answers/">Q&amp;A</a></span>
-					<span><a target="_blank" href="http://feeds.feedburner.com/stockezy/news/">News</a></span>
-					<span><a target="_blank" href="http://feeds.feedburner.com/stockezy/videos/">Videos</a></span>
-				</div>
+					<span><a target="_blank" href="http://feeds.feedburner.com/D-streetKaDonByRajeshTambe-PoweredByZeeBusiness">D-Street ka Don</a></span>
+					<span><a target="_blank" href="http://feeds.feedburner.com/Target20Recommendations-PoweredByZeeBusiness">Target 20</a></span>
+			     </div>
+                             <div class="horizontal_menus_small">
+                                <span class="menu_heading">Miscellaneous</span>
+                                <span><a target="_blank" href="http://blog.stockezy.com/post/181861720/stockezy-how-to-guide-for-investors">How to Guide</a></span>
+                                <span><a target="_blank" href="http://stockezy.ourtoolbar.com/">Download Toolbar</a></span>
+                                <span><a target="_blank" href="http://www.facebook.com/pages/stockezycom/25199222740">Facebook Page</a></span>
+                                <span><a target="_blank" href="http://twitter.com/stockezy/">Twitter Us</a></span>
+                                <span><a href="/accounts/register/">Get Started Now</a></span>
+                             </div>
 			</div>
 			<div class="horizontal_menus">
 			     <div class="horizontal_menus_small">
 				<span class="menu_heading">Dorsey Wright</span>
-				<span><a href="/dwa/">DWA India</a></span>
-				<span><a href="/watchlist/dwa_ben/">DWA Watchlist</a></span>
-			     </div>
-			     <div class="horizontal_menus_small">
-			        <span class="menu_heading">Miscellaneous</span>
-				<span><a target="_blank" href="http://blog.stockezy.com/post/181861720/stockezy-how-to-guide-for-investors">How to Guide</a></span>
-				<span><a target="_blank" href="http://stockezy.ourtoolbar.com/">Download Toolbar</a></span>
-				<span><a target="_blank" href="http://www.facebook.com/pages/stockezycom/25199222740">Facebook Page</a></span>
-				<span><a target="_blank" href="http://twitter.com/stockezy/">Twitter Us</a></span>
-				<span><a href="/accounts/register/">Get Started Now</a></span>
+				<span><a href="/screener/">Stock Screener</a></span>
+				<span><a href="/dwa/">Plan Your Investment</a></span>
+				<span><a href="/dwa/short-term-ideas/archive/">Short Term Trading</a></span>
+				<span><a href="/dwa/long-term-ideas/archive/">Long Term Ideas</a></span>
 			     </div>
 			</div>
+                        <div class="horizontal_menus">
+                             <div class="horizontal_menus_small">
+                                <span class="menu_heading">Zeebiz Online</span>
+                                <span><a href="/don/">D-Street ka Don</a></span>
+                                <span><a href="/don/ask/">Ask Don</a></span>
+				<span><a href="/tips/">Fundamental Tips</a></span>
+				<span><a href="/t20/">Intraday Tips</a></span>
+				<span><a href="/results/">Earnings Central</a></span>
+                             </div>
+                        </div>
 			<div class="horizontal_menus_last">
 				<span class="last_menus">
 					<a class="first_menu" href="/about/">About</a>
@@ -339,6 +348,7 @@ Please read our <a class="dark_orange" href="/termsofuse/">Terms of Use</a></h3>
 		</div>
 	</div>
 </div>
+
 
 
 <script type="text/javascript">
@@ -406,14 +416,4 @@ function displayPageLoadImage(){jQuery('#ticker_result_load').show();if(/MSIE (\
   };
   function _loadUserVoice() {
     var s = document.createElement('script');
-    s.src = ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/javascripts/widgets/tab.js";
-    document.getElementsByTagName('head')[0].appendChild(s);
-  }
-  _loadSuper = window.onload;
-  window.onload = (typeof window.onload != 'function') ? _loadUserVoice : function() { _loadSuper(); _loadUserVoice(); };
-
-</script>
-
-
-
-</body></html>
+    s.src = ("https:" == document.location.protocol ? "https://" : "http://") + "cdn.uservoice.com/</script></body></html>
