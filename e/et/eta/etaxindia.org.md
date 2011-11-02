@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624013616id_/http%3A//www.etaxindia.org/2008/11/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etaxindia.org privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102025516id_/http%3A//www.etaxindia.org/2008/11/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,4 +40,8 @@ Related posts:
 
 
 
-Tagged as: [Uncategorized](http://www.etaxindia.org/tag/uncategorized)
+**
+
+Sponsored Links
+
+**
