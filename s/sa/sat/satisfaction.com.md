@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2011-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110428041037id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102061701id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
 
 # Satisfaction | Comments, Graphics & Layouts for Facebook, MySpace and more
 
