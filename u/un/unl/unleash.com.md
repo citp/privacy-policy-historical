@@ -1,31 +1,36 @@
-> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2006-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061205223145id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unleash.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102010137id_/http%3A//www.unleash.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for Graphics Unleashed
 
-  
-
-
-## Privacy Statement for Graphics Unleashed
-
 Unleashed Productions, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: Graphics Unleashed. 
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site. 
+We use your IP address to help diagnose problems with our server and to administer our Web site. 
 
-Some forms on our site require users to give us contact information (like their name and email address). We use customer contact information is used to contact the visitor when necessary. Our Graphics Unleashed Newsletter list is hosted by [Topica emailpublisher](http://www.email-publisher.com/index.html). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Some forms on our site require users to give us contact information (like their name and email address). We use customer contact information to contact the visitor when necessary. Our Graphics Unleashed Newsletter is hosted by [Topica](http://www.topica.com/). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
 This site contains links to other sites. **Graphics Unleashed** is not responsible for the privacy practices or the content of such Web sites. 
 
-We are part of affiliate programs for Amazon.com, AllPosters, Commission Junction and others. Information that you provide to these companies will not be shared with Unleashed Productions. 
+We are part of numerous affiliate programs, with examples being Amazon.com, AllPosters, Commission Junction and more. Information that you provide to these companies will not be shared with Unleashed Productions. 
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Orders placed for Digital Art Solutions products are forwarded to Digital Art Solutions for payment and fulfillment. 
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings (see the choice/opt-out section below). Financial information that is collected is used to bill the user for products and services. Orders placed for Digital Art Solutions products are processed and fulfilled by Digital Art Solutions. 
 
-Our online surveys ask visitors for contact information (like their email address). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+Our online surveys ask visitors for contact information (like their email address). Users may opt-out of receiving future mailings (see the choice/opt-out section below). 
 
-We run contests on our site in which we ask visitors for contact information (like their email address). Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
+We run contests on our site in which we ask visitors for contact information (like their email address). Users may opt-out of receiving future mailings (see the choice/opt-out section below). 
 
 ## Product Listings
 
-Many of the products listed for sale on this site are products that are dynamically fed to the site by Amazon.com Web Services. If you have issues with products that are listed or not listed, please contact [webservices@amazon.com](mailto:webservices@amazon.com). 
+We list a number of products for sale on this site which are dynamically fed to the site by Amazon.com Web Services. If you have issues with products that are listed or not listed, please contact [webservices@amazon.com](mailto:webservices@amazon.com). 
+
+## Interest-Based Advertising
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies. For Google's policy and the opportunity to opt out, [click here](http://www.google.com/privacy_ads.html). Google specifically requests that we include the following: 
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
 
 ## Public Forums
 
@@ -41,16 +46,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-Each of our newsletters contains a link for unsubscribing or send a blank email to [unleash-unsubscribe@topica.email-publisher.com](mailto:unleash-unsubscribe@topica.email-publisher.com). 
+Each of our mailings contains a link for opting out. 
 
 ## Correct/Update
 
-This site gives users the following options for changing and modifying information previously provided. Note if you are wanting to change the e-mail address at which you receive the newsletter, please unsubscribe as described above and then re-subscribe with the new address. 
-
-  1. email [newsletter@unleash.com](mailto:newsletter@unleash.com)
-  2. call the following telephone number: 480/595-0065
-
-
+This site gives users the following options for changing and modifying information previously provided. If you are wanting to change the e-mail address at which you receive the newsletter, please follow the links in the newsletter for making modifications. 
 
 ## Contacting the Web Site
 
@@ -58,20 +58,12 @@ If you have any questions about this privacy statement, the practices of this si
 
 Webmaster  
 Unleashed Productions, Inc.  
-P.O. Box 7008  
-Cave Creek, AZ 85327
-
-webmaster@unleash.com
-
-  
-Last Updated Thursday July 03 2003.    
+38049 N. La Canoa Drive  
+Cave Creek, AZ 85331  
+480/595-0065  
 
 
   
+Last Updated Tuesday March 17 2009. 
 
-
-|   
----|---  
-  
-Copyright © 1995-2006 Unleashed Productions, Inc., All Rights Reserved.  
-Copying of any materials or content on this site is strictly prohibited. 
+Copyright © 1995–2011 Unleashed Productions, Inc., All Rights Reserved. 
