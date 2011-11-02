@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102142614id_/http%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - NetWrix Corporation
-
-[About Us](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/company.html)[Contact Us](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/contact.html)[Our Customers](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/customers.html)[Case Studies](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/customer_case_studies.html)[Testimonials](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/testimonials.html)[Awards and Reviews](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/awards_reviews.html)[Press Coverage](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/press_coverage.html)[News](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/news.html)[Trade Shows](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/tradeshows.html)[Careers](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/careers.html)[Social Communities](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/social_communities.html)[Feedback](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/feedback.html)   
-| 
-
-## Privacy Policy
+# Privacy Policy
 
 ### Introduction
 
-We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. We have established this Online Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit our Web pages without telling us who you are or revealing any Personal Information about yourself. We strive to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Online Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
+We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. We have established this Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit our Web pages without telling us who you are or revealing any Personal Information about yourself. We strive to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
 ### Cookies and Other Tracking Technologies
 
@@ -37,8 +32,24 @@ We are not structured to attract children. Accordingly, we do not intend to coll
 
 ### Your Consent
 
-By using this Web site, you consent to the terms of our Online Privacy Policy and to our processing of Personal Information for the purposes given above as well as those explained where we collect Personal Information on the Web. 
+By using this Web site, you consent to the terms of our Privacy Policy and to our processing of Personal Information for the purposes given above as well as those explained where we collect Personal Information on the Web. 
 
 ### Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits customers of the NetWrix Corporation who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://web.archive.org/web/20101229030918id_/http%3A//www.netwrix.com/contact.html). 
+California Civil Code Section 1798.83 permits customers of the NetWrix Corporation who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://web.archive.org/web/20111102142614id_/http%3A//www.netwrix.com/contact.html). 
+
+### Links to Other Web Sites
+
+This web site may contain links to other web sites and you should review the privacy policies on those sites. We have no responsibility for the policies and practices of those sites.
+
+### Changes to Privacy Policy
+
+We may amend this Privacy Policy at any time. If significant changes are made in the way your Personal Information is used, we will post a prominent announcement on our site notifying you of the change.
+
+### Questions or Feedback
+
+[Contact us](https://web.archive.org/web/20111102142614id_/http%3A//www.netwrix.com/contact.html) for any questions or suggestions about this Privacy Policy.
+
+|   
+  
+---|---
