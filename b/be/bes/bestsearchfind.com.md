@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestsearchfind.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502213720id_/http%3A//bestsearchfind.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestsearchfind.com privacy policy that was archived on 2011-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111102101242id_/http%3A//bestsearchfind.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Bestsearchfind.com- Privacy Policy
 
