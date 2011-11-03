@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usinsurancenet.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503234558id_/http%3A//usinsurancenet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usinsurancenet.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103100918id_/http%3A//usinsurancenet.com/privacy) for the most accurate reproduction.*
 
 # US Insurance Net Privacy Policy | US Insurance Net
 
@@ -55,6 +55,9 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**  
 If we decide to change our privacy policy, we will post those changes on this page.
+
+**Opt-Out**  
+If you’d like to opt-out of any storage of personal identifiable information, please contact us using the email address below.
 
 **Contacting Us**  
 If there are any questions regarding this privacy policy you may contact us using the information below.
