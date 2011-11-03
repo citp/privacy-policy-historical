@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trippert.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506134358id_/http%3A//trippert.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trippert.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103213242id_/http%3A//www.trippert.com/pages/privacy) for the most accurate reproduction.*
 
 # Trippert: privacy
 
