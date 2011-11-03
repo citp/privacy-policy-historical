@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621080230id_/http%3A//noco-usa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noco-usa.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103222400id_/http%3A//www.noco-usa.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | NOCO
 
@@ -78,7 +78,7 @@ Back to Top
 How can I give you feedback or contact you?
     
 
-Simply [click here](https://web.archive.org/web/20110621080230id_/http%3A//noco-usa.com/contact.aspx). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
+Simply [click here](https://web.archive.org/web/20111103222400id_/http%3A//www.noco-usa.com/contact.aspx). Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes.
 
 Back to Top
 
