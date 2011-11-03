@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imindmap.com privacy policy that was archived on 2011-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110218150301id_/http%3A//www.thinkbuzan.com/us/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imindmap.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103120444id_/http%3A//www.thinkbuzan.com/nl/company/privacy) for the most accurate reproduction.*
 
 # ThinkBuzan - Company - Privacy Policy
 
@@ -16,7 +16,23 @@ Further information about privacy and data protection issues including the onlin
 
 ### Who we are
 
-We are ThinkBuzan Limited, a company registered in England and Wales – No. 0565341. Our registered office is at Falcon Drive, Cardiff Bay, Cardiff, CF10 4RU. Please see our contact section for more information. 
+We are ThinkBuzan Limited, a company registered in England and Wales – No. 0565341. Our registered office is at:
+
+**ThinkBuzan Ltd**  
+Regus House  
+Falcon Drive  
+Cardiff Bay  
+Cardiff  
+United Kingdom  
+CF10 4RU  
+Telephone: +44(0) 20 71 177 173  
+Email: [customersupport@thinkbuzan.com](mailto:customersupport@thinkbuzan.com)
+
+Please see our contact section for more information.
+
+### Communications
+
+To opt-out of any communications we send, you can either click the 'unsubscribe' link at the top of any promotional or marketing email newsletters or send an email to [optout@thinkbuzan.com](mailto:optout@thinkbuzan.com) to let us know you want to opt-out.
 
 ### How we collect information from you
 
@@ -38,7 +54,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 ### ClickTale
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve and develop our website in order to provide an effective and efficient service for our customers. You can choose to disable the Service [here](https://web.archive.org/us/company/privacy/?ct=disable).
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see Privacy Policy for Information Collected by the ClickTale Web Analytics Service. We are using the information collected by ClickTale service to improve and develop our website in order to provide an effective and efficient service for our customers. You can choose to disable the Service [here](https://web.archive.org/nl/company/privacy/?ct=disable).
 
 ### How we collect further information 
 
