@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techieblogger.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328105215id_/http%3A//www.techieblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techieblogger.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103013138id_/http%3A//www.techieblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @Techie Blogger
 
