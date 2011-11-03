@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2010-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101022142540id_/http%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slugbooks.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103092227id_/http%3A//www.slugbooks.com/privacy-policy.html) for the most accurate reproduction.*
 
-# SlugBooks.com - Privacy Policy
+# SlugBooks - Privacy Policy
 
 **Slug Books**
 
@@ -14,9 +14,9 @@ This Web site contains links to a number of sites that offer books for sale. The
 
 (a) Information You Provide to Us: We collect any information you enter on our Site or that you give us in any other way. For example, any time you create a User account, we collect and save the information. This information may include username, password, name and email address. However, this information, except for your username, will not be visible to other site users. We may use and share information we collect from our users without prior consent when we collect and compile information in the aggregate, in a way that would not enable others from identifying personal information about individual Users. 
 
-(b) Your Usage of Our Site. We automatically track certain information about you based upon your use of our site. We use this information to conduct internal research on our users’ demographics and behavior to better understand and serve our users. This information may include the URL that you just came from, which URL you next go to, what browser you are using, and your IP address. 
+(b) Your Usage of Our Site. We automatically track certain information about you based upon your use of our site. We use this information to conduct internal research on our users' demographics and behavior to better understand and serve our users. This information may include the URL that you just came from, which URL you next go to, what browser you are using, and your IP address. 
 
-(c) Cookies. In addition, we use “cookies” on certain pages of our site. Cookies are small files that can be used to track a user’s steps or automatically generate a user’s password. Cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are automatically deleted at the end of a session. You may decline our cookies if your browser permits, although your use of the site will then be restricted. 
+(c) Cookies. In addition, we use 'cookies' on certain pages of our site. Cookies are small files that can be used to track a user's steps or automatically generate a user's password. Cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our site. Most cookies are automatically deleted at the end of a session. You may decline our cookies if your browser permits, although your use of the site will then be restricted. 
 
 **3\. How and When the Information is Used.** Your information is used for administering our business activities. We may use the information to notify you, either directly or through our agent(s) about changes to our website, new services, or special offers. You authorize Us to send you newsletters relating to Our Service. 
 
