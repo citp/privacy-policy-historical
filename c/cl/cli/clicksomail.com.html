@@ -1,0 +1,357 @@
+<!--The following is the downloaded HTML source of the clicksomail.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103023832id_/http%3A//www.clickso.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+ <title>ClickSo Privacy Policy</title>
+    <meta name="title" content="Clickso Privacy Policy">
+  <meta name="keywords" content="cpa network, cpc network, affiliate marketing, affiliate network, affiliate program, publisher network, pay per click">
+  <meta name="description" content="Privacy is a key concern when doing business over we internet. Clickso makes sure you are secure. For the safety of our clients and end users we offer an outstanding privacy policy. ">
+   <link rel="stylesheet" href="css/style22.css" type="text/css">
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="js/csspopup.js"></script>
+  <script type="text/javascript" src="script/jquery-1.1.3.1.min.js"></script>
+  <script type="text/javascript" src="script/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="script/jquery.lavalamp.min.js"></script>
+<script language="javascript" src="js/validation.js"></script>
+  <script type="text/javascript">
+        $(function() {
+            $("#1, #2, #3").menu({
+                fx: "backout", 
+                speed: 700,
+                Onclick: function(event, menuItem) {
+                    return false;
+                }
+            });
+        });
+  </script>
+  <script>
+
+function closwindow()
+{
+
+if ( !emailCheck(document.getElementById("forgotpasswordemail").value) ) { alert("Please enter a valid email"); } 
+else {
+
+var urlss = "http://clicksoadmin.com/login.ashx?fp=1&username="+document.getElementById("forgotpasswordemail").value+"&cb=showMessage";
+var script = document.createElement('script');
+script.setAttribute('src', urlss);
+document.getElementsByTagName('head')[0].appendChild(script);
+alert("A Password Email has been sent to the registered email address");
+popup('popUpDiv')
+}
+
+}
+
+
+
+function loginnow()
+{
+
+var retrunvalue= true;
+if (document.getElementById("usernamelogin").value <3 || !emailCheck(document.getElementById("usernamelogin").value) ) { 
+		alert("Please enter a valid email"); retrunvalue=false; } 
+var ispuboradv=  document.getElementById("puboradv").value;
+var redirecthere="u="+ document.getElementById("usernamelogin").value    + "&p="+ document.getElementById("passwordlogin").value;
+var finalurl="http://clickso.com";
+
+if(ispuboradv==("pub")){
+
+
+finalurl="http://clicksoadmin.com/affiliates/login.ashx?tp=1&"+redirecthere;
+
+document.loginform.action=finalurl;
+if(retrunvalue)window.loginform.submit();
+
+	}else {
+
+	finalurl="http://clicksoadmin.com/advertisers/login.ashx?tp=1&"+redirecthere;
+
+document.loginform.action=finalurl;
+if(retrunvalue)window.loginform.submit();
+	}
+
+
+return retrunvalue;
+}
+
+  </script>
+  
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20806461-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+ </head>
+<body>
+  <div class="main">
+	<!--Header Start-->
+	<div class="header">
+		<div class="hd_main">
+			<div class="hd_lft">
+				<div class="poz_0"><div class="logo"></div></div>
+			</div>
+			<div class="hd_rht wht">
+				<div class="fr mar_tp17">
+					<div class="one">
+						<div class="phone"></div>
+						<div class="fnt18 b mar">1-855-2-Clickso</div>
+					</div>
+					<div class="two">
+						<form name="loginform" method="post" onsubmit="return loginnow();">
+						Member Login<br>
+						<select name="puboradv" id="puboradv">
+                            <option id="pub" value="pub">Publishers</option>
+                            <option id="adv" value="adv">Advertisers</option>
+						</select>
+					</form></div>
+					<div class="thr">Username<br><input type="text" name="u" id="usernamelogin"></div>
+					<div class="for">Password<br><input type="password" name="p" id="passwordlogin"><br>
+					<!--Pop Start-->
+					<div id="blanket" style="display:none;"></div>
+					<div id="popUpDiv" style="display:none;border:1px solid;">
+						<div class="fl"><a href="#" onclick="popup('popUpDiv')">
+							<div class="poz_0"><div class="ft_logo"></div></div><div class="poz_0"><div class="close"></div></div></a>
+						</div><br> <br>
+						<div style="font-size:18px;color:#fff;margin-top:-20px;"> <center>Forgot Password</center></div>
+						<div style="text-align:center;">
+							<br>To retrieve your forgotten password,<br>Please enter your email:<br><input name="forgotpasswordemail" id="forgotpasswordemail" onclick="" type="text" value="Email" size="40"><label>
+							<input type="button" name="Submit" id="Submit" value="Submit" onclick="closwindow()"> </label>
+						</div>
+					</div>	
+					<!--Pop End-->				
+					<span class="fnt10"><a href="#" onclick="popup('popUpDiv')" class="wht">Forgot Password?</a></span></div>
+					<div class="fiv">
+					<!--LOGIN BUTTON STARTS-->
+						<button type="submit" style="cursor:pointer;border: 0; background: transparent">
+								<div class="gry_btn">
+								<div class="gry_lft"></div>
+								<div class="gry_mid">
+									<div class="txt fnt12 b" style="color:#000;">Login</div>
+								</div>
+								<div class="gry_rht"></div>
+							</div>					
+						</button>
+					<!--LOGIN BUTTON ENDS-->
+					</div>
+				</div>
+				<div class="fr mar_tp10">
+					<ul class="menu" id="1">
+						<li class="current"><a href="index.html" target="_self">Home</a></li>
+						<li><a href="advertisers.html">Advertisers</a></li>
+						<li><a href="publishers.html">Publishers</a></li>
+						<li><a href="compliance.html">Compliance</a></li>						
+						<li><a href="tools.html">Tools</a></li>
+						<li><a href="about.html">About Us</a></li>
+						<li><a href="contact.html">Contact Us</a></li>
+					<li class="back" style="left: 5px; width: 97px;"><div class="left"></div></li></ul>				
+				</div>
+			</div>
+		</div><br class="clr">
+		<!--Header End-->
+		<!--Content Start-->
+		<div class="content">
+			<div class="cont_lft bg">
+				<div class="inr bg">
+					<div class="one">
+						<div class="cur_tp_lft"></div><div class="cur_tp_rht"></div>
+					</div>
+					<div class="two_nh">
+					  <div class="cont">
+							<span class="hding">Privacy Policy</span><br>
+							<div class="wd100">
+							<br>
+
+<b>Clickso</b> takes the issue of privacy seriously. We let the user decide what information to give us, and explain exactly what is done with it. Clickso will never sell any personally-identifiable information obtained from a user to a third party.
+The uniform resource locators (URL) covered under Clickso's privacy policy include: <a href="http://www.Clickso.com">www.Clickso.com</a>
+<p></p>
+<b>Information Gathered</b><br>
+Clickso gathers information about its users in order to offer useful and easily accessible online content while providing privacy protection.
+<br><b>1.</b> Web site Visitors and Newsletter Subscribers:
+Clickso catalogs traffic patterns throughout the site through non-invasive click-through tracking. Clickso develops summary -- not individual -- reports for our advertisers. For example, we will report that "12,000 people clicked on advertisement X today and they were in the eStats section of the site."
+<br><b>2.</b> Product Purchasers:
+Clickso sells information products online. At the time of purchase, we require personal, business and financial information, such as name, e-mail address, shipping/billing address, telephone number and credit card number. This information is necessary to process the order and to send the product to the buyer. If you are a repeat customer, you may be asked to update this information. This information is transmitted in 128 bit encryption and we use Secure Socket Layer (SSL) technology to protect your online order.
+Only our order processing/customer service staff has access to your information. We do not store or access credit card information from our Web server after your order is processed. Clickso allows product purchasers to control the storage of their general contact information. If you would like to access, correct or delete any of your contact information that we have on file, please send an e-mail to info@Clickso.com. To edit your account online, visit the following link: Login and choose "Edit Profile" once you have logged in to your account.
+<br><b>3.</b> White Papers:
+When a visitor downloads a white paper from the Clickso Web site, Clickso collects personal and business information, such as e-mail address, shipping address and telephone number. This information is not shared with any third party unless explicitly mentioned.
+<p></p>
+<b>Business Relationships</b><br>
+Clickso's Web site links to other Web sites. Clickso is not responsible for the privacy practices or the content of those sites. Advertisers on our site may collect information about you when you view or click on their advertising or content. Clickso has no control over this data collection. You should contact specific advertisers or content providers directly if you have any questions about their privacy policies.
+Our privacy policy does not cover all of our affiliates' Web sites or online services.
+<p></p>
+<b>Cookies</b><br>
+Some parts of the Clickso site use "cookies." A cookie is an element of data that a Web site sends to your browser, which may then be stored on your computer. The cookies that Clickso uses do not contain any of the users' personally-identifiable information.
+If you do not want cookies sent to your computer, you can set your browser to notify you when you receive a cookie. Then you decide whether or not to accept it. If you reject cookies from Clickso, you will not be able to enter some areas of the site.
+<p></p>
+<b>Opt-In, Opt-Out Features</b><br>
+
+Clickso puts control over e-mail communications in the users' hands: 
+?	We provide free e-mail newsletters to those who sign up for them. We also provide free e-mail updates products regarding products and services of Clickso and our partners. These updates are sent only to people who have chosen to receive them, and can be opted-out of at any time. Newsletter subscribers can also be opted-out at any time. Clickso does not sell its e-mail lists to third parties. 
+?	Each newsletter has your e-mail address stamped on it with simple instructions on how to unsubscribe that address from our newsletter list.
+
+<p></p>
+<b>Revisions have been made to our Terms and Conditions.</b><br>
+
+As a leader in the cost per action Performance Marketing industry, Clickso has adopted a no tolerance policy regarding Adware/Spyware. Our T &amp; C’s have been revised to reflect these new policies.
+Below is a portion of the revised T &amp;C’s regarding these changes and an example of the efforts we are making to become an Adware/Spyware free network.
+The revised T &amp;C’s must be reviewed and accepted by October 31st, 2006 or you will not be able to access your current account and your links may be inactivated. Should you have questions or comments regarding the T &amp; C’s, please contact your affiliate manager.
+The revised T&amp;C’s will become available this Thursday, October 19th, 2006 and can be viewed via the link on the Clickso.com home page and/or when you login. Please be advised to read through the whole document thoroughly to ensure you understand the T&amp;Cs and that you are in compliance.
+<p> </p>
+<b>New Clickso Adware/Spyware Policy</b><br>
+“Affiliate may not, nor knowingly permit any person to, activate a Link or inflate the amount of User Actions through any deceptive or misleading practice, method or technology including, but not limited to, the use of any spyware, adware, device, program, robot, iframes, hidden frames, redirects, spiders, computer script or other automated, artificial or fraudulent methods designed to appear like an individual, real live person performing a User Action. Affiliate may not establish or cause to be established any promotion that provides any sweepstakes entries, rewards, points or other compensation to be earned in connection with generating User Actions, or otherwise attempt to induce Internet users to click on any of the Links through use of any other incentives, without obtaining the prior written approval of Advertiser.”
+
+<p></p>
+<b>Contact Information</b><br>
+
+If you would like to update or delete any of your contact information, please send an e-mail to info@Clickso.com.
+You can direct any questions or comments about our privacy practices to Clickso's Web Site Editor. If Clickso makes any changes to its privacy policy, those changes will be noted on the Clickso Web site. Regardless of later updates or changes to our privacy policy, we will never use the information you submit under our current privacy policy in a new way without first providing you an opportunity to opt-out or otherwise prevent that use.<p></p>
+
+          
+					    </div>
+                              
+						</div>
+					</div>
+					<div class="thr"></div>
+					<div class="for">
+						<div class="cur_bt_lft"></div><div class="cur_bt_rht"></div>
+					</div>
+				</div>
+			</div>
+			<div class="cont_rht">
+				<!--Box Grey Start-->
+				<a href="publishers.html">
+				<div class="box01 wd02 bg_gry mar_tp5">
+					<div class="bx01_tp">
+						<div class="cur_tp_lft"></div><div class="cur_tp_rht"></div>
+					</div>
+					<div class="bx01_md">
+						<div class="txt">
+							<div class="fl fnt28 dgrn mar_txt">Become a Publisher<div class="gry_arr"></div></div>
+						</div>
+					</div>
+					<div class="bx01_bt">
+						<div class="cur_bt_lft"></div><div class="cur_bt_rht"></div>
+					</div><div class="clr"></div>
+				</div>
+				</a>
+				<!--Box Grey End-->
+				<!--Box White Start-->
+				<a href="advertisers.html">
+				<div class="box01 wd02 bg_wht">
+					<div class="bx01_tp">
+						<div class="cur_tp_lft"></div><div class="cur_tp_rht"></div>
+					</div>
+					<div class="bx01_md">
+						<div class="txt">
+							<div class="fl fnt28 lred mar_txt">Advertise with Us<div class="wht_arr"></div></div>
+						</div>
+					</div>
+					<div class="bx01_bt">
+						<div class="cur_bt_lft"></div><div class="cur_bt_rht"></div>
+					</div><div class="clr"></div>
+				</div>
+				</a>
+				<!--Box White End-->
+				<!--Box Grey Start-->
+				<a href="agencies.html">
+				<div class="box01 wd02 bg_gry">
+					<div class="bx01_tp">
+						<div class="cur_tp_lft"></div><div class="cur_tp_rht"></div>
+					</div>
+					<div class="bx01_md">
+						<div class="txt">
+							<div class="fl fnt28 dgrn mar_txt">Agencies <span class="fnt18 blck">Gain Exposure</span><div class="gry_arr"></div></div>
+							
+						</div>
+					</div>
+					<div class="bx01_bt">
+						<div class="cur_bt_lft"></div><div class="cur_bt_rht"></div>
+					</div><div class="clr"></div>
+				</div>
+				</a>
+				<!--Box Grey End-->			
+				<!--Box White Start-->
+				<a href="rewards.html">
+				<div class="box01 wd03 bg_wht">
+					<div class="bx01_tp">
+						<div class="cur_tp_lft"></div><div class="cur_tp_rht"></div>
+					</div>
+					<div class="bx01_md">
+						<div class="txt">
+							<div class="fl fnt28 lred mar_txt"><span class="u">Flexible Rewards</span>
+							<div class="wht_arr2"></div><div class="bg_rwd2"></div>
+							</div>
+							
+						</div>
+					</div>
+					<div class="bx01_bt">
+						<div class="cur_bt_lft"></div><div class="cur_bt_rht"></div>
+					</div><div class="clr"></div>
+				</div>
+				</a>
+				<!--Box White End-->			
+				<!--Box Grey Start-->
+				<div class="box01 wd04 bg_gry mar_tp10">
+					<div class="bx01_tp">
+						<div class="cur_tp_lft"></div><div class="cur_tp_rht"></div>
+					</div>
+					<div class="bx01_md">
+						<div class="txt">
+							<div class="fl fnt18 mar">
+								<span class="fnt28 dgrn">Upcoming Events</span><br><br><div class="mar_lft20"><span class="fnt22 b">LeadsCon Las Vegas</span><br>March 1-2, 2011<br><span class="b">The Mirage Hotel &amp; Casino</span>
+								<div class="evnt"></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="bx01_bt">
+						<div class="cur_bt_lft"></div><div class="cur_bt_rht"></div>
+					</div><div class="clr"></div>
+				</div>
+				<!--Box Grey End-->
+			</div>
+		</div><div class="clr"></div>
+		<!--Content End-->
+		<!--Footer Start-->
+		<div class="footer">
+			<div class="ft_bx">
+				<div class="ft_cont wht">
+					<div class="one">
+						<span class="fnt14 b">Company Info</span><br>
+						<div class="fnt12 mar_tp10">
+						<span class="fnt12 mar_tp10"><a href="#">About Us</a></span><br>
+						<span class="fnt12"><a href="sitemap.html">Site Map</a></span>
+						</div>
+					</div>
+					<div class="two">
+						<span class="fnt14 b">Legal</span><br><div class="fnt12 mar_tp10"><a href="terms_ad.html">Advertiser T&amp;C</a><br><a href="terms_pb.html">Publisher T&amp;C</a><br><a href="terms_em.html">Email Marketing</a><br><a href="terms_sp.html">Search Policy</a><br><a href="terms_ds.html">Downloadable Software</a><br><a href="privacy.html">Privacy Policy</a></div>
+					</div>
+					<div class="thr">
+						<div class="poz_0"><div class="ft_logo"></div></div>						
+					</div>
+					<div class="for">
+						<span class="fnt14 b">Contact Us</span><br>
+						<div class="fnt12 mar_tp10">VCN Media LLC<br>Clickso<br>
+						1411 Mchenry Rd, Ste. 228<br>Buffalo Grove, IL 60089<br>Phone - 1-866-254-2576<br>Fax - 847-913-8808<!--br /><a href="mailto:info@clickso.com">info@clickso.com</a--></div>
+					</div>
+					<div class="fiv">
+							<a href="http://www.facebook.com/pages/Clicksocom-Network/162067267174445" target="_blank"><div class="fb_logo"></div></a>
+							<a href="http://twitter.com/clickso" target="_blank"><div class="tw_logo"></div></a>
+							<a href="#"><div class="in_logo" target="_blank"></div></a>
+							<div class="lb_logo"></div>
+							<!--a href="#"><div class="op_logo"></div></a-->
+					</div>
+				</div>
+			</div>
+		</div>
+		<!--Footer End-->
+	</div>
+  </div>
+ 
+</body></html>
