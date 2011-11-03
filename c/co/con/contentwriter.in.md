@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423105503id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwriter.in privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103021557id_/http%3A//www.contentwriter.in/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Content Writer . India - Online Writing Services | Outsource Content Writing To India
 
