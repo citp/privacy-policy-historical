@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superb.net privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514203213id_/http%3A//www.superb.net/about/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superb.net privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103193935id_/http%3A//www.superb.net/about/legal/privacy.php) for the most accurate reproduction.*
 
 # Managed Hosting | Dedicated Servers | Web Hosting - SUPERB INTERNET: Privacy Policy
 
@@ -98,3 +98,13 @@ You are responsible for, and have unlimited access to modify or change, all Cust
 >  Honolulu, HI 96813-4457
 
 Superb will review your request, and respond within 30 days.
+
+**8\. Enforcement**
+
+Superb commits to cooperate with the EU data protection authorities to investigate and resolve individual complaints and disputes, as well as in procedures for verifying compliance.
+
+**9\. US-EU Safe Harbor**
+
+Superb Interent Corp. complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Superb Internet Corp. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+
+To learn more about the Safe Harbor program, and to view Superb Internet Corp.'s certification, please visit: [export.gov/safeharbor](http://www.export.gov/safeharbor/)
