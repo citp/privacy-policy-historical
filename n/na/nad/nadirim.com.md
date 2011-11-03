@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the nadirim.com privacy policy that was archived on 2011-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110224000707id_/http%3A//nadirim.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nadirim.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103064623id_/http%3A//nadirim.com/privacy_policy) for the most accurate reproduction.*
 
-# Nadirim - Free to Play Fantasy MMORPG
+# Privacy Policy - Nadirim
 
-#### Privacy Policy
-
-This document details important information regarding the use and disclosure of User Data collected on Nadirim.com.
+This document details important information regarding the use and disclosure of User Data collected on Nadirim.com. 
 
 The security of your Data is very important to Nadirim.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. 
 
-## 1\. DATA COLLECTED
+## Data collected
 
   * Personal information: 
     * The visitor's IP address may be recorded in the event that there is any misappropriation of information and/or content. 
@@ -19,7 +17,7 @@ The security of your Data is very important to Nadirim.com and as such we take a
 
 
 
-## 2\. USES
+## Uses
 
   * Your personally identifiable information submitted to Nadirim.com is used to provide to the user the Website's general and special personalised features. 
   * We do not use your e-mail address or other personally identifiable information to send commercial or marketing messages without your consent. 
@@ -28,19 +26,19 @@ The security of your Data is very important to Nadirim.com and as such we take a
 
 
 
-## 3\. DISCLOSURE OF INFORMATION
+## Disclosure of information
 
   * If under duty to do so Nadirim.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of Nadirim.com or our subscribers or others or to identify and protect against fraudulent transactions and other misuses of our website. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is Nadirim.com's policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
   * We do not share your personally identifiable information with other, third-party companies for their commercial or marketing use without your consent except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
 
 
 
-## 4\. SECURITY
+## Security
 
 Where we have given you a password which enables you to access certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
 
 Unfortunately, the transmission of information via the Internet is not completely secure. Nadirim.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Nadirim.com and you do so at your own risk. 
 
-## 5\. YOUR RIGHTS
+## Your rights
 
 You are entitled to access and correct your data by doing so directly on the website.
