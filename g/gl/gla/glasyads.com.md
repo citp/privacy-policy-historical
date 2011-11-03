@@ -1,26 +1,35 @@
-> *The following text is extracted and transformed from the glasyads.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430151336id_/http%3A//www.glasyads.com/public/welcome/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasyads.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103083336id_/http%3A//www.glasyads.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Free Classified Ads Online Privacy Policy, Post Classified Ads, Top Free Classified Ad Sites, Real Estate Listings syndication
+# GlasyAds is a Tool for free classified listing syndication | Posting a classified in it automatically reflects into top classified websites.
 
----  
-   [Free Real Estate Listings Syndication](http://www.glasyads.com/ "Free Real Estate Listings Syndication") \---> Real Estate Listings Privacy  
-  
-Privacy Policy  
-  
-| 
-
-Glasy Ads takes your privacy seriously. We utilize safe, secure technology to protect your personally identifiable information. Please read the following to learn more about our Privacy Policy and how we use and protect your personal information.   
+Glasyads.com respects your privacy policy and supports the protection of consumer privacy on the Internet and the principles of disclosure through fair information practices. Glasy ads reserves the right to change this policy by providing notification of material change on website. Glasyads.com utilizes safe, secure technology to protect your personally identifiable information. You may contact us with any questions regarding this policy at [support@glasyads.com](mailto:support@glasyads.com "support@glasyads.com") .   
   
 ---  
   
-  * We utilise safe, secure technology to protect your personally identifiable information. This privacy policy describes how we treat personal information that we collect and receive through our websites. 
-  * We value your trust and work hard to earn your confidence, so that you can enthusiastically use our services.
-  * We reserve the right to modify or amend this Privacy Policy at any time and for any reason. Any significant changes, to this Policy will be posted on our website. 
-  * We do not sell or rent your personal data to anyone. The personal data you provide us is saved in a secure environment and is kept in our records. Information collected is stored in a single database, accessible only by Glasy Ads members.
-  * We employ reasonable and current security methods and technologies in order to prevent unauthorized access, maintain data accuracy, and ensure correct use of information.
-  * We reserve the right to release information about our users in order to comply with the law. We may also release personal data to enforce or apply the terms and conditions of our services, or to protect the rights, property or safety or our websites, our users, or the general public.
-  * We do not collect information from persons under the age of 18 with our knowledge. Persons under the age of 18 are not allowed to use our websites unsupervised. If you are under the age of 18, you may use our websites only in conjunction with and under the supervision of a parent or legal guardian. If we learn that a posting has been submitted by a person under the age of 18 without supervision that post/user will be removed.
-  * Some of our business partners use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Glasy Ads only and does not cover the use of cookies by our advertisers.
-  * Be cautious "glasyads.com never sends you mails for your username/password"
-
-
+Information Collection and storage  
+  
+We are the sole owners and responsible for the information collected on this site. During the registration and listing creation We will collect information such as name, address, phone, billing information and email ID etc. The Information collected is for authentication purposes and will be stored automatically in log files. The Contact Information will be for both service related and Integral component of application. The Data will be available as long as you are a user and make that data available to you upon the termination of your relationship with Glasyads.com.   
+  
+If at some point Glasyads.com sells all or a portion of its assets, or merges with another entity, user information is an asset that may be transferred or acquired by a third party. All the effected users of such a kind of transaction is notified and even users have an opportunity to retrieve their information and ceases the usage of service. In such situation the third party will hold the entire user data and have the right to continue using the user information solely as set forth in this policy. Glasyads.com will never sell, rent or share your personal information with any third parties for marketing purposes without your express permission.   
+  
+Security  
+  
+Glasyads.com uses reasonable security measures to protect the loss, misuse, and alteration of the information under our control. However, Glasyads.com cannot give guarantee to the protection of information against any interception/misappropriation/misuse/alteration or that your information may be not be disclosed or accessed by accidental circumstances or by the unauthorized acts of others. Users should be aware that Glasyads.com has no control over the security of other sites on the Internet you might visit, interact with, or from which you buy various products and services .  
+  
+Cookies and webbeacons  
+  
+Glasyads.com uses cookies to assist in delivering the service and to provide a personalized user experience. Cookies are small portion text files stored for record-keeping purposes. Session ID cookies provides easy access to files and are also used to identify unique visitors to our sites. If you choose to not accept cookies, you may be limited to use only some areas of our site only.  
+  
+Third Party Services  
+  
+This website may contain links to third party websites and Glasyads.com services may provide access to third party websites and services. Glasyads.com is not responsible for the privacy practices of these third parties. In order to understand the third party privacy , information collection , use practices please visit and review their privacy policies and practises once.  
+  
+Prompt Performance and Feedback  
+  
+Glasyads.com may not always catch an unintended privacy issue, despite Glasyads.com's efforts to do so. Glasyads.com will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when Glasyads.com learns of any failure to comply with it. Accordingly, Glasyads.com welcomes your feedback regarding any privacy concerns that you may have.  
+  
+Policy Changes  
+  
+Glasyads.com reserves the right to change this policy should we deem it advisable to do so. Any significant changes which we made in the site affects the use or disclosure of your personal information, we will make reasonable efforts to notify you those changes throughmail.   
+  
+If you believe that Glasyads.com has collected incorrect information or if you have any questions concerning our privacy policy, Feel Free to contact us [support@glasyads.com](mailto:support@glasyads.com "support@glasyads.com").
