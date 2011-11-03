@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423083930id_/http%3A//www.visiondirect.co.uk/page.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visiondirect.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103102910id_/http%3A//www.visiondirect.co.uk/page.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.*
 
 # Vision Direct - Contact Lenses Online > Privacy Policy
 
