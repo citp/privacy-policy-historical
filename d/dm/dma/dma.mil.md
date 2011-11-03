@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dma.mil privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309031756id_/http%3A//www.dma.mil/dma_privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.mil privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103113728id_/http%3A//www.dma.mil/dma_privacy.html) for the most accurate reproduction.*
 
-# News and Events - Defense Media Activity - U.S. Department of Defense Website
+# Privacy Policy - Defense Media Activity - U.S. Department of Defense
 
 This web site is provided as a public service by the Defense Media Activity. 
 
