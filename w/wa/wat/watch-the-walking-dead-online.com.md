@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watch-the-walking-dead-online.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410215150id_/http%3A//watch-the-walking-dead-online.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watch-the-walking-dead-online.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103235931id_/http%3A//watch-the-walking-dead-online.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch The Walking Dead Online
 
