@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the taggle.com privacy policy that was archived on 2010-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101016212351id_/http%3A//www.taggle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taggle.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104003306id_/http%3A//www.taggle.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Taggle
+# Your privacy is very important to us. Here is the policy governing your privacy and personal information on the Taggle service.
 
 Taggle Internet Ventures Private Limited ('Taggle', 'We', 'Our', 'Us') is committed to protecting your privacy and ensuring you have a positive experience on our website, www.taggle.com ("Website"). This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. By accessing or using our Website and other services from Taggle, you acknowledge that you have read and agree to be bound to the terms of this Privacy Policy and Website Terms of Use
 
