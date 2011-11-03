@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2011-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the action8cricket.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,14 +32,14 @@ If anybody feels that Watch Live Cricket is not adhering to its privacy policy i
 ---  
 | Recent Cricket Matches  
 ---  
-| [Friday, Jul 01 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-01_jul_2011.htm)  
+| [Wednesday, Nov 09 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-09_nov_2011.htm)  
 ---  
-[Wednesday, Jun 29 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-29_jun_2011.htm)  
-[Tuesday, Jun 28 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-28_jun_2011.htm)  
-[Saturday, Jun 25 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-25_jun_2011.htm)  
-[Monday, Jun 20 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-20_jun_2011.htm)  
-[Thursday, Jun 16 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-16_jun_2011.htm)  
-[Monday, Jun 13 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-13_jun_2011.htm)  
-[Saturday, Jun 11 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-11_jun_2011.htm)  
-[Wednesday, Jun 08 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-08_jun_2011.htm)  
-[Monday, Jun 06 2011](https://web.archive.org/web/20110624214317id_/http%3A//www.action8cricket.com/cricketshowdate-06_jun_2011.htm)
+[Sunday, Nov 06 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-06_nov_2011.htm)  
+[Thursday, Nov 03 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-03_nov_2011.htm)  
+[Tuesday, Nov 01 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-01_nov_2011.htm)  
+[Saturday, Oct 29 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-29_oct_2011.htm)  
+[Friday, Oct 28 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-28_oct_2011.htm)  
+[Wednesday, Oct 26 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-26_oct_2011.htm)  
+[Tuesday, Oct 25 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-25_oct_2011.htm)  
+[Sunday, Oct 23 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-23_oct_2011.htm)  
+[Saturday, Oct 22 2011](https://web.archive.org/web/20111103023504id_/http%3A//www.action8cricket.com/cricketshowdate-22_oct_2011.htm)
