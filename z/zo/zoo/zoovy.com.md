@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522072857id_/http%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoovy.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103174244id_/https%3A//www.zoovy.com/legal/privacy) for the most accurate reproduction.*
 
 # Zoovy Privacy Policy
 
@@ -52,14 +52,14 @@ We routinely compile aggregate sales statistics information.
 
 Our site provides users the opportunity to opt-out of receiving communications from our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-You can send email to [support@zoovy.com](mailto:support@zoovy.com)
+You can send email to [info@zoovy.com](mailto:info@zoovy.com)
 
 You can send mail to the following postal address: 
 
 Zoovy, Inc.  
-445 Marine View Avenue  
-Suite 200  
-Del Mar, CA 92014-3969  
+5868 Owens Ave.  
+Suite #150  
+Carlsbad, CA. 92008  
   
 You can call the following telephone number:  760-944-7660  
 877-ZOOVY4U (toll free)  
@@ -76,11 +76,13 @@ This site gives users the following options for changing and modifying informati
 
 #### 14\. CONTACTING ZOOVY
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](http://www.zoovy.net/contact.php) or contact:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [click here](http://www.zoovy.com/company/contact) or contact:
 
 Zoovy, Inc.  
 Customer Care  
-445 Marine View Avenue  
-Suite 200  
-Del Mar, CA 92014-3969  
+5868 Owens Ave.  
+Suite #150  
+Carlsbad, CA. 92008  
 [support@zoovy.com](mailto:support@zoovy.com)
+
+| 
