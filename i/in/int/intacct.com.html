@@ -1,211 +1,57 @@
-<!--The following is the downloaded HTML source of the intacct.com privacy policy that was archived on 2010-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101226012156id_/http%3A//us.intacct.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the intacct.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103093409id_/http%3A//us.intacct.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" slick-uniqueid="1"><head>
 
 <title>Privacy Policy - ERP Software Solutions - Intacct</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta name="description" content="Intacct provides our privacy policy.">
 <meta name="keywords" content="intacct privacy policy, erp software, erp solutions">
 
-
-
-
-<link href="/templates/intacct.css" rel="stylesheet" type="text/css">
+<link href="/templates/intacct.css?version=09_28_11" rel="stylesheet" type="text/css">
 <!--[if !IE]><!-->
-<style type="text/css">@import url('/templates/lib/css/non_ie.css');</style>
+<style type="text/css">@import url('/templates/lib/css/non_ie.css?version=07_15_11');</style>
 <!--<![endif]-->
 <!--[if lte IE 6]>
-<style type="text/css">@import url('/templates/lib/css/ie6.css');</style>
+<style type="text/css">@import url('/templates/lib/css/ie6.css?version=07_15_11');</style>
 <![endif]-->
 <!--[if IE 7]>
-<style type="text/css">@import url('/templates/lib/css/ie7.css');</style>
+<style type="text/css">@import url('/templates/lib/css/ie7.css?version=07_15_11');</style>
 <![endif]-->
 <!--[if gte IE 8]>
-<style type="text/css">@import url('/templates/lib/css/ie8.css');</style>
+<style type="text/css">@import url('/templates/lib/css/ie8.css?version=07_15_11');</style>
 <![endif]-->
-
-
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/templates/lib/moo/mootools-1.2-core-yc.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/templates/lib/moo/mootools-core-1.3.1-full-compat-yc.js"></script>
 <script type="text/javascript" src="/templates/lib/moo/mootools-1.2-more.js"></script>
-
-
-<script type="text/JavaScript">
-function popmeup(file,params){
-if (!params) params="top=50,left=50,width=800,height=600,toolbars=1,status=1,location=1,scrollbars=1";
-	var w=window.open(file,"__",params);
-	if (w) w.focus();
-	else popupalert();
-}
-
-function popupalert(){
-	alert("The link cannot open the requested document because your popup blocker has blocked it. Please change the settings on your browser to allow pop-ups on this site.");
-
-}
-
-</script>
-
+<script type="text/javascript" src="/templates/lib/scripts/popalert.js"></script>
 <script src="/templates/marketo_js/jquery-latest.min.js" type="text/javascript"></script>
 <script src="/templates/marketo_js/jquery.cookie.js" type="text/javascript"></script>
 <script src="/templates/marketo_js/jQueryString-2.0.2-Min.js" type="text/javascript"></script>
+<script type="text/javascript" src="/templates/lib/scripts/marketo.js"></script>
+		<!-- Start Async Google Analytics tracking code -->
+		<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-174496-1']);
+		  _gaq.push(['_setDomainName', '.intacct.com']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+		</script>
+		<!-- End Async Google Analytics tracking code -->
+	<script type="text/javascript" src="//static.atgsvcs.com/js/atgsvcs.js"></script>
 <script type="text/javascript">
-var $jQ = jQuery.noConflict();
-
-$jQ(document).ready(function(){
-
-   //-----
-   //------------- CHANGE THESE!!! --------------------
-   //-----
-
-      // Change this to match domains of referrers you want to ignore.
-      // You'll want to ignore referrers from your own domains.
-      // Use only the base domain name without subdomains (ex. "company.com")
-      // Separate multiple domains with commas (leave the brackets).
-  var excludedReferrers = [ "intacct.com" ];
-
-      // Change this to match the base domain of your company's landing pages.
-      // Cookies will be created with this domain.
-      // Ex. If your landing page domain is "pages.yourcompany.com" then use
-      //     "yourcompany.com"
-  var cookieDomain = "intacct.com";
-
-      // The URL parameter that has your pay-per-click info.
-      // Typically "kw" or "keyword" (depends on how you set up your PPC URLs)
-  var payPerClickParameter = "keyword";
-
-   //-----
-   //----- you probably shouldn't change anything after this -----
-   //-----
-
-
-  var refer = document.referrer;
-  var searchString;
-  var searchEngine;
-
-      // if there's no referrer, do nothing
-  if ( (refer == undefined) || (refer == "") ) {
-      ;
-  } else {
-
-       // get the domain of the referring website -- http://[[this-thing.com]]/
-    var referrerDomain =
-        refer.substr(refer.indexOf("\/\/") + 2,
-                     refer.indexOf("\/",8) - refer.indexOf("\/\/") - 2).toLowerCase();
-
-    var excludedDomainFound = false;
-    var i = 0;
-
-      // search the excluded domain list to see if the referrer domain is on it
-    while ( (i < excludedReferrers.length) && !excludedDomainFound) {
-      var thisExcludedDomain = excludedReferrers[i].toLowerCase();
-
-         // weird semantics here -- indexOf returns "-1" if the search string isnt found.
-         // thus excludedDomainFound is true only when indexOf matches an excluded domain (!= -1)
-      excludedDomainFound = (referrerDomain.indexOf(thisExcludedDomain) != -1);
-      i++;
-    }
-
-     // only if the referrer isn't in our excluded domain list...
-    if( !excludedDomainFound ) {
-
-         // extract the URL parameters from common search engines
-         // To add your own, each engine needs a:
-         //    name: how the search engine will appear on your Marketo leads
-         //    url: REGEX for matching the engine's referrer.  ex.  /\.google\./i
-         //    query: URL parameter that contains the search query - usually "p" or "q"
-
-      var searchEngines = [
-            { name: "Yahoo", url: /\.yahoo\.co/i, query: "p" },
-            { name: "Google", url: /\.google\./i, query: "q" },
-            { name: "Microsoft Live", url: /\.live\.com/i, query: "q" },
-            { name: "MSN Search", url: /search\.msn\./i, query: "q" },
-            { name: "AOL", url: /\.aol\./i, query: "query" },
-            { name: "Bing", url: /\.bing\.com/i, query: "q" },
-            { name: "Ask", url: /\.ask\.com/i, query: "q" }
-          ];
-
-           // find the referring search engine (if any)
-      i = 0;
-      while (i < searchEngines.length) {
-        if (refer.match(searchEngines[i].url)) {
-          searchEngine = searchEngines[i].name;
-          searchString = $jQ.getQueryString({ ID: searchEngines[i].query,
-                                              URL: refer,
-                                              DefaultValue: "" });
-          break;
-        }
-        i++;
-      }
-
-         // If no search engine is found, this person probably used a less
-         // popular one.  Use the referring doman, then guess the query parameter
-      if (i == searchEngines.length) {
-
-         searchEngine = referrerDomain;
-
-         var queries = ["q","p","query"];
-         var i = 0;
-         while ((i < queries.length) && (searchString == undefined)) {
-           searchString = $jQ.getQueryString({ ID: queries[i],
-                                               URL: refer });
-           i++;
-         }
-
-           // no search strings found -- use this text instead.
-         if (searchString == undefined) {
-           searchString = "None";
-         }
-      }
-
-         // Use the provided URL parameter to get the PPC keyword.
-      var payPerClickWord =
-        $jQ.getQueryString({ID: payPerClickParameter,
-                            URL: refer,
-                            DefaultValue: "" });
-
-         // Put the info into cookies.  These values will be extracted
-         // and put into a Marketo form later. Expires in 2 years.
-      $jQ.cookie('mktoPPCKeyword', payPerClickWord,
-                  {expires: 730, path: '\/', domain: cookieDomain});
-      $jQ.cookie('mktoSearchEngine', searchEngine,
-                  {expires: 730, path: '\/', domain: cookieDomain});
-      $jQ.cookie('mktoSearchString', searchString,
-                  {expires: 730, path: '\/', domain: cookieDomain});
-    }
-  }
-});
-
-</script>
-
-<!-- Start Async Google Analytics tracking code -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-174496-1']);
-  _gaq.push(['_setDomainName', '.intacct.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-<!-- End Async Google Analytics tracking code -->
-
-
-
-
-
-</head>
-
+  ATGSvcs.setUOID(200106300202);
+</script><script type="text/javascript" src="http://as00.estara.com/as/InitiateCall2.php?accountid=200106300202"></script></head>
 <body>
 <div id="main_container">
-  <div align="left">
-    
-    
+
+
   <div class="nav_layer_homepage">
-    <div class="intacct_logo"><a href="/"><img src="/templates/images/logo_homepage_tagline.gif" alt="Intacct" border="0"></a></div>
+    <div class="intacct_logo"><a href="/"><img src="/templates/images/Intacct_Logo_v2.jpg" alt="Intacct" border="0"></a></div>
     <div class="tag_line">
       <object id="marqueeFlash" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="354" height="26">
       <param name="movie" value="/intacct_header.swf">
@@ -221,11 +67,16 @@ $jQ(document).ready(function(){
       <!--<![endif]-->
       </object>
     </div>
-    <a href="http://online.intacct.com/contact1.html" id="contact">&gt; Contact Us</a>
+
+	
+	<a href="http://online.intacct.com/2011_website_contact_me.html" id="contact">&gt; Contact Us</a>
+<span id="top_800_no">1-877-437-7765</span>
+
   </div>
 
 
-<link href="/templates/navigation/navigation_intacct.css" rel="stylesheet" type="text/css">
+
+<link href="/templates/navigation/navigation_intacct.css?version=03_15_2011" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="/templates/navigation/qm.js"></script>
 <script type="text/javascript" src="/templates/navigation/qm_pure_css.js"></script>
 
@@ -253,34 +104,61 @@ $jQ(document).ready(function(){
   <!-- <input type="image" class="sb" value="Search" src="/templates/images/search_button.gif" align="middle" />-->
   </div>
 </form>
-</div>	<!--|**START IMENUS**|imenus0,inline-->
+</div>
+
+	<!--|**START IMENUS**|imenus0,inline-->
 	<!--  ****** Infinite Menus Structure & Links ***** -->
 	<div style="background-image:url(/templates/navigation/images/center_tile.gif)">
-	<table cellpadding="0" cellspacing="0" style="width:100%;"><tbody><tr>
+	<table cellpadding="0" cellspacing="0" border="0" style="width:100%;"><tbody><tr>
 	<td><div style="font-size:1px;width:6px;height:34px;"></div></td>
 	<td style="width:100%;">
-	<div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a href="/products/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 82px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">PRODUCTS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>PRODUCTS</a><div style="z-index: 21;"><a href="/products/index.php" title="Product Overview">Product Overview</a><a href="/products/intacct.php" title="Intacct" class="qmparent">Intacct</a><div style="z-index: 31;"><a href="/products/intacct.php" title="Overview">Overview</a><a href="/products/intacct_financials_accounting.php" title="Intacct Financials and Accounting">Intacct Financials and Accounting</a><a href="/products/intacct_time_expenses.php" title="Intacct Time and Expenses">Intacct Time and Expenses</a><a href="/products/intacct_purchase_inventory.php" title="Intacct Purchasing and Inventory">Intacct Purchasing and Inventory</a><a href="/products/intacct_order_management.php" title="Intacct Order Management">Intacct Order Management</a><a href="/products/intacct_revenue_management.php" title="Intacct Revenue Management">Intacct Revenue Management</a><a href="/products/intacct_project_accounting.php" title="Intacct Project Accounting">Intacct Project Accounting</a><a href="/products/intacct_multi_currency_mgmt.php" title="Intacct Multi-Currency Management">Intacct Multi-Currency Management</a><a href="/products/intacct_global_consolidations.php" title="Intacct Global Consolidations">Intacct Global Consolidations</a><a href="/products/intacct_insight.php" title="Intacct Insight">Intacct Insight</a><a href="/products/intacct_max_salesforce.php" title="Intacct MAX for Salesforce CRM">Intacct MAX for Salesforce CRM</a><a href="/products/intacct_avatax.php" title="AvaTax for Intacct">AvaTax for Intacct</a></div><a href="/products/intacct_accountant_edition.php" title="Intacct Accountant Edition">Intacct Accountant Edition</a></div><a href="/solutions/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 83px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">SOLUTIONS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>SOLUTIONS</a><div style="z-index: 21;"><a href="/solutions/index.php" title="Intacct Business Solutions">Intacct Business Solutions</a><a href="/solutions/quickbooks_users.php" title="&nbsp;&nbsp;QuickBooks Users">&nbsp;&nbsp;QuickBooks Users</a><a href="/solutions/salesforce_users.php" title="&nbsp;&nbsp;Salesforce CRM Users">&nbsp;&nbsp;Salesforce CRM Users</a><a href="/solutions/intacct_aicpa_member.php" title="&nbsp;&nbsp;AICPA Members">&nbsp;&nbsp;AICPA Members</a><a href="/solutions/index_is.php" title="Intacct Industry Solutions">Intacct Industry Solutions</a><a href="/solutions/software_saas.php" title="&nbsp;&nbsp;Software &amp; SaaS">&nbsp;&nbsp;Software &amp; SaaS</a><a href="/solutions/professional_services.php" title="&nbsp;&nbsp;Professional Services">&nbsp;&nbsp;Professional Services</a><a href="/solutions/business_administrative_services.php" title="&nbsp;&nbsp;Business Services">&nbsp;&nbsp;Business Services</a><a href="/solutions/accounting_professionals.php" title="&nbsp;&nbsp;Accounting Firms">&nbsp;&nbsp;Accounting Firms</a><a href="/solutions/not_for_profit.php" title="&nbsp;&nbsp;Not-for-Profit">&nbsp;&nbsp;Not-for-Profit</a><a href="/solutions/hospitality.php" title="&nbsp;&nbsp;Hospitality">&nbsp;&nbsp;Hospitality</a><a href="/solutions/healthcare.php" title="&nbsp;&nbsp;Healthcare">&nbsp;&nbsp;Healthcare</a><a href="/solutions/wholesale_distribution.php" title="&nbsp;&nbsp;Wholesale Distribution">&nbsp;&nbsp;Wholesale Distribution</a><a href="/solutions/franchise_owners.php" title="&nbsp;&nbsp;Franchise Owners">&nbsp;&nbsp;Franchise Owners</a></div><a href="/why_intacct/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 96px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">WHY INTACCT</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>WHY INTACCT</a><div style="z-index: 21;"><a href="/why_intacct/index.php" title="Why Intacct Overview">Why Intacct Overview</a><a href="/why_intacct/business_benefits.php" title="Business Benefits">Business Benefits</a><a href="/why_intacct/buy_with_confidence.php" title="Buy with Confidence">Buy with Confidence</a><a href="/why_intacct/uptime.php" title="Intacct Uptime Statistics">Intacct Uptime Statistics</a><a href="/why_intacct/differentiators.php" title="Key Differentiators" class="qmparent">Key Differentiators</a><div style="z-index: 31;"><a href="/why_intacct/differentiators.php" title="Overview">Overview</a><a href="/why_intacct/ondemand_ecosystem.php" title="On-Demand Ecosystem">On-Demand Ecosystem</a><a href="/why_intacct/running_more_quickly.php" title="Get Up and Running More Quickly">Get Up and Running More Quickly</a><a href="/why_intacct/cloud_computing_platform.php" title="Cloud Computing Platform">Cloud Computing Platform</a></div><a href="/why_intacct/intacct_pricing.php" title="Intacct Pricing">Intacct Pricing</a></div><a href="/services/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 134px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">SERVICE &amp; SUPPORT</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>SERVICE &amp; SUPPORT</a><div style="z-index: 21;"><a href="/services/index.php" title="Service &amp; Support Overview">Service &amp; Support Overview</a><a href="/services/professional_services.php" title="Professional Services">Professional Services</a><a href="/services/training.php" title="Training">Training</a><a href="/services/support.php" title="Support">Support</a></div><a href="/customers/" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 91px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">CUSTOMERS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>CUSTOMERS</a><div style="z-index: 21;"><a href="/customers/" title="Customers Overview">Customers Overview</a><a href="/customers/biotechnology.php" title="Customer Industries" class="qmparent">Customer Industries</a><div style="z-index: 31;"><a href="/customers/biotechnology.php" title="Biotechnology">Biotechnology</a><a href="/customers/communications.php" title="Communications">Communications</a><a href="/customers/computer_services.php" title="Computer Services">Computer Services</a><a href="/customers/computer_software.php" title="Computer Software">Computer Software</a><a href="/customers/education.php" title="Education">Education</a><a href="/customers/entertainment.php" title="Entertainment">Entertainment</a><a href="/customers/food_beverages.php" title="Food &amp; Beverage">Food &amp; Beverage</a><a href="/customers/franchise.php" title="Franchise">Franchise</a><a href="/customers/healthcare.php" title="Healthcare">Healthcare</a><a href="/customers/hospitality.php" title="Hospitality">Hospitality</a><a href="/customers/international.php" title="International">International</a><a href="/customers/lodging.php" title="Lodging">Lodging</a><a href="/customers/nonprofit.php" title="Nonprofit">Nonprofit</a><a href="/customers/professional_services.php" title="Professional Services">Professional Services</a><a href="/customers/retail.php" title="Retail">Retail</a><a href="/customers/shipping.php" title="Shipping">Shipping</a><a href="/customers/wholesale_distribution.php" title="Wholesale/Distribution">Wholesale/Distribution</a></div></div><a href="/partner/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 78px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">PARTNERS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>PARTNERS</a><div style="z-index: 21;"><a href="/partner/index.php" title="Partners Overview">Partners Overview</a><a href="/partner/partners_resellers.php" title="Resellers &amp; Integrators">Resellers &amp; Integrators</a><a href="/partner/partners_accounting_outsourcers.php" title="Accounting Firms">Accounting Firms</a><a href="/partner/partners_application.php" title="Applications &amp; Tools">Applications &amp; Tools</a><a href="/partner/partners_technology.php" title="Technology Providers">Technology Providers</a><a href="/partner/partner_training.php" title="Partner Training" class="qmparent">Partner Training</a><div style="z-index: 31;"><a href="/partner/partner_training.php" title="Overview">Overview</a><a href="/partner/partner_training_cpe_credit.php" title="CPE Credit Availability">CPE Credit Availability</a><a href="/partner/partner_training_faqs.php" title="Virtual Training FAQs">Virtual Training FAQs</a><a href="/partner/partner_training_policies.php" title="Policies and Procedures">Policies and Procedures</a></div></div><a href="/corporate/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 75px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">COMPANY</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>COMPANY</a><div style="z-index: 21;"><a href="/corporate/index.php" title="Company Overview">Company Overview</a><a href="/corporate/management_team.php" title="Management Team">Management Team</a><a href="/corporate/board_of_directors.php" title="Board of Directors">Board of Directors</a><a href="/corporate/investors.php" title="Investors">Investors</a><a href="/corporate/resource_center.php" title="Resource Center">Resource Center</a><a href="/corporate/careers.php" title="Careers at Intacct">Careers at Intacct</a><a href="/corporate/press_center.php" title="Press Center" class="qmparent">Press Center</a><div style="z-index: 31;"><a href="/corporate/press_center.php" title="Press Center">Press Center</a><a href="/corporate/news_events/press_releases.php" title="Press Releases">Press Releases</a><a href="/corporate/media_coverage.php" title="Media Coverage">Media Coverage</a></div><a href="/corporate/awards.php" title="Awards">Awards</a><a href="/corporate/webinars.php" title="Events" class="qmparent">Events</a><div style="z-index: 31;"><a href="/corporate/webinars.php" title="Upcoming Webinars">Upcoming Webinars</a><a href="/corporate/archive.php" title="Archived Webinars">Archived Webinars</a><a href="/corporate/trade_shows.php" title="Trade Shows and Seminars">Trade Shows and Seminars</a></div><a href="http://blog.intacct.com/" title="Intacct Blog: SaaS 2.0">Intacct Blog: SaaS 2.0</a><a href="/corporate/contact_us.php" title="Contact Us" class="qmparent">Contact Us</a><div style="z-index: 31;"><a href="/corporate/contact_us.php" title="Contact Information">Contact Information</a><a href="/corporate/map_directions.php" title="Map and Directions">Map and Directions</a><a href="http://online.intacct.com/contact1.html" title="Contact Form">Contact Form</a></div></div><a href="https://www.intacct.com/ia/acct/login.phtml?.done=frameset.phtml">SECURE LOGIN</a><span class="qmclear">&nbsp;</span></div>
-</td>
+	<div class="qmmc" id="qm0" style="zoom: 1; z-index: 11;"><a href="/products/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 76px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">PRODUCTS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>PRODUCTS</a><div style="z-index: 21;"><a href="/products/index.php" title="Product Overview">Product Overview</a><a href="/products/intacct.php" title="Intacct" class="qmparent">Intacct</a><div style="z-index: 31;"><a href="/products/intacct.php" title="Overview">Overview</a><a href="/products/intacct_financials_accounting.php" title="Intacct Financials and Accounting">Intacct Financials and Accounting</a><a href="/products/intacct_time_expenses.php" title="Intacct Time and Expenses">Intacct Time and Expenses</a><a href="/products/intacct_purchase_inventory.php" title="Intacct Purchasing and Inventory">Intacct Purchasing and Inventory</a><a href="/products/intacct_order_management.php" title="Intacct Order Management">Intacct Order Management</a><a href="/products/intacct_revenue_management.php" title="Intacct Revenue Management">Intacct Revenue Management</a><a href="/products/intacct_project_accounting.php" title="Intacct Project Accounting">Intacct Project Accounting</a><a href="/products/intacct_multi_currency_mgmt.php" title="Intacct Multi-Currency Management">Intacct Multi-Currency Management</a><a href="/products/intacct_global_consolidations.php" title="Intacct Global Consolidations">Intacct Global Consolidations</a><a href="/products/intacct_insight.php" title="Intacct Insight">Intacct Insight</a><a href="/products/intacct_max_salesforce.php" title="Intacct MAX for Salesforce CRM">Intacct MAX for Salesforce CRM</a><a href="/products/intacct_avatax.php" title="AvaTax for Intacct">AvaTax for Intacct</a></div><a href="/products/intacct_accountant_edition.php" title="Intacct Accountant Edition">Intacct Accountant Edition</a></div><a href="/solutions/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 78px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">SOLUTIONS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>SOLUTIONS</a><div style="z-index: 21;"><a href="/solutions/index.php" title="Intacct Business Solutions">Intacct Business Solutions</a><a href="/solutions/quickbooks_users.php" title="&nbsp;&nbsp;QuickBooks Users">&nbsp;&nbsp;QuickBooks Users</a><a href="/solutions/medium_sized_and_public.php" title="&nbsp;&nbsp;Medium-sized and Public Companies">&nbsp;&nbsp;Medium-sized and Public Companies</a><a href="/solutions/salesforce_users.php" title="&nbsp;&nbsp;Salesforce CRM Users">&nbsp;&nbsp;Salesforce CRM Users</a><a href="/solutions/intacct_aicpa_member.php" title="&nbsp;&nbsp;AICPA Members">&nbsp;&nbsp;AICPA Members</a><a href="/solutions/index_is.php" title="Intacct Industry Solutions">Intacct Industry Solutions</a><a href="/solutions/software_saas.php" title="&nbsp;&nbsp;Software &amp; SaaS">&nbsp;&nbsp;Software &amp; SaaS</a><a href="/solutions/professional_services.php" title="&nbsp;&nbsp;Professional Services">&nbsp;&nbsp;Professional Services</a><a href="/solutions/business_administrative_services.php" title="&nbsp;&nbsp;Business Services">&nbsp;&nbsp;Business Services</a><a href="/solutions/accounting_professionals.php" title="&nbsp;&nbsp;Accounting Firms">&nbsp;&nbsp;Accounting Firms</a><a href="/solutions/nonprofits.php" title="&nbsp;&nbsp;Nonprofits">&nbsp;&nbsp;Nonprofits</a><a href="/solutions/hospitality.php" title="&nbsp;&nbsp;Hospitality">&nbsp;&nbsp;Hospitality</a><a href="/solutions/healthcare.php" title="&nbsp;&nbsp;Healthcare">&nbsp;&nbsp;Healthcare</a><a href="/solutions/wholesale_distribution.php" title="&nbsp;&nbsp;Wholesale Distribution">&nbsp;&nbsp;Wholesale Distribution</a><a href="/solutions/franchise_owners.php" title="&nbsp;&nbsp;Franchise Owners">&nbsp;&nbsp;Franchise Owners</a></div><a href="/why_intacct/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 89px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">WHY INTACCT</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>WHY INTACCT</a><div style="z-index: 21;"><a href="/why_intacct/index.php" title="Why Intacct Overview">Why Intacct Overview</a><a href="/why_intacct/business_benefits.php" title="Business Benefits">Business Benefits</a><a href="/why_intacct/buy_with_confidence.php" title="Buy with Confidence">Buy with Confidence</a><a href="/why_intacct/uptime.php" title="Intacct Uptime Statistics">Intacct Uptime Statistics</a><a href="/why_intacct/differentiators.php" title="Key Differentiators" class="qmparent">Key Differentiators</a><div style="z-index: 31;"><a href="/why_intacct/differentiators.php" title="Overview">Overview</a><a href="/why_intacct/ondemand_ecosystem.php" title="On-Demand Ecosystem">On-Demand Ecosystem</a><a href="/why_intacct/running_more_quickly.php" title="Get Up and Running More Quickly">Get Up and Running More Quickly</a><a href="/why_intacct/cloud_computing_platform.php" title="Cloud Computing">Cloud Computing</a></div><a href="/why_intacct/intacct_pricing.php" title="Intacct Pricing">Intacct Pricing</a></div><a href="/services/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 124px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">SERVICE &amp; SUPPORT</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>SERVICE &amp; SUPPORT</a><div style="z-index: 21;"><a href="/services/index.php" title="Service &amp; Support Overview">Service &amp; Support Overview</a><a href="/services/professional_services.php" title="Professional Services">Professional Services</a><a href="/services/training/index.php" title="Training" class="qmparent">Training</a><div style="z-index: 31;"><a href="/services/training/index.php" title="Overview">Overview</a><a href="/services/training/calendar.php" title="Training Calendar">Training Calendar</a></div><a href="/services/support.php" title="Support">Support</a></div><a href="/customers/" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 83px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">CUSTOMERS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>CUSTOMERS</a><div style="z-index: 21;"><a href="/customers/" title="Customers Overview">Customers Overview</a><a href="/customers/biotechnology.php" title="Customer Industries" class="qmparent">Customer Industries</a><div style="z-index: 31;"><a href="/customers/biotechnology.php" title="Biotechnology">Biotechnology</a><a href="/customers/communications.php" title="Communications">Communications</a><a href="/customers/computer_services.php" title="Computer Services">Computer Services</a><a href="/customers/computer_software.php" title="Computer Software">Computer Software</a><a href="/customers/education.php" title="Education">Education</a><a href="/customers/entertainment.php" title="Entertainment">Entertainment</a><a href="/customers/food_beverages.php" title="Food &amp; Beverage">Food &amp; Beverage</a><a href="/customers/franchise.php" title="Franchise">Franchise</a><a href="/customers/healthcare.php" title="Healthcare">Healthcare</a><a href="/customers/hospitality.php" title="Hospitality">Hospitality</a><a href="/customers/international.php" title="International">International</a><a href="/customers/lodging.php" title="Lodging">Lodging</a><a href="/customers/nonprofit.php" title="Nonprofit">Nonprofit</a><a href="/customers/professional_services.php" title="Professional Services">Professional Services</a><a href="/customers/retail.php" title="Retail">Retail</a><a href="/customers/shipping.php" title="Shipping">Shipping</a><a href="/customers/wholesale_distribution.php" title="Wholesale/Distribution">Wholesale/Distribution</a></div><a href="/customers/videos" title="Video Testimonials">Video Testimonials</a></div><a href="/partner/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 74px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">PARTNERS</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>PARTNERS</a><div style="z-index: 21;"><a href="/partner/index.php" title="Partners Overview">Partners Overview</a><a href="/partner/partners_resellers.php" title="Resellers &amp; Integrators">Resellers &amp; Integrators</a><a href="/partner/partners_accounting_outsourcers.php" title="Accounting Firms">Accounting Firms</a><a href="/partner/partners_application.php" title="Applications &amp; Tools">Applications &amp; Tools</a><a href="/partner/partner_training.php" title="Partner Training" class="qmparent">Partner Training</a><div style="z-index: 31;"><a href="/partner/partner_training.php" title="Overview">Overview</a><a href="/partner/partner_training_cpe_credit.php" title="CPE Credit Availability">CPE Credit Availability</a><a href="/partner/partner_training_faqs.php" title="Virtual Training FAQs">Virtual Training FAQs</a><a href="/partner/partner_training_policies.php" title="Policies and Procedures">Policies and Procedures</a></div></div><a href="/corporate/index.php" class="qmparent"><span class="qmritem" qmvbefore="1" style="position: absolute; display: block; top: 0px; left: -10000px; width: 70px;"><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:1px;margin-right:1px;"></span><span class="qmritemcontent" style="display:block;border-style:solid;border-width:0px 1px 0px 1px;">COMPANY</span><span style="border-width:1px 0px 0px 0px;border-style:solid;display:block;font-size:1px;overflow:hidden;line-height:0px;height:0px;margin-left:0px;margin-right:0px;"></span></span>COMPANY</a><div style="z-index: 21;"><a href="/corporate/index.php" title="Company Overview">Company Overview</a><a href="/corporate/management_team.php" title="Management Team">Management Team</a><a href="/corporate/board_of_directors.php" title="Board of Directors">Board of Directors</a><a href="/corporate/investors.php" title="Investors">Investors</a><a href="/corporate/resource_center.php" title="Resource Center">Resource Center</a><a href="/corporate/careers.php" title="Careers at Intacct">Careers at Intacct</a><a href="/corporate/press_center.php" title="Press Center" class="qmparent">Press Center</a><div style="z-index: 31;"><a href="/corporate/press_center.php" title="Press Center">Press Center</a><a href="/corporate/news_events/press_releases.php" title="Press Releases">Press Releases</a><a href="/corporate/media_coverage.php" title="Media Coverage">Media Coverage</a></div><a href="/corporate/awards.php" title="Awards">Awards</a><a href="/corporate/webinars.php" title="Events" class="qmparent">Events</a><div style="z-index: 31;"><a href="/corporate/webinars.php" title="Upcoming Webinars">Upcoming Webinars</a><a href="/corporate/archive.php" title="Archived Webinars">Archived Webinars</a><a href="/corporate/trade_shows.php" title="Trade Shows and Seminars">Trade Shows and Seminars</a></div><a href="http://blog.intacct.com/" title="Intacct Blog: View from the Cloud">Intacct Blog: View from the Cloud</a><a href="/corporate/contact_us.php" title="Contact Us" class="qmparent">Contact Us</a><div style="z-index: 31;"><a href="/corporate/contact_us.php" title="Contact Information">Contact Information</a><a href="/corporate/map_directions.php" title="Map and Directions">Map and Directions</a><a href="http://online.intacct.com/2011_website_contact_me.html" title="Contact Form">Contact Form</a></div><a href="/videos/index.php" title="Videos">Videos</a></div><a href="https://www.intacct.com/ia/acct/login.phtml?.done=frameset.phtml">SECURE LOGIN</a><span class="qmclear">&nbsp;</span></div>
+ </td>
 
 
 </tr></tbody></table>
 </div>
 
-
-
 <!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click, Right to Left, Horizontal Subs, Flush Left) -->
 <script type="text/javascript">qm_create(0,false,0,250,false,false,false,false);</script>
-   
-<div class="flash_inner" style="background:#fff url(/templates/images/hbg.gif) 0px 0px no-repeat;height:81px">         
- 
-</div></div>
-<div id="content_container">
-  <div class="text_normal" style="padding: 20px 20px 20px 20px; background-color:#FFFFFF;">
-    <p align="left" class="text_form_title">Privacy Policy </p>
-    <p align="left">Intacct is committed to safeguarding your privacy online. We have implemented   numerous technical and administration measures to ensure that your data remains   protected and secure. You should also know that we will never sell or rent your   personal information to a third party. </p>
-    <p align="left">Please read the following policy if you would like to understand in detail   how your personal information will be treated as you make full use of our many   offerings. As this policy may change from time to time, please check back   periodically for the most recent additions to our policy. </p>
-    <p align="left">This policy will let you know: </p>
-    <div align="left">
+
+
+<div class="flash_inner" style="background:#fff url(/templates/images/hbg.gif) 0px 0px no-repeat;height:81px">
+
+</div>	<div id="content_container">
+
+			<div id="left_nav">
+	
+				<div class="clear">&nbsp;</div>
+		</div>
+
+
+		<div id="content_area_wide">
+	<div id="internal-ctas">
+  <a href="/corporate/demo_center.php" id="cta1">Online  Demo</a>
+  <a href="http://online.intacct.com/2011_website_contact_me.html" id="cta2">Contact Me</a>
+  <a href="/corporate/resource_center.php" id="cta3">Resources</a>
+</div>
+			<div id="content_area_in">
+
+	<h1>Privacy Policy</h1>
+
+
+    <p>
+    Intacct is committed to safeguarding your privacy online. We have implemented numerous technical and administration
+    measures to ensure that your data remains   protected and secure. You should also know that we will never sell or rent
+    your personal information to a third party.
+    </p>
+
+    <p>
+    Please read the following policy if you would like to understand in detail how your personal information will be treated
+    as you make full use of our many offerings. As this policy may change from time to time, please check back periodically
+    for the most recent additions to our policy.
+    </p>
+
+    <p>This policy will let you know: </p>
+
+    <div>
       <ol>
         <li>What personally identifiable information is collected from you. </li>
         <li>How Intacct protects the privacy of your data. </li>
@@ -293,16 +171,22 @@ $jQ(document).ready(function(){
         <li>How you can access, update, or delete your information. </li>
         <li>How Intacct treats your personal financial and health-related information. </li>
         <li>The kind of security precautions that are in place to protect against the   loss, misuse, or alteration of your information. </li>
-        <li>How Intacct protects children’s privacy. </li>
+        <li>How Intacct protects children's privacy. </li>
         <li>What else you should know about your online privacy. </li>
         <li>Whom you can contact if you have additional questions. </li>
       </ol>
-      <strong>Overview</strong>
     </div>
-    <p align="left">Intacct has made the privacy and security of our customers’ data our top   priority. We have set forth a very strict privacy policy, which is accessible   from all parts of our web site and service, and which is supplied to all Intacct   employees. </p>
-    <p align="left"><strong>1. What personally identifiable information does Intacct collect from me? </strong> </p>
-    <p align="left">To register for Intacct’s services, you will be asked to supply (that is, to   create) the following: </p>
-    <div align="left">
+
+    <p>
+    </p><h5>Overview</h5>
+    Intacct has made the privacy and security of our customers' data our top   priority. We have set forth a very strict
+    privacy policy, which is accessible from all parts of our web site and service, and which is supplied to all Intacct
+    employees.
+    <p></p>
+
+    <p><strong>1. What personally identifiable information does Intacct collect from me? </strong> </p>
+    <p>To register for Intacct's services, you will be asked to supply (that is, to   create) the following: </p>
+    <div>
       <ul>
         <li>Company ID (possibly but not necessarily related to your official company   name). </li>
         <li>User ID, which you select. </li>
@@ -310,8 +194,9 @@ $jQ(document).ready(function(){
       </ul>
       Your password   can be changed at a later time, but the company ID and user ID cannot be.
     </div>
-    <p align="left">Additional personally identifiable information that is collected during the   registration process includes: </p>
-    <div align="left">
+
+    <p>Additional personally identifiable information that is collected during the   registration process includes: </p>
+    <div>
       <ul>
         <li>Company name* </li>
         <li>Company address (street address, town/city, state/province, zip/postal code,   country)* </li>
@@ -327,103 +212,175 @@ $jQ(document).ready(function(){
       </ul>
       * This information is required during the   sign up process
     </div>
-    <p align="left">In order to use Intacct’s services, Intacct requires that you provide the   company name, address (street, town/city, state/province, zip/postal code), and   a contact e-mail address. If you do not wish to provide this information, you   will not be able to use Intacct’s services. </p>
-    <p align="left">Certain of our services ask for select employee information. It is up to you   whether or not to supply this information. However, the usefulness of these   services may depend in part upon the range of information that you provide. </p>
-    <p align="left">If you contact Intacct, we may keep a record of that correspondence. Intacct   also occasionally asks users to complete surveys that we use for research   purposes. Wherever Intacct collects personal information, we will include a link   to this Privacy Policy on that page. </p>
-    <p align="left"><strong>2. How does Intacct protect the privacy of my data?</strong> </p>
-    <p align="left">Only Intacct customers can enter, edit, and use their data. These data are   kept secure and private through the following means: </p>
-    <div align="left">
+
+    <p>
+    In order to use Intacct's services, Intacct requires that you provide the   company name, address (street, town/city,
+    state/province, zip/postal code), and   a contact e-mail address. If you do not wish to provide this information, you
+    will not be able to use Intacct's services.
+    </p>
+
+    <p>
+    Certain of our services ask for select employee information. It is up to you whether or not to supply this information.
+    However, the usefulness of these services may depend in part upon the range of information that you provide.
+    </p>
+
+    <p>
+    If you contact Intacct, we may keep a record of that correspondence. Intacct also occasionally asks users to complete
+    surveys that we use for research   purposes. Wherever Intacct collects personal information, we will include a link to
+    this Privacy Policy on that page.
+    </p>
+
+    <p>
+    <strong>2. How does Intacct protect the privacy of my data?</strong> </p>
+
+    <p>
+    Only Intacct customers can enter, edit, and use their data. These data are kept secure and private through the
+    following means:
+    </p>
+    <div>
       <ul>
         <li>The Intacct system employs 128-bit RSA secure-socket layer (SSL) data   encryption—the same level of encryption required for online banking. Such   128-bit SSL encryption has never been broken, and would require a   trillion-trillion years to crack using current and foreseeable technology,   according to RSA labs. </li>
-        <li>Intacct’s SSL-based network security is supplemented by additional security   protections, including a VeriSign Server ID, also known as a “digital   certificate.” The certificate verifies that all data claimed to have originated   from a customer or partner web site did, in fact, originate from that site, and   that it has not been tampered with along the way. Also based on 128-bit   encryption, a VeriSign digital certificate is the industry standard, and can be   neither forged nor decoded with current or foreseeable technology </li>
-        <li>In order to prevent virus attacks, Intacct has chosen UNIX as the platform   of choice on which to deploy its web and database servers. UNIX is inherently a   virus-free operating system, and has a very strict security system that makes it   virtually impossible to implant a virus. Moreover, without proper   authentication, outside access to Intacct’s customer data is virtually   impossible, given the multiple layers of firewalls and security measures that   have been put in place. </li>
+        <li>Intacct's SSL-based network security is supplemented by additional security   protections, including a VeriSign Server ID, also known as a "digital   certificate." The certificate verifies that all data claimed to have originated   from a customer or partner web site did, in fact, originate from that site, and   that it has not been tampered with along the way. Also based on 128-bit   encryption, a VeriSign digital certificate is the industry standard, and can be   neither forged nor decoded with current or foreseeable technology </li>
+        <li>In order to prevent virus attacks, Intacct has chosen UNIX as the platform   of choice on which to deploy its web and database servers. UNIX is inherently a   virus-free operating system, and has a very strict security system that makes it   virtually impossible to implant a virus. Moreover, without proper   authentication, outside access to Intacct's customer data is virtually   impossible, given the multiple layers of firewalls and security measures that   have been put in place. </li>
         <li>These protections notwithstanding, Intacct is careful to prepare for all   foreseeable contingencies. Intacct therefore automatically backs up all customer   data every night, with back-ups stored on non-degradable media in a fireproof,   off-site location, making it possible to restore customer data should the   unthinkable happen and some portion of the Intacct database be corrupted or   destroyed. </li>
       </ul>
       <strong>3. What are cookies and how does Intacct use them?</strong>
     </div>
-    <p align="left">As part of its provision of individualized, user-configurable accounting   services, Intacct uses “cookies” to store and sometimes track information about   you. A cookie is a small amount of data that is sent to your browser from a web   server and that is subsequently stored on your computer’s hard drive. All areas   within the Intacct service where you subsequently are prompted to log in or that   are customizable require that you accept cookies. (See “What are my choices   regarding collection, use, and distribution of my information?” for more   information on cookies.) </p>
-    <p align="left">Generally, we use cookies to: </p>
-    <div align="left">
+    <p>As part of its provision of individualized, user-configurable accounting   services, Intacct uses "cookies" to store and sometimes track information about   you. A cookie is a small amount of data that is sent to your browser from a web   server and that is subsequently stored on your computer's hard drive. All areas   within the Intacct service where you subsequently are prompted to log in or that   are customizable require that you accept cookies. (See "What are my choices   regarding collection, use, and distribution of my information?" for more   information on cookies.) </p>
+    <p>Generally, we use cookies to: </p>
+    <div>
       <ul>
         <li>Remind us of who you are and to access your account information (stored on   our servers) in order to keep your information private and secure and to make   sure your information and only your information is accessible to you. This   cookie is set when you register or sign in, and is modified, as necessary, when   you sign out of our services. </li>
-        <li>Measure certain traffic patterns, including which areas of Intacct’s web   site and services you have visited and your visiting patterns in the aggregate.   We use this research to understand how our users’ habits are similar or   different from one another so that we can improve the quality of the Intacct   service. </li>
+        <li>Measure certain traffic patterns, including which areas of Intacct's web   site and services you have visited and your visiting patterns in the aggregate.   We use this research to understand how our users' habits are similar or   different from one another so that we can improve the quality of the Intacct   service. </li>
       </ul>
       Intacct also collects IP addresses for system administration   purposes.
     </div>
-    <p align="left">Please note, however, that, while Intacct may sometimes supply aggregate   traffic or behavioral data to third parties, we will never sell or rent any of   the personally identifiable information that we collect from you. This data is   stripped of all personally identifiable information. Thus, it contains no   personal information about you that would allow third parties to identify you,   have access to your financial data, or contact you by telephone, e-mail, or   other means. </p>
-    <p align="left"><strong>4. How does Intacct use my information?</strong> </p>
-    <p align="left">Intacct’s primary goal in collecting personal information is to provide you,   the user, with secure and private individualized accounting services. The   following paragraphs describe how we use this information. </p>
-    <div align="left">
+    <p>Please note, however, that, while Intacct may sometimes supply aggregate   traffic or behavioral data to third parties, we will never sell or rent any of   the personally identifiable information that we collect from you. This data is   stripped of all personally identifiable information. Thus, it contains no   personal information about you that would allow third parties to identify you,   have access to your financial data, or contact you by telephone, e-mail, or   other means. </p>
+    <p><strong>4. How does Intacct use my information?</strong> </p>
+    <p>Intacct's primary goal in collecting personal information is to provide you,   the user, with secure and private individualized accounting services. The   following paragraphs describe how we use this information. </p>
+    <div>
       <ul>
-        <li>Company name and company address (street address, town/city, state/province,   zip/postal code, country), are required for customer identification and for   displaying the official company name on the customer’s financial reports as well   as for following up on customer service or billing matters. </li>
+        <li>Company name and company address (street address, town/city, state/province,   zip/postal code, country), are required for customer identification and for   displaying the official company name on the customer's financial reports as well   as for following up on customer service or billing matters. </li>
         <li>Contact e-mail address is used as a means to provide customers with   information about any changes to or updates in the Intacct services. </li>
         <li>Contact name and contact phone number are used as a means of providing   customers with information about any changes in or updates to the Intacct   services as well as for handling customer service inquiries, billing matters,   and the like. </li>
-        <li>First fiscal month is used to determine the company’s year beginning and end   date for configuring Intacct’s services. </li>
-        <li>Income reporting method is used to instruct the system as to how to handle   the customer’s revenues and expenses (e.g., accrual basis or cash basis). </li>
-        <li>First tax month will be used to determine the dates on which the company’s   tax report year begins and ends (once the tax module is operational). </li>
+        <li>First fiscal month is used to determine the company's year beginning and end   date for configuring Intacct's services. </li>
+        <li>Income reporting method is used to instruct the system as to how to handle   the customer's revenues and expenses (e.g., accrual basis or cash basis). </li>
+        <li>First tax month will be used to determine the dates on which the company's   tax report year begins and ends (once the tax module is operational). </li>
         <li>Federal tax ID is used to further and specifically identify companies or   customers for any reports, tax filings, or other legal documents where this   information may be. </li>
         <li>Legal name and address(es) are used for customer identification and contact   by Intacct pursuant to customer services billing and related matters. </li>
       </ul>
-      Intacct occasionally does research on its users’ demographics,   interests, and behavior based on the information provided to us upon   registration, from our server log files, or from surveys. We do this to better   understand and serve our users and to determine which additional features or   services we should provide to our customers. This research is compiled and   analyzed on an aggregate basis and includes no personally identifiable   information. Intacct may share this aggregated data with advertisers or business   partners. However, no personal identifiable information is shared in this   manner. </div>
-    <p align="left">Intacct does not currently envision changing the way that it uses customers’   personal information. However, should this happen in the future, Intacct will   notify you by e-mail of the impending change (prior to the time the change is   made), and you will have the option to decline to share your information in the   proposed way or, if the new usage is essential to the Intacct service, you will   have the option to discontinue the service at that time and protect the privacy   of your personal information. </p>
-    <p align="left"><strong>5. Who is collecting your information?</strong> </p>
-    <p align="left">When you are on the Intacct site and are asked for personal information, you   are sharing that information with Intacct alone, unless specifically stated   otherwise. If data is being collected and/or maintained by any company other   than Intacct, you will be notified prior to the time of the data collection or   transfer. If you do not want your data to be shared, you can choose not to allow   the transfer by not using that particular service. </p>
-    <p align="left">Promotions that run on Intacct may be sponsored by companies other than   Intacct or may be co-sponsored by Intacct and another company. Some or all data   collected during a promotion may be shared with the sponsor. If data will be   shared, you will be notified prior to the time of data collection or transfer.   You can decide not to participate in the promotion if you do not want your data   to be shared. </p>
-    <p align="left">Please be aware that currently, there are no advertisers on Intacct’s web   site </p>
-    <p align="left"><strong>6. With whom does Intacct share my information?</strong> </p>
-    <p align="left">As a general rule, Intacct will not disclose any of your personally   identifiable information except when we have your permission or under special   circumstances, such as when we believe in good faith that the law requires it or   under the circumstances described below. Please see the Terms of Service or Use   Agreements for each of our products and services for more detailed information   about the limited circumstances under which your personal information may be   shared in this way. The following describes these circumstances: </p>
-    <div align="left">
+      Intacct occasionally does research on its users' demographics,   interests, and behavior based on the information provided to us upon   registration, from our server log files, or from surveys. We do this to better   understand and serve our users and to determine which additional features or   services we should provide to our customers. This research is compiled and   analyzed on an aggregate basis and includes no personally identifiable   information. Intacct may share this aggregated data with advertisers or business   partners. However, no personal identifiable information is shared in this   manner. </div>
+    <p>Intacct does not currently envision changing the way that it uses customers'   personal information. However, should this happen in the future, Intacct will   notify you by e-mail of the impending change (prior to the time the change is   made), and you will have the option to decline to share your information in the   proposed way or, if the new usage is essential to the Intacct service, you will   have the option to discontinue the service at that time and protect the privacy   of your personal information. </p>
+    <p><strong>5. Who is collecting your information?</strong> </p>
+    <p>When you are on the Intacct site and are asked for personal information, you   are sharing that information with Intacct alone, unless specifically stated   otherwise. If data is being collected and/or maintained by any company other   than Intacct, you will be notified prior to the time of the data collection or   transfer. If you do not want your data to be shared, you can choose not to allow   the transfer by not using that particular service. </p>
+    <p>Promotions that run on Intacct may be sponsored by companies other than   Intacct or may be co-sponsored by Intacct and another company. Some or all data   collected during a promotion may be shared with the sponsor. If data will be   shared, you will be notified prior to the time of data collection or transfer.   You can decide not to participate in the promotion if you do not want your data   to be shared. </p>
+    <p>Please be aware that currently, there are no advertisers on Intacct's web   site </p>
+    <p><strong>6. With whom does Intacct share my information?</strong> </p>
+    <p>As a general rule, Intacct will not disclose any of your personally   identifiable information except when we have your permission or under special   circumstances, such as when we believe in good faith that the law requires it or   under the circumstances described below. Please see the Terms of Service or Use   Agreements for each of our products and services for more detailed information   about the limited circumstances under which your personal information may be   shared in this way. The following describes these circumstances: </p>
+    <div>
       <ul>
         <li>Many promotions offer opportunities to request additional information from   sponsors. By requesting more information, you give Intacct permission to   transfer your personal information to the sponsor so that they can fulfill your   request. In many instances, only your e-mail address will be shared. If more   information will be shared with the sponsor, you will be notified prior to the   transfer. </li>
-        <li>Intacct also may disclose account information in special cases when we have   reason to believe that disclosing this information is necessary to identify,   contact, or bring legal action against someone who may be violating Intacct’s   Terms of Service or may be causing injury to or interference with (either   intentionally or unintentionally) Intacct’s rights or property, other Intacct   users, or anyone else that could be harmed by such activities. Intacct may   disclose or access account information when we believe in good faith that the   law requires it and for specific administrative and other purposes that we deem   necessary to maintain, service, and improve our products and services. </li>
+        <li>Intacct also may disclose account information in special cases when we have   reason to believe that disclosing this information is necessary to identify,   contact, or bring legal action against someone who may be violating Intacct's   Terms of Service or may be causing injury to or interference with (either   intentionally or unintentionally) Intacct's rights or property, other Intacct   users, or anyone else that could be harmed by such activities. Intacct may   disclose or access account information when we believe in good faith that the   law requires it and for specific administrative and other purposes that we deem   necessary to maintain, service, and improve our products and services. </li>
       </ul>
       <strong>7. How do I obtain access to my personal information?</strong>
     </div>
-    <p align="left">Because all personal information is part of the individual account, any   person who has been authenticated to access his/her own account will have access   to his/her personal information as long as he/she has entered the correct   company ID, user ID and password. </p>
-    <p align="left"><strong>8. What are my choices regarding collection, use, and distribution of my   information?</strong> </p>
-    <p align="left">Intacct may, from time to time, send you e-mail regarding our products and   services. Only Intacct (or agents working on behalf of Intacct and under   confidentiality agreements) will send you these direct mailings and only if you   indicated that you do not object to these offers. From the beginning of the   reception of such e-mails, there will be the option available to you of   discontinue receiving such mailings. This option will be available solely   through those mailings and not through the sign-in process. </p>
-    <p align="left">You also have choices with respect to cookies. By modifying your browser   preferences, you have the choice to accept all cookies, to be notified when a   cookie is set, or to reject all cookies. If you choose to reject all cookies,   you will be unable to use Intacct’s services. </p>
-    <p align="left">Intacct does not sell or rent customer information to anyone. We will notify   you at the time of data collection or transfer if your data will be shared with   a third party and you will always have the option of not permitting the   transfer. In particular, if you do not wish to allow your data to be shared with   Intacct’s partners you can choose not to use a particular partner service. </p>
-    <p align="left"><strong>9. What is Intacct’s policy on allowing me to update, correct, or delete   my personally identifiable information?</strong> </p>
-    <p align="left">Your Intacct account can be deleted or deactivated, but doing so will result   in your not being able to access any area of Intacct’s services. If you want to   edit and/or change any part of your personally identifiable information other   than company ID or user ID, which cannot be changed without creating a new   account and/or new user, you can do so at any time by using your company ID,   user ID, and password to access your account. Please contact <a href="mailto:privacypolicy@intacct.com">privacypolicy@intacct.com</a> for   further instructions about deleting or deactivating your Intacct account.   Residual information will remain within our archive records. </p>
-    <p align="left"><strong>10. How does Intacct protect my financial and health-related   information?</strong> </p>
-    <p align="left">Keeping your financial information private is vitally important to us. Just   as we safeguard all personally identifiable information, Intacct will never rent   or sell your personal financial information. </p>
-    <p align="left">Finally, Intacct does not at this time collect any health-related personal   information. </p>
-    <p align="left"><strong>11. What security precautions are in place to protect the loss, misuse, or   alteration of my information?</strong> </p>
-    <p align="left">Your Intacct financial information and Intacct profile are password-protected   so that you and only you and your company’s authorized users have access to this   information. You may edit your Intacct financial information and Intacct profile   at any time by using your company ID, user ID, and password. </p>
-    <p align="left">We recommend that you do not divulge your password to anyone. Intacct will   never ask you for your password in an unsolicited phone call or in an   unsolicited e-mail. Also remember to sign out of your Intacct account and close   your browser window when you have finished your work. This will ensure that   others cannot access your personal information if you share a computer with   someone else or are using a computer in a public place like a library or   Internet cafe. </p>
-    <p align="left">Intacct may store your personal data in a location different from its   physical offices. At present, all customer information is stored on servers   located in the United States. Whenever Intacct handles personal information as   described above, regardless of where this occurs, Intacct takes steps to ensure   that your information is treated securely and in accordance with the relevant   Terms of Service and Use Agreement and this Privacy Policy. </p>
-    <p align="left">Intacct places top priority on the security and privacy of its customer data,   and, as spelled out in Intacct’s Terms of Service agreement, strives for the   highest practicable degree of security. Be advised, however, that, for a variety   of inherent technical reasons, no data transmission over the Internet can be   guaranteed to be 100% secure. As a result, while we strive to protect your   personal information, Intacct cannot absolutely ensure or warrant the security   of any information that you transmit to us or from our online services, either   during or subsequent to transmission. Hence, while we have architected our   system to be extremely secure, you ultimately transmit such information at your   own risk. </p>
-    <p align="left"><strong>12. How does Intacct protect children’s privacy?</strong> </p>
-    <p align="left">Because the Intacct service is a business service, it is neither designed nor   intended to be used by children. The site provides no content likely to be of   interest or relevance to children, and Intacct neither solicits nor knowingly   accepts registrations for its service from children. In any event, there is no   content on the Intacct web site nor on any of Intacct’s services that is   offensive to or inappropriate for children. </p>
-    <p align="left"><strong>13. What else should I know about my privacy? </strong> </p>
-    <p align="left">Please keep in mind that whenever you voluntarily disclose personal   information online—for example, on message boards, through e-mail, or in chat   areas-that information can be collected and used by others. In short, if you   post personal information online that is accessible to the public, you may   receive unsolicited messages from other parties in return. Having said that,   there is no content on the Intacct site nor any of Intacct’s services that would   be offensive to or inappropriate for children. </p>
-    <p align="left">Ultimately, you are solely responsible for maintaining the secrecy of your   company ID, user ID, password, and/or any account information. Please be careful   and responsible whenever you are online or otherwise communicating with people   about your Intacct account. </p>
-    <p align="left"><strong>14. Where can I address any questions I might have about the privacy   policy?</strong> </p>
-    <p align="left">You may direct questions regarding this Privacy Policy to <a href="mailto:privacypolicy@intacct.com">privacypolicy@intacct.com</a> or, by   telephone, to Intacct’s customer support staff at 877.704.3700. </p>
+    <p>Because all personal information is part of the individual account, any   person who has been authenticated to access his/her own account will have access   to his/her personal information as long as he/she has entered the correct   company ID, user ID and password. </p>
+    <p><strong>8. What are my choices regarding collection, use, and distribution of my   information?</strong> </p>
+    <p>Intacct may, from time to time, send you e-mail regarding our products and   services. Only Intacct (or agents working on behalf of Intacct and under   confidentiality agreements) will send you these direct mailings and only if you   indicated that you do not object to these offers. From the beginning of the   reception of such e-mails, there will be the option available to you of   discontinue receiving such mailings. This option will be available solely   through those mailings and not through the sign-in process. </p>
+    <p>You also have choices with respect to cookies. By modifying your browser   preferences, you have the choice to accept all cookies, to be notified when a   cookie is set, or to reject all cookies. If you choose to reject all cookies,   you will be unable to use Intacct's services. </p>
+    <p>Intacct does not sell or rent customer information to anyone. We will notify   you at the time of data collection or transfer if your data will be shared with   a third party and you will always have the option of not permitting the   transfer. In particular, if you do not wish to allow your data to be shared with   Intacct's partners you can choose not to use a particular partner service. </p>
+    <p><strong>9. What is Intacct's policy on allowing me to update, correct, or delete   my personally identifiable information?</strong> </p>
+    <p>Your Intacct account can be deleted or deactivated, but doing so will result   in your not being able to access any area of Intacct's services. If you want to   edit and/or change any part of your personally identifiable information other   than company ID or user ID, which cannot be changed without creating a new   account and/or new user, you can do so at any time by using your company ID,   user ID, and password to access your account. Please contact <a href="mailto:privacypolicy@intacct.com">privacypolicy@intacct.com</a> for   further instructions about deleting or deactivating your Intacct account.   Residual information will remain within our archive records. </p>
+    <p><strong>10. How does Intacct protect my financial and health-related   information?</strong> </p>
+    <p>Keeping your financial information private is vitally important to us. Just   as we safeguard all personally identifiable information, Intacct will never rent   or sell your personal financial information. </p>
+    <p>Finally, Intacct does not at this time collect any health-related personal   information. </p>
+    <p><strong>11. What security precautions are in place to protect the loss, misuse, or   alteration of my information?</strong> </p>
+    <p>Your Intacct financial information and Intacct profile are password-protected   so that you and only you and your company's authorized users have access to this   information. You may edit your Intacct financial information and Intacct profile   at any time by using your company ID, user ID, and password. </p>
+    <p>We recommend that you do not divulge your password to anyone. Intacct will   never ask you for your password in an unsolicited phone call or in an   unsolicited e-mail. Also remember to sign out of your Intacct account and close   your browser window when you have finished your work. This will ensure that   others cannot access your personal information if you share a computer with   someone else or are using a computer in a public place like a library or   Internet cafe. </p>
+    <p>Intacct may store your personal data in a location different from its   physical offices. At present, all customer information is stored on servers   located in the United States. Whenever Intacct handles personal information as   described above, regardless of where this occurs, Intacct takes steps to ensure   that your information is treated securely and in accordance with the relevant   Terms of Service and Use Agreement and this Privacy Policy. </p>
+    <p>Intacct places top priority on the security and privacy of its customer data,   and, as spelled out in Intacct's Terms of Service agreement, strives for the   highest practicable degree of security. Be advised, however, that, for a variety   of inherent technical reasons, no data transmission over the Internet can be   guaranteed to be 100% secure. As a result, while we strive to protect your   personal information, Intacct cannot absolutely ensure or warrant the security   of any information that you transmit to us or from our online services, either   during or subsequent to transmission. Hence, while we have architected our   system to be extremely secure, you ultimately transmit such information at your   own risk. </p>
+    <p><strong>12. How does Intacct protect children's privacy?</strong> </p>
+    <p>Because the Intacct service is a business service, it is neither designed nor   intended to be used by children. The site provides no content likely to be of   interest or relevance to children, and Intacct neither solicits nor knowingly   accepts registrations for its service from children. In any event, there is no   content on the Intacct web site nor on any of Intacct's services that is   offensive to or inappropriate for children. </p>
+    <p><strong>13. What else should I know about my privacy? </strong> </p>
+    <p>Please keep in mind that whenever you voluntarily disclose personal   information online—for example, on message boards, through e-mail, or in chat   areas-that information can be collected and used by others. In short, if you   post personal information online that is accessible to the public, you may   receive unsolicited messages from other parties in return. Having said that,   there is no content on the Intacct site nor any of Intacct's services that would   be offensive to or inappropriate for children. </p>
+    <p>Ultimately, you are solely responsible for maintaining the secrecy of your   company ID, user ID, password, and/or any account information. Please be careful   and responsible whenever you are online or otherwise communicating with people   about your Intacct account. </p>
+    <p><strong>14. Where can I address any questions I might have about the privacy   policy?</strong> </p>
+    <p>You may direct questions regarding this Privacy Policy to <a href="mailto:privacypolicy@intacct.com">privacypolicy@intacct.com</a> or, by   telephone, to Intacct's customer support staff at 877.704.3700. </p>
     <div class="clear">&nbsp;</div>
-  </div>
-    <div class="clear" style="line-height:0px;height:0px;background-color:#FFFFFF;">
-	<img src="templates/images/spacer.gif" width="1" height="1"></div>
-</div>
-   <div class="bottom_gray_bar"><img src="/templates/images/spacer.gif" height="7" width="1" alt=""></div>
+
+
+ </div> <!-- content_area_in -->
+
+
+ 		</div> <!-- content_area_wide -->
+ 
+		<div class="clear" style="line-height:0px;height:0px;background-color:#FFFFFF;">
+		<img src="/templates/images/spacer.gif" width="1" height="1">
+		</div>
+	</div> <!-- content_container --> <div class="bottom_gray_bar"><img src="/templates/images/spacer.gif" height="7" width="1" alt=""></div>
 
   <div class="bottom_area">
 
-    <div id="bottom_global_nav"><a href="/">Home</a> | <a href="/contact_us/">Contact</a> | <a href="/privacy_policy.php">Privacy Policy</a> | <a href="/sitemap.php">Sitemap</a></div>
+    <div id="bottom_global_nav">
+	    <a href="/">Home</a> |
+<a href="/contact_us/">Contact</a> |
+<a href="/privacy_policy_website">Privacy Policy</a> |
+<a href="/sitemap.php">Sitemap</a>    </div>
 
-    <div class="bottom_global_copyright">Copyright © <script>document.write( new Date().getFullYear() ); </script>2020 Intacct Corporation</div>
+    <div class="bottom_global_copyright">
+    Copyright © <script>document.write( new Date().getFullYear() ); </script>2020 Intacct Corporation
+    </div>
 
   </div>
-
-
+<script type="text/javascript" src="/templates/lib/scripts/readmore.js"></script>
+<div class="readmore">
+	<div style="padding:10px;">
+		<div id="intro-text">
+			<span style="font-weight:bold">Cloud-Based Financial Accounting Software:</span>
+			Intacct is a market and technology leader in cloud computing for
+			<a href="/products/intacct.php">financial software for businesses</a> and
+			<a href="/solutions/accounting_professionals.php">CPA firms</a>.&nbsp;The Intacct accounting software system includes
+			<a href="/products/intacct_financials_accounting.php">accounting</a>,
+			<a href="/products/intacct_revenue_management.php">contract management</a>,
+			<a href="/products/intacct_revenue_management.php">revenue recognition</a>,
+			<a href="/products/intacct_purchase_inventory.php">inventory</a>,
+			<a href="/products/intacct_purchase_inventory.php">purchasing</a>,
+			<a href="/products/intacct_financials_accounting.php">vendor management</a>,
+			<a href="/products/intacct_global_consolidations.php">financial consolidation</a> and
+			<a href="/products/intacct_insight.php">financial reporting applications</a>, all delivered over the Internet via cloud computing.
+		</div>
+		<div style="margin: 0px; position: static; overflow: hidden; height: 0px;"><div id="more-text" style="padding: 10px 0px 0px; margin: -136px 0px 0px;">
+			Bringing cloud computing to finance and accounting, Intacct's award-winning applications are the preferred financial applications for AICPA business solutions. Thousands of
+			companies and hundreds of accounting firms already use Intacct's
+			<a href="/products/intacct.php">financial management</a>,
+			<a href="/products/intacct_revenue_management.php">revenue management</a>, and
+			<a href="/products/intacct_order_management.php">accounting software to automate order management</a>,
+			<a href="/products/intacct_project_accounting.php">streamline project accounting</a>,
+			<a href="/products/intacct_time_expenses.php">optimize time and billing management</a>,
+			<a href="/products/intacct_global_consolidations.php">speed financial consolidations</a> and
+			<a href="/products/intacct_insight.php">improve compliance and transparency</a>.
+			<br><br>
+			The Intacct system includes
+			<a href="/products/intacct_financials_accounting.php">accounting</a>,
+			<a href="/products/intacct_revenue_management.php">contract management</a>,
+			<a href="/products/intacct_revenue_management.php">revenue recognition</a>,
+			<a href="/products/intacct_purchase_inventory.php">inventory</a>,
+			<a href="/products/intacct_purchase_inventory.php">purchasing</a>,
+			<a href="/products/intacct_financials_accounting.php">vendor management</a>,
+			<a href="/products/intacct_multi_currency_mgmt.php">multi-currency management</a>,
+			<a href="/products/intacct_global_consolidations.php">financial consolidation</a> and
+			<a href="/products/intacct_insight.php">financial reporting applications</a>, all delivered over the Internet via cloud computing.
+			Our cloud computing solution provides you with anywhere, anytime access to your
+			business accounting software— all you need is a web browser and an Internet connection.
+		</div></div>
+		<div style="text-align:right;">
+			<a href="#" id="v_toggle">Read more &gt;&gt;</a>
+		</div>
+	</div>
+</div>
+</div> <!-- main_container -->
 <script src="http://munchkin.marketo.net/munchkin.js" type="text/javascript"></script>
-
 <script>mktoMunchkin("473-QSL-641");</script>
-
- <script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0297.js"> </script>
-
- </div>
-
+<script type="text/javascript" src="http://dnn506yrbagrg.cloudfront.net/pages/scripts/0011/0297.js"></script>
 
 </body></html>
