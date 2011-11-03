@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beknowledge.com privacy policy that was archived on 2010-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100919150745id_/http%3A//www.beknowledge.com/%3Fpage_id%3D34) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beknowledge.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103123239id_/http%3A//www.beknowledge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Balaji eKnowledge
 
@@ -13,6 +13,3 @@ At no point in time will Beknowledge.com working under any of its products and/o
 Beknowledge.com occasionally ties up with generic partners for hosting their media content or for strategic purposes. These partners might occasionally be given a privileged status in our ecosystem. Under such a scheme, specific parts of user information might be shared with these partners to provide the user with enhanced services. This will always be kept completely transparent and will not take place without user consent.
 
 This privacy policy is intended to be a generic guideline while using our website Beknowledge.com.Beknowledge.com reserves the right to change certain aspects of this policy as and when it deems fit. The users will always be notified of such changes and will be given an option to opt-out if they disagree with the revised policies.
-
-  
-
