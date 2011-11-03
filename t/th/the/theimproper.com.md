@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2011-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110101110439id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theimproper.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103093858id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.*
 
-# Privacy | TheImproper, The Cutting Edge in Arts & Entertainment
+# Privacy | TheImproper.com
 
 Please read this statement carefully before accessing and using TheImproper.com. Your use of TheImproper.com indicates your agreement to abide by the Terms in effect.
 
@@ -51,3 +51,18 @@ If you have any questions or suggestions regarding our privacy policy, please co
 **DMCA Compliance  
 **  
 TheImproper is fully compliant with the Digital Millennium Copyright Act. If material is posted on this site on which you believe you hold a copyright, please contact us immediately and accept our assurance and our apologies that the material was posted in error and without knowledge of the said copyright and will be removed immediately upon notification in accordance with Title 17, United States Code, Section 512(c)(1) also known as the Safe Harbor provision of the Act. Contact: Keith Girard at kgirard@theimproper.com, or by calling 646-246-4477, if you any questions or claims regarding this notice. 
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.theimproper.com%2Fprivacy%20\(via%20@sociablesite\) "Twitter")
+  * [](http://digg.com/submit?phase=2&url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&title=Privacy&bodytext=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c "Digg")
+  * [](http://www.google.com/bookmarks/mark?op=edit&bkmk=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&title=Privacy&annotation=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c "Google Bookmarks")
+  * [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&title=Privacy "StumbleUpon")
+  * [](http://delicious.com/post?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&title=Privacy&notes=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c "Delicious")
+  * [](http://www.google.com/reader/link?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&title=Privacy&srcURL=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&srcTitle=TheImproper.com+ "Google Reader")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&title=Privacy&source=TheImproper.com+&summary=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c "LinkedIn")
+  * [](http://www.blinklist.com/index.php?Action=Blink/addblink.php&Url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&Title=Privacy "BlinkList")
+  * [](http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&t=Privacy "Myspace")
+  * [](http://reddit.com/submit?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&title=Privacy "Reddit")
+  * [](http://www.tumblr.com/share?v=3&u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&t=Privacy&s=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c "Tumblr")
+  *   * [](https://mail.google.com/mail/?view=cm&fs=1&to&su=Privacy&body=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&ui=2&tf=1&shva=1 "email")
+  * 
+
