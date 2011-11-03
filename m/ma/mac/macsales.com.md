@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2011-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110511090335id_/http%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macsales.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103090007id_/http%3A//eshop.macsales.com/Service/privacy) for the most accurate reproduction.*
 
 # OWC Terms & Policies
 
@@ -58,7 +58,7 @@ BACK TO TOP
 
 ### Newsletters
 
-OWC offers two e-mail newsletters that may be subscribed to at no cost. One newsletter is primarily focused on industry news and tech tips while the other provides regular updates on special offers and deals. These are both opt-in Newsletters that you have the option to join (click here for more information), but are never automatically sent to you. You will not receive either newsletter unless you take action to join and further confirm your subscription via the opt-in URL provided in the email. You can opt-out of any OWC newsletter at any time via the link provided at the bottom of each newsletter mailing.
+OWC offers two e-mail newsletters that may be subscribed to at no cost. One newsletter is primarily focused on industry news and tech tips while the other provides regular updates on special offers and deals. These are both opt-in Newsletters that you have the option to join ([click here for more information](https://eshop.macsales.com/shop/macsales_newsletter)), but are never automatically sent to you. You will not receive either newsletter unless you take action to join and further confirm your subscription via the opt-in URL provided in the email. You can opt-out of any OWC newsletter at any time via the link provided at the bottom of each newsletter mailing.
 
 BACK TO TOP
 
