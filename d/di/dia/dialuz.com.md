@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2010-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100706235119id_/http%3A//www.dialuz.com/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dialuz.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103093342id_/http%3A//www.dialuz.com/privacy_policy.jsp) for the most accurate reproduction.*
 
 # India's Local Search Engine - Dialuz.com Hyderabad
 
@@ -6,7 +6,7 @@
 
 ### Privacy Policy
 
-In the course of registering for and availing various services we provide from time to time through our website www.Dialuz.com you may be required to give your name, residence address, workplace address, email address, date of birth, educational qualifications and similar Personal Information ("Personal Information"). The Personal Information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media. At Anta-online we recognize that privacy is important. This Privacy Policy applies to all of the products, services offered by Anta-Online.
+In the course of registering for and availing various services we provide from time to time through our website [www.dialuz.com](http://dialuz.com/) you may be required to give your name, residence address, workplace address, email address, date of birth, educational qualifications and similar Personal Information ("Personal Information"). The Personal Information is used for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about our services. Unless otherwise stated explicitly, this Policy applies to Personal Information as disclosed on any of the Media. At Dialuz.com we recognize that privacy is important. This Privacy Policy applies to all of the products, services offered by Dialuz.com.
 
 Personal Information will be kept confidential and will be used for our research, marketing, and strategic client analysis objectives and other internal business purposes only. We do not share, sell or rent Personal Information except that in case you are a customer of our search services through any of the Media, your Personal Information shall be shared with our subscribers/advertisers and you shall be deemed to have given consent to the same. We will share Personal Information only under one or more of the following circumstances: - If we have your consent or deemed consent to do so - If we are compelled by law (including court orders) to do so.
 
