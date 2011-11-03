@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf-to-earn.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503003910id_/http%3A//surf-to-earn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-to-earn.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103101456id_/http%3A//surf-to-earn.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Surf to Earn Traffic Exchange
 
