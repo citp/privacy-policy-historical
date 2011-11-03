@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextsteptestprep.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504121640id_/http%3A//www.nextsteptestprep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextsteptestprep.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103114555id_/http%3A//www.nextsteptestprep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Next Step Test Prep
 
