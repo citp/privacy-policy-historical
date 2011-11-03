@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newagestore.com privacy policy that was archived on 2011-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110103001855id_/http%3A//www.newagestore.com/Terms-of-Use.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newagestore.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104005831id_/http%3A//www.newagestore.com/Terms-of-Use.aspx) for the most accurate reproduction.*
 
 # Terms of Use @ NewAgeStore.com
 
