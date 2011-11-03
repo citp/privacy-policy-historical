@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdigi.co.uk privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506020216id_/http%3A//www.webdigi.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdigi.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103015926id_/http%3A//www.webdigi.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Webdigi Web Development
 
