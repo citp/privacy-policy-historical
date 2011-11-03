@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515075022id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designforjoomla.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103071614id_/http%3A//designforjoomla.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Joomla Templates, Joomla Extensions for the Joomla CMS - Privacy Policy
 
@@ -22,17 +22,17 @@ We do not sell user list of our users to any third party company for any further
 
 ### Popular D4J Joomla! Templates Club Templates
 
-**Tick Tock** is a very impressive template from D4J Joomla! Templates ...
+**BreakingOnTop** is a fresh design added to D4J Joomla! Templates Club. ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/tick_tock.php)  
+| [](http://designforjoomla.com/home/joomla_templates_club/breakingontop.php)  
 ---|---  
   
-**Team Three** is a very modern and impressive design. 3-color design seems ...
+**Online Business** is an elastic design, smart use of color, excellent mark ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/team_three.php)  
+| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/onlinebusiness.php)  
 ---|---  
   
-**Jet 30** is useful for business site with many flexible modules. It can ...
+**GT1** is a green sheme colour design added to D4J Joomla ...
 
-| [](http://designforjoomla.com/joomla_templates/joomla_templates_club/jet_30.php)  
+| [](http://designforjoomla.com/home/joomla_templates_club/gt1.php)  
 ---|---
