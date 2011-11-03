@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the dhgate.com privacy policy that was archived on 2011-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110624052121id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dhgate.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103070258id_/http%3A//help.dhgate.com/help/buyer_about_usen.php%3Fcatpid%3Dg4) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta content="China Wholesale Marketplace for you to buy wholesale lots direct from China at factory prices." name="description">
@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta content="MSHTML 6.00.2900.3020" name="GENERATOR">
 <title>DHgate - China Wholesale Marketplace - About Us</title>
-<link href="http://image.dhgate.com/dhs/fob/css/about/about.css" rel="stylesheet" type="text/css">
+<link href="http://image.dhgate.com/dhs/fob/css/about/about201108.css" rel="stylesheet" type="text/css">
 
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script language="javascript" src="http://image.dhgate.com/b/help/js/jquery-1.3.2.min.js"></script>
 
@@ -15,17 +15,27 @@
 
 </head>
 <body>
-<script type="text/javascript" src="http://image.dhgate.com/2010/public/js/header_globalnhp20110118.js"></script>
-
+<!-- 
+<script type="text/javascript" src="http://image.dhgate.com/2010/public/js/headerglobal201108.js"></script>
+ -->
+<script type="text/javascript" src="http://image.dhgate.com/dhs/fob/js/global/headerglobal201108.js"></script>
+<!-- 张永军 2011-08-23 --> 
 <script type="text/javascript">
 document.domain = 'dhgate.com';
 $(document).ready(function(){
   //Categories();
-    var head_categories = new HeaderCategories();
-    var head_community = new HeaderCategories({iButton:"community",iContent:"community_lists",leftpx:1});     
-    var helpit_lists = new HeaderCategories({iButton:"helpit",iContent:"helpit_lists",leftpx:1});
-	$("ul.sf-menu").superfish({delay:0}); 
-    serchboxval();
+	  
+//    var head_categories = new HeaderCategories();
+//    var head_community = new HeaderCategories({iButton:"community",iContent:"community_lists",leftpx:1});     
+///   var helpit_lists = new HeaderCategories({iButton:"helpit",iContent:"helpit_lists",leftpx:1});
+//	$("ul.sf-menu").superfish({delay:0}); 
+//    serchboxval();
+	searchInputDefaultText();
+	var DH_Header_Other_Entrance = new headerOtherEntrance({ triggerEle: [ 'community', 'help' ], listEle: [ 'communityLists', 'helpLists' ], hoverClass: [ 'community-hover', 'help-hover' ] });
+	var DH_Search_Category = new searchSimulationSelect({ url: 'http://www.dhgate.com/wholesale/cate.do', reverseCatalog: [ [ 'Backpacks', 150101 ], [ '∟Handbags &amp; Bags', 1501 ], [ '∟Bags , Shoes &amp; Accessories', 15 ] ] });
+	var DH_Show_Common_Directory = new showCommonDirectory({ url: 'http://www.dhgate.com/common/navilist.jsp' });
+	searchkeyEnter('searchkey');
+    
     if(typeof(signstate) != "undefined"){
         $("#naviinfo").prepend(signstate);
         }
@@ -48,7 +58,8 @@ $(document).ready(function(){
 <script type="text/javascript">
 function headsearch(){
     var searchkey=$("#searchkey").val();
-    var catalog=$("select[name='catalog']").val();
+ //   var catalog=$("select[name='catalog']").val();
+    var catalog=$("input[name='catalog']").val();
     if($.trim(searchkey)=="" || $.trim(searchkey)=="Search Products"){
         $("#searchkey").val("");
         if(catalog=="" || catalog=="999"){
@@ -78,9 +89,8 @@ function doheadsearch(){
 </script> 
 <script type="text/javascript" src="http://www.dhgate.com/common/cart/forpersate.do?act=LiveHelpName"></script>
 <script language="javascript" src="http://www.dhgate.com/common/validforPHP.jsp"></script>
-<div id="lists">    <span class="border">    	<div class="left_a">		<ul class="sf-menu sf-js-enabled sf-shadow">				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+apparel.html" class="bt sf-with-ul">Apparel<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+costume.html" rel="nofollow">Costumes &amp; Cosplay</a></li>							<li><a href="http://www.dhgate.com/wholesale+intimate.html" rel="nofollow">Intimate Apparel</a></li>							<li><a href="http://www.dhgate.com/wholesale+mens+clothing.html" rel="nofollow">Men's Clothing</a></li>							<li><a href="http://www.dhgate.com/wholesale/men-s-outerwear/c140504.html" rel="nofollow">Men's Outerwear</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-t-shirts/c140515.html" rel="nofollow">Men's T-shirts</a></li>							<li><a href="http://www.dhgate.com/wholesale+wedding+apparel+accessories.html" rel="nofollow">Wedding Apparel &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+womens+clothing.html" rel="nofollow">Women's Clothing</a></li>							<li><a href="http://www.dhgate.com/wholesale+dresses.html" rel="nofollow">Women's Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/women-s-outerwear/c141006.html" rel="nofollow">Women's Outerwear</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+baby.html" class="bt sf-with-ul">Baby &amp; Kids<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/baby-clothing/c2808.html" rel="nofollow">Baby Clothing</a></li>							<li><a href="http://www.dhgate.com/wholesale/baby-diapering/c2804.html" rel="nofollow">Baby Diapering</a></li>							<li><a href="http://www.dhgate.com/wholesale/baby-feeding/c2817.html" rel="nofollow">Baby Feeding</a></li>							<li><a href="http://www.dhgate.com/wholesale+children+accessories.html" rel="nofollow">Children's Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/childrens-outdoor/c2801.html" rel="nofollow">Children's Outdoors</a></li>							<li><a href="http://www.dhgate.com/wholesale/girls-clothing/c2831.html" rel="nofollow">Girls' Clothing</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+fashion.html" class="bt sf-with-ul">Bags, Shoes &amp; Accessories<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+handbags.html" rel="nofollow">Handbags &amp; Bags</a></li>							<li><a href="http://www.dhgate.com/wholesale+hats.html" rel="nofollow">Hats</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-belts-buckles/c150302.html" rel="nofollow">Men's Belts &amp; Buckles</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-key-chains/c150305.html" rel="nofollow">Men's Key Chains</a></li>							<li><a href="http://www.dhgate.com/wholesale+mens+shoes.html" rel="nofollow">Men's Shoes</a></li>							<li><a href="http://www.dhgate.com/wholesale/mens-ties/c150309.html" rel="nofollow">Men's Ties</a></li>							<li><a href="http://www.dhgate.com/wholesale+sunglasses.html" rel="nofollow">Sunglasses</a></li>							<li><a href="http://www.dhgate.com/wholesale+womens+scarves.html" rel="nofollow">Women's Scarves &amp; Wraps</a></li>							<li><a href="http://www.dhgate.com/wholesale+womens+shoes.html" rel="nofollow">Women's Shoes</a></li>							<li><a href="http://www.dhgate.com/wholesale/womens-wallets/c1511.html" rel="nofollow">Women's Wallets</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+cameras.html" class="bt sf-with-ul">Cameras &amp; Photo<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/batteries/c120302.html" rel="nofollow">Batteries</a></li>							<li><a href="http://www.dhgate.com/wholesale/china-brand-camcorders/c120402.html" rel="nofollow">China Brand Camcorders</a></li>							<li><a href="http://www.dhgate.com/wholesale/digital-camera-accessories/c1205.html" rel="nofollow">Digital Camera Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/lenses-filters/c1212.html" rel="nofollow">Lenses &amp; Filters</a></li>							<li><a href="http://www.dhgate.com/wholesale/lighting-studio-equipment/c1213.html" rel="nofollow">Lighting &amp; Studio Equipment</a></li>							<li><a href="http://www.dhgate.com/wholesale+point+shoot.html" rel="nofollow">Point &amp; Shoot</a></li>							<li><a href="http://www.dhgate.com/wholesale/projection-equipment/c1218.html" rel="nofollow">Projection Equipment</a></li>							<li><a href="http://www.dhgate.com/wholesale+spy+cameras.html" rel="nofollow">Spy Cameras &amp; Supports</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+car+parts.html" class="bt sf-with-ul">Cars<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/automotive-tools/c2113.html" rel="nofollow">Automotive Tools</a></li>							<li><a href="http://www.dhgate.com/wholesale/car-truck-replacement-parts/c2110.html" rel="nofollow">Car &amp; Truck Replacement Parts</a></li>							<li><a href="http://www.dhgate.com/wholesale+car+accessories.html" rel="nofollow">Car Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/car-electronics/dcp.html" rel="nofollow">Car Electronics</a></li>							<li><a href="http://www.dhgate.com/wholesale+motorcycle+apparel.html" rel="nofollow">Motorcycle Apparel</a></li>							<li><a href="http://www.dhgate.com/wholesale/motorcycle-parts/c2111.html" rel="nofollow">Motorcycle Parts</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+cell+phones.html" class="bt sf-with-ul">Cell Phones<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/bar-cell-phones/c130721.html" rel="nofollow">Bar Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale+cell+phone+accessories.html?" rel="nofollow">Accessories &amp; Parts</a></li>							<li><a href="http://www.dhgate.com/wholesale/cell-phone-batteries/c130103.html" rel="nofollow">Batteries</a></li>							<li><a href="http://www.dhgate.com/wholesale+bluetooth+headsets.html?" rel="nofollow">Bluetooth Headsets</a></li>							<li><a href="http://www.dhgate.com/wholesale/cell-phone-car-kits-car-chargers/c130106.html" rel="nofollow">Car Kits &amp; Car Chargers</a></li>							<li><a href="http://www.dhgate.com/wholesale+iphone+screen+protectors.html" rel="nofollow">Screen Protectors</a></li>							<li><a href="http://www.dhgate.com/wholesale+china+cell+phones.html" rel="nofollow">China Brand Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/dual-sim-card-cell-phones/c130705.html" rel="nofollow">Dual SIM Card Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/multi-function-cell-phones/dcp.html" rel="nofollow">Multifunction Cell Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/sim-card-holders-for-iphone/c130132.html" rel="nofollow">SIM Card Holders for iPhone</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+computers.html" class="bt sf-with-ul">Computers<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/computer-usb-gadgets/c1616.html" rel="nofollow">USB Gadgets</a></li>							<li><a href="http://www.dhgate.com/wholesale+computer+webcams.html" rel="nofollow">Webcams</a></li>							<li><a href="http://www.dhgate.com/wholesale+flash+memory+drives.html" rel="nofollow">Flash Memory Drives</a></li>							<li><a href="http://www.dhgate.com/wholesale/mobile-internet-devices-(mid)/c160612.html" rel="nofollow">Mobile Internet Devices (MID)</a></li>							<li><a href="http://www.dhgate.com/wholesale/networking-communications/c1608.html" rel="nofollow">Networking &amp; Communications</a></li>							<li><a href="http://www.dhgate.com/wholesale/printer-supplies-accessories/c1612.html" rel="nofollow">Printer Supplies &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/tablet-pc-notebooks/c160611.html" rel="nofollow">Tablet PC &amp; Notebooks</a></li>							<li><a href="http://www.dhgate.com/wholesale/wireless-adapters/c161803.html" rel="nofollow">Wireless Adapters</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+electronics.html" class="bt sf-with-ul">Electronics<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/accessories-for-apple-ipod/dcp.html" rel="nofollow">Accessories for iPod</a></li>							<li><a href="http://www.dhgate.com/wholesale+gadgets.html" rel="nofollow">Gadgets</a></li>							<li><a href="http://www.dhgate.com/wholesale+headphones.html" rel="nofollow">Headphones &amp; Earphones</a></li>							<li><a href="http://www.dhgate.com/wholesale+dvd+players.html" rel="nofollow">Home Theater</a></li>							<li><a href="http://www.dhgate.com/wholesale+dvds.html" rel="nofollow">Movies &amp; TV</a></li>							<li><a href="http://www.dhgate.com/wholesale+mp3+players.html" rel="nofollow">MP3/MP4 Players</a></li>							<li><a href="http://www.dhgate.com/wholesale+home+theater+projectors.html" rel="nofollow">Projectors &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/radios-cb-ham-shortwave/c2612.html" rel="nofollow">Radios &amp; Walkie Talkies</a></li>							<li><a href="http://www.dhgate.com/wholesale+satellite.html" rel="nofollow">Satellite &amp; Cable TV</a></li>							<li><a href="http://www.dhgate.com/wholesale/stage-studio-cables/c26062407.html" rel="nofollow">Stage &amp; Studio Cables</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+wedding+apparel+accessories.html" class="bt sf-with-ul">Events &amp; Weddings<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/promotion/all/wedding-prom-channel.html" rel="nofollow">Wedding &amp; Prom Channel</a></li>							<li><a href="http://www.dhgate.com/wholesale/bridal-accessories/c140801.html" rel="nofollow">Bridal Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/bridal-jewelry-sets/c14080102.html" rel="nofollow">Bridal Jewelry Sets</a></li>							<li><a href="http://www.dhgate.com/wholesale+bridesmaid+dresses.html" rel="nofollow">Bridesmaid Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/flower-girl-dresses/c140804.html" rel="nofollow">Flower Girl Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/groom-wear-accessories/c140805.html" rel="nofollow">Groom Wear &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/mother-of-the-bride-dresses/c140811.html" rel="nofollow">Mother of the Bride Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale+dresses.html" rel="nofollow">Special Occasion Dresses</a></li>							<li><a href="http://www.dhgate.com/wholesale/veils-tiaras-hair-accessories/c14080112.html" rel="nofollow">Veils, Tiaras &amp; Hair Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+wedding+dresses.html" rel="nofollow">Wedding Dresses</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+beauty.html" class="bt sf-with-ul">Health &amp; Beauty<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+hair+straighteners.html" rel="nofollow">Hair Care</a></li>							<li><a href="http://www.dhgate.com/wholesale/hair-extensions/dcp.html" rel="nofollow">Hair Extensions</a></li>							<li><a href="http://www.dhgate.com/wholesale/hair-wigs-accessories/dcp.html" rel="nofollow">Hair Wigs &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+makeup.html" rel="nofollow">Makeup</a></li>							<li><a href="http://www.dhgate.com/wholesale+fragrances.html" rel="nofollow">Perfume</a></li>							<li><a href="http://www.dhgate.com/wholesale+health+care.html" rel="nofollow">Personal Care</a></li>							<li><a href="http://www.dhgate.com/wholesale/nail-art/c1809.html" rel="nofollow">Nail Art</a></li>							<li><a href="http://www.dhgate.com/wholesale+tattoos.html" rel="nofollow">Tattoos &amp; Body Art</a></li>							<li><a href="http://www.dhgate.com/wholesale/massagers/c181001.html" rel="nofollow">Massagers</a></li>							<li><a href="http://www.dhgate.com/wholesale/slimming-machine/c180306.html" rel="nofollow">Slimming Machines</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+home.html" class="bt sf-with-ul">Home &amp; Garden<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/housekeeping-organization/c019026.html" rel="nofollow">Housekeeping &amp; Organization</a></li>							<li><a href="http://www.dhgate.com/wholesale/dog-supplies/c019009004.html" rel="nofollow">Dog Supplies</a></li>							<li><a href="http://www.dhgate.com/wholesale/faucets-shower-accessories/c019022.html" rel="nofollow">Faucets,shower &amp; Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale/home-d%C3%A9cor/c019011.html" rel="nofollow">Home Décor</a></li>							<li><a href="http://www.dhgate.com/wholesale/kitchen-dining-bar/c019030.html" rel="nofollow">Kitchen,Dining &amp; Bar</a></li>							<li><a href="http://www.dhgate.com/wholesale/lights-lighting/c019015.html" rel="nofollow">Lights &amp; Lighting</a></li>							<li><a href="http://www.dhgate.com/wholesale/household-sundries/c019019.html" rel="nofollow">Household Sundries</a></li>							<li><a href="http://www.dhgate.com/wholesale/garden-supplies/c019004.html" rel="nofollow">Garden Supplies</a></li>							<li><a href="http://www.dhgate.com/wholesale/festive-party-supplies/c019029.html" rel="nofollow">Festive &amp; Party Supplies</a></li>							<li><a href="http://www.dhgate.com/wholesale/home-appliances/c019025.html" rel="nofollow">Home Appliances</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+jewelry.html" class="bt sf-with-ul">Jewelry &amp; Watches<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/promotion/all/jewelry-watch-channel.html" rel="nofollow">Jewelry &amp; Watch Channel</a></li>							<li><a href="http://www.dhgate.com/wholesale+charms+bracelets.html" rel="nofollow">Charms &amp; Charm Bracelets</a></li>							<li><a href="http://www.dhgate.com/wholesale/childrens-watches/c032007.html" rel="nofollow">Children's Watches</a></li>							<li><a href="http://www.dhgate.com/wholesale/band-rings/c020016006.html" rel="nofollow">Band Rings</a></li>							<li><a href="http://www.dhgate.com/wholesale+healthy+necklaces.html" rel="nofollow">Healthy Necklaces</a></li>							<li><a href="http://www.dhgate.com/wholesale/jewelry-accessories-tools/c020010.html" rel="nofollow">Jewelry Accessories &amp; Tools</a></li>							<li><a href="http://www.dhgate.com/wholesale+jewelry+sets.html" rel="nofollow">Jewelry Sets</a></li>							<li><a href="http://www.dhgate.com/wholesale/links-chains/c020002006.html" rel="nofollow">Links &amp; Chains</a></li>							<li><a href="http://www.dhgate.com/wholesale/digital-watches/c032008.html" rel="nofollow">Digital Watches</a></li>							<li><a href="http://www.dhgate.com/wholesale/unisex-watches/c032006.html" rel="nofollow">Unisex watches</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+musical+instruments.html" class="bt sf-with-ul">Musical Instruments<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/links-chains/c200206.html" rel="nofollow">Links &amp; Chains</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+security.html" class="bt sf-with-ul">Security &amp; Surveillance<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/electric-guitars/c220507.html" rel="nofollow">Electric Guitars</a></li>							<li><a href="http://www.dhgate.com/wholesale/flutes/c221304.html" rel="nofollow">Flutes</a></li>							<li><a href="http://www.dhgate.com/wholesale+guitar.html" rel="nofollow">Guitars</a></li>							<li><a href="http://www.dhgate.com/wholesale/lasers/c220702.html" rel="nofollow">Lasers</a></li>							<li><a href="http://www.dhgate.com/wholesale/lighting-stage-effects/c2207.html" rel="nofollow">Lighting &amp; Stage Effects</a></li>							<li><a href="http://www.dhgate.com/wholesale/microphones/c220214.html" rel="nofollow">Microphones</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+sports.html" class="bt sf-with-ul">Sports &amp; Outdoors<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/alarm-systems/c262113.html" rel="nofollow">Alarm Systems</a></li>							<li><a href="http://www.dhgate.com/wholesale/surveillance-systems/c262125.html" rel="nofollow">Complete Surveillance Systems</a></li>							<li><a href="http://www.dhgate.com/wholesale/dvr-cards/c26211604.html" rel="nofollow">DVR Cards</a></li>							<li><a href="http://www.dhgate.com/wholesale/hidden-spy-cameras/c262114.html" rel="nofollow">Hidden Spy Cameras</a></li>							<li><a href="http://www.dhgate.com/wholesale/intercom-access-controls/c262108.html" rel="nofollow">Intercom &amp; Access Controls</a></li>							<li><a href="http://www.dhgate.com/wholesale/security-cameras/c262103.html" rel="nofollow">Security Cameras</a></li>							<li><a href="http://www.dhgate.com/wholesale/surveillance-video-equipment/c262116.html" rel="nofollow">Surveillance Video Equipment</a></li>							<li><a href="http://www.dhgate.com/wholesale/video-door-phones/c26210803.html" rel="nofollow">Video Door Phones</a></li>							<li><a href="http://www.dhgate.com/wholesale/wireless-camera-kits/c262105.html" rel="nofollow">Wireless Camera Kits</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+toys.html" class="bt sf-with-ul">Toys<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale+mlb+jerseys.html" rel="nofollow">Baseball Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+nba+jerseys.html" rel="nofollow">Basketball Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+ncaa+jerseys.html" rel="nofollow">College Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+exercise.html" rel="nofollow">Exercise &amp; Fitness</a></li>							<li><a href="http://www.dhgate.com/wholesale+football.html" rel="nofollow">Football Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+golf.html" rel="nofollow">Golf</a></li>							<li><a href="http://www.dhgate.com/wholesale/hockey-fan-shop/dcp.html" rel="nofollow">Hockey Fan Shop</a></li>							<li><a href="http://www.dhgate.com/wholesale+outdoors.html" rel="nofollow">Outdoor Sports</a></li>							<li><a href="http://www.dhgate.com/wholesale+soccer+jerseys.html" rel="nofollow">Soccer Jerseys</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/wholesale+video+games.html" class="bt sf-with-ul">Video Games<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/action-figures/c2525.html" rel="nofollow">Action Figures</a></li>							<li><a href="http://www.dhgate.com/wholesale/activity-amusement-toys/c2528.html" rel="nofollow">Activity &amp; Amusement Toys</a></li>							<li><a href="http://www.dhgate.com/wholesale/educational-learning-toys/c2530.html" rel="nofollow">Educational &amp; Learning Toys</a></li>							<li><a href="http://www.dhgate.com/wholesale/games-puzzles/c2531.html" rel="nofollow">Games &amp; Puzzles</a></li>							<li><a href="http://www.dhgate.com/wholesale/radio-remote-control-toys-hobbies/c2515.html" rel="nofollow">Radio &amp; Remote Control Toys &amp; Hobbies</a></li>							<li><a href="http://www.dhgate.com/wholesale/seasonal-toys/c2532.html" rel="nofollow">Seasonal Toys</a></li>							<li><a href="http://www.dhgate.com/wholesale/video-games/c29.html" rel="nofollow">Classics Video Games</a></li>							<li><a href="http://www.dhgate.com/wholesale/console-games/c2903.html" rel="nofollow">Console Games</a></li>							<li><a href="http://www.dhgate.com/wholesale/nintendo-ds-flash-cards/c2905.html" rel="nofollow">Nintendo DS Flash Cards</a></li>							<li><a href="http://www.dhgate.com/wholesale+video+game+accessories.html" rel="nofollow">Video Game Accessories</a></li>							<li><a href="http://www.dhgate.com/wholesale+video+game+consoles.html" rel="nofollow">Video Game Consoles</a></li>					</ul>	</li>				<li class="current"><a rel="nofollow" href="http://www.dhgate.com/sitemap/index.html" class="bt sf-with-ul bot">View More<span class="sf-sub-indicator"> »</span></a>	<ul style="display: none; visibility: hidden;">									<li class="first"><a href="http://www.dhgate.com/wholesale/arts/dcp.html" rel="nofollow">Arts</a></li>							<li><a href="http://www.dhgate.com/wholesale/crafts/dcp.html" rel="nofollow">Crafts</a></li>							<li><a href="http://www.dhgate.com/wholesale/measurement-analysis-instruments/c41.html" rel="nofollow">Measurement Instruments</a></li>							<li><a href="http://www.dhgate.com/wholesale/office-supplies/dcp.html" rel="nofollow">Office Supplies</a></li>					</ul>	</li>					  </ul>		</div>                    </span></div>	
 
-
+<!-- 
 <div id="community_lists" style="top:19px;left:967px;">
 	<span>
     	<a href="http://www.dhgate.com/!forums">DHgate Forums</a>
@@ -94,58 +104,85 @@ function doheadsearch(){
          <a href="http://www.dhgate.com/csmsg/leavemsg.do" rel="nofollow">Message DHgate</a>
 	</span>
 </div>
-
+ -->
 <div style="width:950px; margin:auto; position:relative;">
   <div id="header">
-    <div class="logo"><a href="http://www.dhgate.com/">DHgate Homepage</a><strong>Fast Trading Marketplace</strong></div>
-    <div class="info">
-        <p id="naviinfo">
-	<a href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">My DHgate</a><a id="community" class="all">Community</a>
-	<!-- <a href='http://help.dhgate.com/help/buyerhelpen.php' rel='nofollow'>Help</a> -->
-	<a id="helpit" class="all" href="#" rel="nofollow">Help</a>
-	
-	</p>
-    </div>
-    <div class="question" id="question">Help us improve DHgate <a href="http://www.dhgate.com/myaccount/suggest/suggest.do">Click here!</a></div>
-    <div id="search">
+  
+  <!-- 张永军 2011-08-23 -->
+  <div class="header">
+    <div class="logo"><a href="http://www.dhgate.com/">DHgate Homepage</a></div>
+	<div class="logo-summary">Fast Trading Marketplace</div>
+	<div class="take"><p><strong>New to DHgate?</strong></p><p><a href="http://www.dhgate.com/starterguide.html" rel="nofollow">Take a quick tour now</a></p></div>
+    
+<div class="info">
+    <p id="naviinfo"><a href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">My DHgate</a><a href="javascript:void(0);" id="community">Community</a><a href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow" id="help">Help</a><a href="http://seller.dhgate.com" class="last">Seller Home</a></p>
+    
+        <ul id="communityLists">
+            <li><a href="http://www.dhgate.com/!forums" rel="nofollow">DHgate Forums</a></li><li><a href="http://blog.dhgate.com/" rel="nofollow">DHgate Blog</a></li><li><a href="http://www.facebook.com/dhgate" rel="nofollow">DHgate Facebook</a></li>
+        </ul>
+        <ul id="helpLists">
+            <li><a href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help Center</a></li><li><a href="http://www.dhgate.com/csmsg/leavemsg.do" rel="nofollow">Message DHgate</a></li>
+        </ul>
+</div>
+<div class="icoprotection"><a rel="nofollow" href="http://www.dhgate.com/protection.html">DHgate Buyer Protection</a></div>
+</div>
+
+
+ <!--    <div class="question" id="question">Help us improve DHgate <a href="http://www.dhgate.com/myaccount/suggest/suggest.do">Click here!</a></div>
+   -->  
+    <div div="" class="search-bar">
       <form action="http://www.dhgate.com/wholesale/presearch.do#search" autocomplete="off" method="get" name="searchForm" id="searchForm" onsubmit="javascript:doheadsearch();return false;">
         <input type="hidden" name="act" value="search">
-        <strong>Search</strong>
-        <input type="text" value="" id="searchkey" name="searchkey" class="keyword">
-        <select name="catalog" id="catalog" class="autoselectstyle" onkeydown="if(event.keyCode==13){javascript:return doheadsearch();}">
-          <option value="" selected="selected">All categories</option>
-          <option value="14">Apparel</option>
-          <option value="31">Arts</option>
-          <option value="28">Baby &amp; Kids</option>
-          <option value="15">Bags, Shoes &amp; Accessories</option>
-          <option value="40">Building &amp; Decoration Materials</option>
-          <option value="12">Cameras &amp; Photo</option>
-          <option value="21">Car, Vehicles &amp; Parts</option>
-          <option value="13">Cell Phones</option>
-          <option value="16">Computers &amp; Networking</option>
-          <option value="26">Consumer Electronics</option>
-          <option value="17">Crafts</option>
-          <option value="30">Gifts &amp; Occasions</option>
-          <option value="18">Health &amp; Beauty</option>
-          <option value="19">Home &amp; Garden</option>
-          <option value="20">Jewelry</option>
-          <option value="22">Musical Instruments</option>
-          <option value="33">Office Supplies</option>
-          <option value="38">Packaging &amp; Paper</option>
-          <option value="24">Sporting Goods</option>
-          <option value="25">Toys &amp; Hobbies</option>
-          <option value="29">Video Games</option>
-          <option value="32">Watches</option>
-        </select>
-        <input type="button" name="button" id="button" value="" class="go" onclick="javascript:doheadsearch();">
-        <a href="http://www.dhgate.com/wholesale/searchAd.do?method=searchAd" rel="nofollow">Advanced Search</a>
-        <a id="cartcnt" class="cart" href="http://www.dhgate.com/cart/cart.do" rel="nofollow">Cart <span>0</span> item(s)</a>
+     <!--   <strong>Search</strong>--> 
+    <div class="search-bar-autocomplete"><input type="text" value="" id="searchkey" name="searchkey" class="search-bar-keyword"></div>
+    <div id="catalogBox" class="search-select-box">
+        <input id="catalog" type="text" value="All Categories" readonly="true">
+        <input id="catalogId" type="hidden" name="catalog" value="">
+        <div id="arrow" class="drop-down-default"></div>
+        <div id="catalogListBox" class="search-category"></div>
+    </div>
+    
+        <input class="search-bar-button" type="button" value="" name="button" onclick="javascript:doheadsearch();">
+        <a id="advancedSearchLink" class="search-bar-advanced" href="http://www.dhgate.com/wholesale/searchAd.do?method=searchAd" rel="nofollow">Advanced Search</a>
+        <a id="cartcnt" class="search-bar-cart" href="http://www.dhgate.com/cart/cart.do" rel="nofollow">Cart <span>0</span> item(s)</a>
       </form>
     </div>
-  <div id="main_nav"> <span>    <a class="all" id="all" href="http://www.dhgate.com/all-categories/index.html#new" rel="nofollow">All Categories</a>    <a href="http://www.dhgate.com/promotion/all/summer-sale.html#new" class="thissale" rel="nofollow">Summer Sale</a>    <a href="http://www.dhgate.com/promotion/all/wedding-prom-channel.html#new" class="thiswedding" rel="nofollow">Wedding &amp; Prom</a>    <a href="http://www.dhgate.com/promotion/all/electronics-channel.html#new" class="thiselectronics" rel="nofollow">Electronics</a>    <a href="http://www.dhgate.com/usa-uk-in-stock.html#new" class="thisusau" rel="nofollow">Stock in US/UK</a>    <a href="http://www.dhgate.com/catalog/buy-home.htm#new" class="thispromo" rel="nofollow">Promotions</a>    <a href="http://www.dhgate.com/promotion/all/mastercard-promotion.html#new" class="thiscard" rel="nofollow">MasterCard Zone</a>    <a rel="nofollow" class="protection" href="http://www.dhgate.com/protection.html">&nbsp;</a>    </span> </div>    
+    	<!-- 
+  	<div id="main_nav"> <span>
+    <a class="all" id="all" href="#">Top Wholesale Categories</a>
+    <a href="http://www.dhgate.com/promotion/all/new-year-channel.html#nhpa-head" style="vertical-align:middle;">New Year Sale</a>
+    <a href="http://www.dhgate.com/promo/seller-guarantee-services.html" class="thisguarantee">Guaranteed Products</a>
+    <a href="http://www.dhgate.com/what-s-new.html" class="whatisnew">What's New</a>
+    <a href="http://www.dhgate.com/usa-uk-in-stock.html" class="thisusau">Stock in US/UK</a><a href="http://www.dhgate.com/catalog/buy-home.htm" class="thispromo">Promotions</a>
+    <a rel="nofollow" href="http://www.dhgate.com/wholesale-product-reviews.html">Top-Rated Products</a>
+
+    </span> </div>
+     -->
+    
+    
+    <div class="main-entrance">
+    <div class="main-entrance-lp">
+    <ul>
+	    		<li class="thischristmas"><a href="http://www.dhgate.com/wholesale+christmas.html" rel="nofollow">Christmas Channel</a></li>
+      		<li class="thisdeal"><a href="http://www.dhgate.com/promotion/all/autumn-sale.html#new" rel="nofollow">Autumn Deals</a></li>
+      		<li class="thiswedding"><a href="http://www.dhgate.com/promotion/all/wedding-prom-channel.html#new" rel="nofollow">Wedding &amp; Prom</a></li>
+      		<li class="thiselectronics"><a href="http://www.dhgate.com/promotion/all/electronic-accessories-channel.html#new" rel="nofollow">Electronics</a></li>
+      		<li class="thispromo"><a href="http://www.dhgate.com/catalog/buy-home.htm#new" rel="nofollow">Promotions</a></li>
+    
+</ul>
+     <!--#include virtual="http://www.dhgate.com/global/navin_prod.shtml" -->
+<!--  (这里是公共调用的导航文件，http://www.dhgate.com/global/navin_prod.shtml http://www.dhgate.com/global/navio_prod.shtml)-->
+    </div>
+    <div class="all-categories">
+        <a id="allCategoriesAction" class="all" href="http://www.dhgate.com/all-categories/index.html">All Categories</a>
+        <div id="directoryWarp"></div>
+    </div>
+</div>
+    
     
   </div>
 </div>
+
 <div id="content">
 <div id="now"><a href="http://www.dhgate.com">Home</a> &gt; <strong>About Us</strong></div>
 <div id="left">
@@ -159,6 +196,7 @@ function doheadsearch(){
 </li>
 <li class="abbg"><a href="/help/buyer_about_usen.php?catpid=g5">Contact Us</a></li>
 <li class="abbg"><a href="/help/buyer_about_usen.php?catpid=g7">Terms of Use</a></li>
+<li class="abbg"><a href="/help/buyer_about_usen.php?catpid=g8">Registration Agreement</a></li>
 </ul>
 <div class="left_bottom"></div>
 </div>
@@ -168,82 +206,83 @@ function doheadsearch(){
 <div class="right_con">
 <h1>Security and Privacy</h1>
 <div>
-<b><span style="font-size: 16px">Safety and Privacy on DHgate&nbsp;<br>
-</span></b><br>
-<p style="line-height: 22px; font-size: 12px"><strong>How can we protect your privacy?<br>
-</strong>The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly, and will work to protect the security and privacy of any personal information you provide to us and will only use it as we have described in our Privacy Policy.</p>
-<p style="line-height: 22px; font-size: 12px"><strong>Safe purchase at DHgate<br>
-</strong>We want you to feel completely secure when ordering from DHgate. We use a technology called Secure Sockets Layer (SSL), which encrypts (or encodes) sensitive information before it is sent over the Internet.<br>
-&nbsp;</p>
-<h4><span style="font-size: 16px">Our Privacy Policy</span></h4>
-<br>
-<p style="line-height: 22px; font-size: 12px"><strong>What personal information do we collect?<br>
-</strong>As set forth in more detail below, DHgate ("DHgate" or "We") collects personal information that you provide when using the DHgate web site ("Site"). This information includes your first and last name, email address and a password when you create your DHgate account. You can browse this Site without creating an account, but you will need to create an account when you purchase something and in order to take advantage of certain features, such as "Save for Later," "Address Book" and the other DHgate services. We may ask you to confirm your personal information when you contact our Customer Service department. This will allow us to protect your confidentiality by verifying your identity.</p>
-<p style="line-height: 22px; font-size: 12px">DHgate does not intentionally collect personal information about children under the age of 13. If you are under the age of 18 but at least 13 years of age you may use this Site only under the supervision of a parent or legal guardian who agrees to be bound by the DHgate Terms of Use. Children under the age of 13 may not use this Site and parents or legal guardians may not agree to the DHgate Terms of Use on their behalf. If you do not agree to (or cannot comply with) any of the DHgate Terms of Use, do not use this Site.&nbsp;<br>
-&nbsp;</p>
-<b>1.</b> Purchase Information <br type="_moz">
-<p style="line-height: 22px; font-size: 12px">When you make a purchase from DHgate, we collect your name and payment method information. We collect this information in order to bill you for your purchase. We also collect information that allows us to ship your order. This includes the name, address, and phone number of the intended recipient(s).<br>
-When you create an account at DHgate, you can choose to save your billing information in "My DHgate." You can also save one or more shipping addresses in your DHgate Address Book. You may change or delete this saved information anytime. Simply go to My DHgate. Log in with your ID and password, then edit or delete whatever personal information you wish.&nbsp;<br>
-&nbsp;</p>
-<b>2.</b> Services Account Information <br type="_moz">
-<p style="line-height: 22px; font-size: 12px">We collect personal information from users who wish to use any of the DHgate services, including but not limited to, DHgate's Transaction Platform. In order to use these services you must provide your email address and password or create an account at DHgate.&nbsp;<br>
-&nbsp;</p>
-<b>3.</b> Cookies and Other Computer Information <br type="_moz">
-<p style="line-height: 22px; font-size: 12px">When you visit DHgate, you will be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit this Site so we can enhance and customize your online purchase experience.</p>
-<p style="line-height: 22px; font-size: 12px">When you visit DHgate, you will be assigned a permanent "cookie" (a small text file) to be stored on your computer's hard drive. The purpose of the cookie is to identify you when you visit this Site so we can enhance and customize your online purchase experience.</p>
-<p style="line-height: 22px; font-size: 12px">You can choose to browse on DHgate without cookies, but without these identifier files you will not be able to complete a purchase or take advantage of certain features of this Site. These features include storing your shopping cart for later use and, in the future, providing a more personalized shopping experience. Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.</p>
-<p style="line-height: 22px; font-size: 12px">We also collect certain technical information from your computer each time you request a page during a visit to DHgate. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring web site, if any. We collect this information to enhance the quality of your experience during your visit to this Site and will not sell or rent this information to any third parties.</p>
-<p style="line-height: 22px; font-size: 12px">We also contract with third parties to provide us with data collection and reporting services regarding our customers' activities on this Site and to track and measure performance of our marketing efforts. These third parties may use cookies and may receive anonymous information about your browsing and buying activity on this Site. None of your personally identifiable information (such as your name, address, email address, etc.) will be received by or shared with these third parties.<br>
-&nbsp;</p>
-<p style="line-height: 22px; font-size: 12px"><strong>Contacting DHgate </strong><br>
-We will use your email address to respond to your questions, suggestions, and/or requests for assistance in using this Site.<br>
-&nbsp;</p>
-<p><strong>Other times we may collect personal information<br>
-</strong><br>
-From time to time, DHgate may conduct surveys and contests via this Site, email, other media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will never sell or rent such information to any third parties.<br>
-&nbsp;</p>
-<p style="line-height: 22px; font-size: 12px"><strong>How we use your personal information?</strong><br>
-Information we collect on DHgate may be used to enhance your shopping experience in the following ways:</p>
-<ul>
-    <li>Deliver merchandise and services that you purchase online</li>
-    <li>Register you as a member of DHgate</li>
-    <li>Prevent fraud and bill you for your purchases</li>
-    <li>Confirm your orders</li>
-    <li>Respond to your customer-service inquiries or requests</li>
-    <li>Communicate great values and featured items to you</li>
-    <li>Find and stock the products you want</li>
-    <li>Customize your purchase experience</li>
-</ul>
-<p style="line-height: 22px; font-size: 12px"><strong>When and with whom can we share your personal information?</strong><br>
-We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including fulfilling customer orders; offering certain products and services in connection with this Site; communicating to customers; providing customer service; storing, sharing and retrieving customers' photo images in our Photo Center; enhancing and improving clients' purchase experience; enabling access to our partners' web sites; providing a personalized purchase experience; preventing fraud and completing payment method processing.</p>
-<p style="line-height: 22px; font-size: 12px">Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required to prevent harm or injury (such as product recalls, fraud, claims or other liability) or to comply with valid legal processes (subpoenas, warrants) or as required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.<br>
-&nbsp;</p>
-<p style="line-height: 22px; font-size: 12px"><strong>How can you control the use of your personal information?</strong><br>
-You can modify or delete your personal information anytime. Simply go to My DHgate. Log in with your ID and password, then edit or delete whatever personal information you wish. Do not share your DHgate password with anyone. Other than on this Site, DHgate will never ask you for your password.<br>
-&nbsp;</p>
-<p style="line-height: 22px; font-size: 12px"><strong>How can we protect the security of your personal information?</strong><br>
-Your personal information is protected by the password you created when you created an account at DHgate (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of DHgate will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it anytime by going to My DHgate. Log in with your email address and password, then click "Change Name, Email &amp; Password" and enter a new password.<br>
-&nbsp;</p>
-<p style="line-height: 22px; font-size: 12px"><strong>More about your privacy</strong><br>
-We realize that making purchases at DHgate, or any other web site, requires trust on your part. We value your trust very highly, and pledge to you, our clients, that we will work to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in this Policy. This includes your name, address, phone number, email address or checking account information, in addition to any other personal information that can be linked to you, personally.</p>
-<p style="line-height: 22px; font-size: 12px"><br>
-We believe that you have a right to know, before purchase at DHgate or at any other time, exactly what information we might collect from you, why we collect it and how we use it.</p>
-<p style="line-height: 22px; font-size: 12px"><br>
-We do not and will not sell or rent your personal information to anyone. You have the right to control your personal information as you see fit.</p>
-<p style="line-height: 22px; font-size: 12px"><br>
-If you have an account at DHgate and you want to change, modify or delete any of your personal information, you can do so anytime by going to My DHgate. Log in with your ID and password, then edit or delete whatever personal information you wish.</p>
-<p style="line-height: 22px; font-size: 12px"><br>
-DHgate may provide links to certain third party web sites. This Privacy Policy applies only to activities conducted and personal information collected on this DHgate web site. Other web sites may have their own policies regarding privacy and security.</p>
-<p style="line-height: 22px; font-size: 12px"><br>
-DHgate will obtain your consent before allowing the download of any software from the DHgate Site, and DHgate will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to downloaded software, required or automated updates, modifications, reinstallations, or software otherwise obtained through the use of the DHgate web Site is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.</p>
-<dl></dl></div>
+<p style="padding-bottom:15px;  line-height:22px;">Welcome to DHgate, your reliable online marketplace. 	 </p>
+<p style="padding-bottom:15px; line-height:22px;">The web site identified by the uniform resource locator <a href="http://www.dhgate.com">www.dhgate.com</a> (the “<strong>Site</strong>”) is provided by Dunhuang Holding (HK) (“<strong>DHgate</strong>”) as a service to our customers. This Security and Privacy Policy (the “<strong>Agreement</strong>” or “<strong>Policy</strong>”) is entered into between you as a registered user of the site (“<strong>Registered User</strong>”) and DHgate.</p>
+<p style="padding-bottom:15px; line-height:22px;">The security of your personal information is very important to us and we value your trust highly. We will not sell or loan your personal information to a third party under any circumstances. We will work hard to protect the security and privacy of any personal information you provide to us and will only use such information as we have described herein. </p>
+<p style="padding-bottom:15px; line-height:22px;">By your use and access of the Site, you accept this Security and Privacy Policy.</p>
+<p style="padding-bottom:15px; line-height:22px;"><strong>What personal information do we collect?</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">You may choose to use or access our Site without revealing any personal and transactional information about yourself, but you will need to register and create an account in order to make a purchase or take advantage of certain features and functions, including, but not limited to, “Save for Later” and “Address Book”. If you provide us with your information, you consent to the transfer and storage of the information on our server located in the People’s Republic of China (the “<strong>P.R.C.</strong>”).</p>
+<p style="padding-bottom:15px; line-height:22px;">As set forth in more detail below, DHgate collects personal information that you provide when using the Site. This information includes your first and last name, email address, a password and other information required when you create your DHgate account or when you participate in or conduct surveys and contests via the Site, email, or other media of DHgate. In order to protect your confidentiality and verify your identity, we may ask you to confirm your personal information when you contact our Customer Service Department. </p>
+<p style="padding-bottom:15px; line-height:22px;">In addition to the personal information we may collect and process during registration and any surveys, we also collect, store and process the following information about our users:</p>
+<p style="padding-bottom:15px; line-height:22px;">1.	Purchase Information </p>
+<p style="padding-bottom:15px; line-height:22px;">When you make a purchase from DHgate, we collect your name and payment method information. When you create an account at DHgate, you can choose to save your billing information in “My DHgate.” You can also save one or more shipping addresses in your DHgate Address Book. </p>
+<p style="padding-bottom:15px; line-height:22px;">2.	Services Account Information </p>
+<p style="padding-bottom:15px; line-height:22px;">We collect personal information from users who wish to use any of the DHgate services, including but not limited to, DHgate’s Transaction Platform. In order to use these services you must provide your email address and password or create an account at DHgate. </p>
+<p style="padding-bottom:15px; line-height:22px;">3.	Cookies and Other Computer Information</p>
+<p style="padding-bottom:15px; line-height:22px;">When you visit the Site, you will be assigned a permanent “cookie” (a small text file) to be stored on your computer’s hard drive. The purpose of the cookie is to identify you when you visit the Site so that we can enhance and customize your online purchasing experience.</p>
+<p style="padding-bottom:15px; line-height:22px;">You can choose to browse on the Site without cookies, but without these identifier files you will not be able to complete a purchase or take advantage of certain features of the Site. These features include storing your shopping cart for later use and providing a more personalized future shopping experience. Each browser is different, so check the “Help” menu of your browser to learn how to change your cookie preferences.</p>
+<p style="padding-bottom:15px; line-height:22px;">We also collect certain technical information from your computer each time you request a page during a visit to the Site. This information may include your Internet Protocol (IP) address, your computer’s operating system, browser type and the address of a referring web site, if any. We collect this information to enhance the quality of your experience during your visit to the Site and will not sell or loan this information to any third parties.</p>
+<p style="padding-bottom:15px; line-height:22px;">We also contract with third parties to provide us with data collection and reporting services regarding our customers’ activities on the Site and to track and measure the performance of our marketing efforts. These third parties may use cookies and may receive anonymous information about your browsing and buying activity on this Site. None of your personally identifiable information (such as your name, address, email address, etc.) will be received by or shared with these third parties.</p>
+<p style="padding-bottom:15px; line-height:22px;">4.	Publishing Information</p>
+<p style="padding-bottom:15px; line-height:22px;">When you submit any information on the Site during your use or access, including, but not limited to, information on the DHgate blog, the rating system, or product catalog, you are deemed to have given your permission to DHgate to publish such information, and DHgate and the Site hereby enjoy an irrevocable, perpetual, worldwide and royalty-free, sub-licensable license to use all information provided by such user to exercise the copyright, compilation, database and publicity rights any user has in such material or information, in any media form.</p>
+<p style="font-size:16px;"><strong>How we use your personal information?</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">We do not sell, loan, trade or exchange any user’s personal information without such user’s consent. The information we collect on the Site may be used to enhance your shopping experience in the following ways:</p>
+<ul><li>Deliver merchandise and services that you purchase online;</li>
+<li>Register you as a member of DHgate;</li>
+<li>Prevent fraud;</li>
+<li>Confirm your orders;</li>
+<li>Resolve disputes and prevent prohibited and illegal activities;</li>
+<li>Enforce our Terms of Use and related agreements;</li>
+<li>Respond to your customer-service inquiries or requests;</li>
+<li>Communicate great values and featured items to you;</li>
+<li>Find and stock the products you want; and</li>
+<li>Customize, measure and improve our services and your purchase experience.</li>
+</ul><br>
+<p style="font-size:16px"><strong>When and with whom can we share your personal information?</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">We do not sell or loan your personal information to any third parties under any circumstances. We will share your personal customer information only with our agents, representatives, service providers, and contractors for limited purposes, including, but not limited to, fulfilling customer orders, offering certain products and services in connection with the Site, communicating to customers, providing customer service, storing, sharing and retrieving customers’ photo images in our Photo Center, enhancing and improving clients’ purchase experience, enabling access to our partners’ web sites, providing a personalized purchase experience and preventing fraud and completing payment method processing.</p>
+<p style="padding-bottom:15px; line-height:22px;">Aside from the purposes described above, we will not share your personal information with any other third parties unless we have your express permission or there are special circumstances, such as when DHgate is required by the government, law enforcement body, obligee whose legitimate right has been injured, subpoena or other legal document to share such information, or if we believe it to be reasonably necessary to protect the safety of any person; to address fraud, security or technical issues; or to protect DHgate’s rights or property. We may also share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.</p>
+<p style="font-size:16px"><strong>How can you control the use of your personal information?</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">You can modify or delete your personal information at any time. Simply go to My DHgate. Log in with your ID and password, then edit or delete your personal information at your discretion. </p>
+<p style="font-size:16px"><strong>How can we protect the security of your personal information?</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">Your personal information is protected by the password you created when you created an account on the Site (or another password you chose after changing a previous password). Please keep this password confidential. No Customer Service Associate or any other representative of DHgate will ever ask you for your password. The confidentiality of your password is yours to protect. You may change it at anytime by going to My DHgate. Log in with your email address and password, then click “Change Name, Email &amp; Password” and enter a new password.</p>
+<p style="font-size:16px"><strong>Minors</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">DHgate does not intentionally collect personal information about minors or other persons without full civil conduct capacity, but based on the properties of Internet, there is no way for DHgate and the Site to distinguish the age or capacity of the users. By accepting this Agreement through your use or access of the Site, you certify that you are a person over 18 years old with full capacity and ability to form a legally binding contract in the jurisdiction in which you are resident or in which you are entering into this Agreement. If you do not agree to (or cannot comply with) any of the terms of this Agreement, do not use the Site. </p>
+<p style="padding-bottom:15px; line-height:22px;">Meanwhile, if a minor or other person does not have full civil conduct capacity and has provided personal information to us without the proper consent of their parent or legal guardian, such parent or legal guardian should contact us to remove such personal information.</p>
+<p style="font-size:16px"><strong>Security</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">Your information is stored on our servers located in the P.R.C, and we adopt lots of tools, means and technologies to protect them against unauthorized access, use and disclosure. For instance, we use a technology called Secure Sockets Layer (SSL), which encrypts (or encodes) sensitive information before it is sent over the Internet. However, we are limited in our efforts by the technologies currently available, and no data transmission or storage over Internet can be guaranteed to be perfectly safe. Therefore, although we work very hard to protect your information and privacy, we do not promise or guarantee that your information will always be private and safe.</p>
+<p style="font-size:16px"><strong>General</strong></p>
+<p style="padding-bottom:15px; line-height:22px;">We realize that making purchases on the Site, or any other web site, requires trust on your part. We value your trust very highly and pledge to you, our clients, that we will work hard to protect the security and privacy of any personal information you provide to us and that your personal information will only be used as set forth in this Policy. This includes your name, address, phone number, email address or checking account information, in addition to any other personal information that can be linked to you, personally.</p>
+<p style="padding-bottom:15px; line-height:22px;">DHgate may provide links to certain third party web sites. This Security and Privacy Policy applies only to activities conducted and personal information collected on the Site. Other web sites may have their own policies regarding privacy and security. We encourage you to review the privacy policies on these sites before you use and access them. You are solely responsible for your use and access of other web sites.</p>
+<p style="padding-bottom:15px; line-height:22px;">DHgate will obtain your consent before allowing the download of any software from the Site, and DHgate will not automatically download any software to your computer system. Once you consent to the initial download of any software, you may receive automatic updates or patches pertaining to such software. You understand and agree that any material, including but not limited to downloaded software, required or automated updates, modifications, reinstallations, or software otherwise obtained through the use of the Site is done at your own discretion and risk and that you will be solely responsible for any damages to your computer system or loss of data that may result from any such material.</p>
+<p style="padding-bottom:15px; line-height:22px;">DHgate reserves the right to update or modify this Security and Privacy Policy at any time without prior notice to you.  The most current version of the Policy will govern DHgate’s use of the information and will always be at <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4">http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4</a>.  If DHgate makes a change that, in DHgate’s sole discretion, is material, DHgate will notify you via e-mail to the email address associated with your account.  Your use of the Site following any such change constitutes your unconditional agreement to follow and be bound by the Security and Privacy Policy as amended.</p>
+<p style="padding-bottom:15px; line-height:22px;">DHgate may transfer this Policy and all or part of its rights, obligations and interests to any party or entity in its sole discretion; however, a User may not assign its rights, obligations and interests under this Policy to any party or entity. </p>
+<p style="padding-bottom:15px; line-height:22px;">Terms which have not been defined or stipulated in this Agreement shall be interpreted in accordance with the definition(s) or provision(s) of the Terms of Use of DHgate. </p></div>
 </div>
 <div class="right_bottom"></div>
 </div>
 </div>
+<!-- SiteCatalyst code version: H.23.3.
+Copyright 1996-2011 Adobe, Inc. All Rights Reserved -->
+<script language="JavaScript" type="text/javascript" src="http://image.dhgate.com/s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+s.pageName='en:about-us:security and privacy' //Pagetitle in lowercase
+s.prop1='dhgate.com'
+s.prop2='about-us'
+s.prop3='security and privacy' //Pagetitle in lowercase
+s.prop6='about'
+s.prop7='en'
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script> 
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script>
+<noscript><img src='http://dhgate.122.2o7.net/b/ss/dhgatetest/1/H.23.3--NS/0'
+height='1' width='1' border='0' alt='' /></noscript><!--/DO NOT REMOVE/--> 
+<!-- End SiteCatalyst code version: H.23.3. --> 
+
 <div style=" margin:0 auto; width:950px;"><iframe scrolling="no" frameborder="0" width="950" height="150" src="http://www.dhgate.com/footer_help.html"></iframe></div>
 ﻿<div id="footer">
-     <div id="bottom_nav">        <p class="feedbacklink">Help improve your experience on DHgate.com, <a target="_blank" rel="nofollow" href="http://ued.dhgate.com/dhsurvey/index.php?sid=67525&amp;lang=en">tell us what you think.</a></p>        <div class="h-line1"></div>		<p class="payico"></p>        <p>        	        <a style="margin:0" href="http://www.dhgate.com/" rel="nofollow">Home</a> |        	        <a style="margin:0" href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">Your Account</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help</a> |        	        <a style="margin:0" href="http://factory.dhgate.com/">China Factory</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/index.html">Sitemap Index</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-search-keywords.html">Top Searches</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-products.html">Top Products</a> |        	        <a style="margin:0" href="http://www.dhgate.com/free-shipping.html">Free Shipping</a> |        	        <a style="margin:0" href="http://www.dhgate.com/wholesale-departments.html">Departments</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php" rel="nofollow">About Us</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4" rel="nofollow">Security &amp; Privacy</a> |        	         <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g7" rel="nofollow">Terms of Use</a>         	        </p>        <p><a href="http://pt.dhgate.com">Portuguese</a> | <a href="http://fr.dhgate.com">French</a> | <a href="http://es.dhgate.com">Spanish</a> | <a href="http://de.dhgate.com">German</a> | <a href="http://ru.dhgate.com">Russian</a> | <a href="http://it.dhgate.com">Italian</a> | <a href="http://ja.dhgate.com">Japanese</a></p>        <p>Copyright Notice © 2004 - 2011 DHgate.com  All rights reserved.</p>   </div>    
+     <div id="bottom_nav">        <p class="feedbacklink">Help improve your experience on DHgate.com, <a onclick="$(this).attr({ href: 'http://ued.dhgate.com/dhsurvey/index.php?sid=67525&amp;lang=en' + '&amp;dhsurveybuyerid=' + getCookie('buyerusername') });" target="_blank" rel="nofollow" href="http://ued.dhgate.com/dhsurvey/index.php?sid=67525&amp;lang=en">tell us what you think</a> or <a href="http://www.dhgate.com/usr/buyerexper.do" target="_blank" rel="nofollow">join our Customer Experience Improvement Program now.</a></p>        <div class="h-line1"></div>		<p class="payico"></p>        <p class="verico"><a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.DHGATE.COM&amp;lang=en" target="_blank"></a></p>        <p>        	        <a style="margin:0" href="http://www.dhgate.com/" rel="nofollow">Home</a> |        	        <a style="margin:0" href="http://www.dhgate.com/myaccount/index.do" rel="nofollow">Your Account</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyerhelpen.php" rel="nofollow">Help</a> |        	        <a style="margin:0" href="http://factory.dhgate.com/">China Factory</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/index.html">Sitemap Index</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-search-keywords.html">Top Searches</a> |        	        <a style="margin:0" href="http://www.dhgate.com/sitemap/top-wholesale-products.html">Top Products</a> |        	        <a style="margin:0" href="http://www.dhgate.com/free-shipping.html">Free Shipping</a> |        	        <a style="margin:0" href="http://www.dhgate.com/wholesale-departments.html">Departments</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php" rel="nofollow">About Us</a> |        	        <a style="margin:0" href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g4" rel="nofollow">Security &amp; Privacy</a> |        	         <a href="http://help.dhgate.com/help/buyer_about_usen.php?catpid=g7" rel="nofollow">Terms of Use</a>         	        </p>        <p><a href="http://pt.dhgate.com">Portuguese</a> | <a href="http://fr.dhgate.com">French</a> | <a href="http://es.dhgate.com">Spanish</a> | <a href="http://de.dhgate.com">German</a> | <a href="http://ru.dhgate.com">Russian</a> | <a href="http://it.dhgate.com">Italian</a> | <a href="http://ja.dhgate.com">Japanese</a></p>        <p>Copyright Notice © 2004 - 2011 DHgate.com  All rights reserved.</p>   </div>    
 </div>
 <script type="text/javascript">
 var _gaq = _gaq || [];
