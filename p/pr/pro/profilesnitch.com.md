@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profilesnitch.com privacy policy that was archived on 2010-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100420100122id_/http%3A//www.profilesnitch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profilesnitch.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103094040id_/http%3A//www.profilesnitch.com/privacy.php) for the most accurate reproduction.*
 
 # Myspace Tracker - Profile Tracking by ProfileSnitch.com
 
