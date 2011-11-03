@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830052200id_/http%3A//www.tokyowebdesigns.com/eng/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyowebdesigns.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103015037id_/http%3A//www.tokyowebdesigns.com/eng/privacy.php) for the most accurate reproduction.*
 
 # Tokyo Web Designs - Privacy | English-Japanese Webpage Developers | Japan
 
@@ -22,7 +22,7 @@ The Site may make use of a feature of Internet web browsers called "cookies", wh
 
 ### Use and disclosure of your information
 
-We are committed to the protection of your privacy and your personal information. We will do our utmost to comply with laws relating to privacy, data collection and the use of information that are currently enacted or may be enacted in the future.
+We are committed to the protection of your privacy and your personal information. All preliminary project discussions will be treated with the strictest confidence. We will do our utmost to comply with laws relating to privacy, data collection and the use of information that are currently enacted or may be enacted in the future.
 
 To facilitate our efficient use of your information, and to provide you with the services or products requested by you, it may sometimes be necessary for us to disclose your information to third parties. However, this disclosure will only occur in the following circumstances:
 
@@ -44,4 +44,4 @@ The Site may contain links to other sites. With the exception of other sites ope
 
 ### Further queries
 
-If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](https://web.archive.org/web/20090830052200id_/http%3A//www.tokyowebdesigns.com/eng/contact.php).
+If we become aware of any ongoing concerns or problems with the Site, we will take the issue seriously and work to address your concerns. If you have any queries about this Privacy Policy, or have a problem or complaint, then you should contact us via our [contact page](https://web.archive.org/web/20111103015037id_/http%3A//www.tokyowebdesigns.com/eng/contact.php).
