@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the imovies4you.com privacy policy that was archived on 2011-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110516091130id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the imovies4you.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103173824id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,6 +12,12 @@
 <link rel="alternate" type="text/xml" title="RSS .92" href="http://imovies4you.com/feed/rss/">
 <link rel="alternate" type="application/atom+xml" title="Atom 1.0" href="http://imovies4you.com/feed/atom/">
 <link rel="pingback" href="http://imovies4you.com/xmlrpc.php">
+	<link rel="archives" title="November 2011" href="http://imovies4you.com/2011/11/">
+	<link rel="archives" title="October 2011" href="http://imovies4you.com/2011/10/">
+	<link rel="archives" title="September 2011" href="http://imovies4you.com/2011/09/">
+	<link rel="archives" title="August 2011" href="http://imovies4you.com/2011/08/">
+	<link rel="archives" title="July 2011" href="http://imovies4you.com/2011/07/">
+	<link rel="archives" title="June 2011" href="http://imovies4you.com/2011/06/">
 	<link rel="archives" title="May 2011" href="http://imovies4you.com/2011/05/">
 	<link rel="archives" title="April 2011" href="http://imovies4you.com/2011/04/">
 	<link rel="archives" title="March 2011" href="http://imovies4you.com/2011/03/">
@@ -53,6 +59,8 @@
 	<link rel="archives" title="March 2008" href="http://imovies4you.com/2008/03/">
 	<link rel="archives" title="February 2008" href="http://imovies4you.com/2008/02/">
 	<link rel="archives" title="January 2008" href="http://imovies4you.com/2008/01/">
+	<link rel="archives" title="August 201" href="http://imovies4you.com/201/08/">
+	<link rel="archives" title="June 201" href="http://imovies4you.com/201/06/">
 <link rel="icon" href="http://imovies4you.com/wp-content/themes/greenmild/favicon.ico" type="images/x-icon">
 <script type="text/javascript" src="http://imovies4you.com/wp-content/themes/greenmild/js/dropmenu.jquery.js"></script>  
 <script type="text/javascript" src="http://imovies4you.com/wp-content/themes/greenmild/js/dropmenu.js"></script> 
@@ -65,262 +73,7 @@
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://imovies4you.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="iMovies4You" href="http://imovies4you.com">
 <link rel="canonical" href="http://imovies4you.com/privacy-policy/">
-<script language="javascript" type="text/javascript">
-<!--
-		function collapseThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} else {
-				comment.className += " collapsed";
-			}
-		}
 
-		function expandThread( theId ) {
-			var comment = document.getElementById(theId);
-			if(!comment)
-			{
-				alert("ERROR:\nThe document structure is different\nfrom what Threaded Comments expects.\nYou are missing the element '"+theId+"'");
-				return;
-			}
-			var theBody = findBody(comment);
-			if(comment.className.indexOf("collapsed") > -1) {
-				comment.className = comment.className.replace(" collapsed", "");;
-			} 
-		}
-		
-		function findBody(el)
-		{
-			var divs = el.getElementsByTagName("div");
-			var ret;
-			for(var i = 0; i < divs.length; ++i) {
-				if(divs.item(i).className.indexOf("body") > -1)
-					return divs.item(i);
-			}
-			return false;
-		}
-	
-		function onAddComment() {
-			//checkDocumentIntegrity();
-			var el = document.getElementById("commentform");
-			// Future release: Check if form is filled correctly and mark the form fields.
-			el.submit();
-		}
-		
-		function moveAddCommentBelow(theId, threadId, collapse)
-		{
-			expandThread( theId );
-			var addComment = document.getElementById("addcomment");
-			if(!addComment)
-			{
-			  	alert("ERROR:\nThreaded Comments can't find the 'addcomment' div.\nThis is probably because you have changed\nthe comments.php file.\nMake sure there is a tag around the form\nthat has the id 'addcomment'"); 
-				return
-			}
-			var comment = document.getElementById(theId);
-			if(collapse)
-			{
-				for(var i = 0; i < comment.childNodes.length; ++i) {
-					var c = comment.childNodes.item(i);
-					if(typeof(c.className) == "string" && c.className.indexOf("collapsed")<0) {
-						c.className += " collapsed";
-					}
-				}
-			}
-			addComment.parentNode.removeChild(addComment);
-
-			comment.appendChild(addComment);
-			if(comment.className.indexOf("alt")>-1) {
-				addComment.className = addComment.className.replace(" alt", "");					
-			} else {
-				addComment.className += " alt";
-			}
-		        var replyId = document.getElementById("comment_reply_ID");
-			if(replyId == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no hidden form field called\n'comment_reply_ID'. This is probably because you\nchanged the comments.php file and forgot\nto include the field. Please take a look\nat the original comments.php and copy the\nform field over.");
-			}
-			replyId.value = threadId;
-			var reRootElement = document.getElementById("reroot");
-			if(reRootElement == null)
-			{
-				alert("Brians Threaded Comments Error:\nThere is no anchor tag called 'reroot' where\nthe comment form starts.\nPlease compare your comments.php to the original\ncomments.php and copy the reroot anchor tag over.");
-			}
-			reRootElement.style.display = "block";
-			var aTags = comment.getElementsByTagName("A");
-			var anc = aTags.item(0).id;
-			//document.location.href = "#"+anc;
-			document.getElementById("comment").focus();
-		}
-
-		function checkDocumentIntegrity()
-		{
-			str = "";
-			
-			str += checkElement("reroot","div tag");
-			str += checkElement("addcomment", "div tag");
-			str += checkElement("comment_reply_ID", "hidden form field");
-			str += checkElement("content", "div tag");
-			str += checkElement("comment", "textfield");
-			str += checkElement("addcommentanchor", "anchor tag");
-			
-			if(str != "")
-			{
-				str = "Brian's Threaded Comments are missing some of the elements that are required for it to function correctly.\nThis is probably the because you have changed the original comments.php that was included with the plugin.\n\nThese are the errors:\n" + str;
-				str += "\nYou should compare your comments.php with the original comments.php and make sure the required elements have not been removed.";
-
-				alert(str);
-			}
-		}
-               
-		function checkElement(theId, elDesc)
-		{
-			var el = document.getElementById(theId);
-			if(!el)
-			{
-				if(elDesc == null)
-					elDesc = "element";
-				return "- The "+elDesc+" with the ID '" +theId + "' is missing\n"; 
-			}
-			else 
-				return "";
-		}
-		
-		function reRoot()
-		{
-			var addComment = document.getElementById("addcomment");			
-			var reRootElement = document.getElementById("reroot");
-			reRootElement.style.display = "none";
-			var content = document.getElementById("content-main");
-			if( !content )
-				content = document.getElementById("content");
-			if( content )
-			{
-				addComment.parentNode.removeChild(addComment);
-				content.appendChild(addComment);
-			}
-			addComment.className = addComment.className.replace(" alt", "");
-			document.location.href = "#addcommentanchor";
-			document.getElementById("comment").focus();				
-			document.getElementById("comment_reply_ID").value = "0";
-		}			
-		
-		function changeCommentSize(d)
-		{
-			var el = document.getElementById("comment");
-			var height = parseInt(el.style.height);
-			if(!height && el.offsetHeight)
-				height = el.offsetHeight;
-			height += d;
-			if(height < 20) 
-				height = 20;
-			el.style.height = height+"px";
-		}		
--->
-</script>
-<style type="text/css">
-.comment 
-{
-	position: 				relative;
-	margin:					3px;
-	margin-top:				6px;
-/*	border: 				1px solid #666; */
-	padding:				4px 4px 4px 8px;
-	background-color:		#fff;
-}
-
-.odd
-{
-	background-color: #f8f8f8;
-}
-
-.comment div {
-	position: 				relative;
-}
-
-.comment .comment img
-{
-	margin: 				0px;
-}
-
-.comment .collapseicon 
-{
-	width: 					13px;
-	height: 				13px;
-	overflow:				hidden;
-	background-image: 		url(http://imovies4you.com/wp-content/plugins/briansthreadedcomments.php?image=subthread-open.png);
-}
-
-.collapsed .collapseicon 
-{
-	background-image: 		url(http://imovies4you.com/wp-content/plugins/briansthreadedcomments.php?image=subthread.png);
-}
-
-
-.comment .reply {
-	text-align: 			right;
-	font-size: 				80%;
-	padding: 				0px 6px 6px 0px;
-}
-
-.comment
-{
-	border: 	1px solid #ddd;
-	margin-top: 			10px;
-}
-
-input#subscribe
-{
-	width: auto;
-}
-
-.comment .body .content
-{
-	padding:				0px 3px 0px 3px;
-	/*width: 					100%;	*/
-	overflow: 				auto; 
-}
-
-.comment .title abbr
-{
-	border: none;
-}
-
-.collapsed .body, .collapsed .comment
-{
-	display:				none;
-}
- 
-#commentform textarea {
-	width: 97%;
-}
-
-.btc_gravatar {
-	float: right;
-	margin: 3px 3px 4px 4px;
-}
-</style>
-
-<!-- Start Of Script Generated By WP-Polls 2.20 -->
-<script type="text/javascript" src="http://imovies4you.com/wp-includes/js/tw-sack.js?ver=1.6.1"></script>
-<script type="text/javascript" src="http://imovies4you.com/wp-content/plugins/polls/polls-js.php?ver=2.20"></script>
-<link rel="stylesheet" href="http://imovies4you.com/wp-content/plugins/polls/polls-css.css" type="text/css" media="screen">
-<style type="text/css">
-.wp-polls .pollbar {
-	margin: 1px;
-	font-size: 6px;
-	line-height: 8px;
-	height: 8px;
-	background: #ffff99;
-	border: 1px solid #660000;
-}
-</style>
-<!-- End Of Script Generated By WP-Polls 2.20 -->
 </head>
 
 <body>
@@ -339,30 +92,31 @@ input#subscribe
 </div><!-- SITEINFO END -->
 
 <div id="topbanner">
-<!-- Begin: adBrite, Generated: 2011-04-24 10:11:36  -->
+<!-- Begin: adBrite, Generated: 2011-09-24 8:04:16  -->
 <script type="text/javascript">
-var AdBrite_Title_Color = '0000FF';
-var AdBrite_Text_Color = '000000';
-var AdBrite_Background_Color = 'CAF99B';
+var AdBrite_Title_Color = '00FF80';
+var AdBrite_Text_Color = 'FFFFFF';
+var AdBrite_Background_Color = '000000';
 var AdBrite_Border_Color = '000000';
 var AdBrite_URL_Color = '008000';
 try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
 </script>
-<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1324726&zs=3732385f3930&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1324726&amp;zs=3732385f3930&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110516091130id_%2Fhttp%3A%2F%2Fimovies4you.com%2Fprivacy-policy%2F" type="text/javascript"></script>
+<span style="white-space:nowrap;"><script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1324726&zs=3732385f3930&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1324726&amp;zs=3732385f3930&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111103173824id_%2Fhttp%3A%2F%2Fimovies4you.com%2Fprivacy-policy%2F" type="text/javascript"></script>
 <a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1324726&amp;afsid=1"><img src="http://files.adbrite.com/mb/images/adbrite-your-ad-here-leaderboard-w.gif" style="background-color:#000000;border:none;padding:0;margin:0;" alt="Your Ad Here" width="14" height="90" border="0"></a></span>
 <!-- End: adBrite --></div><!-- TOPBANNER END -->
 <div class="clearfix"></div>
 </div><!-- HEADER END -->
+
 <div id="main">
 
 <center>
 <script type="text/javascript">
    var infolink_pid = 11082;
-   var infolink_wsid = 1;
+   var infolink_wsid = 2;
 </script>
 <script type="text/javascript" src="http://resources.infolinks.com/js/infolinks_main.js"></script>
 <input type="hidden" name="IL_RELATED_TAGS" value="1">
-    
+
 </center>
 
 <div id="sidebar-left">
@@ -370,46 +124,37 @@ try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document
 
 <ul class="sidebar_list">
 
-<li id="text-10" class="widget widget_text"><h6>Subscribe to iMovies</h6>			<div class="textwidget"><form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=imovies4you/OkEO', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"></p><input type="hidden" value="imovies4you/OkEO" name="uri"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Subscribe"><p>Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
-
-<p><a href="http://feeds.feedburner.com/imovies4you/OkEO"><img src="http://feeds.feedburner.com/~fc/imovies4you/OkEO?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p>
-<script type="text/javascript" src="http://widgets.amung.us/tab.js"></script><script type="text/javascript">WAU_tab('fmmkb2p09tew', 'bottom-center')</script>
-
-<!-- Begin: adBrite, Generated: 2011-04-24 10:13:48  -->
-<script type="text/javascript">
-var AdBrite_Title_Color = '0000FF';
-var AdBrite_Text_Color = '000000';
-var AdBrite_Background_Color = 'CAF99B';
-var AdBrite_Border_Color = 'A9501B';
-var AdBrite_URL_Color = '008000';
-try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
+<li id="text-10" class="widget widget_text"><h6>Subscribe to iMovies</h6>			<div class="textwidget"> <!-- BEGIN SMOWTION TAG - 160x600 - DO NOT MODIFY -->
+<script type="text/javascript"><!--
+smowtion_size = "160x600";
+smowtion_section = "1033416";
+//-->
 </script>
-<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1327599&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1327599&amp;zs=3136305f363030&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110516091130id_%2Fhttp%3A%2F%2Fimovies4you.com%2Fprivacy-policy%2F" type="text/javascript"></script>
-<div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1327599&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
-<!-- End: adBrite -->
-<script src="http://www.trafficrevenue.net/banner.js?username=imovies4you&amp;s=160x600"></script>
+<script type="text/javascript" src="http://ads.smowtion.com/ad.js?s=1033416&amp;z=160x600">
+</script>
+<!-- END SMOWTION TAG - 160x600 - DO NOT MODIFY -->
+
+ <!-- Begin BidVertiser code -->
+<script language="JavaScript1.1" src="http://bdv.bidvertiser.com/BidVertiser.dbm?pid=130817&amp;bid=316036" type="text/javascript"></script>
+<noscript><a href="http://www.bidvertiser.com/bdv/BidVertiser/bdv_publisher_toolbar.dbm">toolbar maker</a></noscript>
+<!-- End BidVertiser code --> 
 
 <script type="text/javascript">
 ch_client = "imovies4you";
-ch_type = "mpu";
 ch_width = 160;
 ch_height = 600;
-ch_color_bg = "dbdbb7";
-ch_color_border = "dbdbb7";
-ch_color_title = "0D37CC";
-ch_color_site_link = "0D37CC";
-ch_color_text = "000000";
-ch_non_contextual = 4;
-ch_vertical ="premium";
-ch_sid = "Chitika Premium";
-var ch_queries = new Array( );
-var ch_selected=Math.floor((Math.random()*ch_queries.length));
-if ( ch_selected < ch_queries.length ) {
-ch_query = ch_queries[ch_selected];
-}
+ch_type = "mpu";
+ch_sid = "Chitika Default";
+ch_backfill = 1;
+ch_color_site_link = "#0000CC";
+ch_color_title = "#0000CC";
+ch_color_border = "#3D3D3D";
+ch_color_text = "#000000";
+ch_color_bg = "#C0C290";
 </script>
 <script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
-</script></div>
+</script>
+</div>
 		</li>
 </ul><!-- SIDEBAR LIST END -->
 
@@ -426,6 +171,56 @@ ch_query = ch_queries[ch_selected];
 
 <h1>Privacy Policy</h1>
 
+<div class="adsense-single">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_preferred_5"></a>
+<a class="addthis_button_preferred_6"></a>
+<a class="addthis_button_preferred_7"></a>
+<a class="addthis_button_preferred_8"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cefe87832c47622"></script>
+<!-- AddThis Button END -->
+
+
+
+<!-- BEGIN SMOWTION TAG - 468x60 - DO NOT MODIFY -->
+<script type="text/javascript"><!--
+smowtion_size = "468x60";
+smowtion_section = "1033416";
+//-->
+</script>
+<script type="text/javascript" src="http://ads.smowtion.com/ad.js?s=1033416&amp;z=468x60">
+</script>
+<!-- END SMOWTION TAG - 468x60 - DO NOT MODIFY -->
+
+<script type="text/javascript">
+ch_fluidH = 1;
+ch_nump = "2";
+ch_client = "imovies4you";
+ch_width = 550;
+ch_height = "auto";
+ch_type = "mpu";
+ch_sid = "Chitika Default";
+ch_backfill = 1;
+ch_color_site_link = "#0000CC";
+ch_color_title = "#0000CC";
+ch_color_border = "#dbdbb7";
+ch_color_text = "#000000";
+ch_color_bg = "#DBDBB7";
+</script>
+<script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
+</script>
+
+<!-- BEGIN STANDARD TAG - 468 x 60 - ROS: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="468" height="60" src="http://ad.bharatstudent.com/st?ad_type=iframe&amp;ad_size=468x60&amp;section=920952"></iframe>
+<!-- END TAG -->
+</div>
 
 <div class="post-content-single">
 <p>We respect your privacy and we are committed to safeguarding your privacy while you are using our site <a href="http://www.imovies4you.com/"><font color="#0000ff">http://www.imovies4you.com</font></a>. The following discloses the information gathering and dissemination practices for this Web site.</p>
@@ -436,8 +231,58 @@ ch_query = ch_queries[ch_selected];
 <p>A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners (advertisers) use cookies on our site. But, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising. Please check their websites for respective privacy policies.</p>
 <p>This policy is not intended to be a contractual obligation of any kind. It is intended to set forth imovies4you’s current policy and will take reasonable measures to implement this policy.</p>
 <p><strong><em><font color="#ff0000">If you feel that any videos, content&nbsp;or links&nbsp;on </font></em></strong><a href="http://www.imovies4you.com/"><font color="#0000ff"><strong><em>www.iMovies4You.com</em></strong></font></a><font color="#ff0000"><strong><em> has objectionable content or violating your copyrights, and If you are a copyright owner or an agent thereof and believe that any links or other content infringes upon your copyrights, Please contact us with the email </em></strong></font><a href="mailto:imovies4you@gmail.com"><font color="#0000ff"><strong><em>imovies4you@gmail.com</em></strong></font></a><font color="#ff0000"><strong><em>. So that those videos/content/links shall be promptly removed from our website.</em></strong></font></p>
-<div><a href="http://www.addthis.com/bookmark.php" onclick="window.open('http://www.addthis.com/bookmark.php?pub=&amp;url=http%3A%2F%2Fimovies4you.com%2Fprivacy-policy%2F&amp;title=Privacy+Policy', 'addthis', 'scrollbars=yes,menubar=no,width=620,height=520,resizable=yes,toolbar=no,location=no,status=no'); return false;" title="Bookmark using any bookmark manager!" target="_blank"><img src="http://s3.addthis.com/button1-bm.gif" width="125" height="16" border="0"></a></div></div><!-- POST CONTENT 990 END  -->
+</div><!-- POST CONTENT 990 END  -->
 
+<div class="adsense-single">
+<!-- AddThis Button BEGIN -->
+<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+<a class="addthis_button_preferred_1"></a>
+<a class="addthis_button_preferred_2"></a>
+<a class="addthis_button_preferred_3"></a>
+<a class="addthis_button_preferred_4"></a>
+<a class="addthis_button_preferred_5"></a>
+<a class="addthis_button_preferred_6"></a>
+<a class="addthis_button_preferred_7"></a>
+<a class="addthis_button_preferred_8"></a>
+<a class="addthis_button_compact"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4cefe87832c47622"></script>
+<!-- AddThis Button END -->
+
+
+
+<!-- BEGIN SMOWTION TAG - 468x60 - DO NOT MODIFY -->
+<script type="text/javascript"><!--
+smowtion_size = "468x60";
+smowtion_section = "1033416";
+//-->
+</script>
+<script type="text/javascript" src="http://ads.smowtion.com/ad.js?s=1033416&amp;z=468x60">
+</script>
+<!-- END SMOWTION TAG - 468x60 - DO NOT MODIFY -->
+
+<script type="text/javascript">
+ch_fluidH = 1;
+ch_nump = "2";
+ch_client = "imovies4you";
+ch_width = 550;
+ch_height = "auto";
+ch_type = "mpu";
+ch_sid = "Chitika Default";
+ch_backfill = 1;
+ch_color_site_link = "#0000CC";
+ch_color_title = "#0000CC";
+ch_color_border = "#dbdbb7";
+ch_color_text = "#000000";
+ch_color_bg = "#DBDBB7";
+</script>
+<script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
+</script>
+
+<!-- BEGIN STANDARD TAG - 468 x 60 - ROS: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="468" height="60" src="http://ad.bharatstudent.com/st?ad_type=iframe&amp;ad_size=468x60&amp;section=920952"></iframe>
+<!-- END TAG -->
+</div>
 
 <div class="clearfix"></div>
 </div><!-- POST META 990 END -->
@@ -447,88 +292,8 @@ ch_query = ch_queries[ch_selected];
 <!-- You can start editing here. -->
 <div id="commentpost">
 
-<h4 id="comments">5 Responses to <span>“Privacy Policy”</span></h4>
 
-<div class="pnav">
-<div class="alignleft"></div>
-<div class="alignright"></div>
-<div class="clearfix"></div>
-</div>
-
-<ol class="commentlist">
-		<li class="comment even thread-even depth-1" id="comment-32776">
-				<div id="div-comment-32776" class="comment-body">
-				<div class="comment-author vcard">
-		<img alt="" src="http://www.gravatar.com/avatar/5f91b18196a3423b5fc78ba623737343?s=32&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" class="avatar avatar-32 photo" height="32" width="32">		<cite class="fn"><a href="http://imovies4you.com" rel="external nofollow" class="url">satyanarayana reddy</a></cite> <span class="says">says:</span>		</div>
-
-		<div class="comment-meta commentmetadata"><a href="http://imovies4you.com/privacy-policy/comment-page-1/#comment-32776">July 22, 2010 at 10:12 pm</a></div>
-
-		<p>the web site is most useful 2 telugu film songs listeners</p>
-
-		<div class="reply">
-				</div>
-				</div>
-		</li>
-		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-32777">
-				<div id="div-comment-32777" class="comment-body">
-				<div class="comment-author vcard">
-		<img alt="" src="http://www.gravatar.com/avatar/5f91b18196a3423b5fc78ba623737343?s=32&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" class="avatar avatar-32 photo" height="32" width="32">		<cite class="fn"><a href="http://imovies4you.com" rel="external nofollow" class="url">satyanarayana reddy</a></cite> <span class="says">says:</span>		</div>
-
-		<div class="comment-meta commentmetadata"><a href="http://imovies4you.com/privacy-policy/comment-page-1/#comment-32777">July 22, 2010 at 10:12 pm</a></div>
-
-		<p>good web site</p>
-
-		<div class="reply">
-				</div>
-				</div>
-		</li>
-		<li class="comment even thread-even depth-1" id="comment-32781">
-				<div id="div-comment-32781" class="comment-body">
-				<div class="comment-author vcard">
-		<img alt="" src="http://www.gravatar.com/avatar/5f91b18196a3423b5fc78ba623737343?s=32&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" class="avatar avatar-32 photo" height="32" width="32">		<cite class="fn"><a href="http://imovies4you.com" rel="external nofollow" class="url">satyanarayana reddy</a></cite> <span class="says">says:</span>		</div>
-
-		<div class="comment-meta commentmetadata"><a href="http://imovies4you.com/privacy-policy/comment-page-1/#comment-32781">July 22, 2010 at 10:15 pm</a></div>
-
-		<p>site is 2good of collections of songs</p>
-
-		<div class="reply">
-				</div>
-				</div>
-		</li>
-		<li class="comment odd alt thread-odd thread-alt depth-1" id="comment-32782">
-				<div id="div-comment-32782" class="comment-body">
-				<div class="comment-author vcard">
-		<img alt="" src="http://www.gravatar.com/avatar/5f91b18196a3423b5fc78ba623737343?s=32&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" class="avatar avatar-32 photo" height="32" width="32">		<cite class="fn"><a href="http://imovies4you.com" rel="external nofollow" class="url">satyanarayana reddy</a></cite> <span class="says">says:</span>		</div>
-
-		<div class="comment-meta commentmetadata"><a href="http://imovies4you.com/privacy-policy/comment-page-1/#comment-32782">July 22, 2010 at 10:16 pm</a></div>
-
-		<p>site helps all people</p>
-
-		<div class="reply">
-				</div>
-				</div>
-		</li>
-		<li class="comment even thread-even depth-1" id="comment-32784">
-				<div id="div-comment-32784" class="comment-body">
-				<div class="comment-author vcard">
-		<img alt="" src="http://www.gravatar.com/avatar/5f91b18196a3423b5fc78ba623737343?s=32&amp;d=http%3A%2F%2Fwww.gravatar.com%2Favatar%2Fad516503a11cd5ca435acc9bb6523536%3Fs%3D32&amp;r=G" class="avatar avatar-32 photo" height="32" width="32">		<cite class="fn"><a href="http://imovies4you.com" rel="external nofollow" class="url">satyanarayana reddy</a></cite> <span class="says">says:</span>		</div>
-
-		<div class="comment-meta commentmetadata"><a href="http://imovies4you.com/privacy-policy/comment-page-1/#comment-32784">July 22, 2010 at 10:17 pm</a></div>
-
-		<p>this site is satis fing many viwers</p>
-
-		<div class="reply">
-				</div>
-				</div>
-		</li>
-</ol>
-
-<div class="pnav">
-<div class="alignleft"></div>
-<div class="alignright"></div>
-<div class="clearfix"></div>
-</div>
-
+		<!-- If comments are open, but there are no comments. -->
 
 
 
@@ -546,10 +311,10 @@ ch_query = ch_queries[ch_selected];
 
 
 <p><input type="text" class="tf" name="author" id="author" value="" size="22" tabindex="1">
-<label for="author"><small>Name (required)</small></label></p>
+<label for="author"><small>Name </small></label></p>
 
 <p><input type="text" class="tf" name="email" id="email" value="" size="22" tabindex="2">
-<label for="email"><small>E-Mail (will not be published) (required)</small></label></p>
+<label for="email"><small>E-Mail (will not be published) </small></label></p>
 
 <p><input type="text" class="tf" name="url" id="url" value="" size="22" tabindex="3">
 <label for="url"><small>Website</small></label></p>
@@ -562,7 +327,7 @@ ch_query = ch_queries[ch_selected];
 <input type="hidden" name="comment_post_ID" value="990" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
 </p>
-<input type="hidden" id="comment_reply_ID" name="comment_reply_ID" value="0">
+
 
 </form>
 
@@ -611,18 +376,20 @@ ch_query = ch_queries[ch_selected];
 </form>
 </li><!-- SEARCHBOX END -->
 <li id="pages-2" class="widget widget_pages"><h6>Pages</h6>		<ul>
-			<li class="page_item page-item-55"><a href="http://imovies4you.com/disclaimer/" title="Disclaimer">Disclaimer</a></li>
+			<li class="page_item page-item-16869"><a href="http://imovies4you.com/rare-childhood-and-wedding-pictures/" title="Childhood and Wedding Pictures">Childhood and Wedding Pictures</a></li>
+<li class="page_item page-item-55"><a href="http://imovies4you.com/disclaimer/" title="Disclaimer">Disclaimer</a></li>
 <li class="page_item page-item-1694"><a href="http://imovies4you.com/english-movies-index/" title="English Movies Index">English Movies Index</a></li>
 <li class="page_item page-item-10385"><a href="http://imovies4you.com/hindi-dubbed-movies-index/" title="Hindi Dubbed Movies Index">Hindi Dubbed Movies Index</a></li>
 <li class="page_item page-item-1692"><a href="http://imovies4you.com/hindi-movies-index/" title="Hindi Movies Index">Hindi Movies Index</a></li>
-<li class="page_item page-item-14843"><a href="http://imovies4you.com" title="Movies World – Main Page">Movies World – Main Page</a></li>
+<li class="page_item page-item-14843"><a href="http://imovies4you.com/movies-world-main-page/" title="Movies World – Main Page">Movies World – Main Page</a></li>
 <li class="page_item page-item-87"><a href="http://imovies4you.com/picture-gallary/" title="Picture Gallary">Picture Gallary</a></li>
 <li class="page_item page-item-990 current_page_item"><a href="http://imovies4you.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
 <li class="page_item page-item-341"><a href="http://imovies4you.com/sri-sai-baba-shiridi-live-darshan/" title="Sri Sai Baba – Shiridi Live Darshan">Sri Sai Baba – Shiridi Live Darshan</a></li>
 <li class="page_item page-item-1695"><a href="http://imovies4you.com/tamil-movies-index/" title="Tamil Movies Index">Tamil Movies Index</a></li>
 <li class="page_item page-item-1693"><a href="http://imovies4you.com/telugu-movies-index/" title="Telugu Movies Index">Telugu Movies Index</a></li>
 		</ul>
-		</li><li id="text-9" class="widget widget_text">			<div class="textwidget"><!-- Start of StatCounter Code -->
+		</li><li id="text-9" class="widget widget_text">			<div class="textwidget"><center>
+<!-- Start of StatCounter Code -->
 <script type="text/javascript">
 var sc_project=3458787; 
 var sc_invisible=0; 
@@ -646,36 +413,37 @@ var AdBrite_Border_Color = 'A9501B';
 var AdBrite_URL_Color = '008000';
 try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
 </script>
-<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1327599&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1327599&amp;zs=3136305f363030&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110516091130id_%2Fhttp%3A%2F%2Fimovies4you.com%2Fprivacy-policy%2F" type="text/javascript"></script>
+<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1327599&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1327599&amp;zs=3136305f363030&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20111103173824id_%2Fhttp%3A%2F%2Fimovies4you.com%2Fprivacy-policy%2F" type="text/javascript"></script>
 <div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1327599&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
 <!-- End: adBrite -->
 
 <script type="text/javascript">
 ch_client = "imovies4you";
-ch_type = "mpu";
 ch_width = 160;
 ch_height = 600;
-ch_color_bg = "dbdbb7";
-ch_color_border = "dbdbb7";
-ch_color_title = "0D37CC";
-ch_color_site_link = "0D37CC";
-ch_color_text = "000000";
-ch_non_contextual = 4;
-ch_vertical ="premium";
-ch_sid = "Chitika Premium";
-var ch_queries = new Array( );
-var ch_selected=Math.floor((Math.random()*ch_queries.length));
-if ( ch_selected < ch_queries.length ) {
-ch_query = ch_queries[ch_selected];
-}
+ch_type = "mpu";
+ch_sid = "Chitika Default";
+ch_backfill = 1;
+ch_color_site_link = "#0000CC";
+ch_color_title = "#0000CC";
+ch_color_border = "#3D3D3D";
+ch_color_text = "#000000";
+ch_color_bg = "#C0C290";
 </script>
 <script src="http://scripts.chitika.net/eminimalls/amm.js" type="text/javascript">
 </script>
 
-<!-- BEGIN STANDARD TAG - 160 x 600 - ROS: Run-of-site - DO NOT MODIFY -->
-<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="160" height="600" src="http://ad.bharatstudent.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=920952"></iframe>
-<!-- END TAG -->
-</div>
+<!-- BEGIN SMOWTION TAG - 160x600 - DO NOT MODIFY -->
+<script type="text/javascript"><!--
+smowtion_size = "160x600";
+smowtion_section = "1033416";
+//-->
+</script>
+<script type="text/javascript" src="http://ads.smowtion.com/ad.js?s=1033416&amp;z=160x600">
+</script>
+<!-- END SMOWTION TAG - 160x600 - DO NOT MODIFY -->
+
+</center></div>
 		</li>
 </ul><!-- SIDEBAR LIST END -->
 
@@ -685,7 +453,15 @@ ch_query = ch_queries[ch_selected];
 
 <ul class="sidebar_list">
 
-<li id="text-11" class="widget widget_text">			<div class="textwidget"><iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInternet-Movies%2F145847542128626&amp;width=200&amp;colorscheme=light&amp;connections=10&amp;header=true&amp;height=280" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:280px;" allowtransparency="true"></iframe></div>
+<li id="text-11" class="widget widget_text"><h6>Join us on Facebook</h6>			<div class="textwidget"><center>
+
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FInternet-Movies%2F145847542128626&amp;width=200&amp;colorscheme=light&amp;connections=10&amp;header=true&amp;height=280" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:200px; height:280px;" allowtransparency="true"></iframe>
+
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=imovies4you/OkEO', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"></p><input type="hidden" value="imovies4you/OkEO" name="uri"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Subscribe"><p>Delivered by <a href="http://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
+
+<p><a href="http://feeds.feedburner.com/imovies4you/OkEO"><img src="http://feeds.feedburner.com/~fc/imovies4you/OkEO?bg=99CCFF&amp;fg=444444&amp;anim=0" height="26" width="88" style="border:0" alt=""></a></p>
+
+</center></div>
 		</li><li id="categories-2" class="widget widget_categories"><h6>Categories</h6>		<ul>
 	<li class="cat-item cat-item-242"><a href="http://imovies4you.com/category/a-r-rahman-collections/" title="View all posts filed under A R Rahman Collections">A R Rahman Collections</a> (6)
 </li>
@@ -693,7 +469,7 @@ ch_query = ch_queries[ch_selected];
 </li>
 	<li class="cat-item cat-item-302"><a href="http://imovies4you.com/category/andariki-ayurvedam/" title="View all posts filed under Andariki Ayurvedam">Andariki Ayurvedam</a> (3)
 </li>
-	<li class="cat-item cat-item-327"><a href="http://imovies4you.com/category/awards-ceremony-videos/" title="View all posts filed under Awards Ceremony Videos">Awards Ceremony Videos</a> (23)
+	<li class="cat-item cat-item-327"><a href="http://imovies4you.com/category/awards-ceremony-videos/" title="View all posts filed under Awards Ceremony Videos">Awards Ceremony Videos</a> (24)
 </li>
 	<li class="cat-item cat-item-223"><a href="http://imovies4you.com/category/charlie-chaplin%e2%80%99s-collections/" title="View all posts filed under Charlie Chaplin’s Collections">Charlie Chaplin’s Collections</a> (3)
 </li>
@@ -709,45 +485,45 @@ ch_query = ch_queries[ch_selected];
 </li>
 	<li class="cat-item cat-item-303"><a href="http://imovies4you.com/category/download-telugu-e-books/" title="View all posts filed under Download Telugu E-Books">Download Telugu E-Books</a> (13)
 </li>
-	<li class="cat-item cat-item-30"><a href="http://imovies4you.com/category/english/" title="View all posts filed under English">English</a> (724)
+	<li class="cat-item cat-item-30"><a href="http://imovies4you.com/category/english/" title="View all posts filed under English">English</a> (750)
 </li>
-	<li class="cat-item cat-item-76"><a href="http://imovies4you.com/category/english-download-movies/" title="View all posts filed under English Download Movies">English Download Movies</a> (672)
+	<li class="cat-item cat-item-76"><a href="http://imovies4you.com/category/english-download-movies/" title="View all posts filed under English Download Movies">English Download Movies</a> (699)
 </li>
-	<li class="cat-item cat-item-31"><a href="http://imovies4you.com/category/english-online-movies/" title="View all posts filed under English Online Movies">English Online Movies</a> (678)
+	<li class="cat-item cat-item-31"><a href="http://imovies4you.com/category/english-online-movies/" title="View all posts filed under English Online Movies">English Online Movies</a> (705)
 </li>
 	<li class="cat-item cat-item-166"><a href="http://imovies4you.com/category/english-pop-albums/" title="View all posts filed under English POP Albums">English POP Albums</a> (21)
 </li>
 	<li class="cat-item cat-item-136"><a href="http://imovies4you.com/category/english-songs/" title="View all posts filed under English Songs">English Songs</a> (22)
 </li>
-	<li class="cat-item cat-item-329"><a href="http://imovies4you.com/category/english-spicy-movies/" title="View all posts filed under English Spicy Movies">English Spicy Movies</a> (47)
+	<li class="cat-item cat-item-329"><a href="http://imovies4you.com/category/english-spicy-movies/" title="View all posts filed under English Spicy Movies">English Spicy Movies</a> (57)
 </li>
 	<li class="cat-item cat-item-89"><a href="http://imovies4you.com/category/english-tv-show/" title="View all posts filed under English TV Show">English TV Show</a> (9)
 </li>
-	<li class="cat-item cat-item-375"><a href="http://imovies4you.com/category/featured/" title="View all posts filed under Featured">Featured</a> (5)
+	<li class="cat-item cat-item-375"><a href="http://imovies4you.com/category/featured/" title="View all posts filed under Featured">Featured</a> (6)
 </li>
 	<li class="cat-item cat-item-90"><a href="http://imovies4you.com/category/friends/" title="View all posts filed under Friends">Friends</a> (6)
 </li>
-	<li class="cat-item cat-item-144"><a href="http://imovies4you.com/category/general/" title="View all posts filed under General">General</a> (17)
+	<li class="cat-item cat-item-144"><a href="http://imovies4you.com/category/general/" title="View all posts filed under General">General</a> (21)
 </li>
 	<li class="cat-item cat-item-91"><a href="http://imovies4you.com/category/ghantasala/" title="View all posts filed under Ghantasala">Ghantasala</a> (1)
 </li>
-	<li class="cat-item cat-item-12"><a href="http://imovies4you.com/category/hindi/" title="View all posts filed under Hindi">Hindi</a> (1239)
+	<li class="cat-item cat-item-12"><a href="http://imovies4you.com/category/hindi/" title="View all posts filed under Hindi">Hindi</a> (1299)
 </li>
-	<li class="cat-item cat-item-47"><a href="http://imovies4you.com/category/hindi-download-movies/" title="View all posts filed under Hindi Download Movies">Hindi Download Movies</a> (657)
+	<li class="cat-item cat-item-47"><a href="http://imovies4you.com/category/hindi-download-movies/" title="View all posts filed under Hindi Download Movies">Hindi Download Movies</a> (697)
 </li>
-	<li class="cat-item cat-item-274"><a href="http://imovies4you.com/category/hindi-dubbed-movies/" title="View all posts filed under Hindi Dubbed Movies">Hindi Dubbed Movies</a> (90)
+	<li class="cat-item cat-item-274"><a href="http://imovies4you.com/category/hindi-dubbed-movies/" title="View all posts filed under Hindi Dubbed Movies">Hindi Dubbed Movies</a> (93)
 </li>
 	<li class="cat-item cat-item-104"><a href="http://imovies4you.com/category/hindi-mp3-collections/" title="View all posts filed under Hindi MP3 Collections">Hindi MP3 Collections</a> (59)
 </li>
 	<li class="cat-item cat-item-40"><a href="http://imovies4you.com/category/hindi-mp3-downloads/" title="View all posts filed under Hindi MP3 Downloads">Hindi MP3 Downloads</a> (224)
 </li>
-	<li class="cat-item cat-item-11"><a href="http://imovies4you.com/category/hindi-online-movie/" title="View all posts filed under Hindi Online Movies">Hindi Online Movies</a> (701)
+	<li class="cat-item cat-item-11"><a href="http://imovies4you.com/category/hindi-online-movie/" title="View all posts filed under Hindi Online Movies">Hindi Online Movies</a> (732)
 </li>
-	<li class="cat-item cat-item-328"><a href="http://imovies4you.com/category/hindi-spicy-movies/" title="View all posts filed under Hindi Spicy Movies">Hindi Spicy Movies</a> (56)
+	<li class="cat-item cat-item-328"><a href="http://imovies4you.com/category/hindi-spicy-movies/" title="View all posts filed under Hindi Spicy Movies">Hindi Spicy Movies</a> (59)
 </li>
 	<li class="cat-item cat-item-60"><a href="http://imovies4you.com/category/hindi-tv-serials/" title="View all posts filed under Hindi TV Serials">Hindi TV Serials</a> (71)
 </li>
-	<li class="cat-item cat-item-180"><a href="http://imovies4you.com/category/hindi-video-songs/" title="View all posts filed under Hindi Video Songs">Hindi Video Songs</a> (129)
+	<li class="cat-item cat-item-180"><a href="http://imovies4you.com/category/hindi-video-songs/" title="View all posts filed under Hindi Video Songs">Hindi Video Songs</a> (155)
 </li>
 	<li class="cat-item cat-item-92"><a href="http://imovies4you.com/category/ilayaraja-collection/" title="View all posts filed under Ilayaraja Collection">Ilayaraja Collection</a> (6)
 </li>
@@ -779,33 +555,33 @@ ch_query = ch_queries[ch_selected];
 </li>
 	<li class="cat-item cat-item-276"><a href="http://imovies4you.com/category/swaathi-telugu-magazine/" title="View all posts filed under Swaathi Telugu Magazine">Swaathi Telugu Magazine</a> (10)
 </li>
-	<li class="cat-item cat-item-27"><a href="http://imovies4you.com/category/tamil/" title="View all posts filed under Tamil">Tamil</a> (548)
+	<li class="cat-item cat-item-27"><a href="http://imovies4you.com/category/tamil/" title="View all posts filed under Tamil">Tamil</a> (584)
 </li>
-	<li class="cat-item cat-item-35"><a href="http://imovies4you.com/category/tamil-download-movies/" title="View all posts filed under Tamil Download movies">Tamil Download movies</a> (367)
+	<li class="cat-item cat-item-35"><a href="http://imovies4you.com/category/tamil-download-movies/" title="View all posts filed under Tamil Download movies">Tamil Download movies</a> (400)
 </li>
 	<li class="cat-item cat-item-103"><a href="http://imovies4you.com/category/tamil-mp3-downloads/" title="View all posts filed under Tamil MP3 Downloads">Tamil MP3 Downloads</a> (102)
 </li>
-	<li class="cat-item cat-item-28"><a href="http://imovies4you.com/category/tamil-online-movies/" title="View all posts filed under Tamil Online Movies">Tamil Online Movies</a> (402)
+	<li class="cat-item cat-item-28"><a href="http://imovies4you.com/category/tamil-online-movies/" title="View all posts filed under Tamil Online Movies">Tamil Online Movies</a> (431)
 </li>
-	<li class="cat-item cat-item-160"><a href="http://imovies4you.com/category/tamil-video-songs/" title="View all posts filed under Tamil Video Songs">Tamil Video Songs</a> (29)
+	<li class="cat-item cat-item-160"><a href="http://imovies4you.com/category/tamil-video-songs/" title="View all posts filed under Tamil Video Songs">Tamil Video Songs</a> (35)
 </li>
-	<li class="cat-item cat-item-10"><a href="http://imovies4you.com/category/telugu/" title="View all posts filed under Telugu">Telugu</a> (1070)
+	<li class="cat-item cat-item-10"><a href="http://imovies4you.com/category/telugu/" title="View all posts filed under Telugu">Telugu</a> (1101)
 </li>
 	<li class="cat-item cat-item-118"><a href="http://imovies4you.com/category/telugu-comedy-clips/" title="View all posts filed under Telugu Comedy Clips">Telugu Comedy Clips</a> (2)
 </li>
-	<li class="cat-item cat-item-21"><a href="http://imovies4you.com/category/telugu-download-movie/" title="View all posts filed under Telugu Download Movies">Telugu Download Movies</a> (666)
+	<li class="cat-item cat-item-21"><a href="http://imovies4you.com/category/telugu-download-movie/" title="View all posts filed under Telugu Download Movies">Telugu Download Movies</a> (695)
 </li>
 	<li class="cat-item cat-item-374"><a href="http://imovies4you.com/category/telugu-dubbed-movies/" title="View all posts filed under Telugu Dubbed Movies">Telugu Dubbed Movies</a> (3)
 </li>
-	<li class="cat-item cat-item-57"><a href="http://imovies4you.com/category/telugu-mp3-songs/" title="View all posts filed under Telugu MP3 Downloads">Telugu MP3 Downloads</a> (184)
+	<li class="cat-item cat-item-57"><a href="http://imovies4you.com/category/telugu-mp3-songs/" title="View all posts filed under Telugu MP3 Downloads">Telugu MP3 Downloads</a> (185)
 </li>
 	<li class="cat-item cat-item-188"><a href="http://imovies4you.com/category/telugu-mp3-ringtones/" title="View all posts filed under Telugu Mp3 Ringtones">Telugu Mp3 Ringtones</a> (13)
 </li>
-	<li class="cat-item cat-item-9"><a href="http://imovies4you.com/category/telugu-online-movie/" title="View all posts filed under Telugu Online Movies">Telugu Online Movies</a> (711)
+	<li class="cat-item cat-item-9"><a href="http://imovies4you.com/category/telugu-online-movie/" title="View all posts filed under Telugu Online Movies">Telugu Online Movies</a> (734)
 </li>
 	<li class="cat-item cat-item-36"><a href="http://imovies4you.com/category/telugu-tv-serials/" title="View all posts filed under Telugu TV Serials">Telugu TV Serials</a> (13)
 </li>
-	<li class="cat-item cat-item-107"><a href="http://imovies4you.com/category/telugu-video-songs/" title="View all posts filed under Telugu Video Songs">Telugu Video Songs</a> (97)
+	<li class="cat-item cat-item-107"><a href="http://imovies4you.com/category/telugu-video-songs/" title="View all posts filed under Telugu Video Songs">Telugu Video Songs</a> (105)
 </li>
 		</ul>
 </li>
@@ -839,7 +615,4 @@ Copyright © 2011&nbsp;<a href="http://imovies4you.com" title="iMovies4You">iMov
 
 
 
-
-<!-- Dynamic page generated in 0.620 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2011-05-16 08:29:55 -->
-<!-- super cache --></body></html>
+</body></html>
