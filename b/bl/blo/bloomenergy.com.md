@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomenergy.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505084041id_/http%3A//www.bloomenergy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomenergy.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103083845id_/http%3A//www.bloomenergy.com/privacy) for the most accurate reproduction.*
 
 # Bloom Energy | Be The Solution | Privacy Policy
 
