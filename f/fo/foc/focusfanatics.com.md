@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the focusfanatics.com privacy policy that was archived on 2010-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100906020529id_/http%3A//www.focusfanatics.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the focusfanatics.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103174111id_/http%3A//www.focusfanatics.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Focus Fanatics - Privacy Policy
 
@@ -31,4 +31,4 @@ Users should be aware that when you are on the Focus Fanatics web site you could
 The importance of security for all personally identifiable information associated with our Guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers, utilizing encryption software. Only those employees who need access to your information in order to do their jobs are allowed access, each having signed compressive nondisclosure agreements, which provides explicit legal confidentiality protections. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution.
 
 **Your Acceptance of These Terms**  
-By using this site, you signify your assent to the Focus Fanatics Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Focus Fanatics site following the posting of changes to these terms will mean you accept those changes. You can send an e-mail to **[info@focusfanatics.com](mailto:info@audizine.com)** with any further questions.
+By using this site, you signify your assent to the Focus Fanatics Privacy Policy. If you do not agree to this policy, please do not use our site. Your continued use of the Focus Fanatics site following the posting of changes to these terms will mean you accept those changes. You can send an e-mail to **[info@focusfanatics.com](mailto:info@focusfanatics.com)** with any further questions.
