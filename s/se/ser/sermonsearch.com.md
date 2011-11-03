@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2011-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110104170052id_/http%3A//sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sermonsearch.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103064452id_/http%3A//www.sermonsearch.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Sermons, Illustrations, Outlines, Church Pastors, Free Bible Study Resources, Online Sermon Central
 
@@ -192,20 +192,4 @@ By using our Website, you consent to the collection and use of Your Information 
 
 Salem may at any time amend, modify, restate, or revise this Privacy Policy by updating this posting, and you should therefore periodically visit this page to view the then current Privacy Policy that is in effect. If we make any material changes, we will revise the “Last Updated” date at the top of the Privacy Policy. Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates.
 
-## FREE SermonSearch Email Newsletters
-
-To receive email newsletters, updates and special offers from SermonSearch, select your newsletter(s), enter your email address and hit "Sign Up". 
-
-Sermon Search Newsletter
-
-Sermon ideas and illustrations from SermonSearch.com
-
-The Pastor's Corner
-
-Weekly - A devotional for pastors from SermonSearch.com.
-
-Israel Insights
-
-Your Personal Link to the Holy Land
-
-##  Featured Worship Backgrounds
+## Featured Worship Backgrounds
