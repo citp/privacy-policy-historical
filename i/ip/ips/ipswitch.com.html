@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ipswitch.com privacy policy that was archived on 2011-05-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110525051428id_/http%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ipswitch.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103140811id_/http%3A//www.ipswitch.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head profile="http://gmpg.org/xfn/11">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,7 +9,34 @@
 <link rel="stylesheet" href="http://www.ipswitch.com/wp-content/themes/ipswitch/style.css" type="text/css" media="screen">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"><script type="text/javascript" src="https://web.archive.org/web/20100927075556/http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script></script><script type="text/javascript" async="" src="/_scr/ga/gaAddons-2.0.min.js"></script><script type="text/javascript" src="http://www.ipswitch.com/wp-includes/js/l10n.js?ver=20101110"></script>
 <script type="text/javascript" src="http://www.ipswitch.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://www.ipswitch.com/wp-includes/js/jquery/jquery.js?ver=1.6.1"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.ipswitch.com/xmlrpc.php?rsd">
+
+<script language="JavaScript" type="text/javascript"><!--
+
+function expand(param) {
+ jQuery("div"+param).stop().slideToggle("slow", function() {
+    linkname = jQuery("a"+param).html();
+    if( jQuery("div"+param).is(":visible") ) {
+      jQuery("a"+param).html(expand_text+" "+linkname.substring(collapse_text_length));
+    }
+    else {
+        jQuery("a"+param).html(collapse_text+" "+linkname.substring(expand_text_length));
+    }
+  });
+
+}
+function expander_hide(param) {
+        jQuery("div"+param).hide();
+		linkname = jQuery("a"+param).html();
+        collapse_text  = "&dArr;";
+        expand_text    = "&uArr;";
+        collapse_text_length = jQuery("<span />").html(collapse_text).text().length;
+        expand_text_length = jQuery("<span />").html(collapse_text).text().length;
+        jQuery("a"+param).html(collapse_text + " " + linkname);
+        jQuery("a"+param).show();
+}
+//--></script>
 <link rel="pingback" href="http://www.ipswitch.com/xmlrpc.php">
 <link rel="canonical" href="http://www.ipswitch.com/privacy-policy/">
 <!-- Google Analytics w/ gaAddons -->
@@ -36,7 +63,7 @@
 </script>
 <!-- End Google --><link rel="alternate" type="application/rss+xml" title="Ipswitch.com » CEO Blog Feed" href="http://feeds.feedburner.com/Ipswitch-CEO">
 <link rel="alternate" type="application/rss+xml" title="Ipswitch.com » iCare Blog Feed" href="http://feeds.feedburner.com/Ipswitch-iCare"></head>
-<body class="page page-id-574 page-template page-template-default header-image full-width-content">
+<body class="page page-id-574 page-template-default header-image full-width-content">
 
 <div id="wrap">
 <div id="header"><div class="wrap"><div id="title-area"><p id="title"><a href="http://www.ipswitch.com/" title="Ipswitch.com">Ipswitch.com</a></p><p id="description">Network Monitoring, Secure &amp; Managed File Transfer, &amp; Messaging</p></div><!-- end #title-area --><div class="widget-area"><div id="text-20" class="widget widget_text"><div class="widget-wrap">			<div class="textwidget"><form action="/search-results/" id="cse-search-box" onsubmit="sb=document.getElementById('searchField').value; if(sb==''||sb=='search...'){alert('Please enter a search phrase');return false;}"> 
