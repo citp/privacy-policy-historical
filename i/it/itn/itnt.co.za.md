@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itnt.co.za privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107061213id_/http%3A//www.itnt.co.za/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itnt.co.za privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103114226id_/http%3A//www.itnt.co.za/privacypolicy.html) for the most accurate reproduction.*
 
 # In The Net Technologies, InTheNet Technologies - Enterprise Anti-spam, adsl, diginet, email, dns, connectivity, free fax, Web development,web site design,graphic design,HTML,Flash,ASP,Java programming,Visual Basic,Delphi,application development,SQL,Access,database development,e-commerce solutions, website design
 
@@ -56,7 +56,7 @@ Web beacons, also known as clear gif technology or action tags, may be used to a
 You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit.
 
 **Enforcement of this Privacy Statement**  
-If you have questions regarding this statement, you should contact [privacy@mywebfactory.co.uk](mailto:privacy@mywebfactory.co.uk)
+If you have questions regarding this statement, you should contact [info@itnt.co.za](mailto:info@itnt.co.za)
 
 **Changes to this Statement**  
 We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
