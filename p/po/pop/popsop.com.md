@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popsop.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519132026id_/http%3A//popsop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popsop.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103063833id_/http%3A//popsop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – POPSOP.COM. Brand news. Brand design. Package design. Branding agencies. Brand experts
 
