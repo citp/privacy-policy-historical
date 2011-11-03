@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whatsonwhen.com privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504204636id_/http%3A//www.whatsonwhen.com/sisp/index.htm%3Ffx%3Dstatic%26page%3Dprivacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsonwhen.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103042244id_/http%3A//www.whatsonwhen.com/sisp/index.htm%3Ffx%3Dstatic%26page%3Dprivacy_policy.htm) for the most accurate reproduction.*
 
 # | Whatsonwhen
 
