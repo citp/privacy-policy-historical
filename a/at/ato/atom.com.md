@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atom.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426081832id_/http%3A//www.atom.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atom.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103062158id_/http%3A//www.atom.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # About | Atom.com
 
