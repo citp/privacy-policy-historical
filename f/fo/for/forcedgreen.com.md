@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forcedgreen.com privacy policy that was archived on 2011-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110502103611id_/http%3A//www.forcedgreen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcedgreen.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103104241id_/http%3A//www.forcedgreen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy |
 
@@ -77,3 +77,5 @@ from this Site is expressly prohibited.
 Get your own Privacy Policy [here](http://www.prioritydigital.com/)!  
   
 
+
+[](http://www.printfriendly.com/print/v2?url=http://www.forcedgreen.com/privacy-policy/)
