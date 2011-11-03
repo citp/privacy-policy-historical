@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505172953id_/http%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colorlabsproject.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103202529id_/http%3A//colorlabsproject.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ColorLabs
+# Privacy Policy - ColorLabs & Company
 
 This privacy policy sets out how ColorLabs uses and protects any information that you give ColorLabs when you use this website.
 
