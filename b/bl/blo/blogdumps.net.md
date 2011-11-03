@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogdumps.net privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422170510id_/http%3A//blogdumps.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogdumps.net privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103104245id_/http%3A//blogdumps.net/privacy-policy) for the most accurate reproduction.*
 
 # BlogDumps Bloggers » Privacy Policy
 
