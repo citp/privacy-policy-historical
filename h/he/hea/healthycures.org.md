@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthycures.org privacy policy that was archived on 2011-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110307080726id_/http%3A//healthycures.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthycures.org privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103054513id_/http%3A//healthycures.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
