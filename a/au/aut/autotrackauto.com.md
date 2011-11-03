@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrackauto.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505072732id_/http%3A//www.autotrackauto.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrackauto.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103095842id_/http%3A//www.autotrackauto.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # Privacy Policy | New cars,Used cars find good cars in AutoTrackAuto
 
