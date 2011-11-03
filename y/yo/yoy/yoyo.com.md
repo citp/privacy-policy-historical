@@ -1,125 +1,58 @@
-> *The following text is extracted and transformed from the yoyo.com privacy policy that was archived on 2004-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041231073441id_/http%3A//privacy.yahoo.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoyo.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103020828id_/http%3A//www.yoyo.com/helpcenter/privacypolicy.qs) for the most accurate reproduction.*
 
-# Yahoo! Privacy
+# Privacy Policy: Help Center - YoYo.com
 
-| **More about Yahoo! Privacy**  
----  
-|  We have detailed reference links describing our privacy practices for a wide range of Yahoo! products and services.   
-[Find them here](https://web.archive.org/privacy/us/all.html).   
-**Assistance**  
-· | [Printer-friendly format](https://web.archive.org/privacy/us/print.html)  
-· | [Privacy Policy Help](http://help.yahoo.com/help/us/privacy/)  
-· | [Contact us](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback)  
-· | [Edit Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.done=privacy.yahoo.com/privacy/us/)  
-· | [Marketing Preferences](http://subscribe.yahoo.com/showaccount)  
-· | [Marketing Communication Help](http://help.yahoo.com/help/us/ymc/index.html)  
-**Special Topics**  
-· | [Security at Yahoo!](https://web.archive.org/privacy/us/security/details.html)  
-· | [Cookies](https://web.archive.org/privacy/us/cookies/details.html)  
-· | [Third Party Ad Servers](https://web.archive.org/privacy/us/adservers/details.html)  
-· | [more...](https://web.archive.org/privacy/us/all.html)  
-**Privacy Links**  
-· | [Y! News: Privacy](http://fullcoverage.yahoo.com/Full_Coverage/Tech/Internet_Privacy)  
-· | [Y! Directory: Privacy Category](http://dir.yahoo.com/Computers_and_Internet/Internet/Issues/Privacy/)  
-· | [Search the Web: Privacy](http://search.yahoo.com/bin/search?p=privacy)  
-· | [Y! Directory: Security Category](http://dir.yahoo.com/Computers_and_Internet/Security_and_Encryption/)  
-· | [Federal Trade Commission](http://www.ftc.gov/)  
-  
-* * *  
-  
-  | 
+[YoYo.com](https://web.archive.org/) > [Help Center](https://web.archive.org/helpcenter/helpcenter.qs)  > Privacy Policy 
 
-[](https://www.truste.org/ivalidate.php?url=www.yahoo.com) Yahoo! takes your privacy seriously. Please read the following to learn more about our privacy policy.
+Quidsi, Inc. Privacy Policy Statement 
 
-**NOTICE:[Click here](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm) for important information about safe surfing from the Federal Trade Commission. **
+##  Last Updated: September 2, 2011 
 
-**What This Privacy Policy Covers**  
+Welcome to Diapers.com, Soap.com, Wag.com, YoYo.com and BeautyBar.com (the "Websites"). These Websites are owned and operated by Quidsi, Inc., its affiliates, agents and licensors (collectively, "we", "us", "our" or "Quidsi"). Quidsi is sensitive to your concerns about how we may use and share personal information that we collect from you through the Websites. We recognize and respect the importance of maintaining the privacy of our visitors and members and have established this Privacy Policy Statement ("Privacy Policy") as a result. This Privacy Policy is incorporated into our [Terms of Use](https://web.archive.org/helpcenter/termsofuse.qs) and [ Account Agreement](https://web.archive.org/helpcenter/accountagreement.qs) and therefore governs your use of the Websites and/or any services offered by Quidsi. By visiting the Websites, and/or utilizing any services offered by Quidsi, you are accepting the then current practices described in the Privacy Policy. 
 
-
-  * This policy covers how Yahoo! treats personal information that Yahoo! collects and receives, including information related to your past use of Yahoo! products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. 
-  * This policy does not apply to the practices of companies that Yahoo! does not own or control, or to people that Yahoo! does not employ or manage. In addition, certain Yahoo! associated companies such as [Inktomi](http://www.inktomi.com/info/privacy.html), [Overture](http://www.content.overture.com/d/USm/about/company/privacypolicy.jhtml), and [Altavista](http://www.altavista.com/web/legal/privacy) have their own privacy statements which can be viewed by clicking on the links. 
-
-**Information Collection and Use**
-
-      **General**  
-
-
-  * Yahoo! collects personal information when you register with Yahoo!, when you use [Yahoo! products or services](https://web.archive.org/privacy/us/all.html), when you visit Yahoo! pages or the pages of certain Yahoo! partners, and when you enter [promotions or sweepstakes](https://web.archive.org/privacy/us/promo/details.html). Yahoo! may combine information about you that we have with information we obtain from business partners or other companies. 
-  * When you register we ask for information such as your name, email address, birth date, gender, zip code, occupation, industry, and personal interests. For some financial products and services we may also ask for your address, Social Security number, and information about your assets. Once you register with Yahoo! and sign in to our services, you are not anonymous to us. 
-  * Yahoo! collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer. 
-  * Yahoo! automatically receives and records information on our server logs from your browser, including your [ IP address](https://web.archive.org/privacy/us/ip/details.html), Yahoo! [ cookie](https://web.archive.org/privacy/us/cookies/details.html) information, and the page you request. 
-  * Yahoo! uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
-
-      **Children**  
-
-
-  * When a child under age 13 attempts to register with Yahoo!, we ask that he or she have a parent or guardian create a [ Yahoo! Family Account](https://web.archive.org/privacy/us/family/details.html) to obtain parental permission. 
-  * Yahoo! will not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
-  * Yahoo! does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion. 
-
-**Information Sharing and Disclosure**  
-
-
-  * Yahoo! does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
-    * We provide the information to trusted partners who work on behalf of or with Yahoo! under confidentiality agreements. These companies may use your personal information to help Yahoo! communicate with you about offers from Yahoo! and our marketing partners. However, these companies do not have any independent right to share this information. 
-    * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Yahoo! to collect and use their child's information without consenting to Yahoo! sharing of this information with people and companies who may use this information for their own purposes; 
-    * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims; 
-    * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo!'s terms of use, or as otherwise required by law. 
-    * We transfer information about you if Yahoo! is acquired by or merged with another company. In this event, Yahoo! will notify you before information about you is transferred and becomes subject to a different privacy policy. 
-  * Yahoo! displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area. 
-    * Yahoo! does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
-    * Yahoo! advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
-  * Yahoo! works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](http://privacy.yahoo.com/privacy/us/all.html). 
-
-**Cookies**  
-
-
-  * Yahoo! may set and access Yahoo! [ cookies](https://web.archive.org/privacy/us/cookies/details.html) on your computer. 
-  * Yahoo! lets [ other companies](https://web.archive.org/privacy/us/adservers/details.html) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo!'s cookies. 
-  * Yahoo! uses [ web beacons](https://web.archive.org/privacy/us/beacons/details.html) to access Yahoo! cookies inside and outside our network of web sites and in connection with Yahoo! products and services. 
-
-**Your Ability to Edit and Delete Your Account Information and Preferences**
-
-      **General**  
-
-
-  * You can edit your [ Yahoo! Account Information](http://edit.yahoo.com/config/eval_profile?.src=&.intl=us&.done=privacy.yahoo.com/privacy/us), including your [ marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
-  * New categories of marketing communications may be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
-  * We reserve the right to send you certain communications relating to the Yahoo! service, such as service announcements, administrative messages and the Yahoo! Newsletter, that are considered part of your Yahoo! account, without offering you the opportunity to opt-out of receiving them. 
-  * You can delete your Yahoo! account by visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-      **Children**  
-
-
-  * Parents can review, edit, and delete information relating to their child's Yahoo! account using tools offered by [Yahoo! Family Accounts](http://family.yahoo.com/). 
-  * If a parent chooses not to allow us to further collect or use a child's information, parents enrolled in Yahoo! Family Accounts can delete their child's account by signing into that child's account and then visiting our [ Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [ click here](https://web.archive.org/privacy/us/archives/details.html) to read about information that might possibly remain in our archived records after your account has been deleted. 
-
-**Confidentiality and Security**  
-
-
-  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
-  * To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo!](http://privacy.yahoo.com/privacy/us/security/details.html). 
-
-**Changes to this Privacy Policy**  
-
-
-  * Yahoo! may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo! account or by placing a prominent notice on our site. 
-
-**Questions and Suggestions**  
-
-
-  * [Yahoo! is TRUSTe-certified](https://www.truste.org/ivalidate.php?url=www.yahoo.com). This certification applies to all English-language sites under the Yahoo.com domain. If you feel that your inquiry has not been satisfactorily addressed, you should contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php), an independent privacy organization. TRUSTe serves as a liaison with Yahoo! to resolve your concern. 
-  * If you have questions or suggestions, please complete a [feedback form](http://add.yahoo.com/fast/help/us/privacy/cgi_feedback?radio30=radio305) or you can contact us at: 
-
-Yahoo! Inc.  
-Customer Care - Privacy Policy Issues  
-701 First Avenue  
-Sunnyvale, CA 94089  
-(408) 349-5070  
-
+If you have questions or concerns regarding this statement, please contact us at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com). 
 
   
-Effective Date: March 28, 2002
 
 
+What Information Do We Collect About Our Customers?
+     The information we learn from customers helps us enhance and personalize the Websites and the services we offer. We gather the following types of information: 
+     **Information You Give Us.** We receive and store any information you enter on our Websites or give in any other way (e.g., by telephone). This may include information you provide when you register as a member, engage in transactions, search, contact customer service, or participate in contests, promotions, surveys, forums, content submissions, chats, bulletin boards, discussion groups, requests for suggestions or other aspects or services offered by us. As a result, you may be supplying us with such information as your name, address, and phone numbers; credit/debit numbers, expiration date and other billing information; people to whom purchases have been shipped, including addresses and phone number; names and e-mail addresses of friends and possible Share the Savings and other people. 
+     **Automatic Information.** We automatically receive and store certain types of information whenever you interact with us. For example, as most Websites do, we use "cookies," and we obtain certain types of information when your web browser accesses Diapers.com, Soap.com, Wag.com,YoYo.com or BeautyBar.com. This information is compiled and analyzed on both a personal and an aggregated basis, and it may include the website's Uniform Resource Locator ("URL") that you just came from, which URL you will go to next, what browser you are using, and your Internet Protocol ("IP") address. Other examples of automatic information we may collect are purchase history, products viewed or searched for, visits to certain pages, page interaction information and the phone number you used to call our 800 number. We associate the information we store in cookies to personally identifiable information you submit while on our site. 
+     **Information Provided by Third Parties.** We may obtain certain information of customers from third parties. This may include updated delivery or address information from carriers and information (including name and email addresses) of possible Share the Savings from customers. 
+
+Do We Use Cookies?
+     Quidsi uses small text files called "cookies" that provide non-personally identifiable information to us regarding the visitors to the Websites. In addition to the URL and IP addresses of our visitors, cookies may gather the date and time of all visits to our Websites. We may also track the pages of our Websites that users viewed during their visit, or track search terms entered on our Websites by that visitor. This helps us keep track of the number of visitors to our Websites and allows us to gauge the areas that are of the most interest to our visitors. 
+     We use a third-party tracking service that uses cookies and other tracking technologies to track non-personally identifiable information about visitors to our site in the aggregate. This information is analyzed periodically and is used to gain a broader picture of usage patterns at our site. We may share the non-personally identifiable information gathered through use of cookies with our advertisers and/or business partners, in order to make the Websites as user-friendly as possible. Further, some of our business partners (e.g., advertisers) use cookies on our site. We have no access to or control over these cookies. This privacy statement covers the use of cookies by Quidsi only and does not cover the use of cookies by any advertisers. 
+
+How Do We Use the Information We Collect and Do We Share the Information We Receive?
+     Information about our customers is an important part of our business. We use information we collect from the Websites to communicate with you, to process your orders, to provide an enhanced and more personalized interactive shopping experience, to facilitate your transactions with our third party marketing partners and to inform you of offers and discounts. For example, you can expect to receive a welcoming email to confirm your username and password, we communicate with you in response to your inquiries, to provide the services you request and to manage your account. We also send service related announcements on occasions such as when we need to temporarily suspend our site for maintenance. We also will send you promotional emails on occasion. Generally, you may not opt-out of service related communications, which are not promotional in nature. If you do not wish to receive them, you have the option to terminate your account. Your account is with Quidsi, the owner and operator of the Websites and not with the individual Websites, and the information collected through the Websites is used by Quidsi for purposes of both Websites. However, you can opt-out of direct promotional communications from each of the Websites by following the unsubscribe instructions within each communication from that Website or emailing us at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com). We share customer information with third parties only as follows: 
+     **Third Party Service Providers.** We may work closely with other businesses (that we don't own or control) that sell products or services on Diapers.com, Soap.com, Wag.com, YoYo.com and BeautyBar.com.  
+In some cases, these businesses may operate stores or websites that sell products or services to you directly. In other cases, we operate stores, provide services, or sell product lines jointly with these businesses. We share customer information related to those transactions with that third party. 
+     **Promotional Offers.** We periodically provide our customers with information about third party products and services we believe will be of interest to you and with opportunities to participate in offers and/or promotions on behalf of other businesses. Your participation in these events may require us to share data with such a business. If you do not want to receive such information or offers, on behalf of third parties or otherwise, please opt-out during registration, email us later at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com), or follow the unsubscribe instructions within each communication. 
+     **Other Third Parties/Select Partners.** From time to time, we might establish a business relationship with other persons or entities who we believe are trustworthy and whom we have asked to confirm that their privacy policies are consistent with ours. These are known as our Select Partners. In such cases, we might share and cross-reference information, including personal information about you that will enable such persons or entities to contact you regarding products and services that may be of interest to you. We may also combine your personal information with publicly available information and information we receive from or cross-reference with our Select Partners and others. We use that combined information to enhance and personalize your shopping experience with us, to communicate with you about our products and services that may be of interest to you, and for further promotional purposes. If you do not want us to share information with Select Partners please opt-out during registration, email us later at [ customercare@diapers.com](mailto:customercare@diapers.com), [ customercare@soap.com](mailto:customercare@soap.com), [ customercare@wag.com](mailto:customercare@wag.com),[ customercare@yoyo.com](mailto:customercare@yoyo.com) or [ customercare@beautybar.com](mailto:customercare@beautybar.com), or follow the unsubscribe instructions within each communication. 
+     **People with whom you Share the Savings.** If you choose to use our Share the Savings service to tell a friend or someone else about our site, we will ask you for your friend's or that person's name and email address. We will automatically send your friend or that person email sharing your Savings Code with him or her to use on the site. Your friend may contact us at [ customercare@diapers.com](mailto:customercare@diapers.com), [ customercare@soap.com](mailto:customercare@soap.com), [ customercare@wag.com](mailto:customercare@wag.com), [ customercare@yoyo.com](mailto:customercare@yoyo.com) or [ customercare@beautybar.com](mailto:customercare@beautybar.com) to request that we remove this information from our database.   
+In order for you to get credit for a Share the Savings friend who joins Diapers.com, Soap.com, Wag.com,YoYo.com or BeautyBar.com, the person whom you share must enter your email address or a unique password that identifies you as the sharer. We send emails on your behalf to the person you'd like to Share the Savings with. Also, if you were shared to Diapers.com or Soap.com by an existing member, that member may be notified each time your order qualifies him/her for a credit. 
+     **Reviews/Share This/Testimonials.** If you review a product on our site, your review may be posted on Diapers.com, Soap.com, Wag.com, YoYo.com or BeautyBar.com. as well as on a partners' network site that shares reviews with other shopping communities. When you use "ShareThis" to post to social networking sites or to tell your friends about our site, the information is collected by a third party site to facilitate your postings. "ShareThis" allows you to enter your friend's email address and/or import email contacts from various email service providers. Once the email addresses are imported, you must manually click on each email address you wish to send a communication to. Please note that these third party sites' privacy policies govern the collection and use of the information collected on those sites. You should be aware that any personally identifiable information you submit can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. When seeking or receiving customer testimonials or feedback, we disclose that we may post their first name along with all or a portion of their testimonial on the Websites unless they inform us otherwise by following the instructions we provide. 
+     **Merger/Sale.** In the event that Diapers.com, Soap.com, Wag.com, YoYo.com or BeautyBar.com, all or substantially all of their respective assets, or a line of business of Diapers.com, Soap.com, Wag.com,YoYo.com or BeautyBar.com, is acquired, individually identifying information of our members may be one of the assets sold in connection with that transaction, without notice to you or your consent. We will notify users of the Websites of such a change in ownership or transfer of assets by posting a notice on the Websites. _Notice: On April 1, 2011, Amazon.com, Inc. acquired Quidsi, Inc., which owns and operates Diapers.com, Soap.com, Wag.com, YoYo.com and BeautyBar.com._
+     **Bankruptcy.** In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors rights generally, we may not be able to control how your personal information is treated, transferred, or used. Therefore, you should know that in such event, your personal information may be treated like any other asset of Quidsi, and sold, transferred or shared with third parties, or used in ways not contemplated or permitted hereunder, without notice to you or your consent. 
+     **Protection of Diapers.com, Soap.com, and Others.** We release account and other personal information when we believe release is appropriate to comply with the law and/or a judicial proceeding, court order or legal process served on Quidsi; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Quidsi, our Website users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+
+How Secure Is the Personal Information You Collect?
+     We have taken precautions, including the deployment of technological resources and the use of firewalls, systems and procedures, to protect the security of your personal information. When you enter credit card information on our Websites, we may store it so that you do not have to re-enter it every time you order, but we encrypt it when storing. While no security system is absolutely foolproof, we are constantly reviewing, refining and upgrading our security technology to protect your privacy. When you open an account with Diapers.com, Soap.com, Wag.com, YoYo.com or BeautyBar.com, you are issued a password by which to access and secure your account and account information. Although we have taken these precautions, you are responsible for maintaining the secrecy of your password, which should not be disclosed by you. Be sure to sign off when finished using a shared computer. 
+
+Links
+     Diapers.com, Soap.com, Wag.com, YoYo.com or BeautyBar.com contain links to other websites. We have no control over the content, policies or actions of these sites, even if you are offered services on those sites because you have established an account with Diapers.com, Soap.com, Wag.com, YoYo.com or BeautyBar.com. We are not responsible for the privacy practices or the content of such websites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every websites that collects personally identifiable information. This privacy statement applies only to information collected by our Websites. 
+
+Minors
+     You must be 18 years of age or older to become a member of Diapers.com, Soap.com, Wag.com, YoYo.com or BeautyBar.com. We do not collect information from minors. 
+
+Changing Your Personal Information
+     You may review, change or correct your personally identifying information at any time by accessing your account information on the Websites or calling us at the contact information below. You are responsible for maintaining the accuracy and completeness of your personal and other information, including your e-mail address, and we urge you to review your information regularly to ensure that it is correct and complete. 
+
+Conditions of Use, Notices, and Revisions
+     If you choose to visit Diapers.com, Soap.com, Wag.com, YoYo.com or BeautyBar.com and/or use Quidsi's services, your visit and/or any dispute over privacy is subject to this Privacy Policy Statement and our Terms of Use and Account Agreement (if you are a member), including limitations on damages, arbitration of disputes, and application of the law of the state of New Jersey. If you have any concern about privacy at Quidsi, please contact us. 
+     Our Privacy Policy Statement, the Terms of Use and other terms and conditions may change. In the event of a change, the revised policies or terms and conditions will be posted immediately to our Websites. You should check the Websites frequently to see recent changes. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. Unless stated otherwise, our current Privacy Policy Statement applies to all information that we have about you. 
+
+Contact Us:
+     If you have any questions or suggestions regarding our privacy policy, please contact us at [customercare@diapers.com](mailto:customercare@diapers.com), [customercare@soap.com](mailto:customercare@soap.com), [customercare@wag.com](mailto:customercare@wag.com), [customercare@yoyo.com](mailto:customercare@yoyo.com) or [customercare@beautybar.com](mailto:customercare@beautybar.com), or call us at 1-800-342-7377, 1-800-762-7123, 1-866-746-7924, 1-866-969-6123 or 1-888-696-0423. 
