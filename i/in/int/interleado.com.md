@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interleado.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506045144id_/http%3A//www.interleado.com/internet-marketing-software-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interleado.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103010740id_/http%3A//interleado.com/internet-marketing-software-privacy-policy.php) for the most accurate reproduction.*
 
 # Interleado's Internet Marketing Software privacy policy
 
