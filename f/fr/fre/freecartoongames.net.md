@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freecartoongames.net privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629225450id_/http%3A//www.freecartoongames.net/templates/default/files/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecartoongames.net privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103012429id_/http%3A//www.freecartoongames.net/templates/default/files/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
