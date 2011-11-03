@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsint.com privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219134036id_/http%3A//jobsint.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsint.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104003451id_/http%3A//jobsint.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # JOBSINT.COM
 
