@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lestai.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516085044id_/http%3A//lestai.com/html/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lestai.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103091819id_/http%3A//lestai.com/html/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy
 
