@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evidian.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503180351id_/http%3A//www.evidian.com/evidian/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evidian.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103100140id_/http%3A//www.evidian.com/evidian/privacy.htm) for the most accurate reproduction.*
 
 # Privacy information
 
