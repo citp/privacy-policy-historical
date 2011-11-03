@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southafrica.co.za privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611143615id_/http%3A//www.southafrica.co.za/web-site-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southafrica.co.za privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103083344id_/http%3A//www.southafrica.co.za/web-site-privacy-policy) for the most accurate reproduction.*
 
 # South Africa Online web site privacy policy | South Africa Online
 
@@ -27,4 +27,4 @@ This site may contain links to other Web sites and is not responsible for the pr
 
 One of these third-party advertising companies, Google, uses cookies to serve ads on this site. Google’s use of the DART cookie enables it to serve ads to you based on visits to this site and other sites on the Internet. You may opt out of the use of the DART cookie by [visiting](http://www.google.com/privacy_ads.html) the Google ad and content network privacy policy.
 
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
+[](http://www.printfriendly.com/print/v2?url=http://www.southafrica.co.za/web-site-privacy-policy/)
