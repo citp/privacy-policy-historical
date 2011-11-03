@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentsecurity.org privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630212242id_/http%3A//www.governmentsecurity.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentsecurity.org privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103185028id_/http%3A//www.governmentsecurity.org/privacy-policy.html) for the most accurate reproduction.*
 
 # GSO Management - GovernmentSecurity.org Privacy Policy | GSO - Network Security Resources
 
