@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516091130id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imovies4you.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103173824id_/http%3A//imovies4you.com/privacy-policy) for the most accurate reproduction.*
 
 # iMovies4You - Privacy Policy
 
@@ -17,5 +17,3 @@ A cookie is a piece of data stored on the user’s computer tied to information 
 This policy is not intended to be a contractual obligation of any kind. It is intended to set forth imovies4you’s current policy and will take reasonable measures to implement this policy.
 
 **_If you feel that any videos, content  or links on _**[**_www.iMovies4You.com_**](http://www.imovies4you.com/) ** _has objectionable content or violating your copyrights, and If you are a copyright owner or an agent thereof and believe that any links or other content infringes upon your copyrights, Please contact us with the email_**[ ** _imovies4you@gmail.com_**](mailto:imovies4you@gmail.com) ** _. So that those videos/content/links shall be promptly removed from our website._**
-
-[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
