@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the djod.co.uk privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505044730id_/http%3A//www.djod.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djod.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103094113id_/http%3A//www.djod.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Oli's Shanghai Blog - Oli's Shanghai blog – facebook emoticons, photos, chinese, tech, life, girls, jokes and food from Shanghai, China.
 
 **djod.co.uk** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
