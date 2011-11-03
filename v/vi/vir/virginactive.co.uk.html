@@ -1,732 +1,456 @@
-<!--The following is the downloaded HTML source of the virginactive.co.uk privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504081028id_/http%3A//www.virginactive.co.uk/Content/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the virginactive.co.uk privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103190555id_/http%3A//www.virginactive.co.uk/en/legals/privacy-policy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml"><head id="ctl00_main"><title>
-	Virgin Active Health Clubs
-</title><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link rel="stylesheet" type="text/css" href="../../css/menu.css">
-<script type="text/javascript" src="/VA/script/menu.js"></script>
-<link href="../../css/websiteContent.css" rel="stylesheet" type="text/css"><link href="../../css/infobox.css" rel="stylesheet" type="text/css"><link href="../../css/membersurvey.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="../../css/hoverbox.css" type="text/css" media="screen, projection">
-<!--[if lte IE 7]>
-<link rel="stylesheet" href="../../css/ie_fixes.css" type="text/css" media="screen, projection" />
-<![endif]-->
-<script type="text/javascript" src="http://www.virginactive.co.uk/script/jquery-1.3.2.js"></script>
-<script type="text/javascript" src="http://code.jquery.com/jquery-latest.js"></script>
-<script type="text/javascript" src="http://www.virginactive.co.uk/script/jquery.lightbox-0.5.js"></script>
-<link rel="stylesheet" type="text/css" href="http://www.virginactive.co.uk/CSS/Leeds_Lightbox.css" media="screen">
-    <!--[if lt IE 7]>
-        <script type="text/javascript" src="http://www.virginactive.co.uk/script/unitpngfix.js"></script>
-<![endif]-->
-<script type="text/javascript" src="/script/swfobject.js"></script>
-<script language="javascript" type="text/javascript">
-    
-   function onLoad() {
-   
-   document.getElementById('img_Next').style.display = 'none';
-   
-   }
-   
-   function viewTimetable()
-{
-    if (!validateClub())
-       return;
-    var form=document.forms[0];
-    var params = "titlebar=0, statusbar=0, scrollbars=1";
-    var clubNo = form.ctl00$list_Clubs.value   
-    var clubName = form.ctl00$list_Clubs[form.ctl00$list_Clubs.selectedIndex].text
-    var clubcode =  form.ctl00$list_ClubSource[form.ctl00$list_Clubs.selectedIndex].text
-    
-    // THIS IS FOR HP CLUBS TO USE THEIR EXISTING TIMETABLES:
-   if(form.ctl00$list_ClubSource.value == "HP" && clubcode != "")
-   {
-          var URL = "http://www.virginactive2.co.uk/club/timetable.aspx?ClubCode=" + clubcode
-   }else{
-            var URL = "http://www.virginactive.co.uk/public/Timetable.aspx?clubid=" + clubcode + "&clubname=" + clubName;
-   }
-   var ttWin = window.open(URL,"ttWin",params)
-   ttWin.focus() 
-}
+<!DOCTYPE html><html lang="en" class="js no-touch borderradius cssanimations csstransforms localstorage"><!--<![endif]--><head id="HTMLHead"><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta name="viewport" content="width=device-width, initial-scale=1.0"><title>
+	Privacy Policy | Virgin Active
+</title><link rel="shortcut icon" href="/virginactive/images/favicon.ico"><link rel="apple-touch-icon" href="/virginactive/images/apple-touch-icon.png"><link rel="stylesheet" href="/virginactive/css/style.css"><link rel="stylesheet" href="/virginactive/css/menu.css"><link rel="stylesheet" href="/virginactive/css/fonts.css">	
+	<!--[if lt IE 8]><link rel="stylesheet" href="/virginactive/css/ie.css" media="screen" />	<![endif]-->
 
-function viewMyClub()
-{
-    var form=document.forms[0];
-    document.location = "/ClubInfo/default.aspx?ClubID=" + form.ctl00$list_Clubs.value 
-}
-
-function viewClubSpecials()
-{
-    var form=document.forms[0];
-    document.location = "/ClubInfo/default.aspx?ClubID=" + form.ctl00$ContentPlaceHolder1$list_ClubSpecials.value 
-}
-
-function loadClubSource()
-{
-   var form = document.forms[0];
-   
-   if(form.ctl00$list_Clubs && form.ctl00$list_ClubSource)
-   {
-        form.ctl00$list_ClubSource.selectedIndex = form.ctl00$list_Clubs.selectedIndex
-   } 
-}
-
-function checkMMEnter() 
-{
-    if (window.event.keyCode == 13) 
-    { 
-        document.getElementById('ctl00_btnMMSubmit').click(); 
-        return false;
-      }    
-} 
-
-function validateClub()
-{
-     if (document.forms[0].ctl00$list_Clubs[document.forms[0].ctl00$list_Clubs.selectedIndex].text == "--Select Club--")
-     {
-        alert ("Please select a valid club");
-        return false;
-     }
-     else
-     {
-        //alert (document.forms[0].ctl00$list_Clubs[document.forms[0].ctl00$list_Clubs.selectedIndex].text + " is not a valid club");
-        return true;
-      }
-}
-
-</script>
-</head>
-<body onload="loadClubSource()">
-<form name="aspnetForm" method="post" action="PrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="hi24T2Mx3zeVP7RhtLu3w5Zgf2JQTKcctndL/sRDeylNh/n6cgQm9DfIPRusz9zXlG3DkTpS6QZrU26iK1RMsQjULYVWx5n9yyZ21jBtaLEQKdZ+32G6eY+pE/A9kd12fhLJL903qhPfttFLkwigbgh4gXyTCkja1vTFe0xZswg644hqFvPE59Zt3/DfPxS56ARVGSIMkRBs4CENwVaM1WEB+z/mTnaFwTl1h/4VVjmNdPe1wbME591L1SOOLnWjEI/uTT0iByh4BRV3SbLr2pj62Kxb2BL0ZV03BuKxe0wk3g+KWA44LaF1HOJ248N/kyF3KsjQHqtMT5SduHvX+pRPRtl95aUeM2enXYvi1awYRNQRjwHY/g8DT1PZkyLpVVQFhR668Z/+1Q6XtOl1QkzRp+M0OQsFHA8LMZNiZPuJhFRY5OxnPTjoDA3bFWYtC26qLvYImVDAT0jG1JWvOahidw3YlSqlx7E/fhSMSKMmhvfBebu3yisOgKEU1TR/bHwdWkAGFUVeldLQFm2EJmPQIMJvJsreB9HwzMXYBx6saPZT7pnAaNpV+LcGnVrZ+WZv4979+15YS1mg1JXGbbrMIGNAJsq15UHo7QAMckM9v7Do+rNIEfmcz+rizUHjWYKho9P7NrrTQ7DhqM/VE6lMpbzqi6mNzUMwV8xUirwzX9WH0wh6C6tkCkzPR+WhpjHfQ/0QMtXjGFCbihcWnNIu8Sf1k7o73oN/WCKssbmBUFToAhMdwNWm3dFAAa3GyKN0uhkBGH/ArQcFvGW2nf9YgDK/z1h2NYRGmFhbMQ8ISMbDZAJmwDVEP92fbQKq2GnYvOoXW9FMWvyppQthdgy+GQbKp4efl0mDuos+JfQageSoqw4MbQoMgQza5VD0vA11xkErzmvPq9jfWqUsMxitqmxffJY/s2iiuIFSJiHhvpF3ZkxugMQNlBArGgtA2dmrSsqAWRZpHNYonkvAVtxGWYV8MXRec0KybHdU8+iFw9mbWQbybKfptWSG8Fjd1m5sBOKDBi+oIkzlKWjnzTHFbMZ/Ahkp1+NCEGC108eoqeYfDxhvCq8mkYXFoTg7eRekBaZvI+h9NAX7F8NCAz6tR82Owt6yZLAMn0VQO//Pm4sRcF2OYMOxXT04fvbvb3gs1bTYok1awtwQY6s7kaOFTMC76dsBLZiBq2u8E40AxVRoNx8EvtH8RFTpPQY2oFEwxIyZP6/c/AzhITZUnJRRUWN7oeymqTP7l5B2RaZ1f1mdUNH+dkV6gSFkyUyG+ZDne0UsHWLpUpHpctgz4ZqCxnXsj5/cLTfXU23pwoBsplxQdxSFUoAI4xJYPidOcphL/uDh4KnRWEIRFDMCvzk0y4xfrnoNMgn1gUeDjh6W8vE/4ASXX3F/hHZ3WWz9/qscr+oFz0+YtE2Xr2OkLrKcM1X1LLnDexQDJEBRIJvCdIDggxN4rB5BLc2HPzzxx2YN4/CX9xSmm0ckHj6gCgCf0R7vWnL+vwstqvf8g5JuOUjs8D9DcDFonxDjCuDbf5kWHK/ZUf9ABDgKZmhSiHvRQedrsdA9NGRZwsil/48f2Ob9XsK4RJfmpAfl8LkvGSK2Bblcms/USOJ6XkEUai+o/6JuDFXnj6mMae6ZUpC90rAeE5bXbRSwydr32BXOe5e9EhHGePqIKZpMM1c9j8hrSUi8hJwR3oWlqyZmciAvXcCdsIBxe5L4I2+XCXXq3VnSz09VahUO++UBBQqHI/1W4jwNxEBHKSpE53gm8fH01kpLStCXAcHf9+jacoo548fDlRjQcAx7E1DBb5spI5IK+iMP29e7H37fljL39jWXxGxHILphF8MKaX2JIIn9KAx/teVuYT+JIXIWFengkzo0k3z+kzHkuCPVKMAjbgPg1PazzsbZ4z2vw96qOvudX127xMZubUV25gI3hmzDbI+Z11I7azw5sUvMLrz6s4fJWota8kklrZmQx6STZTGJfxh8triWjmxRUU5W3qHDgKr2j8eAxXbi6ifOXeu49qkcovWga7O6t+jEXTjyEfTGJl7cjHD8JvL1pBfT1n4dqEt++vSxjy4lyzU7T0ICSHoo1/KviPJe503lSQhdNECqztnnmpDUaHbL6vkTqWjAC5204sh1910SkGtfmYaErPJPCqXNsmjQNBasqRRW3UItAuFxE7DOkdV1ro/Vbv71rIV831Berh/zV5wu6Owe1G//yFV8IMc3tbmUcerIgkH0VjoN94+n64IEF10Pb0c9YRQolWjEutJtiPfd+MYuEKeo+wLYAsL7SLErYUAzo+rpepaZgeQL/lcAmA0+Ml1i8i9i0pLXXxn5DQLVLQN+EPj6CAQAl5N84+zT9m2fy6T+sn+Dm4AyJg2Qj9O+J17V1n16RZ06otb3Fhapz57s1rkqMfdcMY47+fZz3SvcqLiKEtSWduN94s4nUu5hyH0OHvcYgAGnQ0T+8zEqV5oVDR8DlSRj3QgN+PGT4haK2WYG8WqU6AmU6KnktZ+cTw5DnJ4r7PY6t1RxxXOvst3/X+BR0wn+RCEYX9XrvhHJtUNXOOH8qc0ym73+UhXbm9of5pGLtBlFyD7m35iVE8gpEq+rRXWzOWXc1Tk1b9QURok+YEVLKCVLO/y6V5me0xcvYeJNqETQv1vfcFQGjBgnogUQ0zrTNuzEac8RHfUNIyFoyomMBM4dwpHtE7gkjMmP9yasPxIP9OLNOL4fEKhuD0GU78t3wpsTBnwJUt0awMgXYqomXnPR+WDKdFY0xJPom+SUFaz2m3yCpkl0OrxFXzlEkAPAiQuuJCIWVe3XAMCLXoBhGS2ADISi8BUZ+mLrYedsc3k+39Oi4OagXKQTLhG6uNEEG/0fZm/mcm+td+YHnre45oN1N0ShZjxdsQhXaM7AEwXArmz86MUUSWGngp+/oARkKbiyiFFIQeUBPUw5AaNSAftPIYoAu2jHHhgdYcnlpeuwHk1eNsGAnPPKIsW0EpI4HDEpTebSrlGFMgmC4N6x7dv8FUm8xwoeoLyF3bgui9MfSZoBRIsMIkENMWmJTdn3EX4iK54T0rYRt+GwoNXdxGkDaSfWgs26V7ayObXHchAF6nj34T3NCh8NTOoWnaROzKvxGWe89fG1J+1rnc5E9rq6yPYn5FjY3ozJ4K7v5wqXZ3jSPtEYt17RoId8bmn4S6W1U4tZPYk3nLnXJRmEqIeTXl9aH7oDnbk9BFj5et8zSHxgPhuXQUVdwaLm+ZeDg69uF44ImiW9hEPae3H5vFVtayX9VXcOU7NiHYD1b8QeUO2nlns68MdpGOqX9rNuja/ZbKiQ4DTKoSpW3ruNCsWgKmY3WQ8cHtl9FUnrxl5AV4tM0NKVuSFUAlwCUC3WWuKP5d5jqkc0hKSOPTcownJRKPqvl+BcX39aUcUAavvyGdmqcJ9KamFrKEvA2fcstlOJ8QzCjQB4bP4RP2h4XMMlUyPcOXrMHAjGWASVljWSMc78BIdr0VtEHZpXeM7hFyIhVM8oZAUGij549vAtn4MM8exigcz1CUCVQMG5Llzzv2jlgnm+fk+Wk+tzOvXJAF4TKoRrFezisDhsVXsCW0pYpHXUhcZGH8L5kRLAD3Wgqo79LfWy5BSYjMboPTzuPv+QTdr5bUDlyU5+Kf2p7wfgbMfARs6PyfoDmtXyg8NYdbAHE5d0uFUFXjr580TLysb1SzekECSsIXiAiwVkXPvGwcUb7hdiYh3j22GMep+Q3+F4780n+mMbU1q9e/DzO9zTspcWm0yFX37niPaZav0NUa2zixz6ZBCyR7Gs8/4vpLgmGp7ooDEH0FGq8sioo/8NnM42GuPimIhVhqYQmSv8TEH/V9MbT8Oozsamgk4jsh3jaKIo+o6llgShtO9nVSQVM+pYh6MZc68FmZvI36FiPUW4R9mhNwC2vEuHabhw71ikI9xqR0ZKq1vr1V0Lh1Yn7p/wHAlUHFKh5GG9vd2AJnZYyfEs2pn7ZK5JMYCctrk1Ie0Pyd0iTlpEaXsyllI02gSEuvbnRVmkaCcwVW/8VekeZu2D/kkcmzJIja5+EV3BjN/P/dKWLJaJlaY89cfEqifA9VKAjMExH/Cv2/ebKQ/sP3gb8YRMggFYJZr27xIXnUIS0KWPF6yFvXkDx/1m8M6UHStayt2puHg2aLov0NuxRUqHghK6OMUwfThyop6bHwe8PIubte7UM+5//9oGjTfrRCm/zEfL456Vh/VRWCHyADYuum6Hq2v62/HE9h/OPZNvwsrEpCHO1M9UeUTvzQvk03PceDuJpwKp8cxRTEDlxVawjfDeIju3JNyPlSQrwDdAAjGN8oUVL03cfeUGpCMK+2BdNKGPLMQD5f8FuiU23PMKv95DBAXLCid+uv//Yu5taIA2tbI+s05oXbeO81M4TRZrKbb4v3scZMvMmZeFkdHflZOTTh1yc7GukojH7HtVkGIsyG7kLxyc86Hk84U8YKdp92GuV5vFMq9lbDmUCv/BzeC77R6DqJ50oQAJywo2NryoK9Y9a8ROSIKwSgvEyC1j7618qTC2oURYRwIswG9RmZIBEmMz6XCGBxoBD5+ZeqCHL/XhhmO6U8LAXbBchRHIvrdxcfqAOUKcyMf0xNylD5K1zQrXaGiAD2llYcwodWB1WtHSwyg24RyDdVEAiyUmNcQOxcCyhNuix5cozcbVhGhRow==">
-
-    <table style="FONT-SIZE: 8pt; FONT-FAMILY: Verdana" cellspacing="0" cellpadding="0" width="775" align="center" background="/VA/images/VA_Top.gif" border="0"><tbody><tr><td width="21" height="26"></td><td align="right" colspan="2" height="26"><map name="FPMap_Countries">
-<table border="0" cellpadding="0" cellspacing="0" width="452">
-    <tbody><tr>
-        <td valign="top" width="267">
-            <img alt="Virgin Active Health Clubs - Countries" border="0" src="/images/Country.gif" usemap="#FPMap_Countries" height="20" width="230">
-            <img id="ctl00_MasterSearch1_Image1" src="../../images/Top_Divider.gif" border="0"></td>
-        <td valign="middle" width="95" align="center">
-            <span style="color: #ffffff"> </span>
-            <img id="ctl00_MasterSearch1_Image2" src="../../images/Top_Search.gif" border="0">
-        </td>
-        <td align="left" valign="top" width="80">
-        <input name="ctl00$MasterSearch1$txtSearchCriteria" type="text" id="ctl00_MasterSearch1_txtSearchCriteria" class="searchtextbox"></td>
-        <td valign="top" width="50">
-            <input type="image" name="ctl00$MasterSearch1$ibtnSearch" id="ctl00_MasterSearch1_ibtnSearch" src="../../images/Buttons/btnSearch.gif" border="0"></td>
-    </tr>
-</tbody></table>      
-<area href="http://www.virginactive.com.au" shape="circle" coords="119, 9, 9" alt="Visit Virgin Active Health Clubs - Australia">
-<area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - Italy" coords="138,9,9" href="http://www.virginactive.it"><area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - Portugal" coords="157,9,9" href="http://www.virginactive.pt"><area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - South Africa" coords="178,8,8" href="http://www.virginactive.co.za"><area shape="CIRCLE" alt="Visit Virgin Active Health Clubs - Spain" coords="195,9,9" href="http://www.virginactive.es"></map></td><td width="21" height="26"></td></tr><tr><td width="21" height="49"></td><td align="right" colspan="2" height="49"><a id="ctl00_HyperLink3" href="../../Content.aspx"><img src="http://www.virginactive.co.uk/images/VA_TopText.gif" alt="Virgin Active Health Clubs" border="0"></a></td><td width="21" height="49"></td></tr><tr><td width="21" height="30"></td><td valign="top" align="right" colspan="2" height="30">
-
-
-
-<ul id="qm0" class="qmmc">
-    <li><a href="/Content.aspx">Home</a></li>
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a class="qmparent" href="javascript:void(0)">My Club</a>
-        <ul>
-            <li><a href="/ClubInfo/ClubFinder.aspx">Find a club</a></li>
-            <li><a href="/Content/Club/Classic.aspx">Classic clubs</a></li>
-            <li><a href="/Content/Club/ClubTour.aspx">What's inside</a></li>
-            <li><a href="/Timetables/Timetables.aspx">View timetables</a></li>
-            <li><a href="/TalkToUs/Selector.aspx">Talk to us</a></li>
-            <li><a href="/TalkToUs/PublishedFeedback.aspx">Member Feedback</a></li>
-            <li><a href="javascript:top.location.href='/Public/LoginPage.aspx'">Book a class</a></li>
-            
-            <li><a href="/ClubAccess/AccessWizard.aspx">Club access guide</a></li>
-            <li><a href="/Content/Club/ClubRules.aspx">Club rules</a></li>
-            <li><a href="/Content/QandA/QA.aspx">Q &amp; A</a></li>
-        </ul>
-    </li>
-    
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a class="qmparent" href="javascript:void(0)">Wanna Join</a>
-        <ul>
-            <li><a href="/Content/WhyJoin.aspx">Activate your life</a></li>
-            <li><a href="/Content/Membership/default.aspx">Memberships</a></li>
-            <li><a href="/JoinUp/JoinUp.aspx">Book a club visit</a></li>
-            <li><a href="/corporate/default.aspx">Corporate memberships</a></li>
-            <li><a href="/ClubAccess/AccessWizard.aspx">Club access guide</a></li>
-        </ul>
-    </li>
-    
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a class="qmparent" href="javascript:void(0)">Know How</a>
-        <ul style="width:150px;">
-            <li><a href="/Content/Knowhow/Stretches/StretchIndex.aspx">Have a stretch</a></li>
-            <li><a href="/Content/Workouts/Beginner.aspx">Get a basic workout</a></li>
-            <li><a href="/Content/Workouts/Intermediate.aspx">Get an intermediate workout</a></li>
-            <li><a href="/Content/Workouts/Advanced.aspx">Get an advanced workout</a></li>
-            <li><a href="/Content/Exercise/index.aspx">Exercise</a></li>
-            <li><a href="/Content/Wellness/index.aspx">Wellness</a></li>
-        </ul>
-    </li>
-
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a href="/Content/Kids/AboutKids.aspx">Kids Stuff</a></li>
-    
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a href="/Content/Club/ClubTour.aspx">Facilities</a></li>
-    
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a class="qmparent" href="javascript:void(0);">Health Check</a>
-        <ul>
-            <li><a href="/Tools/Healthcheck.aspx">Check my wellness</a></li>
-            <li><a href="/Tools/BMIOnly.aspx">Calculate my BMI</a></li>
-            <li><a href="/Tools/WHROnly.aspx">What is my waist-hip ratio?</a></li>
-            <li><a href="/Tools/Calories.aspx">How many calories do I need?</a></li>
-            <li><a href="/Tools/BMICharts.aspx">Ideal weight charts</a></li>
-        </ul>
-    </li>
-
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a class="qmparent" href="javascript:void(0);">Careers</a>
-        <ul>
-            <li><a href="/Content/Careers/default.aspx">Virgin Active careers</a></li>
-            <li><a href="/Content/Careers/OurCareerValues.aspx">Our values</a></li>
-        </ul>
-    </li>
-
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a class="qmparent" href="javascript:void(0);">About Us</a>
-        <ul>
-            <li><a href="/Content/Club/WhatWeDo.aspx">About Virgin Active</a></li>
-            <li><a href="/Content/OurValues.aspx">Our values</a></li>
-            <li><a href="/Content/Partners/OurPartners.aspx">Our partners</a></li>
-            <li><a href="/Content/sparks/default.aspx">Our charity work</a></li>
-            <!-- li><a href="/TalkToUs/PublishedFeedback.aspx">Our transparency</a></li -->
-        </ul>
-    </li>
-
-    <li><span class="qmdivider qmdividery"></span></li>
-    <li><a href="/Content/PressRoom/PressRoom.aspx">Press Room</a></li>
-</ul>
-
-
-
-
-<!-- Create Menu Settings: (Menu ID, Is Vertical, Show Timer, Hide Timer, On Click ('all' or 'lev2'), Right to Left, Horizontal Subs, Flush Left, Flush Top) -->
-<script type="text/javascript">qm_create(0,false,0,250,false,false,false,false,false);</script>
-</td><td width="21" height="30"></td></tr></tbody></table>
-    <table border="0" cellpadding="0" cellspacing="0" align="center" width="775">
-        <tbody><tr>
-            <td colspan="2" rowspan="2">
-                <img id="ctl00_Image3" src="../../images/MasterTable/Left_Circle_Top.gif" border="0"></td>
-            <td background="/VA/images/MasterTable/Top_Shadow.gif" height="6" width="525">
-            </td>
-            <td height="6" width="206" background="/VA/images/MasterTable/Top_Shadow.gif">
-            </td>
-            <td colspan="2" rowspan="2">
-                <img id="ctl00_Image5" src="../../images/MasterTable/Right_Circle_Top.gif" border="0"></td>
-        </tr>
-        <tr>
-            <td background="/VA/images/MasterTable/Top_Table_Inner.gif" height="15" width="525">
-            </td>
-            <td height="15" width="206" background="/VA/images/MasterTable/Top_Table_Inner.gif">
-            </td>
-        </tr>
-        <tr>
-            <td background="/VA/images/MasterTable/Left_Shadow.gif" style="width: 6px">
-            </td>
-            <td background="/VA/images/MasterTable/Left_Table_Inner.gif" rowspan="1" valign="top" width="15">
-                <img id="ctl00_Image8" src="../../images/MasterTable/Left_TableTop_Inner.gif" border="0"></td>
-            <td bgcolor="#ffffff" rowspan="1" valign="top" width="525">
-        
-    <table id="table3" cellpadding="0" cellspacing="0" class="contentTable">
-        <tbody><tr>
-            <td colspan="2" class="contentHeader">
-                <img border="0" src="http://www.virginactive.co.uk/Content/Images/strapaboutus.gif" width="111" height="21"></td>
-        </tr>
-        <tr>
-            <td colspan="2" valign="top">
-                <h1>PRIVACY POLICY</h1></td>
-        </tr><tr>
-            <td colspan="2" valign="top">
-<ol>
-                    <li>Your information is safe with us. Rest assured, we collect and process your personal
-                        information in accordance with the Data Protection Act 1998, the Privacy and Electronic
-                        Communications (EC Directive) Regulations 2003 and all other applicable data protection
-                        legislation, as amended from time to time.<br>
-                    </li>
-                    <li>When you use our site or contact us by post, telephone, fax, email or SMS, we collect,
-                        store and use certain personal information that you disclose to us. This includes
-                        details such as your name, address, telephone, fax, email and mobile phone number.
-                        We may also collect details of your computer’s internet protocol address and other
-                        details about your computer, which is automatically collected by our web server.<br>
-                    </li>
-                    <li>Other than as set out in the rest of this paragraph we will not share your personal
-                        information with third parties for marketing or any other purposes without your
-                        consent, unless we are required to do so by law. We operate an automatic opt-in
-                        policy which means that when you request information from us on one of our clubs
-                        or make an enquiry, we add you to our database and:<br>
-                    </li>
-                    <li>
-                If, at any time, you would like us to stop contacting you, simply email us at:  
-                <a id="ctl00_ContentPlaceHolder1_HyperLink2" href="mailto:info@virginactive.co.uk">info@virginactive.co.uk</a>.<br>
-                        <br>
-                <ol type="a"><li>may contact you with relevant promotions, offers or information that we feel may
-                        be of interest to you, from time to time; and </li>
-               <li>
-               may pass your
-                    details to third parties offering services linked to your information request or
-                    enquiry who may contact you with relevant promotions, offers or information.</li></ol>
-                    </li>
-
-                <br>
-
-                    <li>Did you know that countries outside the European Union may have a lower standard
-                        of protection for personal information? If we send your data to a company outside
-                        the EU, we’ll do our best to ensure that they process your personal information
-                        in accordance with principles consistent with the Data Protection Act 1998 and the
-                        Privacy and Electronic Communications (EC Directive) Regulations 2003, as amended
-                        from time to time.<br>
-                    </li>
-                    <li>We have technical and organisational security measures in place to prevent the loss
-                        of or unauthorised access to your personal information. While we do our best to
-                        ensure the security of your data, we cannot guarantee the security of information
-                        transmitted over the Internet.</li></ol>
-                <h2>Last update: February 2007</h2>
-               
-                <p align="center">
-                    <a id="ctl00_ContentPlaceHolder1_link_Back" href="javascript:history.back()"><img src="http://www.virginactive.co.uk/Content/Images/Buttons/Back.gif" alt="Back to previous page" border="0"></a></p> 
-            </td>
-        </tr>
-    </tbody></table>
-
-                </td>
-            <td width="208" bgcolor="#ffffff" valign="top" height="432">
-                <table border="0" cellpadding="0" cellspacing="0" width="208">
-                    <tbody><tr>
-                        <td bgcolor="#c3c5c3" width="206" height="34">
-                        </td>
-                    </tr>
-                    <tr>
-                        <td height="15" width="206">
-                        </td>
-                    </tr>
-                </tbody></table>
-                <div id="ctl00_panel_Main">
-	
-                    <div id="ctl00_Panel_JoinUp">
-		
-                        <table cellspacing="0" border="0" id="ctl00_FormViewJoinUp">
-			<tbody><tr>
-				<td colspan="2"><font color="White">
-                                <div style="text-align: left;">
-                                    <table background="/VA/images/MasterTable/Panel_Join.gif" border="0" cellpadding="0" cellspacing="0" height="156" width="206">
-                                        <tbody><tr>
-                                            <td height="23" width="15">
-                                            </td>
-                                            <td height="23" style="text-align: left" valign="top">
-                                            </td>
-                                        </tr>
-                                        <tr>
-                                            <td width="15">
-                                            </td>
-                                            <td style="text-align: left" valign="top">
-                                                <table class="JoinUpBox" border="0" cellpadding="0" cellspacing="0">
-                                                    <tbody><tr>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left; padding-top:2px;">
-                                                            &nbsp;Name:
-                                                        </td>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right; padding-top:2px;">
-                                                            <input name="ctl00$FormViewJoinUp$FirstnameTextBox" type="text" id="ctl00_FormViewJoinUp_FirstnameTextBox" class="textbox"></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left; padding-top:2px;">
-                                                            &nbsp;Club:
-                                                        </td>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right; padding-top:2px;">
-                                                            <select name="ctl00$FormViewJoinUp$list_Clubs" id="ctl00_FormViewJoinUp_list_Clubs" class="dropdown">
-					<option value="--select club--">--select club--</option>
-					<option value="1">Bank</option>
-					<option value="2">Barbican</option>
-					<option value="4">Birmingham - Broadway Plaza</option>
-					<option value="3">Birmingham Star City</option>
-					<option value="5">Bolton</option>
-					<option value="6">Borehamwood</option>
-					<option value="7">Broadgate</option>
-					<option value="8">Bromley</option>
-					<option value="9">Canary Riverside</option>
-					<option value="10">Chelmsford</option>
-					<option value="11">Chelsea</option>
-					<option value="12">Chigwell</option>
-					<option value="13">Clapham</option>
-					<option value="14">Clements Hall</option>
-					<option value="15">Crawley</option>
-					<option value="16">Cricklewood</option>
-					<option value="17">Crouch End</option>
-					<option value="18">Croydon</option>
-					<option value="19">Derby</option>
-					<option value="20">Ealing</option>
-					<option value="21">East Dorset</option>
-					<option value="23">Edinburgh - Fountain Park</option>
-					<option value="22">Edinburgh - Omni</option>
-					<option value="24">Epsom</option>
-					<option value="25">Farnborough</option>
-					<option value="26">Fulham</option>
-					<option value="27">Glasgow</option>
-					<option value="28">Gloucester</option>
-					<option value="29">Hammersmith</option>
-					<option value="30">Hendon</option>
-					<option value="31">Holloway</option>
-					<option value="32">Islington</option>
-					<option value="33">Kensington</option>
-					<option value="34">Kingston</option>
-					<option value="36">Leeds - Kirkstall Road</option>
-					<option value="35">Leeds City Centre</option>
-					<option value="38">Manchester - Didsbury</option>
-					<option value="39">Manchester - Printworks</option>
-					<option value="37">Manchester Deansgate</option>
-					<option value="41">Mayfair</option>
-					<option value="42">Medway</option>
-					<option value="43">Merton Abbey</option>
-					<option value="44">Mill Hill East</option>
-					<option value="45">Milton Keynes</option>
-					<option value="46">Moorgate</option>
-					<option value="47">Northampton</option>
-					<option value="48">Notting Hill</option>
-					<option value="49">Nottingham</option>
-					<option value="50">Oxford Street</option>
-					<option value="51">Preston</option>
-					<option value="52">Putney</option>
-					<option value="53">Rayleigh Leisure Centre</option>
-					<option value="54">Regents Park</option>
-					<option value="55">Rugby</option>
-					<option value="56">Sheffield - Woodseats</option>
-					<option value="57">Slough</option>
-					<option value="58">Solihull</option>
-					<option value="60">Staines</option>
-					<option value="61">Stockley Park</option>
-					<option value="62">Strand</option>
-					<option value="63">Streatham</option>
-					<option value="64">Sunbury</option>
-					<option value="65">Thundersley</option>
-					<option value="66">Tower Bridge</option>
-					<option value="77">Twickenham</option>
-					<option value="67">Uxbridge</option>
-					<option value="68">Wandsworth</option>
-					<option value="69">West London (W3)</option>
-					<option value="59">Wimbledon</option>
-					<option value="70">Wokingham</option>
-					<option value="71">Wood Green</option>
-
-				</select>
-                                                        </td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left; padding-top:2px;">
-                                                            &nbsp;Tel:
-                                                        </td>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right; padding-top:2px;">
-                                                            <input name="ctl00$FormViewJoinUp$txt_ContactNo" type="text" id="ctl00_FormViewJoinUp_txt_ContactNo" class="textbox"></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left; padding-top:2px;">
-                                                            &nbsp;Email</td>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right; padding-top:2px;">
-                                                            <input name="ctl00$FormViewJoinUp$EmailTextBox" type="text" id="ctl00_FormViewJoinUp_EmailTextBox" class="textbox"></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: left; padding-top:2px;" colspan="2">
-                                                            <select name="ctl00$FormViewJoinUp$list_Source" id="ctl00_FormViewJoinUp_list_Source" class="dropdown">
-					<option value="How did you find us?">How did you find us?</option>
-					<option value="Press">Press</option>
-					<option value="Email">Email</option>
-					<option value="Search engine">Search engine</option>
-					<option value="Venue/eatery">Venue/eatery</option>
-					<option value="Magazine">Magazine</option>
-					<option value="I'm rejoining">I'm rejoining</option>
-					<option value="Something through your door">Something through your door</option>
-					<option value="Billboard">Billboard</option>
-					<option value="Another website">Another website</option>
-					<option value="Event">Event</option>
-					<option value="SMS text message">SMS text message</option>
-					<option value="Referred by an existing member">Referred by existing member</option>
-					<option value="Corporate membership">Corporate membership</option>
-					<option value="Another Virgin company ">Another Virgin company </option>
-					<option value="Pru Health">Pru Health</option>
-					<option value="Club signage">Club signage</option>
-					<option value="Another company">Another company</option>
-
-				</select></td>
-                                                    </tr>
-                                                    <tr>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right">
-                                                        </td>
-                                                        <td align="right" class="JoinUpCell" nowrap="nowrap" style="text-align: right; padding-top:2px;">
-                                                            <input type="image" name="ctl00$FormViewJoinUp$img_Insert" id="ctl00_FormViewJoinUp_img_Insert" src="../../TalkToUs/images/btn_Send.gif" onclick="javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions(&quot;ctl00$FormViewJoinUp$img_Insert&quot;, &quot;&quot;, true, &quot;FormViewJoinUp&quot;, &quot;&quot;, false, false))" border="0">&nbsp;&nbsp;&nbsp;
-                                                            &nbsp;</td>
-                                                    </tr>
-                                                </tbody></table>
-                                            </td>
-                                        </tr>
-                                    </tbody></table>
-                                    </div>
-                                
-                            </font></td>
-			</tr>
-		</tbody></table>
-                    
-	</div>
-                    
-                    <img id="ctl00_Image1" src="../../images/Hide.gif" height="12" border="0"><br>
-                    <table background="/VA/images/MasterTable/Panel_Quicklinks_Home2.gif" border="0" cellpadding="0" cellspacing="0" height="495" width="206">
-                        <tbody><tr>
-                            <td height="28" width="22">
-                            </td>
-                            <td height="28" valign="bottom" width="184">
-                                <img id="ctl00_Image2" src="../../images/SidePanel_Heading_membership.gif" alt="Virgin Active Membership Options" border="0"></td>
-                        </tr>
-                        <tr>
-                            <td style="height: 490px" width="22">
-                            </td>
-                            <td height="408" style="text-align: left" valign="top" width="184">
-                                <a id="ctl00_HyperLink1" href="http://www.virginactive.co.uk/Content/membership/default.aspx"><img src="../../images/sml_img_membership.jpg" alt="Virgin Active Membership Options" border="0"></a><br>
-                                <img id="ctl00_Image4" src="../../images/SidePanel_Heading_recipricol.gif" alt="Virgin Active Club Access" border="0"><br>
-                                <a id="ctl00_HyperLink2" href="http://www.virginactive.co.uk/ClubAccess/AccessWizard.aspx"><img src="../../images/sml_img_recipricol.jpg" alt="Virgin Active Club Access" border="0"></a><br>
-                                <img id="ctl00_Image11" src="../../images/SidePanel_Heading_FindClub.gif" alt="Find My Club" border="0">
-                                <br>
-                                <div style="border:0px solid #ff00cc;">
-                                <input name="ctl00$txtMMPostcode1" type="text" value="post" id="ctl00_txtMMPostcode1" class="textbox" onclick="javascript:this.value=''" onkeypress="checkMMEnter()">
-                                <input name="ctl00$txtMMPostcode2" type="text" value="code" id="ctl00_txtMMPostcode2" class="textbox" onclick="javascript:this.value=''" onkeypress="checkMMEnter()">
-                                <input type="image" name="ctl00$btn_MMSubmit" id="ctl00_btn_MMSubmit" src="../../images/Buttons/btn_Find.gif" alt="Find a club near you." align="absmiddle" border="0" style="padding-left:25px">
-                                </div>
-                                <br>
-                                <a href="/ClubInfo/ClubFinder.aspx">
-                                <img id="ctl00_Image10" src="../../images/MasterTable/Panel_Map.gif" align="middle" border="0"></a><br>
-                                <img id="ctl00_img_QuickLinkHeader" src="../../images/MasterTable/Heading_QuickLinks.gif" border="0"><br>
-                                <img id="ctl00_img_HideClubSpace" src="../../images/Hide.gif" height="14" width="8" border="0">
-                                <select name="ctl00$list_Clubs" id="ctl00_list_Clubs" class="dropdown" onchange="javascript:loadClubSource()" style="font-size: 7pt; font-family: verdana">
-		<option value="460">Bank</option>
-		<option value="461">Barbican</option>
-		<option value="463">Birmingham - Broadway Plaza</option>
-		<option value="462">Birmingham Star City</option>
-		<option value="464">Bolton</option>
-		<option value="465">Borehamwood</option>
-		<option value="466">Broadgate</option>
-		<option value="467">Bromley</option>
-		<option value="468">Canary Riverside</option>
-		<option value="469">Chelmsford</option>
-		<option value="470">Chelsea</option>
-		<option value="471">Chigwell</option>
-		<option value="472">Clapham</option>
-		<option value="473">Clements Hall</option>
-		<option value="474">Crawley</option>
-		<option value="475">Cricklewood</option>
-		<option value="476">Crouch End</option>
-		<option value="477">Croydon</option>
-		<option value="478">Derby</option>
-		<option value="479">Ealing</option>
-		<option value="480">East Dorset</option>
-		<option value="482">Edinburgh - Fountain Park</option>
-		<option value="481">Edinburgh - Omni</option>
-		<option value="483">Epsom</option>
-		<option value="484">Farnborough</option>
-		<option value="485">Fulham</option>
-		<option value="486">Glasgow</option>
-		<option value="487">Gloucester</option>
-		<option value="488">Hammersmith</option>
-		<option value="489">Hendon</option>
-		<option value="490">Holloway</option>
-		<option value="491">Islington</option>
-		<option value="492">Kensington</option>
-		<option value="493">Kingston</option>
-		<option value="495">Leeds - Kirkstall Road</option>
-		<option value="494">Leeds City Centre</option>
-		<option value="496">Manchester - Deansgate</option>
-		<option value="497">Manchester - Didsbury</option>
-		<option value="498">Manchester - Printworks</option>
-		<option value="500">Mayfair</option>
-		<option value="501">Medway</option>
-		<option value="502">Merton Abbey</option>
-		<option value="503">Mill Hill East</option>
-		<option value="505">Milton Keynes</option>
-		<option value="506">Moorgate</option>
-		<option value="507">Northampton</option>
-		<option value="508">Notting Hill</option>
-		<option value="509">Nottingham</option>
-		<option value="510">Oxford Street</option>
-		<option value="511">Preston</option>
-		<option value="512">Putney</option>
-		<option value="513">Rayleigh Leisure Centre</option>
-		<option value="514">Regents Park</option>
-		<option value="515">Rugby</option>
-		<option value="516">Sheffield - Woodseats</option>
-		<option value="517">Slough</option>
-		<option value="518">Solihull</option>
-		<option value="520">Staines</option>
-		<option value="521">Stockley Park</option>
-		<option value="522">Strand</option>
-		<option value="523">Streatham</option>
-		<option value="524">Sunbury</option>
-		<option value="525">Thundersley</option>
-		<option value="526">Tower Bridge</option>
-		<option value="532">Twickenham</option>
-		<option value="527">Uxbridge</option>
-		<option value="528">Wandsworth</option>
-		<option value="529">West London</option>
-		<option value="519">Wimbledon</option>
-		<option value="530">Wokingham</option>
-		<option value="531">Wood Green</option>
-		<option selected="selected" value="0">--Select Club--</option>
-
-	</select><br>
-                                <input type="image" name="ctl00$btn_SetClub" id="ctl00_btn_SetClub" src="../../images/ClubLinks_MakeClub.gif" alt="Make this club" onclick="return validateClub();" border="0">
-                                <input type="image" name="ctl00$btn_ClubInfo" id="ctl00_btn_ClubInfo" src="../../images/ClubLinks_MyClubInfo.gif" alt="View my club's info" onclick="return validateClub();" border="0">
-                                <a href="javascript:viewTimetable()"><img id="ctl00_Image12" onclientclick="return validateClub()" src="../../images/ClubLinks_ClassTimetable.gif" alt="View my club's timetable" border="0"></a><br>
-                                <input type="image" name="ctl00$btnSwim" id="ctl00_btnSwim" src="../../images/ClubLinks_SwimTimetable.gif" alt="View my club's swim timetable" onclick="return validateClub();" border="0"><br>
-                                
-                                <a href="/TalkToUs/Selector.aspx"><img id="ctl00_img_TalkToUs" src="../../images/SidePanel_TalkToUs.gif" alt="Talk to us" border="0"></a><br>
-                                <a href="/TalkToUs/PublishedFeedback.aspx">
-                                        <img id="ctl00_Member_Feedback" src="../../images/SidePanel_MemFeedback.gif" alt="Member Feedback" height="23" width="155" border="0"></a><br>
-                                <a id="ctl00_img_MemberLounge" href="http://www.virginactive.co.uk/Public/LoginPage.aspx"><img src="../../images/SidePanel_MembersLounge.gif" alt="The members lounge" border="0"></a>
-                             </td>
-                        </tr>
-                    </tbody></table>
-                
+	<script src="/virginactive/scripts/modernizr_custom.js"></script>
+    <meta property="fb:app_id" content="12345"></head>
+<body>
+<form name="form1" method="post" action="/en/legals/privacy-policy.aspx" id="form1">
+<div>
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTUxNDAyNDUzNA9kFgICARBkZBYGZg9kFgJmD2QWAmYPZBYCZg8UKwACDxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgNkZBYCZg9kFgYCAQ9kFgJmDxUDHy9hY3RpdmUtbWF0dGVycy9ibG9nL2FxdWEtenVtYmEEbmV3cylWaXJnaW4gQWN0aXZlIGxhdW5jaGVzIEFxdWEgWnVtYmEgY2xhc3Nlc2QCAg9kFgJmDxUDHy9wcmVzcy8yMDExL3dpbGxwb3dlci1hbmQtZ3JhY2UEbmV3cx9CYXJlIHlvdXIgc291bCBhdCBWaXJnaW4gQWN0aXZlZAIDD2QWAmYPFQMhL2FjdGl2ZS1tYXR0ZXJzL2Jsb2cvbXVzaWMtbGF1bmNoBG5ld3MYSXQncyBhbGwgYWJvdXQgdGhlIG11c2ljZAIBD2QWAmYPZBYCZg9kFgICBA9kFgJmD2QWBAIBD2QWAgIBD2QWAmYPFCsAAmRkZAIDD2QWBmYPZBYCZg8UKwACDxYEHwBnHwECBGRkFgJmD2QWCAIBD2QWAmYPFQIeL2FjdGl2ZS1tYXR0ZXJzL2FydGljbGVzL2RpZXRzBURpZXRzZAICD2QWAmYPFQIfL2FjdGl2ZS1tYXR0ZXJzL2FydGljbGVzL2hlYWx0aAZIZWFsdGhkAgMPZBYCZg8VAiEvYWN0aXZlLW1hdHRlcnMvYXJ0aWNsZXMvZXhlcmNpc2UIRXhlcmNpc2VkAgQPZBYCZg8VAiovYWN0aXZlLW1hdHRlcnMvYXJ0aWNsZXMvaGVhbHRoLWFuZC1iZWF1dHkRSGVhbHRoIGFuZCBCZWF1dHlkAgEPZBYCZg8UKwACDxYEHwBnHwECBGRkFgJmD2QWCAIBD2QWAmYPFQIkL2FjdGl2ZS1tYXR0ZXJzL3Rvb2xzL2JtaS1jYWxjdWxhdG9yDkJNSSBDYWxjdWxhdG9yZAICD2QWAmYPFQIkL2FjdGl2ZS1tYXR0ZXJzL3Rvb2xzL2NhbG9yaWUtaW50YWtlEkNhbG9yaWUgQ2FsY3VsYXRvcmQCAw9kFgJmDxUCJS9hY3RpdmUtbWF0dGVycy90b29scy93YWlzdC1oaXAtcmF0aW8PV2Fpc3QtSGlwIFJhdGlvZAIED2QWAmYPFQIiL2FjdGl2ZS1tYXR0ZXJzL3Rvb2xzL3dlaWdodC1jaGFydAxXZWlnaHQgQ2hhcnRkAgIPFCsAAg8WBB8AZx8BAgJkZBYCZg9kFgQCAQ9kFgJmDxUFhAE8aW1nIHNyYz0iL34vbWVkaWEvODdCOTc2MjM3NTc0NDdBNzg2MzVEMDM4QzM0QjA5NUEuYXNoeD9oPTcwJnc9MTEwJnJnbj01Miw0LDQ5NCwyODQmYXM9MSIgYWx0PSJTcGFya3MgYXQgVmlyZ2luIExvbmRvbiBNYXJhdGhvbiIgLz4sL2FjdGl2ZS1tYXR0ZXJzL2Jsb2cvc3BhcmtzLW1hcmF0aG9uLXJ1bm5pbmcpUnVuIHRoZSBWaXJnaW4gTG9uZG9uIE1hcmF0aG9uIGZvciBTcGFya3MPMzEgT2N0b2JlciAyMDExlAFJZiB5b3UgaGF2ZSBtYW5hZ2VkIHRvIHNlY3VyZSBhIGJhbGxvdCBwbGFjZSBydW5uaW5nIHRoZSBMb25kb24gTWFyYXRob24gbmV4dCB5ZWFyLCB3ZeKAmWQgbG92ZSB5b3UgdG8gY29tZSBhbmQgcnVuIGZvciBvdXIgY2hhcml0eSBwYXJ0bmVyIFNwYXJrcy4gZAICD2QWAmYPFQWJATxpbWcgc3JjPSIvfi9tZWRpYS81NENBMTg3ODJENzc0MTQ4ODQ2MTRCNjlEMjE0QTExNi5hc2h4P2g9NzAmdz0xMTAmcmduPTEyLDI5LDExNzgsNzY5JmFzPTEiIGFsdD0iQXF1YSBadW1iYSBjbGFzc2VzIGF0IFZpcmdpbiBBY3RpdmUiIC8+Hy9hY3RpdmUtbWF0dGVycy9ibG9nL2FxdWEtenVtYmE1SWYgeW91IGNhbuKAmXQgc3RhbmQgdGhlIGhlYXQg4oCTIGdldCBpbnRvIHRoZSB3YXRlciEPMjggT2N0b2JlciAyMDExzAFBcXVhIFp1bWJhIGlzIG1vcmUgbGlrZSBhIHBvb2wgcGFydHkgdGhhbiBhIGZpdG5lc3MgY2xhc3MuIEl04oCZcyBleGNpdGluZywgaXTigJlzIGxvdWQgYW5kIGl04oCZcyBndWFyYW50ZWVkIHRvIGxlYXZlIHlvdSBmZWVsaW5nIGNvbXBsZXRlbHkgZXhoaWxhcmF0ZWQuIE9oLiBBbmQgaXTigJlzIGFuIGFtYXppbmcgZnVsbC1ib2R5IHdvcmtvdXQgdG9vLiBkAgIPZBYCZg9kFgJmD2QWAgIBD2QWAmYPZBYCZg9kFgJmDxYCHgdWaXNpYmxlZxYCZg9kFgICAQ8UKwACDxYEHwBnHwECA2RkFgJmD2QWBgIBD2QWAmYPFQMcL2xlZ2Fscy90ZXJtcy1hbmQtY29uZGl0aW9ucwAUV2Vic2l0ZSBUZXJtcyBvZiBVc2VkAgIPZBYCZg8VAxYvbGVnYWxzL3ByaXZhY3ktcG9saWN5DmNsYXNzPSJhY3RpdmUiDlByaXZhY3kgUG9saWN5ZAIDD2QWAmYPFQMSL2xlZ2Fscy9jbHViLXJ1bGVzAApDbHViIFJ1bGVzZBgGBS5jb250ZW50XzAkcGhzZWNvbmRhcnluYXZfMCRTZWNvbmRMZXZlbEVsZW1lbnRzDzwrAAoCBxQrAANkZGQIAgNkBSZoZWFkZXJfMCRjdGwwMCRZb3VySGVhbHRoJEJsb2dQb3N0TGlzdA88KwAKAgcUKwACZGQIAgJkBTRoZWFkZXJfMCRjdGwwMCRGYWNpbGl0eUNsYXNzTmF2JEtpZHNTZWN0aW9uJE5hdkl0ZW1zD2dkBS5oZWFkZXJfMCRjdGwwMCRZb3VySGVhbHRoJEhlYWx0aFRvb2xzJE5hdkl0ZW1zDzwrAAoCBzwrAAQACAIEZAUxaGVhZGVyXzAkY3RsMDAkWW91ckhlYWx0aCRIZWFsdGhBcnRpY2xlcyROYXZJdGVtcw88KwAKAgc8KwAEAAgCBGQFHHByb21vdGlvbmV2ZW50XzAkRmVhdHVyZUxpc3QPPCsACgIHFCsAA2RkZAgCA2TC2z2b7Gf5L9srmUURBHhQkt1u4A==">
 </div>
-            </td>
-            <td background="/VA/images/MasterTable/Right_Table_Inner.gif" rowspan="1" valign="top" width="15">
-                <img id="ctl00_Image7" src="../../images/MasterTable/Right_TableTop_Inner.gif" border="0"></td>
-            <td width="6" background="/VA/images/MasterTable/Right_Shadow.gif">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" rowspan="2">
-                <img id="ctl00_Image9" src="../../images/MasterTable/Left_Circle_Bottom.gif" border="0"></td>
-            <td background="/VA/images/MasterTable/Bottom_Table_Inner.gif" height="15" width="525">
-            </td>
-            <td height="15" width="206" background="/VA/images/MasterTable/Bottom_Table_Inner.gif">
-            </td>
-            <td colspan="2" rowspan="2">
-                <img id="ctl00_Image6" src="../../images/MasterTable/Right_Circle_Bottom.gif" border="0"></td>
-        </tr>
-        <tr>
-            <td background="/VA/images/MasterTable/Bottom_Shadow.gif" height="6" width="525">
-            </td>
-            <td height="6" width="206" background="/VA/images/MasterTable/Bottom_Shadow.gif">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="2" rowspan="1">
-            </td>
-            <td width="525">
-            </td>
-            <td width="206">
-            </td>
-            <td colspan="2" rowspan="1">
-            </td>
-        </tr>
-        <tr>
-            <td colspan="6" rowspan="1" valign="middle" style="text-align: center; height: 12px;">
-            <br>
-            <a id="ctl00_link_Legal" href="Terms.aspx" style="font-weight:  bold; font-size: 8pt; color: white; text-decoration: none">Website terms of use | </a>
-            <a id="ctl00_HyperLink13" href="PrivacyPolicy.aspx" style="font-weight:  bold; font-size: 8pt; color: white; text-decoration: none">Privacy Policy | </a>
-            <a id="ctl00_link_Memberships" href="../membership/default.aspx" style="font-weight:  bold; font-size: 8pt; color: white; text-decoration: none">Our memberships | </a>
-            <a id="ctl00_link_ContactUs" href="../../TalkToUs/Selector.aspx" style="font-weight:  bold; font-size: 8pt; color: white; text-decoration: none">Contact us |</a>
-            <a id="ctl00_link_Sitemap" href="../../sitemap.aspx" target="_self" style="font-weight:  bold; font-size: 8pt; color: white; text-decoration: none">Sitemap |</a>
-            <a id="ctl00_link_Admin" href="../../Admin/Default.aspx" target="_blank" style="font-weight:  bold; font-size: 8pt; color: white; text-decoration: none">Admin</a>
-            <select name="ctl00$list_ClubSource" id="ctl00_list_ClubSource" style="visibility: hidden">
-	<option value="HP">CLIO</option>
-	<option value="HP">CBAR</option>
-	<option value="VA">25</option>
-	<option value="HP">CBIR</option>
-	<option value="VA">26</option>
-	<option value="HP">CELS</option>
-	<option value="HP">CBGL</option>
-	<option value="HP">CBRM</option>
-	<option value="HP">CCAN</option>
-	<option value="VA">27</option>
-	<option value="HP">CCHL</option>
-	<option value="HP">CCHG</option>
-	<option value="HP">CCLP</option>
-	<option value="HP">CCLE</option>
-	<option value="VA">22</option>
-	<option value="HP">CCRK</option>
-	<option value="HP">CCND</option>
-	<option value="HP">CCRO</option>
-	<option value="VA">5</option>
-	<option value="HP">CEAL</option>
-	<option value="HP">CDOR</option>
-	<option value="VA">19</option>
-	<option value="HP">CEDI</option>
-	<option value="HP">CEPS</option>
-	<option value="HP">CFAR</option>
-	<option value="HP">CFUL</option>
-	<option value="VA">17</option>
-	<option value="VA">23</option>
-	<option value="HP">CBRG</option>
-	<option value="HP">CHEN</option>
-	<option value="HP">CISL</option>
-	<option value="VA">12</option>
-	<option value="HP">CKEN</option>
-	<option value="HP">CKIN</option>
-	<option value="VA">9</option>
-	<option value="VA">10</option>
-	<option value="VA">1</option>
-	<option value="HP">CMDI</option>
-	<option value="HP">CMPR</option>
-	<option value="HP">CMAY</option>
-	<option value="VA">28</option>
-	<option value="VA">20</option>
-	<option value="HP">CBIT</option>
-	<option value="VA">18</option>
-	<option value="HP">CMOR</option>
-	<option value="VA">2</option>
-	<option value="HP">CNOT</option>
-	<option value="HP">CNTG</option>
-	<option value="HP">COXF</option>
-	<option value="VA">8</option>
-	<option value="HP">CPUT</option>
-	<option value="HP">RLL</option>
-	<option value="HP">CREG</option>
-	<option value="VA">24</option>
-	<option value="VA">15</option>
-	<option value="HP">CSLG</option>
-	<option value="VA">6</option>
-	<option value="HP">CSTA</option>
-	<option value="VA">11</option>
-	<option value="HP">CSHE</option>
-	<option value="HP">CSTR</option>
-	<option value="HP">CSUN</option>
-	<option value="VA">16</option>
-	<option value="HP">CMIN</option>
-	<option value="VA">75</option>
-	<option value="HP">CUXB</option>
-	<option value="VA">14</option>
-	<option value="VA">13</option>
-	<option value="HP">CWIM</option>
-	<option value="HP">CWOK</option>
-	<option value="HP">CWGR</option>
 
-</select>
-            <br><br>&nbsp;
-        </td>
-    </tr>
-    </tbody></table>
-    <span id="ctl00_lbl_MyClub" style="visibility: hidden"><font color="WhiteSmoke"></font></span><br>
-    <br>
-    &nbsp;
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLgq8rSDwKwu9mXDwL31+PLDMk8+4d9JwfFOti5q7L+dIRYqqQF">
+</div>
     
-    
-    
-    
-    &nbsp;
-    
-<input type="hidden" name="__VIEWSTATEENCRYPTED" id="__VIEWSTATEENCRYPTED" value="">
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="rfiFYVK02cbo8r9mTP3mzFY8PMMBrpZ9UKkCbMZ5y0Xg5nkSaBIQQ9MAX/8ed6fEjMWgFXehis4kPnJtsEvv8uhdmh2yirfgCKZ7gH6mOXo7e/YS3DpZi4hxWWODA1SCvkqfSzA7Ke7H611uFma/SP/PSHB8Tplf7ocfqqk1FggwGGr/gaf5saWu6hAzMlFsEpn+NvIlEnWSH5UtbVt9OQjK7vPcYPmxRI5HJhvycj0H86gfy8zEwXgvsOn7IoJN35ZjOy4HtIxuFkebq09AtCea8zeICSZFHqE06XKl0Op9C9kuU0RPhBQQH+GORpA9MrKYuOOSriZ09Xk8UZcet2i4Lvuyg12B14e09KRTKGOn1JExWDNYIq3cCyTmkrWvOsOml5nB51EjYwJ2D07yaRrQn+wI6CChsSehCSR/j0WmDtDFQpsXLZLq6aLnu+aaW9Dxp5Rgwm432/J5L/pin9RIHi/pUG7KSISEtG3twmKvrlQMOFrRR5kA1PuEHQRcPwJzwdtALV4d1K5Vfs5SUqwZ+oGyOn2XsKKJMCeqts+sX5f99Lgx/DEMtnjgLi6XDQILSgWrCUMZRDFRnySLvQKXtPvmRb6nOpP3Bfem2/mehtclvUo4rW3ViWXzTqaoYRwQxyetmPaoWEny2BOf650Zhce0TA7ASUJaWXkALvkKNHEZvfQ+3JDDtyRAh7AtXr8oWAPngREwLVi+2YnXtluEqtIaoUpBSEWeRG7iRn3xymdPMpyHJQQkvoFbff2Cpw4ERzX7yv/Axqqw4WQHGDndK/KlObmgJMM/GiNgJZ3Rdx6Fyh0f5PmsmnSnhEIdy1eVrj4T9bkAknF8XQMQSVps6lSUyJ3lPvvTBMGiA6C7+Jk9oAYzFP16k1GlYrPqZJdv9d4HPEEYHm4S6xtaOAdWKmPJ0uAbzF2yyX5HvyrAshr4oyxjvQ0j5xRsvY1rtlGu5loVYCp5c9LJsWtAThCYTtnUvlZB6IRujcEwPMX7g23r6e+m1VssyAQF8IQomCnTbCmibRI32RtdoRYXDl9C4fhOAlaHpo3phGqAese09GfAw2IbIJJSQ5vdbaJzrHFCfrd6t/D3/Tev3gjmfumnQaziCK820zTOfOIwWMzmoatc4uyFXI1SGdztjFE4D96KjKZTDAqaU+xSZrSJA0sdpCw+/7NhgSv/SdwPHcXtbhh48yIT9t47JEDwCcErfUlEL3ROsoGh/LEgwe+5ly3TDGRXMiuvJ17vzSl7gVzdADtNhw0jdFUddwSFa5L5HO1B99s1wGlmWrMo/wqVzwLG7Mg0Vl8/TdgscIqUOnn6w4yLYfyBcjhvos0ekw4CtrIzMmoFXeU6YXEDL7+L44knSUMBfxgEgQN8rjZNdO3YbOfSWw2/lvKrtEewuinL/0CbwNPgXDcfBXlSFm50ncSyzgtG5SBHP9FJYQ1gDDWx9AvsKimYvw6F1dgtBz3AxGJ+dUb8nuf8wtkxgov1he6HLonXYysxxA4RppcuszrtHli+GFCbBSb/l928ur5AtQZLbjFvKoPPAcUmHkSm774MTgOYdZoqiLRKvQNo7GQZvFjEQucOxz0+mfAAVt7gXbieGi02xc1fd8qq9eNWCbyZ2T9+zcAElTkj4F4q8zYZ/B4gIbPr4PJhO2iCpGC3931EKONGzeIyTayFu7x4cvr1NXP2rlwN9xkDFaSBKIzKYpJEVWvzHkQXSkao43yvTYejwwd7TAN9kalMKMrzaBpweDwFmORN5yTY7T5gewTOo6cJKKDqVVGN0oZJCFuAs88UGxFLbztq9ITjlJ/Wtopxa4FwIwXJwTac5aXsRSi0lpoCr2lJn7pl1oEErpS4f/xIKkM8Xp3Kr6BZ8L/hRzYrMbHw1k+vCXXSFeK7PCf4kYGDI0OkL6mUlfZDzoi5yBplZxWEG32JgmrnGyzpjK+vXLPza2MuaL/gnrvqRe1bvkzQpTMvLWJZLP6YcPv+"></form>
- <!-- Google Analytics: START --> 
-            <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-            </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-            <script type="text/javascript">
-            try{
-            var pageTracker = _gat._getTracker("UA-4099178-1");
-            pageTracker._trackPageview();
-            } 
-            catch(err) {}
-            </script>
-<!-- Google Analytics END -->
+    <ul id="skiplinks">
+		<li><a href="#main-nav" id="skipto-mainnav">Skip to main navigation</a></li>
+		<li><a href="#search" id="skipto-search">Skip to search</a></li>
+		<li><a href="#content" id="skipto-content">Skip to main content</a></li>
+    </ul>
+
+    <div id="reveal" style="display: none;">
+		<div class="container">
+            
+            <section class="fl">
+                
+                <img src="/~/media/4828BB9335CC4B9BB5F37E979264E270.ashx?h=160&amp;w=160&amp;rgn=0,0,160,160&amp;as=1" class="fl mr" alt="Live Happily Ever Active campaign">
+				<div class="featured-panel">
+                    <hgroup>
+					    <h2>News</h2>
+					    <h3>We're ready when you are</h3>
+				    </hgroup>
+				    <p>August 01-December 31 2011</p>
+				    <p>Now that Esporta has joined Virgin Active, we've 122 health clubs nationwide - all with the latest equipment, hottest classes, flexible membership options and the ability to use multiple clubs across the network.&nbsp;</p>
+				    <p><a class="btn btn-cta" href="/club-enquiry">Find out more</a></p>
+                </div>
+			</section>
+
+			<aside class="fr">
+				<h2>Ones to watch</h2>
+                
+                
+                    <ul>
+                                                
+                        <li><a href="/active-matters/blog/aqua-zumba" class="news">Virgin Active launches Aqua Zumba classes </a></li>
+                                            
+                        <li><a href="/press/2011/willpower-and-grace" class="news">Bare your soul at Virgin Active </a></li>
+                                            
+                        <li><a href="/active-matters/blog/music-launch" class="news">It's all about the music </a></li>
+                    
+                    </ul>
+                    
+ 
+			</aside>
+
+		</div>
+	</div>
+
+	<div id="wrapper">
+        <input name="header_0$hdnLastClubVisitedId" type="hidden" id="header_0_hdnLastClubVisitedId" class="lastClubVisitedId">
+		<header>
+            <input name="header_0$homePageUrl" type="hidden" id="header_0_homePageUrl" class="homePageUrl" value="http://www.virginactive.co.uk/Home.aspx">
+			<div class="container">
+				<div class="showmore">
+					<p class="more fl"><a href="/club-enquiry"><span></span> Esporta has joined Virgin Active -  Are you ready?</a></p>
+					<p class="show fr"><a class="showmore">Show more</a></p>
+				</div>
+                <div class="header-top">
+				    <a href="http://www.virginactive.co.uk/" id="logo"><img src="/virginactive/images/logo.png" alt="Virgin Active"></a>
+				    <h1 class="headertext"><a href="http://www.virginactive.co.uk/">Virgin Active <span>Health Clubs</span></a></h1>
+				    <nav>
+                        
 
 
-</body></html>
+                    <ul id="main-nav" class="ffb">
+                        
+
+
+                        <li id="nav-faci" class="level1"><a href="/facilities-and-classes/facilities" id="nav-title-faci" class="drop">Facilities &amp; Classes</a>
+                            <div class="dropdown">
+                                <div class="level2 nav-drop-col1">
+                                    <h2><a href="/facilities-and-classes/facilities">Facilities </a></h2>
+                                    <div class="level2-col level2-col1">
+	<h3><a href="/facilities-and-classes/facilities/facility?section=gym-floor">Gym Floor</a></h3><ul><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#cardio-equipment">Cardio</a></li><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#fixed-strength">Fixed Strength</a></li><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#cable-strength">Cable Strength</a></li><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#free-weights">Free Weights</a></li><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#stretch-bench">Flexibility</a></li><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#running-track">Running Track</a></li><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#ladies-only">Ladies Only</a></li><li><a href="/facilities-and-classes/facilities/facility?section=gym-floor#functional-zone">Functional Zone</a></li></ul>
+</div><div class="level2-col level2-col2">
+	<h3><a href="/facilities-and-classes/facilities/facility?section=cool-kit">Cool Kit</a></h3><ul><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#powerplate">Power Plate</a></li><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#climbing-wall">Climbing Wall</a></li><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#trx-suspension">TRX Suspension</a></li><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#trx-rip-trainer">TRX Rip Trainer</a></li><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#vipr">ViPR</a></li><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#kettlebells">Kettlebells</a></li><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#copy of kranking">Kranking</a></li><li><a href="/facilities-and-classes/facilities/facility?section=cool-kit#trixter-x-dream">Trixter X Dream</a></li></ul><h3><a href="/facilities-and-classes/facilities/facility?section=racquets">Racquets</a></h3><ul><li><a href="/facilities-and-classes/facilities/facility?section=racquets#tennis">Tennis</a></li><li><a href="/facilities-and-classes/facilities/facility?section=racquets#badminton">Badminton</a></li><li><a href="/facilities-and-classes/facilities/facility?section=racquets#squash">Squash</a></li></ul>
+</div><div class="level2-col level2-col3">
+	<h3><a href="/facilities-and-classes/facilities/facility?section=swim-spa">Swim &amp; Spa</a></h3><ul><li><a href="/facilities-and-classes/facilities/facility?section=swim-spa#indoor pools">Indoor Pools</a></li><li><a href="/facilities-and-classes/facilities/facility?section=swim-spa#swim-lessons">Swim Lessons</a></li><li><a href="/facilities-and-classes/facilities/facility?section=swim-spa#spa-area">Spa Area</a></li></ul><h3><a href="/facilities-and-classes/facilities/facility?section=club-extras">Club Extras</a></h3><ul><li><a href="/facilities-and-classes/facilities/facility?section=club-extras#cafe">Cafe</a></li><li><a href="/facilities-and-classes/facilities/facility?section=club-extras#computer stations">Computer Stations</a></li><li><a href="/facilities-and-classes/facilities/facility?section=club-extras#wifi">Wi-Fi</a></li></ul>
+</div>
+                                </div>
+                                <div class="level2 nav-drop-col2">
+                                    <h2><a href="/facilities-and-classes/classes">Classes</a></h2>
+                                    <div class="level2-col">
+                                    <h3><a href="/facilities-and-classes/classes/class-listing?section=strength">Strength</a></h3><ul><li><a href="/facilities-and-classes/classes/class-listing?section=strength#fast-classes">Fast Classes</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=strength#body-conditioning">Body Conditioning</a></li></ul><h3><a href="/facilities-and-classes/classes/class-listing?section=cardio">Cardio</a></h3><ul><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#fast-classes">Fast Classes</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#aerobics">Aerobics</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#aqua">Aqua</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#boxing-martial-arts">Boxing/Martial Arts</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#cycling">Cycling</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#dance">Dance</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#running">Running</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=cardio#step">Step</a></li></ul><h3><a href="/facilities-and-classes/classes/class-listing?section=mind-body">Mind &amp; Body</a></h3><ul><li><a href="/facilities-and-classes/classes/class-listing?section=mind-body#pilates">Pilates</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=mind-body#pre-post-natal">Pre/Post Natal</a></li><li><a href="/facilities-and-classes/classes/class-listing?section=mind-body#yoga">Yoga</a></li></ul>
+                                    </div>
+                                </div>
+                                <div class="level2 nav-drop-col3">
+                                    <div class="level2-col level2-col4">
+                                        <h2><a href="/facilities-and-classes/health-and-beauty">Health &amp; Beauty</a></h2>
+                                        <ul class="md-inner">
+                                            <li><a href="/facilities-and-classes/health-and-beauty">Spa Treatments</a></li>
+                                            <li><a href="/facilities-and-classes/health-and-beauty#offer-1">Spa Packages for Autumn</a></li><li><a href="/facilities-and-classes/health-and-beauty#buy2-get1-free">3 for 2 Pre-Christmas Party treatments</a></li><li><a href="/facilities-and-classes/health-and-beauty#spa-days-and-packages">Spa Days &amp; Packages</a></li><li><a href="/facilities-and-classes/health-and-beauty#christmas-gift-vouchers">Christmas Gift Vouchers</a></li><li><a href="/facilities-and-classes/health-and-beauty#skincare">Skincare</a></li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                 <div class="level2 nav-drop-col4">
+                                    <div class="level2-col level2-col6">
+                                    <h2><a href="/facilities-and-classes/personal-training">Personal Training</a></h2>                                       
+                                    </div>
+                                </div>
+                                <div class="level2 nav-drop-col5">
+                                    <div class="level2-col level2-col5">
+                                        <h2>
+                                                    
+                                                    <a href="/facilities-and-classes/kids">Kids</a>                                                    
+                                                    </h2>
+
+                                                 
+                                        
+                                    </div>
+                                </div>
+                               
+                                <div class="level2 nav-drop-club">
+                                    <h2><a href="/club-finder">Club Finder</a></h2>
+                                    <p class="bold">View individual clubs for:</p>
+                                    <p>Facilities, class &amp; swim timetables, club news, contact details and memberships</p>                                    
+                                    <p><a href="/club-finder" class="btn">Find your club</a></p>
+                                </div>
+                            </div>
+                        </li>
+                        
+
+                        <li id="nav-your" class="level1"><a href="/active-matters/articles" id="nav-title-your" class="drop">Active Matters</a>
+                          <div class="dropdown">
+                                <div class="level2 nav-drop2 nav-drop2-col1" style="height: 267px;">
+                                    <h2>
+                                                    
+                                                    <a href="/active-matters/articles">Articles</a>                                                    
+                                                    </h2>
+
+                                                 
+					                                    <ul> 
+                                                            
+                                                        <li>
+                                                            <a href="/active-matters/articles/diets">Diets</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a href="/active-matters/articles/health">Health</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a href="/active-matters/articles/exercise">Exercise</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a href="/active-matters/articles/health-and-beauty">Health and Beauty</a>
+                                                        </li>
+                                                     
+					                                    </ul>
+                                                    
+
+                                </div>
+                                <div class="level2 nav-drop2 nav-drop2-col2" style="height: 267px;">
+                                    <h2>
+                                                    
+                                                    <a href="/active-matters/tools">Tools</a>                                                    
+                                                    </h2>
+
+                                                 
+					                                    <ul> 
+                                                            
+                                                        <li>
+                                                            <a href="/active-matters/tools/bmi-calculator">BMI Calculator</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a href="/active-matters/tools/calorie-intake">Calorie Calculator</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a href="/active-matters/tools/waist-hip-ratio">Waist-Hip Ratio</a>
+                                                        </li>
+                                                    
+                                                        <li>
+                                                            <a href="/active-matters/tools/weight-chart">Weight Chart</a>
+                                                        </li>
+                                                     
+					                                    </ul>
+                                                    
+
+                                </div>
+
+                                <div class="level2 level2-col nav-drop2-col4" style="height: 267px;">
+                                    <h2><a href="/active-matters/blog">Blog</a></h2> 
+                                    
+                                    
+                                        
+                                            
+                                        <div class="nav-blog">
+                                           <img src="/~/media/87B97623757447A78635D038C34B095A.ashx?h=70&amp;w=110&amp;rgn=52,4,494,284&amp;as=1" alt="Sparks at Virgin London Marathon">
+                                           <p><a href="/active-matters/blog/sparks-marathon-running">Run the Virgin London Marathon for Sparks</a></p>
+                                           <p class="date">31 October 2011</p>
+                                           <p class="intro">If you have managed to secure a ballot place running the London Marathon next year, we’d love you to come and run for our charity partner Sparks. </p>
+                                        </div>
+                                        
+                                        <div class="nav-blog">
+                                           <img src="/~/media/54CA18782D77414884614B69D214A116.ashx?h=70&amp;w=110&amp;rgn=12,29,1178,769&amp;as=1" alt="Aqua Zumba classes at Virgin Active">
+                                           <p><a href="/active-matters/blog/aqua-zumba">If you can’t stand the heat – get into the water!</a></p>
+                                           <p class="date">28 October 2011</p>
+                                           <p class="intro">Aqua Zumba is more like a pool party than a fitness class. It’s exciting, it’s loud and it’s guaranteed to leave you feeling completely exhilarated. Oh. And it’s an amazing full-body workout too. </p>
+                                        </div>
+                                        
+                                        
+                                                  
+                                                               
+                                    <p class="read-more"><a href="/active-matters/blog">Read more blog posts</a></p>
+                                </div>
+                            </div>
+                        </li>
+                        
+                        <li id="nav-memb" class="level1"><a href="/memberships/options" id="nav-title-memb" class="drop">Memberships</a>
+                          <div class="dropdown">
+                                
+                                <div class="level2 nav-drop3 nav-drop3-col1" style="height: 185px;">
+                                    <h2><a href="/memberships/options.aspx">Options</a></h2>
+<p class="p1">It’s not just our members who are flexible. We have a range of membership options to suit you, for whatever you want to do, whenever you want to do it, and how much you want to spend on doing it.</p>
+<ul>
+    <li><a href="/memberships/options/personal.aspx">Personal</a>&nbsp;</li>
+    <li><a href="/memberships/options/corporate.aspx">Corporate</a>&nbsp;</li>
+</ul> 
+                                </div>
+                                
+                                <div class="level2 nav-drop3 nav-drop3-col3" style="height: 185px;">
+                                    <h2><a href="/memberships/multi-club-access.aspx">Multi-Club Access</a>&nbsp;</h2>
+<p class="p1">When you join Virgin Active, you’re a member of more than one health club. Our members can enjoy multi-club membership options across our 122 clubs around the country.</p>
+<ul>
+    <li><a href="/memberships/multi-club-access.aspx">Club access guide</a>&nbsp;</li>
+    <li><a href="/memberships/multi-club-access.aspx">Member access</a>&nbsp;</li>
+</ul> 
+                                </div>
+                                
+                              
+                                <div class="level2 nav-drop3 nav-drop3-col4" style="height: 185px;">
+                                    <h2><a href="/club-finder">Club Finder</a></h2>
+                                    <p class="bold">View individual clubs for:</p>
+                                    <p>Facilities, class &amp; swim timetables, club news, contact details and memberships</p>                                    
+                                    <p><a href="/club-finder" class="btn">Find your club</a></p>
+                                </div> 
+                            </div>
+                        </li>
+                    </ul>
+
+                    </nav>
+                    <p id="member-login">
+                        <a href="#" class="btn btn-cta overlay-clubfilterlist" data-list-title="Member Login" data-list-label="My club is:" data-form-submit="true" data-list-url="MemberLoginUrl" data-list-intro="Please select your home club from the list below and we’ll then take you through to your member’s area">
+                        Member login
+                        </a>
+                    </p>
+                </div>
+			</div>
+		</header>
+        
+		<div id="searchbar">
+			<div class="container">
+                <fieldset>
+                    <label for="search">Search Virgin Active</label>
+                    <input type="text" id="search" maxlength="40" class="searchclubs" placeholder="Start typing here to find clubs, facilities or classes...">
+                    <input type="hidden" id="AjaxText">
+                </fieldset>
+                
+                <div class="last-visited">
+                    <a href="/club-finder" id="clubfinder">Club Finder</a>
+
+                </div>
+			</div>
+		</div>
+        
+        
+
+        
+            <div class="container"> <!-- This will need to be fixed!-->
+                
+				<h1>Legals</h1>
+                <nav id="content_0_phsecondarynav_0_SecondLevelNavigation" class="sub-subnav">
+                    
+					    <ul> 
+                            
+                        <li><a href="/legals/terms-and-conditions">Website Terms of Use</a></li>
+                    
+                        <li><a href="/legals/privacy-policy" class="active">Privacy Policy</a></li>
+                    
+                        <li><a href="/legals/club-rules">Club Rules</a></li>
+                     
+					    </ul>
+                    
+            </nav>				
+
+
+
+                
+
+            <div id="content" class="layout-inner">
+            	<div class="single-article">                    
+                    <h2></h2>
+                    <h2>Virgin Active Privacy Policy</h2>
+<p>Virgin Active knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This policy describes the types of personal information that we may collect about you, the purposes for which we use the information, the circumstances in which we may share the information and the steps that we take to safeguard the information to protect your privacy. As used throughout this policy, the term “Virgin Active” refers to the Virgin Active Group and its affiliates worldwide. <strong>By visiting Virgin Active, you are accepting and consenting to the practices described in this Privacy Policy.</strong></p>
+<p><strong>1) Controllers of Personal Information</strong></p>
+<p>Any personal information provided to or gathered by Virgin Active Limited is controlled by Virgin Active Limited, Holmes Place Health Clubs Limited and Holmes Place Management Limited (the data controllers), whose registered office is at Active House, 21 North Fourth Street, Central Milton Keynes, Buckinghamshire MK9 1HL. A number of suppliers act as data processors on behalf of the data controllers from time to time which can be provided to you on request.</p>
+<p><strong>2) What Personal Information about club users does Virgin Active Limited Gather?</strong></p>
+<p>The information we gather from our club users help us to continually improve your experience at Virgin Active. This personal information may include: your name and contact information; date of birth; preferred communication methods; business name (in the case of a corporate membership) and business address; bank details and credit card details. We also create information that becomes part of the personal information we hold about you, such as your membership number and your usage of the club. We may also collect and create details on joint members and other family members, where applicable, including family members under the age of 18.</p>
+<p>We also collect the following information:</p>
+<ul>
+    <li><strong>Sensitive information</strong><br>
+    The term "sensitive information" in this context refers to information related to your racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership. Whilst we do not generally collect sensitive information unless it is volunteered by you, we do specifically collect health data to the extent that it is required to assess your readiness for physical exercise. We will use health information provided by you exclusively to serve you better and meet your particular needs. By providing the sensitive information to us, you are consenting to our using it in the manner set out in this Policy.</li>
+    <li><strong>Personal Information from Children</strong><br>
+    We do not knowingly collect personal information from individuals under 18 years of age without the permission of their parent or guardian. As a parent or legal guardian, please do not to allow your children to submit personal information without your permission.</li>
+    <li><strong>Photographs for Membership Card</strong><br>
+    In the interests of security and the prevention of crime, we may take a digital photograph of each member to whom a membership card is issued. By providing the digital photograph to us, you are consenting to our using it in the manner set out in this Policy.</li>
+    <li><strong>Contacting us via Website or otherwise</strong><br>
+    When you use the <a href="http://www.virginactive.co.uk/">www.virginactive.co.uk</a> website (“Our Site”) or contact us by post, telephone, fax, email or SMS, we collect, store and use certain personal information that you disclose to us. This includes details such as your name, address, telephone, fax, email and mobile phone number as well as traffic data, location data, web logs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access. If you contact us, we may keep a record of that correspondence.</li>
+    <li><strong>CCTV</strong><br>
+    We use CCTV in our clubs for health and security reasons. If you have any queries in relation to the use of CCTV operating in and around our clubs please contact us.</li>
+    <li><strong>Surveys</strong><br>
+    We also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. </li>
+</ul>
+<p><strong>3) What do we do with personal information collected from you?</strong></p>
+<p>We use personal information to provide the services you request from Virgin Active such as to facilitate: staff administration, administration of your membership of the club, facilitate bookings of classes and appointments with our own or third party service providers and other transactions. We may also use the information to: advertise products and services, to process payments and maintain accounts and records, to prevent crime and aid in the prosecution of offenders, and to administer and maintain membership records. In addition, we use this information to improve our platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.</p>
+<p>We also use your details to send you newsletters and promotions, and to conduct online surveys or surveys by telephone; prize draws; competitions and other promotions via email, telephone or post. We will also use the information in the course of collecting your membership fees and any other payments that may be due to us from you. If you apply for employment at Virgin Active, we use the personal information you supply to process your job application.</p>
+<p>Other than as set out in this Privacy Policy we will not share your personal information with third parties for marketing or any other purposes without your consent, unless we are required to do so by law. We operate an automatic opt-in policy which means that when you request information from us on one of our clubs or make an enquiry we add you to our database.</p>
+<p><strong>4) What about Cookies?</strong></p>
+<p>Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognise your browser and to automatically collect information from your computer such as your IP address and other details about your computer which are automatically collected by our web server, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.</p>
+<p>The “Help” menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Virgin Active’s essential features, we recommend that you leave them turned on. </p>
+<p>If you do leave cookies turned on, be sure to sign off when you finish using a shared computer.</p>
+<p>Please note that our advertisers may also use cookies, over which we have no control.</p>
+<ul>
+    <li>To estimate our audience size and usage pattern.</li>
+    <li>To store information about your preferences, and so allow us to customise Our Site according to your individual interests. </li>
+    <li>To speed up your searches.</li>
+    <li>To recognise you when you return to Our Site.</li>
+</ul>
+<p><strong>5) </strong><strong>Does Virgin Active Limited share the Information it receives?</strong></p>
+<p>Information about our club users is an important part of our business and we do not sell it to others. Virgin Active Limited shares member information only as described below and with the subsidiaries which Virgin Active Limited controls and which are either subject to this Privacy Policy or follow practices at least as protective as those described in this Privacy Policy.</p>
+<p><strong>Third Party Service Providers</strong>: We employ other companies and individuals to perform functions on our behalf. Examples include sending postal mail and e-mail, removing repetitive information from member lists, analysing data, and providing marketing assistance. Third party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Policy and as permitted by the UK's Data Protection Act 1998 (as amended). </p>
+<p><strong>Promotional Offers</strong>: Sometimes we send offers to club users on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please tick the opt-out box in your terms and conditions or let us know in writing if you don’t want us to receive these offers.</p>
+<p><strong>Business Transfers:</strong> As we continue to develop our business, we might sell or buy health clubs or subsidiaries or business units. In such transactions, member information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Policy (unless, of course, the member consents otherwise). Also, in the unlikely event that Virgin Active or substantially all of its assets are acquired, personal information will of course be one of the transferred assets. </p>
+<p><strong>Protection of Virgin Active and others</strong>: We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our membership or other agreements; or protect the rights, property or safety of Virgin Active, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, sharing or otherwise disclosing personally identifiable information from members for commercial purposes in a way that is contrary to the commitments made in this Privacy Policy.</p>
+<p>With your consent, other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information.</p>
+<p>Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Policy and as permitted by the applicable laws on data protection.</p>
+<p><strong>6) How Secure is Information about me?</strong></p>
+<p>We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. </p>
+<p><strong>7) What about Links to other websites?</strong></p>
+<p>Our site may include links to other websites. We do not provide any personally identifiable customer information to these advertisers or third-party websites. </p>
+<p>These third-party websites may use technology to send (or "serve") the advertisements that appear on our website directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, JavaScript, web beacons (also known as action tags or single-pixel gifs), and other technologies to measure the effectiveness of their ads and to personalise advertising content. We do not have access to or control over cookies or other features that they may use, and the information practices of these advertisers and third-party websites are not covered by this Privacy Policy. Please contact them directly for more information about their privacy practices. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies (also called "ad networks" or "network advertisers"), including information about how to opt-out of their information collection.</p>
+<p><strong>8) What Choices do I have?</strong></p>
+<p>As discussed above, you can always choose not to provide information. If you do not want to receive e-mail or other mail from us, tick the opt-out box in your terms and conditions or let us know in writing if you don’t want us to receive these offers. However, please note, if you do not want to receive legal notices from us, such as this Privacy Policy, those notices will still govern your use of Virgin Active and it is your responsibility to review them for changes.</p>
+<p>The Help menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Virgin Active’s essential features, we recommend that you leave them turned on.</p>
+<p><strong>9) Are Children allowed to use Virgin Active?</strong></p>
+<p>If you are under 18, you may use Virgin Active only with the involvement of a parent or guardian.</p>
+<p><strong>10) What Rights do I have in relation to my Personal Information?</strong></p>
+<p>You have the right to ask us not to process your personal information for marketing purposes by sending an email to the <a href="mailto:web.team@virginactive.co.uk?subject=Unsubscribe">webteam. </a>The Data Protection Act 1998 (as amended) gives you the right to access personal information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. If you would like to access your personal information contact us by email to <a href="mailto:data.requests@virginactive.co.uk">data.requests@virginactive.co.uk</a> or by post to Data Requests, Barbican Support Office, 100 Aldersgate Street, London, EC1A 4LX.</p>
+<p><strong>11) Notices and Revisions</strong></p>
+<p>If you have any concern about privacy at Virgin Active, please e-mail us a thorough description and we will try to resolve the issue for you.</p>
+<p>Our business changes constantly and our Privacy Policy and the <a href="/legals/terms-and-conditions.aspx">website terms and conditions </a>will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. However, we stand behind the promises we make and will never materially change our policies and practices to make them less protective of member information collected in the past without the consent of affected members.</p>
+<p><strong>12) Contact</strong></p>
+<p>Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to the Legal Department, Virgin Active Limited, Active House, 21 North Fourth Street, Central Milton Keynes, Buckinghamshire, MK9 1HL.</p>
+                </div>
+            </div> <!-- /content -->
+      
+            </div>            
+
+    
+        
+
+        <footer role="contentinfo">
+			<div class="container">
+	
+                <nav><ul><li class="first"><a href="/">Home</a></li><li><a href="/contact">Contact Us</a></li><li><a href="/press">Press</a></li><li><a href="/about-us">About Us</a></li><li><a href="/club-enquiry">Membership Enquiry</a></li><li><a href="/our-partners">Our Partners</a></li><li><a href="http://www.fitforvirginactive.co.uk/home.aspx" class="external" target="_blank">Careers</a></li></ul></nav>
+
+				<ul id="social">
+					<li><a href="http://www.youtube.com/virginactiveuk" class="yt external" target="_blank"><span></span>You Tube</a></li>
+					<li><a href="http://www.facebook.com/virginactiveuk" class="fb external" target="_blank"><span></span>Facebook</a></li>
+					<li><a href="http://twitter.com/VirginActiveUK" class="tw external" target="_blank"><span></span>Twitter</a></li>
+				</ul>
+
+                
+				<section class="fl">
+					<h4>About Virgin Active</h4>
+				    <p>Everyone’s welcome at Virgin Active. Young or old. Fit or unfit. It’s all good. </p>
+<p>We set out to create a health club that’s different from all the rest. We love helping our members to be active. But we’re not uptight or overly serious about it. That’s the way we do things around here.
+</p>
+<p>We don’t believe in hidden extras or locked doors either – you can use everything you want to in our clubs.
+</p>
+<p>So step inside and you’ll experience a health club that’s actively different from all the rest. You’ll be encouraged, inspired, and made to feel right at home.
+</p>
+				    <h5>live happily ever <span class="bold">active</span></h5>
+                </section>
+                
+
+				<section class="fr">
+					<h4>Partners</h4>
+					<ul id="partners">
+						<li class="first"><a href="http://www.puma.com/" class="external" target="_blank"><img src="/virginactive/images/partner-puma.png" alt="PUMA"></a></li>
+						<li><a href="http://innocentdrinks.co.uk/" class="external" target="_blank"><img src="/virginactive/images/partner-innocent.png" alt="PowerBar"></a></li>
+						<li><a href="http://www.poweradegb.com/" class="external" target="_blank"><img src="/virginactive/images/partner-powerade.png" alt="Powerade"></a></li>
+						<li><a href="http://www.sparks.org.uk/" class="external" target="_blank"><img src="/virginactive/images/partner-sparks.png" alt="Sparks"></a></li>
+					</ul>
+				</section>
+
+				<div id="footer-sub">
+                    <ul id="footer-links">
+                        <li><a href="/legals/terms-and-conditions.aspx">Website Terms of Use</a></li><li><a href="/legals/privacy-policy.aspx">Privacy Policy</a></li><li><a href="/legals/club-rules.aspx">Club Rules</a></li><li><a href="/sitemap.aspx">Sitemap</a></li>
+                        <li id="change-country"><a href="#">Change Country</a>
+                            <div id="country-wrap">
+                        	    <ul>
+                            	    <li><a href="http://www.virginactive.co.za" class="external sa-th" target="_blank">South Africa</a></li>
+                            	    <li><a href="http://www.virginactive.it" class="external it-th" target="_blank">Italy</a></li>
+                            	    <li><a href="http://www.virginactive.es" class="external es-th" target="_blank">Spain</a></li>
+                            	    <li><a href="http://www.virginactive.pt" class="external po-th" target="_blank">Portugal</a></li>
+								    <li class="last"><a href="http://www.virginactive.com.au" class="external au-th" target="_blank">Australia</a></li>
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+					
+					<p>© Copyright 2011 Virgin Active. All rights reserved.</p>
+					<p class="fr"><a href="http://www.mccormackmorrison.com"><img src="/virginactive/images/MM.png" alt="McCormack &amp; Morrison"></a></p>
+				</div>
+			</div>
+		</footer>
+    </div>
+</form>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.js"></script>
+    <script>window.jQuery || document.write("<script src='/virginactive/scripts/jquery-1.6.2.min.js'>\x3C/script>")</script><script src="/virginactive/scripts/jquery-1.6.2.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.14/jquery-ui.js"></script>
+    <script src="http://maps.googleapis.com/maps/api/js?sensor=false&amp;libraries=places&amp;region=GB&amp;language=en-GB&amp;radius=1000"></script>
+    <script src="/virginactive/scripts/plugins.js"></script>
+    <script src="/virginactive/scripts/jquery.virgin.init.js"></script>
+    <script src="/virginactive/scripts/sitecore/jquery.virgin.ajax.js"></script>
+    <script src="/virginactive/scripts/sitecore/jquery.virginsearch.ajax.js"></script>
+    <script src="/virginactive/scripts/sitecore/VirginActiveHelper.js"></script>
+    <script src="/virginactive/scripts/sitecore/validation.js"></script>
+    
+    <script src="//d3c3cq33003psk.cloudfront.net/opentag-32825-50177.js" async="" defer=""></script>
+    <!--[if lt IE 7 ]>
+	    <script src="/virginactive/scripts/dd_belatedpng.js"></script>
+	    <script>DD_belatedPNG.fix(".png_bg"); // Fix any <img> or .png_bg bg-images. Also, please read goo.gl/mZiyb </script>
+    <![endif]-->
+
+<a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>To Top</a></body></html>
