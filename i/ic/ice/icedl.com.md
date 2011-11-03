@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icedl.com privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410130006id_/http%3A//www.icedl.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icedl.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103062801id_/http%3A//www.icedl.org/privacy_policy.html) for the most accurate reproduction.*
 
-# ReDown.Com Privacy Policy Fileserve Torrent Rapidshare Hotfile Megaupload Mediafire Download Links - IceDL.Com
+# ReDown.Com Privacy Policy Fileserve Torrent Rapidshare Hotfile Megaupload Mediafire Download Links - icedl.org
 
 **ReDown.Com Privacy Policy**
 
