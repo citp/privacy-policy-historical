@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the visiondirect.co.uk privacy policy that was archived on 2011-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110423083930id_/http%3A//www.visiondirect.co.uk/page.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the visiondirect.co.uk privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103102910id_/http%3A//www.visiondirect.co.uk/page.php%3FxPage%3Dprivacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Vision Direct - Contact Lenses Online &gt; Privacy Policy</title>
@@ -10,7 +10,7 @@
 <!--
 <base href="templates_vd/"></base>
 -->
-<link rel="stylesheet" href="templates_vd/stylesheets/main-20102012.css?20110321" type="text/css">
+<link rel="stylesheet" href="../templates_vd/stylesheets/main-20102012.css?20111028a" type="text/css">
 <!--[if lte IE 7]>
 	<link rel="stylesheet" href="templates_vd/stylesheets-ie6/main.css" type="text/css"></link>
 <![endif]-->
@@ -22,7 +22,6 @@
 	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/VisionDirectCoUkNews">
 	
 	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.1/jquery.min.js"></script>
-<script type="text/javascript" src="/resources/jQuery/core/json2-min.js"></script>
 <script type="text/javascript" src="/resources/jQuery/suggest/jquery.suggest.js"></script><script language="JavaScript" type="text/javascript">
 <!--
 var expires = 30;
@@ -49,8 +48,8 @@ if (affidstr == "affid") {
 	
 		this.init = function() {
 			var theWidth = $("#searchWrapperCell").width();			
-			$("#searchSite").suggest("/routines/search-suggest.php?xCmd=searchSuggest&xThumbnails=1", {
-			});			
+			$("#searchSite").suggest("../routines/search-suggest.php?xCmd=searchSuggest&xThumbnails=1", {
+			});
 			
 			$('.ac_results').width(theWidth+23); 
 		}
@@ -81,30 +80,17 @@ if (affidstr == "affid") {
 		});				
 		
 		// document click (any element)
-				$('body').click(function(event) {
-			//close the full list drop down when clicked outside of it.
-			if (!$(event.target).is('#fullList *')) { 
-				$("#dropDownBox").hide();
-				$("#left").hide();
-				$("a.menuArrow").removeClass("menuArrowActive");
-			}
-		}); 
+					$('body').click(function(event) {
+				//close the full list drop down when clicked outside of it.
+				if (!$(event.target).is('#fullList *')) { 
+					$("#dropDownBox").hide();
+					$("#left").hide();
+					$("a.menuArrow").removeClass("menuArrowActive");
+				}
+			}); 
 				
 		
-					/*$('#left').mouseleave(function() {
-				$("#left").hide();								 
-			});*/
-			/*			
-			$('body').mousemove(function(event) { 
-				if ($(event.target).is('#left *')) { 
-				} 			
-				else if ($(event.target).is('.menuHeader *')) {
-				}
-				else {
-					$("#left").hide();
-				}
-			 }); */
-			
+					
 		/*end: the full list drop down box*/
 	});
 </script>
@@ -145,14 +131,25 @@ if (affidstr == "affid") {
 <div id="top" class="topInner">
 	<!--Start: Left side of top area (Logo + Tabs) -->	
 	<div class="left">
-		<a href="http://www.visiondirect.co.uk/" title="Contact Lenses Online at VisionDirect : Homepage"><img src="templates_vd/images/template-top-logo.png" alt="Contact Lenses Online since 1998"></a>
+		<a href="http://www.visiondirect.co.uk/" title="Contact Lenses Online at VisionDirect : Homepage">
+							<img src="../templates_vd/images/template-top-logo.png" alt="Contact Lenses Online since 1998">
+						
+		</a>
 		<span id="strapline">Contact Lenses Online since 1998</span>
+		<ul class="selling-points absolute font-arial">
+			<li><span class="tick layoutSprite"></span>Save up to 70% </li>
+			<li><span class="tick layoutSprite"></span>No hidden fees, No obligations</li>
+			<li><span class="tick layoutSprite"></span>FREEPOST for return </li>
+			<li><span class="tick layoutSprite"></span>FREE postage and packing (reorders) </li>			
+			<li><span class="tick layoutSprite"></span>100% Satisfaction Guarantee</li>
+			<li><span class="tick layoutSprite"></span>Over 5 million lenses in stock!</li>
+		</ul>
 		<div id="topTabs">
 			<a href="http://www.visiondirect.co.uk/page.php?xPage=about-us.html" title="Contact Lenses Online at VisionDirect : About Us">about us</a>
 			<a href="http://www.visiondirect.co.uk/page.php?xPage=news.html" title="Contact Lenses Online at VisionDirect : News">news</a>
 			<a href="http://www.visiondirect.co.uk/page.php?xPage=shipping_info.html" title="Contact Lenses Online at VisionDirect : Shipping">shipping</a>
 			<a href="http://www.visiondirect.co.uk/page.php?xPage=further-info.html" title="Contact Lenses Online at VisionDirect : Further Information">further info</a>
-			<a href="http://www.visiondirect.co.uk/page.php?xPage=contact-us.html" title="Contact Lenses Online at VisionDirect : Contact Us">contact us</a>
+			<a href="contact_us.php" title="Contact Lenses Online at VisionDirect : Contact Us">contact us</a>
 			<a href="http://service.velaro.com/visitor/requestchat.aspx?siteid=4442&amp;showwhen=inqueue&amp;deptid=4384" target="blank" title="Contact Lenses Online at VisionDirect : Live Help" onclick="this.newWindow = window.open('http://service.velaro.com/visitor/requestchat.aspx?siteid=4442&amp;showwhen=inqueue&amp;deptid=4384', 'Visiondirect Chat', 'toolbar=no,location=no,directories=no,menubar=no,status=no,scrollbars=no,resizable=yes,replace=no');this.newWindow.focus();this.newWindow.opener=window;return false;">live help</a>
 		</div>
 	</div>
@@ -160,8 +157,8 @@ if (affidstr == "affid") {
 	
 	<!--Start: Right Side of top area -->
 	<div id="topRight" class="right">
-		<div id="telephone"></div>
-		<a id="myAccountLink" href="http://www.visiondirect.co.uk/customer.php?xCmd=account" title="Contact Lenses Online : My Account"><span class="icon"></span>my account</a>						
+		<div id="telephone" class="telephone-"></div>
+		<a id="myAccountLink" href="https://www.visiondirect.co.uk/customer.php?xCmd=account" title="Contact Lenses Online : My Account"><span class="icon"></span>my account</a>						
 		<a id="enlargeSite" href="http://www.visiondirect.co.uk/page.php?xPage=browser-zoom-instructions.html" title="Contact Lenses Online : Enlarge Site"><span class="icon"></span>enlarge site</a>
 		<div class="clear"></div>
 		<span id="welcomeMessage">
@@ -172,7 +169,7 @@ if (affidstr == "affid") {
 		<ul>			
 			<li id="welcome">
 																You're new here! Welcome, please feel free to browse our store or log into your account.<br />
-							<a href="http://www.visiondirect.co.uk/customer.php?xCmd=account" title="Contact Lenses Online : My Account">my account</a>
+							<a href="https://www.visiondirect.co.uk/customer.php?xCmd=account" title="Contact Lenses Online : My Account">my account</a>
 									
 								<a id="enlargeSite" href="http://www.visiondirect.co.uk/page.php?xPage=browser-zoom-instructions.html" title="Contact Lenses Online : Enlarge Site"><span class="icon"></span>enlarge site</a>
 			</li>
@@ -223,252 +220,454 @@ if (affidstr == "affid") {
 										<input id="dropDownLabel" type="text" readonly="readonly" value="Select Contact Lenses">
 										<div id="dropDownArrow"></div>
 										<div id="dropDownBox">										
-											<a href="http://www.visiondirect.co.uk/section.php?xSec=69&amp;jssCart=">Acuvue</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=70&amp;jssCart=">Air Optix</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=59&amp;jssCart=">ALCON</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=52&amp;jssCart=">AMO</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=121&amp;jssCart=">Aura</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=49&amp;jssCart=">Bausch &amp; Lomb</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=71&amp;jssCart=">Biomedics</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=47&amp;jssCart=">Ciba Vision</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=54&amp;jssCart=">CL-Tinters</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=50&amp;jssCart=">Coopervision</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=72&amp;jssCart=">Dailies</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=73&amp;jssCart=">Focus</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=74&amp;jssCart=">Freshlook</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=57&amp;jssCart=">Gator Caiman</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=67&amp;jssCart=">GLASSES</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=48&amp;jssCart=">Johnson &amp; Johnson</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=1&amp;jssCart=">Main Section</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=55&amp;jssCart=">Optx 20/20</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=76&amp;jssCart=">Proclear</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=65&amp;jssCart=">Provis</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=75&amp;jssCart=">Purevision</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=77&amp;jssCart=">Soflens</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=95&amp;jssCart=">Soflens Daily Disposable</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=107&amp;jssCart=">Specs Cases</a>
-<a href="http://www.visiondirect.co.uk/section.php?xSec=51&amp;jssCart=">Vision Direct</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=2&amp;jssCart=">1 Day Acuvue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=183&amp;jssCart=">1 Day Acuvue for Astigmatism</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=107&amp;jssCart=">1 Day Acuvue Moist</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=306&amp;jssCart=">1 Day Acuvue Moist for Astigmatism</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=250&amp;jssCart=">1 Day Acuvue TruEye</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=74&amp;jssCart=">2 Step (360ml Disin-sept, 360ml Neutra-Sept, Barrel Lens Case)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=248&amp;jssCart=">9MM Noble</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=257&amp;jssCart=">ActiMist 10ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=3&amp;jssCart=">Acuvue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=4&amp;jssCart=">Acuvue 2</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=89&amp;jssCart=">Acuvue Advance</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=184&amp;jssCart=">Acuvue Advance for Astigmatism</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=5&amp;jssCart=">Acuvue Bifocal</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=101&amp;jssCart=">Acuvue Oasys</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=188&amp;jssCart=">Acuvue Oasys for Astigmatism</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=93&amp;jssCart=">Air Optix</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=208&amp;jssCart=">Air Optix Aqua</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=228&amp;jssCart=">Air Optix Aqua Multifocal</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=131&amp;jssCart=">Air Optix for Astigmatism</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=21&amp;jssCart=">Air Optix Night &amp; Day (Focus Night &amp; Day)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=109&amp;jssCart=">Alpine Crystal Ski Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=285&amp;jssCart=">Alpine Professional Ski Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=235&amp;jssCart=">Animal Farm (5)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=236&amp;jssCart=">Animal Farm (10)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=205&amp;jssCart=">Anti Wrinkle Eye Patch Size 10</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=206&amp;jssCart=">Anti Wrinkle Eye Patch Size 13</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=52&amp;jssCart=">AOSEPT PLUS</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=261&amp;jssCart=">Arthur Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=294&amp;jssCart=">Aura 1 Day 20 pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=305&amp;jssCart=">Aura 1 Day 90 pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=252&amp;jssCart=">Autumn Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=303&amp;jssCart=">Avaira (6pack)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=155&amp;jssCart=">Balloonfish Case Blue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=215&amp;jssCart=">Balloonfish Case Pink</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=154&amp;jssCart=">Balloonfish Case Purple</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=214&amp;jssCart=">Balloonfish Case Yellow</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=243&amp;jssCart=">Bamboo Silver</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=114&amp;jssCart=">Barcelona, Silver, Smoked, Polarised includes Pouch</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=268&amp;jssCart=">Bar Magnifier 160</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=262&amp;jssCart=">Bar Magnifier 210</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=56&amp;jssCart=">Barrel Lens Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=219&amp;jssCart=">Bear Shape Case Blue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=216&amp;jssCart=">Bear Shape Case Pink</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=140&amp;jssCart=">Biofinity</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=274&amp;jssCart=">Biofinity Toric</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=83&amp;jssCart=">Biomedics 1 Day</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=272&amp;jssCart=">Biomedics 1 Day Toric</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=54&amp;jssCart=">Biomedics 55 Evolution</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=30&amp;jssCart=">Biomedics Toric</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=290&amp;jssCart=">Biotrue 60ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=291&amp;jssCart=">Biotrue 300ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=281&amp;jssCart=">Black Reel Glasses</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=234&amp;jssCart=">blink-n-clean</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=158&amp;jssCart=">Blink Contacts</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=279&amp;jssCart=">blink contacts 10ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=120&amp;jssCart=">Boston Cleaner</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=230&amp;jssCart=">Boston Simplus 120ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=289&amp;jssCart=">Bullet Ski Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=244&amp;jssCart=">CADDY</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=127&amp;jssCart=">Chicago Black smoked lens</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=201&amp;jssCart=">collagen eye filler duo pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=195&amp;jssCart=">collagen technology skin cleanser</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=197&amp;jssCart=">collagen technology skin toner</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=29&amp;jssCart=">Colortones</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=37&amp;jssCart=">Comfort Eye Drops</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=40&amp;jssCart=">Complete</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=203&amp;jssCart=">coral and collagen pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=141&amp;jssCart=">DAILIES AquaComfort Plus 30 pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=142&amp;jssCart=">DAILIES AquaComfort Plus 90 pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=256&amp;jssCart=">Daily Cleaner 30ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=95&amp;jssCart=">DAYSOFT UV</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=42&amp;jssCart=">DISIN-SEPT 360ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=102&amp;jssCart=">Dual Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=113&amp;jssCart=">Dynamix, Blue/Black, Smoked, Polarised includes Pouch</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=86&amp;jssCart=">easySEPT</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=253&amp;jssCart=">Eclipse Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=220&amp;jssCart=">Elephant Shape Case Blue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=222&amp;jssCart=">Elephant Shape Case Green</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=223&amp;jssCart=">Elephant Shape Case Purple</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=221&amp;jssCart=">Elephant Shape Case Yellow</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=121&amp;jssCart=">Eliminator Snowboarder Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=137&amp;jssCart=">Envy Kit Black</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=115&amp;jssCart=">Escape CF includes Pouch</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=31&amp;jssCart=">Essilor Lunelle</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=94&amp;jssCart=">Extreme H2O S-xtra</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=191&amp;jssCart=">Eye Care Cream</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=232&amp;jssCart=">Eye Gel Mask Blue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=190&amp;jssCart=">Eye make-up remover emulsion</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=189&amp;jssCart=">Eye make-up remover lotion</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=245&amp;jssCart=">Fire Folding</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=12&amp;jssCart=">Focus Dailies 'All Day Comfort'</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=45&amp;jssCart=">Focus Dailies Progressives</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=80&amp;jssCart=">Focus Dailies Toric</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=293&amp;jssCart=">Focus Dailies Toric 90 Pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=15&amp;jssCart=">Focus Softcolors</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=18&amp;jssCart=">Focus Toric Visitint</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=51&amp;jssCart=">Focus Visitint</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=105&amp;jssCart=">Folding Contact Lens Mirror</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=123&amp;jssCart=">Folding Safety Glasses, Smoked Lens</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=76&amp;jssCart=">Frequency 55</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=71&amp;jssCart=">Frequency 55 Aspheric AB</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=70&amp;jssCart=">Frequency Xcel Toric</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=13&amp;jssCart=">Freshlook Color</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=14&amp;jssCart=">Freshlook Colorblends</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=46&amp;jssCart=">Freshlook Dimensions</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=122&amp;jssCart=">Freshlook ONE-DAY</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=149&amp;jssCart=">Frog Shape Case Blue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=150&amp;jssCart=">Frog Shape Case Green</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=209&amp;jssCart=">Frog Shape Case Yellow</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=138&amp;jssCart=">Gripper Case Black</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=269&amp;jssCart=">Harlequin</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=124&amp;jssCart=">Hero (photochromic lenses) clear/smoked</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=212&amp;jssCart=">Hippo Shape Case Green</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=153&amp;jssCart=">Hippo Shape Case Grey</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=152&amp;jssCart=">Hippo Shape Case Yellow</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=181&amp;jssCart=">Hycosan</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=58&amp;jssCart=">HydroTac Lenses</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=277&amp;jssCart=">i-case, the innovative contact lens holder</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=28&amp;jssCart=">Images</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=110&amp;jssCart=">Jackflash Junior</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=133&amp;jssCart=">Junior Prescription Swimming Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=226&amp;jssCart=">Just In Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=288&amp;jssCart=">Kids Camo Ski Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=287&amp;jssCart=">Kids Pink Ski Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=271&amp;jssCart=">Kids Softcase</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=259&amp;jssCart=">LegendaryEyes</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=55&amp;jssCart=">Lens Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=97&amp;jssCart=">lensvue2</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=139&amp;jssCart=">Lightning SM</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=144&amp;jssCart=">LightWedge® PAPERBACK</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=186&amp;jssCart=">Mad Dog</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=104&amp;jssCart=">Magni-Pen</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=246&amp;jssCart=">METTE</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=202&amp;jssCart=">microdermabrasion</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=39&amp;jssCart=">Multi-use 360ml + FREE lens case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=57&amp;jssCart=">Multi-use travel size</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=36&amp;jssCart=">NEUTRA-SEPT 360ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=270&amp;jssCart=">Ocuvite Complete</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=85&amp;jssCart=">Ocuvite Lutein</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=27&amp;jssCart=">Omniflex</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=193&amp;jssCart=">Ophtalmic dark circle control crème</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=194&amp;jssCart=">Ophtalmic Eye lifting gel</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=192&amp;jssCart=">Ophtalmic puffy eye control crème</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=41&amp;jssCart=">OPTI-Free Express</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=187&amp;jssCart=">OPTI-Free RepleniSH</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=182&amp;jssCart=">Opti-Free Replenish Travel</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=35&amp;jssCart=">Opticomfort</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=47&amp;jssCart=">Oxysept 1 Step</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=156&amp;jssCart=">Oxysept 1 Step Travel</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=148&amp;jssCart=">PAPERBACK CADDY</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=282&amp;jssCart=">Par Golf Glasses</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=211&amp;jssCart=">Piggy Shape Case Green</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=151&amp;jssCart=">Piggy Shape Case Orange</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=129&amp;jssCart=">Piggy Shape Lens Case Pink</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=145&amp;jssCart=">Pocket Magnifier with LED Light</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=254&amp;jssCart=">Polka Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=304&amp;jssCart=">Pollenase 10ml</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=17&amp;jssCart=">Precision UV</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=60&amp;jssCart=">Prescription Swimming Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=84&amp;jssCart=">PreserVision</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=135&amp;jssCart=">PreserVision Lutein Soft Gels</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=134&amp;jssCart=">PreserVision Original Soft Gels</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=24&amp;jssCart=">Proclear</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=180&amp;jssCart=">Proclear 1 Day</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=96&amp;jssCart=">Proclear Compatibles Multifocal</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=66&amp;jssCart=">Proclear Compatibles Toric</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=231&amp;jssCart=">Proclear EP</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=196&amp;jssCart=">pure collagen capsules</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=11&amp;jssCart=">Purevision</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=132&amp;jssCart=">Purevision Multi-focal</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=88&amp;jssCart=">Purevision Toric</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=125&amp;jssCart=">Rad Chrome Smoked Lens</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=302&amp;jssCart=">Reading Glasses Ama</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=237&amp;jssCart=">Reading Glasses Diamonds</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=242&amp;jssCart=">Reading Glasses Fidel</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=240&amp;jssCart=">Reading Glasses Flowers</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=263&amp;jssCart=">Reading Glasses Folding</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=299&amp;jssCart=">Reading Glasses Kat</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=295&amp;jssCart=">Reading Glasses Kristina</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=238&amp;jssCart=">Reading Glasses Memo Flex</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=239&amp;jssCart=">Reading Glasses Optical Reader</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=265&amp;jssCart=">Reading Glasses Pattern</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=300&amp;jssCart=">Reading Glasses Rene</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=264&amp;jssCart=">Reading Glasses Rimless</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=301&amp;jssCart=">Reading Glasses Stilt</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=266&amp;jssCart=">Reading Glasses Style</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=286&amp;jssCart=">Red Blizzard Ski Goggles</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=111&amp;jssCart=">RedWeb Junior</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=50&amp;jssCart=">Renu MPS Multi-Purpose</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=143&amp;jssCart=">Renu Special Flight Pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=33&amp;jssCart=">Reoptic 38</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=34&amp;jssCart=">Reoptic 55</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=103&amp;jssCart=">Revitalising Cucumber Eye Pads</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=126&amp;jssCart=">Rocket Blue Mirrored lens</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=92&amp;jssCart=">Safety Glasses</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=38&amp;jssCart=">Saline</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=207&amp;jssCart=">Soflens 38</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=65&amp;jssCart=">Soflens 59</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=8&amp;jssCart=">Soflens 66</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=179&amp;jssCart=">Soflens Daily Disposable (90 Pack)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=128&amp;jssCart=">Soflens Daily Disposable 30 Pk</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=227&amp;jssCart=">Soflens Daily Disposable for Astigmatism</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=9&amp;jssCart=">Soflens for Astigmatism (SofLens Toric)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=91&amp;jssCart=">Soflens Multi-Focal</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=49&amp;jssCart=">Soflens Natural Colors</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=7&amp;jssCart=">Soflens One Day</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=99&amp;jssCart=">Softsert Original</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=276&amp;jssCart=">Solo Sept</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=284&amp;jssCart=">Solo Sept Travel</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=112&amp;jssCart=">Spectrum GT Red</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=100&amp;jssCart=">Sport Safety Glasses (unbreakable!)</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=247&amp;jssCart=">Sunshine Black</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=43&amp;jssCart=">Surevue</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=251&amp;jssCart=">Torpedo Clear Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=283&amp;jssCart=">Tour GT Red</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=292&amp;jssCart=">Travel Lens Case CityLife</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=146&amp;jssCart=">USB Flex Neck Black</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=62&amp;jssCart=">Ventilated Barrel Lens Case</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=32&amp;jssCart=">Vision Enhancer</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=147&amp;jssCart=">Wallet Magnifiers 2-pack</a>
-<a href="http://www.visiondirect.co.uk/product.php?xProd=26&amp;jssCart=">Zero 6</a>
+											<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=69&amp;jssCart=">Acuvue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=70&amp;jssCart=">Air Optix</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=59&amp;jssCart=">ALCON</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=52&amp;jssCart=">AMO</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=121&amp;jssCart=">Aura</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=49&amp;jssCart=">Bausch &amp; Lomb</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=71&amp;jssCart=">Biomedics</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=47&amp;jssCart=">Ciba Vision</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=137&amp;jssCart=">Ciba Vision Focus Visitint</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=54&amp;jssCart=">CL-Tinters</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=50&amp;jssCart=">Coopervision</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=72&amp;jssCart=">Dailies</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=73&amp;jssCart=">Focus</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=74&amp;jssCart=">Freshlook</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=57&amp;jssCart=">Gator Caiman</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=67&amp;jssCart=">GLASSES</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=48&amp;jssCart=">Johnson &amp; Johnson</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=1&amp;jssCart=">Main Section</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=134&amp;jssCart=">Newsletter201108</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=55&amp;jssCart=">Optx 20/20</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=76&amp;jssCart=">Proclear</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=65&amp;jssCart=">Provis</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=75&amp;jssCart=">Purevision</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=77&amp;jssCart=">SofLens</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=95&amp;jssCart=">Soflens Daily Disposable</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=107&amp;jssCart=">Specs Cases</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/section.php?xSec=51&amp;jssCart=">Vision Direct</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=2&amp;jssCart=">1 Day Acuvue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=183&amp;jssCart=">1 Day Acuvue for Astigmatism</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=107&amp;jssCart=">1 Day Acuvue Moist</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=306&amp;jssCart=">1 Day Acuvue Moist for Astigmatism</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=250&amp;jssCart=">1 Day Acuvue TruEye</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=74&amp;jssCart=">2 Step (360ml Disin-sept, 360ml Neutra-Sept, Barrel Lens Case)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=248&amp;jssCart=">9MM Noble</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=384&amp;jssCart=">8178-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=382&amp;jssCart=">8178-531</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=383&amp;jssCart=">8178-579</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=390&amp;jssCart=">8294-A40</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=385&amp;jssCart=">8294-K01</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=386&amp;jssCart=">8296-531</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=387&amp;jssCart=">8296-568</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=388&amp;jssCart=">8296-568X</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=389&amp;jssCart=">8296-579X</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=381&amp;jssCart=">8426-0568</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=257&amp;jssCart=">ActiMist 10ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=416&amp;jssCart=">Active Lifestyle RB3403-004-11-65 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=4&amp;jssCart=">Acuvue 2</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=89&amp;jssCart=">Acuvue Advance</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=184&amp;jssCart=">Acuvue Advance for Astigmatism</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=5&amp;jssCart=">Acuvue Bifocal</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=101&amp;jssCart=">Acuvue Oasys</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=188&amp;jssCart=">Acuvue Oasys for Astigmatism</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=208&amp;jssCart=">Air Optix Aqua</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=228&amp;jssCart=">Air Optix Aqua Multifocal</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=131&amp;jssCart=">Air Optix for Astigmatism</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=21&amp;jssCart=">Air Optix Night &amp; Day (Focus Night &amp; Day)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=109&amp;jssCart=">Alpine Crystal Ski Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=285&amp;jssCart=">Alpine Professional Ski Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=235&amp;jssCart=">Animal Farm (5)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=236&amp;jssCart=">Animal Farm (10)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=205&amp;jssCart=">Anti Wrinkle Eye Patch Size 10</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=206&amp;jssCart=">Anti Wrinkle Eye Patch Size 13</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=52&amp;jssCart=">AOSEPT PLUS</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=261&amp;jssCart=">Arthur Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=294&amp;jssCart=">Aura 1 Day 20 pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=305&amp;jssCart=">Aura 1 Day 90 pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=359&amp;jssCart=">Aura Monthly UV</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=252&amp;jssCart=">Autumn Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=303&amp;jssCart=">Avaira (6pack)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=508&amp;jssCart=">Aviator RB3025 091-3k-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=404&amp;jssCart=">Aviator RB3025-001-3E-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=367&amp;jssCart=">Aviator RB3025-001-3E-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=364&amp;jssCart=">Aviator RB3025-001-3F-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=402&amp;jssCart=">Aviator RB3025-001-33-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=403&amp;jssCart=">Aviator RB3025-001-33-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=453&amp;jssCart=">Aviator RB3025-001-33-62 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=374&amp;jssCart=">Aviator RB3025-001-51-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=373&amp;jssCart=">Aviator RB3025-001-51-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=341&amp;jssCart=">Aviator RB3025-001-58-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=405&amp;jssCart=">Aviator RB3025-002-3F-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=368&amp;jssCart=">Aviator RB3025-003-3E-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=363&amp;jssCart=">Aviator RB3025-003-3G-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=370&amp;jssCart=">Aviator RB3025-003-32-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=406&amp;jssCart=">Aviator RB3025-003-32-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=360&amp;jssCart=">Aviator RB3025-003-40-62 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=365&amp;jssCart=">Aviator RB3025-004-51-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=366&amp;jssCart=">Aviator RB3025-004-51-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=454&amp;jssCart=">Aviator RB3025-004-51-62 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=358&amp;jssCart=">Aviator RB3025-004-58-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=514&amp;jssCart=">Aviator RB3025-004-77-62 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=407&amp;jssCart=">Aviator RB3025-072-32-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=369&amp;jssCart=">Aviator RB3025-073-3E-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=408&amp;jssCart=">Aviator RB3025-087-32-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=409&amp;jssCart=">Aviator RB3025-088-3F-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=410&amp;jssCart=">Aviator RB3025-090-32-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=342&amp;jssCart=">Aviator RB3025-L0205-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=310&amp;jssCart=">Aviator RB3025-L2823-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=343&amp;jssCart=">Aviator RB3025-W0879-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=344&amp;jssCart=">Aviator RB3025-W3234-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=362&amp;jssCart=">Aviator RB3025-W3236-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=345&amp;jssCart=">Aviator RB3025-W3275-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=361&amp;jssCart=">Aviator RB3025-W3276-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=346&amp;jssCart=">Aviator RB3025-W3277-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=349&amp;jssCart=">Aviator RB3044-L0207-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=350&amp;jssCart=">Aviator RB3044-L2848-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=351&amp;jssCart=">Aviator RB3044-W3100-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=352&amp;jssCart=">Aviator RB3044-W3177-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=312&amp;jssCart=">Aviator RB3293-004-13-63 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=456&amp;jssCart=">Aviator  RB3386-003-8G-67 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=315&amp;jssCart=">Aviator RB3386-003-9a-67 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=316&amp;jssCart=">Aviator RB3386-004-13-67 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=318&amp;jssCart=">Aviator RB3387-001-13-64 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=319&amp;jssCart=">Aviator RB3387-003-8G-64 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=357&amp;jssCart=">Aviator RB3387-004-13-64 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=317&amp;jssCart=">Aviator RB3387-006-71-64 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=326&amp;jssCart=">Aviator RB3407-001-55 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=436&amp;jssCart=">Aviator RB4125-601-32-59 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=322&amp;jssCart=">Aviator RB4125-601-59 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=320&amp;jssCart=">Aviator RB4125-710-51-59 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=372&amp;jssCart=">Aviator RB4125-722-32-59 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=155&amp;jssCart=">Balloonfish Case Blue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=215&amp;jssCart=">Balloonfish Case Pink</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=154&amp;jssCart=">Balloonfish Case Purple</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=214&amp;jssCart=">Balloonfish Case Yellow</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=243&amp;jssCart=">Bamboo Silver</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=114&amp;jssCart=">Barcelona, Silver, Smoked, Polarised includes Pouch</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=268&amp;jssCart=">Bar Magnifier 160</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=262&amp;jssCart=">Bar Magnifier 210</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=56&amp;jssCart=">Barrel Lens Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=219&amp;jssCart=">Bear Shape Case Blue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=216&amp;jssCart=">Bear Shape Case Pink</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=140&amp;jssCart=">Biofinity</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=499&amp;jssCart=">Biofinity Toric 6 pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=83&amp;jssCart=">Biomedics 1 Day</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=272&amp;jssCart=">Biomedics 1 Day Toric</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=54&amp;jssCart=">Biomedics 55 Evolution</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=30&amp;jssCart=">Biomedics Toric</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=290&amp;jssCart=">Biotrue 60ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=291&amp;jssCart=">Biotrue 300ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=281&amp;jssCart=">Black Reel Glasses</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=234&amp;jssCart=">blink-n-clean</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=158&amp;jssCart=">Blink Contacts</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=279&amp;jssCart=">blink contacts 10ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=120&amp;jssCart=">Boston Cleaner</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=230&amp;jssCart=">Boston Simplus 120ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=289&amp;jssCart=">Bullet Ski Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=244&amp;jssCart=">CADDY</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=517&amp;jssCart=">can c plus 90 tablets</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=518&amp;jssCart=">Can C plus Eye drops</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=353&amp;jssCart=">Caravan RB3136-001-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=411&amp;jssCart=">Caravan RB3136-001-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=412&amp;jssCart=">Caravan RB3136-004-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=354&amp;jssCart=">Caravan RB3136-004-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=455&amp;jssCart=">Caravan RB3136-006-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=413&amp;jssCart=">Caravan RB3136-006-58 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=127&amp;jssCart=">Chicago Black smoked lens</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=339&amp;jssCart=">ClubMaster RB3016-W0365-49 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=340&amp;jssCart=">ClubMaster RB3016-W0366-49 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=327&amp;jssCart=">ClubMaster RB4132-601-52 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=201&amp;jssCart=">collagen eye filler duo pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=195&amp;jssCart=">collagen technology skin cleanser</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=197&amp;jssCart=">collagen technology skin toner</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=29&amp;jssCart=">Colortones</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=37&amp;jssCart=">Comfort Eye Drops</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=40&amp;jssCart=">Complete</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=457&amp;jssCart=">Complete RevitaLens Multi-Purpose Disinfecting Solution 3x240ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=458&amp;jssCart=">Complete RevitaLens Multi-Purpose Disinfecting Solution Travel</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=157&amp;jssCart=">Complete Travel</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=203&amp;jssCart=">coral and collagen pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=447&amp;jssCart=">Crosshair 2.0 Black Iridium 004044-03</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=141&amp;jssCart=">DAILIES AquaComfort Plus 30 pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=142&amp;jssCart=">DAILIES AquaComfort Plus 90 pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=256&amp;jssCart=">Daily Cleaner 30ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=95&amp;jssCart=">DAYSOFT UV</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=468&amp;jssCart=">DG2049-047-32-62</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=459&amp;jssCart=">DG2081-04-87-60</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=460&amp;jssCart=">DG2081-065-13-60</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=467&amp;jssCart=">DG2091-034-13-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=466&amp;jssCart=">DG2091-061-8G-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=473&amp;jssCart=">DG4080-887-8E-58</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=463&amp;jssCart=">DG4101-17528G-54</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=465&amp;jssCart=">DG4103-501-8G-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=464&amp;jssCart=">DG4103-502-73-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=462&amp;jssCart=">DG4104-501-8G-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=461&amp;jssCart=">DG4104-18068E-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=474&amp;jssCart=">DG4111-501-8G-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=475&amp;jssCart=">DG4111-502-13-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=472&amp;jssCart=">DG4115-501-8G-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=471&amp;jssCart=">DG4115-502-13-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=469&amp;jssCart=">DG4117-501-8G-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=470&amp;jssCart=">DG4117-502-13-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=42&amp;jssCart=">DISIN-SEPT 360ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=102&amp;jssCart=">Dual Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=113&amp;jssCart=">Dynamix, Blue/Black, Smoked, Polarised includes Pouch</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=86&amp;jssCart=">easySEPT</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=253&amp;jssCart=">Eclipse Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=220&amp;jssCart=">Elephant Shape Case Blue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=222&amp;jssCart=">Elephant Shape Case Green</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=221&amp;jssCart=">Elephant Shape Case Yellow</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=121&amp;jssCart=">Eliminator Snowboarder Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=137&amp;jssCart=">Envy Kit Black</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=115&amp;jssCart=">Escape CF includes Pouch</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=31&amp;jssCart=">Essilor Lunelle</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=94&amp;jssCart=">Extreme H2O S-xtra</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=191&amp;jssCart=">Eye Care Cream</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=232&amp;jssCart=">Eye Gel Mask Blue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=190&amp;jssCart=">Eye make-up remover emulsion</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=189&amp;jssCart=">Eye make-up remover lotion</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=245&amp;jssCart=">Fire Folding</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=445&amp;jssCart=">Fives 4.0 Black Iridium 03-365</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=442&amp;jssCart=">Fives Squared Black Iridium 12-967</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=444&amp;jssCart=">Flak Jacket Black Iridium 12-900</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=443&amp;jssCart=">FLAK JACKET XLJ Black Iridium 12-903</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=12&amp;jssCart=">Focus Dailies 'All Day Comfort'</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=45&amp;jssCart=">Focus Dailies Progressives</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=80&amp;jssCart=">Focus Dailies Toric</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=293&amp;jssCart=">Focus Dailies Toric 90 Pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=15&amp;jssCart=">Focus Softcolors</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=18&amp;jssCart=">Focus Toric Visitint</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=51&amp;jssCart=">Focus Visitint</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=105&amp;jssCart=">Folding Contact Lens Mirror</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=123&amp;jssCart=">Folding Safety Glasses, Smoked Lens</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=76&amp;jssCart=">Frequency 55</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=71&amp;jssCart=">Frequency 55 Aspheric AB</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=70&amp;jssCart=">Frequency Xcel Toric</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=13&amp;jssCart=">Freshlook Color</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=14&amp;jssCart=">Freshlook Colorblends</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=46&amp;jssCart=">Freshlook Dimensions</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=122&amp;jssCart=">Freshlook ONE-DAY</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=149&amp;jssCart=">Frog Shape Case Blue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=150&amp;jssCart=">Frog Shape Case Green</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=209&amp;jssCart=">Frog Shape Case Yellow</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=130&amp;jssCart=">Frog Shape Lens Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=441&amp;jssCart=">Fuel Cell Black Iridium 009096-07</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=446&amp;jssCart=">Gascan Black 03-471</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=138&amp;jssCart=">Gripper Case Black</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=440&amp;jssCart=">HALF JACKET XLJ Black Iridium 12-839</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=269&amp;jssCart=">Harlequin</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=124&amp;jssCart=">Hero (photochromic lenses) clear/smoked</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=324&amp;jssCart=">High Street RB3211-002-8G-32 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=325&amp;jssCart=">High Street RB3211-003-8G-32 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=323&amp;jssCart=">High Street RB3211-004-13-26 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=153&amp;jssCart=">Hippo Shape Case Grey</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=213&amp;jssCart=">Hippo Shape Case Pink</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=181&amp;jssCart=">Hycosan</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=58&amp;jssCart=">HydroTac Lenses</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=277&amp;jssCart=">i-case, the innovative contact lens holder</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=28&amp;jssCart=">Images</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=110&amp;jssCart=">Jackflash Junior</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=425&amp;jssCart=">Jackie Ohh II RB4098-601-71-60 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=509&amp;jssCart=">Jackie Ohh II RB4098-710-71-60 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=427&amp;jssCart=">Jackie Ohh RB4101-601-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=428&amp;jssCart=">Jackie Ohh RB4101-710-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=429&amp;jssCart=">Jackie Ohh RB4101-717-51-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=505&amp;jssCart=">Jackie Ohh RB4101-719-51-58 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=133&amp;jssCart=">Junior Prescription Swimming Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=226&amp;jssCart=">Just In Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=288&amp;jssCart=">Kids Camo Ski Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=287&amp;jssCart=">Kids Pink Ski Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=271&amp;jssCart=">Kids Softcase</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=55&amp;jssCart=">Lens Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=97&amp;jssCart=">lensvue2</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=314&amp;jssCart=">Lifestyle RB3379-004-58-64 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=313&amp;jssCart=">Lifestyle RB3395-004-13-65 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=321&amp;jssCart=">Lifestyle RB3395-004-71-65 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=139&amp;jssCart=">Lightning SM</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=185&amp;jssCart=">LightWedge® Harry Potter Lumos</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=307&amp;jssCart=">LightWedge® ORIGINAL</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=144&amp;jssCart=">LightWedge® PAPERBACK</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=186&amp;jssCart=">Mad Dog</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=104&amp;jssCart=">Magni-Pen</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=246&amp;jssCart=">METTE</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=202&amp;jssCart=">microdermabrasion</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=39&amp;jssCart=">Multi-use 360ml + FREE lens case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=57&amp;jssCart=">Multi-use travel size</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=36&amp;jssCart=">NEUTRA-SEPT 360ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=270&amp;jssCart=">Ocuvite Complete</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=85&amp;jssCart=">Ocuvite Lutein</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=27&amp;jssCart=">Omniflex</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=193&amp;jssCart=">Ophtalmic dark circle control crème</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=192&amp;jssCart=">Ophtalmic puffy eye control crème</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=497&amp;jssCart=">OPTI-Free EverMoist</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=498&amp;jssCart=">OPTI-Free EverMoist Travel</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=41&amp;jssCart=">OPTI-Free Express</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=187&amp;jssCart=">OPTI-Free RepleniSH (2x300 ml bottles)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=182&amp;jssCart=">Opti-Free Replenish Travel</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=35&amp;jssCart=">Opticomfort</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=347&amp;jssCart=">Outdoorsman RB3029-L2112-62 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=348&amp;jssCart=">Outdoorsman RB3029-L2114-62 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=516&amp;jssCart=">Outdoorsman RB3422q-001-3e medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=47&amp;jssCart=">Oxysept 1 Step</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=282&amp;jssCart=">Par Golf Glasses</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=129&amp;jssCart=">Piggy Shape Lens Case Pink</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=145&amp;jssCart=">Pocket Magnifier with LED Light</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=254&amp;jssCart=">Polka Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=304&amp;jssCart=">Pollenase 10ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=17&amp;jssCart=">Precision UV</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=60&amp;jssCart=">Prescription Swimming Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=84&amp;jssCart=">PreserVision</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=135&amp;jssCart=">PreserVision Lutein Soft Gels</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=134&amp;jssCart=">PreserVision Original Soft Gels</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=24&amp;jssCart=">Proclear</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=180&amp;jssCart=">Proclear 1 Day</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=96&amp;jssCart=">Proclear Compatibles Multifocal</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=66&amp;jssCart=">Proclear Compatibles Toric</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=231&amp;jssCart=">Proclear EP</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=196&amp;jssCart=">pure collagen capsules</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=11&amp;jssCart=">PureVision</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=500&amp;jssCart=">Purevision2 HD</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=132&amp;jssCart=">PureVision Multi-Focal</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=88&amp;jssCart=">PureVision Toric</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=125&amp;jssCart=">Rad Chrome Smoked Lens</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=511&amp;jssCart=">Ray-Ban RB4039-601-71-63 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=417&amp;jssCart=">Ray-Ban RB4057-601-61 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=418&amp;jssCart=">Ray-Ban RB4057-642-57-61 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=419&amp;jssCart=">Ray-Ban RB4057-642-61 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=420&amp;jssCart=">Ray-Ban RB4068-601-60 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=421&amp;jssCart=">Ray-Ban RB4068-710-51-60 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=422&amp;jssCart=">Ray-Ban RB4075-601-61 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=423&amp;jssCart=">Ray-Ban RB4075-642-61 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=424&amp;jssCart=">Ray-Ban RB4086-601-71-33 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=426&amp;jssCart=">Ray-Ban RB4099-710-13-34 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=434&amp;jssCart=">Ray-Ban RB4108-601-58-65 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=435&amp;jssCart=">Ray-Ban RB4108-601-65 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=437&amp;jssCart=">Ray-Ban RB4150-601-64 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=438&amp;jssCart=">Ray-Ban RB4150-710-51-64 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=302&amp;jssCart=">Reading Glasses Ama</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=504&amp;jssCart=">Reading Glasses Bamboo</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=237&amp;jssCart=">Reading Glasses Diamonds</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=242&amp;jssCart=">Reading Glasses Fidel</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=240&amp;jssCart=">Reading Glasses Flowers</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=263&amp;jssCart=">Reading Glasses Folding</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=503&amp;jssCart=">Reading Glasses Giraffe</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=299&amp;jssCart=">Reading Glasses Kat</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=295&amp;jssCart=">Reading Glasses Kristina</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=238&amp;jssCart=">Reading Glasses Memo Flex</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=239&amp;jssCart=">Reading Glasses Optical Reader</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=265&amp;jssCart=">Reading Glasses Pattern</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=502&amp;jssCart=">Reading Glasses Ray</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=300&amp;jssCart=">Reading Glasses Rene</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=264&amp;jssCart=">Reading Glasses Rimless</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=301&amp;jssCart=">Reading Glasses Stilt</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=266&amp;jssCart=">Reading Glasses Style</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=286&amp;jssCart=">Red Blizzard Ski Goggles</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=111&amp;jssCart=">RedWeb Junior</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=50&amp;jssCart=">Renu MPS Multi-Purpose</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=108&amp;jssCart=">Renu Multi-purpose 240ml</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=143&amp;jssCart=">Renu Special Flight Pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=33&amp;jssCart=">Reoptic 38</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=34&amp;jssCart=">Reoptic 55</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=103&amp;jssCart=">Revitalising Cucumber Eye Pads</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=126&amp;jssCart=">Rocket Blue Mirrored lens</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=92&amp;jssCart=">Safety Glasses</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=38&amp;jssCart=">Saline</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=501&amp;jssCart=">Shiny Gun</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=414&amp;jssCart=">Sidestreet RB3183-003-11-63 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=415&amp;jssCart=">Sidestreet RB3183-004-71-63 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=355&amp;jssCart=">Sidestreet RB3183-004-82-63 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=356&amp;jssCart=">Sidestreet RB3183-06-71-63 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=207&amp;jssCart=">Soflens 38</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=65&amp;jssCart=">Soflens 59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=179&amp;jssCart=">Soflens Daily Disposable (90 Pack)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=128&amp;jssCart=">Soflens Daily Disposable 30 Pk</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=227&amp;jssCart=">Soflens Daily Disposable for Astigmatism</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=9&amp;jssCart=">Soflens for Astigmatism (SofLens Toric)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=91&amp;jssCart=">Soflens Multi-Focal</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=49&amp;jssCart=">SofLens Natural Colors</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=98&amp;jssCart=">Softsert + plus</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=99&amp;jssCart=">Softsert Original</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=375&amp;jssCart=">Solaire HD6001</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=376&amp;jssCart=">Solaire HD6002</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=377&amp;jssCart=">Solaire HD6003</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=378&amp;jssCart=">Solaire HD6004</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=379&amp;jssCart=">Solaire HD6007</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=380&amp;jssCart=">Solaire HD6009</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=276&amp;jssCart=">Solo Sept</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=284&amp;jssCart=">Solo Sept Travel</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=112&amp;jssCart=">Spectrum GT Red</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=100&amp;jssCart=">Sport Safety Glasses (unbreakable!)</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=449&amp;jssCart=">Straight Jacket Black Iridium 12-935</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=247&amp;jssCart=">Sunshine Black</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=43&amp;jssCart=">Surevue</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=394&amp;jssCart=">Tech RB8301-002-56 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=393&amp;jssCart=">Tech RB8301-004-40-56 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=391&amp;jssCart=">Tech RB8305-082-9A-63 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=392&amp;jssCart=">Tech RB8305-082-83-64 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=439&amp;jssCart=">Tech RB8305-083-82-63- medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=251&amp;jssCart=">Torpedo Clear Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=283&amp;jssCart=">Tour GT Red</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=292&amp;jssCart=">Travel Lens Case CityLife</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=476&amp;jssCart=">VE2113B-126513-38</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=477&amp;jssCart=">VE2114-126111-60</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=478&amp;jssCart=">VE2117-100187-69</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=479&amp;jssCart=">VE2119-10008G-45</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=480&amp;jssCart=">VE4182-831-13-58</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=481&amp;jssCart=">VE4186-GB1-11-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=482&amp;jssCart=">VE4189-886-11-58</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=483&amp;jssCart=">VE4189-GB1-13-58</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=484&amp;jssCart=">VE4190-108-73-58</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=485&amp;jssCart=">VE4190-GB1-11-58</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=486&amp;jssCart=">VE4198-879-71-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=487&amp;jssCart=">VE4198-GB1-87-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=488&amp;jssCart=">VE4203-GB1-87-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=489&amp;jssCart=">VE4204B-GB1-11-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=490&amp;jssCart=">VE4204B-GB1-13-57</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=491&amp;jssCart=">VE4205B-108-73-61</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=492&amp;jssCart=">VE4205B-GB1-11-61</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=493&amp;jssCart=">VE4208-774-8G-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=494&amp;jssCart=">VE4208-913-13-59</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=495&amp;jssCart=">VE4214-GB1-87-56</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=62&amp;jssCart=">Ventilated Barrel Lens Case</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=32&amp;jssCart=">Vision Enhancer</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=147&amp;jssCart=">Wallet Magnifiers 2-pack</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=430&amp;jssCart=">Wayfarer -Folding RB4105-601-58-54 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=431&amp;jssCart=">Wayfarer -Folding RB4105-601S-54 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=432&amp;jssCart=">Wayfarer -Folding RB4105-710-50 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=433&amp;jssCart=">Wayfarer -Folding RB4105-710-54 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=512&amp;jssCart=">Wayfarer RB2132-601-K3-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=450&amp;jssCart=">Wayfarer RB2132-710-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=395&amp;jssCart=">Wayfarer RB2132-710-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=371&amp;jssCart=">Wayfarer RB2132-789-3F-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=510&amp;jssCart=">Wayfarer RB2132-811-32-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=506&amp;jssCart=">Wayfarer RB2132-812-51-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=513&amp;jssCart=">Wayfarer RB2132-822-78-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=328&amp;jssCart=">Wayfarer RB2132-901-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=329&amp;jssCart=">Wayfarer RB2132-901L-52 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=330&amp;jssCart=">Wayfarer RB2132-902-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=331&amp;jssCart=">Wayfarer RB2132-902L-52 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=311&amp;jssCart=">Wayfarer RB2132-945-52 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=507&amp;jssCart=">Wayfarer RB2132-945-57-55 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=396&amp;jssCart=">Wayfarer RB2140-901-32-47 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=309&amp;jssCart=">Wayfarer RB2140-901-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=308&amp;jssCart=">Wayfarer RB2140-901-54 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=397&amp;jssCart=">Wayfarer RB2140-901-58-47 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=332&amp;jssCart=">Wayfarer RB2140-901-58-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=333&amp;jssCart=">Wayfarer RB2140-901-58-54 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=334&amp;jssCart=">Wayfarer RB2140-902-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=399&amp;jssCart=">Wayfarer RB2140-902-51-47 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=451&amp;jssCart=">Wayfarer RB2140-902-51-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=452&amp;jssCart=">Wayfarer RB2140-902-51-54 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=335&amp;jssCart=">Wayfarer RB2140-902-54 large</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=400&amp;jssCart=">Wayfarer RB2140-954-47 small</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=401&amp;jssCart=">Wayfarer RB2140-954-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=336&amp;jssCart=">Wayfarer RB2140-955-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=337&amp;jssCart=">Wayfarer RB2140-956-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=338&amp;jssCart=">Wayfarer RB2143-919-32-50 medium</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=448&amp;jssCart=">Whisker Pewter Black Iridium 12-849</a>
+<a rel="nofollow" href="http://www.visiondirect.co.uk/product.php?xProd=26&amp;jssCart=">Zero 6</a>
 		
 																							<a href="http://www.visiondirect.co.uk/private_labels.php"><b>Opticians Private Labels</b></a>
 																																							<a href="http://www.visiondirect.co.uk/private_labels.php?xManufacturer=Eye+Clinic">CIEL XII UV Toric</a>				
@@ -506,10 +705,12 @@ if (affidstr == "affid") {
 			<div id="extraInnerLeft"></div>
 			<div id="extraInnerRight"></div>
 			<div id="extraInnerMiddle">
+				<div style="float:left;">
 																						<a href="http://www.visiondirect.co.uk/" class="sectionTitle" title="Contact Lenses Online : Homepage">Homepage</a>
 																			<span class="arrow"></span>
 																								<span class="sectionTitle">Privacy Policy</span>	
-																									
+																									</div>
+				
 				<!-- Start: MP 20101013 : For section pages display the sort by options -->				
 								<!-- End: MP 20101013 : For section pages display the sort by options -->
 			</div>
@@ -518,7 +719,7 @@ if (affidstr == "affid") {
 </div>	
 	<div id="page" style="margin-top:10px;">		
 		<div id="left" class="leftInner">
-	<ul id="menu">
+		<ul id="menu">
 		<li id="menuTop"></li>
 		<li class="parent">
 			<span class="bg"><a href="http://www.visiondirect.co.uk/section.php?xSec=7">Contact Lenses</a><span class="arrow"></span></span>			
@@ -537,6 +738,19 @@ if (affidstr == "affid") {
 			</ul>
 		</li>
 		<li class="parent">
+			<span class="bg"><a href="http://www.visiondirect.co.uk/section.php?xSec=128">Sunglasses Brands</a><span class="arrow"></span></span>			
+			<ul class="subMenu">
+				<li class="subMenuTop subMenuNonItem"></li>
+				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=130" title="Designer Sunglasses : D&amp;G Sunglasses">D&amp;G Sunglasses</a></li>
+				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=125" title="Designer Sunglasses : Head Sunglasses">Head Sunglasses</a></li>
+				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=124" title="Designer Sunglasses : Oakley Sunglasses">Oakley Sunglasses</a></li>
+				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=123" title="Designer Sunglasses : RayBan Sunglasses">RayBan Sunglasses</a></li>
+				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=126" title="Designer Sunglasses : Police Sunglasses">Police Sunglasses</a></li>
+				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=131" title="Designer Sunglasses : Versace Sunglasses">Versace Sunglasses</a></li>
+				<li class="subMenuBottom subMenuNonItem"></li>			
+			</ul>		
+		</li>
+		<li class="parent">
 			<span class="bg"><a href="http://www.visiondirect.co.uk/section.php?xSec=78">Brands</a><span class="arrow"></span></span>			
 			<ul class="subMenu">
 				<li class="subMenuTop subMenuNonItem"></li>
@@ -550,6 +764,7 @@ if (affidstr == "affid") {
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=74" title="Contact Lenses Online : Freshlook">Freshlook</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=76" title="Contact Lenses Online : Proclear">Proclear</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=75" title="Contact Lenses Online : Purevision">Purevision</a></li>
+				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=122" title="Contact Lenses Online : Purevision">R&amp;L Vision</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=77" title="Contact Lenses Online : Soflens">Soflens</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=51" title="Contact Lenses Online : VisionDirect">VisionDirect</a></li>
 				<li class="subMenuBottom subMenuNonItem"></li>
@@ -571,7 +786,7 @@ if (affidstr == "affid") {
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=82" title="Contact Lenses Online : Lens Cases">Lens Cases</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=79" title="Contact Lenses Online : Light">Light</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=84" title="Contact Lenses Online : Saline">Saline</a></li>
-				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=81" title="Contact Lenses Online : Softsert">Softsert</a></li>
+				<!--<li><a href="http://www.visiondirect.co.uk/section.php?xSec=81" title="Contact Lenses Online : Softsert">Softsert</a></li>-->
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=107" title="Contact Lenses Online : Specs Cases">Specs Cases</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=85" title="Contact Lenses Online : Travel Packs">Travel Packs</a></li>
 				<li><a href="http://www.visiondirect.co.uk/section.php?xSec=10" title="Contact Lenses Online : Full List">Full List</a></li>
@@ -603,11 +818,7 @@ if (affidstr == "affid") {
 		<li id="menuBottom"></li>
 	</ul>	
 	
-	<!--Start: Additional links and information for the homepage only -->		
-		<!--End: Additional links and information for the homepage only -->	
-</div>
-	
-		<!-- Start: Right Side -->
+</div>		<!-- Start: Right Side -->
 <div class="contentRight">
 	<div id="socialLinks" class="rightSidePanel">
 		<div class="title">Connect with VisionDirect</div>
@@ -680,18 +891,32 @@ for(var _opN=0;_opN<_opEs.length;_opN++){if (_opEs[_opN].trialCodeLow||_opEs[_op
 (!_opS){document.write("<style>");_opS=true}document.write(_opEs[_opN].showCSS)}}if(_opS)document.write(
 "</style>")}if (typeof _opCs=='object')for(var _opN=0;_opN<_opCs.length;_opN++)_opCs[_opN].run();
 //--></script>
-<!-- END OPTIMOST GLOBAL BODY CODE -->		
-	<script type="text/javascript" src="/resources/jQuery/tweet/jquery.tweet.js"></script>	
+<!-- END OPTIMOST GLOBAL BODY CODE -->		<script type="text/javascript" src="/resources/jQuery/tweet/jquery.tweet.js"></script>	
+
 <script>
 $(document).ready(function(){ 	
 
-	this.init = function() {
-		$('.tweet').twitter({
-			from: 'Visiondirect_UK', 
-			replies:true,
-			limit : 10
-		});			
+	this.loadTwitterFeed = function() {
+		$(".tweet").tweet({
+        	join_text: "auto",
+	        username: "Visiondirect_UK",
+	        avatar_size: 48,
+			fetch:25,			
+    	    count: 5,			
+        	auto_join_text_default: "we said,",
+	        auto_join_text_ed: "we",
+    	    auto_join_text_ing: "we were",
+        	auto_join_text_reply: "we replied",
+	        auto_join_text_url: "we were checking out",
+    	    loading_text: "loading tweets...",
+			filter: function(t){ return ! /^@\w+/.test(t["tweet_raw_text"]); }
+      });		
+	}
+
+	this.init = function() {		
+		this.loadTwitterFeed();
 	}	
+	
 	this.init();		
 	
 	
