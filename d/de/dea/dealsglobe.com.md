@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsglobe.com privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426063236id_/http%3A//www.dealsglobe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsglobe.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103064530id_/http%3A//www.dealsglobe.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | dealsglobe.com
 
