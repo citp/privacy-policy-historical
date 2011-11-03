@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514090701id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the short-hair-style.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103015855id_/http%3A//www.short-hair-style.com/privacy.html) for the most accurate reproduction.*
 
 # Short-Hair-Style.com - Privacy Statement
 
@@ -22,7 +22,7 @@ As a visitor and user, you are in control. If you sign-up for newsletter or used
 
 ### External Links
 
-Short-Hair-Style.com contain links to other sites. Although we review each link and the destination on a regular basis but we do not accept responsibility for the content or privacy policies of those sites. 
+Short-Hair-Style.com contain links to other sites. Although we review each link and the destination on a regular basis we do not accept responsibility for the content or privacy policies of those sites. 
 
 ### Use Of Cookies
 
@@ -42,4 +42,4 @@ We use third-party advertising companies to serve ads when you visit our website
 
 ### Childern and Minor
 
-Some of the sections of this website is visited by children under the age of 12 while looking for hairstyles and advice for their look. We are strongly committed to protecting the safety and privacy of those children to this website. All our interactive community system are reviewed before approving any post to this website. We do not allow and remove any language, photos or images unsuitable for young children. 
+Some of the sections of this website is visited by children under the age of 12 while looking for hairstyles and advice for their look. We are strongly committed to protec the safety and privacy of those children to this website. All our interactive community system are reviewed before approving any post to this website. We do not allow and remove any language, photos or images unsuitable for young children. **This is a family-safe website.**
