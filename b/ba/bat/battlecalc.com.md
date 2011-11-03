@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the battlecalc.com privacy policy that was archived on 2010-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100114231012id_/http%3A//www.battlecalc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlecalc.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103011340id_/http%3A//www.battlecalc.com/privacy) for the most accurate reproduction.*
 
 # BattleCalc! Privacy Policy
 
