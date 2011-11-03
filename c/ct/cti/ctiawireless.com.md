@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121102402id_/http%3A//www.ctiawireless.com/site/index.cfm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctiawireless.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103225357id_/http%3A//www.ctiawireless.com/site/index.cfm/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### News & Updates
-
-    
-
-[****](http://www.facebook.com/CTIAShow)**  [](http://www.linkedin.com/e/gis/160557)  [](http://twitter.com/CTIAShow)  
-Join discussions with other Show attendees on [Facebook](http://www.facebook.com/CTIAShow), [LinkedIn](http://www.linkedin.com/e/gis/160557), and [Twitter](http://twitter.com/CTIAShow).**
 
 ## CTIA.ORG® WEBSITE PRIVACY POLICY
 
