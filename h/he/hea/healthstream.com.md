@@ -1,56 +1,46 @@
-> *The following text is extracted and transformed from the healthstream.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423075912id_/http%3A//www.healthstream.com/aboutHSTM/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthstream.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103022854id_/http%3A//healthstream.com/privacy-statement.aspx) for the most accurate reproduction.*
 
-# HealthStream Privacy Policy
+# HealthStream :: Privacy Statement
 
-  
-[Home](https://web.archive.org/) < [web](https://web.archive.org/web/) < [20110423075912id_](https://web.archive.org/web/20110423075912id_/) < [http%3A](https://web.archive.org/web/20110423075912id_/http%3A/) < [](https://web.archive.org/web/20110423075912id_/http%3A//) < [www.healthstream.com](https://web.archive.org/web/20110423075912id_/http%3A//www.healthstream.com/) < [About HealthStream](https://web.archive.org/web/20110423075912id_/http%3A//www.healthstream.com/aboutHSTM/) < HealthStream Privacy Policy HealthStream Privacy Policy
+_Last updated and effective as of April 29, 2011._
 
-HealthStream, Inc. has established the following Privacy Policy to clearly identify the standards of privacy we observe in managing the information you provide to us. We recognize that our collection, use and protection of information about you must be clearly defined and limited at all times and that all due care must be taken to avoid any improper or unintentional distribution of or access to your information. This Policy describes the information we collect, how we use that information, how we protect that information and your rights with respect to this Policy. Throughout this policy we will use the collective “you” to refer to visitors to our website. By submitting information on our website(s) and/or using our products and services, you agree to this Policy.
+Welcome to the HealthStream, Inc. website, available at www.healthstream.com (this “Site”). This Privacy Statement discloses the privacy policy (this “Policy”) for this Site and describes how HealthStream, Inc. (“HealthStream”), the operator of this Site, collects, protects, and uses information we receive from visitors to this Site. This Policy has been created in order to demonstrate and inform you of our firm commitment to privacy and to outline how we deal with any personal data you provide while visiting this Site. If you do not agree with any portion of this Policy, you should not use this Site. This Policy applies only to information collected through this Site and not to information collected offline or through any other websites (even if affiliated with HealthStream or linked to by this Site). HealthStream may modify this Policy at any time, in its discretion, and modifications are effective upon being posted on this Site. You are responsible for reviewing this Policy periodically to ensure that you are aware of any changes to it.
 
-The Information HealthStream Collects  
-In general, you may visit our website without providing us with any personal information. However, we may collect information from you in several ways, including but not limited to, the following:
+### 1\. The Information We Collect.
 
-  * You may choose to complete certain response forms to register for an event or to request additional investor or product information. Through these response forms you may be asked or required to submit your name, email address, phone number, title, employer and address. 
-  * You may provide additional information by participating in optional online forums and surveys presented by HealthStream on our own behalf or on behalf of a healthcare system, pharmaceutical or medical device company or other organization. 
+Whenever you create a username and password, comment in a forum, or otherwise interact with the Site, HealthStream may collect information. There are two kinds of information websites can obtain about you: (a) Anonymous Information and (b) Personally Identifiable Information.
 
+(a) Anonymous Information: is data in a form that does not permit direct association with any specific individual. Anonymous Information is aggregate data that websites use to administer their sites. This Anonymous Information comprises information that cannot be used to identify or contact you, and may include such information as your browser type or your Internet Protocol (IP) address (if not deleted, clipped or anonymized). HealthStream may from time to time retain third parties to help us collect and aggregate Site information.
 
+(b) Personally Identifiable Information: is any information that personally identifies you, such as your name, the organization you represent, email address, or your telephone number. Similarly, to the extent that anonymous information is combined with Personally Identifiable Information, we treat the combined information as Personally Identifiable Information. For example, you may be asked to provide the following information:
 
-How HealthStream Uses Collected Information  
-We use the information we collect to respond to your requests for information, to manage events and to analyze use of our website. In using the information we collect, we abide by the following principles:
+Email Correspondence. Contained in the Site are links or forms that can be used to contact this Site so you can comment, make a complaint, make suggestions, and ask questions. Your email address is required on this form. HealthStream may put information from email on file, but does not currently share, sell, license, or transmit this information with third parties without express authorization from you.
 
-  * We do not authorize any person or organization to use your individually identifiable contact information for their own marketing purposes. 
-  * We require any person or organization providing products or services on our behalf to agree to maintain the confidentiality of the information we or they collect from you. 
-  * We do not sell or provide individually identifiable activity or performance information to any person or organization for any purpose. 
+User Accounts. To participate in certain features of the Site, we may request that you create an account by providing personal or organizational information (including, your name, the organization you represent, address, phone, and email) and creating a user ID and password. We will use this information to maintain your account. We may also use this information to send you announcements of new Site features, special offers, and promotional materials that we think may be of interest to you. You may elect not to receive such information by opting out as described below.
 
+### 2\. How We Use Gathered Information.
 
+HealthStream may use the information you share with us in the following ways:
 
-We may also use your individually identifiable information, including contact information, in other ways with your consent including providing you with unrequested information and offers via email, phone or physical mail.
+(a) Anonymous Information: Anonymous Information is used internally for Site administration, troubleshooting, data analysis, auditing, and research to help improve the quality of this Site and its design. We may share such aggregated, non-personally identifiable information, such as demographics, with existing and prospective business partners and advertisers.
 
-How HealthStream Protects Collected Information  
-HealthStream uses appropriate safeguards to protect the security, integrity and privacy of the information we have collected. We focus on two primary types of safeguards: online or network safeguards to protect the security, integrity and privacy of information as it is transmitted, or potentially accessed, over the Internet or other networks; and offline or physical safeguards to protect the security, integrity and privacy of information as it resides on our computer hardware.
+(b) Personally Identifiable Information: Personally Identifiable Information collected by HealthStream may be used for various purposes, including administration of the Site and communications with you about products and services. From time to time, we may use your personal information to send important notices, such as communications about changes to our website Terms of Use, this Policy, or other policies or notices. In all cases, however, we will only use your information as permitted by law. We may also disclose Personally Identifiable Information if we are required to do so by law or we in good faith believe that such action is necessary. Please note we may not provide you with notice prior to disclosure in such cases.
 
-**Network Safeguards.** To protect the security, integrity and privacy of information transmitted between the user’s browser and our servers, we use the industry standard Secure Sockets Layer (SSL) encryption technology. This technology scrambles data in transmission so that the information is nearly impossible to read it or use. Security of information communicated by or to us over the Internet is of utmost concern to us; however, no data transmission over the Internet can be guaranteed to be 100% secure. In addition, individuals may engage in criminal behavior by attempting to gain access via the Internet or other networks to our computer systems containing information not belonging to them. 
+### 3\. Opt-Out; Retention.
 
-**Physical Safeguards.** Our services are provided from third-party hosting facilities. All collected information is maintained in these facilities. Visitors are only provided access to these facilities following pre-clearance, identification and sign in/sign out procedures, and biometric scanning. The facilities are hardened to withstand natural disasters. A complete set of alternate systems is provided throughout, including the emergency generators which have their own back-up power supply. Another level of protection provided by HealthStream’s external hosting facilities is limited exposure to virus-prone communications, such as e-mail. HealthStream employs industry-standard software to provide constant monitoring and virus scanning.
+We support the right of visitors to choose. If you decide that you do not wish to receive communications from us you can contact us at [privacy@healthstream.com](mailto:privacy@healthstream.com) or at the address provided below, indicating that you no longer want to receive information relating to this Site. HealthStream will retain your personal information for the period necessary to fulfill the purposes outlined in this Policy unless a longer retention period is required or permitted by law.
 
-How You May Access and Correct Collected Information  
-You have a right to know about the individually identifiable information that HealthStream has collected as described above, including the right to access, correct or delete the information that HealthStream has on file if it is incorrect. If you suspect the information HealthStream has in its records is incorrect, you may make a request to correct the information directly to HealthStream through the contact set forth below.
+### 4\. Consent and Modifications to Policy.
 
-How We Notify You of Changes to this Policy  
-HealthStream may modify this Policy at any time, at its discretion, and modifications are effective upon being posted on HealthStream’s various websites. You are responsible for reviewing this policy periodically to ensure that you are aware of any changes to it.
+This Site is controlled, operated, and administered entirely within the United States. By using this Site, you signify your agreement to the terms of this Policy. If you do not agree with this Policy, please do not disclose any Personally Identifiable Information through this Site. This Policy and the use of this Site are governed by Tennessee law. Users of the Site consent to the sole and exclusive jurisdiction and venue of such courts as the most convenient and appropriate for the resolution of disputes concerning this Policy. This Policy and the notices outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any third party.
 
-How to Resolve a Question Regarding this Policy  
-HealthStream welcomes comments and questions about this Policy. We are dedicated to protecting your personal information while providing a personalized and valuable service. Any comments or questions regarding this Policy may be emailed to [privacy@healthstream.com](mailto:privacy@healthstream.com). You may also call our Compliance Officer at (615) 301-3100 or send a letter to:
+### 5\. Questions, Comments and Feedback.
 
-> HealthStream, Inc.  
->  209 10th Avenue, South  
->  Suite 450  
->  Nashville, Tennessee 37203  
->  Attention: Compliance Officer
+We welcome your questions, comments and all feedback pertaining to your privacy or any other issue with regard to this Site. You may contact us at:
 
-This Policy and the use of the services are governed by Tennessee law. Any claim related to this Policy shall be brought in a federal or state court in Davidson County, Nashville, Tennessee, within one year after the claim arises. You consent to the exclusive jurisdiction and venue of those courts as the most convenient and appropriate for the resolution of disputes concerning this Policy.
-
-**This policy is effective as of November 15, 2004.**
-
-  
-Back to Top
+**Address:**  
+HealthStream, Inc.  
+209 10th Ave. South  
+Suite 450  
+Nashville, TN 37203  
+(800) 933-9293
