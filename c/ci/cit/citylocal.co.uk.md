@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citylocal.co.uk privacy policy that was archived on 2010-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101222093614id_/http%3A//www.citylocal.co.uk/frontend/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citylocal.co.uk privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103034423id_/http%3A//www.citylocal.co.uk/frontend/privacypolicy.php) for the most accurate reproduction.*
 
 # City Local UK - Privacy Policy
 
