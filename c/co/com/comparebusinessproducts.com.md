@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2011-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110314061425id_/http%3A//www.comparebusinessproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparebusinessproducts.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103201110id_/http%3A//www.comparebusinessproducts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Compare Business Products
+# Privacy Policy | Reviews, Comparisons and Buyer’s Guides
 
 [www.comparebusinessproducts.com](http://www.comparebusinessproducts.com/) (the SITE) is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the SITE and governs data collection and usage. By using the SITE, you consent to the data practices described in this statement.
 
