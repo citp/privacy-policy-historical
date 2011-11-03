@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2010-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101223193949id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerstructure.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103113648id_/http%3A//www.careerstructure.com/Contents/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # CareerStructure.com
 
@@ -8,7 +8,7 @@ At CareerStructure.com we make every effort to comply with our obligations under
 
 You can remove any of the information that CareerStructure.com stores about you, at any time, by logging in to your 'My CareerStructure' account and choosing to close the account. 
 
-Privacy policy update (Last updated 1 February 2007) 
+Privacy policy update (Last updated 19 September 2011) 
 
 ## Registration details
 
@@ -46,7 +46,13 @@ You have the option to decline or accept these cookies, but if you decline you w
 
 **[Accept cookie](https://web.archive.org/)       [Decline cookie](https://web.archive.org/)**
 
-In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](https://web.archive.org/pgl/Redirect.aspx?page=http://www.adtech.info/en/cookie_opt-out.html), [Emediate](https://web.archive.org/pgl/Redirect.aspx?page=http://www.emediate.dk/privacy.html), [Webtrends](https://web.archive.org/pgl/Redirect.aspx?page=https://ondemand.webtrends.com/privacypolicy.asp) and [Epsilon](https://web.archive.org/pgl/Redirect.aspx?page=http://www.epsilon.com/privacy.html). 
+In addition, the third party companies who sell and provide advertisements to the site, and host our contacts database, make use of cookies for the purpose of serving and targeting advertisements more effectively. For more information about these cookies, how you can opt out of receiving them and how this will affect your use of web sites in general, please visit the websites of our third party suppliers: [Adtech](http://www.adtech.info/en/cookie_opt-out.html), [Emediate](http://www.emediate.dk/privacy.html), [Webtrends](https://ondemand.webtrends.com/privacypolicy.asp), [Criteo](http://www.criteo.com/en/privacy-policy), [Google](http://www.google.co.uk/intl/en/privacy/ads/) and [Epsilon](http://www.epsilon.com/Privacy-Policy/p42-l1). 
+
+## IP address information
+
+Like many websites, we routinely capture your IP address information to determine your location. This helps us work out whether you are visiting the site from within the UK, EU or rest of the world, and means we can show you content that's specific to your location and ask the right questions about your eligibility to work in the UK or EU should you wish to apply for a job on CareerStructure.com. 
+
+An IP address, or 'internet protocol address', is a unique identifying number given to every device connected to the internet. Like a car license plate, an IP address is a special serial number used for identification. 
 
 ## Statistical information
 
@@ -55,3 +61,6 @@ We provide aggregate statistical information about site visitors and users to re
 ## Security
 
 The site is protected against unauthorised access using the latest security devices and 'firewalls'. 
+
+  
+
