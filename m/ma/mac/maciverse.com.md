@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maciverse.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605165012id_/http%3A//www.maciverse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maciverse.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103101915id_/http%3A//www.maciverse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maciverse
 
@@ -26,4 +26,4 @@ AdSense Privacy Policy Provided by  [JenSense](http://www.jensense.com/) with 
 
 ##### About Dan Hinckley
 
-Dan is an experienced Mac user who converted to Apple products when they introduced them on Intel Processors. He loves helping others get more out of their devices! Subscribe to Maciverse.com to get the latest from Dan and the Maciverse Team!!
+Dan Hinckley is an experienced Mac user who converted to Apple products when they introduced them on Intel Processors. He loves helping others get more out of their devices! Subscribe to Maciverse.com to get the latest from Dan and the Maciverse Team!! Find out more about Dan: [ Dan's Google Profile](https://plus.google.com/101274782667696162797/posts)
