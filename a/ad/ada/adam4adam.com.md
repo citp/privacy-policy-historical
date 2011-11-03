@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630012635id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adam4adam.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103094223id_/http%3A//www.adam4adam.com/%3Fsection%3D20%26view%5B20%5D%3D7) for the most accurate reproduction.*
 
 # Adam4Adam - Free online dating & hookup, gay, chat, cam
 
