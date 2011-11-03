@@ -1,19 +1,15 @@
-> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630222710id_/http%3A//www.fxsolutions.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxsol.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103185546id_/http%3A//www.fxsol.com/support/privacy-policy.aspx) for the most accurate reproduction.*
 
-# FX Solutions - Privacy Policy
+# Privacy Policy
 
 This privacy policy explains the manner in which FX Solutions (sometimes referred to herein as "we", "us", or "our") collects, utilizes and maintains nonpublic personal information about its customers and those parties with whom FX Solutions has a prospective relationship (sometimes referred to herein as "you", "your" or "prospective customer"). This policy only applies to nonpublic personal information of individuals (not entities). 
 
 **Nonpublic Personal Information Collected** – We collect nonpublic personal information when you (a) open and maintain an account with us or (b) inquire as to a financial product or service offered by us. Specifically, we collect nonpublic personal information from the following sources: 
 
   * From account opening documents and any other forms delivered by you to us (such as name, address, social security number or tax identification number, assets, and income); 
-  *  
   * From transactions made by or with us (including account balances, and cash deposits/withdrawals); 
-  *  
   * From entities outside of FX Solutions (e.g., information obtained from credit rating agencies); 
-  *  
   * From visits to an FX Solutions web site (cookies may be used to track your activities while on a web site, although cookies do not contain personal information about you unless you knowingly provide it); and 
-  *  
   * From any direct inquiry regarding an FX Solutions product or financial service (such as use of the FX Solutions Global Trading System). 
 
 
@@ -21,13 +17,9 @@ This privacy policy explains the manner in which FX Solutions (sometimes referre
 **Sharing of Nonpublic Personal Information** – We do not sell or rent customer information. We do not disclose nonpublic personal information about customers (current or former) to any nonaffiliated third parties or to affiliated entities, except as permitted by law. Such instances where information may be shared include: 
 
   * To service providers in connection with the administration and servicing of an account, which may include attorneys, accountants, auditors and other professionals;
-  *  
   * To affiliated companies in order to provide you with ongoing personal advice and assistance with respect to the products and services you have purchased through us and to introduce you to other products and services that may be of value to you;
-  *  
   * To non-affiliated companies that may perform services on behalf of FX Solutions, but only in furtherance of the financial products or services offered by FX Solutions
-  *  
   * To respond to a subpoena or court order, judicial process or to regulatory authorities; and
-  *  
   * To protect against fraud, unauthorized transactions (such as money laundering), claims or other liabilities.
 
 
