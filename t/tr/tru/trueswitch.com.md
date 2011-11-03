@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2011-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110429010755id_/http%3A//www.trueswitch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueswitch.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103031520id_/http%3A//www.trueswitch.com/privacy.htm) for the most accurate reproduction.*
 
 # Welcome to TrueSwitch. Support Center
 
@@ -24,7 +24,7 @@ We require users who sign-up to use the TrueSwitch Internet Service Provider (�
   We may also collect Website usage statistics such as Internet addresses, browser types, domain names and page requests. This information is logged to help diagnose technical problems, prepare for network load demands, and to administer our Website in order to constantly improve the quality of the Services.
 
   
-**2\. CORRECTING/UPDATING/DELETING INFORMATION.**  
+**2\. CORRECTING/UPDATING/DELETING INFORMATION**  
 You have the right to access and correct, update, and/or delete your Information at any time. You can do so via the My TrueSwitch section of the Website accessible at [https://www.trueswitch.com/mytrueswitch/login.jsp](https://web.archive.org/mytrueswitch).  
 Your User ID to login to My TrueSwitch is your new e-mail address and the password that you originally used for that account when you used TrueSwitch. A request to revise or edit your personally identifiable information may not be accommodated if it would result in incorrect information. Requests for deletion of certain key information, such as e-mail address, may require closing your TrueSwitch account.
 
@@ -33,7 +33,7 @@ When you interact with the Website we strive to make that experience easy and me
 
   Standing alone, cookies do not identify you personally. They merely recognize your browser. Unless you choose to identify yourself by signing-up for the Services, you remain anonymous. Cookies come in two flavors: session and persistent-based. Session cookies exist only during an online session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you've closed your browser or turned off your computer. They include such information as a unique identifier for your browser.
 
-  Our Website uses session cookies containing encrypted or encoded information including your username and session ID. This information allows us to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you've logged in and are required in order to use the Services. Our Website also uses persistent cookies, that only our Website can read and use, to identify the fact that you are a TrueSwitch user or prior Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies.
+  Our Website uses session cookies containing encrypted or encoded information including your username and session ID. This information allows us to process your online transactions and requests. Session cookies help us make sure you are who you say you are after you've logged in and are required in order to use the Services. Our Website also uses persistent cookies that only our Website can read and use, to identify the fact that you are a TrueSwitch user or prior Website visitor (whatever the case may be). We are especially careful about the security and confidentiality of the information stored in persistent cookies. For example, we do not store account numbers or passwords in persistent cookies.
 
   Web beacons, also known as clear gif technology, invisible GIFs, web bugs, or action tags, may be used to assist in delivering the cookies on the Website. This technology tells us how many visitors clicked on key elements (such as links or graphics) on a page. We do not use this technology to access your personally identifiable information; it is a tool we use to compile aggregated statistics about Website usage. We may share aggregated Website statistics with partner companies but do not allow other companies to place clear gifs on the Website.
 
