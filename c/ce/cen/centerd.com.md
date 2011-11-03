@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centerd.com privacy policy that was archived on 2010-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100328014033id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centerd.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103181905id_/http%3A//www.centerd.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Centerd.com (first draft)
 
@@ -83,4 +83,4 @@ Center'd Corporation
 Menlo Park, CA 94025   
 
 
-If you have any suggestions for us, please use our [feedback page](https://web.archive.org/web/20100328014033id_/http%3A//www.centerd.com/messaging/contact.aspx). 
+If you have any suggestions for us, please use our [feedback page](https://web.archive.org/web/20111103181905id_/http%3A//www.centerd.com/messaging/contact.aspx). 
