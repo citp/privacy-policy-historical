@@ -1,29 +1,29 @@
-> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2011-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyskill.org privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/privacy.cfm) for the most accurate reproduction.*
 
 # MoneySKILL®
 
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/index.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/index.cfm)  
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/about.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/about.cfm)  
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/legis.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/legis.cfm)  
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/standards.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/standards.cfm)  
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/news.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/news.cfm)  
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/resources.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/resources.cfm)  
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/contact.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/contact.cfm)  
   
   
-[](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/contributors.cfm)  
+[](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/contributors.cfm)  
 
 
 MoneySKILL acknowledges the generous support of the following companies and foundations, whose financial contributions have paved the way for curriculum development outreach and teacher training. More importantly, we appreciate these companies' dedication to ensure that MoneySKILL is offered at no cost to teachers, students and young adults.
 
-[More >>](https://web.archive.org/web/20110316033820id_/http%3A//www.moneyskill.org/contributors.cfm)
+[More >>](https://web.archive.org/web/20111103160516id_/http%3A//www.moneyskill.org/contributors.cfm)
 
   
 
