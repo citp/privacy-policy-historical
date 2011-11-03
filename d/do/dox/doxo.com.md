@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315034821id_/http%3A//www.doxo.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doxo.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103012450id_/http%3A//www.doxo.com/privacy-policy) for the most accurate reproduction.*
 
 # doxo : Privacy Policy
 
