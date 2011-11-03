@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freestyle-joomla.com privacy policy that was archived on 2011-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110519073525id_/http%3A//freestyle-joomla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freestyle-joomla.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103010521id_/http%3A//www.freestyle-joomla.com/privacy-policy) for the most accurate reproduction.*
 
 # Freestyle Joomla!® - Privacy Policy
 
@@ -49,7 +49,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at [support@freestyle-joomla.com](mailto:support@freestyle-joomla.com)
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at support@freestyle-joomla.com 
 
 
 
