@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the crimereports.com privacy policy that was archived on 2011-05-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110503235633id_/http%3A//www.crimereports.com/home/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crimereports.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103233449id_/https%3A//www.crimereports.com/legalprivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <meta name="description" content="Crime Reports keeps you informed about crime in your neighborhood. Law enforcement uses Crime Reports to improve community awareness and reduce crime.">
-  <meta name="keywords" content="crime, crime map, crime mapping, mapping, crime report, crimereports.com community policing, community safety, neighborhood crime, neighborhood crime, neighborhood crime statistics, neighborhood crime watch, neighborhood crime reports, free neighborhood crime report">
+<meta name="description" content="Crime Reports keeps you informed about crime in your neighborhood. Law enforcement uses Crime Reports to improve community awareness and reduce crime.">
+<meta name="keywords" content="crime, crime map, crime mapping, mapping, crime report, crimereports.com community policing, community safety, neighborhood crime, neighborhood crime, neighborhood crime statistics, neighborhood crime watch, neighborhood crime reports, free neighborhood crime report">
 <title>Community Policing &amp; Neighborhood Crime Statistics | CrimeReports.com</title>
 <link rel="shortcut icon" href="http://www.crimereports.com/favicon.ico">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/prototype.js?1304458954" type="text/javascript"></script>
-<script src="/javascripts/effects.js?1304458954" type="text/javascript"></script>
-<script src="/javascripts/dragdrop.js?1304458954" type="text/javascript"></script>
-<script src="/javascripts/controls.js?1304458954" type="text/javascript"></script>
-<script src="/javascripts/application.js?1304458954" type="text/javascript"></script>
-<script src="/javascripts/homepage.js?1304458954" type="text/javascript"></script>
-<link href="/stylesheets/main.css?1304458954" media="screen" rel="stylesheet" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/javascripts/prototype.js?1320081388" type="text/javascript"></script>
+<script src="/javascripts/effects.js?1320081388" type="text/javascript"></script>
+<script src="/javascripts/dragdrop.js?1320081388" type="text/javascript"></script>
+<script src="/javascripts/controls.js?1320081388" type="text/javascript"></script>
+<script src="/javascripts/application.js?1320081388" type="text/javascript"></script>
+<script src="/javascripts/homepage.js?1320081388" type="text/javascript"></script>
+<link href="/stylesheets/main.css?1320081388" media="screen" rel="stylesheet" type="text/css">
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-137535-2']);
@@ -36,23 +36,26 @@
       <div id="header">
   <div id="content">
     <div id="headerLogoDiv" style="float: left; font-size: 24px;"><a href="/"><img src="/images/cr_logo_white.png" border="0" style="margin-top: 10px;" title="CrimeReports" alt="CrimeReports"></a></div>
+
+ 
+      <div id="ukRedirect" style="position:absolute;top:25px;left:280px;padding:0px;"><h3 style="padding:0px;margin:0px;">You are currently on the US and Canada site.</h3><h3 style="padding:0px;margin:0px;">Switch here to see <a style="color:#FFCC66;" href="https://www.crimereports.co.uk/map?CRSearch=winchester%20Hampshire,%20uk">UK</a>.</h3></div> 
       <script type="text/javascript">
   //Swf calls this w/ username and password, that's why we do this
   function loginboxLogin(username, password){
     if (username == undefined || password == undefined) {
-      var username = document.getElementById('username').value;
-      var password = document.getElementById('password').value;
+      var username = escape(document.getElementById('username').value);
+      var password = escape(document.getElementById('password').value);
     }
     redirectToAgencySwfOnAgencyLogin = true;
-    new Ajax.Request('/accounts/login', {asynchronous:true, evalScripts:true, method:'post', onSuccess:function(request){processLoginRequest(request)}, parameters:'?login='+username+'&password='+password + '&authenticity_token=' + encodeURIComponent('xRcMysABdo8TbeerBBmHjUnXp5/cIAaDCApWp26FVmE=')})
+    new Ajax.Request('/accounts/login', {asynchronous:true, evalScripts:true, method:'post', onSuccess:function(request){processLoginRequest(request)}, parameters:'?login='+username+'&password='+password + '&authenticity_token=' + encodeURIComponent('PPZ9uuh75f8lJonptoM3B3PuBhLoiKWiW7qyuz+KYf4=')})
   }
-  function LogoutUser(){ new Ajax.Request('/accounts/destroy_session', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLogoutRequestResponse(request)}, parameters:'authenticity_token=' + encodeURIComponent('xRcMysABdo8TbeerBBmHjUnXp5/cIAaDCApWp26FVmE=')}) }
+  function LogoutUser(){ new Ajax.Request('/accounts/destroy_session', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLogoutRequestResponse(request)}, parameters:'authenticity_token=' + encodeURIComponent('PPZ9uuh75f8lJonptoM3B3PuBhLoiKWiW7qyuz+KYf4=')}) }
   function processLogoutRequestResponse(transport){ _messagingBroker.TriggerEvent(MessagingBroker.LOGGED_OUT_EVENT); }
   function loginbox_message_listener(eventName){
     switch(eventName){
       case MessagingBroker.LOGGED_IN_EVENT:
         clearAlertMessage();
-        new Ajax.Request('/accounts/logged_in.json', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLoginInfo(request)}, parameters:'authenticity_token=' + encodeURIComponent('xRcMysABdo8TbeerBBmHjUnXp5/cIAaDCApWp26FVmE=')})
+        new Ajax.Request('/accounts/logged_in.json', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLoginInfo(request)}, parameters:'authenticity_token=' + encodeURIComponent('PPZ9uuh75f8lJonptoM3B3PuBhLoiKWiW7qyuz+KYf4=')})
       break;
       case MessagingBroker.LOGGED_OUT_EVENT:
         var userInfoDiv = document.getElementById('userInfoDiv');
@@ -76,7 +79,7 @@
   }
   if(_messagingBroker){ _messagingBroker.RegisterListener(loginbox_message_listener); }
 
-  new Ajax.Request('/accounts/logged_in.json', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLoginInfo(request)}, parameters:'authenticity_token=' + encodeURIComponent('xRcMysABdo8TbeerBBmHjUnXp5/cIAaDCApWp26FVmE=')})
+  new Ajax.Request('/accounts/logged_in.json', {asynchronous:true, evalScripts:true, onSuccess:function(request){processLoginInfo(request)}, parameters:'authenticity_token=' + encodeURIComponent('PPZ9uuh75f8lJonptoM3B3PuBhLoiKWiW7qyuz+KYf4=')})
 </script>
 <div style="float:right; position: relative; width: 364px; height: 71px;">
   <div id="loginDiv" style="display: none;">
@@ -607,8 +610,8 @@ webmaster@PublicEngines.com</a>.&nbsp; If you do not want to receive further pro
         <a href="/home/law_enforcement_tools">Law Enforcement Tools</a> | 
         <a href="/home/iphone_app">iPhone App</a> | 
         <a href="/press/headlines">Press</a> | 
-        <a href="/faq/what_is_crimereports">FAQ</a> | 
-        <a href="/home/privacy">Privacy Policy</a> | 
+        <a href="/faq">FAQ</a> | 
+        <a href="/legalprivacy">Privacy Policy</a> | 
         <a href="/home/terms">Terms of Use</a> | 
         <a href="/home/disclaimer">Disclaimer</a>
       </div>
