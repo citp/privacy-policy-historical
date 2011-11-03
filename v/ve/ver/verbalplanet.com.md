@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the verbalplanet.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515150646id_/http%3A//www.verbalplanet.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verbalplanet.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103214918id_/http%3A//www.verbalplanet.com/privacy.asp) for the most accurate reproduction.*
 
 # Verbalplanet | Privacy Statement
-
-Privacy Statement...
 
 By using Verbalplanet.com you accept the terms of this privacy statement.
 
@@ -10,7 +8,7 @@ This privacy statement details the information that we collect from you and how 
 
 Student Registration
 
-When you register with us, you must tell us: your full name; your email address; your native language; the language you are interested in studying; your country of residence; your local currency; your local time zone (if applicable) and where you heard about us. You will also be requested to confirm that you are over 18 years of age and that you accept the terms and conditions of use. When you register, you will also be asked to select a username and password which will give you access to your personal Verbalplanet.com account. To use the Verbalplanet.com platform you will also be required to tell us your Skype name so that we may connect you to your chosen language tutor.
+When you register with us, you must tell us: your desired username; desired password; your email address; the language you are interested in studying; your country of residence; your local currency and your local time zone (if applicable). By signing up to user Verbalplanet.com you are confirming your acceptance to this privacy policy and the terms of use. To use the Verbalplanet.com platform you will also be required to setup a Skype account and notify ourselves of your Skype name so that we may connect you to your chosen language tutor.
 
 Tutor Registration
 
@@ -20,9 +18,11 @@ Payment of Lesson Fees
 
 When you book language lessons with your chosen tutor you will be required to pay a booking fee to secure your lesson. You will be asked for: details of a credit or debit card and your billing address. All of your details are encrypted using Verisign encryption technology to ensure the security of your personal information. For further details about the Verisign encryption technology please visit Verisign.com.
 
+Verbalplanet.com does not store financial details including debit and credit card numbers and such data will need to be provided each time a booking is made through Verbalplanet.com.
+
 Use of Your Personal Information
 
-We use your personal information: to answer your queries or complaints; to deliver our services, for example, chat rooms and message boards; to support your learning; to carry out administration; for general statistics, research and marketing; for obtaining any relevant professional advice; as may be required by law or in connection with legal proceedings (including where we intend to take legal proceedings), or as may be necessary to establish, exercise or defend our legal rights. We may also use aggregate information and statistics for the purpose of monitoring the Website usage in order to develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
+We use your personal information: to answer your queries or complaints; to deliver our services, to support your learning; to carry out administration; for general statistics, research and marketing; for obtaining any relevant professional advice; as may be required by law or in connection with legal proceedings (including where we intend to take legal proceedings), or as may be necessary to establish, exercise or defend our legal rights. We may also use aggregate information and statistics for the purpose of monitoring the Website usage in order to develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
 
 Following registration via the website, tutors will be provided access to the email address of students for the purposes of effective communication and invoicing. Communications between students and tutors using any of the tools or functions we make available to you (including unopened messages sent via our messaging system) may be monitored by Verbalplanet.com staff to check the quality of tutor support, and to prevent abuse of the Verbalplanet.com website.
 
