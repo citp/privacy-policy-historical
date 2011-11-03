@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504025553id_/http%3A//www.aota.org/SiteFooter/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aota.org privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103091106id_/http%3A//aota.org/SiteFooter/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for Our Website
 
