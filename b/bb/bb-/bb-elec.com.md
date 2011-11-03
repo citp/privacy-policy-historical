@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bb-elec.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510223011id_/http%3A//www.bb-elec.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bb-elec.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103232549id_/http%3A//www.bb-elec.com/privacy.asp) for the most accurate reproduction.*
 
 # B&B Electronics: RS485, RS232, RS422, Ethernet, USB
 
@@ -37,7 +37,7 @@ We appreciate and respect that not all customers may wish to benefit from the op
 Back to top
 
 **Remove Your Name From Our Lists At Any Time**  
-To delete your name from the B&B Electronics email mailing list, [click here](http://www.bb-elec.com/econnections/econnections_mgmt.asp). To request to have your name removed from the catalog mailing list, simply [contact us](https://web.archive.org/web/20110510223011id_/http%3A//www.bb-elec.com/contact.asp). Please provide your full name, mailing address, email address, and phone number. We appreciate your patience as it may take up to one to two weeks to process your request from the date of receipt. When you make subsequent purchases at B&B Electronics, you may provide contact information for customer service only and request that your name not be forwarded to either mailing list.  
+To delete your name from the B&B Electronics email mailing list, [click here](http://www.bb-elec.com/econnections/econnections_mgmt.asp). To request to have your name removed from the catalog mailing list, simply [contact us](https://web.archive.org/web/20111103232549id_/http%3A//www.bb-elec.com/contact.asp). Please provide your full name, mailing address, email address, and phone number. We appreciate your patience as it may take up to one to two weeks to process your request from the date of receipt. When you make subsequent purchases at B&B Electronics, you may provide contact information for customer service only and request that your name not be forwarded to either mailing list.  
 Back to top
 
 **Protecting Children’s Privacy**  
@@ -65,7 +65,7 @@ Efforts to bring new services, ideas and partners to benefit our customers may m
 Back to top
 
 **Questions Anyone?**  
-If you have any questions regarding our Privacy Policy, we will do our best to answer them. Here’s how to [contact us](https://web.archive.org/web/20110510223011id_/http%3A//www.bb-elec.com/contact.asp). 
+If you have any questions regarding our Privacy Policy, we will do our best to answer them. Here’s how to [contact us](https://web.archive.org/web/20111103232549id_/http%3A//www.bb-elec.com/contact.asp). 
 
 **Phone:**  
 Customer Service Department  
