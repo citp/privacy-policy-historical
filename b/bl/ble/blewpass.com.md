@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321081915id_/http%3A//www.blewpass.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blewpass.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103192138id_/http%3A//www.blewpass.com/privacy.php) for the most accurate reproduction.*
 
-# blewpass.com - Free Anonymous Proxy, Free Anonymous Web Access, Online Privacy Protection
+# www.blewpass.com - Free Anonymous Proxy - YouTube, Facebook, Twitter, Adult Unblocker - Secure
 
 ## Privacy Policy
 
@@ -24,9 +24,11 @@ The service we provide may attempt to forward third-party cookies from the websi
 
 * For more information on configuring your browser, see [AboutCookies.org](http://www.aboutcookies.org/Default.aspx?page=1) or the documentation for your browser. We are not responsible for the content of any third-party websites.
 
-  * [Home](https://web.archive.org/web/20110321081915id_/http%3A//www.blewpass.com/index.php)
-  * [Privacy Policy](https://web.archive.org/web/20110321081915id_/http%3A//www.blewpass.com/privacy.php)
-  * [Disclaimer](https://web.archive.org/web/20110321081915id_/http%3A//www.blewpass.com/disclaimer.php)
+  * [Home](https://web.archive.org/web/20111103192138id_/http%3A//www.blewpass.com/index.php)
+  * [Edit Browser](https://web.archive.org/web/20111103192138id_/http%3A//www.blewpass.com/edit-browser.php)
+  * [Manage Cookies](https://web.archive.org/web/20111103192138id_/http%3A//www.blewpass.com/cookies.php)
+  * [Privacy Policy](https://web.archive.org/web/20111103192138id_/http%3A//www.blewpass.com/privacy.php)
+  * [Disclaimer](https://web.archive.org/web/20111103192138id_/http%3A//www.blewpass.com/disclaimer.php)
   * [Terms of Use](http://fattwam.com/terms.html)
 
 
