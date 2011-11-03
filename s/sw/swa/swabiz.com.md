@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505183132id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html%3Fint%3DSWABIZ_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swabiz.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103100427id_/http%3A//www.swabiz.com/travel_center/privacy_policy.html%3Fint%3DSWABIZ_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,7 +25,7 @@ We may occasionally offer users the opportunity to participate in surveys or con
 If we have your e-mail address, we may also send you surveys or contest invitations by e-mail.  We may have your e-mail address if:
 
   * You have made a purchase on our web site and provided your e-mail address during the purchase process
-  * You have set up a Rapid Rewards® account, MySouthwest® account, SWABIZ® Traveler Account, Travel Guide Account, or other Southwest Airlines account and provided your e-mail address either during the registration process or when updating your account information
+  * You have set up a Rapid Rewards® account, a Southwest account, SWABIZ® Traveler Account, Travel Guide Account, or other Southwest Airlines account and provided your e-mail address either during the registration process or when updating your account information
   * You provide a friend’s e-mail address when you refer the friend to one of our web pages
   * We have received your e-mail address by any other means
 
@@ -59,38 +59,39 @@ IP Addresses**
 We use your IP address to help diagnose problems with our server and to administer our web sites.  We do not link IP addresses to personally identifiable information except for fraud prevention.
 
  **Cookies  
-**  
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes.  We use cookies on all Southwest affiliated web sites covered by this Privacy Policy.  We do not link the information we store in cookies to any personally identifiable information you submit while on our web sites.
+**
 
-We use both session ID cookies and persistent cookies.  We use session cookies to make it easier for you to navigate our web sites.  A session ID cookie expires when you close your browser.  A persistent cookie remains on your hard drive for an extended period of time.  You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on all Southwest affiliated web sites and emails covered by this Privacy Policy. We may store certain personally identifiable information you submit while on our web sites in persistent cookies on your computer in an encrypted format.
 
-We set a persistent cookie to store your account number, so you don't have to enter it each time you want to log-in to your Rapid Rewards, MySouthwest or SWABIZ® account.  Persistent cookies also enable us to track and target the interests of our users to enhance their experience on our site.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our web sites. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+
+We set a persistent cookie to store your account number, so you don't have to enter it each time you want to log-in to your Rapid Rewards, Southwest or SWABIZ® account. Persistent cookies also enable us to track and target the interests of our users to enhance their experience on our site as well as provide more relevant content in our e-mails. Southwest Airlines has agreed to allow a select group of marketing platforms to place persistent cookies in our web sites, Southwest Airlines emails and Rapid Rewards emails. In addition to use on our web sites, these cookies may be used for targeted online advertising by third party merchants on third party websites. These cookies do not enable a marketing platform to collect personally identifiable information. To opt-out from our marketing platform’s persistent cookies click here (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of the cookies by the marketing platforms is subject to their privacy policies.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited and we will not be able to provide you with the most convenient experience.
 
 ### Site Usage Profile
 
-We store information that we collect through cookies and log files to create a "profile" of your preferences.  We may use this information to provide you with targeted advertisements and offers on our web site.
+We store information that we collect through cookies and log files to create a site usage profile of your preferences. We may use this information to provide you with targeted advertisements and offers on our web site. In addition we may provide this information to our select marketing platforms, and these cookies may be used for targeted online advertising by third party merchants on third party websites.
 
 We may also share this information in the aggregate (without any personally identifiable information linked to it in combination with other user’s information) with our marketing partners.
 
-### MySouthwest®, SWABIZ®, Travel Guide, and Rapid Rewards® Registration
+### Southwest Account, SWABIZ®, Travel Guide, and Rapid Rewards® Registration
 
-You are not required to establish a MySouthwest account (also referred to as a SWABIZ Traveler account for the uses of our SWABIZ web site designed for corporate use) to use this web site, however some features of our site are not available to unregistered users.  For example, you must have a Rapid Rewards, MySouthwest or SWABIZ account to save your travel preferences (such as the type of rental car you prefer or your favorite travel routes) for future travel arrangements made through our website, store credit card information so that you do not need to re-enter if for future purchases, have access to special Members-only promotions and discounts, or provide ratings, reviews or comments in our Travel Guide section of the web site.
+You are not required to establish a Southwest account (also referred to as a SWABIZ Traveler account for the uses of our SWABIZ web site designed for corporate use) to use this web site, however some features of our site are not available to unregistered users.  For example, you must have a Rapid Rewards, Southwest or SWABIZ account to save your travel preferences (such as the type of rental car you prefer or your favorite travel routes) for future travel arrangements made through our website, store credit card information so that you do not need to re-enter if for future purchases, have access to special Members-only promotions and discounts, or provide ratings, reviews or comments in our Travel Guide section of the web site.
 
-If you would like to take advantage of the conveniences available through special MySouthwest or SWABIZ features, you must first register for a MySouthwest or SWABIZ account.  Additional features are available to Rapid Rewards Members.  To take advantage of those additional features, you must first enroll in the Rapid Rewards program.  During registration, you are required to provide contact information (such as name, address, phone number, e-mail address, and company name),  Your birth date may be used to determine your eligibility to receive special age-restricted offers, such as coupons for alcoholic beverages on Southwest Airlines flights or other marketing offers.  It is also necessary for you to provide your date of birth so that we can confirm you identity if you ask us to reset the password on your account.
+If you would like to take advantage of the conveniences available through special Southwest account or SWABIZ features, you must first register for a Southwest or SWABIZ account.  Additional features are available to Rapid Rewards Members.  To take advantage of those additional features, you must first enroll in the Rapid Rewards program.  During registration, you are required to provide contact information (such as name, address, phone number, e-mail address, and company name),  Your birth date may be used to determine your eligibility to receive special age-restricted offers, such as coupons for alcoholic beverages on Southwest Airlines flights or other marketing offers.  It is also necessary for you to provide your date of birth so that we can confirm you identity if you ask us to reset the password on your account.
 
 Additionally you have the option to provide demographic information (such as whether you are a college student age 18 to 23) and travel preferences to us; we encourage you to submit this information so we can provide you a more personalized experience on our site and send you valuable travel offers.  We may use the travel preferences you store in your profile to send you special targeted e-mails based on these preferences.  For example, if you express a preference for a specific type of rental car, we may send you special offers for renting this type of vehicle.
 
 **Rapid Rewards Program**
 
-If you do not already have a Rapid Rewards account, you can easily establish one during the MySouthwest or SWABIZ registration process.  Electing to establish a Rapid Rewards account will enroll you in the Southwest Airline frequent flyer program and give you the opportunity to earn free award travel by flying with Southwest Airlines and/or doing business with our Rapid Rewards Preferred Partners.  You will not be able to earn points toward free flights if you elect to not sign up for this program.  As a Rapid Rewards Member, you may also receive special offers by e-mail simply for being a Member of the Rapid Rewards program.
+If you do not already have a Rapid Rewards account, you can easily establish one during the Southwest account or SWABIZ registration process.  Electing to establish a Rapid Rewards account will enroll you in the Southwest Airline frequent flyer program and give you the opportunity to earn free award travel by flying with Southwest Airlines and/or doing business with our Rapid Rewards Preferred Partners.  You will not be able to earn points toward free flights if you elect to not sign up for this program.  As a Rapid Rewards Member, you may also receive special offers by e-mail simply for being a Member of the Rapid Rewards program.
 
 We may use the personally identifiable information you provide when you become a Rapid Rewards Member for analytical, administrative, marketing, correspondence or other operational purposes.  For more information on how we may use your personally identifiable information as a Rapid Rewards Member please see our **Customer Communications** section below.
 
 **Social Security Numbers**
 
-We do not require your social security number to enroll in the Rapid Rewards Program, create a MySouthwest or SWABIZ account or when you make a purchase.  You do, however, have the option to provide the last four digits of your social security number when you establish a Rapid Rewards account.  This information will help us confirm your identity on **southwest.com**
+We do not require your social security number to enroll in the Rapid Rewards Program, create a Southwest or SWABIZ account or when you make a purchase.  You do, however, have the option to provide the last four digits of your social security number when you establish a Rapid Rewards account.  This information will help us confirm your identity on **southwest.com**
 
 ## Customer Communications
 
@@ -104,20 +105,20 @@ Shortly before your trip, we may send you a pre-trip e-mail confirming the detai
 
 ### E-mail Promotions, Offers, and Updates
 
-As a Member of the Rapid Rewards® program, you may opt to receive Rapid Rewards® e-mail communications which may include program news and special offers either during the Rapid Rewards® enrollment process or from your Rapid Rewards account preferences web page.  The default option is not to receive these e-mail communications, so you need to let us know if you are interested in receiving these messages with special Members-only news and offers.  You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.
+As a Member of the Rapid Rewards® program, you may opt to receive Rapid Rewards® e-mail communications which may include program news and special offers either during the Rapid Rewards® enrollment process or from your Rapid Rewards account preferences web page. During enrollment, the default option is to receive both Rapid Rewards® e-mail products.  If you are not interested in receiving these messages with special Members-only news and offers, the boxes should be unchecked prior to submitting the enrollment form. You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.
 
-We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards® or MySouthwest® account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save® and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on the unsubscribe link below or by clicking on an opt-out link provided in each e-mail.
+We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards® or Southwest account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save® and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on an opt-out link provided in each e-mail.
 
 For your convenience, a brief description of the periodic e-mails you may choose to receive from us is also provided in the chart below along with links to either subscribe or unsubscribe to each option.  Once you subscribe to any of our e-mail communications, you will need to confirm your subscription by following the link provided in the e-mail confirmation you should receive shortly after subscribing.
 
  **Click 'n Save ® Special Offers E-mail  
 **Weekly e-mail highlighting travel deals on flights, car rentals, hotels, cruises, and Southwest Vacations  
-[Subscribe](https://web.archive.org/email/emailSubscribe.html) | [Unsubscribe  
+[Subscribe](https://web.archive.org/email/emailSubscribe.html)[  
 ](https://web.archive.org/email/emailUnsubscribe.html)
 
 **In A Nutshell™ News & Promotions E-mail  
 **Monthly newsletter-style e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers  
-[Subscribe](https://web.archive.org/email/emailSubscribe_nutshell.html) | [Unsubscribe  
+[Subscribe](https://web.archive.org/email/emailSubscribe_nutshell.html)[  
 ](https://web.archive.org/email/emailUnsubscribe.html)
 
 **Rapid Rewards ® E-mail Updates  
@@ -140,7 +141,7 @@ For your convenience, a brief description of the periodic e-mails you may choose
 
 ### Promotional Mailings
 
-As a Southwest Customer, MySouthwest®, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT). ****
+As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT).
 
 ### Account Information
 
@@ -148,7 +149,7 @@ We currently send non-promotional e-mails to our Rapid Rewards® Members contain
 
 ### Service-Related Announcements
 
-As a member or subscriber of our Click 'n Save® e-mail updates, MySouthwest®, SWABIZ®, and/or our Rapid Rewards® program, we will send you service-related announcements that may affect your account, flight reservations you have made or your ability to use the services we offer.  For instance, if there is a problem with your flight we may send you an e-mail notifying you of any such issues.  You may not opt-out of these communications, which are informational in nature.
+As a member or subscriber of our Click 'n Save® e-mail updates, Southwest account, SWABIZ®, and/or our Rapid Rewards® program, we will send you service-related announcements that may affect your account, flight reservations you have made or your ability to use the services we offer.  For instance, if there is a problem with your flight we may send you an e-mail notifying you of any such issues.  You may not opt-out of these communications, which are informational in nature.
 
 ### Customer Feedback
 
@@ -214,11 +215,11 @@ If a child provides us with personally identifiable information, a parent or gua
 
 ## Changes, Corrections & Deletions
 
-If you think we may have incorrect personally identifiable information about you or if your information changes, you may correct or update the information online by logging in to your MySouthwest®, SWABIZ® or Rapid Rewards® account.  You may also modify your account information or deactivate your account by [contacting us](https://www.southwest.com/contact-us/contact-us.html) by phone or postal mail.
+If you think we may have incorrect personally identifiable information about you or if your information changes, you may correct or update the information online by logging in to your Southwest, SWABIZ® or Rapid Rewards® account.  You may also modify your account information or deactivate your account by [contacting us](https://www.southwest.com/contact-us/contact-us.html) by phone or postal mail.
 
 ## Your Online Password
 
-Your Rapid Rewards®, MySouthwest®, or Travel Guide online password is unique to your account and is designed to protect your account from unauthorized use.  Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords.  Additionally, Southwest Airlines will not replace or reinstate any flight credits, partner credits, or program awards that are generated or redeemed by unauthorized password activity.  Accordingly, your password should be guarded and not provided to anyone.
+Your Rapid Rewards®, Southwest account, or Travel Guide online password is unique to your account and is designed to protect your account from unauthorized use.  Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords.  Additionally, Southwest Airlines will not replace or reinstate any flight credits, partner credits, or program awards that are generated or redeemed by unauthorized password activity.  Accordingly, your password should be guarded and not provided to anyone.
 
 ## Contact Us
 
@@ -228,4 +229,4 @@ If you have any questions, complaints or suggestions regarding our privacy polic
 
 This privacy policy is current as of the effective date set forth above.  Southwest Airlines Co. reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles.
 
-Updated: November 29, 2010
+Updated: September 1, 2011
