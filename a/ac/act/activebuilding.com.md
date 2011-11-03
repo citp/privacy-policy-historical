@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2011-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110124191433id_/http%3A//www.activebuilding.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activebuilding.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103102305id_/http%3A//www.activebuilding.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ActiveBuilding
 
@@ -26,4 +26,4 @@ ActiveBuilding uses session cookies containing encrypted information to allow th
 
  **Third-Party Cookies**. ActiveBuilding may engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of ActiveBuilding is used only to provide us with information on site usage and is not shared with any other third parties.
 
- **Additional Information**. Questions regarding this Statement or the practices of this Site should be directed by email to support(at)ActiveBuilding(dot)com ( support@ActiveBuilding.comThis e-mail address is being protected from spambots. You need JavaScript enabled to view it) or by regular mail addressed to Active Building LLC, Attn: Privacy, 24 Roy St #428, Seattle, WA 98109.
+ **Additional Information**. Questions regarding this Statement or the practices of this Site should be directed by email to support(at)ActiveBuilding(dot)com ( support@ActiveBuilding.comThis e-mail address is being protected from spambots. You need JavaScript enabled to view it) or by regular mail addressed to Active Building LLC, Attn: Privacy, 2101 9th Ave STE 428, Seattle, WA 98121.
