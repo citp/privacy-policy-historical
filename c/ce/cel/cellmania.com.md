@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cellmania.com privacy policy that was archived on 2010-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101120174614id_/http%3A//www.cellmania.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellmania.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103192222id_/http%3A//www.cellmania.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Cellmania - Leading Provider of M-commerce Solutions - Privacy Policy for Cellmania
 
@@ -28,11 +28,11 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.
 
-You can send email to [Cellmania Support](mailto:support@staff.cellmania.com).
+You can send email to [Cellmania Support](mailto:support@cellmania.com).
 
 ## Cellmania Privacy Policy, including adherence to EU-US Safe Harbor Privacy Principles
 
-**NOTICE:** Cellmania will inform individuals about the purposes for which it collects and uses information about them, the types of third parties to which it discloses the information, and individuals may restrict usage by contacting Cellmania. Individuals can contact Cellmania at 82 Pioneer Way, #108, Mountain View, CA 94041, USA, or send email to [support@staff.cellmania.com](mailto:support@staff.cellmania.com) with any inquiries or complaints. Cellmania will not use information for purposes other that intended. 
+**NOTICE:** Cellmania will inform individuals about the purposes for which it collects and uses information about them, the types of third parties to which it discloses the information, and individuals may restrict usage by contacting Cellmania. Individuals can contact Cellmania at 321 E Evelyn Ave, Mountain View, CA 94041, USA, or send email to [support@cellmania.com](mailto:support@cellmania.com) with any inquiries or complaints. Cellmania will not use information for purposes other that intended. 
 
 **CHOICE:** Cellmania will not use information for purposes other that intended. If there does arise a situation where this is necessary,  Cellmania will offer individuals the opportunity to choose (opt out) whether their personal information is (a) to be disclosed to a third party(1) or (b) to be used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by the individual. Individuals will be provided with clear and conspicuous, readily available, and affordable mechanisms to exercise choice.
 
@@ -44,10 +44,10 @@ Cellmania has a policy of not collecting sensitive information. Should a need ar
 
 **DATA INTEGRITY:** Consistent with the Principles, personal information must be relevant for the purposes for which it is to be used. Cellmania will not process personal information in a way that is incompatible with the purposes for which it has been collected or subsequently authorized by the individual. To the extent necessary for those purposes, Cellmania will take reasonable steps to ensure that data is reliable for its intended use, accurate, complete, and current. 
 
-**ACCESS:** Individuals will have access to personal information about them that Cellmania holds and be able, by contacting Cellmania at [support@staff.cellmania.com](mailto:support@staff.cellmania.com) to correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where the rights of persons other than the individual would be violated. 
+**ACCESS:** Individuals will have access to personal information about them that Cellmania holds and be able, by contacting Cellmania at [support@cellmania.com](mailto:support@cellmania.com) to correct, amend, or delete that information where it is inaccurate, except where the burden or expense of providing access would be disproportionate to the risks to the individual's privacy in the case in question, or where the rights of persons other than the individual would be violated. 
 
 **ENFORCEMENT:** Cellmania has mechanisms for assuring compliance with the Principles, and recourse for individuals to whom the data relate affected by non-compliance with the Principles by contacting Cellmania. Cellmania will utilize the European Data Protection Authorities for dispute resolution for issues involving European Data Individual's complaints and disputes will be investigated and resolvedby reference to the Principles and damages awarded where the applicable law or private sector initiatives so provide; (b) Cellmania will institute relevant follow up procedures for verifying that the attestations and assertions businesses make about their privacy practices are true and that privacy practices have been implemented as presented.
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [Cellmania Support](mailto:support@staff.cellmania.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [Cellmania Support](mailto:support@cellmania.com)
