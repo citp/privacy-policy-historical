@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consciousone.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414092645id_/http%3A//consciousone.com/user/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consciousone.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103111112id_/http%3A//consciousone.com/user/privacyPolicy.html) for the most accurate reproduction.*
 
 # :: c o n s c i o u s o n e ::
 
