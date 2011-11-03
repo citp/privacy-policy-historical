@@ -1,21 +1,114 @@
-<!--The following is the downloaded HTML source of the theimproper.com privacy policy that was archived on 2011-01-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110101110439id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theimproper.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103093858id_/http%3A//www.theimproper.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
-<title>Privacy | TheImproper, The Cutting Edge in Arts &amp; Entertainment</title>
-<link rel="shortcut icon" href="http://www.theimproper.com/wp-content/themes/atahualpa/images/favicon/new-favicon.ico"><link rel="canonical" href="http://www.theimproper.com/privacy"><link rel="alternate" type="application/rss+xml" title="TheImproper, The Cutting Edge in Arts &amp; Entertainment RSS Feed" href="http://www.theimproper.com/feed">
-<link rel="alternate" type="application/atom+xml" title="TheImproper, The Cutting Edge in Arts &amp; Entertainment Atom Feed" href="http://www.theimproper.com/feed/atom">
+<title>Privacy | TheImproper.com</title>
+<link rel="shortcut icon" href="http://www.theimproper.com/wp-content/themes/atahualpa/images/favicon/new-favicon.ico"><link rel="canonical" href="http://www.theimproper.com/privacy"><link rel="alternate" type="application/rss+xml" title="TheImproper.com RSS Feed" href="http://www.theimproper.com/feed">
+<link rel="alternate" type="application/atom+xml" title="TheImproper.com Atom Feed" href="http://www.theimproper.com/feed/atom">
 <link rel="pingback" href="http://www.theimproper.com/xmlrpc.php">
-<link rel="alternate" type="application/rss+xml" title="TheImproper, The Cutting Edge in Arts &amp; Entertainment » Privacy Comments Feed" href="http://www.theimproper.com/privacy/feed">
-<link rel="stylesheet" id="sociable-front-css-css" href="http://www.theimproper.com/wp-content/plugins/sociable/sociable.css?ver=3.0.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.theimproper.com/wp-includes/js/jquery/jquery.js?ver=1.4.2"></script>
-<script type="text/javascript" src="http://www.theimproper.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
-<script type="text/javascript" src="http://www.theimproper.com/wp-content/plugins/sociable/addtofavorites.js?ver=3.0.1"></script>
+<link rel="alternate" type="application/rss+xml" title="TheImproper.com » Privacy Comments Feed" href="http://www.theimproper.com/privacy/feed">
+<link rel="stylesheet" id="sociablecss-css" href="http://www.theimproper.com/wp-content/plugins/sociable/css/sociable.css?ver=3.2.1" type="text/css" media="all">
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script type="text/javascript">//<![CDATA[
+function convertEntities(b){var d,a;d=function(c){if(/&[^;]+;/.test(c)){var f=document.createElement("div");f.innerHTML=c;return !f.firstChild?c:f.firstChild.nodeValue}return c};if(typeof b==="string"){return d(b)}else{if(typeof b==="object"){for(a in b){if(typeof b[a]==="string"){b[a]=d(b[a])}}}}return b};
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+function more(obj, id){
+	
+	var button;
+	var box;
+	var sociable;
+	
+	box = document.getElementById("sociable-"+id+"");
+	button = obj;
+	sociable = document.getElementById("sociable");
+	//console.log(sociable.style.offsetTop);
+	sociable.style.postion = "absloute";
+	sociable.style.top = button.offsetTop;
+	sociable.style.left = button.offsetLeft;
+	//console.log(sociable.style.offsetTop);
+	box.style.display = "";
+}
+
+var t;
+function hide_sociable(id,close){
+	if (close == null){
+	t = setTimeout(function (){
+		hide_sociable(id,true)
+	},1000);
+	}else{
+	var box;
+	box = document.getElementById("sociable-"+id+"");
+	box.style.display = "none";		
+	}
+}
+
+function get_object(id) {
+	var object = null;
+	if( document.layers )	{			
+		object = document.layers[id];
+	} else if( document.all ) {
+		object = document.all[id];
+	} else if( document.getElementById ) {
+		object = document.getElementById(id);
+	}
+	return object;
+}
+
+function is_child_of(parent, child) {
+	if( child != null ) {			
+		while( child.parentNode ) {
+			if( (child = child.parentNode) == parent ) {
+				return true;
+			}
+		}
+	}
+	return false;
+}
+function fixOnMouseOut(element, event, id) {
+	clearTimeout(t);
+	var current_mouse_target = null;
+	if( event.toElement ) {				
+		current_mouse_target 			 = event.toElement;
+	} else if( event.relatedTarget ) {				
+		current_mouse_target 			 = event.relatedTarget;
+	}
+	if( !is_child_of(element, current_mouse_target) && element != current_mouse_target ) {
+		
+		hide_sociable(id)
+	}
+}
+
+
+
+
+//]]></script>
+<script type="text/javascript">//<![CDATA[
+function AddToFavorites()  
+{  
+    var title = document.title; var url = location.href;  
+    if (window.sidebar) // Firefox  
+        window.sidebar.addPanel(title, url, '');  
+    else if(window.opera && window.print) // Opera  
+    {  
+        var elem = document.createElement('a');  
+        elem.setAttribute('href',url);  
+        elem.setAttribute('title',title);  
+        elem.setAttribute('rel','sidebar'); // required to work in opera 7+  
+        elem.click();  
+    }   
+    else if(document.all) // IE  
+        window.external.AddFavorite(url, title);  
+}
+//]]></script>
+<script type="text/javascript" src="http://www.theimproper.com/wp-includes/js/jquery/jquery.js,qver=1.6.1.pagespeed.ce.JM2rKfikAq.js"></script>
+<script type="text/javascript">//<![CDATA[
+addComment={moveForm:function(d,f,i,c){var m=this,a,h=m.I(d),b=m.I(i),l=m.I("cancel-comment-reply-link"),j=m.I("comment_parent"),k=m.I("comment_post_ID");if(!h||!b||!l||!j){return}m.respondId=i;c=c||false;if(!m.I("wp-temp-form-div")){a=document.createElement("div");a.id="wp-temp-form-div";a.style.display="none";b.parentNode.insertBefore(a,b)}h.parentNode.insertBefore(b,h.nextSibling);if(k&&c){k.value=c}j.value=f;l.style.display="";l.onclick=function(){var n=addComment,e=n.I("wp-temp-form-div"),o=n.I(n.respondId);if(!e||!o){return}n.I("comment_parent").value="0";e.parentNode.insertBefore(o,e);e.parentNode.removeChild(e);this.style.display="none";this.onclick=null;return false};try{m.I("comment").focus()}catch(g){}return false},I:function(a){return document.getElementById(a)}};
+//]]></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.theimproper.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.theimproper.com/wp-includes/wlwmanifest.xml"> 
-<link rel="index" title="TheImproper, The Cutting Edge in Arts &amp; Entertainment" href="http://www.theimproper.com">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.theimproper.com/wp-includes/wlwmanifest.xml">
+<link rel="index" title="TheImproper.com" href="http://www.theimproper.com">
 <link rel="prev" title="About Us" href="http://www.theimproper.com/about-us">
 <link rel="next" title="Twilight’s Christian Serratos Gets Nude for PETA, 5" href="http://www.theimproper.com/twilights-christian-serratos-gets-nude-for-peta-5">
 <link rel="canonical" href="http://www.theimproper.com/privacy">
@@ -24,11 +117,11 @@
     var topsy_nick = '';
     var topsy_order = 'retweet,count,badge';
     var topsy_theme = 'brick-red';
-    var topsy_tweet_text = 'tweet';
-    var topsy_retweet_text = 'retweet';
+    var topsy_tweet_text = 'Tweet Me!';
+    var topsy_retweet_text = 'Tweet Me!';
     var topsy_streaming = 'on';
 </script><script type="text/javascript" id="topsy-js-elem" src="http://cdn.topsy.com/topsy.js?init=topsyWidgetCreator"></script>
-<style type="text/css">body{text-align:center;margin:0;padding:0;padding-top:0px;font-family:verdana,arial,sans-serif;font-size:0.8em;color:#000000;background:#ffffff}a:link,a:visited,a:active{color:#0000FF;font-weight:bold;text-decoration:none;}a:hover{color:#CC0000;font-weight:bold;text-decoration:none}ul,ol,dl,p,h1,h2,h3,h4,h5,h6{margin-top:10px;margin-bottom:10px;padding-top:0;padding-bottom:0;}ul ul,ul ol,ol ul,ol ol{margin-top:0;margin-bottom:0}h1,h2,h3,h4,h5,h6{color:#000;display:block;font-smooth:always}h1{font-size:34px;line-height:1.2;margin:0.3em 0 10px;}h2{font-size:28px;line-height:1.3;margin:1em 0 .2em;}h3{font-size:24px;line-height:1.3;margin:1em 0 .2em;}h4{font-size:19px;margin:1.33em 0 .2em;}h5{font-size:1.3em;margin:1.67em 0;font-weight:bold;}h6{font-size:1.15em;margin:1.67em 0;font-weight:bold;}h1 a,h2 a,h1 a:link,h2 a:link,h1 a:visited,h2 a:visited{color:#000;}h1 a:active,h2 a:active,h1 a:focus,h2 a:focus,h1 a:hover,h2 a:hover{color:#669900;}code,pre{font-family:"Courier New",Courier,monospace;font-size:1em}pre{overflow:auto;word-wrap:normal;padding-bottom:1.5em;overflow-y:hidden;width:99%}abbr[title],acronym[title]{border-bottom:1px dotted}hr{display:block;height:2px;border:none;margin:0.5em auto;color:#cccccc;background-color:#cccccc}table{font-size:1em;}div.post,ul.commentlist li,ol.commentlist li{word-wrap:break-word;}pre,.wp_syntax{word-wrap:normal;}div#wrapper{text-align:center;margin-left:auto;margin-right:auto;display:block;width:990px}div#container{padding:0;background:#f2f2f2;width:auto;margin-left:auto;margin-right:auto;text-align:left;display:block}table#layout{font-size:100%;width:100%;table-layout:fixed}.colone{width:165px}.colone-inner{width:200px}.coltwo{width:100% }.colthree-inner{width:250px}.colthree{width:325px}td#header{width:auto;padding:0}table#logoarea,table#logoarea tr,table#logoarea td{margin:0;padding:0;background:none;border:0}table#logoarea{width:100%;border-spacing:0px;height:150px;border:solid 1px #7800000}img.logo{display:block;margin:10 10px 0 0}td.logoarea-logo{width:1%}h1.blogtitle,h2.blogtitle{ display:block;margin:0;padding:0;letter-spacing:-1px;line-height:1.0em;font-family:tahoma,arial,sans-serif;font-size:240%;font-smooth:always}h1.blogtitle a:link,h1.blogtitle a:visited,h1.blogtitle a:active,h2.blogtitle a:link,h2.blogtitle a:visited,h2.blogtitle a:active{ text-decoration:none;color:#666666;font-weight:bold;font-smooth:always}h1.blogtitle a:hover,h2.blogtitle a:hover{ text-decoration:none;color:#000000;font-weight:bold}p.tagline{margin:0;padding:0;font-size:1.2em;font-weight:bold;color:#666666}td.feed-icons{white-space:nowrap;}div.rss-box{height:1%;display:block;padding:10px 0 10px 10px;margin:0;width:280px}a.comments-icon{height:22px;line-height:22px;margin:0 5px 0 5px;padding-left:22px;display:block;text-decoration:none;float:right;white-space:nowrap}a.comments-icon:link,a.commentss-icon:active,a.comments-icon:visited{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/comment-gray.png) no-repeat scroll center left}a.comments-icon:hover{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/comment.png) no-repeat scroll center left}a.posts-icon{height:22px;line-height:22px;margin:0 5px 0 0;padding-left:20px;display:block;text-decoration:none;float:right;white-space:nowrap}a.posts-icon:link,a.posts-icon:active,a.posts-icon:visited{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/rss-gray.png) no-repeat scroll center left}a.posts-icon:hover{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/rss.png) no-repeat scroll center left}a.email-icon{height:22px;line-height:22px;margin:0 5px 0 5px;padding-left:24px;display:block;text-decoration:none;float:right;white-space:nowrap}a.email-icon:link,a.email-icon:active,a.email-icon:visited{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/email-gray.png) no-repeat scroll center left}a.email-icon:hover{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/email.png) no-repeat scroll center left}td.search-box{height:1%}div.searchbox{height:35px;border:1px dashed #cccccc;border-bottom:0;width:200px;margin:0;padding:0}div.searchbox-form{margin:5px 10px 5px 10px}div.horbar1,div.horbar2{font-size:1px;clear:both;display:block;position:relative;padding:0;margin:0;width:100%;}div.horbar1{height:10px;background:#ffffff;border-top:solid 1px #780000}div.horbar2{height:2px;background:#ffffff;border-bottom:solid 1px #780000}div.opacityleft{position:absolute;z-index:2;top:0;left:0;background-color:#ffffff;height:150px;width:200px;filter:alpha(opacity=40);-moz-opacity:.40;opacity:.40}div.opacityright{position:absolute;z-index:2;top:0;right:0;background-color:#ffffff;height:150px;width:200px;filter:alpha(opacity=40);-moz-opacity:.40;opacity:.40}a.divclick:link,a.divclick:visited,a.divclick:active,a.divclick:hover{width:100%;height:100%;display:block;text-decoration:none}td#left{vertical-align:top;border-right:dashed 1px #CCCCCC;padding:0px 0px 0px 0px;background:#ffffff}td#left-inner{vertical-align:top;border-right:dashed 1px #CCCCCC;padding:10px 10px 10px 10px;background:#ffffff}td#right{vertical-align:top;border-left:dashed 1px #CCCCCC;padding:5px 0px 0px 0px;background:#ffffff}td#right-inner{vertical-align:top;border-left:dashed 1px #CCCCCC;padding:5px 5px 5px 5px;background:#ffffff}td#middle{vertical-align:top;width:100%;padding:10px 15px;background-color:#ffffff}td#footer{width:auto;background-color:#ffffff;border-top:dashed 1px #cccccc;padding:10px;text-align:center;color:#777777;font-size:95%}td#footer a:link,td#footer a:visited,td#footer a:active{text-decoration:none;color:#777777;font-weight:normal}td#footer a:hover{text-decoration:none;color:#777777;font-weight:normal}div.widget{display:block;width:auto;margin:10 10 15px 10;padding-left:0px;padding-bottom:15px;padding-right:5px}div.widget-title{display:block;width:auto;color:#870000}div.widget-title h3,td#left h3.tw-widgettitle,td#right h3.tw-widgettitle,td#left ul.tw-nav-list,td#right ul.tw-nav-list{padding:0;margin:0;font-size:1.8em;font-weight:bold;color:#870000;padding-left:5px;font:Franklin Gothic Medium}div.widget ul,div.textwidget{display:block;width:auto;font-size:0.8em;font-weight:normal;color:#870000;padding-left:3px;font:Franklin Gothic Medium}div.widget select{width:98%;margin-top:5px;}div.widget ul{list-style-type:none;margin:0;padding:0;width:auto}div.widget ul li{display:block;margin:2px 0 2px 5px;padding:0 0 0 10px;border-left:solid 9px #870000}div.widget ul li:hover,div.widget ul li.sfhover{display:block;width:auto;border-left:solid 9px #00FF00;}div.widget ul li ul li{margin:2px 0 2px 5px;padding:0 0 0 5px;border-left:solid 7px #870000;}div.widget ul li ul li:hover,div.widget ul li ul li.sfhover{border-left:solid 7px #000000;}div.widget ul li ul li ul li{margin:2px 0 2px 5px;padding:0 0 0 5px;border-left:solid 7px #000000;}div.widget ul li ul li ul li:hover,div.widget ul li ul li ul li.sfhover{border-left:solid 7px #00FF00;}div.widget ul li a:link,div.widget ul li a:visited,div.widget ul li a:active{text-decoration:none;font-weight:normal;color:#000000;font-weight:normal;}div.widget ul li ul li a:link,div.widget ul li ul li a:visited,div.widget ul li ul li a:active{color:#000000;font-weight:normal;}div.widget ul li ul li ul li a:link,div.widget ul li ul li ul li a:visited,div.widget ul li ul li ul li a:active{color:#000000;font-weight:normal;}div.widget ul li a:hover{color:#00FF00;}div.widget ul li ul li a:hover{color:#00FF00;}div.widget ul li ul li ul li a:hover{color:#00FF00;}div.widget ul li a:link,div.widget ul li a:visited,div.widget ul li a:active,div.widget ul li a:hover{display:inline}* html div.widget ul li a:link,* html div.widget ul li a:visited,* html div.widget ul li a:active,* html div.widget ul li a:hover{height:1%; } div.widget_pages ul li,div.widget_categories ul li{border-left:0 !important;padding:0 !important}div.widget_pages ul li a:link,div.widget_pages ul li a:visited,div.widget_pages ul li a:active,div.widget_categories ul li a:link,div.widget_categories ul li a:visited,div.widget_categories ul li a:active{padding:0 0 0 10px;border-left:solid 9px #870000}div.widget_pages ul li a:hover,div.widget_categories ul li a:hover{border-left:solid 9px #00FF00;}div.widget_pages ul li ul li a:link,div.widget_pages ul li ul li a:visited,div.widget_pages ul li ul li a:active,div.widget_categories ul li ul li a:link,div.widget_categories ul li ul li a:visited,div.widget_categories ul li ul li a:active{padding:0 0 0 5px;border-left:solid 7px #870000}div.widget_pages ul li ul li a:hover,div.widget_categories ul li ul li a:hover{border-left:solid 7px #000000;}div.widget_pages ul li ul li ul li a:link,div.widget_pages ul li ul li ul li a:visited,div.widget_pages ul li ul li ul li a:active,div.widget_categories ul li ul li ul li a:link,div.widget_categories ul li ul li ul li a:visited,div.widget_categories ul li ul li ul li a:active{padding:0 0 0 5px;border-left:solid 7px #000000}div.widget_pages ul li ul li ul li a:hover,div.widget_categories ul li ul li ul li a:hover{border-left:solid 7px #00FF00;}div.widget_pages ul li a:link,div.widget_pages ul li a:active,div.widget_pages ul li a:visited,div.widget_pages ul li a:hover{display:block !important}div.widget_categories ul li a:link,div.widget_categories ul li a:active,div.widget_categories ul li a:visited,div.widget_categories ul li a:hover{display:inline !important}table.subscribe{width:100%}table.subscribe td.email-text{padding:0 0 5px 0;vertical-align:top}table.subscribe td.email-field{padding:0;width:100%}table.subscribe td.email-button{padding:0 0 0 5px}table.subscribe td.post-text{padding:7px 0 0 0;vertical-align:top}table.subscribe td.comment-text{padding:7px 0 0 0;vertical-align:top}div.post,div.page{display:block;margin:10 10 30px 10}div.sticky{background:#eee url(http://www.theimproper.com/wp-content/themes/atahualpa/images/sticky.gif) 99% 5% no-repeat;border:dashed 1px #cccccc;padding:10px}div.post-kicker{margin:0 0 10px 0;background-color:#080808}div.post-kicker a:link,div.post-kicker a:visited,div.post-kicker a:active{color:#ffffff;text-decoration:none;text-transform:uppercase;padding-left:5px;}div.post-kicker a:hover{color:#00ff00}div.post-headline{}div.post-headline h1,div.post-headline h2{ margin:0; padding:0;padding:0;margin:0;font-size:34px;color:#870000;Font-style:Franklin Gothic Medium}div.post-headline h2 a:link,div.post-headline h2 a:visited,div.post-headline h2 a:active,div.post-headline h1 a:link,div.post-headline h1 a:visited,div.post-headline h1 a:active{color:#870000;text-decoration:none;font-size:34px;Font-style:'Franklin Gothic Medium'}div.post-headline h2 a:hover,div.post-headline h1 a:hover{color:#00ff00;text-decoration:none;font-size;34px;font-style:'Franklin Gothic Medium'}div.post-byline{margin:5px 0 10px 0;color:#000000}div.post-byline a:link,div.post-byline a:visited,div.post-byline a:active{color:#000000}div.post-byline a:hover{color:#00ff00}div.post-bodycopy{color:#000000}div.post-bodycopy p{margin:1em 0;padding:0;display:block}div.post-pagination{}div.post-footer{clear:both;display:block;%bar1margin:5px;padding:10px;background:#ffffff;color:#666;line-height:18px}div.post-footer a:link,div.post-footer a:visited,div.post-footer a:active{color:#000000;font-weight:normal;text-decoration:none}div.post-footer a:hover{color:#00ff00;font-weight:normal;text-decoration:underline}div.post-kicker img,div.post-byline img,div.post-footer img{border:0;padding:0;margin:0 0 -1px 0;background:none}span.post-ratings{display:inline-block;width:auto;white-space:nowrap}div.navigation-top{display:block;width:100%;margin:0 0 10px 0;padding:0 0 10px 0;border-bottom:dashed 1px #cccccc}div.navigation-middle{display:block;width:100%;margin:10px 0 20px 0;padding:10px 0 10px 0;border-top:dashed 1px #cccccc;border-bottom:dashed 1px #cccccc}div.navigation-bottom{display:block;width:100%;margin:20px 0 0 0;padding:10px 0 0 0;border-top:dashed 1px #cccccc}div.navigation-comments-above{display:block;width:100%;margin:0 0 10px 0;padding:5px 0 5px 0}div.navigation-comments-below{display:block;width:100%;margin:0 0 10px 0;padding:5px 0 5px 0}div.older{float:left;width:49%;text-align:left;margin:0;padding:0}div.newer{float:right;width:49%;text-align:right;margin:0;padding:0;}div.older-home{float:left;width:45%;text-align:left;margin:0;padding:0}div.newer-home{float:right;width:45%;text-align:right;margin:0;padding:0;}div.home{float:left;width:9%;text-align:center;margin:0;padding:0}form,.feedburner-email-form{margin:0;padding:0;}fieldset{border:1px solid #cccccc;width:auto;padding:0.35em 0.625em 0.75em;display:block;}legend{color:#000000;background:#f4f4f4;border:1px solid #cccccc;padding:2px 6px;margin-bottom:15px;}form p{margin:5px 0 0 0;padding:0;}label{margin-right:0.5em;font-family:arial;cursor:pointer;}input.text,input.textbox,input.password,input.file,input.TextField,textarea{padding:3px;color:#000000;border-top:solid 1px #333333;border-left:solid 1px #333333;border-right:solid 1px #999999;border-bottom:solid 1px #cccccc;background:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/inputbackgr.gif) top left no-repeat}textarea{width:96%;}input.inputblur{color:#777777;width:95%}input.inputfocus{color:#000000;width:95%}input.highlight,textarea.highlight{background:#e8eff7;border-color:#37699f}.button,.Button{padding:0 2px;height:24px;line-height:16px;background-color:#777777;color:#ffffff;border:solid 2px #555555;font-weight:bold}.buttonhover{padding:0 2px;cursor:pointer;background-color:#6b9c6b;color:#ffffff;border:solid 2px #496d49}form#commentform input#submit{padding:4px 10px 4px 10px;font-size:1.2em;line-height:1.5em;height:36px}table.searchform{width:100%}table.searchform td.searchfield{padding:0;width:100%}table.searchform td.searchbutton{padding:0 0 0 5px}table.searchform td.searchbutton input{padding:0 0 0 5px}blockquote{height:1%;display:block;clear:both;color:#780000;padding:1em 1em;background:#ffffcc;border:solid 1px #780000;width:350px;float:right}blockquote blockquote{height:1%;display:block;clear:both;color:#444444;padding:1em 1em;background:#e1e1e1;border:solid 1px #d3d3d3}div.post table{border-collapse:collapse;margin:10px 0}div.post table caption{width:auto;margin:0 auto;background:#ffffff;border:#999999;padding:4px 8px;color:#ffffff}div.post table th{background:#ffffff;color:#ffffff;font-weight:bold;font-size:90%;padding:4px 8px;border:solid 1px #ffffff;text-align:left}div.post table td{padding:4px 8px;background-color:#ffffff;border-bottom:1px solid #dddddd;text-align:left}div.post table tfoot td{}div.post table tr.alt td{background:#f4f4f4}div.post table tr.over td{background:#e2e2e2}#calendar_wrap{padding:0;border:none}table#wp-calendar{width:100%;font-size:90%;border-collapse:collapse;background-color:#ffffff;margin:0 auto}table#wp-calendar caption{width:auto;background:#eeeeee;border:none;;padding:3px;margin:0 auto;font-size:1em}table#wp-calendar th{border:solid 1px #eeeeee;background-color:#999999;color:#ffffff;font-weight:bold;padding:2px;text-align:center}table#wp-calendar td{padding:0;line-height:18px;background-color:#ffffff;border:1px solid #dddddd;text-align:center}table#wp-calendar tfoot td{border:solid 1px #eeeeee;background-color:#eeeeee}table#wp-calendar td a{display:block;background-color:#eeeeee;width:100%;height:100%;padding:0}div#respond{margin:25px 0;padding:25px;background:#eee;-moz-border-radius:8px;-khtml-border-radius:8px;-webkit-border-radius:8px;border-radius:8px;font-color:000000;}p.thesetags{margin:10px 0}h3.reply{margin:0;padding:0 0 10px 0}ol.commentlist{margin:15px 0 25px 0;list-style-type:none;padding:0;display:block;border-top:dotted 1px #cccccc}ol.commentlist li{padding:15px 10px;display:block;height:1%;margin:0;background-color:#C0C0C0;border-bottom:dotted 1px #cccccc}ol.commentlist li.alt{display:block;height:1%;background-color:#EEEEEE;border-bottom:dotted 1px #cccccc}ol.commentlist li.authorcomment{display:block;height:1%;background-color:#FFECEC}ol.commentlist span.authorname{font-weight:bold;font-size:110%}ol.commentlist span.commentdate{color:#666666;font-size:90%;margin-bottom:5px;display:block}ol.commentlist span.editcomment{display:block}ol.commentlist li p{margin:2px 0 5px 0}div.comment-number{float:right;font-size:2em;line-height:2em;font-family:georgia,serif;font-weight:bold;color:#ddd;margin:-10px 0 0 0;position:relative;height:1%}div.comment-number a:link,div.comment-number a:visited,div.comment-number a:active{color:#ccc}textarea#comment{width:98%;margin:10px 0;display:block}ul.commentlist{margin:15px 0 15px 0;list-style-type:none;padding:0;display:block;border-top:dotted 1px #cccccc}ul.commentlist ul{margin:0;border:none;list-style-type:none;padding:0}ul.commentlist li{padding:0; margin:0;display:block;clear:both;height:1%;}ul.commentlist ul.children li{ margin-left:30px}ul.commentlist div.comment-container{padding:10px;margin:0}ul.children div.comment-container{background-color:transparent;border:dotted 1px #ccc;padding:10px;margin:0 10px 8px 0; -moz-border-radius:5px; -khtml-border-radius:5px; -webkit-border-radius:5px; border-radius:5px}ul.children div.bypostauthor{}ul.commentlist li.thread-even{background-color:#C0C0C0;border-bottom:dotted 1px #cccccc}ul.commentlist li.thread-odd{background-color:#EEEEEE;border-bottom:dotted 1px #cccccc}ul.commentlist div.bypostauthor{background-color:#FFECEC}ul.children div.bypostauthor{border:dotted 1px #FFBFBF}ul.commentlist span.authorname{font-size:110%}div.comment-meta a:link,div.comment-meta a:visited,div.comment-meta a:active,div.comment-meta a:hover{font-weight:normal}div#cancel-comment-reply{margin:-5px 0 10px 0}div.comment-number{float:right;font-size:2em;line-height:2em;font-family:georgia,serif;font-weight:bold;color:#ddd;margin:-10px 0 0 0;position:relative;height:1%}div.comment-number a:link,div.comment-number a:visited,div.comment-number a:active{color:#ccc}.page-numbers{padding:2px 6px;border:solid 1px #000000;-moz-border-radius:6px;-khtml-border-radius:6px;-webkit-border-radius:6px;border-radius:6px}span.current{background:#ddd}a.prev,a.next{border:none}a.page-numbers:link,a.page-numbers:visited,a.page-numbers:active{text-decoration:none;color:#0000FF;border-color:#0000FF}a.page-numbers:hover{text-decoration:none;color:#CC0000;border-color:#CC0000}div.xhtml-tags{display:none}abbr em{border:none !important;border-top:dashed 1px #aaa !important;display:-moz-inline-box !important;display:inline-block !important;background:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/commentluv.gif) 0% 90% no-repeat;margin-top:8px;padding:5px 5px 2px 20px !important;font-style:normal}p.subscribe-to-comments{margin-bottom:10px}div#gsHeader{display:none;}div.g2_column{margin:0 !important;width:100% !important;font-size:1.2em}div#gsNavBar{border-top-width:0 !important}p.giDescription{font-size:1.2em;line-height:1 !important}p.giTitle{margin:0.3em 0 !important;font-size:1em;font-weight:normal;color:#666}div#wp-email img{border:0;padding:0}div#wp-email input,div#wp-email textarea{margin-top:5px;margin-bottom:2px}div#wp-email p{margin-bottom:10px}input#wp-email-submit{ padding:0; font-size:30px; height:50px; line-height:50px; overflow:visible;}img.WP-EmailIcon{ vertical-align:text-bottom !important}.tw-accordion .tw-widgettitle,.tw-accordion .tw-widgettitle:hover,.tw-accordion .tw-hovered,.tw-accordion .selected,.tw-accordion .selected:hover{ background:transparent !important; background-image:none !important}.tw-accordion .tw-widgettitle span{ padding-left:0 !important}.tw-accordion h3.tw-widgettitle{border-bottom:solid 1px #ccc}.tw-accordion h3.selected{border-bottom:none}td#left .without_title,td#right .without_title{ margin-top:0;margin-bottom:0}ul.tw-nav-list{border-bottom:solid 1px #999;display:block;margin-bottom:5px !important}td#left ul.tw-nav-list li,td#right ul.tw-nav-list li{padding:0 0 1px 0;margin:0 0 -1px 5px; border:solid 1px #ccc;border-bottom:none;-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;-moz-border-radius-bottomright:0;-moz-border-radius-bottomleft:0;-webkit-border-bottom-right-radius:0;-webkit-border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background:#eee}td#left ul.tw-nav-list li.ui-tabs-selected,td#right ul.tw-nav-list li.ui-tabs-selected{ background:none;border:solid 1px #999;border-bottom:solid 1px #fff !important}ul.tw-nav-list li a:link,ul.tw-nav-list li a:visited,ul.tw-nav-list li a:active,ul.tw-nav-list li a:hover{padding:0 8px !important;background:none;border-left:none !important;outline:none}td#left ul.tw-nav-list li.ui-tabs-selected a,td#left li.ui-tabs-selected a:hover,td#right ul.tw-nav-list li.ui-tabs-selected a,td#right li.ui-tabs-selected a:hover{ color:#000000; text-decoration:none;font-weight:bold;background:none !important;outline:none}td#left .ui-tabs-panel,td#right .ui-tabs-panel{ margin:0; padding:0}img{border:0}#dbem-location-map img{ background:none !important}.post img{}.post img.size-full{margin:5px 0 5px 0}.post img.alignleft{float:left;margin:10px 10px 5px 0;}.post img.alignright{float:right;margin:10px 0 5px 10px;}.post img.aligncenter{display:block;margin:10px auto}.aligncenter,div.aligncenter{ display:block; margin-left:auto; margin-right:auto}.alignleft,div.alignleft{float:left;margin:10px 10px 5px 0}.alignright,div.alignright{ float:right; margin:10px 0 5px 10px}div.archives-page img{border:0;padding:0;background:none;margin-bottom:0;vertical-align:-10%}.wp-caption{max-width:96%;width:auto 100%;height:auto;display:block;}* html .wp-caption{height:100%;}.wp-caption img{ margin:0 !important; padding:0 !important; border:0 none !important}.wp-caption p.wp-caption-text{font-size:0.8em;line-height:13px;padding:2px 4px 5px;margin:0;color:#000000;align:left}img.wp-smiley{ float:none;border:none !important;margin:0 1px -1px 1px;padding:0 !important;background:none !important}img.avatar{float:left;display:block;margin:0 8px 1px 0;padding:3px;border:solid 1px #ddd;background-color:#f3f3f3;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}#comment_quicktags{text-align:left;padding:10px 0 2px 0;display:block}#comment_quicktags input.ed_button{background:#f4f4f4;border:2px solid #cccccc;color:#444444;margin:2px 4px 2px 0;width:auto;padding:0 4px;height:24px;line-height:16px}#comment_quicktags input.ed_button_hover{background:#dddddd;border:2px solid #666666;color:#000000;margin:2px 4px 2px 0;width:auto;padding:0 4px;height:24px;line-height:16px;cursor:pointer}#comment_quicktags #ed_strong{font-weight:bold}#comment_quicktags #ed_em{font-style:italic}div.sociable{margin:0;width:200px;display:inline}div.sociable-tagline{display:none}.sociable span{display:inline-block}.sociable ul{display:inline;margin:0 !important;padding:0 !important}.sociable ul li{background:none;display:inline;list-style-type:none;margin:0;padding:1px}.sociable ul li:before{content:"";}.sociable img{float:none;width:16px;height:16px;border:0;margin:0;padding:0}.sociable-hovers{opacity:.4;-moz-opacity:.4;filter:alpha(opacity=40);vertical-align:text-bottom}.sociable-hovers:hover{opacity:1;-moz-opacity:1;filter:alpha(opacity=100)}@media print{body{background:white;color:black;margin:0;font-size:10pt !important;font-family:arial,sans-serif;}div.post-footer{line-height:normal !important;color:#555 !important;font-size:9pt !important}a:link,a:visited,a:active,a:hover{text-decoration:underline !important;color:#000}h2{color:#000;font-size:14pt !important;font-weight:normal !important}h3{color:#000;font-size:12pt !important;}#header,#footer,.colone,.colthree,.navigation,.navigation-top,.navigation-middle,.navigation-bottom,.wp-pagenavi-navigation,#comment,#respond,.remove-for-print{display:none}td#left,td#right,td#left-inner,td#right-inner{width:0}td#middle{width:100%}*:lang(en) td#left{ display:none}*:lang(en) td#right{ display:none}*:lang(en) td#left-inner{ display:none}*:lang(en) td#right-inner{ display:none}td#left:empty{ display:none}td#right:empty{ display:none}td#left-inner:empty{ display:none}td#right-inner:empty{ display:none}}ul.rMenu,ul.rMenu ul,ul.rMenu li,ul.rMenu a{display:block;margin:0;padding:0}ul.rMenu,ul.rMenu li,ul.rMenu ul{list-style:none}ul.rMenu ul{display:none}ul.rMenu li{position:relative;z-index:1}ul.rMenu li:hover{z-index:999}ul.rMenu li:hover > ul{display:block;position:absolute} ul.rMenu-hor li{float:left;width:auto}ul.rMenu-hRight li{float:right}ul.rMenu-ver li{float:none}* html a.posts-icon,a.comments-icon,a.email-icon,img.logo{behavior:url("http://www.theimproper.com/wp-content/themes/atahualpa/js/iepngfix.php") }.clearfix:after{ content:".";display:block;height:0;clear:both;visibility:hidden}.clearfix{min-width:0;display:inline-block;display:block}* html .clearfix{height:1%;}.clearboth{clear:both;height:1%;font-size:1%;line-height:1%;display:block;padding:0;margin:0}#comments,.comment p,.comment{color:black;</style>
+<style type="text/css">body{text-align:center;margin:0;padding:0;font-family:verdana,arial,sans-serif;font-size:0.8em;color:#000000;background:#7A7575;margin:0;padding-top:0px}a:link,a:visited,a:active{color:#870000;font-weight:bold;text-decoration:none;}a:hover{color:#22FF00;font-weight:bold;text-decoration:none}ul,ol,dl,p,h1,h2,h3,h4,h5,h6{margin-top:10px;margin-bottom:10px;padding-top:0;padding-bottom:0;}ul ul,ul ol,ol ul,ol ol{margin-top:0;margin-bottom:0}h1,h2,h3,h4,h5,h6{color:#000;display:block;font-smooth:always}h1{font-size:34px;line-height:1.2;margin:0.3em 0 10px;}h2{font-size:28px;line-height:1.3;margin:1em 0 .2em;}h3{font-size:24px;line-height:1.3;margin:1em 0 .2em;}h4{font-size:19px;margin:1.33em 0 .2em;}h5{font-size:1.3em;margin:1.67em 0;font-weight:bold;}h6{font-size:1.15em;margin:1.67em 0;font-weight:bold;}h1 a,h2 a,h1 a:link,h2 a:link,h1 a:visited,h2 a:visited{color:#000;}h1 a:active,h2 a:active,h1 a:focus,h2 a:focus,h1 a:hover,h2 a:hover{color:#669900;}code,pre{font-family:"Courier New",Courier,monospace;font-size:1em}pre{overflow:auto;word-wrap:normal;padding-bottom:1.5em;overflow-y:hidden;width:99%}abbr[title],acronym[title]{border-bottom:1px dotted}hr{display:block;height:2px;border:none;margin:0.5em auto;color:#cccccc;background-color:#cccccc}table{font-size:1em;}div.post,ul.commentlist li,ol.commentlist li{word-wrap:break-word;}pre,.wp_syntax{word-wrap:normal;}div#wrapper{text-align:center;margin-left:auto;margin-right:auto;display:block;width:990px}div#container{padding:0;background:#f2f2f2;border:solid 1px #870000;width:auto;margin-left:auto;margin-right:auto;text-align:left;display:block}table#layout{font-size:100%;width:100%;table-layout:fixed}.colone{width:170px}.colone-inner{width:200px}.coltwo{width:100% }.colthree-inner{width:250px}.colthree{width:325px}td#header{width:auto;padding:0}table#logoarea,table#logoarea tr,table#logoarea td{margin:0;padding:0;background:none;border:0}table#logoarea{width:100%;border-spacing:0px;height:130px;border:solid 1px #7800000}img.logo{display:block;margin:10 10px 0 0}td.logoarea-logo{width:1%}h1.blogtitle,h2.blogtitle{ display:block;margin:0;padding:0;letter-spacing:-1px;line-height:1.0em;font-family:tahoma,arial,sans-serif;font-size:240%;font-smooth:always}h1.blogtitle a:link,h1.blogtitle a:visited,h1.blogtitle a:active,h2.blogtitle a:link,h2.blogtitle a:visited,h2.blogtitle a:active{ text-decoration:none;color:#666666;font-weight:bold;font-smooth:always}h1.blogtitle a:hover,h2.blogtitle a:hover{ text-decoration:none;color:#000000;font-weight:bold}p.tagline{margin:0;padding:0;font-size:1.2em;font-weight:bold;color:#666666}td.feed-icons{white-space:nowrap;}div.rss-box{height:1%;display:block;padding:10px 0 10px 10px;margin:0;width:280px}a.comments-icon{height:22px;line-height:22px;margin:0 5px 0 5px;padding-left:22px;display:block;text-decoration:none;float:right;white-space:nowrap}a.comments-icon:link,a.commentss-icon:active,a.comments-icon:visited{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/comment-gray.png) no-repeat scroll center left}a.comments-icon:hover{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/comment.png) no-repeat scroll center left}a.posts-icon{height:22px;line-height:22px;margin:0 5px 0 0;padding-left:20px;display:block;text-decoration:none;float:right;white-space:nowrap}a.posts-icon:link,a.posts-icon:active,a.posts-icon:visited{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/rss-gray.png) no-repeat scroll center left}a.posts-icon:hover{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/rss.png) no-repeat scroll center left}a.email-icon{height:22px;line-height:22px;margin:0 5px 0 5px;padding-left:24px;display:block;text-decoration:none;float:right;white-space:nowrap}a.email-icon:link,a.email-icon:active,a.email-icon:visited{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/email-gray.png) no-repeat scroll center left}a.email-icon:hover{background:transparent url(http://www.theimproper.com/wp-content/themes/atahualpa/images/email.png) no-repeat scroll center left}td.search-box{height:1%}div.searchbox{height:35px;border:1px dashed #cccccc;border-bottom:0;width:200px;margin:0;padding:0}div.searchbox-form{margin:5px 10px 5px 10px}div.horbar1,div.horbar2{font-size:1px;clear:both;display:block;position:relative;padding:0;margin:0;width:100%;}div.horbar1{height:10px;background:#ffffff;border-top:solid 1px #780000}div.horbar2{height:2px;background:#ffffff;border-bottom:solid 1px #780000}div.opacityleft{position:absolute;z-index:2;top:0;left:0;background-color:#ffffff;height:150px;width:200px;filter:alpha(opacity=40);-moz-opacity:.40;opacity:.40}div.opacityright{position:absolute;z-index:2;top:0;right:0;background-color:#ffffff;height:150px;width:200px;filter:alpha(opacity=40);-moz-opacity:.40;opacity:.40}a.divclick:link,a.divclick:visited,a.divclick:active,a.divclick:hover{width:100%;height:100%;display:block;text-decoration:none}td#left{vertical-align:top;border-right:dashed 1px #CCCCCC;padding:0px 0px 0px 0px;background:#ffffff}td#left-inner{vertical-align:top;border-right:dashed 1px #CCCCCC;padding:10px 10px 10px 10px;background:#ffffff}td#right{vertical-align:top;border-left:dashed 1px #CCCCCC;padding:5px 0px 0px 0px;background:#ffffff}td#right-inner{vertical-align:top;border-left:dashed 1px #CCCCCC;padding:5px 5px 5px 5px;background:#ffffff}td#middle{vertical-align:top;width:100%;padding:10px 15px;background-color:#ffffff}td#footer{width:auto;background-color:#ffffff;border-top:dashed 1px #cccccc;padding:10px;text-align:center;color:#777777;font-size:95%}td#footer a:link,td#footer a:visited,td#footer a:active{text-decoration:none;color:#777777;font-weight:normal}td#footer a:hover{text-decoration:none;color:#777777;font-weight:normal}div.widget{display:block;width:auto;margin:0 0 0px 0;padding-left:0px;padding-bottom:0px;padding-right:7px}div.widget-title{display:block;width:auto;color:#870000}div.widget-title h3,td#left h3.tw-widgettitle,td#right h3.tw-widgettitle,td#left ul.tw-nav-list,td#right ul.tw-nav-list{padding:0;margin:0;font-size:1.8em;font-weight:bold;color:#870000;padding-left:5px;font:Franklin Gothic Medium}div.widget ul,div.textwidget{display:block;width:auto;font-size:0.8em;font-weight:normal;color:#870000;padding-left:3px;font:Franklin Gothic Medium}div.widget select{width:98%;margin-top:5px;}div.widget ul{list-style-type:none;margin:0;padding:0;width:auto}div.widget ul li{display:block;margin:2px 0 2px 5px;padding:0 0 0 10px;border-left:solid 9px #870000}div.widget ul li:hover,div.widget ul li.sfhover{display:block;width:auto;border-left:solid 9px #00FF00;}div.widget ul li ul li{margin:2px 0 2px 5px;padding:0 0 0 5px;border-left:solid 7px #870000;}div.widget ul li ul li:hover,div.widget ul li ul li.sfhover{border-left:solid 7px #000000;}div.widget ul li ul li ul li{margin:2px 0 2px 5px;padding:0 0 0 5px;border-left:solid 7px #000000;}div.widget ul li ul li ul li:hover,div.widget ul li ul li ul li.sfhover{border-left:solid 7px #00FF00;}div.widget ul li a:link,div.widget ul li a:visited,div.widget ul li a:active{text-decoration:none;font-weight:normal;color:#000000;font-weight:normal;}div.widget ul li ul li a:link,div.widget ul li ul li a:visited,div.widget ul li ul li a:active{color:#000000;font-weight:normal;}div.widget ul li ul li ul li a:link,div.widget ul li ul li ul li a:visited,div.widget ul li ul li ul li a:active{color:#000000;font-weight:normal;}div.widget ul li a:hover{color:#00FF00;}div.widget ul li ul li a:hover{color:#00FF00;}div.widget ul li ul li ul li a:hover{color:#00FF00;}div.widget ul li a:link,div.widget ul li a:visited,div.widget ul li a:active,div.widget ul li a:hover{display:inline}* html div.widget ul li a:link,* html div.widget ul li a:visited,* html div.widget ul li a:active,* html div.widget ul li a:hover{height:1%; } div.widget_pages ul li,div.widget_categories ul li{border-left:0 !important;padding:0 !important}div.widget_pages ul li a:link,div.widget_pages ul li a:visited,div.widget_pages ul li a:active,div.widget_categories ul li a:link,div.widget_categories ul li a:visited,div.widget_categories ul li a:active{padding:0 0 0 10px;border-left:solid 9px #870000}div.widget_pages ul li a:hover,div.widget_categories ul li a:hover{border-left:solid 9px #00FF00;}div.widget_pages ul li ul li a:link,div.widget_pages ul li ul li a:visited,div.widget_pages ul li ul li a:active,div.widget_categories ul li ul li a:link,div.widget_categories ul li ul li a:visited,div.widget_categories ul li ul li a:active{padding:0 0 0 5px;border-left:solid 7px #870000}div.widget_pages ul li ul li a:hover,div.widget_categories ul li ul li a:hover{border-left:solid 7px #000000;}div.widget_pages ul li ul li ul li a:link,div.widget_pages ul li ul li ul li a:visited,div.widget_pages ul li ul li ul li a:active,div.widget_categories ul li ul li ul li a:link,div.widget_categories ul li ul li ul li a:visited,div.widget_categories ul li ul li ul li a:active{padding:0 0 0 5px;border-left:solid 7px #000000}div.widget_pages ul li ul li ul li a:hover,div.widget_categories ul li ul li ul li a:hover{border-left:solid 7px #00FF00;}div.widget_pages ul li a:link,div.widget_pages ul li a:active,div.widget_pages ul li a:visited,div.widget_pages ul li a:hover{display:block !important}div.widget_categories ul li a:link,div.widget_categories ul li a:active,div.widget_categories ul li a:visited,div.widget_categories ul li a:hover{display:inline !important}table.subscribe{width:100%}table.subscribe td.email-text{padding:0 0 5px 0;vertical-align:top}table.subscribe td.email-field{padding:0;width:100%}table.subscribe td.email-button{padding:0 0 0 5px}table.subscribe td.post-text{padding:7px 0 0 0;vertical-align:top}table.subscribe td.comment-text{padding:7px 0 0 0;vertical-align:top}div.post,div.page{display:block;margin:10 10 30px 10}div.sticky{background:#eee url(http://www.theimproper.com/wp-content/themes/atahualpa/images/sticky.gif) 99% 5% no-repeat;border:dashed 1px #cccccc;padding:10px}div.post-kicker{margin:0 0 10px 0;background-color:#080808}div.post-kicker a:link,div.post-kicker a:visited,div.post-kicker a:active{color:#ffffff;text-decoration:none;text-transform:uppercase;padding-left:5px;}div.post-kicker a:hover{color:#00ff00}div.post-headline{}div.post-headline h1,div.post-headline h2{ margin:0; padding:0;padding:0;margin:0;font-size:34px;color:#870000;Font-style:'Franklin Gothic Medium';line-height:36px}div.post-headline h2 a:link,div.post-headline h2 a:visited,div.post-headline h2 a:active,div.post-headline h1 a:link,div.post-headline h1 a:visited,div.post-headline h1 a:active{color:#870000;text-decoration:none;font-size:34px;Font-style:'Franklin Gothic Medium';line-height:36px}div.post-headline h2 a:hover,div.post-headline h1 a:hover{color:#00ff00;text-decoration:none;font-size;34px;font-style:'Franklin Gothic Medium'}div.post-byline{margin:5px 0 10px 0;color:#000000}div.post-byline a:link,div.post-byline a:visited,div.post-byline a:active{color:#000000}div.post-byline a:hover{color:#00ff00}div.post-bodycopy{color:#000000}div.post-bodycopy p{margin:1em 0;padding:0;display:block}div.post-pagination{}div.post-footer{clear:both;display:block;%bar1margin:5px;padding:10px;background:#ffffff;color:#666;line-height:18px}div.post-footer a:link,div.post-footer a:visited,div.post-footer a:active{color:#000000;font-weight:normal;text-decoration:none}div.post-footer a:hover{color:#00ff00;font-weight:normal;text-decoration:underline}div.post-kicker img,div.post-byline img,div.post-footer img{border:0;padding:0;margin:0 0 -1px 0;background:none}span.post-ratings{display:inline-block;width:auto;white-space:nowrap}div.navigation-top{display:block;width:100%;margin:0 0 10px 0;padding:0 0 10px 0;border-bottom:dashed 1px #cccccc}div.navigation-middle{display:block;width:100%;margin:10px 0 20px 0;padding:10px 0 10px 0;border-top:dashed 1px #cccccc;border-bottom:dashed 1px #cccccc}div.navigation-bottom{display:block;width:100%;margin:20px 0 0 0;padding:10px 0 0 0;border-top:dashed 1px #cccccc}div.navigation-comments-above{display:block;width:100%;margin:0 0 10px 0;padding:5px 0 5px 0}div.navigation-comments-below{display:block;width:100%;margin:0 0 10px 0;padding:5px 0 5px 0}div.older{float:left;width:49%;text-align:left;margin:0;padding:0}div.newer{float:right;width:49%;text-align:right;margin:0;padding:0;}div.older-home{float:left;width:45%;text-align:left;margin:0;padding:0}div.newer-home{float:right;width:45%;text-align:right;margin:0;padding:0;}div.home{float:left;width:9%;text-align:center;margin:0;padding:0}form,.feedburner-email-form{margin:0;padding:0;}fieldset{border:1px solid #cccccc;width:auto;padding:0.35em 0.625em 0.75em;display:block;}legend{color:#000000;background:#f4f4f4;border:1px solid #cccccc;padding:2px 6px;margin-bottom:15px;}form p{margin:5px 0 0 0;padding:0;}label{margin-right:0.5em;font-family:arial;cursor:pointer;}input.text,input.textbox,input.password,input.file,input.TextField,textarea{padding:3px;color:#000000;border-top:solid 1px #333333;border-left:solid 1px #333333;border-right:solid 1px #999999;border-bottom:solid 1px #cccccc;background:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/inputbackgr.gif) top left no-repeat}textarea{width:96%;}input.inputblur{color:#777777;width:95%}input.inputfocus{color:#000000;width:95%}input.highlight,textarea.highlight{background:#e8eff7;border-color:#37699f}.button,.Button{padding:0 2px;height:24px;line-height:16px;background-color:#777777;color:#ffffff;border:solid 2px #555555;font-weight:bold}.buttonhover{padding:0 2px;cursor:pointer;background-color:#6b9c6b;color:#ffffff;border:solid 2px #496d49}form#commentform input#submit{padding:4px 10px 4px 10px;font-size:1.2em;line-height:1.5em;height:36px}table.searchform{width:100%}table.searchform td.searchfield{padding:0;width:100%}table.searchform td.searchbutton{padding:0 0 0 5px}table.searchform td.searchbutton input{padding:0 0 0 5px}blockquote{height:1%;display:block;clear:both;margin:5px 0px 5px 10px;color:#780000;padding:1em 1em;background:#ffffcc;border:solid 1px #780000;width:350px;float:right}blockquote blockquote{height:1%;display:block;clear:both;color:#444444;padding:1em 1em;background:#e1e1e1;border:solid 1px #d3d3d3}div.post table{border-collapse:collapse;margin:10px 0}div.post table caption{width:auto;margin:0 auto;background:#ffffcc;border:#999999;padding:4px 8px;color:#ffffff}div.post table th{background:#ffffff;color:#ffffff;font-weight:bold;font-size:90%;padding:4px 8px;border:solid 1px #ffffff;text-align:left}div.post table td{padding:4px 8px;background:#ffffcc;border-bottom:1px solid #dddddd;text-align:left}div.post table tfoot td{}div.post table tr.alt td{background:#ffffcc}div.post table tr.over td{background:#ffffcc}#calendar_wrap{padding:0;border:none}table#wp-calendar{width:100%;font-size:90%;border-collapse:collapse;background-color:#ffffff;margin:0 auto}table#wp-calendar caption{width:auto;background:#eeeeee;border:none;;padding:3px;margin:0 auto;font-size:1em}table#wp-calendar th{border:solid 1px #eeeeee;background-color:#999999;color:#ffffff;font-weight:bold;padding:2px;text-align:center}table#wp-calendar td{padding:0;line-height:18px;background-color:#ffffff;border:1px solid #dddddd;text-align:center}table#wp-calendar tfoot td{border:solid 1px #eeeeee;background-color:#eeeeee}table#wp-calendar td a{display:block;background-color:#eeeeee;width:100%;height:100%;padding:0}div#respond{margin:25px 0;padding:25px;background:#A29B9B;-moz-border-radius:8px;-khtml-border-radius:8px;-webkit-border-radius:8px;border-radius:8px;font-color:#ffffff;}p.thesetags{margin:10px 0}h3.reply{margin:0;padding:0 0 10px 0}ol.commentlist{margin:15px 0 25px 0;list-style-type:none;padding:0;display:block;border-top:dotted 1px #cccccc}ol.commentlist li{padding:15px 10px;display:block;height:1%;margin:0;background-color:#C0C0C0;border-bottom:dotted 1px #cccccc}ol.commentlist li.alt{display:block;height:1%;background-color:#EEEEEE;border-bottom:dotted 1px #cccccc}ol.commentlist li.authorcomment{display:block;height:1%;background-color:#FFECEC}ol.commentlist span.authorname{font-weight:bold;font-size:110%}ol.commentlist span.commentdate{color:#666666;font-size:90%;margin-bottom:5px;display:block}ol.commentlist span.editcomment{display:block}ol.commentlist li p{margin:2px 0 5px 0}div.comment-number{float:right;font-size:2em;line-height:2em;font-family:georgia,serif;font-weight:bold;color:#ddd;margin:-10px 0 0 0;position:relative;height:1%}div.comment-number a:link,div.comment-number a:visited,div.comment-number a:active{color:#ccc}textarea#comment{width:98%;margin:10px 0;display:block}ul.commentlist{margin:15px 0 15px 0;list-style-type:none;padding:0;display:block;border-top:dotted 1px #cccccc}ul.commentlist ul{margin:0;border:none;list-style-type:none;padding:0}ul.commentlist li{padding:0; margin:0;display:block;clear:both;height:1%;}ul.commentlist ul.children li{ margin-left:30px}ul.commentlist div.comment-container{padding:10px;margin:0}ul.children div.comment-container{background-color:transparent;border:dotted 1px #ccc;padding:10px;margin:0 10px 8px 0; -moz-border-radius:5px; -khtml-border-radius:5px; -webkit-border-radius:5px; border-radius:5px}ul.children div.bypostauthor{}ul.commentlist li.thread-even{background-color:#C0C0C0;border-bottom:dotted 1px #cccccc}ul.commentlist li.thread-odd{background-color:#EEEEEE;border-bottom:dotted 1px #cccccc}ul.commentlist div.bypostauthor{background-color:#FFECEC}ul.children div.bypostauthor{border:dotted 1px #FFBFBF}ul.commentlist span.authorname{font-size:110%}div.comment-meta a:link,div.comment-meta a:visited,div.comment-meta a:active,div.comment-meta a:hover{font-weight:normal}div#cancel-comment-reply{margin:-5px 0 10px 0}div.comment-number{float:right;font-size:2em;line-height:2em;font-family:georgia,serif;font-weight:bold;color:#ddd;margin:-10px 0 0 0;position:relative;height:1%}div.comment-number a:link,div.comment-number a:visited,div.comment-number a:active{color:#ccc}.page-numbers{padding:2px 6px;border:solid 1px #000000;-moz-border-radius:6px;-khtml-border-radius:6px;-webkit-border-radius:6px;border-radius:6px}span.current{background:#ddd}a.prev,a.next{border:none}a.page-numbers:link,a.page-numbers:visited,a.page-numbers:active{text-decoration:none;color:#870000;border-color:#870000}a.page-numbers:hover{text-decoration:none;color:#22FF00;border-color:#22FF00}div.xhtml-tags{display:none}abbr em{border:none !important;border-top:dashed 1px #aaa !important;display:-moz-inline-box !important;display:inline-block !important;background:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/commentluv.gif) 0% 90% no-repeat;margin-top:8px;padding:5px 5px 2px 20px !important;font-style:normal}p.subscribe-to-comments{margin-bottom:10px}div#gsHeader{display:none;}div.g2_column{margin:0 !important;width:100% !important;font-size:1.2em}div#gsNavBar{border-top-width:0 !important}p.giDescription{font-size:1.2em;line-height:1 !important}p.giTitle{margin:0.3em 0 !important;font-size:1em;font-weight:normal;color:#666}div#wp-email img{border:0;padding:0}div#wp-email input,div#wp-email textarea{margin-top:5px;margin-bottom:2px}div#wp-email p{margin-bottom:10px}input#wp-email-submit{ padding:0; font-size:30px; height:50px; line-height:50px; overflow:visible;}img.WP-EmailIcon{ vertical-align:text-bottom !important}.tw-accordion .tw-widgettitle,.tw-accordion .tw-widgettitle:hover,.tw-accordion .tw-hovered,.tw-accordion .selected,.tw-accordion .selected:hover{ background:transparent !important; background-image:none !important}.tw-accordion .tw-widgettitle span{ padding-left:0 !important}.tw-accordion h3.tw-widgettitle{border-bottom:solid 1px #ccc}.tw-accordion h3.selected{border-bottom:none}td#left .without_title,td#right .without_title{ margin-top:0;margin-bottom:0}ul.tw-nav-list{border-bottom:solid 1px #999;display:block;margin-bottom:5px !important}td#left ul.tw-nav-list li,td#right ul.tw-nav-list li{padding:0 0 1px 0;margin:0 0 -1px 5px; border:solid 1px #ccc;border-bottom:none;-moz-border-radius:5px;-khtml-border-radius:5px;-webkit-border-radius:5px;border-radius:5px;-moz-border-radius-bottomright:0;-moz-border-radius-bottomleft:0;-webkit-border-bottom-right-radius:0;-webkit-border-bottom-left-radius:0;border-bottom-right-radius:0;border-bottom-left-radius:0;background:#eee}td#left ul.tw-nav-list li.ui-tabs-selected,td#right ul.tw-nav-list li.ui-tabs-selected{ background:none;border:solid 1px #999;border-bottom:solid 1px #fff !important}ul.tw-nav-list li a:link,ul.tw-nav-list li a:visited,ul.tw-nav-list li a:active,ul.tw-nav-list li a:hover{padding:0 8px !important;background:none;border-left:none !important;outline:none}td#left ul.tw-nav-list li.ui-tabs-selected a,td#left li.ui-tabs-selected a:hover,td#right ul.tw-nav-list li.ui-tabs-selected a,td#right li.ui-tabs-selected a:hover{ color:#000000; text-decoration:none;font-weight:bold;background:none !important;outline:none}td#left .ui-tabs-panel,td#right .ui-tabs-panel{ margin:0; padding:0}img{border:0}#dbem-location-map img{ background:none !important}.post img{}.post img.size-full{margin:5px 0 5px 0}.post img.alignleft{float:left;margin:10px 10px 5px 0;}.post img.alignright{float:right;margin:10px 0 5px 10px;}.post img.aligncenter{display:block;margin:10px auto}.aligncenter,div.aligncenter{ display:block; margin-left:auto; margin-right:auto}.alignleft,div.alignleft{float:left;margin:10px 10px 5px 0}.alignright,div.alignright{ float:right; margin:10px 0 5px 10px}div.archives-page img{border:0;padding:0;background:none;margin-bottom:0;vertical-align:-10%}.wp-caption{max-width:96%;width:auto 100%;height:auto;display:block;}* html .wp-caption{height:100%;}.wp-caption img{ margin:0 !important; padding:0 !important; border:0 none !important}.wp-caption p.wp-caption-text{font-size:0.8em;line-height:13px;padding:2px 4px 5px;margin:0;color:#000000;align:left}img.wp-smiley{ float:none;border:none !important;margin:0 1px -1px 1px;padding:0 !important;background:none !important}img.avatar{float:left;display:block;margin:0 8px 1px 0;padding:3px;border:solid 1px #ddd;background-color:#A29B9B;-moz-border-radius:3px;-khtml-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;}#comment_quicktags{text-align:left;padding:10px 0 2px 0;display:block}#comment_quicktags input.ed_button{background:#f4f4f4;border:2px solid #cccccc;color:#444444;margin:2px 4px 2px 0;width:auto;padding:0 4px;height:24px;line-height:16px}#comment_quicktags input.ed_button_hover{background:#dddddd;border:2px solid #666666;color:#000000;margin:2px 4px 2px 0;width:auto;padding:0 4px;height:24px;line-height:16px;cursor:pointer}#comment_quicktags #ed_strong{font-weight:bold}#comment_quicktags #ed_em{font-style:italic}div.sociable{margin:0;width:200px;display:inline}div.sociable-tagline{display:none}.sociable span{display:inline-block}.sociable ul{display:inline;margin:0 !important;padding:0 !important}.sociable ul li{background:none;display:inline;list-style-type:none;margin:0;padding:1px}.sociable ul li:before{content:"";}.sociable img{float:none;width:16px;height:16px;border:0;margin:0;padding:0}.sociable-hovers{opacity:.4;-moz-opacity:.4;filter:alpha(opacity=40);vertical-align:text-bottom}.sociable-hovers:hover{opacity:1;-moz-opacity:1;filter:alpha(opacity=100)}@media print{body{background:white;color:black;margin:0;font-size:10pt !important;font-family:arial,sans-serif;}div.post-footer{line-height:normal !important;color:#555 !important;font-size:9pt !important}a:link,a:visited,a:active,a:hover{text-decoration:underline !important;color:#000}h2{color:#000;font-size:14pt !important;font-weight:normal !important}h3{color:#000;font-size:12pt !important;}#header,#footer,.colone,.colthree,.navigation,.navigation-top,.navigation-middle,.navigation-bottom,.wp-pagenavi-navigation,#comment,#respond,.remove-for-print{display:none}td#left,td#right,td#left-inner,td#right-inner{width:0}td#middle{width:100%}*:lang(en) td#left{ display:none}*:lang(en) td#right{ display:none}*:lang(en) td#left-inner{ display:none}*:lang(en) td#right-inner{ display:none}td#left:empty{ display:none}td#right:empty{ display:none}td#left-inner:empty{ display:none}td#right-inner:empty{ display:none}}ul.rMenu,ul.rMenu ul,ul.rMenu li,ul.rMenu a{display:block;margin:0;padding:0}ul.rMenu,ul.rMenu li,ul.rMenu ul{list-style:none}ul.rMenu ul{display:none}ul.rMenu li{position:relative;z-index:1}ul.rMenu li:hover{z-index:999}ul.rMenu li:hover > ul{display:block;position:absolute} ul.rMenu-hor li{float:left;width:auto}ul.rMenu-hRight li{float:right}ul.rMenu-ver li{float:none}div#menu1 ul.rMenu-ver,div#menu1 ul.rMenu-ver ul{width:11em}div#menu2 ul.rMenu-ver,div#menu2 ul.rMenu-ver ul{width:11em}ul.rMenu-wide{width:100%}ul.rMenu-vRight{float:right}ul.rMenu-lFloat{float:left}ul.rMenu-noFloat{float:none}div.rMenu-center ul.rMenu{float:left;position:relative;left:50%}div.rMenu-center ul.rMenu li{position:relative;left:-50%}div.rMenu-center ul.rMenu li li{left:auto}ul.rMenu-hor ul{top:auto;right:auto;left:auto;margin-top:-1px}ul.rMenu-hor ul ul{margin-top:0;margin-left:0px}ul.rMenu-ver ul{left:100%;right:auto;top:auto;top:0}ul.rMenu-vRight ul,ul.rMenu-hRight ul.rMenu-ver ul{left:-100%;right:auto;top:auto}ul.rMenu-hRight ul{left:auto;right:0;top:auto;margin-top:-1px}div#menu1 ul.rMenu{background:#ffffff;border:dashed 1px #cccccc}div#menu2 ul.rMenu{background:#870000;border:solid 1px #870000}div#menu1 ul.rMenu li a{border:dashed 1px #cccccc}div#menu2 ul.rMenu li a{border:solid 1px #870000}ul.rMenu-hor li{margin-bottom:-1px;margin-top:-1px;margin-left:-1px}ul#rmenu li{}ul#rmenu li ul li{}ul.rMenu-hor{padding-left:1px }ul.rMenu-ver li{margin-left:0;margin-top:-1px; }div#menu1 ul.rMenu-ver{border-top:dashed 1px #cccccc}div#menu2 ul.rMenu-ver{border-top:solid 1px #870000}div#menu1 ul.rMenu li a{padding:4px 5px}div#menu2 ul.rMenu li a{padding:4px 5px}div#menu1 ul.rMenu li a:link,div#menu1 ul.rMenu li a:hover,div#menu1 ul.rMenu li a:visited,div#menu1 ul.rMenu li a:active{text-decoration:none;margin:0;padding:4px 5px;color:#777777;text-transform:uppercase;font:11px Arial,Verdana,sans-serif;}div#menu2 ul.rMenu li a:link,div#menu2 ul.rMenu li a:hover,div#menu2 ul.rMenu li a:visited,div#menu2 ul.rMenu li a:active{text-decoration:none;margin:0;padding:4px 5px;color:#FFFFFF;text-transform:uppercase;font:11px Arial,Verdana,sans-serif;}div#menu1 ul.rMenu li{background-color:#ffffff}div#menu2 ul.rMenu li{background-color:#870000}div#menu1 ul.rMenu li:hover,div#menu1 ul.rMenu li.sfhover{background:#dddddd}div#menu2 ul.rMenu li:hover,div#menu2 ul.rMenu li.sfhover{background:#000000}div#menu1 ul.rMenu li.current_page_item > a:link,div#menu1 ul.rMenu li.current_page_item > a:active,div#menu1 ul.rMenu li.current_page_item > a:hover,div#menu1 ul.rMenu li.current_page_item > a:visited{background-color:#eeeeee;color:#000000}div#menu1 ul.rMenu li.current_page_item a:link,div#menu1 ul.rMenu li.current_page_item a:active,div#menu1 ul.rMenu li.current_page_item a:hover,div#menu1 ul.rMenu li.current_page_item a:visited,div#menu1 ul.rMenu li a:hover{background-color:#eeeeee;color:#000000}div#menu2 ul.rMenu li.current-cat > a:link,div#menu2 ul.rMenu li.current-cat > a:active,div#menu2 ul.rMenu li.current-cat > a:hover,div#menu2 ul.rMenu li.current-cat > a:visited{background-color:#74F900;color:#FFFFFF}div#menu2 ul.rMenu li.current-cat a:link,div#menu2 ul.rMenu li.current-cat a:active,div#menu2 ul.rMenu li.current-cat a:hover,div#menu2 ul.rMenu li.current-cat a:visited,div#menu2 ul.rMenu li a:hover{background-color:#74F900;color:#FFFFFF}div#menu1 ul.rMenu li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a{padding-right:15px;padding-left:5px;background-repeat:no-repeat;background-position:100% 50%;background-image:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/expand-right.gif)}div#menu2 ul.rMenu li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a{padding-right:15px;padding-left:5px;background-repeat:no-repeat;background-position:100% 50%;background-image:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/expand-right-white.gif)}ul.rMenu-vRight li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-vRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a,ul.rMenu-hRight li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand a{padding-right:5px;padding-left:20px;background-image:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/expand-left.gif);background-repeat:no-repeat;background-position:-5px 50%}div#menu1 ul.rMenu-hor li.rMenu-expand a{padding-left:5px;padding-right:15px !important;background-position:100% 50%;background-image:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/expand-down.gif)}div#menu2 ul.rMenu-hor li.rMenu-expand a{padding-left:5px;padding-right:15px !important;background-position:100% 50%;background-image:url(http://www.theimproper.com/wp-content/themes/atahualpa/images/expand-down-white.gif)}div#menu1 ul.rMenu li.rMenu-expand li a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li a,div#menu1 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li a{background-image:none;padding-right:5px;padding-left:5px}div#menu2 ul.rMenu li.rMenu-expand li a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li a,div#menu2 ul.rMenu li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li.rMenu-expand li a{background-image:none;padding-right:5px;padding-left:5px}* html ul.rMenu{display:inline-block;display:block;position:relative;position:static}* html ul.rMenu ul{float:left;float:none}ul.rMenu ul{}* html ul.rMenu-ver li,* html ul.rMenu-hor li ul.rMenu-ver li{width:100%;float:left;clear:left}*:first-child+html ul.rMenu-ver > li{width:100%;float:left;clear:left}ul.rMenu li a{position:relative;min-width:0}* html ul.rMenu-hor li{width:11em;width:auto}* html div.rMenu-center{position:relative;z-index:1}* html ul.rMenu ul{display:block;position:absolute}* html ul.rMenu ul,* html ul.rMenu-hor ul,* html ul.rMenu-ver ul,* html ul.rMenu-vRight ul,* html ul.rMenu-hRight ul.rMenu-ver ul,* html ul.rMenu-hRight ul{left:-10000px}* html ul.rMenu li.sfhover{z-index:999}* html ul.rMenu li.sfhover ul{left:auto}* html ul.rMenu li.sfhover ul ul,* html ul.rMenu li.sfhover ul ul ul,* html ul.rMenu li.sfhover ul ul ul ul,* html ul.rMenu li.sfhover ul ul ul ul ul,* html ul.rMenu li.sfhover ul ul ul ul ul ul{display:none}* html ul.rMenu li.sfhover ul,* html ul.rMenu li li.sfhover ul,* html ul.rMenu li li li.sfhover ul,* html ul.rMenu li li li li.sfhover ul,* html ul.rMenu li li li li li.sfhover ul{display:block}* html ul.rMenu-ver li.sfhover ul{left:100%}* html ul.rMenu-vRight li.sfhover ul,* html ul.rMenu-hRight ul.rMenu-ver li.sfhover ul{left:-100%}* html ul.rMenu iframe{position:absolute;left:0;top:0;z-index:-1}* html ul.rMenu{margin-left:1px}* html ul.rMenu ul,* html ul.rMenu ul ul,* html ul.rMenu ul ul ul,* html ul.rMenu ul ul ul ul{margin-left:0}* html a.posts-icon,a.comments-icon,a.email-icon,img.logo{behavior:url("http://www.theimproper.com/wp-content/themes/atahualpa/js/iepngfix.php") }.clearfix:after{ content:".";display:block;height:0;clear:both;visibility:hidden}.clearfix{min-width:0;display:inline-block;display:block}* html .clearfix{height:1%;}.clearboth{clear:both;height:1%;font-size:1%;line-height:1%;display:block;padding:0;margin:0}#comments,.comment p,.comment{color:black;div.page div.post-headline{display:none !important}</style>
 <script type="text/javascript">
 //<![CDATA[
 
@@ -141,109 +234,227 @@ jQuery(document).ready(function(){
 
 //]]>
 </script>
+<!-- Dynamic Widgets v1.4.2 //-->
+<meta name="y_key" content="9012bb672fef7edd">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="google-site-verification" content="m3VOHqCB0a2t6yv6xsBM3LGnXfzt2VPHCaB6_XAx7yc">
+<meta name="msvalidate.01" content="427000AA5B2DA3F2833A17DC56EE5B90">
+<!--?php if (function_exists('orderstylejs')) { orderstylejs( 'start' ); } ?-->
+<style>@charset "UTF-8";
 
-<!-- Dynamic Widgets v1.3.7 //-->
-<link href="http://www.theimproper.com/css/dropdown/dropdown.css" media="all" rel="stylesheet" type="text/css">
-<link href="http://www.theimproper.com/css/dropdown/themes/mtv.com/default.ultimate.css" media="all" rel="stylesheet" type="text/css">
+/**
+ * Horizontal CSS Drop-Down Menu Module
+ *
+ * @file		dropdown.css
+ * @package		Dropdown
+ * @version		0.7.1
+ * @type		Transitional
+ * @stacks		597-599
+ * @browsers	Windows: IE6+, Opera7+, Firefox1+
+ *				Mac OS: Safari2+, Firefox2+
+ *
+ * @link		http://www.lwis.net/
+ * @copyright	2006-2008 Live Web Institute. All Rights Reserved.
+ *
+ */
 
+ul.dropdown,
+ul.dropdown li,
+ul.dropdown ul {
+ list-style: none;
+ margin: 0;
+ padding: 0;
+}
+
+ul.dropdown {
+ position: relative;
+ z-index: 597;
+ float: left;
+}
+
+ul.dropdown li {
+ float: left;
+ line-height: 1.3em;
+ vertical-align: middle;
+ zoom: 1;
+}
+
+ul.dropdown li.hover,
+ul.dropdown li:hover {
+ position: relative;
+ z-index: 599;
+ cursor: default;
+}
+
+ul.dropdown ul {
+ visibility: hidden;
+ position: absolute;
+ top: 100%;
+ left: 0;
+ z-index: 598;
+ width: 100%;
+}
+
+ul.dropdown ul li {
+ float: none;
+}
+
+ul.dropdown ul ul {
+ top: 1px;
+ left: 99%;
+}
+
+ul.dropdown li:hover > ul {
+ visibility: visible;
+}</style>
+<link href="http://www.theimproper.com/css/dropdown/themes/mtv.com/default.ultimate.css.pagespeed.ce.W9eWqDrAak.css" media="all" rel="stylesheet" type="text/css">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.theimproper.com/&#10;wp-content/themes/atahualpa/imagemenu/imageMenu.css">
+<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/471179402/feed.css">
+<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/551530807/feed.css">
 <!--[if lt IE 7]>
 <script type="text/javascript" src="js/jquery/jquery.js"></script>
 <script type="text/javascript" src="js/jquery/jquery.dropdown.js"></script>
 <![endif]-->
-
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.theimproper.com/&#10;wp-content/themes/atahualpa/imagemenu/imageMenu.css">
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<script type="text/javascript"> 
+_uacct = "UA-4313260-1";
+urchinTracker();
+</script>
 <script type="text/javascript" src="http://www.theimproper.com/wp-content/themes/atahualpa/imagemenu//mootools.js"></script>
 <script type="text/javascript" src="http://www.theimproper.com/wp-content/themes/atahualpa/imagemenu/imageMenu.js"></script>
+<script type="text/javascript">//<![CDATA[
 
-<script type="text/javascript" src="http://www.theimproper.com/media/bookmark.js"></script>
+<!-- Paste this code into an external JavaScript file named: bookMark.js  -->
 
-<meta name="google-site-verification" content="m3VOHqCB0a2t6yv6xsBM3LGnXfzt2VPHCaB6_XAx7yc">
+/* This script and many more are available free online at
+The JavaScript Source :: http://javascript.internet.com
+Created by: Philip Myers :: http://virtualipod.tripod.com/bookmark.html */
 
-<link rel="stylesheet" type="text/css" href="http://cache.blogads.com/471179402/feed.css"><!--[if IE 6]>
+function bookmark(url,title){
+  if ((navigator.appName == "Microsoft Internet Explorer") && (parseInt(navigator.appVersion) >= 4)) {
+  window.external.AddFavorite(url,title);
+  } else if (navigator.appName == "Netscape") {
+    window.sidebar.addPanel(title,url,"");
+  } else {
+    alert("Press CTRL-D (Netscape) or CTRL-T (Opera) to bookmark");
+  }
+}
+//]]></script>
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<!-- Place this tag in your head or just before your close body tag -->
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+<!--?php if (function_exists('orderstylejs')) { orderstylejs( 'end' ); } ?-->
+<!--[if IE 6]>
 <script type="text/javascript" src="http://www.theimproper.com/wp-content/themes/atahualpa/js/DD_roundies.js"></script>
 <script type="text/javascript">DD_roundies.addRule('a.posts-icon, a.comments-icon, a.email-icon, img.logo');</script>
 <![endif]-->
 </head>
-<body class="page page-id-73">
+<body class="page page-id-73 page-template-default">
+<!-- ValueClick Media InVue Code for TheImproper -->
+<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:62010,media_id:4,media_type:4,version:"1.0",ivfc: 15});}catch(e){}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:62010,media_id:4,media_type:4,version:"1.0",ivfc: 15});}catch(e){}}());</script>
+<!-- ValueClick Media InVue Code for TheImproper -->
 <div id="wrapper">
 <div id="container">
 <table id="layout" border="0" cellspacing="0" cellpadding="0">
 <colgroup>
 <col class="colone"><col class="coltwo">
-</colgroup> 
-	<tbody><tr>
-
-		<!-- Header -->
-		<td id="header" colspan="2">
-
-		<div class="horbar2">&nbsp;</div> 
-<table border="0" bgcolor="#870000" style="padding-left: 0px; float: left; padding-bottom: 0px; width: 990px; height: 40px; border: 10px;">
-<tbody><tr><td align="left"><span style="font-size: 14pt; padding-left:5px; color: white; font-family: 'Franklin Gothic Medium'" lang="EN">How You Can Help Us Support the Arts</span> </td>
-<td align="right"><input type="image" src="http://www.theimproper.com/media/donate.jpg" border="0" onclick="window.open(this.href='http://theimproper.com/media/pt_donate.htm', this.target, 'width=470, height=510, resizable, scrollbars');return false;"></td></tr></tbody></table>
+</colgroup>
+<tbody><tr>
+<!-- Header -->
+<td id="header" colspan="2">
 <div class="horbar2">&nbsp;</div>
-
-<table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: center; padding-bottom: 0px; width: 985px; height: 70px; border: 00px;">
-<tbody><tr><td><a href="http://www.kqzyfj.com/click-3488798-10688155" target="_top">
-<img src="http://www.ftjcfx.com/image-3488798-10688155" width="120" height="90" alt="" border="0"></a>
+<table border="0" bgcolor="#870000" style="padding-left: 0px; float: left; padding-bottom: 0px; width: 990px; height: 40px; border: 10px;">
+<tbody><tr><td align="left"><span style="font-size: 9pt; padding-left:5px; color: white; font-family: 'Franklin Gothic Medium'" lang="EN">TOP NEWS: </span></td><td><div id="menu2"><ul id="rmenu" class="clearfix rMenu-hor rMenu">
+<li class="cat-item cat-item-3"><a href="http://www.theimproper.com/?category_name=/arts">ARTS</a>
+</li>
+<li class="cat-item cat-item-69"><a href="http://www.theimproper.com/?category_name=/celebrities">CELEBRITIES</a>
+</li>
+<li class="cat-item cat-item-1465"><a href="http://www.theimproper.com/?category_name=/crime">CRIME</a>
+</li>
+<li class="cat-item cat-item-14"><a href="http://www.theimproper.com/?category_name=/entertainment">ENTERTAINMENT</a>
+</li>
+<li class="cat-item cat-item-7"><a href="http://www.theimproper.com/?category_name=/fashion">FASHION</a>
+</li>
+<li class="cat-item cat-item-6"><a href="http://www.theimproper.com/?category_name=/film">FILM</a>
+</li>
+<li class="cat-item cat-item-9"><a href="http://www.theimproper.com/?category_name=/gallery">GALLERY</a>
+</li>
+<li class="cat-item cat-item-1719"><a href="http://www.theimproper.com/?category_name=/media">MEDIA</a>
+</li>
+<li class="cat-item cat-item-4"><a href="http://www.theimproper.com/?category_name=/music">MUSIC</a>
+</li>
+<li class="cat-item cat-item-1096"><a href="http://www.theimproper.com/?category_name=/reality-tv">reality tv</a>
+</li>
+<li class="cat-item cat-item-1628"><a href="http://www.theimproper.com/?category_name=/sports">sports</a>
+</li>
+<li class="cat-item cat-item-345"><a href="http://www.theimproper.com/?category_name=/television">television</a>
+</li>
+<li class="cat-item cat-item-5"><a href="http://www.theimproper.com/?category_name=/theater">THEATER</a>
+</li>
+</ul></div>
 </td>
-
+<td align="center" width="90px"><input type="image" src="http://www.theimproper.com/media/xdonate.jpg.pagespeed.ce.FfMI_WQOmi.jpg" border="0" onclick="window.open(this.href='http://theimproper.com/media/pt_donate.htm', this.target, 'width=470, height=510, resizable, scrollbars');return false;" width="151" height="34"></td></tr></tbody></table>
+<div class="horbar2">&nbsp;</div>
+<div id="top_banner_widget" class="bfa_widget_area"><div id="text-91" class="widget widget_text">	<div class="textwidget"><table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: center; padding-bottom: 0px; width: 980px; height: 70px; border: 00px;">
+<tbody><tr><td><a href="http://www.kqzyfj.com/click-3488798-10410832"><img src="http://www.ftjcfx.com/image-3488798-10410832" width="120" height="90" alt="Free Shipping on Cell Phone Accessories" border="0"></a>
+</td>
 <td><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/629674348/feed.css">
 <script language="javascript" src="http://cache.blogads.com/629674348/feed.js"></script>
- </td>
+</td>
 <td><script>var ACE_AR = {Site: '758512', Size: '120090'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script></td>
-</tr></tbody></table>
-
-<div class="horbar2">&nbsp;</div>
-
+</tr></tbody></table></div>
+</div></div><div class="horbar2">&nbsp;</div>
 <table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: left; padding-bottom: 0px; width: 988px; height: 150px; border: 10px;">
 <tbody><tr>
-<td align="left"><a href="http://www.theimproper.com"><img src="http://www.theimproper.com/wp-content/themes/atahualpa/images/ImproperLogo-1.jpg" alt="The Improper" style="padding-left: 5px; float: left; padding-bottom: 0px; width: 528px; height: 150px; border: 0px;"></a> <p style="padding-top: 25px;"></p><div id="header_widget" class="bfa_widget_area"><div id="text-80" class="widget widget_text">			<div class="textwidget"><table border="0" bgcolor="#780000" style="padding-left: 10px; float: right; padding-bottom: 0px; width: 340px; height: 60px; border: 10px;">
+<td align="left"><a href="http://www.theimproper.com"><img src="http://www.theimproper.com/wp-content/themes/atahualpa/images/ImproperLogo-1.jpg.pagespeed.ce.pNEcqaSQmJ.jpg" alt="The Improper" style="padding-left: 5px; float: left; padding-bottom: 0px; width: 528px; height: 150px; border: 0px;" width="528" height="150"></a> <p style="padding-top:25px;"> </p><div id="header_widget" class="bfa_widget_area"><div id="text-80" class="widget widget_text">	<div class="textwidget"><table border="0" bgcolor="#780000" style="padding-left: 10px; float: right; padding-bottom: 0px; width: 340px; height: 60px; border: 10px;">
 <tbody><tr>
 <td align="center">&nbsp;&nbsp;<span style="font-size: 18pt; color: white; font-family: 'Franklin Gothic Medium'" lang="EN">New! Do It Yourself; Post Your Event on TheImproper</span><br><input name="pollOpt" type="button" value="Details Here" onclick="window.open(this.href='http://www.theimproper.com/media/pt_events.htm', this.target, 'width=460, height=750, resizable, scrollbars');return false;"></td></tr></tbody></table></div>
-		</div></div><p></p></td></tr></tbody></table>
-
-<table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: right; padding-bottom: 0px; width: 988px; height: 20px; border: 10px;"><tbody><tr>
-
+</div></div><p></p></td></tr></tbody></table>
+<table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: right; padding-bottom: 0px; width: 988px; height: 20px; border: 10px;">
+<tbody><tr><td><a href="http://twitter.com/TheImproperMag" class="twitter-follow-button" data-show-count="false">Follow </a><script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script></td>
+<td><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div class="fb-like" data-href="http://www.theimproper.com" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" data-font="tahoma"></div></td>
+<td align="left"><g:plusone size="medium"></g:plusone></td>
 <td align="right"><form action="http://www.google.com/cse" id="cse-search-box" target="_blank">
-  <div>
-    <input type="hidden" name="cx" value="partner-pub-3595381280072274:y4boxe-b8zl">
-    <input type="hidden" name="ie" value="ISO-8859-1">
-    <input type="text" name="q" size="31">
-    <input type="submit" name="sa" value="Search">
-  </div>
+<div>
+<input type="hidden" name="cx" value="partner-pub-3595381280072274:y4boxe-b8zl">
+<input type="hidden" name="ie" value="ISO-8859-1">
+<input type="text" name="q" size="31">
+<input type="submit" name="sa" value="Search">
+</div>
 </form>
 <script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
-</td></tr></tbody></table> 
-
+</td></tr></tbody></table>
 <div class="horbar2">&nbsp;</div>
-
-<table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: center; padding-bottom: 0px; width: 990px; height: 28px; border: 10px;">
-
+<table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: center; padding-bottom: 0px; width: 988px; height: 28px; border: 10px;">
 <tbody><tr><td align="center"><ul id="nav" class="dropdown dropdown-horizontal">
-	<li id="n-home"><a href="http://www.theimproper.com/">Home</a></li>
-
+<li id="n-home"><a href="http://www.theimproper.com/">Home</a></li>
 <li id="n-Columns"><a href="./" class="dir">Columns</a>
-		<ul>
-			<li class="first"><a href="http://www.theimproper.com/music/?author=2/">Between the Lines</a></li>
+<ul>
+<li class="first"><a href="http://www.theimproper.com/music/?author=2/">Between the Lines</a></li>
 <li class="first"><a href="./">Celebrity News &amp; Views</a></li>
 <li class="first"><a href="./">Fashion Forward</a></li>
 <li class="first"><a href="http://www.theimproper.com/fashion/?author=3/">Fashion Sense</a></li>
 <li class="first"><a href="./">Globe Trotter Dogma</a></li>
 <li class="first"><a href="./">Shrink Rap</a></li>
 <li class="first"><a href="./">Commentary</a></li></ul>
-
 </li><li id="n-Arts"><a href="http://www.theimproper.com/art/" class="dir">Arts</a>
-		<ul>
-			<li class="first"><a href="http://www.theimproper.com/art/?cat=3/">Museums</a></li>
+<ul>
+<li class="first"><a href="http://www.theimproper.com/art/?cat=3/">Museums</a></li>
 <li class="first"><a href="http://www.theimproper.com/art/?cat=4/">Galleries</a></li>
 <li class="first"><a href="http://www.theimproper.com/art/?cat=6/">Special Exhibits</a></li>
 <li class="first"><a href="http://www.theimproper.com/art/?cat=7/">Performance</a></li>
 <li class="first"><a href="http://www.theimproper.com/art/?cat=5/">Auctions</a></li>
 <li class="first"><a href="http://www.theimproper.com/art/?cat=8/">General</a></li></ul>
-
-
 </li><li id="n-music"><a href="http://www.theimproper.com/music/" class="dir">Music</a>
-		<ul>
+<ul>
 <li class="first"><a href="http://www.theimproper.com/music/?cat=3/" class="dir">Pop</a></li>
 <li class="first"><a href="http://www.theimproper.com/music/?cat=4/" class="dir">Rock</a></li>
 <li class="first"><a href="http://www.theimproper.com/music/?cat=5/" class="dir">Hip-Hop</a></li>
@@ -253,17 +464,16 @@ jQuery(document).ready(function(){
 <li class="first"><a href="http://www.theimproper.com/music/?cat=9/" class="dir">Dance</a></li>
 <li class="first"><a href="http://www.theimproper.com/music/?cat=10/" class="dir">Country</a></li>
 <li class="first"><a href="http://www.theimproper.com/music/?cat=11/" class="dir">Classical</a></li>
-		</ul>
-	</li>
-	
+</ul>
+</li>
 <li id="n-Theater"><a href="http://www.theimproper.com/theater/" class="dir">Theater</a>
-		<ul>
+<ul>
 <li class="first"><a href="http://www.theimproper.com/theater/?cat=3/" class="dir">Broadway</a></li>
 <li class="first"><a href="http://www.theimproper.com/theater/?cat=6/" class="dir">Off-Broadway</a></li>
-<li class="first"><a href="http://www.theimproper.com/theater/?cat=5/" class="dir">Community</a></li>		</ul>
-	</li>
+<li class="first"><a href="http://www.theimproper.com/theater/?cat=5/" class="dir">Community</a></li>	</ul>
+</li>
 <li id="n-Film"><a href="http://www.theimproper.com/film/" class="dir">Film</a>
-		<ul>
+<ul>
 <li class="first"><a href="http://www.theimproper.com/film/?cat=3/" class="dir">Drama</a></li>
 <li class="first"><a href="http://www.theimproper.com/film/?cat=4/" class="dir">Action/Adventure</a></li>
 <li class="first"><a href="http://www.theimproper.com/film/?cat=5/" class="dir">Comedy</a></li>
@@ -271,194 +481,179 @@ jQuery(document).ready(function(){
 <li class="first"><a href="http://www.theimproper.com/film/?cat=7/" class="dir">Sci Fi</a></li>
 <li class="first"><a href="http://www.theimproper.com/film/?cat=8/" class="dir">Romance</a></li>
 <li class="first"><a href="http://www.theimproper.com/film/?cat=11/" class="dir">Indie</a></li>
-		</ul>
-	</li>
-
+</ul>
+</li>
 <li id="n-Fashion"><a href="http://www.theimproper.com/fashion/" class="dir">Fashion</a>
-		<ul>
-			<li class="first"><a href="http://www.theimproper.com/fashion/?cat=3/" class="dir">New York</a></li>
+<ul>
+<li class="first"><a href="http://www.theimproper.com/fashion/?cat=3/" class="dir">New York</a></li>
 <li class="first"><a href="http://www.theimproper.com/fashion/?cat=5/" class="dir">Paris</a></li>
 <li class="first"><a href="http://www.theimproper.com/fashion/?cat=4/" class="dir">London</a></li>
 <li class="first"><a href="http://www.theimproper.com/fashion/?cat=6/" class="dir">Milan</a></li>
 <li class="first"><a href="http://www.theimproper.com/fashion/?cat=11/" class="dir">Miami</a></li>
-<li class="first"><a href="http://www.theimproper.com/fashion/?cat=7/" class="dir">International</a></li>		</ul>
-	</li>
-
+<li class="first"><a href="http://www.theimproper.com/fashion/?cat=7/" class="dir">International</a></li>	</ul>
+</li>
 <li id="n-Dining"><a href="http://www.theimproper.com/dining/" class="dir">Dining</a>
-	
 <ul>
-			<li class="first"><a href="http://www.theimproper.com/dining/?cat=6/" class="dir">Manhattan</a>
-				<ul>
-			<li class="first"><a href="http://www.theimproper.com/dining/?tag=manhattan-american/">American</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-italian/">Italian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-french/">French</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-asian/">Asian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-indian/">Indian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-mexican/">Mexican</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-seafood/">Seafood</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-ethnic/">Ethnic</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=manhattan-casual/">Casual</a></li></ul>
-
+<li class="first"><a href="http://www.theimproper.com/dining/?cat=6/" class="dir">Manhattan</a>
+<ul>
+<li class="first"><a href="http://www.theimproper.com/dining/?tag=manhattan-american/">American</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-italian/">Italian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-french/">French</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-asian/">Asian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-indian/">Indian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-mexican/">Mexican</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-seafood/">Seafood</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-ethnic/">Ethnic</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=manhattan-casual/">Casual</a></li></ul>
 </li><li class="first"><a href="http://www.theimproper.com/dining/?cat=7/" class="dir">Hamptons</a>
-				<ul>
-			<li class="first"><a href="http://www.theimproper.com/dining/?tag=american/">American</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=hanmptons-italian/">Italian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=hamptons-french/">French</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=hamptons-asian/">Asian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=hamptons-Indian/">Indian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=hamptons-Mexican/">Mexican</a></li>
+<ul>
+<li class="first"><a href="http://www.theimproper.com/dining/?tag=american/">American</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=hanmptons-italian/">Italian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=hamptons-french/">French</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=hamptons-asian/">Asian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=hamptons-Indian/">Indian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=hamptons-Mexican/">Mexican</a></li>
 <li><a href="http://www.theimproper.com/dining/?tag=hamptons-seafood/">Seafood</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=hamptons-ethnic/">Ethnic</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=hamptons-casual/">Casual</a></li></ul>
-
+<li><a href="http://www.theimproper.com/dining/?tag=hamptons-ethnic/">Ethnic</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=hamptons-casual/">Casual</a></li></ul>
 </li><li class="first"><a href="http://www.theimproper.com/dining/?cat=8/" class="dir">Long Island</a>
-				<ul>
-			<li class="first"><a href="http://www.theimproper.com/dining/?tag=american/">American</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-italian/">Italian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-french/">French</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-asian/">Asian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-indian/">Indian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-mexican/">Mexican</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-seafood/">Seafood</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-ethnic/">Ethnic</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=longisland-casual/">Casual</a></li></ul>
-
-			</li><li class="first"><a href="http://www.theimproper.com/dining/?cat=9/" class="dir">Greater New York</a>
-				<ul>
-			<li class="first"><a href="http://www.theimproper.com/dining/?tag=american/">American</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-italian/">Italian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-french/">French</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-asian/">Asian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-indian/">Indian</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-mexican/">Mexican</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-seafood/">Seafood</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-ethnic/">Ethnic</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=newyork-casual/">Casual</a></li></ul>
-	
-
+<ul>
+<li class="first"><a href="http://www.theimproper.com/dining/?tag=american/">American</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-italian/">Italian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-french/">French</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-asian/">Asian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-indian/">Indian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-mexican/">Mexican</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-seafood/">Seafood</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-ethnic/">Ethnic</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=longisland-casual/">Casual</a></li></ul>
+</li><li class="first"><a href="http://www.theimproper.com/dining/?cat=9/" class="dir">Greater New York</a>
+<ul>
+<li class="first"><a href="http://www.theimproper.com/dining/?tag=american/">American</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-italian/">Italian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-french/">French</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-asian/">Asian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-indian/">Indian</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-mexican/">Mexican</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-seafood/">Seafood</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-ethnic/">Ethnic</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=newyork-casual/">Casual</a></li></ul>
 </li></ul>
-		
 </li><li id="n-Events"><a href="http://www.theimproper.com/calendar/" class="dir">Events</a>
 <ul>
-
 <li class="first"><a href="./" class="dir">Arts</a>
-
 <ul>
-			<li class="first"><a href="http://www.theimproper.com/calendar/?tag=museums/">Museums</a></li>
-			<li><a href="http://www.theimproper.com/calendar/?tag=galleries/">Galleries</a></li>
-			<li><a href="http://www.theimproper.com/calendar/?tag=auctions/">Auctions</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=special/">Special Exhibits</a></li>
-			<li><a href="http://www.theimproper.com/dining/?tag=performance/">Performance</a></li>
-			<li><a href="http://www.theimproper.dreamhosters.com/dining/?tag=general/">General</a></li>
-			</ul>
-
-
+<li class="first"><a href="http://www.theimproper.com/calendar/?tag=museums/">Museums</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=galleries/">Galleries</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=auctions/">Auctions</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=special/">Special Exhibits</a></li>
+<li><a href="http://www.theimproper.com/dining/?tag=performance/">Performance</a></li>
+<li><a href="http://www.theimproper.dreamhosters.com/dining/?tag=general/">General</a></li>
+</ul>
 </li><li class="first"><a href="./" class="dir">Entertainment</a>
 <ul>
-					<li class="first"><a href="http://www.theimproper.com/calendar/?tag=concerts/">Concerts</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=clubs/">Clubs</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=comedy/">Comedy</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=public/">Public</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=special/">Special Events</a></li>
-					
-				</ul>
-
+<li class="first"><a href="http://www.theimproper.com/calendar/?tag=concerts/">Concerts</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=clubs/">Clubs</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=comedy/">Comedy</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=public/">Public</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=special/">Special Events</a></li>
+</ul>
 </li><li class="first"><a href="./" class="dir">Theater</a>
 <ul>
-		<li><a href="http://www.theimproper.com/calendar/?tag=theater-broadway/">Broadway</a></li>
-		<li><a href="http://www.theimproper.com/calendar/?tag=theater-off-broadway/">Off-Broadway</a></li>
-		<li><a href="http://www.theimproper.com/calendar/?tag=community/">Community</a></li>
-		<li><a href="http://www.theimproper.com/calendar/?tag=theater-regional/">Regional</a></li>
-                <li><a href="http://www.theimproper.com/calendar/?tag=theater-international/">International</a></li>
-				
-				</ul>
-
+<li><a href="http://www.theimproper.com/calendar/?tag=theater-broadway/">Broadway</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=theater-off-broadway/">Off-Broadway</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=community/">Community</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=theater-regional/">Regional</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=theater-international/">International</a></li>
+</ul>
 </li><li class="first"><a href="./" class="dir">Living</a>
 <ul>
-					<li><a href="http://www.theimproper.com/calendar/?tag=galas/">Galas</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=benefits/">Benefits</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=community/">Community</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=family/">Famly</a></li>
-					<li><a href="http://www.theimproper.com/calendar/?tag=special/">Special Events</a></li></ul>
+<li><a href="http://www.theimproper.com/calendar/?tag=galas/">Galas</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=benefits/">Benefits</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=community/">Community</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=family/">Famly</a></li>
+<li><a href="http://www.theimproper.com/calendar/?tag=special/">Special Events</a></li></ul>
 </li></ul>
-
 </li></ul></td></tr></tbody></table>
-
 <div class="horbar2">&nbsp;</div>
-
-<table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: center; padding-bottom: 0px; width: 985px; height: 70px; border: 00px;">
-<tbody><tr><td><a href="http://www.kqzyfj.com/click-3488798-10542094" target="_top">
-<img src="http://www.awltovhc.com/image-3488798-10542094" width="120" height="90" alt="CBS Store.com - Shop now!" border="0"></a>
-</td>
-
-<td><script>var ACE_AR = {Site: '756036', Size: '728090'};</script> <script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script>
- </td>
-<td><a href="http://www.kqzyfj.com/click-3488798-10591155" target="_top">
+<div id="middle_banner_widget" class="bfa_widget_area"><div id="text-95" class="widget widget_text">	<div class="textwidget"><table border="0" bgcolor="#ffffff" style="padding-left: 0px; float: center; padding-bottom: 0px; width: 985px; height: 70px; border: 00px;">
+<tbody><tr><td><iframe src="http://rcm.amazon.com/e/cm?t=theimprcom-20&amp;o=1&amp;p=20&amp;l=ur1&amp;category=kindle&amp;banner=1KNAV7AGS7WAHJ5Z5ER2&amp;f=ifr" width="120" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></td>
+<td><link rel="stylesheet" type="text/css" href="http://cache.blogads.com/906752564/feed.css">
+<script language="javascript" src="http://cache.blogads.com/906752564/feed.js"></script></td>
+<td align="right"><a href="http://www.kqzyfj.com/click-3488798-10591155" target="_top">
 <img src="http://www.lduhtrp.net/image-3488798-10591155" width="120" height="90" alt="" border="0"></a></td>
-</tr></tbody></table>
-<div class="horbar2">&nbsp;</div>
-		</td>
-		<!-- / Header -->
-
-	</tr>
-
-	<!-- Main Body -->	
-	<tr id="bodyrow">
-
-				<!-- Left Sidebar -->
-		<td id="left">
-
-			<div id="text-73" class="widget widget_text">			<div class="textwidget"><table style="float: center; width:157px;"><tbody><tr><td><script language="javascript" src="http://cache.blogads.com/471179402/feed.js"></script><br><a href="http://www.blogads.com"></a> </td></tr></tbody></table></div>
-		</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><hr>
+</tr></tbody></table></div>
+</div></div><div class="horbar2">&nbsp;</div>
+<div id="banner_headline" class="bfa_widget_area"></div>
+</td>
+<!-- / Header -->
+</tr>
+<!-- Main Body -->
+<tr id="bodyrow">
+<!-- Left Sidebar -->
+<td id="left">
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-73" class="widget widget_text">	<div class="textwidget"><table style="float: left; width:157px;"><tbody><tr><td><script language="javascript" src="http://cache.blogads.com/471179402/feed.js"></script><br><a href="http://www.blogads.com"></a> </td></tr></tbody></table></div>
+</div><!-- WP Widget Cached text-73 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-111" class="widget widget_text">	<div class="textwidget"><!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for TheImproper -->
+<script src="http://cdn.fastclick.net/js/adcodes/pubcode.min.js"></script><script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript">(function () {try{VCM.media.render({sid:62010,media_type:7,version:"1.0"});} catch(e){}}());</scr' + 'ipt>');</script><script type="text/javascript">(function () {try{VCM.media.render({sid:62010,media_type:7,version:"1.0"});} catch(e){}}());</script><noscript><a href="http://media.fastclick.net/w/click.here?sid=62010&m=3&c=1" target="_blank"><img src="http://media.fastclick.net/w/get.media?sid=62010&tp=7&d=s&c=1&vcm_acv=1.0" width=160 height=600 border=1></a></noscript>
+<!-- ValueClick Media 160x600 WIDE SKYSCRAPER CODE for TheImproper -->
+</div>
+</div><!-- WP Widget Cached text-111 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-3" class="widget widget_text">	<div class="textwidget"><hr>
 <script>var ACE_AR = {Site: '756157', Size: '160600'};</script> <p align="left"><script language="JavaScript" src="http://uac.advertising.com/wrapper/aceUAC.js"></script><br>
-<br>
+</p></div>
+</div><!-- WP Widget Cached text-3 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-94" class="widget widget_text">	<div class="textwidget"><!-- BEGIN STANDARD TAG - 160 x 600 - ROS: Run-of-site - DO NOT MODIFY -->
+<iframe frameborder="0" marginwidth="0" marginheight="0" scrolling="NO" width="160" height="600" src="http://ad.clovenetwork.com/st?ad_type=iframe&amp;ad_size=160x600&amp;section=1797436"></iframe>
+<!-- END TAG -->
+</div>
+</div><!-- WP Widget Cached text-94 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-98" class="widget widget_text">	<div class="textwidget"><br>
 <iframe src="http://rcm.amazon.com/e/cm?t=theimprcom-20&amp;o=1&amp;p=14&amp;l=ur1&amp;category=kindle&amp;banner=1Z4BGFAR9ST7BT0409R2&amp;f=ifr" width="160" height="600" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 <br>
-<br>
-<!-- Begin: AdBrite, Generated: 2010-06-08 21:14:21  -->
-<script type="text/javascript">
-var AdBrite_Title_Color = '0000FF';
-var AdBrite_Text_Color = '000000';
-var AdBrite_Background_Color = 'FFFFFF';
-var AdBrite_Border_Color = 'CCCCCC';
-var AdBrite_URL_Color = '008000';
-try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document.referrer==''?document.location:document.referrer;AdBrite_Referrer=encodeURIComponent(AdBrite_Referrer);}catch(e){var AdBrite_Iframe='';var AdBrite_Referrer='';}
-</script>
-<script type="text/javascript">document.write(String.fromCharCode(60,83,67,82,73,80,84));document.write(' src="http://ads.adbrite.com/mb/text_group.php?sid=1658127&zs=3136305f363030&ifr='+AdBrite_Iframe+'&ref='+AdBrite_Referrer+'" type="text/javascript">');document.write(String.fromCharCode(60,47,83,67,82,73,80,84,62));</script><script src="http://ads.adbrite.com/mb/text_group.php?sid=1658127&amp;zs=3136305f363030&amp;ifr=1&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20110101110439id_%2Fhttp%253A%2F%2Fwww.theimproper.com%2Fprivacy" type="text/javascript"></script>
-</p><div><a target="_top" href="http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1658127&amp;afsid=1" style="font-weight:bold;font-family:Arial;font-size:13px;">Your Ad Here</a></div>
-<!-- End: AdBrite --> <br></div>
-		</div><div id="text-52" class="widget widget_text">			<div class="textwidget"><table border="0" bgcolor="#780000" style="padding-left: 0px; float: left; padding-bottom: 0px; width: 157px; height: 60px; border: 10px;">
+<br></div>
+</div><!-- WP Widget Cached text-98 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-52" class="widget widget_text">	<div class="textwidget"><table border="0" bgcolor="#780000" style="padding-left: 0px; float: left; padding-bottom: 0px; width: 157px; height: 60px; border: 10px;">
 <tbody><tr><td align="center"><span style="font-size: 12pt; color: white; float: center; font-family: 'Franklin Gothic Medium'" lang="EN">Bookmark Us!</span><form action="#" align="center">
 <input type="button" value="Click Here!" onclick="bookmark('http://www.theimproper.com/','TheImproper Magazine')">
 </form></td></tr></tbody></table></div>
-		</div><div id="text-64" class="widget widget_text">			<div class="textwidget"><table border="0" bgcolor="#Fffacd" style="padding-left: 0px; float: left; padding-bottom: 10px; width: 157px; height: 70px; border: 10px;">
+</div><!-- WP Widget Cached text-52 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-64" class="widget widget_text">	<div class="textwidget"><table border="0" bgcolor="#Fffacd" style="padding-left: 0px; float: left; padding-bottom: 10px; width: 157px; height: 70px; border: 10px;">
 <tbody><tr>
 <td align="center">&nbsp;&nbsp;<span style="font-size: 12pt; color: #870000; font-family: 'Franklin Gothic Medium'" lang="EN">Subscribe<br> To TheImproper's Email Newsletters, Free!</span><br><input name="pollOpt" type="button" value="Details Here" onclick="window.open(this.href='http://www.theimproper.com/media/pt_subscribe.htm', this.target, 'width=320, height=750, resizable, scrollbars');return false;"></td></tr></tbody></table></div>
-		</div><div id="text-48" class="widget widget_text">			<div class="textwidget"><table border="0" bgcolor="#780000" style="padding-left: 0px; float: left; padding-bottom: 0px; width: 157px; height: 60px; border: 10px;">
+</div><!-- WP Widget Cached text-64 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-48" class="widget widget_text">	<div class="textwidget"><table border="0" bgcolor="#780000" style="padding-left: 0px; float: left; padding-bottom: 0px; width: 157px; height: 60px; border: 10px;">
 <tbody><tr>
 <td align="center">&nbsp;&nbsp;<span style="font-size: 12pt; color: white; font-family: 'Franklin Gothic Medium'" lang="EN">Article Reprints</span><br><input name="pollOpt" type="button" value="Details Here" onclick="window.open(this.href='http://www.theimproper.com/media/pt_reprints.htm', this.target, 'width=460, height=750, resizable, scrollbars');return false;"></td></tr></tbody></table></div>
-		</div><div id="text-53" class="widget widget_text">			<div class="textwidget"><p align="left"><a href="http://twitter.com/theimpropermag" target="new"><img src="http://www.theimproper.com/media/twitter.jpg" border="0</a"></a></p></div><a href="http://twitter.com/theimpropermag" target="new">
-		</a></div><a href="http://twitter.com/theimpropermag" target="new">
-		</a></td>
-		<!-- / Left Sidebar -->
-		
-				
-
-		<!-- Main Column -->
-		<td id="middle">
-
-	<div id="p1_post_top" class="bfa_widget_area"></div>
-
-
-		
-		 
-
-		
-<div class="post-73 page type-page hentry category-uncategorized post" id="post-73">
-
-
-<div class="post-headline">		<h1>Privacy</h1>
-		</div>
+</div><!-- WP Widget Cached text-48 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+<!--WP Widget Cache 0.25.4 (http://www.nexwp.com) Begin -->
+<div id="text-53" class="widget widget_text">	<div class="textwidget"><p align="left"><a href="http://twitter.com/theimpropermag" target="new"><img src="http://www.theimproper.com/media/xtwitter.jpg.pagespeed.ic.TLD9uhmLIR.jpg" border="0" width="158" height="250"></a></p></div>
+</div><!-- WP Widget Cached text-53 For 3600 second(s)-->
+<!--WP Widget Cache End -->
+</td>
+<!-- / Left Sidebar -->
+<!-- Main Column -->
+<td id="middle">
+<div id="p1_post_top" class="bfa_widget_area"></div>
+<div class="post-73 page type-page status-publish hentry post" id="post-73">
+<div class="post-headline">	<h1>Privacy</h1>
+</div>
 <div class="post-byline"><strong>By <a href="http://TheImproper.com" title="Visit TheImproper’s website" rel="external">TheImproper</a></strong>, November 8th, 2009</div>
 <div class="post-bodycopy clearfix"><p style="text-align:left"></p><p>Please read this statement carefully before accessing and using TheImproper.com. Your use of TheImproper.com indicates your agreement to abide by the Terms in effect.</p>
 <p><strong>Information Collection</strong></p>
@@ -486,165 +681,100 @@ try{var AdBrite_Iframe=window.top!=window.self?2:1;var AdBrite_Referrer=document
 <p><strong>DMCA Compliance<br>
 </strong><br>
 TheImproper is fully compliant with the Digital Millennium Copyright Act. If material is posted on this site on which you believe you hold a copyright, please contact us immediately and accept our assurance and our apologies that the material was posted in error and without knowledge of the said copyright and will be removed immediately upon notification in accordance with Title 17, United States Code, Section 512(c)(1) also known as the Safe Harbor provision of the Act. Contact: Keith Girard at kgirard@theimproper.com, or by calling 646-246-4477, if you any questions or claims regarding this notice. </p>
-<div id="crp_related"><span style="font-size: 20pt; color: Maroon; font-family: 'Franklin Gothic Medium'" lang="EN">Related Posts: Check Out These Stories!</span><br><br><li><a href="http://www.theimproper.com/14577/emma-watson-naked-photo-circulates-at-brown-u-photos" rel="bookmark" class="crp_title">Emma Watson Naked? Photo Circulates at Brown U (photos)</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/16548/scarlett-johansson-pulls-plug-on-ryan-reynolds-marriage" rel="bookmark" class="crp_title">Scarlett Johansson Pulls Plug on Ryan Reynolds Marriage</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/10144/angelina-jolie-brad-pitt-vs-tabloids-brangelina-wins" rel="bookmark" class="crp_title">Angelina Jolie, Brad Pitt vs. Tabloids: Brangelina Wins</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/11298/brad-pitt-angelina-jolie-kids-roll-like-military-machine" rel="bookmark" class="crp_title">Brad Pitt, Angelina Jolie, Kids Roll Like ‘Military Machine’</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/1578/tiger-woods-scandal-drives-him-from-golf-indefinitely" rel="bookmark" class="crp_title">Sex Scandal Drives Tiger Woods from Golf Indefinitely</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/11504/patricia-arquette-deja-vu-divorce-official-again" rel="bookmark" class="crp_title">Patricia Arquette Déjà Vu: Divorce Official, All Over Again</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/8025/al-gore-wife-tipper-seemingly-inseparable-separate" rel="bookmark" class="crp_title">Al Gore, Wife Tipper, Seemingly Inseparable, Separate</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/3038/tiger-woods-rehab-story-falls-flat-media-exit-pine-grove" rel="bookmark" class="crp_title">Tiger Woods Rehab Story Falls Flat; Media Exit Pine Grove</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/12652/kristen-stewart-im-shy-not-aloof-i-get-that-a-lot" rel="bookmark" class="crp_title">Kristen Stewart: I’m Shy, Not Aloof; I Get That A Lot</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/16084/mark-zuckerberg-debuts-new-facebook-on-60-minutes-watch" rel="bookmark" class="crp_title">Mark Zuckerberg Debuts New Facebook on 60 Minutes (watch!)</a></li><p></p><table style="float:center; padding-left:10px; ><tr><td><ul><p style=" padding-left:10px;"=""></table></div><div id="fb_share_1" style="float:left; margin-right: 10px;"><a name="fb_share" type="button_count" share_url="http://www.theimproper.com/privacy" href="http://www.facebook.com/sharer.php">Share</a></div><div><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script></div>
-<div class="sociable">
-<div class="sociable_tagline">
-<strong>Like This? Then, Share!</strong><br><br>
+<div id="crp_related"><span style="font-size: 20pt; color: Maroon; font-family: 'Franklin Gothic Medium'" lang="EN">Related Posts: Check Out These Stories!</span><br><br><li><a href="http://www.theimproper.com/14577/emma-watson-naked-photo-circulates-at-brown-u-photos" rel="bookmark" class="crp_title">Emma Watson Naked? Photo Circulates at Brown U (photos)</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/16548/scarlett-johansson-pulls-plug-on-ryan-reynolds-marriage" rel="bookmark" class="crp_title">Scarlett Johansson Pulls Plug on Ryan Reynolds Marriage</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/10144/angelina-jolie-brad-pitt-vs-tabloids-brangelina-wins" rel="bookmark" class="crp_title">Angelina Jolie, Brad Pitt vs. Tabloids: Brangelina Wins</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/11298/brad-pitt-angelina-jolie-kids-roll-like-military-machine" rel="bookmark" class="crp_title">Brad Pitt, Angelina Jolie, Kids Roll Like ‘Military Machine’</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/1578/tiger-woods-scandal-drives-him-from-golf-indefinitely" rel="bookmark" class="crp_title">Sex Scandal Drives Tiger Woods from Golf Indefinitely</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/11504/patricia-arquette-deja-vu-divorce-official-again" rel="bookmark" class="crp_title">Patricia Arquette Déjà Vu: Divorce Official, All Over Again</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/8025/al-gore-wife-tipper-seemingly-inseparable-separate" rel="bookmark" class="crp_title">Al Gore, Wife Tipper, Seemingly Inseparable, Separate</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/24227/did-marriage-talk-doom-george-clooney-elisabetta-canalis" rel="bookmark" class="crp_title">Did Marriage Talk Doom George Clooney, Elisabetta Canalis?</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/28413/johnny-depp-rare-public-outing-ends-in-tumble-watch" rel="bookmark" class="crp_title">Johnny Depp Rare Public Outing Ends in Tumble (watch!)</a></li><p></p><p style="padding-left:10px;"></p><li><a href="http://www.theimproper.com/3038/tiger-woods-rehab-story-falls-flat-media-exit-pine-grove" rel="bookmark" class="crp_title">Tiger Woods Rehab Story Falls Flat; Media Exit Pine Grove</a></li><p></p><table style="float:center; padding-left:10px; ><tr><td><ul><p style=" padding-left:10px;"=""></table></div><!-- Start Sociable --><div class="sociable"><div class="sociable_tagline"><a class="sociable_tagline" target="_blank" href="http://blogplay.com" style="color:#333333;text-decoration:none">Be Sociable, Share With Your Friends!</a></div><ul class="clearfix"><li><a title="Twitter" class="option1_32" style="background-position:-288px -32px" rel="nofollow" target="_blank" href="http://twitter.com/intent/tweet?text=Privacy%20-%20http%3A%2F%2Fwww.theimproper.com%2Fprivacy%20(via%20@sociablesite)"></a></li><li><a title="Digg" class="option1_32" style="background-position:-64px 0px" rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;bodytext=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c"></a></li><li><a title="Google Bookmarks" class="option1_32" style="background-position:-192px 0px" rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;annotation=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c"></a></li><li><a title="StumbleUpon" class="option1_32" style="background-position:-224px -32px" rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy"></a></li><li><a title="Delicious" class="option1_32" style="background-position:-32px 0px" rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;notes=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c"></a></li><li><a title="Google Reader" class="option1_32" style="background-position:-224px 0px" rel="nofollow" target="_blank" href="http://www.google.com/reader/link?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;srcURL=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;srcTitle=TheImproper.com+"></a></li><li><a title="LinkedIn" class="option1_32" style="background-position:-288px 0px" rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;source=TheImproper.com+&amp;summary=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c"></a></li><li><a title="BlinkList" class="option1_32" style="background-position:0px 0px" rel="nofollow" target="_blank" href="http://www.blinklist.com/index.php?Action=Blink/addblink.php&amp;Url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;Title=Privacy"></a></li><li><a title="Myspace" class="option1_32" style="background-position:0px -32px" rel="nofollow" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;t=Privacy"></a></li><li><a title="Reddit" class="option1_32" style="background-position:-128px -32px" rel="nofollow" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy"></a></li><li><a title="Tumblr" class="option1_32" style="background-position:-256px -32px" rel="nofollow" target="_blank" href="http://www.tumblr.com/share?v=3&amp;u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;t=Privacy&amp;s=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c"></a></li><li><a class="option1_32" style="cursor:pointer;background-position:-128px 0px" rel="nofollow" title="Add to favorites - doesn't work in Chrome" onclick="javascript:AddToFavorites();"></a></li><li><a title="email" class="option1_32" style="background-position:-160px 0px" rel="nofollow" target="_blank" href="https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to&amp;su=Privacy&amp;body=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;ui=2&amp;tf=1&amp;shva=1"></a></li><li><a style="cursor:pointer" rel="nofollow" onmouseout="fixOnMouseOut(document.getElementById('sociable-post-73'), event, 'post-73')" onmouseover="more(this,'post-73')"><img style="margin-top:9px" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEkAAAAbCAMAAAAH61ISAAAArlBMVEVeXl7///9eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl5eXl4dyxUeyhYgxhghxRkmvB8ouCIssSYssyUsziUtsCc3nzI+lDo/kTxAkD1CjT5EikFJgkZK1URPeE1RdE9TcVFUb1NXalZcYVxeXl5oaGhycnJ8fHyGhoaRkZGbm5ulpaWurq64uLjCwsLMzMzS9dDX19fh4eHr6+vw/O/19fX////+02IgAAAAD3RSTlMAABs8SEtveIGHmajA8/zw3EpBAAABZElEQVQ4y63VCW/CIBQHcDePuXnuPtx9+CjPgmWU8b7/FxvQusbGmbb2n6YCMb/wCIXOUVvpuKeNtC51x1Nonum4u5GOJ3BYJse5NAB4u5vPilwualKDXDqBr/PZdp7rSad/0lMJmt00lRY58E23WeMq+wdiBMAQGUAkZMzCEGb90OBVJSIFIIgQYnKx3A/5xCDDr64sGQugDGFEaQRojRtKEVfWOknUmlNCHGxCuKaV60r3DtNIybXxv3X6oU1eC0kawSkm1BSWjSSQ1TqltZNSrXVcXVJKWCxJRAL2STurk8Iq5SRfpV/72FfHKWX7qtstcbLCSUiKATOWhXWSobqaEljiToKEjLZuSkFihni2C6iqJN1GkhBJtz9jpRM/C+mXhssVypCy9Fj+Wq6bfi0f85L00FSCl4st6H5ZTxrmUs93Pt+LLOsedb3N6Ts68MwcFTdCf3jWPMN++3dLezdnS/kFBq/BHrKf8VUAAAAASUVORK5CYII="></a></li></ul><div onmouseout="fixOnMouseOut(this,event,'post-73')" id="sociable-post-73" style="display:none;">
+<div style="top: auto; left: auto; display: block;" id="sociable">
+<div class="popup">
+<div class="content">
+<ul><li style="heigth:32px;width:32px"><a title="Facebook" class="option1_32" style="background-position:-96px 0px" rel="nofollow" target="_blank" href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;t=Privacy"></a></li><li style="heigth:32px;width:32px"><a title="HackerNews" class="option1_32" style="background-position:-256px 0px" rel="nofollow" target="_blank" href="http://news.ycombinator.com/submitlink?u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;t=Privacy"></a></li><li style="heigth:32px;width:32px"><a title="MSNReporter" class="option1_32" style="background-position:-352px 0px" rel="nofollow" target="_blank" href="http://reporter.es.msn.com/?fn=contribute&amp;Title=Privacy&amp;URL=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;cat_id=6&amp;tag_id=31&amp;Remark=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c"></a></li><li style="heigth:32px;width:32px"><a title="Sphinn" class="option1_32" style="background-position:-192px -32px" rel="nofollow" target="_blank" href="http://sphinn.com/index.php?c=post&amp;m=submit&amp;link=http%3A%2F%2Fwww.theimproper.com%2Fprivacy"></a></li><li style="heigth:32px;width:32px"><a title="Posterous" class="option1_32" style="background-position:-64px -32px" rel="nofollow" target="_blank" href="http://posterous.com/share?linkto=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;selection=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c"></a></li></ul>
 </div>
-<ul>
-	<li class="sociablefirst"><a rel="nofollow" target="_blank" href="http://twitter.com/home?status=Privacy%20-%20http%3A%2F%2Fwww.theimproper.com%2Fprivacy" title="Twitter"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/twitter.png" title="Twitter" alt="Twitter"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.google.com/bookmarks/mark?op=edit&amp;bkmk=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;annotation=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c" title="Google Bookmarks"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/googlebookmark.png" title="Google Bookmarks" alt="Google Bookmarks"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://buzz.yahoo.com/submit/?submitUrl=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;submitHeadline=Privacy&amp;submitSummary=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c&amp;submitCategory=science&amp;submitAssetType=text" title="Yahoo! Buzz"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/yahoobuzz.png" title="Yahoo! Buzz" alt="Yahoo! Buzz"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.myspace.com/Modules/PostTo/Pages/?u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;t=Privacy" title="MySpace"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/myspace.png" title="MySpace" alt="MySpace"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;bodytext=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c" title="Digg"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/digg.png" title="Digg" alt="Digg"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://delicious.com/post?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;notes=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c" title="del.icio.us"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/delicious.png" title="del.icio.us" alt="del.icio.us"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy&amp;source=TheImproper%2C+The+Cutting+Edge+in+Arts+%26amp%3B+Entertainment+&amp;summary=Please%20read%20this%20statement%20carefully%20before%20accessing%20and%20using%20TheImproper.com.%20Your%20use%20of%20TheImproper.com%20indicates%20your%20agreement%20to%20abide%20by%20the%20Terms%20in%20effect.%0D%0A%0D%0AInformation%20Collection%0D%0A%0D%0ATheImproper.com%20is%20the%20sole%20owner%20of%20the%20information%20c" title="LinkedIn"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/linkedin.png" title="LinkedIn" alt="LinkedIn"></a></li>
-	<li><a rel="nofollow" href="javascript:AddToFavorites();" title="Add to favorites"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/addtofavorites.png" title="Add to favorites" alt="Add to favorites"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://reddit.com/submit?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy" title="Reddit"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/reddit.png" title="Reddit" alt="Reddit"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;title=Privacy" title="StumbleUpon"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/stumbleupon.png" title="StumbleUpon" alt="StumbleUpon"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.propeller.com/submit/?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy" title="Propeller"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/propeller.png" title="Propeller" alt="Propeller"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.newsvine.com/_tools/seed&amp;save?u=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;h=Privacy" title="NewsVine"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/newsvine.png" title="NewsVine" alt="NewsVine"></a></li>
-	<li><a rel="nofollow" target="_blank" href="http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.theimproper.com%2Fprivacy&amp;partner=sociable" title="Print"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/printfriendly.png" title="Print" alt="Print"></a></li>
-	<li><a rel="nofollow" target="_blank" href="mailto:?subject=Privacy&amp;body=http%3A%2F%2Fwww.theimproper.com%2Fprivacy" title="email"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/email_link.png" title="email" alt="email"></a></li>
-	<li class="sociablelast"><a rel="nofollow" target="_blank" href="http://www.theimproper.com/feed" title="RSS"><img src="http://www.theimproper.com/wp-content/plugins/sociable/images/rss.png" title="RSS" alt="RSS"></a></li>
-</ul>
+<a style="cursor:pointer" onclick="hide_sociable('post-73',true)" class="close">
+<img onclick="hide_sociable('post-73',true)" title="close" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAIBAMAAAA2IaO4AAAAGFBMVEUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABWNxwqAAAAB3RSTlMAFSotur3qBiuZYwAAACZJREFUCNdjEFVgdmQITzYrZTArS09mYE4vMwARChAuWELUgDkQAK1mCNkIwNXGAAAAAElFTkSuQmCC">
+</a>
 </div>
-<p style="text-align:left"></p></div>
-
-
-
-
-<div id="p1posts_ad1" class="bfa_widget_area"><div id="text-75" class="widget widget_text">			<div class="textwidget"><script type="text/javascript">// <![CDATA[
-     google_ad_client = "ca-pub-3595381280072274"; google_ad_width = 300; google_ad_height = 250;
-// ]]></script>
-<script src="http://pagead2.googlesyndication.com/pagead/show_ads.js" type="text/javascript"></script></div>
-		</div></div>
-
-
-</div><!-- / Post -->						
-	
-	<div id="web_stories_widget" class="bfa_widget_area"><div id="text-83" class="widget widget_text">			<div class="textwidget"><table style="width:550px; height:35px; float:center;" padding-left:="" 10px;"="" bgcolor="#870000"><tbody><tr><td><span style="font-size: 16pt; color: white; font-family: 'Franklin Gothic Medium'" bgcolor="#870000" lang="EN">CHECK OUT THESE TOP STORIES FROM THE WEB</span></td></tr></tbody></table>
+</div>
+</div></div><!-- End Sociable --><div align="right" style="float: right; padding: 14px 0px 0px 0px;"><a name="fb_share" type="button_count" share_url="http://www.theimproper.com/privacy"></a></div><p style="text-align:left"></p></div>
+</div><!-- / Post -->
+<div id="top_stories_widget2" class="bfa_widget_area"><div id="text-109" class="widget widget_text">	<div class="textwidget"><table style="width:750px; height:35px; float:center;" padding-left:="" 10px;"="" bgcolor="#870000"><tbody><tr><td><span style="font-size: 16pt; color: white; padding-left:5px; font-family: 'Franklin Gothic Medium'" bgcolor="#870000" lang="EN">CHECK OUT THESE TOP STORIES FROM THE WEB</span></td></tr></tbody></table>
 <!-- MGID News Widget Start -->
 <div id="MarketGid1096"><center>
 <a href="http://mgid.com/" target="_blank">Loading...</a>
 </center></div>
 <!-- MGID News Widget End -->
-<!-- before </body> tag -->
-<script type="text/javascript">
-    var MarketGidDate = new Date();
-    document.write('<scr'+'ipt type="text/javascript" '+'src="http://jsn.dt07.net/t/h/theimproper.com.1096.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()+ '" charset="utf-8" ></scr'+'ipt>');
-    </script><script type="text/javascript" src="http://jsn.dt07.net/t/h/theimproper.com.1096.js?t=1200" charset="utf-8"></script>
 </div>
-		</div></div>
-
-
-
-			<!-- .... -->
-
-	
-
-
-
-			
-		<!-- Comment Form -->
-		<div id="respond">
-		
-		<a name="commentform"></a><!-- named anchor for skip links -->
-		<h3 class="reply">Leave a Reply</h3>
-	
-		<div id="cancel-comment-reply">
-		<a rel="nofollow" id="cancel-comment-reply-link" href="/privacy#respond" style="display:none;">Cancel</a>		</div>
-	
-		<form action="http://www.theimproper.com/wp-comments-post.php" method="post" id="commentform">
-
-				
-			<p>
-			<input class="text author" type="text" name="author" id="author" value="" size="30" tabindex="1">&nbsp;
-			<label for="author"> <strong>
-            Name </strong>(required)</label>
-			</p>
-
-			<p>
-			<input class="text email" type="text" name="email" id="email" value="" size="30" tabindex="2">&nbsp;
-			<label for="email"> <strong>
-            Mail</strong> (will not be published) (required)</label>
-			</p>
-
-			<p>
-			<input class="text url" type="text" name="url" id="url" value="" size="30" tabindex="3">&nbsp;
-			<label for="url">
-            Website</label>
-			</p>
-			
-			
-						<p class="thesetags clearfix">
-                You can use <a class="xhtmltags" href="#" onclick="return false;">these HTML tags</a></p>
-				<div class="xhtml-tags"><p><code>&lt;a href="" title=""&gt; &lt;abbr title=""&gt; &lt;acronym title=""&gt; &lt;b&gt; &lt;blockquote cite=""&gt; &lt;cite&gt; &lt;code&gt; &lt;del datetime=""&gt; &lt;em&gt; &lt;i&gt; &lt;q cite=""&gt; &lt;strike&gt; &lt;strong&gt;                 </code></p></div>
-
-			
-		<!-- Comment Textarea -->
-		<p><textarea name="comment" id="comment" rows="10" cols="10" tabindex="4"></textarea></p>
-		<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="154ac65d0f"></p><p>Comment moderation is enabled. Your comment may take some time to appear.</p>		
-		<!-- Submit -->
-		<p><input name="submit" type="submit" class="button" id="submit" tabindex="5" value="Submit Comment">
-		<input type="hidden" name="comment_post_ID" value="73" id="comment_post_ID">
+</div></div>
+<!-- .... -->
+<!-- Comment Form -->
+<div id="respond">
+<a name="commentform"></a><!-- named anchor for skip links -->
+<h3 class="reply">Leave a Reply</h3>
+<div id="cancel-comment-reply">
+<a rel="nofollow" id="cancel-comment-reply-link" href="/privacy#respond" style="display:none;">Cancel</a>	</div>
+<form action="http://www.theimproper.com/wp-comments-post.php" method="post" id="commentform">
+<p>
+<input class="text author" type="text" name="author" id="author" value="" size="30" tabindex="1">&nbsp;
+<label for="author"> <strong>
+Name </strong>(required)</label>
+</p>
+<p>
+<input class="text email" type="text" name="email" id="email" value="" size="30" tabindex="2">&nbsp;
+<label for="email"> <strong>
+Mail</strong> (will not be published) (required)</label>
+</p>
+<p>
+<input class="text url" type="text" name="url" id="url" value="" size="30" tabindex="3">&nbsp;
+<label for="url">
+Website</label>
+</p>
+<!-- Comment Textarea -->
+<p><textarea name="comment" id="comment" rows="10" cols="10" tabindex="4"></textarea></p>
+<p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="051944b94e"></p><p>Comment moderation is enabled. Your comment may take some time to appear.</p>
+<!-- Submit -->
+<p><input name="submit" type="submit" class="button" id="submit" tabindex="5" value="Submit Comment">
+<input type="hidden" name="comment_post_ID" value="73" id="comment_post_ID">
 <input type="hidden" name="comment_parent" id="comment_parent" value="0">
 </p>
-		
-		</form>
-		</div><!-- / respond -->
-		<!-- / Comment Form -->
-
-		
-
-		
-			
-
-
-
+</form>
+</div><!-- / respond -->
+<!-- / Comment Form -->
 </td>
 <!-- / Main Column -->
-
-
-
 </tr>
 <!-- / Main Body -->
 <tr>
-
 <!-- Footer -->
 <td id="footer" colspan="2">
-
-    <p>
-    <a href="http://www.theimproper.com/about-us">About Us</a> | <a href="http://www.theimproper.com/privacy">Privacy</a> | <a href="http://www.theimproper.com/terms-of-use">Terms of Use</a> | Copyright © 2010 <a href="http://www.theimproper.com/">TheImproper, The Cutting Edge in Arts &amp; Entertainment</a> - All Rights Reserved | <a rel="nofollow" href="http://www.theimproper.com/wp-login.php">Log in</a> |  <a href="http://rss.icerocket.com/xmlfeed?id=10153"><img src="http://rss.icerocket.com/img/rss.gif" height="14" width="36"></a> | <a href="http://feeds.feedburner.com/TheimproperTheCuttingEdgeInArtsEntertainment" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a>&nbsp;<a href="http://feeds.feedburner.com/TheimproperTheCuttingEdgeInArtsEntertainment" rel="alternate" type="application/rss+xml"></a><br>Powered by <a href="http://wordpress.org/">WordPress</a> &amp; the <a href="http://wordpress.bytesforall.com/" title="Customizable WordPress themes">Atahualpa Theme</a> by <a href="http://www.bytesforall.com/" title="BFA Webdesign">BytesForAll</a>. Discuss on our <a href="http://forum.bytesforall.com/" title="Atahualpa &amp; WordPress">WP Forum</a>    </p>
-    
-    
-    		<!-- Advertising Manager v3.4.19 (0.423 seconds.) -->
-
+<p>
+<a href="http://www.theimproper.com/about-us">About Us</a> | <a href="http://www.theimproper.com/privacy">Privacy</a> | <a href="http://www.theimproper.com/terms-of-use">Terms of Use</a> | Copyright © 2011 <a href="http://www.theimproper.com/">TheImproper.com</a> - All Rights Reserved | <a rel="nofollow" href="http://www.theimproper.com/wp-login.php">Log in</a> | <a href="http://rss.icerocket.com/xmlfeed?id=10153"><img src="http://rss.icerocket.com/img/rss.gif" height="14" width="36"></a> | <a href="http://feeds.feedburner.com/TheimproperTheCuttingEdgeInArtsEntertainment" rel="alternate" type="application/rss+xml"><img src="http://www.feedburner.com/fb/images/pub/feed-icon16x16.png" alt="" style="vertical-align:middle;border:0"></a>&nbsp;<a href="http://feeds.feedburner.com/TheimproperTheCuttingEdgeInArtsEntertainment" rel="alternate" type="application/rss+xml"></a> </p>
+<script type="text/javascript" src="http://static.ak.fbcdn.net/connect.php/js/FB.Loader?ver=322597"></script>
+<script type="text/javascript" src="http://static.ak.fbcdn.net/connect.php/js/FB.Share?ver=322597"></script>
+<script type="text/javascript">ggv2id="00b46230"</script>
+<script type="text/javascript" src="http://g2.gumgum.com/javascripts/ggv2.js"></script><!-- Generated in 0.387 seconds. Made 33 queries to database and 91 cached queries. Memory used - 46.08MB -->
+<!-- Cached by DB Cache Reloaded Fix -->
 </td>
 <!-- / Footer -->
-
 </tr>
 </tbody></table><!-- / layout -->
 </div><!-- / container -->
 </div><!-- / wrapper -->
-<!-- MGID Pop-under Start --><script src="http://jsu.dt07.net/t/h/theimproper.com.2828.js" type="text/javascript"></
-script><!-- MGID Pop-under End -->
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<script type="text/javascript">_qacct="p-36hrP7lZ-lAjg";quantserve();</script>
+<noscript>
+<a href="http://www.quantcast.com/p-36hrP7lZ-lAjg" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-36hrP7lZ-lAjg.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a>
+</noscript>
+<!-- End Quantcast tag -->
+<!-- before </body> tag -->
+<script type="text/javascript">
+    var MarketGidDate = new Date();
+    document.write('<scr'+'ipt type="text/javascript" '
+    +'src="http://jsn.dt07.net/t/h/theimproper.com.1096.js?t='+MarketGidDate.getYear()+MarketGidDate.getMonth()
+    + '" charset="utf-8" ></scr'+'ipt>');
+    </script><script type="text/javascript" src="http://jsn.dt07.net/t/h/theimproper.com.1096.js?t=1200" charset="utf-8"></script>
+<!-- MGID Pop-under Start --><script type="text/javascript"> var MGCD = new Date(); document.write('<scr' +'ipt type="text/javascript"' +' src="http://jsu.dt07.net/t/h/theimproper.com.2828.js?t=' +MGCD.getYear() +MGCD.getMonth() +MGCD.getDate() +MGCD.getHours() +'" charset="utf-8"></scr'+'ipt>'); </script><script type="text/javascript" src="http://jsu.dt07.net/t/h/theimproper.com.2828.js?t=12003014" charset="utf-8"></script><!-- MGID Pop-under End -->
+<script type="text/javascript">ggv2id='00b46230';</script>
+<script type="text/javascript" src="http://g2.gumgum.com/javascripts/ggv2.js"></script>
 
-<!-- Start Quantcast tag --> 
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script> 
-<script type="text/javascript">_qacct="p-36hrP7lZ-lAjg";quantserve();</script> 
-<noscript> 
-<a href="http://www.quantcast.com/p-36hrP7lZ-lAjg" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-36hrP7lZ-lAjg.gif" style="display: none" border="0" height="1" width="1" alt="Quantcast"/></a> 
-</noscript> 
-<!-- End Quantcast tag --> 
- 
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"> 
-</script> 
-<script type="text/javascript"> 
-_uacct = "UA-4313260-1";
-urchinTracker();
-</script> 
 
-<!-- Dynamic page generated in 0.423 seconds. -->
-<!-- Cached page generated by WP-Super-Cache on 2010-12-30 05:17:15 -->
+<!-- Dynamic page generated in 0.369 seconds. -->
+<!-- Cached page generated by WP-Super-Cache on 2011-11-03 02:17:22 -->
 <!-- super cache --></body></html>
