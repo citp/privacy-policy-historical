@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 32auctions.com privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212022946id_/http%3A//32auctions.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 32auctions.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103062958id_/http%3A//www.32auctions.com/pages/privacy.html) for the most accurate reproduction.*
 
 # 32auctions — Privacy Policy
 
-We detected that cookies are disabled in your browser.  Please enable them so this site can function properly. [](http://www.google.com/support/accounts/bin/answer.py?answer=61416 "Help")
+We detected that cookies are disabled in your browser. Please enable them so this site can function properly. [](http://www.google.com/support/accounts/bin/answer.py?answer=61416 "Help")
 
-Your privacy is important to us. To better protect your privacy we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. We reserve the right to modify this policy from time to time. For additional information, please see the [Privacy](https://web.archive.org/web/20101212022946id_/http%3A//32auctions.com/pages/terms.html#privacy) section of the Terms of Use.
+Your privacy is important to us. To better protect your privacy we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. We reserve the right to modify this policy from time to time. For additional information, please see the [Privacy](https://web.archive.org/web/20111103062958id_/http%3A//www.32auctions.com/pages/terms.html#privacy) section of the Terms of Use.
 
 We don't share your information with third parties for marketing purposes.
 
