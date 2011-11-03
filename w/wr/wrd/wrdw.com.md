@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrdw.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522124454id_/http%3A//www.wrdw.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrdw.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103092803id_/http%3A//www.wrdw.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
