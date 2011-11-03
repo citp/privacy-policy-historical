@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailenable.com privacy policy that was archived on 2010-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101220000755id_/http%3A//mailenable.com/policies/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailenable.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103033425id_/http%3A//www.mailenable.com/policies/privacy.asp) for the most accurate reproduction.*
 
 # MailEnable - Privacy Policy
 
