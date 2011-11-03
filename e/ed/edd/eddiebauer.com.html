@@ -1,18 +1,152 @@
-<!--The following is the downloaded HTML source of the eddiebauer.com privacy policy that was archived on 2010-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101231120123id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eddiebauer.com privacy policy that was archived on 2011-11-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111103143314id_/http%3A//www.eddiebauer.com/custserv/custserv.jsp%3FsectionId%3D310) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head><script type="text/javascript">
+<!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="/js/avantlink/avmws_1011233.js"></script><script type="text/javascript">
     var multiProductPageFlag = false;
 </script><script type="text/javascript"><!--
     document.domain = "eddiebauer.com";
 //--></script><script type="text/javascript">
             var site_map_display_name = 'Privacy &amp; Security';
-        </script><meta http-equiv="Content-Type" content="text/html; utf-8"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="Cache-Control" content="no cache"><meta http-equiv="Pragma" content="no cache"><meta http-equiv="Expires" content="Mon, 22 Jul 2002 11:12:01 GMT"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><meta name="description" content="Eddie Bauer privacy and security policies. Learn how Eddie Bauer collects and uses your personal information; enjoy a safe, secure online experience."><!-- in order to have IE8 render as IE7 --><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>Eddie Bauer | Eddie Bauer Privacy &amp; Security Policies</title><!--RSS Section starts here --><!--[if lt IE 7]><script type="text/javascript" src="/js/eb/unitpngfix.js"></script><![endif]--><script type="text/javascript">
+        </script><meta http-equiv="Content-Type" content="text/html; utf-8"><meta http-equiv="Content-Script-Type" content="text/javascript"><meta http-equiv="Cache-Control" content="no cache"><meta http-equiv="Pragma" content="no cache"><meta http-equiv="Expires" content="Mon, 22 Jul 2002 11:12:01 GMT"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.ico" type="image/x-icon"><meta name="description" content="Eddie Bauer privacy and security policies. Learn how Eddie Bauer collects and uses your personal information; enjoy a safe, secure online experience."><!-- in order to have IE8 render as IE7 --><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>Eddie Bauer | Eddie Bauer Privacy &amp; Security Policies</title><!--RSS Section starts here --><script type="text/javascript">
         var loadFooterScripts = function() {
-            YAHOO.util.Get.script('/js/js_loader.jsp?siteGroupName=globalFooter');
             YAHOO.util.Get.script('/js/js_loader.jsp?siteGroupName=ebFooter');
         };
-        </script><link href="/css/css_loader.jsp?siteGroupName=globalHeader" rel="stylesheet" type="text/css"><link href="/css/css_loader.jsp?siteGroupName=ebHeader" rel="stylesheet" type="text/css"><link href="/css/css_loader.jsp?siteGroupName=ebPrint" rel="stylesheet" type="text/css" media="print"><script src="/js/utility_javascript.jsp" type="text/javascript"></script><script src="/js/cachemanager.js" type="text/javascript"></script><script src="/js/js_loader.jsp?siteGroupName=ebHeader" type="text/javascript"></script><link href="/css/css_loader.jsp?categoryId=22429" rel="stylesheet" type="text/css"><script src="/js/js_loader.jsp?categoryId=22429" type="text/javascript"></script><script src="/js/foresee/foresee-trigger.js" type="text/javascript"></script><script src="/js/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head><body id="cat22429" class="EB CUSTOMER-SERVICE PRIVACY--SECURITY"><noscript>
+        </script><link href="/css/css_loader.jsp?siteGroupName=ebHeader" rel="stylesheet" type="text/css"><script id="s1" src="/js/js_loader.jsp?siteGroupName=ebHeader_Chrome_69"></script><link rel="STYLESHEET" type="text/css" id="c1" href="/css/css_loader.jsp?siteGroupName=ebHeader_Chrome_69"><link href="/css/css_loader.jsp?siteGroupName=ebHeader2" rel="stylesheet" type="text/css"><script type="text/javascript">
+
+			var BrowserDetect = {
+				init: function () {
+					this.browser = this.searchString(this.dataBrowser) || "An unknown browser";
+					this.version = this.searchVersion(navigator.userAgent)
+						|| this.searchVersion(navigator.appVersion)
+						|| "an unknown version";
+					this.OS = this.searchString(this.dataOS) || "an unknown OS";
+				},
+				searchString: function (data) {
+					for (var i=0;i<data.length;i++)	{
+						var dataString = data[i].string;
+						var dataProp = data[i].prop;
+						this.versionSearchString = data[i].versionSearch || data[i].identity;
+						if (dataString) {
+							if (dataString.indexOf(data[i].subString) != -1)
+								return data[i].identity;
+						}
+						else if (dataProp)
+							return data[i].identity;
+					}
+				},
+				searchVersion: function (dataString) {
+					var index = dataString.indexOf(this.versionSearchString);
+					if (index == -1) return;
+					return parseFloat(dataString.substring(index+this.versionSearchString.length+1));
+				},
+				dataBrowser: [
+					{
+						string: navigator.userAgent,
+						subString: "Chrome",
+						identity: "Chrome"
+					},
+					{
+						string: navigator.userAgent,
+						subString: "MSIE",
+						identity: "Explorer",
+						versionSearch: "MSIE"
+					},
+					{
+						string: navigator.userAgent,
+						subString: "Firefox",
+						identity: "Firefox"
+					},
+					{
+						string: navigator.vendor,
+						subString: "Apple",
+						identity: "Safari",
+						versionSearch: "Version",
+						code: "SA"
+					},
+					{
+						prop: window.opera,
+						identity: "Opera",
+						code: ""
+					},
+					{
+						string: navigator.vendor,
+						subString: "iCab",
+						identity: "iCab"
+					},
+					{
+						string: navigator.vendor,
+						subString: "KDE",
+						identity: "Konqueror"
+					},
+
+					{
+						string: navigator.vendor,
+						subString: "Camino",
+						identity: "Camino"
+					},
+					{		// for newer Netscapes (6+)
+						string: navigator.userAgent,
+						subString: "Netscape",
+						identity: "Netscape"
+					},
+					{
+						string: navigator.userAgent,
+						subString: "Gecko",
+						identity: "Mozilla",
+						versionSearch: "rv"
+					},
+					{
+						string: navigator.userAgent,
+						subString: "Mozilla",
+						identity: "Netscape",
+						versionSearch: "Mozilla"
+					}
+				],
+				dataOS : [
+					{
+						string: navigator.platform,
+						subString: "Win",
+						identity: "Windows"
+					},
+					{
+						string: navigator.platform,
+						subString: "Mac",
+						identity: "Mac"
+					},
+					{
+							string: navigator.userAgent,
+							subString: "iPhone",
+							identity: "iPhone/iPod"
+					 },
+					{
+						string: navigator.platform,
+						subString: "Linux",
+						identity: "Linux"
+					}
+				]
+
+			};
+			BrowserDetect.init();
+
+			function loadjscssfile(filename, filetype) {
+				filename = filename + "_" + BrowserDetect.browser + "_" + BrowserDetect.version;
+				if (filetype == "js") { //if filename is a external JavaScript file
+					document.getElementById("s1").src = filename;
+				}
+				else if (filetype == "css") { //if filename is an external CSS file
+					document.getElementById("c1").href = filename;
+				}
+				if (typeof fileref != "undefined")
+					document.getElementsByTagName("head")[0].appendChild(fileref)
+			}
+
+			
+
+			loadjscssfile('/css/css_loader.jsp?siteGroupName=ebHeader', "css");
+			loadjscssfile('/js/js_loader.jsp?siteGroupName=ebHeader', "js");
+			//loadjscssfile("/js/js_loader.jsp?siteGroupName=ebHeader", "js");
+
+		  </script><link href="/css/css_loader.jsp?siteGroupName=ebPrint" rel="stylesheet" type="text/css" media="print"><script src="/js/utility_javascript.jsp" type="text/javascript"></script><script src="/js/cachemanager.js" type="text/javascript"></script><script src="/js/js_loader.jsp?siteGroupName=ebHeader" type="text/javascript"></script><link href="/css/css_loader.jsp?categoryId=22429" rel="stylesheet" type="text/css"><script src="/js/js_loader.jsp?categoryId=22429" type="text/javascript"></script><script src="/js/foresee/foresee-analytics-top-j5520.js" type="text/javascript"></script><script src="/js/foresee/foresee-trigger.js" type="text/javascript"></script><meta name="msvalidate.01" content="891FB8E5048B018DE6229FDD323C22B1"><script src="/js/foresee/foresee-surveydef.js" type="text/javascript" id="foresee-surveydef"></script></head><body id="cat22429" class="EB CUSTOMER-SERVICE PRIVACY--SECURITY"><noscript>
  <div id="NOSCRIPT" style="display:block; position:absolute; top:0; left:0; height:100%; width:100%; background-color:#000; filter:alpha(opacity=50); opacity: 0.5;
 -moz-opacity:0.5; z-index:1000;" > 	      
  </div>
@@ -33,10 +167,44 @@ color:#FFFFFF; cursor:pointer; overflow:visible; padding:0 1em; border-style:out
         </div>
   </form>
 </div>
-</noscript><script src="/js/coremetrics/v40/eluminate.js" type="text/javascript"></script><script src="/js/coremetrics/cmdatatagutils.js" type="text/javascript"></script><div id="console_log" style="display:none"></div><div id="container"></div><div id="site"><div id="above"><div class="assistive"><a href="#torso">Skip to Content</a></div><div id="header"><div class="wrap"><!-- 1 = standard nav, 2 = new graphical nav --><script src="/includes/soa_session_monitor.jsp?OESSOA=&amp;cm_mmc=&amp;cm_ven=&amp;cm_cat=&amp;cm_pla=&amp;cm_ite=&amp;page=/custserv/custserv.jsp"></script><script src="/includes/soa_session_cart.jsp?itemCount=0&amp;OESSOA=&amp;cm_mmc=&amp;cm_ven=&amp;cm_cat=&amp;cm_pla=&amp;cm_ite=&amp;page=/custserv/custserv.jsp"></script><div id="search"><form action="http://www.eddiebauer.com/" method="get" name="endecaSearchForm" onsubmit="return search('endecaSearchForm','searchstring','catdimension');"><input type="hidden" name="form_state" value="endecaSearchForm"><input type="hidden" id="catdimension" name="catdimension" value="0"><label for="searchstring"><img class="search" src="/assets/spacer.gif" alt="Search" title="Search"></label><input class="searchField" id="searchstring" value="" maxlength="35" name="searchstring"><input title="GO" type="submit" alt="GO" class="searchButton" value="GO"></form></div><!-- /search --><script type="text/javascript">
+</noscript><script src="/js/coremetrics/v40/eluminate.js" type="text/javascript"></script><script src="/js/coremetrics/cmdatatagutils.js" type="text/javascript"></script><div id="dashboard" style="display:none"></div><div id="console_log" style="display:none"></div><div id="container"></div><div id="site"><div id="above"><div class="assistive"><a href="#torso">Skip to Content</a></div><div id="header"><div class="wrap"><!-- 1 = standard nav, 2 = new graphical nav --><script src="/includes/soa_session_monitor.jsp?OESSOA=&amp;cm_mmc=&amp;cm_ven=&amp;cm_cat=&amp;cm_pla=&amp;cm_ite=&amp;page=/custserv/custserv.jsp"></script><script src="/includes/soa_session_cart.jsp?itemCount=0&amp;OESSOA=&amp;cm_mmc=&amp;cm_ven=&amp;cm_cat=&amp;cm_pla=&amp;cm_ite=&amp;page=/custserv/custserv.jsp"></script><div id="search"><form action="http://www.eddiebauer.com/" method="get" name="endecaSearchForm" onsubmit="return search('endecaSearchForm','searchstring','catdimension');"><input type="hidden" name="form_state" value="endecaSearchForm"><input type="hidden" id="catdimension" name="catdimension" value="0"><input type="hidden" id="noResultsCatId" name="noResultsCatId" value=""><label for="searchstring"><img class="search" src="/assets/spacer.gif" alt="Search" title="Search"></label><input class="searchField" id="searchstring" value="" maxlength="35" name="searchstring"><input title="Search" type="submit" alt="Search" class="searchButton" value="Search"></form></div><!-- /search --><script type="text/javascript">
 
     document.domain = "eddiebauer.com";
     var siteCode = "EB";
+    var queryString = "sectionId=310";
+	if (queryString.toLowerCase().indexOf("siteid") != -1) {    
+	    var siteId = "null";
+	    if (IsNumeric(siteId)) {
+		    if (siteId < 1 || siteId > 2) {
+		    	document.location.href = '/home.jsp?siteId=1';
+		    }
+	    }
+	    else {
+	    	document.location.href = '/home.jsp?siteId=1'; 
+	   	}
+	}
+
+    function IsNumeric(sVal)
+    {
+       var ValidChars = "0123456789.";
+       var IsNumber=true;
+       var Char;
+       if (sVal != '') {
+	       for (i = 0; i < sVal.length && IsNumber == true; i++) 
+	          { 
+	          Char = sVal.charAt(i); 
+	          if (ValidChars.indexOf(Char) == -1) 
+	             {
+	             	IsNumber = false;
+	             }
+	       }
+       }
+       else {
+    	   IsNumber = false;
+       }
+       return IsNumber;
+    }
+
     function Visit(siteId){
        if (siteId != siteCode) {
            var lastEBLocation = GetCookie("LAST_EB_LOC");
@@ -67,79 +235,67 @@ color:#FFFFFF; cursor:pointer; overflow:visible; padding:0 1em; border-style:out
      SetCookie("CURRENT_SITE_LOC", siteCode);
 
 </script><div id="siteTab" class=""><img id="tabHot" src="/assets/spacer.gif"><a href='javascript:Visit("FA");'><img id="tabNot" src="/assets/spacer.gif" onmouseover="this.src='/assets/spacer.gif'; $j(this).addClass('over');" onmouseout="this.src='/assets/spacer.gif'; $j(this).removeClass('over');"></a>&nbsp;&nbsp;
-        </div><div id="shoppingBag"><ul class="nav"><li><span class="shop_bag_left"></span></li><li class="middle"><a id="bagLink" title="go to My Shopping Bag" href="https://www.eddiebauer.com/checkout/bag.jsp?" name="Shopping Bag Header">Shopping Bag:&nbsp;<strong><span id="itemsCount">0&nbsp;Items</span></strong></a><input type="hidden" id="isCheckoutWarnNeeded" name="isCheckoutWarnNeeded" value="false"></li><li><span class="shop_bag_right"></span></li></ul></div><!-- /shoppingBag --><div id="topNav"><!-- NOTE: the id of topNavLinks MUST be on the parent element for the checkout warning/link rewriting to work -->
+        </div><div id="shoppingBag" class="itemsFalse"><ul class="nav"><li><span class="shop_bag_left"></span></li><li class="middle"><a id="bagLink" title="go to My Shopping Bag" href="https://www.eddiebauer.com/checkout/bag.jsp?" name="Shopping Bag Header">Shopping Bag:&nbsp;<strong><span id="itemsCount">0&nbsp;Items</span></strong></a><input type="hidden" id="isCheckoutWarnNeeded" name="isCheckoutWarnNeeded" value="false"></li><li><span class="shop_bag_right"></span></li><li><input type="button" value="Checkout" id="Checkout" name="Checkout" onclick="changeLocation(&quot;https://www.eddiebauer.com/checkout/bag.jsp&quot;);" class="itemsFalse"></li></ul></div><!-- /shoppingBag --><div id="topNav"><!-- NOTE: the id of topNavLinks MUST be on the parent element for the checkout warning/link rewriting to work -->
 <ul class="nav" id="topNavLinks">
-	<li><a href="https://www.eddiebauer.com/user/member_account.jsp" env="secure" name="Your Account Header">Your
-		Account</a></li>
-	<li><a href="https://www.eddiebauer.com/user/wishlist.jsp" env="secure" rel="login" contentname="Login Layer Billboard - Wish List" name="Wish List Header">Wish List</a></li>
-	<li><a href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=334" env="unsecure" name="EB Friends Header">
-		Eddie Bauer Friends</a></li>
-	<li><a href="https://www.eddiebauer.com/custserv/custserv.jsp?sectionId=304" env="secure" name="Gift Cards">Gift
-		Cards</a></li>
-	<li><a href="https://www.eddiebauer.com/user/order_history.jsp" env="secure" name="Order Status Header">Order
-		Status</a></li>
-	<li><a href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=296" env="unsecure" name="Customer Service Header">
-		Customer Service</a></li>
-	<li>1-800-426-8020</li>
+	<li><a href="https://www.eddiebauer.com/user/member_account.jsp" env="secure" name="EB:Header:Your Account">Your Account</a></li>
+	<li><a href="https://www.eddiebauer.com/user/order_history.jsp" env="secure" name="EB:Header:Order Status">Order Status</a></li>
+	<li><a href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=296" env="unsecure" name="EB:Header:Customer Service Header">Customer Service</a></li>
+	<li><a href="javascript:getAndSendEmail();" env="unsecure" name="EB:Header:Email sign up">Email Sign-up</a></li>
+	<li class="phone">1-800-426-8020</li>
 </ul>
+
 <ul class="nav" id="topNavDropDownLinks">
-	<li id="OurGuaranteeLink"><a name="Our Guarantee" env="secure" href="javascript:void();" rel="#OurGuarantee" class="flyoutMenu">Our Guarantee</a></li>
-	<li id="StoreLocatorLink"><a name="Store Locator" env="unsecure" href="javascript:void();" rel="#StoreLocator" class="flyoutMenu">Store Locator</a></li>	
-	<li id="CatalogQuickOrderLink"><a name="Catalog Quick Order" env="unsecure" href="javascript:void();" rel="#CatalogQuickOrder" class="flyoutMenu">Catalog Quick Order</a></li>	
+	<li id="OurGuaranteeLink"><a name="EB:Header:Our Guarantee" env="secure" href="javascript:void(0);" rel="#OurGuarantee" class="flyoutMenu" alt="Our Guarantee" title="Our Guarantee">Our Guarantee</a></li>
+	<li id="StoreLocatorLink"><a name="EB:Header:Store Locator" env="unsecure" href="javascript:void(0);" rel="#StoreLocator" class="flyoutMenu" alt="Store Locator" title="Store Locator">Store Locator</a></li>	
+	<li id="CatalogQuickOrderLink"><a name="EB:Header:Catalog Quick Order" env="unsecure" alt="Catalog Quick Order" title="Catalog Quick Order" href="javascript:void(0);" rel="#CatalogQuickOrder" class="flyoutMenu">Catalog Quick Order</a></li>	
 </ul>
-<br class="clear">
+
+<div class="clear">
+</div>
 <span class="shop_bag_right"></span>
 <div id="logo">
-	<a href="http://www.eddiebauer.com/home.jsp" env="unsecure" title="Eddie Bauer" name="Home Header">
-		<img src="/assets/spacer.gif" alt="Eddie Bauer"></a></div>
-<div id="outerwear_flyout" class="hidden" style="display: none;">
-	<ul class="flyover_nav">
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<li class="not" style="line-height: 0px !important; font-size: 0 !important;"><a class="flyout_link ow_mens" href="/EB/Mens-Outerwear/index.cat" title="Mens">Mens</a></li><li class="not" style="line-height: 0px !important; font-size: 0 !important;"><a class="flyout_link ow_womens" href="/EB/Womens-Outerwear/index.cat" title="Womens">Womens</a></li><!--[if lte IE 6]></td></tr></table></a><![endif]--></ul>
+	<a href="http://www.eddiebauer.com/home.jsp" env="unsecure" title="Eddie Bauer" name="EB:Header:Home">
+		<img src="/assets/spacer.gif" alt="Eddie Bauer"></a>
 </div>
-<div id="shoes_flyout" class="hidden" style="display: none;">
-	<ul class="flyover_nav">
-		<!--[if lte IE 6]><table><tr><td><![endif]-->
-		<li class="not" style="line-height: 0px !important; font-size: 0 !important;"><a class="flyout_link sa_mens" href="/EB/Mens-Shoes--Accessories/index.cat" title="Mens">
-			Mens</a></li><li class="not" style="line-height: 0px !important; font-size: 0 !important;">
-				<a class="flyout_link sa_womens" href="/EB/Womens-Shoes--Accessories/index.cat" title="Womens">
-					Womens</a></li><!--[if lte IE 6]></td></tr></table><![endif]--></ul>
-</div>
-<div id="flyout_OurGuarantee" class="flyoutContent" style="display:none;">	
+
+<div id="flyout_OurGuarantee" class="flyoutContent" style="display:none !important;">	
 	<div id="OurGuarantee_body">
 		<div class="flyout_closeButton"></div>
 		<div id="OurGuarantee_content">
 			<h4>Our Creed</h4>
-			<p>To give you such outstanding quality, value, service and guarantee that we may be worthy of your high esteem.™</p>
+			<p>To give you such outstanding quality, value, service and guarantee that we may be worthy of your high esteem.?</p>
 			<h4>Our Guarantee</h4>
-			<p>Every item we sell will give you complete satisfaction or you may return it for a full refund.™</p>
-			<p><a href="/custserv/custserv.jsp?sectionId=240" id="learnMore">Learn More</a></p>
+			<p>Every item we sell will give you complete satisfaction or you may return it for a full refund.?</p>
+			<p><a href="/custserv/custserv.jsp?sectionId=240" id="learnMore" alt="learn More" name="EB:Header:Learn More" title="learn More">Learn More</a></p>
 		</div>		
 	</div>
 </div>
 
-<div id="flyout_StoreLocator" class="flyoutContent" style="display:none;">	
+<div id="flyout_StoreLocator" class="flyoutContent" style="display:none !important;">	
 	<div id="StoreLocator_body">
 		<div class="flyout_closeButton"></div>
 		<div id="StoreLocator_content">
 			<div id="flyout_StoreLocator_postalcode">
-				<span class="postalcode">Zip/Postal Code</span>
-				<input type="text" id="flyoutPostalCode" value="Enter Zip Code" onfocus="if(this.value=='Enter Zip Code'){this.value='';}"><input class="button" type="button" name="flyoutPostalCodeButton" value="GO" onclick="StoreLocatorFlyout(3,'store_query')">
-				<span class="or_break">OR</span>
-				<span class="city">City:</span>
-				<input type="text" id="flyoutCity" value="">
-				<span class="city">State/Province:</span>
-				<select size="1" id="flyoutState" name="flyoutState"><option value="">Select One</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AB">Alberta</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="BC">British Columbia</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MB">Manitoba</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NB">New Brunswick</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NF">Newfoundland</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="NS">Nova Scotia</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="ON">Ontario</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SK">Saskatchewan</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select><input class="button" type="button" name="flyoutCityButton" value="GO" onclick="StoreLocatorFlyout(4,'store_query')">
+<form id="header_store_locator_zip_form" style="margin:0; padding: 0;" action="javascript:StoreLocatorFlyout(3,'store_query')">
+	<span class="postalcode">Zip/Postal Code</span>
+		<input type="text" id="flyoutPostalCode" value="Enter Zip Code" onfocus="if(this.value=='Enter Zip Code') this.value='';">
+		<input class="gobutton" type="image" src="/assets/spacer.gif" name="EB:Header:Flyout Postal Code Button" value="GO"></form>
+<form id="header_store_locator_city_form" action="javascript:StoreLocatorFlyout(4,'store_query')">
+		<span class="or_break">OR</span>
+		<span class="city">City:</span>
+		<input type="text" id="flyoutCity" value="">
+		<span class="city name">State/Province:</span>
+		<select size="1" id="flyoutState" name="EB:Header:Flyout State"><option value="">Select One</option><option value="AL">Alabama</option><option value="AK">Alaska</option><option value="AB">Alberta</option><option value="AZ">Arizona</option><option value="AR">Arkansas</option><option value="BC">British Columbia</option><option value="CA">California</option><option value="CO">Colorado</option><option value="CT">Connecticut</option><option value="DE">Delaware</option><option value="DC">District of Columbia</option><option value="FL">Florida</option><option value="GA">Georgia</option><option value="HI">Hawaii</option><option value="ID">Idaho</option><option value="IL">Illinois</option><option value="IN">Indiana</option><option value="IA">Iowa</option><option value="KS">Kansas</option><option value="KY">Kentucky</option><option value="LA">Louisiana</option><option value="ME">Maine</option><option value="MB">Manitoba</option><option value="MD">Maryland</option><option value="MA">Massachusetts</option><option value="MI">Michigan</option><option value="MN">Minnesota</option><option value="MS">Mississippi</option><option value="MO">Missouri</option><option value="MT">Montana</option><option value="NE">Nebraska</option><option value="NV">Nevada</option><option value="NB">New Brunswick</option><option value="NH">New Hampshire</option><option value="NJ">New Jersey</option><option value="NM">New Mexico</option><option value="NY">New York</option><option value="NF">Newfoundland</option><option value="NC">North Carolina</option><option value="ND">North Dakota</option><option value="NS">Nova Scotia</option><option value="OH">Ohio</option><option value="OK">Oklahoma</option><option value="ON">Ontario</option><option value="OR">Oregon</option><option value="PA">Pennsylvania</option><option value="RI">Rhode Island</option><option value="SK">Saskatchewan</option><option value="SC">South Carolina</option><option value="SD">South Dakota</option><option value="TN">Tennessee</option><option value="TX">Texas</option><option value="UT">Utah</option><option value="VT">Vermont</option><option value="VA">Virginia</option><option value="WA">Washington</option><option value="WV">West Virginia</option><option value="WI">Wisconsin</option><option value="WY">Wyoming</option></select><input class="gobutton" src="/assets/spacer.gif" type="image" name="EB:Header:Flyout City Button" value="GO"></form>
 			</div>
 		</div>		
 	</div>
 </div>	
 
-<div id="flyout_CatalogQuickOrder" class="flyoutContent" style="display:none;">	
+<div id="flyout_CatalogQuickOrder" class="flyoutContent" style="display:none !important;">	
 	<div id="CatalogQuickOrder_body">
 		<div class="flyout_closeButton"></div>
 		<div id="CatalogQuickOrder_content">			
-			<p>To place a Catalog Quick Order enter a three part item numer below.</p>
+			<p>To place a Catalog Quick Order, enter a three-part item number below.</p>
 				<div class="EOBInputs">
 					<form action="javascript:validateSkuFormat('flyOutdeptMFT','flyOuteffortMFT','flyOutitemMFT', 'Catalog Quick Order');" method="post" id="quickOrderFlyOutForm">
 						<input type="hidden" name="form_state" value="quickOrderFlyOutForm">
@@ -149,313 +305,1224 @@ color:#FFFFFF; cursor:pointer; overflow:visible; padding:0 1em; border-style:out
 						<input type="text" autocomplete="off" maxlength="3" size="3" name="flyOutdeptMFT" value="A00" onkeyup="eobAutotab('flyOutdeptMFT', 'flyOuteffortMFT',3);" onfocus="if(this.value=='A00'){this.value='';}" id="flyOutdeptMFT">
 						<input type="text" autocomplete="off" maxlength="3" size="3" name="flyOuteffortMFT" value="000" onkeyup="eobAutotab('flyOuteffortMFT', 'flyOutitemMFT',3);" onfocus="if(this.value=='000'){this.value='';}" id="flyOuteffortMFT">
 						<input type="text" autocomplete="off" maxlength="4" size="4" value="0000" name="flyOutitemMFT" onfocus="if(this.value=='0000'){this.value='';}" id="flyOutitemMFT">
-						<input class="button" type="submit" value="GO" alt="GO" title="GO">
+						<input class="gobutton" type="image" value="GO" alt="GO" title="GO" src="/assets/spacer.gif" name="EB:Header:Catalog Quick Order">
 					</form>
 				</div>
 		</div>		
 	</div>
 </div>
 
+<div id="flyoutNav_cat_2" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class=""><a href="/EB/Men/Outerwear--Blazers/index.cat" title="" alt="" name="Fly Out: Mens: Category: Outerwear">Outerwear</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Blazers/index.cat" title="" alt="" name="Fly Out: Mens: Category: Blazers">Blazers</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Shirts/index.cat" title="" alt="" name="Fly Out: Mens: Category: Shirts">Shirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Polos-Tees--Sweatshirts/index.cat" title="" alt="" name="Fly Out: Mens: Category: Tees">T-Shirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Polo-Shop/index.cat" title="" alt="" name="Fly Out: Mens: Category: Polos">Polo Shirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Polos-Tees--Sweatshirts/Hoodies--Sweatshirts/index.cat" title="" alt="" name="Fly Out: Mens: Category: Sweatshirts">Sweatshirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Sweaters/index.cat" title="" alt="" name="Fly Out: Mens: Category: Sweaters">Sweaters</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Pants/index.cat" title="" alt="" name="Fly Out: Mens: Category: Pants">Pants</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Jeans/index.cat" title="" alt="" name="Fly Out: Mens: Category: Jeans">Jeans</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Shorts--Swim/index.cat" title="" alt="" name="Fly Out: Mens: Category: Shorts">Shorts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Sleepwear--Slippers/index.cat" title="" alt="" name="Fly Out: Mens: Category: Sleep">Sleepwear</a></td>
+						</tr>
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2 last">
+				<div class="flyoutWrapContent">
+					<table>						
+						<tbody><tr>
+							<td class=""><a href="/EB/Men/Sleepwear--Slippers/Long-Underwear/index.cat" title="" alt="" name="Fly Out: Mens: Category: Baselayer">Long Underwear</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Shoes--Sandals/index.cat" title="" alt="" name="Fly Out: Mens: Category: Shoes">Shoes</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Socks/index.cat" title="" alt="" name="Fly Out: Mens: Category: Socks">Socks</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Accessories/Belts/index.cat" title="" alt="" name="Fly Out: Mens: Category: Belts">Belts</a></td>	
+						</tr>	
+						<tr>
+							<td class=""><a href="/EB/Men/Accessories/index.cat" title="" alt="" name="Fly Out: Mens: Category: Accessories">Accessories</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Accessories/Gadgets--Tools/index.cat" title="" alt="" name="Fly Out: Mens: Category: Gear">Gear</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Sale/index.cat" title="" alt="" name="Fly Out: Mens: Category: Sale">Sale</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Clearance/index.cat" title="" alt="" name="Fly Out: Mens: Category: Clearance">Clearance</a></td>	
+						</tr>
+						<tr>
+							<td class="divider"></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Short-Tall--XXXL/index.cat" title="" alt="" name="Fly Out: Mens: Category: Big Tall">Big &amp; Tall Sizes</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Shoes--Sandals/Up-to-size-15-Shoes/index.cat" title="" alt="" name="Fly Out: Mens: Category: Shoes 15">Shoes up to size 15</a></td>
+						</tr>						
+					</tbody></table>
+				</div>
+			</div>							
+		</div>
+	</div>
+</div>
 
+<div id="flyoutNav_cat_3" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class=""><a href="/EB/Women/womens-new-arrivals/index.cat" title="" alt="" name="Fly Out: Wos: Category: New Arrivals">New Arrivals</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Outerwear-Jackets--Blazers/index.cat" title="" alt="" name="Fly Out: Wos: Category: Outerwear">Outerwear</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Business-Casual-Blazers/index.cat" title="" alt="" name="Fly Out: Wos: Category: Blazers">Blazers</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Tops-by-Fit/index.cat" title="" alt="" name="Fly Out: Wos: Category: All Tops">All Tops</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Sweaters--Cardigans/index.cat" title="" alt="" name="Fly Out: Wos: Category: Sweaters">Sweaters</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Tees--Knit-Tops/index.cat" title="" alt="" name="Fly Out: Wos: Category: T-Shirts">T-Shirts</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/Women/Activewear/index.cat" title="" alt="" name="Fly Out: Wos: Category: Sweatshirts">Sweatshirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Shirts--Blouses/index.cat" title="" alt="" name="Fly Out: Wos: Category: Shirts">Shirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Pants-Capris--Shorts/index.cat" title="" alt="" name="Fly Out: Wos: Category: All Pants">All Pants</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Jeans/index.cat" title="" alt="" name="Fly Out: Wos: Category: Jeans">Jeans</a></td>	
+						</tr>											
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2 last">
+				<div class="flyoutWrapContent">
+					<table>
+                        <tbody><tr>
+							<td class=""><a href="/EB/Women/Sleepwear--Slippers/index.cat" title="" alt="" name="Fly Out: Wos: Category: Sleepwear">Sleepwear</a></td>
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Women/Suits/index.cat" title="" alt="" name="Fly Out: Wos: Category: Suiting Seperates">Suiting Seperates</a></td>
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/Women/Swimwear/index.cat" title="" alt="" name="Fly Out: Wos: Category: Swimwear">Swimwear</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Shoes-Boots--Sandals/index.cat" title="" alt="" name="Fly Out: Wos: Category: Shoes">Shoes</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Accessories/index.cat" title="" alt="" name="Fly Out: Wos: Category: Accessories">Accessories</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Sale/index.cat" title="" alt="" name="Fly Out: Wos: Category: Sale">Sale</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Clearance/index.cat" title="" alt="" name="Fly Out: Wos: Category: Clearance">Clearance</a></td>	
+						</tr>
+						<tr>
+							<td class="divider"></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Petite-2-18/index.cat" title="" alt="" name="Fly Out: Wos: Category: Petite">Petite</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Tall-4-20/index.cat" title="" alt="" name="Fly Out: Wos: Category: Tall ">Tall</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Womens--Plus-sizes-16W-26W/index.cat" title="" alt="" name="Fly Out: Wos: Category: Plus">Plus 14W-24W</a></td>	
+						</tr>																							
+					</tbody></table>
+				</div>
+			</div>			
+		</div>
+	</div>
+</div>
+
+<div id="flyoutNav_cat_28542" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Kids/Boys/index.cat" title="" alt="" name="Fly Out: Kids: Category: All Boys">Boys</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys/index.cat" title="" alt="" name="Fly Out: Kids: Category: View All Boys">All Boys</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys-Jackets--Vest/index.cat" title="" alt="" name="Fly Out: Kids: Category: Boys Jackets">Jackets &amp; Vests</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys-Fleece/index.cat" title="" alt="" name="Fly Out: Kids: Category: Boys Fleece">Fleece</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys-Pants/index.cat" title="" alt="" name="Fly Out: Kids: Category: Boys Pants">Pants</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys-First-Ascent/index.cat" title="" alt="" name="Fly Out: Kids: Category: Boys FA">First Ascent</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys/Boys-Hats--Gloves/index.cat" title="" alt="" name="Fly Out: Kids: Category: Boys Hats">Hats &amp; Gloves</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys-Gear/index.cat" title="" alt="" name="Fly Out: Kids: Category: Boys Gear">Gear</a></td>
+						</tr>						
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2">
+				<div class="flyoutWrapContent">
+					<table>						
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Kids/Girls/index.cat" title="" alt="" name="Fly Out: Kids: Category: All Girls">Girls</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Girls/index.cat" title="" alt="" name="Fly Out: Kids: Category: View All Girls">All Girls</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Girls-Jackets--Vest/index.cat" title="" alt="" name="Fly Out: Kids: Category: Girls Jackets">Jackets &amp; Vests</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Girls-Fleece/index.cat" title="" alt="" name="Fly Out: Kids: Category: Girls Fleece">Fleece</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Girls-Pants/index.cat" title="" alt="" name="Fly Out: Kids: Category: Girls Pants">Pants</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Girls-First-Ascent/index.cat" title="" alt="" name="Fly Out: Kids: Category: Girls FA">First Ascent</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Girls/Girls-Hats--Gloves/index.cat" title="" alt="" name="Fly Out: Kids: Category: Girls Hats">Hats &amp; Gloves</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Girls-Gear/index.cat" title="" alt="" name="Fly Out: Kids: Category: Girls Gear">Gear</a></td>
+						</tr>																							
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_3 last">
+				<div class="flyoutWrapContent">
+					<table>						
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Kids/Baby/index.cat" title="" alt="" name="Fly Out: Kids: Category: All Baby">Baby &amp; Toddler</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Baby/index.cat" title="" alt="" name="Fly Out: Kids: Category: View All Baby">All Baby &amp; Toddler</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Baby-Jackets--Vest/index.cat" title="" alt="" name="Fly Out: Kids: Category: Baby Jackets">Jackets &amp; Vests</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Fleece-Buntings/index.cat" title="" alt="" name="Fly Out: Kids: Category: Baby Fleece">Fleece</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Baby-Travel-Gear/index.cat" title="" alt="" name="Fly Out: Kids: Category: Baby Travel Gear">Baby Travel Gear</a></td>
+						</tr>						
+					</tbody></table>
+				</div>
+			</div>			
+		</div>
+	</div>
+</div>
+
+<div id="flyoutNav_cat_27297" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Mens-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Header: Mens Line">Men</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Mens-Outerwear/View-All-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens View All">All Outerwear</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Jackets-and-Parkas/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Jackets">Jackets</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Parkas/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Parkas">Parkas</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Blazers/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Blazers">Blazers</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Vests/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Vests">Vests</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Mens-Outerwear-Pants/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Pants">Pants</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Worlds-Best-Down/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Down">Down</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Mens-Fleece-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Fleece">Fleece</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Leather/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Leather">Leather</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Mens-Casual-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Casual">Casual</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Water-Resistant-Outerwear--Blazers/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Rain">Rain Protection</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/First-Ascent/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Technical">First Ascent</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Long-Underwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Baselayer">Baselayer</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Outerwear/Sale-Mens-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Mens Sale">Sale</a></td>	
+						</tr>
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Womens-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Header: Womens Line">Women</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Womens-Outerwear/womens-jackets/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens View All">All Outerwear</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Jackets-and-Parkas/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Jackets">Jackets</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Parkas/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Parkas">Parkas</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Business-Casual-Blazers/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Blazers">Blazers</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Vests/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Vests">Vests</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Pants/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Pants">Pants</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Down-Outerwear--Jackets/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Down">Down</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Fleece-Outerwear--Jackets/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Fleece">Fleece</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Leather-Outerwear--Jackets/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Leather">Leather</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Casual-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Casual">Casual</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Water-Resistant-Outerwear--Jackets/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Rain">Rain Protection</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Womens-First-Ascent-Outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Technical">First Ascent</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/Baselayer/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Baselayer">Baselayer</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Outerwear/sale-outerwear/index.cat" title="" alt="" name="Fly Out: Outerwear: Category: Womens Sale">Sale</a></td>	
+						</tr>						
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_3 last">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Kids/index.cat" title="" alt="" name="Fly Out: Kids: Line: Kids">Kids</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/Kids/Boys/index.cat" title="" alt="" name="Fly Out: Kids: Category: Boys">Boys</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Kids/Girls/index.cat" title="" alt="" name="Fly Out: Kids: Category: Girls">Girls</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Kids/Baby/index.cat" title="" alt="" name="Fly Out: Kids: Category: Baby">Baby &amp; Toddler</a></td>
+						</tr>
+					</tbody></table>
+				</div>
+			</div>	
+		</div>
+	</div>
+</div>
+
+<div id="flyoutNav_cat_23209" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Mens-Shoes--Accessories/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Header: Mens Shoes">Men</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/View-All/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: View All">All Men's Shoes</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Shop-by-Brand/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Brands">Shoes by Brand</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Boots/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Boots">Boots</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Cold-Weather-Boots--Shoes/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Winter Boots Shoes">Winter Boots &amp; Shoes</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Slippers/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Slippers">Slippers</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Everyday-Casual-Shoes/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Casual">Casual</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Business-Casual/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Dress">Dress Casual</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Hiking--Trail-Running/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Hiking Trail">Hiking &amp; Trail</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Slip-Ons/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Loafers">Loafers &amp; Slip-Ons</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Oxfords/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Oxfords">Oxfords</a></td>	
+						</tr>					
+						<tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Up-to-size-15-Shoes/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Big 15">Big Sizes (up to 15)</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Mens-Shoes--Accessories/Sale/index.cat" title="" alt="" name="Fly Out: Mens Shoes: Category: Sale">Sale</a></td>	
+						</tr>
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2 last">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Womens-Shoes--Accessories/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Header: Wos Shoes">Women</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/View-All-Shoes/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: View All">All Women's Shoes</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Shop-by-Brand/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Shop By Brand">Shoes by Brand</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Boots/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Boots">Boots</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Cold-Weather-Boots--Shoes/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Winter Boots &amp; Shoes">Winter Boots &amp; Shoes</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Waterproof-Rain-Boots-Shoes/index.cat" title="" alt="" name="Fly Out: Womens Shoes: Wos Wet Weather Shoes">Wet Weather Boots &amp; Shoes</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Slippers/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Slippers">Slippers</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Slip-ons--Pumps/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Ballet Flats">Ballet Flats</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Clogs/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Clogs">Clogs</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Active-Casual/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Active Shoes">Active Shoes</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Loafers--Mules/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Loafers Slip Ons">Loafers &amp; Slip-Ons</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Oxfords--Lace-Ups/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Oxfords Lace Ups">Oxfords &amp; Lace Ups</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Womens-Shoes--Accessories/Sale/index.cat" title="" alt="" name="Fly Out: Wos Shoes: Category: Sale">Sale</a></td>	
+						</tr>																																			
+					</tbody></table>
+				</div>
+			</div>			
+		</div>
+	</div>
+</div>
+
+<div id="flyoutNav_cat_5" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class=""><a href="/EB/Bags--Gear/Luggage/index.cat" title="" alt="" name="Fly Out: Gear: Category: All Luggage">Luggage</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Backpacks--Messengers/index.cat" title="" alt="" name="Fly Out: Gear: Category: Backpacks">Backpacks</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Luggage--Duffels/index.cat" title="" alt="" name="Fly Out: Gear: Category: Duffels">Duffel Bags</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Messenger-Bags/index.cat" title="" alt="" name="Fly Out: Gear: Category: Messenger Bags">Messenger Bags</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Handbags--Wallets/index.cat" title="" alt="" name="Fly Out: Gear: Category: Totes and Waist Packs">Totes &amp; Waist Packs</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bags--Gear/Wallets/index.cat" title="" alt="" name="Fly Out: Gear: Category: Umbrellas and Travel Gear">Umbrellas &amp; Travel Gear</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Sale/index.cat" title="" alt="" name="Fly Out: Gear: Category: Sale">Sale</a></td>
+						</tr>						
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2 last">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>
+							<td class=""><a href="/EB/Bags--Gear/All-Gadgets--Gear/index.cat" title="" alt="" name="Fly Out: Gear: Category: All Gadgets">All Gear &amp; Gadgets</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Electronics/index.cat" title="" alt="" name="Fly Out: Gear: Category: Gadgets and Electronics">Gadgets &amp; Electronics</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Knives--Tools/index.cat" title="" alt="" name="Fly Out: Gear: Category: Knives and Tools">Knives &amp; Tools</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Sunglasses/index.cat" title="" alt="" name="Fly Out: Gear: Category: Sunglasses">Sunglasses</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Watches/index.cat" title="" alt="" name="Fly Out: Gear: Category: Watches">Watches</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Hydration--Lighting/Hydration/index.cat" title="" alt="" name="Fly Out: Gear: Category: Lighting and Hydration">Hydration</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Hydration--Lighting/Lighting/index.cat" title="" alt="" name="Fly Out: Gear: Category: Lighting and Hydration">Lighting</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Pet-Products/index.cat" title="" alt="" name="Fly Out: Gear: Category: Dog Gear">Dog Gear</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Kids-Gear/index.cat" title="" alt="" name="Fly Out: Gear: Category: Kids Gear">Kids Gear &amp; Gadgets</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bags--Gear/Snow-Play/index.cat" title="" alt="" name="Fly Out: Gear: Category: Snow Gear">Snowshoes &amp; Gear</a></td>
+						</tr>						
+					</tbody></table>
+				</div>
+			</div>							
+		</div>
+	</div>
+</div>
+
+<div id="flyoutNav_cat_27165" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Gifts/Holiday-Gifts/index.cat" title="" alt="" name="Fly Out: Gifts: Category: The Gift Shop">THE GIFT SHOP</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Christmas-Holiday-Gifts-for-Men/index.cat" title="" alt="" name="Fly Out: Gear: Category: Gifts for Him">Gifts for Him</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Gifts/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Gifts for Her">Gifts for Her</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Gifts-for-Kids/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Gifts for Kids">Gifts for Kids</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Gifts-for-the-Home/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Gifts for the Home">Gifts for the Home</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/The-Worlds-Best-Down/index.cat" title="" alt="" name="Fly Out: Gifts: Category: World's Best Down">World's Best Down</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Hostess-Gifts/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Hostess Gifts">Hostess Gifts</a></td>
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Gift-Under/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Gifts Under $50">Gifts Under $50</a></td>
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Gifts-for-the-Dog-Lover/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Eddie's Picks">Eddie's Picks</a></td>
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Collectibles/index.cat" title="" alt="" name="Fly Out: Gifts: Category: One-of-a-Kind Gifts">One-of-a-Kind Gifts</a></td>
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Pendelton/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Everything Pendelton">Everything Pendleton</a></td>
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Gifts/Holiday-Gifts/Games/index.cat" title="" alt="" name="Fly Out: Gifts: Category: Games">Games</a></td>
+						</tr>						
+					</tbody></table>
+				</div>
+			</div>
+										
+		</div>
+	</div>
+</div>
+
+<div id="flyoutNav_cat_24825" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class=""><a href="/EB/Bedding/View-All-Bedding/index.cat" title="" alt="" name="Fly Out: Home: Category: View All">All Bedding</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/Complete-Bed-Sets/index.cat" title="" alt="" name="Fly Out: Home: Category: Collections">Bedding Collections</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/Down-Pillows/index.cat" title="" alt="" name="Fly Out: Home: Category: Down Pillows">Down Pillows</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/Down-Comforters/index.cat" title="" alt="" name="Fly Out: Home: Category: Down Comforters">Down Comforters</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/Down-Alternatives/index.cat" title="" alt="" name="Fly Out: Home: Category: Down Alternative">Down Alternative</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/Down-Blankets/index.cat" title="" alt="" name="Fly Out: Home: Category: Down Blankets &amp; Throws">Down Blankets &amp; Throws</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/Comforter-Covers/index.cat" title="" alt="" name="Fly Out: Home: Category: Duvet Covers &amp; Shams">Duvet Covers &amp; Shams</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/Premium-Portuguese-Flannel/index.cat" title="" alt="" name="Fly Out: Home: Category: Flannel Bedding">Flannel Bedding</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/Sheets/index.cat" title="" alt="" name="Fly Out: Home: Category: Sheets &amp; Pillow Cases">Sheets &amp; Pillow Cases</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/Bedding/Down-Throws/index.cat" title="" alt="" name="Fly Out: Home: Category: Accents">Accent Pillows &amp; Throws</a></td>	
+						</tr>
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2 last">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>
+							<td class=""><a href="/EB/Bedding/Towels/index.cat" title="" alt="" name="Fly Out: Home: Category: Towels">Towels</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Bedding/View-All-Home--Entertaining/index.cat" title="" alt="" name="Fly Out: Home: Category: All Home Accents">All Home Accents</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/Bedding/Gifts-for-the-Home/index.cat" title="" alt="" name="Fly Out: Home: Category: Holiday Decor &amp; Collectibles">Holiday Décor &amp; Collectibles</a></td>	
+						</tr>
+						 <tr>
+							<td class=""><a href="/EB/Bedding/Serving--Entertaining/index.cat" title="" alt="" name="Fly Out: Home: Category: Entertaining &amp; Hostess Gifts">Entertaining &amp; Hostess Gifts</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/Games/index.cat" title="" alt="" name="Fly Out: Home: Category: Games">Games</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/Edibles/index.cat" title="" alt="" name="Fly Out: Home: Category: Tastes of the Northwest">Tastes of the Northwest</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/Hearth/index.cat" title="" alt="" name="Fly Out: Home: Category: Hearth">Hearth</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/Home-Dcor/index.cat" title="" alt="" name="Fly Out: Home: Category: Library">Library</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/Furniture/index.cat" title="" alt="" name="Fly Out: Home: Category: Furniture">Furniture</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/Bedding-Home-Sale/index.cat" title="" alt="" name="Fly Out: Home: Category: Sale">Sale</a></td>	
+						</tr>  									
+					</tbody></table>
+				</div>
+			</div>							
+		</div>
+	</div>
+</div>
+
+<div id="flyoutNav_cat_28485" class="flyoutNav EB">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/Sale/index.cat" title="" alt="" name="Fly Out: Sale: Header: Sale">Sale</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Men/Sale/index.cat" title="" alt="" name="Fly Out: Sale: Category: Mens Sale">Men</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Women/Sale/index.cat" title="" alt="" name="Fly Out: Sale: Category: Wos Sale">Women</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/Bedding/index.cat" title="" alt="" name="Fly Out: Sale: Category: Wos Sale">Home</a></td>	
+						</tr>											
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2 last">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>
+							<td class="headerFlyout"><a href="/EB/Clearance/index.cat" title="" alt="" name="Fly Out: Clearance: Header ">Clearance: EXTRA 30% OFF</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Clearance/Mens-Clearance-Overstock-Outlet/index.cat" title="" alt="" name="Fly Out: Sale: Category: Mens Clearance">Men</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/Clearance/Womens-Clearance-Overstock-Outlet/index.cat" title="" alt="" name="Fly Out: Sale: Category: Wos Clearance">Women</a></td>
+						</tr>																					
+					</tbody></table>
+				</div>
+			</div>							
+		</div>
+	</div>
+</div>
+			
+<div id="flyoutNav_cat_28475" class="flyoutNav FA">
+	<div class="flyoutflyoutWrapContent">
+		<div class="indicator"></div>
+		<div class="content">
+			<div class="column col_1">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/First-Ascent/Mens-First-Ascent/index.cat" title="" alt="" name="Fly Out: First Ascent: Header: Mens All">Men</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Mens-First-Ascent/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens All">All First Ascent</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Jackets--Vest/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Jackets &amp; Vest">Jacket &amp; Vests</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Mens-First-Ascent/T-Shirts/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens T-Shirts">T-Shirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/First-Ascent-Mens-Pants/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Pants">Pants</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/First-Ascent-Mens-Baselayer/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Baselayer">Baselayer</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Hard-Shell/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Hard Shell">Hard Shell</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Soft-Shell/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Soft Shell">Soft Shell</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Down/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Down">Down Insulation</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Mens-First-Ascent/Mens-First-Ascent-Primaloft/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Synthetic">Synthetic Insulation</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Backpacks--Tools/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Backpacks">Backpacks &amp; Tools</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Gloves--Hats/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Mens Gloves, Hats &amp; Socks">Gloves, Hats &amp; Socks</a></td>	
+						</tr>												
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_2">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>
+							<td class="headerFlyout"><a href="/EB/First-Ascent/Womens-First-Ascent/index.cat" title="" alt="" name="Fly Out: First Ascent: Header: Womens All">Women</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Womens-First-Ascent/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens All">All First Ascent</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Womens-Jackets--Vests/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Jackets &amp; Vest">Jacket &amp; Vests</a></td>	
+						</tr>
+                        <tr>
+							<td class=""><a href="/EB/First-Ascent/Womens-First-Ascent/T-Shirts/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: T-Shirts">T-Shirts</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/First-Ascent-Womens-Pants/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Pants">Pants</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/First-Ascent-Womens-Baselayer/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Baselayer">Baselayer</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Hard-Shell/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Hard Shell">Hard Shell</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Soft-Shell/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Soft Shell">Soft Shell</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Down/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Down">Down Insulation</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Womens-First-Ascent/Womens-First-Ascent-Primaloft/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Synthetic">Synthetic Insulation</a></td>	
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Backpacks--Tools/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Backpacks">Backpacks &amp; Tools</a></td>	
+						</tr>						
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Gloves--Hats/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Womens Gloves, Hats &amp; Socks">Gloves, Hats &amp; Socks</a></td>	
+						</tr>					
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_3">
+				<div class="flyoutWrapContent">
+					<table>
+						<tbody><tr>					
+							<td class="headerFlyout"><a href="/EB/First-Ascent/Kids-First-Ascent/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Kids">Kids</a></td>
+						</tr>
+						<tr>					
+							<td class=""><a href="/EB/First-Ascent/Kids-First-Ascent/Boys/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Boys">Boys</a></td>
+						</tr>
+						<tr>
+							<td class=""><a href="/EB/First-Ascent/Kids-First-Ascent/Girls/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Girls">Girls</a></td>
+						</tr>																
+					</tbody></table>
+				</div>
+			</div>
+			<div class="column col_4 last">								
+				<div class="flyoutWrapContent">
+					<div class="seperator">
+						<table>
+							<tbody><tr>
+								<td class="col1">
+									<div class="guideBuiltLogo"></div>
+									<div class="copytext">First Ascent is a line of world-class expedition and ski wear created by Eddie Bauer with some of the best mountain and ski guides in the world.</div>
+								</td>
+								<td class="col2 image"><img src="/assets/ocp/content/skin/sprites/110801/flyoutFirstAscent.jpg"></td>
+							</tr>																				
+						</tbody></table>
+						<table class="links">											
+							<tbody><tr>
+								<td>
+									<a href="/EB/First-Ascent/Guide-Built/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Guide Built" class="guideLinks">
+										<div class="headerLink">Guide Built</div>							
+										<div class="copytextLink">Our design philosophy</div>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td class=""><hr></td>
+							</tr>
+							<tr>
+								<td>
+									<a href="/EB/First-Ascent/First-Ascent-Team/index.cat" title="" alt="" name="Fly Out: First Ascent: Category: Meet the Team" class="guideLinks">
+										<div class="headerLink">Meet the Team</div>							
+										<div class="copytextLink">World-class guides and athletes</div>
+									</a>
+								</td>
+							</tr>
+							<tr>
+								<td class="copytextLink"></td>
+							</tr>
+							<tr>
+								<td class=""><hr></td>
+							</tr>											
+							<tr>
+								<td>
+									<a href="http://blog.firstascent.com" target="_blank" title="" alt="" name="Fly Out: First Ascent: Category: Born Out There" class="guideLinks">
+										<div class="headerLink">Born Out There</div>							
+										<div class="copytextLink">The First Ascent Blog</div>
+									</a>
+								</td>
+							</tr>											
+							
+						</tbody></table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+				
+				
 <script type="text/javascript">
-var topnavFlyOutFlagOuterwear = false;
-var topnavFlyOutFlagShoes_Accessories = false;
-var NavImgSelected = '';
+    var flyoutNavOverFlag = false;
+    var flyoutNavMenuOpenFlag = false;
+    var flyoutNavMenuOverFlag = false;
 
-jQuery.fn.maxLength = function(max){
-	this.each(function(){
-		//Get the type of the matched element
-		var type = this.tagName.toLowerCase();
-		//If the type property exists, save it in lower case
-		var inputType = this.type? this.type.toLowerCase() : null;
-		//Check if is a input type=text OR type=password
-		if(type == "input" && inputType == "text" || inputType == "password"){
-			//Apply the standard maxLength
-			this.maxLength = max;
-		}
-		//Check if the element is a textarea
-		else if(type == "textarea"){
-			//Add the key press event
-			this.onkeypress = function(e){
-				//Get the event object (for IE)
-				var ob = e || event;
-				//Get the code of key pressed
-				var keyCode = ob.keyCode;
-				//Check if it has a selected text
-				var hasSelection = document.selection? document.selection.createRange().text.length > 0 : this.selectionStart != this.selectionEnd;
-				//return false if can't write more
-				return !(this.value.length >= max && (keyCode > 50 || keyCode == 32 || keyCode == 0 || keyCode == 13) && !ob.ctrlKey && !ob.altKey && !hasSelection);
-			};
-			//Add the key up event
-			this.onkeyup = function(){
-				//If the keypress fail and allow write more text that required, this event will remove it
-				if(this.value.length > max){
-					this.value = this.value.substring(0,max);
-				}
-			};
-		}
-	});
-};
+    function flyoutNavMenuClose() {
+        jQuery('.flyoutNav').removeClass('show').removeClass('hot');
+        flyoutNavMenuOpenFlag = false;
+        flyoutNavMenuOverFlag = false;
+    };
 
-$j(document).ready(function() {	
-	
-	// Outerwear
-	$j("#img_27297").mouseover(function(){		   
-			$j("#outerwear_flyout").show();	
-			$j("#outerwear_flyout").css('z-index',999);
-			$j('#img_27297').addClass('hover'); 
-			$j("#outerwear_flyout").mouseover(function(){
-				topnavFlyOutShowOuterwear();
-				}); 
-			$j("#outerwear_flyout").mouseout(function(){
-				topnavFlyOutHideOuterwear();
-				}); 
-				
-	}); // add interceptor on mouseover topNav names
-	
-	$j("#img_27297").mouseout(function(){
-			TopNavHack();
-			$j("#outerwear_flyout").hide();
-			topnavFlyOutFlagOuterwear = false; //set to false if closed
-			$j('#img_27297').removeClass('hover'); //remove hover class from img		
-			//reset nav here
-			//check to see if NavImgSelected set if so nav was selected set to active state else default			
-				//TopNavHack();//call TopNavHack to set hot/selected states on main nav			
-				
-	}); // add interceptor on mouseout topNav names
-	
-	$j("#outerwear_flyout").mouseover(function(){
-		var imgSource = document.getElementById("img_27297");
-		var strImg = imgSource.src;	
-		$j("#img_27297").toggle('hover').toggle('over');				
-		topnavFlyOutFlagOuterwear = true; //set to true if open	
-		$j('#img_27297').addClass('hover');
-		
-	});// add interceptor on mouseout topNav names
-	
-	function topnavFlyOutHideOuterwear(){
-		$j("#outerwear_flyout").hide();	
-		topnavFlyOutFlagOuterwear = false; //set to false if closed				
-		$j('#img_27297').removeClass('hover'); //remove hover class from img	
-		//reset nav here
-		//check to see if NavImgSelected set if so nav was selected set to active state else default			
-			TopNavHack();//call TopNavHack to set hot/selected states on main nav	
-		
-	}
-	
-	function topnavFlyOutShowOuterwear(){
-		$j("#outerwear_flyout").show();
-		$j("#outerwear_flyout").css('z-index',999);
-		topnavFlyOutFlagOuterwear = true; //set to true if open	
-		$j('#img_27297').addClass('hover'); 
-	}
-	
-	
-	// Shoes & Accessories
-	$j("#img_23209").mouseover(function(){
-		
-			$j("#shoes_flyout").show();
-			$j("#shoes_flyout").css('z-index',999);	
-			$j('#img_23209').addClass('hover'); 
-			$j("#shoes_flyout").mouseover(function(){
-				topnavFlyOutShowShoes();
-				}); 
-			$j("#shoes_flyout").mouseout(function(){
-				topnavFlyOutHideShoes();
-				}); 	
-		
-	}); // add interceptor on mouseover topNav names
-		
-	$j("#img_23209").mouseout(function(){
-			$j("#shoes_flyout").hide();
-			topnavFlyOutFlagShoes_Accessories = false; //set to false if closed
-			$j('#img_23209').removeClass('hover'); //remove hover class from img		
-			//reset nav here
-			//check to see if NavImgSelected set if so nav was selected set to active state else default			
-			TopNavHack();//call TopNavHack to set hot/selected states on main nav
-			
-	}); // add interceptor on mouseout topNav names
-		
-	$j("#shoes_flyout").mouseover(function(){
-		var imgSource = document.getElementById("img_23209");
-		var strImg = imgSource.src;	
-		$j("#img_23209").toggle('hover').toggle('over');						
-		topnavFlyOutFlagShoes_Accessories = true; //set to true if open	
-		$j('#img_23209').addClass('hover'); 
-		
-	}); // add interceptor on mouseout topNav names
+    function flyoutNavMenu(e, state) {
+        var ele = e;
+        var eleLi = jQuery(ele).closest('li');
+        var imgID = jQuery(ele).closest('img');
+        var catID = jQuery(eleLi).attr('id');
+        var flyoutID = "#flyoutNav_" + catID;
 
-	function topnavFlyOutHideShoes(){
-		$j("#shoes_flyout").hide();
-		topnavFlyOutFlagShoes_Accessories = false; //set to false if closed				
-		$j('#img_23209').removeClass('hover'); //remove hover class from img	
-		//reset nav here
-		//check to see if NavImgSelected set if so nav was selected set to active state else default			
-			TopNavHack();//call TopNavHack to set hot/selected states on main nav	
-			
-	}
+        if (state == 'over') {
+            //close all open menus
+            flyoutNavMenuClose();
+            jQuery(ele).addClass('over');
+            if (jQuery(eleLi).hasClass('hot')) {
+                jQuery(flyoutID).addClass('show').addClass('hot');
+            } else {
+                jQuery(flyoutID).addClass('show');
+            }
+            flyoutNavMenuOpenFlag = true;
+            // bind to open flyout menu	
+            jQuery(flyoutID).bind('mouseenter', function () {
+                flyoutNavMenuOverFlag = true;
+            });
 
-	function topnavFlyOutShowShoes(){
-		$j("#shoes_flyout").show();
-		$j("#shoes_flyout").css('z-index',999);
-		topnavFlyOutFlagShoes_Accessories = true; //set to true if open	
-		$j('#img_23209').addClass('hover'); 
-	}
+            jQuery(flyoutID).bind('mouseleave', function () {
+                flyoutNavMenuClose();
+            });
+        }
 
-	TopNavHack();//call TopNavHack to set hot/selected states on main nav
-	$j('#searchstring').maxLength(60); 
-	
-	
-	var flyoutFlag = false; //closed
-	$j(document).ready(function(event) {
-		$j('.flyoutMenu').click(
-			
-			function(event) {
-				//stop the event from progating click
-				event.stopPropagation();
-				var targetFlyout = $j(this);
-					//flyoutMenuClose();
-				if(!flyoutFlag){	
-						flyoutMenuOpen(targetFlyout);
-						//attach a listener to modal for onclick	
-						$j('#flyoutOverlay').bind("clickoutside", function(event){							
-							flyoutMenuClose();
-						});						
-				} else {
-					if( $j(this).hasClass('over') ){ //flyout already open close other and open						
-						flyoutMenuClose();
-					}else{
-						flyoutMenuOpen(targetFlyout);
-						//attach a listener to modal for onclick	
-						$j('#flyoutOverlay').bind("clickoutside", function(event){							
-							flyoutMenuClose();
-						});						
-					}		
-									
-				}
+        if (state == 'out') {
+            jQuery(ele).removeClass('over');
+        }
+
+    }
+
+    jQuery('ul.nav').live('mouseenter', function () {
+        flyoutNavOverFlag = true;
+        if (typeof TopNavHack === "function") {
+            TopNavHack();
+        }
+    });
+
+    jQuery('ul.nav').live('mouseleave', function () {
+        flyoutNavOverFlag = false;
+        if (typeof TopNavHack === "function") {
+            TopNavHack();
+        }
+    });
+
+    var FlyoutMenuStatusInt = self.setInterval("FlyoutMenuStatus()", 500);
+
+    function FlyoutMenuStatus() {
+        //close menus that shouldn't be open
+        if (flyoutNavMenuOpenFlag === true && flyoutNavOverFlag === false && flyoutNavMenuOverFlag === false) {
+            flyoutNavMenuClose();
+        }
+        // update shopping bag info
+        var shoppingBagItems = jQuery('#itemsCount').html();
+        if (shoppingBagItems == '' || shoppingBagItems == null) {
+            shoppingBagItemCount = 0;
+        } else {
+            var shoppingBagItemStr = shoppingBagItems.split(' ');
+            var shoppingBagItemCount = parseInt(shoppingBagItemStr[0]);
+        }
+        if (shoppingBagItemCount >= 1) {
+            jQuery('#shoppingBag').addClass('items').addClass('itemsTrue');
+        } else {
+            jQuery('#shoppingBag').removeClass('items').removeClass('itemsTrue');
+        }
+    };
+
+    var NavImgSelected = '';
+
+    jQuery.fn.maxLength = function (max) {
+        this.each(function () {
+            //Get the type of the matched element
+            var type = this.tagName.toLowerCase();
+            //If the type property exists, save it in lower case
+            var inputType = this.type ? this.type.toLowerCase() : null;
+            //Check if is a input type=text OR type=password
+            if (type == "input" && inputType == "text" || inputType == "password") {
+                //Apply the standard maxLength
+                this.maxLength = max;
+            }
+            //Check if the element is a textarea
+            else if (type == "textarea") {
+                //Add the key press event
+                this.onkeypress = function (e) {
+                    //Get the event object (for IE)
+                    var ob = e || event;
+                    //Get the code of key pressed
+                    var keyCode = ob.keyCode;
+                    //Check if it has a selected text
+                    var hasSelection = document.selection ? document.selection.createRange().text.length > 0 : this.selectionStart != this.selectionEnd;
+                    //return false if can't write more
+                    return !(this.value.length >= max && (keyCode > 50 || keyCode == 32 || keyCode == 0 || keyCode == 13) && !ob.ctrlKey && !ob.altKey && !hasSelection);
+                };
+                //Add the key up event
+                this.onkeyup = function () {
+                    //If the keypress fail and allow write more text that required, this event will remove it
+                    if (this.value.length > max) {
+                        this.value = this.value.substring(0, max);
+                    }
+                };
+            }
+        });
+    };
+
+    $j(document).ready(function () {
+
+        $j('#searchstring').maxLength(60);
+        jQuery('input.searchButton').mouseover(function () {
+            jQuery(this).addClass('over');
+        }).mouseout(function () {
+            jQuery(this).removeClass('over');
+        });
+        var flyoutFlag = false; //closed
+        $j(document).ready(function (event) {
+            if (typeof TopNavHack === "function") {
+                TopNavHack();
+            }
+            $j('.flyoutMenu').click(
+
+			function (event) {
+			    //stop the event from progating click
+			    event.stopPropagation();
+			    var targetFlyout = $j(this);
+			    //flyoutMenuClose();
+			    if (!flyoutFlag) {
+			        flyoutMenuOpen(targetFlyout);
+			        //attach a listener to modal for onclick	
+			        $j('#flyoutOverlay').bind("clickoutside", function (event) {
+			            flyoutMenuClose();
+			        });
+			    } else {
+			        if ($j(this).hasClass('over')) { //flyout already open close other and open						
+			            flyoutMenuClose();
+			        } else {
+			            flyoutMenuOpen(targetFlyout);
+			            //attach a listener to modal for onclick	
+			            $j('#flyoutOverlay').bind("clickoutside", function (event) {
+			                flyoutMenuClose();
+			            });
+			        }
+
+			    }
 			}
-			
+
 		);
-				
-	});
-	
-	// Top nav flyouts
-	
-	function flyoutCloseButtonInit(){	
-		
-		//attach a onclick event to flyout	
-		$j('.flyout_closeButton').click(
-			function() {					
-			flyoutMenuClose();
-		});	
-						
-	}
-	
-	function flyoutMenuOpen (targetFlyout) {		
-		flyoutMenuClose();	//close any open flyouts			
-		flyoutFlag = true;										
-		this.contentHref = targetFlyout.attr("rel");		
-		targetFlyout.addClass('over');
-		targetFlyout.parent().addClass(this.contentHref.replace('#','')+"_tab");
-		var contentOffset = targetFlyout.position();
-		var contentXpos = contentOffset.left;
-		var contentYpos = contentOffset.top;		
-		this.contentOverlay = '#flyout_' + this.contentHref.replace('#','');		
-		targetFlyout.parent().append(			
-			'<div id="flyoutOverlay" class="flyout" style="z-index:999">'		
-			+'</div>'
-		);			
-		$j('#flyoutOverlay').html( $j(this.contentOverlay).html() );						
-		$j('#flyoutOverlay').css({left: contentXpos, top: contentYpos+24, width: $j(this.contentOverlay).width(), height:$j(this.contentOverlay).height(),zIndex:999});		
-		$j('.flyout').fadeIn(300);
-				
-		flyoutCloseButtonInit();
-		return		
-	}
-	
-	function flyoutMenuClose () {
-		//add logic for 
-		flyoutFlag = false;	
-		$j('#topNavDropDownLinks li').each( function(){
-			$j(this).find('.over').removeClass('over');					
-			$j(this).removeClass();
-			$j(this).find('#flyoutOverlay').fadeOut(100);			
-			$j(this).find('#flyoutOverlay').remove();				
-		});	
-		return ;
-	}
-	
-});
 
-TopNavHack = function() {
-	//get body cat ID
-	var BodyObject = document.getElementsByTagName('body')[0];
-	var BodyClass = BodyObject.className;
-	var BodyID = BodyObject.id;
-		NavImgSelected = '';
-	
-		if (BodyClass.indexOf('MENS-OUTERWEAR') != -1){
-			NavImgSelected = "img_27297";
-			$j('#'+NavImgSelected).addClass('over');
-		}	
-	
-		if (BodyClass.indexOf('WOMENS-OUTERWEAR') != -1){
-			NavImgSelected = "img_27297";
-			$j('#'+NavImgSelected).addClass('over');
-		}	
 
-		if (BodyClass.indexOf('MENS-SHOES--ACCESSORIES') != -1){
-			NavImgSelected = "img_23209";
-			$j('#'+NavImgSelected).addClass('over');			
-		}
-		
-		if (BodyClass.indexOf('WOMENS-SHOES--ACCESSORIES') != -1){
-			NavImgSelected = "img_23209";	
-			$j('#'+NavImgSelected).addClass('over');
-		}
-		
-		// Kiosk Fix
-		var endSessionButton = $j("a[href*='endSession.cmd']");
-			if($j(endSessionButton)){
-				$j(endSessionButton).css({"position":"absolute", "left":"660px","top":"-2px"});
-			}
-		
-}
-	function StoreLocatorFlyout(id) {
+            // add live chat buttons to site
+
+            // Order Status & History Page
+            jQuery('body.ORDER-STATUS--HISTORY #haveQuestions h3').html('Need Help?');
+            var OrderHistoryLink = '<a class="liveChatButton" style="display:block; margin-bottom: -16px; margin-left: 38px; padding: 0;" href="javascript:webISChatPop(\'Template=875375\');"><img src="http://as00.estara.com/webcare/public/linkimage.php?ulbid=875375" border="0" alt="Click to Chat"/></a>';
+            jQuery('body.ORDER-STATUS--HISTORY #haveQuestions p').append(OrderHistoryLink);
+            // hide cats on STANDALONE-PRODUCT-PAGE
+            jQuery("body.STANDALONE-PRODUCT-PAGE #cats").css("display", "none");
+
+        });
+
+        // Top nav flyouts
+
+        TopNavHack = function () {
+            //get body cat ID
+            var BodyObject = document.getElementsByTagName('body')[0];
+            var BodyClass = BodyObject.className;
+            var BodyID = BodyObject.id;
+            NavImgSelected = '';
+            NavSelectedId = $j('#mainNav ul.nav li').hasClass('hot');
+
+            if (BodyClass.indexOf('MENS-OUTERWEAR') != -1) {
+                NavImgSelected = "cat_27297";
+                $j('#' + NavImgSelected).removeClass('not').addClass('hot');
+            }
+
+            if (BodyClass.indexOf('WOMENS-OUTERWEAR') != -1) {
+                NavImgSelected = "cat_27297";
+                $j('#' + NavImgSelected).removeClass('not').addClass('hot');
+            }
+
+            if (BodyClass.indexOf('MENS-SHOES--ACCESSORIES') != -1) {
+                NavImgSelected = "cat_23209";
+                $j('#' + NavImgSelected).removeClass('not').addClass('hot');
+            }
+
+            if (BodyClass.indexOf('WOMENS-SHOES--ACCESSORIES') != -1) {
+                NavImgSelected = "cat_23209";
+                $j('#' + NavImgSelected).removeClass('not').addClass('hot');
+            }
+
+            //if(!NavSelectedId){
+            //	if (BodyClass.indexOf('SALE') != -1){
+            //		NavImgSelected = "cat_28485";
+            //		$j('#'+NavImgSelected).removeClass('not').addClass('hot');			
+            //	}
+
+            //	if (BodyClass.indexOf('CLEARANCE') != -1){
+            //		NavImgSelected = "cat_28485";	
+            //		$j('#'+NavImgSelected).removeClass('not').addClass('hot');
+            //	}
+            //}
+            // Kiosk Fix
+            var endSessionButton = $j("a[href*='endSession.cmd']");
+            if ($j(endSessionButton)) {
+                $j(endSessionButton).css({ "position": "absolute", "left": "460px", "top": "22px" });
+            }
+
+        }
+        function flyoutCloseButtonInit() {
+
+            //attach a onclick event to flyout	
+            $j('.flyout_closeButton').click(
+			function () {
+			    flyoutMenuClose();
+			});
+
+        }
+
+        function flyoutMenuOpen(targetFlyout) {
+            flyoutMenuClose(); //close any open flyouts			
+            flyoutFlag = true;
+            this.contentHref = targetFlyout.attr("rel");
+            targetFlyout.addClass('over');
+            targetFlyout.parent().addClass(this.contentHref.replace('#', '') + "_tab");
+            var contentOffset = targetFlyout.position();
+            var contentXpos = contentOffset.left;
+            var contentYpos = contentOffset.top;
+            this.contentOverlay = '#flyout_' + this.contentHref.replace('#', '');
+            targetFlyout.parent().append(
+			'<div id="flyoutOverlay" class="flyout" style="z-index:999">'
+			+ '</div>'
+		);
+            $j('#flyoutOverlay').html($j(this.contentOverlay).html());
+            $j('#flyoutOverlay').css({ left: contentXpos, top: contentYpos + 24, width: $j(this.contentOverlay).width(), height: $j(this.contentOverlay).height(), zIndex: 999 });
+            $j('.flyout').fadeIn(300);
+
+            flyoutCloseButtonInit();
+            return
+        }
+
+        function flyoutMenuClose() {
+            //add logic for 
+            flyoutFlag = false;
+            $j('#topNavDropDownLinks li').each(function () {
+                $j(this).find('.over').removeClass('over');
+                $j(this).removeClass();
+                $j(this).find('#flyoutOverlay').fadeOut(100);
+                $j(this).find('#flyoutOverlay').remove();
+            });
+            return;
+        }
+
+    });
+
+
+
+    // Kiosk Fix
+    var endSessionButton = $j("a[href*='endSession.cmd']");
+    if ($j(endSessionButton)) {
+        $j(endSessionButton).css({ "position": "absolute", "left": "660px", "top": "-2px" });
+    }
+
+
+    function StoreLocatorFlyout(id) {
 
         if (id === 3) {//zipcode search top nav
             if (document.getElementById("flyoutPostalCode").value != "" && document.getElementById("flyoutPostalCode").value != "Enter Zip Code") {
                 window.location = "/custserv/storelocator/store_locator.jsp?PostalCode=" + document.getElementById("flyoutPostalCode").value;
             } else {
                 alert("Please enter a zip code or postal code.");
-                return false;
             }
-        
         } else if (id === 4) {//state search top nav
-
-            if (document.getElementById("flyoutState").selectedIndex != 0 && document.getElementById("flyoutCity").value != "") {                
-				var FlyoutCityTemp = (document.getElementById("flyoutCity").value).toLowerCase();
-				if(FlyoutCityTemp !=""){
-					var FlyoutCity = InitCap(FlyoutCityTemp);
-					window.location = "/custserv/storelocator/store_locator.jsp?FooterState_Province=" + document.getElementById("flyoutState").value + "&FootertxtCity="+FlyoutCity;
-				}else{
-					window.location = "/custserv/storelocator/store_locator.jsp?FooterState_Province=" + document.getElementById("flyoutState").value;
-				}
+            var errorMsg = "Please";
+            var errorFlag = false;
+            var cityFlag = false;
+            var stateFlag = false;
+            var FlyoutCity = (document.getElementById("flyoutCity").value).toLowerCase();
+            var FlyoutState = (document.getElementById("flyoutState").value);
+            // city
+            if (FlyoutCity != "") {
+                cityFlag = true;
             } else {
-                alert("Please enter a City and State.");
-                return false;
+                errorMsg = errorMsg + " enter a City";
+                errorFlag = true;
+            }
+
+            if (document.getElementById("flyoutState").selectedIndex != 0) {
+                stateFlag = true;
+            } else {
+                if (cityFlag) {
+                    errorMsg = errorMsg + " select a State or Province";
+                } else {
+                    errorMsg = errorMsg + " and select State or Province";
+                }
+                errorFlag = true;
+            }
+
+            if (!errorFlag) {
+                if (cityFlag && stateFlag) {
+                    window.location = "/custserv/storelocator/store_locator.jsp?FooterState_Province=" + document.getElementById("flyoutState").value + "&FootertxtCity=" + FlyoutCity;
+                } else {
+                    window.location = "/custserv/storelocator/store_locator.jsp?FooterState_Province=" + document.getElementById("flyoutState").value;
+                }
+            } else {
+                alert(errorMsg);
             }
 
         }
-				
+
     }
-		
-	function InitCap(str)
-        {
+    function InitCap(str) {
         var str = str.toLowerCase();
         var Rx = /\b([a-z']+)\b/gi;
-        str = str.replace(Rx, function (w)
-        {
+        str = str.replace(Rx, function (w) {
             return w.charAt(0).toUpperCase() + w.substring(1);
         }
         );
@@ -467,7 +1534,7 @@ TopNavHack = function() {
 #flyoutOverlay {
 	position:absolute;
 	z-index:999;	
-	overflow:hidden;	
+	overflow:visible;	
 	font-weight:normal;
 	text-align:left;
 }
@@ -496,49 +1563,49 @@ TopNavHack = function() {
 	width:321px;
 }
 #OurGuaranteeLink {
-	width:104px;
+    position: relative;    
+    z-index: 9999;
 }
-
 #OurGuarantee_content {
-	height:182px;
-	left:123px;
-	overflow:hidden;
-	position:relative;
-	top:20px;
-	width:193px;
-	text-align: left;
+    height: 182px;
+    left: 123px;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    top: 10px;
+    width: 155px;
 }
-#OurGuarantee_content h4{
-	margin-bottom:0px;
-	margin-top:5px;
-	padding-top:5px
-	color: #333333;
-    font-family: verdana;
+#OurGuarantee_content h4 {
+    color: #333333;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
     font-size: 11px;
-    font-weight: bold;
+    font-weight: normal;
+    line-height: 15px;
+    margin-bottom: 0;
+    margin-top: 5px;
     text-transform: uppercase;
 }
-#OurGuarantee_content p{
-	font-family:verdana;
-	font-size:12px;
-	line-height:1.1;
-	margin:0;
-	padding:0;
-	color: #333333;
-    font-family: verdana;
-    font-size: 11px;
-    font-weight: normal;    
+#OurGuarantee_content p {
+    color: #333333;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    font-weight: normal;
+    line-height: 12px;
+    margin: 0;
+    padding: 0;
 }
-#OurGuarantee_content a#learnMore{
-	background:none;
-	padding:0;
-	margin-top:5px;
-	text-align:left;
-	text-decoration:underline !important;
-	height:14px;
-	color: #333333;
-    font-family: verdana;
-    font-size: 11px;
+#OurGuarantee_content a#learnMore {
+    background: none repeat scroll 0 0 transparent;
+    color: #333333;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+    font-size: 10px;
+    height: 12px;
+    line-height: normal;
+    margin-top: 0;
+    padding: 0;
+    text-align: left;
+    text-decoration: underline !important;
+    text-indent: 0;
 }
 
 #flyout_StoreLocator {
@@ -546,11 +1613,17 @@ TopNavHack = function() {
 	width:182px;
 }
 #StoreLocatorLink {
-	width:94px;
+	width:90px;
 }
-
+.city{
+	padding-bottom:5px;
+	display:block;
+}
+.city.name{
+	margin-top:23px;	
+}
 #StoreLocator_content p{
-	font-family:verdana;
+	font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
 	font-size:12px;
 	line-height:1.1;
 	margin:0;
@@ -570,35 +1643,71 @@ TopNavHack = function() {
 	width:321px;
 }
 #StoreLocator_content {
-	font-family:verdana;
-	font-size:12px;
+	color:#333;
+	font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+	font-size:11px;
 	height:160px;
 	line-height:normal;
 	left:15px;
 	overflow:hidden;
 	position:relative;
-	top:20px;
+	top:15px;
 	width:150px;
 	text-align: left;
+}
+#CatalogQuickOrder_content p{
+	color:#333;
+	font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+	font-size:11px;
 }
 #StoreLocator_content span.or_break{
 	clear:both;
 	display:block;
 	font-weight:bold;
-	padding-bottom:10px;
-	padding-top:10px;
+	padding-bottom:5px;
+	padding-top:5px;
 }
 #flyoutPostalCode {
-	width:110px;
-	margin-right:5px;	
+	border: 1px solid #999999;
+    color: #333333;
+    float: left;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    height: 13px;
+    line-height: 14px;
+    margin-right: 5px;
+    width: 100px;
+    margin-top: 0;
+    padding: 2px 2px 2px 5px;
 }
 #flyoutCity {
-	width:110px;
-	margin-right:5px;	
+	border: 1px solid #999999;
+    color: #333333;
+    float: left;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    height: 13px;
+    line-height: 14px;
+    margin-right: 5px;
+    width: 110px;
+    margin-top: 0;
+    padding: 2px 2px 2px 5px;
 }
 #flyoutState {
-	width:110px;
-	margin-right:5px;	
+    border: 1px solid #999999;
+    color: #333333;
+    float: left;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    height: 19px;
+    line-height: 14px;
+    margin-right: 5px;
+    margin-top: 0;
+    padding: 0;
+    width: 110px;
 }
 .postalcode {
 	clear:both;
@@ -615,16 +1724,16 @@ TopNavHack = function() {
 	width:202px;
 }
 #CatalogQuickOrder_content {
-	font-family:verdana;
-	font-size:12px;
-	height:160px;
-	line-height:normal;
-	left:15px;
-	overflow:hidden;
-	position:relative;
-	top:30px;
-	width:178px;
-	text-align: left;
+    font-family: verdana;
+    font-size: 12px;
+    height: 160px;
+    left: 15px;
+    line-height: normal;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    top: 25px;
+    width: 160px;
 }
 #CatalogQuickOrder_content #flyoutEOB_1 {
 	display:inline-block;
@@ -645,7 +1754,7 @@ TopNavHack = function() {
 	margin-top:8px;
 }
 #CatalogQuickOrderLink {
-	width:132px;
+	width:128px;
 }
 
 #topNavDropDownLinks {
@@ -666,37 +1775,116 @@ TopNavHack = function() {
 	text-decoration:none;
 	z-index:9999;
 }
-ul#topNavDropDownLinks {
-	font-size:11px !important;
-	left:314px;
-	position:relative;
-	top:32px;
-}
 ul#topNavDropDownLinks li {
 	float:left;
 	margin-right:10px;	
+}
+#OurGuaranteeLink ul#topNavDropDownLinks li a{
+    float: left;
+    margin-right: 8px;
 }
 li#OurGuaranteeLink,
 li#StoreLocatorLink,
 li#CatalogQuickOrderLink {	
 	text-align:center;
 }
-ul#topNavDropDownLinks li a {
-	height:30px;
+ul#topNavDropDownLinks li a {	
 	line-height:30px;
+	height:30px;
 }
 *:first-child+html input.button {
 	padding:1px 2px;
 }
 
-#flyOutdeptMFT,
-#flyOuteffortMFT,
-#flyOutitemMFT {
-	width:35px;
-	display:inline-block;
+#flyOutdeptMFT, #flyOuteffortMFT, #flyOutitemMFT {
+    border: 1px solid #999999;
+    color: #333333;
+    float: left;
+    font-family: "Lucida Sans Unicode","Lucida Grande",Verdana,Arial,Helvetica,sans-serif;
+    font-size: 11px;
+    font-weight: normal;
+    height: 13px;
+    line-height: 13px;
+    margin-right: 5px;   
+    margin-top: 0;
+    padding: 2px;
+    display: inline-block;
+    width: 30px;
 }
-</style></div><!-- /topNav --><div id="mainNav"><div class="wrap"><ul class="nav"><li class="not " id="cat_27297"><img id="img_27297" class="flyout" src="/assets/spacer.gif" alt="Outerwear" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></li><li class="not " id="cat_2"><a title="Men" href="http://www.eddiebauer.com/EB/Men/index.cat" name="Line Nav"><img id="img_2" class="flyout" src="/assets/spacer.gif" alt="Men" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></a></li><li class="not " id="cat_3"><a title="Women" href="http://www.eddiebauer.com/EB/Women/index.cat" name="Line Nav"><img id="img_3" class="flyout" src="/assets/spacer.gif" alt="Women" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></a></li><li class="not " id="cat_22931"><a title="Swim" href="http://www.eddiebauer.com/EB/miraclesuit-swim-bathing-suit-tankini-swimwear/index.cat" name="Line Nav"><img id="img_22931" class="flyout" src="/assets/spacer.gif" alt="Swim" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></a></li><li class="not " id="cat_23209"><img id="img_23209" class="flyout" src="/assets/spacer.gif" alt="Shoes &amp; Accessories" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></li><li class="not " id="cat_5"><a title="Bags &amp; Gear" href="http://www.eddiebauer.com/EB/Bags--Gear/index.cat" name="Line Nav"><img id="img_5" class="flyout" src="/assets/spacer.gif" alt="Bags &amp; Gear" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></a></li><li class="not " id="cat_24825"><a title="Bedding &amp; Home" href="http://www.eddiebauer.com/EB/Bedding/index.cat" name="Line Nav"><img id="img_24825" class="flyout" src="/assets/spacer.gif" alt="Bedding &amp; Home" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></a></li><li class="not " id="cat_23465"><a title="Sale" href="http://www.eddiebauer.com/EB/Sale/index.cat" name="Line Nav"><img id="img_23465" class="flyout" src="/assets/spacer.gif" alt="Sale" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></a></li><li class="not " id="cat_22854"><a title="Clearance" href="http://www.eddiebauer.com/EB/Clearance/index.cat" name="Line Nav"><img id="img_22854" class="flyout" src="/assets/spacer.gif" alt="Clearance" onmouseover=" $j(this).addClass('over');" onmouseout=" $j(this).removeClass('over');"></a></li></ul><div class="graphic"></div></div><!-- /wrap --></div><!-- /mainNav --><div class="dropshadow"></div>
-</div></div><!-- end header --><div id="neck"><div class="wrap"><div id="rail"><div class="billboard" id="siteWide"><!-- No Content --></div></div><!-- /rail --></div><!-- end wrap --></div><!-- end neck --><div id="shoulder"><div class="wrap"></div></div><!-- end shoulder --><div id="new_rail"><div class="wrap"></div></div><!-- end new_rail --><!--Include Breadcrumb.--><!-- Customer Service Section--><div id="breadcrumb" class="breadcrumb_eb "><a class="breadcrumbLevel_0" href="http://www.eddiebauer.com/">Eddie Bauer</a><span class="breadcrumb_spacer"></span><a class="breadcrumbLevel_1" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=296">Customer Service</a><span class="breadcrumb_spacer"></span><span class="last_bc breadcrumbLevel_2"><span></span>Privacy &amp; Security</span></div><!-- End EB Breadcrumb --><div id="middle"><div id="watermark" style="position:absolute; visibility:hidden;"></div><div id="alt_background" style="position:absolute; visibility:hidden;"></div><div class="contentWrap" id="content_wrapper"><div id="content"><div class="pageHeading"><h1>Privacy &amp; Security</h1></div><div class="leftColumn"><ul class="first"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=340" name="Gift ServicesCust Service Nav">Gift Services</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=311" name="AffiliatesCust Service Nav">Affiliates</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=840" name="PartnersCust Service Nav">Partners</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=805" name="CareersCust Service Nav">Careers</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=806" name="What We ValueCust Service Nav">What We Value</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=807" name="In-StoreCust Service Nav">In-Store</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=811" name="CorporateCust Service Nav">Corporate</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=816" name="Information TechnologyCust Service Nav">Information Technology</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=817" name="Fulfillment ServicesCust Service Nav">Fulfillment Services</a></li><li class="not"><a onclick="javascript:highlight(this);" href="javascript:openWindow('http://eddiebauer.hodesiq.com/job_start.asp',800,600,'resizable,scrollbars');" name="Search Open PositionsCust Service Nav">Search Open Positions</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=825" name="Associate BenefitsCust Service Nav">Associate Benefits</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=101" name="ShippingCust Service Nav">Shipping</a><ul class="second" id="subNone"></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=295" name="Returns &amp; ExchangesCust Service Nav">Returns &amp; Exchanges</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=240" name="Our GuaranteeCust Service Nav">Our Guarantee</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102" name="Size ChartsCust Service Nav">Size Charts</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102&amp;subId=302" name="MenCust Service Nav">Men</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102&amp;subId=303" name="WomenCust Service Nav">Women</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=304" name="Gift Cards &amp; E-Gift CardsCust Service Nav">Gift Cards &amp; E-Gift Cards</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/gift_card.jsp?sectionId=304" name="Purchase a Gift CardCust Service Nav">Purchase a Gift Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/gift_card.jsp?gcType=egc&amp;sectionId=304" name="Purchase an E-Gift CardCust Service Nav">Purchase an E-Gift Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?subId=3041&amp;sectionId=304" name="Redeeming Gift CardsCust Service Nav">Redeeming Gift Cards</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=329" name="ServicesCust Service Nav">Services</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/storelocator/store_locator.jsp" name="Store Locator and HoursCust Service Nav">Store Locator and Hours</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/catalog_request.jsp" name="Request a CatalogCust Service Nav">Request a Catalog</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://ebm.e.eddiebauer.com/r/regf2?a=0&amp;aid=225355676&amp;n=201" name="Sign up for EB EmailCust Service Nav">Sign up for EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#unsubscribefromebemail" name="Unsubscribe from EB EmailCust Service Nav">Unsubscribe from EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=325" name="Gift Boxes and MessagesCust Service Nav">Gift Boxes and Messages</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=297" name="MonogrammingCust Service Nav">Monogramming</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=309" name="Corporate IncentivesCust Service Nav">Corporate Incentives</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=333" name="Direct Order CenterCust Service Nav">Direct Order Center</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320" name="Using the WebsiteCust Service Nav">Using the Website</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=400" name="Finding Your ProductsCust Service Nav">Finding Your Products</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=401" name="Make Changes to Your OrderCust Service Nav">Make Changes to Your Order</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=402" name="Cancel Your OrderCust Service Nav">Cancel Your Order</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#cookies" name="CookiesCust Service Nav">Cookies</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#browserrequirements" name="Browser RequirementsCust Service Nav">Browser Requirements</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=600" name="Also by Eddie BauerCust Service Nav">Also by Eddie Bauer</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=323" name="Order Status &amp; HistoryCust Service Nav">Order Status &amp; History</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/order_history.jsp" name="Track Your Order StatusCust Service Nav">Track Your Order Status</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=335" name="Backordered ItemsCust Service Nav">Backordered Items</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=322" name="Your AccountCust Service Nav">Your Account</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=322" name="Benefits of RegisteringCust Service Nav">Benefits of Registering</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Create an Account NowCust Service Nav">Create an Account Now</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Returning Visitor Sign inCust Service Nav">Returning Visitor Sign in</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Manage Your AccountCust Service Nav">Manage Your Account</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/user/forgot_password.jsp" name="Forgotten PasswordCust Service Nav">Forgotten Password</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=336" name="Wish ListCust Service Nav">Wish List</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/logout.jsp" name="Sign Out of Your AccountCust Service Nav">Sign Out of Your Account</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=334" name="Eddie Bauer FriendsCust Service Nav">Eddie Bauer Friends</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/about.jspx" name="How it WorksCust Service Nav">How it Works</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/enroll.jspx" name="Enroll NowCust Service Nav">Enroll Now</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/index.jsp" name="Sign InCust Service Nav">Sign In</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/termsConditions.jspx" name="RulesCust Service Nav">Rules</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/contactus.jspx" name="Contact UsCust Service Nav">Contact Us</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=308" name="Eddie Bauer Credit CardsCust Service Nav">Eddie Bauer Credit Cards</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=308" name="Learn More and ApplyCust Service Nav">Learn More and Apply</a></li><li class="not"><a onclick="javascript:highlight(this);" href="javascript:openWindow('https://onlineaccess.mycreditcard.cc/eddiebauer',800,600,'scrollbars');" name="Manage your EB CardCust Service Nav">Manage your EB Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=326" name="Opt out of Pre-Screened CardsCust Service Nav">Opt out of Pre-Screened Cards</a></li></ul></li><li class="hot"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310" name="Privacy &amp; SecurityCust Service Nav">Privacy &amp; Security</a><ul class="second" id="subSub"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310" name="OverviewCust Service Nav">Overview</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#completeprivacypolicy" name="Complete Privacy PolicyCust Service Nav">Complete Privacy Policy</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=299" name="Terms of UseCust Service Nav">Terms of Use</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#unsubscribefromebemail" name="Unsubscribe from EB EmailCust Service Nav">Unsubscribe from EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/ask_eddie_email.jsp?sectionId=24448" name="Contact UsCust Service Nav">Contact Us</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=800" name="About Eddie BauerCust Service Nav">About Eddie Bauer</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=803" name="Our FounderCust Service Nav">Our Founder</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=819" name="Global Labor PracticesCust Service Nav">Global Labor Practices</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=820" name="American ForestsCust Service Nav">American Forests</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=830" name="HeritageCust Service Nav">Heritage</a></li></ul></li></ul></div><div class="centerColumn" style="position:relative;"><div id="veriSignLogoModuleTop">
+
+body.REVIEW--PAY #continue_pay{
+position:relative;
+}
+
+body.REVIEW--PAY .submitMessage{
+	
+	height:35px;
+	width:210px;
+	color:#000;
+	display:block;
+	text-align:center;
+	padding-top:10px;	
+}
+
+/* new skin rules */
+#header #siteTab {display:block; position:absolute;}
+#header #siteTab #tabHot{
+display:none;
+}
+#header #siteTab a{
+display:none;
+}
+#header #siteTab a[href*='endSession.cmd']{
+display:block;
+}
+</style>
+
+<!-- Live Chat Code -->
+<script type="text/javascript" src="//static.atgsvcs.com/js/atgsvcs.js"></script>
+<script type="text/javascript">
+    ATGSvcs.setUOID(200106301334);
+</script>
+<script type="text/javascript" src="http://as00.estara.com/as/InitiateCall2.php?accountid=200106301334"></script></div><!-- /topNav --><div id="mainNav"><div class="wrapper"><ul class="nav"><li class="not " id="cat_27297"><a title="Outerwear" href="http://www.eddiebauer.com/EB/Outerwear/index.cat" name="Line Nav"><img id="img_27297" class="flyout" src="/assets/spacer.gif" alt="Outerwear" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_28475"><a title="First Ascent" href="http://www.eddiebauer.com/EB/First-Ascent/index.cat" name="Line Nav"><img id="img_28475" class="flyout" src="/assets/spacer.gif" alt="First Ascent" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_28485"><a title="Sale Clearance" href="http://www.eddiebauer.com/EB/Sale-Clearance/index.cat" name="Line Nav"><img id="img_28485" class="flyout" src="/assets/spacer.gif" alt="Sale Clearance" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_28542"><a title="Kids" href="http://www.eddiebauer.com/EB/Kids/index.cat" name="Line Nav"><img id="img_28542" class="flyout" src="/assets/spacer.gif" alt="Kids" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_2"><a title="Men" href="http://www.eddiebauer.com/EB/Men/index.cat" name="Line Nav"><img id="img_2" class="flyout" src="/assets/spacer.gif" alt="Men" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_3"><a title="Women" href="http://www.eddiebauer.com/EB/Women/index.cat" name="Line Nav"><img id="img_3" class="flyout" src="/assets/spacer.gif" alt="Women" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_23209"><a title="Shoes &amp; Accessories" href="http://www.eddiebauer.com/EB/Shoes--Accessories/index.cat" name="Line Nav"><img id="img_23209" class="flyout" src="/assets/spacer.gif" alt="Shoes &amp; Accessories" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_5"><a title="Bags &amp; Gear" href="http://www.eddiebauer.com/EB/Bags--Gear/index.cat" name="Line Nav"><img id="img_5" class="flyout" src="/assets/spacer.gif" alt="Bags &amp; Gear" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_24825"><a title="Bedding &amp; Home" href="http://www.eddiebauer.com/EB/Bedding/index.cat" name="Line Nav"><img id="img_24825" class="flyout" src="/assets/spacer.gif" alt="Bedding &amp; Home" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not giftskin" id="cat_27165"><a title="Gifts" href="http://www.eddiebauer.com/EB/Gifts/holiday-gifts/index.cat" name="Line Nav"><img id="img_27165" class="flyout" src="/assets/spacer.gif" alt="Gifts" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li><li class="not " id="cat_22854"><a title="Clearance" href="http://www.eddiebauer.com/EB/Clearance/index.cat" name="Line Nav"><img id="img_22854" class="flyout" src="/assets/spacer.gif" alt="Clearance" onmouseover=" flyoutNavMenu(this,'over');" onmouseout=" flyoutNavMenu(this,'out');"></a></li></ul><div class="graphic"></div></div><!-- /wrap --></div><!-- /mainNav --><div class="dropshadow"></div>
+</div></div><!-- end header --><div id="neck"><div class="wrap"><div id="rail"><div class="billboard" id="siteWide"><!-- No Content --></div></div><!-- /rail --></div><!-- end wrap --></div><!-- end neck --><div id="shoulder"><div class="wrap"></div></div><!-- end shoulder --><div id="new_rail"><div class="wrap"><style type="text/css">
+    
+#cat1 #shoulder {
+    height:0px !important;    
+}
+
+body.EB #new_rail  {
+    background-color:transparent;
+    clear:both;
+    display:block;
+    visibility:visible;
+    height:auto;
+    position:relative;
+    margin: 0 auto;
+    overflow:visible;
+    padding:0;
+    *padding-bottom:5px;
+    width:996px !important;
+    z-index:3;
+    margin-top:0px !important;
+}
+
+#promocode {
+    color: #FFFFFF;
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    left: 912px;
+    position: absolute;
+    top: 5px;
+}
+
+</style>
+
+<div style="position:relative;">
+    <a class="fancybox" rel="fancybox" rev="hideObjects:false doAnimations:true overlayOpacity:50 controlPos:tr width:500 height:378 scrolling:no showCloseButton:false" href="/assets/ocp/promos/110923_freeship_outerwear/pop_up.html" title="See Details" alt="See Details" name="EB Top Rail:Image:Promo">
+        <img src="/assets/ocp/content/pwp/111017/down_event_rail.gif" border="0" width="996" height="43" usemap="#m_sitewide_rail"></a>
+    <span id="promocode" style="display: block;">
+        OUTERWEAR</span>
+</div></div></div><!-- end new_rail --><!--Include Breadcrumb.--><!-- Customer Service Section--><div id="breadcrumb" class="breadcrumb_eb "><a class="breadcrumbLevel_0" href="http://www.eddiebauer.com/">Eddie Bauer</a><span class="breadcrumb_spacer"></span><a class="breadcrumbLevel_1" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=296">Customer Service</a><span class="breadcrumb_spacer"></span><span class="last_bc breadcrumbLevel_2"><span></span>Privacy &amp; Security</span></div><!-- End EB Breadcrumb --><div id="middle"><div id="watermark" style="position:absolute; visibility:hidden;"></div><div id="alt_background" style="position:absolute; visibility:hidden;"></div><div class="contentWrap" id="content_wrapper"><div id="content"><div class="pageHeading"><h1>Privacy &amp; Security</h1></div><div class="leftColumn"><ul class="first"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=340" name="Gift ServicesCust Service Nav">Gift Services</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=311" name="AffiliatesCust Service Nav">Affiliates</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=840" name="PartnersCust Service Nav">Partners</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=805" name="CareersCust Service Nav">Careers</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=806" name="What We ValueCust Service Nav">What We Value</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=807" name="In-StoreCust Service Nav">In-Store</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=811" name="CorporateCust Service Nav">Corporate</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=816" name="Information TechnologyCust Service Nav">Information Technology</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=817" name="Fulfillment ServicesCust Service Nav">Fulfillment Services</a></li><li class="not"><a onclick="javascript:highlight(this);" href="javascript:openWindow('http://eddiebauer.hodesiq.com/job_start.asp',800,600,'resizable,scrollbars');" name="Search Open PositionsCust Service Nav">Search Open Positions</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=825" name="Associate BenefitsCust Service Nav">Associate Benefits</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=101" name="ShippingCust Service Nav">Shipping</a><ul class="second" id="subNone"></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=295" name="Returns &amp; ExchangesCust Service Nav">Returns &amp; Exchanges</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=240" name="Our GuaranteeCust Service Nav">Our Guarantee</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102" name="Size ChartsCust Service Nav">Size Charts</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102&amp;subId=302" name="MenCust Service Nav">Men</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102&amp;subId=303" name="WomenCust Service Nav">Women</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=102&amp;subId=341" name="KidsCust Service Nav">Kids</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=304" name="Gift Cards &amp; E-Gift CardsCust Service Nav">Gift Cards &amp; E-Gift Cards</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/gift_card.jsp?sectionId=304" name="Purchase a Gift CardCust Service Nav">Purchase a Gift Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/gift_card.jsp?gcType=egc&amp;sectionId=304" name="Purchase an E-Gift CardCust Service Nav">Purchase an E-Gift Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?subId=3041&amp;sectionId=304" name="Redeeming Gift CardsCust Service Nav">Redeeming Gift Cards</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=329" name="ServicesCust Service Nav">Services</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/storelocator/store_locator.jsp" name="Store Locator and HoursCust Service Nav">Store Locator and Hours</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/catalog_request.jsp" name="Request a CatalogCust Service Nav">Request a Catalog</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://ebm.e.eddiebauer.com/r/regf2?a=0&amp;aid=225355676&amp;n=201" name="Sign up for EB EmailCust Service Nav">Sign up for EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#unsubscribefromebemail" name="Unsubscribe from EB EmailCust Service Nav">Unsubscribe from EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=325" name="Gift Boxes and MessagesCust Service Nav">Gift Boxes and Messages</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=297" name="MonogrammingCust Service Nav">Monogramming</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=309" name="Corporate IncentivesCust Service Nav">Corporate Incentives</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=333" name="Direct Order CenterCust Service Nav">Direct Order Center</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320" name="Using the WebsiteCust Service Nav">Using the Website</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=400" name="Finding Your ProductsCust Service Nav">Finding Your Products</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=401" name="Make Changes to Your OrderCust Service Nav">Make Changes to Your Order</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=402" name="Cancel Your OrderCust Service Nav">Cancel Your Order</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#cookies" name="CookiesCust Service Nav">Cookies</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=320#browserrequirements" name="Browser RequirementsCust Service Nav">Browser Requirements</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=600" name="Also by Eddie BauerCust Service Nav">Also by Eddie Bauer</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=323" name="Order Status &amp; HistoryCust Service Nav">Order Status &amp; History</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/order_history.jsp" name="Track Your Order StatusCust Service Nav">Track Your Order Status</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=335" name="Backordered ItemsCust Service Nav">Backordered Items</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=322" name="Your AccountCust Service Nav">Your Account</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=322" name="Benefits of RegisteringCust Service Nav">Benefits of Registering</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Create an Account NowCust Service Nav">Create an Account Now</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Returning Visitor Sign inCust Service Nav">Returning Visitor Sign in</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/member_account.jsp" name="Manage Your AccountCust Service Nav">Manage Your Account</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/user/forgot_password.jsp" name="Forgotten PasswordCust Service Nav">Forgotten Password</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=336" name="Wish ListCust Service Nav">Wish List</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauer.com/user/logout.jsp" name="Sign Out of Your AccountCust Service Nav">Sign Out of Your Account</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=334" name="Eddie Bauer FriendsCust Service Nav">Eddie Bauer Friends</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/about.jspx" name="How it WorksCust Service Nav">How it Works</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/enroll.jspx" name="Enroll NowCust Service Nav">Enroll Now</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/index.jsp" name="Sign InCust Service Nav">Sign In</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/termsConditions.jspx" name="RulesCust Service Nav">Rules</a></li><li class="not"><a onclick="javascript:highlight(this);" href="https://www.eddiebauerfriends.com/contactus.jspx" name="Contact UsCust Service Nav">Contact Us</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=308" name="Eddie Bauer Credit CardsCust Service Nav">Eddie Bauer Credit Cards</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=308" name="Learn More and ApplyCust Service Nav">Learn More and Apply</a></li><li class="not"><a onclick="javascript:highlight(this);" href="javascript:openWindow('https://onlineaccess.mycreditcard.cc/eddiebauer',800,600,'scrollbars');" name="Manage your EB CardCust Service Nav">Manage your EB Card</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=326" name="Opt out of Pre-Screened CardsCust Service Nav">Opt out of Pre-Screened Cards</a></li></ul></li><li class="hot"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310" name="Privacy &amp; SecurityCust Service Nav">Privacy &amp; Security</a><ul class="second" id="subSub"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310" name="OverviewCust Service Nav">Overview</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#completeprivacypolicy" name="Complete Privacy PolicyCust Service Nav">Complete Privacy Policy</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=299" name="Terms of UseCust Service Nav">Terms of Use</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=310#unsubscribefromebemail" name="Unsubscribe from EB EmailCust Service Nav">Unsubscribe from EB Email</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/ask_eddie_email.jsp?sectionId=24448" name="Contact UsCust Service Nav">Contact Us</a></li></ul></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=800" name="About Eddie BauerCust Service Nav">About Eddie Bauer</a><ul class="second" id="subNone"><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=803" name="Our FounderCust Service Nav">Our Founder</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=819" name="Global Labor PracticesCust Service Nav">Global Labor Practices</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=820" name="American ForestsCust Service Nav">American Forests</a></li><li class="not"><a onclick="javascript:highlight(this);" href="http://www.eddiebauer.com/custserv/custserv.jsp?sectionId=830" name="HeritageCust Service Nav">Heritage</a></li></ul></li></ul></div><div class="centerColumn" style="position:relative;"><div id="veriSignLogoModuleTop">
 		<a alt="verisign logo" title="verisign logo" onclick="global.jquery.utils.common.verisignPopUp()">
 			<span class="veriSignLogoSmall floatRight"></span></a>
 	</div>
@@ -718,7 +1906,7 @@ ul#topNavDropDownLinks li a {
 			This Privacy Statement describes how we collect and use your information and gives
 			you choices as to how we use it. We suggest that you review this Privacy Statement
 			periodically as we may update it from time to time. This policy was last updated
-			on June 6, 2007.
+			on April 14, 2011.
 		</p>
 		<ul class="bulletedList">
 			<li><a href="#first">What information does Eddie Bauer collect about me?</a></li>
@@ -727,9 +1915,11 @@ ul#topNavDropDownLinks li a {
  			<li><a href="#fourth">What are "cookies" and how does Eddie Bauer use them?</a></li>
 			<li><a href="#fifth">How can I update my information?</a></li>
 			<li><a href="#sixth">How do I know my information is secure?</a></li>
+			<li><a href="#HowtoReportFraud"> How to Report Fraud</a></li>
 			<li><a href="#seventh">Children's Policy</a></li>
 			<li><a href="#contaciInformation">Contact Information</a></li>
-			<li><a href="#unsubscribefromebemail"> Unsubscribe From Eddie Bauer</a></li>
+			<li><a href="#unsubscribefromebemail"> Unsubscribe From Eddie Bauer</a></li>		
+			
 		</ul>
 		<div class="returnLink">
 			^<a href="#">Return to top</a>
@@ -767,18 +1957,18 @@ ul#topNavDropDownLinks li a {
 			The information you supply to us is added to our customer database. You may receive
 			periodic mailings or telephone calls from us about new products and services, discounts,
 			special promotions or upcoming events. If you do not want to receive such mailings
-			or telephone calls from us, please Click here for contact information.
+			or telephone calls from us, please <a href="#unsubscribefromebemail">Click here</a> for contact information.
 		</p>
 		<p class="last">
-			We occasionally provide your name and postal address (but not your email address)
-			to a select group of companies whose products you may find of interest. If you do
-			not want us to share this information with these companies, we can add your name
-			to our "do-not-share" list. Please Click here for contact information.
+			We occasionally provide your personally-identifiable information, including your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us with a third-party advertising partner and its service providers in order to deliver to you banner advertisements and other advertising tailored to your interests when you are online.  Our advertising partner will make the data we provide it anonymous.  To learn more about the use of this information or choose not to have this information used by our third-party advertising partner by opting out please visit the Digital Advertising Alliance by <a href="http://www.aboutads.info/" target="_blank">clicking here</a>. If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out choice. 
+		</p>
+		<p class="last">
+			In some cases we may provide your name and address to a select group of companies whose products you may find of interest. If you do not want us to share this information with these companies, we can add your name to our "do-not-share" list. Please <a href="#unsubscribefromebemail">Click here</a> for contact information.
 		</p>
 		<p class="last">
 			We periodically send you email about new products and services, discounts, special
 			promotions or upcoming events. If you do not wish to receive such emails in the
-			future, please Click here for contact information, or click the "unsubscribe" link
+			future, please <a href="#contaciInformation">Click here</a> for contact information, or click the "unsubscribe" link
 			on any promotional email you receive from us. Please note: In order to process your
 			purchases we may send you a confirmation email or we may contact you by mail or
 			telephone if we have questions about your order.
@@ -790,7 +1980,7 @@ ul#topNavDropDownLinks li a {
 			all of the information you provide to us, and some may use cookies on our behalf.
 			These companies are contractually-restricted from using your information in any
 			manner other than in helping us to provide you with the products and services available
-			from Eddie Bauer. For more information about these companies, Click here.
+			from Eddie Bauer.
 		</p>
 		<p class="last">
 			We may share information with governmental agencies or other companies assisting
@@ -804,7 +1994,7 @@ ul#topNavDropDownLinks li a {
 		</div>
 		<h4>
 			Companies "Presented by Eddie Bauer"</h4>
-		<p id="third">
+		<p id="third" class="last">
 			If you make a purchase from another company's catalog or website that is "presented
 			by Eddie Bauer" the information you provide to that company, such as your credit
 			card number and contact information, is provided to that company and not to Eddie
@@ -835,7 +2025,7 @@ ul#topNavDropDownLinks li a {
 			in our database includes your account preferences, items added to your shopping
 			bag, user-specific information on pages accessed, and previous visits to our site.
 			Through cookies we may: alert you to new areas that we think might be of interest
-			to you when you return to our site; record past activity at our site; or, customize
+			to you when you return to our site; record past activity at our site; provide online banner advertisements that are tailored to your interests; or, customize
 			Web page content. Your information is stored in a safe and secure database.
 		</p>
 		<p class="last">
@@ -854,7 +2044,7 @@ ul#topNavDropDownLinks li a {
 			browser. If you do not wish to change your privacy settings to "Medium" and you
 			are currently using the "Medium High" or "High" settings, you may choose to override
 			your current cookie handling practices for individual sites that you specify, including
-			eddiebauer.com and eddiebaueroutlet.com. Please click here for instructions on how
+			eddiebauer.com and eddiebaueroutlet.com. Please <a href="#fourth">click here</a> for instructions on how
 			to override your normal cookie handling practices. If you prefer not to change your
 			privacy settings or override your cookie handling practices, you can, as always,
 			place your order by phone at 1-800-426-8020.
@@ -877,8 +2067,8 @@ ul#topNavDropDownLinks li a {
 		</ul>
 		<p class="last">
 			We evaluate each request and will reply in an appropriate manner and in a form of
-			communication that ensures the security of the information you have requested. Click
-			here for contact information.
+			communication that ensures the security of the information you have requested. Any questions, please 
+			<a href="/custserv/ask_eddie_email.jsp?sectionId=24448">contact us</a>.
 		</p>
 		<div class="returnLink">
 			^<a href="#">Return to top</a>
@@ -894,7 +2084,7 @@ ul#topNavDropDownLinks li a {
 			browser window, this indicates that the site is secured through Secure Sockets Layer
 			(SSL). Pages requesting personal information should always have one of these icons.
 			If you do not see one of these icons, please contact us to complete your transaction
-			over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer?
+			over the phone by calling 1-800-426-8020. When you apply on-line for an Eddie Bauer 
 			Charge Card, we will direct you to the World Financial National Bank (WFNB) website.
 			See the WFNB website for information on its privacy statement.
 		</p>
@@ -905,14 +2095,41 @@ ul#topNavDropDownLinks li a {
 		<div class="returnLink">
 			^<a href="#">Return to top</a>
 		</div>
+		<a name="HowtoReportFraud"></a>
+		<h3>
+			How to Report Fraud</h3>
+		<p>You can help us identify attempts at fraud.</p><br>
+
+		<p>Eddie Bauer will never ask you for sensitive personal information in an email.</p><br>
+
+		<p>If you receive a suspicious email appearing to come from Eddie Bauer, such as one requesting that you confirm personal information like your credit card number, or if you have received an email implying that it has been sent by Eddie Bauer after you have Opted Out of receipt of Eddie Bauer emails, you may forward the suspicious email to <a href="mailto:abuse@eddiebauer.com">abuse@eddiebauer.com.</a></p><br> 
+
+		<p>You should not respond directly to suspicious email. And do not click on or open any hyperlink embedded in the suspicious email.</p> <br>
+
+		<p>There are a few common features of fraudulent emails that can help you identify them as spam. The two most frequent are:<br>
+		a) receiving an email that contains mistakes such as misspelled words or grammatical errors, and<br>
+		b) receiving an email that asks for your confidential information or asks you to take immediate action on your account.<br></p><br>
+
+		<p>We encourage all of our customers to protect themselves and their information:<br>
+		a) do not share your credentials or account information with any third party, and<br>
+		b) make sure that your system is properly patched, running anti-virus and a personal firewall.<br></p><br>
+
+		<p>If you have already provided information in response to a suspicious email that appeared to have been sent by Eddie Bauer, you may report the suspicious email by forwarding it to <a href="mailto:abuse@eddiebauer.com">abuse@eddiebauer.com</a>.<br></p> <br>
+
+		<p>For more information on how to protect yourself and your personal information, you can visit the antiphishing Working Group's website at <a href="http://www.antiphishing.org/consumer_recs.html" target="_blank">http://www.antiphishing.org/consumer_recs.html</a>.<br> <br> 
+
+		</p><p class="last">Thank you for helping us monitor and prevent fraud.</p>
+		
+		<div class="returnLink">
+			^<a href="#">Return to top</a>
+		</div>
 		<h4 id="seventh">
 			Children's Policy</h4>
 		<p class="last">
 			Eddie Bauer does not seek to solicit information from anyone under the age of thirteen
 			(a "Child"). If a Child submits information to us and we know that the person submitting
 			the information is a Child, we will not use it for any purpose. We will delete the
-			information as soon as we discover it and we will not disclose it toContact Information
-			third parties.
+			information as soon as we discover it and we will not disclose it to third parties.
 		</p>
 <div class="container">
 		<a name="contaciInformation"></a>
@@ -944,34 +2161,44 @@ ul#topNavDropDownLinks li a {
 		</p>
 </div> <a name="unsubscribefromebemail"></a>
 		<h3>
-			Unsubscribe from Eddie Bauer</h3>
+			Communications from Eddie Bauer</h3>
 		<h4 id="eleventh">
 			To Unsubscribe from Eddie Bauer Email</h4>
 		<p class="last">
-			If for any reason you would like to be taken off the email list that notifies you
-			of upcoming events, offers and sales, simply click the unsubscribe link provided
-			at the bottom of every email we send.
+			If for any reason you would like to unsubscribe from either or both of our email programs, please follow
+			the instructions below:
 		</p>
+		<p class="last">
+			</p><p class="bold timeToProcess">Eddie Bauer Email</p>
+			<ol class="numberedList olWrapper">
+				<li>Simply click the Unsubscribe link provided at the bottom of<br> every email you receive.</li>
+				<li>Send us an email at <a href="mailto:CustomerCare@csc.eddiebauer.com?subject=Unsubscribe Email - EB">CustomerCare@csc.eddiebauer.com</a></li>
+			</ol>
+		<p></p>
+		<p class="last">
+			</p><p class="bold timeToProcess">Eddie Bauer Friends Email</p>
+			<ol class="numberedList olWrapper">
+				<li>Simply click the Unsubscribe link provided at the bottom of<br> every Friends email you receive.</li>
+				<li>Send us an email at <a href="mailto:CustomerCare@csc.eddiebauer.com?subject=Unsubscribe Email - Friends">CustomerCare@csc.eddiebauer.com</a></li>
+			</ol>
+		<p></p>
 		<h4 id="twelveth">
-			To Unsubscribe from Eddie Bauer mailings</h4>
+			EDDIE BAUER MAIL AND TELEMARKETING PREFERENCES</h4>
 		<p class="last">
-			Occasionally we make our customer list available to carefully screened companies
-			whose products may interest you. If you prefer not to receive such mailings, or
-			if you want to remove your name from our mailing list, call 800-426-8020. To remove
-			your name from the mailing lists of direct-mail companies, contact: Mail Preference
-			Service, c/o Direct Marketing Association, P.O. Box 643, Carmel, NY 10512. Canada:
-			Canadian Marketing Association, 1 Concorde Gate, Suite 607, Don Mills, Ontario M3C
-			3N6.
+			If you prefer not to receive Eddie Bauer catalogs from us, please <a href="mailto:CustomerCare@csc.eddiebauer.com?subject=Unsubscribe Catalogs">contact us</a> 
+			or call 1-800-426-8020. Please include your full name and mailing address as it appears on your catalog. We will remove your 
+			name from our mailing list as soon as possible. Please recognize that you may receive another catalog before we are able to remove you. If you wish to be placed 
+			on our "Do Not Call" list, please let us know during the call, <a href="mailto:CustomerCare@csc.eddiebauer.com?subject=Please Add To Do Not Call List">
+			contact us</a> or call 1-800-426-8020.
 		</p>
 		<p class="last">
-			Eddie Bauer is an active member of the Direct Marketing Association (DMA). Click
-			here for additional privacy information from the DMA. If you feel that our site
-			is not following our stated privacy policy, please contact us. You may also contact
-			the DMA's Committee on Ethical Business Practices at <a href="mailto:mgoldberger@the-dma.org">mgoldberger@the-dma.org</a>.
+			We also, on occasion, share a portion of our catalog mailing list with other reputable organizations. If you wish to have
+			your name and address not shared with other organizations, please 
+			<a href="mailto:CustomerCare@csc.eddiebauer.com?subject=Do Not Share Name and Address">contact us</a> or call 1-800-426-8020.
 		</p>
 		<div class="returnLink">
 			^<a href="#">Return to top</a>
-		</div>
+		</div>		
 	</div>
 </div>
 
@@ -980,288 +2207,355 @@ $j(document).ready(function() {
 	global.jquery.utils.customerService.formatRightColumn();
 });
 </script></div></div><div class="assistive"><a href="#above">Skip to Top</a></div><div id="shin"></div><!-- end shin --><div class="assistive"><a href="#above">Skip to Top</a></div></div><!-- end middle --></div><!-- end above --><div id="below"><div id="footer"><script type="text/javascript">
-            
+
                     var ref=document.referrer;
-            
-            
+
+
                     
-                    if(ref.length>0 && ref.search(/eddiebauer.com/i) < 0 && ref.search(/eb.fry/i) < 0 )
+//                    if(ref.length>0 && ref.search(/eddiebauer.com/i) < 0 && ref.search(/eb.fry/i) < 0 )
+                    if(ref.length>0 && ref.search(/eddiebauer.com/i) < 0 && ref.search(/fry.com/i) < 0 )
                     {
-                        var channelPix="<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=53000717&x="+escape(ref)+" width=1 height=1>";
+                        var channelPix = "";
+                        if(location.protocol === 'https:')
+                            channelPix="<img src=https://tracking.searchmarketing.com/welcome.asp?SMCID=53000717&x="+escape(ref)+" width=1 height=1>";
+                        else
+                            channelPix="<img src=http://tracking.searchmarketing.com/welcome.asp?SMCID=53000717&x="+escape(ref)+" width=1 height=1>";
                         document.write(channelPix);
                     }
-                    </script><div id="wrap"><div id="footNavLinks"><div id="eb_footer">
-	<div id="footer_top">
-		<div class="wrapper">
-			<div id="footer_about_us" class="floatLeft">
-				<div>
-					<h3 class="footer">
-						About Us</h3>
-				</div>
-				<div>
-					Eddie Bauer is an outdoor brand that offers signature outerwear; men's and women's
+                    </script><div id="wrap"><div id="footNavLinks"><div id="footer_content" class="EB">
+	<div class="wrapper">		
+		<div class="content">
+			<div class="hr top"></div>
+			<div class="column col_1">
+				<div class="wrapCol">
+					<table>
+						<tbody><tr>					
+							<td class="headerFooter"><h3>Our Creed</h3></td>
+						</tr>
+						<tr>
+							<td class="creed">To give you such outstanding quality, value, service and guarantee that we may be worthy of your high esteem.™</td>
+						</tr>
+						<tr>
+							<td class="headerFooter"><h3>Our Guarantee</h3></td>	
+						</tr>
+						<tr>
+							<td class="guarantee">Every item we sell will give you complete satisfaction or you may return it for
+					a full refund.™</td>	
+						</tr>
+						<tr>
+							<td class="signature"><div class="signatureFooter"></div></td>	
+						</tr>
+						<tr>
+							<td class="headerFooter"><h3>About Us</h3></td>	
+						</tr>
+						<tr>
+							<td class=""><div class="logoFooter"></div></td>	
+						</tr>
+						<tr>
+							<td class="aboutUs">Eddie Bauer is an outdoor brand that offers signature outerwear; men's and women's
 					clothing, gear and accessories; and world-class mountaineering gear. All built to
-					one standard—to be the best.</div>
-			</div>
-			<!--end footer_about_us-->
-			<div id="footer_find_a_store" class="floatLeft">
-				<div>
-					<h3 class="footer">
-						Find A Store</h3>
-				</div>
-				<div>
-					Enter your zip code to find the store nearest you.</div>
-				<div id="footer_find_a_store_form" class="floatLeft">					
-					<input id="Footertxtpostalcode" type="text" size="10" maxlength="10" name="Footertxtpostalcode" class="setInputInline" onblur="if(this.value==''){this.value='Enter Zip Code';}" onfocus="if(this.value=='Enter Zip Code'){this.value='';}" value="Enter Zip Code" style="width: 91px;">
-					<input class="goButton" type="image" src="/assets/spacer.gif" onclick="StoreLocator(1)" value="GO" title="Find A Store" alt="Find A Store">					
+					one standard: to be the best.</td>	
+						</tr>
+						<tr>
+							<td class=""><div class="certLogoFooter"></div></td>	
+						</tr>
+					</tbody></table>
 				</div>
 			</div>
-			<!--end footer_find_a_store-->
-			<div id="footer_order_catalog" class="floatLeft">
-				<div>
-					<h3 class="footer">Order from a catalog</h3>
+			<div class="column col_2">
+				<div class="wrapCol">
+					<table>
+						<tbody><tr class="row1">
+							<td class="col1">
+								<table>
+									<tbody><tr>
+										<td class="headerFooter"><h3>Men</h3></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/index.cat" title="" alt="" name="Footer: Mens Clothing">Men's Clothing</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Short-Tall--XXXL/index.cat" title="" alt="" name="Footer: Mens Big &amp; Tall">Men's Big &amp; Tall</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Wrinkle-Resistant/index.cat" title="" alt="" name="Footer: Mens Wrinkle-Free">Men's Wrinkle-Free</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Shirts/index.cat" title="" alt="" name="Footer: Mens Shirts">Men's Shirts</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Polos-Tees--Sweatshirts/index.cat" title="" alt="" name="Footer: Mens T-Shirts">Men's T-Shirts</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Polo-Shop/index.cat" title="" alt="" name="Footer: Mens Polo Shirts">Men's Polo Shirts</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Sweaters/index.cat" title="" alt="" name="Footer: Mens Sweaters">Men's Sweaters</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Jeans/index.cat" title="" alt="" name="Footer: Mens Jeans">Men's Jeans</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Pants/index.cat" title="" alt="" name="Footer: Mens Pants">Men's Pants</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Men/Outerwear--Blazers/index.cat" title="" alt="" name="Footer: Mens Jackets">Men's Jackets</a></td>	
+									</tr>									
+								</tbody></table>
+							</td>
+							<td class="col2">
+								<table>
+									<tbody><tr>
+										<td class="headerFooter"><h3>Women</h3></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/index.cat" title="" alt="" name="Footer: Womens Clothing">Women's Clothing</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Womens--Plus-sizes-16W-26W/index.cat" title="" alt="" name="Footer: Womens Plus Size">Women's Plus Size</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Petite-2-18/index.cat" title="" alt="" name="Footer: Womens Petite">Women's Petite</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Tall-4-20/index.cat" title="" alt="" name="Footer: Womens Tall">Women's Tall</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Tops-by-Fit/index.cat" title="" alt="" name="Footer: Womens Tops">Women's Tops</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Shirts--Blouses/index.cat" title="" alt="" name="Footer: Womens Shirts">Women's Shirts</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Tees--Knit-Tops/index.cat" title="" alt="" name="Footer: Womens T-Shirts">Women's T-Shirts</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Sweaters--Cardigans/index.cat" title="" alt="" name="Footer: Womens Sweaters">Women's Sweaters</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Jeans/index.cat" title="" alt="" name="Footer: Womens Jeans">Women's Jeans</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Pants-Capris--Shorts/index.cat" title="" alt="" name="Footer: Womens Pants">Women's Pants</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Outerwear-Jackets--Blazers/index.cat" title="" alt="" name="Footer: Womens Jackets">Women's Jackets</a></td>	
+									</tr>	
+									<tr>
+										<td class="linkFooter"><a href="/EB/Women/Swimwear/index.cat" title="" alt="" name="Footer: Womens Swimwear">Women's Swimwear</a></td>	
+									</tr>
+								</tbody></table>
+							</td>
+							<td class="col3">
+								<table>
+									<tbody><tr>
+										<td class="headerFooter"><h3>More Shopping</h3></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Outerwear/index.cat" title="" alt="" name="Footer: Outerwear">Outerwear</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Shoes--Accessories/index.cat" title="" alt="" name="Footer: Shoes">Shoes</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Bags--Gear/index.cat" title="" alt="" name="Footer: Bags &amp; Gear">Bags &amp; Gear</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Bedding/index.cat" title="" alt="" name="Footer: Bedding &amp; Home">Bedding &amp; Home</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Sale/index.cat" title="" alt="" name="Footer: Sale">Sale</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/Clearance/index.cat" title="" alt="" name="Footer: Clearance">Clearance</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/EB/First-Ascent/index.cat" title="" alt="" name="Footer:  First Ascent">First Ascent</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=304" title="" alt="" name="Footer: Gift Cards">Gift Cards</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/catalog_request.jsp" title="" alt="" name="Footer: Request a Catalog">Request a Catalog</a></td>	
+									</tr>									
+								</tbody></table>
+							</td>
+						</tr>
+						<tr class="row2">
+							<td class="col1">
+								<table>
+									<tbody><tr>
+										<td class="headerFooter"><h3>Programs</h3></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=311" title="" alt="" name="Footer: Affiliate Program">Affiliate Program</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=308" title="" alt="" name="Footer: Eddie Bauer Credit Card">Eddie Bauer Credit Card</a></td>
+									</tr>
+									<!-- <tr>
+										<td class="linkFooter"><a href="/EB/First-Ascent/index.cat" title="" alt="" name="Footer: Get Sponsored">Get Sponsored</a></td>	
+									</tr> -->
+									<tr>
+										<td class="linkFooter"><a href="/custserv/pro_deals_application.jsp" title="" alt="" name="Footer: Pro Deals">Pro Deals</a></td>	
+									</tr>				
+								</tbody></table>
+							</td>
+							<td class="col2">
+								<table>
+									<tbody><tr>
+										<td class="headerFooter"><h3>Customer Service</h3></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/ask_eddie_email.jsp?sectionId=24448');" title="" alt="" name="Footer: Contact Us">Contact Us</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=101" title="" alt="" name="Footer: Shipping">Shipping</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=295" title="" alt="" name="Footer: Returns">Returns</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=102" title="" alt="" name="Footer: Size Charts">Size Charts</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="https://www.eddiebauer.com/user/wishlist.jsp" title="" alt="" name="Footer: Wish List">Wish List</a></td>	
+									</tr>	
+									<!-- <tr>
+										<td class="linkFooter"><a href="javascript:webISChatPop('Template=875375');" style="display: block; margin-left:-10px;" class="liveChatButton"><img border="0" alt="Click to Chat" src="https://as00.estara.com/webcare/public/linkimage.php?ulbid=875375"></a></td>
+									</tr> -->
+								</tbody></table>
+							</td>
+							<td class="col3">
+								<table>
+									<tbody><tr>
+										<td class="headerFooter"><h3>Company Info</h3></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=800" title="" alt="" name="Footer: About Eddie Bauer">About Eddie Bauer</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=830" title="" alt="" name="Footer: Our Heritage">Our Heritage</a></td>
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=805" title="" alt="" name="Footer: Careers">Careers</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/storelocator/store_locator.jsp" title="" alt="" name="Footer: Store Locator">Store Locator</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=299" title="" alt="" name="Footer: Terms of Use">Terms of Use</a></td>	
+									</tr>
+									<tr>
+										<td class="linkFooter"><a href="/custserv/custserv.jsp?sectionId=310" title="" alt="" name="Footer: Privacy Policy">Privacy Policy</a></td>	
+									</tr>
+									<!-- <tr>
+										<td class="linkFooter"><a href="" title="" alt="" name="Footer: Site Map">Site Map</a></td>	
+									</tr> -->																	
+								</tbody></table>
+							</td>
+						</tr>
+					</tbody></table>
 				</div>
-				<div>
-					To place a Catalog Quick Order enter a three part item number below.</div>
-				<div id="footer_order_catalog_form">
-					<form id="quickOrderFooterForm" method="post" action="javascript:validateSkuFormat('deptMFT','effortMFT','itemMFT', 'Catalog Quick Order');">
-					<input type="hidden" value="quickOrderFooterForm" name="form_state">
-					<input type="hidden" value="1" name="entry">
-					<input type="hidden" name="check">
-					<input type="hidden" name="checkall">
-					<input id="deptMFT" type="text" onfocus="if(this.value=='A00'){this.value='';}" onkeyup="eobAutotab('deptMFT', 'effortMFT',3);" value="A00" name="deptMFT" size="3" maxlength="3" autocomplete="off">
-					<input id="effortMFT" type="text" onfocus="if(this.value=='000'){this.value='';}" onkeyup="eobAutotab('effortMFT', 'itemMFT',3);" value="000" name="effortMFT" size="3" maxlength="3" autocomplete="off">
-					<input id="itemMFT" type="text" onfocus="if(this.value=='0000'){this.value='';}" name="itemMFT" value="0000" size="4" maxlength="4" autocomplete="off">
-					<input type="image" class="goButton" src="/assets/spacer.gif" title="Order From A Catalog" alt="Order From A Catalog" value="GO">
-					</form>
-				</div>
-			</div>
-			<!--end footer_order_catalog-->
-			<div id="footer_email_updates" class="floatLeft">
-				<div>
-					<h3 class="footer">
-						Sign Up For Email</h3>
-				</div>
-				<div>
-					Plus, receive a special Welcome Offer just for signing up.</div>
-				<div id="footer_email_updates_form">
-					<form id="frm_footer_email_updates" method="post" action="javascript:getAndSendEmail();">
-					<input id="updatesEmailAddress" type="text" onblur="if(this.value==''){this.value='Enter Email Address';}" onfocus="if(this.value=='Enter Email Address'){this.value='';}" style="width: 130px;" value="Enter Email Address" size="10" maxlength="30" autocomplete="off">
-					<input class="goButton" type="image" src="/assets/spacer.gif" title="Get Email Updates" alt="Get Email Updates" value="GO">
-					</form>
-				</div>
-			</div>
-			<!--end footer_email_updates-->
-		</div>
-		<!--  end of wrapper -->
-	</div>
-	<!--end footer_top-->
-	<div id="footer_content">
-		<div class="wrapper">
-			<div class="footer_creed_guarantee col">
-				<div class="title">
-					OUR CREED
-				</div>
-				<div>
-					To give you such outstanding quality, value, service and guarantee that we may be
-					worthy of your high esteem.™</div>
-				<div style="margin-bottom: 15px;"></div>
-				<div class="title">
-					OUR GUARANTEE
-				</div>
-				<div>
-					Every item we sell will give you complete satisfaction or you may return it for
-					a full refund.™
-				</div>
-				<div class="footer_eddie_signature">
-					<img src="/assets/spacer.gif" border="0">
-				</div>
-				<div id="join_us">
-					<div class="links_header">Join Us</div>
-						<div class="links">
-							<a href="http://www.facebook.com/eddiebauer" class="iconlinks" alt="Join Eddie Bauer on FaceBook" title="Join Eddie Bauer on FaceBook" target="_blank"><img class="facebook" src="/assets/spacer.gif" alt=""></a>
-							<a href="http://twitter.com/eddiebauer" class="iconlinks" alt="Join Eddie Bauer on Twitter" title="Join Eddie Bauer on Twitter" target="_blank"><img class="twitter" src="/assets/spacer.gif" alt=""></a>
-							<a href="http://www.youtube.com/firstascentvideo" class="iconlinks" alt="Join First Ascent on YouTube" title="Join First Ascent on YouTube" target="_blank"><img class="youtube" src="/assets/spacer.gif" alt=""></a>
-						</div>
+			</div>	
+			<div class="column col_3 last">
+				<div class="wrapCol">
+					<div class="emailFooter">
+						<table>
+							<tbody><tr>
+								<td class="headerFooter top"><h3>Sign Up For Email</h3></td>	
+							</tr>
+							<tr>
+								<td class="subtextFooter">Get 15% off your next purchase.</td>
+							</tr>	
+							<tr>
+								<td class="inputEmailAddress bottom">
+									<form action="javascript:getAndSendEmail(); noCloseButton();" method="post" id="frm_footer_email_updates">
+										<input type="text" autocomplete="off" maxlength="30" size="10" value="Enter Email Address" onfocus="if(this.value=='Enter Email Address'){this.value='';}" onblur="if(this.value==''){this.value='Enter Email Address';}" id="updatesEmailAddress">
+										<input type="image" name="EB:Footer:Sign Up For Email" value="GO" alt="Get Email Updates" title="Get Email Updates" src="/assets/spacer.gif" class="goButton">
+									</form>
+								</td>
+							</tr>
+						</tbody></table>
 					</div>
-				</div>
-			<!--end footer_creed_guarantee-->
-			<div id="footer_men" class="col">
-				<div class="title">
-					Shop Men</div>
-				<div>
-					<a href="/EB/Men/index.cat">Men's Clothing</a></div>
-				<div>
-					<a href="/EB/Men/Short-Tall--XXXL/index.cat">Men's Big &amp; Tall</a></div>
-				<div>
-					<a href="/EB/Men/Wrinkle-Resistant/index.cat">Men's Wrinkle-Free</a></div>
-				<div>
-					<a href="/EB/Men/Shirts/index.cat">Men's Shirts</a></div>
-				<div>
-					<a href="/EB/Men/Polos-Tees--Sweatshirts/Tees/index.cat">Men's T-Shirts</a></div>
-				<div>
-					<a href="/EB/Men/Polos-Tees--Sweatshirts/Polos-Polos-Tees--Sweatshirts/index.cat">Men's
-						Polo Shirts</a></div>
-				<div>
-					<a href="/EB/Men/Sweaters/index.cat">Men's Sweaters</a></div>
-				<div>
-					<a href="/EB/Men/Jeans/index.cat">Men's Jeans</a></div>
-				<div>
-					<a href="/EB/Men/Pants/index.cat">Men's Pants</a></div>
-				<div>
-					<a href="/EB/Men/Outerwear--Blazers/index.cat">Men's Jackets</a></div>				
-			</div>
-			<!--end footer_men-->
-			<div id="footer_women" class="col">
-				<div class="title">
-					Shop Women</div>
-				<div>
-					<a href="/EB/Women/index.cat">Women's Clothing</a></div>
-				<div>
-					<a href="/EB/Women/Petite-2-18/index.cat">Women's Petite</a></div>
-				<div>
-					<a href="/EB/Women/Tall-4-20/index.cat">Women's Tall</a></div>
-				<div>
-					<a href="/EB/Women/Womens--Plus-sizes-16W-26W/index.cat">Women's Plus Size</a></div>
-				<div>
-					<a href="/EB/Women/Tops-by-Fit/index.cat">Women's Tops</a></div>
-				<div>
-					<a href="/EB/Women/Shirts--Blouses/index.cat">Women's Shirts</a></div>
-				<div>
-					<a href="/EB/Women/Tees--Knit-Tops/index.cat">Women's T-Shirts</a></div>
-				<div>
-					<a href="/EB/Women/Sweaters--Cardigans/index.cat">Women's Sweaters</a></div>
-				<div>
-					<a href="/EB/Women/Jeans/index.cat">Women's Jeans</a></div>
-				<div>
-					<a href="/EB/Women/Pants-Capris--Shorts/index.cat">Women's Pants</a></div>
-				<div>
-					<a href="/EB/Women/Outerwear-Jackets--Blazers/index.cat">Women's Jackets</a></div>
-				<div>
-					<a href="/EB/Women/Swimwear/index.cat">Women's Swimwear</a></div>
-				<div>
-					<a href="/EB/Women/Business-Casual-Casual/Suits/index.cat">Women's Dress Suits</a></div>
-			</div>
-			<!--end footer_women-->
-			<div id="footer_specialty_shops" class="col">
-				<div class="title">
-					Specialty Shops</div>
-				<div>
-					<a href="/EB/Mens-Outerwear/index.cat">Men's Outerwear</a></div>
-				<div>
-					<a href="/EB/Womens-Outerwear/index.cat">Women's Outerwear</a></div>
-				<div>
-					<a href="/home.jsp?siteId=2">First Ascent</a></div>
-				<div>
-					<a href="/EB/Men/Mens-Heritage-Clothing/index.cat">Heritage Collection</a></div>
-				<div>
-					<a href="/EB/Women/Swimwear/Miraclesuit/index.cat">Miraclesuit®</a></div>
-				<div>
-					<a href="/EB/Mens-Shoes--Accessories/Shop-by-Brand/index.cat">Men's Shoes</a></div>
-				<div>
-					<a href="/EB/Womens-Shoes--Accessories/Shop-by-Brand/index.cat">Women's Shoes</a></div>
-				<div>
-					<a href="/EB/Bags--Gear/index.cat">Bags &amp; Gear</a></div>
-				<div>
-					<a href="/EB/Bedding/index.cat">Bedding &amp; Home</a></div>
-				<div>
-					<a href="/EB/Clearance/index.cat">Clearance</a></div>
-			</div>
-			<!--end footer_specialty_shops-->
-			<div id="footer_customer_service" class="col">
-				<div class="title">
-					Customer Service</div>
-				<div>
-					<a href="/custserv/ask_eddie_email.jsp?sectionId=24448');">Contact Us</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=296">Shipping &amp; Returns</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=102">Size Charts</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=304">Gift Cards</a></div>
-				<div>
-					<a class="floatbox" style="cursor:pointer;" rev="width:522 height:478 closeButtonClass:fbRedCloseButton showNavArrows:false" href="#catalogBanner">Shop Our Catalogs</a></div>
-				<!--<div>
-					<a href="/custserv/catalog_request.jsp">Free Catalogs</a></div>-->
-                <div>
-					<a href="/custserv/custserv.jsp?sectionId=308">Eddie Bauer Credit Card</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=334">Eddie Bauer Friends</a></div>
-			</div>
-			<!--end footer_customer_service-->
-			<div id="footer_company_info" class="col">
-				<div class="title">
-					Company Info</div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=800">About Eddie Bauer</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=311">Affiliate Program</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=805">Careers</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=299">Terms of Use</a></div>
-				<div>
-					<a href="/custserv/custserv.jsp?sectionId=310">Privacy Policy</a></div>
-				<!--<div><a href="Page not created yet, URL not available">Site Map</a></div>-->
-				
-			</div><div id="footer_logo">
-				</div>
-			<!--end footer_company_info-->
+					<div class="rewardsFooter">
+						<table>
+							<tbody><tr>
+								<td class="headerFooter top"><h3>Earn Rewards</h3></td>	
+							</tr>
+							<tr>
+								<td><div class="friendsLogoFooter"></div></td>	
+							</tr>
+							<tr>
+								<td class="copyText rewards bottom">Join Eddie Bauer Friends and you'll start earning Rewards toward a Reward Certificate for every dollar you spend, no matter where you shop Eddie Bauer. <a href="/custserv/custserv.jsp?sectionId=334" alt="Learn more" title="Learn More" class="link" name="Footer: Eddie Bauer Friends Learn More">Learn More</a></td>	
+							</tr>
+							<tr>
+								<td class="friendsInput">
+									<a href="https://www.eddiebauerfriends.com/" target="_blank" name="Footer: Eddie Bauer Friends Login"><img src="/assets/spacer.gif" border="0" width="134" height="24" style="background: url(/assets/ocp/content/skin/sprites/110801/eb_main_sprite_footer.gif) no-repeat scroll -321px -230px transparent;"></a>
+								</td>
+							</tr>
+							<tr>
+								<td>
+									<span class="friendsMemberFooter">Not a member? <a href="https://www.eddiebauerfriends.com/enroll.jspx" target="_blank" alt="Enroll Now" title="Enroll Now" class="link" name="Footer: Eddie Bauer Friends Enroll Now">Enroll now, it's Free!</a></span>
+								</td>
+							</tr>
+						</tbody></table>
+					</div>
+					<div class="socialFooter">
+						<table>
+							<tbody><tr>
+								<td class="headerFooter top"><h3>Connect With Us</h3></td>	
+							</tr>
+							<tr>
+								<td class="headerFooter"><h4>Eddie Bauer</h4></td>	
+							</tr>
+							<tr>
+								<td class="socialFooter">
+									<div class="links">
+										<a target="_blank" title="Like Eddie Bauer on Facebook" name="Footer: Like Eddie Bauer on Facebook" alt="Like Eddie Bauer on Facebook" class="iconlinks" href="http://www.facebook.com/eddiebauer"><img src="/assets/spacer.gif" class="facebook"></a>
+										<a target="_blank" title="Follow Eddie Bauer on Twitter" name="Footer: Follow Eddie Bauer on Twitter" alt="Follow Eddie Bauer on Twitter" class="iconlinks" href="http://twitter.com/eddiebauer"><img src="/assets/spacer.gif" class="twitter"></a>									
+									</div>							
+								</td>	
+							</tr>
+							<tr>
+								<td class="headerFooter"><h4>First Ascent</h4></td>	
+							</tr>
+							<tr>
+								<td class="socialFooter bottom">
+									<div class="links">
+										<a target="_blank" title="Like Eddie Bauer on Facebook" name="Footer: Like Eddie Bauer on Facebook" alt="Like Eddie Bauer on Facebook" class="iconlinks" href="http://www.facebook.com/FirstAscent"><img src="/assets/spacer.gif" class="facebook"></a>
+										<a target="_blank" title="Follow Eddie Bauer on Twitter" name="Footer: Follow Eddie Bauer on Twitter" alt="Follow Eddie Bauer on Twitter" class="iconlinks" href="http://twitter.com/FirstAscent"><img src="/assets/spacer.gif" class="twitter"></a>
+										<a target="_blank" title="Watch First Ascent on YouTube" name="Footer: Watch First Ascent on YouTube" alt="Watch First Ascent on YouTube" class="iconlinks" href="http://www.youtube.com/firstascentvideo"><img src="/assets/spacer.gif" class="youtube"></a>
+									</div>							
+								</td>	
+							</tr>
+						</tbody></table>
+					</div>
+				</div>				
+			</div>		
 		</div>
-		<!--end wrapper-->
+		<div class="trademark">
+			<div class="backToTop"><a href="#above" alt="Back To Top">Back to Top<span class="arrowUp"></span></a></div>
+			<div class="hr bottom"></div>
+			<span class="col1">©2011 Eddie Bauer LLC. All rights reserved. eddiebauer.com® is a registered trademark of Eddie Bauer LLC.</span>
+			<span class="col2"><span class="phone">1-800-426-8020</span><span class="dividerIcon"></span>Contact us 24 hours a day 7 days a week</span>
+		</div>
 	</div>
-	<!--end footer_content-->
-	<div id="footer_bottom">
-		<div id="footer_stripe">
-		</div>
-		<div class="wrapper">
-			<span id="outfitters"></span>
-			<div class="footer_bottom_copy">
-				<span class="footer_bottom_copy_bold " style="font-size:14px; font-weight:bold;">Contact us 24 hours a day 7 days a week 1-800-426-8020</span><br>
-				©2010 Eddie Bauer LLC. All rights reserved. eddiebauer.com® is a registered trademark
-				of Eddie Bauer LLC.</div>
-			<span id="adventure"></span>
-		</div>
-		<!--end wrapper-->
-	</div>
-	<!--end footer_bottom-->
-<style type="text/css">
-    .fbRedCloseButton, 
-    .fancybox-ie .fbRedCloseButton {
-        background-position:-154px -1227px !important;
-        height:22px !important;
-        position:absolute !important;
-        right:10px !important;
-        top:5px !important;
-        width:84px !important;
-    }
-</style>
+</div>
+
+
 <script type="text/javascript">
-    //var mod = new Object;
     function hidePopUp() {
         $j.fancybox.close();
     }
+
     function showFancyModal() {
         var el = document.getElementById('catalogBanner')
         $j.fancybox(el);
     }
-</script>
-<div style="display:none;">
-    <div id="catalogBanner" style="width:522px;height:478px;">
-        <img src="/assets/ocp/content/gifts/101227/modal_2_wide.jpg" width="522" height="478" usemap="#catalogModal">
-    </div>
-    <map name="catalogModal" id="catalogModal">
-        <area shape="rect" coords="92,104,255,328" href="http://catalogs.eddiebauer.com/publication?i=51811" target="_blank" onclick="javascript:hidePopUp();" title="Shop The Outerwear Book" alt="Shop The Outerwear Book">
-        <area shape="rect" coords="276,104,440,332" href="http://catalogs.eddiebauer.com/publication/?i=52636" target="_blank" onclick="javascript:hidePopUp();" title="Shop First Ascent Catalog" alt="Shop First Ascent Catalog">
-        <area shape="rect" coords="144,380,367,434" href="/custserv/catalog_request.jsp" target="_blank" onclick="javascript:hidePopUp();" title="Shop Order Catalog" alt="Shop Order Catalog">
-    </map>
-</div>
 
-<script type="text/javascript">
-    Cufon.now();
     function getAndSendEmail(emailInputID) {
         var updatesEmailAddress1;
-
         try {
             updatesEmailAddress1 = document.getElementById(emailInputID).value;
         } catch (err) {
@@ -1275,9 +2569,7 @@ $j(document).ready(function() {
         TopPosition = (screen.height) ? (screen.height - popup_height) / 2 : 0;
         winfeatures = winfeatures + ',height=' + popup_height + ',width=' + popup_width + ',top=' + TopPosition + ',left=' + LeftPosition;
         if (updatesEmailAddress1 != "") {
-            //window.open(updatesEmailAddressurl + '&email=' + updatesEmailAddress1, 'EBEmail', winfeatures);
-            //fb.start(updatesEmailAddressurl + '&email=' + updatesEmailAddress1, {height:popup_height, width:popup_width});
-            params = { 'showCloseButton': true,
+            var params = { 'showCloseButton': true,
                 'href': updatesEmailAddressurl + '&email=' + updatesEmailAddress1,
                 'titleShow': false,
                 'height': popup_height,
@@ -1287,62 +2579,30 @@ $j(document).ready(function() {
                 'showNavArrows': false,
                 'type': 'iframe'
             };
-
             $j.fancybox.showActivity();
             $j.fancybox(params);
         } else {
             alert("Please enter a valid Email Address");
         }
+
     }
 
-    /*Add Extra Container To Breadcrumbs for Drop Shadow*/
-
-    var bodyClass = document.getElementsByTagName('body')[0].getAttribute('class');
-    /* Fix for IE not using the actual class attribute name */
-    if (!bodyClass)
-        bodyClass = document.getElementsByTagName('body')[0].getAttribute('className');
-    if (bodyClass.indexOf('GIFTS') >= 0) {
-        YAHOO.util.Event.onDOMReady(function () {
-            var original = document.getElementById('breadcrumb');
-            var bcs = document.createElement('div');
-            var bct = document.createElement('div');
-            var torsobottom = document.createElement('div');
-            torsobottom.setAttribute('id', 'torsobottom');
-            bcs.setAttribute('id', 'breadcrumb_sides');
-            bct.setAttribute('id', 'breadcrumb_top');
-            bcs.appendChild(original.cloneNode(true));
-            original.parentNode.replaceChild(bcs, original);
-            var updated = document.getElementById('breadcrumb_sides');
-            bct.appendChild(updated.cloneNode(true));
-            updated.parentNode.replaceChild(bct, updated);
-            document.getElementById('middle').appendChild(torsobottom);
-        });
-    }
-    function StoreLocator(id) {
-
+    function StoreLocatorFooter(id) {
         if (id === 1) {//zipcode search
-
             if (document.getElementById("Footertxtpostalcode").value != "" && document.getElementById("Footertxtpostalcode").value != "Enter Zip Code") {
                 window.location = "/custserv/storelocator/store_locator.jsp?PostalCode=" + document.getElementById("Footertxtpostalcode").value;
             } else {
                 alert("Please enter a zip code or postal code.");
-                return false;
             }
-
         } else if (id === 2) {//zipcode search right column
             if (document.getElementById("FootertxtpostalcodeRightColumn").value != "" && document.getElementById("FootertxtpostalcodeRightColumn").value != "Enter Zip Code") {
                 window.location = "/custserv/storelocator/store_locator.jsp?PostalCode=" + document.getElementById("FootertxtpostalcodeRightColumn").value;
             } else {
                 alert("Please enter a zip code or postal code.");
-                return false;
             }
-
-
-
         }
-
     }
-
+    
 </script><div id="locator-over" style="visibility:hidden;"><div class="hd"><a href="javascript:void(0);" id="locatorClose" title="Close Store Locator"><span>Close window</span></a></div><div class="bd"><form action="http://www.eddiebauer.com/custserv/storelocator/store_locator.jsp" method="post" name="store_query"><input type="hidden" name="form_state" value="store_query"><input name="ZIPCODE_OR_STATE" id="ZIPCODE_OR_STATE" value="true" type="hidden"><input name="searchType" id="searchType" value="ZIP" type="hidden"><input name="template" id="template" value="map_search" type="hidden"><input class="mqInput" name="bookmark" id="bookmark" value="LASTSTORESEARCH" type="hidden"><input class="mqInput" name="country" id="country" value="US" type="hidden"><input class="mqInput" name="pheight" id="pheight" value="324" type="hidden"><input class="mqInput" name="pwidth" id="pwidth" value="504" type="hidden"><input class="mqInput" name="transaction" id="transaction" value="search" type="hidden"><input class="mqInput" name="radius" id="radius" value="50" type="hidden"></form></div></div><div id="eob-over" style="visibility:hidden;"><div class="hd"><a href="javascript:void(0);" id="eobClose" title="Close Store Locator"><span>Close window</span></a></div><div class="bd"><form id="quickOrderFooterForm" action="javascript:validateSkuFormat('deptMFT','effortMFT','itemMFT', 'Catalog Quick Order');" method="post" name="quickOrderFooterForm"><input type="hidden" name="form_state" value="quickOrderFooterForm"><input type="hidden" name="entry" value="1"><input type="hidden" name="check"><input type="hidden" name="checkall"><h6>Catalog Quick Order</h6>
 <p>Shop with your catalog.</p>
 <dl>
@@ -1368,13 +2628,14 @@ $j(document).ready(function() {
 <ul>
 	<li><a href="http://www.eddiebauer.com/catalog/catalog_quick_order.jsp" env="unsecure">How to Find an Item Number</a></li>
 </ul></form></div></div></div>
-</div></div><!-- end footer --></div><!-- end below --></div><!-- end site --><div id="left_panel" style="position:absolute; visibility:hidden;"></div><div id="right_panel" style="position:absolute; visibility:hidden;"></div><script type="text/javascript">var addthis_pub="ebfryteam";var addthis_logo='https://www.eddiebauer.com/assets/logotype.gif';var addthis_logo_background='EFEFFF';var addthis_logo_color='666699';var addthis_brand='Eddie Bauer';var addthis_options='favorites, digg, delicious, myspace, facebook, google, live, twitter, more';</script><script type="text/javascript" src="https://secure.addthis.com/js/152/addthis_widget.js"></script><!-- Get the form ready --><form name="ebCM" id="ebCM" action="#" style="display:none;"><input type="hidden" id="ebCM_CMSSiteId" name="ebCM_CMSSiteId" value="1"><input type="hidden" id="ebCM_categoryId" name="ebCM_categoryId" value="22429"><input type="hidden" id="ebCM_categoryName" name="ebCM_categoryName" value="PRIVACY--SECURITY"><input type="hidden" id="ebCM_pCategoryId" name="ebCM_pCategoryId" value="22376"><input type="hidden" id="ebCM_pCategoryName" name="ebCM_pCategoryName" value="CUSTOMER-SERVICE"><input type="hidden" id="ebCM_CATEGORY_INFO" name="ebCM_CATEGORY_INFO" value="null"><input type="hidden" id="ebCM_CATEGORY_PATH" name="ebCM_CATEGORY_PATH" value=""><input type="hidden" id="ebCM_PATH_INFO" name="ebCM_PATH_INFO" value="null"></form><script type="text/javascript">
-    		cmSetProduction();
+</div></div><!-- end footer --></div><!-- end below --></div><!-- end site --><div id="left_panel" style="position:absolute; visibility:hidden;"></div><div id="right_panel" style="position:absolute; visibility:hidden;"></div><!-- Get the form ready --><form name="ebCM" id="ebCM" action="#" style="display:none;"><input type="hidden" id="ebCM_CMSSiteId" name="ebCM_CMSSiteId" value="1"><input type="hidden" id="ebCM_categoryId" name="ebCM_categoryId" value="22429"><input type="hidden" id="ebCM_categoryName" name="ebCM_categoryName" value="PRIVACY--SECURITY"><input type="hidden" id="ebCM_pCategoryId" name="ebCM_pCategoryId" value="22376"><input type="hidden" id="ebCM_pCategoryName" name="ebCM_pCategoryName" value="CUSTOMER-SERVICE"><input type="hidden" id="ebCM_CATEGORY_INFO" name="ebCM_CATEGORY_INFO" value="null"><input type="hidden" id="ebCM_CATEGORY_PATH" name="ebCM_CATEGORY_PATH" value=""><input type="hidden" id="ebCM_PATH_INFO" name="ebCM_PATH_INFO" value="null"></form><script type="text/javascript">
+            cmSetClientID("30000102",true,"data.coremetrics.com","eddiebauer.com");
+    		//cmSetProduction();
     
-    
+
+
     		search_string=false;
-    
-    cmCreatePageviewTag("CUSTOMER-SERVICE:PRIVACY--SECURITY","C22376C22429","1","www.eddiebauer.com","CUSTOMER-SERVICE:PRIVACY--SECURITY","","","");
+	 cmCreatePageviewTag("CUSTOMER-SERVICE:PRIVACY--SECURITY","C22376C22429","1","www.eddiebauer.com","CUSTOMER-SERVICE:PRIVACY--SECURITY","","","");
         DelCookie('TOOLID');
         DelCookie('TOOLCATEGORYID');
         DelCookie('INITCAT');
@@ -1384,11 +2645,17 @@ $j(document).ready(function() {
     	
              SetCookie('CMCG', escape('C22376C22429'));
         
-    
+
         var keepCMCookies = '';
     	 if (keepCMCookies != 'true') {
     		 SetCookie('PREVIOUS', escape(document.location.href));
     		 DelCookie('REFERRAL_URL');
     		 DelCookie('ebPi')
     	 }
-    	</script></div></body></html>
+    	</script><script type="text/javascript">
+	        (function() {
+	         var avm = document.createElement('script'); avm.type = 'text/javascript'; avm.async = true;
+	         avm.src = '/js/avantlink/avmws_1011233.js';
+	         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(avm,s);
+	         })();
+       </script><div id="Overlay" style="display:none"></div><script src="/js/foresee/foresee-analytics-bottom-j5520.js" type="text/javascript"></script></body></html>
