@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinyadda.com privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607150709id_/http%3A//tinyadda.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyadda.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103074601id_/http%3A//tinyadda.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # TinyAdda » More Information » Privacy Policy
 
