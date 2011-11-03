@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514021121id_/http%3A//www.hormel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hormel.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103065148id_/http%3A//www.hormel.com/privacy.aspx) for the most accurate reproduction.*
 
 # Hormel.com - PRIVACY POLICY
 
