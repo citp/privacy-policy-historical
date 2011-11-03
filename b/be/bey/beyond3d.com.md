@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beyond3d.com privacy policy that was archived on 2010-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101030030337id_/http%3A//beyond3d.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beyond3d.com privacy policy that was archived on 2011-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111103022134id_/http%3A//www.beyond3d.com/content/privacy) for the most accurate reproduction.*
 
 # Beyond3D - Privacy Policy
 
