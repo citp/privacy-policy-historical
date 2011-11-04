@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsinsites.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505082127id_/http%3A//www.newsinsites.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsinsites.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105001513id_/http%3A//www.newsinsites.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - News In Sites
 
