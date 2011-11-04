@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513123216id_/http%3A//www.redcross.ca/article.asp%3Fid%3D006567%26tid%3D001) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redcross.ca privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104202626id_/http%3A//www.redcross.ca/article.asp%3Fid%3D006567%26tid%3D001) for the most accurate reproduction.*
 
 # Web Privacy Policy- Canadian Red Cross
 
@@ -14,7 +14,7 @@ All online transactions and contributions on this site occur through a safe, pri
 
 If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. They will have a choice as to whether or not we use their information in this different manner.
 
-[Click here](https://web.archive.org/web/20110513123216id_/http%3A//www.redcross.ca/main.asp?id=010957) to view the Complete Privacy Policy.
+[Click here](https://web.archive.org/web/20111104202626id_/http%3A//www.redcross.ca/main.asp?id=010957) to view the Complete Privacy Policy.
 
 For more information please [email](mailto:privacy@redcross.ca) us.
 
