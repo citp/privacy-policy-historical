@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walb.com privacy policy that was archived on 2011-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110308032826id_/http%3A//www.walb.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walb.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104222301id_/http%3A//www.walb.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
 # Privacy Policy - Live, Local, Late Breaking news, weather, and sports
 
