@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the optimizerx.com privacy policy that was archived on 2011-02-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110219104720id_/http%3A//optimizerx.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the optimizerx.com privacy policy that was archived on 2011-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111104023748id_/http%3A//optimizerx.com/privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><!-- begin --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
 		<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 		<link rel="stylesheet" type="text/css" media="all" href="/inc/reset.css">
@@ -18,7 +18,107 @@
 	
 <script type="text/javascript" src="http://static.optimizerx.com/inc/js/swfobject.js"> </script>
 
+
+
 	<script type="text/javascript">
+	
+	
+		var holdurl = '';
+		
+		
+	
+		function loadOffer(){
+			
+			var value = readCookie('holdoffer');
+			
+			
+			
+			if(!value){
+				
+				}
+			else{
+				var newwindow;							
+				newwindow=window.open(value,'name','resizable=1,scrollbars=1,height=400,width=800');
+				if (window.focus) {newwindow.focus()}
+				eraseCookie('holdoffer');
+			}
+				
+			
+		}
+		
+		
+		function popOffer(url)
+		{	
+		
+			var newwindow;		
+			var user;
+			var test;
+			
+			user = '0';
+					
+			
+			if(user > 0){		
+				newwindow=window.open(url,'name','resizable=1,scrollbars=1,height=400,width=800');
+				if (window.focus) {newwindow.focus()}
+			}
+			else{			
+				createCookie('holdoffer', url, 1);
+				document.getElementById('shadowdiv').style.display='block';	
+				holdurl = url;
+			}
+			
+		}
+		
+		function popOffer2()
+		{	
+		
+		
+			var newwindow;
+			
+			
+			if(holdurl != ''){
+				eraseCookie('holdoffer');							
+				newwindow=window.open(holdurl,'name','resizable=1,scrollbars=1,height=400,width=800');
+				if (window.focus) {newwindow.focus()}
+				holdurl = '';
+			}	
+			document.getElementById('shadowdiv').style.display='none';
+			
+			
+		}
+				
+		
+		function createCookie(name,value,days) {
+			if (days) {
+				var date = new Date();
+						date.setTime(date.getTime()+(days*24*60*60*1000));
+						var expires = "; expires="+date.toGMTString();
+			}
+			else var expires = "";
+			document.cookie = name+"="+value+expires+"; path=/";
+		}
+		 
+		 
+		function readCookie(name) {
+			var nameEQ = name + "=";
+			var ca = document.cookie.split(';');
+			for(var i=0;i < ca.length;i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') c = c.substring(1,c.length);
+				if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length,c.length);
+			}
+			return null;
+		}
+		 
+		function eraseCookie(name) {
+			createCookie(name,"",-1);
+		}
+				
+		
+	
+	
+	
+	
 					var logged_in = 0;
 		//	var semi_reg = 0;
 			var hypertension_video = 0;
@@ -41,18 +141,25 @@ if (navigator.appName == 'Microsoft Internet Explorer') {
 				if(!document.all){
 					write_text_resize_links();
 					set_user_text_size();
+					
 				}
 				if (logged_in) {
                                     setPopupOffers();
+									
 				} else if (newwindow == 1) {
 
                                  setLoggedOutPopupOffers();
+								
                        
 
                                 }
 			//setPopups();
 
 			}
+			
+			window.onload = loadOffer();
+			 
+			
 		</script>
 		<title>Prescription Coupons, Savings and Support Offers - OPTIMIZERx - Privacy Statement</title>
 		<meta name="keywords" content="Prescriptions, Savings, Co-pay Offers, Rebates, Free Trials">
@@ -72,7 +179,8 @@ if (navigator.appName == 'Microsoft Internet Explorer') {
 <![endif]-->
 
 </head>
-	<body class="prescriptions" style="font-size: 10px;">
+
+	<body class="prescriptions">
 
     
 
@@ -83,9 +191,11 @@ if (navigator.appName == 'Microsoft Internet Explorer') {
                 	<div id="head-banners"><a href="http://www.optimizerx.com/"><img src="http://static.optimizerx.com/images/logo.jpg" alt="optimizerx - putting the patient first" style="float:left;"></a>
         
         <div id="header_title"><h1>Preferred by patients for Prescription Coupons, Savings and Support Offers</h1></div><img src="/images/as-seen-on.gif" alt="as seen on abc, nbc, cbs" id="as-seen-on">			
-				<div id="sticky">
-		<a href="http://www.healthvault.com" target="_blank" class="tooltip"><img style="width: 110px;" src="/images/Tile_HealthVaultWhite_h_rgb.png"><span>Microsoft® HealthVault™ lets you gather health data from many sources, store it in a single location, share it with those you trust, and re-use it with HealthVault-compatible applications to monitor, track and manage your health. </span></a>   
+				<!--
+	<div id="sticky" >
+		<a href="http://www.healthvault.com" target="_blank" class="tooltip"><img style="width: 110px;" src="/images/Tile_HealthVaultWhite_h_rgb.png" /><span>Microsoft&reg; HealthVault&trade; lets you gather health data from many sources, store it in a single location, share it with those you trust, and re-use it with HealthVault-compatible applications to monitor, track and manage your health. </span></a>   
 	</div>
+	-->
 			
 			<div id="login-details">
 				<div style="padding-bottom:6px; text-align:right">
@@ -210,6 +320,7 @@ if (navigator.appName == 'Microsoft Internet Explorer') {
 		<!-- <div id="content"> -->
 
 <div id="content"> 
+
 
 <h1 class="header centered">Privacy Statement</h1>
 
@@ -455,7 +566,7 @@ pageTracker._trackPageview();
                 
                 
                 <div style="text-align:left;background-color:#68B54B;padding:10px;width:200px;height:180px;">
-                  <form id="login" action="" method="post" onsubmit="logmein();return false;">
+                  <form id="login" action="" method="post" onsubmit="logemin();return false;">
                   <input type="hidden" value="login" name="form">
                   <input type="hidden" value="goto" name="input">
                   <h2 style="font-size: 18px; margin-left:0; color: #ffffff;">Already a Member?<br>
@@ -533,7 +644,7 @@ pageTracker._trackPageview();
       </tr>
       <tr>
         <td colspan="2">
-        	<p><a style="font-size:8px;color: #ffffff;float: right;padding-top: 10px;padding-left: 50px" href="#" onclick="if(linkylink.length>5) popOffer(linkylink+'&amp;bypass=2'); document.getElementById('shadowdiv').style.display='none'; return false;"><u><br>Close Window</u></a></p>
+        	<p><a style="font-size:8px;color: #ffffff;float: right;padding-top: 10px;padding-left: 50px" href="#" onclick="popOffer2();"><u><br>Close Window</u></a></p>
         </td>
         </tr>
     </tbody></table>
@@ -1009,8 +1120,8 @@ function updateConditionDisplay() {
 <option id="visible_331" value="331">Avastin</option>
 <option id="visible_386" value="386">Avelox</option>
 <option id="visible_968" value="968">Avidoxy/Avidoxy DK</option>
-<option id="visible_628" value="628">Avinza</option>
 <option id="visible_1039" value="1039">Avinza</option>
+<option id="visible_628" value="628">Avinza</option>
 <option id="visible_90" value="90">Avita</option>
 <option id="visible_108" value="108">Avodart</option>
 <option id="visible_348" value="348">Avonex</option>
@@ -1121,8 +1232,8 @@ function updateConditionDisplay() {
 <option id="visible_805" value="805">Depakote ER</option>
 <option id="visible_645" value="645">Depas</option>
 <option id="visible_1050" value="1050">Deplin</option>
-<option id="visible_988" value="988">Deramaxx</option>
 <option id="visible_760" value="760">Deramaxx</option>
+<option id="visible_988" value="988">Deramaxx</option>
 <option id="visible_852" value="852">Desitin</option>
 <option id="visible_758" value="758">Desonate</option>
 <option id="visible_101" value="101">Detrol LA</option>
@@ -1188,14 +1299,15 @@ function updateConditionDisplay() {
 <option id="visible_301" value="301">Evista</option>
 <option id="visible_87" value="87">Evoclin</option>
 <option id="visible_922" value="922">Evolence</option>
+<option id="visible_1061" value="1061">Exalgo</option>
 <option id="visible_291" value="291">Exelon</option>
 <option id="visible_318" value="318">Exforge</option>
 <option id="visible_500" value="500">Exjade</option>
 <option id="visible_764" value="764">Extina</option>
 <option id="visible_470" value="470">Fabrazyme</option>
 <option id="visible_77" value="77">FAMVIR</option>
-<option id="visible_1015" value="1015">Fanapt</option>
 <option id="visible_1005" value="1005">Fanapt</option>
+<option id="visible_1015" value="1015">Fanapt</option>
 <option id="visible_680" value="680">Farmorubicin</option>
 <option id="visible_568" value="568">Faslodex</option>
 <option id="visible_292" value="292">Femara</option>
@@ -1244,8 +1356,8 @@ function updateConditionDisplay() {
 <option id="visible_435" value="435">Gonal</option>
 <option id="visible_767" value="767">Gynazole</option>
 <option id="visible_368" value="368">Harnal</option>
-<option id="visible_989" value="989">Heartgard</option>
 <option id="visible_768" value="768">Heartgard</option>
+<option id="visible_989" value="989">Heartgard</option>
 <option id="visible_1028" value="1028">Hectorol</option>
 <option id="visible_820" value="820">Helixate</option>
 <option id="visible_522" value="522">Hepsera</option>
@@ -1363,11 +1475,11 @@ function updateConditionDisplay() {
 <option id="visible_824" value="824">NeoBenz</option>
 <option id="visible_393" value="393">Neoral</option>
 <option id="visible_349" value="349">NeoRecormon</option>
-<option id="visible_842" value="842">Neosporin</option>
-<option id="visible_840" value="840">Neosporin</option>
 <option id="visible_838" value="838">Neosporin</option>
 <option id="visible_839" value="839">Neosporin</option>
+<option id="visible_840" value="840">Neosporin</option>
 <option id="visible_841" value="841">Neosporin</option>
+<option id="visible_842" value="842">Neosporin</option>
 <option id="visible_741" value="741">Neuart</option>
 <option id="visible_468" value="468">Neurontin</option>
 <option id="visible_890" value="890">Neutrogena</option>
@@ -1652,8 +1764,8 @@ function updateConditionDisplay() {
 <option id="visible_961" value="961">Vivelle Dot</option>
 <option id="visible_973" value="973">Vivitrol</option>
 <option id="visible_415" value="415">Voltaren</option>
-<option id="visible_936" value="936">Vusion</option>
 <option id="visible_794" value="794">Vusion</option>
+<option id="visible_936" value="936">Vusion</option>
 <option id="visible_23" value="23">Vytorin</option>
 <option id="visible_880" value="880">Vyvance</option>
 <option id="visible_696" value="696">Vyvanse</option>
@@ -1794,8 +1906,8 @@ function updateConditionDisplay() {
 <option id="hidden_331" value="331">Avastin</option>
 <option id="hidden_386" value="386">Avelox</option>
 <option id="hidden_968" value="968">Avidoxy/Avidoxy DK</option>
-<option id="hidden_628" value="628">Avinza</option>
 <option id="hidden_1039" value="1039">Avinza</option>
+<option id="hidden_628" value="628">Avinza</option>
 <option id="hidden_90" value="90">Avita</option>
 <option id="hidden_108" value="108">Avodart</option>
 <option id="hidden_348" value="348">Avonex</option>
@@ -1906,8 +2018,8 @@ function updateConditionDisplay() {
 <option id="hidden_805" value="805">Depakote ER</option>
 <option id="hidden_645" value="645">Depas</option>
 <option id="hidden_1050" value="1050">Deplin</option>
-<option id="hidden_988" value="988">Deramaxx</option>
 <option id="hidden_760" value="760">Deramaxx</option>
+<option id="hidden_988" value="988">Deramaxx</option>
 <option id="hidden_852" value="852">Desitin</option>
 <option id="hidden_758" value="758">Desonate</option>
 <option id="hidden_101" value="101">Detrol LA</option>
@@ -1973,14 +2085,15 @@ function updateConditionDisplay() {
 <option id="hidden_301" value="301">Evista</option>
 <option id="hidden_87" value="87">Evoclin</option>
 <option id="hidden_922" value="922">Evolence</option>
+<option id="hidden_1061" value="1061">Exalgo</option>
 <option id="hidden_291" value="291">Exelon</option>
 <option id="hidden_318" value="318">Exforge</option>
 <option id="hidden_500" value="500">Exjade</option>
 <option id="hidden_764" value="764">Extina</option>
 <option id="hidden_470" value="470">Fabrazyme</option>
 <option id="hidden_77" value="77">FAMVIR</option>
-<option id="hidden_1015" value="1015">Fanapt</option>
 <option id="hidden_1005" value="1005">Fanapt</option>
+<option id="hidden_1015" value="1015">Fanapt</option>
 <option id="hidden_680" value="680">Farmorubicin</option>
 <option id="hidden_568" value="568">Faslodex</option>
 <option id="hidden_292" value="292">Femara</option>
@@ -2029,8 +2142,8 @@ function updateConditionDisplay() {
 <option id="hidden_435" value="435">Gonal</option>
 <option id="hidden_767" value="767">Gynazole</option>
 <option id="hidden_368" value="368">Harnal</option>
-<option id="hidden_989" value="989">Heartgard</option>
 <option id="hidden_768" value="768">Heartgard</option>
+<option id="hidden_989" value="989">Heartgard</option>
 <option id="hidden_1028" value="1028">Hectorol</option>
 <option id="hidden_820" value="820">Helixate</option>
 <option id="hidden_522" value="522">Hepsera</option>
@@ -2148,11 +2261,11 @@ function updateConditionDisplay() {
 <option id="hidden_824" value="824">NeoBenz</option>
 <option id="hidden_393" value="393">Neoral</option>
 <option id="hidden_349" value="349">NeoRecormon</option>
-<option id="hidden_842" value="842">Neosporin</option>
-<option id="hidden_840" value="840">Neosporin</option>
 <option id="hidden_838" value="838">Neosporin</option>
 <option id="hidden_839" value="839">Neosporin</option>
+<option id="hidden_840" value="840">Neosporin</option>
 <option id="hidden_841" value="841">Neosporin</option>
+<option id="hidden_842" value="842">Neosporin</option>
 <option id="hidden_741" value="741">Neuart</option>
 <option id="hidden_468" value="468">Neurontin</option>
 <option id="hidden_890" value="890">Neutrogena</option>
@@ -2437,8 +2550,8 @@ function updateConditionDisplay() {
 <option id="hidden_961" value="961">Vivelle Dot</option>
 <option id="hidden_973" value="973">Vivitrol</option>
 <option id="hidden_415" value="415">Voltaren</option>
-<option id="hidden_936" value="936">Vusion</option>
 <option id="hidden_794" value="794">Vusion</option>
+<option id="hidden_936" value="936">Vusion</option>
 <option id="hidden_23" value="23">Vytorin</option>
 <option id="hidden_880" value="880">Vyvance</option>
 <option id="hidden_696" value="696">Vyvanse</option>
