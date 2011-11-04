@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articleinside.com privacy policy that was archived on 2011-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110209174118id_/http%3A//articleinside.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articleinside.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104012409id_/http%3A//articleinside.com/privacy.php) for the most accurate reproduction.*
 
 # Article Directory | Submit Articles | Free Articles Content
 
