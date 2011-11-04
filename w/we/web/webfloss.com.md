@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the webfloss.com privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521055256id_/http%3A//webfloss.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfloss.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104145843id_/http%3A//webfloss.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — High Class Living on a Middle Class Budget
-
-_Welcome! To get the latest deals from Webfloss.com you can subscribe to the[Daily Email Digest](http://feedburner.google.com/fb/a/mailverify?uri=HighClassLivingOnAMiddleClassBudget), fan me on [Facebook](http://networkedblogs.com/blog/webfloss), or Follow on Twitter [@webfloss](http://twitter.com/webfloss). Thanks for visiting!_
+# Privacy Policy
 
   
 **Privacy Policy**
