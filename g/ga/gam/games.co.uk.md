@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2010-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101025212925id_/http%3A//www.games.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the games.co.uk privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105004940id_/http%3A//www.games.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - Play Free Online Games at Games.co.uk
 
@@ -80,7 +80,7 @@ The information our Websites collect includes the following:
 
 ## 7\. Children
 
-7.1 Users under the age of 16 will be notified not to submit any personal data without the consent of their parent or legal guardian.
+7.1 Users under the age of 8 are not allowed to register.
 
 ## 8\. Miscellaneous
 
