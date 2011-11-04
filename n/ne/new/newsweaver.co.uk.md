@@ -1,72 +1,104 @@
-> *The following text is extracted and transformed from the newsweaver.co.uk privacy policy that was archived on 2010-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100921223453id_/http%3A//www.newsweaver.co.uk/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsweaver.co.uk privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104143313id_/http%3A//www.newsweaver.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Newsweaver - Privacy Policy
+# Newsweaver Privacy Policy
 
-[Home](https://web.archive.org/) > Privacy Policy
+We take the privacy of visitors to our website seriously and have set out in this policy document how we collect, use and disclose personally identifiable information provided via this website. By visiting the Newsweaver website you are accepting the terms of this privacy policy, so we encourage you to read this entire privacy policy before using or submitting information to this site.
 
-Introduction  
-We at Newsweaver respect your right to privacy and comply with our obligations under the Data Protection Act 1998. The purpose of this website Privacy Statement is to outline how we deal with any personal data you provide to us while visiting this website. Naturally, if you are not happy with the content of this Privacy Statement you should not use this website. By visiting the Newsweaver website, you are accepting the terms of this Privacy Statement. Any external links to other website are clearly identifiable as such, and we are not responsible for the content or the privacy policies of these other website. 
+##  Contents
 
-Types of Information Collected
+  * Data Collection
+  * Data Storage, Sharing & Security
+  * Personal Data Access
+  * Business Sale or Bankruptcy
+  * Changes to this Privacy Policy
+  * Contact Details
 
-We retain two types of information:
 
-\- Personal Data
 
-This is data that identifies you or can be used to identify or contact you and may include your name, company name, job title, address, email address, user IP addresses in circumstances where they have not been deleted, clipped or anonymised, telephone number, and billing and credit card information. Such information is only collected from you if you voluntarily submit it to us.
+##  Data collection
 
-\- Non-Personal Data
+**Browse the Website**
 
-Like most websites, we gather statistical and other analytical information collected on an aggregate basis of all visitors to our web site. This non-personal data comprises information that cannot be used to identify or contact you, such as demographic information regarding, for example, user IP addresses where they have been clipped or anonymised, browser types and other anonymous statistical data involving the use of our website.
+As an anonymous visitor to our website we collect no personally identifiable information about you. We use Google Analytics to collect an anonymous record of your site page views and to recognise return visits (also anonymously) using a unique cookie that Google Analytics stores in your browser.
 
-Purposes for which we hold your Information
+We use the collected page view information to understand how visitors use the website and to help us improve access to its information and functionality.
 
-\- Non-Personal Data
+**Submitted website requests for example, Book a live demo and Contact us Forms**
 
-We use the non-personal data gathered from visitors to our website in an aggregate form to get a better understanding of where our visitors come from and to help us better design and organise our website.
+If you submit your details on the demo booking form, our contact us form or any other similar form we may implement in the future, we will save your personal details in our CRM (customer relationship management) database.
 
-\- Cookies
+We also record our best estimate of where you came from before you visited the Newsweaver website e.g. a Google advertisement, a search listing, or an external link to our site.
 
-This website uses "cookie" technology. A cookie is a little piece of text stored by the browser on your computer, at the request of our server. We may use cookies to deliver content specific to your interests and to save your personal preferences so you do not have to re-enter them each time you connect to our website - our cookies are not available to other websites. Cookies are required on the Newsweaver website to allow users to access the client login area. No personal information is recorded, and the cookie is automatically deleted when you log out or close your browser. You are always free to decline our cookies, if your browser permits, or to ask your browser to indicate when a cookie is being sent. You can also delete cookie files from your computer at your discretion. Note that if you decline our cookies or ask for notification each time a cookie is being sent, this may affect your ease of use of this web site.
+Your information will be used by our sales or support people to make contact regarding your request for a demo, or other inquiry. We may use your information to contact you again in the future, if we believe we have an offer that may be relevant to you. We may also analyse collected contact information in aggregate form to better inform our future marketing efforts. We record your origin to allow us analyse the effectiveness of our marketing and search engine optimisation efforts.
 
-\- Personal Data
+**Register for a Free Trial**
 
-We will process any Personal Data you provide to us for the following purposes:  
-a) to provide you with the goods or services you have ordered or requested;  
-b) to contact you in connection with your order or to respond to any communications you might send to us;  
-c) to contact you in connection with new products and services from Newsweaver;  
-d) to provide you with, and contact you in connection with, a free trial or demonstration of the Newsweaver service;  
-e) to send you the Business of Email newsletter and to communicate with you about surveys, marketing, promotions, notification of events, workshops and training sessions run by Newsweaver. 
+When you sign up for a free trial of the Newsweaver system, we save your personal contact details in our CRM system. We ask you to choose a password and we then record an encrypted copy of this. We do not know your password, and it is entirely your responsibility to keep it secret and ensure that your account is accessed only by authorized individuals.
 
-Processing personal data for the above purposes may entail sharing the information with employees, contractors, agents and professional advisors of Newsweaver.
+We also record our best estimate of where you came from before you visited the Newsweaver website for marketing purpose e.g. a Google advertisement, a search listing or an external link to our site.
 
-Please note all credit card or other payment information is transmitted using SSL encryption. All payment information details, including credit card numbers and bank details, are permanently deleted from our servers when the payment has been processed.
+Our Sales or CRM people will use your contact details to get in touch with you to discuss your email marketing or publishing requirements, and to ensure that you get full benefit from a system trial. We may use your information to contact you again in the future, if we believe that we have an offer that may be relevant to you. We may also analyse collected contact information in aggregate form to better inform our future marketing efforts. We record your origin to allow us analyse the effectiveness of our marketing and search engine optimisation efforts.
 
-Disclosure of Information to Third Parties  
-We may provide non-personal data to third parties, where such information is combined with similar information of other users of our website. For example, we might inform third parties regarding the number of unique users who visit our website, the demographic breakdown of our community users of our website, or the activities that visitors to our website engage in while on our website. The third parties to whom we may provide this information may include potential or actual advertisers, providers of advertising services (including website tracking services), commercial partners, sponsors, licensees, researchers and other similar parties. 
+**Subscribe to newsletters and flyers such as Business of Email**
 
-We will not disclose your personal data to third parties unless you have consented to this disclosure or unless the third party is required to fulfil your order or to handle marketing or promotional communications on our behalf (in such circumstances, the third party is bound by similar data protection requirements). We will disclose your personal data if we believe in good faith that we are required to disclose it in order to comply with any applicable law, a summons, a search warrant, a court or regulatory order, or other statutory requirement.
+When you subscribe to our email newsletter, the Business of Email, we record and save your email address, whether you are a customer or prospect and your format preference. This data is used only to enable us to send you a bimonthly issue of the newsletter in your preferred format.
 
-Sale of Business  
-We reserve the right to transfer information (including your personal data) to a third party in the event of a sale, merger, liquidation, receivership or transfer of all or substantially all of the assets of Newsweaver provided that the third party agrees to adhere to the terms of this Privacy Statement and provided that the third party only uses your personal data for the purposes that you provided it to us. You will be notified in the event of any such transfer and you will be afforded an opportunity to opt-out. 
+If you receive the HTML formatted version of the newsletter and your email client is configured to download images, we will be notified each time you open the email, and this information will be saved with your subscriber record. We also record your clicks on links in the newsletter and in the companion website with your subscriber record.
 
-Security  
-The nature of the Internet is such that we cannot guarantee or warrant the security of any information you transmit to us via the Internet. No data transmission over the Internet can be guaranteed to be 100% secure. However, we will take all reasonable steps (including appropriate technical and organisational measures) to protect your personal data. 
+Issues of the newsletter may carry a survey. If you respond to a survey, your answers are saved with your subscriber record and are used to prevent multiple entries by any individual.
 
-Access to accounts is restricted through a username and password authentication system and security is enforced through detailed logging and intrusion prevention.
+We use the stored open, click and survey information in aggregated form to give us an indication of the popularity of the content and to help us make decisions about future content and formatting. We may also use the information to publish more relevant content to individual newsletter readers in future issues.   
+You may stop receiving our newsletters at any time by using the Unsubscribe link included in every issue sent.
 
-This site also has security measures in place to protect the loss, misuse and alteration of the information under our control. Customer accounts are password-protected so that only the customer has access to his/her personal information. Subscriber lists are kept separate and private and are never shared with other customers, our partners, or advertisers of any sort. Any information that is imported or entered by the customer remains the property of the customer.
+**Use of the Newsweaver System**
 
-In addition we can provide IP and domain filtering to both the authoring environment and the published newsletter.
+When you begin to use a trial account, you may upload data to the Newsweaver application in the form of subscriber lists and newsletter content to be published to your subscribers. All this data remains entirely yours and is only stored and processed by Newsweaver for the purposes of providing a newsletter publishing service to you. Note that the data lists and content you upload are subject to our Anti-spam and Terms of Use policies respectively.
 
-Updating, Verifying and Deleting Personal Data  
-You also have a right to have your personal data corrected, if inaccurate, or, in certain circumstances, erased. Please forward any such requests in writing by email to [support@newsweaver.co.uk](mailto:support@newsweaver.co.uk)
+If you wish to become a paying client of Newsweaver, we will request sufficient additional contact and other information such as billing details from you to allow us provide a contract-based service to you. This information will be used solely to enable the provision of our email newsletter publishing service to you.
 
-Right of Access to Your Personal Data  
-To find out what personal data we hold on you or to have your personal data updated, amended or removed from our database, please contact [support@newsweaver.co.uk](mailto:support@newsweaver.co.uk). Any such data subject requests may be subject to the prescribed fee.
+When you use the Newsweaver system, we record a log of all significant actions taken by you while logged in, together with related information such as browser and OS type, and IP address. We use this information to estimate system load, and to plan for system expansion and browser support. The information would also be used to allow us investigate incidents such as those involving compromised login credentials.
 
-Changes to the Privacy Statement   
-Any changes to this Privacy Statement will be posted on this website so you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any time we decide to use personal data in a manner significantly different from that stated in this website, Privacy Statement, or otherwise disclosed to you at the time it was collected, we will notify you by email, and you will have a choice as to whether or not we use your information in the new manner. 
+##  Data Storage, Sharing & Security
 
-Questions or Comments  
-If you wish to contact us to discuss any matter in relation to this Privacy Statement or our processing of your personal data, please feel free to contact us by email at [support@newsweaver.co.uk](mailto:support@newsweaver.co.uk)
+Customer data in the form of subscriber lists and newsletter content, and other application data relating to the newsletter publishing service, are securely stored in our application servers and will never be shared with third parties, except where we are required to do so by law.
+
+We employ industry-accepted levels of security on all data storage and transmission, but we cannot guarantee absolute security, as no online system can be proven 100% secure.
+
+Your contact, billing and other details will never be shared or stored with third parties, except where we are legally obliged to do so, or where we make use of an external service to operate some aspect of our business, such as credit card processing, or CRM. In such instances, the storage of your data on third party systems will be solely for the purpose of operating our business to provide you with the contracted service, and never for the direct benefit of the third party, who will never have any other right of use to your data.
+
+Where we make use of an external service in this way, we will require the same commitment to the security of your data as we ourselves implement.
+
+We retain personal data only as long as required to fulfill the purpose for which it was collected as outlined in this policy, or as long as we are legally obliged to do so.
+
+##  Personal Data Access
+
+You may request a copy of any personal data we hold about you by using the contact details at the end of this policy. You may request that any incorrect data be amended, or alter your communications preferences at any time.
+
+##  Business Sale or Bankruptcy
+
+Your contact data is an asset of our business. If Newsweaver were to be acquired, or in the unlikely event of its going out of business, ownership of your data would transfer to a third party. Your data would remain subject to the terms as set out in our privacy policy at the time of the transaction, until such time as you were notified of any change by the new owner. Your rights to access or to have your data corrected would be unaffected.
+
+##  Data Protection
+
+Newsweaver is registered with the Information Commissioner's Office in the UK and the Data Protection Commissioner in Ireland.
+
+##  Changes to this Privacy Policy
+
+We reserve the right to make changes to this privacy policy. Changes will be posted on this website thirty days prior to such changes becoming effective. Where we propose to make changes to how we collect, use or disclose personal data that could reduce the privacy of its owner in any way, we will notify by email all persons potentially affected, with an opportunity to opt out of such use.
+
+Any concerns regarding proposed changes to this privacy policy should be emailed to [privacy@newsweaver.com](mailto:privacy@newsweaver.com)
+
+##  Contact Details
+
+If you have any queries about this privacy policy, please contact us at [privacy@newsweaver.com](mailto:privacy@newsweaver.com)
+
+or write to:  
+Data Protection Officer  
+Newsweaver  
+2200 Airport Business Park  
+Cork  
+Ireland  
+Tel: +353-21-242-7277  
+Fax: +353-21-458-0462
+
+Effective date: August/2011
