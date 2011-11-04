@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the getpincode.info privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623185834id_/http%3A//www.getpincode.info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpincode.info privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104222914id_/http%3A//www.getpincode.info/privacy.html) for the most accurate reproduction.*
 
-# 
+# GetPincode privacy
 
-### Privacy Policy
+#### Privacy Policy
 
 It is Getpincode's policy to respect your privacy regarding any information we may collect while operating our website. 
 
