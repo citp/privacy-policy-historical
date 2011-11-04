@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604122142id_/http%3A//www.asco.org/ASCOv2/About%2BASCO/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asco.org privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104172816id_/http%3A//www.asco.org/ASCOv2/About%2BASCO/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - ASCO
 
@@ -52,7 +52,7 @@ We hope that reading this Privacy Policy gives you a clear idea of how we manage
 
 **2\. Certain General Principles, Terms, and Disclaimers**
 
-**This Privacy Policy applies to the ASCO website ([www.asco.org](http://www.asco.org/)), together with all other websites operated by ASCO, including without limitation the Cancer.Net website ([www.cancer.net](http://www.cancer.net/portal/site/patient/)), The** [**Journal of Clinical Oncology**](http://www.jco.org/) **website ([www.jco.org](http://www.jco.org/)), The [Journal of Oncology Practice](http://www.jopasco.org/) website ([www.jopasco.org](http://www.jopasco.org/)), the Oncology Career Center website ([www.careers.jco.org](http://www.careers.jco.org/)), the ASCO Connection website ([www.connection.asco.org](http://connection.asco.org/)) and the Oncology Product Locator website ([http://opl.asco.org](http://opl.asco.org/)) (collectively, the “Website”).  
+**This Privacy Policy applies to the ASCO website ([www.asco.org](http://www.asco.org/)), together with all other websites operated by ASCO, including without limitation the Cancer.Net website ([www.cancer.net](http://www.cancer.net/portal/site/patient/)), The** [**Journal of Clinical Oncology**](http://www.jco.org/) **website ([www.jco.org](http://www.jco.org/)), The [Journal of Oncology Practice](http://www.jopasco.org/) website ([www.jopasco.org](http://www.jopasco.org/)), the Oncology Career Center website ([www.careers.jco.org](http://www.careers.jco.org/)), the ASCO Connection website ([www.connection.asco.org](http://connection.asco.org/)) and the Oncology Product Locator website (http://opl.asco.org) (collectively, the “Website”).  
 **  
 **_This Privacy Policy does not supersede the[Terms of Condition for Use](https://web.archive.org/vgn-ext-templating/v/index.jsp?vgnextoid=3e8a8d4244f68010VgnVCM100000ed730ad1RCRD&cpsextcurrchannel=1) that governs your use of the Website. Any conflict between the two shall be determined in favor of the Terms of Use. ASCO may change this Privacy Policy at any time and any changes will be effective immediately upon posting to this Site, so please check back regularly to ensure you read and understand our current privacy policies._**
 
