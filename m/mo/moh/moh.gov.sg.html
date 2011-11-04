@@ -1,0 +1,697 @@
+<!--The following is the downloaded HTML source of the moh.gov.sg privacy policy that was archived on 2011-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111104062938id_/http%3A//www.moh.gov.sg/content/moh_web/home/privacy_statement.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    
+    
+
+<title>Privacy Statement | Ministry of Health</title>
+
+
+
+
+
+    
+
+
+
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+<script type="text/javascript">
+    var cookie_isMobile = "MOH_Web_Mobile";
+    var isMobile = isMobileDevice();
+    var full_flag = getClientDevice("MOH_Corp_Full").value;
+    var text_flag = getClientDevice("MOH_Corp_Text").value;
+
+    //Check Mobile
+    function isMobileDevice () {
+        var isMobileDevice ;
+        isMobileDevice = getClientDevice(cookie_isMobile).value;
+        if (null == isMobileDevice) {
+            isMobileDevice = 'false';
+            var currentUserAgent = navigator.userAgent.toLowerCase();
+            var mobileKeyWords = new Array ("cldc","symbian","midp","j2me","mobile","wireless",
+                    "palm","phone","pocket pc","pocketpc","netfront","bolt","iris","brew","openwave",
+                    "windows ce","wap2","android","opera mini","opera mobi","maemo,fennec","blazer","160x160","tablet",
+                    "webos","sony","nintendo","480x640","aspen simulator","up.browser","up.link","embider","danger hiptop",
+                    "obigo","foma") ;
+        
+            for (var i = 0; i< mobileKeyWords.length;i++) {
+                if (currentUserAgent.indexOf(mobileKeyWords[i]) != -1 ) {
+                    isMobileDevice = 'true';
+                    break;
+                }
+            }
+            document.cookie = cookie_isMobile+"="+isMobileDevice+"; path=/content/moh_web/;";
+        }
+        return isMobileDevice;
+    }
+    //get cookie value
+    function getClientDevice(inputParameter){
+        var cookieObj = new Object();
+        var cookies = document.cookie;
+        var cookieReg = new RegExp(inputParameter+".*?;");
+        var usefulCookie = cookieReg.exec(cookies); 
+        try{ 
+        if (null != usefulCookie) { 
+        var cookie_mobile = usefulCookie[0].substring(0,usefulCookie[0].indexOf(';'));  
+        
+        cookieObj.value = cookie_mobile.split('=')[1];
+        }else {
+            cookieObj.value = null; 
+            }
+        cookieObj.name = inputParameter;
+        }catch(error) {
+            alert(error);
+            cookieObj.name = inputParameter;
+            cookieObj.value = null; 
+        }
+        return cookieObj;
+    }
+
+    renderHeadStyle();
+    
+    function renderHeadStyle() {
+        var headeElement = document.getElementsByTagName("head")[0];
+        try {
+           if (isMobile == 'true') {
+               if (text_flag == 'true') {
+                   headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/moh_corp_mobile/css/small-device.css', "all"));
+               } else {
+                   headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/all.css', "all"));
+                   headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/iconize.css', "all"));
+                   headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/jquery-ui.css', "screen"));
+                   headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/epoll.css', "screen"));
+                   headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/eConsultation.css', "all"));
+                   headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/table-display.css', "screen"));
+               }
+           } else {
+               headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/all.css', "screen"));
+               headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/iconize.css', "screen"));
+               headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/jquery-ui.css', "screen"));
+               headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/epoll.css', "screen"));
+               headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/eConsultation.css', "screen"));
+               headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/table-display.css', "screen"));
+               headeElement.appendChild(createCSSElement('http://www.moh.gov.sg/etc/designs/moh_web/css/print.css', "print"));
+           }
+       } catch(error) {
+           alert(error);
+       }
+   }
+    
+    function createCSSElement(href_url, media_type) {
+        var link_tag = document.createElement('link');
+        link_tag.rel = "stylesheet";
+        link_tag.type = "text/css";
+        link_tag.href = href_url;
+        link_tag.media = media_type;
+        return link_tag;
+    }
+</script><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/all.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/iconize.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/jquery-ui.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/epoll.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/eConsultation.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/table-display.css" media="screen"><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/print.css" media="print">
+
+
+    <link href="http://fonts.googleapis.com/css?family=Nobile:regular,bold" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Just+Another+Hand" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Josefin+Sans:600,700" rel="stylesheet" type="text/css">
+
+
+<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://www.moh.gov.sg/etc/designs/moh_web/css/ie.css" media="screen"/><![endif]--> 
+<!--[if lt IE 7]><script src="http://www.moh.gov.sg/etc/designs/moh_web/js/lt7.js" type="text/javascript"></script><![endif]--> 
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/jquery.min.js" type="text/javascript"></script> 
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/jquery-ui.min.js" type="text/javascript"></script> 
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/topics.js" type="text/javascript"></script> 
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/epoll.js" type="text/javascript"></script>
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/linkSet.js" type="text/javascript"></script> 
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/photoFlash.js" type="text/javascript"></script> 
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/jquery.cookie.js" type="text/javascript"></script> 
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/font-controller.js" type="text/javascript"></script>
+<script src="http://www.moh.gov.sg/etc/designs/moh_web/js/main.js" type="text/javascript"></script> 
+<script type="text/javascript" src="http://www.moh.gov.sg/etc/designs/moh_web/js/common.js" language="javascript"></script>
+<script type="text/javascript" src="http://www.moh.gov.sg/etc/designs/moh_web/js/regularExpression.js" language="javascript"></script>
+<script type="text/javascript" src="http://www.moh.gov.sg/etc/designs/moh_web/js/validation.js" language="javascript"></script>
+<script type="text/javascript" src="http://www.moh.gov.sg/etc/designs/moh_web/js/SGMSDecentralised.js" language="javascript"></script>
+
+<meta property="fb:app_id" content="270894132923300"> 
+
+           
+<meta property="og:title" content="postcomment">
+<meta property="og:type" content="Article">
+
+<!-- Share This plugin -->
+    <script type="text/javascript">
+        var switchTo5x=false;
+    </script>
+
+    <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
+
+    <script type="text/javascript">
+    if(typeof(stLight)!="undefined"){
+        stLight.options({
+            publisher:'a14de725-ce43-42d0-a4c9-6e21ccc55e01'
+            });
+    }
+    </script>
+    <!-- Share This plugin -->
+</head>
+    
+<body class="page single-page organisation-vision about-us">
+<div id="wrapper">
+    <div class="parsys header_reference iparsys"><div class="iparys_inherited"><div class="parsys header_reference iparsys"></div>
+</div><div class="section"><div class="parbase reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="subpageheader_c690 subPageHeader parbase">
+
+
+
+<div class="search-box clearfix">
+    <div class="parsys commonSearch"><div class="sggov section">
+
+
+
+ 
+
+      <div class="l"></div>
+      <div class="c">
+        <div class="txt-size"> 
+          <strong>Text <span>Size</span></strong> 
+          <a id="large" href="javascript:void(0);" class="largeFont increase">Increase</a> 
+          <a id="small" href="javascript:void(0);" class="smallFont decrease">Decrease</a> 
+        </div> 
+        <a class="singov" href="javascript:void(0);">Singapore Government</a>
+        <ul class="nav">
+          <li><a href="http://www.moh.gov.sg/content/moh_web/home/contacts_and_links.html">Contacts and Links</a></li>
+          <li><a href="http://www.pqms.moh.gov.sg/apps/forum_webMain.aspx">Feedback</a></li>
+          <li><a href="#siteMap_forSearch">Sitemap</a></li>
+        </ul>
+        <form method="GET" target="_blank" name="SearchPlugInfrm" id="SearchPlugInfrm" action="http://sgms.internet.gov.sg/search">
+          <fieldset>
+            <legend class="visuallyhidden"><label for="TextBoxSearch">Search this site</label></legend>
+            <input id="TextBoxSearch" name="TextBoxSearch" onkeyup="javascript:copydata(this.value);" onkeypress="javascript:submitSearchWithEnter(event);" class="text" type="text" title="Search this site" value="Search this site">
+            <input class="submit" type="button" onclick="submitSearch2();" value="Go">
+            
+            <label for="id_sggov_site" class="displayNone">id_sggov_site</label>            
+            <select id="id_sggov_site" name="site">
+                <option value="moh">Search Within MOH Website
+                </option><option value="default">Within All Government Websites
+                </option><option value="within_biz">Within Business
+                </option><option value="within_cit_res">Within Citizens And Residents
+                </option><option value="within_non_res">Within Non-Residents
+                </option>
+            </select>
+
+          </fieldset>
+          <script language="javascript" type="text/javascript">ShowResults()</script>
+
+        </form>
+
+      </div></div>
+</div>
+
+</div>
+        
+<div id="header"> 
+    <h1 class="logo hidetxt"><a href="http://www.moh.gov.sg/content/moh_web/home.html" title="Ministry of Health Singapore">Ministry of Health Singapore</a></h1> 
+    <div id="nav" role="navigation">
+        <div class="visuallyhidden" id="access"><a title="Search" href="#footer">Search</a> | <a title="Skip to content" href="#content">Skip to content</a> | <a title="Skip to footer site map" href="#footer">Skip to footer site map</a>
+        </div>
+        <div class="parbase topMenu">
+
+
+
+
+
+
+
+<div>
+    <ul>
+    <li><a href="http://www.moh.gov.sg/content/moh_web/home.html" title="Home">Home</a></li>
+<li><a href="http://www.moh.gov.sg/content/moh_web/home/about-us.html" title="About Us">About Us</a></li>
+<li><a href="http://www.moh.gov.sg/content/moh_web/home/Careers.html" title="Careers">Careers</a></li>
+<li><a href="http://www.moh.gov.sg/content/moh_web/home/pressRoom.html" title="Press Room">Press Room</a></li>
+<li><a href="javascript:void(0);" class="open dropdownList" title="Research">Research</a><ul class="subNav" style="zoom:1;"> <li><a href="http://www.moh.gov.sg/content/moh_web/home/Publications.html" title="Publications">Publications</a></li><li><a href="http://www.moh.gov.sg/content/moh_web/home/statistics.html" title="Statistics">Statistics</a></li><li><a href="http://www.moh.gov.sg/content/moh_web/home/legislation.html" title="Legislation">Legislation</a></li><li><a href="http://www.moh.gov.sg/content/moh_web/home/Fundings_and_Medical_Research.html" title="Funding &amp; Health Research">Funding &amp; Health Research</a></li></ul>
+</li><li><a href="http://www.moh.gov.sg/content/moh_web/home/form.html" title="Forms">Forms</a></li>
+<li><a href="http://www.pqms.moh.gov.sg/apps/fcd_faqmain.aspx" title="FAQs">FAQs</a></li>
+<li class="last"><a href="javascript:void(0);" class="open dropdownList" title="Healthcare Partners">Healthcare Partners</a><ul class="subNav" style="zoom:1;"> <li><a href="http://www.hpp.moh.gov.sg/HPP/HPP_Home.html" title="Health Professionals">Health Professionals</a></li></ul>
+
+    </li></ul>
+</div>
+</div>
+
+    </div>
+    <div class="parbase titleImage">
+
+
+
+
+<div class="head-visual" style="background:url('http://www.moh.gov.sg/content/moh_web/reference/content_header/jcr:content/headerComp/subpageheader_c690/titleImage.img.jpg/1316846014643.jpg') no-repeat;height:160px;">
+    <div class="main-nav">
+        <ul>
+            <li><div class="sideMenuItem parbase sideMenuItem1">
+
+
+
+
+<a style="height:42px;padding-left:8px;" title="Our Healthcare System" href="http://www.moh.gov.sg/content/moh_web/home/our_healthcare_system.html">
+<span style="background:url('http://www.moh.gov.sg/content/moh_web/reference/content_header/jcr:content/headerComp/subpageheader_c690/titleImage/sideMenuItem1.img.jpg/1316681956418.jpg') no-repeat;padding:0 5px 0 38px;background-position:0 1px;height:42px;">Our Healthcare System</span>
+</a>
+</div>
+</li>
+            <li><div class="sideMenuItem parbase sideMenuItem2">
+
+
+
+
+<a style="height:42px;padding-left:8px;" title="Policies and Issues" href="http://www.moh.gov.sg/content/moh_web/home/policies-and-issues.html">
+<span style="background:url('http://www.moh.gov.sg/content/moh_web/reference/content_header/jcr:content/headerComp/subpageheader_c690/titleImage/sideMenuItem2.img.jpg/1316681963754.jpg') no-repeat;padding:0 5px 0 38px;background-position:0 1px;height:42px;">Policies and Issues</span>
+</a>
+</div>
+</li>
+            <li><div class="sideMenuItem parbase sideMenuItem3">
+
+
+
+
+<a style="height:42px;padding-left:8px;" title="Costs and Financing" href="http://www.moh.gov.sg/content/moh_web/home/costs_and_financing.html">
+<span style="background:url('http://www.moh.gov.sg/content/moh_web/reference/content_header/jcr:content/headerComp/subpageheader_c690/titleImage/sideMenuItem3.img.jpg/1316681932014.jpg') no-repeat;padding:0 5px 0 38px;background-position:0 1px;height:42px;">Costs and Financing</span>
+</a>
+</div>
+</li>
+            <li><div class="sideMenuItem parbase sideMenuItem4">
+
+
+
+
+<a style="height:42px;padding-left:8px;" title="Diseases and Conditions" href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions.html">
+<span style="background:url('http://www.moh.gov.sg/content/moh_web/reference/content_header/jcr:content/headerComp/subpageheader_c690/titleImage/sideMenuItem4.img.jpg/1316681962120.jpg') no-repeat;padding:0 5px 0 38px;background-position:0 1px;height:42px;">Diseases and Conditions</span>
+</a>
+</div>
+</li>
+            <li><div class="sideMenuItem parbase sideMenuItem5">
+
+
+
+
+<a style="height:42px;padding-left:8px;" title="Medical Directory" href="http://mservices.moh.gov.sg/eservices/">
+<span style="background:url('http://www.moh.gov.sg/content/moh_web/reference/content_header/jcr:content/headerComp/subpageheader_c690/titleImage/sideMenuItem5.img.jpg/1316681961907.jpg') no-repeat;padding:0 5px 0 38px;background-position:0 1px;height:42px;">Medical Directory</span>
+</a>
+</div>
+</li>
+        </ul>
+    </div>
+</div>
+    
+    </div>
+ 
+</div></div>
+</div></div>
+</div><div class="section"><div class="new"></div>
+</div>
+</div>
+
+    <div id="main" class="">
+        <div id="main-holder" class="clearfix">
+            <div id="content" role="main">
+                <div class="breadCrumb breadcrumb">
+
+    <ul class="breadcrumbs">
+    
+
+        <li><a href="/content/moh_web/home.html" title="Home">Home</a></li>
+
+        <li class="titleforText">Privacy Statement</li>
+    </ul></div>
+
+                <div class="content parsys"><div class="text parbase section">
+
+<div class="text" style="border: 0px"><p><strong>Privacy Statement<br>
+<br></strong>&nbsp; <br>
+<br>1. This is a Government of Singapore website. Thank you for examining our privacy statement.</p>
+<p>2. If you are only browsing this website, we do not capture data that allows us to identify you individually.</p>
+<p>3. The Ministry of Health receives or collects personal data for the purpose of planning and administering public health policies. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation.</p>
+<p>4. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.</p>
+<p>5. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you. Please contact our Quality Service Manager to get access to or update your personal data that you have supplied to us previously.</p>
+<p>6. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.</p>
+<p>7. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.</p>
+<p>8. If you have any questions or concerns about this data protection and privacy policy, please contact <br>
+<br></p>
+<p style="margin-left: 40px;">Quality Service Manager<br>
+<br>Ministry of Health</p>
+<p style="margin-left: 40px;">College of Medicine Building<br>
+<br>16 College Road Singapore 169854<br>
+<br>Tel: 1800-225 4122<br>
+<br>Fax: 62241677<br>
+<br>Email: <a href="mailto:MOH_INFO@moh.gov.sg">MOH_INFO@moh.gov.sg</a></p>
+<p>&nbsp;&nbsp; You should expect a reply within 3 to 7 working days of us receiving your feedback. <br>
+<br></p>
+<p>&nbsp;</p>
+</div>
+
+</div>
+</div>
+
+
+            </div>
+            <div id="sidebar" class="clearfix" role="complementary">
+                <div id="widget-page-title" class="aside">
+                    <div class="pageTitle">
+<div class="frame">
+    <div class="holder">
+        
+        <h1>Privacy Statement</h1>
+        <h2 class="visuallyhidden hidden">heading</h2>
+        <h3 class="visuallyhidden hidden">heading</h3>
+        <h4 class="visuallyhidden hidden">heading</h4>
+        <h5 class="visuallyhidden hidden">heading</h5>
+    </div> 
+</div> 
+</div>
+
+                </div>
+                <div class="parsys iparsys lSide"><div class="iparys_inherited"><div class="parsys iparsys lSide"></div>
+</div><div class="section"><div class="new"></div>
+</div>
+</div>
+
+            </div>
+        </div>
+    </div>
+    <div class="parsys iparsys footer_reference"><div class="iparys_inherited"><div class="parsys iparsys footer_reference"><div class="section"><div class="parbase reference"><div style="display:inline;" class="cq-dd-paragraph"><div class="footer parbase">
+<div id="footer"> 
+    <div class="t"> 
+        <div class="parbase intermediateFooter">
+
+
+
+
+<a title="Health Professionals »" href="http://www.hpp.moh.gov.sg/HPP/HPP_Home.html" class="more">Health Professionals »</a>
+    <a class="logo2"><img src="http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/intermediateFooter.img.png/1319782608085.png" width="167" height="46" alt="Ministry of Health Singapore" id="aeaoofnhgocdbnbeljkmbjdmhbcokfdb-mousedown"></a>
+    
+<ul>
+      <li><a title="Contacts and Links" href="http://www.moh.gov.sg/content/moh_web/home/about-us/contacts_and_links0.html">Contacts and Links</a></li>
+      <li><a title="Feedback" href="http://www.pqms.moh.gov.sg/apps/forum_webMain.aspx">Feedback</a></li>
+    </ul></div>
+ 
+    </div> 
+    <a name="siteMap_forSearch" id="siteMap_forSearch"></a>      
+    
+    <div class="c clearfix"> 
+        <p><a name="siteMap_forSearch"></a><br>
+        </p><div class="section_x sitemap">
+            <div class="nav"> 
+                <div class="column">
+                    <div class="parsys leftSitemap"><div class="sitemap parbase section">
+
+
+
+
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <h3 style="background:url('http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/leftSitemap/sitemap.img.jpg/1314864707915.jpg') no-repeat;"><a title="About MOH" href="http://www.moh.gov.sg/content/moh_web/home/about-us.html">About MOH</a></h3>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <ul><li><a href="http://www.moh.gov.sg/content/moh_web/home/Careers.html">Careers</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/pressRoom.html">Press Room</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/Publications.html">Publications</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/statistics.html">Statistics</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/legislation.html">Legislation</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/Fundings_and_Medical_Research.html">Funding &amp; Health Research</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/form.html">Forms</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="javascript:void(0);">FAQs</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="javascript:void(0);">eServices</a></li></ul></div>
+<div class="sitemap parbase section">
+
+
+
+
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <h3 style="background:url('http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/leftSitemap/sitemap_0.img.jpg/1304831839279.jpg') no-repeat;"><a title="Costs &amp; Financing" href="http://www.moh.gov.sg/content/moh_web/home/costs_and_financing.html">Costs &amp; Financing</a></h3>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <ul><li>Financing Guides</li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/costs_and_financing/schemes_subisdies.html">Schemes &amp; Subsidies</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="javascript:void(0);">Case Studies</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/costs_and_financing/HospitalBillSize.html">Hospital Bill Sizes</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li>Hospitalisation</li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/costs_and_financing/Dental_Fee_Info.html">Dental Fees</a></li></ul></div>
+<div class="sitemap parbase section">
+
+
+
+
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <h3 style="background:url('http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/leftSitemap/sitemap_1.img.jpg/1308772039814.jpg') no-repeat;"><a title="Diseases &amp; Conditions" href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions.html">Diseases &amp; Conditions</a></h3>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <ul><li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/a/avian_influenza.html">Avian Influenza</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/d/dengue.html">Dengue</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/i/influenza/InfluenzaPandemicResponse.html">Flupandemic</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/h/hand_foot_mouth_disease.html">Hand, Foot &amp; Mouth Disease</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/h/hiv_aids.html">HIV &amp; AIDS</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/i/influenza_a_h1n1.html">Influenza A (H1N1)</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/i/influenza.html">Influenza</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/n/norovirus_gastroenteritisgastricflu.html">Norovirus Gastroenteritis</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li>Obesity</li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/diseases_and_conditions/s/sars.html">SARS</a></li></ul></div>
+</div>
+
+                </div> 
+        
+                <div class="column">
+                    <div class="parsys rightSiteMap"><div class="sitemap parbase section">
+
+
+
+
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <h3 style="background:url('http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/rightSiteMap/sitemap_fc7.img.jpg/1316139887087.jpg') no-repeat;"><a title="Our Healthcare System" href="http://www.moh.gov.sg/content/moh_web/home/our_healthcare_system.html">Our Healthcare System</a></h3>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <ul><li><a href="http://www.moh.gov.sg/content/moh_web/home/our_healthcare_system/OverviewofOurHealthcareSystem.html">Overview of our Healthcare System</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/our_healthcare_system/qualityinnovation.html">Quality &amp; Innovation</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/our_healthcare_system/HealthcareRegulation.html">Healthcare Regulation</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/our_healthcare_system/Healthcare_Services.html">Healthcare Services</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li>Healthcare Facilities</li></ul></div>
+<div class="sitemap parbase section">
+
+
+
+
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <h3 style="background:url('http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/rightSiteMap/sitemap_0.img.jpg/1304831896445.jpg') no-repeat;"><a title="Policies &amp; Issues" href="http://www.moh.gov.sg/content/moh_web/home/policies-and-issues.html">Policies &amp; Issues</a></h3>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <ul><li><a href="http://www.moh.gov.sg/content/moh_web/home/policies-and-issues/advance_medical_directiveamd.html">Advance Medical Directive (AMD)</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/policies-and-issues/human_organ_transplantacthota.html">Human Organ Transplant Act (HOTA)</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/policies-and-issues/elderly_healthcare.html">Elderly Healthcare</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li>Child Healthcare</li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li>Traditional Chinese Medicine (TCM)</li></ul></div>
+<div class="sitemap parbase section">
+
+
+
+
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <h3 style="background:url('http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/rightSiteMap/sitemap_2.img.jpg/1304831940235.jpg') no-repeat;"><a title="Healthcare Partners" href="javascript:void(0);">Healthcare Partners</a></h3>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <ul><li><a href="http://www.hpp.moh.gov.sg">Health Professionals</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.aic.sg/">Agency of Integrated Care</a></li>
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <li><a href="http://www.aic.sg/silverpages/default.aspx">Singapore Silver Pages</a></li></ul></div>
+<div class="sitemap parbase section">
+
+
+
+
+            <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+            <h3 style="background:url('http://www.moh.gov.sg/content/moh_web/reference/footer/jcr:content/footerReference/footer/rightSiteMap/sitemap_1.img.jpg/1304831928141.jpg') no-repeat;"><a title="Medical Directory" href="javascript:void(0);">Medical Directory</a></h3></div>
+</div>
+
+                </div> 
+            </div> 
+        </div> 
+        <div class="section_x affiliate">  
+            <div class="parbase affiliateSties affiliateSites">
+
+
+
+    <h1 class="displayNone"></h1>
+            <h2 class="displayNone"></h2>
+        <h3>MOH Affiliate Sites</h3>
+        <style type="text/css">
+            .footerImageLinks .section{
+                padding:1.4em 0;
+            }
+            
+            
+        </style>
+        <div class="parsys footerImageLinks"><div class="parbase image section"><a href="http://www.hpb.gov.sg/"><img title="HPB" alt="HPB" class="cq-dd-image" src="/content/moh_web/reference/footer/_jcr_content/footerReference/footer/affiliateSites/footerImageLinks/image_bcc3.img.jpg/1319189978018.jpg"></a><br></div>
+<div class="parbase image section"><a href="http://www.hsa.gov.sg"><img title="HSA" alt="HSA" class="cq-dd-image" src="/content/moh_web/reference/footer/_jcr_content/footerReference/footer/affiliateSites/footerImageLinks/image_2d4b.img.jpg/1319190104493.jpg"></a><br></div>
+<div class="parbase image section"><a href="http://www.nhg.com.sg/"><img title="NHG" alt="NHG" class="cq-dd-image" src="/content/moh_web/reference/footer/_jcr_content/footerReference/footer/affiliateSites/footerImageLinks/image_47f7.img.jpg/1319190153233.jpg"></a><br></div>
+<div class="parbase image section"><a href="http://www.singhealth.com.sg"><img title="SingHealth" alt="SingHealth" class="cq-dd-image" src="/content/moh_web/reference/footer/_jcr_content/footerReference/footer/affiliateSites/footerImageLinks/image_86e0.img.jpg/1319190197772.jpg"></a><br></div>
+<div class="parbase image section"><a href="http://www.nuhs.edu.sg/"><img title="NUHS" alt="NUHS" class="cq-dd-image" src="/content/moh_web/reference/footer/_jcr_content/footerReference/footer/affiliateSites/footerImageLinks/image_9f17.img.jpg/1319190233571.jpg"></a><br></div>
+<div class="parbase image section"><a href="http://www.nmrc.gov.sg"><img title="NMRC" alt="NMRC" class="cq-dd-image" src="/content/moh_web/reference/footer/_jcr_content/footerReference/footer/affiliateSites/footerImageLinks/image_12aa.img.jpg/1319190273853.jpg"></a><br></div>
+<div class="parbase image section"><a href="http://www.mohh.com.sg/"><img title="MOHH" alt="MOHH" class="cq-dd-image" src="/content/moh_web/reference/footer/_jcr_content/footerReference/footer/affiliateSites/footerImageLinks/image_206a.img.jpg/1319190312440.jpg"></a><br></div>
+</div>
+
+    </div>
+
+        </div> 
+    </div> 
+    <p class="displayNone" id="footer-p">You are viewing the text-only (mobile) version of the MOH website. <br>
+      Visit the <a href="javascript:viewFullMOH();" title="full MOH site">full MOH site</a>.</p>
+      
+
+    <div class="b">
+        <div class="footer parbase pageFooter">
+
+
+
+
+
+
+<ul>
+
+    
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/privacy_statement.html" title="Privacy Statement">Privacy Statement</a></li>
+            
+            <li><a href="http://www.moh.gov.sg/content/moh_web/home/terms_of_use.html" title="Terms of Use">Terms of Use</a></li>
+            
+    
+</ul>
+
+
+
+<p>Copyright 2011 © Ministry of Health</p> 
+</div>
+
+    </div> 
+    <span id="MobileLink_ForMobile" style="visibility:hidden"><a href="/content/moh_web/moh_corp_mobile/home.html" onclick="javascript:removeCookie();">View MOH Site - Mobile Home</a></span>
+</div>
+
+
+<div id="myForm">
+
+</div>
+
+<script type="text/javascript">
+    var currentURL = '/content/moh_web/reference/footer/jcr:content/footerReference/footer';
+
+    function viewFullMOH(){
+        var expires = new Date();
+        expires.setTime(expires.getTime() + 2 * 60 * 60 * 1000);
+        var oldDate = new Date();
+        oldDate.setTime(oldDate - 1000);       
+        document.cookie = "MOH_Corp_Full" + "=" + "true" + "; expires=" + expires.toGMTString() + "; path=/content/moh_web/;";
+        document.cookie = "MOH_Corp_Text" + "=" + "" + "; expires=" + oldDate.toGMTString() + "; path=/content/moh_web/;";  
+        document.getElementById("a_form").submit();
+    }
+    
+    $(document).ready(function(){
+        $('#myForm').append("<form action=" + "'" + currentURL + ".a.html'" + " id='a_form' method='post'><input type='hidden' name='redirectURL' value='/content/moh_web/home/privacy_statement'></form>");
+    });
+    
+    checkShowMobileLink();
+
+    function checkShowMobileLink() {       
+        try {
+            if (isMobile == 'true') {
+                 document.getElementById("MobileLink_ForMobile").removeAttribute("style");
+                 if (text_flag == 'true' || full_flag != 'true') {
+                    $("#footer-p").removeClass('displayNone');
+                 }
+                 }   
+        } catch(e) {  
+        }
+    }
+    
+    function removeCookie(){
+        var oldDate = new Date();
+        oldDate.setTime(oldDate - 1000);
+        document.cookie = "MOH_Corp_Full" + "=" + "" + "; expires=" + oldDate.toGMTString() + "; path=/content/moh_web/;";
+        document.cookie = "MOH_Corp_Text" + "=" + "" + "; expires=" + oldDate.toGMTString() + "; path=/content/moh_web/;";  
+    }
+</script>
+
+
+
+</div>
+</div></div>
+</div></div>
+</div><div class="section"><div class="new"></div>
+</div>
+</div>
+
+</div>
+
+ 
+
+</body></html>
