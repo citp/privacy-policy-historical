@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the competitivecyclist.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506062457id_/http%3A//www.competitivecyclist.com/za/CCY%3FPAGE%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the competitivecyclist.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104233816id_/http%3A//www.competitivecyclist.com/za/CCY%3FPAGE%3DPRIVACY) for the most accurate reproduction.*
 
 # Privacy/Security - Competitive Cyclist
 
