@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formstack.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503183758id_/http%3A//www.formstack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formstack.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104073049id_/http%3A//www.formstack.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Formstack
 
@@ -25,6 +25,6 @@ Formstack reserves the right to modify this privacy policy at any time, so pleas
 
 As a business service, Formstack does not target its offering toward, and does not knowingly collect any personal information from, users under thirteen (13) years of age.
 
-Formstack complies with the EU Safe Harbor framework as set forth by the US department of Commerce regarding the collection, use, and retention of date from the European Union, as further explained in our [Safe Harbor Notice](http://www.formstack.com/safe-harbor.html).
+Formstack complies with the U.S.-EU Safe Harbor framework and U.S.-Swiss Safe Harbor framework as set forth by the US department of Commerce regarding the collection, use, and retention of date from the European Union countries and Switzerland. Formstack has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement, as further explained in our [Safe Harbor Notice](http://www.formstack.com/safe-harbor.html).
 
 Your use of the Formstack services is governed by our [Terms and Conditions](http://www.formstack.com/terms.html), which contains disclaimers, limitations of liability and a choice of Indiana law and jurisdiction.
