@@ -1,57 +1,32 @@
-> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2011-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110605011938id_/http%3A//www.dnsstuff.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsstuff.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104202705id_/http%3A//www.dnsstuff.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement
 
-## General Statement
+Please Read Carefully Prior To Using This Website
 
-This Privacy Policy ("Privacy Policy") discloses the privacy practices for DNSstuff, LLC d/b/a DNSstuff with regard to your ("You" or "Your") use of the websites ([www.dnsstuff.com](https://www.dnsstuff.com/) and [www.dnsreport.com](http://www.dnsreport.com/) (the "Sites"). DNSstuff is committed to Your privacy. The following policy applies to all of the websites owned by DNSstuff including DNSstuff.com, DNSreport.com and IPv6tools.com. DNSstuff hereby notifies You of:What personally identifiable information of Yours is collected from You through these sites and how the information is used.
+The use of this SolarWinds Website is conditioned upon the User's acceptance of the terms and conditions contained in this Privacy Policy, which is part of and incorporated by reference into the Terms of Use of the SolarWinds Website (the "Website"). This Privacy Policy constitutes a legally binding agreement between User and SolarWinds. This Privacy Policy lists our current policies, but, as noted below, this Privacy Policy may be adjusted from time to time at our discretion. Those who do not agree to be subject to this Privacy Policy may not, under any circumstances, use this Website.
 
-  1. What personally identifiable information of Yours is collected from You through these sites and how the information is used. 
-  2. How the information may be shared.
-  3. How DNSstuff protects Your information.
-  4. How You can correct any inaccuracies in the information. 
+  1. Data Collection  
+User should be aware that portions of this Website contain functions for collecting the User's personal information including User's name and email address as well as User's accessing history of this Website. SolarWinds may also collect and track non-personally identifiable information about User including User's IP address, the type of browser User employs, and the referrer ID.
+  2. Entry by User  
+Certain areas of this Website will require entry by the User of certain personal information as indicated above. SolarWinds requires that the actual User input such information and that such information be the most recent available. In addition, User may request that SolarWinds modify or delete User's registered information by sending an email to [webmaster@solarwinds.com](mailto:webmaster@solarwinds.com) with the words "UPDATE USER INFORMATION" in the subject line.
+  3. Use of User Information  
+SolarWinds reserves the right to compile, save, use within the scope of SolarWinds' activities, and analyze any and all User data (registration data, use history, etc.). SolarWinds intends to use such User data for internal purposes only, including without limitation for the purposes of responding to User's requests for information and for contacting User. SolarWinds may provide aggregated statistics about users (including User) to third parties, but such information will be aggregated so that it does not identify a particular individual or company, including User.
+  4. Choice/Opt Out  
+SolarWinds may periodically send User information regarding SolarWinds, its products and services. If User has been receiving such information and does not wish to continue receiving such information, please contact SolarWinds at [webmaster@solarwinds.com](mailto:webmaster@solarwinds.com) and let SolarWinds know that User no longer wishes to receive such information. Alternatively, you can simply reply to an email from SolarWinds and type "REMOVE" in the subject line.
+  5. Disclosure of User Information  
+SolarWinds will, to the extent possible, control User information, and, except as otherwise set forth herein, not disclose such User information to third parties. However, in the event disclosure of any User information by SolarWinds is required by law, SolarWinds may disclose such User information without the consent of User.
+  6. Cookies  
+A "cookie" is a piece of data stored on User's hard drive containing information about the user. SolarWinds may use cookies in order to collect certain information about User, such as IP addresses (e.g., whether User is logged on from a .com, .gov, or .edu domain), domain names (the Internet address of a computer), type of computer and operating system being used. SolarWinds may collect such information in order to better operate the Website so as to enhance User's use of the Website. By using cookies, SolarWinds is able to recognize User when User revisits the Website, and it is able to remember certain information about User, such as User's contact information. Depending on the type of browser you are using, your browser may be set to alert you of cookies. You do not have to accept all cookies sent to you by the Website; however, depending on the particular cookie you reject, you may not be able to use some of the features in the Website if a particular cookie is rejected.
 
+The Website may from time to time include, for User's convenience, links to third party sites, which SolarWinds does not own or control and which are controlled by third parties. Such sites may use cookies. However, SolarWinds has no access to or control over these cookies, or the information collected by them. If User has any questions about how such third parties use cookies, User should contact such third parties directly.
 
-  1. WHAT PERSONALLY IDENTIFIABLE INFORMATION OF YOURS IS COLLECTED AND HOW THE INFORMATION IS USED. 
-    1. Information Collection and Use  
-DNSstuff is the sole owner of the information collected on these sites. DNSstuff will not sell, share, transfer or rent this information to others in ways different from what is disclosed in this Privacy Policy. DNSstuff collects information from You on certain pages on these sites.
-    2. Registration  
-On certain pages on the Sites, You will be asked for Your contact information: (such as name, e-mail address, telephone number, fax number, information about your interests in and use of various products, programs, and services, educational level and interests and/or billing information). Such information allows DNSstuff to process and fulfill Your request. Your contact information is also used to confirm Your identity and to contact You about the services on the Sites for which You may have expressed interest.
-When the Sites requests Your identity, the Sites will clearly indicate the purpose of the inquiry before the information is requested. 
-    3. IP Addresses  
-Every computer connected to the Internet is given a domain name and a set of numbers that serve as that computer's "Internet Protocol" or IP address. When You request a page from any page within the Sites, our Web servers automatically recognize Your domain name and IP address. The domain name and IP address reveal nothing personal about You other than the IP address from which You have accessed the Sites. DNSstuff may use IP addresses to analyze trends, administer the Sites, track Your movement, and gather broad demographic information for aggregate use.
-    4. Children's and Minor's Privacy  
-Protecting the privacy of the very young is uniquely important, particularly on the Internet. The Sites are designed to provide commercial business information and services for adults. These sites are not designed to attract minors, in particular children under the age of 13. DNSstuff does not market to or knowingly collect information from anyone under the age of 13. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) to anyone over the Internet.
-    5. Opt-Out Procedures  
-You may opt-out of receiving communications from DNSstuff at the point where the Sites request personally identifiable information about You. To be removed from an e-mail list, please complete an online contact us form or follow the instructions contained in any e-mail correspondence that you receive from DNSstuff. To unsubscribe from a third party service, you must contact that third party directly.
-    6. Cookies  
-A cookie is a small piece of data that is sent to Your browser from a Web server and stored on Your computer's hard drive. A cookie cannot read data off Your hard disk or read cookie files created by other sites. Use of a cookie is in no way linked to any personally identifiable information while on the Sites. Some DNSstuff Services features and services may not function properly if your cookies are disabled. Some of DNSstuff's business partners may use cookies on the Sites. However, DNSstuff has no access to or control over these cookies. DNSstuff and its business partners may use cookies to better personalize the content, banners, and/or promotions that You see on the Sites. You can choose whether to accept cookies by changing the setting of Your browser. You can reset your Browser to refuse all cookies or allow Your browser to show You when a cookie is being sent. If You reject the cookies on the Sites, You may still use the Sites. The only drawback to this is that You may be limited in some areas of these sites.
-  2. HOW INFORMATION MAY BE SHARED.
-    1. Sharing  
-DNSstuff may share aggregated demographic information with DNSstuff's partners. This is not linked to any personal information that can identify any individual person. DNSstuff may partner with another party to provide specific services. When You sign up for these services, DNSstuff will share names or other contact information that is necessary for the third party to provide these services. DNSstuff's contractual arrangements with third parties with which it shares Your personal information prohibits the third parties from using that information except for the explicit purpose of providing the services for which it was provided. To the extent that Your credit card information is collected by DNSstuff or any of its affiliates or subsidiaries, such information will be kept in confidence and will not be shared with any third parties (other than consumer credit agencies) without Your prior consent. DNSstuff shall not be liable for the transfer or disclosure of any personal identification information resulting from loss or distribution of data, the delineation or corruption of storage media, power failures, natural phenomena, riots, acts of vandalism, sabotage, terrorism or any other event beyond DNSstuff's control.
-    2. Sale of Assets, Merger, Acquisition, Bankruptcy  
-Information collected from You may be transferred to a third party as a result of a sale, merger or corporate transfer involving DNSstuff.
-    3. Spam  
-Notwithstanding anything to the contrary herein, DNSstuff maintains a strict "No-Spam" policy, which means that DNSstuff does not intend to sell, rent or otherwise give your e-mail address to a third party without Your consent.
-    4. Legal Requests  
-DNSstuff cooperates with law enforcement inquiries, as well as other third parties, to enforce laws and third party rights, such as intellectual property rights and laws relating to fraud. DNSstuff can (and You authorize DNSstuff to) disclose Your personal data and other information about You as DNSstuff, in its sole discretion, believes necessary or appropriate to comply with properly authorized civil, criminal or regulatory investigations or subpoenas or summons' issued by governmental authorities.
-  3. HOW COMPANY PROTECTS YOUR INFORMATION. 
-    1. Confidentiality and Security  
-When DNSstuff requests that You enter sensitive information, DNSstuff stores such information using secure procedures. DNSstuff also protects Your personal information off-line. Access to Your personal information is limited to employees who DNSstuff reasonably believes will need that information to provide services to You. However, DNSstuff is not responsible for the confidentiality, security or distribution of your own personal information by our partners and third parties outside the scope of our agreement with such partners and third parties.
-    2. Links  
-These sites may contain links to other sites. The linked sites are not necessarily under the control of DNSstuff. Please be aware that DNSstuff is not responsible for the privacy practices of such other sites. DNSstuff encourages You to be aware when You leave these sites and to read the privacy policies of each and every websites that collects personally identifiable information. If You decide to access any of the third party sites linked to these sites, You do this entirely at your own risk. Any links to any partner of the Sites are the responsibility of the linking party, and DNSstuff shall not be responsible for notification of any change in name or location of any information on the Sites.
-  4. CORRECTING INACCURACIES.
-    1. Correcting/Updating Personal Information  
-If personally identifiable information previously submitted to DNSstuff by You changes (such as name, e-mail address, telephone number, fax number, information about your interests in and use of various products, programs, and services, educational level and interests and/or billing information), You can update Your profile if you are a member at [www.dnssstuff.com](http://www.dnssstuff.com/).
-    2. Notification of Changes  
-If DNSstuff decides to change the Privacy Policy for these sites, DNSstuff will post those changes on [www.dnsstuff.com](http://www.dnssstuff.com/) privacy policy section. All changes are effective immediately upon posting. 
-    3. Sites and Service Updates  
-As necessary, DNSstuff may send You Site and service announcement updates. You are not able to un-subscribe from service announcements, which contain important information about the Sites. DNSstuff communicates via e-mail with You to provide requested services and to resolve issues relating to Your accounts.
-    4. Consent to This Policy  
-By using these sites, you consent to the collection and use of information by DNSstuff as specified in this Privacy Policy.
+  7. Security  
+SolarWinds uses reasonable security measures to safeguard information concerning, and submitted by, users. Despite the above security measures employed by SolarWinds, users should be aware that it is impossible to guarantee absolute security with respect to information sent through the Internet.
+  8. Modifications  
+This Privacy Policy and the Terms of Use of the Website constitute the complete agreement between the parties with respect to their subject matter and supersede any prior agreement or communication. SolarWinds reserves the right to modify this Privacy Policy without prior notice. In the event SolarWinds updates or modifies this Privacy Policy, SolarWinds shall endeavor to post such updates or modifications on this Website for a period of thirty (30) days following any such modifications. Therefore, User is advised to review this Privacy Policy occasionally, or at least every thirty (30) days. User's continued use of this Website subsequent to SolarWinds' notice of modification of this Privacy Policy shall constitute User's acceptance of the modified Privacy Policy.
 
 
 
-Privacy Policy Effective Date: November 18, 2007
-
-Copyright © 2006-2008 DNSstuff, LLC All rights reserved.
+Copyright 2011 SolarWinds Worldwide, LLC All Rights Reserved.  
+Last Updated 1/6/2010
