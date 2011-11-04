@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amazing-animations.com privacy policy that was archived on 2010-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100209101652id_/http%3A//www.amazing-animations.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amazing-animations.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104140303id_/http%3A//www.amazing-animations.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Amazing-animations.com
 
