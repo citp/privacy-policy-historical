@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iheartfaces.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515070216id_/http%3A//www.iheartfaces.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iheartfaces.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104223135id_/http%3A//www.iheartfaces.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Photo Challenges, Photography Tutorials and Camera Tips - I Heart Faces
+# Photo Challenge Privacy Policy | Photo Competition Privacy Policy | i Heart Faces
 
 #### **What information do we collect?**
 
@@ -67,5 +67,4 @@ This policy was last modified on June 2010
 
 #### **Contact**
 
-If there are any questions regarding this privacy policy you may [contact](http://www.iheartfaces.com/about/contact/ "contact") us at info(at)iheartfaces(dot)com  
-
+If there are any questions regarding this privacy policy you may [contact](http://www.iheartfaces.com/about/contact/ "contact") us at info(at)iheartfaces(dot)com
