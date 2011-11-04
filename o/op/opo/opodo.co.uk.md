@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507055951id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opodo.co.uk privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104220608id_/http%3A//www.opodo.co.uk/opodo/StrutsServlet/DisplaySiteInfoPage%3FpageName%3Dprivacy) for the most accurate reproduction.*
 
 # Opodo
 
@@ -67,7 +67,7 @@ As traveller profile information may relate to persons other than yourself, you 
 
 **Opt out**
 
-If you wish us to stop sending you newsletters or details of other offers and promotions please automatically subscribe through the unsubscribe link in our emails or email us at [unsubscribe@opodo.com](mailto:unsubscribe@opodo.com)
+If you wish us to stop sending you newsletters or details of other offers and promotions please automatically subscribe through the unsubscribe link in our emails or email us at [nomarketing@opodo.com](mailto:nomarketing@opodo.com)
 
 |   | 
 
@@ -78,5 +78,5 @@ If you wish us to stop sending you newsletters or details of other offers and pr
 ---|---  
   
 **How safe are my details?**  
-To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp;jsessionid=B3660F287526D272C90622F03521DEA1.jbossFenlive2nodeB2?pageName=privacy&Int_Id=PS_1.0&locale=en_GB_123)  
-and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp;jsessionid=B3660F287526D272C90622F03521DEA1.jbossFenlive2nodeB2?pageName=security&Int_Id=PS_1.0&locale=en_GB_123)  policies
+To find out more, read our  [ Privacy](http://www.opodo.co.uk/opodo/StrutsServlet/PrivacyPopUp;jsessionid=EE7745FF70F088C13400B5E7CF4F3C92.jbossFenlive2nodeD6?pageName=privacy&Int_Id=PS_1.0&locale=en_GB_123)  
+and  [ Security](http://www.opodo.co.uk/opodo/StrutsServlet/SecurityPopUp;jsessionid=EE7745FF70F088C13400B5E7CF4F3C92.jbossFenlive2nodeD6?pageName=security&Int_Id=PS_1.0&locale=en_GB_123)  policies
