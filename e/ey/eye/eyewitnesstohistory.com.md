@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyewitnesstohistory.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417111427id_/http%3A//www.eyewitnesstohistory.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyewitnesstohistory.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104013549id_/http%3A//www.eyewitnesstohistory.com/privacy.htm) for the most accurate reproduction.*
 
 # EyeWitness to History - Index
 
