@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423133649id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flasharcadegamessite.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104202121id_/http%3A//www.flasharcadegamessite.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | FAQ
 
@@ -44,5 +44,6 @@ Copyright
 
 All flash games on FlashArcadeGamesSite are copyrighted or trademarked by their respective owners or authors. FlashArcadeGamesSite  is not responsible for the contents of the games present on this site. Flash games were submitted to FlashArcadeGamesSite by their author or their owner. If you note that your game is published on FlashArcadeGamesSite without your agreement, you can contact us by email to remove your game from our site.
 
-  
+Copyright © 2007-2011 flasharcadegamessite.com. All Rights Reserved. All gaming content are copyright and trademarked by their owners, authors.
 
+[contact us](https://web.archive.org/contact-us.php "contact us") | [privacy policy & faq](https://web.archive.org/privacy-policy.php "privacy policy") | [rss feed](https://web.archive.org/rss.php "rss feed")
