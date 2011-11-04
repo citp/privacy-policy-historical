@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the duke4.net privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505221349id_/http%3A//www.duke4.net/page.php%3F15) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duke4.net privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104025005id_/http%3A//www.duke4.net/page.php%3F15) for the most accurate reproduction.*
 
-# Duke Nukem Forever - Duke4.net: Our Privacy Polcy
+# Duke Nukem 3D, Duke Nukem Forever • Duke4.net: Our Privacy Polcy
 
 We are adopting the following Privacy Policy because we are committed to protecting your privacy. Our Privacy Policy lets you know how your personal information is processed and used. The following policies are in effect for the Web pages and discussion forums operated by Duke4.net
 
@@ -16,4 +16,4 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 By using the Duke4.net network, you consent to the collection and use of information by Duke4.net as specified above. We reserve the right to modify this policy. If we decide to change our Privacy Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
-Please use our [contact page](https://web.archive.org/web/20110505221349id_/http%3A//www.duke4.net/contact.php) for any inquiries you have regarding our Privacy Policy. You are encouraged to report admin abuse so that we may enhance our services appropriately.
+Please use our [contact page](https://web.archive.org/web/20111104025005id_/http%3A//www.duke4.net/contact.php) for any inquiries you have regarding our Privacy Policy. You are encouraged to report admin abuse so that we may enhance our services appropriately.
