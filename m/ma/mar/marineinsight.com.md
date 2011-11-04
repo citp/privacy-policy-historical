@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505085824id_/http%3A//marineinsight.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marineinsight.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105001344id_/http%3A//www.marineinsight.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marine Insight
 
@@ -12,7 +12,7 @@ We do not have your personal information unless it was provided to us in one of 
 
 1) By sharing your e-mail address when subscribing to our newsletter or while commenting on a post, an email address must be provided. The email address is not visible to the public nor is it shared with external sources.
 
-(2) By providing personal information when you [submit news](http://marineinsight.com/submit-news/ "submit news") tips, articles, or newsletters to our editorial team or by submitting a report via our [Contact](http://marineinsight.com/contact/ "Contact") Form,
+(2) By providing personal information when you submit news tips, articles, or newsletters to our editorial team or by submitting a report via our Contact Form,
 
 (3) By sharing personal information when you post comments on our posts,
 
