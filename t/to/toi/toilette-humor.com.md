@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toilette-humor.com privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611154410id_/http%3A//www.toilette-humor.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toilette-humor.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104085729id_/http%3A//www.toilette-humor.com/privacy.shtml) for the most accurate reproduction.*
 
 # Toilette-Humor.com Statement of Privacy
 
