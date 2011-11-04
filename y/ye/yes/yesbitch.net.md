@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yesbitch.net privacy policy that was archived on 2011-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110521083839id_/http%3A//yesbitch.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yesbitch.net privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104230200id_/http%3A//yesbitch.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Yes Bitch!
 
