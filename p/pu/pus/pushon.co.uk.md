@@ -1,55 +1,64 @@
-> *The following text is extracted and transformed from the pushon.co.uk privacy policy that was archived on 2011-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110603194326id_/http%3A//www.pushon.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushon.co.uk privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104042814id_/http%3A//www.pushon.co.uk/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Policy - PushON
 
-## Use of our Website
+This privacy policy sets out how PushON uses and protects any information that you give PushON when you use this website.
 
-You do not have to provide any personal information to use most of the information on this site but to make the most of facilities we offer from time to time, we may require personal information. If you want to contact us we may request personal information. This information is required so that we can handle your enquiry effectively. All information provided will only be used for the purpose it was provided.
+PushON is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-### PushON Newsletter
+PushON may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 20/01/2007.
 
-If you provide your email address to join our PushON Newsletter mailing list, we will only use your email address for this purpose.
+## What we collect
 
-### Data Protection Act 1998
+We may collect the following information:
 
-We are registered under the Data Protection Act 1998 and comply with its requirements. We use personal information for the following purposes only:
-
-  * to provide our services.
-  * to tell you about our services.
-  * to enable us to review the effectiveness of our website and other marketing initiatives.
-  * to provide other information or services to which you consent in advance.
-  * for administration purposes.
-  * to allow you to receive newsletters and attend events, if you choose to do so. 
-  * to process any request for employment with us.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-### Cookies & IP Addresses
+## What we do with the information we gather
 
-This website uses session variables, which are a type of cookie, to record what pages our visitors view.  
-We use IP addresses and [CGI data](http://www.pushon.co.uk/privacy-legal.htm#cgi) to perform various tasks to administer and measure the effectiveness of this website and its suitability for our audience.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-### When we share information
+  * Internal record keeping. 
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional email about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-Under normal circumstances we manage all our administration and handling of enquiries in-house and therefore never pass on your personal information to third parties, except when required to do so by law.
 
-However, there may come a time when we will need to pass your personal information to another third party.  If such an event occurs we will notify you by email at the time of such transfer, provide you with the reason for the transfer of information and a means for opting out. If  
-you do not agree to this you should not volunteer personal information on our site.
 
-### Linked sites
+## Security
 
-If you follow links to other websites from this website please note that we do not control those sites and are not responsible for the use of your data by those site owners.
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-### Changes to this policy
+## How we use cookies
 
-We will post any changes to this policy on our website. Those changes will then apply to any future use by you of our website.
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-### Amending or Deleting Personal Information
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-You can ask us to amend any information we hold on you or remove you from any service by stating your name and email address you registered with us and specifying the alteration required.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-### Security
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-We keep your information stored on information systems protected by passwords in premises secured by 24/7 monitored alarms.
+## Links to other websites
 
-**CGI** \- basically standard data passed between a user’s browser and a server to determine what operating system and other settings are enabled on users’ computers to enable the proper functioning of a browser session.
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+## Controlling your personal information
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at info@pushon.co.uk
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to 217 The Box Works, Worsley Street, Manchester, M15 4NU.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
