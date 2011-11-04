@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listmywebsite.net privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104044125id_/http%3A//www.listmywebsite.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy ::List My Website Directory
+# Free Website Link Listing Directory - Submit and promote your website free - List My Website Directory
 
-[Home](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
+[Home](https://web.archive.org/web/20111104044125id_/http%3A//www.listmywebsite.net/index.php) » Privacy Policy
 
 **List My Website Web Directory** do respect the privacy of individuals who use the services provided on this Site, [http://www.listmywebsite.net](http://www.listmywebsite.net/). At the same time, we may collect the user's information of IP address, Web Browser and Operating System Versions in order to know the demographic information of the users. We only collect these information with the purpose of helping us in promoting our site's performances and compatibilities for the various browser versions and operating systems. This Privacy Policy is provided here to help our users understand how we deal with the information collected from the users.
 
@@ -22,14 +22,6 @@ Updated on 07.11.2010
 
 ### Advertisements
 
-[](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/href=%22advertise.php%22 "Advertise")
-
-### Site News
-
-[](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/news.php "Site News")
-
-  * **Existing User Password Changed** As we have moved from old server to a new server, all member account password has been reset for the security purpose. Therefore, we suggest that you get a [new password](https://web.archive.org/web/20110506203638id_/http%3A//www.listmywebsite.net/forgotpassword.php) to login to your account. Thank you.
-
-
+[](https://web.archive.org/web/20111104044125id_/http%3A//www.listmywebsite.net/href=%22advertise.php%22 "Advertise")
 
    
