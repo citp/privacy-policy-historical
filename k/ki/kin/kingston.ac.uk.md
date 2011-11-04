@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2011-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110609220526id_/http%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingston.ac.uk privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104045350id_/http%3A//www.kingston.ac.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kingston University London
 
@@ -62,7 +62,7 @@ _utmc
 _utmz  
 __utmmobile  | These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where vistors have come to the site from and the pages they visited.  | [More information5](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
   
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org6](https://web.archive.org/web/20110609220526id_/http://www.kingston.ac.uk/privacy-policy/www.allaboutcookies.org). 
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org6](https://web.archive.org/web/20111104045350id_/http://www.kingston.ac.uk/privacy-policy/www.allaboutcookies.org). 
 
 **Invision** : at the bottom of each page in our forums there is a link to “Delete my cookies”.
 
