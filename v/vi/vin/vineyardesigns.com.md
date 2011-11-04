@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vineyardesigns.com privacy policy that was archived on 2011-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110419231335id_/http%3A//vineyardesigns.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vineyardesigns.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104153006id_/http%3A//www.vineyardesigns.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
