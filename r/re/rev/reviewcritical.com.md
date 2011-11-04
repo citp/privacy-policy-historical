@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reviewcritical.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229213810id_/http%3A//www.reviewcritical.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reviewcritical.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104122832id_/http%3A//www.reviewcritical.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Review Critical
 
 **We collect the e-mail address (where possible) of**
 
