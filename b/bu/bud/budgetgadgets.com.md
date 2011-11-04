@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetgadgets.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516185754id_/http%3A//www.budgetgadgets.com/info.php%3Fsub%3DPrivacy_Policy%26osCsid%3Da52c89ab2e492f438b5d808c56e021ba) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetgadgets.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104174813id_/http%3A//www.budgetgadgets.com/info.php%3Fsub%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # BudgetGadgets.com
 
