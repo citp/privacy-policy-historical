@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216210054id_/http%3A//www.oh-barcelona.com/en/priv_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oh-barcelona.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104015649id_/http%3A//www.oh-barcelona.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy statement of Open House Spain S.L.
 
