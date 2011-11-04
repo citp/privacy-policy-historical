@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ningtube.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127073524id_/http%3A//www.ningtube.com/t/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ningtube.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104074531id_/http%3A//www.ningtube.com/t/policy.php) for the most accurate reproduction.*
 
 # NingTube | Privacy Policy
 
