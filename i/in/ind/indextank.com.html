@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the indextank.com privacy policy that was archived on 2011-05-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110519125917id_/http%3A//indextank.com/documentation/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the indextank.com privacy policy that was archived on 2011-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111104074913id_/http%3A//indextank.com/documentation/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    
     
   
       <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,9 +10,10 @@
     
 	
 
-<script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1580518835598"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script type="text/javascript" async="" src="https://static.olark.com/jsclient/loader1.js?ts=1580518836078"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://api.mixpanel.com/site_media/js/api/mixpanel.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
 <link rel="shortcut icon" type="image/ico" href="/_static/favicon.ico"> 
+
 
 <style type="text/css" media="screen">
 @import url("/_static/common/css/reset.css");
@@ -25,10 +27,20 @@
 <!--[if IE]><link rel="stylesheet" type="text/css" href="/_static/common/css/ie.css"><![endif]-->
 
 
-<script type="text/javascript" src="/_static/common/js/jquery-1.4.4.min.js"></script>
-<script type="text/javascript" src="/_static/common/js/jquery-ui-1.8.8.min.js"></script>
+<script type="text/javascript" src="/_static/common/js/jquery-1.6.1.min.js"></script>
+<script type="text/javascript" src="/_static/common/js/jquery-ui-1.8.11.min.js"></script>
 <script type="text/javascript" src="/_static/common/js/cufon-yui.js"></script>
 <script type="text/javascript" src="/_static/common/js/fonts.js"></script>
+<script type="text/javascript" src="https://sitesearch.cloudfoundry.com/ping.js"></script>
+<script class="indextank">
+/*  {
+    "name": "div.head h2",
+    "text" : "body"
+  } */
+</script>
+<script class="indextank categories">
+/* { "type": "c:site" } */
+</script>
 <script type="text/javascript">
 Cufon.replace(['.blue_box_main h3', '.table_content li'], {fontFamily: 'Whitney', hover: true});
 Cufon.replace('div.head h2', {fontFamily: 'Whitney', hover: true, textShadow: '1px 1px 0px #e6e6e6'}); 
@@ -38,8 +50,15 @@ Cufon.replace('.blue_box_main h2', {fontFamily: 'Whitney', hover: true, textShad
 
 </script>
 <script type="text/javascript" src="/_static/common/js/function.js"></script>
-<script type="text/javascript" src="https://github.com/flaptor/indextank-jquery/raw/0.2.1/jquery.indextank-autocomplete.js"></script>
-
+<script type="text/javascript" src="/_static/js/jquery.indextank.basic.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.ize.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.autocomplete.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.ajaxsearch.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.instantlinks.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.instantsearch.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.dashboardrenderer.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.renderer.js"></script>
+<script type="text/javascript" src="/_static/js/jquery.indextank.statsrenderer.js"></script>
 
 <script type="text/javascript">$(function() {
     var elems = $('input.empty');
@@ -70,25 +89,88 @@ Cufon.replace('.blue_box_main h2', {fontFamily: 'Whitney', hover: true, textShad
         $('input.empty').val('');
     });
 });</script>
-<script type="text/javascript">var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-3695229-10']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-  var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+<script type="text/javascript">
+    $(window).ready(function(){
+        $("#search-form").indextank_Ize("https://6kds.api.indextank.com", "sitesearch");
+        $("#query").indextank_InstantLinks();
+    });
 </script>
 
 
+        <!-- instant links styling -->
+        <style> 
+            .ui-menu {
+                padding: 0em;
+            } 
+ 
+            .ui-menu-item {
+                border-bottom: 1px solid #eee;
+                padding: 2px;
+            }
+ 
+            .result span {
+                font-size: 14px;
+                vertical-align: top;
+                padding-left: 5px;
+            }
+            
+            .result span.highlighted {
+                font-weight: bolder;
+                padding-left: 0px;
+            }
+            
+            .result span.regular {
+                padding-left: 0px;
+            }
+            
+            .result span.description:before {
+                content: "--";
+                vertical-align: top;
+                padding: 5px;
+            }
+            .result span.description {
+                font-size: 10px;
+                padding-left: 0px;
+            }
+ 
+        </style> 
+
   
 
-  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+    
+    <script type="text/javascript">
+      var mpq = [];
+      mpq.push(['init', '2dea0d7b2f8cfe0b34cb7cdb5c026a48']);
+      mpq.push(['register',  {'logged_in': 'false'}, 'all', '14']); mpq.push(['track', 'pageview-/documentation/privacy_policy', {}]);
+      (function() {
+        var mp = document.createElement("script"); mp.type = "text/javascript"; mp.async = true;
+        mp.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + "//api.mixpanel.com/site_media/js/api/mixpanel.js";
+        var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(mp, s);
+      })();
+    </script>
+
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-3695229-10']);
+      _gaq.push(['_trackPageview']);
+      _gaq.push(['_setCustomVar', 1, 'visitor', '1', 2]);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+
+  <script type="text/javascript" async="" src="//static.getclicky.com/js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
     
   <body class="">
+    
 
     
+  
+  
   
       <!--outer layout starts here-->
       <div id="outer_layout">
@@ -100,17 +182,19 @@ _gaq.push(['_trackPageview']);
   
   
 
-<h1><a href="/"><img src="/_static/common/images/logo.gif" alt="IndexTank - Custom search you control"></a></h1>
+<h1><a href="/home"><img src="/_static/common/images/logo.gif" alt="IndexTank - Custom search you control"></a></h1>
 
   <!--menu starts here-->
   <div id="menu">
     
       <ul>
-    <li class="first"><a href="/">Home</a></li>
-    <li><a href="/why/">Why Us</a></li>
-    <li><a href="/get-started/">Get Started</a></li>
+    
+    <li class="first"><a href="/why/">Why Us</a></li>
+    <li><a href="/pricing/">Pricing</a></li>
+    
     <li><a href="http://apps.indextank.com">App Gallery</a></li>
     <li><a href="/documentation/" class="active">Docs &amp; Support</a></li>
+    <li><a href="http://blog.indextank.com">Blog</a></li>
 </ul>
 
     
@@ -121,7 +205,7 @@ _gaq.push(['_trackPageview']);
   <div id="search_area">
     
       
-<form action="/search/">
+<form id="search-form" action="/search/">
   <fieldset>
     <label for="search"><span class="none">&nbsp;</span>
       <input type="submit" value="" class="search_btn" id="search">
@@ -134,11 +218,6 @@ _gaq.push(['_trackPageview']);
   </fieldset>
 </form>
 
-<script type="text/javascript">
-    $(window).ready(function(){
-      $("#query").autocompleteWithIndextank("http://djsqg.api.indextank.com", "site");
-    });
-</script> 
 
     
   </div>
@@ -147,6 +226,7 @@ _gaq.push(['_trackPageview']);
             </div>
           </div>
         </div>
+        <h3 id="extra_header" style="background:#fffff" align="center"><img src="/_static/images/LI_logo.jpg" alt="LinkedIn"> has acquired IndexTank. Read our <a href="http://blog.indextank.com/">Blog Post</a> and <a href="https://indextank.com/documentation/faq2">FAQ</a></h3><hr>
         <!--header ends here-->
         
         <div class="head_bg">
@@ -159,12 +239,12 @@ _gaq.push(['_trackPageview']);
 
   <div class="logged_out">
     <ul>
-  <li class="first"><a id="signin-link" href="https://indextank.com/login" onclick="$('#signin').toggleClass('expanded'); $(this).focus()" tabindex="1">Sign in</a></li>
-  <li><a id="signin-link" href="/get-started/" tabindex="2">Sign up</a></li>
+  <li class="first"><a id="signin-link" href="https://www.indextank.com/login" onclick="$('#signin').toggleClass('expanded'); $(this).focus()" tabindex="1">Sign in</a></li>
+  
 </ul>
 <div id="signin" style="display: none">
     <a id="signin-link" href="javascript:void(0)" onclick="$('#signin').toggleClass('expanded'); $(this).focus()" tabindex="1">Sign in</a>
-    <form action="https://indextank.com/login" method="post">
+    <form action="https://www.indextank.com/login" method="post">
         <input id="signinemail" name="email" type="text" class="empty" emptyvalue="Email" tabindex="2">
         <input name="password" type="password" class="empty" emptyvalue="Password" tabindex="3">
         <a href="/forgot-password" tabindex="5">Forgot password?</a>
@@ -190,7 +270,7 @@ _gaq.push(['_trackPageview']);
             <!--head starts here-->
             <div class="head">
               
-  <h2>Privacy Policy</h2> <div class="try_btn logged_out"> <a href="/get-started/">TRY IT OUT</a> </div>
+  <h2>Privacy Policy</h2> 
 
             </div>
             <span class="clear"></span>
@@ -281,9 +361,9 @@ _gaq.push(['_trackPageview']);
               <div id="footer">
                 
               <ul>
-            <li><a href="/"><strong>News</strong></a></li>
-            <li><a href="/get-started/">Get Started</a></li>
-            <li><a href="#">App Gallery</a></li>
+            <li><a href="/home"><strong>News</strong></a></li>
+            
+            <li><a href="http://apps.indextank.com/">App Gallery</a></li>
           </ul>
           <ul>
             <li><a href="/documentation/"><strong>Documentation</strong></a></li>
@@ -300,12 +380,15 @@ _gaq.push(['_trackPageview']);
             <li><a href="/documentation/privacy_policy">Privacy Policy</a></li>
             <li><a href="/documentation/terms_of_service">Terms of Service</a></li>
           </ul>
-          <ul class="space">
+          <ul>
             <li><a href="http://blog.indextank.com/" class="blog">Follow our blog</a></li>
             <li class="last"><a href="http://twitter.com/indextank" class="twitter">Follow twitter</a></li>
             <li>
               <p>© INDEXTANK 2010-2011. All Rights Reserved</p>
             </li>
+          </ul>
+          <ul class="space">
+            <li><a href="http://mixpanel.com/f/partner"><img src="http://mixpanel.com/site_media/images/partner/badge_blue.png" alt="Web Analytics"></a></li>
           </ul>
 
 
@@ -359,6 +442,22 @@ if(oldonload){oldonload()}};
   <script type="text/javascript">/*<![CDATA[*/ window.olark||(function(k){var g=window,j=document,a=g.location.protocol=="https:"?"https:":"http:",i=k.name,b="load",h="addEventListener";(function(){g[i]=function(){(c.s=c.s||[]).push(arguments)};var c=g[i]._={},f=k.methods.length;while(f--){(function(l){g[i][l]=function(){g[i]("call",l,arguments)}})(k.methods[f])}c.l=k.loader;c.i=arguments.callee;c.p={0:+new Date};c.P=function(l){c.p[l]=new Date-c.p[0]};function e(){c.P(b);g[i](b)}g[h]?g[h](b,e,false):g.attachEvent("on"+b,e);c.P(1);var d=j.createElement("script"),m=document.getElementsByTagName("script")[0];d.type="text/javascript";d.async=true;d.src=a+"//"+c.l;m.parentNode.insertBefore(d,m);c.P(2)})()})({loader:(function(a){return "static.olark.com/jsclient/loader1.js?ts="+(a?a[1]:(+new Date))})(document.cookie.match(/olarkld=([0-9]+)/)),name:"olark",methods:["configure","extend","declare","identify"]}); olark.identify('4334-660-10-2573');/*]]>*/</script>
 
   
+
+    
+    <script type="text/javascript">
+    var clicky = { log: function(){ return; }, goal: function(){ return; }};
+    var clicky_site_ids = clicky_site_ids || [];
+    clicky_site_ids.push(66433960);
+    var clicky_custom = {};
+    (function() {
+      var s = document.createElement('script');
+      s.type = 'text/javascript';
+      s.async = true;
+      s.src = '//static.getclicky.com/js';
+      ( document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0] ).appendChild( s );
+    })();
+    </script>
+    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66433960ns.gif" /></p></noscript>
 
   
 
