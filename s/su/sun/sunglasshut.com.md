@@ -1,58 +1,87 @@
-> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2006-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060320225807id_/http%3A//www.sunglasshut.com/sghus.cfm%3Fdir%3DTemplates%26page%3DArticlePage%26sitecategory%3Dcustomerservice%26subcategory%3Dsecurity%2Bprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunglasshut.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104072750id_/http%3A//www.sunglasshut.com/webapp/wcs/stores/servlet/AboutUs%3Fpage%3Dprivacy_policy%26storeId%3D12351) for the most accurate reproduction.*
 
-# Online Retailer of Brand-name Sunglasses
+# Privacy Policy | SunglassHut.com
 
-The Best Sellers in Sunglasses and Watches! 
+## Security and Privacy Notice
 
-[](http://www.sunglasshut.com/sghus.cfm?dir=templates&page=productpage&sitecategory=Sunglasses&nProductID=149639)
+### Our Commitment
 
-Maui Jim  
-**Hookipa**
+Sunglass Hut is committed to using our best efforts to ensure the security of your transactions on www.SunglassHut.com (the "Site") and protecting the privacy of the information you chose to share with us. By choosing to visit our Site, you are accepting the practices, terms and conditions described in this Security and Privacy Notice. Please feel free to contact us with any questions or concerns you may have regarding these policies.
 
-Your Price: $149.95 
+### Secure Ordering
 
-[](http://www.sunglasshut.com/sghus.cfm?dir=templates&page=productpage&sitecategory=Sunglasses&nProductID=101389)
+We make every effort to protect your online order information by using Secure Sockets Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than Sunglasshut.com. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending upon your browser) then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https". It is important for you to protect against unauthorized access to your credit card information, to your password and to your computer.
 
-Revo  
-**H2O Wrap 3010**
+Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you'll be unable to connect to the server so you won't have to worry about mistakenly placing an order through an unsecured connection.
 
-Your Price: $229.95 
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-| 
+### Privacy Policies
 
-**Security and Privacy Notice**
+We are committed to protecting your privacy. This Privacy Policy describes the types of information we collect from you when you use the SunglassHut.com site, and explains what we do with that information. Except as described in this policy, we do not sell, trade or rent your personal information to third parties. Keep in mind, you always have the option to "opt-out" of our email program at anytime.
 
-**Our Commitment**  
-Sunglass Hut is committed to using our best efforts to ensure the security of your transactions on www.SunglassHut.com (the "Site") and protecting the privacy of the information you chose to share with us. By choosing to visit our Site, you are accepting the practices, terms and conditions described in this Security and Privacy Notice. Please feel free to contact us with any questions or concerns you may have regarding these policies. 
+This Privacy Policy is effective as of May 1, 2009 and will remain in effect until we replace it.
 
-**Secure Ordering**  
-We make every effort to protect your online order information by using Secure Sockets Layer (SSL) technology. SSL encrypts your order information to avoid the decoding of that information by anyone other than Sunglasshut.com. To check the security of your connection, look at the lower left-hand corner of your browser window after accessing the server. If you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. You can also double-check by looking at the URL line of your browser. When accessing a secure server, the first characters of the site address will change from "http" to "https." It is important for you to protect against unauthorized access to your credit card information, to your password and to your computer. 
+### What kind of information do we collect?
 
-Some versions of browsers and some firewalls don't permit communication through secure servers. In that case, you'll be unable to connect to the server so you won't have to worry about mistakenly placing an order through an unsecured connection. If you can't access the secure server for whatever reason, please place your order by phone at 1-800-SUNGLASS (786-4527),   
-Monday - Friday 7:00 am to 9:00 pm (EST)   
-Saturday - 10:00 am to 6:30 pm (EST).  
-You can also fax your completed order form to 1-800-786-4327. 
+We may collect and store personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, product reviews and ratings, etc., when you create an account with us, place an order online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online. We may combine all of this information with information about you that we acquire from your activity in our stores or via the phone, our joint marketing partners, from unrelated third parties, and from our other brands. 
 
-**Privacy Policies**  
-We are committed to protecting your privacy. We use the information you provide during the checkout process to process your orders and email your order confirmation. Unless you ask us not to, we may also use your e-mail address to tell you about changes in our services or offers we think you will find valuable. You always have the option to "opt-out" of our email program at anytime. If at any time you no longer wish to receive information, emails or notices from SunglassHut.com, simply email us at [unsubscribe@sunglasshut.com](mailto:unsubscribe@sunglasshut.com). 
+We collect and store certain other information automatically whenever you interact with this Web site. For example, we may collect your IP address, browser information, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data and reference site domain name. We also collect information regarding customer traffic patterns and site usage.
 
-Sunglass Hut does not store any of your personal information on our Site, unless you choose to participate in the "Your Account" section of our Site. By setting up "Your Account," you can create your own secure, personalized account to store shipping and billing addresses that you may wish to use on a recurring basis. This convenience will avoid your having to provide us with the same information on subsequent purchases. You will always have the right to access, modify or delete information in "Your Account." 
+### How do we use your information?
 
-Sunglass Hut stores shipping information in an off-Site database which is used solely for processing your order. We do not share, sell, trade or rent your personal information to third parties. 
+  * To process and fulfill your order, including to send you emails to confirm your order status and shipment, and other related emails
+  * To communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, surveys, contests, and promotions, unless you have directed us not to contact you with promotional communications via our opt-out procedure
+  * To administer and fulfill our contests and other promotions
+  * To help us learn more about your shopping preferences
+  * To help us address problems with and improve our site design, products and services
+  * To enhance your shopping experience
+  * To analyze trends and statistics
+  * To protect the security or integrity of our Web sites and our business
+  * To contact you if necessary
 
-We may share aggregated demographic information with our partners and advertisers. This is not linked to any personal information that can identify any individual person. 
 
-From time to time our Site requests information from users via surveys or sweepstakes. Participation in these surveys or sweepstakes is completely voluntary and the user therefore has a choice whether or not to disclose this information. This information will be used to notify winners and for purposes of monitoring or improving the use and satisfaction of our Site. 
 
-Our Site is not intended for use by children under the age of 13, and we do not target or collect personal information from children under the age of 13. We encourage parents to be active in regulating their child's online activities and interests appropriately. 
+We use a third-party tracking service to track non-personally identifiable information about visitors to this Web site in the aggregate. We also use pixels, or transparent GIF files to enable us to learn which advertisements bring users to our Web site. We may from time to time use other third parties for similar type tracking services. Any information we track in this manner is anonymous, limited to usage and volume statistics, and is used to provide insight into the effectiveness of our online marketing initiatives and strategies.
 
-Links to third party websites on our Site are provided solely as a convenience to you. If you use these links, you will leave our Site. We have not reviewed all of these third party sites and do not control and are not responsible for any of these sites, their content or their privacy policy. If you decide to access any of the third party sites linked to our Site, you do so at your own risk. 
+### Who do we share information with?
 
-**Cookies**  
-Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to provide you with extra features on our Site. The cookies do not contain any information that would identify you personally. SunglassHut.com uses cookies only for determining the traffic on our Site and enhancing your visit. 
+We are part of a larger company and we may share information with our parent and affiliated companies.
 
-Thank you for visiting us at Sunglass Hut Online and if we can ever be of assistance please feel free to email us at [sunglasshut_csr@luxotticaretail.com. ](mailto:sunglasshut_csr@luxotticaretail.com)
+We engage third parties to perform services in connection with the operation of our business. Examples of these services include payment processing and authorization, order fulfillment and shipping, marketing, public relations and promotional material distribution and other activities, survey, sweepstakes and contests administration, Web site evaluation and data analysis. We provide personal information to these third parties, but we authorize them to use this information only in connection with the services they perform. These parties may also collect information directly from your use of our site, but we prohibit them from using such information in anything other than an aggregated non-personal form.
 
-[ ](mailto:sunglasshut_csr@luxotticaretail.com)
+We may share aggregated demographic information with our partners and advertisers. Aggregate demographic information is not linked to any personal information that can identify any individual person.
 
-[ ](mailto:sunglasshut_csr@luxotticaretail.com)
+We may release personal information if we believe in good faith that we are required to by law or such release is necessary to protect the rights, property or safety of SunglassHut.com, or any of our affiliates, business partners, customers or others.
+
+As with any business, it is possible that we might go through a business transition, such as a merger, acquisition, sale of all or a portion of our assets, or sell or buy other assets. In such transactions, information about customers often is among the transferred assets. You will be notified via a prominent notice on our site for 30 days of any such change in ownership or control of your personal information. You consent to the transfer of your personally identifiable information to any such successor entity unless you notify us via email to the contrary.
+
+### Opt Out
+
+You always have the option to "opt-out" of our email program or "Your Account" at anytime. If at any time you no longer wish to have Sunglass Hut contact you, or to receive information, emails or notices from SunglassHut.com or our partners, simply [opt out here](https://www.sunglasshut.com/webapp/wcs/stores/servlet/UnsubscribeView#view=close). Also, you will always have the right to access, modify or delete information in "Your Account."
+
+### Children
+
+Our Site is not intended for use by children under the age of 13, and we do not target or collect personal information from children under the age of 13. We encourage parents to be active in regulating their child's online activities and interests appropriately.
+
+### Links
+
+Links to third party web sites on our Site are provided solely as a convenience to you. If you use these links, you will leave our Site. We have not reviewed all of these third party sites and do not control and are not responsible for any of these sites, their content or their privacy policy. If you decide to access any of the third party sites linked to our Site, you do so at your own risk.
+
+### Cookies
+
+Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to provide you with extra features on our Site. The cookies do not contain any information that would identify you personally. SunglassHut.com uses cookies to monitor the traffic on our Site and enhance your visit by among other things, storing items in your shopping cart. Thank you for visiting us at Sunglass Hut Online and if we can ever be of assistance please feel free to email us at [support@sunglasshutonline.com](mailto:support@sunglasshutonline.com).
+
+## California Privacy Policy
+
+If you are a California resident and a Sunglass Hut, Sunglass Hut at Macy's, Ilori, LensCrafters, Pearle Vision, Target Optical or Sears Optical, you have the right to request information from Sunglass Hut about the way in which Sunglass Hut shares certain categories of your personal information with affiliated Luxottica Retail companies for their direct marketing purposes. 
+
+California law provides that you have the right to submit a request to Sunglass Hut at [CAPrivacyPolicy@luxotticaretail.com](https://web.archive.org/web/20111104072750id_/http%3A//www.sunglasshut.com/webapp/wcs/stores/servlet/CAPrivacyPolicy@luxotticaretail.com) and receive the following information: 
+
+  * The covered categories of personal information disclosed by Sunglass Hut to affiliated Luxottica Retail brands for their direct marketing purposes during the preceding calendar year. 
+  * The names of the affiliated companies sharing the Luxottica Retail name which received such information.
+
+
+
+  
+You are entitled to receive a copy of this information in a standardized format, and the information will not be specific to you individually.
