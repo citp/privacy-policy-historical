@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kupmed.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630104521id_/http%3A//www.kupmed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kupmed.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104074724id_/http%3A//www.kupmed.com/privacy-policy) for the most accurate reproduction.*
 
 # 
 
