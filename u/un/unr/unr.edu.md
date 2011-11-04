@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611083703id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104220842id_/http%3A//www.unr.edu/general-information/privacy) for the most accurate reproduction.*
 
-# Privacy: University of Nevada, Reno
+# Privacy: General Information: University of Nevada, Reno
 
 ## Privacy
 
