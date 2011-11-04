@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tennis-x.com privacy policy that was archived on 2011-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110615135449id_/http%3A//www.tennis-x.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tennis-x.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104132950id_/http%3A//www.tennis-x.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Tennis-X.com Privacy Policy
 
