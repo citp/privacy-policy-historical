@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2011-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110105062059id_/http%3A//www.sorel.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sorel.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104174140id_/http%3A//www.sorel.com/Privacy-Policy/Privacy_Policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # SOREL | Privacy Policy
 
-**Last Updated: October 20, 2009**
+**Last Updated: March 24, 2011**
 
 This privacy policy ("Policy") explains how your personal information is collected, used, and disclosed by Columbia Sportswear Company and its subsidiaries and affiliated companies and divisions, including Sorel, Mountain Hardwear, and Montrail ("Sorel" or "We"). Unless we otherwise indicate, this Policy applies to all personal information collected by Sorel from any source, including information collected through our online services and activities, including this Website (collectively, "Sites"), and at retail locations. This Policy will not apply where we display or link to a different privacy policy. 
 
@@ -18,17 +18,24 @@ Web Beacons. We may collect information using Web beacons. Web beacons, or "gifs
 
 We use third party cookies and web beacons to help us compile aggregated statistics about our Sites. We receive assurances from those third parties that they will not collect or access your personal information on our Sites. 
 
+**THIRD PARTY ADVERTISEMENTS**
+
+We may also use third parties to serve ads on our Sites. Certain third parties may automatically collect information about your visits to this and other Web sites, your IP address, your ISP, the browser you use to visit our Sites. They do this using cookies, clear gifs or other technologies. Information collected may be used, among other things, to deliver advertising targeted to your interests and to better understand the usage and visitation of our Sites and the other sites tracked by these third parties. This policy does not apply to, and we are not responsible for, cookies or clear gifs in third party ads, and we encourage you to check the privacy policies of advertisers and/or ad services to learn about their use of cookies and other technology. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit <http://www.networkadvertising.org/managing/opt_out.asp>
+
 **USE OF PERSONAL INFORMATION WE COLLECT**
 
-We use personal information we collect for purposes described in this Policy or as disclosed to you in other ways including on our Sites, in our stores, or in connection with our services. For example, we may use your information to:  
-• provide and deliver products and services;  
-• send you information related to products and services, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages;  
-• communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Sorel and our selected partners;  
-• operate and improve our Sites and services;  
-• process and deliver contest entries and rewards;  
-• manage and administer our community features and member programs and services;  
-• respond to your comments and questions and provide customer service;  
-• link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service. 
+We use personal information we collect for purposes described in this Policy or as disclosed to you in other ways including on our Sites, in our stores, or in connection with our services. For example, we may use your information to: 
+
+  * provide and deliver products and services; 
+  * send you information related to products and services, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; 
+  * communicate with you about new contests, promotions and rewards, upcoming events, and other news about products and services offered by Sorel and our selected partners; 
+  * operate and improve our Sites and services; 
+  * process and deliver contest entries and rewards; 
+  * manage and administer our community features and member programs and services; 
+  * respond to your comments and questions and provide customer service; 
+  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service. 
+
+
 
 Sorel may store and process personal information in the United States and other countries. 
 
@@ -36,12 +43,15 @@ Sorel may store and process personal information in the United States and other 
 
 Certain sections of our Sites are designed as open and public community areas for connecting and sharing with other people. When you sign up for or participate in these areas you will be asked to provide certain information that may be displayed publicly along with photos, stories, posts, and other information you choose to provide. We may also post or publish your information when you submit comments, stories, photos, and videos in connection with surveys, contests, sweepstakes, or promotions offered on the Sites. 
 
-We do not otherwise share your personal information with third parties except as follows:  
-• in an aggregated or anonymized form that does not directly identify you;  
-• with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies;   
-• with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us;  
-• to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of Sorel our agents, members, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and  
-• in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company. 
+We do not otherwise share your personal information with third parties except as follows: 
+
+  * in an aggregated or anonymized form that does not directly identify you; 
+  * with your consent, for example, when you agree to our sharing your information with other third parties for their own marketing purposes subject to their separate privacy policies; 
+  * with third party vendors, consultants and other service providers who are working on our behalf and need access to your information to carry out their work for us; 
+  * to (a) comply with laws or respond to lawful requests and legal process, (b) to protect the rights and property of Sorel our agents, members, and others including to enforce our agreements, policies and terms of use or (c) in the good faith belief that disclosure is needed to respond to an emergency or protect the personal safety of any person; and 
+  * in connection with any merger, sale of company assets, financing or acquisition of all or a portion of our business to another company. 
+
+
 
 **SECURITY OF YOUR PERSONAL INFORMATION**
 
@@ -54,8 +64,8 @@ You may opt out of receiving promotional emails from Sorel by following the inst
 **Sorel  
 Attn: Ecommerce  
 14375 N.W. Science Park Dr.  
-Portland, OR 97229**
+Portland, OR 97229 **
 
 **CHANGES TO THIS POLICY**
 
-Sorel may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above.
+Sorel may change this Policy from time to time. If we make any changes to this Policy, we will change the "Last Updated" date above. 
