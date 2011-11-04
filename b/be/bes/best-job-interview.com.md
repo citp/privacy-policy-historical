@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529030144id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-job-interview.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104050154id_/http%3A//www.best-job-interview.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ www.best-job-interview.com contains links to other sites but we are not responsi
 
 #### Web Searching from this Site
 
-The search box on this web site ("Search Box") is powered by Google Inc ("Google").
+The search box on this web site ("Search Box") is powered by Google Inc ("Google"). You acknowledge and agree that Google's privacy policy (located at <http://www.google.co.uk/privacy.html>) shall apply to your use of the Search Box and by using the Search Box you consent to Google using your personal data in accordance with its privacy policy.
 
 #### Use of Cookies
 
@@ -59,6 +59,12 @@ Your use of this site indicates acceptance of this privacy policy.
 Return to [Best Job Interview](http://www.best-job-interview.com/job-interview-skills.html)
 
   
+**Share this page:  **  
 
 
-[](http://www.sitesell.com/Julia18.html)
+What's This?
+
+| |   
+---|---|---  
+  
+How to share this page with your friends, fans, readers.....
