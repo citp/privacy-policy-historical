@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2011-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110618204303id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallcapnetwork.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104171604id_/http%3A//www.smallcapnetwork.com/Privacy-Policy/s/page/view/p/mid/1/id/3) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy : Documents
 
 Your privacy is very important to us. We want to make your experience with the SmallCap Network as enjoyable and rewarding as possible, and we want you to visit our website with complete confidence.
 
@@ -28,7 +28,7 @@ SCN offers free subscription email newsletters via SmallCap Network.
 
 Subscription requires Members to provide us with an email address and name at time of registration. Members may unsubscribe to any of our electronic newsletters at any time by following the instructions contained at the end of every newsletter. We operate in compliance with CAN-SPAM legislation, and maintain a "Do Not Mail" list of email addresses which will not receive future correspondence from SCN. Instructions for adding an email address to this "Do Not Mail" list are specified within email correspondence from SCN (with the exception of paid subscription newsletter issues).
 
-Email addresses provided to SCN are kept on a secure server. SCN does however make available both email and postal information to selected advertisers. Email advertisers who wish to advertise to SCN's members are required to comply with CAN-SPAM legislation, and provide Members with an easy process of removing from future offers, as well as provide a "Do Not Mail" option for members who do not wish to receive any further communication from a specific advertiser. Members can elect to receive offers directly from SCN as well as sponsorship messages from our partners. Members can elect to discontinue receiving third party advertisements from SCN, while continuing to receive free newsletter content. SCN will not sell to third parties the personally identifiable information of our subscribers except in connection with the sale of all or substantially all of SCN's assets.
+Email addresses provided to SCN are kept on a secure server. SCN does however make available both email and postal information to select affiliates and advertisers. Email advertisers who wish to advertise to SCN's members are required to comply with CAN-SPAM legislation, and provide Members with an easy process of removing from future offers, as well as provide a "Do Not Mail" option for members who do not wish to receive any further communication from a specific advertiser. Members can elect to receive offers directly from SCN as well as sponsorship messages from our partners. Members can elect to discontinue receiving third party advertisements from SCN, while continuing to receive free newsletter content. SCN will not sell to third parties the personally identifiable information of our subscribers except in connection with the sale of all or substantially all of SCN's assets.
 
 SCN does maintain a postal mailing list that is made available to approved advertisers who are offering financial-related products. SCN may share such postal information with such advertisers.
 
@@ -128,3 +128,5 @@ Bonita, CA  91902
 * * *
 
 Last Updated: June 14, 2011
+
+Email addresses provided to SCN are kept on a secure server. SCN does however make available both email and postal information to select affiliate and advertisers. Email advertisers who wish to advertise to SCN's members are required to comply with CAN-SPAM legislation, and provide Members with an easy process of removing from future offers, as well as provide a "Do Not Mail" option for members who do not wish to receive any further communication from a specific advertiser. Members can elect to receive offers directly from SCN as well as sponsorship messages from our partners. Members can elect to discontinue receiving third party advertisements from SCN, while continuing to receive free newsletter content. SCN will not sell to third parties the personally identifiable information of our subscribers except in connection with the sale of all or substantially all of SCN's assets.
