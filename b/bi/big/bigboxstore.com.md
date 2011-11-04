@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bigboxstore.com privacy policy that was archived on 2010-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101227065045id_/http%3A//www.bigboxstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigboxstore.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104140245id_/http%3A//www.bigboxstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy policy
 
 This privacy policy sets out how BigBox Store Ltd uses and protects any information that you give BigBox Store Ltd when you use this website.
 
@@ -15,13 +13,9 @@ BigBox Store Ltd may change this policy from time to time by updating this page.
 We may collect the following information:
 
   * company information
-
   * contact information including email address
-
   * demographic information such as postcode, preferences and interests
-
   * other information relevant to customer surveys and/or offers
-
 
 
 
@@ -30,15 +24,10 @@ We may collect the following information:
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
-
   * Help you quickly find information, products, and services.
-
   * We may use the information to improve our products and services.
-
   * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-
   * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
-
 
 
 
@@ -65,9 +54,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
   * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by going to My Account page or emailing us at service[at]bigboxstore.com
-
 
 
 
