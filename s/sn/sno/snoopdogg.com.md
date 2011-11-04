@@ -1,81 +1,150 @@
-> *The following text is extracted and transformed from the snoopdogg.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328153123id_/http%3A//privacypolicy.umusic.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snoopdogg.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104014516id_/http%3A//www.emimusic.com/privacy) for the most accurate reproduction.*
 
-# UNIVERSAL MUSIC GROUP PRIVACY POLICY
+# Privacy | EMI Music
 
-_Effective:_ December 1, 2004 _  
-Last Updated:_ March 11, 2009
+**Last Updated 7 February 2011**
 
-[Universal Music Group](http://new.umusic.com/flash.aspx) and this site care about your privacy. Universal Music Group consists of: [Interscope Records](http://www.interscope.com/), [Dreamworks Records](http://www.interscope.com/), [A&M Octone Records](http://site.amoctone.com/), [Geffen Records](http://www.geffen.com/), [Island Records](http://www.islandrecords.com/), [Def Jam Recordings](http://www.defjam.com/), [Lost Highway Records](http://www.losthighwayrecords.com/), [MCA Nashville](http://www.umgnashville.com/), [Mercury Records](http://www.umgnashville.com/), [Motown Records](http://www.universalmotown.com/), [Universal Republic Records](http://www.universalrepublic.com/), [Universal Records South,](http://www.universal-south.com/) [Verve Music Group](http://www.vervemusicgroup.com/), [Decca Label Group,](http://www.deccalabelgroup.com/) [Universal Music Latin Entertainment](http://www.universalmusica.com/) and [Universal Music Enterprises](http://www.universalmusicenterprises.com/) as well as a multitude of record labels owned or distributed by its record company subsidiaries around the world. This privacy policy tells you what information we collect at our web sites and how we use it. If you choose to visit any of the Universal Music Group web sites, your visit is subject to this privacy policy, and you agree to the terms of it.
+This is the Privacy Policy of EMI Group Limited and its subsidiary companies (collectively “ **EMI** ”, “ **we** ”, “ **us** ”), which applies to this website (the “ **Website** ”).  A full list of the EMI group companies that may jointly use personal data about you pursuant to this policy is available at [http://www.emimusic.com/d2c/emi-list-of-companies/](https://web.archive.org/d2c/emi-list-of-companies/ "/d2c/emi-list-of-companies/").
 
-**WHAT INFORMATION WE COLLECT**
+EMI Group Limited is the entity responsible for the management of jointly used personal data.
 
-There are many places at our sites where you can share your personal information with us, and where you can communicate with others.
+In conjunction with any applicable Terms and Conditions of Use, this policy sets out the basis on which any personal data you provide will be collected, processed and stored by us. Please read it carefully. By visiting this Website you are accepting and consenting to the practices described in this Privacy Policy which may be amended from time to time.  If you use the Website after we have published such changes, you will be agreeing to be bound by those changes.  If you do not agree to be bound by this policy at any time, you should not use the Website.
 
-**Registration.** Some of our sites give you the opportunity to register with us, and sometimes registration is required before certain site features can be used. Our registration forms may request your contact information (such as your name, email address, mailing address, etc.), demographic information (such as your country, gender, etc.), and profile data (such as your music preferences, entertainment practices, etc). You may be assigned a site username and/or password. For our internal purposes, we use this information to communicate with you and provide the services you have requested, and to provide a more personalized experience on our sites. For example, your registration may allow you to use and post to site message boards, create site profiles, etc. We use aggregate demographic and profile information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others. By visiting our sites, you affirmatively consent to our collection and use of your data.
+**Children**
 
-**Newsletters and Other Communications from Us.** Our registered users and customers may receive newsletters, email communications, or communications through other channels for, among other purposes, the promotion and marketing of a product or service from our family of sites and record labels, as well as other Vivendi Universal companies, and business partners, and we may also offer other visitors to our sites the opportunity to sign up to receive such information. When there is a separate sign-up for newsletters, we ask for contact information such as name and email address, and, sometimes, demographic and profile information. By visiting our sites, you affirmatively consent to our collection and use of your data. We use this information in the same manner as we use the contact information in the Registration process described above. We may offer our users the choice whether to receive mailings from others that we think will be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of email communications. Note that in order to keep our registered users informed about the operation of our services, we may send emails and announcements that are needed for the proper functioning and administration of our sites and service.
+You must be at least 13 years old to register with us.  Please do not provide any of your details to us if you are under 13 years old.  If you are between the ages of 13 and 16 please ensure that you have your parent’s or guardian’s consent to register and/or before you provide any personal data to the Website.  Users without this consent are not allowed to provide us with personal data. If we become aware that you are under 13 and are attempting to or have submitted personal data via the Website, or that you are between the ages of 13 and 16 and are attempting to or have submitted personal data via the Website without your parent/guardian’s permission, we will not accept such information and we will take steps to remove such information from our records. This may involve us having to access and verify your age and other relevant details.
 
-**Communications with Us.** We have features where you can submit information to us (such as when contacting us with a question or feedback). We may retain your emails and other information you submit to us for our internal purposes, and to help us to serve you better.
+**Introduction**
 
-**Communications with Friends.** We may offer features where you can send information to others, such as e-cards or "Tell A Friend" features. We will use the contact information you enter for your friends to send the email or e-card.
+This Privacy Policy explains the following:
 
-**Interactive and Community Features.** Our sites may offer interactive and community features, such as message boards, chat, email accounts, short message service (SMS), instant messaging, profiles, personal homepages, etc. All information posted or sent through these features may be publicly available, and you should be aware that when you voluntarily disclose personal information (e.g., user name, email address, phone number) through these features, that information can be collected and used by others and may result in unsolicited communications from other people. By accessing these features and disclosing personal information, you affirmatively consent to the distribution of your personal information as described above. Users' posts may be publicly and/or internally associated with their profiles/screen-names. Users are solely responsible for the content of messages they post or send on public forums.
+  * What data we collect about you;
+  * Analysis tools and our use of cookies on the Website and how you can reject these cookies;
+  * How EMI stores data about you;
+  * Passwords;
+  * How EMI uses data about you ;
+  * When and how we communicate with you;
+  * Whether we will disclose personal data about you  to anyone else;
+  * How you can opt-out from receiving communications from us;
+  * How you can opt-out from our sharing personal data about you;
+  * How long we may keep personal data about you; and
+  * How to contact us.
 
-**Contests, Sweepstakes and Surveys.** We may also have contests, sweepstakes and surveys at our sites. When you enter or participate in them, we request contact information from you (such as your full name, email address, mailing address, and telephone number) and may also request demographic or profile information. We will use the information you provide for the purpose of conducting the promotion (for example, to contact you if you have won). We may also use the information to send you newsletters and other information we think may be of interest. Recipients of our mailings can unsubscribe by following instructions that may appear at the end of the email communication. Any personal information we collect may be associated with registration information. We may share aggregate information with others. We may sometimes partner with sponsors in offering contests, sweepstakes or surveys, and may share (provide and receive) information with them. By entering or participating in such contests, sweepstakes, and surveys, you affirmatively consent to our collection and use of your data.
 
-**AUTOMATIC DATA COLLECTION**
 
-Our web sites have features that automatically collect information from users to assist us in creating sites that honor our users' preferences and serve their interests and needs.
+**What data we collect about you and why**
 
-Some of our sites use cookies, which are small data files containing information about the user that are stored on the user's hard drive. Some cookies are used to make login to our sites easier (such as by remembering usernames and passwords). Cookies can also enable us to track users' movements and target their interests to enhance their experience at our sites. We may also collect clickstream data and assign unique identifiers to our users for the same purposes. Information obtained with these technologies may be associated with your personal information so we can better market to you and customize our advertisements and promotions to your interests. 
+  * When you use the Website, there are different ways we and any service providers who assist us in managing the Website gather information about you. When you register with us, we ask for information such as your name, email address, postal address and contact details.  We keep a record of this information and any other information relating to you that we may obtain from our suppliers or other third parties.  This record will be stored and processed in the United Kingdom and other countries (see further below under “How we store data about you” and “How we use personal data about you”).  All this is necessary for us to recognise you, provide you with the services or information you have requested from us and, where appropriate, to maintain your account with us.  In addition to the uses described below, we may also use this information to improve our platform and prevent or detect abuses of our Website. You may also be required to provide personal data to order products or participate in one of our online forums or communities. You are under no obligation to provide such data. However, if you should choose to withhold requested information, we may not be able to provide you with certain services.
 
-  We may use third-party advertising companies to serve ads when you visit our web sites.  These companies may use information (not including your name, address, email address or telephone number) about your visits to our sites and other web sites on the Internet in order to provide advertisements about goods and services of interest to you.  If you would like to learn more about this practice or find out how you can opt out from allowing these companies to gather this information or use it to display targeted ads, please visit the NAI’s website at [ http://networkadvertising.org/consumer/opt_out.asp](http://networkadvertising.org/consumer/opt_out.asp). 
 
-Most common web browsers today, such as Firefox and Internet Explorer, allow you to modify your settings to block cookies entirely, alert you every time they are being sent, or allow their use by only those web sites you choose.  You can also delete cookies that are currently stored on your computer’s hard drive.  To do this within Firefox or Internet Explorer, go to Tools, then Options or Internet Options, and then choose the Privacy tab to make your selections.  If you choose to disable cookies, certain features on our web sites may not be available or work properly.  Also, please note that if you disable/delete all cookies stored on your computer, you will have also disabled the cookies that are used by NAI to help prevent you from receiving unwanted advertising from third party ad networks.  If you do not want this to happen, please make sure not to disable/delete the NAI cookie or add NAI to the approved list of sites from whom you allow/accept cookies.     Through the use of web logs or log files, we may also gather information such as the date, time, browser type, navigation history, and IP address of all visitors to our site(s). We use this information for our internal security audit log, trend analysis, and system administration, and to gather broad demographic information about our user base. We may associate this information with your personal information. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
+  * We keep a record of any electronic correspondence you send us.  This helps us to keep track of any problems or concerns you may have had with our Website or services.
 
-**WITH WHOM YOUR INFORMATION IS SHARED**
 
-Information provided at Artist sites that we host or manage may be shared with that Artist, including their management, representatives, and any new label they may join. As with other third parties, we are not responsible for how the Artists handle the data once they receive it. When we have co-branded or sponsored services, when we host a site, or when we join with other parties to provide specific services, we may share (provide and receive) your personal information with them. By visiting these sites, you affirmatively consent to our collection, use and distribution of your data.   
-We may share your information with other third parties with whom we have business relationships and, in some cases, we cannot control or know their privacy practices. By visiting our sites, you affirmatively consent to our collection, use, and distribution of your data.
+  * If retail opportunities are provided, when you place an order, we may collect a credit card number or other payment account number. This record will be stored and processed in the United Kingdom and other countries (see further below under “How we store data about you” and “How we use personal data about you”).
 
-Other than as set forth in this policy, we do not share your personally identifiable information with other companies, apart from those acting as our agents in providing our service to you, and which agree to use it only for that purpose and to keep the information secure and confidential. Also, please be aware that our parent company, Vivendi Universal, including all its business units, subsidiaries, affiliates and sites, Universal Music Group's subsidiary and affiliated companies and sites, entities into which our companies may be merged, or entities to which any of our assets, products, sites or operations may be transferred, may obtain from us and be able to use your personal information. We will also disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena or other legal obligation, in response to a law enforcement agency's request, or in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property. You should also be aware that courts of equity, such as U.S. Bankruptcy Courts, may have the authority under certain circumstances to permit your information to be shared or transferred to third parties without your permission. 
 
-We may share (provide and receive) aggregate information, which is not personally identifiable, with others. This information may include demographic data such as the gender and/or geographic location of groups of users, but it will not include personal information (such as your name or email address). We use aggregate demographic information about our audience in order to improve our service, for research purposes, marketing/promotional purposes and/or for industry reporting purposes, among others.
+  * Please note that sometimes on particular web pages on the Website we will require you to provide additional personal data. When we do this we will specify further on these web pages why we are collecting this data and how we will use it.
 
-**CHOICE**
 
-By accepting this privacy policy, you expressly choose to receive certain communications from us and third parties, and you expressly agree to the privacy practices described herein. Our sites may also provide you with additional specific opportunities to select communications you wish to receive. You may change your privacy preferences, e.g. choose to cease receiving certain communications, by informing us of your new preferences. We will be able to honor your new preferences most quickly if you inform us of them by following the appropriate instructions in any communication you receive from us. Please be aware that messages you receive from us through SMS and instant messaging systems (and other systems apart from email) may not include an option to cease receiving communications; to change your privacy preferences with respect to those communications, please go to the profile page at the site where you provided your personal information or direct your instructions to the Contact identified at the end of this policy.
 
-**ACCESS**
+**Analysis Tools and our use of cookies**
 
-If a user's personally identifiable information changes (such as zip code), we endeavor to provide a way to correct or update that user's personal data. Please feel free to contact us if you have any questions regarding making changes to your data.
+  * We currently use Google Analytics to analyse how visitors use our Website and to find ways of improving it.  To do this, we use Web beacons, pixel tags, clear GIFs and cookies on the Website; these are text files that collect and log site user behaviour information including IP addresses (the number automatically assigned to your computer by your Internet Service Provider) in an anonymous form. The information collected is transmitted to Google and used to compile statistical reports for us.  The information concerned is not used to track or collect any information which may be used to identify a particular individual.  All information is used and held anonymously. ** __**
 
-**DATA COLLECTION FROM CHILDREN**
 
-We strive to comply with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect personal information from U.S. children under 13 without appropriate parental notice and consent. Sites that are directed to children where personal information is collected should have a Children's Privacy Policy setting forth our COPPA-compliant practices. At many sites, we actively screen-out children from data collection and/or use of interactive or community features. We are committed to protecting children's privacy.
+  * We may also use cookies and other technologies to optimise your experience on the Website.  Cookies are pieces of information that a website transfers to your hard drive to store and sometimes track information about you. Cookies can be used to recognise users when they return and may help us to customise the Website for you based on your preferences.  Cookies may also be used to identify the user’s geographic location and enable us to restrict particular services to users in certain countries. Although they do identify a user’s computer, cookies do not personally identify users and passwords and credit card information are not stored in cookies.
 
-**NOTICE: Visit[www.ftc.gov/kidzprivacy](http://www.ftc.gov/kidzprivacy) for information from the Federal Trade Commission about protecting children's privacy online.**
 
-**SECURITY**
+  * We control how the data collected from our cookies and other technologies may and may not be used.  If you do not want to help us to learn how to improve our Website, products, offers and marketing strategy, you can “opt-out” of our ability to analyse such data and disable cookies by modifying the settings in your browser.  Please note that this might affect some functionality on the Website.  For more information about cookies and how to disable them, please go to [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-Security for all personally identifiable information is extremely important to us. We store your personal information securely, and use special procedures designed to protect the information we collect from loss, misuse, unauthorized access or disclosure, alteration or destruction. 
 
-**MERCHANT/E-COMMERCE AREAS**
+  * Third-party advertisers on the Website may use cookies and other technologies in their advertisements for statistical purposes; we have no control over cookies placed by third parties.
 
-We do not generally make e-commerce offerings at our sites. Some of our sites do have merchant/e-commerce areas, where users can purchase merchandise. Universal Music Group does not run those areas of our sites. Personal information collected at those areas is not shared with Universal Music Group without the purchasers' consent. At each of those areas, we endeavor to provide a privacy policy link where users can review the privacy policies that apply to data collection and use at those areas, and we urge our users to review them. Please be aware that the site at iClassics.com is an exception, where we do make e-commerce offerings, and it is covered by a separate privacy policy. Please review it if you use that site.
 
-**LINKS**
 
-We may provide links to non-Universal Music Group sites. We are not responsible for those other sites, their privacy policies or how they treat information about their users, and we advise you to check their privacy policies.
+**How we store data about you**
 
-**PRIVACY POLICY CHANGES**
+In order to communicate with you about local events, offers and opportunities and other news, the data that we collect from you may be transferred to, stored and processed by EMI or one of our service providers based in Europe, North America, South East Asia, Asia Pacific or Latin America. **__** Such entities may be engaged in, among other things: preparing and sending newsletters to which you subscribe; the fulfilment of your orders; the processing of payment details; and the provision of support services.  The laws of some countries may not provide the same levels of protection of personal data as your home country, particularly if you are resident in the EEA.  By submitting data, you agree to the collection, transfer, storage and processing of data about you for the purposes described in this policy.  We will take reasonable steps to ensure that data about you is treated securely in accordance with this Privacy Policy, and that all information you provide to us is stored on our secure servers or those of our service providers.
 
-We reserve the right to modify, alter or otherwise update this Privacy Policy at any time, so we encourage you to review this policy from time to time. Changes to this privacy policy are effective at the time they are posted and your continued use of our sites after posting will constitute acceptance of, and agreement to be bound by, those changes. 
+**Passwords**
 
-**CONTACT**
+Where we have given you (or you have chosen) a password to access the Website, you are responsible for keeping this password confidential.  Please do not share the password with anyone.  We will never contact you and ask for your password.
 
-If you have any questions about our privacy practices, please feel free to contact us at:
+**How we use personal data about you**
 
-**UMG Privacy Officer**  
-2220 Colorado Avenue, Santa Monica , CA 90404  
-(310) 865-5000 or email us by [clicking here](http://privacypolicy.umusic.com/email/default.asp).
+All the information we collect via our Website, or through correspondence with you, is used to provide you with any information, products or services you have requested, to operate EMI’s business and to improve the services and products that we offer you.  We will use personal data about you for purposes such as:
+
+  * managing the Website and access to it so that it is presented in the most effective way for you and your computer;
+  * dealing with orders and accounts for the supply of our goods and services;
+  * planning and managing EMI’s business activities, including analysing users’ preferences;
+  * research;
+  * providing you with information about the products and services we offer (subject to your preferences where possible);
+  * providing you with information about specially selected third party products and services (if you consent to receive such information on registration);
+  * notifying you of any changes to our products and services;
+  * providing you with password reminders or to notify you that a particular service has been suspended for maintenance; and
+  * processing and dealing with any complaints or enquiries made by you.
+
+
+
+As described above data may be shared within EMI. There are only a limited number of circumstances in which we may share with others some or all of the data about you that we hold; these are set out below.
+
+  * With local agents and other third parties who assist us in the services we provide to you by, for example, hosting sites or sending emails on our behalf, and with retail partners on the Website.  In these instances, we provide them with only the information that they will need to perform their function. EMI requires these third parties to comply with EMI’s instructions and requires them not to use any personal data for their own business purposes.
+  * In the event that our business assets are ever sold to, or purchased by, another company (our data records are part of our business).
+  * With our joint venture partners.
+  * Where you have expressed an interest in one or more particular artists and have consented to the sharing of information with any such artist(s), we may share personal data about you with such artists and their representatives.  Such artists may use this information to contact you regarding products, programs, services and promotions that the artists believe may be of interest to you.  We do not control, and are not responsible for, artists’ use of personal data.  If you decide that you no longer wish EMI to be able to share personal data with artists and their representatives, please see the section on opting-out below.
+  * If we are under a duty to disclose or share personal data about you in order to comply with any legal obligation, at the request of relevant regulatory or governmental  authorities, pursuant to a subpoena or comparable binding request, or in order to enforce or apply our Terms and Conditions of Use of this Website, or to protect the rights, property or safety of EMI, its customers, or others.
+  * We may make available services such as message boards, chat functionality and blogs, to which you are able to post information and materials.  Please note that any information you disclose through such services or otherwise on the Website becomes public information, and may be available to visitors to the Website and to the general public.  In addition, when you choose to make a posting on such services certain personal data will be available for other users to view.  We urge you to exercise discretion and caution when deciding to disclose personal data about you, or any other information, on the Website.  WE ARE NOT RESPONSIBLE FOR THE USE BY ANY THIRD PARTY OF ANY PERSONAL DATA YOU VOLUNTARILY DISCLOSE THROUGH ANY SUCH SERVICES OR OTHERWISE ON THE WEBSITE.
+  * With your express consent.
+
+
+
+So far as practicable we will seek to ensure that each disclosure will be subject to an obligation of confidentiality.
+
+We may also share anonymised, aggregated data, such as access statistics, with third parties such as advertisers.  This will not involve the identification of individuals.
+
+**When and how we communicate with you and how you can opt-out from receiving future communications or from our sharing personal data about you**
+
+We may use the information we collect to contact you by post, email and telephone (including automated calls, and by SMS text messages and other multimedia electronic messages such as picture messaging) so as to contact you:
+
+  * in relation to the functioning of any services you have signed up for in order to ensure that we can deliver the services to you;
+  * to provide you with further information;
+  * in relation to any contribution you have made to the Website, e.g. on our message boards;
+  * to invite you to participate in surveys about our services (participation is always voluntary);
+  * for marketing purposes subject to any elections that you have made in this respect;
+  * about a submission you have made to the Website, including any content you provide.
+
+
+
+We will not send you unsolicited premium rate SMS messages (which are SMS messages you pay to receive), although your service provider may impose a charge on messages that you receive. Please check with your service provider for details.  You will be given the opportunity to opt-out of receiving such marketing information at the point when your details are collected.  All promotional information from us will come with instructions on how to opt-out from receiving further information in the future.
+
+You can tell us not to contact you or share the information with a third party either at initial registration or later through updates.  We may occasionally contact you about products and services we feel may be of interest to you.  This contact will only come from us (or our agents) and only if you have indicated that you do not object to these offers.  If you would prefer to no longer receive marketing-related messages from us, or if you would prefer that we not share personal data about you with any of our joint venture partners or artists, you may opt-out of receiving messages from us or from our future sharing of information about you by following the “unsubscribe” instructions in the latest such message you have received. We will endeavour to comply with your request as soon as reasonably practicable.  Please keep in mind that if you opt-out of receiving promotional messages from this Website, we will continue to send you transactional messages and important account-related information regarding this Website or services offered through this Website.  We also will continue to honour your requests regarding promotional communications from other EMI websites for which you have subscribed.
+
+Please note that if you opt-out as described above, we will not be able to remove personal data about you from the databases of joint venture partners or any artists with which we have already shared personal data about you (i.e., to which we have already provided personal data about you as of the date that we implement your opt-out request).  If you wish to cease receiving marketing-related messages from such joint venture partners or any artists, please contact such joint venture partners or any artists directly or utilize any opt-out mechanisms set out in their respective privacy policies or marketing-related messages.
+
+**Data over the Internet and other websites**
+
+The Internet is a global network and, therefore, there are times when data about you travels globally and may not always be completely secure.  If you provide us with data over the Internet, this will be at your own risk.  By using the Website, you agree and authorise us to process data in this way.  However, please be assured that we use commercially reasonable procedures and security features to prevent unauthorised access to data about you.
+
+Where the Website contains links to third party websites, please note that these have been included for convenience only.  Neither EMI nor any of its affiliated companies, controls the content of any linked site and any personal data collected by such sites will be subject to the privacy policy of the third party operating that site.  Please read any such third party’s policy carefully before providing any personal data on such websites.
+
+We sometimes may offer content (e.g., competitions, sweepstakes, or promotions) sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that you voluntarily submit to participate in the Website activity. We are not responsible for and have no control over these third parties’ use of this information. However, we will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
+
+We may use third parties to present or serve the advertisements that you may see on the Website. This Privacy Policy does not cover any use of data that a third party ad server may have collected from you.
+
+**Offensive or inappropriate content**
+
+If you post or send offensive, inappropriate or objectionable content anywhere on or to the Website, or otherwise engage in any disruptive behaviour on the Website, we may use the personal data we hold about you to stop such behaviour. Where we reasonably believe that you are or may be in breach of any applicable laws (for example, but without limitation, content you have posted may be defamatory), we may use the personal data we hold to inform relevant third parties such as your employer, school email/Internet provider or law enforcement agencies about the content and your behaviour.
+
+**Legal disclaimer**
+
+We are not responsible nor will be liable to you in any way for events beyond our direct control. Because of the complex and constantly changing nature of our technology and business, we cannot guarantee nor do we represent that our performance will be error free, and to the maximum extent permitted by law we will not be liable for any direct, indirect, incidental, consequential or punitive damages or other loss suffered by you and relating to the use or release of your personal data.
+
+**How long we will hold personal data about you**
+
+We will hold personal data about you on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with EMI, subject to any applicable laws and/or regulations. In the case that you wish to cancel your registration as a member of the Website once an account is deleted, people cannot use the personal data about you other than for administrative purposes, but it stays on the system for a period of one year for administration purposes before being deleted.
+
+Where you contribute to the Website, we will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
+
+**Further Information; How to contact us**
+
+If you have questions about personal data relating to you, or our privacy policy, or wish to change or update data we hold about you, please contact us at [privacy@emimusic.com](mailto:privacy@emimusic.com).  To see all of the information we have about you, and to correct any inaccuracies, change your options in relation to the information you wish to receive or to cancel your registration, please write to The Data Controller, EMI Group Limited, 27 Wrights Lane, London W8 5SW.  Any access request may be subject to a fee of £10 to meet our costs in providing these details.  Residents of the United States may send questions and communications regarding personal data and our privacy policy to [privacypolicy@emimusic.com](mailto:privacypolicy@emimusic.com)
