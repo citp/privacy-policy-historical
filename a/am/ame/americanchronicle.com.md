@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanchronicle.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226064742id_/http%3A//www.americanchronicle.com/notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanchronicle.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104212617id_/http%3A//www.americanchronicle.com/notices/privacy) for the most accurate reproduction.*
 
 # American Chronicle | Privacy Policy
 
