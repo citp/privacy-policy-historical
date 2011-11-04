@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windows7news.com privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505082713id_/http%3A//www.windows7news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows7news.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105004214id_/http%3A//www.windows7news.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Windows 7 News
+# Privacy Policy
 
 Windows 7 News may from time to time collect names and/or details of website visitors. This may include the mailing list, blog comments sections and in various sections of the Windows 7 News site.These details will not be passed onto any other third party or other organisation unless we are required to by government or other law enforcement authority.
 
