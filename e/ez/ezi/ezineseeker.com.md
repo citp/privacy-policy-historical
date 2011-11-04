@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ezineseeker.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530075727id_/http%3A//ezineseeker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezineseeker.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104025741id_/http%3A//ezine9.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policies at EzineSeeker - Search Engine Article Directory
+# Privacy Policies at Ezine9 - Search Engine Article Directory
 
 **What does this privacy policy cover?**
 
-EzineSeeker sees great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which EzineSeeker collects, uses, and discloses the personal information provided by you as a result of the use of EzineSeeker's Web Site and the content, information and services provided through the Web Site by EzineSeeker. This policy does not cover how EzineSeeker treats personal information that it obtains from other sources, such as offline, on other websites, or through email communications. This policy also does not apply to the practices of companies that Helium does not own or control, or to people that EzineSeeker does not employ or manage. 
+Ezine9 sees great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which Ezine9 collects, uses, and discloses the personal information provided by you as a result of the use of Ezine9's Web Site and the content, information and services provided through the Web Site by Ezine9. This policy does not cover how Ezine9 treats personal information that it obtains from other sources, such as offline, on other websites, or through email communications. This policy also does not apply to the practices of companies that Helium does not own or control, or to people that Ezine9 does not employ or manage. 
 
 **Users' Consent**
 
-BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.EzineSeeker.COM AND/OR ANY OTHER SITE PROVIDED BY EzineSeeker (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. EzineSeeker reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by EzineSeeker will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please contact us if you have any questions about our privacy policy.
+BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.Ezine9.COM AND/OR ANY OTHER SITE PROVIDED BY Ezine9 (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. Ezine9 reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by Ezine9 will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please contact us if you have any questions about our privacy policy.
 
 **Collection and Use of Information**
 
@@ -28,10 +28,10 @@ We collect the IP addresses of all visitors to our Site. We use your IP address 
 
 **Hyperlinks**
 
-This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. EzineSeeker has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over, the privacy policies of any of these sites. When you leave our Site, including by linking from the Site to another site, you should read the privacy policy, if any, provided by such site.
+This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. Ezine9 has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over, the privacy policies of any of these sites. When you leave our Site, including by linking from the Site to another site, you should read the privacy policy, if any, provided by such site.
 
 The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the state of Israel according to the provisions of the then policy in effect. 
 
-EzineSeeker will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at it's discretion in order to provide you with competent and effective service. 
+Ezine9 will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at it's discretion in order to provide you with competent and effective service. 
 
-In order to assist in protecting the confidentiality of your personal information, EzineSeeker applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, EzineSeeker cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+In order to assist in protecting the confidentiality of your personal information, Ezine9 applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, Ezine9 cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
