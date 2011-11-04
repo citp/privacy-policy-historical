@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngliving.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228023000id_/http%3A//youngliving.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngliving.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104191705id_/http%3A//www.youngliving.com/en_US/privacy.html) for the most accurate reproduction.*
 
 # Young Living Essential Oils Privacy Statement
 
@@ -13,35 +13,35 @@ Lehi, UT 84043**
 
 We can be reached via e-mail at [custserv@youngliving.com](mailto:custserv@youngliving.com), or you can reach us by telephone at 1-800-371-3515.
 
-By using our website, you are agreeing to be bound by the following policies in regards to collection and privacy of personal data.
+By using our website, you are agreeing to be bound by the following policies in regards to collection and privacy of personal data:
 
-## Recognition, Collection, and Uses of Personal Data We Collect
+## Recognition, Collection, and Uses of Personal Data
 
-When you visit our webpage, our web server automatically recognizes only your computer's domain name, but not your e-mail address or any other personally identifiable information. This renders your visit virtually anonymous, unless you log in to one of the controlled-access areas of our site or otherwise volunteer other personal information (such as survey information and/or site registrations, name and address, telephone number, fax number, and payment information). We also may collect anonymous aggregate information on what pages you and other consumers access or visit; user-specific information on what pages you or other consumers access or visit; and any information volunteered by you, the consumer, in connection with our business.
+When you visit our webpage, our web server automatically recognizes only your computer's domain name, but not your e-mail address or any other personally identifiable information. This renders your visit virtually anonymous, unless you log in to one of the controlled-access areas of our site or otherwise volunteer other personal information (such as survey information and/or site registrations, name and address, telephone number, fax number, and payment information). We may also collect anonymous aggregate information on what pages you and other consumers access or visit; user-specific information on what pages you or other consumers access or visit; and any information volunteered by you, the consumer, in connection with our business.
 
-The aggregate information we collect is used for many different purposes in order to serve you better. Among these purposes are to improve the content of our webpage; to customize the content and/or layout of our page for each individual visitor; and to notify consumers about updates to our website. We will disclose personal data we have collected only when legally required to do so at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing our website and applicable laws; or to protect against misuse or unauthorized use of our website. Certain information about you may be available to authorized distributors, who can view information regarding the product order history, names, and addresses of distributors or customers in their own downline, but payment information you may give us in the course of ordering our products will be disclosed only to necessary Distributor Network Services staff to fulfill your order, and will never be available to an outside third party for any reason but a legal investigation. Social Security or Taxpayer Identification numbers may also be collected from you upon sign-up as a Young Living distributor, but will only be used in accordance with Internal Revenue Service policy—they will not be available to anyone else for any other purpose.
+The aggregate information we collect is used for many different purposes in order to serve you better. Among these purposes are to improve the content of our webpage; to customize the content and/or layout of our page for each individual visitor; and to notify consumers about updates to our website. We will disclose personal data we have collected only when legally required to do so at the request of governmental authorities conducting an investigation; to verify or enforce compliance with the policies governing our website and applicable laws; or to protect against misuse or unauthorized use of our website. Certain information about you may be available to authorized distributors, who can view information regarding the product order history, names, and addresses of distributors or customers in their own downline, but payment information you may give us in the course of ordering our products will be disclosed only to necessary Customer Care Department staff to fulfill your order, and will never be available to an outside third party for any reason but a legal investigation. Social Security or Taxpayer Identification numbers may also be collected from you upon sign-up as a Young Living distributor, but will only be used in accordance with Internal Revenue Service policy—they will not be available to anyone else for any other purpose.
 
 ## Use of "Cookies"
 
-"Cookies" are short strings of information that are collected upon your visit to our site in order to enhance your web browsing experience. We use cookies to store visitors' preferences, such as items placed in your online shopping cart, in order to make your interaction with our site more personal. Web browsers can be modified in order to prevent cookie collection; however, this may impact your browsing activities. If you wish to prevent the collection of cookies, the "Help" portion of your browser will give instructions on how to disable this feature.
+"Cookies" are short strings of information that are collected upon your visit to our site in order to enhance your web-browsing experience. We use cookies to store visitors' preferences, such as items placed in your online shopping cart, in order to make your interaction with our site more personal. Web browsers can be modified in order to prevent cookie collection; however, this may impact your browsing activities. If you wish to prevent the collection of cookies, the "Help" portion of your browser will give instructions on how to disable this feature.
 
 ## Use of Your E-Mail Address and Opting Out 
 
- When you become a member of Young Living Essential Oils, you supply an e-mail address and choose to not opt out of receiving e-mail communications from Young Living and/or if you sign up to receive e-mail communications from Young Living via another format, you may receive periodic emails from us or from select trusted third-party vendors only with information on new products, services, upcoming events, or other topics. If you do not wish to receive such e-mail, please let us know by calling the telephone number (1-800-371-2928 ) above or sending your request to us via e-mail ([ _custserv@youngliving.com_](mailto:custserv@youngliving.com) ) or postal mail at the addresses at the top of this page.
+ When you become a member of Young Living Essential Oils, you supply an e-mail address and choose to not opt out of receiving e-mail communications from Young Living and/or if you sign up to receive e-mail communications from Young Living via another format, you may receive periodic e-mails from us or from select trusted third-party vendors only with information on new products, services, upcoming events, or other topics. If you do not wish to receive such e-mail, please let us know by calling (1-800-371-2928 ) or sending your request to us via e-mail ([ _custserv@youngliving.com_](mailto:custserv@youngliving.com) ) or postal mail at the addresses at the top of this page.
 
-When making your request, please provide us with your exact e-mail address, so we may accurately fulfill your wishes.
+When making your request, please provide us with your exact e-mail address, so we can accurately fulfill your wishes.
 
 ## Use of Your Postal Address and Opting Out
 
 If you supply Young Living with your postal address, you may receive periodic mailings from us or from select trusted third-party vendors only with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the above telephone number or by sending your request to us via e-mail or postal mail at the addresses at the top of this page.
 
-When making your request, please provide us with your exact name and address, so we may accurately fulfill your wishes.
+When making your request, please provide us with your exact name and address, so we can accurately fulfill your wishes.
 
 ## Use of Your Telephone Number and Opting Out
 
- Persons who supply us with their telephone numbers online may receive periodic telephone contact from us or from select trusted third-party vendors only with information regarding new products and services or upcoming events, as well as customer service calls from our Distributor Network Services. If you do not wish to receive such telephone calls, please let us know by calling us at the above telephone number or by sending your request to us via e-mail or postal mail at the addresses at the top of this page.
+ Persons who supply us with their telephone numbers online may receive periodic telephone contact from us or from select trusted third-party vendors only with information regarding new products and services or upcoming events, as well as customer service calls from our Customer Care Department. If you do not wish to receive such telephone calls, please let us know by calling us at the above telephone number or by sending your request to us via e-mail or postal mail at the addresses at the top of this page.
 
-When making your request, please provide us with your name and phone number so we may accurately fulfill your wishes.
+When making your request, please provide us with your name and phone number so we can accurately fulfill your wishes.
 
 ## Third-Party Advertisers
 
@@ -55,19 +55,19 @@ Customers may prevent their information from being used for purposes other than 
 
 ## Accessing Your Personal Information
 
-Upon request we will provide site visitors with access to a description of the information that we maintain about them. Consumers can access this information by calling us at the above telephone number, and then verifying to Distributor Network Services security information known only to you, prior to your receiving access to the requested data.
+Upon request we will provide site visitors with access to a description of the information that we maintain about them. Consumers can access this information by calling us at the above telephone number, and then verifying to Customer Care Department security information known only to you, prior to your receiving access to the requested data.
 
 ## Correction of Factual Inaccuracies
 
-If there are factual inaccuracies in any information that we maintain about you that you wish to correct, please notify Distributor Network Services at the above phone number.
+If there are factual inaccuracies in any information that we maintain about you that you wish to correct, please notify Customer Care Department at the above phone number.
 
 ## Website Security Precautions
 
-With respect to website security, when we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
+With respect to website security, when we transfer and receive certain types of sensitive information, such as financial information, we redirect visitors to a secure server. We also have appropriate security measures in place in our physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our site.
 
 ## Our Commitment to Children's Privacy
 
-Because the privacy of children's information is especially important, we do not knowingly collect information from persons under the age of eighteen, and this website is not structured to attract anyone under that age.
+Because the privacy of children's information is especially important, we do not knowingly collect information from persons under the age of 18, and this website is not structured to attract anyone under that age.
 
 ## Accountability
 
