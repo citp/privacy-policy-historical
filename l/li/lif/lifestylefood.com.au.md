@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lifestylefood.com.au privacy policy that was archived on 2010-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101219072558id_/http%3A//www.lifestylefood.com.au/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylefood.com.au privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104193822id_/http%3A//www.lifestylefood.com.au/about/privacypolicy.aspx) for the most accurate reproduction.*
 
-# LifeStyle FOOD | Terms & Conditions
+# LifeStyle FOOD
 
-#### Introduction 
+#### Introduction
 
 This website ('Site') is owned and operated by XYZnetworks Pty Ltd, ABN 71 066 812 119 ('XYZ, we, our, us'). XYZ is committed to the protection of personal information provided by you to the Site.   
 This Privacy Policy applies to the collection, storage, use and dissemination by XYZ of your personal information ('Your Personal Information'). By ‘personal information’, we mean information such as your name, address, date of birth, phone number, email address or any other information which may be used to contact you or otherwise identify you.   
