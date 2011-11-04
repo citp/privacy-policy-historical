@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228235648id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ncsasports.org privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104145350id_/http%3A//www.ncsasports.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NCSA
 
 ## Our Commitment To Privacy
 
-Your privacy is important to the National Collegiate Scouting Association, hereafter referred to as NCSA. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to NCSA Athletic Recruiting, hereafter referred to as NCSA. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
 ## The Information We Collect:
 
@@ -57,7 +57,7 @@ Should you have other questions or concerns about these privacy policies, please
 
 Inquiries regarding this statement should be sent to:  
 
-National Collegiate Scouting Association  
+NCSA Athletic Recruiting  
 1415 North Dayton Street Suite 4M   
 Chicago, Illinois 60622   
 888.333.6846 (p) 312.624.7401 (f)  
