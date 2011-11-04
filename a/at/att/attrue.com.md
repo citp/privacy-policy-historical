@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attrue.com privacy policy that was archived on 2011-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110423195945id_/http%3A//attrue.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attrue.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104105233id_/http%3A//attrue.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
