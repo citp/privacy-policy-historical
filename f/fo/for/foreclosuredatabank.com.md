@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreclosuredatabank.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102001533id_/http%3A//www.foreclosuredatabank.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreclosuredatabank.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104211220id_/http%3A//www.foreclosuredatabank.com/privacy.php) for the most accurate reproduction.*
 
 # Terms And Conditions Of Our Bank Foreclosures Service
 
@@ -39,3 +39,11 @@ We value your patronage and appreciate the time you have taken to read this Priv
 
 
 [](http://www.foreclosuredatabank.com/contactinfo.php)
+
+Search Area 
+
+Select a State:  
+Enter a County:  
+Enter a City:  
+Enter a Zip Code:  
+
