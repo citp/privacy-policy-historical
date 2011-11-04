@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2011-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110414110510id_/http%3A//birthdaycards.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdaycards.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104124656id_/http%3A//www.birthdaycards.com/info/privacy.html) for the most accurate reproduction.*
 
 # Birthday Cards.com - FREE Greeting Cards for All Occasions - Reminders, Address Book, Christmas, Birthdays, Holidays
 
