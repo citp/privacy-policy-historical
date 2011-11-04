@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2011-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110513071712id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/default/SubmitPromoForm-GenericError%3Fcid%3DCA_BE_PRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareminerals.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104201933id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/default/SubmitPromoForm-GenericError%3Fcid%3DCA_BE_PRIVACY_POLICY) for the most accurate reproduction.*
 
 # Sites-BareEscentuals-Site
 
