@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the buckeyeplanet.com privacy policy that was archived on 2008-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080427204053id_/http%3A//www.buckeyeplanet.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buckeyeplanet.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104045038id_/http%3A//www.buckeyeplanet.com/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # BuckeyePlanet - Ohio State Fan Community - Privacy Policy
+
+_Last Edited: 5:13pm ET, 5/26/2010_
 
 Thank you for visiting BuckeyePlanet.com ("BP"). BP wants to demonstrate its commitment to your privacy. As a result, BP provides the following Privacy Policy that explains how it protects your personally identifiable data. Our goal is to provide an open forum for fans, bring you current and up-to-date information about the athletic programs at the Ohio State University that are tailored to your individual needs and, at the same time, protect your privacy.
 
@@ -9,6 +11,10 @@ PLEASE READ THIS PRIVACY POLICY CAREFULLY. YOUR USE OF THIS WEBSITE AND/OR REGIS
 This Privacy Policy does not cover information collected elsewhere, including without limitation, offline and online sites that are linked to and from BP's website.
 
 This Privacy Policy may be modified from time to time. Continued access of BP's website and/or service(s) by you will constitute your acceptance of any changes or revisions to the Privacy Policy.
+
+ADVERTISING
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address, or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 INFORMATION COLLECTION AND USE
 
@@ -39,7 +45,7 @@ PRIVACY POLICY COORDINATOR
 If you have any questions or comments about any aspect of this Privacy Policy, then please feel free to send postal mail to the address below:
 
 BuckeyePlanet  
-5794 Gradey Pass  
+669 Sumter Street  
 Galloway, Ohio 43119
 
-Questions about our privacy policy may be directed to: clarity@buckeyeplanet.com
+Questions about our privacy policy may be addressed [here](http://www.buckeyeplanet.com/forum/sendmessage.php).
