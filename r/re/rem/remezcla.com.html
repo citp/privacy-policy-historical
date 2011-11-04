@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the remezcla.com privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504170406id_/http%3A//www.remezcla.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the remezcla.com privacy policy that was archived on 2011-11-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111104041324id_/http%3A//www.remezcla.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
 
@@ -10,7 +10,7 @@
 <link rel="shortcut icon" href="http://www.remezcla.com/wp-content/themes/Main/images/favicon.ico">
 
 
-  <link rel="stylesheet" href="http://www.remezcla.com/wp-content/themes/Main/style.css?ver=9.8" type="text/css" media="screen">
+  <link rel="stylesheet" href="http://www.remezcla.com/wp-content/themes/Main/style.css?ver=11.34" type="text/css" media="screen">
     
     <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.remezcla.com/feed/">
 	<link rel="alternate" type="text/xml" title="RSS .92" href="http://www.remezcla.com/feed/rss/">
@@ -18,15 +18,11 @@
 
 	<link rel="pingback" href="http://www.remezcla.com/xmlrpc.php">
 	<script type="text/javascript" src="http://www.remezcla.com/wp-includes/js/common/common.js"></script>
+    <script type="text/javascript" src="http://www.remezcla.com/wp-includes/js/common/browser_detect.js"></script> 
 
 <link rel="stylesheet" type="text/css" href="http://www.remezcla.com/wp-content/plugins/event-calendar/ajaxtabs2/ajaxtabs.css">
-<script type="text/javascript" src="http://www.remezcla.com/wp-includes/js/jquery/comp/jquery.js"></script> 
+<script type="text/javascript" src="http://www.remezcla.com/wp-includes/js/jquery/st/jquery.js"></script> 
  
-
-<!-- Share scripts -->
-<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-<!-- End Share scripts -->
 
 
 <!-- Rating Script-->
@@ -81,7 +77,52 @@ else { document.getElementById(d).style.display = "none"; }
 	ec3.viewpostsfor="View posts for %1$s %2$s";
 // --></script>
 
-
+<!-- Share scripts -->
+	<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+	<script src="http://connect.facebook.net/en_US/all.js"></script>
+	 <script>
+	   FB.init({
+		 appId  : '219237994776134',
+		 xfbml  : true,  // parse XFBML
+		 channelUrl  : 'http://www.remezcla.com/channel.html'
+	   });
+	 </script>
+	<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+	<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+	<!-- End Share scripts -->
+    
+	<meta property="og:site_name" content="">
+	<meta property="fb:admins" content="683742561">
+	<meta property="fb:app_id" content="219237994776134">
+    <meta property="fb:page_id" content="119685104266">
+    
+	<!-- Facebok comment count -->
+    <script>
+	function rv_fb_comments(id,url,output,wp_count){
+		 jQuery.getJSON('https://graph.facebook.com/?ids='+url+'&callback=?', function(json) {
+				for(dat in json){
+					var data = json[dat];
+					fb_c = data.comments;
+					if (fb_c == undefined) fb_c = '0';
+					fb_c = parseInt(fb_c) + parseInt(wp_count);
+					var fb_count = fb_c+' ';
+						
+				} 
+				if ( output.search(/Comment/) != -1 ) { //check if the original output includes text
+					if (fb_c == 0) { 
+						fb_count = 'No Comments';  
+					} else if (fb_c == 1) {
+						fb_count = 'One Comment'; 
+					} else { 
+						fb_count = fb_c+' Comments'; 
+					}
+				}
+				
+				jQuery('#fc_c_'+id).html(fb_count);
+			});
+	}
+	</script>
+<script type="text/javascript" src="http://www.remezcla.com/wp-includes/js/common/browser_detect.js"></script><script type="text/javascript">/* <![CDATA[ */ var _wpaudio = {url: 'http://www.remezcla.com/wp-content/plugins/wpaudio-mp3-player', enc: {}, convert_mp3_links: false, style: {text_font:'Sans-serif',text_size:'16px',text_weight:'normal',text_letter_spacing:'normal',text_color:'#929699',link_color:'#929699',link_hover_color:'#929699',bar_base_bg:'#eee',bar_load_bg:'#ccc',bar_position_bg:'#018740',sub_color:'#aaa'}}; /* ]]> */</script>
 <!-- Ad tag script -->
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
 </script>
@@ -93,10 +134,11 @@ else { document.getElementById(d).style.display = "none"; }
 
 
 <script type="text/javascript">
-       GA_googleAddSlot("ca-pub-5860204066141029", "RE_OTHER_728X90_TOP");
+     GA_googleAddSlot("ca-pub-5860204066141029", "RE_OTHER_728X90_TOP");
   	GA_googleAddSlot("ca-pub-5860204066141029", "RE_OTHER_300X250_TOP");
   	GA_googleAddSlot("ca-pub-5860204066141029", "RE_OTHER_300X250_BOTTOM");
 	GA_googleAddSlot("ca-pub-5860204066141029", "RE_OTHER_728X90_BOTTOM");
+	GA_googleAddSlot("ca-pub-5860204066141029", "RE_ROS_980X30_TOP");
    
 </script>
 <script type="text/javascript">
@@ -112,7 +154,7 @@ function rmz_lightup(m){l=m-1;r=m+1;if(l==1){jQuery("#top_bar div:nth-child("+l+
 <!--[if IE 7]>
 <style> 
 .jcarousel-container { position: relative; margin-top:38px; top:-38px;}
-.jcarousel-clip {z-index: 2; margin-bottom: 2px; overflow: hidden; position: relative; min-height:315px;}
+.jcarousel-clip {z-index: 2; margin-bottom: 2px; overflow: hidden; position: relative; }
 #blog-title{margin-bottom:10px;}
 </style>
 <![endif]-->
@@ -134,9 +176,11 @@ color: #ee252f !IMPORTANT;
 
 
 <div id="head-banner" class="clearfloat" style="background-image: url(http://www.remezcla.com/wp-content/themes/Main/images/headbanner_bk.png)">
-<script type="text/javascript">
-  GA_googleFillSlot("RE_OTHER_728X90_TOP");
-</script>
+<div class="banner">
+	<script type="text/javascript">
+      GA_googleFillSlot("RE_OTHER_728X90_TOP");
+    </script>
+</div>
 </div>
 
 
@@ -202,7 +246,12 @@ color: #ee252f !IMPORTANT;
  
 </div>
 
-<div id="page" class="clearfloat"> 
+<div id="page" class="clearfloat">
+<div class="clearfloat" style="padding-bottom:5px">
+<script type="text/javascript"> 
+  GA_googleFillSlot("RE_ROS_980X30_TOP");
+</script>
+</div>
 	
 	<div id="container-read" class="clearfloat">
 	
@@ -290,24 +339,24 @@ Advertisement
 <div id="sidebar-widget">			<div class="textwidget"><br><iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.facebook.com%2Fpages%2FRemezcla%2F119685104266&amp;layout=standard&amp;show_faces=true&amp;width=300&amp;action=like&amp;font=arial&amp;colorscheme=light&amp;height=80" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:80px;" allowtransparency="true"></iframe>
 <br>
 </div>
-		</div><div id="sidebar-widget"><div class="featured" style="border-bottom:0px;">        <h3><a href="http://music.remezcla.com/2011/latin/el-mix-vol-2-quemen-sus-cabezas/">El Mix Vol. 2</a></h3>
+		</div><div id="sidebar-widget"><a href="http://www.remezcla.com/2011/latin/new-remezcla-email-for-tips-events-people/"><img src="http://www.remezcla.com/wp-content/uploads/2011/10/seesoemthingsaysoemthing.png" width="310px" alt=""></a></div><div id="sidebar-widget"><div class="featured" style="border-bottom:0px;">        <h3><a href="http://www.remezcla.com/2011/latin/la-trivia-6-la-sirena-contest/">La Trivia #6: La Sirena!</a></h3>
     	
-		<a href="http://music.remezcla.com/2011/latin/el-mix-vol-2-quemen-sus-cabezas/"><img src="http://www.remezcla.com/wp-content/themes/Main/scripts/timthumb.php?src=http://www.remezcla.com/wp-content/uploads/2011/04/quemaok.jpg&amp;w=290&amp;h=160&amp;zc=1&amp;q=80" alt="Free Download: El Mix Vol. 2: Quemen Sus Cabezas" class="left" width="290" height="160"></a>
+		<a href="http://www.remezcla.com/2011/latin/la-trivia-6-la-sirena-contest/"><img src="http://www.remezcla.com/wp-content/themes/Main/scripts/timthumb.php?src=http://www.remezcla.com/wp-content/uploads/2011/10/contest6image1.jpg&amp;w=290&amp;h=160&amp;zc=1&amp;q=80" alt="La Trivia #6: La Sirena!" class="left" width="290" height="160"></a>
     	
-    	<p><b><em>Quemen Sus Cabezas</em></b> with the label's own stab at Remezcla's <b>El Mix</b>, eight FREE tracks that give you a taste as to what's cooking down south, ft. <b>Gepe, Pedropiedra, Fernando Milagros, Caravana,</b> and more.<br></p>
-		<div style="width:290px; text-align:right;"><p><a href="http://music.remezcla.com/2011/latin/el-mix-vol-2-quemen-sus-cabezas/"><img src="/wp-content/uploads/images/clickhere2.png" class="event-more"></a></p></div>
-		</div></div><div id="sidebar-widget"><div class="featured" style="border-bottom:0px;">        <h3><a href="http://www.remezcla.com/2011/latin/casa-de-mi-padre-will-ferrell-diego-luna-trailer/">Casa de Mi Padre Trailer</a></h3>
+    	<p>La Sirena Mexican Folk Art invites you to check out their wares, and maybe take some home with you!<br></p>
+		<div style="width:290px; text-align:right;"><p><a href="http://www.remezcla.com/2011/latin/la-trivia-6-la-sirena-contest/"><img src="/wp-content/uploads/images/clickhere2.png" class="event-more"></a></p></div>
+		</div></div><div id="sidebar-widget"><div class="featured" style="border-bottom:0px;">        <h3><a href="http://www.remezcla.com/2011/latin/remezcla-retrospective-que-bajo/">Remezcla Retrospective: QUE BAJO?!</a></h3>
     	
-		<a href="http://www.remezcla.com/2011/latin/casa-de-mi-padre-will-ferrell-diego-luna-trailer/"><img src="http://www.remezcla.com/wp-content/uploads/thumbs/22796-wppt_sidebar_980463720.jpg" alt="Casa de Mi Padre trailer premieres, Will Ferrell speaks Spanish" class="left"></a>
+		<a href="http://www.remezcla.com/2011/latin/remezcla-retrospective-que-bajo/"><img src="http://www.remezcla.com/wp-content/themes/Main/scripts/timthumb.php?src=http://www.remezcla.com/wp-content/uploads/2011/11/quebajo2.jpg&amp;w=290&amp;h=160&amp;zc=1&amp;q=80" alt="Remezcla Retrospective: QUE BAJO?!" class="left" width="290" height="160"></a>
     	
-    	<p>A number of American funnymen are having a go at Spanish-language roles. The first to have his hard trabajo showcased to audiences is <b>Will Ferrell</b>, starring in <b><em>Casa de Mi Padre</em></b>, a comedy with a cast so awesome it seems implausible.<br></p>
-		<div style="width:290px; text-align:right;"><p><a href="http://www.remezcla.com/2011/latin/casa-de-mi-padre-will-ferrell-diego-luna-trailer/"><img src="/wp-content/uploads/images/clickhere2.png" class="event-more"></a></p></div>
-		</div></div><div id="sidebar-widget"><div class="featured" style="border-bottom:0px;">        <h3><a href="http://music.remezcla.com/2011/latin/vive-latino-2011-pictures-caifanes-babasonicos-guincho/">Photos: Vive Latino</a></h3>
+    	<p>We look back on three years of covering and loving Que Bajo?! as Uproot Andy and Geko Jones, resident DJs of their brainchild monthly underground electro-Afro-Latin dance craziness, prepare to celebrate the party's three year anniversary.<br></p>
+		<div style="width:290px; text-align:right;"><p><a href="http://www.remezcla.com/2011/latin/remezcla-retrospective-que-bajo/"><img src="/wp-content/uploads/images/clickhere2.png" class="event-more"></a></p></div>
+		</div></div><div id="sidebar-widget"><div class="featured" style="border-bottom:0px;">        <h3><a href="http://music.remezcla.com/2011/latin/peru-the-birthplace-of-punk-los-saicos-punk-outlaw/">Peru...The Birthplace of Punk? </a></h3>
     	
-		<a href="http://music.remezcla.com/2011/latin/vive-latino-2011-pictures-caifanes-babasonicos-guincho/"><img src="http://www.remezcla.com/wp-content/uploads/thumbs/22578-wppt_sidebar_493806018.jpg" alt="Photos: Vive Latino 2011 (Caifanes, Babasónicos, Guincho, etc.)" class="left"></a>
+		<a href="http://music.remezcla.com/2011/latin/peru-the-birthplace-of-punk-los-saicos-punk-outlaw/"><img src="http://www.remezcla.com/wp-content/uploads/thumbs/31319-wppt_sidebar_752892736.jpeg" alt="Peru…The Birthplace of Punk?" class="left"></a>
     	
-    	<p>Yeah, Mexico is kind of far if you're bound by U.S. soil. So we took it upon ourselves to represent you in Mexico City this past weekend during <b>Vive Latino</b>. Check out our snapshots of <b>Caifanes, El Guincho, Babasónicos,</b> and more!<br></p>
-		<div style="width:290px; text-align:right;"><p><a href="http://music.remezcla.com/2011/latin/vive-latino-2011-pictures-caifanes-babasonicos-guincho/"><img src="/wp-content/uploads/images/clickhere2.png" class="event-more"></a></p></div>
+    	<p>In this article, Robert Rose, founder of Punk Outlaw Records, travels to Lima, Peru to then discover unwritten history - punk music actually emerged from Latin America during the '60s! Get the full scoop.<br></p>
+		<div style="width:290px; text-align:right;"><p><a href="http://music.remezcla.com/2011/latin/peru-the-birthplace-of-punk-los-saicos-punk-outlaw/"><img src="/wp-content/uploads/images/clickhere2.png" class="event-more"></a></p></div>
 		</div></div>
 </div>
 
@@ -325,12 +374,14 @@ Advertisement
  
 	
 	</div>
-	 
+	
 <div id="footer"> 
 <div id="head-banner" class="clearfloat" style=" background-color:#E6E6E6">
-<script type="text/javascript">
-  GA_googleFillSlot("RE_OTHER_728X90_BOTTOM");
-</script>
+<div class="banner">
+	<script type="text/javascript">
+      GA_googleFillSlot("RE_OTHER_728X90_BOTTOM");
+    </script>
+</div>
 </div>
 
 <div id="footer-content">
@@ -353,7 +404,7 @@ Advertisement
 <a href="http://sf.remezcla.com" style="text-transform: none;"> Latin Culture in San Francisco</a> 
 <br><br>
 Copyright � 2009 Remezcla.com/Mosaico Media LLC. All rights reserved. </div> 
-<!-- 30 queries. 0.284 seconds. -->
+<!-- 31 queries. 0.284 seconds. -->
 </div>
 </div>
 
@@ -369,6 +420,9 @@ Copyright � 2009 Remezcla.com/Mosaico Media LLC. All rights reserved. </div>
 		pageTracker._trackPageview();
 	} catch(err) {}
     </script> 
+
     
 
+
+<script>FB.XFBML.parse()</script><script type="text/javascript" src="http://www.remezcla.com/wp-content/plugins/wpaudio-mp3-player/wpaudio.min.js?v=1.1"></script>
 </body></html>
