@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usefulinfonation.com privacy policy that was archived on 2011-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110305010815id_/http%3A//usefulinfonation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usefulinfonation.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105004357id_/http%3A//usefulinfonation.com/privacy) for the most accurate reproduction.*
 
 # USEFUL INFO NATION | PRIVACY POLICY
 
