@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chubbybrain.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506180318id_/http%3A//www.chubbybrain.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chubbybrain.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104221908id_/http%3A//www.chubbybrain.com/privacy-policy.php) for the most accurate reproduction.*
 
 # ChubbyBrain - Privacy Policy
 
