@@ -1,28 +1,66 @@
-> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221144000id_/http%3A//www.deleteddomains.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deleteddomains.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104175856id_/http%3A//www.deleteddomains.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Page for Deleted Domains - Expired, Expiring, Dropped Domain Names
+# Privacy Policy
 
-## PRIVACY STATEMENT
+**What information do we collect?**
 
-**Privacy Policy**  
-_(Adopted November 1, 2004)_
+We collect information from you when you fill out a form. 
 
-This Privacy Policy governs the manner in which DeletedDomains collects, uses, maintains and discloses information collected from users of the DeletedDomains.com Web Site (each, a "User"). 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or phone number. You may, however, visit our site anonymously.
 
-**Privacy**  
-DeletedDomains is committed to safeguarding the information Users entrust to DeletedDomains and believes every User should know how DeletedDomains utilizes the information collected from the Web Site. This Web Site is not directed at children under 13 years of age. However, children under the age of 13 which wish to participate in DeletedDomains Forum must submit a permission form prior to becoming a registered user. 
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network [privacy policy..](http://www.google.com/privacy/ads/privacy-policy.html)
 
-**The Information We Collect**  
-DeletedDomains may collect personally identifiable information from Users in a variety of ways, including through online forms for ordering products and services, and other instances where Users are invited to volunteer such information. DeletedDomains may also collect information about how Users use our Web Site, for example, by tracking the number of unique views received by the pages of the Web Site, or the domains from which Users originate. We may use "cookies" to track how Users use our Web Site. A cookie is a piece of software that a Web server can store on the Users' PC and use to identify the User should they visit the web site again. While not all of the information that we collect from Users is personally identifiable, it may be associated with personally identifiable information that Users provide us through our Web Site. We currently use third party ad networks to serve ads on our site. The cookies received with banner ads served by these networks are used to collect and build anonymous behavioral profiles by these companies to deliver targeted ads and tracking referrals, and DeletedDomains does not have access to this information. 
+ **What do we use your information for?**
 
-**How We Use Information**  
-DeletedDomains may use personally identifiable information collected through our Web Site to contact Users regarding products and services offered by DeletedDomains and its trusted affiliates, independent contractors and business partners, and otherwise to enhance Users' experience with DeletedDomains and such affiliates, independent contractors and business partners. DeletedDomains may also use information collected through our Web Site for research regarding the effectiveness of the Web Site and the marketing, advertising and sales efforts of DeletedDomains, its trusted affiliates, independent contractors and business partners. 
+Any of the information we collect from you may be used in one of the following ways: 
 
-**Disclosure of Information**  
-DeletedDomains may disclose information collected from Users to trusted affiliates, independent contractors and business partners who will use the information for the purposes outlined above. We may also disclose aggregate, anonymous data based on information collected from Users to investors and potential partners. Finally, we may transfer information collected from Users in connection with a sale of DeletedDomains' business. 
+  * To administer a contest, promotion, survey or other site feature
+  * To send periodic emails
+  *  The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-**Maintenance of Information**  
-Information about Users that is maintained on our systems is protected using industry standard security measures. However, we cannot guarantee that the information submitted to, maintained on, or transmitted from our systems will be completely secure. 
 
-**Questions**  
-Users may direct questions concerning this Privacy Policy by email to [privacy@inetinteractive.com](mailto:%22privacy@inetinteractive.com%22). 
+
+**How do we protect your information?**
+
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+ **Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+ **Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+ **California Online Privacy Protection Act Compliance**
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+ **Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+ **Your Consent**
+
+By using our site, you consent to our [web site privacy policy](http://www.freeprivacypolicy.com/).
+
+ **Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page. 
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://deleteddomains.com  
+160 Tycos Dr. Suite 207  
+Toronto Ontario, M6B 1W8  
+Canada  
+1-866-932-1088  
+
