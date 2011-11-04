@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the methods2earn.com privacy policy that was archived on 2010-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101009074213id_/http%3A//www.methods2earn.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the methods2earn.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104115819id_/http%3A//www.methods2earn.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy — Methods2Earn.com
+# Privacy Policy
 
 At www.methods2earn.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.methods2earn.com and how it is used.
 
