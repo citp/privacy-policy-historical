@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globaltestmarket.com privacy policy that was archived on 2011-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110515143738id_/http%3A//www.globaltestmarket.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globaltestmarket.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104084610id_/http%3A//www.globaltestmarket.com/privacypolicy.php) for the most accurate reproduction.*
 
 # GlobalTestMarket Privacy Policy
 
@@ -28,7 +28,7 @@ Please be aware that GMI advertisers or websites that have links on our site may
 
 ### With whom does GMI share my information?
 
-As a general rule, GMI will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the [Terms of Use](https://web.archive.org/web/20110515143738id_/http%3A//www.globaltestmarket.com/termsofuse.php) or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed. 
+As a general rule, GMI will not disclose any of your personally identifiable information except when we have your permission or under special circumstances, such as when we believe in good faith that the law requires it or under the circumstances described below. Please see the [Terms of Use](https://web.archive.org/web/20111104084610id_/http%3A//www.globaltestmarket.com/termsofuse.php) or Use Agreements for each of our products and services for more detailed information about how your personal information may be shared. The following describes some of the ways that your information may be disclosed. 
 
 Business Partners and Sponsors: GMI may disclose your personal information to business partners or sponsors, but this is specifically described to you prior to data collection or prior to transferring the data. If any personal data about were ever to be shared, we will tell you before we collect or transfer the data.
 
@@ -50,7 +50,7 @@ GMI does not sell or rent user information to anyone. We will notify you at the 
 
 ### What is GMI's policy on allowing me to update, correct, or delete my personally identifiable information?
 
-For members of GMI's GlobalTestMarket, you may edit your GlobalTestMarket Account Information and your GlobalTestMarket Profile at any time by using your GlobalTestMarket ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20110515143738id_/http%3A//www.globaltestmarket.com/forgotten.php). Your GlobalTestMarket account can be deleted or deactivated. You can choose to terminate your membership at any time by [completing this form](https://web.archive.org/web/20110515143738id_/http%3A//www.globaltestmarket.com/unsubscribing.php). 
+For members of GMI's GlobalTestMarket, you may edit your GlobalTestMarket Account Information and your GlobalTestMarket Profile at any time by using your GlobalTestMarket ID and password. If you have forgotten your password, please [click here](https://web.archive.org/web/20111104084610id_/http%3A//www.globaltestmarket.com/forgotten.php). Your GlobalTestMarket account can be deleted or deactivated. You can choose to terminate your membership at any time by [completing this form](https://web.archive.org/web/20111104084610id_/http%3A//www.globaltestmarket.com/unsubscribing.php). 
 
 For users of any of GMI's other products and services, you can [contact us](http://www.gmi-mr.com/contact/) if you have forgotten your login or password. Please also [contact us](http://www.gmi-mr.com/contact/) with any questions regarding access to personally identifiable information.
 
@@ -70,5 +70,5 @@ Please keep in mind that whenever you voluntarily disclose personal information 
 
 ### Additional Information
 
-Please [contact us](https://web.archive.org/web/20110515143738id_/http%3A//www.globaltestmarket.com/contact.php) with any questions regarding this statement.   
+Please [contact us](https://web.archive.org/web/20111104084610id_/http%3A//www.globaltestmarket.com/contact.php) with any questions regarding this statement.   
 
