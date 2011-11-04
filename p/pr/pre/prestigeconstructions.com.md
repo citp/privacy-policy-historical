@@ -1,64 +1,102 @@
-> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2010-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100421003432id_/http%3A//www.prestigeconstructions.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeconstructions.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104034930id_/http%3A//www.prestigeconstructions.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Prestige Constructions
+# Prestige Group
 
-**October 15, 2008  
-This document explains the online privacy practices and policy of Prestige for its website http://www.prestigeconstructions.com  
-In general, you remain anonymous when visiting the Website. **
+What information do we collect?
 
-Your privacy is important to us and we wish our website to be a safe and enjoyable environment for all who log into our Website. As a part of normal operation of this Website, we may collect and in some cases we may have to disclose information about you. We will take reasonable care to safeguard the personally identifiable information (Personal Information) we receive and collect from you on our Website. 
+We collect information from you when you fill out a form.
 
-**Information Gathered**  
-In general, you can log into our Website without prior permission and without revealing any Personal Information. However, you may not be able to access certain pages or services available on our Website that require registration or need us to know other information about you. The registration constitutes the acceptance of Prestige Privacy Policy.  
-Information that we collect from you will vary depending upon the service you wish to avail. 
+Any data we request that is not required will be specified as voluntary or optional.
 
-**Personal Information**  
-Personal Information means any information that may be used to identify you and which is not otherwise publicly available, including, but not limited to, your first and last name, home or other physical address and an email ID, phone number or other contact information. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
 
-We may collect Personal Information from you when you register for any of our services or otherwise voluntarily provide such information. If you wish to subscribe to our newsletter(s) and other marketing materials, we will using your name and email ID to send the newsletter and other materials to you. 
+Like most websites, we use cookies to enhance your experience, gather general visitor information, and track visits to our website. Please refer to the 'do we use cookies?' section below for information about cookies and how we use them.
 
-We will only collect information to the extent reasonably necessary to fulfill your requests and use the information so collected, to our legitimate business objectives, to improve marketing, promotional efforts and also for statutory purpose.
+What do we use your information for? 
 
-**Cookies and Other Tracking Technologies**  
-Some of our web pages may also utilise cookies and other tracking technologies. A cookie is a small text file that may be used, for example, to collect information about your activity on our Website. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. 
+Any of the information we collect from you may be used in one of the following ways:
 
-Tracking technologies may automatically record information such as Internet domain and host names; other information about your geographic location; IP addresses; browser software and operating system types; CPU type; your manner of connecting to the Internet (e.g., connection speed through narrowband or broadband access); click paths; and dates and times that our Website is accessed. 
+  * To personalize your experience (your information helps us to better respond to your individual needs)
+  * To improve our website(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
+  * To send periodic email
 
-**Use of services by minor**  
-Our services and our Website are intended for a general viewing. The products or services offered on our Website are not intended for purchase directly by minor. If you are a minor and desire to use this Website or purchase our products or services, please request your parent/guardian to register with us and to complete the transaction. Any use of this Website or any of its features by a minor must be with parental/guardian's supervision. We will deal with any minors and any offers or for marketing services without a parent's/guardian's authorization permission. We do not ask a minor for more Personal Information, as a condition of participation, than is reasonably necessary to participate in a given activity on our Website. 
 
-**Uses of Personal Information**  
-We may use Personal Information and other information received and collected from you to provide information and services that you have requested, improve our services, contact you, conduct research and provide reporting for internal and external clients including services that display customised content and to contact you upon your request and when otherwise necessary. We may also use Personal Information for auditing, research, statutory requirement and analysis, and to operate and improve our services. In some circumstances, we may share aggregated non-personal information with third parties. When we use third parties to assist us in processing your Personal Information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
 
-**Confidentiality and Security**  
-We will strive to keep confidential and protect your Personal Information except where disclosure is required or permitted by law.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
 
-We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and, once we receive it, for storage and disposal. Therefore, while we strive to use commercially acceptable means to protect your Personal Information however we do not guarantee its absolute security.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-We limit access to Personal Information to employees whom we believe reasonably need to come into contact with that information to provide products or services to you or in order to complete the task assigned to them. We will ensure that the employees will comply with our Privacy Policy and any other appropriate confidentiality and security measures.
+How do we protect your information?
 
-Third parties provide certain services available on our Website and on our behalf. We may provide information, including Personal Information, to third-party service providers to help us deliver our products, information, and services efficiently and effectively. Service providers are also an important means by which we maintain our Website and mailing lists. We will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on our behalf through confidentiality agreements and otherwise. 
+We implement a variety of security measures to maintain the safety of your personal information when you submit a request or enter, submit, or access your personal information.
 
-**Third Party Websites**  
-If you click on a link to a third party site or otherwise leave the Prestige Group Website you will go to a website that is outside our control. Because we cannot control the activities of third parties, we do not accept responsibility for any use of your Personal Information by such third parties, and we do not guarantee that they will adhere to the same privacy policy and security practices as we do. We encourage you to review the privacy policies of any other service provider from whom you request services. If you visit a third party website that is linked to our website, you should consult that website's privacy policy before providing any Personal Information. 
+Do we use cookies?
 
-**Change of Control**  
-In the event that ownership or control of the Prestige Group is to change, your Personal Information may be transferred to the new entity. 
+Yes (Cookies are small files that a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-**Accuracy**  
-Prestige Group takes reasonable efforts to ensure that all information contained on our Website is accurate and up to date. Nevertheless, your use and browsing of this Website is solely at your own risk and this Website is provided to You-AS-IS. Prestige makes no warranties, express or implied, with respect to the use of this site and the materials contained herein.
+Do we disclose any information to outside parties?
 
-To the extent that you do provide us with Personal Information, we wish to maintain accurate and current Personal Information. Where we collect Personal Information from you on our website, should you need to update or correct that Personal Information, please contact us and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-**Consent; Amendments; Law**  
-By using our Website, you consent to the terms of this Privacy Policy and to our use and management of Personal Information for the purposes and in the manner given above. Should this Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our Website for a reasonable period of time. Prestige will also reserve its right to change its policies without prior notice. You are responsible for periodically reviewing our Privacy Policy. Your continued use of the Website shall be deemed acceptance of the Privacy Policy then in effect.
+Third party links 
 
-Your visit and any dispute over privacy are subject to this Privacy Policy and the laws of India and the courts of Bangalore, India shall retain exclusive jurisdiction. 
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**CONTACT INFORMATION**  
-Prestige Estates Projects Pvt. Ltd  
-The Falcon House  
-No.1, Main Guard Cross Road  
-Bengaluru - 560 001.  
-Tel: +91-80-25591080  
-Fax: +91-80-25591945 
+California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+Children’s Online Privacy Protection Act Compliance 
+
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+CAN-SPAM Compliance
+
+We have taken the necessary steps to ensure that we are compliant with the CAN-SPAM Act of 2003 by never sending out misleading information.
+
+Statutory Message
+
+This information is conceptual and not a legal offering. The promoter reserves the right to change, alter, add or delete any of the specifications mentioned herein without prior permission or notice.
+
+Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.prestigeconstructions.com/terms-of-use.html.
+
+Your Consent
+
+By using our site, you consent to our privacy policy.
+
+Changes to our Privacy Policy 
+
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
+
+This policy was last modified on 1st June 2011
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below. 
+
+http://www.prestigeconstructions.com  
+The Falcon House, No. 1, Main Guard Cross Road  
+Bangalore, Karnataka 560001  
+India  
+
+
+00 91 80 25591080
+
+Privacy Policy Customer Pledge
+
+We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the following important privacy laws and initiatives:
+
+Federal Trade Commission’s Fair  
+California Online Privacy Protection Act  
+Children’s Online Privacy Protection Act  
+Privacy Alliance  
+Controlling the Assault of Non-Solicited Pornography and Marketing Act  
+Trust Guard Privacy Requirements  
+
