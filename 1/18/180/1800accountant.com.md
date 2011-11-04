@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800accountant.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525003452id_/http%3A//www.1800accountant.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800accountant.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104075331id_/http%3A//www.1800accountant.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 1-800 Accountant
 
