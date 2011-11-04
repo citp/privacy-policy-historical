@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127122826id_/http%3A//pressdoc.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressdoc.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104080743id_/http%3A//pressdoc.com/privacy_policy) for the most accurate reproduction.*
 
-# PressDoc · Privacy Policy
+# Privacy Policy - PressDoc
 
 ## What information do we collect?
 
