@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newvirgineveryday.com privacy policy that was archived on 2010-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100329221718id_/http%3A//www.damsites.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newvirgineveryday.com privacy policy that was archived on 2011-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111104231636id_/http%3A//www.damsites.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
