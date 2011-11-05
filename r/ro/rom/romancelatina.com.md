@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2011-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110516072004id_/http%3A//www.romancelatina.com/en/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romancelatina.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105062937id_/http%3A//www.romancelatina.com/en/privacy.php) for the most accurate reproduction.*
 
 # Colombian Women Dating Site | RomaceLatina.com Privacy Policy
 
