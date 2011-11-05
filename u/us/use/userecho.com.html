@@ -1,23 +1,24 @@
-<!--The following is the downloaded HTML source of the userecho.com privacy policy that was archived on 2011-06-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110613162950id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the userecho.com privacy policy that was archived on 2011-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111105203725id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=8">
 <title>UserEcho.com - Customer feedback 2.0 Creative ideas for Your projects</title>
+
 <script type="text/javascript" async="" src="https://s3.amazonaws.com/cdn.userecho.com/js/widget-1.4.gz.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _uls_ls=(new Date()).getTime()</script>
+
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
 
 
 
-<link href=" http://fonts.googleapis.com/css?family=Droid+Sans:bold" rel="stylesheet" type="text/css">
 
-
-<link rel="stylesheet" href="/s/CACHE/css/33bbd734fe88.css" type="text/css" charset="utf-8">
+<link rel="stylesheet" href="/s/CACHE/css/b60d5e32d89d.css" type="text/css" charset="utf-8">
 
 
 
-</head>
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body>
 
@@ -68,15 +69,19 @@ tab_hover_color:'#f45c5c'
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js" type="text/javascript"></script>
 
 
-<script type="text/javascript" src="/s/CACHE/js/1e3737fc8f32.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/s/CACHE/js/f1344235401a.js" charset="utf-8"></script>
 
 
 
 
 <script type="text/javascript">
+var global_is_staff = false;
 //	window.onresize = function (){
 //	if(document.width>=1260) $('#logo_main').fadeIn(300); else $('#logo_main').fadeOut(300);
 //	}
+
+
 
 
 $(document).ready(function() {
@@ -106,12 +111,11 @@ $(document).ready(function() {
 
     
     
-
-    
-    
     
 
     </style>
+
+<div id="module_translate_edit" class="popBlock" style="margin-left:-365px;width:730px;"></div>
 
 <script type="text/javascript">
 $(document).ready(function() {
@@ -143,15 +147,14 @@ $(document).ready(function() {
                 
 
 
-    <div id="sigin_popup" class="popBlock">
-Loading signin panel
-</div>
+    <div id="sigin_popup" class="popBlock"></div>
 <script language="javascript">
-function showSigninPanel(locResult){params='';if (locResult) params = '?local_result=true';$('#sigin_popup').jqm({ajax: '/popup/signin/'+params, toTop: true}); $('#sigin_popup').jqmShow();}
+function showSigninPanel(locResult){params='';if (locResult) params = '?local_result='+escape(locResult);$('#sigin_popup').jqm({ajax: '/popup/signin/'+params, toTop: true}); $('#sigin_popup').jqmShow();}
 </script>
  	<div id="userpanel">
     
         <a href="#" onclick="showSigninPanel();return false;">Sign in</a>
+        
     
 	</div>
 
@@ -241,10 +244,10 @@ UserEcho uses cookies to record current session information, but does not use pe
 		
 
 <div class="footer">
-		    <div style="float:left;">Copyright © 2010 <b>UserEcho</b>
+		    <div style="float:left;"><span id="copyright">Copyright © 2010 <b>UserEcho</b></span>
             
             
-            <a href="#" onclick="$('#lang-select-div').jqmShow().css({'top':($(this).offset().top-240)+'px','left':$(this).offset().left+'px'}); return false;">English (EN) <img src="http://static.userecho.com/img/arrowdwn.gif"></a>
+            <a id="lang-selector" href="#" onclick="$('#lang-select-div').jqmShow().css({'top':($(this).offset().top>270?$(this).offset().top-260:10)+'px','left':$(this).offset().left+'px'}); return false;">English (EN) <img src="http://static.userecho.com/img/arrowdwn.gif"></a>
             
             
             
@@ -263,13 +266,14 @@ UserEcho uses cookies to record current session information, but does not use pe
             
             
             </div>
-            <div style="float:right; padding-right:20px;">
+            <div id="tos" style="float:right; padding-right:20px;">
             	<a href="http://feedback.userecho.com">Leave feedback</a> <a href="/terms-of-service/">Terms of service</a><a href="/privacy-policy/">Privacy policy</a>
            </div>
 
 	    </div>
     </div>
 	<div id="lang-select-div" class="jqmFilter">
+  <h1><span class="close" onclick="$('#lang-select-div').jqmHide();">X</span>Language</h1>
 	<ul>
 	    
 	    <li href="" onclick="location.href='?lang=en'"><a>English (EN)</a></li>
@@ -293,7 +297,7 @@ UserEcho uses cookies to record current session information, but does not use pe
 
 
 <script type="text/javascript">
-var _uls={acc:3,host:"userecho.com", server:"io.userlook.com:8008"};
+var _uls={acc:3,host:"userecho.com", server:"io.userlook.com"};
 
 (function(){
 function loadUL() {
@@ -313,6 +317,25 @@ window.onload = (typeof window.onload != 'function') ? loadUL : function() { ol_
 
 
 </div>
+
+
+<script type="text/javascript">
+adroll_adv_id = "O3AYGLZF6FBVZFCGOESKIB";
+adroll_pix_id = "4TIXMAJXSFAPHCRGMR7RYY";
+(function () {
+var oldonload = window.onload;
+window.onload = function(){
+   __adroll_loaded=true;
+   var scr = document.createElement("script");
+   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+   scr.setAttribute('async', 'true');
+   scr.type = "text/javascript";
+   scr.src = host + "/j/roundtrip.js";
+   document.documentElement.firstChild.appendChild(scr);
+   if(oldonload){oldonload()}};
+}());
+</script>
+
 
 
 
