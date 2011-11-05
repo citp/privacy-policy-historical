@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnipremiumnames.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507022639id_/http%3A//dnipremiumnames.com/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnipremiumnames.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105090406id_/http%3A//dnipremiumnames.com/help/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
