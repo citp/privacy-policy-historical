@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229144126id_/http%3A//www.cinemaclock.com/aw/clga.aw/j.e/f.privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinemaclock.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105122347id_/http%3A//www.cinemaclock.com/privacy/Privacy-Policy.html) for the most accurate reproduction.*
 
-# CinemaClock.com - Canada Movie Guide
+# Privacy Policy
 
 We will not under any circumstance disclose individual identifiable information about you to any third party without first obtaining your explicit permission. We will make certain to comply with international standards for the storage and protection of the data in our care. 
 
@@ -10,6 +10,6 @@ We collect personal information (such as name, e-mail, age, sex, address, teleph
 
 By using our Internet site, you are giving us your consent to our use of the information you provide to us as laid out in this privacy protection policy. 
 
-If you no longer want to receive e-mail messages from us, please [click here to contact us](https://web.archive.org/aw/cfba.aw/ContactUs.html). By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly. 
+If you no longer want to receive e-mail messages from us, please [click here to contact us](https://web.archive.org/contact-us///Contact-us.html). By providing your personal information for the purposes specified above, you are giving us your permission for using this information accordingly. 
 
 (rev. 2009-10-09) 
