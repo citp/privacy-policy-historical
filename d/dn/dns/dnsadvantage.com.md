@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2011-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110102211437id_/http%3A//www.neustar.biz/about-neustar/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnsadvantage.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105061401id_/http%3A//www.neustar.biz/about-neustar/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement / About Neustar - Neustar: Clearinghouse and Directory Services For The Global Communications And Internet Industry
+# Privacy Statement / Privacy / About Neustar - Neustar: Clearinghouse and Directory Services For The Global Communications And Internet Industry
 
   
 
 
-## Neustar Privacy Statement
-
 Last Updated: January 4, 2010
 
-Neustar gathers certain types of personal information about the users who visit the Neustar Web site located at [http://www.neustar.biz](http://www.neustar.biz/) ("Site”). The following describes how the personal information Neustar collects on its Site will be treated. 
+Neustar gathers certain types of personal information about the users who visit the Neustar Web site located at [http://www.neustar.biz](http://www.neustar.biz/)  ("Site”). The following describes how the personal information Neustar collects on its Site will be treated. 
 
 **1\. Personal Information Neustar Collects**
 
@@ -41,11 +39,10 @@ The information you supply to Neustar will not be given, sold, rented, loaned, o
 
 **5\. User Options — Opt-Out**
 
-From time to time, Neustar may notify you of new products, announcements, upgrades and updates. Users may opt-out of receiving these future promotional mailings and request information about contact preferences and changes to personal information by sending an email with their name to: [webmaster@neustar.biz](mailto:webmaster@neustar.biz) or by contacting us at our mailing address:
+From time to time, Neustar may notify you of new products, announcements, upgrades and updates. Users may opt-out of receiving these future promotional mailings and request information about contact preferences and changes to personal information by sending an email with their name to: [webmaster@neustar.biz](mailto:webmaster@neustar.biz)  or by contacting us at our mailing address:
 
 Neustar, Inc.  
-46000 Center Oak Plaza  
-Building X  
+21575 Ridgetop Circle  
 Sterling, VA. 20166  
 Attn: Legal 
 
@@ -57,6 +54,6 @@ If you have any questions about this privacy statement or this Site, please cont
 
 Legal Department  
 Neustar, Inc.  
-46000 Center Oak Plaza  
+21575 Ridgetop Circle  
 Sterling, VA 20166  
 571-434-5729 
