@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techgurulive.com privacy policy that was archived on 2011-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110522054459id_/http%3A//techgurulive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgurulive.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105092629id_/http%3A//techgurulive.com/privacy) for the most accurate reproduction.*
 
 # privacy
 
@@ -23,4 +23,4 @@ Users may opt out of the use of the DART cookie by visiting the [Google ad and c
 
 Upon request we provide site visitors with access to contact information (e.g., name, address, phone number) that we maintain about them .
 
-Consumers can access this information by e-mail us at the above address.
+Consumers can access this information by e-mail us at the above address. 
