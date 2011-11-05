@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-soft24.com privacy policy that was archived on 2010-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100311135713id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-soft24.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105124833id_/http%3A//www.e-soft24.com/privacy.html) for the most accurate reproduction.*
 
 # e-Soft24 - Privacy Notice
 
@@ -15,9 +15,11 @@ No! Never! Your private information is too precious to share with anyone. Inform
 When you register as a Customer, you will receive an automated email containing your Customer Log In details.  
 When you purchase goods from us, you will receive an automated receipt by email. We only email you in person if we need to clarify details about your order or if we are responding to your questions or queries.
 
- **Email Communications and Newsletters**  
-We send out occasional email newsletters to our customers. Our newsletters contain information about new products, special promotions, product updates, discounts and unique offers.  
-You have the option to unsubscribe any any time by logging into your Customer Account Area and updating your Newsletter Preferences.
+**Email Communications and Newsletters**  
+We send out occasional email newsletters to our customers and newsletter subscribers. Our newsletters contain information about new products, special promotions, product updates, discounts and unique offers.  
+You have the option to unsubscribe at any time by logging into your Customer Account Area and updating your Newsletter Preferences.  
+Non Customers will find a link to unsubscribe, at the bottom of every newsletter.  
+The newsletter unsubscription are not include the unsubscription from product update notifications. For security reasons product buyers are still kept notified about product updates.
 
  **Credit and Debit Card Information**  
 As we use secure third party payment processors like PayPal to process credit card and debit card orders, we do not have any access to your credit card information at all.  
