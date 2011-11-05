@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the google.com.gi privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507220621id_/http%3A//www.google.com.gi/intl/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the google.com.gi privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105173559id_/http%3A//www.google.com.gi/intl/en/privacy.html) for the most accurate reproduction.*
 
 # Google Privacy Center
 
