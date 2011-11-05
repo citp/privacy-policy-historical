@@ -1,25 +1,17 @@
-> *The following text is extracted and transformed from the era-fashion.com privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206144846id_/http%3A//era-fashion.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the era-fashion.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105172426id_/http%3A//era-fashion.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy « Top News
 
-This Privacy Policy was created with the aim of demonstration our firm commitment to your privacy when making orders with us.
+Welcome to Era-fashion.com  
+Our website is ensuring that your privacy is protected. Any information provided by you when using this website will be solely used in accordance with this privacy statement.  
+We may collect the following information:  
+• name/login  
+• contact information including email address  
+This information is needed for internal record keeping.  
+We are reliable to ensuring that your information is secure. In order to prevent illegal access or public disclosure, we have put in place adequate procedures to protect and secure the information we collect online. We will not sell, distribute or lease your personal information to third parties.  
+Our website may contain links to other websites of interest for your use and reference. Yet, in case you have used these links, you should be aware that we cannot take responsibility for the safeguard and privacy of any information which you supply while accessing other sites. You should be cautioned and read the privacy policy relevant to the website in question.  
+It is not permitted to copy, distribute, alter, or modify any information posted on this website in any mass media sources without our permission. If you intend to use the information or pictures from this site please contact us for permission. If you have any questions or requests you may contact us by e-mail: info@era-fashion.com
 
-**Compliance**
+The contents of this privacy policy may be modified at any time, at our judgment. 
 
-Please, read the Privacy Policy statements outlined below. Your using the website and placing orders with us automatically means your full agreement to all of the statements of the current Privacy Policy. If you do not agree to the terms of this policy, please, do not access or use this website. 
-
-**Collection of information**
-
-We never collect any information without your permission. Your using this website and placing orders with us means that you allow collection of information by us. The information we collect is used for internal purposes and is *NEVER passed or sold to any third parties. We use and collect your data as stated below.
-
-**Non-personally Identifiable Information**
-
-This kind of information cannot identify you as a personality. This information is statistical data, used for the purposes of the current website improving. It includes the information about your use of this website, i.e. the pages you browse through, the route you have followed to find a page interesting for you, referral websites that led you to our webpage, search phrases you used while searching for our website in Search Engines, your IP address, and other non-personal information. The gathered data is manually analyzed in order to make improvements in navigation and functioning. The information is used by our team only and never passed to any third parties. 
-
-**Personally Identifiable Information**
-
-This information can identify you personally. Personally identifiable information is provided by you on a voluntary basis. This data is provided for the purposes of registering with the website and for enabling us to process and fulfill your orders. The information includes your username, your name, email address, shipping address, billing address, your credit card, or other payment information. This data is collected while you set up an account, perform checkouts, send us your feedback, etc. This data is used for internal use only and is *never passed to any third parties.
-
-***Disclosure**
-
-We reserve the right to disclose any information in case we are necessitated to do that in the course of legal proceedings by a legal act. The right to disclose you personally identifiable information is also reserved by us if we are fully convinced that the information must be disclosed to protect our rights and/or to obey any valid legal act.
+Thank you
