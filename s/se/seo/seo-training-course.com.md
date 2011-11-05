@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the seo-training-course.com privacy policy that was archived on 2011-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110310015634id_/http%3A//www.webceo.com/terms.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seo-training-course.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105190729id_/http%3A//www.webceo.com/terms.htm) for the most accurate reproduction.*
 
 # Web CEO Privacy Policy
 
-Last Revision: January 27, 2011
+Last Revision: May 17, 2011
 
-WebCEO Ltd. (hereinafter "WebCEO") is firmly committed to the privacy of its customers. WebCEO shall take all reasonable measures to have your personal information protected to ensure you feel safe and secure.
+Web CEO Corp. (hereinafter "WebCEO") is firmly committed to the privacy of its customers. WebCEO shall take all reasonable measures to have your personal information protected to ensure you feel safe and secure.
 
 This Privacy Policy covers how WebCEO uses personal information that users provide to WebCEO when they use WebCEO Desktop software, WebCEO Online tools, HitLens Traffic Analysis and Site Uptime Monitoring services (together hereinafter “Services”). By using any of the Services you accept the terms of our Privacy Policy.
 
@@ -73,3 +73,5 @@ Your use of the Services, including any dispute concerning privacy, is subject t
 ## Contacting WebCEO
 
 If you have any questions or comments about our Privacy Policy please contact us at support@webceo.com.
+
+Copyright © 2001-2011 Web CEO Corp.
