@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627132202id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womma.org privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106004029id_/http%3A//womma.org/privacy) for the most accurate reproduction.*
 
 # WOMMA's Privacy Policy
 
@@ -63,7 +63,7 @@ All WOMMA materials are copyrighted and permission to reprint them must be reque
 
 Permission to reprint is typically granted for educational and informational purposes only. The reprinted material must be attributed to WOMMA. Permission will not be granted to reprint all or portions of any WOMMA materials for resale or profit. Permission to reprint entire published documents will not be granted.
 
-Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20110627132202id_/http://womma.org/privacy/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
+Anyone wishing to reprint WOMMA materials should [download the permission request form here](https://web.archive.org/web/20111106004029id_/http://womma.org/privacy/permission-request-form.doc), and email their request to WOMMA's editorial team at editor@womma.org, or fax it to 1-312-275-7687. 
 
 |    
   | 
@@ -82,7 +82,16 @@ WOMMA reserves the right to email nonmembers who have engaged WOMMA through any 
 |  [Downloads](http://womma.org/downloads)  
 ---  
 Before you leave, make sure you see these.   
-|  [](http://womma.org/downloads) | 
+|  [](http://womma.org/customerserviceguidebook/) | 
+
+Best Practices Guidebook: WOM in the Customer Contact Center   
+  
+[_Read the Guidebook_](http://womma.org/customerserviceguidebook/)
+
+  
+  
+---|---  
+[](http://womma.org/downloads) | 
 
 Webinar Library   
 Download podcasts, presentation decks, and watch SlideShares of WOMMA Webinars and Brand Council Webinars.   
@@ -90,7 +99,6 @@ Download podcasts, presentation decks, and watch SlideShares of WOMMA Webinars a
 
   
   
----|---  
 [](http://womma.org/wom101/wom101.pdf) | 
 
 WOM 101   
@@ -111,7 +119,7 @@ The WOMMA Ethics Toolkit defines best practices, baseline rules, and asks 20 que
 ---  
 Learn from the brands and agencies that successfully developed and measured WOM campaigns. Stand on the shoulders of these giants, use their lessons learned, and grow your WOM knowledge.   
 |  Building A Loyal Community for the Travel Channel  
-The Travel Channel boasts a diverse range of viewers, from armchair dreamers, living vicariously through the shows, to veteran travelers ready to plot their next trip. Travel Channel's challenge is to deliver content and consumer touch points that appeal to a diverse range of impassioned audiences. There were two over-arching objectives of the social media initiative: 1) Identify and establish... [_more.._](http://www.womma.org/casestudy/examples/create-a-fan-club-loyalist-community/building-a-loyal-community-for/)  
+[_more.._](http://www.womma.org/casestudy/examples/create-a-fan-club-loyalist-community/building-a-loyal-community-for/)  
 ---  
 ABC Studios Advisory Panel: It’s Emmy Time!  
-ABC Studios had been working with Passenger’s customer collaboration platform and client services team to build and grow a private online community around fans of existing and new shows. The goal was to give producers and executives an opportunity to directly connect with viewers, engaging them in ongoing dialogue and incorporating that voice into the development of their shows... [_more.._](http://www.womma.org/casestudy/examples/work-with-online-communities/passengerenabled-community-hel/)
+[_more.._](http://www.womma.org/casestudy/examples/work-with-online-communities/passengerenabled-community-hel/)
