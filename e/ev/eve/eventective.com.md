@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225071531id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventective.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105214535id_/http%3A//www.eventective.com/tmplt/tmplt.aspx%3Fcmsuid%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy for Eventective
 
