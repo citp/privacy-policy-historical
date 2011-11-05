@@ -1,51 +1,72 @@
-> *The following text is extracted and transformed from the bassshoes.com privacy policy that was archived on 2006-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061020001343id_/http%3A//www.shoes.com/stores/bass/shop.asp%3Fshopid%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassshoes.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105060102id_/https%3A//bassshoes.harborghb.com/bass-shoes-privacy) for the most accurate reproduction.*
 
-# Shoes – Free Shipping on Womens Shoes, Mens Shoes, Childrens Shoes
+# G.H. Bass & Co. Official Online Store - Classic and edgy styles of shoes for women, men and kids
 
-Privacy Policy  
-   
-This privacy statement discloses the privacy practices for BassShoes.com. Because we want to demonstrate our commitment to your privacy, this privacy statement will notify you of:   
-   
-  
-  * What personally identifiable information of yours or third party personal identification is collected from you through the website. 
-  * Who is collecting the information. 
-  * How the information is used. 
-  * With whom the information may be shared.
-  * What choices are available to you regarding collection, use and distribution of the information.
-  * How you can correct any inaccuracies in the information.
-  * If you feel that we are not abiding by our posted privacy policy, you should contact BassShoes.com Customer Service via email at [service@BassShoes.com](https://web.archive.org/web/20061020001343id_/http%3A//www.shoes.com/stores/bass/contactus.asp) or by telephone at: 1-888-233-6743.
+Effective Date: March 19, 2009 
 
-  
-  
-Information Collection and Use  
-The BassShoes.com website is operated by BassShoes.com, Inc. which is a subsidiary of Brown Shoe Company (NYSE: BWS). BassShoes.com, Inc. is the sole owner of all information collected on this site. This information will not be shared with, sold or rented to others in ways different from what is disclosed in this statement. This information is collected from users at several different points on the BassShoes.com website.   
-Preferred Customers  
-In order to become a [Preferred Customer](http://www.shoes.com/login/login.asp), you must first complete the registration form. During registration you are required to give personal contact information (such as name and email address). This information is used to reward loyal customers for their business. By becoming a Preferred Customer, you are able to take advantage of special offers we make available to Preferred Customers about new promotions, fashion trends, etc. It is also more convenient for a Preferred Club Customer to make purchases online.   
-Orders  
-We request information from you on our order form. Here you must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customers' orders. If we have trouble processing an order, this contact information is used to get in touch with you.   
-Cookies  
-A cookie is a piece of data stored on the hard drive of your computer, containing information about you. Usage of a cookie is in no way linked to any personally identifiable information while on our site. Once you close your browser, the cookie simply terminates. For instance, by accepting a cookie from our site, you will not have to log in your password more than once, thereby saving time while on our site. If you reject the cookie, you may still use our site. The only drawback to this is that you will be limited in some areas of our site. Cookies can also enable us to track and target the interests of our customers to enhance the experience on our site.   
-Log Files  
-We use IP addresses to analyze trends, administer the site, track users' movements, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.   
-Sharing  
-The personal information you have provided us and information about your order will never be shared with third parties. This information may, however, be combined with other information (such as demographic information and past purchase information) and used to make our future marketing efforts more efficient.   
-Links  
-From time to time, BassShoes.com may contain links to other websites. Please be aware that we cannot be responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this site.   
-Surveys and Contests  
-From time to time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.   
-Security  
-BassShoes.com takes every precaution to protect our users' information. When you submit sensitive information via the website, your information is protected both online and off-line. 
+Thank you for visiting the BassShoes.com web site operated by “Harbor Wholesale, Ltd. And Affiliates”. Your privacy is important to us at Bass Shoes.com (“Bass Shoes”,” we” or “us”). This online privacy policy explains our practices related to the information collected via this web site and how your privacy is protected. 
 
-When our registration form or order form asks you to enter sensitive information (such as credit card number), that information is encrypted and is protected with Secure Sockets Layer (SSL) encryption technology. While on a secure page, such as our order form, the lock icon on the bottom of web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when you are just "surfing." While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices. Our employees are regularly notified and reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers on which we store personally identifiable information are kept in a secure environment. If you have questions about the security of our website, email us at [service@BassShoes.com](https://web.archive.org/web/20061020001343id_/http%3A//www.shoes.com/stores/bass/contactus.asp).   
-  
-Special Offers  
-Established Preferred Customers will occasionally receive information on products, services, and special promotions. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see "Choice and Opt-Out" below.   
-Site and Service Updates  
-We also send our users site and service announcement updates. We may communicate with you to provide requested services and, in regards to issues relating to your account, via email or phone.   
-Correcting or Updating Personal Information  
-If your personally identifiable information changes (such as your zip code), or if you no longer desire our service, we will endeavor to provide a way for you to correct, update or remove your personal data provided to us. This can usually be done at the [Preferred Customer Account](https://web.archive.org/login/login.asp) maintenance page or by emailing us at [service@BassShoes.com](https://web.archive.org/web/20061020001343id_/http%3A//www.shoes.com/stores/bass/contactus.asp).   
-Choice and Opt-out  
-Our users are given the opportunity to "opt-out" of having their information used for purposes not directly related to our site at the point where we ask for the information. For example, our Preferred Customer Account information form has an 'opt-out' mechanism so users who register with us, but don't want any marketing material, can keep their email address off of our lists. If you no longer wish to receive our promotional materials you may opt-out of receiving these communications by either visiting our Preferred Customer Account information page or by sending us an email at [service@BassShoes.com](https://web.archive.org/web/20061020001343id_/http%3A//www.shoes.com/stores/bass/contactus.asp).   
-Notification of Changes  
-If we decide to change our privacy policy, we will post those changes on our homepage so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify you by way of an email. You will have a choice as to whether or not we may use your information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.   
- 
+By accessing the Site, you agree to be bound by this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site. Each time you use the Site, the current version of the Privacy Policy will apply. We reserve the right to revise this privacy policy at any time. We will notify you of any changes to this privacy policy by posting a new policy here and changing the “Effective date”. 
+
+The following discloses our information gathering and dissemination practices for this website.
+
+  **Information We Collect** We may collect two types of information from users of the Site: “personally identifiable information” which means any information by which a user can be personally identified (such as name, e-mail address, mailing address, phone number, billing and account number, credit card information, and other information incidental to providing goods and services) and “aggregate information” which means information that would not permit the personal identification of a user (such as IP address, frequency of visits to the Site and Site pages most frequently accessed). 
+
+**Collection and Use of Personally Identifiable Information**
+
+BassShoes.com collects personally identifiable information that is voluntarily provided by users of the Site, such as when placing an order on the Site, creating an account, contacting us with a question or comment, utilizing an “Email to a Friend” or wish list feature, or signing up to receive emails about our latest products and services. In addition, BassShoes.com may conduct surveys on the Site where users can voluntarily participate and provide personally identifiable information. We will maintain a record of your purchases or the types of products that appeal to you by using “Wish List” feature. By providing personally identifiable information to us, we are better to service your interests. BassShoes.com may use your personally identifiable information for various purposes such as to help us improve our Site, improve products, services and marketing efforts, and to provide content on the Site or inform you of upcoming promotions and other product or service offerings that may be of interest to you. 
+
+**Collection and Use of Aggregate Information**
+
+BassShoes.com collects aggregate information, which is used in a collective manner, and no individual person can be identified by this compiled information. The types of aggregate information we collect include frequency of visits to the Site, search terms entered, Site pages most frequently accessed; location, age or gender of users; and types of products that are of greatest interest to our customers. By knowing more about the general profile or our customers (without identifying any specific individual characteristics), we believe we can improve your shopping experience. 
+
+**Sharing, Selling and Trading Personally Identifiable Information Collected Online With Third Parties**
+
+BassShoes.com will not rent, sell or otherwise disclose your personally identifiable information, without your consent, to unrelated third parties, except as stated in this Privacy Policy. BassShoes.com may share or disclose your personally identifiable information to its parent or affiliates in connection with our internal business purposes. In addition, we may share your personally identifiable information with our third party service providers that provide assistance with operating or hosting the Site, providing or fulfilling the products and services you request through this Site, authorizing and processing of your payments, fraud protection and credit risk reduction, product customization, marketing and promotional material distribution, web site evaluation, data analysis, Site improvements, and, where applicable, data cleansing, and marketing, promotions and other services performed on our behalf. 
+
+In addition, the BassShoes.com and our affiliate companies may share or transfer personally identifiable information to unrelated third parties: if required to do so by law or to comply with a legal requirement, judicial proceeding, court order, or legal process; to investigate a possible crime, such as fraud or identity theft; or when we believe it is necessary to protect the rights, property, or safety of the BassShoes.com party or other persons. All third parties are contractually bound to use the Personally Identifiable Information only according to this privacy policy. They are not authorized to send you any information about goods and services from other companies without your permission. In the unlikely event of our bankruptcy, insolvency, merger, acquisition, reorganization, receivership, this privacy policy is null and void in its entirety, and we may sell, transfer or auction any and all information, including customer and personal information, in any manner in our sole discretion. 
+
+We may use certain aggregate information for research or marketing purposes and may share, trade or publish that aggregate information and statistical data derived from such information with our parent, affiliates or third parties for research or marketing purposes. We do not use aggregate information to identify a particular individual. 
+
+**Security**
+
+Security of your personally identifiable information is important to us at BassShoes.com. We are committed to handling such sensitive information carefully. We maintain physical, electronic and procedural safeguards to guard your personally identifiable information. We use secure socket layer (“SSL”) technology to protect the security of your payment information and we encrypt your personally identifiable information when it is sent over the Internet. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security. 
+
+**Use of Cookies, Web Beacons, or Pixel Tags** The Site uses “cookies” for the purpose of facilitating the gathering of aggregate information. Cookies are pieces of information which websites transfer to your computer’s web browser for storage on your computer’s hard drive. In addition, cookies on the Site may contain information (such as a unique user ID), which tracks the pages of the Site you have visited. This information allows us to make updates to enhance your experience including through recognizing your preferences to make shopping easier for you and providing you with a customized experience. If you wish not to utilize cookie technology, this feature may be disabled within your web browser. You may use the Site without restriction even if you have blocked cookies on your browser. 
+
+We use third-party service providers to provide Internet data hosting and to help us measure and determine how visitors use the Site and the effectiveness of the Site in order to help us improve and optimize the Site and the products and services we offer. Those service providers may place web beacons or pixel tags on certain pages of the Site or use cookies in order to facilitate collection of information regarding your use of the Site each time you visit the Site. 
+
+**Other Websites**
+
+This Privacy Policy only applies to the Site. The Site may link from several points to third party websites. BassShoes.com has no control over third party privacy policies, which may differ from this Privacy Policy. Please examine the privacy policies of such third parties prior to submitting any personal information. Neither, BassShoes.com nor its parent, affiliates, or service providers control the content that appears on any third party sites and do not endorse any of their products or services. Links to third party sites are provides solely for your convenience and any submission of data to such sites should be performed at your sole risk. 
+
+**Children**
+
+This website is not intended for children and we do not intentionally collect Personally Identifiable Information from children or provide any information about children to any third party. If you have reason to believe that we have collected Personally Identifiable Information concerning a child, please let us know immediately. 
+
+**LIMITATIONS ON LIABILITY**
+
+IN NO EVENT WILL BASSSHOES.COM OR ITS PARENT, AFFILIATES, LICENSEES OR ANY PARTY INVOLVED IN CREATING, OPERATING, PRODUCING, TRANSMITTING OR DELIVERING THIS SITE OR ITS PRODUCTS OR SERVICES BE LIABLE IN ANY MANNER WHATSOEVER FOR ANY INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, THOSE RESULTING FROM LOST PROFITS, LOST DATA OR BUSINESS INTERRUPTION) ARISING OUT OF THE USE, INABILITY TO USE, OR THE RESULTS OF USE OF THIS SITE, ANY SITES LINKED TO THIS SITE, OR THE MATERIALS, INFORMATION OR SERVICES CONTAINED AT ANY OR ALL SUCH SITES, WHETHER BASED ON WARRANTY, CONTRACT, TORT OR ANY OTHER LEGAL THEORY AND WHETHER OR NOT ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THE FOREGOING LIMITATIONS OF LIABILITY DO NOT APPLY TO THE EXTENT PROHIBITED BY LAW. PLEASE REFER TO YOUR LOCAL LAWS FOR ANY SUCH PROHIBITIONS. 
+
+IN THE EVENT OF ANY PROBLEM WITH THIS SITE OR ANY CONTENT, YOU AGREE THAT YOUR SOLE REMEDY IS TO CEASE USING THIS SITE. IN THE EVENT OF ANY PROBLEM WITH THE PRODUCTS OR SERVICES THAT YOU HAVE PURCHASED ON OR THROUGH THIS SITE, YOU AGREE THAT YOU’RE SOLE REMEDY, IF ANY, IS A RETURN AND REFUND FOR SUCH PRODUCT OR SERVICES IN ACCORDANCE WITH THE RETURNS AND REFUNDS POLICIES POSTED ON THIS SITE. 
+
+**User Requests and Corrections of or Questions Relating To User Information**
+
+If you need to make changes to your name, e-mail, postal address, telephone number or other personally identifiable information changes, please make these changes signing onto My Account link on our website. If you have a question relating changes in your information, you can email us by clicking Contact our Customer Service Department. 
+
+We reserve the right to retain any personally identifiable information reasonably necessary to appropriately document our business activities and for archival and record retention purposes. We will store personally identifiable information for as long as reasonably necessary for the purposes described in this Privacy Policy. 
+
+**User Opt-Out**
+
+You may elect not to receive promotional communications from BassShoes.com in connection with the Site. If you have established an account or signed up for our email list, you will have an opportunity to opt-out of receiving promotional emails at anytime. 
+
+Please note that removal of user information from our database or “opting-out” will not stop marketing or advertising content that is generated for distribution or is otherwise queued for transmission to you prior to the time when we can implement your request. 
+
+If you establish an account, you may receive certain types of communications even if you have not opted-in to receive them because these types of communications may be necessary in order to maintain an account on the Site. 
+
+**Changes to our Privacy Policy** This policy statement is subject to change. All changes will be posted on this page. We encourage you to review our privacy policy periodically to remain informed of changes that may have occurred. 
+
+**This website is operated by:**   
+Harbor Wholesale, Ltd. And Affiliates   
+55 Harbor Park Drive   
+Port Washington, NY 11050
