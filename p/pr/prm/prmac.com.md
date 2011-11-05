@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prmac.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503173249id_/http%3A//prmac.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prmac.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105190413id_/http%3A//prmac.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Welcome to prMac, a service brought to you by MacScripter LLC. This policy concerns the use of the prMac website at http://prmac.com. We respect and take care to maintain your privacy. prMac does not share or sell information with any other organization for commercial purposes, except to provide the service you've requested of us.
+Welcome to prMac, a service brought to you by GeekSuit LLC. This policy concerns the use of the prMac website at http://prmac.com. We respect and take care to maintain your privacy. prMac does not share or sell information with any other organization for commercial purposes, except to provide the service you've requested of us.
 
 You must be 18 years of age or older to use prMac service and this privacy policy makes no provision for use of the site by those younger.
 
@@ -24,7 +24,7 @@ prMac may be required to disclose personal information under special circumstanc
 
 prMac displays targeted advertisements based on personal information that is exhibited in members's profiles.
 
-Unless you otherwise notify MacScripter LLC in writing, you hereby grant prMac and MacScripter LLC a limited license to prominently display your trade name, trademarks, logos, domain names and other distinctive brand features only where it regards your Press Release(s).
+Unless you otherwise notify GeekSuit LLC in writing, you hereby grant prMac and GeekSuit LLC a limited license to prominently display your trade name, trademarks, logos, domain names and other distinctive brand features only where it regards your Press Release(s).
 
 prMac may update this policy at any time for any reason. If there are any significant changes to how we handle personal information we will send a notice to the primary email address specified in your account or by placing a prominent notice on our website.
 
