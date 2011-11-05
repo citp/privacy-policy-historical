@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anime-expo.org privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526193637id_/http%3A//www.anime-expo.org/guides/legal-and-privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anime-expo.org privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105093707id_/http%3A//www.anime-expo.org/guides/legal-and-privacy-policies) for the most accurate reproduction.*
 
-# Legal and Privacy Policies | Anime Expo® 2011
+# Legal and Privacy Policies | Anime Expo® 2012
 
   
 At Anime Expo® we recognize that privacy is important. This Privacy Policy applies to all of the products, services and websites offered by Anime Expo® or its subsidiaries or affiliated companies.
