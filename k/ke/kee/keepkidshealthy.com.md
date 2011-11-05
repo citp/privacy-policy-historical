@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2010-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100203231646id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keepkidshealthy.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105131454id_/http%3A//www.keepkidshealthy.com/welcome/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy at Keep Kids Healthy
 
@@ -15,8 +15,7 @@ The Keep Kids Healthy mailing list is for updating subscribers to new and update
 
 
 **What about our advertisers?**  
-Keep Kids Healthy makes use of third party companies to serve banner ads on our site. These companies, including Double Click, often use cookies and gather information to track the effectiveness of these banners. This information shared with DoubleClick (or “third party” advertiser) is non-personally-identifiable. This information collected from customer’s visit to this site and other sites is used to serve ads on this site and other sites. Visitors can choose not to have their information shared with 3rd party advertiser(s), i.e., “opt out”; and may view the [DoubleClick Privacy Policy](http://www.sonar.com/naiprivacy).  
-
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
 **How do we protect customer information?**  
 The only way that we can see your e-mail address is if you e-mail us a question or comment. We do not sell, trade, or rent your personal information to others.
