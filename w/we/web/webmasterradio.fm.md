@@ -1,45 +1,91 @@
-> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228040106id_/http%3A//www2.webmasterradio.fm/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmasterradio.fm privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105020357id_/http%3A//www2.webmasterradio.fm/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy « Online Radio / Podcast Network for the B2B and Digital Marketing Industry :: WebmasterRadio.FM
 
-**WebmasterRadio.FM, powered by NewGen Broadcasting LLC.**
+What information do we collect?
 
-Our postal address is:
+We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey or fill out a form.
 
-**3038 North Federal Highway, Suite D  
-Fort Lauderdale, FL 33306**
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.
 
-We can be reached via our [Contact Form](http://www2.webmasterradio.fm/contact/) or you can reach us by telephone at 954-376-4775.
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and [content](http://www2.webmasterradio.fm/affiliate_marketing) network privacy policy..
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
+What do we use your information for?
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+Any of the information we collect from you may be used in one of the following ways:
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site or new programs in our schedule, and not shared with other organizations for commercial purposes.
+\- To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads, customize Web page [content](http://www2.webmasterradio.fm/affiliate_marketing) based on visitors’ browser type or other information that the visitor sends and also to show a verified user our “Listen Now” links.
+\- To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, calling us at the above telephone number, writing to us at the above address.  
-From time to time, we make our customer e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above.
+\- To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations.
+\- To process transactions
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number.
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from other reputable companies. You can, however, have your name put on our do-not-share list by , sending us e-mail at the above address. Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
+\- To administer a contest, promotion, survey or other site feature
 
-With respect to Ad [Servers](http://www2.webmasterradio.fm/web_hosts): We do not partner with or have special relationships with any ad [server](http://www2.webmasterradio.fm/web_hosts) companies.
+\- To send periodic emails
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-Upon request we provide site visitors with access to no information that we have collected and that we maintain about them.
+How do we protect your information?
 
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information, unique identifiers.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-Consumers can have this information corrected by sending us e-mail at the above address, calling us at the above telephone number.
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our [servers](http://www2.webmasterradio.fm/web_hosts).
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA’s Committee on Ethical Business Practices at _“mgoldberger @ the-dma.org”_ , state or local chapters of the Better Business Bureau.
+Do we use cookies?
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
+
+Do we disclose any information to outside parties?
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+Third party [links](http://www2.webmasterradio.fm/keywords)
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+California Online Privacy Protection Act Compliance
+
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page. If you are having difficulties, please feel free to send us an email via our online contact form.
+
+Childrens Online Privacy Protection Act Compliance
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+Online Privacy Policy Only
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+Your Consent
+
+By using our site, you consent to our privacy policy.
+
+Changes to our Privacy Policy
+
+If we decide to change our privacy policy, we will post those changes on this page.
+
+Contacting Us
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://www.webmasterradio.fm
+
+3000 NE 30th Place, Suite 110  
+Fort Lauderdale, Florida  
+USA  
+info@webmasterradio.fm
