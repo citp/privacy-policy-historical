@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumecity.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615124417id_/http%3A//store.costumecity.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumecity.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105173543id_/http%3A//www.costumecity.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,7 +37,7 @@ We have taken every precaution to make your transactions secure. When you use yo
 
 Our servers use industry-standard security measures, including SSL (Secure Sockets Layer), an advanced encryption technology. This technology safeguards your personal information and guarantees privacy.
 
-[](https://www.mcafeesecure.com/RatingVerify?ref=store.costumecity.com)
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.costumecity.com)
 
 **Legal Disclosure**  
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, warrant, subpoena, court order, or legal process served on our Web site.
