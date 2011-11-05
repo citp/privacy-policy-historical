@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellgroup.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204110328id_/http%3A//www.yellgroup.com/english/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellgroup.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105195349id_/http%3A//www.yellgroup.com/english/privacypolicy) for the most accurate reproduction.*
 
 # Yell Group - Privacy policy
 
