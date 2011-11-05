@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623023201id_/http%3A//www.yashi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yashi.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105063930id_/http%3A//www.yashi.com/privacy.php) for the most accurate reproduction.*
 
 # Yashi - Free Online Games - flash games, addicting games, arcade games online, shooting games, racing, pool,adventure, flying, sonic, flash,shockwave
 
