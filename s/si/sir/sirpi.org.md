@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sirpi.org privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507110538id_/http%3A//www.sirpi.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sirpi.org privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105082238id_/http%3A//www.sirpi.org/privacy-policy) for the most accurate reproduction.*
 
 # Sirpi.org: Privacy Policy
 
