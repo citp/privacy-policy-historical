@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brandmile.com privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228160712id_/http%3A//www.brandmile.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandmile.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105174132id_/http%3A//www.brandmile.com/privacy-policy) for the most accurate reproduction.*
 
-# brandmile | India's most exclusive shoppping club
+# brandmile | Privacy Policy
 
-brandmile is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the Terms & Conditions of brandmile. By visiting the website of brandmile and/or by becoming a member you accept the provisions of this Privacy Policy. If you do not agree to our Privacy Policy please refrain from using or accessing our website. 
+brandmile is committed to ensuring that your privacy is protected. This Privacy Policy explains how we use the information we collect about you and procedures that we have in place to safeguard your privacy. This Privacy Policy forms part of the Terms & Conditions of brandmile. By visiting the website of brandmile and/or by becoming a member you accept the provisions of this Privacy Policy. If you do not agree to our Privacy Policy please refrain from using or accessing our website.
 
   1. ## Collection and Use of Information
 
@@ -10,7 +10,7 @@ When you register to become a member of brandmile we need to know your name and 
 
 We may also use aggregate information and statistics for the purposes of monitoring website usage in order to help us develop the website and our services and may provide such aggregate information to third parties. These statistics will not include information that can be used to identify any individual.
 
-While you are not required to submit any information to our website, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our website and we may not be able to provide you with certain services. In providing our members with products or services or complying with legal or commercial requirements, we may disclose personal information to selected third parties. 
+While you are not required to submit any information to our website, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our website and we may not be able to provide you with certain services. In providing our members with products or services or complying with legal or commercial requirements, we may disclose personal information to selected third parties.
 
   2. ## Children
 
@@ -48,7 +48,7 @@ Please be advised that brandmile is not responsible for any information that is 
 
   9. ## Contact
 
-We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email to legal [at] brandmile [dot] com .
+We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an email to legal [at] brandmile [dot] com.
 
 
 
