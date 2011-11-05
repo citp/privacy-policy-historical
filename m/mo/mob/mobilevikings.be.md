@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilevikings.be privacy policy that was archived on 2010-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100515231458id_/http%3A//mobilevikings.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilevikings.be privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105210049id_/https%3A//mobilevikings.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Conditions - Mobile Vikings
 
