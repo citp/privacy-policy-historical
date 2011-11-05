@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2011-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110616172411id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonlive.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106003115id_/http%3A//www.oregonlive.com/privacypolicy) for the most accurate reproduction.*
 
 # Private Policy - OregonLive.com
 
