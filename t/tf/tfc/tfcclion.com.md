@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tfcclion.com privacy policy that was archived on 2011-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110110074732id_/http%3A//tfcclion.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tfcclion.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105131948id_/http%3A//www.tfcclion.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy from tiptopmovie.com
 
