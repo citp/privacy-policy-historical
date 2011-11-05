@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotfroguk.co.uk privacy policy that was archived on 2010-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100825025939id_/http%3A//www.hotfroguk.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfroguk.co.uk privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105175819id_/http%3A//www.hotfrog.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
-# HotFrog UK Business Directory - Terms & Conditions
+# Hotfrog - terms & conditions
 
 ###  Can’t find an answer to your question or concerns? [Contact us](https://web.archive.org/ContactUs.aspx), we will respond.   
 
@@ -24,7 +24,7 @@ The four main ways we collect personal information about you are:
 
 
 
-The type of information that we collect from you may include the following: your name, phone number, address, email address, company position/title, credit card details, IP address, cookies, personal information that you include in your business listing or personal information that you email/send using email functionality on the HotFrog website. 
+The type of information that we collect from you may include the following: your name, phone number, address, email address, company position/title, credit card details, IP address, cookies, personal information that you include in your business listing or personal information that you email/send using email functionality on the Hotfrog website. 
 
 #### Our use of cookies
 
@@ -86,7 +86,7 @@ You can request access to the personal information we hold about you by making a
 
 #### Changing and deleting the information we have about you
 
-If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at [legal@hotfrog.com.au](https://web.archive.org/web/20100825025939id_/http%3A//www.hotfroguk.co.uk/legal@hotfrog.com.au). If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
+If at any time you wish to change personal information that is inaccurate or out of date, please contact us by emailing our Catch Privacy Officer at [legal@hotfrog.com.au](https://web.archive.org/web/20111105175819id_/http%3A//www.hotfrog.co.uk/legal@hotfrog.com.au). If you wish to have your personal information deleted, please let us know in the same manner as referred to above. 
 
 We will take all reasonable steps to change or delete information in response to such a request. If there is a reason that we cannot make that change or deletion, we will inform you of that reason. 
 
