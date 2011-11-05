@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vat19.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424222322id_/http%3A//www.vat19.com/privacypolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vat19.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105070528id_/http%3A//www.vat19.com/privacypolicy.cfm) for the most accurate reproduction.*
 
 # Vat19.com: Privacy Policy
 
