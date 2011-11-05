@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529012433id_/http%3A//www.thinkingphones.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkingphones.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105080522id_/http%3A//thinkingphones.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
