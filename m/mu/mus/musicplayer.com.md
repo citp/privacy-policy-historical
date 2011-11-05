@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicplayer.com privacy policy that was archived on 2011-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110512022630id_/http%3A//www.musicplayer.com/privacy-policy-revised) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicplayer.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105134331id_/http%3A//www.musicplayer.com/privacy-policy-revised) for the most accurate reproduction.*
 
 # Music Player : Privacy Policy
 
