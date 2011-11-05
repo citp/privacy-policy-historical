@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2011-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110504161142id_/http%3A//www.virginmobile.com.au/en_au/vma/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginmobile.com.au privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105112025id_/http%3A//www.virginmobile.com.au/en_au/vma/privacy) for the most accurate reproduction.*
 
 # Privacy policy – Virgin Mobile
 
