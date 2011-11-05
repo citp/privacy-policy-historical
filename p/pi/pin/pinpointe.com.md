@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523080557id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpointe.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105072744id_/http%3A//www.pinpointe.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Pinpointe Privacy Policy. We respect your privacy.
 
