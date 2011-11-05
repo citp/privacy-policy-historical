@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2010-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101205081928id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreelogo.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105100310id_/http%3A//www.allfreelogo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ AllFreeLogo.Com does not sell, rent, loan, trade, or lease any personal informat
 
 ## Browser information collected on the website:
 
-AllFreeLogo.Com analyzes our website logs to constantly improve the value of the materials available on website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.
+AllFreeLogo.Com analyzes our website logs to constantly improve the value of the materials available on website.
 
 ## Use of cookies:
 
@@ -30,8 +30,8 @@ If you feel that this site is not following its stated information policy, you m
 
 In accordance with the Digital Millennium Copyright Act of 1998 (the text of which may be found on the U.S. Copyright Office website at <http://lcweb.loc.gov/copyright/>, AllFreeLogo will respond expeditiously to claims of copyright infringement that are reported to AllFreeLogo. If you are a copyright owner, or are authorized to act on behalf of an owner of the copyright or of any exclusive right under the copyright, and believe that your work has been copied in a way that constitutes copyright infringement, please report your notice of infringement to AllFreeLogo by providing all the necessary information to info[at]allfreelogo.com. 
 
-### [The Importance of a Well-Designed Logo](https://web.archive.org/article/the-importance-of-a-well-designed-logo.html "The Importance of a Well-Designed Logo")
+### [9 Keys to an Effective Logo](https://web.archive.org/article/9-keys-to-an-effective-logo.html "9 Keys to an Effective Logo")
 
-**Liz Jackson**
+**Erin Ferree**
 
-You have one chance to make a first impression. Potential customers will form an opinion of a business within seconds. A company?s logo is therefore extremely influential, as it is almost always the first thing a customer will see. In addition, once a customer becomes familiar with a business, the company?s logo will always be associated with that company name, and in turn, the company name will be associated with the logo. For these reasons, a considerable amount of thought should go into choosing a logo. {[Read Full Article](https://web.archive.org/article/the-importance-of-a-well-designed-logo.html "The Importance of a Well-Designed Logo")}
+The right logo, with the right characteristics, will boost your visibility, credibility and memorablity ? which means more business for you! {[Read Full Article](https://web.archive.org/article/9-keys-to-an-effective-logo.html "9 Keys to an Effective Logo")}
