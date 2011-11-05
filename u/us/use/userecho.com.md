@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613162950id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userecho.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105203725id_/http%3A//userecho.com/privacy-policy) for the most accurate reproduction.*
 
 # UserEcho.com - Customer feedback 2.0 Creative ideas for Your projects
 
