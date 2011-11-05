@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225063511id_/http%3A//www.appriver.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appriver.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105090953id_/http%3A//www.appriver.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AppRiver Privacy Policy
 
@@ -65,7 +65,7 @@ AppRiver takes every precaution to protect our user's information. When users su
 
 When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry - SSL. While on a secure page, such as our payment form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just'surfing'.
 
-While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing personnel or a customer service representative) are granted access to personally identifiable information. Our employees must lock their workstations when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in an extremely secure and restricted environment. **Only authorized personnel with military-grade pass cards and that are identified by biometric hand scanners have access to these secure areas where the servers are housed.**
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing personnel or a customer service representative) are granted access to personally identifiable information. Our employees must lock their workstations when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every month as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users' information is protected. Finally, the servers that store personally identifiable information are in an extremely secure and restricted environment. _Only authorized personnel with military-grade pass cards and that are identified by biometric hand scanners have access to these secure areas where the servers are housed._
 
 If users have any questions about the security at our Web site, users can send an email to [support@appriver.com](mailto:support@appriver.com).
 
@@ -89,6 +89,8 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 If, however, we are going to use user's personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
 
+## Privacy Questions Contact Information
+
 If users have any questions or suggestions regarding our privacy policy, please contact us at:
 
 Phone: 850-932-5338   
@@ -96,4 +98,4 @@ Fax: 850-932-5339
 Email: [support@appriver.com](mailto:support@appriver.com)  
 Postal Address 1101 Gulf Breeze Pkwy, Gulf Breeze, FL 32561
 
-Web site URL <http://www.appriver.com/privacy.asp>
+Web site URL [http://www.appriver.com/privacy-policy.aspx](https://web.archive.org/privacy-policy.aspx)
