@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606125106id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fool.com.au privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105094210id_/http%3A//www.fool.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Fool Australia
 
 The Motley Fool Australia Pty, Ltd ACN 146 988 052, (“The Motley Fool”) takes the issue of privacy very seriously and is committed to protecting and respecting your privacy. This Privacy Policy sets out The Motley Fool’s current data processing practices. If you have any queries or concerns regarding these practices, you should contact The Motley Fool at [privacy@fool.com.au](mailto:privacy@fool.com.au).
 
@@ -19,7 +19,7 @@ The information outlined above is processed and stored by our parent company, Th
 
   * **More Customised Service:** The Motley Fool collects personal information to provide you, the user, with the best and most personalised Web experience possible and to provide our advertisers with an efficient means to reach the right audience. In short, by knowing a little about you, The Motley Fool can deliver more relevant content and advertisements to you while at our Web site and thus, provide you with a more efficient, customise and seamless experience when using our service.
   * **Internal Research:** Cookies and the other information we automatically track are used to help us better understand how our audience uses our site as well as for internal research on users’ demographics and interests. Each browser accessing The Motley Fool is given a unique cookie which is then used to determine usage patterns, and to help in targeting content and ads based on user interests.
-  * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these subsequent communications, unsubscribe [here](https://web.archive.org/web/20110606125106id_/http://www.fool.com.au/unsubscribe).
+  * **To Contact You:** We may subsequently email you about our various products and services, or other products and services we feel may interest you. If you’d rather not receive these subsequent communications, unsubscribe [here](https://web.archive.org/web/20111105094210id_/http://www.fool.com.au/unsubscribe).
 
 
 
