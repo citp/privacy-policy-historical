@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rwandair.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508021604id_/http%3A//www.rwandair.com/services/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rwandair.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105072417id_/http%3A//www.rwandair.com/services/privacy-policy.html) for the most accurate reproduction.*
 
 # rwandair.com | Privacy Policy
 
