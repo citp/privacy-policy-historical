@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530050754id_/http%3A//www.architecturaldesigns.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architecturaldesigns.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105113221id_/http%3A//www.architecturaldesigns.com/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # House Plans & Home Floor Plans at Architectural Designs
 
