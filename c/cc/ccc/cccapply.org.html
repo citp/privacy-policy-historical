@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the cccapply.org privacy policy that was archived on 2010-06-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612165617id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cccapply.org privacy policy that was archived on 2011-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111105114240id_/http%3A//www.cccapply.org/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html lang="en"><head>
 <title>CCCApply - Privacy Policy Statement</title>
 	
 	
-	<meta name="description" content="CCCApply is your online gateway to the California Community Colleges. Each year at our 112 colleges, more than two million students from all over the world build their career skills, prepare for transfer to four-year colleges and universities, or simply enrich their lives through learning.">
-	<meta name="keywords" content="CCC,CCCApply,California Community Colleges,College,College Education,Higher Education,Transfer Students,Career Advancement,Career Skills,Online Application">
+	<meta name="description" content="CCCApply.org is your online gateway to the California Community Colleges. Each year at our 112 colleges, nearly three million students from all over the world build their career skills, prepare for transfer to four-year colleges and universities, or simply enrich their lives through learning.">
+	<meta name="keywords" content="CCC,CCCApply,California Community Colleges,College,Community College,College Education,Higher Education,Transfer Students,Career Advancement,Career Skills,Online Application,Admission Application, International Students">
 	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 	
 	<link rel="stylesheet" type="text/css" href="/Shared_Files/StyleSheets/new_stylesheet.css">
@@ -14,6 +14,48 @@
 <!--[if IE 6]>
 	<link rel="stylesheet" type="text/css" href="/Shared_Files/StyleSheets/IE6_stylesheet.css">
 <![endif]-->
+
+<script language="javascript">
+	function toggle_changeEmail() {
+		var div_name = document.getElementById("changeEmail");
+		var flag =  document.getElementById("changeEmailFlag");
+		
+		if (div_name.style.display != "none") {
+			div_name.style.display = "none";
+			flag.value = '0';
+		}
+		else {
+			div_name.style.display = "block";
+			flag.value ='1';
+		}
+	}
+	function toggle_changePassword() {
+		var div_name = document.getElementById("changePassword");
+		var flag =  document.getElementById("changePasswordFlag");
+		
+		if (div_name.style.display != "none") {
+			div_name.style.display = "none";
+			flag.value = '0';
+		}
+		else {
+			div_name.style.display = "block";
+			flag.value ='1';
+		}
+	}
+	function toggle_changeSecurity() {
+		var div_name = document.getElementById("changeSecurity");
+		var flag = document.getElementById("changeSecurityQuestionFlag");
+		
+		if (div_name.style.display != "none") {
+			div_name.style.display = "none";
+			flag.value = '0';
+		}
+		else {
+			div_name.style.display = "block";
+			flag.value ='1';
+		}
+	}
+</script>
 
 
 </head>
@@ -31,13 +73,13 @@
 		
 		<div id="topNav">
 			<div id="siteSearch">
-				<form action="/Search/default.asp" method="post" name="minisearch">
-				<input name="inst" type="hidden" value="0">
-				<input type="hidden" name="formpost" value="1">
-				<input type="hidden" name="RN">
-				<input type="hidden" name="system_id" value="26">
+				<form name="minisearch" id="minisearch" action="/search">
+				<input type="hidden" name="cx" value="004870573881480105826:ce5wq3cfgiu">
+				<input type="hidden" name="cof" value="FORID:11;NB:1">
+				<input type="hidden" name="ie" value="UTF-8">
+
 				<label class="invisible" for="formSearch">Search this site:</label>
-				<input type="text" name="qu" value="" size="20" maxlength="50" id="formSearch">
+				<input type="text" name="q" value="" size="20" maxlength="50" id="formSearch">
 				<a href="javascript:document.minisearch.submit();"><img src="/shared_files/homepage/search-go.png" width="29" height="27" alt="Search CCCApply" border="0"></a>
 				</form>
 			</div>
@@ -187,7 +229,7 @@ If you have any questions about this Privacy Policy and the privacy practices on
 	<div id="footer">
 		
 		<div class="invisible"><a href="#skipDisclaimer">Skip Disclaimer</a></div>
-		<p><span class="copyright">Brought to you by the <a href="http://www.cccco.edu/" target="new">California Community Colleges Chancellor's Office</a> and powered by <a href="http://www.xap.com" target="new">XAP Corporation</a>. <br>Copyright © 2001-2010 <a href="http://www.xap.com" target="new">XAP Corporation</a>. All rights reserved.  Use of this website constitutes acceptance of the XAP  <a href="/terms.asp">Terms of Use</a> and <a href="/privacy.asp">Privacy Policy</a>.</span></p>
+		<p><span class="copyright">Brought to you by the <a href="http://www.cccco.edu/" target="new">California Community Colleges Chancellor's Office</a> and powered by <a href="http://www.xap.com" target="new">XAP Corporation</a>. <br>Copyright © 2001-2011 <a href="http://www.xap.com" target="new">XAP Corporation</a>. All rights reserved.  Use of this website constitutes acceptance of the XAP  <a href="/terms.asp">Terms of Use</a> and <a href="/privacy.asp">Privacy Policy</a>.</span></p>
 	</div>
 	<div class="invisible"><a name="skipDisclaimer">Disclaimer Skipped</a></div>
 
@@ -196,14 +238,24 @@ If you have any questions about this Privacy Policy and the privacy practices on
 <!-- BEGIN ANALYTICS -->
 
 <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
 <script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-3624566-11");
-pageTracker._setDomainName("cccapply.org");
-pageTracker._setLocalRemoteServerMode();
-pageTracker._trackPageview();
+	var pageTracker = _gat._getTracker("UA-3624566-11");
+	pageTracker._setDomainName("cccapply.org");
+	pageTracker._setLocalRemoteServerMode();
+	pageTracker._trackPageview();
+	pageTracker._trackPageLoadTime();
+
+	function recordOutboundLink(link, category, action) {
+		try {
+			var pageTracker=_gat._getTracker("UA-3624566-11");
+			pageTracker._trackEvent(category, action);
+			setTimeout('document.location = "' + link.href + '"', 100)
+		}catch(err){}
+	}
 </script>
 
 <!-- END ANALYTICS -->
