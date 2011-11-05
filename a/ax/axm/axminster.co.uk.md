@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axminster.co.uk privacy policy that was archived on 2011-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110505081737id_/http%3A//www.axminster.co.uk/privacy-and-security-artlcs_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axminster.co.uk privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105100729id_/http%3A//www.axminster.co.uk/privacy-and-security-artlcs_security) for the most accurate reproduction.*
 
 # Privacy & Security
 
