@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2010-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100925030713id_/http%3A//www.junauza.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junauza.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105062514id_/http%3A//www.junauza.com/2007/07/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechSource
 
@@ -19,7 +19,7 @@ Links
 This Web site contains links to other sites. Please be aware that I am not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
 
 Advertisers  
-I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense and Amazon.
+I use outside ad companies to display ads on my site. These ads may contain cookies and are collected by the ad companies, and I do not have access to these information. I work with the ad companies: Google Adsense and Infolinks.
 
 Contact Information  
 If users have any questions or suggestions regarding my privacy policy, please contact me at auzajun(at) gmail(dot)com.  
