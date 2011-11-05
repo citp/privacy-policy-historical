@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parttimeworld.com privacy policy that was archived on 2011-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110604100338id_/http%3A//www.parttimeworld.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parttimeworld.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105174954id_/http%3A//parttimeworld.com/privacy.php) for the most accurate reproduction.*
 
 # Parttimeworld.net- Terms and Conditions
 
