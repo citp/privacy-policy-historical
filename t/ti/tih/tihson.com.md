@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tihson.com privacy policy that was archived on 2010-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100107151928id_/http%3A//www.tihson.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tihson.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105144036id_/http%3A//www.tihson.com/privacy.php) for the most accurate reproduction.*
 
 # Tihson | Privacy Statement
 
