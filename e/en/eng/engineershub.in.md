@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the engineershub.in privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621131204id_/http%3A//www.engineershub.in/privacy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engineershub.in privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105044206id_/http%3A//www.engineershub.in/privacy/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy - Engineers Hub
 
 [Skysa Website Social Bar](http://www.sksysa.com/)
 
 [News Widget](http://www.rsspump.com/?web_widget/rss_ticker/news_widget "News Widget")
+
+[News Widget](http://www.rsspump.com/?web_widget/rss_ticker/news_widget "News Widget")
+
+**CONGRATULATIONS TO THE TOP SCORER OF THE WEEK - - - APTITUDE TEST - SAI SHASHANK AKULA (93/100) - MAHAVEER INSTITUTE OF SCIENCE & TECHNOLOGY (HYDERABAD) -------------WANT TO BECOME A MODERATOR OF ENGINEERSHUB , MEMBERS WHO ARE INTRESTED TO BECOME THE MODERATOR OF THIS SITE PLEASE REGISTER HERE AND CONTACT ADMINISTRATOR - BECOME A MODERATOR AND GET MUCH FEATURES & HELP IN MANY ASPECTS, THANKYOU**
 
 [ ](http://www.engineershub.in/ "Engineers Hub Home")
 
