@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realstrategic.com privacy policy that was archived on 2011-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110222233503id_/http%3A//realstrategic.com/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realstrategic.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105075020id_/http%3A//www.realstrategic.com/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy : Welcome To Real Strategic, Inc
+# Privacy Policy « Real Strategic, Inc
 
 **Real Strategic is committed to protecting your privacy. This Statement of Privacy applies to the Real Strategic website and governs data collection and usage. By using the Real Strategic website, you consent to the data practices described in this statement.**
 
