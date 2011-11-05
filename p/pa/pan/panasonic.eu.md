@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the panasonic.eu privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514102740id_/http%3A//panasonic.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panasonic.eu privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105085437id_/http%3A//panasonic.eu/privacy.html) for the most accurate reproduction.*
 
 # Panasonic - Privacy Policy
 
 ### 
 
-This privacy policy is only applicable to the website under www.panasonic-europe.com owned and operated by Panasonic Marketing Europe GmbH and its group companies and subsidiaries (referred to collectively below as "the Company").
+This privacy policy is only applicable to the website under www.panasonic.eu owned and operated by Panasonic Marketing Europe GmbH and its group companies and subsidiaries (referred to collectively below as "the Company").
 
 **1\. Privacy Policy on the Website**
 
