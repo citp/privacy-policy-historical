@@ -1,96 +1,90 @@
-> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629234949id_/http%3A//www.yext.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105033717id_/http%3A//www.yext.com/privacy.html) for the most accurate reproduction.*
 
-# Yext - The Next Yellow Pages™
+# Yext.com Privacy Policy | Yext
 
 [](http://www.truste.org/ivalidate.php?companyName=Yext%20Inc&sealid=101)
 
-**Yext.com**  
-**Privacy Policy**  
-**(Last Updated: June 15, 2009)**
+(Last Updated: November 4, 2010)
 
-Yext.com, an Internet property of Yext Advertising, LLC ("Yext", "us" or "we"), has created this privacy policy (the "Privacy Policy") in order to disclose our information gathering and dissemination practices. We understand the importance that Internet users place on privacy and have designed our service with this in mind. Yext is fully committed to 100% permission-based marketing. You agree to this Privacy Policy, in its entirety, when you: 1) access or use our website located at www.yext.com (the "Site"); 2) agree to receive e-mail from us; and/or 3) obtain, or attempt to obtain, Yext services at a website belonging to a Yext affiliate.
+This Privacy Policy (this "Privacy Policy") discloses the privacy practices for [www.yext.com](http://www.yext.com/) and all other internet properties (collectively, the "Sites") belonging to Yext, Inc. or any of its affiliates ("Yext", "us" or "we"). We understand the importance that Internet users place on privacy and have designed this Privacy Policy to disclose and describe our information gathering and dissemination practices. You agree to this Privacy Policy, in its entirety, when you: 1) access or use any Site; and/or 2) agree to receive e-mail from us. Please note that we reserve the right to review and update this Privacy Policy from time to time by posting a prominent notice on the homepage stating that the Privacy Policy has been changed and updating the effective date of this Privacy Policy. If you use a Site after the amended Privacy Policy has been posted, you will be deemed to have agreed to the amended Privacy Policy.
 
-**This Privacy Policy will address the following:**  
-1\. What information this Site gathers/tracks about you.  
-2\. What this Site does with the information it gathers/tracks.  
-3\. With whom this Site shares the information it gathers/tracks.  
-4\. This Site's opt-out policy.  
-5\. This Site's policy on correcting and updating personally identifiable information.  
-6\. This Site's policy on deactivating your name from our database.
+### This Privacy Policy addresses the following:
 
-If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information to any third party for marketing purposes, please email us at support@yext.com.
+  1. Information that we collect about you.
+  2. What we do with the information that we collect.
+  3. With whom we share the information we collect.
+  4. Our opt-out policy.
+  5. Our policy on correcting and updating the personally identifiable information and deactivation your account.
+  6. Miscellaneous
 
-**Information Collected:**
 
-**Registration**  
-Upon registration, users may be required to provide some or all of the following information:  
-1\. Name  
-2\. Gender  
-3\. E-mail address  
-4\. Address  
-5\. Zip code  
-6\. Home Phone  
-7\. Mobile Phone
 
-We also collect third-party email addresses in order to assign managers to the login sections of Yext. You may opt out by following the instructions int he Opt-Out/Unsubscribe section below.
+## Information that we collect about you:
 
-Yext creates internal reports on user demographics and traffic patterns for our advertisers and partners. We may include your personal information in our reports. This information allows our third-party advertisers to deliver, and our users to receive, more relevant advertisements.
+### Information Provided by You Upon Registration. Upon registration, you may be required to provide some or all of the following personally identifiable information ("PII"):
 
-We reserve the right to transfer and/or sell aggregate or group data about the site's users for lawful purposes. Aggregate or group data is data that describes the demographics, usage or other characteristics of the site's users as a group without disclosing personally identifiable information. By submitting your personal information to, and/or using, Yext, you agree to allow us to transfer and/or sell such aggregate data to third parties.
+  1. Name
+  2. Gender
+  3. E-mail address
+  4. Address
+  5. Zip code
+  6. Home Phone
+  7. Mobile Phone
 
-If your personally identifiable information ("PII") changes, or if you no longer desire our services, you may correct, update, delete or deactivate it by emailing our Customer Support at support@yext.com or by contacting us by telephone or postal mail at the contact informaion listed below.
 
-We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate usage, volume statistics, visitors and page views to monitor numerical details of the site. Aboslutely no information collected via Google Analytics is linked to PII.
 
-**IP Addresses**  
-We use your IP address to help diagnose problems with our server, and to administer our Site. Your IP address is used to gather broad and specific demographic information as well as for validation purposes.
+Passively Collected Information. When you interact with us through a Site, we receive and store certain additional information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. Examples include IP addresses, browser types, domain names, and other anonymous statistical data involving your use of a Site and/or our services.
 
-**Cookies**  
-We use cookies to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit our Site (if you choose), and for other purposes. Absolutely no information collected via cookies is linked to PII.
+Use of Cookies. In operating the Sites, we use "cookies." A "cookie" is a piece of information that the computer that hosts a Site gives to your computer when you access a Site. Cookies enable us to deliver content specific to your interests, to save your password so that you do not have to re-enter it each time that you visit a Site (if you choose), and for other purposes. On most web browsers, you will find a "help" section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. Acceptance of cookies is not a requirement to browse a Site; however certain areas and features of a Site require your acceptance of cookies to work properly.
 
-**Sharing of Information:**  
-With your consent, we use the registration data that you supply to personalize your experience with the Yext service and for verification purposes. You will have an opportunity to choose not to share the information by opting out at support@yext.com. Yext is able to offer its services to you, in part, based on your willingness to be reached by our third-party advertisers. By allowing Yext to make the information you supply available to these third parties, you will receive free information on products and services that may be of interest to you. This information may also be shared with advertisers on an aggregate basis. We also use contact information from your registration data to send you information about Yext and to keep you informed of our other products and services that may be of interest to you. Please keep in mind, though, that Yext does not control, and is not responsible for, the practices of our third-party advertisers. Your contact information is also used to reach you, when necessary, regarding issues concerning the use of our service. If you wish to stop receiving future communications from us, please see the Opt-Out/Unsubscribe section below.
+Use of Google Analytics. We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our Sites in the aggregate.
 
-We, like many businesses, sometimes hire other companies (the "Service Providers") to perform certain business-related functions. Examples include mailing information, maintaining databases, and hosting services. When we employ another company to perform a function of this nature, we provide them with the information that they need to perform their specific function, which may include information that you provide to us via Yext.
+## What we do with the information we collect
 
-We may share the information that you provide to us with Service Providers, which information shall be protected by such Service Providers in accordance with their privacy policies. All information that you share directly with the Service Providers will be governed by such Service Providers' privacy policies. When you call a Service Provider using the phone number available via Yext, we, or our third party service providers, may record these phone calls and share such recordings with the applicable Service Provider. The recordings shall be maintained by the Service Providers in accordance with their privacy policies.
+Use of PII. If you provide PII for a certain reason, we will use the PII in connection with the reason for which it was provided. For example, we will use the PII you input during the registration process to administer your access to a Site. We may also use the registration data that you provide to personalize your experience with us and for verification purposes. We also use contact information from your registration data to send you information about us and to keep you informed of our other products and services that may be of interest to you. Your contact information is also used to reach you, when necessary, regarding issues concerning the use of the Sites and/or our service.
 
-With your consent, by submitting your e-mail address at the Website and/or obtaining services from us, you agree to receive e-mail marketing from Yext and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR 310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, Yext retains the right to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a third-party advertiser at or through Yext, such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via e-mail, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR.
+We use PII collected through the Sites to help us improve the Sites and our products and services, and to better understand our users. We may use your PII to create aggregate data. Aggregate data is data that describes the demographics, usage or other characteristics of a Site's users as a group without disclosing PII. We reserve the right to transfer and/or sell aggregate or group data about a Site's users for lawful purposes. We may also create internal reports on user demographics and traffic patterns and share these reports with our advertisers and partners. We may include your PII in our reports. This information allows our third-party advertisers and partners to deliver, and our users to receive, more relevant advertisements.
 
-Yext reserves the right to release current or past user information: a) in the event we believe that the Yext service is being or has been used in violation of the Terms of Service or to commit unlawful acts; b) if the information is subpoenaed; or c) if the Company is sold or acquired. Moreover, you hereby consent to disclosure of any record or communication to any third party when the Company, in its sole discretion, determines the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time.
+We use your IP address to help diagnose problems with our server, and to administer the Sites. Your IP address is also used to gather broad and specific demographic information as well as for validation purposes.
 
-**Other Websites:**  
-This Site may contain links to other third-party owned and/or operated websites. Yext is not responsible for the privacy practices or the content of such websites. Additionally, marketing partners provide certain components of our service. Some of these marketing partners may require the transfer of some or all of the registration data you supplied to the Company. When necessary, the Company provides this information to our marketing partners with your consent. In some cases, you may be able to make a purchase through one of their third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and the Company has no responsibility or liability relating to them.
+Use of Information That is NOT PII. We may pool information that is not PII with other information in order to track, for example, the total number of visitors to a Site, the number of visitors to each page of a Site, the domain names of our users' Internet service providers. No PII is available or used in this process.
 
-**Third-Party Offers:**  
-Yext provides you with the opportunity to receive special offers products and/or services from other third-party companies. To receive such offers, products or services, your personally identifiable information supplied to us during the Yext registration process will be shared with such third-party companies with your consent, so that they may provide their product or service to you without requiring that you first fill another registration form. You may opt-out of receiving these communications by emailing us at support@yext.com.
+Amended Telemarketing Sales Rule. With your consent, by submitting your e-mail address via a Site and/or obtaining services from us, you agree to receive e-mail marketing from us and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR 310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a third-party advertiser at or through a Site, such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via e-mail, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR.
 
-**Third-Party Newsletter:**  
-With your subscription to Yext, you may receive a complimentary copy of the Privacy Safety Newsletter via email. You may unsubscribe from the Newsletter at any time by emailing support@yext.com. Any grievances to the Newsletter regarding misuse should go to support@yext.com.
+## With whom we share the information we collect:
 
-**Blog:**  
-If you use the blog on this site, you should be aware that any PII you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the PII you choose to submit in these forums.
+Third Party Advertisers. We are able to offer our services to you, in part, based on your willingness to be reached by our third-party advertisers. By allowing us to make the information you supply available to these third parties, you will receive free information on products and services that may be of interest to you. This information may also be shared with advertisers on an aggregate basis. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our third-party advertisers.
 
-**Testimonials:**  
-We post customer testimonials on our web site which may contain PII such as the customer's name. We do obtain the customer's consent prior to posting the testimonial to post their name along with their testimonial.  
-If you want to remove your PII that is being displayed on our website under public pages, please send your request to support@yext.com.
+Third-Party Offers. We may provide you with the opportunity to receive special offers, products and/or services from third-party companies. To receive such offers, products or services, your PII will be shared with such third-party companies, so that they may provide their products and/or services to you without requiring that you first fill another registration form. You may opt-out of receiving these communications by emailing us at [service@yext.com](mailto:service@yext.com).
 
-**Security:**  
-All collected information is stored in a technically and physically secure environment. Furthermore, access to this information is strictly limited, and not accessible to the public. Our employees are dedicated to ensuring the security and privacy of all Yext user information.
+Third-Party Newsletter. With your use of a Site, you may receive a complimentary copy of the Privacy Safety Newsletter via email. You may unsubscribe from the Newsletter at any time by emailing service@yext.com. Any questions or concerns regarding the Privacy Safety Newsletter should also be sent to [service@yext.com](mailto:service@yext.com).
 
-**Minors:**  
-Visitors under 18 years of age are not permitted to use and/or submit their personal information at our Site. Yext does not knowingly solicit or collect information from visitors under 18 years of age. Yext encourages parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+Service Providers. We, like many businesses, sometimes hire other companies ("Service Providers") to perform certain business-related functions. Examples include mailing information, maintaining databases, and hosting services. When we employ a Service Provider to perform a function of this nature, we provide it with the information that it needs to perform its specific function, which may include PII and other information that you provide to us via a Site. All information that we provide to a Service Provider, as well as information that you share directly with a Service Provider, will be governed by such Service Provider's privacy policies. When you call a Service Provider using a phone number available via a Site, we, or our third party service providers, may record these phone calls and share such recordings with the applicable Service Provider. The recordings shall be maintained by the Service Providers in accordance with their privacy policies.
 
-**Opt-Out/Unsubscribe:**  
-To stop receiving future communications from Yext or to opt out of having your personal information shared with third parties, please send an e-mail with your Login Name and e-mail address to support@yext.com. To unsubscribe from our service, please send an e-mail with your Login Name and e-mail address to support@yext.com.
+Legal Requirements: We may disclose PII if required to do so by law or in the good faith belief that such action is necessary to (a) comply with a legal obligation, (b) protect and defend our rights or property, (c) act in urgent circumstances to protect the personal safety of users of any Site or the public, or (d) protect against legal liability. Moreover, you hereby consent to disclosure of any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate including, without limitation, sharing your e-mail address with other third parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time.
 
-**Changes in Privacy Policy:**  
-Yext reserves the right to change or update this Privacy Policy at any time by posting a prominent notice on the homepage stating that we are changing our Privacy Policy and updating the effective date of the privacy policy. The user's continued use of the Company's service and/or continued receipt of Company e-mails constitutes an affirmative acknowledgement and acceptance by the user of the modified Privacy Policy.
+Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, PII may be part of the transferred assets.
 
-**Contacting Yext:**  
-Our "contact us" page contains e-mail links that allow you to contact us directly with any questions or comments that you may have. We read every message sent in and endeavor to reply promptly to each one. This information is used to respond directly to your questions or comments.  
-If you have any questions about this Privacy Policy or the practices of the Company, please feel free to contact us at support@yext.com.
+## Our opt-out policy:
 
-Yext Inc is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  
-Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.  
-If you have any questions or concerns regarding this statement, you should first contact us at support@yext.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php TRUSTe will then serve as a liaison with us to resolve your concerns.
+To stop receiving future communications from us or to opt out of having your PII shared with third parties, please send an e-mail with your Login Name and e-mail address to [service@yext.com](mailto:service@yext.com). To unsubscribe from our service, please send an e-mail with your Login Name and e-mail address to [service@yext.com](mailto:service@yext.com).
+
+## Our policy on correcting and updating PII and deactivating your account:
+
+If your PII changes, or if you no longer desire our services, you may correct, update or delete your PII, and/or deactivate your account, by emailing our Customer Support at [service@yext.com](mailto:service@yext.com).
+
+## Miscellaneous
+
+Other Websites. The Sites may contain links to third-party owned and/or operated websites. We are not responsible for the privacy practices or the content of such websites. We suggest that you contact these third parties directly for information regarding their privacy, security and data collection and distribution policies prior to providing them with any information.
+
+Blogs and Public Features of the Sites. If you use a blog or any similar feature on a Site, you should be aware that any PII you submit there can be read and collected by other users of these forums and could be used to send you unsolicited messages and for other purposes. NONE OF THE INFORMATION THAT YOU PROVIDE USING THESE FEATURES IS PROTECTED BY THIS PRIVACY POLICY. WE ARE NOT RESPONSIBLE FOR THE PII YOU CHOOSE TO SUBMIT IN THESE FORUMS OR THE USE THEREOF BY ANY THIRD PARTY.
+
+Testimonials. We may post customer testimonials on the Sites which may contain PII such as the customer's name. We obtain the customer's consent to post his/her PII along with the testimonial, prior to posting the testimonial. If you want to remove your PII that is being displayed on a Site under public pages, please send your request to [service@yext.com](mailto:service@yext.com).
+
+Security. We take commercially reasonable steps to protect PII from loss, misuse, unauthorized access, disclosure, alteration and destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from a Site may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any PII to us or to any other party via the Internet.
+
+Minors. Visitors under 18 years of age are not permitted to use and/or submit their personal information at any Site. We do not knowingly solicit or collect information from visitors under 18 years of age. We encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
+
+TRUSTe Web Privacy Seal Program. We are a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
+
+Contacting Us. Our "contact us" page contains e-mail links that allow you to contact us directly with any questions or comments that you may have. If you have any questions about this Privacy Policy or our privacy practices, please feel free to contact us at [service@yext.com](mailto:service@yext.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
