@@ -1,86 +1,55 @@
-> *The following text is extracted and transformed from the accoona.com privacy policy that was archived on 2007-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071015232215id_/http%3A//www.accoona.com/legal/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accoona.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105225542id_/http%3A//www.accoona.com/privacy) for the most accurate reproduction.*
 
-# accoona - Privacy Policy
+# Local Online Business Directory & Yellow Pages | Accoona - San Francisco, CA
 
-**Privacy Policy** \- Last Modified January 21, 2005 
+## Accoona.com Privacy Policy
 
-[](http://www.truste.org/ivalidate.php?url=www.accoona.com&sealid=101)This website (the "Site") is owned and operated by Accoona Corp. Accoona Corp and our subsidiary companies worldwide (collectively, "Accoona" or "we") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Accoona has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including Accoona's search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or our services. This Privacy Policy applies only to information that we collect on the Site (or otherwise through our search engine) and does not apply to information which we may collect by other means.
+**THE FOLLOWING PRIVACY STATEMENT DETAILS THE Accoona.com PLEDGE TO KEEP YOUR INFORMATION PRIVATE.** Any questions in regards to Accoona.com privacy practices should be sent via email to [info@accoona.com](mailto:info@accoona.com).
 
-This website (the "Site") is owned and operated by Accoona Corp. Accoona Corp and our subsidiary companies worldwide (collectively, "Accoona" or "we") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. Accoona has established this Privacy Policy to let you know what information we may collect from you on the Site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including Accoona's search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site or our services. This Privacy Policy applies only to information that we collect on the Site (or otherwise through our search engine) and does not apply to information which we may collect by other means.
+### What type of information does Accoona.com collect?
 
-Personal Information
+Accoona.com utilizes the cookie feature of your browser. Cookies, on their own, can't be used to identify you. The cookie feature of your browser can be turned off; simply locate your browser preference options. Keep in mind that disabling the cookie feature will prevent you from participating in certain activities.
 
-_Information We May Collect_
+Your IP address helps Accoona.com diagnose server problems and helps us administer website functions. IP addresses provide us with geographical information and aggregated information on how visitors utilize Accoona.com. By monitoring search queries, access times, and traffic patterns we can determine how to market users and make their experience more enjoyable.
 
-Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address. In general, you can visit the Site and use its search engine and other features without telling us who you are or revealing any Personal Information about yourself. However, in order to access certain information, services or features contained on the Site, we may require you to provide Personal Information. For example, we will collect certain Personal Information if you choose to subscribe to our mailing list or send questions or comments to us via e-mail.
+### What does Accoona.com do with my data?
 
-_How We May Use Your Information_
+Accoona.com only collects data to enhance and personally tailor our website to meet your needs. Personal information that is collected allows us to customize website content and generate targeted advertisements based on your particular preferences. Cookies help us distinguish between individual users, tailor fit homepages, control advertisement frequency, and so on.
 
-If you provide us with Personal Information, we may retain and use that information for several purposes. For example, we may use your Personal Information in order to process and fulfill any transactions or services that you request, such as responding to your questions or sending e-mails to our mailing list subscribers. We may also use Personal Information to ensure compliance with our policies and applicable law. In addition, we may send you periodic communications by e-mail or regular mail, such as special offers or information on our services. If you wish to opt out of receiving e-mail communications from us at any time, simply follow the instructions for doing so in the e-mails that you receive from us. If you need any further assistance, you can contact us at the following page: <http://www.accoona.com/about/contact_us.jsp>
+IP addresses help us diagnose server issues and help us administer Accoona.com. Without your IP address it would be impossible to keep our services running 24/7, and we want to be here for you around the clock.
 
-_With Whom We May Share Your Information_
+Every email sent to Accoona.com users is to meet your needs. We offer website updates, inform you of new features, allow you to register for special offers and sweepstakes, all for your enjoyment. If at any point these emails become annoying or bothersome, simply click on the link provided to opt out.
 
-If you choose to provide us with your Personal Information on the Site, we may transfer that information within Accoona. We may store and process Personal Information collected on our Site in the United States or any other country in which Accoona or its agents maintain facilities. By using our Site and services, you consent to the transfer of your information among these facilities, including those located outside your country. Third parties provide certain services available on the Site on Accoona's behalf. For example, Service providers are an important means by which Accoona maintains the Site and our mailing lists. Accoona may provide information, including Personal Information that Accoona collects on the Site, to third-party service providers to help us deliver programs, products, information, and services. Accoona will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Accoona's behalf.
+Also note that your email address helps Accoona.com respond to any questions you have posed, issues you have encountered, or complaints made. We require your email address so we may address these issues.
 
-As Accoona develops, we may buy other businesses or their assets or sell our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that Accoona or all of its assets are acquired, customer information would be one of the transferred assets.
+### Who else gets to see my personal information?
 
-We reserve the right to disclose visitor information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other visitors, or anyone else that could be harmed by such activities. We also reserve the right to disclose visitor information when we believe in good faith that the law requires it.
+When you request services from our business partners Accoona.com will share your personal information with them, so that you can receive what you have requested. If you have any questions or concerns about an Accoona.com business partner, you may contact them directly. Accoona.com is not responsible for the data collection or privacy practices of business partners. Your personal information may also be shared with Accoona.com owned businesses.
 
-Except as provided in this Privacy Policy, we do not currently intend to share your Personal Information with any third parties without obtaining your consent. However, we may decide to do so in the future, in which case we will update this Privacy Policy accordingly.
+Your personal information will be shared with an outside party if we have good reason to believe that the law or legal process require it. It is our obligation to protect any rights or property of Accoona.com and others associated with our company and website.
 
-Aggregate Information
+Targeted advertisements enhance user experience, and so at times we may share specifically non personal information with advertisers, so that they may present you with relevant advertisements. Geographical information may be shared along with demographics, but we will never share personally identifiable information.
 
-From time to time, we may collect general, non-personal, statistical information about the use of the Site and our search engine, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which search results or other hyperlinks, if any, they "click" on. We collect this information through the use of "cookies" and other tracking technologies, which are discussed in greater detail below. We collect this information in order to determine which areas of the Site, search terms and search results are most popular and to enhance the Site for visitors. We may also group this information into aggregate visitor data in order to describe the use of the Site and our search engine to our existing or potential business partners, sponsors, advertisers or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you or any other visitors to the Site.
+### How do I delete my information from Accoona.com?
 
-_Cookies and Other Tracking Technologies_
+At this current time it is not possible to completely delete your user information from the Accoona.com database. If you are concerned with the security of your personal data you can remove the cookie stored on your browser, which will allow the server to perceive you as a new user. In the future you can change your browser setting to not accept cookies. Be aware that removing cookies does prevent you from participating in certain activities.
 
-Some of our web pages utilize "cookies" and other tracking technologies. A cookie is a small text file that a website transfers to an individual's hard drive for record-keeping purposes. Cookies may be used, for example, to collect information about website activity. Most browsers allow you to control cookies, including whether or not to accept them and how to remove them. You may set most browsers to notify you if you receive a cookie, or you may choose to block cookies with your browser. However, please be aware that some features of the Site may not function properly or may be slower if you refuse cookies. You may occasionally get cookies from our advertisers or other third parties with links on the Site. We do not control these cookies. The use of advertising cookies sent by third-party servers is standard in the Internet industry. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+### Will I be notified of a security breach?
 
-Tracking technologies may record information such as Internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that our Site is accessed. We do not link the information we record using tracking technologies to any personally identifiable information you submit while on our site.
+Accoona.com has taken many steps to ensure that your personal information is not made publicly available and that is only accessible to the user who originally entered it. However, in the event of an unlikely security breach, the user will be notified via email immediately.
 
-Search Engine
+### Do linked sites honor your policy?
 
-When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on the Site (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. Accoona may present search result links in a format that enables us to understand whether they have been followed and may monitor click-throughs on an individual and an aggregate basis. We use this information to understand and improve the quality of Accoona's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
+Linked sites are not run or controlled by Accoona.com. The website does contain many linked sites, so that we may offer you additional services and products that we feel you will enjoy. Each linked site is owned by an outside company; therefore, they have established their own polices in respect to privacy. Accoona.com won't be held responsible for privacy practices or policies or content of linked sites. Also note that any personal information supplied to an outside advertiser is at your own risk.
 
-Certain search results may be "premium" results, which consist of websites who have paid for placement in the search results. These listings are provided by our business partner, Overture Services, which is a subsidiary of Yahoo. These premium results may contain tracking URLs provided by Overture to identify clicks from the search results page. Again, information gathered by these means will not personally identify you. Any information collected by Overture will be subject to Overture's privacy policy, and Overture and Accoona may share information that either company gathers in connection with the use of Accoona's search engine.
+### Will your policy always remain intact?
 
-Links to Other Sites
+We cannot guarantee that this policy will always be honored. In the event that Accoona.com is bought, or our assets are acquired by another company, user information may be transferred to new ownership. Accoona.com will suggest this policy be adapted, but we cannot guarantee it.
 
-Please be aware that when you are on the Site, you could be directed to other sites that are beyond our control. For example, when you use our search engine, the search results will provide links to other sites from the Site's pages that take you outside the Site. These other sites may send their own cookies to visitors, collect data or solicit Personal Information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your Personal Information collected there.
+### Accoona.com will notify you of changes
 
-Security
+Accoona.com is constantly improving and making additions to our site to provide you with better features and services. As a result, our policies must be continuously revised. Whenever alterations are required, a new revised policy will be posted to this site, along with the date of last revision. It is important to us that you are always up to date with Accoona.com policies, so check this site often for information on your privacy.
 
-Wherever your Personal Information may be held within Accoona or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
+### Contacting Accoona.com
 
-Updating Your Information
-
-To the extent that you do provide us with Personal Information, Accoona wishes to maintain accurate Personal Information. If we collect Personal Information from you on the Web, you may send updates and corrections about your Personal Information to [privacy@accoona.com](mailto:privacy@accoona.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
-
-Children's Privacy
-
-Accoona.com is not structured to attract children. Accordingly, we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not provide any Personal Information to us.
-
-Changes to Our Privacy Policy
-
-The terms of this Privacy Policy may change from time to time without prior notice to you, so please check this page periodically for any changes. By checking the "Last Modified" date above, you can determine if this Privacy Policy has been updated since your last visit to the Site. Your continued use of the Site following the posting of changes to these terms will mean you accept those changes.
-
-Governing Law
-
-This Privacy Policy and the privacy practices of Accoona will be subject exclusively to the laws of the State of New York within the United States of America. Accoona makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
-
-TRUSTe Privacy Program
-
-Accoona Corp. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site [http://www.accoona.com](http://www.accoona.com/). Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact John Fernandez at [privacy@accoona.com](mailto:privacy@accoona.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <https://www.truste.org/pvr.php?page=complaint>. TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-Contacting Us
-
-If you have any comments or questions regarding our Privacy Policy, please contact us at [privacy@accoona.com](mailto:privacy@accoona.com), or at our contact information below. While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
-
-Accoona Corp.  
-101 Hudson Street  
-Suite 3606  
-Jersey City, NJ 07302  
-Phone: (201) 557-9388  
-Fax: (201) 557-9377
+In regards to privacy issues or the collection of personal data, any questions or concerns can be directed to our dedicated representatives. Please contact them by email at [info@accoona.com](mailto:info@accoona.com).
