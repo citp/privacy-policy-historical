@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the productiontrax.com privacy policy that was archived on 2010-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20101121135056id_/http%3A//www.productiontrax.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the productiontrax.com privacy policy that was archived on 2011-11-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111105014821id_/http%3A//www.productiontrax.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -25,7 +25,53 @@
 <link href="css/tabs.css" rel="stylesheet" type="text/css">
 
 <script src="scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-</head>
+
+<script type="text/javascript" src="highslide/highslide/highslide-full.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.1/swfobject.js"></script>
+<link rel="stylesheet" type="text/css" href="highslide/highslide/highslide.css">
+<script type="text/javascript">
+    hs.graphicsDir = 'http://www.productiontrax.com/highslide/highslide/graphics/';
+    hs.outlineType = 'rounded-white';
+	hs.wrapperClassName = 'no-footer no-header';
+	hs.allowSizeReduction = false;
+	hs.preserveContent = false;
+	hs.registerOverlay(
+    {
+        thumbnailId: null,
+        overlayId: 'my-overlay',
+        position: 'middle',
+        hideOnMouseOut: true,
+        opacity: 0,
+		width: '100%',
+		useOnHtml: true
+    }
+);
+
+hs.Expander.prototype.onCreateOverlay = function (sender, e) {
+	if(sender.thumb.alt != null){
+   e.overlay.innerHTML = e.overlay.innerHTML.replace("#1", 'http://www.productiontrax.com/trackpage.php?id='+sender.thumb.alt);
+	}
+	if(sender.thumb.alt == null){
+	e.overlay.innerHTML = "";
+	}
+	if(sender.thumb.alt == ""){
+	e.overlay.innerHTML = "";
+	}
+};
+</script>
+<script type="text/javascript">
+// close on mouse out
+hs.Expander.prototype.onMouseOut = function (sender) {
+	if (sender.a.onmouseover != null) sender.close();
+};
+// close if mouse is not over on expand (using the internal mouseIsOver property)
+hs.Expander.prototype.onAfterExpand = function (sender) {
+if (sender.a.onmouseover != null){
+   if (!sender.mouseIsOver) sender.close();
+	}
+};
+</script>
+<style type="text/css">.highslide img {cursor: url(http://www.productiontrax.com/highslide/highslide/graphics/zoomin.cur), pointer !important;}</style></head>
 
 <body>
 <div class="main_content">
@@ -43,16 +89,22 @@ document.write("<SCR" + "IPT language='JavaScript' type='text/javascript' "
 + "></SCR" + "IPT>");
 // -->
 </script><script language="JavaScript" type="text/javascript" src="//srv2.wa.marketingsolutions.yahoo.com/script/ScriptServlet?aid=19Q6UJBV93MKJ19RIRLK0082U7G"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script>
+<!--
+$(document).ready(function(){$.getScript('https://apis.google.com/js/plusone.js');$.getScript('http://platform.twitter.com/widgets.js');$.getScript('http://platform.linkedin.com/in.js');});$(document).ready(function(){$('#socialFB1').html("<iframe src='http://www.facebook.com/plugins/like.php?href=www.productiontrax.com&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font=arial&amp;height=21' scrolling='no' frameborder='0' style='border:none; overflow:hidden; width:75px; height:21px;' allowTransparency='true'></iframe>");});
+-->
+</script>
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 	<tbody><tr>
 		<td align="left"><span class="style4">&nbsp;<span class="toplefttext">Royalty free music and sound effects, stock footage, photos and digital multimedia content. </span></span></td>
-	  <td align="right" valign="top"><div align="right" class="style2"><span class="toprightlinks" style="font-family: Arial, Helvetica, sans-serif;"><a style="color:#0066CC" href="download1.php">Download
+	  <td align="right" valign="top"><div align="right" class="style2"><a href="lightbox_login.php" style="color:#0066CC" onclick="return hs.htmlExpand(this, { objectType: 'iframe', align: 'center',width:'550',height:'600', dimmingOpacity: '0.5',outlineType:'rounded-white' } )">
+<img src="http://www.productiontrax.com/img/lightbox.jpg" width="16" height="16" border="0" align="absmiddle"></a>&nbsp;<span class="toprightlinks" style="font-family: Arial, Helvetica, sans-serif;"><a href="lightbox_login.php" style="color:#0066CC" onclick="return hs.htmlExpand(this, { objectType: 'iframe', align: 'center',width:'550',height:'600', dimmingOpacity: '0.5',outlineType:'rounded-white' } )">Lightbox</a> | <a style="color:#0066CC" href="download1.php">Download
       Your Order</a> | <a style="color:#0066CC" href="https://www.productiontrax.com/composer_login.php">Contributor Login</a> | <a style="color:#0066CC" href="support.php">Help Desk</a></span>&nbsp;</div></td>
 	</tr>
       <tr valign="top">
         <td width="48%">&nbsp;&nbsp;&nbsp;<a href="index.php"><img src="images/logo.png" alt="Productiontrax.com" name="logo" border="0" class="toplefttext" style="margin-top:18px"></a></td>
-        <td width="52%"><div align="right" style="margin-top:8px; margin-bottom:4px;"><a href="http://www.productiontrax.com/facebook"><img src="facebook/facebook.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.productiontrax.com/facebook">Facebook</a> &nbsp;</span><a href="http://www.productiontrax.com/Productiontrax"><img src="facebook/myspace.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.myspace.com/Productiontrax">MySpace</a> &nbsp;</span><a href="http://del.icio.us/post?url=http://www.productiontrax.com"><img src="facebook/delicious.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://del.icio.us/post?url=http://www.productiontrax.com">Delicious</a> &nbsp;</span><a href="http://www.youtube.com/Productiontrax"><img src="facebook/youtube.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.youtube.com/Productiontrax">YouTube</a> &nbsp;</span><a href="http://www.twitter.com/Productiontrax"><img src="facebook/twitter.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.twitter.com/Productiontrax">Twitter</a> &nbsp;</span><a href="http://www.stumbleupon.com/submit?url=http://www.productiontrax.com"><img src="facebook/stumbleupon.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.stumbleupon.com/submit?url=http://www.productiontrax.com">StumbleUpon</a> &nbsp;</span><a href="http://www.productiontrax.com/blog"><img src="facebook/rss.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://blog.productiontrax.com">Blog</a></span><br>
-        </div>
+        <td width="52%"><div align="right" style="margin-right: -20px"><table border="0" cellpadding="0" cellspacing="5"><tbody><tr><td valign="top" width="110" align="center" style="margin-top:5px"><script type="in/share" data-counter="right" data-url="http://www.productiontrax.com/"></script></td><td valign="top" width="110" align="right"><a href="http://twitter.com/share" class="twitter-share-button" data-text="Royalty free music @Productiontrax!" data-count="horizontal" data-related="productiontrax:Productiontrax" data-url="http://www.productiontrax.com/"></a></td><td valign="top" width="95" align="left" id="socialFB1"></td><td valign="top" width="70" align="right"><g:plusone size="medium" href="http://www.productiontrax.com/"></g:plusone></td></tr></tbody></table></div>
           <table align="right" cellpadding="2" style="margin-top:6px; margin-right:5px;">
           <tbody><tr align="right" valign="middle">
             <td><img src="images/cart_icon.jpg" width="40" height="40"></td>
@@ -356,8 +408,11 @@ Acceptance of Privacy Policy.<br>
     </tbody></table></td>
   </tr>
   <tr>
-  <td colspan="3"><div align="center" class="copyright"><a href="http://www.tjoos.com/Coupon/109746/productiontrax.com" target="_blank"><img src="https://www.tjoos.com/Img/Badges/WhiteNoBackground89x32-Verified.png?ID=109746" alt="productiontrax.com Coupons on tjoos.com" border="0"></a><br>
-    © 2004-2010 One Light Music Productions, Inc.</div></td>
+  <td colspan="3"><div align="center" class="copyright">
+  <div align="center" style="margin-top:8px; margin-bottom:4px;">Get Social:&nbsp;&nbsp; <a href="http://www.productiontrax.com/facebook"><img src="facebook/facebook.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.productiontrax.com/facebook">Facebook</a> &nbsp;</span><a href="http://www.productiontrax.com/Productiontrax"><img src="facebook/myspace.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.myspace.com/Productiontrax">MySpace</a> &nbsp;</span><a href="http://del.icio.us/post?url=http://www.productiontrax.com"><img src="facebook/delicious.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://del.icio.us/post?url=http://www.productiontrax.com">Delicious</a> &nbsp;</span><a href="http://www.youtube.com/Productiontrax"><img src="facebook/youtube.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.youtube.com/Productiontrax">YouTube</a> &nbsp;</span><a href="http://www.twitter.com/Productiontrax"><img src="facebook/twitter.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.twitter.com/Productiontrax">Twitter</a> &nbsp;</span><a href="http://www.stumbleupon.com/submit?url=http://www.productiontrax.com"><img src="facebook/stumbleupon.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://www.stumbleupon.com/submit?url=http://www.productiontrax.com">StumbleUpon</a> &nbsp;</span><a href="http://www.productiontrax.com/blog"><img src="facebook/rss.gif" width="15" height="15" border="0" align="absmiddle"></a><span class="Pricing"> <a href="http://blog.productiontrax.com">Blog</a></span><br>
+        </div>
+  <br>
+    © 2004-2011 One Light Music Productions, Inc.</div></td>
   </tr>
 </tbody></table>
 
@@ -365,4 +420,4 @@ Acceptance of Privacy Policy.<br>
 
 
 
-</body></html>
+<div class="highslide-container" style="padding: 0px; border: none; margin: 0px; position: absolute; left: 0px; top: 0px; width: 100%; z-index: 1001; direction: ltr;"><a class="highslide-loading" title="Click to cancel" href="javascript:;" style="position: absolute; top: -9999px; opacity: 0.75; z-index: 1;">Loading...</a><div style="display: none;"></div><div class="highslide-viewport" style="padding: 0px; border: none; margin: 0px;"></div><table cellspacing="0" style="padding: 0px; border: none; margin: 0px; visibility: hidden; position: absolute; border-collapse: collapse; width: 0px;"><tbody style="padding: 0px; border: none; margin: 0px;"><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td class="rounded-white highslide-outline" style="padding: 0px; border: none; margin: 0px; position: relative;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr><tr style="padding: 0px; border: none; margin: 0px; height: auto;"><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td><td style="padding: 0px; border: none; margin: 0px; line-height: 0; font-size: 0px;"></td></tr></tbody></table><img src="http://www.productiontrax.com/highslide/highslide/graphics/outlines/rounded-white.png" style="padding: 0px; border: none; margin: 0px; position: absolute; top: -9999px;"></div></body></html>
