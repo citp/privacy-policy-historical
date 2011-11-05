@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the esprit-club.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507020415id_/http%3A//www.esprit-club.com/index.php%3Fgo%3DPRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esprit-club.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105090431id_/http%3A//www.esprit-club.com/index.php%3Fgo%3DPRIVACY) for the most accurate reproduction.*
 
 # Your privacy
+
+## Your privacy at the Esprit club
 
 We do not collect any personally identifiable information from the visitors to our website. We monitor visitor traffic patterns and site usage to help us develop the design and layout of the website and to plan for a better collection of our products and services.
 
@@ -14,17 +16,10 @@ To serve you better, we may combine information you give us on-line, in our shop
 
 We keep confidential all personally identifiable information you provide us. However, we do disclose your personal information under certain circumstances. These include making disclosure when we believe, in good faith, that such disclosure is reasonably necessary to:
 
-a.  
-comply with the law;
-
-b.  
-maintain or develop our website and our business;
-
-c.  
-enforce or apply the terms of any of our agreements; or
-
-d.  
-protect the rights, property or safety of this website, our users, or others.
+a. comply with the law;  
+b. maintain or develop our website and our business;  
+c. enforce or apply the terms of any of our agreements; or  
+d. protect the rights, property or safety of this website, our users, or others.
 
 We may team up with other companies to promote or provide products, services, contests or promotions. Subject to safeguards, we and such other company may need to cross-check our databases to avoid duplication or to use the combined information to identify and organise future marketing and promotions.
 
@@ -48,10 +43,10 @@ We are concerned about the safety of children in their use of the internet. We w
 
 You have the right to request access to and correction of the information about you held by us. If you wish to access or correct your personal information with us, please e-mail [member@esprit-club.com](mailto:member@esprit-club.com). Clicking the hotlink would activate your mail program.
 
-We want to communicate with you only if you wish to hear from us. If you would rather not receive marketing or promotional communication from us, please inform us by sending a blank e-mail message to [member@esprit-club.com](mailto:member@esprit-club.com). Clicking the hotlink would activate your mail program.
+We want to communicate with you only if you wish to hear from us. If you would rather not receive marketing or promotional communication from us, please inform us by sending an e-mail message with the topic 'Remove my information from e-mail and postal mailing lists' to [member@esprit-club.com](mailto:member@esprit-club.com). Clicking the hotlink would activate your mail program.
 
 By using our website, you consent to the collection and use of your information by Esprit International. When we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
 We are committed to safeguard your privacy with us. We use the information we collect on-line to enhance and improve your experience of being served by us. The supply of personal information to us is entirely voluntary. We do not sell or rent your personal information to others. We want to communicate with you only if you wish to hear from us.
 
-If you wish to access, change or delete your information with us, please e-mail us at [member@esprit-club.com](mailto:member@esprit-club.com). You can tell us not to share your e-mail address and other personal data with third party by sending a blank e-mail message to [member@esprit-club.com](mailto:member@esprit-club.com). If you would not like to receive any announcement, news, special offer or promotional materials from us, please send a blank e-mail message to [member@esprit-club.com](mailto:member@esprit-club.com).
+If you wish to access, change or delete your information with us, please access your Esprit club memberzone at www.esprit-club.com using your card number as the username & your password, which is default your date of birth (DDMMYYYY). You can tell us not to share your e-mail address and other personal data with any third party or if you would not like to receive any announcement, news, special offer or promotional materials from us, please contact the Esprit club Service e.g. by e-mail message to [member@esprit-club.com](mailto:member@esprit-club.com).
