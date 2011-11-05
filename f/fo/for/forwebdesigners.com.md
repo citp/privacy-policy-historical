@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forwebdesigners.com privacy policy that was archived on 2010-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101226111131id_/http%3A//www.forwebdesigners.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forwebdesigners.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105055135id_/http%3A//www.forwebdesigners.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - For Web Designers
 
