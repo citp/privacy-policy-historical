@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2011-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110107183014id_/http%3A//www.nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nancysnotions.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105144919id_/http%3A//www.nancysnotions.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
-# Sewing supplies, quilting supplies, embroidery designs
+# Privacy and Security - Customer Service - Nancy's Notions
 
 **Rental List Policy**  
 Nancy's Notions does not share your email address with other companies. However, we may occasionally share your name and mailing address with companies that offer products and services you may enjoy. If you don't want us to share your name and address, or if you no longer wish to receive mailings from us, you can contact us*: 
@@ -13,7 +13,7 @@ Send us a copy of your printed mailing address as it appears on a catalog
 **Site Security**  
 Nancy's Notions employs the highest levels of security to ensure that your order is confidential and secure. We encrypt your transactions by using a Secure Sockets Layer (SSL) that assures your credit card number is submitted in encrypted form. All sensitive information you provide is encrypted before being sent over the Internet. Note: Any pages where you are conveying personal information (name, address, and credit card number) should show an image of a lock at the bottom of your screen. If the lock is closed, it is a secure page.
 
-Hacker Safe: This site is tested and certified **daily** to pass the McAfee Secure Security Scan. To help address concerns about hacker access to confidential data, the "live" McAfee Secure mark appears only when a web site meets the McAfee Secure standard.
+Go Daddy: This site is tested and certified **daily** to pass the Go Daddy security scan. To help address concerns about hacker access to confidential data, the "live" Go Daddy mark appears only when a web site meets the Go Daddy secure standard.
 
 **Privacy Policy Statement**  
 This is the web site of Nancy's Notions®.
