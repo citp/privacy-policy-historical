@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tangotime.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508061511id_/http%3A//www.tangotime.com/info/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tangotime.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105124052id_/http%3A//tangotime.com/info/privacy_policy.php) for the most accurate reproduction.*
 
 # Amateur nude photo rating and video rating community - TangoTime.com:
 
