@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the earticlesonline.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924043709id_/http%3A//www.earticlesonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earticlesonline.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105120218id_/http%3A//www.earticlesonline.com/privacy.php) for the most accurate reproduction.*
 
-# eArticlesOnline.com Privacy Policy
+# eArticlesOnline Free Article Directory Privacy Policy
 
 Your Article Directory Privacy Policy
 
