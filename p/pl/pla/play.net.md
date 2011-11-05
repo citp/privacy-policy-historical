@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2011-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110611042255id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.net privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105092708id_/http%3A//www.play.net/playdotnet/privacy.asp) for the most accurate reproduction.*
 
 # play.net >> Privacy Policy
 
@@ -42,7 +42,7 @@ Our site provides users with a **play.net** account the opportunity to change an
 **Contacting the Web Site  
 **If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-> Stephanie Shaver  
+> Mike Wadley  
 >  Simutronics Corporation  
 >  218-C Millwell Drive  
 >  Maryland Heights, MO 63043   
