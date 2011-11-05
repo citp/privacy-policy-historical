@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2011-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110311213244id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx%3FChapterId%3D13075) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pchonlinesurveys.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105040552id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx%3FChapterId%3D13075) for the most accurate reproduction.*
 
 # PCH
 
-PCH Online Surveys Privacy Statement 
+PCHonlinesurveys Privacy Statement 
 
 **1.  Commitment; Applicability.**
 
-Publishers Clearing House (“PCH”) takes your privacy seriously. The PCH Online Surveys Privacy Statement (the “Privacy Statement”) applies to: (i) <http://www.pchonlinesurveys.com/> (the “Website”); (ii) all Personal Information (as defined herein) collected by, through, or in connection with the Website; and (iii) all Personal Information collected or received as a result of or in connection with any survey offered, made available, or provided via the Website. The site may be accessible through means including, but not limited to, email, search, and online advertisement. 
+Publishers Clearing House (“PCH”) takes your privacy seriously. The PCHonlinesurveys Privacy Statement (the “Privacy Statement”) applies to: (i) <http://www.pchonlinesurveys.com/> (the “Website”); (ii) all Personal Information (as defined herein) collected by, through, or in connection with the Website; and (iii) all Personal Information collected or received as a result of or in connection with any survey offered, made available, or provided via the Website. The site may be accessible through means including, but not limited to, e-mail, search, and online advertisement. 
 
 PCH has engaged Survey Sampling International, LLC (“SSI”) to host and manage the Website and to provide the individuals who register with the Website (“Panelists”) with an opportunity to participate in surveys from our clients, customers, or partners (“Clients”). During the course of this engagement, SSI will have access to and will use Information (as defined herein) subject to a contractual agreement between SSI and PCH and this Privacy Statement. SSI shares PCH’s commitment to protecting your privacy. 
 
@@ -20,7 +20,7 @@ All references in this Privacy Statement to “we,” “us,” or “our” ref
 
 For the purpose of this Privacy Statement, please see the following defined terms: 
 
-(i) "Personal Information" includes, without limitation, first name or first initial and last name, residential address, email address, and telephone number(s) (home and/or cell).
+(i) "Personal Information" includes, without limitation, first name or first initial and last name, residential address, e-mail address, and telephone number(s) (home and/or cell).
 
 (ii) “Demographic Information” includes, without limitation, gender, marital status, income range, employment status, hobbies, interests and product ownership.
 
@@ -28,7 +28,7 @@ For the purpose of this Privacy Statement, please see the following defined term
 
 (iv) “Survey Data” means data and information collected or received in connection with a survey. 
 
-We collect Information in several ways. We collect Information when you register. For example, during registration, you are required to provide a unique email address and password. We also may collect Information during a survey.  
+We collect Information in several ways. We collect Information when you register. For example, during registration, you are required to provide a unique e-mail address and password. We also may collect Information during a survey.  
 
 We may collect the Internet Protocol (“IP”) Address that is publicly available on your computer. The IP Address is not collected for the purpose of tracking or monitoring online activity. We collect, use, maintain, secure, and disclose IP Addresses in accordance with Applicable Laws and Codes.
 
@@ -40,11 +40,11 @@ Your friend may contact us at [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pc
 
 **4.  Uses of Information.**
 
-Subject to your opt-in consent, PCH and pchonlinesurveys.com may use Information collected on the Website for the purpose of sending direct marketing communications for goods and/or services of pchonlinesurveys.com and/or the partners of pchonlinesurveys.com. The foregoing direct marketing activities are separate from any survey or study offered, made available, or provided via the Website and are separate from any activity performed or to be performed by SSI. SSI will not disclose or reveal information or data from survey responses to PCH, pchonlinesurveys.com and/or to the partners of pchonlinesurveys.com for any purpose or reason. 
+Subject to your opt-in consent, PCH and PCHonlinesurveys.com may use Information collected on the Website for the purpose of sending direct marketing communications for goods and/or services of PCHonlinesurveys.com and/or the partners of PCHonlinesurveys.com. The foregoing direct marketing activities are separate from any survey or study offered, made available, or provided via the Website and are separate from any activity performed or to be performed by SSI. SSI will not disclose or reveal information or data from survey responses to PCH, PCHonlinesurveys.com and/or to the partners of PCHonlinesurveys.com for any purpose or reason. 
 
 In addition to the use set forth in the paragraph above, the Information collected in connection with the Website and with surveys offered, made available, or provided via the Website is used to: (i) communicate with you regarding your membership with this Website and regarding survey participation; (ii) to tailor survey opportunities to you; and (iii) to comply with legal obligations, including, without limitation, taxation requirements for incentive or reward fulfillment. 
 
-Our primary means of communication with you is via e-mail. By disclosing your e-mail address you hereby expressly consent to receive e-mail communications, including, without limitation, survey invitations, promotion or incentive information, and notices required hereunder, from SSI, PCH and/or Subcontractors (as defined herein). We do not send unsolicited commercial e-mails. You may unsubscribe from our emails at any time by using the link in any of our emails. 
+Our primary means of communication with you is via e-mail. By disclosing your e-mail address you hereby expressly consent to receive e-mail communications, including, without limitation, survey invitations, promotion or incentive information, and notices required hereunder, from SSI, PCH and/or Subcontractors (as defined herein). We do not send unsolicited commercial e-mails. You may unsubscribe from our e-mails at any time by using the link in any of our e-mails. 
 
 **5.  Onward Transfers and Disclosures of Personal Information.**
 
@@ -74,7 +74,9 @@ We maintain commercially reasonable technical, administrative, and physical safe
 
 **7.  Cookies; Online Tracking Programs; Log Files.**
 
-A. Online Behavioral Advertising. PCH and pchonlinesurveys.com may use online behavioral advertising in response to your actions on the Website or other sites but will never do so without providing you with: (i) written notice about PCH’s and pchonlinesurveys.com’s online behavioral advertising program and (ii) the opportunity to opt-in to participation in such program. If you opt-in, the ad network partners of PCH and pchonlinesurveys.com may use your activity to help choose ads you see on the Website and at other sites. All online behavioral advertising shall be conducted in accordance with the online behavioral advertising principles issued by the United States Federal Trade Commission. The online behavioral advertising program is separate from any survey or study offered, made available, or provided via the Website and is separate from any activity performed, or to be performed, by SSI    
+**A.  Online Behavioral Advertising. **
+
+PCH and PCHonlinesurveys.com may use online behavioral advertising in response to your actions on the Website or other sites but will never do so without providing you with: (i) written notice about PCH’s and PCHonlinesurveys.com’s online behavioral advertising program and (ii) the opportunity to opt-in to participation in such program. If you opt-in, the ad network partners of PCH and PCHonlinesurveys.com may use your activity to help choose ads you see on the Website and at other sites. All online behavioral advertising shall be conducted in accordance with the online behavioral advertising principles issued by the United States Federal Trade Commission. The online behavioral advertising program is separate from any survey or study offered, made available, or provided via the Website and is separate from any activity performed, or to be performed, by SSI    
 
 **B.  Cookies. **
 
@@ -111,16 +113,16 @@ From time-to-time we may provide you with the ability to voluntarily link or con
 
 **11.  Your Rights; Opt-Out; Enforcement.**
 
-A. Rights. You can access your Personal Information, correct any errors or mistakes in your Personal Information, update your Personal Information, or request the removal of your Personal Information by: (i) going to the Website, logging into your account, clicking on the “update account information” link and following the prompts; or (ii) by emailing us at [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com). 
+A. Rights. You can access your Personal Information, correct any errors or mistakes in your Personal Information, update your Personal Information, or request the removal of your Personal Information by: (i) going to the Website, logging into your account, clicking on the “update account information” link and following the prompts; or (ii) by e-mailing us at [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com). 
 
   
-B. Opt-Out. You can terminate your membership by: (i) going to the Website, logging into your account, clicking on the “update account information” link, and clicking on the “cancel my account” link; (ii) sending an email request to [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com); or (iii) clicking on the unsubscribe link contained in a survey invitation and following the instructions on the opt-out web page. Upon receipt of the cancellation/opt-out request, we shall terminate your registration with the Website and deactivate your account and you should not receive any further survey invitations. Notwithstanding the foregoing, you may continue to receive communications and survey invitations for a few days following the cancellation/opt-out request, while we process your request. We reserve the right to retain your Personal Information for an indefinite period; however, any Personal Information shall continue to be subject to this Privacy Statement. 
+B. Opt-Out. You can terminate your membership by: (i) going to the Website, logging into your account, clicking on the “update account information” link, and clicking on the “cancel my account” link; (ii) sending an e-mail request to [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com); or (iii) clicking on the unsubscribe link contained in a survey invitation and following the instructions on the opt-out web page. Upon receipt of the cancellation/opt-out request, we shall terminate your registration with the Website and deactivate your account and you should not receive any further survey invitations. Notwithstanding the foregoing, you may continue to receive communications and survey invitations for a few days following the cancellation/opt-out request, while we process your request. We reserve the right to retain your Personal Information for an indefinite period; however, any Personal Information shall continue to be subject to this Privacy Statement. 
 
 C. Enforcement. We are committed to working with individuals to obtain a fair resolution to any complaints about this Privacy Statement. Please send complaints or questions regarding this Privacy Statement:
 
-via regular mail, postage prepaid, addressed to: or  via email to: [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com)
+via regular mail, postage prepaid, addressed to: or  via e-mail to: [helpdesk@pchonlinesurveys.com](mailto:helpdesk@pchonlinesurveys.com)
 
-Survey Sampling International, LLC       
+Survey Sampling International, LLC ("SSI")       
 6 Research Drive  
 Shelton, Connecticut 06484  
 Attn: Legal Department
@@ -131,6 +133,6 @@ When contacting us, please include your full name and specific information regar
 
 By completing and submitting a registration form at the Website, you signify your agreement to, and acceptance of, this Privacy Statement. If you do not accept this Privacy Statement, please do not visit, and do not register with, the Website. We hereby reserve the right to make changes to this Privacy Statement, from time to time, and we shall post any changes on the homepage of the Website, and/or any other place we deem appropriate, for you to review on a regular basis. Your continued membership, participation in surveys, visitation to the Website, or continued disclosure of Personal Information after changes to this Privacy Statement, constitutes your acceptance of, and agreement to be bound by, this Privacy Statement, as amended.  If we make material changes to this Privacy Statement, we shall notify you in this Privacy Statement, by e-mail, and/or by posting notice on the home page of the Website. 
 
-Please click [here](https://web.archive.org/web/20110311213244id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx?ChapterID=13075) for the most recent prior version of this Privacy Statement.
+Please click [here](https://web.archive.org/web/20111105040552id_/http%3A//www.pchonlinesurveys.com/ow/index.aspx?ChapterID=13075) for the most recent prior version of this Privacy Statement.
 
 Last Updated: November 30, 2010
