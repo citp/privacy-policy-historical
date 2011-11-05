@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2011-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110410055835id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbme.org privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105193319id_/http%3A//www.nbme.org/about/privacy.html) for the most accurate reproduction.*
 
 # NBME Privacy Policy
 
@@ -12,11 +12,11 @@ The National Board of Medical Examiners has been awarded TRUSTe's Privacy Seal s
 
 The National Board of Medical Examiners has been awarded the TRUSTe seal signifying its privacy policyand privacy practices comply with TRUSTe's EU Safe Harbor program requirements which are consistent with the U.S. – EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from the European Union. 
 
-## **1\. General Users**
+## 1\. General Users
 
 NBME does not collect any personal information from users browsing its website.  Users to the public area of the [www.NBME.org](http://www.nbme.org/) website may browse anonymously.  NBME’s web servers may track the IP addresses of visitors to the site to measure number of visits to the website.  If you participate in NBME’s examination services (e.g., NBME Licensing Examination Services, NBME Self-Assessment Services), you will be required to provide personal information during the registration process. To access certain portions of the Site, you may have to submit a user ID and password.
 
-## **2\. Collection of and Consent to Use Personal Information from Site Users**
+## 2\. Collection of and Consent to Use Personal Information from Site Users
 
 You may provide personal information to us in the process of completing various forms for the United States Medical Licensing Examination® (USMLE®) and/or NBME programs and services for students and graduates of medical schools. Personal information may include, but is not limited to:
 
@@ -37,7 +37,7 @@ In general, you are required to respond to most of the questions on the applicat
 
 By providing your personal information online, you consent to allow NBME to use that information in accordance with this Policy.  This information is used for identification purposes and as stated below in Section 6. 
 
-## **3\. Security**
+## 3\. Security
 
 The security of your personal information is of the utmost concern to NBME.  We have administrative, technical and physical measures in place to protect the security of your personal information.  To protect your privacy, the NBME utilizes Secure Sockets Layer (SSL) technology to prevent third parties from seeing your personal and sensitive information (such as credit card number, social security number, or National ID number) during data transmission. 
 
@@ -51,7 +51,7 @@ Unfortunately, no data transmission over the Internet can be guaranteed to be se
 
 If, for any reason, you should choose not to provide your personal information online, you may request a paper version of the application or document request form by calling 215-590-9700 or by email to [webmail@nbme.org](mailto:%77%65%62%6D%61%69%6C%40%6E%62%6D%65%2E%6F%72%67). If you have questions about providing your personal information related to the NBME Self-Assessment Services, you may contact [assessmentservices@nbme.org](mailto:%61%73%73%65%73%73%6D%65%6E%74%73%65%72%76%69%63%65%73%40%6E%62%6D%65%2E%6F%72%67) .
 
-## **4.   Cookies**
+## 4.  Cookies
 
 A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We do not use cookies on the [www.nbme.org](http://www.nbme.org/) general website but we may use cookies on the web pages related to NBME Licensing Examination Services and NBME Self-Assessment Services. We do not link the information we store in cookies to any personally identifiable information you submit while on any of our sites. 
 
@@ -63,17 +63,17 @@ If you reject cookies, you may still use our site, but your ability to use some 
 
 The use of cookies by our tracking utility company is not covered by our privacy policy. We do not have access or control over these cookies. Our tracking utility company uses session ID cookies to make it easier for you to navigate our site. 
 
-## **5.   Credit Card**
+## 5.  Credit Card
 
 All credit card transactions are processed through a vendor via SSL.  NBME submits the requisite information to the appropriate clearinghouse to verify and validate the credit card.  NBME does not disclose credit card information for any other purpose.
 
-## **6.   Use of Personal Information Collected**
+## 6.  Use of Personal Information Collected 
 
 NBME uses the personal information you provide to process your applications and requests for services, and to verify that you meet the minimum qualifications for our programs and services. Additionally, NBME may use aggregated personal information for research and statistical purposes. NBME does not use your personal information for marketing or promotional purposes.
 
 We use your credit card information to bill you for services. We will not use your credit card information for any other purpose. 
 
-## **6.   Disclosure of Personal Information to Third Parties**
+## 7.  Disclosure of Personal Information to Third Parties 
 
 We disclose your personal information to certain third parties to provide the products and services you have requested online. To support these services, we send a portion of your personal information, such as name and USMLE ID, to them using secured protocols and encryption. They have access to the minimal information needed to perform their functions, but otherwise will not use the information for other purposes. For example, when you apply for a USMLE examination, we will provide certain registration information to companies that schedule and administer the test. 
 
@@ -87,7 +87,7 @@ We reserve the right to disclose your personally identifiable information as req
 
 Other than as noted in this Policy, or as NBME shall notify user in the future, NBME does not to sell, rent, share, offer, or otherwise disclose any personal information, such as names, e-mail addresses, mailing addresses, telephone numbers, credit card information, and other personal information that you voluntarily provide to NBME, to any organization or individual without a legitimate interest (collectively "Third Parties"), except to the extent necessary to comply with applicable laws or valid legal process, or to protect the rights or property of NBME.
 
-## **8.   Access and Ability to Correct Personal Data**
+## 8.  Access and Ability to Correct Personal Data
 
 ### A.  NBME Self-Assessment Services
 
@@ -99,19 +99,19 @@ Using the Site, you may access and verify or change such personal information as
 
 Upon written request accompanied by appropriate documentation, NBME will change your social security number or birth date. To request such a change to your personal information, you may write to us at the address listed in Section 13, "Inquiries and Concerns," below.
 
-## **9.   Links to and from NBME**
+## 9.  Links to and from NBME 
 
 For your convenience, this Site may contain links to other Internet web sites. However, NBME does not endorse, and is not responsible for, the privacy practices or the content of these web sites.
 
-## **10.   Children’s Privacy**
+## 10.  Children’s Privacy 
 
 This Site is not designed to attract children. Accordingly, we do not knowingly collect personal information from anyone under 13 years of age.
 
-## **11.   Commitment**
+## 11.  Commitment 
 
 The NBME is committed to protecting your privacy.  While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
 
-## **12\. Communications from the Site**
+## 12\. Communications from the Site
 
 ### A.   Service-related Announcements
 
