@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brabantiaonline.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506071655id_/http%3A//www.brabantiaonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brabantiaonline.com privacy policy that was archived on 2011-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111105100359id_/http%3A//www.brabantiaonline.com/privacy.html) for the most accurate reproduction.*
 
 # BrabantiaOnline.com Privacy Policy
 
