@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508074008id_/http%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgesoft.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107001738id_/http%3A//www.cambridgesoft.com/privacy) for the most accurate reproduction.*
 
-# CambridgeSoft Privacy Policy
+# PerkinElmer Informatics Privacy Policy
 
 CambridgeSoft respects your privacy. Any personal information collected at this site will be treated with the utmost care. This Privacy Policy describes how we collect, store and use the information that you provide to us online through the CambridgeSoft.com, ChemBioNews.com, SciStore.com and ChemBioFinder.com (the "Websites"). This Privacy Policy does not apply to other Internet sites even if accessed via our Websites. If you have any questions or concerns regarding our Privacy Policy, please contact us in one of the ways provided below. 
 
