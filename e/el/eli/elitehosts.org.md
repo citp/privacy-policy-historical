@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitehosts.org privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508213429id_/http%3A//elitehosts.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitehosts.org privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106232438id_/http%3A//elitehosts.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
