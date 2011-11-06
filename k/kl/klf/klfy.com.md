@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the klfy.com privacy policy that was archived on 2011-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110309143809id_/http%3A//www.klfy.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the klfy.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106120745id_/http%3A//www.klfy.com/global/story.asp%3Fs%3D18990) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - Acadiana's News Leader
 
