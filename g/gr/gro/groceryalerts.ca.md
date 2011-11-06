@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509025702id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groceryalerts.ca privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106114706id_/http%3A//www.groceryalerts.ca/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Grocery Coupons, Coupons for Canada, Coupons online, printable coupons
 
@@ -22,14 +22,22 @@ You will have the option to unsubscribe (Opt-out) of all communications from our
 
 We use your personal information for the following purposes:
 
-# To ensure our site is relevant to your needs.  
-# To deliver services, such as newsletters, events, training or software, that you request or purchase.  
-# To help us create and publish content most relevant to you.  
-# To allow you access to limited-entry areas of our site as appropriate.
+  * To ensure our site is relevant to your needs.
+
+
+  * To deliver services, such as newsletters, events, training or software, that you request or purchase.
+
+
+  * To help us create and publish content most relevant to you.
+
+
+  * To allow you access to limited-entry areas of our site as appropriate.
+
+
 
 GroceryAlerts.ca may disclose your personal information if required to do so by law or in the good-faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on GroceryAlerts.ca or the site; (b) protect and defend the rights or property of GroceryAlerts.ca and its family of Web sites, or (c) act in urgent circumstances to protect the personal safety of GroceryAlerts.ca employees, users of GroceryAlerts.ca products or services, or members of the public.
 
-Your information may be stored and processed in the United States or any other country in which GroceryAlerts.ca or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country. GroceryAlerts.ca abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Your information may be stored and processed in the United States or any other country in which GroceryAlerts.ca or its affiliates, subsidiaries or agents maintain facilities, and by using this site, you consent to any such transfer of information outside of your country.
 
 GroceryAlerts.ca may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen.
 
@@ -37,7 +45,8 @@ GroceryAlerts.ca may send out periodic e-mails informing you of technical servic
 
 We will provide you with the means to ensure that your personal information is correct and current.
 
- **Security of your Personal Information**
+ **Security of your Personal Information and Credit Cards  
+**
 
 GroceryAlerts.ca is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. For example, we store the personal information you provide in computer servers with limited access that are located in controlled facilities. When we transmit sensitive information (such as a credit card number) over the internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
