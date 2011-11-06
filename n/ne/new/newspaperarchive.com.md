@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2011-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110127130833id_/http%3A//newspaperarchive.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newspaperarchive.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106052006id_/http%3A//newspaperarchive.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NewspaperARCHIVE.com - Search Old Newspaper Articles Online
 
-[](https://web.archive.org/web/20110127130833id_/http%3A//newspaperarchive.com/FreePdfViewer.aspx?img=33985189) **Oakland Tribune**  
+[](https://web.archive.org/web/20111106052006id_/http%3A//newspaperarchive.com/FreePdfViewer.aspx?img=33985189) **Oakland Tribune**  
 Friday, April 5, 1968
 
 "President Johnson today proclaimed Sunday a national day of mourning for Dr. Martin Luther King..." 
@@ -72,7 +72,7 @@ NewspaperArchive.com does post third party advertising banners on personal famil
 
 ## Are Chat room dialogues recorded and saved?
 
-Chat is not currently offered at NewspaperArchive.com but will be in the future. Dialogues will NOT be collected, stored, or used by the company or others. 
+Technical Support Chat is currently offered at NewspaperArchive.com. Dialogues are collected and maintained for a short period to be reviewed for quality assurance but are not stored for more than 72 hours or used by the company or others. 
 
 ## What else should I know about privacy?
 
