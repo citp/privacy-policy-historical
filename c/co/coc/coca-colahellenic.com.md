@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503201138id_/http%3A//www.coca-colahellenic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coca-colahellenic.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106171342id_/http%3A//www.coca-colahellenic.com/privacy) for the most accurate reproduction.*
 
 # CocaColaHellenic - Privacy statement
 
