@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rlmseo.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508184716id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rlmseo.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106145329id_/http%3A//www.rlmseo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ Razorlight Media may share information with partners or third parties during the
 
 ## Control and Modification of Third Parties
 
-You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from Razorlight Media, you can opt-out whenever you want. There is an opt-out feature located in the footer of all Mirage Design Works marketing email list communications. Razorlight Media wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can [contact us here](https://web.archive.org/company/contact/ "Contact Us"), or call (949) 282-7510.
+You remain in control of your information. When you provide your information you can select whether you want to receive further communications about our products and services or other marketing information. When you opt-in to receive marketing communications from Razorlight Media, you can opt-out whenever you want. There is an opt-out feature located in the footer of all Mirage Design Works marketing email list communications. Razorlight Media wants your personal data to be accurate and complete. If you want to change any of the personal data or preferences you can [contact us here](https://web.archive.org/company/contact/ "Contact Us"), or call (513) 549-7355.
 
 ## Data Security
 
