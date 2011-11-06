@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koa.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508145108id_/http%3A//koa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koa.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106204448id_/http%3A//koa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KOA Campgrounds
 
@@ -36,3 +36,7 @@ Close
 ## Hot Deals in Your Area[](https://web.archive.org/hot-deals/)
 
 Find Hot Deals in other Areas
+
+## KOA Kompass
+
+Get camping related news, tips, recipes and more delivered right to your inbox each month.
