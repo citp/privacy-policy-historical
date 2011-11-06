@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508124146id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootbarn.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106121416id_/http%3A//www.bootbarn.com/privacy_policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # BootBarn.com Privacy Policy
 
