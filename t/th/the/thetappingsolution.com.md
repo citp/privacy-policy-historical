@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2011-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110530201658id_/http%3A//www.thetappingsolution.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetappingsolution.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106203319id_/http%3A//www.thetappingsolution.com/privacy-policy.php) for the most accurate reproduction.*
 
 # The Tapping Solution: EFT Documentary Film | Privacy Policy
 
@@ -48,4 +48,10 @@ TheTappingSolution.com will occasionally update this Statement of Privacy to ref
 
 ### Contact Information
 
-TheTappingSolution.com welcomes your comments regarding this Statement of Privacy. If you believe that TheTappingSolution.com has not adhered to this Statement, please contact TheTappingSolution.com ([Click here](https://web.archive.org/web/20110530201658id_/http%3A//www.thetappingsolution.com/contact_us.php)). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+TheTappingSolution.com welcomes your comments regarding this Statement of Privacy. If you believe that TheTappingSolution.com has not adhered to this Statement, please contact TheTappingSolution.com ([Click here](http://www.thetappingsolution.com/contact-us.php)). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+### Disclaimer
+
+The information contained on this website is educational in nature and is provided only as general information. As part of the information presented on this website, I understand that I will be introduced to a modality called Emotional Freedom Technique ("EFT") which is a technique referred to as a type of energy therapy. Due to the experimental nature of EFT, and because it is a relatively new healing approach and the extent of its effectiveness, as well as its risks and benefits are not full known, I agree to assume and accept full responsibility for any and all risks associated with viewing this website and using EFT as a result of viewing this website. I understand that my choice to use EFT is of my own free will and not subject to any outside pressure. I further understand that if I choose to use EFT, it is possible that emotional or physical sensations or additional unresolved memories may surface. 
+
+  The information presented on this website, including introducing EFT, is not intended to represent that EFT is used to diagnose, treat, cure, or prevent any disease or psychological disorder. EFT is not a substitute for medical or psychological treatment. Any stories or testimonials presented on this website do not constitute a warranty, guarantee, or prediction regarding the outcome of an individual using EFT for any particular issue. While all materials and links to other resources are posted in good faith, the accuracy, validity, effectiveness, completeness, or usefulness of any information herein, as with any publication, cannot be guaranteed. The Tapping Solution, LLC, accepts no responsibility or liability whatsoever for the use or misuse of the information contained on this website, including, but not limited to, EFT demonstrations, training, and related activities. We strongly advise that you seek professional advice as appropriate before making any health decision.
