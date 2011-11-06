@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the www-banners.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508131729id_/http%3A//www.www-banners.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www-banners.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106022815id_/http%3A//www.www-banners.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -17,5 +17,5 @@ With respect to cookies: We do not set any cookies. However, our third-party adv
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
-</
+
 
