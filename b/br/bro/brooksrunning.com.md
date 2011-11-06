@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507231850id_/http%3A//www.brooksrunning.com/on/demandware.store/Sites-BrooksRunning-Site/default/About-Content%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brooksrunning.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106042259id_/http%3A//www.brooksrunning.com/on/demandware.store/Sites-BrooksRunning-Site/default/About-Content%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Brooks Sports Privacy Policy
 
 Privacy Policy
-
-## Privacy Policy
 
 At Brooks Sports, Inc. ("Brooks"), we respect your privacy and are fully committed to ensuring that your privacy is protected. We realize the importance of feeling safe online and take great care to safeguard the information you provide. Your preferences for use of your personal information are our highest priority. The privacy policy below details the measures taken by Brooks to protect your privacy in connection with your use of Brooksrunning.com and other websites owned and operated by Brooks (the "Company Sites").
 
