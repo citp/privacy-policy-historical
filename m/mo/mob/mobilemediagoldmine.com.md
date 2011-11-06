@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilemediagoldmine.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613202355id_/http%3A//www.mobilemediagoldmine.com/member/membership/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilemediagoldmine.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106141739id_/http%3A//www.mobilemediagoldmine.com/member/membership/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Media Goldmine
 
