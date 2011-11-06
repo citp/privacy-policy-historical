@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507220050id_/http%3A//www.childmind.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the childmind.org privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106232002id_/http%3A//www.childmind.org/privacy) for the most accurate reproduction.*
 
 # Privacy | Child Mind Institute
 
@@ -124,7 +124,7 @@ If you wish to review the contact information we have on file for you, correct y
 
 You may contact us by mail, e-mail, or telephone, as follows:
 
-Mail: Child Mind Institute, 909 Third Avenue, 5th Floor, New York, NY 10022
+Mail: Child Mind Institute, 445 Park Avenue, New York, NY 10022
 
 Policy Last Updated: September 30, 2010
 
