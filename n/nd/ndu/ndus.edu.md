@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ndus.edu privacy policy that was archived on 2011-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110501045306id_/http%3A//www.ndus.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ndus.edu privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106035106id_/http%3A//www.ndus.edu/privacy) for the most accurate reproduction.*
 
 # North Dakota University System : Privacy Policy
 
@@ -14,5 +14,5 @@ E-mail addresses are collected only if a response is necessary or if there is a 
 This website links to other websites maintained by individual state agencies, political subdivisions, nonprofit organizations and private businesses. Each of these entities is responsible for setting and publishing its own privacy policies. Users of the NDUS website who link to other sites are subject to the privacy policies of those sites.
 
  **Contact Us**  
-If you have any questions about this privacy statement, the practices of this site or your dealings with this website, please [contact us](http://209.62.235.14/contact/).   
+If you have any questions about this privacy statement, the practices of this site or your dealings with this website, please [contact us](http://www.ndus.edu/contact/).   
 
