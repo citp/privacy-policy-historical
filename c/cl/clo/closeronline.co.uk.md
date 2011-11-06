@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the closeronline.co.uk privacy policy that was archived on 2010-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101212033923id_/http%3A//www.closeronline.co.uk/general/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the closeronline.co.uk privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106162827id_/http%3A//www.closeronline.co.uk/general/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Closer Online
 
