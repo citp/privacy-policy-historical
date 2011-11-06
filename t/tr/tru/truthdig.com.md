@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509232629id_/http%3A//www.truthdig.com/privacy_policy/%3Fbn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthdig.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106231919id_/http%3A//www.truthdig.com/privacy_policy/%3Fbn) for the most accurate reproduction.*
 
 # Truthdig - Privacy Policy
 
@@ -14,15 +14,15 @@ When you visit Truthdig, our systems collect basic information about your comput
 
 The Web Site uses "cookies" -- a small piece of information which a web server can store temporarily with your web browser. We use cookies to track the type of content and web sites to which our users link, the length of time they spend at any particular web site and the Truthdig services they use. Cookies also help us diagnose problems with our server.
 
-### Email News and "Send a Dig" Feature
+### Email News and "Send to a Colleague" Feature
 
 After signing up with Truthdig, users will receive email news and other occasional announcements from Truthdig. In order to distribute our email, we collect subscribers' email addresses. We do not share email addresses with other companies or partners. Users can unsubscribe from receiving emails from Truthdig at any time.
 
-We offer a "send this Dig to a friend" feature, which allows our users to inform others about a Dig or other Truthdig content they might be interested in. For this feature to function, we ask for email addresses from the sender and for the recipient. We do not store or save these email addresses and you will not receive any communication from Truthdig or its partners as a result of having used this feature.
+We offer a "Send to a Colleague" feature, which allows our users to inform others about a Dig or other Truthdig content they might be interested in. For this feature to function, we ask for email addresses from the sender and for the recipient. We do not store or save these email addresses and you will not receive any communication from Truthdig or its partners as a result of having used this feature.
 
 ### Discussion Forums
 
-Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20110509232629id_/http%3A//www.truthdig.com/user_agreement), by using the Web Site you grant Truthdig permission to use any content you post on the Web Site for any purpose.
+Truthdig makes discussion forums available to its users. Please remember any information disclosed in these areas becomes publicly available, and therefore you should exercise caution when disclosing personal information. Also, pursuant to Truthdig's [User Agreement](https://web.archive.org/web/20111106231919id_/http%3A//www.truthdig.com/user_agreement), by using the Web Site you grant Truthdig permission to use any content you post on the Web Site for any purpose.
 
 If you have any concerns about the discussion forums, send email to [info@truthdig.com](mailto:info@truthdig.com).
 
