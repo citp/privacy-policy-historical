@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jpay.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509063800id_/http%3A//www.jpay.com/LegalAgreementsOut.aspx%3FPanel%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpay.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106145203id_/http%3A//www.jpay.com/LegalAgreementsOut.aspx%3FPanel%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Legal Agreements
 
-**Privacy Policy**
+Privacy Policy
 
 This Privacy Policy governs your JPay account and any information you provide to JPay on this site, on transaction forms or when you speak to a JPay representative. In order to use the JPay service and to reduce the risk of fraud, JPay requires you to provide information about yourself and your credit card and/or debit card (“Bank card”). JPay is committed to safeguarding your privacy online. Please read this Privacy Policy to understand how your personal information will be collected and used by JPay. This policy was last updated February 19, 2010.
 
