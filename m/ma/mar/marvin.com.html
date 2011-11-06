@@ -1,13 +1,67 @@
-<!--The following is the downloaded HTML source of the marvin.com privacy policy that was archived on 2011-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110508011602id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marvin.com privacy policy that was archived on 2011-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111106114959id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.5.2.min.js"></script>
+<!DOCTYPE html><html><head><meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/scripts/jquery-1.6.1.min.js"></script>
 <script type="text/javascript" src="/scripts/shared.js"></script>
 <script type="text/javascript" src="/scripts/marvin.js"></script>
 <script type="text/javascript" src="/scripts/AC_RunActiveContent.js"></script>
 <script type="text/javascript" src="/scripts/swfobject.1.5.js"></script>
 <script type="text/javascript" src="/scripts/swfobject.js"></script>
-<script type="text/javascript" src="/scripts/nav.js"></script> 
+<script type="text/javascript" src="/scripts/nav.js"></script>
+<script language="javascript" src="/../Scripts/imageHoverOver.js" type="text/javascript"></script></head><body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0"><div id="trailimageid" style="position:absolute;visibility:hidden;left:0px;top:-1000px;width:1px;height:1px;border:1px solid #888888;background:white;"><img id="ttimg"></div>
+<!--google maps-->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="http://www.google.com/jsapi?key=ABQIAAAA0KPX42E6miLvAE4W2hhFNhTgYWD6i_8ezAid1hyJzDOXLgBEjBStmAblGiyjOB11-CqkfO9AWyjghQ"></script>
+<script type="text/javascript">
+    function locatorSearchAttributes() {
+        var ret = $('table.searchattributes input:checked').val();
+        if (!ret || ret == 0) {
+            ret = '';
+        };
+        return ret;
+    }
+    function geocode(address, city, state, postalCode, range, geocodeProvider, url) {
+        if ((address.length + city.length + state.length + postalCode.length) == 0) {
+            window.location = url;
+            return false;
+        };
+        if (postalCode.length == 0 && (state.length != 0 && city.length == 0 || city.length != 0 && state.length == 0)) {
+            alert('Enter a city and state/province');
+            return false;
+        };
+        if (postalCode.length != 0 && !postalCode.match(/^\d{5}-\d{4}$|^\d{5}$|^[A-Z]\d[A-Z] \d[A-Z]\d$/)) {
+            alert('Enter a valid postal code');
+            return false;
+        };
+        if (window.location.host.split('.')[0].match(/^commercial$/)) {
+            geocodeProvider = 'None';
+        };
+        switch (geocodeProvider) {
+            case 'Google':
+                var addr = address + ' ' + city + ' ' + state + ' ' + postalCode;
+                window.status = 'searching ' + addr
+                var geocoder = new google.maps.Geocoder();
+                geocoder.geocode({ 'address': addr.trim() }, function(results, status) {
+                    if (status == google.maps.GeocoderStatus.OK) {
+                        window.location = url + '&p1=' + address + '&p2=' + city + '&p3=' + state + '&p4=' + postalCode + '&p5=' + range + '&p6=' + locatorSearchAttributes() + '&ll=' + results[0].geometry.location;
+                    } else {
+                        //alert("Geocode was not successful for the following reason: " + status);
+                        window.location = url;
+                    }
+                });
+                geocoder = null;
+                break;
+            case 'MapPoint':
+                window.location = url + '&p1=' + address + '&p2=' + city + '&p3=' + state + '&p4=' + postalCode + '&p5=' + range + '&p6=' + locatorSearchAttributes();
+                break;
+            case 'None':
+                window.location = url + '&p1=' + address + '&p2=' + city + '&p3=' + state + '&p4=' + postalCode + '&p5=' + range + '&p6=' + locatorSearchAttributes();
+                break;        
+        };
+        return true;
+    };	
+</script>
+<!--/google maps--> 
 <!--google analytics-->
 <script type="text/javascript">
     var defaultAccount = 'UA-282535-1';
@@ -32,32 +86,81 @@
 <meta name="description" content="">
 <meta name="keywords" content="">
 <title>
-	Privacy Statement - Marvin Windows and Doors
-</title></head>
-	<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0">
+	Privacy Statement
+</title>
+	
 	
 	<div id="JavaScriptDebug"></div>
 	<form name="form" method="post" action="/privacy/" id="form">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMzY4ODQwMTA4ZGT0Yw34b118zjuFhIuoeiBNrSCx8w==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJMTc5NTY2OTY0ZGTujgylXsTNuxzG9UjmuGd9ZOl7Qw==">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBALagIrsBQLKmai8DALx1vpqAtiDqP0PvDNaFutMMMAAhLBBp3+ZOFeP9Ts=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBAL33biEDAKK0/7MDwKm/rThBQK5/bb9D91IKIeWyO+Ax8aGJeYRLLQBvoHb">
 		<div id="wrapper">
 			<div id="content">
-
 <div id="content-wrapper" style="width: 100%">
     <div id="page-head">
 		<div id="logo-container">
 			<a href="/" title="Marvin Windows and Doors - Built around you. Link to home page">
-				<img src="/images/2011/header/marvin_logo.gif" width="181" height="92" border="0" alt="Marvin Windows and Doors - Built around you.">
+				<img src="/images/2011/header/marvin_logo.gif" width="192" height="92" border="0" alt="Marvin Windows and Doors - Built around you.">
 			</a>
 		</div>
 		<div id="search-container">
 		    
-<!--usercontrols_2011_locatorsearch_ascx-->
 
 <script type="text/javascript">
     $(function() {
-        var b = $('.top-locator-search :button');
+        var geocodeProvider = 'MapPoint';
+        var b = $('.top-locator-search :button[value=\'\']');
+        switch (geocodeProvider) {
+            case 'Google':
+                //change to use Google maps - suppress postback
+                var bb = $('.top-locator-search :button')
+                bb.each(function() {
+                    var e = $(this);
+                    e.removeAttr('onclick');
+                    e.click(function() {
+                        var addr, city, state, postalCode, distance
+                        try {
+                            addr = $('#_ctl3__ctl14__ctl1_TextControl').val().trim();
+                            if (addr == 'Street Address') {
+                                addr = '';
+                            };
+                        } catch (e) { addr = '' };
+                        try {
+                            city = $('#_ctl3__ctl14__ctl2_TextControl').val().trim();
+                            if (city == 'City') {
+                                city = '';
+                            };
+                        } catch (e) { city = '' };
+                        try {
+                            state = $('#_ctl3__ctl14__ctl3_SelectControl').val().trim();
+                            if (state == 'State/Province') {
+                                state = '';
+                            };
+                        } catch (e) { state = '' };
+                        try {
+                            postalCode = $('#_ctl3__ctl14__ctl4_TextControl').val().trim();
+                            if (postalCode == 'Zip/Postal Code') {
+                                postalCode = '';
+                            };
+                        } catch (e) { postalCode = '' }
+                        try {
+                            distance = $('#_ctl3__ctl14__ctl6_SelectControl').val().trim();
+                        } catch (e) { distance = '25' }
+                        var ret = geocode(addr,
+                                city,
+                                state,
+                                postalCode,
+                                distance
+                                , 'MapPoint'
+                                , '?page=where-to-buy'
+                        );
+                        return ret;
+                    });
+                });
+            case 'MapPoint':
+                //change nothing
+        };
         var pc = $('.top-locator-search .postalcode');
         $('.top-locator-search input:text').each(function() {
             var i = $(this);
@@ -80,8 +183,14 @@
                 //i.css('color', '#696158');
                 i.addClass('input-edit-color');
             };
+            i.focus(function() {
+                b.css('background-image', 'url(\'/images/2011/header/arrow_submit_highlight.gif\')');
+            });
+            i.blur(function() {
+                b.css('background-image', 'url(\'/images/2011/header/arrow_submit.gif\')');
+            });
             i.keypress(function(event) {
-                if (event.which == '13') {
+                if (event.keyCode == 13 || event.which == 13) {
                     b.click();
                 };
             });
@@ -109,7 +218,7 @@
                 this._default = 'Search Radius';
             };
             i.keypress(function(event) {
-                if (event.which == '13') {
+                if (event.keyCode == 13 || event.which == 13) {
                     b.click();
                 };
             });
@@ -118,46 +227,54 @@
 </script>
 <div class="input-form top-locator-search">
     <div class="heading">FIND A DEALER <div class="full-size">NEAR THIS ADDRESS</div></div>
-    <div id="_ctl2__ctl14__ctl4_Top" class="inputField_postalcode">
+    <div id="_ctl3__ctl14__ctl4_Top" class="inputField_postalcode">
 	<div class="clear"></div>
 	<div>
 		<label class="caption">
 			
-			<span id="_ctl2__ctl14__ctl4_Caption"></span>			
+			<span id="_ctl3__ctl14__ctl4_Caption"></span>			
 		</label>
 		
-		<input name="_ctl2:_ctl14:_ctl4:TextControl" type="text" value="Zip/Postal Code" id="_ctl2__ctl14__ctl4_TextControl" class="postalcode textbox">
+		<input name="_ctl3:_ctl14:_ctl4:TextControl" type="text" value="Zip/Postal Code" id="_ctl3__ctl14__ctl4_TextControl" class="postalcode textbox">
 		
 		
 		
 		
-		<span id="_ctl2__ctl14__ctl4_Example" class="exampleText"></span>
+		<span id="_ctl3__ctl14__ctl4_Example" class="exampleText"></span>
 		
 		
 	</div>
 	<div class="clear"></div>
 </div>
     <div class="button full-size">
-        <input onclick="__doPostBack('_ctl2$_ctl14$submitButton','')" name="_ctl2:_ctl14:submitButton" type="button" id="_ctl2__ctl14_submitButton" class="button" value="Next">
+        <input onclick="__doPostBack('_ctl3$_ctl14$submitButton','')" name="_ctl3:_ctl14:submitButton" type="button" id="_ctl3__ctl14_submitButton" class="button" value="Next">
     </div>
     <div class="small-size">
-        <input onclick="__doPostBack('_ctl2$_ctl14$_ctl0','')" name="_ctl2:_ctl14:_ctl0" type="button" class="button">
+        <input onclick="__doPostBack('_ctl3$_ctl14$_ctl0','')" name="_ctl3:_ctl14:_ctl0" type="button" class="button">
     </div>
     <a href="/international-distributors/" class="international-link small-size">INTERNATIONAL</a>
 </div>
-<!--/usercontrols_2011_locatorsearch_ascx-->
-
             
 <script type="text/javascript">
     $(function() {
         var b = $('.top-site-search :button');
-        $('.top-site-search input:text').each(function() {
-            var i = $(this);
-            i.keypress(function(event) {
-                if (event.which == '13') {
-                    b.click();
-                };
-            });
+        var t = $('.top-site-search input:text');
+        b.click(function() {
+            var val = t.val();
+            if (val.length != 0 && val != 'Keyword') {
+                window.location = '?page=search&searchString=' + val;
+            };
+        });
+        t.focus(function() {
+            b.css('background-image', 'url(\'/images/2011/header/arrow_submit_highlight.gif\')');
+        });
+        t.blur(function() {
+            b.css('background-image', 'url(\'/images/2011/header/arrow_submit.gif\')');
+        });
+        t.keypress(function(event) {
+            if (event.keyCode == 13 || event.which == 13) {
+                b.click();
+            };
         });
     });
 </script>
@@ -169,7 +286,7 @@
         <input name="SearchString" type="text" size="15" maxlength="100" class="textbox" value="Keyword">
     </div>
     <div class="submit-button">
-        <input type="submit" class="button" value="" visible="false">
+        <input type="button" class="button" value="" visible="false">
     </div>
     </div>
     <div class="request-info-link">
@@ -206,11 +323,12 @@
 <li><a href="/windows/casement-windows/">Casement</a></li>
 <li><a href="/windows/awning-windows/">Awning</a></li>
 <li><a href="/windows/sliding-windows/">Glider</a></li>
-<li><a href="/windows/bay-and-bow-windows/">Bay &amp; Bow</a></li>
+<li><a href="/windows/bay-and-bow-windows/">Bay and Bow</a></li>
 <li><a href="/windows/specialty-windows/">Special Shape</a></li>
 <li><a href="/windows/round-top-windows/">Round Top</a></li>
-<li><a href="/windows/tilt-turn-hopper-windows/">Tilt Turn &amp; Hopper</a></li>
+<li><a href="/windows/tilt-turn-hopper-windows/">Tilt Turn and Hopper</a></li>
 <li class="nav-break"><a href="/windows/new-window-products/">New Window Products</a></li>
+<li><a href="/windows/window-product-finder/">Window Finder</a></li>
 </ul>
 </div>
 
@@ -223,15 +341,17 @@
 <li><a href="/patio-doors/arched-french-doors/">Arch Top French</a></li>
 <li><a href="/patio-doors/bi-fold-doors/">Bi-Fold</a></li>
 <li class="nav-break"><a href="/patio-doors/new-patio-door-products/">New Door Products</a></li>
+<li><a href="/patio-doors/door-product-finder/">Door Finder</a></li>
 </ul>
 </div>
 
 <div id="primary-nav-about-simple" class="primary-nav">
 <ul class="primary-nav-menu">
 <li><a href="/benefits-features/custom-windows/">The Marvin Difference</a></li>
-<li><a href="/benefits-features/about-marvin/">About Marvin</a></li>
-<li><a href="/benefits-features/green-building-windows-doors/">Thinking Green</a></li>
+<li><a href="/benefits-features/heritage/">Heritage of Excellence</a></li>
+<li><a href="/benefits-features/green-building-windows-doors/">Energy Efficiency</a></li>
 <li><a href="/benefits-features/marvin-brands/">Our Brands</a></li>
+<li><a href="/benefits-features/about-marvin/">About Marvin</a></li>
 </ul>
 </div>
 
@@ -288,26 +408,25 @@ $(document).ready(function() {
     <div id="content-center">
         <div id="content-left">
            
-<!--usercontrols_2011_navsecondary_ascx-->
-
-<!--/usercontrols_2011_navsecondary_ascx-->
 
            
         </div>
         <div id="content-main">
             <!--breadcrumb-->
             
-<!--usercontrols_marvinbreadcrumb_ascx-->
 <div id="breadcrumb" class="">
 	<a class="breadcrumb" href="/">Homeowner</a> | <span><span style="white-space:nowrap">Privacy Statement</span></span>
 </div>
 
-<!--usercontrols_sharethis_ascx-->
+<script charset="utf-8" type="text/javascript">
+// Set version before loading buttons.js
+var switchTo5x = false;
+</script>
 <script type="text/javascript" src="http://w.sharethis.com/button/buttons.js"></script>
 <script type="text/javascript">
     stLight.options({
         publisher: 'baf55f62-33f9-4023-8bbb-ee5ef5b0ace3',
-        tracking:'google'
+        tracking: 'google'
     });
 </script>
 <script type="text/javascript">
@@ -322,7 +441,7 @@ $(document).ready(function() {
 <style type="text/css">
     #sharethis
     {
-        width:60px;
+        width:81px;
     }
     .st_twitter_custom
     {
@@ -348,18 +467,112 @@ $(document).ready(function() {
         height:22px;
         width:18px;
     }
+    .mwd-enews-request
+    {
+        background: url("/images/icon_enews.gif") no-repeat scroll left top transparent;
+        cursor:pointer;
+        display:inline-block;
+        height:22px;
+        width:21px;
+    }
+    .mwd-close
+    {
+        /*background-image:url("http://w.sharethis.com/share4x/images/sprite_main_2.gif");*/
+        background-color:#666666;
+        color:#ffffff;
+        cursor:pointer;
+        font-weight:bold;
+        height:13px;
+        left:379px;
+        line-height:10px;
+        padding:2px 0 0 3px;
+        position:absolute;
+        text-transform:lowercase;
+        top:-1px;
+        width:10px;
+    }
 </style>
 <div id="sharethis" class="">
-    <span class="st_twitter_custom" displaytext="Tweet"></span><span class="st_facebook_custom" displaytext="Facebook"></span><span class="st_email_custom" displaytext="Email"></span>
+    <span class="mwd-enews-request" displaytext="Request eNewsletter"></span><span class="st_twitter_custom" displaytext="Tweet"></span><span class="st_facebook_custom" displaytext="Facebook"></span><span class="st_email_custom" displaytext="Email"></span><span class="st_sharethis" displaytext="Share" style="display:none"></span>    
 </div>
+<script>
+    /* eNewsletter */
+    $(function() {
+
+        var b = $('.mwd-enews-request');
+        var c = $('<div></div>');
+        var f = $('<div class="mwd-close">X</div><iframe src="http://' + window.location.hostname + '/?page=shadow-request-enewsletter&iframe=1" frameborder="none" scrolling="no"></iframe>');
+        var fMargin = 15;
+        c.css('background-color', '#ffffff');
+        c.css('border', 'solid 3px #666666');
+        c.css('padding', fMargin + 'px 0 0 ' + fMargin + 'px');
+        c.css('position', 'absolute');
+        c.css('width', '375px');
+        c.appendTo('body');
+        c.show = function() {
+            //close any open ShareThis widgets
+            $('.stclose').each(function() {
+                $(this).click();
+            });
+            c.empty();
+            f.appendTo(c);
+            setPosition(c);
+            c.css('visibility', '');
+        };
+        c.hide = function() {
+            c.css('left', '-10000px');
+            c.css('visibility', 'hidden');
+            c.empty();
+        };
+        c.visible = function() {
+            return c.css('visibility') != 'hidden';
+        };
+        c.hide();
+        f.css('border', '0px');
+        f.load(function() {
+            var self = $(this);
+            self.height(this.contentWindow.document.body.offsetHeight);
+            self.width(c.width() - fMargin * 2);
+            setPosition(self.parent());
+        });
+
+        b.each(function() {
+            var self = $(this);
+            self.click(function(e) {
+                e.stopPropagation(); // !!! important - stops clicks in ancestors (e.g. $('html').click to hide 'c', below) from propagating into this button !!!
+                if ($('.stwrapper').css('visibility') != 'hidden') {
+                    $('.st_email_custom').click();
+                };
+                if (c.visible()) {
+                    c.hide();
+                } else {
+                    c.show();
+                };
+            });
+        });
+
+        $('html').click(function() {
+            c.hide();
+        });
+
+        function setPosition(jqObject) {
+            var left = (b.position().left - jqObject.width() - 5);
+            if (left < 0) {
+                left = 5;
+            };
+            var top = (b.position().top + b.height() + 5);
+            if (top + jqObject.height() > document.body.offsetHeight) {
+                top = b.position().top - jqObject.height() - 20;
+            };
+            jqObject.css('left', left + 'px');
+            jqObject.css('top', top + 'px');
+        };
+
+    });
+</script>
 
 
-<!--/usercontrols_sharethis_ascx-->
 
-
-
-
-<!--/usercontrols_marvinbreadcrumb_ascx-->
 
             <!--/breadcrumb-->
             <div id="content-head">
@@ -370,200 +583,161 @@ $(document).ready(function() {
             <!--center content-->
             <div id="content">
                 
-<!--usercontrols_contentsection_ascx-->
-<div class="content-section lr-pad">
-    
-	
-	<h1 id="_ctl2__ctl0_heading" class="">Privacy Statement</h1>
-	<p id="_ctl2__ctl0_paragraph">Marvin Lumber and Cedar Company (“Marvin”) respects the privacy of its customers and users of this web site (the “Site”).   This Privacy Statement discloses how we collect and use information on the Site, and the choices that you can make about the way your information is collected and used.</p>
-	
-	
-	
-</div>
-<!--/usercontrols_contentsection_ascx-->
 
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
-	<a href="/" target="">
-		<div id="title-image" title=""></div>
-	</a>
-	
-	<h2 id="_ctl2__ctl1_heading" class="">1.  INFORMATION COLLECTION AND USE</h2>
-	<p id="_ctl2__ctl1_paragraph">Portions of the Site permit users to contact Marvin with requests for information regarding our products and services.  These and other portions of the Site require users to provide personally identifiable contact information.  In general, Marvin uses the information users provide for the purposes stated at the point of collection.  For example, Marvin may use contact information to respond to a user’s request for product information.  Marvin may also use this information to contact users as a follow up to a user’s request for information, or to contact users in the future with respect to new products, options or promotional offers we think may be of interest to users.  Users who have provided information in the past may opt-out of receiving future information by complying with the opt-out procedures described below in Section 2.</p>
-	
-	
-	
-</div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
 
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
+	
+	<h1 id="_ctl3__ctl0_heading">Privacy Statement</h1>
+	<p id="_ctl3__ctl0_paragraph">Marvin Lumber and Cedar Company (“Marvin”) respects the privacy of its customers and users of this web site (the “Site”).   This Privacy Statement discloses how we collect and use information on the Site, and the choices that you can make about the way your information is collected and used.</p>
+	
+	
+	
+
+</div>
+
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl2_heading" class="">Information Sharing </h2>
-	<p id="_ctl2__ctl2_paragraph">Marvin may share user information with its affiliates, and its network of distributors and dealers.  Marvin may also share user information with third parties which Marvin has engaged to provide a particular service.  In the event Marvin sells or acquires business assets or concerns, in whole or in part, Marvin may transfer user information in conjunction with such sale or acquisition.</p>
+	<h2 id="_ctl3__ctl1_heading">1.  INFORMATION COLLECTION AND USE</h2>
+	<p id="_ctl3__ctl1_paragraph">Portions of the Site permit users to contact Marvin with requests for information regarding our products and services.  These and other portions of the Site require users to provide personally identifiable contact information.  In general, Marvin uses the information users provide for the purposes stated at the point of collection.  For example, Marvin may use contact information to respond to a user’s request for product information.  Marvin may also use this information to contact users as a follow up to a user’s request for information, or to contact users in the future with respect to new products, options or promotional offers we think may be of interest to users.  Users who have provided information in the past may opt-out of receiving future information by complying with the opt-out procedures described below in Section 2.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl3_heading" class="">Cookies/IP Addresses</h2>
-	<p id="_ctl2__ctl3_paragraph">Cookies are small files stored by a web browser to help keep track of a user’s activity while visiting the Site.  The Site’s cookies do not collect personally identifiable information and are not shared with third parties.  The Site uses cookies to remember choices and information for the user’s convenience and to deliver content specific to a user’s needs and interests.  Marvin may use cookies to provide faster service or to personalize a user’s visit to the Site.  Marvin may also use cookies to track Site usage trends, to help Marvin understand what Site information is most valuable to the Site’s users, and to improve the Site for all users.</p><p>Marvin may collect and use users' Internet Protocol or “IP” Addresses and other usage data to gather broad demographic information.   Marvin generally does not use IP addresses to identify a user.  Marvin may use IP addresses to identify a user when we feel it is necessary to enforce compliance with the Site’s <a href="/legal/">Terms of Use</a> or to protect our business, the Site, our customers or others, or in response to requests or subpoenas by law-enforcement authorities.</p>
+	<h2 id="_ctl3__ctl2_heading">Information Sharing </h2>
+	<p id="_ctl3__ctl2_paragraph">Marvin may share user information with its affiliates, and its network of distributors and dealers.  Marvin may also share user information with third parties which Marvin has engaged to provide a particular service.  In the event Marvin sells or acquires business assets or concerns, in whole or in part, Marvin may transfer user information in conjunction with such sale or acquisition.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl4_heading" class="">2. CONSENT TO PRIVACY STATEMENT/OPT-OUT</h2>
-	<p id="_ctl2__ctl4_paragraph">By providing the information requested by the Site, or by continuing to use the Site after having an opportunity to review the Privacy Statement, you have consented to the terms of the Privacy Statement, and Marvin’s use of the information it collects as described at the point of collection or in this Privacy Statement.  If you do not agree to the Privacy Statement, you may not use the Site.</p><p>Marvin reserves the right to modify the Privacy Statement at any time without giving you prior notice.   Your use of the Site following any such modification constitutes your agreement to follow and be bound by the Privacy Statement as modified.  The last date the Privacy Statement was revised is set forth below.</p><p>The Site provides users who have requested information from Marvin the opportunity to opt-out of receiving all or specific future communications from us.  If you do not wish to receive future communications from us, please e-mail your request to <a href="/contact-us/">Marvin Windows and Doors</a>.</p>
+	<h2 id="_ctl3__ctl3_heading">Cookies/IP Addresses</h2>
+	<p id="_ctl3__ctl3_paragraph">Cookies are small files stored by a web browser to help keep track of a user’s activity while visiting the Site.  The Site’s cookies do not collect personally identifiable information and are not shared with third parties.  The Site uses cookies to remember choices and information for the user’s convenience and to deliver content specific to a user’s needs and interests.  Marvin may use cookies to provide faster service or to personalize a user’s visit to the Site.  Marvin may also use cookies to track Site usage trends, to help Marvin understand what Site information is most valuable to the Site’s users, and to improve the Site for all users.</p><p>Marvin may collect and use users' Internet Protocol or “IP” Addresses and other usage data to gather broad demographic information.   Marvin generally does not use IP addresses to identify a user.  Marvin may use IP addresses to identify a user when we feel it is necessary to enforce compliance with the Site’s <a href="/legal/">Terms of Use</a> or to protect our business, the Site, our customers or others, or in response to requests or subpoenas by law-enforcement authorities.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl5_heading" class="">3. ACCESS/CORRECTION OF YOUR INFORMATION</h2>
-	<p id="_ctl2__ctl5_paragraph">You may request access to any data about you that Marvin has collected and stored by sending an e-mail request to <a href="/contact-us/">Marvin Windows and Doors</a>. If you believe that an error has been made in the accuracy of the data collected from you, you may request that the information be corrected by sending a request to the addresses below.  In order to protect your privacy and security, Marvin may need to take reasonable steps in an effort to verify your identity before granting access or making corrections.</p>
+	<h2 id="_ctl3__ctl4_heading">2. CONSENT TO PRIVACY STATEMENT/OPT-OUT</h2>
+	<p id="_ctl3__ctl4_paragraph">By providing the information requested by the Site, or by continuing to use the Site after having an opportunity to review the Privacy Statement, you have consented to the terms of the Privacy Statement, and Marvin’s use of the information it collects as described at the point of collection or in this Privacy Statement.  If you do not agree to the Privacy Statement, you may not use the Site.</p><p>Marvin reserves the right to modify the Privacy Statement at any time without giving you prior notice.   Your use of the Site following any such modification constitutes your agreement to follow and be bound by the Privacy Statement as modified.  The last date the Privacy Statement was revised is set forth below.</p><p>The Site provides users who have requested information from Marvin the opportunity to opt-out of receiving all or specific future communications from us.  If you do not wish to receive future communications from us, please e-mail your request to <a href="/contact-us/">Marvin Windows and Doors</a>.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl6_heading" class="">4. SECURITY OF THE DATA COLLECTED</h2>
-	<p id="_ctl2__ctl6_paragraph">The Site is not a secure web site.  Marvin cannot and does not ensure or warrant the security of any information transmitted over the Internet, or maintained in our systems.  You agree that any data transmission you make or receive through the Site is at your own risk.</p>
+	<h2 id="_ctl3__ctl5_heading">3. ACCESS/CORRECTION OF YOUR INFORMATION</h2>
+	<p id="_ctl3__ctl5_paragraph">You may request access to any data about you that Marvin has collected and stored by sending an e-mail request to <a href="/contact-us/">Marvin Windows and Doors</a>. If you believe that an error has been made in the accuracy of the data collected from you, you may request that the information be corrected by sending a request to the addresses below.  In order to protect your privacy and security, Marvin may need to take reasonable steps in an effort to verify your identity before granting access or making corrections.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl7_heading" class="">5. MISCELLANEOUS PROVISIONS</h2>
-	
+	<h2 id="_ctl3__ctl6_heading">4. SECURITY OF THE DATA COLLECTED</h2>
+	<p id="_ctl3__ctl6_paragraph">The Site is not a secure web site.  Marvin cannot and does not ensure or warrant the security of any information transmitted over the Internet, or maintained in our systems.  You agree that any data transmission you make or receive through the Site is at your own risk.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl8_heading" class="">Children and Privacy</h2>
-	<p id="_ctl2__ctl8_paragraph">The Site is not intended for use by children.  Marvin encourages parents and guardians to be familiar with the web sites their children visit.  The Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children's Online Privacy Protection Act of 1998 (“COPPA”).  For more information about COPPA and children's on-line privacy in general, visit the FTC's web site at <a target="_blank" href="http://www.ftc.gov">http://www.ftc.gov</a>.</p>
+	<h2 id="_ctl3__ctl7_heading">5. MISCELLANEOUS PROVISIONS</h2>
+	
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl9_heading" class="">Links to Other Sites</h2>
-	<p id="_ctl2__ctl9_paragraph">The Site contains links to other web sites.   Each of these linked web sites maintains its own independent privacy policies.  Marvin does not control and is not responsible for the privacy policies or the content of those web sites.  When you leave the Site and access the web sites of third parties, the privacy policies of the parties maintaining those web sites apply.</p>
+	<h2 id="_ctl3__ctl8_heading">Children and Privacy</h2>
+	<p id="_ctl3__ctl8_paragraph">The Site is not intended for use by children.  Marvin encourages parents and guardians to be familiar with the web sites their children visit.  The Federal Trade Commission ("FTC") regulates the means by which web site operators collect and use personal information from children under 13, pursuant to the Children's Online Privacy Protection Act of 1998 (“COPPA”).  For more information about COPPA and children's on-line privacy in general, visit the FTC's web site at <a target="_blank" href="http://www.ftc.gov">http://www.ftc.gov</a>.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl10_heading" class="">Disclaimer of Liability</h2>
-	<p id="_ctl2__ctl10_paragraph">Under no circumstances shall Marvin be liable for any damages, including, but not limited to, indirect, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user’s accessing the Site, even if Marvin has been advised of the possibility of such damages.  This and the other sections in this Privacy Statement should be read in conjunction with and are subject to the <a href="/legal/">Terms of Use</a>.</p>
+	<h2 id="_ctl3__ctl9_heading">Links to Other Sites</h2>
+	<p id="_ctl3__ctl9_paragraph">The Site contains links to other web sites.   Each of these linked web sites maintains its own independent privacy policies.  Marvin does not control and is not responsible for the privacy policies or the content of those web sites.  When you leave the Site and access the web sites of third parties, the privacy policies of the parties maintaining those web sites apply.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl11_heading" class="">6. ENFORCEMENT/REDRESS </h2>
-	<p id="_ctl2__ctl11_paragraph">If for some reason you believe that Marvin has not adhered to the Privacy Statement, please notify us at the addresses below.  Marvin will endeavor to respond to your concerns and, when appropriate, take steps to correct a problem.</p>
+	<h2 id="_ctl3__ctl10_heading">Disclaimer of Liability</h2>
+	<p id="_ctl3__ctl10_paragraph">Under no circumstances shall Marvin be liable for any damages, including, but not limited to, indirect, special, incidental, consequential or exemplary damages, that result from the use of the information or materials posted to or collected as a result of the user’s accessing the Site, even if Marvin has been advised of the possibility of such damages.  This and the other sections in this Privacy Statement should be read in conjunction with and are subject to the <a href="/legal/">Terms of Use</a>.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
-	<h2 id="_ctl2__ctl12_heading" class="">7. CONTACT INFORMATION</h2>
-	<p id="_ctl2__ctl12_paragraph">If you have any questions about this Privacy Statement, the practices of this Site, or your dealings with this Site, you may contact us by:&nbsp;</p><p>1. Sending an e-mail request to <a href="/contact-us/">Marvin Windows and Doors</a></p><p>2. Sending a letter via the U.S. Mail to:&nbsp;</p><p>Web Site Administrator<br>Marvin Windows and Doors<br>2020 Silver Bell Road, Suite 15<br>Eagan, MN 55122</p>
+	<h2 id="_ctl3__ctl11_heading">6. ENFORCEMENT/REDRESS </h2>
+	<p id="_ctl3__ctl11_paragraph">If for some reason you believe that Marvin has not adhered to the Privacy Statement, please notify us at the addresses below.  Marvin will endeavor to respond to your concerns and, when appropriate, take steps to correct a problem.</p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
-<!--usercontrols_marvinphoto_hover_ce_ascx-->
+<div class="content-section lr-pad">
+	<a href="/" target="">
+		<div id="title-image" title=""></div>
+	</a>
+	
+	<h2 id="_ctl3__ctl12_heading">7. CONTACT INFORMATION</h2>
+	<p id="_ctl3__ctl12_paragraph">If you have any questions about this Privacy Statement, the practices of this Site, or your dealings with this Site, you may contact us by:&nbsp;</p><p>1. Sending an e-mail request to <a href="/contact-us/">Marvin Windows and Doors</a></p><p>2. Sending a letter via the U.S. Mail to:&nbsp;</p><p>Web Site Administrator<br>Marvin Windows and Doors<br>2020 Silver Bell Road, Suite 15<br>Eagan, MN 55122</p>
+	
+	
+	
+</div>
 <div class="content-section lr-pad">
 	<a href="/" target="">
 		<div id="title-image" title=""></div>
 	</a>
 	
 	
-	<p id="_ctl2__ctl13_paragraph"></p><center>©Copyright 2009, Marvin Lumber and Cedar Co, All Rights Reserved.<p></p><p><strong>DATE OF LAST MODIFICATION<br>May 5, 2009</strong></p></center><p></p>
+	<p id="_ctl3__ctl13_paragraph"></p><center>©Copyright 2009, Marvin Lumber and Cedar Co, All Rights Reserved.<p></p><p><strong>DATE OF LAST MODIFICATION<br>May 5, 2009</strong></p></center><p></p>
 	
 	
 	
 </div>
-<!--/usercontrols_marvinphoto_hover_ce_ascx-->
-
             </div>
             <div class="clear">
             </div>
@@ -590,7 +764,7 @@ $(document).ready(function() {
 <div id="feed-title">
 <img src="/images/2011/footer/feed.gif" width="69" height="18" alt="FEED"></div>
 <div id="feed-content">
-<h2><a href="/redirect/?refer=http://twitter.com/MarvinWindows/statuses/66149544290811904" target="_blank"><br>Twitter: MarvinWindows: Two DIY gardening ideas on the MLuxe blog, via @Charles_Hudson http://bit.ly/mcgdaJ</a></h2>
+<h2><a href="/redirect/?refer=http://twitter.com/MarvinWindows/statuses/132893988687589377" target="_blank"><br>Twitter: MarvinWindows: Thanks @GreenCurmudgeon - first to correctly answer yesterday's trivia Q. Read more about the two nickels in the NYT: http://t.co/biQbneYt</a></h2>
 
 
 </div>
@@ -623,6 +797,7 @@ $(document).ready(function() {
                 <a href="http://commercial.marvin.com/">commercial professionals</a><br>
                 <a href="http://pros.marvin.com/">residential professionals</a><br>
                 <a href="/request-information/">request information</a><br>
+                <a href="/request-enewsletter/">enewsletter signup</a><br>
                 <a href="/where-to-buy/">find a dealer</a><br>
                 <a href="/contact-us/">contact us</a><br>
                 <a href="http://marvinmediaroom.com/">media resources</a><br>
@@ -703,4 +878,4 @@ $("#footer-social-menu > a > img").hover(
 
 
 
-<div class="definition-frame" style="left: -10000px; display: none;"></div></body></html>
+<div style="background-color: rgb(255, 255, 255); border: 3px solid rgb(102, 102, 102); padding: 15px 0px 0px 15px; position: absolute; width: 375px; left: -10000px; visibility: hidden;"></div></body></html>
