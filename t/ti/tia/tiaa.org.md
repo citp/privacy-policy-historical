@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508231935id_/https%3A//www.tiaa-cref.org/public/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiaa.org privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107005840id_/https%3A//www.tiaa-cref.org/public/about/inside/topics/index.html%3Ftc_lnk%3Dbottomutlity) for the most accurate reproduction.*
 
 # TIAA-CREF - TIAA-CREF Online Privacy Policy
 
