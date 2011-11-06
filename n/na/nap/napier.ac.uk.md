@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2010-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101206025849id_/http%3A//www.napier.ac.uk/aboutus/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napier.ac.uk privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106053905id_/http%3A//www.napier.ac.uk/aboutus/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
