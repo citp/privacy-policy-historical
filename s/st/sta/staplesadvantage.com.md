@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130033024id_/http%3A//www.staplesadvantage.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplesadvantage.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106095103id_/http%3A//staplesadvantage.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -138,8 +138,6 @@ We reserve the right to charge a small fee to process any request to update, cor
 Staples regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Staples' treatment of Personal Information to us by writing to us at the email or postal mail address contained at the beginning of this document.
 
 If we receive a written complaint, it is Staples' policy to contact the complaining customer regarding his or her concerns. We will investigate complaints promptly and diligently to address your concerns and resolve any dispute quickly.
-
-We are also a member of BBBOnLine, the online division of the Better Business Bureau, which offers a privacy dispute resolution program for customers with online privacy complaints involving BBBOnLine privacy program participants. We will strive to resolve any customer service complaints regarding the transfer of Personal Information that cannot be resolved between Staples and the customer promptly in accordance with BBBOnLine procedures.
 
 ### What to do if you believe someone has improperly used your personal data
 
