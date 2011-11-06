@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the balances-online.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506074650id_/http%3A//www.balances-online.com/Privacy-statement-sp-4.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the balances-online.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106185050id_/http%3A//www.balances-online.com/Privacy-statement-sp-4.html) for the most accurate reproduction.*
 
-# Privacy statement :: Balances-Online.com
+# Privacy statement :: balances and weighing indicators, balances-online.com Welcome to scales, balances and load cells in Balances-Online.com
 
 We respect your privacy!
 
