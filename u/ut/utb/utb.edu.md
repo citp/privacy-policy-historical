@@ -1,28 +1,6 @@
-> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527090634id_/http%3A//www.utb.edu/ba/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utb.edu privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106232426id_/http%3A//www.utb.edu/ba/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
-
-|  |   
----  
-|   
----  
-  
-**Contact Us!**  
-UTB/TSC Business Affairs  
-Tandy Suite 100  
-80 Fort Brown  
-Brownsville, Texas 78520  
-Phone: (956) 882-8240  
-Fax: (956) 882-3868  
-
-
-**Office Hours:**  
-Monday - Friday  
-8:00 a.m. - 5:00 p.m.   
-  
-  | 
-
-**Web Privacy Statement**
 
 The University of Texas at Brownsville is committed to ensuring the privacy and accuracy of your confidential information. We do not actively share personal information gathered from our Web servers. However, because The University of Texas at Brownsville is a public institution, some information collected from the UT Brownsville Web site, including the summary server log information, e-mails sent to the Web site, and information collected from Web-based forms, may be subject to the Texas Public Information Act. This means that while we do not actively share information, in some cases we may be compelled by law to release information gathered from our Web servers.
 
