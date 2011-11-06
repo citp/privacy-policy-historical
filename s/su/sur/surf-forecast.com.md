@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508002327id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surf-forecast.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106043404id_/http%3A//www.surf-forecast.com/pages/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -19,3 +19,6 @@ Surf-Forecast.com uses cookies to allow its visitors access their accounts witho
 Pages of Surf-Forecast.com contain banner ads and analytics tools hosted by 3rd parties, such as Google Analytics. These companies have their own privacy policies with regard to utilizing the cookies and tracking user behavior. 
 
 Surf-Forecast.com will not share the list of users' email or postal addresses with any third parties without consent of the users, with the exception of providing postal services with information required for delivery of the products ordered by the user or awarded to the user. 
+
+**Win $300 by completing the Surf-Forecast.com competition to describe  
+surfing in your area! [click here](https://www.surveymonkey.com/s/surf-region-prize-tw) to take part now**
