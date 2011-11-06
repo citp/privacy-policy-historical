@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the contextures.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422195700id_/http%3A//www.contextures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contextures.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106020605id_/http%3A//contextures.com/privacy.html) for the most accurate reproduction.*
 
 # Contextures Privacy Policy
 
-[](https://web.archive.org/web/20110422195700id_/http%3A//www.contextures.com/index.html)
+[](https://web.archive.org/web/20111106020605id_/http%3A//contextures.com/index.html)
 
 |   
   
 ---|---  
   
-[](https://web.archive.org/web/20110422195700id_/http%3A//www.contextures.com/index.html)[](https://web.archive.org/web/20110422195700id_/http%3A//www.contextures.com/tiptech.html)[](https://web.archive.org/web/20110422195700id_/http%3A//www.contextures.com/excelfiles.html)[](http://blog.contextures.com/)[](https://web.archive.org/web/20110422195700id_/http%3A//www.contextures.com/consult.html)[](https://web.archive.org/web/20110422195700id_/http%3A//www.contextures.com/feed.xml)
+[](https://web.archive.org/web/20111106020605id_/http%3A//contextures.com/index.html)[](https://web.archive.org/web/20111106020605id_/http%3A//contextures.com/tiptech.html)[](https://web.archive.org/web/20111106020605id_/http%3A//contextures.com/excelfiles.html)[](http://blog.contextures.com/)[](https://web.archive.org/web/20111106020605id_/http%3A//contextures.com/consult.html)[](https://web.archive.org/web/20111106020605id_/http%3A//contextures.com/feed.xml)
 
 If you subscribe to my RSS Feeds or Email Updates (powered by Feedburner), I ask for contact information such as name and email address. You may opt-out of these communications at any time. Your personal information will never be sold or given to a third party, and you will never be spammed by me. 
 
