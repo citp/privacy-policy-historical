@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the ngojobsinafrica.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507060630id_/http%3A//ngojobsinafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngojobsinafrica.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106151347id_/http%3A//ngojobsinafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Written by Administrator , Wednesday, 22 September 2010 22:28  
----  
-  
 This privacy policy sets out the basis on which your personal data will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how they will be treated by us. NGOJobsinAfrica.com collects personal data provided by our site users to help in their recruitment process.
 
 • Information that you provide by filling in forms on the site. This includes information provided at the time of registration or at the time of posting material or requesting further services.
@@ -31,6 +28,4 @@ Changes to this Policy
 We may change this Privacy Statement from time to time. If we do make a change, we will post the revised Privacy Statement on this Site. We encourage you to review this Privacy Statement periodically.
 
 How To Contact Us  
-You are more than welcome to write to us what you feel about this site. Please help us keep to keep our site an enjoyable experience for all Users. If you observe material or behavior that may violate any of our Terms & Conditions, please contact us at _____  
-  
-Last Updated on Wednesday, 22 September 2010 22:36 
+You are more than welcome to write to us what you feel about this site. Please help us keep to keep our site an enjoyable experience for all Users. If you observe material or behavior that may violate any of our Terms & Conditions, please contact us at _____
