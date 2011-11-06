@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mynicespace.com privacy policy that was archived on 2007-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070708080316id_/http%3A//www.mynicespace.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynicespace.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106055101id_/http%3A//www.myniceprofile.com/pp) for the most accurate reproduction.*
 
-# Privacy Policy | MyNiceSpace.com
+# Privacy Policy | MyNiceProfile.com
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
@@ -12,4 +12,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this web site in order to provide advertisements on this site about goods and services that may be of interest to you.
 
-If you have any questions regarding your privacy please [contact us](http://www.mynicespace.com/feedback).
+If you have any questions regarding your privacy please [contact us](http://www.myniceprofile.com/feedback).
