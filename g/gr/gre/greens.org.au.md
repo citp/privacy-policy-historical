@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2010-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100429153353id_/http%3A//greens.org.au/website_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greens.org.au privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106024524id_/http%3A//greens.org.au/website_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Australian Greens
 
