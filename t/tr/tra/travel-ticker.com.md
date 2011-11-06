@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the travel-ticker.com privacy policy that was archived on 2010-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100413225151id_/http%3A//www.travel-ticker.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel-ticker.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107000417id_/http%3A//www.travel-ticker.com/privacy) for the most accurate reproduction.*
 
-# Hotwire Travel Ticker: Discount travel deals
+# Travel Ticker
 
-Below you will find the updated Privacy Policy for Travel Ticker (www.travel-ticker.com). If you have not registered or otherwise provided information through Travel Ticker on or after April 1, 2010, please refer to the [previous privacy policy](http://www.travel-ticker.com/privacy2009.jsp) for Travel Ticker.
+Below you will find the updated Privacy Policy for Travel Ticker (www.travel-ticker.com). If you have not registered or otherwise provided information through Travel Ticker on or after April 1, 2010, please refer to the [previous privacy policy](http://www.travel-ticker.com/privacy) for Travel Ticker.
 
 We understand that booking online involves significant trust on your part. We value your trust, and make it a high priority to ensure the security and confidentiality of the personal information you provide to us. Please read the following policy to learn about our privacy practices. By visiting this website, you are accepting the practices described herein.
 
-### What information we collect from you
+## What information we collect from you
 
 **Subscribers:** We receive and store any information you enter on our website or give us in any other way. This includes information that can identify you ("personal information"), including your first and last name, and email address. We may also request information about your hotel room preferences, and frequent flyer and car rental program information. You can choose not to provide information to us, but in general some information about you is required in order for you to register as a member; book travel; complete a traveler profile; participate in a survey, contest, or sweepstakes; ask us a question.
 
@@ -14,7 +14,7 @@ We understand that booking online involves significant trust on your part. We va
 
 **Automatic Information:** We automatically collect some information about your computer when you visit this website. For example, we will collect your IP address, Web browser software (such as Firefox, Safari, or Internet Explorer), and referring website. We also may collect information about your online activity, such as trips viewed and bookings made. Our goals in collecting this automatic information include helping customize your user experience and inhibiting fraud. For more information, please see Cookies and other technologies.
 
-### How we use your information
+## How we use your information
 
 We use information about you for the following general purposes: to provide you with the products and services you request; to manage your account; to communicate with you in general; to respond to your questions and comments; to measure interest in and improve our products, services, and website; to notify you about special offers and products or services that may be of interest to you; to otherwise customize your experience with this website; to reward you as part of any reward and recognition program you choose to join; to solicit information from you, including through surveys; to resolve disputes or troubleshoot problems; to prevent potentially prohibited or illegal activities; to enforce our Terms of Use; and as otherwise described to you at the point of collection.
 
@@ -24,7 +24,7 @@ We often receive testimonials and comments from customers who have had positive 
 
 Please review Your choices with respect to the collection and use of your information below.
 
-### With whom we share your information
+## With whom we share your information
 
 This website may share your information with the following entities:
 
@@ -48,11 +48,11 @@ Other than as set out above, you will be notified when personal information abou
 
 We also may share aggregate or anonymous information with third parties, including advertisers and investors. For example, we may tell our advertisers the number of visitors our website receives or the most popular hotels and vacation destinations. This information does not contain any personal information and is used to develop content and services we hope you will find of interest.
 
-### How you can access your information
+## How you can access your information
 
 Travel Ticker email subscribers can access and update their subscription choices through Subscription Management links found in the footer of any Travel Ticker email. You can close your account by contacting us at the email address listed below. Please note that after you close an account, you will not be able to sign in or access any of your personal information. However, you can open a new account at any time. Please also note that we may retain certain information associated with your account, including for analytical purposes as well as for recordkeeping integrity.
 
-### Your choices with respect to collection and use of your information
+## Your choices with respect to collection and use of your information
 
   * As discussed above, you can choose not to provide us with any information, although it may be needed to take advantage of certain features offered on our site.
   * You also can add or update information and close your account as described above.
@@ -61,7 +61,7 @@ Travel Ticker email subscribers can access and update their subscription choices
 
 
 
-### Cookies and other technologies
+## Cookies and other technologies
 
 Cookies are small data text files and can be stored on your computer's hard drive (if your Web browser permits). This website use cookies for the following general purposes:
 
@@ -79,7 +79,7 @@ This site may also use Web beacons (also known as clear gifs, pixel tags or Web 
 
 If you have any questions about our use of cookies or other technologies, please [email us](mailto:support@travel-ticker.com).
 
-### Display of tailored advertising/Your choices
+## Display of tailored advertising/Your choices
 
 _Data collected by this website to serve you with relevant advertising._ Travel Ticker is committed to providing you with relevant content and information. To do this, we may collect, through cookies and other technologies information about your travel-related searches, such as whether you are looking for airline flights or hotels, and use this information to serve you with ads, on our website or elsewhere online, that match your apparent interests. So, for example, if you search for a flight to Florida on our site, you may see an ad for a Florida travel package on our site or on another website you visit.
 
@@ -91,27 +91,27 @@ Please note that we do not have access to or control over cookies or other techn
 
 _Data collected by companies that operate cookie-based exchanges to serve you with relevant advertising._ Like other companies operating online, Travel Ticker participates in cookie-based exchanges where anonymous information is collected about your browsing behavior through cookies and other technologies and segmented into different topics of interest (such as travel). These topics of interest are then shared with third parties, including advertisers and ad networks, so they can tailor advertisements to your apparent interests. We do not share personal information (such as your email address) with these companies and we do not permit these companies to collect any such information about you on our site. Please click [here](http://www.networkadvertising.org/) to learn more about cookie-based exchanges, including how to access information about the topics of interest associated with cookies on your computer and how to decline participation in these programs.
 
-### How we protect your information
+## How we protect your information
 
 We want you to feel confident about using this website to make hotel and travel arrangements, and we are committed to protecting the information we collect. While no website can guarantee security, we have implemented appropriate administrative, technical, and physical security procedures to help protect the personal information you provide to us. For example, only authorized employees are permitted to access personal information, and they only may do so for permitted business functions. In addition, we use encryption when transmitting your sensitive personal information between your system and ours, and we employ firewalls and intrusion detection systems to help prevent unauthorized persons from gaining access to your information.
 
-### Children's privacy
+## Children's privacy
 
 This is a general audience website and does not offer services directed to children. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information.
 
-### External links
+## External links
 
 If any part of this website links you to other sites, those sites do not operate under this Privacy Policy. We recommend you examine the privacy statements posted on those other websites to understand their procedures for collecting, using, and disclosing personal information.
 
-### Visiting our website from outside the United States
+## Visiting our website from outside the United States
 
 If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
-### Changes to this Privacy Policy
+## Changes to this Privacy Policy
 
 We may update this Privacy Policy in the future. We will notify you about material changes to this Privacy Policy by sending a notice to the email address you provided to us or by placing a prominent notice on our website.
 
-### How to contact us
+## How to contact us
 
 If you have questions about this Privacy Policy (or your travel planning or purchases), please contact us by:
 
