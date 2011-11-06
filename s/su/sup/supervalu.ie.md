@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2010-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101130094439id_/http%3A//supervalu.ie/home/privacy_statement.288.privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supervalu.ie privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106105501id_/http%3A//www.supervalu.ie/home/privacy_statement.288.privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - SuperValu
+# Privicy Statement - SuperValu
 
 ## Personal information we gather
 
