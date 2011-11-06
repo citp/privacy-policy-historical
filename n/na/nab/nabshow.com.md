@@ -1,16 +1,15 @@
-> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2011-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110228054224id_/http%3A//www.nabshow.com/2011/about/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabshow.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106164641id_/http%3A//www.nabshow.com/2012/about/privacy_policy.asp) for the most accurate reproduction.*
 
-# 2011 NAB Show - About - Event Schedule
+# 2012 NAB Show - About - Privacy Policy
 
-[Home](https://web.archive.org/2011/index.asp) | [About](https://web.archive.org/2011/about/) | Event Schedule 
+[Home](https://web.archive.org/2012/index.asp) | [About](https://web.archive.org/2012/about/) | Privacy Policy 
 
 Our mailing address:  
 National Association of Broadcasters  
 1771 N St., NW  
 Washington, DC 20036
 
-We can be reached via e-mail at [privacy@nab.org](mailto:privacy@nab.org)  
-Or you can reach us by telephone at (800) 214-1328 or +1 202-429-5300
+We can be reached by telephone at (800) 214-1328, +1 (202) 429-5300 or [via e-mail](mailto:privacy@nab.org). 
 
 #### Privacy Policy
 
@@ -19,9 +18,7 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 Throughout the web site we do ask you to voluntarily supply information to NAB. The information we collect** is used to improve the content of our web site, used to notify consumers about updates to our web site, and used by us to contact consumers for marketing purposes.
 
-If you supply us with your postal address you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an email message to us at [privacy@nab.org](mailto:privacy@nab.org).
-
-Persons who supply us with their telephone numbers may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls from NAB, please let us know by sending an email message to us at privacy@nab.org. Please provide us with your correct phone number.
+If you supply us with your postal address you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know [via email](mailto:privacy@nab.org). Please provide us with your correct phone number.
 
 If you register for or inquire about an NAB convention or seminar online, including the Personal Online Scheduler, you may receive periodic mailings, faxes or emails from us on new products and services or upcoming events. We may also share the information you have provided us with others for convention related purposes. If you do not wish us to share that information, please check the box provided for that purpose when completing the registration form.
 
@@ -37,4 +34,4 @@ We may contact you by email to confirm purchases from the NAB Store, enrollment 
 
 The information provided is "as is" with all faults and without warranty of any kind, expressed or implied. NAB makes no warranties or representations regarding the accuracy or completeness of the information contained herein.
 
-NAB has provided directories of information and links to other internet sites only for the convenience of World-Wide Web users, and is not responsible for the materials, activities or content of other sites. NAB does not endorse, warrant or guarantee any products or services described or offered at these companies, addresses or websites. 
+NAB has provided directories of information and links to other internet sites only for the convenience of World-Wide Web users, and is not responsible for the materials, activities or content of other sites. NAB does not endorse, warrant or guarantee any products or services described or offered at these companies, addresses or websites.
