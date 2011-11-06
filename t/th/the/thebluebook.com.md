@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebluebook.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508131733id_/http%3A//www.thebluebook.com/2011/index.php%3Fid%3D107) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebluebook.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106023006id_/http%3A//www.thebluebook.com/2011/index.php%3Fid%3D107) for the most accurate reproduction.*
 
 # Privacy Policy | The Blue Book Building and Construction Network
 
