@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2011-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110507215409id_/http%3A//www.architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architizer.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106150102id_/http%3A//www.architizer.com/en_us/intern/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Architizer - Empowering Architecture: architects, buildings, interior design, materials, jobs, competitions, design schools
 
