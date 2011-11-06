@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statusanxiety.com.au privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528202038id_/http%3A//www.statusanxiety.com.au/terms.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statusanxiety.com.au privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107000837id_/http%3A//www.statusanxiety.com.au/terms.php%23privacy) for the most accurate reproduction.*
 
 # status anxiety website policies
 
@@ -8,10 +8,10 @@
 Please check that you give us the correct delivery address at time of ordering as if it comes back to us but we wont be happy chappys. We are however very nice people and as a result we will resend your order to you again - after checking for the correct address. 
 
 **Delivery Timeframes**  
-We provide very quick delivery of our products and as such anything you order should be at your door within 2-5 working days of ordering
+We strive to have orders packed and delivered as fast as possible and as such anything you order should be at your door within 2-5 working days of ordering for Australian addresses and 7-14 days for international ones.
 
 **Late Delivery**  
-Please let us know if your order does not arrive within 7 working days of ordering and we will get it sorted and be in contact asap.
+Please let us know if your order does not arrive within these timeframes and we will get it sorted and be in contact asap.
 
 **Damaged Goods/Missing Items**  
 We take great care to ensure that products are packed securely to ensure that they arrive at your door in perfect condition. As a result, any items damaged during delivery will be replaced upon receipt of the damaged goods to our postal address  
@@ -21,7 +21,7 @@ Please note that if an item has been lost/stolen in transit, a replacement of th
 ## Refund Policy
 
 We want you to love status anxiety, so if you receive a product that you believe is not what was expected we will REPLACE the item or REFUND your money if it's returned within 21 days of ordering to the following address in its original condition.   
-P.O Box 883, Cronulla N.S.W. 2230 AUSTRALIA
+303/21 Coast Avenue, Cronulla N.S.W. 2230 AUSTRALIA
 
   
 
