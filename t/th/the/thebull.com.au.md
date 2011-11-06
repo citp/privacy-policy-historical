@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2011-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110606143449id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebull.com.au privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106120710id_/http%3A//www.thebull.com.au/about_us_list.php%3Fc%3DPrivacy%2BPolicy) for the most accurate reproduction.*
 
 # about_us - privacy policy - www.thebull.com.au
 
-### UNSUBSCRIBE
+### UNSUBSCRIBE - AHEAD OF THE CURVE
 
-To unsubscribe from TheBull, please enter your email address below:
+  
+To unsubscribe from the free daily market outlook newsletter "Ahead Of The Curve", enter your email below:
+
+### UNSUBSCRIBE - RunWithTheBull
+
+  
+To unsubscribe from the free weekly stock tips and investment newsletter "RunWithTheBull", enter your email below:
 
 ### PRIVACY POLICY
 
