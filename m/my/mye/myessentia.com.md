@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2010-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100201142426id_/http%3A//www.myessentia.com/customer-service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myessentia.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106040934id_/http%3A//www.myessentia.com/customer-service/privacy-policy) for the most accurate reproduction.*
 
-# Essentia Memory Foam Mattress & Memory Foam PillowsPrivacy Policy
+# Privacy Policy for MyEssentia.com Website.
+
+[Home](http://www.myessentia.com/) » [Customer Service](http://www.myessentia.com/customer-service) » **Privacy Policy**
 
 **Our Privacy Commitment**  
 We at Essentia understand the importance of protecting personal information. This privacy policy outlines our guidelines for the collection and use of personal information by Essentia.
@@ -78,7 +80,7 @@ Although we cannot take responsibility for any theft, misuse, unauthorized discl
 
 **How Can I Verify My Information?**  
 You can check your information to verify, update, or correct it, and to have any obsolete information removed. If you created an account on Essentia.ca you can access and change your online personal information.  
-You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time by contacting us at privacymanager@essentiadirect.com. Subject to certain exceptions prescribed by law, and provided we can authenticate your identity, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate.  
+You can also ask to review any of the information that we have retained, how we have used it, and to whom we have disclosed it at any time by contacting us at privacymanager@myessentia.com. Subject to certain exceptions prescribed by law, and provided we can authenticate your identity, you will be given reasonable access to your personal information, and will be entitled to challenge the accuracy and completeness of the information and to have it amended as appropriate.  
 You can also ask us to change your preferences regarding how we use or disclose your information, or let us know that you do not wish to receive any further communication from us.
 
 **When is My Information Removed?**  
@@ -98,4 +100,4 @@ Laval, QC H7P 5Z7
 We will respond to your request or investigate your concern as quickly as we can.
 
 **Will this Privacy Policy Change?**  
-To accommodate changes in our service, the technology, and legal developments, this Policy may change over time. We may add, change, or remove portions of this Policy when we feel it is appropriate to do so. Whenever we update this Policy we will change the date on the Policy to indicate when the changes were made.
+To accommodate changes in our service, the technology, and legal developments, this Policy may change over time. We may add, change, or remove portions of this Policy when we feel it is appropriate to do so. Whenever we update this Policy we will change the date on the Policy to indicate when the changes were made. 
