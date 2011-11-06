@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2010-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101218064715id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesearchagency.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106053426id_/http%3A//www.thesearchagency.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - The Search Agency
 
