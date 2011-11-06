@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ajg.com privacy policy that was archived on 2011-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110326105939id_/http%3A//www.ajg.com/portal/server.pt%3Fopen%3D514%26objID%3D51526%26parentname%3DCommunityPage%26parentid%3D1%26mode%3D2%26in_hi_userid%3D26148%26cached%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ajg.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106013858id_/http%3A//www.ajg.com/portal/server.pt%3Fopen%3D514%26objID%3D51526%26parentname%3DCommunityPage%26parentid%3D1%26mode%3D2%26in_hi_userid%3D26148%26cached%3Dtrue) for the most accurate reproduction.*
 
 # Legal Information - Privacy Policy
 
