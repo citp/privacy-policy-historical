@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saa.edu privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503043042id_/http%3A//www.saa.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saa.edu privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106014430id_/http%3A//www.saa.edu/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | saa | school of advertising art
 
