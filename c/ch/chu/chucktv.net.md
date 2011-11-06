@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the chucktv.net privacy policy that was archived on 2011-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110621192632id_/http%3A//chucktv.net/about-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chucktv.net privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106115049id_/http%3A//chucktv.net/about-2/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ChuckTV.net : The fansite for the NBC series, Chuck
-
-  
-  
-
+# Privacy Policy | ChuckTV.net | Chuck season 5 news, spoilers, interviews, exclusives
 
 This is the web site of **ChuckTV.net**.
 
