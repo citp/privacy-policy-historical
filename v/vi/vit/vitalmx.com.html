@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2011-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110414223634id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vitalmx.com privacy policy that was archived on 2011-11-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111106030133id_/http%3A//www.vitalmx.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml"><!--[endif]----><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -12,7 +12,7 @@
 
 
 
-<script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" charset="utf-8">
+<script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" async="" src="//api.viglink.com/api/vglnk.js"></script><script type="text/javascript" charset="utf-8">
   var thisUserID = '';
   var thisUserName = '';
   var thisUserURL = '';
@@ -25,19 +25,35 @@
 
 
 <script src="http://assets.vitalmedianet.com/javascripts/jquery.vital.min.js?1295639349" type="text/javascript"></script>
-<script type="text/javascript" charset="utf-8">
-  var isDST = true;
-  $j = jQuery.noConflict();
-</script>
-<script src="http://assets.vitalmedianet.com/javascripts/vital.apps.js?1295639349" type="text/javascript"></script>
 
+<script type="text/javascript" charset="utf-8">
+var isDST = true;
+$j = jQuery.noConflict();
+</script>
+
+
+<script type="text/javascript" charset="utf-8">
+var wallpaper_ads = {
+	custom: {
+		'/': {
+			'left': 'Moto_wallpaper_left__600x1080',
+			'right': 'Moto_wallpaper_right__600x1080'
+		}
+	},
+	def: 'none'
+}
+</script>
+
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script src="http://assets.vitalmedianet.com/javascripts/vital.apps.js?1320423502" type="text/javascript"></script>
 <!-- CSS -->
-<link href="http://assets.vitalmedianet.com/stylesheets/main.min.css?1295894077" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets.vitalmedianet.com/stylesheets/main.min.css?1313454037" media="screen" rel="stylesheet" type="text/css">
 <!--[if IE]><link href="http://assets.vitalmedianet.com/stylesheets/ie.css?1295894077" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <!-- // CSS --> 
 
 
-<link href="http://assets.vitalmedianet.com/stylesheets/mx.css?1295894077" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets.vitalmedianet.com/stylesheets/mx.css?1310604510" media="screen" rel="stylesheet" type="text/css">
 
 
 
@@ -48,9 +64,17 @@
 
 
 
+
+
+
+
 <script type="text/javascript"> 
 var addthis_share = { templates: { twitter: "{{title}} | @VitalMX {{url}}" } }
-var addthis_config = { ui_cobrand: "VitalMX" }
+var addthis_config = { 
+	ui_cobrand: "VitalMX",
+	data_ga_property: 'UA-561000-1',
+	data_track_clickback: true
+};
 </script>
 
 <script src="http://partner.googleadservices.com/gampad/google_service.js" type="text/javascript"> 
@@ -65,43 +89,25 @@ var addthis_config = { ui_cobrand: "VitalMX" }
 
   GA_googleAddSlot("ca-pub-6522912635984550", "Moto_features_main_300x600");
 
-  GA_googleAddSlot("ca-pub-6522912635984550", "Moto_homepage_bottom_728");
+  GA_googleAddSlot("ca-pub-6522912635984550", "Moto_homepage_bottom_728x300");
 
 
-// A/B testing add slots
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L1_160_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L1_728_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L1_728x300_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L2_160_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L2_728_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L2_728x300_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_160_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728_2");
-GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
 </script>
 <script type="text/javascript"> 
   GA_googleFetchAds();
 </script>
 
 <script type="text/javascript">
+  window.google_analytics_uacct = "UA-561000-1";
   var _gaq = _gaq || [];
-  if (Cookie.get('__utmz_reset') == null) {
-    _gaq.push(function() {
-      var utmz = Cookie.get('__utmz');
-      Cookie.set('__utmz', utmz, 7200);
-      Cookie.set('__utmz_reset',1, 15724800);
-    });
-  }
-
-  if (typeof testAB !== 'undefined') {
-    var segment;
-    switch (testAB.version) {
-      case 'a': segment = 'A/B test version A';
-        break;
-      case 'b': segment = 'A/B test version B';
-        break;
+  if (typeof Cookie.get == 'function' && typeof Cookie.set == 'function') {
+    if (Cookie.get('__utmz_reset') == null) {
+      _gaq.push(function() {
+        var utmz = Cookie.get('__utmz');
+        Cookie.set('__utmz', utmz, 7200);
+        Cookie.set('__utmz_reset',1, 15724800);
+      });
     }
-    _gaq.push(['_setVar', segment]);
   }
 
   _gaq.push(['_setCampaignCookieTimeout', 7200000]);
@@ -111,12 +117,13 @@ GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
   _gaq.push(['_addIgnoredOrganic', 'http://www.vitalmx.com/']);
   _gaq.push(['_addIgnoredOrganic', 'www.vitalmx.com']);
   _gaq.push(['_addIgnoredOrganic', 'http://vitalmx.com/']);
-  _gaq.push(['_setVar', user.getSegment()]);
-  _gaq.push(['_setAccount', 'UA-561000-12']);
-  _gaq.push(['_trackPageview']);
+  _gaq.push(['_setVar', user.getSegment()]);  
   _gaq.push(['_setAccount', 'UA-561000-1']);
   _gaq.push(['_trackPageview']);
-  
+  _gaq.push(['_setAccount', 'UA-561000-12']);
+	_gaq.push(['_trackPageview']);
+  _gaq.push(['_trackPageLoadTime']);
+
   (function() {
     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -127,11 +134,19 @@ GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
 </head>
 
 <body id="privacy_policy">
+<script type="text/javascript">
+vitalPage.initBgAd();
+</script>
 <!-- Facebook SDK -->
 <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div> 
 <script> 
   window.fbAsyncInit = function() {
     FB.init({appId: "", status: true, cookie: true, xfbml: true});
+    FB.Event.subscribe('edge.create', function(href, widget) {
+      var label = (window.location.host.match(/www./i) == 'www.') ? 'www' : 'mobile';
+      _gaq.push(['_setAccount', 'UA-561000-1']);
+      _gaq.push(['_trackEvent', 'Social sharing', 'Clicked FB Like button', label]);
+    });
   };
   (function() {
     var e = document.createElement('script'); e.async = true;
@@ -141,12 +156,15 @@ GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
   }());
 </script>
 <!-- end Facebook SDK -->
+
 <div id="fixed_top">
   <!-- header -->
 <div id="header_wrapper">
-  <div id="header">
+  <div id="header" class="clearfix">
     <div id="logo">
-      <a href="/" title="Vital MX - Your motocross community"><img src="http://assets.vitalmedianet.com/images/_mx/logo.gif" alt="Vital MX logo"></a>
+      
+      <a href="/">Vital MX - Motocross</a>
+      
     </div>
     <div id="ad-banner-top">
       
@@ -161,27 +179,33 @@ GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
 
 
     </div>
-    <div class="clearfix"></div>
   </div>  
 </div>
 <!-- // header -->
-  <!-- main navigation -->
+</div>
+<!-- main navigation -->
 <div id="main_nav_wrapper">
   <div id="main_nav">
     <ul>
       
       <li id="main_nav_home">
+        
         <a href="/">Home</a>
+        
         
       </li>
       
       <li id="main_nav_community">
+        
         <a href="/community/main">Community</a>
+        
         
       </li>
       
       <li id="main_nav_photos">
+        
         <a href="/photos/main">Photos</a>
+        
         
         <ul>
         
@@ -195,11 +219,15 @@ GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
       </li>
       
       <li id="main_nav_videos">
+        
         <a href="/videos/main">Videos</a>
+        
         
         <ul>
         
         <li><a href="/videos/main">All Videos</a></li>
+        
+        <li><a href="/videos/commercials">Commercials</a></li>
         
         <li><a href="/dealerexpo2011">Dealer Expo 2011</a></li>
         
@@ -211,27 +239,37 @@ GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
       </li>
       
       <li id="main_nav_product">
+        
         <a href="/product/main">Product</a>
+        
         
       </li>
       
       <li id="main_nav_features">
+        
         <a href="/features/main">Features</a>
+        
         
       </li>
       
       <li id="main_nav_news">
+        
         <a href="/news/main">News</a>
+        
         
       </li>
       
       <li id="main_nav_forum">
+        
         <a href="/forums/main">Forum</a>
+        
         
       </li>
       
       <li id="main_nav_store">
+        
         <a href="http://store.vitalmx.com/">Store</a>
+        
         
       </li>
       
@@ -242,12 +280,26 @@ GA_googleAddSlot("ca-pub-6522912635984550", "Moto_forum_L3_728x300_2");
 vitalPage.mainNavInit();
 </script> 
 <!-- // main navigation -->
-</div>
+
+<!-- Background ad --> 
+<div style="width:100%; overflow:hidden; z-index:1; position:absolute; top:149px; left:0; display:none;" id="bgAdWrapper"> 
+  <div style="position:relative; left:50%;" id="bgAdContainer"> 
+    <div style="width:600px; min-height:600px; display:block; float:left; position:relative; overflow:hidden" class="bgAd" id="bgAdLeft"></div> 
+    <div style="display:block; height:600px; min-height:600px; float:left;" id="bgAdCenter"></div> 
+    <div style="width:600px; min-height:600px; display:block; float:left; position:relative; overflow:hidden" class="bgAd" id="bgAdRight"></div> 
+  </div> 
+</div> 
+<script type="text/javascript">
+vitalPage.showBgAd();
+$j(document).ready(function() { vitalPage.adjustBgAdHeight(); });
+</script> 
+<!-- // Background ad -->
 
 <div id="container">
   <div id="user_menu">
     <div class="search_form">
-  <form method="get" action="/search"> 
+  <form method="get" action="/search" id="googleSearchForm"> 
+    <input name="cat" value="Site" type="hidden">
     <input name="q" id="googleSearchField" type="text" value="Search Site" onblur="if(this.value.length == 0) this.value='Search Site'" onclick="if(this.value == 'Search Site') this.value=''"> 
     <input name="sa" src="/images/search_icon.png" id="googleSearchButton" type="image" value="Search"> 
     <input name="cx" type="hidden" value="002903112843658474654:5jej5zin7sy"> 
@@ -264,6 +316,7 @@ vitalPage.mainNavInit();
   </ul>
 </div>
   </div>
+  
   
 <div class="fb_share_info:hide_tmp" id="message_bar"> 
   <div class="inner"> 
@@ -402,6 +455,7 @@ Irvine, CA 92612
       
   <!-- footer -->
 <div id="footer">  
+  
 	
   	<div id="ad-banner-bottom">
 
@@ -410,7 +464,7 @@ Irvine, CA 92612
 
 
   <script type="text/javascript"> 
-    GA_vitalFillSlot("Moto_homepage_bottom_728");
+    GA_vitalFillSlot("Moto_homepage_bottom_728x300");
   </script>
 
 </div>
@@ -437,8 +491,10 @@ Irvine, CA 92612
   
 </div>
 <script type="text/javascript">
+vitalPage.adjustBgAdHeight();
 prepOutboundLinks();
 </script>
+
 <!-- Begin comScore Tag -->
 <script>
     document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
@@ -471,6 +527,8 @@ qacct:"p-5bUjnbj6Bo8KU"
 <img src="http://pixel.quantserve.com/pixel/p-5bUjnbj6Bo8KU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
 <!-- End Quantcast tag -->
+
+
 <!-- Begin VigLink Tag -->
 <script type="text/javascript">
   var vglnk = { api_url: '//api.viglink.com/api',
@@ -484,5 +542,14 @@ qacct:"p-5bUjnbj6Bo8KU"
   }(document, 'script'));
 </script>
 <!-- End VigLink Tag -->
+
+
+<script type="text/javascript">
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
 
 </body></html>
