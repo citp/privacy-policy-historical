@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2010-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101123055114id_/http%3A//drafttek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drafttek.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106192644id_/http%3A//www.drafttek.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,7 @@ By accessing this website, you acknowledge your agreement and consent to the **D
 
   To find out more about how third party advertisers/advertising serving services that **Draft Tek** works with manage the privacy of information in conjunction with serving ads on this site, please see their respective privacy policies:
 
-  \- List advertising services here.  None at this time.
+  1) Burst Media - [Burst Media Privacy Policy ](http://www.burstmedia.com/privacy.html)
 
   **Links:**  
 ** **  
