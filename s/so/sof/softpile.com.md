@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2011-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110527171956id_/http%3A//www.softpile.com/docs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softpile.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106014741id_/http%3A//www.softpile.com/docs/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Softpile, Free Software Downloads
 
