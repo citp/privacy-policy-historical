@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotcouponworld.com privacy policy that was archived on 2010-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101106221715id_/http%3A//www.hotcouponworld.com/community-rules/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcouponworld.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106042336id_/http%3A//www.hotcouponworld.com/community-rules/privacy-statement) for the most accurate reproduction.*
 
-# Hot Coupon World » Privacy Statement
+# Privacy Statement - HotCouponWorld.com
 
 **Privacy Protection at Hotcouponworld**
 
@@ -28,4 +28,4 @@ For questions or concerns relating to privacy, please contact us through [www.ho
 
 **Effective Date:** This Privacy Policy was last updated on September 18, 2010
 
-[](http://www.addthis.com/bookmark.php "Bookmark using any bookmark manager!")
+Printable Version
