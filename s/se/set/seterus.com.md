@@ -1,100 +1,119 @@
-> *The following text is extracted and transformed from the seterus.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seterus.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106110153id_/https%3A//seterus.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy – Seterus, Inc. (Seterus)
 
-**Go Daddy Respects Your Privacy**
+  | 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+[](https://web.archive.org/index.aspx)
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+[Home](https://web.archive.org/Default.aspx) Privacy Policy
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+|    | 
 
-**Information Collection and Use**
+rev. June 2010 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+| 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+## FACTS
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+|  **WHAT DOES SETERUS, INC. DO  
+WITH YOUR PERSONAL INFORMATION?**  
+---|---  
+  
+### Why?
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+|  Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
+  
+### What?
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+|  The types of personal information we collect and share depend on the product or service you have with us. This information can include: 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+  * Social Security number and income
+  * Account balances and payment history
+  * Credit history and credit scores
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+When you are _no longer_ our customer, we continue to share your information as described in this notice.   
+  
+### How?
 
-**Security**
+|  All financial companies need to share customers’ personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers’ personal information; the reasons Seterus, Inc. (Seterus) chooses to share; and whether you can limit this sharing.   
+  
+### Reasons we can share your personal information
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+| 
 
-**Updating Your Information**
+### Does Seterus Share?
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+| 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+### Can you limit this sharing?  
+  
+---|---|---  
+**For our everyday business purposes such as with vendors and affiliates –** to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus  |  Yes  |  No   
+**For our marketing purposes –** To offer our products and services to you  |  No  |  We don’t share   
+**For joint marketing with other financial companies** |  Yes  |  No   
+**For our affiliates’ everyday business purposes –** information about your transactions and experiences  |  No  |  We don’t share   
+**For our affiliates’ everyday business purposes –** information about your creditworthiness  |  No  |  We don’t share   
+**For our affiliates to market to you** |  No  |  We don’t share   
+**For nonaffiliates to market to you** |  No  |  We don’t share   
+  
+### Questions?
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+|  Call toll-free 866.570.5277   
+---|---  
+  
+### What we do  
+  
+---  
+How does Seterus protect my personal information?  |  To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings. 
 
-      iii.      You may call us at: (480) 505-8800
+  * We educate our employees to treat personal information with care and work to limit access to this information to individuals who need it for the purposes stated in this notice. 
 
-       iv.      You may fax us at: (480) 505-8844
+  
+How does Seterus collect my personal information?  |  We collect your personal information, for example, when you 
 
-**Sending Emails**
+  * Pay your bills or give us your contact information
+  * Make a wire transfer or provide account information
+  * Provide your mortgage information
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+We also collect your personal information from others, such as credit bureaus, affiliates, or other companies.   
+Why can’t I limit all sharing?  |  Federal law gives you the right to limit only 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * Sharing for affiliates’ everyday business purposes – information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you
 
-**Compliance with Laws and Law Enforcement**
+State laws and individual companies may give you additional rights to limit sharing.   
+  
+### Definitions  
+  
+Affiliates  |  Companies related by common ownership or control. They can be financial and nonfinancial companies. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+  * _Our parent company is IBM Corporation, which may assist us in our everyday business processes._
 
-**Third Party Service Providers**
+  
+Nonaffiliates  |  Companies not related by common ownership or control. They can be financial and nonfinancial companies. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+  * _Nonaffiliates we share with can include credit reporting agencies, insurance companies, investors, loan servicers, direct marketing companies, entities in response to a subpoena or other court order, and professional service organizations or other service providers used to perform services on our behalf._
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+  
+Joint marketing  |  A formal agreement between nonaffiliated financial companies that together market financial products or services to you. 
 
-**Supplementation of Information**
+  * _Our joint marketing partners include mortgage companies._
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+  
+  
+### Other important information  
+  
+SPECIAL NOTICE FOR CALIFORNIA RESIDENTS: Unless prohibited by applicable law, we may disclose your personal information to financial institutions with which we have joint marketing agreements for possible refinancing of your mortgage loan, **unless you opt out** – that is, tell us not to make those disclosures. If you wish us not to disclose your personal information for joint marketing or possible refinancing opportunities, please complete the California Opt Out Form enclosed and return it to the address indicated. Once we receive this form, we will stop sharing your information with these lenders within a reasonable period of time. 
 
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+SPECIAL NOTICE FOR VERMONT RESIDENTS: We will not disclose your personal information to financial institutions with which we have joint marketing agreements.   
+  
+This notice is coming from a debt collector as we sometimes act as a debt collector. **COLORADO:** FOR INFORMATION ABOUT THE COLORADO FAIR DEBT COLLECTION PRACTICES ACT, SEE [WWW.COLORADOATTORNEYGENERAL.GOV/CA](http://www.coloradoattorneygeneral.gov/CA). Seterus maintains a local office at 355 Union Boulevard, Suite 302, Lakewood, CO 80228. The office’s phone number is 888.738.5576. **NEW YORK CITY:** 1331537, 1340663, 1340148. **TENNESSEE:** This collection agency is licensed by the Collection Service Board of the Department of Commerce and Insurance. Seterus, Inc. is licensed to do business at 14523 SW Millikan Way, Beaverton, OR.   
+**Special Notice Regarding Information Subject to the Fair Debt Collection Practices Act**  
+This notice is being sent to you by Seterus in accordance with federal privacy law. If your account is subject to the Fair Debt Collection Practices Act (FDCPA) or other applicable laws regarding information sharing or communicating with others, Seterus will only communicate with others in accordance with the FDCPA and the other applicable laws.   
+Click [here](https://web.archive.org/Downloads/CA%20Opt%20Out%20Form%20\(Web\).pdf) for the California Opt Out Form.  
+---  
+Requires Adobe Acrobat. Get it [here](http://www.adobe.com/products/acrobat/readstep2.html).  
+  
+ 
