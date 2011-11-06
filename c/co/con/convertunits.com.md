@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130012325id_/http%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertunits.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106140121id_/http%3A//www.convertunits.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy of ConvertUnits.com
 
@@ -10,17 +10,10 @@ In addition, we may use various statistical programs to monitor traffic levels a
 
 We provide an anonymous message forum for users to discuss the conversion of measurement units. Visitors can post to this message board without logging in to the site or entering their e-mail address. A special dynamic image verification provides security against automated form submissions, and all messages are reviewed by the admin.
 
-The use of this site is completely free. We also display links to other sites or offers that may be of interest to our visitors. These are created and managed by partner companies. These ad servers may collect information such as your IP address, and they may use cookies to manage ad campaigns. Any links you follow to other sites are governed by different policies.
+The use of this site is completely free. We also display links to other sites or offers that may be of interest to our visitors. These are created and managed by partner companies. These ad servers may collect information such as your IP address, and they may use cookies to manage ad campaigns for interest based targeting. You can choose to [opt out](http://www.convertunits.com/remove-ads.php) of most of the advertising on this site. Any links you follow to other sites are governed by different policies.
 
 If you have questions about this privacy policy or the site in general, you can contact us through the online form:
 
 <http://www.convertunits.com/contact/>
 
 If you use this form, we ask you to enter your name and e-mail address so that we can reply to you directly. This information is not shared with any other companies or sites.
-
-Save this page
-
-[](http://www.addthis.com/bookmark.php)
-
-Support this site  
-If this page was helpful, please [donate](http://www.convertunits.com/donate.php) a small amount or [advertise](http://www.convertunits.com/advertise.php) on the site. If you are a regular visitor, you might prefer to [remove most ads](http://www.convertunits.com/remove-ads.php). You can also [contact us](http://www.convertunits.com/contact/) if you have any comments or suggestions.
