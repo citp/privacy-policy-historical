@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508011602id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marvin.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106114959id_/http%3A//www.marvin.com/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - Marvin Windows and Doors
+# Privacy Statement
 
 Marvin Lumber and Cedar Company (“Marvin”) respects the privacy of its customers and users of this web site (the “Site”). This Privacy Statement discloses how we collect and use information on the Site, and the choices that you can make about the way your information is collected and used.
 
