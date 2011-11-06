@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sbimf.com privacy policy that was archived on 2011-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110312050002id_/http%3A//www.sbimf.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbimf.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107002821id_/http%3A//www.sbimf.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# SBI Mutual Fund :: Privacy Policy
+# SBI MF - Privacy Policy
 
 Welcome to the website of the SBI Mutual Fund. We understand that our customers and website visitors are concerned about the privacy of information. We have established policies and procedures concerning the collection, use and security of your information that will help protect your privacy. Our privacy policies are designed to help us serve our customers while maintaining strict privacy and security standards. 
 
@@ -13,13 +13,47 @@ For each visitor to our website, our Web server automatically recognizes the vis
 
 We collect personally identifiable information in order to identify and register a SBI Mutual Fund investor. The information we collect will vary depending upon the function you select. For example you may be required to provide information such as: 
 
+| 
+
+Name 
+
+|  | 
+
+Account Information 
+
+|    
+---|---|---|---|---  
+| 
+
+Address 
+
+|  | 
+
+PAN Number 
+
+|    
+| 
+
+Birthday 
+
+|  | 
+
+Folio No. 
+
+|    
+| 
+
+Phone number 
+
+|   |   |    
+  
 If you supply us with your e-mail address on-line you may receive periodic messages from us with information on new products and services or upcoming events. If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you supply us with your telephone number on-line you may receive telephone contact from us with information regarding products or services you have or asked about on-line. You also may receive telephone contact from us with information regarding new products and services or upcoming events. 
 
-**Visitor Data Collected on this Website  
-**We automatically collect summary information about the Web pages our visitors' access. We use this information to improve the content of our Web pages. We do not use this information to track the activity of individual visitors, and the summary information is not traceable to individual visitors unless visitors have voluntarily identified themselves. We collect the e-mail addresses of visitors to our website when visitors provide them, the e-mail addresses of those who communicate with us via e-mail, and information volunteered by the visitor, such as survey information, contract information and/or site registrations. We do not automatically collect any of this information from our website visitors. Visitors are surveyed for feedback concerning this website. Also information is available if in case investors send us their grievances to a specific section of our website. 
+**Visitor Data Collected on this Website**   
+We automatically collect summary information about the Web pages our visitors' access. We use this information to improve the content of our Web pages. We do not use this information to track the activity of individual visitors, and the summary information is not traceable to individual visitors unless visitors have voluntarily identified themselves. We collect the e-mail addresses of visitors to our website when visitors provide them, the e-mail addresses of those who communicate with us via e-mail, and information volunteered by the visitor, such as survey information, contract information and/or site registrations. We do not automatically collect any of this information from our website visitors. Visitors are surveyed for feedback concerning this website. Also information is available if in case investors send us their grievances to a specific section of our website. 
 
-**Information on Our Website Security  
-**The information for the accounts you have with the SBI Mutual Fund website is kept secure and confidential through multiple security features and procedures. 
+**Information on Our Website Security**   
+The information for the accounts you have with the SBI Mutual Fund website is kept secure and confidential through multiple security features and procedures. 
 
 The information you request from our website for your accounts can only be accessed with your password. It is your responsibility to keep your password confidential. Do not disclose your password to anyone. Our employees and associates will never ask you for your password. Never write your password on something others may see. Contact us immediately to change your password if you suspect someone has discovered it. Information you submit through our website, as well as the information we send back to you while you are visiting our website, is protected while passing through the Internet using strong encryption ("scrambling" to make it incomprehensible) when necessary. Our secure server software encrypts information, ensuring that Internet communications through our website stay private and protected. To enable our customers to process transactions at our website, we use cookies. 
 
@@ -27,7 +61,9 @@ Your account information is not permanently stored on our Web server. The inform
 
 SBI Mutual Fund has policies and procedures in place to limit access to your information to only those who have a business need to view it. 
 
-**Use of Cookies  
-**The www.sbimf.com site, like many web sites, uses "cookies" (information stored on your computer by your browser at our request). Cookies enable the site to "remember" who you are so that you can get around it easier and more efficiently. Cookies allow you to access secured information, conduct secured transactions, and take advantage of promotional opportunities. 
+**Use of Cookies**   
+The [www.sbimf.com](http://www.sbimf.com/) site, like many web sites, uses "cookies" (information stored on your computer by your browser at our request). Cookies enable the site to "remember" who you are so that you can get around it easier and more efficiently. Cookies allow you to access secured information, conduct secured transactions, and take advantage of promotional opportunities. 
 
 Different web sites store the information in cookies differently. We do not record personal or sensitive information in our cookies. Any such information is stored in our protected systems and not in the cookie or on the Internet. 
+
+Top
