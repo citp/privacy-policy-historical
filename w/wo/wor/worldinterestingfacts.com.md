@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldinterestingfacts.com privacy policy that was archived on 2010-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101121005830id_/http%3A//www.worldinterestingfacts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldinterestingfacts.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106074715id_/http%3A//www.worldinterestingfacts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World Interesting Facts | Interesting Facts Around the World
 
@@ -32,7 +32,17 @@ Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "W
 
 #### Incoming search terms for the article:
 
-  * [horrible](http://www.worldinterestingfacts.com/privacy-policy "horrible")
+  * [cool facts on privacy](http://www.worldinterestingfacts.com/privacy-policy "cool facts on privacy")
+  * [interesting privacy facts](http://www.worldinterestingfacts.com/privacy-policy "interesting privacy facts")
+  * [nature holes of the world](http://www.worldinterestingfacts.com/privacy-policy "nature holes of the world")
+  * [most beautiful expensive pens](http://www.worldinterestingfacts.com/privacy-policy "most beautiful expensive pens")
+  * [most expensive pens\](http://www.worldinterestingfacts.com/privacy-policy "most expensive pens\\")
+  * [10 facts about cookies](http://www.worldinterestingfacts.com/privacy-policy "10 facts about cookies")
+  * [privacy interesting facts](http://www.worldinterestingfacts.com/privacy-policy "privacy interesting facts")
+  * [the most amazing buildings globally](http://www.worldinterestingfacts.com/privacy-policy "the most amazing buildings globally")
   * [world privacy facts](http://www.worldinterestingfacts.com/privacy-policy "world privacy facts")
+  * [world\s costliest temples](http://www.worldinterestingfacts.com/privacy-policy "world\\s costliest temples")
 
 
+
+No related posts.
