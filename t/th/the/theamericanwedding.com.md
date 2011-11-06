@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2010-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100916094002id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theamericanwedding.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106145356id_/http%3A//www.theamericanwedding.com/customerService/privacy.asp) for the most accurate reproduction.*
 
 # Your Privacy Is Important | Customer Service | The American Wedding
 
