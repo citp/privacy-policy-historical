@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godine.co.uk privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613082936id_/http%3A//www.godine.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godine.co.uk privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106122718id_/http%3A//www.godine.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement| Go dine.co.uk
 
@@ -6,7 +6,7 @@
 
 Go dine Limited is committed to protecting the privacy of the information you have given and the information Go dine has committed to you. We try to collect and use information that is used by Go dine to enhance the quality of our service and securely store information we collect. We shall explain the uses of the information you have provided us and what steps are in place to ensure that your privacy is safeguarded. Go dine Limited may also be referred to as “the site” “Go dine” and “[www.godine.co.uk](http://www.godine.co.uk/)” within the privacy statement below.
 
-The information you have provided to us implies acceptance of this Privacy Statement and is a key part of the [Terms and Conditions statement](https://web.archive.org/web/20110613082936id_/http%3A//www.godine.co.uk/TermsAndConditions.aspx). If you do not agree with this statement please express your dissatisfaction and request to withdraw all information held by Go dine and this information will be eradicated by contacting [accounts@godine.co.uk](mailto:accounts@godine.co.uk). You may also at anytime request amendments at any time and we will attempt to make these within one working weeks, although can not guarantee this.
+The information you have provided to us implies acceptance of this Privacy Statement and is a key part of the [Terms and Conditions statement](https://web.archive.org/web/20111106122718id_/http%3A//www.godine.co.uk/TermsAndConditions.aspx). If you do not agree with this statement please express your dissatisfaction and request to withdraw all information held by Go dine and this information will be eradicated by contacting [accounts@godine.co.uk](mailto:accounts@godine.co.uk). You may also at anytime request amendments at any time and we will attempt to make these within one working weeks, although can not guarantee this.
 
 This Statement may need to be updated from time to time and will need to be reviewed by you the Go dine customer on a regular basis.
 
