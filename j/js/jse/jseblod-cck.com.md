@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2011-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110405144402id_/http%3A//www.jseblod-cck.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jseblod-cck.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107004429id_/http%3A//www.jseblod-cck.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
