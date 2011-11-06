@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509133617id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26special%3D%26%26f_text%3D612D04%26f_text_hover%3D804000%26f_text_h%3D9ebde4%26f_text_hr%3DDED3B9%26f_text_hrbg%3DDED3B9%26f_text_hrborder%3D804000%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3DFEF2DC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ikariam.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106202907id_/http%3A//agb.gameforge.de/index.php%3Flang%3Dus%26art%3Ddatenschutz%26special%3D%26%26f_text%3D612D04%26f_text_hover%3D804000%26f_text_h%3D9ebde4%26f_text_hr%3DDED3B9%26f_text_hrbg%3DDED3B9%26f_text_hrborder%3D804000%26f_text_font%3Dverdana%252C%2Barial%252C%2Bhelvetica%252C%2Bsans-serif%26f_bg%3DFEF2DC) for the most accurate reproduction.*
 
 # Gameforge
 
@@ -21,7 +21,7 @@ We use your personal data in order to constantly improve our range of services a
 
 You may receive e-mails from us from the following addresses:
 
-4story@news.gameforge.com, airrivals@news.gameforge.com, battleknight@news.gameforge.com, bitefight@news.gameforge.com, cabal@news.gameforge.com, couchpotatoes@news.gameforge.com, europe1400@news.gameforge.com, funfari@news.gameforge.com, gatesofandaron@news.gameforge.com, gilde1400@news.gameforge.com, ikariam@news.gameforge.com, kingsage@news.gameforge.com, metin2@news.gameforge.com, nostale@news.gameforge.com, ogame@news.gameforge.com, tanoth@news.gameforge.com, warpfire@news.gameforge.com, wildguns@news.gameforge.com, zookingdom@news.gameforge.com, mmogame@news.gameforge.com, noxmortis@news.gameforge.com, drivals@news.gameforge.com, gameforge@news.gameforge.com
+4story@news.gameforge.com, airrivals@news.gameforge.com, battleknight@news.gameforge.com, bitefight@news.gameforge.com, cabal@news.gameforge.com, couchpotatoes@news.gameforge.com, europe1400@news.gameforge.com, funfari@news.gameforge.com, gatesofandaron@news.gameforge.com, gilde1400@news.gameforge.com, ikariam@news.gameforge.com, kingsage@news.gameforge.com, metin2@news.gameforge.com, nostale@news.gameforge.com, ogame@news.gameforge.com, tanoth@news.gameforge.com, warpfire@news.gameforge.com, wildguns@news.gameforge.com, zookingdom@news.gameforge.com, mmogame@news.gameforge.com, noxmortis@news.gameforge.com, drivals@news.gameforge.com, gameforge@news.gameforge.com, gameforge_web@news.gameforge.com, gameforge_mmo@news.gameforge.com
 
 You will be informed as part of this communication that you may cancel the subscription at any time. Finally, we use your information in order to protect our web pages and to trace any unauthorized access.
 
