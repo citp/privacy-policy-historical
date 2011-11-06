@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the visitwales.com privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508161741id_/http%3A//www.visitwales.com/server.php%3Fshow%3Dnav.11897) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitwales.com privacy policy that was archived on 2011-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111106042649id_/http%3A//www.visitwales.com/server.php%3Fshow%3Dnav.11897) for the most accurate reproduction.*
 
 # Privacy
 
-We, the Welsh Assembly Government, respect and wish to protect the privacy of the users of our services. This document sets out the details of our privacy policy in relation to information collected on the web sites ('the 'Site' ') listed in the Appendix to this Policy from time to time. 
+We, the Welsh Government, respect and wish to protect the privacy of the users of our services. This document sets out the details of our privacy policy in relation to information collected on the web sites ('the 'Site' ') listed in the Appendix to this Policy from time to time. 
 
 This document lets you know: - 
 
@@ -19,7 +19,7 @@ This document lets you know: -
 
 
 
-If you have any comments on our privacy policy as set out in this document, please contact us using the following email address: [webteam@wales.gsi.gov.uk](mailto:webteam@wales.gsi.gov.uk)
+If you have any comments on our privacy policy as set out in this document, please contact us using the following email address: [info@visitwales.co.uk](mailto:info@visitwales.co.uk)
 
 ## WHEN AND HOW DO WE COLLECT DATA FROM YOU? 
 
@@ -64,7 +64,7 @@ We do, however, record certain information regarding use of the Site on our own 
 
 ## WHO COLLECTS THE INFORMATION? 
 
-The information is collected by us, the Welsh Assembly Government, Cardiff Bay, Cardiff, CF99 1NA. 
+The information is collected by us, Welsh Government, Cardiff Bay, Cardiff, CF99 1NA. 
 
 We hold valid notifications under the Data Protection Act 1998. 
 
@@ -128,4 +128,4 @@ Please note that we reserve the right to change this policy at any time in the f
 
 ## QUESTIONS 
 
-If you have any questions about this document or our procedures please contact us at [webteam@wales.gsi.gov.uk](mailto:webteam@wales.gsi.gov.uk)
+If you have any questions about this document or our procedures please contact us at [info@visitwales.co.uk](mailto:info@visitwales.co.uk)
