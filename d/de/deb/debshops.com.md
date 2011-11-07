@@ -1,101 +1,67 @@
-> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2010-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101221235342id_/http%3A//www.debshops.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debshops.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107165740id_/http%3A//www.debshops.com/privacy-policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
-# 
+# privacy policy - debshops.com
 
-Our Privacy Policy
+## privacy policy
 
-**General**
+* * *
 
-At debshops.com ("Deb Shops"), we respect and understand our customers' concerns about privacy, and we strive to handle your personal information in a safe and responsible manner. Therefore, we have developed this Privacy Policy to describe the privacy practices of debshops.com and to inform you of the information we collect about you during your visits to our website and how we use and disclose that information. 
+deb shops values our customers and respects your privacy. we collect information about you in our stores and through our websites in an effort to improve your shopping experience and to communicate with you about our products, services, contests and promotions. 
 
-Please be advised that the practices described in this Privacy Policy apply only to information gathered through our website and do not necessarily reflect our practices with respect to information gathered through other means, such as from telephone, facsimile, postal mail, personal delivery or other means or media. For questions or comments concerning this Privacy Policy, contact [customerservice@debshops.com](mailto:customerservice@debshops.com) or write to Customer Service, Deb Shops Inc., 9401 Blue Grass Road, Philadelphia, PA 19114. 
+this privacy policy describes the personal information we collect about you, why we collect it, how we use it, and when we share it with third parties. our privacy policy also describes the choices you can make about how we collect and use your information. if our information practices change, we will post an updated policy on our website. If we change the policy in a material way, we will provide appropriate notice to you. you may exercise your choices about how we collect and use your information consistent with this policy at any time.
 
-It is important to remember that by using our website, you agree to the terms of this Privacy Policy. We suggest that you refer to this policy on a regular basis as it may change to improve our service to you or for other business purposes or legal reasons. The Privacy Policy is incorporated into our [Terms and Conditions](https://web.archive.org/helpdesk/index.jsp?subdisplay=terms&display=safety) by reference, as if set forth fully therein. 
+if you have any questions about our privacy policy, please contact us at customerservice@debshops.com
 
-**Information We Collect**
+## what kind of information does debshops collect?
 
-We collect information from you in different areas of our website and when you interact with our website's Customer Service Department. 
+we may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit our websites or stores, place an order online or by phone, make an in-store purchase, save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. we maintain a record of your product interests and the purchases you make online or by phone and in our stores.
 
-**_Ordering Products or Requesting Information_**  
-When you order products from our website, we ask you to provide us with information such as your name, e-mail address, mailing address, telephone number, credit card number and expiration date.
+## how does debshops use my information?
 
-When you request information from us, we may ask you for information such as your name, mailing address and e-mail address in order for us to properly respond. However, you do not have to respond to these requests to continue to use our website. 
+we may use your personal information in the following ways: • to process and fulfill your order, including to send you emails to confirm your order status and shipment • to communicate with you and to send you information by email, postal mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to contact you with promotional communications • to administer and fulfill our contests and other promotions • to help us learn more about your shopping preferences • to help us address problems with and improve our site design, products and services • to enhance your shopping experience • to analyze trends and statistics • to protect the security or integrity of our websites and our business • to contact you if necessary
 
-**_Contests, Sweepstakes and Other Promotional Activity_**  
-When you participate in a contest, sweepstakes or other promotional activity, we may require you to provide your name, mailing address and/or e-mail address so we can properly administer it and notify winners. When we run a contest or sweepstakes relating to our website, it will be accompanied by a set of rules. The rules for each contest/sweepstakes will specify how the information gathered from you for entry will be used and disclosed, if different than as described in this Privacy Policy. 
+## how does debshops use cookies?
 
-**_Non-Personally Identifiable Information_**  
-In the course of using our website, we may automatically collect certain information about you. This information includes the URL that you just came from (whether this URL is on our website or not), which URL you go to next (whether this URL is on our website or not), what browser you are using, and your Internet Protocol (IP) address, the date and time of your visit and the type of computer you are using. Many sites automatically collect this information. In addition, we use cookies on certain pages of our website. Among other functions, cookies allow you to enter your password less frequently during a session. Cookies can also help us provide information which is targeted to your interests. Cookies are stored on your hard drive, not on our website. Most cookies are "session cookies," meaning that they are automatically deleted at the end of a session. You are always free to decline our cookies if your browser permits, although in that case you may be required to reenter your password more frequently during a session. 
+our websites use "cookies," which are small data files that are stored on your computer when you visit a website. cookies enable you to shop on our websites and may be used in a variety of ways to enhance or personalize your online browsing and shopping experience.
 
-**_Communicating With Us_**  
-If you send us personal correspondence, such as e-mails or letters, or if other users or third parties send us correspondence about your activities or postings on our website, we may collect and use such information in accordance with this Privacy Policy. 
+for example, we may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. cookies may also be used to collect transaction information needed by a scrip or loyalty program to which you have authorized us to provide your personal information.
 
-**Our Use and Disclosure of Your Information**
+you can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. if you do not accept cookies, however, you will not be able to access your account information or make purchases on our websites.
 
-We will not sell, rent or in any way disclose your personally identifiable information to any third party outside of debshops.com, its parent, affiliates, subsidiaries, operating companies and other related entities, and its service providers, except with your consent or as described in this Privacy Policy.
+## how does debshops use pixel tags?
 
-**_Product Orders and Information; Website Services_**  
-We may use and share with our service providers personally identifiable information that you provide to us through our website or through our website's Customer Service Department to process your order and perform related services. In turn, our service providers may share this personally identifiable information with their affiliates and with service providers whom they engage to perform services related to our website or the operation of our business. Examples of these services include website operation, payment processing and authorization, fraud protection and credit risk reduction, order fulfillment and shipping, customer service, product customization, marketing and promotional material distribution, data analysis and, where applicable, data cleansing. These service providers are authorized to use this personally identifiable information only in connection with the services they are engaged to perform.
+we use "pixel tags" (also called "web beacons" or "clear gifs"), which are tiny graphic images, on our websites and in our emails. pixel tags help us analyze our customers' online behavior and measure the effectiveness of our websites and our advertising. we work with service providers that help us track, collect, and analyze this information.
 
-We use personally identifiable information to improve our services, to statistically analyze site usage, to improve our content and to customize our website's content and layout. We believe these uses allow us to improve our website and better tailor it to meet our users' needs. 
+pixel tags on our sites may be used to collect information about your visit, including the pages you view, the features you use, the links you click, and other actions you take in connection with the sites. this information may include your computer's internet protocol (IP) address, your browser type, your operating system, date and time information, and other technical information about your computer. we may also track certain information about the identity of the website you visited immediately before coming to our site. we do not otherwise track any information about your use of other websites.
 
-We may also use your personally identifiable information to deliver news and other information about products and special offers to you directly and through our affiliates and service providers that, in some cases, is targeted to your interests, such as targeted banners and promotions. When you provide your e-mail address, you may receive e-mail from us, our affiliates and service providers announcing product information, promotional events, updates to our website or other information. If you provide your mailing address, you may receive periodic mailings from us, our affiliates and service providers. 
+pixel tags and cookies in our emails may be used to track your interactions with those messages, such as when you receive, open, or click a link in an email message from us.
 
-We may aggregate personally identifiable information and disclose such information in aggregate form to advertisers and for other marketing and promotional purposes. However, in these situations, we do not disclose to these entities any information that could be used to personally identify you. Certain information, to the extent we have received it from you, such as your password and credit card information, are not disclosed in aggregate form at all.
+we also work with third-party companies that use tracking technologies to serve advertisements on our behalf across the Internet. these companies may collect information about your visits to our websites and your interaction with our advertising and other communications.
 
-We may use your e-mail address, and in infrequent situations your mailing address or phone number, to contact you regarding administrative matters from time to time. 
+we may combine the information we collect through cookies and pixel tags with other information we have collected from you. this information may be used to improve our websites, to personalize your online experience, to tailor our communications with you, to determine the effectiveness of our advertising, and for other internal business purposes.
 
-We may use information we maintain about you, and other information we obtain from your current and past activities on our website, to resolve disputes, troubleshoot problems and enforce our website Terms and Conditions.
+## how do i know my personal information is secure?
 
-**_Third Party Services_**  
-We may offer features on our website where we will, by necessity, need to provide some of your information to a third party offering applicable services. Before you use the applicable third party services, you should evaluate whether you will accept the third party's terms and conditions. Such third parties are independent third parties over which we exercise no control. We are not responsible for, and will not be liable for, how such third parties collect and use your information. 
+we do our best to provide you with a safe and convenient shopping experience. we have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
 
-**_Legal Proceedings and Protection of Intellectual Property and Safety_**  
-If we receive legal process calling for the production of information (such as a court order, a subpoena, a civil discovery request or a law enforcement investigative demand), we will produce personally identifiable information that responds to the legal process to the extent we, in our sole discretion, believe necessary or appropriate. We also will disclose personally identifiable information to assist third parties seeking to protect their intellectual property rights, or to the extent necessary for Deb Shops to protect its own rights or property, the safety of its employees, or the life, health, or rights or safety of others.
+when you enter your personal information on our websites, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us. to make sure you are accessing our secure server before you submit personal financial information, look at the lower left-hand corner of your browser. if you see an unbroken key or a closed lock (depending upon your browser), then SSL is active. to double-check for security, look at the URL or Location line of your browser. if you have accessed a secure server, the first characters of the address in that line should change from "http" to "https."
 
-**_Business Transactions_**  
-Deb Shops may acquire other businesses, and other businesses may acquire Deb Shops such as through a merger, consolidation, acquisition, or asset purchase. If that occurs, the information we collect may be one of the assets examined or transferred as part of the transaction. We will not permit another business to examine the information we have collected without a confidentiality agreement. We will not transfer the information we have collected unless the recipient agrees to provide privacy protections equal to or exceeding those established by this Privacy Policy. In the unlikely event that Deb Shops is involved in a bankruptcy proceeding, we may sell your information to the extent permitted by applicable law.
+if for any reason you cannot access the secure server, or if you're not quite comfortable shopping online at any of our websites, please feel free to place your order with us by telephone at the number listed in the section entitled, "how do i contact you?", below.
 
-**_Other Exceptions_**  
-Due to various regulatory requirements and the nature of the Internet, we cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. By way of example (without limiting the foregoing), we may be required to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Therefore, although we use industry standard practices to protect your privacy, we do not promise, and you should not expect, that your personally identifiable information or private communications will always remain private. 
+## what is "phishing"?
 
-**Control of Your Password**
+"phishing" is a scam designed to steal your personal information. if you receive an email that looks like it is from us asking you for your personal information, do not respond. we will never request your password, user name, credit card information or other personal information through email.
 
-You should not disclose your password to any third parties or share it with any third parties. If, despite the foregoing, you lose control of your password, you may lose substantial control over your personally identifiable information and may be subject to legally binding actions taken on your behalf. Therefore, if your password has been compromised for any reason, you should immediately change your password as detailed below. 
+## what about links to other websites?
 
-**Reviewing and Changing Your Personally Identifiable Information**
+for your convenience and information, our websites may contain links to other sites, which may have privacy policies that differ from our own. we are not responsible for the content or practices of any linked site. we recommend that you review the privacy policy of any site that you access through our sites.
 
-If you register on our website, you will be able to review and change some of the personally identifiable information that you have provided, by clicking on "Manage Your Account" within the Help Desk area of our website. 
+## how do i contact you?
 
-Please be advised that information you have asked us to remove may remain in our databases in order to enable us to comply with legal requirements and/or due to the fact that we back up our systems. Therefore, you should not expect that all of your personally identifiable information will be completely removed from our databases in response to your requests. 
+We welcome your input on our privacy policy. If you have any questions or suggestions regarding our privacy policy, please contact us at customerservice@debshops.com.
 
-**Opting Out of Promotional Communications and Information Sharing**
+Deb Shops  
+ATTN: Privacy  
+9401 Blue Grass Road  
+Philadelphia, PA 19114 USA  
 
-Except as necessary to obtain the products, services, or information requested, you may opt out of future promotional communications and certain third-party disclosures in a number of ways. When you set up an account, or click on "Manage Your Account" within the Help Desk area, or place an order, you will have an opportunity to make or change your selections in this regard. You also will have an opportunity to change these selections by clicking on an "unsubscribe" hyperlink contained in promotional emails we send you.
-
-**Third Party Collectors of Information**
-
-Our Privacy Policy addresses only the use and disclosure of information we collect from you. Our site may also contain links to other sites or advertisements for or placed by third parties. To the extent that you disclose your information to other parties, whether they are other users, merchants or advertisers on our system or other sites throughout the Internet, those third parties are not subject to this Privacy Policy and different rules may apply to their use or disclosure of the personal information you disclose to them. To the extent that we use third party merchants and advertisers, they adhere to their own privacy customs and policies. Since we do not control the privacy policies of third parties, you are subject to the privacy customs and policies of that third party and it is solely your obligation to review and understand the privacy practices and policies of these third parties. We encourage you to ask questions before you disclose your personally identifiable information to others. 
-
-**Security**
-
-We use industry standard efforts to safeguard the confidentiality of your personal identifiable information, such as firewalls and Secure Socket Layer (SSL) encryption technology. SSL technology encrypts certain information you input into our website before sending the information over the Internet, in an effort to protect your information from unauthorized access in transmission. In addition, once we receive your personal information, we store in on a secure server. Please keep in mind that no security system is a guarantee against unauthorized intrusions either during transmission over the Internet or while information is in storage. Despite our efforts to protect your information, the confidentiality of any communication or material transmitted to or from the site or via e-mail cannot be and is not guaranteed. You acknowledge that the technical processing and transmission of the Site content may be transferred unencrypted and involve (a) transmissions over various networks and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, we are not responsible for the security of information transmitted via the Internet. Instead of communicating with us via e-mail or the Internet, you can contact us by regular mail at 9401 Blue Grass Road, Philadelphia, PA 19114 or by phone at 866-803-4803.
-
-**Your California Privacy Rights**
-
-If you are a California resident, California Civil Code Section 1798.83 provides you with the right to request certain information regarding disclosure of your personal information to third parties for direct marketing purposes, including a description of the categories of personal information disclosed. In order to obtain such information, please email your request to [customerservice@debshops.com](mailto:customerservice@debshops.com) or write us at the address above.
-
-**A Note To Parents and Children 13 and Younger**
-
-The site is not intended for children under the age of 13 and we do not collect personally identifiable information from anyone we know to be 13 years old or younger. All users must be at least 18 years of age in order to use the site and provide information to the site. If you are a parent and believe we may have inadvertently collected information from your child, please notify us by sending an e-mail to [customerservice@debshops.com](mailto:customerservice@debshops.com).
-
-**Contacting Our Website**
-
-If you have any questions about this Privacy Policy or the privacy practices of our website, you can contact [customerservice@debshops.com](mailto:customerservice@debshops.com).
-
-**Notice of Changes to this Policy**
-
-We may change this Privacy Policy at any time. If we decide to change this Privacy Policy, we will post the updated Privacy Policy here. We also may post a notice on our website or send an email describing the changes. It is the obligation of users returning to the site to learn of changes to the Privacy Policy since their last visit. Any change to this Privacy Policy shall be effective as to any user who has visited or accessed the site before the change was made. 
-
-Dated: November 2, 2009  
-Copyright © Deb Shops, Inc.; All rights reserved.
