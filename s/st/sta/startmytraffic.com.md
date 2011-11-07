@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startmytraffic.com privacy policy that was archived on 2010-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101127202419id_/http%3A//startmytraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startmytraffic.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107063304id_/http%3A//startmytraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # Start My Traffic | Traffic Exchange
 
