@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webfriendlydir.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509192738id_/http%3A//www.webfriendlydir.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfriendlydir.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107072456id_/http%3A//www.webfriendlydir.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
