@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adfirmative.com privacy policy that was archived on 2010-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100409152002id_/http%3A//www.adfirmative.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adfirmative.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107044505id_/http%3A//adfirmative.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Adfirmative - Trusted Delivery, Targeted Results
 
