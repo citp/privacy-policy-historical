@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grindr.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204040431id_/http%3A//grindr.com/Grindr_iPhone_App/Grindr_Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grindr.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107033349id_/http%3A//www.grindr.com/Grindr_iPhone_App/Grindr_Privacy_Policy.html) for the most accurate reproduction.*
 
 # Grindr Privacy Policy
 
@@ -24,23 +24,20 @@ Grindr allows users 18 years and older only. 
 Grindr Privacy Policy  
 
 
-By accessing the Grindr service you acknowledge that you have read, understood, and agree to the following privacy policy.  
+By accessing the Grindr service you acknowledge that you have read, understand, and agree to the following privacy policy. In order for Grindr to work with your iPhone, iPod touch, iPad, BlackBerry, or other mobile device, we must collect your Device Identification Code or “DIC”. The DIC is a special type of identifier used in software applications in order to provide a unique reference number for applications like those used by your mobile device. Your DIC is not shared with other users.   
 
 
-In order for Grindr to work with your iPhone, iPod touch, iPad or BlackBerry, we must collect your Device Identification Code or “DIC”.   The DIC is a special type of identifier used in software applications in order to provide a unique reference number for applications like those used by your mobile device.  Your DIC is not shared with other users or any other party.  
+You understand that when you use Grindr, certain information you post or provide on Grindr may be shared with other users, including without limitation your profile, comments, photographs and locations. In addition, you understand that use of Grindr may include the disclosure and display of your location/distance data to other users. Grindr users can use the search feature to search for other members by different criteria, like age. The information that you enter into your profile will be used for these searches. Please note that if you choose to show your location, the information that is provided to Grindr about your distance will be used within your profile and can be viewed and searched by other Grindr users. Even if you choose to hide your distance information, sophisticated users of Grindr may be able to determine your location.  
 
 
-You understand that when you use Grindr, certain information you post or provide on Grindr may be shared with other users, including without limitation your profile, comments, photographs and locations. In addition, you understand that use of Grindr may include the disclosure and display of your location/distance data to other users. Grindr users can use the search feature to search for other members by different criteria, like age.  The information that you enter into your profile will be used for these searches. Please note that if you choose to show your location, the information that is provided to Grindr about your distance will be used within your profile and can be viewed and searched by other Grindr users.  Even if you choose to hide your distance information, sophisticated users of Grindr may be able to determine your location.  
+We do not share any of your personal information with any third parties other than our advertising display partners such as Admob, Inc and analytics partners such as Flurry. With these third parties we may share the following pieces of information: 1) your DIC, 2) your location, 3) your gender, 4) your age. Further, information gathered when an ad request is made is not shared by those third party partners with specific advertisers. Some of our ad partners may target ads based on user behavior. Apple Inc.'s iAd network allows users to opt out of behavioral targeting by visiting [http://oo.apple.com](http://oo.apple.com/) from your iOS4 device.  
 
 
-We do not share any of your personal information with any third parties other than our advertising display partners such as Admob, Inc.  We share your location with the advertising display networks in order to display locally targeted advertisements.  These advertising display partners do not receive or collect your DIC and do not link location information to your DIC.  Further, location information gathered when an ad request is made is not shared by those advertising display partners with specific advertisers.  Grindr may share statistical user location & demographic information with advertising partners in aggregate, we do not share any specific user information with these advertisers.  
+We will not otherwise disclose any personal information without your consent, except: in response to subpoenas, court orders, or legal process; to establish or exercise our rights to defend against legal claims; if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law.  
 
 
-We will not otherwise disclose any personal information without your consent except: in response to subpoenas, court orders, or legal process, or to establish or exercise our rights to defend against legal claims; and if we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, safety of person or property, violation of our policies, or as otherwise required by law.  
+Grindr © Copyright 2011 Grindr, LLC.  
+Apple, iPhone, iPod Touch, iPad and iTunes are trademarks of Apple Inc.,registered in the U.S. and other countries. BlackBerry is the property of Research In Motion Limited and are registered and/or used in the U.S. and countries around the world. Used under license from Research In Motion Limited. Android is the property of Google Inc and is registered and/or used in the U.S. and countries around the world. Used under license from Google Inc.   
 
 
-Grindr © Copyright 2010 Nearby Buddy Finder, LLC.  
-Apple, iPhone, iPod touch, iPad and iTunes are trademarks of Apple Inc.,registered in the U.S. and other countries. BlackBerry is the property of Research In Motion Limited and are registered and/or used in the U.S. and countries around the world. Used under license from Research In Motion Limited.   
-
-
-[Grindr Privacy Policy]() | [Terms of Service](https://web.archive.org/web/20101204040431id_/http%3A//grindr.com/Grindr_iPhone_App/Grindr_Terms_of_Service.html "Grindr_Terms_of_Service.html")
+[Grindr Privacy Policy]() | [Terms of Service](https://web.archive.org/web/20111107033349id_/http%3A//www.grindr.com/Grindr_iPhone_App/Grindr_Terms_of_Service.html "Grindr_Terms_of_Service.html")
