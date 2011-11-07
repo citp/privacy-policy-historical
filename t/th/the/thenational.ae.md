@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2011-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110619042149id_/http%3A//www.thenational.ae/featured-content/standard-content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenational.ae privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107100229id_/http%3A//www.thenational.ae/featured-content/standard-content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The National
 
 **Website Privacy Statement**
 
-This privacy statement has been created in order to demonstrate The Abu Dhabi Media Company commitment to privacy. Due to the sensitive nature of the information we collect from our users, including address and phone numbers, we believe it is important to satisfy strict privacy requirements. The following discloses our information gathering and dissemination practices for this website:
+This privacy statement has been created in order to demonstrate The Abu Dhabi Media commitment to privacy. Due to the sensitive nature of the information we collect from our users, including address and phone numbers, we believe it is important to satisfy strict privacy requirements. The following discloses our information gathering and dissemination practices for this website:
 
 ## Collected Information
 
@@ -22,7 +22,7 @@ The demographic information may be shared with advertisers on an aggregate basis
 
 ## Choice/Opt-Out
 
-Our website provides users the opportunity to opt-out of receiving communications from The Abu Dhabi Media Company website at the point where we request information about the user. This website gives users the following options for removing their information from our database to not receive further communications or to no longer receive our service.
+Our website provides users the opportunity to opt-out of receiving communications from The Abu Dhabi Media website at the point where we request information about the user. This website gives users the following options for removing their information from our database to not receive further communications or to no longer receive our service.
 
 You can send mail to the following postal address:  
 PO Box 63, Abu Dhabi, United Arab Emirates
