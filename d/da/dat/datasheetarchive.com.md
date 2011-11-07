@@ -1,46 +1,47 @@
-> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2011-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110430222700id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasheetarchive.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107044653id_/http%3A//www.datasheetarchive.com/privacy.html) for the most accurate reproduction.*
 
-# Advertising Cookie and Privacy Policies | Datasheet Archive
+# Advertising Cookie, Datasheet Collection, and Privacy Policies | Datasheet Archive
 
-    | 
+  | 
 
-[Datasheet Archive Home](http://www.datasheetarchive.com/ "Datasheet Archive")
+[Home](http://www.datasheetarchive.com/ "Datasheet Archive")
 
  **Privacy Policy**
 
 * * *
 
-  
 At the Datasheet Archive, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of information we collect and how it is used.
 
-   **Log Files**
+**Log Files**
 
 * * *
 
 Like many other Web sites, The Datasheet Archive makes use of log files. The information inside the log files includes IP addresses, type of browser, Internet Service Provider (ISP), date & time stamp, and referring pages. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-   **Cookies**
+**Cookies**
 
 * * *
 
 Our website uses cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-   **Google and the DoubleClick DART cookie**
+**Google and the DoubleClick DART cookie**
 
 * * *
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).  
-
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
   * Google, as a third party vendor, uses cookies to serve ads on your site.
   * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-  
 **Feedback & Questions**
 
 * * *
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at  
-privacy@datasheetarchive.com.  
+privacydatasheetarchive.com.
 
+[Search Syntax](http://www.datasheetarchive.com/search-syntax.html "Search Syntax - How to find a datasheet.") | [Privacy Policy](http://www.datasheetarchive.com/privacy.html "Privacy Policy") | [Disclaimer](http://www.datasheetarchive.com/disclaimer.html "Disclaimer")  
+© 2011 Datasheet Archive
+
+|  
