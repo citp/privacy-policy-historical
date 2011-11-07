@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waridtel.com.bd privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509235553id_/http%3A//www.waridtel.com.bd/common.php%3Fpage_id%3D27) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waridtel.com.bd privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107063851id_/http%3A//www.waridtel.com.bd/common.php%3Fpage_id%3D27) for the most accurate reproduction.*
 
 # Welcome to Airtel Website - Bangladesh
 
@@ -48,7 +48,7 @@ Please be aware that communications over the Internet, such as emails/webmails, 
 
 **Privacy Support**
 
-Airtel reserves the right to amend or modify this Privacy Policy Statement at any time and/or in response to changes in applicable data protection and privacy legislation.. If you have any enquiry about Airtel's data protection and privacy policy or practices, please write to: [customerservice@bd.airtel.com](mailto:customerservice@waridtel.com.bd)
+Airtel reserves the right to amend or modify this Privacy Policy Statement at any time and/or in response to changes in applicable data protection and privacy legislation.. If you have any enquiry about Airtel's data protection and privacy policy or practices, please write to: [customerservice@bd.airtel.com](mailto:customerservice@bd.airtel.com)
 
 **Monitoring and/or recording of your communications**
 
