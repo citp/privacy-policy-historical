@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the migration.wa.gov.au privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506180651id_/http%3A//www.trainingwa.wa.gov.au/trainingwa/redirect%3Foid%3DMultiPartArticle-id-5748813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the migration.wa.gov.au privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107164252id_/http%3A//www.migration.wa.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# The Department of Training and Workforce Development - Training WA - Privacy
+# 
 
 The Western Australian Department of Training and Workforce Development does not attempt to collect Personal Information* about you when you visit this website. You can generally visit this website without revealing Personal Information*, unless you choose to provide it. The information collected by the Western Australian Department of Training and Workforce Development is dependant upon the actions undertaken when visiting the website.
 
@@ -8,12 +8,13 @@ The Western Australian Department of Training and Workforce Development does not
 
 The Western Australian Department of Training and Workforce Development records each visit and logs the following information for statistical purposes:
 
-  * the user's server address
-  * the user's top-level domain name (eg .gov, .com, .au, .nz etc)
-  * the type of browser used to access the site
-  * the date and time the user accessed the site
-  * the pages accessed and the files downloaded
-  * the referring website
+  * the user's server address  
+the user's top-level domain name (eg .gov, .com, .au, .nz etc)  
+the type of browser used to access the site  
+the date and time the user accessed the site  
+the pages accessed and the files downloaded  
+the referring website  
+
 
 
 
@@ -33,5 +34,4 @@ Your email address will only be recorded if you choose to send a message. It wil
 
 If you are asked for any other Personal Information* you will be informed how it will be used if you choose to give it.
 
-_* The use of the term "Personal Information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained._  
- 
+_* The use of the term "Personal Information" in this privacy statement means any information from which your identity is apparent or can be reasonably ascertained._
