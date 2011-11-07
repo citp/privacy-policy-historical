@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wabash.edu privacy policy that was archived on 2011-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110607185421id_/http%3A//www.wabash.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wabash.edu privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107060434id_/http%3A//www.wabash.edu/privacy) for the most accurate reproduction.*
 
-# Wabash College: Privacy Statement for www.wabash.edu
+# Wabash College: Privacy Statement for www.wabash.edu Crawfordsville, Indiana
 
 Wabash College has created this privacy statement to demonstrate our firm commitment to the privacy of our website users. Wabash College does not compile names, addresses, or personal data of web site users except when the user has knowingly submitted the information to Wabash for purposes of updating records, conducting transactions, or subscribing to electronic services such as listservs or online directories. Wabash College does not share information collected via its website with any other organization for any purpose. 
 
@@ -28,7 +28,7 @@ Our site makes extensive use of forms for web users to request information about
 
 ### Links to External Sites
 
-This site contains links to external sites as well as sites that are not considered official web pages of Wabash College. This may include personal homepages of students, faculty, and staff containing the URL http://persweb.wabash.edu. **Wabash College** is not responsible for the privacy practices or the content of such web sites. Links to these sites are provided as a courtesy and do not imply an endorsement by Wabash College of the site. When notified of sites within the Wabash domain that may violate privacy or copyright practices, Wabash College will make every reasonable effort to bring the site into compliance or remove it from our servers. For more information on our copyright practices, [click here](https://web.archive.org/web/20110607185421id_/http://www.wabash.edu/copyright.cfm). 
+This site contains links to external sites as well as sites that are not considered official web pages of Wabash College. This may include personal homepages of students, faculty, and staff containing the URL http://persweb.wabash.edu. **Wabash College** is not responsible for the privacy practices or the content of such web sites. Links to these sites are provided as a courtesy and do not imply an endorsement by Wabash College of the site. When notified of sites within the Wabash domain that may violate privacy or copyright practices, Wabash College will make every reasonable effort to bring the site into compliance or remove it from our servers. For more information on our copyright practices, [click here](https://web.archive.org/web/20111107060434id_/http://www.wabash.edu/copyright.cfm). 
 
 ### Public Forums
 
@@ -76,4 +76,6 @@ This site gives users the following options for removing their information from 
 
 ### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Director of New Media Wabash College PO Box 352 Crawfordsville, IN 47933  [webmaster@wabash.edu](mailto:webmaster@wabash.edu)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
+
+Director of New Media Wabash College PO Box 352 Crawfordsville, IN 47933  [webmaster@wabash.edu](mailto:webmaster@wabash.edu)
