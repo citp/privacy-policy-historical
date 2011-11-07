@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the nrelate.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627210920id_/http%3A//nrelate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nrelate.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107210330id_/http%3A//nrelate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | nrelate
 
-**Privacy Policy**
+Your browsing history on sites with an nrelate plugin is being used to generate your recommendations. If you would not like nrelate to use your browsing history, [click here](http://nrelate.com/opt-out.php).
+
+ **Privacy Policy**
 
 Please note, this privacy policy has been edited from Automattic’s Privacy Policy which is available through a Creative Commons Sharealike license. Thank you to WordPress.com and Automattic.
 
