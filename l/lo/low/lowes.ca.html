@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lowes.ca privacy policy that was archived on 2011-01-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110130072733id_/http%3A//www.lowes.ca/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lowes.ca privacy policy that was archived on 2011-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107025432id_/http%3A//www.lowes.ca/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="cufon-active cufon-ready"><head><title>
 	Privacy Statement - Lowes.ca | Home Improvement Warehouse | Do It Yourself | Renovations | Contractors | Lowe's Canada
@@ -7,12 +7,13 @@
     <script type="text/javascript" src="/js/jquery-1.4.2.min.js"></script>
     <script type="text/javascript" src="/js/jquery.tinywatermark-2.0.0.js"></script>
     <script type="text/javascript" src="/js/lowes.js"></script>
-    <script type="text/javascript" src="/js/cufon.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
+    <script type="text/javascript" src="/js/cufon.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>
     <script type="text/javascript" src="/js/dinConBold_700.font.js"></script>
     <script type="text/javascript">
         $(document).ready(function(){
 			Cufon.replace('.box h2 span',{fontFamily:'dinConBold',color:'#ffffff'});
 			Cufon.replace('.features h2 span',{fontFamily:'dinConBold',color:'#ffffff'});
+			Cufon.replace('.store_heading',{fontFamily:'dinConBold',color:'#ffffff'});
 		});
     </script>
     <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=lowescanada"></script>
@@ -26,10 +27,10 @@
 </head>
 <body class="main">
     
-    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwOTI1OTYyNzVkZHyb9SoKA8PQHU2otbWTr8RSisdk">
+    <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwOTI1OTYyNzVkZIUi3OjPUVO9oDrBFftUhEx/ynYT">
 
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBwKE4f6lAgLDqI6OAQLM2a/VBwLpk+b+CALN3cU1AuPvsf4BAsajpcMFf+pYr+RaI8NWHSWgE3tajLAlhPc=">
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQKy/JDZCAK2rao6ArH4uuQLAs3dxTUC4++x/gFQB7t7M1K6ABWcEs4gYQ66pfNe+Q==">
     <div class="accessBar accessAlt">
         <a href="#wrapContent" title="Go to content">Go to content</a>
     </div>
@@ -44,16 +45,110 @@
     <div class="subWrap">
         <a href="/">
             <img class="lgLowes" src="/img/lg_lowes.png" alt="Return to the lowes.ca home page" title="Return to the lowes.ca home page"></a>
+            
+
+<script type="text/javascript">
+var cX = 0; var cY = 0; var rX = 0; var rY = 0;
+
+function UpdateCursorPosition(e){ cX = e.pageX; cY = e.pageY;}
+
+function UpdateCursorPositionDocAll(e){ 
+	var ev = e || window.event;
+	cX = ev.clientX; cY = ev.clientY;
+}
+
+if(document.all) { document.onmousemove = UpdateCursorPositionDocAll; }
+else { document.onmousemove = UpdateCursorPosition; }
+
+function AssignPosition(d) {
+	if(self.pageYOffset) {
+		rX = self.pageXOffset;
+		rY = self.pageYOffset;
+		}
+	else if(document.documentElement && document.documentElement.scrollTop) {
+		rX = document.documentElement.scrollLeft;
+		rY = document.documentElement.scrollTop;
+		}
+	else if(document.body) {
+		rX = document.body.scrollLeft;
+		rY = document.body.scrollTop;
+		}
+	if(document.all) {
+		cX += rX; 
+		cY += rY;
+	}
+	
+	if (navigator.appName == 'Microsoft Internet Explorer'){
+		d.style.left = (cX - (screen.width/3.2)) + "px";
+	} else {
+		d.style.left = (cX - (window.innerWidth/3.2)) + "px";
+	}
+	d.style.top = (cY - 15) + "px";
+}
+
+if(document.all) { document.onmousemove = UpdateCursorPositionDocAll; }
+else { document.onmousemove = UpdateCursorPosition; }
+
+
+function show_details(){
+	AssignPosition(document.getElementById("mystore_main"));
+	document.getElementById("mystore_main").style.display = "block";
+}
+
+function mouseLeaves (element, evt) {
+	if (typeof evt.toElement != 'undefined' && typeof element.contains !=
+	'undefined') {
+		return !element.contains(evt.toElement);
+	}
+	else if (typeof evt.relatedTarget != 'undefined' && evt.relatedTarget) {
+		return !contains(element, evt.relatedTarget);
+	}
+}
+
+function contains (container, containee) {
+	while (containee) {
+		if (container == containee) {
+			return true;
+		}
+		containee = containee.parentNode;
+	}
+	return false;
+}
+
+function hideElement (element) {
+	if (element.style) {
+		element.style.display = 'none';
+	}
+}
+</script>
+
+<div class="box myLowesStore">
+    
+<br><br>
+		<div style="text-align:left; vertical-align:bottom; valign:bottom; position:relative; margin-left:250px; margin-top:-25px;"><h3 style="line-height:25px;">MY LOWE'S STORE</h3><br>Please enter your postal code to see <b>the latest offers</b></div>
+        <div style="text-align:left; vertical-align:bottom; valign:bottom; position:relative; margin-left:250px; line-height:-5px;"><p>
+            <b> and savings</b> in your area.&nbsp;<input name="ctl00$ctl00$ucHeader$MyLowesStores1$txtPostalcode" type="text" maxlength="7" id="ctl00_ctl00_ucHeader_MyLowesStores1_txtPostalcode" title="XXXXXX" class="txtPostalcode watermarked watermark"><a id="ctl00_ctl00_ucHeader_MyLowesStores1_btOkPostalcode" title="Ok" class="btOK" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$ucHeader$MyLowesStores1$btOkPostalcode", "", true, "MyLowesStoresWidgetPostal", "", false, true))'></a>&nbsp;&nbsp;
+            
+        </p>
+            
+        </div> <br>
+   
+    
+    
+</div>
+<br><!--<a href="javascript:popPage('/Thanksgiving_HolidayHours.html',800,600);" style="position: absolute; color: #CA1F4A; font-weight: bold; top: 45px; left: 600px;">THANKSGIVING HOURS +</a>-->
         <div class="links">
             <ul>
                 <li><a href="/Default.aspx" title="Homepage">Homepage</a></li>
                 <li><a href="/AboutUs/Default.aspx" title="About Us">About Us</a></li>
                 <li><a href="/Careers/why_work_at_lowes.aspx" title="Careers">Careers</a></li>
                 <li class="last"><a href="/ContactUs.aspx" title="Contact Us">Contact Us</a></li>
-                <li class="signUp"><a href="/SignUp/Default.aspx" title="Sign up for email">Sign up for email</a></li>
+                <!--<li class="signUp"><a href="/SignUp/Default.aspx" title="Sign up for email">Sign up for email</a></li>-->
+                <li class="signUp"><a href="/AboutUs/Default.aspx" title="Get To Know Lowe's">Get to Know Lowe's</a></li>
             </ul>
         </div>
-        <a class="getKnow" href="/AboutUs/Default.aspx" title="Get To Know Lowe's">Get To Know Lowe's</a>
+        <!--<a class="getKnow" href="/AboutUs/Default.aspx" title="Get To Know Lowe's">Get To Know Lowe's</a>-->
+        <a class="getKnow" href="/SignUp/Default.aspx" title="Sign up for email">SIGN UP FOR eFLYER</a>
         
 <ul class="nav">
     <li class="offers"><a href="javascript:StoreWidget.ShowOverlay('/promotions/default.aspx');" title="Offers &amp; Promotions">Offers &amp; Promotions</a>
@@ -65,17 +160,79 @@
             
                     
                 
-                    <li><a href="/products/toolguide.aspx" title="Tool Guide">Tool Guide</a></li>
+                    <li><span>Product Showroom - Search</span></li><li class="subindent"><a href="/products/appliance_catalogue.aspx" title="Major Appliances - NEW!">Major Appliances - NEW!</a></li><li class="subindent"><a href="/products/heaters.aspx" title="Heaters">Heaters</a></li><li class="subindent"><a href="/products/mowers.aspx" title="Lawn Mowers">Lawn Mowers</a></li><li class="subindent"><a href="/products/pressure_washers.aspx" title="Pressure Washers">Pressure Washers</a></li><li class="subindent"><a href="/products/storage_sheds.aspx" title="Storage Sheds">Storage Sheds</a></li><li class="subindent"><a href="/products/snowthrowers.aspx" title="Snow Throwers - NEW!">Snow Throwers - NEW!</a></li><li class="subindent"><a href="/products/toolguide.aspx" title="Tools">Tools</a></li><li class="subindent"><a href="/products/tractors.aspx" title="Tractors">Tractors</a></li>
                 
                     <li><a href="/products/appliances.aspx" title="Appliance Advantage">Appliance Advantage</a></li>
                 
-                    <li><a href="/products/garden_centre.aspx" title="Garden Centre">Garden Centre</a></li>
+                    <li><a href="/products/brands.aspx" title="Featured Brands &amp; Products">Featured Brands &amp; Products</a></li>
                 
-                    <li><a href="/bathroomshowcase/" title="Bathroom Showcase" target="_blank">Bathroom Showcase</a></li>
+                    <li><span>Gardening</span></li><li class="subindent"><a href="/products/garden_centre.aspx" title="Garden Centre">Garden Centre</a></li><li class="subindent"><a href="/PlantTag/Default.aspx" title="Plant Tag Lookup">Plant Tag Lookup</a></li>
                 
-                    <li><a href="/products/storage_sheds.aspx" title="Storage Sheds">Storage Sheds</a></li>
+                    
                 
-                    <li><span>Brands</span></li><li class="subindent"><a href="/products/bluwood.aspx" title="BluWood">BluWood</a></li><li class="subindent"><a href="javascript:alertPop('http://www.closetmaid.ca/lowes/','You are now entering Closetmaid, a proud partner of Lowes.ca. Please ensure that your browser is set to allow pop-ups.','630','750','/Products/Brands/ClosetMaid');" title="ClosetMaid">ClosetMaid</a></li><li class="subindent"><a href="/products/delta_faucets.aspx" title="Delta Faucets">Delta Faucets</a></li><li class="subindent"><a href="/products/idylis.aspx" title="Idylis">Idylis</a></li><li class="subindent"><a href="/products/jacuzzi.aspx" title="Jacuzzi Baths &amp; Toilets">Jacuzzi Baths &amp; Toilets</a></li><li class="subindent"><a href="/products/jeldwen.aspx" title="JELD-WEN Windows and Doors">JELD-WEN Windows and Doors</a></li><li class="subindent"><a href="/products/kobalt_tools.aspx" title="Kobalt Tools">Kobalt Tools</a></li><li class="subindent"><a href="/products/leatherman.aspx" title="Leatherman Tools">Leatherman Tools</a></li><li class="subindent"><a href="/products/levolor.aspx" title="Levolor Blinds and Shades">Levolor Blinds and Shades</a></li><li class="subindent"><a href="/products/para_paints.aspx" title="Para Paints">Para Paints</a></li><li class="subindent"><a href="/products/para_paint_professional.aspx" title="Para Paint Professional">Para Paint Professional</a></li><li class="subindent"><a href="/products/proficiency.aspx" title="Proficiency 3 litre Toilets">Proficiency 3 litre Toilets</a></li><li class="subindent"><a href="/products/roxul.aspx" title="Roxul Insulation">Roxul Insulation</a></li><li class="subindent"><a href="/products/spaberry.aspx" title="SpaBerry Spas">SpaBerry Spas</a></li><li class="subindent"><a href="/products/stainmaster_carpets.aspx" title="STAINMASTER Carpets">STAINMASTER Carpets</a></li><li class="subindent"><a href="/products/valspar_paint.aspx" title="Valspar Paint">Valspar Paint</a></li><li class="subindent"><a href="/products/wallpaper_studio.aspx" title="Wallpaper Studio">Wallpaper Studio</a></li>
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
+                
+                    
                 
         </ul>
         
@@ -88,9 +245,11 @@
                 
                     <li><a href="/services/to_go_truck_rental.aspx" title="TO GO Truck Rental">TO GO Truck Rental</a></li>
                 
-                    <li><a href="/services/lowes_protection_plans.aspx" title="Lowe's Protection Plans">Lowe's Protection Plans</a></li><li class="subindent"><a href="/services/lowes_protection_plans_appliances.aspx" title="Appliances">Appliances</a></li><li class="subindent"><a href="/services/lowes_protection_plans_outdoors.aspx" title="Outdoors">Outdoors</a></li><li class="subindent"><a href="/services/lowes_protection_plans_tools.aspx" title="Tools">Tools</a></li><li class="subindent"><a href="/services/lowes_protection_plans_faq.aspx" title="FAQ">FAQ</a></li>
+                    <li><a href="/services/lowes_protection_plans.aspx" title="Lowe's Protection Plans">Lowe's Protection Plans</a></li><li class="subindent"><a href="/services/lowes_protection_plans_appliances.aspx" title="Appliance Protection Plan">Appliance Protection Plan</a></li><li class="subindent"><a href="/services/lowes_protection_plans_outdoors.aspx" title="Outdoor Protection Plan">Outdoor Protection Plan</a></li><li class="subindent"><a href="/services/lowes_protection_plans_tools.aspx" title="Tool Protection Plan">Tool Protection Plan</a></li><li class="subindent"><a href="/services/lowes_protection_plans_faq.aspx" title="FAQ">FAQ</a></li>
                 
                     <li><a href="/services/build_and_grow_clinics.aspx" title="Build and Grow Clinics">Build and Grow Clinics</a></li>
+                
+                    <li><a href="/services/recycling.aspx" title="Lowe's Recycling Centres">Lowe's Recycling Centres</a></li>
                 
                     <li><a href="/services/credit_services.aspx" title="Credit Services">Credit Services</a></li><li class="subindent"><a href="/services/consumer_credit.aspx" title="Consumer Credit">Consumer Credit</a></li><li class="subindent"><a href="/services/business_credit.aspx" title="Business Credit">Business Credit</a></li><li class="subindent"><a href="/services/manage_your_account.aspx" title="Manage Your Account">Manage Your Account</a></li>
                 
@@ -139,11 +298,9 @@
     <li class="ideas"><a href="/creativeideas/default.aspx" title="Creative Ideas">Creative Ideas</a>
         <ul class="subMenu accessAlt">
             
-                    <li><a href="/creativeideas/creative_ideas.aspx" title="Creative Ideas">Creative Ideas</a></li>
+                    <li><span>Lowe's Creative Ideas</span></li><li class="subindent"><a href="/creativeideas/default.aspx?pgID=home" title="Creative Ideas Magazine">Creative Ideas Magazine</a></li><li class="subindent"><a href="/creativeideas/default.aspx?pgID=extras" title="Extras">Extras</a></li><li class="subindent"><a href="/creativeideas/default.aspx?pgID=archive" title="Archive">Archive</a></li>
                 
-                    <li><a href="/creativeideas/outdoor_living.aspx" title="Outdoor Living">Outdoor Living</a></li>
-                
-                    <li><a href="/creativeideas/holiday_ideas.aspx" title="Holiday Ideas">Holiday Ideas</a></li>
+                    <li><span>Inspiration Galleries</span></li><li class="subindent"><a href="/creativeideas/inspiration_kitchens.aspx" title="Kitchens">Kitchens</a></li><li class="subindent"><a href="/creativeideas/inspiration_baths.aspx" title="Baths">Baths</a></li><li class="subindent"><a href="/creativeideas/inspiration_doors.aspx" title="Entry Doors">Entry Doors</a></li>
                 
         </ul>
     </li>
@@ -157,6 +314,8 @@
                     <li><a href="/howto/project_library.aspx" title="Library">Library</a></li><li class="subindent"><a href="/howto/building_materials.aspx" title="Building Materials">Building Materials</a></li><li class="subindent"><a href="/howto/exterior_construction.aspx" title="Exterior Construction">Exterior Construction</a></li><li class="subindent"><a href="/howto/interior_finishing_and_repair.aspx" title="Interior Finishing &amp; Repair">Interior Finishing &amp; Repair</a></li><li class="subindent"><a href="/howto/home_organization.aspx" title="Home Organization">Home Organization</a></li><li class="subindent"><a href="/howto/paint.aspx" title="Paint">Paint</a></li><li class="subindent"><a href="/howto/woodworking.aspx" title="Woodworking">Woodworking</a></li><li class="subindent"><a href="/howto/arts_and_crafts.aspx" title="Arts &amp; Crafts">Arts &amp; Crafts</a></li>
                 
                     <li><a href="/howto/deck_designer.aspx" title="Deck Designer">Deck Designer</a></li>
+                
+                    <li><a href="/howto/basement_reno.aspx" title="Basement Renovation Tips">Basement Renovation Tips</a></li>
                 
                     <li><a href="/howto/kitchen_planner/default.aspx" title="Kitchen Planner">Kitchen Planner</a></li>
                 
@@ -194,7 +353,7 @@
         </div>
     </div>
 </div>
-
+ <!--<div id="toppromo"><a href="javascript:p opPage('http://mothersday.lwiapps081212.com','960','676');"><img src="/img/mothersday.jpg" border="0" width="339" height="57" /></a></div>-->
         <div id="wrapContent" class="wrapContent">
             <div class="subWrap">
                 
@@ -891,102 +1050,7 @@
         </div> 
     </div>
     <div class="col col2">
-        
-
-<div class="box myLowesStore">
-    <h2>
-        <span><cufon class="cufon cufon-canvas" alt="My " style="width: 23px; height: 21.0006px;"><canvas width="45" height="25" style="width: 45px; height: 25px; top: -3px; left: -2px;"></canvas><cufontext>My </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Lowe's " style="width: 54px; height: 21.0006px;"><canvas width="77" height="25" style="width: 77px; height: 25px; top: -3px; left: -2px;"></canvas><cufontext>Lowe's </cufontext></cufon><cufon class="cufon cufon-canvas" alt="Store" style="width: 42px; height: 21.0006px;"><canvas width="60" height="25" style="width: 60px; height: 25px; top: -3px; left: -2px;"></canvas><cufontext>Store</cufontext></cufon></span></h2>
-    
-        <p>
-            Please enter your postal code to<br>
-            see <strong>the latest offers and savings</strong><br>
-            in your area.</p>
-        <div class="frmMyLowesPostalcode">
-            <input name="ctl00$ctl00$mainContent$MyLowesStores1$txtPostalcode" type="text" maxlength="7" id="ctl00_ctl00_mainContent_MyLowesStores1_txtPostalcode" title="XXXXXX" class="txtPostalcode watermarked watermark"><a id="ctl00_ctl00_mainContent_MyLowesStores1_btOkPostalcode" title="Ok" class="btOK" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$mainContent$MyLowesStores1$btOkPostalcode", "", true, "MyLowesStoresWidgetPostal", "", false, true))'></a>&nbsp;
-        </div>
-        <p>
-            or select your:</p>
-        <div class="frmMyLowesProvince">
-            <!-- PROVINCE START -->
-                <div class="drpCustom drp drpProvince"><div class="current">Province</div><ul id="new_drpProvince" class="drpList accessAlt"><li class="active"><a href="" option="0" title="Province" rel="drpProvince">Province</a></li><li><a href="" option="AB" title="
-                                Alberta" rel="drpProvince">
-                                Alberta</a></li><li><a href="" option="QC" title="
-                                Quebec" rel="drpProvince">
-                                Quebec</a></li><li><a href="" option="BC" title="
-                                British Columbia" rel="drpProvince">
-                                British Columbia</a></li><li><a href="" option="ON" title="
-                                Ontario" rel="drpProvince">
-                                Ontario</a></li><li><a href="" option="YT" title="
-                                Yukon Territory" rel="drpProvince">
-                                Yukon Territory</a></li><li><a href="" option="PE" title="
-                                Prince Edward Island" rel="drpProvince">
-                                Prince Edward Island</a></li><li><a href="" option="SK" title="
-                                Saskatchewan" rel="drpProvince">
-                                Saskatchewan</a></li><li><a href="" option="MB" title="
-                                Manitoba" rel="drpProvince">
-                                Manitoba</a></li><li><a href="" option="NB" title="
-                                New Brunswick" rel="drpProvince">
-                                New Brunswick</a></li><li><a href="" option="NT" title="
-                                Northwest Territories" rel="drpProvince">
-                                Northwest Territories</a></li><li><a href="" option="NS" title="
-                                Nova Scotia" rel="drpProvince">
-                                Nova Scotia</a></li><li><a href="" option="NL" title="
-                                Newfoundland" rel="drpProvince">
-                                Newfoundland</a></li></ul></div><select class="drp drpProvince accessAlt" id="drpProvince" name="drpProvince">
-                    <option value="0">Province</option>
-                    
-                            <option value="AB">
-                                Alberta</option>
-                        
-                            <option value="QC">
-                                Quebec</option>
-                        
-                            <option value="BC">
-                                British Columbia</option>
-                        
-                            <option value="ON">
-                                Ontario</option>
-                        
-                            <option value="YT">
-                                Yukon Territory</option>
-                        
-                            <option value="PE">
-                                Prince Edward Island</option>
-                        
-                            <option value="SK">
-                                Saskatchewan</option>
-                        
-                            <option value="MB">
-                                Manitoba</option>
-                        
-                            <option value="NB">
-                                New Brunswick</option>
-                        
-                            <option value="NT">
-                                Northwest Territories</option>
-                        
-                            <option value="NS">
-                                Nova Scotia</option>
-                        
-                            <option value="NL">
-                                Newfoundland</option>
-                        
-                </select>
-            <!-- END PROVINCE -->
-            <div class="clearer"></div>
-            <!-- CITY START -->
-                <div class="drpCustom drp drpProvince drpCity"><div class="current">City</div><ul id="new_drpCity" class="drpList accessAlt"><li class="active"><a href="" option="0" title="City" rel="drpCity">City</a></li></ul></div><select class="drp drpProvince drpCity accessAlt" id="drpCity" name="drpCity">
-                    <option value="0">City</option>
-                </select>
-            <!-- END CITY -->
-            <a id="ctl00_ctl00_mainContent_MyLowesStores1_btOkProvince" title="Ok" class="btOK" href="javascript:__doPostBack('ctl00$ctl00$mainContent$MyLowesStores1$btOkProvince','')"></a>
-            <div class="clearer">
-            </div>
-        </div>
-    
-    
-</div>
-
+         <a href="/roomforimprovement/default.aspx"><img src="/img/minicarousel/home_improvement.jpg" border="0"></a><br><br>
         
     </div>
     <div class="clearer">
@@ -1045,7 +1109,7 @@
             </ul>
             <ul>
                 <li class="category">Customer Care</li>
-                <li><a href="javascript:alertPop('https://www.lowespromos.ca/','You are now entering www.lowespromos.ca, a proud partner of Lowes.ca. Please ensure that your browser is set to allow pop-ups.','800','600','/Promotions/RebateCenter');" title="Rebates">Rebates</a></li>
+                <li><a href="javascript:alertPop('https://lowespromosca.young-america.com/','You are now entering lowespromosca.young-america.com, a proud partner of Lowes.ca. Please ensure that your browser is set to allow pop-ups.','800','600','/Promotions/RebateCenter');" title="Rebates">Rebates</a></li>
                 <li><a href="/terms_of_use.aspx" title="Terms of Use">Terms of Use</a></li>
                 <li><a href="/privacy.aspx" title="Privacy Statement">Privacy Statement</a></li>
                 <li><a href="/contactus.aspx" title="Contact Us">Contact Us</a></li>
@@ -1064,8 +1128,30 @@
                 &nbsp;</div>
         </div>
         <p class="legal">
-            ©2010 Lowe's<sup>®</sup>. All rights reserved. Lowe's and the gable design
+            ©2011 Lowe's<sup>®</sup>. All rights reserved. Lowe's and the gable design
             are registered trademarks of LF, LLC</p>
+
+        <!--<p class="legal">
+        †Applies to selected products marked with yellow clearance labels. Prices as marked. While quantities last. Selection may vary by store. Details in-store.</p>-->
+                        
+        <p class="legal">
+        *If you happen to find a lower price on an identical stock item at any area retail competitor, and provide confirmation of that price, we'll match it and beat their price by an additional 10%.</p>        
+            
+        <p class="legal">Product availability and pricing on this website are limited to weekly flyer offerings.  Store product inventory search, product details and pricing are not available at this time.  Look for improvements and updates, later this year. While we are developing new capabilities to improve your experience please browse through the website for information on home improvement projects.  
+        <!--For example:
+        
+        <ul class="legal">
+         <li>Get special offers, promotions and information directly to your email inbox by <a href="http://www.lowes.ca/SignUp/Default.aspx">subscribing to our email service</a></li>
+         <li>Learn about home improvement and repair tips from an industry expert with bi-weekly videos from <a href="http://www.lowes.ca/roomforimprovement/">Bryan Baeumler</a></li>
+         <li>Explore the library of <a href="http://www.lowes.ca/howto/project_library.aspx">‘How To’ articles</a>, <a href="http://www.lowes.ca/howto/howto_videos.aspx">videos</a> and <a href="http://www.lowes.ca/buying_guides/default.aspx">Buying Guides</a> to help with home improvement and maintenance projects</li>
+         <li>Be inspired with creative home and craft ideas in the <a href="http://www.lowes.ca/creativeideas/default.aspx">Creative Ideas</a> section</li>
+         <li>Learn more about the products Lowe’s carry with our searchable <a href="http://www.lowes.ca/products/toolguide.aspx">Tool Guide</a> and about  many other products and brands in the Products section</li>
+         <li><a href="http://www.lowes.ca/commercialservices/default.aspx">Commercial Business Customers</a> can learn and explore relevant topics of interest to their business in the <a href="http://www.lowes.ca/LowesForPros/Default.aspx">For Your Business</a> section that includes monthly updated library of articles, plus learn about Lowe’s commercial services and receive special offers and promotions</li>
+         <li>Find the store closest to you with the <a href="http://www.lowes.ca/LowesForPros/Default.aspx">Store Locator</a></li>
+         <li>Discover and learn more about Lowe’s in the <a href="http://www.lowes.ca/AboutUs/Default.aspx">Get To Know Lowe’s</a> section that provides information about our brand values, mission, news and events and more</li>
+         <li>Explore the <a href="http://www.lowes.ca/Careers/why_work_at_lowes.aspx">Careers</a> section for the latest on job recruitment</li>
+        </ul>-->
+        </p>
     </div>
 </div>
 
@@ -1073,60 +1159,27 @@
     
 
 <div id="divStoreLocator" class="lightbox">
-    <div class="overlay" style="width: 1366px; height: 9296px;"></div>
+    <div class="overlay" style="width: 1366px; height: 9402px;"></div>
     <div class="content">
         <a class="close" href="#close" title="Close" onclick="$('#divStoreLocator').fadeOut(400); return false;">Close</a>
         <img class="logo" src="/img/lg_lbLowes.png" alt="" title="">
         <input type="hidden" id="hidRedirect" name="hidRedirect">
-        <div class="myLowesStore">
-            <h2>My Lowe’s Store</h2>
-            <p>Please enter your location to <strong>see the latest<br>offers and savings</strong> in your area.</p>
+        <div style="position:relative; margin-top:150px; margin-left:40px;">
+            <h2 style="position:relative;">My Lowe’s Store</h2>
+            <div style="position:relative; margin-top:10px;">
+            <p>Please enter your location to <b>see the latest<br>offers and savings</b> in your area.</p>
             <div class="frmMyLowesPostalcode">
-                <p>Postal code:</p>
+                <p style="display:inline;">Postal code:</p>
                 <input name="ctl00$ctl00$StoreLocator$txtPostalcode" type="text" maxlength="7" id="ctl00_ctl00_StoreLocator_txtPostalcode" title="XXXXXX" class="txtPostalcode watermarked watermark">
                 <a id="ctl00_ctl00_StoreLocator_btOkPostalcode" title="Ok" class="btOK" href='javascript:WebForm_DoPostBackWithOptions(new WebForm_PostBackOptions("ctl00$ctl00$StoreLocator$btOkPostalcode", "", true, "StoreLocatorOverlayPostal", "", false, true))'>Ok</a>
                 &nbsp;
+                 </div>   
+                     
             </div>
-            <div class="frmMyLowesProvince">
-                <p>Select your:</p>
-                <div class="drpCustom drp drpProvince"><div class="current">Province</div><ul id="new_drpProvinceOverlay" class="drpList accessAlt"><li class="active"><a href="" option="0" title="Province" rel="drpProvinceOverlay">Province</a></li><li><a href="" option="AB" title="Alberta" rel="drpProvinceOverlay">Alberta</a></li><li><a href="" option="QC" title="Quebec" rel="drpProvinceOverlay">Quebec</a></li><li><a href="" option="BC" title="British Columbia" rel="drpProvinceOverlay">British Columbia</a></li><li><a href="" option="ON" title="Ontario" rel="drpProvinceOverlay">Ontario</a></li><li><a href="" option="YT" title="Yukon Territory" rel="drpProvinceOverlay">Yukon Territory</a></li><li><a href="" option="PE" title="Prince Edward Island" rel="drpProvinceOverlay">Prince Edward Island</a></li><li><a href="" option="SK" title="Saskatchewan" rel="drpProvinceOverlay">Saskatchewan</a></li><li><a href="" option="MB" title="Manitoba" rel="drpProvinceOverlay">Manitoba</a></li><li><a href="" option="NB" title="New Brunswick" rel="drpProvinceOverlay">New Brunswick</a></li><li><a href="" option="NT" title="Northwest Territories" rel="drpProvinceOverlay">Northwest Territories</a></li><li><a href="" option="NS" title="Nova Scotia" rel="drpProvinceOverlay">Nova Scotia</a></li><li><a href="" option="NL" title="Newfoundland" rel="drpProvinceOverlay">Newfoundland</a></li></ul></div><select class="drp drpProvince accessAlt" id="drpProvinceOverlay" name="drpProvinceOverlay">
-                    <option value="0">Province</option>
-                    
-                            <option value="AB">Alberta</option>
-                        
-                            <option value="QC">Quebec</option>
-                        
-                            <option value="BC">British Columbia</option>
-                        
-                            <option value="ON">Ontario</option>
-                        
-                            <option value="YT">Yukon Territory</option>
-                        
-                            <option value="PE">Prince Edward Island</option>
-                        
-                            <option value="SK">Saskatchewan</option>
-                        
-                            <option value="MB">Manitoba</option>
-                        
-                            <option value="NB">New Brunswick</option>
-                        
-                            <option value="NT">Northwest Territories</option>
-                        
-                            <option value="NS">Nova Scotia</option>
-                        
-                            <option value="NL">Newfoundland</option>
-                        
-                </select>
-                <div class="drpCustom drp drpProvince drpCity"><div class="current">City</div><ul id="new_drpCityOverlay" class="drpList accessAlt"><li class="active"><a href="" option="0" title="City" rel="drpCityOverlay">City</a></li></ul></div><select class="drp drpProvince drpCity accessAlt" id="drpCityOverlay" name="drpCityOverlay">
-                    <option value="0">City</option>
-                </select>
-                <a id="ctl00_ctl00_StoreLocator_btOkProvince" class="btOK" href="javascript:__doPostBack('ctl00$ctl00$StoreLocator$btOkProvince','')">Ok</a>
-            </div>
-        </div>
-        <a class="storeList" href="/Locator/Default.aspx" title="See Full List of Stores">See Full List of Stores</a>
+       		<div style="position:relative; margin-top:100px; margin-left:20px;"><a class="storeList" href="/Locator/Default.aspx" title="See Full List of Stores">See Full List of Stores</a></div>
     </div>
 </div>
-    </form>
+    
     <script type="text/javascript">
     var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
     document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -1140,4 +1193,4 @@
     </script>
 
 
-</body></html>
+</div></form></body></html>
