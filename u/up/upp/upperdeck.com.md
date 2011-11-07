@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510003617id_/http%3A//www.upperdeck.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperdeck.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107184837id_/http%3A//www.upperdeck.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The Upper Deck Company | Privary Policy
 
