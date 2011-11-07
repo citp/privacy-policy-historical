@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the qwikstep.eu privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627081727id_/http%3A//qwikstep.eu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qwikstep.eu privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107085432id_/http%3A//qwikstep.eu/privacy.html) for the most accurate reproduction.*
 
-# QwickStep Answers Search Engine
+# AskPanda Answers Search Engine
 
 **QwickStep Answers Search Engine** and associated companies and affiliated companies hereinafter to be collectively reffered to as **QwickStep Answers Search Engine** through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site.
 
