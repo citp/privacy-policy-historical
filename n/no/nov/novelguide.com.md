@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227101505id_/http%3A//www.novelguide.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the novelguide.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107152029id_/http%3A//novelguide.com/privacy_statement.html) for the most accurate reproduction.*
 
-# NovelGuide: Privacy Statement
+# Privacy Statement | Novelguide
 
 **Privacy Statement for Novelguide**
 
@@ -14,17 +14,15 @@ We use an outside ad company to display ads on our site. Ads may contain cookies
 
  **Security**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. **Ads**
 
- **Ads**
+NovelGuide works with third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, see the [ Digital Advertising Alliance’s ](http://www.aboutads.info/choices/)or[ Network Advertising Initiative’s ](http://www.networkadvertising.org/managing/opt_out.asp)website.
 
-NovelGuide works with third parties that serve ads to this site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by doubleclick, click [here](http://www.sonar.com/naiprivacy).
-
- **Children's Guidelines**
+**Children's Guidelines**
 
 This Web site meets the guidelines of TRUSTe's Children's program.
 
-1.NOT collect online contact information without prior parental consent or parental notification, which will include an opportunity  
+1.NOT collect online contact information without prior parental consent or parental notification, which will i an opportunity  
 for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online  
 information will only be used to respond directly to the child's request and will not be used for other purposes without prior  
 parental consent  
@@ -43,8 +41,6 @@ If you would like to remove your information from our database to not receive fu
 
  **Correct/Update**
 
-This site gives users the option for changing and modifying information previously provided. You can send email to [admin@Novelguide.com](mailto:admin@novelguide.com?Subject=Novelguide%20Question)
-
- **Contacting the Web Site**
+This site gives users the option for changing and modifying information previously provided. You can send email to [admin@Novelguide.com](mailto:admin@novelguide.com?Subject=Novelguide%20Question) **Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact [webmaster@novelguide.com](mailto:webmaster@novelguide.com?Subject=Novelguide%20Question)
