@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acer.com.au privacy policy that was archived on 2011-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110504232609id_/http%3A//www.acer.com.au/ac/en/AU/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acer.com.au privacy policy that was archived on 2011-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107074204id_/http%3A//www.acer.com.au/ac/en/AU/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html class="html"><head><base href="http://www.acer.com.au/ac/"> 
 
@@ -14,11 +14,11 @@
 				<title>Privacy</title>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		
-		
-				<link rel="stylesheet" type="text/css" href="http://static.acer.com/up/Resource/templateLibraries/Acer/css/Acer.css">
-			<!--[if IE 7]>
+		<!--[if IE 7]>
 				<link rel="stylesheet" type="text/css" href="http://static.acer.com/up/Resource/templateLibraries/Acer/css/B_Acer_IE7.css" />
 			<![endif]-->
+				<link rel="stylesheet" type="text/css" href="http://static.acer.com/up/Resource/templateLibraries/Acer/css/Acer.css">
+			
 				<link rel="stylesheet" type="text/css" href="http://static.acer.com/up/Resource/templateLibraries/Acer/css/jquery-ui-1.8.5.custom.css">
 			
 				<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://static.acer.com/up/Resource/templateLibraries/scripts/Aprototype.js"></script> 
@@ -47,7 +47,7 @@
 				  _gaq.push(['_setDomainName', 'none']);
 				  _gaq.push(['_setAllowLinker', true]);
 				  _gaq.push(['_trackPageview']);
-				
+	
 				  (function() {
 				    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 				    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
@@ -55,7 +55,51 @@
 				  })();
 				</script>
 		
-		 
+		
+		
+		<style>
+			.survey-btn { color:#FFF; cursor:pointer; float:left; height:27px; background:url("http://static.acer.com/up/Resource/templateLibraries/Acer/images/bg_button_right.png") no-repeat right 0; }
+			.survey-btn h5 { margin:0 30px 0 0; padding:0 0 0 10px; float:left; line-height:27px; background:url("http://static.acer.com/up/Resource/templateLibraries/Acer/images/bg_button_left.png") no-repeat left 0; }
+			.survey-btn span { display:block; padding:0 10px 0 0; font-size:16px; font-weight:bold; height:27px; line-height:27px; margin:0; background:url("http://static.acer.com/up/Resource/templateLibraries/Acer/images/bg_button_repeatx.png") repeat-x 0 0; }
+			.survey-btn a { color:#FFF; text-decoration:none; }
+		</style>
+		<div id="inline1" style="display:none;position:absolute; top:0; left:0; width:100%; height:100%; background: rgba(0, 0, 0, 0.6); z-index:10000; ">
+
+			<div style="width:450px;height:250px; position:relative; top:50%; left:50%; margin-top: -150px; margin-left: -250px; z-index:20000; background:#fff; padding:25px; ">
+				<h1 style="font-size:28px; line-height:50px;color:#666;">Survey</h1>
+				<p style="margin:20px 0; ">
+					Thank you for visiting Acer website 
+				</p>
+				<p style="margin:20px 0;">
+					You have been randomly selected to take part in our brief survey. Please take a few minutes to give us your opinions. Your feedback will help us enhance our site to serve you better in the future.
+	 
+				</p>
+				<p style="margin:20px 0;">
+					</p><div class="survey-btn">
+						<h5><a href="http://www.acer.com.au/ac/en/AU/content/feedbacks?p=572818&amp;sg=656ddae5c2f1" target="_new"><span>Yes, I'll take the survey</span></a></h5>
+					</div> <span class="x" style="line-height:27px; vertical-align:middle; cursor:pointer; margin-left:25px; text-decoration:underline;">No, thank you</span>
+				<p></p>
+				<p style="margin:20px 0;">
+					All results are strictly confidential.
+				</p>
+				<div class="x" style="position:absolute; right:-15px; top:-15px; width:30px; height:30px;cursor:pointer; background:url(http://static.acer.com/up/Resource/templateLibraries/Acer/images/survey/close.png)"></div>
+			</div>
+			
+		</div>
+			
+
+		<script>
+			jQuery(".x").click( function() {jQuery("#inline1").hide()})
+			jQuery(".survey-btn").click( function() {location.reload();})
+			//jQuery("#inline1").show();
+			/*
+			if (typeof showSurvey === 'undefined' && showSurvey == true)
+				jQuery("#inline1").show();
+			*/
+			if (survey())
+				jQuery("#inline1").show();
+		</script>
+		
 	
 	
 	<div class="web-header">
@@ -90,13 +134,6 @@
 								
     		<li class="product web-menuitem ">
     			<a href="en/AU/content/group/netbooks" class="label">Netbooks</a>
-    			
-    		</li>
-    	
-					
-								
-    		<li class="product web-menuitem ">
-    			<a href="en/AU/content/group/smartphones" class="label">Smartphones</a>
     			
     		</li>
     	
@@ -470,7 +507,7 @@
 			<div class="web-footer-menu">
 				<div class="left"></div>
 				<div class="changecountry">
-					<span class="rep"><a href="http://www.acer.com/worldwide/">Change language</a></span>
+					<span class="rep"><a href="http://www.acer.com/worldwide/">Australia</a></span>
 					<span class="close"></span>
 				</div>
 				<ul>
