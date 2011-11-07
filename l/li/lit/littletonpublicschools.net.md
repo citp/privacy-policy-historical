@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littletonpublicschools.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228113253id_/http%3A//littletonpublicschools.net/Default.aspx%3Ftabid%3D36%26ctl%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littletonpublicschools.net privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107174552id_/http%3A//www.littletonpublicschools.net/Default.aspx%3Ftabid%3D36%26ctl%3DPrivacy) for the most accurate reproduction.*
 
 # Littleton Public Schools - Littleton, CO
 
