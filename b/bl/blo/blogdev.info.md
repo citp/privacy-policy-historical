@@ -1,0 +1,18 @@
+> *The following text is extracted and transformed from the blogdev.info privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107085947id_/http%3A//www.blogdev.info/category/security-privacy) for the most accurate reproduction.*
+
+# Security-privacy | Development Blog
+
+Whenever you surf online it is possible to learn information about you even when you don’t want to show who you are. This is true even if your computer contains no virus or malware software. Specifically information that is easily available online includes your IP address, your country (and often more place information based on IP address), what environment you are on, what web browser you use, your browser history, and other information. It gets bad. People can get your system’s name and even find out your name if your machine supports fingering programs. Cookies can track your browsing habits as you move from machine to machine.
+
+Now how do people get this basic information about your computer?  
+When you visit some web site, information about you can be extracted from signatures your computer system sends for communication. Basically, information is intercepted from those signatures and used by others to track your Internet activities. But you can stop people from getting information about you while you are browsing.
+
+Yes, it is possible to browse internet invisible and thereby stop others to find information about your PC. Note that this is not 100% fool-proof, but it makes it much harder for people to know who you are and from where you belong. There are servers called anonymous proxy servers that help protect your privacy while browsing. The anonymous proxy server replaces your Internet address for its own. This has the effect of hiding your IP address and making it much harder for people to track your information from your signature. How do I get an anonymous proxy server?  
+There are many anonymous servers available on internet. They get in both free and pro flavors. The main job of anonymous server is to keep your privacy safe online and it does its job properly. You can opt for paid anonymous server or you can opt a free one. Search on Yahoo with query proxy server and you’ll get extensive list of them. But if you buy a proxy server service then you are supposed to get support if you encounter any problem and if you are free there’s no way you can complain about service.
+
+Now you might have a query does an anonymous proxy server make you 100% anonymous ?  
+And the answer is no but its still a awesome technology to keep you safe online. Other than just anonymous proxy servers you can use Onion Routing protocol browser or VPN for total anonymity. Both free and paid VPN services are available, you can opt your choice. For Onion Routing browser you can use The Onion Routing Browser TOR, search for “Total anonymity project TOR” on search Engine or download TOR.
+
+Three other thing that you should to keep your information safe while online is use encrypted connection. For more information on anonymous surfing you can read [anonymous browsing](http://www.blogdev.info/read_more/anonymous_browsing/1260/1). To read more from me visit [Learn How To Hack](http://www.blogdev.info/read_more/Learn_How_To_Hack/1260/2). Thanks for reading and have a nice time.
+
+### Share and Enjoy
