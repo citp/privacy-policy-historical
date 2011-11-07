@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2010-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101228124003id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolbuster.net privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107173420id_/http%3A//www.coolbuster.net/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | COOLBUSTER.net
 
@@ -51,4 +51,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-▼ [Read More](http://www.coolbuster.net/p/privacy-policy.html)
+› [Read More](http://www.coolbuster.net/p/privacy-policy.html)
