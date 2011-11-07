@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the emthemes.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623112110id_/http%3A//www.emthemes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emthemes.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107115245id_/http%3A//www.emthemes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Magento Themes / Magento Templates / Magento Design / Magento Custom Development
+# Privacy Policy - EMThemes
 
 EMThemes ("Extreme Magento") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, www.emthemes.com on the World Wide Web (the "Site"), as well as for EMThemes services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete EMThemes Privacy Policy.
 
