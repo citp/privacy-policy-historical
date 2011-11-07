@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2011-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110321212750id_/http%3A//www.toggl.com/public/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggl.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107025820id_/https%3A//www.toggl.com/public/privacy_policy) for the most accurate reproduction.*
 
 # Toggl - Time tracking that works
 
