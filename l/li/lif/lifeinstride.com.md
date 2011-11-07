@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeinstride.com privacy policy that was archived on 2011-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110424052429id_/http%3A//www.lifeinstride.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeinstride.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107162757id_/http%3A//www.lifeinstride.com/privacy.php) for the most accurate reproduction.*
 
 # Life in Stride - Helping You Live Your Life!
 
