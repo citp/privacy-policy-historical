@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2011-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110623012958id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepostsite.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107011248id_/http%3A//www.freepostsite.com/index.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Post Site dot com
 
 |    
 
 
-#### Latest Free Posts - [Show As List](https://web.archive.org/index.php?do=latest)
+#### Latest Free Posts - [Show Full View](https://web.archive.org/index.php?do=latest)
 
 | 
 
