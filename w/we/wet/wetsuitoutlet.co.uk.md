@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2011-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110510122025id_/http%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetsuitoutlet.co.uk privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107082214id_/http%3A//www.wetsuitoutlet.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Wetsuit Outlet
 
