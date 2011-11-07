@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2011-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110417220808id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monoprice.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107013522id_/http%3A//www.monoprice.com/home/home.asp%3Fpn%3Dprivacy) for the most accurate reproduction.*
 
 # HDMI Cable, Home Theater Accessories, HDMI Products, Cables, Adapters, Video/Audio Switch, Networking, USB, Firewire, Printer Toner, and more!
 
