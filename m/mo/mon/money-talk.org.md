@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-talk.org privacy policy that was archived on 2011-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110626001757id_/http%3A//www.money-talk.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-talk.org privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107013709id_/http%3A//www.money-talk.org/privacy.html) for the most accurate reproduction.*
 
 # Money Talk :: Privacy Policy
 
