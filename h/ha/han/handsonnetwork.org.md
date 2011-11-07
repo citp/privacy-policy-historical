@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2011-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110508202020id_/http%3A//www.handsonnetwork.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handsonnetwork.org privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107084311id_/http%3A//www.handsonnetwork.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **  PRIVACY POLICY**
 
-_**Last Updated 1/13/2011**_
+_**Last Updated 7/27/2011**_
 
 At HandsOn Network, Inc. (“we,” “us,” “our” and “HON”), your right to privacy is a primary concern. This privacy policy explains how the information you provide to HON during your use of this website, handsonnetwork.org (the “Site”) is protected by us.
 
@@ -57,3 +57,7 @@ To protect your privacy and security, we will take reasonable steps to help veri
 **How to Contact Us**
 
 If you have any questions or concerns about the online policy for this Site or its implementation please **[contact us](mailto:info@handsonnetwork.org)**.
+
+**Terms of Use**
+
+Click **[here](http://handsonnetwork.org/termsofuse)** for our Terms of Use.
