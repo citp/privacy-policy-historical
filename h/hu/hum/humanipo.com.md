@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humanipo.com privacy policy that was archived on 2010-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101211144255id_/http%3A//www.humanipo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanipo.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107113142id_/http%3A//www.humanipo.com/privacy-policy) for the most accurate reproduction.*
 
-# HumanIPO
+# Privacy policy | HumanIPO
 
 We are committed to protecting user privacy. This Privacy Policy is designed to tell you about our practices in relation to the collection, use, and storage of information that you may provide via this Website at www.humanipo.com (hereinafter referred to as **"Website"** ). Please be sure to read this entire Privacy Policy before using or submitting information to this Website.
 
@@ -44,7 +44,7 @@ By using a credit card to pay for your order, you confirm that the card being us
 
 When you pay the monthly fee or for using any other services provided by HumanIPO, we ask you to provide information related to each transaction, consisting of your full name, contact information (address, phone number, email), the amount of the transaction, and the type of the credit card you use for the transaction and the verification code of your card. We retain this information for each of your transactions through HumanIPO and may add this information to your account profile to be used for future transactions that you may make with us. We also collect the Internet address (IP address) and other identifying information about the computer or device you use to access your HumanIPO account, in order to help detect possible instances of unauthorized transactions.
 
-In the unlikely event of fraudulent or unauthorized use of your payment card by someone else to purchase goods from us on our server we will refund to you any money received by us as a result but only if you have notified your payment card issuer and us by emailing us on support@humanipo.com as soon as you became aware of the unauthorized use of your card.
+In the unlikely event of fraudulent or unauthorized use of your payment card by someone else to purchase goods from us on our server we will refund to you any money received by us as a result but only if you have notified your payment card issuer and us by emailing us on [support@humanipo.com](mailto:support@humanipo.com) as soon as you became aware of the unauthorized use of your card.
 
 We recommend that you do not communicate your payment card details to anyone, including us, by e-mail. We cannot be responsible for any losses you may incur in transmitting information to us by internet link or by e-mail. Any such loss shall not be borne either wholly or partly by us, and shall be entirely your responsibility.
 
@@ -82,18 +82,16 @@ We will only collect, use or disclose information that personally identifies you
 
 #### Other Terms
 
-Your use of this Website is subject to our Terms and Conditions. Please follow this link to view our [Terms and Conditions](http://www.humanipo.com/terms.php).
+Your use of this Website is subject to our Terms and Conditions. Please follow this link to view our [Terms and Conditions](http://www.humanipo.com/terms).
 
 #### How to Contact Us
 
 If you have any questions, comments, or concerns about this Privacy Policy, or would like to read, amend or delete any of your personal information, please contact us as follows:
 
-Email: humanipo@humanipo.com
-
-Post:  
+Email: [humanipo@humanipo.com](mailto:humanipo@humanipo.com)  
 HumanIPO OÜ  
 Rotermanni 5-33  
 Tallinn 10111  
-Estonia 
+Estonia
 
 _This Privacy Policy was last updated on 05 April 2010._
