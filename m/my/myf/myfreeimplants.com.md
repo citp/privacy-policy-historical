@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the myfreeimplants.com privacy policy that was archived on 2010-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101126131750id_/http%3A//myfreeimplants.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreeimplants.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107011906id_/http%3A//myfreeimplants.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MyFreeImplants.com
-
-## Privacy Policy
+# Free Breast Implants, Free Boob Job, Free Plastic Surgery Financing. MyFreeImplants.com
 
 Thank you for visiting MyFreeImplants.com. This Privacy Policy sets forth the online information practices of MyFreeImplants including:
 
@@ -36,8 +34,8 @@ We may share personally-identifiable information with select third parties, incl
 MyFreeImplants provides you with the following choices regarding the use of your information:
 
   * You may choose to not provide us with any contact information. However, if you do so, your ability to navigate this site may be impaired.
-  * If you would like to change or modify information you have previously provided us, please [contact us](https://web.archive.org/web/20101126131750id_/http%3A//myfreeimplants.com/contact.asp).
-  * If you have any questions about this privacy policy or the practices of our web site, please [contact us](https://web.archive.org/web/20101126131750id_/http%3A//myfreeimplants.com/contact.asp).
+  * If you would like to change or modify information you have previously provided us, please contact us.
+  * If you have any questions about this privacy policy or the practices of our web site, please contact us.
 
 
 
@@ -45,4 +43,4 @@ MyFreeImplants provides you with the following choices regarding the use of your
 If we decide to change our privacy policy, we will post those changes on our website so you will always be aware of what information we collect, how we use it, and under what circumstances we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
 
 **SECURITY**  
-We make every effort to have reasonable security procedures in place to protect against the loss, misuse or alteration of information under our control. If you have any questions about the security of our web site or about this privacy policy, please [contact us](https://web.archive.org/web/20101126131750id_/http%3A//myfreeimplants.com/contact.asp).
+We make every effort to have reasonable security procedures in place to protect against the loss, misuse or alteration of information under our control. If you have any questions about the security of our web site or about this privacy policy, please contact us.
