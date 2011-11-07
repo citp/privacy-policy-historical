@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pcconnectionexpress.com privacy policy that was archived on 2010-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101229072013id_/http%3A//www.pcconnectionexpress.com/IPA/Content/About/Legal/PCCEXP/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcconnectionexpress.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107051256id_/http%3A//www.pcconnectionexpress.com/IPA/Content/About/Legal/PCCEXP/PrivacyPolicy.htm) for the most accurate reproduction.*
 
-# PC Connection Express - Privacy Policy
+# Privacy Policy - PC Connection Express
 
   
 We're committed to protecting your right to privacy. This Privacy Policy describes how we manage the personal information we collect while doing business. This Privacy Policy covers only information that is collected through the pcconnectionexpress.com web site or other web site addresses that are operated by the Company. This Privacy Policy does not cover information that may be collected through other web sites accessible through our Site or through software downloaded from our Site.
