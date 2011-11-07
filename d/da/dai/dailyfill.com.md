@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyfill.com privacy policy that was archived on 2010-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101225032506id_/http%3A//www.dailyfill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyfill.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107074103id_/http%3A//www.dailyfill.com/privacy) for the most accurate reproduction.*
 
 # DailyFill: Privacy Policy
 
