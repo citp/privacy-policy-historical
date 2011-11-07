@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getpregnant-fast.com privacy policy that was archived on 2010-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100513022947id_/http%3A//getpregnant-fast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getpregnant-fast.com privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108002546id_/http%3A//getpregnant-fast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Get Pregnant Fast
 
