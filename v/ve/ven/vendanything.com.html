@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vendanything.com privacy policy that was archived on 2011-05-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110510095248id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vendanything.com privacy policy that was archived on 2011-11-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20111107185108id_/http%3A//www.vendanything.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en"><head>
 	<base href="http://www.vendanything.com/">
@@ -38,10 +38,10 @@
 	<script type="text/javascript">
 	<!--
 	function win(fileName) {
-		myFloater = window.open('','myWindow','scrollbars=yes,status=no,width=300,height=300')
+		myFloater = window.open('','myWindow','scrollbars=yes,status=no,width=300,height=300');
 		myFloater.location.href = fileName;
 		
-		if (window.focus) {myFloater.focus()}
+		if (window.focus) {myFloater.focus();}
 		
 	}
 	function winimage(fileName,width,height) {
@@ -166,24 +166,29 @@ text-decoration: underline;
 
 	function handleResponse() {
 		if(http.readyState == 4) {
-      var response = http.responseText;
-      var update = new Array();
-      if(response.indexOf('|') != -1) {
-        update = response.split('|');
-        if(debug) {
+			var response = http.responseText;
+			var update = new Array();
+			var sep = '|';
+			if (response.indexOf('~~|~~') != -1){
+				sep = '~~|~~';
+			}
+			if(response.indexOf(sep) != -1) {
+				update = response.split(sep);
+				if(debug) {
 					alert('Debug: \n\t'+status+'\n\nupdate[0] = '+update[0]+'\n\nupdate[1] = '+update[1]);
 					status = '';
 				}
+				//allow applying text to up to 4 different elements.
 				if (document.getElementById(update[1]))
-		      document.getElementById(update[1]).innerHTML = update[0];
-		    if (document.getElementById(update[2]))
-		    	document.getElementById(update[2]).innerHTML = update[0];
-		    if (document.getElementById(update[3]))
-		    	document.getElementById(update[3]).innerHTML = update[0];
-		    if (document.getElementById(update[4]))
-		    	document.getElementById(update[4]).innerHTML = update[0];
+					document.getElementById(update[1]).innerHTML = update[0];
+				if (document.getElementById(update[2]))
+					document.getElementById(update[2]).innerHTML = update[0];
+				if (document.getElementById(update[3]))
+					document.getElementById(update[3]).innerHTML = update[0];
+				if (document.getElementById(update[4]))
+					document.getElementById(update[4]).innerHTML = update[0];
 			} else if(debug)
-					alert ('Debug: \n\t'+status+'\n\n'+response);
+				alert ('Debug: \n\t'+status+'\n\n'+response);
 		}
 	}
 </script>
@@ -305,7 +310,7 @@ window.external.addFavorite(location,title);
 						<td><img alt="" src="images/blank.gif" width="20"></td>
 						<td><img alt="" src="images/bullet2.gif" style="border: 0px"><a href="javascript: make_bookmark();">Bookmark Site</a></td>
 						<td><img alt="" src="images/blank.gif" width="20"></td>
-						<td><img alt="" src="images/bullet2.gif" style="border: 0px"><a href="http://www.vendanything.com/index.php?a=28&amp;b=145#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage(document.location.href);">Make Homepage</a></td>
+						<td><img alt="" src="images/bullet2.gif" style="border: 0px"><a href="#" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage(document.location.href);">Make Homepage</a></td>
 					</tr>
 				</tbody>
 			</table>
@@ -377,75 +382,75 @@ window.external.addFavorite(location,title);
 						<td><table cellpadding="2" cellspacing="1" style="border-style: none; width: 100%;">
 	
 <tbody><tr>
-	<td style="width: 100%;"><a href="index/listings/category255.htm" class="main_navigation_1_name">Aircraft</a><a href="index/listings/category255.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category255.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=255" class="main_navigation_1_name">Aircraft</a><a href="index.php?a=5&amp;b=255" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=255" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category12.htm" class="main_navigation_1_name">Announcements </a><a href="index/listings/category12.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category12.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=12" class="main_navigation_1_name">Announcements </a><a href="index.php?a=5&amp;b=12" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=12" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category11.htm" class="main_navigation_1_name">Antiques </a><a href="index/listings/category11.htm" class="main_navigation_1_ad_count">(6)</a><a href="index/listings/category11.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=11" class="main_navigation_1_name">Antiques </a><a href="index.php?a=5&amp;b=11" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=11" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category238.htm" class="main_navigation_1_name">Apparel</a><a href="index/listings/category238.htm" class="main_navigation_1_ad_count">(15)</a><a href="index/listings/category238.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=238" class="main_navigation_1_name">Apparel</a><a href="index.php?a=5&amp;b=238" class="main_navigation_1_ad_count">(18)</a><a href="index.php?a=5&amp;b=238" class="main_navigation_1_auction_count">(1)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category161.htm" class="main_navigation_1_name">Arts &amp; Crafts </a><a href="index/listings/category161.htm" class="main_navigation_1_ad_count">(9)</a><a href="index/listings/category161.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=161" class="main_navigation_1_name">Arts &amp; Crafts </a><a href="index.php?a=5&amp;b=161" class="main_navigation_1_ad_count">(9)</a><a href="index.php?a=5&amp;b=161" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category15.htm" class="main_navigation_1_name">Automobiles </a><a href="index/listings/category15.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category15.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=15" class="main_navigation_1_name">Automobiles </a><a href="index.php?a=5&amp;b=15" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=15" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category262.htm" class="main_navigation_1_name">Boats</a><a href="index/listings/category262.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category262.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=262" class="main_navigation_1_name">Boats</a><a href="index.php?a=5&amp;b=262" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=262" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category261.htm" class="main_navigation_1_name">Motorcycles</a><a href="index/listings/category261.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category261.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=261" class="main_navigation_1_name">Motorcycles</a><a href="index.php?a=5&amp;b=261" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=261" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category176.htm" class="main_navigation_1_name">Books </a><a href="index/listings/category176.htm" class="main_navigation_1_ad_count">(16)</a><a href="index/listings/category176.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=176" class="main_navigation_1_name">Books </a><a href="index.php?a=5&amp;b=176" class="main_navigation_1_ad_count">(7)</a><a href="index.php?a=5&amp;b=176" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category13.htm" class="main_navigation_1_name">Business </a><a href="index/listings/category13.htm" class="main_navigation_1_ad_count">(46)</a><a href="index/listings/category13.htm" class="main_navigation_1_auction_count">(1)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=13" class="main_navigation_1_name">Business </a><a href="index.php?a=5&amp;b=13" class="main_navigation_1_ad_count">(34)</a><a href="index.php?a=5&amp;b=13" class="main_navigation_1_auction_count">(1)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category177.htm" class="main_navigation_1_name">Cell Phones </a><a href="index/listings/category177.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category177.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=177" class="main_navigation_1_name">Cell Phones </a><a href="index.php?a=5&amp;b=177" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=177" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category217.htm" class="main_navigation_1_name">Collectibles</a><a href="index/listings/category217.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category217.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=217" class="main_navigation_1_name">Collectibles</a><a href="index.php?a=5&amp;b=217" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=217" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category218.htm" class="main_navigation_1_name">Commercial Vehicles</a><a href="index/listings/category218.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category218.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=218" class="main_navigation_1_name">Commercial Vehicles</a><a href="index.php?a=5&amp;b=218" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=218" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category160.htm" class="main_navigation_1_name">Computers &amp; Software</a><a href="index/listings/category160.htm" class="main_navigation_1_ad_count">(27)</a><a href="index/listings/category160.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=160" class="main_navigation_1_name">Computers &amp; Software</a><a href="index.php?a=5&amp;b=160" class="main_navigation_1_ad_count">(11)</a><a href="index.php?a=5&amp;b=160" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category10.htm" class="main_navigation_1_name">Electronics </a><a href="index/listings/category10.htm" class="main_navigation_1_ad_count">(11)</a><a href="index/listings/category10.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=10" class="main_navigation_1_name">Electronics </a><a href="index.php?a=5&amp;b=10" class="main_navigation_1_ad_count">(7)</a><a href="index.php?a=5&amp;b=10" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category237.htm" class="main_navigation_1_name">Furniture</a><a href="index/listings/category237.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category237.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=237" class="main_navigation_1_name">Furniture</a><a href="index.php?a=5&amp;b=237" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=237" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category242.htm" class="main_navigation_1_name">Home Appliances</a><a href="index/listings/category242.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category242.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=242" class="main_navigation_1_name">Home Appliances</a><a href="index.php?a=5&amp;b=242" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=242" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category235.htm" class="main_navigation_1_name">Jewelry</a><a href="index/listings/category235.htm" class="main_navigation_1_ad_count">(3)</a><a href="index/listings/category235.htm" class="main_navigation_1_auction_count">(9)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=235" class="main_navigation_1_name">Jewelry</a><a href="index.php?a=5&amp;b=235" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=235" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category212.htm" class="main_navigation_1_name">Jobs</a><a href="index/listings/category212.htm" class="main_navigation_1_ad_count">(44)</a><a href="index/listings/category212.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=212" class="main_navigation_1_name">Jobs</a><a href="index.php?a=5&amp;b=212" class="main_navigation_1_ad_count">(71)</a><a href="index.php?a=5&amp;b=212" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category162.htm" class="main_navigation_1_name">Music &amp; Movies </a><a href="index/listings/category162.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category162.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=162" class="main_navigation_1_name">Music &amp; Movies </a><a href="index.php?a=5&amp;b=162" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=162" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category247.htm" class="main_navigation_1_name">Musical Instruments</a><a href="index/listings/category247.htm" class="main_navigation_1_ad_count">(3)</a><a href="index/listings/category247.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=247" class="main_navigation_1_name">Musical Instruments</a><a href="index.php?a=5&amp;b=247" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=247" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category17.htm" class="main_navigation_1_name">Personals </a><a href="index/listings/category17.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category17.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=17" class="main_navigation_1_name">Personals </a><a href="index.php?a=5&amp;b=17" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=17" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category216.htm" class="main_navigation_1_name">Pets</a><a href="index/listings/category216.htm" class="main_navigation_1_ad_count">(4)</a><a href="index/listings/category216.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=216" class="main_navigation_1_name">Pets</a><a href="index.php?a=5&amp;b=216" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=216" class="main_navigation_1_auction_count">(1)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category16.htm" class="main_navigation_1_name">Real Estate - Sale</a><a href="index/listings/category16.htm" class="main_navigation_1_ad_count">(16)</a><a href="index/listings/category16.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=16" class="main_navigation_1_name">Real Estate - Sale</a><a href="index.php?a=5&amp;b=16" class="main_navigation_1_ad_count">(15)</a><a href="index.php?a=5&amp;b=16" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category248.htm" class="main_navigation_1_name">Real Estate - Rent</a><a href="index/listings/category248.htm" class="main_navigation_1_ad_count">(4)</a><a href="index/listings/category248.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=248" class="main_navigation_1_name">Real Estate - Rent</a><a href="index.php?a=5&amp;b=248" class="main_navigation_1_ad_count">(8)</a><a href="index.php?a=5&amp;b=248" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category205.htm" class="main_navigation_1_name">Recreational<br>Vehicles</a><a href="index/listings/category205.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category205.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=205" class="main_navigation_1_name">Recreational<br>Vehicles</a><a href="index.php?a=5&amp;b=205" class="main_navigation_1_ad_count">(0)</a><a href="index.php?a=5&amp;b=205" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category14.htm" class="main_navigation_1_name">Vacation Rentals </a><a href="index/listings/category14.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category14.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=14" class="main_navigation_1_name">Vacation Rentals </a><a href="index.php?a=5&amp;b=14" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=14" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category241.htm" class="main_navigation_1_name">Services</a><a href="index/listings/category241.htm" class="main_navigation_1_ad_count">(328)</a><a href="index/listings/category241.htm" class="main_navigation_1_auction_count">(3)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=241" class="main_navigation_1_name">Services</a><a href="index.php?a=5&amp;b=241" class="main_navigation_1_ad_count">(104)</a><a href="index.php?a=5&amp;b=241" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category240.htm" class="main_navigation_1_name">Sporting Goods</a><a href="index/listings/category240.htm" class="main_navigation_1_ad_count">(7)</a><a href="index/listings/category240.htm" class="main_navigation_1_auction_count">(1)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=240" class="main_navigation_1_name">Sporting Goods</a><a href="index.php?a=5&amp;b=240" class="main_navigation_1_ad_count">(6)</a><a href="index.php?a=5&amp;b=240" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category170.htm" class="main_navigation_1_name">Tickets </a><a href="index/listings/category170.htm" class="main_navigation_1_ad_count">(0)</a><a href="index/listings/category170.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=170" class="main_navigation_1_name">Tickets </a><a href="index.php?a=5&amp;b=170" class="main_navigation_1_ad_count">(1)</a><a href="index.php?a=5&amp;b=170" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category254.htm" class="main_navigation_1_name">Tools and Equipment</a><a href="index/listings/category254.htm" class="main_navigation_1_ad_count">(11)</a><a href="index/listings/category254.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=254" class="main_navigation_1_name">Tools and Equipment</a><a href="index.php?a=5&amp;b=254" class="main_navigation_1_ad_count">(2)</a><a href="index.php?a=5&amp;b=254" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category239.htm" class="main_navigation_1_name">Toys &amp; Games</a><a href="index/listings/category239.htm" class="main_navigation_1_ad_count">(1)</a><a href="index/listings/category239.htm" class="main_navigation_1_auction_count">(0)</a></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=239" class="main_navigation_1_name">Toys &amp; Games</a><a href="index.php?a=5&amp;b=239" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=239" class="main_navigation_1_auction_count">(0)</a></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category191.htm" class="main_navigation_1_name">Travel</a><a href="index/listings/category191.htm" class="main_navigation_1_ad_count">(15)</a><a href="index/listings/category191.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=191" class="main_navigation_1_name">Travel</a><a href="index.php?a=5&amp;b=191" class="main_navigation_1_ad_count">(8)</a><a href="index.php?a=5&amp;b=191" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category193.htm" class="main_navigation_1_name">Anything Else</a><a href="index/listings/category193.htm" class="main_navigation_1_ad_count">(11)</a><a href="index/listings/category193.htm" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=193" class="main_navigation_1_name">Anything Else</a><a href="index.php?a=5&amp;b=193" class="main_navigation_1_ad_count">(14)</a><a href="index.php?a=5&amp;b=193" class="main_navigation_1_auction_count">(0)</a><img src="images/misc/new_ad.gif" alt=""></td></tr>
 <tr>
-	<td style="width: 100%;"><a href="index/listings/category234.htm" class="main_navigation_1_name">Free Stuff</a><a href="index/listings/category234.htm" class="main_navigation_1_ad_count">(2)</a><a href="index/listings/category234.htm" class="main_navigation_1_auction_count">(1)</a><img src="images/misc/new_ad.gif" alt=""></td></tr></tbody></table> </td>
+	<td style="width: 100%;"><a href="index.php?a=5&amp;b=234" class="main_navigation_1_name">Free Stuff</a><a href="index.php?a=5&amp;b=234" class="main_navigation_1_ad_count">(3)</a><a href="index.php?a=5&amp;b=234" class="main_navigation_1_auction_count">(0)</a></td></tr></tbody></table> </td>
 					</tr>
 				</tbody>
 			</table>
