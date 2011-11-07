@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the n-sb.org privacy policy that was archived on 2011-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110612105844id_/http%3A//n-sb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the n-sb.org privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107065604id_/http%3A//n-sb.org/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | N-SB
-
-N-SB is committed to respecting your privacy. Please read the following privacy policy to understand how your personal information will be treated if it is collected through this Web site (the "Site") by N-SB. Except as explicitly provided herein, this Privacy Policy does not apply to the practices of companies that N-SB does not own or control, or to people that N-SB does not employ or manage. This Privacy Policy may change from time to time so please check back periodically.
-
-Any dispute over privacy is subject to this Privacy Policy and our [Terms of Service](https://web.archive.org/terms). Please note that the use of information that we gather is subject to the Privacy Policy in effect at the time of use. You should check this Site frequently to see recent changes in this Site's Privacy Policy and its Terms of Service.
-
-The current version of this Privacy Policy is dated November 1, 2010.
+# Privacy Policy | NSB
 
 1\. what personal information is collected from me?
 
