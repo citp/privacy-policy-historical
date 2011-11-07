@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509072322id_/http%3A//www.puregym.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puregym.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107013453id_/http%3A//www.puregym.com/privacy) for the most accurate reproduction.*
 
 # Pure Gym : 24 Hour Gym : Join Online Now
 
@@ -18,9 +18,7 @@ We will use your personal information to provide you with the services, products
 
 ## Do we use cookies?
 
-Pure Gym uses cookies to ensure that you can interact with our web site successfully, to identify you when you visit our web sites and to keep track of your browsing patterns. The use of cookies does not give us access to the rest of your computer.
-
-If you want to prevent our cookies being stored on your computer in future, you may do so by referring to your internet browser's instructions. Please note however that if you disable our cookies you may not be able to access certain services or facilities on our sites and your use of our sites may be restricted. 
+Pure Gym does not use cookies on this web site.
 
 ## How do we protect personal information?
 
