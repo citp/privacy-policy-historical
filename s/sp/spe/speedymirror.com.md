@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedymirror.com privacy policy that was archived on 2011-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110315082111id_/http%3A//www.speedymirror.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedymirror.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107092850id_/https%3A//www.speedymirror.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy | Speedy Mirror | Geo distributed cluster for your content
 
@@ -28,7 +28,7 @@ We can be reached by contacting:
 
 _Speedy Mirror Ltd._
 
-Email: [info@speedymirror.com](https://web.archive.org/web/20110315082111id_/http%3A//www.speedymirror.com/contact.php)
+Email: [info@speedymirror.com](https://web.archive.org/web/20111107092850id_/https%3A//www.speedymirror.com/contact.php)
 
 Changes to this Policy 
 
