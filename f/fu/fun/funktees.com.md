@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the funktees.com privacy policy that was archived on 2011-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110506063718id_/http%3A//www.funktees.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funktees.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107184058id_/http%3A//www.funktees.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Buy Online T Shirts, Funky T-Shirts by FunkTees
+# Privacy Policy | Buy Online T Shirts, FunkTees T-Shirts
 
 We respect your right to privacy. At funktees.com we collect only the information necessary for us to complete your order or to contact you regarding the status of your order. The information we collect includes your name, email address, shipping address, and billing address. Funk Tees does not store your credit card or online bank account information .
 
