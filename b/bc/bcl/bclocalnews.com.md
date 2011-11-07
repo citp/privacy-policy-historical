@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bclocalnews.com privacy policy that was archived on 2011-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110529100623id_/http%3A//www.bclocalnews.com/privacy_policy%3Fc%3Dy%26curSection%3D%26bc09%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bclocalnews.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107153458id_/http%3A//www.bclocalnews.com/privacy_policy%3Fc%3Dy%26curSection%3D%26bc09%3Dtrue) for the most accurate reproduction.*
 
 # BCLocalNews.com - Privacy Policy
 
@@ -30,4 +30,4 @@ We maintain reasonable physical, technical, and procedural measures to limit acc
 
 We reserve the right to change our privacy policies at any time, except as may be prohibited by law. We will post revisions online. Use of our websites or services or the purchase of products after posted changes means that you consent to the privacy policies as changed.
 
-[Contact us](http://www.bclocalnews.com/contact_us/?curSection=&returnPath=%2F&c=y) for more information about our privacy policies.
+[Contact us](https://web.archive.org/contact_us/) for more information about our privacy policies.
