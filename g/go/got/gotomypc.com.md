@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2011-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110526150410id_/http%3A//www.gotomypc.com/remote_access/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotomypc.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107171554id_/http%3A//www.gotomypc.com/remote_access/privacy) for the most accurate reproduction.*
 
 # GoToMyPC Privacy Statement | GoToMyPC
 
@@ -28,11 +28,11 @@ If you have questions or concerns regarding this statement, you should first con
 
 
 
-From time to time, Citrix Online may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see [item number 5](https://web.archive.org/web/20110526150410id_/http%3A//www.gotomypc.com/remote_access/g2p_q5) for more details.
+From time to time, Citrix Online may introduce new products and services. To the extent that these new products and services affect this policy, this policy will be updated. Please see [item number 5](https://web.archive.org/web/20111107171554id_/http%3A//www.gotomypc.com/remote_access/g2p_q5) for more details.
 
 **1\. What is GoToMyPC and why is my information needed?**
 
-The Citrix® GoToMyPC® remote-access service provides the registered user with remote access to the user's registered PC or Mac® computers from any web browser. Citrix Online makes the GoToMyPC service available under a number of different subscription plans. Because GoToMyPC is web based, it requires the use of first and last names, a password, a valid email address as a login, a billing address and a valid credit card to process payment for service. Therefore, at a minimum, we require such necessary information during the registration process. The TRUSTe program covers only information that is collected through this website and does not cover information that may be collected through software downloaded from this site.
+The Citrix® GoToMyPC® remote-access service provides the registered user with remote access to the user's registered PC or Mac computers from any web browser. Citrix Online makes the GoToMyPC service available under a number of different subscription plans. Because GoToMyPC is web based, it requires the use of first and last names, a password, a valid email address as a login, a billing address and a valid credit card to process payment for service. Therefore, at a minimum, we require such necessary information during the registration process. The TRUSTe program covers only information that is collected through this website and does not cover information that may be collected through software downloaded from this site.
 
 Back to top
 
