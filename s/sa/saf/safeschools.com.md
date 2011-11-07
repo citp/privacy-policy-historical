@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safeschools.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514223858id_/http%3A//www.safeschools.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeschools.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107063157id_/http%3A//www.safeschools.com/privacy.php) for the most accurate reproduction.*
 
 # SafeSchools Suggest a Topic
 
