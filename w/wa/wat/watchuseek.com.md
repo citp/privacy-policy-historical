@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchuseek.com privacy policy that was archived on 2011-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110514224827id_/http%3A//www.watchuseek.com/site/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchuseek.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107183411id_/http%3A//www.watchuseek.com/site/privacy.htm) for the most accurate reproduction.*
 
 # Watchuseek.com l Privacy policy
 
