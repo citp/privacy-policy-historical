@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcafeesaas.com privacy policy that was archived on 2011-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110520092619id_/http%3A//mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeesaas.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107150250id_/http%3A//mcafee.com/us/about/privacy.html) for the most accurate reproduction.*
 
 # McAfee Customer Privacy Policy | McAfee
 
