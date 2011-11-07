@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2011-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110509184353id_/http%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the domainsherpa.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107191501id_/http%3A//www.domainsherpa.com/privacy) for the most accurate reproduction.*
 
 # DomainSherpa Privacy Policy
 
@@ -68,4 +68,4 @@ DomainSherpa
 A Division of Web X.0 Media LLC  
 Attn: Privacy Agent  
 321 High School Rd NE, Suite D3-281  
-Bainbridge Island, WA 98110 
+Bainbridge Island, WA 98110
