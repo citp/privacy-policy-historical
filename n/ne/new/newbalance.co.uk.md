@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbalance.co.uk privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122200929id_/http%3A//www.newbalance.co.uk/cs/Satellite%3Fc%3DNewBal_Content_Asset%26childpagename%3Den_UK%252FNewBal_Layout%26cid%3D1222118529011%26packedargs%3Dapptype%253DSiteContent%2526fname%253DPrivacy%252BPolicy%2526locale%253Den_US%26pagename%3DNewBal_Wrapper) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.co.uk privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107192302id_/http%3A//www.newbalance.co.uk/SiteContent/Privacy%2BPolicy/1222118529011) for the most accurate reproduction.*
 
 # New Balance (UK) - SiteContent
 
@@ -30,7 +30,7 @@ While New Balance's policy prohibits children under 13 from registering with the
 
 **OPT-OUT; ACCESS/UPDATE**
 
-If after registering on or otherwise providing your personally identifiable information when visiting the Service you no longer wish to receive any commercial electronic mail messages, please send an email toÂ [customer.service@newbalance.com](mailto:customer.service@newbalance.com) Â indicating your preference to "unsubscribe" and we will promptly remove you from our list. Please be sure to include your name and email address in your email. Notwithstanding the foregoing, New Balance reserves the right to communicate to you any changes to this Privacy Policy or the Web Site Terms and Conditions.
+If after registering on or otherwise providing your personally identifiable information when visiting the Service you no longer wish to receive any commercial electronic mail messages, please send an email to [customer.service@newbalance.com](mailto:customer.service@newbalance.com)  indicating your preference to "unsubscribe" and we will promptly remove you from our list. Please be sure to include your name and email address in your email. Notwithstanding the foregoing, New Balance reserves the right to communicate to you any changes to this Privacy Policy or the Web Site Terms and Conditions.
 
 New Balance will give you access to the personally identifiable information New Balance has collected from you in order to allow you to review and update that information. If you would like to access your personally identifiable information, simply go to Club NB, provide us with your user name and password, and click on Update Profile.
 
@@ -40,10 +40,10 @@ The Service may provide links to other web sites on the internet, some of which 
 
 **CONTACT US**
 
-New Balance will take appropriate steps to protect all information you share with us. If you provide us with sensitive information of any sort, we will take reasonable steps to ensure a secure connection with your server. We are dedicated to protecting your personal information and welcome comments and questions on this policy. Please send an email to us atÂ [customer.service@newbalance.com](mailto:customer.service@newbalance.com) Â or write to us at the following address if you have any comments or questions about this Privacy Policy:
+New Balance will take appropriate steps to protect all information you share with us. If you provide us with sensitive information of any sort, we will take reasonable steps to ensure a secure connection with your server. We are dedicated to protecting your personal information and welcome comments and questions on this policy. Please send an email to us at [customer.service@newbalance.com](mailto:customer.service@newbalance.com)  or write to us at the following address if you have any comments or questions about this Privacy Policy:
 
 New Balance Athletic Shoe, Inc.  
 International Operations  
 Brighton Landing  
 20 Guest St.  
-Boston, MA 02135-2088
+Boston, MA 02135-2088 
