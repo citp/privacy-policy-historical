@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhupage.com privacy policy that was archived on 2011-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110628180125id_/http%3A//uhupage.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhupage.com privacy policy that was archived on 2011-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111107164108id_/http%3A//www.uhupage.com/cms.php%3Fid_cms%3D2) for the most accurate reproduction.*
 
 # Privacy Policy - UHU Template
 
